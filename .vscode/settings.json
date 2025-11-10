@@ -1,0 +1,6 @@
+{  // 优化 poems 文件夹的性能
+  "files.watcherExclude": {
+    "**/poems/**": true
+  },
+  "git.ignoredRepositories": ["**/poems/**"]
+}
