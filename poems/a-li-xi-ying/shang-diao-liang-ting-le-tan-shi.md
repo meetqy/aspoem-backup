@@ -1,7 +1,7 @@
 ---
 id: a-li-xi-ying-shang-diao-liang-ting-le-tan-shi
-title: 商调・凉亭乐叹世
-titlePinyin: shang1 diao4 ・ liang2 ting2 le4 tan4 shi4
+title: 商调·凉亭乐叹世
+titlePinyin: shang1 diao4 · liang2 ting2 le4 tan4 shi4
 titleSlug: shang-diao-liang-ting-le-tan-shi
 author: 阿里西瑛
 authorPinyin: a1 li3 xi1 ying1
