@@ -9,7 +9,7 @@ authorSlug: ceng-xie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: 诗,七言
 ---
 
 ## 正文
