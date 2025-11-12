@@ -1,7 +1,7 @@
 ---
 id: li-zhi-can-chun-you-gan-qi-er
-title: 殘春有感  其二
-titlePinyin: can2 chun1 you3 gan3     qi2 er4
+title: 殘春有感・其二
+titlePinyin: can2 chun1 you3 gan3・qi2 er4
 titleSlug: can-chun-you-gan-qi-er
 author: 李至
 authorPinyin: li3 zhi4
@@ -9,7 +9,7 @@ authorSlug: li-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: 诗,七言
 ---
 
 ## 正文
