@@ -9,7 +9,7 @@ authorSlug: cao-cao
 dynasty: 东汉末年
 dynastyPinyin: dong1 han4 mo4 nian2
 dynastySlug: dong-han-mo-nian
-tags: [] 
+tags: 诗,五言
 ---
 
 ## 正文
