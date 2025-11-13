@@ -1,0 +1,33 @@
+{
+  "name": "aspoem-backup",
+  "version": "1.0.0",
+  "description": "aspoem.com data backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetqy/aspoem-backup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPT",
+  "bugs": {
+    "url": "https://github.com/meetqy/aspoem-backup/issues"
+  },
+  "homepage": "https://github.com/meetqy/aspoem-backup#readme",
+  "dependencies": {
+    "lint-staged": "^16.2.6",
+    "prettier": "^3.6.2"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  },
+  "lint-staged": {
+    "*.{md}": [
+      "prettier --write"
+    ]
+  }
+}
