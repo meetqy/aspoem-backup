@@ -1,6 +1,13 @@
-{  // 优化 poems 文件夹的性能
+{
+  // 优化 poems 文件夹的性能
   "files.watcherExclude": {
     "**/poems/**": true
   },
-  "git.ignoredRepositories": ["**/poems/**"]
+  "git.ignoredRepositories": ["**/poems/**"],
+
+  // TypeScript 格式化配置
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
 }

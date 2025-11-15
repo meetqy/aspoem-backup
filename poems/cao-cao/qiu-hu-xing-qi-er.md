@@ -1,7 +1,7 @@
 ---
 id: cao-cao-qiu-hu-xing-qi-er
-title: 秋胡行 其二
-titlePinyin: qiu1 hu2 xing2   qi2 er4
+title: 秋胡行・其二
+titlePinyin: qiu1 hu2 xing2・qi2 er4
 titleSlug: qiu-hu-xing-qi-er
 author: 曹操
 authorPinyin: cao2 cao1
@@ -9,7 +9,7 @@ authorSlug: cao-cao
 dynasty: 东汉末年
 dynastyPinyin: dong1 han4 mo4 nian2
 dynastySlug: dong-han-mo-nian
-tags: [] 
+tags: []
 ---
 
 ## 正文

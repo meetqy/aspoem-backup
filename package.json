@@ -23,7 +23,9 @@
     "prettier": "^3.6.2"
   },
   "devDependencies": {
-    "husky": "^9.1.7"
+    "@types/node": "^24.10.1",
+    "husky": "^9.1.7",
+    "tsx": "^4.20.6"
   },
   "lint-staged": {
     "*.md": [
