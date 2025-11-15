@@ -15,7 +15,7 @@ tags: []
 ## 正文
 
 - 神龟虽寿，犹有竟时。
-- 腾蛇乘雾，终为土灰。（腾 一作：螣）
+- 腾蛇乘雾，终为土灰。
 - 老骥伏枥，志在千里。
 - 烈士暮年，壮心不已。
 - 盈缩之期，不但在天；
@@ -25,7 +25,7 @@ tags: []
 ## 拼音
 
 - shen2 gui1 sui1 shou4 ， you2 you3 jing4 shi2 。
-- teng2 she2 cheng2 wu4 ， zhong1 wei4 tu3 hui1 。（ teng2   yi2 zuo4 ： teng2 ）
+- teng2 she2 cheng2 wu4 ， zhong1 wei4 tu3 hui1 。
 - lao3 ji4 fu2 li4 ， zhi4 zai4 qian1 li3 。
 - lie4 shi4 mu4 nian2 ， zhuang4 xin1 bu4 yi3 。
 - ying2 suo1 zhi1 qi1 ， bu2 dan4 zai4 tian1 ；
