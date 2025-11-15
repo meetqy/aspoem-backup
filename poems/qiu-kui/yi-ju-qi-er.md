@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-yi-ju-qi-er
-title: 移居  其二
-titlePinyin: yi2 ju1     qi2 er4
+title: 移居・其二
+titlePinyin: yi2 ju1・qi2 er4
 titleSlug: yi-ju-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

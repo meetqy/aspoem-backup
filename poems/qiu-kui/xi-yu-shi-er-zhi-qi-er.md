@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-xi-yu-shi-er-zhi-qi-er
-title: 喜雨示兒姪  其二
-titlePinyin: xi3 yu3 shi4 er2 zhi2     qi2 er4
+title: 喜雨示兒姪・其二
+titlePinyin: xi3 yu3 shi4 er2 zhi2・qi2 er4
 titleSlug: xi-yu-shi-er-zhi-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

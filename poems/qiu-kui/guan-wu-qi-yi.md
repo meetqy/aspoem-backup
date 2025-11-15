@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-guan-wu-qi-yi
-title: 觀物  其一
-titlePinyin: guan1 wu4     qi2 yi1
+title: 觀物・其一
+titlePinyin: guan1 wu4・qi2 yi1
 titleSlug: guan-wu-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

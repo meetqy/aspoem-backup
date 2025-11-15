@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-wan-xin-quan-pu-chu-shi-qi-yi
-title: 挽心泉蒲處士  其一
-titlePinyin: wan3 xin1 quan2 pu2 chu3 shi4     qi2 yi1
+title: 挽心泉蒲處士・其一
+titlePinyin: wan3 xin1 quan2 pu2 chu3 shi4・qi2 yi1
 titleSlug: wan-xin-quan-pu-chu-shi-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

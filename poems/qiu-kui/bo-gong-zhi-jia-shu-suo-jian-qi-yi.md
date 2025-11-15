@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-bo-gong-zhi-jia-shu-suo-jian-qi-yi
-title: 伯恭姪家書所見  其一
-titlePinyin: bo2 gong1 zhi2 jia1 shu1 suo3 jian4     qi2 yi1
+title: 伯恭姪家書所見・其一
+titlePinyin: bo2 gong1 zhi2 jia1 shu1 suo3 jian4・qi2 yi1
 titleSlug: bo-gong-zhi-jia-shu-suo-jian-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

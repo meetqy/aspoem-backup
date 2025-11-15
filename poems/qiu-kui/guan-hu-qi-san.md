@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-guan-hu-qi-san
-title: 觀湖  其三
-titlePinyin: guan1 hu2     qi2 san1
+title: 觀湖・其三
+titlePinyin: guan1 hu2・qi2 san1
 titleSlug: guan-hu-qi-san
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

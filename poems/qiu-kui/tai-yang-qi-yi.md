@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-tai-yang-qi-yi
-title: 太陽  其一
-titlePinyin: tai4 yang2     qi2 yi1
+title: 太陽・其一
+titlePinyin: tai4 yang2・qi2 yi1
 titleSlug: tai-yang-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-tian-she-qi-er
-title: 田舍  其二
-titlePinyin: tian2 she4     qi2 er4
+title: 田舍・其二
+titlePinyin: tian2 she4・qi2 er4
 titleSlug: tian-she-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

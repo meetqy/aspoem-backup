@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-huai-gu-yu-xiong-qi-yi
-title: 懷古愚兄  其一
-titlePinyin: huai2 gu3 yu2 xiong1     qi2 yi1
+title: 懷古愚兄・其一
+titlePinyin: huai2 gu3 yu2 xiong1・qi2 yi1
 titleSlug: huai-gu-yu-xiong-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

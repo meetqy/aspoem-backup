@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-ke-zhong-qi-yi
-title: 客中  其一
-titlePinyin: ke4 zhong1     qi2 yi1
+title: 客中・其一
+titlePinyin: ke4 zhong1・qi2 yi1
 titleSlug: ke-zhong-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

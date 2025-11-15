@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-qiu-xing-qi-er
-title: 秋興  其二
-titlePinyin: qiu1 xing1     qi2 er4
+title: 秋興・其二
+titlePinyin: qiu1 xing1・qi2 er4
 titleSlug: qiu-xing-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

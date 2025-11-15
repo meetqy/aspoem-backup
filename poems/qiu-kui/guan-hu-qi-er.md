@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-guan-hu-qi-er
-title: 觀湖  其二
-titlePinyin: guan1 hu2     qi2 er4
+title: 觀湖・其二
+titlePinyin: guan1 hu2・qi2 er4
 titleSlug: guan-hu-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

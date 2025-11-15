@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-ku-lu-pu-qing-xian-sheng-qi-yi
-title: 哭呂樸卿先生  其一
-titlePinyin: ku1 lü3 pu3 qing1 xian1 sheng0     qi2 yi1
+title: 哭呂樸卿先生・其一
+titlePinyin: ku1 lü3 pu3 qing1 xian1 sheng0・qi2 yi1
 titleSlug: ku-lu-pu-qing-xian-sheng-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: qiu-kui-ci-ou-yang-shao-yi-yun-cheng-xue-ting-shan-shi-qi-er
-title: 次歐陽少逸韻呈雪庭禪師  其二
-titlePinyin: ci4 ou1 yang2 shao3 yi4 yun4 cheng2 xue3 ting2 shan4 shi1     qi2 er4
+title: 次歐陽少逸韻呈雪庭禪師・其二
+titlePinyin: ci4 ou1 yang2 shao3 yi4 yun4 cheng2 xue3 ting2 shan4 shi1・qi2 er4
 titleSlug: ci-ou-yang-shao-yi-yun-cheng-xue-ting-shan-shi-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
@@ -9,7 +9,7 @@ authorSlug: qiu-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
