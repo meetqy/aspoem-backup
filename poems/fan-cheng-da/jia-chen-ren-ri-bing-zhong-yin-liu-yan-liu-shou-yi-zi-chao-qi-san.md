@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-jia-chen-ren-ri-bing-zhong-yin-liu-yan-liu-shou-yi-zi-chao-qi-san
-title: 甲辰人日病中吟六言六首以自嘲  其三
-titlePinyin: jia3 chen2 ren2 ri4 bing4 zhong1 yin2 liu4 yan2 liu4 shou3 yi3 zi4 chao2     qi2 san1
+title: 甲辰人日病中吟六言六首以自嘲・其三
+titlePinyin: jia3 chen2 ren2 ri4 bing4 zhong1 yin2 liu4 yan2 liu4 shou3 yi3 zi4 chao2・qi2 san1
 titleSlug: jia-chen-ren-ri-bing-zhong-yin-liu-yan-liu-shou-yi-zi-chao-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

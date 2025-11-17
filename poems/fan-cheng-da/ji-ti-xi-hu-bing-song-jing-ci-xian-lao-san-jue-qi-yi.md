@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ji-ti-xi-hu-bing-song-jing-ci-xian-lao-san-jue-qi-yi
-title: 寄題西湖并送浄慈顯老三絕  其一
-titlePinyin: ji4 ti2 xi1 hu2 bing4 song4 jing4 ci2 xian3 lao3 san1 jue2     qi2 yi1
+title: 寄題西湖并送浄慈顯老三絕・其一
+titlePinyin: ji4 ti2 xi1 hu2 bing4 song4 jing4 ci2 xian3 lao3 san1 jue2・qi2 yi1
 titleSlug: ji-ti-xi-hu-bing-song-jing-ci-xian-lao-san-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

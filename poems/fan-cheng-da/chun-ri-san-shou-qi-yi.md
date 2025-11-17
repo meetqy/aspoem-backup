@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-chun-ri-san-shou-qi-yi
-title: 春日三首  其一
-titlePinyin: chun1 ri4 san1 shou3     qi2 yi1
+title: 春日三首・其一
+titlePinyin: chun1 ri4 san1 shou3・qi2 yi1
 titleSlug: chun-ri-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

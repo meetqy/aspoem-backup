@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yuan-ri-li-chun-gan-tan-you-zuo-er-shou-qi-yi
-title: 元日立春感歎有作二首  其一
-titlePinyin: yuan2 ri4 li4 chun1 gan3 tan4 you3 zuo4 er4 shou3     qi2 yi1
+title: 元日立春感歎有作二首・其一
+titlePinyin: yuan2 ri4 li4 chun1 gan3 tan4 you3 zuo4 er4 shou3・qi2 yi1
 titleSlug: yuan-ri-li-chun-gan-tan-you-zuo-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

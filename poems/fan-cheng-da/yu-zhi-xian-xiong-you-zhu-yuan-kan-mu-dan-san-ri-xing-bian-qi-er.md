@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yu-zhi-xian-xiong-you-zhu-yuan-kan-mu-dan-san-ri-xing-bian-qi-er
-title: 與至先兄遊諸園看牡丹三日行徧  其二
-titlePinyin: yu3 zhi4 xian1 xiong1 you2 zhu1 yuan2 kan4 mu3 dan1 san1 ri4 xing2 bian4     qi2 er4
+title: 與至先兄遊諸園看牡丹三日行徧・其二
+titlePinyin: yu3 zhi4 xian1 xiong1 you2 zhu1 yuan2 kan4 mu3 dan1 san1 ri4 xing2 bian4・qi2 er4
 titleSlug: yu-zhi-xian-xiong-you-zhu-yuan-kan-mu-dan-san-ri-xing-bian-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-fang-xia-an-ji-shi-san-jue-qi-san
-title: 放下菴即事三絕  其三
-titlePinyin: fang4 xia4 an1 ji2 shi4 san1 jue2     qi2 san1
+title: 放下菴即事三絕・其三
+titlePinyin: fang4 xia4 an1 ji2 shi4 san1 jue2・qi2 san1
 titleSlug: fang-xia-an-ji-shi-san-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

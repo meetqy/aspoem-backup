@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zhen-xia-fang-chuan-guo-dong-shan-er-shou-qi-yi
-title: 鎮下放船過東山二首  其一
-titlePinyin: zhen4 xia4 fang4 chuan2 guo4 dong1 shan1 er4 shou3     qi2 yi1
+title: 鎮下放船過東山二首・其一
+titlePinyin: zhen4 xia4 fang4 chuan2 guo4 dong1 shan1 er4 shou3・qi2 yi1
 titleSlug: zhen-xia-fang-chuan-guo-dong-shan-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

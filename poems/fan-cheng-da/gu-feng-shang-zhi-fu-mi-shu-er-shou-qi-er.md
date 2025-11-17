@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-gu-feng-shang-zhi-fu-mi-shu-er-shou-qi-er
-title: 古風上知府秘書二首  其二
-titlePinyin: gu3 feng1 shang4 zhi1 fu3 mi4 shu1 er4 shou3     qi2 er4
+title: 古風上知府秘書二首・其二
+titlePinyin: gu3 feng1 shang4 zhi1 fu3 mi4 shu1 er4 shou3・qi2 er4
 titleSlug: gu-feng-shang-zhi-fu-mi-shu-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

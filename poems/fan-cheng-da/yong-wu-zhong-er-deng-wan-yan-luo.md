@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yong-wu-zhong-er-deng-wan-yan-luo
-title: 詠吳中二燈 萬眼羅
-titlePinyin: yong3 wu2 zhong1 er4 deng1   wan4 yan3 luo2
+title: 詠吳中二燈・萬眼羅
+titlePinyin: yong3 wu2 zhong1 er4 deng1・wan4 yan3 luo2
 titleSlug: yong-wu-zhong-er-deng-wan-yan-luo
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

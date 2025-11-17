@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-hu-qiu-liu-jue-ju-jian-chi
-title: 虎丘六絕句 劍池
-titlePinyin: hu3 qiu1 liu4 jue2 ju4   jian4 chi2
+title: 虎丘六絕句・劍池
+titlePinyin: hu3 qiu1 liu4 jue2 ju4・jian4 chi2
 titleSlug: hu-qiu-liu-jue-ju-jian-chi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

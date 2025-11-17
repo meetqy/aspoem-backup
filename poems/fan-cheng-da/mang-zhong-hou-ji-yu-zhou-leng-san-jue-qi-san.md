@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-mang-zhong-hou-ji-yu-zhou-leng-san-jue-qi-san
-title: 芒種後積雨驟冷三絕  其三
-titlePinyin: mang2 zhong3 hou4 ji1 yu3 zhou4 leng3 san1 jue2     qi2 san1
+title: 芒種後積雨驟冷三絕・其三
+titlePinyin: mang2 zhong3 hou4 ji1 yu3 zhou4 leng3 san1 jue2・qi2 san1
 titleSlug: mang-zhong-hou-ji-yu-zhou-leng-san-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

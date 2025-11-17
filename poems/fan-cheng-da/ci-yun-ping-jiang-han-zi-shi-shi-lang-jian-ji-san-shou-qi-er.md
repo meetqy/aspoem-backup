@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-ping-jiang-han-zi-shi-shi-lang-jian-ji-san-shou-qi-er
-title: 次韻平江韓子師侍郎見寄三首  其二
-titlePinyin: ci4 yun4 ping2 jiang1 han2 zi3 shi1 shi4 lang2 jian4 ji4 san1 shou3     qi2 er4
+title: 次韻平江韓子師侍郎見寄三首・其二
+titlePinyin: ci4 yun4 ping2 jiang1 han2 zi3 shi1 shi4 lang2 jian4 ji4 san1 shou3・qi2 er4
 titleSlug: ci-yun-ping-jiang-han-zi-shi-shi-lang-jian-ji-san-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-bo-chang-sha-chu-xiu-ting-qi-yi
-title: 泊長沙楚秀亭  其一
-titlePinyin: bo2 chang2 sha1 chu3 xiu4 ting2     qi2 yi1
+title: 泊長沙楚秀亭・其一
+titlePinyin: bo2 chang2 sha1 chu3 xiu4 ting2・qi2 yi1
 titleSlug: bo-chang-sha-chu-xiu-ting-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

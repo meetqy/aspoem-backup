@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-yi-yuan-ji-zhang-yuan-liang-tu-er-shou-qi-yi
-title: 題易元吉獐猿兩圖二首  其一
-titlePinyin: ti2 yi4 yuan2 ji2 zhang1 yuan2 liang3 tu2 er4 shou3     qi2 yi1
+title: 題易元吉獐猿兩圖二首・其一
+titlePinyin: ti2 yi4 yuan2 ji2 zhang1 yuan2 liang3 tu2 er4 shou3・qi2 yi1
 titleSlug: ti-yi-yuan-ji-zhang-yuan-liang-tu-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-qiu-ri-za-xing-liu-shou-qi-liu
-title: 秋日雜興六首  其六
-titlePinyin: qiu1 ri4 za2 xing1 liu4 shou3     qi2 liu4
+title: 秋日雜興六首・其六
+titlePinyin: qiu1 ri4 za2 xing1 liu4 shou3・qi2 liu4
 titleSlug: qiu-ri-za-xing-liu-shou-qi-liu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

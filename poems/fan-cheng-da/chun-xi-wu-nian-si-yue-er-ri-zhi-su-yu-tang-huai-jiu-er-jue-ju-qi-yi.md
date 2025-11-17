@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-chun-xi-wu-nian-si-yue-er-ri-zhi-su-yu-tang-huai-jiu-er-jue-ju-qi-yi
-title: 淳熙五年四月二日直宿玉堂懷舊二絕句  其一
-titlePinyin: chun2 xi1 wu3 nian2 si4 yue4 er4 ri4 zhi2 su4 yu4 tang2 huai2 jiu4 er4 jue2 ju4     qi2 yi1
+title: 淳熙五年四月二日直宿玉堂懷舊二絕句・其一
+titlePinyin: chun2 xi1 wu3 nian2 si4 yue4 er4 ri4 zhi2 su4 yu4 tang2 huai2 jiu4 er4 jue2 ju4・qi2 yi1
 titleSlug: chun-xi-wu-nian-si-yue-er-ri-zhi-su-yu-tang-huai-jiu-er-jue-ju-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

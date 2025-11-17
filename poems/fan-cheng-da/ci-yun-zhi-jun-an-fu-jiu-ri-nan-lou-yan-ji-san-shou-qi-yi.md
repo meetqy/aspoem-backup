@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-zhi-jun-an-fu-jiu-ri-nan-lou-yan-ji-san-shou-qi-yi
-title: 次韻知郡安撫九日南樓宴集三首  其一
-titlePinyin: ci4 yun4 zhi1 jun4 an1 fu3 jiu3 ri4 nan2 lou2 yan4 ji2 san1 shou3     qi2 yi1
+title: 次韻知郡安撫九日南樓宴集三首・其一
+titlePinyin: ci4 yun4 zhi1 jun4 an1 fu3 jiu3 ri4 nan2 lou2 yan4 ji2 san1 shou3・qi2 yi1
 titleSlug: ci-yun-zhi-jun-an-fu-jiu-ri-nan-lou-yan-ji-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

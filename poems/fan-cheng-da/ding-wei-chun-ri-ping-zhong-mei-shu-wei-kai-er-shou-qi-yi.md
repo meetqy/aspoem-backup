@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ding-wei-chun-ri-ping-zhong-mei-shu-wei-kai-er-shou-qi-yi
-title: 丁未春日瓶中梅殊未開二首  其一
-titlePinyin: ding1 wei4 chun1 ri4 ping2 zhong1 mei2 shu1 wei4 kai1 er4 shou3     qi2 yi1
+title: 丁未春日瓶中梅殊未開二首・其一
+titlePinyin: ding1 wei4 chun1 ri4 ping2 zhong1 mei2 shu1 wei4 kai1 er4 shou3・qi2 yi1
 titleSlug: ding-wei-chun-ri-ping-zhong-mei-shu-wei-kai-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

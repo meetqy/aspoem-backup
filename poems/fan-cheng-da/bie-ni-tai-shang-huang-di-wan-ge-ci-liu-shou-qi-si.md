@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-bie-ni-tai-shang-huang-di-wan-ge-ci-liu-shou-qi-si
-title: 別擬太上皇帝輓歌詞六首  其四
-titlePinyin: bie2 ni3 tai4 shang4 huang2 di4 wan3 ge1 ci2 liu4 shou3     qi2 si4
+title: 別擬太上皇帝輓歌詞六首・其四
+titlePinyin: bie2 ni3 tai4 shang4 huang2 di4 wan3 ge1 ci2 liu4 shou3・qi2 si4
 titleSlug: bie-ni-tai-shang-huang-di-wan-ge-ci-liu-shou-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

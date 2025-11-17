@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zai-fu-jun-zhao-shuang-lian-san-jue-qi-er
-title: 再賦郡沼雙蓮三絕  其二
-titlePinyin: zai4 fu4 jun4 zhao3 shuang1 lian2 san1 jue2     qi2 er4
+title: 再賦郡沼雙蓮三絕・其二
+titlePinyin: zai4 fu4 jun4 zhao3 shuang1 lian2 san1 jue2・qi2 er4
 titleSlug: zai-fu-jun-zhao-shuang-lian-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

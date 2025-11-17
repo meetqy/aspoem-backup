@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-xu-ti-ju-you-shi-hu-san-jue-qi-er
-title: 次韻徐提舉游石湖三絕  其二
-titlePinyin: ci4 yun4 xu2 ti2 ju3 you2 shi2 hu2 san1 jue2     qi2 er4
+title: 次韻徐提舉游石湖三絕・其二
+titlePinyin: ci4 yun4 xu2 ti2 ju3 you2 shi2 hu2 san1 jue2・qi2 er4
 titleSlug: ci-yun-xu-ti-ju-you-shi-hu-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shi-yue-er-shi-liu-ri-san-ji-qi-san
-title: 十月二十六日三偈  其三
-titlePinyin: shi2 yue4 er4 shi2 liu4 ri4 san1 ji4     qi2 san1
+title: 十月二十六日三偈・其三
+titlePinyin: shi2 yue4 er4 shi2 liu4 ri4 san1 ji4・qi2 san1
 titleSlug: shi-yue-er-shi-liu-ri-san-ji-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-han-qing-jiu-ji-shi-er-jue-qi-yi
-title: 次韻漢卿舅即事二絕  其一
-titlePinyin: ci4 yun4 han4 qing1 jiu4 ji2 shi4 er4 jue2     qi2 yi1
+title: 次韻漢卿舅即事二絕・其一
+titlePinyin: ci4 yun4 han4 qing1 jiu4 ji2 shi4 er4 jue2・qi2 yi1
 titleSlug: ci-yun-han-qing-jiu-ji-shi-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

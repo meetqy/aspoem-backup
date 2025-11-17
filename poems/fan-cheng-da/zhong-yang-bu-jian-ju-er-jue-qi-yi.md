@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zhong-yang-bu-jian-ju-er-jue-qi-yi
-title: 重陽不見菊二絕  其一
-titlePinyin: zhong4 yang2 bu2 jian4 ju2 er4 jue2     qi2 yi1
+title: 重陽不見菊二絕・其一
+titlePinyin: zhong4 yang2 bu2 jian4 ju2 er4 jue2・qi2 yi1
 titleSlug: zhong-yang-bu-jian-ju-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

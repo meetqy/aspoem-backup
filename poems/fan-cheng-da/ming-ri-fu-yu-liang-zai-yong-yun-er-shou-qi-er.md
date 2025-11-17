@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ming-ri-fu-yu-liang-zai-yong-yun-er-shou-qi-er
-title: 明日復雨凉再用韻二首  其二
-titlePinyin: ming2 ri4 fu4 yu3 liang2 zai4 yong4 yun4 er4 shou3     qi2 er4
+title: 明日復雨凉再用韻二首・其二
+titlePinyin: ming2 ri4 fu4 yu3 liang2 zai4 yong4 yun4 er4 shou3・qi2 er4
 titleSlug: ming-ri-fu-yu-liang-zai-yong-yun-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ji-ti-shi-hu-hai-tang-er-shou-qi-yi
-title: 寄題石湖海棠二首  其一
-titlePinyin: ji4 ti2 shi2 hu2 hai3 tang2 er4 shou3     qi2 yi1
+title: 寄題石湖海棠二首・其一
+titlePinyin: ji4 ti2 shi2 hu2 hai3 tang2 er4 shou3・qi2 yi1
 titleSlug: ji-ti-shi-hu-hai-tang-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

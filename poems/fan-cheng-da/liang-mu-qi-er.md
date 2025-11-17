@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-liang-mu-qi-er
-title: 兩木  其二
-titlePinyin: liang3 mu4     qi2 er4
+title: 兩木・其二
+titlePinyin: liang3 mu4・qi2 er4
 titleSlug: liang-mu-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

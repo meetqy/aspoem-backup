@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-tang-yi-zhong-zhu-gong-jian-guo-xiao-yin-ling-han-can-mei-zhi-xia-er-jue-qi-yi
-title: 唐懿仲諸公見過小飲凌寒殘梅之下二絕  其一
-titlePinyin: tang2 yi4 zhong4 zhu1 gong1 jian4 guo4 xiao3 yin3 ling2 han2 can2 mei2 zhi1 xia4 er4 jue2     qi2 yi1
+title: 唐懿仲諸公見過小飲凌寒殘梅之下二絕・其一
+titlePinyin: tang2 yi4 zhong4 zhu1 gong1 jian4 guo4 xiao3 yin3 ling2 han2 can2 mei2 zhi1 xia4 er4 jue2・qi2 yi1
 titleSlug: tang-yi-zhong-zhu-gong-jian-guo-xiao-yin-ling-han-can-mei-zhi-xia-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

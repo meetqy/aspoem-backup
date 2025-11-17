@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-gui-zhou-zhu-zhi-ge-er-shou-qi-yi
-title: 歸州竹枝歌二首  其一
-titlePinyin: gui1 zhou1 zhu2 zhi1 ge1 er4 shou3     qi2 yi1
+title: 歸州竹枝歌二首・其一
+titlePinyin: gui1 zhou1 zhu2 zhi1 ge1 er4 shou3・qi2 yi1
 titleSlug: gui-zhou-zhu-zhi-ge-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

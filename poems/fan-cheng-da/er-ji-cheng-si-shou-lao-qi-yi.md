@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-er-ji-cheng-si-shou-lao-qi-yi
-title: 二偈呈似壽老  其一
-titlePinyin: er4 ji4 cheng2 si4 shou4 lao3     qi2 yi1
+title: 二偈呈似壽老・其一
+titlePinyin: er4 ji4 cheng2 si4 shou4 lao3・qi2 yi1
 titleSlug: er-ji-cheng-si-shou-lao-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

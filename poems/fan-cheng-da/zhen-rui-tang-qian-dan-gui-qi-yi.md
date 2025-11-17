@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zhen-rui-tang-qian-dan-gui-qi-yi
-title: 真瑞堂前丹桂  其一
-titlePinyin: zhen1 rui4 tang2 qian2 dan1 gui4     qi2 yi1
+title: 真瑞堂前丹桂・其一
+titlePinyin: zhen1 rui4 tang2 qian2 dan1 gui4・qi2 yi1
 titleSlug: zhen-rui-tang-qian-dan-gui-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

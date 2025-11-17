@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-gu-feng-er-shou-shang-tang-cheng-xiang-qi-yi
-title: 古風二首上湯丞相  其一
-titlePinyin: gu3 feng1 er4 shou3 shang4 tang1 cheng2 xiang4     qi2 yi1
+title: 古風二首上湯丞相・其一
+titlePinyin: gu3 feng1 er4 shou3 shang4 tang1 cheng2 xiang4・qi2 yi1
 titleSlug: gu-feng-er-shou-shang-tang-cheng-xiang-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

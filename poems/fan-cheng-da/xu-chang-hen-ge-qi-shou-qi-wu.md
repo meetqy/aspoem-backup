@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xu-chang-hen-ge-qi-shou-qi-wu
-title: 續長恨歌七首  其五
-titlePinyin: xu4 chang2 hen4 ge1 qi1 shou3     qi2 wu3
+title: 續長恨歌七首・其五
+titlePinyin: xu4 chang2 hen4 ge1 qi1 shou3・qi2 wu3
 titleSlug: xu-chang-hen-ge-qi-shou-qi-wu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

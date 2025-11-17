@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-han-shi-jiao-xing-shu-shi-er-shou-qi-er
-title: 寒食郊行書事二首  其二
-titlePinyin: han2 shi2 jiao1 xing2 shu1 shi4 er4 shou3     qi2 er4
+title: 寒食郊行書事二首・其二
+titlePinyin: han2 shi2 jiao1 xing2 shu1 shi4 er4 shou3・qi2 er4
 titleSlug: han-shi-jiao-xing-shu-shi-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

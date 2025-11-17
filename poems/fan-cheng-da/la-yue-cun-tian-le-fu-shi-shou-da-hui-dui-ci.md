@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-la-yue-cun-tian-le-fu-shi-shou-da-hui-dui-ci
-title: 臘月村田樂府十首 打灰堆詞
-titlePinyin: la4 yue4 cun1 tian2 le4 fu3 shi2 shou3   da3 hui1 dui1 ci2
+title: 臘月村田樂府十首・打灰堆詞
+titlePinyin: la4 yue4 cun1 tian2 le4 fu3 shi2 shou3・da3 hui1 dui1 ci2
 titleSlug: la-yue-cun-tian-le-fu-shi-shou-da-hui-dui-ci
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

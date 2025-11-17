@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-xing-cha-yuan-wang-zhang-wan-ci-qi-yi
-title: 提刑察院王丈輓詞  其一
-titlePinyin: ti2 xing2 cha2 yuan4 wang2 zhang4 wan3 ci2     qi2 yi1
+title: 提刑察院王丈輓詞・其一
+titlePinyin: ti2 xing2 cha2 yuan4 wang2 zhang4 wan3 ci2・qi2 yi1
 titleSlug: ti-xing-cha-yuan-wang-zhang-wan-ci-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

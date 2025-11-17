@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-an-shang-mei-hua-er-shou-qi-yi
-title: 案上梅花二首  其一
-titlePinyin: an4 shang4 mei2 hua1 er4 shou3     qi2 yi1
+title: 案上梅花二首・其一
+titlePinyin: an4 shang4 mei2 hua1 er4 shou3・qi2 yi1
 titleSlug: an-shang-mei-hua-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

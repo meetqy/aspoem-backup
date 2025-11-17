@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shen-xi-pu-zhong-er-jue-zhui-lu-ji-cheng-yuan-jiang-zhong-xian-er-shi-jun-qi-yi
-title: 深溪鋪中二絕追路寄呈元將仲顯二使君  其一
-titlePinyin: shen1 xi1 pu1 zhong1 er4 jue2 zhui1 lu4 ji4 cheng2 yuan2 jiang1 zhong4 xian3 er4 shi3 jun1     qi2 yi1
+title: 深溪鋪中二絕追路寄呈元將仲顯二使君・其一
+titlePinyin: shen1 xi1 pu1 zhong1 er4 jue2 zhui1 lu4 ji4 cheng2 yuan2 jiang1 zhong4 xian3 er4 shi3 jun1・qi2 yi1
 titleSlug: shen-xi-pu-zhong-er-jue-zhui-lu-ji-cheng-yuan-jiang-zhong-xian-er-shi-jun-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

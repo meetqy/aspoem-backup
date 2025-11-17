@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-gan-yu-ying-qi-san-jue-qi-er
-title: 甘雨應祈三絕  其二
-titlePinyin: gan1 yu3 ying1 qi2 san1 jue2     qi2 er4
+title: 甘雨應祈三絕・其二
+titlePinyin: gan1 yu3 ying1 qi2 san1 jue2・qi2 er4
 titleSlug: gan-yu-ying-qi-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-li-lang-zhong-wan-ci-er-shou-qi-er
-title: 李郎中輓詞二首  其二
-titlePinyin: li3 lang2 zhong1 wan3 ci2 er4 shou3     qi2 er4
+title: 李郎中輓詞二首・其二
+titlePinyin: li3 lang2 zhong1 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: li-lang-zhong-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

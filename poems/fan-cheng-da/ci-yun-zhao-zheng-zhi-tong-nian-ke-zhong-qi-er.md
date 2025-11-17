@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-zhao-zheng-zhi-tong-nian-ke-zhong-qi-er
-title: 次韻趙正之同年客中  其二
-titlePinyin: ci4 yun4 zhao4 zheng4 zhi1 tong2 nian2 ke4 zhong1     qi2 er4
+title: 次韻趙正之同年客中・其二
+titlePinyin: ci4 yun4 zhao4 zheng4 zhi1 tong2 nian2 ke4 zhong1・qi2 er4
 titleSlug: ci-yun-zhao-zheng-zhi-tong-nian-ke-zhong-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

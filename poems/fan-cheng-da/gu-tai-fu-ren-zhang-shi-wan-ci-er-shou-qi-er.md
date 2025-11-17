@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-gu-tai-fu-ren-zhang-shi-wan-ci-er-shou-qi-er
-title: 故太夫人章氏輓詞二首  其二
-titlePinyin: gu4 tai4 fu1 ren2 zhang1 shi4 wan3 ci2 er4 shou3     qi2 er4
+title: 故太夫人章氏輓詞二首・其二
+titlePinyin: gu4 tai4 fu1 ren2 zhang1 shi4 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: gu-tai-fu-ren-zhang-shi-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

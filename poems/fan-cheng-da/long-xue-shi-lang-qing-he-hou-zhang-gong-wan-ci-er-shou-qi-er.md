@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-long-xue-shi-lang-qing-he-hou-zhang-gong-wan-ci-er-shou-qi-er
-title: 龍學侍郎清河侯張公輓詞二首  其二
-titlePinyin: long2 xue2 shi4 lang2 qing1 he2 hou2 zhang1 gong1 wan3 ci2 er4 shou3     qi2 er4
+title: 龍學侍郎清河侯張公輓詞二首・其二
+titlePinyin: long2 xue2 shi4 lang2 qing1 he2 hou2 zhang1 gong1 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: long-xue-shi-lang-qing-he-hou-zhang-gong-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

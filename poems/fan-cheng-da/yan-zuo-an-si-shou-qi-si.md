@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yan-zuo-an-si-shou-qi-si
-title: 宴坐菴四首  其四
-titlePinyin: yan4 zuo4 an1 si4 shou3     qi2 si4
+title: 宴坐菴四首・其四
+titlePinyin: yan4 zuo4 an1 si4 shou3・qi2 si4
 titleSlug: yan-zuo-an-si-shou-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

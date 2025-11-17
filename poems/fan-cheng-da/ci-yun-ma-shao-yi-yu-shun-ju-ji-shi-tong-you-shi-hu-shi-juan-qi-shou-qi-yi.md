@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-ma-shao-yi-yu-shun-ju-ji-shi-tong-you-shi-hu-shi-juan-qi-shou-qi-yi
-title: 次韻馬少伊郁舜舉寄示同游石湖詩卷七首  其一
-titlePinyin: ci4 yun4 ma3 shao3 yi1 yu4 shun4 ju3 ji4 shi4 tong2 you2 shi2 hu2 shi1 juan4 qi1 shou3     qi2 yi1
+title: 次韻馬少伊郁舜舉寄示同游石湖詩卷七首・其一
+titlePinyin: ci4 yun4 ma3 shao3 yi1 yu4 shun4 ju3 ji4 shi4 tong2 you2 shi2 hu2 shi1 juan4 qi1 shou3・qi2 yi1
 titleSlug: ci-yun-ma-shao-yi-yu-shun-ju-ji-shi-tong-you-shi-hu-shi-juan-qi-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

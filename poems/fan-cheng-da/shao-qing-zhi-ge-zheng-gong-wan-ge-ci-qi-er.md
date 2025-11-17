@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shao-qing-zhi-ge-zheng-gong-wan-ge-ci-qi-er
-title: 少卿直閣鄭公輓歌詞  其二
-titlePinyin: shao3 qing1 zhi2 ge2 zheng4 gong1 wan3 ge1 ci2     qi2 er4
+title: 少卿直閣鄭公輓歌詞・其二
+titlePinyin: shao3 qing1 zhi2 ge2 zheng4 gong1 wan3 ge1 ci2・qi2 er4
 titleSlug: shao-qing-zhi-ge-zheng-gong-wan-ge-ci-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

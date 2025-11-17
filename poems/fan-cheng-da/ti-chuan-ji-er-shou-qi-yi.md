@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-chuan-ji-er-shou-qi-yi
-title: 題傳記二首  其一
-titlePinyin: ti2 chuan2 ji4 er4 shou3     qi2 yi1
+title: 題傳記二首・其一
+titlePinyin: ti2 chuan2 ji4 er4 shou3・qi2 yi1
 titleSlug: ti-chuan-ji-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

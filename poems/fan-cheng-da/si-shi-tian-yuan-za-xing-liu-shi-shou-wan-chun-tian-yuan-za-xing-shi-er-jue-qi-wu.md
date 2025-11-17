@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-si-shi-tian-yuan-za-xing-liu-shi-shou-wan-chun-tian-yuan-za-xing-shi-er-jue-qi-wu
-title: 四時田園雜興六十首 晚春田園雜興十二絕 其五
-titlePinyin: si4 shi2 tian2 yuan2 za2 xing1 liu4 shi2 shou3   wan3 chun1 tian2 yuan2 za2 xing1 shi2 er4 jue2   qi2 wu3
+title: 四時田園雜興六十首・晚春田園雜興十二絕・其五
+titlePinyin: si4 shi2 tian2 yuan2 za2 xing1 liu4 shi2 shou3・wan3 chun1 tian2 yuan2 za2 xing1 shi2 er4 jue2・qi2 wu3
 titleSlug: si-shi-tian-yuan-za-xing-liu-shi-shou-wan-chun-tian-yuan-za-xing-shi-er-jue-qi-wu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

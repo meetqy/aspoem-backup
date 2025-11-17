@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-xuan-zhou-xi-yuan-er-shou-qi-er
-title: 次韻宣州西園二首  其二
-titlePinyin: ci4 yun4 xuan1 zhou1 xi1 yuan2 er4 shou3     qi2 er4
+title: 次韻宣州西園二首・其二
+titlePinyin: ci4 yun4 xuan1 zhou1 xi1 yuan2 er4 shou3・qi2 er4
 titleSlug: ci-yun-xuan-zhou-xi-yuan-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

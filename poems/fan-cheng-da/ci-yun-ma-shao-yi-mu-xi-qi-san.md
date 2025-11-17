@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-ma-shao-yi-mu-xi-qi-san
-title: 次韻馬少伊木犀  其三
-titlePinyin: ci4 yun4 ma3 shao3 yi1 mu4 xi1     qi2 san1
+title: 次韻馬少伊木犀・其三
+titlePinyin: ci4 yun4 ma3 shao3 yi1 mu4 xi1・qi2 san1
 titleSlug: ci-yun-ma-shao-yi-mu-xi-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-chu-xia-san-jue-cheng-you-zi-ming-wang-zhong-xian-qi-er
-title: 初夏三絕呈游子明王仲顯  其二
-titlePinyin: chu1 xia4 san1 jue2 cheng2 you2 zi3 ming2 wang2 zhong4 xian3     qi2 er4
+title: 初夏三絕呈游子明王仲顯・其二
+titlePinyin: chu1 xia4 san1 jue2 cheng2 you2 zi3 ming2 wang2 zhong4 xian3・qi2 er4
 titleSlug: chu-xia-san-jue-cheng-you-zi-ming-wang-zhong-xian-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

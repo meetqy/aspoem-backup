@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-lu-ru-hui-lang-zhong-wan-ci-er-shou-qi-yi
-title: 魯如晦郎中輓詞二首  其一
-titlePinyin: lu3 ru2 hui4 lang2 zhong1 wan3 ci2 er4 shou3     qi2 yi1
+title: 魯如晦郎中輓詞二首・其一
+titlePinyin: lu3 ru2 hui4 lang2 zhong1 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: lu-ru-hui-lang-zhong-wan-ci-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

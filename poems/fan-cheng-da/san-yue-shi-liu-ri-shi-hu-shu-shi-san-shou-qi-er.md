@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-san-yue-shi-liu-ri-shi-hu-shu-shi-san-shou-qi-er
-title: 三月十六日石湖書事三首  其二
-titlePinyin: san1 yue4 shi2 liu4 ri4 shi2 hu2 shu1 shi4 san1 shou3     qi2 er4
+title: 三月十六日石湖書事三首・其二
+titlePinyin: san1 yue4 shi2 liu4 ri4 shi2 hu2 shu1 shi4 san1 shou3・qi2 er4
 titleSlug: san-yue-shi-liu-ri-shi-hu-shu-shi-san-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

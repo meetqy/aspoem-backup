@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-shan-shui-heng-kan-er-shou-qi-er
-title: 題山水橫看二首  其二
-titlePinyin: ti2 shan1 shui3 heng2 kan4 er4 shou3     qi2 er4
+title: 題山水橫看二首・其二
+titlePinyin: ti2 shan1 shui3 heng2 kan4 er4 shou3・qi2 er4
 titleSlug: ti-shan-shui-heng-kan-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

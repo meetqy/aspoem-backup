@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-xu-zi-li-ti-ju-ying-hua-ting-qi-er
-title: 次韻徐子禮提舉鶑花亭  其二
-titlePinyin: ci4 yun4 xu2 zi3 li3 ti2 ju3 ying1 hua1 ting2     qi2 er4
+title: 次韻徐子禮提舉鶑花亭・其二
+titlePinyin: ci4 yun4 xu2 zi3 li3 ti2 ju3 ying1 hua1 ting2・qi2 er4
 titleSlug: ci-yun-xu-zi-li-ti-ju-ying-hua-ting-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

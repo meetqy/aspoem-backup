@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ji-ti-han-zhong-xin-zuo-nan-lou-er-shou-qi-er
-title: 寄題漢中新作南樓二首  其二
-titlePinyin: ji4 ti2 han4 zhong1 xin1 zuo4 nan2 lou2 er4 shou3     qi2 er4
+title: 寄題漢中新作南樓二首・其二
+titlePinyin: ji4 ti2 han4 zhong1 xin1 zuo4 nan2 lou2 er4 shou3・qi2 er4
 titleSlug: ji-ti-han-zhong-xin-zuo-nan-lou-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-zhang-xi-xian-zhi-ben-hua-si-shou-chang-chun
-title: 題張希賢紙本花四首 常春
-titlePinyin: ti2 zhang1 xi1 xian2 zhi3 ben3 hua1 si4 shou3   chang2 chun1
+title: 題張希賢紙本花四首・常春
+titlePinyin: ti2 zhang1 xi1 xian2 zhi3 ben3 hua1 si4 shou3・chang2 chun1
 titleSlug: ti-zhang-xi-xian-zhi-ben-hua-si-shou-chang-chun
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

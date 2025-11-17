@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-li-zi-yong-jian-fang-er-shou-qi-yi
-title: 次韻李子永見訪二首  其一
-titlePinyin: ci4 yun4 li3 zi0 yong3 jian4 fang3 er4 shou3     qi2 yi1
+title: 次韻李子永見訪二首・其一
+titlePinyin: ci4 yun4 li3 zi0 yong3 jian4 fang3 er4 shou3・qi2 yi1
 titleSlug: ci-yun-li-zi-yong-jian-fang-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

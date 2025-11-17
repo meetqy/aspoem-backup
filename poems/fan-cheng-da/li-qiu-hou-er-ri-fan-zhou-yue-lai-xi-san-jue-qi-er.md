@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-li-qiu-hou-er-ri-fan-zhou-yue-lai-xi-san-jue-qi-er
-title: 立秋後二日泛舟越來溪三絕  其二
-titlePinyin: li4 qiu1 hou4 er4 ri4 fan4 zhou1 yue4 lai2 xi1 san1 jue2     qi2 er4
+title: 立秋後二日泛舟越來溪三絕・其二
+titlePinyin: li4 qiu1 hou4 er4 ri4 fan4 zhou1 yue4 lai2 xi1 san1 jue2・qi2 er4
 titleSlug: li-qiu-hou-er-ri-fan-zhou-yue-lai-xi-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

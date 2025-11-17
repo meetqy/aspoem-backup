@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yuan-ri-ma-shang-er-jue-qi-er
-title: 元日馬上二絕  其二
-titlePinyin: yuan2 ri4 ma3 shang4 er4 jue2     qi2 er4
+title: 元日馬上二絕・其二
+titlePinyin: yuan2 ri4 ma3 shang4 er4 jue2・qi2 er4
 titleSlug: yuan-ri-ma-shang-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

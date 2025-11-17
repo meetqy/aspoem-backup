@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-hu-qiu-liu-jue-ju-fang-zhang-nan-chuang
-title: 虎丘六絕句 方丈南窗
-titlePinyin: hu3 qiu1 liu4 jue2 ju4   fang1 zhang4 nan2 chuang1
+title: 虎丘六絕句・方丈南窗
+titlePinyin: hu3 qiu1 liu4 jue2 ju4・fang1 zhang4 nan2 chuang1
 titleSlug: hu-qiu-liu-jue-ju-fang-zhang-nan-chuang
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

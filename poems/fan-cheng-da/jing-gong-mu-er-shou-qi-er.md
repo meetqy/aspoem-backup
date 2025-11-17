@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-jing-gong-mu-er-shou-qi-er
-title: 荆公墓二首  其二
-titlePinyin: jing1 gong1 mu4 er4 shou3     qi2 er4
+title: 荆公墓二首・其二
+titlePinyin: jing1 gong1 mu4 er4 shou3・qi2 er4
 titleSlug: jing-gong-mu-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

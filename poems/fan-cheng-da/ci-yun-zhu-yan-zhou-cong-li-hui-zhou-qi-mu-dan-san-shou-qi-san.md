@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-zhu-yan-zhou-cong-li-hui-zhou-qi-mu-dan-san-shou-qi-san
-title: 次韻朱嚴州從李徽州乞牡丹三首  其三
-titlePinyin: ci4 yun4 zhu1 yan2 zhou1 cong2 li3 hui1 zhou1 qi3 mu3 dan1 san1 shou3     qi2 san1
+title: 次韻朱嚴州從李徽州乞牡丹三首・其三
+titlePinyin: ci4 yun4 zhu1 yan2 zhou1 cong2 li3 hui1 zhou1 qi3 mu3 dan1 san1 shou3・qi2 san1
 titleSlug: ci-yun-zhu-yan-zhou-cong-li-hui-zhou-qi-mu-dan-san-shou-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

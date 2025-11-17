@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zhong-du-tang-tai-zong-ji-qi-yi
-title: 重讀唐太宗紀  其一
-titlePinyin: zhong4 du2 tang2 tai4 zong1 ji4     qi2 yi1
+title: 重讀唐太宗紀・其一
+titlePinyin: zhong4 du2 tang2 tai4 zong1 ji4・qi2 yi1
 titleSlug: zhong-du-tang-tai-zong-ji-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-qing-xi-zhai-shu-shi-san-shou-qi-er
-title: 請息齋書事三首  其二
-titlePinyin: qing3 xi1 zhai1 shu1 shi4 san1 shou3     qi2 er4
+title: 請息齋書事三首・其二
+titlePinyin: qing3 xi1 zhai1 shu1 shi4 san1 shou3・qi2 er4
 titleSlug: qing-xi-zhai-shu-shi-san-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

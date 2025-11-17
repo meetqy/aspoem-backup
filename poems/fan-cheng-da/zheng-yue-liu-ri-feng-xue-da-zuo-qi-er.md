@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zheng-yue-liu-ri-feng-xue-da-zuo-qi-er
-title: 正月六日風雪大作  其二
-titlePinyin: zheng1 yue4 liu4 ri4 feng1 xue3 da4 zuo4     qi2 er4
+title: 正月六日風雪大作・其二
+titlePinyin: zheng1 yue4 liu4 ri4 feng1 xue3 da4 zuo4・qi2 er4
 titleSlug: zheng-yue-liu-ri-feng-xue-da-zuo-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

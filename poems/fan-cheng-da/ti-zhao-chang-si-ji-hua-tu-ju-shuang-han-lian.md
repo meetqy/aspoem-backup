@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-zhao-chang-si-ji-hua-tu-ju-shuang-han-lian
-title: 題趙昌四季花圖 拒霜旱蓮
-titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2   ju4 shuang1 han4 lian2
+title: 題趙昌四季花圖・拒霜旱蓮
+titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2・ju4 shuang1 han4 lian2
 titleSlug: ti-zhao-chang-si-ji-hua-tu-ju-shuang-han-lian
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

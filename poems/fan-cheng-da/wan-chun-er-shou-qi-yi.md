@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-wan-chun-er-shou-qi-yi
-title: 晚春二首  其一
-titlePinyin: wan3 chun1 er4 shou3     qi2 yi1
+title: 晚春二首・其一
+titlePinyin: wan3 chun1 er4 shou3・qi2 yi1
 titleSlug: wan-chun-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shu-huai-er-jue-zai-song-wen-ji-gao-jian-cheng-xin-shuai-yan-cai-yuan-shi-lang-qi-yi
-title: 書懷二絕再送文季高兼呈新帥閻才元侍郎  其一
-titlePinyin: shu1 huai2 er4 jue2 zai4 song4 wen2 ji4 gao1 jian1 cheng2 xin1 shuai4 yan2 cai2 yuan2 shi4 lang2     qi2 yi1
+title: 書懷二絕再送文季高兼呈新帥閻才元侍郎・其一
+titlePinyin: shu1 huai2 er4 jue2 zai4 song4 wen2 ji4 gao1 jian1 cheng2 xin1 shuai4 yan2 cai2 yuan2 shi4 lang2・qi2 yi1
 titleSlug: shu-huai-er-jue-zai-song-wen-ji-gao-jian-cheng-xin-shuai-yan-cai-yuan-shi-lang-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

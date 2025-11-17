@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-jing-ci-xian-lao-wei-zhong-xing-hua-qie-shi-jin-suo-xie-zhen-xi-ti-wu-jue-jiu-zuo-hua-zan-qi-si
-title: 浄慈顯老爲衆行化且示近所寫真戲題五絕就作畫贊  其四
-titlePinyin: jing4 ci2 xian3 lao3 wei2 zhong4 xing2 hua4 qie3 shi4 jin4 suo3 xie3 zhen1 xi4 ti2 wu3 jue2 jiu4 zuo4 hua4 zan4     qi2 si4
+title: 浄慈顯老爲衆行化且示近所寫真戲題五絕就作畫贊・其四
+titlePinyin: jing4 ci2 xian3 lao3 wei2 zhong4 xing2 hua4 qie3 shi4 jin4 suo3 xie3 zhen1 xi4 ti2 wu3 jue2 jiu4 zuo4 hua4 zan4・qi2 si4
 titleSlug: jing-ci-xian-lao-wei-zhong-xing-hua-qie-shi-jin-suo-xie-zhen-xi-ti-wu-jue-jiu-zuo-hua-zan-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shu-shi-san-jue-qi-er
-title: 書事三絕  其二
-titlePinyin: shu1 shi4 san1 jue2     qi2 er4
+title: 書事三絕・其二
+titlePinyin: shu1 shi4 san1 jue2・qi2 er4
 titleSlug: shu-shi-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

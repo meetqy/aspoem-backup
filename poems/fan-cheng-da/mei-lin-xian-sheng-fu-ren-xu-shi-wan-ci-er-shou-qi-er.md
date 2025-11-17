@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-mei-lin-xian-sheng-fu-ren-xu-shi-wan-ci-er-shou-qi-er
-title: 梅林先生夫人徐氏輓詞二首  其二
-titlePinyin: mei2 lin2 xian1 sheng0 fu1 ren2 xu2 shi4 wan3 ci2 er4 shou3     qi2 er4
+title: 梅林先生夫人徐氏輓詞二首・其二
+titlePinyin: mei2 lin2 xian1 sheng0 fu1 ren2 xu2 shi4 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: mei-lin-xian-sheng-fu-ren-xu-shi-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

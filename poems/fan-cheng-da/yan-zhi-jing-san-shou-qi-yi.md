@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yan-zhi-jing-san-shou-qi-yi
-title: 臙脂井三首  其一
-titlePinyin: yan1 zhi1 jing3 san1 shou3     qi2 yi1
+title: 臙脂井三首・其一
+titlePinyin: yan1 zhi1 jing3 san1 shou3・qi2 yi1
 titleSlug: yan-zhi-jing-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

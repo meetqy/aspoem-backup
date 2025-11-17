@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-li-cui-bo-shi-yu-wan-ci-er-shou-qi-yi
-title: 李粹伯侍御輓詞二首  其一
-titlePinyin: li3 cui4 bo2 shi4 yu4 wan3 ci2 er4 shou3     qi2 yi1
+title: 李粹伯侍御輓詞二首・其一
+titlePinyin: li3 cui4 bo2 shi4 yu4 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: li-cui-bo-shi-yu-wan-ci-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

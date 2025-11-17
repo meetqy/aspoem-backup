@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ku-yu-wu-shou-qi-san
-title: 苦雨五首  其三
-titlePinyin: ku3 yu3 wu3 shou3     qi2 san1
+title: 苦雨五首・其三
+titlePinyin: ku3 yu3 wu3 shou3・qi2 san1
 titleSlug: ku-yu-wu-shou-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-peng-yuan-bu-fu-hu-shang-guan-xue-zhi-ji-ming-ri-yu-zhao-shi-yu-tang-jian-ji-er-jue-ci-qi-yun-qi-er
-title: 朋元不赴湖上觀雪之集明日余召試玉堂見寄二絕次其韻  其二
-titlePinyin: peng2 yuan2 bu2 fu4 hu2 shang4 guan1 xue3 zhi1 ji2 ming2 ri4 yu2 zhao4 shi4 yu4 tang2 jian4 ji4 er4 jue2 ci4 qi2 yun4     qi2 er4
+title: 朋元不赴湖上觀雪之集明日余召試玉堂見寄二絕次其韻・其二
+titlePinyin: peng2 yuan2 bu2 fu4 hu2 shang4 guan1 xue3 zhi1 ji2 ming2 ri4 yu2 zhao4 shi4 yu4 tang2 jian4 ji4 er4 jue2 ci4 qi2 yun4・qi2 er4
 titleSlug: peng-yuan-bu-fu-hu-shang-guan-xue-zhi-ji-ming-ri-yu-zhao-shi-yu-tang-jian-ji-er-jue-ci-qi-yun-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-shu-bu-e-zhai-qiu-wan-xian-yin-wu-jue-qi-wu
-title: 殊不惡齋秋晚閒吟五絕  其五
-titlePinyin: shu1 bu2 e4 zhai1 qiu1 wan3 xian2 yin2 wu3 jue2     qi2 wu3
+title: 殊不惡齋秋晚閒吟五絕・其五
+titlePinyin: shu1 bu2 e4 zhai1 qiu1 wan3 xian2 yin2 wu3 jue2・qi2 wu3
 titleSlug: shu-bu-e-zhai-qiu-wan-xian-yin-wu-jue-qi-wu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

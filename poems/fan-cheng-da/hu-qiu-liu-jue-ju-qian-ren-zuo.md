@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-hu-qiu-liu-jue-ju-qian-ren-zuo
-title: 虎丘六絕句 千人坐
-titlePinyin: hu3 qiu1 liu4 jue2 ju4   qian1 ren2 zuo4
+title: 虎丘六絕句・千人坐
+titlePinyin: hu3 qiu1 liu4 jue2 ju4・qian1 ren2 zuo4
 titleSlug: hu-qiu-liu-jue-ju-qian-ren-zuo
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

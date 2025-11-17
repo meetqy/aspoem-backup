@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-chun-kun-er-jue-qi-yi
-title: 春困二絕  其一
-titlePinyin: chun1 kun4 er4 jue2     qi2 yi1
+title: 春困二絕・其一
+titlePinyin: chun1 kun4 er4 jue2・qi2 yi1
 titleSlug: chun-kun-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-tai-fu-yang-he-wang-wan-ge-ci-er-shou-qi-er
-title: 太傅楊和王輓歌詞二首  其二
-titlePinyin: tai4 fu4 yang2 he2 wang2 wan3 ge1 ci2 er4 shou3     qi2 er4
+title: 太傅楊和王輓歌詞二首・其二
+titlePinyin: tai4 fu4 yang2 he2 wang2 wan3 ge1 ci2 er4 shou3・qi2 er4
 titleSlug: tai-fu-yang-he-wang-wan-ge-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yu-xian-shou-er-chang-lao-you-shou-quan-yin-hua-qu-nian-lin-wu-zhi-you-ti-zeng-qi-er
-title: 與現壽二長老遊壽泉因話去年林屋之遊題贈  其二
-titlePinyin: yu3 xian4 shou4 er4 chang2 lao3 you2 shou4 quan2 yin1 hua4 qu4 nian2 lin2 wu1 zhi1 you2 ti2 zeng4     qi2 er4
+title: 與現壽二長老遊壽泉因話去年林屋之遊題贈・其二
+titlePinyin: yu3 xian4 shou4 er4 chang2 lao3 you2 shou4 quan2 yin1 hua4 qu4 nian2 lin2 wu1 zhi1 you2 ti2 zeng4・qi2 er4
 titleSlug: yu-xian-shou-er-chang-lao-you-shou-quan-yin-hua-qu-nian-lin-wu-zhi-you-ti-zeng-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

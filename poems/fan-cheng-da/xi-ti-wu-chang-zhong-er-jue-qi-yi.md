@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xi-ti-wu-chang-zhong-er-jue-qi-yi
-title: 戲題無常鐘二絕  其一
-titlePinyin: xi4 ti2 wu2 chang2 zhong1 er4 jue2     qi2 yi1
+title: 戲題無常鐘二絕・其一
+titlePinyin: xi4 ti2 wu2 chang2 zhong1 er4 jue2・qi2 yi1
 titleSlug: xi-ti-wu-chang-zhong-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

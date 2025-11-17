@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-qing-xiang-yi-song-wang-liu-zhou-nan-gui-er-jue-qi-yi
-title: 清湘驛送王柳州南歸二絕  其一
-titlePinyin: qing1 xiang1 yi4 song4 wang2 liu3 zhou1 nan2 gui1 er4 jue2     qi2 yi1
+title: 清湘驛送王柳州南歸二絕・其一
+titlePinyin: qing1 xiang1 yi4 song4 wang2 liu3 zhou1 nan2 gui1 er4 jue2・qi2 yi1
 titleSlug: qing-xiang-yi-song-wang-liu-zhou-nan-gui-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

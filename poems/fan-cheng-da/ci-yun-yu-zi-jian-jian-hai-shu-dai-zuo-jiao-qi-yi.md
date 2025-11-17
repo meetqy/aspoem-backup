@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-yu-zi-jian-jian-hai-shu-dai-zuo-jiao-qi-yi
-title: 次韻虞子建見咍贖带作醮  其一
-titlePinyin: ci4 yun4 yu2 zi3 jian4 jian4 hai1 shu2 dai4 zuo4 jiao4     qi2 yi1
+title: 次韻虞子建見咍贖带作醮・其一
+titlePinyin: ci4 yun4 yu2 zi3 jian4 jian4 hai1 shu2 dai4 zuo4 jiao4・qi2 yi1
 titleSlug: ci-yun-yu-zi-jian-jian-hai-shu-dai-zuo-jiao-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

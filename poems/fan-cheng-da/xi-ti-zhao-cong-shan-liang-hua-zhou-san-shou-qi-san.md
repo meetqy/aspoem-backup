@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xi-ti-zhao-cong-shan-liang-hua-zhou-san-shou-qi-san
-title: 戲題趙從善兩畫軸三首  其三
-titlePinyin: xi4 ti2 zhao4 cong2 shan4 liang3 hua4 zhou2 san1 shou3     qi2 san1
+title: 戲題趙從善兩畫軸三首・其三
+titlePinyin: xi4 ti2 zhao4 cong2 shan4 liang3 hua4 zhou2 san1 shou3・qi2 san1
 titleSlug: xi-ti-zhao-cong-shan-liang-hua-zhou-san-shou-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-fang-zhou-feng-fu-bu-shun-zai-bo-ma-dang-dui-an-jia-zhong-ma-dang-shui-fu-ji-xiao-shuo-suo-zai-shen-zhu-wang-bo-yi-xi-qing-feng-chu-ye-xi-ti-liang-jue-qi-er
-title: 放舟風復不順再泊馬當對岸夾中馬當水府即小說所載神助王勃一席清風處也戲題兩絕  其二
-titlePinyin: fang4 zhou1 feng1 fu4 bu2 shun4 zai4 bo2 ma3 dang1 dui4 an4 jia1 zhong1 ma3 dang1 shui3 fu3 ji2 xiao3 shuo1 suo3 zai4 shen2 zhu4 wang2 bo2 yi4 xi2 qing1 feng1 chu3 ye3 xi4 ti2 liang3 jue2     qi2 er4
+title: 放舟風復不順再泊馬當對岸夾中馬當水府即小說所載神助王勃一席清風處也戲題兩絕・其二
+titlePinyin: fang4 zhou1 feng1 fu4 bu2 shun4 zai4 bo2 ma3 dang1 dui4 an4 jia1 zhong1 ma3 dang1 shui3 fu3 ji2 xiao3 shuo1 suo3 zai4 shen2 zhu4 wang2 bo2 yi4 xi2 qing1 feng1 chu3 ye3 xi4 ti2 liang3 jue2・qi2 er4
 titleSlug: fang-zhou-feng-fu-bu-shun-zai-bo-ma-dang-dui-an-jia-zhong-ma-dang-shui-fu-ji-xiao-shuo-suo-zai-shen-zhu-wang-bo-yi-xi-qing-feng-chu-ye-xi-ti-liang-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

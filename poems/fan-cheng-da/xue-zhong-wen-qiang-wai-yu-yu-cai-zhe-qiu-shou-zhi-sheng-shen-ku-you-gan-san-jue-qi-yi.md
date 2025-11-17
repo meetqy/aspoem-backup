@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xue-zhong-wen-qiang-wai-yu-yu-cai-zhe-qiu-shou-zhi-sheng-shen-ku-you-gan-san-jue-qi-yi
-title: 雪中聞牆外鬻魚菜者求售之聲甚苦有感三絕  其一
-titlePinyin: xue3 zhong1 wen2 qiang2 wai4 yu4 yu2 cai4 zhe3 qiu2 shou4 zhi1 sheng1 shen4 ku3 you3 gan3 san1 jue2     qi2 yi1
+title: 雪中聞牆外鬻魚菜者求售之聲甚苦有感三絕・其一
+titlePinyin: xue3 zhong1 wen2 qiang2 wai4 yu4 yu2 cai4 zhe3 qiu2 shou4 zhi1 sheng1 shen4 ku3 you3 gan3 san1 jue2・qi2 yi1
 titleSlug: xue-zhong-wen-qiang-wai-yu-yu-cai-zhe-qiu-shou-zhi-sheng-shen-ku-you-gan-san-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

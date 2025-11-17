@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-liang-tou-xian-xian-er-shou-qi-er
-title: 兩頭纖纖二首  其二
-titlePinyin: liang3 tou2 xian1 xian1 er4 shou3     qi2 er4
+title: 兩頭纖纖二首・其二
+titlePinyin: liang3 tou2 xian1 xian1 er4 shou3・qi2 er4
 titleSlug: liang-tou-xian-xian-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

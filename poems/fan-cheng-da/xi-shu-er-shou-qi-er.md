@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xi-shu-er-shou-qi-er
-title: 戲書二首  其二
-titlePinyin: xi4 shu1 er4 shou3     qi2 er4
+title: 戲書二首・其二
+titlePinyin: xi4 shu1 er4 shou3・qi2 er4
 titleSlug: xi-shu-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xin-li-zhi-si-jue-qi-san
-title: 新荔枝四絕  其三
-titlePinyin: xin1 li4 zhi1 si4 jue2     qi2 san1
+title: 新荔枝四絕・其三
+titlePinyin: xin1 li4 zhi1 si4 jue2・qi2 san1
 titleSlug: xin-li-zhi-si-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-song-lu-wu-guan-bian-xiu-jian-zhen-jiang-jun-gui-hui-ji-dai-que-qi-er
-title: 送陸務觀編修監鎮江郡歸會稽待闕  其二
-titlePinyin: song4 lu4 wu4 guan1 bian1 xiu1 jian1 zhen4 jiang1 jun4 gui1 hui4 ji1 dai4 que4     qi2 er4
+title: 送陸務觀編修監鎮江郡歸會稽待闕・其二
+titlePinyin: song4 lu4 wu4 guan1 bian1 xiu1 jian1 zhen4 jiang1 jun4 gui1 hui4 ji1 dai4 que4・qi2 er4
 titleSlug: song-lu-wu-guan-bian-xiu-jian-zhen-jiang-jun-gui-hui-ji-dai-que-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

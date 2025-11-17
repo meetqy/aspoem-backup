@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-yu-zhang-nan-pu-ting-bo-zhou-er-shou-qi-er
-title: 豫章南浦亭泊舟二首  其二
-titlePinyin: yu4 zhang1 nan2 pu3 ting2 bo2 zhou1 er4 shou3     qi2 er4
+title: 豫章南浦亭泊舟二首・其二
+titlePinyin: yu4 zhang1 nan2 pu3 ting2 bo2 zhou1 er4 shou3・qi2 er4
 titleSlug: yu-zhang-nan-pu-ting-bo-zhou-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

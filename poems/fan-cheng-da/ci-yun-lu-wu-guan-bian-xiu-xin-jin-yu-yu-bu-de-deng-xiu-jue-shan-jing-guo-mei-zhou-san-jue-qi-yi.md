@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-lu-wu-guan-bian-xiu-xin-jin-yu-yu-bu-de-deng-xiu-jue-shan-jing-guo-mei-zhou-san-jue-qi-yi
-title: 次韻陸務觀編修新津遇雨不得登修覺山徑過眉州三絕  其一
-titlePinyin: ci4 yun4 lu4 wu4 guan1 bian1 xiu1 xin1 jin1 yu4 yu3 bu4 de2 deng1 xiu1 jue2 shan1 jing4 guo4 mei2 zhou1 san1 jue2     qi2 yi1
+title: 次韻陸務觀編修新津遇雨不得登修覺山徑過眉州三絕・其一
+titlePinyin: ci4 yun4 lu4 wu4 guan1 bian1 xiu1 xin1 jin1 yu4 yu3 bu4 de2 deng1 xiu1 jue2 shan1 jing4 guo4 mei2 zhou1 san1 jue2・qi2 yi1
 titleSlug: ci-yun-lu-wu-guan-bian-xiu-xin-jin-yu-yu-bu-de-deng-xiu-jue-shan-jing-guo-mei-zhou-san-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-shu-guo-tu-si-shou-ying-tao
-title: 題蜀果圖四首 櫻桃
-titlePinyin: ti2 shu3 guo3 tu2 si4 shou3   ying1 tao2
+title: 題蜀果圖四首・櫻桃
+titlePinyin: ti2 shu3 guo3 tu2 si4 shou3・ying1 tao2
 titleSlug: ti-shu-guo-tu-si-shou-ying-tao
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

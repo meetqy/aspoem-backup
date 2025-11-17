@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-qing-xi-zhai-liu-yan-shi-shou-qi-qi
-title: 題請息齋六言十首  其七
-titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3     qi2 qi1
+title: 題請息齋六言十首・其七
+titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3・qi2 qi1
 titleSlug: ti-qing-xi-zhai-liu-yan-shi-shou-qi-qi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

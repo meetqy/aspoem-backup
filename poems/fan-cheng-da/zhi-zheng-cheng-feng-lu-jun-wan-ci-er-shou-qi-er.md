@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-zhi-zheng-cheng-feng-lu-jun-wan-ci-er-shou-qi-er
-title: 致政承奉盧君輓詞二首  其二
-titlePinyin: zhi4 zheng4 cheng2 feng4 lu2 jun1 wan3 ci2 er4 shou3     qi2 er4
+title: 致政承奉盧君輓詞二首・其二
+titlePinyin: zhi4 zheng4 cheng2 feng4 lu2 jun1 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: zhi-zheng-cheng-feng-lu-jun-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

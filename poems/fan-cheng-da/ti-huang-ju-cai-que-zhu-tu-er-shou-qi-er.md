@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ti-huang-ju-cai-que-zhu-tu-er-shou-qi-er
-title: 題黄居寀雀竹圖二首  其二
-titlePinyin: ti2 huang2 ju1 cai3 que4 zhu2 tu2 er4 shou3     qi2 er4
+title: 題黄居寀雀竹圖二首・其二
+titlePinyin: ti2 huang2 ju1 cai3 que4 zhu2 tu2 er4 shou3・qi2 er4
 titleSlug: ti-huang-ju-cai-que-zhu-tu-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

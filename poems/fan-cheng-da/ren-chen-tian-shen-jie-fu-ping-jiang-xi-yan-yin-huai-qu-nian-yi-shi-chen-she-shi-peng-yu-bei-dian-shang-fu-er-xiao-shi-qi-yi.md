@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ren-chen-tian-shen-jie-fu-ping-jiang-xi-yan-yin-huai-qu-nian-yi-shi-chen-she-shi-peng-yu-bei-dian-shang-fu-er-xiao-shi-qi-yi
-title: 壬辰天申節赴平江錫燕因懷去年以侍臣攝事捧御盃殿上賦二小詩  其一
-titlePinyin: ren2 chen2 tian1 shen1 jie2 fu4 ping2 jiang1 xi1 yan4 yin1 huai2 qu4 nian2 yi3 shi4 chen2 she4 shi4 peng3 yu4 bei1 dian4 shang4 fu4 er4 xiao3 shi1     qi2 yi1
+title: 壬辰天申節赴平江錫燕因懷去年以侍臣攝事捧御盃殿上賦二小詩・其一
+titlePinyin: ren2 chen2 tian1 shen1 jie2 fu4 ping2 jiang1 xi1 yan4 yin1 huai2 qu4 nian2 yi3 shi4 chen2 she4 shi4 peng3 yu4 bei1 dian4 shang4 fu4 er4 xiao3 shi1・qi2 yi1
 titleSlug: ren-chen-tian-shen-jie-fu-ping-jiang-xi-yan-yin-huai-qu-nian-yi-shi-chen-she-shi-peng-yu-bei-dian-shang-fu-er-xiao-shi-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

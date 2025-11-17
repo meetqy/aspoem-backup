@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-huang-bi-xian-zhu-bo-tong-nian-zeng-bie-yun-er-shou-qi-yi
-title: 次黄必先主簿同年贈別韻二首  其一
-titlePinyin: ci4 huang2 bi4 xian1 zhu3 bo2 tong2 nian2 zeng4 bie2 yun4 er4 shou3     qi2 yi1
+title: 次黄必先主簿同年贈別韻二首・其一
+titlePinyin: ci4 huang2 bi4 xian1 zhu3 bo2 tong2 nian2 zeng4 bie2 yun4 er4 shou3・qi2 yi1
 titleSlug: ci-huang-bi-xian-zhu-bo-tong-nian-zeng-bie-yun-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

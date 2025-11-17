@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-guan-xi-tie-you-gan-san-jue-qi-san
-title: 觀禊帖有感三絕  其三
-titlePinyin: guan1 xi4 tie1 you3 gan3 san1 jue2     qi2 san1
+title: 觀禊帖有感三絕・其三
+titlePinyin: guan1 xi4 tie1 you3 gan3 san1 jue2・qi2 san1
 titleSlug: guan-xi-tie-you-gan-san-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

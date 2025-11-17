@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-bing-wu-xin-zheng-shu-huai-shi-shou-qi-ba
-title: 丙午新正書懷十首  其八
-titlePinyin: bing3 wu3 xin1 zheng1 shu1 huai2 shi2 shou3     qi2 ba1
+title: 丙午新正書懷十首・其八
+titlePinyin: bing3 wu3 xin1 zheng1 shu1 huai2 shi2 shou3・qi2 ba1
 titleSlug: bing-wu-xin-zheng-shu-huai-shi-shou-qi-ba
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

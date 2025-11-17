@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-ci-yun-dai-da-liu-wen-qian-si-ye-er-jue-qi-er
-title: 次韻代答劉文潛司業二絕  其二
-titlePinyin: ci4 yun4 dai4 da2 liu2 wen2 qian2 si1 ye4 er4 jue2     qi2 er4
+title: 次韻代答劉文潛司業二絕・其二
+titlePinyin: ci4 yun4 dai4 da2 liu2 wen2 qian2 si1 ye4 er4 jue2・qi2 er4
 titleSlug: ci-yun-dai-da-liu-wen-qian-si-ye-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-xie-jiang-dong-cao-yang-ting-xiu-bi-jian-song-jiang-dong-ji-bing-suo-jin-shi-er-shou-qi-er
-title: 謝江東漕楊廷秀祕監送江東集并索近詩二首  其二
-titlePinyin: xie4 jiang1 dong1 cao2 yang2 ting2 xiu4 bi4 jian1 song4 jiang1 dong1 ji2 bing4 suo3 jin4 shi1 er4 shou3     qi2 er4
+title: 謝江東漕楊廷秀祕監送江東集并索近詩二首・其二
+titlePinyin: xie4 jiang1 dong1 cao2 yang2 ting2 xiu4 bi4 jian1 song4 jiang1 dong1 ji2 bing4 suo3 jin4 shi1 er4 shou3・qi2 er4
 titleSlug: xie-jiang-dong-cao-yang-ting-xiu-bi-jian-song-jiang-dong-ji-bing-suo-jin-shi-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

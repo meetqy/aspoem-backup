@@ -1,7 +1,7 @@
 ---
 id: fan-cheng-da-song-xu-yao-qing-jian-cheng-tong-nian-fu-jing-jiang-cui-si-jue-qi-si
-title: 送許耀卿監丞同年赴靜江倅四絕  其四
-titlePinyin: song4 xu1 yao4 qing1 jian1 cheng2 tong2 nian2 fu4 jing4 jiang1 cui4 si4 jue2     qi2 si4
+title: 送許耀卿監丞同年赴靜江倅四絕・其四
+titlePinyin: song4 xu1 yao4 qing1 jian1 cheng2 tong2 nian2 fu4 jing4 jiang1 cui4 si4 jue2・qi2 si4
 titleSlug: song-xu-yao-qing-jian-cheng-tong-nian-fu-jing-jiang-cui-si-jue-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
@@ -9,7 +9,7 @@ authorSlug: fan-cheng-da
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
