@@ -26,8 +26,6 @@ tags: 五律,羁旅,山水,感怀
 - wu4 ji1 chuan1 yuan2 an4 ， shan1 duo1 jun4 xian4 xi1 。
 - jin1 zhao1 xia4 xiang1 an4 ， geng4 zhu2 zhe4 gu1 fei1 。
 
-五律,羁旅,山水,感怀
-
 ## 注释
 
 - 鴻：大雁，古人常以鸿雁南飞象征季节更替或离别。
