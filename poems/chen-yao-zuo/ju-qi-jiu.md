@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-ju-qi-jiu
-title: 句  其九
-titlePinyin: ju4     qi2 jiu3
+title: 句・其九
+titlePinyin: ju4・qi2 jiu3
 titleSlug: ju-qi-jiu
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

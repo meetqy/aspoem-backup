@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-san-cheng-shi-lang-ji-shi-liu-ti-yan-qing-si-er-yun-shi-er-zhang-qing-sui-yu-yi-ye-wu-ci-yi-jing-jin-zai-xing-hui-zhi-ji-shou-chang-zhi-xu-xiang-yi-jin-yi-ming-pan-he-dan-wu-shou-zhang-zeng-wei-si-yun-gai-qian-lou-zhi-cai-bu-jue-ci-fei-yin-qian-zhi-zi-zan-shan-dai-fu-tong-pan-bin-zhou-shi-xue-gu-xie-wu-ci-pai-yi-yong-jia-ci-qi-er
-title: 三城侍郎寄示留題延慶寺二韻詩二章頃歲予肄業於此遺景盡在幸會之迹首唱之序詳矣謹依命攀和但於首章增爲四韻蓋淺陋之才不覺辭費因遣稚子贊善大夫通判邠州事學古寫於此牌以永嘉賜  其二
-titlePinyin: san1 cheng2 shi4 lang2 ji4 shi4 liu2 ti2 yan2 qing4 si4 er4 yun4 shi1 er4 zhang1 qing3 sui4 yu3 yi4 ye4 wu1 ci3 yi2 jing3 jin4 zai4 xing4 hui4 zhi1 ji4 shou3 chang4 zhi1 xu4 xiang2 yi3 jin3 yi1 ming4 pan1 he2 dan4 wu1 shou3 zhang1 zeng1 wei2 si4 yun4 gai4 qian3 lou4 zhi1 cai2 bu4 jue2 ci2 fei4 yin1 qian3 zhi4 zi3 zan4 shan4 dai4 fu0 tong1 pan4 bin1 zhou1 shi4 xue2 gu3 xie3 wu1 ci3 pai2 yi3 yong3 jia1 ci4     qi2 er4
+title: 三城侍郎寄示留題延慶寺二韻詩二章頃歲予肄業於此遺景盡在幸會之迹首唱之序詳矣謹依命攀和但於首章增爲四韻蓋淺陋之才不覺辭費因遣稚子贊善大夫通判邠州事學古寫於此牌以永嘉賜・其二
+titlePinyin: san1 cheng2 shi4 lang2 ji4 shi4 liu2 ti2 yan2 qing4 si4 er4 yun4 shi1 er4 zhang1 qing3 sui4 yu3 yi4 ye4 wu1 ci3 yi2 jing3 jin4 zai4 xing4 hui4 zhi1 ji4 shou3 chang4 zhi1 xu4 xiang2 yi3 jin3 yi1 ming4 pan1 he2 dan4 wu1 shou3 zhang1 zeng1 wei2 si4 yun4 gai4 qian3 lou4 zhi1 cai2 bu4 jue2 ci2 fei4 yin1 qian3 zhi4 zi3 zan4 shan4 dai4 fu0 tong1 pan4 bin1 zhou1 shi4 xue2 gu3 xie3 wu1 ci3 pai2 yi3 yong3 jia1 ci4・qi2 er4
 titleSlug: san-cheng-shi-lang-ji-shi-liu-ti-yan-qing-si-er-yun-shi-er-zhang-qing-sui-yu-yi-ye-wu-ci-yi-jing-jin-zai-xing-hui-zhi-ji-shou-chang-zhi-xu-xiang-yi-jin-yi-ming-pan-he-dan-wu-shou-zhang-zeng-wei-si-yun-gai-qian-lou-zhi-cai-bu-jue-ci-fei-yin-qian-zhi-zi-zan-shan-dai-fu-tong-pan-bin-zhou-shi-xue-gu-xie-wu-ci-pai-yi-yong-jia-ci-qi-er
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-hu-qiu-qi-er
-title: 虎丘  其二
-titlePinyin: hu3 qiu1     qi2 er4
+title: 虎丘・其二
+titlePinyin: hu3 qiu1・qi2 er4
 titleSlug: hu-qiu-qi-er
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

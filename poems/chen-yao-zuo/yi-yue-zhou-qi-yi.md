@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-yi-yue-zhou-qi-yi
-title: 憶越州  其一
-titlePinyin: yi4 yue4 zhou1     qi2 yi1
+title: 憶越州・其一
+titlePinyin: yi4 yue4 zhou1・qi2 yi1
 titleSlug: yi-yue-zhou-qi-yi
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

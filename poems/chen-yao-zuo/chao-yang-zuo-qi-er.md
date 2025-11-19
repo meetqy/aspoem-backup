@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-chao-yang-zuo-qi-er
-title: 潮陽作  其二
-titlePinyin: chao2 yang2 zuo4     qi2 er4
+title: 潮陽作・其二
+titlePinyin: chao2 yang2 zuo4・qi2 er4
 titleSlug: chao-yang-zuo-qi-er
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

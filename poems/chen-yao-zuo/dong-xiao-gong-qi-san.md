@@ -1,7 +1,7 @@
 ---
 id: chen-yao-zuo-dong-xiao-gong-qi-san
-title: 洞霄宮  其三
-titlePinyin: dong4 xiao1 gong1     qi2 san1
+title: 洞霄宮・其三
+titlePinyin: dong4 xiao1 gong1・qi2 san1
 titleSlug: dong-xiao-gong-qi-san
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
@@ -9,7 +9,7 @@ authorSlug: chen-yao-zuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
