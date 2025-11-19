@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-zai-ci-xu-xian-bei-er-shou-qi-er
-title: 再次徐先輩二首  其二
-titlePinyin: zai4 ci4 xu2 xian1 bei4 er4 shou3     qi2 er4
+title: 再次徐先輩二首・其二
+titlePinyin: zai4 ci4 xu2 xian1 bei4 er4 shou3・qi2 er4
 titleSlug: zai-ci-xu-xian-bei-er-shou-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

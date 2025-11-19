@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-gao-you-yin-shi-pu-tao-lu-yan-qiu-gua-san-zhong-qi-er
-title: 高郵因師蒲萄蘆鴈秋瓜三種  其二
-titlePinyin: gao1 you2 yin1 shi1 pu2 tao2 lu2 yan4 qiu1 gua1 san1 zhong3     qi2 er4
+title: 高郵因師蒲萄蘆鴈秋瓜三種・其二
+titlePinyin: gao1 you2 yin1 shi1 pu2 tao2 lu2 yan4 qiu1 gua1 san1 zhong3・qi2 er4
 titleSlug: gao-you-yin-shi-pu-tao-lu-yan-qiu-gua-san-zhong-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

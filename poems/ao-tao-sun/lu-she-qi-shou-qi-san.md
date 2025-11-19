@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-lu-she-qi-shou-qi-san
-title: 旅舍七首  其三
-titlePinyin: lü3 she4 qi1 shou3     qi2 san1
+title: 旅舍七首・其三
+titlePinyin: lü3 she4 qi1 shou3・qi2 san1
 titleSlug: lu-she-qi-shou-qi-san
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-xiao-lou-qi-er
-title: 小樓  其二
-titlePinyin: xiao3 lou2     qi2 er4
+title: 小樓・其二
+titlePinyin: xiao3 lou2・qi2 er4
 titleSlug: xiao-lou-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

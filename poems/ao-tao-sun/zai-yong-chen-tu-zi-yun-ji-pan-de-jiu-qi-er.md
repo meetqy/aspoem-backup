@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-zai-yong-chen-tu-zi-yun-ji-pan-de-jiu-qi-er
-title: 再用晨吐字韵寄潘德久  其二
-titlePinyin: zai4 yong4 chen2 tu3 zi4 yun4 ji4 pan1 de2 jiu3     qi2 er4
+title: 再用晨吐字韵寄潘德久・其二
+titlePinyin: zai4 yong4 chen2 tu3 zi4 yun4 ji4 pan1 de2 jiu3・qi2 er4
 titleSlug: zai-yong-chen-tu-zi-yun-ji-pan-de-jiu-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

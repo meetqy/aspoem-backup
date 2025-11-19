@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-qiu-ri-za-xing-qi-san
-title: 秋日雜興  其三
-titlePinyin: qiu1 ri4 za2 xing1     qi2 san1
+title: 秋日雜興・其三
+titlePinyin: qiu1 ri4 za2 xing1・qi2 san1
 titleSlug: qiu-ri-za-xing-qi-san
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

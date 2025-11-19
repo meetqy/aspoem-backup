@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-shang-min-shuai-fan-shi-hu-wu-shou-qi-er
-title: 上閩帥范石湖五首  其二
-titlePinyin: shang4 min3 shuai4 fan4 shi2 hu2 wu3 shou3     qi2 er4
+title: 上閩帥范石湖五首・其二
+titlePinyin: shang4 min3 shuai4 fan4 shi2 hu2 wu3 shou3・qi2 er4
 titleSlug: shang-min-shuai-fan-shi-hu-wu-shou-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

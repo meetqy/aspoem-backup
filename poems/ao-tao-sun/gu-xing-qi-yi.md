@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-gu-xing-qi-yi
-title: 古興  其一
-titlePinyin: gu3 xing1     qi2 yi1
+title: 古興・其一
+titlePinyin: gu3 xing1・qi2 yi1
 titleSlug: gu-xing-qi-yi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

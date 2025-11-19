@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-bie-yuan-xi-zhi-er-shou-qi-yi
-title: 別袁席之二首  其一
-titlePinyin: bie2 yuan2 xi2 zhi1 er4 shou3     qi2 yi1
+title: 別袁席之二首・其一
+titlePinyin: bie2 yuan2 xi2 zhi1 er4 shou3・qi2 yi1
 titleSlug: bie-yuan-xi-zhi-er-shou-qi-yi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

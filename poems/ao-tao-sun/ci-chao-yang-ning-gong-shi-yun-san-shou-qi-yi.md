@@ -1,7 +1,7 @@
 ---
 id: ao-tao-sun-ci-chao-yang-ning-gong-shi-yun-san-shou-qi-yi
-title: 次潮陽寧公詩韵三首  其一
-titlePinyin: ci4 chao2 yang2 ning2 gong1 shi1 yun4 san1 shou3     qi2 yi1
+title: 次潮陽寧公詩韵三首・其一
+titlePinyin: ci4 chao2 yang2 ning2 gong1 shi1 yun4 san1 shou3・qi2 yi1
 titleSlug: ci-chao-yang-ning-gong-shi-yun-san-shou-qi-yi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
@@ -9,7 +9,7 @@ authorSlug: ao-tao-sun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
