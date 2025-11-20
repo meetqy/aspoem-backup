@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-qing-chan-qiao
-title: 蒲氏別墅十詠 清蟾橋
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   qing1 chan2 qiao2
+title: 蒲氏別墅十詠・清蟾橋
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・qing1 chan2 qiao2
 titleSlug: pu-shi-bie-shu-shi-yong-qing-chan-qiao
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

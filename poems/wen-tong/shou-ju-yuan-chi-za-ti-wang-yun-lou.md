@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-wang-yun-lou
-title: 守居園池雜題 望雲樓
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   wang4 yun2 lou2
+title: 守居園池雜題・望雲樓
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・wang4 yun2 lou2
 titleSlug: shou-ju-yuan-chi-za-ti-wang-yun-lou
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

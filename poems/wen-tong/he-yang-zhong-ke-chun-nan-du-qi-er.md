@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-yang-zhong-ke-chun-nan-du-qi-er
-title: 和楊仲軻春難度  其二
-titlePinyin: he2 yang2 zhong4 ke1 chun1 nan2 du4     qi2 er4
+title: 和楊仲軻春難度・其二
+titlePinyin: he2 yang2 zhong4 ke1 chun1 nan2 du4・qi2 er4
 titleSlug: he-yang-zhong-ke-chun-nan-du-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

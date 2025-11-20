@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhang-si-ru-mi-xiao-wan-shi-er-shou-qi-er
-title: 張思孺秘校挽詩二首  其二
-titlePinyin: zhang1 si1 ru2 mi4 xiao4 wan3 shi1 er4 shou3     qi2 er4
+title: 張思孺秘校挽詩二首・其二
+titlePinyin: zhang1 si1 ru2 mi4 xiao4 wan3 shi1 er4 shou3・qi2 er4
 titleSlug: zhang-si-ru-mi-xiao-wan-shi-er-shou-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

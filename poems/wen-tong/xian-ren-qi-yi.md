@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xian-ren-qi-yi
-title: 仙人  其一
-titlePinyin: xian1 ren2     qi2 yi1
+title: 仙人・其一
+titlePinyin: xian1 ren2・qi2 yi1
 titleSlug: xian-ren-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

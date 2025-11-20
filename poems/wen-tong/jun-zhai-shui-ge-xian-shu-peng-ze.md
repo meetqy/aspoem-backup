@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-peng-ze
-title: 郡齋水閣閑書 彭澤
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   peng2 ze2
+title: 郡齋水閣閑書・彭澤
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・peng2 ze2
 titleSlug: jun-zhai-shui-ge-xian-shu-peng-ze
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

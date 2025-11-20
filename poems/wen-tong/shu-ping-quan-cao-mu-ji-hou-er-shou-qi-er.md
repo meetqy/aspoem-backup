@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shu-ping-quan-cao-mu-ji-hou-er-shou-qi-er
-title: 書平泉草木記後二首  其二
-titlePinyin: shu1 ping2 quan2 cao3 mu4 ji4 hou4 er4 shou3     qi2 er4
+title: 書平泉草木記後二首・其二
+titlePinyin: shu1 ping2 quan2 cao3 mu4 ji4 hou4 er4 shou3・qi2 er4
 titleSlug: shu-ping-quan-cao-mu-ji-hou-er-shou-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

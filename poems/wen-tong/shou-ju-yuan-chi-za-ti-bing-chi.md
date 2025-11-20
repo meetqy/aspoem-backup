@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-bing-chi
-title: 守居園池雜題 冰池
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   bing1 chi2
+title: 守居園池雜題・冰池
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・bing1 chi2
 titleSlug: shou-ju-yuan-chi-za-ti-bing-chi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

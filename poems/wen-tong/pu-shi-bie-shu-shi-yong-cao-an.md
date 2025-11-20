@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-cao-an
-title: 蒲氏別墅十詠 草庵
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   cao3 an1
+title: 蒲氏別墅十詠・草庵
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・cao3 an1
 titleSlug: pu-shi-bie-shu-shi-yong-cao-an
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

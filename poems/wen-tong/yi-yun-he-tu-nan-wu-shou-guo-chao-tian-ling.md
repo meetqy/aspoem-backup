@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yi-yun-he-tu-nan-wu-shou-guo-chao-tian-ling
-title: 依韵和圖南五首 過朝天嶺
-titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3   guo4 chao2 tian1 ling3
+title: 依韵和圖南五首・過朝天嶺
+titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3・guo4 chao2 tian1 ling3
 titleSlug: yi-yun-he-tu-nan-wu-shou-guo-chao-tian-ling
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

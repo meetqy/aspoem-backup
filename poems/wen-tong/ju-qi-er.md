@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句・其二
+titlePinyin: ju4・qi2 er4
 titleSlug: ju-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

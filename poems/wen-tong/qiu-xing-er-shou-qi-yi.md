@@ -1,7 +1,7 @@
 ---
 id: wen-tong-qiu-xing-er-shou-qi-yi
-title: 秋興二首  其一
-titlePinyin: qiu1 xing1 er4 shou3     qi2 yi1
+title: 秋興二首・其一
+titlePinyin: qiu1 xing1 er4 shou3・qi2 yi1
 titleSlug: qiu-xing-er-shou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

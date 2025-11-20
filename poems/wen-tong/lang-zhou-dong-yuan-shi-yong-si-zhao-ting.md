@@ -1,7 +1,7 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-si-zhao-ting
-title: 閬州東園十詠 四照亭
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   si4 zhao4 ting2
+title: 閬州東園十詠・四照亭
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・si4 zhao4 ting2
 titleSlug: lang-zhou-dong-yuan-shi-yong-si-zhao-ting
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

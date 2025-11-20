@@ -1,7 +1,7 @@
 ---
 id: wen-tong-hu-shang-zhong-qin-jin-yi-su-hu-wei-ti-tao-he
-title: 湖上衆禽盡以俗呼爲題 淘河
-titlePinyin: hu2 shang4 zhong4 qin2 jin4 yi3 su2 hu1 wei2 ti2   tao2 he2
+title: 湖上衆禽盡以俗呼爲題・淘河
+titlePinyin: hu2 shang4 zhong4 qin2 jin4 yi3 su2 hu1 wei2 ti2・tao2 he2
 titleSlug: hu-shang-zhong-qin-jin-yi-su-hu-wei-ti-tao-he
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

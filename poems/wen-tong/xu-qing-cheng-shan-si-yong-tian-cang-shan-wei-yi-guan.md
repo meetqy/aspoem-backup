@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xu-qing-cheng-shan-si-yong-tian-cang-shan-wei-yi-guan
-title: 續青城山四詠 天倉山威儀觀
-titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3   tian1 cang1 shan1 wei1 yi2 guan1
+title: 續青城山四詠・天倉山威儀觀
+titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3・tian1 cang1 shan1 wei1 yi2 guan1
 titleSlug: xu-qing-cheng-shan-si-yong-tian-cang-shan-wei-yi-guan
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

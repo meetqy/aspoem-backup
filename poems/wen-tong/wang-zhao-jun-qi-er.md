@@ -1,7 +1,7 @@
 ---
 id: wen-tong-wang-zhao-jun-qi-er
-title: 王昭君  其二
-titlePinyin: wang2 zhao1 jun1     qi2 er4
+title: 王昭君・其二
+titlePinyin: wang2 zhao1 jun1・qi2 er4
 titleSlug: wang-zhao-jun-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

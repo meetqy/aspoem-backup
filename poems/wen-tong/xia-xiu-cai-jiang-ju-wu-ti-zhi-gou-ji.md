@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xia-xiu-cai-jiang-ju-wu-ti-zhi-gou-ji
-title: 夏秀才江居五題 直鈎磯
-titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2   zhi2 gou1 ji1
+title: 夏秀才江居五題・直鈎磯
+titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2・zhi2 gou1 ji1
 titleSlug: xia-xiu-cai-jiang-ju-wu-ti-zhi-gou-ji
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

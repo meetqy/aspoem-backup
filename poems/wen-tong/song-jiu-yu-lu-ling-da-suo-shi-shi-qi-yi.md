@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-jiu-yu-lu-ling-da-suo-shi-shi-qi-yi
-title: 送酒與呂令答所示詩  其一
-titlePinyin: song4 jiu3 yu3 lü3 ling4 da2 suo3 shi4 shi1     qi2 yi1
+title: 送酒與呂令答所示詩・其一
+titlePinyin: song4 jiu3 yu3 lü3 ling4 da2 suo3 shi4 shi1・qi2 yi1
 titleSlug: song-jiu-yu-lu-ling-da-suo-shi-shi-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

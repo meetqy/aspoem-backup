@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-ou-shu
-title: 郡齋水閣閑書 偶書
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   ou3 shu1
+title: 郡齋水閣閑書・偶書
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・ou3 shu1
 titleSlug: jun-zhai-shui-ge-xian-shu-ou-shu
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

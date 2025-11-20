@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xia-xiu-cai-jiang-ju-wu-ti-zhen-liu-ting
-title: 夏秀才江居五題 枕流亭
-titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2   zhen3 liu2 ting2
+title: 夏秀才江居五題・枕流亭
+titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2・zhen3 liu2 ting2
 titleSlug: xia-xiu-cai-jiang-ju-wu-ti-zhen-liu-ting
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

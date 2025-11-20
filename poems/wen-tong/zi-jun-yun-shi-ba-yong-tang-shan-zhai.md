@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zi-jun-yun-shi-ba-yong-tang-shan-zhai
-title: 子駿運使八咏堂 山齋
-titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2   shan1 zhai1
+title: 子駿運使八咏堂・山齋
+titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2・shan1 zhai1
 titleSlug: zi-jun-yun-shi-ba-yong-tang-shan-zhai
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

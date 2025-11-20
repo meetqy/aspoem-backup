@@ -1,7 +1,7 @@
 ---
 id: wen-tong-miao-zi-ju-yun-pan-gui-su-zhou-tong-fu-wu-kang-xi-xian-dao-zhong-feng-ji-qi-yi
-title: 苗子居運判歸宿州同赴武康西縣道中奉寄  其一
-titlePinyin: miao2 zi0 ju1 yun4 pan4 gui1 su4 zhou1 tong2 fu4 wu3 kang1 xi1 xian4 dao4 zhong1 feng4 ji4     qi2 yi1
+title: 苗子居運判歸宿州同赴武康西縣道中奉寄・其一
+titlePinyin: miao2 zi0 ju1 yun4 pan4 gui1 su4 zhou1 tong2 fu4 wu3 kang1 xi1 xian4 dao4 zhong1 feng4 ji4・qi2 yi1
 titleSlug: miao-zi-ju-yun-pan-gui-su-zhou-tong-fu-wu-kang-xi-xian-dao-zhong-feng-ji-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ru-gu-ma-shang-qi-yi
-title: 入谷馬上  其一
-titlePinyin: ru4 gu3 ma3 shang4     qi2 yi1
+title: 入谷馬上・其一
+titlePinyin: ru4 gu3 ma3 shang4・qi2 yi1
 titleSlug: ru-gu-ma-shang-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

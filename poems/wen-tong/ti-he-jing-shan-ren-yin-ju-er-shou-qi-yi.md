@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ti-he-jing-shan-ren-yin-ju-er-shou-qi-yi
-title: 題何靖山人隠居二首  其一
-titlePinyin: ti2 he2 jing4 shan1 ren2 yin3 ju1 er4 shou3     qi2 yi1
+title: 題何靖山人隠居二首・其一
+titlePinyin: ti2 he2 jing4 shan1 ren2 yin3 ju1 er4 shou3・qi2 yi1
 titleSlug: ti-he-jing-shan-ren-yin-ju-er-shou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

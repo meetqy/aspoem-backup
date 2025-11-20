@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xing-yuan-fu-yuan-ting-za-yong-jing-an
-title: 興元府園亭雜咏 靜庵
-titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3   jing4 an1
+title: 興元府園亭雜咏・靜庵
+titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3・jing4 an1
 titleSlug: xing-yuan-fu-yuan-ting-za-yong-jing-an
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xue-zhong-san-zhang-ji-jing-ru-ti-xing-wan-xue-hu-shang
-title: 雪中三章寄景孺提刑 晚雪湖上
-titlePinyin: xue3 zhong1 san1 zhang1 ji4 jing3 ru2 ti2 xing2   wan3 xue3 hu2 shang4
+title: 雪中三章寄景孺提刑・晚雪湖上
+titlePinyin: xue3 zhong1 san1 zhang1 ji4 jing3 ru2 ti2 xing2・wan3 xue3 hu2 shang4
 titleSlug: xue-zhong-san-zhang-ji-jing-ru-ti-xing-wan-xue-hu-shang
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

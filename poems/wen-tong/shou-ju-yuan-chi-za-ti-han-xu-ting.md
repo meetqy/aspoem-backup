@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-han-xu-ting
-title: 守居園池雜題 涵虛亭
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   han2 xu1 ting2
+title: 守居園池雜題・涵虛亭
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・han2 xu1 ting2
 titleSlug: shou-ju-yuan-chi-za-ti-han-xu-ting
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

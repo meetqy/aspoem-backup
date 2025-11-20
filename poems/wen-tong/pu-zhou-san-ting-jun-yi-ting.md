@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-zhou-san-ting-jun-yi-ting
-title: 普州三亭 均逸亭
-titlePinyin: pu3 zhou1 san1 ting2   jun1 yi4 ting2
+title: 普州三亭・均逸亭
+titlePinyin: pu3 zhou1 san1 ting2・jun1 yi4 ting2
 titleSlug: pu-zhou-san-ting-jun-yi-ting
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

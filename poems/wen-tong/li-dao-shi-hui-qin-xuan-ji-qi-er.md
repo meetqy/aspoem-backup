@@ -1,7 +1,7 @@
 ---
 id: wen-tong-li-dao-shi-hui-qin-xuan-ji-qi-er
-title: 李道士惠琴軒集  其二
-titlePinyin: li3 dao4 shi0 hui4 qin2 xuan1 ji2     qi2 er4
+title: 李道士惠琴軒集・其二
+titlePinyin: li3 dao4 shi0 hui4 qin2 xuan1 ji2・qi2 er4
 titleSlug: li-dao-shi-hui-qin-xuan-ji-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

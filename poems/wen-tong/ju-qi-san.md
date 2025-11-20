@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句・其三
+titlePinyin: ju4・qi2 san1
 titleSlug: ju-qi-san
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

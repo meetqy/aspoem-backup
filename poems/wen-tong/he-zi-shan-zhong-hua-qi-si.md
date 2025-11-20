@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-zi-shan-zhong-hua-qi-si
-title: 和子山種花  其四
-titlePinyin: he2 zi3 shan1 zhong3 hua1     qi2 si4
+title: 和子山種花・其四
+titlePinyin: he2 zi3 shan1 zhong3 hua1・qi2 si4
 titleSlug: he-zi-shan-zhong-hua-qi-si
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

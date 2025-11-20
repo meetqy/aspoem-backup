@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ke-xiao-kou-hao-qi-wu
-title: 可笑口號  其五
-titlePinyin: ke3 xiao4 kou3 hao4     qi2 wu3
+title: 可笑口號・其五
+titlePinyin: ke3 xiao4 kou3 hao4・qi2 wu3
 titleSlug: ke-xiao-kou-hao-qi-wu
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

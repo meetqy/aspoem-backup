@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xia-xiu-cai-jiang-ju-wu-ti-dou-bi-ting
-title: 夏秀才江居五題 鬥碧亭
-titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2   dou4 bi4 ting2
+title: 夏秀才江居五題・鬥碧亭
+titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2・dou4 bi4 ting2
 titleSlug: xia-xiu-cai-jiang-ju-wu-ti-dou-bi-ting
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

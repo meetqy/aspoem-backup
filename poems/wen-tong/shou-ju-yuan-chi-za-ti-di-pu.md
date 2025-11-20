@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-di-pu
-title: 守居園池雜題 荻浦
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   di2 pu3
+title: 守居園池雜題・荻浦
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・di2 pu3
 titleSlug: shou-ju-yuan-chi-za-ti-di-pu
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

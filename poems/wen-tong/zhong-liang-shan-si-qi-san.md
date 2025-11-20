@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhong-liang-shan-si-qi-san
-title: 中梁山寺  其三
-titlePinyin: zhong1 liang2 shan1 si4     qi2 san1
+title: 中梁山寺・其三
+titlePinyin: zhong1 liang2 shan1 si4・qi2 san1
 titleSlug: zhong-liang-shan-si-qi-san
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

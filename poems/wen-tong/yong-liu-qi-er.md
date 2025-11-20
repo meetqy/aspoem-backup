@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yong-liu-qi-er
-title: 咏柳  其二
-titlePinyin: yong3 liu3     qi2 er4
+title: 咏柳・其二
+titlePinyin: yong3 liu3・qi2 er4
 titleSlug: yong-liu-qi-er
 author: 文同
 authorPinyin: wen2 tong2
@@ -9,7 +9,7 @@ authorSlug: wen-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
