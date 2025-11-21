@@ -48,7 +48,7 @@ tags: []
 - xing1 dou3 nong4 guang1 cai3 ， luo2 luo4 zao4 huo3 ban1 。
 - ba2 lü3 sui1 yun2 juan4 ， sang1 zi3 de2 zan4 huan2 。
 - lin2 seng1 shou4 guan3 she4 ， tian2 ke4 pan1 an1 huan2 。
-- wu2 xin1 ben3 jiao3 jiao3 ， bi3 gou4 tu2  { kou3 yan2 }{ kou3 yan2 }。
+- wu2 xin1 ben3 jiao3 jiao3 ， bi3 gou4 tu2 { kou3 yan2 }{ kou3 yan2 }。
 - fang1 tou2 ding4 jian4 zhao4 ， ji2 shi3 zheng1 ma3 ban1 。
 - xiang1 qi1 mu4 lan2 ji2 ， dang4 yang4 qiong2 chuan1 wan1 。
 

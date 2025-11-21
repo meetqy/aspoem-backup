@@ -29,7 +29,7 @@ tags: []
 - jia3 shou3 fu4 chun1 gong1 ， qiu1 hao2 ting1 min2 ci2 。
 - su4 ye4 lin2 gong1 ting1 ， gui1 wo4 suan1 ti3 zhi1 。
 - li3 hou2 lai2 kui4 yao4 ， qi1 yi3 shi2 ri4 zhi1 。
-- shen1 zhong1 hu4 ling2 gen1 ， jin1 suo3 bi4 yu4  { shi4 }。
+- shen1 zhong1 hu4 ling2 gen1 ， jin1 suo3 bi4 yu4 { shi4 }。
 - bu4 xu1 xu1 fu3 zi0 ， xin1 qin2 cai3 yu4 zhi1 。
 - wo3 fang1 kun4 jian4 song4 ， zhua1 weng1 zheng1 yi4 zhui1 。
 - bu4 neng2 ming2 xian2 zuo4 ， po1 si4 wu1 ma3 qi1 。

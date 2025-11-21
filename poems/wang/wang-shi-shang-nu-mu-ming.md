@@ -28,7 +28,7 @@ tags: []
 ## 拼音
 
 - wang2 shi4 shang1 nü3 qi2 ming2 rong2 ， ming2 you2 yi2 fan4 san1 de2 chong1 ， song4 shi1 yue4 shi3 mu4 gu3 feng1 ， bei1 ying2 le4 shan4 zheng4 yang3 meng2 。
-- shi4 yi2 bai3 xiang2 qi1 wu2 qiong2 ， nai4 he2 mei3 nai3  { xia4 wei2 er3 }  jiao3 qi2 gong1 。
+- shi4 yi2 bai3 xiang2 qi1 wu2 qiong2 ， nai4 he2 mei3 nai3 { xia4 wei2 er3 } jiao3 qi2 gong1 。
 - fang1 nian2 yan3 xie4 wu3 xian2 tong1 ， ji4 xia4 er4 shi2 san1 gou4 xiong1 ， yi4 yue4 shi2 ba1 ji2 you1 gong1 ， shou4 yu2 ji2 ji1 san1 er2 zhong1 。
 - jin4 yang2 zhi1 zhou4 guan1 zhu1 zong1 ， jue2 kao3 chang2 ren2 ming4 bu4 rong2 ， wai4 zu2 qing1 he2 wu3 cheng2 dong1 ， zhong1 wai4 hui1 chao1 wei2 shi4 xiong2 。
 - jin1 yi3 yi3 fu1 shi2 jiao4 feng1 ， zhong4 fu4 ke4 ming2 cang2 hu4 zhong1 ， yi3 shu1 lin2 xue2 㛐 bei1 dong4 。

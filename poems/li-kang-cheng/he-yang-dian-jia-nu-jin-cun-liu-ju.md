@@ -32,8 +32,8 @@ tags: []
 - yin1 yuan2 gou3 he2 hui4 （《 shi4 yuan2 cong2 shu1 》 ben3 ji2 《 wen2 xian4 tong1 kao3 ・ jing1 ji2 kao3 》 jie1 zuo4 「 hui4 he2 」）， wan4 li3 you2 tong2 xiang1 。
 - yun4 ming4 tang3 bu4 xie2 ， ge2 bi4 wu2 jin1 liang2 。
 - chuan2 yu3 wang2 jia1 zi3 ， he2 wei2 bu2 zi4 liang4 ？
-- （ jian4 song4 liu2 ke4 zhuang1 《 hou4 cun1 xian1 sheng0 da4 quan2 ji2 》 juan4 yi1 qi1 qi1 《 shi1 hua4 xu4 ji2 》 yin3 kang1 cheng2 ji2 《 yu4 tai2 hou4 ji2 》）（〖1〗 liu2 ke4 zhuang1 yun2 ：《 yu4 tai2 hou4 ji2 》「 zhong1 jian4 zi4 zai4 qi2 shi1 ba1 shou3 ，……  ru2 《 he2 yang2 dian4 jia1 nü3 》 chang2 pian1 yi4 shou3 ， ya1 wu3 shi2 er4 yun4 ， ruo4 yu4 yu3 《 mu4 lan2 》 ji2 『 kong3 que4 dong1 nan2 fei1 』 zhi1 zuo4 fang1 jia4 zhe3 。
-- mo4 yun2 ：『 yin1 yuan2 ……  jin1 liang2 。
+- （ jian4 song4 liu2 ke4 zhuang1 《 hou4 cun1 xian1 sheng0 da4 quan2 ji2 》 juan4 yi1 qi1 qi1 《 shi1 hua4 xu4 ji2 》 yin3 kang1 cheng2 ji2 《 yu4 tai2 hou4 ji2 》）（〖1〗 liu2 ke4 zhuang1 yun2 ：《 yu4 tai2 hou4 ji2 》「 zhong1 jian4 zi4 zai4 qi2 shi1 ba1 shou3 ，…… ru2 《 he2 yang2 dian4 jia1 nü3 》 chang2 pian1 yi4 shou3 ， ya1 wu3 shi2 er4 yun4 ， ruo4 yu4 yu3 《 mu4 lan2 》 ji2 『 kong3 que4 dong1 nan2 fei1 』 zhi1 zuo4 fang1 jia4 zhe3 。
+- mo4 yun2 ：『 yin1 yuan2 …… jin1 liang2 。
 - 』 yi4 jia1 。
 - dan4 mu4 lan2 shi3 dai4 fu4 zheng1 fa2 ， zhong1 jie2 shen1 lai2 gui1 ； zhong4 qing1 qi1 si3 bu2 shi4 er4 fu1 ， er4 pian1 shu4 ji1 fa1 hu1 qing2 xing4 ， zhi3 hu1 li3 yi4 。
 - dian4 jia1 nü3 ze2 yi4 shi4 。

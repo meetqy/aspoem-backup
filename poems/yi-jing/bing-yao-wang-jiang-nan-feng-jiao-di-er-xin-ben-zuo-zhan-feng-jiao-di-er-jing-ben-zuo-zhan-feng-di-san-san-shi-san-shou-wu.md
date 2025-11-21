@@ -18,7 +18,7 @@ tags: []
 
 ## 拼音
 
-- meng3 feng1 guo4 ， ru2 jian4 bian4 （ jing1 ben3 zuo4 「 geng4 」） wu2 zong1 ， ming2 yue1  { feng1 xi1 }{ feng1 ge2 }  dang1 su4 bei4 ， feng1 sheng1 cai2 duan4 zei2 lai2 gong1 ， ri4 hou4 （ jing1 ben3 zuo4 「 ri4 ru4 」） yu4 wei2 xiong1 。
+- meng3 feng1 guo4 ， ru2 jian4 bian4 （ jing1 ben3 zuo4 「 geng4 」） wu2 zong1 ， ming2 yue1 { feng1 xi1 }{ feng1 ge2 } dang1 su4 bei4 ， feng1 sheng1 cai2 duan4 zei2 lai2 gong1 ， ri4 hou4 （ jing1 ben3 zuo4 「 ri4 ru4 」） yu4 wei2 xiong1 。
 
 ## 注释
 

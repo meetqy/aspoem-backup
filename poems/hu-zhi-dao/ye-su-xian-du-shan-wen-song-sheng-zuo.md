@@ -27,7 +27,7 @@ tags: []
 
 - xian1 du1 gu3 dong4 tian1 ， yun2 que4 gao1 nie4 nie4 。
 - xin1 gong1 xin1 ran2 cheng2 ， bi4 wa3 can4 lin2 lie4 。
-- wo3 shi2 su4  { wang2 jin4 }  fang2 ， liu4 yue4 shi1 fan2 re4 。
+- wo3 shi2 su4 { wang2 jin4 } fang2 ， liu4 yue4 shi1 fan2 re4 。
 - song1 sheng1 qi3 zhong1 ye4 ， meng4 zhen3 hu1 jing1 chuo4 。
 - tian1 lai4 ming2 xu1 xu2 ， yu4 xiao1 di4 ling2 che4 。
 - feng4 ge1 xie2 lü4 lü3 ， he4 wu3 xiang3 ying1 jie2 。

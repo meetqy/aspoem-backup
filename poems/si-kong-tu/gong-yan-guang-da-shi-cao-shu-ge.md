@@ -29,8 +29,8 @@ tags: []
 - cheng2 gao1 lei4 gu3 zhen4 chuan1 yuan2 ， jing1 beng4 hua2 liu2 ji1 qian1 pi3 。
 - luo4 bi3 zong4 heng2 bu4 li2 shan4 ， fang1 zhi1 cao3 sheng4 ben3 fei1 dian1 。
 - ge1 cheng2 yu3 sao3 song1 zhai1 bi4 ， he2 si4 ceng2 ti2 《 shuo1 jian4 pian1 》。
-- （《 liu4 yi4 zhi1 yi1 lu4 》 er4 jiu3 ○ yin3 zhu1 chang2 wen2 《 mo4 chi2 bian1 》 shi2 san1 yuan2 shu1 mu4 lu4 zuo4  { gong3  /  yan2 }  guang1 shi1 ）（《 si4 ku4 quan2 shu1 》 ben3 《 mo4 chi2 bian1 》 juan4 si4 lu4 ci3 shi1 wu2 zuo4 zhe3 ， fu4 si1 kong1 tu2 《 shu1 ping2 ji4 》 hou4 。
-- 《 xuan1 he2 shu1 pu3 》 juan4 jiu3 lu4 si1 kong1 tu2 zeng4  { gong3  /  yan2 }  guang1 shi1 yun2 ：「 kan4 ）（ shi1 yi4 shuo1 ji4 liang3 xiang1 yi2 ， gao1 shi4 ge1 xing2 li3 bai2 shi1 」， ci3 shi1 zhong1 wu2 。
+- （《 liu4 yi4 zhi1 yi1 lu4 》 er4 jiu3 ○ yin3 zhu1 chang2 wen2 《 mo4 chi2 bian1 》 shi2 san1 yuan2 shu1 mu4 lu4 zuo4 { gong3 / yan2 } guang1 shi1 ）（《 si4 ku4 quan2 shu1 》 ben3 《 mo4 chi2 bian1 》 juan4 si4 lu4 ci3 shi1 wu2 zuo4 zhe3 ， fu4 si1 kong1 tu2 《 shu1 ping2 ji4 》 hou4 。
+- 《 xuan1 he2 shu1 pu3 》 juan4 jiu3 lu4 si1 kong1 tu2 zeng4 { gong3 / yan2 } guang1 shi1 yun2 ：「 kan4 ）（ shi1 yi4 shuo1 ji4 liang3 xiang1 yi2 ， gao1 shi4 ge1 xing2 li3 bai2 shi1 」， ci3 shi1 zhong1 wu2 。
 - shi4 zhen1 tu2 zuo4 ， po1 ke3 yi2 。
 - ）。
 

@@ -26,7 +26,7 @@ tags: []
 - zhu3 bu4 shu2 ， shao1 bu2 lan4 。
 - you3 ruan3 wan2 ， mei2 si1 suan4 。
 - cheng4 xu1 mi2 zhong4 si4 liang3 ， liang2 xu1 kong1 kuo4 zhang4 ban4 。
-- geng4 you3 bai2  { ren2 yao1 dao1 }  bu2 shi4 chu3 ， fu4 yu3 wu2 wen2 ， cong2 gong1 li3 duan4 。
+- geng4 you3 bai2 { ren2 yao1 dao1 } bu2 shi4 chu3 ， fu4 yu3 wu2 wen2 ， cong2 gong1 li3 duan4 。
 
 ## 注释
 

@@ -21,7 +21,7 @@ tags: []
 ## 拼音
 
 - bu2 yue4 luan3 ， bu4 min2 chi1 ， sui1 chen2 bo1 ， kan1 zuo4 kui2 。
-- bo2 qi2 ye4 cuo1 ya2 ， jie4  { ao3 cu1 }  miao2 zheng3 qi2 。
+- bo2 qi2 ye4 cuo1 ya2 ， jie4 { ao3 cu1 } miao2 zheng3 qi2 。
 - shui3 yu4 tou2 ， shui3 yu4 tou2 ， jiang1 hu2 bai3 nian2 wu2 yi4 chou2 ， nan2 wan1 bei3 wan1 jie1 shan4 xiu1 。
 
 ## 注释

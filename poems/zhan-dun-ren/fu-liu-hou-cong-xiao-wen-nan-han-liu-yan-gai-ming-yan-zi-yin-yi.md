@@ -45,13 +45,13 @@ tags: []
 - huo4 yuan2 ta1 dai4 yi4 ， huo4 bian4 wen2 hui2 bi4 。
 - lan4 shang1 jiu3 zi1 man4 ， shang1 xin1 ri4 yi4 chi4 。
 - sun1 xiu1 ming4 zi3 ming2 ， wu2 guo2 zun1 wang2 yi4 。
-- 𩅦𦯶𩅔{ ya4  /  sheng1 }  pi4 ，{ zhu4 chen2 }  wen1 𥨆𡚕 yi4 。
+- 𩅦𦯶𩅔{ ya4 / sheng1 } pi4 ，{ zhu4 chen2 } wen1 𥨆𡚕 yi4 。
 - liang2 fu4 zhong3 yi3 fei1 ， shi2 yi4 ji4 jiu4 shi4 。
 - 𡽏 jie2 zi4 qi2 yi1 ， shu3 chuang3 shi4 qi2 er4 。
 - bi3 zai1 hua4 䁈 ming2 ， lou4 yi3 𡏜䵎 yi4 。
 - da4 tang2 you3 tian1 xia4 ， wu3 hou4 yong1 shen2 qi4 。
 - si1 zhi4 qi4 wu2 qu3 ， gu3 yin1 shi2 xiang1 lei4 。
-- ●●● jian3 xing1 ，●●{ ya2 chang3  =}● di4 。
+- ●●● jian3 xing1 ，●●{ ya2 chang3 =}● di4 。
 - ● guo2 ji2 zhao4 ●， zuo4 shi3 nan2 xiang2 bei4 。
 - tang2 zuo4 zhi2 qing1 wei1 ， liu2 yan3 huai2 jian4 wei3 。
 - xu1 jie1 du2 jiao1 bei4 ， pi4 ni4 fei1 long2 wei4 。

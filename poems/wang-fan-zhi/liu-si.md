@@ -26,7 +26,7 @@ tags: []
 
 - feng2 zheng1 bu4 xu1 kan4 ， jian4 da3 mo4 qian2 wei3 。
 - （「 wei3 」， bo2 san1 liu4 wu3 liu4 juan4 zuo4 「 wei2 」。
-- ）{ shou3 | si1 / bei4 }  ji2 zhui1 you3 sheng4 ，（「{ shou3 | si1 / bei4 }」， bo2 san1 qi1 yi1 liu4 、 bo2 san1 liu4 wu3 liu4 zuo4 「 juan1 」。
+- ）{ shou3 | si1 / bei4 } ji2 zhui1 you3 sheng4 ，（「{ shou3 | si1 / bei4 }」， bo2 san1 qi1 yi1 liu4 、 bo2 san1 liu4 wu3 liu4 zuo4 「 juan1 」。
 - xiang4 chu3 xiao4 zuo4 「 sun3 」。
 - ） zheng4 neng2 zong3 bu4 zhi1 。
 - （「 zheng4 neng2 」， bo2 san1 wu3 wu3 ba1 、 bo2 san1 qi1 yi1 liu4 、 bo2 san1 liu4 wu3 liu4 、 si1 er4 qi1 yi1 ○ juan4 zuo4 「 neng2 sheng4 」。

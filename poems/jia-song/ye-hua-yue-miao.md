@@ -70,7 +70,7 @@ tags: []
 - yu4 ran2 zhan3 guan1 mian3 ， lin3 ruo4 sheng1 mao2 ji3 。
 - ban1 bo2 shi2 se4 zhong4 ， yin1 shen1 xiang1 yan1 bi4 。
 - hong2 liang2 wu2 yan4 que4 ， yu4 zuo4 zhen4 hui1 yi4 。
-- xi1 （ yuan2 zuo4 「{ xi1 ba1  =  ba1 }」） xiang3 si4 you3 wen2 ， yi1 xi1 （《 yong1 zhou1 jin1 shi2 ji4 》 zuo4 「 xi1 」， tong1 。
+- xi1 （ yuan2 zuo4 「{ xi1 ba1 = ba1 }」） xiang3 si4 you3 wen2 ， yi1 xi1 （《 yong1 zhou1 jin1 shi2 ji4 》 zuo4 「 xi1 」， tong1 。
 - ） yi2 suo3 di2 。
 - tiao2 nian2 ye4 wen2 han4 ， ruo4 guan4 jian4 tun2 e4 。
 - tian1 ming4 ji1 wei1 mang2 ， shen2 kui2 tu2 song3 ti4 。

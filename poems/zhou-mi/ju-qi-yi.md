@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - qin2 di3 yu4 cheng2 bei1 jiu3 li3 ， wu1 tai2 huo4 qi3 yi4 shi1 jian4 。
-- 《 gui3 xin1 za2 shi2 》 xu4 ji2 juan3 shang4  ff。
+- 《 gui3 xin1 za2 shi2 》 xu4 ji2 juan3 shang4 ff。
 
 ## 注释
 

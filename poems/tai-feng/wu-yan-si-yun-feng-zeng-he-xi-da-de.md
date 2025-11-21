@@ -24,7 +24,7 @@ tags: []
 
 ## 拼音
 
-- { yong2 zuo3 wei2 yu3 }{ yong2 zuo3 wei2 yu3 }  kong1 men2 ke4 ， yang2 yang2 yi4 xing2 quan2 。
+- { yong2 zuo3 wei2 yu3 }{ yong2 zuo3 wei2 yu3 } kong1 men2 ke4 ， yang2 yang2 yi4 xing2 quan2 。
 - jie3 tou2 tian1 shang4 ri4 ， bu2 zhu4 【□□】 shan4 。
 - fei1 xi1 deng1 yun2 lu4 ， kou1 yi1 fu2 shu4 yan1 。
 - xi3 tong2 qing1 jing4 jiao4 ， le4 wo3 tai4 ping2 nian2 。

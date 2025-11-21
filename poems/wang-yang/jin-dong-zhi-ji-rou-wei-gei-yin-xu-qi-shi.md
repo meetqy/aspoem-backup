@@ -32,7 +32,7 @@ tags: []
 ## 拼音
 
 - qu4 nian2 zhi4 ri4 you2 cong2 su2 ， jin1 nian2 zhi4 ri4 ceng2 wu2 rou4 。
-- shi2 wu2 luan2  { zhi4 huo3  =  rou4 }  qing2 wu4 shang1 ， ji4 bu4 mao2 xue4 pin2 tai4 ku4 。
+- shi2 wu2 luan2 { zhi4 huo3 = rou4 } qing2 wu4 shang1 ， ji4 bu4 mao2 xue4 pin2 tai4 ku4 。
 - qi3 yu3 fu4 mou2 yi2 zao3 ji4 ， wo3 dian3 chun1 shan1 jun1 jian3 ji4 。
 - dan4 de2 tun2 jian1 lüe4 yan3 dou4 ， gan3 shi4 san1 sheng1 gong4 ri4 ji4 。
 - fu4 jiang1 lie4 fa4 you2 niu3 ni2 ， qing3 jun1 ping2 ji3 ting1 zhi4 ci2 。

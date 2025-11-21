@@ -43,7 +43,7 @@ tags: []
 - gui1 feng2 mu4 chun1 yue4 ， zheng4 zhi2 qi4 hou4 qing1 。
 - jiu3 yi3 nian4 xing2 mai4 ， sui4 wang3 bu2 ji4 cheng2 。
 - wu2 pin2 mo4 ju4 jiu3 ， zu3 xi2 kui4 qun2 ying1 。
-- mei3  { zhi4 huo3  =  rou4 }  ge1 fei2 e2 ， da4 gong1 zhuo2 bing1 qiong2 。
+- mei3 { zhi4 huo3 = rou4 } ge1 fei2 e2 ， da4 gong1 zhuo2 bing1 qiong2 。
 - sui1 wu2 lü4 qin2 zou4 ， shang4 you3 qing1 song1 sheng1 。
 - ri4 ze4 jun1 wei4 zui4 ， juan4 juan4 chou2 jiang1 xing2 。
 - shi4 jing3 bu4 ke3 zhu4 ， jian4 xiang4 xi1 lin2 qing1 。

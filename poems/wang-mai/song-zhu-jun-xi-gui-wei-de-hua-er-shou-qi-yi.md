@@ -22,7 +22,7 @@ tags: []
 ## 拼音
 
 - gu3 qie4 you2 huan2 bi4 ， ru2 jun1 zui4 miao4 ling2 。
-- a1  { ni3  /  nü3 }  kai1 jiang4 man4 ， da4 ruan3 gong4 lu2 ting2 。
+- a1 { ni3 / nü3 } kai1 jiang4 man4 ， da4 ruan3 gong4 lu2 ting2 。
 - li4 xue2 an4 dui1 xue3 ， shou1 ke1 zhe2 fen4 ting2 。
 - mo4 xian2 mei2 shi4 xiao3 ， you3 lu4 tou4 qing1 ming2 。
 

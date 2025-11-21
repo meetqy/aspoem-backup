@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- shui3 lei2  { yu3  /  xuan2 }， huo3 lei2 xi4 。
+- shui3 lei2 { yu3 / xuan2 }， huo3 lei2 xi4 。
 - tu3 lei2 lian2 ， shi2 lei2 pi1 。
 
 ## 注释

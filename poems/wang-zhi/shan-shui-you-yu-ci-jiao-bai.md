@@ -22,7 +22,7 @@ tags: []
 
 - chun1 ban1 xi1 ， qiu1 diao1 hu2 ， yi4 nian2 ji4 ， zai4 jiang1 hu2 。
 - chi4 jiao3 bai2 jiao3 qu2 ， huang2 xian1 hong2 xian1 wu1 。
-- jiao1 bai2 ， jiao1 bai2 ，{ ao3 / guang3 / lu2 }  ren2 yu2 zi3 shou3 pai1 pai1 ， jiang3 ya2 lu3 qi2 xiao3 xiang1 fa1 。
+- jiao1 bai2 ， jiao1 bai2 ，{ ao3 / guang3 / lu2 } ren2 yu2 zi3 shou3 pai1 pai1 ， jiang3 ya2 lu3 qi2 xiao3 xiang1 fa1 。
 
 ## 注释
 

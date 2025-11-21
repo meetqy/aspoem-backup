@@ -145,7 +145,7 @@ tags: []
 - ping2 gao1 wang4 tian2 chang3 ， ru4 li3 fang3 nong2 hu4 。
 - ci3 ri4 yi4 deng1 lin2 ， qing2 tian1 hou4 fan2 sen1 。
 - shu4 ji1 mou2 mai4 qiu1 ， yi4 bao3 dao4 peng2 hu4 。
-- wei4 wei2 si4 zai4 ren2 ， miao4 shi2 cun2 gui3  { nie4  /  min3 }。
+- wei4 wei2 si4 zai4 ren2 ， miao4 shi2 cun2 gui3 { nie4 / min3 }。
 - dang1 shi2 ji1 ni4 nian4 ， ci3 yi4 guan4 qian1 gu3 。
 - wan4 sheng1 gong4 xue4 qi4 ， yi2 nian4 tong1 fei4 fu3 。
 - er2 ti2 tong1 lie4 shi2 ， fu4 ye4 kui4 ming2 gu3 。

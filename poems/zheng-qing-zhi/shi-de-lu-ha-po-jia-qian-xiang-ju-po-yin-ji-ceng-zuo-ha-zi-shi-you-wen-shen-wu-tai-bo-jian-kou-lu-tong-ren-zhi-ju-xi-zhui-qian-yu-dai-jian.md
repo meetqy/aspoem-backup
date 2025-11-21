@@ -32,7 +32,7 @@ tags: []
 - jie4 zi1 mo4 ke4 fu4 ru2 mo4 ， gu3 zui4 chun2 xiang1 deng1 yan4 zu3 。
 - ban4 shu2 han2 jiu3 lao3 tao1 fu4 ， ci3 weng1 jin3 ke3 chuang3 tang2 hu4 。
 - ban1 ban1 jun4 yong3 dai4 shen2 ye4 ， ru4 shi4 zhen1 wei4 weng1 wei4 du3 。
-- ju2 po1 feng1 cai2 huang2 yu4 zhang1 ， ru2 shi2 you2 mou2 jiang1  { yao2 shou3  =  chong2 }  zhu4 。
+- ju2 po1 feng1 cai2 huang2 yu4 zhang1 ， ru2 shi2 you2 mou2 jiang1 { yao2 shou3 = chong2 } zhu4 。
 - pan2 can1 jin4 fei4 tai4 shou4 sheng1 ， ge2 yuan3 diao4 gao1 zi4 qing1 ku3 。
 - zi3 ha2 qian3 ru3 dao4 mei2 an4 ， nu3 li4 qu4 wei2 jiu3 zhong1 hu3 。
 - mo4 xia4 xian2 chi3 you3 he2 hao3 ， you2 lü3 chun2 geng1 ao4 cang1 fu4 。

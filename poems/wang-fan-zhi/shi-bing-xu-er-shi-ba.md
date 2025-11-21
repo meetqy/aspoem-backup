@@ -32,7 +32,7 @@ tags: []
 - chu3 fen1 xu1 ping2 deng3 ， bing4 lei2 chu1 shi2 nan2 。
 - zhi2 ren4 （ zhang1 gai3 zuo4 「 shi4 」） wu2 lu4 liao4 ， zhuan1 yang3 bi3 tou2 zuan1 。
 - guan3 hu4 wu2 wu3 bai3 ， lei2 tong2 yi2 gai4 kan4 。
-- yu2 zhe3 shou3 zhi2 （ yi2 zuo4 「{ xue2  /  ri4 }」， jiang3 wei4 ji2 「 ming2 ming2 」） zuo4 ， xia2 zhe3 sa4 sa4 kan4 。
+- yu2 zhe3 shou3 zhi2 （ yi2 zuo4 「{ xue2 / ri4 }」， jiang3 wei4 ji2 「 ming2 ming2 」） zuo4 ， xia2 zhe3 sa4 sa4 kan4 。
 
 ## 注释
 

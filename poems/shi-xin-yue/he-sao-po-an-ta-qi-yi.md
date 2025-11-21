@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- bai2  { ren2 yao1 dao1 }  cong2 zhong1 di4 yi1 zun1 ， ying4 jiang1 ming2 yue4 zuo4 tai2 wen1 。
+- bai2 { ren2 yao1 dao1 } cong2 zhong1 di4 yi1 zun1 ， ying4 jiang1 ming2 yue4 zuo4 tai2 wen1 。
 - jiang1 tou2 zhuang4 po4 xu1 kong1 hou4 ， you4 ba3 jin1 zhen1 suo3 xi4 hen2 。
 
 ## 注释

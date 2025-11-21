@@ -21,7 +21,7 @@ tags: []
 ## 拼音
 
 - ming2 huang2 xing4 shu3 ， yi2 ri4 deng1 gao1 shan1 wang4 qin2 chuan1 ， wei4 gao1 li4 shi4 yue1 ：“ wu2 ting1 zhang1 jiu3 ling2 yan2 ， bu2 zhi4 ci3 。
-- ”  ma3 shang4 chui1 di2 wei2 qu3 ， hao4 《 zhe2 xian1 yuan4 》， jin1 wang2 yan1 。
+- ” ma3 shang4 chui1 di2 wei2 qu3 ， hao4 《 zhe2 xian1 yuan4 》， jin1 wang2 yan1 。
 - yin1 wei2 ba1 zhang1 ， yi3 shen1 qi2 nian4 jiu4 zhi1 yi4 。
 
 ## 注释

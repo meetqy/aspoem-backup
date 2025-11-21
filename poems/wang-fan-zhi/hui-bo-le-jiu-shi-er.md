@@ -33,7 +33,7 @@ tags: []
 - bao3 chi1 shen1 zi4 （ yi2 zuo4 「 zi4 shen1 」） wen3 ， e4 du4 shen1 zi4 ji1 。
 - ji1 shi2 nian2 diao4 ning2 （ xiang4 gai3 「 zhu4 ji1 qian1 nian2 diao4 」）， zhi1 shen1 de2 ji1 shi2 （ zhang1 gai3 er4 ju4 zuo4 「 mo4 ji1 qian1 nian2 diao4 ， ning2 zhi1 de2 ji1 shi2 。
 - 」）。
-- yi4 zhao1 shen1 mo2 mie4 ， wan4 shi4 bu4 neng2  { mian2  /  dui4 }（ xiang4 xiao4 「 kui1 」， zhang1 gai3 zuo4 「 jiu1 」）。
+- yi4 zhao1 shen1 mo2 mie4 ， wan4 shi4 bu4 neng2 { mian2 / dui4 }（ xiang4 xiao4 「 kui1 」， zhang1 gai3 zuo4 「 jiu1 」）。
 - qi1 jia4 hou4 ren2 fu4 ， zi3 bian4 ta1 jia1 er2 。
 - nu2 bi4 huan4 cao2 zhu3 ， ma3 ji2 bie2 ren2 qi2 。
 - wen2 qiang2 ji2 xiu1 fu2 ， mo4 wu1 （ xiang4 xiao4 「 yu2 」） bai3 nian2 qi1 。

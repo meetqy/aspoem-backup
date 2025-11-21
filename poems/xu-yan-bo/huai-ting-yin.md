@@ -26,7 +26,7 @@ tags: []
 
 ## 拼音
 
-- zhen1 ji4 lü4 xi1 huai2 shan1 you1 ， lian2 fang1 ruo4 xi1  { lin2  /  shou3 }  zhong1 zhou1 。
+- zhen1 ji4 lü4 xi1 huai2 shan1 you1 ， lian2 fang1 ruo4 xi1 { lin2 / shou3 } zhong1 zhou1 。
 - beng1 tuan1 wei3 yan4 ri4 ye4 liu2 ， gu1 ke4 wei1 zuo4 xin1 zi4 chou2 。
 - shen3 he4 li4 xi1 feng1 xiao3 ， fu4 yuan2 ming2 xi1 shuang1 qiu1 。
 - yi4 yao4 fei1 xi1 xi1 shuai4 yin2 ， yi3 qing1 se4 xi1 heng2 liang2 qin2 。

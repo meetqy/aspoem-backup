@@ -57,15 +57,15 @@ tags: []
 - 』 nai3 geng1 ming2 ， guo3 deng1 di4 。
 - jie1 ke3 bu3 《 quan2 tang2 ji4 shi4 》 zhi1 yi2 。
 - 」 wang4 an4 ：《 quan2 tang2 wen2 》 juan4 qi1 ba1 ba1 shou1 li3 pin2 《 qing3 zi4 chu1 feng4 qian2 shou1 shu2 shan4 quan2 si4 shi4 zou4 wen2 》 yi4 pian1 ， lüe4 wei4 「 si4 zai4 xian4 nan2 wu3 shi2 li3 li2 mo4 shan1 ， shi4 qi2 shi2 jian4 li4 。
-- ……  si4 nei4 you3 dong4 fu3 san1 suo3 。
+- …… si4 nei4 you3 dong4 fu3 san1 suo3 。
 - hao4 wei2 qian2 dong4 zhe3 ， shi2 shi4 tong1 ming2 chu3 ke3 zuo4 wu3 bai3 yu2 ren2 ， shao1 an4 chu3 ， zhi2 ju4 yan4 ru4 ， bu4 zhi1 shen1 qian3 。
-- ……  dong4 men2 zhi2 xia4 bian4 lin2 da4 shui3 dong4 ， chan2 yuan2 wan3 zhuan3 ， tuan1 lai4 shi2 fan2 ， wu1 shan1 fu4 nei4 man4 liu2 ru4 xiao3 shui3 dong4 。
+- …… dong4 men2 zhi2 xia4 bian4 lin2 da4 shui3 dong4 ， chan2 yuan2 wan3 zhuan3 ， tuan1 lai4 shi2 fan2 ， wu1 shan1 fu4 nei4 man4 liu2 ru4 xiao3 shui3 dong4 。
 - xiao3 shui3 dong4 yi4 shi4 yi4 shi2 shi4 ， shi4 nei4 shui3 quan2 wu2 di3 ， da4 han4 bu4 jie2 。
 - dong4 men2 dui4 zhai1 tang2 chu2 ku4 ， si4 fei1 ren2 jing4 。
 - dong4 nei4 chang2 you3 yun2 qi4 sheng1 teng2 ， yun2 shi4 long2 shen2 suo3 ju1 zhi1 chu3 。
 - chen2 da4 he2 zhong1 zai4 ci3 xi2 ye4 。
-- ……  chen2 huai2 ci3 yuan1 fen4 jin4 san1 shi2 nian2 。
-- ……  jin1 qing3 zi4 chu1 feng4 qian2 yi1 yuan2 mai3 shou1 shu2 ， fang3 ming2 seng1 zhu3 chi2 ， jiao4 hua4 tong2 li4 ， que4 zao4 cheng2 shan4 quan2 si4 。
+- …… chen2 huai2 ci3 yuan1 fen4 jin4 san1 shi2 nian2 。
+- …… jin1 qing3 zi4 chu1 feng4 qian2 yi1 yuan2 mai3 shou1 shu2 ， fang3 ming2 seng1 zhu3 chi2 ， jiao4 hua4 tong2 li4 ， que4 zao4 cheng2 shan4 quan2 si4 。
 - ……」 cheng2 ru2 ci3 wen2 suo3 yun2 ， da4 he2 zhong1 li3 pin2 ceng2 wu1 ci3 xi2 ye4 ， san1 shi2 nian2 hou4 shi3 chu1 feng4 qian2 shou1 shu2 ， tui1 qi2 shi2 dang1 zai4 yi1 zong1 xian2 tong1 zhong1 。
 - ran2 ze2 ti2 ci3 shi1 wu1 si4 bi4 ， yao4 yi4 xian2 tong1 jian4 shi4 yi3 。
 - ）。

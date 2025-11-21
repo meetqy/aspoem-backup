@@ -21,7 +21,7 @@ tags: []
 
 ## 拼音
 
-- nan2 rong2 dui4 lu2  { feng2  /  gong3 }， yan4 zuo4 ri4 wu1 si1 。
+- nan2 rong2 dui4 lu2 { feng2 / gong3 }， yan4 zuo4 ri4 wu1 si1 。
 - xi4 cao3 ting1 zhou1 se4 ， qing1 feng1 yang2 liu3 zhi1 。
 - qing4 sheng1 cui1 mu4 niao3 ， quan2 ying3 ru4 chun1 chi2 。
 - ze2 yi4 ren2 jian4 shi4 ， wei2 dang1 you1 ke4 zhi1 。

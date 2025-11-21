@@ -145,7 +145,7 @@ tags: []
 - er4 ling2 gui1 pei2 lou3 ， bai3 □□□□。
 - zi4 fu3 liu2 sheng1 ji3 ， shui2 si1 zu3 ti4 bian1 。
 - shu4 fang1 xing1 jie2 li4 ， yi4 mo4 □□□。
-- gong1 xi1 chang2 you2 pan4 ，{ fei4  /  tu3 }  jin1 man2 tan4 huan2 。
+- gong1 xi1 chang2 you2 pan4 ，{ fei4 / tu3 } jin1 man2 tan4 huan2 。
 - qi3 zhi1 yi1 guo2 shou3 ， bian4 zuo4 □□□。
 - chu3 ke4 gong1 sui1 shi1 ， qin2 ren2 bi4 xing4 quan2 。
 - huan4 tu2 liang2 ke3 wei4 ， li4 yang1 bu4 □□。

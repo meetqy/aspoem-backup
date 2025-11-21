@@ -77,7 +77,7 @@ tags: []
 - 」〖4〗 zheng4 qiao2 《 tong1 zhi4 ・ tian1 wen2 lüe4 》 yun2 ：「 sui2 you3 dan1 yuan2 zi3 zhe3 ， yin3 zhe3 zhi1 liu2 ye3 。
 - bu4 zhi1 ming2 shi4 ， zuo4 《 bu4 tian1 ge1 》， jian4 zhe3 ke3 yi3 guan1 xiang4 yan1 。
 - wang2 xi1 ming2 zuan3 han4 jin4 zhi4 yi3 shi4 zhi1 ，《 tang2 shu1 》 wu4 yi3 wei2 wang2 xi1 ming2 ye3 。
-- ……  ci3 ben3 zhi1 chuan2 ling2 tai2 ， bu4 chuan2 ren2 jian4 ， shu4 jia1 mi4 zhi1 ， ming2 yue1 《 gui3 liao4 qiao4 》。
+- …… ci3 ben3 zhi1 chuan2 ling2 tai2 ， bu4 chuan2 ren2 jian4 ， shu4 jia1 mi4 zhi1 ， ming2 yue1 《 gui3 liao4 qiao4 》。
 - shi4 you3 shu4 ben3 ， bu2 sheng4 qi2 e2 ， jin1 ze2 qu3 zhi1 ， yang3 guan1 yi3 cong2 ji1 ding4 。
 - 」〖5〗 chao2 gong1 wu3 《 jun4 zhai1 du2 shu1 zhi4 》〖 yuan2 ben3 〗 juan4 san1 shang4 lu4 《 bu4 tian1 ge1 》 yi2 juan4 ：「 you4 wei4 xiang2 zhuan4 ren2 。
 - er4 shi2 ba1 xiu4 di4 ge1 ye3 。

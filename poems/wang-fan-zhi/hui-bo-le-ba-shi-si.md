@@ -31,7 +31,7 @@ tags: []
 - shen1 ti3 gu3 ya2 ya2 ， mian4 pi2 qian1 dao4 zhou4 。
 - xing2 shi2 tou2 ji2 di1 ， ce4 zhang4 yu3 ren2 yu3 。
 - yan3 zhong1 shuang1 lei4 liu2 ， bi2 ti4 （ yi2 zuo4 「 man3 」） chui2 ru4 kou3 。
-- yao1 si4 duan4 （ yi2 zuo4 「 jiu4 」） xian2 gong1 ， yin3 qi4  { kou3 sou1 }  chuan3 ji2 （ yi2 zuo4 「𪢐」）。
+- yao1 si4 duan4 （ yi2 zuo4 「 jiu4 」） xian2 gong1 ， yin3 qi4 { kou3 sou1 } chuan3 ji2 （ yi2 zuo4 「𪢐」）。
 - kou3 li3 wu2 ya2 chi3 ， qiang2 xian2 gua3 fu4 chou3 。
 - wen2 hao3 bu4 xi1 qian2 ， ji2 song4 yi4 ke1 jiu3 。
 - qian2 ren2 xu1 ci4 （ yi2 zuo4 「 ci4 xu1 」） hun1 ， pan4 ming4 （ yi2 zuo4 「 si3 」） xiang4 qian2 zou3 。

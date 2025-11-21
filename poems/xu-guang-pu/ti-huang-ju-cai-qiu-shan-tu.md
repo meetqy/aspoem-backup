@@ -59,7 +59,7 @@ tags: []
 - liang2 xiao1 zhi1 kong3 zhe4 gu1 ti2 ， qing2 bo1 dan4 jian4 yuan1 yang1 yu4 。
 - mu4 yan1 mi4 mi4 suo3 cun1 wu4 ， yi2 ye4 pian1 zhou1 heng2 ye3 du4 。
 - sa4 sa4 bai2 pin2 yu4 qi3 feng1 ， an4 an4 hong2 jiao1 you2 dai4 yu3 。
-- qu3 zhao3 fu2 rong2 xiang1 fu4 yu4 ， chang2 ting1 lu2 di2 hua1  { ao3  /  gu3 }  ce4 。
+- qu3 zhao3 fu2 rong2 xiang1 fu4 yu4 ， chang2 ting1 lu2 di2 hua1 { ao3 / gu3 } ce4 。
 - yan4 guo4 gu1 feng1 tie1 yuan3 qing1 ， lu4 bang4 xiao3 xi1 yin3 can2 lü4 。
 - qiu1 shan1 xiu4 xi1 qiu1 jiang1 jing4 ， jiang1 guang1 shan1 se4 xiang4 hui1 ying4 。
 - xue3 beng4 fei1 quan2 jian4 diao4 ji1 ， yun2 fen1 luo4 ye4 yong1 qiao2 jing4 。

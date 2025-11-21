@@ -39,7 +39,7 @@ tags: []
 - bu2 bi4 qian2 shen1 zuo4 ma3 tong1 ma3 yu3 ， ren2 xin1 wu4 xing4 zai4 shan4 tui1 。
 - wu1 hu1 xi1 guan1 xiao3 chen2 shen1 jian4 bei1 ， ma3 bu4 ru2 ren2 yu2 yi4 zhi1 。
 - nai4 he2 wei2 ren2 mu4 ， zhong4 jue2 hou4 lu4 bu2 xu4 min2 ke3 ji1 。
-- { qun1 dao1 }  gua1 gao1 xue4 ti1 rou4 ji1 ， zuo4 ling4 gou1 he4 zhuan3 lao3 lei2 。
+- { qun1 dao1 } gua1 gao1 xue4 ti1 rou4 ji1 ， zuo4 ling4 gou1 he4 zhuan3 lao3 lei2 。
 - jin1 zhi1 gong1 huang2 zhuo2 lu3 shui2 ， yun2 lin2 cong2 she4 shi2 suo3 shi1 ， wei2 chu1 ma3 tu2 chen2 shi1 wei2 。
 
 ## 注释

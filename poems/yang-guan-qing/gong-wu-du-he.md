@@ -31,7 +31,7 @@ tags: []
 - yu4 zhi3 weng1 liu2 weng1 wu4 du4 ， weng1 bu2 yu4 cong2 she3 zhi1 qu4 。
 - zhong1 liu2 ping2 yi4 hu2 ， yi4 wei4 qian1 jin1 ju4 。
 - yi4 hu2 shi4 mo4 zhi1 ， qian1 jin1 lun2 qi2 qu1 。
-- hu2 xi1 hu2 xi1 weng1 zhi1  { chong2 | bi3 / ju4 / qun1 si1 qu4 diao4 }， tuo2 hou3 jing1 tun1 fang1 de2 yi4 。
+- hu2 xi1 hu2 xi1 weng1 zhi1 { chong2 | bi3 / ju4 / qun1 si1 qu4 diao4 }， tuo2 hou3 jing1 tun1 fang1 de2 yi4 。
 - qu3 zhong1 ai1 yuan4 xie3 kong1 hou2 ， lin2 nü3 wei2 jun1 shuang1 duo4 lei4 。
 
 ## 注释

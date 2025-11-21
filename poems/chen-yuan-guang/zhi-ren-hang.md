@@ -31,7 +31,7 @@ tags: []
 - ji4 hui4 feng1 yun2 shang4 ， qing1 ping2 ling3 hai3 zhong1 。
 - qiong2 min2 jia1 bao3 hui4 ， xun1 shi4 lu4 gong1 yong1 。
 - shu1 zi3 gan1 jing1 pi1 ， yao1 yin2 zhi4 【 gu4 】（ ju2 ） xiong1 。
-- re4 chou2 xiao1  { shui3 zai1 }  qi4 ， jing1 gai4 qi3 chen2 cong1 。
+- re4 chou2 xiao1 { shui3 zai1 } qi4 ， jing1 gai4 qi3 chen2 cong1 。
 - zhuo2 er3 san1 cai2 li4 ， kui1 zai1 yi2 dao4 tong2 。
 
 ## 注释

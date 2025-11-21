@@ -24,7 +24,7 @@ tags: []
 
 ## 拼音
 
-- nan2 shan1 si1 mei3 ren2 ye3 
+- nan2 shan1 si1 mei3 ren2 ye3
 - bi3 mei3 ren2 xi1 ， zai4 nan2 shan1 zhi1 yang2 。
 - qi3 bu4 er3 si1 ， dao4 zu3 qie3 chang2 。
 - bi3 mei3 ren2 xi1 ， zai4 nan2 shan1 zhi1 ce4 。

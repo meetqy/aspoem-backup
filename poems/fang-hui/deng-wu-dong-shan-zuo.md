@@ -54,7 +54,7 @@ tags: []
 - huai4 wu1 ru2 bi4 yi1 ， sui2 yi4 bu3 po4 zhan4 。
 - bei3 yan2 zhu4 ma3 cao2 ， nan2 qiang2 qi4 yang2 zhan4 。
 - dong1 shan1 yi4 he2 gao1 ， pi3 xi2 xi3 deng1 jian4 。
-- huang1 qi1 fa2 yun2 ding1 ， qian1 shang0 xian4  { gu3 qun1 }  gan4 。
+- huang1 qi1 fa2 yun2 ding1 ， qian1 shang0 xian4 { gu3 qun1 } gan4 。
 - bai3 gu3 suo3 mi4 wu4 ， qiu1 yang2 yi4 chu2 chan3 。
 - ju4 luo4 cao3 shu4 fen1 ， geng1 she1 gang1 bei1 jian4 。
 - qi1 qi2 han2 shi4 po4 ， tian1 yi4 yu4 guo4 yan4 。

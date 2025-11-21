@@ -24,7 +24,7 @@ tags: []
 
 - ban4 ye4 zi3 ， xin1 jing4 he2 ceng2 de2 zan4 zhi3 。
 - si1 liang0 tian1 xia4 chu1 jia1 ren2 ， si4 wo3 zhu4 chi2 neng2 you3 ji1 ？
-- tu3 ta4 chuang2 ， po4 lu2 fa4  { xia4 wei2 fei4 }， lao3 yu2 mu4 zhen3 quan2 wu2 bei4 。
+- tu3 ta4 chuang2 ， po4 lu2 fa4 { xia4 wei2 fei4 }， lao3 yu2 mu4 zhen3 quan2 wu2 bei4 。
 - zun1 xiang1 bu4 shao1 an1 xi1 xiang1 ， hui1 li3 wei2 wen2 niu2 fen4 qi4 。
 - （ ci3 zu3 shi1 you4 jian4 《 shan4 men2 zhu1 zu3 shi1 ji4 song4 》 juan3 shang4 zhi1 xia4 ）。
 

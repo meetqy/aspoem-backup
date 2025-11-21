@@ -24,7 +24,7 @@ tags: []
 
 - yang2 qi4 chu1 jing1 zhe2 ， shao2 guang1 da4 （ yi2 zuo4 「 tian1 」） di4 zhou1 。
 - tao2 hua1 kai1 shu3 jin3 ， ying1 lao3 hua4 chun1 （ yi2 zuo4 「 wei2 」） jiu1 。
-- shi2 hou4 zheng1 cui1 po4 ， meng2 ya2 ya2  { pie3 wei2 zhu3 }（ yi2 zuo4 「 hu4 」） ju3 xiu1 。
+- shi2 hou4 zheng1 cui1 po4 ， meng2 ya2 ya2 { pie3 wei2 zhu3 }（ yi2 zuo4 「 hu4 」） ju3 xiu1 。
 - ren2 jian4 wu4 sheng1 shi4 ， geng1 zhong3 man3 tian2 chou2 。
 - 。
 

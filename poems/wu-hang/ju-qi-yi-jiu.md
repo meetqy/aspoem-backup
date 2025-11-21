@@ -22,7 +22,7 @@ tags: []
 
 - yu3 wei4 lian2 jing1 ji2 ， yi1 guan1 za2 hu3 lang2 。
 - yan1 chen2 fu2 yan4 duan4 ， tian1 kuo4 shui3 yun2 huang2 。
-- ……  feng1 bei1 yun2 dong4 se4 ， tian1 can3 ri4 wu2 guang1 。
+- …… feng1 bei1 yun2 dong4 se4 ， tian1 can3 ri4 wu2 guang1 。
 
 ## 注释
 

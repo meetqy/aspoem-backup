@@ -27,7 +27,7 @@ tags: []
 - gen1 lian2 ba1 shu4 li3 ， zhi1 fu2 jiu3 hua2 duan1 。
 - feng1 ji2 xiao3 shan1 wai4 ， ye4 xia4 da4 jiang1 gan1 。
 - shuang1 zhong1 hua1 zhuan3 fu4 ， lu4 shang4 se4 yu2 dan1 。
-- zi4 fu4 ling2  { sui1  /  yang2 }  xing4 ， yan2 you1 dai4 sui4 han2 。
+- zi4 fu4 ling2 { sui1 / yang2 } xing4 ， yan2 you1 dai4 sui4 han2 。
 - （ tong2 qian2 ）（ an4 ： yi3 shang4 san1 shou3 jie1 shu3 「 si1 tu2 zhao4 guo2 gong1 chen2 chang2 sun1 wu2 ji4 shang4 」。
 - yi3 shang4 si4 shou3 ， zhang1 bu4 yun2 《 tang2 dai4 yi4 shi1 ji2 cun2 》 shou1 ru4 。
 - ）。

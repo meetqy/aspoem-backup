@@ -82,7 +82,7 @@ tags: []
 - yi1 wei1 man3 chuang1 hu4 ， xin1 jie2 mu4 juan1 juan1 。
 - liao2 shi4 xi1 hua2 wu1 ， mai2 yu4 jin1 huang1 qian1 。
 - hen4 bu4 ji2 tong2 xue2 ， he2 ren3 xu4 duan4 xian2 。
-- fan1 si1 he2  { cheng2 yi1  =  ba1 }  chu1 ， can1 tou4 lao3 po0 shan4 。
+- fan1 si1 he2 { cheng2 yi1 = ba1 } chu1 ， can1 tou4 lao3 po0 shan4 。
 - ru2 yu2 shui3 you2 yong3 ， ru2 niao3 luo2 chan2 mian2 。
 - nai4 he2 sheng1 si3 kuo4 ， fan4 fan4 shui3 zhong1 chuan2 。
 - chou2 mou2 wei2 fu1 fu4 ， fan3 fu4 ru2 shi4 chan2 。

@@ -25,7 +25,7 @@ tags: []
 - feng2 ren2 xu1 lian3 shou3 ， bi4 dao4 mo4 qian2 dang4 。
 - （ yi4 ben3 zuo4 「 tang1 」。
 - ） hu1 ruo4 xiang1 chong1 zhe0 ，（「 hu1 ruo4 」， si1 san1 san1 jiu3 san1 juan4 zuo4 「 hu1 ran2 」。
-- ） ta1  { gong1 | yi1  /  chong2 }（ zheng4 ben3 zuo4 qiang2 。
+- ） ta1 { gong1 | yi1 / chong2 }（ zheng4 ben3 zuo4 qiang2 。
 - ） bi4 zi4 shang1 。
 
 ## 注释

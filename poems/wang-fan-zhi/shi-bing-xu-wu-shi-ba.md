@@ -23,7 +23,7 @@ tags: []
 
 - si3 jing4 tu3 di3 mian2 ， sheng1 shi2 tu3 shang4 zou3 。
 - si3 jing4 bu4 chu1 qi4 ， sheng1 shi2 bu2 zhu4 kou3 。
-- zao3 si3 yi4 sheng1  { yue1  /  feng1 }（ zhang1 gai3 zuo4 「 bi4 」）， shui2 lun4 bai3 nian2 hou4 。
+- zao3 si3 yi4 sheng1 { yue1 / feng1 }（ zhang1 gai3 zuo4 「 bi4 」）， shui2 lun4 bai3 nian2 hou4 。
 - zhao4 wo3 huan2 tian1 gong1 ， bu4 xu1 jin4 chu1 shou3 。
 
 ## 注释

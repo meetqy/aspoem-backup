@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- kan4 gu4  { you3 zao4 }， zhu4 sheng1 tie3 。
+- kan4 gu4 { you3 zao4 }， zhu4 sheng1 tie3 。
 - yin1 shen4 yun2 men2 xin1 gan1 wu3 zang4 ， bei4 zhe3 seng1 yi4 lou3 lou3 jin4 。
 
 ## 注释

@@ -22,7 +22,7 @@ tags: []
 ## 拼音
 
 - shui3 wu4 qing1 ming2 dan4 si4 qiu1 ， duo1 qing2 cai2 zi3 yi3 lan2 zhou1 。
-- bi4 sha1 shang0 xia4 xie2 shi1 cao3 ， huang2  {𥫗/ wang3 / fa2 }  lou2 zhong1 gua4 jiu3 chou1 。
+- bi4 sha1 shang0 xia4 xie2 shi1 cao3 ， huang2 {𥫗/ wang3 / fa2 } lou2 zhong1 gua4 jiu3 chou1 。
 - lian2 ye4 zhan4 bo1 chu1 zhuan3 zhao4 ， yu2 er2 cu4 er3 wei4 an1 gou1 。
 - gong4 jun1 mo4 wen4 dang1 shi2 shi4 ， yi4 dian3 sha1 qin2 sheng4 wu3 hou2 。
 

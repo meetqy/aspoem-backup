@@ -38,7 +38,7 @@ tags: []
 - xi3 di2 chen2 ai1 jiu3 zhe2 chang2 ， zao3 yue4 feng1 lei2 san1 cun4 she2 。
 - shang4 yuan4 tian1 zi3 sheng4 ， xia4 yuan4 zai3 xiang4 xian2 。
 - zi4 min2 zhi1 guan1 bu2 ai4 qian2 ， si4 yi2 tuo3 tie1 wu2 lang2 yan1 。
-- you3 tian2 fu4 guo1 an1 li3  { li2 / huo3 / tu3 }， qiu1 tang2 xia4 wu1 lin2 ping2 chuan1 。
+- you3 tian2 fu4 guo1 an1 li3 { li2 / huo3 / tu3 }， qiu1 tang2 xia4 wu1 lin2 ping2 chuan1 。
 - zuo3 shou3 huang2 juan4 you4 qing1 bian1 ， zao1 kang1 gong1 ming2 yi4 bai3 nian2 。
 - zuo4 shang4 ri4 ri4 yan2 jun4 xiu4 ， zi3 sun1 sun1 zi3 xiang1 mian2 mian2 。
 

@@ -21,7 +21,7 @@ tags: []
 
 ## 拼音
 
-- xi1 zai4  { tou2  /  le4 ， mu4  =  shui3 }（ yi2 ying1 zuo4 「 luan2 」） he2 wai4 ， zheng1 ma3 juan4 feng1 chen2 。
+- xi1 zai4 { tou2 / le4 ， mu4 = shui3 }（ yi2 ying1 zuo4 「 luan2 」） he2 wai4 ， zheng1 ma3 juan4 feng1 chen2 。
 - jin1 lai2 luo4 yang2 dao4 ， ren2 shi4 fu4 jian1 xin1 。
 - you3 ce4 huai2 ming2 zhu3 ， wu2 mei2 tuo1 jin4 chen2 。
 - jun1 men2 bu4 ke3 jian4 ， gui1 qu4 lu4 shan1 chun1 。

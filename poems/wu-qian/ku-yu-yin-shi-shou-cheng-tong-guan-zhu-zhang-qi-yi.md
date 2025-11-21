@@ -23,7 +23,7 @@ tags: []
 
 - lao3 shou3 zui4 you1 nong2 ， wang3 lai2 si1 lü4 chong1 。
 - ban4 shi2 ban4 ke4 li3 ， yi2 fan4 yi4 cha2 zhong1 。
-- ji1 ni4 zhen1 you2 ji3 ， dong4  { ne4 zhong4 }  zai4 jue2 gong1 。
+- ji1 ni4 zhen1 you2 ji3 ， dong4 { ne4 zhong4 } zai4 jue2 gong1 。
 - tian1 gao1 yuan2 ting1 xia4 ， yi2 nian4 qi3 nan2 tong1 。
 
 ## 注释

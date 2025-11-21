@@ -24,7 +24,7 @@ tags: []
 - tian2 di4 yin3 mi4 ， gui3 jia1 huo2 ji4 。
 - cong2 kong1 fang4 xia4 ， zuo4 jing3 kui1 tian1 。
 - hu3 qiu1 men2 xia4 ， bu4 shuo1 lao3 po0 shan4 。
-- zhi3 yao4 zhu1 ren2 yan3 heng2 bi2 zhi2 ， san1 shi2 nian2 hou4 mian3 de0 qiao1  { xin1 jiong3 }  da3 wa3 。
+- zhi3 yao4 zhu1 ren2 yan3 heng2 bi2 zhi2 ， san1 shi2 nian2 hou4 mian3 de0 qiao1 { xin1 jiong3 } da3 wa3 。
 
 ## 注释
 

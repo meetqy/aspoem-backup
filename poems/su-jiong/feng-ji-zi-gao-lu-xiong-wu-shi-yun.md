@@ -92,7 +92,7 @@ tags: []
 - jun1 sui1 lao3 ma3 zi1 ， jin1 nai3 ji4 fu2 xiang1 。
 - shua1 yan4 ri4 qian1 li3 ， kuo4 bu4 xu2 kang1 zhuang1 。
 - jiang1 shui3 you3 shi2 xi1 ， dong1 xia4 si1 lan4 shang1 。
-- yun1  { da4  /  lun2 }  zhi4 peng2 pai4 ， chuan1 liu1 ji2 huai2 xiang1 。
+- yun1 { da4 / lun2 } zhi4 peng2 pai4 ， chuan1 liu1 ji2 huai2 xiang1 。
 - si3 sheng1 qu2 you3 ming4 ， pin2 jian4 shi4 zhi1 chang2 。
 - kong3 rong2 wei3 cao2 cao1 ， ji2 an4 bei1 zhang1 tang1 。
 - ren2 sheng1 chu1 chu3 fen1 ， rong2 xie4 jun1 yin1 yang2 。

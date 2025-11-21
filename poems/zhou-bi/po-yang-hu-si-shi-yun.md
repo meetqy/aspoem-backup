@@ -68,7 +68,7 @@ tags: []
 - shu4 dai4 qiao2 zhi1 yin3 ， shan1 yu2 duan3 bi4 fu2 。
 - kui1 chan1 pi2 wang3 xiang4 ， pi4 ni4 tai4  yang2 hou2 。
 - yang4 yue4 dou1 mi2 hao4 ， zheng1 yun2 jian4 zuo4 you2 。
-- han2 ru2 jun1 zao3 xing4 ， rong3 chang2 dao4  { ba1  /  ba1 }  qiu1 。
+- han2 ru2 jun1 zao3 xing4 ， rong3 chang2 dao4 { ba1 / ba1 } qiu1 。
 - shen4 huan4 qing2 xu1 ge2 ， long2 xing1 ye4 ba2 qiu1 。
 - wan4 xun2 xian4 pu3 yu4 ， yi2 dai4 dong4 ting2 qiu1 。
 - ying2 suo1 zhi1 shui2 ji4 ， tun1 bing4 si4 li4 jiu1 。

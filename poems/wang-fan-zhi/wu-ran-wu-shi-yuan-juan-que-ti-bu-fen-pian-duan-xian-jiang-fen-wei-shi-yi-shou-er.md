@@ -23,7 +23,7 @@ tags: []
 
 - wu4 ran2 wu2 yi2 shi4 ， he2 ceng2 you3 ren2 huan4 。
 - xiang4 wai4 mi4 gong1 fu0 ， zong3 shi4 chi1 wan2 han4 。
-- liang2 bu2 chu4 yi2 li4 ， feng2 fan4 bian4 zhi1  { ma2 huo3  =  gong3 }。
+- liang2 bu2 chu4 yi2 li4 ， feng2 fan4 bian4 zhi1 { ma2 huo3 = gong3 }。
 - shi4 jian4 duo1 shi4 ren2 ， xiang1 chen4 hun2 bu4 fan3 。
 
 ## 注释

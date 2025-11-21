@@ -41,7 +41,7 @@ tags: []
 - piao1 bo2 yi3 jing1 qian1 li3 wai4 ， shui2 ren2 bu2 dai4 liang3 xiang1 chou2 ？
 - wu3 nü3 ting2 qian2 yan4 jiu3 rou4 ， bu4 zhi1 bai3 xing4 e4 mian2 su4 。
 - jun1 bu2 jian4 cheng2 wai4 kong1 qiang2 yao2 ， jiang1 jun1 zhi3 shi4 zai1 hua1 zhu2 。
-- jun1 kan4 cheng2 wai4 xi1 huang2 chu3 ， duan4 duan4 mao2 hua1 ru2 liu3 ye4 （ yi2 zuo4 「{ qia1 da4  =  mi4 }」）。
+- jun1 kan4 cheng2 wai4 xi1 huang2 chu3 ， duan4 duan4 mao2 hua1 ru2 liu3 ye4 （ yi2 zuo4 「{ qia1 da4 = mi4 }」）。
 - hai3 yan4 xian2 ni2 yu4 zuo4 chao2 ， kong1 tang2 wu2 ren2 que4 fei1 qu4 。
 - （ an4 ： ci3 shou3 you4 jian4 bo2 san1 liu4 er4 ○ juan4 ， bu4 shu3 ming2 ， jin1 ju4 xiao4 。
 - ci3 ben3 mo4 duo1 shu4 ju4 ：「 suo3 zai4 jun1 hou2 ， bu4 xu1 nao3 luan4 。

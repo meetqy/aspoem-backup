@@ -24,7 +24,7 @@ tags: []
 
 - xiao3 man3 qi4 quan2 shi2 ， ru2 he2 mi2 cao3 shuai1 。
 - tian2 jia1 si1 shu3 ji4 ， fang1 bo2 wen4 can2 si1 。
-- xing4 mai4 xiu1 lian2 shan1 ， peng2 gu1  { xia4 wei2 zhua3 }  shu4 ji2 li2 。
+- xing4 mai4 xiu1 lian2 shan1 ， peng2 gu1 { xia4 wei2 zhua3 } shu4 ji2 li2 。
 - xiang4 lai2 kan4 ku3 cai4 ， du2 xiu4 ye3 he2 wei2 ？
 - 。
 

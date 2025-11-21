@@ -25,7 +25,7 @@ tags: []
 
 - sheng1 nian2 yi2 ban4 zai4 yan4 zhi1 ， rong2 yan2 sha1 chang3 ri4 ye4 shuai1 。
 - xiao1 guan1 bu4 ge2 xiang1 yuan2 meng4 ， han4 hai3 chang2 chou2 zheng1 zhan4 qi1 。
-- rong2 yan2 ri4 ri4 lao3 jin1  { chi4 shu4 }， sha1 qi4 nian2 nian2 wo4 tie3 yi1 。
+- rong2 yan2 ri4 ri4 lao3 jin1 { chi4 shu4 }， sha1 qi4 nian2 nian2 wo4 tie3 yi1 。
 - bai2 cao3 cheng2 zhong1 chun1 bu2 ru4 ， huang2 hua1 shu4 shang4 ying1 chang2 fei1 。
 - （ bo2 san1 liu4 yi1 jiu3 juan4 。
 - ）。

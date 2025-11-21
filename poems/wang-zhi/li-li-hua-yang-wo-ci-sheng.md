@@ -24,7 +24,7 @@ tags: []
 
 ## 拼音
 
-- shan1 bu4 feng1 xi1 feng1 bu4 song1 ，{ qiao1 pu1 }  ke1 xi1 zi4 sheng1 song1 feng1 。
+- shan1 bu4 feng1 xi1 feng1 bu4 song1 ，{ qiao1 pu1 } ke1 xi1 zi4 sheng1 song1 feng1 。
 - fu1 he2 suo3 shi4 zhi1 tai4 ku4 xi1 ， shan1 lin2 jiang1 an1 wei2 rong2 。
 - xia4 ban3 xi1 fei1 kong4 ， mao4 chuan1 xi1 shen1 gong1 。
 - qu4 bi3 qu3 ci3 xi1 dan4 kong1 ， si1 qing2 xi1 yan1 qiong2 。

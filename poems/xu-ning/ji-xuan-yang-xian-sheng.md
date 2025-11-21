@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- bu4 neng2 xiang1 jian4 jian4 ren2 chuan2 ，{ shan1 qu2 }  an4 shan1 zhong1 dai4 an4 bian1 。
+- bu4 neng2 xiang1 jian4 jian4 ren2 chuan2 ，{ shan1 qu2 } an4 shan1 zhong1 dai4 an4 bian1 。
 - yan2 mao4 zhi1 ru2 san1 er4 shi2 ， dao4 nian2 san1 bai3 yi4 cang2 nian2 。
 
 ## 注释

@@ -117,7 +117,7 @@ tags: []
 - ren2 ren2 wu2 bi3 yao1 ， wu4 wu4 bu4 ci1 yu3 。
 - hu2 ran2 jiang4 da4 li4 ， shi3 wo3 zhong4 qi1 chu3 。
 - xun1 zheng1 shi3 yi2 qi4 ， e2 qing3 bian4 jiu3 tu3 。
-- mian3 huai2 you3 sheng1 chu1 ， dong4  { ne4 zhong4 }  ru4 xin1 lü3 。
+- mian3 huai2 you3 sheng1 chu1 ， dong4 { ne4 zhong4 } ru4 xin1 lü3 。
 - gong1 wei2 sheng1 wu4 xin1 ， shu2 bu4 tong2 fu4 mu3 。
 - wo3 yu4 dai4 yi4 jian1 ， fei1 shang4 jiu3 tian1 su4 。
 - ming2 ming2 tian1 hun1 shen1 ， zhong4 guan1 lie4 jiao1 hu3 。

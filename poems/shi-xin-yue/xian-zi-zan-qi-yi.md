@@ -31,7 +31,7 @@ tags: []
 
 - shi1 huang1 cun1 gu3 miao4 xi1 ， ren2 gan4 yu3 lian2 gong1 。
 - shi1 zhi3 qian2 dui1 li3 xi1 ， ren2 ying1 luo4 ju4 zhong1 。
-- shi1 lao1  { ba1  /  ba1 }  lu4 xian3 xi1 ， ren2 da3 feng4 luo2 long2 。
+- shi1 lao1 { ba1 / ba1 } lu4 xian3 xi1 ， ren2 da3 feng4 luo2 long2 。
 - shi1 zhan1 xian1 ku1 gao3 xi1 ， ren2 yu4 shi2 yong1 rong2 。
 - shi1 yu3 ren2 yin3 xian3 ge4 yi4 xi1 ， juan3 shu1 yi4 tong2 。
 - wei2 hua2 yan2 zhi1 di4 xi1 ， bu2 ru4 hua2 yan2 bao3 she4 。

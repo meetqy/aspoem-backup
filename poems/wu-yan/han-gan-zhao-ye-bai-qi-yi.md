@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- ba1 chi3  { ma3 ang2 }  long2 xue3 dao4 ti2 ， a1 man2 qi2 ba4 a1 huan2 qi2 。
+- ba1 chi3 { ma3 ang2 } long2 xue3 dao4 ti2 ， a1 man2 qi2 ba4 a1 huan2 qi2 。
 - jue2 lian2 qian1 gu3 fang2 xing1 po4 ， bu2 jian4 ming2 shi2 jian4 luan4 shi2 。
 
 ## 注释

@@ -56,7 +56,7 @@ tags: []
 
 - yue4 qiong2 qing1 si4 ping2 ， yang4 yang4 chu1 yan1 guo1 。
 - ren2 sheng1 jian4 shu1 kuang4 ， tian1 qi4 hu1 liao2 kuo4 。
-- yi1 yu3 qie4 si1 zhi4 ， you3 si4 gua1  { ne4 }  mo4 。
+- yi1 yu3 qie4 si1 zhi4 ， you3 si4 gua1 { ne4 } mo4 。
 - yu4 sheng4 ji2 yi2 you2 ， feng2 you1 qie3 yan1 bo2 。
 - e2 ran2 zhao4 shen1 chu3 ， xu1 wu2 yi3 yan2 e4 。
 - shuang1 hao2 yi2 dao4 ren2 ， yin3 wo3 deng1 long2 ge2 。

@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- song1 jie4 ke3 zu1 qin2 ke3 geng1 ， wan3 feng1 yi1  { zhong1 ya4 }  ju2 gao1 sheng1 。
+- song1 jie4 ke3 zu1 qin2 ke3 geng1 ， wan3 feng1 yi1 { zhong1 ya4 } ju2 gao1 sheng1 。
 - bai2 tou2 gu1 huan4 cheng2 he2 wei4 ， hui3 bu4 qi2 shu1 guo4 ci3 sheng1 。
 
 ## 注释

@@ -111,7 +111,7 @@ tags: []
 - shang4 yan2 tian1 yuan3 chi4 zi3 qiong2 ， yan3 zhong1 ji2 ji2 lang2 mu4 di1 。
 - fa3 dang1 pao4 ti1 qu4 qi2 du2 ， ru2 shi2 fu4 zi3 chu2 pi2 qi2 。
 - ci4 yan2 min2 feng1 zi4 tai4 gu3 ， song4 xiang4 bu4 ming2 qing1 an4 bi4 。
-- an1 ping2 zhi1 ke3 er3 zhi1 zhu2 ， ming2 xuan4 bu4 lao2 shi1 jin3  { pi4 nü3  =  shi2 }。
+- an1 ping2 zhi1 ke3 er3 zhi1 zhu2 ， ming2 xuan4 bu4 lao2 shi1 jin3 { pi4 nü3 = shi2 }。
 - xia4 yan2 chu3 bi4 jian4 ru2 tu3 ， po4 zhi3 bai4 mo4 nan2 gou1 ji1 。
 - di1 ang2 shi1 dao4 bai3 huo4 yong3 ， zhu1 cuo1 deng3 fen1 xu1 cheng1 ti2 。
 - shi3 jun1 zi4 you3 wu3 se4 wan2 ， dan1 sha1 yu4 xie4 diao4 zhu1 xi1 。

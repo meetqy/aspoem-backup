@@ -20,7 +20,7 @@ tags: []
 
 ## 拼音
 
-- xiang1 yu4 ， cui4 feng4 bao3 chai1 chui2  { wang3  /  lu4 }𦌉， dian4 kuang1 jiao1 sheng4 jin1 su4 ， yue4 luo2 chun1 shui3 lü4 。
+- xiang1 yu4 ， cui4 feng4 bao3 chai1 chui2 { wang3 / lu4 }𦌉， dian4 kuang1 jiao1 sheng4 jin1 su4 ， yue4 luo2 chun1 shui3 lü4 。
 - hua4 tang2 zhao4 lian2 can2 zhu2 ， meng4 yu2 geng1 lou4 cu4 。
 - xie4 niang2 wu2 xian4 xin1 qu3 ， xiao3 ping2 shan1 duan4 xu4 。
 

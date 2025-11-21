@@ -23,7 +23,7 @@ tags: []
 
 - yu3 lao3 wu2 qi1 yue1 ， dao4 lai2 ru2 deng3 xian2 。
 - pian1 shang1 peng2 you0 jin4 ， yi2 xing1 zi3 sun1 jian4 。
-- bi3 di3 xin1 wu2 du2 ， bei1 qian2 dan3 bu4  { quan3 chu4 }。
+- bi3 di3 xin1 wu2 du2 ， bei1 qian2 dan3 bu4 { quan3 chu4 }。
 - wei2 yu2 yi4 jun1 meng4 ， fei1 guo4 wu3 lao2 guan1 。
 
 ## 注释

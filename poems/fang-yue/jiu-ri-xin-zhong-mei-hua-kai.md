@@ -32,7 +32,7 @@ tags: []
 - mu4 ye4 lü4 wei4 tuo1 ， ju2 cong2 huang2 shi3 hua2 。
 - fan4 yu2 ji1 he2 ri4 ， shang4 jue2 tao2 jin1 xie2 。
 - han2 mei2 shu1 bu4 qing2 ， jin1 qiu1 tu3 qi2 pa1 。
-- shuang1 xu1 ban4 han2 lei3 ， chun1  { ao3 gong3 }  xin1 zhuo2 ya2 。
+- shuang1 xu1 ban4 han2 lei3 ， chun1 { ao3 gong3 } xin1 zhuo2 ya2 。
 - ji4 chu1 shou3 chu2 yue4 ， chui2 yang2 yi3 cang2 ya1 。
 - liao3 wu2 pan2 cuo4 gen1 ， dan4 you3 ku1 cha2 ya2 。
 - zhen1 tong2 qi4 zhi1 er3 ， sheng1 yi4 ju4 ke3 ya2 。

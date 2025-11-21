@@ -24,7 +24,7 @@ tags: []
 
 - fu4 er2 shao3 nan2 nü3 ， qiong2 han4 sheng1 yi4 qun2 。
 - shen1 shang4 wu2 yi1 zhuo2 （ yi2 zuo4 「 gua4 」）， chang2 tou2 cao3 li3 cun2 （ yi2 zuo4 「 dun1 」）。
-- dao4 da4 （ yi2 zuo4 「 li4 tou2 」） fei2 mei2 hu1 ， zhi2 si4 bao3 kang1  { niu2 gun3  =  hao2 }（ yi2 zuo4 「{ yue4 niu2 }」， xiang4 xiao4 「{ yue4 niu2 }」）。
+- dao4 da4 （ yi2 zuo4 「 li4 tou2 」） fei2 mei2 hu1 ， zhi2 si4 bao3 kang1 { niu2 gun3 = hao2 }（ yi2 zuo4 「{ yue4 niu2 }」， xiang4 xiao4 「{ yue4 niu2 }」）。
 - chang2 da4 chong1 bing1 pu3 （ yi2 zuo4 「 bing1 fu1 lai2 」）， wei4 jie3 qi3 （ xiang4 xiao4 「 qi4 」） jia1 men2 。
 - ji1 dai4 bu4 de2 fu4 ， hao4 yue1 （ yi2 zuo4 「 ming2 」） qiong2 han4 cun1 。
 

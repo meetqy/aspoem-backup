@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - di4 xi2 jia1 fu1 wu3 zuo4 liang2 ， qi2 bian1 xiu4 shou3 kan4 ren2 mang2 。
-- bin1 lang2  { yue4 ruo4 }□ you4 chun1 lü4 ， song4 dao4 shui2 jia1 ju2 you4 xiang1 。
+- bin1 lang2 { yue4 ruo4 }□ you4 chun1 lü4 ， song4 dao4 shui2 jia1 ju2 you4 xiang1 。
 
 ## 注释
 

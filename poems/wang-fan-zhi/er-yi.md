@@ -23,7 +23,7 @@ tags: []
 
 - qin1 huan2 tong2 xi2 zuo4 ，【 zhi1 】 bei1 mo4 shang4 tou2 （ ci3 ju4 yuan2 ben3 tuo1 yi2 zi4 ， yi4 ben3 zuo4 「 zhi1 bei1 mo4 shang4 tou2 」）。
 - （「 zhi1 」， ju4 bo2 san1 wu3 wu3 ba1 、 bo2 san1 qi1 yi1 liu4 、 bo2 san1 liu4 wu3 liu4 juan4 bu3 。
-- ） hu1 ran2 ren2  { huo3 zai4 }  ze2 ，（「{ huo3 zai4 }」， si1 san1 san1 jiu3 san1 juan4 zuo4 「 guai4 」， bo2 san1 wu3 wu3 ba1 juan4 zuo4 「 guai1 」。
+- ） hu1 ran2 ren2 { huo3 zai4 } ze2 ，（「{ huo3 zai4 }」， si1 san1 san1 jiu3 san1 juan4 zuo4 「 guai4 」， bo2 san1 wu3 wu3 ba1 juan4 zuo4 「 guai1 」。
 - ） ke3 bu2 zhong4 zhong1 xiu1 。
 
 ## 注释

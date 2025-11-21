@@ -39,7 +39,7 @@ tags: []
 - qu4 nian2 fu4 xuan3 ji2 ， mo2 jian1 za2 li4 yi4 。
 - li4 kou3 pian2 ming2 hu1 ， cui1 ju3 qi4 tian2 yi4 。
 - jiu4 ju1 zai4 xian2 fang1 ， men2 xiang4 shao3 ren2 ji4 。
-- yu2 shi2 ku3 bing4 yin2 ， shui2 ken3 gu4 yue4  { xue4  /  yu3 }。
+- yu2 shi2 ku3 bing4 yin2 ， shui2 ken3 gu4 yue4 { xue4 / yu3 }。
 - gao1 guan1 zong4 yi4 lin2 ， ju1 ma3 you3 qu1 se4 。
 - ping2 sheng1 qing1 yun2 zhi4 ， dian3 dian3 ruo4 zhui4 yi4 。
 - xian4 jun1 fu4 ci2 cai2 ， shi2 zhi4 fu4 liang3 de2 。

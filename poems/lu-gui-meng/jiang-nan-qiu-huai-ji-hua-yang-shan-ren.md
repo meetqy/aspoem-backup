@@ -170,7 +170,7 @@ tags: []
 - xian2 yan4 feng1 liu2 yuan3 ， jiang1 hu2 si1 xu4 ying2 。
 - ou1 ya3 yao2 ze2 meng3 ， chu1 mei2 yang4 jiao1 jing1 。
 - wan3 shu4 can1 cha4 bi4 ， qi2 feng1 li3 yi3 qing2 。
-- shui3 xuan1 sai1 zi3 qian4 ， cun1 xiang3  { zi3 nü3  =  jiu4 }  xiang1 jing1 。
+- shui3 xuan1 sai1 zi3 qian4 ， cun1 xiang3 { zi3 nü3 = jiu4 } xiang1 jing1 。
 - he2 li4 yu2 weng1 gu3 ， chuan1 li2 shou3 quan3 ning2 。
 - gong1 shan1 bai2 zhu4 juan4 ， tian2 xiang3 lü4 shao1 qing2 。
 - di4 yu3 gao1 yu2 cuo4 ， ren2 duo1 fu4 shou4 bing4 。
@@ -194,7 +194,7 @@ tags: []
 - shuang1 xin4 cui1 yang2 liu3 ， yan1 rong2 niao3 du4 heng2 。
 - heng2 pai2 chao2 yan4 yan4 ， ping2 hua4 zui4 xing1 xing0 。
 - lan3 gui4 tui1 lan2 ying3 ， fei1 quan2 han4 yu4 cheng1 。
-- 𦪽{ zhou1 qiong2 }  xun2 yuan3 jin4 ， wo4 shuo4 dou4 shu1 ying2 。
+- 𦪽{ zhou1 qiong2 } xun2 yuan3 jin4 ， wo4 shuo4 dou4 shu1 ying2 。
 - zhi1 ya1 li2 pi1 hu4 ， yan2 chui2 lei2 lei3 cheng2 。
 - wang4 qing2 ji2 zong1 bing3 ， bao4 ji2 guo4 liu2 zhen1 。
 - ye3 kui4 kua1 gu1 fan4 ， jiang1 shang1 jia3 zhe4 xing2 。

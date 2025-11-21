@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- xing1 dou3 lan2 gan1 xiao3 ， chuang1 fei1 long2  { ri4 cong1 }  ming2 。
+- xing1 dou3 lan2 gan1 xiao3 ， chuang1 fei1 long2 { ri4 cong1 } ming2 。
 - jin1 men2 yu3 mao2 dian4 ， yi4 zhong3 shi4 ji1 sheng1 。
 
 ## 注释

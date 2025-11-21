@@ -47,7 +47,7 @@ tags: []
 - zhu3 ren2 qi3 yang2 zhi4 ， bai3 sui4 feng1 bao2 su4 。
 - mo4 xian4 ye3 ren2 qin2 ， dan4 bao3 xian1 sheng0 xu0 。
 - wo3 yi4 qi3 xi1 xi2 ， zu2 jue2 geng4 san1 su4 。
-- wen1 bo2 kuang4 ke3 ren2 ， kang1  { gong3  /  yan2 }  yi4 tuo1 su2 。
+- wen1 bo2 kuang4 ke3 ren2 ， kang1 { gong3 / yan2 } yi4 tuo1 su2 。
 - gong4 fu4 ding4 zuo4 mei2 ， ju4 ya1 shi1 ren2 gu3 。
 - hao4 hao4 qi4 tu3 hong2 ， ang4 ang4 chun1 sheng1 fu4 。
 - xiang1 lei2 bi3 juan4 zhe3 ， di3 shi4 xing3 nai3 du2 。

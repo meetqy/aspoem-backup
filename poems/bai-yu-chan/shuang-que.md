@@ -25,7 +25,7 @@ tags: []
 - cang1 ran2 dong1 a1 song1 ， shang4 you3 wu1 que4 zhi1 。
 - shuang1 shuang1 zao4 xi1 feng1 ， er2 bei4 xi1 yang2 gui1 。
 - shuang1 fei1 fu4 shuang1 zhi3 ， chang2 yu3 cang1 song1 qi1 。
-- ji1 zhuo2 ding3  { yong1 zhui1 }  dian1 ， ke3 yin3 min3 shui3 mei2 。
+- ji1 zhuo2 ding3 { yong1 zhui1 } dian1 ， ke3 yin3 min3 shui3 mei2 。
 - mo4 ku3 fei1 tai4 yuan3 ， zhi3 chi3 cheng2 xiang1 si1 。
 
 ## 注释

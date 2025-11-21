@@ -38,7 +38,7 @@ tags: []
 - chi3 xin1 huo4 yi3 qi3 ， ji1 shou4 qi2 gui3 qiang1 。
 - shen1 tang3 huo4 hui4 yu4 ， gan3 hen4 fei1 peng2 shuang1 。
 - geng4 gai4 yi2 pian4 tu3 ， xiao3 zhu4 an1 xian2 fang2 。
-- chao2 pi1 shen2 zhi1 tu2 ， mu4 shi4  { shen1 shou3  =  shi2 }  fan4 fang1 。
+- chao2 pi1 shen2 zhi1 tu2 ， mu4 shi4 { shen1 shou3 = shi2 } fan4 fang1 。
 
 ## 注释
 

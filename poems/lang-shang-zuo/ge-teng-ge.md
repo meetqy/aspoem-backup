@@ -55,7 +55,7 @@ tags: []
 - geng4 yan2 zhe3 ge4 shi4 ru2 lai2 ， kuang2 ta1 zi4 kuang2 ku3 ai1 zai1 ！ ruo4 ye3 bu2 xin4 ge2 teng2 yu3 ， yi2 ren4 qing1 tian1 che4 dian4 lei2 。
 - yu2 jia1 yi2 ren4 qing1 tian1 xiao4 ， bi4 luo4 fu2 yun2 tu2 hao4 hao4 。
 - jie3 shuo1 dao1 xi1 kou3 bu4 shang1 ， jin1 gu3 qi3 wu2 yan2 yu3 dao4 。
-- xian2 lai2 ba3 bi3 dong4 hao2 mang2 ， bu2 yu4  { mei2 jian1 }  ran2 zhu4 ji4 xiang1 。
+- xian2 lai2 ba3 bi3 dong4 hao2 mang2 ， bu2 yu4 { mei2 jian1 } ran2 zhu4 ji4 xiang1 。
 - wu2 shi4 qiang2 sheng1 duo1 zhong3 jie3 ， zheng1 ru2 wu2 shi4 qie3 xun2 chang2 。
 - qie3 xun2 chang2 ， you2 bei4 xu1 zhen1 xiao4 yi4 chang3 。
 - ke3 lian2 hao3 ge4 jiu1 quan2 zi3 ， huan4 zuo4 jiu1 quan2 zao3 ya1 liang2 。

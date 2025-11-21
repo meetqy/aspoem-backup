@@ -28,7 +28,7 @@ tags: []
 ## 拼音
 
 - shu1 tang2 si4 gu4 jie1 cang1 shan1 ， qin2 yu2 shu4 shi2 yan1 yun2 jian4 。
-- zhi3 bian1 lü3 jue2 bi3 lü3  { biao1  /  wen2 }， shi2 zai4 yi2 shun4 wang4 qing1 lun2 。
+- zhi3 bian1 lü3 jue2 bi3 lü3 { biao1 / wen2 }， shi2 zai4 yi2 shun4 wang4 qing1 lun2 。
 - shui2 ling4 hu1 yi4 nan2 xun1 guan1 ， jin4 chui2 da3 ma3 ming2 biao1 huan2 。
 - chun1 feng1 tao2 li3 fen1 yao1 xian2 ， ci2 jia1 da4 xiao4 ti4 bu4 shan1 。
 - you2 lai2 lei3 luo4 xiu1 qiong2 quan2 ， xia4 wei4 yi4 zu2 hui4 gua3 guan1 。

@@ -35,7 +35,7 @@ tags: []
 - hua4 chuan2 tuo1 su4 lian4 ， zhu1 xie4 ying4 hong2 yun2 。
 - hu3 po4 bei1 fang1 zhuo2 ， jiao1 xiao1 xi2 wei4 chen2 。
 - qin2 xiao1 chui1 yin3 feng4 ， zou1 lü4 zou4 sheng1 chun1 。
-- piao3  { si1 er3 shao3 }  xian1 ge1 e4 ， po2 suo1 miao4 wu3 shen2 。
+- piao3 { si1 er3 shao3 } xian1 ge1 e4 ， po2 suo1 miao4 wu3 shen2 。
 - hui4 zhi1 ming2 mo4 chu3 ， bai3 guai4 nao3 jing1 hun2 。
 
 ## 注释

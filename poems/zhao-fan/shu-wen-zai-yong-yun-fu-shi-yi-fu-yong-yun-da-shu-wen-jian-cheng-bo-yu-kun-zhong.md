@@ -33,7 +33,7 @@ tags: []
 - hu2 wei2 liu2 luo4 bu4 cheng1 yi4 ， chang2 jia2 diao1 qiu2 bian4 nan2 tu3 。
 - wo3 chang2 xi4 ba3 yi2 shi1 du2 ， da4 ban4 bei1 shang1 wen2 zhan4 gu3 。
 - tu2 kong1 zhi4 de2 zhi4 da4 li4 ， tian2 ju1 jing4 jue2 wei2 geng1 wu3 。
-- qu1 qu1 qing1  { you3 li4 }  yu3 fei2 yang2 ， he2 si4 song1 gen1 fu2 ling2 zhu3 。
+- qu1 qu1 qing1 { you3 li4 } yu3 fei2 yang2 ， he2 si4 song1 gen1 fu2 ling2 zhu3 。
 - shi4 weng1 du2 po4 nian4 wu2 lu2 ， tai4 xi1 ming2 guang1 shui2 bi4 shu3 。
 - shi1 qiong2 ru2 shi4 jin3 de2 ming2 ， yu4 zuo4 shi1 ren2 ning2 yi4 yu3 。
 - yao4 hu1 tong2 zhi4 gong4 tao3 lun4 ， ke4 li3 na4 zhi1 jiu3 jia1 yu4 。

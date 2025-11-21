@@ -35,7 +35,7 @@ tags: []
 
 - bu4 ti3 （《 lei4 cong2 》 ben3 zuo4 「 hang2 」。
 - 〖 you4 ri4 ben3 fo2 jiao4 quan2 shu1 〗 ben3 zuo4 「{ zhou1 si4 }」。
-- kao3 yun2 ：「{ zhou1 si4 }  ji2 na4 zi4 。
+- kao3 yun2 ：「{ zhou1 si4 } ji2 na4 zi4 。
 - hui4 chao1 《 chuan2 》 duo1 yong4 ci3 zi4 。
 - 」） xin1 lei4 （《 lei4 cong2 》 ben3 zuo4 「 du4 」。
 - ） zi4 juan1 ，（ wang4 an4 ：「 ci3 ju4 yuan2 tuo1 yi2 zi4 。

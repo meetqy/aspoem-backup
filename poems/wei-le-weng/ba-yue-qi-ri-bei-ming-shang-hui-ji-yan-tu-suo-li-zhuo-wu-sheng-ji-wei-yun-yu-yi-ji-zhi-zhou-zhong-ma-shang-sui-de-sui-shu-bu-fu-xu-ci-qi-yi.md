@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - zhou1 guan1 sui1 you3 mu4 wei2 shi1 ， xi4 kao3 yuan2 fei1 mu4 ji4 yi2 。
-- jiu3 shi2 nian2 xian2 chou2 wei4 fu4 ， ling2  { zan3 ren2  =  dai3 }  za2 yong4 zui4 kan1 bei1 。
+- jiu3 shi2 nian2 xian2 chou2 wei4 fu4 ， ling2 { zan3 ren2 = dai3 } za2 yong4 zui4 kan1 bei1 。
 
 ## 注释
 

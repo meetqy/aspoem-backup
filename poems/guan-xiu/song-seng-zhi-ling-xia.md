@@ -23,7 +23,7 @@ tags: []
 
 - jiu4 shi2 wei2 bian1 shuai4 ， shi1 you2 sheng4 shi4 jian1 。
 - lian2 tian1 wei2 bai2 cao3 ， ye3 bing3 you3 hong2 yan2 。
-- fan1 jin4 feng1 duo1  { bei4 zhi1 }， he2 hun2 qi4 ban4 yan1 。
+- fan1 jin4 feng1 duo1 { bei4 zhi1 }， he2 hun2 qi4 ban4 yan1 。
 - yin1 zhi1 xin1 si4 yue4 ， chu3 chu3 you3 ren2 zhan1 。
 
 ## 注释

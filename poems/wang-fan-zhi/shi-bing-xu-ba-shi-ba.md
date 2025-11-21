@@ -23,7 +23,7 @@ tags: []
 
 - nan2 【 ren3 】 tang3 neng2 ren3 ， neng2 ren3 zui4 wei2 nan2 。
 - fu2 rou4 hu3 bu4 shi2 ， bing4 niao3 ren2 bu2 dan4 。
-- dang1 shi2 sui1  { ge4 si4 }（ zhang1 gai3 zuo4 「 qi2 」） du3 ， guo4 hou4 bi4 shen1 an1 。
+- dang1 shi2 sui1 { ge4 si4 }（ zhang1 gai3 zuo4 「 qi2 」） du3 ， guo4 hou4 bi4 shen1 an1 。
 - tuo4 mian4 bu4 xu1 shi4 ， cong2 feng1 zi4 yin1 qian2 。
 
 ## 注释

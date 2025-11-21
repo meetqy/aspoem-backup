@@ -50,7 +50,7 @@ tags: []
 - ren2 feng1 ai3 si4 jun4 ， xi1 shan1 cao3 mu4 ju4 bei4 xun2 liang2 sheng1 。
 - xu1 nü3 xiao3 fu2 nan2 ji2 rui4 ， shan1 guang1 shui3 qi4 teng2 xiang2 yun2 。
 - bai3 xing4 xin1 xin1 you3 xi3 se4 ， yi2 bu4 bai4 shou3 qi2 song1 chun1 。
-- ri4 jun1 huan4 he4 ting2 bao3 yu4 ， yue4 fei1 wo3  { nü3 zhi1 }  liu2 wen2 yin1 。
+- ri4 jun1 huan4 he4 ting2 bao3 yu4 ， yue4 fei1 wo3 { nü3 zhi1 } liu2 wen2 yin1 。
 - jin1 feng1 yu4 lu4 cheng2 xiang4 wei3 ， dong4 dong4 xia4 jian4 min2 zhi1 qing2 。
 - yi2 zhu4 wu2 hou2 zao3 gui1 jiang4 que4 zuo3 ming2 zhu3 ， zuo4 shi3 tian1 xia4 feng1 su2 huan2 zhen1 chun2 。
 - zai4 zhu4 wu2 hou2 duo1 nan2 zi3 ， sen1 sen1 lan2 yu4 ying2 jie1 ting2 。

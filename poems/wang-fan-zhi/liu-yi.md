@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - de2 yan2 qing3 mo4 shuo1 ， you3 yu3 bu4 xu1 chuan2 。
-- jian4 shi4 ru2 bu2 jian4 ， zhong1 shen1 wu2 guo4  { chi4 | tian1 tian1  /  xin1 }。
+- jian4 shi4 ru2 bu2 jian4 ， zhong1 shen1 wu2 guo4 { chi4 | tian1 tian1 / xin1 }。
 
 ## 注释
 

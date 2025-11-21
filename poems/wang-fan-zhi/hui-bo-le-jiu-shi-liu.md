@@ -23,7 +23,7 @@ tags: []
 ## 拼音
 
 - wu4 wu4 （ zhang1 gai3 zuo4 「 ying2 ying2 」） zi4 mian3 shen1 ， ni3 mi4 qi1 er2 hao3 。
-- qie4 ying2 （ zhang1 gai3 「 qiao3 yu4 」） da3 ji3 shi3 ， qiong2 han4 mei3 xue2  { bing1 hao4 }（ xiang4 xiao4 「 nian2 xiao1 」）。
+- qie4 ying2 （ zhang1 gai3 「 qiao3 yu4 」） da3 ji3 shi3 ， qiong2 han4 mei3 xue2 { bing1 hao4 }（ xiang4 xiao4 「 nian2 xiao1 」）。
 - wang3 fa3 bao1 zhong4 sheng1 ， cai2 shi4 ren2 sui3 nao3 。
 - bao4 jue2 huan2 ta1 zhai4 ， jia1 jia1 zong3 xu1 dao4 。
 - zhi4 zhe3 xing1 xing0 （ xiang4 xiao4 「 xing1 xing1 」） xing2 ， yu2 ren2 zi4 chan2 rao4 。

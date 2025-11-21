@@ -18,7 +18,7 @@ tags: []
 
 ## 拼音
 
-- ning2 qu4 lei3 shi4 zhai2 ， bu2 qu4  { zhi4  /  duo1 }  yu2 e2 。
+- ning2 qu4 lei3 shi4 zhai2 ， bu2 qu4 { zhi4 / duo1 } yu2 e2 。
 
 ## 注释
 

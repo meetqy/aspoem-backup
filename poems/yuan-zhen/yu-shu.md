@@ -23,7 +23,7 @@ tags: []
 
 - jiang1 di1 yue4 an4 liu2 ， lou4 gu3 ji2 can2 chou2 。
 - pian4 yue4 di1 cheng2 die2 ， xi1 xing1 zhuan3 jiao3 lou2 。
-- he4 mei2 hua2 biao3 shang4 ，{ bi4 𥫗+  niao3 }  jia2 liu3 zhi1 tou2 。
+- he4 mei2 hua2 biao3 shang4 ，{ bi4 𥫗+ niao3 } jia2 liu3 zhi1 tou2 。
 - bu4 wei2 lai2 qu1 fu3 ， he2 yin1 yu4 shu3 you2 。
 
 ## 注释

@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - a1 he1 he1 ， ye3 da4 qi2 ， zhe2 bi4 xiu1 luo2 wu3 zhe4 zhi1 。
-- ji2 ru2 shan3 dian4 ， ji2 ru2 fei1 mao2 ，{ shen4 pi2 }  sha4 yan3 mi2 chi1 ， de2 pian2 yi0 shi4 luo4 pian2 yi0 。
+- ji2 ru2 shan3 dian4 ， ji2 ru2 fei1 mao2 ，{ shen4 pi2 } sha4 yan3 mi2 chi1 ， de2 pian2 yi0 shi4 luo4 pian2 yi0 。
 
 ## 注释
 

@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- shui3 yu3 lu4 ， liang3 shi4 zuo4 chong1  { zhou1 peng2 }。
+- shui3 yu3 lu4 ， liang3 shi4 zuo4 chong1 { zhou1 peng2 }。
 - lu4 you3 shi4 xing2 shui3 （ jing1 ben3 zuo4 「 hu2 」） yi4 you3 ， zhou1 ju1 jie2 li4 （ jing1 ben3 zuo4 「 li4 」） bu4 xiang1 zheng1 ， zhuan1 zai4 jiang1 neng2 ming2 。
 
 ## 注释

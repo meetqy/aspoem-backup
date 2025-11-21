@@ -23,7 +23,7 @@ tags: []
 
 - ji2 wu3 sui2 feng1 luan4 ， bin1 fei1 du4 zhu2 chi2 。
 - song1 mai2 chao2 he4 ding3 ， teng2 zhong4 gua4 yuan2 zhi1 。
-- ming2  { chong2 te4 }  bin1 nian2 si3 ， wu1 yuan1 jin4 ri4 ji1 。
+- ming2 { chong2 te4 } bin1 nian2 si3 ， wu1 yuan1 jin4 ri4 ji1 。
 - lou2 feng1 shu1 ye3 shi3 ， shuang1 zhan3 shi3 jun1 mei2 。
 
 ## 注释

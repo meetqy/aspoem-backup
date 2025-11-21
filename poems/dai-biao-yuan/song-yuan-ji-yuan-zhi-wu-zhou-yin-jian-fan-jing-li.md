@@ -58,7 +58,7 @@ tags: []
 - wen2 lin2 xi1 wang4 dong4 ， dong4 bi4 xiang4 suo3 qin1 。
 - wu2 ping2 gu3 mao2 yi4 ， zhi4 xing2 jin4 qian1 can1 。
 - gong1 fu3 xu1 pi4 zhao4 ， qu1 shen1 fei1 lu4 yin2 。
-- si1 ren2 wo3 zhi1 jiu4 ， chang2 ran2 shan4  { kou3 wu2 }  yin2 。
+- si1 ren2 wo3 zhi1 jiu4 ， chang2 ran2 shan4 { kou3 wu2 } yin2 。
 - xue2 yi3 meng4 li2 he2 ， feng1 hua1 ming4 fu2 chen2 。
 - wang3 zhe3 na4 qian1 zhi4 ， zhong1 ran2 yi2 yi4 zan1 。
 - yu4 xing2 you4 bu4 de2 ， chu1 men2 shi1 qian2 qin2 。

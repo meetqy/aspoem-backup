@@ -22,7 +22,7 @@ tags: []
 ## 拼音
 
 - ke3 lian2 yu2 gu3 zi3 ， tian1 sheng1 cong2 di4 yang3 。
-- zhou1 fan4 bu4 neng2  { dai3 xiao4 }， kong1 du4 zuo4 sheng1 xiang3 。
+- zhou1 fan4 bu4 neng2 { dai3 xiao4 }， kong1 du4 zuo4 sheng1 xiang3 。
 - shi2 shi2 jing1 seng1 shui4 ， lan3 zhe3 fan2 nao3 chang2 。
 - zhu4 chi2 nao4 xuan1 xuan1 ， bu4 ru2 da3 you2 yang4 。
 

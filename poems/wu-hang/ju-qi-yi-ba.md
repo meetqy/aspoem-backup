@@ -20,7 +20,7 @@ tags: []
 ## 拼音
 
 - qiao2 ge1 cui1 ri4 wan3 ， cun1 le4 jian4 nian2 feng1 。
-- ……  yan4 zhen4 heng2 chong1 wu4 ， jiu3 jun1 han1 zhan4 feng1 。
+- …… yan4 zhen4 heng2 chong1 wu4 ， jiu3 jun1 han1 zhan4 feng1 。
 
 ## 注释
 

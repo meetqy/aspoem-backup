@@ -150,7 +150,7 @@ tags: []
 - shou3 dao4 gan1 chang2 jue2 ， ming2 xin1 yu4 zi4 𠜲。
 - zhu4 chou2 ting1 ye4 yu3 ， ge2 lei4 shu4 can2 pa1 。
 - xiao1 zu2 yin1 chang2 guo1 ， chai2 qun2 hui4 jing4 ya0 。
-- an4 lu2 fan1 du2 shen4 ， xi1 zhu2 dou4 kuang2  { guang3 / li4 / niu2 }。
+- an4 lu2 fan1 du2 shen4 ， xi1 zhu2 dou4 kuang2 { guang3 / li4 / niu2 }。
 - ye3 wu4 xing2 kan4 yi4 ， jiang1 yu2 huo4 gong4 cha1 。
 - zhang4 fen1 heng2 ji1 run4 ， e2 huo3 ji2 sheng1 xia1 。
 - er3 jing4 fan2 xuan1 yi3 ， hun2 jing1 qie4 nu4 wa1 。

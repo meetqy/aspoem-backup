@@ -21,7 +21,7 @@ tags: []
 ## 拼音
 
 - shan1 bao4 lao3 ， gan1 shou4 chao2 ， shan1 po2 po0 ， xi1 de2 jiao1 。
-- { mao2 hu2 }  zi3 lai2 jie3 wan4 ， da4 tou2 lai2 jian4 jiao1 。
+- { mao2 hu2 } zi3 lai2 jie3 wan4 ， da4 tou2 lai2 jian4 jiao1 。
 - huang2 tou2 er2 ， huang2 tou2 er2 ， bai2 huang2 tou2 er2 you3 lao3 shi2 ， ya1 xian4 xue1 tou2 xiang1 ban4 fei1 。
 
 ## 注释

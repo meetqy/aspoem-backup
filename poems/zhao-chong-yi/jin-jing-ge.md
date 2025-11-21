@@ -44,7 +44,7 @@ tags: []
 - lian2 hua1 feng1 xia4 jiu3 wu2 lu4 ， shi2 you3 qiao2 zi0 pan1 teng2 xun2 。
 - dan1 guang1 chu1 wu1 shui3 cen2 cen2 ， bai2 he4 fei1 qu4 qi1 tao2 lin2 。
 - tao2 jin1 ji1 shu2 zhi1 shang4 qing1 ， shi2 tian2 yu4 zi3 wu2 long2 geng1 。
-- yun2 zheng1 zeng4 fu4 lan4 qing1  { shi2 xun4 }， xue3 dong4 di4 gu3 mi2 huang2 jing1 。
+- yun2 zheng1 zeng4 fu4 lan4 qing1 { shi2 xun4 }， xue3 dong4 di4 gu3 mi2 huang2 jing1 。
 - ling2 jun1 jiu3 yi3 bian1 yu4 lin2 ， jin1 zuo4 tian1 shang4 he2 gong1 qing1 。
 - ya2 qian2 lao3 zhu2 lü3 sheng1 mi3 ， ye4 you3 shi2 quan3 dang1 jie1 ming2 。
 - wo3 yi4 san1 sheng1 jia1 shi2 gu3 ， hua1 luo4 hua1 kai1 bu4 zhi1 shu4 。

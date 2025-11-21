@@ -18,7 +18,7 @@ tags: []
 
 ## 拼音
 
-- ping2 chi2 jiu3 qu1 zai4 ， chun1 shui3 ying2 qi2  { shi2 wan1 }。
+- ping2 chi2 jiu3 qu1 zai4 ， chun1 shui3 ying2 qi2 { shi2 wan1 }。
 
 ## 注释
 

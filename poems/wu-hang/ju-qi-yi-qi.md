@@ -24,7 +24,7 @@ tags: []
 
 - jun1 shao3 zuo4 qi2 zi4 ， shou4 ying4 de2 liu3 gu3 。
 - mo4 jing4 jian3 shui3 yun2 ， shi4 jian4 ao4 tie3 qu1 。
-- ……  xin1 shi1 geng4 juan1 mo2 ， jin4 jue2 yu3 zi4 pi3 。
+- …… xin1 shi1 geng4 juan1 mo2 ， jin4 jue2 yu3 zi4 pi3 。
 - lao3 jiao1 han2 wo4 bo1 ， zhuang4 shi4 nu3 jue2 shi2 。
 - fan1 pen2 shi4 dong4 yao2 ， shi1 yu3 zi4 ju4 li4 。
 

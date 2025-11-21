@@ -22,7 +22,7 @@ tags: []
 ## 拼音
 
 - jie2 xu4 an4 tui1 yi2 ， qing1 shang1 jian4 jie4 qi1 。
-- lü3 huai2  { nai4 shi4  =  chong2 }  zao3 ji4 ， liang2 xin4 liu3 xian1 zhi1 。
+- lü3 huai2 { nai4 shi4 = chong2 } zao3 ji4 ， liang2 xin4 liu3 xian1 zhi1 。
 - wan4 shi4 dao4 shuang1 bin4 ， yu2 sheng1 xiao1 ji1 shi1 。
 - zui4 lian2 liang2 shang4 yan4 ， chao2 wen3 you4 gui1 shi2 。
 

@@ -22,7 +22,7 @@ tags: []
 ## 拼音
 
 - niao3 niao3 lu2 xiang1 zhou4 yan3 fei1 ， can2 nian2 zhen1 shi4 jie3 chen2 ji1 。
-- qing1  { shi2 zi1 }  xuan2 dao3 tong1 lin2 hao3 ， bai2 ge3 xin1 cai2 zhi4 shu3 yi1 。
+- qing1 { shi2 zi1 } xuan2 dao3 tong1 lin2 hao3 ， bai2 ge3 xin1 cai2 zhi4 shu3 yi1 。
 - bi4 ri4 xiao3 yu2 chuan1 zao3 qu4 ， yi3 feng1 qing1 yan4 fu2 lian2 fei1 。
 - yao4 zhi1 ming2 huan4 fei1 chu1 yi4 ， san1 shi2 nian2 qian2 yi3 nian4 gui1 。
 

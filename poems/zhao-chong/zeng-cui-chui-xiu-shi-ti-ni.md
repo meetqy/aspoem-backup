@@ -31,7 +31,7 @@ tags: []
 
 - ci2 en1 ta3 xia4 qin1 （《 shuo1 fu2 》 ben3 zuo4 「 shang4 xin1 」） ni2 bi4 ， hua2 ni4 guang1 hua2 yu4 bu4 ru2 。
 - he2 shi4 bo2 ling2 cui1 si4 shi2 ， jin1 ling2 tui3 shang4 cheng3 ou1 shu1 。
-- （ jian4 《 bei3 li3 zhi4 》）（〖1〗《 bei3 li3 zhi4 》：「 wang2 tuan2 er2 ……  you3 nü3 shu4 ren2 。
+- （ jian4 《 bei3 li3 zhi4 》）（〖1〗《 bei3 li3 zhi4 》：「 wang2 tuan2 er2 …… you3 nü3 shu4 ren2 。
 - chang2 yue1 xiao3 run4 ， zi4 zi3 mei3 ， shao3 shi2 po1 ji2 ji2 zhe3 。
 - xiao3 tian1 cui1 chui2 xiu1 bian4 hua4 nian2 ni4 huo4 zhi1 ， suo3 fei4 shen4 guang3 。
 - chang2 ti2 ji4 wu1 xiao3 run4 pi2 shang4 ， wei2 shan1 suo3 jian4 〖 yuan2 zhu4 ： ming2 jiu4 jin1 zi4 gun3 qiu2 jin4 bai2 xiao3 qiu2 zai3 lin2 jin4 〗， zeng4 shi1 yue1 〖 lüe4 〗。

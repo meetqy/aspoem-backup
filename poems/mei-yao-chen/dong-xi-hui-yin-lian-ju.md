@@ -50,7 +50,7 @@ tags: []
 - xue2 shu3 an4 chu1 mei2 ， feng1 yan4 gao1 yong1 rong2 。
 - bing1 shuang1 fu4 wa3 wu1 ， diao1 hu2 shu1 gui4 weng1 。
 - gu1 chuang2 fa2 nuan3 zhi4 ， ku3 yu3 you3 dan4 gong1 。
-- ju3 jue2 huan4  { zhi4 huo3  =  rou4 }  xiao3 ， wei1 pao4 jing1 qiao4 hong2 。
+- ju3 jue2 huan4 { zhi4 huo3 = rou4 } xiao3 ， wei1 pao4 jing1 qiao4 hong2 。
 - luo4 chan2 xie2 ru4 qiao4 ， yuan3 lou4 wei1 di4 feng1 。
 - zui4 xin1 qi1 shui4 po4 ， xi4 shu1 ci4 hun1 tong2 。
 - hong1 ya0 wen2 zheng1 quan3 ， xiao4 hou3 yan4 ti2 𩦺。

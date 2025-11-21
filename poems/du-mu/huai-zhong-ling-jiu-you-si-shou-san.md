@@ -23,7 +23,7 @@ tags: []
 
 - shi2 qing3 ping2 hu2 di1 liu3 he2 ， an4 qiu1 lan2 zhi3 lü4 xian1 xian1 。
 - yi4 sheng1 ming2 yue4 cai3 lian2 nü3 ， si4 mian4 zhu1 lou2 juan4 hua4 lian2 。
-- bai2 lu4 yan1 fen1 guang1 de0 de0 ， wei1 lian2 feng1 ding4 cui4  { shui3 xin1 zhan4 }{ shui3 xin1 zhan4 }。
+- bai2 lu4 yan1 fen1 guang1 de0 de0 ， wei1 lian2 feng1 ding4 cui4 { shui3 xin1 zhan4 }{ shui3 xin1 zhan4 }。
 - xie2 hui1 geng4 luo4 xi1 shan1 ying3 ， qian1 bu4 hong2 qiao2 qi4 xiang4 jian1 。
 
 ## 注释

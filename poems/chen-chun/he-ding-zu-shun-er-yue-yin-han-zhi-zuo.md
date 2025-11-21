@@ -30,7 +30,7 @@ tags: []
 
 - dong1 huang2 li4 shi4 yi3 gao4 ban4 ， nong2 cun1 qia4 qia4 zhi1 tian2 ju1 。
 - hu2 wei2 xuan2 ming2 shang4 yan3 jian3 ， an4 nong4 wei1 quan2 wei4 tui4 xie2 。
-- a1 li4  { yu3  /  chen3 }  zui4 chi1 suo3 wu1 jiao3 ， a1 xiang1 yi4 lan3 qiao1 long2 ya2 。
+- a1 li4 { yu3 / chen3 } zui4 chi1 suo3 wu1 jiao3 ， a1 xiang1 yi4 lan3 qiao1 long2 ya2 。
 - jing4 ri4 yu4 yu3 jing4 bu4 yu3 ， hao4 han2 wang3 wang3 bei1 ti2 ya1 。
 - yuan2 miao2 suo1 se4 xian1 sheng1 yi4 ， qie3 cui4 qie3 fu3 zhen1 ke3 jie1 。
 - huang2 tian1 ben3 zi4 ai4 xia4 mang2 ， yin1 yang2 shu1 can3 yuan2 bu2 cha4 。

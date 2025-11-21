@@ -37,7 +37,7 @@ tags: []
 - wan3 ran2 ao4 shuang1 ju2 ， can4 can4 huang2 jin1 hui1 。
 - mian3 liu2 yuan1 lu4 xing2 ， fu1 qi3 shao3 qing1 fei2 。
 - yi4 hui1 ji2 de2 qing3 ， zhong4 mu4 hai4 jian4 xi1 。
-- liao3 bu2 lu4 xian1 jie4 ， shu1 juan4 liu2 qing1  { shan1  /  hui1 }。
+- liao3 bu2 lu4 xian1 jie4 ， shu1 juan4 liu2 qing1 { shan1 / hui1 }。
 - liang2 feng1 cheng1 gui1 zhao4 ， hao4 qi4 yi4 zheng1 yi1 。
 - po2 suo1 wei4 qiu1 yuan2 ， hai1 tuo4 luo4 zhu1 ji1 。
 - yin1 feng1 lai2 jin3 nang2 ， you2 zu2 wei4 yi1 yi1 。

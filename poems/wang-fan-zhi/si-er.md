@@ -24,7 +24,7 @@ tags: []
 ## 拼音
 
 - ting2 （ yi4 ben3 zuo4 「 ting2 」。
-- ） ke4 wu4 chi4 gou3  { you4 shang4 jia1 nian4 }， dui4 ke4 mo4 bin1 mei2 。
+- ） ke4 wu4 chi4 gou3 { you4 shang4 jia1 nian4 }， dui4 ke4 mo4 bin1 mei2 。
 - gong4 gei3 qian1 yu2 zi4 ，（「 zi4 」， si1 san1 san1 jiu3 san1 、 si1 si4 liu4 liu4 jiu3 juan4 zuo4 「 ri4 」。
 - ） lin2 shi2 qing3 bu4 ji1 。
 - （「 lin2 shi2 」， bo2 san1 liu4 wu3 liu4 juan4 zuo4 「 lin2 qi2 」， bo2 san1 qi1 yi1 liu4 juan4 zuo4 「 lin2 zheng4 」。

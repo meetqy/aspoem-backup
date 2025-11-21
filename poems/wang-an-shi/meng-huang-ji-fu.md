@@ -30,7 +30,7 @@ tags: []
 - zhou1 yu2 lai2 he2 chi2 ， bei3 wang4 lü3 tang3 huang3 。
 - xi1 cheng2 ji4 hua1 shi2 ， luo4 po4 sui2 liang3 jiang3 。
 - sui4 wan3 zhou1 zhu3 jing4 ， shui3 xiao1 yan1 miao3 mang3 。
-- chou2 chu2 bi4 shang4 zi4 ， qi1 wo3 wu2 nai3  { chuo4 ren2 }。
+- chou2 chu2 bi4 shang4 zi4 ， qi1 wo3 wu2 nai3 { chuo4 ren2 }。
 
 ## 注释
 

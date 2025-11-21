@@ -29,7 +29,7 @@ tags: []
 
 - wei3 zai1 zhen1 zhi4 shi4 ， neng2 kai1 fang1 bian4 jin1 。
 - yi4 deng1 ming2 yi4 ti3 ， shi2 jing4 xian4 shi2 shen1 。
-- shen1 shen1 xiang4 han4 she4 ， deng1 deng1 zuo4  { ya2 pie3  =  zhu3 }  yin1 。
+- shen1 shen1 xiang4 han4 she4 ， deng1 deng1 zuo4 { ya2 pie3 = zhu3 } yin1 。
 - ceng2 ceng2 shen1 tu3 guang3 ， chong2 chong2 li3 shi4 yuan1 。
 - yan3 du3 wei1 chen2 fo2 ， deng3 feng2 pi2 mu4 xian1 。
 - hai3 yin4 cong2 zi1 xian3 ， di4 gang1 yi4 you2 quan2 。

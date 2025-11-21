@@ -27,7 +27,7 @@ tags: []
 - xiong1 di4 bao3 nan2 de2 ，（「 bao3 」， zhang1 xi1 hou4 lu4 zuo4 「 shi2 」。
 - ） ta1 ren2 bu4 ke3 chen1 。
 - （「 chen1 」， bo2 san1 wu3 wu3 ba1 、 si1 san1 san1 jiu3 san1 juan4 zuo4 「 qin1 」。
-- ）{ ren2 | kou3  /  gong1 }（ guan1 jiao4 ben3 zuo4 dan4 。
+- ）{ ren2 | kou3 / gong1 }（ guan1 jiao4 ben3 zuo4 dan4 。
 - ） xun2 zhuang1 zi3 yu3 ， shou3 zu2 duan4 nan2 lun4 。
 - （「 duan4 」， bo2 san1 wu3 wu3 ba1 juan4 zuo4 「 dan4 」。
 - ）。

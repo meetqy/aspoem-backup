@@ -20,7 +20,7 @@ tags: []
 
 ## 拼音
 
-- 𣻑𣻑 qi2 xian3 ，{ shou3 gu3 }{ shou3 gu3 }  qi2 dang4 。
+- 𣻑𣻑 qi2 xian3 ，{ shou3 gu3 }{ shou3 gu3 } qi2 dang4 。
 - wu2 fei1 bang3 ren2 ， wei2 yi4 suo3 xiang4 。
 - zai4 wo3 wo1 xi1 bu4 ke3 zhi4 ， jun1 gui4 mu4 lan2 jie1 bu2 bi4 ， he2 cai2 bu2 dong4 neng2 fu2 bi4 。
 

@@ -28,7 +28,7 @@ tags: []
 
 - er4 shu1 ci2 han4 ting2 ， gu4 li3 hui1 huang2 jin1 。
 - xie4 gong1 fu2 jin4 ye4 ， bu4 gai3 dong1 shan1 xin1 。
-- yu2 yi4 he2 wei2 zhe3 ， shi2 dong4 zhuang1  { wang3  /  yu3 }  yin2 。
+- yu2 yi4 he2 wei2 zhe3 ， shi2 dong4 zhuang1 { wang3 / yu3 } yin2 。
 - qi1 min3 san1 jing4 huang1 ， bai2 fa4 xi1 si4 qin1 。
 - tu2 xin1 juan4 fei1 yi4 ， huo4 yin1 you2 feng4 lin2 。
 - fang1 tong2 xun1 chi2 chui1 ， you4 yuan3 jin1 yu4 yin1 。

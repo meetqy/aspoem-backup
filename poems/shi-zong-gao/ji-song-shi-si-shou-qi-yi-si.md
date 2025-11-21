@@ -25,7 +25,7 @@ tags: []
 
 ## 拼音
 
-- zhi1 qian4  { wei2 jiu3 }  di4 yi2 xia4 er3 ， ruo4 de2  { wei2 jiu3 }  di4 yi2 xia4 le0 。
+- zhi1 qian4 { wei2 jiu3 } di4 yi2 xia4 er3 ， ruo4 de2 { wei2 jiu3 } di4 yi2 xia4 le0 。
 - ru2 ji2 shi4 ， shi4 ji2 ru2 。
 - seng1 ji2 su2 ， su2 ji2 seng1 。
 - fan2 ji2 sheng4 ， sheng4 ji2 fan2 。

@@ -21,7 +21,7 @@ tags: []
 
 ## 拼音
 
-- sui4 shu2 he2 lun4  { he2  /  ci4 }， ren2 gui1 ye4 ji1 zhong1 。
+- sui4 shu2 he2 lun4 { he2 / ci4 }， ren2 gui1 ye4 ji1 zhong1 。
 - jin1 deng4 sha1 di3 shui3 ， long2 wo4 jing3 bian1 feng1 。
 - xiang1 huo3 chang2 cun2 she4 ， yu2 yan2 mei3 duo2 nong2 。
 - nian2 lai2 jian1 bo2 jian4 ， zhen1 chu3 wan4 jia1 chong1 。

@@ -21,7 +21,7 @@ tags: []
 
 ## 拼音
 
-- da4 bian4 ke1  { ju1 wo3 }  xu1 zan4 liu2 ， yi4 zun1 xiang1 shu3 hua4 lao2 chou2 。
+- da4 bian4 ke1 { ju1 wo3 } xu1 zan4 liu2 ， yi4 zun1 xiang1 shu3 hua4 lao2 chou2 。
 - feng1 hu2 jie2 mo4 ming2 zhong1 zai4 ， xu1 shi3 jin1 zhang1 ji4 lang4 tou2 。
 - zun1 lu4 jian4 kan4 hong2 yan4 ji2 ， zai4 yuan2 dang1 ji4 ji2 ling2 qiu2 。
 - ta1 nian2 hui4 you3 xiang1 cong2 le4 ， fan4 zhai2 fu2 jia1 wan4 shi4 xiu1 。

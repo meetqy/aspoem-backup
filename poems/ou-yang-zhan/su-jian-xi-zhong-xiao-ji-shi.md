@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- 𥳌{𥫗/ qiong2 }  yi4 xi2 mian2 huan2 zuo4 ， wa1 zao4 ying2 fei1 ye4 wei4 yang1 。
+- 𥳌{𥫗/ qiong2 } yi4 xi2 mian2 huan2 zuo4 ， wa1 zao4 ying2 fei1 ye4 wei4 yang1 。
 - tong2 pu2 zhou1 ren2 kong1 ji4 ji4 ， ge2 lian2 wei1 yue4 ru4 zhong1 cang1 。
 
 ## 注释

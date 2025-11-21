@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- xiang1 shi1 hong2 e2 gong4  { yue4 jian1 }  ling2 ， zhi3 hao3 san1 fan1 liang3 ci4 ying2 。
+- xiang1 shi1 hong2 e2 gong4 { yue4 jian1 } ling2 ， zhi3 hao3 san1 fan1 liang3 ci4 ying2 。
 - xie4 que4 hong2 ling2 nan2 bao3 jiu3 ， zong3 ran2 ying2 de2 ye3 wu2 qing2 。
 
 ## 注释

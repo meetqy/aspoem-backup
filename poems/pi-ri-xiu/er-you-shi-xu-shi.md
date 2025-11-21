@@ -81,7 +81,7 @@ tags: []
 - jian3 chu2 you1 pi4 sou3 ， di2 dang4 xuan2 wei1 ku1 。
 - xue2 hai3 zheng4 kuang2 bo1 ， yu3 tou2 xiang4 zhong1 𭮷。
 - sheng4 ren2 huan4 bu4 xue2 ， chui2 jie4 you2 wei2 qie4 。
-- gou3 mei4 gu3 yu3 jin1 ， he2 shu1 yin1 gong4  { mu4 que4 }。
+- gou3 mei4 gu3 yu3 jin1 ， he2 shu1 yin1 gong4 { mu4 que4 }。
 - xi1 zhi1 mu4 jing1 shi3 ， you3 yi3 yong1 bi3 zha2 。
 - he2 kuang4 yu4 si1 wen2 ， jie4 zhi1 bu4 ceng2 chuo4 。
 - wu2 yi1 ren4 hu2 lu2 ， wu2 shi2 gan1 kang1 he2 。

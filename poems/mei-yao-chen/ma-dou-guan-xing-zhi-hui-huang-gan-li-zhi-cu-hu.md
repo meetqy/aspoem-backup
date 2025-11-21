@@ -27,7 +27,7 @@ tags: []
 - ju2 you4 wei4 wei2 jing1 ， pu2 tao0 an1 ke3 ni3 。
 - guo1 sheng1 shi3 neng2 zan4 ， wei4 wen2 he2 miu4 bi3 。
 - er4 guo3 jie1 shi4 zhen1 ， nai3 yi2 ji2 jian4 shi4 。
-- er2 fu4 fu4 chun2  { you3 pen2 }， huo4 qi3 zi4 zhu1 ji3 。
+- er2 fu4 fu4 chun2 { you3 pen2 }， huo4 qi3 zi4 zhu1 ji3 。
 - qi3 wei2 xiang3 yuan3 wei4 ， zhong1 de2 wei2 zhi2 yi3 。
 
 ## 注释

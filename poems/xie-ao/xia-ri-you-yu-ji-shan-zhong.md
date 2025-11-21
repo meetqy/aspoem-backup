@@ -27,7 +27,7 @@ tags: []
 ## 拼音
 
 - ye4 zhou1 lai2 shan1 zhong1 ， chu1 guo1 shui4 wu2 jia4 。
-- du2  { ao3 bao4 }  xin1 zhong4 sheng4 ， chen2 fa1 nai3 ji2 ye4 。
+- du2 { ao3 bao4 } xin1 zhong4 sheng4 ， chen2 fa1 nai3 ji2 ye4 。
 - qi3 wu2 cheng2 zhong1 shan1 ， ai4 ci3 zu2 you1 ye3 。
 - heng2 chen2 yu4 ji3 feng1 ， yin3 hu4 bi4 dian4 wa3 。
 - bing1 zhou1 gu3 nan2 zi3 ， li3 ta3 wu1 ci3 she4 。

@@ -21,7 +21,7 @@ tags: []
 
 ## 拼音
 
-- mi4 yun2 neng2 yu3 zi4 xi1 fang1 ， bu4 jia3 wu1  { ba1  /  ji3 wang2 }  jie3 xi1 yang1 。
+- mi4 yun2 neng2 yu3 zi4 xi1 fang1 ， bu4 jia3 wu1 { ba1 / ji3 wang2 } jie3 xi1 yang1 。
 - di4 chan3 gu4 ying1 zi1 wu4 chan3 ， tian1 liang2 na4 geng4 xie2 xin1 liang2 。
 - wei4 you1 xuan2 fu3 gong4 su1 cuan4 ， he2 shi4 liang2 sha1 zuo4 qiu3 liang2 。
 - lin2 de2 yan2 gong1 qi3 mi3 tie1 ， cong2 jin1 sui4 sui4 zhi1 zhen1 cang2 。

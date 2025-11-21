@@ -24,7 +24,7 @@ tags: []
 - ceng4 deng4 zhu1 pin2 shi4 ， ji1 han2 cheng2 zhi4 ji2 。
 - xian2 ju1 hao3 zuo4 shi1 ， zha2 zha2 yong4 xin1 li4 。
 - jian4 ta1 yan2 shu2 cai3 ， quan4 jun1 xiu1 tan4 xi1 。
-- ti2 an1 hu2  { mai4 bing4 }  shang4 ， qi3 gou3 ye3 bu4 chi1 。
+- ti2 an1 hu2 { mai4 bing4 } shang4 ， qi3 gou3 ye3 bu4 chi1 。
 
 ## 注释
 

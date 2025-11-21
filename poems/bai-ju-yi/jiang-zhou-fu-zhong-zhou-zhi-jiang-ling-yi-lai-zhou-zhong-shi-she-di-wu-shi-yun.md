@@ -115,7 +115,7 @@ tags: []
 - duo1 zhi1 fei1 jing3 fu2 ， shao3 yu3 shi4 yuan2 heng1 。
 - hui4 ji2 quan2 shen1 yao4 ， ming2 wei2 fa2 xing4 bing1 。
 - hun1 hun1 sui2 shi4 su2 ， chun3 chun3 xue2 li2 meng2 。
-- niao3 yi3 neng2 yan2  { gou4 mu4  =  mi4 }， gui1 yuan2 ru4 meng4 peng1 。
+- niao3 yi3 neng2 yan2 { gou4 mu4 = mi4 }， gui1 yuan2 ru4 meng4 peng1 。
 - zhi1 zhi1 yi1 he2 wan3 ， you2 zu2 bao3 yu2 sheng1 。
 
 ## 注释

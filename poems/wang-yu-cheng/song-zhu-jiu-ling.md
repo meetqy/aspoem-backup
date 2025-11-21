@@ -55,7 +55,7 @@ tags: []
 - mei3 sui4 gu3 qian2 dao1 ， cong2 lai2 she4 guan1 ju2 。
 - huan2 de2 bian4 gao1 tang2 ， wu2 ci2 mi2 yi4 zhu2 。
 - yang2 fan1 jiang1 hu2 si1 ， mu4 tuo1 tian1 di4 su4 。
-- feng1 ye4 zi3 lan2 ban1 ， liao3 hua1 hong2  { wang3  /  lu4 }𦌊。
+- feng1 ye4 zi3 lan2 ban1 ， liao3 hua1 hong2 { wang3 / lu4 }𦌊。
 - jin1 li4 xiao3 lai2 ying2 ， xi1 seng1 ye4 liu2 su4 。
 - zhi4 zhi3 shi4 fang1 jian3 ， you1 you2 cong2 suo3 yu4 。
 - jiang1 cheng2 feng1 dao4 liang2 ， shui3 shi4 duo1 yu2 su4 。
