@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-li-jing-chu-xu-jie-jian-cai-hua-shu-zhou-yi-guan-lei-ri-bu-zhi-xi-cheng-er-jue-du-zhi-qi-er
-title: 李景初許借翦綵花數軸一觀累日不至戲成二絕督之  其二
-titlePinyin: li3 jing3 chu1 xu1 jie4 jian3 cai3 hua1 shu4 zhou2 yi4 guan1 lei4 ri4 bu2 zhi4 xi4 cheng2 er4 jue2 du1 zhi1     qi2 er4
+title: 李景初許借翦綵花數軸一觀累日不至戲成二絕督之・其二
+titlePinyin: li3 jing3 chu1 xu1 jie4 jian3 cai3 hua1 shu4 zhou2 yi4 guan1 lei4 ri4 bu2 zhi4 xi4 cheng2 er4 jue2 du1 zhi1・qi2 er4
 titleSlug: li-jing-chu-xu-jie-jian-cai-hua-shu-zhou-yi-guan-lei-ri-bu-zhi-xi-cheng-er-jue-du-zhi-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-song-cheng-gong-pi-lang-zhong-zhi-hong-zhou-er-shou-qi-er
-title: 送程公闢郎中知洪州二首  其二
-titlePinyin: song4 cheng2 gong1 pi4 lang2 zhong1 zhi1 hong2 zhou1 er4 shou3     qi2 er4
+title: 送程公闢郎中知洪州二首・其二
+titlePinyin: song4 cheng2 gong1 pi4 lang2 zhong1 zhi1 hong2 zhou1 er4 shou3・qi2 er4
 titleSlug: song-cheng-gong-pi-lang-zhong-zhi-hong-zhou-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

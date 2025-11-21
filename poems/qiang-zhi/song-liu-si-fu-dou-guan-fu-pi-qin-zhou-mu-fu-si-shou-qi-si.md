@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-song-liu-si-fu-dou-guan-fu-pi-qin-zhou-mu-fu-si-shou-qi-si
-title: 送劉嗣復都官赴辟秦州幕府四首  其四
-titlePinyin: song4 liu2 si4 fu4 dou1 guan1 fu4 pi4 qin2 zhou1 mu4 fu3 si4 shou3     qi2 si4
+title: 送劉嗣復都官赴辟秦州幕府四首・其四
+titlePinyin: song4 liu2 si4 fu4 dou1 guan1 fu4 pi4 qin2 zhou1 mu4 fu3 si4 shou3・qi2 si4
 titleSlug: song-liu-si-fu-dou-guan-fu-pi-qin-zhou-mu-fu-si-shou-qi-si
 author: 强至
 authorPinyin: qiang2 zhi4

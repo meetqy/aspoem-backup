@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ji-ti-shu-gong-shan-lao-huang-yun-ge-er-shou-qi-er
-title: 寄題殊公禪老黄雲閣二首  其二
-titlePinyin: ji4 ti2 shu1 gong1 shan4 lao3 huang2 yun2 ge2 er4 shou3     qi2 er4
+title: 寄題殊公禪老黄雲閣二首・其二
+titlePinyin: ji4 ti2 shu1 gong1 shan4 lao3 huang2 yun2 ge2 er4 shou3・qi2 er4
 titleSlug: ji-ti-shu-gong-shan-lao-huang-yun-ge-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

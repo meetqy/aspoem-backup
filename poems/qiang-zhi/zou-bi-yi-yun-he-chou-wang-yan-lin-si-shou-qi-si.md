@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-zou-bi-yi-yun-he-chou-wang-yan-lin-si-shou-qi-si
-title: 走筆依韵和酬王彥霖四首  其四
-titlePinyin: zou3 bi3 yi1 yun4 he2 chou2 wang2 yan4 lin2 si4 shou3     qi2 si4
+title: 走筆依韵和酬王彥霖四首・其四
+titlePinyin: zou3 bi3 yi1 yun4 he2 chou2 wang2 yan4 lin2 si4 shou3・qi2 si4
 titleSlug: zou-bi-yi-yun-he-chou-wang-yan-lin-si-shou-qi-si
 author: 强至
 authorPinyin: qiang2 zhi4

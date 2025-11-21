@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ren-zong-huang-di-wan-ge-ci-si-shou-qi-yi
-title: 仁宗皇帝挽歌辭四首  其一
-titlePinyin: ren2 zong1 huang2 di4 wan3 ge1 ci2 si4 shou3     qi2 yi1
+title: 仁宗皇帝挽歌辭四首・其一
+titlePinyin: ren2 zong1 huang2 di4 wan3 ge1 ci2 si4 shou3・qi2 yi1
 titleSlug: ren-zong-huang-di-wan-ge-ci-si-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

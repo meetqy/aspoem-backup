@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ting-shan-dao-zhong-zao-xing-you-gan-er-shou-qi-er
-title: 挺山道中早行有感二首  其二
-titlePinyin: ting3 shan1 dao4 zhong1 zao3 xing2 you3 gan3 er4 shou3     qi2 er4
+title: 挺山道中早行有感二首・其二
+titlePinyin: ting3 shan1 dao4 zhong1 zao3 xing2 you3 gan3 er4 shou3・qi2 er4
 titleSlug: ting-shan-dao-zhong-zao-xing-you-gan-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

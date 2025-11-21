@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句・其一
+titlePinyin: ju4・qi2 yi1
 titleSlug: ju-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

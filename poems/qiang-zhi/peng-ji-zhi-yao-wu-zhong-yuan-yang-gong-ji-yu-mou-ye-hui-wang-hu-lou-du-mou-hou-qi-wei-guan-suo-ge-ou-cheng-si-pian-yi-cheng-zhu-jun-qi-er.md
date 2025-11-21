@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-peng-ji-zhi-yao-wu-zhong-yuan-yang-gong-ji-yu-mou-ye-hui-wang-hu-lou-du-mou-hou-qi-wei-guan-suo-ge-ou-cheng-si-pian-yi-cheng-zhu-jun-qi-er
-title: 彭及之邀吳仲源楊公濟與某夜會望湖樓獨某後期爲關所隔偶成四篇以呈諸君  其二
-titlePinyin: peng2 ji2 zhi1 yao1 wu2 zhong4 yuan2 yang2 gong1 ji4 yu3 mou3 ye4 hui4 wang4 hu2 lou2 du2 mou3 hou4 qi1 wei2 guan1 suo3 ge2 ou3 cheng2 si4 pian1 yi3 cheng2 zhu1 jun1     qi2 er4
+title: 彭及之邀吳仲源楊公濟與某夜會望湖樓獨某後期爲關所隔偶成四篇以呈諸君・其二
+titlePinyin: peng2 ji2 zhi1 yao1 wu2 zhong4 yuan2 yang2 gong1 ji4 yu3 mou3 ye4 hui4 wang4 hu2 lou2 du2 mou3 hou4 qi1 wei2 guan1 suo3 ge2 ou3 cheng2 si4 pian1 yi3 cheng2 zhu1 jun1・qi2 er4
 titleSlug: peng-ji-zhi-yao-wu-zhong-yuan-yang-gong-ji-yu-mou-ye-hui-wang-hu-lou-du-mou-hou-qi-wei-guan-suo-ge-ou-cheng-si-pian-yi-cheng-zhu-jun-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

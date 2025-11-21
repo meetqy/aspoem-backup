@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-feng-pei-han-wei-gong-yan-wang-shi-yuan-ting-xi-shang-fu-shi-liu-ti-er-shou-qi-yi
-title: 奉陪韓魏公燕王氏園亭席上賦詩留題二首  其一
-titlePinyin: feng4 pei2 han2 wei4 gong1 yan4 wang2 shi4 yuan2 ting2 xi2 shang4 fu4 shi1 liu2 ti2 er4 shou3     qi2 yi1
+title: 奉陪韓魏公燕王氏園亭席上賦詩留題二首・其一
+titlePinyin: feng4 pei2 han2 wei4 gong1 yan4 wang2 shi4 yuan2 ting2 xi2 shang4 fu4 shi1 liu2 ti2 er4 shou3・qi2 yi1
 titleSlug: feng-pei-han-wei-gong-yan-wang-shi-yuan-ting-xi-shang-fu-shi-liu-ti-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

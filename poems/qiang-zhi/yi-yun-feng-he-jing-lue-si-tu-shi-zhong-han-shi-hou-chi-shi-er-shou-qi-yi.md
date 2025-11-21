@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-feng-he-jing-lue-si-tu-shi-zhong-han-shi-hou-chi-shi-er-shou-qi-yi
-title: 依韵奉和經略司徒侍中寒食後池詩二首  其一
-titlePinyin: yi1 yun4 feng4 he2 jing1 lüe4 si1 tu2 shi4 zhong1 han2 shi2 hou4 chi2 shi1 er4 shou3     qi2 yi1
+title: 依韵奉和經略司徒侍中寒食後池詩二首・其一
+titlePinyin: yi1 yun4 feng4 he2 jing1 lüe4 si1 tu2 shi4 zhong1 han2 shi2 hou4 chi2 shi1 er4 shou3・qi2 yi1
 titleSlug: yi-yun-feng-he-jing-lue-si-tu-shi-zhong-han-shi-hou-chi-shi-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-qiu-ri-yong-lou-gan-huai-er-shou-qi-yi
-title: 秋日咏樓感懷二首  其一
-titlePinyin: qiu1 ri4 yong3 lou2 gan3 huai2 er4 shou3     qi2 yi1
+title: 秋日咏樓感懷二首・其一
+titlePinyin: qiu1 ri4 yong3 lou2 gan3 huai2 er4 shou3・qi2 yi1
 titleSlug: qiu-ri-yong-lou-gan-huai-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

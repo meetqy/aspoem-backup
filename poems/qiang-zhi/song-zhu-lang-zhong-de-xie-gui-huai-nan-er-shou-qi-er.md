@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-song-zhu-lang-zhong-de-xie-gui-huai-nan-er-shou-qi-er
-title: 送朱郎中得謝歸淮南二首  其二
-titlePinyin: song4 zhu1 lang2 zhong1 de2 xie4 gui1 huai2 nan2 er4 shou3     qi2 er4
+title: 送朱郎中得謝歸淮南二首・其二
+titlePinyin: song4 zhu1 lang2 zhong1 de2 xie4 gui1 huai2 nan2 er4 shou3・qi2 er4
 titleSlug: song-zhu-lang-zhong-de-xie-gui-huai-nan-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

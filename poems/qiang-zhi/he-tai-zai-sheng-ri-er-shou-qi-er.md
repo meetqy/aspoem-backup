@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-he-tai-zai-sheng-ri-er-shou-qi-er
-title: 何太宰生日二首  其二
-titlePinyin: he2 tai4 zai3 sheng1 ri4 er4 shou3     qi2 er4
+title: 何太宰生日二首・其二
+titlePinyin: he2 tai4 zai3 sheng1 ri4 er4 shou3・qi2 er4
 titleSlug: he-tai-zai-sheng-ri-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

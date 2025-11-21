@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-jing-zhao-fu-chu-fu-tong-tian-jie-yan-shi-er-shou-qi-er
-title: 京兆府初赴同天節宴詩二首  其二
-titlePinyin: jing1 zhao4 fu3 chu1 fu4 tong2 tian1 jie2 yan4 shi1 er4 shou3     qi2 er4
+title: 京兆府初赴同天節宴詩二首・其二
+titlePinyin: jing1 zhao4 fu3 chu1 fu4 tong2 tian1 jie2 yan4 shi1 er4 shou3・qi2 er4
 titleSlug: jing-zhao-fu-chu-fu-tong-tian-jie-yan-shi-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

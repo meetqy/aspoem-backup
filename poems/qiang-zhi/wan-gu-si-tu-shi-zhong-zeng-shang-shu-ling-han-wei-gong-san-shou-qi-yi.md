@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-wan-gu-si-tu-shi-zhong-zeng-shang-shu-ling-han-wei-gong-san-shou-qi-yi
-title: 挽故司徒侍中贈尚書令韓魏公三首  其一
-titlePinyin: wan3 gu4 si1 tu2 shi4 zhong1 zeng4 shang4 shu1 ling4 han2 wei4 gong1 san1 shou3     qi2 yi1
+title: 挽故司徒侍中贈尚書令韓魏公三首・其一
+titlePinyin: wan3 gu4 si1 tu2 shi4 zhong1 zeng4 shang4 shu1 ling4 han2 wei4 gong1 san1 shou3・qi2 yi1
 titleSlug: wan-gu-si-tu-shi-zhong-zeng-shang-shu-ling-han-wei-gong-san-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

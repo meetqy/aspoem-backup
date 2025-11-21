@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-chou-xian-chen-zhou-wang-mi-xue-jian-ji-er-shou-qi-yi
-title: 依韵酬獻陳州王密學見寄二首  其一
-titlePinyin: yi1 yun4 chou2 xian4 chen2 zhou1 wang2 mi4 xue2 jian4 ji4 er4 shou3     qi2 yi1
+title: 依韵酬獻陳州王密學見寄二首・其一
+titlePinyin: yi1 yun4 chou2 xian4 chen2 zhou1 wang2 mi4 xue2 jian4 ji4 er4 shou3・qi2 yi1
 titleSlug: yi-yun-chou-xian-chen-zhou-wang-mi-xue-jian-ji-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

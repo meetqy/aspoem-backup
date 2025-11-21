@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-li-chun-er-shou-qi-yi
-title: 立春二首  其一
-titlePinyin: li4 chun1 er4 shou3     qi2 yi1
+title: 立春二首・其一
+titlePinyin: li4 chun1 er4 shou3・qi2 yi1
 titleSlug: li-chun-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

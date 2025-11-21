@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-dui-xue-liu-shou-qi-er
-title: 對雪六首  其二
-titlePinyin: dui4 xue3 liu4 shou3     qi2 er4
+title: 對雪六首・其二
+titlePinyin: dui4 xue3 liu4 shou3・qi2 er4
 titleSlug: dui-xue-liu-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

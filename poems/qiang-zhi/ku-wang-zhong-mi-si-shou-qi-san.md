@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ku-wang-zhong-mi-si-shou-qi-san
-title: 哭王仲密四首  其三
-titlePinyin: ku1 wang2 zhong4 mi4 si4 shou3     qi2 san1
+title: 哭王仲密四首・其三
+titlePinyin: ku1 wang2 zhong4 mi4 si4 shou3・qi2 san1
 titleSlug: ku-wang-zhong-mi-si-shou-qi-san
 author: 强至
 authorPinyin: qiang2 zhi4

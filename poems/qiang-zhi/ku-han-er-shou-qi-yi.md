@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ku-han-er-shou-qi-yi
-title: 苦旱二首  其一
-titlePinyin: ku3 han4 er4 shou3     qi2 yi1
+title: 苦旱二首・其一
+titlePinyin: ku3 han4 er4 shou3・qi2 yi1
 titleSlug: ku-han-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

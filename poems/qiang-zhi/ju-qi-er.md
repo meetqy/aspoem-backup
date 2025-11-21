@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句・其二
+titlePinyin: ju4・qi2 er4
 titleSlug: ju-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

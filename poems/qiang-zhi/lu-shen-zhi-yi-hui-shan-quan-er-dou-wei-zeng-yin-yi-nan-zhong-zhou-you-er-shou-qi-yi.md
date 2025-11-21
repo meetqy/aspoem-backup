@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-lu-shen-zhi-yi-hui-shan-quan-er-dou-wei-zeng-yin-yi-nan-zhong-zhou-you-er-shou-qi-yi
-title: 盧申之以惠山泉二斗爲贈因憶南仲周友二首  其一
-titlePinyin: lu2 shen1 zhi1 yi3 hui4 shan1 quan2 er4 dou3 wei2 zeng4 yin1 yi4 nan2 zhong4 zhou1 you3 er4 shou3     qi2 yi1
+title: 盧申之以惠山泉二斗爲贈因憶南仲周友二首・其一
+titlePinyin: lu2 shen1 zhi1 yi3 hui4 shan1 quan2 er4 dou3 wei2 zeng4 yin1 yi4 nan2 zhong4 zhou1 you3 er4 shou3・qi2 yi1
 titleSlug: lu-shen-zhi-yi-hui-shan-quan-er-dou-wei-zeng-yin-yi-nan-zhong-zhou-you-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

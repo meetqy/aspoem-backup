@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-he-zai-hua-er-que-qi-yi
-title: 依韵和栽花二闋  其一
-titlePinyin: yi1 yun4 he2 zai1 hua1 er4 que4     qi2 yi1
+title: 依韵和栽花二闋・其一
+titlePinyin: yi1 yun4 he2 zai1 hua1 er4 que4・qi2 yi1
 titleSlug: yi-yun-he-zai-hua-er-que-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

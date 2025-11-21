@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-feng-he-si-tu-shi-zhong-chong-jiu-hui-an-zheng-tang-er-shou-qi-yi
-title: 依韵奉和司徒侍中重九會安正堂二首  其一
-titlePinyin: yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 chong2 jiu3 hui4 an1 zheng4 tang2 er4 shou3     qi2 yi1
+title: 依韵奉和司徒侍中重九會安正堂二首・其一
+titlePinyin: yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 chong2 jiu3 hui4 an1 zheng4 tang2 er4 shou3・qi2 yi1
 titleSlug: yi-yun-feng-he-si-tu-shi-zhong-chong-jiu-hui-an-zheng-tang-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

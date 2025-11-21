@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-bing-zhong-xue-ye-wen-han-liu-mi-xiao-hui-zhu-jun-er-shou-qi-yi
-title: 病中雪夜聞韓六秘校會諸君二首  其一
-titlePinyin: bing4 zhong1 xue3 ye4 wen2 han2 liu4 mi4 xiao4 hui4 zhu1 jun1 er4 shou3     qi2 yi1
+title: 病中雪夜聞韓六秘校會諸君二首・其一
+titlePinyin: bing4 zhong1 xue3 ye4 wen2 han2 liu4 mi4 xiao4 hui4 zhu1 jun1 er4 shou3・qi2 yi1
 titleSlug: bing-zhong-xue-ye-wen-han-liu-mi-xiao-hui-zhu-jun-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

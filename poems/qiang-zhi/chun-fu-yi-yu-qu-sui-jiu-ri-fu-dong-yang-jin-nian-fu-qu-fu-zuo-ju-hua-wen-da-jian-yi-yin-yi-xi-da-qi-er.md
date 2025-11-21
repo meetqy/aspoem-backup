@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-chun-fu-yi-yu-qu-sui-jiu-ri-fu-dong-yang-jin-nian-fu-qu-fu-zuo-ju-hua-wen-da-jian-yi-yin-yi-xi-da-qi-er
-title: 純甫以予去歲九日赴東陽今年復趨府作菊花問答見遺因以戲答  其二
-titlePinyin: chun2 fu3 yi3 yu3 qu4 sui4 jiu3 ri4 fu4 dong1 yang2 jin1 nian2 fu4 qu1 fu3 zuo4 ju2 hua1 wen4 da2 jian4 yi2 yin1 yi3 xi4 da2     qi2 er4
+title: 純甫以予去歲九日赴東陽今年復趨府作菊花問答見遺因以戲答・其二
+titlePinyin: chun2 fu3 yi3 yu3 qu4 sui4 jiu3 ri4 fu4 dong1 yang2 jin1 nian2 fu4 qu1 fu3 zuo4 ju2 hua1 wen4 da2 jian4 yi2 yin1 yi3 xi4 da2・qi2 er4
 titleSlug: chun-fu-yi-yu-qu-sui-jiu-ri-fu-dong-yang-jin-nian-fu-qu-fu-zuo-ju-hua-wen-da-jian-yi-yin-yi-xi-da-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

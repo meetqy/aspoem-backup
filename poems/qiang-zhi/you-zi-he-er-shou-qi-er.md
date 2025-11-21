@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-you-zi-he-er-shou-qi-er
-title: 又自和二首  其二
-titlePinyin: you4 zi4 he2 er4 shou3     qi2 er4
+title: 又自和二首・其二
+titlePinyin: you4 zi4 he2 er4 shou3・qi2 er4
 titleSlug: you-zi-he-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

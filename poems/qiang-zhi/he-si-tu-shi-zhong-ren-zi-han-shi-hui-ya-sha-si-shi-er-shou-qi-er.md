@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-he-si-tu-shi-zhong-ren-zi-han-shi-hui-ya-sha-si-shi-er-shou-qi-er
-title: 和司徒侍中壬子寒食會壓沙寺詩二首  其二
-titlePinyin: he2 si1 tu2 shi4 zhong1 ren2 zi3 han2 shi2 hui4 ya1 sha1 si4 shi1 er4 shou3     qi2 er4
+title: 和司徒侍中壬子寒食會壓沙寺詩二首・其二
+titlePinyin: he2 si1 tu2 shi4 zhong1 ren2 zi3 han2 shi2 hui4 ya1 sha1 si4 shi1 er4 shou3・qi2 er4
 titleSlug: he-si-tu-shi-zhong-ren-zi-han-shi-hui-ya-sha-si-shi-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

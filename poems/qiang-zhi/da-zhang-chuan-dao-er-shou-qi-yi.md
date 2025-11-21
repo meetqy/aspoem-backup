@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-da-zhang-chuan-dao-er-shou-qi-yi
-title: 答章傳道二首  其一
-titlePinyin: da2 zhang1 chuan2 dao4 er4 shou3     qi2 yi1
+title: 答章傳道二首・其一
+titlePinyin: da2 zhang1 chuan2 dao4 er4 shou3・qi2 yi1
 titleSlug: da-zhang-chuan-dao-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-ji-xi-yi-yun-feng-he-si-tu-shi-zhong-shang-si-hui-xu-gong-ting-er-shou-qi-yi
-title: 即席依韵奉和司徒侍中上巳會許公亭二首  其一
-titlePinyin: ji2 xi2 yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 shang4 si4 hui4 xu1 gong1 ting2 er4 shou3     qi2 yi1
+title: 即席依韵奉和司徒侍中上巳會許公亭二首・其一
+titlePinyin: ji2 xi2 yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 shang4 si4 hui4 xu1 gong1 ting2 er4 shou3・qi2 yi1
 titleSlug: ji-xi-yi-yun-feng-he-si-tu-shi-zhong-shang-si-hui-xu-gong-ting-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

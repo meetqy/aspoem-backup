@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-rong-gui-tang-er-shou-qi-er
-title: 榮歸堂二首  其二
-titlePinyin: rong2 gui1 tang2 er4 shou3     qi2 er4
+title: 榮歸堂二首・其二
+titlePinyin: rong2 gui1 tang2 er4 shou3・qi2 er4
 titleSlug: rong-gui-tang-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

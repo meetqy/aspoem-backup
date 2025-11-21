@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-han-wei-gong-sheng-ri-san-shou-qi-er
-title: 韓魏公生日三首  其二
-titlePinyin: han2 wei4 gong1 sheng1 ri4 san1 shou3     qi2 er4
+title: 韓魏公生日三首・其二
+titlePinyin: han2 wei4 gong1 sheng1 ri4 san1 shou3・qi2 er4
 titleSlug: han-wei-gong-sheng-ri-san-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

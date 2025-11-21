@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-an-zheng-tang-er-shou-qi-yi
-title: 安正堂二首  其一
-titlePinyin: an1 zheng4 tang2 er4 shou3     qi2 yi1
+title: 安正堂二首・其一
+titlePinyin: an1 zheng4 tang2 er4 shou3・qi2 yi1
 titleSlug: an-zheng-tang-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

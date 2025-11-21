@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-jin-yang-jun-jun-wan-ci-qi-er
-title: 晉陽郡君挽詞  其二
-titlePinyin: jin4 yang2 jun4 jun1 wan3 ci2     qi2 er4
+title: 晉陽郡君挽詞・其二
+titlePinyin: jin4 yang2 jun4 jun1 wan3 ci2・qi2 er4
 titleSlug: jin-yang-jun-jun-wan-ci-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

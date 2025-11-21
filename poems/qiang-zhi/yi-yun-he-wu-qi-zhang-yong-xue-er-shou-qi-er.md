@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-he-wu-qi-zhang-yong-xue-er-shou-qi-er
-title: 依韵和吳七丈咏雪二首  其二
-titlePinyin: yi1 yun4 he2 wu2 qi1 zhang4 yong3 xue3 er4 shou3     qi2 er4
+title: 依韵和吳七丈咏雪二首・其二
+titlePinyin: yi1 yun4 he2 wu2 qi1 zhang4 yong3 xue3 er4 shou3・qi2 er4
 titleSlug: yi-yun-he-wu-qi-zhang-yong-xue-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-feng-he-liu-shou-shang-shu-hui-liu-tong-nian-gan-jiu-shi-er-shou-qi-er
-title: 依韵奉和留守尚書會六同年感舊詩二首  其二
-titlePinyin: yi1 yun4 feng4 he2 liu2 shou3 shang4 shu1 hui4 liu4 tong2 nian2 gan3 jiu4 shi1 er4 shou3     qi2 er4
+title: 依韵奉和留守尚書會六同年感舊詩二首・其二
+titlePinyin: yi1 yun4 feng4 he2 liu2 shou3 shang4 shu1 hui4 liu4 tong2 nian2 gan3 jiu4 shi1 er4 shou3・qi2 er4
 titleSlug: yi-yun-feng-he-liu-shou-shang-shu-hui-liu-tong-nian-gan-jiu-shi-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

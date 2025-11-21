@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-feng-he-si-tu-shi-zhong-ren-zi-san-yue-shi-ba-ri-you-yu-he-er-shou-qi-yi
-title: 依韵奉和司徒侍中壬子三月十八日遊御河二首  其一
-titlePinyin: yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 ren2 zi3 san1 yue4 shi2 ba1 ri4 you2 yu4 he2 er4 shou3     qi2 yi1
+title: 依韵奉和司徒侍中壬子三月十八日遊御河二首・其一
+titlePinyin: yi1 yun4 feng4 he2 si1 tu2 shi4 zhong1 ren2 zi3 san1 yue4 shi2 ba1 ri4 you2 yu4 he2 er4 shou3・qi2 yi1
 titleSlug: yi-yun-feng-he-si-tu-shi-zhong-ren-zi-san-yue-shi-ba-ri-you-yu-he-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

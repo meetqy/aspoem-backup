@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-zai-he-qi-er
-title: 再和  其二
-titlePinyin: zai4 he2     qi2 er4
+title: 再和・其二
+titlePinyin: zai4 he2・qi2 er4
 titleSlug: zai-he-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-liu-shou-an-fu-si-tu-shi-zhong-sheng-chen-san-shou-qi-san
-title: 留守安撫司徒侍中生辰三首  其三
-titlePinyin: liu2 shou3 an1 fu3 si1 tu2 shi4 zhong1 sheng1 chen2 san1 shou3     qi2 san1
+title: 留守安撫司徒侍中生辰三首・其三
+titlePinyin: liu2 shou3 an1 fu3 si1 tu2 shi4 zhong1 sheng1 chen2 san1 shou3・qi2 san1
 titleSlug: liu-shou-an-fu-si-tu-shi-zhong-sheng-chen-san-shou-qi-san
 author: 强至
 authorPinyin: qiang2 zhi4

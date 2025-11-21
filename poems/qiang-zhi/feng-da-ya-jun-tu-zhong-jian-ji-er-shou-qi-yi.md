@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-feng-da-ya-jun-tu-zhong-jian-ji-er-shou-qi-yi
-title: 奉答雅均途中見寄二首  其一
-titlePinyin: feng4 da2 ya3 jun1 tu2 zhong1 jian4 ji4 er4 shou3     qi2 yi1
+title: 奉答雅均途中見寄二首・其一
+titlePinyin: feng4 da2 ya3 jun1 tu2 zhong1 jian4 ji4 er4 shou3・qi2 yi1
 titleSlug: feng-da-ya-jun-tu-zhong-jian-ji-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

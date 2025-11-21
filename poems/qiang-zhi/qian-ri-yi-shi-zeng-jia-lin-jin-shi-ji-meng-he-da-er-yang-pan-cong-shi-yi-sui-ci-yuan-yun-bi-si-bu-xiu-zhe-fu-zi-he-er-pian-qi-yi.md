@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-qian-ri-yi-shi-zeng-jia-lin-jin-shi-ji-meng-he-da-er-yang-pan-cong-shi-yi-sui-ci-yuan-yun-bi-si-bu-xiu-zhe-fu-zi-he-er-pian-qi-yi
-title: 前日以詩贈賈麟進士繼蒙和答而楊蟠從事亦隨次元韵鄙思不休輒復自和二篇  其一
-titlePinyin: qian2 ri4 yi3 shi1 zeng4 jia3 lin2 jin4 shi4 ji4 meng2 he2 da2 er2 yang2 pan2 cong2 shi4 yi4 sui2 ci4 yuan2 yun4 bi3 si1 bu4 xiu1 zhe2 fu4 zi4 he2 er4 pian1     qi2 yi1
+title: 前日以詩贈賈麟進士繼蒙和答而楊蟠從事亦隨次元韵鄙思不休輒復自和二篇・其一
+titlePinyin: qian2 ri4 yi3 shi1 zeng4 jia3 lin2 jin4 shi4 ji4 meng2 he2 da2 er2 yang2 pan2 cong2 shi4 yi4 sui2 ci4 yuan2 yun4 bi3 si1 bu4 xiu1 zhe2 fu4 zi4 he2 er4 pian1・qi2 yi1
 titleSlug: qian-ri-yi-shi-zeng-jia-lin-jin-shi-ji-meng-he-da-er-yang-pan-cong-shi-yi-sui-ci-yuan-yun-bi-si-bu-xiu-zhe-fu-zi-he-er-pian-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-sui-yang-chun-ri-ou-shu-er-shou-qi-er
-title: 睢陽春日偶書二首  其二
-titlePinyin: sui1 yang2 chun1 ri4 ou3 shu1 er4 shou3     qi2 er4
+title: 睢陽春日偶書二首・其二
+titlePinyin: sui1 yang2 chun1 ri4 ou3 shu1 er4 shou3・qi2 er4
 titleSlug: sui-yang-chun-ri-ou-shu-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

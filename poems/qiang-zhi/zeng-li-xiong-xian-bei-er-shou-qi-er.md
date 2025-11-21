@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-zeng-li-xiong-xian-bei-er-shou-qi-er
-title: 贈李熊先輩二首  其二
-titlePinyin: zeng4 li3 xiong2 xian1 bei4 er4 shou3     qi2 er4
+title: 贈李熊先輩二首・其二
+titlePinyin: zeng4 li3 xiong2 xian1 bei4 er4 shou3・qi2 er4
 titleSlug: zeng-li-xiong-xian-bei-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

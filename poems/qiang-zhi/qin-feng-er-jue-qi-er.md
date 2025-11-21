@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-qin-feng-er-jue-qi-er
-title: 禽鳳二絕  其二
-titlePinyin: qin2 feng4 er4 jue2     qi2 er4
+title: 禽鳳二絕・其二
+titlePinyin: qin2 feng4 er4 jue2・qi2 er4
 titleSlug: qin-feng-er-jue-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

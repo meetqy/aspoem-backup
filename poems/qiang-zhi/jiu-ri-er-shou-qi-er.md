@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-jiu-ri-er-shou-qi-er
-title: 九日二首  其二
-titlePinyin: jiu3 ri4 er4 shou3     qi2 er4
+title: 九日二首・其二
+titlePinyin: jiu3 ri4 er4 shou3・qi2 er4
 titleSlug: jiu-ri-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4

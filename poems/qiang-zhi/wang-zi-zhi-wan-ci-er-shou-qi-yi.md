@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-wang-zi-zhi-wan-ci-er-shou-qi-yi
-title: 王子直挽詞二首  其一
-titlePinyin: wang2 zi3 zhi2 wan3 ci2 er4 shou3     qi2 yi1
+title: 王子直挽詞二首・其一
+titlePinyin: wang2 zi3 zhi2 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: wang-zi-zhi-wan-ci-er-shou-qi-yi
 author: 强至
 authorPinyin: qiang2 zhi4

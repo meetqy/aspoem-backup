@@ -1,7 +1,7 @@
 ---
 id: qiang-zhi-yi-yun-he-zheng-lao-zi-tan-zhi-shen-er-shou-qi-er
-title: 依韵和正老自嘆之什二首  其二
-titlePinyin: yi1 yun4 he2 zheng4 lao3 zi4 tan4 zhi1 shen2 er4 shou3     qi2 er4
+title: 依韵和正老自嘆之什二首・其二
+titlePinyin: yi1 yun4 he2 zheng4 lao3 zi4 tan4 zhi1 shen2 er4 shou3・qi2 er4
 titleSlug: yi-yun-he-zheng-lao-zi-tan-zhi-shen-er-shou-qi-er
 author: 强至
 authorPinyin: qiang2 zhi4
