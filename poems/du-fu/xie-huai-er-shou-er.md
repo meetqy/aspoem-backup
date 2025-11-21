@@ -1,7 +1,7 @@
 ---
 id: du-fu-xie-huai-er-shou-er
-title: 寫懷二首 二
-titlePinyin: xie3 huai2 er4 shou3   er4
+title: 寫懷二首・二
+titlePinyin: xie3 huai2 er4 shou3・er4
 titleSlug: xie-huai-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

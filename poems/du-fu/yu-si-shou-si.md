@@ -1,7 +1,7 @@
 ---
 id: du-fu-yu-si-shou-si
-title: 雨四首 四
-titlePinyin: yu3 si4 shou3   si4
+title: 雨四首・四
+titlePinyin: yu3 si4 shou3・si4
 titleSlug: yu-si-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

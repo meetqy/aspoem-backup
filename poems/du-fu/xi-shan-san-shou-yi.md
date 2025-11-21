@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-shan-san-shou-yi
-title: 西山三首 一
-titlePinyin: xi1 shan1 san1 shou3   yi1
+title: 西山三首・一
+titlePinyin: xi1 shan1 san1 shou3・yi1
 titleSlug: xi-shan-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-za-ge-yao-ci-da-mai-xing
-title: 雜歌謠辭 大麥行
-titlePinyin: za2 ge1 yao2 ci2   da4 mai4 xing2
+title: 雜歌謠辭・大麥行
+titlePinyin: za2 ge1 yao2 ci2・da4 mai4 xing2
 titleSlug: za-ge-yao-ci-da-mai-xing
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-song-she-di-bin-fu-qi-zhou-san-shou-er
-title: 送舍弟頻赴齊州三首 二
-titlePinyin: song4 she4 di4 bin1 fu4 qi2 zhou1 san1 shou3   er4
+title: 送舍弟頻赴齊州三首・二
+titlePinyin: song4 she4 di4 bin1 fu4 qi2 zhou1 san1 shou3・er4
 titleSlug: song-she-di-bin-fu-qi-zhou-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

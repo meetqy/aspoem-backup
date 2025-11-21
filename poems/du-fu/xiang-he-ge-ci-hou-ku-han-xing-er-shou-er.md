@@ -1,7 +1,7 @@
 ---
 id: du-fu-xiang-he-ge-ci-hou-ku-han-xing-er-shou-er
-title: 相和歌辭 後苦寒行二首 二
-titlePinyin: xiang1 he2 ge1 ci2   hou4 ku3 han2 xing2 er4 shou3   er4
+title: 相和歌辭・後苦寒行二首・二
+titlePinyin: xiang1 he2 ge1 ci2・hou4 ku3 han2 xing2 er4 shou3・er4
 titleSlug: xiang-he-ge-ci-hou-ku-han-xing-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

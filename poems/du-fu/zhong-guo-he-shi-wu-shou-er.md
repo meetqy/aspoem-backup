@@ -1,7 +1,7 @@
 ---
 id: du-fu-zhong-guo-he-shi-wu-shou-er
-title: 重過何氏五首 二
-titlePinyin: zhong4 guo4 he2 shi4 wu3 shou3   er4
+title: 重過何氏五首・二
+titlePinyin: zhong4 guo4 he2 shi4 wu3 shou3・er4
 titleSlug: zhong-guo-he-shi-wu-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

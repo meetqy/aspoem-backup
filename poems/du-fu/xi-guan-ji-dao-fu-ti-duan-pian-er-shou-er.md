@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-guan-ji-dao-fu-ti-duan-pian-er-shou-er
-title: 喜觀即到復題短篇二首 二
-titlePinyin: xi3 guan1 ji2 dao4 fu4 ti2 duan3 pian1 er4 shou3   er4
+title: 喜觀即到復題短篇二首・二
+titlePinyin: xi3 guan1 ji2 dao4 fu4 ti2 duan3 pian1 er4 shou3・er4
 titleSlug: xi-guan-ji-dao-fu-ti-duan-pian-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

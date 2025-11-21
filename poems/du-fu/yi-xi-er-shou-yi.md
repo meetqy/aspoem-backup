@@ -1,7 +1,7 @@
 ---
 id: du-fu-yi-xi-er-shou-yi
-title: 憶昔二首 一
-titlePinyin: yi4 xi1 er4 shou3   yi1
+title: 憶昔二首・一
+titlePinyin: yi4 xi1 er4 shou3・yi1
 titleSlug: yi-xi-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

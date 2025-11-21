@@ -1,7 +1,7 @@
 ---
 id: du-fu-qu-jiang-er-shou-yi
-title: 曲江二首 一
-titlePinyin: qu3 jiang1 er4 shou3   yi1
+title: 曲江二首・一
+titlePinyin: qu3 jiang1 er4 shou3・yi1
 titleSlug: qu-jiang-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

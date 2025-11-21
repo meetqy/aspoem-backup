@@ -1,7 +1,7 @@
 ---
 id: du-fu-yong-huai-gu-ji-wu-shou-si
-title: 詠懷古跡五首 四
-titlePinyin: yong3 huai2 gu3 ji4 wu3 shou3   si4
+title: 詠懷古跡五首・四
+titlePinyin: yong3 huai2 gu3 ji4 wu3 shou3・si4
 titleSlug: yong-huai-gu-ji-wu-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiu-ri-ji-ti-zheng-jian-hu-shang-ting-san-shou-er
-title: 秋日寄題鄭監湖上亭三首 二
-titlePinyin: qiu1 ri4 ji4 ti2 zheng4 jian1 hu2 shang4 ting2 san1 shou3   er4
+title: 秋日寄題鄭監湖上亭三首・二
+titlePinyin: qiu1 ri4 ji4 ti2 zheng4 jian1 hu2 shang4 ting2 san1 shou3・er4
 titleSlug: qiu-ri-ji-ti-zheng-jian-hu-shang-ting-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

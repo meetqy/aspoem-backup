@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiang-cun-yi
-title: 羌村 一
-titlePinyin: qiang1 cun1   yi1
+title: 羌村・一
+titlePinyin: qiang1 cun1・yi1
 titleSlug: qiang-cun-yi
 author: 杜甫
 authorPinyin: du4 fu3

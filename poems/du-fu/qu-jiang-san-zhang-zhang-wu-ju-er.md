@@ -1,7 +1,7 @@
 ---
 id: du-fu-qu-jiang-san-zhang-zhang-wu-ju-er
-title: 曲江三章章五句 二
-titlePinyin: qu3 jiang1 san1 zhang1 zhang1 wu3 ju4   er4
+title: 曲江三章章五句・二
+titlePinyin: qu3 jiang1 san1 zhang1 zhang1 wu3 ju4・er4
 titleSlug: qu-jiang-san-zhang-zhang-wu-ju-er
 author: 杜甫
 authorPinyin: du4 fu3

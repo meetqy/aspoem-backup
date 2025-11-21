@@ -1,7 +1,7 @@
 ---
 id: du-fu-san-jue-ju-yi
-title: 三絕句 一
-titlePinyin: san1 jue2 ju4   yi1
+title: 三絕句・一
+titlePinyin: san1 jue2 ju4・yi1
 titleSlug: san-jue-ju-yi
 author: 杜甫
 authorPinyin: du4 fu3

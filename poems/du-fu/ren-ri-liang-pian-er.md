@@ -1,7 +1,7 @@
 ---
 id: du-fu-ren-ri-liang-pian-er
-title: 人日兩篇 二
-titlePinyin: ren2 ri4 liang3 pian1   er4
+title: 人日兩篇・二
+titlePinyin: ren2 ri4 liang3 pian1・er4
 titleSlug: ren-ri-liang-pian-er
 author: 杜甫
 authorPinyin: du4 fu3

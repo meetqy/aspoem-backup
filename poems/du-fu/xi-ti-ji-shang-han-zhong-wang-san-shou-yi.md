@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-ti-ji-shang-han-zhong-wang-san-shou-yi
-title: 戲題寄上漢中王三首 一
-titlePinyin: xi4 ti2 ji4 shang4 han4 zhong1 wang2 san1 shou3   yi1
+title: 戲題寄上漢中王三首・一
+titlePinyin: xi4 ti2 ji4 shang4 han4 zhong1 wang2 san1 shou3・yi1
 titleSlug: xi-ti-ji-shang-han-zhong-wang-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

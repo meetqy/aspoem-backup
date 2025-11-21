@@ -1,7 +1,7 @@
 ---
 id: du-fu-she-di-guan-gui-lan-tian-ying-xin-fu-song-shi-liang-pian-er
-title: 舍弟觀歸藍田迎新婦送示兩篇 二
-titlePinyin: she4 di4 guan1 gui1 lan2 tian2 ying2 xin1 fu4 song4 shi4 liang3 pian1   er4
+title: 舍弟觀歸藍田迎新婦送示兩篇・二
+titlePinyin: she4 di4 guan1 gui1 lan2 tian2 ying2 xin1 fu4 song4 shi4 liang3 pian1・er4
 titleSlug: she-di-guan-gui-lan-tian-ying-xin-fu-song-shi-liang-pian-er
 author: 杜甫
 authorPinyin: du4 fu3

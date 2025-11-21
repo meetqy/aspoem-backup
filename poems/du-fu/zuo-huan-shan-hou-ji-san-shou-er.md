@@ -1,7 +1,7 @@
 ---
 id: du-fu-zuo-huan-shan-hou-ji-san-shou-er
-title: 佐還山後寄三首 二
-titlePinyin: zuo3 huan2 shan1 hou4 ji4 san1 shou3   er4
+title: 佐還山後寄三首・二
+titlePinyin: zuo3 huan2 shan1 hou4 ji4 san1 shou3・er4
 titleSlug: zuo-huan-shan-hou-ji-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

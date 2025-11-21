@@ -1,7 +1,7 @@
 ---
 id: du-fu-xia-kou-er-shou-er
-title: 峽口二首 二
-titlePinyin: xia2 kou3 er4 shou3   er4
+title: 峽口二首・二
+titlePinyin: xia2 kou3 er4 shou3・er4
 titleSlug: xia-kou-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

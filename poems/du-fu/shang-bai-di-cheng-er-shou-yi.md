@@ -1,7 +1,7 @@
 ---
 id: du-fu-shang-bai-di-cheng-er-shou-yi
-title: 上白帝城二首 一
-titlePinyin: shang4 bai2 di4 cheng2 er4 shou3   yi1
+title: 上白帝城二首・一
+titlePinyin: shang4 bai2 di4 cheng2 er4 shou3・yi1
 titleSlug: shang-bai-di-cheng-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-zhu-jiang-wu-shou-si
-title: 諸將五首 四
-titlePinyin: zhu1 jiang1 wu3 shou3   si4
+title: 諸將五首・四
+titlePinyin: zhu1 jiang1 wu3 shou3・si4
 titleSlug: zhu-jiang-wu-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

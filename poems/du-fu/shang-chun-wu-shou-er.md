@@ -1,7 +1,7 @@
 ---
 id: du-fu-shang-chun-wu-shou-er
-title: 傷春五首 二
-titlePinyin: shang1 chun1 wu3 shou3   er4
+title: 傷春五首・二
+titlePinyin: shang1 chun1 wu3 shou3・er4
 titleSlug: shang-chun-wu-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

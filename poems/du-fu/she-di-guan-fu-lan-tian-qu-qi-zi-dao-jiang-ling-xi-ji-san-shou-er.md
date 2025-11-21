@@ -1,7 +1,7 @@
 ---
 id: du-fu-she-di-guan-fu-lan-tian-qu-qi-zi-dao-jiang-ling-xi-ji-san-shou-er
-title: 舍弟觀赴藍田取妻子到江陵喜寄三首 二
-titlePinyin: she4 di4 guan1 fu4 lan2 tian2 qu3 qi1 zi0 dao4 jiang1 ling2 xi3 ji4 san1 shou3   er4
+title: 舍弟觀赴藍田取妻子到江陵喜寄三首・二
+titlePinyin: she4 di4 guan1 fu4 lan2 tian2 qu3 qi1 zi0 dao4 jiang1 ling2 xi3 ji4 san1 shou3・er4
 titleSlug: she-di-guan-fu-lan-tian-qu-qi-zi-dao-jiang-ling-xi-ji-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-yuan-zhong-yu-ju-tong-gu-xian-zuo-ge-qi-shou-si
-title: 乾元中寓居同谷縣作歌七首 四
-titlePinyin: qian2 yuan2 zhong1 yu4 ju1 tong2 gu3 xian4 zuo4 ge1 qi1 shou3   si4
+title: 乾元中寓居同谷縣作歌七首・四
+titlePinyin: qian2 yuan2 zhong1 yu4 ju1 tong2 gu3 xian4 zuo4 ge1 qi1 shou3・si4
 titleSlug: qian-yuan-zhong-yu-ju-tong-gu-xian-zuo-ge-qi-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiu-xing-ba-shou-ba
-title: 秋興八首 八
-titlePinyin: qiu1 xing1 ba1 shou3   ba1
+title: 秋興八首・八
+titlePinyin: qiu1 xing1 ba1 shou3・ba1
 titleSlug: qiu-xing-ba-shou-ba
 author: 杜甫
 authorPinyin: du4 fu3

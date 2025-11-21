@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiu-feng-er-shou-er
-title: 秋風二首 二
-titlePinyin: qiu1 feng1 er4 shou3   er4
+title: 秋風二首・二
+titlePinyin: qiu1 feng1 er4 shou3・er4
 titleSlug: qiu-feng-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

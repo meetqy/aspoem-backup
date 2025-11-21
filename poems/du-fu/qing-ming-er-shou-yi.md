@@ -1,7 +1,7 @@
 ---
 id: du-fu-qing-ming-er-shou-yi
-title: 清明二首 一
-titlePinyin: qing1 ming2 er4 shou3   yi1
+title: 清明二首・一
+titlePinyin: qing1 ming2 er4 shou3・yi1
 titleSlug: qing-ming-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

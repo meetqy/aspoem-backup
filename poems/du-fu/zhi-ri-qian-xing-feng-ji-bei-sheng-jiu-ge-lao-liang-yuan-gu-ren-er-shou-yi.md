@@ -1,7 +1,7 @@
 ---
 id: du-fu-zhi-ri-qian-xing-feng-ji-bei-sheng-jiu-ge-lao-liang-yuan-gu-ren-er-shou-yi
-title: 至日遣興奉寄北省舊閣老兩院故人二首 一
-titlePinyin: zhi4 ri4 qian3 xing1 feng4 ji4 bei3 sheng3 jiu4 ge2 lao3 liang3 yuan4 gu4 ren2 er4 shou3   yi1
+title: 至日遣興奉寄北省舊閣老兩院故人二首・一
+titlePinyin: zhi4 ri4 qian3 xing1 feng4 ji4 bei3 sheng3 jiu4 ge2 lao3 liang3 yuan4 gu4 ren2 er4 shou3・yi1
 titleSlug: zhi-ri-qian-xing-feng-ji-bei-sheng-jiu-ge-lao-liang-yuan-gu-ren-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

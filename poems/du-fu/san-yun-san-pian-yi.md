@@ -1,7 +1,7 @@
 ---
 id: du-fu-san-yun-san-pian-yi
-title: 三韻三篇 一
-titlePinyin: san1 yun4 san1 pian1   yi1
+title: 三韻三篇・一
+titlePinyin: san1 yun4 san1 pian1・yi1
 titleSlug: san-yun-san-pian-yi
 author: 杜甫
 authorPinyin: du4 fu3

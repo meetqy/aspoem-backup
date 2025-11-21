@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-ge-er-shou-er
-title: 西閣二首 二
-titlePinyin: xi1 ge2 er4 shou3   er4
+title: 西閣二首・二
+titlePinyin: xi1 ge2 er4 shou3・er4
 titleSlug: xi-ge-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

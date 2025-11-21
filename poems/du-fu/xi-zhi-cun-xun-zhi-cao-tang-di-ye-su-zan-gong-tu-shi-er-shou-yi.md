@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-zhi-cun-xun-zhi-cao-tang-di-ye-su-zan-gong-tu-shi-er-shou-yi
-title: 西枝邨尋置草堂地夜宿贊公土室二首 一
-titlePinyin: xi1 zhi1 cun1 xun2 zhi4 cao3 tang2 di4 ye4 su4 zan4 gong1 tu3 shi4 er4 shou3   yi1
+title: 西枝邨尋置草堂地夜宿贊公土室二首・一
+titlePinyin: xi1 zhi1 cun1 xun2 zhi4 cao3 tang2 di4 ye4 su4 zan4 gong1 tu3 shi4 er4 shou3・yi1
 titleSlug: xi-zhi-cun-xun-zhi-cao-tang-di-ye-su-zan-gong-tu-shi-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

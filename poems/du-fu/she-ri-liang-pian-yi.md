@@ -1,7 +1,7 @@
 ---
 id: du-fu-she-ri-liang-pian-yi
-title: 社日兩篇 一
-titlePinyin: she4 ri4 liang3 pian1   yi1
+title: 社日兩篇・一
+titlePinyin: she4 ri4 liang3 pian1・yi1
 titleSlug: she-ri-liang-pian-yi
 author: 杜甫
 authorPinyin: du4 fu3

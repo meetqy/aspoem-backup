@@ -1,7 +1,7 @@
 ---
 id: du-fu-yong-huai-er-shou-yi
-title: 詠懷二首 一
-titlePinyin: yong3 huai2 er4 shou3   yi1
+title: 詠懷二首・一
+titlePinyin: yong3 huai2 er4 shou3・yi1
 titleSlug: yong-huai-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3
@@ -44,7 +44,7 @@ tags: []
 - ben3 chao2 zai4 shu4 li4 ， wei4 ji2 zhen1 guan1 shi2 。
 - ri4 gei3 zai4 jun1 chu3 ， shang4 guan1 du1 you3 si1 。
 - gao1 xian2 po4 xing2 shi4 ， qi3 xia2 xiang1 fu2 chi2 。
-- pi2  { ao3 er3 }  gou3 huai2 ce4 ， qi1 xie4 wu2 suo3 shi1 。
+- pi2 { ao3 er3 } gou3 huai2 ce4 ， qi1 xie4 wu2 suo3 shi1 。
 - xian1 wang2 shi2 zui4 ji3 ， chou2 tong4 zheng4 wei2 zi1 。
 - sui4 yue4 bu4 wo3 yu3 ， cuo1 tuo2 bing4 wu1 si1 。
 - ye4 kan4 feng1 cheng2 qi4 ， hui2 shou3 jiao1 long2 chi2 。

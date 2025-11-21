@@ -1,7 +1,7 @@
 ---
 id: du-fu-shu-gu-san-shou-yi
-title: 述古三首 一
-titlePinyin: shu4 gu3 san1 shou3   yi1
+title: 述古三首・一
+titlePinyin: shu4 gu3 san1 shou3・yi1
 titleSlug: shu-gu-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

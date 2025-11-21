@@ -1,7 +1,7 @@
 ---
 id: du-fu-shui-jian-qian-xin-er-shou-er
-title: 水檻遣心二首 二
-titlePinyin: shui3 jian4 qian3 xin1 er4 shou3   er4
+title: 水檻遣心二首・二
+titlePinyin: shui3 jian4 qian3 xin1 er4 shou3・er4
 titleSlug: shui-jian-qian-xin-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

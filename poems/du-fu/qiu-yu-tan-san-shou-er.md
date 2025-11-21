@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiu-yu-tan-san-shou-er
-title: 秋雨歎三首 二
-titlePinyin: qiu1 yu3 tan4 san1 shou3   er4
+title: 秋雨歎三首・二
+titlePinyin: qiu1 yu3 tan4 san1 shou3・er4
 titleSlug: qiu-yu-tan-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-za-qu-ge-ci-li-ren-hang
-title: 雜曲歌辭 麗人行
-titlePinyin: za2 qu3 ge1 ci2   li2 ren2 hang2
+title: 雜曲歌辭・麗人行
+titlePinyin: za2 qu3 ge1 ci2・li2 ren2 hang2
 titleSlug: za-qu-ge-ci-li-ren-hang
 author: 杜甫
 authorPinyin: du4 fu3

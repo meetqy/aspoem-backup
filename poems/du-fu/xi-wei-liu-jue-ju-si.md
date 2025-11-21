@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-wei-liu-jue-ju-si
-title: 戲爲六絕句 四
-titlePinyin: xi4 wei2 liu4 jue2 ju4   si4
+title: 戲爲六絕句・四
+titlePinyin: xi4 wei2 liu4 jue2 ju4・si4
 titleSlug: xi-wei-liu-jue-ju-si
 author: 杜甫
 authorPinyin: du4 fu3

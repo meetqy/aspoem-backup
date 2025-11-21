@@ -1,7 +1,7 @@
 ---
 id: du-fu-shou-jing-san-shou-er
-title: 收京三首 二
-titlePinyin: shou1 jing1 san1 shou3   er4
+title: 收京三首・二
+titlePinyin: shou1 jing1 san1 shou3・er4
 titleSlug: shou-jing-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

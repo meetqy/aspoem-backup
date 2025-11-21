@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-wen-dao-zei-fan-kou-zong-tui-kou-hao-wu-shou-san
-title: 喜聞盜賊蕃寇總退口號五首 三
-titlePinyin: xi3 wen2 dao4 zei2 fan1 kou4 zong3 tui4 kou3 hao4 wu3 shou3   san1
+title: 喜聞盜賊蕃寇總退口號五首・三
+titlePinyin: xi3 wen2 dao4 zei2 fan1 kou4 zong3 tui4 kou3 hao4 wu3 shou3・san1
 titleSlug: xi-wen-dao-zei-fan-kou-zong-tui-kou-hao-wu-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

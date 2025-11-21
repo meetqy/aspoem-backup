@@ -1,7 +1,7 @@
 ---
 id: du-fu-shi-er-yue-yi-ri-san-shou-san
-title: 十二月一日三首 三
-titlePinyin: shi2 er4 yue4 yi2 ri4 san1 shou3   san1
+title: 十二月一日三首・三
+titlePinyin: shi2 er4 yue4 yi2 ri4 san1 shou3・san1
 titleSlug: shi-er-yue-yi-ri-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

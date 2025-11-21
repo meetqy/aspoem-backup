@@ -1,7 +1,7 @@
 ---
 id: du-fu-yu-er-shou-er
-title: 雨二首 二
-titlePinyin: yu3 er4 shou3   er4
+title: 雨二首・二
+titlePinyin: yu3 er4 shou3・er4
 titleSlug: yu-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

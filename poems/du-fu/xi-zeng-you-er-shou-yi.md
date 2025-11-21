@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-zeng-you-er-shou-yi
-title: 戲贈友二首 一
-titlePinyin: xi4 zeng4 you3 er4 shou3   yi1
+title: 戲贈友二首・一
+titlePinyin: xi4 zeng4 you3 er4 shou3・yi1
 titleSlug: xi-zeng-you-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

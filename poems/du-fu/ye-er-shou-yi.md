@@ -1,7 +1,7 @@
 ---
 id: du-fu-ye-er-shou-yi
-title: 夜二首 一
-titlePinyin: ye4 er4 shou3   yi1
+title: 夜二首・一
+titlePinyin: ye4 er4 shou3・yi1
 titleSlug: ye-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

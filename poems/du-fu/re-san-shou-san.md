@@ -1,7 +1,7 @@
 ---
 id: du-fu-re-san-shou-san
-title: 熱三首 三
-titlePinyin: re4 san1 shou3   san1
+title: 熱三首・三
+titlePinyin: re4 san1 shou3・san1
 titleSlug: re-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

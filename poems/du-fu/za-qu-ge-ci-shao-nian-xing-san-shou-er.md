@@ -1,7 +1,7 @@
 ---
 id: du-fu-za-qu-ge-ci-shao-nian-xing-san-shou-er
-title: 雜曲歌辭 少年行三首 二
-titlePinyin: za2 qu3 ge1 ci2   shao4 nian2 xing2 san1 shou3   er4
+title: 雜曲歌辭・少年行三首・二
+titlePinyin: za2 qu3 ge1 ci2・shao4 nian2 xing2 san1 shou3・er4
 titleSlug: za-qu-ge-ci-shao-nian-xing-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

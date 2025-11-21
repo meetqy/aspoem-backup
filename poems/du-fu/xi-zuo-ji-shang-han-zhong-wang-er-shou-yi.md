@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-zuo-ji-shang-han-zhong-wang-er-shou-yi
-title: 戲作寄上漢中王二首 一
-titlePinyin: xi4 zuo4 ji4 shang4 han4 zhong1 wang2 er4 shou3   yi1
+title: 戲作寄上漢中王二首・一
+titlePinyin: xi4 zuo4 ji4 shang4 han4 zhong1 wang2 er4 shou3・yi1
 titleSlug: xi-zuo-ji-shang-han-zhong-wang-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

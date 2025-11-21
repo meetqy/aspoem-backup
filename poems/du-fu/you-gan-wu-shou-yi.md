@@ -1,7 +1,7 @@
 ---
 id: du-fu-you-gan-wu-shou-yi
-title: 有感五首 一
-titlePinyin: you3 gan3 wu3 shou3   yi1
+title: 有感五首・一
+titlePinyin: you3 gan3 wu3 shou3・yi1
 titleSlug: you-gan-wu-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

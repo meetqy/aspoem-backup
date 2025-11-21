@@ -1,7 +1,7 @@
 ---
 id: du-fu-zhong-cheng-yan-gong-yu-zhong-chui-ji-jian-yi-yi-jue-feng-da-er-jue-er
-title: 中丞嚴公雨中垂寄見憶一絕奉荅二絕 二
-titlePinyin: zhong1 cheng2 yan2 gong1 yu3 zhong1 chui2 ji4 jian4 yi4 yi4 jue2 feng4 da2 er4 jue2   er4
+title: 中丞嚴公雨中垂寄見憶一絕奉荅二絕・二
+titlePinyin: zhong1 cheng2 yan2 gong1 yu3 zhong1 chui2 ji4 jian4 yi4 yi4 jue2 feng4 da2 er4 jue2・er4
 titleSlug: zhong-cheng-yan-gong-yu-zhong-chui-ji-jian-yi-yi-jue-feng-da-er-jue-er
 author: 杜甫
 authorPinyin: du4 fu3

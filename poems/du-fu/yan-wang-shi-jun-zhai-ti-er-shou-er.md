@@ -1,7 +1,7 @@
 ---
 id: du-fu-yan-wang-shi-jun-zhai-ti-er-shou-er
-title: 宴王使君宅題二首 二
-titlePinyin: yan4 wang2 shi3 jun1 zhai2 ti2 er4 shou3   er4
+title: 宴王使君宅題二首・二
+titlePinyin: yan4 wang2 shi3 jun1 zhai2 ti2 er4 shou3・er4
 titleSlug: yan-wang-shi-jun-zhai-ti-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

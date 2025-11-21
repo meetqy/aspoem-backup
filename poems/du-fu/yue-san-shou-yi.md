@@ -1,7 +1,7 @@
 ---
 id: du-fu-yue-san-shou-yi
-title: 月三首 一
-titlePinyin: yue4 san1 shou3   yi1
+title: 月三首・一
+titlePinyin: yue4 san1 shou3・yi1
 titleSlug: yue-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

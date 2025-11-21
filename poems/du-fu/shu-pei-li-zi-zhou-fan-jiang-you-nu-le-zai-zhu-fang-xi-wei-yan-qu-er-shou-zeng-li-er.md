@@ -1,7 +1,7 @@
 ---
 id: du-fu-shu-pei-li-zi-zhou-fan-jiang-you-nu-le-zai-zhu-fang-xi-wei-yan-qu-er-shou-zeng-li-er
-title: 數陪李梓州泛江有女樂在諸舫戲爲豔曲二首贈李 二
-titlePinyin: shu4 pei2 li3 zi3 zhou1 fan4 jiang1 you3 nü3 le4 zai4 zhu1 fang3 xi4 wei2 yan4 qu3 er4 shou3 zeng4 li3   er4
+title: 數陪李梓州泛江有女樂在諸舫戲爲豔曲二首贈李・二
+titlePinyin: shu4 pei2 li3 zi3 zhou1 fan4 jiang1 you3 nü3 le4 zai4 zhu1 fang3 xi4 wei2 yan4 qu3 er4 shou3 zeng4 li3・er4
 titleSlug: shu-pei-li-zi-zhou-fan-jiang-you-nu-le-zai-zhu-fang-xi-wei-yan-qu-er-shou-zeng-li-er
 author: 杜甫
 authorPinyin: du4 fu3

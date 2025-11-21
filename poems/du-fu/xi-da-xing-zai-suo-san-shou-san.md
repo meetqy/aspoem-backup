@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-da-xing-zai-suo-san-shou-san
-title: 喜達行在所三首 三
-titlePinyin: xi3 da2 xing2 zai4 suo3 san1 shou3   san1
+title: 喜達行在所三首・三
+titlePinyin: xi3 da2 xing2 zai4 suo3 san1 shou3・san1
 titleSlug: xi-da-xing-zai-suo-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

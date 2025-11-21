@@ -1,7 +1,7 @@
 ---
 id: du-fu-shou-jing-san-shou-yi
-title: 收京三首 一
-titlePinyin: shou1 jing1 san1 shou3   yi1
+title: 收京三首・一
+titlePinyin: shou1 jing1 san1 shou3・yi1
 titleSlug: shou-jing-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

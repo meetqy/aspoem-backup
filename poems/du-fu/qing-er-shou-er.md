@@ -1,7 +1,7 @@
 ---
 id: du-fu-qing-er-shou-er
-title: 晴二首 二
-titlePinyin: qing2 er4 shou3   er4
+title: 晴二首・二
+titlePinyin: qing2 er4 shou3・er4
 titleSlug: qing-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

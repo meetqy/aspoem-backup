@@ -1,7 +1,7 @@
 ---
 id: du-fu-xi-zuo-pai-xie-ti-qian-men-er-shou-yi
-title: 戲作俳諧體遣悶二首 一
-titlePinyin: xi4 zuo4 pai2 xie2 ti3 qian3 men4 er4 shou3   yi1
+title: 戲作俳諧體遣悶二首・一
+titlePinyin: xi4 zuo4 pai2 xie2 ti3 qian3 men4 er4 shou3・yi1
 titleSlug: xi-zuo-pai-xie-ti-qian-men-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

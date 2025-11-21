@@ -1,7 +1,7 @@
 ---
 id: du-fu-qin-zhou-za-shi-er-shi-shou-er-shi
-title: 秦州雜詩二十首 二十
-titlePinyin: qin2 zhou1 za2 shi1 er4 shi2 shou3   er4 shi2
+title: 秦州雜詩二十首・二十
+titlePinyin: qin2 zhou1 za2 shi1 er4 shi2 shou3・er4 shi2
 titleSlug: qin-zhou-za-shi-er-shi-shou-er-shi
 author: 杜甫
 authorPinyin: du4 fu3

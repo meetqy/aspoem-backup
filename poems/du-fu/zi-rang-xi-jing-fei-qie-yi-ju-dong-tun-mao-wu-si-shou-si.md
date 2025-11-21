@@ -1,7 +1,7 @@
 ---
 id: du-fu-zi-rang-xi-jing-fei-qie-yi-ju-dong-tun-mao-wu-si-shou-si
-title: 自瀼西荆扉且移居東屯茅屋四首 四
-titlePinyin: zi4 rang2 xi1 jing1 fei1 qie3 yi2 ju1 dong1 tun2 mao2 wu1 si4 shou3   si4
+title: 自瀼西荆扉且移居東屯茅屋四首・四
+titlePinyin: zi4 rang2 xi1 jing1 fei1 qie3 yi2 ju1 dong1 tun2 mao2 wu1 si4 shou3・si4
 titleSlug: zi-rang-xi-jing-fei-qie-yi-ju-dong-tun-mao-wu-si-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

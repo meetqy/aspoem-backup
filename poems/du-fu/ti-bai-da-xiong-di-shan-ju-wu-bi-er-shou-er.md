@@ -1,7 +1,7 @@
 ---
 id: du-fu-ti-bai-da-xiong-di-shan-ju-wu-bi-er-shou-er
-title: 題柏大兄弟山居屋壁二首 二
-titlePinyin: ti2 bai3 da4 xiong1 di4 shan1 ju1 wu1 bi4 er4 shou3   er4
+title: 題柏大兄弟山居屋壁二首・二
+titlePinyin: ti2 bai3 da4 xiong1 di4 shan1 ju1 wu1 bi4 er4 shou3・er4
 titleSlug: ti-bai-da-xiong-di-shan-ju-wu-bi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

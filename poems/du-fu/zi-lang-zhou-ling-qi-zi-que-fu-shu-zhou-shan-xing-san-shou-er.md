@@ -1,7 +1,7 @@
 ---
 id: du-fu-zi-lang-zhou-ling-qi-zi-que-fu-shu-zhou-shan-xing-san-shou-er
-title: 自閬州領妻子却赴蜀州山行三首 二
-titlePinyin: zi4 lang4 zhou1 ling3 qi1 zi0 que4 fu4 shu3 zhou1 shan1 xing2 san1 shou3   er4
+title: 自閬州領妻子却赴蜀州山行三首・二
+titlePinyin: zi4 lang4 zhou1 ling3 qi1 zi0 que4 fu4 shu3 zhou1 shan1 xing2 san1 shou3・er4
 titleSlug: zi-lang-zhou-ling-qi-zi-que-fu-shu-zhou-shan-xing-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

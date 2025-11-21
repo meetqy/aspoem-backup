@@ -1,7 +1,7 @@
 ---
 id: du-fu-yong-huai-er-shou-er
-title: 詠懷二首 二
-titlePinyin: yong3 huai2 er4 shou3   er4
+title: 詠懷二首・二
+titlePinyin: yong3 huai2 er4 shou3・er4
 titleSlug: yong-huai-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-ti-zhang-shi-yin-ju-er-shou-er
-title: 題張氏隱居二首 二
-titlePinyin: ti2 zhang1 shi4 yin3 ju1 er4 shou3   er4
+title: 題張氏隱居二首・二
+titlePinyin: ti2 zhang1 shi4 yin3 ju1 er4 shou3・er4
 titleSlug: ti-zhang-shi-yin-ju-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-san-chou-er-shou-yi
-title: 散愁二首 一
-titlePinyin: san4 chou2 er4 shou3   yi1
+title: 散愁二首・一
+titlePinyin: san4 chou2 er4 shou3・yi1
 titleSlug: san-chou-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

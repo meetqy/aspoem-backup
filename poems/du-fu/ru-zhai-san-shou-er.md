@@ -1,7 +1,7 @@
 ---
 id: du-fu-ru-zhai-san-shou-er
-title: 入宅三首 二
-titlePinyin: ru4 zhai2 san1 shou3   er4
+title: 入宅三首・二
+titlePinyin: ru4 zhai2 san1 shou3・er4
 titleSlug: ru-zhai-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

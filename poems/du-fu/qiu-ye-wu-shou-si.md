@@ -1,7 +1,7 @@
 ---
 id: du-fu-qiu-ye-wu-shou-si
-title: 秋野五首 四
-titlePinyin: qiu1 ye3 wu3 shou3   si4
+title: 秋野五首・四
+titlePinyin: qiu1 ye3 wu3 shou3・si4
 titleSlug: qiu-ye-wu-shou-si
 author: 杜甫
 authorPinyin: du4 fu3
