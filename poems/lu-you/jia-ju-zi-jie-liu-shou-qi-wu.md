@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-ju-zi-jie-liu-shou-qi-wu
-title: 家居自戒六首  其五
-titlePinyin: jia1 ju1 zi4 jie4 liu4 shou3     qi2 wu3
+title: 家居自戒六首・其五
+titlePinyin: jia1 ju1 zi4 jie4 liu4 shou3・qi2 wu3
 titleSlug: jia-ju-zi-jie-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

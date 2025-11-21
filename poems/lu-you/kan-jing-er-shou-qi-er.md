@@ -1,7 +1,7 @@
 ---
 id: lu-you-kan-jing-er-shou-qi-er
-title: 看鏡二首  其二
-titlePinyin: kan4 jing4 er4 shou3     qi2 er4
+title: 看鏡二首・其二
+titlePinyin: kan4 jing4 er4 shou3・qi2 er4
 titleSlug: kan-jing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

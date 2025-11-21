@@ -1,7 +1,7 @@
 ---
 id: lu-you-jun-zhai-ou-shu-san-shou-qi-san
-title: 郡齋偶書三首  其三
-titlePinyin: jun4 zhai1 ou3 shu1 san1 shou3     qi2 san1
+title: 郡齋偶書三首・其三
+titlePinyin: jun4 zhai1 ou3 shu1 san1 shou3・qi2 san1
 titleSlug: jun-zhai-ou-shu-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

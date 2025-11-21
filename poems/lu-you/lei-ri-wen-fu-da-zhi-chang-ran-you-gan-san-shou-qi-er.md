@@ -1,7 +1,7 @@
 ---
 id: lu-you-lei-ri-wen-fu-da-zhi-chang-ran-you-gan-san-shou-qi-er
-title: 累日文符沓至悵然有感三首  其二
-titlePinyin: lei4 ri4 wen2 fu2 da2 zhi4 chang4 ran2 you3 gan3 san1 shou3     qi2 er4
+title: 累日文符沓至悵然有感三首・其二
+titlePinyin: lei4 ri4 wen2 fu2 da2 zhi4 chang4 ran2 you3 gan3 san1 shou3・qi2 er4
 titleSlug: lei-ri-wen-fu-da-zhi-chang-ran-you-gan-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

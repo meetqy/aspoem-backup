@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-zhong-bi-hu-zhong-ri-ou-de-jue-ju-san-shou-qi-er
-title: 假中閉戸終日偶得絕句三首  其二
-titlePinyin: jia3 zhong1 bi4 hu4 zhong1 ri4 ou3 de2 jue2 ju4 san1 shou3     qi2 er4
+title: 假中閉戸終日偶得絕句三首・其二
+titlePinyin: jia3 zhong1 bi4 hu4 zhong1 ri4 ou3 de2 jue2 ju4 san1 shou3・qi2 er4
 titleSlug: jia-zhong-bi-hu-zhong-ri-ou-de-jue-ju-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

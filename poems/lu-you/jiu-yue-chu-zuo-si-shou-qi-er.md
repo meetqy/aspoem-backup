@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-yue-chu-zuo-si-shou-qi-er
-title: 九月初作四首  其二
-titlePinyin: jiu3 yue4 chu1 zuo4 si4 shou3     qi2 er4
+title: 九月初作四首・其二
+titlePinyin: jiu3 yue4 chu1 zuo4 si4 shou3・qi2 er4
 titleSlug: jiu-yue-chu-zuo-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

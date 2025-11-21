@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-zi-sui-shi-yue-er-shi-si-ri-ye-ban-meng-yu-gu-ren-wu-shan-shui-jian-yin-jiu-fu-shi-ji-jue-jin-neng-ji-yi-er-nai-zhui-bu-zhi-er-shou-qi-er
-title: 甲子歲十月二十四日夜半夢遇故人於山水間飲酒賦詩既覺僅能記一二乃追補之二首  其二
-titlePinyin: jia3 zi3 sui4 shi2 yue4 er4 shi2 si4 ri4 ye4 ban4 meng4 yu4 gu4 ren2 wu1 shan1 shui3 jian4 yin3 jiu3 fu4 shi1 ji4 jue2 jin3 neng2 ji4 yi1 er4 nai3 zhui1 bu3 zhi1 er4 shou3     qi2 er4
+title: 甲子歲十月二十四日夜半夢遇故人於山水間飲酒賦詩既覺僅能記一二乃追補之二首・其二
+titlePinyin: jia3 zi3 sui4 shi2 yue4 er4 shi2 si4 ri4 ye4 ban4 meng4 yu4 gu4 ren2 wu1 shan1 shui3 jian4 yin3 jiu3 fu4 shi1 ji4 jue2 jin3 neng2 ji4 yi1 er4 nai3 zhui1 bu3 zhi1 er4 shou3・qi2 er4
 titleSlug: jia-zi-sui-shi-yue-er-shi-si-ri-ye-ban-meng-yu-gu-ren-wu-shan-shui-jian-yin-jiu-fu-shi-ji-jue-jin-neng-ji-yi-er-nai-zhui-bu-zhi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

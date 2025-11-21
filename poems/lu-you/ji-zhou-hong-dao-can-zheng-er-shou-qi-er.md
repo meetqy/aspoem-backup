@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-zhou-hong-dao-can-zheng-er-shou-qi-er
-title: 寄周洪道參政二首  其二
-titlePinyin: ji4 zhou1 hong2 dao4 can1 zheng4 er4 shou3     qi2 er4
+title: 寄周洪道參政二首・其二
+titlePinyin: ji4 zhou1 hong2 dao4 can1 zheng4 er4 shou3・qi2 er4
 titleSlug: ji-zhou-hong-dao-can-zheng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

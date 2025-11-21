@@ -1,7 +1,7 @@
 ---
 id: lu-you-lan-ting-dao-shang-si-shou-qi-er
-title: 蘭亭道上四首  其二
-titlePinyin: lan2 ting2 dao4 shang4 si4 shou3     qi2 er4
+title: 蘭亭道上四首・其二
+titlePinyin: lan2 ting2 dao4 shang4 si4 shou3・qi2 er4
 titleSlug: lan-ting-dao-shang-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

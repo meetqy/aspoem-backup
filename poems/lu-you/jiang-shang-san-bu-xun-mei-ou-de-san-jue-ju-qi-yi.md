@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiang-shang-san-bu-xun-mei-ou-de-san-jue-ju-qi-yi
-title: 江上散步尋梅偶得三絕句  其一
-titlePinyin: jiang1 shang4 san4 bu4 xun2 mei2 ou3 de2 san1 jue2 ju4     qi2 yi1
+title: 江上散步尋梅偶得三絕句・其一
+titlePinyin: jiang1 shang4 san4 bu4 xun2 mei2 ou3 de2 san1 jue2 ju4・qi2 yi1
 titleSlug: jiang-shang-san-bu-xun-mei-ou-de-san-jue-ju-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

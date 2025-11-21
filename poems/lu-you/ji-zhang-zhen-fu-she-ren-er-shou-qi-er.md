@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-zhang-zhen-fu-she-ren-er-shou-qi-er
-title: 寄張真父舍人二首  其二
-titlePinyin: ji4 zhang1 zhen1 fu4 she4 ren2 er4 shou3     qi2 er4
+title: 寄張真父舍人二首・其二
+titlePinyin: ji4 zhang1 zhen1 fu4 she4 ren2 er4 shou3・qi2 er4
 titleSlug: ji-zhang-zhen-fu-she-ren-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

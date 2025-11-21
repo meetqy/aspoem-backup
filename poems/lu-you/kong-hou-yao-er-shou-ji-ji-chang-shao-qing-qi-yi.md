@@ -1,7 +1,7 @@
 ---
 id: lu-you-kong-hou-yao-er-shou-ji-ji-chang-shao-qing-qi-yi
-title: 箜篌謠二首寄季長少卿  其一
-titlePinyin: kong1 hou2 yao2 er4 shou3 ji4 ji4 chang2 shao3 qing1     qi2 yi1
+title: 箜篌謠二首寄季長少卿・其一
+titlePinyin: kong1 hou2 yao2 er4 shou3 ji4 ji4 chang2 shao3 qing1・qi2 yi1
 titleSlug: kong-hou-yao-er-shou-ji-ji-chang-shao-qing-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

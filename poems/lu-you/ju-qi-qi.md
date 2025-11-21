@@ -1,7 +1,7 @@
 ---
 id: lu-you-ju-qi-qi
-title: 句  其七
-titlePinyin: ju4     qi2 qi1
+title: 句・其七
+titlePinyin: ju4・qi2 qi1
 titleSlug: ju-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

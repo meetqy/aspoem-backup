@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-xia-za-xing-si-shou-qi-san
-title: 季夏雜興四首  其三
-titlePinyin: ji4 xia4 za2 xing1 si4 shou3     qi2 san1
+title: 季夏雜興四首・其三
+titlePinyin: ji4 xia4 za2 xing1 si4 shou3・qi2 san1
 titleSlug: ji-xia-za-xing-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

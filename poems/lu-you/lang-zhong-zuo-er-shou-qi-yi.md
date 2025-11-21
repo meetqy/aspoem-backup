@@ -1,7 +1,7 @@
 ---
 id: lu-you-lang-zhong-zuo-er-shou-qi-yi
-title: 閬中作二首  其一
-titlePinyin: lang4 zhong1 zuo4 er4 shou3     qi2 yi1
+title: 閬中作二首・其一
+titlePinyin: lang4 zhong1 zuo4 er4 shou3・qi2 yi1
 titleSlug: lang-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

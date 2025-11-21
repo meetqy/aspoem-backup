@@ -1,7 +1,7 @@
 ---
 id: lu-you-lao-min-er-shou-qi-er
-title: 老民二首  其二
-titlePinyin: lao3 min2 er4 shou3     qi2 er4
+title: 老民二首・其二
+titlePinyin: lao3 min2 er4 shou3・qi2 er4
 titleSlug: lao-min-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

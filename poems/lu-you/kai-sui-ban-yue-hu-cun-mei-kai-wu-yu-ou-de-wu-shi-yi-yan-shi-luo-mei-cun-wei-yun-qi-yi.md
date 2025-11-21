@@ -1,7 +1,7 @@
 ---
 id: lu-you-kai-sui-ban-yue-hu-cun-mei-kai-wu-yu-ou-de-wu-shi-yi-yan-shi-luo-mei-cun-wei-yun-qi-yi
-title: 開歲半月湖村梅開無餘偶得五詩以烟溼落梅村爲韵  其一
-titlePinyin: kai1 sui4 ban4 yue4 hu2 cun1 mei2 kai1 wu2 yu2 ou3 de2 wu3 shi1 yi3 yan1 shi1 luo4 mei2 cun1 wei2 yun4     qi2 yi1
+title: 開歲半月湖村梅開無餘偶得五詩以烟溼落梅村爲韵・其一
+titlePinyin: kai1 sui4 ban4 yue4 hu2 cun1 mei2 kai1 wu2 yu2 ou3 de2 wu3 shi1 yi3 yan1 shi1 luo4 mei2 cun1 wei2 yun4・qi2 yi1
 titleSlug: kai-sui-ban-yue-hu-cun-mei-kai-wu-yu-ou-de-wu-shi-yi-yan-shi-luo-mei-cun-wei-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

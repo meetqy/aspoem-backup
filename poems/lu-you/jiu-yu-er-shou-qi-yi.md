@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-yu-er-shou-qi-yi
-title: 久雨二首  其一
-titlePinyin: jiu3 yu3 er4 shou3     qi2 yi1
+title: 久雨二首・其一
+titlePinyin: jiu3 yu3 er4 shou3・qi2 yi1
 titleSlug: jiu-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

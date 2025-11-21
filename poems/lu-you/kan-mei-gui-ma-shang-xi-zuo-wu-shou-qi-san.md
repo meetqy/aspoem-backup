@@ -1,7 +1,7 @@
 ---
 id: lu-you-kan-mei-gui-ma-shang-xi-zuo-wu-shou-qi-san
-title: 看梅歸馬上戲作五首  其三
-titlePinyin: kan4 mei2 gui1 ma3 shang4 xi4 zuo4 wu3 shou3     qi2 san1
+title: 看梅歸馬上戲作五首・其三
+titlePinyin: kan4 mei2 gui1 ma3 shang4 xi4 zuo4 wu3 shou3・qi2 san1
 titleSlug: kan-mei-gui-ma-shang-xi-zuo-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

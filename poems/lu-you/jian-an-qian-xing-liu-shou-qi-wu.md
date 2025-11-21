@@ -1,7 +1,7 @@
 ---
 id: lu-you-jian-an-qian-xing-liu-shou-qi-wu
-title: 建安遣興六首  其五
-titlePinyin: jian4 an1 qian3 xing1 liu4 shou3     qi2 wu3
+title: 建安遣興六首・其五
+titlePinyin: jian4 an1 qian3 xing1 liu4 shou3・qi2 wu3
 titleSlug: jian-an-qian-xing-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

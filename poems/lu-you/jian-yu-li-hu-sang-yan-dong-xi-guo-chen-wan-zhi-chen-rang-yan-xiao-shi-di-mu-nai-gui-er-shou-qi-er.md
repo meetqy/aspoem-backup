@@ -1,7 +1,7 @@
 ---
 id: lu-you-jian-yu-li-hu-sang-yan-dong-xi-guo-chen-wan-zhi-chen-rang-yan-xiao-shi-di-mu-nai-gui-er-shou-qi-er
-title: 肩輿歷湖桑堰東西過陳灣至陳讓堰小市抵暮乃歸二首  其二
-titlePinyin: jian1 yu2 li4 hu2 sang1 yan4 dong1 xi1 guo4 chen2 wan1 zhi4 chen2 rang4 yan4 xiao3 shi4 di3 mu4 nai3 gui1 er4 shou3     qi2 er4
+title: 肩輿歷湖桑堰東西過陳灣至陳讓堰小市抵暮乃歸二首・其二
+titlePinyin: jian1 yu2 li4 hu2 sang1 yan4 dong1 xi1 guo4 chen2 wan1 zhi4 chen2 rang4 yan4 xiao3 shi4 di3 mu4 nai3 gui1 er4 shou3・qi2 er4
 titleSlug: jian-yu-li-hu-sang-yan-dong-xi-guo-chen-wan-zhi-chen-rang-yan-xiao-shi-di-mu-nai-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

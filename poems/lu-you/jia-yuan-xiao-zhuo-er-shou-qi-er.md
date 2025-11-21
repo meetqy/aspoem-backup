@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-yuan-xiao-zhuo-er-shou-qi-er
-title: 家園小酌二首  其二
-titlePinyin: jia1 yuan2 xiao3 zhuo2 er4 shou3     qi2 er4
+title: 家園小酌二首・其二
+titlePinyin: jia1 yuan2 xiao3 zhuo2 er4 shou3・qi2 er4
 titleSlug: jia-yuan-xiao-zhuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

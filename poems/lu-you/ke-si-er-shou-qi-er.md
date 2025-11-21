@@ -1,7 +1,7 @@
 ---
 id: lu-you-ke-si-er-shou-qi-er
-title: 客思二首  其二
-titlePinyin: ke4 si1 er4 shou3     qi2 er4
+title: 客思二首・其二
+titlePinyin: ke4 si1 er4 shou3・qi2 er4
 titleSlug: ke-si-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

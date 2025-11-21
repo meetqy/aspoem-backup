@@ -1,7 +1,7 @@
 ---
 id: lu-you-ke-qiao-ke-ting-er-shou-qi-er
-title: 柯橋客亭二首  其二
-titlePinyin: ke1 qiao2 ke4 ting2 er4 shou3     qi2 er4
+title: 柯橋客亭二首・其二
+titlePinyin: ke1 qiao2 ke4 ting2 er4 shou3・qi2 er4
 titleSlug: ke-qiao-ke-ting-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

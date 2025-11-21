@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-xi-si-shou-qi-san
-title: 即席四首  其三
-titlePinyin: ji2 xi2 si4 shou3     qi2 san1
+title: 即席四首・其三
+titlePinyin: ji2 xi2 si4 shou3・qi2 san1
 titleSlug: ji-xi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

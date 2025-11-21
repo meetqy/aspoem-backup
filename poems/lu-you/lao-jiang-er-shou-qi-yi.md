@@ -1,7 +1,7 @@
 ---
 id: lu-you-lao-jiang-er-shou-qi-yi
-title: 老將二首  其一
-titlePinyin: lao3 jiang1 er4 shou3     qi2 yi1
+title: 老將二首・其一
+titlePinyin: lao3 jiang1 er4 shou3・qi2 yi1
 titleSlug: lao-jiang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

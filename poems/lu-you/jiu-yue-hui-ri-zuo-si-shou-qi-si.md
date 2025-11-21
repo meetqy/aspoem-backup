@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-yue-hui-ri-zuo-si-shou-qi-si
-title: 九月晦日作四首  其四
-titlePinyin: jiu3 yue4 hui4 ri4 zuo4 si4 shou3     qi2 si4
+title: 九月晦日作四首・其四
+titlePinyin: jiu3 yue4 hui4 ri4 zuo4 si4 shou3・qi2 si4
 titleSlug: jiu-yue-hui-ri-zuo-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

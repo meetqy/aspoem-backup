@@ -1,7 +1,7 @@
 ---
 id: lu-you-lao-jing-er-shou-qi-yi
-title: 老境二首  其一
-titlePinyin: lao3 jing4 er4 shou3     qi2 yi1
+title: 老境二首・其一
+titlePinyin: lao3 jing4 er4 shou3・qi2 yi1
 titleSlug: lao-jing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

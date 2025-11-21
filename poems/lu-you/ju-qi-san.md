@@ -1,7 +1,7 @@
 ---
 id: lu-you-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句・其三
+titlePinyin: ju4・qi2 san1
 titleSlug: ju-qi-san
 author: 陸游
 authorPinyin: lu4 you2

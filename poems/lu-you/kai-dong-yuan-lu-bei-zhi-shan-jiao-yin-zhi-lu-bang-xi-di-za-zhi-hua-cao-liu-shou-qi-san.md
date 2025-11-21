@@ -1,7 +1,7 @@
 ---
 id: lu-you-kai-dong-yuan-lu-bei-zhi-shan-jiao-yin-zhi-lu-bang-xi-di-za-zhi-hua-cao-liu-shou-qi-san
-title: 開東園路北至山脚因治路傍隙地雜植花草六首  其三
-titlePinyin: kai1 dong1 yuan2 lu4 bei3 zhi4 shan1 jiao3 yin1 zhi4 lu4 bang4 xi4 di4 za2 zhi2 hua1 cao3 liu4 shou3     qi2 san1
+title: 開東園路北至山脚因治路傍隙地雜植花草六首・其三
+titlePinyin: kai1 dong1 yuan2 lu4 bei3 zhi4 shan1 jiao3 yin1 zhi4 lu4 bang4 xi4 di4 za2 zhi2 hua1 cao3 liu4 shou3・qi2 san1
 titleSlug: kai-dong-yuan-lu-bei-zhi-shan-jiao-yin-zhi-lu-bang-xi-di-za-zhi-hua-cao-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

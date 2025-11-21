@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiang-cun-er-shou-qi-yi
-title: 江村二首  其一
-titlePinyin: jiang1 cun1 er4 shou3     qi2 yi1
+title: 江村二首・其一
+titlePinyin: jiang1 cun1 er4 shou3・qi2 yi1
 titleSlug: jiang-cun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

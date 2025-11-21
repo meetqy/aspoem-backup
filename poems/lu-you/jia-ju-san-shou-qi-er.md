@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-ju-san-shou-qi-er
-title: 家居三首  其二
-titlePinyin: jia1 ju1 san1 shou3     qi2 er4
+title: 家居三首・其二
+titlePinyin: jia1 ju1 san1 shou3・qi2 er4
 titleSlug: jia-ju-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

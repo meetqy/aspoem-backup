@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-yue-chu-zuo-si-shou-qi-san
-title: 九月初作四首  其三
-titlePinyin: jiu3 yue4 chu1 zuo4 si4 shou3     qi2 san1
+title: 九月初作四首・其三
+titlePinyin: jiu3 yue4 chu1 zuo4 si4 shou3・qi2 san1
 titleSlug: jiu-yue-chu-zuo-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

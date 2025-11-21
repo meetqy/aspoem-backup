@@ -1,7 +1,7 @@
 ---
 id: lu-you-kan-mei-jue-ju-wu-shou-qi-er
-title: 看梅絕句五首  其二
-titlePinyin: kan4 mei2 jue2 ju4 wu3 shou3     qi2 er4
+title: 看梅絕句五首・其二
+titlePinyin: kan4 mei2 jue2 ju4 wu3 shou3・qi2 er4
 titleSlug: kan-mei-jue-ju-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

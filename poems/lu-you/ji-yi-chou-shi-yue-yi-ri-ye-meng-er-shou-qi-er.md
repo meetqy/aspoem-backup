@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-yi-chou-shi-yue-yi-ri-ye-meng-er-shou-qi-er
-title: 記乙丑十月一日夜夢二首  其二
-titlePinyin: ji4 yi3 chou3 shi2 yue4 yi2 ri4 ye4 meng4 er4 shou3     qi2 er4
+title: 記乙丑十月一日夜夢二首・其二
+titlePinyin: ji4 yi3 chou3 shi2 yue4 yi2 ri4 ye4 meng4 er4 shou3・qi2 er4
 titleSlug: ji-yi-chou-shi-yue-yi-ri-ye-meng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

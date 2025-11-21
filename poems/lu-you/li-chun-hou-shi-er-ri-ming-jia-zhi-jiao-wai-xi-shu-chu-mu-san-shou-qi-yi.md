@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-chun-hou-shi-er-ri-ming-jia-zhi-jiao-wai-xi-shu-chu-mu-san-shou-qi-yi
-title: 立春後十二日命駕至郊外戲書觸目三首  其一
-titlePinyin: li4 chun1 hou4 shi2 er4 ri4 ming4 jia4 zhi4 jiao1 wai4 xi4 shu1 chu4 mu4 san1 shou3     qi2 yi1
+title: 立春後十二日命駕至郊外戲書觸目三首・其一
+titlePinyin: li4 chun1 hou4 shi2 er4 ri4 ming4 jia4 zhi4 jiao1 wai4 xi4 shu1 chu4 mu4 san1 shou3・qi2 yi1
 titleSlug: li-chun-hou-shi-er-ri-ming-jia-zhi-jiao-wai-xi-shu-chu-mu-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

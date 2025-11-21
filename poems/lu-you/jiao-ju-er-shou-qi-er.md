@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiao-ju-er-shou-qi-er
-title: 郊居二首  其二
-titlePinyin: jiao1 ju1 er4 shou3     qi2 er4
+title: 郊居二首・其二
+titlePinyin: jiao1 ju1 er4 shou3・qi2 er4
 titleSlug: jiao-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

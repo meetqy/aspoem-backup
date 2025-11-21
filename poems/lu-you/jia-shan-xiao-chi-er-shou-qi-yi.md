@@ -1,7 +1,7 @@
 ---
 id: lu-you-jia-shan-xiao-chi-er-shou-qi-yi
-title: 假山小池二首  其一
-titlePinyin: jia3 shan1 xiao3 chi2 er4 shou3     qi2 yi1
+title: 假山小池二首・其一
+titlePinyin: jia3 shan1 xiao3 chi2 er4 shou3・qi2 yi1
 titleSlug: jia-shan-xiao-chi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-shi-liu-shou-qi-wu
-title: 即事六首  其五
-titlePinyin: ji2 shi4 liu4 shou3     qi2 wu3
+title: 即事六首・其五
+titlePinyin: ji2 shi4 liu4 shou3・qi2 wu3
 titleSlug: ji-shi-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

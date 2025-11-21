@@ -1,7 +1,7 @@
 ---
 id: lu-you-jun-zhong-za-ge-ba-shou-qi-si
-title: 軍中雜歌八首  其四
-titlePinyin: jun1 zhong1 za2 ge1 ba1 shou3     qi2 si4
+title: 軍中雜歌八首・其四
+titlePinyin: jun1 zhong1 za2 ge1 ba1 shou3・qi2 si4
 titleSlug: jun-zhong-za-ge-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

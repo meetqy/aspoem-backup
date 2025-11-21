@@ -1,7 +1,7 @@
 ---
 id: lu-you-ku-yu-er-shou-qi-er
-title: 苦雨二首  其二
-titlePinyin: ku3 yu3 er4 shou3     qi2 er4
+title: 苦雨二首・其二
+titlePinyin: ku3 yu3 er4 shou3・qi2 er4
 titleSlug: ku-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

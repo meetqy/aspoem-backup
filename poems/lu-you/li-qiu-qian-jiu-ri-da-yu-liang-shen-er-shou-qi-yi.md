@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-qiu-qian-jiu-ri-da-yu-liang-shen-er-shou-qi-yi
-title: 立秋前九日大雨凉甚二首  其一
-titlePinyin: li4 qiu1 qian2 jiu3 ri4 da4 yu3 liang2 shen4 er4 shou3     qi2 yi1
+title: 立秋前九日大雨凉甚二首・其一
+titlePinyin: li4 qiu1 qian2 jiu3 ri4 da4 yu3 liang2 shen4 er4 shou3・qi2 yi1
 titleSlug: li-qiu-qian-jiu-ri-da-yu-liang-shen-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

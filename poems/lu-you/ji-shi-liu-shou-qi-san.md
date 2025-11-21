@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-shi-liu-shou-qi-san
-title: 即事六首  其三
-titlePinyin: ji2 shi4 liu4 shou3     qi2 san1
+title: 即事六首・其三
+titlePinyin: ji2 shi4 liu4 shou3・qi2 san1
 titleSlug: ji-shi-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

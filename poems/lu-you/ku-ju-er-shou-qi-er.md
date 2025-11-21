@@ -1,7 +1,7 @@
 ---
 id: lu-you-ku-ju-er-shou-qi-er
-title: 枯菊二首  其二
-titlePinyin: ku1 ju2 er4 shou3     qi2 er4
+title: 枯菊二首・其二
+titlePinyin: ku1 ju2 er4 shou3・qi2 er4
 titleSlug: ku-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

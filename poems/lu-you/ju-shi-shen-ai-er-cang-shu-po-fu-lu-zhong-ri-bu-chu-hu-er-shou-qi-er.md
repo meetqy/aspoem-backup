@@ -1,7 +1,7 @@
 ---
 id: lu-you-ju-shi-shen-ai-er-cang-shu-po-fu-lu-zhong-ri-bu-chu-hu-er-shou-qi-er
-title: 居室甚隘而藏書頗富率終日不出戶二首  其二
-titlePinyin: ju1 shi4 shen4 ai4 er2 cang2 shu1 po1 fu4 lü4 zhong1 ri4 bu4 chu1 hu4 er4 shou3     qi2 er4
+title: 居室甚隘而藏書頗富率終日不出戶二首・其二
+titlePinyin: ju1 shi4 shen4 ai4 er2 cang2 shu1 po1 fu4 lü4 zhong1 ri4 bu4 chu1 hu4 er4 shou3・qi2 er4
 titleSlug: ju-shi-shen-ai-er-cang-shu-po-fu-lu-zhong-ri-bu-chu-hu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

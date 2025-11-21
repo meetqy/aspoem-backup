@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-hua-san-shou-qi-san
-title: 梨花三首  其三
-titlePinyin: li2 hua1 san1 shou3     qi2 san1
+title: 梨花三首・其三
+titlePinyin: li2 hua1 san1 shou3・qi2 san1
 titleSlug: li-hua-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

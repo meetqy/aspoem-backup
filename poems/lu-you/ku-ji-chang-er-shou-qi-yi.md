@@ -1,7 +1,7 @@
 ---
 id: lu-you-ku-ji-chang-er-shou-qi-yi
-title: 哭季長二首  其一
-titlePinyin: ku1 ji4 chang2 er4 shou3     qi2 yi1
+title: 哭季長二首・其一
+titlePinyin: ku1 ji4 chang2 er4 shou3・qi2 yi1
 titleSlug: ku-ji-chang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

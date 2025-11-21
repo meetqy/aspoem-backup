@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-ji-san-shou-qi-san
-title: 久疾三首  其三
-titlePinyin: jiu3 ji2 san1 shou3     qi2 san1
+title: 久疾三首・其三
+titlePinyin: jiu3 ji2 san1 shou3・qi2 san1
 titleSlug: jiu-ji-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

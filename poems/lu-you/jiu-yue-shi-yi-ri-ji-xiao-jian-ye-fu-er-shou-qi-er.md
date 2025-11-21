@@ -1,7 +1,7 @@
 ---
 id: lu-you-jiu-yue-shi-yi-ri-ji-xiao-jian-ye-fu-er-shou-qi-er
-title: 九月十一日疾小間夜賦二首  其二
-titlePinyin: jiu3 yue4 shi2 yi1 ri4 ji2 xiao3 jian4 ye4 fu4 er4 shou3     qi2 er4
+title: 九月十一日疾小間夜賦二首・其二
+titlePinyin: jiu3 yue4 shi2 yi1 ri4 ji2 xiao3 jian4 ye4 fu4 er4 shou3・qi2 er4
 titleSlug: jiu-yue-shi-yi-ri-ji-xiao-jian-ye-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

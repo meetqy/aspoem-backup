@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-ti-zhu-yuan-hui-wu-yi-jing-she-wu-shou-qi-er
-title: 寄題朱元晦武夷精舍五首  其二
-titlePinyin: ji4 ti2 zhu1 yuan2 hui4 wu3 yi2 jing1 she4 wu3 shou3     qi2 er4
+title: 寄題朱元晦武夷精舍五首・其二
+titlePinyin: ji4 ti2 zhu1 yuan2 hui4 wu3 yi2 jing1 she4 wu3 shou3・qi2 er4
 titleSlug: ji-ti-zhu-yuan-hui-wu-yi-jing-she-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

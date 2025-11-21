@@ -1,7 +1,7 @@
 ---
 id: lu-you-ke-you-jian-guo-zhe-ji-qu-kui-ran-you-zuo-er-shou-qi-yi
-title: 客有見過者既去喟然有作二首  其一
-titlePinyin: ke4 you3 jian4 guo4 zhe3 ji4 qu4 kui4 ran2 you3 zuo4 er4 shou3     qi2 yi1
+title: 客有見過者既去喟然有作二首・其一
+titlePinyin: ke4 you3 jian4 guo4 zhe3 ji4 qu4 kui4 ran2 you3 zuo4 er4 shou3・qi2 yi1
 titleSlug: ke-you-jian-guo-zhe-ji-qu-kui-ran-you-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

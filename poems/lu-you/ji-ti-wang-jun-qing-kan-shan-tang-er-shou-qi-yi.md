@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-ti-wang-jun-qing-kan-shan-tang-er-shou-qi-yi
-title: 寄題王俊卿看山堂二首  其一
-titlePinyin: ji4 ti2 wang2 jun4 qing1 kan4 shan1 tang2 er4 shou3     qi2 yi1
+title: 寄題王俊卿看山堂二首・其一
+titlePinyin: ji4 ti2 wang2 jun4 qing1 kan4 shan1 tang2 er4 shou3・qi2 yi1
 titleSlug: ji-ti-wang-jun-qing-kan-shan-tang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

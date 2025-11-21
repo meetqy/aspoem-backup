@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-zhi-lou-xiao-zhuo-er-shou-qi-er
-title: 荔枝樓小酌二首  其二
-titlePinyin: li4 zhi1 lou2 xiao3 zhuo2 er4 shou3     qi2 er4
+title: 荔枝樓小酌二首・其二
+titlePinyin: li4 zhi1 lou2 xiao3 zhuo2 er4 shou3・qi2 er4
 titleSlug: li-zhi-lou-xiao-zhuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

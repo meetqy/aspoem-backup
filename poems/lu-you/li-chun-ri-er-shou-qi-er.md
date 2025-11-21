@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-chun-ri-er-shou-qi-er
-title: 立春日二首  其二
-titlePinyin: li4 chun1 ri4 er4 shou3     qi2 er4
+title: 立春日二首・其二
+titlePinyin: li4 chun1 ri4 er4 shou3・qi2 er4
 titleSlug: li-chun-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

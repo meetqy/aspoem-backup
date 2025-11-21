@@ -1,7 +1,7 @@
 ---
 id: lu-you-lao-tai-er-shou-qi-yi
-title: 老態二首  其一
-titlePinyin: lao3 tai4 er4 shou3     qi2 yi1
+title: 老態二首・其一
+titlePinyin: lao3 tai4 er4 shou3・qi2 yi1
 titleSlug: lao-tai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

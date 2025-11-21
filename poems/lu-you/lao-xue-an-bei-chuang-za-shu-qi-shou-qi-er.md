@@ -1,7 +1,7 @@
 ---
 id: lu-you-lao-xue-an-bei-chuang-za-shu-qi-shou-qi-er
-title: 老學庵北窗雜書七首  其二
-titlePinyin: lao3 xue2 an1 bei3 chuang1 za2 shu1 qi1 shou3     qi2 er4
+title: 老學庵北窗雜書七首・其二
+titlePinyin: lao3 xue2 an1 bei3 chuang1 za2 shu1 qi1 shou3・qi2 er4
 titleSlug: lao-xue-an-bei-chuang-za-shu-qi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
