@@ -1,7 +1,7 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-san-jiao-ting
-title: 閬州東園十詠 三角亭
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   san1 jiao3 ting2
+title: 閬州東園十詠・三角亭
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・san1 jiao3 ting2
 titleSlug: lang-zhou-dong-yuan-shi-yong-san-jiao-ting
 author: 文同
 authorPinyin: wen2 tong2

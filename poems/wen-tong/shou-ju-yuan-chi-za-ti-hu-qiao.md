@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-hu-qiao
-title: 守居園池雜題 湖橋
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   hu2 qiao2
+title: 守居園池雜題・湖橋
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・hu2 qiao2
 titleSlug: shou-ju-yuan-chi-za-ti-hu-qiao
 author: 文同
 authorPinyin: wen2 tong2

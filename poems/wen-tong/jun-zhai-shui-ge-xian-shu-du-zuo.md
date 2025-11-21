@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-du-zuo
-title: 郡齋水閣閑書 獨坐
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   du2 zuo4
+title: 郡齋水閣閑書・獨坐
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・du2 zuo4
 titleSlug: jun-zhai-shui-ge-xian-shu-du-zuo
 author: 文同
 authorPinyin: wen2 tong2

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shan-cheng-qiu-ri-ye-wang-gan-shi-shu-huai-shi-wu-zhang-cheng-wu-long-tu-qi-wu
-title: 山城秋日野望感事書懷詩五章呈吳龍圖  其五
-titlePinyin: shan1 cheng2 qiu1 ri4 ye3 wang4 gan3 shi4 shu1 huai2 shi1 wu3 zhang1 cheng2 wu2 long2 tu2     qi2 wu3
+title: 山城秋日野望感事書懷詩五章呈吳龍圖・其五
+titlePinyin: shan1 cheng2 qiu1 ri4 ye3 wang4 gan3 shi4 shu1 huai2 shi1 wu3 zhang1 cheng2 wu2 long2 tu2・qi2 wu3
 titleSlug: shan-cheng-qiu-ri-ye-wang-gan-shi-shu-huai-shi-wu-zhang-cheng-wu-long-tu-qi-wu
 author: 文同
 authorPinyin: wen2 tong2

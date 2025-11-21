@@ -1,7 +1,7 @@
 ---
 id: wen-tong-guan-she-chun-ri-shu-huai-qi-er
-title: 官舍春日書懷  其二
-titlePinyin: guan1 she4 chun1 ri4 shu1 huai2     qi2 er4
+title: 官舍春日書懷・其二
+titlePinyin: guan1 she4 chun1 ri4 shu1 huai2・qi2 er4
 titleSlug: guan-she-chun-ri-shu-huai-qi-er
 author: 文同
 authorPinyin: wen2 tong2

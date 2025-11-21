@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xing-yuan-fu-yuan-ting-za-yong-shen-mei-tang
-title: 興元府園亭雜咏 甚美堂
-titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3   shen4 mei3 tang2
+title: 興元府園亭雜咏・甚美堂
+titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3・shen4 mei3 tang2
 titleSlug: xing-yuan-fu-yuan-ting-za-yong-shen-mei-tang
 author: 文同
 authorPinyin: wen2 tong2

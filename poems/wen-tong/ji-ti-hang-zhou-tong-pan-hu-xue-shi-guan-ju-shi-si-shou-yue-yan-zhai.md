@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ji-ti-hang-zhou-tong-pan-hu-xue-shi-guan-ju-shi-si-shou-yue-yan-zhai
-title: 寄題杭州通判胡學士官居詩四首 月岩齋
-titlePinyin: ji4 ti2 hang2 zhou1 tong1 pan4 hu2 xue2 shi4 guan1 ju1 shi1 si4 shou3   yue4 yan2 zhai1
+title: 寄題杭州通判胡學士官居詩四首・月岩齋
+titlePinyin: ji4 ti2 hang2 zhou1 tong1 pan4 hu2 xue2 shi4 guan1 ju1 shi1 si4 shou3・yue4 yan2 zhai1
 titleSlug: ji-ti-hang-zhou-tong-pan-hu-xue-shi-guan-ju-shi-si-shou-yue-yan-zhai
 author: 文同
 authorPinyin: wen2 tong2

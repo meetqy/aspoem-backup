@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yi-yun-he-tu-nan-wu-shou-da-tao-tu-ci-jian-ju
-title: 依韵和圖南五首 大桃途次見菊
-titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3   da4 tao2 tu2 ci4 jian4 ju2
+title: 依韵和圖南五首・大桃途次見菊
+titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3・da4 tao2 tu2 ci4 jian4 ju2
 titleSlug: yi-yun-he-tu-nan-wu-shou-da-tao-tu-ci-jian-ju
 author: 文同
 authorPinyin: wen2 tong2

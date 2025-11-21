@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shang-ting-bei-xuan-dui-yue-chui-di-de-cai-yuan-she-ren-zhao-hua-yin-zui-shuang-yue-cao-tang-yin-jie-shi-pu-ye-qi-san
-title: 上亭北軒對月吹笛得才元舍人昭華引醉霜月草堂吟皆詩譜也  其三
-titlePinyin: shang4 ting2 bei3 xuan1 dui4 yue4 chui1 di2 de2 cai2 yuan2 she4 ren2 zhao1 hua2 yin3 zui4 shuang1 yue4 cao3 tang2 yin2 jie1 shi1 pu3 ye3     qi2 san1
+title: 上亭北軒對月吹笛得才元舍人昭華引醉霜月草堂吟皆詩譜也・其三
+titlePinyin: shang4 ting2 bei3 xuan1 dui4 yue4 chui1 di2 de2 cai2 yuan2 she4 ren2 zhao1 hua2 yin3 zui4 shuang1 yue4 cao3 tang2 yin2 jie1 shi1 pu3 ye3・qi2 san1
 titleSlug: shang-ting-bei-xuan-dui-yue-chui-di-de-cai-yuan-she-ren-zhao-hua-yin-zui-shuang-yue-cao-tang-yin-jie-shi-pu-ye-qi-san
 author: 文同
 authorPinyin: wen2 tong2

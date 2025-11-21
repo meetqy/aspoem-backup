@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xu-qing-cheng-shan-si-yong-xiang-ji-si
-title: 續青城山四詠 香積寺
-titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3   xiang1 ji1 si4
+title: 續青城山四詠・香積寺
+titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3・xiang1 ji1 si4
 titleSlug: xu-qing-cheng-shan-si-yong-xiang-ji-si
 author: 文同
 authorPinyin: wen2 tong2

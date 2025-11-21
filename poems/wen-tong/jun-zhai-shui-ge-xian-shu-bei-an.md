@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-bei-an
-title: 郡齋水閣閑書 北岸
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   bei3 an4
+title: 郡齋水閣閑書・北岸
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・bei3 an4
 titleSlug: jun-zhai-shui-ge-xian-shu-bei-an
 author: 文同
 authorPinyin: wen2 tong2

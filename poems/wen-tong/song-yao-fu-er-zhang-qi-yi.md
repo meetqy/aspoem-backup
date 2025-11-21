@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-yao-fu-er-zhang-qi-yi
-title: 送堯夫二章  其一
-titlePinyin: song4 yao2 fu1 er4 zhang1     qi2 yi1
+title: 送堯夫二章・其一
+titlePinyin: song4 yao2 fu1 er4 zhang1・qi2 yi1
 titleSlug: song-yao-fu-er-zhang-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

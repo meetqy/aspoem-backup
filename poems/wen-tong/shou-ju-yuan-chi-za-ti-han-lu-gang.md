@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-han-lu-gang
-title: 守居園池雜題 寒蘆港
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   han2 lu2 gang3
+title: 守居園池雜題・寒蘆港
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・han2 lu2 gang3
 titleSlug: shou-ju-yuan-chi-za-ti-han-lu-gang
 author: 文同
 authorPinyin: wen2 tong2

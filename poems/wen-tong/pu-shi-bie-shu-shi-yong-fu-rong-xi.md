@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-fu-rong-xi
-title: 蒲氏別墅十詠 芙蓉溪
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   fu2 rong2 xi1
+title: 蒲氏別墅十詠・芙蓉溪
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・fu2 rong2 xi1
 titleSlug: pu-shi-bie-shu-shi-yong-fu-rong-xi
 author: 文同
 authorPinyin: wen2 tong2

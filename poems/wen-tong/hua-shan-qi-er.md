@@ -1,7 +1,7 @@
 ---
 id: wen-tong-hua-shan-qi-er
-title: 華山  其二
-titlePinyin: hua2 shan1     qi2 er4
+title: 華山・其二
+titlePinyin: hua2 shan1・qi2 er4
 titleSlug: hua-shan-qi-er
 author: 文同
 authorPinyin: wen2 tong2

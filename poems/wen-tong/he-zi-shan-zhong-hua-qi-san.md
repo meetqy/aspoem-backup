@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-zi-shan-zhong-hua-qi-san
-title: 和子山種花  其三
-titlePinyin: he2 zi3 shan1 zhong3 hua1     qi2 san1
+title: 和子山種花・其三
+titlePinyin: he2 zi3 shan1 zhong3 hua1・qi2 san1
 titleSlug: he-zi-shan-zhong-hua-qi-san
 author: 文同
 authorPinyin: wen2 tong2

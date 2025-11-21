@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yi-yun-he-tu-nan-wu-shou-wan-bo-jin-niu
-title: 依韵和圖南五首 晚泊金牛
-titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3   wan3 bo2 jin1 niu2
+title: 依韵和圖南五首・晚泊金牛
+titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3・wan3 bo2 jin1 niu2
 titleSlug: yi-yun-he-tu-nan-wu-shou-wan-bo-jin-niu
 author: 文同
 authorPinyin: wen2 tong2

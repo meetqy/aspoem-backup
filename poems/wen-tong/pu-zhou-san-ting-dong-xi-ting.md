@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-zhou-san-ting-dong-xi-ting
-title: 普州三亭 東溪亭
-titlePinyin: pu3 zhou1 san1 ting2   dong1 xi1 ting2
+title: 普州三亭・東溪亭
+titlePinyin: pu3 zhou1 san1 ting2・dong1 xi1 ting2
 titleSlug: pu-zhou-san-ting-dong-xi-ting
 author: 文同
 authorPinyin: wen2 tong2

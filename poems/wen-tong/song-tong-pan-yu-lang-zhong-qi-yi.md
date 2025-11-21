@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-tong-pan-yu-lang-zhong-qi-yi
-title: 送通判喻郎中  其一
-titlePinyin: song4 tong1 pan4 yu4 lang2 zhong1     qi2 yi1
+title: 送通判喻郎中・其一
+titlePinyin: song4 tong1 pan4 yu4 lang2 zhong1・qi2 yi1
 titleSlug: song-tong-pan-yu-lang-zhong-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

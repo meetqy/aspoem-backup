@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-cai-lian
-title: 郡齋水閣閑書 采蓮
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   cai3 lian2
+title: 郡齋水閣閑書・采蓮
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・cai3 lian2
 titleSlug: jun-zhai-shui-ge-xian-shu-cai-lian
 author: 文同
 authorPinyin: wen2 tong2

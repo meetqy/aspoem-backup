@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xing-yuan-fu-yuan-ting-za-yong-qi-xuan
-title: 興元府園亭雜咏 棋軒
-titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3   qi2 xuan1
+title: 興元府園亭雜咏・棋軒
+titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3・qi2 xuan1
 titleSlug: xing-yuan-fu-yuan-ting-za-yong-qi-xuan
 author: 文同
 authorPinyin: wen2 tong2

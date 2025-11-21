@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-fei-cui
-title: 郡齋水閣閑書 翡翠
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   fei3 cui4
+title: 郡齋水閣閑書・翡翠
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・fei3 cui4
 titleSlug: jun-zhai-shui-ge-xian-shu-fei-cui
 author: 文同
 authorPinyin: wen2 tong2

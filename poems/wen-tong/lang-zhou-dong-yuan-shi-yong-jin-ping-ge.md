@@ -1,7 +1,7 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-jin-ping-ge
-title: 閬州東園十詠 錦屏閣
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   jin3 ping2 ge2
+title: 閬州東園十詠・錦屏閣
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・jin3 ping2 ge2
 titleSlug: lang-zhou-dong-yuan-shi-yong-jin-ping-ge
 author: 文同
 authorPinyin: wen2 tong2

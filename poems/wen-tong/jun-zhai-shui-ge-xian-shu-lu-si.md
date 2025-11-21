@@ -1,7 +1,7 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-lu-si
-title: 郡齋水閣閑書 鷺鷥
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   lu4 si1
+title: 郡齋水閣閑書・鷺鷥
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・lu4 si1
 titleSlug: jun-zhai-shui-ge-xian-shu-lu-si
 author: 文同
 authorPinyin: wen2 tong2

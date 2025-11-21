@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-pan-si-li-mi-xiao-qi-yi
-title: 送潘司理秘校  其一
-titlePinyin: song4 pan1 si1 li3 mi4 xiao4     qi2 yi1
+title: 送潘司理秘校・其一
+titlePinyin: song4 pan1 si1 li3 mi4 xiao4・qi2 yi1
 titleSlug: song-pan-si-li-mi-xiao-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

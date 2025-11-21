@@ -1,7 +1,7 @@
 ---
 id: wen-tong-li-jian-fu-jing-ju-za-ti-yi-shi-san-shou-tui-an
-title: 李堅甫凈居雜題一十三首 退庵
-titlePinyin: li3 jian1 fu3 jing4 ju1 za2 ti2 yi1 shi2 san1 shou3   tui4 an1
+title: 李堅甫凈居雜題一十三首・退庵
+titlePinyin: li3 jian1 fu3 jing4 ju1 za2 ti2 yi1 shi2 san1 shou3・tui4 an1
 titleSlug: li-jian-fu-jing-ju-za-ti-yi-shi-san-shou-tui-an
 author: 文同
 authorPinyin: wen2 tong2

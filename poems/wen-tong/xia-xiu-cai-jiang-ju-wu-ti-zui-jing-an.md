@@ -1,7 +1,7 @@
 ---
 id: wen-tong-xia-xiu-cai-jiang-ju-wu-ti-zui-jing-an
-title: 夏秀才江居五題 醉經庵
-titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2   zui4 jing1 an1
+title: 夏秀才江居五題・醉經庵
+titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2・zui4 jing1 an1
 titleSlug: xia-xiu-cai-jiang-ju-wu-ti-zui-jing-an
 author: 文同
 authorPinyin: wen2 tong2

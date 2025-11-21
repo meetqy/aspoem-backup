@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-wu-long-tu-yun-wu-shou-er-se-fu-rong
-title: 和吳龍圖韵五首 二色芙蓉
-titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3   er4 se4 fu2 rong2
+title: 和吳龍圖韵五首・二色芙蓉
+titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3・er4 se4 fu2 rong2
 titleSlug: he-wu-long-tu-yun-wu-shou-er-se-fu-rong
 author: 文同
 authorPinyin: wen2 tong2

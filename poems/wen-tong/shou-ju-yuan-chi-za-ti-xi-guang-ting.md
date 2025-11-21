@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-xi-guang-ting
-title: 守居園池雜題 溪光亭
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   xi1 guang1 ting2
+title: 守居園池雜題・溪光亭
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・xi1 guang1 ting2
 titleSlug: shou-ju-yuan-chi-za-ti-xi-guang-ting
 author: 文同
 authorPinyin: wen2 tong2

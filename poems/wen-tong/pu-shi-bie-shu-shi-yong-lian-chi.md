@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-lian-chi
-title: 蒲氏別墅十詠 蓮池
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   lian2 chi2
+title: 蒲氏別墅十詠・蓮池
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・lian2 chi2
 titleSlug: pu-shi-bie-shu-shi-yong-lian-chi
 author: 文同
 authorPinyin: wen2 tong2

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-wu-qu-qu-qi-san
-title: 吳趨曲  其三
-titlePinyin: wu2 qu1 qu3     qi2 san1
+title: 吳趨曲・其三
+titlePinyin: wu2 qu1 qu3・qi2 san1
 titleSlug: wu-qu-qu-qi-san
 author: 文同
 authorPinyin: wen2 tong2

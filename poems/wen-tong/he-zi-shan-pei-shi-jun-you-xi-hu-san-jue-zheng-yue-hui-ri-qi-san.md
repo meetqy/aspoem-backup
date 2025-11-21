@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-zi-shan-pei-shi-jun-you-xi-hu-san-jue-zheng-yue-hui-ri-qi-san
-title: 和子山陪使君遊西湖三絕正月晦日  其三
-titlePinyin: he2 zi3 shan1 pei2 shi3 jun1 you2 xi1 hu2 san1 jue2 zheng1 yue4 hui4 ri4     qi2 san1
+title: 和子山陪使君遊西湖三絕正月晦日・其三
+titlePinyin: he2 zi3 shan1 pei2 shi3 jun1 you2 xi1 hu2 san1 jue2 zheng1 yue4 hui4 ri4・qi2 san1
 titleSlug: he-zi-shan-pei-shi-jun-you-xi-hu-san-jue-zheng-yue-hui-ri-qi-san
 author: 文同
 authorPinyin: wen2 tong2

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-jian-fu-tong-nian-qi-yi
-title: 送堅甫同年  其一
-titlePinyin: song4 jian1 fu3 tong2 nian2     qi2 yi1
+title: 送堅甫同年・其一
+titlePinyin: song4 jian1 fu3 tong2 nian2・qi2 yi1
 titleSlug: song-jian-fu-tong-nian-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

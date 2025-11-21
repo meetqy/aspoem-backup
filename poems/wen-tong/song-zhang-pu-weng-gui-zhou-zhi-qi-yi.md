@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-zhang-pu-weng-gui-zhou-zhi-qi-yi
-title: 送張樸翁歸盩厔  其一
-titlePinyin: song4 zhang1 pu3 weng1 gui1 zhou1 zhi4     qi2 yi1
+title: 送張樸翁歸盩厔・其一
+titlePinyin: song4 zhang1 pu3 weng1 gui1 zhou1 zhi4・qi2 yi1
 titleSlug: song-zhang-pu-weng-gui-zhou-zhi-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

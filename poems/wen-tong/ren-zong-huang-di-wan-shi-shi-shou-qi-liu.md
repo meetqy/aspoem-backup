@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ren-zong-huang-di-wan-shi-shi-shou-qi-liu
-title: 仁宗皇帝挽詩十首  其六
-titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3     qi2 liu4
+title: 仁宗皇帝挽詩十首・其六
+titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3・qi2 liu4
 titleSlug: ren-zong-huang-di-wan-shi-shi-shou-qi-liu
 author: 文同
 authorPinyin: wen2 tong2

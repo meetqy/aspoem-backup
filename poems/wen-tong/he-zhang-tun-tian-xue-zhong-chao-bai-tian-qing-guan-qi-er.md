@@ -1,7 +1,7 @@
 ---
 id: wen-tong-he-zhang-tun-tian-xue-zhong-chao-bai-tian-qing-guan-qi-er
-title: 和張屯田雪中朝拜天慶觀  其二
-titlePinyin: he2 zhang1 tun2 tian2 xue3 zhong1 chao2 bai4 tian1 qing4 guan1     qi2 er4
+title: 和張屯田雪中朝拜天慶觀・其二
+titlePinyin: he2 zhang1 tun2 tian2 xue3 zhong1 chao2 bai4 tian1 qing4 guan1・qi2 er4
 titleSlug: he-zhang-tun-tian-xue-zhong-chao-bai-tian-qing-guan-qi-er
 author: 文同
 authorPinyin: wen2 tong2

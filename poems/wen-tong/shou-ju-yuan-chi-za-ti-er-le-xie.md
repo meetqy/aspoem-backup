@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-er-le-xie
-title: 守居園池雜題 二樂榭
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   er4 le4 xie4
+title: 守居園池雜題・二樂榭
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・er4 le4 xie4
 titleSlug: shou-ju-yuan-chi-za-ti-er-le-xie
 author: 文同
 authorPinyin: wen2 tong2

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-tu-mi-dong
-title: 守居園池雜題 荼蘼洞
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   tu2 mi2 dong4
+title: 守居園池雜題・荼蘼洞
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・tu2 mi2 dong4
 titleSlug: shou-ju-yuan-chi-za-ti-tu-mi-dong
 author: 文同
 authorPinyin: wen2 tong2

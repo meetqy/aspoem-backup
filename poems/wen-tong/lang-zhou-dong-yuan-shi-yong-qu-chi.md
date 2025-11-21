@@ -1,7 +1,7 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-qu-chi
-title: 閬州東園十詠 曲池
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   qu3 chi2
+title: 閬州東園十詠・曲池
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・qu3 chi2
 titleSlug: lang-zhou-dong-yuan-shi-yong-qu-chi
 author: 文同
 authorPinyin: wen2 tong2

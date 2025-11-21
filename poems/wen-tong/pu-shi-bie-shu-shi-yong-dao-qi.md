@@ -1,7 +1,7 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-dao-qi
-title: 蒲氏別墅十詠 稻畦
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   dao4 qi2
+title: 蒲氏別墅十詠・稻畦
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・dao4 qi2
 titleSlug: pu-shi-bie-shu-shi-yong-dao-qi
 author: 文同
 authorPinyin: wen2 tong2

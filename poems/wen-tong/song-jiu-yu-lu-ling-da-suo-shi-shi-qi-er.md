@@ -1,7 +1,7 @@
 ---
 id: wen-tong-song-jiu-yu-lu-ling-da-suo-shi-shi-qi-er
-title: 送酒與呂令答所示詩  其二
-titlePinyin: song4 jiu3 yu3 lü3 ling4 da2 suo3 shi4 shi1     qi2 er4
+title: 送酒與呂令答所示詩・其二
+titlePinyin: song4 jiu3 yu3 lü3 ling4 da2 suo3 shi4 shi1・qi2 er4
 titleSlug: song-jiu-yu-lu-ling-da-suo-shi-shi-qi-er
 author: 文同
 authorPinyin: wen2 tong2

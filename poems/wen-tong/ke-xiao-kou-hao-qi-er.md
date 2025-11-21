@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ke-xiao-kou-hao-qi-er
-title: 可笑口號  其二
-titlePinyin: ke3 xiao4 kou3 hao4     qi2 er4
+title: 可笑口號・其二
+titlePinyin: ke3 xiao4 kou3 hao4・qi2 er4
 titleSlug: ke-xiao-kou-hao-qi-er
 author: 文同
 authorPinyin: wen2 tong2

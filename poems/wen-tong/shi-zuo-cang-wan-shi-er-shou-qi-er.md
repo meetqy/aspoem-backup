@@ -1,7 +1,7 @@
 ---
 id: wen-tong-shi-zuo-cang-wan-shi-er-shou-qi-er
-title: 石左藏挽詩二首  其二
-titlePinyin: shi2 zuo3 cang2 wan3 shi1 er4 shou3     qi2 er4
+title: 石左藏挽詩二首・其二
+titlePinyin: shi2 zuo3 cang2 wan3 shi1 er4 shou3・qi2 er4
 titleSlug: shi-zuo-cang-wan-shi-er-shou-qi-er
 author: 文同
 authorPinyin: wen2 tong2

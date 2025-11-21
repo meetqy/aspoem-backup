@@ -1,7 +1,7 @@
 ---
 id: wen-tong-ji-xia-wen-zhou-zuo-cang-yi-qi-er
-title: 寄夏文州左藏佾  其二
-titlePinyin: ji4 xia4 wen2 zhou1 zuo3 cang2 yi4     qi2 er4
+title: 寄夏文州左藏佾・其二
+titlePinyin: ji4 xia4 wen2 zhou1 zuo3 cang2 yi4・qi2 er4
 titleSlug: ji-xia-wen-zhou-zuo-cang-yi-qi-er
 author: 文同
 authorPinyin: wen2 tong2

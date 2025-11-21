@@ -1,7 +1,7 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-liu-qiao
-title: 閬州東園十詠 柳橋
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   liu3 qiao2
+title: 閬州東園十詠・柳橋
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・liu3 qiao2
 titleSlug: lang-zhou-dong-yuan-shi-yong-liu-qiao
 author: 文同
 authorPinyin: wen2 tong2
