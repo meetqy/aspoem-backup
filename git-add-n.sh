@@ -8,6 +8,7 @@ echo "Configured to add a maximum of $MAX_FILES_TO_ADD files."
 
 # 初始化数组
 UNSTAGED_FILES=()
+FILE_STATUSES=()
 FILES_TO_ADD=()
 CURRENT_ADD_COUNT=0
 
@@ -30,16 +31,19 @@ while IFS= read -r line; do
         # 提取文件名 (从第4个字符开始，移除前缀)
         filename="${line:3}"
         UNSTAGED_FILES+=("$filename")
+        FILE_STATUSES+=("MODIFY")
         # echo "  Found MODIFIED file: '$filename'"
     elif [[ "$line" =~ ^'\?\? ' ]]; then # 注意 '?? '
         # 提取文件名 (从第4个字符开始，移除前缀)
         filename="${line:3}"
         UNSTAGED_FILES+=("$filename")
+        FILE_STATUSES+=("ADD")
         # echo "  Found UNTRACKED file: '$filename'"
     elif [[ "$line" =~ ^' D ' ]]; then # 注意 ' D '，未暂存的删除
         # 提取文件名 (从第4个字符开始，移除前缀)
         filename="${line:3}"
         UNSTAGED_FILES+=("$filename")
+        FILE_STATUSES+=("DELETE")
         # echo "  Found DELETED file: '$filename'"
     fi
 done < <(git status --porcelain)
@@ -47,11 +51,11 @@ done < <(git status --porcelain)
 echo "Detected ${#UNSTAGED_FILES[@]} unstaged files in total."
 
 # --- 步骤 2: 从未暂存文件中选择前 MAX_FILES_TO_ADD 个 ---
-for file in "${UNSTAGED_FILES[@]}"; do
+for i in "${!UNSTAGED_FILES[@]}"; do
     if (( CURRENT_ADD_COUNT < MAX_FILES_TO_ADD )); then
         # 对于删除的文件，不需要检查文件是否存在
         # 只要在 git status 中出现，就可以添加
-        FILES_TO_ADD+=("$file")
+        FILES_TO_ADD+=("$i")
         CURRENT_ADD_COUNT=$((CURRENT_ADD_COUNT + 1))
     else
         break # 达到文件数量限制
@@ -61,13 +65,17 @@ done
 # --- 步骤 3: 执行 git add 命令 ---
 if (( ${#FILES_TO_ADD[@]} > 0 )); then
     echo "Attempting to add $CURRENT_ADD_COUNT files to staging area:"
-    # 打印即将添加的文件列表
-    for file in "${FILES_TO_ADD[@]}"; do
-        echo "  - $file"
+    # 打印即将添加的文件列表，带状态
+    actual_files=()
+    for idx in "${FILES_TO_ADD[@]}"; do
+        status="${FILE_STATUSES[$idx]}"
+        file="${UNSTAGED_FILES[$idx]}"
+        echo "  $status - $file"
+        actual_files+=("$file")
     done
     
     # 执行 git add 命令。使用数组来处理可能包含空格的文件名
-    git add "${FILES_TO_ADD[@]}"
+    git add "${actual_files[@]}"
     echo "✅ Successfully added $CURRENT_ADD_COUNT files."
 else
     echo "❌ No unstaged files found that match the criteria to add."
