@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhui-gan-wang-shi-wu-shou-qi-si
-title: 追感往事五首  其四
-titlePinyin: zhui1 gan3 wang3 shi4 wu3 shou3     qi2 si4
+title: 追感往事五首・其四
+titlePinyin: zhui1 gan3 wang3 shi4 wu3 shou3・qi2 si4
 titleSlug: zhui-gan-wang-shi-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

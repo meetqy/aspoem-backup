@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-xing-shi-shou-yi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-wei-yun-qi-san
-title: 雜興十首以貧堅志士節病長高人情爲韵  其三
-titlePinyin: za2 xing1 shi2 shou3 yi3 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 wei2 yun4     qi2 san1
+title: 雜興十首以貧堅志士節病長高人情爲韵・其三
+titlePinyin: za2 xing1 shi2 shou3 yi3 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 wei2 yun4・qi2 san1
 titleSlug: za-xing-shi-shou-yi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-wei-yun-qi-san
 author: 陸游
 authorPinyin: lu4 you2

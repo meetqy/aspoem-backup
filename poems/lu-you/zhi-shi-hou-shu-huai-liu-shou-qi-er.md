@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhi-shi-hou-shu-huai-liu-shou-qi-er
-title: 致仕後述懷六首  其二
-titlePinyin: zhi4 shi4 hou4 shu4 huai2 liu4 shou3     qi2 er4
+title: 致仕後述懷六首・其二
+titlePinyin: zhi4 shi4 hou4 shu4 huai2 liu4 shou3・qi2 er4
 titleSlug: zhi-shi-hou-shu-huai-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

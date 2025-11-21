@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhen-shang-wen-ji-yu-er-shou-qi-er
-title: 枕上聞急雨二首  其二
-titlePinyin: zhen3 shang4 wen2 ji2 yu3 er4 shou3     qi2 er4
+title: 枕上聞急雨二首・其二
+titlePinyin: zhen3 shang4 wen2 ji2 yu3 er4 shou3・qi2 er4
 titleSlug: zhen-shang-wen-ji-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

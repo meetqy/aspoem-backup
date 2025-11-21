@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhen-shang-kou-zhan-san-shou-qi-er
-title: 枕上口占三首  其二
-titlePinyin: zhen3 shang4 kou3 zhan4 san1 shou3     qi2 er4
+title: 枕上口占三首・其二
+titlePinyin: zhen3 shang4 kou3 zhan4 san1 shou3・qi2 er4
 titleSlug: zhen-shang-kou-zhan-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

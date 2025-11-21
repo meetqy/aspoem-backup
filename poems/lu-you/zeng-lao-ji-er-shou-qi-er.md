@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-lao-ji-er-shou-qi-er
-title: 贈老雞二首  其二
-titlePinyin: zeng4 lao3 ji1 er4 shou3     qi2 er4
+title: 贈老雞二首・其二
+titlePinyin: zeng4 lao3 ji1 er4 shou3・qi2 er4
 titleSlug: zeng-lao-ji-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-zhong-zui-ti-er-shou-qi-yi
-title: 舟中醉題二首  其一
-titlePinyin: zhou1 zhong1 zui4 ti2 er4 shou3     qi2 yi1
+title: 舟中醉題二首・其一
+titlePinyin: zhou1 zhong1 zui4 ti2 er4 shou3・qi2 yi1
 titleSlug: zhou-zhong-zui-ti-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

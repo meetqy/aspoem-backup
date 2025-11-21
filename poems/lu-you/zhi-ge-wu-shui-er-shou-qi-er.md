@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhi-ge-wu-shui-er-shou-qi-er
-title: 紙閣午睡二首  其二
-titlePinyin: zhi3 ge2 wu3 shui4 er4 shou3     qi2 er4
+title: 紙閣午睡二首・其二
+titlePinyin: zhi3 ge2 wu3 shui4 er4 shou3・qi2 er4
 titleSlug: zhi-ge-wu-shui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

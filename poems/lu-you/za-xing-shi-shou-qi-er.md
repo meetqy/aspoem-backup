@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-xing-shi-shou-qi-er
-title: 雜興十首  其二
-titlePinyin: za2 xing1 shi2 shou3     qi2 er4
+title: 雜興十首・其二
+titlePinyin: za2 xing1 shi2 shou3・qi2 er4
 titleSlug: za-xing-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhai-zhong-za-ti-si-shou-qi-er
-title: 齋中雜題四首  其二
-titlePinyin: zhai1 zhong1 za2 ti2 si4 shou3     qi2 er4
+title: 齋中雜題四首・其二
+titlePinyin: zhai1 zhong1 za2 ti2 si4 shou3・qi2 er4
 titleSlug: zhai-zhong-za-ti-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-gan-liu-shou-qi-wu
-title: 雜感六首  其五
-titlePinyin: za2 gan3 liu4 shou3     qi2 wu3
+title: 雜感六首・其五
+titlePinyin: za2 gan3 liu4 shou3・qi2 wu3
 titleSlug: za-gan-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

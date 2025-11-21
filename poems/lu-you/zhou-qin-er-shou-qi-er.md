@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-qin-er-shou-qi-er
-title: 晝寢二首  其二
-titlePinyin: zhou4 qin3 er4 shou3     qi2 er4
+title: 晝寢二首・其二
+titlePinyin: zhou4 qin3 er4 shou3・qi2 er4
 titleSlug: zhou-qin-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

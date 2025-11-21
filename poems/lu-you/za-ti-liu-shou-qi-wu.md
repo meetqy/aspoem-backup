@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-ti-liu-shou-qi-wu
-title: 雜題六首  其五
-titlePinyin: za2 ti2 liu4 shou3     qi2 wu3
+title: 雜題六首・其五
+titlePinyin: za2 ti2 liu4 shou3・qi2 wu3
 titleSlug: za-ti-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

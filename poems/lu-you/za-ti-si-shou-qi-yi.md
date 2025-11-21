@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-ti-si-shou-qi-yi
-title: 雜題四首  其一
-titlePinyin: za2 ti2 si4 shou3     qi2 yi1
+title: 雜題四首・其一
+titlePinyin: za2 ti2 si4 shou3・qi2 yi1
 titleSlug: za-ti-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-shu-you-ju-shi-wu-shou-qi-si
-title: 雜書幽居事五首  其四
-titlePinyin: za2 shu1 you1 ju1 shi4 wu3 shou3     qi2 si4
+title: 雜書幽居事五首・其四
+titlePinyin: za2 shu1 you1 ju1 shi4 wu3 shou3・qi2 si4
 titleSlug: za-shu-you-ju-shi-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

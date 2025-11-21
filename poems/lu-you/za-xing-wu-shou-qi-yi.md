@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-xing-wu-shou-qi-yi
-title: 雜興五首  其一
-titlePinyin: za2 xing1 wu3 shou3     qi2 yi1
+title: 雜興五首・其一
+titlePinyin: za2 xing1 wu3 shou3・qi2 yi1
 titleSlug: za-xing-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

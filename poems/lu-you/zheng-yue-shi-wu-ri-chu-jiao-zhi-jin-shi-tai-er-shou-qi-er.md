@@ -1,7 +1,7 @@
 ---
 id: lu-you-zheng-yue-shi-wu-ri-chu-jiao-zhi-jin-shi-tai-er-shou-qi-er
-title: 正月十五日出郊至金石臺二首  其二
-titlePinyin: zheng1 yue4 shi2 wu3 ri4 chu1 jiao1 zhi4 jin1 shi2 tai2 er4 shou3     qi2 er4
+title: 正月十五日出郊至金石臺二首・其二
+titlePinyin: zheng1 yue4 shi2 wu3 ri4 chu1 jiao1 zhi4 jin1 shi2 tai2 er4 shou3・qi2 er4
 titleSlug: zheng-yue-shi-wu-ri-chu-jiao-zhi-jin-shi-tai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

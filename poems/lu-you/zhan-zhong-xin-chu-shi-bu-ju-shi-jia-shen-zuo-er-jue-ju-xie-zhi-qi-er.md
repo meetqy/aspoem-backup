@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhan-zhong-xin-chu-shi-bu-ju-shi-jia-shen-zuo-er-jue-ju-xie-zhi-qi-er
-title: 詹仲信出示卜居詩佳甚作二絕句謝之  其二
-titlePinyin: zhan1 zhong4 xin4 chu1 shi4 bu3 ju1 shi1 jia1 shen4 zuo4 er4 jue2 ju4 xie4 zhi1     qi2 er4
+title: 詹仲信出示卜居詩佳甚作二絕句謝之・其二
+titlePinyin: zhan1 zhong4 xin4 chu1 shi4 bu3 ju1 shi1 jia1 shen4 zuo4 er4 jue2 ju4 xie4 zhi1・qi2 er4
 titleSlug: zhan-zhong-xin-chu-shi-bu-ju-shi-jia-shen-zuo-er-jue-ju-xie-zhi-qi-er
 author: 陸游
 authorPinyin: lu4 you2

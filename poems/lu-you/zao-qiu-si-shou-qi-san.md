@@ -1,7 +1,7 @@
 ---
 id: lu-you-zao-qiu-si-shou-qi-san
-title: 早秋四首  其三
-titlePinyin: zao3 qiu1 si4 shou3     qi2 san1
+title: 早秋四首・其三
+titlePinyin: zao3 qiu1 si4 shou3・qi2 san1
 titleSlug: zao-qiu-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

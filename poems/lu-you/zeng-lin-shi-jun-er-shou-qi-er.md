@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-lin-shi-jun-er-shou-qi-er
-title: 贈林使君二首  其二
-titlePinyin: zeng4 lin2 shi3 jun1 er4 shou3     qi2 er4
+title: 贈林使君二首・其二
+titlePinyin: zeng4 lin2 shi3 jun1 er4 shou3・qi2 er4
 titleSlug: zeng-lin-shi-jun-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

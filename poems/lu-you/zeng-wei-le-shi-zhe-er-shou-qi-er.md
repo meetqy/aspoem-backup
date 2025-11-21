@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-wei-le-shi-zhe-er-shou-qi-er
-title: 贈惟了侍者二首  其二
-titlePinyin: zeng4 wei2 le0 shi4 zhe3 er4 shou3     qi2 er4
+title: 贈惟了侍者二首・其二
+titlePinyin: zeng4 wei2 le0 shi4 zhe3 er4 shou3・qi2 er4
 titleSlug: zeng-wei-le-shi-zhe-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

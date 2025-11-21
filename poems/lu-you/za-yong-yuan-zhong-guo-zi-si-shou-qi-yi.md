@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-yong-yuan-zhong-guo-zi-si-shou-qi-yi
-title: 雜詠園中果子四首  其一
-titlePinyin: za2 yong3 yuan2 zhong1 guo3 zi0 si4 shou3     qi2 yi1
+title: 雜詠園中果子四首・其一
+titlePinyin: za2 yong3 yuan2 zhong1 guo3 zi0 si4 shou3・qi2 yi1
 titleSlug: za-yong-yuan-zhong-guo-zi-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

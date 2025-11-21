@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-gan-wu-shou-yi-bu-ai-ru-zhou-fu-wei-yun-qi-er
-title: 雜感五首以不愛入州府爲韵  其二
-titlePinyin: za2 gan3 wu3 shou3 yi3 bu2 ai4 ru4 zhou1 fu3 wei2 yun4     qi2 er4
+title: 雜感五首以不愛入州府爲韵・其二
+titlePinyin: za2 gan3 wu3 shou3 yi3 bu2 ai4 ru4 zhou1 fu3 wei2 yun4・qi2 er4
 titleSlug: za-gan-wu-shou-yi-bu-ai-ru-zhou-fu-wei-yun-qi-er
 author: 陸游
 authorPinyin: lu4 you2

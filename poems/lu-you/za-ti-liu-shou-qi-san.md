@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-ti-liu-shou-qi-san
-title: 雜題六首  其三
-titlePinyin: za2 ti2 liu4 shou3     qi2 san1
+title: 雜題六首・其三
+titlePinyin: za2 ti2 liu4 shou3・qi2 san1
 titleSlug: za-ti-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhai-zhong-za-xing-shi-shou-yi-zhang-fu-gui-zhuang-jian-can-qi-fei-zhu-yan-wei-yun-qi-wu
-title: 齋中雜興十首以丈夫貴壯健慘戚非朱顔爲韵  其五
-titlePinyin: zhai1 zhong1 za2 xing1 shi2 shou3 yi3 zhang4 fu0 gui4 zhuang4 jian4 can3 qi1 fei1 zhu1 yan2 wei2 yun4     qi2 wu3
+title: 齋中雜興十首以丈夫貴壯健慘戚非朱顔爲韵・其五
+titlePinyin: zhai1 zhong1 za2 xing1 shi2 shou3 yi3 zhang4 fu0 gui4 zhuang4 jian4 can3 qi1 fei1 zhu1 yan2 wei2 yun4・qi2 wu3
 titleSlug: zhai-zhong-za-xing-shi-shou-yi-zhang-fu-gui-zhuang-jian-can-qi-fei-zhu-yan-wei-yun-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

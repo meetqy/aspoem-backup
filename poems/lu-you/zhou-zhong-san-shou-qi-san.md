@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-zhong-san-shou-qi-san
-title: 舟中三首  其三
-titlePinyin: zhou1 zhong1 san1 shou3     qi2 san1
+title: 舟中三首・其三
+titlePinyin: zhou1 zhong1 san1 shou3・qi2 san1
 titleSlug: zhou-zhong-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

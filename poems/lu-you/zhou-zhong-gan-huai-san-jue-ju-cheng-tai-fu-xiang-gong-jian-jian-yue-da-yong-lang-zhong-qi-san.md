@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-zhong-gan-huai-san-jue-ju-cheng-tai-fu-xiang-gong-jian-jian-yue-da-yong-lang-zhong-qi-san
-title: 舟中感懷三絕句呈太傅相公兼簡岳大用郎中  其三
-titlePinyin: zhou1 zhong1 gan3 huai2 san1 jue2 ju4 cheng2 tai4 fu4 xiang4 gong0 jian1 jian3 yue4 da4 yong4 lang2 zhong1     qi2 san1
+title: 舟中感懷三絕句呈太傅相公兼簡岳大用郎中・其三
+titlePinyin: zhou1 zhong1 gan3 huai2 san1 jue2 ju4 cheng2 tai4 fu4 xiang4 gong0 jian1 jian3 yue4 da4 yong4 lang2 zhong1・qi2 san1
 titleSlug: zhou-zhong-gan-huai-san-jue-ju-cheng-tai-fu-xiang-gong-jian-jian-yue-da-yong-lang-zhong-qi-san
 author: 陸游
 authorPinyin: lu4 you2

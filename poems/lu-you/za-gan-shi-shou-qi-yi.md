@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-gan-shi-shou-qi-yi
-title: 雜感十首  其一○
-titlePinyin: za2 gan3 shi2 shou3     qi2 yi1 ○
+title: 雜感十首・其一○
+titlePinyin: za2 gan3 shi2 shou3・qi2 yi1 ○
 titleSlug: za-gan-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-yong-shi-shou-qi-jiu
-title: 雜詠十首  其九
-titlePinyin: za2 yong3 shi2 shou3     qi2 jiu3
+title: 雜詠十首・其九
+titlePinyin: za2 yong3 shi2 shou3・qi2 jiu3
 titleSlug: za-yong-shi-shou-qi-jiu
 author: 陸游
 authorPinyin: lu4 you2

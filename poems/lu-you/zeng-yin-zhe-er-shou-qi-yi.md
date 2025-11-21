@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-yin-zhe-er-shou-qi-yi
-title: 贈隱者二首  其一
-titlePinyin: zeng4 yin3 zhe3 er4 shou3     qi2 yi1
+title: 贈隱者二首・其一
+titlePinyin: zeng4 yin3 zhe3 er4 shou3・qi2 yi1
 titleSlug: zeng-yin-zhe-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

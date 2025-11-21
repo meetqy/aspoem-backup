@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhen-shang-er-shou-qi-er
-title: 枕上二首  其二
-titlePinyin: zhen3 shang4 er4 shou3     qi2 er4
+title: 枕上二首・其二
+titlePinyin: zhen3 shang4 er4 shou3・qi2 er4
 titleSlug: zhen-shang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

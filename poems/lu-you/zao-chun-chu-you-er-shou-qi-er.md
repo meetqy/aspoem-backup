@@ -1,7 +1,7 @@
 ---
 id: lu-you-zao-chun-chu-you-er-shou-qi-er
-title: 早春出遊二首  其二
-titlePinyin: zao3 chun1 chu1 you2 er4 shou3     qi2 er4
+title: 早春出遊二首・其二
+titlePinyin: zao3 chun1 chu1 you2 er4 shou3・qi2 er4
 titleSlug: zao-chun-chu-you-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

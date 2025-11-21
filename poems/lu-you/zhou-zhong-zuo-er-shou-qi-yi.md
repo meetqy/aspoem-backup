@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-zhong-zuo-er-shou-qi-yi
-title: 舟中作二首  其一
-titlePinyin: zhou1 zhong1 zuo4 er4 shou3     qi2 yi1
+title: 舟中作二首・其一
+titlePinyin: zhou1 zhong1 zuo4 er4 shou3・qi2 yi1
 titleSlug: zhou-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

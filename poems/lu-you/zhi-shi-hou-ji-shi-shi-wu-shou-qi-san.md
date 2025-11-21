@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhi-shi-hou-ji-shi-shi-wu-shou-qi-san
-title: 致仕後即事十五首  其三
-titlePinyin: zhi4 shi4 hou4 ji2 shi4 shi2 wu3 shou3     qi2 san1
+title: 致仕後即事十五首・其三
+titlePinyin: zhi4 shi4 hou4 ji2 shi4 shi2 wu3 shou3・qi2 san1
 titleSlug: zhi-shi-hou-ji-shi-shi-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

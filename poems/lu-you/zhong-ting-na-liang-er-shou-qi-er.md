@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhong-ting-na-liang-er-shou-qi-er
-title: 中庭納凉二首  其二
-titlePinyin: zhong1 ting2 na4 liang2 er4 shou3     qi2 er4
+title: 中庭納凉二首・其二
+titlePinyin: zhong1 ting2 na4 liang2 er4 shou3・qi2 er4
 titleSlug: zhong-ting-na-liang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

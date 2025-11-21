@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-xing-san-shou-qi-san
-title: 雜興三首  其三
-titlePinyin: za2 xing1 san1 shou3     qi2 san1
+title: 雜興三首・其三
+titlePinyin: za2 xing1 san1 shou3・qi2 san1
 titleSlug: za-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

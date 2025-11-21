@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-shu-si-shou-qi-er
-title: 雜書四首  其二
-titlePinyin: za2 shu1 si4 shou3     qi2 er4
+title: 雜書四首・其二
+titlePinyin: za2 shu1 si4 shou3・qi2 er4
 titleSlug: za-shu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

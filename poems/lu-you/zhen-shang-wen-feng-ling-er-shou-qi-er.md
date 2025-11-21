@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhen-shang-wen-feng-ling-er-shou-qi-er
-title: 枕上聞風鈴二首  其二
-titlePinyin: zhen3 shang4 wen2 feng1 ling2 er4 shou3     qi2 er4
+title: 枕上聞風鈴二首・其二
+titlePinyin: zhen3 shang4 wen2 feng1 ling2 er4 shou3・qi2 er4
 titleSlug: zhen-shang-wen-feng-ling-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

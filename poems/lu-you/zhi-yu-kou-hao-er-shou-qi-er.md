@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhi-yu-kou-hao-er-shou-qi-er
-title: 致語口號二首  其二
-titlePinyin: zhi4 yu3 kou3 hao4 er4 shou3     qi2 er4
+title: 致語口號二首・其二
+titlePinyin: zhi4 yu3 kou3 hao4 er4 shou3・qi2 er4
 titleSlug: zhi-yu-kou-hao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

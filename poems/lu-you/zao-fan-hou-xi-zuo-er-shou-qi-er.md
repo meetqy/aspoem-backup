@@ -1,7 +1,7 @@
 ---
 id: lu-you-zao-fan-hou-xi-zuo-er-shou-qi-er
-title: 早飯後戲作二首  其二
-titlePinyin: zao3 fan4 hou4 xi4 zuo4 er4 shou3     qi2 er4
+title: 早飯後戲作二首・其二
+titlePinyin: zao3 fan4 hou4 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: zao-fan-hou-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

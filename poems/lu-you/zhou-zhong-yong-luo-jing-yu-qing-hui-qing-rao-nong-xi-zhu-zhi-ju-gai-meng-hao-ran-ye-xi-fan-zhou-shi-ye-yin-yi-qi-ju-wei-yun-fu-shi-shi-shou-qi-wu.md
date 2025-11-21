@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-zhong-yong-luo-jing-yu-qing-hui-qing-rao-nong-xi-zhu-zhi-ju-gai-meng-hao-ran-ye-xi-fan-zhou-shi-ye-yin-yi-qi-ju-wei-yun-fu-shi-shi-shou-qi-wu
-title: 舟中詠落景餘清暉輕橈弄溪渚之句蓋孟浩然耶溪泛舟詩也因以其句爲韵賦詩十首  其五
-titlePinyin: zhou1 zhong1 yong3 luo4 jing3 yu2 qing1 hui1 qing1 rao2 nong4 xi1 zhu3 zhi1 ju4 gai4 meng4 hao4 ran2 ye1 xi1 fan4 zhou1 shi1 ye3 yin1 yi3 qi2 ju4 wei2 yun4 fu4 shi1 shi2 shou3     qi2 wu3
+title: 舟中詠落景餘清暉輕橈弄溪渚之句蓋孟浩然耶溪泛舟詩也因以其句爲韵賦詩十首・其五
+titlePinyin: zhou1 zhong1 yong3 luo4 jing3 yu2 qing1 hui1 qing1 rao2 nong4 xi1 zhu3 zhi1 ju4 gai4 meng4 hao4 ran2 ye1 xi1 fan4 zhou1 shi1 ye3 yin1 yi3 qi2 ju4 wei2 yun4 fu4 shi1 shi2 shou3・qi2 wu3
 titleSlug: zhou-zhong-yong-luo-jing-yu-qing-hui-qing-rao-nong-xi-zhu-zhi-ju-gai-meng-hao-ran-ye-xi-fan-zhou-shi-ye-yin-yi-qi-ju-wei-yun-fu-shi-shi-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

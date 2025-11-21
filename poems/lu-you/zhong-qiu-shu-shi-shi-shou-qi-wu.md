@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhong-qiu-shu-shi-shi-shou-qi-wu
-title: 仲秋書事十首  其五
-titlePinyin: zhong4 qiu1 shu1 shi4 shi2 shou3     qi2 wu3
+title: 仲秋書事十首・其五
+titlePinyin: zhong4 qiu1 shu1 shi4 shi2 shou3・qi2 wu3
 titleSlug: zhong-qiu-shu-shi-shi-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

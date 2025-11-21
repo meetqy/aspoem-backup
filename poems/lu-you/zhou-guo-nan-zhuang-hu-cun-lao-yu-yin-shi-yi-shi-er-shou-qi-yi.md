@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhou-guo-nan-zhuang-hu-cun-lao-yu-yin-shi-yi-shi-er-shou-qi-yi
-title: 舟過南莊呼村老與飲示以詩二首  其一
-titlePinyin: zhou1 guo4 nan2 zhuang1 hu1 cun1 lao3 yu3 yin3 shi4 yi3 shi1 er4 shou3     qi2 yi1
+title: 舟過南莊呼村老與飲示以詩二首・其一
+titlePinyin: zhou1 guo4 nan2 zhuang1 hu1 cun1 lao3 yu3 yin3 shi4 yi3 shi1 er4 shou3・qi2 yi1
 titleSlug: zhou-guo-nan-zhuang-hu-cun-lao-yu-yin-shi-yi-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

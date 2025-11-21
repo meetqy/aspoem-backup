@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-gan-wu-shou-qi-san
-title: 雜感五首  其三
-titlePinyin: za2 gan3 wu3 shou3     qi2 san1
+title: 雜感五首・其三
+titlePinyin: za2 gan3 wu3 shou3・qi2 san1
 titleSlug: za-gan-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

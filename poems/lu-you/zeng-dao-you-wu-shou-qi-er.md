@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-dao-you-wu-shou-qi-er
-title: 贈道友五首  其二
-titlePinyin: zeng4 dao4 you3 wu3 shou3     qi2 er4
+title: 贈道友五首・其二
+titlePinyin: zeng4 dao4 you3 wu3 shou3・qi2 er4
 titleSlug: zeng-dao-you-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

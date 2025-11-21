@@ -1,7 +1,7 @@
 ---
 id: lu-you-zeng-ni-dao-shi-er-shou-qi-yi
-title: 贈倪道士二首  其一
-titlePinyin: zeng4 ni2 dao4 shi0 er4 shou3     qi2 yi1
+title: 贈倪道士二首・其一
+titlePinyin: zeng4 ni2 dao4 shi0 er4 shou3・qi2 yi1
 titleSlug: zeng-ni-dao-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-gan-shi-shou-yi-ye-kuang-sha-an-jing-tian-gao-qiu-yue-ming-wei-yun-qi-si
-title: 雜感十首以野曠沙岸浄天高秋月明爲韵  其四
-titlePinyin: za2 gan3 shi2 shou3 yi3 ye3 kuang4 sha1 an4 jing4 tian1 gao1 qiu1 yue4 ming2 wei2 yun4     qi2 si4
+title: 雜感十首以野曠沙岸浄天高秋月明爲韵・其四
+titlePinyin: za2 gan3 shi2 shou3 yi3 ye3 kuang4 sha1 an4 jing4 tian1 gao1 qiu1 yue4 ming2 wei2 yun4・qi2 si4
 titleSlug: za-gan-shi-shou-yi-ye-kuang-sha-an-jing-tian-gao-qiu-yue-ming-wei-yun-qi-si
 author: 陸游
 authorPinyin: lu4 you2

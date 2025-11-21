@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhong-cai-si-shou-qi-er
-title: 種菜四首  其二
-titlePinyin: zhong3 cai4 si4 shou3     qi2 er4
+title: 種菜四首・其二
+titlePinyin: zhong3 cai4 si4 shou3・qi2 er4
 titleSlug: zhong-cai-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
