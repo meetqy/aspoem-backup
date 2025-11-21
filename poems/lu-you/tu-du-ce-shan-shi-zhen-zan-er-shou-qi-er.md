@@ -1,7 +1,7 @@
 ---
 id: lu-you-tu-du-ce-shan-shi-zhen-zan-er-shou-qi-er
-title: 塗毒策禪師真贊二首  其二
-titlePinyin: tu2 du2 ce4 shan4 shi1 zhen1 zan4 er4 shou3     qi2 er4
+title: 塗毒策禪師真贊二首・其二
+titlePinyin: tu2 du2 ce4 shan4 shi1 zhen1 zan4 er4 shou3・qi2 er4
 titleSlug: tu-du-ce-shan-shi-zhen-zan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

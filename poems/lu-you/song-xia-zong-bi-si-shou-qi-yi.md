@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-xia-zong-bi-si-shou-qi-yi
-title: 松下縱筆四首  其一
-titlePinyin: song1 xia4 zong4 bi3 si4 shou3     qi2 yi1
+title: 松下縱筆四首・其一
+titlePinyin: song1 xia4 zong4 bi3 si4 shou3・qi2 yi1
 titleSlug: song-xia-zong-bi-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-yi-er-shou-qi-er
-title: 書意二首  其二
-titlePinyin: shu1 yi4 er4 shou3     qi2 er4
+title: 書意二首・其二
+titlePinyin: shu1 yi4 er4 shou3・qi2 er4
 titleSlug: shu-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

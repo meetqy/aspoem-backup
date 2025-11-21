@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-wan-you-xing-si-shou-qi-yi
-title: 歲晚幽興四首  其一
-titlePinyin: sui4 wan3 you1 xing1 si4 shou3     qi2 yi1
+title: 歲晚幽興四首・其一
+titlePinyin: sui4 wan3 you1 xing1 si4 shou3・qi2 yi1
 titleSlug: sui-wan-you-xing-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

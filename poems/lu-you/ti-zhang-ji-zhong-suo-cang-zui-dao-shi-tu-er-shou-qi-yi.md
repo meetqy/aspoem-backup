@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-zhang-ji-zhong-suo-cang-zui-dao-shi-tu-er-shou-qi-yi
-title: 題張幾仲所藏醉道士圖二首  其一
-titlePinyin: ti2 zhang1 ji1 zhong4 suo3 cang2 zui4 dao4 shi0 tu2 er4 shou3     qi2 yi1
+title: 題張幾仲所藏醉道士圖二首・其一
+titlePinyin: ti2 zhang1 ji1 zhong4 suo3 cang2 zui4 dao4 shi0 tu2 er4 shou3・qi2 yi1
 titleSlug: ti-zhang-ji-zhong-suo-cang-zui-dao-shi-tu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

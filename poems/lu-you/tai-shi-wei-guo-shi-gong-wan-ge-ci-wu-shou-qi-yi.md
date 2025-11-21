@@ -1,7 +1,7 @@
 ---
 id: lu-you-tai-shi-wei-guo-shi-gong-wan-ge-ci-wu-shou-qi-yi
-title: 太師魏國史公挽歌詞五首  其一
-titlePinyin: tai4 shi1 wei4 guo2 shi3 gong1 wan3 ge1 ci2 wu3 shou3     qi2 yi1
+title: 太師魏國史公挽歌詞五首・其一
+titlePinyin: tai4 shi1 wei4 guo2 shi3 gong1 wan3 ge1 ci2 wu3 shou3・qi2 yi1
 titleSlug: tai-shi-wei-guo-shi-gong-wan-ge-ci-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

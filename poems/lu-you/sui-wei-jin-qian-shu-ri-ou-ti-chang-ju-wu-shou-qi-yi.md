@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-wei-jin-qian-shu-ri-ou-ti-chang-ju-wu-shou-qi-yi
-title: 歲未盡前數日偶題長句五首  其一
-titlePinyin: sui4 wei4 jin4 qian2 shu4 ri4 ou3 ti2 chang2 ju4 wu3 shou3     qi2 yi1
+title: 歲未盡前數日偶題長句五首・其一
+titlePinyin: sui4 wei4 jin4 qian2 shu4 ri4 ou3 ti2 chang2 ju4 wu3 shou3・qi2 yi1
 titleSlug: sui-wei-jin-qian-shu-ri-ou-ti-chang-ju-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-san-mao-shao-dao-shi-yun-yin-er-shou-qi-er
-title: 題三茆邵道士雲隱二首  其二
-titlePinyin: ti2 san1 mao2 shao4 dao4 shi0 yun2 yin3 er4 shou3     qi2 er4
+title: 題三茆邵道士雲隱二首・其二
+titlePinyin: ti2 san1 mao2 shao4 dao4 shi0 yun2 yin3 er4 shou3・qi2 er4
 titleSlug: ti-san-mao-shao-dao-shi-yun-yin-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

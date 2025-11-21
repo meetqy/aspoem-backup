@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-bei-lin-han-san-weng-xi-lin-yin-an-zhu-nan-lin-zhang-lao-xiu-cai-er-shou-qi-yi
-title: 思北鄰韓三翁西鄰因庵主南鄰章老秀才二首  其一
-titlePinyin: si1 bei3 lin2 han2 san1 weng1 xi1 lin2 yin1 an1 zhu3 nan2 lin2 zhang1 lao3 xiu4 cai0 er4 shou3     qi2 yi1
+title: 思北鄰韓三翁西鄰因庵主南鄰章老秀才二首・其一
+titlePinyin: si1 bei3 lin2 han2 san1 weng1 xi1 lin2 yin1 an1 zhu3 nan2 lin2 zhang1 lao3 xiu4 cai0 er4 shou3・qi2 yi1
 titleSlug: si-bei-lin-han-san-weng-xi-lin-yin-an-zhu-nan-lin-zhang-lao-xiu-cai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

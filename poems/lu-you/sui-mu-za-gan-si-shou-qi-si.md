@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-mu-za-gan-si-shou-qi-si
-title: 歲暮雜感四首  其四
-titlePinyin: sui4 mu4 za2 gan3 si4 shou3     qi2 si4
+title: 歲暮雜感四首・其四
+titlePinyin: sui4 mu4 za2 gan3 si4 shou3・qi2 si4
 titleSlug: sui-mu-za-gan-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

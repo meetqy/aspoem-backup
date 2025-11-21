@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-rui-guo-qi-si-ye-er-shou-qi-er
-title: 送芮國器司業二首  其二
-titlePinyin: song4 rui4 guo2 qi4 si1 ye4 er4 shou3     qi2 er4
+title: 送芮國器司業二首・其二
+titlePinyin: song4 rui4 guo2 qi4 si1 ye4 er4 shou3・qi2 er4
 titleSlug: song-rui-guo-qi-si-ye-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

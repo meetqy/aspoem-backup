@@ -1,7 +1,7 @@
 ---
 id: lu-you-su-shang-qing-gong-qi-er
-title: 宿上清宫  其二
-titlePinyin: su4 shang4 qing1 gong1     qi2 er4
+title: 宿上清宫・其二
+titlePinyin: su4 shang4 qing1 gong1・qi2 er4
 titleSlug: su-shang-qing-gong-qi-er
 author: 陸游
 authorPinyin: lu4 you2

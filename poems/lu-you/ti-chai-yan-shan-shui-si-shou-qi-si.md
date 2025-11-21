@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-chai-yan-shan-shui-si-shou-qi-si
-title: 題柴言山水四首  其四
-titlePinyin: ti2 chai2 yan2 shan1 shui3 si4 shou3     qi2 si4
+title: 題柴言山水四首・其四
+titlePinyin: ti2 chai2 yan2 shan1 shui3 si4 shou3・qi2 si4
 titleSlug: ti-chai-yan-shan-shui-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-tian-zhu-xiao-xing-er-shou-qi-yi
-title: 天竺曉行二首  其一
-titlePinyin: tian1 zhu2 xiao3 xing2 er4 shou3     qi2 yi1
+title: 天竺曉行二首・其一
+titlePinyin: tian1 zhu2 xiao3 xing2 er4 shou3・qi2 yi1
 titleSlug: tian-zhu-xiao-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

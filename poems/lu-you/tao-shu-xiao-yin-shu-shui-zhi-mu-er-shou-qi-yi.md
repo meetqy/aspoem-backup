@@ -1,7 +1,7 @@
 ---
 id: lu-you-tao-shu-xiao-yin-shu-shui-zhi-mu-er-shou-qi-yi
-title: 逃暑小飲熟睡至暮二首  其一
-titlePinyin: tao2 shu3 xiao3 yin3 shu2 shui4 zhi4 mu4 er4 shou3     qi2 yi1
+title: 逃暑小飲熟睡至暮二首・其一
+titlePinyin: tao2 shu3 xiao3 yin3 shu2 shui4 zhi4 mu4 er4 shou3・qi2 yi1
 titleSlug: tao-shu-xiao-yin-shu-shui-zhi-mu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

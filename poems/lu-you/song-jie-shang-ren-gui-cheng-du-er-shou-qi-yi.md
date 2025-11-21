@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-jie-shang-ren-gui-cheng-du-er-shou-qi-yi
-title: 送傑上人歸成都二首  其一
-titlePinyin: song4 jie2 shang4 ren2 gui1 cheng2 du1 er4 shou3     qi2 yi1
+title: 送傑上人歸成都二首・其一
+titlePinyin: song4 jie2 shang4 ren2 gui1 cheng2 du1 er4 shou3・qi2 yi1
 titleSlug: song-jie-shang-ren-gui-cheng-du-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

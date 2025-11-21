@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-yuan-za-yong-wu-jing
-title: 蔬園雜詠 蕪菁
-titlePinyin: shu1 yuan2 za2 yong3   wu2 jing1
+title: 蔬園雜詠・蕪菁
+titlePinyin: shu1 yuan2 za2 yong3・wu2 jing1
 titleSlug: shu-yuan-za-yong-wu-jing
 author: 陸游
 authorPinyin: lu4 you2

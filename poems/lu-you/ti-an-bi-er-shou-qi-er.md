@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-an-bi-er-shou-qi-er
-title: 題庵壁二首  其二
-titlePinyin: ti2 an1 bi4 er4 shou3     qi2 er4
+title: 題庵壁二首・其二
+titlePinyin: ti2 an1 bi4 er4 shou3・qi2 er4
 titleSlug: ti-an-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

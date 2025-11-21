@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-ying-shang-ren-er-hua-wu-jiang
-title: 題瑩上人二畫 吳江
-titlePinyin: ti2 ying2 shang4 ren2 er4 hua4   wu2 jiang1
+title: 題瑩上人二畫・吳江
+titlePinyin: ti2 ying2 shang4 ren2 er4 hua4・wu2 jiang1
 titleSlug: ti-ying-shang-ren-er-hua-wu-jiang
 author: 陸游
 authorPinyin: lu4 you2

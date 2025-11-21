@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-ta-ben-jiang-chu-gong-ying-er-shou-qi-er
-title: 題搨本姜楚公鷹二首  其二
-titlePinyin: ti2 ta4 ben3 jiang1 chu3 gong1 ying1 er4 shou3     qi2 er4
+title: 題搨本姜楚公鷹二首・其二
+titlePinyin: ti2 ta4 ben3 jiang1 chu3 gong1 ying1 er4 shou3・qi2 er4
 titleSlug: ti-ta-ben-jiang-chu-gong-ying-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

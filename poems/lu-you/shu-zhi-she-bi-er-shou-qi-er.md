@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-zhi-she-bi-er-shou-qi-er
-title: 書直舍壁二首  其二
-titlePinyin: shu1 zhi2 she4 bi4 er4 shou3     qi2 er4
+title: 書直舍壁二首・其二
+titlePinyin: shu1 zhi2 she4 bi4 er4 shou3・qi2 er4
 titleSlug: shu-zhi-she-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

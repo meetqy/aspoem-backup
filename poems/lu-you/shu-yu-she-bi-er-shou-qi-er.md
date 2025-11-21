@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-yu-she-bi-er-shou-qi-er
-title: 書寓舍壁二首  其二
-titlePinyin: shu1 yu4 she4 bi4 er4 shou3     qi2 er4
+title: 書寓舍壁二首・其二
+titlePinyin: shu1 yu4 she4 bi4 er4 shou3・qi2 er4
 titleSlug: shu-yu-she-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

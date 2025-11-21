@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-wan-er-shou-qi-yi
-title: 歲晚二首  其一
-titlePinyin: sui4 wan3 er4 shou3     qi2 yi1
+title: 歲晚二首・其一
+titlePinyin: sui4 wan3 er4 shou3・qi2 yi1
 titleSlug: sui-wan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-chuo-zhi-zhu-an-wu-xing-shan-zhong-er-shou-qi-yi
-title: 送綽姪住庵吴興山中二首  其一
-titlePinyin: song4 chuo4 zhi2 zhu4 an1 wu2 xing1 shan1 zhong1 er4 shou3     qi2 yi1
+title: 送綽姪住庵吴興山中二首・其一
+titlePinyin: song4 chuo4 zhi2 zhu4 an1 wu2 xing1 shan1 zhong1 er4 shou3・qi2 yi1
 titleSlug: song-chuo-zhi-zhu-an-wu-xing-shan-zhong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

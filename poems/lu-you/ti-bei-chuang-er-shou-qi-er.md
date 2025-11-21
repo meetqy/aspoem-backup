@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-bei-chuang-er-shou-qi-er
-title: 題北窗二首  其二
-titlePinyin: ti2 bei3 chuang1 er4 shou3     qi2 er4
+title: 題北窗二首・其二
+titlePinyin: ti2 bei3 chuang1 er4 shou3・qi2 er4
 titleSlug: ti-bei-chuang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

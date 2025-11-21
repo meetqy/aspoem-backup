@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-shu-si-shou-qi-san
-title: 思蜀四首  其三
-titlePinyin: si1 shu3 si4 shou3     qi2 san1
+title: 思蜀四首・其三
+titlePinyin: si1 shu3 si4 shou3・qi2 san1
 titleSlug: si-shu-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

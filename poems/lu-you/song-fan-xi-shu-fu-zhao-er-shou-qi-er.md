@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-fan-xi-shu-fu-zhao-er-shou-qi-er
-title: 送范西叔赴召二首  其二
-titlePinyin: song4 fan4 xi1 shu1 fu4 zhao4 er4 shou3     qi2 er4
+title: 送范西叔赴召二首・其二
+titlePinyin: song4 fan4 xi1 shu1 fu4 zhao4 er4 shou3・qi2 er4
 titleSlug: song-fan-xi-shu-fu-zhao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

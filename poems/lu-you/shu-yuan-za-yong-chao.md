@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-yuan-za-yong-chao
-title: 蔬園雜詠 巢
-titlePinyin: shu1 yuan2 za2 yong3   chao2
+title: 蔬園雜詠・巢
+titlePinyin: shu1 yuan2 za2 yong3・chao2
 titleSlug: shu-yuan-za-yong-chao
 author: 陸游
 authorPinyin: lu4 you2

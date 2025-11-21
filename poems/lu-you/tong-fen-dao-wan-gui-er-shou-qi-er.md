@@ -1,7 +1,7 @@
 ---
 id: lu-you-tong-fen-dao-wan-gui-er-shou-qi-er
-title: 統分稻晚歸二首  其二
-titlePinyin: tong3 fen1 dao4 wan3 gui1 er4 shou3     qi2 er4
+title: 統分稻晚歸二首・其二
+titlePinyin: tong3 fen1 dao4 wan3 gui1 er4 shou3・qi2 er4
 titleSlug: tong-fen-dao-wan-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

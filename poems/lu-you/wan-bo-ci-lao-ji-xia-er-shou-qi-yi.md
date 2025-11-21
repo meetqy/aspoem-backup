@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-bo-ci-lao-ji-xia-er-shou-qi-yi
-title: 晚泊慈姥磯下二首  其一
-titlePinyin: wan3 bo2 ci2 lao3 ji1 xia4 er4 shou3     qi2 yi1
+title: 晚泊慈姥磯下二首・其一
+titlePinyin: wan3 bo2 ci2 lao3 ji1 xia4 er4 shou3・qi2 yi1
 titleSlug: wan-bo-ci-lao-ji-xia-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

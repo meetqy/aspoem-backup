@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-chun-er-shou-qi-er
-title: 晚春二首  其二
-titlePinyin: wan3 chun1 er4 shou3     qi2 er4
+title: 晚春二首・其二
+titlePinyin: wan3 chun1 er4 shou3・qi2 er4
 titleSlug: wan-chun-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

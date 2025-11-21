@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-you-ju-bi-er-shou-qi-yi
-title: 題幽居壁二首  其一
-titlePinyin: ti2 you1 ju1 bi4 er4 shou3     qi2 yi1
+title: 題幽居壁二首・其一
+titlePinyin: ti2 you1 ju1 bi4 er4 shou3・qi2 yi1
 titleSlug: ti-you-ju-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

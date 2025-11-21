@@ -1,7 +1,7 @@
 ---
 id: lu-you-shuang-tian-za-xing-san-shou-qi-san
-title: 霜天雜興三首  其三
-titlePinyin: shuang1 tian1 za2 xing1 san1 shou3     qi2 san1
+title: 霜天雜興三首・其三
+titlePinyin: shuang1 tian1 za2 xing1 san1 shou3・qi2 san1
 titleSlug: shuang-tian-za-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

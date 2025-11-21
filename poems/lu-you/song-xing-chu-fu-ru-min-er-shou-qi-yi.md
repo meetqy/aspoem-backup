@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-xing-chu-fu-ru-min-er-shou-qi-yi
-title: 送邢芻甫入閩二首  其一
-titlePinyin: song4 xing2 chu2 fu3 ru4 min3 er4 shou3     qi2 yi1
+title: 送邢芻甫入閩二首・其一
+titlePinyin: song4 xing2 chu2 fu3 ru4 min3 er4 shou3・qi2 yi1
 titleSlug: song-xing-chu-fu-ru-min-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-chun-dong-yuan-zuo-er-shou-qi-yi
-title: 晚春東園作二首  其一
-titlePinyin: wan3 chun1 dong1 yuan2 zuo4 er4 shou3     qi2 yi1
+title: 晚春東園作二首・其一
+titlePinyin: wan3 chun1 dong1 yuan2 zuo4 er4 shou3・qi2 yi1
 titleSlug: wan-chun-dong-yuan-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

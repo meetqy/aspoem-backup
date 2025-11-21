@@ -1,7 +1,7 @@
 ---
 id: lu-you-shui-xiang-fan-zhou-er-shou-qi-er
-title: 水鄉泛舟二首  其二
-titlePinyin: shui3 xiang1 fan4 zhou1 er4 shou3     qi2 er4
+title: 水鄉泛舟二首・其二
+titlePinyin: shui3 xiang1 fan4 zhou1 er4 shou3・qi2 er4
 titleSlug: shui-xiang-fan-zhou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

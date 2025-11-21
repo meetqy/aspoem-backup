@@ -1,7 +1,7 @@
 ---
 id: lu-you-tai-xi-si-shou-qi-er
-title: 太息四首  其二
-titlePinyin: tai4 xi1 si4 shou3     qi2 er4
+title: 太息四首・其二
+titlePinyin: tai4 xi1 si4 shou3・qi2 er4
 titleSlug: tai-xi-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

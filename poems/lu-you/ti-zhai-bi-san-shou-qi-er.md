@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-zhai-bi-san-shou-qi-er
-title: 題齋壁三首  其二
-titlePinyin: ti2 zhai1 bi4 san1 shou3     qi2 er4
+title: 題齋壁三首・其二
+titlePinyin: ti2 zhai1 bi4 san1 shou3・qi2 er4
 titleSlug: ti-zhai-bi-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

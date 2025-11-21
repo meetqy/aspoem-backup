@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-xi-san-shou-qi-er
-title: 書喜三首  其二
-titlePinyin: shu1 xi3 san1 shou3     qi2 er4
+title: 書喜三首・其二
+titlePinyin: shu1 xi3 san1 shou3・qi2 er4
 titleSlug: shu-xi-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

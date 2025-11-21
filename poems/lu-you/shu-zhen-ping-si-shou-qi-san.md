@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-zhen-ping-si-shou-qi-san
-title: 書枕屏四首  其三
-titlePinyin: shu1 zhen3 ping2 si4 shou3     qi2 san1
+title: 書枕屏四首・其三
+titlePinyin: shu1 zhen3 ping2 si4 shou3・qi2 san1
 titleSlug: shu-zhen-ping-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

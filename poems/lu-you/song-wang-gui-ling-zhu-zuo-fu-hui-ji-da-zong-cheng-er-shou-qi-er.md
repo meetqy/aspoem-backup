@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-wang-gui-ling-zhu-zuo-fu-hui-ji-da-zong-cheng-er-shou-qi-er
-title: 送王龜齡著作赴會稽大宗丞二首  其二
-titlePinyin: song4 wang2 gui1 ling2 zhu4 zuo4 fu4 hui4 ji1 da4 zong1 cheng2 er4 shou3     qi2 er4
+title: 送王龜齡著作赴會稽大宗丞二首・其二
+titlePinyin: song4 wang2 gui1 ling2 zhu4 zuo4 fu4 hui4 ji1 da4 zong1 cheng2 er4 shou3・qi2 er4
 titleSlug: song-wang-gui-ling-zhu-zuo-fu-hui-ji-da-zong-cheng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

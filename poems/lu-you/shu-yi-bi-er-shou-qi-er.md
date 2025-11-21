@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-yi-bi-er-shou-qi-er
-title: 書驛壁二首  其二
-titlePinyin: shu1 yi4 bi4 er4 shou3     qi2 er4
+title: 書驛壁二首・其二
+titlePinyin: shu1 yi4 bi4 er4 shou3・qi2 er4
 titleSlug: shu-yi-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-shi-yuan-bi-si-shou-qi-san
-title: 題史院壁四首  其三
-titlePinyin: ti2 shi3 yuan4 bi4 si4 shou3     qi2 san1
+title: 題史院壁四首・其三
+titlePinyin: ti2 shi3 yuan4 bi4 si4 shou3・qi2 san1
 titleSlug: ti-shi-yuan-bi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

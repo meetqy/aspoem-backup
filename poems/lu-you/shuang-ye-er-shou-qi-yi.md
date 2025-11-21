@@ -1,7 +1,7 @@
 ---
 id: lu-you-shuang-ye-er-shou-qi-yi
-title: 霜夜二首  其一
-titlePinyin: shuang1 ye4 er4 shou3     qi2 yi1
+title: 霜夜二首・其一
+titlePinyin: shuang1 ye4 er4 shou3・qi2 yi1
 titleSlug: shuang-ye-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

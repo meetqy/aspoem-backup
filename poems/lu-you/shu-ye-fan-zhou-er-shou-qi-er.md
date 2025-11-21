@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-ye-fan-zhou-er-shou-qi-er
-title: 暑夜泛舟二首  其二
-titlePinyin: shu3 ye4 fan4 zhou1 er4 shou3     qi2 er4
+title: 暑夜泛舟二首・其二
+titlePinyin: shu3 ye4 fan4 zhou1 er4 shou3・qi2 er4
 titleSlug: shu-ye-fan-zhou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-ying-shang-ren-er-hua-yan-xi
-title: 題瑩上人二畫 剡谿
-titlePinyin: ti2 ying2 shang4 ren2 er4 hua4   yan3 xi1
+title: 題瑩上人二畫・剡谿
+titlePinyin: ti2 ying2 shang4 ren2 er4 hua4・yan3 xi1
 titleSlug: ti-ying-shang-ren-er-hua-yan-xi
 author: 陸游
 authorPinyin: lu4 you2

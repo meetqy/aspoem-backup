@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-xiang-du-li-er-hua-xue-jing
-title: 題庠闍黎二畫 雪景
-titlePinyin: ti2 xiang2 du1 li2 er4 hua4   xue3 jing3
+title: 題庠闍黎二畫・雪景
+titlePinyin: ti2 xiang2 du1 li2 er4 hua4・xue3 jing3
 titleSlug: ti-xiang-du-li-er-hua-xue-jing
 author: 陸游
 authorPinyin: lu4 you2

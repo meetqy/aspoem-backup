@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-she-bi-er-shou-qi-yi
-title: 題舍壁二首  其一
-titlePinyin: ti2 she4 bi4 er4 shou3     qi2 yi1
+title: 題舍壁二首・其一
+titlePinyin: ti2 she4 bi4 er4 shou3・qi2 yi1
 titleSlug: ti-she-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

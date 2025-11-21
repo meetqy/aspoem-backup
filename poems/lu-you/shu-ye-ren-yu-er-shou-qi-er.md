@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-ye-ren-yu-er-shou-qi-er
-title: 述野人語二首  其二
-titlePinyin: shu4 ye3 ren2 yu3 er4 shou3     qi2 er4
+title: 述野人語二首・其二
+titlePinyin: shu4 ye3 ren2 yu3 er4 shou3・qi2 er4
 titleSlug: shu-ye-ren-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

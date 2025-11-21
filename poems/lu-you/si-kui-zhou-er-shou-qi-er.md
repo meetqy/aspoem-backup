@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-kui-zhou-er-shou-qi-er
-title: 思夔州二首  其二
-titlePinyin: si1 kui2 zhou1 er4 shou3     qi2 er4
+title: 思夔州二首・其二
+titlePinyin: si1 kui2 zhou1 er4 shou3・qi2 er4
 titleSlug: si-kui-zhou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

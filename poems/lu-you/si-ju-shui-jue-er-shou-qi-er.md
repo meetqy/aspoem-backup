@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-ju-shui-jue-er-shou-qi-er
-title: 寺居睡覺二首  其二
-titlePinyin: si4 ju1 shui4 jue2 er4 shou3     qi2 er4
+title: 寺居睡覺二首・其二
+titlePinyin: si4 ju1 shui4 jue2 er4 shou3・qi2 er4
 titleSlug: si-ju-shui-jue-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-zhan-zhong-xin-suo-cang-mi-yuan-hui-yun-shan-xiao-fu-er-shou-qi-er
-title: 題詹仲信所藏米元暉雲山小幅二首  其二
-titlePinyin: ti2 zhan1 zhong4 xin4 suo3 cang2 mi3 yuan2 hui1 yun2 shan1 xiao3 fu2 er4 shou3     qi2 er4
+title: 題詹仲信所藏米元暉雲山小幅二首・其二
+titlePinyin: ti2 zhan1 zhong4 xin4 suo3 cang2 mi3 yuan2 hui1 yun2 shan1 xiao3 fu2 er4 shou3・qi2 er4
 titleSlug: ti-zhan-zhong-xin-suo-cang-mi-yuan-hui-yun-shan-xiao-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

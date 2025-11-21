@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-mu-gan-huai-shi-shou-yi-yu-nian-liang-wu-ji-xiu-ri-chuang-yi-po-wei-yun-qi-yi
-title: 歲暮感懷十首以餘年諒無幾休日愴已迫爲韵  其一○
-titlePinyin: sui4 mu4 gan3 huai2 shi2 shou3 yi3 yu2 nian2 liang4 wu2 ji1 xiu1 ri4 chuang4 yi3 po4 wei2 yun4     qi2 yi1 ○
+title: 歲暮感懷十首以餘年諒無幾休日愴已迫爲韵・其一○
+titlePinyin: sui4 mu4 gan3 huai2 shi2 shou3 yi3 yu2 nian2 liang4 wu2 ji1 xiu1 ri4 chuang4 yi3 po4 wei2 yun4・qi2 yi1 ○
 titleSlug: sui-mu-gan-huai-shi-shou-yi-yu-nian-liang-wu-ji-xiu-ri-chuang-yi-po-wei-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shuai-bing-er-shou-qi-yi
-title: 衰病二首  其一
-titlePinyin: shuai1 bing4 er4 shou3     qi2 yi1
+title: 衰病二首・其一
+titlePinyin: shuai1 bing4 er4 shou3・qi2 yi1
 titleSlug: shuai-bing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

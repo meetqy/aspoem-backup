@@ -1,7 +1,7 @@
 ---
 id: lu-you-su-yu-liang-yi-wu-gu-qi-xing-you-gan-er-shou-qi-yi
-title: 宿魚梁驛五鼓起行有感二首  其一
-titlePinyin: su4 yu2 liang2 yi4 wu3 gu3 qi3 xing2 you3 gan3 er4 shou3     qi2 yi1
+title: 宿魚梁驛五鼓起行有感二首・其一
+titlePinyin: su4 yu2 liang2 yi4 wu3 gu3 qi3 xing2 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: su-yu-liang-yi-wu-gu-qi-xing-you-gan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

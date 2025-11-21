@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-hua-bo-he-shan-er-shou-qi-yi
-title: 題畫薄荷扇二首  其一
-titlePinyin: ti2 hua4 bo4 he0 shan4 er4 shou3     qi2 yi1
+title: 題畫薄荷扇二首・其一
+titlePinyin: ti2 hua4 bo4 he0 shan4 er4 shou3・qi2 yi1
 titleSlug: ti-hua-bo-he-shan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

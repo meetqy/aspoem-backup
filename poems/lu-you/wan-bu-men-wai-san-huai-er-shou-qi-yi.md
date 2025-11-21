@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-bu-men-wai-san-huai-er-shou-qi-yi
-title: 晚步門外散懷二首  其一
-titlePinyin: wan3 bu4 men2 wai4 san4 huai2 er4 shou3     qi2 yi1
+title: 晚步門外散懷二首・其一
+titlePinyin: wan3 bu4 men2 wai4 san4 huai2 er4 shou3・qi2 yi1
 titleSlug: wan-bu-men-wai-san-huai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

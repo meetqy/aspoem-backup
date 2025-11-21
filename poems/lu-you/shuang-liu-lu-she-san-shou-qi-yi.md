@@ -1,7 +1,7 @@
 ---
 id: lu-you-shuang-liu-lu-she-san-shou-qi-yi
-title: 雙流旅舍三首  其一
-titlePinyin: shuang1 liu2 lü3 she4 san1 shou3     qi2 yi1
+title: 雙流旅舍三首・其一
+titlePinyin: shuang1 liu2 lü3 she4 san1 shou3・qi2 yi1
 titleSlug: shuang-liu-lu-she-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

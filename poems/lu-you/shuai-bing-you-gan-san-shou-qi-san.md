@@ -1,7 +1,7 @@
 ---
 id: lu-you-shuai-bing-you-gan-san-shou-qi-san
-title: 衰病有感三首  其三
-titlePinyin: shuai1 bing4 you3 gan3 san1 shou3     qi2 san1
+title: 衰病有感三首・其三
+titlePinyin: shuai1 bing4 you3 gan3 san1 shou3・qi2 san1
 titleSlug: shuai-bing-you-gan-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

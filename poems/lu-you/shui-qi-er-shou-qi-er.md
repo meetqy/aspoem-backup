@@ -1,7 +1,7 @@
 ---
 id: lu-you-shui-qi-er-shou-qi-er
-title: 睡起二首  其二
-titlePinyin: shui4 qi3 er4 shou3     qi2 er4
+title: 睡起二首・其二
+titlePinyin: shui4 qi3 er4 shou3・qi2 er4
 titleSlug: shui-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-su-shi-fan-shan-xia-er-shou-qi-yi
-title: 宿石帆山下二首  其一
-titlePinyin: su4 shi2 fan1 shan1 xia4 er4 shou3     qi2 yi1
+title: 宿石帆山下二首・其一
+titlePinyin: su4 shi2 fan1 shan1 xia4 er4 shou3・qi2 yi1
 titleSlug: su-shi-fan-shan-xia-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

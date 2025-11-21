@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-lu-she-bi-er-shou-qi-yi
-title: 題旅舍壁二首  其一
-titlePinyin: ti2 lü3 she4 bi4 er4 shou3     qi2 yi1
+title: 題旅舍壁二首・其一
+titlePinyin: ti2 lü3 she4 bi4 er4 shou3・qi2 yi1
 titleSlug: ti-lu-she-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

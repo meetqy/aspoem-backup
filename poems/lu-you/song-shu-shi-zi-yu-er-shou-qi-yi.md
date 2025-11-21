@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-shu-shi-zi-yu-er-shou-qi-yi
-title: 誦書示子聿二首  其一
-titlePinyin: song4 shu1 shi4 zi3 yu4 er4 shou3     qi2 yi1
+title: 誦書示子聿二首・其一
+titlePinyin: song4 shu1 shi4 zi3 yu4 er4 shou3・qi2 yi1
 titleSlug: song-shu-shi-zi-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

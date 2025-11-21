@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-si-xian-xiang-si-shou-qi-san
-title: 題四仙像四首  其三
-titlePinyin: ti2 si4 xian1 xiang4 si4 shou3     qi2 san1
+title: 題四仙像四首・其三
+titlePinyin: ti2 si4 xian1 xiang4 si4 shou3・qi2 san1
 titleSlug: ti-si-xian-xiang-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ti-cheng-nan-tang-er-shou-qi-yi
-title: 題城南堂二首  其一
-titlePinyin: ti2 cheng2 nan2 tang2 er4 shou3     qi2 yi1
+title: 題城南堂二首・其一
+titlePinyin: ti2 cheng2 nan2 tang2 er4 shou3・qi2 yi1
 titleSlug: ti-cheng-nan-tang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

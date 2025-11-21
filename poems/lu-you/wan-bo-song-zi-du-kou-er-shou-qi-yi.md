@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-bo-song-zi-du-kou-er-shou-qi-yi
-title: 晚泊松滋渡口二首  其一
-titlePinyin: wan3 bo2 song1 zi1 du4 kou3 er4 shou3     qi2 yi1
+title: 晚泊松滋渡口二首・其一
+titlePinyin: wan3 bo2 song1 zi1 du4 kou3 er4 shou3・qi2 yi1
 titleSlug: wan-bo-song-zi-du-kou-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

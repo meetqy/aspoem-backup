@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-lou-yue-ye-zui-zhong-xi-zuo-san-shou-qi-yi
-title: 寺楼月夜醉中戲作三首  其一
-titlePinyin: si4 lou2 yue4 ye4 zui4 zhong1 xi4 zuo4 san1 shou3     qi2 yi1
+title: 寺楼月夜醉中戲作三首・其一
+titlePinyin: si4 lou2 yue4 ye4 zui4 zhong1 xi4 zuo4 san1 shou3・qi2 yi1
 titleSlug: si-lou-yue-ye-zui-zhong-xi-zuo-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

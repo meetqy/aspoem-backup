@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-mu-feng-yu-er-shou-qi-yi
-title: 歲暮風雨二首  其一
-titlePinyin: sui4 mu4 feng1 yu3 er4 shou3     qi2 yi1
+title: 歲暮風雨二首・其一
+titlePinyin: sui4 mu4 feng1 yu3 er4 shou3・qi2 yi1
 titleSlug: sui-mu-feng-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

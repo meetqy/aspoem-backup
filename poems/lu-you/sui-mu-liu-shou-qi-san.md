@@ -1,7 +1,7 @@
 ---
 id: lu-you-sui-mu-liu-shou-qi-san
-title: 歲暮六首  其三
-titlePinyin: sui4 mu4 liu4 shou3     qi2 san1
+title: 歲暮六首・其三
+titlePinyin: sui4 mu4 liu4 shou3・qi2 san1
 titleSlug: sui-mu-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

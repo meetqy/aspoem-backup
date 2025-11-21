@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-zhang-shu-qian-bian-xiu-zao-chao-si-shou-qi-er
-title: 送張叔潛編修造朝四首  其二
-titlePinyin: song4 zhang1 shu1 qian2 bian1 xiu1 zao4 chao2 si4 shou3     qi2 er4
+title: 送張叔潛編修造朝四首・其二
+titlePinyin: song4 zhang1 shu1 qian2 bian1 xiu1 zao4 chao2 si4 shou3・qi2 er4
 titleSlug: song-zhang-shu-qian-bian-xiu-zao-chao-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

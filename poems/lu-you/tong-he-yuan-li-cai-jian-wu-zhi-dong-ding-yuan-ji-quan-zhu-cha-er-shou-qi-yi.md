@@ -1,7 +1,7 @@
 ---
 id: lu-you-tong-he-yuan-li-cai-jian-wu-zhi-dong-ding-yuan-ji-quan-zhu-cha-er-shou-qi-yi
-title: 同何元立蔡肩吾至東丁院汲泉煮茶二首  其一
-titlePinyin: tong2 he2 yuan2 li4 cai4 jian1 wu2 zhi4 dong1 ding1 yuan4 ji2 quan2 zhu3 cha2 er4 shou3     qi2 yi1
+title: 同何元立蔡肩吾至東丁院汲泉煮茶二首・其一
+titlePinyin: tong2 he2 yuan2 li4 cai4 jian1 wu2 zhi4 dong1 ding1 yuan4 ji2 quan2 zhu3 cha2 er4 shou3・qi2 yi1
 titleSlug: tong-he-yuan-li-cai-jian-wu-zhi-dong-ding-yuan-ji-quan-zhu-cha-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

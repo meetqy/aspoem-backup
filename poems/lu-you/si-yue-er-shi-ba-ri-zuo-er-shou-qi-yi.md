@@ -1,7 +1,7 @@
 ---
 id: lu-you-si-yue-er-shi-ba-ri-zuo-er-shou-qi-yi
-title: 四月二十八日作二首  其一
-titlePinyin: si4 yue4 er4 shi2 ba1 ri4 zuo4 er4 shou3     qi2 yi1
+title: 四月二十八日作二首・其一
+titlePinyin: si4 yue4 er4 shi2 ba1 ri4 zuo4 er4 shou3・qi2 yi1
 titleSlug: si-yue-er-shi-ba-ri-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

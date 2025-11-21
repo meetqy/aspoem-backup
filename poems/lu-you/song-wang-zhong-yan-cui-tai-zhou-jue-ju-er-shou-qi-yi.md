@@ -1,7 +1,7 @@
 ---
 id: lu-you-song-wang-zhong-yan-cui-tai-zhou-jue-ju-er-shou-qi-yi
-title: 送王仲言倅泰州絕句二首  其一
-titlePinyin: song4 wang2 zhong4 yan2 cui4 tai4 zhou1 jue2 ju4 er4 shou3     qi2 yi1
+title: 送王仲言倅泰州絕句二首・其一
+titlePinyin: song4 wang2 zhong4 yan2 cui4 tai4 zhou1 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: song-wang-zhong-yan-cui-tai-zhou-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

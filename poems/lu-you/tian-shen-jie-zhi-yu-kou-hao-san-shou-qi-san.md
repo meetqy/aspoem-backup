@@ -1,7 +1,7 @@
 ---
 id: lu-you-tian-shen-jie-zhi-yu-kou-hao-san-shou-qi-san
-title: 天申節致語口號三首  其三
-titlePinyin: tian1 shen1 jie2 zhi4 yu3 kou3 hao4 san1 shou3     qi2 san1
+title: 天申節致語口號三首・其三
+titlePinyin: tian1 shen1 jie2 zhi4 yu3 kou3 hao4 san1 shou3・qi2 san1
 titleSlug: tian-shen-jie-zhi-yu-kou-hao-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
