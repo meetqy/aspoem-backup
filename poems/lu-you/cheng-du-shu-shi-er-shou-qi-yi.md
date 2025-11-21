@@ -1,7 +1,7 @@
 ---
 id: lu-you-cheng-du-shu-shi-er-shou-qi-yi
-title: 成都書事二首  其一
-titlePinyin: cheng2 du1 shu1 shi4 er4 shou3     qi2 yi1
+title: 成都書事二首・其一
+titlePinyin: cheng2 du1 shu1 shi4 er4 shou3・qi2 yi1
 titleSlug: cheng-du-shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

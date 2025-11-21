@@ -1,7 +1,7 @@
 ---
 id: lu-you-chen-zhi-hu-shang-er-shou-qi-er
-title: 晨至湖上二首  其二
-titlePinyin: chen2 zhi4 hu2 shang4 er4 shou3     qi2 er4
+title: 晨至湖上二首・其二
+titlePinyin: chen2 zhi4 hu2 shang4 er4 shou3・qi2 er4
 titleSlug: chen-zhi-hu-shang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

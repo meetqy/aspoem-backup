@@ -1,7 +1,7 @@
 ---
 id: lu-you-bu-ju-san-shan-yi-si-shi-nian-yi-xia-ri-you-gan-liao-fu-wu-zi-er-shou-qi-yi
-title: 卜居三山已四十年矣暇日有感聊賦五字二首  其一
-titlePinyin: bu3 ju1 san1 shan1 yi3 si4 shi2 nian2 yi3 xia2 ri4 you3 gan3 liao2 fu4 wu3 zi4 er4 shou3     qi2 yi1
+title: 卜居三山已四十年矣暇日有感聊賦五字二首・其一
+titlePinyin: bu3 ju1 san1 shan1 yi3 si4 shi2 nian2 yi3 xia2 ri4 you3 gan3 liao2 fu4 wu3 zi4 er4 shou3・qi2 yi1
 titleSlug: bu-ju-san-shan-yi-si-shi-nian-yi-xia-ri-you-gan-liao-fu-wu-zi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

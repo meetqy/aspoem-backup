@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-chun-ji-shi-er-shou-qi-yi
-title: 初春紀事二首  其一
-titlePinyin: chu1 chun1 ji4 shi4 er4 shou3     qi2 yi1
+title: 初春紀事二首・其一
+titlePinyin: chu1 chun1 ji4 shi4 er4 shou3・qi2 yi1
 titleSlug: chu-chun-ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

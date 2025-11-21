@@ -1,7 +1,7 @@
 ---
 id: lu-you-chang-pu-er-shou-qi-er
-title: 菖蒲二首  其二
-titlePinyin: chang1 pu2 er4 shou3     qi2 er4
+title: 菖蒲二首・其二
+titlePinyin: chang1 pu2 er4 shou3・qi2 er4
 titleSlug: chang-pu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

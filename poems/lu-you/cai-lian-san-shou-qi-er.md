@@ -1,7 +1,7 @@
 ---
 id: lu-you-cai-lian-san-shou-qi-er
-title: 采蓮三首  其二
-titlePinyin: cai3 lian2 san1 shou3     qi2 er4
+title: 采蓮三首・其二
+titlePinyin: cai3 lian2 san1 shou3・qi2 er4
 titleSlug: cai-lian-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

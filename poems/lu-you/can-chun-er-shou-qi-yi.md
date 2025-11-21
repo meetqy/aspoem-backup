@@ -1,7 +1,7 @@
 ---
 id: lu-you-can-chun-er-shou-qi-yi
-title: 殘春二首  其一
-titlePinyin: can2 chun1 er4 shou3     qi2 yi1
+title: 殘春二首・其一
+titlePinyin: can2 chun1 er4 shou3・qi2 yi1
 titleSlug: can-chun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

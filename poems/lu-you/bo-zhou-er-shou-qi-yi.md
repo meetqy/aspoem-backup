@@ -1,7 +1,7 @@
 ---
 id: lu-you-bo-zhou-er-shou-qi-yi
-title: 泊舟二首  其一
-titlePinyin: bo2 zhou1 er4 shou3     qi2 yi1
+title: 泊舟二首・其一
+titlePinyin: bo2 zhou1 er4 shou3・qi2 yi1
 titleSlug: bo-zhou-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-can-la-er-shou-qi-er
-title: 殘臘二首  其二
-titlePinyin: can2 la4 er4 shou3     qi2 er4
+title: 殘臘二首・其二
+titlePinyin: can2 la4 er4 shou3・qi2 er4
 titleSlug: can-la-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

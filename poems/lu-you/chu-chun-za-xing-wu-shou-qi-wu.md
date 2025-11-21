@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-chun-za-xing-wu-shou-qi-wu
-title: 初春雜興五首  其五
-titlePinyin: chu1 chun1 za2 xing1 wu3 shou3     qi2 wu3
+title: 初春雜興五首・其五
+titlePinyin: chu1 chun1 za2 xing1 wu3 shou3・qi2 wu3
 titleSlug: chu-chun-za-xing-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

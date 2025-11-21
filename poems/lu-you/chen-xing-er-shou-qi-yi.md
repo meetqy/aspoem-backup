@@ -1,7 +1,7 @@
 ---
 id: lu-you-chen-xing-er-shou-qi-yi
-title: 晨興二首  其一
-titlePinyin: chen2 xing1 er4 shou3     qi2 yi1
+title: 晨興二首・其一
+titlePinyin: chen2 xing1 er4 shou3・qi2 yi1
 titleSlug: chen-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-chun-shu-huai-qi-shou-qi-san
-title: 初春書懷七首  其三
-titlePinyin: chu1 chun1 shu1 huai2 qi1 shou3     qi2 san1
+title: 初春書懷七首・其三
+titlePinyin: chu1 chun1 shu1 huai2 qi1 shou3・qi2 san1
 titleSlug: chu-chun-shu-huai-qi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

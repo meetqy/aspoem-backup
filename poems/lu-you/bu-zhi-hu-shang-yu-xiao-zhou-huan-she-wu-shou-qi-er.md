@@ -1,7 +1,7 @@
 ---
 id: lu-you-bu-zhi-hu-shang-yu-xiao-zhou-huan-she-wu-shou-qi-er
-title: 步至湖上寓小舟還舍五首  其二
-titlePinyin: bu4 zhi4 hu2 shang4 yu4 xiao3 zhou1 huan2 she4 wu3 shou3     qi2 er4
+title: 步至湖上寓小舟還舍五首・其二
+titlePinyin: bu4 zhi4 hu2 shang4 yu4 xiao3 zhou1 huan2 she4 wu3 shou3・qi2 er4
 titleSlug: bu-zhi-hu-shang-yu-xiao-zhou-huan-she-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chi-ting-xia-zhou-er-shou-qi-yi
-title: 池亭夏晝二首  其一
-titlePinyin: chi2 ting2 xia4 zhou4 er4 shou3     qi2 yi1
+title: 池亭夏晝二首・其一
+titlePinyin: chi2 ting2 xia4 zhou4 er4 shou3・qi2 yi1
 titleSlug: chi-ting-xia-zhou-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

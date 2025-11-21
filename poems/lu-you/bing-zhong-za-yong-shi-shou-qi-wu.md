@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-za-yong-shi-shou-qi-wu
-title: 病中雜詠十首  其五
-titlePinyin: bing4 zhong1 za2 yong3 shi2 shou3     qi2 wu3
+title: 病中雜詠十首・其五
+titlePinyin: bing4 zhong1 za2 yong3 shi2 shou3・qi2 wu3
 titleSlug: bing-zhong-za-yong-shi-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

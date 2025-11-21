@@ -1,7 +1,7 @@
 ---
 id: lu-you-chao-shan-er-shou-qi-er
-title: 巢山二首  其二
-titlePinyin: chao2 shan1 er4 shou3     qi2 er4
+title: 巢山二首・其二
+titlePinyin: chao2 shan1 er4 shou3・qi2 er4
 titleSlug: chao-shan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

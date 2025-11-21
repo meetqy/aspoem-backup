@@ -1,7 +1,7 @@
 ---
 id: lu-you-cheng-nan-xun-mei-de-jue-ju-si-shou-qi-san
-title: 城南尋梅得絕句四首  其三
-titlePinyin: cheng2 nan2 xun2 mei2 de2 jue2 ju4 si4 shou3     qi2 san1
+title: 城南尋梅得絕句四首・其三
+titlePinyin: cheng2 nan2 xun2 mei2 de2 jue2 ju4 si4 shou3・qi2 san1
 titleSlug: cheng-nan-xun-mei-de-jue-ju-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

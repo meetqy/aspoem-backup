@@ -1,7 +1,7 @@
 ---
 id: lu-you-ceng-zhong-gong-jian-guo-shi-yu-yu-chu-liu-xiao-shi-er-qu-ci-yun-er-shou-qi-er
-title: 曾仲躬見過適遇予出留小詩而去次韵二首  其二
-titlePinyin: ceng2 zhong4 gong1 jian4 guo4 shi4 yu4 yu3 chu1 liu2 xiao3 shi1 er2 qu4 ci4 yun4 er4 shou3     qi2 er4
+title: 曾仲躬見過適遇予出留小詩而去次韵二首・其二
+titlePinyin: ceng2 zhong4 gong1 jian4 guo4 shi4 yu4 yu3 chu1 liu2 xiao3 shi1 er2 qu4 ci4 yun4 er4 shou3・qi2 er4
 titleSlug: ceng-zhong-gong-jian-guo-shi-yu-yu-chu-liu-xiao-shi-er-qu-ci-yun-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

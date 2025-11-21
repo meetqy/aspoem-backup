@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-zi-qian-san-shou-qi-er
-title: 病中自遣三首  其二
-titlePinyin: bing4 zhong1 zi4 qian3 san1 shou3     qi2 er4
+title: 病中自遣三首・其二
+titlePinyin: bing4 zhong1 zi4 qian3 san1 shou3・qi2 er4
 titleSlug: bing-zhong-zi-qian-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

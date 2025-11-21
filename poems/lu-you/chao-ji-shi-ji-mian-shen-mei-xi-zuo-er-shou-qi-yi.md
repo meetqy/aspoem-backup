@@ -1,7 +1,7 @@
 ---
 id: lu-you-chao-ji-shi-ji-mian-shen-mei-xi-zuo-er-shou-qi-yi
-title: 朝饑食齏麫甚美戲作二首  其一
-titlePinyin: chao2 ji1 shi2 ji1 mian4 shen4 mei3 xi4 zuo4 er4 shou3     qi2 yi1
+title: 朝饑食齏麫甚美戲作二首・其一
+titlePinyin: chao2 ji1 shi2 ji1 mian4 shen4 mei3 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: chao-ji-shi-ji-mian-shen-mei-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

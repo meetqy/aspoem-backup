@@ -1,7 +1,7 @@
 ---
 id: lu-you-chong-jiu-hou-feng-yu-bu-zhi-sui-zuo-xiao-han-san-shou-qi-yi
-title: 重九後風雨不止遂作小寒三首  其一
-titlePinyin: chong2 jiu3 hou4 feng1 yu3 bu4 zhi3 sui4 zuo4 xiao3 han2 san1 shou3     qi2 yi1
+title: 重九後風雨不止遂作小寒三首・其一
+titlePinyin: chong2 jiu3 hou4 feng1 yu3 bu4 zhi3 sui4 zuo4 xiao3 han2 san1 shou3・qi2 yi1
 titleSlug: chong-jiu-hou-feng-yu-bu-zhi-sui-zuo-xiao-han-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

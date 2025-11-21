@@ -1,7 +1,7 @@
 ---
 id: lu-you-bu-ru-mao-wu-di-si-shou-qi-er
-title: 不如茅屋底四首  其二
-titlePinyin: bu4 ru2 mao2 wu1 di3 si4 shou3     qi2 er4
+title: 不如茅屋底四首・其二
+titlePinyin: bu4 ru2 mao2 wu1 di3 si4 shou3・qi2 er4
 titleSlug: bu-ru-mao-wu-di-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-chun-qian-xing-san-shou-qi-er
-title: 初春遣興三首  其二
-titlePinyin: chu1 chun1 qian3 xing1 san1 shou3     qi2 er4
+title: 初春遣興三首・其二
+titlePinyin: chu1 chun1 qian3 xing1 san1 shou3・qi2 er4
 titleSlug: chu-chun-qian-xing-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

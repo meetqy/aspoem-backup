@@ -1,7 +1,7 @@
 ---
 id: lu-you-bu-xu-si-shou-qi-er
-title: 步虛四首  其二
-titlePinyin: bu4 xu1 si4 shou3     qi2 er4
+title: 步虛四首・其二
+titlePinyin: bu4 xu1 si4 shou3・qi2 er4
 titleSlug: bu-xu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

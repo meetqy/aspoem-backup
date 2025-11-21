@@ -1,7 +1,7 @@
 ---
 id: lu-you-cheng-tai-zhi-shang-shu-wan-ci-er-shou-qi-yi
-title: 程泰之尚書挽詞二首  其一
-titlePinyin: cheng2 tai4 zhi1 shang4 shu1 wan3 ci2 er4 shou3     qi2 yi1
+title: 程泰之尚書挽詞二首・其一
+titlePinyin: cheng2 tai4 zhi1 shang4 shu1 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: cheng-tai-zhi-shang-shu-wan-ci-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

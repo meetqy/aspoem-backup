@@ -1,7 +1,7 @@
 ---
 id: lu-you-chou-zuo-hu-si-nan-zheng-xiao-yi-zhi-jian-er-shou-qi-yi
-title: 愁坐忽思南鄭小益之間二首  其一
-titlePinyin: chou2 zuo4 hu1 si1 nan2 zheng4 xiao3 yi4 zhi1 jian4 er4 shou3     qi2 yi1
+title: 愁坐忽思南鄭小益之間二首・其一
+titlePinyin: chou2 zuo4 hu1 si1 nan2 zheng4 xiao3 yi4 zhi1 jian4 er4 shou3・qi2 yi1
 titleSlug: chou-zuo-hu-si-nan-zheng-xiao-yi-zhi-jian-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

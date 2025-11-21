@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zu-zhou-wo-meng-zhong-zhan-zhun-nai-song-shang-shu-ye-ji-jue-kou-zhan-jue-ju-er-shou-qi-er
-title: 病足晝卧夢中譫諄乃誦尚書也既覺口占絕句二首  其二
-titlePinyin: bing4 zu2 zhou4 wo4 meng4 zhong1 zhan1 zhun1 nai3 song4 shang4 shu1 ye3 ji4 jue2 kou3 zhan4 jue2 ju4 er4 shou3     qi2 er4
+title: 病足晝卧夢中譫諄乃誦尚書也既覺口占絕句二首・其二
+titlePinyin: bing4 zu2 zhou4 wo4 meng4 zhong1 zhan1 zhun1 nai3 song4 shang4 shu1 ye3 ji4 jue2 kou3 zhan4 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: bing-zu-zhou-wo-meng-zhong-zhan-zhun-nai-song-shang-shu-ye-ji-jue-kou-zhan-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

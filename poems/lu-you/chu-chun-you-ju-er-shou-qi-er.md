@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-chun-you-ju-er-shou-qi-er
-title: 初春幽居二首  其二
-titlePinyin: chu1 chun1 you1 ju1 er4 shou3     qi2 er4
+title: 初春幽居二首・其二
+titlePinyin: chu1 chun1 you1 ju1 er4 shou3・qi2 er4
 titleSlug: chu-chun-you-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

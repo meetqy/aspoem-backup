@@ -1,7 +1,7 @@
 ---
 id: lu-you-cheng-shang-er-shou-qi-yi
-title: 城上二首  其一
-titlePinyin: cheng2 shang4 er4 shou3     qi2 yi1
+title: 城上二首・其一
+titlePinyin: cheng2 shang4 er4 shou3・qi2 yi1
 titleSlug: cheng-shang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

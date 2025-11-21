@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-zuo-er-shou-qi-er
-title: 病中作二首  其二
-titlePinyin: bing4 zhong1 zuo4 er4 shou3     qi2 er4
+title: 病中作二首・其二
+titlePinyin: bing4 zhong1 zuo4 er4 shou3・qi2 er4
 titleSlug: bing-zhong-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
