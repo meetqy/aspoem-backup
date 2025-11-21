@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-you-ju-za-fu-qi-shou-qi-san
-title: 初夏幽居雜賦七首  其三
-titlePinyin: chu1 xia4 you1 ju1 za2 fu4 qi1 shou3     qi2 san1
+title: 初夏幽居雜賦七首・其三
+titlePinyin: chu1 xia4 you1 ju1 za2 fu4 qi1 shou3・qi2 san1
 titleSlug: chu-xia-you-ju-za-fu-qi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

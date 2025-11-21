@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-qiu-meng-gu-shan-jue-er-you-zuo-si-shou-qi-yi
-title: 初秋夢故山覺而有作四首  其一
-titlePinyin: chu1 qiu1 meng4 gu4 shan1 jue2 er2 you3 zuo4 si4 shou3     qi2 yi1
+title: 初秋夢故山覺而有作四首・其一
+titlePinyin: chu1 qiu1 meng4 gu4 shan1 jue2 er2 you3 zuo4 si4 shou3・qi2 yi1
 titleSlug: chu-qiu-meng-gu-shan-jue-er-you-zuo-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

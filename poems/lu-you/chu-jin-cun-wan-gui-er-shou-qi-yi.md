@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-jin-cun-wan-gui-er-shou-qi-yi
-title: 出近村晚歸二首  其一
-titlePinyin: chu1 jin4 cun1 wan3 gui1 er4 shou3     qi2 yi1
+title: 出近村晚歸二首・其一
+titlePinyin: chu1 jin4 cun1 wan3 gui1 er4 shou3・qi2 yi1
 titleSlug: chu-jin-cun-wan-gui-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

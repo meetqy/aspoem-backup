@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-sai-si-shou-jie-yong-qin-shao-you-yun-qi-si
-title: 出塞四首借用秦少遊韵  其四
-titlePinyin: chu1 sai4 si4 shou3 jie4 yong4 qin2 shao3 you2 yun4     qi2 si4
+title: 出塞四首借用秦少遊韵・其四
+titlePinyin: chu1 sai4 si4 shou3 jie4 yong4 qin2 shao3 you2 yun4・qi2 si4
 titleSlug: chu-sai-si-shou-jie-yong-qin-shao-you-yun-qi-si
 author: 陸游
 authorPinyin: lu4 you2

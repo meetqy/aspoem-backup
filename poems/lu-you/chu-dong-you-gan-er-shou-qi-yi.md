@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-dong-you-gan-er-shou-qi-yi
-title: 初冬有感二首  其一
-titlePinyin: chu1 dong1 you3 gan3 er4 shou3     qi2 yi1
+title: 初冬有感二首・其一
+titlePinyin: chu1 dong1 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: chu-dong-you-gan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

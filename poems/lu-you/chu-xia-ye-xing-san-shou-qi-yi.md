@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-ye-xing-san-shou-qi-yi
-title: 初夏野興三首  其一
-titlePinyin: chu1 xia4 ye3 xing1 san1 shou3     qi2 yi1
+title: 初夏野興三首・其一
+titlePinyin: chu1 xia4 ye3 xing1 san1 shou3・qi2 yi1
 titleSlug: chu-xia-ye-xing-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

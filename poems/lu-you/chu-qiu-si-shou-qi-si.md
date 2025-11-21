@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-qiu-si-shou-qi-si
-title: 初秋四首  其四
-titlePinyin: chu1 qiu1 si4 shou3     qi2 si4
+title: 初秋四首・其四
+titlePinyin: chu1 qiu1 si4 shou3・qi2 si4
 titleSlug: chu-qiu-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

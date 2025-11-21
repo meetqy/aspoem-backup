@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-shi-shou-qi-jiu
-title: 初夏十首  其九
-titlePinyin: chu1 xia4 shi2 shou3     qi2 jiu3
+title: 初夏十首・其九
+titlePinyin: chu1 xia4 shi2 shou3・qi2 jiu3
 titleSlug: chu-xia-shi-shou-qi-jiu
 author: 陸游
 authorPinyin: lu4 you2

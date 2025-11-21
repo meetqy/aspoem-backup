@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-qiu-ji-shi-er-shou-qi-yi
-title: 初秋即事二首  其一
-titlePinyin: chu1 qiu1 ji2 shi4 er4 shou3     qi2 yi1
+title: 初秋即事二首・其一
+titlePinyin: chu1 qiu1 ji2 shi4 er4 shou3・qi2 yi1
 titleSlug: chu-qiu-ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

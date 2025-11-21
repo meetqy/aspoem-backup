@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-han-zai-gao-you-gan-san-shou-qi-er
-title: 初寒在告有感三首  其二
-titlePinyin: chu1 han2 zai4 gao4 you3 gan3 san1 shou3     qi2 er4
+title: 初寒在告有感三首・其二
+titlePinyin: chu1 han2 zai4 gao4 you3 gan3 san1 shou3・qi2 er4
 titleSlug: chu-han-zai-gao-you-gan-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-gui-za-yong-qi-shou-qi-si
-title: 初歸雜詠七首  其四
-titlePinyin: chu1 gui1 za2 yong3 qi1 shou3     qi2 si4
+title: 初歸雜詠七首・其四
+titlePinyin: chu1 gui1 za2 yong3 qi1 shou3・qi2 si4
 titleSlug: chu-gui-za-yong-qi-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

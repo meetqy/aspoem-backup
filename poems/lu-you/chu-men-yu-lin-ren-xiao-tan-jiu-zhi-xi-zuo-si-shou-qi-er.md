@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-men-yu-lin-ren-xiao-tan-jiu-zhi-xi-zuo-si-shou-qi-er
-title: 出門與鄰人笑談久之戲作四首  其二
-titlePinyin: chu1 men2 yu3 lin2 ren2 xiao4 tan2 jiu3 zhi1 xi4 zuo4 si4 shou3     qi2 er4
+title: 出門與鄰人笑談久之戲作四首・其二
+titlePinyin: chu1 men2 yu3 lin2 ren2 xiao4 tan2 jiu3 zhi1 xi4 zuo4 si4 shou3・qi2 er4
 titleSlug: chu-men-yu-lin-ren-xiao-tan-jiu-zhi-xi-zuo-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

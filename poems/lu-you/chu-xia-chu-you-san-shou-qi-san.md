@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-chu-you-san-shou-qi-san
-title: 初夏出遊三首  其三
-titlePinyin: chu1 xia4 chu1 you2 san1 shou3     qi2 san1
+title: 初夏出遊三首・其三
+titlePinyin: chu1 xia4 chu1 you2 san1 shou3・qi2 san1
 titleSlug: chu-xia-chu-you-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

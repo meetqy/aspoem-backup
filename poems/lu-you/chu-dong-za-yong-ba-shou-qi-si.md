@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-dong-za-yong-ba-shou-qi-si
-title: 初冬雜詠八首  其四
-titlePinyin: chu1 dong1 za2 yong3 ba1 shou3     qi2 si4
+title: 初冬雜詠八首・其四
+titlePinyin: chu1 dong1 za2 yong3 ba1 shou3・qi2 si4
 titleSlug: chu-dong-za-yong-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-qiu-ye-fu-er-shou-qi-er
-title: 初秋夜賦二首  其二
-titlePinyin: chu1 qiu1 ye4 fu4 er4 shou3     qi2 er4
+title: 初秋夜賦二首・其二
+titlePinyin: chu1 qiu1 ye4 fu4 er4 shou3・qi2 er4
 titleSlug: chu-qiu-ye-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

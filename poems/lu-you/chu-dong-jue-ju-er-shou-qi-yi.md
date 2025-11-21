@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-dong-jue-ju-er-shou-qi-yi
-title: 初冬絕句二首  其一
-titlePinyin: chu1 dong1 jue2 ju4 er4 shou3     qi2 yi1
+title: 初冬絕句二首・其一
+titlePinyin: chu1 dong1 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: chu-dong-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

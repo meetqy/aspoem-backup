@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-you-ju-si-shou-qi-si
-title: 初夏幽居四首  其四
-titlePinyin: chu1 xia4 you1 ju1 si4 shou3     qi2 si4
+title: 初夏幽居四首・其四
+titlePinyin: chu1 xia4 you1 ju1 si4 shou3・qi2 si4
 titleSlug: chu-xia-you-ju-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-han-er-shou-qi-er
-title: 初寒二首  其二
-titlePinyin: chu1 han2 er4 shou3     qi2 er4
+title: 初寒二首・其二
+titlePinyin: chu1 han2 er4 shou3・qi2 er4
 titleSlug: chu-han-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-er-shou-qi-er
-title: 初夏二首  其二
-titlePinyin: chu1 xia4 er4 shou3     qi2 er4
+title: 初夏二首・其二
+titlePinyin: chu1 xia4 er4 shou3・qi2 er4
 titleSlug: chu-xia-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

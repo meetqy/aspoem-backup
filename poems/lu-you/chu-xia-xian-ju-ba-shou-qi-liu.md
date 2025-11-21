@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-xian-ju-ba-shou-qi-liu
-title: 初夏閑居八首  其六
-titlePinyin: chu1 xia4 xian2 ju1 ba1 shou3     qi2 liu4
+title: 初夏閑居八首・其六
+titlePinyin: chu1 xia4 xian2 ju1 ba1 shou3・qi2 liu4
 titleSlug: chu-xia-xian-ju-ba-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

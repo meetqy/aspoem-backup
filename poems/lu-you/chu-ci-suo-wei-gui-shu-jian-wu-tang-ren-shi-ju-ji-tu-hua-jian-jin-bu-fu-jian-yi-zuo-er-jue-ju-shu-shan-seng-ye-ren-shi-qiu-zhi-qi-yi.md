@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-ci-suo-wei-gui-shu-jian-wu-tang-ren-shi-ju-ji-tu-hua-jian-jin-bu-fu-jian-yi-zuo-er-jue-ju-shu-shan-seng-ye-ren-shi-qiu-zhi-qi-yi
-title: 楚辭所謂桂數見於唐人詩句及圖畫間今不復見矣作二絕句屬山僧野人試求之  其一
-titlePinyin: chu3 ci2 suo3 wei4 gui4 shu4 jian4 wu1 tang2 ren2 shi1 ju4 ji2 tu2 hua4 jian4 jin1 bu2 fu4 jian4 yi3 zuo4 er4 jue2 ju4 shu3 shan1 seng1 ye3 ren2 shi4 qiu2 zhi1     qi2 yi1
+title: 楚辭所謂桂數見於唐人詩句及圖畫間今不復見矣作二絕句屬山僧野人試求之・其一
+titlePinyin: chu3 ci2 suo3 wei4 gui4 shu4 jian4 wu1 tang2 ren2 shi1 ju4 ji2 tu2 hua4 jian4 jin1 bu2 fu4 jian4 yi3 zuo4 er4 jue2 ju4 shu3 shan1 seng1 ye3 ren2 shi4 qiu2 zhi1・qi2 yi1
 titleSlug: chu-ci-suo-wei-gui-shu-jian-wu-tang-ren-shi-ju-ji-tu-hua-jian-jin-bu-fu-jian-yi-zuo-er-jue-ju-shu-shan-seng-ye-ren-shi-qiu-zhi-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

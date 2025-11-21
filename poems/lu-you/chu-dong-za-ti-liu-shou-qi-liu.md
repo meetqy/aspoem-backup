@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-dong-za-ti-liu-shou-qi-liu
-title: 初冬雜題六首  其六
-titlePinyin: chu1 dong1 za2 ti2 liu4 shou3     qi2 liu4
+title: 初冬雜題六首・其六
+titlePinyin: chu1 dong1 za2 ti2 liu4 shou3・qi2 liu4
 titleSlug: chu-dong-za-ti-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

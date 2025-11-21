@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-han-lao-shen-po-jian-xi-shu-er-shou-qi-yi
-title: 初寒老身頗健戲書二首  其一
-titlePinyin: chu1 han2 lao3 shen1 po1 jian4 xi4 shu1 er4 shou3     qi2 yi1
+title: 初寒老身頗健戲書二首・其一
+titlePinyin: chu1 han2 lao3 shen1 po1 jian4 xi4 shu1 er4 shou3・qi2 yi1
 titleSlug: chu-han-lao-shen-po-jian-xi-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
