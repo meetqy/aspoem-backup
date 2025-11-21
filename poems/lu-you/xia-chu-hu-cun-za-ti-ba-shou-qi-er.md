@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-chu-hu-cun-za-ti-ba-shou-qi-er
-title: 夏初湖村雜題八首  其二
-titlePinyin: xia4 chu1 hu2 cun1 za2 ti2 ba1 shou3     qi2 er4
+title: 夏初湖村雜題八首・其二
+titlePinyin: xia4 chu1 hu2 cun1 za2 ti2 ba1 shou3・qi2 er4
 titleSlug: xia-chu-hu-cun-za-ti-ba-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

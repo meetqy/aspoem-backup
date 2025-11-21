@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-wu-shou-qi-wu
-title: 夏日五首  其五
-titlePinyin: xia4 ri4 wu3 shou3     qi2 wu3
+title: 夏日五首・其五
+titlePinyin: xia4 ri4 wu3 shou3・qi2 wu3
 titleSlug: xia-ri-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

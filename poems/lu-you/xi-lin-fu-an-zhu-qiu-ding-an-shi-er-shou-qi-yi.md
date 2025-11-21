@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-lin-fu-an-zhu-qiu-ding-an-shi-er-shou-qi-yi
-title: 西林傅庵主求定庵詩二首  其一
-titlePinyin: xi1 lin2 fu4 an1 zhu3 qiu2 ding4 an1 shi1 er4 shou3     qi2 yi1
+title: 西林傅庵主求定庵詩二首・其一
+titlePinyin: xi1 lin2 fu4 an1 zhu3 qiu2 ding4 an1 shi1 er4 shou3・qi2 yi1
 titleSlug: xi-lin-fu-an-zhu-qiu-ding-an-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-liu-yan-si-shou-qi-yi
-title: 夏日六言四首  其一
-titlePinyin: xia4 ri4 liu4 yan2 si4 shou3     qi2 yi1
+title: 夏日六言四首・其一
+titlePinyin: xia4 ri4 liu4 yan2 si4 shou3・qi2 yi1
 titleSlug: xia-ri-liu-yan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-mo-ye-xing-er-shou-qi-yi
-title: 夏末野興二首  其一
-titlePinyin: xia4 mo4 ye3 xing1 er4 shou3     qi2 yi1
+title: 夏末野興二首・其一
+titlePinyin: xia4 mo4 ye3 xing1 er4 shou3・qi2 yi1
 titleSlug: xia-mo-ye-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

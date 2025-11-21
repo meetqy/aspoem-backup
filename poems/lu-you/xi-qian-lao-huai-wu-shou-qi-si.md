@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-qian-lao-huai-wu-shou-qi-si
-title: 戲遣老懷五首  其四
-titlePinyin: xi4 qian3 lao3 huai2 wu3 shou3     qi2 si4
+title: 戲遣老懷五首・其四
+titlePinyin: xi4 qian3 lao3 huai2 wu3 shou3・qi2 si4
 titleSlug: xi-qian-lao-huai-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

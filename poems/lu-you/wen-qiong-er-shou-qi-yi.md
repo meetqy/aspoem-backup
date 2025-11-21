@@ -1,7 +1,7 @@
 ---
 id: lu-you-wen-qiong-er-shou-qi-yi
-title: 聞蛩二首  其一
-titlePinyin: wen2 qiong2 er4 shou3     qi2 yi1
+title: 聞蛩二首・其一
+titlePinyin: wen2 qiong2 er4 shou3・qi2 yi1
 titleSlug: wen-qiong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

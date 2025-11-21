@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-za-ti-ba-shou-qi-ba
-title: 夏日雜題八首  其八
-titlePinyin: xia4 ri4 za2 ti2 ba1 shou3     qi2 ba1
+title: 夏日雜題八首・其八
+titlePinyin: xia4 ri4 za2 ti2 ba1 shou3・qi2 ba1
 titleSlug: xia-ri-za-ti-ba-shou-qi-ba
 author: 陸游
 authorPinyin: lu4 you2

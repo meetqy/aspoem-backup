@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-yong-yuan-zhong-cao-mu-liu-shou-qi-san
-title: 閑詠園中草木六首  其三
-titlePinyin: xian2 yong3 yuan2 zhong1 cao3 mu4 liu4 shou3     qi2 san1
+title: 閑詠園中草木六首・其三
+titlePinyin: xian2 yong3 yuan2 zhong1 cao3 mu4 liu4 shou3・qi2 san1
 titleSlug: xian-yong-yuan-zhong-cao-mu-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

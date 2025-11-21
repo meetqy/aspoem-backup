@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-yue-qi-ri-ye-meng-zhong-zuo-er-shou-qi-yi
-title: 五月七日夜夢中作二首  其一
-titlePinyin: wu3 yue4 qi1 ri4 ye4 meng4 zhong1 zuo4 er4 shou3     qi2 yi1
+title: 五月七日夜夢中作二首・其一
+titlePinyin: wu3 yue4 qi1 ri4 ye4 meng4 zhong1 zuo4 er4 shou3・qi2 yi1
 titleSlug: wu-yue-qi-ri-ye-meng-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-qiu-nong-jia-ba-shou-qi-wu
-title: 晚秋農家八首  其五
-titlePinyin: wan3 qiu1 nong2 jia1 ba1 shou3     qi2 wu3
+title: 晚秋農家八首・其五
+titlePinyin: wan3 qiu1 nong2 jia1 ba1 shou3・qi2 wu3
 titleSlug: wan-qiu-nong-jia-ba-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

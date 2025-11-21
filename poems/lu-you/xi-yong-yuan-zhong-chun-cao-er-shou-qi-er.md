@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-yong-yuan-zhong-chun-cao-er-shou-qi-er
-title: 戲詠園中春草二首  其二
-titlePinyin: xi4 yong3 yuan2 zhong1 chun1 cao3 er4 shou3     qi2 er4
+title: 戲詠園中春草二首・其二
+titlePinyin: xi4 yong3 yuan2 zhong1 chun1 cao3 er4 shou3・qi2 er4
 titleSlug: xi-yong-yuan-zhong-chun-cao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-deng-heng-xi-ge-er-shou-qi-er
-title: 晚登横溪閣二首  其二
-titlePinyin: wan3 deng1 heng2 xi1 ge2 er4 shou3     qi2 er4
+title: 晚登横溪閣二首・其二
+titlePinyin: wan3 deng1 heng2 xi1 ge2 er4 shou3・qi2 er4
 titleSlug: wan-deng-heng-xi-ge-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

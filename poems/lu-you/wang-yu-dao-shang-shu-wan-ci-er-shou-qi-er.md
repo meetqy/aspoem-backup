@@ -1,7 +1,7 @@
 ---
 id: lu-you-wang-yu-dao-shang-shu-wan-ci-er-shou-qi-er
-title: 王與道尚書挽詞二首  其二
-titlePinyin: wang2 yu3 dao4 shang4 shu1 wan3 ci2 er4 shou3     qi2 er4
+title: 王與道尚書挽詞二首・其二
+titlePinyin: wang2 yu3 dao4 shang4 shu1 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: wang-yu-dao-shang-shu-wan-ci-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

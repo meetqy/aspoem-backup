@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-da-ye-ren-er-shou-qi-er
-title: 戲答野人二首  其二
-titlePinyin: xi4 da2 ye3 ren2 er4 shou3     qi2 er4
+title: 戲答野人二首・其二
+titlePinyin: xi4 da2 ye3 ren2 er4 shou3・qi2 er4
 titleSlug: xi-da-ye-ren-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

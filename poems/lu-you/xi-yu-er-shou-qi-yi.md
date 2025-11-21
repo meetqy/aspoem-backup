@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-yu-er-shou-qi-yi
-title: 喜雨二首  其一
-titlePinyin: xi3 yu3 er4 shou3     qi2 yi1
+title: 喜雨二首・其一
+titlePinyin: xi3 yu3 er4 shou3・qi2 yi1
 titleSlug: xi-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

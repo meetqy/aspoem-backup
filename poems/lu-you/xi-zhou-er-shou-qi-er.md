@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-zhou-er-shou-qi-er
-title: 繫舟二首  其二
-titlePinyin: xi4 zhou1 er4 shou3     qi2 er4
+title: 繫舟二首・其二
+titlePinyin: xi4 zhou1 er4 shou3・qi2 er4
 titleSlug: xi-zhou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

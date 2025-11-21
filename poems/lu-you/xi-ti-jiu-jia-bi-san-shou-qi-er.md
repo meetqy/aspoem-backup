@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-ti-jiu-jia-bi-san-shou-qi-er
-title: 戲題酒家壁三首  其二
-titlePinyin: xi4 ti2 jiu3 jia1 bi4 san1 shou3     qi2 er4
+title: 戲題酒家壁三首・其二
+titlePinyin: xi4 ti2 jiu3 jia1 bi4 san1 shou3・qi2 er4
 titleSlug: xi-ti-jiu-jia-bi-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

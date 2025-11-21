@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-yong-wu-shou-qi-san
-title: 閑咏五首  其三
-titlePinyin: xian2 yong3 wu3 shou3     qi2 san1
+title: 閑咏五首・其三
+titlePinyin: xian2 yong3 wu3 shou3・qi2 san1
 titleSlug: xian-yong-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-wang-yong-si-ling-er-shou-qi-er
-title: 望永思陵二首  其二
-titlePinyin: wang4 yong3 si1 ling2 er4 shou3     qi2 er4
+title: 望永思陵二首・其二
+titlePinyin: wang4 yong3 si1 ling2 er4 shou3・qi2 er4
 titleSlug: wang-yong-si-ling-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

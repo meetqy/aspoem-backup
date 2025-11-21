@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-xiao-er-bing-yu-er-shou-qi-er
-title: 喜小兒病愈二首  其二
-titlePinyin: xi3 xiao3 er2 bing4 yu4 er4 shou3     qi2 er4
+title: 喜小兒病愈二首・其二
+titlePinyin: xi3 xiao3 er2 bing4 yu4 er4 shou3・qi2 er4
 titleSlug: xi-xiao-er-bing-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

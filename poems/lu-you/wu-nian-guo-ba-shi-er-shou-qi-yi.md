@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-nian-guo-ba-shi-er-shou-qi-yi
-title: 吾年過八十二首  其一
-titlePinyin: wu2 nian2 guo4 ba1 shi2 er4 shou3     qi2 yi1
+title: 吾年過八十二首・其一
+titlePinyin: wu2 nian2 guo4 ba1 shi2 er4 shou3・qi2 yi1
 titleSlug: wu-nian-guo-ba-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

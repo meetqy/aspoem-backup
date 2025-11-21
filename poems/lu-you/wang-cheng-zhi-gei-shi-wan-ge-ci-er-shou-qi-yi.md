@@ -1,7 +1,7 @@
 ---
 id: lu-you-wang-cheng-zhi-gei-shi-wan-ge-ci-er-shou-qi-yi
-title: 王成之給事挽歌辭二首  其一
-titlePinyin: wang2 cheng2 zhi1 gei3 shi4 wan3 ge1 ci2 er4 shou3     qi2 yi1
+title: 王成之給事挽歌辭二首・其一
+titlePinyin: wang2 cheng2 zhi1 gei3 shi4 wan3 ge1 ci2 er4 shou3・qi2 yi1
 titleSlug: wang-cheng-zhi-gei-shi-wan-ge-ci-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

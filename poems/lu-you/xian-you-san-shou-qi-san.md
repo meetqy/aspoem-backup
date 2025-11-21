@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-you-san-shou-qi-san
-title: 閑遊三首  其三
-titlePinyin: xian2 you2 san1 shou3     qi2 san1
+title: 閑遊三首・其三
+titlePinyin: xian2 you2 san1 shou3・qi2 san1
 titleSlug: xian-you-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

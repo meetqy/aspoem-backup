@@ -1,7 +1,7 @@
 ---
 id: lu-you-wen-niao-sheng-you-gan-er-shou-qi-er
-title: 聞鳥聲有感二首  其二
-titlePinyin: wen2 niao3 sheng1 you3 gan3 er4 shou3     qi2 er4
+title: 聞鳥聲有感二首・其二
+titlePinyin: wen2 niao3 sheng1 you3 gan3 er4 shou3・qi2 er4
 titleSlug: wen-niao-sheng-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

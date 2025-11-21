@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-wai-za-ti-ba-shou-qi-qi
-title: 物外雜題八首  其七
-titlePinyin: wu4 wai4 za2 ti2 ba1 shou3     qi2 qi1
+title: 物外雜題八首・其七
+titlePinyin: wu4 wai4 za2 ti2 ba1 shou3・qi2 qi1
 titleSlug: wu-wai-za-ti-ba-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

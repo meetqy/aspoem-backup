@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-ji-lao-jing-er-shou-qi-er
-title: 閑記老境二首  其二
-titlePinyin: xian2 ji4 lao3 jing4 er4 shou3     qi2 er4
+title: 閑記老境二首・其二
+titlePinyin: xian2 ji4 lao3 jing4 er4 shou3・qi2 er4
 titleSlug: xian-ji-lao-jing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

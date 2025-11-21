@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-zuo-ye-xing-liu-shou-qi-er
-title: 戲作野興六首  其二
-titlePinyin: xi4 zuo4 ye3 xing1 liu4 shou3     qi2 er4
+title: 戲作野興六首・其二
+titlePinyin: xi4 zuo4 ye3 xing1 liu4 shou3・qi2 er4
 titleSlug: xi-zuo-ye-xing-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-shu-yan-ji-er-shou-qi-yi
-title: 戲書燕几二首  其一
-titlePinyin: xi4 shu1 yan4 ji3 er4 shou3     qi2 yi1
+title: 戲書燕几二首・其一
+titlePinyin: xi4 shu1 yan4 ji3 er4 shou3・qi2 yi1
 titleSlug: xi-shu-yan-ji-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

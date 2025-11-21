@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-shui-chu-qi-er-shou-qi-er
-title: 午睡初起二首  其二
-titlePinyin: wu3 shui4 chu1 qi3 er4 shou3     qi2 er4
+title: 午睡初起二首・其二
+titlePinyin: wu3 shui4 chu1 qi3 er4 shou3・qi2 er4
 titleSlug: wu-shui-chu-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

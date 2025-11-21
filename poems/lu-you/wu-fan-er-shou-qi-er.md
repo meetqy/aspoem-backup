@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-fan-er-shou-qi-er
-title: 午飯二首  其二
-titlePinyin: wu3 fan4 er4 shou3     qi2 er4
+title: 午飯二首・其二
+titlePinyin: wu3 fan4 er4 shou3・qi2 er4
 titleSlug: wu-fan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

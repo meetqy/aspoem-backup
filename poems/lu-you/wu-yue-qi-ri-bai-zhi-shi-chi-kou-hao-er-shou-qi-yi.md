@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-yue-qi-ri-bai-zhi-shi-chi-kou-hao-er-shou-qi-yi
-title: 五月七日拜致仕敕口號二首  其一
-titlePinyin: wu3 yue4 qi1 ri4 bai4 zhi4 shi4 chi4 kou3 hao4 er4 shou3     qi2 yi1
+title: 五月七日拜致仕敕口號二首・其一
+titlePinyin: wu3 yue4 qi1 ri4 bai4 zhi4 shi4 chi4 kou3 hao4 er4 shou3・qi2 yi1
 titleSlug: wu-yue-qi-ri-bai-zhi-shi-chi-kou-hao-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

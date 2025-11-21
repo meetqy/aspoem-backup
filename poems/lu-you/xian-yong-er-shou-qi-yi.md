@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-yong-er-shou-qi-yi
-title: 閑詠二首  其一
-titlePinyin: xian2 yong3 er4 shou3     qi2 yi1
+title: 閑詠二首・其一
+titlePinyin: xian2 yong3 er4 shou3・qi2 yi1
 titleSlug: xian-yong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

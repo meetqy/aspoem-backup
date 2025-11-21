@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-ju-dui-shi-shu-kui-er-shou-qi-yi
-title: 閑居對食書愧二首  其一
-titlePinyin: xian2 ju1 dui4 shi2 shu1 kui4 er4 shou3     qi2 yi1
+title: 閑居對食書愧二首・其一
+titlePinyin: xian2 ju1 dui4 shi2 shu1 kui4 er4 shou3・qi2 yi1
 titleSlug: xian-ju-dui-shi-shu-kui-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

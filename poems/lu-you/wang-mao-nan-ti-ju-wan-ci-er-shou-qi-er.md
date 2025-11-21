@@ -1,7 +1,7 @@
 ---
 id: lu-you-wang-mao-nan-ti-ju-wan-ci-er-shou-qi-er
-title: 汪茂南提舉挽詞二首  其二
-titlePinyin: wang1 mao4 nan2 ti2 ju3 wan3 ci2 er4 shou3     qi2 er4
+title: 汪茂南提舉挽詞二首・其二
+titlePinyin: wang1 mao4 nan2 ti2 ju3 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: wang-mao-nan-ti-ju-wan-ci-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

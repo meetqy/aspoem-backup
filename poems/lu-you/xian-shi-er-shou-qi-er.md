@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-shi-er-shou-qi-er
-title: 閑適二首  其二
-titlePinyin: xian2 shi4 er4 shou3     qi2 er4
+title: 閑適二首・其二
+titlePinyin: xian2 shi4 er4 shou3・qi2 er4
 titleSlug: xian-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

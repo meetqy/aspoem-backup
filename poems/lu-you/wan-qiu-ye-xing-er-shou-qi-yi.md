@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-qiu-ye-xing-er-shou-qi-yi
-title: 晚秋野興二首  其一
-titlePinyin: wan3 qiu1 ye3 xing1 er4 shou3     qi2 yi1
+title: 晚秋野興二首・其一
+titlePinyin: wan3 qiu1 ye3 xing1 er4 shou3・qi2 yi1
 titleSlug: wan-qiu-ye-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-zuo-pin-shi-er-shou-qi-yi
-title: 戲作貧詩二首  其一
-titlePinyin: xi4 zuo4 pin2 shi1 er4 shou3     qi2 yi1
+title: 戲作貧詩二首・其一
+titlePinyin: xi4 zuo4 pin2 shi1 er4 shou3・qi2 yi1
 titleSlug: xi-zuo-pin-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

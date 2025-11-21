@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ye-si-shou-qi-san
-title: 夏夜四首  其三
-titlePinyin: xia4 ye4 si4 shou3     qi2 san1
+title: 夏夜四首・其三
+titlePinyin: xia4 ye4 si4 shou3・qi2 san1
 titleSlug: xia-ye-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-nong-bi-xi-shu-san-shou-qi-san
-title: 暇日弄筆戲書三首  其三
-titlePinyin: xia2 ri4 nong4 bi3 xi4 shu1 san1 shou3     qi2 san1
+title: 暇日弄筆戲書三首・其三
+titlePinyin: xia2 ri4 nong4 bi3 xi4 shu1 san1 shou3・qi2 san1
 titleSlug: xia-ri-nong-bi-xi-shu-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

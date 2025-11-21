@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-shang-bi-shu-er-shou-qi-er
-title: 溪上避暑二首  其二
-titlePinyin: xi1 shang4 bi4 shu3 er4 shou3     qi2 er4
+title: 溪上避暑二首・其二
+titlePinyin: xi1 shang4 bi4 shu3 er4 shou3・qi2 er4
 titleSlug: xi-shang-bi-shu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

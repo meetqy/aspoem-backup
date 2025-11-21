@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-ti-er-shou-qi-er
-title: 無題二首  其二
-titlePinyin: wu2 ti2 er4 shou3     qi2 er4
+title: 無題二首・其二
+titlePinyin: wu2 ti2 er4 shou3・qi2 er4
 titleSlug: wu-ti-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-wa-qu-qi-si
-title: 吳娃曲  其四
-titlePinyin: wu2 wa2 qu3     qi2 si4
+title: 吳娃曲・其四
+titlePinyin: wu2 wa2 qu3・qi2 si4
 titleSlug: wu-wa-qu-qi-si
 author: 陸游
 authorPinyin: lu4 you2

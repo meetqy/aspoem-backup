@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-you-si-shou-qi-er
-title: 閑遊四首  其二
-titlePinyin: xian2 you2 si4 shou3     qi2 er4
+title: 閑遊四首・其二
+titlePinyin: xian2 you2 si4 shou3・qi2 er4
 titleSlug: xian-you-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

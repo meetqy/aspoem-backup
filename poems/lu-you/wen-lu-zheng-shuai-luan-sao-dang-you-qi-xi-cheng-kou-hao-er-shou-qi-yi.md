@@ -1,7 +1,7 @@
 ---
 id: lu-you-wen-lu-zheng-shuai-luan-sao-dang-you-qi-xi-cheng-kou-hao-er-shou-qi-yi
-title: 聞虜政衰亂掃蕩有期喜成口號二首  其一
-titlePinyin: wen2 lu3 zheng4 shuai1 luan4 sao3 dang4 you3 qi1 xi3 cheng2 kou3 hao4 er4 shou3     qi2 yi1
+title: 聞虜政衰亂掃蕩有期喜成口號二首・其一
+titlePinyin: wen2 lu3 zheng4 shuai1 luan4 sao3 dang4 you3 qi1 xi3 cheng2 kou3 hao4 er4 shou3・qi2 yi1
 titleSlug: wen-lu-zheng-shuai-luan-sao-dang-you-qi-xi-cheng-kou-hao-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

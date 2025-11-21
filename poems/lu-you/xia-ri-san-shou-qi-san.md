@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-san-shou-qi-san
-title: 夏日三首  其三
-titlePinyin: xia4 ri4 san1 shou3     qi2 san1
+title: 夏日三首・其三
+titlePinyin: xia4 ri4 san1 shou3・qi2 san1
 titleSlug: xia-ri-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

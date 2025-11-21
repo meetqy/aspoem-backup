@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-yong-xian-shi-san-shou-qi-yi
-title: 戲詠閑適三首  其一
-titlePinyin: xi4 yong3 xian2 shi4 san1 shou3     qi2 yi1
+title: 戲詠閑適三首・其一
+titlePinyin: xi4 yong3 xian2 shi4 san1 shou3・qi2 yi1
 titleSlug: xi-yong-xian-shi-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

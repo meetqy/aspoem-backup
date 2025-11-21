@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-shi-er-shou-qi-qi
-title: 夏日十二首  其七
-titlePinyin: xia4 ri4 shi2 er4 shou3     qi2 qi1
+title: 夏日十二首・其七
+titlePinyin: xia4 ri4 shi2 er4 shou3・qi2 qi1
 titleSlug: xia-ri-shi-er-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

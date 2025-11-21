@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-wa-qu-qi-san
-title: 吳娃曲  其三
-titlePinyin: wu2 wa2 qu3     qi2 san1
+title: 吳娃曲・其三
+titlePinyin: wu2 wa2 qu3・qi2 san1
 titleSlug: wu-wa-qu-qi-san
 author: 陸游
 authorPinyin: lu4 you2

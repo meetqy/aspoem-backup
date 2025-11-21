@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-wu-yuan-ri-du-shu-zhi-ye-fen-you-gan-er-shou-qi-er
-title: 戊午元日讀書至夜分有感二首  其二
-titlePinyin: wu4 wu3 yuan2 ri4 du2 shu1 zhi4 ye4 fen1 you3 gan3 er4 shou3     qi2 er4
+title: 戊午元日讀書至夜分有感二首・其二
+titlePinyin: wu4 wu3 yuan2 ri4 du2 shu1 zhi4 ye4 fen1 you3 gan3 er4 shou3・qi2 er4
 titleSlug: wu-wu-yuan-ri-du-shu-zhi-ye-fen-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

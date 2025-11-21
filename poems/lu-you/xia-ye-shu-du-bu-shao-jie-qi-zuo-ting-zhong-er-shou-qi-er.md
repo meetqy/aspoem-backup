@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ye-shu-du-bu-shao-jie-qi-zuo-ting-zhong-er-shou-qi-er
-title: 夏夜暑毒不少解起坐庭中二首  其二
-titlePinyin: xia4 ye4 shu3 du2 bu4 shao3 jie3 qi3 zuo4 ting2 zhong1 er4 shou3     qi2 er4
+title: 夏夜暑毒不少解起坐庭中二首・其二
+titlePinyin: xia4 ye4 shu3 du2 bu4 shao3 jie3 qi3 zuo4 ting2 zhong1 er4 shou3・qi2 er4
 titleSlug: xia-ye-shu-du-bu-shao-jie-qi-zuo-ting-zhong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

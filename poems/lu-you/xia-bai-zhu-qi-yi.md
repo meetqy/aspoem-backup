@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-bai-zhu-qi-yi
-title: 夏白紵  其一
-titlePinyin: xia4 bai2 zhu4     qi2 yi1
+title: 夏白紵・其一
+titlePinyin: xia4 bai2 zhu4・qi2 yi1
 titleSlug: xia-bai-zhu-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

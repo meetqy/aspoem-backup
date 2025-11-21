@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-ren-you-hua-zui-seng-zui-dao-shi-zui-xue-jiu-zhe-jie-jian-yu-chuan-ji-ji-ge-shi-zhong-yu-xia-ri-wei-ge-fu-yi-shou-zui-dao-shi
-title: 昔人有畫醉僧醉道士醉學究者皆見于傳記及歌詩中予暇日爲各賦一首 醉道士
-titlePinyin: xi1 ren2 you3 hua4 zui4 seng1 zui4 dao4 shi0 zui4 xue2 jiu1 zhe3 jie1 jian4 yu2 chuan2 ji4 ji2 ge1 shi1 zhong1 yu3 xia2 ri4 wei2 ge4 fu4 yi4 shou3   zui4 dao4 shi0
+title: 昔人有畫醉僧醉道士醉學究者皆見于傳記及歌詩中予暇日爲各賦一首・醉道士
+titlePinyin: xi1 ren2 you3 hua4 zui4 seng1 zui4 dao4 shi0 zui4 xue2 jiu1 zhe3 jie1 jian4 yu2 chuan2 ji4 ji2 ge1 shi1 zhong1 yu3 xia2 ri4 wei2 ge4 fu4 yi4 shou3・zui4 dao4 shi0
 titleSlug: xi-ren-you-hua-zui-seng-zui-dao-shi-zui-xue-jiu-zhe-jie-jian-yu-chuan-ji-ji-ge-shi-zhong-yu-xia-ri-wei-ge-fu-yi-shou-zui-dao-shi
 author: 陸游
 authorPinyin: lu4 you2

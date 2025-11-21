@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-qiu-chu-men-xi-zuo-er-shou-qi-er
-title: 晚秋出門戲作二首  其二
-titlePinyin: wan3 qiu1 chu1 men2 xi4 zuo4 er4 shou3     qi2 er4
+title: 晚秋出門戲作二首・其二
+titlePinyin: wan3 qiu1 chu1 men2 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: wan-qiu-chu-men-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

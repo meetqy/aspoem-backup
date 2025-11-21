@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-xing-er-shou-qi-yi
-title: 溪行二首  其一
-titlePinyin: xi1 xing2 er4 shou3     qi2 yi1
+title: 溪行二首・其一
+titlePinyin: xi1 xing2 er4 shou3・qi2 yi1
 titleSlug: xi-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

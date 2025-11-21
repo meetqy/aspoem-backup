@@ -1,7 +1,7 @@
 ---
 id: lu-you-wo-bing-za-ti-wu-shou-qi-er
-title: 卧病雜題五首  其二
-titlePinyin: wo4 bing4 za2 ti2 wu3 shou3     qi2 er4
+title: 卧病雜題五首・其二
+titlePinyin: wo4 bing4 za2 ti2 wu3 shou3・qi2 er4
 titleSlug: wo-bing-za-ti-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

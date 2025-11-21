@@ -1,7 +1,7 @@
 ---
 id: lu-you-wan-chun-gan-shi-si-shou-qi-si
-title: 晚春感事四首  其四
-titlePinyin: wan3 chun1 gan3 shi4 si4 shou3     qi2 si4
+title: 晚春感事四首・其四
+titlePinyin: wan3 chun1 gan3 shi4 si4 shou3・qi2 si4
 titleSlug: wan-chun-gan-shi-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

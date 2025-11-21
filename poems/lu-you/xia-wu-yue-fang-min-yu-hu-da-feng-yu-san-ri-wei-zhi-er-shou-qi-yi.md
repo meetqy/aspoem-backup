@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-wu-yue-fang-min-yu-hu-da-feng-yu-san-ri-wei-zhi-er-shou-qi-yi
-title: 夏五月方閔雨忽大風雨三日未止二首  其一
-titlePinyin: xia4 wu3 yue4 fang1 min3 yu3 hu1 da4 feng1 yu3 san1 ri4 wei4 zhi3 er4 shou3     qi2 yi1
+title: 夏五月方閔雨忽大風雨三日未止二首・其一
+titlePinyin: xia4 wu3 yue4 fang1 min3 yu3 hu1 da4 feng1 yu3 san1 ri4 wei4 zhi3 er4 shou3・qi2 yi1
 titleSlug: xia-wu-yue-fang-min-yu-hu-da-feng-yu-san-ri-wei-zhi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

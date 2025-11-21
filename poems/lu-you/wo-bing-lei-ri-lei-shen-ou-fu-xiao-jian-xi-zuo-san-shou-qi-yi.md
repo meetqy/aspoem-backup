@@ -1,7 +1,7 @@
 ---
 id: lu-you-wo-bing-lei-ri-lei-shen-ou-fu-xiao-jian-xi-zuo-san-shou-qi-yi
-title: 卧病累日羸甚偶復小健戲作三首  其一
-titlePinyin: wo4 bing4 lei4 ri4 lei2 shen4 ou3 fu4 xiao3 jian4 xi4 zuo4 san1 shou3     qi2 yi1
+title: 卧病累日羸甚偶復小健戲作三首・其一
+titlePinyin: wo4 bing4 lei4 ri4 lei2 shen4 ou3 fu4 xiao3 jian4 xi4 zuo4 san1 shou3・qi2 yi1
 titleSlug: wo-bing-lei-ri-lei-shen-ou-fu-xiao-jian-xi-zuo-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

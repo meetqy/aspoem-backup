@@ -1,7 +1,7 @@
 ---
 id: lu-you-wen-xi-shi-fu-hua-zhou-er-shou-qi-er
-title: 聞西師復華州二首  其二
-titlePinyin: wen2 xi1 shi1 fu4 hua2 zhou1 er4 shou3     qi2 er4
+title: 聞西師復華州二首・其二
+titlePinyin: wen2 xi1 shi1 fu4 hua2 zhou1 er4 shou3・qi2 er4
 titleSlug: wen-xi-shi-fu-hua-zhou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

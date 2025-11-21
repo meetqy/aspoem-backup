@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-zhong-za-xing-liu-shou-qi-liu
-title: 夏中雜興六首  其六
-titlePinyin: xia4 zhong1 za2 xing1 liu4 shou3     qi2 liu4
+title: 夏中雜興六首・其六
+titlePinyin: xia4 zhong1 za2 xing1 liu4 shou3・qi2 liu4
 titleSlug: xia-zhong-za-xing-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

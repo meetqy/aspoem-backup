@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-ju-qi-shou-qi-liu
-title: 閑居七首  其六
-titlePinyin: xian2 ju1 qi1 shou3     qi2 liu4
+title: 閑居七首・其六
+titlePinyin: xian2 ju1 qi1 shou3・qi2 liu4
 titleSlug: xian-ju-qi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

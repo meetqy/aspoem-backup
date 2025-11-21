@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-za-zu-er-shou-qi-er
-title: 五雜組二首  其二
-titlePinyin: wu3 za2 zu3 er4 shou3     qi2 er4
+title: 五雜組二首・其二
+titlePinyin: wu3 za2 zu3 er4 shou3・qi2 er4
 titleSlug: wu-za-zu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

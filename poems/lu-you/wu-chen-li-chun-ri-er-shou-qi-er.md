@@ -1,7 +1,7 @@
 ---
 id: lu-you-wu-chen-li-chun-ri-er-shou-qi-er
-title: 戊辰立春日二首  其二
-titlePinyin: wu4 chen2 li4 chun1 ri4 er4 shou3     qi2 er4
+title: 戊辰立春日二首・其二
+titlePinyin: wu4 chen2 li4 chun1 ri4 er4 shou3・qi2 er4
 titleSlug: wu-chen-li-chun-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

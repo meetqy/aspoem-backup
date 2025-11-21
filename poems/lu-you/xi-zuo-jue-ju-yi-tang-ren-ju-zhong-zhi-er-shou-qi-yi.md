@@ -1,7 +1,7 @@
 ---
 id: lu-you-xi-zuo-jue-ju-yi-tang-ren-ju-zhong-zhi-er-shou-qi-yi
-title: 戲作絕句以唐人句終之二首  其一
-titlePinyin: xi4 zuo4 jue2 ju4 yi3 tang2 ren2 ju4 zhong1 zhi1 er4 shou3     qi2 yi1
+title: 戲作絕句以唐人句終之二首・其一
+titlePinyin: xi4 zuo4 jue2 ju4 yi3 tang2 ren2 ju4 zhong1 zhi1 er4 shou3・qi2 yi1
 titleSlug: xi-zuo-jue-ju-yi-tang-ren-ju-zhong-zhi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

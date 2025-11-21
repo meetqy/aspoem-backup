@@ -1,7 +1,7 @@
 ---
 id: lu-you-xia-ri-gan-jiu-si-shou-qi-san
-title: 夏日感舊四首  其三
-titlePinyin: xia4 ri4 gan3 jiu4 si4 shou3     qi2 san1
+title: 夏日感舊四首・其三
+titlePinyin: xia4 ri4 gan3 jiu4 si4 shou3・qi2 san1
 titleSlug: xia-ri-gan-jiu-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
