@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-shan-ju-ye-zuo
-title: 秋日山居 夜坐
-titlePinyin: qiu1 ri4 shan1 ju1   ye4 zuo4
+title: 秋日山居・夜坐
+titlePinyin: qiu1 ri4 shan1 ju1・ye4 zuo4
 titleSlug: qiu-ri-shan-ju-ye-zuo
 author: 陸游
 authorPinyin: lu4 you2

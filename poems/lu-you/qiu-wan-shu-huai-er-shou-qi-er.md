@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-shu-huai-er-shou-qi-er
-title: 秋晚書懷二首  其二
-titlePinyin: qiu1 wan3 shu1 huai2 er4 shou3     qi2 er4
+title: 秋晚書懷二首・其二
+titlePinyin: qiu1 wan3 shu1 huai2 er4 shou3・qi2 er4
 titleSlug: qiu-wan-shu-huai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

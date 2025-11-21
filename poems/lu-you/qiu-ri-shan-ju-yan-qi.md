@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-shan-ju-yan-qi
-title: 秋日山居 晏起
-titlePinyin: qiu1 ri4 shan1 ju1   yan4 qi3
+title: 秋日山居・晏起
+titlePinyin: qiu1 ri4 shan1 ju1・yan4 qi3
 titleSlug: qiu-ri-shan-ju-yan-qi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-si-jue-ju-liu-shou-qi-liu
-title: 秋思絕句六首  其六
-titlePinyin: qiu1 si1 jue2 ju4 liu4 shou3     qi2 liu4
+title: 秋思絕句六首・其六
+titlePinyin: qiu1 si1 jue2 ju4 liu4 shou3・qi2 liu4
 titleSlug: qiu-si-jue-ju-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

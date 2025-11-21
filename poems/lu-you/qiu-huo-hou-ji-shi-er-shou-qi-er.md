@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-huo-hou-ji-shi-er-shou-qi-er
-title: 秋穫後即事二首  其二
-titlePinyin: qiu1 huo4 hou4 ji2 shi4 er4 shou3     qi2 er4
+title: 秋穫後即事二首・其二
+titlePinyin: qiu1 huo4 hou4 ji2 shi4 er4 shou3・qi2 er4
 titleSlug: qiu-huo-hou-ji-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

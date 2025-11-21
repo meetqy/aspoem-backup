@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-si-shi-shou-qi-jiu
-title: 秋思十首  其九
-titlePinyin: qiu1 si1 shi2 shou3     qi2 jiu3
+title: 秋思十首・其九
+titlePinyin: qiu1 si1 shi2 shou3・qi2 jiu3
 titleSlug: qiu-si-shi-shou-qi-jiu
 author: 陸游
 authorPinyin: lu4 you2

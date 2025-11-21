@@ -1,7 +1,7 @@
 ---
 id: lu-you-pin-bing-xi-shu-er-shou-qi-er
-title: 貧病戲書二首  其二
-titlePinyin: pin2 bing4 xi4 shu1 er4 shou3     qi2 er4
+title: 貧病戲書二首・其二
+titlePinyin: pin2 bing4 xi4 shu1 er4 shou3・qi2 er4
 titleSlug: pin-bing-xi-shu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

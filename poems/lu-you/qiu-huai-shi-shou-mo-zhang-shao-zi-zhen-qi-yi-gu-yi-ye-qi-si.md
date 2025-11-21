@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-huai-shi-shou-mo-zhang-shao-zi-zhen-qi-yi-gu-yi-ye-qi-si
-title: 秋懷十首末章稍自振起亦古義也  其四
-titlePinyin: qiu1 huai2 shi2 shou3 mo4 zhang1 shao1 zi4 zhen4 qi3 yi4 gu3 yi4 ye3     qi2 si4
+title: 秋懷十首末章稍自振起亦古義也・其四
+titlePinyin: qiu1 huai2 shi2 shou3 mo4 zhang1 shao1 zi4 zhen4 qi3 yi4 gu3 yi4 ye3・qi2 si4
 titleSlug: qiu-huai-shi-shou-mo-zhang-shao-zi-zhen-qi-yi-gu-yi-ye-qi-si
 author: 陸游
 authorPinyin: lu4 you2

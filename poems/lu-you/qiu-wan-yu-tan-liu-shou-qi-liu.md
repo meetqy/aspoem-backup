@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-yu-tan-liu-shou-qi-liu
-title: 秋晚寓嘆六首  其六
-titlePinyin: qiu1 wan3 yu4 tan4 liu4 shou3     qi2 liu4
+title: 秋晚寓嘆六首・其六
+titlePinyin: qiu1 wan3 yu4 tan4 liu4 shou3・qi2 liu4
 titleSlug: qiu-wan-yu-tan-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

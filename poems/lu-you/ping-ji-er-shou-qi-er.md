@@ -1,7 +1,7 @@
 ---
 id: lu-you-ping-ji-er-shou-qi-er
-title: 屏迹二首  其二
-titlePinyin: ping2 ji4 er4 shou3     qi2 er4
+title: 屏迹二首・其二
+titlePinyin: ping2 ji4 er4 shou3・qi2 er4
 titleSlug: ping-ji-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

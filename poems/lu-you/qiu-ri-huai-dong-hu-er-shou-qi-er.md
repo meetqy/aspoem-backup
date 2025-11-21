@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-huai-dong-hu-er-shou-qi-er
-title: 秋日懷東湖二首  其二
-titlePinyin: qiu1 ri4 huai2 dong1 hu2 er4 shou3     qi2 er4
+title: 秋日懷東湖二首・其二
+titlePinyin: qiu1 ri4 huai2 dong1 hu2 er4 shou3・qi2 er4
 titleSlug: qiu-ri-huai-dong-hu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

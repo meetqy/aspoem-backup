@@ -1,7 +1,7 @@
 ---
 id: lu-you-pin-she-xie-xing-er-shou-qi-er
-title: 貧舍寫興二首  其二
-titlePinyin: pin2 she4 xie3 xing1 er4 shou3     qi2 er4
+title: 貧舍寫興二首・其二
+titlePinyin: pin2 she4 xie3 xing1 er4 shou3・qi2 er4
 titleSlug: pin-she-xie-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

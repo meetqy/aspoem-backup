@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-she-er-shou-qi-yi
-title: 秋社二首  其一
-titlePinyin: qiu1 she4 er4 shou3     qi2 yi1
+title: 秋社二首・其一
+titlePinyin: qiu1 she4 er4 shou3・qi2 yi1
 titleSlug: qiu-she-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

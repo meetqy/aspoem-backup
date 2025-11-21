@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-jin-zi-qian-er-shou-qi-er
-title: 秋盡自遣二首  其二
-titlePinyin: qiu1 jin4 zi4 qian3 er4 shou3     qi2 er4
+title: 秋盡自遣二首・其二
+titlePinyin: qiu1 jin4 zi4 qian3 er4 shou3・qi2 er4
 titleSlug: qiu-jin-zi-qian-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

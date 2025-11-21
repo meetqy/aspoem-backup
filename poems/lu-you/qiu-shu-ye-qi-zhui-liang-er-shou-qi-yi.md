@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-shu-ye-qi-zhui-liang-er-shou-qi-yi
-title: 秋暑夜起追凉二首  其一
-titlePinyin: qiu1 shu3 ye4 qi3 zhui1 liang2 er4 shou3     qi2 yi1
+title: 秋暑夜起追凉二首・其一
+titlePinyin: qiu1 shu3 ye4 qi3 zhui1 liang2 er4 shou3・qi2 yi1
 titleSlug: qiu-shu-ye-qi-zhui-liang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

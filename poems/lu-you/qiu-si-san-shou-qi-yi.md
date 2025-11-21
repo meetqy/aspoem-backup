@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-si-san-shou-qi-yi
-title: 秋思三首  其一
-titlePinyin: qiu1 si1 san1 shou3     qi2 yi1
+title: 秋思三首・其一
+titlePinyin: qiu1 si1 san1 shou3・qi2 yi1
 titleSlug: qiu-si-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

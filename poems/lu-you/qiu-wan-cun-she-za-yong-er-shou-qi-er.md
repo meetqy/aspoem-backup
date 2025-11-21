@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-cun-she-za-yong-er-shou-qi-er
-title: 秋晚村舍雜詠二首  其二
-titlePinyin: qiu1 wan3 cun1 she4 za2 yong3 er4 shou3     qi2 er4
+title: 秋晚村舍雜詠二首・其二
+titlePinyin: qiu1 wan3 cun1 she4 za2 yong3 er4 shou3・qi2 er4
 titleSlug: qiu-wan-cun-she-za-yong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-huai-shi-shou-qi-er
-title: 秋懷十首  其二
-titlePinyin: qiu1 huai2 shi2 shou3     qi2 er4
+title: 秋懷十首・其二
+titlePinyin: qiu1 huai2 shi2 shou3・qi2 er4
 titleSlug: qiu-huai-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

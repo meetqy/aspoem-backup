@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-lai-yi-jue-wan-jian-shi-yi-chu-you-yi-zhong-shen-shi-za-fu-wu-zi-shi-shou-qi-er
-title: 秋來益覺頑健時一出遊意中甚適雜賦五字十首  其二
-titlePinyin: qiu1 lai2 yi4 jue2 wan2 jian4 shi2 yi4 chu1 you2 yi4 zhong1 shen4 shi4 za2 fu4 wu3 zi4 shi2 shou3     qi2 er4
+title: 秋來益覺頑健時一出遊意中甚適雜賦五字十首・其二
+titlePinyin: qiu1 lai2 yi4 jue2 wan2 jian4 shi2 yi4 chu1 you2 yi4 zhong1 shen4 shi4 za2 fu4 wu3 zi4 shi2 shou3・qi2 er4
 titleSlug: qiu-lai-yi-jue-wan-jian-shi-yi-chu-you-yi-zhong-shen-shi-za-fu-wu-zi-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-za-xing-shi-er-shou-qi-qi
-title: 秋晚雜興十二首  其七
-titlePinyin: qiu1 wan3 za2 xing1 shi2 er4 shou3     qi2 qi1
+title: 秋晚雜興十二首・其七
+titlePinyin: qiu1 wan3 za2 xing1 shi2 er4 shou3・qi2 qi1
 titleSlug: qiu-wan-za-xing-shi-er-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

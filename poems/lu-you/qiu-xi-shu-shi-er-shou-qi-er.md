@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-xi-shu-shi-er-shou-qi-er
-title: 秋夕書事二首  其二
-titlePinyin: qiu1 xi1 shu1 shi4 er4 shou3     qi2 er4
+title: 秋夕書事二首・其二
+titlePinyin: qiu1 xi1 shu1 shi4 er4 shou3・qi2 er4
 titleSlug: qiu-xi-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

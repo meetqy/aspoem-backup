@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-ci-qian-bei-xin-nian-yun-wu-shou-qi-si
-title: 秋日次前輩新年韵五首  其四
-titlePinyin: qiu1 ri4 ci4 qian2 bei4 xin1 nian2 yun4 wu3 shou3     qi2 si4
+title: 秋日次前輩新年韵五首・其四
+titlePinyin: qiu1 ri4 ci4 qian2 bei4 xin1 nian2 yun4 wu3 shou3・qi2 si4
 titleSlug: qiu-ri-ci-qian-bei-xin-nian-yun-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

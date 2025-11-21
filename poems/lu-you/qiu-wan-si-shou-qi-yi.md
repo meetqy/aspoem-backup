@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-si-shou-qi-yi
-title: 秋晚四首  其一
-titlePinyin: qiu1 wan3 si4 shou3     qi2 yi1
+title: 秋晚四首・其一
+titlePinyin: qiu1 wan3 si4 shou3・qi2 yi1
 titleSlug: qiu-wan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

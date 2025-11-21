@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-qian-huai-ba-shou-qi-qi
-title: 秋日遣懷八首  其七
-titlePinyin: qiu1 ri4 qian3 huai2 ba1 shou3     qi2 qi1
+title: 秋日遣懷八首・其七
+titlePinyin: qiu1 ri4 qian3 huai2 ba1 shou3・qi2 qi1
 titleSlug: qiu-ri-qian-huai-ba-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

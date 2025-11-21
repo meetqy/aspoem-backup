@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-dong-zhi-jiao-za-fu-liu-shou-qi-wu
-title: 秋冬之交雜賦六首  其五
-titlePinyin: qiu1 dong1 zhi1 jiao1 za2 fu4 liu4 shou3     qi2 wu3
+title: 秋冬之交雜賦六首・其五
+titlePinyin: qiu1 dong1 zhi1 jiao1 za2 fu4 liu4 shou3・qi2 wu3
 titleSlug: qiu-dong-zhi-jiao-za-fu-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-xing-shi-er-shou-qi-er
-title: 秋興十二首  其二
-titlePinyin: qiu1 xing1 shi2 er4 shou3     qi2 er4
+title: 秋興十二首・其二
+titlePinyin: qiu1 xing1 shi2 er4 shou3・qi2 er4
 titleSlug: qiu-xing-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

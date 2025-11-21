@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-si-shi-shou-qi-ba
-title: 秋思十首  其八
-titlePinyin: qiu1 si1 shi2 shou3     qi2 ba1
+title: 秋思十首・其八
+titlePinyin: qiu1 si1 shi2 shou3・qi2 ba1
 titleSlug: qiu-si-shi-shou-qi-ba
 author: 陸游
 authorPinyin: lu4 you2

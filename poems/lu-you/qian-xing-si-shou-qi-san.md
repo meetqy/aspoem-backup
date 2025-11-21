@@ -1,7 +1,7 @@
 ---
 id: lu-you-qian-xing-si-shou-qi-san
-title: 遣興四首  其三
-titlePinyin: qian3 xing1 si4 shou3     qi2 san1
+title: 遣興四首・其三
+titlePinyin: qian3 xing1 si4 shou3・qi2 san1
 titleSlug: qian-xing-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

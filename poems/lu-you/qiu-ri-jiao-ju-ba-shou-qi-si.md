@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-jiao-ju-ba-shou-qi-si
-title: 秋日郊居八首  其四
-titlePinyin: qiu1 ri4 jiao1 ju1 ba1 shou3     qi2 si4
+title: 秋日郊居八首・其四
+titlePinyin: qiu1 ri4 jiao1 ju1 ba1 shou3・qi2 si4
 titleSlug: qiu-ri-jiao-ju-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

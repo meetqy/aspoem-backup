@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-sui-deng-xi-zuo-er-shou-qi-er
-title: 秋晚歲登戲作二首  其二
-titlePinyin: qiu1 wan3 sui4 deng1 xi4 zuo4 er4 shou3     qi2 er4
+title: 秋晚歲登戲作二首・其二
+titlePinyin: qiu1 wan3 sui4 deng1 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: qiu-wan-sui-deng-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

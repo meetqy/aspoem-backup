@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-wan-si-liang-yi-jiu-you-san-shou-qi-san
-title: 秋晚思梁益舊逰三首  其三
-titlePinyin: qiu1 wan3 si1 liang2 yi4 jiu4 you2 san1 shou3     qi2 san1
+title: 秋晚思梁益舊逰三首・其三
+titlePinyin: qiu1 wan3 si1 liang2 yi4 jiu4 you2 san1 shou3・qi2 san1
 titleSlug: qiu-wan-si-liang-yi-jiu-you-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

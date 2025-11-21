@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-chu-you-xi-zuo-er-shou-qi-er
-title: 秋日出遊戲作二首  其二
-titlePinyin: qiu1 ri4 chu1 you2 xi4 zuo4 er4 shou3     qi2 er4
+title: 秋日出遊戲作二首・其二
+titlePinyin: qiu1 ri4 chu1 you2 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: qiu-ri-chu-you-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

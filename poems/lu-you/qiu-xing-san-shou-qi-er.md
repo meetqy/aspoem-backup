@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-xing-san-shou-qi-er
-title: 秋興三首  其二
-titlePinyin: qiu1 xing1 san1 shou3     qi2 er4
+title: 秋興三首・其二
+titlePinyin: qiu1 xing1 san1 shou3・qi2 er4
 titleSlug: qiu-xing-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

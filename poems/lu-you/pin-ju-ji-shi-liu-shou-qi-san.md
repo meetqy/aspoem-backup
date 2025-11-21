@@ -1,7 +1,7 @@
 ---
 id: lu-you-pin-ju-ji-shi-liu-shou-qi-san
-title: 貧居即事六首  其三
-titlePinyin: pin2 ju1 ji2 shi4 liu4 shou3     qi2 san1
+title: 貧居即事六首・其三
+titlePinyin: pin2 ju1 ji2 shi4 liu4 shou3・qi2 san1
 titleSlug: pin-ju-ji-shi-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

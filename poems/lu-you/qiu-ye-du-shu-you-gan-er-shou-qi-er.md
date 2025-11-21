@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-du-shu-you-gan-er-shou-qi-er
-title: 秋夜讀書有感二首  其二
-titlePinyin: qiu1 ye4 du2 shu1 you3 gan3 er4 shou3     qi2 er4
+title: 秋夜讀書有感二首・其二
+titlePinyin: qiu1 ye4 du2 shu1 you3 gan3 er4 shou3・qi2 er4
 titleSlug: qiu-ye-du-shu-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

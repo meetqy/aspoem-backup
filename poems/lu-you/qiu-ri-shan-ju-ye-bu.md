@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-shan-ju-ye-bu
-title: 秋日山居 野步
-titlePinyin: qiu1 ri4 shan1 ju1   ye3 bu4
+title: 秋日山居・野步
+titlePinyin: qiu1 ri4 shan1 ju1・ye3 bu4
 titleSlug: qiu-ri-shan-ju-ye-bu
 author: 陸游
 authorPinyin: lu4 you2

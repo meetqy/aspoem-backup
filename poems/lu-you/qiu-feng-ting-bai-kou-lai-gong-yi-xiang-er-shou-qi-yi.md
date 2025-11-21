@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-feng-ting-bai-kou-lai-gong-yi-xiang-er-shou-qi-yi
-title: 秋風亭拜宼萊公遺像二首  其一
-titlePinyin: qiu1 feng1 ting2 bai4 kou4 lai2 gong1 yi2 xiang4 er4 shou3     qi2 yi1
+title: 秋風亭拜宼萊公遺像二首・其一
+titlePinyin: qiu1 feng1 ting2 bai4 kou4 lai2 gong1 yi2 xiang4 er4 shou3・qi2 yi1
 titleSlug: qiu-feng-ting-bai-kou-lai-gong-yi-xiang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

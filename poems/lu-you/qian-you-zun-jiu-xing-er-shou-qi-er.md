@@ -1,7 +1,7 @@
 ---
 id: lu-you-qian-you-zun-jiu-xing-er-shou-qi-er
-title: 前有樽酒行二首  其二
-titlePinyin: qian2 you3 zun1 jiu3 xing2 er4 shou3     qi2 er4
+title: 前有樽酒行二首・其二
+titlePinyin: qian2 you3 zun1 jiu3 xing2 er4 shou3・qi2 er4
 titleSlug: qian-you-zun-jiu-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

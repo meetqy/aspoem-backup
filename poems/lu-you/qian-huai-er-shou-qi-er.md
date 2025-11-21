@@ -1,7 +1,7 @@
 ---
 id: lu-you-qian-huai-er-shou-qi-er
-title: 遣懷二首  其二
-titlePinyin: qian3 huai2 er4 shou3     qi2 er4
+title: 遣懷二首・其二
+titlePinyin: qian3 huai2 er4 shou3・qi2 er4
 titleSlug: qian-huai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

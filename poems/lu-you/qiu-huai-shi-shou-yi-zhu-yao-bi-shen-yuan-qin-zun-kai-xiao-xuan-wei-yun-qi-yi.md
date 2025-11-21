@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-huai-shi-shou-yi-zhu-yao-bi-shen-yuan-qin-zun-kai-xiao-xuan-wei-yun-qi-yi
-title: 秋懷十首以竹藥閉深院琴樽開小軒爲韵  其一○
-titlePinyin: qiu1 huai2 shi2 shou3 yi3 zhu2 yao4 bi4 shen1 yuan4 qin2 zun1 kai1 xiao3 xuan1 wei2 yun4     qi2 yi1 ○
+title: 秋懷十首以竹藥閉深院琴樽開小軒爲韵・其一○
+titlePinyin: qiu1 huai2 shi2 shou3 yi3 zhu2 yao4 bi4 shen1 yuan4 qin2 zun1 kai1 xiao3 xuan1 wei2 yun4・qi2 yi1 ○
 titleSlug: qiu-huai-shi-shou-yi-zhu-yao-bi-shen-yuan-qin-zun-kai-xiao-xuan-wei-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

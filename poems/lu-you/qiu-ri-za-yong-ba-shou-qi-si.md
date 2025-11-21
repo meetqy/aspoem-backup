@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-za-yong-ba-shou-qi-si
-title: 秋日雜詠八首  其四
-titlePinyin: qiu1 ri4 za2 yong3 ba1 shou3     qi2 si4
+title: 秋日雜詠八首・其四
+titlePinyin: qiu1 ri4 za2 yong3 ba1 shou3・qi2 si4
 titleSlug: qiu-ri-za-yong-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-pin-shen-xi-zuo-jue-ju-ba-shou-qi-liu
-title: 貧甚戲作絕句八首  其六
-titlePinyin: pin2 shen4 xi4 zuo4 jue2 ju4 ba1 shou3     qi2 liu4
+title: 貧甚戲作絕句八首・其六
+titlePinyin: pin2 shen4 xi4 zuo4 jue2 ju4 ba1 shou3・qi2 liu4
 titleSlug: pin-shen-xi-zuo-jue-ju-ba-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-jiao-you-huai-si-shou-qi-san
-title: 秋郊有懷四首  其三
-titlePinyin: qiu1 jiao1 you3 huai2 si4 shou3     qi2 san1
+title: 秋郊有懷四首・其三
+titlePinyin: qiu1 jiao1 you3 huai2 si4 shou3・qi2 san1
 titleSlug: qiu-jiao-you-huai-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

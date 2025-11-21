@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-xing-er-shou-qi-yi
-title: 秋興二首  其一
-titlePinyin: qiu1 xing1 er4 shou3     qi2 yi1
+title: 秋興二首・其一
+titlePinyin: qiu1 xing1 er4 shou3・qi2 yi1
 titleSlug: qiu-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

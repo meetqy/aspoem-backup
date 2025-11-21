@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-jiao-you-huai-si-shou-qi-er
-title: 秋郊有懷四首  其二
-titlePinyin: qiu1 jiao1 you3 huai2 si4 shou3     qi2 er4
+title: 秋郊有懷四首・其二
+titlePinyin: qiu1 jiao1 you3 huai2 si4 shou3・qi2 er4
 titleSlug: qiu-jiao-you-huai-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

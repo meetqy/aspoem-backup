@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ri-cun-she-er-shou-qi-er
-title: 秋日村舍二首  其二
-titlePinyin: qiu1 ri4 cun1 she4 er4 shou3     qi2 er4
+title: 秋日村舍二首・其二
+titlePinyin: qiu1 ri4 cun1 she4 er4 shou3・qi2 er4
 titleSlug: qiu-ri-cun-she-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
