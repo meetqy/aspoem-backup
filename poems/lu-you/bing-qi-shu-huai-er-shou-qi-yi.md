@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-qi-shu-huai-er-shou-qi-yi
-title: 病起書懷二首  其一
-titlePinyin: bing4 qi3 shu1 huai2 er4 shou3     qi2 yi1
+title: 病起書懷二首・其一
+titlePinyin: bing4 qi3 shu1 huai2 er4 shou3・qi2 yi1
 titleSlug: bing-qi-shu-huai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

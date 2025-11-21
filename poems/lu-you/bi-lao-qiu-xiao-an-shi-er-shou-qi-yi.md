@@ -1,7 +1,7 @@
 ---
 id: lu-you-bi-lao-qiu-xiao-an-shi-er-shou-qi-yi
-title: 壁老求笑庵詩二首  其一
-titlePinyin: bi4 lao3 qiu2 xiao4 an1 shi1 er4 shou3     qi2 yi1
+title: 壁老求笑庵詩二首・其一
+titlePinyin: bi4 lao3 qiu2 xiao4 an1 shi1 er4 shou3・qi2 yi1
 titleSlug: bi-lao-qiu-xiao-an-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

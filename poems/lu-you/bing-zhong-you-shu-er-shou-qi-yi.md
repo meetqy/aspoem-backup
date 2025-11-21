@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-you-shu-er-shou-qi-yi
-title: 病中有述二首  其一
-titlePinyin: bing4 zhong1 you3 shu4 er4 shou3     qi2 yi1
+title: 病中有述二首・其一
+titlePinyin: bing4 zhong1 you3 shu4 er4 shou3・qi2 yi1
 titleSlug: bing-zhong-you-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

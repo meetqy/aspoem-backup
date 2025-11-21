@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-wo-wen-chong-sheng-er-shou-qi-er
-title: 病中卧聞舂聲二首  其二
-titlePinyin: bing4 zhong1 wo4 wen2 chong1 sheng1 er4 shou3     qi2 er4
+title: 病中卧聞舂聲二首・其二
+titlePinyin: bing4 zhong1 wo4 wen2 chong1 sheng1 er4 shou3・qi2 er4
 titleSlug: bing-zhong-wo-wen-chong-sheng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

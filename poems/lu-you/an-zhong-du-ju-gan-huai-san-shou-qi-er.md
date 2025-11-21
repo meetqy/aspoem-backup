@@ -1,7 +1,7 @@
 ---
 id: lu-you-an-zhong-du-ju-gan-huai-san-shou-qi-er
-title: 庵中獨居感懷三首  其二
-titlePinyin: an1 zhong1 du2 ju1 gan3 huai2 san1 shou3     qi2 er4
+title: 庵中獨居感懷三首・其二
+titlePinyin: an1 zhong1 du2 ju1 gan3 huai2 san1 shou3・qi2 er4
 titleSlug: an-zhong-du-ju-gan-huai-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

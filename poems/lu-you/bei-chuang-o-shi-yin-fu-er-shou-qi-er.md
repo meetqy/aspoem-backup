@@ -1,7 +1,7 @@
 ---
 id: lu-you-bei-chuang-o-shi-yin-fu-er-shou-qi-er
-title: 北窗哦詩因賦二首  其二
-titlePinyin: bei3 chuang1 o4 shi1 yin1 fu4 er4 shou3     qi2 er4
+title: 北窗哦詩因賦二首・其二
+titlePinyin: bei3 chuang1 o4 shi1 yin1 fu4 er4 shou3・qi2 er4
 titleSlug: bei-chuang-o-shi-yin-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

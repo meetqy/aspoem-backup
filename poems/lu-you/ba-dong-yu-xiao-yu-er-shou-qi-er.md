@@ -1,7 +1,7 @@
 ---
 id: lu-you-ba-dong-yu-xiao-yu-er-shou-qi-er
-title: 巴東遇小雨二首  其二
-titlePinyin: ba1 dong1 yu4 xiao3 yu3 er4 shou3     qi2 er4
+title: 巴東遇小雨二首・其二
+titlePinyin: ba1 dong1 yu4 xiao3 yu3 er4 shou3・qi2 er4
 titleSlug: ba-dong-yu-xiao-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

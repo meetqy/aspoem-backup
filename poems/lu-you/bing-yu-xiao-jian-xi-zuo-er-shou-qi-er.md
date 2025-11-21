@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-yu-xiao-jian-xi-zuo-er-shou-qi-er
-title: 病愈小健戲作二首  其二
-titlePinyin: bing4 yu4 xiao3 jian4 xi4 zuo4 er4 shou3     qi2 er4
+title: 病愈小健戲作二首・其二
+titlePinyin: bing4 yu4 xiao3 jian4 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: bing-yu-xiao-jian-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

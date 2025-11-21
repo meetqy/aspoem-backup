@@ -1,7 +1,7 @@
 ---
 id: lu-you-bai-chi-kou-hao-er-shou-qi-er
-title: 拜勅口號二首  其二
-titlePinyin: bai4 chi4 kou3 hao4 er4 shou3     qi2 er4
+title: 拜勅口號二首・其二
+titlePinyin: bai4 chi4 kou3 hao4 er4 shou3・qi2 er4
 titleSlug: bai-chi-kou-hao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

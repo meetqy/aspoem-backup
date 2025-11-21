@@ -1,7 +1,7 @@
 ---
 id: lu-you-an-zhong-za-shu-si-shou-qi-si
-title: 庵中雜書四首  其四
-titlePinyin: an1 zhong1 za2 shu1 si4 shou3     qi2 si4
+title: 庵中雜書四首・其四
+titlePinyin: an1 zhong1 za2 shu1 si4 shou3・qi2 si4
 titleSlug: an-zhong-za-shu-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

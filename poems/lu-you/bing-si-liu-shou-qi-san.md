@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-si-liu-shou-qi-san
-title: 病思六首  其三
-titlePinyin: bing4 si1 liu4 shou3     qi2 san1
+title: 病思六首・其三
+titlePinyin: bing4 si1 liu4 shou3・qi2 san1
 titleSlug: bing-si-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

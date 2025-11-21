@@ -1,7 +1,7 @@
 ---
 id: lu-you-ban-feng-zi-wu-chen-er-yue-zhi-bu-fu-yan-zuo-jue-ju-er-shou-qi-er
-title: 半俸自戊辰二月置不復言作絕句二首  其二
-titlePinyin: ban4 feng4 zi4 wu4 chen2 er4 yue4 zhi4 bu2 fu4 yan2 zuo4 jue2 ju4 er4 shou3     qi2 er4
+title: 半俸自戊辰二月置不復言作絕句二首・其二
+titlePinyin: ban4 feng4 zi4 wu4 chen2 er4 yue4 zhi4 bu2 fu4 yan2 zuo4 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: ban-feng-zi-wu-chen-er-yue-zhi-bu-fu-yan-zuo-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

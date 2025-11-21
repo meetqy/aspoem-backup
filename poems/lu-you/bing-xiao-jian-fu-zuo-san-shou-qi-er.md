@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-xiao-jian-fu-zuo-san-shou-qi-er
-title: 病小減復作三首  其二
-titlePinyin: bing4 xiao3 jian3 fu4 zuo4 san1 shou3     qi2 er4
+title: 病小減復作三首・其二
+titlePinyin: bing4 xiao3 jian3 fu4 zuo4 san1 shou3・qi2 er4
 titleSlug: bing-xiao-jian-fu-zuo-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

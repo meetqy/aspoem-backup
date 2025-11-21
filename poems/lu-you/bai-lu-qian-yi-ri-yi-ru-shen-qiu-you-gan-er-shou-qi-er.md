@@ -1,7 +1,7 @@
 ---
 id: lu-you-bai-lu-qian-yi-ri-yi-ru-shen-qiu-you-gan-er-shou-qi-er
-title: 白露前一日已如深秋有感二首  其二
-titlePinyin: bai2 lu4 qian2 yi2 ri4 yi3 ru2 shen1 qiu1 you3 gan3 er4 shou3     qi2 er4
+title: 白露前一日已如深秋有感二首・其二
+titlePinyin: bai2 lu4 qian2 yi2 ri4 yi3 ru2 shen1 qiu1 you3 gan3 er4 shou3・qi2 er4
 titleSlug: bai-lu-qian-yi-ri-yi-ru-shen-qiu-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-jue-ju-liu-shou-qi-liu
-title: 病中絕句六首  其六
-titlePinyin: bing4 zhong1 jue2 ju4 liu4 shou3     qi2 liu4
+title: 病中絕句六首・其六
+titlePinyin: bing4 zhong1 jue2 ju4 liu4 shou3・qi2 liu4
 titleSlug: bing-zhong-jue-ju-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

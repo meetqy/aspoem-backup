@@ -1,7 +1,7 @@
 ---
 id: lu-you-an-ren-dao-zhong-er-shou-qi-yi
-title: 安仁道中二首  其一
-titlePinyin: an1 ren2 dao4 zhong1 er4 shou3     qi2 yi1
+title: 安仁道中二首・其一
+titlePinyin: an1 ren2 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: an-ren-dao-zhong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

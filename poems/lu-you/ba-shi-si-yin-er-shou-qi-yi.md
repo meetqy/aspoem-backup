@@ -1,7 +1,7 @@
 ---
 id: lu-you-ba-shi-si-yin-er-shou-qi-yi
-title: 八十四吟二首  其一
-titlePinyin: ba1 shi2 si4 yin2 er4 shou3     qi2 yi1
+title: 八十四吟二首・其一
+titlePinyin: ba1 shi2 si4 yin2 er4 shou3・qi2 yi1
 titleSlug: ba-shi-si-yin-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

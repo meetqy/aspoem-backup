@@ -1,7 +1,7 @@
 ---
 id: lu-you-an-zhong-chen-qi-shu-chu-mu-si-shou-qi-er
-title: 庵中晨起書觸目四首  其二
-titlePinyin: an1 zhong1 chen2 qi3 shu1 chu4 mu4 si4 shou3     qi2 er4
+title: 庵中晨起書觸目四首・其二
+titlePinyin: an1 zhong1 chen2 qi3 shu1 chu4 mu4 si4 shou3・qi2 er4
 titleSlug: an-zhong-chen-qi-shu-chu-mu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

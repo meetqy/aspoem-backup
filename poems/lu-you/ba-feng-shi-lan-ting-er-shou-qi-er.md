@@ -1,7 +1,7 @@
 ---
 id: lu-you-ba-feng-shi-lan-ting-er-shou-qi-er
-title: 跋馮氏蘭亭二首  其二
-titlePinyin: ba2 feng2 shi4 lan2 ting2 er4 shou3     qi2 er4
+title: 跋馮氏蘭亭二首・其二
+titlePinyin: ba2 feng2 shi4 lan2 ting2 er4 shou3・qi2 er4
 titleSlug: ba-feng-shi-lan-ting-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

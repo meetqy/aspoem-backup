@@ -1,7 +1,7 @@
 ---
 id: lu-you-bie-yan-he-zhi-er-shou-qi-yi
-title: 別嚴和之二首  其一
-titlePinyin: bie2 yan2 he2 zhi1 er4 shou3     qi2 yi1
+title: 別嚴和之二首・其一
+titlePinyin: bie2 yan2 he2 zhi1 er4 shou3・qi2 yi1
 titleSlug: bie-yan-he-zhi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-bei-chuang-ou-ti-si-shou-qi-si
-title: 北窗偶題四首  其四
-titlePinyin: bei3 chuang1 ou3 ti2 si4 shou3     qi2 si4
+title: 北窗偶題四首・其四
+titlePinyin: bei3 chuang1 ou3 ti2 si4 shou3・qi2 si4
 titleSlug: bei-chuang-ou-ti-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ai-ying-er-shou-qi-er
-title: 哀郢二首  其二
-titlePinyin: ai1 ying3 er4 shou3     qi2 er4
+title: 哀郢二首・其二
+titlePinyin: ai1 ying3 er4 shou3・qi2 er4
 titleSlug: ai-ying-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

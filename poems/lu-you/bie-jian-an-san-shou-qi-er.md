@@ -1,7 +1,7 @@
 ---
 id: lu-you-bie-jian-an-san-shou-qi-er
-title: 别建安三首  其二
-titlePinyin: bie2 jian4 an1 san1 shou3     qi2 er4
+title: 别建安三首・其二
+titlePinyin: bie2 jian4 an1 san1 shou3・qi2 er4
 titleSlug: bie-jian-an-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

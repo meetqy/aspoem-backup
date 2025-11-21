@@ -1,7 +1,7 @@
 ---
 id: lu-you-bei-qiu-si-shou-qi-si
-title: 悲秋四首  其四
-titlePinyin: bei1 qiu1 si4 shou3     qi2 si4
+title: 悲秋四首・其四
+titlePinyin: bei1 qiu1 si4 shou3・qi2 si4
 titleSlug: bei-qiu-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

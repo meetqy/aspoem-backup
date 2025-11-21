@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-qi-shan-ju-ri-you-you-shi-xi-zuo-er-shou-qi-yi
-title: 病起山居日有幽事戲作二首  其一
-titlePinyin: bing4 qi3 shan1 ju1 ri4 you3 you1 shi4 xi4 zuo4 er4 shou3     qi2 yi1
+title: 病起山居日有幽事戲作二首・其一
+titlePinyin: bing4 qi3 shan1 ju1 ri4 you3 you1 shi4 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: bing-qi-shan-ju-ri-you-you-shi-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

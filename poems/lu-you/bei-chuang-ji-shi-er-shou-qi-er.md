@@ -1,7 +1,7 @@
 ---
 id: lu-you-bei-chuang-ji-shi-er-shou-qi-er
-title: 北窗即事二首  其二
-titlePinyin: bei3 chuang1 ji2 shi4 er4 shou3     qi2 er4
+title: 北窗即事二首・其二
+titlePinyin: bei3 chuang1 ji2 shi4 er4 shou3・qi2 er4
 titleSlug: bei-chuang-ji-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

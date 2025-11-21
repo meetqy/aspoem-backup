@@ -1,7 +1,7 @@
 ---
 id: lu-you-bi-hu-er-shou-qi-er
-title: 閉戶二首  其二
-titlePinyin: bi4 hu4 er4 shou3     qi2 er4
+title: 閉戶二首・其二
+titlePinyin: bi4 hu4 er4 shou3・qi2 er4
 titleSlug: bi-hu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

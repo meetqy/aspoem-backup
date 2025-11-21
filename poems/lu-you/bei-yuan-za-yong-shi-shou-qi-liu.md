@@ -1,7 +1,7 @@
 ---
 id: lu-you-bei-yuan-za-yong-shi-shou-qi-liu
-title: 北園雜詠十首  其六
-titlePinyin: bei3 yuan2 za2 yong3 shi2 shou3     qi2 liu4
+title: 北園雜詠十首・其六
+titlePinyin: bei3 yuan2 za2 yong3 shi2 shou3・qi2 liu4
 titleSlug: bei-yuan-za-yong-shi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-zhong-qian-huai-liu-shou-qi-liu
-title: 病中遣懷六首  其六
-titlePinyin: bing4 zhong1 qian3 huai2 liu4 shou3     qi2 liu4
+title: 病中遣懷六首・其六
+titlePinyin: bing4 zhong1 qian3 huai2 liu4 shou3・qi2 liu4
 titleSlug: bing-zhong-qian-huai-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

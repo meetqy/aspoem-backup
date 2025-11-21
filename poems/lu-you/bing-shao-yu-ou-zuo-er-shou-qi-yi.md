@@ -1,7 +1,7 @@
 ---
 id: lu-you-bing-shao-yu-ou-zuo-er-shou-qi-yi
-title: 病少愈偶作二首  其一
-titlePinyin: bing4 shao3 yu4 ou3 zuo4 er4 shou3     qi2 yi1
+title: 病少愈偶作二首・其一
+titlePinyin: bing4 shao3 yu4 ou3 zuo4 er4 shou3・qi2 yi1
 titleSlug: bing-shao-yu-ou-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
