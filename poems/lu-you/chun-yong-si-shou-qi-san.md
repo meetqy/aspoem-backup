@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-yong-si-shou-qi-san
-title: 春詠四首  其三
-titlePinyin: chun1 yong3 si4 shou3     qi2 san1
+title: 春詠四首・其三
+titlePinyin: chun1 yong3 si4 shou3・qi2 san1
 titleSlug: chun-yong-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

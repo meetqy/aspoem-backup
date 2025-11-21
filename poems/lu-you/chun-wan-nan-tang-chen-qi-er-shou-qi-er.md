@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-nan-tang-chen-qi-er-shou-qi-er
-title: 春晚南堂晨起二首  其二
-titlePinyin: chun1 wan3 nan2 tang2 chen2 qi3 er4 shou3     qi2 er4
+title: 春晚南堂晨起二首・其二
+titlePinyin: chun1 wan3 nan2 tang2 chen2 qi3 er4 shou3・qi2 er4
 titleSlug: chun-wan-nan-tang-chen-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

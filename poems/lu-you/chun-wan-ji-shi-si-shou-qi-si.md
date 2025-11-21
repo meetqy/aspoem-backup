@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-ji-shi-si-shou-qi-si
-title: 春晚即事四首  其四
-titlePinyin: chun1 wan3 ji2 shi4 si4 shou3     qi2 si4
+title: 春晚即事四首・其四
+titlePinyin: chun1 wan3 ji2 shi4 si4 shou3・qi2 si4
 titleSlug: chun-wan-ji-shi-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-dong-wan-tiao-er-shou-qi-yi
-title: 村東晚眺二首  其一
-titlePinyin: cun1 dong1 wan3 tiao4 er4 shou3     qi2 yi1
+title: 村東晚眺二首・其一
+titlePinyin: cun1 dong1 wan3 tiao4 er4 shou3・qi2 yi1
 titleSlug: cun-dong-wan-tiao-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

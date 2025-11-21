@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-ri-liu-shou-qi-yi
-title: 春日六首  其一
-titlePinyin: chun1 ri4 liu4 shou3     qi2 yi1
+title: 春日六首・其一
+titlePinyin: chun1 ri4 liu4 shou3・qi2 yi1
 titleSlug: chun-ri-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

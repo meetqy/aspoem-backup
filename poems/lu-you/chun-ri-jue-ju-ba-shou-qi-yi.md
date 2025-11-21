@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-ri-jue-ju-ba-shou-qi-yi
-title: 春日絕句八首  其一
-titlePinyin: chun1 ri4 jue2 ju4 ba1 shou3     qi2 yi1
+title: 春日絕句八首・其一
+titlePinyin: chun1 ri4 jue2 ju4 ba1 shou3・qi2 yi1
 titleSlug: chun-ri-jue-ju-ba-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

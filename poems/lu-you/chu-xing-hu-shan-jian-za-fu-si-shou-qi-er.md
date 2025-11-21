@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xing-hu-shan-jian-za-fu-si-shou-qi-er
-title: 出行湖山間雜賦四首  其二
-titlePinyin: chu1 xing2 hu2 shan1 jian4 za2 fu4 si4 shou3     qi2 er4
+title: 出行湖山間雜賦四首・其二
+titlePinyin: chu1 xing2 hu2 shan1 jian4 za2 fu4 si4 shou3・qi2 er4
 titleSlug: chu-xing-hu-shan-jian-za-fu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

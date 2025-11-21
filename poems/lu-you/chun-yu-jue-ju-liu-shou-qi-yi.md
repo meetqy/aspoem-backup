@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-yu-jue-ju-liu-shou-qi-yi
-title: 春雨絕句六首  其一
-titlePinyin: chun1 yu3 jue2 ju4 liu4 shou3     qi2 yi1
+title: 春雨絕句六首・其一
+titlePinyin: chun1 yu3 jue2 ju4 liu4 shou3・qi2 yi1
 titleSlug: chun-yu-jue-ju-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-chu-zhou-xuan-yi-xi-mei-jin-kai-ming-ri-da-feng-hua-luo-cheng-ji-xi-zuo-san-shou-qi-san
-title: 春初驟暄一夕梅盡開明日大風花落成積戲作三首  其三
-titlePinyin: chun1 chu1 zhou4 xuan1 yi4 xi1 mei2 jin4 kai1 ming2 ri4 da4 feng1 hua1 luo4 cheng2 ji1 xi4 zuo4 san1 shou3     qi2 san1
+title: 春初驟暄一夕梅盡開明日大風花落成積戲作三首・其三
+titlePinyin: chun1 chu1 zhou4 xuan1 yi4 xi1 mei2 jin4 kai1 ming2 ri4 da4 feng1 hua1 luo4 cheng2 ji1 xi4 zuo4 san1 shou3・qi2 san1
 titleSlug: chun-chu-zhou-xuan-yi-xi-mei-jin-kai-ming-ri-da-feng-hua-luo-cheng-ji-xi-zuo-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

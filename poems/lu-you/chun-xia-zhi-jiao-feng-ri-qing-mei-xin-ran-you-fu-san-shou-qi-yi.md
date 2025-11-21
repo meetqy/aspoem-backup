@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-xia-zhi-jiao-feng-ri-qing-mei-xin-ran-you-fu-san-shou-qi-yi
-title: 春夏之交風日清美欣然有賦三首  其一
-titlePinyin: chun1 xia4 zhi1 jiao1 feng1 ri4 qing1 mei3 xin1 ran2 you3 fu4 san1 shou3     qi2 yi1
+title: 春夏之交風日清美欣然有賦三首・其一
+titlePinyin: chun1 xia4 zhi1 jiao1 feng1 ri4 qing1 mei3 xin1 ran2 you3 fu4 san1 shou3・qi2 yi1
 titleSlug: chun-xia-zhi-jiao-feng-ri-qing-mei-xin-ran-you-fu-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-she-si-shou-qi-si
-title: 春社四首  其四
-titlePinyin: chun1 she4 si4 shou3     qi2 si4
+title: 春社四首・其四
+titlePinyin: chun1 she4 si4 shou3・qi2 si4
 titleSlug: chun-she-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

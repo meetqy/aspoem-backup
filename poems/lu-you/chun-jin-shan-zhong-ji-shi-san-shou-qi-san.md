@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-jin-shan-zhong-ji-shi-san-shou-qi-san
-title: 春近山中即事三首  其三
-titlePinyin: chun1 jin4 shan1 zhong1 ji2 shi4 san1 shou3     qi2 san1
+title: 春近山中即事三首・其三
+titlePinyin: chun1 jin4 shan1 zhong1 ji2 shi4 san1 shou3・qi2 san1
 titleSlug: chun-jin-shan-zhong-ji-shi-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

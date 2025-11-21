@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-she-ri-xiao-wan-ling-xian-sheng-ti-si-shou-she-rou
-title: 春社日效宛陵先生體四首 社肉
-titlePinyin: chun1 she4 ri4 xiao4 wan3 ling2 xian1 sheng0 ti3 si4 shou3   she4 rou4
+title: 春社日效宛陵先生體四首・社肉
+titlePinyin: chun1 she4 ri4 xiao4 wan3 ling2 xian1 sheng0 ti3 si4 shou3・she4 rou4
 titleSlug: chun-she-ri-xiao-wan-ling-xian-sheng-ti-si-shou-she-rou
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-yu-si-shou-qi-yi
-title: 春雨四首  其一
-titlePinyin: chun1 yu3 si4 shou3     qi2 yi1
+title: 春雨四首・其一
+titlePinyin: chun1 yu3 si4 shou3・qi2 yi1
 titleSlug: chun-yu-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

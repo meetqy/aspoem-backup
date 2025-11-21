@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-shu-huai-san-shou-qi-yi
-title: 春晚書懷三首  其一
-titlePinyin: chun1 wan3 shu1 huai2 san1 shou3     qi2 yi1
+title: 春晚書懷三首・其一
+titlePinyin: chun1 wan3 shu1 huai2 san1 shou3・qi2 yi1
 titleSlug: chun-wan-shu-huai-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

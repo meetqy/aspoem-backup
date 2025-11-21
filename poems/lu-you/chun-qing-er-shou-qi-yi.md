@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-qing-er-shou-qi-yi
-title: 春晴二首  其一
-titlePinyin: chun1 qing2 er4 shou3     qi2 yi1
+title: 春晴二首・其一
+titlePinyin: chun1 qing2 er4 shou3・qi2 yi1
 titleSlug: chun-qing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-za-xing-liu-shou-qi-wu
-title: 初夏雜興六首  其五
-titlePinyin: chu1 xia4 za2 xing1 liu4 shou3     qi2 wu3
+title: 初夏雜興六首・其五
+titlePinyin: chu1 xia4 za2 xing1 liu4 shou3・qi2 wu3
 titleSlug: chu-xia-za-xing-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-yu-er-shou-qi-er
-title: 春雨二首  其二
-titlePinyin: chun1 yu3 er4 shou3     qi2 er4
+title: 春雨二首・其二
+titlePinyin: chun1 yu3 er4 shou3・qi2 er4
 titleSlug: chun-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-ri-xiao-yuan-za-fu-er-shou-qi-yi
-title: 春日小園雜賦二首  其一
-titlePinyin: chun1 ri4 xiao3 yuan2 za2 fu4 er4 shou3     qi2 yi1
+title: 春日小園雜賦二首・其一
+titlePinyin: chun1 ri4 xiao3 yuan2 za2 fu4 er4 shou3・qi2 yi1
 titleSlug: chun-ri-xiao-yuan-za-fu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

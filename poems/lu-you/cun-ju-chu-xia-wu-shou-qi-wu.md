@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-chu-xia-wu-shou-qi-wu
-title: 村居初夏五首  其五
-titlePinyin: cun1 ju1 chu1 xia4 wu3 shou3     qi2 wu3
+title: 村居初夏五首・其五
+titlePinyin: cun1 ju1 chu1 xia4 wu3 shou3・qi2 wu3
 titleSlug: cun-ju-chu-xia-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

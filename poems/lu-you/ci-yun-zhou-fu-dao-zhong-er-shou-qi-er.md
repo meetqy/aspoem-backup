@@ -1,7 +1,7 @@
 ---
 id: lu-you-ci-yun-zhou-fu-dao-zhong-er-shou-qi-er
-title: 次韵周輔道中二首  其二
-titlePinyin: ci4 yun4 zhou1 fu3 dao4 zhong1 er4 shou3     qi2 er4
+title: 次韵周輔道中二首・其二
+titlePinyin: ci4 yun4 zhou1 fu3 dao4 zhong1 er4 shou3・qi2 er4
 titleSlug: ci-yun-zhou-fu-dao-zhong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

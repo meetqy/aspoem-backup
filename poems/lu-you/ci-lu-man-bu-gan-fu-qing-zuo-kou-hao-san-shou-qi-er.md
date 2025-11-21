@@ -1,7 +1,7 @@
 ---
 id: lu-you-ci-lu-man-bu-gan-fu-qing-zuo-kou-hao-san-shou-qi-er
-title: 祠祿滿不敢復請作口號三首  其二
-titlePinyin: ci2 lu4 man3 bu4 gan3 fu4 qing3 zuo4 kou3 hao4 san1 shou3     qi2 er4
+title: 祠祿滿不敢復請作口號三首・其二
+titlePinyin: ci2 lu4 man3 bu4 gan3 fu4 qing3 zuo4 kou3 hao4 san1 shou3・qi2 er4
 titleSlug: ci-lu-man-bu-gan-fu-qing-zuo-kou-hao-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

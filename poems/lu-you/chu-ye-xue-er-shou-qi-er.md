@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-ye-xue-er-shou-qi-er
-title: 除夜雪二首  其二
-titlePinyin: chu2 ye4 xue3 er4 shou3     qi2 er4
+title: 除夜雪二首・其二
+titlePinyin: chu2 ye4 xue3 er4 shou3・qi2 er4
 titleSlug: chu-ye-xue-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

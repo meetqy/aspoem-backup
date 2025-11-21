@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-you-zhi-seng-she-ji-ni-lu-xi-zeng-jue-ju-er-shou-qi-yi
-title: 出遊至僧舍及逆旅戲贈絕句二首  其一
-titlePinyin: chu1 you2 zhi4 seng1 she4 ji2 ni4 lü3 xi4 zeng4 jue2 ju4 er4 shou3     qi2 yi1
+title: 出遊至僧舍及逆旅戲贈絕句二首・其一
+titlePinyin: chu1 you2 zhi4 seng1 she4 ji2 ni4 lü3 xi4 zeng4 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: chu-you-zhi-seng-she-ji-ni-lu-xi-zeng-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

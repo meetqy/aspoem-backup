@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-you-si-shou-qi-si
-title: 出遊四首  其四
-titlePinyin: chu1 you2 si4 shou3     qi2 si4
+title: 出遊四首・其四
+titlePinyin: chu1 you2 si4 shou3・qi2 si4
 titleSlug: chu-you-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-zao-de-yu-er-shou-qi-er
-title: 春早得雨二首  其二
-titlePinyin: chun1 zao3 de2 yu3 er4 shou3     qi2 er4
+title: 春早得雨二首・其二
+titlePinyin: chun1 zao3 de2 yu3 er4 shou3・qi2 er4
 titleSlug: chun-zao-de-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

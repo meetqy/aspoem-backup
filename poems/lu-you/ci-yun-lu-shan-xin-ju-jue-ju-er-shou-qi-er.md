@@ -1,7 +1,7 @@
 ---
 id: lu-you-ci-yun-lu-shan-xin-ju-jue-ju-er-shou-qi-er
-title: 次韵魯山新居絕句二首  其二
-titlePinyin: ci4 yun4 lu3 shan1 xin1 ju1 jue2 ju4 er4 shou3     qi2 er4
+title: 次韵魯山新居絕句二首・其二
+titlePinyin: ci4 yun4 lu3 shan1 xin1 ju1 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: ci-yun-lu-shan-xin-ju-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

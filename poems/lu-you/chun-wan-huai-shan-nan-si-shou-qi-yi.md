@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-huai-shan-nan-si-shou-qi-yi
-title: 春晚懷山南四首  其一
-titlePinyin: chun1 wan3 huai2 shan1 nan2 si4 shou3     qi2 yi1
+title: 春晚懷山南四首・其一
+titlePinyin: chun1 wan3 huai2 shan1 nan2 si4 shou3・qi2 yi1
 titleSlug: chun-wan-huai-shan-nan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

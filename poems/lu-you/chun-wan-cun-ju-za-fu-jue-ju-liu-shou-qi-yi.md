@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-cun-ju-za-fu-jue-ju-liu-shou-qi-yi
-title: 春晚村居雜賦絕句六首  其一
-titlePinyin: chun1 wan3 cun1 ju1 za2 fu4 jue2 ju4 liu4 shou3     qi2 yi1
+title: 春晚村居雜賦絕句六首・其一
+titlePinyin: chun1 wan3 cun1 ju1 za2 fu4 jue2 ju4 liu4 shou3・qi2 yi1
 titleSlug: chun-wan-cun-ju-za-fu-jue-ju-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

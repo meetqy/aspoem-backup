@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-you-yu-yu-er-fan-er-shou-qi-yi
-title: 出遊遇雨而返二首  其一
-titlePinyin: chu1 you2 yu4 yu3 er2 fan3 er4 shou3     qi2 yi1
+title: 出遊遇雨而返二首・其一
+titlePinyin: chu1 you2 yu4 yu3 er2 fan3 er4 shou3・qi2 yi1
 titleSlug: chu-you-yu-yu-er-fan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

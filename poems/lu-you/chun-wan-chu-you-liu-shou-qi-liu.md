@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-chu-you-liu-shou-qi-liu
-title: 春晚出遊六首  其六
-titlePinyin: chun1 wan3 chu1 you2 liu4 shou3     qi2 liu4
+title: 春晚出遊六首・其六
+titlePinyin: chun1 wan3 chu1 you2 liu4 shou3・qi2 liu4
 titleSlug: chun-wan-chu-you-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

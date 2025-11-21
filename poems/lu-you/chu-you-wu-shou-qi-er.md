@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-you-wu-shou-qi-er
-title: 出遊五首  其二
-titlePinyin: chu1 you2 wu3 shou3     qi2 er4
+title: 出遊五首・其二
+titlePinyin: chu1 you2 wu3 shou3・qi2 er4
 titleSlug: chu-you-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

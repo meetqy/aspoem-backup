@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-er-shou-qi-er
-title: 村居二首  其二
-titlePinyin: cun1 ju1 er4 shou3     qi2 er4
+title: 村居二首・其二
+titlePinyin: cun1 ju1 er4 shou3・qi2 er4
 titleSlug: cun-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

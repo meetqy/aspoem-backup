@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-ri-za-xing-shi-er-shou-qi-san
-title: 春日雜興十二首  其三
-titlePinyin: chun1 ri4 za2 xing1 shi2 er4 shou3     qi2 san1
+title: 春日雜興十二首・其三
+titlePinyin: chun1 ri4 za2 xing1 shi2 er4 shou3・qi2 san1
 titleSlug: chun-ri-za-xing-shi-er-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

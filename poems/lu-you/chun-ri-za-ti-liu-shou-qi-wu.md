@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-ri-za-ti-liu-shou-qi-wu
-title: 春日雜題六首  其五
-titlePinyin: chun1 ri4 za2 ti2 liu4 shou3     qi2 wu3
+title: 春日雜題六首・其五
+titlePinyin: chun1 ri4 za2 ti2 liu4 shou3・qi2 wu3
 titleSlug: chun-ri-za-ti-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

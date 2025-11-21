@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-han-er-shou-qi-yi
-title: 春寒二首  其一
-titlePinyin: chun1 han2 er4 shou3     qi2 yi1
+title: 春寒二首・其一
+titlePinyin: chun1 han2 er4 shou3・qi2 yi1
 titleSlug: chun-han-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

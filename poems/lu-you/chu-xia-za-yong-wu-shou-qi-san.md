@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-xia-za-yong-wu-shou-qi-san
-title: 初夏雜詠五首  其三
-titlePinyin: chu1 xia4 za2 yong3 wu3 shou3     qi2 san1
+title: 初夏雜詠五首・其三
+titlePinyin: chu1 xia4 za2 yong3 wu3 shou3・qi2 san1
 titleSlug: chu-xia-za-yong-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

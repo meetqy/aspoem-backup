@@ -1,7 +1,7 @@
 ---
 id: lu-you-chu-you-gui-wo-de-za-shi-ba-shou-qi-wu
-title: 出遊歸卧得雜詩八首  其五
-titlePinyin: chu1 you2 gui1 wo4 de2 za2 shi1 ba1 shou3     qi2 wu3
+title: 出遊歸卧得雜詩八首・其五
+titlePinyin: chu1 you2 gui1 wo4 de2 za2 shi1 ba1 shou3・qi2 wu3
 titleSlug: chu-you-gui-wo-de-za-shi-ba-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ci-yun-li-ji-zhang-can-zheng-ku-qi-fu-ren-qi-shou-qi-liu
-title: 次韵李季章參政哭其夫人七首  其六
-titlePinyin: ci4 yun4 li3 ji4 zhang1 can1 zheng4 ku1 qi2 fu1 ren2 qi1 shou3     qi2 liu4
+title: 次韵李季章參政哭其夫人七首・其六
+titlePinyin: ci4 yun4 li3 ji4 zhang1 can1 zheng4 ku1 qi2 fu1 ren2 qi1 shou3・qi2 liu4
 titleSlug: ci-yun-li-ji-zhang-can-zheng-ku-qi-fu-ren-qi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

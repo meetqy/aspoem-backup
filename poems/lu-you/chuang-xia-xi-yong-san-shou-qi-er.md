@@ -1,7 +1,7 @@
 ---
 id: lu-you-chuang-xia-xi-yong-san-shou-qi-er
-title: 窗下戲詠三首  其二
-titlePinyin: chuang1 xia4 xi4 yong3 san1 shou3     qi2 er4
+title: 窗下戲詠三首・其二
+titlePinyin: chuang1 xia4 xi4 yong3 san1 shou3・qi2 er4
 titleSlug: chuang-xia-xi-yong-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

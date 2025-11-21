@@ -1,7 +1,7 @@
 ---
 id: lu-you-chun-wan-za-xing-liu-shou-qi-liu
-title: 春晚雜興六首  其六
-titlePinyin: chun1 wan3 za2 xing1 liu4 shou3     qi2 liu4
+title: 春晚雜興六首・其六
+titlePinyin: chun1 wan3 za2 xing1 liu4 shou3・qi2 liu4
 titleSlug: chun-wan-za-xing-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

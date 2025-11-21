@@ -1,7 +1,7 @@
 ---
 id: lu-you-ci-yun-fan-can-zheng-shu-huai-shi-shou-qi-san
-title: 次韵范參政書懷十首  其三
-titlePinyin: ci4 yun4 fan4 can1 zheng4 shu1 huai2 shi2 shou3     qi2 san1
+title: 次韵范參政書懷十首・其三
+titlePinyin: ci4 yun4 fan4 can1 zheng4 shu1 huai2 shi2 shou3・qi2 san1
 titleSlug: ci-yun-fan-can-zheng-shu-huai-shi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
