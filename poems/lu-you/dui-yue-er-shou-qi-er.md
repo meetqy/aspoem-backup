@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-yue-er-shou-qi-er
-title: 對月二首  其二
-titlePinyin: dui4 yue4 er4 shou3     qi2 er4
+title: 對月二首・其二
+titlePinyin: dui4 yue4 er4 shou3・qi2 er4
 titleSlug: dui-yue-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

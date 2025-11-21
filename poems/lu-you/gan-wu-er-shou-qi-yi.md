@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-wu-er-shou-qi-yi
-title: 感物二首  其一
-titlePinyin: gan3 wu4 er4 shou3     qi2 yi1
+title: 感物二首・其一
+titlePinyin: gan3 wu4 er4 shou3・qi2 yi1
 titleSlug: gan-wu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

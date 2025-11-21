@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-jiu-si-shou-mo-zhang-gai-si-you-yi-zi-guang-qi-er
-title: 感舊四首末章蓋思有以自廣  其二
-titlePinyin: gan3 jiu4 si4 shou3 mo4 zhang1 gai4 si1 you3 yi3 zi4 guang3     qi2 er4
+title: 感舊四首末章蓋思有以自廣・其二
+titlePinyin: gan3 jiu4 si4 shou3 mo4 zhang1 gai4 si1 you3 yi3 zi4 guang3・qi2 er4
 titleSlug: gan-jiu-si-shou-mo-zhang-gai-si-you-yi-zi-guang-qi-er
 author: 陸游
 authorPinyin: lu4 you2

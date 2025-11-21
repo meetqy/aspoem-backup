@@ -1,7 +1,7 @@
 ---
 id: lu-you-gao-an-zhou-zhai-san-yong-dan-jing
-title: 高安州宅三詠 丹井
-titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3   dan1 jing3
+title: 高安州宅三詠・丹井
+titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3・dan1 jing3
 titleSlug: gao-an-zhou-zhai-san-yong-dan-jing
 author: 陸游
 authorPinyin: lu4 you2

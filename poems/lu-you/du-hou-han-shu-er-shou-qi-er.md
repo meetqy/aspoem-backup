@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-hou-han-shu-er-shou-qi-er
-title: 讀後漢書二首  其二
-titlePinyin: du2 hou4 han4 shu1 er4 shou3     qi2 er4
+title: 讀後漢書二首・其二
+titlePinyin: du2 hou4 han4 shu1 er4 shou3・qi2 er4
 titleSlug: du-hou-han-shu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

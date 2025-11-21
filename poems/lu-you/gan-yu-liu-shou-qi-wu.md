@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-yu-liu-shou-qi-wu
-title: 感遇六首  其五
-titlePinyin: gan3 yu4 liu4 shou3     qi2 wu3
+title: 感遇六首・其五
+titlePinyin: gan3 yu4 liu4 shou3・qi2 wu3
 titleSlug: gan-yu-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

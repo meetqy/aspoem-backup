@@ -1,7 +1,7 @@
 ---
 id: lu-you-er-ai-qi-er
-title: 二愛  其二
-titlePinyin: er4 ai4     qi2 er4
+title: 二愛・其二
+titlePinyin: er4 ai4・qi2 er4
 titleSlug: er-ai-qi-er
 author: 陸游
 authorPinyin: lu4 you2

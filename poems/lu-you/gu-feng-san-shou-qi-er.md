@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-feng-san-shou-qi-er
-title: 古風三首  其二
-titlePinyin: gu3 feng1 san1 shou3     qi2 er4
+title: 古風三首・其二
+titlePinyin: gu3 feng1 san1 shou3・qi2 er4
 titleSlug: gu-feng-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

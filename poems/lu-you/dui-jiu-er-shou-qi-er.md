@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-jiu-er-shou-qi-er
-title: 對酒二首  其二
-titlePinyin: dui4 jiu3 er4 shou3     qi2 er4
+title: 對酒二首・其二
+titlePinyin: dui4 jiu3 er4 shou3・qi2 er4
 titleSlug: dui-jiu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

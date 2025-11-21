@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-lu-she-ren-shi-zhui-ci-qi-yun-wu-shou-qi-si
-title: 讀呂舍人詩追次其韵五首  其四
-titlePinyin: du2 lü3 she4 ren2 shi1 zhui1 ci4 qi2 yun4 wu3 shou3     qi2 si4
+title: 讀呂舍人詩追次其韵五首・其四
+titlePinyin: du2 lü3 she4 ren2 shi1 zhui1 ci4 qi2 yun4 wu3 shou3・qi2 si4
 titleSlug: du-lu-she-ren-shi-zhui-ci-qi-yun-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

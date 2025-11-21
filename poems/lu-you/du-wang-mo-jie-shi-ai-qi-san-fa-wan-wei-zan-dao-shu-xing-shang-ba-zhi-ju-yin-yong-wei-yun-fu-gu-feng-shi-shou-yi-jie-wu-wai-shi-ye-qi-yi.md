@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-wang-mo-jie-shi-ai-qi-san-fa-wan-wei-zan-dao-shu-xing-shang-ba-zhi-ju-yin-yong-wei-yun-fu-gu-feng-shi-shou-yi-jie-wu-wai-shi-ye-qi-yi
-title: 讀王摩詰詩愛其散髮晚未簪道書行尚把之句因用爲韵賦古風十首亦皆物外事也  其一○
-titlePinyin: du2 wang2 mo2 jie2 shi1 ai4 qi2 san4 fa4 wan3 wei4 zan1 dao4 shu1 xing2 shang4 ba3 zhi1 ju4 yin1 yong4 wei2 yun4 fu4 gu3 feng1 shi2 shou3 yi4 jie1 wu4 wai4 shi4 ye3     qi2 yi1 ○
+title: 讀王摩詰詩愛其散髮晚未簪道書行尚把之句因用爲韵賦古風十首亦皆物外事也・其一○
+titlePinyin: du2 wang2 mo2 jie2 shi1 ai4 qi2 san4 fa4 wan3 wei4 zan1 dao4 shu1 xing2 shang4 ba3 zhi1 ju4 yin1 yong4 wei2 yun4 fu4 gu3 feng1 shi2 shou3 yi4 jie1 wu4 wai4 shi4 ye3・qi2 yi1 ○
 titleSlug: du-wang-mo-jie-shi-ai-qi-san-fa-wan-wei-zan-dao-shu-xing-shang-ba-zhi-ju-yin-yong-wei-yun-fu-gu-feng-shi-shou-yi-jie-wu-wai-shi-ye-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-shi-you-gan-san-shou-qi-san
-title: 讀史有感三首  其三
-titlePinyin: du2 shi3 you3 gan3 san1 shou3     qi2 san1
+title: 讀史有感三首・其三
+titlePinyin: du2 shi3 you3 gan3 san1 shou3・qi2 san1
 titleSlug: du-shi-you-gan-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-tang-ren-chou-shi-xi-zuo-wu-shou-qi-er
-title: 讀唐人愁詩戲作五首  其二
-titlePinyin: du2 tang2 ren2 chou2 shi1 xi4 zuo4 wu3 shou3     qi2 er4
+title: 讀唐人愁詩戲作五首・其二
+titlePinyin: du2 tang2 ren2 chou2 shi1 xi4 zuo4 wu3 shou3・qi2 er4
 titleSlug: du-tang-ren-chou-shi-xi-zuo-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

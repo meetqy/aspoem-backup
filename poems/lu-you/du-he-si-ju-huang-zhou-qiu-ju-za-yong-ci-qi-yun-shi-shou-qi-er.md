@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-he-si-ju-huang-zhou-qiu-ju-za-yong-ci-qi-yun-shi-shou-qi-er
-title: 讀何斯舉黄州秋居雜詠次其韵十首  其二
-titlePinyin: du2 he2 si1 ju3 huang2 zhou1 qiu1 ju1 za2 yong3 ci4 qi2 yun4 shi2 shou3     qi2 er4
+title: 讀何斯舉黄州秋居雜詠次其韵十首・其二
+titlePinyin: du2 he2 si1 ju3 huang2 zhou1 qiu1 ju1 za2 yong3 ci4 qi2 yun4 shi2 shou3・qi2 er4
 titleSlug: du-he-si-ju-huang-zhou-qiu-ju-za-yong-ci-qi-yun-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

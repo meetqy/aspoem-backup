@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-shi-liu-yan-ba-shou-qi-si
-title: 感事六言八首  其四
-titlePinyin: gan3 shi4 liu4 yan2 ba1 shou3     qi2 si4
+title: 感事六言八首・其四
+titlePinyin: gan3 shi4 liu4 yan2 ba1 shou3・qi2 si4
 titleSlug: gan-shi-liu-yan-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

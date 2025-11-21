@@ -1,7 +1,7 @@
 ---
 id: lu-you-fang-hua-lou-ye-yin-er-shou-qi-yi
-title: 芳華楼夜飲二首  其一
-titlePinyin: fang1 hua2 lou2 ye4 yin3 er4 shou3     qi2 yi1
+title: 芳華楼夜飲二首・其一
+titlePinyin: fang1 hua2 lou2 ye4 yin3 er4 shou3・qi2 yi1
 titleSlug: fang-hua-lou-ye-yin-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

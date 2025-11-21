@@ -1,7 +1,7 @@
 ---
 id: lu-you-fang-weng-zi-zan-si-shou-qi-er
-title: 放翁自贊四首  其二
-titlePinyin: fang4 weng1 zi4 zan4 si4 shou3     qi2 er4
+title: 放翁自贊四首・其二
+titlePinyin: fang4 weng1 zi4 zan4 si4 shou3・qi2 er4
 titleSlug: fang-weng-zi-zan-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

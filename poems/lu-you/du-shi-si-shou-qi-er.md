@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-shi-si-shou-qi-er
-title: 讀史四首  其二
-titlePinyin: du2 shi3 si4 shou3     qi2 er4
+title: 讀史四首・其二
+titlePinyin: du2 shi3 si4 shou3・qi2 er4
 titleSlug: du-shi-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

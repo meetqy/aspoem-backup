@@ -1,7 +1,7 @@
 ---
 id: lu-you-feng-song-jiang-bang-jie-chu-guan-er-shou-qi-er
-title: 奉送姜邦傑出關二首  其二
-titlePinyin: feng4 song4 jiang1 bang1 jie2 chu1 guan1 er4 shou3     qi2 er4
+title: 奉送姜邦傑出關二首・其二
+titlePinyin: feng4 song4 jiang1 bang1 jie2 chu1 guan1 er4 shou3・qi2 er4
 titleSlug: feng-song-jiang-bang-jie-chu-guan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

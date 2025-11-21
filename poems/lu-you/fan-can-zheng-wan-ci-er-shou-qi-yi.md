@@ -1,7 +1,7 @@
 ---
 id: lu-you-fan-can-zheng-wan-ci-er-shou-qi-yi
-title: 范參政挽詞二首  其一
-titlePinyin: fan4 can1 zheng4 wan3 ci2 er4 shou3     qi2 yi1
+title: 范參政挽詞二首・其一
+titlePinyin: fan4 can1 zheng4 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: fan-can-zheng-wan-ci-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

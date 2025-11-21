@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-shi-xi-zuo-liu-shou-qi-liu
-title: 對食戲作六首  其六
-titlePinyin: dui4 shi2 xi4 zuo4 liu4 shou3     qi2 liu4
+title: 對食戲作六首・其六
+titlePinyin: dui4 shi2 xi4 zuo4 liu4 shou3・qi2 liu4
 titleSlug: dui-shi-xi-zuo-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

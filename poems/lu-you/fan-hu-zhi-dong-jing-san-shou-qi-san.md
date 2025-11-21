@@ -1,7 +1,7 @@
 ---
 id: lu-you-fan-hu-zhi-dong-jing-san-shou-qi-san
-title: 泛湖至東涇三首  其三
-titlePinyin: fan4 hu2 zhi4 dong1 jing1 san1 shou3     qi2 san1
+title: 泛湖至東涇三首・其三
+titlePinyin: fan4 hu2 zhi4 dong1 jing1 san1 shou3・qi2 san1
 titleSlug: fan-hu-zhi-dong-jing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

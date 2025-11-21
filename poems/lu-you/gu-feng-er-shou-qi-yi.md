@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-feng-er-shou-qi-yi
-title: 古風二首  其一
-titlePinyin: gu3 feng1 er4 shou3     qi2 yi1
+title: 古風二首・其一
+titlePinyin: gu3 feng1 er4 shou3・qi2 yi1
 titleSlug: gu-feng-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

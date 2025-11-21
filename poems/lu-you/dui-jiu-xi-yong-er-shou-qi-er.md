@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-jiu-xi-yong-er-shou-qi-er
-title: 對酒戲詠二首  其二
-titlePinyin: dui4 jiu3 xi4 yong3 er4 shou3     qi2 er4
+title: 對酒戲詠二首・其二
+titlePinyin: dui4 jiu3 xi4 yong3 er4 shou3・qi2 er4
 titleSlug: dui-jiu-xi-yong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

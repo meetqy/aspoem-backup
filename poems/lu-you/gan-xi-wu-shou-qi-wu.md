@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-xi-wu-shou-qi-wu
-title: 感昔五首  其五
-titlePinyin: gan3 xi1 wu3 shou3     qi2 wu3
+title: 感昔五首・其五
+titlePinyin: gan3 xi1 wu3 shou3・qi2 wu3
 titleSlug: gan-xi-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

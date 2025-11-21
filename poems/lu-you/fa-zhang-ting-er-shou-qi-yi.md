@@ -1,7 +1,7 @@
 ---
 id: lu-you-fa-zhang-ting-er-shou-qi-yi
-title: 發丈亭二首  其一
-titlePinyin: fa1 zhang4 ting2 er4 shou3     qi2 yi1
+title: 發丈亭二首・其一
+titlePinyin: fa1 zhang4 ting2 er4 shou3・qi2 yi1
 titleSlug: fa-zhang-ting-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-fan-zhou-guan-tao-hua-wu-shou-qi-wu
-title: 泛舟觀桃花五首  其五
-titlePinyin: fan4 zhou1 guan1 tao2 hua1 wu3 shou3     qi2 wu3
+title: 泛舟觀桃花五首・其五
+titlePinyin: fan4 zhou1 guan1 tao2 hua1 wu3 shou3・qi2 wu3
 titleSlug: fan-zhou-guan-tao-hua-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

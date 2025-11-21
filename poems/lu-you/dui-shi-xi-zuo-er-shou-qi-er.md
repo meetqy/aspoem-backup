@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-shi-xi-zuo-er-shou-qi-er
-title: 對食戲作二首  其二
-titlePinyin: dui4 shi2 xi4 zuo4 er4 shou3     qi2 er4
+title: 對食戲作二首・其二
+titlePinyin: dui4 shi2 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: dui-shi-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

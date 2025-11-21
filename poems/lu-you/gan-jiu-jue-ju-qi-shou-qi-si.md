@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-jiu-jue-ju-qi-shou-qi-si
-title: 感舊絕句七首  其四
-titlePinyin: gan3 jiu4 jue2 ju4 qi1 shou3     qi2 si4
+title: 感舊絕句七首・其四
+titlePinyin: gan3 jiu4 jue2 ju4 qi1 shou3・qi2 si4
 titleSlug: gan-jiu-jue-ju-qi-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

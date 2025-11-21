@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-su-shu-dang-ru-zhou-bei-shan-za-shi-ci-qi-yun-shi-shou-qi-san
-title: 讀蘇叔黨汝州北山雜詩次其韵十首  其三
-titlePinyin: du2 su1 shu1 dang3 ru3 zhou1 bei3 shan1 za2 shi1 ci4 qi2 yun4 shi2 shou3     qi2 san1
+title: 讀蘇叔黨汝州北山雜詩次其韵十首・其三
+titlePinyin: du2 su1 shu1 dang3 ru3 zhou1 bei3 shan1 za2 shi1 ci4 qi2 yun4 shi2 shou3・qi2 san1
 titleSlug: du-su-shu-dang-ru-zhou-bei-shan-za-shi-ci-qi-yun-shi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

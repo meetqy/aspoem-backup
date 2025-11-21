@@ -1,7 +1,7 @@
 ---
 id: lu-you-fan-zhou-guo-jin-jia-geng-zeng-mai-xin-wang-weng-si-shou-qi-si
-title: 泛舟過金家埂贈賣薪王翁四首  其四
-titlePinyin: fan4 zhou1 guo4 jin1 jia1 geng3 zeng4 mai4 xin1 wang2 weng1 si4 shou3     qi2 si4
+title: 泛舟過金家埂贈賣薪王翁四首・其四
+titlePinyin: fan4 zhou1 guo4 jin1 jia1 geng3 zeng4 mai4 xin1 wang2 weng1 si4 shou3・qi2 si4
 titleSlug: fan-zhou-guo-jin-jia-geng-zeng-mai-xin-wang-weng-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

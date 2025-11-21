@@ -1,7 +1,7 @@
 ---
 id: lu-you-en-ci-gui-zi-er-shou-qi-yi
-title: 恩赐龜紫二首  其一
-titlePinyin: en1 ci4 gui1 zi3 er4 shou3     qi2 yi1
+title: 恩赐龜紫二首・其一
+titlePinyin: en1 ci4 gui1 zi3 er4 shou3・qi2 yi1
 titleSlug: en-ci-gui-zi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

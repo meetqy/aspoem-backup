@@ -1,7 +1,7 @@
 ---
 id: lu-you-geng-shen-yuan-ri-kou-hao-liu-shou-qi-si
-title: 庚申元日口號六首  其四
-titlePinyin: geng1 shen1 yuan2 ri4 kou3 hao4 liu4 shou3     qi2 si4
+title: 庚申元日口號六首・其四
+titlePinyin: geng1 shen1 yuan2 ri4 kou3 hao4 liu4 shou3・qi2 si4
 titleSlug: geng-shen-yuan-ri-kou-hao-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

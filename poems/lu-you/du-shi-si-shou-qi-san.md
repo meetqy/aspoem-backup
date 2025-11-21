@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-shi-si-shou-qi-san
-title: 讀史四首  其三
-titlePinyin: du2 shi3 si4 shou3     qi2 san1
+title: 讀史四首・其三
+titlePinyin: du2 shi3 si4 shou3・qi2 san1
 titleSlug: du-shi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

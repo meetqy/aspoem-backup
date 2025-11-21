@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-ke-you-zi-cai-zhou-lai-zhe-gan-chang-mi-ri-er-shou-qi-er
-title: 估客有自蔡州来者感悵彌日二首  其二
-titlePinyin: gu1 ke4 you3 zi4 cai4 zhou1 lai2 zhe3 gan3 chang4 mi2 ri4 er4 shou3     qi2 er4
+title: 估客有自蔡州来者感悵彌日二首・其二
+titlePinyin: gu1 ke4 you3 zi4 cai4 zhou1 lai2 zhe3 gan3 chang4 mi2 ri4 er4 shou3・qi2 er4
 titleSlug: gu-ke-you-zi-cai-zhou-lai-zhe-gan-chang-mi-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

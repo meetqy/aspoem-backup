@@ -1,7 +1,7 @@
 ---
 id: lu-you-fen-xiang-zhou-shui-bi-jue-xiang-you-wei-san-xi-zuo-er-shou-qi-yi
-title: 焚香晝睡比覺香猶未散戲作二首  其一
-titlePinyin: fen2 xiang1 zhou4 shui4 bi3 jue2 xiang1 you2 wei4 san4 xi4 zuo4 er4 shou3     qi2 yi1
+title: 焚香晝睡比覺香猶未散戲作二首・其一
+titlePinyin: fen2 xiang1 zhou4 shui4 bi3 jue2 xiang1 you2 wei4 san4 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: fen-xiang-zhou-shui-bi-jue-xiang-you-wei-san-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

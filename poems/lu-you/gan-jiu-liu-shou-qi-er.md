@@ -1,7 +1,7 @@
 ---
 id: lu-you-gan-jiu-liu-shou-qi-er
-title: 感舊六首  其二
-titlePinyin: gan3 jiu4 liu4 shou3     qi2 er4
+title: 感舊六首・其二
+titlePinyin: gan3 jiu4 liu4 shou3・qi2 er4
 titleSlug: gan-jiu-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

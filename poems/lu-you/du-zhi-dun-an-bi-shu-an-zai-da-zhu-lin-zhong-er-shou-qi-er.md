@@ -1,7 +1,7 @@
 ---
 id: lu-you-du-zhi-dun-an-bi-shu-an-zai-da-zhu-lin-zhong-er-shou-qi-er
-title: 獨至遯庵避暑庵在大竹林中二首  其二
-titlePinyin: du2 zhi4 dun4 an1 bi4 shu3 an1 zai4 da4 zhu2 lin2 zhong1 er4 shou3     qi2 er4
+title: 獨至遯庵避暑庵在大竹林中二首・其二
+titlePinyin: du2 zhi4 dun4 an1 bi4 shu3 an1 zai4 da4 zhu2 lin2 zhong1 er4 shou3・qi2 er4
 titleSlug: du-zhi-dun-an-bi-shu-an-zai-da-zhu-lin-zhong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

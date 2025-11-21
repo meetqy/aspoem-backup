@@ -1,7 +1,7 @@
 ---
 id: lu-you-gao-an-zhou-zhai-san-yong-yan-song
-title: 高安州宅三詠 偃松
-titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3   yan3 song1
+title: 高安州宅三詠・偃松
+titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3・yan3 song1
 titleSlug: gao-an-zhou-zhai-san-yong-yan-song
 author: 陸游
 authorPinyin: lu4 you2

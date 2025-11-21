@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-zhai-za-shu-shi-er-shou-qi-qi
-title: 東齋雜書十二首  其七
-titlePinyin: dong1 zhai1 za2 shu1 shi2 er4 shou3     qi2 qi1
+title: 東齋雜書十二首・其七
+titlePinyin: dong1 zhai1 za2 shu1 shi2 er4 shou3・qi2 qi1
 titleSlug: dong-zhai-za-shu-shi-er-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

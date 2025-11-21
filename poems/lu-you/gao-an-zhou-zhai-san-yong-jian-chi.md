@@ -1,7 +1,7 @@
 ---
 id: lu-you-gao-an-zhou-zhai-san-yong-jian-chi
-title: 高安州宅三詠 劍池
-titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3   jian4 chi2
+title: 高安州宅三詠・劍池
+titlePinyin: gao1 an1 zhou1 zhai2 san1 yong3・jian4 chi2
 titleSlug: gao-an-zhou-zhai-san-yong-jian-chi
 author: 陸游
 authorPinyin: lu4 you2

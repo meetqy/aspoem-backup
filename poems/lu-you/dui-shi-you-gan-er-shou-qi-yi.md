@@ -1,7 +1,7 @@
 ---
 id: lu-you-dui-shi-you-gan-er-shou-qi-yi
-title: 對食有感二首  其一
-titlePinyin: dui4 shi2 you3 gan3 er4 shou3     qi2 yi1
+title: 對食有感二首・其一
+titlePinyin: dui4 shi2 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: dui-shi-you-gan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
