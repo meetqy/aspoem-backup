@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-cun-shu-suo-jian-er-shou-qi-yi
-title: 山村書所見二首  其一
-titlePinyin: shan1 cun1 shu1 suo3 jian4 er4 shou3     qi2 yi1
+title: 山村書所見二首・其一
+titlePinyin: shan1 cun1 shu1 suo3 jian4 er4 shou3・qi2 yi1
 titleSlug: shan-cun-shu-suo-jian-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

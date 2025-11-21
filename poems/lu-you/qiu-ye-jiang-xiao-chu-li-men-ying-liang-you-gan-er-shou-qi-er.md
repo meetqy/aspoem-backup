@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-jiang-xiao-chu-li-men-ying-liang-you-gan-er-shou-qi-er
-title: 秋夜将曉出籬門迎涼有感二首  其二
-titlePinyin: qiu1 ye4 jiang1 xiao3 chu1 li2 men2 ying2 liang2 you3 gan3 er4 shou3     qi2 er4
+title: 秋夜将曉出籬門迎涼有感二首・其二
+titlePinyin: qiu1 ye4 jiang1 xiao3 chu1 li2 men2 ying2 liang2 you3 gan3 er4 shou3・qi2 er4
 titleSlug: qiu-ye-jiang-xiao-chu-li-men-ying-liang-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

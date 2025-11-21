@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-huai-si-shou-qi-yi
-title: 書懷四首  其一
-titlePinyin: shu1 huai2 si4 shou3     qi2 yi1
+title: 書懷四首・其一
+titlePinyin: shu1 huai2 si4 shou3・qi2 yi1
 titleSlug: shu-huai-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

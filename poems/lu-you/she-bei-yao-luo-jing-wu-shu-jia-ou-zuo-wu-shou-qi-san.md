@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-bei-yao-luo-jing-wu-shu-jia-ou-zuo-wu-shou-qi-san
-title: 舍北摇落景物殊佳偶作五首  其三
-titlePinyin: she4 bei3 yao2 luo4 jing3 wu4 shu1 jia1 ou3 zuo4 wu3 shou3     qi2 san1
+title: 舍北摇落景物殊佳偶作五首・其三
+titlePinyin: she4 bei3 yao2 luo4 jing3 wu4 shu1 jia1 ou3 zuo4 wu3 shou3・qi2 san1
 titleSlug: she-bei-yao-luo-jing-wu-shu-jia-ou-zuo-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

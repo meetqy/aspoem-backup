@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-ji-huai-san-shou-qi-yi
-title: 秋夜紀懷三首  其一
-titlePinyin: qiu1 ye4 ji4 huai2 san1 shou3     qi2 yi1
+title: 秋夜紀懷三首・其一
+titlePinyin: qiu1 ye4 ji4 huai2 san1 shou3・qi2 yi1
 titleSlug: qiu-ye-ji-huai-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-yuan-cao-mu-si-jue-ju-huang-shu-kui
-title: 山園草木四絕句 黄蜀葵
-titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4   huang2 shu3 kui2
+title: 山園草木四絕句・黄蜀葵
+titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4・huang2 shu3 kui2
 titleSlug: shan-yuan-cao-mu-si-jue-ju-huang-shu-kui
 author: 陸游
 authorPinyin: lu4 you2

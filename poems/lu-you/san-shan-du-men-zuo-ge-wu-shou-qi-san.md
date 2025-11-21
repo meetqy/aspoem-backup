@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-shan-du-men-zuo-ge-wu-shou-qi-san
-title: 三山杜門作歌五首  其三
-titlePinyin: san1 shan1 du4 men2 zuo4 ge1 wu3 shou3     qi2 san1
+title: 三山杜門作歌五首・其三
+titlePinyin: san1 shan1 du4 men2 zuo4 ge1 wu3 shou3・qi2 san1
 titleSlug: san-shan-du-men-zuo-ge-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-jiao-san-bu-you-she-bei-gui-san-shou-qi-er
-title: 山脚散步由舍北歸三首  其二
-titlePinyin: shan1 jiao3 san4 bu4 you2 she4 bei3 gui1 san1 shou3     qi2 er4
+title: 山脚散步由舍北歸三首・其二
+titlePinyin: shan1 jiao3 san4 bu4 you2 she4 bei3 gui1 san1 shou3・qi2 er4
 titleSlug: shan-jiao-san-bu-you-she-bei-gui-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

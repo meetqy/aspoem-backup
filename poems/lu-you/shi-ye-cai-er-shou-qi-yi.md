@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-ye-cai-er-shou-qi-yi
-title: 食野菜二首  其一
-titlePinyin: shi2 ye3 cai4 er4 shou3     qi2 yi1
+title: 食野菜二首・其一
+titlePinyin: shi2 ye3 cai4 er4 shou3・qi2 yi1
 titleSlug: shi-ye-cai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

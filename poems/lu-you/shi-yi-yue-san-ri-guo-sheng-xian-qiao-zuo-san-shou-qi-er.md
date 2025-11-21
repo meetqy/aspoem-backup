@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-yi-yue-san-ri-guo-sheng-xian-qiao-zuo-san-shou-qi-er
-title: 十一月三日過升仙橋作三首  其二
-titlePinyin: shi2 yi1 yue4 san1 ri4 guo4 sheng1 xian1 qiao2 zuo4 san1 shou3     qi2 er4
+title: 十一月三日過升仙橋作三首・其二
+titlePinyin: shi2 yi1 yue4 san1 ri4 guo4 sheng1 xian1 qiao2 zuo4 san1 shou3・qi2 er4
 titleSlug: shi-yi-yue-san-ri-guo-sheng-xian-qiao-zuo-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

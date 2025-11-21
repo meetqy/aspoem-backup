@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-chao-wu-yong-yan-di
-title: 書巢五詠 硯滴
-titlePinyin: shu1 chao2 wu3 yong3   yan4 di1
+title: 書巢五詠・硯滴
+titlePinyin: shu1 chao2 wu3 yong3・yan4 di1
 titleSlug: shu-chao-wu-yong-yan-di
 author: 陸游
 authorPinyin: lu4 you2

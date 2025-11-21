@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-er-yue-er-ri-ye-meng-you-shen-shi-yuan-ting-er-shou-qi-yi
-title: 十二月二日夜夢遊沈氏園亭二首  其一
-titlePinyin: shi2 er4 yue4 er4 ri4 ye4 meng4 you2 shen3 shi4 yuan2 ting2 er4 shou3     qi2 yi1
+title: 十二月二日夜夢遊沈氏園亭二首・其一
+titlePinyin: shi2 er4 yue4 er4 ri4 ye4 meng4 you2 shen3 shi4 yuan2 ting2 er4 shou3・qi2 yi1
 titleSlug: shi-er-yue-er-ri-ye-meng-you-shen-shi-yuan-ting-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

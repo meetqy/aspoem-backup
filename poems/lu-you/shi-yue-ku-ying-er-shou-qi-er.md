@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-yue-ku-ying-er-shou-qi-er
-title: 十月苦蠅二首  其二
-titlePinyin: shi2 yue4 ku3 ying2 er4 shou3     qi2 er4
+title: 十月苦蠅二首・其二
+titlePinyin: shi2 yue4 ku3 ying2 er4 shou3・qi2 er4
 titleSlug: shi-yue-ku-ying-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

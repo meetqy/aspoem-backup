@@ -1,7 +1,7 @@
 ---
 id: lu-you-shen-yuan-er-shou-qi-yi
-title: 沈園二首  其一
-titlePinyin: shen3 yuan2 er4 shou3     qi2 yi1
+title: 沈園二首・其一
+titlePinyin: shen3 yuan2 er4 shou3・qi2 yi1
 titleSlug: shen-yuan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

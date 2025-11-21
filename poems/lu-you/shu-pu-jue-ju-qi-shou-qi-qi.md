@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-pu-jue-ju-qi-shou-qi-qi
-title: 蔬圃絕句七首  其七
-titlePinyin: shu1 pu3 jue2 ju4 qi1 shou3     qi2 qi1
+title: 蔬圃絕句七首・其七
+titlePinyin: shu1 pu3 jue2 ju4 qi1 shou3・qi2 qi1
 titleSlug: shu-pu-jue-ju-qi-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

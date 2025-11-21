@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-yu-jian-liang-you-huai-xing-yuan-san-shou-qi-er
-title: 秋雨漸涼有懷興元三首  其二
-titlePinyin: qiu1 yu3 jian4 liang2 you3 huai2 xing1 yuan2 san1 shou3     qi2 er4
+title: 秋雨漸涼有懷興元三首・其二
+titlePinyin: qiu1 yu3 jian4 liang2 you3 huai2 xing1 yuan2 san1 shou3・qi2 er4
 titleSlug: qiu-yu-jian-liang-you-huai-xing-yuan-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

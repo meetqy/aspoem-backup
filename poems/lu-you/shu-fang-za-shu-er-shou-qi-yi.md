@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-fang-za-shu-er-shou-qi-yi
-title: 書房雜書二首  其一
-titlePinyin: shu1 fang2 za2 shu1 er4 shou3     qi2 yi1
+title: 書房雜書二首・其一
+titlePinyin: shu1 fang2 za2 shu1 er4 shou3・qi2 yi1
 titleSlug: shu-fang-za-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

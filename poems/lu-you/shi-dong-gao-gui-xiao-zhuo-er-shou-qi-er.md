@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-dong-gao-gui-xiao-zhuo-er-shou-qi-er
-title: 視東皋歸小酌二首  其二
-titlePinyin: shi4 dong1 gao1 gui1 xiao3 zhuo2 er4 shou3     qi2 er4
+title: 視東皋歸小酌二首・其二
+titlePinyin: shi4 dong1 gao1 gui1 xiao3 zhuo2 er4 shou3・qi2 er4
 titleSlug: shi-dong-gao-gui-xiao-zhuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-gan-yu-shi-shou-yi-gu-cun-yi-quan-fei-can-yue-ji-ren-hang-wei-yun-qi-qi
-title: 秋夜感遇十首以孤村一犬吠殘月幾人行爲韵  其七
-titlePinyin: qiu1 ye4 gan3 yu4 shi2 shou3 yi3 gu1 cun1 yi4 quan3 fei4 can2 yue4 ji1 ren2 hang2 wei2 yun4     qi2 qi1
+title: 秋夜感遇十首以孤村一犬吠殘月幾人行爲韵・其七
+titlePinyin: qiu1 ye4 gan3 yu4 shi2 shou3 yi3 gu1 cun1 yi4 quan3 fei4 can2 yue4 ji1 ren2 hang2 wei2 yun4・qi2 qi1
 titleSlug: qiu-ye-gan-yu-shi-shou-yi-gu-cun-yi-quan-fei-can-yue-ji-ren-hang-wei-yun-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

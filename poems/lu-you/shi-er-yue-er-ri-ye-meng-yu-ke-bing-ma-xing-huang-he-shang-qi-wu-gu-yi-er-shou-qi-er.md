@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-er-yue-er-ri-ye-meng-yu-ke-bing-ma-xing-huang-he-shang-qi-wu-gu-yi-er-shou-qi-er
-title: 十二月二日夜夢與客並馬行黄河上憩於古驛二首  其二
-titlePinyin: shi2 er4 yue4 er4 ri4 ye4 meng4 yu3 ke4 bing4 ma3 xing2 huang2 he2 shang4 qi4 wu1 gu3 yi4 er4 shou3     qi2 er4
+title: 十二月二日夜夢與客並馬行黄河上憩於古驛二首・其二
+titlePinyin: shi2 er4 yue4 er4 ri4 ye4 meng4 yu3 ke4 bing4 ma3 xing2 huang2 he2 shang4 qi4 wu1 gu3 yi4 er4 shou3・qi2 er4
 titleSlug: shi-er-yue-er-ri-ye-meng-yu-ke-bing-ma-xing-huang-he-shang-qi-wu-gu-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shang-yuan-er-shou-qi-yi
-title: 上元二首  其一
-titlePinyin: shang4 yuan2 er4 shou3     qi2 yi1
+title: 上元二首・其一
+titlePinyin: shang4 yuan2 er4 shou3・qi2 yi1
 titleSlug: shang-yuan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

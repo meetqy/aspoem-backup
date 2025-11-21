@@ -1,7 +1,7 @@
 ---
 id: lu-you-shang-zhang-na-lu-en-bi-wai-ci-sui-yi-wu-yue-chu-dong-gui-wu-shou-qi-wu
-title: 上章納祿恩畀外祠遂以五月初東歸五首  其五
-titlePinyin: shang4 zhang1 na4 lu4 en1 bi4 wai4 ci2 sui4 yi3 wu3 yue4 chu1 dong1 gui1 wu3 shou3     qi2 wu3
+title: 上章納祿恩畀外祠遂以五月初東歸五首・其五
+titlePinyin: shang4 zhang1 na4 lu4 en1 bi4 wai4 ci2 sui4 yi3 wu3 yue4 chu1 dong1 gui1 wu3 shou3・qi2 wu3
 titleSlug: shang-zhang-na-lu-en-bi-wai-ci-sui-yi-wu-yue-chu-dong-gui-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

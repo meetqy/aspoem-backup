@@ -1,7 +1,7 @@
 ---
 id: lu-you-ri-yong-si-shou-qi-si
-title: 日用四首  其四
-titlePinyin: ri4 yong4 si4 shou3     qi2 si4
+title: 日用四首・其四
+titlePinyin: ri4 yong4 si4 shou3・qi2 si4
 titleSlug: ri-yong-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

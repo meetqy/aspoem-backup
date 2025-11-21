@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-cun-jing-xing-yin-shi-yao-wu-shou-qi-si
-title: 山村經行因施藥五首  其四
-titlePinyin: shan1 cun1 jing1 xing2 yin1 shi1 yao4 wu3 shou3     qi2 si4
+title: 山村經行因施藥五首・其四
+titlePinyin: shan1 cun1 jing1 xing2 yin1 shi1 yao4 wu3 shou3・qi2 si4
 titleSlug: shan-cun-jing-xing-yin-shi-yao-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

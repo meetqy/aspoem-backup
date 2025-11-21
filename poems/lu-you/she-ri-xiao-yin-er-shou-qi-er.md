@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-ri-xiao-yin-er-shou-qi-er
-title: 社日小飲二首  其二
-titlePinyin: she4 ri4 xiao3 yin3 er4 shou3     qi2 er4
+title: 社日小飲二首・其二
+titlePinyin: she4 ri4 xiao3 yin3 er4 shou3・qi2 er4
 titleSlug: she-ri-xiao-yin-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

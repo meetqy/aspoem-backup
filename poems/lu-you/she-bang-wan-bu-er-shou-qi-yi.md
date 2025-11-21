@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-bang-wan-bu-er-shou-qi-yi
-title: 舍傍晚步二首  其一
-titlePinyin: she4 bang4 wan3 bu4 er4 shou3     qi2 yi1
+title: 舍傍晚步二首・其一
+titlePinyin: she4 bang4 wan3 bu4 er4 shou3・qi2 yi1
 titleSlug: she-bang-wan-bu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

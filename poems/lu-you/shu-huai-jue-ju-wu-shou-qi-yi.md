@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-huai-jue-ju-wu-shou-qi-yi
-title: 書懷絕句五首  其一
-titlePinyin: shu1 huai2 jue2 ju4 wu3 shou3     qi2 yi1
+title: 書懷絕句五首・其一
+titlePinyin: shu1 huai2 jue2 ju4 wu3 shou3・qi2 yi1
 titleSlug: shu-huai-jue-ju-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

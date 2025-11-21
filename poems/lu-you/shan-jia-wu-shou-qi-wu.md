@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-jia-wu-shou-qi-wu
-title: 山家五首  其五
-titlePinyin: shan1 jia1 wu3 shou3     qi2 wu3
+title: 山家五首・其五
+titlePinyin: shan1 jia1 wu3 shou3・qi2 wu3
 titleSlug: shan-jia-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

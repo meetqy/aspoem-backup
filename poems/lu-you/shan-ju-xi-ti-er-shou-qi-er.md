@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-ju-xi-ti-er-shou-qi-er
-title: 山居戲題二首  其二
-titlePinyin: shan1 ju1 xi4 ti2 er4 shou3     qi2 er4
+title: 山居戲題二首・其二
+titlePinyin: shan1 ju1 xi4 ti2 er4 shou3・qi2 er4
 titleSlug: shan-ju-xi-ti-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

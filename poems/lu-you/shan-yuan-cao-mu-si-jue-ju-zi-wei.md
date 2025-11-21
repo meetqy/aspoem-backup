@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-yuan-cao-mu-si-jue-ju-zi-wei
-title: 山園草木四絕句 紫薇
-titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4   zi3 wei1
+title: 山園草木四絕句・紫薇
+titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4・zi3 wei1
 titleSlug: shan-yuan-cao-mu-si-jue-ju-zi-wei
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shang-yuan-hou-lian-shu-ri-xiao-yu-zuo-han-xi-zuo-si-shou-qi-er
-title: 上元後連數日小雨作寒戲作四首  其二
-titlePinyin: shang4 yuan2 hou4 lian2 shu4 ri4 xiao3 yu3 zuo4 han2 xi4 zuo4 si4 shou3     qi2 er4
+title: 上元後連數日小雨作寒戲作四首・其二
+titlePinyin: shang4 yuan2 hou4 lian2 shu4 ri4 xiao3 yu3 zuo4 han2 xi4 zuo4 si4 shou3・qi2 er4
 titleSlug: shang-yuan-hou-lian-shu-ri-xiao-yu-zuo-han-xi-zuo-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-shi-ming-nuan-zhong-ri-po-suo-qi-jian-juan-ze-fu-zhang-zhi-xiao-yuan-xi-zuo-chang-ju-er-shou-qi-yi
-title: 書室明暖終日婆娑其間倦則扶杖至小園戲作長句二首  其一
-titlePinyin: shu1 shi4 ming2 nuan3 zhong1 ri4 po2 suo1 qi2 jian4 juan4 ze2 fu2 zhang4 zhi4 xiao3 yuan2 xi4 zuo4 chang2 ju4 er4 shou3     qi2 yi1
+title: 書室明暖終日婆娑其間倦則扶杖至小園戲作長句二首・其一
+titlePinyin: shu1 shi4 ming2 nuan3 zhong1 ri4 po2 suo1 qi2 jian4 juan4 ze2 fu2 zhang4 zhi4 xiao3 yuan2 xi4 zuo4 chang2 ju4 er4 shou3・qi2 yi1
 titleSlug: shu-shi-ming-nuan-zhong-ri-po-suo-qi-jian-juan-ze-fu-zhang-zhi-xiao-yuan-xi-zuo-chang-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

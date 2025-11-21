@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-guan-yue-er-shou-qi-yi
-title: 秋夜觀月二首  其一
-titlePinyin: qiu1 ye4 guan1 yue4 er4 shou3     qi2 yi1
+title: 秋夜觀月二首・其一
+titlePinyin: qiu1 ye4 guan1 yue4 er4 shou3・qi2 yi1
 titleSlug: qiu-ye-guan-yue-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

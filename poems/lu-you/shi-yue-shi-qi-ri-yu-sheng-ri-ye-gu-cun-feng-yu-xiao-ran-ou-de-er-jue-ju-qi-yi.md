@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-yue-shi-qi-ri-yu-sheng-ri-ye-gu-cun-feng-yu-xiao-ran-ou-de-er-jue-ju-qi-yi
-title: 十月十七日予生日也孤村風雨蕭然偶得二絕句  其一
-titlePinyin: shi2 yue4 shi2 qi1 ri4 yu3 sheng1 ri4 ye3 gu1 cun1 feng1 yu3 xiao1 ran2 ou3 de2 er4 jue2 ju4     qi2 yi1
+title: 十月十七日予生日也孤村風雨蕭然偶得二絕句・其一
+titlePinyin: shi2 yue4 shi2 qi1 ri4 yu3 sheng1 ri4 ye3 gu1 cun1 feng1 yu3 xiao1 ran2 ou3 de2 er4 jue2 ju4・qi2 yi1
 titleSlug: shi-yue-shi-qi-ri-yu-sheng-ri-ye-gu-cun-feng-yu-xiao-ran-ou-de-er-jue-ju-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

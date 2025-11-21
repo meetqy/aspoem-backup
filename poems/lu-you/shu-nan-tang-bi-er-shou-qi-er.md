@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-nan-tang-bi-er-shou-qi-er
-title: 書南堂壁二首  其二
-titlePinyin: shu1 nan2 tang2 bi4 er4 shou3     qi2 er4
+title: 書南堂壁二首・其二
+titlePinyin: shu1 nan2 tang2 bi4 er4 shou3・qi2 er4
 titleSlug: shu-nan-tang-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-bei-xing-fan-shu-chu-mu-er-shou-qi-yi
-title: 舍北行飯書觸目二首  其一
-titlePinyin: she4 bei3 xing2 fan4 shu1 chu4 mu4 er4 shou3     qi2 yi1
+title: 舍北行飯書觸目二首・其一
+titlePinyin: she4 bei3 xing2 fan4 shu1 chu4 mu4 er4 shou3・qi2 yi1
 titleSlug: she-bei-xing-fan-shu-chu-mu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

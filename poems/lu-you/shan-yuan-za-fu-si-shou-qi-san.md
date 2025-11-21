@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-yuan-za-fu-si-shou-qi-san
-title: 山園雜賦四首  其三
-titlePinyin: shan1 yuan2 za2 fu4 si4 shou3     qi2 san1
+title: 山園雜賦四首・其三
+titlePinyin: shan1 yuan2 za2 fu4 si4 shou3・qi2 san1
 titleSlug: shan-yuan-za-fu-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

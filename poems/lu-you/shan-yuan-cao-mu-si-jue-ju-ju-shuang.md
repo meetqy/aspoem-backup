@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-yuan-cao-mu-si-jue-ju-ju-shuang
-title: 山園草木四絕句 拒霜
-titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4   ju4 shuang1
+title: 山園草木四絕句・拒霜
+titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4・ju4 shuang1
 titleSlug: shan-yuan-cao-mu-si-jue-ju-ju-shuang
 author: 陸游
 authorPinyin: lu4 you2

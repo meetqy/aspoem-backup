@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-ri-yong-shi-er-shou-qi-yi
-title: 書日用事二首  其一
-titlePinyin: shu1 ri4 yong4 shi4 er4 shou3     qi2 yi1
+title: 書日用事二首・其一
+titlePinyin: shu1 ri4 yong4 shi4 er4 shou3・qi2 yi1
 titleSlug: shu-ri-yong-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

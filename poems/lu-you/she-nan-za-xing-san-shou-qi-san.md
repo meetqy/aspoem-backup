@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-nan-za-xing-san-shou-qi-san
-title: 舍南雜興三首  其三
-titlePinyin: she4 nan2 za2 xing1 san1 shou3     qi2 san1
+title: 舍南雜興三首・其三
+titlePinyin: she4 nan2 za2 xing1 san1 shou3・qi2 san1
 titleSlug: she-nan-za-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

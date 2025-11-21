@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-bing-you-xin-hun-zhi-ming-ri-sui-xing-zhe-yu-wen-er-bei-zhi-wei-zuo-jue-ju-er-shou-qi-yi
-title: 戍兵有新婚之明日遂行者予聞而悲之爲作絕句二首  其一
-titlePinyin: shu4 bing1 you3 xin1 hun1 zhi1 ming2 ri4 sui4 xing2 zhe3 yu3 wen2 er2 bei1 zhi1 wei2 zuo4 jue2 ju4 er4 shou3     qi2 yi1
+title: 戍兵有新婚之明日遂行者予聞而悲之爲作絕句二首・其一
+titlePinyin: shu4 bing1 you3 xin1 hun1 zhi1 ming2 ri4 sui4 xing2 zhe3 yu3 wen2 er2 bei1 zhi1 wei2 zuo4 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: shu-bing-you-xin-hun-zhi-ming-ri-sui-xing-zhe-yu-wen-er-bei-zhi-wei-zuo-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

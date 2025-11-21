@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-chao-wu-yong-zhe-mo
-title: 書巢五詠 折墨
-titlePinyin: shu1 chao2 wu3 yong3   zhe2 mo4
+title: 書巢五詠・折墨
+titlePinyin: shu1 chao2 wu3 yong3・zhe2 mo4
 titleSlug: shu-chao-wu-yong-zhe-mo
 author: 陸游
 authorPinyin: lu4 you2

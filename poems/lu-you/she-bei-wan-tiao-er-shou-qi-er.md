@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-bei-wan-tiao-er-shou-qi-er
-title: 舍北晚眺二首  其二
-titlePinyin: she4 bei3 wan3 tiao4 er4 shou3     qi2 er4
+title: 舍北晚眺二首・其二
+titlePinyin: she4 bei3 wan3 tiao4 er4 shou3・qi2 er4
 titleSlug: she-bei-wan-tiao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

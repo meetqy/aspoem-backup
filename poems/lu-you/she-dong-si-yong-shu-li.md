@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-dong-si-yong-shu-li
-title: 舍東四詠 疏籬
-titlePinyin: she4 dong1 si4 yong3   shu1 li2
+title: 舍東四詠・疏籬
+titlePinyin: she4 dong1 si4 yong3・shu1 li2
 titleSlug: she-dong-si-yong-shu-li
 author: 陸游
 authorPinyin: lu4 you2

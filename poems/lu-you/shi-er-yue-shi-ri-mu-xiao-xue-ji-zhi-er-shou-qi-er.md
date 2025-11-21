@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-er-yue-shi-ri-mu-xiao-xue-ji-zhi-er-shou-qi-er
-title: 十二月十日暮小雪即止二首  其二
-titlePinyin: shi2 er4 yue4 shi2 ri4 mu4 xiao3 xue3 ji2 zhi3 er4 shou3     qi2 er4
+title: 十二月十日暮小雪即止二首・其二
+titlePinyin: shi2 er4 yue4 shi2 ri4 mu4 xiao3 xue3 ji2 zhi3 er4 shou3・qi2 er4
 titleSlug: shi-er-yue-shi-ri-mu-xiao-xue-ji-zhi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

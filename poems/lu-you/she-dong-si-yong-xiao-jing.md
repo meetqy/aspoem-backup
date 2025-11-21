@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-dong-si-yong-xiao-jing
-title: 舍東四詠 小徑
-titlePinyin: she4 dong1 si4 yong3   xiao3 jing4
+title: 舍東四詠・小徑
+titlePinyin: she4 dong1 si4 yong3・xiao3 jing4
 titleSlug: she-dong-si-yong-xiao-jing
 author: 陸游
 authorPinyin: lu4 you2

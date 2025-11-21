@@ -1,7 +1,7 @@
 ---
 id: lu-you-sheng-ya-si-shou-qi-san
-title: 生涯四首  其三
-titlePinyin: sheng1 ya2 si4 shou3     qi2 san1
+title: 生涯四首・其三
+titlePinyin: sheng1 ya2 si4 shou3・qi2 san1
 titleSlug: sheng-ya-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

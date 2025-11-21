@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-ri-bu-chu-men-ou-fu-san-shou-qi-er
-title: 數日不出門偶賦三首  其二
-titlePinyin: shu4 ri4 bu4 chu1 men2 ou3 fu4 san1 shou3     qi2 er4
+title: 數日不出門偶賦三首・其二
+titlePinyin: shu4 ri4 bu4 chu1 men2 ou3 fu4 san1 shou3・qi2 er4
 titleSlug: shu-ri-bu-chu-men-ou-fu-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

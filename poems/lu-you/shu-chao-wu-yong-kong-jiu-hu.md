@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-chao-wu-yong-kong-jiu-hu
-title: 書巢五詠 空酒壺
-titlePinyin: shu1 chao2 wu3 yong3   kong1 jiu3 hu2
+title: 書巢五詠・空酒壺
+titlePinyin: shu1 chao2 wu3 yong3・kong1 jiu3 hu2
 titleSlug: shu-chao-wu-yong-kong-jiu-hu
 author: 陸游
 authorPinyin: lu4 you2

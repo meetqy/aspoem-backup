@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-de-shan-guan-mei-er-shou-qi-er
-title: 射的山觀梅二首  其二
-titlePinyin: she4 de0 shan1 guan1 mei2 er4 shou3     qi2 er4
+title: 射的山觀梅二首・其二
+titlePinyin: she4 de0 shan1 guan1 mei2 er4 shou3・qi2 er4
 titleSlug: she-de-shan-guan-mei-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

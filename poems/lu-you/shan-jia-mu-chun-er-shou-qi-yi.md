@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-jia-mu-chun-er-shou-qi-yi
-title: 山家暮春二首  其一
-titlePinyin: shan1 jia1 mu4 chun1 er4 shou3     qi2 yi1
+title: 山家暮春二首・其一
+titlePinyin: shan1 jia1 mu4 chun1 er4 shou3・qi2 yi1
 titleSlug: shan-jia-mu-chun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

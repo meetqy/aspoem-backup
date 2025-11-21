@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-bi-er-shou-qi-er
-title: 試筆二首  其二
-titlePinyin: shi4 bi3 er4 shou3     qi2 er4
+title: 試筆二首・其二
+titlePinyin: shi4 bi3 er4 shou3・qi2 er4
 titleSlug: shi-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

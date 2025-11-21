@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-shan-bu-ju-jin-san-shi-you-san-nian-yi-wu-lou-shen-er-di-you-yu-shu-shi-zhi-hou-dang-zi-cheng-yi-cun-jin-ri-bing-shao-jian-zuo-shi-yi-shi-hou-ren-er-shou-qi-er
-title: 三山卜居今三十有三年矣屋陋甚而地有餘數世之後當自成一村今日病少間作詩以示後人二首  其二
-titlePinyin: san1 shan1 bu3 ju1 jin1 san1 shi2 you3 san1 nian2 yi3 wu1 lou4 shen4 er2 di4 you3 yu2 shu4 shi4 zhi1 hou4 dang1 zi4 cheng2 yi1 cun1 jin1 ri4 bing4 shao3 jian4 zuo4 shi1 yi3 shi4 hou4 ren2 er4 shou3     qi2 er4
+title: 三山卜居今三十有三年矣屋陋甚而地有餘數世之後當自成一村今日病少間作詩以示後人二首・其二
+titlePinyin: san1 shan1 bu3 ju1 jin1 san1 shi2 you3 san1 nian2 yi3 wu1 lou4 shen4 er2 di4 you3 yu2 shu4 shi4 zhi1 hou4 dang1 zi4 cheng2 yi1 cun1 jin1 ri4 bing4 shao3 jian4 zuo4 shi1 yi3 shi4 hou4 ren2 er4 shou3・qi2 er4
 titleSlug: san-shan-bu-ju-jin-san-shi-you-san-nian-yi-wu-lou-shen-er-di-you-yu-shu-shi-zhi-hou-dang-zi-cheng-yi-cun-jin-ri-bing-shao-jian-zuo-shi-yi-shi-hou-ren-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

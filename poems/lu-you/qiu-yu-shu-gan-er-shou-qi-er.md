@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-yu-shu-gan-er-shou-qi-er
-title: 秋雨書感二首  其二
-titlePinyin: qiu1 yu3 shu1 gan3 er4 shou3     qi2 er4
+title: 秋雨書感二首・其二
+titlePinyin: qiu1 yu3 shu1 gan3 er4 shou3・qi2 er4
 titleSlug: qiu-yu-shu-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

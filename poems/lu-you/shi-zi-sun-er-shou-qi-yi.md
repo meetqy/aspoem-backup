@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-zi-sun-er-shou-qi-yi
-title: 示子孫二首  其一
-titlePinyin: shi4 zi3 sun1 er4 shou3     qi2 yi1
+title: 示子孫二首・其一
+titlePinyin: shi4 zi3 sun1 er4 shou3・qi2 yi1
 titleSlug: shi-zi-sun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

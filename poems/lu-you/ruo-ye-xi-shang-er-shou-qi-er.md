@@ -1,7 +1,7 @@
 ---
 id: lu-you-ruo-ye-xi-shang-er-shou-qi-er
-title: 若耶溪上二首  其二
-titlePinyin: ruo4 ye1 xi1 shang4 er4 shou3     qi2 er4
+title: 若耶溪上二首・其二
+titlePinyin: ruo4 ye1 xi1 shang4 er4 shou3・qi2 er4
 titleSlug: ruo-ye-xi-shang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

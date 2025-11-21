@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-yue-shi-liu-ri-zhi-ke-qiao-ying-zi-bu-dong-huan-er-shou-qi-yi
-title: 三月十六日至柯橋迎子布東還二首  其一
-titlePinyin: san1 yue4 shi2 liu4 ri4 zhi4 ke1 qiao2 ying2 zi3 bu4 dong1 huan2 er4 shou3     qi2 yi1
+title: 三月十六日至柯橋迎子布東還二首・其一
+titlePinyin: san1 yue4 shi2 liu4 ri4 zhi4 ke1 qiao2 ying2 zi3 bu4 dong1 huan2 er4 shou3・qi2 yi1
 titleSlug: san-yue-shi-liu-ri-zhi-ke-qiao-ying-zi-bu-dong-huan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

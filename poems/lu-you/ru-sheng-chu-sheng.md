@@ -1,7 +1,7 @@
 ---
 id: lu-you-ru-sheng-chu-sheng
-title: 入省 出省
-titlePinyin: ru4 sheng3   chu1 sheng3
+title: 入省・出省
+titlePinyin: ru4 sheng3・chu1 sheng3
 titleSlug: ru-sheng-chu-sheng
 author: 陸游
 authorPinyin: lu4 you2

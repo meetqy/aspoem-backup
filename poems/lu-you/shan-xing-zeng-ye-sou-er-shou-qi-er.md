@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-xing-zeng-ye-sou-er-shou-qi-er
-title: 山行贈野叟二首  其二
-titlePinyin: shan1 xing2 zeng4 ye3 sou3 er4 shou3     qi2 er4
+title: 山行贈野叟二首・其二
+titlePinyin: shan1 xing2 zeng4 ye3 sou3 er4 shou3・qi2 er4
 titleSlug: shan-xing-zeng-ye-sou-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

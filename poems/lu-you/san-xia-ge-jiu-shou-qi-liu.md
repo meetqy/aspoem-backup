@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-xia-ge-jiu-shou-qi-liu
-title: 三峽歌九首  其六
-titlePinyin: san1 xia2 ge1 jiu3 shou3     qi2 liu4
+title: 三峽歌九首・其六
+titlePinyin: san1 xia2 ge1 jiu3 shou3・qi2 liu4
 titleSlug: san-xia-ge-jiu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

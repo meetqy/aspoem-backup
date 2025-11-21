@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-chao-wu-yong-gu-zhi
-title: 書巢五詠 故紙
-titlePinyin: shu1 chao2 wu3 yong3   gu4 zhi3
+title: 書巢五詠・故紙
+titlePinyin: shu1 chao2 wu3 yong3・gu4 zhi3
 titleSlug: shu-chao-wu-yong-gu-zhi
 author: 陸游
 authorPinyin: lu4 you2

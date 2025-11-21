@@ -1,7 +1,7 @@
 ---
 id: lu-you-qiu-ye-zhai-zhong-er-shou-qi-er
-title: 秋夜齋中二首  其二
-titlePinyin: qiu1 ye4 zhai1 zhong1 er4 shou3     qi2 er4
+title: 秋夜齋中二首・其二
+titlePinyin: qiu1 ye4 zhai1 zhong1 er4 shou3・qi2 er4
 titleSlug: qiu-ye-zhai-zhong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

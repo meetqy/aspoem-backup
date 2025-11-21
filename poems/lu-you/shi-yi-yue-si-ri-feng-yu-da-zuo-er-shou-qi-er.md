@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-yi-yue-si-ri-feng-yu-da-zuo-er-shou-qi-er
-title: 十一月四日風雨大作二首  其二
-titlePinyin: shi2 yi1 yue4 si4 ri4 feng1 yu3 da4 zuo4 er4 shou3     qi2 er4
+title: 十一月四日風雨大作二首・其二
+titlePinyin: shi2 yi1 yue4 si4 ri4 feng1 yu3 da4 zuo4 er4 shou3・qi2 er4
 titleSlug: shi-yi-yue-si-ri-feng-yu-da-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shu-shi-za-xing-si-shou-qi-yi
-title: 書室雜興四首  其一
-titlePinyin: shu1 shi4 za2 xing1 si4 shou3     qi2 yi1
+title: 書室雜興四首・其一
+titlePinyin: shu1 shi4 za2 xing1 si4 shou3・qi2 yi1
 titleSlug: shu-shi-za-xing-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

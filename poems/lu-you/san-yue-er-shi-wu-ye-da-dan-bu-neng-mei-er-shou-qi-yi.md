@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-yue-er-shi-wu-ye-da-dan-bu-neng-mei-er-shou-qi-yi
-title: 三月二十五夜達旦不能寐二首  其一
-titlePinyin: san1 yue4 er4 shi2 wu3 ye4 da2 dan4 bu4 neng2 mei4 er4 shou3     qi2 yi1
+title: 三月二十五夜達旦不能寐二首・其一
+titlePinyin: san1 yue4 er4 shi2 wu3 ye4 da2 dan4 bu4 neng2 mei4 er4 shou3・qi2 yi1
 titleSlug: san-yue-er-shi-wu-ye-da-dan-bu-neng-mei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

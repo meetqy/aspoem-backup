@@ -1,7 +1,7 @@
 ---
 id: lu-you-ru-qiu-you-shan-fu-shi-lue-wu-que-ri-xi-zuo-wu-zi-qi-shou-shi-zhi-yi-ye-dian-shan-qiao-song-ma-ti-wei-yun-qi-si
-title: 入秋遊山賦詩略無闕日戲作五字七首識之以野店山橋送馬蹄爲韵  其四
-titlePinyin: ru4 qiu1 you2 shan1 fu4 shi1 lüe4 wu2 que4 ri4 xi4 zuo4 wu3 zi4 qi1 shou3 shi2 zhi1 yi3 ye3 dian4 shan1 qiao2 song4 ma3 ti2 wei2 yun4     qi2 si4
+title: 入秋遊山賦詩略無闕日戲作五字七首識之以野店山橋送馬蹄爲韵・其四
+titlePinyin: ru4 qiu1 you2 shan1 fu4 shi1 lüe4 wu2 que4 ri4 xi4 zuo4 wu3 zi4 qi1 shou3 shi2 zhi1 yi3 ye3 dian4 shan1 qiao2 song4 ma3 ti2 wei2 yun4・qi2 si4
 titleSlug: ru-qiu-you-shan-fu-shi-lue-wu-que-ri-xi-zuo-wu-zi-qi-shou-shi-zhi-yi-ye-dian-shan-qiao-song-ma-ti-wei-yun-qi-si
 author: 陸游
 authorPinyin: lu4 you2

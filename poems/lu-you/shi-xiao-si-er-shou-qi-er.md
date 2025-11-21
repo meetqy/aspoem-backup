@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-xiao-si-er-shou-qi-er
-title: 示小廝二首  其二
-titlePinyin: shi4 xiao3 si1 er4 shou3     qi2 er4
+title: 示小廝二首・其二
+titlePinyin: shi4 xiao3 si1 er4 shou3・qi2 er4
 titleSlug: shi-xiao-si-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-er-yue-yi-ri-er-shou-qi-er
-title: 十二月一日二首  其二
-titlePinyin: shi2 er4 yue4 yi2 ri4 er4 shou3     qi2 er4
+title: 十二月一日二首・其二
+titlePinyin: shi2 er4 yue4 yi2 ri4 er4 shou3・qi2 er4
 titleSlug: shi-er-yue-yi-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

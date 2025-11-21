@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-bei-ye-wang-si-shou-qi-yi
-title: 舍北野望四首  其一
-titlePinyin: she4 bei3 ye3 wang4 si4 shou3     qi2 yi1
+title: 舍北野望四首・其一
+titlePinyin: she4 bei3 ye3 wang4 si4 shou3・qi2 yi1
 titleSlug: she-bei-ye-wang-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

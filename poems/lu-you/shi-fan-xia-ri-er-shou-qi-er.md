@@ -1,7 +1,7 @@
 ---
 id: lu-you-shi-fan-xia-ri-er-shou-qi-er
-title: 石帆夏日二首  其二
-titlePinyin: shi2 fan1 xia4 ri4 er4 shou3     qi2 er4
+title: 石帆夏日二首・其二
+titlePinyin: shi2 fan1 xia4 ri4 er4 shou3・qi2 er4
 titleSlug: shi-fan-xia-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

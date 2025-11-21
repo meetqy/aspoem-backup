@@ -1,7 +1,7 @@
 ---
 id: lu-you-shan-yuan-cao-mu-si-jue-ju-liao-hua
-title: 山園草木四絕句 蓼花
-titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4   liao3 hua1
+title: 山園草木四絕句・蓼花
+titlePinyin: shan1 yuan2 cao3 mu4 si4 jue2 ju4・liao3 hua1
 titleSlug: shan-yuan-cao-mu-si-jue-ju-liao-hua
 author: 陸游
 authorPinyin: lu4 you2

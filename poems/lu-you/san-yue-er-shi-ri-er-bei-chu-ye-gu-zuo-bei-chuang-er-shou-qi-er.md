@@ -1,7 +1,7 @@
 ---
 id: lu-you-san-yue-er-shi-ri-er-bei-chu-ye-gu-zuo-bei-chuang-er-shou-qi-er
-title: 三月二十日兒輩出謁孤坐北窗二首  其二
-titlePinyin: san1 yue4 er4 shi2 ri4 er2 bei4 chu1 ye4 gu1 zuo4 bei3 chuang1 er4 shou3     qi2 er4
+title: 三月二十日兒輩出謁孤坐北窗二首・其二
+titlePinyin: san1 yue4 er4 shi2 ri4 er2 bei4 chu1 ye4 gu1 zuo4 bei3 chuang1 er4 shou3・qi2 er4
 titleSlug: san-yue-er-shi-ri-er-bei-chu-ye-gu-zuo-bei-chuang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

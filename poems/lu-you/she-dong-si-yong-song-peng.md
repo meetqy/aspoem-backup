@@ -1,7 +1,7 @@
 ---
 id: lu-you-she-dong-si-yong-song-peng
-title: 舍東四詠 松棚
-titlePinyin: she4 dong1 si4 yong3   song1 peng2
+title: 舍東四詠・松棚
+titlePinyin: she4 dong1 si4 yong3・song1 peng2
 titleSlug: she-dong-si-yong-song-peng
 author: 陸游
 authorPinyin: lu4 you2

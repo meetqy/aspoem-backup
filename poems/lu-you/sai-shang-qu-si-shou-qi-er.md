@@ -1,7 +1,7 @@
 ---
 id: lu-you-sai-shang-qu-si-shou-qi-er
-title: 塞上曲四首  其二
-titlePinyin: sai4 shang4 qu3 si4 shou3     qi2 er4
+title: 塞上曲四首・其二
+titlePinyin: sai4 shang4 qu3 si4 shou3・qi2 er4
 titleSlug: sai-shang-qu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
