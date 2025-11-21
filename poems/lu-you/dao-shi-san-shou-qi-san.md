@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-san-shou-qi-san
-title: 道石三首  其三
-titlePinyin: dao4 shi2 san1 shou3     qi2 san1
+title: 道石三首・其三
+titlePinyin: dao4 shi2 san1 shou3・qi2 san1
 titleSlug: dao-shi-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-xuan-hua-shi-jiang-guo-gan-huai-er-shou-qi-yi
-title: 東軒花時將過感懷二首  其一
-titlePinyin: dong1 xuan1 hua1 shi2 jiang1 guo4 gan3 huai2 er4 shou3     qi2 yi1
+title: 東軒花時將過感懷二首・其一
+titlePinyin: dong1 xuan1 hua1 shi2 jiang1 guo4 gan3 huai2 er4 shou3・qi2 yi1
 titleSlug: dong-xuan-hua-shi-jiang-guo-gan-huai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

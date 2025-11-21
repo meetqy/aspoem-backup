@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-yuan-xiao-yin-si-shou-qi-san
-title: 東園小飲四首  其三
-titlePinyin: dong1 yuan2 xiao3 yin3 si4 shou3     qi2 san1
+title: 東園小飲四首・其三
+titlePinyin: dong1 yuan2 xiao3 yin3 si4 shou3・qi2 san1
 titleSlug: dong-yuan-xiao-yin-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

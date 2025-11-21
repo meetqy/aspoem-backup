@@ -1,7 +1,7 @@
 ---
 id: lu-you-ding-wei-chu-xi-qian-er-ri-xiu-jia-gan-huai-er-shou-qi-yi
-title: 丁未除夕前二日休假感懷二首  其一
-titlePinyin: ding1 wei4 chu2 xi1 qian2 er4 ri4 xiu1 jia4 gan3 huai2 er4 shou3     qi2 yi1
+title: 丁未除夕前二日休假感懷二首・其一
+titlePinyin: ding1 wei4 chu2 xi1 qian2 er4 ri4 xiu1 jia4 gan3 huai2 er4 shou3・qi2 yi1
 titleSlug: ding-wei-chu-xi-qian-er-ri-xiu-jia-gan-huai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

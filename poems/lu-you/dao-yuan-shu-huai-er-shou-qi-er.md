@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-yuan-shu-huai-er-shou-qi-er
-title: 道院述懷二首  其二
-titlePinyin: dao4 yuan4 shu4 huai2 er4 shou3     qi2 er4
+title: 道院述懷二首・其二
+titlePinyin: dao4 yuan4 shu4 huai2 er4 shou3・qi2 er4
 titleSlug: dao-yuan-shu-huai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

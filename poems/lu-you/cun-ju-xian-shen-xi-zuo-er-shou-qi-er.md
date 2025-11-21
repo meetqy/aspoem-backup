@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-xian-shen-xi-zuo-er-shou-qi-er
-title: 村居閑甚戲作二首  其二
-titlePinyin: cun1 ju1 xian2 shen4 xi4 zuo4 er4 shou3     qi2 er4
+title: 村居閑甚戲作二首・其二
+titlePinyin: cun1 ju1 xian2 shen4 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: cun-ju-xian-shen-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

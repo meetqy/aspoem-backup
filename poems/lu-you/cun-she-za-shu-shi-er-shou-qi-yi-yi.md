@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-she-za-shu-shi-er-shou-qi-yi-yi
-title: 村舍雜書十二首  其一一
-titlePinyin: cun1 she4 za2 shu1 shi2 er4 shou3     qi2 yi1 yi1
+title: 村舍雜書十二首・其一一
+titlePinyin: cun1 she4 za2 shu1 shi2 er4 shou3・qi2 yi1 yi1
 titleSlug: cun-she-za-shu-shi-er-shou-qi-yi-yi
 author: 陸游
 authorPinyin: lu4 you2

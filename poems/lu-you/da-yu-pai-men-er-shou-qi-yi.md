@@ -1,7 +1,7 @@
 ---
 id: lu-you-da-yu-pai-men-er-shou-qi-yi
-title: 大雨排悶二首  其一
-titlePinyin: da4 yu3 pai2 men4 er4 shou3     qi2 yi1
+title: 大雨排悶二首・其一
+titlePinyin: da4 yu3 pai2 men4 er4 shou3・qi2 yi1
 titleSlug: da-yu-pai-men-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

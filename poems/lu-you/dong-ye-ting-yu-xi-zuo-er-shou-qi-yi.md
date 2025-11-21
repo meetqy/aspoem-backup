@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ye-ting-yu-xi-zuo-er-shou-qi-yi
-title: 冬夜聽雨戲作二首  其一
-titlePinyin: dong1 ye4 ting1 yu3 xi4 zuo4 er4 shou3     qi2 yi1
+title: 冬夜聽雨戲作二首・其一
+titlePinyin: dong1 ye4 ting1 yu3 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: dong-ye-ting-yu-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

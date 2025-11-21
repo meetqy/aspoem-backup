@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-za-yong-liu-shou-qi-er
-title: 道室雜詠六首  其二
-titlePinyin: dao4 shi4 za2 yong3 liu4 shou3     qi2 er4
+title: 道室雜詠六首・其二
+titlePinyin: dao4 shi4 za2 yong3 liu4 shou3・qi2 er4
 titleSlug: dao-shi-za-yong-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

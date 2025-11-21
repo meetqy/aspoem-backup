@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ri-zhai-zhong-ji-shi-liu-shou-qi-yi
-title: 冬日齋中即事六首  其一
-titlePinyin: dong1 ri4 zhai1 zhong1 ji2 shi4 liu4 shou3     qi2 yi1
+title: 冬日齋中即事六首・其一
+titlePinyin: dong1 ri4 zhai1 zhong1 ji2 shi4 liu4 shou3・qi2 yi1
 titleSlug: dong-ri-zhai-zhong-ji-shi-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-chuang-qian-xing-san-shou-qi-san
-title: 東窗遣興三首  其三
-titlePinyin: dong1 chuang1 qian3 xing1 san1 shou3     qi2 san1
+title: 東窗遣興三首・其三
+titlePinyin: dong1 chuang1 qian3 xing1 san1 shou3・qi2 san1
 titleSlug: dong-chuang-qian-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

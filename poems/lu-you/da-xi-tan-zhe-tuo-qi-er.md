@@ -1,7 +1,7 @@
 ---
 id: lu-you-da-xi-tan-zhe-tuo-qi-er
-title: 大溪灘折柁  其二
-titlePinyin: da4 xi1 tan1 zhe2 tuo2     qi2 er4
+title: 大溪灘折柁・其二
+titlePinyin: da4 xi1 tan1 zhe2 tuo2・qi2 er4
 titleSlug: da-xi-tan-zhe-tuo-qi-er
 author: 陸游
 authorPinyin: lu4 you2

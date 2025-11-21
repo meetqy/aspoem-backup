@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-qing-xian-bu-dong-cun-you-gu-tang-huan-she-zuo-er-shou-qi-yi
-title: 冬晴閑步東村由故塘還舍作二首  其一
-titlePinyin: dong1 qing2 xian2 bu4 dong1 cun1 you2 gu4 tang2 huan2 she4 zuo4 er4 shou3     qi2 yi1
+title: 冬晴閑步東村由故塘還舍作二首・其一
+titlePinyin: dong1 qing2 xian2 bu4 dong1 cun1 you2 gu4 tang2 huan2 she4 zuo4 er4 shou3・qi2 yi1
 titleSlug: dong-qing-xian-bu-dong-cun-you-gu-tang-huan-she-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

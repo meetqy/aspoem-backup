@@ -1,7 +1,7 @@
 ---
 id: lu-you-da-yu-yu-xun-ji-zhi-fu-zuo-jiang-sui-da-zhang-er-shou-qi-er
-title: 大雨踰旬既止復作江遂大漲二首  其二
-titlePinyin: da4 yu3 yu2 xun2 ji4 zhi3 fu4 zuo4 jiang1 sui4 da4 zhang3 er4 shou3     qi2 er4
+title: 大雨踰旬既止復作江遂大漲二首・其二
+titlePinyin: da4 yu3 yu2 xun2 ji4 zhi3 fu4 zuo4 jiang1 sui4 da4 zhang3 er4 shou3・qi2 er4
 titleSlug: da-yu-yu-xun-ji-zhi-fu-zuo-jiang-sui-da-zhang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-qian-xing-san-shou-qi-san
-title: 村居遣興三首  其三
-titlePinyin: cun1 ju1 qian3 xing1 san1 shou3     qi2 san1
+title: 村居遣興三首・其三
+titlePinyin: cun1 ju1 qian3 xing1 san1 shou3・qi2 san1
 titleSlug: cun-ju-qian-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

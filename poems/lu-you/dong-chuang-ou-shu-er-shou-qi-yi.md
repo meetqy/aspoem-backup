@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-chuang-ou-shu-er-shou-qi-yi
-title: 東窗偶書二首  其一
-titlePinyin: dong1 chuang1 ou3 shu1 er4 shou3     qi2 yi1
+title: 東窗偶書二首・其一
+titlePinyin: dong1 chuang1 ou3 shu1 er4 shou3・qi2 yi1
 titleSlug: dong-chuang-ou-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

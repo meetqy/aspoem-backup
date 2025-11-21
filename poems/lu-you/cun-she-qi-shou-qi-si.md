@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-she-qi-shou-qi-si
-title: 村舍七首  其四
-titlePinyin: cun1 she4 qi1 shou3     qi2 si4
+title: 村舍七首・其四
+titlePinyin: cun1 she4 qi1 shou3・qi2 si4
 titleSlug: cun-she-qi-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

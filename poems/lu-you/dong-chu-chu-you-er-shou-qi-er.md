@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-chu-chu-you-er-shou-qi-er
-title: 冬初出遊二首  其二
-titlePinyin: dong1 chu1 chu1 you2 er4 shou3     qi2 er4
+title: 冬初出遊二首・其二
+titlePinyin: dong1 chu1 chu1 you2 er4 shou3・qi2 er4
 titleSlug: dong-chu-chu-you-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

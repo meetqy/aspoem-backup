@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-ji-shi-san-shou-qi-yi
-title: 村居即事三首  其一
-titlePinyin: cun1 ju1 ji2 shi4 san1 shou3     qi2 yi1
+title: 村居即事三首・其一
+titlePinyin: cun1 ju1 ji2 shi4 san1 shou3・qi2 yi1
 titleSlug: cun-ju-ji-shi-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ding-you-shang-yuan-san-shou-qi-yi
-title: 丁酉上元三首  其一
-titlePinyin: ding1 you3 shang4 yuan2 san1 shou3     qi2 yi1
+title: 丁酉上元三首・其一
+titlePinyin: ding1 you3 shang4 yuan2 san1 shou3・qi2 yi1
 titleSlug: ding-you-shang-yuan-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

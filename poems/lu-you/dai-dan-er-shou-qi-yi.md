@@ -1,7 +1,7 @@
 ---
 id: lu-you-dai-dan-er-shou-qi-yi
-title: 待旦二首  其一
-titlePinyin: dai4 dan4 er4 shou3     qi2 yi1
+title: 待旦二首・其一
+titlePinyin: dai4 dan4 er4 shou3・qi2 yi1
 titleSlug: dai-dan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ye-xi-shu-san-shou-qi-er
-title: 冬夜戲書三首  其二
-titlePinyin: dong1 ye4 xi4 shu1 san1 shou3     qi2 er4
+title: 冬夜戲書三首・其二
+titlePinyin: dong1 ye4 xi4 shu1 san1 shou3・qi2 er4
 titleSlug: dong-ye-xi-shu-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

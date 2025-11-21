@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ye-du-shu-shi-zi-yu-ba-shou-qi-si
-title: 冬夜讀書示子聿八首  其四
-titlePinyin: dong1 ye4 du2 shu1 shi4 zi3 yu4 ba1 shou3     qi2 si4
+title: 冬夜讀書示子聿八首・其四
+titlePinyin: dong1 ye4 du2 shu1 shi4 zi3 yu4 ba1 shou3・qi2 si4
 titleSlug: dong-ye-du-shu-shi-zi-yu-ba-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

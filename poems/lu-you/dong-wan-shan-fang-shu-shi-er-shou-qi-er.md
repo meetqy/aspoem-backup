@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-wan-shan-fang-shu-shi-er-shou-qi-er
-title: 冬晚山房書事二首  其二
-titlePinyin: dong1 wan3 shan1 fang2 shu1 shi4 er4 shou3     qi2 er4
+title: 冬晚山房書事二首・其二
+titlePinyin: dong1 wan3 shan1 fang2 shu1 shi4 er4 shou3・qi2 er4
 titleSlug: dong-wan-shan-fang-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

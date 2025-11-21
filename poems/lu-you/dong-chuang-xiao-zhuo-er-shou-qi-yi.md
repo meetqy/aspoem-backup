@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-chuang-xiao-zhuo-er-shou-qi-yi
-title: 東窗小酌二首  其一
-titlePinyin: dong1 chuang1 xiao3 zhuo2 er4 shou3     qi2 yi1
+title: 東窗小酌二首・其一
+titlePinyin: dong1 chuang1 xiao3 zhuo2 er4 shou3・qi2 yi1
 titleSlug: dong-chuang-xiao-zhuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

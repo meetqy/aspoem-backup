@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-qing-yu-zi-tan-zi-yu-you-hu-shang-liu-shou-qi-si
-title: 冬晴與子坦子聿遊湖上六首  其四
-titlePinyin: dong1 qing2 yu3 zi3 tan3 zi3 yu4 you2 hu2 shang4 liu4 shou3     qi2 si4
+title: 冬晴與子坦子聿遊湖上六首・其四
+titlePinyin: dong1 qing2 yu3 zi3 tan3 zi3 yu4 you2 hu2 shang4 liu4 shou3・qi2 si4
 titleSlug: dong-qing-yu-zi-tan-zi-yu-you-hu-shang-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

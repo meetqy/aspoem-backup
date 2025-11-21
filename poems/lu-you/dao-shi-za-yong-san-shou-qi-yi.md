@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-za-yong-san-shou-qi-yi
-title: 道室雜詠三首  其一
-titlePinyin: dao4 shi4 za2 yong3 san1 shou3     qi2 yi1
+title: 道室雜詠三首・其一
+titlePinyin: dao4 shi4 za2 yong3 san1 shou3・qi2 yi1
 titleSlug: dao-shi-za-yong-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

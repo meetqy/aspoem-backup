@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-chuang-si-shou-qi-yi
-title: 東窗四首  其一
-titlePinyin: dong1 chuang1 si4 shou3     qi2 yi1
+title: 東窗四首・其一
+titlePinyin: dong1 chuang1 si4 shou3・qi2 yi1
 titleSlug: dong-chuang-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

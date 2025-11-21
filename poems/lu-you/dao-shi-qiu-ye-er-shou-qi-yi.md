@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-qiu-ye-er-shou-qi-yi
-title: 道室秋夜二首  其一
-titlePinyin: dao4 shi4 qiu1 ye4 er4 shou3     qi2 yi1
+title: 道室秋夜二首・其一
+titlePinyin: dao4 shi4 qiu1 ye4 er4 shou3・qi2 yi1
 titleSlug: dao-shi-qiu-ye-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

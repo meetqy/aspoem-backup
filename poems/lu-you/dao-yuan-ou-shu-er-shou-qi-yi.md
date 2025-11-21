@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-yuan-ou-shu-er-shou-qi-yi
-title: 道院偶述二首  其一
-titlePinyin: dao4 yuan4 ou3 shu4 er4 shou3     qi2 yi1
+title: 道院偶述二首・其一
+titlePinyin: dao4 yuan4 ou3 shu4 er4 shou3・qi2 yi1
 titleSlug: dao-yuan-ou-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

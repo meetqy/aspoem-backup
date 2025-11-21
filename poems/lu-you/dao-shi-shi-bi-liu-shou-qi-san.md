@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-shi-bi-liu-shou-qi-san
-title: 道室試筆六首  其三
-titlePinyin: dao4 shi4 shi4 bi3 liu4 shou3     qi2 san1
+title: 道室試筆六首・其三
+titlePinyin: dao4 shi4 shi4 bi3 liu4 shou3・qi2 san1
 titleSlug: dao-shi-shi-bi-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

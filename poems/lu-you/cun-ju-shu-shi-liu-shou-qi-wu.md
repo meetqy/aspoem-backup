@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-ju-shu-shi-liu-shou-qi-wu
-title: 村居書事六首  其五
-titlePinyin: cun1 ju1 shu1 shi4 liu4 shou3     qi2 wu3
+title: 村居書事六首・其五
+titlePinyin: cun1 ju1 shu1 shi4 liu4 shou3・qi2 wu3
 titleSlug: cun-ju-shu-shi-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

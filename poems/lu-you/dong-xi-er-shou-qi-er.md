@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-xi-er-shou-qi-er
-title: 冬夕二首  其二
-titlePinyin: dong1 xi1 er4 shou3     qi2 er4
+title: 冬夕二首・其二
+titlePinyin: dong1 xi1 er4 shou3・qi2 er4
 titleSlug: dong-xi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

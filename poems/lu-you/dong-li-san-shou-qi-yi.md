@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-li-san-shou-qi-yi
-title: 東籬三首  其一
-titlePinyin: dong1 li2 san1 shou3     qi2 yi1
+title: 東籬三首・其一
+titlePinyin: dong1 li2 san1 shou3・qi2 yi1
 titleSlug: dong-li-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ye-wen-jiao-sheng-er-shou-qi-er
-title: 冬夜聞角聲二首  其二
-titlePinyin: dong1 ye4 wen2 jiao3 sheng1 er4 shou3     qi2 er4
+title: 冬夜聞角聲二首・其二
+titlePinyin: dong1 ye4 wen2 jiao3 sheng1 er4 shou3・qi2 er4
 titleSlug: dong-ye-wen-jiao-sheng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

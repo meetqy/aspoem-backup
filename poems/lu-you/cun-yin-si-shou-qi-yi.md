@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-yin-si-shou-qi-yi
-title: 村飲四首  其一
-titlePinyin: cun1 yin3 si4 shou3     qi2 yi1
+title: 村飲四首・其一
+titlePinyin: cun1 yin3 si4 shou3・qi2 yi1
 titleSlug: cun-yin-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

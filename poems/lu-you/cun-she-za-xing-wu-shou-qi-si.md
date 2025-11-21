@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-she-za-xing-wu-shou-qi-si
-title: 村舍雜興五首  其四
-titlePinyin: cun1 she4 za2 xing1 wu3 shou3     qi2 si4
+title: 村舍雜興五首・其四
+titlePinyin: cun1 she4 za2 xing1 wu3 shou3・qi2 si4
 titleSlug: cun-she-za-xing-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

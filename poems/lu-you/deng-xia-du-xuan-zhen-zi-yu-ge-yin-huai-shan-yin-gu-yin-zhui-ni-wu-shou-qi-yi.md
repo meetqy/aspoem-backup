@@ -1,7 +1,7 @@
 ---
 id: lu-you-deng-xia-du-xuan-zhen-zi-yu-ge-yin-huai-shan-yin-gu-yin-zhui-ni-wu-shou-qi-yi
-title: 燈下讀玄真子漁歌因懷山陰故隱追擬五首  其一
-titlePinyin: deng1 xia4 du2 xuan2 zhen1 zi0 yu2 ge1 yin1 huai2 shan1 yin1 gu4 yin3 zhui1 ni3 wu3 shou3     qi2 yi1
+title: 燈下讀玄真子漁歌因懷山陰故隱追擬五首・其一
+titlePinyin: deng1 xia4 du2 xuan2 zhen1 zi0 yu2 ge1 yin1 huai2 shan1 yin1 gu4 yin3 zhui1 ni3 wu3 shou3・qi2 yi1
 titleSlug: deng-xia-du-xuan-zhen-zi-yu-ge-yin-huai-shan-yin-gu-yin-zhui-ni-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

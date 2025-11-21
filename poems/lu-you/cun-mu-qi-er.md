@@ -1,7 +1,7 @@
 ---
 id: lu-you-cun-mu-qi-er
-title: 存目  其二
-titlePinyin: cun2 mu4     qi2 er4
+title: 存目・其二
+titlePinyin: cun2 mu4・qi2 er4
 titleSlug: cun-mu-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ri-du-bai-ji-ai-qi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-zhi-ju-zuo-gu-feng-shi-shou-qi-yi
-title: 冬日讀白集愛其貧堅志士節病長高人情之句作古風十首  其一○
-titlePinyin: dong1 ri4 du2 bai2 ji2 ai4 qi2 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 zhi1 ju4 zuo4 gu3 feng1 shi2 shou3     qi2 yi1 ○
+title: 冬日讀白集愛其貧堅志士節病長高人情之句作古風十首・其一○
+titlePinyin: dong1 ri4 du2 bai2 ji2 ai4 qi2 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 zhi1 ju4 zuo4 gu3 feng1 shi2 shou3・qi2 yi1 ○
 titleSlug: dong-ri-du-bai-ji-ai-qi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-zhi-ju-zuo-gu-feng-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

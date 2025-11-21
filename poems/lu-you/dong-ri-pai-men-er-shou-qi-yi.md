@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-ri-pai-men-er-shou-qi-yi
-title: 冬日排悶二首  其一
-titlePinyin: dong1 ri4 pai2 men4 er4 shou3     qi2 yi1
+title: 冬日排悶二首・其一
+titlePinyin: dong1 ri4 pai2 men4 er4 shou3・qi2 yi1
 titleSlug: dong-ri-pai-men-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

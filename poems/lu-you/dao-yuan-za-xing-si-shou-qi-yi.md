@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-yuan-za-xing-si-shou-qi-yi
-title: 道院雜興四首  其一
-titlePinyin: dao4 yuan4 za2 xing1 si4 shou3     qi2 yi1
+title: 道院雜興四首・其一
+titlePinyin: dao4 yuan4 za2 xing1 si4 shou3・qi2 yi1
 titleSlug: dao-yuan-za-xing-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

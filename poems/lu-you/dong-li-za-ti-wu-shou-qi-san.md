@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-li-za-ti-wu-shou-qi-san
-title: 東籬雜題五首  其三
-titlePinyin: dong1 li2 za2 ti2 wu3 shou3     qi2 san1
+title: 東籬雜題五首・其三
+titlePinyin: dong1 li2 za2 ti2 wu3 shou3・qi2 san1
 titleSlug: dong-li-za-ti-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

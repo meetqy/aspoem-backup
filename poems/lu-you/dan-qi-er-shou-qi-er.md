@@ -1,7 +1,7 @@
 ---
 id: lu-you-dan-qi-er-shou-qi-er
-title: 旦起二首  其二
-titlePinyin: dan4 qi3 er4 shou3     qi2 er4
+title: 旦起二首・其二
+titlePinyin: dan4 qi3 er4 shou3・qi2 er4
 titleSlug: dan-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

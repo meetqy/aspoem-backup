@@ -1,7 +1,7 @@
 ---
 id: lu-you-dao-shi-ji-shi-si-shou-qi-si
-title: 道室即事四首  其四
-titlePinyin: dao4 shi4 ji2 shi4 si4 shou3     qi2 si4
+title: 道室即事四首・其四
+titlePinyin: dao4 shi4 ji2 shi4 si4 shou3・qi2 si4
 titleSlug: dao-shi-ji-shi-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

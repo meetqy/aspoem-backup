@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-qing-xing-yuan-zhong-er-shou-qi-yi
-title: 冬晴行園中二首  其一
-titlePinyin: dong1 qing2 xing2 yuan2 zhong1 er4 shou3     qi2 yi1
+title: 冬晴行園中二首・其一
+titlePinyin: dong1 qing2 xing2 yuan2 zhong1 er4 shou3・qi2 yi1
 titleSlug: dong-qing-xing-yuan-zhong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

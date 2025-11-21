@@ -1,7 +1,7 @@
 ---
 id: lu-you-dong-li-za-shu-si-shou-qi-yi
-title: 東籬雜書四首  其一
-titlePinyin: dong1 li2 za2 shu1 si4 shou3     qi2 yi1
+title: 東籬雜書四首・其一
+titlePinyin: dong1 li2 za2 shu1 si4 shou3・qi2 yi1
 titleSlug: dong-li-za-shu-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
