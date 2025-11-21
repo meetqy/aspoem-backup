@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-dao-shi-zeng-xiao-hu-lu-si-shou-qi-er
-title: 劉道士贈小葫蘆四首  其二
-titlePinyin: liu2 dao4 shi0 zeng4 xiao3 hu2 lu2 si4 shou3     qi2 er4
+title: 劉道士贈小葫蘆四首・其二
+titlePinyin: liu2 dao4 shi0 zeng4 xiao3 hu2 lu2 si4 shou3・qi2 er4
 titleSlug: liu-dao-shi-zeng-xiao-hu-lu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

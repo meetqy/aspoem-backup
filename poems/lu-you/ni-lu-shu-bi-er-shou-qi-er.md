@@ -1,7 +1,7 @@
 ---
 id: lu-you-ni-lu-shu-bi-er-shou-qi-er
-title: 逆旅書壁二首  其二
-titlePinyin: ni4 lü3 shu1 bi4 er4 shou3     qi2 er4
+title: 逆旅書壁二首・其二
+titlePinyin: ni4 lü3 shu1 bi4 er4 shou3・qi2 er4
 titleSlug: ni-lu-shu-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

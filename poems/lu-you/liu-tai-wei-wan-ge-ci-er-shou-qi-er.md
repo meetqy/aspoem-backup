@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-tai-wei-wan-ge-ci-er-shou-qi-er
-title: 劉太尉挽歌辭二首  其二
-titlePinyin: liu2 tai4 wei4 wan3 ge1 ci2 er4 shou3     qi2 er4
+title: 劉太尉挽歌辭二首・其二
+titlePinyin: liu2 tai4 wei4 wan3 ge1 ci2 er4 shou3・qi2 er4
 titleSlug: liu-tai-wei-wan-ge-ci-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

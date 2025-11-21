@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-chun-gui-tang-ji-shi-si-shou-qi-yi
-title: 暮春龜堂即事四首  其一
-titlePinyin: mu4 chun1 gui1 tang2 ji2 shi4 si4 shou3     qi2 yi1
+title: 暮春龜堂即事四首・其一
+titlePinyin: mu4 chun1 gui1 tang2 ji2 shi4 si4 shou3・qi2 yi1
 titleSlug: mu-chun-gui-tang-ji-shi-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

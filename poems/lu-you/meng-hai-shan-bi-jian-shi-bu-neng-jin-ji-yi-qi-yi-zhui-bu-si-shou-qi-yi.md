@@ -1,7 +1,7 @@
 ---
 id: lu-you-meng-hai-shan-bi-jian-shi-bu-neng-jin-ji-yi-qi-yi-zhui-bu-si-shou-qi-yi
-title: 夢海山壁間詩不能盡記以其意追補四首  其一
-titlePinyin: meng4 hai3 shan1 bi4 jian4 shi1 bu4 neng2 jin4 ji4 yi3 qi2 yi4 zhui1 bu3 si4 shou3     qi2 yi1
+title: 夢海山壁間詩不能盡記以其意追補四首・其一
+titlePinyin: meng4 hai3 shan1 bi4 jian4 shi1 bu4 neng2 jin4 ji4 yi3 qi2 yi4 zhui1 bu3 si4 shou3・qi2 yi1
 titleSlug: meng-hai-shan-bi-jian-shi-bu-neng-jin-ji-yi-qi-yi-zhui-bu-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

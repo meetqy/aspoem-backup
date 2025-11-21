@@ -1,7 +1,7 @@
 ---
 id: lu-you-ou-de-shuang-ji-er-shou-qi-yi
-title: 偶得雙鯽二首  其一
-titlePinyin: ou3 de2 shuang1 ji4 er4 shou3     qi2 yi1
+title: 偶得雙鯽二首・其一
+titlePinyin: ou3 de2 shuang1 ji4 er4 shou3・qi2 yi1
 titleSlug: ou-de-shuang-ji-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

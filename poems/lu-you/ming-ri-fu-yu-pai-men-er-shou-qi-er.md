@@ -1,7 +1,7 @@
 ---
 id: lu-you-ming-ri-fu-yu-pai-men-er-shou-qi-er
-title: 明日復雨排悶二首  其二
-titlePinyin: ming2 ri4 fu4 yu3 pai2 men4 er4 shou3     qi2 er4
+title: 明日復雨排悶二首・其二
+titlePinyin: ming2 ri4 fu4 yu3 pai2 men4 er4 shou3・qi2 er4
 titleSlug: ming-ri-fu-yu-pai-men-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

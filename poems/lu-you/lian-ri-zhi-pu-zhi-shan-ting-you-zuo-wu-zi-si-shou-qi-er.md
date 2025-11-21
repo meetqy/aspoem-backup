@@ -1,7 +1,7 @@
 ---
 id: lu-you-lian-ri-zhi-pu-zhi-shan-ting-you-zuo-wu-zi-si-shou-qi-er
-title: 連日治圃至山亭又作五字四首  其二
-titlePinyin: lian2 ri4 zhi4 pu3 zhi4 shan1 ting2 you4 zuo4 wu3 zi4 si4 shou3     qi2 er4
+title: 連日治圃至山亭又作五字四首・其二
+titlePinyin: lian2 ri4 zhi4 pu3 zhi4 shan1 ting2 you4 zuo4 wu3 zi4 si4 shou3・qi2 er4
 titleSlug: lian-ri-zhi-pu-zhi-shan-ting-you-zuo-wu-zi-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-lie-ba-ye-yin-shi-du-gu-sheng-san-shou-qi-er
-title: 獵罷夜飲示獨孤生三首  其二
-titlePinyin: lie4 ba4 ye4 yin3 shi4 du2 gu1 sheng1 san1 shou3     qi2 er4
+title: 獵罷夜飲示獨孤生三首・其二
+titlePinyin: lie4 ba4 ye4 yin3 shi4 du2 gu1 sheng1 san1 shou3・qi2 er4
 titleSlug: lie-ba-ye-yin-shi-du-gu-sheng-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

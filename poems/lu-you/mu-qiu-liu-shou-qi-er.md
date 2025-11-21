@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-qiu-liu-shou-qi-er
-title: 暮秋六首  其二
-titlePinyin: mu4 qiu1 liu4 shou3     qi2 er4
+title: 暮秋六首・其二
+titlePinyin: mu4 qiu1 liu4 shou3・qi2 er4
 titleSlug: mu-qiu-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

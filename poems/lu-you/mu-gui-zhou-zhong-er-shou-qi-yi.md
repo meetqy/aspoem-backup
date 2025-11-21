@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-gui-zhou-zhong-er-shou-qi-yi
-title: 暮歸舟中二首  其一
-titlePinyin: mu4 gui1 zhou1 zhong1 er4 shou3     qi2 yi1
+title: 暮歸舟中二首・其一
+titlePinyin: mu4 gui1 zhou1 zhong1 er4 shou3・qi2 yi1
 titleSlug: mu-gui-zhou-zhong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

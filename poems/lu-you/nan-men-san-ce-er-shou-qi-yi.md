@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-men-san-ce-er-shou-qi-yi
-title: 南門散策二首  其一
-titlePinyin: nan2 men2 san4 ce4 er4 shou3     qi2 yi1
+title: 南門散策二首・其一
+titlePinyin: nan2 men2 san4 ce4 er4 shou3・qi2 yi1
 titleSlug: nan-men-san-ce-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

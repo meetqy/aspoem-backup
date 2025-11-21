@@ -1,7 +1,7 @@
 ---
 id: lu-you-meng-zhi-cheng-du-chang-ran-you-zuo-er-shou-qi-er
-title: 夢至成都悵然有作二首  其二
-titlePinyin: meng4 zhi4 cheng2 du1 chang4 ran2 you3 zuo4 er4 shou3     qi2 er4
+title: 夢至成都悵然有作二首・其二
+titlePinyin: meng4 zhi4 cheng2 du1 chang4 ran2 you3 zuo4 er4 shou3・qi2 er4
 titleSlug: meng-zhi-cheng-du-chang-ran-you-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

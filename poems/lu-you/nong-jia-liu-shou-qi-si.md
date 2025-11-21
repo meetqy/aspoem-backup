@@ -1,7 +1,7 @@
 ---
 id: lu-you-nong-jia-liu-shou-qi-si
-title: 農家六首  其四
-titlePinyin: nong2 jia1 liu4 shou3     qi2 si4
+title: 農家六首・其四
+titlePinyin: nong2 jia1 liu4 shou3・qi2 si4
 titleSlug: nong-jia-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

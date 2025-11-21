@@ -1,7 +1,7 @@
 ---
 id: lu-you-lin-jian-shu-yi-er-shou-qi-er
-title: 林間書意二首  其二
-titlePinyin: lin2 jian4 shu1 yi4 er4 shou3     qi2 er4
+title: 林間書意二首・其二
+titlePinyin: lin2 jian4 shu1 yi4 er4 shou3・qi2 er4
 titleSlug: lin-jian-shu-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

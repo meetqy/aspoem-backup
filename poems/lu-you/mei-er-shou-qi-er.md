@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-er-shou-qi-er
-title: 梅二首  其二
-titlePinyin: mei2 er4 shou3     qi2 er4
+title: 梅二首・其二
+titlePinyin: mei2 er4 shou3・qi2 er4
 titleSlug: mei-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

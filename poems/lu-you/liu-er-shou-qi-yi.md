@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-er-shou-qi-yi
-title: 柳二首  其一
-titlePinyin: liu3 er4 shou3     qi2 yi1
+title: 柳二首・其一
+titlePinyin: liu3 er4 shou3・qi2 yi1
 titleSlug: liu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

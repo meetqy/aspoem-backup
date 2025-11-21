@@ -1,7 +1,7 @@
 ---
 id: lu-you-meng-teng-yi-er-shou-qi-er
-title: 夢藤驛二首  其二
-titlePinyin: meng4 teng2 yi4 er4 shou3     qi2 er4
+title: 夢藤驛二首・其二
+titlePinyin: meng4 teng2 yi4 er4 shou3・qi2 er4
 titleSlug: meng-teng-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-sheng-su-zhi-er-shou-qi-er
-title: 南省宿直二首  其二
-titlePinyin: nan2 sheng3 su4 zhi2 er4 shou3     qi2 er4
+title: 南省宿直二首・其二
+titlePinyin: nan2 sheng3 su4 zhi2 er4 shou3・qi2 er4
 titleSlug: nan-sheng-su-zhi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

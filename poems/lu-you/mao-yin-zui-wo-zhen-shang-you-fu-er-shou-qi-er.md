@@ -1,7 +1,7 @@
 ---
 id: lu-you-mao-yin-zui-wo-zhen-shang-you-fu-er-shou-qi-er
-title: 卯飲醉臥枕上有賦二首  其二
-titlePinyin: mao3 yin3 zui4 wo4 zhen3 shang4 you3 fu4 er4 shou3     qi2 er4
+title: 卯飲醉臥枕上有賦二首・其二
+titlePinyin: mao3 yin3 zui4 wo4 zhen3 shang4 you3 fu4 er4 shou3・qi2 er4
 titleSlug: mao-yin-zui-wo-zhen-shang-you-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

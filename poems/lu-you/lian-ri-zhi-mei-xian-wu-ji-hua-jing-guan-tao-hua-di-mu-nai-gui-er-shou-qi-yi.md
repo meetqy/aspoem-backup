@@ -1,7 +1,7 @@
 ---
 id: lu-you-lian-ri-zhi-mei-xian-wu-ji-hua-jing-guan-tao-hua-di-mu-nai-gui-er-shou-qi-yi
-title: 連日至梅僊塢及花涇觀桃花抵暮乃歸二首  其一
-titlePinyin: lian2 ri4 zhi4 mei2 xian1 wu4 ji2 hua1 jing1 guan1 tao2 hua1 di3 mu4 nai3 gui1 er4 shou3     qi2 yi1
+title: 連日至梅僊塢及花涇觀桃花抵暮乃歸二首・其一
+titlePinyin: lian2 ri4 zhi4 mei2 xian1 wu4 ji2 hua1 jing1 guan1 tao2 hua1 di3 mu4 nai3 gui1 er4 shou3・qi2 yi1
 titleSlug: lian-ri-zhi-mei-xian-wu-ji-hua-jing-guan-tao-hua-di-mu-nai-gui-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

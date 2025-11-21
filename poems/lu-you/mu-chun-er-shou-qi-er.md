@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-chun-er-shou-qi-er
-title: 暮春二首  其二
-titlePinyin: mu4 chun1 er4 shou3     qi2 er4
+title: 暮春二首・其二
+titlePinyin: mu4 chun1 er4 shou3・qi2 er4
 titleSlug: mu-chun-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

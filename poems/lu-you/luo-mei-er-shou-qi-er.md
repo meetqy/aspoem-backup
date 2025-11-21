@@ -1,7 +1,7 @@
 ---
 id: lu-you-luo-mei-er-shou-qi-er
-title: 落梅二首  其二
-titlePinyin: luo4 mei2 er4 shou3     qi2 er4
+title: 落梅二首・其二
+titlePinyin: luo4 mei2 er4 shou3・qi2 er4
 titleSlug: luo-mei-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ming-ri-fu-de-wu-zi-er-shou-qi-yi
-title: 明日復得五字二首  其一
-titlePinyin: ming2 ri4 fu4 de2 wu3 zi4 er4 shou3     qi2 yi1
+title: 明日復得五字二首・其一
+titlePinyin: ming2 ri4 fu4 de2 wu3 zi4 er4 shou3・qi2 yi1
 titleSlug: ming-ri-fu-de-wu-zi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

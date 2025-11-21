@@ -1,7 +1,7 @@
 ---
 id: lu-you-nong-she-si-shou-qi-san
-title: 農舍四首  其三
-titlePinyin: nong2 she4 si4 shou3     qi2 san1
+title: 農舍四首・其三
+titlePinyin: nong2 she4 si4 shou3・qi2 san1
 titleSlug: nong-she-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

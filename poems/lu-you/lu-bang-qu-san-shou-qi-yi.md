@@ -1,7 +1,7 @@
 ---
 id: lu-you-lu-bang-qu-san-shou-qi-yi
-title: 路傍曲三首  其一
-titlePinyin: lu4 bang4 qu3 san1 shou3     qi2 yi1
+title: 路傍曲三首・其一
+titlePinyin: lu4 bang4 qu3 san1 shou3・qi2 yi1
 titleSlug: lu-bang-qu-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

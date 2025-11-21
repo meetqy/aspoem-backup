@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-hua-jue-ju-si-shou-qi-er
-title: 梅花絕句四首  其二
-titlePinyin: mei2 hua1 jue2 ju4 si4 shou3     qi2 er4
+title: 梅花絕句四首・其二
+titlePinyin: mei2 hua1 jue2 ju4 si4 shou3・qi2 er4
 titleSlug: mei-hua-jue-ju-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

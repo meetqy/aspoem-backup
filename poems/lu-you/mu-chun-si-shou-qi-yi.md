@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-chun-si-shou-qi-yi
-title: 暮春四首  其一
-titlePinyin: mu4 chun1 si4 shou3     qi2 yi1
+title: 暮春四首・其一
+titlePinyin: mu4 chun1 si4 shou3・qi2 yi1
 titleSlug: mu-chun-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

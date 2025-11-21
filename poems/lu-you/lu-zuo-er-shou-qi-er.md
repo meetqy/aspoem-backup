@@ -1,7 +1,7 @@
 ---
 id: lu-you-lu-zuo-er-shou-qi-er
-title: 露坐二首  其二
-titlePinyin: lu4 zuo4 er4 shou3     qi2 er4
+title: 露坐二首・其二
+titlePinyin: lu4 zuo4 er4 shou3・qi2 er4
 titleSlug: lu-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

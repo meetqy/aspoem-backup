@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-yan-liu-shou-qi-san
-title: 六言六首  其三
-titlePinyin: liu4 yan2 liu4 shou3     qi2 san1
+title: 六言六首・其三
+titlePinyin: liu4 yan2 liu4 shou3・qi2 san1
 titleSlug: liu-yan-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

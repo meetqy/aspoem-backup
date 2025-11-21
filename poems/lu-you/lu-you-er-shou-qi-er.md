@@ -1,7 +1,7 @@
 ---
 id: lu-you-lu-you-er-shou-qi-er
-title: 旅遊二首  其二
-titlePinyin: lü3 you2 er4 shou3     qi2 er4
+title: 旅遊二首・其二
+titlePinyin: lü3 you2 er4 shou3・qi2 er4
 titleSlug: lu-you-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

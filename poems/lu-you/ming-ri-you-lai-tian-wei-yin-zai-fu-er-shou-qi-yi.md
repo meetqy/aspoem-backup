@@ -1,7 +1,7 @@
 ---
 id: lu-you-ming-ri-you-lai-tian-wei-yin-zai-fu-er-shou-qi-yi
-title: 明日又來天微陰再賦二首  其一
-titlePinyin: ming2 ri4 you4 lai2 tian1 wei1 yin1 zai4 fu4 er4 shou3     qi2 yi1
+title: 明日又來天微陰再賦二首・其一
+titlePinyin: ming2 ri4 you4 lai2 tian1 wei1 yin1 zai4 fu4 er4 shou3・qi2 yi1
 titleSlug: ming-ri-you-lai-tian-wei-yin-zai-fu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

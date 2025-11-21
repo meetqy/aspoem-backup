@@ -1,7 +1,7 @@
 ---
 id: lu-you-li-zi-jue-ju-er-shou-qi-er
-title: 荔子絕句二首  其二
-titlePinyin: li4 zi3 jue2 ju4 er4 shou3     qi2 er4
+title: 荔子絕句二首・其二
+titlePinyin: li4 zi3 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: li-zi-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

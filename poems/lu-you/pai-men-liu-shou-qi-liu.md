@@ -1,7 +1,7 @@
 ---
 id: lu-you-pai-men-liu-shou-qi-liu
-title: 排悶六首  其六
-titlePinyin: pai2 men4 liu4 shou3     qi2 liu4
+title: 排悶六首・其六
+titlePinyin: pai2 men4 liu4 shou3・qi2 liu4
 titleSlug: pai-men-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

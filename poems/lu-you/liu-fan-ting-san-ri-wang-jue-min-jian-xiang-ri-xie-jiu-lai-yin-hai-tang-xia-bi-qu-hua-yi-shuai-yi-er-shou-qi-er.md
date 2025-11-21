@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-fan-ting-san-ri-wang-jue-min-jian-xiang-ri-xie-jiu-lai-yin-hai-tang-xia-bi-qu-hua-yi-shuai-yi-er-shou-qi-er
-title: 留樊亭三日王覺民檢詳日攜酒來飲海棠下比去花亦衰矣二首  其二
-titlePinyin: liu2 fan2 ting2 san1 ri4 wang2 jue2 min2 jian3 xiang2 ri4 xie2 jiu3 lai2 yin3 hai3 tang2 xia4 bi3 qu4 hua1 yi4 shuai1 yi3 er4 shou3     qi2 er4
+title: 留樊亭三日王覺民檢詳日攜酒來飲海棠下比去花亦衰矣二首・其二
+titlePinyin: liu2 fan2 ting2 san1 ri4 wang2 jue2 min2 jian3 xiang2 ri4 xie2 jiu3 lai2 yin3 hai3 tang2 xia4 bi3 qu4 hua1 yi4 shuai1 yi3 er4 shou3・qi2 er4
 titleSlug: liu-fan-ting-san-ri-wang-jue-min-jian-xiang-ri-xie-jiu-lai-yin-hai-tang-xia-bi-qu-hua-yi-shuai-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

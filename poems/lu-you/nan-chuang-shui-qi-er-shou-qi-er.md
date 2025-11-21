@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-chuang-shui-qi-er-shou-qi-er
-title: 南窗睡起二首  其二
-titlePinyin: nan2 chuang1 shui4 qi3 er4 shou3     qi2 er4
+title: 南窗睡起二首・其二
+titlePinyin: nan2 chuang1 shui4 qi3 er4 shou3・qi2 er4
 titleSlug: nan-chuang-shui-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

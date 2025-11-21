@@ -1,7 +1,7 @@
 ---
 id: lu-you-lin-ting-shu-shi-er-shou-qi-er
-title: 林亭書事二首  其二
-titlePinyin: lin2 ting2 shu1 shi4 er4 shou3     qi2 er4
+title: 林亭書事二首・其二
+titlePinyin: lin2 ting2 shu1 shi4 er4 shou3・qi2 er4
 titleSlug: lin-ting-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

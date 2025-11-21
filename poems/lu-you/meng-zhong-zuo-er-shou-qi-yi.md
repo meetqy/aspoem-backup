@@ -1,7 +1,7 @@
 ---
 id: lu-you-meng-zhong-zuo-er-shou-qi-yi
-title: 夢中作二首  其一
-titlePinyin: meng4 zhong1 zuo4 er4 shou3     qi2 yi1
+title: 夢中作二首・其一
+titlePinyin: meng4 zhong1 zuo4 er4 shou3・qi2 yi1
 titleSlug: meng-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

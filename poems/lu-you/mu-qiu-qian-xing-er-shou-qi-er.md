@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-qiu-qian-xing-er-shou-qi-er
-title: 暮秋遣興二首  其二
-titlePinyin: mu4 qiu1 qian3 xing1 er4 shou3     qi2 er4
+title: 暮秋遣興二首・其二
+titlePinyin: mu4 qiu1 qian3 xing1 er4 shou3・qi2 er4
 titleSlug: mu-qiu-qian-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

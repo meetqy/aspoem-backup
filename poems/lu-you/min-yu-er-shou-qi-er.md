@@ -1,7 +1,7 @@
 ---
 id: lu-you-min-yu-er-shou-qi-er
-title: 閔雨二首  其二
-titlePinyin: min3 yu3 er4 shou3     qi2 er4
+title: 閔雨二首・其二
+titlePinyin: min3 yu3 er4 shou3・qi2 er4
 titleSlug: min-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

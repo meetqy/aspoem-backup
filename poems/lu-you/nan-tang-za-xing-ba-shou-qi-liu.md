@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-tang-za-xing-ba-shou-qi-liu
-title: 南堂雜興八首  其六
-titlePinyin: nan2 tang2 za2 xing1 ba1 shou3     qi2 liu4
+title: 南堂雜興八首・其六
+titlePinyin: nan2 tang2 za2 xing1 ba1 shou3・qi2 liu4
 titleSlug: nan-tang-za-xing-ba-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

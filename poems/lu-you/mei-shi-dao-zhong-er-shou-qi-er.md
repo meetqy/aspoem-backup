@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-shi-dao-zhong-er-shou-qi-er
-title: 梅市道中二首  其二
-titlePinyin: mei2 shi4 dao4 zhong1 er4 shou3     qi2 er4
+title: 梅市道中二首・其二
+titlePinyin: mei2 shi4 dao4 zhong1 er4 shou3・qi2 er4
 titleSlug: mei-shi-dao-zhong-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

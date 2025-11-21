@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-tang-na-liang-er-shou-qi-yi
-title: 南堂納凉二首  其一
-titlePinyin: nan2 tang2 na4 liang2 er4 shou3     qi2 yi1
+title: 南堂納凉二首・其一
+titlePinyin: nan2 tang2 na4 liang2 er4 shou3・qi2 yi1
 titleSlug: nan-tang-na-liang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

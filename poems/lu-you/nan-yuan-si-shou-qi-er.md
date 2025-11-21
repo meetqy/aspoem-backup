@@ -1,7 +1,7 @@
 ---
 id: lu-you-nan-yuan-si-shou-qi-er
-title: 南園四首  其二
-titlePinyin: nan2 yuan2 si4 shou3     qi2 er4
+title: 南園四首・其二
+titlePinyin: nan2 yuan2 si4 shou3・qi2 er4
 titleSlug: nan-yuan-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

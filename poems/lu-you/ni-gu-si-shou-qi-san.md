@@ -1,7 +1,7 @@
 ---
 id: lu-you-ni-gu-si-shou-qi-san
-title: 擬古四首  其三
-titlePinyin: ni3 gu3 si4 shou3     qi2 san1
+title: 擬古四首・其三
+titlePinyin: ni3 gu3 si4 shou3・qi2 san1
 titleSlug: ni-gu-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

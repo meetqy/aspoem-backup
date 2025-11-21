@@ -1,7 +1,7 @@
 ---
 id: lu-you-mo-ti-er-shou-qi-er
-title: 末題二首  其二
-titlePinyin: mo4 ti2 er4 shou3     qi2 er4
+title: 末題二首・其二
+titlePinyin: mo4 ti2 er4 shou3・qi2 er4
 titleSlug: mo-ti-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

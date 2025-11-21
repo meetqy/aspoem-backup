@@ -1,7 +1,7 @@
 ---
 id: lu-you-mai-yu-er-shou-qi-er
-title: 買魚二首  其二
-titlePinyin: mai3 yu2 er4 shou3     qi2 er4
+title: 買魚二首・其二
+titlePinyin: mai3 yu2 er4 shou3・qi2 er4
 titleSlug: mai-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

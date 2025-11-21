@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-jing-qi-er
-title: 六經  其二
-titlePinyin: liu4 jing1     qi2 er4
+title: 六經・其二
+titlePinyin: liu4 jing1・qi2 er4
 titleSlug: liu-jing-qi-er
 author: 陸游
 authorPinyin: lu4 you2

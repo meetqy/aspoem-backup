@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-kai-jue-wan-you-gan-er-shou-qi-er
-title: 梅開絕晚有感二首  其二
-titlePinyin: mei2 kai1 jue2 wan3 you3 gan3 er4 shou3     qi2 er4
+title: 梅開絕晚有感二首・其二
+titlePinyin: mei2 kai1 jue2 wan3 you3 gan3 er4 shou3・qi2 er4
 titleSlug: mei-kai-jue-wan-you-gan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

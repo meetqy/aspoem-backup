@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-hua-jue-ju-shi-shou-qi-liu
-title: 梅花絕句十首  其六
-titlePinyin: mei2 hua1 jue2 ju4 shi2 shou3     qi2 liu4
+title: 梅花絕句十首・其六
+titlePinyin: mei2 hua1 jue2 ju4 shi2 shou3・qi2 liu4
 titleSlug: mei-hua-jue-ju-shi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

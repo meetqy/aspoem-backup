@@ -1,7 +1,7 @@
 ---
 id: lu-you-mu-qiu-liu-shou-qi-san
-title: 暮秋六首  其三
-titlePinyin: mu4 qiu1 liu4 shou3     qi2 san1
+title: 暮秋六首・其三
+titlePinyin: mu4 qiu1 liu4 shou3・qi2 san1
 titleSlug: mu-qiu-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

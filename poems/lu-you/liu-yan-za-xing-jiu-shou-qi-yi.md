@@ -1,7 +1,7 @@
 ---
 id: lu-you-liu-yan-za-xing-jiu-shou-qi-yi
-title: 六言雜興九首  其一
-titlePinyin: liu4 yan2 za2 xing1 jiu3 shou3     qi2 yi1
+title: 六言雜興九首・其一
+titlePinyin: liu4 yan2 za2 xing1 jiu3 shou3・qi2 yi1
 titleSlug: liu-yan-za-xing-jiu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

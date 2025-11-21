@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-hua-si-shou-qi-er
-title: 梅花四首  其二
-titlePinyin: mei2 hua1 si4 shou3     qi2 er4
+title: 梅花四首・其二
+titlePinyin: mei2 hua1 si4 shou3・qi2 er4
 titleSlug: mei-hua-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

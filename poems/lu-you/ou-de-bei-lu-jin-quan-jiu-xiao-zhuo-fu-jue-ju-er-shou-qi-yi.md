@@ -1,7 +1,7 @@
 ---
 id: lu-you-ou-de-bei-lu-jin-quan-jiu-xiao-zhuo-fu-jue-ju-er-shou-qi-yi
-title: 偶得北虜金泉酒小酌賦絕句二首  其一
-titlePinyin: ou3 de2 bei3 lu3 jin1 quan2 jiu3 xiao3 zhuo2 fu4 jue2 ju4 er4 shou3     qi2 yi1
+title: 偶得北虜金泉酒小酌賦絕句二首・其一
+titlePinyin: ou3 de2 bei3 lu3 jin1 quan2 jiu3 xiao3 zhuo2 fu4 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: ou-de-bei-lu-jin-quan-jiu-xiao-zhuo-fu-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

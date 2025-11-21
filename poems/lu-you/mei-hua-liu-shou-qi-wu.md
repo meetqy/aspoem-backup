@@ -1,7 +1,7 @@
 ---
 id: lu-you-mei-hua-liu-shou-qi-wu
-title: 梅花六首  其五
-titlePinyin: mei2 hua1 liu4 shou3     qi2 wu3
+title: 梅花六首・其五
+titlePinyin: mei2 hua1 liu4 shou3・qi2 wu3
 titleSlug: mei-hua-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
