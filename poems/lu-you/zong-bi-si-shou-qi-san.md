@@ -1,7 +1,7 @@
 ---
 id: lu-you-zong-bi-si-shou-qi-san
-title: 縱筆四首  其三
-titlePinyin: zong4 bi3 si4 shou3     qi2 san1
+title: 縱筆四首・其三
+titlePinyin: zong4 bi3 si4 shou3・qi2 san1
 titleSlug: zong-bi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

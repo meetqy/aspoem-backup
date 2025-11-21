@@ -1,7 +1,7 @@
 ---
 id: lu-you-zuo-xue-er-shou-qi-yi
-title: 作雪二首  其一
-titlePinyin: zuo4 xue3 er4 shou3     qi2 yi1
+title: 作雪二首・其一
+titlePinyin: zuo4 xue3 er4 shou3・qi2 yi1
 titleSlug: zuo-xue-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

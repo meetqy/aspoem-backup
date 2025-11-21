@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-yi-si-shou-qi-si
-title: 自貽四首  其四
-titlePinyin: zi4 yi2 si4 shou3     qi2 si4
+title: 自貽四首・其四
+titlePinyin: zi4 yi2 si4 shou3・qi2 si4
 titleSlug: zi-yi-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

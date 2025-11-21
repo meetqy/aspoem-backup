@@ -1,7 +1,7 @@
 ---
 id: lu-you-zong-bi-er-shou-qi-yi
-title: 縱筆二首  其一
-titlePinyin: zong4 bi3 er4 shou3     qi2 yi1
+title: 縱筆二首・其一
+titlePinyin: zong4 bi3 er4 shou3・qi2 yi1
 titleSlug: zong-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

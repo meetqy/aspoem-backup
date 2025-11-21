@@ -1,7 +1,7 @@
 ---
 id: lu-you-zui-zhong-jue-ju-er-shou-qi-er
-title: 醉中絕句二首  其二
-titlePinyin: zui4 zhong1 jue2 ju4 er4 shou3     qi2 er4
+title: 醉中絕句二首・其二
+titlePinyin: zui4 zhong1 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: zui-zhong-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-mian-si-shou-qi-si
-title: 自勉四首  其四
-titlePinyin: zi4 mian3 si4 shou3     qi2 si4
+title: 自勉四首・其四
+titlePinyin: zi4 mian3 si4 shou3・qi2 si4
 titleSlug: zi-mian-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

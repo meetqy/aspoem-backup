@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-chao-jie-chao-er-shou-qi-er
-title: 自嘲觧嘲二首  其二
-titlePinyin: zi4 chao2 jie3 chao2 er4 shou3     qi2 er4
+title: 自嘲觧嘲二首・其二
+titlePinyin: zi4 chao2 jie3 chao2 er4 shou3・qi2 er4
 titleSlug: zi-chao-jie-chao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

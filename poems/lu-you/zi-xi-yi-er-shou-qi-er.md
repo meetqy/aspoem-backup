@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-xi-yi-er-shou-qi-er
-title: 紫谿驛二首  其二
-titlePinyin: zi3 xi1 yi4 er4 shou3     qi2 er4
+title: 紫谿驛二首・其二
+titlePinyin: zi3 xi1 yi4 er4 shou3・qi2 er4
 titleSlug: zi-xi-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

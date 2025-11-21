@@ -1,7 +1,7 @@
 ---
 id: lu-you-zui-ti-dai-xi-jiu-jia-er-shou-qi-yi
-title: 醉題埭西酒家二首  其一
-titlePinyin: zui4 ti2 dai4 xi1 jiu3 jia1 er4 shou3     qi2 yi1
+title: 醉題埭西酒家二首・其一
+titlePinyin: zui4 ti2 dai4 xi1 jiu3 jia1 er4 shou3・qi2 yi1
 titleSlug: zui-ti-dai-xi-jiu-jia-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

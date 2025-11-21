@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-jiu-li-ping-shui-zhi-yun-men-tao-shan-li-long-rui-yu-ci-er-gui-fan-si-ri-ba-shou-qi-er
-title: 自九里平水至雲門陶山歷龍瑞禹祠而歸凡四日八首  其二
-titlePinyin: zi4 jiu3 li3 ping2 shui3 zhi4 yun2 men2 tao2 shan1 li4 long2 rui4 yu3 ci2 er2 gui1 fan2 si4 ri4 ba1 shou3     qi2 er4
+title: 自九里平水至雲門陶山歷龍瑞禹祠而歸凡四日八首・其二
+titlePinyin: zi4 jiu3 li3 ping2 shui3 zhi4 yun2 men2 tao2 shan1 li4 long2 rui4 yu3 ci2 er2 gui1 fan2 si4 ri4 ba1 shou3・qi2 er4
 titleSlug: zi-jiu-li-ping-shui-zhi-yun-men-tao-shan-li-long-rui-yu-ci-er-gui-fan-si-ri-ba-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

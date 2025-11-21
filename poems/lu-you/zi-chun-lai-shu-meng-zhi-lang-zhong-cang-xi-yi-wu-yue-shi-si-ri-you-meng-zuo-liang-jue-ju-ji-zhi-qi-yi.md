@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-chun-lai-shu-meng-zhi-lang-zhong-cang-xi-yi-wu-yue-shi-si-ri-you-meng-zuo-liang-jue-ju-ji-zhi-qi-yi
-title: 自春來數夢至閬中蒼溪驛五月十四日又夢作兩絕句記之  其一
-titlePinyin: zi4 chun1 lai2 shu4 meng4 zhi4 lang4 zhong1 cang1 xi1 yi4 wu3 yue4 shi2 si4 ri4 you4 meng4 zuo4 liang3 jue2 ju4 ji4 zhi1     qi2 yi1
+title: 自春來數夢至閬中蒼溪驛五月十四日又夢作兩絕句記之・其一
+titlePinyin: zi4 chun1 lai2 shu4 meng4 zhi4 lang4 zhong1 cang1 xi1 yi4 wu3 yue4 shi2 si4 ri4 you4 meng4 zuo4 liang3 jue2 ju4 ji4 zhi1・qi2 yi1
 titleSlug: zi-chun-lai-shu-meng-zhi-lang-zhong-cang-xi-yi-wu-yue-shi-si-ri-you-meng-zuo-liang-jue-ju-ji-zhi-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

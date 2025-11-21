@@ -1,7 +1,7 @@
 ---
 id: lu-you-zui-zhong-zuo-si-shou-qi-si
-title: 醉中作四首  其四
-titlePinyin: zui4 zhong1 zuo4 si4 shou3     qi2 si4
+title: 醉中作四首・其四
+titlePinyin: zui4 zhong1 zuo4 si4 shou3・qi2 si4
 titleSlug: zui-zhong-zuo-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

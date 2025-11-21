@@ -1,7 +1,7 @@
 ---
 id: lu-you-zui-yin-san-shou-qi-san
-title: 醉吟三首  其三
-titlePinyin: zui4 yin2 san1 shou3     qi2 san1
+title: 醉吟三首・其三
+titlePinyin: zui4 yin2 san1 shou3・qi2 san1
 titleSlug: zui-yin-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

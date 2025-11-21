@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-li-qiu-qian-bing-guo-bai-lu-you-wei-ping-qian-huai-er-shou-qi-er
-title: 自立秋前病過白露猶未平遣懷二首  其二
-titlePinyin: zi4 li4 qiu1 qian2 bing4 guo4 bai2 lu4 you2 wei4 ping2 qian3 huai2 er4 shou3     qi2 er4
+title: 自立秋前病過白露猶未平遣懷二首・其二
+titlePinyin: zi4 li4 qiu1 qian2 bing4 guo4 bai2 lu4 you2 wei4 ping2 qian3 huai2 er4 shou3・qi2 er4
 titleSlug: zi-li-qiu-qian-bing-guo-bai-lu-you-wei-ping-qian-huai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

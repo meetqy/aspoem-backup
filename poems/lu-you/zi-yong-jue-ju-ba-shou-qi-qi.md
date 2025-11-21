@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-yong-jue-ju-ba-shou-qi-qi
-title: 自詠絕句八首  其七
-titlePinyin: zi4 yong3 jue2 ju4 ba1 shou3     qi2 qi1
+title: 自詠絕句八首・其七
+titlePinyin: zi4 yong3 jue2 ju4 ba1 shou3・qi2 qi1
 titleSlug: zi-yong-jue-ju-ba-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

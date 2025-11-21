@@ -1,7 +1,7 @@
 ---
 id: lu-you-zi-long-qiu-yan-yu-xuan-shi-kou-zhan-jue-ju-er-shou-qi-yi
-title: 子龍求烟雨軒詩口占絕句二首  其一
-titlePinyin: zi3 long2 qiu2 yan1 yu3 xuan1 shi1 kou3 zhan4 jue2 ju4 er4 shou3     qi2 yi1
+title: 子龍求烟雨軒詩口占絕句二首・其一
+titlePinyin: zi3 long2 qiu2 yan1 yu3 xuan1 shi1 kou3 zhan4 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: zi-long-qiu-yan-yu-xuan-shi-kou-zhan-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

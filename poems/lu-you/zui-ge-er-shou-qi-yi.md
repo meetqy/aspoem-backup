@@ -1,7 +1,7 @@
 ---
 id: lu-you-zui-ge-er-shou-qi-yi
-title: 醉歌二首  其一
-titlePinyin: zui4 ge1 er4 shou3     qi2 yi1
+title: 醉歌二首・其一
+titlePinyin: zui4 ge1 er4 shou3・qi2 yi1
 titleSlug: zui-ge-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

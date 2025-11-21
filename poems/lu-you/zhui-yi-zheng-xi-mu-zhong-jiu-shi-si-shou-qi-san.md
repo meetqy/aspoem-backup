@@ -1,7 +1,7 @@
 ---
 id: lu-you-zhui-yi-zheng-xi-mu-zhong-jiu-shi-si-shou-qi-san
-title: 追憶征西幕中舊事四首  其三
-titlePinyin: zhui1 yi4 zheng1 xi1 mu4 zhong1 jiu4 shi4 si4 shou3     qi2 san1
+title: 追憶征西幕中舊事四首・其三
+titlePinyin: zhui1 yi4 zheng1 xi1 mu4 zhong1 jiu4 shi4 si4 shou3・qi2 san1
 titleSlug: zhui-yi-zheng-xi-mu-zhong-jiu-shi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

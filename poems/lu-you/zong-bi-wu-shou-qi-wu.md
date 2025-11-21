@@ -1,7 +1,7 @@
 ---
 id: lu-you-zong-bi-wu-shou-qi-wu
-title: 縱筆五首  其五
-titlePinyin: zong4 bi3 wu3 shou3     qi2 wu3
+title: 縱筆五首・其五
+titlePinyin: zong4 bi3 wu3 shou3・qi2 wu3
 titleSlug: zong-bi-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
