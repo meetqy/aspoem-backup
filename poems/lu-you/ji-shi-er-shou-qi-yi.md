@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-shi-er-shou-qi-yi
-title: 即事二首  其一
-titlePinyin: ji2 shi4 er4 shou3     qi2 yi1
+title: 即事二首・其一
+titlePinyin: ji2 shi4 er4 shou3・qi2 yi1
 titleSlug: ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

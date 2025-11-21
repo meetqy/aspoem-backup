@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-ceng-dai-zhi-you-liang-shan-san-shou-ti-yu-wang-shan-ming-yue-tang
-title: 和曾待制遊兩山三首 題育王山明月堂
-titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3   ti2 yu4 wang2 shan1 ming2 yue4 tang2
+title: 和曾待制遊兩山三首・題育王山明月堂
+titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3・ti2 yu4 wang2 shan1 ming2 yue4 tang2
 titleSlug: he-ceng-dai-zhi-you-liang-shan-san-shou-ti-yu-wang-shan-ming-yue-tang
 author: 陸游
 authorPinyin: lu4 you2

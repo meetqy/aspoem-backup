@@ -1,7 +1,7 @@
 ---
 id: lu-you-han-ye-du-shu-san-shou-qi-yi
-title: 寒夜讀書三首  其一
-titlePinyin: han2 ye4 du2 shu1 san1 shou3     qi2 yi1
+title: 寒夜讀書三首・其一
+titlePinyin: han2 ye4 du2 shu1 san1 shou3・qi2 yi1
 titleSlug: han-ye-du-shu-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

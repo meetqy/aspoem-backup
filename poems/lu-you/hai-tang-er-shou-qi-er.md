@@ -1,7 +1,7 @@
 ---
 id: lu-you-hai-tang-er-shou-qi-er
-title: 海棠二首  其二
-titlePinyin: hai3 tang2 er4 shou3     qi2 er4
+title: 海棠二首・其二
+titlePinyin: hai3 tang2 er4 shou3・qi2 er4
 titleSlug: hai-tang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

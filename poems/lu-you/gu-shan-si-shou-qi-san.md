@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-shan-si-shou-qi-san
-title: 故山四首  其三
-titlePinyin: gu4 shan1 si4 shou3     qi2 san1
+title: 故山四首・其三
+titlePinyin: gu4 shan1 si4 shou3・qi2 san1
 titleSlug: gu-shan-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

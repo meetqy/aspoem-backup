@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-tang-du-zuo-qian-men-er-shou-qi-yi
-title: 龜堂獨坐遣悶二首  其一
-titlePinyin: gui1 tang2 du2 zuo4 qian3 men4 er4 shou3     qi2 yi1
+title: 龜堂獨坐遣悶二首・其一
+titlePinyin: gui1 tang2 du2 zuo4 qian3 men4 er4 shou3・qi2 yi1
 titleSlug: gui-tang-du-zuo-qian-men-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

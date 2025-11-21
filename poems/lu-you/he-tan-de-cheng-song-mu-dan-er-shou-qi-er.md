@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-tan-de-cheng-song-mu-dan-er-shou-qi-er
-title: 和譚德稱送牡丹二首  其二
-titlePinyin: he2 tan2 de2 cheng1 song4 mu3 dan1 er4 shou3     qi2 er4
+title: 和譚德稱送牡丹二首・其二
+titlePinyin: he2 tan2 de2 cheng1 song4 mu3 dan1 er4 shou3・qi2 er4
 titleSlug: he-tan-de-cheng-song-mu-dan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

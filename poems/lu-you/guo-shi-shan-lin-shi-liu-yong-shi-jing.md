@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-shi-jing
-title: 郭氏山林十六詠 石井
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   shi2 jing3
+title: 郭氏山林十六詠・石井
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・shi2 jing3
 titleSlug: guo-shi-shan-lin-shi-liu-yong-shi-jing
 author: 陸游
 authorPinyin: lu4 you2

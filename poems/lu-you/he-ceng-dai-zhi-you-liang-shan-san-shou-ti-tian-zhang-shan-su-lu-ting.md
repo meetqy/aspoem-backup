@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-ceng-dai-zhi-you-liang-shan-san-shou-ti-tian-zhang-shan-su-lu-ting
-title: 和曾待制遊兩山三首 題天章山宿鷺亭
-titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3   ti2 tian1 zhang1 shan1 su4 lu4 ting2
+title: 和曾待制遊兩山三首・題天章山宿鷺亭
+titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3・ti2 tian1 zhang1 shan1 su4 lu4 ting2
 titleSlug: he-ceng-dai-zhi-you-liang-shan-san-shou-ti-tian-zhang-shan-su-lu-ting
 author: 陸游
 authorPinyin: lu4 you2

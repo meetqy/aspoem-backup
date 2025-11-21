@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-ling-shi-san-feng-er-shou-qi-yi
-title: 過靈石三峰二首  其一
-titlePinyin: guo4 ling2 shi2 san1 feng1 er4 shou3     qi2 yi1
+title: 過靈石三峰二首・其一
+titlePinyin: guo4 ling2 shi2 san1 feng1 er4 shou3・qi2 yi1
 titleSlug: guo-ling-shi-san-feng-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

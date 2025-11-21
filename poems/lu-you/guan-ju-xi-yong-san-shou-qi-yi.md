@@ -1,7 +1,7 @@
 ---
 id: lu-you-guan-ju-xi-yong-san-shou-qi-yi
-title: 官居戲詠三首  其一
-titlePinyin: guan1 ju1 xi4 yong3 san1 shou3     qi2 yi1
+title: 官居戲詠三首・其一
+titlePinyin: guan1 ju1 xi4 yong3 san1 shou3・qi2 yi1
 titleSlug: guan-ju-xi-yong-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

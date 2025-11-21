@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-zhang-gong-fu-jian-ji-er-shou-qi-yi
-title: 和張功父見寄二首  其一
-titlePinyin: he2 zhang1 gong1 fu4 jian4 ji4 er4 shou3     qi2 yi1
+title: 和張功父見寄二首・其一
+titlePinyin: he2 zhang1 gong1 fu4 jian4 ji4 er4 shou3・qi2 yi1
 titleSlug: he-zhang-gong-fu-jian-ji-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

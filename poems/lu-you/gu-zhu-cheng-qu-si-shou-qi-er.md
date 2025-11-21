@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-zhu-cheng-qu-si-shou-qi-er
-title: 古築城曲四首  其二
-titlePinyin: gu3 zhu4 cheng2 qu3 si4 shou3     qi2 er4
+title: 古築城曲四首・其二
+titlePinyin: gu3 zhu4 cheng2 qu3 si4 shou3・qi2 er4
 titleSlug: gu-zhu-cheng-qu-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

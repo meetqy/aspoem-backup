@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-qing-yue
-title: 郭氏山林十六詠 傾月
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   qing1 yue4
+title: 郭氏山林十六詠・傾月
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・qing1 yue4
 titleSlug: guo-shi-shan-lin-shi-liu-yong-qing-yue
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-bie-li-de-yuan-er-shou-qi-er
-title: 寄别李德遠二首  其二
-titlePinyin: ji4 bie2 li3 de2 yuan3 er4 shou3     qi2 er4
+title: 寄别李德遠二首・其二
+titlePinyin: ji4 bie2 li3 de2 yuan3 er4 shou3・qi2 er4
 titleSlug: ji-bie-li-de-yuan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

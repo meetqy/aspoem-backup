@@ -1,7 +1,7 @@
 ---
 id: lu-you-guan-yin-yuan-du-bi-jian-su-zai-ting-shao-qing-liang-xiao-shi-ci-yun-er-shou-qi-yi
-title: 觀音院讀壁間蘓在廷少卿兩小詩次韵二首  其一
-titlePinyin: guan1 yin1 yuan4 du2 bi4 jian4 su1 zai4 ting2 shao3 qing1 liang3 xiao3 shi1 ci4 yun4 er4 shou3     qi2 yi1
+title: 觀音院讀壁間蘓在廷少卿兩小詩次韵二首・其一
+titlePinyin: guan1 yin1 yuan4 du2 bi4 jian4 su1 zai4 ting2 shao3 qing1 liang3 xiao3 shi1 ci4 yun4 er4 shou3・qi2 yi1
 titleSlug: guan-yin-yuan-du-bi-jian-su-zai-ting-shao-qing-liang-xiao-shi-ci-yun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

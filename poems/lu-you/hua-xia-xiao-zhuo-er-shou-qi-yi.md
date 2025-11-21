@@ -1,7 +1,7 @@
 ---
 id: lu-you-hua-xia-xiao-zhuo-er-shou-qi-yi
-title: 花下小酌二首  其一
-titlePinyin: hua1 xia4 xiao3 zhuo2 er4 shou3     qi2 yi1
+title: 花下小酌二首・其一
+titlePinyin: hua1 xia4 xiao3 zhuo2 er4 shou3・qi2 yi1
 titleSlug: hua-xia-xiao-zhuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

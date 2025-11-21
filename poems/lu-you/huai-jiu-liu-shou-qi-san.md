@@ -1,7 +1,7 @@
 ---
 id: lu-you-huai-jiu-liu-shou-qi-san
-title: 懷舊六首  其三
-titlePinyin: huai2 jiu4 liu4 shou3     qi2 san1
+title: 懷舊六首・其三
+titlePinyin: huai2 jiu4 liu4 shou3・qi2 san1
 titleSlug: huai-jiu-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

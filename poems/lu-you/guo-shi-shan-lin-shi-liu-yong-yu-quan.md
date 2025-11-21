@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-yu-quan
-title: 郭氏山林十六詠 玉泉
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   yu4 quan2
+title: 郭氏山林十六詠・玉泉
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・yu4 quan2
 titleSlug: guo-shi-shan-lin-shi-liu-yong-yu-quan
 author: 陸游
 authorPinyin: lu4 you2

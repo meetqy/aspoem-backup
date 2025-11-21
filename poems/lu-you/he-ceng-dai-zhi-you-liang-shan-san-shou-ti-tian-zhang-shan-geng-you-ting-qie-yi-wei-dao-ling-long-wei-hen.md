@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-ceng-dai-zhi-you-liang-shan-san-shou-ti-tian-zhang-shan-geng-you-ting-qie-yi-wei-dao-ling-long-wei-hen
-title: 和曾待制遊兩山三首 題天章山更幽亭且以未到玲瓏爲恨
-titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3   ti2 tian1 zhang1 shan1 geng4 you1 ting2 qie3 yi3 wei4 dao4 ling2 long2 wei2 hen4
+title: 和曾待制遊兩山三首・題天章山更幽亭且以未到玲瓏爲恨
+titlePinyin: he2 ceng2 dai4 zhi4 you2 liang3 shan1 san1 shou3・ti2 tian1 zhang1 shan1 geng4 you1 ting2 qie3 yi3 wei4 dao4 ling2 long2 wei2 hen4
 titleSlug: he-ceng-dai-zhi-you-liang-shan-san-shou-ti-tian-zhang-shan-geng-you-ting-qie-yi-wei-dao-ling-long-wei-hen
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-chen-lu-shan-shi-shi-yi-meng-xia-cao-mu-chang-rao-wu-shu-fu-shu-wei-yun-qi-yi
-title: 和陳魯山十詩以孟夏草木長遶屋樹扶疏爲韵  其一○
-titlePinyin: he2 chen2 lu3 shan1 shi2 shi1 yi3 meng4 xia4 cao3 mu4 chang2 rao4 wu1 shu4 fu2 shu1 wei2 yun4     qi2 yi1 ○
+title: 和陳魯山十詩以孟夏草木長遶屋樹扶疏爲韵・其一○
+titlePinyin: he2 chen2 lu3 shan1 shi2 shi1 yi3 meng4 xia4 cao3 mu4 chang2 rao4 wu1 shu4 fu2 shu1 wei2 yun4・qi2 yi1 ○
 titleSlug: he-chen-lu-shan-shi-shi-yi-meng-xia-cao-mu-chang-rao-wu-shu-fu-shu-wei-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-fan-she-ren-bing-hou-er-shi-mo-zhang-jian-cheng-zhang-zheng-zi-qi-yi
-title: 和范舍人病後二詩末章兼呈張正字  其一
-titlePinyin: he2 fan4 she4 ren2 bing4 hou4 er4 shi1 mo4 zhang1 jian1 cheng2 zhang1 zheng4 zi4     qi2 yi1
+title: 和范舍人病後二詩末章兼呈張正字・其一
+titlePinyin: he2 fan4 she4 ren2 bing4 hou4 er4 shi1 mo4 zhang1 jian1 cheng2 zhang1 zheng4 zi4・qi2 yi1
 titleSlug: he-fan-she-ren-bing-hou-er-shi-mo-zhang-jian-cheng-zhang-zheng-zi-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

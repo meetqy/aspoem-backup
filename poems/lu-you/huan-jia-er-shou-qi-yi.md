@@ -1,7 +1,7 @@
 ---
 id: lu-you-huan-jia-er-shou-qi-yi
-title: 還家二首  其一
-titlePinyin: huan2 jia1 er4 shou3     qi2 yi1
+title: 還家二首・其一
+titlePinyin: huan2 jia1 er4 shou3・qi2 yi1
 titleSlug: huan-jia-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-tang-du-zhuo-er-shou-qi-yi
-title: 龜堂獨酌二首  其一
-titlePinyin: gui1 tang2 du2 zhuo2 er4 shou3     qi2 yi1
+title: 龜堂獨酌二首・其一
+titlePinyin: gui1 tang2 du2 zhuo2 er4 shou3・qi2 yi1
 titleSlug: gui-tang-du-zhuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

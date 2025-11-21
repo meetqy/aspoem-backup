@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-meng-san-shou-qi-er
-title: 記夢三首  其二
-titlePinyin: ji4 meng4 san1 shou3     qi2 er4
+title: 記夢三首・其二
+titlePinyin: ji4 meng4 san1 shou3・qi2 er4
 titleSlug: ji-meng-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

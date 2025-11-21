@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-yao-pu
-title: 郭氏山林十六詠 藥圃
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   yao4 pu3
+title: 郭氏山林十六詠・藥圃
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・yao4 pu3
 titleSlug: guo-shi-shan-lin-shi-liu-yong-yao-pu
 author: 陸游
 authorPinyin: lu4 you2

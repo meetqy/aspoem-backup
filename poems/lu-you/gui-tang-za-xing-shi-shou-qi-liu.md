@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-tang-za-xing-shi-shou-qi-liu
-title: 龜堂雜興十首  其六
-titlePinyin: gui1 tang2 za2 xing1 shi2 shou3     qi2 liu4
+title: 龜堂雜興十首・其六
+titlePinyin: gui1 tang2 za2 xing1 shi2 shou3・qi2 liu4
 titleSlug: gui-tang-za-xing-shi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

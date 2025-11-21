@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-gao-bi-yan
-title: 郭氏山林十六詠 高碧巖
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   gao1 bi4 yan2
+title: 郭氏山林十六詠・高碧巖
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・gao1 bi4 yan2
 titleSlug: guo-shi-shan-lin-shi-liu-yong-gao-bi-yan
 author: 陸游
 authorPinyin: lu4 you2

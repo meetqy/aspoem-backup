@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-yi-jian
-title: 郭氏山林十六詠 倚劍
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   yi3 jian4
+title: 郭氏山林十六詠・倚劍
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・yi3 jian4
 titleSlug: guo-shi-shan-lin-shi-liu-yong-yi-jian
 author: 陸游
 authorPinyin: lu4 you2

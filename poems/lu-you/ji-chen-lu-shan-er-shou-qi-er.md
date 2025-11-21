@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-chen-lu-shan-er-shou-qi-er
-title: 寄陳魯山二首  其二
-titlePinyin: ji4 chen2 lu3 shan1 er4 shou3     qi2 er4
+title: 寄陳魯山二首・其二
+titlePinyin: ji4 chen2 lu3 shan1 er4 shou3・qi2 er4
 titleSlug: ji-chen-lu-shan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

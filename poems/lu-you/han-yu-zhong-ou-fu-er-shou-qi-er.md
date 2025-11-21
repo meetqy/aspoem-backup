@@ -1,7 +1,7 @@
 ---
 id: lu-you-han-yu-zhong-ou-fu-er-shou-qi-er
-title: 寒雨中偶賦二首  其二
-titlePinyin: han2 yu3 zhong1 ou3 fu4 er4 shou3     qi2 er4
+title: 寒雨中偶賦二首・其二
+titlePinyin: han2 yu3 zhong1 ou3 fu4 er4 shou3・qi2 er4
 titleSlug: han-yu-zhong-ou-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

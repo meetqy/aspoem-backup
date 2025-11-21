@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-tang-za-ti-si-shou-qi-si
-title: 龜堂雜題四首  其四
-titlePinyin: gui1 tang2 za2 ti2 si4 shou3     qi2 si4
+title: 龜堂雜題四首・其四
+titlePinyin: gui1 tang2 za2 ti2 si4 shou3・qi2 si4
 titleSlug: gui-tang-za-ti-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

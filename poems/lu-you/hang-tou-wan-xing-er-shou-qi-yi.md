@@ -1,7 +1,7 @@
 ---
 id: lu-you-hang-tou-wan-xing-er-shou-qi-yi
-title: 杭頭晚興二首  其一
-titlePinyin: hang2 tou2 wan3 xing1 er4 shou3     qi2 yi1
+title: 杭頭晚興二首・其一
+titlePinyin: hang2 tou2 wan3 xing1 er4 shou3・qi2 yi1
 titleSlug: hang-tou-wan-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-shang-jin-sui-you-ren-po-sheng-xi-zuo-si-shou-qi-yi
-title: 湖上今歲遊人頗盛戲作四首  其一
-titlePinyin: hu2 shang4 jin1 sui4 you2 ren2 po1 sheng4 xi4 zuo4 si4 shou3     qi2 yi1
+title: 湖上今歲遊人頗盛戲作四首・其一
+titlePinyin: hu2 shang4 jin1 sui4 you2 ren2 po1 sheng4 xi4 zuo4 si4 shou3・qi2 yi1
 titleSlug: hu-shang-jin-sui-you-ren-po-sheng-xi-zuo-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

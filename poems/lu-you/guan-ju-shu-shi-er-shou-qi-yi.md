@@ -1,7 +1,7 @@
 ---
 id: lu-you-guan-ju-shu-shi-er-shou-qi-yi
-title: 官居書事二首  其一
-titlePinyin: guan1 ju1 shu1 shi4 er4 shou3     qi2 yi1
+title: 官居書事二首・其一
+titlePinyin: guan1 ju1 shu1 shi4 er4 shou3・qi2 yi1
 titleSlug: guan-ju-shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

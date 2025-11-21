@@ -1,7 +1,7 @@
 ---
 id: lu-you-hong-mei-er-shou-qi-yi
-title: 紅梅二首  其一
-titlePinyin: hong2 mei2 er4 shou3     qi2 yi1
+title: 紅梅二首・其一
+titlePinyin: hong2 mei2 er4 shou3・qi2 yi1
 titleSlug: hong-mei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

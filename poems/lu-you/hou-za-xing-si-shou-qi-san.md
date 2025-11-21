@@ -1,7 +1,7 @@
 ---
 id: lu-you-hou-za-xing-si-shou-qi-san
-title: 後雜興四首  其三
-titlePinyin: hou4 za2 xing1 si4 shou3     qi2 san1
+title: 後雜興四首・其三
+titlePinyin: hou4 za2 xing1 si4 shou3・qi2 san1
 titleSlug: hou-za-xing-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

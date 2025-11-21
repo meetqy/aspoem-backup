@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-shang-ye-fu-er-shou-qi-er
-title: 湖上夜賦二首  其二
-titlePinyin: hu2 shang4 ye4 fu4 er4 shou3     qi2 er4
+title: 湖上夜賦二首・其二
+titlePinyin: hu2 shang4 ye4 fu4 er4 shou3・qi2 er4
 titleSlug: hu-shang-ye-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

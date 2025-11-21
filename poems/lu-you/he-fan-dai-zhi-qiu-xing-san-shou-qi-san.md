@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-fan-dai-zhi-qiu-xing-san-shou-qi-san
-title: 和范待制秋興三首  其三
-titlePinyin: he2 fan4 dai4 zhi4 qiu1 xing1 san1 shou3     qi2 san1
+title: 和范待制秋興三首・其三
+titlePinyin: he2 fan4 dai4 zhi4 qiu1 xing1 san1 shou3・qi2 san1
 titleSlug: he-fan-dai-zhi-qiu-xing-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

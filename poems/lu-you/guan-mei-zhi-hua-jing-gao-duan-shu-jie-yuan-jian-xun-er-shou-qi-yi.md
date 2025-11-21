@@ -1,7 +1,7 @@
 ---
 id: lu-you-guan-mei-zhi-hua-jing-gao-duan-shu-jie-yuan-jian-xun-er-shou-qi-yi
-title: 觀梅至花涇高端叔解元見尋二首  其一
-titlePinyin: guan1 mei2 zhi4 hua1 jing1 gao1 duan1 shu1 jie4 yuan2 jian4 xun2 er4 shou3     qi2 yi1
+title: 觀梅至花涇高端叔解元見尋二首・其一
+titlePinyin: guan1 mei2 zhi4 hua1 jing1 gao1 duan1 shu1 jie4 yuan2 jian4 xun2 er4 shou3・qi2 yi1
 titleSlug: guan-mei-zhi-hua-jing-gao-duan-shu-jie-yuan-jian-xun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-fei-xue
-title: 郭氏山林十六詠 飛雪
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   fei1 xue3
+title: 郭氏山林十六詠・飛雪
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・fei1 xue3
 titleSlug: guo-shi-shan-lin-shi-liu-yong-fei-xue
 author: 陸游
 authorPinyin: lu4 you2

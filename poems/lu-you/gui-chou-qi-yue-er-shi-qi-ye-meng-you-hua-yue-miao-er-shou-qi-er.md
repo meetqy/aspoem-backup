@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-chou-qi-yue-er-shi-qi-ye-meng-you-hua-yue-miao-er-shou-qi-er
-title: 癸丑七月二十七夜夢遊華嶽廟二首  其二
-titlePinyin: gui3 chou3 qi1 yue4 er4 shi2 qi1 ye4 meng4 you2 hua2 yue4 miao4 er4 shou3     qi2 er4
+title: 癸丑七月二十七夜夢遊華嶽廟二首・其二
+titlePinyin: gui3 chou3 qi1 yue4 er4 shi2 qi1 ye4 meng4 you2 hua2 yue4 miao4 er4 shou3・qi2 er4
 titleSlug: gui-chou-qi-yue-er-shi-qi-ye-meng-you-hua-yue-miao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

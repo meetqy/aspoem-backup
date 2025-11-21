@@ -1,7 +1,7 @@
 ---
 id: lu-you-hua-shi-bian-you-zhu-jia-yuan-shi-shou-qi-san
-title: 花時遍逰諸家園十首  其三
-titlePinyin: hua1 shi2 bian4 you2 zhu1 jia1 yuan2 shi2 shou3     qi2 san1
+title: 花時遍逰諸家園十首・其三
+titlePinyin: hua1 shi2 bian4 you2 zhu1 jia1 yuan2 shi2 shou3・qi2 san1
 titleSlug: hua-shi-bian-you-zhu-jia-yuan-shi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

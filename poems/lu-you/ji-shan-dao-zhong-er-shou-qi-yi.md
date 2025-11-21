@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-shan-dao-zhong-er-shou-qi-yi
-title: 稽山道中二首  其一
-titlePinyin: ji1 shan1 dao4 zhong1 er4 shou3     qi2 yi1
+title: 稽山道中二首・其一
+titlePinyin: ji1 shan1 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: ji-shan-dao-zhong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

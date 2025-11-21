@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-shan-xun-mei-er-shou-qi-yi
-title: 湖山尋梅二首  其一
-titlePinyin: hu2 shan1 xun2 mei2 er4 shou3     qi2 yi1
+title: 湖山尋梅二首・其一
+titlePinyin: hu2 shan1 xun2 mei2 er4 shou3・qi2 yi1
 titleSlug: hu-shan-xun-mei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

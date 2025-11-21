@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-hua-er-shou-qi-er
-title: 荷花二首  其二
-titlePinyin: he2 hua1 er4 shou3     qi2 er4
+title: 荷花二首・其二
+titlePinyin: he2 hua1 er4 shou3・qi2 er4
 titleSlug: he-hua-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

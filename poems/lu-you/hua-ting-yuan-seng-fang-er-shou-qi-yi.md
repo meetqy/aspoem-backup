@@ -1,7 +1,7 @@
 ---
 id: lu-you-hua-ting-yuan-seng-fang-er-shou-qi-yi
-title: 華亭院僧房二首  其一
-titlePinyin: hua2 ting2 yuan4 seng1 fang2 er4 shou3     qi2 yi1
+title: 華亭院僧房二首・其一
+titlePinyin: hua2 ting2 yuan4 seng1 fang2 er4 shou3・qi2 yi1
 titleSlug: hua-ting-yuan-seng-fang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-yu-pei
-title: 郭氏山林十六詠 玉佩
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   yu4 pei4
+title: 郭氏山林十六詠・玉佩
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・yu4 pei4
 titleSlug: guo-shi-shan-lin-shi-liu-yong-yu-pei
 author: 陸游
 authorPinyin: lu4 you2

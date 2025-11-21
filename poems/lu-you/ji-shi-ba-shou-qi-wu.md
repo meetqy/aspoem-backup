@@ -1,7 +1,7 @@
 ---
 id: lu-you-ji-shi-ba-shou-qi-wu
-title: 即事八首  其五
-titlePinyin: ji2 shi4 ba1 shou3     qi2 wu3
+title: 即事八首・其五
+titlePinyin: ji2 shi4 ba1 shou3・qi2 wu3
 titleSlug: ji-shi-ba-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

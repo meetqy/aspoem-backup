@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-shi-shan-lin-shi-liu-yong-hu-tian-ge
-title: 郭氏山林十六詠 壺天閣
-titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3   hu2 tian1 ge2
+title: 郭氏山林十六詠・壺天閣
+titlePinyin: guo1 shi4 shan1 lin2 shi2 liu4 yong3・hu2 tian1 ge2
 titleSlug: guo-shi-shan-lin-shi-liu-yong-hu-tian-ge
 author: 陸游
 authorPinyin: lu4 you2

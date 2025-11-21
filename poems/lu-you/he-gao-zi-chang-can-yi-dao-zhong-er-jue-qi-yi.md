@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-gao-zi-chang-can-yi-dao-zhong-er-jue-qi-yi
-title: 和高子長參議道中二絕  其一
-titlePinyin: he2 gao1 zi3 chang2 can1 yi4 dao4 zhong1 er4 jue2     qi2 yi1
+title: 和高子長參議道中二絕・其一
+titlePinyin: he2 gao1 zi3 chang2 can1 yi4 dao4 zhong1 er4 jue2・qi2 yi1
 titleSlug: he-gao-zi-chang-can-yi-dao-zhong-er-jue-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

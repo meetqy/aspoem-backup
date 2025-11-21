@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-cun-yue-xi-si-shou-qi-san
-title: 湖村月夕四首  其三
-titlePinyin: hu2 cun1 yue4 xi1 si4 shou3     qi2 san1
+title: 湖村月夕四首・其三
+titlePinyin: hu2 cun1 yue4 xi1 si4 shou3・qi2 san1
 titleSlug: hu-cun-yue-xi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

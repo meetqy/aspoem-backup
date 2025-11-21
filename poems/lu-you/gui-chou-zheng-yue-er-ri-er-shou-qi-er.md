@@ -1,7 +1,7 @@
 ---
 id: lu-you-gui-chou-zheng-yue-er-ri-er-shou-qi-er
-title: 癸丑正月二日二首  其二
-titlePinyin: gui3 chou3 zheng1 yue4 er4 ri4 er4 shou3     qi2 er4
+title: 癸丑正月二日二首・其二
+titlePinyin: gui3 chou3 zheng1 yue4 er4 ri4 er4 shou3・qi2 er4
 titleSlug: gui-chou-zheng-yue-er-ri-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

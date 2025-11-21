@@ -1,7 +1,7 @@
 ---
 id: lu-you-han-ye-yi-ji-er-shou-qi-er
-title: 寒夜移疾二首  其二
-titlePinyin: han2 ye4 yi2 ji2 er4 shou3     qi2 er4
+title: 寒夜移疾二首・其二
+titlePinyin: han2 ye4 yi2 ji2 er4 shou3・qi2 er4
 titleSlug: han-ye-yi-ji-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

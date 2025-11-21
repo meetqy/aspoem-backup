@@ -1,7 +1,7 @@
 ---
 id: lu-you-gu-xing-er-shou-qi-er
-title: 古興二首  其二
-titlePinyin: gu3 xing1 er4 shou3     qi2 er4
+title: 古興二首・其二
+titlePinyin: gu3 xing1 er4 shou3・qi2 er4
 titleSlug: gu-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

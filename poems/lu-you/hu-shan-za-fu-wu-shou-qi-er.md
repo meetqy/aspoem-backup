@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-shan-za-fu-wu-shou-qi-er
-title: 湖山雜賦五首  其二
-titlePinyin: hu2 shan1 za2 fu4 wu3 shou3     qi2 er4
+title: 湖山雜賦五首・其二
+titlePinyin: hu2 shan1 za2 fu4 wu3 shou3・qi2 er4
 titleSlug: hu-shan-za-fu-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-hang-hu-ye-gui-er-shou-qi-er
-title: 杭湖夜歸二首  其二
-titlePinyin: hang2 hu2 ye4 gui1 er4 shou3     qi2 er4
+title: 杭湖夜歸二首・其二
+titlePinyin: hang2 hu2 ye4 gui1 er4 shou3・qi2 er4
 titleSlug: hang-hu-ye-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

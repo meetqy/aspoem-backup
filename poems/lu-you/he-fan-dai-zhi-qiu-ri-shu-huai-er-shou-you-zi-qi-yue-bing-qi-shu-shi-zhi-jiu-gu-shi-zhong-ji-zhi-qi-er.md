@@ -1,7 +1,7 @@
 ---
 id: lu-you-he-fan-dai-zhi-qiu-ri-shu-huai-er-shou-you-zi-qi-yue-bing-qi-shu-shi-zhi-jiu-gu-shi-zhong-ji-zhi-qi-er
-title: 和范待制秋日書懷二首游自七月病起蔬食止酒故詩中及之  其二
-titlePinyin: he2 fan4 dai4 zhi4 qiu1 ri4 shu1 huai2 er4 shou3 you2 zi4 qi1 yue4 bing4 qi3 shu1 shi2 zhi3 jiu3 gu4 shi1 zhong1 ji2 zhi1     qi2 er4
+title: 和范待制秋日書懷二首游自七月病起蔬食止酒故詩中及之・其二
+titlePinyin: he2 fan4 dai4 zhi4 qiu1 ri4 shu1 huai2 er4 shou3 you2 zi4 qi1 yue4 bing4 qi3 shu1 shi2 zhi3 jiu3 gu4 shi1 zhong1 ji2 zhi1・qi2 er4
 titleSlug: he-fan-dai-zhi-qiu-ri-shu-huai-er-shou-you-zi-qi-yue-bing-qi-shu-shi-zhi-jiu-gu-shi-zhong-ji-zhi-qi-er
 author: 陸游
 authorPinyin: lu4 you2

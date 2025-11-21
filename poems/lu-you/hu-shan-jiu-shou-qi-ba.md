@@ -1,7 +1,7 @@
 ---
 id: lu-you-hu-shan-jiu-shou-qi-ba
-title: 湖山九首  其八
-titlePinyin: hu2 shan1 jiu3 shou3     qi2 ba1
+title: 湖山九首・其八
+titlePinyin: hu2 shan1 jiu3 shou3・qi2 ba1
 titleSlug: hu-shan-jiu-shou-qi-ba
 author: 陸游
 authorPinyin: lu4 you2

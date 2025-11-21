@@ -1,7 +1,7 @@
 ---
 id: lu-you-guo-du-pu-qiao-er-shou-qi-yi
-title: 過杜浦橋二首  其一
-titlePinyin: guo4 du4 pu3 qiao2 er4 shou3     qi2 yi1
+title: 過杜浦橋二首・其一
+titlePinyin: guo4 du4 pu3 qiao2 er4 shou3・qi2 yi1
 titleSlug: guo-du-pu-qiao-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
