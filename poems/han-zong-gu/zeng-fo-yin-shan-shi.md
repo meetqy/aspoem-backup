@@ -6,10 +6,10 @@ titleSlug: zeng-fo-yin-shan-shi
 author: 韓宗古
 authorPinyin: han2 zong1 gu3
 authorSlug: han-zong-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

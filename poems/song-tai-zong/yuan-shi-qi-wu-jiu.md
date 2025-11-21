@@ -6,21 +6,25 @@ titleSlug: yuan-shi-qi-wu-jiu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 至道非凡要審知，當仁不必用遲疑。
-- 修行忽若無靈應，還信神仙白晝飛。
+- 拊弄聲相引，兼能辨五音。
+- 沈思調品切，句度更加吟。
+- 緊慢弦中得，凝情指法深。
+- 精英閑雅澹，停歇世途心。
 
 ## 拼音
 
-- zhi4 dao4 fei1 fan2 yao4 shen3 zhi1 ， dang1 ren2 bu2 bi4 yong4 chi2 yi2 。
-- xiu1 xing2 hu1 ruo4 wu2 ling2 ying1 ， huan2 xin4 shen2 xian1 bai2 zhou4 fei1 。
+- fu3 nong4 sheng1 xiang1 yin3 ， jian1 neng2 bian4 wu3 yin1 。
+- shen3 si1 diao4 pin3 qie4 ， ju4 du4 geng4 jia1 yin2 。
+- jin3 man4 xian2 zhong1 de2 ， ning2 qing2 zhi3 fa3 shen1 。
+- jing1 ying1 xian2 ya3 dan4 ， ting2 xie1 shi4 tu2 xin1 。
 
 ## 注释
 

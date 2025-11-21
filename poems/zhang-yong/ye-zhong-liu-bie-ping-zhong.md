@@ -6,10 +6,10 @@ titleSlug: ye-zhong-liu-bie-ping-zhong
 author: 張詠
 authorPinyin: zhang1 yong3
 authorSlug: zhang-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

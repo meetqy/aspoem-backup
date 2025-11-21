@@ -18,6 +18,9 @@ tags: []
 - 格調宛同羅給事，功夫深似賈司倉。
 - 登山始覺天高廣，到海方知浪渺茫。
 - 好去蟾宮是歸路，明年應折桂枝香。
+- （見《宋詩紀事》引宋張齊賢《洛陽搢紳舊聞記》。
+- ）（見《洛陽縉紳舊聞記》卷一《陶副車求薦見忌》。
+- ）。
 
 ## 拼音
 
@@ -25,6 +28,9 @@ tags: []
 - ge2 diao4 wan3 tong2 luo2 gei3 shi4 ， gong1 fu0 shen1 si4 jia3 si1 cang1 。
 - deng1 shan1 shi3 jue2 tian1 gao1 guang3 ， dao4 hai3 fang1 zhi1 lang4 miao3 mang2 。
 - hao3 qu4 chan2 gong1 shi4 gui1 lu4 ， ming2 nian2 ying1 zhe2 gui4 zhi1 xiang1 。
+- （ jian4 《 song4 shi1 ji4 shi4 》 yin3 song4 zhang1 qi2 xian2 《 luo4 yang2 jin4 shen1 jiu4 wen2 ji4 》。
+- ）（ jian4 《 luo4 yang2 jin4 shen1 jiu4 wen2 ji4 》 juan4 yi1 《 tao2 fu4 ju1 qiu2 jian4 jian4 ji4 》。
+- ）。
 
 ## 注释
 

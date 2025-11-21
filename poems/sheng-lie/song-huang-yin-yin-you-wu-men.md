@@ -6,10 +6,10 @@ titleSlug: song-huang-yin-yin-you-wu-men
 author: 盛烈
 authorPinyin: sheng4 lie4
 authorSlug: sheng-lie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-za-ji-wu-yan-shi-shou-qi-yi
-title: 雜記五言十首  其一
-titlePinyin: za2 ji4 wu3 yan2 shi2 shou3     qi2 yi1
+title: 雜記五言十首  其一○
+titlePinyin: za2 ji4 wu3 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: za-ji-wu-yan-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 洞達開堂奧，荒唐說剎塵。
-- 儒醇明告子，釋黠熱瞞人。
+- 愚哲皆根性，巫醫各有傳。
+- 參禪纔一宿，學幻費三年。
 
 ## 拼音
 
-- dong4 da2 kai1 tang2 ao4 ， huang1 tang2 shuo1 cha4 chen2 。
-- ru2 chun2 ming2 gao4 zi3 ， shi4 xia2 re4 man2 ren2 。
+- yu2 zhe2 jie1 gen1 xing4 ， wu1 yi1 ge4 you3 chuan2 。
+- can1 shan4 cai2 yi2 su4 ， xue2 huan4 fei4 san1 nian2 。
 
 ## 注释
 

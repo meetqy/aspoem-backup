@@ -6,10 +6,10 @@ titleSlug: ji-san-shou-qi-er
 author: 釋慧照
 authorPinyin: shi4 hui4 zhao4
 authorSlug: shi-hui-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: duan-wu-ci-yu-ge-qi-san
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獻壽競爲長命縷，迎祥還佩赤靈符。
-- 端門漏永晨曦上，颯颯薰風遶帝梧。
+- 乍結香茅祈福壽，更纏金縷貢芳新。
+- 丹臺素有延生籙，歲歲迎祥在此辰。
 
 ## 拼音
 
-- xian4 shou4 jing4 wei2 chang2 ming4 lü3 ， ying2 xiang2 huan2 pei4 chi4 ling2 fu2 。
-- duan1 men2 lou4 yong3 chen2 xi1 shang4 ， sa4 sa4 xun1 feng1 rao4 di4 wu2 。
+- zha4 jie2 xiang1 mao2 qi2 fu2 shou4 ， geng4 chan2 jin1 lü3 gong4 fang1 xin1 。
+- dan1 tai2 su4 you3 yan2 sheng1 lu4 ， sui4 sui4 ying2 xiang2 zai4 ci3 chen2 。
 
 ## 注释
 

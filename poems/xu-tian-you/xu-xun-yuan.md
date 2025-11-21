@@ -6,10 +6,10 @@ titleSlug: xu-xun-yuan
 author: 徐天祐
 authorPinyin: xu2 tian1 you4
 authorSlug: xu-tian-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ci-zhong-ji
 author: 釋景深
 authorPinyin: shi4 jing3 shen1
 authorSlug: shi-jing-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

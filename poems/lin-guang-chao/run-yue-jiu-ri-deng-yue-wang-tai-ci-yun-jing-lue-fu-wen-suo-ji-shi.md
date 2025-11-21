@@ -6,10 +6,10 @@ titleSlug: run-yue-jiu-ri-deng-yue-wang-tai-ci-yun-jing-lue-fu-wen-suo-ji-shi
 author: 林光朝
 authorPinyin: lin2 guang1 chao2
 authorSlug: lin-guang-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

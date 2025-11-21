@@ -6,10 +6,10 @@ titleSlug: xing-tian-pu
 author: 范雲山
 authorPinyin: fan4 yun2 shan1
 authorSlug: fan-yun-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

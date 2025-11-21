@@ -6,10 +6,10 @@ titleSlug: mu-lan-xi-shu-tang
 author: 鄭耕老
 authorPinyin: zheng4 geng1 lao3
 authorSlug: zheng-geng-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

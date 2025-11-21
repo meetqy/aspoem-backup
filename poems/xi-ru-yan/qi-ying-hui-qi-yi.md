@@ -6,10 +6,10 @@ titleSlug: qi-ying-hui-qi-yi
 author: 席汝言
 authorPinyin: xi2 ru3 yan2
 authorSlug: xi-ru-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

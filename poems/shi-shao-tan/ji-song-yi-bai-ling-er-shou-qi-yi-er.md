@@ -1,28 +1,30 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-ling-er-shou-qi-yi-er
-title: 偈頌一百零二首  其一二
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 yi1 er4
+title: 偈頌一百零二首  其一○二
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 yi1 ○ er4
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-er
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地僻雲深，秋高境寂。
-- 堂戶凄凉，無人面壁。
-- 雖然，浄地上誰肯狼藉。
+- 明月可中庭，雁影沉寒水。
+- 烹金爐冷歲華深，九鼎遺言猶在耳。
+- 深深撥著，宿火通紅。
+- 不假一槌成大器，刈禾鐮子疾如風。
 
 ## 拼音
 
-- di4 pi4 yun2 shen1 ， qiu1 gao1 jing4 ji4 。
-- tang2 hu4 qi1 liang2 ， wu2 ren2 mian4 bi4 。
-- sui1 ran2 ， jing4 di4 shang4 shui2 ken3 lang2 ji2 。
+- ming2 yue4 ke3 zhong1 ting2 ， yan4 ying3 chen2 han2 shui3 。
+- peng1 jin1 lu2 leng3 sui4 hua2 shen1 ， jiu3 ding3 yi2 yan2 you2 zai4 er3 。
+- shen1 shen1 bo1 zhu4 ， su4 huo3 tong1 hong2 。
+- bu4 jia3 yi1 chui2 cheng2 da4 qi4 ， yi4 he2 lian2 zi3 ji2 ru2 feng1 。
 
 ## 注释
 

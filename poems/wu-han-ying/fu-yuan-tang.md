@@ -6,10 +6,10 @@ titleSlug: fu-yuan-tang
 author: 吳漢英
 authorPinyin: wu2 han4 ying1
 authorSlug: wu-han-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

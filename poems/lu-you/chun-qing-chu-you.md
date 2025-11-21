@@ -6,29 +6,25 @@ titleSlug: chun-qing-chu-you
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一春彊半病，頗廢山澤遊。
-- 今晨忽良已，風日亦清柔。
-- 朝飡具冷餅，瘦骨辭重裘。
-- 稺荷出溝港，芳杜滿汀洲。
-- 勿言酒苦薄，一笑失百憂。
-- 且當詠尋壑，詎必賦登樓。
+- 芳樹參差葉已成，園林隨處聽鶯聲。
+- 遊人正樂還興嘆，造物無心却有情。
+- 糝徑落紅猶可藉，漲溪分緑已堪耕。
+- 蘭亭禹廟年年好，剩伴鄉鄰醉太平。
 
 ## 拼音
 
-- yi4 chun1 qiang2 ban4 bing4 ， po1 fei4 shan1 ze2 you2 。
-- jin1 chen2 hu1 liang2 yi3 ， feng1 ri4 yi4 qing1 rou2 。
-- chao2 can1 ju4 leng3 bing3 ， shou4 gu3 ci2 zhong4 qiu2 。
-- zhi4 he2 chu1 gou1 gang3 ， fang1 du4 man3 ting1 zhou1 。
-- wu4 yan2 jiu3 ku3 bao2 ， yi2 xiao4 shi1 bai3 you1 。
-- qie3 dang1 yong3 xun2 he4 ， ju4 bi4 fu4 deng1 lou2 。
+- fang1 shu4 can1 cha4 ye4 yi3 cheng2 ， yuan2 lin2 sui2 chu3 ting1 ying1 sheng1 。
+- you2 ren2 zheng4 le4 huan2 xing1 tan4 ， zao4 wu4 wu2 xin1 que4 you3 qing2 。
+- san3 jing4 luo4 hong2 you2 ke3 jie4 ， zhang3 xi1 fen1 lü4 yi3 kan1 geng1 。
+- lan2 ting2 yu3 miao4 nian2 nian2 hao3 ， sheng4 ban4 xiang1 lin2 zui4 tai4 ping2 。
 
 ## 注释
 

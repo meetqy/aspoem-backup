@@ -6,10 +6,10 @@ titleSlug: ju
 author: 宗提刑
 authorPinyin: zong1 ti2 xing2
 authorSlug: zong-ti-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

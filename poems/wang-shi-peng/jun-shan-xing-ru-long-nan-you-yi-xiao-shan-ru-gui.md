@@ -6,10 +6,10 @@ titleSlug: jun-shan-xing-ru-long-nan-you-yi-xiao-shan-ru-gui
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

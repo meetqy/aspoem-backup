@@ -6,10 +6,10 @@ titleSlug: he-li-sheng-zhi-ye-you-li-jiang-shang
 author: 章峴
 authorPinyin: zhang1 xian4
 authorSlug: zhang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

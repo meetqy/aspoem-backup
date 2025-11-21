@@ -6,10 +6,10 @@ titleSlug: ti-jiu-ri-suo-cang-jin-tao-yuan-ming-cai-ju-dong-li-xia-you-ran-jian-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,29 @@ titleSlug: sui-han-zhi-song-bai
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羣陰彫品物，松柏尚桓桓。
-- 老去惟心在，相依到歲寒。
-- 霜嚴御史府，雨立大夫官。
-- 犧象溝中斷，徽絃爨下殘。
-- 光陰一鳥過，翦伐萬牛難。
-- 春日輝桃李，蒼顔亦預觀。
+- 松柏天生獨，青青貫四時。
+- 心藏後凋節，歲有大寒知。
+- 慘淡冰霜晚，輪囷澗壑姿。
+- 或容螻蟻穴，未見斧斤遲。
+- 摇落千秋靜，婆娑萬籟悲。
+- 鄭公扶貞觀，已不見封彝。
 
 ## 拼音
 
-- qun2 yin1 diao1 pin3 wu4 ， song1 bai3 shang4 huan2 huan2 。
-- lao3 qu4 wei2 xin1 zai4 ， xiang1 yi1 dao4 sui4 han2 。
-- shuang1 yan2 yu4 shi3 fu3 ， yu3 li4 dai4 fu0 guan1 。
-- xi1 xiang4 gou1 zhong1 duan4 ， hui1 xian2 cuan4 xia4 can2 。
-- guang1 yin1 yi4 niao3 guo4 ， jian3 fa2 wan4 niu2 nan2 。
-- chun1 ri4 hui1 tao2 li3 ， cang1 yan2 yi4 yu4 guan1 。
+- song1 bai3 tian1 sheng1 du2 ， qing1 qing1 guan4 si4 shi2 。
+- xin1 cang2 hou4 diao1 jie2 ， sui4 you3 da4 han2 zhi1 。
+- can3 dan4 bing1 shuang1 wan3 ， lun2 qun1 jian4 he4 zi1 。
+- huo4 rong2 lou2 yi3 xue2 ， wei4 jian4 fu3 jin1 chi2 。
+- yao2 luo4 qian1 qiu1 jing4 ， po2 suo1 wan4 lai4 bei1 。
+- zheng4 gong1 fu2 zhen1 guan1 ， yi3 bu2 jian4 feng1 yi2 。
 
 ## 注释
 

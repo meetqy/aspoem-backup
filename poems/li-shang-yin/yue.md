@@ -9,22 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 池上與橋邊，難忘復可憐。
-- 簾開最明夜，簟卷已涼天。
-- 流處水花急，吐時雲葉鮮。
-- 姮娥無粉黛，只是逞嬋娟。
+- 過水穿樓觸處明，藏人帶樹遠含清。
+- 初生欲缺虛惆悵，未必圓時即有情。
 
 ## 拼音
 
-- chi2 shang4 yu3 qiao2 bian1 ， nan2 wang4 fu4 ke3 lian2 。
-- lian2 kai1 zui4 ming2 ye4 ， dian4 juan4 yi3 liang2 tian1 。
-- liu2 chu3 shui3 hua1 ji2 ， tu3 shi2 yun2 ye4 xian1 。
-- heng2 e2 wu2 fen3 dai4 ， zhi3 shi4 cheng3 chan2 juan1 。
+- guo4 shui3 chuan1 lou2 chu4 chu3 ming2 ， cang2 ren2 dai4 shu4 yuan3 han2 qing1 。
+- chu1 sheng1 yu4 que1 xu1 chou2 chang4 ， wei4 bi4 yuan2 shi2 ji2 you3 qing2 。
 
 ## 注释
 

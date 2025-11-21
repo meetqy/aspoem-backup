@@ -6,10 +6,10 @@ titleSlug: san-gang-hu-guan-yue
 author: 魏叔介
 authorPinyin: wei4 shu1 jie4
 authorSlug: wei-shu-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

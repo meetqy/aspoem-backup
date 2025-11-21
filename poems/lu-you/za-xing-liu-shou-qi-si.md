@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一身逋負愁賒酒，滿眼關山悔上樓。
-- 子細推來惟合睡，五更風雨已如秋。
+- 平生獨何幸，命若與人謀。
+- 疲懦逃深責，空疏得早休。
+- 位卑輕得喪，迹遠少恩讎。
+- 莫怪歸耕樂，文園久倦遊。
 
 ## 拼音
 
-- yi4 shen1 bu1 fu4 chou2 she1 jiu3 ， man3 yan3 guan1 shan1 hui3 shang4 lou2 。
-- zi3 xi4 tui1 lai2 wei2 he2 shui4 ， wu3 geng1 feng1 yu3 yi3 ru2 qiu1 。
+- ping2 sheng1 du2 he2 xing4 ， ming4 ruo4 yu3 ren2 mou2 。
+- pi2 nuo4 tao2 shen1 ze2 ， kong1 shu1 de2 zao3 xiu1 。
+- wei4 bei1 qing1 de2 sang1 ， ji4 yuan3 shao3 en1 chou2 。
+- mo4 guai4 gui1 geng1 le4 ， wen2 yuan2 jiu3 juan4 you2 。
 
 ## 注释
 

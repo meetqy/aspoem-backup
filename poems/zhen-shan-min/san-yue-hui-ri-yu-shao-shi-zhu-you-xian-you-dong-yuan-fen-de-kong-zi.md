@@ -6,10 +6,10 @@ titleSlug: san-yue-hui-ri-yu-shao-shi-zhu-you-xian-you-dong-yuan-fen-de-kong-zi
 author: 真山民
 authorPinyin: zhen1 shan1 min2
 authorSlug: zhen-shan-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

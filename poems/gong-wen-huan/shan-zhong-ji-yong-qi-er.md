@@ -6,10 +6,10 @@ titleSlug: shan-zhong-ji-yong-qi-er
 author: 龔文煥
 authorPinyin: gong1 wen2 huan4
 authorSlug: gong-wen-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

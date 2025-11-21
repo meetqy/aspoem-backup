@@ -1,26 +1,24 @@
 ---
 id: chao-jiong-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 晁逈
 authorPinyin: chao2 jiong3
 authorSlug: chao-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 安得大金柅，制彼日月輪。
-- 免同流水車，今人續古人。
+- 浮生七十今踰九，已是超羣越世人。
 
 ## 拼音
 
-- an1 de2 da4 jin1 ni3 ， zhi4 bi3 ri4 yue4 lun2 。
-- mian3 tong2 liu2 shui3 ju1 ， jin1 ren2 xu4 gu3 ren2 。
+- fu2 sheng1 qi1 shi2 jin1 yu2 jiu3 ， yi3 shi4 chao1 qun2 yue4 shi4 ren2 。
 
 ## 注释
 

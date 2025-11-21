@@ -9,22 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 嵐霧今朝重，江山此地深。
-- 灘聲秋更急，峽氣曉多陰。
-- 望闕雲遮眼，思鄉雨滴心。
-- 將何慰幽獨，賴此北窗琴。
+- 潤葉濡枝浹四方，濃雲來去勢何長。
+- 曠然寰宇清風滿，救旱功高暑氣涼。
 
 ## 拼音
 
-- lan2 wu4 jin1 zhao1 zhong4 ， jiang1 shan1 ci3 di4 shen1 。
-- tan1 sheng1 qiu1 geng4 ji2 ， xia2 qi4 xiao3 duo1 yin1 。
-- wang4 que4 yun2 zhe1 yan3 ， si1 xiang1 yu3 di1 xin1 。
-- jiang1 he2 wei4 you1 du2 ， lai4 ci3 bei3 chuang1 qin2 。
+- run4 ye4 ru2 zhi1 jia1 si4 fang1 ， nong2 yun2 lai2 qu4 shi4 he2 chang2 。
+- kuang4 ran2 huan2 yu3 qing1 feng1 man3 ， jiu4 han4 gong1 gao1 shu3 qi4 liang2 。
 
 ## 注释
 

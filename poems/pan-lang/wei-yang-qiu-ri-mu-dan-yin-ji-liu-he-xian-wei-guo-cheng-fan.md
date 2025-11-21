@@ -6,10 +6,10 @@ titleSlug: wei-yang-qiu-ri-mu-dan-yin-ji-liu-he-xian-wei-guo-cheng-fan
 author: 潘閬
 authorPinyin: pan1 lang4
 authorSlug: pan-lang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

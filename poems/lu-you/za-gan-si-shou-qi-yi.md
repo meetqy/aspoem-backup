@@ -6,21 +6,21 @@ titleSlug: za-gan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 買薪貸粟不曾知，一事無營盡日嬉。
-- 耋老却如童稚日，早眠晏起食無時。
+- 壯遊回首海茫茫，默數方驚歲月長。
+- 舊事莫論齊柏寢，殘軀方似魯靈光。
 
 ## 拼音
 
-- mai3 xin1 dai4 su4 bu4 ceng2 zhi1 ， yi2 shi4 wu2 ying2 jin4 ri4 xi1 。
-- die2 lao3 que4 ru2 tong2 zhi4 ri4 ， zao3 mian2 yan4 qi3 shi2 wu2 shi2 。
+- zhuang4 you2 hui2 shou3 hai3 mang2 mang2 ， mo4 shu4 fang1 jing1 sui4 yue4 chang2 。
+- jiu4 shi4 mo4 lun4 qi2 bai3 qin3 ， can2 qu1 fang1 si4 lu3 ling2 guang1 。
 
 ## 注释
 

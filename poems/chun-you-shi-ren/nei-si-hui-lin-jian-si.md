@@ -6,10 +6,10 @@ titleSlug: nei-si-hui-lin-jian-si
 author: 淳祐士人
 authorPinyin: chun2 you4 shi4 ren2
 authorSlug: chun-you-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

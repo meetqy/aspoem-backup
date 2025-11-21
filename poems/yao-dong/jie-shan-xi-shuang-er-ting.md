@@ -6,10 +6,10 @@ titleSlug: jie-shan-xi-shuang-er-ting
 author: 姚東
 authorPinyin: yao2 dong1
 authorSlug: yao-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

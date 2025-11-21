@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-huang-di-ge-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日向皇都永，冰從泰液融。
-- 八荒開壽域，萬國轉春風。
+- 新曆清臺正，寬書薄海同。
+- 斯民如草木，一一被和風。
 
 ## 拼音
 
-- ri4 xiang4 huang2 dou1 yong3 ， bing1 cong2 tai4 ye4 rong2 。
-- ba1 huang1 kai1 shou4 yu4 ， wan4 guo2 zhuan3 chun1 feng1 。
+- xin1 li4 qing1 tai2 zheng4 ， kuan1 shu1 bo2 hai3 tong2 。
+- si1 min2 ru2 cao3 mu4 ， yi1 yi1 bei4 he2 feng1 。
 
 ## 注释
 

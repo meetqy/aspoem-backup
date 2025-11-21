@@ -6,9 +6,9 @@ titleSlug: song-li-shao-he-huan-shan
 author: 夏侯嶠
 authorPinyin: xia4 hou2 jiao4
 authorSlug: xia-hou-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

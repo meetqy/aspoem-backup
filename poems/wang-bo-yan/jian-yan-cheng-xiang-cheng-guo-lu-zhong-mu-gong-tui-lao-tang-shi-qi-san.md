@@ -6,10 +6,10 @@ titleSlug: jian-yan-cheng-xiang-cheng-guo-lu-zhong-mu-gong-tui-lao-tang-shi-qi-s
 author: 汪伯彥
 authorPinyin: wang1 bo2 yan4
 authorSlug: wang-bo-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

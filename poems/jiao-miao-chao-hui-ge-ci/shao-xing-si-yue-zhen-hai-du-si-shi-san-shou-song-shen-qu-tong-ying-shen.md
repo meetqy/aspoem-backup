@@ -6,25 +6,25 @@ titleSlug: shao-xing-si-yue-zhen-hai-du-si-shi-san-shou-song-shen-qu-tong-ying-s
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 薦徹豆籩，熙事備成。
-- 靈兮將歸，羽旄紛紜。
-- 飄其逝矣，浮空籋雲。
-- 悵然顧瞻，有撫懷心。
+- 靈既醉飽，禮斯徹兮。
+- 靈亦樂康，樂斯闋兮。
+- 雲征飈舉，不可尼兮。
+- 薦福錫祉，曷有極兮。
 
 ## 拼音
 
-- jian4 che4 dou4 bian1 ， xi1 shi4 bei4 cheng2 。
-- ling2 xi1 jiang1 gui1 ， yu3 mao2 fen1 yun2 。
-- piao1 qi2 shi4 yi3 ， fu2 kong1 nie4 yun2 。
-- chang4 ran2 gu4 zhan1 ， you3 fu3 huai2 xin1 。
+- ling2 ji4 zui4 bao3 ， li3 si1 che4 xi1 。
+- ling2 yi4 le4 kang1 ， le4 si1 que4 xi1 。
+- yun2 zheng1 biao1 ju3 ， bu4 ke3 ni2 xi1 。
+- jian4 fu2 xi1 zhi3 ， he2 you3 ji2 xi1 。
 
 ## 注释
 

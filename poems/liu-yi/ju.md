@@ -3,22 +3,22 @@ id: liu-yi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 劉翼
-authorPinyin: liu2 yi4
+author: 劉彝
+authorPinyin: liu2 yi2
 authorSlug: liu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 富貴功名堪擘畫，最難擘畫子孫賢。
+- 仙境自嫌塵俗見，故垂巖溜代珠簾。
 
 ## 拼音
 
-- fu4 gui4 gong1 ming2 kan1 bo4 hua4 ， zui4 nan2 bo4 hua4 zi3 sun1 xian2 。
+- xian1 jing4 zi4 xian2 chen2 su2 jian4 ， gu4 chui2 yan2 liu1 dai4 zhu1 lian2 。
 
 ## 注释
 

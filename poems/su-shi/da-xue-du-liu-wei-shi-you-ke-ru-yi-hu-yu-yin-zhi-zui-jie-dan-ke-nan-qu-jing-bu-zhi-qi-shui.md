@@ -6,10 +6,10 @@ titleSlug: da-xue-du-liu-wei-shi-you-ke-ru-yi-hu-yu-yin-zhi-zui-jie-dan-ke-nan-q
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

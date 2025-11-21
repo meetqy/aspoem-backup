@@ -1,42 +1,42 @@
 ---
 id: xu-ji-xue-qi-yi
-title: 雪  其一
-titlePinyin: xue3     qi2 yi1
+title: 雪  其一○
+titlePinyin: xue3     qi2 yi1 ○
 titleSlug: xue-qi-yi
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淮上飛花正皓然，日車月御欲停鞭。
-- 千形凜凜如無地，一片蒼蒼忽露天。
-- 洞口似迷山路處，斗閒疑泛海槎年。
-- 長瓢酒挹雲泉釀，大軸詩題錦水牋。
-- 僧舍手抔留煮茗，漁菴缾貯借烹鮮。
-- 喜餘稻糝投饑喙，慚乏綈袍贈凍肩。
-- 白裏好張紅步障，猛中宜擺絳戎旃。
-- 掃開寥廓憑風帚，抉去紛紜憶劍仙。
-- 獵火正燃雲有焰，旅庖何在突無烟。
-- 未應門外同袁子，曾買汙萊數畝田。
+- 團團蘚暈埋青錢，稍稍竹樹藏紺鞭。
+- 鸕鷀覆水魚沉淵，罞罿蔽地禽沖天。
+- 梅房處女鶑坐禪，草頭稚子松耆年。
+- 浮光飛沫人游川，斜行大字鴻書牋。
+- 壯士可論持守堅，美人休說容華鮮。
+- 乞餘之夫尤慕羶，附炎之子彌脇肩。
+- 穿花走馬錦藏韉，垂雲閱武車張旃。
+- 虢姨滿路空遺鈿，陳妃倚閣真神仙。
+- 有人情似山中泉，其情濃如春深烟。
+- 留下斷蘆雲蓑篇，長令雪滿淮之田。
 
 ## 拼音
 
-- huai2 shang4 fei1 hua1 zheng4 hao4 ran2 ， ri4 ju1 yue4 yu4 yu4 ting2 bian1 。
-- qian1 xing2 lin3 lin3 ru2 wu2 di4 ， yi2 pian4 cang1 cang1 hu1 lu4 tian1 。
-- dong4 kou3 si4 mi2 shan1 lu4 chu3 ， dou4 xian2 yi2 fan4 hai3 cha2 nian2 。
-- chang2 piao2 jiu3 yi4 yun2 quan2 niang4 ， da4 zhou2 shi1 ti2 jin3 shui3 jian1 。
-- seng1 she4 shou3 pou2 liu2 zhu3 ming2 ， yu2 an1 ping2 zhu4 jie4 peng1 xian1 。
-- xi3 yu2 dao4 san3 tou2 ji1 hui4 ， can2 fa2 ti4 pao2 zeng4 dong4 jian1 。
-- bai2 li3 hao3 zhang1 hong2 bu4 zhang4 ， meng3 zhong1 yi2 bai3 jiang4 rong2 zhan1 。
-- sao3 kai1 liao2 kuo4 ping2 feng1 zhou3 ， jue2 qu4 fen1 yun2 yi4 jian4 xian1 。
-- lie4 huo3 zheng4 ran2 yun2 you3 yan4 ， lü3 pao2 he2 zai4 tu1 wu2 yan1 。
-- wei4 ying1 men2 wai4 tong2 yuan2 zi3 ， ceng2 mai3 wu1 lai2 shu4 mu3 tian2 。
+- tuan2 tuan2 xian3 yun4 mai2 qing1 qian2 ， shao1 shao1 zhu2 shu4 cang2 gan4 bian1 。
+- lu2 ci2 fu4 shui3 yu2 chen2 yuan1 ， mao2 chong1 bi4 di4 qin2 chong1 tian1 。
+- mei2 fang2 chu3 nü3 ying1 zuo4 shan4 ， cao3 tou2 zhi4 zi3 song1 qi2 nian2 。
+- fu2 guang1 fei1 mo4 ren2 you2 chuan1 ， xie2 xing2 da4 zi4 hong2 shu1 jian1 。
+- zhuang4 shi4 ke3 lun4 chi2 shou3 jian1 ， mei3 ren2 xiu1 shuo1 rong2 hua2 xian1 。
+- qi3 yu2 zhi1 fu1 you2 mu4 shan1 ， fu4 yan2 zhi1 zi3 mi2 xie2 jian1 。
+- chuan1 hua1 zou3 ma3 jin3 cang2 jian1 ， chui2 yun2 yue4 wu3 ju1 zhang1 zhan1 。
+- guo2 yi2 man3 lu4 kong1 yi2 dian4 ， chen2 fei1 yi3 ge2 zhen1 shen2 xian1 。
+- you3 ren2 qing2 si4 shan1 zhong1 quan2 ， qi2 qing2 nong2 ru2 chun1 shen1 yan1 。
+- liu2 xia4 duan4 lu2 yun2 suo1 pian1 ， chang2 ling4 xue3 man3 huai2 zhi1 tian2 。
 
 ## 注释
 

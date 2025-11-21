@@ -6,10 +6,10 @@ titleSlug: hui-ding-men-yan-ji
 author: 釋法真
 authorPinyin: shi4 fa3 zhen1
 authorSlug: shi-fa-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

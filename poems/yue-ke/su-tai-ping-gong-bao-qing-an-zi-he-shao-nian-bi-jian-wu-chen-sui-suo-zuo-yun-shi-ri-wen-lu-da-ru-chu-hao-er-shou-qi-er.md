@@ -6,10 +6,10 @@ titleSlug: su-tai-ping-gong-bao-qing-an-zi-he-shao-nian-bi-jian-wu-chen-sui-suo-
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

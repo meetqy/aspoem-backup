@@ -6,21 +6,25 @@ titleSlug: gan-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日落烏將數子歸，風和雉挾兩雌飛。
-- 不如村舍安孤寂，父子飄然兩褐衣。
+- 提壺勸客飲，架犁課農耕。
+- 鳩方喜婦還，蟻又以族行。
+- 大化職雨暘，我窗更晦明。
+- 芸芸觀萬物，一笑了此生。
 
 ## 拼音
 
-- ri4 luo4 wu1 jiang1 shu4 zi3 gui1 ， feng1 he2 zhi4 xie2 liang3 ci2 fei1 。
-- bu4 ru2 cun1 she4 an1 gu1 ji4 ， fu4 zi3 piao1 ran2 liang3 he4 yi1 。
+- ti2 hu2 quan4 ke4 yin3 ， jia4 li2 ke4 nong2 geng1 。
+- jiu1 fang1 xi3 fu4 huan2 ， yi3 you4 yi3 zu2 xing2 。
+- da4 hua4 zhi2 yu3 yang2 ， wo3 chuang1 geng4 hui4 ming2 。
+- yun2 yun2 guan1 wan4 wu4 ， yi2 xiao4 le0 ci3 sheng1 。
 
 ## 注释
 

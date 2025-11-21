@@ -6,10 +6,10 @@ titleSlug: guo-tao-ling-you-qian-wang-jing-you-san-li-you-qian-wang-shi-an
 author: 林景熙
 authorPinyin: lin2 jing3 xi1
 authorSlug: lin-jing-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

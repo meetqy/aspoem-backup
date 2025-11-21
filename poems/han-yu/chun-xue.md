@@ -9,34 +9,26 @@ authorSlug: han-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 看雪乘清旦，無人坐獨謠。
-- 拂花輕尚起，落地煖初銷。
-- 已訝陵歌扇，還來伴舞腰。
-- 灑篁留密節，著柳送長條。
-- 入鏡鸞窺沼，行天馬度橋。
-- 徧堦憐可掬，滿樹戲成搖。
-- 江浪迎濤日，風毛縱獵朝。
-- 弄閑時細轉，爭急【忽】驚飄。
-- 城險疑懸布，砧寒未擣綃。
-- 莫愁陰景促，夜色自相饒。
+- 片片驅鴻急，紛紛逐吹斜。
+- 到江還作水，著樹漸成花。
+- 越喜飛排瘴，胡愁厚蓋砂。
+- 兼雲封洞口，助月照天涯。
+- 暝見迷巢鳥，朝逢失轍車。
+- 呈豐盡相賀，寧止力耕家。
 
 ## 拼音
 
-- kan4 xue3 cheng2 qing1 dan4 ， wu2 ren2 zuo4 du2 yao2 。
-- fu2 hua1 qing1 shang4 qi3 ， luo4 di4 xuan1 chu1 xiao1 。
-- yi3 ya4 ling2 ge1 shan4 ， huan2 lai2 ban4 wu3 yao1 。
-- sa3 huang2 liu2 mi4 jie2 ， zhu4 liu3 song4 chang2 tiao2 。
-- ru4 jing4 luan2 kui1 zhao3 ， xing2 tian1 ma3 du4 qiao2 。
-- bian4 jie1 lian2 ke3 ju1 ， man3 shu4 xi4 cheng2 yao2 。
-- jiang1 lang4 ying2 tao1 ri4 ， feng1 mao2 zong4 lie4 chao2 。
-- nong4 xian2 shi2 xi4 zhuan3 ， zheng1 ji2 【 hu1 】 jing1 piao1 。
-- cheng2 xian3 yi2 xuan2 bu4 ， zhen1 han2 wei4 dao3 xiao1 。
-- mo4 chou2 yin1 jing3 cu4 ， ye4 se4 zi4 xiang1 rao2 。
+- pian4 pian4 qu1 hong2 ji2 ， fen1 fen1 zhu2 chui1 xie2 。
+- dao4 jiang1 huan2 zuo4 shui3 ， zhu4 shu4 jian4 cheng2 hua1 。
+- yue4 xi3 fei1 pai2 zhang4 ， hu2 chou2 hou4 gai4 sha1 。
+- jian1 yun2 feng1 dong4 kou3 ， zhu4 yue4 zhao4 tian1 ya2 。
+- ming2 jian4 mi2 chao2 niao3 ， chao2 feng2 shi1 zhe2 ju1 。
+- cheng2 feng1 jin4 xiang1 he4 ， ning2 zhi3 li4 geng1 jia1 。
 
 ## 注释
 

@@ -14,15 +14,15 @@ tags: []
 
 ## 正文
 
-- 我愛陶靖節，吏隠從弦歌。
-- 我愛費徵君，高卧歸九華。
-- 清風激頹波，來者何以加。
+- 我愛陶靖節，吏隱從弦歌。
+- 我愛費徵君，高臥歸九華。
+- 清風激頹波，來者無以加。
 - 我志兩不遂，漂淪浩無涯。
 - 數奇時且亂，此圖今愈賒。
 - 賢哉薛夫子，高舉凌晨霞。
 - 安民即是道，投足皆爲家。
 - 功名與權位，悠悠何用誇。
-- 携朋出遠郊，酌酒藉平沙。
+- 攜朋出遠郊，酌酒藉平沙。
 - 雲收遠天靜，江闊片帆斜。
 - 離懷與企羨，南望長咨嗟。
 
@@ -30,7 +30,7 @@ tags: []
 
 - wo3 ai4 tao2 jing4 jie2 ， li4 yin3 cong2 xian2 ge1 。
 - wo3 ai4 fei4 zhi3 jun1 ， gao1 wo4 gui1 jiu3 hua2 。
-- qing1 feng1 ji1 tui2 bo1 ， lai2 zhe3 he2 yi3 jia1 。
+- qing1 feng1 ji1 tui2 bo1 ， lai2 zhe3 wu2 yi3 jia1 。
 - wo3 zhi4 liang3 bu2 sui4 ， piao1 lun2 hao4 wu2 ya2 。
 - shu4 qi2 shi2 qie3 luan4 ， ci3 tu2 jin1 yu4 she1 。
 - xian2 zai1 xue1 fu1 zi3 ， gao1 ju3 ling2 chen2 xia2 。

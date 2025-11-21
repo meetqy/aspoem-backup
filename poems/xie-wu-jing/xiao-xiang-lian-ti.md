@@ -6,10 +6,10 @@ titleSlug: xiao-xiang-lian-ti
 author: 謝無競
 authorPinyin: xie4 wu2 jing4
 authorSlug: xie-wu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

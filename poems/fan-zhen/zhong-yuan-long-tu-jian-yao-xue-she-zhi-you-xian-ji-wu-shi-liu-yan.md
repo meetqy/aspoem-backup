@@ -6,10 +6,10 @@ titleSlug: zhong-yuan-long-tu-jian-yao-xue-she-zhi-you-xian-ji-wu-shi-liu-yan
 author: 范鎮
 authorPinyin: fan4 zhen4
 authorSlug: fan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

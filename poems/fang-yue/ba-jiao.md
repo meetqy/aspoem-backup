@@ -6,21 +6,21 @@ titleSlug: ba-jiao
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自是愁人愁不消，非干雨裏聽芭蕉。
-- 芭蕉易去愁難去，移向梧桐轉寂寥。
+- 數葉芭蕉數葉秋，燈長雨久不眠愁。
+- 靈溪寺裏夜曾聽，又聽靈溪溪水流。
 
 ## 拼音
 
-- zi4 shi4 chou2 ren2 chou2 bu4 xiao1 ， fei1 gan1 yu3 li3 ting1 ba1 jiao1 。
-- ba1 jiao1 yi4 qu4 chou2 nan2 qu4 ， yi2 xiang4 wu2 tong2 zhuan3 ji4 liao2 。
+- shu4 ye4 ba1 jiao1 shu4 ye4 qiu1 ， deng1 chang2 yu3 jiu3 bu4 mian2 chou2 。
+- ling2 xi1 si4 li3 ye4 ceng2 ting1 ， you4 ting1 ling2 xi1 xi1 shui3 liu2 。
 
 ## 注释
 

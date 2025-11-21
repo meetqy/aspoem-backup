@@ -6,10 +6,10 @@ titleSlug: kao-bi-zeng-guan-yi-shi-rong-yao-lao-huai-yi-gan-zhe-jing-shu-chang-j
 author: 張綱
 authorPinyin: zhang1 gang1
 authorSlug: zhang-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

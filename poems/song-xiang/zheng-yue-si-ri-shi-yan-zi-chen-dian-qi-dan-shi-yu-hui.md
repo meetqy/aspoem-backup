@@ -6,9 +6,9 @@ titleSlug: zheng-yue-si-ri-shi-yan-zi-chen-dian-qi-dan-shi-yu-hui
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

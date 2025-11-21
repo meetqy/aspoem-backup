@@ -6,10 +6,10 @@ titleSlug: wen-pei-shan
 author: 通真子
 authorPinyin: tong1 zhen1 zi3
 authorSlug: tong-zhen-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

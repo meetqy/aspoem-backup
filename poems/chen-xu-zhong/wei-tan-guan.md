@@ -6,10 +6,10 @@ titleSlug: wei-tan-guan
 author: 陳虛中
 authorPinyin: chen2 xu1 zhong1
 authorSlug: chen-xu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

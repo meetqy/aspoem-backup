@@ -6,10 +6,10 @@ titleSlug: san-xue-yuan-qi-er
 author: 王投
 authorPinyin: wang2 tou2
 authorSlug: wang-tou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

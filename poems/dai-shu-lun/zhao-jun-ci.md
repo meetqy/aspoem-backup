@@ -9,18 +9,18 @@ authorSlug: dai-shu-lun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢宮若遠近，路在寒沙上。
-- 到死不得歸，何人共南望。
+- 漢家宮闕夢中歸，幾度氈房淚濕衣。
+- 惆悵不如邊鴈影，秋風猶得向南飛。
 
 ## 拼音
 
-- han4 gong1 ruo4 yuan3 jin4 ， lu4 zai4 han2 sha1 shang4 。
-- dao4 si3 bu4 de2 gui1 ， he2 ren2 gong4 nan2 wang4 。
+- han4 jia1 gong1 que4 meng4 zhong1 gui1 ， ji1 du4 zhan1 fang2 lei4 shi1 yi1 。
+- chou2 chang4 bu4 ru2 bian1 yan4 ying3 ， qiu1 feng1 you2 de2 xiang4 nan2 fei1 。
 
 ## 注释
 

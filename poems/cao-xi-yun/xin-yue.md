@@ -6,10 +6,10 @@ titleSlug: xin-yue
 author: 曹希藴
 authorPinyin: cao2 xi1 yun4
 authorSlug: cao-xi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

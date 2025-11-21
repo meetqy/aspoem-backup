@@ -6,25 +6,25 @@ titleSlug: cun-weng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 放翁真箇是村翁，釣渭耕莘事不同。
-- 蹴蹋烟雲兩芒屩，憑陵風雪一篷籠。
-- 屢經駭浪身終免，遍閱浮漚壽未窮。
-- 幸有春衣堪換酒，道邊醉卧示神通。
+- 不入城門三歲餘，亦無車馬過吾廬。
+- 食常羹芋已忘肉，年迫蓋棺猶愛書。
+- 處處叩門尋醉叟，時時臨水看遊魚。
+- 半生名宦終何得，作箇村翁計未疏。
 
 ## 拼音
 
-- fang4 weng1 zhen1 ge4 shi4 cun1 weng1 ， diao4 wei4 geng1 shen1 shi4 bu4 tong2 。
-- cu4 ta4 yan1 yun2 liang3 mang2 jue1 ， ping2 ling2 feng1 xue3 yi4 peng2 long2 。
-- lü3 jing1 hai4 lang4 shen1 zhong1 mian3 ， bian4 yue4 fu2 ou1 shou4 wei4 qiong2 。
-- xing4 you3 chun1 yi1 kan1 huan4 jiu3 ， dao4 bian1 zui4 wo4 shi4 shen2 tong1 。
+- bu2 ru4 cheng2 men2 san1 sui4 yu2 ， yi4 wu2 ju1 ma3 guo4 wu2 lu2 。
+- shi2 chang2 geng1 yu4 yi3 wang4 rou4 ， nian2 po4 gai4 guan1 you2 ai4 shu1 。
+- chu3 chu3 kou4 men2 xun2 zui4 sou3 ， shi2 shi2 lin2 shui3 kan4 you2 yu2 。
+- ban4 sheng1 ming2 huan4 zhong1 he2 de2 ， zuo4 ge4 cun1 weng1 ji4 wei4 shu1 。
 
 ## 注释
 

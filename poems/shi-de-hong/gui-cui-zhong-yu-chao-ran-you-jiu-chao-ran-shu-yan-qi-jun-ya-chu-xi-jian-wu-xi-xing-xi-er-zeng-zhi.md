@@ -6,10 +6,10 @@ titleSlug: gui-cui-zhong-yu-chao-ran-you-jiu-chao-ran-shu-yan-qi-jun-ya-chu-xi-j
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

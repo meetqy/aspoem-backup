@@ -9,18 +9,18 @@ authorSlug: zhou-tan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 周室衰微不共匡，干戈終日互爭強。
-- 諸侯若解尊天子，列國何因次第亡。
+- 走敵存亡義有餘，全由雄勇與英謨。
+- 但如公子能交結，朱亥侯嬴何代無。
 
 ## 拼音
 
-- zhou1 shi4 shuai1 wei1 bu2 gong4 kuang1 ， gan1 ge1 zhong1 ri4 hu4 zheng1 qiang2 。
-- zhu1 hou2 ruo4 jie3 zun1 tian1 zi3 ， lie4 guo2 he2 yin1 ci4 di4 wang2 。
+- zou3 di2 cun2 wang2 yi4 you3 yu2 ， quan2 you2 xiong2 yong3 yu3 ying1 mo2 。
+- dan4 ru2 gong1 zi3 neng2 jiao1 jie2 ， zhu1 hai4 hou2 ying2 he2 dai4 wu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: bai-yun-ting-qi-yi
 author: 林通
 authorPinyin: lin2 tong1
 authorSlug: lin-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-zi-ye-guo-yong-xian-guan-xun-xi-cheng-yi-gui-xie-hou-li-jie-fu-xi-
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

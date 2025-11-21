@@ -9,22 +9,22 @@ authorSlug: li-qi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 黃雲雁門郡，日暮風沙裏。
-- 千騎黑貂裘，皆稱羽林子。
-- 金笳吹朔雪，鐵馬嘶雲水。
-- 帳下飲蒲萄，平生寸心是。
+- 少年學騎射，勇冠幷州兒。
+- 直愛出身早，邊功沙漠垂。
+- 戎鞭腰下插，羌笛雪中吹。
+- 膂力今應盡，將軍猶未知。
 
 ## 拼音
 
-- huang2 yun2 yan4 men2 jun4 ， ri4 mu4 feng1 sha1 li3 。
-- qian1 qi2 hei1 diao1 qiu2 ， jie1 cheng1 yu3 lin2 zi0 。
-- jin1 jia1 chui1 shuo4 xue3 ， tie3 ma3 si1 yun2 shui3 。
-- zhang4 xia4 yin3 pu2 tao2 ， ping2 sheng1 cun4 xin1 shi4 。
+- shao4 nian2 xue2 qi2 she4 ， yong3 guan1 bing4 zhou1 er2 。
+- zhi2 ai4 chu1 shen1 zao3 ， bian1 gong1 sha1 mo4 chui2 。
+- rong2 bian1 yao1 xia4 cha1 ， qiang1 di2 xue3 zhong1 chui1 。
+- lü3 li4 jin1 ying1 jin4 ， jiang1 jun1 you2 wei4 zhi1 。
 
 ## 注释
 

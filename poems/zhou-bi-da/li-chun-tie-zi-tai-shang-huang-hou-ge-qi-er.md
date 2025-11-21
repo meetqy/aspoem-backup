@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-er
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白玉重鎸冊，黄金再鑄章。
-- 宮中饒樂事，大典對春陽。
+- 閬苑紅初露，瑶池碧半涵。
+- 春生從太極，化洽本周南。
 
 ## 拼音
 
-- bai2 yu4 zhong4 juan1 ce4 ， huang2 jin1 zai4 zhu4 zhang1 。
-- gong1 zhong1 rao2 le4 shi4 ， da4 dian3 dui4 chun1 yang2 。
+- lang4 yuan4 hong2 chu1 lu4 ， yao2 chi2 bi4 ban4 han2 。
+- chun1 sheng1 cong2 tai4 ji2 ， hua4 qia4 ben3 zhou1 nan2 。
 
 ## 注释
 

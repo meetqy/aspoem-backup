@@ -6,25 +6,21 @@ titleSlug: tai-chang-le-zhang-san-shi-shou-huang-di-xing-zou-long-an-zhi-qu
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祼鬯漙将，賓尸在位。
-- 玄德升聞，孝思光被。
-- 公卿庻政，傅御師氏。
-- 至諴感神，福禄來暨。
+- 禮備樂成，乾健天行。
+- 帝容有穆，佩玉鏘鳴。
 
 ## 拼音
 
-- guan4 chang4 tuan2 jiang1 ， bin1 shi1 zai4 wei4 。
-- xuan2 de2 sheng1 wen2 ， xiao4 si1 guang1 bei4 。
-- gong1 qing1 shu4 zheng4 ， fu4 yu4 shi1 shi4 。
-- zhi4 xian2 gan3 shen2 ， fu2 lu4 lai2 ji4 。
+- li3 bei4 le4 cheng2 ， qian2 jian4 tian1 xing2 。
+- di4 rong2 you3 mu4 ， pei4 yu4 qiang1 ming2 。
 
 ## 注释
 

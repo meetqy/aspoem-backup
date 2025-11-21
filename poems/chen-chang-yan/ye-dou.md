@@ -6,10 +6,10 @@ titleSlug: ye-dou
 author: 陳昌言
 authorPinyin: chen2 chang1 yan2
 authorSlug: chen-chang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

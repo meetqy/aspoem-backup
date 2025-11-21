@@ -6,10 +6,10 @@ titleSlug: shu-deng-e
 author: 危涴
 authorPinyin: wei1 wo4
 authorSlug: wei-wo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

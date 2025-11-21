@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zhe-dong-can-zheng-ji-shi-hui-ji-peng-lai-ge-shi-zhou-ci-yun-ji-ti-er-shou-qi-er
-title: 浙東參政寄示會稽蓬萊閣詩軸次韻寄題二首・其二
-titlePinyin: zhe4 dong1 can1 zheng4 ji4 shi4 hui4 ji1 peng2 lai2 ge2 shi1 zhou2 ci4 yun4 ji4 ti2 er4 shou3・qi2 er4
+title: 浙東參政寄示會稽蓬萊閣詩軸次韻寄題二首  其二
+titlePinyin: zhe4 dong1 can1 zheng4 ji4 shi4 hui4 ji1 peng2 lai2 ge2 shi1 zhou2 ci4 yun4 ji4 ti2 er4 shou3     qi2 er4
 titleSlug: zhe-dong-can-zheng-ji-shi-hui-ji-peng-lai-ge-shi-zhou-ci-yun-ji-ti-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

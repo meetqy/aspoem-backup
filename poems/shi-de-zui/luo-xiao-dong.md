@@ -6,10 +6,10 @@ titleSlug: luo-xiao-dong
 author: 釋德最
 authorPinyin: shi4 de2 zui4
 authorSlug: shi-de-zui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

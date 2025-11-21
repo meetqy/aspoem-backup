@@ -6,10 +6,10 @@ titleSlug: gao-zong-huang-di-wan-ci-qi-er
 author: 李巘
 authorPinyin: li3 yan3
 authorSlug: li-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

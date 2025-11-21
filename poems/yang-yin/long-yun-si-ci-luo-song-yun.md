@@ -6,10 +6,10 @@ titleSlug: long-yun-si-ci-luo-song-yun
 author: 楊寅
 authorPinyin: yang2 yin2
 authorSlug: yang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

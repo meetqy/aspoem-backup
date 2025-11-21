@@ -6,10 +6,10 @@ titleSlug: ti-jin-hua-xu-bo-guang-yi-ju-gui-yue-qi-yi
 author: 徐元杰
 authorPinyin: xu2 yuan2 jie2
 authorSlug: xu-yuan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

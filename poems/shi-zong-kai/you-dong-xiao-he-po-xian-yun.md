@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao-he-po-xian-yun
 author: 史宗愷
 authorPinyin: shi3 zong1 kai3
 authorSlug: shi-zong-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

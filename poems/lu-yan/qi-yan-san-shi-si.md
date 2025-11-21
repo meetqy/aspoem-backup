@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 水得天符下玉都，三千日裏積功夫。
-- 禱祈天地開金鼎，收拾陰陽鎖玉壺。
-- 便覺凡軀能變化，深知妙道不虛圖。
-- 時來試問塵中叟，這箇玄機世有無。
+- 割斷繁華掉却榮，便從初得是長生。
+- 曾於錦水爲蟬蛻，又向蓬萊別姓名。
+- 三住住來無否泰，一塵塵在世人情。
+- 不知功滿歸何處，直跨虬龍上玉京。
 
 ## 拼音
 
-- shui3 de2 tian1 fu2 xia4 yu4 dou1 ， san1 qian1 ri4 li3 ji1 gong1 fu1 。
-- dao3 qi2 tian1 di4 kai1 jin1 ding3 ， shou1 shi0 yin1 yang2 suo3 yu4 hu2 。
-- bian4 jue2 fan2 qu1 neng2 bian4 hua4 ， shen1 zhi1 miao4 dao4 bu4 xu1 tu2 。
-- shi2 lai2 shi4 wen4 chen2 zhong1 sou3 ， zhe4 ge4 xuan2 ji1 shi4 you3 wu2 。
+- ge1 duan4 fan2 hua2 diao4 que4 rong2 ， bian4 cong2 chu1 de2 shi4 chang2 sheng1 。
+- ceng2 wu1 jin3 shui3 wei2 chan2 tui4 ， you4 xiang4 peng2 lai2 bie2 xing4 ming2 。
+- san1 zhu4 zhu4 lai2 wu2 pi3 tai4 ， yi4 chen2 chen2 zai4 shi4 ren2 qing2 。
+- bu4 zhi1 gong1 man3 gui1 he2 chu3 ， zhi2 kua4 qiu2 long2 shang4 yu4 jing1 。
 
 ## 注释
 

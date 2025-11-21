@@ -1,26 +1,26 @@
 ---
 id: hu-yin-chun-ri-you-ju-shi-zhong-gu-yan-chong-shi-jue-qi-yi
-title: 春日幽居示仲固彥沖十絕  其一
-titlePinyin: chun1 ri4 you1 ju1 shi4 zhong4 gu4 yan4 chong1 shi2 jue2     qi2 yi1
+title: 春日幽居示仲固彥沖十絕  其一○
+titlePinyin: chun1 ri4 you1 ju1 shi4 zhong4 gu4 yan4 chong1 shi2 jue2     qi2 yi1 ○
 titleSlug: chun-ri-you-ju-shi-zhong-gu-yan-chong-shi-jue-qi-yi
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 映空微雨不成絲，約勒桃花欲動時。
-- 爭奈東風有情思，曉紅輕笑竹邊枝。
+- 染溪曾是竹千竿，歲久生鱗化碧灘。
+- 頼有龍孫振根撥，且須深蟄捍濤瀾。
 
 ## 拼音
 
-- ying4 kong1 wei1 yu3 bu4 cheng2 si1 ， yue1 le4 tao2 hua1 yu4 dong4 shi2 。
-- zheng1 nai4 dong1 feng1 you3 qing2 si1 ， xiao3 hong2 qing1 xiao4 zhu2 bian1 zhi1 。
+- ran3 xi1 ceng2 shi4 zhu2 qian1 gan1 ， sui4 jiu3 sheng1 lin2 hua4 bi4 tan1 。
+- lai4 you3 long2 sun1 zhen4 gen1 bo1 ， qie3 xu1 shen1 zhe2 han4 tao1 lan2 。
 
 ## 注释
 

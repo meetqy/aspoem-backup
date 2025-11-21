@@ -6,10 +6,10 @@ titleSlug: huai-lin-yuan-er-shou-qi-yi
 author: 鄧犀如
 authorPinyin: deng4 xi1 ru2
 authorSlug: deng-xi-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 架屋集匠氏，斲石最可恤。
-- 相石千仞端，壍山方得出。
-- 疲形困輦置，巧磓較絲忽。
-- 所直等衆人，人可不擇術。
+- 秋雨濕庭戶，陋舍集閑客。
+- 重以樽酒空，可爲饑腸厄。
+- 呼童取盃酌，村酒我先識。
+- 一杯復一杯，滿坐生春色。
 
 ## 拼音
 
-- jia4 wu1 ji2 jiang4 shi4 ， zhuo2 shi2 zui4 ke3 xu4 。
-- xiang1 shi2 qian1 ren4 duan1 ， qian4 shan1 fang1 de2 chu1 。
-- pi2 xing2 kun4 nian3 zhi4 ， qiao3 dui1 jiao4 si1 hu1 。
-- suo3 zhi2 deng3 zhong4 ren2 ， ren2 ke3 bu4 ze2 shu4 。
+- qiu1 yu3 shi1 ting2 hu4 ， lou4 she4 ji2 xian2 ke4 。
+- zhong4 yi3 zun1 jiu3 kong1 ， ke3 wei2 ji1 chang2 e4 。
+- hu1 tong2 qu3 bei1 zhuo2 ， cun1 jiu3 wo3 xian1 shi2 。
+- yi4 bei1 fu4 yi4 bei1 ， man3 zuo4 sheng1 chun1 se4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-ye-li-sheng
 author: 周貫
 authorPinyin: zhou1 guan4
 authorSlug: zhou-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

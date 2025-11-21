@@ -9,22 +9,18 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 細玉羅紋下碧霄，杜門顏巷落偏饒。
-- 巢居只恐高柯折，旅客愁聞去路遙。
-- 撅凍野蔬和粉重，埽庭松葉帶酥燒。
-- 寒窗呵筆尋詩句，一片飛來紙上銷。
+- 盡道豐年瑞，豐年事若何。
+- 長安有貧者，爲瑞不宜多。
 
 ## 拼音
 
-- xi4 yu4 luo2 wen2 xia4 bi4 xiao1 ， du4 men2 yan2 xiang4 luo4 pian1 rao2 。
-- chao2 ju1 zhi3 kong3 gao1 ke1 zhe2 ， lü3 ke4 chou2 wen2 qu4 lu4 yao2 。
-- jue1 dong4 ye3 shu1 he2 fen3 zhong4 ， sao4 ting2 song1 ye4 dai4 su1 shao1 。
-- han2 chuang1 he1 bi3 xun2 shi1 ju4 ， yi2 pian4 fei1 lai2 zhi3 shang4 xiao1 。
+- jin4 dao4 feng1 nian2 rui4 ， feng1 nian2 shi4 ruo4 he2 。
+- chang2 an1 you3 pin2 zhe3 ， wei2 rui4 bu4 yi2 duo1 。
 
 ## 注释
 

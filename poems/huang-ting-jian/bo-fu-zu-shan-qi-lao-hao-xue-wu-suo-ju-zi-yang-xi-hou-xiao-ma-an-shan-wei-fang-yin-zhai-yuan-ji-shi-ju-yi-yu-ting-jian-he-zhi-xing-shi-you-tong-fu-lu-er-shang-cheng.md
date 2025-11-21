@@ -6,10 +6,10 @@ titleSlug: bo-fu-zu-shan-qi-lao-hao-xue-wu-suo-ju-zi-yang-xi-hou-xiao-ma-an-shan
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ju-qi-yi
 author: 王溥
 authorPinyin: wang2 pu3
 authorSlug: wang-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

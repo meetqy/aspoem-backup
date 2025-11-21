@@ -6,25 +6,25 @@ titleSlug: shan-zhong-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久無筋力踞虬龍，西崦東塘漫倚筇。
-- 白練带隨紅練带，木夫容並水夫容。
-- 寧消幾兩生前屐，忽憶當年飯後鐘。
-- 孤負草堂今夜月，徑眠誰與吐奇胸。
+- 寂莫空山久掩扉，殘書誰與解重圍。
+- 推豗時作橐駝坐，恍惚化爲蝴蝶飛。
+- 春事已歸雙雪鬢，生涯盡在一荷衣。
+- 夜寒扣角悲聲壯，但得牛肥道亦肥。
 
 ## 拼音
 
-- jiu3 wu2 jin1 li4 ju4 qiu2 long2 ， xi1 yan1 dong1 tang2 man4 yi3 qiong2 。
-- bai2 lian4 dai4 sui2 hong2 lian4 dai4 ， mu4 fu1 rong2 bing4 shui3 fu1 rong2 。
-- ning2 xiao1 ji1 liang3 sheng1 qian2 ji1 ， hu1 yi4 dang1 nian2 fan4 hou4 zhong1 。
-- gu1 fu4 cao3 tang2 jin1 ye4 yue4 ， jing4 mian2 shui2 yu3 tu3 qi2 xiong1 。
+- ji4 mo4 kong1 shan1 jiu3 yan3 fei1 ， can2 shu1 shui2 yu3 jie3 zhong4 wei2 。
+- tui1 hui1 shi2 zuo4 tuo2 tuo2 zuo4 ， huang3 hu1 hua4 wei2 hu2 die2 fei1 。
+- chun1 shi4 yi3 gui1 shuang1 xue3 bin4 ， sheng1 ya2 jin4 zai4 yi4 he2 yi1 。
+- ye4 han2 kou4 jiao3 bei1 sheng1 zhuang4 ， dan4 de2 niu2 fei2 dao4 yi4 fei2 。
 
 ## 注释
 

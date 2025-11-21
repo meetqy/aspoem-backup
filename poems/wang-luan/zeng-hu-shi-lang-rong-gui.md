@@ -6,10 +6,10 @@ titleSlug: zeng-hu-shi-lang-rong-gui
 author: 王鑾
 authorPinyin: wang2 luan2
 authorSlug: wang-luan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

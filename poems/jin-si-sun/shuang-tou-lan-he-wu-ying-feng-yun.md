@@ -6,10 +6,10 @@ titleSlug: shuang-tou-lan-he-wu-ying-feng-yun
 author: 金似孫
 authorPinyin: jin1 si4 sun1
 authorSlug: jin-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

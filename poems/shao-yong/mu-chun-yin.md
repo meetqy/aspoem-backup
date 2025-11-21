@@ -6,25 +6,25 @@ titleSlug: mu-chun-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春來小圃弄羣芳，誰爲貧居富貴鄉。
-- 門外柳陰浮翠澗，階前花影溜紅光。
-- 梁間新燕未調舌，天末歸鴻已著行。
-- 自問心源無所有，答云踈懶味偏長。
+- 許大春工造物華，一場狼藉但堪嗟。
+- 群芳委盡綠陰密，遊騎去殘紅日斜。
+- 臺上喧呼成蝶夢，眼前零落空楊花。
+- 人間萬事卒如此，□□莊□□□□。
 
 ## 拼音
 
-- chun1 lai2 xiao3 pu3 nong4 qun2 fang1 ， shui2 wei2 pin2 ju1 fu4 gui4 xiang1 。
-- men2 wai4 liu3 yin1 fu2 cui4 jian4 ， jie1 qian2 hua1 ying3 liu1 hong2 guang1 。
-- liang2 jian4 xin1 yan4 wei4 diao4 she2 ， tian1 mo4 gui1 hong2 yi3 zhu4 xing2 。
-- zi4 wen4 xin1 yuan2 wu2 suo3 you3 ， da2 yun2 shu1 lan3 wei4 pian1 chang2 。
+- xu1 da4 chun1 gong1 zao4 wu4 hua2 ， yi4 chang3 lang2 ji2 dan4 kan1 jie1 。
+- qun2 fang1 wei3 jin4 lü4 yin1 mi4 ， you2 qi2 qu4 can2 hong2 ri4 xie2 。
+- tai2 shang4 xuan1 hu1 cheng2 die2 meng4 ， yan3 qian2 ling2 luo4 kong1 yang2 hua1 。
+- ren2 jian4 wan4 shi4 zu2 ru2 ci3 ，□□ zhuang1 □□□□。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: lu-huai
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北風吹荒林，蕭騷起寒聲。
-- 客子耳中聞，展轉傷離情。
-- 親朋不在眼，他鄉但 {女孕 + 日}{女孕 + 日}。
-- 狐死亦首丘，奈此終身行。
+- 客路何當極，家林久未還。
+- 只今明鏡裏，又覺鬢毛斑。
+- 夜雨添春水，寒雲沒曉山。
+- 彊吟無好思，佳句也應慳。
 
 ## 拼音
 
-- bei3 feng1 chui1 huang1 lin2 ， xiao1 sao1 qi3 han2 sheng1 。
-- ke4 zi3 er3 zhong1 wen2 ， zhan3 zhuan3 shang1 li2 qing2 。
-- qin1 peng2 bu2 zai4 yan3 ， ta1 xiang1 dan4  { nü3 yun4  +  ri4 }{ nü3 yun4  +  ri4 }。
-- hu2 si3 yi4 shou3 qiu1 ， nai4 ci3 zhong1 shen1 xing2 。
+- ke4 lu4 he2 dang1 ji2 ， jia1 lin2 jiu3 wei4 huan2 。
+- zhi1 jin1 ming2 jing4 li3 ， you4 jue2 bin4 mao2 ban1 。
+- ye4 yu3 tian1 chun1 shui3 ， han2 yun2 mei2 xiao3 shan1 。
+- qiang2 yin2 wu2 hao3 si1 ， jia1 ju4 ye3 ying1 qian1 。
 
 ## 注释
 

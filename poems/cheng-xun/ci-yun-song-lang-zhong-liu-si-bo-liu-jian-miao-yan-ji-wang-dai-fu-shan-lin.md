@@ -6,10 +6,10 @@ titleSlug: ci-yun-song-lang-zhong-liu-si-bo-liu-jian-miao-yan-ji-wang-dai-fu-sha
 author: 程洵
 authorPinyin: cheng2 xun2
 authorSlug: cheng-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

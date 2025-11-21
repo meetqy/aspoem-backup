@@ -6,10 +6,10 @@ titleSlug: qian-xiu-cai-yao-she-ri-cheng-han-zai-shi-shu-yi-yu-zhi-qian-yi-chang
 author: 劉辰翁
 authorPinyin: liu2 chen2 weng1
 authorSlug: liu-chen-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

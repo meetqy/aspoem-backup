@@ -6,10 +6,10 @@ titleSlug: ji-wu-zheng-zhong-que-meng-ma-xing-zhi-dou-guan-mei-sheng-yu-tai-bo-h
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

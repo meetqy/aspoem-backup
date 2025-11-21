@@ -6,21 +6,21 @@ titleSlug: zai-ci-yun-si-shou-qi-yi
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山好能令肺病蘇，詩來把玩更驚吁。
-- 蜀人例作殘山看，端喜因詩免受誣。
+- 君家詩價自姑蘇，系胄蟬聯世唶吁。
+- 欲把阿元輕輩行，古今俗子喜相誣。
 
 ## 拼音
 
-- shan1 hao3 neng2 ling4 fei4 bing4 su1 ， shi1 lai2 ba3 wan2 geng4 jing1 xu1 。
-- shu3 ren2 li4 zuo4 can2 shan1 kan4 ， duan1 xi3 yin1 shi1 mian3 shou4 wu1 。
+- jun1 jia1 shi1 jia4 zi4 gu1 su1 ， xi4 zhou4 chan2 lian2 shi4 jie4 xu1 。
+- yu4 ba3 a1 yuan2 qing1 bei4 xing2 ， gu3 jin1 su2 zi3 xi3 xiang1 wu1 。
 
 ## 注释
 

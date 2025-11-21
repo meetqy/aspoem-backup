@@ -1,26 +1,26 @@
 ---
 id: shi-ru-gong-song-gu-si-shi-wu-shou-qi-yi
-title: 頌古四十五首  其一
-titlePinyin: song4 gu3 si4 shi2 wu3 shou3     qi2 yi1
+title: 頌古四十五首  其一○
+titlePinyin: song4 gu3 si4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: song-gu-si-shi-wu-shou-qi-yi
 author: 釋如珙
 authorPinyin: shi4 ru2 gong3
 authorSlug: shi-ru-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世尊拈花，迦葉微笑。
-- 正法眼藏，涅槃妙心。
+- 聞聲不見形，撼樹却惺惺。
+- 體用何須論，歸家落日明。
 
 ## 拼音
 
-- shi4 zun1 nian1 hua1 ， jia1 ye4 wei1 xiao4 。
-- zheng4 fa3 yan3 zang4 ， nie4 pan2 miao4 xin1 。
+- wen2 sheng1 bu2 jian4 xing2 ， han4 shu4 que4 xing1 xing1 。
+- ti3 yong4 he2 xu1 lun4 ， gui1 jia1 luo4 ri4 ming2 。
 
 ## 注释
 

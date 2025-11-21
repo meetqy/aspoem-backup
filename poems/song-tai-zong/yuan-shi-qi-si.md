@@ -1,30 +1,26 @@
 ---
 id: song-tai-zong-yuan-shi-qi-si
-title: 緣識  其四
-titlePinyin: yuan2 shi2     qi2 si4
+title: 緣識  其四○
+titlePinyin: yuan2 shi2     qi2 si4 ○
 titleSlug: yuan-shi-qi-si
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 當看浮生業，朝觀暮亦悲。
-- 笑迎先溟目，惡至聚愁眉。
-- 正直迴斜曲，冤逢不用推。
-- 小人心似獸，君子定無欺。
+- 如來千百億，化身本是真。
+- 駈駈煩惱不解嗔，我不能談說，舊却知新。
 
 ## 拼音
 
-- dang1 kan4 fu2 sheng1 ye4 ， chao2 guan1 mu4 yi4 bei1 。
-- xiao4 ying2 xian1 ming2 mu4 ， e4 zhi4 ju4 chou2 mei2 。
-- zheng4 zhi2 hui2 xie2 qu3 ， yuan1 feng2 bu2 yong4 tui1 。
-- xiao3 ren2 xin1 si4 shou4 ， jun1 zi3 ding4 wu2 qi1 。
+- ru2 lai2 qian1 bai3 yi4 ， hua4 shen1 ben3 shi4 zhen1 。
+- qu1 qu1 fan2 nao3 bu4 jie3 chen1 ， wo3 bu4 neng2 tan2 shuo1 ， jiu4 que4 zhi1 xin1 。
 
 ## 注释
 

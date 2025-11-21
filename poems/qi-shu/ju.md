@@ -6,10 +6,10 @@ titleSlug: ju
 author: 齊術
 authorPinyin: qi2 shu4
 authorSlug: qi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

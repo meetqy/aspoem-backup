@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-qi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 袍絮無堪換，柴錢久未還。
-- 有人來問字，賒酒醉花間。
+- 向人開口便言閒，每一題詩便說山。
+- 請俸坐曹食粱肉，又聞滿考轉官班。
 
 ## 拼音
 
-- pao2 xu4 wu2 kan1 huan4 ， chai2 qian2 jiu3 wei4 huan2 。
-- you3 ren2 lai2 wen4 zi4 ， she1 jiu3 zui4 hua1 jian4 。
+- xiang4 ren2 kai1 kou3 bian4 yan2 xian2 ， mei3 yi4 ti2 shi1 bian4 shuo1 shan1 。
+- qing3 feng4 zuo4 cao2 shi2 liang2 rou4 ， you4 wen2 man3 kao3 zhuan3 guan1 ban1 。
 
 ## 注释
 

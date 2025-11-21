@@ -6,10 +6,10 @@ titleSlug: ru-tian-zhang-dao-zhong
 author: 葉參
 authorPinyin: ye4 can1
 authorSlug: ye-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

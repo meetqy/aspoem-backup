@@ -6,10 +6,10 @@ titleSlug: cheng-fu-rong-kai-shan-shi
 author: 高世則
 authorPinyin: gao1 shi4 ze2
 authorSlug: gao-shi-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

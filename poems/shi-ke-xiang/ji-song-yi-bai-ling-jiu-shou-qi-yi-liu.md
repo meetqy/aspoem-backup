@@ -1,28 +1,30 @@
 ---
 id: shi-ke-xiang-ji-song-yi-bai-ling-jiu-shou-qi-yi-liu
-title: 偈頌一百零九首  其一六
-titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 yi1 liu4
+title: 偈頌一百零九首  其一○六
+titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 yi1 ○ liu4
 titleSlug: ji-song-yi-bai-ling-jiu-shou-qi-yi-liu
 author: 釋可湘
 authorPinyin: shi4 ke3 xiang1
 authorSlug: shi-ke-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一大藏教，了無關鑰。
-- 奇峰峩峩，幽石落落。
-- 撥轉機輪話已行，到底不留元字脚。
+- 光境易消磨，看看中夏過。
+- 長連床上客，本分事如何。
+- 本分事，沒回互。
+- 石梯侍者曾有言，某甲實是上堂去。
 
 ## 拼音
 
-- yi2 da4 zang4 jiao4 ， liao3 wu2 guan1 yue4 。
-- qi2 feng1 e2 e2 ， you1 shi2 luo4 luo4 。
-- bo1 zhuan3 ji1 lun2 hua4 yi3 xing2 ， dao4 di3 bu4 liu2 yuan2 zi4 jiao3 。
+- guang1 jing4 yi4 xiao1 mo2 ， kan4 kan4 zhong1 xia4 guo4 。
+- chang2 lian2 chuang2 shang4 ke4 ， ben3 fen4 shi4 ru2 he2 。
+- ben3 fen4 shi4 ， mei2 hui2 hu4 。
+- shi2 ti1 shi4 zhe3 ceng2 you3 yan2 ， mou3 jia3 shi2 shi4 shang4 tang2 qu4 。
 
 ## 注释
 

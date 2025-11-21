@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-yi
 author: 安分庵主
 authorPinyin: an1 fen4 an1 zhu3
 authorSlug: an-fen-an-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

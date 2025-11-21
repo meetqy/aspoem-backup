@@ -6,10 +6,10 @@ titleSlug: shan-ju-man-xing
 author: 吳端
 authorPinyin: wu2 duan1
 authorSlug: wu-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

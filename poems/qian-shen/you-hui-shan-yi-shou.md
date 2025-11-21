@@ -6,10 +6,10 @@ titleSlug: you-hui-shan-yi-shou
 author: 錢紳
 authorPinyin: qian2 shen1
 authorSlug: qian-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

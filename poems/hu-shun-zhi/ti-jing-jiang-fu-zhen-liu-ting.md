@@ -6,10 +6,10 @@ titleSlug: ti-jing-jiang-fu-zhen-liu-ting
 author: 胡舜陟
 authorPinyin: hu2 shun4 zhi4
 authorSlug: hu-shun-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

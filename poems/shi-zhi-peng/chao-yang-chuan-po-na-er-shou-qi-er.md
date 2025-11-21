@@ -6,10 +6,10 @@ titleSlug: chao-yang-chuan-po-na-er-shou-qi-er
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

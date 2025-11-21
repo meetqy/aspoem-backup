@@ -6,10 +6,10 @@ titleSlug: jin-ling-huai-gu
 author: 柴隨亨
 authorPinyin: chai2 sui2 heng1
 authorSlug: chai-sui-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

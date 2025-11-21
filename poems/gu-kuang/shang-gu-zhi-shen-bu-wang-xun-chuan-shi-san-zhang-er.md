@@ -9,20 +9,22 @@ authorSlug: gu-kuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 左車有赫，萬人毒螫。
-- 曷可去之，于黨孔碩。
-- 敏爾之生，胡爲草戚。
+- 築城奕奕，于以固敵。
+- 咨爾寺兮，發郊外冢甓。
+- 死而無知，猶或不可。
+- 若其有知，惟上帝是謫。
 
 ## 拼音
 
-- zuo3 ju1 you3 he4 ， wan4 ren2 du2 shi4 。
-- he2 ke3 qu4 zhi1 ， yu2 dang3 kong3 shuo4 。
-- min3 er3 zhi1 sheng1 ， hu2 wei2 cao3 qi1 。
+- zhu4 cheng2 yi4 yi4 ， yu2 yi3 gu4 di2 。
+- zi1 er3 si4 xi1 ， fa1 jiao1 wai4 zhong3 pi4 。
+- si3 er2 wu2 zhi1 ， you2 huo4 bu4 ke3 。
+- ruo4 qi2 you3 zhi1 ， wei2 shang4 di4 shi4 zhe2 。
 
 ## 注释
 

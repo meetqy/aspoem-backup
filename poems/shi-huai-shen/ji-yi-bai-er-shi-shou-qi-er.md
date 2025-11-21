@@ -1,26 +1,26 @@
 ---
 id: shi-huai-shen-ji-yi-bai-er-shi-shou-qi-er
-title: 偈一百二十首  其二
-titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 er4
+title: 偈一百二十首  其二○
+titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 er4 ○
 titleSlug: ji-yi-bai-er-shi-shou-qi-er
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵埋古鏡久偷安，匿耀潛輝度歲寒。
-- 今日光明藏不得，虛堂高掛任君看。
+- 一夜翻空大雪，玉殿銀樓皎潔。
+- 曉來庭際無人，莫道山僧不說。
 
 ## 拼音
 
-- chen2 mai2 gu3 jing4 jiu3 tou1 an1 ， ni4 yao4 qian2 hui1 du4 sui4 han2 。
-- jin1 ri4 guang1 ming2 cang2 bu4 de2 ， xu1 tang2 gao1 gua4 ren4 jun1 kan4 。
+- yi2 ye4 fan1 kong1 da4 xue3 ， yu4 dian4 yin2 lou2 jiao3 jie2 。
+- xiao3 lai2 ting2 ji4 wu2 ren2 ， mo4 dao4 shan1 seng1 bu4 shuo1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: you-da-di
 author: 曹誠明
 authorPinyin: cao2 cheng2 ming2
 authorSlug: cao-cheng-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

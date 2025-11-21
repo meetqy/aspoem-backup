@@ -1,26 +1,26 @@
 ---
 id: shi-shi-fan-ji-song-yi-bai-si-shi-yi-shou-qi-yi
-title: 偈頌一百四十一首  其一
-titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 yi1
+title: 偈頌一百四十一首  其一○○
+titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 yi1 ○ ○
 titleSlug: ji-song-yi-bai-si-shi-yi-shou-qi-yi
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前三後三，今日明日。
-- 達磨不會，九年面壁。
+- 二月春光明媚，是處花酣柳醉。
+- 五湖四海禪流，切忌開眼瞌睡。
 
 ## 拼音
 
-- qian2 san1 hou4 san1 ， jin1 ri4 ming2 ri4 。
-- da2 mo2 bu2 hui4 ， jiu3 nian2 mian4 bi4 。
+- er4 yue4 chun1 guang1 ming2 mei4 ， shi4 chu3 hua1 han1 liu3 zui4 。
+- wu3 hu2 si4 hai3 shan4 liu2 ， qie4 ji4 kai1 yan3 ke1 shui4 。
 
 ## 注释
 

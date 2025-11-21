@@ -6,10 +6,10 @@ titleSlug: bo-zhou-you-huai
 author: 良史偉長
 authorPinyin: liang2 shi3 wei3 chang2
 authorSlug: liang-shi-wei-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

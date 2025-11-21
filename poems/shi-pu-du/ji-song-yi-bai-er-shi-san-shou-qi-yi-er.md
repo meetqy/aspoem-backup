@@ -1,32 +1,32 @@
 ---
 id: shi-pu-du-ji-song-yi-bai-er-shi-san-shou-qi-yi-er
-title: 偈頌一百二十三首  其一二
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 er4
+title: 偈頌一百二十三首  其一二○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 er4 ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-er
 author: 釋普度
 authorPinyin: shi4 pu3 du4
 authorSlug: shi-pu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十五日已前，只許老胡知，不許老胡會。
-- 十五日已後，只許老胡會，不許老胡知。
-- 正當十五日，會不會，知不知。
-- 風細細，日遲遲。
-- 不惜黄金爲彈子，牡丹花下打黄鸝。
+- 踏斷洛陽橋，直上妙峰頂。
+- 拈得家傳黑竹篦，攪動龍淵千尺井。
+- 四五處雷動風行，八九十春花月影。
+- 爲人端的無情，獨脫單提誰領。
+- 竹篦雖折典刑存，聞見猶能發深省。
 
 ## 拼音
 
-- shi2 wu3 ri4 yi3 qian2 ， zhi1 xu1 lao3 hu2 zhi1 ， bu4 xu1 lao3 hu2 hui4 。
-- shi2 wu3 ri4 yi3 hou4 ， zhi1 xu1 lao3 hu2 hui4 ， bu4 xu1 lao3 hu2 zhi1 。
-- zheng4 dang1 shi2 wu3 ri4 ， hui4 bu0 hui4 ， zhi1 bu0 zhi1 。
-- feng1 xi4 xi4 ， ri4 chi2 chi2 。
-- bu4 xi1 huang2 jin1 wei2 dan4 zi3 ， mu3 dan1 hua1 xia4 da3 huang2 li2 。
+- ta4 duan4 luo4 yang2 qiao2 ， zhi2 shang4 miao4 feng1 ding3 。
+- nian1 de2 jia1 chuan2 hei1 zhu2 bi4 ， jiao3 dong4 long2 yuan1 qian1 chi3 jing3 。
+- si4 wu3 chu3 lei2 dong4 feng1 xing2 ， ba1 jiu3 shi2 chun1 hua1 yue4 ying3 。
+- wei2 ren2 duan1 di4 wu2 qing2 ， du2 tuo1 dan1 ti2 shui2 ling3 。
+- zhu2 bi4 sui1 zhe2 dian3 xing2 cun2 ， wen2 jian4 you2 neng2 fa1 shen1 xing3 。
 
 ## 注释
 

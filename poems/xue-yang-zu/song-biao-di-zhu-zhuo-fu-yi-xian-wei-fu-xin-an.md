@@ -6,10 +6,10 @@ titleSlug: song-biao-di-zhu-zhuo-fu-yi-xian-wei-fu-xin-an
 author: 薛揚祖
 authorPinyin: xue1 yang2 zu3
 authorSlug: xue-yang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

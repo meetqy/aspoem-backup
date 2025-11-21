@@ -6,25 +6,21 @@ titleSlug: tao-yuan-tu
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桃源分二種，半在此源栽。
-- 向爲逃秦去，今還歸趙來。
-- 山川猶古昔，人物不塵埃。
-- 劉阮何爲者，無言空自回。
+- 誤入仙源不記春，花間一見喜津津。
+- 可憐塵迹空遺恨，一樹桃花經幾秦。
 
 ## 拼音
 
-- tao2 yuan2 fen1 er4 zhong3 ， ban4 zai4 ci3 yuan2 zai1 。
-- xiang4 wei2 tao2 qin2 qu4 ， jin1 huan2 gui1 zhao4 lai2 。
-- shan1 chuan1 you2 gu3 xi1 ， ren2 wu4 bu4 chen2 ai1 。
-- liu2 ruan3 he2 wei2 zhe3 ， wu2 yan2 kong1 zi4 hui2 。
+- wu4 ru4 xian1 yuan2 bu2 ji4 chun1 ， hua1 jian4 yi2 jian4 xi3 jin1 jin1 。
+- ke3 lian2 chen2 ji4 kong1 yi2 hen4 ， yi2 shu4 tao2 hua1 jing1 ji1 qin2 。
 
 ## 注释
 

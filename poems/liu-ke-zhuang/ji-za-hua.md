@@ -6,21 +6,21 @@ titleSlug: ji-za-hua
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舜提歸□□，□□□□梁。
-- 束手無爭執，應慚此璽郎。
+- □□□□□，□□□□□。
+- 歷歷丹青意，如譏睡海棠。
 
 ## 拼音
 
-- shun4 ti2 gui1 □□，□□□□ liang2 。
-- shu4 shou3 wu2 zheng1 zhi2 ， ying1 can2 ci3 xi3 lang2 。
+- □□□□□，□□□□□。
+- li4 li4 dan1 qing1 yi4 ， ru2 ji1 shui4 hai3 tang2 。
 
 ## 注释
 

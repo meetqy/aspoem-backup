@@ -6,10 +6,10 @@ titleSlug: ti-wu-xi-er-shou-qi-er
 author: 蔣孝忠
 authorPinyin: jiang3 xiao4 zhong1
 authorSlug: jiang-xiao-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

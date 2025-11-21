@@ -6,10 +6,10 @@ titleSlug: xie-chai-shi-yu-song-he
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

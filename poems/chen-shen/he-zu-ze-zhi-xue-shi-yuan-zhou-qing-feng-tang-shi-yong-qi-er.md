@@ -6,10 +6,10 @@ titleSlug: he-zu-ze-zhi-xue-shi-yuan-zhou-qing-feng-tang-shi-yong-qi-er
 author: 陳詵
 authorPinyin: chen2 shen1
 authorSlug: chen-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

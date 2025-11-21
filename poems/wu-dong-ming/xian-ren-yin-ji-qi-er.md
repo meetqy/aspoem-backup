@@ -6,10 +6,10 @@ titleSlug: xian-ren-yin-ji-qi-er
 author: 吳洞明
 authorPinyin: wu2 dong4 ming2
 authorSlug: wu-dong-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

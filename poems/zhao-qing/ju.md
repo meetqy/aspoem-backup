@@ -9,12 +9,12 @@ authorSlug: zhao-qing
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 邁古文章金鸑鷟，出群行止玉麒麟。
+- 邁古文章金鸑鷟，出羣行止玉麒麟。
 
 ## 拼音
 

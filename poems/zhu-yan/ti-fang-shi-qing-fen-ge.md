@@ -6,10 +6,10 @@ titleSlug: ti-fang-shi-qing-fen-ge
 author: 朱彥
 authorPinyin: zhu1 yan4
 authorSlug: zhu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

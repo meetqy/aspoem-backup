@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 晁宗慤
 authorPinyin: chao2 zong1 que4
 authorSlug: chao-zong-que
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

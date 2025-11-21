@@ -6,10 +6,10 @@ titleSlug: seng-wen-si-bin-zhu-yin-er-you-song-song-zhi-qi-jiu
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

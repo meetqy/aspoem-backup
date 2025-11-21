@@ -6,10 +6,10 @@ titleSlug: xiao-ting-ye-zuo-ji-jing
 author: 趙必常
 authorPinyin: zhao4 bi4 chang2
 authorSlug: zhao-bi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

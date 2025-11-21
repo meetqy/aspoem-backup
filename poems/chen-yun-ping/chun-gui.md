@@ -6,21 +6,25 @@ titleSlug: chun-gui
 author: 陳允平
 authorPinyin: chen2 yun3 ping2
 authorSlug: chen-yun-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寞梨花院落閑，遠山愁入兩眉彎。
-- 黄金絡索珊瑚墜，獨立春風教白鷳。
+- 終日懷人倚翠闌，別長愁覺釧金寬。
+- 顰眉鈿葉拋鴛甃，彈淚燈花落鳳盤。
+- 梅粉有香供夜雨，柳絲無力受春寒。
+- 階前拾得相思子，自結羅囊繡合歡。
 
 ## 拼音
 
-- ji4 mo4 li2 hua1 yuan4 luo4 xian2 ， yuan3 shan1 chou2 ru4 liang3 mei2 wan1 。
-- huang2 jin1 luo4 suo3 shan1 hu2 zhui4 ， du2 li4 chun1 feng1 jiao4 bai2 xian2 。
+- zhong1 ri4 huai2 ren2 yi3 cui4 lan2 ， bie2 chang2 chou2 jue2 chuan4 jin1 kuan1 。
+- pin2 mei2 dian4 ye4 pao1 yuan1 zhou4 ， dan4 lei4 deng1 hua1 luo4 feng4 pan2 。
+- mei2 fen3 you3 xiang1 gong4 ye4 yu3 ， liu3 si1 wu2 li4 shou4 chun1 han2 。
+- jie1 qian2 shi2 de2 xiang1 si1 zi3 ， zi4 jie2 luo2 nang2 xiu4 he2 huan1 。
 
 ## 注释
 

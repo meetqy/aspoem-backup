@@ -6,10 +6,10 @@ titleSlug: ju
 author: 葉延壽
 authorPinyin: ye4 yan2 shou4
 authorSlug: ye-yan-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

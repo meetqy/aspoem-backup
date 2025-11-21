@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寓居溪陰剎，未暇理歸棹。
-- 遮眼闕文史，借書得探討。
-- 卷舒白虎通，涵泳青龍鈔。
-- 賢哉絕世書，欣然慰幽抱。
+- 門前露草嫩，極目遨青龍。
+- 策杖不知遠，看山兼別峰。
+- 曉厨尋晚筍，客供摘新菘。
+- 舌下清肥足，何勞細肋供。
 
 ## 拼音
 
-- yu4 ju1 xi1 yin1 cha4 ， wei4 xia2 li3 gui1 zhao4 。
-- zhe1 yan3 que4 wen2 shi3 ， jie4 shu1 de2 tan4 tao3 。
-- juan3 shu1 bai2 hu3 tong1 ， han2 yong3 qing1 long2 chao1 。
-- xian2 zai1 jue2 shi4 shu1 ， xin1 ran2 wei4 you1 bao4 。
+- men2 qian2 lu4 cao3 nen4 ， ji2 mu4 ao2 qing1 long2 。
+- ce4 zhang4 bu4 zhi1 yuan3 ， kan4 shan1 jian1 bie2 feng1 。
+- xiao3 chu2 xun2 wan3 sun3 ， ke4 gong4 zhai1 xin1 song1 。
+- she2 xia4 qing1 fei2 zu2 ， he2 lao2 xi4 lei4 gong4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: he-song-po-liu-yu-shi-er-shou-qi-yi
 author: 廖行之
 authorPinyin: liao4 xing2 zhi1
 authorSlug: liao-xing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

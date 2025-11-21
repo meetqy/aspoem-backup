@@ -6,9 +6,9 @@ titleSlug: yong-xi-shan-guang-fu-yuan-er-shou-qi-yi
 author: 楊璇
 authorPinyin: yang2 xuan2
 authorSlug: yang-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

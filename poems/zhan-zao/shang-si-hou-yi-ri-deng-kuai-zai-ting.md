@@ -6,10 +6,10 @@ titleSlug: shang-si-hou-yi-ri-deng-kuai-zai-ting
 author: 詹慥
 authorPinyin: zhan1 zao4
 authorSlug: zhan-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

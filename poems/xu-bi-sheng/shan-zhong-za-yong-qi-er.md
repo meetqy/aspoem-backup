@@ -6,10 +6,10 @@ titleSlug: shan-zhong-za-yong-qi-er
 author: 許必勝
 authorPinyin: xu1 bi4 sheng4
 authorSlug: xu-bi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

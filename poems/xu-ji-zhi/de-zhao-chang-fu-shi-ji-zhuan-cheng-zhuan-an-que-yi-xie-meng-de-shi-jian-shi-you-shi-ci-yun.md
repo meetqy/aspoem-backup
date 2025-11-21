@@ -6,10 +6,10 @@ titleSlug: de-zhao-chang-fu-shi-ji-zhuan-cheng-zhuan-an-que-yi-xie-meng-de-shi-j
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

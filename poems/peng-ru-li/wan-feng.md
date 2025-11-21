@@ -6,25 +6,21 @@ titleSlug: wan-feng
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南北東西萬里通，往來長與水無窮。
-- 役心一日空隋力，餘澤千年謝禹功。
-- 滿道柳陰低翠幄，夾堤橋影臥長虹。
-- 樂游不及先生快，坐看千航起晚風。
+- 晚風吹月上天涯，一夜光寒獨自知。
+- 始信花開俱有意，可言雲淡獨無思。
 
 ## 拼音
 
-- nan2 bei3 dong1 xi1 wan4 li3 tong1 ， wang3 lai2 chang2 yu3 shui3 wu2 qiong2 。
-- yi4 xin1 yi2 ri4 kong1 sui2 li4 ， yu2 ze2 qian1 nian2 xie4 yu3 gong1 。
-- man3 dao4 liu3 yin1 di1 cui4 wo4 ， jia1 di1 qiao2 ying3 wo4 chang2 hong2 。
-- le4 you2 bu4 ji2 xian1 sheng0 kuai4 ， zuo4 kan4 qian1 hang2 qi3 wan3 feng1 。
+- wan3 feng1 chui1 yue4 shang4 tian1 ya2 ， yi2 ye4 guang1 han2 du2 zi4 zhi1 。
+- shi3 xin4 hua1 kai1 ju4 you3 yi4 ， ke3 yan2 yun2 dan4 du2 wu2 si1 。
 
 ## 注释
 

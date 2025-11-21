@@ -6,10 +6,10 @@ titleSlug: liu-zi-lu-jian-huai-xiao-qiao-zhu-li-lu-ru-meng-mei-yin-ji
 author: 李洪
 authorPinyin: li3 hong2
 authorSlug: li-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

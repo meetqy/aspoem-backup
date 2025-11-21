@@ -6,21 +6,25 @@ titleSlug: chu-you-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝行躡屩穿幽谷，暮返褰裳涉亂流。
-- 提起短笻成一笑，毎煩上座爲分憂。
+- 綠樹魚鹽市，青蕪雉兔場。
+- 采桑村女集，入學幼童忙。
+- 戶賽祈蠶願，家藏問孝章。
+- 村坊多美酒，爛醉答年光。
 
 ## 拼音
 
-- chao2 xing2 nie4 jue1 chuan1 you1 gu3 ， mu4 fan3 qian1 shang0 she4 luan4 liu2 。
-- ti2 qi3 duan3 qiong2 cheng2 yi2 xiao4 ， mei3 fan2 shang4 zuo4 wei2 fen1 you1 。
+- lü4 shu4 yu2 yan2 shi4 ， qing1 wu2 zhi4 tu4 chang3 。
+- cai3 sang1 cun1 nü3 ji2 ， ru4 xue2 you4 tong2 mang2 。
+- hu4 sai4 qi2 can2 yuan4 ， jia1 cang2 wen4 xiao4 zhang1 。
+- cun1 fang1 duo1 mei3 jiu3 ， lan4 zui4 da2 nian2 guang1 。
 
 ## 注释
 

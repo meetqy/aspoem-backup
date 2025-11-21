@@ -9,18 +9,18 @@ authorSlug: han-hong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 駿馬繡障泥，紅塵撲四蹄。
-- 歸時何太晚，日照杏花西。
+- 五柞宮中過臘看，萬年枝上雪花殘。
+- 綺窗夜閉玉堂靜，素綆朝穿金井寒。
 
 ## 拼音
 
-- jun4 ma3 xiu4 zhang4 ni2 ， hong2 chen2 pu1 si4 ti2 。
-- gui1 shi2 he2 tai4 wan3 ， ri4 zhao4 xing4 hua1 xi1 。
+- wu3 zha4 gong1 zhong1 guo4 la4 kan4 ， wan4 nian2 zhi1 shang4 xue3 hua1 can2 。
+- qi3 chuang1 ye4 bi4 yu4 tang2 jing4 ， su4 geng3 chao2 chuan1 jin1 jing3 han2 。
 
 ## 注释
 

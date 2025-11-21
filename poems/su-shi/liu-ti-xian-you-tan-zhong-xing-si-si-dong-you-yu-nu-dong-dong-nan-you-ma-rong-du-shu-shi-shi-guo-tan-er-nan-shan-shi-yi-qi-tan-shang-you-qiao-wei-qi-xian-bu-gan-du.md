@@ -6,10 +6,10 @@ titleSlug: liu-ti-xian-you-tan-zhong-xing-si-si-dong-you-yu-nu-dong-dong-nan-you
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

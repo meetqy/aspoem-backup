@@ -6,9 +6,9 @@ titleSlug: qing-luo-xi-ying-gong-da-shi-xiang-fang
 author: 許仲宣
 authorPinyin: xu1 zhong4 xuan1
 authorSlug: xu-zhong-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

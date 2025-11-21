@@ -6,10 +6,10 @@ titleSlug: shi-er-ying-yan-jiang-yi
 author: 丁偃
 authorPinyin: ding1 yan3
 authorSlug: ding-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

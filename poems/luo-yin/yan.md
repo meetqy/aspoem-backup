@@ -1,7 +1,7 @@
 ---
 id: luo-yin-yan
-title: 燕
-titlePinyin: yan4
+title: 言
+titlePinyin: yan2
 titleSlug: yan
 author: 羅隱
 authorPinyin: luo2 yin3
@@ -9,22 +9,22 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 不必嫌漂露，何妨養羽毛。
-- 漢妃金屋遠，盧女杏梁高。
-- 野迥雙飛急，煙晴對語勞。
-- 猶勝黃雀在，棲息是蓬蒿。
+- 珪玷由來尚可磨，似簧終日復如何。
+- 成名成事皆因慎，亡國亡家只爲多。
+- 須信禍胎生利口，莫將譏思逞懸河。
+- 猩猩鸚鵡無端解，長向人間被網羅。
 
 ## 拼音
 
-- bu2 bi4 xian2 piao1 lu4 ， he2 fang2 yang3 yu3 mao2 。
-- han4 fei1 jin1 wu1 yuan3 ， lu2 nü3 xing4 liang2 gao1 。
-- ye3 jiong3 shuang1 fei1 ji2 ， yan1 qing2 dui4 yu3 lao2 。
-- you2 sheng4 huang2 que4 zai4 ， qi1 xi1 shi4 peng2 hao1 。
+- gui1 dian4 you2 lai2 shang4 ke3 mo2 ， si4 huang2 zhong1 ri4 fu4 ru2 he2 。
+- cheng2 ming2 cheng2 shi4 jie1 yin1 shen4 ， wang2 guo2 wang2 jia1 zhi1 wei2 duo1 。
+- xu1 xin4 huo4 tai1 sheng1 li4 kou3 ， mo4 jiang1 ji1 si1 cheng3 xuan2 he2 。
+- xing1 xing0 ying1 wu3 wu2 duan1 jie3 ， chang2 xiang4 ren2 jian4 bei4 wang3 luo2 。
 
 ## 注释
 

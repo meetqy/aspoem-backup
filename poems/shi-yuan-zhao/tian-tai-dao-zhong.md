@@ -6,25 +6,25 @@ titleSlug: tian-tai-dao-zhong
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 麥壠桑麻接，行行百里賒。
-- 一番飛穀雨，滿地落桐花。
-- 水曲成三渡，山坳忽數家。
-- 歸來襟袖上，猶带赤城霞。
+- 台嶺岧嶢道路長，周遭無數接青蒼。
+- 溪頭枯樹如人立，峯頂孤松似傘張。
+- 片片開田種階級，家家壘石作門牆。
+- 籃輿摇兀東風裏，却憶西州上野航。
 
 ## 拼音
 
-- mai4 long3 sang1 ma2 jie1 ， xing2 xing2 bai3 li3 she1 。
-- yi4 fan1 fei1 gu3 yu3 ， man3 di4 luo4 tong2 hua1 。
-- shui3 qu3 cheng2 san1 du4 ， shan1 ao4 hu1 shu4 jia1 。
-- gui1 lai2 jin1 xiu4 shang4 ， you2 dai4 chi4 cheng2 xia2 。
+- tai2 ling3 tiao2 yao2 dao4 lu4 chang2 ， zhou1 zao1 wu2 shu4 jie1 qing1 cang1 。
+- xi1 tou2 ku1 shu4 ru2 ren2 li4 ， feng1 ding3 gu1 song1 si4 san3 zhang1 。
+- pian4 pian4 kai1 tian2 zhong3 jie1 ji2 ， jia1 jia1 lei3 shi2 zuo4 men2 qiang2 。
+- lan2 yu2 yao2 wu4 dong1 feng1 li3 ， que4 yi4 xi1 zhou1 shang4 ye3 hang2 。
 
 ## 注释
 

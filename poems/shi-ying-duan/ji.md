@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋應端
 authorPinyin: shi4 ying1 duan1
 authorSlug: shi-ying-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

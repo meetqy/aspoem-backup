@@ -6,10 +6,10 @@ titleSlug: jia-he-ba-yong-yue-bo-lou
 author: 陸蒙老
 authorPinyin: lu4 meng2 lao3
 authorSlug: lu-meng-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

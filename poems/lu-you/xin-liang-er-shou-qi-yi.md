@@ -6,25 +6,25 @@ titleSlug: xin-liang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山居謝來客，病體喜新凉。
-- 幽草上牆綠，落花霑土香。
-- 捐書心自息，聽雨夢偏長。
-- 菰葉鄰人餉，欣然獨舉觴。
+- 儘道新凉好，無如晝漏長。
+- 奇文窺楚屈，妙理玩蒙莊。
+- 靜卧貧猶樂，高歌醒亦狂。
+- 翩翩雙蝶子，也似惜年光。
 
 ## 拼音
 
-- shan1 ju1 xie4 lai2 ke4 ， bing4 ti3 xi3 xin1 liang2 。
-- you1 cao3 shang4 qiang2 lü4 ， luo4 hua1 zhan1 tu3 xiang1 。
-- juan1 shu1 xin1 zi4 xi1 ， ting1 yu3 meng4 pian1 chang2 。
-- gu1 ye4 lin2 ren2 xiang3 ， xin1 ran2 du2 ju3 shang1 。
+- jin3 dao4 xin1 liang2 hao3 ， wu2 ru2 zhou4 lou4 chang2 。
+- qi2 wen2 kui1 chu3 qu1 ， miao4 li3 wan2 meng2 zhuang1 。
+- jing4 wo4 pin2 you2 le4 ， gao1 ge1 xing3 yi4 kuang2 。
+- pian1 pian1 shuang1 die2 zi0 ， ye3 si4 xi1 nian2 guang1 。
 
 ## 注释
 

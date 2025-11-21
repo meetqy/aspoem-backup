@@ -6,10 +6,10 @@ titleSlug: hu-qiu
 author: 方仲荀
 authorPinyin: fang1 zhong4 xun2
 authorSlug: fang-zhong-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: zeng-xu-ding-chen-chang-shi
 author: 釋印粲
 authorPinyin: shi4 yin4 can4
 authorSlug: shi-yin-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

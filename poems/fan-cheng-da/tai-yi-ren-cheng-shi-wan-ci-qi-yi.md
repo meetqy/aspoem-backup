@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-tai-yi-ren-cheng-shi-wan-ci-qi-yi
-title: 太宜人程氏輓詞・其一
-titlePinyin: tai4 yi2 ren2 cheng2 shi4 wan3 ci2・qi2 yi1
+title: 太宜人程氏輓詞  其一
+titlePinyin: tai4 yi2 ren2 cheng2 shi4 wan3 ci2     qi2 yi1
 titleSlug: tai-yi-ren-cheng-shi-wan-ci-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

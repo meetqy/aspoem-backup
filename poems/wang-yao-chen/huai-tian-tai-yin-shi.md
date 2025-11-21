@@ -6,10 +6,10 @@ titleSlug: huai-tian-tai-yin-shi
 author: 王堯臣
 authorPinyin: wang2 yao2 chen2
 authorSlug: wang-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

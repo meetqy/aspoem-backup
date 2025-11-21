@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-yi-yi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 逍遥賢聖樂，我悶俗情愚。
-- 鄙俚何堪數，斟量解卷舒。
-- 惡緣須盡去，善事好相於。
-- 忙急真如夢，乾坤造化殊。
+- 信天緣便信天緣，那是凡夫那仙。
+- 勿枉用心閑過日，來隨福報猛如泉。
 
 ## 拼音
 
-- xiao1 yao2 xian2 sheng4 le4 ， wo3 men4 su2 qing2 yu2 。
-- bi3 li3 he2 kan1 shu4 ， zhen1 liang2 jie3 juan4 shu1 。
-- e4 yuan2 xu1 jin4 qu4 ， shan4 shi4 hao3 xiang1 wu1 。
-- mang2 ji2 zhen1 ru2 meng4 ， qian2 kun1 zao4 hua4 shu1 。
+- xin4 tian1 yuan2 bian4 xin4 tian1 yuan2 ， na4 shi4 fan2 fu1 na4 xian1 。
+- wu4 wang3 yong4 xin1 xian2 guo4 ri4 ， lai2 sui2 fu2 bao4 meng3 ru2 quan2 。
 
 ## 注释
 

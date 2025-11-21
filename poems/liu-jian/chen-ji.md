@@ -1,6 +1,6 @@
 ---
 id: liu-jian-chen-ji
-title: 晨鷄
+title: 晨雞
 titlePinyin: chen2 ji1
 titleSlug: chen-ji
 author: 劉兼
@@ -15,7 +15,7 @@ tags: []
 ## 正文
 
 - 朱冠金距綵毛身，昧爽高聲已報晨。
-- 作瑞莫慚先貢楚，擅場須信獨推秦。
+- 作瑞莫慚先貢楚，擅塲須信獨推秦。
 - 淮南也伴升仙犬，函谷曾容借曉人。
 - 此日卑棲隨飲啄，宰君驅我亦相馴。
 

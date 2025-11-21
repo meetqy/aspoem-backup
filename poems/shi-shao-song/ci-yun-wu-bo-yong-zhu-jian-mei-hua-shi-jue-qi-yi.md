@@ -1,26 +1,26 @@
 ---
 id: shi-shao-song-ci-yun-wu-bo-yong-zhu-jian-mei-hua-shi-jue-qi-yi
-title: 次韻吳伯庸竹間梅花十絕  其一
-titlePinyin: ci4 yun4 wu2 bo2 yong1 zhu2 jian4 mei2 hua1 shi2 jue2     qi2 yi1
+title: 次韻吳伯庸竹間梅花十絕  其一○
+titlePinyin: ci4 yun4 wu2 bo2 yong1 zhu2 jian4 mei2 hua1 shi2 jue2     qi2 yi1 ○
 titleSlug: ci-yun-wu-bo-yong-zhu-jian-mei-hua-shi-jue-qi-yi
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹間初拆半斜枝，正是周王二月時。
-- 竹映梅花花映竹，主人不剪要題詩。
+- 竹與梅花相並枝，月明還見影參差。
+- 撚梅細比新詩看，酷似梅花太瘦時。
 
 ## 拼音
 
-- zhu2 jian4 chu1 chai1 ban4 xie2 zhi1 ， zheng4 shi4 zhou1 wang2 er4 yue4 shi2 。
-- zhu2 ying4 mei2 hua1 hua1 ying4 zhu2 ， zhu3 ren2 bu4 jian3 yao4 ti2 shi1 。
+- zhu2 yu3 mei2 hua1 xiang1 bing4 zhi1 ， yue4 ming2 huan2 jian4 ying3 can1 cha4 。
+- nian3 mei2 xi4 bi3 xin1 shi1 kan4 ， ku4 si4 mei2 hua1 tai4 shou4 shi2 。
 
 ## 注释
 

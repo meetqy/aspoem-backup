@@ -6,10 +6,10 @@ titleSlug: jiu-ri-tong-chu-zhen-zhu-yuan-zai-yong-qian-yun
 author: 林光宗
 authorPinyin: lin2 guang1 zong1
 authorSlug: lin-guang-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

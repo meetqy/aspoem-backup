@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-si
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 涪上拾遺今日，泉聲一炷青雲。
-- 會道傷春傷別，世間惟有司勳。
+- 神農醫王七十毒，金粟如來四百病。
+- 未如一卷混沌書，淡飯麤羹學清凈。
 
 ## 拼音
 
-- fu2 shang4 shi2 yi2 jin1 ri4 ， quan2 sheng1 yi2 zhu4 qing1 yun2 。
-- hui4 dao4 shang1 chun1 shang1 bie2 ， shi4 jian4 wei2 you3 si1 xun1 。
+- shen2 nong2 yi1 wang2 qi1 shi2 du2 ， jin1 su4 ru2 lai2 si4 bai3 bing4 。
+- wei4 ru2 yi1 juan4 hun4 dun4 shu1 ， dan4 fan4 cu1 geng1 xue2 qing1 jing4 。
 
 ## 注释
 

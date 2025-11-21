@@ -6,25 +6,25 @@ titleSlug: chun-xiao
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 喔喔雞號野，昏昏月挂樓。
-- 夢隨殘漏斷，愁伴宿酲留。
-- 壯士看清鏡，春寒著弊裘。
-- 拂窗新柳色，最憶錦江頭。
+- 初見天窗一點明，旋看曉色到簷楹。
+- 衾裯溫暖留殘夢，鳥雀呼鳴報快晴。
+- 雖喜心隨年愈老，却愁事與日俱生。
+- 平川漫漫烟蕪綠，筋力猶堪給耦耕。
 
 ## 拼音
 
-- wo1 wo1 ji1 hao4 ye3 ， hun1 hun1 yue4 gua4 lou2 。
-- meng4 sui2 can2 lou4 duan4 ， chou2 ban4 su4 cheng2 liu2 。
-- zhuang4 shi4 kan4 qing1 jing4 ， chun1 han2 zhu4 bi4 qiu2 。
-- fu2 chuang1 xin1 liu3 se4 ， zui4 yi4 jin3 jiang1 tou2 。
+- chu1 jian4 tian1 chuang1 yi4 dian3 ming2 ， xuan2 kan4 xiao3 se4 dao4 yan2 ying2 。
+- qin1 dao1 wen1 nuan3 liu2 can2 meng4 ， niao3 que4 hu1 ming2 bao4 kuai4 qing2 。
+- sui1 xi3 xin1 sui2 nian2 yu4 lao3 ， que4 chou2 shi4 yu3 ri4 ju4 sheng1 。
+- ping2 chuan1 man4 man4 yan1 wu2 lü4 ， jin1 li4 you2 kan1 gei3 ou3 geng1 。
 
 ## 注释
 

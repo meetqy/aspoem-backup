@@ -6,10 +6,10 @@ titleSlug: yu-wei-jian-xin-tong-he-wan-yan-yu-shi-yi-lian-bu-ta-yue-yun
 author: 甘泳
 authorPinyin: gan1 yong3
 authorSlug: gan-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

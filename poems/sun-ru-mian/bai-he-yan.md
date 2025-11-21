@@ -6,10 +6,10 @@ titleSlug: bai-he-yan
 author: 孫汝勉
 authorPinyin: sun1 ru3 mian3
 authorSlug: sun-ru-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

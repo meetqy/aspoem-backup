@@ -6,21 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-jiu-ba
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風前不見花中葉，雨後難尋葉底花。
-- 蜂蝶紛紛過牆去，只疑春色在鄰家。
+- 不守蠟人冰，不憐鵝護雪。
+- 互用六根門，大地一團鐵。
+- 百雜碎了也，妙盡依亡。
+- 肱枕綠蘿形影絕，獻花百鳥自空忙。
 
 ## 拼音
 
-- feng1 qian2 bu2 jian4 hua1 zhong1 ye4 ， yu3 hou4 nan2 xun2 ye4 di3 hua1 。
-- feng1 die2 fen1 fen1 guo4 qiang2 qu4 ， zhi1 yi2 chun1 se4 zai4 lin2 jia1 。
+- bu4 shou3 la4 ren2 bing1 ， bu4 lian2 e2 hu4 xue3 。
+- hu4 yong4 liu4 gen1 men2 ， da4 di4 yi4 tuan2 tie3 。
+- bai3 za2 sui4 le0 ye3 ， miao4 jin4 yi1 wang2 。
+- gong1 zhen3 lü4 luo2 xing2 ying3 jue2 ， xian4 hua1 bai3 niao3 zi4 kong1 mang2 。
 
 ## 注释
 

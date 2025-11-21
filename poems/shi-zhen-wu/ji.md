@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋真悟
 authorPinyin: shi4 zhen1 wu4
 authorSlug: shi-zhen-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

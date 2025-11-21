@@ -6,10 +6,10 @@ titleSlug: wei-xiang-zi-yin-xie-gua-ying-bing-ti
 author: 狄偁
 authorPinyin: di2 cheng1
 authorSlug: di-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

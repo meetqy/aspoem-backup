@@ -9,24 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 欲得速成佛，祇學無生忍。
-- 非常省心力，當時煩惱盡。
-- 七寶藏門開，智慧無窮盡。
-- 廣演波羅蜜，無心可鄙吝。
-- 祇恐着有人，愚癡自不信。
+- 黃葉飄零化作塵，本來非妄亦非真。
+- 有情故宅含秋色，無名君子湛然春。
 
 ## 拼音
 
-- yu4 de2 su4 cheng2 fo2 ， qi2 xue2 wu2 sheng1 ren3 。
-- fei1 chang2 sheng3 xin1 li4 ， dang1 shi2 fan2 nao3 jin4 。
-- qi1 bao3 cang2 men2 kai1 ， zhi4 hui4 wu2 qiong2 jin4 。
-- guang3 yan3 bo1 luo2 mi4 ， wu2 xin1 ke3 bi3 lin4 。
-- qi2 kong3 zhe0 you3 ren2 ， yu2 chi1 zi4 bu2 xin4 。
+- huang2 ye4 piao1 ling2 hua4 zuo4 chen2 ， ben3 lai2 fei1 wang4 yi4 fei1 zhen1 。
+- you3 qing2 gu4 zhai2 han2 qiu1 se4 ， wu2 ming2 jun1 zi3 zhan4 ran2 chun1 。
 
 ## 注释
 

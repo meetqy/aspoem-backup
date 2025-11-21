@@ -6,10 +6,10 @@ titleSlug: yu-yang-zheng-fu-yang-cun-zi-shang-feng-lian-ju
 author: 王南運
 authorPinyin: wang2 nan2 yun4
 authorSlug: wang-nan-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 王俊彥
 authorPinyin: wang2 jun4 yan4
 authorSlug: wang-jun-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: xi-zhou-mo
 author: 宋溫故
 authorPinyin: song4 wen1 gu4
 authorSlug: song-wen-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

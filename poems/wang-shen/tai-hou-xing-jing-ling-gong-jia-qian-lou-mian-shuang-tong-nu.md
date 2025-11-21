@@ -6,10 +6,10 @@ titleSlug: tai-hou-xing-jing-ling-gong-jia-qian-lou-mian-shuang-tong-nu
 author: 王紳
 authorPinyin: wang2 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: han-shi
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漢宮新蠟未開煙，寒食東郊躍駿天。
-- 人面映花誰感事，客心燃火獨成篇。
-- 塞鴻歸渚遥書字，營柳因風强破眠。
-- 賴有目前隨分景，數村如樹起鞦韆。
+- 塞上逢寒食，郊園此重臨。
+- 一時行樂意，萬室欲春心。
+- 節物隨人好，風光得處深。
+- 只思民盡適，守鬢忘霜侵。
 
 ## 拼音
 
-- han4 gong1 xin1 la4 wei4 kai1 yan1 ， han2 shi2 dong1 jiao1 yue4 jun4 tian1 。
-- ren2 mian4 ying4 hua1 shui2 gan3 shi4 ， ke4 xin1 ran2 huo3 du2 cheng2 pian1 。
-- sai1 hong2 gui1 zhu3 yao2 shu1 zi4 ， ying2 liu3 yin1 feng1 qiang2 po4 mian2 。
-- lai4 you3 mu4 qian2 sui2 fen1 jing3 ， shu4 cun1 ru2 shu4 qi3 qiu1 qian1 。
+- sai4 shang4 feng2 han2 shi2 ， jiao1 yuan2 ci3 zhong4 lin2 。
+- yi4 shi2 xing2 le4 yi4 ， wan4 shi4 yu4 chun1 xin1 。
+- jie2 wu4 sui2 ren2 hao3 ， feng1 guang1 de2 chu3 shen1 。
+- zhi1 si1 min2 jin4 shi4 ， shou3 bin4 wang4 shuang1 qin1 。
 
 ## 注释
 

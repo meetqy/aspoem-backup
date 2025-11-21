@@ -6,10 +6,10 @@ titleSlug: er-yue-shi-ri-ye-bu-cheng-nan-wan-yu-wu-bo-cheng-zhu-you-yin-pei-tai-
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

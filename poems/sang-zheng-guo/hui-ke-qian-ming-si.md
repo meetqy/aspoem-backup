@@ -6,10 +6,10 @@ titleSlug: hui-ke-qian-ming-si
 author: 桑正國
 authorPinyin: sang1 zheng4 guo2
 authorSlug: sang-zheng-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

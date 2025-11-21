@@ -6,10 +6,10 @@ titleSlug: zhao-ling-liu-ma-tang-wen-huang-zhan-ma-ye-zhuo-shi-xiang-zhi-li-zhao
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

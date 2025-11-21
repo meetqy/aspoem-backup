@@ -6,27 +6,25 @@ titleSlug: shu-ji-tang
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徂暑亦已煩，清旦尚餘爽。
-- 薰風應候至，芳物與春往。
-- 庭樹交浮陰，山禽轉清響。
-- 空堂更幽寂，初日正蒼莽。
-- 時節無所感，忘言以爲賞。
+- 閉門吾自足，況亦近墻東。
+- 滴滴階鳴雨，梢梢竹過風。
+- 綠苔侵杖屨，秋色近梧桐。
+- 高臥殊多興，詩成寂寞中。
 
 ## 拼音
 
-- cu2 shu3 yi4 yi3 fan2 ， qing1 dan4 shang4 yu2 shuang3 。
-- xun1 feng1 ying1 hou4 zhi4 ， fang1 wu4 yu3 chun1 wang3 。
-- ting2 shu4 jiao1 fu2 yin1 ， shan1 qin2 zhuan3 qing1 xiang3 。
-- kong1 tang2 geng4 you1 ji4 ， chu1 ri4 zheng4 cang1 mang3 。
-- shi2 jie2 wu2 suo3 gan3 ， wang4 yan2 yi3 wei2 shang3 。
+- bi4 men2 wu2 zi4 zu2 ， kuang4 yi4 jin4 qiang2 dong1 。
+- di1 di1 jie1 ming2 yu3 ， shao1 shao1 zhu2 guo4 feng1 。
+- lü4 tai2 qin1 zhang4 ju4 ， qiu1 se4 jin4 wu2 tong2 。
+- gao1 wo4 shu1 duo1 xing1 ， shi1 cheng2 ji4 mo4 zhong1 。
 
 ## 注释
 

@@ -1,7 +1,7 @@
 ---
 id: li-jiao-wu
-title: 霧
-titlePinyin: wu4
+title: 烏
+titlePinyin: wu1
 titleSlug: wu
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 曹公迷楚澤，漢帝出平城。
-- 涿鹿妖氛靜，丹山霽色明。
-- 類煙飛稍重，方雨散還輕。
-- 倘入非熊兆，寧思玄豹情。
+- 日路朝飛急，霜臺夕影寒。
+- 聯翩依月樹，迢遞繞風竿。
+- 白首何年改，青琴此夜彈。
+- 靈臺如可託，千里向長安。
 
 ## 拼音
 
-- cao2 gong1 mi2 chu3 ze2 ， han4 di4 chu1 ping2 cheng2 。
-- zhuo1 lu4 yao1 fen1 jing4 ， dan1 shan1 ji4 se4 ming2 。
-- lei4 yan1 fei1 shao1 zhong4 ， fang1 yu3 san4 huan2 qing1 。
-- tang3 ru4 fei1 xiong2 zhao4 ， ning2 si1 xuan2 bao4 qing2 。
+- ri4 lu4 chao2 fei1 ji2 ， shuang1 tai2 xi1 ying3 han2 。
+- lian2 pian1 yi1 yue4 shu4 ， tiao2 di4 rao4 feng1 gan1 。
+- bai2 shou3 he2 nian2 gai3 ， qing1 qin2 ci3 ye4 dan4 。
+- ling2 tai2 ru2 ke3 tuo1 ， qian1 li3 xiang4 chang2 an1 。
 
 ## 注释
 

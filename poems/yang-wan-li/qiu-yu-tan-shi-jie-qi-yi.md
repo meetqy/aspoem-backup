@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-qiu-yu-tan-shi-jie-qi-yi
-title: 秋雨歎十解  其一
-titlePinyin: qiu1 yu3 tan4 shi2 jie3     qi2 yi1
+title: 秋雨歎十解  其一○
+titlePinyin: qiu1 yu3 tan4 shi2 jie3     qi2 yi1 ○
 titleSlug: qiu-yu-tan-shi-jie-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨入秋宵滴到明，不知有意復無情。
-- 若言不攪愁人夢，爲許千千萬萬聲。
+- 不是簷聲不放眠，只將愁思壓衰年。
+- 道他滴瀝渾無頼，不到侯門舞袖邊。
 
 ## 拼音
 
-- yu3 ru4 qiu1 xiao1 di1 dao4 ming2 ， bu4 zhi1 you3 yi4 fu4 wu2 qing2 。
-- ruo4 yan2 bu4 jiao3 chou2 ren2 meng4 ， wei2 xu1 qian1 qian1 wan4 wan4 sheng1 。
+- bu2 shi4 yan2 sheng1 bu2 fang4 mian2 ， zhi1 jiang1 chou2 si1 ya1 shuai1 nian2 。
+- dao4 ta1 di1 li4 hun2 wu2 lai4 ， bu2 dao4 hou2 men2 wu3 xiu4 bian1 。
 
 ## 注释
 

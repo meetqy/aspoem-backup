@@ -6,10 +6,10 @@ titleSlug: qiu-ri-du-jiang
 author: 黄極
 authorPinyin: huang2 ji2
 authorSlug: huang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

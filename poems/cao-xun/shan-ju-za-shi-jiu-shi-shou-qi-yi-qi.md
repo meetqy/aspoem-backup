@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-qi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 棄官了無事，飯餘心境空。
-- 清琴或數弄，濁酒時一中。
-- 人生苦不閑，得閑須從容。
-- 閉門適吾樂，三籟皆同功。
+- 連日山村雨，牛羊都在欄。
+- 低田漬積水，卧穗鋪新寒。
+- 氣逼琴絲潤，香傳巖桂丹。
+- 天光惜壠畝，應放月團團。
 
 ## 拼音
 
-- qi4 guan1 le0 wu2 shi4 ， fan4 yu2 xin1 jing4 kong1 。
-- qing1 qin2 huo4 shu4 nong4 ， zhuo2 jiu3 shi2 yi4 zhong1 。
-- ren2 sheng1 ku3 bu4 xian2 ， de2 xian2 xu1 cong2 rong2 。
-- bi4 men2 shi4 wu2 le4 ， san1 lai4 jie1 tong2 gong1 。
+- lian2 ri4 shan1 cun1 yu3 ， niu2 yang2 dou1 zai4 lan2 。
+- di1 tian2 zi4 ji1 shui3 ， wo4 sui4 pu1 xin1 han2 。
+- qi4 bi1 qin2 si1 run4 ， xiang1 chuan2 yan2 gui4 dan1 。
+- tian1 guang1 xi1 long3 mu3 ， ying1 fang4 yue4 tuan2 tuan2 。
 
 ## 注释
 

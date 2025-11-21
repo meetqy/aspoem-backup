@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-si
-title: 梅花集句  其四
-titlePinyin: mei2 hua1 ji2 ju4     qi2 si4
+title: 梅花集句  其四○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 si4 ○
 titleSlug: mei-hua-ji-ju-qi-si
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 粉容冰艷玉玲瓏，此外評花四海空。
-- 可惜國香天不管，吹開吹落任東風。
+- 撚玉搓瓊軟復圓，衣篝不用綠沉煙。
+- 自緣今日人心別，暖熨寒英只鬭先。
 
 ## 拼音
 
-- fen3 rong2 bing1 yan4 yu4 ling2 long2 ， ci3 wai4 ping2 hua1 si4 hai3 kong1 。
-- ke3 xi1 guo2 xiang1 tian1 bu4 guan3 ， chui1 kai1 chui1 luo4 ren4 dong1 feng1 。
+- nian3 yu4 cuo1 qiong2 ruan3 fu4 yuan2 ， yi1 gou1 bu2 yong4 lü4 chen2 yan1 。
+- zi4 yuan2 jin1 ri4 ren2 xin1 bie2 ， nuan3 yun4 han2 ying1 zhi1 dou4 xian1 。
 
 ## 注释
 

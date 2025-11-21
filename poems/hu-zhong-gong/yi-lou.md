@@ -6,25 +6,21 @@ titleSlug: yi-lou
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 樓高天一握，山入白雲根。
-- 寺在牛鳴地，人行犬吠村。
-- 晴窗薰野馬，寒木下孤猿。
-- 吟罷月初上，詩僧來扣門。
+- 月明獨倚異鄉樓，北望天涯幾許愁。
+- 故國不歸人意老，無情汴水自東流。
 
 ## 拼音
 
-- lou2 gao1 tian1 yi2 wo4 ， shan1 ru4 bai2 yun2 gen1 。
-- si4 zai4 niu2 ming2 di4 ， ren2 hang2 quan3 fei4 cun1 。
-- qing2 chuang1 xun1 ye3 ma3 ， han2 mu4 xia4 gu1 yuan2 。
-- yin2 ba4 yue4 chu1 shang4 ， shi1 seng1 lai2 kou4 men2 。
+- yue4 ming2 du2 yi3 yi4 xiang1 lou2 ， bei3 wang4 tian1 ya2 ji1 xu1 chou2 。
+- gu4 guo2 bu4 gui1 ren2 yi4 lao3 ， wu2 qing2 bian4 shui3 zi4 dong1 liu2 。
 
 ## 注释
 

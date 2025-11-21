@@ -6,25 +6,25 @@ titleSlug: nu-yan-le-yu
 author: 姚勉
 authorPinyin: yao2 mian3
 authorSlug: yao-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 馬前喝道狀元歸，舊婿重新此事奇。
-- 駕鶴驂鸞來錦水，烹龍炰鳳宴瑶池。
-- 滿斟蕉葉融春色，共指蟠桃祝壽期。
-- 後會相逢定何日，玉郎承詔入京時。
+- 瑶姬來自狀元家，真是姚黄第一花。
+- 玳席艷開春富貴，魚軒榮駐遠光華。
+- 梅梢欲動朱簷雪，竹葉微潮玉臉霞。
+- 正好留連長夜飲，未須催整七香車。
 
 ## 拼音
 
-- ma3 qian2 he4 dao4 zhuang4 yuan2 gui1 ， jiu4 xu4 zhong4 xin1 ci3 shi4 qi2 。
-- jia4 he4 can1 luan2 lai2 jin3 shui3 ， peng1 long2 pao2 feng4 yan4 yao2 chi2 。
-- man3 zhen1 jiao1 ye4 rong2 chun1 se4 ， gong4 zhi3 pan2 tao2 zhu4 shou4 qi1 。
-- hou4 hui4 xiang1 feng2 ding4 he2 ri4 ， yu4 lang2 cheng2 zhao4 ru4 jing1 shi2 。
+- yao2 ji1 lai2 zi4 zhuang4 yuan2 jia1 ， zhen1 shi4 yao2 huang2 di4 yi1 hua1 。
+- dai4 xi2 yan4 kai1 chun1 fu4 gui4 ， yu2 xuan1 rong2 zhu4 yuan3 guang1 hua2 。
+- mei2 shao1 yu4 dong4 zhu1 yan2 xue3 ， zhu2 ye4 wei1 chao2 yu4 lian3 xia2 。
+- zheng4 hao3 liu2 lian2 chang2 ye4 yin3 ， wei4 xu1 cui1 zheng3 qi1 xiang1 ju1 。
 
 ## 注释
 

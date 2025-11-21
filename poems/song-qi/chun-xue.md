@@ -6,25 +6,29 @@ titleSlug: chun-xue
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 銀礫欺春亂眼來，重陰萬里壓平臺。
-- 光沈後牖將飛瓦，艷補南枝已落梅。
-- 池曲平翻冰共泮，山腰未積玉爭頹。
-- 長安併長旗亭價，蜀女當壚自滌盃。
+- 遲旭收天宇，層陰糅雪英。
+- 傍階聊積玉，妝樹旋消瓊。
+- 越驛兼梅墜，章臺代絮縈。
+- 風回飛自急，池暖白猶輕。
+- 曉溜承隅滴，寒澌逼沼生。
+- 持杯一相勞，膏脈趁春耕。
 
 ## 拼音
 
-- yin2 li4 qi1 chun1 luan4 yan3 lai2 ， zhong4 yin1 wan4 li3 ya1 ping2 tai2 。
-- guang1 shen3 hou4 you3 jiang1 fei1 wa3 ， yan4 bu3 nan2 zhi1 yi3 luo4 mei2 。
-- chi2 qu3 ping2 fan1 bing1 gong4 pan4 ， shan1 yao1 wei4 ji1 yu4 zheng1 tui2 。
-- chang2 an1 bing4 chang2 qi2 ting2 jia4 ， shu3 nü3 dang1 lu2 zi4 di2 bei1 。
+- chi2 xu4 shou1 tian1 yu3 ， ceng2 yin1 rou2 xue3 ying1 。
+- bang4 jie1 liao2 ji1 yu4 ， zhuang1 shu4 xuan2 xiao1 qiong2 。
+- yue4 yi4 jian1 mei2 zhui4 ， zhang1 tai2 dai4 xu4 ying2 。
+- feng1 hui2 fei1 zi4 ji2 ， chi2 nuan3 bai2 you2 qing1 。
+- xiao3 liu1 cheng2 yu2 di1 ， han2 si1 bi1 zhao3 sheng1 。
+- chi2 bei1 yi4 xiang1 lao2 ， gao1 mai4 chen4 chun1 geng1 。
 
 ## 注释
 

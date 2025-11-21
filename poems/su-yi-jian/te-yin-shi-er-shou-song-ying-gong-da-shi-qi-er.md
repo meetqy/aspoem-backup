@@ -6,10 +6,10 @@ titleSlug: te-yin-shi-er-shou-song-ying-gong-da-shi-qi-er
 author: 蘇易簡
 authorPinyin: su1 yi4 jian3
 authorSlug: su-yi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

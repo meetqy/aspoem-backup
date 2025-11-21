@@ -1,28 +1,30 @@
 ---
 id: shi-zu-xian-ji-song-si-shi-er-shou-qi-er
-title: 偈頌四十二首  其二
-titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 er4
+title: 偈頌四十二首  其二○
+titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 er4 ○
 titleSlug: ji-song-si-shi-er-shou-qi-er
 author: 釋祖先
 authorPinyin: shi4 zu3 xian1
 authorSlug: shi-zu-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客從南方來，報我天童老。
-- 撞破太虛空，全身入荒草。
-- 而今子細思量，令人哭不成哭笑不成笑，寥寥目斷千峰曉。
+- 達磨西來事，今人謾度量。
+- 天河爭起浪，月桂不聞香。
+- 達磨西來事，今人謾度量。
+- 人貧智短，馬瘦毛長。
 
 ## 拼音
 
-- ke4 cong2 nan2 fang1 lai2 ， bao4 wo3 tian1 tong2 lao3 。
-- zhuang4 po4 tai4 xu1 kong1 ， quan2 shen1 ru4 huang1 cao3 。
-- er2 jin1 zi3 xi4 si1 liang0 ， ling4 ren2 ku1 bu4 cheng2 ku1 xiao4 bu4 cheng2 xiao4 ， liao2 liao2 mu4 duan4 qian1 feng1 xiao3 。
+- da2 mo2 xi1 lai2 shi4 ， jin1 ren2 man2 du4 liang4 。
+- tian1 he2 zheng1 qi3 lang4 ， yue4 gui4 bu4 wen2 xiang1 。
+- da2 mo2 xi1 lai2 shi4 ， jin1 ren2 man2 du4 liang4 。
+- ren2 pin2 zhi4 duan3 ， ma3 shou4 mao2 chang2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: long-shan-yuan
 author: 宋之才
 authorPinyin: song4 zhi1 cai2
 authorSlug: song-zhi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

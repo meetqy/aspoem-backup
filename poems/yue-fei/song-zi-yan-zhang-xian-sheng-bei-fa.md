@@ -6,10 +6,10 @@ titleSlug: song-zi-yan-zhang-xian-sheng-bei-fa
 author: 岳飛
 authorPinyin: yue4 fei1
 authorSlug: yue-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

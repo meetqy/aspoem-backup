@@ -6,10 +6,10 @@ titleSlug: wan-er-tang-chun-wan-shu-huai-cheng-tong-liao
 author: 向滈
 authorPinyin: xiang4 hao4
 authorSlug: xiang-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

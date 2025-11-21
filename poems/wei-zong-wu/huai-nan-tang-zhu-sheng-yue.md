@@ -6,10 +6,10 @@ titleSlug: huai-nan-tang-zhu-sheng-yue
 author: 衛宗武
 authorPinyin: wei4 zong1 wu3
 authorSlug: wei-zong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羲和分職授人時，斷自唐虞意可知。
-- 獸舞鳳來餘事耳，西成東作要熙熙。
+- 客問維摩疾，人哀范叔寒。
+- 詩囊負童背，藥笈挂驢鞍。
+- 野果攢眉澀，村醪捩齒酸。
+- 老雞殊可念，旦旦報平安。
 
 ## 拼音
 
-- xi1 he2 fen1 zhi2 shou4 ren2 shi2 ， duan4 zi4 tang2 yu2 yi4 ke3 zhi1 。
-- shou4 wu3 feng4 lai2 yu2 shi4 er3 ， xi1 cheng2 dong1 zuo4 yao4 xi1 xi1 。
+- ke4 wen4 wei2 mo2 ji2 ， ren2 ai1 fan4 shu1 han2 。
+- shi1 nang2 fu4 tong2 bei4 ， yao4 ji2 gua4 lü2 an1 。
+- ye3 guo3 zan3 mei2 se4 ， cun1 lao2 lie4 chi3 suan1 。
+- lao3 ji1 shu1 ke3 nian4 ， dan4 dan4 bao4 ping2 an1 。
 
 ## 注释
 

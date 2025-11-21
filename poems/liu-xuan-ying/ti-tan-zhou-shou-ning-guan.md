@@ -6,10 +6,10 @@ titleSlug: ti-tan-zhou-shou-ning-guan
 author: 劉玄英
 authorPinyin: liu2 xuan2 ying1
 authorSlug: liu-xuan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

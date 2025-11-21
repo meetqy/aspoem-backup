@@ -6,10 +6,10 @@ titleSlug: ke-you-wei-yu-yan-sun-bu-ke-shi-shi-zhi-ling-ren-shou-zhe-xi-zuo-er-j
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

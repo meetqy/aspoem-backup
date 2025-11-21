@@ -6,10 +6,10 @@ titleSlug: su-mei-xian-tan
 author: 張廣漢
 authorPinyin: zhang1 guang3 han4
 authorSlug: zhang-guang-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

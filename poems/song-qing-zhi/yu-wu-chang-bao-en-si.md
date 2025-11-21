@@ -6,10 +6,10 @@ titleSlug: yu-wu-chang-bao-en-si
 author: 宋慶之
 authorPinyin: song4 qing4 zhi1
 authorSlug: song-qing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

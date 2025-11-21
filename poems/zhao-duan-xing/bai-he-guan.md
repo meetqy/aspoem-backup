@@ -6,10 +6,10 @@ titleSlug: bai-he-guan
 author: 趙端行
 authorPinyin: zhao4 duan1 xing2
 authorSlug: zhao-duan-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

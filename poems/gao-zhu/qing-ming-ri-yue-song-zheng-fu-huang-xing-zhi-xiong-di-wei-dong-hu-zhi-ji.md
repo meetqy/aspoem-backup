@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-yue-song-zheng-fu-huang-xing-zhi-xiong-di-wei-dong-hu-zh
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

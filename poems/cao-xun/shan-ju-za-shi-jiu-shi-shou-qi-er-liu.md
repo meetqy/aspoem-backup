@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 真隠古招提，長林如磔蝟。
-- 雖有羣山峰，所欠一支水。
-- 草木乏秀潤，巖竇燥肌理。
-- 安能借僧錫，卓處泉湧沸。
+- 高原收菽麥，下田插禾秧。
+- 田頭與地尾，一一意所量。
+- 躬耕辨好怯，擇種均豐荒。
+- 所以終歲間，食米不及糠。
 
 ## 拼音
 
-- zhen1 yin3 gu3 zhao1 ti2 ， chang2 lin2 ru2 zhe2 wei4 。
-- sui1 you3 qun2 shan1 feng1 ， suo3 qian4 yi4 zhi1 shui3 。
-- cao3 mu4 fa2 xiu4 run4 ， yan2 dou4 zao4 ji1 li3 。
-- an1 neng2 jie4 seng1 xi1 ， zhuo2 chu3 quan2 yong3 fei4 。
+- gao1 yuan2 shou1 shu1 mai4 ， xia4 tian2 cha1 he2 yang1 。
+- tian2 tou2 yu3 di4 wei3 ， yi1 yi1 yi4 suo3 liang2 。
+- gong1 geng1 bian4 hao3 qie4 ， ze2 zhong3 jun1 feng1 huang1 。
+- suo3 yi3 zhong1 sui4 jian4 ， shi2 mi3 bu4 ji2 kang1 。
 
 ## 注释
 

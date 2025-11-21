@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 何頡之
 authorPinyin: he2 jie2 zhi1
 authorSlug: he-jie-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

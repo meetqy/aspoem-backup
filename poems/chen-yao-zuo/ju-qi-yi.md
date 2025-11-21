@@ -1,24 +1,24 @@
 ---
 id: chen-yao-zuo-ju-qi-yi
-title: 句・其一
-titlePinyin: ju4・qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
 authorSlug: chen-yao-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 城中三畝宅。
+- 公餘莫放西湖景，步步蒼苔岸岸松。
 
 ## 拼音
 
-- cheng2 zhong1 san1 mu3 zhai2 。
+- gong1 yu2 mo4 fang4 xi1 hu2 jing3 ， bu4 bu4 cang1 tai2 an4 an4 song1 。
 
 ## 注释
 

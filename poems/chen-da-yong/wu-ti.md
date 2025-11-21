@@ -6,10 +6,10 @@ titleSlug: wu-ti
 author: 陳大用
 authorPinyin: chen2 da4 yong4
 authorSlug: chen-da-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

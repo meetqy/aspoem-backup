@@ -6,21 +6,21 @@ titleSlug: xiao-qi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 簾額繡波蕩漾，燭盤紅淚闌干。
-- 夢裏五更風急，愁邊一半春殘。
+- 窗明驚起倒裳衣，鈴索頻搖定怪遲。
+- 即入簿書叢裏去，少留欹枕聽黄鸝。
 
 ## 拼音
 
-- lian2 e2 xiu4 bo1 dang4 yang4 ， zhu2 pan2 hong2 lei4 lan2 gan1 。
-- meng4 li3 wu3 geng1 feng1 ji2 ， chou2 bian1 yi2 ban4 chun1 can2 。
+- chuang1 ming2 jing1 qi3 dao3 shang0 yi1 ， ling2 suo3 bin1 yao2 ding4 guai4 chi2 。
+- ji2 ru4 bo2 shu1 cong2 li3 qu4 ， shao3 liu2 qi1 zhen3 ting1 huang2 li2 。
 
 ## 注释
 

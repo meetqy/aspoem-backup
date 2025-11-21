@@ -6,9 +6,9 @@ titleSlug: shi-jin-he-zhao-liang-si
 author: 馬擴
 authorPinyin: ma3 kuo4
 authorSlug: ma-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ding-hu
 author: 朱熙載
 authorPinyin: zhu1 xi1 zai4
 authorSlug: zhu-xi-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

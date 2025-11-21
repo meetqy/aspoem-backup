@@ -6,10 +6,10 @@ titleSlug: fu-teng-wang-ge-ye-xin-jia-xuan
 author: 胡時可
 authorPinyin: hu2 shi2 ke3
 authorSlug: hu-shi-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

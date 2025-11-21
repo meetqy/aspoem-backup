@@ -9,22 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 薄晚支頤坐，中宵枕臂眠。
-- 一從身去國，再見日周天。
-- 老度江南歲，春拋渭北田。
-- 潯陽來早晚，明日是三年。
+- 病眼少眠非守歲，老心多感又臨春。
+- 火銷燈盡天明後，便是平頭六十人。
 
 ## 拼音
 
-- bao2 wan3 zhi1 yi2 zuo4 ， zhong1 xiao1 zhen3 bi4 mian2 。
-- yi4 cong2 shen1 qu4 guo2 ， zai4 jian4 ri4 zhou1 tian1 。
-- lao3 du4 jiang1 nan2 sui4 ， chun1 pao1 wei4 bei3 tian2 。
-- xun2 yang2 lai2 zao3 wan3 ， ming2 ri4 shi4 san1 nian2 。
+- bing4 yan3 shao3 mian2 fei1 shou3 sui4 ， lao3 xin1 duo1 gan3 you4 lin2 chun1 。
+- huo3 xiao1 deng1 jin4 tian1 ming2 hou4 ， bian4 shi4 ping2 tou2 liu4 shi2 ren2 。
 
 ## 注释
 

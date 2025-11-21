@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紫詔隨鸞下玉京，元君相命會三清。
-- 便將金鼎丹砂餌，時拂霞衣駕鶴行。
-- 天上雙童持珮引，月中嬌女執幡迎。
-- 此時功滿參真後，始信仙都有姓名。
+- 雨雪霏霏天已暮，金鍾滿勸撫焦桐。
+- 詩吟席上未移刻，劍舞筵前疾似風。
+- 何事行杯當午夜，忽然怒目便騰空。
+- 不知誰是虧忠孝，攜箇人頭入坐中。
 
 ## 拼音
 
-- zi3 zhao4 sui2 luan2 xia4 yu4 jing1 ， yuan2 jun1 xiang4 ming4 hui4 san1 qing1 。
-- bian4 jiang1 jin1 ding3 dan1 sha1 er3 ， shi2 fu2 xia2 yi1 jia4 he4 xing2 。
-- tian1 shang4 shuang1 tong2 chi2 pei4 yin3 ， yue4 zhong1 jiao1 nü3 zhi2 fan1 ying2 。
-- ci3 shi2 gong1 man3 can1 zhen1 hou4 ， shi3 xin4 xian1 du1 you3 xing4 ming2 。
+- yu4 xue3 fei1 fei1 tian1 yi3 mu4 ， jin1 zhong1 man3 quan4 fu3 jiao1 tong2 。
+- shi1 yin2 xi2 shang4 wei4 yi2 ke4 ， jian4 wu3 yan2 qian2 ji2 si4 feng1 。
+- he2 shi4 xing2 bei1 dang1 wu3 ye4 ， hu1 ran2 nu4 mu4 bian4 teng2 kong1 。
+- bu4 zhi1 shui2 shi4 kui1 zhong1 xiao4 ， xie2 ge4 ren2 tou2 ru4 zuo4 zhong1 。
 
 ## 注释
 

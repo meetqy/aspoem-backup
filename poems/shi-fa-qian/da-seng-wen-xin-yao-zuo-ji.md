@@ -6,9 +6,9 @@ titleSlug: da-seng-wen-xin-yao-zuo-ji
 author: 釋法騫
 authorPinyin: shi4 fa3 qian1
 authorSlug: shi-fa-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

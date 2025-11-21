@@ -6,10 +6,10 @@ titleSlug: zi-zi-ji-guan-guo-tian-zhu
 author: 陳良孫
 authorPinyin: chen2 liang2 sun1
 authorSlug: chen-liang-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

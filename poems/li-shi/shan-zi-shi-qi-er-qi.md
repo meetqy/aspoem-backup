@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-qi
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹影千林一族，此中孝子門家。
-- 釋老曾經抱送，詩書便是生涯。
+- 衆妙香中出佛身，小兒造化不能嗔。
+- 要知白塔降魔手，黑鬼元來怕黑神。
 
 ## 拼音
 
-- zhu2 ying3 qian1 lin2 yi4 zu2 ， ci3 zhong1 xiao4 zi3 men2 jia1 。
-- shi4 lao3 ceng2 jing1 bao4 song4 ， shi1 shu1 bian4 shi4 sheng1 ya2 。
+- zhong4 miao4 xiang1 zhong1 chu1 fo2 shen1 ， xiao3 er2 zao4 hua4 bu4 neng2 chen1 。
+- yao4 zhi1 bai2 ta3 xiang2 mo2 shou3 ， hei1 gui3 yuan2 lai2 pa4 hei1 shen2 。
 
 ## 注释
 

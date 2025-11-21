@@ -6,10 +6,10 @@ titleSlug: zhao-shang-ren-qu-xia-nei-you-wu-xia-shi-nian-er-gui-mei-yu-jiong-ran
 author: 晁公遡
 authorPinyin: chao2 gong1 su4
 authorSlug: chao-gong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

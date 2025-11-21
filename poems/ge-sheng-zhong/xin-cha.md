@@ -6,25 +6,21 @@ titleSlug: xin-cha
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 壑源苞貢及春分，玉食分甘賜舊勲。
-- 水厄陽侯宜避席，天隨陸子合同羣。
-- 珍同內府新蒼璧，味壓元豐小矞雲。
-- 便請加籩先果腹，鵝無留掌鼈添裙。
+- 當日火攻應有法，此時水厄定無餘。
+- 閒軒七碗宜頻試，九隴清泉勝具區。
 
 ## 拼音
 
-- he4 yuan2 bao1 gong4 ji2 chun1 fen1 ， yu4 shi2 fen1 gan1 ci4 jiu4 xun1 。
-- shui3 e4 yang2 hou2 yi2 bi4 xi2 ， tian1 sui2 lu4 zi3 he2 tong0 qun2 。
-- zhen1 tong2 nei4 fu3 xin1 cang1 bi4 ， wei4 ya1 yuan2 feng1 xiao3 yu4 yun2 。
-- bian4 qing3 jia1 bian1 xian1 guo3 fu4 ， e2 wu2 liu2 zhang3 bie1 tian1 qun2 。
+- dang1 ri4 huo3 gong1 ying1 you3 fa3 ， ci3 shi2 shui3 e4 ding4 wu2 yu2 。
+- xian2 xuan1 qi1 wan3 yi2 bin1 shi4 ， jiu3 long3 qing1 quan2 sheng4 ju4 qu1 。
 
 ## 注释
 

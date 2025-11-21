@@ -6,10 +6,10 @@ titleSlug: huai-ji-pi-yun-feng-cheng-shang-ren
 author: 曹汝弼
 authorPinyin: cao2 ru3 bi4
 authorSlug: cao-ru-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

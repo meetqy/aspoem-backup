@@ -6,10 +6,10 @@ titleSlug: guo-huang-yang-ao-xiao-zi-dong-gong-mu
 author: 葉澄
 authorPinyin: ye4 cheng2
 authorSlug: ye-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

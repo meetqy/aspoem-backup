@@ -6,10 +6,10 @@ titleSlug: ping-yuan
 author: 余季芳
 authorPinyin: yu2 ji4 fang1
 authorSlug: yu-ji-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

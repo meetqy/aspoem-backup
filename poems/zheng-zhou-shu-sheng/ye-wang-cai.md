@@ -6,10 +6,10 @@ titleSlug: ye-wang-cai
 author: 鄭州書生
 authorPinyin: zheng4 zhou1 shu1 sheng1
 authorSlug: zheng-zhou-shu-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: cong-shen-wen-bo-qi-suo-luo-shu-bei
 author: 芮燁
 authorPinyin: rui4 ye4
 authorSlug: rui-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

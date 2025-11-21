@@ -6,25 +6,21 @@ titleSlug: kou-zhan
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江上有微徑，漁人四五家。
-- 野船明細火，宿鴈起圓沙。
-- 峽口聞猿夜，秋星見客槎。
-- 徘徊幽興盡，更覺在天涯。
+- 谷口殘春黄鳥稀，野梅山杏暗芳菲。
+- 百千幽勝無人見，紅白路花相雜飛。
 
 ## 拼音
 
-- jiang1 shang4 you3 wei1 jing4 ， yu2 ren2 si4 wu3 jia1 。
-- ye3 chuan2 ming2 xi4 huo3 ， su4 yan4 qi3 yuan2 sha1 。
-- xia2 kou3 wen2 yuan2 ye4 ， qiu1 xing1 jian4 ke4 cha2 。
-- pai2 huai2 you1 xing1 jin4 ， geng4 jue2 zai4 tian1 ya2 。
+- gu3 kou3 can2 chun1 huang2 niao3 xi1 ， ye3 mei2 shan1 xing4 an4 fang1 fei1 。
+- bai3 qian1 you1 sheng4 wu2 ren2 jian4 ， hong2 bai2 lu4 hua1 xiang1 za2 fei1 。
 
 ## 注释
 

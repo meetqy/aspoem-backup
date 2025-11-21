@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 越嶺南濱海，武都西隱戎。
-- 雄黃假名石，鷣鳥遠難籠。
-- 詎有隳腸計，應無破腦功。
-- 巴山晝昏黑，妖霧毒濛濛。
+- 千山溪沸石，六月火燒雲。
+- 自顧生無類，那堪毒有羣。
+- 搏牛皮若截，噬馬血成文。
+- 蹄角尚如此，肌膚安可云。
 
 ## 拼音
 
-- yue4 ling3 nan2 bin1 hai3 ， wu3 du1 xi1 yin3 rong2 。
-- xiong2 huang2 jia3 ming2 shi2 ， yin2 niao3 yuan3 nan2 long2 。
-- ju4 you3 hui1 chang2 ji4 ， ying1 wu2 po4 nao3 gong1 。
-- ba1 shan1 zhou4 hun1 hei1 ， yao1 wu4 du2 meng2 meng2 。
+- qian1 shan1 xi1 fei4 shi2 ， liu4 yue4 huo3 shao1 yun2 。
+- zi4 gu4 sheng1 wu2 lei4 ， na4 kan1 du2 you3 qun2 。
+- bo2 niu2 pi2 ruo4 jie2 ， shi4 ma3 xue4 cheng2 wen2 。
+- ti2 jiao3 shang4 ru2 ci3 ， ji1 fu1 an1 ke3 yun2 。
 
 ## 注释
 

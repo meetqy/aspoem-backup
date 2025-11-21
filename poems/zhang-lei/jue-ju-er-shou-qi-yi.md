@@ -6,21 +6,21 @@ titleSlug: jue-ju-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萱草開時燕引雛，石盆雨滿長菖蒲。
-- 但令甕有賢人酒，何用門迎長者車。
+- 風掉浮烟匝地回，雨將濃翠撲山來。
+- 晚凉樓角三吹罷，夕照江天萬里開。
 
 ## 拼音
 
-- xuan1 cao3 kai1 shi2 yan4 yin3 chu2 ， shi2 pen2 yu3 man3 chang2 chang1 pu2 。
-- dan4 ling4 weng4 you3 xian2 ren2 jiu3 ， he2 yong4 men2 ying2 chang2 zhe3 ju1 。
+- feng1 diao4 fu2 yan1 za1 di4 hui2 ， yu3 jiang1 nong2 cui4 pu1 shan1 lai2 。
+- wan3 liang2 lou2 jiao3 san1 chui1 ba4 ， xi1 zhao4 jiang1 tian1 wan4 li3 kai1 。
 
 ## 注释
 

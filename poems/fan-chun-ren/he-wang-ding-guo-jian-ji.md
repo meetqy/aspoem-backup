@@ -6,25 +6,25 @@ titleSlug: he-wang-ding-guo-jian-ji
 author: 范純仁
 authorPinyin: fan4 chun2 ren2
 authorSlug: fan-chun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 危蹤俄復罣刑書，得喪情懷久已無。
-- 憂道不知身竄逐，登山未敵世崎嶇。
-- 戀軒無計慚疲馬，向日低飛作晚烏。
-- 薄祿未拋生事拙，涸鱗徒憶縱江湖。
+- 謫居終日省愆尤，貝錦雖成職我由。
+- 萍梗屢嗟罹放逐，風波更險信沈浮。
+- 生還故里誠多幸，坐廢明時敢不憂。
+- 自是無才速官謗，非關有命壓人頭。
 
 ## 拼音
 
-- wei1 zong1 e2 fu4 gua4 xing2 shu1 ， de2 sang1 qing2 huai2 jiu3 yi3 wu2 。
-- you1 dao4 bu4 zhi1 shen1 cuan4 zhu2 ， deng1 shan1 wei4 di2 shi4 qi2 qu1 。
-- lian4 xuan1 wu2 ji4 can2 pi2 ma3 ， xiang4 ri4 di1 fei1 zuo4 wan3 wu1 。
-- bao2 lu4 wei4 pao1 sheng1 shi4 zhuo1 ， he2 lin2 tu2 yi4 zong4 jiang1 hu2 。
+- zhe2 ju1 zhong1 ri4 sheng3 qian1 you2 ， bei4 jin3 sui1 cheng2 zhi2 wo3 you2 。
+- ping2 geng3 lü3 jie1 li2 fang4 zhu2 ， feng1 bo1 geng4 xian3 xin4 shen3 fu2 。
+- sheng1 huan2 gu4 li3 cheng2 duo1 xing4 ， zuo4 fei4 ming2 shi2 gan3 bu4 you1 。
+- zi4 shi4 wu2 cai2 su4 guan1 bang4 ， fei1 guan1 you3 ming4 ya1 ren2 tou2 。
 
 ## 注释
 

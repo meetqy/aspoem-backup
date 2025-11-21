@@ -6,10 +6,10 @@ titleSlug: cui-wei-si
 author: 葉秀發
 authorPinyin: ye4 xiu4 fa1
 authorSlug: ye-xiu-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

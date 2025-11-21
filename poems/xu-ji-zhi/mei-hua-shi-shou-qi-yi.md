@@ -1,26 +1,26 @@
 ---
 id: xu-ji-zhi-mei-hua-shi-shou-qi-yi
-title: 梅花十首  其一
-titlePinyin: mei2 hua1 shi2 shou3     qi2 yi1
+title: 梅花十首  其一○
+titlePinyin: mei2 hua1 shi2 shou3     qi2 yi1 ○
 titleSlug: mei-hua-shi-shou-qi-yi
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 每憶山居氣味長，梅花時節只清狂。
-- 若教玉鑑堂前看，認得花光是玉光。
+- 老去哦詩懶解工，筆端隨分有春風。
+- 傍人若問梅花句，盡在西湖風雪中。
 
 ## 拼音
 
-- mei3 yi4 shan1 ju1 qi4 wei4 chang2 ， mei2 hua1 shi2 jie2 zhi1 qing1 kuang2 。
-- ruo4 jiao4 yu4 jian4 tang2 qian2 kan4 ， ren4 de2 hua1 guang1 shi4 yu4 guang1 。
+- lao3 qu4 o4 shi1 lan3 jie3 gong1 ， bi3 duan1 sui2 fen1 you3 chun1 feng1 。
+- bang4 ren2 ruo4 wen4 mei2 hua1 ju4 ， jin4 zai4 xi1 hu2 feng1 xue3 zhong1 。
 
 ## 注释
 

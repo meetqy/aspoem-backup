@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan
 author: 覺性
 authorPinyin: jue2 xing4
 authorSlug: jue-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

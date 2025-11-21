@@ -6,10 +6,10 @@ titleSlug: jin-ling-huai-ji-li-yang-wang-yuan
 author: 賀鑄
 authorPinyin: he4 zhu4
 authorSlug: he-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

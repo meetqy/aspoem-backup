@@ -6,10 +6,10 @@ titleSlug: zhong-ru-du-peng-xiao-tuan-ji-er-fei-zhen-wu-ye-chang-ran-ci-yun-yi-x
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

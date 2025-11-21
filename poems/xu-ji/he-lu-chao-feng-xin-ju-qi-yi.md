@@ -1,30 +1,30 @@
 ---
 id: xu-ji-he-lu-chao-feng-xin-ju-qi-yi
-title: 和路朝奉新居  其一
-titlePinyin: he2 lu4 chao2 feng4 xin1 ju1     qi2 yi1
+title: 和路朝奉新居  其一○
+titlePinyin: he2 lu4 chao2 feng4 xin1 ju1     qi2 yi1 ○
 titleSlug: he-lu-chao-feng-xin-ju-qi-yi
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世俗紛紛事總虛，詩翁今作逸人居。
-- 勤穿東地緣栽竹，喜占明窗爲著書。
-- 近市好賒春肆酒，就淮仍買晚罾魚。
-- 忽撐小艇來西郭，不問皆知訪仲車。
+- 身著練袍履用蒲，鶡冠鳩杖稱郊居。
+- 家中但乏青囊印，坐處便看黄卷書。
+- 賃屋爲無揚子宅，休官非爲武昌魚。
+- 長年不出何妨事，況是門懸致仕車。
 
 ## 拼音
 
-- shi4 su2 fen1 fen1 shi4 zong3 xu1 ， shi1 weng1 jin1 zuo4 yi4 ren2 ju1 。
-- qin2 chuan1 dong1 di4 yuan2 zai1 zhu2 ， xi3 zhan4 ming2 chuang1 wei2 zhu4 shu1 。
-- jin4 shi4 hao3 she1 chun1 si4 jiu3 ， jiu4 huai2 reng2 mai3 wan3 zeng1 yu2 。
-- hu1 cheng1 xiao3 ting3 lai2 xi1 guo1 ， bu2 wen4 jie1 zhi1 fang3 zhong4 ju1 。
+- shen1 zhu4 lian4 pao2 lü3 yong4 pu2 ， he2 guan1 jiu1 zhang4 cheng1 jiao1 ju1 。
+- jia1 zhong1 dan4 fa2 qing1 nang2 yin4 ， zuo4 chu3 bian4 kan4 huang2 juan4 shu1 。
+- lin4 wu1 wei2 wu2 yang2 zi3 zhai2 ， xiu1 guan1 fei1 wei2 wu3 chang1 yu2 。
+- chang2 nian2 bu4 chu1 he2 fang2 shi4 ， kuang4 shi4 men2 xuan2 zhi4 shi4 ju1 。
 
 ## 注释
 

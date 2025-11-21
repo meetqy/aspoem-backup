@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉容初起殢春慵，鬢軃秋蟬不解攏。
-- 十二寶闌閑倚處，花間應避落殘紅。
+- 御製新規寶墨香，蟠龍紋裏字成行。
+- 臣鄰近密方宣賜，圓餅均盛小絳囊。
 
 ## 拼音
 
-- yu4 rong2 chu1 qi3 ti4 chun1 yong1 ， bin4 duo3 qiu1 chan2 bu4 jie3 long3 。
-- shi2 er4 bao3 lan2 xian2 yi3 chu3 ， hua1 jian4 ying1 bi4 luo4 can2 hong2 。
+- yu4 zhi4 xin1 gui1 bao3 mo4 xiang1 ， pan2 long2 wen2 li3 zi4 cheng2 xing2 。
+- chen2 lin2 jin4 mi4 fang1 xuan1 ci4 ， yuan2 bing3 jun1 sheng4 xiao3 jiang4 nang2 。
 
 ## 注释
 

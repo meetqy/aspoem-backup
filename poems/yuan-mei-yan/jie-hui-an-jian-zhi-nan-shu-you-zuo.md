@@ -6,10 +6,10 @@ titleSlug: jie-hui-an-jian-zhi-nan-shu-you-zuo
 author: 袁梅岩
 authorPinyin: yuan2 mei2 yan2
 authorSlug: yuan-mei-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

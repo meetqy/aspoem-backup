@@ -6,21 +6,21 @@ titleSlug: qi-yue-liu-ri-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 積雨空階生綠衣，幽幽點點弄秋姿。
-- 黄昏樓角看新月，還是去年牛女時。
+- 山川摇落雁南飛，想見橫汾鼓吹時。
+- 得意劉郎猶歎老，蕭條宋玉故應悲。
 
 ## 拼音
 
-- ji1 yu3 kong1 jie1 sheng1 lü4 yi1 ， you1 you1 dian3 dian3 nong4 qiu1 zi1 。
-- huang2 hun1 lou2 jiao3 kan4 xin1 yue4 ， huan2 shi4 qu4 nian2 niu2 nü3 shi2 。
+- shan1 chuan1 yao2 luo4 yan4 nan2 fei1 ， xiang3 jian4 heng2 fen2 gu3 chui1 shi2 。
+- de2 yi4 liu2 lang2 you2 tan4 lao3 ， xiao1 tiao2 song4 yu4 gu4 ying1 bei1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: he-zhao-yue-dao-you-hai-yun-shan
 author: 霍交
 authorPinyin: huo4 jiao1
 authorSlug: huo-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

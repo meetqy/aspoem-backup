@@ -6,10 +6,10 @@ titleSlug: di-cui-lou-qi-yi
 author: 蕭之敏
 authorPinyin: xiao1 zhi1 min3
 authorSlug: xiao-zhi-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

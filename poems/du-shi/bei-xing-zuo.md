@@ -6,10 +6,10 @@ titleSlug: bei-xing-zuo
 author: 杜氏
 authorPinyin: du4 shi4
 authorSlug: du-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

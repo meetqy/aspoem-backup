@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋德週
 authorPinyin: shi4 de2 zhou1
 authorSlug: shi-de-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

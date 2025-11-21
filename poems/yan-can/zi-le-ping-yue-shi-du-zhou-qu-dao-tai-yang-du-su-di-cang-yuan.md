@@ -6,10 +6,10 @@ titleSlug: zi-le-ping-yue-shi-du-zhou-qu-dao-tai-yang-du-su-di-cang-yuan
 author: 嚴粲
 authorPinyin: yan2 can4
 authorSlug: yan-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

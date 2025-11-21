@@ -6,25 +6,25 @@ titleSlug: shao-xing-si-yue-zhen-hai-du-si-shi-san-shou-chu-xian-guan-xi-sheng-j
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 爰熙嘉壇，揭虔毖祀。
-- 鬰人沃盥，贊我祼事。
-- 于降于登，以作以止。
-- 莫不肅雍，告靈饗矣。
+- 壽宮煇煌，聿修時祀。
+- 繽其臨矣，吉蠲以竢。
+- 居乎昂昂，行乎遂遂。
+- 敬爾攸司，展采錯事。
 
 ## 拼音
 
-- yuan2 xi1 jia1 tan2 ， jie1 qian2 bi4 si4 。
-- yu4 ren2 wo4 guan4 ， zan4 wo3 guan4 shi4 。
-- yu2 jiang4 yu2 deng1 ， yi3 zuo4 yi3 zhi3 。
-- mo4 bu2 su4 yong1 ， gao4 ling2 xiang3 yi3 。
+- shou4 gong1 hui1 huang2 ， yu4 xiu1 shi2 si4 。
+- bin1 qi2 lin2 yi3 ， ji2 juan1 yi3 si4 。
+- ju1 hu1 ang2 ang2 ， xing2 hu1 sui4 sui4 。
+- jing4 er3 you1 si1 ， zhan3 cai3 cuo4 shi4 。
 
 ## 注释
 

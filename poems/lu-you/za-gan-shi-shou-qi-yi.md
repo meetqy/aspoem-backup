@@ -1,26 +1,26 @@
 ---
 id: lu-you-za-gan-shi-shou-qi-yi
-title: 雜感十首  其一
-titlePinyin: za2 gan3 shi2 shou3     qi2 yi1
+title: 雜感十首  其一○
+titlePinyin: za2 gan3 shi2 shou3     qi2 yi1 ○
 titleSlug: za-gan-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 志士山棲恨不深，人知已是負初心。
-- 不須先說嚴光輩，直自巢由錯到今。
+- 忍窮待死十年間，老子誰知老更頑。
+- 溪友留魚供晚酌，鄰僧送米續朝餐。
 
 ## 拼音
 
-- zhi4 shi4 shan1 qi1 hen4 bu4 shen1 ， ren2 zhi1 yi3 shi4 fu4 chu1 xin1 。
-- bu4 xu1 xian1 shuo1 yan2 guang1 bei4 ， zhi2 zi4 chao2 you2 cuo4 dao4 jin1 。
+- ren3 qiong2 dai4 si3 shi2 nian2 jian4 ， lao3 zi3 shui2 zhi1 lao3 geng4 wan2 。
+- xi1 you3 liu2 yu2 gong4 wan3 zhuo2 ， lin2 seng1 song4 mi3 xu4 chao2 can1 。
 
 ## 注释
 

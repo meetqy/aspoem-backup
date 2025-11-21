@@ -6,10 +6,10 @@ titleSlug: ti-dan-shan-yan
 author: 盛某
 authorPinyin: sheng4 mou3
 authorSlug: sheng-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

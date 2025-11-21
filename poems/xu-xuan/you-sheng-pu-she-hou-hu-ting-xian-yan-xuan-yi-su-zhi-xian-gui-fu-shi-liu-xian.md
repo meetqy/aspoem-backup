@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-you-sheng-pu-she-hou-hu-ting-xian-yan-xuan-yi-su-zhi-xian-gui-fu-shi-liu-xian
-title: 右省僕射後湖亭閒宴鉉以宿直先歸賦詩留獻
+title: 右省僕射後湖亭閑宴鉉以宿直先歸賦詩留獻
 titlePinyin: you4 sheng3 pu2 she4 hou4 hu2 ting2 xian2 yan4 xuan4 yi3 su4 zhi2 xian1 gui1 fu4 shi1 liu2 xian4
 titleSlug: you-sheng-pu-she-hou-hu-ting-xian-yan-xuan-yi-su-zhi-xian-gui-fu-shi-liu-xian
 author: 徐鉉
@@ -14,10 +14,10 @@ tags: []
 
 ## 正文
 
-- 湖上一陽生，虛亭啟高宴。
-- 楓林烟際出，白鳥波心見。
+- 湖上一陽生，虛亭啓高宴。
+- 楓林煙際出，白鳥波心見。
 - 主人忘貴達，座客容疵賤。
-- 獨慚殘照催，歸宿明光殿。
+- 獨慙殘照催，歸宿明光殿。
 
 ## 拼音
 

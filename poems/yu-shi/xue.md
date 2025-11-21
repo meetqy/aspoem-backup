@@ -6,25 +6,25 @@ titleSlug: xue
 author: 于石
 authorPinyin: yu2 shi2
 authorSlug: yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天地混一色，樓高試捲簾。
-- 青山新面目，老樹換鬚髯。
-- 夜皎月千里，晴暄雨四簷。
-- 豈無寒餒者，僵卧在窮閻。
+- 誰歟變幻舊乾坤，剪水仙人手段新。
+- 銀屋萬家成驟富，青山半點不藏春。
+- 西園太尉方交賀，北海中郎豈願臣。
+- 把酒孤吟元不俗，何須夜訪剡溪人。
 
 ## 拼音
 
-- tian1 di4 hun4 yi2 se4 ， lou2 gao1 shi4 juan3 lian2 。
-- qing1 shan1 xin1 mian4 mu4 ， lao3 shu4 huan4 xu1 ran2 。
-- ye4 jiao3 yue4 qian1 li3 ， qing2 xuan1 yu3 si4 yan2 。
-- qi3 wu2 han2 nei3 zhe3 ， jiang1 wo4 zai4 qiong2 yan2 。
+- shui2 yu2 bian4 huan4 jiu4 qian2 kun1 ， jian3 shui3 xian1 ren2 shou3 duan4 xin1 。
+- yin2 wu1 wan4 jia1 cheng2 zhou4 fu4 ， qing1 shan1 ban4 dian3 bu4 cang2 chun1 。
+- xi1 yuan2 tai4 wei4 fang1 jiao1 he4 ， bei3 hai3 zhong1 lang2 qi3 yuan4 chen2 。
+- ba3 jiu3 gu1 yin2 yuan2 bu4 su2 ， he2 xu1 ye4 fang3 shan4 xi1 ren2 。
 
 ## 注释
 

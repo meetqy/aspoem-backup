@@ -6,25 +6,25 @@ titleSlug: wu-ti
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畫閣無人晝漏稀，離悰病思兩依依。
-- 釵梁雙燕春先到，箏柱羈鴻暖不歸。
-- 迎得紫姑占近信，裁成白紵寄征衣。
-- 晚來更就鄰姬問，夢到遼陽果是非。
+- 金鞭朱彈憶春遊，萬里橋東罨畫樓。
+- 夢倩曉風吹不去，書憑春雁寄無由。
+- 鏡中顔鬢今如此，幙下朋儔好在不。
+- 篋有吳牋三萬箇，擬將細字寫新愁。
 
 ## 拼音
 
-- hua4 ge2 wu2 ren2 zhou4 lou4 xi1 ， li2 cong2 bing4 si1 liang3 yi1 yi1 。
-- chai1 liang2 shuang1 yan4 chun1 xian1 dao4 ， zheng1 zhu4 ji1 hong2 nuan3 bu4 gui1 。
-- ying2 de2 zi3 gu1 zhan4 jin4 xin4 ， cai2 cheng2 bai2 zhu4 ji4 zheng1 yi1 。
-- wan3 lai2 geng4 jiu4 lin2 ji1 wen4 ， meng4 dao4 liao2 yang2 guo3 shi4 fei1 。
+- jin1 bian1 zhu1 dan4 yi4 chun1 you2 ， wan4 li3 qiao2 dong1 yan3 hua4 lou2 。
+- meng4 qian4 xiao3 feng1 chui1 bu2 qu4 ， shu1 ping2 chun1 yan4 ji4 wu2 you2 。
+- jing4 zhong1 yan2 bin4 jin1 ru2 ci3 ， mu4 xia4 peng2 chou2 hao3 zai4 bu4 。
+- qie4 you3 wu2 jian1 san1 wan4 ge4 ， ni3 jiang1 xi4 zi4 xie3 xin1 chou2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qiu-luo-ji
 author: 周韶
 authorPinyin: zhou1 shao2
 authorSlug: zhou-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

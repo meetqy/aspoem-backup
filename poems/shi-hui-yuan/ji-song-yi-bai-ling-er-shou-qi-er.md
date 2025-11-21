@@ -1,26 +1,26 @@
 ---
 id: shi-hui-yuan-ji-song-yi-bai-ling-er-shou-qi-er
-title: 偈頌一百零二首  其二
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 er4
+title: 偈頌一百零二首  其二○
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 er4 ○
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-er
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 龍幡勝槩落羣峰，水石清奇疊萬重。
-- 燕坐不辭提祖令，微軀那更繼前蹤。
+- 竹杖輕携離婺女，雲衣高捲上仙霞。
+- 五湖四海休云別，南北東西六一家。
 
 ## 拼音
 
-- long2 fan1 sheng4 gai4 luo4 qun2 feng1 ， shui3 shi2 qing1 qi2 die2 wan4 zhong4 。
-- yan4 zuo4 bu4 ci2 ti2 zu3 ling4 ， wei1 qu1 na4 geng4 ji4 qian2 zong1 。
+- zhu2 zhang4 qing1 xie2 li2 wu4 nü3 ， yun2 yi1 gao1 juan3 shang4 xian1 xia2 。
+- wu3 hu2 si4 hai3 xiu1 yun2 bie2 ， nan2 bei3 dong1 xi1 liu4 yi1 jia1 。
 
 ## 注释
 

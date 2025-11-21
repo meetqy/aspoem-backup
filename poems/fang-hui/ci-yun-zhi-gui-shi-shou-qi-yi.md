@@ -1,30 +1,30 @@
 ---
 id: fang-hui-ci-yun-zhi-gui-shi-shou-qi-yi
-title: 次韻志歸十首  其一
-titlePinyin: ci4 yun4 zhi4 gui1 shi2 shou3     qi2 yi1
+title: 次韻志歸十首  其一○
+titlePinyin: ci4 yun4 zhi4 gui1 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-zhi-gui-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遠望舒長嘯，幽跧發永歎。
-- 能詩今不少，得句古云難。
-- 涉世顛毛白，希賢寸腑丹。
-- 他鄉仍故國，何處可求安。
+- 近城一耕叟，僅有使牛能。
+- 人似愚偏壽，家由儉故興。
+- 不知求仕宦，未省結交朋。
+- 笑我儒冠誤，今如退院僧。
 
 ## 拼音
 
-- yuan3 wang4 shu1 chang2 xiao4 ， you1 quan2 fa1 yong3 tan4 。
-- neng2 shi1 jin1 bu4 shao3 ， de2 ju4 gu3 yun2 nan2 。
-- she4 shi4 dian1 mao2 bai2 ， xi1 xian2 cun4 fu3 dan1 。
-- ta1 xiang1 reng2 gu4 guo2 ， he2 chu3 ke3 qiu2 an1 。
+- jin4 cheng2 yi4 geng1 sou3 ， jin3 you3 shi3 niu2 neng2 。
+- ren2 si4 yu2 pian1 shou4 ， jia1 you2 jian3 gu4 xing1 。
+- bu4 zhi1 qiu2 shi4 huan4 ， wei4 sheng3 jie2 jiao1 peng2 。
+- xiao4 wo3 ru2 guan1 wu4 ， jin1 ru2 tui4 yuan4 seng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-ren-fu-ju
 author: 黄少師女
 authorPinyin: huang2 shao3 shi1 nü3
 authorSlug: huang-shao-shi-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

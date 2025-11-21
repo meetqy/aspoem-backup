@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳貴誼
 authorPinyin: chen2 gui4 yi4
 authorSlug: chen-gui-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

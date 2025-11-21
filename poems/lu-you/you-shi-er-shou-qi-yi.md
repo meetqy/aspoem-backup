@@ -6,25 +6,25 @@ titleSlug: you-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 跌宕人間歲月遷，賞心幽事故依然。
-- 潮通支浦漁舟活，露溼繁花醉帽偏。
-- 才盡賦詩愁壓倒，氣衰對弈怯饒先。
-- 光陰風月空如昨，悵望蘭亭祓禊年。
+- 衰翁喜幽事，闖戶不升堂。
+- 酒僅三蕉葉，琴纔一履霜。
+- 好遊力不給，愛客病相妨。
+- 獨有詩情在，年來亦漸忘。
 
 ## 拼音
 
-- die1 dang4 ren2 jian4 sui4 yue4 qian1 ， shang3 xin1 you1 shi4 gu4 yi1 ran2 。
-- chao2 tong1 zhi1 pu3 yu2 zhou1 huo2 ， lu4 shi1 fan2 hua1 zui4 mao4 pian1 。
-- cai2 jin4 fu4 shi1 chou2 ya1 dao3 ， qi4 shuai1 dui4 yi4 qie4 rao2 xian1 。
-- guang1 yin1 feng1 yue4 kong1 ru2 zuo2 ， chang4 wang4 lan2 ting2 fu2 xi4 nian2 。
+- shuai1 weng1 xi3 you1 shi4 ， chuang3 hu4 bu4 sheng1 tang2 。
+- jiu3 jin3 san1 jiao1 ye4 ， qin2 cai2 yi4 lü3 shuang1 。
+- hao3 you2 li4 bu4 gei3 ， ai4 ke4 bing4 xiang1 fang2 。
+- du2 you3 shi1 qing2 zai4 ， nian2 lai2 yi4 jian4 wang4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xi-chuang
 author: 徐太玉
 authorPinyin: xu2 tai4 yu4
 authorSlug: xu-tai-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

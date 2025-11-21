@@ -6,21 +6,25 @@ titleSlug: zai-he-er-shou-qi-er
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丹青已是前世，竹石時窺一斑。
-- 五字當還靖節，數行誰似高閑。
+- 憶觀滄海過東萊，日照三山迤邐開。
+- 桂觀飛樓凌霧起，仙幢寶蓋拂天來。
+- 不聞宮漏催晨箭，但覺簷陰轉古槐。
+- 供奉清班非老處，會稽何日乞方回。
 
 ## 拼音
 
-- dan1 qing1 yi3 shi4 qian2 shi4 ， zhu2 shi2 shi2 kui1 yi4 ban1 。
-- wu3 zi4 dang1 huan2 jing4 jie2 ， shu4 xing2 shui2 si4 gao1 xian2 。
+- yi4 guan1 cang1 hai3 guo4 dong1 lai2 ， ri4 zhao4 san1 shan1 yi3 li3 kai1 。
+- gui4 guan1 fei1 lou2 ling2 wu4 qi3 ， xian1 zhuang4 bao3 gai4 fu2 tian1 lai2 。
+- bu4 wen2 gong1 lou4 cui1 chen2 jian4 ， dan4 jue2 yan2 yin1 zhuan3 gu3 huai2 。
+- gong4 feng4 qing1 ban1 fei1 lao3 chu3 ， hui4 ji1 he2 ri4 qi3 fang1 hui2 。
 
 ## 注释
 

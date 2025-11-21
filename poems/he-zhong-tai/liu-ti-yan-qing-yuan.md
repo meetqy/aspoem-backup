@@ -6,10 +6,10 @@ titleSlug: liu-ti-yan-qing-yuan
 author: 何中太
 authorPinyin: he2 zhong1 tai4
 authorSlug: he-zhong-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

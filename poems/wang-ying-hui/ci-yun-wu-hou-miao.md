@@ -6,10 +6,10 @@ titleSlug: ci-yun-wu-hou-miao
 author: 汪應晦
 authorPinyin: wang1 ying1 hui4
 authorSlug: wang-ying-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

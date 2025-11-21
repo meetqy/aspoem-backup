@@ -6,21 +6,21 @@ titleSlug: zi-shen
 author: 陳藻
 authorPinyin: chen2 zao3
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自小何曾識帝鄉，姓名却挂武林廂。
-- 祝融今歲爲災甚，亦費貲糧奔走忙。
+- 且安愚分住天涯，休問明朝買馬回。
+- 濠上有人留此老，去年不到異鄉來。
 
 ## 拼音
 
-- zi4 xiao3 he2 ceng2 shi2 di4 xiang1 ， xing4 ming2 que4 gua4 wu3 lin2 xiang1 。
-- zhu4 rong2 jin1 sui4 wei2 zai1 shen4 ， yi4 fei4 zi1 liang2 ben1 zou3 mang2 。
+- qie3 an1 yu2 fen1 zhu4 tian1 ya2 ， xiu1 wen4 ming2 chao2 mai3 ma3 hui2 。
+- hao2 shang4 you3 ren2 liu2 ci3 lao3 ， qu4 nian2 bu2 dao4 yi4 xiang1 lai2 。
 
 ## 注释
 

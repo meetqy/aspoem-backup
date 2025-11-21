@@ -6,10 +6,10 @@ titleSlug: jiu-feng-yuan
 author: 臧子常
 authorPinyin: zang1 zi3 chang2
 authorSlug: zang-zi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

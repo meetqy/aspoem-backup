@@ -6,10 +6,10 @@ titleSlug: lao-song-jiu-yin-wei-cao-xu-shan-fu
 author: 林景熙
 authorPinyin: lin2 jing3 xi1
 authorSlug: lin-jing-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

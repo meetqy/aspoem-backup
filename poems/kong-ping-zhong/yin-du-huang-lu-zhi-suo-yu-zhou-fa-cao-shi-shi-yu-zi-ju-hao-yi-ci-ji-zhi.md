@@ -6,10 +6,10 @@ titleSlug: yin-du-huang-lu-zhi-suo-yu-zhou-fa-cao-shi-shi-yu-zi-ju-hao-yi-ci-ji-
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

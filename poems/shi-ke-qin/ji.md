@@ -6,25 +6,21 @@ titleSlug: ji
 author: 釋克勤
 authorPinyin: shi4 ke4 qin2
 authorSlug: shi-ke-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 休誇四分罷楞嚴，按下雲頭徹底參。
-- 莫學亮公親馬祖，還如德嶠訪龍潭。
-- 七年往返游昭覺，三載翱翔上碧巖。
-- 今日煩充第一座，百華叢裏現優曇。
+- 收光攝彩信尺真，事事圓成物物新。
+- 內若有心還有物，何能移步出通津。
 
 ## 拼音
 
-- xiu1 kua1 si4 fen1 ba4 leng2 yan2 ， an4 xia4 yun2 tou2 che4 di3 can1 。
-- mo4 xue2 liang4 gong1 qin1 ma3 zu3 ， huan2 ru2 de2 jiao4 fang3 long2 tan2 。
-- qi1 nian2 wang3 fan3 you2 zhao1 jue2 ， san1 zai4 ao2 xiang2 shang4 bi4 yan2 。
-- jin1 ri4 fan2 chong1 di4 yi1 zuo4 ， bai3 hua2 cong2 li3 xian4 you1 tan2 。
+- shou1 guang1 she4 cai3 xin4 chi3 zhen1 ， shi4 shi4 yuan2 cheng2 wu4 wu4 xin1 。
+- nei4 ruo4 you3 xin1 huan2 you3 wu4 ， he2 neng2 yi2 bu4 chu1 tong1 jin1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: yi-xi-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 猶記顓蒙昔未開，自鞭寧待父師哉。
-- 殘編常到鷄聲徹，警枕頻驚蝶夢迴。
-- 且可徧參學童子，未應一跳至如來。
-- 叢林箇箇談宗旨，誰是禪家大辯才。
+- 武皇好賦網羣英，猶記龍顔賞墨卿。
+- 白玉牒中曾有草，碧紗籠裏本無名。
+- 唐詩卒使張窮瞎，國語能令左失明。
+- 老子一生嗜章句，故應天罰遣偏盲。
 
 ## 拼音
 
-- you2 ji4 zhuan1 meng2 xi1 wei4 kai1 ， zi4 bian1 ning2 dai4 fu4 shi1 zai1 。
-- can2 bian1 chang2 dao4 ji1 sheng1 che4 ， jing3 zhen3 bin1 jing1 die2 meng4 hui2 。
-- qie3 ke3 bian4 can1 xue2 tong2 zi3 ， wei4 ying1 yi2 tiao4 zhi4 ru2 lai2 。
-- cong2 lin2 ge4 ge4 tan2 zong1 zhi3 ， shui2 shi4 shan4 jia1 da4 bian4 cai2 。
+- wu3 huang2 hao3 fu4 wang3 qun2 ying1 ， you2 ji4 long2 yan2 shang3 mo4 qing1 。
+- bai2 yu4 die2 zhong1 ceng2 you3 cao3 ， bi4 sha1 long2 li3 ben3 wu2 ming2 。
+- tang2 shi1 zu2 shi3 zhang1 qiong2 xia1 ， guo2 yu3 neng2 ling4 zuo3 shi1 ming2 。
+- lao3 zi3 yi4 sheng1 shi4 zhang1 ju4 ， gu4 ying1 tian1 fa2 qian3 pian1 mang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-qiao-lou
 author: 吹角老兵
 authorPinyin: chui1 jiao3 lao3 bing1
 authorSlug: chui-jiao-lao-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

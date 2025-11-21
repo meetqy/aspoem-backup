@@ -1,26 +1,26 @@
 ---
 id: zheng-si-xiao-jue-ju-shi-shou-qi-yi
-title: 絕句十首  其一
-titlePinyin: jue2 ju4 shi2 shou3     qi2 yi1
+title: 絕句十首  其一○
+titlePinyin: jue2 ju4 shi2 shou3     qi2 yi1 ○
 titleSlug: jue-ju-shi-shou-qi-yi
 author: 鄭思肖
 authorPinyin: zheng4 si1 xiao4
 authorSlug: zheng-si-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羊裘獨釣浙江湄，百姓哀哀苦亂離。
-- 但得漢家鴻業在，莫愁光武奮身遲。
+- 子夜神遊碧落間，群仙飛語下人寰。
+- 上天深念蒼生苦，特敕三宮聖駕還。
 
 ## 拼音
 
-- yang2 qiu2 du2 diao4 zhe4 jiang1 mei2 ， bai3 xing4 ai1 ai1 ku3 luan4 li2 。
-- dan4 de2 han4 jia1 hong2 ye4 zai4 ， mo4 chou2 guang1 wu3 fen4 shen1 chi2 。
+- zi3 ye4 shen2 you2 bi4 luo4 jian4 ， qun2 xian1 fei1 yu3 xia4 ren2 huan2 。
+- shang4 tian1 shen1 nian4 cang1 sheng1 ku3 ， te4 chi4 san1 gong1 sheng4 jia4 huan2 。
 
 ## 注释
 

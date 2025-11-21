@@ -6,10 +6,10 @@ titleSlug: mu-dan
 author: 陳孔碩
 authorPinyin: chen2 kong3 shuo4
 authorSlug: chen-kong-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

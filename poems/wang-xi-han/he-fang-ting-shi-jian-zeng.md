@@ -6,9 +6,9 @@ titleSlug: he-fang-ting-shi-jian-zeng
 author: 王晞韓
 authorPinyin: wang2 xi1 han2
 authorSlug: wang-xi-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

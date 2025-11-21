@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-song-gu-jiu-shi-ba-shou-qi-er
-title: 頌古九十八首  其二
-titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 er4
+title: 頌古九十八首  其二○
+titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 er4 ○
 titleSlug: song-gu-jiu-shi-ba-shou-qi-er
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迷悟是誰先起立，忘軀失命老婆心。
-- 東西豈離摩耶腹，南北彌綸針不任。
+- 團團如月畫難成，頭角完全鼻沒繩。
+- 非是學人藏隱物，雖然識破未通真。
 
 ## 拼音
 
-- mi2 wu4 shi4 shui2 xian1 qi3 li4 ， wang4 qu1 shi1 ming4 lao3 po0 xin1 。
-- dong1 xi1 qi3 li2 mo2 ye1 fu4 ， nan2 bei3 mi2 lun2 zhen1 bu2 ren4 。
+- tuan2 tuan2 ru2 yue4 hua4 nan2 cheng2 ， tou2 jiao3 wan2 quan2 bi2 mei2 sheng2 。
+- fei1 shi4 xue2 ren2 cang2 yin3 wu4 ， sui1 ran2 shi2 po4 wei4 tong1 zhen1 。
 
 ## 注释
 

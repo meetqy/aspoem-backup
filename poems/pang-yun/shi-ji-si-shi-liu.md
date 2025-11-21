@@ -9,24 +9,22 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 常聞阿閦佛，擬向東方討。
-- 今日審思維，不動自然到。
-- 語汝守門奴，何須苦煩燥。
-- 我奏父王知，與汝改名號。
-- 破却有爲功，顯示無爲道。
+- 莫求佛兮莫求人，但自心裏莫貪瞋。
+- 貪瞋癡病前頓盡，便是如來的的親。
+- 內無垢兮外無塵，中間豁達無關津。
+- 神無障礙居三界，恰是琉璃處日輪。
 
 ## 拼音
 
-- chang2 wen2 a1 chu4 fo2 ， ni3 xiang4 dong1 fang1 tao3 。
-- jin1 ri4 shen3 si1 wei2 ， bu2 dong4 zi4 ran2 dao4 。
-- yu3 ru3 shou3 men2 nu2 ， he2 xu1 ku3 fan2 zao4 。
-- wo3 zou4 fu4 wang2 zhi1 ， yu3 ru3 gai3 ming2 hao4 。
-- po4 que4 you3 wei2 gong1 ， xian3 shi4 wu2 wei2 dao4 。
+- mo4 qiu2 fo2 xi1 mo4 qiu2 ren2 ， dan4 zi4 xin1 li3 mo4 tan1 chen1 。
+- tan1 chen1 chi1 bing4 qian2 dun4 jin4 ， bian4 shi4 ru2 lai2 de0 de0 qin1 。
+- nei4 wu2 gou4 xi1 wai4 wu2 chen2 ， zhong1 jian4 huo1 da2 wu2 guan1 jin1 。
+- shen2 wu2 zhang4 ai4 ju1 san1 jie4 ， qia4 shi4 liu2 li2 chu3 ri4 lun2 。
 
 ## 注释
 

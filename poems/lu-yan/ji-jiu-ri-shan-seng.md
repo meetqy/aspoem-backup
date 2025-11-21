@@ -6,10 +6,10 @@ titleSlug: ji-jiu-ri-shan-seng
 author: 呂言
 authorPinyin: lü3 yan2
 authorSlug: lu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

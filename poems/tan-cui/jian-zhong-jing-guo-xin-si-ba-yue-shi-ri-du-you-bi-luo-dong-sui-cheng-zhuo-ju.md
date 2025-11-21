@@ -6,10 +6,10 @@ titleSlug: jian-zhong-jing-guo-xin-si-ba-yue-shi-ri-du-you-bi-luo-dong-sui-cheng
 author: 譚粹
 authorPinyin: tan2 cui4
 authorSlug: tan-cui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

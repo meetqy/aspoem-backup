@@ -6,21 +6,21 @@ titleSlug: ci-yun-yu-tui-fu-chu-xi-qi-jue-ju-qi-san
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 將軍元自敬延年，明主何曾棄浩然。
-- 自分康時了無策，故山多少未芸田。
+- 是滔滔者竟誰歸，有酒盈巵不暇揮。
+- 待挽長江洗兵馬，盡還草木舊晶暉。
 
 ## 拼音
 
-- jiang1 jun1 yuan2 zi4 jing4 yan2 nian2 ， ming2 zhu3 he2 ceng2 qi4 hao4 ran2 。
-- zi4 fen1 kang1 shi2 le0 wu2 ce4 ， gu4 shan1 duo1 shao3 wei4 yun2 tian2 。
+- shi4 tao1 tao1 zhe3 jing4 shui2 gui1 ， you3 jiu3 ying2 zhi1 bu4 xia2 hui1 。
+- dai4 wan3 chang2 jiang1 xi3 bing1 ma3 ， jin4 huan2 cao3 mu4 jiu4 jing1 hui1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-ri-o-xuan
 author: 婁機
 authorPinyin: lou2 ji1
 authorSlug: lou-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

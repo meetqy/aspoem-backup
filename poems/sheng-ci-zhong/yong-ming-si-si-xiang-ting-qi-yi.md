@@ -6,10 +6,10 @@ titleSlug: yong-ming-si-si-xiang-ting-qi-yi
 author: 盛次仲
 authorPinyin: sheng4 ci4 zhong4
 authorSlug: sheng-ci-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

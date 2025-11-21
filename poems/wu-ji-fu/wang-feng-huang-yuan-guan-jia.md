@@ -6,10 +6,10 @@ titleSlug: wang-feng-huang-yuan-guan-jia
 author: 吳幾復
 authorPinyin: wu2 ji1 fu4
 authorSlug: wu-ji-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

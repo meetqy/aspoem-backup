@@ -6,10 +6,10 @@ titleSlug: ju
 author: 石太傅
 authorPinyin: shi2 tai4 fu4
 authorSlug: shi-tai-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

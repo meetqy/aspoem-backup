@@ -6,33 +6,29 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-jiu-jiu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑞巖徹骨窮，最苦冤憎會。
-- 厨無糝聚蠅，將何物分歲。
-- 擬烹露地牛，催納筋角反爲憂。
-- 擬取鳳凰髓，傷損太平祥瑞氣。
-- 擬吞栗棘蓬，塞斷咽喉氣不通。
-- 擬包鐵酸餡，欠紫絲頭難措辦。
-- 不如據見定，隨家豐儉。
-- 泉𣂏聖井，盤簇靈芝，鱠縷綠雲，餠翻剪月，飯後更煎茶一盞。
+- 墅里山前，一棚傀儡。
+- 箇東箇西，或進或退。
+- 打東山皷樂，斷送及時。
+- 著楊岐戲衫，編排合製。
+- 雖由行主線牽抽，妙舞三臺誰不會。
+- 誰不會，喝彩一聲，鴉飛鵲喙。
 
 ## 拼音
 
-- rui4 yan2 che4 gu3 qiong2 ， zui4 ku3 yuan1 zeng1 hui4 。
-- chu2 wu2 san3 ju4 ying2 ， jiang1 he2 wu4 fen1 sui4 。
-- ni3 peng1 lu4 di4 niu2 ， cui1 na4 jin1 jiao3 fan3 wei2 you1 。
-- ni3 qu3 feng4 huang2 sui3 ， shang1 sun3 tai4 ping2 xiang2 rui4 qi4 。
-- ni3 tun1 li4 ji2 peng2 ， sai1 duan4 yan1 hou2 qi4 bu4 tong1 。
-- ni3 bao1 tie3 suan1 xian4 ， qian4 zi3 si1 tou2 nan2 cuo4 ban4 。
-- bu4 ru2 ju4 jian4 ding4 ， sui2 jia1 feng1 jian3 。
-- quan2 𣂏 sheng4 jing3 ， pan2 cu4 ling2 zhi1 ， kuai4 lü3 lü4 yun2 ， bing3 fan1 jian3 yue4 ， fan4 hou4 geng4 jian1 cha2 yi4 zhan3 。
+- shu4 li3 shan1 qian2 ， yi4 peng2 kui3 lei3 。
+- ge4 dong1 ge4 xi1 ， huo4 jin4 huo4 tui4 。
+- da3 dong1 shan1 gu3 le4 ， duan4 song4 ji2 shi2 。
+- zhu4 yang2 qi2 xi4 shan1 ， bian1 pai2 he2 zhi4 。
+- sui1 you2 xing2 zhu3 xian4 qian1 chou1 ， miao4 wu3 san1 tai2 shui2 bu2 hui4 。
+- shui2 bu2 hui4 ， he4 cai3 yi4 sheng1 ， ya1 fei1 que4 hui4 。
 
 ## 注释
 

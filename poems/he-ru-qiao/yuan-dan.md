@@ -6,10 +6,10 @@ titleSlug: yuan-dan
 author: 何汝樵
 authorPinyin: he2 ru3 qiao2
 authorSlug: he-ru-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

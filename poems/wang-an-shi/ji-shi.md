@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徑暖草如積，山晴花更繁。
-- 縱橫一川水，高下數家村。
-- 靜憩鷄鳴午，荒尋犬吠昏。
-- 歸來向人說，疑是武陵源。
+- 河流南苑岸西斜，風有晶光露有華。
+- 門柳故人陶令宅，井桐前日總持家。
+- 嘉招欲覆杯中淥，麗唱仍添錦上花。
+- 便作武陵樽俎客，川源應未少紅霞。
 
 ## 拼音
 
-- jing4 nuan3 cao3 ru2 ji1 ， shan1 qing2 hua1 geng4 fan2 。
-- zong4 heng2 yi4 chuan1 shui3 ， gao1 xia4 shu4 jia1 cun1 。
-- jing4 qi4 ji1 ming2 wu3 ， huang1 xun2 quan3 fei4 hun1 。
-- gui1 lai2 xiang4 ren2 shuo1 ， yi2 shi4 wu3 ling2 yuan2 。
+- he2 liu2 nan2 yuan4 an4 xi1 xie2 ， feng1 you3 jing1 guang1 lu4 you3 hua2 。
+- men2 liu3 gu4 ren2 tao2 ling4 zhai2 ， jing3 tong2 qian2 ri4 zong3 chi2 jia1 。
+- jia1 zhao1 yu4 fu4 bei1 zhong1 lu4 ， li2 chang4 reng2 tian1 jin3 shang4 hua1 。
+- bian4 zuo4 wu3 ling2 zun1 zu3 ke4 ， chuan1 yuan2 ying1 wei4 shao3 hong2 xia2 。
 
 ## 注释
 

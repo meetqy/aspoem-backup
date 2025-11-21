@@ -6,9 +6,9 @@ titleSlug: xie-zhu-gao-you-hui-zhan-lu-shi-ji
 author: 張煒
 authorPinyin: zhang1 wei3
 authorSlug: zhang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

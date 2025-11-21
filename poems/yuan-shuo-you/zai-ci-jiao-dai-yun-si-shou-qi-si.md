@@ -6,21 +6,21 @@ titleSlug: zai-ci-jiao-dai-yun-si-shou-qi-si
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩人妙思天同巧，鬼守玄關不及扃。
-- 閒挹山光誦奇語，斷無塵滓溷襟靈。
+- 傳聞洞府鎖高清，探著詩成數啟扃。
+- 想見羣僊書玉葉，更應交口歎精靈。
 
 ## 拼音
 
-- shi1 ren2 miao4 si1 tian1 tong2 qiao3 ， gui3 shou3 xuan2 guan1 bu4 ji2 jiong1 。
-- xian2 yi4 shan1 guang1 song4 qi2 yu3 ， duan4 wu2 chen2 zi3 hun4 jin1 ling2 。
+- chuan2 wen2 dong4 fu3 suo3 gao1 qing1 ， tan4 zhu4 shi1 cheng2 shu4 qi3 jiong1 。
+- xiang3 jian4 qun2 xian1 shu1 yu4 ye4 ， geng4 ying1 jiao1 kou3 tan4 jing1 ling2 。
 
 ## 注释
 

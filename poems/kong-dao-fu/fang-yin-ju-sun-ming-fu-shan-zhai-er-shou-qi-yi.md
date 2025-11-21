@@ -6,10 +6,10 @@ titleSlug: fang-yin-ju-sun-ming-fu-shan-zhai-er-shou-qi-yi
 author: 孔道輔
 authorPinyin: kong3 dao4 fu3
 authorSlug: kong-dao-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

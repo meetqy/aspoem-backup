@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-san
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落月導螢穿絳幔，殘膏呼鼠覆青燈。
-- 心知黠鬼慵窺屋，戶上聊施艾道陵。
+- 醉尉怒呵故侯獵，亭長豪奪徵君牛。
+- 射虎將軍餘怒在，賣藥先生一笑休。
 
 ## 拼音
 
-- luo4 yue4 dao3 ying2 chuan1 jiang4 man4 ， can2 gao1 hu1 shu3 fu4 qing1 deng1 。
-- xin1 zhi1 xia2 gui3 yong1 kui1 wu1 ， hu4 shang4 liao2 shi1 ai4 dao4 ling2 。
+- zui4 wei4 nu4 he1 gu4 hou2 lie4 ， ting2 chang2 hao2 duo2 zhi3 jun1 niu2 。
+- she4 hu3 jiang1 jun1 yu2 nu4 zai4 ， mai4 yao4 xian1 sheng0 yi2 xiao4 xiu1 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: mei-yao-chen-yu
-title: 雨
-titlePinyin: yu3
+title: 魚
+titlePinyin: yu2
 titleSlug: yu
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春雲易成雨，一日幾迴陰。
-- 燕濕飛猶快，花寒色更深。
-- 邀車愁客遠，盤馬畏泥侵。
-- 向晚晴光吐，西窗綠影臨。
+- 洛水美赬鯉，入河西去時。
+- 三春登玉浪，一日到天池。
+- 垂釣豈容羨，小鱗應莫隨。
+- 腹中無匕首，已不助吳兒。
 
 ## 拼音
 
-- chun1 yun2 yi4 cheng2 yu3 ， yi2 ri4 ji1 hui2 yin1 。
-- yan4 shi1 fei1 you2 kuai4 ， hua1 han2 se4 geng4 shen1 。
-- yao1 ju1 chou2 ke4 yuan3 ， pan2 ma3 wei4 ni2 qin1 。
-- xiang4 wan3 qing2 guang1 tu3 ， xi1 chuang1 lü4 ying3 lin2 。
+- luo4 shui3 mei3 cheng1 li3 ， ru4 he2 xi1 qu4 shi2 。
+- san1 chun1 deng1 yu4 lang4 ， yi2 ri4 dao4 tian1 chi2 。
+- chui2 diao4 qi3 rong2 xian4 ， xiao3 lin2 ying1 mo4 sui2 。
+- fu4 zhong1 wu2 bi3 shou3 ， yi3 bu2 zhu4 wu2 er2 。
 
 ## 注释
 

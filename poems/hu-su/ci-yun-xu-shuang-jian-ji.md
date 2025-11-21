@@ -1,6 +1,6 @@
 ---
 id: hu-su-ci-yun-xu-shuang-jian-ji
-title: 次韵徐爽見寄
+title: 次韻徐爽見寄
 titlePinyin: ci4 yun4 xu2 shuang3 jian4 ji4
 titleSlug: ci-yun-xu-shuang-jian-ji
 author: 胡宿
@@ -9,7 +9,7 @@ authorSlug: hu-su
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

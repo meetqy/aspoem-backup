@@ -6,9 +6,9 @@ titleSlug: you-dong-xiao
 author: 李彙
 authorPinyin: li3 hui4
 authorSlug: li-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

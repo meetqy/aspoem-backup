@@ -9,28 +9,30 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾漲海陽泉，以爲海陽湖。
-- 千峯在水中，狀類皆自殊。
-- 有如三神山，蒼蒼海上孤。
-- 又似洲島中，忽然見龍魚。
-- 引船過石間，隨興得所如。
-- 每有愜心處，沈吟復躊躇。
-- 吾恐天地間，怪異如此無。
+- 閑遊愛湖廣，湖廣叢怪石。
+- 迴合萬里勢，□□□□□。
+- 綠動若無底，波澄涵雲碧。
+- 鎔水復何如，昆池吾不易。
+- 茲境多所尚，親鄰道與釋。
+- 外望雖異門，中間不相隔。
+- 開鑿盡天然，智者留奇跡。
+- 我願長此遊，誰言一朝夕。
 
 ## 拼音
 
-- wu2 zhang3 hai3 yang2 quan2 ， yi3 wei2 hai3 yang2 hu2 。
-- qian1 feng1 zai4 shui3 zhong1 ， zhuang4 lei4 jie1 zi4 shu1 。
-- you3 ru2 san1 shen2 shan1 ， cang1 cang1 hai3 shang4 gu1 。
-- you4 si4 zhou1 dao3 zhong1 ， hu1 ran2 jian4 long2 yu2 。
-- yin3 chuan2 guo4 shi2 jian4 ， sui2 xing1 de2 suo3 ru2 。
-- mei3 you3 qie4 xin1 chu3 ， shen3 yin2 fu4 chou2 chu2 。
-- wu2 kong3 tian1 di4 jian4 ， guai4 yi4 ru2 ci3 wu2 。
+- xian2 you2 ai4 hu2 guang3 ， hu2 guang3 cong2 guai4 shi2 。
+- hui2 he2 wan4 li3 shi4 ，□□□□□。
+- lü4 dong4 ruo4 wu2 di3 ， bo1 cheng2 han2 yun2 bi4 。
+- rong2 shui3 fu4 he2 ru2 ， kun1 chi2 wu2 bu2 yi4 。
+- zi1 jing4 duo1 suo3 shang4 ， qin1 lin2 dao4 yu3 shi4 。
+- wai4 wang4 sui1 yi4 men2 ， zhong1 jian4 bu4 xiang1 ge2 。
+- kai1 zao2 jin4 tian1 ran2 ， zhi4 zhe3 liu2 qi2 ji4 。
+- wo3 yuan4 chang2 ci3 you2 ， shui2 yan2 yi4 zhao1 xi1 。
 
 ## 注释
 

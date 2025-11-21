@@ -6,10 +6,10 @@ titleSlug: ci-yun-de-sheng-shang-shu-yong-qing-ge-hou-guan-mei-zhi-zuo
 author: 綦崇禮
 authorPinyin: qi2 chong2 li3
 authorSlug: qi-chong-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

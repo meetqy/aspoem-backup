@@ -9,18 +9,16 @@ authorSlug: lu-chang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 蜀道易，易於履平地。
-- 蟬噪入雲樹，風開無主花。
+- 滿手香傳金菊酒，漏聲遙滴上陽宮。
 
 ## 拼音
 
-- shu3 dao4 yi4 ， yi4 wu1 lü3 ping2 di4 。
-- chan2 zao4 ru4 yun2 shu4 ， feng1 kai1 wu2 zhu3 hua1 。
+- man3 shou3 xiang1 chuan2 jin1 ju2 jiu3 ， lou4 sheng1 yao2 di1 shang4 yang2 gong1 。
 
 ## 注释
 

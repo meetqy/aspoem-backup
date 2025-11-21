@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 人間萬恨已難平，栽得垂【楊】更繫情。
-- 猶喜閏前霜未下，菊邊依舊舞身輕。
+- 不疑陶令是狂生，作賦其如有定情。
+- 猶勝江南隱居士，詩魔終嫋負孤名。
 
 ## 拼音
 
-- ren2 jian4 wan4 hen4 yi3 nan2 ping2 ， zai1 de2 chui2 【 yang2 】 geng4 xi4 qing2 。
-- you2 xi3 run4 qian2 shuang1 wei4 xia4 ， ju2 bian1 yi1 jiu4 wu3 shen1 qing1 。
+- bu4 yi2 tao2 ling4 shi4 kuang2 sheng1 ， zuo4 fu4 qi2 ru2 you3 ding4 qing2 。
+- you2 sheng4 jiang1 nan2 yin3 ju1 shi4 ， shi1 mo2 zhong1 niao3 fu4 gu1 ming2 。
 
 ## 注释
 

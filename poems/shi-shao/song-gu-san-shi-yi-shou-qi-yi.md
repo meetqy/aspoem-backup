@@ -1,26 +1,26 @@
 ---
 id: shi-shao-song-gu-san-shi-yi-shou-qi-yi
-title: 頌古三十一首  其一
-titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1
+title: 頌古三十一首  其一○
+titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1 ○
 titleSlug: song-gu-san-shi-yi-shou-qi-yi
 author: 釋玿
 authorPinyin: shi4 shao2
 authorSlug: shi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 文死罔明休卜度，瞿曇女子謾鍼錐。
-- 推倒鐵山歸去也，縱橫十字更由誰。
+- 此兒活計口皮邊，點著風馳與電旋。
+- 謾說鎮州蘿蔔大，何曾親見老南泉。
 
 ## 拼音
 
-- wen2 si3 wang3 ming2 xiu1 bu3 du4 ， qu2 tan2 nü3 zi3 man2 zhen1 zhui1 。
-- tui1 dao3 tie3 shan1 gui1 qu4 ye3 ， zong4 heng2 shi2 zi4 geng4 you2 shui2 。
+- ci3 er2 huo2 ji4 kou3 pi2 bian1 ， dian3 zhu4 feng1 chi2 yu3 dian4 xuan2 。
+- man2 shuo1 zhen4 zhou1 luo2 bo0 da4 ， he2 ceng2 qin1 jian4 lao3 nan2 quan2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: he-wang-wei-zhi-shi-jun-qi-shan-huai-gu-yun
 author: 曹仁海
 authorPinyin: cao2 ren2 hai3
 authorSlug: cao-ren-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

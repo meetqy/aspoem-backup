@@ -6,10 +6,10 @@ titleSlug: xia-ri-guan-nong
 author: 尤槩
 authorPinyin: you2 gai4
 authorSlug: you-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

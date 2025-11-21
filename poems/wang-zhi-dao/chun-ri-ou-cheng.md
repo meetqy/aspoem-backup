@@ -6,25 +6,21 @@ titleSlug: chun-ri-ou-cheng
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 餘生今赴邇英朝，似說夔龍許續貂。
-- 枯枿遂承新雨露，蒼鷹應識舊雲霄。
-- 廢興須信闗時命，勞逸誰能問貫條。
-- 十載山林勞夢寐，五更天仗聽簫韶。
+- 短垣新雨上銀泥，柳外幽花咫尺迷。
+- 獨喜流鶯解人意，一聲聲傍綠窗啼。
 
 ## 拼音
 
-- yu2 sheng1 jin1 fu4 er3 ying1 chao2 ， si4 shuo1 kui2 long2 xu1 xu4 diao1 。
-- ku1 nie4 sui4 cheng2 xin1 yu3 lu4 ， cang1 ying1 ying1 shi2 jiu4 yun2 xiao1 。
-- fei4 xing1 xu1 xin4 guan1 shi2 ming4 ， lao2 yi4 shui2 neng2 wen4 guan4 tiao2 。
-- shi2 zai4 shan1 lin2 lao2 meng4 mei4 ， wu3 geng1 tian1 zhang4 ting1 xiao1 shao2 。
+- duan3 yuan2 xin1 yu3 shang4 yin2 ni2 ， liu3 wai4 you1 hua1 zhi3 chi3 mi2 。
+- du2 xi3 liu2 ying1 jie3 ren2 yi4 ， yi4 sheng1 sheng1 bang4 lü4 chuang1 ti2 。
 
 ## 注释
 

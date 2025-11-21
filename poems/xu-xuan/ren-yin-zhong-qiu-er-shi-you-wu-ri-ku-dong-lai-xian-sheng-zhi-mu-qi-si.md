@@ -6,10 +6,10 @@ titleSlug: ren-yin-zhong-qiu-er-shi-you-wu-ri-ku-dong-lai-xian-sheng-zhi-mu-qi-s
 author: 徐暄
 authorPinyin: xu2 xuan1
 authorSlug: xu-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

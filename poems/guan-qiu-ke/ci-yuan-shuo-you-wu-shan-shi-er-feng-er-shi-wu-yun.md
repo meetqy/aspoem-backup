@@ -6,10 +6,10 @@ titleSlug: ci-yuan-shuo-you-wu-shan-shi-er-feng-er-shi-wu-yun
 author: 毌丘恪
 authorPinyin: guan4 qiu1 ke4
 authorSlug: guan-qiu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: feng-ji-ling-yan-chang-lao-que-gong-da-shi-qi-er
 author: 盛陶
 authorPinyin: sheng4 tao2
 authorSlug: sheng-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: chi-cha-ling-yan-si-zhu-da-shi-xiang-gong-fu-si
 author: 張掞
 authorPinyin: zhang1 yan4
 authorSlug: zhang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: chou-zhong-wei-yi-she-di-tian-zhi-chi-jie-yu-jin-chen-feng-shu-jian-q
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

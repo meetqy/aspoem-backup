@@ -6,10 +6,10 @@ titleSlug: wu-yue-liu-ri-yue-zhu-you-you-bei-shan-zhou-yi-ju-er-yu-ou-bu-neng-ch
 author: 高斯得
 authorPinyin: gao1 si1 de2
 authorSlug: gao-si-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-yuan-wei-zhi-chun-you-yun-ji-hong-jing-bo
 author: 李端民
 authorPinyin: li3 duan1 min2
 authorSlug: li-duan-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

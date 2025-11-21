@@ -6,10 +6,10 @@ titleSlug: xuan-he-ren-yin-zhong-dong-er-shi-liu-ri-liu-bie-lin-chuan-chen-tai-y
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,22 @@ authorSlug: wei-zhuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 黃金日日銷還鑄，僊桂年年折又生。
-- 兔走烏飛如未息，路塵終見泰山平。
+- 爲儒逢世亂，吾道欲何之。
+- 學劒已應晚，歸山今又遲。
+- 故人三載別，明月兩鄉悲。
+- 惆悵滄江上，星星鬢有絲。
 
 ## 拼音
 
-- huang2 jin1 ri4 ri4 xiao1 huan2 zhu4 ， xian1 gui4 nian2 nian2 zhe2 you4 sheng1 。
-- tu4 zou3 wu1 fei1 ru2 wei4 xi1 ， lu4 chen2 zhong1 jian4 tai4 shan1 ping2 。
+- wei2 ru2 feng2 shi4 luan4 ， wu2 dao4 yu4 he2 zhi1 。
+- xue2 jian4 yi3 ying1 wan3 ， gui1 shan1 jin1 you4 chi2 。
+- gu4 ren2 san1 zai4 bie2 ， ming2 yue4 liang3 xiang1 bei1 。
+- chou2 chang4 cang1 jiang1 shang4 ， xing1 xing0 bin4 you3 si1 。
 
 ## 注释
 

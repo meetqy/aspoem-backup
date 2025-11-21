@@ -6,10 +6,10 @@ titleSlug: dao-fan-yang-deng-long-hu
 author: 江萬里
 authorPinyin: jiang1 wan4 li3
 authorSlug: jiang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wan-zui-kou-zhan
 author: 譚知柔
 authorPinyin: tan2 zhi1 rou2
 authorSlug: tan-zhi-rou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

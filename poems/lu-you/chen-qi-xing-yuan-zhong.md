@@ -6,25 +6,25 @@ titleSlug: chen-qi-xing-yuan-zhong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老病厭囂煩，晨興步小園。
-- 草深移舊路，竹茂失頹垣。
-- 未暇從魚樂，惟思與石言。
-- 人家尋每得，拄杖印苔痕。
+- 晨日未出林，庭戶有爽氣。
+- 僮奴課薪水，老子自擁篲。
+- 稻陂方閔雨，草木亦憔悴。
+- 群蛙汝何心，尚復作鼓吹。
 
 ## 拼音
 
-- lao3 bing4 yan4 xiao1 fan2 ， chen2 xing1 bu4 xiao3 yuan2 。
-- cao3 shen1 yi2 jiu4 lu4 ， zhu2 mao4 shi1 tui2 yuan2 。
-- wei4 xia2 cong2 yu2 le4 ， wei2 si1 yu3 shi2 yan2 。
-- ren2 jia1 xun2 mei3 de2 ， zhu3 zhang4 yin4 tai2 hen2 。
+- chen2 ri4 wei4 chu1 lin2 ， ting2 hu4 you3 shuang3 qi4 。
+- tong2 nu2 ke4 xin1 shui3 ， lao3 zi3 zi4 yong1 hui4 。
+- dao4 bei1 fang1 min3 yu3 ， cao3 mu4 yi4 qiao2 cui4 。
+- qun2 wa1 ru3 he2 xin1 ， shang4 fu4 zuo4 gu3 chui1 。
 
 ## 注释
 

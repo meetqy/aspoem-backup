@@ -6,10 +6,10 @@ titleSlug: yu-chang-ai-du-mu-zhi-wan-hua-hong-yan-jing-gao-shu-lu-yin-chu-zhi-ju
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

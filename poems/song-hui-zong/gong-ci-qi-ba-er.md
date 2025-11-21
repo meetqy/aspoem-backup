@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 上春精擇建溪芽，攜向芸窗力鬬茶。
-- 點處未容分品格，捧甌相近比瓊花。
+- 晝漏聲催篆縷殘，碧墀幽寂畫堂寛。
+- 九嬪相習敦詩訓，爭把關雎諷咏看。
 
 ## 拼音
 
-- shang4 chun1 jing1 ze2 jian4 xi1 ya2 ， xie2 xiang4 yun2 chuang1 li4 dou4 cha2 。
-- dian3 chu3 wei4 rong2 fen1 pin3 ge2 ， peng3 ou1 xiang1 jin4 bi3 qiong2 hua1 。
+- zhou4 lou4 sheng1 cui1 zhuan4 lü3 can2 ， bi4 chi2 you1 ji4 hua4 tang2 kuan1 。
+- jiu3 pin2 xiang1 xi2 dun1 shi1 xun4 ， zheng1 ba3 guan1 ju1 feng3 yong3 kan4 。
 
 ## 注释
 

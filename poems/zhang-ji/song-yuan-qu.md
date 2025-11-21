@@ -9,22 +9,28 @@ authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 戲馬臺南山簇簇，山邊飲酒歌別曲。
-- 行人醉後起登車，席上回尊勸僮僕。
-- 青天漫漫覆長路，遠遊無家安得住。
-- 願君到處自題名，他日知君從此去。
+- 吳門向西流水長，水長柳暗煙茫茫。
+- 行人送客各惆悵，話離敘別傾清觴。
+- 吟絲竹，鳴笙簧，酒酣性逸歌猖狂。
+- 行人告我挂帆去，此去何時返故鄉。
+- 殷勤振衣兩相囑，世事近來還淺促。
+- 願君看取吳門山，帶雪經春依舊綠。
+- 行人行處求知親，送君去去徒酸辛。
 
 ## 拼音
 
-- xi4 ma3 tai2 nan2 shan1 cu4 cu4 ， shan1 bian1 yin3 jiu3 ge1 bie2 qu3 。
-- xing2 ren2 zui4 hou4 qi3 deng1 ju1 ， xi2 shang4 hui2 zun1 quan4 tong2 pu2 。
-- qing1 tian1 man4 man4 fu4 chang2 lu4 ， yuan3 you2 wu2 jia1 an1 de2 zhu4 。
-- yuan4 jun1 dao4 chu3 zi4 ti2 ming2 ， ta1 ri4 zhi1 jun1 cong2 ci3 qu4 。
+- wu2 men2 xiang4 xi1 liu2 shui3 chang2 ， shui3 chang2 liu3 an4 yan1 mang2 mang2 。
+- xing2 ren2 song4 ke4 ge4 chou2 chang4 ， hua4 li2 xu4 bie2 qing1 qing1 shang1 。
+- yin2 si1 zhu2 ， ming2 sheng1 huang2 ， jiu3 han1 xing4 yi4 ge1 chang1 kuang2 。
+- xing2 ren2 gao4 wo3 gua4 fan1 qu4 ， ci3 qu4 he2 shi2 fan3 gu4 xiang1 。
+- yin1 qin2 zhen4 yi1 liang3 xiang1 zhu3 ， shi4 shi4 jin4 lai2 huan2 qian3 cu4 。
+- yuan4 jun1 kan4 qu3 wu2 men2 shan1 ， dai4 xue3 jing1 chun1 yi1 jiu4 lü4 。
+- xing2 ren2 xing2 chu3 qiu2 zhi1 qin1 ， song4 jun1 qu4 qu4 tu2 suan1 xin1 。
 
 ## 注释
 

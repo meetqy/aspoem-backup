@@ -6,21 +6,21 @@ titleSlug: zeng-bi-gong
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 護惜神鋒逮缺殘，回觀敗塚只潸然。
-- 只今汗血無人問，朽骨成山直幾錢。
+- 散捉紫毫新脫穎，玄泓渴飲淬鋒寒。
+- 將軍翰墨場中老，避槊方知奪槊難。
 
 ## 拼音
 
-- hu4 xi1 shen2 feng1 dai3 que1 can2 ， hui2 guan1 bai4 zhong3 zhi1 shan1 ran2 。
-- zhi1 jin1 han4 xue4 wu2 ren2 wen4 ， xiu3 gu3 cheng2 shan1 zhi2 ji1 qian2 。
+- san4 zhuo1 zi3 hao2 xin1 tuo1 ying3 ， xuan2 hong2 ke3 yin3 cui4 feng1 han2 。
+- jiang1 jun1 han4 mo4 chang3 zhong1 lao3 ， bi4 shuo4 fang1 zhi1 duo2 shuo4 nan2 。
 
 ## 注释
 

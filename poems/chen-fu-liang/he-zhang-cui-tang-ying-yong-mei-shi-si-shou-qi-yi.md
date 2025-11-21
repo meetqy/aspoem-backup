@@ -1,30 +1,30 @@
 ---
 id: chen-fu-liang-he-zhang-cui-tang-ying-yong-mei-shi-si-shou-qi-yi
-title: 和張倅唐英詠梅十四首  其一
-titlePinyin: he2 zhang1 cui4 tang2 ying1 yong3 mei2 shi2 si4 shou3     qi2 yi1
+title: 和張倅唐英詠梅十四首  其一○
+titlePinyin: he2 zhang1 cui4 tang2 ying1 yong3 mei2 shi2 si4 shou3     qi2 yi1 ○
 titleSlug: he-zhang-cui-tang-ying-yong-mei-shi-si-shou-qi-yi
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 種梅欲百畝，誰老意未渝。
-- 有山在堂背，有溪在庭除。
-- 我危坐中央，花以寘坐隅。
-- 人固不可親，花亦不可疎。
+- 遲遲可殿後，寂寂可鎮浮。
+- 風人第一章，窈窕河之洲。
+- 穆如三代英，惟此宜與儔。
+- 不然則臞仙，玉簫下秦樓。
 
 ## 拼音
 
-- zhong3 mei2 yu4 bai3 mu3 ， shui2 lao3 yi4 wei4 yu2 。
-- you3 shan1 zai4 tang2 bei4 ， you3 xi1 zai4 ting2 chu2 。
-- wo3 wei1 zuo4 zhong1 yang1 ， hua1 yi3 zhi4 zuo4 yu2 。
-- ren2 gu4 bu4 ke3 qin1 ， hua1 yi4 bu4 ke3 shu1 。
+- chi2 chi2 ke3 dian4 hou4 ， ji4 ji4 ke3 zhen4 fu2 。
+- feng1 ren2 di4 yi1 zhang1 ， yao3 tiao3 he2 zhi1 zhou1 。
+- mu4 ru2 san1 dai4 ying1 ， wei2 ci3 yi2 yu3 chou2 。
+- bu4 ran2 ze2 qu2 xian1 ， yu4 xiao1 xia4 qin2 lou2 。
 
 ## 注释
 

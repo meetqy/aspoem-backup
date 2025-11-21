@@ -1,26 +1,26 @@
 ---
 id: shi-ju-jian-mo-li-zhi
-title: 墨荔枝
+title: 墨荔支
 titlePinyin: mo4 li4 zhi1
 titleSlug: mo-li-zhi
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵蛻冰膚玉透肌，皺絺洴墨剪裳衣。
-- 芳鮮甘與緇雲老，不與輕紅轉眼稀。
+- 老坡曾比江瑶柱，或謂江瑶柱不如。
+- 擬寫釵頭皺紅小，斷魂蠻雨瘴煙疎。
 
 ## 拼音
 
-- chen2 tui4 bing1 fu1 yu4 tou4 ji1 ， zhou4 chi1 ping2 mo4 jian3 shang0 yi1 。
-- fang1 xian1 gan1 yu3 zi1 yun2 lao3 ， bu4 yu3 qing1 hong2 zhuan3 yan3 xi1 。
+- lao3 po1 ceng2 bi3 jiang1 yao2 zhu4 ， huo4 wei4 jiang1 yao2 zhu4 bu4 ru2 。
+- ni3 xie3 chai1 tou2 zhou4 hong2 xiao3 ， duan4 hun2 man2 yu3 zhang4 yan1 shu1 。
 
 ## 注释
 

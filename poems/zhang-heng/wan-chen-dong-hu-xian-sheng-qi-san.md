@@ -6,10 +6,10 @@ titleSlug: wan-chen-dong-hu-xian-sheng-qi-san
 author: 張衡
 authorPinyin: zhang1 heng2
 authorSlug: zhang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

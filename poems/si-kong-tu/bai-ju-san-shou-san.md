@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 爲報繁霜且莫催，窮秋須到自低垂。
-- 橫拖長袖招人別，只待春風却舞來。
+- 登高可羨少年場，白菊堆邊鬢似霜。
+- 益算更希沾上藥，今朝第七十重陽。
 
 ## 拼音
 
-- wei2 bao4 fan2 shuang1 qie3 mo4 cui1 ， qiong2 qiu1 xu1 dao4 zi4 di1 chui2 。
-- heng2 tuo1 chang2 xiu4 zhao1 ren2 bie2 ， zhi1 dai4 chun1 feng1 que4 wu3 lai2 。
+- deng1 gao1 ke3 xian4 shao4 nian2 chang3 ， bai2 ju2 dui1 bian1 bin4 si4 shuang1 。
+- yi4 suan4 geng4 xi1 zhan1 shang4 yao4 ， jin1 zhao1 di4 qi1 shi2 zhong4 yang2 。
 
 ## 注释
 

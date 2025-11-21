@@ -6,10 +6,10 @@ titleSlug: deng-shai-suo-tai
 author: 程以南
 authorPinyin: cheng2 yi3 nan2
 authorSlug: cheng-yi-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

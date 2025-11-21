@@ -6,10 +6,10 @@ titleSlug: ti-ling-yan-si
 author: 孔舜思
 authorPinyin: kong3 shun4 si1
 authorSlug: kong-shun-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

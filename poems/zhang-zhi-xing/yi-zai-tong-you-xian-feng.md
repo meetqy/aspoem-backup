@@ -6,10 +6,10 @@ titleSlug: yi-zai-tong-you-xian-feng
 author: 張志行
 authorPinyin: zhang1 zhi4 xing2
 authorSlug: zhang-zhi-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

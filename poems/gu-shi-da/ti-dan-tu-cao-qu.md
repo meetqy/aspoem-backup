@@ -6,10 +6,10 @@ titleSlug: ti-dan-tu-cao-qu
 author: 顧時大
 authorPinyin: gu4 shi2 da4
 authorSlug: gu-shi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

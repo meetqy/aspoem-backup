@@ -6,10 +6,10 @@ titleSlug: meng-neng-jing-xi-shang-chu-si-wu-fen-yun-de-ya-bei-zhua-hua-zi-shi-c
 author: 宋無
 authorPinyin: song4 wu2
 authorSlug: song-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

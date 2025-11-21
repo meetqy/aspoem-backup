@@ -6,10 +6,10 @@ titleSlug: ju-wu-zi-zhai
 author: 王齊愈
 authorPinyin: wang2 qi2 yu4
 authorSlug: wang-qi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: de-shou-qian-zhou-guo-xiang-bang-zeng-bie-qu-zhou-tai-shou-gao-fu-ton
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

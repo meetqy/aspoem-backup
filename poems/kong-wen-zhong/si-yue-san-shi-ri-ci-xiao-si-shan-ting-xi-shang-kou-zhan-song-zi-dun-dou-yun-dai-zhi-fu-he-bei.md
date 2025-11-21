@@ -6,10 +6,10 @@ titleSlug: si-yue-san-shi-ri-ci-xiao-si-shan-ting-xi-shang-kou-zhan-song-zi-dun-
 author: 孔文仲
 authorPinyin: kong3 wen2 zhong4
 authorSlug: kong-wen-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

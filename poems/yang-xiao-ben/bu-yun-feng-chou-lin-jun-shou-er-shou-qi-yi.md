@@ -6,10 +6,10 @@ titleSlug: bu-yun-feng-chou-lin-jun-shou-er-shou-qi-yi
 author: 陽孝本
 authorPinyin: yang2 xiao4 ben3
 authorSlug: yang-xiao-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

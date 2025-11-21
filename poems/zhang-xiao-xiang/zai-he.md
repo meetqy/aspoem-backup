@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 張孝祥
 authorPinyin: zhang1 xiao4 xiang2
 authorSlug: zhang-xiao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 借雨尋山故自奇，幕中佳客肯相隨。
-- 清游端拜史君賜，此樂詎容兒輩知。
-- 暗谷水來鳴雜佩，遠峯煙斷出脩眉。
-- 庾樓百尺江千里，遥憶憑高政索詩。
+- 吾行聊復爾，處處賈胡留。
+- 天入星沙晚，風連夢澤秋。
+- 未容詩作祟，政要酒澆愁。
+- 明月無人伴，携君鸚鵡洲。
 
 ## 拼音
 
-- jie4 yu3 xun2 shan1 gu4 zi4 qi2 ， mu4 zhong1 jia1 ke4 ken3 xiang1 sui2 。
-- qing1 you2 duan1 bai4 shi3 jun1 ci4 ， ci3 le4 ju4 rong2 er2 bei4 zhi1 。
-- an4 gu3 shui3 lai2 ming2 za2 pei4 ， yuan3 feng1 yan1 duan4 chu1 xiu1 mei2 。
-- yu3 lou2 bai3 chi3 jiang1 qian1 li3 ， yao2 yi4 ping2 gao1 zheng4 suo3 shi1 。
+- wu2 xing2 liao2 fu4 er3 ， chu3 chu3 jia3 hu2 liu2 。
+- tian1 ru4 xing1 sha1 wan3 ， feng1 lian2 meng4 ze2 qiu1 。
+- wei4 rong2 shi1 zuo4 sui4 ， zheng4 yao4 jiu3 jiao1 chou2 。
+- ming2 yue4 wu2 ren2 ban4 ， xie2 jun1 ying1 wu3 zhou1 。
 
 ## 注释
 

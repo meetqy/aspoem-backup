@@ -6,10 +6,10 @@ titleSlug: za-qu-ge-ci-jin-lu-yi
 author: 不詳
 authorPinyin: bu4 xiang2
 authorSlug: bu-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: cao-ting-yuan-wang
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 酴醿試玉在新條，風肅朝陽宿霧消。
-- 侵曉不知花有露，清寒惟覺夢無聊。
+- 村舍無樓可望遠，茅亭遠望似登樓。
+- 飽看聚散雲無住，最愛縈回水自由。
+- 詩思已隨芳草動，春寒少爲好山留。
+- 誰將裘馬換美酒，與我同消萬古愁。
 
 ## 拼音
 
-- tu2 mi2 shi4 yu4 zai4 xin1 tiao2 ， feng1 su4 chao2 yang2 su4 wu4 xiao1 。
-- qin1 xiao3 bu4 zhi1 hua1 you3 lu4 ， qing1 han2 wei2 jue2 meng4 wu2 liao2 。
+- cun1 she4 wu2 lou2 ke3 wang4 yuan3 ， mao2 ting2 yuan3 wang4 si4 deng1 lou2 。
+- bao3 kan4 ju4 san4 yun2 wu2 zhu4 ， zui4 ai4 ying2 hui2 shui3 zi4 you2 。
+- shi1 si1 yi3 sui2 fang1 cao3 dong4 ， chun1 han2 shao3 wei2 hao3 shan1 liu2 。
+- shui2 jiang1 qiu2 ma3 huan4 mei3 jiu3 ， yu3 wo3 tong2 xiao1 wan4 gu3 chou2 。
 
 ## 注释
 

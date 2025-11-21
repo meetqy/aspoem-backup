@@ -6,21 +6,25 @@ titleSlug: za-gan-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 艱危寧度瘦驢嶺，奔走莫隨肥馬塵。
-- 困阨終身元自好，可憐癡子恨無津。
+- 雨霽花無幾，愁多酒不支。
+- 凄凉數聲笛，零亂一枰棋。
+- 蹈海言猶在，移山志未衰。
+- 何人知壯士，擊筑有餘悲。
 
 ## 拼音
 
-- jian1 wei1 ning2 du4 shou4 lü2 ling3 ， ben1 zou3 mo4 sui2 fei2 ma3 chen2 。
-- kun4 e4 zhong1 shen1 yuan2 zi4 hao4 ， ke3 lian2 chi1 zi3 hen4 wu2 jin1 。
+- yu3 ji4 hua1 wu2 ji1 ， chou2 duo1 jiu3 bu4 zhi1 。
+- qi1 liang2 shu4 sheng1 di2 ， ling2 luan4 yi4 ping2 qi2 。
+- dao3 hai3 yan2 you2 zai4 ， yi2 shan1 zhi4 wei4 shuai1 。
+- he2 ren2 zhi1 zhuang4 shi4 ， ji1 zhu4 you3 yu2 bei1 。
 
 ## 注释
 

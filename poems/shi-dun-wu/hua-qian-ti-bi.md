@@ -6,10 +6,10 @@ titleSlug: hua-qian-ti-bi
 author: 釋頓悟
 authorPinyin: shi4 dun4 wu4
 authorSlug: shi-dun-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

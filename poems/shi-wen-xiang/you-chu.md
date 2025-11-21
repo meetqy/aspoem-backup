@@ -6,25 +6,25 @@ titleSlug: you-chu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽處絕煩喧，白雲常在門。
-- 高歌動澗壑，空境外乾坤。
-- 洗眼菖蒲水，輕身枸杞根。
-- 閒中存至樂，難與俗人言。
+- 惡圓難與俗浮沉，野處窮居歲月深。
+- 青嶂於予偏有分，白雲嫌道太無心。
+- 人間富貴皆塵物，世外風泉是好音。
+- 老去翛然竟何事，若非入靜即閒吟。
 
 ## 拼音
 
-- you1 chu3 jue2 fan2 xuan1 ， bai2 yun2 chang2 zai4 men2 。
-- gao1 ge1 dong4 jian4 he4 ， kong1 jing4 wai4 qian2 kun1 。
-- xi3 yan3 chang1 pu2 shui3 ， qing1 shen1 gou3 qi3 gen1 。
-- xian2 zhong1 cun2 zhi4 le4 ， nan2 yu3 su2 ren2 yan2 。
+- e4 yuan2 nan2 yu3 su2 fu2 chen2 ， ye3 chu3 qiong2 ju1 sui4 yue4 shen1 。
+- qing1 zhang4 wu1 yu3 pian1 you3 fen1 ， bai2 yun2 xian2 dao4 tai4 wu2 xin1 。
+- ren2 jian4 fu4 gui4 jie1 chen2 wu4 ， shi4 wai4 feng1 quan2 shi4 hao3 yin1 。
+- lao3 qu4 xiao1 ran2 jing4 he2 shi4 ， ruo4 fei1 ru4 jing4 ji2 xian2 yin2 。
 
 ## 注释
 

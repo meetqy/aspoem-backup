@@ -6,10 +6,10 @@ titleSlug: diao-yue-lou
 author: 王南美
 authorPinyin: wang2 nan2 mei3
 authorSlug: wang-nan-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

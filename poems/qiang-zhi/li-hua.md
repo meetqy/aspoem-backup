@@ -1,30 +1,30 @@
 ---
 id: qiang-zhi-li-hua
-title: 李花
-titlePinyin: li3 hua1
+title: 梨花
+titlePinyin: li2 hua1
 titleSlug: li-hua
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地暖春纔半，蹊深氣已暄。
-- 風光何處好，雪浪此時翻。
-- 勻似金刀翦，裝成玉杖繁。
-- 夭桃漫相壓，吏部竟誰言。
+- 舊愛樂天句，今逢带雨春。
+- 花中都讓潔，月下倍生神。
+- 翫好張瑶席，攀仍贈玉人。
+- 莫開紅紫眼，此外盡非真。
 
 ## 拼音
 
-- di4 nuan3 chun1 cai2 ban4 ， qi1 shen1 qi4 yi3 xuan1 。
-- feng1 guang1 he2 chu3 hao3 ， xue3 lang4 ci3 shi2 fan1 。
-- yun2 si4 jin1 dao1 jian3 ， zhuang1 cheng2 yu4 zhang4 fan2 。
-- yao1 tao2 man4 xiang1 ya1 ， li4 bu4 jing4 shui2 yan2 。
+- jiu4 ai4 le4 tian1 ju4 ， jin1 feng2 dai4 yu3 chun1 。
+- hua1 zhong1 du1 rang4 jie2 ， yue4 xia4 bei4 sheng1 shen2 。
+- wan2 hao3 zhang1 yao2 xi2 ， pan1 reng2 zeng4 yu4 ren2 。
+- mo4 kai1 hong2 zi3 yan3 ， ci3 wai4 jin4 fei1 zhen1 。
 
 ## 注释
 

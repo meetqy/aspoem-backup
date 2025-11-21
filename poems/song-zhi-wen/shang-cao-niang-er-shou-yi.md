@@ -9,18 +9,18 @@ authorSlug: song-zhi-wen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鳳飛樓伎絕，鸞死鏡臺空。
-- 獨憐脂粉氣，猶著舞衣中。
+- 可憐冥漠去何之，獨立丰茸無見期。
+- 君看水上芙蓉色，恰似生前歌舞時。
 
 ## 拼音
 
-- feng4 fei1 lou2 ji4 jue2 ， luan2 si3 jing4 tai2 kong1 。
-- du2 lian2 zhi1 fen3 qi4 ， you2 zhu4 wu3 yi1 zhong1 。
+- ke3 lian2 ming2 mo4 qu4 he2 zhi1 ， du2 li4 feng1 rong2 wu2 jian4 qi1 。
+- jun1 kan4 shui3 shang4 fu2 rong2 se4 ， qia4 si4 sheng1 qian2 ge1 wu3 shi2 。
 
 ## 注释
 

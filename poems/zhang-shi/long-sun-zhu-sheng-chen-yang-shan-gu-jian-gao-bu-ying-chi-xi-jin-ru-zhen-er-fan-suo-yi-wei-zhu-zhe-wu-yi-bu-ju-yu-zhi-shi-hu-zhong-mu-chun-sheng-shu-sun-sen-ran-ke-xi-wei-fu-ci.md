@@ -6,10 +6,10 @@ titleSlug: long-sun-zhu-sheng-chen-yang-shan-gu-jian-gao-bu-ying-chi-xi-jin-ru-z
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shui-lun-lian-ju
 author: 蘇舜元
 authorPinyin: su1 shun4 yuan2
 authorSlug: su-shun-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

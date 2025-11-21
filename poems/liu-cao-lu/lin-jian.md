@@ -6,10 +6,10 @@ titleSlug: lin-jian
 author: 劉草廬
 authorPinyin: liu2 cao3 lu2
 authorSlug: liu-cao-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

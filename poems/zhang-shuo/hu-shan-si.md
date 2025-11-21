@@ -9,22 +9,22 @@ authorSlug: zhang-shuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 楚老遊山寺，提攜觀畫壁。
-- 揚袂指辟支，睩眄相鬬鬩。
-- 險哉透撞兒，千金賭一擲。
-- 成敗身自受，傍人那歎息。
+- 空山寂歷道心生，虛谷迢遙野鳥聲。
+- 禪室從來塵外賞，香臺豈是世中情。
+- 雲間東嶺千尋出，樹裏南湖一片明。
+- 若使巢由知此意，不將蘿薜易簪纓。
 
 ## 拼音
 
-- chu3 lao3 you2 shan1 si4 ， ti2 xie2 guan1 hua4 bi4 。
-- yang2 mei4 zhi3 pi4 zhi1 ， lu4 mian3 xiang1 dou4 xi4 。
-- xian3 zai1 tou4 zhuang4 er2 ， qian1 jin1 du3 yi2 zhi4 。
-- cheng2 bai4 shen1 zi4 shou4 ， bang4 ren2 na4 tan4 xi1 。
+- kong1 shan1 ji4 li4 dao4 xin1 sheng1 ， xu1 gu3 tiao2 yao2 ye3 niao3 sheng1 。
+- shan4 shi4 cong2 lai2 chen2 wai4 shang3 ， xiang1 tai2 qi3 shi4 shi4 zhong1 qing2 。
+- yun2 jian4 dong1 ling3 qian1 xun2 chu1 ， shu4 li3 nan2 hu2 yi2 pian4 ming2 。
+- ruo4 shi3 chao2 you2 zhi1 ci3 yi4 ， bu4 jiang1 luo2 bi4 yi4 zan1 ying1 。
 
 ## 注释
 

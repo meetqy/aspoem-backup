@@ -6,10 +6,10 @@ titleSlug: zhuang-yuan-qu-chun-yong-yang-ji-zhou-zi-zhi-yun-fu-yu-rui-shi-lao-be
 author: 錢文子
 authorPinyin: qian2 wen2 zi3
 authorSlug: qian-wen-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

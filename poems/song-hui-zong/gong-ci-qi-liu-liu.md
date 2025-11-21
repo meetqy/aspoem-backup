@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江浙秋橙入上都，深宮培植向庭除。
-- 金丸磊磊尤珍異，均錫臣鄰侑樂胥。
+- 三十六宮春信早，鬱葱佳氣艷陽天。
+- 莫將舊事論新事，盡道今年勝去年。
 
 ## 拼音
 
-- jiang1 zhe4 qiu1 cheng2 ru4 shang4 dou1 ， shen1 gong1 pei2 zhi2 xiang4 ting2 chu2 。
-- jin1 wan2 lei3 lei3 you2 zhen1 yi4 ， jun1 xi1 chen2 lin2 you4 le4 xu1 。
+- san1 shi2 liu4 gong1 chun1 xin4 zao3 ， yu4 cong1 jia1 qi4 yan4 yang2 tian1 。
+- mo4 jiang1 jiu4 shi4 lun4 xin1 shi4 ， jin4 dao4 jin1 nian2 sheng4 qu4 nian2 。
 
 ## 注释
 

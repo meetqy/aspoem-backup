@@ -6,10 +6,10 @@ titleSlug: song-liu-zheng-zhi-gan-zhou
 author: 傅伯成
 authorPinyin: fu4 bo2 cheng2
 authorSlug: fu-bo-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

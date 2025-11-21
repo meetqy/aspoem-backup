@@ -6,10 +6,10 @@ titleSlug: yu-zhang-qin-xiu-cai-ye-zhong-tu-ci-yan-bie
 author: 潘閬
 authorPinyin: pan1 lang4
 authorSlug: pan-lang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

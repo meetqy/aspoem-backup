@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 誰信華池路最深，非遐非邇奧難尋。
-- 九年採煉如紅玉，一日圓成似紫金。
-- 得了永袪寒署逼，服之應免死生侵。
-- 勸君門外修身者，端念思惟此道心。
+- 誰解長生似我哉，煉成真氣在三台。
+- 盡知白日昇天去，剛逐紅塵下世來。
+- 黑虎行時傾雨露，赤龍耕處產瓊瑰。
+- 只吞一粒金丹藥，飛入青霄更不回。
 
 ## 拼音
 
-- shui2 xin4 hua2 chi2 lu4 zui4 shen1 ， fei1 xia2 fei1 er3 ao4 nan2 xun2 。
-- jiu3 nian2 cai3 lian4 ru2 hong2 yu4 ， yi2 ri4 yuan2 cheng2 si4 zi3 jin1 。
-- de2 le0 yong3 qu1 han2 shu3 bi1 ， fu2 zhi1 ying1 mian3 si3 sheng1 qin1 。
-- quan4 jun1 men2 wai4 xiu1 shen1 zhe3 ， duan1 nian4 si1 wei2 ci3 dao4 xin1 。
+- shui2 jie3 chang2 sheng1 si4 wo3 zai1 ， lian4 cheng2 zhen1 qi4 zai4 san1 tai2 。
+- jin4 zhi1 bai2 ri4 sheng1 tian1 qu4 ， gang1 zhu2 hong2 chen2 xia4 shi4 lai2 。
+- hei1 hu3 xing2 shi2 qing1 yu3 lu4 ， chi4 long2 geng1 chu3 chan3 qiong2 gui1 。
+- zhi1 tun1 yi2 li4 jin1 dan1 yao4 ， fei1 ru4 qing1 xiao1 geng4 bu4 hui2 。
 
 ## 注释
 

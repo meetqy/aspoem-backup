@@ -6,10 +6,10 @@ titleSlug: kuan-min-tang
 author: 顔耆仲
 authorPinyin: yan2 qi2 zhong4
 authorSlug: yan-qi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

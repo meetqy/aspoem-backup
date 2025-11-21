@@ -6,10 +6,10 @@ titleSlug: shang-yuan
 author: 田太靖
 authorPinyin: tian2 tai4 jing4
 authorSlug: tian-tai-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

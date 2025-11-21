@@ -6,9 +6,9 @@ titleSlug: ju
 author: 吳民載
 authorPinyin: wu2 min2 zai4
 authorSlug: wu-min-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

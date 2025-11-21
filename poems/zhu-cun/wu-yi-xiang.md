@@ -9,18 +9,22 @@ authorSlug: zhu-cun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 人物風流往往非，空餘陋巷作烏衣。
-- 舊時簾幕無從覓，祇有年年社燕歸。
+- 閥閱淪亡梐枑移，年年舊燕亦雙歸。
+- 茅簷葦萡無冠蓋，不見烏衣見白衣。
+- （《景定建康志》卷十六。
+- ）。
 
 ## 拼音
 
-- ren2 wu4 feng1 liu2 wang3 wang3 fei1 ， kong1 yu2 lou4 xiang4 zuo4 wu1 yi1 。
-- jiu4 shi2 lian2 mu4 wu2 cong2 mi4 ， qi2 you3 nian2 nian2 she4 yan4 gui1 。
+- fa2 yue4 lun2 wang2 bi4 hu4 yi2 ， nian2 nian2 jiu4 yan4 yi4 shuang1 gui1 。
+- mao2 yan2 wei3 bo2 wu2 guan1 gai4 ， bu2 jian4 wu1 yi1 jian4 bai2 yi1 。
+- （《 jing3 ding4 jian4 kang1 zhi4 》 juan4 shi2 liu4 。
+- ）。
 
 ## 注释
 

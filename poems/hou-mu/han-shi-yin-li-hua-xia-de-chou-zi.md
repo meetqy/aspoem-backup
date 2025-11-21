@@ -6,10 +6,10 @@ titleSlug: han-shi-yin-li-hua-xia-de-chou-zi
 author: 侯穆
 authorPinyin: hou2 mu4
 authorSlug: hou-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

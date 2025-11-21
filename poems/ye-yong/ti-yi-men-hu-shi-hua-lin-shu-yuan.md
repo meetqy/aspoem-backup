@@ -6,9 +6,9 @@ titleSlug: ti-yi-men-hu-shi-hua-lin-shu-yuan
 author: 鄴雍
 authorPinyin: ye4 yong1
 authorSlug: ye-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

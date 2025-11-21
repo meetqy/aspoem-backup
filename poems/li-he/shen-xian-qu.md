@@ -1,7 +1,7 @@
 ---
 id: li-he-shen-xian-qu
-title: 神弦曲
-titlePinyin: shen2 xian2 qu3
+title: 神仙曲
+titlePinyin: shen2 xian1 qu3
 titleSlug: shen-xian-qu
 author: 李賀
 authorPinyin: li3 he4
@@ -9,24 +9,24 @@ authorSlug: li-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 西山日沒東山昏，旋風吹馬馬踏雲。
-- 畫弦素管聲淺繁，花裙綷䌨步秋塵。
-- 桂葉刷風桂墜子，青狸哭血寒狐死。
-- 古壁彩虬金帖尾，雨工騎入秋潭水。
-- 百年老鴞成木魅，笑聲碧火巢中起。
+- 碧峰海面藏靈書，上帝揀作神仙居。
+- 清明笑語聞空虛，鬬乘巨浪騎鯨魚。
+- 春羅書字邀王母，共讌紅樓最深處。
+- 鶴羽衝風過海遲，不如却使青龍去。
+- 猶疑王母不相許，垂露娃鬟更傳語。
 
 ## 拼音
 
-- xi1 shan1 ri4 mei2 dong1 shan1 hun1 ， xuan2 feng1 chui1 ma3 ma3 ta4 yun2 。
-- hua4 xian2 su4 guan3 sheng1 qian3 fan2 ， hua1 qun2 cui4 䌨 bu4 qiu1 chen2 。
-- gui4 ye4 shua1 feng1 gui4 zhui4 zi3 ， qing1 li2 ku1 xue4 han2 hu2 si3 。
-- gu3 bi4 cai3 qiu2 jin1 tie1 wei3 ， yu3 gong1 qi2 ru4 qiu1 tan2 shui3 。
-- bai3 nian2 lao3 xiao1 cheng2 mu4 mei4 ， xiao4 sheng1 bi4 huo3 chao2 zhong1 qi3 。
+- bi4 feng1 hai3 mian4 cang2 ling2 shu1 ， shang4 di4 jian3 zuo4 shen2 xian1 ju1 。
+- qing1 ming2 xiao4 yu3 wen2 kong1 xu1 ， dou4 cheng2 ju4 lang4 qi2 jing1 yu2 。
+- chun1 luo2 shu1 zi4 yao1 wang2 mu3 ， gong4 yan4 hong2 lou2 zui4 shen1 chu3 。
+- he4 yu3 chong1 feng1 guo4 hai3 chi2 ， bu4 ru2 que4 shi3 qing1 long2 qu4 。
+- you2 yi2 wang2 mu3 bu4 xiang1 xu1 ， chui2 lu4 wa2 huan2 geng4 chuan2 yu3 。
 
 ## 注释
 

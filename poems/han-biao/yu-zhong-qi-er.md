@@ -6,25 +6,21 @@ titleSlug: yu-zhong-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花浥垂垂細，林摇點點稀。
-- 綠繁枝困裊，紅淡蘂鮮肥。
-- 高下海棠起，淺深山柳圍。
-- 雲梳煙未止，風急雨爭飛。
+- 茫茫野水浸籬根，無數青山接遠村。
+- 三月懶遊花下路，一家深閉雨中門。
 
 ## 拼音
 
-- hua1 yi4 chui2 chui2 xi4 ， lin2 yao2 dian3 dian3 xi1 。
-- lü4 fan2 zhi1 kun4 niao3 ， hong2 dan4 rui3 xian1 fei2 。
-- gao1 xia4 hai3 tang2 qi3 ， qian3 shen1 shan1 liu3 wei2 。
-- yun2 shu1 yan1 wei4 zhi3 ， feng1 ji2 yu3 zheng1 fei1 。
+- mang2 mang2 ye3 shui3 jin4 li2 gen1 ， wu2 shu4 qing1 shan1 jie1 yuan3 cun1 。
+- san1 yue4 lan3 you2 hua1 xia4 lu4 ， yi4 jia1 shen1 bi4 yu3 zhong1 men2 。
 
 ## 注释
 

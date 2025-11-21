@@ -6,10 +6,10 @@ titleSlug: ba-wu-xi-chou-dong-you-shi-juan
 author: 徐集孫
 authorPinyin: xu2 ji2 sun1
 authorSlug: xu-ji-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

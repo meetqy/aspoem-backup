@@ -6,10 +6,10 @@ titleSlug: liu-hua
 author: 王巖叟
 authorPinyin: wang2 yan2 sou3
 authorSlug: wang-yan-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

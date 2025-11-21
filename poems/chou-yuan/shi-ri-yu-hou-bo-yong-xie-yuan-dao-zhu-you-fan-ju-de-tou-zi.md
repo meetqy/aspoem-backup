@@ -6,10 +6,10 @@ titleSlug: shi-ri-yu-hou-bo-yong-xie-yuan-dao-zhu-you-fan-ju-de-tou-zi
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

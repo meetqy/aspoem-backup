@@ -6,10 +6,10 @@ titleSlug: song-jin-yue-shan-gui-dong-xiao
 author: 褚伯秀
 authorPinyin: chu3 bo2 xiu4
 authorSlug: chu-bo-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

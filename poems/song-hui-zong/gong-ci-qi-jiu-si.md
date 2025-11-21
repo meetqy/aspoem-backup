@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-si
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 粉杏夭桃出苑牆，隄邊楊柳拂波光。
-- 梭門聳插彤雲裏，風引花毬絲縷長。
+- 弱柳飄飄意甚顛，無端牽住小花鈿。
+- 樓中阿監遙相覷，應繪□圖供御前。
 
 ## 拼音
 
-- fen3 xing4 yao1 tao2 chu1 yuan4 qiang2 ， di1 bian1 yang2 liu3 fu2 bo1 guang1 。
-- suo1 men2 song3 cha1 tong2 yun2 li3 ， feng1 yin3 hua1 qiu2 si1 lü3 chang2 。
+- ruo4 liu3 piao1 piao1 yi4 shen4 dian1 ， wu2 duan1 qian1 zhu4 xiao3 hua1 dian4 。
+- lou2 zhong1 a1 jian1 yao2 xiang1 qu4 ， ying1 hui4 □ tu2 gong4 yu4 qian2 。
 
 ## 注释
 

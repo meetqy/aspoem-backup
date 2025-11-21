@@ -1,14 +1,14 @@
 ---
 id: wen-tong-xu-qing-cheng-shan-si-yong-fei-fu-si
-title: 續青城山四詠・飛赴寺
-titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3・fei1 fu4 si4
+title: 續青城山四詠 飛赴寺
+titlePinyin: xu4 qing1 cheng2 shan1 si4 yong3   fei1 fu4 si4
 titleSlug: xu-qing-cheng-shan-si-yong-fei-fu-si
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

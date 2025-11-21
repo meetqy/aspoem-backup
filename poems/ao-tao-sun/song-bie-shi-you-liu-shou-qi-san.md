@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-song-bie-shi-you-liu-shou-qi-san
-title: 送別史友六首・其三
-titlePinyin: song4 bie2 shi3 you3 liu4 shou3・qi2 san1
+title: 送別史友六首  其三
+titlePinyin: song4 bie2 shi3 you3 liu4 shou3     qi2 san1
 titleSlug: song-bie-shi-you-liu-shou-qi-san
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

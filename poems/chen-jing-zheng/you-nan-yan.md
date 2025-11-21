@@ -6,10 +6,10 @@ titleSlug: you-nan-yan
 author: 陳經正
 authorPinyin: chen2 jing1 zheng4
 authorSlug: chen-jing-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

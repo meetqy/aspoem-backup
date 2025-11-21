@@ -6,21 +6,25 @@ titleSlug: bei-qiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 烟草凄迷八月秋，荒村絡緯戒衣裘。
-- 道人大欠修行力，平地閑生爾許愁。
+- 病後支離不自持，湖邊蕭瑟早寒時。
+- 已驚白髮馮唐老，又起清秋宋玉悲。
+- 枕上數聲新到雁，燈前一局欲殘棋。
+- 丈夫幾許襟懷事，天地無情似不知。
 
 ## 拼音
 
-- yan1 cao3 qi1 mi2 ba1 yue4 qiu1 ， huang1 cun1 luo4 wei3 jie4 yi1 qiu2 。
-- dao4 ren2 da4 qian4 xiu1 xing2 li4 ， ping2 di4 xian2 sheng1 er3 xu1 chou2 。
+- bing4 hou4 zhi1 li2 bu2 zi4 chi2 ， hu2 bian1 xiao1 se4 zao3 han2 shi2 。
+- yi3 jing1 bai2 fa4 feng2 tang2 lao3 ， you4 qi3 qing1 qiu1 song4 yu4 bei1 。
+- zhen3 shang4 shu4 sheng1 xin1 dao4 yan4 ， deng1 qian2 yi4 ju2 yu4 can2 qi2 。
+- zhang4 fu0 ji1 xu1 jin1 huai2 shi4 ， tian1 di4 wu2 qing2 si4 bu4 zhi1 。
 
 ## 注释
 

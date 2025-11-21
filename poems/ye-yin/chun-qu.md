@@ -6,21 +6,21 @@ titleSlug: chun-qu
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幾陣紅侵野草，一團綠染庭槐。
-- 夢裏未知春去，翩翩胡蝶飛來。
+- 一片飛花落酒缸，風光漸覺遠書窗。
+- 草深兩部青蛙閙，芹濕重簷紫燕雙。
 
 ## 拼音
 
-- ji1 zhen4 hong2 qin1 ye3 cao3 ， yi4 tuan2 lü4 ran3 ting2 huai2 。
-- meng4 li3 wei4 zhi1 chun1 qu4 ， pian1 pian1 hu2 die2 fei1 lai2 。
+- yi2 pian4 fei1 hua1 luo4 jiu3 gang1 ， feng1 guang1 jian4 jue2 yuan3 shu1 chuang1 。
+- cao3 shen1 liang3 bu4 qing1 wa1 nao4 ， qin2 shi1 zhong4 yan2 zi3 yan4 shuang1 。
 
 ## 注释
 

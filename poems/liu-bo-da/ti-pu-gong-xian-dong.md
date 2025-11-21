@@ -6,10 +6,10 @@ titleSlug: ti-pu-gong-xian-dong
 author: 柳伯達
 authorPinyin: liu3 bo2 da2
 authorSlug: liu-bo-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燕館餘閑玉漏沉，華容芳質盡知音。
-- 不將簫瑟爲貪靡，競鼓瑤徽數弄琴。
+- 曉色輕陰四幕低，如膏小雨密霏霏。
+- 傳宣儀仗通廊立，惟恐沾濡近御衣。
 
 ## 拼音
 
-- yan4 guan3 yu2 xian2 yu4 lou4 chen2 ， hua2 rong2 fang1 zhi4 jin4 zhi1 yin1 。
-- bu4 jiang1 xiao1 se4 wei2 tan1 mi2 ， jing4 gu3 yao2 hui1 shu4 nong4 qin2 。
+- xiao3 se4 qing1 yin1 si4 mu4 di1 ， ru2 gao1 xiao3 yu3 mi4 fei1 fei1 。
+- chuan2 xuan1 yi2 zhang4 tong1 lang2 li4 ， wei2 kong3 zhan1 ru2 jin4 yu4 yi1 。
 
 ## 注释
 

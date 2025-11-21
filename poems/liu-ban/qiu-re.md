@@ -6,29 +6,37 @@ titleSlug: qiu-re
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒸暑淹南國，季秋如長夏。
-- 炎凉亂平分，天地錯常化。
-- 短日迴朱光，六龍頓其駕。
-- 暵似山澤焚，憚我如不暇。
-- 反思歲聿暮，却顧旦輒夜。
-- 寧忍窺昆蟲，干時事矜詫。
+- 百里異風土，我行豈蠻越。
+- 中星正常象，未與京洛別。
+- 肅霜乃溫風，授衣甫絺葛。
+- 林蜩沸如羹，芳草香未歇。
+- 天令不可推，有時倒生殺。
+- 九土皆若然，蒸灼何由豁。
+- 憶昔過秦隴，連山看秋雪。
+- 陰風鴻雁號，積凍松檜折。
+- 驅車渡河洛，反顧尚明滅。
+- 大笑咫尺途，居然異寒熱。
 
 ## 拼音
 
-- zheng1 shu3 yan1 nan2 guo2 ， ji4 qiu1 ru2 chang2 xia4 。
-- yan2 liang2 luan4 ping2 fen1 ， tian1 di4 cuo4 chang2 hua4 。
-- duan3 ri4 hui2 zhu1 guang1 ， liu4 long2 dun4 qi2 jia4 。
-- han4 si4 shan1 ze2 fen2 ， dan4 wo3 ru2 bu4 xia2 。
-- fan3 si1 sui4 yu4 mu4 ， que4 gu4 dan4 zhe2 ye4 。
-- ning2 ren3 kui1 kun1 chong2 ， gan1 shi2 shi4 jin1 cha4 。
+- bai3 li3 yi4 feng1 tu3 ， wo3 xing2 qi3 man2 yue4 。
+- zhong1 xing1 zheng4 chang2 xiang4 ， wei4 yu3 jing1 luo4 bie2 。
+- su4 shuang1 nai3 wen1 feng1 ， shou4 yi1 fu3 chi1 ge3 。
+- lin2 tiao2 fei4 ru2 geng1 ， fang1 cao3 xiang1 wei4 xie1 。
+- tian1 ling4 bu4 ke3 tui1 ， you3 shi2 dao3 sheng1 sha1 。
+- jiu3 tu3 jie1 ruo4 ran2 ， zheng1 zhuo2 he2 you2 huo1 。
+- yi4 xi1 guo4 qin2 long3 ， lian2 shan1 kan4 qiu1 xue3 。
+- yin1 feng1 hong2 yan4 hao4 ， ji1 dong4 song1 gui4 zhe2 。
+- qu1 ju1 du4 he2 luo4 ， fan3 gu4 shang4 ming2 mie4 。
+- da4 xiao4 zhi3 chi3 tu2 ， ju1 ran2 yi4 han2 re4 。
 
 ## 注释
 

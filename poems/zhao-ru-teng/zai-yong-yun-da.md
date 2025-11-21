@@ -6,25 +6,25 @@ titleSlug: zai-yong-yun-da
 author: 趙汝騰
 authorPinyin: zhao4 ru3 teng2
 authorSlug: zhao-ru-teng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 敬簡如翁吾所慕，即之目擊道斯存。
-- 斥歸借卧平泉石，倦出幾名傲吏園。
-- 早日寒齋令尚友，近來徑坂寄傳言。
-- 文山歲晚梅如雪，擬約龐公到鹿門。
+- 不羨叢菊并二螯，羨君出語真俊豪。
+- 崛奇退之石鼓句，清逸永叔廬山高。
+- 壯懷傾倒湧泉寺，健筆噓吸滄海濤。
+- 後期進步登大頂，上續風雅卑莊騷。
 
 ## 拼音
 
-- jing4 jian3 ru2 weng1 wu2 suo3 mu4 ， ji2 zhi1 mu4 ji1 dao4 si1 cun2 。
-- chi4 gui1 jie4 wo4 ping2 quan2 shi2 ， juan4 chu1 ji1 ming2 ao4 li4 yuan2 。
-- zao3 ri4 han2 zhai1 ling4 shang4 you3 ， jin4 lai2 jing4 ban3 ji4 chuan2 yan2 。
-- wen2 shan1 sui4 wan3 mei2 ru2 xue3 ， ni3 yue1 pang2 gong1 dao4 lu4 men2 。
+- bu2 xian4 cong2 ju2 bing4 er4 ao2 ， xian4 jun1 chu1 yu3 zhen1 jun4 hao2 。
+- jue2 qi2 tui4 zhi1 shi2 gu3 ju4 ， qing1 yi4 yong3 shu1 lu2 shan1 gao1 。
+- zhuang4 huai2 qing1 dao3 yong3 quan2 si4 ， jian4 bi3 xu1 xi1 cang1 hai3 tao1 。
+- hou4 qi1 jin4 bu4 deng1 da4 ding3 ， shang4 xu4 feng1 ya3 bei1 zhuang1 sao1 。
 
 ## 注释
 

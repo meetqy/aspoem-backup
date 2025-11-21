@@ -6,10 +6,10 @@ titleSlug: xuan-miao-lou
 author: 方鴻飛
 authorPinyin: fang1 hong2 fei1
 authorSlug: fang-hong-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

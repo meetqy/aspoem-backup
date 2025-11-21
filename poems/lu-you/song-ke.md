@@ -6,25 +6,29 @@ titleSlug: song-ke
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長亭柳漸柔，送客當閑遊。
-- 江近聞津鼓，雲開見戍樓。
-- 簿書来衮衮，歲月去悠悠。
-- 閉眼尋歸路，春蕪滿故疇。
+- 有客相與飲，酒盡惟清言。
+- 坐久饑腸鳴，殷如車輪翻。
+- 烹栗煨芋魁，味美敵熊蹯。
+- 一飽失百憂，抵掌談羲軒。
+- 意倦客辭去，秉炬送柴門。
+- 林間鳥驚起，落月傾金盆。
 
 ## 拼音
 
-- chang2 ting2 liu3 jian4 rou2 ， song4 ke4 dang1 xian2 you2 。
-- jiang1 jin4 wen2 jin1 gu3 ， yun2 kai1 jian4 shu4 lou2 。
-- bo2 shu1 lai2 gun3 gun3 ， sui4 yue4 qu4 you1 you1 。
-- bi4 yan3 xun2 gui1 lu4 ， chun1 wu2 man3 gu4 chou2 。
+- you3 ke4 xiang1 yu3 yin3 ， jiu3 jin4 wei2 qing1 yan2 。
+- zuo4 jiu3 ji1 chang2 ming2 ， yin1 ru2 ju1 lun2 fan1 。
+- peng1 li4 wei1 yu4 kui2 ， wei4 mei3 di2 xiong2 fan2 。
+- yi4 bao3 shi1 bai3 you1 ， di3 zhang3 tan2 xi1 xuan1 。
+- yi4 juan4 ke4 ci2 qu4 ， bing3 ju4 song4 chai2 men2 。
+- lin2 jian4 niao3 jing1 qi3 ， luo4 yue4 qing1 jin1 pen2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: fang-dan-yang-yu-ru-quan-yi-bian-hun-hei-yin-fu-shi
 author: 張履信
 authorPinyin: zhang1 lü3 xin4
 authorSlug: zhang-lu-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

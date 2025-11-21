@@ -6,10 +6,10 @@ titleSlug: hong-mei-hua
 author: 高氏
 authorPinyin: gao1 shi4
 authorSlug: gao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

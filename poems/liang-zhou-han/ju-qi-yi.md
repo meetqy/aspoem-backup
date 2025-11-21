@@ -6,9 +6,9 @@ titleSlug: ju-qi-yi
 author: 梁周翰
 authorPinyin: liang2 zhou1 han4
 authorSlug: liang-zhou-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

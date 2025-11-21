@@ -6,10 +6,10 @@ titleSlug: ti-shi-qiao
 author: 蔣璨
 authorPinyin: jiang3 can4
 authorSlug: jiang-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

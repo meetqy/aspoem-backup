@@ -9,22 +9,22 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 馬踏塵上霜，月明江頭路。
-- 行人朝氣銳，宿鳥相辭去。
-- 流水隔遠村，縵山多紅樹。
-- 悠悠關塞內，往來無閑步。
+- 中庭望啓明，促促事晨征。
+- 寒樹鳥初動，霜橋人未行。
+- 水流白煙起，日上彩霞生。
+- 隱士應高枕，無人問姓名。
 
 ## 拼音
 
-- ma3 ta4 chen2 shang4 shuang1 ， yue4 ming2 jiang1 tou2 lu4 。
-- xing2 ren2 chao2 qi4 rui4 ， su4 niao3 xiang1 ci2 qu4 。
-- liu2 shui3 ge2 yuan3 cun1 ， man4 shan1 duo1 hong2 shu4 。
-- you1 you1 guan1 sai1 nei4 ， wang3 lai2 wu2 xian2 bu4 。
+- zhong1 ting2 wang4 qi3 ming2 ， cu4 cu4 shi4 chen2 zheng1 。
+- han2 shu4 niao3 chu1 dong4 ， shuang1 qiao2 ren2 wei4 xing2 。
+- shui3 liu2 bai2 yan1 qi3 ， ri4 shang4 cai3 xia2 sheng1 。
+- yin3 shi4 ying1 gao1 zhen3 ， wu2 ren2 wen4 xing4 ming2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 渭水岐山不出兵，却攜琴劍錦官城。
-- 醉來身外窮通小，老去人間毁譽輕。
-- 捫蝨雄豪空自許，屠龍工巧竟何成。
-- 雅聞岷下多區芋，聊試寒爐玉糝羮。
+- 皋夔無近用，芝朮少奇功。
+- 上壽當徐致，沉疴忌力攻。
+- 醫傳三世久，事歷百年中。
+- 畏與庸人說，終身托病聾。
 
 ## 拼音
 
-- wei4 shui3 qi2 shan1 bu4 chu1 bing1 ， que4 xie2 qin2 jian4 jin3 guan1 cheng2 。
-- zui4 lai2 shen1 wai4 qiong2 tong1 xiao3 ， lao3 qu4 ren2 jian4 hui3 yu4 qing1 。
-- men2 shi1 xiong2 hao2 kong1 zi4 xu1 ， tu2 long2 gong1 qiao3 jing4 he2 cheng2 。
-- ya3 wen2 min2 xia4 duo1 qu1 yu4 ， liao2 shi4 han2 lu2 yu4 san3 geng1 。
+- gao1 kui2 wu2 jin4 yong4 ， zhi1 zhu2 shao3 qi2 gong1 。
+- shang4 shou4 dang1 xu2 zhi4 ， chen2 ke1 ji4 li4 gong1 。
+- yi1 chuan2 san1 shi4 jiu3 ， shi4 li4 bai3 nian2 zhong1 。
+- wei4 yu3 yong1 ren2 shuo1 ， zhong1 shen1 tuo1 bing4 long2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhu-qiao-nian-wei-gong-ju-nan-wang-he-qi-yi
 author: 鄭安道
 authorPinyin: zheng4 an1 dao4
 authorSlug: zheng-an-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

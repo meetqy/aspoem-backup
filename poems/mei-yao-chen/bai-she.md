@@ -6,23 +6,27 @@ titleSlug: bai-she
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天窗明未明，颯颯過微雨。
-- 已聞高樹頭，百舌間關語。
-- 幽人枕上聽不聽，變盡春聲始飛去。
+- 一冬常噤默，乘春何多舌。
+- 蒼毛無文章，尖啄苦騰說。
+- 曉升高高樹，百鳥言漏泄。
+- 只未學鳳皇，有亦學不徹。
+- 傷哉古辯士，往往遭車裂。
 
 ## 拼音
 
-- tian1 chuang1 ming2 wei4 ming2 ， sa4 sa4 guo4 wei1 yu3 。
-- yi3 wen2 gao1 shu4 tou2 ， bai3 she2 jian4 guan1 yu3 。
-- you1 ren2 zhen3 shang4 ting1 bu0 ting1 ， bian4 jin4 chun1 sheng1 shi3 fei1 qu4 。
+- yi4 dong1 chang2 jin4 mo4 ， cheng2 chun1 he2 duo1 she2 。
+- cang1 mao2 wu2 wen2 zhang1 ， jian1 zhuo2 ku3 teng2 shuo1 。
+- xiao3 sheng1 gao1 gao1 shu4 ， bai3 niao3 yan2 lou4 xie4 。
+- zhi1 wei4 xue2 feng4 huang2 ， you3 yi4 xue2 bu2 che4 。
+- shang1 zai1 gu3 bian4 shi4 ， wang3 wang3 zao1 ju1 lie4 。
 
 ## 注释
 

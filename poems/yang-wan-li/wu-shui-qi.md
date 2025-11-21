@@ -6,25 +6,33 @@ titleSlug: wu-shui-qi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 過雨餘秋暑，移床揀午涼。
-- 小風吹醉面，凜氣忽如霜。
-- 日脚何曾動，桐陰有底忙。
-- 倦來聊作睡，睡起更蒼茫。
+- 永晝能不倦，亭午思小睡。
+- 竹床熱如曬，展轉竟無寐。
+- 起來搔白首，百匝繞簷際。
+- 政當眊矂中，忽有一奇事。
+- 一風北戶來，穿度南窗外。
+- 窗外蕙初花，披拂動香氣。
+- 老夫得一涼，灑然有生意。
+- 來日當此時，未知復何似。
 
 ## 拼音
 
-- guo4 yu3 yu2 qiu1 shu3 ， yi2 chuang2 jian3 wu3 liang2 。
-- xiao3 feng1 chui1 zui4 mian4 ， lin3 qi4 hu1 ru2 shuang1 。
-- ri4 jiao3 he2 ceng2 dong4 ， tong2 yin1 you3 di3 mang2 。
-- juan4 lai2 liao2 zuo4 shui4 ， shui4 qi3 geng4 cang1 mang2 。
+- yong3 zhou4 neng2 bu2 juan4 ， ting2 wu3 si1 xiao3 shui4 。
+- zhu2 chuang2 re4 ru2 shai4 ， zhan3 zhuan3 jing4 wu2 mei4 。
+- qi3 lai2 sao1 bai2 shou3 ， bai3 za1 rao4 yan2 ji4 。
+- zheng4 dang1 mao4 sao4 zhong1 ， hu1 you3 yi4 qi2 shi4 。
+- yi4 feng1 bei3 hu4 lai2 ， chuan1 du4 nan2 chuang1 wai4 。
+- chuang1 wai4 hui4 chu1 hua1 ， pi1 fu2 dong4 xiang1 qi4 。
+- lao3 fu1 de2 yi4 liang2 ， sa3 ran2 you3 sheng1 yi4 。
+- lai2 ri4 dang1 ci3 shi2 ， wei4 zhi1 fu4 he2 si4 。
 
 ## 注释
 

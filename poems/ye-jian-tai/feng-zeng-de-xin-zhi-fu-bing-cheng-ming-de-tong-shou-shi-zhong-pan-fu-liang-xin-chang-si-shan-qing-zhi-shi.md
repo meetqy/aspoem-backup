@@ -6,10 +6,10 @@ titleSlug: feng-zeng-de-xin-zhi-fu-bing-cheng-ming-de-tong-shou-shi-zhong-pan-fu
 author: 葉見泰
 authorPinyin: ye4 jian4 tai4
 authorSlug: ye-jian-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

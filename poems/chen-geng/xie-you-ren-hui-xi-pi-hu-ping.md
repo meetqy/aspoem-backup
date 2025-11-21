@@ -6,10 +6,10 @@ titleSlug: xie-you-ren-hui-xi-pi-hu-ping
 author: 陳庚
 authorPinyin: chen2 geng1
 authorSlug: chen-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

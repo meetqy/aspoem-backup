@@ -9,22 +9,22 @@ authorSlug: han-hong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 還家不落春風後，數日應沽越人酒。
-- 池畔花深鬬鴨欄，橋邊雨洗藏鴉柳。
-- 遙憐內舍著新衣，復向鄰家醉落暉。
-- 把手閑歌香橘下，空山一望鷓鴣飛。
+- 不妨高臥順流歸，五兩行看掃翠微。
+- 鼯鼠夜喧孤枕近，鵁鶄曉避客船飛。
+- 一壺先醉桃枝簟，百和初熏苧布衣。
+- 君到新林江口泊，吟詩應賞謝玄暉。
 
 ## 拼音
 
-- huan2 jia1 bu2 luo4 chun1 feng1 hou4 ， shu4 ri4 ying1 gu1 yue4 ren2 jiu3 。
-- chi2 pan4 hua1 shen1 dou4 ya1 lan2 ， qiao2 bian1 yu3 xi3 cang2 ya1 liu3 。
-- yao2 lian2 nei4 she4 zhu4 xin1 yi1 ， fu4 xiang4 lin2 jia1 zui4 luo4 hui1 。
-- ba3 shou3 xian2 ge1 xiang1 ju2 xia4 ， kong1 shan1 yi2 wang4 zhe4 gu1 fei1 。
+- bu4 fang2 gao1 wo4 shun4 liu2 gui1 ， wu3 liang3 xing2 kan4 sao3 cui4 wei1 。
+- wu2 shu3 ye4 xuan1 gu1 zhen3 jin4 ， jiao1 jing1 xiao3 bi4 ke4 chuan2 fei1 。
+- yi4 hu2 xian1 zui4 tao2 zhi1 dian4 ， bai3 he2 chu1 xun1 zhu4 bu4 yi1 。
+- jun1 dao4 xin1 lin2 jiang1 kou3 bo2 ， yin2 shi1 ying1 shang3 xie4 xuan2 hui1 。
 
 ## 注释
 

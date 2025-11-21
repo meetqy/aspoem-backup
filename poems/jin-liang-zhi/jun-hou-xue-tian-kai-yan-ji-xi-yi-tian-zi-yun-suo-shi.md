@@ -6,10 +6,10 @@ titleSlug: jun-hou-xue-tian-kai-yan-ji-xi-yi-tian-zi-yun-suo-shi
 author: 金梁之
 authorPinyin: jin1 liang2 zhi1
 authorSlug: jin-liang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

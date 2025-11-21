@@ -6,25 +6,25 @@ titleSlug: su-nong-jia
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門巷規模古，田園氣味長。
-- 小桃紅破萼，大麥綠銜芒。
-- 稚犬迎來客，歸牛带夕陽。
-- 儒衣愧飄泊，相就說農桑。
+- 宿此屋頭閣，瓦窗通月明。
+- 夜深鸜鵒噪，人靜桔槔聲。
+- 村落有古意，田園關客情。
+- 儒衣成底事，所得是虛名。
 
 ## 拼音
 
-- men2 xiang4 gui1 mo2 gu3 ， tian2 yuan2 qi4 wei4 chang2 。
-- xiao3 tao2 hong2 po4 e4 ， da4 mai4 lü4 xian2 mang2 。
-- zhi4 quan3 ying2 lai2 ke4 ， gui1 niu2 dai4 xi1 yang2 。
-- ru2 yi1 kui4 piao1 bo2 ， xiang1 jiu4 shuo1 nong2 sang1 。
+- su4 ci3 wu1 tou2 ge2 ， wa3 chuang1 tong1 yue4 ming2 。
+- ye4 shen1 qu2 yu4 zao4 ， ren2 jing4 ju2 gao1 sheng1 。
+- cun1 luo4 you3 gu3 yi4 ， tian2 yuan2 guan1 ke4 qing2 。
+- ru2 yi1 cheng2 di3 shi4 ， suo3 de2 shi4 xu1 ming2 。
 
 ## 注释
 

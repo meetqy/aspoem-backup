@@ -6,25 +6,29 @@ titleSlug: chu-ye
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老去不自覺，歲除空一驚。
-- 深知無得喪，久已罷經營。
-- 黄卷譏前失，清樽借後生。
-- 何年遂疏懶，伏臘任躬耕。
+- 年更六十七，旬滿三百六。
+- 俯仰定何爲，萬事如轉轂。
+- 禪心澹不起，非人自歌哭。
+- 芸芸初莫禦，勢盡行將復。
+- 學道道可成，無心心每足。
+- 守歲聽兒曹，自笑未免俗。
 
 ## 拼音
 
-- lao3 qu4 bu2 zi4 jue2 ， sui4 chu2 kong1 yi4 jing1 。
-- shen1 zhi1 wu2 de2 sang1 ， jiu3 yi3 ba4 jing1 ying2 。
-- huang2 juan4 ji1 qian2 shi1 ， qing1 zun1 jie4 hou4 sheng1 。
-- he2 nian2 sui4 shu1 lan3 ， fu2 la4 ren4 gong1 geng1 。
+- nian2 geng4 liu4 shi2 qi1 ， xun2 man3 san1 bai3 liu4 。
+- fu3 yang3 ding4 he2 wei2 ， wan4 shi4 ru2 zhuan3 gu3 。
+- shan4 xin1 dan4 bu4 qi3 ， fei1 ren2 zi4 ge1 ku1 。
+- yun2 yun2 chu1 mo4 yu4 ， shi4 jin4 xing2 jiang1 fu4 。
+- xue2 dao4 dao4 ke3 cheng2 ， wu2 xin1 xin1 mei3 zu2 。
+- shou3 sui4 ting1 er2 cao2 ， zi4 xiao4 wei4 mian3 su2 。
 
 ## 注释
 

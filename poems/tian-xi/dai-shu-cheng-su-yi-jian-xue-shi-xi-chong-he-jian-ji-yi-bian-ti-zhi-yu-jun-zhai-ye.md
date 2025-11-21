@@ -6,10 +6,10 @@ titleSlug: dai-shu-cheng-su-yi-jian-xue-shi-xi-chong-he-jian-ji-yi-bian-ti-zhi-y
 author: 田錫
 authorPinyin: tian2 xi1
 authorSlug: tian-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

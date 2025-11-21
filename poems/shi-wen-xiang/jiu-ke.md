@@ -6,21 +6,21 @@ titleSlug: jiu-ke
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客裏又深秋，凄凉怕舉頭。
-- 西風吹敗葉，葉葉是歸愁。
+- 落日回潮寂寞，西風老柳蕭疎。
+- 久客自知津渡，故人不寄音書。
 
 ## 拼音
 
-- ke4 li3 you4 shen1 qiu1 ， qi1 liang2 pa4 ju3 tou2 。
-- xi1 feng1 chui1 bai4 ye4 ， ye4 ye4 shi4 gui1 chou2 。
+- luo4 ri4 hui2 chao2 ji4 mo4 ， xi1 feng1 lao3 liu3 xiao1 shu1 。
+- jiu3 ke4 zi4 zhi1 jin1 du4 ， gu4 ren2 bu2 ji4 yin1 shu1 。
 
 ## 注释
 

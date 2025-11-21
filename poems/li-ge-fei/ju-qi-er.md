@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 李格非
 authorPinyin: li3 ge2 fei1
 authorSlug: li-ge-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

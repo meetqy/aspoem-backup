@@ -6,10 +6,10 @@ titleSlug: tian-tai-li-gong-meng-chang-guan-chu-shi-tong-bai-guan-bai-zhang-keng
 author: 謝伋
 authorPinyin: xie4 ji2
 authorSlug: xie-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

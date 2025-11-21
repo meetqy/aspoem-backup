@@ -6,10 +6,10 @@ titleSlug: shi-mei-xiao-shu-lang-peng-fang-jiong
 author: 黄莊
 authorPinyin: huang2 zhuang1
 authorSlug: huang-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

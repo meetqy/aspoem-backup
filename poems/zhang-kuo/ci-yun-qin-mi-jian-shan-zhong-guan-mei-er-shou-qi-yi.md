@@ -6,10 +6,10 @@ titleSlug: ci-yun-qin-mi-jian-shan-zhong-guan-mei-er-shou-qi-yi
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

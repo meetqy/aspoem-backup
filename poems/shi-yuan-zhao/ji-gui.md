@@ -6,21 +6,21 @@ titleSlug: ji-gui
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燕子辭巢始別家，杜鵑啼處在天涯。
-- 十分春事都看了，盡是他人園裏花。
+- 鴈過天南菊又開，故鄉拋了十年來。
+- 可憐亂後皆無定，夢過寒江却自回。
 
 ## 拼音
 
-- yan4 zi3 ci2 chao2 shi3 bie2 jia1 ， du4 jian1 ti2 chu3 zai4 tian1 ya2 。
-- shi2 fen1 chun1 shi4 dou1 kan4 le0 ， jin4 shi4 ta1 ren2 yuan2 li3 hua1 。
+- yan4 guo4 tian1 nan2 ju2 you4 kai1 ， gu4 xiang1 pao1 le0 shi2 nian2 lai2 。
+- ke3 lian2 luan4 hou4 jie1 wu2 ding4 ， meng4 guo4 han2 jiang1 que4 zi4 hui2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chang-ping-huai-gu
 author: 孫沖
 authorPinyin: sun1 chong1
 authorSlug: sun-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

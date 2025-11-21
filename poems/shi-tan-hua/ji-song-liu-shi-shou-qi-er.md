@@ -1,26 +1,26 @@
 ---
 id: shi-tan-hua-ji-song-liu-shi-shou-qi-er
-title: 偈頌六十首  其二
-titlePinyin: ji4 song4 liu4 shi2 shou3     qi2 er4
+title: 偈頌六十首  其二○
+titlePinyin: ji4 song4 liu4 shi2 shou3     qi2 er4 ○
 titleSlug: ji-song-liu-shi-shou-qi-er
 author: 釋曇華
 authorPinyin: shi4 tan2 hua2
 authorSlug: shi-tan-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 九年面壁，壞却東土兒孫。
-- 隻履西歸，鈍置黄面老子。
+- 若作一句商量，喫粥喫飯阿誰不會。
+- 不作一句商量，屎坑裏蟲子笑殺闍梨。
 
 ## 拼音
 
-- jiu3 nian2 mian4 bi4 ， huai4 que4 dong1 tu3 er2 sun1 。
-- zhi1 lü3 xi1 gui1 ， dun4 zhi4 huang2 mian4 lao3 zi3 。
+- ruo4 zuo4 yi2 ju4 shang1 liang2 ， chi1 zhou1 chi1 fan4 a1 shui2 bu2 hui4 。
+- bu2 zuo4 yi2 ju4 shang1 liang0 ， shi3 keng1 li3 chong2 zi3 xiao4 sha1 du1 li2 。
 
 ## 注释
 

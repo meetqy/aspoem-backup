@@ -1,26 +1,26 @@
 ---
 id: fang-hui-hou-tian-yi-yin-san-shi-shou-qi-yi
-title: 後天易吟三十首  其一
-titlePinyin: hou4 tian1 yi4 yin2 san1 shi2 shou3     qi2 yi1
+title: 後天易吟三十首  其一○
+titlePinyin: hou4 tian1 yi4 yin2 san1 shi2 shou3     qi2 yi1 ○
 titleSlug: hou-tian-yi-yin-san-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬古未來事，先天逆已知。
-- 卦中無不有，却要後天推。
+- 雷風火澤水，獨艮不言山。
+- 朔易指方位，萬形消息間。
 
 ## 拼音
 
-- wan4 gu3 wei4 lai2 shi4 ， xian1 tian1 ni4 yi3 zhi1 。
-- gua4 zhong1 wu2 bu4 you3 ， que4 yao4 hou4 tian1 tui1 。
+- lei2 feng1 huo3 ze2 shui3 ， du2 gen4 bu4 yan2 shan1 。
+- shuo4 yi4 zhi3 fang1 wei4 ， wan4 xing2 xiao1 xi0 jian4 。
 
 ## 注释
 

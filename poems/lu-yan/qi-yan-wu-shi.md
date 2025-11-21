@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 修修修得到乾乾，方號人間一醉仙。
-- 世上光陰催短景，洞中花木任長年。
-- 形飛峭壁非凡骨，神在玄宮別有天。
-- 唯願先生頻一顧，更玄玄外問玄玄。
+- 未煉還丹且煉心，丹成方覺道元深。
+- 每留客有錢酤酒，誰信君無藥點金。
+- 洞裏風雷歸掌握，壺中日月在胸襟。
+- 神仙事業人難會，養性長生自意吟。
 
 ## 拼音
 
-- xiu1 xiu1 xiu1 de2 dao4 qian2 qian2 ， fang1 hao4 ren2 jian4 yi2 zui4 xian1 。
-- shi4 shang4 guang1 yin1 cui1 duan3 jing3 ， dong4 zhong1 hua1 mu4 ren4 chang2 nian2 。
-- xing2 fei1 qiao4 bi4 fei1 fan2 gu3 ， shen2 zai4 xuan2 gong1 bie2 you3 tian1 。
-- wei2 yuan4 xian1 sheng0 bin1 yi2 gu4 ， geng4 xuan2 xuan2 wai4 wen4 xuan2 xuan2 。
+- wei4 lian4 huan2 dan1 qie3 lian4 xin1 ， dan1 cheng2 fang1 jue2 dao4 yuan2 shen1 。
+- mei3 liu2 ke4 you3 qian2 gu1 jiu3 ， shui2 xin4 jun1 wu2 yao4 dian3 jin1 。
+- dong4 li3 feng1 lei2 gui1 zhang3 wo4 ， hu2 zhong1 ri4 yue4 zai4 xiong1 jin1 。
+- shen2 xian1 shi4 ye4 ren2 nan2 hui4 ， yang3 xing4 chang2 sheng1 zi4 yi4 yin2 。
 
 ## 注释
 

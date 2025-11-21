@@ -6,10 +6,10 @@ titleSlug: wang-shu-liang-bai-jiu
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

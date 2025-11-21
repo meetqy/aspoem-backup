@@ -6,21 +6,21 @@ titleSlug: zai-yong-yun-san-shou-qi-san
 author: 裘萬頃
 authorPinyin: qiu2 wan4 qing3
 authorSlug: qiu-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鳳臺仙姊卷銀篁，歸去瑶池試曉妝。
-- 剩粉殘脂無處著，化爲風絮滿池塘。
+- 無心對客煨黄獨，有意看雲傍白間。
+- 終日區區弄文墨，笑他齊己與高閑。
 
 ## 拼音
 
-- feng4 tai2 xian1 zi3 juan4 yin2 huang2 ， gui1 qu4 yao2 chi2 shi4 xiao3 zhuang1 。
-- sheng4 fen3 can2 zhi1 wu2 chu3 zhu4 ， hua4 wei2 feng1 xu4 man3 chi2 tang2 。
+- wu2 xin1 dui4 ke4 wei1 huang2 du2 ， you3 yi4 kan4 yun2 bang4 bai2 jian4 。
+- zhong1 ri4 qu1 qu1 nong4 wen2 mo4 ， xiao4 ta1 qi2 ji3 yu3 gao1 xian2 。
 
 ## 注释
 

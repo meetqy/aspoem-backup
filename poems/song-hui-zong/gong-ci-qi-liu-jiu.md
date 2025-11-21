@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年年式宴集簪裳，百辟班聫振鷺行。
-- 曲謝臣鄰尤跂望，司珍新奏玉茶牀。
+- 蓬萊宮殿五雲低，廣內樓臺草色齊。
+- 憂在進賢忘寤寐，曉粧常是未鳴雞。
 
 ## 拼音
 
-- nian2 nian2 shi4 yan4 ji2 zan1 shang0 ， bai3 pi4 ban1 lian2 zhen4 lu4 xing2 。
-- qu3 xie4 chen2 lin2 you2 qi3 wang4 ， si1 zhen1 xin1 zou4 yu4 cha2 chuang2 。
+- peng2 lai2 gong1 dian4 wu3 yun2 di1 ， guang3 nei4 lou2 tai2 cao3 se4 qi2 。
+- you1 zai4 jin4 xian2 wang4 wu4 mei4 ， xiao3 zhuang1 chang2 shi4 wei4 ming2 ji1 。
 
 ## 注释
 

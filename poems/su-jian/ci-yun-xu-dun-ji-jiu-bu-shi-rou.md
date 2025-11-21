@@ -6,9 +6,9 @@ titleSlug: ci-yun-xu-dun-ji-jiu-bu-shi-rou
 author: 蘇簡
 authorPinyin: su1 jian3
 authorSlug: su-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

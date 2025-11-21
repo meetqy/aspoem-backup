@@ -6,10 +6,10 @@ titleSlug: tong-jun-chi
 author: 曾旼
 authorPinyin: ceng2 min2
 authorSlug: ceng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

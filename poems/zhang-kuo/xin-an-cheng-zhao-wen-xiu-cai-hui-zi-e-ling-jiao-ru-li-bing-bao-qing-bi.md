@@ -6,10 +6,10 @@ titleSlug: xin-an-cheng-zhao-wen-xiu-cai-hui-zi-e-ling-jiao-ru-li-bing-bao-qing-
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

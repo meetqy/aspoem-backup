@@ -6,10 +6,10 @@ titleSlug: you-huang-shan-liu-ti
 author: 焦本心
 authorPinyin: jiao1 ben3 xin1
 authorSlug: jiao-ben-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

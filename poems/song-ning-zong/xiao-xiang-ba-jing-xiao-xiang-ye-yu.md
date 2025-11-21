@@ -6,10 +6,10 @@ titleSlug: xiao-xiang-ba-jing-xiao-xiang-ye-yu
 author: 宋寧宗
 authorPinyin: song4 ning2 zong1
 authorSlug: song-ning-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

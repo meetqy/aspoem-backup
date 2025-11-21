@@ -1,26 +1,30 @@
 ---
 id: shi-hui-yuan-ji-song-yi-bai-ling-er-shou-qi-qi
-title: 偈頌一百零二首  其七
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 qi1
+title: 偈頌一百零二首  其七○
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-qi
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 佛祖由來總是冤，電機旋處直如弦。
-- 金毛若解和聲拶，月裏麒麟笑揭天。
+- 今朝六月初五，明眼衲僧難覩。
+- 驚回座□□龜，咬殺街頭石虎。
+- 磨鎮旗，撾鐵鼓，破口半治閑佛祖。
+- 起坐相隨獨自行，夜漏聲沈日卓午。
 
 ## 拼音
 
-- fo2 zu3 you2 lai2 zong3 shi4 yuan1 ， dian4 ji1 xuan2 chu3 zhi2 ru2 xian2 。
-- jin1 mao2 ruo4 jie3 he2 sheng1 za1 ， yue4 li3 qi2 lin2 xiao4 jie1 tian1 。
+- jin1 zhao1 liu4 yue4 chu1 wu3 ， ming2 yan3 na4 seng1 nan2 du3 。
+- jing1 hui2 zuo4 □□ gui1 ， yao3 sha1 jie1 tou2 shi2 hu3 。
+- mo2 zhen4 qi2 ， zhua1 tie3 gu3 ， po4 kou3 ban4 zhi4 xian2 fo2 zu3 。
+- qi3 zuo4 xiang1 sui2 du2 zi4 xing2 ， ye4 lou4 sheng1 shen3 ri4 zhuo2 wu3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 黄仲本
 authorPinyin: huang2 zhong4 ben3
 authorSlug: huang-zhong-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

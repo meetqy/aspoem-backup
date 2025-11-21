@@ -6,10 +6,10 @@ titleSlug: xiong-ci-yu-yu-ou-qu-ku-bi-zuo-kuang-cao-sui-cheng-chang-ju
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yun-feng-he-yang-sheng-zi-ti-li-chang-zhe-jiu-ju
 author: 郭時亮
 authorPinyin: guo1 shi2 liang4
 authorSlug: guo-shi-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

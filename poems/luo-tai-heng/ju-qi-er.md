@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 羅太亨
 authorPinyin: luo2 tai4 heng1
 authorSlug: luo-tai-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,29 @@ titleSlug: yu-zhong-pai-men
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 點點滴滴雨不晴，暗暗淡淡燈不明。
-- 皇天胡爲貸此老，病臥垂困今已平。
-- 却慚向者力量淺，鼠肝蟲臂猶關情。
-- 百年終歸朝露速，一死正自秋毫輕。
-- 明朝且作山中行，青鞵已覺白雲生。
-- 豐年處處村酒好，莫教湘湖蓴菜老。
+- 殷殷雷繞村，淅淅雨鳴砌。
+- 禽魚各自適，草木亦得意。
+- 顧此庵中人，老病獨憔悴。
+- 飯遲每懶索，兀兀方坐睡。
+- 平生飽憂患，性命已屢試。
+- 但得過今朝，明日可徐議。
 
 ## 拼音
 
-- dian3 dian3 di1 di1 yu3 bu4 qing2 ， an4 an4 dan4 dan4 deng1 bu4 ming2 。
-- huang2 tian1 hu2 wei2 dai4 ci3 lao3 ， bing4 wo4 chui2 kun4 jin1 yi3 ping2 。
-- que4 can2 xiang4 zhe3 li4 liang4 qian3 ， shu3 gan1 chong2 bi4 you2 guan1 qing2 。
-- bai3 nian2 zhong1 gui1 zhao1 lu4 su4 ， yi4 si3 zheng4 zi4 qiu1 hao2 qing1 。
-- ming2 chao2 qie3 zuo4 shan1 zhong1 hang2 ， qing1 xie2 yi3 jue2 bai2 yun2 sheng1 。
-- feng1 nian2 chu3 chu3 cun1 jiu3 hao3 ， mo4 jiao4 xiang1 hu2 chun2 cai4 lao3 。
+- yin1 yin1 lei2 rao4 cun1 ， xi1 xi1 yu3 ming2 qi4 。
+- qin2 yu2 ge4 zi4 shi4 ， cao3 mu4 yi4 de2 yi4 。
+- gu4 ci3 an1 zhong1 ren2 ， lao3 bing4 du2 qiao2 cui4 。
+- fan4 chi2 mei3 lan3 suo3 ， wu4 wu4 fang1 zuo4 shui4 。
+- ping2 sheng1 bao3 you1 huan4 ， xing4 ming4 yi3 lü3 shi4 。
+- dan4 de2 guo4 jin1 zhao1 ， ming2 ri4 ke3 xu2 yi4 。
 
 ## 注释
 

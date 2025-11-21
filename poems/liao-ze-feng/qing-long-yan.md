@@ -6,10 +6,10 @@ titleSlug: qing-long-yan
 author: 廖則逢
 authorPinyin: liao4 ze2 feng2
 authorSlug: liao-ze-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

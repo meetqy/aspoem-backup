@@ -9,24 +9,22 @@ authorSlug: huang-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 終不離青山，誰道雲無心。
-- 卻是白雲士，有時出中林。
-- 昨日擎紫泥，明日要黃金。
-- 炎夏羣木死，北海驚波深。
-- 伏蒲無一言，草疏賀德音。
+- 一年年課數千言，口祝心祠挈出門。
+- 孤進難時誰肯薦，主司通處不須論。
+- 頻秋入自邊城雪，昨日聽來嶺樹猨。
+- 若有水田過十畝，早應歸去狄江村。
 
 ## 拼音
 
-- zhong1 bu4 li2 qing1 shan1 ， shui2 dao4 yun2 wu2 xin1 。
-- que4 shi4 bai2 yun2 shi4 ， you3 shi2 chu1 zhong1 lin2 。
-- zuo2 ri4 qing2 zi3 ni2 ， ming2 ri4 yao4 huang2 jin1 。
-- yan2 xia4 qun2 mu4 si3 ， bei3 hai3 jing1 bo1 shen1 。
-- fu2 pu2 wu2 yi4 yan2 ， cao3 shu1 he4 de2 yin1 。
+- yi4 nian2 nian2 ke4 shu4 qian1 yan2 ， kou3 zhu4 xin1 ci2 qie4 chu1 men2 。
+- gu1 jin4 nan2 shi2 shui2 ken3 jian4 ， zhu3 si1 tong1 chu3 bu4 xu1 lun4 。
+- bin1 qiu1 ru4 zi4 bian1 cheng2 xue3 ， zuo2 ri4 ting1 lai2 ling3 shu4 yuan2 。
+- ruo4 you3 shui3 tian2 guo4 shi2 mu3 ， zao3 ying1 gui1 qu4 di2 jiang1 cun1 。
 
 ## 注释
 

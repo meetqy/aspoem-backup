@@ -1,14 +1,14 @@
 ---
 id: wen-tong-song-tong-pan-yu-lang-zhong-qi-er
-title: 送通判喻郎中・其二
-titlePinyin: song4 tong1 pan4 yu4 lang2 zhong1・qi2 er4
+title: 送通判喻郎中  其二
+titlePinyin: song4 tong1 pan4 yu4 lang2 zhong1     qi2 er4
 titleSlug: song-tong-pan-yu-lang-zhong-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

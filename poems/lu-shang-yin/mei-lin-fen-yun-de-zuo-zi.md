@@ -6,10 +6,10 @@ titleSlug: mei-lin-fen-yun-de-zuo-zi
 author: 呂商隠
 authorPinyin: lü3 shang1 yin3
 authorSlug: lu-shang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

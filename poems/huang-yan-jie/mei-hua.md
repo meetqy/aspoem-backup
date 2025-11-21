@@ -6,9 +6,9 @@ titleSlug: mei-hua
 author: 黄彥節
 authorPinyin: huang2 yan4 jie2
 authorSlug: huang-yan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

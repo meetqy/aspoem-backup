@@ -6,10 +6,10 @@ titleSlug: ti-cen-gong-dong
 author: 趙善贛
 authorPinyin: zhao4 shan4 gan4
 authorSlug: zhao-shan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

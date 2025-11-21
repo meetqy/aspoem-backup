@@ -6,25 +6,25 @@ titleSlug: wan-chen-dong-hu-xian-sheng-qi-yi
 author: 張衡
 authorPinyin: zhang1 heng2
 authorSlug: zhang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 真病藥無功，精魂奪鬼工。
-- 百年終有盡，諸相等成空。
-- 圓滿缺陷世，逍遥兜率宮。
-- 一池漚水意，分付蓼花風。
+- 清溝名父子，濁世福人家。
+- 二妙手誰抗，一翁顛未華。
+- 天方老猿鶴，歲忽值龍蛇。
+- 公死可無憾，吾生未有涯。
 
 ## 拼音
 
-- zhen1 bing4 yao4 wu2 gong1 ， jing1 hun2 duo2 gui3 gong1 。
-- bai3 nian2 zhong1 you3 jin4 ， zhu1 xiang1 deng3 cheng2 kong1 。
-- yuan2 man3 que1 xian4 shi4 ， xiao1 yao2 dou1 lü4 gong1 。
-- yi4 chi2 ou1 shui3 yi4 ， fen1 fu4 liao3 hua1 feng1 。
+- qing1 gou1 ming2 fu4 zi3 ， zhuo2 shi4 fu2 ren2 jia1 。
+- er4 miao4 shou3 shui2 kang4 ， yi4 weng1 dian1 wei4 hua2 。
+- tian1 fang1 lao3 yuan2 he4 ， sui4 hu1 zhi2 long2 she2 。
+- gong1 si3 ke3 wu2 han4 ， wu2 sheng1 wei4 you3 ya2 。
 
 ## 注释
 

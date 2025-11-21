@@ -1,7 +1,7 @@
 ---
 id: xu-yin-yan
-title: 燕
-titlePinyin: yan4
+title: 煙
+titlePinyin: yan1
 titleSlug: yan
 author: 徐夤
 authorPinyin: xu2 yin2
@@ -9,22 +9,22 @@ authorSlug: xu-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 從待銜泥濺客衣，百禽靈性比他稀。
-- 何嫌何恨秋須去，無約無期春自歸。
-- 鵰鶚不容應不怪，棟梁相庇願相依。
-- 吳王宮女嬌相襲，合整雙毛預奮飛。
+- 燎野焚林見所從，惹空橫水展形容。
+- 能滋甘雨隨車潤，不並行雲逐夢蹤。
+- 晴鳥迴籠嘉樹薄，春亭嬌幕好花濃。
+- 有時片片風吹去，海碧山清過幾重。
 
 ## 拼音
 
-- cong2 dai4 xian2 ni2 jian4 ke4 yi1 ， bai3 qin2 ling2 xing4 bi3 ta1 xi1 。
-- he2 xian2 he2 hen4 qiu1 xu1 qu4 ， wu2 yue1 wu2 qi1 chun1 zi4 gui1 。
-- diao1 e4 bu4 rong2 ying1 bu2 guai4 ， dong4 liang2 xiang1 bi4 yuan4 xiang1 yi1 。
-- wu2 wang2 gong1 nü3 jiao1 xiang1 xi2 ， he2 zheng3 shuang1 mao2 yu4 fen4 fei1 。
+- liao2 ye3 fen2 lin2 jian4 suo3 cong2 ， re3 kong1 heng2 shui3 zhan3 xing2 rong2 。
+- neng2 zi1 gan1 yu3 sui2 ju1 run4 ， bu2 bing4 xing2 yun2 zhu2 meng4 zong1 。
+- qing2 niao3 hui2 long2 jia1 shu4 bao2 ， chun1 ting2 jiao1 mu4 hao3 hua1 nong2 。
+- you3 shi2 pian4 pian4 feng1 chui1 qu4 ， hai3 bi4 shan1 qing1 guo4 ji1 zhong4 。
 
 ## 注释
 

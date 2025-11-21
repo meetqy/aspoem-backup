@@ -1,34 +1,34 @@
 ---
 id: lu-you-qiu-huai-shi-shou-mo-zhang-shao-zi-zhen-qi-yi-gu-yi-ye-qi-yi
-title: 秋懷十首末章稍自振起亦古義也  其一
-titlePinyin: qiu1 huai2 shi2 shou3 mo4 zhang1 shao1 zi4 zhen4 qi3 yi4 gu3 yi4 ye3     qi2 yi1
+title: 秋懷十首末章稍自振起亦古義也  其一○
+titlePinyin: qiu1 huai2 shi2 shou3 mo4 zhang1 shao1 zi4 zhen4 qi3 yi4 gu3 yi4 ye3     qi2 yi1 ○
 titleSlug: qiu-huai-shi-shou-mo-zhang-shao-zi-zhen-qi-yi-gu-yi-ye-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 皇天本無心，萬物各有時。
-- 飛鴻何預人，南翔每如期。
-- 仰看霜露墜，俯觀草木衰。
-- 英英籬下菊，秀色獨滿枝。
-- 豈無一樽酒，相與斟酌之。
-- 耋老天所佚，行歌復何疑。
+- 我昔聞關中，水深土平曠。
+- 涇渭貫其間，沃壤誰與抗。
+- 桑麻鬰千里，黍林高一丈。
+- 潼華臨黄河，古出名將相。
+- 淪陷七十年，北首增慘愴。
+- 猶期垂老眼，一睹天下壯。
 
 ## 拼音
 
-- huang2 tian1 ben3 wu2 xin1 ， wan4 wu4 ge4 you3 shi2 。
-- fei1 hong2 he2 yu4 ren2 ， nan2 xiang2 mei3 ru2 qi1 。
-- yang3 kan4 shuang1 lu4 zhui4 ， fu3 guan1 cao3 mu4 shuai1 。
-- ying1 ying1 li2 xia4 ju2 ， xiu4 se4 du2 man3 zhi1 。
-- qi3 wu2 yi4 zun1 jiu3 ， xiang1 yu3 zhen1 zhuo2 zhi1 。
-- die2 lao3 tian1 suo3 yi4 ， xing2 ge1 fu4 he2 yi2 。
+- wo3 xi1 wen2 guan1 zhong1 ， shui3 shen1 tu3 ping2 kuang4 。
+- jing1 wei4 guan4 qi2 jian4 ， wo4 rang3 shui2 yu3 kang4 。
+- sang1 ma2 yu4 qian1 li3 ， shu3 lin2 gao1 yi2 zhang4 。
+- tong2 hua2 lin2 huang2 he2 ， gu3 chu1 ming2 jiang1 xiang1 。
+- lun2 xian4 qi1 shi2 nian2 ， bei3 shou3 zeng1 can3 chuang4 。
+- you2 qi1 chui2 lao3 yan3 ， yi4 du3 tian1 xia4 zhuang4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao-qi-san
 author: 黎獻
 authorPinyin: li2 xian4
 authorSlug: li-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

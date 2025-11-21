@@ -6,10 +6,10 @@ titleSlug: yi-bai-wu-duo-ye-bai-mu-dan-da-chen-du-zhi-er-shou-qi-er
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

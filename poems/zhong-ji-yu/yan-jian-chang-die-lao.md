@@ -6,10 +6,10 @@ titleSlug: yan-jian-chang-die-lao
 author: 鍾季玉
 authorPinyin: zhong1 ji4 yu4
 authorSlug: zhong-ji-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

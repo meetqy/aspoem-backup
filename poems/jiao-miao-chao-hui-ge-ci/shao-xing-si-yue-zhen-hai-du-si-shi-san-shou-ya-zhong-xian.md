@@ -6,25 +6,25 @@ titleSlug: shao-xing-si-yue-zhen-hai-du-si-shi-san-shou-ya-zhong-xian
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 肅肅其乂，既旨既溢。
-- 迨其畢酌，偏茲博碩。
-- 祀事既遂，不敢誶射。
-- 神或醉止，我心斯懌。
+- 俎豆紛披，金石繁會。
+- 侑以貳尊，匪瀆匪怠。
+- 我儀既周，我心孔戒。
+- 憺兮容與，彷彿如在。
 
 ## 拼音
 
-- su4 su4 qi2 yi4 ， ji4 zhi3 ji4 yi4 。
-- dai4 qi2 bi4 zhuo2 ， pian1 zi1 bo2 shuo4 。
-- si4 shi4 ji4 sui4 ， bu4 gan3 sui4 she4 。
-- shen2 huo4 zui4 zhi3 ， wo3 xin1 si1 yi4 。
+- zu3 dou4 fen1 pi1 ， jin1 shi2 fan2 hui4 。
+- you4 yi3 er4 zun1 ， fei3 du2 fei3 dai4 。
+- wo3 yi2 ji4 zhou1 ， wo3 xin1 kong3 jie4 。
+- dan4 xi1 rong2 yu3 ， pang2 fu2 ru2 zai4 。
 
 ## 注释
 

@@ -1,28 +1,26 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-qi
-title: 偈頌一百三十三首  其七
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 qi1
+title: 偈頌一百三十三首  其七○
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-qi
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 善財採，文殊用。
-- 殺人活人，臨機變弄。
-- 直須親看海龍宮，莫看目前波浪湧。
+- 不結毗盧印，那弘古佛心。
+- 明月照幽谷，寒濤助夜砧。
 
 ## 拼音
 
-- shan4 cai2 cai3 ， wen2 shu1 yong4 。
-- sha1 ren2 huo2 ren2 ， lin2 ji1 bian4 nong4 。
-- zhi2 xu1 qin1 kan4 hai3 long2 gong1 ， mo4 kan4 mu4 qian2 bo1 lang4 yong3 。
+- bu4 jie2 pi2 lu2 yin4 ， na4 hong2 gu3 fo2 xin1 。
+- ming2 yue4 zhao4 you1 gu3 ， han2 tao1 zhu4 ye4 zhen1 。
 
 ## 注释
 

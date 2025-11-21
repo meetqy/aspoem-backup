@@ -6,10 +6,10 @@ titleSlug: cheng-xia-wen-yi-ge
 author: 陳羽
 authorPinyin: chen2 yu3
 authorSlug: chen-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: zai-he-qi-er
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 沙平雪漫水涵空，路入千巖紫翠中。
-- 村遠微明漁舍火，樓高斜矗酒旗風。
-- 可憐方外狂司馬，來伴田中一禿翁。
-- 南北相望三十載，心期不改斷金同。
+- 夜鶴悲鳴蕙帳空，一身今在百憂中。
+- 驚魂尚喘吳牛月，短翮甘隨宋鷁風。
+- 且與龜魚爲地主，不將鵝鴨惱鄰翁。
+- 超然世態誰君似，蘭菊春秋自不同。
 
 ## 拼音
 
-- sha1 ping2 xue3 man4 shui3 han2 kong1 ， lu4 ru4 qian1 yan2 zi3 cui4 zhong1 。
-- cun1 yuan3 wei1 ming2 yu2 she4 huo3 ， lou2 gao1 xie2 chu4 jiu3 qi2 feng1 。
-- ke3 lian2 fang1 wai4 kuang2 si1 ma3 ， lai2 ban4 tian2 zhong1 yi4 tu1 weng1 。
-- nan2 bei3 xiang1 wang4 san1 shi2 zai4 ， xin1 qi1 bu4 gai3 duan4 jin1 tong2 。
+- ye4 he4 bei1 ming2 hui4 zhang4 kong1 ， yi4 shen1 jin1 zai4 bai3 you1 zhong1 。
+- jing1 hun2 shang4 chuan3 wu2 niu2 yue4 ， duan3 he2 gan1 sui2 song4 yi4 feng1 。
+- qie3 yu3 gui1 yu2 wei2 di4 zhu3 ， bu4 jiang1 e2 ya1 nao3 lin2 weng1 。
+- chao1 ran2 shi4 tai4 shui2 jun1 si4 ， lan2 ju2 chun1 qiu1 zi4 bu4 tong2 。
 
 ## 注释
 

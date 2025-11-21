@@ -6,10 +6,10 @@ titleSlug: cui-yun-shan
 author: 張元觀
 authorPinyin: zhang1 yuan2 guan1
 authorSlug: zhang-yuan-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

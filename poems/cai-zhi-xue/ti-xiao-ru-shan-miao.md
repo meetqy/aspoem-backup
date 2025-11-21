@@ -6,10 +6,10 @@ titleSlug: ti-xiao-ru-shan-miao
 author: 蔡志學
 authorPinyin: cai4 zhi4 xue2
 authorSlug: cai-zhi-xue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

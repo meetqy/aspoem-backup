@@ -6,10 +6,10 @@ titleSlug: jiang-shang
 author: 馮去非
 authorPinyin: feng2 qu4 fei1
 authorSlug: feng-qu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

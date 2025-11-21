@@ -6,10 +6,10 @@ titleSlug: long-zhua-shi
 author: 翁華
 authorPinyin: weng1 hua2
 authorSlug: weng-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

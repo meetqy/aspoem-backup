@@ -6,10 +6,10 @@ titleSlug: ji-di-hou-ji-yi-chun-qin-you
 author: 許載
 authorPinyin: xu1 zai4
 authorSlug: xu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

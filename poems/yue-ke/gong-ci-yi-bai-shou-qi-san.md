@@ -1,26 +1,26 @@
 ---
 id: yue-ke-gong-ci-yi-bai-shou-qi-san
-title: 宮詞一百首  其三
-titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 san1
+title: 宮詞一百首  其三○
+titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 san1 ○
 titleSlug: gong-ci-yi-bai-shou-qi-san
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天街御膳寫臣封，隨例朝朝進六宮。
-- 後苑日高催泛索，茶牀擎出繡雲龍。
+- 近僚三館集簪緌，後苑千花簇水涯。
+- 御網紅絲躍金鯉，龍韜更待釣璜師。
 
 ## 拼音
 
-- tian1 jie1 yu4 shan4 xie3 chen2 feng1 ， sui2 li4 zhao1 zhao1 jin4 liu4 gong1 。
-- hou4 yuan4 ri4 gao1 cui1 fan4 suo3 ， cha2 chuang2 qing2 chu1 xiu4 yun2 long2 。
+- jin4 liao2 san1 guan3 ji2 zan1 rui2 ， hou4 yuan4 qian1 hua1 cu4 shui3 ya2 。
+- yu4 wang3 hong2 si1 yue4 jin1 li3 ， long2 tao1 geng4 dai4 diao4 huang2 shi1 。
 
 ## 注释
 

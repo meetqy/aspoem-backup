@@ -6,10 +6,10 @@ titleSlug: yong-mei
 author: 范楷
 authorPinyin: fan4 kai3
 authorSlug: fan-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

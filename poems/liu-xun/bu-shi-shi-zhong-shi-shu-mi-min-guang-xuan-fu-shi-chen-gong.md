@@ -6,10 +6,10 @@ titleSlug: bu-shi-shi-zhong-shi-shu-mi-min-guang-xuan-fu-shi-chen-gong
 author: 劉壎
 authorPinyin: liu2 xun1
 authorSlug: liu-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

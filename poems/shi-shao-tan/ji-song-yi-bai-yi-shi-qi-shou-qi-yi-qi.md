@@ -1,32 +1,30 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-yi-shi-qi-shou-qi-yi-qi
-title: 偈頌一百一十七首  其一七
-titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 yi1 qi1
+title: 偈頌一百一十七首  其一○七
+titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 yi1 ○ qi1
 titleSlug: ji-song-yi-bai-yi-shi-qi-shou-qi-yi-qi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 諸莊收歛，幾樣心腸。
-- 憂風憂雨，憂旱憂荒。
-- 刈禾鐮雖云快利，要用處不犯鋒鋩。
-- 策勳汗血，別甑炊香。
-- 飯裏有沙如咬著，方知禾熟不臨場。
+- 航海而來，面壁而坐。
+- 未明直指單傳，先被梁王勘破。
+- 當門齒露風，隻履歸何早。
+- 熊耳峰前，纍纍荒草，至今惹得行人笑。
 
 ## 拼音
 
-- zhu1 zhuang1 shou1 lian3 ， ji1 yang4 xin1 chang2 。
-- you1 feng1 you1 yu3 ， you1 han4 you1 huang1 。
-- yi4 he2 lian2 sui1 yun2 kuai4 li4 ， yao4 yong4 chu3 bu2 fan4 feng1 mang2 。
-- ce4 xun1 han4 xue4 ， bie2 zeng4 chui1 xiang1 。
-- fan4 li3 you3 sha1 ru2 yao3 zhu4 ， fang1 zhi1 he2 shu2 bu4 lin2 chang3 。
+- hang2 hai3 er2 lai2 ， mian4 bi4 er2 zuo4 。
+- wei4 ming2 zhi2 zhi3 dan1 chuan2 ， xian1 bei4 liang2 wang2 kan1 po4 。
+- dang1 men2 chi3 lu4 feng1 ， zhi1 lü3 gui1 he2 zao3 。
+- xiong2 er3 feng1 qian2 ， lei2 lei2 huang1 cao3 ， zhi4 jin1 re3 de2 xing2 ren2 xiao4 。
 
 ## 注释
 

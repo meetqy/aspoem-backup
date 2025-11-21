@@ -6,10 +6,10 @@ titleSlug: yan-yu-lou
 author: 唐天麟
 authorPinyin: tang2 tian1 lin2
 authorSlug: tang-tian-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

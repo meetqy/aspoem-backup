@@ -6,10 +6,10 @@ titleSlug: ti-xi-men-wai-zuo-qiao-xia-guan-yin-yuan
 author: 仲昂
 authorPinyin: zhong4 ang2
 authorSlug: zhong-ang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

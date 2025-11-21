@@ -1,32 +1,26 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-er-yi
-title: 偈頌二百零五首  其二一
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 yi1
+title: 偈頌二百零五首  其二○一
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 ○ yi1
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-er-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 深明無底，靈異無根。
-- 案山行盡，不見有家。
-- 識浪瀝乾，不見有己。
-- 石女掣開金鎖鑰，木人撥動玉輪機。
-- 方信道從佛口生，法化生得佛法分。
+- 曾到家山裏許看，星河濯月霽天寒。
+- 箇時失却娘生口，始信從來鼻孔寬。
 
 ## 拼音
 
-- shen1 ming2 wu2 di3 ， ling2 yi4 wu2 gen1 。
-- an4 shan1 xing2 jin4 ， bu2 jian4 you3 jia1 。
-- shi2 lang4 li4 qian2 ， bu2 jian4 you3 ji3 。
-- shi2 nü3 che4 kai1 jin1 suo3 yue4 ， mu4 ren2 bo1 dong4 yu4 lun2 ji1 。
-- fang1 xin4 dao4 cong2 fo2 kou3 sheng1 ， fa3 hua4 sheng1 de2 fo2 fa3 fen1 。
+- ceng2 dao4 jia1 shan1 li3 xu1 kan4 ， xing1 he2 zhuo2 yue4 ji4 tian1 han2 。
+- ge4 shi2 shi1 que4 niang2 sheng1 kou3 ， shi3 xin4 cong2 lai2 bi2 kong3 kuan1 。
 
 ## 注释
 

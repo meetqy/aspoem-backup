@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 尋常學道說黃芽，萬水千山覓轉差。
-- 有畛有園難下種，無根無脚自開花。
-- 九三鼎內烹如酪，六一爐中結似霞。
-- 不日成丹應換骨，飛升遙指玉皇家。
+- 曾邀相訪到仙家，忽上崑崙宴月華。
+- 玉女控攏蒼獬豸，山童提挈白蝦蟇。
+- 時斟海內千年酒，慣摘壺中四序花。
+- 今在人寰人不識，看看揮袖入煙霞。
 
 ## 拼音
 
-- xun2 chang2 xue2 dao4 shuo1 huang2 ya2 ， wan4 shui3 qian1 shan1 mi4 zhuan3 cha4 。
-- you3 zhen3 you3 yuan2 nan2 xia4 zhong3 ， wu2 gen1 wu2 jiao3 zi4 kai1 hua1 。
-- jiu3 san1 ding3 nei4 peng1 ru2 lao4 ， liu4 yi1 lu2 zhong1 jie2 si4 xia2 。
-- bu2 ri4 cheng2 dan1 ying1 huan4 gu3 ， fei1 sheng1 yao2 zhi3 yu4 huang2 jia1 。
+- ceng2 yao1 xiang1 fang3 dao4 xian1 jia1 ， hu1 shang4 kun1 lun2 yan4 yue4 hua2 。
+- yu4 nü3 kong4 long3 cang1 xie4 zhi4 ， shan1 tong2 ti2 qie4 bai2 xia1 ma2 。
+- shi2 zhen1 hai3 nei4 qian1 nian2 jiu3 ， guan4 zhai1 hu2 zhong1 si4 xu4 hua1 。
+- jin1 zai4 ren2 huan2 ren2 bu4 shi2 ， kan4 kan4 hui1 xiu4 ru4 yan1 xia2 。
 
 ## 注释
 

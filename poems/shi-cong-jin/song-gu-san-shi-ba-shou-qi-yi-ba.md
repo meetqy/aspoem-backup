@@ -6,10 +6,10 @@ titleSlug: song-gu-san-shi-ba-shou-qi-yi-ba
 author: 釋從瑾
 authorPinyin: shi4 cong2 jin3
 authorSlug: shi-cong-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

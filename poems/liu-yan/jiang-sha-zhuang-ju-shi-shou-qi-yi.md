@@ -1,30 +1,30 @@
 ---
 id: liu-yan-jiang-sha-zhuang-ju-shi-shou-qi-yi
-title: 蔣沙莊居十首  其一
-titlePinyin: jiang3 sha1 zhuang1 ju1 shi2 shou3     qi2 yi1
+title: 蔣沙莊居十首  其一○
+titlePinyin: jiang3 sha1 zhuang1 ju1 shi2 shou3     qi2 yi1 ○
 titleSlug: jiang-sha-zhuang-ju-shi-shou-qi-yi
 author: 劉弇
 authorPinyin: liu2 yan3
 authorSlug: liu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 他日蓬蒿地，吾廬瓦數溝。
-- 井泉甘勝乳，庭竹冷先秋。
-- 村落時情淡，田疇歲計優。
-- 荆扉輪日掩，最喜近松楸。
+- 劉宗墳墓國，金水眇縈回。
+- 颭颭鴉巢覆，疏疏槿戶開。
+- 春風持贈柳，臘雪試妝梅。
+- 欲識塵埃少，元無俗物來。
 
 ## 拼音
 
-- ta1 ri4 peng2 hao1 di4 ， wu2 lu2 wa3 shu4 gou1 。
-- jing3 quan2 gan1 sheng4 ru3 ， ting2 zhu2 leng3 xian1 qiu1 。
-- cun1 luo4 shi2 qing2 dan4 ， tian2 chou2 sui4 ji4 you1 。
-- jing1 fei1 lun2 ri4 yan3 ， zui4 xi3 jin4 song1 qiu1 。
+- liu2 zong1 fen2 mu4 guo2 ， jin1 shui3 miao3 ying2 hui2 。
+- zhan3 zhan3 ya1 chao2 fu4 ， shu1 shu1 jin3 hu4 kai1 。
+- chun1 feng1 chi2 zeng4 liu3 ， la4 xue3 shi4 zhuang1 mei2 。
+- yu4 shi2 chen2 ai1 shao3 ， yuan2 wu2 su2 wu4 lai2 。
 
 ## 注释
 

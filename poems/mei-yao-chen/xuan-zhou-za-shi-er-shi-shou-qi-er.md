@@ -1,30 +1,30 @@
 ---
 id: mei-yao-chen-xuan-zhou-za-shi-er-shi-shou-qi-er
-title: 宣州雜詩二十首  其二
-titlePinyin: xuan1 zhou1 za2 shi1 er4 shi2 shou3     qi2 er4
+title: 宣州雜詩二十首  其二○
+titlePinyin: xuan1 zhou1 za2 shi1 er4 shi2 shou3     qi2 er4 ○
 titleSlug: xuan-zhou-za-shi-er-shi-shou-qi-er
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三洲灘口急，兩水渡頭來。
-- 下過桓彝宅，上通嚴子臺。
-- 潺湲瀉寒月，滉漾照春梅。
-- 白鷺驚起處，魚多見底迴。
+- 宛水過城下，滔滔北去斜。
+- 遠船來橘蔗，深步上魚蝦。
+- 鵝美冒椒葉，蜜香聞稻花。
+- 歲時風俗美，笑殺異鄉槎。
 
 ## 拼音
 
-- san1 zhou1 tan1 kou3 ji2 ， liang3 shui3 du4 tou2 lai2 。
-- xia4 guo4 huan2 yi2 zhai2 ， shang4 tong1 yan2 zi3 tai2 。
-- chan2 yuan2 xie4 han2 yue4 ， huang4 yang4 zhao4 chun1 mei2 。
-- bai2 lu4 jing1 qi3 chu3 ， yu2 duo1 jian4 di3 hui2 。
+- wan3 shui3 guo4 cheng2 xia4 ， tao1 tao1 bei3 qu4 xie2 。
+- yuan3 chuan2 lai2 ju2 zhe4 ， shen1 bu4 shang4 yu2 xia1 。
+- e2 mei3 mao4 jiao1 ye4 ， mi4 xiang1 wen2 dao4 hua1 。
+- sui4 shi2 feng1 su2 mei3 ， xiao4 sha1 yi4 xiang1 cha2 。
 
 ## 注释
 

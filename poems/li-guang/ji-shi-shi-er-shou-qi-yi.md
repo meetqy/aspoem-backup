@@ -1,26 +1,26 @@
 ---
 id: li-guang-ji-shi-shi-er-shou-qi-yi
-title: 即事十二首  其一
-titlePinyin: ji2 shi4 shi2 er4 shou3     qi2 yi1
+title: 即事十二首  其一○
+titlePinyin: ji2 shi4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: ji-shi-shi-er-shou-qi-yi
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋雲漠漠日昏昏，積潦連江隔遠村。
-- 賴是陳編有餘味，斷無車馬到衡門。
+- 南鄰小魏隔雲巢，里巷相從近結交。
+- 聞道秋來作文賦，可能借我一齊抄。
 
 ## 拼音
 
-- qiu1 yun2 mo4 mo4 ri4 hun1 hun1 ， ji1 liao2 lian2 jiang1 ge2 yuan3 cun1 。
-- lai4 shi4 chen2 bian1 you3 yu2 wei4 ， duan4 wu2 ju1 ma3 dao4 heng2 men2 。
+- nan2 lin2 xiao3 wei4 ge2 yun2 chao2 ， li3 xiang4 xiang1 cong2 jin4 jie2 jiao1 。
+- wen2 dao4 qiu1 lai2 zuo4 wen2 fu4 ， ke3 neng2 jie4 wo3 yi4 qi2 chao1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: xuan-qian-ju-rui-jiang-zhan-yin-shu-si-yun-shi-xi-zhe-yue-jiu-ri-ju-y
 author: 歐陽澈
 authorPinyin: ou1 yang2 che4
 authorSlug: ou-yang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

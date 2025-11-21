@@ -1,26 +1,26 @@
 ---
 id: wang-ting-ming-tang-shi-ci-shi-jue-qi-yi
-title: 明堂侍祠十絕  其一
-titlePinyin: ming2 tang2 shi4 ci2 shi2 jue2     qi2 yi1
+title: 明堂侍祠十絕  其一○
+titlePinyin: ming2 tang2 shi4 ci2 shi2 jue2     qi2 yi1 ○
 titleSlug: ming-tang-shi-ci-shi-jue-qi-yi
 author: 王庭
 authorPinyin: wang2 ting2
 authorSlug: wang-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禮行肆類又稱禋，喜見承平景鑠信。
-- 堪笑漢人誇肸飾，何如明德達精純。
+- 肸蠁豐融富媼釐，班迴長樂奉愉怡。
+- 休嘉最易生安逸，翼翼當如未祼時。
 
 ## 拼音
 
-- li3 xing2 si4 lei4 you4 cheng1 yin1 ， xi3 jian4 cheng2 ping2 jing3 shuo4 xin4 。
-- kan1 xiao4 han4 ren2 kua1 xi1 shi4 ， he2 ru2 ming2 de2 da2 jing1 chun2 。
+- xi1 xiang3 feng1 rong2 fu4 ao3 li2 ， ban1 hui2 chang2 le4 feng4 yu2 yi2 。
+- xiu1 jia1 zui4 yi4 sheng1 an1 yi4 ， yi4 yi4 dang1 ru2 wei4 guan4 shi2 。
 
 ## 注释
 

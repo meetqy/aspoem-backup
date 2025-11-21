@@ -6,9 +6,9 @@ titleSlug: huang-shi-gong-ci
 author: 劉先生
 authorPinyin: liu2 xian1 sheng0
 authorSlug: liu-xian-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

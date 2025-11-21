@@ -6,10 +6,10 @@ titleSlug: xue-zhong-huai-huai-po-dan-pin
 author: 林石澗
 authorPinyin: lin2 shi2 jian4
 authorSlug: lin-shi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

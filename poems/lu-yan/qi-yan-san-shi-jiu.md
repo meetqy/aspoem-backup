@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 不須兩兩與三三，秖在崑崙第一巖。
-- 逢潤自然情易伏，遇炎常恐性難降。
-- 有時直入三元戶，無事還歸九曲江。
-- 世上有人燒得住，壽齊天地更無雙。
+- 傾側華陽醉再三，騎【龍】遇晚下南巖。
+- 眉因拍劍留星電，衣爲眠雲惹碧嵐。
+- 金液變來成雨露，玉都歸去老松杉。
+- 曾將鐵鏡照神鬼，霹靂搜尋火滿潭。
 
 ## 拼音
 
-- bu4 xu1 liang3 liang3 yu3 san1 san1 ， zhi3 zai4 kun1 lun2 di4 yi1 yan2 。
-- feng2 run4 zi4 ran2 qing2 yi4 fu2 ， yu4 yan2 chang2 kong3 xing4 nan2 jiang4 。
-- you3 shi2 zhi2 ru4 san1 yuan2 hu4 ， wu2 shi4 huan2 gui1 jiu3 qu1 jiang1 。
-- shi4 shang4 you3 ren2 shao1 de2 zhu4 ， shou4 qi2 tian1 di4 geng4 wu2 shuang1 。
+- qing1 ce4 hua2 yang2 zui4 zai4 san1 ， qi2 【 long2 】 yu4 wan3 xia4 nan2 yan2 。
+- mei2 yin1 pai1 jian4 liu2 xing1 dian4 ， yi1 wei2 mian2 yun2 re3 bi4 lan2 。
+- jin1 ye4 bian4 lai2 cheng2 yu3 lu4 ， yu4 dou1 gui1 qu4 lao3 song1 shan1 。
+- ceng2 jiang1 tie3 jing4 zhao4 shen2 gui3 ， pi1 li4 sou1 xun2 huo3 man3 tan2 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-jiu-mu-tai-fu-ren-fang-shi-wan-ci-san-shou-qi-er
-title: 舅母太夫人方氏輓詞三首・其二
-titlePinyin: jiu4 mu0 tai4 fu1 ren2 fang1 shi4 wan3 ci2 san1 shou3・qi2 er4
+title: 舅母太夫人方氏輓詞三首  其二
+titlePinyin: jiu4 mu0 tai4 fu1 ren2 fang1 shi4 wan3 ci2 san1 shou3     qi2 er4
 titleSlug: jiu-mu-tai-fu-ren-fang-shi-wan-ci-san-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

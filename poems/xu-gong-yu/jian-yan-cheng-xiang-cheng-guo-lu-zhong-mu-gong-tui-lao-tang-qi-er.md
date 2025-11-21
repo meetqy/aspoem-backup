@@ -6,9 +6,9 @@ titleSlug: jian-yan-cheng-xiang-cheng-guo-lu-zhong-mu-gong-tui-lao-tang-qi-er
 author: 徐公裕
 authorPinyin: xu2 gong1 yu4
 authorSlug: xu-gong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

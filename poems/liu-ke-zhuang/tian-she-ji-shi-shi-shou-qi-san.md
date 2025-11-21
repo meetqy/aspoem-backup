@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-san
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古來觀社見春秋，茜袂銀釵盡出遊。
-- 欲與魯人同獵較，可憐身世尚它州。
+- 此日田舍漢，當年省禁臣。
+- 絲綸隔世事，蓑笠暮年身。
+- 龍棄真初祖，羊求在近鄰。
+- 南朝足名士，吾獨愛吾真。
 
 ## 拼音
 
-- gu3 lai2 guan1 she4 jian4 chun1 qiu1 ， qian4 mei4 yin2 chai1 jin4 chu1 you2 。
-- yu4 yu3 lu3 ren2 tong2 lie4 jiao4 ， ke3 lian2 shen1 shi4 shang4 ta1 zhou1 。
+- ci3 ri4 tian2 she4 han4 ， dang1 nian2 sheng3 jin4 chen2 。
+- si1 lun2 ge2 shi4 shi4 ， suo1 li4 mu4 nian2 shen1 。
+- long2 qi4 zhen1 chu1 zu3 ， yang2 qiu2 zai4 jin4 lin2 。
+- nan2 chao2 zu2 ming2 shi4 ， wu2 du2 ai4 wu2 zhen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-ke
 author: 陳元老
 authorPinyin: chen2 yuan2 lao3
 authorSlug: chen-yuan-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

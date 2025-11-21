@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-liu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 穆穆清光外，葱葱佳氣中。
-- 雲天看斗柄，寰海受和風。
+- 瑣窗朱戶無寒到，長似春光日日來。
+- 自是螽斯載風什，可煩簫磬祀高禖。
 
 ## 拼音
 
-- mu4 mu4 qing1 guang1 wai4 ， cong1 cong1 jia1 qi4 zhong1 。
-- yun2 tian1 kan4 dou3 bing3 ， huan2 hai3 shou4 he2 feng1 。
+- suo3 chuang1 zhu1 hu4 wu2 han2 dao4 ， chang2 si4 chun1 guang1 ri4 ri4 lai2 。
+- zi4 shi4 zhong1 si1 zai4 feng1 shen2 ， ke3 fan2 xiao1 qing4 si4 gao1 mei2 。
 
 ## 注释
 

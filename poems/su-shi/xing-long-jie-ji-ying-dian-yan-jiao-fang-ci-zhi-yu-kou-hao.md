@@ -6,25 +6,25 @@ titleSlug: xing-long-jie-ji-ying-dian-yan-jiao-fang-ci-zhi-yu-kou-hao
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 凜凜重瞳日月新，四方驚喜識天人。
-- 共知若木初升旦，且種蟠桃莫計春。
-- 請吏黑山歸屬國，給扶黄髮拜嚴宸。
-- 紫皇應在紅雲裏，試問清都侍從臣。
+- 風卷雲舒合兩班，曈曈瑞日映天顔。
+- 觀書已獲千秋鏡，積德長爲萬歲山。
+- 臘雪未消三務起，壬人不用五兵閑。
+- 相逢父老爭相賀，却笑華胥是夢間。
 
 ## 拼音
 
-- lin3 lin3 zhong4 tong2 ri4 yue4 xin1 ， si4 fang1 jing1 xi3 shi2 tian1 ren2 。
-- gong4 zhi1 ruo4 mu4 chu1 sheng1 dan4 ， qie3 zhong3 pan2 tao2 mo4 ji4 chun1 。
-- qing3 li4 hei1 shan1 gui1 shu3 guo2 ， gei3 fu2 huang2 fa4 bai4 yan2 chen2 。
-- zi3 huang2 ying1 zai4 hong2 yun2 li3 ， shi4 wen4 qing1 dou1 shi4 cong2 chen2 。
+- feng1 juan4 yun2 shu1 he2 liang3 ban1 ， tong2 tong2 rui4 ri4 ying4 tian1 yan2 。
+- guan1 shu1 yi3 huo4 qian1 qiu1 jing4 ， ji1 de2 chang2 wei2 wan4 sui4 shan1 。
+- la4 xue3 wei4 xiao1 san1 wu4 qi3 ， ren2 ren2 bu2 yong4 wu3 bing1 xian2 。
+- xiang1 feng2 fu4 lao3 zheng1 xiang1 he4 ， que4 xiao4 hua2 xu1 shi4 meng4 jian4 。
 
 ## 注释
 

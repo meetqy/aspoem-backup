@@ -6,10 +6,10 @@ titleSlug: he-yun-shi-xiu-sheng-yang-guan-luo-cheng
 author: 吉康國
 authorPinyin: ji2 kang1 guo2
 authorSlug: ji-kang-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

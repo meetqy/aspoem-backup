@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 得閑一何樂，佳處先徜徉。
-- 每扣隠逸士，屢過清靜坊。
-- 地僻干戈遠，年豐禾稻香。
-- 訪我亦何所，南澗與東岡。
+- 斗水小漣漪，拳石獻巖竇。
+- 蒼蒼三峰足，挺挺數葉秀。
+- 棐几得巨壑，幽色清永晝。
+- 以我兼忘心，嵩華亦何有。
 
 ## 拼音
 
-- de2 xian2 yi4 he2 le4 ， jia1 chu3 xian1 chang2 yang2 。
-- mei3 kou4 yin3 yi4 shi4 ， lü3 guo4 qing1 jing4 fang1 。
-- di4 pi4 gan1 ge1 yuan3 ， nian2 feng1 he2 dao4 xiang1 。
-- fang3 wo3 yi4 he2 suo3 ， nan2 jian4 yu3 dong1 gang1 。
+- dou4 shui3 xiao3 lian2 yi1 ， quan2 shi2 xian4 yan2 dou4 。
+- cang1 cang1 san1 feng1 zu2 ， ting3 ting3 shu4 ye4 xiu4 。
+- fei3 ji3 de2 ju4 he4 ， you1 se4 qing1 yong3 zhou4 。
+- yi3 wo3 jian1 wang4 xin1 ， song1 hua2 yi4 he2 you3 。
 
 ## 注释
 

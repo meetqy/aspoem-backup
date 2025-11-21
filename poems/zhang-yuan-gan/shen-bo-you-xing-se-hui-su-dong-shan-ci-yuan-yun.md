@@ -6,9 +6,9 @@ titleSlug: shen-bo-you-xing-se-hui-su-dong-shan-ci-yuan-yun
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

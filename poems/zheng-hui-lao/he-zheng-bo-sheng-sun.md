@@ -6,10 +6,10 @@ titleSlug: he-zheng-bo-sheng-sun
 author: 鄭暉老
 authorPinyin: zheng4 hui1 lao3
 authorSlug: zheng-hui-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

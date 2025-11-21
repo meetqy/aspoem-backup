@@ -6,10 +6,10 @@ titleSlug: yan-guang-shi-shi-you-shi-shi-zhi-yu-fu-ci-yun
 author: 謝薖
 authorPinyin: xie4 ke1
 authorSlug: xie-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

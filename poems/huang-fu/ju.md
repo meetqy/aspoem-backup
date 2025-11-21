@@ -3,22 +3,22 @@ id: huang-fu-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 黄輔
-authorPinyin: huang2 fu3
+author: 皇甫□
+authorPinyin: huang2 fu3 □
 authorSlug: huang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 許國一心如鐵勁，闔門百口等毛輕。
+- 棹穿波底月。
 
 ## 拼音
 
-- xu1 guo2 yi4 xin1 ru2 tie3 jin4 ， he2 men2 bai3 kou3 deng3 mao2 qing1 。
+- zhao4 chuan1 bo1 di3 yue4 。
 
 ## 注释
 

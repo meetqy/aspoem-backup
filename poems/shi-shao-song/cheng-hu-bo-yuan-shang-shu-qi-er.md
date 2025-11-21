@@ -6,10 +6,10 @@ titleSlug: cheng-hu-bo-yuan-shang-shu-qi-er
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ju-qi-yi
 author: 胡君防
 authorPinyin: hu2 jun1 fang2
 authorSlug: hu-jun-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

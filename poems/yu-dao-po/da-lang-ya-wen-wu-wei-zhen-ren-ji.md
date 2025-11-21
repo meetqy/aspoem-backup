@@ -6,10 +6,10 @@ titleSlug: da-lang-ya-wen-wu-wei-zhen-ren-ji
 author: 俞道婆
 authorPinyin: yu2 dao4 po2
 authorSlug: yu-dao-po
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

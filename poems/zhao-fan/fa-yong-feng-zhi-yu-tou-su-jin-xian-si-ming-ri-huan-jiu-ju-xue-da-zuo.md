@@ -6,10 +6,10 @@ titleSlug: fa-yong-feng-zhi-yu-tou-su-jin-xian-si-ming-ri-huan-jiu-ju-xue-da-zuo
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

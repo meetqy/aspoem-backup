@@ -9,28 +9,28 @@ authorSlug: chen-yuan-guang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一戈探虎穴，萬里到龍湖。
-- 原上千花雨，湖邊百草埔。
-- 分曹驅鹿豕，犄角困獐狐。
-- 野女妍堆髻，山獠醉倒壺。
-- 氣清消霧冷，路險迫雲衢。
-- 虎帳風霆肅，龍旂日月舒。
-- 芟除盡荆棘，雨交鑑湖娛。
+- 魏母咸亨奉勅文，府兵雲衆成營屯。
+- 屹然一鎮雲霄末，漸爾羣言花柳春。
+- 男生女長通蕃息，五十八氏交爲婚。
+- 火田黃稻俱甘旨，綱水金魚洽醉。
+- 寇戎不測紛如雪，甲胄何時不出門。
+- 夜祀天皇弘德澤，日將山獠化縞民。
+- 一聲譙鼓月初出，戍樓西北望皇閽。
 
 ## 拼音
 
-- yi4 ge1 tan4 hu3 xue2 ， wan4 li3 dao4 long2 hu2 。
-- yuan2 shang4 qian1 hua1 yu3 ， hu2 bian1 bai3 cao3 pu3 。
-- fen1 cao2 qu1 lu4 shi3 ， ji1 jiao3 kun4 zhang1 hu2 。
-- ye3 nü3 yan2 dui1 ji4 ， shan1 liao2 zui4 dao3 hu2 。
-- qi4 qing1 xiao1 wu4 leng3 ， lu4 xian3 po4 yun2 qu2 。
-- hu3 zhang4 feng1 ting2 su4 ， long2 qi2 ri4 yue4 shu1 。
-- shan1 chu2 jin4 jing1 ji2 ， yu3 jiao1 jian4 hu2 yu2 。
+- wei4 mu3 xian2 heng1 feng4 chi4 wen2 ， fu3 bing1 yun2 zhong4 cheng2 ying2 tun2 。
+- yi4 ran2 yi2 zhen4 yun2 xiao1 mo4 ， jian4 er3 qun2 yan2 hua1 liu3 chun1 。
+- nan2 sheng1 nü3 chang2 tong1 fan1 xi1 ， wu3 shi2 ba1 shi4 jiao1 wei2 hun1 。
+- huo3 tian2 huang2 dao4 ju4 gan1 zhi3 ， gang1 shui3 jin1 yu2 qia4 zui4 。
+- kou4 rong2 bu2 ce4 fen1 ru2 xue3 ， jia3 zhou4 he2 shi2 bu4 chu1 men2 。
+- ye4 si4 tian1 huang2 hong2 de2 ze2 ， ri4 jiang1 shan1 liao2 hua4 gao3 min2 。
+- yi4 sheng1 qiao2 gu3 yue4 chu1 chu1 ， shu4 lou2 xi1 bei3 wang4 huang2 hun1 。
 
 ## 注释
 

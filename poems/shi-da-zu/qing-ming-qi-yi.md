@@ -6,10 +6,10 @@ titleSlug: qing-ming-qi-yi
 author: 史達祖
 authorPinyin: shi3 da2 zu3
 authorSlug: shi-da-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

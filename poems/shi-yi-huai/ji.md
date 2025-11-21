@@ -6,27 +6,21 @@ titleSlug: ji
 author: 釋義懷
 authorPinyin: shi4 yi4 huai2
 authorSlug: shi-yi-huai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 須彌頂上，不扣金鐘。
-- 畢鉢巖中，無人聚會。
-- 山僧倒騎佛殿，諸人反著草鞋。
-- 朝遊檀特，暮到羅浮。
-- 拄杖針筒，自家收取。
+- 紅日照扶桑，寒雪封華嶽。
+- 三更過鐵圍，拶折驪龍角。
 
 ## 拼音
 
-- xu1 mi2 ding3 shang4 ， bu2 kou4 jin1 zhong1 。
-- bi4 bo1 yan2 zhong1 ， wu2 ren2 ju4 hui4 。
-- shan1 seng1 dao3 qi2 fo2 dian4 ， zhu1 ren2 fan3 zhu4 cao3 xie2 。
-- chao2 you2 tan2 te4 ， mu4 dao4 luo2 fu2 。
-- zhu3 zhang4 zhen1 tong3 ， zi4 jia1 shou1 qu3 。
+- hong2 ri4 zhao4 fu2 sang1 ， han2 xue3 feng1 hua2 yue4 。
+- san1 geng1 guo4 tie3 wei2 ， za1 zhe2 li2 long2 jiao3 。
 
 ## 注释
 

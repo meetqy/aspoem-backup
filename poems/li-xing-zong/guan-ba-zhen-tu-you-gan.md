@@ -6,10 +6,10 @@ titleSlug: guan-ba-zhen-tu-you-gan
 author: 李興宗
 authorPinyin: li3 xing1 zong1
 authorSlug: li-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

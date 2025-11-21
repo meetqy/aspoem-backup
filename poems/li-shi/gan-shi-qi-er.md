@@ -6,21 +6,21 @@ titleSlug: gan-shi-qi-er
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老大年光迫，纖花又一春。
-- 鵲占風外歲，雞唱雨中晨。
+- 指謂名場結浄緣，修行隨處護龍天。
+- 只今挽下銀河水，已污緇塵四十年。
 
 ## 拼音
 
-- lao3 da4 nian2 guang1 po4 ， xian1 hua1 you4 yi4 chun1 。
-- que4 zhan4 feng1 wai4 sui4 ， ji1 chang4 yu3 zhong1 chen2 。
+- zhi3 wei4 ming2 chang3 jie2 jing4 yuan2 ， xiu1 xing2 sui2 chu3 hu4 long2 tian1 。
+- zhi1 jin1 wan3 xia4 yin2 he2 shui3 ， yi3 wu1 zi1 chen2 si4 shi2 nian2 。
 
 ## 注释
 

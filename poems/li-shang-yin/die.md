@@ -1,6 +1,6 @@
 ---
 id: li-shang-yin-die
-title: 蜨
+title: 蝶
 titlePinyin: die2
 titleSlug: die
 author: 李商隱
@@ -9,22 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 葉葉復翻翻，斜橋對側門。
-- 蘆花惟有白，柳絮可能溫。
-- 西子尋遺殿，昭君覓故村。
-- 年年芳物盡，來別敗蘭蓀。
+- 孤蝶小徘徊，翩翾粉翅開。
+- 併應傷皎潔，頻近雪中來。
 
 ## 拼音
 
-- ye4 ye4 fu4 fan1 fan1 ， xie2 qiao2 dui4 ce4 men2 。
-- lu2 hua1 wei2 you3 bai2 ， liu3 xu4 ke3 neng2 wen1 。
-- xi1 zi3 xun2 yi2 dian4 ， zhao1 jun1 mi4 gu4 cun1 。
-- nian2 nian2 fang1 wu4 jin4 ， lai2 bie2 bai4 lan2 sun1 。
+- gu1 die2 xiao3 pai2 huai2 ， pian1 xuan1 fen3 chi4 kai1 。
+- bing4 ying1 shang1 jiao3 jie2 ， bin1 jin4 xue3 zhong1 lai2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: he-kong-si-feng-ti-peng-lai-ge
 author: 趙諴
 authorPinyin: zhao4 xian2
 authorSlug: zhao-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

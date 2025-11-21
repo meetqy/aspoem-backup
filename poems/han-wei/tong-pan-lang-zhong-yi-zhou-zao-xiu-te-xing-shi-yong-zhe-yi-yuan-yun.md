@@ -6,10 +6,10 @@ titleSlug: tong-pan-lang-zhong-yi-zhou-zao-xiu-te-xing-shi-yong-zhe-yi-yuan-yun
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

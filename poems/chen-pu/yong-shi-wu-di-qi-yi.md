@@ -1,26 +1,26 @@
 ---
 id: chen-pu-yong-shi-wu-di-qi-yi
-title: 詠史 武帝 其一
-titlePinyin: yong3 shi3   wu3 di4   qi2 yi1
+title: 詠史 武帝 其一○
+titlePinyin: yong3 shi3   wu3 di4   qi2 yi1 ○
 titleSlug: yong-shi-wu-di-qi-yi
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 二十嫖姚風火飛，鑾輿夜夜過焉支。
-- 茂陵不費凌雲氣，解見蟠桃著子時。
+- 五十餘年四海波，建元三載盡征和。
+- 中央寸土纔無血，沃日澆天瓠子河。
 
 ## 拼音
 
-- er4 shi2 piao2 yao2 feng1 huo3 fei1 ， luan2 yu2 ye4 ye4 guo4 yan1 zhi1 。
-- mao4 ling2 bu2 fei4 ling2 yun2 qi4 ， jie3 jian4 pan2 tao2 zhu4 zi3 shi2 。
+- wu3 shi2 yu2 nian2 si4 hai3 bo1 ， jian4 yuan2 san1 zai4 jin4 zheng1 he2 。
+- zhong1 yang1 cun4 tu3 cai2 wu2 xue4 ， wo4 ri4 jiao1 tian1 hu4 zi0 he2 。
 
 ## 注释
 

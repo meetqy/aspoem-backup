@@ -6,10 +6,10 @@ titleSlug: chen-fang-da-di-hong-fu-jiang-sheng-shi-chao-yang-yi-shi-yue-bie
 author: 王邁
 authorPinyin: wang2 mai4
 authorSlug: wang-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

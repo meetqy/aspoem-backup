@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋來簾幕捲輕風，一夜濃陰蔽遠空。
-- 燕館乍凉人不寐，更聽疏雨滴梧桐。
+- 幈山掩翠敞華堂，巧燕初歸揀畫梁。
+- 寂坐安閑忘俗慮，益知仙府晝何長。
 
 ## 拼音
 
-- qiu1 lai2 lian2 mu4 juan3 qing1 feng1 ， yi2 ye4 nong2 yin1 bi4 yuan3 kong1 。
-- yan4 guan3 zha4 liang2 ren2 bu2 mei4 ， geng4 ting1 shu1 yu3 di1 wu2 tong2 。
+- ping2 shan1 yan3 cui4 chang3 hua2 tang2 ， qiao3 yan4 chu1 gui1 jian3 hua4 liang2 。
+- ji4 zuo4 an1 xian2 wang4 su2 lü4 ， yi4 zhi1 xian1 fu3 zhou4 he2 chang2 。
 
 ## 注释
 

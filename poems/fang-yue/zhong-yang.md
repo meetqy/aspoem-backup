@@ -6,21 +6,25 @@ titleSlug: zhong-yang
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 帽不禁吹怯酒觴，只携老硯了重陽。
-- 黄花未抵淵明瘦，却做離騷以上香。
+- 古岸維舟夜，蕭蕭秋葉丹。
+- 野烟連竹暗，江雨灑燈寒。
+- 亦喜重陽健，誰知行路難。
+- 吾親應念我，更把菊花看。
 
 ## 拼音
 
-- mao4 bu2 jin4 chui1 qie4 jiu3 shang1 ， zhi1 xie2 lao3 yan4 le0 zhong4 yang2 。
-- huang2 hua1 wei4 di3 yuan1 ming2 shou4 ， que4 zuo4 li2 sao1 yi3 shang4 xiang1 。
+- gu3 an4 wei2 zhou1 ye4 ， xiao1 xiao1 qiu1 ye4 dan1 。
+- ye3 yan1 lian2 zhu2 an4 ， jiang1 yu3 sa3 deng1 han2 。
+- yi4 xi3 zhong4 yang2 jian4 ， shui2 zhi1 xing2 lu4 nan2 。
+- wu2 qin1 ying1 nian4 wo3 ， geng4 ba3 ju2 hua1 kan4 。
 
 ## 注释
 

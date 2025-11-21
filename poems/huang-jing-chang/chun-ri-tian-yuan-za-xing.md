@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing
 author: 黄景昌
 authorPinyin: huang2 jing3 chang1
 authorSlug: huang-jing-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

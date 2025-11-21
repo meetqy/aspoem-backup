@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-fu-yu-jin-yuan-yan-ji
 author: 安燾
 authorPinyin: an1 dao4
 authorSlug: an-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

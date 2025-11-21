@@ -1,26 +1,26 @@
 ---
 id: shi-ru-gong-ji-song-san-shi-liu-shou-qi-yi
-title: 偈頌三十六首  其一
-titlePinyin: ji4 song4 san1 shi2 liu4 shou3     qi2 yi1
+title: 偈頌三十六首  其一○
+titlePinyin: ji4 song4 san1 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: ji-song-san-shi-liu-shou-qi-yi
 author: 釋如珙
 authorPinyin: shi4 ru2 gong3
 authorSlug: shi-ru-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少室無門戶，如何便得通。
-- 夜寒寧耐立，聽我話西東。
+- 河清海晏皇基壯，雨順風調百姓安。
+- 三世如來同祝讚，龍樓曲奏萬年歡。
 
 ## 拼音
 
-- shao3 shi4 wu2 men2 hu4 ， ru2 he2 bian4 de2 tong1 。
-- ye4 han2 ning2 nai4 li4 ， ting1 wo3 hua4 xi1 dong1 。
+- he2 qing1 hai3 yan4 huang2 ji1 zhuang4 ， yu3 shun4 feng1 diao4 bai3 xing4 an1 。
+- san1 shi4 ru2 lai2 tong2 zhu4 zan4 ， long2 lou2 qu3 zou4 wan4 nian2 huan1 。
 
 ## 注释
 

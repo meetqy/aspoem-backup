@@ -6,10 +6,10 @@ titleSlug: tong-hao-ran-zheng-shu-fu-xia-ying-gong-zhai-yan-chun-ting-de-deng-zi
 author: 楊傑
 authorPinyin: yang2 jie2
 authorSlug: yang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

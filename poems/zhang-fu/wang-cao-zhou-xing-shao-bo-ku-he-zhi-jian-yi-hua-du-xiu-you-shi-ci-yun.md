@@ -6,10 +6,10 @@ titleSlug: wang-cao-zhou-xing-shao-bo-ku-he-zhi-jian-yi-hua-du-xiu-you-shi-ci-yu
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

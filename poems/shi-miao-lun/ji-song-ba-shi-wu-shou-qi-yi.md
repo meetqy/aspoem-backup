@@ -1,28 +1,28 @@
 ---
 id: shi-miao-lun-ji-song-ba-shi-wu-shou-qi-yi
-title: 偈頌八十五首  其一
-titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 yi1
+title: 偈頌八十五首  其一○
+titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-ba-shi-wu-shou-qi-yi
 author: 釋妙倫
 authorPinyin: shi4 miao4 lun2
 authorSlug: shi-miao-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 二千年前，我不如你。
-- 二千年後，你不如我。
-- 看看，冷處與你著把火。
+- 前半夏已去，新事不添。
+- 後半夏未來，舊事不減。
+- 而今新也舊也，拈向一邊。
 
 ## 拼音
 
-- er4 qian1 nian2 qian2 ， wo3 bu4 ru2 ni3 。
-- er4 qian1 nian2 hou4 ， ni3 bu4 ru2 wo3 。
-- kan4 kan4 ， leng3 chu3 yu3 ni3 zhu4 ba3 huo3 。
+- qian2 ban4 xia4 yi3 qu4 ， xin1 shi4 bu4 tian1 。
+- hou4 ban4 xia4 wei4 lai2 ， jiu4 shi4 bu4 jian3 。
+- er2 jin1 xin1 ye3 jiu4 ye3 ， nian1 xiang4 yi4 bian1 。
 
 ## 注释
 

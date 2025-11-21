@@ -6,10 +6,10 @@ titleSlug: jing-yong-wu-jiu-xue-shi-nian-xiong-chang-yun-shang-cheng-zi-fang-tai
 author: 蔡肇
 authorPinyin: cai4 zhao4
 authorSlug: cai-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

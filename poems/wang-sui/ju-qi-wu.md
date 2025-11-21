@@ -1,24 +1,24 @@
 ---
 id: wang-sui-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 王隨
 authorPinyin: wang2 sui2
 authorSlug: wang-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 事簡曉花香落硯，訟稀晴蘚綠生庭。
+- 苔光浮亂石，花影倒寒潭。
 
 ## 拼音
 
-- shi4 jian3 xiao3 hua1 xiang1 luo4 yan4 ， song4 xi1 qing2 xian3 lü4 sheng1 ting2 。
+- tai2 guang1 fu2 luan4 shi2 ， hua1 ying3 dao3 han2 tan2 。
 
 ## 注释
 

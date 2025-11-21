@@ -9,22 +9,22 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春思春愁一萬枝，遠村遙岸寄相思。
-- 西園有雨和苔長，南內無人拂檻垂。
-- 遊客寂寥緘遠恨，暮鶯啼呌惜芳時。
-- 晚來飛絮如霜鬢，恐爲多情管別離。
+- 春風向楊柳，能事盡風流。
+- 有意疑張緒，無情見莫愁。
+- 依然金谷在，寧免武昌偷。
+- 前路難回首，何須苦映樓。
 
 ## 拼音
 
-- chun1 si1 chun1 chou2 yi2 wan4 zhi1 ， yuan3 cun1 yao2 an4 ji4 xiang1 si1 。
-- xi1 yuan2 you3 yu3 he2 tai2 chang2 ， nan2 nei4 wu2 ren2 fu2 jian4 chui2 。
-- you2 ke4 ji4 liao2 jian1 yuan3 hen4 ， mu4 ying1 ti2 jiao4 xi1 fang1 shi2 。
-- wan3 lai2 fei1 xu4 ru2 shuang1 bin4 ， kong3 wei2 duo1 qing2 guan3 bie2 li2 。
+- chun1 feng1 xiang4 yang2 liu3 ， neng2 shi4 jin4 feng1 liu2 。
+- you3 yi4 yi2 zhang1 xu4 ， wu2 qing2 jian4 mo4 chou2 。
+- yi1 ran2 jin1 gu3 zai4 ， ning2 mian3 wu3 chang1 tou1 。
+- qian2 lu4 nan2 hui2 shou3 ， he2 xu1 ku3 ying4 lou2 。
 
 ## 注释
 

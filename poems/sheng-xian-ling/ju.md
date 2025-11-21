@@ -6,10 +6,10 @@ titleSlug: ju
 author: 嵊縣令
 authorPinyin: sheng4 xian4 ling4
 authorSlug: sheng-xian-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

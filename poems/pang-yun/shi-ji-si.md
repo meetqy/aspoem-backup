@@ -9,36 +9,32 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 余家久住山，早已離城市。
-- 草屋有三間，一間長丈二。
-- 一間安葛五，一間塵六四。
-- 余家自內房，終日閒無事。
-- 昨因黑月二十五，初夜飲酒醉，兩人相渾雜，種種調言氣。
-- 余家不奈煩，放火燒屋積。
-- 葛五成灰燼，塵六無一二。
-- 有物蕩淨盡，惟餘空閑地。
-- 自身赤裸裸，體上無衣被。
-- 更莫憂盜賊，逍遙安樂睡。
-- 一等被火燒，同行不同利。
+- 心若如，神自虛。
+- 不服藥，病自除。
+- 病既除，自見蓮華如意珠。
+- 無勞事，莫駈駈。
+- 智者觀財色，了知如（《語錄》作「是」）幻虛。
+- 衣食支身命，相勸學如如。
+- 時至移庵去，無物可盈餘。
+- （以上二首均見影印本日本花園大學圖書館藏高麗覆刻本南唐招慶寺靜筠二僧著《祖堂集》卷十五）（按：《龐居士語錄》卷中以後六句爲一首，似未全。
+- ）。
 
 ## 拼音
 
-- yu2 jia1 jiu3 zhu4 shan1 ， zao3 yi3 li2 cheng2 shi4 。
-- cao3 wu1 you3 san1 jian4 ， yi2 jian4 chang2 zhang4 er4 。
-- yi2 jian4 an1 ge3 wu3 ， yi2 jian4 chen2 liu4 si4 。
-- yu2 jia1 zi4 nei4 fang2 ， zhong1 ri4 xian2 wu2 shi4 。
-- zuo2 yin1 hei1 yue4 er4 shi2 wu3 ， chu1 ye4 yin3 jiu3 zui4 ， liang3 ren2 xiang1 hun2 za2 ， zhong3 zhong3 diao4 yan2 qi4 。
-- yu2 jia1 bu2 nai4 fan2 ， fang4 huo3 shao1 wu1 ji1 。
-- ge3 wu3 cheng2 hui1 jin4 ， chen2 liu4 wu2 yi2 er4 。
-- you3 wu4 dang4 jing4 jin4 ， wei2 yu2 kong1 xian2 di4 。
-- zi4 shen1 chi4 luo3 luo3 ， ti3 shang4 wu2 yi1 bei4 。
-- geng4 mo4 you1 dao4 zei2 ， xiao1 yao2 an1 le4 shui4 。
-- yi1 deng3 bei4 huo3 shao1 ， tong2 hang2 bu4 tong2 li4 。
+- xin1 ruo4 ru2 ， shen2 zi4 xu1 。
+- bu4 fu2 yao4 ， bing4 zi4 chu2 。
+- bing4 ji4 chu2 ， zi4 jian4 lian2 hua2 ru2 yi4 zhu1 。
+- wu2 lao2 shi4 ， mo4 qu1 qu1 。
+- zhi4 zhe3 guan1 cai2 se4 ， liao3 zhi1 ru2 （《 yu3 lu4 》 zuo4 「 shi4 」） huan4 xu1 。
+- yi1 shi2 zhi1 shen1 ming4 ， xiang1 quan4 xue2 ru2 ru2 。
+- shi2 zhi4 yi2 an1 qu4 ， wu2 wu4 ke3 ying2 yu2 。
+- （ yi3 shang4 er4 shou3 jun1 jian4 ying3 yin4 ben3 ri4 ben3 hua1 yuan2 da4 xue2 tu2 shu1 guan3 cang2 gao1 li2 fu4 ke4 ben3 nan2 tang2 zhao1 qing4 si4 jing4 yun2 er4 seng1 zhu4 《 zu3 tang2 ji2 》 juan4 shi2 wu3 ）（ an4 ：《 pang2 ju1 shi4 yu3 lu4 》 juan4 zhong1 yi3 hou4 liu4 ju4 wei2 yi4 shou3 ， si4 wei4 quan2 。
+- ）。
 
 ## 注释
 

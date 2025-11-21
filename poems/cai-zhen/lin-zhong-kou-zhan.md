@@ -6,10 +6,10 @@ titleSlug: lin-zhong-kou-zhan
 author: 蔡振
 authorPinyin: cai4 zhen4
 authorSlug: cai-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

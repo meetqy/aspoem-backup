@@ -6,9 +6,9 @@ titleSlug: dao-zhong-wen-jiu-li-xiang-hua
 author: 王以寧
 authorPinyin: wang2 yi3 ning2
 authorSlug: wang-yi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-la-ji-si-shi-er-shou-chu-xian-guan-xi-sheng-jiang-yo
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有帨其新，有匜其潔。
-- 言念清祀，弗簡弗褻。
-- 誠意既交，品物斯列。
-- 是用告虔，靡神不說。
+- 齊誠揭虔，敬恭祀事。
+- 維儼之容，維潔之器。
+- 雍雍樂成，肅肅禮備。
+- 神其燕娭，錫祉庶類。
 
 ## 拼音
 
-- you3 shui4 qi2 xin1 ， you3 yi2 qi2 jie2 。
-- yan2 nian4 qing1 si4 ， fu2 jian3 fu2 xie4 。
-- cheng2 yi4 ji4 jiao1 ， pin3 wu4 si1 lie4 。
-- shi4 yong4 gao4 qian2 ， mi2 shen2 bu4 shuo1 。
+- qi2 cheng2 jie1 qian2 ， jing4 gong1 si4 shi4 。
+- wei2 yan3 zhi1 rong2 ， wei2 jie2 zhi1 qi4 。
+- yong1 yong1 le4 cheng2 ， su4 su4 li3 bei4 。
+- shen2 qi2 yan4 xi1 ， xi1 zhi3 shu4 lei4 。
 
 ## 注释
 

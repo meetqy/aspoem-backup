@@ -6,10 +6,10 @@ titleSlug: jian-yan-cheng-xiang-cheng-guo-lu-zhong-mu-gong-tui-lao-tang
 author: 江常
 authorPinyin: jiang1 chang2
 authorSlug: jiang-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

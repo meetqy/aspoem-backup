@@ -6,10 +6,10 @@ titleSlug: yu-lai-dan-er-de-fei-gou-yue-wu-zi-shen-meng-er-xun-sui-yu-qian-he-pu
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

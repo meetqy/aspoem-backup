@@ -1,26 +1,30 @@
 ---
 id: yang-wan-li-xi-yu
-title: 細雨
-titlePinyin: xi4 yu3
+title: 喜雨
+titlePinyin: xi3 yu3
 titleSlug: xi-yu
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孤悶無言獨倚門，梅花細雨欲黄昏。
-- 可憐簷滴不脫灑，點點何曾離舊痕。
+- 欲知一雨愜羣情，聽取溪流動地聲。
+- 風亂萬疇青錦褥，雲摩千嶂翠瑶屏。
+- 行人隔水遥相語，立鷺摧枝忽自驚。
+- 歲歲只愁炊與釀，今愁無甑更無瓶。
 
 ## 拼音
 
-- gu1 men4 wu2 yan2 du2 yi3 men2 ， mei2 hua1 xi4 yu3 yu4 huang2 hun1 。
-- ke3 lian2 yan2 di1 bu4 tuo1 sa3 ， dian3 dian3 he2 ceng2 li2 jiu4 hen2 。
+- yu4 zhi1 yi4 yu3 qie4 qun2 qing2 ， ting1 qu3 xi1 liu2 dong4 di4 sheng1 。
+- feng1 luan4 wan4 chou2 qing1 jin3 ru4 ， yun2 mo2 qian1 zhang4 cui4 yao2 ping2 。
+- xing2 ren2 ge2 shui3 yao2 xiang1 yu3 ， li4 lu4 cui1 zhi1 hu1 zi4 jing1 。
+- sui4 sui4 zhi1 chou2 chui1 yu3 niang4 ， jin1 chou2 wu2 zeng4 geng4 wu2 ping2 。
 
 ## 注释
 

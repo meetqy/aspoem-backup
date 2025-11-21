@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-san-die-qi-yi
-title: 三疊  其一
-titlePinyin: san1 die2     qi2 yi1
+title: 三疊  其一○
+titlePinyin: san1 die2     qi2 yi1 ○
 titleSlug: san-die-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 唐時才子總能詩，張祜輕狂李益癡。
-- 管甚三姨偷玉笛，誑他小玉寫烏絲。
+- 早知粉黛非真色，晚覺雕鎸損自然。
+- 天巧千林均一氣，人癡一葉費三年。
 
 ## 拼音
 
-- tang2 shi2 cai2 zi3 zong3 neng2 shi1 ， zhang1 hu4 qing1 kuang2 li3 yi4 chi1 。
-- guan3 shen4 san1 yi2 tou1 yu4 di2 ， kuang2 ta1 xiao3 yu4 xie3 wu1 si1 。
+- zao3 zhi1 fen3 dai4 fei1 zhen1 se4 ， wan3 jue2 diao1 juan1 sun3 zi4 ran2 。
+- tian1 qiao3 qian1 lin2 jun1 yi2 qi4 ， ren2 chi1 yi2 ye4 fei4 san1 nian2 。
 
 ## 注释
 

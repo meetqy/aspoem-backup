@@ -6,15 +6,15 @@ titleSlug: ying-yue
 author: 陳起
 authorPinyin: chen2 qi3
 authorSlug: chen-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 尊酒貪迎月，人生醉後佳。
+- 尊酒貪迎月，人生醉後嘉。
 - 夜來窗不掩，吹落一瓶花。
 
 ## 拼音

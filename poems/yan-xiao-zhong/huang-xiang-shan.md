@@ -6,10 +6,10 @@ titleSlug: huang-xiang-shan
 author: 閻孝忠
 authorPinyin: yan2 xiao4 zhong1
 authorSlug: yan-xiao-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

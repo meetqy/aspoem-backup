@@ -6,21 +6,21 @@ titleSlug: ji-liu-si-zhou
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生天生地常爲主，此事惟應作者知。
-- 康濟小民歸一臂，屈伸由我更由誰。
+- 萬馬千艘要路津，禪翁新畫兩朱輪。
+- 行春定得忘言對，金碧浮圖何姓人。
 
 ## 拼音
 
-- sheng1 tian1 sheng1 di4 chang2 wei2 zhu3 ， ci3 shi4 wei2 ying1 zuo4 zhe3 zhi1 。
-- kang1 ji4 xiao3 min2 gui1 yi2 bi4 ， qu1 shen1 you2 wo3 geng4 you2 shui2 。
+- wan4 ma3 qian1 sou1 yao4 lu4 jin1 ， shan4 weng1 xin1 hua4 liang3 zhu1 lun2 。
+- xing2 chun1 ding4 de2 wang4 yan2 dui4 ， jin1 bi4 fu2 tu2 he2 xing4 ren2 。
 
 ## 注释
 

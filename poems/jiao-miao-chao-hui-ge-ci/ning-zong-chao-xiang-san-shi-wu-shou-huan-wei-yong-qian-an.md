@@ -6,25 +6,25 @@ titleSlug: ning-zong-chao-xiang-san-shi-wu-shou-huan-wei-yong-qian-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 旅楹有閑，人神允叶。
-- 福以德昭，饗以誠接。
-- 六樂宣揚，百禮煒燁。
-- 對越在天，流祚萬葉。
+- 聖圖廣大，宗祊光輝。
+- 假于有廟，帝命不違。
+- 僾若有慕，夙夜畏威。
+- 嘉樂君子，福祿祁祁。
 
 ## 拼音
 
-- lü3 ying2 you3 xian2 ， ren2 shen2 yun3 ye4 。
-- fu2 yi3 de2 zhao1 ， xiang3 yi3 cheng2 jie1 。
-- liu4 le4 xuan1 yang2 ， bai3 li3 wei3 ye4 。
-- dui4 yue4 zai4 tian1 ， liu2 zuo4 wan4 ye4 。
+- sheng4 tu2 guang3 da4 ， zong1 beng1 guang1 hui1 。
+- jia3 yu2 you3 miao4 ， di4 ming4 bu4 wei2 。
+- ai4 ruo4 you3 mu4 ， su4 ye4 wei4 wei1 。
+- jia1 le4 jun1 zi3 ， fu2 lu4 qi2 qi2 。
 
 ## 注释
 

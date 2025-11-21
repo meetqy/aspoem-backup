@@ -6,25 +6,25 @@ titleSlug: qian-xing
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 客去抽書讀，愁來閉戶推。
-- 眼花因酒劇，書草更人催。
-- 怪石巧依竹，凈瓶香引梅。
-- 悠然鑑湖念，又向雁邊回。
+- 衡門秋到總堪悲，荷折蒲荒不整齊。
+- 但喜風前無立豹，亦知砌下有蹲鴟。
+- 吾徒老矣成何事，生理茫然更久稽。
+- 清凈無風天雨已，山前山後且扶藜。
 
 ## 拼音
 
-- ke4 qu4 chou1 shu1 du2 ， chou2 lai2 bi4 hu4 tui1 。
-- yan3 hua1 yin1 jiu3 ju4 ， shu1 cao3 geng4 ren2 cui1 。
-- guai4 shi2 qiao3 yi1 zhu2 ， jing4 ping2 xiang1 yin3 mei2 。
-- you1 ran2 jian4 hu2 nian4 ， you4 xiang4 yan4 bian1 hui2 。
+- heng2 men2 qiu1 dao4 zong3 kan1 bei1 ， he2 zhe2 pu2 huang1 bu4 zheng3 qi2 。
+- dan4 xi3 feng1 qian2 wu2 li4 bao4 ， yi4 zhi1 qi4 xia4 you3 dun1 chi1 。
+- wu2 tu2 lao3 yi3 cheng2 he2 shi4 ， sheng1 li3 mang2 ran2 geng4 jiu3 ji1 。
+- qing1 jing4 wu2 feng1 tian1 yu3 yi3 ， shan1 qian2 shan1 hou4 qie3 fu2 li2 。
 
 ## 注释
 

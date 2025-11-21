@@ -6,10 +6,10 @@ titleSlug: ti-bai-yun-yan
 author: 韓京
 authorPinyin: han2 jing1
 authorSlug: han-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

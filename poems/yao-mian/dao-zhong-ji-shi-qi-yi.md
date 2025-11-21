@@ -1,26 +1,26 @@
 ---
 id: yao-mian-dao-zhong-ji-shi-qi-yi
-title: 道中即事  其一
-titlePinyin: dao4 zhong1 ji2 shi4     qi2 yi1
+title: 道中即事  其一○
+titlePinyin: dao4 zhong1 ji2 shi4     qi2 yi1 ○
 titleSlug: dao-zhong-ji-shi-qi-yi
 author: 姚勉
 authorPinyin: yao2 mian3
 authorSlug: yao-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 路盤山行崖插天，儂行山頭下有船。
-- 逆船上遲步行速，舟人指儂誇爲僊。
+- 怪梅蟠屈如龍蛇，小紅如粒欲作花。
+- 雪坡一株恰如此，歸歟月明看橫斜。
 
 ## 拼音
 
-- lu4 pan2 shan1 xing2 ya2 cha1 tian1 ， nong2 xing2 shan1 tou2 xia4 you3 chuan2 。
-- ni4 chuan2 shang4 chi2 bu4 xing2 su4 ， zhou1 ren2 zhi3 nong2 kua1 wei2 xian1 。
+- guai4 mei2 pan2 qu1 ru2 long2 she2 ， xiao3 hong2 ru2 li4 yu4 zuo4 hua1 。
+- xue3 po1 yi4 zhu1 qia4 ru2 ci3 ， gui1 yu2 yue4 ming2 kan4 heng2 xie2 。
 
 ## 注释
 

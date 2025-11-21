@@ -9,18 +9,18 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 船檣相望荆江中，岸蘆汀樹煙濛濛。
-- 路間隄缺水如箭，未知何日生南風。
+- 路聞隄缺水如箭，未知何日生南風。
 
 ## 拼音
 
 - chuan2 qiang2 xiang1 wang4 jing1 jiang1 zhong1 ， an4 lu2 ting1 shu4 yan1 meng2 meng2 。
-- lu4 jian4 di1 que1 shui3 ru2 jian4 ， wei4 zhi1 he2 ri4 sheng1 nan2 feng1 。
+- lu4 wen2 di1 que1 shui3 ru2 jian4 ， wei4 zhi1 he2 ri4 sheng1 nan2 feng1 。
 
 ## 注释
 

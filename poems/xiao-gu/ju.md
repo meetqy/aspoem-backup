@@ -6,10 +6,10 @@ titleSlug: ju
 author: 蕭固
 authorPinyin: xiao1 gu4
 authorSlug: xiao-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

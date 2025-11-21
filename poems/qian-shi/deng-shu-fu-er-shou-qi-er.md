@@ -6,21 +6,21 @@ titleSlug: deng-shu-fu-er-shou-qi-er
 author: 錢時
 authorPinyin: qian2 shi2
 authorSlug: qian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 彈指經年別彼阿，庭前庭後綠婆娑。
-- 雖然隕籜無人掃，老木修篁古意多。
+- 寶貨秋毫歸潤屋，錐刀左計屬癡兒。
+- 獨餘風月無人管，合著山亭頓放伊。
 
 ## 拼音
 
-- dan4 zhi3 jing1 nian2 bie2 bi3 a1 ， ting2 qian2 ting2 hou4 lü4 po2 suo1 。
-- sui1 ran2 yun3 tuo4 wu2 ren2 sao3 ， lao3 mu4 xiu1 huang2 gu3 yi4 duo1 。
+- bao3 huo4 qiu1 hao2 gui1 run4 wu1 ， zhui1 dao1 zuo3 ji4 shu3 chi1 er2 。
+- du2 yu2 feng1 yue4 wu2 ren2 guan3 ， he2 zhu4 shan1 ting2 dun4 fang4 yi1 。
 
 ## 注释
 

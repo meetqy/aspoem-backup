@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-yu-suo-pan-zhu-jun-hui-shi-fan-huan-he-du-lao-qu-jiang-yun-qi-er
-title: 與所盤諸君會石幡還和杜老曲江韻・其二
-titlePinyin: yu3 suo3 pan2 zhu1 jun1 hui4 shi2 fan1 huan2 he2 du4 lao3 qu3 jiang1 yun4・qi2 er4
+title: 與所盤諸君會石幡還和杜老曲江韻  其二
+titlePinyin: yu3 suo3 pan2 zhu1 jun1 hui4 shi2 fan1 huan2 he2 du4 lao3 qu3 jiang1 yun4     qi2 er4
 titleSlug: yu-suo-pan-zhu-jun-hui-shi-fan-huan-he-du-lao-qu-jiang-yun-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

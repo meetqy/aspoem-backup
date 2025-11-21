@@ -6,10 +6,10 @@ titleSlug: deng-jie-zhong-zu-er-wei-zang-qi-gu-yu-zu-yi-qi-qing-su-fu-jue-ju-sho
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

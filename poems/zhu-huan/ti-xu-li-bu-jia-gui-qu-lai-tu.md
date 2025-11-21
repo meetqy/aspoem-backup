@@ -6,10 +6,10 @@ titleSlug: ti-xu-li-bu-jia-gui-qu-lai-tu
 author: 朱渙
 authorPinyin: zhu1 huan4
 authorSlug: zhu-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

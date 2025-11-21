@@ -6,9 +6,9 @@ titleSlug: xi-wei-ji-shan-shi-zuo
 author: 康執權
 authorPinyin: kang1 zhi2 quan2
 authorSlug: kang-zhi-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

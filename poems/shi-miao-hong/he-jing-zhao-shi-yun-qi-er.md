@@ -6,10 +6,10 @@ titleSlug: he-jing-zhao-shi-yun-qi-er
 author: 釋妙弘
 authorPinyin: shi4 miao4 hong2
 authorSlug: shi-miao-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

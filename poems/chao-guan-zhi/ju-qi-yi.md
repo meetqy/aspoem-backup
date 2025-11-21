@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 晁貫之
 authorPinyin: chao2 guan4 zhi1
 authorSlug: chao-guan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

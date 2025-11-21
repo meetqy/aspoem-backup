@@ -6,10 +6,10 @@ titleSlug: tong-zhang-cui-yan-wu-ji-zhou
 author: 牟子才
 authorPinyin: mu4 zi3 cai2
 authorSlug: mu-zi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

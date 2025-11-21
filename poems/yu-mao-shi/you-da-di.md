@@ -6,10 +6,10 @@ titleSlug: you-da-di
 author: 俞茂實
 authorPinyin: yu2 mao4 shi2
 authorSlug: yu-mao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

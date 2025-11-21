@@ -6,10 +6,10 @@ titleSlug: ti-san-gao-ci
 author: 郭紹彭
 authorPinyin: guo1 shao4 peng2
 authorSlug: guo-shao-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

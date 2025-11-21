@@ -6,25 +6,25 @@ titleSlug: zong-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 故國吾宗廟，群羌我虜讎。
-- 但應堅此念，寧假用它謀。
-- 望駕遺民老，忘兵志士憂。
-- 何時聞遣將，往護北平秋。
+- 相馬失之瘦，知人良獨難。
+- 雖居環堵室，未廢切雲冠。
+- 暮雨潼關暗，秋風渭水寒。
+- 深蕪埋壯士，千古爲悲歡。
 
 ## 拼音
 
-- gu4 guo2 wu2 zong1 miao4 ， qun2 qiang1 wo3 lu3 chou2 。
-- dan4 ying1 jian1 ci3 nian4 ， ning2 jia3 yong4 ta1 mou2 。
-- wang4 jia4 yi2 min2 lao3 ， wang4 bing1 zhi4 shi4 you1 。
-- he2 shi2 wen2 qian3 jiang1 ， wang3 hu4 bei3 ping2 qiu1 。
+- xiang1 ma3 shi1 zhi1 shou4 ， zhi1 ren2 liang2 du2 nan2 。
+- sui1 ju1 huan2 du3 shi4 ， wei4 fei4 qie4 yun2 guan1 。
+- mu4 yu3 tong2 guan1 an4 ， qiu1 feng1 wei4 shui3 han2 。
+- shen1 wu2 mai2 zhuang4 shi4 ， qian1 gu3 wei2 bei1 huan1 。
 
 ## 注释
 

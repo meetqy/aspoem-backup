@@ -1,26 +1,26 @@
 ---
 id: yang-gong-yuan-shi-bi
-title: 詩筆
-titlePinyin: shi1 bi3
+title: 詩壁
+titlePinyin: shi1 bi4
 titleSlug: shi-bi
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 銀管空虛藏兔穎，冰懷磊磈吐天葩。
-- 有時揮掃渾無礙，盡道毫鋒自有花。
+- 一方素壁龍蛇走，幾首新詩冰雪清。
+- 語好驚人看不足，教儂技癢動吟情。
 
 ## 拼音
 
-- yin2 guan3 kong1 xu1 cang2 tu4 ying3 ， bing1 huai2 lei3 wei3 tu3 tian1 pa1 。
-- you3 shi2 hui1 sao3 hun2 wu2 ai4 ， jin4 dao4 hao2 feng1 zi4 you3 hua1 。
+- yi4 fang1 su4 bi4 long2 she2 zou3 ， ji1 shou3 xin1 shi1 bing1 xue3 qing1 。
+- yu3 hao3 jing1 ren2 kan4 bu4 zu2 ， jiao4 nong2 ji4 yang3 dong4 yin2 qing2 。
 
 ## 注释
 

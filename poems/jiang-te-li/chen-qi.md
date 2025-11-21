@@ -6,25 +6,25 @@ titleSlug: chen-qi
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東旭曉曈矓，照我牆角紅。
-- 衰意忽開豁，衰顔亦丰茸。
-- 便欲理晨策，去遶菊花叢。
-- 惜無會心友，一尊清興同。
+- 晨興一爐火，焰焰如鎔金。
+- 大明忽東升，陽暉散重陰。
+- 家人過平劑，有酒向我斟。
+- 此外更何求，便可老山林。
 
 ## 拼音
 
-- dong1 xu4 xiao3 tong2 long2 ， zhao4 wo3 qiang2 jiao3 hong2 。
-- shuai1 yi4 hu1 kai1 huo1 ， shuai1 yan2 yi4 feng1 rong2 。
-- bian4 yu4 li3 chen2 ce4 ， qu4 rao4 ju2 hua1 cong2 。
-- xi1 wu2 hui4 xin1 you3 ， yi4 zun1 qing1 xing1 tong2 。
+- chen2 xing1 yi4 lu2 huo3 ， yan4 yan4 ru2 rong2 jin1 。
+- da4 ming2 hu1 dong1 sheng1 ， yang2 hui1 san4 zhong4 yin1 。
+- jia1 ren2 guo4 ping2 ji4 ， you3 jiu3 xiang4 wo3 zhen1 。
+- ci3 wai4 geng4 he2 qiu2 ， bian4 ke3 lao3 shan1 lin2 。
 
 ## 注释
 

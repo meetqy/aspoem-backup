@@ -6,10 +6,10 @@ titleSlug: you-rui-yan
 author: 林誠仲
 authorPinyin: lin2 cheng2 zhong4
 authorSlug: lin-cheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

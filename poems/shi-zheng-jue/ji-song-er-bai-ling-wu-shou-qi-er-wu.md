@@ -1,26 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-er-wu
-title: 偈頌二百零五首  其二五
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 wu3
+title: 偈頌二百零五首  其二○五
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 ○ wu3
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-er-wu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 衲僧舌頭真箇自由，渾侖裏許沒錐鈎。
-- 輪扁斲工不授子，庖丁遊刃無全牛。
+- 一雨霑濡，諸根萌動。
+- 青黄各成其姿，長短各隨其用。
+- 綿綿也妙有機絲，混混也廓無稜縫。
+- 若人問我如何，敢道不快漆桶。
 
 ## 拼音
 
-- na4 seng1 she2 tou2 zhen1 ge4 zi4 you2 ， hun2 lun2 li3 xu1 mei2 zhui1 gou1 。
-- lun2 bian3 zhuo2 gong1 bu2 shou4 zi3 ， pao2 ding1 you2 ren4 wu2 quan2 niu2 。
+- yi4 yu3 zhan1 ru2 ， zhu1 gen1 meng2 dong4 。
+- qing1 huang2 ge4 cheng2 qi2 zi1 ， chang2 duan3 ge4 sui2 qi2 yong4 。
+- mian2 mian2 ye3 miao4 you3 ji1 si1 ， hun4 hun0 ye3 kuo4 wu2 leng2 feng2 。
+- ruo4 ren2 wen4 wo3 ru2 he2 ， gan3 dao4 bu2 kuai4 qi1 tong3 。
 
 ## 注释
 

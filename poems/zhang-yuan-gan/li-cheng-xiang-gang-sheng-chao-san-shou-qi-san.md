@@ -6,25 +6,25 @@ titleSlug: li-cheng-xiang-gang-sheng-chao-san-shou-qi-san
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 希世推英偉，行藏孰是非。
-- 橫流曾砥柱，袖手且深衣。
-- 槐影摇黄閤，星躔煥紫微。
-- 山林愚已老，衮繡看公歸。
+- 濟世功名肯力爲，風雲遇合貴逢時。
+- 欲知辟穀師黄石，便是扁舟號子皮。
+- 後進忌能踰日月，敵人用間果蓍龜。
+- 福城東際笙歌地，且祝千齡醉荔支。
 
 ## 拼音
 
-- xi1 shi4 tui1 ying1 wei3 ， xing2 cang2 shu2 shi4 fei1 。
-- heng2 liu2 ceng2 di3 zhu4 ， xiu4 shou3 qie3 shen1 yi1 。
-- huai2 ying3 yao2 huang2 he2 ， xing1 chan2 huan4 zi3 wei1 。
-- shan1 lin2 yu2 yi3 lao3 ， gun3 xiu4 kan4 gong1 gui1 。
+- ji4 shi4 gong1 ming2 ken3 li4 wei2 ， feng1 yun2 yu4 he2 gui4 feng2 shi2 。
+- yu4 zhi1 pi4 gu3 shi1 huang2 shi2 ， bian4 shi4 pian1 zhou1 hao4 zi3 pi2 。
+- hou4 jin4 ji4 neng2 yu2 ri4 yue4 ， di2 ren2 yong4 jian4 guo3 shi1 gui1 。
+- fu2 cheng2 dong1 ji4 sheng1 ge1 di4 ， qie3 zhu4 qian1 ling2 zui4 li4 zhi1 。
 
 ## 注释
 

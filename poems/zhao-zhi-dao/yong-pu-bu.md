@@ -6,10 +6,10 @@ titleSlug: yong-pu-bu
 author: 趙至道
 authorPinyin: zhao4 zhi4 dao4
 authorSlug: zhao-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

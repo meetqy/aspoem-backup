@@ -6,10 +6,10 @@ titleSlug: chu-jiao-ji-shi-qi-yi
 author: 朱子恭
 authorPinyin: zhu1 zi3 gong1
 authorSlug: zhu-zi-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: su-xiang-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 蘇庠
 authorPinyin: su1 xiang2
 authorSlug: su-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 但見金華仙伯語，筆端丘壑飽經心。
+- 江南溪工琢溪玉，淒風瑟瑟江作縠。
 
 ## 拼音
 
-- dan4 jian4 jin1 hua2 xian1 bo2 yu3 ， bi3 duan1 qiu1 he4 bao3 jing1 xin1 。
+- jiang1 nan2 xi1 gong1 zhuo2 xi1 yu4 ， qi1 feng1 se4 se4 jiang1 zuo4 hu2 。
 
 ## 注释
 

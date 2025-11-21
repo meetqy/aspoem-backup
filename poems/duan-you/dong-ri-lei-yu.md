@@ -6,10 +6,10 @@ titleSlug: dong-ri-lei-yu
 author: 段油
 authorPinyin: duan4 you2
 authorSlug: duan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

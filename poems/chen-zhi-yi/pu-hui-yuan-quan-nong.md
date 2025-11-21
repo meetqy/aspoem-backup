@@ -6,9 +6,9 @@ titleSlug: pu-hui-yuan-quan-nong
 author: 陳致一
 authorPinyin: chen2 zhi4 yi1
 authorSlug: chen-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

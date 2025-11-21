@@ -6,10 +6,10 @@ titleSlug: yang-shi-ke-su-zai-ting-jia-you-sheng-ji-zhi-feng-er-you-ju-wei-qiu-g
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

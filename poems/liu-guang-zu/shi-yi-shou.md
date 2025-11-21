@@ -6,21 +6,25 @@ titleSlug: shi-yi-shou
 author: 劉光祖
 authorPinyin: liu2 guang1 zu3
 authorSlug: liu-guang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嶺似頹城野日荒，關留遺迹界金房。
-- 蜀人初向京西道，是處爲家莫斷腸。
+- 往日房陵憐逐客，物情不覺在天涯。
+- 十年來作六州長，四海共知雙鬢華。
+- 封內半爲胡敵踐，路傍時問野人家。
+- 京山初入京西道，晚景輕風旆脚斜。
 
 ## 拼音
 
-- ling3 si4 tui2 cheng2 ye3 ri4 huang1 ， guan1 liu2 yi2 ji4 jie4 jin1 fang2 。
-- shu3 ren2 chu1 xiang4 jing1 xi1 dao4 ， shi4 chu3 wei2 jia1 mo4 duan4 chang2 。
+- wang3 ri4 fang2 ling2 lian2 zhu2 ke4 ， wu4 qing2 bu4 jue2 zai4 tian1 ya2 。
+- shi2 nian2 lai2 zuo4 liu4 zhou1 chang2 ， si4 hai3 gong4 zhi1 shuang1 bin4 hua2 。
+- feng1 nei4 ban4 wei2 hu2 di2 jian4 ， lu4 bang4 shi2 wen4 ye3 ren2 jia1 。
+- jing1 shan1 chu1 ru4 jing1 xi1 dao4 ， wan3 jing3 qing1 feng1 pei4 jiao3 xie2 。
 
 ## 注释
 

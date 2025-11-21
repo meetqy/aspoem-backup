@@ -6,21 +6,21 @@ titleSlug: za-ti-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山光染黛朝如濕，川氣鎔銀暮不收。
-- 詩料滿前誰領略，時時來倚水邉樓。
+- 年來世事掃除盡，猶有閑吟頗自奇。
+- 安得陟釐九萬箇，爲君盡寫暮年詩。
 
 ## 拼音
 
-- shan1 guang1 ran3 dai4 chao2 ru2 shi1 ， chuan1 qi4 rong2 yin2 mu4 bu4 shou1 。
-- shi1 liao4 man3 qian2 shui2 ling3 lüe4 ， shi2 shi2 lai2 yi3 shui3 bian1 lou2 。
+- nian2 lai2 shi4 shi4 sao3 chu2 jin4 ， you2 you3 xian2 yin2 po1 zi4 qi2 。
+- an1 de2 zhi4 li2 jiu3 wan4 ge4 ， wei2 jun1 jin4 xie3 mu4 nian2 shi1 。
 
 ## 注释
 

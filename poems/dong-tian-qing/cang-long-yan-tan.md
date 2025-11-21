@@ -6,10 +6,10 @@ titleSlug: cang-long-yan-tan
 author: 董天慶
 authorPinyin: dong3 tian1 qing4
 authorSlug: dong-tian-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

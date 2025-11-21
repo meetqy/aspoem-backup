@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-song-shi-tou-he-shang-cao-an-ge-qi-er
-title: 頌石頭和尚草菴歌  其二
-titlePinyin: song4 shi2 tou2 he2 shang4 cao3 an1 ge1     qi2 er4
+title: 頌石頭和尚草菴歌  其二○
+titlePinyin: song4 shi2 tou2 he2 shang4 cao3 an1 ge1     qi2 er4 ○
 titleSlug: song-shi-tou-he-shang-cao-an-ge-qi-er
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾結草菴無寶貝，日劫相陪誰曉會。
-- 只緣窮子不歸家，未免出頭來捏怪。
+- 基址堅牢以爲最，百億輪鎚擊不開。
+- 定慧圓明非我所，方知達磨不曾來。
 
 ## 拼音
 
-- wu2 jie2 cao3 an1 wu2 bao3 bei4 ， ri4 jie2 xiang1 pei2 shui2 xiao3 hui4 。
-- zhi1 yuan2 qiong2 zi3 bu4 gui1 jia1 ， wei4 mian3 chu1 tou2 lai2 nie1 guai4 。
+- ji1 zhi3 jian1 lao2 yi3 wei2 zui4 ， bai3 yi4 lun2 chui2 ji1 bu4 kai1 。
+- ding4 hui4 yuan2 ming2 fei1 wo3 suo3 ， fang1 zhi1 da2 mo2 bu4 ceng2 lai2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhou-ci-yan-tan
 author: 金涓
 authorPinyin: jin1 juan1
 authorSlug: jin-juan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

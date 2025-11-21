@@ -6,10 +6,10 @@ titleSlug: ling-yan-shi-er-jing-zhi-si-dian
 author: 釋仁欽
 authorPinyin: shi4 ren2 qin1
 authorSlug: shi-ren-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

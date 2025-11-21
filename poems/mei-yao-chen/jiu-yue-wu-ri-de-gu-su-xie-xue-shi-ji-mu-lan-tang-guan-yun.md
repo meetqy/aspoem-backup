@@ -6,10 +6,10 @@ titleSlug: jiu-yue-wu-ri-de-gu-su-xie-xue-shi-ji-mu-lan-tang-guan-yun
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

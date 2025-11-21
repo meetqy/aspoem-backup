@@ -6,10 +6,10 @@ titleSlug: ju
 author: 皇甫坦
 authorPinyin: huang2 fu3 tan3
 authorSlug: huang-fu-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

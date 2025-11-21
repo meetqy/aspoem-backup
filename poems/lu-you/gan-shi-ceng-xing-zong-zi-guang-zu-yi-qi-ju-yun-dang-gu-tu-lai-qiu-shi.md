@@ -6,10 +6,10 @@ titleSlug: gan-shi-ceng-xing-zong-zi-guang-zu-yi-qi-ju-yun-dang-gu-tu-lai-qiu-sh
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

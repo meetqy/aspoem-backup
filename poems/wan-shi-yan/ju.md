@@ -6,9 +6,9 @@ titleSlug: ju
 author: 萬世延
 authorPinyin: wan4 shi4 yan2
 authorSlug: wan-shi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

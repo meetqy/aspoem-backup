@@ -6,9 +6,9 @@ titleSlug: nie-yun-ting
 author: 羅孝芬
 authorPinyin: luo2 xiao4 fen1
 authorSlug: luo-xiao-fen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

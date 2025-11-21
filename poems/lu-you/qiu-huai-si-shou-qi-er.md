@@ -6,21 +6,25 @@ titleSlug: qiu-huai-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 園丁傍架摘黄瓜，村女沿籬采碧花。
-- 城市尚餘三伏熱，秋光先到野人家。
+- 苦雨無時止，幽人空復情。
+- 少眠知夜永，久病喜秋清。
+- 螢傍疏簾度，蛩依壞甃鳴。
+- 流年那可挽，又見曉窗明。
 
 ## 拼音
 
-- yuan2 ding1 bang4 jia4 zhai1 huang2 gua1 ， cun1 nü3 yan2 li2 cai3 bi4 hua1 。
-- cheng2 shi4 shang4 yu2 san1 fu2 re4 ， qiu1 guang1 xian1 dao4 ye3 ren2 jia1 。
+- ku3 yu3 wu2 shi2 zhi3 ， you1 ren2 kong1 fu4 qing2 。
+- shao3 mian2 zhi1 ye4 yong3 ， jiu3 bing4 xi3 qiu1 qing1 。
+- ying2 bang4 shu1 lian2 du4 ， qiong2 yi1 huai4 zhou4 ming2 。
+- liu2 nian2 na4 ke3 wan3 ， you4 jian4 xiao3 chuang1 ming2 。
 
 ## 注释
 

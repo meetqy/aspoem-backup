@@ -6,10 +6,10 @@ titleSlug: you-ta-shan
 author: 應樞
 authorPinyin: ying1 shu1
 authorSlug: ying-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

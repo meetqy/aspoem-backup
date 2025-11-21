@@ -6,10 +6,10 @@ titleSlug: zuo-ye-pei-zhu-gong-yin-jin-shang-wei-dun-wei-neng-qi-zuo-wen-sun-sho
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: han-bi-xi-shang-xin-yin-fen-yun-de-chu-zi
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

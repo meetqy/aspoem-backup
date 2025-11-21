@@ -9,22 +9,18 @@ authorSlug: wu-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 樹遠天疑盡，江奔地欲隨。
-- 孤帆落何處，殘日更新離。
-- 客是淒涼本，情爲繫滯枝。
-- 寸腸無計免，應只楚猿知。
+- 吳臺越嶠兩分津，萬萬檣烏簇夜雲。
+- 吟盡長江一江月，更無人似謝將軍。
 
 ## 拼音
 
-- shu4 yuan3 tian1 yi2 jin4 ， jiang1 ben1 di4 yu4 sui2 。
-- gu1 fan1 luo4 he2 chu3 ， can2 ri4 geng1 xin1 li2 。
-- ke4 shi4 qi1 liang2 ben3 ， qing2 wei2 xi4 zhi4 zhi1 。
-- cun4 chang2 wu2 ji4 mian3 ， ying1 zhi1 chu3 yuan2 zhi1 。
+- wu2 tai2 yue4 jiao4 liang3 fen1 jin1 ， wan4 wan4 qiang2 wu1 cu4 ye4 yun2 。
+- yin2 jin4 chang2 jiang1 yi0 jiang1 yue4 ， geng4 wu2 ren2 si4 xie4 jiang1 jun1 。
 
 ## 注释
 

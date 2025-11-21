@@ -9,26 +9,22 @@ authorSlug: sun-ti
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 拜郎登省闥，奉使馳車乘。
-- 遙瞻使者星，便是郎官應。
-- 臺妙時相許，皇華德彌稱。
-- 二陝聽風謠，三秦望形勝。
-- 此中暌益友，是日多詩興。
-- 寒盡歲陰催，春歸物華證。
+- 忽覩雲間數鴈回，更逢山上正花開。
+- 河邊淑氣迎芳草，林下輕風待落梅。
+- 秋憲府中高唱入，春卿署裏和歌來。
+- 共言東閣招賢地，自有西征謝傅才。
 
 ## 拼音
 
-- bai4 lang2 deng1 sheng3 ta4 ， feng4 shi3 chi2 ju1 cheng2 。
-- yao2 zhan1 shi3 zhe3 xing1 ， bian4 shi4 lang2 guan1 ying1 。
-- tai2 miao4 shi2 xiang1 xu1 ， huang2 hua2 de2 mi2 cheng1 。
-- er4 shan3 ting1 feng1 yao2 ， san1 qin2 wang4 xing2 sheng4 。
-- ci3 zhong1 kui2 yi4 you3 ， shi4 ri4 duo1 shi1 xing1 。
-- han2 jin4 sui4 yin1 cui1 ， chun1 gui1 wu4 hua2 zheng4 。
+- hu1 du3 yun2 jian4 shu4 yan4 hui2 ， geng4 feng2 shan1 shang4 zheng4 hua1 kai1 。
+- he2 bian1 shu1 qi4 ying2 fang1 cao3 ， lin2 xia4 qing1 feng1 dai4 luo4 mei2 。
+- qiu1 xian4 fu3 zhong1 gao1 chang4 ru4 ， chun1 qing1 shu3 li3 he2 ge1 lai2 。
+- gong4 yan2 dong1 ge2 zhao1 xian2 di4 ， zi4 you3 xi1 zheng1 xie4 fu4 cai2 。
 
 ## 注释
 

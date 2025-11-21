@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 杳杳冥冥莫問涯，雕蟲篆刻道之華。
-- 守中絕學方知奧，抱一無言始見佳。
-- 自有物如黃菊蘂，更無色似碧桃花。
-- 休將心地虛勞用，煮鐵燒金轉轉差。
+- 琴劍酒碁龍鶴虎，逍遙落托永無憂。
+- 閑騎白鹿遊三島，悶駕青牛看十洲。
+- 碧洞遠觀明月上，青山高隱綵雲流。
+- 時人若要還如此，名利浮華即便休。
 
 ## 拼音
 
-- yao3 yao3 ming2 ming2 mo4 wen4 ya2 ， diao1 chong2 zhuan4 ke4 dao4 zhi1 hua2 。
-- shou3 zhong1 jue2 xue2 fang1 zhi1 ao4 ， bao4 yi4 wu2 yan2 shi3 jian4 jia1 。
-- zi4 you3 wu4 ru2 huang2 ju2 rui3 ， geng4 wu2 se4 si4 bi4 tao2 hua1 。
-- xiu1 jiang1 xin1 di4 xu1 lao2 yong4 ， zhu3 tie3 shao1 jin1 zhuan3 zhuan3 cha4 。
+- qin2 jian4 jiu3 qi2 long2 he4 hu3 ， xiao1 yao2 luo4 tuo1 yong3 wu2 you1 。
+- xian2 qi2 bai2 lu4 you2 san1 dao3 ， men4 jia4 qing1 niu2 kan4 shi2 zhou1 。
+- bi4 dong4 yuan3 guan1 ming2 yue4 shang4 ， qing1 shan1 gao1 yin3 cai3 yun2 liu2 。
+- shi2 ren2 ruo4 yao4 huan2 ru2 ci3 ， ming2 li4 fu2 hua2 ji2 bian4 xiu1 。
 
 ## 注释
 

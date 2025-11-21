@@ -6,10 +6,10 @@ titleSlug: luo-yang-qiao-guan-shui
 author: 朱正中
 authorPinyin: zhu1 zheng4 zhong1
 authorSlug: zhu-zheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

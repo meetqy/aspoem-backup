@@ -6,10 +6,10 @@ titleSlug: ti-zhao-zhou-tian-ting-liang-shu-gao-hou-qi-er
 author: 樂雷發
 authorPinyin: le4 lei2 fa1
 authorSlug: le-lei-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

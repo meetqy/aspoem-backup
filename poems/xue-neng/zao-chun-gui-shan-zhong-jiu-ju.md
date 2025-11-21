@@ -9,22 +9,22 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 茫茫驅匹馬，歸處是荒榛。
-- 猨跡破庭雪，鼠蹤生甑塵。
-- 開門衝網斷，掃葉放苔勻。
-- 爲惜詩情錯，應難致此身。
+- 綠草閉閑院，悄然花正開。
+- 新年人未去，戊日燕還來。
+- 雨地殘枯沫，燈窗積舊煤。
+- 歸田語不忘，樗散料非才。
 
 ## 拼音
 
-- mang2 mang2 qu1 pi3 ma3 ， gui1 chu3 shi4 huang1 zhen1 。
-- yuan2 ji4 po4 ting2 xue3 ， shu3 zong1 sheng1 zeng4 chen2 。
-- kai1 men2 chong1 wang3 duan4 ， sao3 ye4 fang4 tai2 yun2 。
-- wei2 xi1 shi1 qing2 cuo4 ， ying1 nan2 zhi4 ci3 shen1 。
+- lü4 cao3 bi4 xian2 yuan4 ， qiao3 ran2 hua1 zheng4 kai1 。
+- xin1 nian2 ren2 wei4 qu4 ， wu4 ri4 yan4 huan2 lai2 。
+- yu3 di4 can2 ku1 mo4 ， deng1 chuang1 ji1 jiu4 mei2 。
+- gui1 tian2 yu3 bu2 wang4 ， chu1 san4 liao4 fei1 cai2 。
 
 ## 注释
 

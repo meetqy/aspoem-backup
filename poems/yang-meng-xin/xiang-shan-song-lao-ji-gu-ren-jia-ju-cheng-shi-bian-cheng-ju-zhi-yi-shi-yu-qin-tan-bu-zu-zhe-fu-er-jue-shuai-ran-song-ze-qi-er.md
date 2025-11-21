@@ -6,10 +6,10 @@ titleSlug: xiang-shan-song-lao-ji-gu-ren-jia-ju-cheng-shi-bian-cheng-ju-zhi-yi-s
 author: 楊夢信
 authorPinyin: yang2 meng4 xin4
 authorSlug: yang-meng-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

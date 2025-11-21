@@ -6,10 +6,10 @@ titleSlug: gu-shi-er-shou-qi-yi
 author: 陶應靁
 authorPinyin: tao2 ying1 lei2
 authorSlug: tao-ying-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

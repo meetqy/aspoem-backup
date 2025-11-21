@@ -6,9 +6,9 @@ titleSlug: zhi-hua-ting
 author: 龔明之
 authorPinyin: gong1 ming2 zhi1
 authorSlug: gong-ming-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

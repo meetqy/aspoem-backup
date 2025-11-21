@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-si-shi-tian-yuan-za-xing-liu-shi-shou-xia-ri-tian-yuan-za-xing-shi-er-jue-qi-er
-title: 四時田園雜興六十首・夏日田園雜興十二絕・其二
-titlePinyin: si4 shi2 tian2 yuan2 za2 xing1 liu4 shi2 shou3・xia4 ri4 tian2 yuan2 za2 xing1 shi2 er4 jue2・qi2 er4
+title: 四時田園雜興六十首 夏日田園雜興十二絕 其二
+titlePinyin: si4 shi2 tian2 yuan2 za2 xing1 liu4 shi2 shou3   xia4 ri4 tian2 yuan2 za2 xing1 shi2 er4 jue2   qi2 er4
 titleSlug: si-shi-tian-yuan-za-xing-liu-shi-shou-xia-ri-tian-yuan-za-xing-shi-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

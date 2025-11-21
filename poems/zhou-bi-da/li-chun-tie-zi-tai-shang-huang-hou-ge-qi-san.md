@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-san
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冰泮西湖裏，人遊玉燭中。
-- 非關風習習，端爲樂融融。
+- 聚景貯壺春，仙關晝不扃。
+- 小桃無數發，好幸綵霞亭。
 
 ## 拼音
 
-- bing1 pan4 xi1 hu2 li3 ， ren2 you2 yu4 zhu2 zhong1 。
-- fei1 guan1 feng1 xi2 xi2 ， duan1 wei2 le4 rong2 rong2 。
+- ju4 jing3 zhu4 hu2 chun1 ， xian1 guan1 zhou4 bu4 jiong1 。
+- xiao3 tao2 wu2 shu4 fa1 ， hao3 xing4 cai3 xia2 ting2 。
 
 ## 注释
 

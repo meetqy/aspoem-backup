@@ -6,21 +6,21 @@ titleSlug: tong-guan-xu-zhi-zhang-she-ba-pian-qi-er
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 爲國先須班馬政，蓄儲專以備兵戎。
-- 近來貴室豪家子，金勒雕鞍縱侈風。
+- 晉帝當時自不君，却將步障助驕臣。
+- 石崇不爲綠珠死，天譴窮奢故殯身。
 
 ## 拼音
 
-- wei2 guo2 xian1 xu1 ban1 ma3 zheng4 ， xu4 chu3 zhuan1 yi3 bei4 bing1 rong2 。
-- jin4 lai2 gui4 shi4 hao2 jia1 zi0 ， jin1 le4 diao1 an1 zong4 chi3 feng1 。
+- jin4 di4 dang1 shi2 zi4 bu4 jun1 ， que4 jiang1 bu4 zhang4 zhu4 jiao1 chen2 。
+- shi2 chong2 bu4 wei2 lü4 zhu1 si3 ， tian1 qian3 qiong2 she1 gu4 bin4 shen1 。
 
 ## 注释
 

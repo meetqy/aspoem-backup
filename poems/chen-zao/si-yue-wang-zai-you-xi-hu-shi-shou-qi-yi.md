@@ -1,26 +1,26 @@
 ---
 id: chen-zao-si-yue-wang-zai-you-xi-hu-shi-shou-qi-yi
-title: 四月望再遊西湖十首  其一
-titlePinyin: si4 yue4 wang4 zai4 you2 xi1 hu2 shi2 shou3     qi2 yi1
+title: 四月望再遊西湖十首  其一○
+titlePinyin: si4 yue4 wang4 zai4 you2 xi1 hu2 shi2 shou3     qi2 yi1 ○
 titleSlug: si-yue-wang-zai-you-xi-hu-shi-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前時小舫冒氛昏，重到輕橈破麴塵。
-- 湖面風烟飽姿態，一番到眼一番新。
+- 橫逵縱徑平如水，無復衝泥防險人。
+- 儻使人心盡包叟，世間何向不通津。
 
 ## 拼音
 
-- qian2 shi2 xiao3 fang3 mao4 fen1 hun1 ， zhong4 dao4 qing1 rao2 po4 qu1 chen2 。
-- hu2 mian4 feng1 yan1 bao3 zi1 tai4 ， yi4 fan1 dao4 yan3 yi4 fan1 xin1 。
+- heng2 kui2 zong4 jing4 ping2 ru2 shui3 ， wu2 fu4 chong1 ni2 fang2 xian3 ren2 。
+- tang3 shi3 ren2 xin1 jin4 bao1 sou3 ， shi4 jian4 he2 xiang4 bu4 tong1 jin1 。
 
 ## 注释
 

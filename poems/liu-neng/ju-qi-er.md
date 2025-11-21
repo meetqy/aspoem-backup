@@ -6,9 +6,9 @@ titleSlug: ju-qi-er
 author: 劉能
 authorPinyin: liu2 neng2
 authorSlug: liu-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

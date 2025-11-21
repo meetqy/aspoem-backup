@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ren-zong-huang-di-wan-shi-shi-shou-qi-qi
-title: 仁宗皇帝挽詩十首・其七
-titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3・qi2 qi1
+title: 仁宗皇帝挽詩十首  其七
+titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3     qi2 qi1
 titleSlug: ren-zong-huang-di-wan-shi-shi-shou-qi-qi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

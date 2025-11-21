@@ -6,10 +6,10 @@ titleSlug: ti-jun-xiang-bei-yan
 author: 許沆
 authorPinyin: xu1 hang4
 authorSlug: xu-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

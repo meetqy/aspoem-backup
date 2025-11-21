@@ -6,10 +6,10 @@ titleSlug: ti-wo-zhou-shan-zi-yan
 author: 石余亨
 authorPinyin: shi2 yu2 heng1
 authorSlug: shi-yu-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

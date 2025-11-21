@@ -6,10 +6,10 @@ titleSlug: you-chu-zhou-shi-men-dong-fu-chang-ju-er-shi-yun
 author: 徐恢
 authorPinyin: xu2 hui1
 authorSlug: xu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xin-tan-xian-e-bu-ke-qian-sui-chu-cheng-tan-xia-zhou-zuo-shi-song-tan
 author: 員興宗
 authorPinyin: yuan2 xing1 zong1
 authorSlug: yuan-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

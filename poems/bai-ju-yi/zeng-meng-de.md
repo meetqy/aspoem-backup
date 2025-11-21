@@ -9,22 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 心中萬事不思量，坐倚屏風臥向陽。
-- 漸覺詠詩猶老醜，豈宜憑酒更麄狂。
-- 頭垂白髮我思退，脚蹋青雲君欲忙。
-- 只有今春相伴在，花前賸醉兩三場。
+- 前日君家飲，昨日王家宴。
+- 今日過我廬，三日三會面。
+- 當歌聊自放，對酒交相勸。
+- 爲我盡一杯，與君發三願。
+- 一願世清平，二願身強健。
+- 三願臨老頭，數與君相見。
 
 ## 拼音
 
-- xin1 zhong1 wan4 shi4 bu4 si1 liang0 ， zuo4 yi3 ping2 feng1 wo4 xiang4 yang2 。
-- jian4 jue2 yong3 shi1 you2 lao3 chou3 ， qi3 yi2 ping2 jiu3 geng4 cu1 kuang2 。
-- tou2 chui2 bai2 fa4 wo3 si1 tui4 ， jiao3 ta4 qing1 yun2 jun1 yu4 mang2 。
-- zhi3 you3 jin1 chun1 xiang1 ban4 zai4 ， hua1 qian2 sheng4 zui4 liang3 san1 chang3 。
+- qian2 ri4 jun1 jia1 yin3 ， zuo2 ri4 wang2 jia1 yan4 。
+- jin1 ri4 guo4 wo3 lu2 ， san1 ri4 san1 hui4 mian4 。
+- dang1 ge1 liao2 zi4 fang4 ， dui4 jiu3 jiao1 xiang4 quan4 。
+- wei2 wo3 jin4 yi4 bei1 ， yu3 jun1 fa1 san1 yuan4 。
+- yi2 yuan4 shi4 qing1 ping2 ， er4 yuan4 shen1 qiang2 jian4 。
+- san1 yuan4 lin2 lao3 tou2 ， shu4 yu3 jun1 xiang1 jian4 。
 
 ## 注释
 

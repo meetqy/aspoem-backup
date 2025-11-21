@@ -6,10 +6,10 @@ titleSlug: yi-shui-shi-chang-pu-zeng-gu-tang-sun-cao
 author: 徐珩
 authorPinyin: xu2 heng2
 authorSlug: xu-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

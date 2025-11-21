@@ -6,10 +6,10 @@ titleSlug: ying-zhao-qing-xian-gong-you-yan-dang
 author: 石景立
 authorPinyin: shi2 jing3 li4
 authorSlug: shi-jing-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

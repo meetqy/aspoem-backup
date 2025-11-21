@@ -6,10 +6,10 @@ titleSlug: ci-yun-shi-chuan-ti-yu-xun-long-bi-jian-san-shou-qi-yi
 author: 洪芻
 authorPinyin: hong2 chu2
 authorSlug: hong-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

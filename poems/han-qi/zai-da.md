@@ -6,25 +6,25 @@ titleSlug: zai-da
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一從西北困邊塵，瀛館仙游更莫親。
-- 只慣彎弧揮太白，幾曾橫槊賦青春。
-- 晴郊按獵長侵暮，夜橐飛郵不待晨。
-- 多羨某棠閴無訟，時將佳句惱粗人。
+- 久拋儒掖禦戎疆，每憶青氈只自傷。
+- 馬上文章終是俗，胸中戈甲亦非祥。
+- 哇聲誤入離韶耳，藻衮輕投被毳鄉。
+- 賴得高賢時借譽，不然幽迹轉無光。
 
 ## 拼音
 
-- yi4 cong2 xi1 bei3 kun4 bian1 chen2 ， ying2 guan3 xian1 you2 geng4 mo4 qin1 。
-- zhi1 guan4 wan1 hu2 hui1 tai4 bai2 ， ji1 ceng2 heng2 shuo4 fu4 qing1 chun1 。
-- qing2 jiao1 an4 lie4 chang2 qin1 mu4 ， ye4 tuo2 fei1 you2 bu2 dai4 chen2 。
-- duo1 xian4 mou3 tang2 qu4 wu2 song4 ， shi2 jiang1 jia1 ju4 nao3 cu1 ren2 。
+- jiu3 pao1 ru2 ye4 yu4 rong2 jiang1 ， mei3 yi4 qing1 zhan1 zhi1 zi4 shang1 。
+- ma3 shang4 wen2 zhang1 zhong1 shi4 su2 ， xiong1 zhong1 ge1 jia3 yi4 fei1 xiang2 。
+- wa1 sheng1 wu4 ru4 li2 shao2 er3 ， zao3 gun3 qing1 tou2 bei4 cui4 xiang1 。
+- lai4 de2 gao1 xian2 shi2 jie4 yu4 ， bu4 ran2 you1 ji4 zhuan3 wu2 guang1 。
 
 ## 注释
 

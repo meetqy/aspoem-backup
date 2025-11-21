@@ -9,18 +9,18 @@ authorSlug: zhou-tan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 君人爲理在安民，論道求賢德自新。
-- 經國遠圖無所問，何曾言指一何神。
+- 貪泉何處是泉源，只在靈臺一點間。
+- 必也心源元自有，此泉何必在江山。
 
 ## 拼音
 
-- jun1 ren2 wei2 li3 zai4 an1 min2 ， lun4 dao4 qiu2 xian2 de2 zi4 xin1 。
-- jing1 guo2 yuan3 tu2 wu2 suo3 wen4 ， he2 ceng2 yan2 zhi3 yi4 he2 shen2 。
+- tan1 quan2 he2 chu3 shi4 quan2 yuan2 ， zhi1 zai4 ling2 tai2 yi4 dian3 jian4 。
+- bi4 ye3 xin1 yuan2 yuan2 zi4 you3 ， ci3 quan2 he2 bi4 zai4 jiang1 shan1 。
 
 ## 注释
 

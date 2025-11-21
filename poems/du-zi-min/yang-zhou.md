@@ -6,10 +6,10 @@ titleSlug: yang-zhou
 author: 杜子民
 authorPinyin: du4 zi3 min2
 authorSlug: du-zi-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

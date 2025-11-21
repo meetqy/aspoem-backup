@@ -6,10 +6,10 @@ titleSlug: ji-ti-cui-jiao-ting
 author: 丁黼
 authorPinyin: ding1 fu3
 authorSlug: ding-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

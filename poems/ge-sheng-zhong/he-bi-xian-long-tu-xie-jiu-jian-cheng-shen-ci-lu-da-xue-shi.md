@@ -6,10 +6,10 @@ titleSlug: he-bi-xian-long-tu-xie-jiu-jian-cheng-shen-ci-lu-da-xue-shi
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

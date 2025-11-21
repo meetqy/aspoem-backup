@@ -6,25 +6,25 @@ titleSlug: ji-fang-shu
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落葉滿滄灣，墜露濕踈柳。
-- 幽人曉無事，杖策經林阜。
-- 忽焉若有省，懷此山中友。
-- 便欲借風翰，翩翩插雙肘。
+- 二老論交日，真成百歲期。
+- 同行雙野鶴，得意一山雌。
+- 病起憐加飯，書來渴寄詩。
+- 已添新蠟屐，此興報公知。
 
 ## 拼音
 
-- luo4 ye4 man3 cang1 wan1 ， zhui4 lu4 shi1 shu1 liu3 。
-- you1 ren2 xiao3 wu2 shi4 ， zhang4 ce4 jing1 lin2 fu4 。
-- hu1 yan1 ruo4 you3 sheng3 ， huai2 ci3 shan1 zhong1 you3 。
-- bian4 yu4 jie4 feng1 han4 ， pian1 pian1 cha1 shuang1 zhou3 。
+- er4 lao3 lun4 jiao1 ri4 ， zhen1 cheng2 bai3 sui4 qi1 。
+- tong2 hang2 shuang1 ye3 he4 ， de2 yi4 yi4 shan1 ci2 。
+- bing4 qi3 lian2 jia1 fan4 ， shu1 lai2 ke3 ji4 shi1 。
+- yi3 tian1 xin1 la4 ji1 ， ci3 xing1 bao4 gong1 zhi1 。
 
 ## 注释
 

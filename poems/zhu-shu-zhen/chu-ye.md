@@ -6,25 +6,25 @@ titleSlug: chu-ye
 author: 朱淑真
 authorPinyin: zhu1 shu1 zhen1
 authorSlug: zhu-shu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮冬欲去尚徘徊，獨坐頻斟守歲杯。
-- 一夜臘寒隨漏盡，十分春色破朝來。
-- 桃符自寫新翻句，玉律誰吹定等灰。
-- 且是作詩人未老，換年添歲莫相催。
+- 休嘆流光去，看看春欲回。
+- 椒盤卷紅燭，柏酒溢金杯。
+- 殘臘餘更盡，新年曉角催。
+- 爭先何物早，唯有後園梅。
 
 ## 拼音
 
-- qiong2 dong1 yu4 qu4 shang4 pai2 huai2 ， du2 zuo4 bin1 zhen1 shou3 sui4 bei1 。
-- yi2 ye4 la4 han2 sui2 lou4 jin4 ， shi2 fen1 chun1 se4 po4 chao2 lai2 。
-- tao2 fu2 zi4 xie3 xin1 fan1 ju4 ， yu4 lü4 shui2 chui1 ding4 deng3 hui1 。
-- qie3 shi4 zuo4 shi1 ren2 wei4 lao3 ， huan4 nian2 tian1 sui4 mo4 xiang1 cui1 。
+- xiu1 tan4 liu2 guang1 qu4 ， kan4 kan4 chun1 yu4 hui2 。
+- jiao1 pan2 juan4 hong2 zhu2 ， bai3 jiu3 yi4 jin1 bei1 。
+- can2 la4 yu2 geng4 jin4 ， xin1 nian2 xiao3 jiao3 cui1 。
+- zheng1 xian1 he2 wu4 zao3 ， wei2 you3 hou4 yuan2 mei2 。
 
 ## 注释
 

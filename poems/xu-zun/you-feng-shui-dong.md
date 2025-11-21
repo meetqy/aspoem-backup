@@ -6,10 +6,10 @@ titleSlug: you-feng-shui-dong
 author: 許遵
 authorPinyin: xu1 zun1
 authorSlug: xu-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

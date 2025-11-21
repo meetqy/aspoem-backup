@@ -6,21 +6,21 @@ titleSlug: huang-hou-ge-duan-wu-tie-zi-ci-wu-shou-qi-yi
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠浪兩岐麥，冰絲八繭蠶。
-- 今年收倍好，歌頌滿周南。
+- 玉佩響瓊樓，天風五月秋。
+- 人間正炎熱，猶軫聖情憂。
 
 ## 拼音
 
-- cui4 lang4 liang3 qi2 mai4 ， bing1 si1 ba1 jian3 can2 。
-- jin1 nian2 shou1 bei4 hao3 ， ge1 song4 man3 zhou1 nan2 。
+- yu4 pei4 xiang3 qiong2 lou2 ， tian1 feng1 wu3 yue4 qiu1 。
+- ren2 jian4 zheng4 yan2 re4 ， you2 zhen3 sheng4 qing2 you1 。
 
 ## 注释
 

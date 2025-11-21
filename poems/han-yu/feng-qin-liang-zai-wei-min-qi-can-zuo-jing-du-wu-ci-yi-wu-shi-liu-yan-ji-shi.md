@@ -6,10 +6,10 @@ titleSlug: feng-qin-liang-zai-wei-min-qi-can-zuo-jing-du-wu-ci-yi-wu-shi-liu-yan
 author: 韓煜
 authorPinyin: han2 yu4
 authorSlug: han-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

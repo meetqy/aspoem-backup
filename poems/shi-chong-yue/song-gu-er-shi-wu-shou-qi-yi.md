@@ -1,26 +1,26 @@
 ---
 id: shi-chong-yue-song-gu-er-shi-wu-shou-qi-yi
-title: 頌古二十五首  其一
-titlePinyin: song4 gu3 er4 shi2 wu3 shou3     qi2 yi1
+title: 頌古二十五首  其一○
+titlePinyin: song4 gu3 er4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: song-gu-er-shi-wu-shou-qi-yi
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 開口分明便垛根，指天指地獨稱尊。
-- 成羣作隊隨他轉，幾箇男兒有腦門。
+- 水急魚行澀，峰高鳥不栖。
+- 世情看冷暖，人面逐高低。
 
 ## 拼音
 
-- kai1 kou3 fen1 ming2 bian4 duo4 gen1 ， zhi3 tian1 zhi3 di4 du2 cheng1 zun1 。
-- cheng2 qun2 zuo4 dui4 sui2 ta1 zhuan3 ， ji1 ge4 nan2 er2 you3 nao3 men2 。
+- shui3 ji2 yu2 xing2 se4 ， feng1 gao1 niao3 bu4 qi1 。
+- shi4 qing2 kan4 leng3 nuan3 ， ren2 mian4 zhu2 gao1 di1 。
 
 ## 注释
 

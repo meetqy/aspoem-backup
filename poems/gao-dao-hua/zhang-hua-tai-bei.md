@@ -6,10 +6,10 @@ titleSlug: zhang-hua-tai-bei
 author: 高道華
 authorPinyin: gao1 dao4 hua2
 authorSlug: gao-dao-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

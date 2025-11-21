@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-tian-she-qi-yi
-title: 田舍・其一
-titlePinyin: tian2 she4・qi2 yi1
+title: 田舍  其一
+titlePinyin: tian2 she4     qi2 yi1
 titleSlug: tian-she-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: jiu-yue-shi-san-ri-shi-jiu-jiao-shu-bai-bao-mo-ge-zhi-xue-shi-ti-ju-j
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

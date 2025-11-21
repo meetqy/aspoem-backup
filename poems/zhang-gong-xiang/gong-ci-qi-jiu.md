@@ -1,26 +1,26 @@
 ---
 id: zhang-gong-xiang-gong-ci-qi-jiu
-title: 宮詞  其九
-titlePinyin: gong1 ci2     qi2 jiu3
+title: 宮詞  其九○
+titlePinyin: gong1 ci2     qi2 jiu3 ○
 titleSlug: gong-ci-qi-jiu
 author: 張公庠
 authorPinyin: zhang1 gong1 xiang2
 authorSlug: zhang-gong-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 赫日炎風晝鼓遲，中官宣問到黄扉。
-- 傳呼宰相槐街靜，青蓋搖搖未午歸。
+- 上林隨駕賞芳辰，曲賜黄封臘味醇。
+- 供帳不須勞幕士，垂楊爲蓋草爲茵。
 
 ## 拼音
 
-- he4 ri4 yan2 feng1 zhou4 gu3 chi2 ， zhong1 guan1 xuan1 wen4 dao4 huang2 fei1 。
-- chuan2 hu1 zai3 xiang4 huai2 jie1 jing4 ， qing1 gai4 yao2 yao2 wei4 wu3 gui1 。
+- shang4 lin2 sui2 jia4 shang3 fang1 chen2 ， qu3 ci4 huang2 feng1 la4 wei4 chun2 。
+- gong4 zhang4 bu4 xu1 lao2 mu4 shi4 ， chui2 yang2 wei2 gai4 cao3 wei2 yin1 。
 
 ## 注释
 

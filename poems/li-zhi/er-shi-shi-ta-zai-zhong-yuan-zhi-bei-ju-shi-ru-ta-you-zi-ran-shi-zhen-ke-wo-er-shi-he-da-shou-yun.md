@@ -6,10 +6,10 @@ titleSlug: er-shi-shi-ta-zai-zhong-yuan-zhi-bei-ju-shi-ru-ta-you-zi-ran-shi-zhen
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

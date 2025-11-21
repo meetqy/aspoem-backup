@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-hu-zhou-ge-jiu-shi-ba-shou-qi-ba
-title: 湖州歌九十八首  其八
-titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 ba1
+title: 湖州歌九十八首  其八○
+titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 ba1 ○
 titleSlug: hu-zhou-ge-jiu-shi-ba-shou-qi-ba
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 錦颿高揭繡簾開，鼉鼓聲悲鳳管哀。
-- 月子纖纖雲裏見，吳江不盡暮潮來。
+- 一人不殺謝乾坤，萬里來來謁帝閽。
+- 高下受官隨品從，九流藝術亦沾恩。
 
 ## 拼音
 
-- jin3 fan1 gao1 jie1 xiu4 lian2 kai1 ， tuo2 gu3 sheng1 bei1 feng4 guan3 ai1 。
-- yue4 zi0 xian1 xian1 yun2 li3 jian4 ， wu2 jiang1 bu2 jin4 mu4 chao2 lai2 。
+- yi4 ren2 bu4 sha1 xie4 qian2 kun1 ， wan4 li3 lai2 lai2 ye4 di4 hun1 。
+- gao1 xia4 shou4 guan1 sui2 pin3 cong2 ， jiu3 liu2 yi4 shu4 yi4 zhan1 en1 。
 
 ## 注释
 

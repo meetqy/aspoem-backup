@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zheng-yue-shi-ri-ye-da-lei-zhen-er-shou-qi-yi
-title: 正月十日夜大雷震二首・其一
-titlePinyin: zheng1 yue4 shi2 ri4 ye4 da4 lei2 zhen4 er4 shou3・qi2 yi1
+title: 正月十日夜大雷震二首  其一
+titlePinyin: zheng1 yue4 shi2 ri4 ye4 da4 lei2 zhen4 er4 shou3     qi2 yi1
 titleSlug: zheng-yue-shi-ri-ye-da-lei-zhen-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

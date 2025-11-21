@@ -6,10 +6,10 @@ titleSlug: chao-ran-guan-dan-qin-ye-hua
 author: 陳庚生
 authorPinyin: chen2 geng1 sheng1
 authorSlug: chen-geng-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

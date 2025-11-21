@@ -1,28 +1,26 @@
 ---
 id: shi-da-guan-ji-song-wu-shi-yi-shou-qi-yi
-title: 偈頌五十一首  其一
-titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 yi1
+title: 偈頌五十一首  其一○
+titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 yi1 ○
 titleSlug: ji-song-wu-shi-yi-shou-qi-yi
 author: 釋大觀
 authorPinyin: shi4 da4 guan1
 authorSlug: shi-da-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 真不立，妄本空。
-- 七凹八凸，四闢六通。
-- 松聲雜雨山長靜，春色带寒花自紅。
+- 一入咸陽盡舊游，春風臺榭對芳洲。
+- 非關好景留人醉，自是行人醉不休。
 
 ## 拼音
 
-- zhen1 bu2 li4 ， wang4 ben3 kong1 。
-- qi1 ao1 ba1 tu1 ， si4 pi4 liu4 tong1 。
-- song1 sheng1 za2 yu3 shan1 chang2 jing4 ， chun1 se4 dai4 han2 hua1 zi4 hong2 。
+- yi2 ru4 xian2 yang2 jin4 jiu4 you2 ， chun1 feng1 tai2 xie4 dui4 fang1 zhou1 。
+- fei1 guan1 hao3 jing3 liu2 ren2 zui4 ， zi4 shi4 xing2 ren2 zui4 bu4 xiu1 。
 
 ## 注释
 

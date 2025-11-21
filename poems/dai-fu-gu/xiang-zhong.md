@@ -6,25 +6,25 @@ titleSlug: xiang-zhong
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荆楚一都會，瀟湘八景圖。
-- 試呼沙鳥問，曾識古人無。
-- 痛哭賈太傅，行吟屈大夫。
-- 汀洲芳草歇，轉使客情孤。
+- 一棹無情度碧湘，行行不脫水雲鄉。
+- 旗亭少飲村醪薄，田舍新炊晚稻香。
+- 簫鼓遠來朝嶽去，包籠爭出趁虛忙。
+- 塗人有愧黄居士，十載看經不下堂。
 
 ## 拼音
 
-- jing1 chu3 yi4 dou1 hui4 ， xiao1 xiang1 ba1 jing3 tu2 。
-- shi4 hu1 sha1 niao3 wen4 ， ceng2 shi2 gu3 ren2 wu2 。
-- tong4 ku1 jia3 tai4 fu4 ， xing2 yin2 qu1 dai4 fu0 。
-- ting1 zhou1 fang1 cao3 xie1 ， zhuan3 shi3 ke4 qing2 gu1 。
+- yi2 zhao4 wu2 qing2 du4 bi4 xiang1 ， hang2 hang2 bu4 tuo1 shui3 yun2 xiang1 。
+- qi2 ting2 shao3 yin3 cun1 lao2 bao2 ， tian2 she4 xin1 chui1 wan3 dao4 xiang1 。
+- xiao1 gu3 yuan3 lai2 chao2 yue4 qu4 ， bao1 long2 zheng1 chu1 chen4 xu1 mang2 。
+- tu2 ren2 you3 kui4 huang2 ju1 shi4 ， shi2 zai4 kan4 jing1 bu2 xia4 tang2 。
 
 ## 注释
 

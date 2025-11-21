@@ -6,10 +6,10 @@ titleSlug: bing-yin-wu-yue-san-ri-pei-zhen-mi-zi-liu-xiao-li-you-gu-shan-yi-bie-
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

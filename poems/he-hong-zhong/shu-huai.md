@@ -6,9 +6,9 @@ titleSlug: shu-huai
 author: 何宏中
 authorPinyin: he2 hong2 zhong1
 authorSlug: he-hong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

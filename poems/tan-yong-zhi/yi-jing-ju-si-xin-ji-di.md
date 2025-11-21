@@ -1,6 +1,6 @@
 ---
 id: tan-yong-zhi-yi-jing-ju-si-xin-ji-di
-title: 貽浄居寺新及第
+title: 貽淨居寺新及第
 titlePinyin: yi2 jing4 ju1 si4 xin1 ji2 di4
 titleSlug: yi-jing-ju-si-xin-ji-di
 author: 譚用之
@@ -15,7 +15,7 @@ tags: []
 ## 正文
 
 - 秋池雲下白蓮香，池上吟仙寄竹房。
-- 閒頌國風文字古，靜消心火夢魂凉。
+- 閑頌國風文字古，靜消心火夢魂涼。
 - 三春蓬島花無限，八月銀河路更長。
 - 此境空門不曾有，從頭好語與醫王。
 

@@ -6,10 +6,10 @@ titleSlug: ning-zhen-gong
 author: 張無夢
 authorPinyin: zhang1 wu2 meng4
 authorSlug: zhang-wu-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,30 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 松篁臺殿蕙香幃，龍護瑤窗鳳掩扉。
-- 無質易迷三里霧，不寒長著五銖衣。
-- 人間定有崔羅什，天上應無劉武威。
-- 寄問釵頭雙白燕，每朝珠館幾時歸。
+- 杳藹逢仙跡，蒼茫滯客途。
+- 何年歸碧落，此路向皇都。
+- 消息期青雀，逢迎異紫姑。
+- 腸回楚國夢，心斷漢宮巫。
+- 從騎裁寒竹，行車蔭白榆。
+- 星娥一去後，月姊更來無。
+- 寡鵠迷蒼壑，羇凰怨翠梧。
+- 惟應碧桃下，方朔是狂夫。
 
 ## 拼音
 
-- song1 huang2 tai2 dian4 hui4 xiang1 wei2 ， long2 hu4 yao2 chuang1 feng4 yan3 fei1 。
-- wu2 zhi4 yi4 mi2 san1 li3 wu4 ， bu4 han2 chang2 zhu4 wu3 zhu1 yi1 。
-- ren2 jian4 ding4 you3 cui1 luo2 shen2 ， tian1 shang4 ying1 wu2 liu2 wu3 wei1 。
-- ji4 wen4 chai1 tou2 shuang1 bai2 yan4 ， mei3 chao2 zhu1 guan3 ji1 shi2 gui1 。
+- yao3 ai3 feng2 xian1 ji4 ， cang1 mang2 zhi4 ke4 tu2 。
+- he2 nian2 gui1 bi4 luo4 ， ci3 lu4 xiang4 huang2 dou1 。
+- xiao1 xi0 qi1 qing1 que4 ， feng2 ying2 yi4 zi3 gu1 。
+- chang2 hui2 chu3 guo2 meng4 ， xin1 duan4 han4 gong1 wu1 。
+- cong2 qi2 cai2 han2 zhu2 ， xing2 ju1 yin1 bai2 yu2 。
+- xing1 e2 yi2 qu4 hou4 ， yue4 zi3 geng4 lai2 wu2 。
+- gua3 hu2 mi2 cang1 he4 ， ji1 huang2 yuan4 cui4 wu2 。
+- wei2 ying1 bi4 tao2 xia4 ， fang1 shuo4 shi4 kuang2 fu1 。
 
 ## 注释
 

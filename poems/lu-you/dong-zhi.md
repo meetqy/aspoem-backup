@@ -6,25 +6,25 @@ titleSlug: dong-zhi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲月難禁節物催，天涯回首意悲哀。
-- 十年人向三巴老，一夜陽從九地來。
-- 上馬出門愁斂版，還家留客强傳杯。
-- 探春漫道江梅早，盤裏酥花又鬭開。
+- 老遇陽生海上村，川雲漠漠雨昏昏。
+- 鄰家祭徹初分胙，賀客泥深不到門。
+- 萬卷縱橫忘歲月，百年行止付乾坤。
+- 明朝晴霽猶堪出，南陌東阡共一樽。
 
 ## 拼音
 
-- sui4 yue4 nan2 jin4 jie2 wu4 cui1 ， tian1 ya2 hui2 shou3 yi4 bei1 ai1 。
-- shi2 nian2 ren2 xiang4 san1 ba1 lao3 ， yi2 ye4 yang2 cong2 jiu3 di4 lai2 。
-- shang4 ma3 chu1 men2 chou2 lian3 ban3 ， huan2 jia1 liu2 ke4 qiang2 chuan2 bei1 。
-- tan4 chun1 man4 dao4 jiang1 mei2 zao3 ， pan2 li3 su1 hua1 you4 dou4 kai1 。
+- lao3 yu4 yang2 sheng1 hai3 shang4 cun1 ， chuan1 yun2 mo4 mo4 yu3 hun1 hun1 。
+- lin2 jia1 ji4 che4 chu1 fen1 zuo4 ， he4 ke4 ni2 shen1 bu2 dao4 men2 。
+- wan4 juan4 zong4 heng2 wang4 sui4 yue4 ， bai3 nian2 xing2 zhi3 fu4 qian2 kun1 。
+- ming2 chao2 qing2 ji4 you2 kan1 chu1 ， nan2 mo4 dong1 qian1 gong4 yi4 zun1 。
 
 ## 注释
 

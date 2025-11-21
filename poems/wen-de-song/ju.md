@@ -6,9 +6,9 @@ titleSlug: ju
 author: 文德嵩
 authorPinyin: wen2 de2 song1
 authorSlug: wen-de-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

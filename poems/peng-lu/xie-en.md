@@ -6,10 +6,10 @@ titleSlug: xie-en
 author: 彭路
 authorPinyin: peng2 lu4
 authorSlug: peng-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

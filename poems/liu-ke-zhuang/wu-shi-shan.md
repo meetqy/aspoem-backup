@@ -6,25 +6,25 @@ titleSlug: wu-shi-shan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客子家山亦此峯，可堪投宿聽疎鐘。
-- 旋沽村酒開霜柿，欲訪禪扉隔暮松。
-- 鄉信寫成無便寄，寒衣著綻倩人縫。
-- 遠來只爲營瓜圃，不是貪渠萬戶封。
+- 兒時逃學頻來此，一一重尋盡有蹤。
+- 因漉戲魚羣下水，緣敲響石鬭登峯。
+- 熟知舊事惟鄰叟，催去韶華是暮鍾。
+- 畢竟世間何物壽，寺前雷仆百年松。
 
 ## 拼音
 
-- ke4 zi3 jia1 shan1 yi4 ci3 feng1 ， ke3 kan1 tou2 su4 ting1 shu1 zhong1 。
-- xuan2 gu1 cun1 jiu3 kai1 shuang1 shi4 ， yu4 fang3 shan4 fei1 ge2 mu4 song1 。
-- xiang1 xin4 xie3 cheng2 wu2 bian4 ji4 ， han2 yi1 zhu4 zhan4 qian4 ren2 feng2 。
-- yuan3 lai2 zhi1 wei2 ying2 gua1 pu3 ， bu2 shi4 tan1 qu2 wan4 hu4 feng1 。
+- er2 shi2 tao2 xue2 bin1 lai2 ci3 ， yi1 yi1 zhong4 xun2 jin4 you3 zong1 。
+- yin1 lu4 xi4 yu2 qun2 xia4 shui3 ， yuan2 qiao1 xiang3 shi2 dou4 deng1 feng1 。
+- shu2 zhi1 jiu4 shi4 wei2 lin2 sou3 ， cui1 qu4 shao2 hua2 shi4 mu4 zhong1 。
+- bi4 jing4 shi4 jian4 he2 wu4 shou4 ， si4 qian2 lei2 pu2 bai3 nian2 song1 。
 
 ## 注释
 

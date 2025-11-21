@@ -1,30 +1,30 @@
 ---
 id: zhang-ji-xian-jin-dan-shi-si-shi-ba-shou-qi-san
-title: 金丹詩四十八首  其三
-titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 san1
+title: 金丹詩四十八首  其三○
+titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 san1 ○
 titleSlug: jin-dan-shi-si-shi-ba-shou-qi-san
 author: 張繼先
 authorPinyin: zhang1 ji4 xian1
 authorSlug: zhang-ji-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 流俗紛紛不悟真，不知求己却求人。
-- 只貪世上無窮色，忘却人間有限身。
-- 鼎內藥成堪益壽，水中金盡化輕塵。
-- 北邙山下纍纍土，總是人間不了民。
+- 幸得修真趣理深，勤勤烹鍊水中金。
+- 若知紫府蓮堪種，始信崑崙路可尋。
+- 日月合來光上下，白青交後彩浮沉。
+- 自從得此真消息，榮辱人間總不侵。
 
 ## 拼音
 
-- liu2 su2 fen1 fen1 bu2 wu4 zhen1 ， bu4 zhi1 qiu2 ji3 que4 qiu2 ren2 。
-- zhi1 tan1 shi4 shang4 wu2 qiong2 se4 ， wang4 que4 ren2 jian4 you3 xian4 shen1 。
-- ding3 nei4 yao4 cheng2 kan1 yi4 shou4 ， shui3 zhong1 jin1 jin4 hua4 qing1 chen2 。
-- bei3 mang1 shan1 xia4 lei2 lei2 tu3 ， zong3 shi4 ren2 jian4 bu4 liao3 min2 。
+- xing4 de2 xiu1 zhen1 qu4 li3 shen1 ， qin2 qin2 peng1 lian4 shui3 zhong1 jin1 。
+- ruo4 zhi1 zi3 fu3 lian2 kan1 zhong3 ， shi3 xin4 kun1 lun2 lu4 ke3 xun2 。
+- ri4 yue4 he2 lai2 guang1 shang4 xia4 ， bai2 qing1 jiao1 hou4 cai3 fu2 chen2 。
+- zi4 cong2 de2 ci3 zhen1 xiao1 xi0 ， rong2 ru3 ren2 jian4 zong3 bu4 qin1 。
 
 ## 注释
 

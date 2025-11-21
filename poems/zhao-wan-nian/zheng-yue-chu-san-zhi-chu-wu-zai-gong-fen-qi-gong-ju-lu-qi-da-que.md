@@ -6,10 +6,10 @@ titleSlug: zheng-yue-chu-san-zhi-chu-wu-zai-gong-fen-qi-gong-ju-lu-qi-da-que
 author: 趙萬年
 authorPinyin: zhao4 wan4 nian2
 authorSlug: zhao-wan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

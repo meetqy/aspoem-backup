@@ -6,10 +6,10 @@ titleSlug: yi-yang-xian-gu-ge-bei-ye-xian-you-gu-cha-lin-da-xi-xiang-chuan-yun-f
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

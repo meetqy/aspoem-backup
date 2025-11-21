@@ -6,25 +6,21 @@ titleSlug: ke-li
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客裏多風雨，征衣不厭重。
-- 輕車須穩駕，狹路易相逢。
-- 灘淺水聲激，山深雲氣濃。
-- 迎人野花笑，絕色若爲容。
+- 客裏吟詩幾歲寒，歸來依舊客衣單。
+- 一冬不見孤山面，只買梅花带雪看。
 
 ## 拼音
 
-- ke4 li3 duo1 feng1 yu3 ， zheng1 yi1 bu2 yan4 zhong4 。
-- qing1 ju1 xu1 wen3 jia4 ， xia2 lu4 yi4 xiang1 feng2 。
-- tan1 qian3 shui3 sheng1 ji1 ， shan1 shen1 yun2 qi4 nong2 。
-- ying2 ren2 ye3 hua1 xiao4 ， jue2 se4 ruo4 wei2 rong2 。
+- ke4 li3 yin2 shi1 ji1 sui4 han2 ， gui1 lai2 yi1 jiu4 ke4 yi1 dan1 。
+- yi4 dong1 bu2 jian4 gu1 shan1 mian4 ， zhi1 mai3 mei2 hua1 dai4 xue3 kan4 。
 
 ## 注释
 

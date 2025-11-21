@@ -6,10 +6,10 @@ titleSlug: zhu-su-shan-fang-xiao-yin-nan-xu-tang-zheng-fang-shan-ge-wu-ling-yi-c
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

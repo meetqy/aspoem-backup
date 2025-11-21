@@ -6,25 +6,25 @@ titleSlug: xi-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄塵赤日欲忘生，一夜新涼滿錦城。
-- 雨急驟增車轍水，泥深漸壯馬蹄聲。
-- 蚊蠅斂迹知無地，燈火於人頓有情。
-- 市遠鷄豚不須問，小畦蔬甲已堪烹。
+- 雨氣侵人暮不休，雨聲逼枕冷颼颼。
+- 方欣草木有生意，已報溝池無涸流。
+- 避溼入簷憐病鶴，爭巢逐婦嘆鳴鳩。
+- 老農自喜知時節，夜半呼兒起飯牛。
 
 ## 拼音
 
-- huang2 chen2 chi4 ri4 yu4 wang4 sheng1 ， yi2 ye4 xin1 liang2 man3 jin3 cheng2 。
-- yu3 ji2 zhou4 zeng1 ju1 zhe2 shui3 ， ni2 shen1 jian4 zhuang4 ma3 ti2 sheng1 。
-- wen2 ying2 lian3 ji4 zhi1 wu2 di4 ， deng1 huo3 wu1 ren2 dun4 you3 qing2 。
-- shi4 yuan3 ji1 tun2 bu4 xu1 wen4 ， xiao3 qi2 shu1 jia3 yi3 kan1 peng1 。
+- yu3 qi4 qin1 ren2 mu4 bu4 xiu1 ， yu3 sheng1 bi1 zhen3 leng3 sou1 sou1 。
+- fang1 xin1 cao3 mu4 you3 sheng1 yi4 ， yi3 bao4 gou1 chi2 wu2 he2 liu2 。
+- bi4 shi1 ru4 yan2 lian2 bing4 he4 ， zheng1 chao2 zhu2 fu4 tan4 ming2 jiu1 。
+- lao3 nong2 zi4 xi3 zhi1 shi2 jie2 ， ye4 ban4 hu1 er2 qi3 fan4 niu2 。
 
 ## 注释
 

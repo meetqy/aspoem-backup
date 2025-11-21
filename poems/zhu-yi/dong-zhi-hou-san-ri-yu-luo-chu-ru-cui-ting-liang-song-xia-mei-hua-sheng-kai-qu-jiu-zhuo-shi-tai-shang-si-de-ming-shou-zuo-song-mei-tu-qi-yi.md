@@ -6,9 +6,9 @@ titleSlug: dong-zhi-hou-san-ri-yu-luo-chu-ru-cui-ting-liang-song-xia-mei-hua-she
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

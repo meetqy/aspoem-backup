@@ -6,10 +6,10 @@ titleSlug: you-bi-luo-dong-tong-li-shen-zhu-gong
 author: 馮慜
 authorPinyin: feng2 min3
 authorSlug: feng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

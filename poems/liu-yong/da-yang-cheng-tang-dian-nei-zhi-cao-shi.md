@@ -6,10 +6,10 @@ titleSlug: da-yang-cheng-tang-dian-nei-zhi-cao-shi
 author: 劉泳
 authorPinyin: liu2 yong3
 authorSlug: liu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

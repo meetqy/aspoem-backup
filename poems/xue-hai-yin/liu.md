@@ -6,10 +6,10 @@ titleSlug: liu
 author: 薛海隠
 authorPinyin: xue1 hai3 yin3
 authorSlug: xue-hai-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

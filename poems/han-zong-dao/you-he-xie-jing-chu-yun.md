@@ -6,10 +6,10 @@ titleSlug: you-he-xie-jing-chu-yun
 author: 韓宗道
 authorPinyin: han2 zong1 dao4
 authorSlug: han-zong-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

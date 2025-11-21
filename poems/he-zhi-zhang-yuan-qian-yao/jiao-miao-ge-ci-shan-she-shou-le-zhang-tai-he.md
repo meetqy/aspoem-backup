@@ -9,22 +9,22 @@ authorSlug: he-zhi-zhang-yuan-qian-yao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 肅我成命，於昭黃祇。
-- 裘冕而祀，陟降在斯。
-- 五音克備，八音聿施。
-- 緝熙肆靖，厥心匪離。
+- 昭昭有唐，天俾萬國。
+- 列祖應命，四宗順則。
+- 申錫無疆，宗我同德。
+- 曾孫繼序，享神配極。
 
 ## 拼音
 
-- su4 wo3 cheng2 ming4 ， wu1 zhao1 huang2 qi2 。
-- qiu2 mian3 er2 si4 ， zhi4 jiang4 zai4 si1 。
-- wu3 yin1 ke4 bei4 ， ba1 yin1 yu4 shi1 。
-- ji2 xi1 si4 jing4 ， jue2 xin1 fei3 li2 。
+- zhao1 zhao1 you3 tang2 ， tian1 bi3 wan4 guo2 。
+- lie4 zu3 ying1 ming4 ， si4 zong1 shun4 ze2 。
+- shen1 xi1 wu2 jiang1 ， zong1 wo3 tong2 de2 。
+- ceng2 sun1 ji4 xu4 ， xiang3 shen2 pei4 ji2 。
 
 ## 注释
 

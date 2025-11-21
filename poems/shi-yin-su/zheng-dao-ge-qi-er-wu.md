@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-er-wu
-title: 證道歌  其二五
-titlePinyin: zheng4 dao4 ge1     qi2 er4 wu3
+title: 證道歌  其二五○
+titlePinyin: zheng4 dao4 ge1     qi2 er4 wu3 ○
 titleSlug: zheng-dao-ge-qi-er-wu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 喚取機關木人問，觸目菩提誰辨論。
-- 亡僧可喻木人機，玄沙直指何勞頓。
+- 一句了然超百億，如如不動纖毫力。
+- 普眼當觀如□□，春晴曉霧連天碧。
 
 ## 拼音
 
-- huan4 qu3 ji1 guan1 mu4 ren2 wen4 ， chu4 mu4 pu2 ti2 shui2 bian4 lun4 。
-- wang2 seng1 ke3 yu4 mu4 ren2 ji1 ， xuan2 sha1 zhi2 zhi3 he2 lao2 dun4 。
+- yi2 ju4 liao3 ran2 chao1 bai3 yi4 ， ru2 ru2 bu2 dong4 xian1 hao2 li4 。
+- pu3 yan3 dang1 guan1 ru2 □□， chun1 qing2 xiao3 wu4 lian2 tian1 bi4 。
 
 ## 注释
 

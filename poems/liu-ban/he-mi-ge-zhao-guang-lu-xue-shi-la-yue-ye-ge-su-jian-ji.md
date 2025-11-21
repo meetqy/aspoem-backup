@@ -6,10 +6,10 @@ titleSlug: he-mi-ge-zhao-guang-lu-xue-shi-la-yue-ye-ge-su-jian-ji
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

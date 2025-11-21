@@ -6,10 +6,10 @@ titleSlug: yu-yu-zi-yan-mai-chuan-xia-qi-li-tan-ye-yan-guang-ci-er-gui-hui-tan-q
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

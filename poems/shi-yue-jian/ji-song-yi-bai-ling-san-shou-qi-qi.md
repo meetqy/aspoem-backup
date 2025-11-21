@@ -1,28 +1,26 @@
 ---
 id: shi-yue-jian-ji-song-yi-bai-ling-san-shou-qi-qi
-title: 偈頌一百零三首  其七
-titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 qi1
+title: 偈頌一百零三首  其七○
+titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-ling-san-shou-qi-qi
 author: 釋月磵
 authorPinyin: shi4 yue4 jian4
 authorSlug: shi-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 八十種好，三十二相。
-- 醜惡容止，餵狗不噇。
-- 正好燒香供養。
+- 正覺山中夜氣清，瞿曇特地不惺惺。
+- 却將曠劫無明種，認作浮雲缺處星。
 
 ## 拼音
 
-- ba1 shi2 zhong3 hao3 ， san1 shi2 er4 xiang1 。
-- chou3 e4 rong2 zhi3 ， wei4 gou3 bu4 chuang2 。
-- zheng4 hao3 shao1 xiang1 gong4 yang3 。
+- zheng4 jue2 shan1 zhong1 ye4 qi4 qing1 ， qu2 tan2 te4 di4 bu4 xing1 xing1 。
+- que4 jiang1 kuang4 jie2 wu2 ming2 zhong3 ， ren4 zuo4 fu2 yun2 que1 chu3 xing1 。
 
 ## 注释
 

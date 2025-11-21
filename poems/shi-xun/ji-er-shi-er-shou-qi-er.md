@@ -1,26 +1,26 @@
 ---
 id: shi-xun-ji-er-shi-er-shou-qi-er
-title: 偈二十二首  其二
-titlePinyin: ji4 er4 shi2 er4 shou3     qi2 er4
+title: 偈二十二首  其二○
+titlePinyin: ji4 er4 shi2 er4 shou3     qi2 er4 ○
 titleSlug: ji-er-shi-er-shou-qi-er
 author: 釋洵
 authorPinyin: shi4 xun2
 authorSlug: shi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朔風掃地卷黄葉，門外千峰凜寒色。
-- 夜半烏龜带雪飛，石女溪頭皺用眉。
+- 髑髏捻碎眼睛寒，便把南辰對北看。
+- 無限風流慵賣弄，乘時推倒鐵圍山。
 
 ## 拼音
 
-- shuo4 feng1 sao3 di4 juan4 huang2 ye4 ， men2 wai4 qian1 feng1 lin3 han2 se4 。
-- ye4 ban4 wu1 gui1 dai4 xue3 fei1 ， shi2 nü3 xi1 tou2 zhou4 yong4 mei2 。
+- du2 lou2 nian3 sui4 yan3 jing1 han2 ， bian4 ba3 nan2 chen2 dui4 bei3 kan4 。
+- wu2 xian4 feng1 liu2 yong1 mai4 nong4 ， cheng2 shi2 tui1 dao3 tie3 wei2 shan1 。
 
 ## 注释
 

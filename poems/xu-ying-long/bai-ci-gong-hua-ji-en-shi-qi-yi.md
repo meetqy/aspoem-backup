@@ -6,10 +6,10 @@ titleSlug: bai-ci-gong-hua-ji-en-shi-qi-yi
 author: 許應龍
 authorPinyin: xu1 ying1 long2
 authorSlug: xu-ying-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: mei-jiang-wan-fan-er-shou-qi-yi
 author: 蔡蒙吉
 authorPinyin: cai4 meng2 ji2
 authorSlug: cai-meng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-huang-shan-song-bie-tu
 author: 焦煥炎
 authorPinyin: jiao1 huan4 yan2
 authorSlug: jiao-huan-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

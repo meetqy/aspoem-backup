@@ -6,10 +6,10 @@ titleSlug: ji-tian-tai-wang-lian-shi-jian-cheng-yi-zai
 author: 張日損
 authorPinyin: zhang1 ri4 sun3
 authorSlug: zhang-ri-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

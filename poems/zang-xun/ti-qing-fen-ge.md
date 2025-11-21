@@ -6,10 +6,10 @@ titleSlug: ti-qing-fen-ge
 author: 臧詢
 authorPinyin: zang1 xun2
 authorSlug: zang-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

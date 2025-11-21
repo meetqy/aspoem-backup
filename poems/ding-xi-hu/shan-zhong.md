@@ -6,10 +6,10 @@ titleSlug: shan-zhong
 author: 丁西湖
 authorPinyin: ding1 xi1 hu2
 authorSlug: ding-xi-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

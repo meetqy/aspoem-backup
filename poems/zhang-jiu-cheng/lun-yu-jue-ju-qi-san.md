@@ -1,26 +1,26 @@
 ---
 id: zhang-jiu-cheng-lun-yu-jue-ju-qi-san
-title: 論語絕句  其三
-titlePinyin: lun4 yu3 jue2 ju4     qi2 san1
+title: 論語絕句  其三○
+titlePinyin: lun4 yu3 jue2 ju4     qi2 san1 ○
 titleSlug: lun-yu-jue-ju-qi-san
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 雖然此影不離形，莫向形中便認真。
-- 形影兩亡都不見，當於此處認斯人。
+- 試看迷途一瞽蒙，若還無相豈能通。
+- 力行未到安身處，不免依他入箇中。
 
 ## 拼音
 
-- sui1 ran2 ci3 ying3 bu4 li2 xing2 ， mo4 xiang4 xing2 zhong1 bian4 ren4 zhen1 。
-- xing2 ying3 liang3 wang2 dou1 bu2 jian4 ， dang1 wu1 ci3 chu3 ren4 si1 ren2 。
+- shi4 kan4 mi2 tu2 yi4 gu3 meng2 ， ruo4 huan2 wu2 xiang1 qi3 neng2 tong1 。
+- li4 xing2 wei4 dao4 an1 shen1 chu3 ， bu4 mian3 yi1 ta1 ru4 ge4 zhong1 。
 
 ## 注释
 

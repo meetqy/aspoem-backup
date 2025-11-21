@@ -6,10 +6,10 @@ titleSlug: zi-jin-ling-de-jun-xi-gui-xiao-fa-mei-gen-shi-zhou-zhong-wang-jiu-hua
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

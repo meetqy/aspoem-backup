@@ -6,21 +6,21 @@ titleSlug: he-jing-mu
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 木落孤山墓草荒，梅花千古带詩香。
-- 吟魂仙去誰招得，獨鶴一聲幽恨長。
+- 西湖卜隠爲詩忙，吟到梅花字字香。
+- 鶴不歸來山寂寂，梅邊閑詠月黄昏。
 
 ## 拼音
 
-- mu4 luo4 gu1 shan1 mu4 cao3 huang1 ， mei2 hua1 qian1 gu3 dai4 shi1 xiang1 。
-- yin2 hun2 xian1 qu4 shui2 zhao1 de2 ， du2 he4 yi4 sheng1 you1 hen4 chang2 。
+- xi1 hu2 bu3 yin3 wei2 shi1 mang2 ， yin2 dao4 mei2 hua1 zi4 zi4 xiang1 。
+- he4 bu4 gui1 lai2 shan1 ji4 ji4 ， mei2 bian1 xian2 yong3 yue4 huang2 hun1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jia-chen-zhong-qiu-wu-yue-shi-qi-ye-du-jiao-ran-da-dan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

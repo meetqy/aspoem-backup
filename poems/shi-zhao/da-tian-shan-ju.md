@@ -6,10 +6,10 @@ titleSlug: da-tian-shan-ju
 author: 史詔
 authorPinyin: shi3 zhao4
 authorSlug: shi-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

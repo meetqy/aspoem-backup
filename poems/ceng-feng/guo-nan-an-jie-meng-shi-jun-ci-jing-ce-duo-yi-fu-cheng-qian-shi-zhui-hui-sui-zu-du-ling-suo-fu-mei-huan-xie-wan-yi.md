@@ -6,10 +6,10 @@ titleSlug: guo-nan-an-jie-meng-shi-jun-ci-jing-ce-duo-yi-fu-cheng-qian-shi-zhui-
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

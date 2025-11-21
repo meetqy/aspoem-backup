@@ -6,10 +6,10 @@ titleSlug: wan-wang-xin-bo-xian-sheng-qi-yi
 author: 楊邦弼
 authorPinyin: yang2 bang1 bi4
 authorSlug: yang-bang-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

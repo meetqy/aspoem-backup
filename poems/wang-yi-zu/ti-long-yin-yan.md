@@ -6,10 +6,10 @@ titleSlug: ti-long-yin-yan
 author: 王迤祖
 authorPinyin: wang2 yi3 zu3
 authorSlug: wang-yi-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

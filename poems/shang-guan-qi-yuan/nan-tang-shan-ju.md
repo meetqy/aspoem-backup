@@ -6,10 +6,10 @@ titleSlug: nan-tang-shan-ju
 author: 上官琪園
 authorPinyin: shang4 guan1 qi2 yuan2
 authorSlug: shang-guan-qi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

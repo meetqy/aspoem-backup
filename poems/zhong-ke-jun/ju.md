@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鍾克俊
 authorPinyin: zhong1 ke4 jun4
 authorSlug: zhong-ke-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

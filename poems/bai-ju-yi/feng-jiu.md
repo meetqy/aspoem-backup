@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我梳白髮添新恨，君埽青蛾減舊容。
-- 應被傍人怪惆悵，少年離別老相逢。
+- 久別偶相逢，俱疑是夢中。
+- 即今歡樂事，放醆又成空。
 
 ## 拼音
 
-- wo3 shu1 bai2 fa4 tian1 xin1 hen4 ， jun1 sao4 qing1 e2 jian3 jiu4 rong2 。
-- ying1 bei4 bang4 ren2 guai4 chou2 chang4 ， shao4 nian2 li2 bie2 lao3 xiang1 feng2 。
+- jiu3 bie2 ou3 xiang1 feng2 ， ju4 yi2 shi4 meng4 zhong1 。
+- ji2 jin1 huan1 le4 shi4 ， fang4 zhan3 you4 cheng2 kong1 。
 
 ## 注释
 

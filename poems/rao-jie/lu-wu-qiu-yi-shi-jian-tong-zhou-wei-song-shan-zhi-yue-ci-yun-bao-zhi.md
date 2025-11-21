@@ -6,10 +6,10 @@ titleSlug: lu-wu-qiu-yi-shi-jian-tong-zhou-wei-song-shan-zhi-yue-ci-yun-bao-zhi
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

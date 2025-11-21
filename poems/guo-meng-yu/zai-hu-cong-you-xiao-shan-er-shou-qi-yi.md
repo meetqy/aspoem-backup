@@ -6,10 +6,10 @@ titleSlug: zai-hu-cong-you-xiao-shan-er-shou-qi-yi
 author: 過孟玉
 authorPinyin: guo4 meng4 yu4
 authorSlug: guo-meng-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

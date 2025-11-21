@@ -9,18 +9,18 @@ authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 老身不計人間事，野寺秋晴每獨過。
-- 病眼校來猶斷酒，却嫌行處菊花多。
+- 終日不離塵土間，若爲能見此身閑。
+- 今朝暫共遊僧語，更恨趨時別舊山。
 
 ## 拼音
 
-- lao3 shen1 bu2 ji4 ren2 jian4 shi4 ， ye3 si4 qiu1 qing2 mei3 du2 guo4 。
-- bing4 yan3 xiao4 lai2 you2 duan4 jiu3 ， que4 xian2 xing2 chu3 ju2 hua1 duo1 。
+- zhong1 ri4 bu4 li2 chen2 tu3 jian4 ， ruo4 wei2 neng2 jian4 ci3 shen1 xian2 。
+- jin1 zhao1 zan4 gong4 you2 seng1 yu3 ， geng4 hen4 qu1 shi2 bie2 jiu4 shan1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhang-cong-zhi-xu-yu-you-zhe-yong-qi-qi-xi-suo-fu-yun-yi-jian-zhi
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

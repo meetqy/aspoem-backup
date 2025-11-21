@@ -6,10 +6,10 @@ titleSlug: ti-han-zuo-jun-ma-tu
 author: 吳覿
 authorPinyin: wu2 di2
 authorSlug: wu-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

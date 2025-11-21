@@ -1,30 +1,30 @@
 ---
 id: liu-zai-song-fu-shou-gui-qi-yi
-title: 送傅守歸  其一
-titlePinyin: song4 fu4 shou3 gui1     qi2 yi1
+title: 送傅守歸  其一○
+titlePinyin: song4 fu4 shou3 gui1     qi2 yi1 ○
 titleSlug: song-fu-shou-gui-qi-yi
 author: 劉宰
 authorPinyin: liu2 zai3
 authorSlug: liu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 煩暑斂清曉，西風生遠林。
-- 客懷感素秋，歸夢越千岑。
-- 祖帳城南門，藹藹萃華簪。
-- 舉觴忽有贈，去矣無遐心。
+- 北渚有狂士，病卧忘四時。
+- 綠暗知春晚，葉落識秋期。
+- 西風日已高，凝露方自滋。
+- 獨有歲寒心，不負流水知。
 
 ## 拼音
 
-- fan2 shu3 lian3 qing1 xiao3 ， xi1 feng1 sheng1 yuan3 lin2 。
-- ke4 huai2 gan3 su4 qiu1 ， gui1 meng4 yue4 qian1 cen2 。
-- zu3 zhang4 cheng2 nan2 men2 ， ai3 ai3 cui4 hua2 zan1 。
-- ju3 shang1 hu1 you3 zeng4 ， qu4 yi3 wu2 xia2 xin1 。
+- bei3 zhu3 you3 kuang2 shi4 ， bing4 wo4 wang4 si4 shi2 。
+- lü4 an4 zhi1 chun1 wan3 ， ye4 luo4 shi2 qiu1 qi1 。
+- xi1 feng1 ri4 yi3 gao1 ， ning2 lu4 fang1 zi4 zi1 。
+- du2 you3 sui4 han2 xin1 ， bu2 fu4 liu2 shui3 zhi1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心與巖泉靜，形如野鶴臞。
-- 朝餐美藜藿，夜學講唐虞。
-- 婢老無釵澤，僮寒闕袴襦。
-- 所欣惟一事，無吏督殘租。
+- 禿尾驢嘶小市門，側篷帆過古城村。
+- 此生感慨知何限，斗酒新豐不足論。
 
 ## 拼音
 
-- xin1 yu3 yan2 quan2 jing4 ， xing2 ru2 ye3 he4 qu2 。
-- chao2 can1 mei3 li2 huo4 ， ye4 xue2 jiang3 tang2 yu2 。
-- bi4 lao3 wu2 chai1 ze2 ， tong2 han2 que4 ku4 ru2 。
-- suo3 xin1 wei2 yi1 shi4 ， wu2 li4 du1 can2 zu1 。
+- tu1 wei3 lü2 si1 xiao3 shi4 men2 ， ce4 peng2 fan1 guo4 gu3 cheng2 cun1 。
+- ci3 sheng1 gan3 kai3 zhi1 he2 xian4 ， dou4 jiu3 xin1 feng1 bu4 zu2 lun4 。
 
 ## 注释
 

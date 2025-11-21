@@ -6,9 +6,9 @@ titleSlug: yong-xing-duan-ming-wang-zuo-cheng-ji-shi-jian-xun-chang-ju-yin-wei-h
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

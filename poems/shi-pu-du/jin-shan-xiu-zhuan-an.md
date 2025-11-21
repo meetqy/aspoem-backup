@@ -6,10 +6,10 @@ titleSlug: jin-shan-xiu-zhuan-an
 author: 釋普度
 authorPinyin: shi4 pu3 du4
 authorSlug: shi-pu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

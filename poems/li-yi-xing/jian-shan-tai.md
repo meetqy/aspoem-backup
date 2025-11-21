@@ -6,10 +6,10 @@ titleSlug: jian-shan-tai
 author: 李夷行
 authorPinyin: li3 yi2 xing2
 authorSlug: li-yi-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

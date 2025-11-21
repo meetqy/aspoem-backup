@@ -6,10 +6,10 @@ titleSlug: ju
 author: 范彥輝
 authorPinyin: fan4 yan4 hui1
 authorSlug: fan-yan-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

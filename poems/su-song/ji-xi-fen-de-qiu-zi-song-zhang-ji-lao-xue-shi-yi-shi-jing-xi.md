@@ -6,10 +6,10 @@ titleSlug: ji-xi-fen-de-qiu-zi-song-zhang-ji-lao-xue-shi-yi-shi-jing-xi
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

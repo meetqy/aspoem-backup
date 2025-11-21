@@ -6,25 +6,21 @@ titleSlug: ye-zuo
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冷夜灰堆坐，尋詩細撥燈。
-- 心懷爲宛轉，語句得憑凌。
-- 歲晚愁多飲，冬來煖未冰。
-- 俄聽荒犬吠，村靜遠相仍。
+- 連窗風撼山，引酒燈照坐。
+- 逍遥入莊吟，憔悴失楚些。
 
 ## 拼音
 
-- leng3 ye4 hui1 dui1 zuo4 ， xun2 shi1 xi4 bo1 deng1 。
-- xin1 huai2 wei2 wan3 zhuan3 ， yu3 ju4 de2 ping2 ling2 。
-- sui4 wan3 chou2 duo1 yin3 ， dong1 lai2 xuan1 wei4 bing1 。
-- e2 ting1 huang1 quan3 fei4 ， cun1 jing4 yuan3 xiang1 reng2 。
+- lian2 chuang1 feng1 han4 shan1 ， yin3 jiu3 deng1 zhao4 zuo4 。
+- xiao1 yao2 ru4 zhuang1 yin2 ， qiao2 cui4 shi1 chu3 xie1 。
 
 ## 注释
 

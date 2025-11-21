@@ -6,10 +6,10 @@ titleSlug: guo-du-gong-bu-ci
 author: 鄒定
 authorPinyin: zou1 ding4
 authorSlug: zou-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-qi
-title: 句  其七
-titlePinyin: ju4     qi2 qi1
+title: 句  其七○
+titlePinyin: ju4     qi2 qi1 ○
 titleSlug: ju-qi-qi
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 隆寒正北風，飄飄任此身。
+- 誰復知予懶是真。
 
 ## 拼音
 
-- long2 han2 zheng4 bei3 feng1 ， piao1 piao1 ren4 ci3 shen1 。
+- shui2 fu4 zhi1 yu3 lan3 shi4 zhen1 。
 
 ## 注释
 

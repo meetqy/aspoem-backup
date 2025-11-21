@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 趙希棼
 authorPinyin: zhao4 xi1 fen2
 authorSlug: zhao-xi-fen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

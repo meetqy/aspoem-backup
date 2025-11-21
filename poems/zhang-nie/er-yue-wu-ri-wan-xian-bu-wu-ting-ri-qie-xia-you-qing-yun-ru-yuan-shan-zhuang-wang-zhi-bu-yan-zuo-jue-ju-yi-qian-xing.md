@@ -6,9 +6,9 @@ titleSlug: er-yue-wu-ri-wan-xian-bu-wu-ting-ri-qie-xia-you-qing-yun-ru-yuan-shan
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

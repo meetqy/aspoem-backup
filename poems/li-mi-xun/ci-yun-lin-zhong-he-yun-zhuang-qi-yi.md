@@ -1,26 +1,26 @@
 ---
 id: li-mi-xun-ci-yun-lin-zhong-he-yun-zhuang-qi-yi
-title: 次韻林仲和筠莊  其一
-titlePinyin: ci4 yun4 lin2 zhong4 he2 yun2 zhuang1     qi2 yi1
+title: 次韻林仲和筠莊  其一○
+titlePinyin: ci4 yun4 lin2 zhong4 he2 yun2 zhuang1     qi2 yi1 ○
 titleSlug: ci-yun-lin-zhong-he-yun-zhuang-qi-yi
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 交情金石半途分，霜後孤芳獨見君。
-- 盡倒濃漓澆磊磈，胸中着我半山雲。
+- 平攀天面一彎月，下視山腹三重茅。
+- 更欲移居入霄漢，卻憎棲鳥占林梢。
 
 ## 拼音
 
-- jiao1 qing0 jin1 shi2 ban4 tu2 fen1 ， shuang1 hou4 gu1 fang1 du2 jian4 jun1 。
-- jin4 dao3 nong2 li2 jiao1 lei3 wei3 ， xiong1 zhong1 zhe0 wo3 ban4 shan1 yun2 。
+- ping2 pan1 tian1 mian4 yi4 wan1 yue4 ， xia4 shi4 shan1 fu4 san1 chong2 mao2 。
+- geng4 yu4 yi2 ju1 ru4 xiao1 han4 ， que4 zeng1 qi1 niao3 zhan4 lin2 shao1 。
 
 ## 注释
 

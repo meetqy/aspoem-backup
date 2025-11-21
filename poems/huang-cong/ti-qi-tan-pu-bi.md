@@ -6,10 +6,10 @@ titleSlug: ti-qi-tan-pu-bi
 author: 黄琮
 authorPinyin: huang2 cong2
 authorSlug: huang-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

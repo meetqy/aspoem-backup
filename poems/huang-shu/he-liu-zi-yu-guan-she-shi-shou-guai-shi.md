@@ -6,21 +6,21 @@ titleSlug: he-liu-zi-yu-guan-she-shi-shou-guai-shi
 author: 黄庶
 authorPinyin: huang2 shu4
 authorSlug: huang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山阿有人著薜荔，廷下縛虎眠莓苔。
-- 手磨心語知許事，曾見漢唐池館來。
+- 山嵬水怪着薜荔，天禄辟邪眠莓苔。
+- 鈎簾坐對心語口，曾見漢唐池館來。
 
 ## 拼音
 
-- shan1 a1 you3 ren2 zhu4 bi4 li4 ， ting2 xia4 fu4 hu3 mian2 mei2 tai2 。
-- shou3 mo2 xin1 yu3 zhi1 xu1 shi4 ， ceng2 jian4 han4 tang2 chi2 guan3 lai2 。
+- shan1 wei2 shui3 guai4 zhe0 bi4 li4 ， tian1 lu4 bi4 xie2 mian2 mei2 tai2 。
+- gou1 lian2 zuo4 dui4 xin1 yu3 kou3 ， ceng2 jian4 han4 tang2 chi2 guan3 lai2 。
 
 ## 注释
 

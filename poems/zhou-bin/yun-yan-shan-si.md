@@ -6,10 +6,10 @@ titleSlug: yun-yan-shan-si
 author: 周邠
 authorPinyin: zhou1 bin1
 authorSlug: zhou-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

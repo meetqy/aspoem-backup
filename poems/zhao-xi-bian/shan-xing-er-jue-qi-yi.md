@@ -6,10 +6,10 @@ titleSlug: shan-xing-er-jue-qi-yi
 author: 趙希玣
 authorPinyin: zhao4 xi1 bian4
 authorSlug: zhao-xi-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

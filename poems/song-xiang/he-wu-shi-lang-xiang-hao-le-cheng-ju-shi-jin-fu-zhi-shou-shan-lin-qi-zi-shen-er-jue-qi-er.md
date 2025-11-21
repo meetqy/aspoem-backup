@@ -6,9 +6,9 @@ titleSlug: he-wu-shi-lang-xiang-hao-le-cheng-ju-shi-jin-fu-zhi-shou-shan-lin-qi-
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

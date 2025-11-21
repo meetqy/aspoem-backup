@@ -6,10 +6,10 @@ titleSlug: ci-yuan-shang-shu-wu-shan-shi-er-feng-er-shi-wu-yun
 author: 李嘉謀
 authorPinyin: li3 jia1 mou2
 authorSlug: li-jia-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

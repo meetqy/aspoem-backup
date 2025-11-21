@@ -6,10 +6,10 @@ titleSlug: liu-ci
 author: 郭磊卿
 authorPinyin: guo1 lei3 qing1
 authorSlug: guo-lei-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

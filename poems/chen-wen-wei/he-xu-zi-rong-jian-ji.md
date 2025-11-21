@@ -6,25 +6,25 @@ titleSlug: he-xu-zi-rong-jian-ji
 author: 陳文蔚
 authorPinyin: chen2 wen2 wei4
 authorSlug: chen-wen-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 學問分明有本根，一編魯論幸今存。
-- 奈何至理難窮究，願與良朋細討論。
-- 欲探聖傳千古祕，莫令心鑑一毫昏。
-- 吾儕總在生成內，要識無私造化恩。
+- 清時何故有遺材，酒膽如虹亦壯哉。
+- 多謝論交比金石，自慚進德未涓埃。
+- 政須尊酒風前共，莫作扁舟月下回。
+- 風雪當門須有夜，要觀四物一時來。
 
 ## 拼音
 
-- xue2 wen4 fen1 ming2 you3 ben3 gen1 ， yi4 bian1 lu3 lun4 xing4 jin1 cun2 。
-- nai4 he2 zhi4 li3 nan2 qiong2 jiu1 ， yuan4 yu3 liang2 peng2 xi4 tao3 lun4 。
-- yu4 tan4 sheng4 chuan2 qian1 gu3 bi4 ， mo4 ling4 xin1 jian4 yi4 hao2 hun1 。
-- wu2 chai2 zong3 zai4 sheng1 cheng2 nei4 ， yao4 shi2 wu2 si1 zao4 hua4 en1 。
+- qing1 shi2 he2 gu4 you3 yi2 cai2 ， jiu3 dan3 ru2 hong2 yi4 zhuang4 zai1 。
+- duo1 xie4 lun4 jiao1 bi3 jin1 shi2 ， zi4 can2 jin4 de2 wei4 juan1 ai1 。
+- zheng4 xu1 zun1 jiu3 feng1 qian2 gong4 ， mo4 zuo4 pian1 zhou1 yue4 xia4 hui2 。
+- feng1 xue3 dang1 men2 xu1 you3 ye4 ， yao4 guan1 si4 wu4 yi4 shi2 lai2 。
 
 ## 注释
 

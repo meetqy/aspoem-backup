@@ -6,10 +6,10 @@ titleSlug: lin-zi-zhong-yi-shi-ji-wen-yu-ke-ji-yu-yu-ke-ji-mo-zhui-he-qi-yun
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

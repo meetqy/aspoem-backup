@@ -6,25 +6,25 @@ titleSlug: kuo-cang-dao-zhong-ci-chen-yi-gang-yun
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山色隨詩瘦，波光際野空。
-- 行裝秋思裏，情話雨聲中。
-- 無補身如贅，多愁鬢似蓬。
-- 惟餘滄海興，酒後憶郫筒。
+- 詩翁四十九行年，說著行邊喜欲癲。
+- 介婦灘頭隨水宿，馮公嶺上伴雲眠。
+- 趨時萍實甜于蜜，閲世匏壺老更堅。
+- 冀北須君空一洗，眼前駑馬太勞鞭。
 
 ## 拼音
 
-- shan1 se4 sui2 shi1 shou4 ， bo1 guang1 ji4 ye3 kong1 。
-- xing2 zhuang1 qiu1 si1 li3 ， qing2 hua4 yu3 sheng1 zhong1 。
-- wu2 bu3 shen1 ru2 zhui4 ， duo1 chou2 bin4 si4 peng2 。
-- wei2 yu2 cang1 hai3 xing1 ， jiu3 hou4 yi4 pi2 tong3 。
+- shi1 weng1 si4 shi2 jiu3 xing2 nian2 ， shuo1 zhu4 xing2 bian1 xi3 yu4 dian1 。
+- jie4 fu4 tan1 tou2 sui2 shui3 su4 ， feng2 gong1 ling3 shang4 ban4 yun2 mian2 。
+- qu1 shi2 ping2 shi2 tian2 yu2 mi4 ， yue4 shi4 pao2 hu2 lao3 geng4 jian1 。
+- ji4 bei3 xu1 jun1 kong1 yi4 xi3 ， yan3 qian2 nu2 ma3 tai4 lao2 bian1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ji-chang-fu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 深林蟬聲咽殘雨，又爾微炎起亭午。
-- 章泉幽流雨風寒，安得從之臂不羽。
-- 江南田薄多旱苦，冥鴻孤高畏羅罟。
-- 洪河東傾一砥柱，雲霏霏兮澹承宇。
+- 梅花開盡冬亦盡，雪後春來猶苦寒。
+- 年事其誰無老境，時情徒自有儒冠。
+- 林虛磴道歸深谷，塘決溝流起素湍。
+- 鷹掠晚風鴉泊霧，一軒苔竹且加餐。
 
 ## 拼音
 
-- shen1 lin2 chan2 sheng1 yan4 can2 yu3 ， you4 er3 wei1 yan2 qi3 ting2 wu3 。
-- zhang1 quan2 you1 liu2 yu3 feng1 han2 ， an1 de2 cong2 zhi1 bi4 bu4 yu3 。
-- jiang1 nan2 tian2 bao2 duo1 han4 ku3 ， ming2 hong2 gu1 gao1 wei4 luo2 gu3 。
-- hong2 he2 dong1 qing1 yi4 di3 zhu4 ， yun2 fei1 fei1 xi1 dan4 cheng2 yu3 。
+- mei2 hua1 kai1 jin4 dong1 yi4 jin4 ， xue3 hou4 chun1 lai2 you2 ku3 han2 。
+- nian2 shi4 qi2 shui2 wu2 lao3 jing4 ， shi2 qing2 tu2 zi4 you3 ru2 guan1 。
+- lin2 xu1 deng4 dao4 gui1 shen1 gu3 ， tang2 jue2 gou1 liu2 qi3 su4 tuan1 。
+- ying1 lüe4 wan3 feng1 ya1 bo2 wu4 ， yi4 xuan1 tai2 zhu2 qie3 jia1 can1 。
 
 ## 注释
 

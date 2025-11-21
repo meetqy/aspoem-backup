@@ -6,10 +6,10 @@ titleSlug: cao-tang-xiao-yao-si
 author: 李章
 authorPinyin: li3 zhang1
 authorSlug: li-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

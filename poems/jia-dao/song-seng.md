@@ -9,22 +9,18 @@ authorSlug: jia-dao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 出家從丱歲，解論造玄門。
-- 不惜揮談柄，誰能聽至言。
-- 中時山果熟，後夏竹陰繁。
-- 此去逢何日，峨嵋曉復昏。
+- 池上時時松雪落，焚香煙起見孤燈。
+- 靜夜憶誰來對坐，曲江南岸寺中僧。
 
 ## 拼音
 
-- chu1 jia1 cong2 guan4 sui4 ， jie3 lun4 zao4 xuan2 men2 。
-- bu4 xi1 hui1 tan2 bing3 ， shui2 neng2 ting1 zhi4 yan2 。
-- zhong1 shi2 shan1 guo3 shu2 ， hou4 xia4 zhu2 yin1 fan2 。
-- ci3 qu4 feng2 he2 ri4 ， e2 mei2 xiao3 fu4 hun1 。
+- chi2 shang4 shi2 shi2 song1 xue3 luo4 ， fen2 xiang1 yan1 qi3 jian4 gu1 deng1 。
+- jing4 ye4 yi4 shui2 lai2 dui4 zuo4 ， qu3 jiang1 nan2 an4 si4 zhong1 seng1 。
 
 ## 注释
 

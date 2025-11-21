@@ -6,25 +6,21 @@ titleSlug: deng-lou
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪谷含冰雪，川原見草芽。
-- 春生三峽水，日照萬人家。
-- 時節長如此，風光會有涯。
-- 唯應多美酒，厭看海棠花。
+- 城外園林非一主，春風總總爲開花。
+- 遊蜂語燕隨人眼，過盡南家與北家。
 
 ## 拼音
 
-- xi1 gu3 han2 bing1 xue3 ， chuan1 yuan2 jian4 cao3 ya2 。
-- chun1 sheng1 san1 xia2 shui3 ， ri4 zhao4 wan4 ren2 jia1 。
-- shi2 jie2 chang2 ru2 ci3 ， feng1 guang1 hui4 you3 ya2 。
-- wei2 ying1 duo1 mei3 jiu3 ， yan4 kan4 hai3 tang2 hua1 。
+- cheng2 wai4 yuan2 lin2 fei1 yi4 zhu3 ， chun1 feng1 zong3 zong3 wei2 kai1 hua1 。
+- you2 feng1 yu3 yan4 sui2 ren2 yan3 ， guo4 jin4 nan2 jia1 yu3 bei3 jia1 。
 
 ## 注释
 

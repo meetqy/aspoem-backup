@@ -6,10 +6,10 @@ titleSlug: shi-jia-shan-ji
 author: 何師韞
 authorPinyin: he2 shi1 yun4
 authorSlug: he-shi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

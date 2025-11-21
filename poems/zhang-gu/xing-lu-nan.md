@@ -6,9 +6,9 @@ titleSlug: xing-lu-nan
 author: 張轂
 authorPinyin: zhang1 gu3
 authorSlug: zhang-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

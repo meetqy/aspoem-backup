@@ -6,10 +6,10 @@ titleSlug: tong-zhang-bai-zi-wei-zi-ji-zi-zhi-zi-wen-zi-lu-ji-zhi-shi-zi-zheng-j
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

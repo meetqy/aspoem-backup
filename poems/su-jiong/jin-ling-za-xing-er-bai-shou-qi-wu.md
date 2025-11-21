@@ -1,26 +1,26 @@
 ---
 id: su-jiong-jin-ling-za-xing-er-bai-shou-qi-wu
-title: 金陵雜興二百首  其五
-titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 wu3
+title: 金陵雜興二百首  其五○
+titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 wu3 ○
 titleSlug: jin-ling-za-xing-er-bai-shou-qi-wu
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江南隄柳拂人頭，三月吹花特地愁。
-- 却憶舊時狂李白，題詩曾遍酒家樓。
+- 花底翩翻燕子風，杏園何止萬株紅。
+- 亭軒包裹渾如錦，見說風流似禁中。
 
 ## 拼音
 
-- jiang1 nan2 di1 liu3 fu2 ren2 tou2 ， san1 yue4 chui1 hua1 te4 di4 chou2 。
-- que4 yi4 jiu4 shi2 kuang2 li3 bai2 ， ti2 shi1 ceng2 bian4 jiu3 jia1 lou2 。
+- hua1 di3 pian1 fan1 yan4 zi3 feng1 ， xing4 yuan2 he2 zhi3 wan4 zhu1 hong2 。
+- ting2 xuan1 bao1 guo3 hun2 ru2 jin3 ， jian4 shuo1 feng1 liu2 si4 jin4 zhong1 。
 
 ## 注释
 

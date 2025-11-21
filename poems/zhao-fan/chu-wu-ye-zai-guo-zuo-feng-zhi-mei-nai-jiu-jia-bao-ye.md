@@ -6,10 +6,10 @@ titleSlug: chu-wu-ye-zai-guo-zuo-feng-zhi-mei-nai-jiu-jia-bao-ye
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

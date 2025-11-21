@@ -6,10 +6,10 @@ titleSlug: cheng-zhou-zhong-shu-huai
 author: 趙奉
 authorPinyin: zhao4 feng4
 authorSlug: zhao-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

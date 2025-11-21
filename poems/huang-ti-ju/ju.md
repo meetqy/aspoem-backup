@@ -6,10 +6,10 @@ titleSlug: ju
 author: 黄提舉
 authorPinyin: huang2 ti2 ju3
 authorSlug: huang-ti-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

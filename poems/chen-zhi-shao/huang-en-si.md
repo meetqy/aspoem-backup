@@ -6,10 +6,10 @@ titleSlug: huang-en-si
 author: 陳之邵
 authorPinyin: chen2 zhi1 shao4
 authorSlug: chen-zhi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

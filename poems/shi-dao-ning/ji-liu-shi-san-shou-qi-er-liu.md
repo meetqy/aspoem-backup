@@ -6,10 +6,10 @@ titleSlug: ji-liu-shi-san-shou-qi-er-liu
 author: 釋道寧
 authorPinyin: shi4 dao4 ning2
 authorSlug: shi-dao-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

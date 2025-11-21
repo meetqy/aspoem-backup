@@ -6,10 +6,10 @@ titleSlug: jing-jia-qiu-he-gu-di
 author: 潘斾
 authorPinyin: pan1 pei4
 authorSlug: pan-pei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

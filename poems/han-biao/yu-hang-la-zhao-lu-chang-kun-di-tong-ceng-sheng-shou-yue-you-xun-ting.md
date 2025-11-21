@@ -6,10 +6,10 @@ titleSlug: yu-hang-la-zhao-lu-chang-kun-di-tong-ceng-sheng-shou-yue-you-xun-ting
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

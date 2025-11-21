@@ -6,10 +6,10 @@ titleSlug: shao-xing-wu-wu-qiu-yin-guan-bi-shi-suo-cang-ding-wu-jiu-shi-ben-lan-
 author: 薛僊
 authorPinyin: xue1 xian1
 authorSlug: xue-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

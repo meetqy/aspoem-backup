@@ -6,10 +6,10 @@ titleSlug: han-ting
 author: 莊元戌
 authorPinyin: zhuang1 yuan2 xu1
 authorSlug: zhuang-yuan-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

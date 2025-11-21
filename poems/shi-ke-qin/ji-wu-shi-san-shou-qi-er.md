@@ -1,30 +1,36 @@
 ---
 id: shi-ke-qin-ji-wu-shi-san-shou-qi-er
-title: 偈五十三首  其二
-titlePinyin: ji4 wu3 shi2 san1 shou3     qi2 er4
+title: 偈五十三首  其二○
+titlePinyin: ji4 wu3 shi2 san1 shou3     qi2 er4 ○
 titleSlug: ji-wu-shi-san-shou-qi-er
 author: 釋克勤
 authorPinyin: shi4 ke4 qin2
 authorSlug: shi-ke-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平旦清晨五月一，吹起少林無孔笛。
-- 十方沙界坦然平，大地山河印印出。
-- 二祖曾不往西天，達磨曾不到梁國。
-- 大家共賀太平歌，摩訶般若波羅蜜。
+- 舉無遺照，十方剎海目前觀。
+- 正體堂堂，大千同一真如境。
+- 各守本位去，山是山，水是水。
+- 互換投機去，星辰易位，佛祖潜蹤。
+- 兩處絕聱訛，二邊純莫立。
+- 無可不可，悉得安居。
+- 隨時應緣，凝然湛寂。
 
 ## 拼音
 
-- ping2 dan4 qing1 chen2 wu3 yue4 yi1 ， chui1 qi3 shao4 lin2 wu2 kong3 di2 。
-- shi2 fang1 sha1 jie4 tan3 ran2 ping2 ， da4 di4 shan1 he2 yin4 yin4 chu1 。
-- er4 zu3 ceng2 bu4 wang3 xi1 tian1 ， da2 mo2 ceng2 bu2 dao4 liang2 guo2 。
-- da4 jia1 gong4 he4 tai4 ping2 ge1 ， mo2 he1 bo1 re3 bo1 luo2 mi4 。
+- ju3 wu2 yi2 zhao4 ， shi2 fang1 cha4 hai3 mu4 qian2 guan1 。
+- zheng4 ti3 tang2 tang2 ， da4 qian1 tong2 yi4 zhen1 ru2 jing4 。
+- ge4 shou3 ben3 wei4 qu4 ， shan1 shi4 shan1 ， shui3 shi4 shui3 。
+- hu4 huan4 tou2 ji1 qu4 ， xing1 chen2 yi4 wei4 ， fo2 zu3 qian2 zong1 。
+- liang3 chu3 jue2 ao2 e2 ， er4 bian1 chun2 mo4 li4 。
+- wu2 ke3 bu4 ke3 ， xi1 de2 an1 ju1 。
+- sui2 shi2 ying1 yuan2 ， ning2 ran2 zhan4 ji4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 俞仲昌
 authorPinyin: yu2 zhong4 chang1
 authorSlug: yu-zhong-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

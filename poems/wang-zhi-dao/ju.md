@@ -1,26 +1,24 @@
 ---
 id: wang-zhi-dao-ju
-title: 菊
-titlePinyin: ju2
+title: 句
+titlePinyin: ju4
 titleSlug: ju
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 千林揺落見孤芳，色映青松破嫩黄。
-- 玉露凄凉三逕晚，金英芬馥幾叢香。
+- 霜蕤不艷薇爭白，檀蕊無煙蕙惜馨。
 
 ## 拼音
 
-- qian1 lin2 yao2 luo4 jian4 gu1 fang1 ， se4 ying4 qing1 song1 po4 nen4 huang2 。
-- yu4 lu4 qi1 liang2 san1 jing4 wan3 ， jin1 ying1 fen1 fu4 ji1 cong2 xiang1 。
+- shuang1 rui2 bu2 yan4 wei1 zheng1 bai2 ， tan2 rui3 wu2 yan1 hui4 xi1 xin1 。
 
 ## 注释
 

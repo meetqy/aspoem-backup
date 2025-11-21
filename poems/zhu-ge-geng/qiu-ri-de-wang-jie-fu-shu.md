@@ -6,10 +6,10 @@ titleSlug: qiu-ri-de-wang-jie-fu-shu
 author: 諸葛賡
 authorPinyin: zhu1 ge3 geng1
 authorSlug: zhu-ge-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: du-nan-ming-he-shang-yi-ni-song
 author: 釋景元
 authorPinyin: shi4 jing3 yuan2
 authorSlug: shi-jing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

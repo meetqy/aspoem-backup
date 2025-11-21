@@ -1,30 +1,30 @@
 ---
 id: cao-xun-shan-ju-za-shi-jiu-shi-shou-qi-si
-title: 山居雜詩九十首  其四
-titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 si4
+title: 山居雜詩九十首  其四○
+titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 si4 ○
 titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒸沙以爲城，冶鐵用作限。
-- 未伸彼利害，先爲己憂患。
-- 家事席未暖，基址已永歎。
-- 在德不在險，推類仁者諫。
+- 秋色不勝悲，濃霜寒入衣。
+- 蔬畦倦小摘，茅簷曝晴暉。
+- 人去歌酒歇，雁來音信稀。
+- 好客招不來，楓葉伴愁飛。
 
 ## 拼音
 
-- zheng1 sha1 yi3 wei2 cheng2 ， ye3 tie3 yong4 zuo4 xian4 。
-- wei4 shen1 bi3 li4 hai4 ， xian1 wei2 ji3 you1 huan4 。
-- jia1 shi4 xi2 wei4 nuan3 ， ji1 zhi3 yi3 yong3 tan4 。
-- zai4 de2 bu2 zai4 xian3 ， tui1 lei4 ren2 zhe3 jian4 。
+- qiu1 se4 bu2 sheng4 bei1 ， nong2 shuang1 han2 ru4 yi1 。
+- shu1 qi2 juan4 xiao3 zhai1 ， mao2 yan2 pu4 qing2 hui1 。
+- ren2 qu4 ge1 jiu3 xie1 ， yan4 lai2 yin1 xin4 xi1 。
+- hao4 ke4 zhao1 bu4 lai2 ， feng1 ye4 ban4 chou2 fei1 。
 
 ## 注释
 

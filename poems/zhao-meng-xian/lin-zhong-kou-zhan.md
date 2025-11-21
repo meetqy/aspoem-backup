@@ -6,10 +6,10 @@ titleSlug: lin-zhong-kou-zhan
 author: 趙孟僴
 authorPinyin: zhao4 meng4 xian4
 authorSlug: zhao-meng-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

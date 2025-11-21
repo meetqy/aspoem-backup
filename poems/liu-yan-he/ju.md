@@ -6,10 +6,10 @@ titleSlug: ju
 author: 劉彥和
 authorPinyin: liu2 yan4 he2
 authorSlug: liu-yan-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

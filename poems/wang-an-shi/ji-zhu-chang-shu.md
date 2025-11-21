@@ -6,25 +6,25 @@ titleSlug: ji-zhu-chang-shu
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西安春風花幾樹，花邊飲酒今何處。
-- 一杯塞上看黄雲，萬里寄聲無雁去。
-- 世事紛紛洗更新，老來空得滿衣塵。
-- 青山欲買江南宅，歸去相招有此身。
+- 清江漫漫繞城流，尚憶城邊繫小舟。
+- 射虎未能隨李廣，割雞空欲戲言游。
+- 雲埋塞路驚塵合，霜入春風滿鬢愁。
+- 此日君書苦難得，謾多鴻雁起南洲。
 
 ## 拼音
 
-- xi1 an1 chun1 feng1 hua1 ji1 shu4 ， hua1 bian1 yin3 jiu3 jin1 he2 chu3 。
-- yi4 bei1 sai4 shang4 kan4 huang2 yun2 ， wan4 li3 ji4 sheng1 wu2 yan4 qu4 。
-- shi4 shi4 fen1 fen1 xi3 geng1 xin1 ， lao3 lai2 kong1 de2 man3 yi1 chen2 。
-- qing1 shan1 yu4 mai3 jiang1 nan2 zhai2 ， gui1 qu4 xiang1 zhao1 you3 ci3 shen1 。
+- qing1 jiang1 man4 man4 rao4 cheng2 liu2 ， shang4 yi4 cheng2 bian1 xi4 xiao3 zhou1 。
+- she4 hu3 wei4 neng2 sui2 li3 guang3 ， ge1 ji1 kong1 yu4 xi4 yan2 you2 。
+- yun2 mai2 sai1 lu4 jing1 chen2 he2 ， shuang1 ru4 chun1 feng1 man3 bin4 chou2 。
+- ci3 ri4 jun1 shu1 ku3 nan2 de2 ， man2 duo1 hong2 yan4 qi3 nan2 zhou1 。
 
 ## 注释
 

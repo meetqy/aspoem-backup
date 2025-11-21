@@ -1,6 +1,6 @@
 ---
 id: meng-guan-zeng-qi-yin-dong-tan-xian-sheng
-title: 贈棲隠洞譚先生
+title: 贈棲隱洞譚先生
 titlePinyin: zeng4 qi1 yin3 dong4 tan2 xian1 sheng0
 titleSlug: zeng-qi-yin-dong-tan-xian-sheng
 author: 孟貫
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 先生雙鬢華，深谷卧雲霞。
+- 先生雙鬢華，深谷臥雲霞。
 - 不伐有巢樹，多移無主花。
 - 石泉春釀酒，松火夜煎茶。
 - 因問山中事，如君有幾家。

@@ -6,9 +6,9 @@ titleSlug: ju
 author: 劉彥祖
 authorPinyin: liu2 yan4 zu3
 authorSlug: liu-yan-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

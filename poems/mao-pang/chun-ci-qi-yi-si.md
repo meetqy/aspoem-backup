@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-si
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日養千花氣，風和百和香。
-- 君王自仁壽，柏葉更稱觴。
+- 宮漏遲遲不受催，出花光景漸徘徊。
+- 萬方日日春臺上，不道東風恰始來。
 
 ## 拼音
 
-- ri4 yang3 qian1 hua1 qi4 ， feng1 he2 bai3 he2 xiang1 。
-- jun1 wang2 zi4 ren2 shou4 ， bai3 ye4 geng4 cheng1 shang1 。
+- gong1 lou4 chi2 chi2 bu2 shou4 cui1 ， chu1 hua1 guang1 jing3 jian4 pai2 huai2 。
+- wan4 fang1 ri4 ri4 chun1 tai2 shang4 ， bu2 dao4 dong1 feng1 qia4 shi3 lai2 。
 
 ## 注释
 

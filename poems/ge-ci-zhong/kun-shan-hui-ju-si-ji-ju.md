@@ -6,10 +6,10 @@ titleSlug: kun-shan-hui-ju-si-ji-ju
 author: 葛次仲
 authorPinyin: ge3 ci4 zhong4
 authorSlug: ge-ci-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

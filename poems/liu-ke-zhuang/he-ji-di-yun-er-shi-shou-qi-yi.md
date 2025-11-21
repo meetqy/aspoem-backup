@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-he-ji-di-yun-er-shi-shou-qi-yi
-title: 和季弟韻二十首  其一
-titlePinyin: he2 ji4 di4 yun4 er4 shi2 shou3     qi2 yi1
+title: 和季弟韻二十首  其一○
+titlePinyin: he2 ji4 di4 yun4 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: he-ji-di-yun-er-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何處有禾三百廛，芋區止在舍西邊。
-- 室如蒙叟生虛白，詩賽唐人選極玄。
-- 耐久不如常友石，固窮未肯便兄錢。
-- 春晴尤愜看花者，却怕山田欠水泉。
+- 天海憑高兩杳茫，豈無容地著吾狂。
+- 俗人不慣呼聱叟，明主何曾罪寢郎。
+- 耕富春山能重漢，隠王官谷未忘唐。
+- 自嫌老病疎溪墅，只靠鄰僧守竹房。
 
 ## 拼音
 
-- he2 chu3 you3 he2 san1 bai3 chan2 ， yu4 qu1 zhi3 zai4 she4 xi1 bian1 。
-- shi4 ru2 meng2 sou3 sheng1 xu1 bai2 ， shi1 sai4 tang2 ren2 xuan3 ji2 xuan2 。
-- nai4 jiu3 bu4 ru2 chang2 you3 shi2 ， gu4 qiong2 wei4 ken3 bian4 xiong1 qian2 。
-- chun1 qing2 you2 qie4 kan4 hua1 zhe3 ， que4 pa4 shan1 tian2 qian4 shui3 quan2 。
+- tian1 hai3 ping2 gao1 liang3 yao3 mang2 ， qi3 wu2 rong2 di4 zhu4 wu2 kuang2 。
+- su2 ren2 bu2 guan4 hu1 ao2 sou3 ， ming2 zhu3 he2 ceng2 zui4 qin3 lang2 。
+- geng1 fu4 chun1 shan1 neng2 zhong4 han4 ， yin3 wang2 guan1 gu3 wei4 wang4 tang2 。
+- zi4 xian2 lao3 bing4 shu1 xi1 shu4 ， zhi1 kao4 lin2 seng1 shou3 zhu2 fang2 。
 
 ## 注释
 

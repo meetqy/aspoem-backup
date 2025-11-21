@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-huang-di-ge-qi-er
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綵勝年年巧，椒盤歲歲新。
-- 君王千萬壽，長與物華春。
+- 紫禁風光早，深仁奪化工。
+- 試看澄碧殿，池凍已全融。
 
 ## 拼音
 
-- cai3 sheng4 nian2 nian2 qiao3 ， jiao1 pan2 sui4 sui4 xin1 。
-- jun1 wang2 qian1 wan4 shou4 ， chang2 yu3 wu4 hua2 chun1 。
+- zi3 jin4 feng1 guang1 zao3 ， shen1 ren2 duo2 hua4 gong1 。
+- shi4 kan4 cheng2 bi4 dian4 ， chi2 dong4 yi3 quan2 rong2 。
 
 ## 注释
 

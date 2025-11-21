@@ -6,10 +6,10 @@ titleSlug: ping-dou-shan-xia-zhong-sheng-chu-yu-si-yu-yi-dao-er-bu-neng-jin-de-y
 author: 晁公遡
 authorPinyin: chao2 gong1 su4
 authorSlug: chao-gong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: xian-ju-shu-shi
 author: 楊時
 authorPinyin: yang2 shi2
 authorSlug: yang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 虛庭幽草翠相環，默坐頹然草色間。
-- 玩意詩書千古近，放懷天地一身閒。
-- 疏窗風度聊欹枕，永巷人稀獨掩關。
-- 誰信紅塵隨處凈，不論城郭與青山。
+- 輕風拂拂撼孤檉，庭戶蕭然一室清。
+- 隔葉蟬鳴微欲斷，又聞餘韵續殘聲。
 
 ## 拼音
 
-- xu1 ting2 you1 cao3 cui4 xiang1 huan2 ， mo4 zuo4 tui2 ran2 cao3 se4 jian4 。
-- wan2 yi4 shi1 shu1 qian1 gu3 jin4 ， fang4 huai2 tian1 di4 yi4 shen1 xian2 。
-- shu1 chuang1 feng1 du4 liao2 qi1 zhen3 ， yong3 xiang4 ren2 xi1 du2 yan3 guan1 。
-- shui2 xin4 hong2 chen2 sui2 chu3 jing4 ， bu2 lun4 cheng2 guo1 yu3 qing1 shan1 。
+- qing1 feng1 fu2 fu2 han4 gu1 cheng1 ， ting2 hu4 xiao1 ran2 yi2 shi4 qing1 。
+- ge2 ye4 chan2 ming2 wei1 yu4 duan4 ， you4 wen2 yu2 yun4 xu4 can2 sheng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: huang-yan-yu-cong-wu-yi-qiu-qi-mai-ming-yi-yan-xie-zhi-wu-yi-yao-yu-z
 author: 董瞿老
 authorPinyin: dong3 qu2 lao3
 authorSlug: dong-qu-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

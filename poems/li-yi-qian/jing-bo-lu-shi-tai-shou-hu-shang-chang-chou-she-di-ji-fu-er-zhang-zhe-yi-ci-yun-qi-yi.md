@@ -6,10 +6,10 @@ titleSlug: jing-bo-lu-shi-tai-shou-hu-shang-chang-chou-she-di-ji-fu-er-zhang-zhe
 author: 李益謙
 authorPinyin: li3 yi4 qian1
 authorSlug: li-yi-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

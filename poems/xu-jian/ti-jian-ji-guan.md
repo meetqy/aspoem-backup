@@ -6,9 +6,9 @@ titleSlug: ti-jian-ji-guan
 author: 許堅
 authorPinyin: xu1 jian1
 authorSlug: xu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ti-guang-xin-dao-zhong
 author: 金麗卿
 authorPinyin: jin1 li2 qing1
 authorSlug: jin-li-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

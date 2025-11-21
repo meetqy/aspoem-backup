@@ -6,10 +6,10 @@ titleSlug: ju
 author: 康南翁
 authorPinyin: kang1 nan2 weng1
 authorSlug: kang-nan-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

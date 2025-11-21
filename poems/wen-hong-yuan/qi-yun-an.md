@@ -6,10 +6,10 @@ titleSlug: qi-yun-an
 author: 文洪源
 authorPinyin: wen2 hong2 yuan2
 authorSlug: wen-hong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

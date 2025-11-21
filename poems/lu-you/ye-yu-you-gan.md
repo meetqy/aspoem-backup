@@ -6,25 +6,25 @@ titleSlug: ye-yu-you-gan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北風吹雨暗江郊，十月僧廬旋補茆。
-- 病馬敢希三品料，驚禽聊借一枝巢。
-- 少時諸老爭求識，晚歲殊方罕定交。
-- 閉户不妨新得趣，丹經盈篋手親抄。
+- 斷虹不隔江郊雨，一盞昏燈夜半時。
+- 多感生悲那爲酒，積衰成瘦錯冤詩。
+- 空階點滴何由止，倦枕凄凉只自知。
+- 平日故人零落盡，寄書誰與敘睽離。
 
 ## 拼音
 
-- bei3 feng1 chui1 yu3 an4 jiang1 jiao1 ， shi2 yue4 seng1 lu2 xuan2 bu3 mao2 。
-- bing4 ma3 gan3 xi1 san1 pin3 liao4 ， jing1 qin2 liao2 jie4 yi4 zhi1 chao2 。
-- shao3 shi2 zhu1 lao3 zheng1 qiu2 shi2 ， wan3 sui4 shu1 fang1 han3 ding4 jiao1 。
-- bi4 hu4 bu4 fang2 xin1 de2 qu4 ， dan1 jing1 ying2 qie4 shou3 qin1 chao1 。
+- duan4 hong2 bu4 ge2 jiang1 jiao1 yu3 ， yi4 zhan3 hun1 deng1 ye4 ban4 shi2 。
+- duo1 gan3 sheng1 bei1 na4 wei2 jiu3 ， ji1 shuai1 cheng2 shou4 cuo4 yuan1 shi1 。
+- kong1 jie1 dian3 di1 he2 you2 zhi3 ， juan4 zhen3 qi1 liang2 zhi1 zi4 zhi1 。
+- ping2 ri4 gu4 ren2 ling2 luo4 jin4 ， ji4 shu1 shui2 yu3 xu4 kui2 li2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: kao-ting-chen-guo-qi-yi-jia-niang-xiang-wu-you-ren-zhuo-min-biao-min-
 author: 洪邁
 authorPinyin: hong2 mai4
 authorSlug: hong-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

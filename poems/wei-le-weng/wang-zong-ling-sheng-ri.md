@@ -6,41 +6,59 @@ titleSlug: wang-zong-ling-sheng-ri
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古來五大不在邊，國家長慮初解絃。
-- 西南計臣授鈇鉞，獨以一手擎半天。
-- 三邊將士趨節制，百城吏民服威惠。
-- 載宣寬詔問無恙，扶藜往聽翁顔喜。
-- 我圖爾土居未怡，室家僅葺風雨欺。
-- 波濤沄沄逐風靡，山色澹澹憂陵夷。
-- 機空絡緯那可織，徽穿虎豹疇能識。
-- 秦門夕燧雖平安，燕帳秋弓未休息。
-- 翁顔且喜舊觀還，尚恐世事愁無端。
-- 祝公爲民久遠慮，憂顧期使西南寬。
-- 美官厚祿等閒耳，得君得時不易然。
-- 君不見富公在青州，多於中令廿四年。
+- 皇天覆后土，藐然中爲人。
+- 職職萬同宇，何所非吾仁。
+- 一二指搐耳，動且關嚬呻。
+- 置之非害事，尚欲求其信。
+- 矧今我赤子，犬羊所噬吞。
+- 養之將遺患，迫之幾寡恩。
+- 猶以赤子故，未忍窮追奔。
+- 蠢彼不我德，羽書驚嚴宸。
+- 帝曰斯可矣，戎首將自焚。
+- 一軍戍江介，一軍留漢濱。
+- 雨中徹桑土，火後憂突薪。
+- 又念蜀上游，擢才餉吾軍。
+- 蜀力如蝸涎，僅足以濡身。
+- 云胡走荆楚，坐視空川秦。
+- 天下本一家，奚必爾我分。
+- 獨憐去天遠，緩急呼不聞。
+- 公今從此升，於國擬世臣。
+- 家有憂民譜，切磋及茲辰。
+- 直前明分義，却立思本根。
+- 豈但無怨公，此志長光新。
+- 抑使蜀父兄，壽公以峨岷。
 
 ## 拼音
 
-- gu3 lai2 wu3 da4 bu2 zai4 bian1 ， guo2 jia1 chang2 lü4 chu1 jie3 xian2 。
-- xi1 nan2 ji4 chen2 shou4 fu1 yue4 ， du2 yi3 yi4 shou3 qing2 ban4 tian1 。
-- san1 bian1 jiang1 shi4 qu1 jie2 zhi4 ， bai3 cheng2 li4 min2 fu2 wei1 hui4 。
-- zai4 xuan1 kuan1 zhao4 wen4 wu2 yang4 ， fu2 li2 wang3 ting1 weng1 yan2 xi3 。
-- wo3 tu2 er3 tu3 ju1 wei4 yi2 ， shi4 jia1 jin3 qi4 feng1 yu3 qi1 。
-- bo1 tao1 yun2 yun2 zhu2 feng1 mi2 ， shan1 se4 dan4 dan4 you1 ling2 yi2 。
-- ji1 kong1 luo4 wei3 na4 ke3 zhi1 ， hui1 chuan1 hu3 bao4 chou2 neng2 shi2 。
-- qin2 men2 xi1 sui4 sui1 ping2 an1 ， yan4 zhang4 qiu1 gong1 wei4 xiu1 xi0 。
-- weng1 yan2 qie3 xi3 jiu4 guan1 huan2 ， shang4 kong3 shi4 shi4 chou2 wu2 duan1 。
-- zhu4 gong1 wei2 min2 jiu3 yuan3 lü4 ， you1 gu4 qi1 shi3 xi1 nan2 kuan1 。
-- mei3 guan1 hou4 lu4 deng3 xian2 er3 ， de2 jun1 de2 shi2 bu2 yi4 ran2 。
-- jun1 bu2 jian4 fu4 gong1 zai4 qing1 zhou1 ， duo1 wu1 zhong1 ling4 nian4 si4 nian2 。
+- huang2 tian1 fu4 hou4 tu3 ， miao3 ran2 zhong1 wei2 ren2 。
+- zhi2 zhi2 wan4 tong2 yu3 ， he2 suo3 fei1 wu2 ren2 。
+- yi1 er4 zhi3 chu4 er3 ， dong4 qie3 guan1 pin2 shen1 。
+- zhi4 zhi1 fei1 hai4 shi4 ， shang4 yu4 qiu2 qi2 xin4 。
+- shen3 jin1 wo3 chi4 zi3 ， quan3 yang2 suo3 shi4 tun1 。
+- yang3 zhi1 jiang1 yi2 huan4 ， po4 zhi1 ji1 gua3 en1 。
+- you2 yi3 chi4 zi3 gu4 ， wei4 ren3 qiong2 zhui1 ben1 。
+- chun3 bi3 bu4 wo3 de2 ， yu3 shu1 jing1 yan2 chen2 。
+- di4 yue1 si1 ke3 yi3 ， rong2 shou3 jiang1 zi4 fen2 。
+- yi4 jun1 shu4 jiang1 jie4 ， yi4 jun1 liu2 han4 bin1 。
+- yu3 zhong1 che4 sang1 tu3 ， huo3 hou4 you1 tu1 xin1 。
+- you4 nian4 shu3 shang4 you2 ， zhuo2 cai2 xiang3 wu2 jun1 。
+- shu3 li4 ru2 wo1 xian2 ， jin3 zu2 yi3 ru2 shen1 。
+- yun2 hu2 zou3 jing1 chu3 ， zuo4 shi4 kong1 chuan1 qin2 。
+- tian1 xia4 ben3 yi4 jia1 ， xi1 bi4 er3 wo3 fen1 。
+- du2 lian2 qu4 tian1 yuan3 ， huan3 ji2 hu1 bu4 wen2 。
+- gong1 jin1 cong2 ci3 sheng1 ， wu1 guo2 ni3 shi4 chen2 。
+- jia1 you3 you1 min2 pu3 ， qie1 cuo1 ji2 zi1 chen2 。
+- zhi2 qian2 ming2 fen1 yi4 ， que4 li4 si1 ben3 gen1 。
+- qi3 dan4 wu2 yuan4 gong1 ， ci3 zhi4 chang2 guang1 xin1 。
+- yi4 shi3 shu3 fu4 xiong1 ， shou4 gong1 yi3 e2 min2 。
 
 ## 注释
 

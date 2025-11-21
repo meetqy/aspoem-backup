@@ -6,10 +6,10 @@ titleSlug: yi-yun-he-chou-yong-hui-shang-ren-jian-ti-suo-ju
 author: 魏野
 authorPinyin: wei4 ye3
 authorSlug: wei-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

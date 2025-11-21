@@ -6,10 +6,10 @@ titleSlug: ti-yu-cui-lou
 author: 吳虎
 authorPinyin: wu2 hu3
 authorSlug: wu-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

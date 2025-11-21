@@ -6,10 +6,10 @@ titleSlug: ti-shui-xuan-xin-zhu-song-qing-ting-si-shou-qi-san
 author: 張榘
 authorPinyin: zhang1 ju3
 authorSlug: zhang-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

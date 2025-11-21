@@ -6,25 +6,33 @@ titleSlug: zi-yong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝衣無色如霜葉，將奈雲安别駕何。
-- 鐘鼎山林俱不遂，聲名官職兩無多。
-- 低昻未免聞雞舞，慷慨猶能擊筑歌。
-- 頭白伴人書紙尾，只思歸去弄烟波。
+- 龜屋裁小冠，鹿皮製短裘。
+- 陸駕少游車，水泛淵明舟。
+- 山澤與城市，有路即可遊。
+- 或時一飯去，間亦旬日留。
+- 方見莫木萌，忽已天地秋。
+- 淘丹雲澗冷，采藥乳穴幽。
+- 逢人亦欣然，有問乃不酬。
+- 摩挲金銅人，千載寄悠悠。
 
 ## 拼音
 
-- chao2 yi1 wu2 se4 ru2 shuang1 ye4 ， jiang1 nai4 yun2 an1 bie2 jia4 he2 。
-- zhong1 ding3 shan1 lin2 ju4 bu2 sui4 ， sheng1 ming2 guan1 zhi2 liang3 wu2 duo1 。
-- di1 ang2 wei4 mian3 wen2 ji1 wu3 ， kang1 kai3 you2 neng2 ji1 zhu4 ge1 。
-- tou2 bai2 ban4 ren2 shu1 zhi3 wei3 ， zhi1 si1 gui1 qu4 nong4 yan1 bo1 。
+- gui1 wu1 cai2 xiao3 guan1 ， lu4 pi2 zhi4 duan3 qiu2 。
+- lu4 jia4 shao3 you2 ju1 ， shui3 fan4 yuan1 ming2 zhou1 。
+- shan1 ze2 yu3 cheng2 shi4 ， you3 lu4 ji2 ke3 you2 。
+- huo4 shi2 yi2 fan4 qu4 ， jian4 yi4 xun2 ri4 liu2 。
+- fang1 jian4 mo4 mu4 meng2 ， hu1 yi3 tian1 di4 qiu1 。
+- tao2 dan1 yun2 jian4 leng3 ， cai3 yao4 ru3 xue2 you1 。
+- feng2 ren2 yi4 xin1 ran2 ， you3 wen4 nai3 bu4 chou2 。
+- mo2 suo1 jin1 tong2 ren2 ， qian1 zai4 ji4 you1 you1 。
 
 ## 注释
 

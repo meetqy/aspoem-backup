@@ -6,9 +6,9 @@ titleSlug: qi-yu-xie-tan
 author: 劉佖
 authorPinyin: liu2 bi4
 authorSlug: liu-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

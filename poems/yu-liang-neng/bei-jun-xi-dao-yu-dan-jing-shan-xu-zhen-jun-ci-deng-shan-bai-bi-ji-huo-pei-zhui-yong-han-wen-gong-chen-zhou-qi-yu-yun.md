@@ -6,10 +6,10 @@ titleSlug: bei-jun-xi-dao-yu-dan-jing-shan-xu-zhen-jun-ci-deng-shan-bai-bi-ji-hu
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

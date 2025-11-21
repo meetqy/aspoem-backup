@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-ba
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 文章不宜命達，帝王亦忌時名。
-- 謾說賦求司馬，曾聞詩殺道衡。
+- 身無用處法當隠，詩要工時例是窮。
+- 東海校書稱釣客，香山學士作漁翁。
 
 ## 拼音
 
-- wen2 zhang1 bu4 yi2 ming4 da2 ， di4 wang2 yi4 ji4 shi2 ming2 。
-- man2 shuo1 fu4 qiu2 si1 ma3 ， ceng2 wen2 shi1 sha1 dao4 heng2 。
+- shen1 wu2 yong4 chu3 fa3 dang1 yin3 ， shi1 yao4 gong1 shi2 li4 shi4 qiong2 。
+- dong1 hai3 xiao4 shu1 cheng1 diao4 ke4 ， xiang1 shan1 xue2 shi4 zuo4 yu2 weng1 。
 
 ## 注释
 

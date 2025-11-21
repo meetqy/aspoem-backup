@@ -6,10 +6,10 @@ titleSlug: ti-xiang-shi-ci-jie-juan
 author: 羅珊
 authorPinyin: luo2 shan1
 authorSlug: luo-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

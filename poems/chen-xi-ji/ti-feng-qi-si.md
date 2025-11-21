@@ -6,10 +6,10 @@ titleSlug: ti-feng-qi-si
 author: 陳希伋
 authorPinyin: chen2 xi1 ji2
 authorSlug: chen-xi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

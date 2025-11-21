@@ -6,10 +6,10 @@ titleSlug: su-luo-chuan-jia-huai-yi-qi-huai-zhen-ke-ai-yin-si-li-cheng-zhi-dai-z
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

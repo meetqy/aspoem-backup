@@ -6,21 +6,27 @@ titleSlug: min-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 潭底乖龍喚不譍，驕陽似欲敗西成。
-- 虚堂永夜耿無睡，起聽四郊車水聲。
+- 臘雪不濡土，春風吹早塵。
+- 東吳貴粳稻，布種當及晨。
+- 千里方囂囂，坐視膏澤屯。
+- 民孽實自作，所頼天公仁。
+- 何時見秋穫，如山築高囷。
 
 ## 拼音
 
-- tan2 di3 guai1 long2 huan4 bu4 ying1 ， jiao1 yang2 si4 yu4 bai4 xi1 cheng2 。
-- xu1 tang2 yong3 ye4 geng3 wu2 shui4 ， qi3 ting1 si4 jiao1 ju1 shui3 sheng1 。
+- la4 xue3 bu4 ru2 tu3 ， chun1 feng1 chui1 zao3 chen2 。
+- dong1 wu2 gui4 jing1 dao4 ， bu4 zhong3 dang1 ji2 chen2 。
+- qian1 li3 fang1 xiao1 xiao1 ， zuo4 shi4 gao1 ze2 tun2 。
+- min2 nie4 shi2 zi4 zuo4 ， suo3 lai4 tian1 gong1 ren2 。
+- he2 shi2 jian4 qiu1 huo4 ， ru2 shan1 zhu4 gao1 qun1 。
 
 ## 注释
 

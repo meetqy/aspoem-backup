@@ -6,10 +6,10 @@ titleSlug: mei-lin
 author: 周端常
 authorPinyin: zhou1 duan1 chang2
 authorSlug: zhou-duan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

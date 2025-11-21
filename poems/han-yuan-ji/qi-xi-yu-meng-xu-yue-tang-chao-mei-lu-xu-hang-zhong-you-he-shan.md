@@ -6,10 +6,10 @@ titleSlug: qi-xi-yu-meng-xu-yue-tang-chao-mei-lu-xu-hang-zhong-you-he-shan
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

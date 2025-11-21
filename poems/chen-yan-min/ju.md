@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳彥敏
 authorPinyin: chen2 yan4 min3
 authorSlug: chen-yan-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

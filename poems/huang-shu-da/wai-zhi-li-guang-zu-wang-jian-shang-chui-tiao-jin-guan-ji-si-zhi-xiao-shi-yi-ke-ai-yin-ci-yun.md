@@ -6,10 +6,10 @@ titleSlug: wai-zhi-li-guang-zu-wang-jian-shang-chui-tiao-jin-guan-ji-si-zhi-xiao
 author: 黄叔達
 authorPinyin: huang2 shu1 da2
 authorSlug: huang-shu-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

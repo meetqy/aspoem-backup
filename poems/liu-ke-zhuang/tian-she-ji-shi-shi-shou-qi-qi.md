@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-qi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 條桑女子兩鬟垂，車馬過門未省窺。
-- 生長柴門蓬戶裏，安知世有二南詩。
+- 小榭無丹雘，低牆略塈茨。
+- 辛勤趨穡事，快活過花時。
+- 懶獻嘉禾頌，閑賡滯穗詩。
+- 幸生太平世，不樂復何爲。
 
 ## 拼音
 
-- tiao2 sang1 nü3 zi3 liang3 huan2 chui2 ， ju1 ma3 guo4 men2 wei4 sheng3 kui1 。
-- sheng1 chang2 chai2 men2 peng2 hu4 li3 ， an1 zhi1 shi4 you3 er4 nan2 shi1 。
+- xiao3 xie4 wu2 dan1 huo4 ， di1 qiang2 lüe4 ji4 ci2 。
+- xin1 qin2 qu1 se4 shi4 ， kuai4 huo0 guo4 hua1 shi2 。
+- lan3 xian4 jia1 he2 song4 ， xian2 geng1 zhi4 sui4 shi1 。
+- xing4 sheng1 tai4 ping2 shi4 ， bu2 le4 fu4 he2 wei2 。
 
 ## 注释
 

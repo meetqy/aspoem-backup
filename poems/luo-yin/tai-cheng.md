@@ -9,22 +9,22 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 水國春常在，臺城夜未寒。
-- 麗華承寵渥，江令捧杯盤。
-- 宴罷明堂爛，詩成寶炬殘。
-- 兵來吾有計，金井玉鉤欄。
+- 晚雲陰暎下空城，六代纍纍夕照明。
+- 玉井已乾龍不起，金甌雖破虎曾爭。
+- 亦知霸世才難得，却是蒙塵事最平。
+- 深谷作陵山作海，茂弘流輩莫傷情。
 
 ## 拼音
 
-- shui3 guo2 chun1 chang2 zai4 ， tai2 cheng2 ye4 wei4 han2 。
-- li2 hua2 cheng2 chong3 wo4 ， jiang1 ling4 peng3 bei1 pan2 。
-- yan4 ba4 ming2 tang2 lan4 ， shi1 cheng2 bao3 ju4 can2 。
-- bing1 lai2 wu2 you3 ji4 ， jin1 jing3 yu4 gou1 lan2 。
+- wan3 yun2 yin1 ying4 xia4 kong1 cheng2 ， liu4 dai4 lei2 lei2 xi1 zhao4 ming2 。
+- yu4 jing3 yi3 qian2 long2 bu4 qi3 ， jin1 ou1 sui1 po4 hu3 ceng2 zheng1 。
+- yi4 zhi1 ba4 shi4 cai2 nan2 de2 ， que4 shi4 meng2 chen2 shi4 zui4 ping2 。
+- shen1 gu3 zuo4 ling2 shan1 zuo4 hai3 ， mao4 hong2 liu2 bei4 mo4 shang1 qing2 。
 
 ## 注释
 

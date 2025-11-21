@@ -1,30 +1,30 @@
 ---
 id: ding-wei-que
-title: 雀
+title: 鵲
 titlePinyin: que4
 titleSlug: que
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飲啄遶藩籬，無聲乏羽儀。
-- 銜環誠可念，穿屋奈終卑。
-- 鴻鵠非予忖，鸞皇不汝欺。
-- 莫輕蟬飲露，挾彈鎮相隨。
+- 匣照光芒裏，熏爐想像間。
+- 營巢登大歲，採粟上仙山。
+- 玉璞驚心起，星河盡力還。
+- 上林無限樹，枯枿莫登攀。
 
 ## 拼音
 
-- yin3 zhuo2 rao4 fan1 li2 ， wu2 sheng1 fa2 yu3 yi2 。
-- xian2 huan2 cheng2 ke3 nian4 ， chuan1 wu1 nai4 zhong1 bei1 。
-- hong2 hu2 fei1 yu3 cun3 ， luan2 huang2 bu4 ru3 qi1 。
-- mo4 qing1 chan2 yin3 lu4 ， xie2 dan4 zhen4 xiang1 sui2 。
+- xia2 zhao4 guang1 mang2 li3 ， xun1 lu2 xiang3 xiang4 jian4 。
+- ying2 chao2 deng1 da4 sui4 ， cai3 su4 shang4 xian1 shan1 。
+- yu4 pu2 jing1 xin1 qi3 ， xing1 he2 jin4 li4 huan2 。
+- shang4 lin2 wu2 xian4 shu4 ， ku1 nie4 mo4 deng1 pan1 。
 
 ## 注释
 

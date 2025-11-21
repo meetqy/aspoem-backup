@@ -1,7 +1,7 @@
 ---
 id: li-jiao-ju
-title: 車
-titlePinyin: ju1
+title: 橘
+titlePinyin: ju2
 titleSlug: ju
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天子馭金根，蒲輪闢四門。
-- 五神趨雪至，雙轂似雷奔。
-- 丹鳳棲金轄，非熊載寶軒。
-- 無階忝虛左，珠乘奉王言。
+- 萬里盤根植，千秋布葉繁。
+- 既榮潘子賦，方重陸生言。
+- 玉蘤含霜動，金衣逐吹翻。
+- 願辭湘水曲，長茂上林園。
 
 ## 拼音
 
-- tian1 zi3 yu4 jin1 gen1 ， pu2 lun2 pi4 si4 men2 。
-- wu3 shen2 qu1 xue3 zhi4 ， shuang1 gu3 si4 lei2 ben1 。
-- dan1 feng4 qi1 jin1 xia2 ， fei1 xiong2 zai4 bao3 xuan1 。
-- wu2 jie1 tian3 xu1 zuo3 ， zhu1 cheng2 feng4 wang2 yan2 。
+- wan4 li3 pan2 gen1 zhi2 ， qian1 qiu1 bu4 ye4 fan2 。
+- ji4 rong2 pan1 zi3 fu4 ， fang1 zhong4 lu4 sheng1 yan2 。
+- yu4 hua1 han2 shuang1 dong4 ， jin1 yi1 zhu2 chui1 fan1 。
+- yuan4 ci2 xiang1 shui3 qu3 ， chang2 mao4 shang4 lin2 yuan2 。
 
 ## 注释
 

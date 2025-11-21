@@ -6,31 +6,25 @@ titleSlug: wan-bu
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 手把古人書，閑讀下廣庭。
-- 荒村無車馬，日落雙檜青。
-- 曠然神慮靜，濁俗非所寧。
-- 逍遥出荆扉，竚立瞻郊坰。
-- 須臾暮色至，野水皆晶熒。
-- 却步面空林，遠意更杳冥。
-- 停雲甚可愛，重疊如沙汀。
+- 畎畝意不釋，出門聊散憂。
+- 雨餘山欲近，春半水爭流。
+- 衆籟夕還作，孤懷行轉幽。
+- 溪西篁竹亂，微徑雜歸牛。
 
 ## 拼音
 
-- shou3 ba3 gu3 ren2 shu1 ， xian2 du2 xia4 guang3 ting2 。
-- huang1 cun1 wu2 ju1 ma3 ， ri4 luo4 shuang1 gui4 qing1 。
-- kuang4 ran2 shen2 lü4 jing4 ， zhuo2 su2 fei1 suo3 ning2 。
-- xiao1 yao2 chu1 jing1 fei1 ， zhu4 li4 zhan1 jiao1 jiong1 。
-- xu1 yu2 mu4 se4 zhi4 ， ye3 shui3 jie1 jing1 ying2 。
-- que4 bu4 mian4 kong1 lin2 ， yuan3 yi4 geng4 yao3 ming2 。
-- ting2 yun2 shen4 ke3 ai4 ， zhong4 die2 ru2 sha1 ting1 。
+- quan3 mu3 yi4 bu2 shi4 ， chu1 men2 liao2 san4 you1 。
+- yu3 yu2 shan1 yu4 jin4 ， chun1 ban4 shui3 zheng1 liu2 。
+- zhong4 lai4 xi1 huan2 zuo4 ， gu1 huai2 xing2 zhuan3 you1 。
+- xi1 xi1 huang2 zhu2 luan4 ， wei1 jing4 za2 gui1 niu2 。
 
 ## 注释
 

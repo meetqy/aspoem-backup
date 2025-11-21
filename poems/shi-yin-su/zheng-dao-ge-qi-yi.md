@@ -1,24 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-yi
-title: 證道歌  其一
-titlePinyin: zheng4 dao4 ge1     qi2 yi1
+title: 證道歌  其一○○
+titlePinyin: zheng4 dao4 ge1     qi2 yi1 ○ ○
 titleSlug: zheng-dao-ge-qi-yi
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 普韻連天風月和，大千沙界一音聞，妙契非聲能幾箇。
+- 一超直入如來地，自是眾生不了利。
+- 行住坐卧總皆真，逐末興心成執滯。
 
 ## 拼音
 
-- pu3 yun4 lian2 tian1 feng1 yue4 he2 ， da4 qian1 sha1 jie4 yi4 yin1 wen2 ， miao4 qi4 fei1 sheng1 neng2 ji1 ge4 。
+- yi4 chao1 zhi2 ru4 ru2 lai2 di4 ， zi4 shi4 zhong4 sheng1 bu4 liao3 li4 。
+- xing2 zhu4 zuo4 wo4 zong3 jie1 zhen1 ， zhu2 mo4 xing1 xin1 cheng2 zhi2 zhi4 。
 
 ## 注释
 

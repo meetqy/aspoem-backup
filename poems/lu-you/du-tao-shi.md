@@ -6,25 +6,21 @@ titleSlug: du-tao-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我詩慕淵明，恨不造其微。
-- 退歸亦已晚，飲酒或庶幾。
-- 雨餘鉏瓜壟，月下坐釣磯。
-- 千載無斯人，吾將誰與歸。
+- 陶謝文章造化侔，篇成能使鬼神愁。
+- 君看夏木扶疏句，還許詩家更道不。
 
 ## 拼音
 
-- wo3 shi1 mu4 yuan1 ming2 ， hen4 bu2 zao4 qi2 wei1 。
-- tui4 gui1 yi4 yi3 wan3 ， yin3 jiu3 huo4 shu4 ji1 。
-- yu3 yu2 chu2 gua1 long3 ， yue4 xia4 zuo4 diao4 ji1 。
-- qian1 zai4 wu2 si1 ren2 ， wu2 jiang1 shui2 yu3 gui1 。
+- tao2 xie4 wen2 zhang1 zao4 hua4 mou2 ， pian1 cheng2 neng2 shi3 gui3 shen2 chou2 。
+- jun1 kan4 xia4 mu4 fu2 shu1 ju4 ， huan2 xu1 shi1 jia1 geng4 dao4 bu4 。
 
 ## 注释
 

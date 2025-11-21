@@ -6,10 +6,10 @@ titleSlug: zhou-yi-long-ming-cheng-sheng-shi-ye-fu-lao-huan-xi-yi-ci-pu-yi-gan-q
 author: 員興宗
 authorPinyin: yuan2 xing1 zong1
 authorSlug: yuan-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

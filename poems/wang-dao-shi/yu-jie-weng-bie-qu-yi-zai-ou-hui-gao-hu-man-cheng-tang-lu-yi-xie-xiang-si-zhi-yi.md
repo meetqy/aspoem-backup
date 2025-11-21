@@ -6,10 +6,10 @@ titleSlug: yu-jie-weng-bie-qu-yi-zai-ou-hui-gao-hu-man-cheng-tang-lu-yi-xie-xian
 author: 王道士
 authorPinyin: wang2 dao4 shi0
 authorSlug: wang-dao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫怪游春頻，只被老逼身。
-- 念此樂天語，誠哉辭甚真。
-- 遵行我不倦，治具汝勿嗔。
-- 持炬接迎我，村醉欹冠巾。
+- 范仙最所長，畫牛誠絕筆。
+- 圍模大小定，毛孔不少失。
+- 膊腕與腹胯，一牛動數日。
+- 惟我頗得之，卧起盡纖悉。
 
 ## 拼音
 
-- mo4 guai4 you2 chun1 bin1 ， zhi1 bei4 lao3 bi1 shen1 。
-- nian4 ci3 le4 tian1 yu3 ， cheng2 zai1 ci2 shen4 zhen1 。
-- zun1 xing2 wo3 bu2 juan4 ， zhi4 ju4 ru3 wu4 chen1 。
-- chi2 ju4 jie1 ying2 wo3 ， cun1 zui4 qi1 guan1 jin1 。
+- fan4 xian1 zui4 suo3 chang2 ， hua4 niu2 cheng2 jue2 bi3 。
+- wei2 mo2 da4 xiao3 ding4 ， mao2 kong3 bu4 shao3 shi1 。
+- bo2 wan4 yu3 fu4 kua4 ， yi4 niu2 dong4 shu4 ri4 。
+- wei2 wo3 po1 de2 zhi1 ， wo4 qi3 jin4 xian1 xi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhu
 author: 易元矩
 authorPinyin: yi4 yuan2 ju3
 authorSlug: yi-yuan-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

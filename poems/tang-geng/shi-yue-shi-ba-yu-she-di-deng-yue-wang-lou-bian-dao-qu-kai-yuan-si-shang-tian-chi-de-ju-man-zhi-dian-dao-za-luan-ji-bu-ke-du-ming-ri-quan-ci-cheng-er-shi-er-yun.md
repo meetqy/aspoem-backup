@@ -6,10 +6,10 @@ titleSlug: shi-yue-shi-ba-yu-she-di-deng-yue-wang-lou-bian-dao-qu-kai-yuan-si-sh
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

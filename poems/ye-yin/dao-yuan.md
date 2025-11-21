@@ -6,25 +6,25 @@ titleSlug: dao-yuan
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 園林慳十畝，天賜老生涯。
-- 雪境吟終夜，春時醉一家。
-- 籬疎簪菊種，石古絡藤花。
-- 莫有同盟者，多煎穀雨茶。
+- 菰蒲衛竹居，適意在江湖。
+- 富貴諸公有，清閒舉世無。
+- 四時盤谷序，一景輞川圖。
+- 何處無芳草，堪嗟楚大夫。
 
 ## 拼音
 
-- yuan2 lin2 qian1 shi2 mu3 ， tian1 ci4 lao3 sheng1 ya2 。
-- xue3 jing4 yin2 zhong1 ye4 ， chun1 shi2 zui4 yi4 jia1 。
-- li2 shu1 zan1 ju2 zhong3 ， shi2 gu3 luo4 teng2 hua1 。
-- mo4 you3 tong2 meng2 zhe3 ， duo1 jian1 gu3 yu3 cha2 。
+- gu1 pu2 wei4 zhu2 ju1 ， shi4 yi4 zai4 jiang1 hu2 。
+- fu4 gui4 zhu1 gong1 you3 ， qing1 xian2 ju3 shi4 wu2 。
+- si4 shi2 pan2 gu3 xu4 ， yi4 jing3 wang3 chuan1 tu2 。
+- he2 chu3 wu2 fang1 cao3 ， kan1 jie1 chu3 dai4 fu0 。
 
 ## 注释
 

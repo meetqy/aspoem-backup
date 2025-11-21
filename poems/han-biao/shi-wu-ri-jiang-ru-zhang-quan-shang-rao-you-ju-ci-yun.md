@@ -6,25 +6,21 @@ titleSlug: shi-wu-ri-jiang-ru-zhang-quan-shang-rao-you-ju-ci-yun
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 上郭綿綿山，夾路悠悠水。
-- 尋春問詩翁，興寄豈有已。
-- 持觴得茂宰，抵掌笑行止。
-- 坐中呼烏烏，酒酣徒熱耳。
+- 諸賢送我入章泉，問訊泉頭不老仙。
+- 更把一盃同醉倒，閒忙出處本忻然。
 
 ## 拼音
 
-- shang4 guo1 mian2 mian2 shan1 ， jia1 lu4 you1 you1 shui3 。
-- xun2 chun1 wen4 shi1 weng1 ， xing1 ji4 qi3 you3 yi3 。
-- chi2 shang1 de2 mao4 zai3 ， di3 zhang3 xiao4 xing2 zhi3 。
-- zuo4 zhong1 hu1 wu1 wu1 ， jiu3 han1 tu2 re4 er3 。
+- zhu1 xian2 song4 wo3 ru4 zhang1 quan2 ， wen4 xun4 quan2 tou2 bu4 lao3 xian1 。
+- geng4 ba3 yi4 bei1 tong2 zui4 dao3 ， xian2 mang2 chu1 chu3 ben3 xin1 ran2 。
 
 ## 注释
 

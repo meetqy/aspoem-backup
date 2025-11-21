@@ -6,10 +6,10 @@ titleSlug: you-shi-qiao-er-jue-qi-er
 author: 宋之瑞
 authorPinyin: song4 zhi1 rui4
 authorSlug: song-zhi-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

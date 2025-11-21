@@ -6,10 +6,10 @@ titleSlug: ji-mu-ting
 author: 徐次鐸
 authorPinyin: xu2 ci4 duo2
 authorSlug: xu-ci-duo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

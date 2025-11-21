@@ -6,25 +6,25 @@ titleSlug: ci-yun-zhao-shuai-si-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 藩方人奠枕，楚尾鐵爲城。
-- 曉日熙仁惠，春雷殷政聲。
-- 護邊一李勣，增戶幾王成。
-- 笑指瓊花露，如公徹底清。
+- 酒會頻頻詩課忙，從公祇爾了星霜。
+- 虛舟自昔安驚浪，左角從渠赴敵場。
+- 戀月每忘寒夜永，寄梅渾訝驛書香。
+- 吟邊更厭秋蛩苦，滿聽青鸞嘯女床。
 
 ## 拼音
 
-- fan1 fang1 ren2 dian4 zhen3 ， chu3 wei3 tie3 wei2 cheng2 。
-- xiao3 ri4 xi1 ren2 hui4 ， chun1 lei2 yin1 zheng4 sheng1 。
-- hu4 bian1 yi4 li3 ji4 ， zeng1 hu4 ji1 wang2 cheng2 。
-- xiao4 zhi3 qiong2 hua1 lu4 ， ru2 gong1 che4 di3 qing1 。
+- jiu3 hui4 bin1 bin1 shi1 ke4 mang2 ， cong2 gong1 qi2 er3 le0 xing1 shuang1 。
+- xu1 zhou1 zi4 xi1 an1 jing1 lang4 ， zuo3 jiao3 cong2 qu2 fu4 di2 chang3 。
+- lian4 yue4 mei3 wang4 han2 ye4 yong3 ， ji4 mei2 hun2 ya4 yi4 shu1 xiang1 。
+- yin2 bian1 geng4 yan4 qiu1 qiong2 ku3 ， man3 ting1 qing1 luan2 xiao4 nü3 chuang2 。
 
 ## 注释
 

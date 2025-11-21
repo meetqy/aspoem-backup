@@ -6,25 +6,25 @@ titleSlug: man-xing-yi-shou
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 經行中野多新塚，檢點高陽少酒徒。
-- 縱不能陪雍畤禮，尚堪添入洛英圖。
-- 愛東臯子生沉醉，慕北山公死謚愚。
-- 頼有小詩自陶寫，何須著論學王符。
+- 生在重華內禪前，紅顔倏忽變霜顛。
+- 吾雖後輩識前輩，彼以小年疑大年。
+- 殤子幾曾知壽夭，死人安可語神仙。
+- 何須求入耆英社，作老農夫也自賢。
 
 ## 拼音
 
-- jing1 xing2 zhong1 ye3 duo1 xin1 zhong3 ， jian3 dian3 gao1 yang2 shao3 jiu3 tu2 。
-- zong4 bu4 neng2 pei2 yong1 zhi4 li3 ， shang4 kan1 tian1 ru4 luo4 ying1 tu2 。
-- ai4 dong1 gao1 zi3 sheng1 chen2 zui4 ， mu4 bei3 shan1 gong1 si3 shi4 yu2 。
-- lai4 you3 xiao3 shi1 zi4 tao2 xie3 ， he2 xu1 zhu4 lun4 xue2 wang2 fu2 。
+- sheng1 zai4 zhong4 hua2 nei4 shan4 qian2 ， hong2 yan2 shu1 hu1 bian4 shuang1 dian1 。
+- wu2 sui1 hou4 bei4 shi2 qian2 bei4 ， bi3 yi3 xiao3 nian2 yi2 da4 nian2 。
+- shang1 zi3 ji1 ceng2 zhi1 shou4 yao1 ， si3 ren2 an1 ke3 yu3 shen2 xian1 。
+- he2 xu1 qiu2 ru4 qi2 ying1 she4 ， zuo4 lao3 nong2 fu1 ye3 zi4 xian2 。
 
 ## 注释
 

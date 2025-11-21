@@ -6,10 +6,10 @@ titleSlug: tao-yuan-guan
 author: 章穎
 authorPinyin: zhang1 ying3
 authorSlug: zhang-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

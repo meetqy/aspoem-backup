@@ -6,10 +6,10 @@ titleSlug: wu-tai-gu-bai
 author: 趙崇璠
 authorPinyin: zhao4 chong2 fan2
 authorSlug: zhao-chong-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

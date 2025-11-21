@@ -6,25 +6,21 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-si-ba
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨潤枯焦，掃盡流金暑。
-- 薰風殿閣凉，諸佛出身處。
-- 堪笑勤川無義語，引得花木瓜，變成爛苦瓠。
-- 走徧衡梅賣與誰，一十三人聲怨皷。
+- 路透清波，山橫翠壁。
+- 樓閣門開，從這裡入。
 
 ## 拼音
 
-- yi4 yu3 run4 ku1 jiao1 ， sao3 jin4 liu2 jin1 shu3 。
-- xun1 feng1 dian4 ge2 liang2 ， zhu1 fo2 chu1 shen1 chu3 。
-- kan1 xiao4 qin2 chuan1 wu2 yi4 yu3 ， yin3 de2 hua1 mu4 gua1 ， bian4 cheng2 lan4 ku3 hu4 。
-- zou3 bian4 heng2 mei2 mai4 yu3 shui2 ， yi1 shi2 san1 ren2 sheng1 yuan4 gu3 。
+- lu4 tou4 qing1 bo1 ， shan1 heng2 cui4 bi4 。
+- lou2 ge2 men2 kai1 ， cong2 zhe4 li3 ru4 。
 
 ## 注释
 

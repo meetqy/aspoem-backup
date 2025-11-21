@@ -6,10 +6,10 @@ titleSlug: song-wang-shan-ren-gui-yin
 author: 釋惠渙
 authorPinyin: shi4 hui4 huan4
 authorSlug: shi-hui-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

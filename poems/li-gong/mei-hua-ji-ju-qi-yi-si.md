@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-si
-title: 梅花集句  其一四
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 si4
+title: 梅花集句  其一四○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 si4 ○
 titleSlug: mei-hua-ji-ju-qi-yi-si
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 琳琅觸目路人驚，上有黄鸝深樹鳴。
-- 喚起一聲腸斷處，枝頭時見子初成。
+- 不知雨後更精神，與水相蒸暖盎春。
+- 獨自捲簾樓上望，夕陽吟殺倚樓人。
 
 ## 拼音
 
-- lin2 lang2 chu4 mu4 lu4 ren2 jing1 ， shang4 you3 huang2 li2 shen1 shu4 ming2 。
-- huan4 qi3 yi4 sheng1 chang2 duan4 chu3 ， zhi1 tou2 shi2 jian4 zi3 chu1 cheng2 。
+- bu4 zhi1 yu3 hou4 geng4 jing1 shen2 ， yu3 shui3 xiang1 zheng1 nuan3 ang4 chun1 。
+- du2 zi4 juan3 lian2 lou2 shang4 wang4 ， xi1 yang2 yin2 sha1 yi3 lou2 ren2 。
 
 ## 注释
 

@@ -9,22 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 歷覽前賢國與家，成由勤儉破由奢。
-- 何須琥珀方爲枕，豈得真珠始是車。
-- 運去不逢青海馬，力窮難拔蜀山蛇。
-- 幾人曾預南薰曲，終古蒼梧哭翠華。
+- 北湖南埭水漫漫，一片降旗百尺竿。
+- 三百年間同曉夢，鍾山何處有龍盤。
 
 ## 拼音
 
-- li4 lan3 qian2 xian2 guo2 yu3 jia1 ， cheng2 you2 qin2 jian3 po4 you2 she1 。
-- he2 xu1 hu3 po4 fang1 wei2 zhen3 ， qi3 de2 zhen1 zhu1 shi3 shi4 ju1 。
-- yun4 qu4 bu4 feng2 qing1 hai3 ma3 ， li4 qiong2 nan2 ba2 shu3 shan1 she2 。
-- ji1 ren2 ceng2 yu4 nan2 xun1 qu3 ， zhong1 gu3 cang1 wu2 ku1 cui4 hua2 。
+- bei3 hu2 nan2 dai4 shui3 man4 man4 ， yi2 pian4 jiang4 qi2 bai3 chi3 gan1 。
+- san1 bai3 nian2 jian4 tong2 xiao3 meng4 ， zhong1 shan1 he2 chu3 you3 long2 pan2 。
 
 ## 注释
 

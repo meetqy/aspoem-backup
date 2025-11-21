@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠色青濃自不堪，敲冰柔葉兩相參。
-- 宮人因出方傳法，迄後民間識內藍。
+- 畫鷁閑登錦纜開，蘭橈飛迅水縈廻。
+- 龍頭爍爍紅旗動，驚起沙鷗掠岸來。
 
 ## 拼音
 
-- cui4 se4 qing1 nong2 zi4 bu4 kan1 ， qiao1 bing1 rou2 ye4 liang3 xiang1 can1 。
-- gong1 ren2 yin1 chu1 fang1 chuan2 fa3 ， qi4 hou4 min2 jian4 shi2 nei4 lan2 。
+- hua4 yi4 xian2 deng1 jin3 lan3 kai1 ， lan2 rao2 fei1 xun4 shui3 ying2 hui2 。
+- long2 tou2 shuo4 shuo4 hong2 qi2 dong4 ， jing1 qi3 sha1 ou1 lüe4 an4 lai2 。
 
 ## 注释
 

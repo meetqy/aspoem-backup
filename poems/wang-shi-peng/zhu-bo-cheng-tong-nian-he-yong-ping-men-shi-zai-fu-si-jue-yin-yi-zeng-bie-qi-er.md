@@ -6,10 +6,10 @@ titleSlug: zhu-bo-cheng-tong-nian-he-yong-ping-men-shi-zai-fu-si-jue-yin-yi-zeng
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

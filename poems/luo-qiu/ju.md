@@ -9,16 +9,22 @@ authorSlug: luo-qiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 窗前遠岫懸生碧，簾外殘霞挂熟紅。
+- 雪中放馬朝尋跡，雲外聞鴻夜射聲。
+- 龍鱗柳弱垂朝露，麈尾松高揮夜風。
+- 猿隔亂雲啼暮嶺，鴈和微雨下寒湖。
+- 夜渡酒酣千頃月，晝樓碁罷一窗山。
 
 ## 拼音
 
-- chuang1 qian2 yuan3 xiu4 xuan2 sheng1 bi4 ， lian2 wai4 can2 xia2 gua4 shu2 hong2 。
+- xue3 zhong1 fang4 ma3 chao2 xun2 ji4 ， yun2 wai4 wen2 hong2 ye4 she4 sheng1 。
+- long2 lin2 liu3 ruo4 chui2 zhao1 lu4 ， zhu3 wei3 song1 gao1 hui1 ye4 feng1 。
+- yuan2 ge2 luan4 yun2 ti2 mu4 ling3 ， yan4 he2 wei1 yu3 xia4 han2 hu2 。
+- ye4 du4 jiu3 han1 qian1 qing3 yue4 ， zhou4 lou2 qi2 ba4 yi4 chuang1 shan1 。
 
 ## 注释
 

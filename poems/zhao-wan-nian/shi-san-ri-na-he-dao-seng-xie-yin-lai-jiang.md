@@ -6,10 +6,10 @@ titleSlug: shi-san-ri-na-he-dao-seng-xie-yin-lai-jiang
 author: 趙萬年
 authorPinyin: zhao4 wan4 nian2
 authorSlug: zhao-wan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

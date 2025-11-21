@@ -9,7 +9,7 @@ authorSlug: xiao-pi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
@@ -19,20 +19,22 @@ tags: []
 - 死者人所難，一死鴻毛輕。
 - 壯哉二子爲，留得不死名。
 - 曹娥以父死，年齡童未成。
-- 抱屍出洪瀾，非可二子并。
+- 抱屍出洪瀾，非可二子並。
 - 二子諫不從，齊秦韓魏征。
 - 娥若不之死，父葬鱣與鯨。
 - 二子死以介，娥死以孝誠。
 - 於今會稽人，事之如事生。
 - 娥若生堯時，舜不妻女英。
-- 娥若逢孔子，娥名書孝經。
-- 娥父若罹辜，豈止爲緹縈。
+- 娥若逢孔子，娥名書《孝經》。
+- 娥父若羅辜，豈止爲緹縈。
 - 蔡邕不知娥，但愛碑上銘。
 - 我來拜祠下，古木寒雲橫。
 - 往往大江水，猶作哀哀鳴。
-- 安得娥有知，爲我神陰靈。
+- 安得娥有知，爲我神用靈。
 - 鼓此大江波，注入四瀆平。
 - 洗濯天下心，皆行娥所行。
+- （見《會稽掇英總集》卷八。
+- ）。
 
 ## 拼音
 
@@ -47,14 +49,16 @@ tags: []
 - er4 zi3 si3 yi3 jie4 ， e2 si3 yi3 xiao4 cheng2 。
 - wu1 jin1 hui4 ji1 ren2 ， shi4 zhi1 ru2 shi4 sheng1 。
 - e2 ruo4 sheng1 yao2 shi2 ， shun4 bu4 qi1 nü3 ying1 。
-- e2 ruo4 feng2 kong3 zi3 ， e2 ming2 shu1 xiao4 jing1 。
-- e2 fu4 ruo4 li2 gu1 ， qi3 zhi3 wei2 ti2 ying2 。
+- e2 ruo4 feng2 kong3 zi3 ， e2 ming2 shu1 《 xiao4 jing1 》。
+- e2 fu4 ruo4 luo2 gu1 ， qi3 zhi3 wei2 ti2 ying2 。
 - cai4 yong1 bu4 zhi1 e2 ， dan4 ai4 bei1 shang4 ming2 。
 - wo3 lai2 bai4 ci2 xia4 ， gu3 mu4 han2 yun2 heng2 。
 - wang3 wang3 da4 jiang1 shui3 ， you2 zuo4 ai1 ai1 ming2 。
-- an1 de2 e2 you3 zhi1 ， wei2 wo3 shen2 yin1 ling2 。
+- an1 de2 e2 you3 zhi1 ， wei2 wo3 shen2 yong4 ling2 。
 - gu3 ci3 da4 jiang1 bo1 ， zhu4 ru4 si4 du2 ping2 。
 - xi3 zhuo2 tian1 xia4 xin1 ， jie1 xing2 e2 suo3 xing2 。
+- （ jian4 《 hui4 ji1 duo1 ying1 zong3 ji2 》 juan4 ba1 。
+- ）。
 
 ## 注释
 

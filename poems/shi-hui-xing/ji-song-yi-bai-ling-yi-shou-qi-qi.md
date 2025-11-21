@@ -1,28 +1,26 @@
 ---
 id: shi-hui-xing-ji-song-yi-bai-ling-yi-shou-qi-qi
-title: 偈頌一百零一首  其七
-titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 qi1
+title: 偈頌一百零一首  其七○
+titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-ling-yi-shou-qi-qi
 author: 釋慧性
 authorPinyin: shi4 hui4 xing4
 authorSlug: shi-hui-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有語中無語，達磨九年空面壁。
-- 無語中有語，空生巖畔花狼藉。
-- 南斗八，北斗七。
+- 點撿將來，罪過不少。
+- 只憑拄杖，一切靠倒。
 
 ## 拼音
 
-- you3 yu3 zhong1 wu2 yu3 ， da2 mo2 jiu3 nian2 kong1 mian4 bi4 。
-- wu2 yu3 zhong1 you3 yu3 ， kong1 sheng1 yan2 pan4 hua1 lang2 ji2 。
-- nan2 dou3 ba1 ， bei3 dou3 qi1 。
+- dian3 jian3 jiang1 lai2 ， zui4 guo4 bu4 shao3 。
+- zhi1 ping2 zhu3 zhang4 ， yi2 qie4 kao4 dao3 。
 
 ## 注释
 

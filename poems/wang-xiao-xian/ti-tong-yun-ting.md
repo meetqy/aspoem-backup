@@ -6,10 +6,10 @@ titleSlug: ti-tong-yun-ting
 author: 王孝先
 authorPinyin: wang2 xiao4 xian1
 authorSlug: wang-xiao-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

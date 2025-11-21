@@ -9,18 +9,20 @@ authorSlug: yuan-jie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 聖德至深兮，奫奫如淵。
-- 生類娭娭兮，孰知其然。
+- 植植萬物兮，滔滔根莖。
+- 五德涵柔兮，渢渢而生。
+- 其生如何兮秞秞，天下皆自我君兮化成。
 
 ## 拼音
 
-- sheng4 de2 zhi4 shen1 xi1 ， yun1 yun1 ru2 yuan1 。
-- sheng1 lei4 xi1 xi1 xi1 ， shu2 zhi1 qi2 ran2 。
+- zhi2 zhi2 wan4 wu4 xi1 ， tao1 tao1 gen1 jing4 。
+- wu3 de2 han2 rou2 xi1 ， feng1 feng1 er2 sheng1 。
+- qi2 sheng1 ru2 he2 xi1 you2 you2 ， tian1 xia4 jie1 zi4 wo3 jun1 xi1 hua4 cheng2 。
 
 ## 注释
 

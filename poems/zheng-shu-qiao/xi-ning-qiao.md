@@ -6,10 +6,10 @@ titleSlug: xi-ning-qiao
 author: 鄭叔僑
 authorPinyin: zheng4 shu1 qiao2
 authorSlug: zheng-shu-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

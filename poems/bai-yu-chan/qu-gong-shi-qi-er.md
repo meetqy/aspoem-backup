@@ -1,26 +1,26 @@
 ---
 id: bai-yu-chan-qu-gong-shi-qi-er
-title: 曲肱詩  其二
-titlePinyin: qu1 gong1 shi1     qi2 er4
+title: 曲肱詩  其二○
+titlePinyin: qu1 gong1 shi1     qi2 er4 ○
 titleSlug: qu-gong-shi-qi-er
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉皇有敕問神霄，誰去騎龍亂作妖。
-- 自別雷城一迴首，人間天上已相遼。
+- 桑田變海海成田，這話教人信也難。
+- 只有一般輸我處，君王未有此清閑。
 
 ## 拼音
 
-- yu4 huang2 you3 chi4 wen4 shen2 xiao1 ， shui2 qu4 qi2 long2 luan4 zuo4 yao1 。
-- zi4 bie2 lei2 cheng2 yi4 hui2 shou3 ， ren2 jian4 tian1 shang4 yi3 xiang1 liao2 。
+- sang1 tian2 bian4 hai3 hai3 cheng2 tian2 ， zhe4 hua4 jiao1 ren2 xin4 ye3 nan2 。
+- zhi3 you3 yi4 ban1 shu1 wo3 chu3 ， jun1 wang2 wei4 you3 ci3 qing1 xian2 。
 
 ## 注释
 

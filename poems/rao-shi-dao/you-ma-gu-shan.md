@@ -6,10 +6,10 @@ titleSlug: you-ma-gu-shan
 author: 饒師道
 authorPinyin: rao2 shi1 dao4
 authorSlug: rao-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

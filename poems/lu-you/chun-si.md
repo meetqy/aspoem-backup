@@ -6,25 +6,25 @@ titleSlug: chun-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 七十老翁身退耕，可憐未減舊風情。
-- 典衣取酒那論價，秉燭看花每到明。
-- 江浦時時逢畫檝，寺樓處處聽新鶯。
-- 此生無復陽關夢，不怕樽前唱渭城。
+- 兀兀治聾酒未醒，霏霏潑火雨初晴。
+- 愁看入戶桃花片，閑聽爭巢燕子聲。
+- 百疾侵陵成老大，一春轉盼又清明。
+- 蘭亭禹廟渾如昨，回首兒時似隔生。
 
 ## 拼音
 
-- qi1 shi2 lao3 weng1 shen1 tui4 geng1 ， ke3 lian2 wei4 jian3 jiu4 feng1 qing2 。
-- dian3 yi1 qu3 jiu3 na4 lun4 jia4 ， bing3 zhu2 kan4 hua1 mei3 dao4 ming2 。
-- jiang1 pu3 shi2 shi2 feng2 hua4 ji2 ， si4 lou2 chu3 chu3 ting1 xin1 ying1 。
-- ci3 sheng1 wu2 fu4 yang2 guan1 meng4 ， bu2 pa4 zun1 qian2 chang4 wei4 cheng2 。
+- wu4 wu4 zhi4 long2 jiu3 wei4 xing3 ， fei1 fei1 po1 huo3 yu3 chu1 qing2 。
+- chou2 kan4 ru4 hu4 tao2 hua1 pian4 ， xian2 ting1 zheng1 chao2 yan4 zi0 sheng1 。
+- bai3 ji2 qin1 ling2 cheng2 lao3 da4 ， yi4 chun1 zhuan3 pan4 you4 qing1 ming2 。
+- lan2 ting2 yu3 miao4 hun2 ru2 zuo2 ， hui2 shou3 er2 shi2 si4 ge2 sheng1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: guo-wu-hou-miao
 author: 陳古
 authorPinyin: chen2 gu3
 authorSlug: chen-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

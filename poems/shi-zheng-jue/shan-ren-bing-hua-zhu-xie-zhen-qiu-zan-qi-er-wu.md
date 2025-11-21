@@ -1,30 +1,28 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-wu
-title: 禪人并化主寫真求贊  其二五
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 wu3
+title: 禪人并化主寫真求贊  其二五○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 wu3 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-wu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 雲山之姿，水月之像。
-- 大海之容，太虛之量。
-- 受也的的無心，應也頭頭離相。
-- 隨緣有照兮妙而不痕，徹底亡依兮空而不蕩。
+- 天之空兮星斗寒，海之縮兮潮波還。
+- 推月之蟾止三脚，養霧之豹窺一斑。
+- 拈出門門問相識，知音點頭應不慳。
 
 ## 拼音
 
-- yun2 shan1 zhi1 zi1 ， shui3 yue4 zhi1 xiang4 。
-- da4 hai3 zhi1 rong2 ， tai4 xu1 zhi1 liang2 。
-- shou4 ye3 de0 de0 wu2 xin1 ， ying1 ye3 tou2 tou2 li2 xiang1 。
-- sui2 yuan2 you3 zhao4 xi1 miao4 er2 bu4 hen2 ， che4 di3 wang2 yi1 xi1 kong1 er2 bu2 dang4 。
+- tian1 zhi1 kong1 xi1 xing1 dou3 han2 ， hai3 zhi1 suo1 xi1 chao2 bo1 huan2 。
+- tui1 yue4 zhi1 chan2 zhi3 san1 jiao3 ， yang3 wu4 zhi1 bao4 kui1 yi4 ban1 。
+- nian1 chu1 men2 men2 wen4 xiang1 shi2 ， zhi1 yin1 dian3 tou2 ying1 bu4 qian1 。
 
 ## 注释
 

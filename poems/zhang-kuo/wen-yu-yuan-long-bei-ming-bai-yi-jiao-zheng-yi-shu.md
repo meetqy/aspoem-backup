@@ -6,10 +6,10 @@ titleSlug: wen-yu-yuan-long-bei-ming-bai-yi-jiao-zheng-yi-shu
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-shang-hai-tang-san-jue-qi-er
-title: 賞海棠三絕・其二
-titlePinyin: shang3 hai3 tang2 san1 jue2・qi2 er4
+title: 賞海棠三絕  其二
+titlePinyin: shang3 hai3 tang2 san1 jue2     qi2 er4
 titleSlug: shang-hai-tang-san-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

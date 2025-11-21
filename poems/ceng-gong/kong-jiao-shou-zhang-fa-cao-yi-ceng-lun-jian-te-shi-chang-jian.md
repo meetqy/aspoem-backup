@@ -6,10 +6,10 @@ titleSlug: kong-jiao-shou-zhang-fa-cao-yi-ceng-lun-jian-te-shi-chang-jian
 author: 曾鞏
 authorPinyin: ceng2 gong3
 authorSlug: ceng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

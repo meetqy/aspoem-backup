@@ -1,6 +1,6 @@
 ---
 id: tang-yue-zai-ci-qian-yun-dai-mei-da
-title: 再次前韻代梅答
+title: 再次前韻代梅荅
 titlePinyin: zai4 ci4 qian2 yun4 dai4 mei2 da2
 titleSlug: zai-ci-qian-yun-dai-mei-da
 author: 湯悅
@@ -16,7 +16,7 @@ tags: []
 
 - 託植經多稔，頃筐向盛時。
 - 枝條雖已故，情分不曾移。
-- 莫向階前老，還同鏡裏衰。
+- 莫向堦前老，還同鏡裏衰。
 - 更應憐墮葉，殘吹挂蟲絲。
 
 ## 拼音

@@ -6,25 +6,25 @@ titleSlug: wei-zuo
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒燈夢初覺，危坐收此心。
-- 心亦合自收，無念即清深。
-- 舉足塵埃起，盈顛霜雪侵。
-- 枯禪縛意馬，練養無胎禽。
+- 行藏何事老相侵，流水高山自古今。
+- 强把詩書連夜讀，喚回燈火十年心。
+- 人間富貴非難有，聖處工夫索愈深。
+- 不覺雨聲吹入耳，秋風窗下一沉吟。
 
 ## 拼音
 
-- han2 deng1 meng4 chu1 jue2 ， wei1 zuo4 shou1 ci3 xin1 。
-- xin1 yi4 he2 zi4 shou1 ， wu2 nian4 ji2 qing1 shen1 。
-- ju3 zu2 chen2 ai1 qi3 ， ying2 dian1 shuang1 xue3 qin1 。
-- ku1 shan4 fu4 yi4 ma3 ， lian4 yang3 wu2 tai1 qin2 。
+- xing2 cang2 he2 shi4 lao3 xiang4 qin1 ， liu2 shui3 gao1 shan1 zi4 gu3 jin1 。
+- qiang2 ba3 shi1 shu1 lian2 ye4 du2 ， huan4 hui2 deng1 huo3 shi2 nian2 xin1 。
+- ren2 jian4 fu4 gui4 fei1 nan2 you3 ， sheng4 chu3 gong1 fu0 suo3 yu4 shen1 。
+- bu4 jue2 yu3 sheng1 chui1 ru4 er3 ， qiu1 feng1 chuang1 xia4 yi4 chen2 yin2 。
 
 ## 注释
 

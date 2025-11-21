@@ -6,10 +6,10 @@ titleSlug: he-du-yun-shi-ba-xia-di-nuan-jie-wu-yu-zhong-tu-yi-an-ran-you-gan-shi
 author: 王周
 authorPinyin: wang2 zhou1
 authorSlug: wang-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

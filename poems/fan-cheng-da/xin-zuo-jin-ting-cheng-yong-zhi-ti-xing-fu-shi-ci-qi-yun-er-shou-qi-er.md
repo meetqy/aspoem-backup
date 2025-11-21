@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-xin-zuo-jin-ting-cheng-yong-zhi-ti-xing-fu-shi-ci-qi-yun-er-shou-qi-er
-title: 新作錦亭程詠之提刑賦詩次其韻二首・其二
-titlePinyin: xin1 zuo4 jin3 ting2 cheng2 yong3 zhi1 ti2 xing2 fu4 shi1 ci4 qi2 yun4 er4 shou3・qi2 er4
+title: 新作錦亭程詠之提刑賦詩次其韻二首  其二
+titlePinyin: xin1 zuo4 jin3 ting2 cheng2 yong3 zhi1 ti2 xing2 fu4 shi1 ci4 qi2 yun4 er4 shou3     qi2 er4
 titleSlug: xin-zuo-jin-ting-cheng-yong-zhi-ti-xing-fu-shi-ci-qi-yun-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

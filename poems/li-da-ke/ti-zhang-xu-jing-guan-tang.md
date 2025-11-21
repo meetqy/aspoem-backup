@@ -6,10 +6,10 @@ titleSlug: ti-zhang-xu-jing-guan-tang
 author: 李達可
 authorPinyin: li3 da2 ke3
 authorSlug: li-da-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

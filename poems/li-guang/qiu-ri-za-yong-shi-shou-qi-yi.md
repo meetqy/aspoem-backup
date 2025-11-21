@@ -1,26 +1,26 @@
 ---
 id: li-guang-qiu-ri-za-yong-shi-shou-qi-yi
-title: 秋日雜詠十首  其一
-titlePinyin: qiu1 ri4 za2 yong3 shi2 shou3     qi2 yi1
+title: 秋日雜詠十首  其一○
+titlePinyin: qiu1 ri4 za2 yong3 shi2 shou3     qi2 yi1 ○
 titleSlug: qiu-ri-za-yong-shi-shou-qi-yi
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三載幽棲養性靈，焚香默坐萬緣輕。
-- 空庭野草萋萋碧，更覺秋來少送迎。
+- 可笑餘生習氣纒，時時吟詠偶盈編。
+- 心閑身老趨平淡，不是新來效樂天。
 
 ## 拼音
 
-- san1 zai4 you1 qi1 yang3 xing4 ling2 ， fen2 xiang1 mo4 zuo4 wan4 yuan2 qing1 。
-- kong1 ting2 ye3 cao3 qi1 qi1 bi4 ， geng4 jue2 qiu1 lai2 shao3 song4 ying2 。
+- ke3 xiao4 yu2 sheng1 xi2 qi4 chan2 ， shi2 shi2 yin2 yong3 ou3 ying2 bian1 。
+- xin1 xian2 shen1 lao3 qu1 ping2 dan4 ， bu2 shi4 xin1 lai2 xiao4 le4 tian1 。
 
 ## 注释
 

@@ -6,25 +6,33 @@ titleSlug: gan-qiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西風繁杵擣征衣，客子關情正此時。
-- 萬事從初聊復爾，百年彊半欲何之。
-- 畫堂蟋蟀怨清夜，金井梧桐辭故枝。
-- 一枕凄涼眠不得，呼燈起作感秋詩。
+- 秋色關河外，秋聲天地間。
+- 壯士感此時，朝鏡凋朱顔。
+- 一身寄空谷，萬里夢天山。
+- 噫嗚怒眥裂，憤激悲涕潸。
+- 古來真龍駒，未必置天閑。
+- 長松倒澗壑，委棄同蓁菅。
+- 得志未可測，談笑濟時艱。
+- 凜然出師表，一字不可刪。
 
 ## 拼音
 
-- xi1 feng1 fan2 chu3 dao3 zheng1 yi1 ， ke4 zi3 guan1 qing2 zheng4 ci3 shi2 。
-- wan4 shi4 cong2 chu1 liao2 fu4 er3 ， bai3 nian2 qiang2 ban4 yu4 he2 zhi1 。
-- hua4 tang2 xi1 shuai4 yuan4 qing1 ye4 ， jin1 jing3 wu2 tong2 ci2 gu4 zhi1 。
-- yi4 zhen3 qi1 liang2 mian2 bu4 de2 ， hu1 deng1 qi3 zuo4 gan3 qiu1 shi1 。
+- qiu1 se4 guan1 he2 wai4 ， qiu1 sheng1 tian1 di4 jian4 。
+- zhuang4 shi4 gan3 ci3 shi2 ， chao2 jing4 diao1 zhu1 yan2 。
+- yi4 shen1 ji4 kong1 gu3 ， wan4 li3 meng4 tian1 shan1 。
+- yi1 wu1 nu4 zi4 lie4 ， fen4 ji1 bei1 ti4 shan1 。
+- gu3 lai2 zhen1 long2 ju1 ， wei4 bi4 zhi4 tian1 xian2 。
+- chang2 song1 dao3 jian4 he4 ， wei3 qi4 tong2 zhen1 jian1 。
+- de2 zhi4 wei4 ke3 ce4 ， tan2 xiao4 ji4 shi2 jian1 。
+- lin3 ran2 chu1 shi1 biao3 ， yi2 zi4 bu4 ke3 shan1 。
 
 ## 注释
 

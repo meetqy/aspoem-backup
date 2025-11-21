@@ -6,10 +6,10 @@ titleSlug: liao-xian-yan
 author: 吳世範
 authorPinyin: wu2 shi4 fan4
 authorSlug: wu-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

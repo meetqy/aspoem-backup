@@ -6,25 +6,21 @@ titleSlug: ye-si
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江邊鸕鷀鳴，栖我屋南樹。
-- 夜深風霜寒，呼鳴自相語。
-- 樹頭鴉翼動，樹杪雁行度。
-- 朦朧見江山，一一翻飛去。
+- 萬聲沉寂漏丁東，金井欄干上暗空。
+- 半夜西風人未覺，秋聲先報草根蟲。
 
 ## 拼音
 
-- jiang1 bian1 lu2 ci2 ming2 ， qi1 wo3 wu1 nan2 shu4 。
-- ye4 shen1 feng1 shuang1 han2 ， hu1 ming2 zi4 xiang1 yu3 。
-- shu4 tou2 ya1 yi4 dong4 ， shu4 miao3 yan4 hang2 du4 。
-- meng2 long2 jian4 jiang1 shan1 ， yi1 yi1 fan1 fei1 qu4 。
+- wan4 sheng1 chen2 ji4 lou4 ding1 dong1 ， jin1 jing3 lan2 gan1 shang4 an4 kong1 。
+- ban4 ye4 xi1 feng1 ren2 wei4 jue2 ， qiu1 sheng1 xian1 bao4 cao3 gen1 chong2 。
 
 ## 注释
 

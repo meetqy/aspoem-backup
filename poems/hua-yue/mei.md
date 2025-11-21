@@ -6,29 +6,25 @@ titleSlug: mei
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衰蘭枯荷了秋色，幾向寒梢問消息。
-- 溪橋交馬斷腸時，翠袖佳人日暮歸。
-- 玉面亭亭漢宮樣，一見風流慰心賞。
-- 寒標孤絕太無情，誰爲移春上玉京。
-- 月華凄切霜華白，夜半飄香度簾額。
-- 寄聲橫笛且休吹，愁殺江南未歸客。
+- 一年無處覓春光，杖策尋春特地忙。
+- 牆角數枝偏冷淡，江頭千樹欲昏黄。
+- 梢橫波面月摇影，花落樽前酒带香。
+- 更仗西湖老居士，爲予收拾付詩囊。
 
 ## 拼音
 
-- shuai1 lan2 ku1 he2 le0 qiu1 se4 ， ji1 xiang4 han2 shao1 wen4 xiao1 xi0 。
-- xi1 qiao2 jiao1 ma3 duan4 chang2 shi2 ， cui4 xiu4 jia1 ren2 ri4 mu4 gui1 。
-- yu4 mian4 ting2 ting2 han4 gong1 yang4 ， yi2 jian4 feng1 liu2 wei4 xin1 shang3 。
-- han2 biao1 gu1 jue2 tai4 wu2 qing2 ， shui2 wei2 yi2 chun1 shang4 yu4 jing1 。
-- yue4 hua2 qi1 qie4 shuang1 hua2 bai2 ， ye4 ban4 piao1 xiang1 du4 lian2 e2 。
-- ji4 sheng1 heng2 di2 qie3 xiu1 chui1 ， chou2 sha1 jiang1 nan2 wei4 gui1 ke4 。
+- yi4 nian2 wu2 chu3 mi4 chun1 guang1 ， zhang4 ce4 xun2 chun1 te4 di4 mang2 。
+- qiang2 jiao3 shu4 zhi1 pian1 leng3 dan4 ， jiang1 tou2 qian1 shu4 yu4 hun1 huang2 。
+- shao1 heng2 bo1 mian4 yue4 yao2 ying3 ， hua1 luo4 zun1 qian2 jiu3 dai4 xiang1 。
+- geng4 zhang4 xi1 hu2 lao3 ju1 shi4 ， wei2 yu3 shou1 shi0 fu4 shi1 nang2 。
 
 ## 注释
 

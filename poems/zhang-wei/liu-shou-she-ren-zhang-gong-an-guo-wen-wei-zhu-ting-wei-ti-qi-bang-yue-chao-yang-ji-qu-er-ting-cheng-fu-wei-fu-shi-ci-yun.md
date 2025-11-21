@@ -6,10 +6,10 @@ titleSlug: liu-shou-she-ren-zhang-gong-an-guo-wen-wei-zhu-ting-wei-ti-qi-bang-yu
 author: 張維
 authorPinyin: zhang1 wei2
 authorSlug: zhang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

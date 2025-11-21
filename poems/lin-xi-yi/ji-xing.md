@@ -6,25 +6,25 @@ titleSlug: ji-xing
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄花未有紅花盡，秋思撩人欲上眉。
-- 耕不逢年難靠筆，窮知有命錯冤詩。
-- 旋沽來酒聊供客，留讀殘書要付兒。
-- 猶向醉時歌衮衮，少陵雖老有些癡。
+- 生涯薄薄仰田疇，破敝猶存晏子裘。
+- 聊向太虛中過活，何曾自已外馳求。
+- 狂吟時有銜盃興，退省知無障扇羞。
+- 老守殘書差得趣，人間別一種風流。
 
 ## 拼音
 
-- huang2 hua1 wei4 you3 hong2 hua1 jin4 ， qiu1 si1 liao2 ren2 yu4 shang4 mei2 。
-- geng1 bu4 feng2 nian2 nan2 kao4 bi3 ， qiong2 zhi1 you3 ming4 cuo4 yuan1 shi1 。
-- xuan2 gu1 lai2 jiu3 liao2 gong4 ke4 ， liu2 du2 can2 shu1 yao4 fu4 er2 。
-- you2 xiang4 zui4 shi2 ge1 gun3 gun3 ， shao3 ling2 sui1 lao3 you3 xie1 chi1 。
+- sheng1 ya2 bao2 bao2 yang3 tian2 chou2 ， po4 bi4 you2 cun2 yan4 zi3 qiu2 。
+- liao2 xiang4 tai4 xu1 zhong1 guo4 huo2 ， he2 ceng2 zi4 yi3 wai4 chi2 qiu2 。
+- kuang2 yin2 shi2 you3 xian2 bei1 xing1 ， tui4 sheng3 zhi1 wu2 zhang4 shan4 xiu1 。
+- lao3 shou3 can2 shu1 cha4 de2 qu4 ， ren2 jian4 bie2 yi4 zhong3 feng1 liu2 。
 
 ## 注释
 

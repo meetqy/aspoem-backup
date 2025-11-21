@@ -1,30 +1,30 @@
 ---
 id: shu-yue-xiang-xia-ri-shan-ju-hao-shi-shou-qi-yi
-title: 夏日山居好十首  其一
-titlePinyin: xia4 ri4 shan1 ju1 hao3 shi2 shou3     qi2 yi1
+title: 夏日山居好十首  其一○
+titlePinyin: xia4 ri4 shan1 ju1 hao3 shi2 shou3     qi2 yi1 ○
 titleSlug: xia-ri-shan-ju-hao-shi-shou-qi-yi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夏日山居好，清風報斷梅。
-- 林深蚊却退，山合鳥飛回。
-- 一霎過雲雨，數聲深水雷。
-- 遶園尋蠹笋，聊以薦山杯。
+- 夏日山居好，藤床面北林。
+- 荷心風百頃，秧底月千尋。
+- 幽鳥珍毛羽，流泉響磬琴。
+- 此中多樂事，客至亦能吟。
 
 ## 拼音
 
-- xia4 ri4 shan1 ju1 hao3 ， qing1 feng1 bao4 duan4 mei2 。
-- lin2 shen1 wen2 que4 tui4 ， shan1 he2 niao3 fei1 hui2 。
-- yi2 sha4 guo4 yun2 yu3 ， shu4 sheng1 shen1 shui3 lei2 。
-- rao4 yuan2 xun2 du4 sun3 ， liao2 yi3 jian4 shan1 bei1 。
+- xia4 ri4 shan1 ju1 hao3 ， teng2 chuang2 mian4 bei3 lin2 。
+- he2 xin1 feng1 bai3 qing3 ， yang1 di3 yue4 qian1 xun2 。
+- you1 niao3 zhen1 mao2 yu3 ， liu2 quan2 xiang3 qing4 qin2 。
+- ci3 zhong1 duo1 le4 shi4 ， ke4 zhi4 yi4 neng2 yin2 。
 
 ## 注释
 

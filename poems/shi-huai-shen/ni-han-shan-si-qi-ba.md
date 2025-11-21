@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-ba
-title: 擬寒山寺  其八
-titlePinyin: ni3 han2 shan1 si4     qi2 ba1
+title: 擬寒山寺  其八○
+titlePinyin: ni3 han2 shan1 si4     qi2 ba1 ○
 titleSlug: ni-han-shan-si-qi-ba
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 偶然家計富，享用便過度。
-- 豬厭思食羊，魚厭思食兔。
-- 朝昏但醉飽，錐刀圖積聚。
-- 不畋鶉在宎，此理早須悟。
+- 若以諍止諍，其諍轉不已。
+- 唯忍能止諍，是法中尊貴。
+- 不見老瞿曇，妙相三十二。
+- 魔軍刀劍來，只以無心對。
 
 ## 拼音
 
-- ou3 ran2 jia1 ji4 fu4 ， xiang3 yong4 bian4 guo4 du4 。
-- zhu1 yan4 si1 shi2 yang2 ， yu2 yan4 si1 shi2 tu4 。
-- chao2 hun1 dan4 zui4 bao3 ， zhui1 dao1 tu2 ji1 ju4 。
-- bu4 tian2 chun2 zai4 yao3 ， ci3 li3 zao3 xu1 wu4 。
+- ruo4 yi3 zheng4 zhi3 zheng4 ， qi2 zheng4 zhuan3 bu4 yi3 。
+- wei2 ren3 neng2 zhi3 zheng4 ， shi4 fa3 zhong1 zun1 gui4 。
+- bu2 jian4 lao3 qu2 tan2 ， miao4 xiang1 san1 shi2 er4 。
+- mo2 jun1 dao1 jian4 lai2 ， zhi1 yi3 wu2 xin1 dui4 。
 
 ## 注释
 

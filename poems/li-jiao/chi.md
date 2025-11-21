@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 綵櫂浮太液，清觸醉習家。
-- 詩情對明月，雲曲拂流霞。
-- 煙散龍形淨，波含鳳影斜。
-- 安仁動秋興，魚鳥思空賒。
+- 日落天泉暮，煙虛習池靜。
+- 鏡潭明月輝，錦幘流霞景。
+- 花搖仙鳳色，雲浮濯龍影。
+- 欲識江湖心，秋來賦潘省。
 
 ## 拼音
 
-- cai3 zhao4 fu2 tai4 ye4 ， qing1 chu4 zui4 xi2 jia1 。
-- shi1 qing2 dui4 ming2 yue4 ， yun2 qu3 fu2 liu2 xia2 。
-- yan1 san4 long2 xing2 jing4 ， bo1 han2 feng4 ying3 xie2 。
-- an1 ren2 dong4 qiu1 xing1 ， yu2 niao3 si1 kong1 she1 。
+- ri4 luo4 tian1 quan2 mu4 ， yan1 xu1 xi2 chi2 jing4 。
+- jing4 tan2 ming2 yue4 hui1 ， jin3 ze2 liu2 xia2 jing3 。
+- hua1 yao2 xian1 feng4 se4 ， yun2 fu2 zhuo2 long2 ying3 。
+- yu4 shi2 jiang1 hu2 xin1 ， qiu1 lai2 fu4 pan1 sheng3 。
 
 ## 注释
 

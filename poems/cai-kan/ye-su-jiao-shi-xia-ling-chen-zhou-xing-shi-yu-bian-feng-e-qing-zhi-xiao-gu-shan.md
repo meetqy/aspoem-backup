@@ -6,10 +6,10 @@ titleSlug: ye-su-jiao-shi-xia-ling-chen-zhou-xing-shi-yu-bian-feng-e-qing-zhi-xi
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

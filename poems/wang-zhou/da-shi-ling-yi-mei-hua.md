@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 仙中姑射接瑤姬，成陣清香擁路岐。
-- 半出驛牆誰畫得，雪英相倚两三枝。
+- 半出驛牆誰畫得，雪英相倚兩三枝。
 
 ## 拼音
 

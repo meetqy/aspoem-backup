@@ -6,25 +6,25 @@ titleSlug: ci-yun-xia-ri
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乍晴雲更黑，頓冷日如青。
-- 飽飯真成蠹，幽居又見螢。
-- 燈光翻露柱，琴疊舞黄庭。
-- 猛作逃儒去，沉酣幾箇醒。
+- 秧青水白四郊同，召雨無煩訪守宮。
+- 槐葉煮𩛽隨市俗，蓮花搗麴稱家風。
+- 過從久謝三千客，嬉戲長娛七十翁。
+- 已是太平農圃老，更揩兩眼看升中。
 
 ## 拼音
 
-- zha4 qing2 yun2 geng4 hei1 ， dun4 leng3 ri4 ru2 qing1 。
-- bao3 fan4 zhen1 cheng2 du4 ， you1 ju1 you4 jian4 ying2 。
-- deng1 guang1 fan1 lu4 zhu4 ， qin2 die2 wu3 huang2 ting2 。
-- meng3 zuo4 tao2 ru2 qu4 ， chen2 han1 ji1 ge4 xing3 。
+- yang1 qing1 shui3 bai2 si4 jiao1 tong2 ， zhao4 yu3 wu2 fan2 fang3 shou3 gong1 。
+- huai2 ye4 zhu3 𩛽 sui2 shi4 su2 ， lian2 hua1 dao3 qu1 cheng1 jia1 feng1 。
+- guo4 cong2 jiu3 xie4 san1 qian1 ke4 ， xi1 xi4 chang2 yu2 qi1 shi2 weng1 。
+- yi3 shi4 tai4 ping2 nong2 pu3 lao3 ， geng4 kai1 liang3 yan3 kan4 sheng1 zhong1 。
 
 ## 注释
 

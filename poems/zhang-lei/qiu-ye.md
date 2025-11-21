@@ -6,21 +6,25 @@ titleSlug: qiu-ye
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 微雲淡月夜朦朧，幽草蟲鳴樹影中。
-- 不待南城吹鼓角，桐聲長報五更風。
+- 月到啼蛩壁，風摇睡鵲枝。
+- 秋來客不寐，遙夜漏何遲。
+- 已近風霜節，寂無蚊蚋時。
+- 天時只自爾，浪遣宋生悲。
 
 ## 拼音
 
-- wei1 yun2 dan4 yue4 ye4 meng2 long2 ， you1 cao3 chong2 ming2 shu4 ying3 zhong1 。
-- bu2 dai4 nan2 cheng2 chui1 gu3 jiao3 ， tong2 sheng1 chang2 bao4 wu3 geng1 feng1 。
+- yue4 dao4 ti2 qiong2 bi4 ， feng1 yao2 shui4 que4 zhi1 。
+- qiu1 lai2 ke4 bu2 mei4 ， yao2 ye4 lou4 he2 chi2 。
+- yi3 jin4 feng1 shuang1 jie2 ， ji4 wu2 wen2 rui4 shi2 。
+- tian1 shi2 zhi1 zi4 er3 ， lang4 qian3 song4 sheng1 bei1 。
 
 ## 注释
 

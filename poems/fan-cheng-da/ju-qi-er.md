@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ju-qi-er
-title: 句・其二
-titlePinyin: ju4・qi2 er4
+title: 句  其二
+titlePinyin: ju4     qi2 er4
 titleSlug: ju-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

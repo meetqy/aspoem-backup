@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-song-gu-jiu-shi-ba-shou-qi-san
-title: 頌古九十八首  其三
-titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 san1
+title: 頌古九十八首  其三○
+titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 san1 ○
 titleSlug: song-gu-jiu-shi-ba-shou-qi-san
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一念心開解脫門，倒騎鐵馬遶昆侖。
-- 一條脊骨純金打，傳與人間蔭子孫。
+- 萬卷詩書難却易，片衣口飯易却難。
+- 說甚須彌和芥子，堂堂體露指風旛。
 
 ## 拼音
 
-- yi2 nian4 xin1 kai1 jie3 tuo1 men2 ， dao3 qi2 tie3 ma3 rao4 kun1 lun2 。
-- yi4 tiao2 ji3 gu3 chun2 jin1 da3 ， chuan2 yu3 ren2 jian4 yin1 zi3 sun1 。
+- wan4 juan4 shi1 shu1 nan2 que4 yi4 ， pian4 yi1 kou3 fan4 yi4 que4 nan2 。
+- shuo1 shen4 xu1 mi2 he2 jie4 zi3 ， tang2 tang2 ti3 lu4 zhi3 feng1 fan1 。
 
 ## 注释
 

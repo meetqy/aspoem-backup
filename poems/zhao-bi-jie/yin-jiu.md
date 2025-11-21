@@ -6,10 +6,10 @@ titleSlug: yin-jiu
 author: 趙必岊
 authorPinyin: zhao4 bi4 jie2
 authorSlug: zhao-bi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

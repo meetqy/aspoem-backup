@@ -6,41 +6,37 @@ titleSlug: xiao-xing
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我眠何由安，擊鼓中夜起。
-- 出門若秉燭，月色照千里。
-- 屋瓦微有光，紛紛雪正委。
-- 清寒薄駝裘，六合氣如水。
-- 既歸整燈火，危坐閱書史。
-- 羸僮拭眼睫，侍我色不喜。
-- 問之强應對，固以噤口齒。
-- 金壺澀冰澌，城上更屢死。
-- 戍兵飽且昏，汗漫睡方美。
-- 援桴雖賤事，其實關衆耳。
-- 奈何司晨夕，倒錯一至此。
-- 惟有赤幘雞，嘐嘐鳴不已。
+- 宵興視星斗，側身坐長嘆。
+- 秋風忽已至，萬木鳴珊珊。
+- 垂髫初執卷，結髮乃彈冠。
+- 功名當及時，一失何由還。
+- 丈夫惜少壯，日月如走丸。
+- 念躬累尚寡，筋力無所難。
+- 白首佩黄金，意氣亦已闌。
+- 所以飛騰心，顧盼生羽翰。
+- 詩人詠嵩高，不爾歌考槃。
+- 胡爲兩未决，碌碌守一官。
 
 ## 拼音
 
-- wo3 mian2 he2 you2 an1 ， ji1 gu3 zhong1 ye4 qi3 。
-- chu1 men2 ruo4 bing3 zhu2 ， yue4 se4 zhao4 qian1 li3 。
-- wu1 wa3 wei1 you3 guang1 ， fen1 fen1 xue3 zheng4 wei3 。
-- qing1 han2 bao2 tuo2 qiu2 ， liu4 he2 qi4 ru2 shui3 。
-- ji4 gui1 zheng3 deng1 huo3 ， wei1 zuo4 yue4 shu1 shi3 。
-- lei2 tong2 shi4 yan3 jie2 ， shi4 wo3 se4 bu4 xi3 。
-- wen4 zhi1 qiang2 ying1 dui4 ， gu4 yi3 jin4 kou3 chi3 。
-- jin1 hu2 se4 bing1 si1 ， cheng2 shang4 geng4 lü3 si3 。
-- shu4 bing1 bao3 qie3 hun1 ， han4 man4 shui4 fang1 mei3 。
-- yuan2 fu2 sui1 jian4 shi4 ， qi2 shi2 guan1 zhong4 er3 。
-- nai4 he2 si1 chen2 xi1 ， dao3 cuo4 yi2 zhi4 ci3 。
-- wei2 you3 chi4 ze2 ji1 ， jiao1 jiao1 ming2 bu4 yi3 。
+- xiao1 xing1 shi4 xing1 dou3 ， ce4 shen1 zuo4 chang2 tan4 。
+- qiu1 feng1 hu1 yi3 zhi4 ， wan4 mu4 ming2 shan1 shan1 。
+- chui2 tiao2 chu1 zhi2 juan4 ， jie2 fa4 nai3 dan4 guan1 。
+- gong1 ming2 dang1 ji2 shi2 ， yi4 shi1 he2 you2 huan2 。
+- zhang4 fu0 xi1 shao3 zhuang4 ， ri4 yue4 ru2 zou3 wan2 。
+- nian4 gong1 lei4 shang4 gua3 ， jin1 li4 wu2 suo3 nan2 。
+- bai2 shou3 pei4 huang2 jin1 ， yi4 qi4 yi4 yi3 lan2 。
+- suo3 yi3 fei1 teng2 xin1 ， gu4 pan4 sheng1 yu3 han4 。
+- shi1 ren2 yong3 song1 gao1 ， bu4 er3 ge1 kao3 pan2 。
+- hu2 wei2 liang3 wei4 jue2 ， lu4 lu4 shou3 yi4 guan1 。
 
 ## 注释
 

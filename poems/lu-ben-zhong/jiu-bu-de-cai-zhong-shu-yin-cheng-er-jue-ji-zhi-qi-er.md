@@ -6,10 +6,10 @@ titleSlug: jiu-bu-de-cai-zhong-shu-yin-cheng-er-jue-ji-zhi-qi-er
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

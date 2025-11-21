@@ -6,10 +6,10 @@ titleSlug: wan-xiang-ting
 author: 富直柔
 authorPinyin: fu4 zhi2 rou2
 authorSlug: fu-zhi-rou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

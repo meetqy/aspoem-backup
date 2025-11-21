@@ -6,10 +6,10 @@ titleSlug: zi-er-yue-mo-ku-yu-han-shi-qian-yi-ri-shi-qing-shi-yuan-zhong-hua-nai
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

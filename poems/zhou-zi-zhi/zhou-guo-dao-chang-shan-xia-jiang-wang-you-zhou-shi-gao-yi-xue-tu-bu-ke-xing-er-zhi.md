@@ -6,10 +6,10 @@ titleSlug: zhou-guo-dao-chang-shan-xia-jiang-wang-you-zhou-shi-gao-yi-xue-tu-bu-
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,33 @@ titleSlug: cao-shu-ge
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傾家釀酒三千石，閑愁萬斛酒不敵。
-- 今朝醉眼爛巖電，提筆四顧天地窄。
-- 忽然揮掃不自知，風雲入懷天借力。
-- 神龍戰野昏霧腥，奇鬼摧山太陰黑。
-- 此時驅盡胸中愁，槌床大叫狂墮幘。
-- 吴牋蜀素不快人，付與高堂三丈壁。
+- 吾廬宛在水中沚，車馬喧囂那到耳。
+- 一堂翛然卧虛曠，蟬聲未斷蟲聲起。
+- 有時寓意筆硯間，跌宕奔騰作詼詭。
+- 徂徠松盡玉池墨，雲夢澤乾蟾滴水。
+- 心空萬象提寸毫，睥睨醉僧窺長史。
+- 聯翩昏鴉斜著壁，鬰屈瘦蛟蟠入紙。
+- 神馳意造起雷雨，坐覺乾坤真一洗。
+- 小兒勸我當自珍，勿爲門生書棐几。
 
 ## 拼音
 
-- qing1 jia1 niang4 jiu3 san1 qian1 shi2 ， xian2 chou2 wan4 hu2 jiu3 bu4 di2 。
-- jin1 zhao1 zui4 yan3 lan4 yan2 dian4 ， ti2 bi3 si4 gu4 tian1 di4 zhai3 。
-- hu1 ran2 hui1 sao3 bu2 zi4 zhi1 ， feng1 yun2 ru4 huai2 tian1 jie4 li4 。
-- shen2 long2 zhan4 ye3 hun1 wu4 xing1 ， qi2 gui3 cui1 shan1 tai4 yin1 hei1 。
-- ci3 shi2 qu1 jin4 xiong1 zhong1 chou2 ， chui2 chuang2 da4 jiao4 kuang2 duo4 ze2 。
-- wu2 jian1 shu3 su4 bu2 kuai4 ren2 ， fu4 yu3 gao1 tang2 san1 zhang4 bi4 。
+- wu2 lu2 wan3 zai4 shui3 zhong1 zhi3 ， ju1 ma3 xuan1 xiao1 na4 dao4 er3 。
+- yi4 tang2 xiao1 ran2 wo4 xu1 kuang4 ， chan2 sheng1 wei4 duan4 chong2 sheng1 qi3 。
+- you3 shi2 yu4 yi4 bi3 yan4 jian4 ， die1 dang4 ben1 teng2 zuo4 hui1 gui3 。
+- cu2 lai2 song1 jin4 yu4 chi2 mo4 ， yun2 meng4 ze2 qian2 chan2 di1 shui3 。
+- xin1 kong1 wan4 xiang4 ti2 cun4 hao2 ， pi4 ni4 zui4 seng1 kui1 chang2 shi3 。
+- lian2 pian1 hun1 ya1 xie2 zhu4 bi4 ， yu4 qu1 shou4 jiao1 pan2 ru4 zhi3 。
+- shen2 chi2 yi4 zao4 qi3 lei2 yu3 ， zuo4 jue2 qian2 kun1 zhen1 yi4 xi3 。
+- xiao3 er2 quan4 wo3 dang1 zi4 zhen1 ， wu4 wei2 men2 sheng1 shu1 fei3 ji3 。
 
 ## 注释
 

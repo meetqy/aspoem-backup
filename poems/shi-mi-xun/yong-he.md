@@ -6,10 +6,10 @@ titleSlug: yong-he
 author: 史彌遜
 authorPinyin: shi3 mi2 xun4
 authorSlug: shi-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

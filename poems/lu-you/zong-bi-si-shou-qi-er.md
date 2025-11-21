@@ -6,21 +6,25 @@ titleSlug: zong-bi-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一紙除書到海邊，紫皇賜號武夷仙。
-- 功名敢道渾無意，暫作閑人五百年。
+- 一點湛空明，居然萬事輕。
+- 菜元勝肉食，車豈異徒行。
+- 幻境終何在，金丹本自成。
+- 信能如是解，土苴亦長生。
 
 ## 拼音
 
-- yi4 zhi3 chu2 shu1 dao4 hai3 bian1 ， zi3 huang2 ci4 hao4 wu3 yi2 xian1 。
-- gong1 ming2 gan3 dao4 hun2 wu2 yi4 ， zan4 zuo4 xian2 ren2 wu3 bai3 nian2 。
+- yi4 dian3 zhan4 kong1 ming2 ， ju1 ran2 wan4 shi4 qing1 。
+- cai4 yuan2 sheng4 rou4 shi2 ， ju1 qi3 yi4 tu2 xing2 。
+- huan4 jing4 zhong1 he2 zai4 ， jin1 dan1 ben3 zi4 cheng2 。
+- xin4 neng2 ru2 shi4 jie3 ， tu3 ju1 yi4 chang2 sheng1 。
 
 ## 注释
 

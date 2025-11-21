@@ -6,9 +6,9 @@ titleSlug: er-shi-qi-ri-li-chun-ye-xue-gao-xia-jin-bai-min-zhong-suo-wei-da-xue-
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

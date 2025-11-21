@@ -6,10 +6,10 @@ titleSlug: ji-song-wu-shi-yi-shou-qi-yi-si
 author: 釋道沖
 authorPinyin: shi4 dao4 chong1
 authorSlug: shi-dao-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

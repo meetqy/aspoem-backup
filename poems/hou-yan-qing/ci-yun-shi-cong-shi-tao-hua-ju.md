@@ -6,10 +6,10 @@ titleSlug: ci-yun-shi-cong-shi-tao-hua-ju
 author: 侯延慶
 authorPinyin: hou2 yan2 qing4
 authorSlug: hou-yan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

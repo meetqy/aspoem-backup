@@ -6,10 +6,10 @@ titleSlug: ti-gao-fang-shan-ye-shan-tu
 author: 呂同老
 authorPinyin: lü3 tong2 lao3
 authorSlug: lu-tong-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

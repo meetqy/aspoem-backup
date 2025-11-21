@@ -6,10 +6,10 @@ titleSlug: song-huai-an-lin-zhi-cheng-zhi-guan-reng-xie-jia-ju-qi-er
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

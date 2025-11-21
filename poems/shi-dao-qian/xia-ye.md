@@ -6,21 +6,21 @@ titleSlug: xia-ye
 author: 釋道潜
 authorPinyin: shi4 dao4 qian2
 authorSlug: shi-dao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斗帳昏昏夜氣蒸，移床趁月臥中庭。
-- 紫薇花露霑衣冷，翻覺華胥夢易醒。
+- 松室開孤定，褰幃納夜凉。
+- 嬋娟依翠竹，無語過東牆。
 
 ## 拼音
 
-- dou4 zhang4 hun1 hun1 ye4 qi4 zheng1 ， yi2 chuang2 chen4 yue4 wo4 zhong1 ting2 。
-- zi3 wei1 hua1 lu4 zhan1 yi1 leng3 ， fan1 jue2 hua2 xu1 meng4 yi4 xing3 。
+- song1 shi4 kai1 gu1 ding4 ， qian1 wei2 na4 ye4 liang2 。
+- chan2 juan1 yi1 cui4 zhu2 ， wu2 yu3 guo4 dong1 qiang2 。
 
 ## 注释
 

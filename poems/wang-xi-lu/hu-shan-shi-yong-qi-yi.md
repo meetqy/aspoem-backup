@@ -1,26 +1,26 @@
 ---
 id: wang-xi-lu-hu-shan-shi-yong-qi-yi
-title: 湖山十詠  其一
-titlePinyin: hu2 shan1 shi2 yong3     qi2 yi1
+title: 湖山十詠  其一○
+titlePinyin: hu2 shan1 shi2 yong3     qi2 yi1 ○
 titleSlug: hu-shan-shi-yong-qi-yi
 author: 王希呂
 authorPinyin: wang2 xi1 lü3
 authorSlug: wang-xi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑟瑟輕冰拆御溝，溝邊柳色弄春柔。
-- 數聲啼鳥破幽夢，斷送西湖尋舊游。
+- 窗外平疇交遠風，豆花成實穀苗豐。
+- 向來河朔經行地，盡在江南烟雨中。
 
 ## 拼音
 
-- se4 se4 qing1 bing1 chai1 yu4 gou1 ， gou1 bian1 liu3 se4 nong4 chun1 rou2 。
-- shu4 sheng1 ti2 niao3 po4 you1 meng4 ， duan4 song4 xi1 hu2 xun2 jiu4 you2 。
+- chuang1 wai4 ping2 chou2 jiao1 yuan3 feng1 ， dou4 hua1 cheng2 shi2 gu3 miao2 feng1 。
+- xiang4 lai2 he2 shuo4 jing1 xing2 di4 ， jin4 zai4 jiang1 nan2 yan1 yu3 zhong1 。
 
 ## 注释
 

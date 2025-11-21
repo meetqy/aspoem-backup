@@ -9,18 +9,16 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 出有龍旂，入有珩佩。
-- 勿驅勿馳，惟慎惟戒。
+- 禮酒既罄，嘉賓既醒，雅爲之行。
 
 ## 拼音
 
-- chu1 you3 long2 qi2 ， ru4 you3 heng2 pei4 。
-- wu4 qu1 wu4 chi2 ， wei2 shen4 wei2 jie4 。
+- li3 jiu3 ji4 qing4 ， jia1 bin1 ji4 xing3 ， ya3 wei2 zhi1 xing2 。
 
 ## 注释
 

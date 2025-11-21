@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-jian-yue-fang-yi-wei-xi-ji-er-yin-bi-yi-shu-bu-man-dong-po-
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

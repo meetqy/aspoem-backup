@@ -6,10 +6,10 @@ titleSlug: ji-wai
 author: 毛友妻
 authorPinyin: mao2 you3 qi1
 authorSlug: mao-you-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

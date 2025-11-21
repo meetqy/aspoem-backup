@@ -1,32 +1,30 @@
 ---
 id: shi-pu-du-ji-song-yi-bai-er-shi-san-shou-qi-yi-san
-title: 偈頌一百二十三首  其一三
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 san1
+title: 偈頌一百二十三首  其一○三
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ○ san1
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-san
 author: 釋普度
 authorPinyin: shi4 pu3 du4
 authorSlug: shi-pu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大海揚塵，高源出水。
-- 狹路相逢，知心有幾。
-- 明明玉鑑光中，浩浩煙波萬里。
-- 鸑鷟擎頭，金鱗擺尾。
-- 江北江南絕望時，一聲霹靂清飈起。
+- 用文武火，運惡鉗鎚。
+- 死學者偷心，開人天眼目。
+- 大用機前轉轆轆，十分慈悲，十分惡毒。
+- 六踞名藍兮一笑來歸，青燈夜寒兮香風馥馥。
 
 ## 拼音
 
-- da4 hai3 yang2 chen2 ， gao1 yuan2 chu1 shui3 。
-- xia2 lu4 xiang1 feng2 ， zhi1 xin1 you3 ji1 。
-- ming2 ming2 yu4 jian4 guang1 zhong1 ， hao4 hao4 yan1 bo1 wan4 li3 。
-- yue4 zhuo2 qing2 tou2 ， jin1 lin2 bai3 wei3 。
-- jiang1 bei3 jiang1 nan2 jue2 wang4 shi2 ， yi4 sheng1 pi1 li4 qing1 biao1 qi3 。
+- yong4 wen2 wu3 huo3 ， yun4 e4 qian2 chui2 。
+- si3 xue2 zhe3 tou1 xin1 ， kai1 ren2 tian1 yan3 mu4 。
+- da4 yong4 ji1 qian2 zhuan3 lu4 lu4 ， shi2 fen1 ci2 bei1 ， shi2 fen1 e4 du2 。
+- liu4 ju4 ming2 lan2 xi1 yi2 xiao4 lai2 gui1 ， qing1 deng1 ye4 han2 xi1 xiang1 feng1 fu4 fu4 。
 
 ## 注释
 

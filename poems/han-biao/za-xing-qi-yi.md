@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清風穆然至，林影何其明。
-- 不知春已夏，池荷亦敷榮。
-- 展簟理竹榻，幽夢時自醒。
-- 起行散腰脚，氣適無留情。
+- 常苦靈山暑氣昏，澹雲疎雨洗乾坤。
+- 溪南只許閑人看，紫障青崖靜吐吞。
 
 ## 拼音
 
-- qing1 feng1 mu4 ran2 zhi4 ， lin2 ying3 he2 qi2 ming2 。
-- bu4 zhi1 chun1 yi3 xia4 ， chi2 he2 yi4 fu1 rong2 。
-- zhan3 dian4 li3 zhu2 ta4 ， you1 meng4 shi2 zi4 xing3 。
-- qi3 xing2 san4 yao1 jiao3 ， qi4 shi4 wu2 liu2 qing2 。
+- chang2 ku3 ling2 shan1 shu3 qi4 hun1 ， dan4 yun2 shu1 yu3 xi3 qian2 kun1 。
+- xi1 nan2 zhi1 xu1 xian2 ren2 kan4 ， zi3 zhang4 qing1 ya2 jing4 tu3 tun1 。
 
 ## 注释
 

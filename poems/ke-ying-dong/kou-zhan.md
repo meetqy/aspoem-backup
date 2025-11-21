@@ -6,10 +6,10 @@ titleSlug: kou-zhan
 author: 柯應東
 authorPinyin: ke1 ying1 dong1
 authorSlug: ke-ying-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: xin-chun
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 濛濛烟雨暗江干，新歲還勝故歲寒。
-- 酒壓濁清鳴社瓮，菜分紅綠簇春盤。
-- 良辰節物元如昨，病客情懷自鮮歡。
-- 却羨村鄰機上女，隔籬相喚祭蠶官。
+- 柳淡春初破，梅寒瘦不禁。
+- 羈愁醉後減，睡思雨中深。
+- 閑試新收硯，重尋久廢琴。
+- 何時見朋舊，細話別來心。
 
 ## 拼音
 
-- meng2 meng2 yan1 yu3 an4 jiang1 gan1 ， xin1 sui4 huan2 sheng4 gu4 sui4 han2 。
-- jiu3 ya1 zhuo2 qing1 ming2 she4 weng4 ， cai4 fen1 hong2 lü4 cu4 chun1 pan2 。
-- liang2 chen2 jie2 wu4 yuan2 ru2 zuo2 ， bing4 ke4 qing2 huai2 zi4 xian1 huan1 。
-- que4 xian4 cun1 lin2 ji1 shang4 nü3 ， ge2 li2 xiang1 huan4 ji4 can2 guan1 。
+- liu3 dan4 chun1 chu1 po4 ， mei2 han2 shou4 bu4 jin1 。
+- ji1 chou2 zui4 hou4 jian3 ， shui4 si1 yu3 zhong1 shen1 。
+- xian2 shi4 xin1 shou1 yan4 ， zhong4 xun2 jiu3 fei4 qin2 。
+- he2 shi2 jian4 peng2 jiu4 ， xi4 hua4 bie2 lai2 xin1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: si-chuan-lou-qi-er
 author: 廖德明
 authorPinyin: liao4 de2 ming2
 authorSlug: liao-de-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: hu-qiu-cheng-yuan-ji-shang-ren
 author: 葛逸
 authorPinyin: ge3 yi4
 authorSlug: ge-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

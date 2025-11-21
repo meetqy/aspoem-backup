@@ -6,9 +6,9 @@ titleSlug: meng-bi-yi
 author: 姚宏
 authorPinyin: yao2 hong2
 authorSlug: yao-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

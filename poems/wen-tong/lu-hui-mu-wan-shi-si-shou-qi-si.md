@@ -1,14 +1,14 @@
 ---
 id: wen-tong-lu-hui-mu-wan-shi-si-shou-qi-si
-title: 呂惠穆挽詩四首・其四
-titlePinyin: lü3 hui4 mu4 wan3 shi1 si4 shou3・qi2 si4
+title: 呂惠穆挽詩四首  其四
+titlePinyin: lü3 hui4 mu4 wan3 shi1 si4 shou3     qi2 si4
 titleSlug: lu-hui-mu-wan-shi-si-shou-qi-si
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

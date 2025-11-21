@@ -6,25 +6,25 @@ titleSlug: feng-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風雨連三日，衰翁不下堂。
-- 弄書聊自適，與世已相忘。
-- 坼栗經霜飽，搓橙带露香。
-- 地爐供小飲，亦足慰淒涼。
+- 殘暑時當盡，清風勢自回。
+- 重雲韞日月，大雨挾風雷。
+- 老樹不自保，毀巢吁可哀。
+- 却愁新雁到，暮境更禁催。
 
 ## 拼音
 
-- feng1 yu3 lian2 san1 ri4 ， shuai1 weng1 bu2 xia4 tang2 。
-- nong4 shu1 liao2 zi4 shi4 ， yu3 shi4 yi3 xiang1 wang4 。
-- che4 li4 jing1 shuang1 bao3 ， cuo1 cheng2 dai4 lu4 xiang1 。
-- di4 lu2 gong4 xiao3 yin3 ， yi4 zu2 wei4 qi1 liang2 。
+- can2 shu3 shi2 dang1 jin4 ， qing1 feng1 shi4 zi4 hui2 。
+- zhong4 yun2 yun4 ri4 yue4 ， da4 yu3 xie2 feng1 lei2 。
+- lao3 shu4 bu2 zi4 bao3 ， hui3 chao2 xu1 ke3 ai1 。
+- que4 chou2 xin1 yan4 dao4 ， mu4 jing4 geng4 jin4 cui1 。
 
 ## 注释
 

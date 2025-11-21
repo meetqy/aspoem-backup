@@ -6,10 +6,10 @@ titleSlug: jian-hui-an-tong-an-ye-chen-er-ming-fu-bing-fan-an-xi-lin-ming-fu-ji-
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 郊壇齋帝，禮樂祀天。
-- 丹青寰宇，宮徵山川。
-- 神祇畢降，行止重旋。
-- 融融穆穆，納祉洪延。
+- 六成既闋，三薦云終。
+- 神心具醉，聖敬愈崇。
+- 受釐皇邸，回蹕帷宮。
+- 穰穰之福，永永無窮。
 
 ## 拼音
 
-- jiao1 tan2 zhai1 di4 ， li3 le4 si4 tian1 。
-- dan1 qing1 huan2 yu3 ， gong1 zhi3 shan1 chuan1 。
-- shen2 qi2 bi4 jiang4 ， xing2 zhi3 zhong4 xuan2 。
-- rong2 rong2 mu4 mu4 ， na4 zhi3 hong2 yan2 。
+- liu4 cheng2 ji4 que4 ， san1 jian4 yun2 zhong1 。
+- shen2 xin1 ju4 zui4 ， sheng4 jing4 yu4 chong2 。
+- shou4 li2 huang2 di3 ， hui2 bi4 wei2 gong1 。
+- rang2 rang2 zhi1 fu2 ， yong3 yong3 wu2 qiong2 。
 
 ## 注释
 

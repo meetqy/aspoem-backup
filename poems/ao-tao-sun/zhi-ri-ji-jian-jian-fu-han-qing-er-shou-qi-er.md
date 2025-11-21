@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-zhi-ri-ji-jian-jian-fu-han-qing-er-shou-qi-er
-title: 至日記見簡輔漢卿二首・其二
-titlePinyin: zhi4 ri4 ji4 jian4 jian3 fu3 han4 qing1 er4 shou3・qi2 er4
+title: 至日記見簡輔漢卿二首  其二
+titlePinyin: zhi4 ri4 ji4 jian4 jian3 fu3 han4 qing1 er4 shou3     qi2 er4
 titleSlug: zhi-ri-ji-jian-jian-fu-han-qing-er-shou-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,24 +1,24 @@
 ---
 id: wu-hang-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
 author: 吳沆
 authorPinyin: wu2 hang4
 authorSlug: wu-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江流回轉石不移，釣絲卷盡生鬚絲。
+- 吹斷碧雲春晝永，落殘紅雨曉風輕。
 
 ## 拼音
 
-- jiang1 liu2 hui2 zhuan3 shi2 bu4 yi2 ， diao4 si1 juan4 jin4 sheng1 xu1 si1 。
+- chui1 duan4 bi4 yun2 chun1 zhou4 yong3 ， luo4 can2 hong2 yu3 xiao3 feng1 qing1 。
 
 ## 注释
 

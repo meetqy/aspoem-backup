@@ -6,10 +6,10 @@ titleSlug: he-wu-zhong-fu-you-hai-yun-si
 author: 楊希元
 authorPinyin: yang2 xi1 yuan2
 authorSlug: yang-xi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

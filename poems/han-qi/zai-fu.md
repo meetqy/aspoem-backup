@@ -6,25 +6,25 @@ titleSlug: zai-fu
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒙山崦裏藏禪宮，朝蒼暮翠嵐光濃。
-- 枯松老柏競醜怪，危巒峻嶺相彌縫。
-- 劔峽路岐唯少棧，榆關氣象全無烽。
-- 恩深報淺來未得，暫留金節開塵容。
+- 門徑縈紆洞府間，了無塵外累幽閑。
+- 長楊十丈亂風雨，流水數枝鳴珮環。
+- 入戶好峰誰可畫，礙人新竹不容刪。
+- 池亭面面圓荷滿，薄暮飛香送客還。
 
 ## 拼音
 
-- meng2 shan1 yan1 li3 cang2 shan4 gong1 ， chao2 cang1 mu4 cui4 lan2 guang1 nong2 。
-- ku1 song1 lao3 bai3 jing4 chou3 guai4 ， wei1 luan2 jun4 ling3 xiang1 mi2 feng2 。
-- jian4 xia2 lu4 qi2 wei2 shao3 zhan4 ， yu2 guan1 qi4 xiang4 quan2 wu2 feng1 。
-- en1 shen1 bao4 qian3 lai2 wei4 de2 ， zan4 liu2 jin1 jie2 kai1 chen2 rong2 。
+- men2 jing4 ying2 yu1 dong4 fu3 jian4 ， liao3 wu2 chen2 wai4 lei4 you1 xian2 。
+- chang2 yang2 shi2 zhang4 luan4 feng1 yu3 ， liu2 shui3 shu4 zhi1 ming2 pei4 huan2 。
+- ru4 hu4 hao3 feng1 shui2 ke3 hua4 ， ai4 ren2 xin1 zhu2 bu4 rong2 shan1 。
+- chi2 ting2 mian4 mian4 yuan2 he2 man3 ， bo2 mu4 fei1 xiang1 song4 ke4 huan2 。
 
 ## 注释
 

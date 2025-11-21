@@ -6,10 +6,10 @@ titleSlug: san-yue-er-shi-ri-chu-jiao-fan-zhou-xi-jin-de-yu-zi
 author: 李燾
 authorPinyin: li3 dao4
 authorSlug: li-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

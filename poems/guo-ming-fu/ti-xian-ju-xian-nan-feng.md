@@ -6,10 +6,10 @@ titleSlug: ti-xian-ju-xian-nan-feng
 author: 郭明甫
 authorPinyin: guo1 ming2 fu3
 authorSlug: guo-ming-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: nan-zhai-xin-zhi-mu-dan-chu-dong-hu-kai-shu-duo-ai-wan-bu-yi-yin-er-g
 author: 余靖
 authorPinyin: yu2 jing4
 authorSlug: yu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

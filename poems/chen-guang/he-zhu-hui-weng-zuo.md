@@ -6,10 +6,10 @@ titleSlug: he-zhu-hui-weng-zuo
 author: 陳光
 authorPinyin: chen2 guang1
 authorSlug: chen-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

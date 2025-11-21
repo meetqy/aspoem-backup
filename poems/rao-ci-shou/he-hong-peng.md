@@ -6,10 +6,10 @@ titleSlug: he-hong-peng
 author: 饒次守
 authorPinyin: rao2 ci4 shou3
 authorSlug: rao-ci-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

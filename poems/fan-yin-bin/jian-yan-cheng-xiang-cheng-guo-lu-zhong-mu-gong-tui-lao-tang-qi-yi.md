@@ -6,10 +6,10 @@ titleSlug: jian-yan-cheng-xiang-cheng-guo-lu-zhong-mu-gong-tui-lao-tang-qi-yi
 author: 范寅賓
 authorPinyin: fan4 yin2 bin1
 authorSlug: fan-yin-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

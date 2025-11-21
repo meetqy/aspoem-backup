@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 鄧春卿
 authorPinyin: deng4 chun1 qing1
 authorSlug: deng-chun-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: gou-zi-wu-fo-xing
 author: 釋妙總
 authorPinyin: shi4 miao4 zong3
 authorSlug: shi-miao-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,28 +1,32 @@
 ---
 id: shi-ru-jing-ji-song-er-shi-wu-shou-qi-yi
-title: 偈頌二十五首  其一
-titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 yi1
+title: 偈頌二十五首  其一○
+titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-er-shi-wu-shou-qi-yi
 author: 釋如淨
 authorPinyin: shi4 ru2 jing4
 authorSlug: shi-ru-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天童大解脫門豁開。
-- 衲僧自已透，乾坤無表裏。
-- 萬古清風八面來，前樓後閣玲瓏起。
+- 開無間地獄，現閻羅大王。
+- 聚夜叉一部，列牛頭兩行。
+- 與其進者劍樹上猛火進用，與其退者刀山裏寒冰退藏。
+- 尀耐飯飽弄筯，判斷屎急尿床。
+- 花柳春風入戲場。
 
 ## 拼音
 
-- tian1 tong2 da4 jie3 tuo1 men2 huo1 kai1 。
-- na4 seng1 zi4 yi3 tou4 ， qian2 kun1 wu2 biao3 li3 。
-- wan4 gu3 qing1 feng1 ba1 mian4 lai2 ， qian2 lou2 hou4 ge2 ling2 long2 qi3 。
+- kai1 wu2 jian4 di4 yu4 ， xian4 yan2 luo2 da4 wang2 。
+- ju4 ye4 cha1 yi2 bu4 ， lie4 niu2 tou2 liang3 xing2 。
+- yu3 qi2 jin4 zhe3 jian4 shu4 shang4 meng3 huo3 jin4 yong4 ， yu3 qi2 tui4 zhe3 dao1 shan1 li3 han2 bing1 tui4 cang2 。
+- po3 nai4 fan4 bao3 nong4 zhu4 ， pan4 duan4 shi3 ji2 niao4 chuang2 。
+- hua1 liu3 chun1 feng1 ru4 xi4 chang3 。
 
 ## 注释
 

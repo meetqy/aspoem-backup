@@ -6,9 +6,9 @@ titleSlug: qi-xia-dong
 author: 孫抗
 authorPinyin: sun1 kang4
 authorSlug: sun-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

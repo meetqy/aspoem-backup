@@ -6,10 +6,10 @@ titleSlug: qing-wu-men-shou-zuo-li-seng-shan-ji-feng-xie
 author: 釋宗壽
 authorPinyin: shi4 zong1 shou4
 authorSlug: shi-zong-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

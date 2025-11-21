@@ -6,10 +6,10 @@ titleSlug: wan-cui-she-ren-qi-yi
 author: 趙彥中
 authorPinyin: zhao4 yan4 zhong1
 authorSlug: zhao-yan-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

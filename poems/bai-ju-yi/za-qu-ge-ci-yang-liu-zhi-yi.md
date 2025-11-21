@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一樹春風萬萬枝，嫩於金色軟於絲。
-- 永豐西角荒園裏，盡日無人屬阿誰。
+- 六么水調家家唱，白雪梅花處處吹。
+- 古歌舊曲君休聽，聽取新翻楊柳枝。
 
 ## 拼音
 
-- yi2 shu4 chun1 feng1 wan4 wan4 zhi1 ， nen4 wu1 jin1 se4 ruan3 wu1 si1 。
-- yong3 feng1 xi1 jiao3 huang1 yuan2 li3 ， jin4 ri4 wu2 ren2 shu3 a1 shui2 。
+- liu4 me0 shui3 diao4 jia1 jia1 chang4 ， bai2 xue3 mei2 hua1 chu3 chu3 chui1 。
+- gu3 ge1 jiu4 qu3 jun1 xiu1 ting1 ， ting1 qu3 xin1 fan1 yang2 liu3 zhi1 。
 
 ## 注释
 

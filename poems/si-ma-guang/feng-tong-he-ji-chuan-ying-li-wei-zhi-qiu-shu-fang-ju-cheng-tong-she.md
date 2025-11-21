@@ -6,10 +6,10 @@ titleSlug: feng-tong-he-ji-chuan-ying-li-wei-zhi-qiu-shu-fang-ju-cheng-tong-she
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

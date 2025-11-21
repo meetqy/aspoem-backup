@@ -6,25 +6,25 @@ titleSlug: han-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 峽雲烘日欲成霞，瀼水生紋淺見沙。
-- 又向蠻方作寒食，強持巵酒對梨花。
-- 身如巢燕年年客，心羨游僧處處家。
-- 賴有春風能領略，一生相伴遍天涯。
+- 小市禁烟餘，東郊展墓初。
+- 桐陰覆碧井，泉脈入清渠。
+- 貧悴停遊舫，龍鍾廢荷鉏。
+- 西窗斜日在，且復勘殘書。
 
 ## 拼音
 
-- xia2 yun2 hong1 ri4 yu4 cheng2 xia2 ， rang2 shui3 sheng1 wen2 qian3 jian4 sha1 。
-- you4 xiang4 man2 fang1 zuo4 han2 shi2 ， qiang2 chi2 zhi1 jiu3 dui4 li2 hua1 。
-- shen1 ru2 chao2 yan4 nian2 nian2 ke4 ， xin1 xian4 you2 seng1 chu3 chu3 jia1 。
-- lai4 you3 chun1 feng1 neng2 ling3 lüe4 ， yi4 sheng1 xiang1 ban4 bian4 tian1 ya2 。
+- xiao3 shi4 jin4 yan1 yu2 ， dong1 jiao1 zhan3 mu4 chu1 。
+- tong2 yin1 fu4 bi4 jing3 ， quan2 mai4 ru4 qing1 qu2 。
+- pin2 cui4 ting2 you2 fang3 ， long2 zhong1 fei4 he2 chu2 。
+- xi1 chuang1 xie2 ri4 zai4 ， qie3 fu4 kan1 can2 shu1 。
 
 ## 注释
 

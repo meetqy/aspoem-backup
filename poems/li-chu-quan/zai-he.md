@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 李處權
 authorPinyin: li3 chu3 quan2
 authorSlug: li-chu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 鬢絲殊覺老，淚血更傷春。
-- 閱世元如夢，除天總是塵。
-- 有心躭傳癖，無意媚錢神。
-- 坐怪三衢守，書来不到閩。
+- 已着詩招隠，何須酒引陶。
+- 胸中有涇渭，筆下足波濤。
+- 世亂閉門早，身閒倚枕高。
+- 何慙少陵老，鸚鵡啄金桃。
 
 ## 拼音
 
-- bin4 si1 shu1 jue2 lao3 ， lei4 xue4 geng4 shang1 chun1 。
-- yue4 shi4 yuan2 ru2 meng4 ， chu2 tian1 zong3 shi4 chen2 。
-- you3 xin1 dan1 chuan2 pi3 ， wu2 yi4 mei4 qian2 shen2 。
-- zuo4 guai4 san1 qu2 shou3 ， shu1 lai2 bu2 dao4 min3 。
+- yi3 zhe0 shi1 zhao1 yin3 ， he2 xu1 jiu3 yin3 tao2 。
+- xiong1 zhong1 you3 jing1 wei4 ， bi3 xia4 zu2 bo1 tao1 。
+- shi4 luan4 bi4 men2 zao3 ， shen1 xian2 yi3 zhen3 gao1 。
+- he2 can2 shao3 ling2 lao3 ， ying1 wu3 zhuo2 jin1 tao2 。
 
 ## 注释
 

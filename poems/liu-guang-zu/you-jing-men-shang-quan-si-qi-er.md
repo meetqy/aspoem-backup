@@ -6,10 +6,10 @@ titleSlug: you-jing-men-shang-quan-si-qi-er
 author: 劉光祖
 authorPinyin: liu2 guang1 zu3
 authorSlug: liu-guang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

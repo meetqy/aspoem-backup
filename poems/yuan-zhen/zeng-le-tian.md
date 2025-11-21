@@ -9,18 +9,18 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 等閑相見銷長日，也有閑時更學琴。
-- 不是眼前無外物，不關心事不經心。
+- 莫言鄰境易經過，彼此分符欲奈何。
+- 垂老相逢漸難別，白頭期限各無多。
 
 ## 拼音
 
-- deng3 xian2 xiang1 jian4 xiao1 chang2 ri4 ， ye3 you3 xian2 shi2 geng4 xue2 qin2 。
-- bu2 shi4 yan3 qian2 wu2 wai4 wu4 ， bu4 guan1 xin1 shi4 bu4 jing1 xin1 。
+- mo4 yan2 lin2 jing4 yi4 jing1 guo4 ， bi3 ci3 fen1 fu2 yu4 nai4 he2 。
+- chui2 lao3 xiang1 feng2 jian4 nan2 bie2 ， bai2 tou2 qi1 xian4 ge4 wu2 duo1 。
 
 ## 注释
 

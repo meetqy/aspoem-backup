@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-xu-ding-ci-shi-jie-qi-yi
-title: 圩丁詞十解  其一
-titlePinyin: xu1 ding1 ci2 shi2 jie3     qi2 yi1
+title: 圩丁詞十解  其一○
+titlePinyin: xu1 ding1 ci2 shi2 jie3     qi2 yi1 ○
 titleSlug: xu-ding-ci-shi-jie-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 圩田元是一平湖，憑仗兒郎築作圩。
-- 萬雉長城倩誰守，兩隄楊柳當防夫。
+- 圩上人牽水上航，從頭點檢萬農桑。
+- 即非使者秋行部，乃是圩翁曉按莊。
 
 ## 拼音
 
-- wei2 tian2 yuan2 shi4 yi4 ping2 hu2 ， ping2 zhang4 er2 lang2 zhu4 zuo4 xu1 。
-- wan4 zhi4 chang2 cheng2 qian4 shui2 shou3 ， liang3 di1 yang2 liu3 dang1 fang2 fu1 。
+- xu1 shang4 ren2 qian1 shui3 shang4 hang2 ， cong2 tou2 dian3 jian3 wan4 nong2 sang1 。
+- ji2 fei1 shi3 zhe3 qiu1 xing2 bu4 ， nai3 shi4 xu1 weng1 xiao3 an4 zhuang1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shu-zhe-wei-yu-qing-dan-zi-ji-bu-pin-bu-fu-er-you-shou
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

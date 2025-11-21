@@ -6,10 +6,10 @@ titleSlug: he-dai-shi-ping-qi-yi
 author: 王伯大
 authorPinyin: wang2 bo2 da4
 authorSlug: wang-bo-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

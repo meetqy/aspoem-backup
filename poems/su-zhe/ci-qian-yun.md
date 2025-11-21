@@ -6,25 +6,25 @@ titleSlug: ci-qian-yun
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 龍鸞僅比閩團釅，鹽酪應嫌北俗粗。
-- 採愧吳僧身似腊，點須越女手如酥。
-- 舌根遺味輕浮齒，腋下清風稍襲膚。
-- 七碗未容留客試，瓶中數問有餘無。
+- 心空煩惱不須除，白盡年來罷鑷鬚。
+- 隨俗治生終落落，苦心憂世漫區區。
+- 居連里巷知安否，食仰田園問有無。
+- 我已閉門還往絕，待乘明月過君廬。
 
 ## 拼音
 
-- long2 luan2 jin3 bi3 min3 tuan2 yan4 ， yan2 lao4 ying1 xian2 bei3 su2 cu1 。
-- cai3 kui4 wu2 seng1 shen1 si4 la4 ， dian3 xu1 yue4 nü3 shou3 ru2 su1 。
-- she2 gen1 yi2 wei4 qing1 fu2 chi3 ， ye4 xia4 qing1 feng1 shao1 xi2 fu1 。
-- qi1 wan3 wei4 rong2 liu2 ke4 shi4 ， ping2 zhong1 shu4 wen4 you3 yu2 wu2 。
+- xin1 kong1 fan2 nao3 bu4 xu1 chu2 ， bai2 jin4 nian2 lai2 ba4 nie4 xu1 。
+- sui2 su2 zhi4 sheng1 zhong1 luo4 luo4 ， ku3 xin1 you1 shi4 man4 qu1 qu1 。
+- ju1 lian2 li3 xiang4 zhi1 an1 fou3 ， shi2 yang3 tian2 yuan2 wen4 you3 wu2 。
+- wo3 yi3 bi4 men2 huan2 wang3 jue2 ， dai4 cheng2 ming2 yue4 guo4 jun1 lu2 。
 
 ## 注释
 

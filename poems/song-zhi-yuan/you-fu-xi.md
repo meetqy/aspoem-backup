@@ -6,10 +6,10 @@ titleSlug: you-fu-xi
 author: 宋之源
 authorPinyin: song4 zhi1 yuan2
 authorSlug: song-zhi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

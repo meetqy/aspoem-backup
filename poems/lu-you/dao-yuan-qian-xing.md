@@ -6,25 +6,25 @@ titleSlug: dao-yuan-qian-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 微官不復嘆頭顱，高棟虚窗樂有餘。
-- 中夜塔鈴空際語，望秋庭樹月中疏。
-- 甗炊青飯留巖客，露點朱毫勘玉書。
-- 猶恨未成歸剡曲，小舟閑采白芙渠。
+- 滿鏡新霜老可驚，十年烟隴廢春耕。
+- 黄絲黑黍有歸夢，白髮蒼顔無宦情。
+- 浮世不堪供把玩，安心隨處是修行。
+- 尚嫌未到無爲地，酷愛朝鐘暮磬聲。
 
 ## 拼音
 
-- wei1 guan1 bu2 fu4 tan4 tou2 lu2 ， gao1 dong4 xu1 chuang1 le4 you3 yu2 。
-- zhong1 ye4 ta3 ling2 kong1 ji4 yu3 ， wang4 qiu1 ting2 shu4 yue4 zhong1 shu1 。
-- yan3 chui1 qing1 fan4 liu2 yan2 ke4 ， lu4 dian3 zhu1 hao2 kan1 yu4 shu1 。
-- you2 hen4 wei4 cheng2 gui1 yan3 qu3 ， xiao3 zhou1 xian2 cai3 bai2 fu2 qu2 。
+- man3 jing4 xin1 shuang1 lao3 ke3 jing1 ， shi2 nian2 yan1 long3 fei4 chun1 geng1 。
+- huang2 si1 hei1 shu3 you3 gui1 meng4 ， bai2 fa4 cang1 yan2 wu2 huan4 qing2 。
+- fu2 shi4 bu4 kan1 gong4 ba3 wan2 ， an1 xin1 sui2 chu3 shi4 xiu1 xing2 。
+- shang4 xian2 wei4 dao4 wu2 wei2 di4 ， ku4 ai4 chao2 zhong1 mu4 qing4 sheng1 。
 
 ## 注释
 

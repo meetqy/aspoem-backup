@@ -6,10 +6,10 @@ titleSlug: xi-yan-sheng-shui
 author: 蔣晉
 authorPinyin: jiang3 jin4
 authorSlug: jiang-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

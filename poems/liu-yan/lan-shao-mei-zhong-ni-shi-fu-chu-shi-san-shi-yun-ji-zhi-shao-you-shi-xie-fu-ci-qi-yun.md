@@ -6,10 +6,10 @@ titleSlug: lan-shao-mei-zhong-ni-shi-fu-chu-shi-san-shi-yun-ji-zhi-shao-you-shi-
 author: 劉弇
 authorPinyin: liu2 yan3
 authorSlug: liu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

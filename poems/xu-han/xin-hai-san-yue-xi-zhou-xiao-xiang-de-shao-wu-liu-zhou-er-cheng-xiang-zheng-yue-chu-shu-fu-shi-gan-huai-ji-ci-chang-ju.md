@@ -6,10 +6,10 @@ titleSlug: xin-hai-san-yue-xi-zhou-xiao-xiang-de-shao-wu-liu-zhou-er-cheng-xiang
 author: 許翰
 authorPinyin: xu1 han4
 authorSlug: xu-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

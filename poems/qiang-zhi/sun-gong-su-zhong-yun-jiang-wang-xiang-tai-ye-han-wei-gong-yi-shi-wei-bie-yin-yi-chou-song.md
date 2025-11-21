@@ -6,10 +6,10 @@ titleSlug: sun-gong-su-zhong-yun-jiang-wang-xiang-tai-ye-han-wei-gong-yi-shi-wei
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

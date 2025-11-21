@@ -6,25 +6,25 @@ titleSlug: ci-yun-chen-jiao-shou-jian-ji-er-shou-qi-yi
 author: 俞德鄰
 authorPinyin: yu2 de2 lin2
 authorSlug: yu-de-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 藜牀聽雨卧，雨霽抱琴行。
-- 古徑荒苔合，秋渠墜葉平。
-- 流年悲鴈影，往事咽蛩聲。
-- 誰識玄都觀，劉郎舊有名。
+- 擬效時人恥效尤，時人嫉我亦如讎。
+- 携金嬾市燕臺駿，賣劍聊尋渤海牛。
+- 白髮盈簪羞我老，黄花滿徑爲誰秋。
+- 尊前有酒休辭醉，癡絕由來愛虎頭。
 
 ## 拼音
 
-- li2 chuang2 ting1 yu3 wo4 ， yu3 ji4 bao4 qin2 hang2 。
-- gu3 jing4 huang1 tai2 he2 ， qiu1 qu2 zhui4 ye4 ping2 。
-- liu2 nian2 bei1 yan4 ying3 ， wang3 shi4 yan4 qiong2 sheng1 。
-- shui2 shi2 xuan2 dou1 guan1 ， liu2 lang2 jiu4 you3 ming2 。
+- ni3 xiao4 shi2 ren2 chi3 xiao4 you2 ， shi2 ren2 ji2 wo3 yi4 ru2 chou2 。
+- xie2 jin1 lan3 shi4 yan4 tai2 jun4 ， mai4 jian4 liao2 xun2 bo2 hai3 niu2 。
+- bai2 fa4 ying2 zan1 xiu1 wo3 lao3 ， huang2 hua1 man3 jing4 wei2 shui2 qiu1 。
+- zun1 qian2 you3 jiu3 xiu1 ci2 zui4 ， chi1 jue2 you2 lai2 ai4 hu3 tou2 。
 
 ## 注释
 

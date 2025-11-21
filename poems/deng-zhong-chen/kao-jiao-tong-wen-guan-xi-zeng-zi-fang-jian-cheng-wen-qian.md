@@ -6,10 +6,10 @@ titleSlug: kao-jiao-tong-wen-guan-xi-zeng-zi-fang-jian-cheng-wen-qian
 author: 鄧忠臣
 authorPinyin: deng4 zhong1 chen2
 authorSlug: deng-zhong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

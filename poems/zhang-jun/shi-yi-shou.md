@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 張浚
 authorPinyin: zhang1 jun4
 authorSlug: zhang-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 羣凶用事人心去，大義重新天意回。
-- 解使中原無左衽，斯文千古未塵埃。
+- 三相當年鎮廟堂，江山草木亦增光。
+- 一時主宰權衡重，千古人間姓字香。
 
 ## 拼音
 
-- qun2 xiong1 yong4 shi4 ren2 xin1 qu4 ， da4 yi4 chong2 xin1 tian1 yi4 hui2 。
-- jie3 shi3 zhong1 yuan2 wu2 zuo3 ren4 ， si1 wen2 qian1 gu3 wei4 chen2 ai1 。
+- san1 xiang4 dang1 nian2 zhen4 miao4 tang2 ， jiang1 shan1 cao3 mu4 yi4 zeng1 guang1 。
+- yi4 shi2 zhu3 zai3 quan2 heng2 zhong4 ， qian1 gu3 ren2 jian4 xing4 zi4 xiang1 。
 
 ## 注释
 

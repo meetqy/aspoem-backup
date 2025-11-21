@@ -6,10 +6,10 @@ titleSlug: jiang-zhi-xuan-cheng-liu-bie-wu-men-xiao-bai-le-tian-ti
 author: 林希
 authorPinyin: lin2 xi1
 authorSlug: lin-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

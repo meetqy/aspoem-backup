@@ -6,25 +6,21 @@ titleSlug: ci-yun-chang-fu-suo-ji-qi-san
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 催景陰陽長短宵，天回星紀又玄枵。
-- 霜寒草野真無惡，雨濕禾場正不聊。
-- 薄晚固宜山色遠，經冬猶未水痕銷。
-- 私家一飽官何恤，寂寂閒中歲月飄。
+- 奴人滿把和詩到，城市林園未放時。
+- 分餉治中君得句，載酬泉上我非詩。
 
 ## 拼音
 
-- cui1 jing3 yin1 yang2 chang2 duan3 xiao1 ， tian1 hui2 xing1 ji4 you4 xuan2 xiao1 。
-- shuang1 han2 cao3 ye3 zhen1 wu2 e4 ， yu3 shi1 he2 chang3 zheng4 bu4 liao2 。
-- bao2 wan3 gu4 yi2 shan1 se4 yuan3 ， jing1 dong1 you2 wei4 shui3 hen2 xiao1 。
-- si1 jia1 yi4 bao3 guan1 he2 xu4 ， ji4 ji4 xian2 zhong1 sui4 yue4 piao1 。
+- nu2 ren2 man3 ba3 he2 shi1 dao4 ， cheng2 shi4 lin2 yuan2 wei4 fang4 shi2 。
+- fen1 xiang3 zhi4 zhong1 jun1 de2 ju4 ， zai4 chou2 quan2 shang4 wo3 fei1 shi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: you-ma-gu
 author: 上清真人
 authorPinyin: shang4 qing1 zhen1 ren2
 authorSlug: shang-qing-zhen-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

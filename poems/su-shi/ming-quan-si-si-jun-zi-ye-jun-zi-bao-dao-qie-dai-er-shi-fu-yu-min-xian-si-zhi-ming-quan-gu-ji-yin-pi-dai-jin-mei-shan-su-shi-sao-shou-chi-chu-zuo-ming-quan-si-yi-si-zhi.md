@@ -6,10 +6,10 @@ titleSlug: ming-quan-si-si-jun-zi-ye-jun-zi-bao-dao-qie-dai-er-shi-fu-yu-min-xia
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

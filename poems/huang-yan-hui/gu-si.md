@@ -6,9 +6,9 @@ titleSlug: gu-si
 author: 黄彥輝
 authorPinyin: huang2 yan4 hui1
 authorSlug: huang-yan-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

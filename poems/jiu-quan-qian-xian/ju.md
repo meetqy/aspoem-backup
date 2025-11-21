@@ -6,10 +6,10 @@ titleSlug: ju
 author: 九泉前賢
 authorPinyin: jiu3 quan2 qian2 xian2
 authorSlug: jiu-quan-qian-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: qiu-ri-san-shou-qi-yi
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 諸卿談笑賞先登，我欲從之病不能。
-- 門閉日長公事少，祇疑身是住庵僧。
+- 罷馬厭鞭策，征鴻思稻粱。
+- 終年在泥土，永路困風霜。
+- 慎勿鞍韉愛，直須矰繳防。
+- 吾衰亦已甚，念爾不能忘。
 
 ## 拼音
 
-- zhu1 qing1 tan2 xiao4 shang3 xian1 deng1 ， wo3 yu4 cong2 zhi1 bing4 bu4 neng2 。
-- men2 bi4 ri4 chang2 gong1 shi4 shao3 ， qi2 yi2 shen1 shi4 zhu4 an1 seng1 。
+- ba4 ma3 yan4 bian1 ce4 ， zheng1 hong2 si1 dao4 liang2 。
+- zhong1 nian2 zai4 ni2 tu3 ， yong3 lu4 kun4 feng1 shuang1 。
+- shen4 wu4 an1 jian1 ai4 ， zhi2 xu1 zeng1 jiao3 fang2 。
+- wu2 shuai1 yi4 yi3 shen4 ， nian4 er3 bu4 neng2 wang4 。
 
 ## 注释
 

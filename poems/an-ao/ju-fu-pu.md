@@ -6,10 +6,10 @@ titleSlug: ju-fu-pu
 author: 安鏖
 authorPinyin: an1 ao2
 authorSlug: an-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

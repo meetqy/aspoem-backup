@@ -6,10 +6,10 @@ titleSlug: liu-ti-shao-lin-si-qi-san
 author: 李昌孺
 authorPinyin: li3 chang1 ru2
 authorSlug: li-chang-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

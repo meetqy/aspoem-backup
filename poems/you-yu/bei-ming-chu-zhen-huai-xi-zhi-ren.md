@@ -6,10 +6,10 @@ titleSlug: bei-ming-chu-zhen-huai-xi-zhi-ren
 author: 尤焴
 authorPinyin: you2 yu4
 authorSlug: you-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

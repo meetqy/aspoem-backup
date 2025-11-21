@@ -6,10 +6,10 @@ titleSlug: you-jiu-suo-shan
 author: 陳觀國
 authorPinyin: chen2 guan1 guo2
 authorSlug: chen-guan-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

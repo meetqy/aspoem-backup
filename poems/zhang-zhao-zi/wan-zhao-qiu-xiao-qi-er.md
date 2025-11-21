@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao-qi-er
 author: 張昭子
 authorPinyin: zhang1 zhao1 zi3
 authorSlug: zhang-zhao-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 武宣徽
 authorPinyin: wu3 xuan1 hui1
 authorSlug: wu-xuan-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

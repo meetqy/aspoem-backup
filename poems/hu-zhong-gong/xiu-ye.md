@@ -6,25 +6,21 @@ titleSlug: xiu-ye
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 主人風度不塵埃，幻作東西兩洞來。
-- 惟有桑田變陵谷，直從心地起樓臺。
-- 水于曲處流觴出，山到盡頭留屐回。
-- 倦客幾時歸去得，稅園隨分買花栽。
+- 世路荆榛日日深，山居抱膝且長吟。
+- 便教定亶無公論，不到風聞松竹林。
 
 ## 拼音
 
-- zhu3 ren2 feng1 du4 bu4 chen2 ai1 ， huan4 zuo4 dong1 xi1 liang3 dong4 lai2 。
-- wei2 you3 sang1 tian2 bian4 ling2 gu3 ， zhi2 cong2 xin1 di4 qi3 lou2 tai2 。
-- shui3 yu2 qu3 chu3 liu2 shang1 chu1 ， shan1 dao4 jin4 tou2 liu2 ji1 hui2 。
-- juan4 ke4 ji1 shi2 gui1 qu4 de2 ， shui4 yuan2 sui2 fen1 mai3 hua1 zai1 。
+- shi4 lu4 jing1 zhen1 ri4 ri4 shen1 ， shan1 ju1 bao4 xi1 qie3 chang2 yin2 。
+- bian4 jiao4 ding4 dan3 wu2 gong1 lun4 ， bu2 dao4 feng1 wen2 song1 zhu2 lin2 。
 
 ## 注释
 

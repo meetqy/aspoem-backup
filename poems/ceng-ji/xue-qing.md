@@ -6,25 +6,21 @@ titleSlug: xue-qing
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衾裯一夜冷于冰，雪事心知作得成。
-- 自起穴窗看不見，卻來攲枕聽無聲。
-- 下牀走報童心喜，開戶驚呼老眼明。
-- 晴日垂簷白銀塔，怪奇亦復可憐生。
+- 未快溪橋踏雪心，朝陽已復上遙岑。
+- 可憐昨夜瓊瑤跡，化作春泥尺許深。
 
 ## 拼音
 
-- qin1 dao1 yi2 ye4 leng3 yu2 bing1 ， xue3 shi4 xin1 zhi1 zuo4 de2 cheng2 。
-- zi4 qi3 xue2 chuang1 kan4 bu2 jian4 ， que4 lai2 ji1 zhen3 ting1 wu2 sheng1 。
-- xia4 chuang2 zou3 bao4 tong2 xin1 xi3 ， kai1 hu4 jing1 hu1 lao3 yan3 ming2 。
-- qing2 ri4 chui2 yan2 bai2 yin2 ta3 ， guai4 qi2 yi4 fu4 ke3 lian2 sheng1 。
+- wei4 kuai4 xi1 qiao2 ta4 xue3 xin1 ， chao2 yang2 yi3 fu4 shang4 yao2 cen2 。
+- ke3 lian2 zuo2 ye4 qiong2 yao2 ji4 ， hua4 zuo4 chun1 ni2 chi3 xu1 shen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-zu-zi-lao-cheng
 author: 陳公榮
 authorPinyin: chen2 gong1 rong2
 authorSlug: chen-gong-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

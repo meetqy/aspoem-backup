@@ -6,27 +6,21 @@ titleSlug: ji-shi
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夏木垂嘉陰，中夜微雨集。
-- 晨興涉西園，爽氣衣外入。
-- 側身過幽林，葉上見餘濕。
-- 菰蒲暗池塘，有鷺如玉立。
-- 樂哉吾此居，時平足堪葺。
+- 竹輿曉出見湖山，小室焚香暫得閑。
+- 簾動東風入雙蝶，清愁何處不相關。
 
 ## 拼音
 
-- xia4 mu4 chui2 jia1 yin1 ， zhong1 ye4 wei1 yu3 ji2 。
-- chen2 xing1 she4 xi1 yuan2 ， shuang3 qi4 yi1 wai4 ru4 。
-- ce4 shen1 guo4 you1 lin2 ， ye4 shang4 jian4 yu2 shi1 。
-- gu1 pu2 an4 chi2 tang2 ， you3 lu4 ru2 yu4 li4 。
-- le4 zai1 wu2 ci3 ju1 ， shi2 ping2 zu2 kan1 qi4 。
+- zhu2 yu2 xiao3 chu1 jian4 hu2 shan1 ， xiao3 shi4 fen2 xiang1 zan4 de2 xian2 。
+- lian2 dong4 dong1 feng1 ru4 shuang1 die2 ， qing1 chou2 he2 chu3 bu4 xiang1 guan1 。
 
 ## 注释
 

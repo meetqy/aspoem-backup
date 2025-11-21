@@ -9,22 +9,18 @@ authorSlug: qi-huan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 煢煢孤思逼，寂寂長門夜。
-- 妾妬亦知非，君恩那不借。
-- 携琴就玉階，調悲聲未諧。
-- 將心託明月，流影入君懷。
+- 宮殿沈沈月欲分，昭陽更漏不堪聞。
+- 珊瑚枕上千行淚，不是思君是恨君。
 
 ## 拼音
 
-- qiong2 qiong2 gu1 si1 bi1 ， ji4 ji4 chang2 men2 ye4 。
-- qie4 du4 yi4 zhi1 fei1 ， jun1 en1 na4 bu2 jie4 。
-- xie2 qin2 jiu4 yu4 jie1 ， diao4 bei1 sheng1 wei4 xie2 。
-- jiang1 xin1 tuo1 ming2 yue4 ， liu2 ying3 ru4 jun1 huai2 。
+- gong1 dian4 shen3 shen3 yue4 yu4 fen1 ， zhao1 yang2 geng1 lou4 bu4 kan1 wen2 。
+- shan1 hu2 zhen3 shang4 qian1 xing2 lei4 ， bu2 shi4 si1 jun1 shi4 hen4 jun1 。
 
 ## 注释
 

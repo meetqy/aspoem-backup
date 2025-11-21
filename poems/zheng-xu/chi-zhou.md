@@ -6,10 +6,10 @@ titleSlug: chi-zhou
 author: 鄭許
 authorPinyin: zheng4 xu1
 authorSlug: zheng-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,7 +9,7 @@ authorSlug: zi-tong-shuang-deng-si-seng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

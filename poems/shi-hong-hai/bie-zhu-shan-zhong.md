@@ -6,10 +6,10 @@ titleSlug: bie-zhu-shan-zhong
 author: 釋洪海
 authorPinyin: shi4 hong2 hai3
 authorSlug: shi-hong-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

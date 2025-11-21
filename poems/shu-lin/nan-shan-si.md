@@ -6,10 +6,10 @@ titleSlug: nan-shan-si
 author: 舒璘
 authorPinyin: shu1 lin2
 authorSlug: shu-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

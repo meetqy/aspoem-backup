@@ -6,10 +6,10 @@ titleSlug: pan-xi-zhi-you-qian-yi-ri-zhi-ji-tai-bo-xing-yi-tong-ling-jun-mei-xia
 author: 白麟
 authorPinyin: bai2 lin2
 authorSlug: bai-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

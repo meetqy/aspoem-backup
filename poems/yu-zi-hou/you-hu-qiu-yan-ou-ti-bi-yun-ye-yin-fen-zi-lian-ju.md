@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu-yan-ou-ti-bi-yun-ye-yin-fen-zi-lian-ju
 author: 余子侯
 authorPinyin: yu2 zi3 hou2
 authorSlug: yu-zi-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-zi-xian-zhi-guan-ping-xiang-qi-yi
 author: 謝諤
 authorPinyin: xie4 e4
 authorSlug: xie-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

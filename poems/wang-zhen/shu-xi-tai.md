@@ -6,10 +6,10 @@ titleSlug: shu-xi-tai
 author: 王震
 authorPinyin: wang2 zhen4
 authorSlug: wang-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

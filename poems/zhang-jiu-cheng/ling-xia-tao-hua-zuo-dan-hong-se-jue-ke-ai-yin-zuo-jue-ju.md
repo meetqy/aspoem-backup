@@ -6,9 +6,9 @@ titleSlug: ling-xia-tao-hua-zuo-dan-hong-se-jue-ke-ai-yin-zuo-jue-ju
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

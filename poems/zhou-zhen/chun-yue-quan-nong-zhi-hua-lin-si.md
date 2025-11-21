@@ -6,10 +6,10 @@ titleSlug: chun-yue-quan-nong-zhi-hua-lin-si
 author: 周震
 authorPinyin: zhou1 zhen4
 authorSlug: zhou-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

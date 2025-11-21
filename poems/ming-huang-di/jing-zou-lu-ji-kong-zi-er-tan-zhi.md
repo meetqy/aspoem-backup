@@ -6,10 +6,10 @@ titleSlug: jing-zou-lu-ji-kong-zi-er-tan-zhi
 author: 明皇帝
 authorPinyin: ming2 huang2 di4
 authorSlug: ming-huang-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

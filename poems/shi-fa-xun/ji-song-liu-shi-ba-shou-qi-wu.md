@@ -1,26 +1,28 @@
 ---
 id: shi-fa-xun-ji-song-liu-shi-ba-shou-qi-wu
-title: 偈頌六十八首  其五
-titlePinyin: ji4 song4 liu4 shi2 ba1 shou3     qi2 wu3
+title: 偈頌六十八首  其五○
+titlePinyin: ji4 song4 liu4 shi2 ba1 shou3     qi2 wu3 ○
 titleSlug: ji-song-liu-shi-ba-shou-qi-wu
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大雪滿長安，春來特地寒。
-- 新年頭佛法，一點不相瞞。
+- 青山不舉步，日下不挑燈。
+- 黄頭碧眼，臭肉生蠅。
+- 諸人三十年後悟去，不得錯怪老僧。
 
 ## 拼音
 
-- da4 xue3 man3 chang2 an1 ， chun1 lai2 te4 di4 han2 。
-- xin1 nian2 tou2 fo2 fa3 ， yi4 dian3 bu4 xiang1 man2 。
+- qing1 shan1 bu4 ju3 bu4 ， ri4 xia4 bu4 tiao1 deng1 。
+- huang2 tou2 bi4 yan3 ， chou4 rou4 sheng1 ying2 。
+- zhu1 ren2 san1 shi2 nian2 hou4 wu4 qu4 ， bu4 de2 cuo4 guai4 lao3 seng1 。
 
 ## 注释
 

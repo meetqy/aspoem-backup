@@ -6,10 +6,10 @@ titleSlug: ji-yuan-xian-pei-gong-ting
 author: 錢若水
 authorPinyin: qian2 ruo4 shui3
 authorSlug: qian-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

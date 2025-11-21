@@ -6,25 +6,25 @@ titleSlug: shu-ju
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不復入城市，亂山圍一村。
-- 雲霞供几席，水石佐琴樽。
-- 病久筋力緩，眠多頭目昏。
-- 無人來谷口，苔蘚上松門。
+- 林下覽清曠，此懷殊不羈。
+- 散行輕幘便，獨酌小甌宜。
+- 自可追三樂，何須作五噫。
+- 世情歌笑外，紛擾竟何爲。
 
 ## 拼音
 
-- bu2 fu4 ru4 cheng2 shi4 ， luan4 shan1 wei2 yi1 cun1 。
-- yun2 xia2 gong4 ji3 xi2 ， shui3 shi2 zuo3 qin2 zun1 。
-- bing4 jiu3 jin1 li4 huan3 ， mian2 duo1 tou2 mu4 hun1 。
-- wu2 ren2 lai2 gu3 kou3 ， tai2 xian3 shang4 song1 men2 。
+- lin2 xia4 lan3 qing1 kuang4 ， ci3 huai2 shu1 bu4 ji1 。
+- san4 xing2 qing1 ze2 bian4 ， du2 zhuo2 xiao3 ou1 yi2 。
+- zi4 ke3 zhui1 san1 le4 ， he2 xu1 zuo4 wu3 yi1 。
+- shi4 qing2 ge1 xiao4 wai4 ， fen1 rao3 jing4 he2 wei2 。
 
 ## 注释
 

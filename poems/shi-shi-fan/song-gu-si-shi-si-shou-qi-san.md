@@ -1,26 +1,26 @@
 ---
 id: shi-shi-fan-song-gu-si-shi-si-shou-qi-san
-title: 頌古四十四首  其三
-titlePinyin: song4 gu3 si4 shi2 si4 shou3     qi2 san1
+title: 頌古四十四首  其三○
+titlePinyin: song4 gu3 si4 shi2 si4 shou3     qi2 san1 ○
 titleSlug: song-gu-si-shi-si-shou-qi-san
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君王一語出如綸，尊者眉毛八字分。
-- 四海風清煙浪靜，碧天無際水無垠。
+- 頑皮老虎卧林丘，一任傍人放滴油。
+- 滿肚只因曾飽肉，縱加呼喚懶擡頭。
 
 ## 拼音
 
-- jun1 wang2 yi4 yu3 chu1 ru2 lun2 ， zun1 zhe3 mei2 mao0 ba1 zi4 fen1 。
-- si4 hai3 feng1 qing1 yan1 lang4 jing4 ， bi4 tian1 wu2 ji4 shui3 wu2 yin2 。
+- wan2 pi2 lao3 hu3 wo4 lin2 qiu1 ， yi2 ren4 bang4 ren2 fang4 di1 you2 。
+- man3 du4 zhi3 yin1 ceng2 bao3 rou4 ， zong4 jia1 hu1 huan4 lan3 tai2 tou2 。
 
 ## 注释
 

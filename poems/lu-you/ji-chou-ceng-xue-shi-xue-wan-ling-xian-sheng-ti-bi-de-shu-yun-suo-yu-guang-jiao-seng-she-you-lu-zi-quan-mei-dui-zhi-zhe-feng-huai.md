@@ -6,10 +6,10 @@ titleSlug: ji-chou-ceng-xue-shi-xue-wan-ling-xian-sheng-ti-bi-de-shu-yun-suo-yu-
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

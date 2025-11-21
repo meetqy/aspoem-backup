@@ -6,10 +6,10 @@ titleSlug: ti-ling-quan-guan
 author: 李梃
 authorPinyin: li3 ting3
 authorSlug: li-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

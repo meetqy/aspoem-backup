@@ -1,24 +1,24 @@
 ---
 id: lou-chu-cai-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 樓楚材
 authorPinyin: lou2 chu3 cai2
 authorSlug: lou-chu-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 看來固是最低樹，外此都無許大花。
+- 混融月色江湖夜，照應蘆花島嶼秋。
 
 ## 拼音
 
-- kan4 lai2 gu4 shi4 zui4 di1 shu4 ， wai4 ci3 dou1 wu2 xu1 da4 hua1 。
+- hun4 rong2 yue4 se4 jiang1 hu2 ye4 ， zhao4 ying1 lu2 hua1 dao3 yu3 qiu1 。
 
 ## 注释
 

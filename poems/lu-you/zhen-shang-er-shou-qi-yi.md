@@ -6,21 +6,21 @@ titleSlug: zhen-shang-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘燈熠熠露螢明，落葉蕭蕭寒雨聲。
-- 堪笑衰翁睡眠少，小詩常向此時成。
+- 青絲玉井轆轤聲，露葉風枝鵯鵊鳴。
+- 造物未容閑到死，又從枕上得詩情。
 
 ## 拼音
 
-- can2 deng1 yi4 yi4 lu4 ying2 ming2 ， luo4 ye4 xiao1 xiao1 han2 yu3 sheng1 。
-- kan1 xiao4 shuai1 weng1 shui4 mian2 shao3 ， xiao3 shi1 chang2 xiang4 ci3 shi2 cheng2 。
+- qing1 si1 yu4 jing3 lu4 lu2 sheng1 ， lu4 ye4 feng1 zhi1 bei1 jia2 ming2 。
+- zao4 wu4 wei4 rong2 xian2 dao4 si3 ， you4 cong2 zhen3 shang4 de2 shi1 qing2 。
 
 ## 注释
 

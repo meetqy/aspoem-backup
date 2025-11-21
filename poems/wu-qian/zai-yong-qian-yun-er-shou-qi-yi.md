@@ -6,25 +6,25 @@ titleSlug: zai-yong-qian-yun-er-shou-qi-yi
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行雨龍公屢易方，魃妖誰敢扇餘殃。
-- 田疇接得三年熟，枕簟供來幾夜凉。
-- 更喜征夫無減竈，定應行旅不賫糧。
-- 寄聲鄞土黄承事，有粟何須更窖藏。
+- 翦水工夫入細難，篩塵屑末粲豪端。
+- 司寒便合修年譜，凌室何妨踐世官。
+- 惠可立時師受記，焦先卧處衆爭看。
+- 只緣一竅丹成熟，四體那拘瘠與胖。
 
 ## 拼音
 
-- xing2 yu3 long2 gong1 lü3 yi4 fang1 ， ba2 yao1 shui2 gan3 shan4 yu2 yang1 。
-- tian2 chou2 jie1 de2 san1 nian2 shu2 ， zhen3 dian4 gong4 lai2 ji1 ye4 liang2 。
-- geng4 xi3 zheng1 fu1 wu2 jian3 zao4 ， ding4 ying1 xing2 lü3 bu4 ji1 liang2 。
-- ji4 sheng1 yin2 tu3 huang2 cheng2 shi4 ， you3 su4 he2 xu1 geng4 jiao4 cang2 。
+- jian3 shui3 gong1 fu0 ru4 xi4 nan2 ， shai1 chen2 xie4 mo4 can4 hao2 duan1 。
+- si1 han2 bian4 he2 xiu1 nian2 pu3 ， ling2 shi4 he2 fang2 jian4 shi4 guan1 。
+- hui4 ke3 li4 shi2 shi1 shou4 ji4 ， jiao1 xian1 wo4 chu3 zhong4 zheng1 kan4 。
+- zhi1 yuan2 yi2 qiao4 dan1 cheng2 shu2 ， si4 ti3 na4 ju1 ji2 yu3 pang4 。
 
 ## 注释
 

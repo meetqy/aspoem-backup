@@ -6,10 +6,10 @@ titleSlug: zi-fu-si
 author: 黄薦可
 authorPinyin: huang2 jian4 ke3
 authorSlug: huang-jian-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

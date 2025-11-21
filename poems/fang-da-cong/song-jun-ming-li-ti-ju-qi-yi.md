@@ -6,10 +6,10 @@ titleSlug: song-jun-ming-li-ti-ju-qi-yi
 author: 方大琮
 authorPinyin: fang1 da4 cong2
 authorSlug: fang-da-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: jiu-ri
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西風只識黄花面，不識登臨吊古心。
-- 空打孟嘉烏帽落，挂人唇齒到如今。
+- 瓦鼎松聲漲苦荼，替杯中物泛茱萸。
+- 白衣不識緇衣客，自擷寒英插古壺。
 
 ## 拼音
 
-- xi1 feng1 zhi1 shi2 huang2 hua1 mian4 ， bu4 shi2 deng1 lin2 diao4 gu3 xin1 。
-- kong1 da3 meng4 jia1 wu1 mao4 luo4 ， gua4 ren2 chun2 chi3 dao4 ru2 jin1 。
+- wa3 ding3 song1 sheng1 zhang3 ku3 tu2 ， ti4 bei1 zhong1 wu4 fan4 zhu1 yu2 。
+- bai2 yi1 bu4 shi2 zi1 yi1 ke4 ， zi4 xie2 han2 ying1 cha1 gu3 hu2 。
 
 ## 注释
 

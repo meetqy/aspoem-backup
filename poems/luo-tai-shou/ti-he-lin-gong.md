@@ -6,10 +6,10 @@ titleSlug: ti-he-lin-gong
 author: 羅太瘦
 authorPinyin: luo2 tai4 shou4
 authorSlug: luo-tai-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

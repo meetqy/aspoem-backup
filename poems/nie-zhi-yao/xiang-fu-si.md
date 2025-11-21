@@ -6,10 +6,10 @@ titleSlug: xiang-fu-si
 author: 聶致堯
 authorPinyin: nie4 zhi4 yao2
 authorSlug: nie-zhi-yao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

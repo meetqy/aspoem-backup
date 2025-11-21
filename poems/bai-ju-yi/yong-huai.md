@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 盡日松下坐，有時池畔行。
-- 行立與坐臥，中懷澹無營。
-- 不覺流年過，亦任白髮生。
-- 不爲世所薄，安得遂閑情。
+- 隨緣逐處便安閑，不入朝廷不住山。
+- 心似虛舟浮水上，身同宿鳥寄林間。
+- 尚平婚嫁了無累，馮翊符章封却還。
+- 處分貧家殘活計，匹如身後莫相關。
 
 ## 拼音
 
-- jin4 ri4 song1 xia4 zuo4 ， you3 shi2 chi2 pan4 xing2 。
-- xing2 li4 yu3 zuo4 wo4 ， zhong1 huai2 dan4 wu2 ying2 。
-- bu4 jue2 liu2 nian2 guo4 ， yi4 ren4 bai2 fa4 sheng1 。
-- bu4 wei2 shi4 suo3 bao2 ， an1 de2 sui4 xian2 qing2 。
+- sui2 yuan2 zhu2 chu3 bian4 an1 xian2 ， bu2 ru4 chao2 ting2 bu2 zhu4 shan1 。
+- xin1 si4 xu1 zhou1 fu2 shui3 shang4 ， shen1 tong2 su4 niao3 ji4 lin2 jian4 。
+- shang4 ping2 hun1 jia4 le0 wu2 lei4 ， feng2 yi4 fu2 zhang1 feng1 que4 huan2 。
+- chu3 fen1 pin2 jia1 can2 huo2 ji4 ， pi3 ru2 shen1 hou4 mo4 xiang1 guan1 。
 
 ## 注释
 

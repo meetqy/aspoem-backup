@@ -6,10 +6,10 @@ titleSlug: zheng-yuan-er-ri-yu-ju-zhuang-tang-bo-qi-gui-yin-chen-hong-fu-fan-zho
 author: 武衍
 authorPinyin: wu3 yan3
 authorSlug: wu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

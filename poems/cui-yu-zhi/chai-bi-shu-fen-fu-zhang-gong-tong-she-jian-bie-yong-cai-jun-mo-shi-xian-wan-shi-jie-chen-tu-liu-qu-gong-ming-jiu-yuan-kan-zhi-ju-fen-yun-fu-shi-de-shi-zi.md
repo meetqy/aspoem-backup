@@ -6,10 +6,10 @@ titleSlug: chai-bi-shu-fen-fu-zhang-gong-tong-she-jian-bie-yong-cai-jun-mo-shi-x
 author: 崔與之
 authorPinyin: cui1 yu3 zhi1
 authorSlug: cui-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

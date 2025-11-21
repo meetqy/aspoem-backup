@@ -6,10 +6,10 @@ titleSlug: wen-hu-zhou-zuo-shan-shui-heng-zhou-wu-xi-quan-jia-cang-qi-zi-cheng-b
 author: 林敏修
 authorPinyin: lin2 min3 xiu1
 authorSlug: lin-min-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

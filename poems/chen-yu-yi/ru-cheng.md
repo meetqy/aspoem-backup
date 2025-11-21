@@ -6,29 +6,29 @@ titleSlug: ru-cheng
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 竹輿聲伊鴉，路轉登古原。
-- 孟冬郊澤曠，細水鳴蘆根。
-- 霧收浮屠立，天闊鴻雁奔。
-- 平生厭喧鬧，快意三家村。
-- 思生長林內，故園歸不存。
-- 欲爲唐衢哭，聲出且復吞。
+- 舴艋泝溪來，款段踏山去。
+- 入城緣底事，要識崎嶇路。
+- 稻塍白縱橫，茅嶺青盤互。
+- 牧兒歌不休，孤客自多懼。
+- 士行猶運甓，文公亦習步。
+- 我敢忘艱難，衝煙問荒渡。
 
 ## 拼音
 
-- zhu2 yu2 sheng1 yi1 ya1 ， lu4 zhuan3 deng1 gu3 yuan2 。
-- meng4 dong1 jiao1 ze2 kuang4 ， xi4 shui3 ming2 lu2 gen1 。
-- wu4 shou1 fu2 tu2 li4 ， tian1 kuo4 hong2 yan4 ben1 。
-- ping2 sheng1 yan4 xuan1 nao4 ， kuai4 yi4 san1 jia1 cun1 。
-- si1 sheng1 chang2 lin2 nei4 ， gu4 yuan2 gui1 bu4 cun2 。
-- yu4 wei2 tang2 qu2 ku1 ， sheng1 chu1 qie3 fu4 tun1 。
+- ze2 meng3 su4 xi1 lai2 ， kuan3 duan4 ta4 shan1 qu4 。
+- ru4 cheng2 yuan2 di3 shi4 ， yao4 shi2 qi2 qu1 lu4 。
+- dao4 cheng2 bai2 zong4 heng2 ， mao2 ling3 qing1 pan2 hu4 。
+- mu4 er2 ge1 bu4 xiu1 ， gu1 ke4 zi4 duo1 ju4 。
+- shi4 xing2 you2 yun4 pi4 ， wen2 gong1 yi4 xi2 bu4 。
+- wo3 gan3 wang4 jian1 nan2 ， chong1 yan1 wen4 huang1 du4 。
 
 ## 注释
 

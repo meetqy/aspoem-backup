@@ -6,10 +6,10 @@ titleSlug: ying-yan
 author: 董荆楚
 authorPinyin: dong3 jing1 chu3
 authorSlug: dong-jing-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

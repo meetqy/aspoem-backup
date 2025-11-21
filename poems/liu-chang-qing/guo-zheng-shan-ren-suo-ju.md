@@ -9,24 +9,18 @@ authorSlug: liu-chang-qing
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一逕人尋谷口村，春山犬吠武陵源。
-- 青苔滿地無行處，深咲桃花獨閉門。
-- （同前）（按：《全唐詩》卷一五○收本詩，內容大異，今重錄。
-- 《千載佳句》卷上《人事部・閑居》收後二句，詩題不同，《全唐詩逸》卷上已收入。
-- ）。
+- 寂寂孤鶯啼杏園，寥寥一犬吠桃源。
+- 落花芳草無尋處，萬壑千峰獨閉門。
 
 ## 拼音
 
-- yi2 jing4 ren2 xun2 gu3 kou3 cun1 ， chun1 shan1 quan3 fei4 wu3 ling2 yuan2 。
-- qing1 tai2 man3 di4 wu2 xing2 chu3 ， shen1 xiao4 tao2 hua1 du2 bi4 men2 。
-- （ tong2 qian2 ）（ an4 ：《 quan2 tang2 shi1 》 juan4 yi1 wu3 ○ shou1 ben3 shi1 ， nei4 rong2 da4 yi4 ， jin1 zhong4 lu4 。
-- 《 qian1 zai4 jia1 ju4 》 juan3 shang4 《 ren2 shi4 bu4 ・ xian2 ju1 》 shou1 hou4 er4 ju4 ， shi1 ti2 bu4 tong2 ，《 quan2 tang2 shi1 yi4 》 juan3 shang4 yi3 shou1 ru4 。
-- ）。
+- ji4 ji4 gu1 ying1 ti2 xing4 yuan2 ， liao2 liao2 yi4 quan3 fei4 tao2 yuan2 。
+- luo4 hua1 fang1 cao3 wu2 xun2 chu3 ， wan4 he4 qian1 feng1 du2 bi4 men2 。
 
 ## 注释
 

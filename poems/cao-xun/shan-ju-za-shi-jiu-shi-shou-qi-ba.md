@@ -1,30 +1,30 @@
 ---
 id: cao-xun-shan-ju-za-shi-jiu-shi-shou-qi-ba
-title: 山居雜詩九十首  其八
-titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 ba1
+title: 山居雜詩九十首  其八○
+titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 ba1 ○
 titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 牆裏種桃杏，新春亦已花。
-- 牆外繞扶疏，綠蔭皆桑麻。
-- 今年風雨時，日見田稻嘉。
-- 長缾瀉黄湯，且餉田畯茶。
+- 我有舊知識，生來晦蹤跡。
+- 邂逅不可見，早夜何能覓。
+- 忽然積習處，相逢吐胸臆。
+- 臨了一句子，會心極得力。
 
 ## 拼音
 
-- qiang2 li3 zhong3 tao2 xing4 ， xin1 chun1 yi4 yi3 hua1 。
-- qiang2 wai4 rao4 fu2 shu1 ， lü4 yin1 jie1 sang1 ma2 。
-- jin1 nian2 feng1 yu3 shi2 ， ri4 jian4 tian2 dao4 jia1 。
-- chang2 ping2 xie4 huang2 tang1 ， qie3 xiang3 tian2 jun4 cha2 。
+- wo3 you3 jiu4 zhi1 shi2 ， sheng1 lai2 hui4 zong1 ji4 。
+- xie4 hou4 bu4 ke3 jian4 ， zao3 ye4 he2 neng2 mi4 。
+- hu1 ran2 ji1 xi2 chu3 ， xiang1 feng2 tu3 xiong1 yi4 。
+- lin2 le0 yi2 ju4 zi0 ， hui4 xin1 ji2 de2 li4 。
 
 ## 注释
 

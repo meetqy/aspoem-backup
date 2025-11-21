@@ -6,10 +6,10 @@ titleSlug: yu-quan-an
 author: 江公著
 authorPinyin: jiang1 gong1 zhu4
 authorSlug: jiang-gong-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

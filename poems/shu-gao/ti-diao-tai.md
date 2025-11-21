@@ -6,10 +6,10 @@ titleSlug: ti-diao-tai
 author: 舒杲
 authorPinyin: shu1 gao3
 authorSlug: shu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

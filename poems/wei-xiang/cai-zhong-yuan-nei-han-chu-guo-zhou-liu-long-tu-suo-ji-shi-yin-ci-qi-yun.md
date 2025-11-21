@@ -6,10 +6,10 @@ titleSlug: cai-zhong-yuan-nei-han-chu-guo-zhou-liu-long-tu-suo-ji-shi-yin-ci-qi-
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

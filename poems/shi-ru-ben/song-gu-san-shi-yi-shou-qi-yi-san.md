@@ -6,9 +6,9 @@ titleSlug: song-gu-san-shi-yi-shou-qi-yi-san
 author: 釋如本
 authorPinyin: shi4 ru2 ben3
 authorSlug: shi-ru-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

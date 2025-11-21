@@ -1,14 +1,14 @@
 ---
 id: wen-tong-zheng-su-wu-gong-wan-shi-qi-er
-title: 正肅吳公挽詩・其二
-titlePinyin: zheng4 su4 wu2 gong1 wan3 shi1・qi2 er4
+title: 正肅吳公挽詩  其二
+titlePinyin: zheng4 su4 wu2 gong1 wan3 shi1     qi2 er4
 titleSlug: zheng-su-wu-gong-wan-shi-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,21 @@ titleSlug: song-lu-qing-shu-qi-san
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 慘慘黄昏天欲雪，蕭蕭淮浦人聲絕。
-- 風擊寒雲雁正鳴，客眠孤棹燈方滅。
+- 匆匆一棹向東行，抖擻空囊無一金。
+- 買魚沽酒向村市，典却蔡家焦尾琴。
 
 ## 拼音
 
-- can3 can3 huang2 hun1 tian1 yu4 xue3 ， xiao1 xiao1 huai2 pu3 ren2 sheng1 jue2 。
-- feng1 ji1 han2 yun2 yan4 zheng4 ming2 ， ke4 mian2 gu1 zhao4 deng1 fang1 mie4 。
+- cong1 cong1 yi2 zhao4 xiang4 dong1 xing2 ， dou3 sou4 kong1 nang2 wu2 yi4 jin1 。
+- mai3 yu2 gu1 jiu3 xiang4 cun1 shi4 ， dian3 que4 cai4 jia1 jiao1 wei3 qin2 。
 
 ## 注释
 

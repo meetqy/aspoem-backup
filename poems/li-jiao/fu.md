@@ -1,7 +1,7 @@
 ---
 id: li-jiao-fu
-title: 賦
-titlePinyin: fu4
+title: 鳧
+titlePinyin: fu2
 titleSlug: fu
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 布義孫卿子，登高楚屈平。
-- 銅臺初下筆，樂觀正飛纓。
-- 乍有凌雲勢，時聞擲地聲。
-- 造端長體物，無復大夫名。
+- 颯沓睢陽涘，浮游漢水隈。
+- 錢飛出井見，鶴引入琴哀。
+- 李陵賦詩罷，王喬曳舄來。
+- 何當歸太液，翱集動成雷。
 
 ## 拼音
 
-- bu4 yi4 sun1 qing1 zi3 ， deng1 gao1 chu3 qu1 ping2 。
-- tong2 tai2 chu1 xia4 bi3 ， le4 guan1 zheng4 fei1 ying1 。
-- zha4 you3 ling2 yun2 shi4 ， shi2 wen2 zhi4 di4 sheng1 。
-- zao4 duan1 chang2 ti3 wu4 ， wu2 fu4 dai4 fu0 ming2 。
+- sa4 ta4 sui1 yang2 si4 ， fu2 you2 han4 shui3 wei1 。
+- qian2 fei1 chu1 jing3 jian4 ， he4 yin3 ru4 qin2 ai1 。
+- li3 ling2 fu4 shi1 ba4 ， wang2 qiao2 ye4 xi4 lai2 。
+- he2 dang1 gui1 tai4 ye4 ， ao2 ji2 dong4 cheng2 lei2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: chen-pu-yong-shi-shu-xian-zhu-qi-yi
-title: 詠史 蜀先主 其一
-titlePinyin: yong3 shi3   shu3 xian1 zhu3   qi2 yi1
+title: 詠史 蜀先主 其一○
+titlePinyin: yong3 shi3   shu3 xian1 zhu3   qi2 yi1 ○
 titleSlug: yong-shi-shu-xian-zhu-qi-yi
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩得徐州不自由，中原應不戀炎劉。
-- 孫曹袁呂非蟊賊，五采龍文在益州。
+- 平生信義滿乾坤，曾弔諸侯未返魂。
+- 呂布來時梟送洛，不應投許又投袁。
 
 ## 拼音
 
-- liang3 de2 xu2 zhou1 bu2 zi4 you2 ， zhong1 yuan2 ying1 bu2 lian4 yan2 liu2 。
-- sun1 cao2 yuan2 lü3 fei1 mao2 zei2 ， wu3 cai3 long2 wen2 zai4 yi4 zhou1 。
+- ping2 sheng1 xin4 yi4 man3 qian2 kun1 ， ceng2 diao4 zhu1 hou2 wei4 fan3 hun2 。
+- lü3 bu4 lai2 shi2 xiao1 song4 luo4 ， bu4 ying1 tou2 xu1 you4 tou2 yuan2 。
 
 ## 注释
 

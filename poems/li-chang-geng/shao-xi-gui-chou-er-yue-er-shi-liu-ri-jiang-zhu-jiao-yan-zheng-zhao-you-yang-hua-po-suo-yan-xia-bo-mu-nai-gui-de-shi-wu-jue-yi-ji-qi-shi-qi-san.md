@@ -6,10 +6,10 @@ titleSlug: shao-xi-gui-chou-er-yue-er-shi-liu-ri-jiang-zhu-jiao-yan-zheng-zhao-y
 author: 李長庚
 authorPinyin: li3 chang2 geng1
 authorSlug: li-chang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

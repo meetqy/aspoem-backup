@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 粉英香蕚一般般，無限行人立馬看。
-- 村女浴蠶桑柘綠，枉將顔色忍春寒。
+- 粉英香萼一般般，無限行人立馬看。
+- 村女浴蠶桑柘綠，枉將顏色忍春寒。
 
 ## 拼音
 

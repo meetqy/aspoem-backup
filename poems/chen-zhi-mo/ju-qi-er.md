@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 陳知默
 authorPinyin: chen2 zhi1 mo4
 authorSlug: chen-zhi-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,7 +9,7 @@ authorSlug: fu-rong-gu-zhang-fu-mao-nu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

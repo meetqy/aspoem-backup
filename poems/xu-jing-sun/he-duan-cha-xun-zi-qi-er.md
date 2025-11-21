@@ -6,10 +6,10 @@ titleSlug: he-duan-cha-xun-zi-qi-er
 author: 徐經孫
 authorPinyin: xu2 jing1 sun1
 authorSlug: xu-jing-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

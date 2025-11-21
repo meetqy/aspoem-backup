@@ -6,10 +6,10 @@ titleSlug: he-meng-jiao-yun
 author: 傅宏
 authorPinyin: fu4 hong2
 authorSlug: fu-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

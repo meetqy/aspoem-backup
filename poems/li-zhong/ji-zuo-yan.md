@@ -9,22 +9,22 @@ authorSlug: li-zhong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 每病風騷路，荒涼人莫遊。
-- 惟君還似我，成癖未能休。
-- 捨寐緣孤月，忘形爲九秋。
-- 垂名如不朽，那恨雪生頭。
+- 蕭條陋巷綠苔侵，何事君心似我心。
+- 貧戶懶開元愛靜，病身纔起便思吟。
+- 閑留好鳥庭柯密，暗養鳴蛩砌草深。
+- 況是清朝重文物，無愁當路少知音。
 
 ## 拼音
 
-- mei3 bing4 feng1 sao1 lu4 ， huang1 liang2 ren2 mo4 you2 。
-- wei2 jun1 huan2 si4 wo3 ， cheng2 pi3 wei4 neng2 xiu1 。
-- she3 mei4 yuan2 gu1 yue4 ， wang4 xing2 wei2 jiu3 qiu1 。
-- chui2 ming2 ru2 bu4 xiu3 ， na4 hen4 xue3 sheng1 tou2 。
+- xiao1 tiao2 lou4 xiang4 lü4 tai2 qin1 ， he2 shi4 jun1 xin1 si4 wo3 xin1 。
+- pin2 hu4 lan3 kai1 yuan2 ai4 jing4 ， bing4 shen1 cai2 qi3 bian4 si1 yin2 。
+- xian2 liu2 hao3 niao3 ting2 ke1 mi4 ， an4 yang3 ming2 qiong2 qi4 cao3 shen1 。
+- kuang4 shi4 qing1 chao2 zhong4 wen2 wu4 ， wu2 chou2 dang1 lu4 shao3 zhi1 yin1 。
 
 ## 注释
 

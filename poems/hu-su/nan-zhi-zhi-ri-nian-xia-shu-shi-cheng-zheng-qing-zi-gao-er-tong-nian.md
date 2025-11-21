@@ -6,10 +6,10 @@ titleSlug: nan-zhi-zhi-ri-nian-xia-shu-shi-cheng-zheng-qing-zi-gao-er-tong-nian
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

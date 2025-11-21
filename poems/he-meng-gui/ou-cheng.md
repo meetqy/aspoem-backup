@@ -6,25 +6,21 @@ titleSlug: ou-cheng
 author: 何夢桂
 authorPinyin: he2 meng4 gui4
 authorSlug: he-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 喚醒邯鄲出夢關，悠悠身世隔塵寰。
-- 飛鴻落照琴三疊，流水寒花屋半間。
-- 老不如人甘遯世，閑誰似我得看山。
-- 乾坤許大雙蝸角，消得人間戰觸蠻。
+- 心無損物宜平怨，語不妨人貴寡尤。
+- 說與時人莫相忌，全家已擬鹿門遊。
 
 ## 拼音
 
-- huan4 xing3 han2 dan1 chu1 meng4 guan1 ， you1 you1 shen1 shi4 ge2 chen2 huan2 。
-- fei1 hong2 luo4 zhao4 qin2 san1 die2 ， liu2 shui3 han2 hua1 wu1 ban4 jian4 。
-- lao3 bu4 ru2 ren2 gan1 dun4 shi4 ， xian2 shui2 si4 wo3 de2 kan4 shan1 。
-- qian2 kun1 xu1 da4 shuang1 wo1 jiao3 ， xiao1 de0 ren2 jian4 zhan4 chu4 man2 。
+- xin1 wu2 sun3 wu4 yi2 ping2 yuan4 ， yu3 bu4 fang2 ren2 gui4 gua3 you2 。
+- shuo1 yu3 shi2 ren2 mo4 xiang1 ji4 ， quan2 jia1 yi3 ni3 lu4 men2 you2 。
 
 ## 注释
 

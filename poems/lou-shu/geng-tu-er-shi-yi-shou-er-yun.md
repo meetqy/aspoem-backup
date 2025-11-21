@@ -6,9 +6,9 @@ titleSlug: geng-tu-er-shi-yi-shou-er-yun
 author: 樓璹
 authorPinyin: lou2 shu2
 authorSlug: lou-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

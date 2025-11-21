@@ -1,26 +1,26 @@
 ---
 id: shi-fa-tai-song-gu-si-shi-si-shou-qi-san
-title: 頌古四十四首  其三
-titlePinyin: song4 gu3 si4 shi2 si4 shou3     qi2 san1
+title: 頌古四十四首  其三○
+titlePinyin: song4 gu3 si4 shi2 si4 shou3     qi2 san1 ○
 titleSlug: song-gu-si-shi-si-shou-qi-san
 author: 釋法泰
 authorPinyin: shi4 fa3 tai4
 authorSlug: shi-fa-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不是風兮不是旛，一重山後一重山。
-- 青春雨過無餘因，獨倚危樓望剎竿。
+- 垂鈎四海釣獰龍，格外玄談知己從。
+- 相見披衫带席帽，不妨把手上高峰。
 
 ## 拼音
 
-- bu2 shi4 feng1 xi1 bu2 shi4 fan1 ， yi4 chong2 shan1 hou4 yi4 chong2 shan1 。
-- qing1 chun1 yu3 guo4 wu2 yu2 yin1 ， du2 yi3 wei1 lou2 wang4 cha4 gan1 。
+- chui2 gou1 si4 hai3 diao4 ning2 long2 ， ge2 wai4 xuan2 tan2 zhi1 ji3 cong2 。
+- xiang1 jian4 pi1 shan1 dai4 xi2 mao4 ， bu4 fang2 ba3 shou3 shang4 gao1 feng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wu-gong-qu
 author: 黄順之
 authorPinyin: huang2 shun4 zhi1
 authorSlug: huang-shun-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

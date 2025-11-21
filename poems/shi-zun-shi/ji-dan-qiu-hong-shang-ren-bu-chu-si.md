@@ -6,10 +6,10 @@ titleSlug: ji-dan-qiu-hong-shang-ren-bu-chu-si
 author: 釋遵式
 authorPinyin: shi4 zun1 shi4
 authorSlug: shi-zun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

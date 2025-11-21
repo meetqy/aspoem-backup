@@ -9,22 +9,18 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 絡角星河菡萏天，一家懽笑設紅筵。
-- 應傾謝女珠璣篋，盡寫檀郎錦繡篇。
-- 香帳簇成排窈窕，金鍼穿罷拜嬋娟。
-- 銅壺漏報天將曉，惆悵佳期又一年。
+- 月帳星房次第開，兩情惟恐曙光催。
+- 時人不用穿鍼待，沒得心情送巧來。
 
 ## 拼音
 
-- luo4 jiao3 xing1 he2 han4 dan4 tian1 ， yi4 jia1 huan1 xiao4 she4 hong2 yan2 。
-- ying1 qing1 xie4 nü3 zhu1 ji1 qie4 ， jin4 xie3 tan2 lang2 jin3 xiu4 pian1 。
-- xiang1 zhang4 cu4 cheng2 pai2 yao3 tiao3 ， jin1 zhen1 chuan1 ba4 bai4 chan2 juan1 。
-- tong2 hu2 lou4 bao4 tian1 jiang1 xiao3 ， chou2 chang4 jia1 qi1 you4 yi4 nian2 。
+- yue4 zhang4 xing1 fang2 ci4 di4 kai1 ， liang3 qing2 wei2 kong3 shu3 guang1 cui1 。
+- shi2 ren2 bu2 yong4 chuan1 zhen1 dai4 ， mei2 de2 xin1 qing2 song4 qiao3 lai2 。
 
 ## 注释
 

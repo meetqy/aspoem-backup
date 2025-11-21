@@ -6,10 +6,10 @@ titleSlug: zhuo-quan-ting
 author: 朱蒙正
 authorPinyin: zhu1 meng2 zheng4
 authorSlug: zhu-meng-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

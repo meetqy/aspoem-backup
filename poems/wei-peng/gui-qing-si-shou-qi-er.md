@@ -6,10 +6,10 @@ titleSlug: gui-qing-si-shou-qi-er
 author: 魏鵬
 authorPinyin: wei4 peng2
 authorSlug: wei-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 釋正一
 authorPinyin: shi4 zheng4 yi1
 authorSlug: shi-zheng-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ou-cheng
 author: 郭知運
 authorPinyin: guo1 zhi1 yun4
 authorSlug: guo-zhi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: wu-ye-ti
 author: 吳百生
 authorPinyin: wu2 bai3 sheng1
 authorSlug: wu-bai-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

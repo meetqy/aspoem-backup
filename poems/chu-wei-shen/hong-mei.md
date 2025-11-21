@@ -6,10 +6,10 @@ titleSlug: hong-mei
 author: 初惟深
 authorPinyin: chu1 wei2 shen1
 authorSlug: chu-wei-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

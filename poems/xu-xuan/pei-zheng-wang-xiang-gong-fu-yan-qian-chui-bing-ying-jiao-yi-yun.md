@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-pei-zheng-wang-xiang-gong-fu-yan-qian-chui-bing-ying-jiao-yi-yun
-title: 陪鄭王相公賦簷前垂冰應教依韻
+title: 陪鄭王相公賦筵前垂冰應教依韻
 titlePinyin: pei2 zheng4 wang2 xiang4 gong0 fu4 yan2 qian2 chui2 bing1 ying1 jiao4 yi1 yun4
 titleSlug: pei-zheng-wang-xiang-gong-fu-yan-qian-chui-bing-ying-jiao-yi-yun
 author: 徐鉉
@@ -16,7 +16,7 @@ tags: []
 
 - 窗外虛明雪乍晴，簷前垂霤盡成冰。
 - 長廊瓦疊行行密，晚院風高寸寸增。
-- 玉指乍拈簪尚愧，金階時墜磬難勝。
+- 玉指乍拈簪尚媿，金階時墜磬難勝。
 - 晨餐堪醒曹參酒，自恨空腸病不能。
 
 ## 拼音

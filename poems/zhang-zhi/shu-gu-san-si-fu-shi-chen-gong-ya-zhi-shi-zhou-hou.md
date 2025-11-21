@@ -6,10 +6,10 @@ titleSlug: shu-gu-san-si-fu-shi-chen-gong-ya-zhi-shi-zhou-hou
 author: 張徵
 authorPinyin: zhang1 zhi3
 authorSlug: zhang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

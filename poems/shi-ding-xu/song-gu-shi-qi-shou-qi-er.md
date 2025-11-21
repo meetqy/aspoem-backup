@@ -1,26 +1,26 @@
 ---
 id: shi-ding-xu-song-gu-shi-qi-shou-qi-er
-title: 頌古十七首  其二
-titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 er4
+title: 頌古十七首  其二○
+titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 er4 ○
 titleSlug: song-gu-shi-qi-shou-qi-er
 author: 釋鼎需
 authorPinyin: shi4 ding3 xu1
 authorSlug: shi-ding-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 打車即是打牛是，鼻孔遼天也被穿。
-- 已向人前輸肺腑，可憐今古妄加鞭。
+- 三人證龜成鱉，剛把天機漏洩。
+- 木人嶺上唱歌，石女眼中滴血。
 
 ## 拼音
 
-- da3 ju1 ji2 shi4 da3 niu2 shi4 ， bi2 kong3 liao2 tian1 ye3 bei4 chuan1 。
-- yi3 xiang4 ren2 qian2 shu1 fei4 fu3 ， ke3 lian2 jin1 gu3 wang4 jia1 bian1 。
+- san1 ren2 zheng4 gui1 cheng2 bie1 ， gang1 ba3 tian1 ji1 lou4 xie4 。
+- mu4 ren2 ling3 shang4 chang4 ge1 ， shi2 nü3 yan3 zhong1 di1 xue4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 釋慶老
 authorPinyin: shi4 qing4 lao3
 authorSlug: shi-qing-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

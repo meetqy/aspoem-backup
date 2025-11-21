@@ -6,10 +6,10 @@ titleSlug: zi-chu-chi-xiao-zeng-zhong-shi-yi-wu-xiang-yu-dan-zhi-ru-yu-er-wei-sh
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

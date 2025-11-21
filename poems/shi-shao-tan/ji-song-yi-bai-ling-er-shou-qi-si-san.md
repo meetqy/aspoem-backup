@@ -6,21 +6,21 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-si-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅錦纏頭舞醉身，笙歌聲沸鳳樓春。
-- 百花叢裏扶歸去，誰道兒郎徹骨貧。
+- 浪蕩貪觀野鴨兒，犯叢林合講清規。
+- 鼻頭捏破知慚愧，燒炷楓香供養伊。
 
 ## 拼音
 
-- hong2 jin3 chan2 tou2 wu3 zui4 shen1 ， sheng1 ge1 sheng1 fei4 feng4 lou2 chun1 。
-- bai3 hua1 cong2 li3 fu2 gui1 qu4 ， shui2 dao4 er2 lang2 che4 gu3 pin2 。
+- lang4 dang4 tan1 guan1 ye3 ya1 er2 ， fan4 cong2 lin2 he2 jiang3 qing1 gui1 。
+- bi2 tou2 nie1 po4 zhi1 can2 kui4 ， shao1 zhu4 feng1 xiang1 gong4 yang3 yi1 。
 
 ## 注释
 

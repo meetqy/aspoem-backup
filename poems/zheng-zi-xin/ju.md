@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄭子信
 authorPinyin: zheng4 zi3 xin4
 authorSlug: zheng-zi-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-zhi-yuan-ji
-title: 偈
-titlePinyin: ji4
+title: 雞
+titlePinyin: ji1
 titleSlug: ji
-author: 釋智遠
-authorPinyin: shi4 zhi4 yuan3
+author: 釋智圓
+authorPinyin: shi4 zhi4 yuan2
 authorSlug: shi-zhi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 從來打鼓弄琵琶，須是相逢兩會家。
-- 佩玉鳴鸞歌舞罷，門前依舊夕陽斜。
+- 簷前棲息傍蒿叢，風雨司晨爾有功。
+- 鸚鵡無能憑佞舌，侯門翻養金籠。
 
 ## 拼音
 
-- cong2 lai2 da3 gu3 nong4 pi2 pa0 ， xu1 shi4 xiang1 feng2 liang3 hui4 jia1 。
-- pei4 yu4 ming2 luan2 ge1 wu3 ba4 ， men2 qian2 yi1 jiu4 xi1 yang2 xie2 。
+- yan2 qian2 qi1 xi1 bang4 hao1 cong2 ， feng1 yu3 si1 chen2 er3 you3 gong1 。
+- ying1 wu3 wu2 neng2 ping2 ning4 she2 ， hou2 men2 fan1 yang3 jin1 long2 。
 
 ## 注释
 

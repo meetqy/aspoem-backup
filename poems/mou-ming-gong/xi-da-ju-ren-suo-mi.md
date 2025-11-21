@@ -6,10 +6,10 @@ titleSlug: xi-da-ju-ren-suo-mi
 author: 某名公
 authorPinyin: mou3 ming2 gong1
 authorSlug: mou-ming-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,27 +6,25 @@ titleSlug: shi-lu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世路饒風波，生平有終極。
-- 東西苦漂蕩，鬢髮非舊色。
-- 倦鳥懷安栖，老馬思故櫪。
-- 萬類雖不齊，彼此各有適。
-- 富貴亦偶然，何須置胸臆。
+- 世路古來難，深居息萬端。
+- 道因無欲勝，山不厭人看。
+- 石碓寒流淺，畬田遠燒殘。
+- 未嫌生意少，老子自能安。
 
 ## 拼音
 
-- shi4 lu4 rao2 feng1 bo1 ， sheng1 ping2 you3 zhong1 ji2 。
-- dong1 xi1 ku3 piao1 dang4 ， bin4 fa4 fei1 jiu4 se4 。
-- juan4 niao3 huai2 an1 qi1 ， lao3 ma3 si1 gu4 li4 。
-- wan4 lei4 sui1 bu4 qi2 ， bi3 ci3 ge4 you3 shi4 。
-- fu4 gui4 yi4 ou3 ran2 ， he2 xu1 zhi4 xiong1 yi4 。
+- shi4 lu4 gu3 lai2 nan2 ， shen1 ju1 xi1 wan4 duan1 。
+- dao4 yin1 wu2 yu4 sheng4 ， shan1 bu2 yan4 ren2 kan4 。
+- shi2 dui4 han2 liu2 qian3 ， she1 tian2 yuan3 shao1 can2 。
+- wei4 xian2 sheng1 yi4 shao3 ， lao3 zi3 zi4 neng2 an1 。
 
 ## 注释
 

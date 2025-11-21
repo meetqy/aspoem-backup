@@ -6,29 +6,29 @@ titleSlug: za-shi-qi-si
 author: 沈遼
 authorPinyin: shen3 liao2
 authorSlug: shen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古人有精思，飄飄出天壤。
-- 遺形若屣履，寧復顧煩鞅。
-- 髙鳳會幽趣，迺貽漂麥讓。
-- 御寇好遊適，初聞內觀賞。
-- 希夷本人境，奚憚不可往。
-- 有說即忘言，指象真爲駔。
+- 巨蛇老且蛻，不如蟬脫飛。
+- 茫然寄坱圠，生死亦一歸。
+- 達人觀元化，其言玄且微。
+- 生死有不類，於是知者稀。
+- 秋池夜觀月，方與水相輝。
+- 聊爾乘物化，指象終爲非。
 
 ## 拼音
 
-- gu3 ren2 you3 jing1 si1 ， piao1 piao1 chu1 tian1 rang3 。
-- yi2 xing2 ruo4 xi3 lü3 ， ning2 fu4 gu4 fan2 yang1 。
-- gao1 feng4 hui4 you1 qu4 ， nai3 yi2 piao1 mai4 rang4 。
-- yu4 kou4 hao3 you2 shi4 ， chu1 wen2 nei4 guan1 shang3 。
-- xi1 yi2 ben3 ren2 jing4 ， xi1 dan4 bu4 ke3 wang3 。
-- you3 shuo1 ji2 wang4 yan2 ， zhi3 xiang4 zhen1 wei2 zang3 。
+- ju4 she2 lao3 qie3 tui4 ， bu4 ru2 chan2 tuo1 fei1 。
+- mang2 ran2 ji4 yang3 ya4 ， sheng1 si3 yi4 yi4 gui1 。
+- da2 ren2 guan1 yuan2 hua4 ， qi2 yan2 xuan2 qie3 wei1 。
+- sheng1 si3 you3 bu2 lei4 ， wu1 shi4 zhi1 zhe3 xi1 。
+- qiu1 chi2 ye4 guan1 yue4 ， fang1 yu3 shui3 xiang1 hui1 。
+- liao2 er3 cheng2 wu4 hua4 ， zhi3 xiang4 zhong1 wei2 fei1 。
 
 ## 注释
 

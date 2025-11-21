@@ -6,10 +6,10 @@ titleSlug: ti-han-gan-ma
 author: 高翔
 authorPinyin: gao1 xiang2
 authorSlug: gao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

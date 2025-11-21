@@ -6,10 +6,10 @@ titleSlug: nan-ming-shan-bao-xiang-si-shi-wu-ti-qi-xiang-jing
 author: 釋顯忠
 authorPinyin: shi4 xian3 zhong1
 authorSlug: shi-xian-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

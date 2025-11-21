@@ -6,10 +6,10 @@ titleSlug: ji-zi-miao
 author: 石祖文
 authorPinyin: shi2 zu3 wen2
 authorSlug: shi-zu-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

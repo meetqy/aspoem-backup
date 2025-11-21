@@ -6,10 +6,10 @@ titleSlug: zhi-jiu
 author: 呂耐軒
 authorPinyin: lü3 nai4 xuan1
 authorSlug: lu-nai-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

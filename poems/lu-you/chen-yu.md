@@ -6,25 +6,25 @@ titleSlug: chen-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 揮汗驅蚊廢夜眠，清晨一雨便翛然。
-- 涼生池閣衣巾爽，潤入園林草木鮮。
-- 青蒻雲腴開鬭茗，翠甖玉液取寒泉。
-- 飯餘一枕華胥夢，不怪門生笑腹便。
+- 過雲生谷暗，既雨却窗明。
+- 低燕爭泥語，浮魚逆水行。
+- 山川增秀色，草木有奇聲。
+- 處處青秧滿，長歌樂太平。
 
 ## 拼音
 
-- hui1 han4 qu1 wen2 fei4 ye4 mian2 ， qing1 chen2 yi4 yu3 bian4 xiao1 ran2 。
-- liang2 sheng1 chi2 ge2 yi1 jin1 shuang3 ， run4 ru4 yuan2 lin2 cao3 mu4 xian1 。
-- qing1 ruo4 yun2 yu2 kai1 dou4 ming2 ， cui4 ying1 yu4 ye4 qu3 han2 quan2 。
-- fan4 yu2 yi4 zhen3 hua2 xu1 meng4 ， bu2 guai4 men2 sheng1 xiao4 fu4 bian4 。
+- guo4 yun2 sheng1 gu3 an4 ， ji4 yu3 que4 chuang1 ming2 。
+- di1 yan4 zheng1 ni2 yu3 ， fu2 yu2 ni4 shui3 xing2 。
+- shan1 chuan1 zeng1 xiu4 se4 ， cao3 mu4 you3 qi2 sheng1 。
+- chu3 chu3 qing1 yang1 man3 ， chang2 ge1 le4 tai4 ping2 。
 
 ## 注释
 

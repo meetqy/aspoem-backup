@@ -6,10 +6,10 @@ titleSlug: chang-yu-ke-chun-lu-cheng-xie-de-dui-huo-yan-jin-nian-dou-men-jian-ha
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

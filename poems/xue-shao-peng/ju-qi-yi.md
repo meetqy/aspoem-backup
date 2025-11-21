@@ -1,24 +1,24 @@
 ---
 id: xue-shao-peng-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 薛紹彭
 authorPinyin: xue1 shao4 peng2
 authorSlug: xue-shao-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨不濕行逕，雲猶依故山。
+- 鷗鷺驚飛起，秋風菱荇花。
 
 ## 拼音
 
-- yu3 bu4 shi1 xing2 jing4 ， yun2 you2 yi1 gu4 shan1 。
+- ou1 lu4 jing1 fei1 qi3 ， qiu1 feng1 ling2 xing4 hua1 。
 
 ## 注释
 

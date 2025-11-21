@@ -6,25 +6,25 @@ titleSlug: yu-hou
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荒園綠草長，無客到書堂。
-- 百尺轆轤冷，一林薝蔔香。
-- 杭書歸蠟屐，睦艇致藤牀。
-- 閒步復閒卧，身凉心更凉。
+- 重濕抖筠籠，追凉滌瓦鍾。
+- 乏香嫌婢索，得酒頼兒供。
+- 紙潤剪彌鈍，墨膠書不濃。
+- 幽齋雨中詠，寄遠意還慵。
 
 ## 拼音
 
-- huang1 yuan2 lü4 cao3 chang2 ， wu2 ke4 dao4 shu1 tang2 。
-- bai3 chi3 lu4 lu2 leng3 ， yi4 lin2 zhan1 bo0 xiang1 。
-- hang2 shu1 gui1 la4 ji1 ， mu4 ting3 zhi4 teng2 chuang2 。
-- xian2 bu4 fu4 xian2 wo4 ， shen1 liang2 xin1 geng4 liang2 。
+- zhong4 shi1 dou3 yun2 long2 ， zhui1 liang2 di2 wa3 zhong1 。
+- fa2 xiang1 xian2 bi4 suo3 ， de2 jiu3 lai4 er2 gong4 。
+- zhi3 run4 jian3 mi2 dun4 ， mo4 jiao1 shu1 bu4 nong2 。
+- you1 zhai1 yu3 zhong1 yong3 ， ji4 yuan3 yi4 huan2 yong1 。
 
 ## 注释
 

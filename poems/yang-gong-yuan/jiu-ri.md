@@ -6,25 +6,25 @@ titleSlug: jiu-ri
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 造化推移秋意深，安排景物逐時新。
-- 又逢九日寒花節，不覺三年逆旅身。
-- 烏帽戀頭渾忤俗，白衣送酒竟無人。
-- 翻思杜牧牛山句，誰解清吟繼後塵。
+- 滿城風雨霍然開，不負登臨亦快哉。
+- 時俗半無烏帽墮，世情那有白衣來。
+- 且沽薄酒酬佳節，欲賦新詩愧短才。
+- 折得黄花簪兩鬢，任渠兩鬢自毰毸。
 
 ## 拼音
 
-- zao4 hua4 tui1 yi2 qiu1 yi4 shen1 ， an1 pai2 jing3 wu4 zhu2 shi2 xin1 。
-- you4 feng2 jiu3 ri4 han2 hua1 jie2 ， bu4 jue2 san1 nian2 ni4 lü3 shen1 。
-- wu1 mao4 lian4 tou2 hun2 wu3 su2 ， bai2 yi1 song4 jiu3 jing4 wu2 ren2 。
-- fan1 si1 du4 mu4 niu2 shan1 ju4 ， shui2 jie3 qing1 yin2 ji4 hou4 chen2 。
+- man3 cheng2 feng1 yu3 huo4 ran2 kai1 ， bu2 fu4 deng1 lin2 yi4 kuai4 zai1 。
+- shi2 su2 ban4 wu2 wu1 mao4 duo4 ， shi4 qing2 na4 you3 bai2 yi1 lai2 。
+- qie3 gu1 bo2 jiu3 chou2 jia1 jie2 ， yu4 fu4 xin1 shi1 kui4 duan3 cai2 。
+- zhe2 de2 huang2 hua1 zan1 liang3 bin4 ， ren4 qu2 liang3 bin4 zi4 pei2 sai1 。
 
 ## 注释
 

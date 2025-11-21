@@ -6,10 +6,10 @@ titleSlug: ti-zi-fu-yuan-ping-lu-xuan-qi-er
 author: 莫柯
 authorPinyin: mo4 ke1
 authorSlug: mo-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

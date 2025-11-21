@@ -6,10 +6,10 @@ titleSlug: zhu-yuan-hui-guo-fang-qi-yi
 author: 盛璲
 authorPinyin: sheng4 sui4
 authorSlug: sheng-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: san-shan-ge
 author: 許敦仁
 authorPinyin: xu1 dun1 ren2
 authorSlug: xu-dun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: kai-hua-si-qian-gu-mu-shu-zhu-ye-mi-yin-fan-ji-ke-ai-xi-zhou-qi-xia-f
 author: 衛涇
 authorPinyin: wei4 jing1
 authorSlug: wei-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

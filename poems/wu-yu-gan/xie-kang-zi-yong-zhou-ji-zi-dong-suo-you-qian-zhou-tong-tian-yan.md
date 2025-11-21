@@ -6,10 +6,10 @@ titleSlug: xie-kang-zi-yong-zhou-ji-zi-dong-suo-you-qian-zhou-tong-tian-yan
 author: 伍餘幹
 authorPinyin: wu3 yu2 gan4
 authorSlug: wu-yu-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

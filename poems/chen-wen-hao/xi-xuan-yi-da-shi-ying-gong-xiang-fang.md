@@ -6,10 +6,10 @@ titleSlug: xi-xuan-yi-da-shi-ying-gong-xiang-fang
 author: 陳文顥
 authorPinyin: chen2 wen2 hao4
 authorSlug: chen-wen-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

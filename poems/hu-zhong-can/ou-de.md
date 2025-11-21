@@ -6,25 +6,21 @@ titleSlug: ou-de
 author: 胡仲參
 authorPinyin: hu2 zhong4 can1
 authorSlug: hu-zhong-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲問梅花信，山寒去未能。
-- 靜思天外句，坐對夜深燈。
-- 戒酒頻添衲，煎茶旋鑿冰。
-- 月殘霜又落，無復叩門僧。
+- 挑燈伴寒夜，兀坐竹爐邊。
+- 赤脚知吟苦，時將山茗煎。
 
 ## 拼音
 
-- yu4 wen4 mei2 hua1 xin4 ， shan1 han2 qu4 wei4 neng2 。
-- jing4 si1 tian1 wai4 ju4 ， zuo4 dui4 ye4 shen1 deng1 。
-- jie4 jiu3 bin1 tian1 na4 ， jian1 cha2 xuan2 zao2 bing1 。
-- yue4 can2 shuang1 you4 luo4 ， wu2 fu4 kou4 men2 seng1 。
+- tiao1 deng1 ban4 han2 ye4 ， wu4 zuo4 zhu2 lu2 bian1 。
+- chi4 jiao3 zhi1 yin2 ku3 ， shi2 jiang1 shan1 ming2 jian1 。
 
 ## 注释
 

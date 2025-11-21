@@ -6,10 +6,10 @@ titleSlug: fang-hu-bie-shu
 author: 汪楚材
 authorPinyin: wang1 chu3 cai2
 authorSlug: wang-chu-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

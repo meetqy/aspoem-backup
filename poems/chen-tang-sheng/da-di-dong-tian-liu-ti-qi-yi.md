@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti-qi-yi
 author: 陳唐生
 authorPinyin: chen2 tang2 sheng1
 authorSlug: chen-tang-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

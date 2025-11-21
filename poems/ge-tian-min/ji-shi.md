@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 葛天民
 authorPinyin: ge3 tian1 min2
 authorSlug: ge-tian-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春漲侵高岸，春雲裹亂山。
-- 倒遷楊柳活，斜倚桔槔閑。
-- 世味老方淡，花時晴最慳。
-- 東風嗔懶動，故故撼柴關。
+- 暮年居柳下，終日閉柴門。
+- 壁爲題詩暗，池因洗硯渾。
+- 閑知真冨貴，醉到古乾坤。
+- 回首長安道，無言只斷魂。
 
 ## 拼音
 
-- chun1 zhang3 qin1 gao1 an4 ， chun1 yun2 guo3 luan4 shan1 。
-- dao3 qian1 yang2 liu3 huo2 ， xie2 yi3 ju2 gao1 xian2 。
-- shi4 wei4 lao3 fang1 dan4 ， hua1 shi2 qing2 zui4 qian1 。
-- dong1 feng1 chen1 lan3 dong4 ， gu4 gu4 han4 chai2 guan1 。
+- mu4 nian2 ju1 liu3 xia4 ， zhong1 ri4 bi4 chai2 men2 。
+- bi4 wei2 ti2 shi1 an4 ， chi2 yin1 xi3 yan4 hun2 。
+- xian2 zhi1 zhen1 fu4 gui4 ， zui4 dao4 gu3 qian2 kun1 。
+- hui2 shou3 chang2 an1 dao4 ， wu2 yan2 zhi1 duan4 hun2 。
 
 ## 注释
 

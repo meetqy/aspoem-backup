@@ -1,26 +1,26 @@
 ---
 id: zhang-zi-si-yue-shang-huan-ri-tong-liao-yue-you-xi-hu-shi-jue-qi-yi
-title: 四月上澣日同寮約遊西湖十絕  其一
-titlePinyin: si4 yue4 shang4 huan4 ri4 tong2 liao2 yue1 you2 xi1 hu2 shi2 jue2     qi2 yi1
+title: 四月上澣日同寮約遊西湖十絕  其一○
+titlePinyin: si4 yue4 shang4 huan4 ri4 tong2 liao2 yue1 you2 xi1 hu2 shi2 jue2     qi2 yi1 ○
 titleSlug: si-yue-shang-huan-ri-tong-liao-yue-you-xi-hu-shi-jue-qi-yi
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自得城隅水北居，西湖幽討句全疎。
-- 今朝掩簿抽身出，更向誰邊不一書。
+- 豐樂樓前未夕暉，可堪魚鑰限城扉。
+- 詩成快向歸時寫，丹墨明朝與興違。
 
 ## 拼音
 
-- zi4 de2 cheng2 yu2 shui3 bei3 ju1 ， xi1 hu2 you1 tao3 ju4 quan2 shu1 。
-- jin1 zhao1 yan3 bo2 chou1 shen1 chu1 ， geng4 xiang4 shui2 bian1 bu4 yi4 shu1 。
+- feng1 le4 lou2 qian2 wei4 xi1 hui1 ， ke3 kan1 yu2 yue4 xian4 cheng2 fei1 。
+- shi1 cheng2 kuai4 xiang4 gui1 shi2 xie3 ， dan1 mo4 ming2 chao2 yu3 xing1 wei2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: fang-dai-tu
 author: 朱子儀
 authorPinyin: zhu1 zi3 yi2
 authorSlug: zhu-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

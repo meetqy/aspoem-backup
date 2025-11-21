@@ -6,10 +6,10 @@ titleSlug: ci-yun-feng-chou-zhong-ling-sui-mu-huan-xi-wu-jian-ji
 author: 釋{巩/言}元
 authorPinyin: shi4 { gong3 / yan2 } yuan2
 authorSlug: shi-gong-yan-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

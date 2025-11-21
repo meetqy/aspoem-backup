@@ -6,21 +6,21 @@ titleSlug: song-yi-shou
 author: 張商英
 authorPinyin: zhang1 shang1 ying1
 authorSlug: zhang-shang-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鼓寂鍾沉托鉢回，巖頭一拶語如雷。
-- 果然只得三年活，莫是遭他受記來。
+- 馬師一喝大雄峰，深入髑髏三日聾。
+- 黄蘗聞之驚吐舌，江西從此立宗風。
 
 ## 拼音
 
-- gu3 ji4 zhong1 chen2 tuo1 bo1 hui2 ， yan2 tou2 yi4 za1 yu3 ru2 lei2 。
-- guo3 ran2 zhi3 de2 san1 nian2 huo2 ， mo4 shi4 zao1 ta1 shou4 ji4 lai2 。
+- ma3 shi1 yi4 he1 da4 xiong2 feng1 ， shen1 ru4 du2 lou2 san1 ri4 long2 。
+- huang2 bo4 wen2 zhi1 jing1 tu3 she2 ， jiang1 xi1 cong2 ci3 li4 zong1 feng1 。
 
 ## 注释
 

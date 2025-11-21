@@ -1,26 +1,32 @@
 ---
 id: shi-hui-yuan-ji-song-yi-bai-ling-er-shou-qi-yi-san
-title: 偈頌一百零二首  其一三
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 yi1 san1
+title: 偈頌一百零二首  其一○三
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 yi1 ○ san1
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-san
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 先師□住獨龍山，四十餘程自買船。
-- 今日琅瑘歸普濟，借婆裙子拜婆年。
+- 正如窮漢破衫袖，也不與萬法爲侶。
+- 捺著頭，掀尾舉，西江吸盡鐵船浮，活捉泥牛和角煮。
+- 潑天大，些子許，君不見二月三月寒食天，桃花杏花落如雨。
+- 一口吸盡西江水，栗棘金圈饒得底。
+- 解道心空及第歸，此去西天十萬里。
 
 ## 拼音
 
-- xian1 shi1 □ zhu4 du2 long2 shan1 ， si4 shi2 yu2 cheng2 zi4 mai3 chuan2 。
-- jin1 ri4 lang2 ye2 gui1 pu3 ji4 ， jie4 po2 qun2 zi0 bai4 po2 nian2 。
+- zheng4 ru2 qiong2 han4 po4 shan1 xiu4 ， ye3 bu4 yu3 wan4 fa3 wei2 lü3 。
+- na4 zhu4 tou2 ， xian1 wei3 ju3 ， xi1 jiang1 xi1 jin4 tie3 chuan2 fu2 ， huo2 zhuo1 ni2 niu2 he2 jiao3 zhu3 。
+- po1 tian1 da4 ， xie1 zi3 xu1 ， jun1 bu2 jian4 er4 yue4 san1 yue4 han2 shi2 tian1 ， tao2 hua1 xing4 hua1 luo4 ru2 yu3 。
+- yi4 kou3 xi1 jin4 xi1 jiang1 shui3 ， li4 ji2 jin1 quan1 rao2 de2 di3 。
+- jie3 dao4 xin1 kong1 ji2 di4 gui1 ， ci3 qu4 xi1 tian1 shi2 wan4 li3 。
 
 ## 注释
 

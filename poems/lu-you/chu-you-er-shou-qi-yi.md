@@ -6,21 +6,25 @@ titleSlug: chu-you-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 采藥今朝偶出遊，溪邊小立喚漁舟。
-- 未須著句悲揺落，嫩日和風不似秋。
+- 社近頻逢雨，春深却喜晴。
+- 畬烟傍山起，神鼓隔林鳴。
+- 客駐觀農饁，兒歸遺母羹。
+- 豐年多樂事，何以報時平。
 
 ## 拼音
 
-- cai3 yao4 jin1 chao2 ou3 chu1 you2 ， xi1 bian1 xiao3 li4 huan4 yu2 zhou1 。
-- wei4 xu1 zhu4 ju4 bei1 yao2 luo4 ， nen4 ri4 he2 feng1 bu2 si4 qiu1 。
+- she4 jin4 bin1 feng2 yu3 ， chun1 shen1 que4 xi3 qing2 。
+- she1 yan1 bang4 shan1 qi3 ， shen2 gu3 ge2 lin2 ming2 。
+- ke4 zhu4 guan1 nong2 ye4 ， er2 gui1 yi2 mu3 geng1 。
+- feng1 nian2 duo1 le4 shi4 ， he2 yi3 bao4 shi2 ping2 。
 
 ## 注释
 

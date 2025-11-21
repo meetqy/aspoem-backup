@@ -6,21 +6,25 @@ titleSlug: shan
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嫩雲零落樹參差，忽見千峰豁所思。
-- 酷愛似看名手畫，難題却憶古人詩。
+- 不起纖塵讓，寧辭一簣勞。
+- 始從拳石大，終致極天高。
+- 蓮頂觀歸馬，蓬壺見負鼇。
+- 器車呈上瑞，繩檢秘崇褒。
 
 ## 拼音
 
-- nen4 yun2 ling2 luo4 shu4 can1 cha4 ， hu1 jian4 qian1 feng1 huo1 suo3 si1 。
-- ku4 ai4 si4 kan4 ming2 shou3 hua4 ， nan2 ti2 que4 yi4 gu3 ren2 shi1 。
+- bu4 qi3 xian1 chen2 rang4 ， ning2 ci2 yi2 kui4 lao2 。
+- shi3 cong2 quan2 shi2 da4 ， zhong1 zhi4 ji2 tian1 gao1 。
+- lian2 ding3 guan1 gui1 ma3 ， peng2 hu2 jian4 fu4 ao2 。
+- qi4 ju1 cheng2 shang4 rui4 ， sheng2 jian3 mi4 chong2 bao1 。
 
 ## 注释
 

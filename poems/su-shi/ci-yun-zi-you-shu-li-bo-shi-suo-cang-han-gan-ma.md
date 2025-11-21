@@ -6,10 +6,10 @@ titleSlug: ci-yun-zi-you-shu-li-bo-shi-suo-cang-han-gan-ma
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

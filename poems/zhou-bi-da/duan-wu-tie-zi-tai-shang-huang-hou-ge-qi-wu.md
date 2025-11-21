@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-hou-ge-qi-wu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暑衣初進滿宮牀，霧縠雲綃五月凉。
-- 化洽周南無一事，尚吟絺綌葛覃章。
+- 揮箑將如解慍何，層冰列鑑謾峩峩。
+- 要知心地清無暑，端爲全鍾四氣和。
 
 ## 拼音
 
-- shu3 yi1 chu1 jin4 man3 gong1 chuang2 ， wu4 hu2 yun2 xiao1 wu3 yue4 liang2 。
-- hua4 qia4 zhou1 nan2 wu2 yi2 shi4 ， shang4 yin2 chi1 xi4 ge3 qin2 zhang1 。
+- hui1 sha4 jiang1 ru2 jie3 yun4 he2 ， ceng2 bing1 lie4 jian4 man2 e2 e2 。
+- yao4 zhi1 xin1 di4 qing1 wu2 shu3 ， duan1 wei2 quan2 zhong1 si4 qi4 he2 。
 
 ## 注释
 

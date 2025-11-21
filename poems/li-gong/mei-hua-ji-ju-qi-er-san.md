@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-er-san
-title: 梅花集句  其二三
-titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 san1
+title: 梅花集句  其二○三
+titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 ○ san1
 titleSlug: mei-hua-ji-ju-qi-er-san
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病與西湖絕半年，一春長費買花錢。
-- 詩懷自笑多塵土，猶恐春陰咽管絃。
+- 問得梅花信，新晴花氣香。
+- 戲賡和靖句，炙背負斜陽。
 
 ## 拼音
 
-- bing4 yu3 xi1 hu2 jue2 ban4 nian2 ， yi4 chun1 chang2 fei4 mai3 hua1 qian2 。
-- shi1 huai2 zi4 xiao4 duo1 chen2 tu3 ， you2 kong3 chun1 yin1 yan4 guan3 xian2 。
+- wen4 de2 mei2 hua1 xin4 ， xin1 qing2 hua1 qi4 xiang1 。
+- xi4 geng1 he2 jing4 ju4 ， zhi4 bei4 fu4 xie2 yang2 。
 
 ## 注释
 

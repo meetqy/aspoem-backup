@@ -6,25 +6,25 @@ titleSlug: chu-chun
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰把鵝黄染柳絲，似催鄰曲蹋青期。
-- 已忘萬里封侯志，但憶千回上樹時。
-- 朝雨池塘光瀲灧，暮烟樓觀碧參差。
-- 紫姑欲問還休去，身世從來心自知。
+- 柳拂朱橋湖水生，園林處處聽新鶑。
+- 亦知人世當行樂，無奈春陰不肯晴。
+- 走馬章臺身縱老，看花杜曲眼猶明。
+- 只應詩思年來減，預怯同遊議罰觥。
 
 ## 拼音
 
-- shui2 ba3 e2 huang2 ran3 liu3 si1 ， si4 cui1 lin2 qu3 ta4 qing1 qi1 。
-- yi3 wang4 wan4 li3 feng1 hou2 zhi4 ， dan4 yi4 qian1 hui2 shang4 shu4 shi2 。
-- chao2 yu3 chi2 tang2 guang1 lian4 yan4 ， mu4 yan1 lou2 guan1 bi4 can1 cha4 。
-- zi3 gu1 yu4 wen4 huan2 xiu1 qu4 ， shen1 shi4 cong2 lai2 xin1 zi4 zhi1 。
+- liu3 fu2 zhu1 qiao2 hu2 shui3 sheng1 ， yuan2 lin2 chu3 chu3 ting1 xin1 ying1 。
+- yi4 zhi1 ren2 shi4 dang1 xing2 le4 ， wu2 nai4 chun1 yin1 bu4 ken3 qing2 。
+- zou3 ma3 zhang1 tai2 shen1 zong4 lao3 ， kan4 hua1 du4 qu3 yan3 you2 ming2 。
+- zhi1 ying1 shi1 si1 nian2 lai2 jian3 ， yu4 qie4 tong2 you2 yi4 fa2 gong1 。
 
 ## 注释
 

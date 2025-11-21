@@ -6,10 +6,10 @@ titleSlug: ju
 author: 山野人
 authorPinyin: shan1 ye3 ren2
 authorSlug: shan-ye-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

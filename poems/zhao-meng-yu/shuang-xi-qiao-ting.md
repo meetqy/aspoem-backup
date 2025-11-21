@@ -6,10 +6,10 @@ titleSlug: shuang-xi-qiao-ting
 author: 趙孟禹
 authorPinyin: zhao4 meng4 yu3
 authorSlug: zhao-meng-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

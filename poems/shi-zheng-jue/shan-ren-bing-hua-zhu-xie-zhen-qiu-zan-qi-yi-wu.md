@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-yi-wu
-title: 禪人并化主寫真求贊  其一五
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 yi1 wu3
+title: 禪人并化主寫真求贊  其一五○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 yi1 wu3 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-yi-wu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 頂雪抗春，目寒射人。
-- 蓑裹江湖雨，斗浮河漢津。
-- 拙忘機兮抱甕，妙不傳兮斲輪。
-- 谷鳥巖華自聲色，十方普現剎塵身。
+- 寒山骨瘦，雪林氣清。
+- 萬機寖削，一點光明。
+- 其靈不可像，其妙不可名。
+- 默倚蒲團坐終日，你道何時不太平。
 
 ## 拼音
 
-- ding3 xue3 kang4 chun1 ， mu4 han2 she4 ren2 。
-- suo1 guo3 jiang1 hu2 yu3 ， dou4 fu2 he2 han4 jin1 。
-- zhuo1 wang4 ji1 xi1 bao4 weng4 ， miao4 bu4 chuan2 xi1 zhuo2 lun2 。
-- gu3 niao3 yan2 hua2 zi4 sheng1 se4 ， shi2 fang1 pu3 xian4 cha4 chen2 shen1 。
+- han2 shan1 gu3 shou4 ， xue3 lin2 qi4 qing1 。
+- wan4 ji1 jin4 xiao1 ， yi4 dian3 guang1 ming2 。
+- qi2 ling2 bu4 ke3 xiang4 ， qi2 miao4 bu4 ke3 ming2 。
+- mo4 yi3 pu2 tuan2 zuo4 zhong1 ri4 ， ni3 dao4 he2 shi2 bu2 tai4 ping2 。
 
 ## 注释
 

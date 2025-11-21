@@ -6,10 +6,10 @@ titleSlug: wu-yue-shi-ba-ri-pei-tong-she-zhu-you-you-ci-yun-si
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

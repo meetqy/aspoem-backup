@@ -6,21 +6,21 @@ titleSlug: ji
 author: 僧某
 authorPinyin: seng1 mou3
 authorSlug: seng-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 因山見水，見水忘山。
-- 山水俱忘，理歸何所。
+- 一水吞空遠，三峰峭壁危。
+- 猊臺重拂拭，共喜主人歸。
 
 ## 拼音
 
-- yin1 shan1 jian4 shui3 ， jian4 shui3 wang4 shan1 。
-- shan1 shui3 ju4 wang4 ， li3 gui1 he2 suo3 。
+- yi4 shui3 tun1 kong1 yuan3 ， san1 feng1 qiao4 bi4 wei1 。
+- ni2 tai2 zhong4 fu2 shi4 ， gong4 xi3 zhu3 ren2 gui1 。
 
 ## 注释
 

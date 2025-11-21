@@ -6,10 +6,10 @@ titleSlug: za-qu-ge-ci-you-zi-yin
 author: 孟郊
 authorPinyin: meng4 jiao1
 authorSlug: meng-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

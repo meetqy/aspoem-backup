@@ -6,10 +6,10 @@ titleSlug: ti-hu-qiu-ci-pu-zhang-er-gong-yun
 author: 劉淑
 authorPinyin: liu2 shu1
 authorSlug: liu-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

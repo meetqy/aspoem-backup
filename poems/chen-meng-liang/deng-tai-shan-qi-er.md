@@ -6,10 +6,10 @@ titleSlug: deng-tai-shan-qi-er
 author: 陳夢良
 authorPinyin: chen2 meng4 liang2
 authorSlug: chen-meng-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

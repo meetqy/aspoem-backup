@@ -6,25 +6,25 @@ titleSlug: shan-cha
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嚴冬能獨秀，渾不藉春風。
-- 葉自經霜碧，花應鬭日紅。
-- 望中幾眩眼，高處欲燔空。
-- 安得栽培手，移根向邑中。
+- 枯林獨秀染胭脂，不使群芳次第窺。
+- 月桂殷勤來並色，江梅寂寞許同時。
+- 霜飛雪舞終難挫，蝶隱蜂逃各未知。
+- 折得一枝聊慰眼，兒童拍手誤春期。
 
 ## 拼音
 
-- yan2 dong1 neng2 du2 xiu4 ， hun2 bu2 jie4 chun1 feng1 。
-- ye4 zi4 jing1 shuang1 bi4 ， hua1 ying1 dou4 ri4 hong2 。
-- wang4 zhong1 ji1 xuan4 yan3 ， gao1 chu3 yu4 fan2 kong1 。
-- an1 de2 zai1 pei2 shou3 ， yi2 gen1 xiang4 yi4 zhong1 。
+- ku1 lin2 du2 xiu4 ran3 yan1 zhi1 ， bu4 shi3 qun2 fang1 ci4 di4 kui1 。
+- yue4 gui4 yin1 qin2 lai2 bing4 se4 ， jiang1 mei2 ji4 mo4 xu1 tong2 shi2 。
+- shuang1 fei1 xue3 wu3 zhong1 nan2 cuo4 ， die2 yin3 feng1 tao2 ge4 wei4 zhi1 。
+- zhe2 de2 yi4 zhi1 liao2 wei4 yan3 ， er2 tong2 pai1 shou3 wu4 chun1 qi1 。
 
 ## 注释
 

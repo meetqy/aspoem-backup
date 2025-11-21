@@ -6,10 +6,10 @@ titleSlug: de-liang-xi-jia-shu-bao-huang-shi-nu-sheng-wai-sun
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

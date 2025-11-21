@@ -6,10 +6,10 @@ titleSlug: she-jiao-ling-xian-guan
 author: 張仲威
 authorPinyin: zhang1 zhong4 wei1
 authorSlug: zhang-zhong-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

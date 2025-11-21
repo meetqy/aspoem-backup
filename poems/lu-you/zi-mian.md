@@ -6,29 +6,29 @@ titleSlug: zi-mian
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曩歲讀隱書，妄意慕陶葛。
-- 芝房及乳石，日夜躬采掇。
-- 飛舉固未能，死籍或可脫。
-- 那知事大謬，髮齒將禿豁。
-- 神僊豈棄汝，正坐自迂闊。
-- 餘年尚努力，勿待燭見跋。
+- 學詩當學陶，學書當學顔。
+- 正復不能到，趣鄉已可觀。
+- 養氣要使完，處身要使端。
+- 勿謂在屋漏，人見汝肺肝。
+- 節義實大閑，忠孝後代看。
+- 汝雖老將死，更勉未死間。
 
 ## 拼音
 
-- nang3 sui4 du2 yin3 shu1 ， wang4 yi4 mu4 tao2 ge3 。
-- zhi1 fang2 ji2 ru3 shi2 ， ri4 ye4 gong1 cai3 duo1 。
-- fei1 ju3 gu4 wei4 neng2 ， si3 ji2 huo4 ke3 tuo1 。
-- na4 zhi1 shi4 da4 miu4 ， fa4 chi3 jiang1 tu1 huo1 。
-- shen2 xian1 qi3 qi4 ru3 ， zheng4 zuo4 zi4 yu1 kuo4 。
-- yu2 nian2 shang4 nu3 li4 ， wu4 dai4 zhu2 jian4 ba2 。
+- xue2 shi1 dang1 xue2 tao2 ， xue2 shu1 dang1 xue2 yan2 。
+- zheng4 fu4 bu4 neng2 dao4 ， qu4 xiang1 yi3 ke3 guan1 。
+- yang3 qi4 yao4 shi3 wan2 ， chu3 shen1 yao4 shi3 duan1 。
+- wu4 wei4 zai4 wu1 lou4 ， ren2 jian4 ru3 fei4 gan1 。
+- jie2 yi4 shi2 da4 xian2 ， zhong1 xiao4 hou4 dai4 kan4 。
+- ru3 sui1 lao3 jiang1 si3 ， geng4 mian3 wei4 si3 jian4 。
 
 ## 注释
 

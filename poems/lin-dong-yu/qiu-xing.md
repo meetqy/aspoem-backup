@@ -6,10 +6,10 @@ titleSlug: qiu-xing
 author: 林東愚
 authorPinyin: lin2 dong1 yu2
 authorSlug: lin-dong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

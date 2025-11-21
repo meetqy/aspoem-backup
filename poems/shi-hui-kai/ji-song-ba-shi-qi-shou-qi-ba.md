@@ -1,26 +1,32 @@
 ---
 id: shi-hui-kai-ji-song-ba-shi-qi-shou-qi-ba
-title: 偈頌八十七首  其八
-titlePinyin: ji4 song4 ba1 shi2 qi1 shou3     qi2 ba1
+title: 偈頌八十七首  其八○
+titlePinyin: ji4 song4 ba1 shi2 qi1 shou3     qi2 ba1 ○
 titleSlug: ji-song-ba-shi-qi-shou-qi-ba
 author: 釋慧開
 authorPinyin: shi4 hui4 kai1
 authorSlug: shi-hui-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 靜中消息閙中觀，閙中消息靜中看。
-- 靜閙掀翻行正令，倚天長劍逼人寒。
+- 三教聖人，同歸一理。
+- 理長則行，理短則止。
+- 虛空無心，牆壁有耳。
+- 不涉言詮，單提直指。
+- 口縫纔開，不是不是。
 
 ## 拼音
 
-- jing4 zhong1 xiao1 xi0 nao4 zhong1 guan1 ， nao4 zhong1 xiao1 xi0 jing4 zhong1 kan4 。
-- jing4 nao4 xian1 fan1 xing2 zheng4 ling4 ， yi3 tian1 chang2 jian4 bi1 ren2 han2 。
+- san1 jiao4 sheng4 ren2 ， tong2 gui1 yi4 li3 。
+- li3 chang2 ze2 xing2 ， li3 duan3 ze2 zhi3 。
+- xu1 kong1 wu2 xin1 ， qiang2 bi4 you3 er3 。
+- bu2 she4 yan2 quan2 ， dan1 ti2 zhi2 zhi3 。
+- kou3 feng2 cai2 kai1 ， bu2 shi4 bu2 shi4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-gu
 author: 釋妙堪
 authorPinyin: shi4 miao4 kan1
 authorSlug: shi-miao-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

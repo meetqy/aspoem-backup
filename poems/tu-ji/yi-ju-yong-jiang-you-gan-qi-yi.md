@@ -6,10 +6,10 @@ titleSlug: yi-ju-yong-jiang-you-gan-qi-yi
 author: 屠季
 authorPinyin: tu2 ji4
 authorSlug: tu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

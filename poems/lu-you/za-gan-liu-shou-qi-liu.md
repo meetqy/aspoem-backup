@@ -6,21 +6,25 @@ titleSlug: za-gan-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 苦熱惟憂不復凉，轉頭忽已見清霜。
-- 道人若悟無寒暑，墮指流金總道場。
+- 春晚晴還雨，村深醉復醒。
+- 溪添半篙綠，山可一窗青。
+- 藥品隨長鑱，花名記小屏。
+- 閑身幸無事，吟嘯送餘齡。
 
 ## 拼音
 
-- ku3 re4 wei2 you1 bu2 fu4 liang2 ， zhuan3 tou2 hu1 yi3 jian4 qing1 shuang1 。
-- dao4 ren2 ruo4 wu4 wu2 han2 shu3 ， duo4 zhi3 liu2 jin1 zong3 dao4 chang3 。
+- chun1 wan3 qing2 huan2 yu3 ， cun1 shen1 zui4 fu4 xing3 。
+- xi1 tian1 ban4 gao1 lü4 ， shan1 ke3 yi4 chuang1 qing1 。
+- yao4 pin3 sui2 chang2 chan2 ， hua1 ming2 ji4 xiao3 ping2 。
+- xian2 shen1 xing4 wu2 shi4 ， yin2 xiao4 song4 yu2 ling2 。
 
 ## 注释
 

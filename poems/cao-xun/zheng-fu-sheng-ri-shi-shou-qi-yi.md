@@ -1,26 +1,26 @@
 ---
 id: cao-xun-zheng-fu-sheng-ri-shi-shou-qi-yi
-title: 政府生日十首  其一
-titlePinyin: zheng4 fu3 sheng1 ri4 shi2 shou3     qi2 yi1
+title: 政府生日十首  其一○
+titlePinyin: zheng4 fu3 sheng1 ri4 shi2 shou3     qi2 yi1 ○
 titleSlug: zheng-fu-sheng-ri-shi-shou-qi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寥廓無塵臘雪晴，距正五日鳳凰鳴。
-- 已膺一德明良會，更祝千齡輔太平。
+- 汛掃門前積有年，從來頂踵盡陶甄。
+- 應憐歲歲稱觴客，又倚崇墉獻十篇。
 
 ## 拼音
 
-- liao2 kuo4 wu2 chen2 la4 xue3 qing2 ， ju4 zheng4 wu3 ri4 feng4 huang2 ming2 。
-- yi3 ying1 yi4 de2 ming2 liang2 hui4 ， geng4 zhu4 qian1 ling2 fu3 tai4 ping2 。
+- xun4 sao3 men2 qian2 ji1 you3 nian2 ， cong2 lai2 ding3 zhong3 jin4 tao2 zhen1 。
+- ying1 lian2 sui4 sui4 cheng1 shang1 ke4 ， you4 yi3 chong2 yong1 xian4 shi2 pian1 。
 
 ## 注释
 

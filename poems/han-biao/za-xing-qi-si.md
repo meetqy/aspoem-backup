@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-si
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長溝護流沫，沙石擁聲處。
-- 溯洄一鏡凈，更覺雲影住。
-- 不辭數魚蝦，甚欲下鷗鷺。
-- 夏氣忻已深，今古本如故。
+- 經雨高林月出雲，一天凉凈白紛紛。
+- 道人打疊身心處，泥飲行吟不亂羣。
 
 ## 拼音
 
-- chang2 gou1 hu4 liu2 mo4 ， sha1 shi2 yong1 sheng1 chu3 。
-- su4 hui2 yi2 jing4 jing4 ， geng4 jue2 yun2 ying3 zhu4 。
-- bu4 ci2 shu4 yu2 xia1 ， shen4 yu4 xia4 ou1 lu4 。
-- xia4 qi4 xin1 yi3 shen1 ， jin1 gu3 ben3 ru2 gu4 。
+- jing1 yu3 gao1 lin2 yue4 chu1 yun2 ， yi4 tian1 liang2 jing4 bai2 fen1 fen1 。
+- dao4 ren2 da3 die2 shen1 xin1 chu3 ， ni2 yin3 xing2 yin2 bu2 luan4 qun2 。
 
 ## 注释
 

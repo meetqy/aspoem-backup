@@ -6,10 +6,10 @@ titleSlug: zhou-xing-ji-shi
 author: 吳子實
 authorPinyin: wu2 zi3 shi2
 authorSlug: wu-zi-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

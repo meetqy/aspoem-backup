@@ -6,10 +6,10 @@ titleSlug: fang-dao-zhe
 author: 杜崟
 authorPinyin: du4 yin2
 authorSlug: du-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

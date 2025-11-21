@@ -9,16 +9,16 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 富從【升】（昇）合起，貧從不計來。
+- 渭濱迎宰相。
 
 ## 拼音
 
-- fu4 cong2 【 sheng1 】（ sheng1 ） he2 qi3 ， pin2 cong2 bu2 ji4 lai2 。
+- wei4 bin1 ying2 zai3 xiang4 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: xue-yu-yu-cun-za-shi-shi-shou-zai-he-qian-yun-qi-yi
-title: 漁村雜詩十首再和前韻  其一
-titlePinyin: yu2 cun1 za2 shi1 shi2 shou3 zai4 he2 qian2 yun4     qi2 yi1
+title: 漁村雜詩十首再和前韻  其一○
+titlePinyin: yu2 cun1 za2 shi1 shi2 shou3 zai4 he2 qian2 yun4     qi2 yi1 ○
 titleSlug: yu-cun-za-shi-shi-shou-zai-he-qian-yun-qi-yi
 author: 薛嵎
 authorPinyin: xue1 yu2
 authorSlug: xue-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晴空萬里散餘霞，一葉漁舟穩似家。
-- 學道未能全寡欲，水邊隙地亦栽花。
+- 歲寒無物可相依，惟有梅花似故知。
+- 名世何曾在科甲，西湖處士只吟詩。
 
 ## 拼音
 
-- qing2 kong1 wan4 li3 san4 yu2 xia2 ， yi2 ye4 yu2 zhou1 wen3 si4 jia1 。
-- xue2 dao4 wei4 neng2 quan2 gua3 yu4 ， shui3 bian1 xi4 di4 yi4 zai1 hua1 。
+- sui4 han2 wu2 wu4 ke3 xiang1 yi1 ， wei2 you3 mei2 hua1 si4 gu4 zhi1 。
+- ming2 shi4 he2 ceng2 zai4 ke1 jia3 ， xi1 hu2 chu3 shi4 zhi1 yin2 shi1 。
 
 ## 注释
 

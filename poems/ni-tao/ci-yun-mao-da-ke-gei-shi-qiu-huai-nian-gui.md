@@ -6,10 +6,10 @@ titleSlug: ci-yun-mao-da-ke-gei-shi-qiu-huai-nian-gui
 author: 倪濤
 authorPinyin: ni2 tao1
 authorSlug: ni-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

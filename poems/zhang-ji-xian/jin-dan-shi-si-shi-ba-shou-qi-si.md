@@ -1,30 +1,30 @@
 ---
 id: zhang-ji-xian-jin-dan-shi-si-shi-ba-shou-qi-si
-title: 金丹詩四十八首  其四
-titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 si4
+title: 金丹詩四十八首  其四○
+titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 si4 ○
 titleSlug: jin-dan-shi-si-shi-ba-shou-qi-si
 author: 張繼先
 authorPinyin: zhang1 ji4 xian1
 authorSlug: zhang-ji-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不覺年年撚指過，急如催浪轉長河。
-- 鼎中日月知人少，世上陰陽識者多。
-- 盡爲資財損真性，皆因女色逐流波。
-- □□半有歸泉路，忍把真元亂鬼魔。
+- 隱跡人間數十年，不令衆覺種丹田。
+- 五行聚會生俄爾，一顆圓明出自然。
+- 湛湛神爐開白雪，依依鉛鼎瀉紅蓮。
+- 近來不覺浮名起，多被人來叩妙玄。
 
 ## 拼音
 
-- bu4 jue2 nian2 nian2 nian3 zhi3 guo4 ， ji2 ru2 cui1 lang4 zhuan3 chang2 he2 。
-- ding3 zhong1 ri4 yue4 zhi1 ren2 shao3 ， shi4 shang4 yin1 yang2 shi2 zhe3 duo1 。
-- jin4 wei2 zi1 cai2 sun3 zhen1 xing4 ， jie1 yin1 nü3 se4 zhu2 liu2 bo1 。
-- □□ ban4 you3 gui1 quan2 lu4 ， ren3 ba3 zhen1 yuan2 luan4 gui3 mo2 。
+- yin3 ji4 ren2 jian4 shu4 shi2 nian2 ， bu2 ling4 zhong4 jue2 zhong3 dan1 tian2 。
+- wu3 xing2 ju4 hui4 sheng1 e2 er3 ， yi4 ke1 yuan2 ming2 chu1 zi4 ran2 。
+- zhan4 zhan4 shen2 lu2 kai1 bai2 xue3 ， yi1 yi1 qian1 ding3 xie4 hong2 lian2 。
+- jin4 lai2 bu4 jue2 fu2 ming2 qi3 ， duo1 bei4 ren2 lai2 kou4 miao4 xuan2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yin-he-chang-de-zhao-you-xi-ta-you-shi-sui-he
 author: 李復
 authorPinyin: li3 fu4
 authorSlug: li-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

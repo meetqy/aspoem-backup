@@ -6,10 +6,10 @@ titleSlug: zhao-zhou-gan-mei-gong-zhi-zou-dao-xiang-yi-ji
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

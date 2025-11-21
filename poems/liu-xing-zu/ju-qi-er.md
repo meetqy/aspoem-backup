@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 劉興祖
 authorPinyin: liu2 xing1 zu3
 authorSlug: liu-xing-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

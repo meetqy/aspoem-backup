@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綵締鼇山聳禁街，端門簾捲五雲開。
-- 元宵佳景同民樂，不禁人行近露臺。
+- 金題玉躞燦星光，御札紛紛雜紫黄。
+- 宣索女官三十六，就中誰是校書郎。
 
 ## 拼音
 
-- cai3 di4 ao2 shan1 song3 jin4 jie1 ， duan1 men2 lian2 juan3 wu3 yun2 kai1 。
-- yuan2 xiao1 jia1 jing3 tong2 min2 le4 ， bu4 jin1 ren2 hang2 jin4 lu4 tai2 。
+- jin1 ti2 yu4 xie4 can4 xing1 guang1 ， yu4 zha2 fen1 fen1 za2 zi3 huang2 。
+- xuan1 suo3 nü3 guan1 san1 shi2 liu4 ， jiu4 zhong1 shui2 shi4 xiao4 shu1 lang2 。
 
 ## 注释
 

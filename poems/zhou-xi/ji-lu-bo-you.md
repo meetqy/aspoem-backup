@@ -6,10 +6,10 @@ titleSlug: ji-lu-bo-you
 author: 周錫
 authorPinyin: zhou1 xi1
 authorSlug: zhou-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

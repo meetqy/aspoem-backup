@@ -6,10 +6,10 @@ titleSlug: liu-jun-yi-di-li-zhi-xue-ge-xie-hou-xiang-yu-qiu-shi-wei-bie-yin-fu-c
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

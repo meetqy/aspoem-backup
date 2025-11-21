@@ -9,18 +9,18 @@ authorSlug: zhou-tan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 萬古龍門一旦開，無成甘死作黃能。
-- 司空定有匡堯術，九載之前何處來。
+- 東鄰不事事西鄰，御物卑和物自親。
+- 天下言知天下者，兆人無主屬賢人。
 
 ## 拼音
 
-- wan4 gu3 long2 men2 yi2 dan4 kai1 ， wu2 cheng2 gan1 si3 zuo4 huang2 neng2 。
-- si1 kong1 ding4 you3 kuang1 yao2 shu4 ， jiu3 zai4 zhi1 qian2 he2 chu3 lai2 。
+- dong1 lin2 bu2 shi4 shi4 xi1 lin2 ， yu4 wu4 bei1 he2 wu4 zi4 qin1 。
+- tian1 xia4 yan2 zhi1 tian1 xia4 zhe3 ， zhao4 ren2 wu2 zhu3 shu3 xian2 ren2 。
 
 ## 注释
 

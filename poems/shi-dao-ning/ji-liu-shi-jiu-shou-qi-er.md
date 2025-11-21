@@ -1,30 +1,30 @@
 ---
 id: shi-dao-ning-ji-liu-shi-jiu-shou-qi-er
-title: 偈六十九首  其二
-titlePinyin: ji4 liu4 shi2 jiu3 shou3     qi2 er4
+title: 偈六十九首  其二○
+titlePinyin: ji4 liu4 shi2 jiu3 shou3     qi2 er4 ○
 titleSlug: ji-liu-shi-jiu-shou-qi-er
 author: 釋道寧
 authorPinyin: shi4 dao4 ning2
 authorSlug: shi-dao-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風攪長空，春雲四起。
-- 六臂三頭，徒誇唇觜。
-- 匝地普天，全非伴侶。
-- 等閒拈出與君看，直下分明須薦取。
+- 春風浩浩，春鳥喃喃。
+- 山花開似錦，澗水湛如藍。
+- 大圓鏡裏，扣己而參，便恁麽去也太無端。
+- 文殊去後無消息，休問前三與後三。
 
 ## 拼音
 
-- feng1 jiao3 chang2 kong1 ， chun1 yun2 si4 qi3 。
-- liu4 bi4 san1 tou2 ， tu2 kua1 chun2 zi1 。
-- za1 di4 pu3 tian1 ， quan2 fei1 ban4 lü3 。
-- deng3 xian2 nian1 chu1 yu3 jun1 kan4 ， zhi2 xia4 fen1 ming2 xu1 jian4 qu3 。
+- chun1 feng1 hao4 hao4 ， chun1 niao3 nan2 nan2 。
+- shan1 hua1 kai1 si4 jin3 ， jian4 shui3 zhan4 ru2 lan2 。
+- da4 yuan2 jing4 li3 ， kou4 ji3 er2 can1 ， bian4 nen4 mo2 qu4 ye3 tai4 wu2 duan1 。
+- wen2 shu1 qu4 hou4 wu2 xiao1 xi0 ， xiu1 wen4 qian2 san1 yu3 hou4 san1 。
 
 ## 注释
 

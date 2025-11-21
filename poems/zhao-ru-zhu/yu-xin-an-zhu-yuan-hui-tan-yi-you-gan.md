@@ -6,10 +6,10 @@ titleSlug: yu-xin-an-zhu-yuan-hui-tan-yi-you-gan
 author: 趙汝洙
 authorPinyin: zhao4 ru3 zhu1
 authorSlug: zhao-ru-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

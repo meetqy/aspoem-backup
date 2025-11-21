@@ -6,10 +6,10 @@ titleSlug: hu-ling-xia-shi-li-shi-wei-qi-dan-tan-xing-zhe-duo-zhi-ci-she-zhou
 author: 鞏豐
 authorPinyin: gong3 feng1
 authorSlug: gong-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

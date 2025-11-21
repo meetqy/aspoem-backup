@@ -6,25 +6,21 @@ titleSlug: wen-quan
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 招提閟林麓，棟宇壓江郊。
-- 來作溫泉浴，如逢癢處搔。
-- 綵衣臨砌檻，華髮對尊匏。
-- 一笑涼風起，紅欹荔子梢。
+- 不與驪山脂水并，獨於廬阜占佳名。
+- 我來試作泉間浴，一洗平生病惱輕。
 
 ## 拼音
 
-- zhao1 ti2 bi4 lin2 lu4 ， dong4 yu3 ya1 jiang1 jiao1 。
-- lai2 zuo4 wen1 quan2 yu4 ， ru2 feng2 yang3 chu3 sao1 。
-- cai3 yi1 lin2 qi4 jian4 ， hua2 fa4 dui4 zun1 pao2 。
-- yi2 xiao4 liang2 feng1 qi3 ， hong2 qi1 li4 zi3 shao1 。
+- bu4 yu3 li2 shan1 zhi1 shui3 bing4 ， du2 wu1 lu2 fu4 zhan4 jia1 ming2 。
+- wo3 lai2 shi4 zuo4 quan2 jian4 yu4 ， yi4 xi3 ping2 sheng1 bing4 nao3 qing1 。
 
 ## 注释
 

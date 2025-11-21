@@ -6,10 +6,10 @@ titleSlug: yun-dang-wan-ge-huang-que-mei-qi-xi-qi-shang-yi-xi-feng-yu-sa-zhi-hu-
 author: 李自中
 authorPinyin: li3 zi4 zhong1
 authorSlug: li-zi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

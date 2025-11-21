@@ -6,21 +6,21 @@ titleSlug: tai-shang-huang-hou-he-chun-tie-zi-qi-san
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風簾回翡翠，冰研伴蟾蜍。
-- 親寫迎春帖，真符太上書。
+- 金花綵勝一番新，白玉巵旁祝聖人。
+- 聞道瑶臺花有信，宜春更有八千春。
 
 ## 拼音
 
-- feng1 lian2 hui2 fei3 cui4 ， bing1 yan2 ban4 chan2 chu2 。
-- qin1 xie3 ying2 chun1 tie1 ， zhen1 fu2 tai4 shang4 shu1 。
+- jin1 hua1 cai3 sheng4 yi4 fan1 xin1 ， bai2 yu4 zhi1 pang2 zhu4 sheng4 ren2 。
+- wen2 dao4 yao2 tai2 hua1 you3 xin4 ， yi2 chun1 geng4 you3 ba1 qian1 chun1 。
 
 ## 注释
 

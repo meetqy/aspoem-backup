@@ -1,30 +1,28 @@
 ---
 id: shi-zu-qin-ji-song-qi-shi-er-shou-qi-san
-title: 偈頌七十二首  其三
-titlePinyin: ji4 song4 qi1 shi2 er4 shou3     qi2 san1
+title: 偈頌七十二首  其三○
+titlePinyin: ji4 song4 qi1 shi2 er4 shou3     qi2 san1 ○
 titleSlug: ji-song-qi-shi-er-shou-qi-san
 author: 釋祖欽
 authorPinyin: shi4 zu3 qin1
 authorSlug: shi-zu-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉樹瓊林，寶階銀闕。
-- 皓若蘆花，恍然明月。
-- 直鈎垂釣，自有金鱗上鈎。
-- 地平如掌，依舊七凹八凸。
+- 量外機，格外句。
+- 凡聖迷魂，佛祖罔措。
+- 有來由，無本據，聲前切忌錯舉。
 
 ## 拼音
 
-- yu4 shu4 qiong2 lin2 ， bao3 jie1 yin2 que4 。
-- hao4 ruo4 lu2 hua1 ， huang3 ran2 ming2 yue4 。
-- zhi2 gou1 chui2 diao4 ， zi4 you3 jin1 lin2 shang4 gou1 。
-- di4 ping2 ru2 zhang3 ， yi1 jiu4 qi1 ao1 ba1 tu1 。
+- liang2 wai4 ji1 ， ge2 wai4 ju4 。
+- fan2 sheng4 mi2 hun2 ， fo2 zu3 wang3 cuo4 。
+- you3 lai2 you2 ， wu2 ben3 ju4 ， sheng1 qian2 qie4 ji4 cuo4 ju3 。
 
 ## 注释
 

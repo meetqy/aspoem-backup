@@ -6,10 +6,10 @@ titleSlug: he-yan-dou-guan-jiu-yue-shi-san-ri-ye-dui-yue-shi-xi-mou-yu-zi-hua-sh
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

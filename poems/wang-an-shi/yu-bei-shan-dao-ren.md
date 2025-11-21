@@ -6,21 +6,21 @@ titleSlug: yu-bei-shan-dao-ren
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒔果疏泉带淺山，柴門雖設要常關。
-- 別開小徑連松路，祗與鄰僧約往還。
+- 可惜昂藏一丈夫，生來不讀半行書。
+- 子雲識字終投閣，幸是元無免破除。
 
 ## 拼音
 
-- shi4 guo3 shu1 quan2 dai4 qian3 shan1 ， chai2 men2 sui1 she4 yao4 chang2 guan1 。
-- bie2 kai1 xiao3 jing4 lian2 song1 lu4 ， zhi1 yu3 lin2 seng1 yue1 wang3 huan2 。
+- ke3 xi1 ang2 cang2 yi2 zhang4 fu0 ， sheng1 lai2 bu4 du2 ban4 xing2 shu1 。
+- zi3 yun2 shi2 zi4 zhong1 tou2 ge2 ， xing4 shi4 yuan2 wu2 mian3 po4 chu2 。
 
 ## 注释
 

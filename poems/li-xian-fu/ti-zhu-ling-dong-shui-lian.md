@@ -6,10 +6,10 @@ titleSlug: ti-zhu-ling-dong-shui-lian
 author: 李先輔
 authorPinyin: li3 xian1 fu3
 authorSlug: li-xian-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhi-dao-chu-yuan-liu-yue-bu-yu-wei-min-mao-shu-qi-ling-long-qiu-tou-c
 author: 王挺之
 authorPinyin: wang2 ting3 zhi1
 authorSlug: wang-ting-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

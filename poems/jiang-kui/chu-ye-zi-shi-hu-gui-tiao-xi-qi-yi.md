@@ -1,26 +1,26 @@
 ---
 id: jiang-kui-chu-ye-zi-shi-hu-gui-tiao-xi-qi-yi
-title: 除夜自石湖歸苕溪  其一
-titlePinyin: chu2 ye4 zi4 shi2 hu2 gui1 tiao2 xi1     qi2 yi1
+title: 除夜自石湖歸苕溪  其一○
+titlePinyin: chu2 ye4 zi4 shi2 hu2 gui1 tiao2 xi1     qi2 yi1 ○
 titleSlug: chu-ye-zi-shi-hu-gui-tiao-xi-qi-yi
 author: 姜夔
 authorPinyin: jiang1 kui2
 authorSlug: jiang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 細草穿沙雪半銷，吳宮煙冷水迢迢。
-- 梅花竹裏無人見，一夜吹香過石橋。
+- 環玦隨波冷未銷，古苔留雪卧牆腰。
+- 誰家玉笛吹春怨，看見鵝黄上柳條。
 
 ## 拼音
 
-- xi4 cao3 chuan1 sha1 xue3 ban4 xiao1 ， wu2 gong1 yan1 leng3 shui3 tiao2 tiao2 。
-- mei2 hua1 zhu2 li3 wu2 ren2 jian4 ， yi2 ye4 chui1 xiang1 guo4 shi2 qiao2 。
+- huan2 jue2 sui2 bo1 leng3 wei4 xiao1 ， gu3 tai2 liu2 xue3 wo4 qiang2 yao1 。
+- shui2 jia1 yu4 di2 chui1 chun1 yuan4 ， kan4 jian4 e2 huang2 shang4 liu3 tiao2 。
 
 ## 注释
 

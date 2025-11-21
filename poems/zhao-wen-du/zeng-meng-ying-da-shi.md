@@ -6,9 +6,9 @@ titleSlug: zeng-meng-ying-da-shi
 author: 趙文度
 authorPinyin: zhao4 wen2 du4
 authorSlug: zhao-wen-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

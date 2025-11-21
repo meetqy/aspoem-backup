@@ -1,26 +1,26 @@
 ---
 id: shi-shi-ti-song-gu-shi-si-shou-qi-yi
-title: 頌古十四首  其一
-titlePinyin: song4 gu3 shi2 si4 shou3     qi2 yi1
+title: 頌古十四首  其一○
+titlePinyin: song4 gu3 shi2 si4 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-si-shou-qi-yi
 author: 釋師體
 authorPinyin: shi4 shi1 ti3
 authorSlug: shi-shi-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 妙峯孤頂無知識，百十城遊喪善財。
-- 樓閣若還彈指見，分明有眼不曾開。
+- 竹溪煙絕雨才通，無數深紅間淺紅。
+- 山店落英春寂寂，青旗吹動柳花風。
 
 ## 拼音
 
-- miao4 feng1 gu1 ding3 wu2 zhi1 shi2 ， bai3 shi2 cheng2 you2 sang1 shan4 cai2 。
-- lou2 ge2 ruo4 huan2 dan4 zhi3 jian4 ， fen1 ming2 you3 yan3 bu4 ceng2 kai1 。
+- zhu2 xi1 yan1 jue2 yu3 cai2 tong1 ， wu2 shu4 shen1 hong2 jian4 qian3 hong2 。
+- shan1 dian4 luo4 ying1 chun1 ji4 ji4 ， qing1 qi2 chui1 dong4 liu3 hua1 feng1 。
 
 ## 注释
 

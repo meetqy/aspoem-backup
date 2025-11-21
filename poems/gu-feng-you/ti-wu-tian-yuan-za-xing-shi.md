@@ -6,10 +6,10 @@ titleSlug: ti-wu-tian-yuan-za-xing-shi
 author: 顧逢友
 authorPinyin: gu4 feng2 you3
 authorSlug: gu-feng-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

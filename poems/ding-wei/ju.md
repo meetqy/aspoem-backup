@@ -1,30 +1,30 @@
 ---
 id: ding-wei-ju
-title: 菊
-titlePinyin: ju2
+title: 車
+titlePinyin: ju1
 titleSlug: ju
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陶令重時芳，鍾繇帝賫霶。
-- 清香宜桂酒，冷艷壓萸房。
-- 羽客長生助，騷人夕落傷。
-- 郊原多似是，甘苦冀情詳。
+- 任重材惟美，多工制不僭。
+- 七香參鶴駕，五色間鸞軒。
+- 沙路茱萸輞，香風翡翠轅。
+- 莫矜流水妙，須畏叔孫言。
 
 ## 拼音
 
-- tao2 ling4 zhong4 shi2 fang1 ， zhong1 yao2 di4 ji1 pang1 。
-- qing1 xiang1 yi2 gui4 jiu3 ， leng3 yan4 ya1 yu2 fang2 。
-- yu3 ke4 chang2 sheng1 zhu4 ， sao1 ren2 xi1 luo4 shang1 。
-- jiao1 yuan2 duo1 si4 shi4 ， gan1 ku3 ji4 qing2 xiang2 。
+- ren4 zhong4 cai2 wei2 mei3 ， duo1 gong1 zhi4 bu2 jian4 。
+- qi1 xiang1 can1 he4 jia4 ， wu3 se4 jian4 luan2 xuan1 。
+- sha1 lu4 zhu1 yu2 wang3 ， xiang1 feng1 fei3 cui4 yuan2 。
+- mo4 jin1 liu2 shui3 miao4 ， xu1 wei4 shu1 sun1 yan2 。
 
 ## 注释
 

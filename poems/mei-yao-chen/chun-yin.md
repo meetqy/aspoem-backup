@@ -6,25 +6,25 @@ titleSlug: chun-yin
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 濃淡雲無定，凄微氣宇寒。
-- 鳩鳴桑葉吐，村暗杏花殘。
-- 客子行裘薄，春塘野水寬。
-- 輕雷欣已發，謬作採茶官。
+- 雲壓花房冷，風開柳絮遲。
+- 幽人宿酲在，靜館晝眠時。
+- 欲雨天無雨，將絲鬢未絲。
+- 孔融過五十，歲月已堪悲。
 
 ## 拼音
 
-- nong2 dan4 yun2 wu2 ding4 ， qi1 wei1 qi4 yu3 han2 。
-- jiu1 ming2 sang1 ye4 tu3 ， cun1 an4 xing4 hua1 can2 。
-- ke4 zi3 xing2 qiu2 bao2 ， chun1 tang2 ye3 shui3 kuan1 。
-- qing1 lei2 xin1 yi3 fa1 ， miu4 zuo4 cai3 cha2 guan1 。
+- yun2 ya1 hua1 fang2 leng3 ， feng1 kai1 liu3 xu4 chi2 。
+- you1 ren2 su4 cheng2 zai4 ， jing4 guan3 zhou4 mian2 shi2 。
+- yu4 yu3 tian1 wu2 yu3 ， jiang1 si1 bin4 wei4 si1 。
+- kong3 rong2 guo4 wu3 shi2 ， sui4 yue4 yi3 kan1 bei1 。
 
 ## 注释
 

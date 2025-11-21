@@ -6,10 +6,10 @@ titleSlug: ye-xian-ying-guan-cui-zhen-jun
 author: 魏元若
 authorPinyin: wei4 yuan2 ruo4
 authorSlug: wei-yuan-ruo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

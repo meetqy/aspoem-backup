@@ -6,9 +6,9 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋曇玩
 authorPinyin: shi4 tan2 wan2
 authorSlug: shi-tan-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: gu-shan
 author: 史季溫
 authorPinyin: shi3 ji4 wen1
 authorSlug: shi-ji-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

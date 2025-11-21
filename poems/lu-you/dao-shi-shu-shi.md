@@ -6,25 +6,25 @@ titleSlug: dao-shi-shu-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五十餘年讀道書，老來所得定何如。
-- 目光焰焰夜穿帳，胎髮青青晨映梳。
-- 甚畏蝮蛇寧斷手，已烹熊掌敢兼魚。
-- 春蕪二畝扶犁去，空憶高皇賜對初。
+- 榻上一琴橫，中函太古聲。
+- 丹砂燒已死，芝草種初生。
+- 道勝魔軍破，方靈疾豎平。
+- 明朝有蜀使，細字報青城。
 
 ## 拼音
 
-- wu3 shi2 yu2 nian2 du2 dao4 shu1 ， lao3 lai2 suo3 de2 ding4 he2 ru2 。
-- mu4 guang1 yan4 yan4 ye4 chuan1 zhang4 ， tai1 fa4 qing1 qing1 chen2 ying4 shu1 。
-- shen4 wei4 fu4 she2 ning2 duan4 shou3 ， yi3 peng1 xiong2 zhang3 gan3 jian1 yu2 。
-- chun1 wu2 er4 mu3 fu2 li2 qu4 ， kong1 yi4 gao1 huang2 ci4 dui4 chu1 。
+- ta4 shang4 yi4 qin2 heng2 ， zhong1 han2 tai4 gu3 sheng1 。
+- dan1 sha1 shao1 yi3 si3 ， zhi1 cao3 zhong3 chu1 sheng1 。
+- dao4 sheng4 mo2 jun1 po4 ， fang1 ling2 ji2 shu4 ping2 。
+- ming2 chao2 you3 shu3 shi3 ， xi4 zi4 bao4 qing1 cheng2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jing-wang-xu-yi-jiu-xiang-long-xi-lao-ren-ji-yue-bu-zhi-yi-shi-cu-zhi
 author: 宇文虛中
 authorPinyin: yu3 wen2 xu1 zhong1
 authorSlug: yu-wen-xu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

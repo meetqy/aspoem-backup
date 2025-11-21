@@ -6,10 +6,10 @@ titleSlug: shang-wang-jin-qing
 author: 王詵門客
 authorPinyin: wang2 shen1 men2 ke4
 authorSlug: wang-shen-men-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

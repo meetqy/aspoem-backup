@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝來天無風，秋暘劇炎銳。
-- 當年屏翳動，松竹發清吹。
-- 風豈憐我老，飄蕭翔異氣。
-- 泠然濯煩襟，蘇息殆天意。
+- 曉來浩露出，細履欣悠然。
+- 壠麥漾輕浪，芳草迷平川。
+- 無邊綠成幄，團飛柳皆綿。
+- 老翁指謂我，漸熟高低田。
 
 ## 拼音
 
-- chao2 lai2 tian1 wu2 feng1 ， qiu1 yang2 ju4 yan2 rui4 。
-- dang1 nian2 ping2 yi4 dong4 ， song1 zhu2 fa1 qing1 chui1 。
-- feng1 qi3 lian2 wo3 lao3 ， piao1 xiao1 xiang2 yi4 qi4 。
-- ling2 ran2 zhuo2 fan2 jin1 ， su1 xi1 dai4 tian1 yi4 。
+- xiao3 lai2 hao4 lu4 chu1 ， xi4 lü3 xin1 you1 ran2 。
+- long3 mai4 yang4 qing1 lang4 ， fang1 cao3 mi2 ping2 chuan1 。
+- wu2 bian1 lü4 cheng2 wo4 ， tuan2 fei1 liu3 jie1 mian2 。
+- lao3 weng1 zhi3 wei4 wo3 ， jian4 shu2 gao1 di1 tian2 。
 
 ## 注释
 

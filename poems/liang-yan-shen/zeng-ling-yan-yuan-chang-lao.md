@@ -6,10 +6,10 @@ titleSlug: zeng-ling-yan-yuan-chang-lao
 author: 梁彥深
 authorPinyin: liang2 yan4 shen1
 authorSlug: liang-yan-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

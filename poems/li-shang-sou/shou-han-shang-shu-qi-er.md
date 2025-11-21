@@ -6,10 +6,10 @@ titleSlug: shou-han-shang-shu-qi-er
 author: 李商叟
 authorPinyin: li3 shang1 sou3
 authorSlug: li-shang-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

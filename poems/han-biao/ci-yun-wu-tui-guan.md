@@ -6,25 +6,25 @@ titleSlug: ci-yun-wu-tui-guan
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水南見靈山，但可著兩眸。
-- 孰知九州外，自有大九州。
-- 放浪此身心，是事同浮漚。
-- 樂哉我重九，風雨簷溜收。
+- 楚雨黄梅熟，卑枝易積陰。
+- 山園三逕少，澗水一溝深。
+- 蕭颯寒猶起，低回老亦侵。
+- 尋詩爲君和，絕唱有遺音。
 
 ## 拼音
 
-- shui3 nan2 jian4 ling2 shan1 ， dan4 ke3 zhu4 liang3 mou2 。
-- shu2 zhi1 jiu3 zhou1 wai4 ， zi4 you3 da4 jiu3 zhou1 。
-- fang4 lang4 ci3 shen1 xin1 ， shi4 shi4 tong2 fu2 ou1 。
-- le4 zai1 wo3 chong2 jiu3 ， feng1 yu3 yan2 liu1 shou1 。
+- chu3 yu3 huang2 mei2 shu2 ， bei1 zhi1 yi4 ji1 yin1 。
+- shan1 yuan2 san1 jing4 shao3 ， jian4 shui3 yi4 gou1 shen1 。
+- xiao1 sa4 han2 you2 qi3 ， di1 hui2 lao3 yi4 qin1 。
+- xun2 shi1 wei2 jun1 he2 ， jue2 chang4 you3 yi2 yin1 。
 
 ## 注释
 

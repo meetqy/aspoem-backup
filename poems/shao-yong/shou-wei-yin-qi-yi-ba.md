@@ -1,30 +1,30 @@
 ---
 id: shao-yong-shou-wei-yin-qi-yi-ba
-title: 首尾吟  其一八
-titlePinyin: shou3 wei3 yin2     qi2 yi1 ba1
+title: 首尾吟  其一○八
+titlePinyin: shou3 wei3 yin2     qi2 yi1 ○ ba1
 titleSlug: shou-wei-yin-qi-yi-ba
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堯夫非是愛吟詩，詩是堯夫可歎時。
-- 固有命焉剛不信，是無天也果能欺。
-- 才高正被聰明使，身貴方爲利害移。
-- 無計柰何春又老，堯夫非是愛吟詩。
+- 堯夫非是愛吟詩，詩是堯夫樂事時。
+- 天道虧盈如橐籥，聖人言語似蓍龜。
+- 光陰去後繩難繫，筋力衰時藥不醫。
+- 莫把閑愁伴殘照，堯夫非是愛吟詩。
 
 ## 拼音
 
-- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， shi1 shi4 yao2 fu1 ke3 tan4 shi2 。
-- gu4 you3 ming4 yan1 gang1 bu2 xin4 ， shi4 wu2 tian1 ye3 guo3 neng2 qi1 。
-- cai2 gao1 zheng4 bei4 cong1 ming2 shi3 ， shen1 gui4 fang1 wei2 li4 hai4 yi2 。
-- wu2 ji4 nai4 he2 chun1 you4 lao3 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
+- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， shi1 shi4 yao2 fu1 le4 shi4 shi2 。
+- tian1 dao4 kui1 ying2 ru2 tuo2 yue4 ， sheng4 ren2 yan2 yu3 si4 shi1 gui1 。
+- guang1 yin1 qu4 hou4 sheng2 nan2 xi4 ， jin1 li4 shuai1 shi2 yao4 bu4 yi1 。
+- mo4 ba3 xian2 chou2 ban4 can2 zhao4 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
 
 ## 注释
 

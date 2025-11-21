@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-qi-yi-liu
-title: 頌古  其一六
-titlePinyin: song4 gu3     qi2 yi1 liu4
+title: 頌古  其一○六
+titlePinyin: song4 gu3     qi2 yi1 ○ liu4
 titleSlug: song-gu-qi-yi-liu
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 一喝喝上四禪天，臨濟元來不會禪。
-- 盡道朝陽生戶外，不知夜月落階前。
+- 舉手攀南斗，翻身倚北辰。
+- 出頭天外看，誰是我般人。
 
 ## 拼音
 
-- yi4 he1 he1 shang4 si4 shan4 tian1 ， lin2 ji4 yuan2 lai2 bu2 hui4 shan4 。
-- jin4 dao4 chao2 yang2 sheng1 hu4 wai4 ， bu4 zhi1 ye4 yue4 luo4 jie1 qian2 。
+- ju3 shou3 pan1 nan2 dou3 ， fan1 shen1 yi3 bei3 chen2 。
+- chu1 tou2 tian1 wai4 kan4 ， shui2 shi4 wo3 ban1 ren2 。
 
 ## 注释
 

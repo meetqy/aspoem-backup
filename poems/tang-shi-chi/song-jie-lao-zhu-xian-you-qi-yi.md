@@ -1,26 +1,26 @@
 ---
 id: tang-shi-chi-song-jie-lao-zhu-xian-you-qi-yi
-title: 送傑老住仙遊  其一
-titlePinyin: song4 jie2 lao3 zhu4 xian1 you2     qi2 yi1
+title: 送傑老住仙遊  其一○
+titlePinyin: song4 jie2 lao3 zhu4 xian1 you2     qi2 yi1 ○
 titleSlug: song-jie-lao-zhu-xian-you-qi-yi
 author: 唐士恥
 authorPinyin: tang2 shi4 chi3
 authorSlug: tang-shi-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 肉譜知何從，塗高流亦深。
-- 漢相似堯相，奕蘭端至今。
+- 中庭可明月，況此方揚輝。
+- 霏譚隔千里，使我幾忘歸。
 
 ## 拼音
 
-- rou4 pu3 zhi1 he2 cong2 ， tu2 gao1 liu2 yi4 shen1 。
-- han4 xiang1 si4 yao2 xiang1 ， yi4 lan2 duan1 zhi4 jin1 。
+- zhong1 ting2 ke3 ming2 yue4 ， kuang4 ci3 fang1 yang2 hui1 。
+- fei1 tan2 ge2 qian1 li3 ， shi3 wo3 ji1 wang4 gui1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chu-she-zai-zhe-jiang-ting-de-fu-shu-kai-shi-ti-shi-wu-ting
 author: 張牧
 authorPinyin: zhang1 mu4
 authorSlug: zhang-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

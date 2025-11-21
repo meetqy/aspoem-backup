@@ -6,10 +6,10 @@ titleSlug: yi-chun-shi-yuan-pu-er-xu-meng-er-bi-zhi-ming-mei-yu-wei-bang-ren-yi-
 author: 汪應辰
 authorPinyin: wang1 ying1 chen2
 authorSlug: wang-ying-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

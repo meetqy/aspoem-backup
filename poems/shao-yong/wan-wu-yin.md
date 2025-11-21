@@ -6,25 +6,25 @@ titleSlug: wan-wu-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬物備于身，乾坤不負人。
-- 時光嗟荏苒，事體落因循。
-- 既感青春老，還驚白髮新。
-- 胸中若無有，未免作埃塵。
+- 成敗須歸命，興衰各有時。
+- 小人縱多欲，真宰豈容私。
+- 只此浪喜歡，便成空慘悽。
+- 請觀春去後，遊者更爲誰。
 
 ## 拼音
 
-- wan4 wu4 bei4 yu2 shen1 ， qian2 kun1 bu2 fu4 ren2 。
-- shi2 guang1 jie1 ren3 ran3 ， shi4 ti3 luo4 yin1 xun2 。
-- ji4 gan3 qing1 chun1 lao3 ， huan2 jing1 bai2 fa4 xin1 。
-- xiong1 zhong1 ruo4 wu2 you3 ， wei4 mian3 zuo4 ai1 chen2 。
+- cheng2 bai4 xu1 gui1 ming4 ， xing1 shuai1 ge4 you3 shi2 。
+- xiao3 ren2 zong4 duo1 yu4 ， zhen1 zai3 qi3 rong2 si1 。
+- zhi3 ci3 lang4 xi3 huan1 ， bian4 cheng2 kong1 can3 qi1 。
+- qing3 guan1 chun1 qu4 hou4 ， you2 zhe3 geng4 wei2 shui2 。
 
 ## 注释
 

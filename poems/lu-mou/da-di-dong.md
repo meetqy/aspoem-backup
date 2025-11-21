@@ -6,10 +6,10 @@ titleSlug: da-di-dong
 author: 呂某
 authorPinyin: lü3 mou3
 authorSlug: lu-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

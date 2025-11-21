@@ -6,21 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-ba-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 進人若將加諸膝，退人若將墜諸淵。
-- 雲門放去較憨，雪竇收來較險。
+- 水洗硬石頭，浪打枯楊樹。
+- 浄智裝嚴功德聚。
+- 雖然脫體無塵，未是透法身句。
+- 如何是透法身句，只有湖水無行路。
 
 ## 拼音
 
-- jin4 ren2 ruo4 jiang1 jia1 zhu1 xi1 ， tui4 ren2 ruo4 jiang1 zhui4 zhu1 yuan1 。
-- yun2 men2 fang4 qu4 jiao4 han1 ， xue3 dou4 shou1 lai2 jiao4 xian3 。
+- shui3 xi3 ying4 shi2 tou2 ， lang4 da3 ku1 yang2 shu4 。
+- jing4 zhi4 zhuang1 yan2 gong1 de2 ju4 。
+- sui1 ran2 tuo1 ti3 wu2 chen2 ， wei4 shi4 tou4 fa3 shen1 ju4 。
+- ru2 he2 shi4 tou4 fa3 shen1 ju4 ， zhi3 you3 hu2 shui3 wu2 xing2 lu4 。
 
 ## 注释
 

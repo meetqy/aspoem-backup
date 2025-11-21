@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 沈清友
 authorPinyin: shen3 qing1 you3
 authorSlug: shen-qing-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jin-jing-shan
 author: 周薰
 authorPinyin: zhou1 xun1
 authorSlug: zhou-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

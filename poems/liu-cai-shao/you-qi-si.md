@@ -6,21 +6,21 @@ titleSlug: you-qi-si
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 始和布政同天運，聖澤隨春下九霄。
-- 垂法端闈萬人喜，典章盡復祖宗朝。
+- 飛霙頃報豐年慶，天瑞由來應克誠。
+- 喜見農祥已晨正，將持嘉種奉親耕。
 
 ## 拼音
 
-- shi3 he2 bu4 zheng4 tong2 tian1 yun4 ， sheng4 ze2 sui2 chun1 xia4 jiu3 xiao1 。
-- chui2 fa3 duan1 wei2 wan4 ren2 xi3 ， dian3 zhang1 jin4 fu4 zu3 zong0 chao2 。
+- fei1 ying1 qing3 bao4 feng1 nian2 qing4 ， tian1 rui4 you2 lai2 ying1 ke4 cheng2 。
+- xi3 jian4 nong2 xiang2 yi3 chen2 zheng4 ， jiang1 chi2 jia1 zhong3 feng4 qin1 geng1 。
 
 ## 注释
 

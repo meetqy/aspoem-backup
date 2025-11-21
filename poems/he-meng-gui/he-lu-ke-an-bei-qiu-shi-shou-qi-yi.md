@@ -1,30 +1,30 @@
 ---
 id: he-meng-gui-he-lu-ke-an-bei-qiu-shi-shou-qi-yi
-title: 和盧可菴悲秋十首  其一
-titlePinyin: he2 lu2 ke3 an1 bei1 qiu1 shi2 shou3     qi2 yi1
+title: 和盧可菴悲秋十首  其一○
+titlePinyin: he2 lu2 ke3 an1 bei1 qiu1 shi2 shou3     qi2 yi1 ○
 titleSlug: he-lu-ke-an-bei-qiu-shi-shou-qi-yi
 author: 何夢桂
 authorPinyin: he2 meng4 gui4
 authorSlug: he-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風來庭際，奄忽老蓐收。
-- 夜寒耿無寐，起坐焚膏油。
-- 孤燈照我影，對坐自倡酬。
-- 偈參意未竟，參橫轉西樓。
+- 秋風來太虛，逍遥浮大庭。
+- 吾身與天地，等如水上萍。
+- 弄丸閒往來，意行還微吟。
+- 吟盡無人聽，惟遺空外音。
 
 ## 拼音
 
-- qiu1 feng1 lai2 ting2 ji4 ， yan3 hu1 lao3 ru4 shou1 。
-- ye4 han2 geng3 wu2 mei4 ， qi3 zuo4 fen2 gao4 you2 。
-- gu1 deng1 zhao4 wo3 ying3 ， dui4 zuo4 zi4 chang4 chou2 。
-- ji4 can1 yi4 wei4 jing4 ， can1 heng2 zhuan3 xi1 lou2 。
+- qiu1 feng1 lai2 tai4 xu1 ， xiao1 yao2 fu2 da4 ting2 。
+- wu2 shen1 yu3 tian1 di4 ， deng3 ru2 shui3 shang4 ping2 。
+- nong4 wan2 xian2 wang3 lai2 ， yi4 xing2 huan2 wei1 yin2 。
+- yin2 jin4 wu2 ren2 ting1 ， wei2 yi2 kong1 wai4 yin1 。
 
 ## 注释
 

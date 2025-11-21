@@ -6,10 +6,10 @@ titleSlug: zhe-guan-du-huai-zhou-zhong-yu-feng-yu-fu-zhou-er-zuo
 author: 唐介
 authorPinyin: tang2 jie4
 authorSlug: tang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

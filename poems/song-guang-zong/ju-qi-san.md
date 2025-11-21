@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 宋光宗
 authorPinyin: song4 guang1 zong1
 authorSlug: song-guang-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

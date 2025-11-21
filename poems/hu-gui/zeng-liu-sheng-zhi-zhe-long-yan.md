@@ -6,10 +6,10 @@ titleSlug: zeng-liu-sheng-zhi-zhe-long-yan
 author: 胡槻
 authorPinyin: hu2 gui1
 authorSlug: hu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zi-yong
 author: 朱廣漢
 authorPinyin: zhu1 guang3 han4
 authorSlug: zhu-guang-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

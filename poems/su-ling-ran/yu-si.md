@@ -6,10 +6,10 @@ titleSlug: yu-si
 author: 蘇凌然
 authorPinyin: su1 ling2 ran2
 authorSlug: su-ling-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

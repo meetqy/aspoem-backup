@@ -6,10 +6,10 @@ titleSlug: ye-se
 author: 蔣恢
 authorPinyin: jiang3 hui1
 authorSlug: jiang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

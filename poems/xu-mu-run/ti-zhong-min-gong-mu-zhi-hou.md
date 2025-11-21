@@ -6,10 +6,10 @@ titleSlug: ti-zhong-min-gong-mu-zhi-hou
 author: 徐木潤
 authorPinyin: xu2 mu4 run4
 authorSlug: xu-mu-run
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

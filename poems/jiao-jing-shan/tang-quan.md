@@ -6,10 +6,10 @@ titleSlug: tang-quan
 author: 焦靜山
 authorPinyin: jiao1 jing4 shan1
 authorSlug: jiao-jing-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

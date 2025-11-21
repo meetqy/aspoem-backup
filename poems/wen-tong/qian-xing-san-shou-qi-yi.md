@@ -1,14 +1,14 @@
 ---
 id: wen-tong-qian-xing-san-shou-qi-yi
-title: 遣興三首・其一
-titlePinyin: qian3 xing1 san1 shou3・qi2 yi1
+title: 遣興三首  其一
+titlePinyin: qian3 xing1 san1 shou3     qi2 yi1
 titleSlug: qian-xing-san-shou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

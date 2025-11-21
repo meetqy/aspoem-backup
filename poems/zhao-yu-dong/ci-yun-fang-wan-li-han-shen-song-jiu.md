@@ -6,10 +6,10 @@ titleSlug: ci-yun-fang-wan-li-han-shen-song-jiu
 author: 趙與東
 authorPinyin: zhao4 yu3 dong1
 authorSlug: zhao-yu-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

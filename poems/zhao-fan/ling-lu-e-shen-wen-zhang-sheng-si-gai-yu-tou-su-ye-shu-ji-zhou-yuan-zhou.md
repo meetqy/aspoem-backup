@@ -6,10 +6,10 @@ titleSlug: ling-lu-e-shen-wen-zhang-sheng-si-gai-yu-tou-su-ye-shu-ji-zhou-yuan-z
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

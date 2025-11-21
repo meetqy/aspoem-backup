@@ -1,26 +1,26 @@
 ---
 id: shi-pu-ji-ji-song-liu-shi-wu-shou-qi-yi
-title: 偈頌六十五首  其一
-titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 yi1
+title: 偈頌六十五首  其一○
+titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-liu-shi-wu-shou-qi-yi
 author: 釋普濟
 authorPinyin: shi4 pu3 ji4
 authorSlug: shi-pu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春山疊亂青，春水漾虛碧。
-- 大解脫門開，把手拽不入。
+- 趁晴蓋了屋，乘時刈了禾。
+- 輸納王租了，鼓腹唱謳歌。
 
 ## 拼音
 
-- chun1 shan1 die2 luan4 qing1 ， chun1 shui3 yang4 xu1 bi4 。
-- da4 jie3 tuo1 men2 kai1 ， ba3 shou3 zhuai4 bu2 ru4 。
+- chen4 qing2 gai4 le0 wu1 ， cheng2 shi2 yi4 le0 he2 。
+- shu1 na4 wang2 zu1 le0 ， gu3 fu4 chang4 ou1 ge1 。
 
 ## 注释
 

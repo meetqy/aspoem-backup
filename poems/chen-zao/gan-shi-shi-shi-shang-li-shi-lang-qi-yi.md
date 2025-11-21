@@ -1,30 +1,34 @@
 ---
 id: chen-zao-gan-shi-shi-shi-shang-li-shi-lang-qi-yi
-title: 感事十詩上李侍郎  其一
-titlePinyin: gan3 shi4 shi2 shi1 shang4 li3 shi4 lang2     qi2 yi1
+title: 感事十詩上李侍郎  其一○
+titlePinyin: gan3 shi4 shi2 shi1 shang4 li3 shi4 lang2     qi2 yi1 ○
 titleSlug: gan-shi-shi-shi-shang-li-shi-lang-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 齊人石爲瓠，自視比金璧。
-- 鑽之不能竅，寶此果何益。
-- 人士爲己學，落落肯如石。
-- 當知井用汲，又惡匏不食。
+- 幽人一床書，不肯睨侯伯。
+- 領會有真樂，未厭四立壁。
+- 平日太玄經，看人五鹿客。
+- 今代元紫芝，獨未覘顔色。
+- 向來縈清夢，倏喜得親炙。
+- 一洗衰俗耻，滿腹志願畢。
 
 ## 拼音
 
-- qi2 ren2 shi2 wei2 hu4 ， zi4 shi4 bi3 jin1 bi4 。
-- zuan1 zhi1 bu4 neng2 qiao4 ， bao3 ci3 guo3 he2 yi4 。
-- ren2 shi4 wei2 ji3 xue2 ， luo4 luo4 ken3 ru2 shi2 。
-- dang1 zhi1 jing3 yong4 ji2 ， you4 e4 pao2 bu4 shi2 。
+- you1 ren2 yi4 chuang2 shu1 ， bu4 ken3 ni4 hou2 bo2 。
+- ling3 hui4 you3 zhen1 le4 ， wei4 yan4 si4 li4 bi4 。
+- ping2 ri4 tai4 xuan2 jing1 ， kan4 ren2 wu3 lu4 ke4 。
+- jin1 dai4 yuan2 zi3 zhi1 ， du2 wei4 chan1 yan2 se4 。
+- xiang4 lai2 ying2 qing1 meng4 ， shu1 xi3 de2 qin1 zhi4 。
+- yi4 xi3 shuai1 su2 chi3 ， man3 fu4 zhi4 yuan4 bi4 。
 
 ## 注释
 

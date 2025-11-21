@@ -6,25 +6,25 @@ titleSlug: shan-fang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 擾擾人間歲月移，山房幾度換茅茨。
-- 身遊與世相忘地，詩到令人不愛時。
-- 老鶴初來未丹頂，稚松親種已虬枝。
-- 東塗西抹非無意，皺面朱鉛太不宜。
+- 柴門不掩俗人稀，成就山房一段奇。
+- 木葉最宜新雨後，鳥聲更勝暮春時。
+- 家貲屢罄緣耽酒，宿習猶存爲愛詩。
+- 別有一條差自慰，朮苗芎茁正離離。
 
 ## 拼音
 
-- rao3 rao3 ren2 jian4 sui4 yue4 yi2 ， shan1 fang2 ji1 du4 huan4 mao2 ci2 。
-- shen1 you2 yu3 shi4 xiang4 wang4 di4 ， shi1 dao4 ling4 ren2 bu2 ai4 shi2 。
-- lao3 he4 chu1 lai2 wei4 dan1 ding3 ， zhi4 song1 qin1 zhong3 yi3 qiu2 zhi1 。
-- dong1 tu2 xi1 mo3 fei1 wu2 yi4 ， zhou4 mian4 zhu1 qian1 tai4 bu4 yi2 。
+- chai2 men2 bu4 yan3 su2 ren2 xi1 ， cheng2 jiu4 shan1 fang2 yi2 duan4 qi2 。
+- mu4 ye4 zui4 yi2 xin1 yu3 hou4 ， niao3 sheng1 geng4 sheng4 mu4 chun1 shi2 。
+- jia1 zi1 lü3 qing4 yuan2 dan1 jiu3 ， su4 xi2 you2 cun2 wei2 ai4 shi1 。
+- bie2 you3 yi4 tiao2 cha4 zi4 wei4 ， zhu2 miao2 xiong1 zhuo2 zheng4 li2 li2 。
 
 ## 注释
 

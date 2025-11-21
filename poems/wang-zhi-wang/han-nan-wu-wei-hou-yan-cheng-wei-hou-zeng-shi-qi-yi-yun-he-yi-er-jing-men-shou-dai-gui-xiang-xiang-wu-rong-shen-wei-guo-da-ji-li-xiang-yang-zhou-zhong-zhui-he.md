@@ -6,10 +6,10 @@ titleSlug: han-nan-wu-wei-hou-yan-cheng-wei-hou-zeng-shi-qi-yi-yun-he-yi-er-jing
 author: 王之望
 authorPinyin: wang2 zhi1 wang4
 authorSlug: wang-zhi-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: san-li-tang-qia-mei
 author: 葉樾
 authorPinyin: ye4 yue4
 authorSlug: ye-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

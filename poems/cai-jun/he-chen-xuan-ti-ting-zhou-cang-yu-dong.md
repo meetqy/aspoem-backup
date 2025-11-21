@@ -6,10 +6,10 @@ titleSlug: he-chen-xuan-ti-ting-zhou-cang-yu-dong
 author: 蔡雋
 authorPinyin: cai4 jun4
 authorSlug: cai-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

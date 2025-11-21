@@ -6,25 +6,37 @@ titleSlug: jin-cun
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去去柴車十里中，竹林密處路纔通。
-- 漸聞水磑知村近，遥望禾囷喜歲豐。
-- 漁艇往來春浪碧，人家高下夕陽紅。
-- 百錢又向旗亭醉，自笑吾生亦未窮。
+- 家居每思出，出亦無與遊。
+- 江山豈不佳，乃復生我愁。
+- 不如適近村，家家業農疇。
+- 深巷鳴鷄犬，長陂下羊牛。
+- 棗熟稻當穫，桑落酒可篘。
+- 寧無賓祭須，柿栗良易求。
+- 醫翁日過門，得藥疾自瘳。
+- 婚嫁不出村，百世加綢繆。
+- 我來每絕嘆，恨不終歲留。
+- 人生正應爾，底事須王侯。
 
 ## 拼音
 
-- qu4 qu4 chai2 ju1 shi2 li3 zhong1 ， zhu2 lin2 mi4 chu3 lu4 cai2 tong1 。
-- jian4 wen2 shui3 wei4 zhi1 cun1 jin4 ， yao2 wang4 he2 qun1 xi3 sui4 feng1 。
-- yu2 ting3 wang3 lai2 chun1 lang4 bi4 ， ren2 jia1 gao1 xia4 xi1 yang2 hong2 。
-- bai3 qian2 you4 xiang4 qi2 ting2 zui4 ， zi4 xiao4 wu2 sheng1 yi4 wei4 qiong2 。
+- jia1 ju1 mei3 si1 chu1 ， chu1 yi4 wu2 yu3 you2 。
+- jiang1 shan1 qi3 bu4 jia1 ， nai3 fu4 sheng1 wo3 chou2 。
+- bu4 ru2 shi4 jin4 cun1 ， jia1 jia1 ye4 nong2 chou2 。
+- shen1 xiang4 ming2 ji1 quan3 ， chang2 bei1 xia4 yang2 niu2 。
+- zao3 shu2 dao4 dang1 huo4 ， sang1 luo4 jiu3 ke3 chou1 。
+- ning2 wu2 bin1 ji4 xu1 ， shi4 li4 liang2 yi4 qiu2 。
+- yi1 weng1 ri4 guo4 men2 ， de2 yao4 ji2 zi4 chou1 。
+- hun1 jia4 bu4 chu1 cun1 ， bai3 shi4 jia1 chou2 mou2 。
+- wo3 lai2 mei3 jue2 tan4 ， hen4 bu4 zhong1 sui4 liu2 。
+- ren2 sheng1 zheng4 ying1 er3 ， di3 shi4 xu1 wang2 hou2 。
 
 ## 注释
 

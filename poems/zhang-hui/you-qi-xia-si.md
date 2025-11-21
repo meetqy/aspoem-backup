@@ -3,13 +3,13 @@ id: zhang-hui-you-qi-xia-si
 title: 遊棲霞寺
 titlePinyin: you2 qi1 xia2 si4
 titleSlug: you-qi-xia-si
-author: 張彙
-authorPinyin: zhang1 hui4
+author: 張翬
+authorPinyin: zhang1 hui1
 authorSlug: zhang-hui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: wang-fan-zhi-shi-wu
-title: 十五
-titlePinyin: shi2 wu3
+title: 詩 五
+titlePinyin: shi1   wu3
 titleSlug: shi-wu
 author: 王梵志
 authorPinyin: wang2 fan4 zhi4
@@ -9,23 +9,25 @@ authorSlug: wang-fan-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 耶孃年七十，不得遠東西。
-- 出後傾危起，（「起」，伯三五五八、伯三七一六、斯三三九三卷作「去」。
-- ）元知兒故違。
-- （「故違」，伯三六五六卷作「固違」。
+- 梵志與王生，密敦膠【漆】（柒）友。
+- 共喜【歌一】樂，同欣詠五柳。
+- 適意叙詩書，清淡盃（一作「盂」）淥【酒】。
+- 莫怪頻追逐，只爲相【知】久。
+- （按：此詩原卷中兩見，茲據另一重抄處校補。
 - ）。
 
 ## 拼音
 
-- ye1 niang2 nian2 qi1 shi2 ， bu4 de2 yuan3 dong1 xi1 。
-- chu1 hou4 qing1 wei1 qi3 ，（「 qi3 」， bo2 san1 wu3 wu3 ba1 、 bo2 san1 qi1 yi1 liu4 、 si1 san1 san1 jiu3 san1 juan4 zuo4 「 qu4 」。
-- ） yuan2 zhi1 er2 gu4 wei2 。
-- （「 gu4 wei2 」， bo2 san1 liu4 wu3 liu4 juan4 zuo4 「 gu4 wei2 」。
+- fan4 zhi4 yu3 wang2 sheng1 ， mi4 dun1 jiao1 【 qi1 】（ qi1 ） you3 。
+- gong4 xi3 【 ge1 yi1 】 le4 ， tong2 xin1 yong3 wu3 liu3 。
+- shi4 yi4 xu4 shi1 shu1 ， qing1 dan4 bei1 （ yi2 zuo4 「 yu2 」） lu4 【 jiu3 】。
+- mo4 guai4 bin1 zhui1 zhu2 ， zhi1 wei2 xiang1 【 zhi1 】 jiu3 。
+- （ an4 ： ci3 shi1 yuan2 juan4 zhong1 liang3 jian4 ， zi1 ju4 ling4 yi2 chong2 chao1 chu3 xiao4 bu3 。
 - ）。
 
 ## 注释

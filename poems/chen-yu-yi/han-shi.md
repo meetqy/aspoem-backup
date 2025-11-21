@@ -6,25 +6,25 @@ titleSlug: han-shi
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 草草隨時事，蕭蕭傍水門。
-- 濃陰花照野，寒食柳圍村。
-- 客袂空佳節，鶯聲忽故園。
-- 不知何處笛，吹恨滿清尊。
+- 竹籬寒食節，微雨澹春意。
+- 喧譁少所便，寂寞今有味。
+- 空山花動摇，亂石水經緯。
+- 倚杖忽已晚，人生本何冀。
 
 ## 拼音
 
-- cao3 cao3 sui2 shi2 shi4 ， xiao1 xiao1 bang4 shui3 men2 。
-- nong2 yin1 hua1 zhao4 ye3 ， han2 shi2 liu3 wei2 cun1 。
-- ke4 mei4 kong1 jia1 jie2 ， ying1 sheng1 hu1 gu4 yuan2 。
-- bu4 zhi1 he2 chu3 di2 ， chui1 hen4 man3 qing1 zun1 。
+- zhu2 li2 han2 shi2 jie2 ， wei1 yu3 dan4 chun1 yi4 。
+- xuan1 hua2 shao3 suo3 bian4 ， ji4 mo4 jin1 you3 wei4 。
+- kong1 shan1 hua1 dong4 yao2 ， luan4 shi2 shui3 jing1 wei3 。
+- yi3 zhang4 hu1 yi3 wan3 ， ren2 sheng1 ben3 he2 ji4 。
 
 ## 注释
 

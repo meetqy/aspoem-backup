@@ -1,26 +1,30 @@
 ---
 id: shi-xin-yue-song-gu-shi-liu-shou-qi-yi
-title: 頌古十六首  其一
-titlePinyin: song4 gu3 shi2 liu4 shou3     qi2 yi1
+title: 頌古十六首  其一○
+titlePinyin: song4 gu3 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-liu-shou-qi-yi
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 室內孤燈只自知，入流須辨截流機。
-- 遼天一鏃三關外，玉兔金烏不敢飛。
+- 朝西天，暮東土。
+- 翫水遊山，徐行款步。
+- 是則不動道場，不是亦在裏許。
+- 誰爲證明，石霜角虎。
 
 ## 拼音
 
-- shi4 nei4 gu1 deng1 zhi1 zi4 zhi1 ， ru4 liu2 xu1 bian4 jie2 liu2 ji1 。
-- liao2 tian1 yi4 zu2 san1 guan1 wai4 ， yu4 tu4 jin1 wu1 bu4 gan3 fei1 。
+- chao2 xi1 tian1 ， mu4 dong1 tu3 。
+- wan2 shui3 you2 shan1 ， xu2 hang2 kuan3 bu4 。
+- shi4 ze2 bu2 dong4 dao4 chang3 ， bu2 shi4 yi4 zai4 li3 xu1 。
+- shui2 wei2 zheng4 ming2 ， shi2 shuang1 jiao3 hu3 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: song-gu
 author: 釋行
 authorPinyin: shi4 xing2
 authorSlug: shi-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

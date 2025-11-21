@@ -6,10 +6,10 @@ titleSlug: zheng-he-er-nian-san-yue-nian-si-ri-fu-yan-shuai-fu-da-yue-ji-xi-chen
 author: 楊景
 authorPinyin: yang2 jing3
 authorSlug: yang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,20 +9,22 @@ authorSlug: gu-kuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 左車有慶，萬人猶病。
-- 曷可去之，于黨孔盛。
-- 敏爾之生，胡爲波迸。
+- 築城登登，于以作固。
+- 咨爾寺兮，發郊外冢墓。
+- 死而無知，猶或不可。
+- 若其有知，惟上帝是愬。
 
 ## 拼音
 
-- zuo3 ju1 you3 qing4 ， wan4 ren2 you2 bing4 。
-- he2 ke3 qu4 zhi1 ， yu2 dang3 kong3 sheng4 。
-- min3 er3 zhi1 sheng1 ， hu2 wei2 bo1 beng4 。
+- zhu4 cheng2 deng1 deng1 ， yu2 yi3 zuo4 gu4 。
+- zi1 er3 si4 xi1 ， fa1 jiao1 wai4 zhong3 mu4 。
+- si3 er2 wu2 zhi1 ， you2 huo4 bu4 ke3 。
+- ruo4 qi2 you3 zhi1 ， wei2 shang4 di4 shi4 shuo4 。
 
 ## 注释
 

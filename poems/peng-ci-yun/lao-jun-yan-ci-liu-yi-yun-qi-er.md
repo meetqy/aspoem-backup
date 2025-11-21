@@ -6,10 +6,10 @@ titleSlug: lao-jun-yan-ci-liu-yi-yun-qi-er
 author: 彭次雲
 authorPinyin: peng2 ci4 yun2
 authorSlug: peng-ci-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

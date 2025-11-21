@@ -6,25 +6,25 @@ titleSlug: chun-hua-zhong-chao-hui-er-shi-san-shou-you-liu-bian-qi-wu
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 亭障戢干戈，人心浹太和。
-- 務農登寶穀，獵俊設雲羅。
-- 儀鳳書良史，祥麟載雅歌。
-- 嘉辰資宴喜，星拱弁峨峨。
+- 乃眷嘗西顧，偏師暫首征。
+- 靈旗方直指，獷俗自亡精。
+- 禹敘終馴致，堯封漸化成。
+- 不須嚴尉候，於廓海彌清。
 
 ## 拼音
 
-- ting2 zhang4 ji2 gan1 ge1 ， ren2 xin1 jia1 tai4 he2 。
-- wu4 nong2 deng1 bao3 gu3 ， lie4 jun4 she4 yun2 luo2 。
-- yi2 feng4 shu1 liang2 shi3 ， xiang2 lin2 zai4 ya3 ge1 。
-- jia1 chen2 zi1 yan4 xi3 ， xing1 gong3 bian4 e2 e2 。
+- nai3 juan4 chang2 xi1 gu4 ， pian1 shi1 zan4 shou3 zheng1 。
+- ling2 qi2 fang1 zhi2 zhi3 ， guang3 su2 zi4 wang2 jing1 。
+- yu3 xu4 zhong1 xun4 zhi4 ， yao2 feng1 jian4 hua4 cheng2 。
+- bu4 xu1 yan2 wei4 hou4 ， wu1 kuo4 hai3 mi2 qing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: tong-she-di-you-zi-yang
 author: 陳芾
 authorPinyin: chen2 fei4
 authorSlug: chen-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

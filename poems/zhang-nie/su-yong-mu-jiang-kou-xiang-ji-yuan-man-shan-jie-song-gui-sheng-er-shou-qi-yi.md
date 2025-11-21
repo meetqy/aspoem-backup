@@ -6,9 +6,9 @@ titleSlug: su-yong-mu-jiang-kou-xiang-ji-yuan-man-shan-jie-song-gui-sheng-er-sho
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,25 @@ titleSlug: wan-yin
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 旋旋哦詩旋旋抄，一尊野蔌更山肴。
-- 春風略不扶人醉，月到梅花最末梢。
+- 大醉或傷生，不醉又傷情。
+- 此事兩難處，後先有重輕。
+- 醉後失天地，餘生底浮萍。
+- 愁城不須攻，醉鄉無此城。
 
 ## 拼音
 
-- xuan2 xuan2 o4 shi1 xuan2 xuan2 chao1 ， yi4 zun1 ye3 su4 geng4 shan1 yao2 。
-- chun1 feng1 lüe4 bu4 fu2 ren2 zui4 ， yue4 dao4 mei2 hua1 zui4 mo4 shao1 。
+- da4 zui4 huo4 shang1 sheng1 ， bu2 zui4 you4 shang1 qing2 。
+- ci3 shi4 liang3 nan2 chu3 ， hou4 xian1 you3 zhong4 qing1 。
+- zui4 hou4 shi1 tian1 di4 ， yu2 sheng1 di3 fu2 ping2 。
+- chou2 cheng2 bu4 xu1 gong1 ， zui4 xiang1 wu2 ci3 cheng2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: zhi-ri-shu-huai
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病起逢佳節，羈懷只自傷。
-- 老來衰自至，身與世相忘。
-- 髮引千絲亂，愁添一綫長。
-- 功名真已矣，此意付滄浪。
+- 自笑癡兒得許忙，閉門便覺日舒長。
+- 作詩擬學江西派，起疾多求海上方。
+- 老去光陰空嘆息，病逢時節轉凄凉。
+- 可憐隻影無聊頼，兒女三人各一方。
 
 ## 拼音
 
-- bing4 qi3 feng2 jia1 jie2 ， ji1 huai2 zhi1 zi4 shang1 。
-- lao3 lai2 shuai1 zi4 zhi4 ， shen1 yu3 shi4 xiang4 wang4 。
-- fa4 yin3 qian1 si1 luan4 ， chou2 tian1 yi2 xian4 chang2 。
-- gong1 ming2 zhen1 yi3 yi3 ， ci3 yi4 fu4 cang1 lang4 。
+- zi4 xiao4 chi1 er2 de2 xu1 mang2 ， bi4 men2 bian4 jue2 ri4 shu1 chang2 。
+- zuo4 shi1 ni3 xue2 jiang1 xi1 pai4 ， qi3 ji2 duo1 qiu2 hai3 shang4 fang1 。
+- lao3 qu4 guang1 yin1 kong1 tan4 xi1 ， bing4 feng2 shi2 jie2 zhuan3 qi1 liang2 。
+- ke3 lian2 zhi1 ying3 wu2 liao2 lai4 ， er2 nü3 san1 ren2 ge4 yi4 fang1 。
 
 ## 注释
 

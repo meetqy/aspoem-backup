@@ -6,25 +6,25 @@ titleSlug: ren-qiu-dao-zhong-zhi-xue-zeng-quan-yi-zai-cao-yi-qu-dao-cao-he-jian-
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 俎豆嗟何有，櫜鞬病未能。
-- 府中嘲短簿，門下養聾丞。
-- 問路朝馳傳，逢人夕飲冰。
-- 全家今飽滿，此祿懼難勝。
+- 塞南塞北平如掌，冬後冬前暖似春。
+- 鷄唱曉聲頻送客，雪藏歸路苦留人。
+- 論交自覺于詩薄，投分誰知與酒親。
+- 恐被應劉來覓句，故看子建乞諸鄰。
 
 ## 拼音
 
-- zu3 dou4 jie1 he2 you3 ， gao1 jian1 bing4 wei4 neng2 。
-- fu3 zhong1 chao2 duan3 bo2 ， men2 xia4 yang3 long2 cheng2 。
-- wen4 lu4 chao2 chi2 chuan2 ， feng2 ren2 xi1 yin3 bing1 。
-- quan2 jia1 jin1 bao3 man3 ， ci3 lu4 ju4 nan2 sheng4 。
+- sai1 nan2 sai4 bei3 ping2 ru2 zhang3 ， dong1 hou4 dong1 qian2 nuan3 si4 chun1 。
+- ji1 chang4 xiao3 sheng1 bin1 song4 ke4 ， xue3 cang2 gui1 lu4 ku3 liu2 ren2 。
+- lun4 jiao1 zi4 jue2 yu2 shi1 bao2 ， tou2 fen1 shui2 zhi1 yu3 jiu3 qin1 。
+- kong3 bei4 ying1 liu2 lai2 mi4 ju4 ， gu4 kan4 zi3 jian4 qi3 zhu1 lin2 。
 
 ## 注释
 

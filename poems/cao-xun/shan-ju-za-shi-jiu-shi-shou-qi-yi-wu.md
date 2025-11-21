@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三伏暑可畏，貧富方共之。
-- 雨忽兼飄風，凉與清氣隨。
-- 一餉滌炎暍，萬里失蒸炊。
-- 大哉天地德，好生常所施。
+- 寂歷秋風晚，閑庭落葉深。
+- 天高晴日澹，山浄暮烟沉。
+- 疾病無時已，年華有底侵。
+- 兩行南去雁，一片北歸心。
 
 ## 拼音
 
-- san1 fu2 shu3 ke3 wei4 ， pin2 fu4 fang1 gong4 zhi1 。
-- yu3 hu1 jian1 piao1 feng1 ， liang2 yu3 qing1 qi4 sui2 。
-- yi4 xiang3 di2 yan2 ye1 ， wan4 li3 shi1 zheng1 chui1 。
-- da4 zai1 tian1 di4 de2 ， hao3 sheng1 chang2 suo3 shi1 。
+- ji4 li4 qiu1 feng1 wan3 ， xian2 ting2 luo4 ye4 shen1 。
+- tian1 gao1 qing2 ri4 dan4 ， shan1 jing4 mu4 yan1 chen2 。
+- ji2 bing4 wu2 shi2 yi3 ， nian2 hua2 you3 di3 qin1 。
+- liang3 xing2 nan2 qu4 yan4 ， yi2 pian4 bei3 gui1 xin1 。
 
 ## 注释
 

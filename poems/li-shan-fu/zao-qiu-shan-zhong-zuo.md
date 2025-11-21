@@ -9,22 +9,22 @@ authorSlug: li-shan-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 榮枯無路入千峯，肥遯誰諧此志同。
-- 司寇亦曾遭魯黜，步兵何事哭途窮。
-- 檜松瘦健滴秋露，戶牖虛明生晚風。
-- 山思更清人影絕，隴雲飛入草堂中。
+- 誰到山中語，雨餘風氣秋。
+- 煙嵐出澗底，瀑布落牀頭。
+- 至道亦非遠，僻詩須苦求。
+- 千峰有嘉景，拄杖獨巡遊。
 
 ## 拼音
 
-- rong2 ku1 wu2 lu4 ru4 qian1 feng1 ， fei2 dun4 shui2 xie2 ci3 zhi4 tong2 。
-- si1 kou4 yi4 ceng2 zao1 lu3 chu4 ， bu4 bing1 he2 shi4 ku1 tu2 qiong2 。
-- gui4 song1 shou4 jian4 di1 qiu1 lu4 ， hu4 you3 xu1 ming2 sheng1 wan3 feng1 。
-- shan1 si1 geng4 qing1 ren2 ying3 jue2 ， long3 yun2 fei1 ru4 cao3 tang2 zhong1 。
+- shui2 dao4 shan1 zhong1 yu3 ， yu3 yu2 feng1 qi4 qiu1 。
+- yan1 lan2 chu1 jian4 di3 ， pu4 bu4 luo4 chuang2 tou2 。
+- zhi4 dao4 yi4 fei1 yuan3 ， pi4 shi1 xu1 ku3 qiu2 。
+- qian1 feng1 you3 jia1 jing3 ， zhu3 zhang4 du2 xun2 you2 。
 
 ## 注释
 

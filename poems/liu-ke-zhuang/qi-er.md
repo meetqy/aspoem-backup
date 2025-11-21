@@ -6,25 +6,25 @@ titleSlug: qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 間或擊强非果弱，未嘗束濕自然嚴。
-- 起惟吏畏三風訓，先爲民蠲再榷鹽。
-- 時與青油賓唯諾，尤於白屋士勞謙。
-- 懸知鈴閣清如水，瓜李雖微亦遠嫌。
+- 盛德尤懷惠，名言可砭愚。
+- 雖蒙分半席，終未□□□。
+- 承學爭歌薤，傾城出奠芻。
+- 故交二大老，猶可扞□□。
 
 ## 拼音
 
-- jian4 huo4 ji1 qiang2 fei1 guo3 ruo4 ， wei4 chang2 shu4 shi1 zi4 ran2 yan2 。
-- qi3 wei2 li4 wei4 san1 feng1 xun4 ， xian1 wei2 min2 juan1 zai4 que4 yan2 。
-- shi2 yu3 qing1 you2 bin1 wei2 nuo4 ， you2 wu1 bai2 wu1 shi4 lao2 qian1 。
-- xuan2 zhi1 ling2 ge2 qing1 ru2 shui3 ， gua1 li3 sui1 wei1 yi4 yuan3 xian2 。
+- sheng4 de2 you2 huai2 hui4 ， ming2 yan2 ke3 bian1 yu2 。
+- sui1 meng2 fen1 ban4 xi2 ， zhong1 wei4 □□□。
+- cheng2 xue2 zheng1 ge1 xie4 ， qing1 cheng2 chu1 dian4 chu2 。
+- gu4 jiao1 er4 da4 lao3 ， you2 ke3 han4 □□。
 
 ## 注释
 

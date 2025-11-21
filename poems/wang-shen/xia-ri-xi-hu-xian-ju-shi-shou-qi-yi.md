@@ -1,26 +1,26 @@
 ---
 id: wang-shen-xia-ri-xi-hu-xian-ju-shi-shou-qi-yi
-title: 夏日西湖閑居十首  其一
-titlePinyin: xia4 ri4 xi1 hu2 xian2 ju1 shi2 shou3     qi2 yi1
+title: 夏日西湖閑居十首  其一○
+titlePinyin: xia4 ri4 xi1 hu2 xian2 ju1 shi2 shou3     qi2 yi1 ○
 titleSlug: xia-ri-xi-hu-xian-ju-shi-shou-qi-yi
 author: 汪莘
 authorPinyin: wang1 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十里湖山苦見招，柳堤荷蕩赤欄橋。
-- 待他朝市人歸後，獨泛扁舟吹玉簫。
+- 藕蔕嚼來殊解渴，荷香聞得亦忘饑。
+- 幽人不趁槐花課，收得西湖幾句詩。
 
 ## 拼音
 
-- shi2 li3 hu2 shan1 ku3 jian4 zhao1 ， liu3 di1 he2 dang4 chi4 lan2 qiao2 。
-- dai4 ta1 chao2 shi4 ren2 gui1 hou4 ， du2 fan4 pian1 zhou1 chui1 yu4 xiao1 。
+- ou3 di4 jiao2 lai2 shu1 jie3 ke3 ， he2 xiang1 wen2 de2 yi4 wang4 ji1 。
+- you1 ren2 bu2 chen4 huai2 hua1 ke4 ， shou1 de2 xi1 hu2 ji1 ju4 shi1 。
 
 ## 注释
 

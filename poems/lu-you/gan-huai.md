@@ -6,29 +6,25 @@ titleSlug: gan-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半年建安城，士友闕還往。
-- 出門每太息，還舍猶惝怳。
-- 有酒誰與傾，得句空自賞。
-- 疏直觸人情，低回泚吾顙。
-- 豈無佳山水，正爾寄夢想。
-- 何當載親朋，烟浦揺兩槳。
+- 老抱遺書隱故山，鏡中衰鬢似霜菅。
+- 規模肯墮管蕭亞，夢想每馳河渭間。
+- 竹帛竟孤千載事，江湖敢恨一生閑。
+- 殘功賴有吾兒續，把卷燈前爲破顔。
 
 ## 拼音
 
-- ban4 nian2 jian4 an1 cheng2 ， shi4 you3 que4 huan2 wang3 。
-- chu1 men2 mei3 tai4 xi1 ， huan2 she4 you2 chang3 huang3 。
-- you3 jiu3 shui2 yu3 qing1 ， de2 ju4 kong1 zi4 shang3 。
-- shu1 zhi2 chu4 ren2 qing2 ， di1 hui2 ci3 wu2 sang3 。
-- qi3 wu2 jia1 shan1 shui3 ， zheng4 er3 ji4 meng4 xiang3 。
-- he2 dang1 zai4 qin1 peng2 ， yan1 pu3 yao2 liang3 jiang3 。
+- lao3 bao4 yi2 shu1 yin3 gu4 shan1 ， jing4 zhong1 shuai1 bin4 si4 shuang1 jian1 。
+- gui1 mo2 ken3 duo4 guan3 xiao1 ya1 ， meng4 xiang3 mei3 chi2 he2 wei4 jian4 。
+- zhu2 bo2 jing4 gu1 qian1 zai4 shi4 ， jiang1 hu2 gan3 hen4 yi4 sheng1 xian2 。
+- can2 gong1 lai4 you3 wu2 er2 xu4 ， ba3 juan4 deng1 qian2 wei2 po4 yan2 。
 
 ## 注释
 

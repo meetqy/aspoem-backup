@@ -9,22 +9,18 @@ authorSlug: wei-zhuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 寓思本多傷，逢春恨更長。
-- 露霑湘竹淚，花墮越梅妝。
-- 睡怯交加夢，閑傾瀲灩觴。
-- 後庭人不到，斜月上松篁。
+- 自有春愁正斷魂，不堪芳草思王孫。
+- 落花寂寂黃昏雨，深院無人獨倚門。
 
 ## 拼音
 
-- yu4 si1 ben3 duo1 shang1 ， feng2 chun1 hen4 geng4 chang2 。
-- lu4 zhan1 xiang1 zhu2 lei4 ， hua1 duo4 yue4 mei2 zhuang1 。
-- shui4 qie4 jiao1 jia1 meng4 ， xian2 qing1 lian4 yan4 shang1 。
-- hou4 ting2 ren2 bu2 dao4 ， xie2 yue4 shang4 song1 huang2 。
+- zi4 you3 chun1 chou2 zheng4 duan4 hun2 ， bu4 kan1 fang1 cao3 si1 wang2 sun1 。
+- luo4 hua1 ji4 ji4 huang2 hun1 yu3 ， shen1 yuan4 wu2 ren2 du2 yi3 men2 。
 
 ## 注释
 

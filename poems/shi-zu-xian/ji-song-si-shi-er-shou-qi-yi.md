@@ -1,26 +1,30 @@
 ---
 id: shi-zu-xian-ji-song-si-shi-er-shou-qi-yi
-title: 偈頌四十二首  其一
-titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 yi1
+title: 偈頌四十二首  其一○
+titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: ji-song-si-shi-er-shou-qi-yi
 author: 釋祖先
 authorPinyin: shi4 zu3 xian1
 authorSlug: shi-zu-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 扶持臨濟正法眼，出手還它勇毅人。
-- 利物應機全體用，叢林又見一番新。
+- 首夏初臨，薰風乍扇。
+- 急景如梭，萬化千變。
+- 惟有拄杖子，黑輪皴，沒思算。
+- 解道厨庫揖僧堂，三門朝佛殿。
 
 ## 拼音
 
-- fu2 chi2 lin2 ji4 zheng4 fa3 yan3 ， chu1 shou3 huan2 ta1 yong3 yi4 ren2 。
-- li4 wu4 ying1 ji1 quan2 ti3 yong4 ， cong2 lin2 you4 jian4 yi4 fan1 xin1 。
+- shou3 xia4 chu1 lin2 ， xun1 feng1 zha4 shan4 。
+- ji2 jing3 ru2 suo1 ， wan4 hua4 qian1 bian4 。
+- wei2 you3 zhu3 zhang4 zi3 ， hei1 lun2 cun1 ， mei2 si1 suan4 。
+- jie3 dao4 chu2 ku4 yi1 seng1 tang2 ， san1 men2 chao2 fo2 dian4 。
 
 ## 注释
 

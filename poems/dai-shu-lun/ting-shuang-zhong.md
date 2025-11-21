@@ -9,26 +9,26 @@ authorSlug: dai-shu-lun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 渺渺飛霜夜，寥寥遠岫鐘。
-- 出雲疑斷續，入戶乍舂容。
-- 度枕頻驚夢，隨風幾韻松。
-- 悠揚來不已，杳靄去何從。
-- 髣髴煙嵐隔，依稀巖嶠重。
-- 此時聊一聽，餘響繞千峰。
+- 寥亮來豐嶺，分明辨古鐘。
+- 應霜如自擊，中節每相從。
+- 靜聽非閑扣，潛應蘊聖蹤。
+- 風間時斷續，雲外更舂容。
+- 虛警和清籟，雄鳴隔亂峰。
+- 因知諭知己，感激更難逢。
 
 ## 拼音
 
-- miao3 miao3 fei1 shuang1 ye4 ， liao2 liao2 yuan3 xiu4 zhong1 。
-- chu1 yun2 yi2 duan4 xu4 ， ru4 hu4 zha4 chong1 rong2 。
-- du4 zhen3 bin1 jing1 meng4 ， sui2 feng1 ji1 yun4 song1 。
-- you1 yang2 lai2 bu4 yi3 ， yao3 ai3 qu4 he2 cong2 。
-- fang3 fu2 yan1 lan2 ge2 ， yi1 xi1 yan2 jiao4 zhong4 。
-- ci3 shi2 liao2 yi4 ting1 ， yu2 xiang3 rao4 qian1 feng1 。
+- liao2 liang4 lai2 feng1 ling3 ， fen1 ming2 bian4 gu3 zhong1 。
+- ying1 shuang1 ru2 zi4 ji1 ， zhong1 jie2 mei3 xiang1 cong2 。
+- jing4 ting1 fei1 xian2 kou4 ， qian2 ying1 yun4 sheng4 zong1 。
+- feng1 jian4 shi2 duan4 xu4 ， yun2 wai4 geng4 chong1 rong2 。
+- xu1 jing3 he2 qing1 lai4 ， xiong2 ming2 ge2 luan4 feng1 。
+- yin1 zhi1 yu4 zhi1 ji3 ， gan3 ji1 geng4 nan2 feng2 。
 
 ## 注释
 

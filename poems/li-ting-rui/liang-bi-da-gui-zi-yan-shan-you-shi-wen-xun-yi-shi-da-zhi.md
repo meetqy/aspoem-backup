@@ -6,10 +6,10 @@ titleSlug: liang-bi-da-gui-zi-yan-shan-you-shi-wen-xun-yi-shi-da-zhi
 author: 黎廷瑞
 authorPinyin: li2 ting2 rui4
 authorSlug: li-ting-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: fang-hui-shi-si-shi-shou-qi-yi
-title: 詩思十首  其一
-titlePinyin: shi1 si1 shi2 shou3     qi2 yi1
+title: 詩思十首  其一○
+titlePinyin: shi1 si1 shi2 shou3     qi2 yi1 ○
 titleSlug: shi-si-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大雅嗟麟筆，離騷嘆鳳弦。
-- 猗那誰與敵，羌蹇尚堪傳。
-- 步仰曹劉獨，名歆李杜專。
-- 無時吾不夢，携酒訪斜川。
+- 蛇起新州荻，溫玄業不成。
+- 已無司馬氏，猶有石頭城。
+- 北伐中原捷，南歸大物更。
+- 菊花籬下酒，萬古一淵明。
 
 ## 拼音
 
-- da4 ya3 jie1 lin2 bi3 ， li2 sao1 tan4 feng4 xian2 。
-- yi1 na4 shui2 yu3 di2 ， qiang1 jian3 shang4 kan1 chuan2 。
-- bu4 yang3 cao2 liu2 du2 ， ming2 xin1 li3 du4 zhuan1 。
-- wu2 shi2 wu2 bu2 meng4 ， xie2 jiu3 fang3 xie2 chuan1 。
+- she2 qi3 xin1 zhou1 di2 ， wen1 xuan2 ye4 bu4 cheng2 。
+- yi3 wu2 si1 ma3 shi4 ， you2 you3 shi2 tou2 cheng2 。
+- bei3 fa2 zhong1 yuan2 jie2 ， nan2 gui1 da4 wu4 geng4 。
+- ju2 hua1 li2 xia4 jiu3 ， wan4 gu3 yi4 yuan1 ming2 。
 
 ## 注释
 

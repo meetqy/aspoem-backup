@@ -6,10 +6,10 @@ titleSlug: yong-qiu-zi-fu-di-yun-cheng-chu-xing-zhi-ming-fu-bo-yu-zhuo-zhang-ji-
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

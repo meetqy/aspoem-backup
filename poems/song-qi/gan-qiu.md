@@ -6,25 +6,25 @@ titleSlug: gan-qiu
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 樂事行將晚，華年怯早衰。
-- 翻車壯士速，落葉長年悲。
-- 別燕風簾靜，驚烏月樹危。
-- 播精寧有用，皮骨極支離。
+- 迴腸病骨兩驚秋，已作衰翁未白頭。
+- 天上有星寧免客，人間無地可埋憂。
+- 車翻落日何曾定，臂化鳴鴞豈易求。
+- 莫就離鴻寄歸思，離鴻身世更悠悠。
 
 ## 拼音
 
-- le4 shi4 xing2 jiang1 wan3 ， hua2 nian2 qie4 zao3 shuai1 。
-- fan1 ju1 zhuang4 shi4 su4 ， luo4 ye4 chang2 nian2 bei1 。
-- bie2 yan4 feng1 lian2 jing4 ， jing1 wu1 yue4 shu4 wei1 。
-- bo1 jing1 ning2 you3 yong4 ， pi2 gu3 ji2 zhi1 li2 。
+- hui2 chang2 bing4 gu3 liang3 jing1 qiu1 ， yi3 zuo4 shuai1 weng1 wei4 bai2 tou2 。
+- tian1 shang4 you3 xing1 ning2 mian3 ke4 ， ren2 jian4 wu2 di4 ke3 mai2 you1 。
+- ju1 fan1 luo4 ri4 he2 ceng2 ding4 ， bi4 hua4 ming2 xiao1 qi3 yi4 qiu2 。
+- mo4 jiu4 li2 hong2 ji4 gui1 si1 ， li2 hong2 shen1 shi4 geng4 you1 you1 。
 
 ## 注释
 

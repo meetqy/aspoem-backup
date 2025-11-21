@@ -6,10 +6,10 @@ titleSlug: fu-sheng-yuan
 author: 趙仲藏
 authorPinyin: zhao4 zhong4 cang2
 authorSlug: zhao-zhong-cang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

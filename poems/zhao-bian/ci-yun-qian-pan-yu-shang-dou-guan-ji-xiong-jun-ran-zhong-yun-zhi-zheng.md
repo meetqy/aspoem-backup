@@ -6,10 +6,10 @@ titleSlug: ci-yun-qian-pan-yu-shang-dou-guan-ji-xiong-jun-ran-zhong-yun-zhi-zhen
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

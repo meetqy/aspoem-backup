@@ -6,23 +6,21 @@ titleSlug: ji
 author: 釋如本
 authorPinyin: shi4 ru2 ben3
 authorSlug: shi-ru-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 久雨不晴，戊在丙丁。
-- 通身泥水，露出眼睛。
-- 且道是什麽眼睛，林間泥滑滑，時叫兩三聲。
+- 李四有錢不解飲，張三解飲又無錢。
+- 相招豐樂樓中看，不怕寒威雪滿天。
 
 ## 拼音
 
-- jiu3 yu3 bu4 qing2 ， wu4 zai4 bing3 ding1 。
-- tong1 shen1 ni2 shui3 ， lu4 chu1 yan3 jing0 。
-- qie3 dao4 shi4 shen2 mo2 yan3 jing0 ， lin2 jian4 ni2 hua2 hua2 ， shi2 jiao4 liang3 san1 sheng1 。
+- li3 si4 you3 qian2 bu4 jie3 yin3 ， zhang1 san1 jie3 yin3 you4 wu2 qian2 。
+- xiang1 zhao1 feng1 le4 lou2 zhong1 kan4 ， bu2 pa4 han2 wei1 xue3 man3 tian1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 呂希哲
 authorPinyin: lü3 xi1 zhe2
 authorSlug: lu-xi-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禮儀三百復三千，酬酢天機理必然。
-- 寒即加衣饑即食，孰爲末節孰爲先。
+- 老讀文書興易闌，須知養病不如閑。
+- 行林瓦枕虛堂上，卧看江南雨後山。
 
 ## 拼音
 
-- li3 yi2 san1 bai3 fu4 san1 qian1 ， chou2 zuo4 tian1 ji1 li3 bi4 ran2 。
-- han2 ji2 jia1 yi1 ji1 ji2 shi2 ， shu2 wei2 mo4 jie2 shu2 wei2 xian1 。
+- lao3 du2 wen2 shu1 xing1 yi4 lan2 ， xu1 zhi1 yang3 bing4 bu4 ru2 xian2 。
+- xing2 lin2 wa3 zhen3 xu1 tang2 shang4 ， wo4 kan4 jiang1 nan2 yu3 hou4 shan1 。
 
 ## 注释
 

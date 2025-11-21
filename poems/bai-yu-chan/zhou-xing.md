@@ -6,21 +6,21 @@ titleSlug: zhou-xing
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梢子歡呼御曉風，詩人亦自起推蓬。
-- 數來數去山都亂，忘却前峯與後峯。
+- 山鎖曉煙迷紫翠，花凝宿雨間青紅。
+- 快帆幸自泛秋綠，乞與一篙東去風。
 
 ## 拼音
 
-- shao1 zi0 huan1 hu1 yu4 xiao3 feng1 ， shi1 ren2 yi4 zi4 qi3 tui1 peng2 。
-- shu4 lai2 shu4 qu4 shan1 dou1 luan4 ， wang4 que4 qian2 feng1 yu3 hou4 feng1 。
+- shan1 suo3 xiao3 yan1 mi2 zi3 cui4 ， hua1 ning2 su4 yu3 jian4 qing1 hong2 。
+- kuai4 fan1 xing4 zi4 fan4 qiu1 lü4 ， qi3 yu3 yi4 gao1 dong1 qu4 feng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: tai-ping-zhou
 author: 趙竹屋
 authorPinyin: zhao4 zhu2 wu1
 authorSlug: zhao-zhu-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: gan-huai
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 憶在兒童聞混融，江湖老矣再能逢。
-- 潮音遁伏門間虎，神骨崢嶸霜後松。
-- 粥飯蹔應隨願力，井舂終可聽吾從。
-- 蕭灘灘上風帆發，引領白雲何處峰。
+- 重來快閣又三月，簿領不親書得鑽。
+- 俸奪未妨衣屢典，年侵還是歲將闌。
+- 何當酒與伯仁對，更欲石從盧肇觀。
+- 誰能放我聽歸去，內朝班冠長天官。
 
 ## 拼音
 
-- yi4 zai4 er2 tong2 wen2 hun4 rong2 ， jiang1 hu2 lao3 yi3 zai4 neng2 feng2 。
-- chao2 yin1 dun4 fu2 men2 jian4 hu3 ， shen2 gu3 zheng1 rong2 shuang1 hou4 song1 。
-- zhou1 fan4 zan4 ying1 sui2 yuan4 li4 ， jing3 chong1 zhong1 ke3 ting1 wu2 cong2 。
-- xiao1 tan1 tan1 shang4 feng1 fan1 fa1 ， yin3 ling3 bai2 yun2 he2 chu3 feng1 。
+- zhong4 lai2 kuai4 ge2 you4 san1 yue4 ， bo2 ling3 bu4 qin1 shu1 de2 zuan1 。
+- feng4 duo2 wei4 fang2 yi1 lü3 dian3 ， nian2 qin1 huan2 shi4 sui4 jiang1 lan2 。
+- he2 dang1 jiu3 yu3 bo2 ren2 dui4 ， geng4 yu4 shi2 cong2 lu2 zhao4 guan1 。
+- shui2 neng2 fang4 wo3 ting1 gui1 qu4 ， nei4 chao2 ban1 guan1 chang2 tian1 guan1 。
 
 ## 注释
 

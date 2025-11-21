@@ -6,31 +6,27 @@ titleSlug: guan-shu
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客從遠方至，遺我書一編。
-- 覽舊眼全痛，誦新神頓還。
-- 初披愁欲盡，久翫翳不妍。
-- 情知無佳處，閔免復竟篇。
-- 庶幾槁滓中，或瀝腴一涓。
-- 終然寂無獲，所獲倦且昏。
-- 倦甚得佳睡，猶勝不得眠。
+- 書冊不可逢，逢得放不得。
+- 看得眼昏花，放了還太息。
+- 掩卷味方深，豈問忘與憶。
+- 是身何曾動，忽然超八極。
+- 祇言半窗間，不是華胥國。
 
 ## 拼音
 
-- ke4 cong2 yuan3 fang1 zhi4 ， yi2 wo3 shu1 yi4 bian1 。
-- lan3 jiu4 yan3 quan2 tong4 ， song4 xin1 shen2 dun4 huan2 。
-- chu1 pi1 chou2 yu4 jin4 ， jiu3 wan2 yi4 bu4 yan2 。
-- qing2 zhi1 wu2 jia1 chu3 ， min3 mian3 fu4 jing4 pian1 。
-- shu4 ji1 gao3 zi3 zhong1 ， huo4 li4 yu2 yi4 juan1 。
-- zhong1 ran2 ji4 wu2 huo4 ， suo3 huo4 juan4 qie3 hun1 。
-- juan4 shen4 de2 jia1 shui4 ， you2 sheng4 bu4 de2 mian2 。
+- shu1 ce4 bu4 ke3 feng2 ， feng2 de2 fang4 bu4 de2 。
+- kan4 de2 yan3 hun1 hua1 ， fang4 le0 huan2 tai4 xi1 。
+- yan3 juan4 wei4 fang1 shen1 ， qi3 wen4 wang4 yu3 yi4 。
+- shi4 shen1 he2 ceng2 dong4 ， hu1 ran2 chao1 ba1 ji2 。
+- qi2 yan2 ban4 chuang1 jian4 ， bu2 shi4 hua2 xu1 guo2 。
 
 ## 注释
 

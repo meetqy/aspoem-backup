@@ -9,16 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 羅綱之鳥，悔不高飛。
+- 月光隨浪動，山影逐波流。
+- （此爲飛動體）。
 
 ## 拼音
 
-- luo2 gang1 zhi1 niao3 ， hui3 bu4 gao1 fei1 。
+- yue4 guang1 sui2 lang4 dong4 ， shan1 ying3 zhu2 bo1 liu2 。
+- （ ci3 wei2 fei1 dong4 ti3 ）。
 
 ## 注释
 

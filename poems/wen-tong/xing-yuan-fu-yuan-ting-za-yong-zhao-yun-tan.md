@@ -1,14 +1,14 @@
 ---
 id: wen-tong-xing-yuan-fu-yuan-ting-za-yong-zhao-yun-tan
-title: 興元府園亭雜咏・照筠壇
-titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3・zhao4 yun2 tan2
+title: 興元府園亭雜咏 照筠壇
+titlePinyin: xing1 yuan2 fu3 yuan2 ting2 za2 yong3   zhao4 yun2 tan2
 titleSlug: xing-yuan-fu-yuan-ting-za-yong-zhao-yun-tan
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

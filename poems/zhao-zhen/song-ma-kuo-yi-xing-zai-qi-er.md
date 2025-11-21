@@ -6,10 +6,10 @@ titleSlug: song-ma-kuo-yi-xing-zai-qi-er
 author: 趙榛
 authorPinyin: zhao4 zhen1
 authorSlug: zhao-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

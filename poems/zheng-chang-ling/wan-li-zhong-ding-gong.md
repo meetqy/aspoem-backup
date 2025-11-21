@@ -6,9 +6,9 @@ titleSlug: wan-li-zhong-ding-gong
 author: 鄭昌齡
 authorPinyin: zheng4 chang1 ling2
 authorSlug: zheng-chang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

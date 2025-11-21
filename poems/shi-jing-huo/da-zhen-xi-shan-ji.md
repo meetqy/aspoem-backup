@@ -6,10 +6,10 @@ titleSlug: da-zhen-xi-shan-ji
 author: 釋凈豁
 authorPinyin: shi4 jing4 huo1
 authorSlug: shi-jing-huo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

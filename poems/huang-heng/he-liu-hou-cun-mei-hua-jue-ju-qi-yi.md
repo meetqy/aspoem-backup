@@ -6,10 +6,10 @@ titleSlug: he-liu-hou-cun-mei-hua-jue-ju-qi-yi
 author: 黄珩
 authorPinyin: huang2 heng2
 authorSlug: huang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

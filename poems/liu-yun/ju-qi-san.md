@@ -1,24 +1,24 @@
 ---
 id: liu-yun-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
 author: 劉筠
 authorPinyin: liu2 yun2
 authorSlug: liu-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 角逈含秋氣，橋長斷洛塵。
+- 吟餘雲散葉，坐久麈遺毛。
 
 ## 拼音
 
-- jiao3 jiong3 han2 qiu1 qi4 ， qiao2 chang2 duan4 luo4 chen2 。
+- yin2 yu2 yun2 san4 ye4 ， zuo4 jiu3 zhu3 yi2 mao2 。
 
 ## 注释
 

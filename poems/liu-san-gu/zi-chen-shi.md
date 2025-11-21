@@ -6,10 +6,10 @@ titleSlug: zi-chen-shi
 author: 劉三嘏
 authorPinyin: liu2 san1 gu3
 authorSlug: liu-san-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

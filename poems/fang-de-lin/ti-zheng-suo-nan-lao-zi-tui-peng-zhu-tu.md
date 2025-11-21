@@ -6,10 +6,10 @@ titleSlug: ti-zheng-suo-nan-lao-zi-tui-peng-zhu-tu
 author: 方德麟
 authorPinyin: fang1 de2 lin2
 authorSlug: fang-de-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: chun-ri-wu-kang-you-wang-guo-meng-dong-ye-gu-ju
 author: 孫嵩
 authorPinyin: sun1 song1
 authorSlug: sun-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

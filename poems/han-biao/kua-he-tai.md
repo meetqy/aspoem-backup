@@ -6,25 +6,21 @@ titleSlug: kua-he-tai
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 臺占溪南最上峰，政成民樂得從容。
-- 彼時高李情如許，此地蘇丁事偶逢。
-- 可是吾身羨輕舉，肯令人眼溷塵蹤。
-- 昂昂紫府飛來處，一片笙簫酒滿鍾。
+- 道人白鶴庵，絕頂似仙家。
+- 尋幽得臺城，杳杳入青霞。
 
 ## 拼音
 
-- tai2 zhan4 xi1 nan2 zui4 shang4 feng1 ， zheng4 cheng2 min2 le4 de2 cong2 rong2 。
-- bi3 shi2 gao1 li3 qing2 ru2 xu1 ， ci3 di4 su1 ding1 shi4 ou3 feng2 。
-- ke3 shi4 wu2 shen1 xian4 qing1 ju3 ， ken3 ling4 ren2 yan3 hun4 chen2 zong1 。
-- ang2 ang2 zi3 fu3 fei1 lai2 chu3 ， yi2 pian4 sheng1 xiao1 jiu3 man3 zhong1 。
+- dao4 ren2 bai2 he4 an1 ， jue2 ding3 si4 xian1 jia1 。
+- xun2 you1 de2 tai2 cheng2 ， yao3 yao3 ru4 qing1 xia2 。
 
 ## 注释
 

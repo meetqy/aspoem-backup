@@ -6,10 +6,10 @@ titleSlug: ju
 author: 傅夢泉
 authorPinyin: fu4 meng4 quan2
 authorSlug: fu-meng-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

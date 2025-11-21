@@ -9,18 +9,18 @@ authorSlug: pei-yi-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 秋樹却逢暖，未凋能幾時。
-- 何須尚松桂，搖動暫青枝。
+- 流水頹陽不暫停，東流西落兩無情。
+- 不是世間人自老，古來華髮此中生。
 
 ## 拼音
 
-- qiu1 shu4 que4 feng2 nuan3 ， wei4 diao1 neng2 ji1 shi2 。
-- he2 xu1 shang4 song1 gui4 ， yao2 dong4 zan4 qing1 zhi1 。
+- liu2 shui3 tui2 yang2 bu2 zan4 ting2 ， dong1 liu2 xi1 luo4 liang3 wu2 qing2 。
+- bu2 shi4 shi4 jian4 ren2 zi4 lao3 ， gu3 lai2 hua2 fa4 ci3 zhong1 sheng1 。
 
 ## 注释
 

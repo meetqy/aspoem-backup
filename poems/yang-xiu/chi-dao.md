@@ -6,10 +6,10 @@ titleSlug: chi-dao
 author: 楊修
 authorPinyin: yang2 xiu1
 authorSlug: yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

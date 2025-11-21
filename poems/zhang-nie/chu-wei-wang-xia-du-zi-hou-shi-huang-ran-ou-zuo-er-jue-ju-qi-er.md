@@ -6,9 +6,9 @@ titleSlug: chu-wei-wang-xia-du-zi-hou-shi-huang-ran-ou-zuo-er-jue-ju-qi-er
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

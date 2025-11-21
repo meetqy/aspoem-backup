@@ -3,22 +3,22 @@ id: wang-shu-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王恕
-authorPinyin: wang2 shu4
+author: 王曙
+authorPinyin: wang2 shu3
 authorSlug: wang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太守班春五嶺邊。
+- 千山送客東西路，一樹照人南北枝。
 
 ## 拼音
 
-- tai4 shou3 ban1 chun1 wu3 ling3 bian1 。
+- qian1 shan1 song4 ke4 dong1 xi1 lu4 ， yi2 shu4 zhao4 ren2 nan2 bei3 zhi1 。
 
 ## 注释
 

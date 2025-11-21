@@ -6,25 +6,21 @@ titleSlug: gui-jia
 author: 李若水
 authorPinyin: li3 ruo4 shui3
 authorSlug: li-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 隴頭一片白雲飛，僕乎束裝吾欲歸。
-- 故人故人莫强挽，篋中流塵昏淚衣。
-- 淚衣雖昏尚堪著，庭前兒戲慈顔樂。
-- 官高如天印如斗，問君此樂應還有。
+- 半載長安客意寒，一鞭歸興舊家山。
+- 妻孥問我成何事，買得虛名滿世間。
 
 ## 拼音
 
-- long3 tou2 yi2 pian4 bai2 yun2 fei1 ， pu2 hu1 shu4 zhuang1 wu2 yu4 gui1 。
-- gu4 ren2 gu4 ren2 mo4 qiang2 wan3 ， qie4 zhong1 liu2 chen2 hun1 lei4 yi1 。
-- lei4 yi1 sui1 hun1 shang4 kan1 zhu4 ， ting2 qian2 er2 xi4 ci2 yan2 le4 。
-- guan1 gao1 ru2 tian1 yin4 ru2 dou4 ， wen4 jun1 ci3 le4 ying1 huan2 you3 。
+- ban4 zai4 chang2 an1 ke4 yi4 han2 ， yi4 bian1 gui1 xing1 jiu4 jia1 shan1 。
+- qi1 nu2 wen4 wo3 cheng2 he2 shi4 ， mai3 de2 xu1 ming2 man3 shi4 jian4 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-xi-shou-zhi-jiu-shu-fu-wei-da-shu-er-jue-qi-yi
-title: 喜收知舊書復畏答書二絕・其一
-titlePinyin: xi3 shou1 zhi1 jiu4 shu1 fu4 wei4 da2 shu1 er4 jue2・qi2 yi1
+title: 喜收知舊書復畏答書二絕  其一
+titlePinyin: xi3 shou1 zhi1 jiu4 shu1 fu4 wei4 da2 shu1 er4 jue2     qi2 yi1
 titleSlug: xi-shou-zhi-jiu-shu-fu-wei-da-shu-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

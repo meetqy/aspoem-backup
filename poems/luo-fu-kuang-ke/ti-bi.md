@@ -6,10 +6,10 @@ titleSlug: ti-bi
 author: 羅浮狂客
 authorPinyin: luo2 fu2 kuang2 ke4
 authorSlug: luo-fu-kuang-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

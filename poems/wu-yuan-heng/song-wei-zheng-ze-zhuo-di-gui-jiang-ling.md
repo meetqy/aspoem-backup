@@ -9,22 +9,18 @@ authorSlug: wu-yuan-heng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 客路商山外，離筵小暑前。
-- 高文常獨步，折桂及齠年。
-- 關國通秦限，波濤隔漢川。
-- 叨同會府選，分手倍依然。
+- 商山路接玉山深，古木蒼然盡合陰。
+- 會府登筵君最少，江城秋至肯驚心。
 
 ## 拼音
 
-- ke4 lu4 shang1 shan1 wai4 ， li2 yan2 xiao3 shu3 qian2 。
-- gao1 wen2 chang2 du2 bu4 ， zhe2 gui4 ji2 tiao2 nian2 。
-- guan1 guo2 tong1 qin2 xian4 ， bo1 tao1 ge2 han4 chuan1 。
-- dao1 tong2 hui4 fu3 xuan3 ， fen1 shou3 bei4 yi1 ran2 。
+- shang1 shan1 lu4 jie1 yu4 shan1 shen1 ， gu3 mu4 cang1 ran2 jin4 he2 yin1 。
+- hui4 fu3 deng1 yan2 jun1 zui4 shao3 ， jiang1 cheng2 qiu1 zhi4 ken3 jing1 xin1 。
 
 ## 注释
 

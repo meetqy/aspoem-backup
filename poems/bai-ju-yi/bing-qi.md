@@ -1,7 +1,7 @@
 ---
 id: bai-ju-yi-bing-qi
-title: 病氣
-titlePinyin: bing4 qi4
+title: 病起
+titlePinyin: bing4 qi3
 titleSlug: bing-qi
 author: 白居易
 authorPinyin: bai2 ju1 yi4
@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自知氣發每因情，情在何由氣得平。
-- 若問病根深與淺，此身應與病齊生。
+- 病不出門無限時，今朝強出與誰期。
+- 經年不上江樓醉，勞動春風颺酒旗。
 
 ## 拼音
 
-- zi4 zhi1 qi4 fa1 mei3 yin1 qing2 ， qing2 zai4 he2 you2 qi4 de2 ping2 。
-- ruo4 wen4 bing4 gen1 shen1 yu3 qian3 ， ci3 shen1 ying1 yu3 bing4 qi2 sheng1 。
+- bing4 bu4 chu1 men2 wu2 xian4 shi2 ， jin1 zhao1 qiang2 chu1 yu3 shui2 qi1 。
+- jing1 nian2 bu2 shang4 jiang1 lou2 zui4 ， lao2 dong4 chun1 feng1 yang2 jiu3 qi2 。
 
 ## 注释
 

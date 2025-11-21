@@ -6,10 +6,10 @@ titleSlug: xia-ri-nan-ting-huai-xin-da
 author: 孟浩然
 authorPinyin: meng4 hao4 ran2
 authorSlug: meng-hao-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

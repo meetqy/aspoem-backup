@@ -6,10 +6,10 @@ titleSlug: mou-dun-shou-jin-ri-qu-guo-zhi-guan-jin-cheng-zhuo-shi-shang-xian-xia
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

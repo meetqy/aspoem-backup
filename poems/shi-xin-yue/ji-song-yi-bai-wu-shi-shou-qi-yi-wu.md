@@ -1,30 +1,26 @@
 ---
 id: shi-xin-yue-ji-song-yi-bai-wu-shi-shou-qi-yi-wu
-title: 偈頌一百五十首  其一五
-titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 wu3
+title: 偈頌一百五十首  其一五○
+titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 wu3 ○
 titleSlug: ji-song-yi-bai-wu-shi-shou-qi-yi-wu
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 九旬禁足，三月護生。
-- 護生須殺，禁足須行。
-- 雲收天迥，雨過山青。
-- 出門句裏入門句，鼻直眼橫眉亦橫。
+- 靈山一別二千年，聖世重逢豈偶然。
+- 細掬清泉揩老眼，豁開雲霧見青天。
 
 ## 拼音
 
-- jiu3 xun2 jin4 zu2 ， san1 yue4 hu4 sheng1 。
-- hu4 sheng1 xu1 sha1 ， jin4 zu2 xu1 xing2 。
-- yun2 shou1 tian1 jiong3 ， yu3 guo4 shan1 qing1 。
-- chu1 men2 ju4 li3 ru4 men2 ju4 ， bi2 zhi2 yan3 heng2 mei2 yi4 heng2 。
+- ling2 shan1 yi4 bie2 er4 qian1 nian2 ， sheng4 shi4 chong2 feng2 qi3 ou3 ran2 。
+- xi4 ju1 qing1 quan2 kai1 lao3 yan3 ， huo1 kai1 yun2 wu4 jian4 qing1 tian1 。
 
 ## 注释
 

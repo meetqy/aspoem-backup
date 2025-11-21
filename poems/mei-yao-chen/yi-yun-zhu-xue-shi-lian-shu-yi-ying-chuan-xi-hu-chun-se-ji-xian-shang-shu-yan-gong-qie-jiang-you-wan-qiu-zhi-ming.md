@@ -6,10 +6,10 @@ titleSlug: yi-yun-zhu-xue-shi-lian-shu-yi-ying-chuan-xi-hu-chun-se-ji-xian-shang
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

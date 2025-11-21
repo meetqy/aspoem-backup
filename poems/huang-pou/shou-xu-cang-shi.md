@@ -6,10 +6,10 @@ titleSlug: shou-xu-cang-shi
 author: 黄垺
 authorPinyin: huang2 pou2
 authorSlug: huang-pou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

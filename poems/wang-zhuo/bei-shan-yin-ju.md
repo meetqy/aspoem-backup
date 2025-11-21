@@ -6,10 +6,10 @@ titleSlug: bei-shan-yin-ju
 author: 王拙
 authorPinyin: wang2 zhuo1
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

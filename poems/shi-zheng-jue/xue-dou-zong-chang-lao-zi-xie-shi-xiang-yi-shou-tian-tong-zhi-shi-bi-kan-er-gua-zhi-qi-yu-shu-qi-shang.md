@@ -6,9 +6,9 @@ titleSlug: xue-dou-zong-chang-lao-zi-xie-shi-xiang-yi-shou-tian-tong-zhi-shi-bi-
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

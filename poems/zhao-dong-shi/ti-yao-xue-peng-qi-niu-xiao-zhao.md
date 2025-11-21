@@ -6,10 +6,10 @@ titleSlug: ti-yao-xue-peng-qi-niu-xiao-zhao
 author: 趙東師
 authorPinyin: zhao4 dong1 shi1
 authorSlug: zhao-dong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

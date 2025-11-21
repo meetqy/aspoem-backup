@@ -6,10 +6,10 @@ titleSlug: du-xiao-xiang-guo-chuan-jia-zhao-ping-chu-chu-zhi-he-yi-zuo-zhao-ping
 author: 陳長方
 authorPinyin: chen2 chang2 fang1
 authorSlug: chen-chang-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qing-liu-zi-xian-xue-shi-shou-gu-su-chang-ji-dong-ting-chun-jiu-de-we
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

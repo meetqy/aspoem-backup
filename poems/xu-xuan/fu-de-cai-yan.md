@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-fu-de-cai-yan
-title: 賦得綵燕
+title: 賦得綵鷰
 titlePinyin: fu4 de2 cai3 yan4
 titleSlug: fu-de-cai-yan
 author: 徐鉉
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 縷綵成飛燕，迎和啟蟄時。
+- 縷綵成飛鷰，迎和啓蟄時。
 - 翠翹生玉指，繡羽拂文楣。
 - 詎費銜泥力，無勞剪爪期。
 - 化工今在此，翻怪社來遲。

@@ -6,25 +6,25 @@ titleSlug: ou-xing
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老喜交親熟，貧嫌故舊真。
-- 山林無長物，天地有垂綸。
-- 胡蝶身中葉，銅駝世上塵。
-- 江南要梅雨，耕稼一番新。
+- 綠樹啼鶑春已闌，杜鵑聲裏最綿蠻。
+- 繁陰有路歸幽處，長日無人到俗間。
+- 茶信爲僧時過水，詩魔因客又登山。
+- 薄衣輕體風吹面，神觀初明氣自還。
 
 ## 拼音
 
-- lao3 xi3 jiao1 qin1 shu2 ， pin2 xian2 gu4 jiu4 zhen1 。
-- shan1 lin2 wu2 chang2 wu4 ， tian1 di4 you3 chui2 lun2 。
-- hu2 die2 shen1 zhong1 ye4 ， tong2 tuo2 shi4 shang4 chen2 。
-- jiang1 nan2 yao4 mei2 yu3 ， geng1 jia4 yi4 fan1 xin1 。
+- lü4 shu4 ti2 ying1 chun1 yi3 lan2 ， du4 jian1 sheng1 li3 zui4 mian2 man2 。
+- fan2 yin1 you3 lu4 gui1 you1 chu3 ， chang2 ri4 wu2 ren2 dao4 su2 jian4 。
+- cha2 xin4 wei2 seng1 shi2 guo4 shui3 ， shi1 mo2 yin1 ke4 you4 deng1 shan1 。
+- bao2 yi1 qing1 ti3 feng1 chui1 mian4 ， shen2 guan1 chu1 ming2 qi4 zi4 huan2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: zai-yong-qian-yun-qi-er
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不用扁舟尋故友，但穿敗履訪鄰家。
-- 雪堂歸去東坡老，雲馭飛來萼綠華。
-- 稚子歡呼驚柳絮，佳人疑悞認梅花。
-- 出門天地俱無礙，却意江空月在沙。
+- 梅花料得是前生，楚些招魂魄已盈。
+- 却笑橫枝太消瘦，不堪淡月助凄清。
+- 風流有客傳花譜，火速無人集韻英。
+- 江左詩僧渾壓倒，每慚得句犯師兄。
 
 ## 拼音
 
-- bu2 yong4 pian1 zhou1 xun2 gu4 you3 ， dan4 chuan1 bai4 lü3 fang3 lin2 jia1 。
-- xue3 tang2 gui1 qu4 dong1 po1 lao3 ， yun2 yu4 fei1 lai2 e4 lü4 hua2 。
-- zhi4 zi3 huan1 hu1 jing1 liu3 xu4 ， jia1 ren2 yi2 wu4 ren4 mei2 hua1 。
-- chu1 men2 tian1 di4 ju4 wu2 ai4 ， que4 yi4 jiang1 kong1 yue4 zai4 sha1 。
+- mei2 hua1 liao4 de2 shi4 qian2 sheng1 ， chu3 xie1 zhao1 hun2 po4 yi3 ying2 。
+- que4 xiao4 heng2 zhi1 tai4 xiao1 shou4 ， bu4 kan1 dan4 yue4 zhu4 qi1 qing1 。
+- feng1 liu2 you3 ke4 chuan2 hua1 pu3 ， huo3 su4 wu2 ren2 ji2 yun4 ying1 。
+- jiang1 zuo3 shi1 seng1 hun2 ya1 dao3 ， mei3 can2 de2 ju4 fan4 shi1 xiong1 。
 
 ## 注释
 

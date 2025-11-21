@@ -6,25 +6,25 @@ titleSlug: chun-jiao-ji-shi
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東風吹動綺羅塵，翠蓋紅纓處處新。
-- 蝶翅拍開千樹雪，鶑聲催老十洲春。
-- 人生有酒須行樂，吏祿無階且食貧。
-- 歸客不須籠畫燭，醉和明月上雕輪。
+- 東風吹不斷輪蹄，處處鞦韆環珮飛。
+- 剪翠弄粧歸髻掠，亂紅翻錦上屏幃。
+- 花應笑我春嘗醉，燕解嘲人夜不歸。
+- 莫怪逢春太娛樂，人生能有幾芳菲。
 
 ## 拼音
 
-- dong1 feng1 chui1 dong4 qi3 luo2 chen2 ， cui4 gai4 hong2 ying1 chu3 chu3 xin1 。
-- die2 chi4 pai1 kai1 qian1 shu4 xue3 ， ying1 sheng1 cui1 lao3 shi2 zhou1 chun1 。
-- ren2 sheng1 you3 jiu3 xu1 xing2 le4 ， li4 lu4 wu2 jie1 qie3 shi2 pin2 。
-- gui1 ke4 bu4 xu1 long2 hua4 zhu2 ， zui4 he2 ming2 yue4 shang4 diao1 lun2 。
+- dong1 feng1 chui1 bu2 duan4 lun2 ti2 ， chu3 chu3 qiu1 qian1 huan2 pei4 fei1 。
+- jian3 cui4 nong4 zhuang1 gui1 ji4 lüe4 ， luan4 hong2 fan1 jin3 shang4 ping2 wei2 。
+- hua1 ying1 xiao4 wo3 chun1 chang2 zui4 ， yan4 jie3 chao2 ren2 ye4 bu4 gui1 。
+- mo4 guai4 feng2 chun1 tai4 yu2 le4 ， ren2 sheng1 neng2 you3 ji1 fang1 fei1 。
 
 ## 注释
 

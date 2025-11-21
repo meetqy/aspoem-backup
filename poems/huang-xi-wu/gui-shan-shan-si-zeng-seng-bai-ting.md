@@ -6,10 +6,10 @@ titleSlug: gui-shan-shan-si-zeng-seng-bai-ting
 author: 黄希武
 authorPinyin: huang2 xi1 wu3
 authorSlug: huang-xi-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

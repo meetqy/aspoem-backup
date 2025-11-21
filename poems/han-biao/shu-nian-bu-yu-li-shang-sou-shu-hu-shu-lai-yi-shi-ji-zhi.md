@@ -6,10 +6,10 @@ titleSlug: shu-nian-bu-yu-li-shang-sou-shu-hu-shu-lai-yi-shi-ji-zhi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

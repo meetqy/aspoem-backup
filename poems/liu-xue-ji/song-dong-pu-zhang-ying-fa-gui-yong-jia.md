@@ -6,10 +6,10 @@ titleSlug: song-dong-pu-zhang-ying-fa-gui-yong-jia
 author: 劉學箕
 authorPinyin: liu2 xue2 ji1
 authorSlug: liu-xue-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

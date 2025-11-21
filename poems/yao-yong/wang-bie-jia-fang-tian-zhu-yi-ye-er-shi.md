@@ -6,10 +6,10 @@ titleSlug: wang-bie-jia-fang-tian-zhu-yi-ye-er-shi
 author: 姚鏞
 authorPinyin: yao2 yong1
 authorSlug: yao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

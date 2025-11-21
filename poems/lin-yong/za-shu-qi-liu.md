@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-liu
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 坦腹東床佳婿，企脚北窗真人。
-- 談笑眼前事業，風流膜外精神。
+- 恨無短劍乘風去，縱有長繩奈日何。
+- 謾說千年歸鶴表，最憐九代入雞窠。
 
 ## 拼音
 
-- tan3 fu4 dong1 chuang2 jia1 xu4 ， qi3 jiao3 bei3 chuang1 zhen1 ren2 。
-- tan2 xiao4 yan3 qian2 shi4 ye4 ， feng1 liu2 mo2 wai4 jing1 shen2 。
+- hen4 wu2 duan3 jian4 cheng2 feng1 qu4 ， zong4 you3 chang2 sheng2 nai4 ri4 he2 。
+- man2 shuo1 qian1 nian2 gui1 he4 biao3 ， zui4 lian2 jiu3 dai4 ru4 ji1 ke1 。
 
 ## 注释
 

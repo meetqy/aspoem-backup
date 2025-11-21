@@ -1,26 +1,26 @@
 ---
 id: shi-jian-bi-ji-song-er-shi-yi-shou-qi-er
-title: 偈頌二十一首  其二
-titlePinyin: ji4 song4 er4 shi2 yi1 shou3     qi2 er4
+title: 偈頌二十一首  其二○
+titlePinyin: ji4 song4 er4 shi2 yi1 shou3     qi2 er4 ○
 titleSlug: ji-song-er-shi-yi-shou-qi-er
 author: 釋堅璧
 authorPinyin: shi4 jian1 bi4
 authorSlug: shi-jian-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晷運推移，日南長至。
-- 一夜東海烏龜，吞却南山鱉鼻。
+- 相隨步步見還難，墨刷驊騮錦綉鞍。
+- 一夜遍行南贍部，天明依舊立江干。
 
 ## 拼音
 
-- gui3 yun4 tui1 yi2 ， ri4 nan2 chang2 zhi4 。
-- yi2 ye4 dong1 hai3 wu1 gui1 ， tun1 que4 nan2 shan1 bie1 bi2 。
+- xiang1 sui2 bu4 bu4 jian4 huan2 nan2 ， mo4 shua1 hua2 liu2 jin3 xiu4 an1 。
+- yi2 ye4 bian4 xing2 nan2 shan4 bu4 ， tian1 ming2 yi1 jiu4 li4 jiang1 gan1 。
 
 ## 注释
 

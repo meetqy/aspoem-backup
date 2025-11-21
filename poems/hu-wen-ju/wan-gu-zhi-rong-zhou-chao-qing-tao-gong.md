@@ -6,10 +6,10 @@ titleSlug: wan-gu-zhi-rong-zhou-chao-qing-tao-gong
 author: 胡文舉
 authorPinyin: hu2 wen2 ju3
 authorSlug: hu-wen-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

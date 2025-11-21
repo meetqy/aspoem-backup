@@ -1,30 +1,30 @@
 ---
 id: fang-hui-xu-gu-zhi-gui-hou-fu-shi-shou-qi-yi
-title: 虛谷志歸後賦十首  其一
-titlePinyin: xu1 gu3 zhi4 gui1 hou4 fu4 shi2 shou3     qi2 yi1
+title: 虛谷志歸後賦十首  其一○
+titlePinyin: xu1 gu3 zhi4 gui1 hou4 fu4 shi2 shou3     qi2 yi1 ○
 titleSlug: xu-gu-zhi-gui-hou-fu-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卦揲家人吉，門迎稚子歡。
-- 始知鄉國好，全勝道途難。
-- 砌草陳根綠，庭花凍蕾丹。
-- 春園容日涉，更敢上長安。
+- 樂天在知命，行止豈人能。
+- 元亮歸廬阜，延之牧始興。
+- 時才宜政柄，老我只詩朋。
+- 何日携君手，西湖共訪僧。
 
 ## 拼音
 
-- gua4 die2 jia1 ren2 ji2 ， men2 ying2 zhi4 zi3 huan1 。
-- shi3 zhi1 xiang1 guo2 hao3 ， quan2 sheng4 dao4 tu2 nan2 。
-- qi4 cao3 chen2 gen1 lü4 ， ting2 hua1 dong4 lei3 dan1 。
-- chun1 yuan2 rong2 ri4 she4 ， geng4 gan3 shang4 chang2 an1 。
+- le4 tian1 zai4 zhi1 ming4 ， xing2 zhi3 qi3 ren2 neng2 。
+- yuan2 liang4 gui1 lu2 fu4 ， yan2 zhi1 mu4 shi3 xing1 。
+- shi2 cai2 yi2 zheng4 bing3 ， lao3 wo3 zhi1 shi1 peng2 。
+- he2 ri4 xie2 jun1 shou3 ， xi1 hu2 gong4 fang3 seng1 。
 
 ## 注释
 

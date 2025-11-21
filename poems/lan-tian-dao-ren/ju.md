@@ -6,10 +6,10 @@ titleSlug: ju
 author: 藍田道人
 authorPinyin: lan2 tian2 dao4 ren2
 authorSlug: lan-tian-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

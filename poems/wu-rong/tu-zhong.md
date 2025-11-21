@@ -9,22 +9,20 @@ authorSlug: wu-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一棹歸何處，蒼茫落照昏。
-- 無人應失路，有樹始知春。
-- 湖岸春耕廢，江城戰鼓喧。
-- 儒冠解相悞，學劒盡乘軒。
+- 柳弱風長在，雲輕雨易休。
+- 不勞芳草色，更惹夕陽愁。
+- 萬里獨歸去，五陵無與遊。
 
 ## 拼音
 
-- yi2 zhao4 gui1 he2 chu3 ， cang1 mang2 luo4 zhao4 hun1 。
-- wu2 ren2 ying1 shi1 lu4 ， you3 shu4 shi3 zhi1 chun1 。
-- hu2 an4 chun1 geng1 fei4 ， jiang1 cheng2 zhan4 gu3 xuan1 。
-- ru2 guan1 jie3 xiang1 wu4 ， xue2 jian4 jin4 cheng2 xuan1 。
+- liu3 ruo4 feng1 chang2 zai4 ， yun2 qing1 yu3 yi4 xiu1 。
+- bu4 lao2 fang1 cao3 se4 ， geng4 re3 xi1 yang2 chou2 。
+- wan4 li3 du2 gui1 qu4 ， wu3 ling2 wu2 yu3 you2 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: jiang-shang
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 村落家家有濁醪，青旗招客解袛裯。
-- 春風似補林塘破，野水遥連草樹高。
-- 寄食舟車隨處弊，行歌天地此身勞。
-- 遲回自負平生意，豈是明時惜一毛。
+- 江北秋陰一半開，晚雲含雨却低回。
+- 青山繚繞疑無路，忽見千帆隠映來。
 
 ## 拼音
 
-- cun1 luo4 jia1 jia1 you3 zhuo2 lao2 ， qing1 qi2 zhao1 ke4 jie3 di1 dao1 。
-- chun1 feng1 si4 bu3 lin2 tang2 po4 ， ye3 shui3 yao2 lian2 cao3 shu4 gao1 。
-- ji4 shi2 zhou1 ju1 sui2 chu3 bi4 ， xing2 ge1 tian1 di4 ci3 shen1 lao2 。
-- chi2 hui2 zi4 fu4 ping2 sheng1 yi4 ， qi3 shi4 ming2 shi2 xi1 yi4 mao2 。
+- jiang1 bei3 qiu1 yin1 yi2 ban4 kai1 ， wan3 yun2 han2 yu3 que4 di1 hui2 。
+- qing1 shan1 liao2 rao4 yi2 wu2 lu4 ， hu1 jian4 qian1 fan1 yin3 ying4 lai2 。
 
 ## 注释
 

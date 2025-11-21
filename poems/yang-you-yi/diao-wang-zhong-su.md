@@ -6,9 +6,9 @@ titleSlug: diao-wang-zhong-su
 author: 楊由義
 authorPinyin: yang2 you2 yi4
 authorSlug: yang-you-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,25 +6,25 @@ titleSlug: xi-ji-shang-ren-zhi
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鄴北至夔城，三千里外程。
-- 勞尋苦吟伴，獨入亂山行。
-- 楚水秋無際，巴猿夜有聲。
-- 逢師不能寐，因話故鄉情。
+- 喜師來訪我，幽會興何長。
+- 清論都無倦，鄉愁頓欲忘。
+- 疏林秋色暮，虛閣水風凉。
+- 久坐慵言別，微陽下短牆。
 
 ## 拼音
 
-- ye4 bei3 zhi4 kui2 cheng2 ， san1 qian1 li3 wai4 cheng2 。
-- lao2 xun2 ku3 yin2 ban4 ， du2 ru4 luan4 shan1 xing2 。
-- chu3 shui3 qiu1 wu2 ji4 ， ba1 yuan2 ye4 you3 sheng1 。
-- feng2 shi1 bu4 neng2 mei4 ， yin1 hua4 gu4 xiang1 qing2 。
+- xi3 shi1 lai2 fang3 wo3 ， you1 hui4 xing1 he2 chang2 。
+- qing1 lun4 dou1 wu2 juan4 ， xiang1 chou2 dun4 yu4 wang4 。
+- shu1 lin2 qiu1 se4 mu4 ， xu1 ge2 shui3 feng1 liang2 。
+- jiu3 zuo4 yong1 yan2 bie2 ， wei1 yang2 xia4 duan3 qiang2 。
 
 ## 注释
 

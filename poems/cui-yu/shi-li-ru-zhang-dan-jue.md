@@ -6,10 +6,10 @@ titleSlug: shi-li-ru-zhang-dan-jue
 author: 崔羽
 authorPinyin: cui1 yu3
 authorSlug: cui-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ji-he-jia-yin
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲出孤雲意已闌，東風吹夢落東安。
-- 燈前鄉國千山隔，窗外乾坤一面寬。
-- 放馬脫韁嘶曉岸，連檣牽索上晴灘。
-- 闌干倚遍空相憶，花落芳洲春半殘。
+- 憶昔相逢霜露寒，再三與我返鄉關。
+- 溪行散亂飛蓬鬢，旅泊凄凉落日顔。
+- 活計獨傳鴻寶苑，清遊重上鹿門山。
+- 崇朝觸石需滂沛，笑我閒雲苦未閒。
 
 ## 拼音
 
-- yu4 chu1 gu1 yun2 yi4 yi3 lan2 ， dong1 feng1 chui1 meng4 luo4 dong1 an1 。
-- deng1 qian2 xiang1 guo2 qian1 shan1 ge2 ， chuang1 wai4 qian2 kun1 yi2 mian4 kuan1 。
-- fang4 ma3 tuo1 jiang1 si1 xiao3 an4 ， lian2 qiang2 qian1 suo3 shang4 qing2 tan1 。
-- lan2 gan1 yi3 bian4 kong1 xiang4 yi4 ， hua1 luo4 fang1 zhou1 chun1 ban4 can2 。
+- yi4 xi1 xiang1 feng2 shuang1 lu4 han2 ， zai4 san1 yu3 wo3 fan3 xiang1 guan1 。
+- xi1 xing2 san4 luan4 fei1 peng2 bin4 ， lü3 bo2 qi1 liang2 luo4 ri4 yan2 。
+- huo2 ji4 du2 chuan2 hong2 bao3 yuan4 ， qing1 you2 chong2 shang4 lu4 men2 shan1 。
+- chong2 chao2 chu4 shi2 xu1 pang1 pei4 ， xiao4 wo3 xian2 yun2 ku3 wei4 xian2 。
 
 ## 注释
 

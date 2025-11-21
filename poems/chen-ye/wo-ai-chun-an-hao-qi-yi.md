@@ -1,30 +1,30 @@
 ---
 id: chen-ye-wo-ai-chun-an-hao-qi-yi
-title: 我愛淳安好  其一
-titlePinyin: wo3 ai4 chun2 an1 hao3     qi2 yi1
+title: 我愛淳安好  其一○
+titlePinyin: wo3 ai4 chun2 an1 hao3     qi2 yi1 ○
 titleSlug: wo-ai-chun-an-hao-qi-yi
 author: 陳曄
 authorPinyin: chen2 ye4
 authorSlug: chen-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我愛淳安好，於民兩盡誠。
-- 明倫喜知勸，有社敬皆生。
-- 開學群材進，繙經衆說平。
-- 嗟予不如昔，徒爾景恢宏。
+- 我愛淳安好，百方民力寬。
+- 役胥遵大義，訟牒上狂瀾。
+- 公賦爭先入，窮閻可奠安。
+- 從今滋向化，爲政不因難。
 
 ## 拼音
 
-- wo3 ai4 chun2 an1 hao3 ， wu1 min2 liang3 jin4 cheng2 。
-- ming2 lun2 xi3 zhi1 quan4 ， you3 she4 jing4 jie1 sheng1 。
-- kai1 xue2 qun2 cai2 jin4 ， fan1 jing1 zhong4 shuo1 ping2 。
-- jie1 yu3 bu4 ru2 xi1 ， tu2 er3 jing3 hui1 hong2 。
+- wo3 ai4 chun2 an1 hao3 ， bai3 fang1 min2 li4 kuan1 。
+- yi4 xu1 zun1 da4 yi4 ， song4 die2 shang4 kuang2 lan2 。
+- gong1 fu4 zheng1 xian1 ru4 ， qiong2 yan2 ke3 dian4 an1 。
+- cong2 jin1 zi1 xiang4 hua4 ， wei2 zheng4 bu4 yin1 nan2 。
 
 ## 注释
 

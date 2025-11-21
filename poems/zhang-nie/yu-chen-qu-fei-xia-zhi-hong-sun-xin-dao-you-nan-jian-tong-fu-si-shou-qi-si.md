@@ -6,9 +6,9 @@ titleSlug: yu-chen-qu-fei-xia-zhi-hong-sun-xin-dao-you-nan-jian-tong-fu-si-shou-
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: xin-qing-ke-xi-tong-wu-dou-nan-deng-ta-yuan
 author: 滕繼遠
 authorPinyin: teng2 ji4 yuan3
 authorSlug: teng-ji-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

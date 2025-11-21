@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-wu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東風一夜轉熙臺，日上瑶池綺席開。
-- 可但六宮環佩響，重孫滿眼賀春來。
+- 柳色花光動建章，從今步輦日尋芳。
+- 亭亭紅繖隨黄屋，萬里馳驅笑穆王。
 
 ## 拼音
 
-- dong1 feng1 yi2 ye4 zhuan3 xi1 tai2 ， ri4 shang4 yao2 chi2 qi3 xi2 kai1 。
-- ke3 dan4 liu4 gong1 huan2 pei4 xiang3 ， zhong4 sun1 man3 yan3 he4 chun1 lai2 。
+- liu3 se4 hua1 guang1 dong4 jian4 zhang1 ， cong2 jin1 bu4 nian3 ri4 xun2 fang1 。
+- ting2 ting2 hong2 san3 sui2 huang2 wu1 ， wan4 li3 chi2 qu1 xiao4 mu4 wang2 。
 
 ## 注释
 

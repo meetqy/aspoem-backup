@@ -6,10 +6,10 @@ titleSlug: zhong-shu-ling-lu-guo-xuan-jing-lu-gong-wan-ci-qi-san
 author: 文彥博
 authorPinyin: wen2 yan4 bo2
 authorSlug: wen-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

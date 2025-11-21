@@ -6,10 +6,10 @@ titleSlug: ding-wei-duan-yue-nan-cui-lu-zhu-tong-mu-you-jing-qin-huan-zhi-di-shu
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

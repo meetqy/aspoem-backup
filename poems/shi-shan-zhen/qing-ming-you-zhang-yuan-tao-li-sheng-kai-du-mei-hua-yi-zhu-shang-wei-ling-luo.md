@@ -6,10 +6,10 @@ titleSlug: qing-ming-you-zhang-yuan-tao-li-sheng-kai-du-mei-hua-yi-zhu-shang-wei
 author: 釋善珍
 authorPinyin: shi4 shan4 zhen1
 authorSlug: shi-shan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

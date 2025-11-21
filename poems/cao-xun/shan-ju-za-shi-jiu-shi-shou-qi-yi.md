@@ -1,30 +1,30 @@
 ---
 id: cao-xun-shan-ju-za-shi-jiu-shi-shou-qi-yi
-title: 山居雜詩九十首  其一
-titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 yi1
+title: 山居雜詩九十首  其一○
+titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 yi1 ○
 titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 種杏三年實，種桃一載花。
-- 花實固可樂，爲農本桑麻。
-- 功成不占地，改植常可誇。
-- 要是農須學，作略自一家。
+- 招客圖客歡，不圖能病客。
+- 既醉失匕筯，吐茵墮巾幘。
+- 何堪款曲意，貽念風月夕。
+- 拂旦往問訊，慙恨見顔色。
 
 ## 拼音
 
-- zhong3 xing4 san1 nian2 shi2 ， zhong3 tao2 yi2 zai4 hua1 。
-- hua1 shi2 gu4 ke3 le4 ， wei2 nong2 ben3 sang1 ma2 。
-- gong1 cheng2 bu2 zhan4 di4 ， gai3 zhi2 chang2 ke3 kua1 。
-- yao4 shi0 nong2 xu1 xue2 ， zuo4 lüe4 zi4 yi4 jia1 。
+- zhao1 ke4 tu2 ke4 huan1 ， bu4 tu2 neng2 bing4 ke4 。
+- ji4 zui4 shi1 bi3 zhu4 ， tu3 yin1 duo4 jin1 ze2 。
+- he2 kan1 kuan3 qu1 yi4 ， yi2 nian4 feng1 yue4 xi1 。
+- fu2 dan4 wang3 wen4 xun4 ， can2 hen4 jian4 yan2 se4 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: xian-yong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 本志常思退，前緣剩得閑。
-- 聽猿來剡縣，采藥上稽山。
-- 超絕風塵表，瑩然冰雪顔。
-- 向來香火地，五綴羽衣班。
+- 平生到處足間關，天遣殘年樂故山。
+- 社日連村饜酒肉，豐年無盜伏茆菅。
+- 秋來梁燕將雛去，雨過林鳩喚婦還。
+- 我亦葛衣新浴罷，爲君滿意說清閑。
 
 ## 拼音
 
-- ben3 zhi4 chang2 si1 tui4 ， qian2 yuan2 sheng4 de2 xian2 。
-- ting1 yuan2 lai2 yan3 xian4 ， cai3 yao4 shang4 ji1 shan1 。
-- chao1 jue2 feng1 chen2 biao3 ， ying2 ran2 bing1 xue3 yan2 。
-- xiang4 lai2 xiang1 huo3 di4 ， wu3 zhui4 yu3 yi1 ban1 。
+- ping2 sheng1 dao4 chu3 zu2 jian4 guan1 ， tian1 qian3 can2 nian2 le4 gu4 shan1 。
+- she4 ri4 lian2 cun1 yan4 jiu3 rou4 ， feng1 nian2 wu2 dao4 fu2 mao2 jian1 。
+- qiu1 lai2 liang2 yan4 jiang1 chu2 qu4 ， yu3 guo4 lin2 jiu1 huan4 fu4 huan2 。
+- wo3 yi4 ge3 yi1 xin1 yu4 ba4 ， wei2 jun1 man3 yi4 shuo1 qing1 xian2 。
 
 ## 注释
 

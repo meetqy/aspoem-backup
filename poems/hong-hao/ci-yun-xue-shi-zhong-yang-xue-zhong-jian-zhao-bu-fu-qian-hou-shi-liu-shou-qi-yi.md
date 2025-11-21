@@ -1,30 +1,30 @@
 ---
 id: hong-hao-ci-yun-xue-shi-zhong-yang-xue-zhong-jian-zhao-bu-fu-qian-hou-shi-liu-shou-qi-yi
-title: 次韻學士重陽雪中見招不赴前後十六首  其一
-titlePinyin: ci4 yun4 xue2 shi4 zhong4 yang2 xue3 zhong1 jian4 zhao1 bu2 fu4 qian2 hou4 shi2 liu4 shou3     qi2 yi1
+title: 次韻學士重陽雪中見招不赴前後十六首  其一○
+titlePinyin: ci4 yun4 xue2 shi4 zhong4 yang2 xue3 zhong1 jian4 zhao1 bu2 fu4 qian2 hou4 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: ci-yun-xue-shi-zhong-yang-xue-zhong-jian-zhao-bu-fu-qian-hou-shi-liu-shou-qi-yi
 author: 洪皓
 authorPinyin: hong2 hao4
 authorSlug: hong-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西鄰樽俎比星陳，强欲攜笻慮損神。
-- 得句揮毫須會友，緩聲振木解娛賓。
-- 獻醻雜坐欺三白，服餌單棲忘五辛。
-- 重九閑居真可惜，銷憂思引萬家春。
+- 怪怪奇奇不可陳，搜奇抉怪殆窮神。
+- 曾編金鑰李商隱，屢賜銀桮胡楚賓。
+- 麗服靚粧皆可玩，大羹元酒並忘辛。
+- 文章三變公爲伯，自愧惷愚冬復春。
 
 ## 拼音
 
-- xi1 lin2 zun1 zu3 bi3 xing1 chen2 ， qiang2 yu4 xie2 qiong2 lü4 sun3 shen2 。
-- de2 ju4 hui1 hao2 xu1 hui4 you3 ， huan3 sheng1 zhen4 mu4 jie3 yu2 bin1 。
-- xian4 chou2 za2 zuo4 qi1 san1 bai2 ， fu2 er3 dan1 qi1 wang4 wu3 xin1 。
-- chong2 jiu3 xian2 ju1 zhen1 ke3 xi1 ， xiao1 you1 si1 yin3 wan4 jia1 chun1 。
+- guai4 guai4 qi2 qi2 bu4 ke3 chen2 ， sou1 qi2 jue2 guai4 dai4 qiong2 shen2 。
+- ceng2 bian1 jin1 yue4 li3 shang1 yin3 ， lü3 ci4 yin2 bei1 hu2 chu3 bin1 。
+- li2 fu2 jing4 zhuang1 jie1 ke3 wan2 ， da4 geng1 yuan2 jiu3 bing4 wang4 xin1 。
+- wen2 zhang1 san1 bian4 gong1 wei2 bo2 ， zi4 kui4 chun3 yu2 dong1 fu4 chun1 。
 
 ## 注释
 

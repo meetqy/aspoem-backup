@@ -6,10 +6,10 @@ titleSlug: ji-song-yi-bai-ling-san-shou-qi-yi-qi
 author: 釋月磵
 authorPinyin: shi4 yue4 jian4
 authorSlug: shi-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

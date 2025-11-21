@@ -6,21 +6,21 @@ titleSlug: za-ti-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黍醅新壓野雞肥，茆店酣歌送落暉。
-- 人道山僧最無事，憐渠猶趁暮鐘歸。
+- 黄庭兩卷伴身閑，盤篆香殘日未殘。
+- 泛泛孤身似萍葉，始知天地不勝寬。
 
 ## 拼音
 
-- shu3 pei1 xin1 ya1 ye3 ji1 fei2 ， mao2 dian4 han1 ge1 song4 luo4 hui1 。
-- ren2 dao4 shan1 seng1 zui4 wu2 shi4 ， lian2 qu2 you2 chen4 mu4 zhong1 gui1 。
+- huang2 ting2 liang3 juan4 ban4 shen1 xian2 ， pan2 zhuan4 xiang1 can2 ri4 wei4 can2 。
+- fan4 fan4 gu1 shen1 si4 ping2 ye4 ， shi3 zhi1 tian1 di4 bu2 sheng4 kuan1 。
 
 ## 注释
 

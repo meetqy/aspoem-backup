@@ -6,10 +6,10 @@ titleSlug: liu-ti-kai-shan-jing-she
 author: 劉韐
 authorPinyin: liu2 ge2
 authorSlug: liu-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

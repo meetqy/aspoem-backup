@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 嫩綠輕懸似綴旒，路人遙見隔宮樓。
-- 誰能更近丹墀種，解播皇風入九州。
+- 縣依陶令想嫌迂，營伴將軍即大麤。
+- 此日與君除萬恨，數篇風調更應無。
 
 ## 拼音
 
-- nen4 lü4 qing1 xuan2 si4 zhui4 liu2 ， lu4 ren2 yao2 jian4 ge2 gong1 lou2 。
-- shui2 neng2 geng4 jin4 dan1 chi2 zhong3 ， jie3 bo1 huang2 feng1 ru4 jiu3 zhou1 。
+- xian4 yi1 tao2 ling4 xiang3 xian2 yu1 ， ying2 ban4 jiang1 jun1 ji2 da4 cu1 。
+- ci3 ri4 yu3 jun1 chu2 wan4 hen4 ， shu4 pian1 feng1 diao4 geng4 ying1 wu2 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-li-qiu-er-jue-qi-er
-title: 立秋二絕・其二
-titlePinyin: li4 qiu1 er4 jue2・qi2 er4
+title: 立秋二絕  其二
+titlePinyin: li4 qiu1 er4 jue2     qi2 er4
 titleSlug: li-qiu-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

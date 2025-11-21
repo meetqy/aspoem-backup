@@ -6,25 +6,25 @@ titleSlug: sui-mu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吴中寒氣薄，歲暮亦和風。
-- 移樹来村北，尋僧渡港東。
-- 露葵收半綠，霜稻杵微紅。
-- 一飽無餘念，吾生正不窮。
+- 歲暮風霜慘，村深草棘稠。
+- 力衰行每蹇，衣薄鼻多鼽。
+- 久矣當長往，悠然尚小留。
+- 兒童報炊熟，得飽且忘憂。
 
 ## 拼音
 
-- wu2 zhong1 han2 qi4 bao2 ， sui4 mu4 yi4 he2 feng1 。
-- yi2 shu4 lai2 cun1 bei3 ， xun2 seng1 du4 gang3 dong1 。
-- lu4 kui2 shou1 ban4 lü4 ， shuang1 dao4 chu3 wei1 hong2 。
-- yi4 bao3 wu2 yu2 nian4 ， wu2 sheng1 zheng4 bu4 qiong2 。
+- sui4 mu4 feng1 shuang1 can3 ， cun1 shen1 cao3 ji2 chou2 。
+- li4 shuai1 xing2 mei3 jian3 ， yi1 bao2 bi2 duo1 qiu2 。
+- jiu3 yi3 dang1 chang2 wang3 ， you1 ran2 shang4 xiao3 liu2 。
+- er2 tong2 bao4 chui1 shu2 ， de2 bao3 qie3 wang4 you1 。
 
 ## 注释
 

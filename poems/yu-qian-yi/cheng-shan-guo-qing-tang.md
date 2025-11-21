@@ -6,10 +6,10 @@ titleSlug: cheng-shan-guo-qing-tang
 author: 余謙一
 authorPinyin: yu2 qian1 yi1
 authorSlug: yu-qian-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

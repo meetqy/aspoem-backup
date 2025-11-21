@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 李元亮
 authorPinyin: li3 yuan2 liang4
 authorSlug: li-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

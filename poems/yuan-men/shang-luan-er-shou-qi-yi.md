@@ -6,10 +6,10 @@ titleSlug: shang-luan-er-shou-qi-yi
 author: 袁玧
 authorPinyin: yuan2 men2
 authorSlug: yuan-men
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

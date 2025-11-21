@@ -6,25 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 正因二字得聞，鼠糞污一釜羹。
-- 乳峰初無箇事，飽噇飯了閑行。
-- 松門雨霽，苔徑雲橫。
-- 隄防平地上，著脚是深坑。
+- 靈鷲峰前，熱血相噴。
+- 覺城東際，陷坑無底。
+- 失脚休論後與先，癡翁何似我風顛。
 
 ## 拼音
 
-- zheng4 yin1 er4 zi4 de2 wen2 ， shu3 fen4 wu1 yi4 fu3 geng1 。
-- ru3 feng1 chu1 wu2 ge4 shi4 ， bao3 chuang2 fan4 le0 xian2 xing2 。
-- song1 men2 yu3 ji4 ， tai2 jing4 yun2 heng2 。
-- di1 fang2 ping2 di4 shang4 ， zhu4 jiao3 shi4 shen1 keng1 。
+- ling2 jiu4 feng1 qian2 ， re4 xue4 xiang1 pen1 。
+- jue2 cheng2 dong1 ji4 ， xian4 keng1 wu2 di3 。
+- shi1 jiao3 xiu1 lun4 hou4 yu3 xian1 ， chi1 weng1 he2 si4 wo3 feng1 dian1 。
 
 ## 注释
 

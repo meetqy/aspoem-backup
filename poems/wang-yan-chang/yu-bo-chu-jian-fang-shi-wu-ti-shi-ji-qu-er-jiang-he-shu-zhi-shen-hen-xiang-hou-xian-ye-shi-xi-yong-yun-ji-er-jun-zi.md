@@ -6,10 +6,10 @@ titleSlug: yu-bo-chu-jian-fang-shi-wu-ti-shi-ji-qu-er-jiang-he-shu-zhi-shen-hen-
 author: 汪炎昶
 authorPinyin: wang1 yan2 chang3
 authorSlug: wang-yan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

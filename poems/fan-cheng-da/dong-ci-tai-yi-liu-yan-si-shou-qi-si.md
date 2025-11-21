@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-dong-ci-tai-yi-liu-yan-si-shou-qi-si
-title: 冬祠太乙六言四首・其四
-titlePinyin: dong1 ci2 tai4 yi3 liu4 yan2 si4 shou3・qi2 si4
+title: 冬祠太乙六言四首  其四
+titlePinyin: dong1 ci2 tai4 yi3 liu4 yan2 si4 shou3     qi2 si4
 titleSlug: dong-ci-tai-yi-liu-yan-si-shou-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

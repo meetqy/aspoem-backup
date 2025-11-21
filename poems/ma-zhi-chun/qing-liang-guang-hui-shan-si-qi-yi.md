@@ -6,10 +6,10 @@ titleSlug: qing-liang-guang-hui-shan-si-qi-yi
 author: 馬之純
 authorPinyin: ma3 zhi1 chun2
 authorSlug: ma-zhi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

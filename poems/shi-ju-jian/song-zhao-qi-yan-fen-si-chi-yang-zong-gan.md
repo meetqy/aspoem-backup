@@ -6,10 +6,10 @@ titleSlug: song-zhao-qi-yan-fen-si-chi-yang-zong-gan
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

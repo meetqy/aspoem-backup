@@ -1,26 +1,38 @@
 ---
 id: shi-wen-zhun-ji-shi-er-shou-qi-yi
-title: 偈十二首  其一
-titlePinyin: ji4 shi2 er4 shou3     qi2 yi1
+title: 偈十二首  其一○
+titlePinyin: ji4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: ji-shi-er-shou-qi-yi
 author: 釋文準
 authorPinyin: shi4 wen2 zhun3
 authorSlug: shi-wen-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒來暑往古今同，萬別十差不礙空。
-- 昨夜鐵牛頭角露，滿庭松栢撼秋風。
+- 八月中秋天涼，芙蓉花發題目禪房。
+- 老胡大道分明在，不必諸方問短長。
+- 短不是短，長不是長。
+- 短長不是處，是道非思量。
+- 思量不及，文彩愈彰。
+- 秋山兮秋雲片片，秋江兮秋水洋洋。
+- 風悲蘭社，天澹滄浪。
+- 欲言言不及，林下好商量。
 
 ## 拼音
 
-- han2 lai2 shu3 wang3 gu3 jin1 tong2 ， wan4 bie2 shi2 cha4 bu2 ai4 kong1 。
-- zuo2 ye4 tie3 niu2 tou2 jiao3 lu4 ， man3 ting2 song1 bai3 han4 qiu1 feng1 。
+- ba1 yue4 zhong1 qiu1 tian1 liang2 ， fu2 rong2 hua1 fa1 ti2 mu4 shan4 fang2 。
+- lao3 hu2 da4 dao4 fen1 ming2 zai4 ， bu2 bi4 zhu1 fang1 wen4 duan3 chang2 。
+- duan3 bu2 shi4 duan3 ， chang2 bu2 shi4 chang2 。
+- duan3 chang2 bu2 shi4 chu3 ， shi4 dao4 fei1 si1 liang0 。
+- si1 liang0 bu4 ji2 ， wen2 cai3 yu4 zhang1 。
+- qiu1 shan1 xi1 qiu1 yun2 pian4 pian4 ， qiu1 jiang1 xi1 qiu1 shui3 yang2 yang2 。
+- feng1 bei1 lan2 she4 ， tian1 dan4 cang1 lang4 。
+- yu4 yan2 yan2 bu4 ji2 ， lin2 xia4 hao3 shang1 liang0 。
 
 ## 注释
 

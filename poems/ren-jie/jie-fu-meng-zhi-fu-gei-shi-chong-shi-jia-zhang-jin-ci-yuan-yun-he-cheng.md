@@ -6,10 +6,10 @@ titleSlug: jie-fu-meng-zhi-fu-gei-shi-chong-shi-jia-zhang-jin-ci-yuan-yun-he-che
 author: 任傑
 authorPinyin: ren4 jie2
 authorSlug: ren-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

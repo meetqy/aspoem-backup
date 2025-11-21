@@ -6,10 +6,10 @@ titleSlug: jiang-jiao-dong
 author: 高予文
 authorPinyin: gao1 yu3 wen2
 authorSlug: gao-yu-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

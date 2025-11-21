@@ -1,26 +1,26 @@
 ---
 id: hu-zhong-gong-gong-ci-qi-yi
-title: 宮詞  其一
-titlePinyin: gong1 ci2     qi2 yi1
+title: 宮詞  其一○
+titlePinyin: gong1 ci2     qi2 yi1 ○
 titleSlug: gong-ci-qi-yi
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漢宮春色傍黄昏，曾謁金門奉至尊。
-- 月上海棠人寂寂，焚香百拜感皇恩。
+- 一自長門芳草生，六宮怕見柳梢青。
+- 玉樓春盡君王懶，大小梁州不忍聽。
 
 ## 拼音
 
-- han4 gong1 chun1 se4 bang4 huang2 hun1 ， ceng2 ye4 jin1 men2 feng4 zhi4 zun1 。
-- yue4 shang4 hai3 tang2 ren2 ji4 ji4 ， fen2 xiang1 bai3 bai4 gan3 huang2 en1 。
+- yi2 zi4 chang2 men2 fang1 cao3 sheng1 ， liu4 gong1 pa4 jian4 liu3 shao1 qing1 。
+- yu4 lou2 chun1 jin4 jun1 wang2 lan3 ， da4 xiao3 liang2 zhou1 bu4 ren3 ting1 。
 
 ## 注释
 

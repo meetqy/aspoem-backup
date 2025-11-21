@@ -6,21 +6,21 @@ titleSlug: wan-wang
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病身似怯暮來風，老眼還驚霽後虹。
-- 落日偏明松表裏，好山分占水西東。
+- 天墮楸枰作稻畦，啼烏振鷺當枯棋。
+- 不論勝負端何似，黑子終多白子稀。
 
 ## 拼音
 
-- bing4 shen1 si4 qie4 mu4 lai2 feng1 ， lao3 yan3 huan2 jing1 ji4 hou4 hong2 。
-- luo4 ri4 pian1 ming2 song1 biao3 li3 ， hao3 shan1 fen1 zhan4 shui3 xi1 dong1 。
+- tian1 duo4 qiu1 ping2 zuo4 dao4 qi2 ， ti2 wu1 zhen4 lu4 dang1 ku1 qi2 。
+- bu2 lun4 sheng4 fu4 duan1 he2 si4 ， hei1 zi3 zhong1 duo1 bai2 zi0 xi1 。
 
 ## 注释
 

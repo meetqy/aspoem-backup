@@ -6,10 +6,10 @@ titleSlug: guo-heng-zhou-guan-yu-jun-zhai-shi-tai-shou-pei-meng-kuang-du-yi-yu-c
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

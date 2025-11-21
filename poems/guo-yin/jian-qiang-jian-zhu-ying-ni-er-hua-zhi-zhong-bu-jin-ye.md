@@ -6,10 +6,10 @@ titleSlug: jian-qiang-jian-zhu-ying-ni-er-hua-zhi-zhong-bu-jin-ye
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

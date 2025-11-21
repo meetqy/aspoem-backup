@@ -6,10 +6,10 @@ titleSlug: xu-shen-gong-bu-zhao-jiu-hua-xu-liang-shan-ren-yin-you-he-zeng
 author: 余靖
 authorPinyin: yu2 jing4
 authorSlug: yu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

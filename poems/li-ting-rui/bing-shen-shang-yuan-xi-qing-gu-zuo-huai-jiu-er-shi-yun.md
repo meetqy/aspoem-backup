@@ -6,10 +6,10 @@ titleSlug: bing-shen-shang-yuan-xi-qing-gu-zuo-huai-jiu-er-shi-yun
 author: 黎廷瑞
 authorPinyin: li2 ting2 rui4
 authorSlug: li-ting-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

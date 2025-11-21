@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道德五千言，屢讀殊隠奧。
-- 頗能分句法，已自到微妙。
-- 治國與脩身，篇篇言上道。
-- 講解七十家，識者自知要。
+- 春來每竊抃，春去孰可喭。
+- 尋勝攬妍姿，對花得清燕。
+- 樽酒所以樂，摘植得忘倦。
+- 忽改綠陰陰，蒼苔從滿院。
 
 ## 拼音
 
-- dao4 de2 wu3 qian1 yan2 ， lü3 du2 shu1 yin3 ao4 。
-- po1 neng2 fen1 ju4 fa3 ， yi3 zi4 dao4 wei1 miao4 。
-- zhi4 guo2 yu3 xiu1 shen1 ， pian1 pian1 yan2 shang4 dao4 。
-- jiang3 jie3 qi1 shi2 jia1 ， shi2 zhe3 zi4 zhi1 yao4 。
+- chun1 lai2 mei3 qie4 bian4 ， chun1 qu4 shu2 ke3 yan4 。
+- xun2 sheng4 lan3 yan2 zi1 ， dui4 hua1 de2 qing1 yan4 。
+- zun1 jiu3 suo3 yi3 le4 ， zhai1 zhi2 de2 wang4 juan4 。
+- hu1 gai3 lü4 yin1 yin1 ， cang1 tai2 cong2 man3 yuan4 。
 
 ## 注释
 

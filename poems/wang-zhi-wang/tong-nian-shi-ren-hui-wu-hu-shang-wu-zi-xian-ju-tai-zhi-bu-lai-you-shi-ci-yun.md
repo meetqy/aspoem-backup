@@ -6,10 +6,10 @@ titleSlug: tong-nian-shi-ren-hui-wu-hu-shang-wu-zi-xian-ju-tai-zhi-bu-lai-you-sh
 author: 王之望
 authorPinyin: wang2 zhi1 wang4
 authorSlug: wang-zhi-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-fu-weng-ting
 author: 黄然
 authorPinyin: huang2 ran2
 authorSlug: huang-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

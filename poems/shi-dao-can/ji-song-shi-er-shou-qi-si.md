@@ -6,23 +6,29 @@ titleSlug: ji-song-shi-er-shou-qi-si
 author: 釋道璨
 authorPinyin: shi4 dao4 can4
 authorSlug: shi-dao-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 擾擾匆匆，晨雞暮鐘。
-- 喚冬作夏，喚夏作冬。
-- 一線短長誰管得，雪霜盡處是春風。
+- 風和日暖，牡丹生卵。
+- 露柱吹笙，燈籠拍版。
+- 城上遊人，三杯兩盞。
+- 報恩禪和，努觜不管。
+- 一念不生，前後際斷。
+- 踢倒鞏縣茶瓶，打破饒州瓷碗。
 
 ## 拼音
 
-- rao3 rao3 cong1 cong1 ， chen2 ji1 mu4 zhong1 。
-- huan4 dong1 zuo4 xia4 ， huan4 xia4 zuo4 dong1 。
-- yi2 xian4 duan3 chang2 shui2 guan3 de2 ， xue3 shuang1 jin4 chu3 shi4 chun1 feng1 。
+- feng1 he2 ri4 nuan3 ， mu3 dan1 sheng1 luan3 。
+- lu4 zhu4 chui1 sheng1 ， deng1 long2 pai1 ban3 。
+- cheng2 shang4 you2 ren2 ， san1 bei1 liang3 zhan3 。
+- bao4 en1 shan4 he2 ， nu3 zi1 bu4 guan3 。
+- yi2 nian4 bu4 sheng1 ， qian2 hou4 ji4 duan4 。
+- ti1 dao3 gong3 xian4 cha2 ping2 ， da3 po4 rao2 zhou1 ci2 wan3 。
 
 ## 注释
 

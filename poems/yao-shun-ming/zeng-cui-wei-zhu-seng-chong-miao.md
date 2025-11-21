@@ -6,10 +6,10 @@ titleSlug: zeng-cui-wei-zhu-seng-chong-miao
 author: 姚舜明
 authorPinyin: yao2 shun4 ming2
 authorSlug: yao-shun-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

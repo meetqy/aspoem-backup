@@ -6,10 +6,10 @@ titleSlug: ti-qing-xin-tang
 author: 曹修古
 authorPinyin: cao2 xiu1 gu3
 authorSlug: cao-xiu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

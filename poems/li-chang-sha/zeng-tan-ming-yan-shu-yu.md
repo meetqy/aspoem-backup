@@ -6,10 +6,10 @@ titleSlug: zeng-tan-ming-yan-shu-yu
 author: 李長沙
 authorPinyin: li3 chang2 sha1
 authorSlug: li-chang-sha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

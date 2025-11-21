@@ -6,9 +6,9 @@ titleSlug: ji-wu-shou-qi-yi
 author: 釋宗璉
 authorPinyin: shi4 zong1 lian3
 authorSlug: shi-zong-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

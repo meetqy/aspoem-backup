@@ -6,10 +6,10 @@ titleSlug: qing-bai-tang
 author: 趙子巖
 authorPinyin: zhao4 zi3 yan2
 authorSlug: zhao-zi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

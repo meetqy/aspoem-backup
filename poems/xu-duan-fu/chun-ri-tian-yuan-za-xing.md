@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing
 author: 徐端甫
 authorPinyin: xu2 duan1 fu3
 authorSlug: xu-duan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

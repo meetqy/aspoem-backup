@@ -6,21 +6,21 @@ titleSlug: shi-ti-qi-yi
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 成蹊雖無言，嫵媚隨東風。
-- 挺挺冰雪姿，所稟自不同。
+- 抱琴終日坐槐庭，萬綠陰中一掬清。
+- 天地山河俱蔭芘，肯將風浪向人生。
 
 ## 拼音
 
-- cheng2 qi1 sui1 wu2 yan2 ， wu3 mei4 sui2 dong1 feng1 。
-- ting3 ting3 bing1 xue3 zi1 ， suo3 bing3 zi4 bu4 tong2 。
+- bao4 qin2 zhong1 ri4 zuo4 huai2 ting2 ， wan4 lü4 yin1 zhong1 yi4 ju1 qing1 。
+- tian1 di4 shan1 he2 ju4 yin1 pi2 ， ken3 jiang1 feng1 lang4 xiang4 ren2 sheng1 。
 
 ## 注释
 

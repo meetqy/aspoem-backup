@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-wu
-title: 擬寒山寺  其五
-titlePinyin: ni3 han2 shan1 si4     qi2 wu3
+title: 擬寒山寺  其五○
+titlePinyin: ni3 han2 shan1 si4     qi2 wu3 ○
 titleSlug: ni-han-shan-si-qi-wu
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 佛以真實口，說法無虛謬。
-- 人天常誦持，龍神知護祐。
-- 施食放生命，決定報長壽。
-- 過酒與僧尼，後世必無手。
+- 富漢欺貧漢，南鄰瞞北鄰。
+- 斗秤有兩樣，言語無一真。
+- 大秤買他物，小斗糶與人。
+- 眼下得便宜，暗中多鬼神。
 
 ## 拼音
 
-- fo2 yi3 zhen1 shi2 kou3 ， shuo1 fa3 wu2 xu1 miu4 。
-- ren2 tian1 chang2 song4 chi2 ， long2 shen2 zhi1 hu4 you4 。
-- shi1 shi2 fang4 sheng1 ming4 ， jue2 ding4 bao4 chang2 shou4 。
-- guo4 jiu3 yu3 seng1 ni2 ， hou4 shi4 bi4 wu2 shou3 。
+- fu4 han4 qi1 pin2 han4 ， nan2 lin2 man2 bei3 lin2 。
+- dou4 cheng4 you3 liang3 yang4 ， yan2 yu3 wu2 yi4 zhen1 。
+- da4 cheng4 mai3 ta1 wu4 ， xiao3 dou4 tiao4 yu3 ren2 。
+- yan3 xia4 de2 pian2 yi0 ， an4 zhong1 duo1 gui3 shen2 。
 
 ## 注释
 

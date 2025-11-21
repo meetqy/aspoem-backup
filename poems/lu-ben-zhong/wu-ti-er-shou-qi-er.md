@@ -6,21 +6,25 @@ titleSlug: wu-ti-er-shou-qi-er
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 入秋多病渾無酒，學道無成却讀書。
-- 莫謂窮居便寂寞，天涼猶枉故人車。
+- 聖學邈難繼，斯文當望誰。
+- 還能養志氣，且務攝威儀。
+- 曾子但三省，子長徒愛奇。
+- 從來要功處，本不在多知。
 
 ## 拼音
 
-- ru4 qiu1 duo1 bing4 hun2 wu2 jiu3 ， xue2 dao4 wu2 cheng2 que4 du2 shu1 。
-- mo4 wei4 qiong2 ju1 bian4 ji4 mo4 ， tian1 liang2 you2 wang3 gu4 ren2 ju1 。
+- sheng4 xue2 miao3 nan2 ji4 ， si1 wen2 dang1 wang4 shui2 。
+- huan2 neng2 yang3 zhi4 qi4 ， qie3 wu4 she4 wei1 yi2 。
+- ceng2 zi3 dan4 san1 sheng3 ， zi3 chang2 tu2 ai4 qi2 。
+- cong2 lai2 yao4 gong1 chu3 ， ben3 bu2 zai4 duo1 zhi1 。
 
 ## 注释
 

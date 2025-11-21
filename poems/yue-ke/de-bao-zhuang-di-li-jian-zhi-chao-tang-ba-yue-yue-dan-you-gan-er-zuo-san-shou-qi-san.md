@@ -6,10 +6,10 @@ titleSlug: de-bao-zhuang-di-li-jian-zhi-chao-tang-ba-yue-yue-dan-you-gan-er-zuo-
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

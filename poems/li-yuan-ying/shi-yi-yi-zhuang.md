@@ -6,10 +6,10 @@ titleSlug: shi-yi-yi-zhuang
 author: 李元膺
 authorPinyin: li3 yuan2 ying1
 authorSlug: li-yuan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

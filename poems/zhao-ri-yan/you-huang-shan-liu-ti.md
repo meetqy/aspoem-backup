@@ -6,10 +6,10 @@ titleSlug: you-huang-shan-liu-ti
 author: 趙日巖
 authorPinyin: zhao4 ri4 yan2
 authorSlug: zhao-ri-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

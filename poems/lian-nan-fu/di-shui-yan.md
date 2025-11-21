@@ -6,10 +6,10 @@ titleSlug: di-shui-yan
 author: 連南夫
 authorPinyin: lian2 nan2 fu1
 authorSlug: lian-nan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

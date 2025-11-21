@@ -6,21 +6,25 @@ titleSlug: tian-jia
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南山嘗種豆，碎莢落風雨。
-- 空收一束萁，無物充煎釜。
+- 高樹蔭柴扉，青苔照落暉。
+- 荷鋤山月上，尋徑野煙微。
+- 老叟扶童望，羸牛带犢歸。
+- 燈前飯何有，白薤露中肥。
 
 ## 拼音
 
-- nan2 shan1 chang2 zhong3 dou4 ， sui4 jia2 luo4 feng1 yu3 。
-- kong1 shou1 yi2 shu4 qi2 ， wu2 wu4 chong1 jian1 fu3 。
+- gao1 shu4 yin1 chai2 fei1 ， qing1 tai2 zhao4 luo4 hui1 。
+- he2 chu2 shan1 yue4 shang4 ， xun2 jing4 ye3 yan1 wei1 。
+- lao3 sou3 fu2 tong2 wang4 ， lei2 niu2 dai4 du2 gui1 。
+- deng1 qian2 fan4 he2 you3 ， bai2 xie4 lu4 zhong1 fei2 。
 
 ## 注释
 

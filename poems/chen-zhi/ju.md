@@ -3,22 +3,22 @@ id: chen-zhi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳植
-authorPinyin: chen2 zhi2
+author: 陳至
+authorPinyin: chen2 zhi4
 authorSlug: chen-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天際三竿量日月，人間一鏡照山河。
+- 藻井尚寒龍跡在，紅樓初施日光通。
 
 ## 拼音
 
-- tian1 ji4 san1 gan1 liang2 ri4 yue4 ， ren2 jian4 yi2 jing4 zhao4 shan1 he2 。
+- zao3 jing3 shang4 han2 long2 ji4 zai4 ， hong2 lou2 chu1 shi1 ri4 guang1 tong1 。
 
 ## 注释
 

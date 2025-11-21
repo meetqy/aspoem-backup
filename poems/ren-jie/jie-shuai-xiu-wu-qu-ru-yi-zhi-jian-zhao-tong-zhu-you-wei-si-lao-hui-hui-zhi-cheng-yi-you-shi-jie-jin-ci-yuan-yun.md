@@ -6,10 +6,10 @@ titleSlug: jie-shuai-xiu-wu-qu-ru-yi-zhi-jian-zhao-tong-zhu-you-wei-si-lao-hui-h
 author: 任傑
 authorPinyin: ren4 jie2
 authorSlug: ren-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xin-chi-feng-xi
 author: 陳夢庚
 authorPinyin: chen2 meng4 geng1
 authorSlug: chen-meng-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

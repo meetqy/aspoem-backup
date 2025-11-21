@@ -1,26 +1,26 @@
 ---
 id: lu-you-yan-bo-ji-shi-shi-shou-qi-yi
-title: 烟波即事十首  其一
-titlePinyin: yan1 bo1 ji2 shi4 shi2 shou3     qi2 yi1
+title: 烟波即事十首  其一○
+titlePinyin: yan1 bo1 ji2 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: yan-bo-ji-shi-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 短髮垂肩不裹巾，世人誰識此翁真。
-- 阻風江浦詩成束，賣藥山城醉過春。
+- 父子團欒到死時，漁家可樂更何疑。
+- 高文大策人皆有，且聽烟波十絕詩。
 
 ## 拼音
 
-- duan3 fa4 chui2 jian1 bu4 guo3 jin1 ， shi4 ren2 shui2 shi2 ci3 weng1 zhen1 。
-- zu3 feng1 jiang1 pu3 shi1 cheng2 shu4 ， mai4 yao4 shan1 cheng2 zui4 guo4 chun1 。
+- fu4 zi3 tuan2 luan2 dao4 si3 shi2 ， yu2 jia1 ke3 le4 geng4 he2 yi2 。
+- gao1 wen2 da4 ce4 ren2 jie1 you3 ， qie3 ting1 yan1 bo1 shi2 jue2 shi1 。
 
 ## 注释
 

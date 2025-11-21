@@ -6,10 +6,10 @@ titleSlug: ming-ri-chu-cheng-ai-qi-ping-sha-qian-shui-you-qian-tang-xi-hu-qi-xia
 author: 衛博
 authorPinyin: wei4 bo2
 authorSlug: wei-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

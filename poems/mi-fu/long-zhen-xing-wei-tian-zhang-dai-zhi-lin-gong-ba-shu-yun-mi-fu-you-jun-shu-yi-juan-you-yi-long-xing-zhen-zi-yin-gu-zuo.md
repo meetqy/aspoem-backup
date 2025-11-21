@@ -6,10 +6,10 @@ titleSlug: long-zhen-xing-wei-tian-zhang-dai-zhi-lin-gong-ba-shu-yun-mi-fu-you-j
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

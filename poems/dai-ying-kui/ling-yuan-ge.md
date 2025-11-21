@@ -6,10 +6,10 @@ titleSlug: ling-yuan-ge
 author: 戴應魁
 authorPinyin: dai4 ying1 kui2
 authorSlug: dai-ying-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

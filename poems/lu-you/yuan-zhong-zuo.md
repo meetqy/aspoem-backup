@@ -6,25 +6,25 @@ titleSlug: yuan-zhong-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽禽啼不去，紅蕊落還開。
-- 意適時時醉，身閑日日來。
-- 著書增水品，披句覓榿栽。
-- 消息吾兒近，扶衰又上臺。
+- 紗巾一幅立斜陽，本尚無閑况有忙。
+- 鷄犬往來空自得，禽魚翔泳各相忘。
+- 欲衰莎草無多綠，未落梧桐已半黄。
+- 徂歲匆匆成絕嘆，瓦溝行復見新霜。
 
 ## 拼音
 
-- you1 qin2 ti2 bu2 qu4 ， hong2 rui3 luo4 huan2 kai1 。
-- yi4 shi4 shi2 shi2 zui4 ， shen1 xian2 ri4 ri4 lai2 。
-- zhu4 shu1 zeng1 shui3 pin3 ， pi1 ju4 mi4 qi1 zai1 。
-- xiao1 xi0 wu2 er2 jin4 ， fu2 shuai1 you4 shang4 tai2 。
+- sha1 jin1 yi4 fu2 li4 xie2 yang2 ， ben3 shang4 wu2 xian2 kuang4 you3 mang2 。
+- ji1 quan3 wang3 lai2 kong1 zi4 de2 ， qin2 yu2 xiang2 yong3 ge4 xiang1 wang4 。
+- yu4 shuai1 sha1 cao3 wu2 duo1 lü4 ， wei4 luo4 wu2 tong2 yi3 ban4 huang2 。
+- cu2 sui4 cong1 cong1 cheng2 jue2 tan4 ， wa3 gou1 xing2 fu4 jian4 xin1 shuang1 。
 
 ## 注释
 

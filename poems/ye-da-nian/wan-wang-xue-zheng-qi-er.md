@@ -6,10 +6,10 @@ titleSlug: wan-wang-xue-zheng-qi-er
 author: 葉大年
 authorPinyin: ye4 da4 nian2
 authorSlug: ye-da-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

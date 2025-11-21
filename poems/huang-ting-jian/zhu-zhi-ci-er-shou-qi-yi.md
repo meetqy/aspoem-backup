@@ -6,21 +6,21 @@ titleSlug: zhu-zhi-ci-er-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 撐崖拄谷蝮蛇愁，入箐攀天猿掉頭。
-- 鬼門關外莫言遠，五十三驛是皇州。
+- 三峽猿聲淚欲流，夔州竹枝解人愁。
+- 渠儂自有回天力，不學垂楊繞指柔。
 
 ## 拼音
 
-- cheng1 ya2 zhu3 gu3 fu4 she2 chou2 ， ru4 jing1 pan1 tian1 yuan2 diao4 tou2 。
-- gui3 men2 guan1 wai4 mo4 yan2 yuan3 ， wu3 shi2 san1 yi4 shi4 huang2 zhou1 。
+- san1 xia2 yuan2 sheng1 lei4 yu4 liu2 ， kui2 zhou1 zhu2 zhi1 jie3 ren2 chou2 。
+- qu2 nong2 zi4 you3 hui2 tian1 li4 ， bu4 xue2 chui2 yang2 rao4 zhi3 rou2 。
 
 ## 注释
 

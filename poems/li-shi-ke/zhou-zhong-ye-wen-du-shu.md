@@ -6,10 +6,10 @@ titleSlug: zhou-zhong-ye-wen-du-shu
 author: 李時可
 authorPinyin: li3 shi2 ke3
 authorSlug: li-shi-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

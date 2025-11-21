@@ -6,10 +6,10 @@ titleSlug: song-huang-yu-mi-xiao-tai-ping-li-yuan-jian-jian-fa-yuan-li-bo-yuan
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

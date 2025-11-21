@@ -6,10 +6,10 @@ titleSlug: feng-ming-dong
 author: 史昌卿
 authorPinyin: shi3 chang1 qing1
 authorSlug: shi-chang-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

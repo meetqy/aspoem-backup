@@ -1,32 +1,30 @@
 ---
 id: shi-hui-yuan-shan-ren-xie-shi-zhen-qing-zan-qi-yi
-title: 禪人寫師真請讚  其一
-titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 yi1
+title: 禪人寫師真請讚  其一○
+titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 yi1 ○
 titleSlug: shan-ren-xie-shi-zhen-qing-zan-qi-yi
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早依圜悟，晚住林泉。
-- 無門雪屈，遍界聲冤。
-- 對天子廓摩醯首羅眼，提楊岐金圈栗棘蓬禪。
-- 神仙秘訣，父子不傳。
-- 平地放開縛虎手，等閑迸出攔胸拳。
+- 冷笑德山，熱謾臨濟。
+- 頭重尾輕，碗鳴𡱰沸。
+- 明侍者，透天機，八十翁翁巧畫眉。
+- 掀翻師子窟，倒跨瞎馿兒。
 
 ## 拼音
 
-- zao3 yi1 huan2 wu4 ， wan3 zhu4 lin2 quan2 。
-- wu2 men2 xue3 qu1 ， bian4 jie4 sheng1 yuan1 。
-- dui4 tian1 zi3 kuo4 mo2 xi1 shou3 luo2 yan3 ， ti2 yang2 qi2 jin1 quan1 li4 ji2 peng2 shan4 。
-- shen2 xian1 mi4 jue2 ， fu4 zi3 bu4 chuan2 。
-- ping2 di4 fang4 kai1 fu4 hu3 shou3 ， deng3 xian2 beng4 chu1 lan2 xiong1 quan2 。
+- leng3 xiao4 de2 shan1 ， re4 man2 lin2 ji4 。
+- tou2 zhong4 wei3 qing1 ， wan3 ming2 𡱰 fei4 。
+- ming2 shi4 zhe3 ， tou4 tian1 ji1 ， ba1 shi2 weng1 weng1 qiao3 hua4 mei2 。
+- xian1 fan1 shi1 zi3 ku1 ， dao3 kua4 xia1 lu2 er2 。
 
 ## 注释
 

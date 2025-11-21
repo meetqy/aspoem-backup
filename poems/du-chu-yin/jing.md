@@ -6,10 +6,10 @@ titleSlug: jing
 author: 杜樗隠
 authorPinyin: du4 chu1 yin3
 authorSlug: du-chu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: zong-bi-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 背上嵯峨兩肉山，明駞有債自須還。
-- 玉霄峰頭雪色鹿，清曉一聲烟雨間。
+- 薙草除枯葉，勞人亦動心。
+- 無愁疏把酒，習懶罷彈琴。
+- 濯垢臨溪水，追凉就木陰。
+- 常尋省力處，外物孰能侵。
 
 ## 拼音
 
-- bei4 shang4 cuo2 e2 liang3 rou4 shan1 ， ming2 tuo2 you3 zhai4 zi4 xu1 huan2 。
-- yu4 xiao1 feng1 tou2 xue3 se4 lu4 ， qing1 xiao3 yi4 sheng1 yan1 yu3 jian4 。
+- ti4 cao3 chu2 ku1 ye4 ， lao2 ren2 yi4 dong4 xin1 。
+- wu2 chou2 shu1 ba3 jiu3 ， xi2 lan3 ba4 dan4 qin2 。
+- zhuo2 gou4 lin2 xi1 shui3 ， zhui1 liang2 jiu4 mu4 yin1 。
+- chang2 xun2 sheng3 li4 chu3 ， wai4 wu4 shu2 neng2 qin1 。
 
 ## 注释
 

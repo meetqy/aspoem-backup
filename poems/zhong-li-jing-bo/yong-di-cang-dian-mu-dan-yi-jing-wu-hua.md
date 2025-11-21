@@ -6,10 +6,10 @@ titleSlug: yong-di-cang-dian-mu-dan-yi-jing-wu-hua
 author: 鍾離景伯
 authorPinyin: zhong1 li2 jing3 bo2
 authorSlug: zhong-li-jing-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-zi-yan
 author: 黄夢攸
 authorPinyin: huang2 meng4 you1
 authorSlug: huang-meng-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

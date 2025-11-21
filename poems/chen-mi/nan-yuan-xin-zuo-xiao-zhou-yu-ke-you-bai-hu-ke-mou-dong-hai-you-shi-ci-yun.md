@@ -6,10 +6,10 @@ titleSlug: nan-yuan-xin-zuo-xiao-zhou-yu-ke-you-bai-hu-ke-mou-dong-hai-you-shi-c
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

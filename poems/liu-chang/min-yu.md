@@ -6,29 +6,25 @@ titleSlug: min-yu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長夏炎氣隆，高田劇焚燒。
-- 惜哉淮海卑，無力能沃焦。
-- 起顧郊野間，離離悉苞蕭。
-- 日夕多狂風，飛塵蔽招搖。
-- 誰能起蛟龍，雷雨蘇宿苗。
-- 眇然坐自想，幽意增煩歊。
+- 膚寸無時合，昭回此夜逢。
+- 春秋還閔雨，郡國共憂農。
+- 詞欲讒風伯，書將詰亂龍。
+- 關西兵税急，懼失萬餘鍾。
 
 ## 拼音
 
-- chang2 xia4 yan2 qi4 long2 ， gao1 tian2 ju4 fen2 shao1 。
-- xi1 zai1 huai2 hai3 bei1 ， wu2 li4 neng2 wo4 jiao1 。
-- qi3 gu4 jiao1 ye3 jian4 ， li2 li2 xi1 bao1 xiao1 。
-- ri4 xi1 duo1 kuang2 feng1 ， fei1 chen2 bi4 zhao1 yao2 。
-- shui2 neng2 qi3 jiao1 long2 ， lei2 yu3 su1 su4 miao2 。
-- miao3 ran2 zuo4 zi4 xiang3 ， you1 yi4 zeng1 fan2 xiao1 。
+- fu1 cun4 wu2 shi2 he2 ， zhao1 hui2 ci3 ye4 feng2 。
+- chun1 qiu1 huan2 min3 yu3 ， jun4 guo2 gong4 you1 nong2 。
+- ci2 yu4 chan2 feng1 bo2 ， shu1 jiang1 jie2 luan4 long2 。
+- guan1 xi1 bing1 shui4 ji2 ， ju4 shi1 wan4 yu2 zhong1 。
 
 ## 注释
 

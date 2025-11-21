@@ -9,22 +9,22 @@ authorSlug: li-bai
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春陽如昨日，碧樹鳴黃鸝。
-- 蕪然蕙草暮，颯爾涼風吹。
-- 天秋木葉下，月冷莎雞悲。
-- 坐愁羣芳歇，白露凋華滋。
+- 燕支黃葉落，妾望自登臺。
+- 海上碧雲斷，單于秋色來。
+- 胡兵沙塞合，漢使玉關回。
+- 征客無歸日，空悲蕙草摧。
 
 ## 拼音
 
-- chun1 yang2 ru2 zuo2 ri4 ， bi4 shu4 ming2 huang2 li2 。
-- wu2 ran2 hui4 cao3 mu4 ， sa4 er3 liang2 feng1 chui1 。
-- tian1 qiu1 mu4 ye4 xia4 ， yue4 leng3 sha1 ji1 bei1 。
-- zuo4 chou2 qun2 fang1 xie1 ， bai2 lu4 diao1 hua2 zi1 。
+- yan4 zhi1 huang2 ye4 luo4 ， qie4 wang4 zi4 deng1 tai2 。
+- hai3 shang4 bi4 yun2 duan4 ， dan1 yu2 qiu1 se4 lai2 。
+- hu2 bing1 sha1 sai1 he2 ， han4 shi3 yu4 guan1 hui2 。
+- zheng1 ke4 wu2 gui1 ri4 ， kong1 bei1 hui4 cao3 cui1 。
 
 ## 注释
 

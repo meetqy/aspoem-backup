@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠槐陰合正炎曦，高疊盆冰匝座圍。
-- 沉李浮瓜清玉檻，水晶宮殿正忘機。
+- 九重城闕壯端門，霽色榮光瑞景分。
+- 一望葱葱佳氣裏，樓臺常恐碍行雲。
 
 ## 拼音
 
-- lü4 huai2 yin1 he2 zheng4 yan2 xi1 ， gao1 die2 pen2 bing1 za1 zuo4 wei2 。
-- chen2 li3 fu2 gua1 qing1 yu4 jian4 ， shui3 jing1 gong1 dian4 zheng4 wang4 ji1 。
+- jiu3 chong2 cheng2 que4 zhuang4 duan1 men2 ， ji4 se4 rong2 guang1 rui4 jing3 fen1 。
+- yi2 wang4 cong1 cong1 jia1 qi4 li3 ， lou2 tai2 chang2 kong3 ai4 xing2 yun2 。
 
 ## 注释
 

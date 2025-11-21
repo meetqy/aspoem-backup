@@ -6,25 +6,21 @@ titleSlug: zhou-zhong
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲買一江碧，不知須幾錢。
-- 舟輕故款款，酒好但涓涓。
-- 雲脚他州雨，波光別岸天。
-- 漁謳與樵唱，同和小山篇。
+- 販鹽賈客夜吹笛，賣菱女兒朝刺船。
+- 沽酒得魚能不醉，幾錢堪買此江天。
 
 ## 拼音
 
-- yu4 mai3 yi4 jiang1 bi4 ， bu4 zhi1 xu1 ji1 qian2 。
-- zhou1 qing1 gu4 kuan3 kuan3 ， jiu3 hao3 dan4 juan1 juan1 。
-- yun2 jiao3 ta1 zhou1 yu3 ， bo1 guang1 bie2 an4 tian1 。
-- yu2 ou1 yu3 qiao2 chang4 ， tong2 he2 xiao3 shan1 pian1 。
+- fan4 yan2 jia3 ke4 ye4 chui1 di2 ， mai4 ling2 nü3 er2 chao2 ci4 chuan2 。
+- gu1 jiu3 de2 yu2 neng2 bu2 zui4 ， ji1 qian2 kan1 mai3 ci3 jiang1 tian1 。
 
 ## 注释
 

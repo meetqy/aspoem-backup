@@ -6,10 +6,10 @@ titleSlug: wei-huang-yan-ren-man-jia-da-ren-xian-gui-zuo-shi-yi-shi-gong-ci-yuan
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

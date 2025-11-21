@@ -1,30 +1,30 @@
 ---
 id: wei-xiang-yong-ying
-title: 詠螢
-titlePinyin: yong3 ying2
+title: 詠影
+titlePinyin: yong3 ying3
 titleSlug: yong-ying
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩作東山事已賒，宵行今復動誰嗟。
-- 秋高黨類縱横出，月黑光芒斗頓加。
-- 風觸羣飛迸星火，水澄亂影漾金沙。
-- 區區曾有分輝客，晉室寒儒本姓車。
+- 所賦一何鈞，悠悠各一身。
+- 行藏寧逆物，進退本由人。
+- 向晦都忘累，逢明固任真。
+- 含沙尙能禍，辨早莫因循。
 
 ## 拼音
 
-- shi1 zuo4 dong1 shan1 shi4 yi3 she1 ， xiao1 xing2 jin1 fu4 dong4 shui2 jie1 。
-- qiu1 gao1 dang3 lei4 zong4 heng2 chu1 ， yue4 hei1 guang1 mang2 dou4 dun4 jia1 。
-- feng1 chu4 qun2 fei1 beng4 xing1 huo3 ， shui3 cheng2 luan4 ying3 yang4 jin1 sha1 。
-- qu1 qu1 ceng2 you3 fen1 hui1 ke4 ， jin4 shi4 han2 ru2 ben3 xing4 ju1 。
+- suo3 fu4 yi4 he2 jun1 ， you1 you1 ge4 yi4 shen1 。
+- xing2 cang2 ning2 ni4 wu4 ， jin4 tui4 ben3 you2 ren2 。
+- xiang4 hui4 dou1 wang4 lei4 ， feng2 ming2 gu4 ren4 zhen1 。
+- han2 sha1 shang4 neng2 huo4 ， bian4 zao3 mo4 yin1 xun2 。
 
 ## 注释
 

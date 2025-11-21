@@ -6,10 +6,10 @@ titleSlug: he-shu
 author: 岑全
 authorPinyin: cen2 quan2
 authorSlug: cen-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

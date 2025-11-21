@@ -6,25 +6,25 @@ titleSlug: jiu-yu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祇憶風回雪，俄驚地出雷。
-- 沈陰連甲子，春事總歸來。
-- 湖水寒侵夜，江雲去復回。
-- 開年厭卑濕，不待熟黄梅。
+- 長至須臾二月來，朔雲零雨未嘗開。
+- 陰藏晝景長繡線，寒奪陽和潛律灰。
+- 宿翼困冰多後鴈，暗香漂水惜殘梅。
+- 撩晴召暖無他術，安得凉風一夜回。
 
 ## 拼音
 
-- qi2 yi4 feng1 hui2 xue3 ， e2 jing1 di4 chu1 lei2 。
-- shen3 yin1 lian2 jia3 zi3 ， chun1 shi4 zong3 gui1 lai2 。
-- hu2 shui3 han2 qin1 ye4 ， jiang1 yun2 qu4 fu4 hui2 。
-- kai1 nian2 yan4 bei1 shi1 ， bu2 dai4 shu2 huang2 mei2 。
+- chang2 zhi4 xu1 yu2 er4 yue4 lai2 ， shuo4 yun2 ling2 yu3 wei4 chang2 kai1 。
+- yin1 cang2 zhou4 jing3 chang2 xiu4 xian4 ， han2 duo2 yang2 he2 qian2 lü4 hui1 。
+- su4 yi4 kun4 bing1 duo1 hou4 yan4 ， an4 xiang1 piao1 shui3 xi1 can2 mei2 。
+- liao2 qing2 zhao4 nuan3 wu2 ta1 shu4 ， an1 de2 liang2 feng1 yi2 ye4 hui2 。
 
 ## 注释
 

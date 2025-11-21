@@ -6,10 +6,10 @@ titleSlug: dong-pian-xiao-shi-qu-ri-zui-yuan-mei-wei-tao-shu-zhi-di-xi-zuo-wu-zi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

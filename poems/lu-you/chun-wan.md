@@ -6,25 +6,25 @@ titleSlug: chun-wan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五十六翁身百憂，年来轉覺此生浮。
-- 山川信美故鄉遠，天地無情雙鬢秋。
-- 社後燕如歸客至，春殘花不爲人留。
-- 一觴一詠從来事，莫笑扶衰又上樓。
+- 落絮飛花又滿城，年光大半付春酲。
+- 蹇馿閑後詩情減，陣馬拋來髀肉生。
+- 少日雕蟲真小技，暮年畫餠更虛名。
+- 囊中幸有黄庭在，安得高人與細評。
 
 ## 拼音
 
-- wu3 shi2 liu4 weng1 shen1 bai3 you1 ， nian2 lai2 zhuan3 jue2 ci3 sheng1 fu2 。
-- shan1 chuan1 xin4 mei3 gu4 xiang1 yuan3 ， tian1 di4 wu2 qing2 shuang1 bin4 qiu1 。
-- she4 hou4 yan4 ru2 gui1 ke4 zhi4 ， chun1 can2 hua1 bu4 wei2 ren2 liu2 。
-- yi4 shang1 yi4 yong3 cong2 lai2 shi4 ， mo4 xiao4 fu2 shuai1 you4 shang4 lou2 。
+- luo4 xu4 fei1 hua1 you4 man3 cheng2 ， nian2 guang1 da4 ban4 fu4 chun1 cheng2 。
+- jian3 lu2 xian2 hou4 shi1 qing2 jian3 ， zhen4 ma3 pao1 lai2 bi4 rou4 sheng1 。
+- shao3 ri4 diao1 chong2 zhen1 xiao3 ji4 ， mu4 nian2 hua4 bing3 geng4 xu1 ming2 。
+- nang2 zhong1 xing4 you3 huang2 ting2 zai4 ， an1 de2 gao1 ren2 yu3 xi4 ping2 。
 
 ## 注释
 

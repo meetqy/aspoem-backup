@@ -1,24 +1,24 @@
 ---
 id: gao-si-sun-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 高似孫
 authorPinyin: gao1 si4 sun1
 authorSlug: gao-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小山花落渠如別，右手螯香我欠肥。
+- 豆蔻雨分霽，翠蟳雪炊香。
 
 ## 拼音
 
-- xiao3 shan1 hua1 luo4 qu2 ru2 bie2 ， you4 shou3 ao2 xiang1 wo3 qian4 fei2 。
+- dou4 kou4 yu3 fen1 ji4 ， cui4 xun2 xue3 chui1 xiang1 。
 
 ## 注释
 

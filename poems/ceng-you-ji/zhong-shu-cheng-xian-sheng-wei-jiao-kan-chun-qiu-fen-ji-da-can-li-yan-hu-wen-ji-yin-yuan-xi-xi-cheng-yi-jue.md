@@ -6,10 +6,10 @@ titleSlug: zhong-shu-cheng-xian-sheng-wei-jiao-kan-chun-qiu-fen-ji-da-can-li-yan
 author: 曾由基
 authorPinyin: ceng2 you2 ji1
 authorSlug: ceng-you-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

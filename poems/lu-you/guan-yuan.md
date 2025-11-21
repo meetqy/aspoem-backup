@@ -6,21 +6,25 @@ titleSlug: guan-yuan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少攜一劍行天下，晚落空村學灌園。
-- 交舊凋零身老病，輪囷肝膽與誰論。
+- 八十身猶健，生涯學灌園。
+- 溪風吹短褐，村雨暗衡門。
+- 眼正魔軍怖，心安疾豎奔。
+- 午窗無一事，梨棗弄諸孫。
 
 ## 拼音
 
-- shao3 xie2 yi2 jian4 xing2 tian1 xia4 ， wan3 luo4 kong1 cun1 xue2 guan4 yuan2 。
-- jiao1 jiu4 diao1 ling2 shen1 lao3 bing4 ， lun2 qun1 gan1 dan3 yu3 shui2 lun4 。
+- ba1 shi2 shen1 you2 jian4 ， sheng1 ya2 xue2 guan4 yuan2 。
+- xi1 feng1 chui1 duan3 he4 ， cun1 yu3 an4 heng2 men2 。
+- yan3 zheng4 mo2 jun1 bu4 ， xin1 an1 ji2 shu4 ben1 。
+- wu3 chuang1 wu2 yi2 shi4 ， li2 zao3 nong4 zhu1 sun1 。
 
 ## 注释
 

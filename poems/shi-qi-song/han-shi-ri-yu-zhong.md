@@ -6,10 +6,10 @@ titleSlug: han-shi-ri-yu-zhong
 author: 釋契嵩
 authorPinyin: shi4 qi4 song1
 authorSlug: shi-qi-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

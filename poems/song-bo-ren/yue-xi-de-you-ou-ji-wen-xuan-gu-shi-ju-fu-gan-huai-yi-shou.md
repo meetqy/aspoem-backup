@@ -6,10 +6,10 @@ titleSlug: yue-xi-de-you-ou-ji-wen-xuan-gu-shi-ju-fu-gan-huai-yi-shou
 author: 宋伯仁
 authorPinyin: song4 bo2 ren2
 authorSlug: song-bo-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

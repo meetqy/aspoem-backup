@@ -6,21 +6,21 @@ titleSlug: yu-tui-fu-sheng-ri-qi-er
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雍公匹馬立乾坤，善念熏蒸到子孫。
-- 富貴君家餘事耳，更將此念植仍昆。
+- 初度重逢巽上坤，庭闈應念子生孫。
+- 好將吉語傳金母，更把歸音報玉昆。
 
 ## 拼音
 
-- yong1 gong1 pi3 ma3 li4 qian2 kun1 ， shan4 nian4 xun1 zheng1 dao4 zi3 sun1 。
-- fu4 gui4 jun1 jia1 yu2 shi4 er3 ， geng4 jiang1 ci3 nian4 zhi2 reng2 kun1 。
+- chu1 du4 chong2 feng2 xun4 shang4 kun1 ， ting2 wei2 ying1 nian4 zi3 sheng1 sun1 。
+- hao3 jiang1 ji2 yu3 chuan2 jin1 mu3 ， geng4 ba3 gui1 yin1 bao4 yu4 kun1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: da-nian-qi-nian-ge-fu-chang-pian-tou-ming-shi-she-zhong-gu-jing-fan-j
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xuan-cheng-li-jun-chang-you-dong-hu-ju-shi-zhi-men-xiu-shi-jian-guo-c
 author: 呂祖謙
 authorPinyin: lü3 zu3 qian1
 authorSlug: lu-zu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

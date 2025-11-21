@@ -6,10 +6,10 @@ titleSlug: ti-feng-shan-shu-yuan-xiu-xi-tu
 author: 曾宏父
 authorPinyin: ceng2 hong2 fu4
 authorSlug: ceng-hong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

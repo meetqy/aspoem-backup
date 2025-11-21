@@ -1,36 +1,36 @@
 ---
 id: lu-you-you-ju-ji-jin-xi-shi-shi-shou-yi-shi-shu-cong-su-hao-lin-yuan-wu-su-qing-wei-yun-qi-yi
-title: 幽居記今昔事十首以詩書從宿好林園無俗情爲韵  其一
-titlePinyin: you1 ju1 ji4 jin1 xi1 shi4 shi2 shou3 yi3 shi1 shu1 cong2 su4 hao3 lin2 yuan2 wu2 su2 qing2 wei2 yun4     qi2 yi1
+title: 幽居記今昔事十首以詩書從宿好林園無俗情爲韵  其一○
+titlePinyin: you1 ju1 ji4 jin1 xi1 shi4 shi2 shou3 yi3 shi1 shu1 cong2 su4 hao3 lin2 yuan2 wu2 su2 qing2 wei2 yun4     qi2 yi1 ○
 titleSlug: you-ju-ji-jin-xi-shi-shi-shou-yi-shi-shu-cong-su-hao-lin-yuan-wu-su-qing-wei-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 總角入家塾，學經至豳詩。
-- 治道本耕桑，此理在不疑。
-- 今茲垂九十，謝事居海涯。
-- 戴星理農業，未嘆筋力衰。
-- 四月築麥場，五月潴稻陂。
-- 秉火去螟蝗，磨刀剪棘茨。
-- 西成大作社，歌鼓樂聖時。
+- 少小喜讀書，終夜守短檠。
+- 其實無甚解，不幸誤有聲。
+- 勞苦亦何得，空失東皋耕。
+- 暮年乃小黠，告歸學養生。
+- 采藥作遠游，把釣適幽情。
+- 高樓笛數曲，小軒棋一枰。
+- 餘年置勿憂，不卿何由烹。
 
 ## 拼音
 
-- zong3 jiao3 ru4 jia1 shu2 ， xue2 jing1 zhi4 bin1 shi1 。
-- zhi4 dao4 ben3 geng1 sang1 ， ci3 li3 zai4 bu4 yi2 。
-- jin1 zi1 chui2 jiu3 shi2 ， xie4 shi4 ju1 hai3 ya2 。
-- dai4 xing1 li3 nong2 ye4 ， wei4 tan4 jin1 li4 shuai1 。
-- si4 yue4 zhu4 mai4 chang3 ， wu3 yue4 zhu1 dao4 bei1 。
-- bing3 huo3 qu4 ming2 huang2 ， mo2 dao1 jian3 ji2 ci2 。
-- xi1 cheng2 da4 zuo4 she4 ， ge1 gu3 le4 sheng4 shi2 。
+- shao3 xiao3 xi3 du2 shu1 ， zhong1 ye4 shou3 duan3 qing2 。
+- qi2 shi2 wu2 shen4 jie3 ， bu2 xing4 wu4 you3 sheng1 。
+- lao2 ku3 yi4 he2 de2 ， kong1 shi1 dong1 gao1 geng1 。
+- mu4 nian2 nai3 xiao3 xia2 ， gao4 gui1 xue2 yang3 sheng1 。
+- cai3 yao4 zuo4 yuan3 you2 ， ba3 diao4 shi4 you1 qing2 。
+- gao1 lou2 di2 shu4 qu3 ， xiao3 xuan1 qi2 yi4 ping2 。
+- yu2 nian2 zhi4 wu4 you1 ， bu4 qing1 he2 you2 peng1 。
 
 ## 注释
 

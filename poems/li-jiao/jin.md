@@ -1,7 +1,7 @@
 ---
 id: li-jiao-jin
-title: 金
-titlePinyin: jin1
+title: 錦
+titlePinyin: jin3
 titleSlug: jin
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 南楚標前貢，西秦識舊城。
-- 祭天封漢嶺，擲地警孫聲。
-- 向日披沙淨，含風振鐸鳴。
-- 方同楊伯起，獨有四知名。
+- 漢使巾車遠，河陽步障陳。
+- 雲浮仙石日，霞滿蜀江春。
+- 機迥回文巧，紳兼束髪新。
+- 若逢楚王貴，不作夜行人。
 
 ## 拼音
 
-- nan2 chu3 biao1 qian2 gong4 ， xi1 qin2 shi2 jiu4 cheng2 。
-- ji4 tian1 feng1 han4 ling3 ， zhi4 di4 jing3 sun1 sheng1 。
-- xiang4 ri4 pi1 sha1 jing4 ， han2 feng1 zhen4 duo2 ming2 。
-- fang1 tong2 yang2 bo2 qi3 ， du2 you3 si4 zhi1 ming2 。
+- han4 shi3 jin1 ju1 yuan3 ， he2 yang2 bu4 zhang4 chen2 。
+- yun2 fu2 xian1 shi2 ri4 ， xia2 man3 shu3 jiang1 chun1 。
+- ji1 jiong3 hui2 wen2 qiao3 ， shen1 jian1 shu4 fa4 xin1 。
+- ruo4 feng2 chu3 wang2 gui4 ， bu2 zuo4 ye4 xing2 ren2 。
 
 ## 注释
 

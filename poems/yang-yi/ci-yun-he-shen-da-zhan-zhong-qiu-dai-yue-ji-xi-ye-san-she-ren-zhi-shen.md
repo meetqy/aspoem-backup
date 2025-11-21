@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-shen-da-zhan-zhong-qiu-dai-yue-ji-xi-ye-san-she-ren-zhi-she
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zi-bie-mu-cheng-suo-weng-chen-xian-sheng
 author: 宋蒲壽宬
 authorPinyin: song4 pu2 shou4 cheng2
 authorSlug: song-pu-shou-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

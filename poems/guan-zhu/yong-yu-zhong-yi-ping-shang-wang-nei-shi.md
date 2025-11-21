@@ -6,9 +6,9 @@ titleSlug: yong-yu-zhong-yi-ping-shang-wang-nei-shi
 author: 關注
 authorPinyin: guan1 zhu4
 authorSlug: guan-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

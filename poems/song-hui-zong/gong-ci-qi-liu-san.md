@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 繡栭丹栱盡瑰材，百步廻廊錦帳開。
-- 萬炬絳紗星粲粲，拱環翠碧下樓臺。
+- 象蹋冰盤四面涼，風搖槐影蘸蓮塘。
+- 玉顔一枕遊仙夢，誰覺炎天畏日長。
 
 ## 拼音
 
-- xiu4 er2 dan1 gong3 jin4 gui1 cai2 ， bai3 bu4 hui2 lang2 jin3 zhang4 kai1 。
-- wan4 ju4 jiang4 sha1 xing1 can4 can4 ， gong3 huan2 cui4 bi4 xia4 lou2 tai2 。
+- xiang4 ta4 bing1 pan2 si4 mian4 liang2 ， feng1 yao2 huai2 ying3 zhan4 lian2 tang2 。
+- yu4 yan2 yi4 zhen3 you2 xian1 meng4 ， shui2 jue2 yan2 tian1 wei4 ri4 chang2 。
 
 ## 注释
 

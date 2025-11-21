@@ -6,10 +6,10 @@ titleSlug: sheng-xiao-er-shi
 author: 賀德英
 authorPinyin: he4 de2 ying1
 authorSlug: he-de-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

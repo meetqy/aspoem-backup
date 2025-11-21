@@ -6,10 +6,10 @@ titleSlug: song-cai-jun-mo-qi-er
 author: 福建士人
 authorPinyin: fu2 jian4 shi4 ren2
 authorSlug: fu-jian-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

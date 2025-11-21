@@ -1,30 +1,30 @@
 ---
 id: jiao-miao-chao-hui-ge-ci-bao-you-er-nian-huang-zi-guan-er-shi-shou-qi-yi
-title: 寶祐二年皇子冠二十首  其一
-titlePinyin: bao3 you4 er4 nian2 huang2 zi3 guan1 er4 shi2 shou3     qi2 yi1
+title: 寶祐二年皇子冠二十首  其一○
+titlePinyin: bao3 you4 er4 nian2 huang2 zi3 guan1 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: bao-you-er-nian-huang-zi-guan-er-shi-shou-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 於皇帝德，乃聖乃神。
-- 本支百世，立愛惟親。
-- 敬共冠事，以明人倫。
-- 承天右序，休命用申。
+- 帝子惟賢，懋昭厥德。
+- 跪冠于房，玄冠有特。
+- 鼓鐘喤喤，威儀抑抑。
+- 百禮既洽，祚我王國。
 
 ## 拼音
 
-- wu1 huang2 di4 de2 ， nai3 sheng4 nai3 shen2 。
-- ben3 zhi1 bai3 shi4 ， li4 ai4 wei2 qin1 。
-- jing4 gong4 guan1 shi4 ， yi3 ming2 ren2 lun2 。
-- cheng2 tian1 you4 xu4 ， xiu1 ming4 yong4 shen1 。
+- di4 zi3 wei2 xian2 ， mao4 zhao1 jue2 de2 。
+- gui4 guan1 yu2 fang2 ， xuan2 guan1 you3 te4 。
+- gu3 zhong1 huang2 huang2 ， wei1 yi2 yi4 yi4 。
+- bai3 li3 ji4 qia4 ， zuo4 wo3 wang2 guo2 。
 
 ## 注释
 

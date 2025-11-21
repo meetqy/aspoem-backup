@@ -9,12 +9,12 @@ authorSlug: wang-chu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 東君珂珮響珊珊，青馭多時下九關。
+- 東君珂佩響珊珊，青馭多時下九關。
 - 方信玉霄千萬里，春風猶未到人間。
 
 ## 拼音

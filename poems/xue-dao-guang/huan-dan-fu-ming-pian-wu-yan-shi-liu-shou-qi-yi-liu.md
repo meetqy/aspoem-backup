@@ -6,10 +6,10 @@ titleSlug: huan-dan-fu-ming-pian-wu-yan-shi-liu-shou-qi-yi-liu
 author: 薛道光
 authorPinyin: xue1 dao4 guang1
 authorSlug: xue-dao-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

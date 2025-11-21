@@ -6,21 +6,21 @@ titleSlug: die
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莊周言達理，吾以蝶爲優。
-- 無想亦無夢，有身長有愁。
+- 東皇頒節下天階，那得香魂入夢來。
+- 十道風光都采訪，相逢只欠驛邊梅。
 
 ## 拼音
 
-- zhuang1 zhou1 yan2 da2 li3 ， wu2 yi3 die2 wei2 you1 。
-- wu2 xiang3 yi4 wu2 meng4 ， you3 shen1 chang2 you3 chou2 。
+- dong1 huang2 ban1 jie2 xia4 tian1 jie1 ， na4 de2 xiang1 hun2 ru4 meng4 lai2 。
+- shi2 dao4 feng1 guang1 dou1 cai3 fang3 ， xiang1 feng2 zhi1 qian4 yi4 bian1 mei2 。
 
 ## 注释
 

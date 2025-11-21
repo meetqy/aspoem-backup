@@ -6,10 +6,10 @@ titleSlug: chi-xiao-huo-fu-shu
 author: 黄超然
 authorPinyin: huang2 chao1 ran2
 authorSlug: huang-chao-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

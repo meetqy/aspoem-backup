@@ -6,10 +6,10 @@ titleSlug: deng-da-e-jue-ding-du-yuan-xiang-fo-guang-cheng-chang-ju-er-shi-yun
 author: 王之望
 authorPinyin: wang2 zhi1 wang4
 authorSlug: wang-zhi-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

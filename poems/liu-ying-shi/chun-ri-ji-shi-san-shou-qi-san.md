@@ -6,10 +6,10 @@ titleSlug: chun-ri-ji-shi-san-shou-qi-san
 author: 劉應時
 authorPinyin: liu2 ying1 shi2
 authorSlug: liu-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

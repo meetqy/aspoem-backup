@@ -6,10 +6,10 @@ titleSlug: jia-tai-er-nian-sui-zai-ren-xu-zheng-yue-ba-ri-xie-jia-huan-li-mu-zho
 author: 王正功
 authorPinyin: wang2 zheng4 gong1
 authorSlug: wang-zheng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

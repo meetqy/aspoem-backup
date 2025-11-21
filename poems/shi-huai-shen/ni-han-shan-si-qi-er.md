@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-er
-title: 擬寒山寺  其二
-titlePinyin: ni3 han2 shan1 si4     qi2 er4
+title: 擬寒山寺  其二○
+titlePinyin: ni3 han2 shan1 si4     qi2 er4 ○
 titleSlug: ni-han-shan-si-qi-er
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 拾得詩清苦，風騷道自存。
-- 看雲欹怪石，步月出松門。
-- 識取心中佛，休磨鏡上痕。
-- 時時多漏泄，塵世少知恩。
+- 肉食未必珍，蔬食未必惡。
+- 若知妄想根，始笑舌頭錯。
+- 此身喻行厠，臭穢相勾絡。
+- 打破飯袋子，光明常陰速。
 
 ## 拼音
 
-- shi2 de2 shi1 qing1 ku3 ， feng1 sao1 dao4 zi4 cun2 。
-- kan4 yun2 qi1 guai4 shi2 ， bu4 yue4 chu1 song1 men2 。
-- shi2 qu3 xin1 zhong1 fo2 ， xiu1 mo2 jing4 shang4 hen2 。
-- shi2 shi2 duo1 lou4 xie4 ， chen2 shi4 shao3 zhi1 en1 。
+- rou4 shi2 wei4 bi4 zhen1 ， shu1 shi2 wei4 bi4 e4 。
+- ruo4 zhi1 wang4 xiang3 gen1 ， shi3 xiao4 she2 tou2 cuo4 。
+- ci3 shen1 yu4 xing2 ce4 ， chou4 hui4 xiang1 gou1 luo4 。
+- da3 po4 fan4 dai4 zi0 ， guang1 ming2 chang2 yin1 su4 。
 
 ## 注释
 

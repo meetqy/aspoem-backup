@@ -6,10 +6,10 @@ titleSlug: fu-ren-jia-zhou-chu-deng-zhan-dao-ji-ti-jiang-qian-zhi-zhi-du-yi-tang
 author: 石介
 authorPinyin: shi2 jie4
 authorSlug: shi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

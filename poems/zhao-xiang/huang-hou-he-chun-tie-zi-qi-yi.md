@@ -6,21 +6,21 @@ titleSlug: huang-hou-he-chun-tie-zi-qi-yi
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 后德侔姬國，嬪風協舜家。
-- 進賢陽爲長，修教月增華。
+- 紫蘭紅蓼簇香盤，曉逐金壺下太官。
+- 朝罷三宮歸已晚，日華明麗雪消殘。
 
 ## 拼音
 
-- hou4 de2 mou2 ji1 guo2 ， pin2 feng1 xie2 shun4 jia1 。
-- jin4 xian2 yang2 wei2 chang2 ， xiu1 jiao4 yue4 zeng1 hua2 。
+- zi3 lan2 hong2 liao3 cu4 xiang1 pan2 ， xiao3 zhu2 jin1 hu2 xia4 tai4 guan1 。
+- chao2 ba4 san1 gong1 gui1 yi3 wan3 ， ri4 hua2 ming2 li2 xue3 xiao1 can2 。
 
 ## 注释
 

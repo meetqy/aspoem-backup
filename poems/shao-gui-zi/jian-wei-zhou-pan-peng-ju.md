@@ -6,25 +6,25 @@ titleSlug: jian-wei-zhou-pan-peng-ju
 author: 邵桂子
 authorPinyin: shao4 gui4 zi3
 authorSlug: shao-gui-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 搜出指礦遺其沙，鄉雲褒武皆蜀秀，虎豹各自雄鬚牙。
-- 兩京得人廣數路，忍使丘中留子嗟。
-- 不然題名百許輩，無一顯者何謂耶。
-- 我亦典學老從事，試向座中尋孟嘉。
+- 松下吟哦幾唱酬，却攜攜螃蟹餞監州。
+- 穩挑書擔去環碧，頻寄詩筒來雪舟。
+- 異姓弟兄千里月，故山泉石一天秋。
+- 葛峰隱者如相問，爲道瓜侯已白頭。
 
 ## 拼音
 
-- sou1 chu1 zhi3 kuang4 yi2 qi2 sha1 ， xiang1 yun2 bao1 wu3 jie1 shu3 xiu4 ， hu3 bao4 ge4 zi4 xiong2 xu1 ya2 。
-- liang3 jing1 de2 ren2 guang3 shu4 lu4 ， ren3 shi3 qiu1 zhong1 liu2 zi3 jie1 。
-- bu4 ran2 ti2 ming2 bai3 xu1 bei4 ， wu2 yi4 xian3 zhe3 he2 wei4 ye1 。
-- wo3 yi4 dian3 xue2 lao3 cong2 shi4 ， shi4 xiang4 zuo4 zhong1 xun2 meng4 jia1 。
+- song1 xia4 yin2 e2 ji1 chang4 chou2 ， que4 xie2 xie2 pang2 xie4 jian4 jian1 zhou1 。
+- wen3 tiao1 shu1 dan1 qu4 huan2 bi4 ， bin1 ji4 shi1 tong3 lai2 xue3 zhou1 。
+- yi4 xing4 di4 xiong0 qian1 li3 yue4 ， gu4 shan1 quan2 shi2 yi4 tian1 qiu1 。
+- ge3 feng1 yin3 zhe3 ru2 xiang1 wen4 ， wei2 dao4 gua1 hou2 yi3 bai2 tou2 。
 
 ## 注释
 

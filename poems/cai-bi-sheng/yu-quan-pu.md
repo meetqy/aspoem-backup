@@ -6,10 +6,10 @@ titleSlug: yu-quan-pu
 author: 蔡必勝
 authorPinyin: cai4 bi4 sheng4
 authorSlug: cai-bi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

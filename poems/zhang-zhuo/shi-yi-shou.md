@@ -9,18 +9,18 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 歛笑偷殘靨，含羞露半脣。
-- 一眉猶叵耐，雙眼定傷人。
+- 他家解事在，未肯輒相瞋。
+- 徑須剛捉著，遮莫造精神。
 
 ## 拼音
 
-- lian3 xiao4 tou1 can2 ye4 ， han2 xiu1 lu4 ban4 chun2 。
-- yi4 mei2 you2 po3 nai4 ， shuang1 yan3 ding4 shang1 ren2 。
+- ta1 jia1 jie3 shi4 zai4 ， wei4 ken3 zhe2 xiang1 chen1 。
+- jing4 xu1 gang1 zhuo1 zhu4 ， zhe1 mo4 zao4 jing1 shen2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yu-zi-xian-xiong-ji-bo-chang-sheng-bie-tou-su-ming-yue-shan-ke-di-cha
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

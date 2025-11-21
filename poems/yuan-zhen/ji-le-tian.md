@@ -9,18 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 無身尚擬魂相就，身在那無夢往還。
-- 直到他生亦相覓，不能空記樹中環。
+- 莫嗟虛老海壖西，天下風光數會稽。
+- 靈氾橋前百里鏡，石帆山崦五雲溪。
+- 冰銷田地蘆錐短，春入枝條柳眼低。
+- 安得故人生羽翼，飛來相伴醉如泥。
 
 ## 拼音
 
-- wu2 shen1 shang4 ni3 hun2 xiang1 jiu4 ， shen1 zai4 na4 wu2 meng4 wang3 huan2 。
-- zhi2 dao4 ta1 sheng1 yi4 xiang1 mi4 ， bu4 neng2 kong1 ji4 shu4 zhong1 huan2 。
+- mo4 jie1 xu1 lao3 hai3 ruan2 xi1 ， tian1 xia4 feng1 guang1 shu4 hui4 ji1 。
+- ling2 fan2 qiao2 qian2 bai3 li3 jing4 ， shi2 fan1 shan1 yan1 wu3 yun2 xi1 。
+- bing1 xiao1 tian2 di4 lu2 zhui1 duan3 ， chun1 ru4 zhi1 tiao2 liu3 yan3 di1 。
+- an1 de2 gu4 ren2 sheng1 yu3 yi4 ， fei1 lai2 xiang1 ban4 zui4 ru2 ni2 。
 
 ## 注释
 

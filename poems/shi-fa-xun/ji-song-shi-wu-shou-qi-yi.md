@@ -1,26 +1,26 @@
 ---
 id: shi-fa-xun-ji-song-shi-wu-shou-qi-yi
-title: 偈頌十五首  其一
-titlePinyin: ji4 song4 shi2 wu3 shou3     qi2 yi1
+title: 偈頌十五首  其一○
+titlePinyin: ji4 song4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-wu-shou-qi-yi
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫行心處路，不挂本來衣。
-- 何須更恁麽，切忌未生時。
+- 趙老應機，如風吹水。
+- 第一座香烟起，馿年夢見汗臭氣。
 
 ## 拼音
 
-- mo4 xing2 xin1 chu3 lu4 ， bu2 gua4 ben3 lai2 yi1 。
-- he2 xu1 geng4 nen4 mo2 ， qie4 ji4 wei4 sheng1 shi2 。
+- zhao4 lao3 ying1 ji1 ， ru2 feng1 chui1 shui3 。
+- di4 yi1 zuo4 xiang1 yan1 qi3 ， lu2 nian2 meng4 jian4 han4 chou4 qi4 。
 
 ## 注释
 

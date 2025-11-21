@@ -1,26 +1,30 @@
 ---
 id: lu-you-du-yi
-title: 讀易
+title: 獨意
 titlePinyin: du2 yi4
 titleSlug: du-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 揖遜干戈兩不知，巢居穴處各熙熙。
-- 無端鑿破乾坤秘，禍始羲皇一畫時。
+- 酒似交情薄，愁隨夜漏長。
+- 常貧且撐拄，多病不禁當。
+- 偶讀書終卷，閑臨帖數行。
+- 翻憐市朝客，擾擾爲誰忙。
 
 ## 拼音
 
-- yi1 xun4 gan1 ge1 liang3 bu4 zhi1 ， chao2 ju1 xue2 chu3 ge4 xi1 xi1 。
-- wu2 duan1 zao2 po4 qian2 kun1 mi4 ， huo4 shi3 xi1 huang2 yi2 hua4 shi2 。
+- jiu3 si4 jiao1 qing0 bao2 ， chou2 sui2 ye4 lou4 chang2 。
+- chang2 pin2 qie3 cheng1 zhu3 ， duo1 bing4 bu4 jin1 dang1 。
+- ou3 du2 shu1 zhong1 juan4 ， xian2 lin2 tie1 shu4 xing2 。
+- fan1 lian2 shi4 chao2 ke4 ， rao3 rao3 wei2 shui2 mang2 。
 
 ## 注释
 

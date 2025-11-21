@@ -6,10 +6,10 @@ titleSlug: du-cheng-ji-jin-shi-kai-ran-you-huai-zhu-ren-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

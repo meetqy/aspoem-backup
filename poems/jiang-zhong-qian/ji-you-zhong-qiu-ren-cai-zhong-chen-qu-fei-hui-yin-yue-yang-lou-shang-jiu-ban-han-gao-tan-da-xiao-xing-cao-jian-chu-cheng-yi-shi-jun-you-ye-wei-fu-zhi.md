@@ -6,10 +6,10 @@ titleSlug: ji-you-zhong-qiu-ren-cai-zhong-chen-qu-fei-hui-yin-yue-yang-lou-shang
 author: 姜仲謙
 authorPinyin: jiang1 zhong4 qian1
 authorSlug: jiang-zhong-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

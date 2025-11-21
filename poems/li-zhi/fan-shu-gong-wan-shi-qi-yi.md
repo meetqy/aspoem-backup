@@ -1,30 +1,30 @@
 ---
 id: li-zhi-fan-shu-gong-wan-shi-qi-yi
-title: 范蜀公挽詩  其一
-titlePinyin: fan4 shu3 gong1 wan3 shi1     qi2 yi1
+title: 范蜀公挽詩  其一○
+titlePinyin: fan4 shu3 gong1 wan3 shi1     qi2 yi1 ○
 titleSlug: fan-shu-gong-wan-shi-qi-yi
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蚤歲青雲近，英聲四海馳。
-- 能懷天下寶，獨讓月中枝。
-- 既已登龍坂，咸觀入鳳池。
-- 如何老清禁，偃蹇卧明時。
+- 衆樂西南圃，從公數共游。
+- 清無馬融帳，榮預李膺舟。
+- 河漢德星隕，山川英氣收。
+- 孤生築場意，索寞向新丘。
 
 ## 拼音
 
-- zao3 sui4 qing1 yun2 jin4 ， ying1 sheng1 si4 hai3 chi2 。
-- neng2 huai2 tian1 xia4 bao3 ， du2 rang4 yue4 zhong1 zhi1 。
-- ji4 yi3 deng1 long2 ban3 ， xian2 guan1 ru4 feng4 chi2 。
-- ru2 he2 lao3 qing1 jin4 ， yan3 jian3 wo4 ming2 shi2 。
+- zhong4 le4 xi1 nan2 pu3 ， cong2 gong1 shu4 gong4 you2 。
+- qing1 wu2 ma3 rong2 zhang4 ， rong2 yu4 li3 ying1 zhou1 。
+- he2 han4 de2 xing1 yun3 ， shan1 chuan1 ying1 qi4 shou1 。
+- gu1 sheng1 zhu4 chang3 yi4 ， suo3 mo4 xiang4 xin1 qiu1 。
 
 ## 注释
 

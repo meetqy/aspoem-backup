@@ -6,21 +6,21 @@ titleSlug: zai-ci-jiao-dai-yun-si-shou-qi-san
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 環秀亭中命淥樽，雲烟明滅映嶙峋。
-- 佐州不喜分風月，喜與南山作主人。
+- 漫叟當年臼作樽，侑樽青嶂漫嶙峋。
+- 與君屢共山前醉，似覺清歡勝昔人。
 
 ## 拼音
 
-- huan2 xiu4 ting2 zhong1 ming4 lu4 zun1 ， yun2 yan1 ming2 mie4 ying4 lin2 xun2 。
-- zuo3 zhou1 bu4 xi3 fen1 feng1 yue4 ， xi3 yu3 nan2 shan1 zuo4 zhu3 ren2 。
+- man4 sou3 dang1 nian2 jiu4 zuo4 zun1 ， you4 zun1 qing1 zhang4 man4 lin2 xun2 。
+- yu3 jun1 lü3 gong4 shan1 qian2 zui4 ， si4 jue2 qing1 huan1 sheng4 xi1 ren2 。
 
 ## 注释
 

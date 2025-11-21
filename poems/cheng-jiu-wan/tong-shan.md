@@ -6,10 +6,10 @@ titleSlug: tong-shan
 author: 程九萬
 authorPinyin: cheng2 jiu3 wan4
 authorSlug: cheng-jiu-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

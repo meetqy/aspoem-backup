@@ -6,10 +6,10 @@ titleSlug: san-yue-liu-ri-huang-wu-si-sai-she-san-ri-bu-san-mu-ye-wu-wa-ji-chen-
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

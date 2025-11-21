@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江海吹天風，飛舞散千壠。
-- 橫斜任所適，光麗世非種。
-- 險穢已平治，屋背欲洶湧。
-- 年豐此兆之，有秋高可拱。
+- 台山無牡丹，單葉已最貴。
+- 斗檻數花爾，便欲發光氣。
+- 珍重莫肯折，如天藏地祕。
+- 西都每興懷，此賞殆夢寐。
 
 ## 拼音
 
-- jiang1 hai3 chui1 tian1 feng1 ， fei1 wu3 san4 qian1 long3 。
-- heng2 xie2 ren4 suo3 shi4 ， guang1 li2 shi4 fei1 zhong3 。
-- xian3 hui4 yi3 ping2 zhi4 ， wu1 bei4 yu4 xiong1 yong3 。
-- nian2 feng1 ci3 zhao4 zhi1 ， you3 qiu1 gao1 ke3 gong3 。
+- tai2 shan1 wu2 mu3 dan1 ， dan1 ye4 yi3 zui4 gui4 。
+- dou4 jian4 shu4 hua1 er3 ， bian4 yu4 fa1 guang1 qi4 。
+- zhen1 zhong4 mo4 ken3 zhe2 ， ru2 tian1 cang2 di4 bi4 。
+- xi1 du1 mei3 xing1 huai2 ， ci3 shang3 dai4 meng4 mei4 。
 
 ## 注释
 

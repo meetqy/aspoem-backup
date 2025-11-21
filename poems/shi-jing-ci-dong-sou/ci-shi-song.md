@@ -6,10 +6,10 @@ titleSlug: ci-shi-song
 author: 釋浄慈東叟
 authorPinyin: shi4 jing4 ci2 dong1 sou3
 authorSlug: shi-jing-ci-dong-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

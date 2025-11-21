@@ -6,10 +6,10 @@ titleSlug: ye-yin-luo-huai-sou-san-bei-shu-yu-gang-zhi-gong-du-meng-jiao-shi
 author: 朱復之
 authorPinyin: zhu1 fu4 zhi1
 authorSlug: zhu-fu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

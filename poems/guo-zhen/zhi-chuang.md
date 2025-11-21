@@ -6,9 +6,9 @@ titleSlug: zhi-chuang
 author: 郭震
 authorPinyin: guo1 zhen4
 authorSlug: guo-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

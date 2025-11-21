@@ -6,10 +6,10 @@ titleSlug: ci-yun-da-shou-leng-qing-sheng-huo-yu-fu-zhuo-he-yi
 author: 趙簾谿
 authorPinyin: zhao4 lian2 xi1
 authorSlug: zhao-lian-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

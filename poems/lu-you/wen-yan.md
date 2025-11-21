@@ -6,21 +6,21 @@ titleSlug: wen-yan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 過盡梅花把酒稀，熏籠香冷換春衣。
-- 秦關漢苑無消息，又在江南送雁歸。
+- 蜻蜓浦中聞雁聲，寒侵短褐客愁生。
+- 忽思大散關頭路，雪壓蒙氈夜下程。
 
 ## 拼音
 
-- guo4 jin4 mei2 hua1 ba3 jiu3 xi1 ， xun1 long2 xiang1 leng3 huan4 chun1 yi1 。
-- qin2 guan1 han4 yuan4 wu2 xiao1 xi0 ， you4 zai4 jiang1 nan2 song4 yan4 gui1 。
+- qing1 ting2 pu3 zhong1 wen2 yan4 sheng1 ， han2 qin1 duan3 he4 ke4 chou2 sheng1 。
+- hu1 si1 da4 san4 guan1 tou2 lu4 ， xue3 ya1 meng2 zhan1 ye4 xia4 cheng2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: liu-long-zhou-ci
 author: 凌萬頃
 authorPinyin: ling2 wan4 qing3
 authorSlug: ling-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

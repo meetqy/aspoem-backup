@@ -6,25 +6,25 @@ titleSlug: xian-you-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已破京塵夢，還尋剡曲遊。
-- 戴星離古戍，衝雨憩山郵。
-- 壁認曾題字，門橫昔渡舟。
-- 經行固多感，隨處寄悠悠。
+- 夙興蓐食戒山行，策蹇迢迢過故城。
+- 露葉未乾明曉日，風蒲初勁借秋聲。
+- 綠陰渡口孤鶯語，白水陂頭兩犢耕。
+- 遥望炊烟疑可憩，試從行路問村名。
 
 ## 拼音
 
-- yi3 po4 jing1 chen2 meng4 ， huan2 xun2 yan3 qu3 you2 。
-- dai4 xing1 li2 gu3 shu4 ， chong1 yu3 qi4 shan1 you2 。
-- bi4 ren4 ceng2 ti2 zi4 ， men2 heng2 xi1 du4 zhou1 。
-- jing1 xing2 gu4 duo1 gan3 ， sui2 chu3 ji4 you1 you1 。
+- su4 xing1 ru4 shi2 jie4 shan1 xing2 ， ce4 jian3 tiao2 tiao2 guo4 gu4 cheng2 。
+- lu4 ye4 wei4 qian2 ming2 xiao3 ri4 ， feng1 pu2 chu1 jin4 jie4 qiu1 sheng1 。
+- lü4 yin1 du4 kou3 gu1 ying1 yu3 ， bai2 shui3 bei1 tou2 liang3 du2 geng1 。
+- yao2 wang4 chui1 yan1 yi2 ke3 qi4 ， shi4 cong2 xing2 lu4 wen4 cun1 ming2 。
 
 ## 注释
 

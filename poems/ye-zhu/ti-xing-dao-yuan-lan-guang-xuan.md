@@ -6,10 +6,10 @@ titleSlug: ti-xing-dao-yuan-lan-guang-xuan
 author: 葉翥
 authorPinyin: ye4 zhu4
 authorSlug: ye-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

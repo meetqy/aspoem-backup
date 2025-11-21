@@ -6,10 +6,10 @@ titleSlug: dao-yao-tu-chang-sheng
 author: 吳嚞
 authorPinyin: wu2 zhe2
 authorSlug: wu-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

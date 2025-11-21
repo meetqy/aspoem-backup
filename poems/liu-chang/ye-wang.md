@@ -6,25 +6,25 @@ titleSlug: ye-wang
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 重陽去寥落，小雪碧蒼茫。
-- 獸起駭枯草，鳥歸横夕陽。
-- 薄雲低引白，衰菊暗消黄。
-- 佇立何爲久，愴人非故鄉。
+- 江水不可越，扁舟浮夕陽。
+- 高秋露寥落，遠樹出毫芒。
+- 澗水清兼濁，山苗綠映黄。
+- 漁翁豈招隱，何待唱滄浪。
 
 ## 拼音
 
-- zhong4 yang2 qu4 liao2 luo4 ， xiao3 xue3 bi4 cang1 mang2 。
-- shou4 qi3 hai4 ku1 cao3 ， niao3 gui1 heng2 xi1 yang2 。
-- bao2 yun2 di1 yin3 bai2 ， shuai1 ju2 an4 xiao1 huang2 。
-- zhu4 li4 he2 wei2 jiu3 ， chuang4 ren2 fei1 gu4 xiang1 。
+- jiang1 shui3 bu4 ke3 yue4 ， pian1 zhou1 fu2 xi1 yang2 。
+- gao1 qiu1 lu4 liao2 luo4 ， yuan3 shu4 chu1 hao2 mang2 。
+- jian4 shui3 qing1 jian1 zhuo2 ， shan1 miao2 lü4 ying4 huang2 。
+- yu2 weng1 qi3 zhao1 yin3 ， he2 dai4 chang4 cang1 lang4 。
 
 ## 注释
 

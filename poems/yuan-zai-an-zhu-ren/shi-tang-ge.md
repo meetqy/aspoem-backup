@@ -6,10 +6,10 @@ titleSlug: shi-tang-ge
 author: 元在庵主人
 authorPinyin: yuan2 zai4 an1 zhu3 ren2
 authorSlug: yuan-zai-an-zhu-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

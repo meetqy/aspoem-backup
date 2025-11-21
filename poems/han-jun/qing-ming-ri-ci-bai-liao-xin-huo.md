@@ -9,26 +9,26 @@ authorSlug: han-jun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 朱騎傳紅燭，天廚賜近臣。
-- 火隨黃道見，煙遶白榆新。
-- 榮耀分他日，恩光共此辰。
-- 更調金鼎膳，還暖玉堂人。
-- 灼灼千門曉，輝輝萬井春。
-- 應憐螢聚夜，瞻望及東鄰。
+- 御火傳香殿，華光及侍臣。
+- 星流中使馬，燭耀九衢人。
+- 轉影連金屋，分輝麗錦茵。
+- 焰迎紅蘂發，煙染綠條春。
+- 助律和風早，添爐煖氣新。
+- 誰憐一寒士，猶望照東鄰。
 
 ## 拼音
 
-- zhu1 qi2 chuan2 hong2 zhu2 ， tian1 chu2 ci4 jin4 chen2 。
-- huo3 sui2 huang2 dao4 jian4 ， yan1 rao4 bai2 yu2 xin1 。
-- rong2 yao4 fen1 ta1 ri4 ， en1 guang1 gong4 ci3 chen2 。
-- geng4 diao4 jin1 ding3 shan4 ， huan2 nuan3 yu4 tang2 ren2 。
-- zhuo2 zhuo2 qian1 men2 xiao3 ， hui1 hui1 wan4 jing3 chun1 。
-- ying1 lian2 ying2 ju4 ye4 ， zhan1 wang4 ji2 dong1 lin2 。
+- yu4 huo3 chuan2 xiang1 dian4 ， hua2 guang1 ji2 shi4 chen2 。
+- xing1 liu2 zhong1 shi3 ma3 ， zhu2 yao4 jiu3 qu2 ren2 。
+- zhuan3 ying3 lian2 jin1 wu1 ， fen1 hui1 li2 jin3 yin1 。
+- yan4 ying2 hong2 rui3 fa1 ， yan1 ran3 lü4 tiao2 chun1 。
+- zhu4 lü4 he2 feng1 zao3 ， tian1 lu2 xuan1 qi4 xin1 。
+- shui2 lian2 yi4 han2 shi4 ， you2 wang4 zhao4 dong1 lin2 。
 
 ## 注释
 

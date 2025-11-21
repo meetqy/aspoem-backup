@@ -1,36 +1,36 @@
 ---
 id: liu-yan-gan-yu-er-shi-shou-qi-er
-title: 感寓二十首  其二
-titlePinyin: gan3 yu4 er4 shi2 shou3     qi2 er4
+title: 感寓二十首  其二○
+titlePinyin: gan3 yu4 er4 shi2 shou3     qi2 er4 ○
 titleSlug: gan-yu-er-shi-shou-qi-er
 author: 劉弇
 authorPinyin: liu2 yan3
 authorSlug: liu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西方有佳人，弱齡三春蘭。
-- 一顧迷下蔡，再笑傾邯鄲。
-- 青樓十二曲，密睟勝廣寒。
-- 寸玉耿孤抱，時時寄哀彈。
-- 孟娵久不作，宿瘤騁朱丹。
-- 世道終如此，美惡隨所觀。
-- 吞聲勿復道，留與蹇修看。
+- 疾雷疑車音，出門乃知非。
+- 抱影長自明，流螢點霜幃。
+- 羅带翦秋水，黄金縷春衣。
+- 持看清夜闌，愁無故時輝。
+- 食葵心知傾，茹臘腸虛肥。
+- 纂纂棗下歌，惜此歲月違。
+- 因聲勸語儂，忽復遲遲歸。
 
 ## 拼音
 
-- xi1 fang1 you3 jia1 ren2 ， ruo4 ling2 san1 chun1 lan2 。
-- yi2 gu4 mi2 xia4 cai4 ， zai4 xiao4 qing1 han2 dan1 。
-- qing1 lou2 shi2 er4 qu3 ， mi4 sui4 sheng4 guang3 han2 。
-- cun4 yu4 geng3 gu1 bao4 ， shi2 shi2 ji4 ai1 dan4 。
-- meng4 ju1 jiu3 bu2 zuo4 ， su4 liu2 cheng3 zhu1 dan1 。
-- shi4 dao4 zhong1 ru2 ci3 ， mei3 e4 sui2 suo3 guan1 。
-- tun1 sheng1 wu4 fu4 dao4 ， liu2 yu3 jian3 xiu1 kan4 。
+- ji2 lei2 yi2 ju1 yin1 ， chu1 men2 nai3 zhi1 fei1 。
+- bao4 ying3 chang2 zi4 ming2 ， liu2 ying2 dian3 shuang1 wei2 。
+- luo2 dai4 jian3 qiu1 shui3 ， huang2 jin1 lü3 chun1 yi1 。
+- chi2 kan4 qing1 ye4 lan2 ， chou2 wu2 gu4 shi2 hui1 。
+- shi2 kui2 xin1 zhi1 qing1 ， ru2 la4 chang2 xu1 fei2 。
+- zuan3 zuan3 zao3 xia4 ge1 ， xi1 ci3 sui4 yue4 wei2 。
+- yin1 sheng1 quan4 yu3 nong2 ， hu1 fu4 chi2 chi2 gui1 。
 
 ## 注释
 

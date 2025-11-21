@@ -6,25 +6,25 @@ titleSlug: xiao-zong-huang-di-wan-ci-wu-shou-qi-si
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好學元無斁，忘疲晚有加。
-- 明謨宗六藝，妙用合三家。
-- 照映天經緯，流傳士齒牙。
-- 奎文尊閣處，更合榜重華。
+- 貞觀真英主，三王合庶幾。
+- 此時生後聖，端欲踵前徽。
+- 濟世功何異，除凶志偶違。
+- 辛勤三十載，十漸更無譏。
 
 ## 拼音
 
-- hao3 xue2 yuan2 wu2 yi4 ， wang4 pi2 wan3 you3 jia1 。
-- ming2 mo2 zong1 liu4 yi4 ， miao4 yong4 he2 san1 jia1 。
-- zhao4 ying4 tian1 jing1 wei3 ， liu2 chuan2 shi4 chi3 ya2 。
-- kui2 wen2 zun1 ge2 chu3 ， geng4 he2 bang3 zhong4 hua2 。
+- zhen1 guan1 zhen1 ying1 zhu3 ， san1 wang2 he2 shu4 ji1 。
+- ci3 shi2 sheng1 hou4 sheng4 ， duan1 yu4 zhong3 qian2 hui1 。
+- ji4 shi4 gong1 he2 yi4 ， chu2 xiong1 zhi4 ou3 wei2 。
+- xin1 qin2 san1 shi2 zai4 ， shi2 jian4 geng4 wu2 ji1 。
 
 ## 注释
 

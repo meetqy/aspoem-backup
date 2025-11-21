@@ -1,30 +1,30 @@
 ---
 id: su-shi-gui-qu-lai-ji-zi-shi-shou-qi-yi
-title: 歸去來集字十首  其一
-titlePinyin: gui1 qu4 lai2 ji2 zi4 shi2 shou3     qi2 yi1
+title: 歸去來集字十首  其一○
+titlePinyin: gui1 qu4 lai2 ji2 zi4 shi2 shou3     qi2 yi1 ○
 titleSlug: gui-qu-lai-ji-zi-shi-shou-qi-yi
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 命駕欲何向，欣欣春木榮。
-- 世人無往復，鄉老有將迎。
-- 雲內流泉遠，風前飛鳥輕。
-- 相携就衡宇，酌酒話交情。
+- 寄傲疑今是，求榮感昨非。
+- 聊欣樽有酒，不恨室無衣。
+- 丘壑世情遠，田園生事微。
+- 柯庭還獨眄，時有鳥歸飛。
 
 ## 拼音
 
-- ming4 jia4 yu4 he2 xiang4 ， xin1 xin1 chun1 mu4 rong2 。
-- shi4 ren2 wu2 wang3 fu4 ， xiang1 lao3 you3 jiang1 ying2 。
-- yun2 nei4 liu2 quan2 yuan3 ， feng1 qian2 fei1 niao3 qing1 。
-- xiang1 xie2 jiu4 heng2 yu3 ， zhuo2 jiu3 hua4 jiao1 qing0 。
+- ji4 ao4 yi2 jin1 shi4 ， qiu2 rong2 gan3 zuo2 fei1 。
+- liao2 xin1 zun1 you3 jiu3 ， bu2 hen4 shi4 wu2 yi1 。
+- qiu1 he4 shi4 qing2 yuan3 ， tian2 yuan2 sheng1 shi4 wei1 。
+- ke1 ting2 huan2 du2 mian3 ， shi2 you3 niao3 gui1 fei1 。
 
 ## 注释
 

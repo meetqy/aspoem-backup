@@ -6,21 +6,25 @@ titleSlug: qian-xing-er-shou-qi-er
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 酒經自得非多學，詩律傷嚴近寡恩。
-- 田里歌呼無籍在，朝廷議論有司存。
+- 八千岐路愁何補，四十光陰老亦宜。
+- 此去只堪犀首飲，向来都是虎頭痴。
+- 逢時有道其如命，得意無言所恨遲。
+- 詩債即今渾倚閣，新篇惟有莫相疑。
 
 ## 拼音
 
-- jiu3 jing1 zi4 de2 fei1 duo1 xue2 ， shi1 lü4 shang1 yan2 jin4 gua3 en1 。
-- tian2 li3 ge1 hu1 wu2 ji2 zai4 ， chao2 ting2 yi4 lun4 you3 si1 cun2 。
+- ba1 qian1 qi2 lu4 chou2 he2 bu3 ， si4 shi2 guang1 yin1 lao3 yi4 yi2 。
+- ci3 qu4 zhi1 kan1 xi1 shou3 yin3 ， xiang4 lai2 dou1 shi4 hu3 tou2 chi1 。
+- feng2 shi2 you3 dao4 qi2 ru2 ming4 ， de2 yi4 wu2 yan2 suo3 hen4 chi2 。
+- shi1 zhai4 ji2 jin1 hun2 yi3 ge2 ， xin1 pian1 wei2 you3 mo4 xiang1 yi2 。
 
 ## 注释
 

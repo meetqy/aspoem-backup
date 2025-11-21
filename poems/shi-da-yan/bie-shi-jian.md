@@ -6,10 +6,10 @@ titleSlug: bie-shi-jian
 author: 釋大眼
 authorPinyin: shi4 da4 yan3
 authorSlug: shi-da-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

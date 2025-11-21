@@ -6,10 +6,10 @@ titleSlug: song-shan-xia-zhi-de-ci
 author: 吳文忠
 authorPinyin: wu2 wen2 zhong1
 authorSlug: wu-wen-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

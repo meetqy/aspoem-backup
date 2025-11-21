@@ -6,10 +6,10 @@ titleSlug: mo-cha-ji-luo-chi-yi-shi-sui-zhi-hou-yi-wu-bian-cha-yu-shi-ju-bu-wang
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

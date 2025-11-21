@@ -6,25 +6,25 @@ titleSlug: ti-hong-shi-yu-shi-yuan
 author: 徐安國
 authorPinyin: xu2 an1 guo2
 authorSlug: xu-an-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斗橫宴坐一蒲團，丈室寥寥夢境寒。
-- 夜炷波涵烟易冷，秋簷冰浸露先漙。
-- 潭中寂境心灰見，鏡裏虛形面壁觀。
-- 俛仰清光無盡藏，細分沙界萬塵寬。
+- 百念灰寒一性空，森然萬象在其中。
+- 靜觀寂照銜沙界，翻笑空華翳化宮。
+- 金屑未除心境異，尼珠獨耀古今同。
+- 箇中有見非真見，未掩簾時妙無窮。
 
 ## 拼音
 
-- dou4 heng2 yan4 zuo4 yi4 pu2 tuan2 ， zhang4 shi4 liao2 liao2 meng4 jing4 han2 。
-- ye4 zhu4 bo1 han2 yan1 yi4 leng3 ， qiu1 yan2 bing1 jin4 lu4 xian1 tuan2 。
-- tan2 zhong1 ji4 jing4 xin1 hui1 jian4 ， jing4 li3 xu1 xing2 mian4 bi4 guan1 。
-- fu3 yang3 qing1 guang1 wu2 jin4 cang2 ， xi4 fen1 sha1 jie4 wan4 chen2 kuan1 。
+- bai3 nian4 hui1 han2 yi2 xing4 kong1 ， sen1 ran2 wan4 xiang4 zai4 qi2 zhong1 。
+- jing4 guan1 ji4 zhao4 xian2 sha1 jie4 ， fan1 xiao4 kong1 hua2 yi4 hua4 gong1 。
+- jin1 xie4 wei4 chu2 xin1 jing4 yi4 ， ni2 zhu1 du2 yao4 gu3 jin1 tong2 。
+- ge4 zhong1 you3 jian4 fei1 zhen1 jian4 ， wei4 yan3 lian2 shi2 miao4 wu2 qiong2 。
 
 ## 注释
 

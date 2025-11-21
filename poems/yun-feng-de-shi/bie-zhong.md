@@ -6,10 +6,10 @@ titleSlug: bie-zhong
 author: 雲峰德師
 authorPinyin: yun2 feng1 de2 shi1
 authorSlug: yun-feng-de-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

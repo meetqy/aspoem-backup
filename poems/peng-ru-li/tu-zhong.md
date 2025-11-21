@@ -6,25 +6,25 @@ titleSlug: tu-zhong
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一日復一日，悠悠竟何之。
-- 萬物但此理，百年能幾時。
-- 墨翟悲已誤，賈生哭奚爲。
-- 可憐日月輪，日夜爭東西。
+- 小人故懷土，游子更思鄉。
+- 里堠經雙隻，郵亭宿短長。
+- 暮棲烏反哺，春去雁隨陽。
+- 亦有一廛宅，能無十畝桑。
 
 ## 拼音
 
-- yi2 ri4 fu4 yi2 ri4 ， you1 you1 jing4 he2 zhi1 。
-- wan4 wu4 dan4 ci3 li3 ， bai3 nian2 neng2 ji1 shi2 。
-- mo4 zhai2 bei1 yi3 wu4 ， jia3 sheng1 ku1 xi1 wei2 。
-- ke3 lian2 ri4 yue4 lun2 ， ri4 ye4 zheng1 dong1 xi1 。
+- xiao3 ren2 gu4 huai2 tu3 ， you2 zi3 geng4 si1 xiang1 。
+- li3 hou4 jing1 shuang1 zhi1 ， you2 ting2 su4 duan3 chang2 。
+- mu4 qi1 wu1 fan3 bu3 ， chun1 qu4 yan4 sui2 yang2 。
+- yi4 you3 yi4 chan2 zhai2 ， neng2 wu2 shi2 mu3 sang1 。
 
 ## 注释
 

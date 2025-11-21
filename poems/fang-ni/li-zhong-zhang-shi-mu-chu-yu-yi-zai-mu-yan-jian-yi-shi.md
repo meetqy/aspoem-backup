@@ -6,10 +6,10 @@ titleSlug: li-zhong-zhang-shi-mu-chu-yu-yi-zai-mu-yan-jian-yi-shi
 author: 方輗
 authorPinyin: fang1 ni2
 authorSlug: fang-ni
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: chao-jiong-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 晁逈
 authorPinyin: chao2 jiong3
 authorSlug: chao-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 介居僧尚雜，警聽鶴猶聾。
+- 羅含舍宇存遺址，熊繹封疆控廣津。
 
 ## 拼音
 
-- jie4 ju1 seng1 shang4 za2 ， jing3 ting1 he4 you2 long2 。
+- luo2 han2 she4 yu3 cun2 yi2 zhi3 ， xiong2 yi4 feng1 jiang1 kong4 guang3 jin1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shou-li-yan-hu-qi-san
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 起從通德里，出守巽巖州。
-- 上相先聲到，兇徒悍氣柔。
-- 鴻居新勞徠，鳥戶舊綢繆。
-- 已築沙堤路，歸歟贊大猷。
+- 洶洶風濤卒未清，便提小隊按行營。
+- 一言刑省朝歌盜，單騎恩懷渤海兵。
+- 豐德自應通綠籍，長年何必飯黄精。
+- 勸公剩壓蘭英酒，爲作涪川小太平。
 
 ## 拼音
 
-- qi3 cong2 tong1 de2 li3 ， chu1 shou3 xun4 yan2 zhou1 。
-- shang4 xiang1 xian1 sheng1 dao4 ， xiong1 tu2 han4 qi4 rou2 。
-- hong2 ju1 xin1 lao2 lai2 ， niao3 hu4 jiu4 chou2 mou2 。
-- yi3 zhu4 sha1 di1 lu4 ， gui1 yu2 zan4 da4 you2 。
+- xiong1 xiong1 feng1 tao1 zu2 wei4 qing1 ， bian4 ti2 xiao3 dui4 an4 xing2 ying2 。
+- yi4 yan2 xing2 sheng3 zhao1 ge1 dao4 ， dan1 qi2 en1 huai2 bo2 hai3 bing1 。
+- feng1 de2 zi4 ying1 tong1 lü4 ji2 ， chang2 nian2 he2 bi4 fan4 huang2 jing1 。
+- quan4 gong1 sheng4 ya1 lan2 ying1 jiu3 ， wei2 zuo4 fu2 chuan1 xiao3 tai4 ping2 。
 
 ## 注释
 

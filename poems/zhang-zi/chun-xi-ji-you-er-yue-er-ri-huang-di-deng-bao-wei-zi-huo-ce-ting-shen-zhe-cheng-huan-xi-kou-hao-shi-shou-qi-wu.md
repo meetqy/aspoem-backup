@@ -6,10 +6,10 @@ titleSlug: chun-xi-ji-you-er-yue-er-ri-huang-di-deng-bao-wei-zi-huo-ce-ting-shen
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

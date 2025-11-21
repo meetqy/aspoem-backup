@@ -9,18 +9,18 @@ authorSlug: zheng-gu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 落第春相困，無心惜落花。
-- 荆山歸不得，歸得亦無家。
+- 莫厭九衢塵土間，秋晴滿眼是南山。
+- 僧家未必全無事，道著訪僧心且閑。
 
 ## 拼音
 
-- luo4 di4 chun1 xiang1 kun4 ， wu2 xin1 xi1 luo4 hua1 。
-- jing1 shan1 gui1 bu4 de2 ， gui1 de2 yi4 wu2 jia1 。
+- mo4 yan4 jiu3 qu2 chen2 tu3 jian4 ， qiu1 qing2 man3 yan3 shi4 nan2 shan1 。
+- seng1 jia1 wei4 bi4 quan2 wu2 shi4 ， dao4 zhu4 fang3 seng1 xin1 qie3 xian2 。
 
 ## 注释
 

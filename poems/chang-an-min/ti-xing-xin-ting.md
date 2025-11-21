@@ -6,10 +6,10 @@ titleSlug: ti-xing-xin-ting
 author: 常安民
 authorPinyin: chang2 an1 min2
 authorSlug: chang-an-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

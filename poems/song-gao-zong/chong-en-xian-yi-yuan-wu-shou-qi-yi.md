@@ -6,10 +6,10 @@ titleSlug: chong-en-xian-yi-yuan-wu-shou-qi-yi
 author: 宋高宗
 authorPinyin: song4 gao1 zong1
 authorSlug: song-gao-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

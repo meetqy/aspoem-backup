@@ -6,25 +6,25 @@ titleSlug: mei-hua
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 似畏羣芳妬，先春發故林。
-- 曾無鶑蝶戀，空被雪霜侵。
-- 不道東風遠，應悲上苑深。
-- 南枝已零落，羌笛寄餘音。
+- 已先羣木得春色，不與杏花爲比紅。
+- 薄薄遠香來澗谷，疎疎寒影近房櫳。
+- 全枝惡折憎鄰女，短笛橫吹怨楚童。
+- 墜萼誰將呵在鬢，蕊殘金粟上眉蟲。
 
 ## 拼音
 
-- si4 wei4 qun2 fang1 du4 ， xian1 chun1 fa1 gu4 lin2 。
-- ceng2 wu2 ying1 die2 lian4 ， kong1 bei4 xue3 shuang1 qin1 。
-- bu2 dao4 dong1 feng1 yuan3 ， ying1 bei1 shang4 yuan4 shen1 。
-- nan2 zhi1 yi3 ling2 luo4 ， qiang1 di2 ji4 yu2 yin1 。
+- yi3 xian1 qun2 mu4 de2 chun1 se4 ， bu4 yu3 xing4 hua1 wei2 bi3 hong2 。
+- bao2 bao2 yuan3 xiang1 lai2 jian4 gu3 ， shu1 shu1 han2 ying3 jin4 fang2 long2 。
+- quan2 zhi1 e4 zhe2 zeng1 lin2 nü3 ， duan3 di2 heng2 chui1 yuan4 chu3 tong2 。
+- zhui4 e4 shui2 jiang1 he1 zai4 bin4 ， rui3 can2 jin1 su4 shang4 mei2 chong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wen-yu-ke-you-shi-jian-ji-yun-dai-jiang-yi-duan-e-xi-juan-sao-qu-han-
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: han-hui-ting
 author: 李洪
 authorPinyin: li3 hong2
 authorSlug: li-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寶相山前住，山中樂可涯。
-- 鶑啼答春谷，犬吠隔山家。
-- 麗句題雲葉，幽情醉澗花。
-- 林香與巖氣，日夕此亭佳。
+- 渺渺曦車暘谷升，東封日觀未容登。
+- 山僧更約中宵看，列炬煌煌現聖燈。
 
 ## 拼音
 
-- bao3 xiang1 shan1 qian2 zhu4 ， shan1 zhong1 le4 ke3 ya2 。
-- ying1 ti2 da2 chun1 gu3 ， quan3 fei4 ge2 shan1 jia1 。
-- li2 ju4 ti2 yun2 ye4 ， you1 qing2 zui4 jian4 hua1 。
-- lin2 xiang1 yu3 yan2 qi4 ， ri4 xi1 ci3 ting2 jia1 。
+- miao3 miao3 xi1 ju1 yang2 gu3 sheng1 ， dong1 feng1 ri4 guan1 wei4 rong2 deng1 。
+- shan1 seng1 geng4 yue1 zhong1 xiao1 kan4 ， lie4 ju4 huang2 huang2 xian4 sheng4 deng1 。
 
 ## 注释
 

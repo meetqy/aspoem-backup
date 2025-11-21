@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畏熱客不來，習懶我倦出。
-- 愛閑閑不徹，一日如兩日。
-- 晚風生微凉，佳月挂西壁。
-- 誰爲無事人，共此可憐夕。
+- 寒食已過風日好，城郭稍背郊原幽。
+- 雙扉晝閉亦何事，一杖携春仍浪游。
+- 但覺桃花成老大，不知楊柳尚風流。
+- 霜螯臘蟻君須醉，細雨疎簾罷遣愁。
 
 ## 拼音
 
-- wei4 re4 ke4 bu4 lai2 ， xi2 lan3 wo3 juan4 chu1 。
-- ai4 xian2 xian2 bu2 che4 ， yi2 ri4 ru2 liang3 ri4 。
-- wan3 feng1 sheng1 wei1 liang2 ， jia1 yue4 gua4 xi1 bi4 。
-- shui2 wei2 wu2 shi4 ren2 ， gong4 ci3 ke3 lian2 xi1 。
+- han2 shi2 yi3 guo4 feng1 ri4 hao3 ， cheng2 guo1 shao1 bei4 jiao1 yuan2 you1 。
+- shuang1 fei1 zhou4 bi4 yi4 he2 shi4 ， yi2 zhang4 xie2 chun1 reng2 lang4 you2 。
+- dan4 jue2 tao2 hua1 cheng2 lao3 da4 ， bu4 zhi1 yang2 liu3 shang4 feng1 liu2 。
+- shuang1 ao2 la4 yi3 jun1 xu1 zui4 ， xi4 yu3 shu1 lian2 ba4 qian3 chou2 。
 
 ## 注释
 

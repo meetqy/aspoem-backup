@@ -6,10 +6,10 @@ titleSlug: song-song-chao-qing-cui-xing-zhou
 author: 蔡薿
 authorPinyin: cai4 ni3
 authorSlug: cai-ni
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

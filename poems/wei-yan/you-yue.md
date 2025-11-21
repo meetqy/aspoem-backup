@@ -9,18 +9,20 @@ authorSlug: wei-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 西家今爲定戒寺，東家今爲練戒寺。
-- 一邊井中投一瓶，兩井相搖響泙濞。
+- 濟南郡裏多沮洳，娥皇女英汲井處。
+- 竊向池中潛甽來，澆茆畦上平流去。
+- （《封氏聞見記》八《歷山》）。
 
 ## 拼音
 
-- xi1 jia1 jin1 wei2 ding4 jie4 si4 ， dong1 jia1 jin1 wei2 lian4 jie4 si4 。
-- yi4 bian1 jing3 zhong1 tou2 yi4 ping2 ， liang3 jing3 xiang1 yao2 xiang3 peng1 bi4 。
+- ji4 nan2 jun4 li3 duo1 ju4 ru4 ， e2 huang2 nü3 ying1 ji2 jing3 chu3 。
+- qie4 xiang4 chi2 zhong1 qian2 zhen4 lai2 ， jiao1 mao2 qi2 shang4 ping2 liu2 qu4 。
+- （《 feng1 shi4 wen2 jian4 ji4 》 ba1 《 li4 shan1 》）。
 
 ## 注释
 

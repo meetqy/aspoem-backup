@@ -9,21 +9,21 @@ authorSlug: li-yuan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 鱗細粉光鮮，開書亂眼前。
 - 透窗疑漏網，落硯似流泉。
-- 潛穴河淵內，吞鈎乙字邊。
+- 潛穴河圖內，吞鉤乙字邊。
 - 莫言鬐鬣小，食盡白蘋篇。
 
 ## 拼音
 
 - lin2 xi4 fen3 guang1 xian1 ， kai1 shu1 luan4 yan3 qian2 。
 - tou4 chuang1 yi2 lou4 wang3 ， luo4 yan4 si4 liu2 quan2 。
-- qian2 xue2 he2 yuan1 nei4 ， tun1 gou1 yi3 zi4 bian1 。
+- qian2 xue2 he2 tu2 nei4 ， tun1 gou1 yi3 zi4 bian1 。
 - mo4 yan2 qi2 lie4 xiao3 ， shi2 jin4 bai2 pin2 pian1 。
 
 ## 注释

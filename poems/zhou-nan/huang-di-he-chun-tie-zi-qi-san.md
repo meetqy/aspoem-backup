@@ -6,21 +6,21 @@ titleSlug: huang-di-he-chun-tie-zi-qi-san
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禁籞希臨幸，宵衣戒未明。
-- 餘閒寓弧矢，勸講只儒生。
+- 萬里長城漢有人，羽書漸少捷書頻。
+- 君王軫念春寒重，更解貂裘賜將臣。
 
 ## 拼音
 
-- jin4 yu4 xi1 lin2 xing4 ， xiao1 yi1 jie4 wei4 ming2 。
-- yu2 xian2 yu4 hu2 shi3 ， quan4 jiang3 zhi1 ru2 sheng1 。
+- wan4 li3 chang2 cheng2 han4 you3 ren2 ， yu3 shu1 jian4 shao3 jie2 shu1 bin1 。
+- jun1 wang2 zhen3 nian4 chun1 han2 zhong4 ， geng4 jie3 diao1 qiu2 ci4 jiang1 chen2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: chun-ri-shu-shi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禪宮門寂寂，庭草無行迹。
-- 東風自掃階，疑是開簾客。
+- 蟲飛絲墮兩悠颺，人意遲遲日共長。
+- 春草滿庭門寂寂，數櫺窗日掛空堂。
 
 ## 拼音
 
-- shan4 gong1 men2 ji4 ji4 ， ting2 cao3 wu2 xing2 ji4 。
-- dong1 feng1 zi4 sao3 jie1 ， yi2 shi4 kai1 lian2 ke4 。
+- chong2 fei1 si1 duo4 liang3 you1 yang2 ， ren2 yi4 chi2 chi2 ri4 gong4 chang2 。
+- chun1 cao3 man3 ting2 men2 ji4 ji4 ， shu4 ling2 chuang1 ri4 gua4 kong1 tang2 。
 
 ## 注释
 

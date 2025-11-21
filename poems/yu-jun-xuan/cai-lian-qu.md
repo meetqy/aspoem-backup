@@ -6,10 +6,10 @@ titleSlug: cai-lian-qu
 author: 俞君宣
 authorPinyin: yu2 jun1 xuan1
 authorSlug: yu-jun-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

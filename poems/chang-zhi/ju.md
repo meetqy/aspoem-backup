@@ -6,10 +6,10 @@ titleSlug: ju
 author: 常秩
 authorPinyin: chang2 zhi4
 authorSlug: chang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

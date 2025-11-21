@@ -6,10 +6,10 @@ titleSlug: ping-shan-cao-tang-si-yong-wu-gao-dong-zuo
 author: 周述
 authorPinyin: zhou1 shu4
 authorSlug: zhou-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-yan-you-ge-lao-mou-qian-sui-feng-shi-huan-ling-yang-zhou-jin-yan-y
 author: 陸佃
 authorPinyin: lu4 dian4
 authorSlug: lu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bi-shan
 author: 陶崇
 authorPinyin: tao2 chong2
 authorSlug: tao-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

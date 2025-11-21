@@ -6,10 +6,10 @@ titleSlug: song-ren-chu-cheng-tong-guo-zhou-shao-fu-zeng-xing-zhe
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

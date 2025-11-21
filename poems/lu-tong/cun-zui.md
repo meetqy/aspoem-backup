@@ -9,18 +9,18 @@ authorSlug: lu-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 昨夜村飲歸，健倒三四五。
-- 摩挲青莓苔，莫嗔驚著汝。
+- 村醉黄昏歸，健倒三四五。
+- 摩娑莓苔背，嗔我驚爾不。
 
 ## 拼音
 
-- zuo2 ye4 cun1 yin3 gui1 ， jian4 dao3 san1 si4 wu3 。
-- mo2 suo1 qing1 mei2 tai2 ， mo4 chen1 jing1 zhu4 ru3 。
+- cun1 zui4 huang2 hun1 gui1 ， jian4 dao3 san1 si4 wu3 。
+- mo2 suo1 mei2 tai2 bei4 ， chen1 wo3 jing1 er3 bu4 。
 
 ## 注释
 

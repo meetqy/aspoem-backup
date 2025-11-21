@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-song-su-xiu-cai-gui-yong-jia-qi-yi
-title: 送蘇秀才歸永嘉・其一
-titlePinyin: song4 su1 xiu4 cai0 gui1 yong3 jia1・qi2 yi1
+title: 送蘇秀才歸永嘉  其一
+titlePinyin: song4 su1 xiu4 cai0 gui1 yong3 jia1     qi2 yi1
 titleSlug: song-su-xiu-cai-gui-yong-jia-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

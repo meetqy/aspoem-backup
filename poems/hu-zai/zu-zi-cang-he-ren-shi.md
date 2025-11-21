@@ -6,10 +6,10 @@ titleSlug: zu-zi-cang-he-ren-shi
 author: 胡仔
 authorPinyin: hu2 zai3
 authorSlug: hu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

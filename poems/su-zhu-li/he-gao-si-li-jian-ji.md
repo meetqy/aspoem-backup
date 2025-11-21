@@ -6,10 +6,10 @@ titleSlug: he-gao-si-li-jian-ji
 author: 蘇竹里
 authorPinyin: su1 zhu2 li3
 authorSlug: su-zhu-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

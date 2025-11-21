@@ -6,9 +6,9 @@ titleSlug: cun-mu-qi-er
 author: 扈蒙
 authorPinyin: hu4 meng2
 authorSlug: hu-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

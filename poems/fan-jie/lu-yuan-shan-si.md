@@ -6,9 +6,9 @@ titleSlug: lu-yuan-shan-si
 author: 范潔
 authorPinyin: fan4 jie2
 authorSlug: fan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-yi-qi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 錢塘潮頭來，成都藥市集。
-- 叵尀汝州風，吹落毛僧笠。
+- 咄哉王老師，赤窮身也賣。
+- 喫些油糍歸，至今被人怪。
 
 ## 拼音
 
-- qian2 tang2 chao2 tou2 lai2 ， cheng2 du1 yao4 shi4 ji2 。
-- po3 po3 ru3 zhou1 feng1 ， chui1 luo4 mao2 seng1 li4 。
+- duo1 zai1 wang2 lao3 shi1 ， chi4 qiong2 shen1 ye3 mai4 。
+- chi1 xie1 you2 ci2 gui1 ， zhi4 jin1 bei4 ren2 guai4 。
 
 ## 注释
 

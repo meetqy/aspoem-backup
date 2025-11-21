@@ -6,10 +6,10 @@ titleSlug: zong-chi-shi-shi-jin-shi-yi-zhou-zhe-ci-zui-hou-shen-zi-yun-mei-hua-y
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

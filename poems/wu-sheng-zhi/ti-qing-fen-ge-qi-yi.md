@@ -6,10 +6,10 @@ titleSlug: ti-qing-fen-ge-qi-yi
 author: 吳升之
 authorPinyin: wu2 sheng1 zhi1
 authorSlug: wu-sheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

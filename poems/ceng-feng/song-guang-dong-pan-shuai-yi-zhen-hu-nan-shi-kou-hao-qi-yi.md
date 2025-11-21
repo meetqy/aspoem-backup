@@ -1,26 +1,26 @@
 ---
 id: ceng-feng-song-guang-dong-pan-shuai-yi-zhen-hu-nan-shi-kou-hao-qi-yi
-title: 送廣東潘帥移鎮湖南十口號  其一
-titlePinyin: song4 guang3 dong1 pan1 shuai4 yi2 zhen4 hu2 nan2 shi2 kou3 hao4     qi2 yi1
+title: 送廣東潘帥移鎮湖南十口號  其一○
+titlePinyin: song4 guang3 dong1 pan1 shuai4 yi2 zhen4 hu2 nan2 shi2 kou3 hao4     qi2 yi1 ○
 titleSlug: song-guang-dong-pan-shuai-yi-zhen-hu-nan-shi-kou-hao-qi-yi
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金華洞裏太臞仙，千騎來開萬里天。
-- 領海百氛旬月了，餘功贏得坐三年。
+- 身離瘴雨脫蠻烟，自幸得歸如得仙。
+- 更願留侯輕萬戶，不須辟穀也長年。
 
 ## 拼音
 
-- jin1 hua2 dong4 li3 tai4 qu2 xian1 ， qian1 qi2 lai2 kai1 wan4 li3 tian1 。
-- ling3 hai3 bai3 fen1 xun2 yue4 le0 ， yu2 gong1 ying2 de2 zuo4 san1 nian2 。
+- shen1 li2 zhang4 yu3 tuo1 man2 yan1 ， zi4 xing4 de2 gui1 ru2 de2 xian1 。
+- geng4 yuan4 liu2 hou2 qing1 wan4 hu4 ， bu4 xu1 pi4 gu3 ye3 chang2 nian2 。
 
 ## 注释
 

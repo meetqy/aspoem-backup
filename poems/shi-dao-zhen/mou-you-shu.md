@@ -6,25 +6,25 @@ titleSlug: mou-you-shu
 author: 釋道真
 authorPinyin: shi4 dao4 zhen1
 authorSlug: shi-dao-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 白壁從來好丹青，無知箇箇亂題名。
-- 三塗地獄交誰忍，十八湔銅灌一瓶。
-- 鎸龕必定添福利，鑿壁多層證無生。
-- 唯報往來遊翫者，輒莫於此騁書題。
+- 能持凈意作□家，解駕牛羊白鹿車。
+- 嫌闌砌前栽樹少，怕空不種後園花。
+- 菩提上□因修得，佛果無生證有涯。
+- 此處涅盤觀境□，自然捷路到龍花。
 
 ## 拼音
 
-- bai2 bi4 cong2 lai2 hao3 dan1 qing1 ， wu2 zhi1 ge4 ge4 luan4 ti2 ming2 。
-- san1 tu2 di4 yu4 jiao1 shui2 ren3 ， shi2 ba1 jian1 tong2 guan4 yi4 ping2 。
-- juan1 kan1 bi4 ding4 tian1 fu2 li4 ， zao2 bi4 duo1 ceng2 zheng4 wu2 sheng1 。
-- wei2 bao4 wang3 lai2 you2 wan2 zhe3 ， zhe2 mo4 wu1 ci3 cheng3 shu1 ti2 。
+- neng2 chi2 jing4 yi4 zuo4 □ jia1 ， jie3 jia4 niu2 yang2 bai2 lu4 ju1 。
+- xian2 lan2 qi4 qian2 zai1 shu4 shao3 ， pa4 kong1 bu4 zhong3 hou4 yuan2 hua1 。
+- pu2 ti2 shang4 □ yin1 xiu1 de2 ， fo2 guo3 wu2 sheng1 zheng4 you3 ya2 。
+- ci3 chu3 nie4 pan2 guan1 jing4 □， zi4 ran2 jie2 lu4 dao4 long2 hua1 。
 
 ## 注释
 

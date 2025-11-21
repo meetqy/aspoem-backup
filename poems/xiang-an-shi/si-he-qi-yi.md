@@ -1,26 +1,26 @@
 ---
 id: xiang-an-shi-si-he-qi-yi
-title: 四和  其一
-titlePinyin: si4 he2     qi2 yi1
+title: 四和  其一○
+titlePinyin: si4 he2     qi2 yi1 ○
 titleSlug: si-he-qi-yi
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此世方當出手，君侯渠得忘情。
-- 莫麽買山高論，行哉破竹邊聲。
+- 一州如許斗大，四海望公則深。
+- 事業本無奇巧，聖賢只有虛心。
 
 ## 拼音
 
-- ci3 shi4 fang1 dang1 chu1 shou3 ， jun1 hou2 qu2 de2 wang4 qing2 。
-- mo4 mo2 mai3 shan1 gao1 lun4 ， xing2 zai1 po4 zhu2 bian1 sheng1 。
+- yi4 zhou1 ru2 xu1 dou4 da4 ， si4 hai3 wang4 gong1 ze2 shen1 。
+- shi4 ye4 ben3 wu2 qi2 qiao3 ， sheng4 xian2 zhi3 you3 xu1 xin1 。
 
 ## 注释
 

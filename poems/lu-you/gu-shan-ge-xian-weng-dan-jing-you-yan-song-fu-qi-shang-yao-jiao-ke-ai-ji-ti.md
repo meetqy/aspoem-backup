@@ -6,10 +6,10 @@ titleSlug: gu-shan-ge-xian-weng-dan-jing-you-yan-song-fu-qi-shang-yao-jiao-ke-ai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

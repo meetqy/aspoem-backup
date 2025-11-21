@@ -6,10 +6,10 @@ titleSlug: ren-wu-jiu-ri-shi-zi-zi-guang-yun-tie-nan-xiong-gui-tu-guo-jia-shi-zh
 author: 蕭立之
 authorPinyin: xiao1 li4 zhi1
 authorSlug: xiao-li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

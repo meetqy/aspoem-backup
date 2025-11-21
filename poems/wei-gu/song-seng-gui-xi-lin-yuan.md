@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-xi-lin-yuan
 author: 危固
 authorPinyin: wei1 gu4
 authorSlug: wei-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

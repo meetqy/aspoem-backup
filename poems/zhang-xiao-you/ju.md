@@ -6,9 +6,9 @@ titleSlug: ju
 author: 張孝友
 authorPinyin: zhang1 xiao4 you3
 authorSlug: zhang-xiao-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

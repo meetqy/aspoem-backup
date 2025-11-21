@@ -6,25 +6,25 @@ titleSlug: tian-jin-xian-bu
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天子舊神州，葱葱氣象浮。
-- 園林閑近水，殿閣遠橫秋。
-- 浪雪暑猶在，橋虹晴不收。
-- 人間無事日，此地好淹留。
+- 洛陽城裏任西東，二十年來放盡慵。
+- 故舊人多時欵曲，京都國大體雍容。
+- 池平有類江湖上，林靜或如山谷中。
+- 不必奇功蓋天下，閑居之樂自無窮。
 
 ## 拼音
 
-- tian1 zi3 jiu4 shen2 zhou1 ， cong1 cong1 qi4 xiang4 fu2 。
-- yuan2 lin2 xian2 jin4 shui3 ， dian4 ge2 yuan3 heng2 qiu1 。
-- lang4 xue3 shu3 you2 zai4 ， qiao2 hong2 qing2 bu4 shou1 。
-- ren2 jian4 wu2 shi4 ri4 ， ci3 di4 hao3 yan1 liu2 。
+- luo4 yang2 cheng2 li3 ren4 xi1 dong1 ， er4 shi2 nian2 lai2 fang4 jin4 yong1 。
+- gu4 jiu4 ren2 duo1 shi2 kuan3 qu3 ， jing1 du1 guo2 da4 ti3 yong1 rong2 。
+- chi2 ping2 you3 lei4 jiang1 hu2 shang4 ， lin2 jing4 huo4 ru2 shan1 gu3 zhong1 。
+- bu2 bi4 qi2 gong1 gai4 tian1 xia4 ， xian2 ju1 zhi1 le4 zi4 wu2 qiong2 。
 
 ## 注释
 

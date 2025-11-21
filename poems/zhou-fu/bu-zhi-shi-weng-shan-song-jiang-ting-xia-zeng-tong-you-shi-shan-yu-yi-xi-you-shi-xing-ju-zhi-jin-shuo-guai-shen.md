@@ -6,10 +6,10 @@ titleSlug: bu-zhi-shi-weng-shan-song-jiang-ting-xia-zeng-tong-you-shi-shan-yu-yi
 author: 周孚
 authorPinyin: zhou1 fu2
 authorSlug: zhou-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

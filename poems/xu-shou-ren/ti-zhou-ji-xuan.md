@@ -6,9 +6,9 @@ titleSlug: ti-zhou-ji-xuan
 author: 徐壽仁
 authorPinyin: xu2 shou4 ren2
 authorSlug: xu-shou-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祐神珍觀五雲開，高倚層霄疊玉臺。
-- 笑語半空知遠近，縱觀飛騎拂塵來。
+- 桃作香腮玉作膚，飄飄雲縷曳衣裾。
+- 婦功奇麗皆能事，一種心勤是讀書。
 
 ## 拼音
 
-- you4 shen2 zhen1 guan1 wu3 yun2 kai1 ， gao1 yi3 ceng2 xiao1 die2 yu4 tai2 。
-- xiao4 yu3 ban4 kong1 zhi1 yuan3 jin4 ， zong4 guan1 fei1 qi2 fu2 chen2 lai2 。
+- tao2 zuo4 xiang1 sai1 yu4 zuo4 fu1 ， piao1 piao1 yun2 lü3 ye4 yi1 ju1 。
+- fu4 gong1 qi2 li2 jie1 neng2 shi4 ， yi4 zhong3 xin1 qin2 shi4 du2 shu1 。
 
 ## 注释
 

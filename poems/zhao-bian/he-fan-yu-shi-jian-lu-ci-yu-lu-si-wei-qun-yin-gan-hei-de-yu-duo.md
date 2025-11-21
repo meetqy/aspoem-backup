@@ -6,10 +6,10 @@ titleSlug: he-fan-yu-shi-jian-lu-ci-yu-lu-si-wei-qun-yin-gan-hei-de-yu-duo
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

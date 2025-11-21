@@ -6,25 +6,25 @@ titleSlug: ji-shi-qi-san
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已是春光晚，那堪雨氣昏。
-- 數莖驚白髮，萬感集清樽。
-- 才力須時展，功名有命存。
-- 眼前何足校，一笑任乾坤。
+- 歸來世事任浮沉，車馬蕭條門巷深。
+- 一榻容身無妄想，兩餐度日少關心。
+- 園收佳實隨時薦，甕有新篘待月斟。
+- 老覺閒居渾有味，不須榮宦說駸駸。
 
 ## 拼音
 
-- yi3 shi4 chun1 guang1 wan3 ， na4 kan1 yu3 qi4 hun1 。
-- shu4 jing4 jing1 bai2 fa4 ， wan4 gan3 ji2 qing1 zun1 。
-- cai2 li4 xu1 shi2 zhan3 ， gong1 ming2 you3 ming4 cun2 。
-- yan3 qian2 he2 zu2 xiao4 ， yi2 xiao4 ren4 qian2 kun1 。
+- gui1 lai2 shi4 shi4 ren4 fu2 chen2 ， ju1 ma3 xiao1 tiao2 men2 xiang4 shen1 。
+- yi2 ta4 rong2 shen1 wu2 wang4 xiang3 ， liang3 can1 du4 ri4 shao3 guan1 xin1 。
+- yuan2 shou1 jia1 shi2 sui2 shi2 jian4 ， weng4 you3 xin1 chou1 dai4 yue4 zhen1 。
+- lao3 jue2 xian2 ju1 hun2 you3 wei4 ， bu4 xu1 rong2 huan4 shuo1 qin1 qin1 。
 
 ## 注释
 

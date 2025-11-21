@@ -6,25 +6,25 @@ titleSlug: ju-zhong-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋天近霜霰，吳地少風塵。
-- 時駕小車出，始知閑客真。
-- 新交孰傾蓋，往事漫霑巾。
-- 處處皆堪隱，桃源莫問津。
+- 雨過未生塵，寒輕不著人。
+- 斷雲飛苑路，高柳暗天津。
+- 憔悴非平日，呻吟又一春。
+- 絲毫寧有補，空負耦耕身。
 
 ## 拼音
 
-- qiu1 tian1 jin4 shuang1 xian4 ， wu2 di4 shao3 feng1 chen2 。
-- shi2 jia4 xiao3 ju1 chu1 ， shi3 zhi1 xian2 ke4 zhen1 。
-- xin1 jiao1 shu2 qing1 gai4 ， wang3 shi4 man4 zhan1 jin1 。
-- chu3 chu3 jie1 kan1 yin3 ， tao2 yuan2 mo4 wen4 jin1 。
+- yu3 guo4 wei4 sheng1 chen2 ， han2 qing1 bu2 zhu4 ren2 。
+- duan4 yun2 fei1 yuan4 lu4 ， gao1 liu3 an4 tian1 jin1 。
+- qiao2 cui4 fei1 ping2 ri4 ， shen1 yin2 you4 yi4 chun1 。
+- si1 hao2 ning2 you3 bu3 ， kong1 fu4 ou3 geng1 shen1 。
 
 ## 注释
 

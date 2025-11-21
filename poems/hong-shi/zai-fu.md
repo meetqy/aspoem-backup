@@ -6,25 +6,25 @@ titleSlug: zai-fu
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 向來胡馬遠跳梁，奔命紛紛不一邦。
-- 景物何期新劚壑，夢魂猶自怯防江。
-- 看山小隱紅蓮幙，批敕須臨青瑣窗。
-- 無事肯來文字飲，爲將紅酒倒鵝缸。
+- 月在雲中破鏡昏，幾時清影散林村。
+- 杖藜難去尋漁艇，洗盞無因續蟻樽。
+- 竹葉弄風添秀色，榴花带雨露啼痕。
+- 不如暮捲珠簾醉，喚取佳人笑拊盆。
 
 ## 拼音
 
-- xiang4 lai2 hu2 ma3 yuan3 tiao4 liang2 ， ben4 ming4 fen1 fen1 bu4 yi4 bang1 。
-- jing3 wu4 he2 qi1 xin1 zhu2 he4 ， meng4 hun2 you2 zi4 qie4 fang2 jiang1 。
-- kan4 shan1 xiao3 yin3 hong2 lian2 mu4 ， pi1 chi4 xu1 lin2 qing1 suo3 chuang1 。
-- wu2 shi4 ken3 lai2 wen2 zi4 yin3 ， wei2 jiang1 hong2 jiu3 dao3 e2 gang1 。
+- yue4 zai4 yun2 zhong1 po4 jing4 hun1 ， ji1 shi2 qing1 ying3 san4 lin2 cun1 。
+- zhang4 li2 nan2 qu4 xun2 yu2 ting3 ， xi3 zhan3 wu2 yin1 xu4 yi3 zun1 。
+- zhu2 ye4 nong4 feng1 tian1 xiu4 se4 ， liu2 hua1 dai4 yu3 lu4 ti2 hen2 。
+- bu4 ru2 mu4 juan3 zhu1 lian2 zui4 ， huan4 qu3 jia1 ren2 xiao4 fu3 pen2 。
 
 ## 注释
 

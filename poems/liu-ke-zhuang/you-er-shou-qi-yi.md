@@ -6,25 +6,25 @@ titleSlug: you-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世道方憑藉，云胡不憗遺。
-- 重如鎮喬嶽，寬可納須彌。
-- 鴟閣開無日，蟇陵窆有期。
-- 嗟余衰久矣，告第乏雄辭。
+- 萊菔可虀秔可炊，絕勝遠訪碧溪祠。
+- 渠能去伴舒爲誥，時有來聽鼎說詩。
+- 江夏奇童今屬子，金華仙伯更傳誰。
+- 錦囊倒贈貧家了，不管旁觀笑橐垂。
 
 ## 拼音
 
-- shi4 dao4 fang1 ping2 jie4 ， yun2 hu2 bu2 yin4 yi2 。
-- zhong4 ru2 zhen4 qiao2 yue4 ， kuan1 ke3 na4 xu1 mi2 。
-- chi1 ge2 kai1 wu2 ri4 ， ma2 ling2 bian3 you3 qi1 。
-- jie1 yu2 shuai1 jiu3 yi3 ， gao4 di4 fa2 xiong2 ci2 。
+- lai2 fu2 ke3 ji1 jing1 ke3 chui1 ， jue2 sheng4 yuan3 fang3 bi4 xi1 ci2 。
+- qu2 neng2 qu4 ban4 shu1 wei2 gao4 ， shi2 you3 lai2 ting1 ding3 shuo1 shi1 。
+- jiang1 xia4 qi2 tong2 jin1 shu3 zi3 ， jin1 hua2 xian1 bo2 geng4 chuan2 shui2 。
+- jin3 nang2 dao3 zeng4 pin2 jia1 le0 ， bu4 guan3 pang2 guan1 xiao4 tuo2 chui2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jie-yin-zhi-da-qiao-pu-ji-shao-yang-fu-lao
 author: 沈伯達
 authorPinyin: shen3 bo2 da2
 authorSlug: shen-bo-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

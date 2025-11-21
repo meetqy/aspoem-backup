@@ -6,10 +6,10 @@ titleSlug: qing-feng-ting
 author: 米恁
 authorPinyin: mi3 nen4
 authorSlug: mi-nen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

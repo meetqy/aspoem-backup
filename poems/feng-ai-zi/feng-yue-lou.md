@@ -6,10 +6,10 @@ titleSlug: feng-yue-lou
 author: 馮艾子
 authorPinyin: feng2 ai4 zi3
 authorSlug: feng-ai-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

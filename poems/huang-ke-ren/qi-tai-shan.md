@@ -6,10 +6,10 @@ titleSlug: qi-tai-shan
 author: 黄克仁
 authorPinyin: huang2 ke4 ren2
 authorSlug: huang-ke-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

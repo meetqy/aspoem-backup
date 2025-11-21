@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 王安國
 authorPinyin: wang2 an1 guo2
 authorSlug: wang-an-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吳興太守美如何，太守從來惡祝鮀。
-- 生若不爲上柱國，死時猶合作閻羅。
+- 三見齊王不一言，須知自古致君難。
+- 紛紛齊虜誇迂闊，口舌從來易得官。
 
 ## 拼音
 
-- wu2 xing1 tai4 shou3 mei3 ru2 he2 ， tai4 shou3 cong2 lai2 e4 zhu4 tuo2 。
-- sheng1 ruo4 bu4 wei2 shang4 zhu4 guo2 ， si3 shi2 you2 he2 zuo4 yan2 luo2 。
+- san1 jian4 qi2 wang2 bu4 yi4 yan2 ， xu1 zhi1 zi4 gu3 zhi4 jun1 nan2 。
+- fen1 fen1 qi2 lu3 kua1 yu1 kuo4 ， kou3 she2 cong2 lai2 yi4 de2 guan1 。
 
 ## 注释
 

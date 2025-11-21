@@ -6,9 +6,9 @@ titleSlug: guo-fang-guang-bu-yu-zhu-seng-liu-shi
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
@@ -38,7 +38,7 @@ tags: []
 - yao4 xu1 jiu3 hu2 zhui4 yang2 qiang1 ， ai1 xiao1 yuan4 di2 ge1 huan2 shuang1 。
 - mian3 huai2 dong1 yan2 xie4 tai4 fu4 ， ti2 xie2 jing4 yan4 ling2 kong1 㟅。
 - bu4 xue2 xiang1 shan1 bai2 ju1 shi4 ， zhi1 yu3 ru2 man3 xiang1 dun1 mang2 。
-- xiang3 jun1 wen2 zhi1 xiao4 qie3 { kou3 mang2 }， xi1 dong1 fen1 liu2 ling3 tou2 long2 。
+- xiang3 jun1 wen2 zhi1 xiao4 qie3  { kou3 mang2 }， xi1 dong1 fen1 liu2 ling3 tou2 long2 。
 - gui1 lai2 yi4 fu4 you3 he2 hao3 ， fang1 cun4 zuo4 yi3 zhong1 yu2 jiang4 。
 - liu2 shi1 liu4 fan3 jie1 zhen4 dong4 ， yu2 shui2 kao3 ji1 zhong1 shui2 zhuang4 。
 

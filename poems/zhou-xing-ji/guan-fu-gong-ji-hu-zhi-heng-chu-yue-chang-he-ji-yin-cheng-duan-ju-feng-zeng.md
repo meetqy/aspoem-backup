@@ -6,10 +6,10 @@ titleSlug: guan-fu-gong-ji-hu-zhi-heng-chu-yue-chang-he-ji-yin-cheng-duan-ju-fen
 author: 周行己
 authorPinyin: zhou1 xing2 ji3
 authorSlug: zhou-xing-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

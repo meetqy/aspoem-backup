@@ -6,10 +6,10 @@ titleSlug: lin-ji-ji-qi-er
 author: 釋若愚
 authorPinyin: shi4 ruo4 yu2
 authorSlug: shi-ruo-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

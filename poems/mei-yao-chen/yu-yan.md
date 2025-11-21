@@ -1,30 +1,30 @@
 ---
 id: mei-yao-chen-yu-yan
-title: 寓言
-titlePinyin: yu4 yan2
+title: 雨燕
+titlePinyin: yu3 yan4
 titleSlug: yu-yan
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒燈不照遠，光止一室明。
-- 小人不慮遠，義止目前榮。
-- 燈既無久焰，人亦無久情。
-- 誰言結明月，明月豈長盈。
+- 雨燕去還來，銜蟲爲雛食。
+- 雄雌濕已倦，梁棟冷並息。
+- 緣礎蚍蜉羣，拾餕蜻蜓翼。
+- 穀粟滿京囷，任從黄雀得。
 
 ## 拼音
 
-- han2 deng1 bu2 zhao4 yuan3 ， guang1 zhi3 yi2 shi4 ming2 。
-- xiao3 ren2 bu2 lü4 yuan3 ， yi4 zhi3 mu4 qian2 rong2 。
-- deng1 ji4 wu2 jiu3 yan4 ， ren2 yi4 wu2 jiu3 qing2 。
-- shui2 yan2 jie2 ming2 yue4 ， ming2 yue4 qi3 chang2 ying2 。
+- yu3 yan4 qu4 huan2 lai2 ， xian2 chong2 wei2 chu2 shi2 。
+- xiong2 ci2 shi1 yi3 juan4 ， liang2 dong4 leng3 bing4 xi1 。
+- yuan2 chu3 pi2 fu2 qun2 ， shi2 jun4 qing1 ting2 yi4 。
+- gu3 su4 man3 jing1 qun1 ， ren4 cong2 huang2 que4 de2 。
 
 ## 注释
 

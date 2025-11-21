@@ -6,10 +6,10 @@ titleSlug: jian-guang-lu-liang-zhang-qing-tui-ju-qi-er
 author: 呂溱
 authorPinyin: lü3 zhen1
 authorSlug: lu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

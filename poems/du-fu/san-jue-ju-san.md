@@ -9,18 +9,18 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 無數春笋滿林生，柴門密掩斷人行。
-- 會須上番看成竹，客至從嗔不出迎。
+- 殿前兵馬雖驍雄，縱暴略與羌渾同。
+- 聞道殺人漢水上，婦女多在官軍中。
 
 ## 拼音
 
-- wu2 shu4 chun1 sun3 man3 lin2 sheng1 ， chai2 men2 mi4 yan3 duan4 ren2 hang2 。
-- hui4 xu1 shang4 fan1 kan4 cheng2 zhu2 ， ke4 zhi4 cong2 chen1 bu4 chu1 ying2 。
+- dian4 qian2 bing1 ma3 sui1 xiao1 xiong2 ， zong4 bao4 lüe4 yu3 qiang1 hun2 tong2 。
+- wen2 dao4 sha1 ren2 han4 shui3 shang4 ， fu4 nü3 duo1 zai4 guan1 jun1 zhong1 。
 
 ## 注释
 

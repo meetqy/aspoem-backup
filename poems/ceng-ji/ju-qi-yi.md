@@ -1,24 +1,24 @@
 ---
 id: ceng-ji-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地靈得南徐，天險稱此固。
+- 摸金千騎去，埋玉幾人歸。
 
 ## 拼音
 
-- di4 ling2 de2 nan2 xu2 ， tian1 xian3 cheng1 ci3 gu4 。
+- mo1 jin1 qian1 qi2 qu4 ， mai2 yu4 ji1 ren2 gui1 。
 
 ## 注释
 

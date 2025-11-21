@@ -6,10 +6,10 @@ titleSlug: yu-qian-tang-de-xiang-ren-xiao-xi
 author: 張眇
 authorPinyin: zhang1 miao3
 authorSlug: zhang-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

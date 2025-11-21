@@ -6,10 +6,10 @@ titleSlug: song-chun-shang-ren-gui-gu-shan
 author: 釋鑒微
 authorPinyin: shi4 jian4 wei1
 authorSlug: shi-jian-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

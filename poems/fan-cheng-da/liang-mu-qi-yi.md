@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-liang-mu-qi-yi
-title: 兩木・其一
-titlePinyin: liang3 mu4・qi2 yi1
+title: 兩木  其一
+titlePinyin: liang3 mu4     qi2 yi1
 titleSlug: liang-mu-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

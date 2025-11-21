@@ -6,25 +6,25 @@ titleSlug: yu-tan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江上霜風透弊袍，區區無奈簿書勞。
-- 衰遲始憶壯遊樂，仕宦更知歸臥高。
-- 人怪羊裘忘富貴，我從牛儈得賢豪。
-- 俗間問訊真成懶，有手惟堪把蟹螯。
+- 白首還鄉厭蕨薇，倀倀自嘆欲疇依。
+- 門庭不掃稀迎客，碪杵無聲未贖衣。
+- 達士共知生是贅，古人嘗謂死爲歸。
+- 耕疇幸可期中熟，又報殘蝗接翅飛。
 
 ## 拼音
 
-- jiang1 shang4 shuang1 feng1 tou4 bi4 pao2 ， qu1 qu1 wu2 nai4 bo2 shu1 lao2 。
-- shuai1 chi2 shi3 yi4 zhuang4 you2 le4 ， shi4 huan4 geng4 zhi1 gui1 wo4 gao1 。
-- ren2 guai4 yang2 qiu2 wang4 fu4 gui4 ， wo3 cong2 niu2 kuai4 de2 xian2 hao2 。
-- su2 jian4 wen4 xun4 zhen1 cheng2 lan3 ， you3 shou3 wei2 kan1 ba3 xie4 ao2 。
+- bai2 shou3 huan2 xiang1 yan4 jue2 wei1 ， chang1 chang1 zi4 tan4 yu4 chou2 yi1 。
+- men2 ting2 bu4 sao3 xi1 ying2 ke4 ， zhen1 chu3 wu2 sheng1 wei4 shu2 yi1 。
+- da2 shi4 gong4 zhi1 sheng1 shi4 zhui4 ， gu3 ren2 chang2 wei4 si3 wei2 gui1 。
+- geng1 chou2 xing4 ke3 qi1 zhong1 shu2 ， you4 bao4 can2 huang2 jie1 chi4 fei1 。
 
 ## 注释
 

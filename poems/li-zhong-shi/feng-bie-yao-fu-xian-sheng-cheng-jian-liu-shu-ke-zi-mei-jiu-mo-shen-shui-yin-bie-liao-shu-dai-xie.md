@@ -6,10 +6,10 @@ titleSlug: feng-bie-yao-fu-xian-sheng-cheng-jian-liu-shu-ke-zi-mei-jiu-mo-shen-s
 author: 李中師
 authorPinyin: li3 zhong1 shi1
 authorSlug: li-zhong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

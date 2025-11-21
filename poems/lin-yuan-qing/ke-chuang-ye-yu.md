@@ -6,10 +6,10 @@ titleSlug: ke-chuang-ye-yu
 author: 林元卿
 authorPinyin: lin2 yuan2 qing1
 authorSlug: lin-yuan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,41 @@ titleSlug: jian-ke-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我友劍俠非常人，袖中青蛇生細鱗。
-- 騰空頃刻已千里，手决風雲驚鬼神。
-- 荆軻專諸何足数，中夜入燕特起舞。
-- 一身獨報萬國讎，歸告昌陵泪如雨。
+- 世無知劍人，太阿混凡鐵。
+- 至寶棄泥沙，光景終不滅。
+- 一朝斬長鯨，海水赤三月。
+- 隠見天地間，變化豈易測。
+- 國家未滅冦，臣子同此責。
+- 浪迹潜山海，歲晚得劍客。
+- 酒酣脫匕首，白刅明霜雪。
+- 夜半報讐歸，斑斑腥带血。
+- 細讐何足問，大恥同憤切。
+- 臣位雖卑賤，臣身可屠裂。
+- 誓當函胡首，再拜奏北闕。
+- 逃去變姓名，山中餐玉屑。
 
 ## 拼音
 
-- wo3 you3 jian4 xia2 fei1 chang2 ren2 ， xiu4 zhong1 qing1 she2 sheng1 xi4 lin2 。
-- teng2 kong1 qing3 ke4 yi3 qian1 li3 ， shou3 jue2 feng1 yun2 jing1 gui3 shen2 。
-- jing1 ke1 zhuan1 zhu1 he2 zu2 shu4 ， zhong1 ye4 ru4 yan4 te4 qi3 wu3 。
-- yi4 shen1 du2 bao4 wan4 guo2 chou2 ， gui1 gao4 chang1 ling2 lei4 ru2 yu3 。
+- shi4 wu2 zhi1 jian4 ren2 ， tai4 e1 hun4 fan2 tie3 。
+- zhi4 bao3 qi4 ni2 sha1 ， guang1 jing3 zhong1 bu2 mie4 。
+- yi4 zhao1 zhan3 chang2 jing1 ， hai3 shui3 chi4 san1 yue4 。
+- yin3 jian4 tian1 di4 jian4 ， bian4 hua4 qi3 yi4 ce4 。
+- guo2 jia1 wei4 mie4 kou4 ， chen2 zi3 tong2 ci3 ze2 。
+- lang4 ji4 qian2 shan1 hai3 ， sui4 wan3 de2 jian4 ke4 。
+- jiu3 han1 tuo1 bi3 shou3 ， bai2 chuang1 ming2 shuang1 xue3 。
+- ye4 ban4 bao4 chou2 gui1 ， ban1 ban1 xing1 dai4 xue4 。
+- xi4 chou2 he2 zu2 wen4 ， da4 chi3 tong2 fen4 qie4 。
+- chen2 wei4 sui1 bei1 jian4 ， chen2 shen1 ke3 tu2 lie4 。
+- shi4 dang1 han2 hu2 shou3 ， zai4 bai4 zou4 bei3 que4 。
+- tao2 qu4 bian4 xing4 ming2 ， shan1 zhong1 can1 yu4 xie4 。
 
 ## 注释
 

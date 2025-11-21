@@ -6,10 +6,10 @@ titleSlug: ling-shou-tong-nian-xiong-zai-yi-qi-xie-fen-hui-fu-cheng-xiao-shi-yi-
 author: 曾肇
 authorPinyin: ceng2 zhao4
 authorSlug: ceng-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

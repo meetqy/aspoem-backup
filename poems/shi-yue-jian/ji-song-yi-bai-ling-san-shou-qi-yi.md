@@ -1,26 +1,26 @@
 ---
 id: shi-yue-jian-ji-song-yi-bai-ling-san-shou-qi-yi
-title: 偈頌一百零三首  其一
-titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 yi1
+title: 偈頌一百零三首  其一○○
+titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 yi1 ○ ○
 titleSlug: ji-song-yi-bai-ling-san-shou-qi-yi
 author: 釋月磵
 authorPinyin: shi4 yue4 jian4
 authorSlug: shi-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東鄰西舍，隔壁深冤。
-- 真語實語呪詛語，分明爲我重宣。
+- 奪賊鎗兮便殺賊，山河大地血淋漓。
+- 今朝冷地翻交轉，萬壘西風鐵馬嘶。
 
 ## 拼音
 
-- dong1 lin2 xi1 she4 ， ge2 bi4 shen1 yuan1 。
-- zhen1 yu3 shi2 yu3 zhou4 zu3 yu3 ， fen1 ming2 wei2 wo3 zhong4 xuan1 。
+- duo2 zei2 qiang1 xi1 bian4 sha1 zei2 ， shan1 he2 da4 di4 xue4 lin2 li2 。
+- jin1 zhao1 leng3 di4 fan1 jiao1 zhuan3 ， wan4 lei3 xi1 feng1 tie3 ma3 si1 。
 
 ## 注释
 

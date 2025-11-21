@@ -6,10 +6,10 @@ titleSlug: zhu-ge-lu
 author: 鄭吾民
 authorPinyin: zheng4 wu2 min2
 authorSlug: zheng-wu-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: liu-ti-ling-yan
 author: 趙邦美
 authorPinyin: zhao4 bang1 mei3
 authorSlug: zhao-bang-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

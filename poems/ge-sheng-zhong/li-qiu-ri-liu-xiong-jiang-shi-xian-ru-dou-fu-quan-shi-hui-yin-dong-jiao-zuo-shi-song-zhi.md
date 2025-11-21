@@ -6,10 +6,10 @@ titleSlug: li-qiu-ri-liu-xiong-jiang-shi-xian-ru-dou-fu-quan-shi-hui-yin-dong-ji
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

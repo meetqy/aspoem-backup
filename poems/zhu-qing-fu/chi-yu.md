@@ -6,10 +6,10 @@ titleSlug: chi-yu
 author: 祝慶夫
 authorPinyin: zhu4 qing4 fu1
 authorSlug: zhu-qing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-ying-dian-ci-jin-shi-ji-di-gong-xie-shi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

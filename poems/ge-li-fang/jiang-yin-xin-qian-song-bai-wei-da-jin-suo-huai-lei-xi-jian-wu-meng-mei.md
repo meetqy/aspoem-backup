@@ -6,10 +6,10 @@ titleSlug: jiang-yin-xin-qian-song-bai-wei-da-jin-suo-huai-lei-xi-jian-wu-meng-m
 author: 葛立方
 authorPinyin: ge3 li4 fang1
 authorSlug: ge-li-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

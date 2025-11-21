@@ -6,10 +6,10 @@ titleSlug: hui-shan-si-bing-jian-dou-gong
 author: 蘇紳
 authorPinyin: su1 shen1
 authorSlug: su-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

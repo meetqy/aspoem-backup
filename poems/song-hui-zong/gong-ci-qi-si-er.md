@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑤林新睹玉爲墀，瑞竹雙擎待鳳枝。
-- 共本分岐駢粉節，龜趺御製有新詩。
+- 清和景物稱遊遨，金屋亭亭瑞日高。
+- 節物應時來别院，合中連絡進櫻桃。
 
 ## 拼音
 
-- yao2 lin2 xin1 du3 yu4 wei2 chi2 ， rui4 zhu2 shuang1 qing2 dai4 feng4 zhi1 。
-- gong4 ben3 fen4 qi2 pian2 fen3 jie2 ， gui1 fu1 yu4 zhi4 you3 xin1 shi1 。
+- qing1 he2 jing3 wu4 cheng1 you2 ao2 ， jin1 wu1 ting2 ting2 rui4 ri4 gao1 。
+- jie2 wu4 ying1 shi2 lai2 bie2 yuan4 ， he2 zhong1 lian2 luo4 jin4 ying1 tao2 。
 
 ## 注释
 

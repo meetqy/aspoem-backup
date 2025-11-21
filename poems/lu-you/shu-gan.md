@@ -6,25 +6,21 @@ titleSlug: shu-gan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪路人家尚闔扉，彊扶衰憊著征衣。
-- 百年朝露古所嘆，一櫂秋風吾欲歸。
-- 楚客長號沽白璧，漢宫太息遣明妃。
-- 鑠金銷骨從来事，老矣何心踐駭機。
+- 鴨子陂頭看水生，蜂兒園裏按歌聲。
+- 天公用意誰能測，未許吾曹醉太平。
 
 ## 拼音
 
-- xi1 lu4 ren2 jia1 shang4 he2 fei1 ， qiang2 fu2 shuai1 bei4 zhu4 zheng1 yi1 。
-- bai3 nian2 zhao1 lu4 gu3 suo3 tan4 ， yi2 zhao4 qiu1 feng1 wu2 yu4 gui1 。
-- chu3 ke4 chang2 hao4 gu1 bai2 bi4 ， han4 gong1 tai4 xi1 qian3 ming2 fei1 。
-- shuo4 jin1 xiao1 gu3 cong2 lai2 shi4 ， lao3 yi3 he2 xin1 jian4 hai4 ji1 。
+- ya1 zi3 bei1 tou2 kan4 shui3 sheng1 ， feng1 er2 yuan2 li3 an4 ge1 sheng1 。
+- tian1 gong1 yong4 yi4 shui2 neng2 ce4 ， wei4 xu1 wu2 cao2 zui4 tai4 ping2 。
 
 ## 注释
 

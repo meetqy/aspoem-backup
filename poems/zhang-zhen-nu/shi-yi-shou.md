@@ -6,9 +6,9 @@ titleSlug: shi-yi-shou
 author: 張珍奴
 authorPinyin: zhang1 zhen1 nu2
 authorSlug: zhang-zhen-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

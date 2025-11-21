@@ -6,10 +6,10 @@ titleSlug: ping-gao-huai-gu
 author: 羅必元
 authorPinyin: luo2 bi4 yuan2
 authorSlug: luo-bi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

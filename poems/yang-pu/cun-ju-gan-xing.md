@@ -6,9 +6,9 @@ titleSlug: cun-ju-gan-xing
 author: 楊朴
 authorPinyin: yang2 pu3
 authorSlug: yang-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: he-zhang-shou-san-yong-bao-gong-tang
 author: 黄公度
 authorPinyin: huang2 gong1 du4
 authorSlug: huang-gong-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

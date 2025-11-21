@@ -6,21 +6,21 @@ titleSlug: xi-ti
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 走馬平欺刺繡坡，放船横截亂絲渦。
-- 從來倚箇心平穩，遇險方知得力多。
+- 莫輕凡骨未飛騰，要勝人間粥飯僧。
+- 山路近行猶百里，酒杯一舉必三升。
 
 ## 拼音
 
-- zou3 ma3 ping2 qi1 ci4 xiu4 po1 ， fang4 chuan2 heng2 jie2 luan4 si1 wo1 。
-- cong2 lai2 yi3 ge4 xin1 ping2 wen3 ， yu4 xian3 fang1 zhi1 de2 li4 duo1 。
+- mo4 qing1 fan2 gu3 wei4 fei1 teng2 ， yao4 sheng4 ren2 jian4 zhou1 fan4 seng1 。
+- shan1 lu4 jin4 xing2 you2 bai3 li3 ， jiu3 bei1 yi4 ju3 bi4 san1 sheng1 。
 
 ## 注释
 

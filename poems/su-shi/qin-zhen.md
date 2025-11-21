@@ -6,25 +6,25 @@ titleSlug: qin-zhen
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清眸作金徽，素齒爲玉軫。
-- 響泉竟何用，金带常苦窘。
-- 斕斑漬珠璫，宛轉堆雲鬒。
-- 君若安七絃，應彈卓氏引。
+- 高情閑處任君彈，幽夢來時與子眠。
+- 彭澤漫知琴上趣，邯鄲深得枕中仙。
+- 試尋玉軫拋何處，閑喚香雲在那邊。
+- 平素不須煩按抑，秦娥自解語如絃。
 
 ## 拼音
 
-- qing1 mou2 zuo4 jin1 hui1 ， su4 chi3 wei2 yu4 zhen3 。
-- xiang3 quan2 jing4 he2 yong4 ， jin1 dai4 chang2 ku3 jiong3 。
-- lan2 ban1 zi4 zhu1 dang1 ， wan3 zhuan3 dui1 yun2 zhen3 。
-- jun1 ruo4 an1 qi1 xian2 ， ying1 dan4 zhuo2 shi4 yin3 。
+- gao1 qing2 xian2 chu3 ren4 jun1 dan4 ， you1 meng4 lai2 shi2 yu3 zi3 mian2 。
+- peng2 ze2 man4 zhi1 qin2 shang4 qu4 ， han2 dan1 shen1 de2 zhen3 zhong1 xian1 。
+- shi4 xun2 yu4 zhen3 pao1 he2 chu3 ， xian2 huan4 xiang1 yun2 zai4 na4 bian1 。
+- ping2 su4 bu4 xu1 fan2 an4 yi4 ， qin2 e2 zi4 jie3 yu3 ru2 xian2 。
 
 ## 注释
 

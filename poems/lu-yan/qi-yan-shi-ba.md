@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 九六相交道氣和，河車晝夜迸金波。
-- 呼時一一關頭轉，吸處重重脈上摩。
-- 電激離門光海嶽，雷轟震戶動婆娑。
-- 思量此道真長遠，學者多迷溺愛河。
+- 因看崔公入藥鏡，令人心地轉分明。
+- 陽龍言向離宮出，陰虎還於坎位生。
+- 二物會時爲道本，五方行盡得丹名。
+- 修真道士如知此，定跨赤龍歸玉清。
 
 ## 拼音
 
-- jiu3 liu4 xiang1 jiao1 dao4 qi4 he2 ， he2 ju1 zhou4 ye4 beng4 jin1 bo1 。
-- hu1 shi2 yi1 yi1 guan1 tou2 zhuan3 ， xi1 chu3 chong2 chong2 mai4 shang4 mo2 。
-- dian4 ji1 li2 men2 guang1 hai3 yue4 ， lei2 hong1 zhen4 hu4 dong4 po2 suo1 。
-- si1 liang0 ci3 dao4 zhen1 chang2 yuan3 ， xue2 zhe3 duo1 mi2 ni4 ai4 he2 。
+- yin1 kan4 cui1 gong1 ru4 yao4 jing4 ， ling4 ren2 xin1 di4 zhuan3 fen1 ming2 。
+- yang2 long2 yan2 xiang4 li2 gong1 chu1 ， yin1 hu3 huan2 wu1 kan3 wei4 sheng1 。
+- er4 wu4 hui4 shi2 wei2 dao4 ben3 ， wu3 fang1 xing2 jin4 de2 dan1 ming2 。
+- xiu1 zhen1 dao4 shi0 ru2 zhi1 ci3 ， ding4 kua4 chi4 long2 gui1 yu4 qing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qing-mei-zhou-liu-hou-xiu-qi-cheng-xiang-xue-gong-luo-cheng-qi-san
 author: 林陶
 authorPinyin: lin2 tao2
 authorSlug: lin-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

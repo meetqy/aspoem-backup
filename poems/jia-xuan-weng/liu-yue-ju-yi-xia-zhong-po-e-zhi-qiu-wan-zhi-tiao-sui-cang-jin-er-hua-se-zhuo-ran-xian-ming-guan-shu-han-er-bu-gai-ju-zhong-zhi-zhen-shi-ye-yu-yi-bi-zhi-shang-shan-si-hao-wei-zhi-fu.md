@@ -6,10 +6,10 @@ titleSlug: liu-yue-ju-yi-xia-zhong-po-e-zhi-qiu-wan-zhi-tiao-sui-cang-jin-er-hua
 author: 家鉉翁
 authorPinyin: jia1 xuan4 weng1
 authorSlug: jia-xuan-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

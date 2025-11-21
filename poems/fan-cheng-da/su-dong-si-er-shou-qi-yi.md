@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-su-dong-si-er-shou-qi-yi
-title: 宿東寺二首・其一
-titlePinyin: su4 dong1 si4 er4 shou3・qi2 yi1
+title: 宿東寺二首  其一
+titlePinyin: su4 dong1 si4 er4 shou3     qi2 yi1
 titleSlug: su-dong-si-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,26 +1,28 @@
 ---
 id: shi-zong-gao-ji-song-yi-bai-liu-shi-shou-qi-wu
-title: 偈頌一百六十首  其五
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 shou3     qi2 wu3
+title: 偈頌一百六十首  其五○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 shou3     qi2 wu3 ○
 titleSlug: ji-song-yi-bai-liu-shi-shou-qi-wu
 author: 釋宗杲
 authorPinyin: shi4 zong1 gao3
 authorSlug: shi-zong-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衝開碧落松千尺，截斷紅塵水一谿。
-- 不識本來真面目，將謂人題德嶠詩。
+- 無邊剎境，自他不隔於毫端。
+- 十世古今，始終不離於當念。
+- 丈夫自有衝天志，休向如來行處行。
 
 ## 拼音
 
-- chong1 kai1 bi4 luo4 song1 qian1 chi3 ， jie2 duan4 hong2 chen2 shui3 yi4 xi1 。
-- bu4 shi2 ben3 lai2 zhen1 mian4 mu4 ， jiang1 wei4 ren2 ti2 de2 jiao4 shi1 。
+- wu2 bian1 cha4 jing4 ， zi4 ta1 bu4 ge2 wu1 hao2 duan1 。
+- shi2 shi4 gu3 jin1 ， shi3 zhong1 bu4 li2 wu1 dang1 nian4 。
+- zhang4 fu0 zi4 you3 chong1 tian1 zhi4 ， xiu1 xiang4 ru2 lai2 xing2 chu3 xing2 。
 
 ## 注释
 

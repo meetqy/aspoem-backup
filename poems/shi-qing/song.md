@@ -6,9 +6,9 @@ titleSlug: song
 author: 釋清
 authorPinyin: shi4 qing1
 authorSlug: shi-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

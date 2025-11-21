@@ -6,10 +6,10 @@ titleSlug: ti-zhao-zi-gu-shui-xian-tu
 author: 翠屏道人
 authorPinyin: cui4 ping2 dao4 ren2
 authorSlug: cui-ping-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

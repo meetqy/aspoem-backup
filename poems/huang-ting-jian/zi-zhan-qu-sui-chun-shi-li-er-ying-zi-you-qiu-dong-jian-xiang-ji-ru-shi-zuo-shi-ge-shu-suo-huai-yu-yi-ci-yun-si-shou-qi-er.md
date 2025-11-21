@@ -6,10 +6,10 @@ titleSlug: zi-zhan-qu-sui-chun-shi-li-er-ying-zi-you-qiu-dong-jian-xiang-ji-ru-s
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

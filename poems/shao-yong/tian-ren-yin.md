@@ -6,21 +6,21 @@ titleSlug: tian-ren-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羲軒堯舜雖難復，湯武桓文尚可循。
-- 事既不同時又異，也由天道也由人。
+- 天生此身人力寄，人力盡兮天數至。
+- 天人相去不毫芒，若有毫芒却成二。
 
 ## 拼音
 
-- xi1 xuan1 yao2 shun4 sui1 nan2 fu4 ， tang1 wu3 huan2 wen2 shang4 ke3 xun2 。
-- shi4 ji4 bu4 tong2 shi2 you4 yi4 ， ye3 you2 tian1 dao4 ye3 you2 ren2 。
+- tian1 sheng1 ci3 shen1 ren2 li4 ji4 ， ren2 li4 jin4 xi1 tian1 shu4 zhi4 。
+- tian1 ren2 xiang1 qu4 bu4 hao2 mang2 ， ruo4 you3 hao2 mang2 que4 cheng2 er4 。
 
 ## 注释
 

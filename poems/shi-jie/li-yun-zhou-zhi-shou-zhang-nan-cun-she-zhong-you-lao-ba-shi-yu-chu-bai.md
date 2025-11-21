@@ -6,10 +6,10 @@ titleSlug: li-yun-zhou-zhi-shou-zhang-nan-cun-she-zhong-you-lao-ba-shi-yu-chu-ba
 author: 石介
 authorPinyin: shi2 jie4
 authorSlug: shi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

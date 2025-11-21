@@ -6,25 +6,21 @@ titleSlug: gao-zu-shi-jian-shi
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 巨石中分斷，涓流自此東。
-- 堯仁方宅土，項氏曷當鋒。
-- 興起漢高業，勤勞夏禹功。
-- 故應行道者，千古企遺蹤。
+- 拔山蓋世何爲者，三尺青龍不切泥。
+- 且向斷崖聊一試，如聞鬼母夜悲啼。
 
 ## 拼音
 
-- ju4 shi2 zhong1 fen1 duan4 ， juan1 liu2 zi4 ci3 dong1 。
-- yao2 ren2 fang1 zhai2 tu3 ， xiang4 shi4 he2 dang1 feng1 。
-- xing1 qi3 han4 gao1 ye4 ， qin2 lao2 xia4 yu3 gong1 。
-- gu4 ying1 hang2 dao4 zhe3 ， qian1 gu3 qi3 yi2 zong1 。
+- ba2 shan1 gai4 shi4 he2 wei2 zhe3 ， san1 chi3 qing1 long2 bu2 qie4 ni2 。
+- qie3 xiang4 duan4 ya2 liao2 yi2 shi4 ， ru2 wen2 gui3 mu3 ye4 bei1 ti2 。
 
 ## 注释
 

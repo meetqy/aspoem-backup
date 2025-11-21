@@ -6,25 +6,25 @@ titleSlug: xiao-lou-yu-zhong
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲浮江雨暗，獨客苦淹留。
-- 白髮羞明鏡，青山對小樓。
-- 酒功書下下，心事付悠悠。
-- 安得并州翦，從頭翦斷愁。
+- 長安市上僦樓居，閑裏身心儘自如。
+- 十日雨聲春對酒，一窗鐙影夜觀書。
+- 茶經未展愁先醒，藥錄才看病已除。
+- 所欠短簷晴景好，拆桐花月共扶疏。
 
 ## 拼音
 
-- yun2 fu2 jiang1 yu3 an4 ， du2 ke4 ku3 yan1 liu2 。
-- bai2 fa4 xiu1 ming2 jing4 ， qing1 shan1 dui4 xiao3 lou2 。
-- jiu3 gong1 shu1 xia4 xia4 ， xin1 shi4 fu4 you1 you1 。
-- an1 de2 bing1 zhou1 jian3 ， cong2 tou2 jian3 duan4 chou2 。
+- chang2 an1 shi4 shang4 jiu4 lou2 ju1 ， xian2 li3 shen1 xin1 jin3 zi4 ru2 。
+- shi2 ri4 yu3 sheng1 chun1 dui4 jiu3 ， yi4 chuang1 deng1 ying3 ye4 guan1 shu1 。
+- cha2 jing1 wei4 zhan3 chou2 xian1 xing3 ， yao4 lu4 cai2 kan4 bing4 yi3 chu2 。
+- suo3 qian4 duan3 yan2 qing2 jing3 hao3 ， chai1 tong2 hua1 yue4 gong4 fu2 shu1 。
 
 ## 注释
 

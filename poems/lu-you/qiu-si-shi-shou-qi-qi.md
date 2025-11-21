@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桑竹成陰不見門，牛羊分路各歸村。
-- 前山雨過雲無迹，別浦潮回岸有痕。
+- 傍縣人來涕泗翻，蝗災暴虎不堪言。
+- 天心似爲衰翁地，飽食安眠獨北村。
 
 ## 拼音
 
-- sang1 zhu2 cheng2 yin1 bu2 jian4 men2 ， niu2 yang2 fen1 lu4 ge4 gui1 cun1 。
-- qian2 shan1 yu3 guo4 yun2 wu2 ji4 ， bie2 pu3 chao2 hui2 an4 you3 hen2 。
+- bang4 xian4 ren2 lai2 ti4 si4 fan1 ， huang2 zai1 bao4 hu3 bu4 kan1 yan2 。
+- tian1 xin1 si4 wei2 shuai1 weng1 di4 ， bao3 shi2 an1 mian2 du2 bei3 cun1 。
 
 ## 注释
 

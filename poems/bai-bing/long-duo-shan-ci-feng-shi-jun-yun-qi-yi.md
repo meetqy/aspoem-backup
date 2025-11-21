@@ -6,10 +6,10 @@ titleSlug: long-duo-shan-ci-feng-shi-jun-yun-qi-yi
 author: 白丙
 authorPinyin: bai2 bing3
 authorSlug: bai-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-bi-zhao
 author: 裴極
 authorPinyin: pei2 ji2
 authorSlug: pei-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

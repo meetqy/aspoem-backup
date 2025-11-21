@@ -6,10 +6,10 @@ titleSlug: tong-zhong-bao-feng-yu-zhong-guo-de-lin-liu-su-yi-ye-wei-yang-wei-yun
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -3,22 +3,22 @@ id: li-zhi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 李植
-authorPinyin: li3 zhi2
+author: 李摯
+authorPinyin: li3 zhi4
 authorSlug: li-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 野堂吹落讀殘書。
+- 因緣三紀異，契分四般同。
 
 ## 拼音
 
-- ye3 tang2 chui1 luo4 du2 can2 shu1 。
+- yin1 yuan2 san1 ji4 yi4 ， qi4 fen1 si4 ban1 tong2 。
 
 ## 注释
 

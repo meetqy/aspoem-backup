@@ -9,22 +9,22 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 三十年來往，中間京洛塵。
-- 倦行今白首，歸臥已清神。
-- 坡暖冬抽筍，松涼夏健人。
-- 更慚徵詔起，避世迹非真。
+- 昏旦松軒下，怡然對一瓢。
+- 雨微吟思足，花落夢無聊。
+- 細事當棋遣，衰容喜鏡饒。
+- 溪僧有深趣，書至又相邀。
 
 ## 拼音
 
-- san1 shi2 nian2 lai2 wang3 ， zhong1 jian4 jing1 luo4 chen2 。
-- juan4 xing2 jin1 bai2 shou3 ， gui1 wo4 yi3 qing1 shen2 。
-- po1 nuan3 dong1 chou1 sun3 ， song1 liang2 xia4 jian4 ren2 。
-- geng4 can2 zhi3 zhao4 qi3 ， bi4 shi4 ji4 fei1 zhen1 。
+- hun1 dan4 song1 xuan1 xia4 ， yi2 ran2 dui4 yi4 piao2 。
+- yu3 wei1 yin2 si1 zu2 ， hua1 luo4 meng4 wu2 liao2 。
+- xi4 shi4 dang1 qi2 qian3 ， shuai1 rong2 xi3 jing4 rao2 。
+- xi1 seng1 you3 shen1 qu4 ， shu1 zhi4 you4 xiang1 yao1 。
 
 ## 注释
 

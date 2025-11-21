@@ -6,21 +6,25 @@ titleSlug: jiu-yu
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門前苔綠路無跡，窗下書昏雲滿樓。
-- 况是幽人本多睡，飲空小社一尊休。
+- 漂泊初時尚念鄉，如今意定已都忘。
+- 小窗積雨韋編潤，慢火薰籠藥裹香。
+- 正要門前蛛結網，何妨籬上蟻成行。
+- 山前春雨非常好，出鉢應須飽十方。
 
 ## 拼音
 
-- men2 qian2 tai2 lü4 lu4 wu2 ji4 ， chuang1 xia4 shu1 hun1 yun2 man3 lou2 。
-- kuang4 shi4 you1 ren2 ben3 duo1 shui4 ， yin3 kong1 xiao3 she4 yi4 zun1 xiu1 。
+- piao1 bo2 chu1 shi2 shang4 nian4 xiang1 ， ru2 jin1 yi4 ding4 yi3 dou1 wang4 。
+- xiao3 chuang1 ji1 yu3 wei2 bian1 run4 ， man4 huo3 xun1 long2 yao4 guo3 xiang1 。
+- zheng4 yao4 men2 qian2 zhu1 jie2 wang3 ， he2 fang2 li2 shang4 yi3 cheng2 xing2 。
+- shan1 qian2 chun1 yu3 fei1 chang2 hao3 ， chu1 bo1 ying1 xu1 bao3 shi2 fang1 。
 
 ## 注释
 

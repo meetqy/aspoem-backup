@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 劉摯
 authorPinyin: liu2 zhi4
 authorSlug: liu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大禘新元詔太平，萬方承慶日神寧。
-- 壽觴别殿稱山嶽，治象端門燦日星。
-- 放伏暫騎歸舍馬，束衣還就致齋廳。
-- 史官不用占風瑞，從此豐年紀汗青。
+- 詩酒相從道久微，東西冠蓋兩將歸。
+- 許公文誥專鴻筆，太白江湖醉錦衣。
+- 攬轡慨然俱有意，繫匏于此獨無依。
+- 猶憐謄得河梁句，常與都人記盛徽。
 
 ## 拼音
 
-- da4 di4 xin1 yuan2 zhao4 tai4 ping2 ， wan4 fang1 cheng2 qing4 ri4 shen2 ning2 。
-- shou4 shang1 bie2 dian4 cheng1 shan1 yue4 ， zhi4 xiang4 duan1 men2 can4 ri4 xing1 。
-- fang4 fu2 zan4 qi2 gui1 she4 ma3 ， shu4 yi1 huan2 jiu4 zhi4 zhai1 ting1 。
-- shi3 guan1 bu2 yong4 zhan4 feng1 rui4 ， cong2 ci3 feng1 nian2 ji4 han4 qing1 。
+- shi1 jiu3 xiang1 cong2 dao4 jiu3 wei1 ， dong1 xi1 guan1 gai4 liang3 jiang1 gui1 。
+- xu1 gong1 wen2 gao4 zhuan1 hong2 bi3 ， tai4 bai2 jiang1 hu2 zui4 jin3 yi1 。
+- lan3 pei4 kai3 ran2 ju4 you3 yi4 ， xi4 pao2 yu2 ci3 du2 wu2 yi1 。
+- you2 lian2 teng2 de2 he2 liang2 ju4 ， chang2 yu3 dou1 ren2 ji4 sheng4 hui1 。
 
 ## 注释
 

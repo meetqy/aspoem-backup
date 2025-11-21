@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-feng-shi-jiu-hua-shan-zhong-tu-yu-qing-yang-xue-lang-zhong
-title: 奉使九華山中塗遇青陽薛郎中
+title: 奉使九華山中途遇青陽薛郎中
 titlePinyin: feng4 shi3 jiu3 hua2 shan1 zhong1 tu2 yu4 qing1 yang2 xue1 lang2 zhong1
 titleSlug: feng-shi-jiu-hua-shan-zhong-tu-yu-qing-yang-xue-lang-zhong
 author: 徐鉉
@@ -15,9 +15,9 @@ tags: []
 ## 正文
 
 - 故人相別動相思，此地相逢豈素期。
-- 九子峰前閒未得，五谿橋上坐多時。
+- 九子峰前閑未得，五谿橋上坐多時。
 - 甘泉從幸余知忝，宣室徵還子未遲。
-- 且飲一杯消別恨，野花風起漸離披。
+- 且飲一盃消別恨，野花風起漸離披。
 
 ## 拼音
 

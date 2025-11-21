@@ -6,10 +6,10 @@ titleSlug: heng-cui-tang-cheng-yu-zhu-gong-luo-zhi-meng-kuang-jia-pian-bu-gan-da
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

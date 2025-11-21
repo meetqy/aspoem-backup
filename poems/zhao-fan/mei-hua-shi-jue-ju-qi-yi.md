@@ -1,26 +1,26 @@
 ---
 id: zhao-fan-mei-hua-shi-jue-ju-qi-yi
-title: 梅花十絕句  其一
-titlePinyin: mei2 hua1 shi2 jue2 ju4     qi2 yi1
+title: 梅花十絕句  其一○
+titlePinyin: mei2 hua1 shi2 jue2 ju4     qi2 yi1 ○
 titleSlug: mei-hua-shi-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 疎籬半倒竹脩脩，下有冰泉斷復流。
-- 此地著梅故差勝，杖藜何惜屢經丘。
+- 松風亭下盛開時，曾辱蘇仙與賦詩。
+- 今日折花懷此老，端如嗅菊念東籬。
 
 ## 拼音
 
-- shu1 li2 ban4 dao3 zhu2 xiu1 xiu1 ， xia4 you3 bing1 quan2 duan4 fu4 liu2 。
-- ci3 di4 zhu4 mei2 gu4 cha4 sheng4 ， zhang4 li2 he2 xi1 lü3 jing1 qiu1 。
+- song1 feng1 ting2 xia4 sheng4 kai1 shi2 ， ceng2 ru3 su1 xian1 yu3 fu4 shi1 。
+- jin1 ri4 zhe2 hua1 huai2 ci3 lao3 ， duan1 ru2 xiu4 ju2 nian4 dong1 li2 。
 
 ## 注释
 

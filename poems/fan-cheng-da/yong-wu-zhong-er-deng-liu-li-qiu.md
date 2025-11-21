@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-yong-wu-zhong-er-deng-liu-li-qiu
-title: 詠吳中二燈・琉璃毬
-titlePinyin: yong3 wu2 zhong1 er4 deng1・liu2 li2 qiu2
+title: 詠吳中二燈 琉璃毬
+titlePinyin: yong3 wu2 zhong1 er4 deng1   liu2 li2 qiu2
 titleSlug: yong-wu-zhong-er-deng-liu-li-qiu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

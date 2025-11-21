@@ -6,10 +6,10 @@ titleSlug: zeng-xiao-yao-zi
 author: 蔡元厲
 authorPinyin: cai4 yuan2 li4
 authorSlug: cai-yuan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

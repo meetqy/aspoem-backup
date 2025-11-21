@@ -6,10 +6,10 @@ titleSlug: tang-mei-shan-wei-dao-shi-gui-wu-huan-shan-fu-yi-shi-yi-jian
 author: 陳深
 authorPinyin: chen2 shen1
 authorSlug: chen-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

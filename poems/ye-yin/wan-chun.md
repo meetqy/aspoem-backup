@@ -6,25 +6,25 @@ titleSlug: wan-chun
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遊事一番了，愁多鎖晝長。
-- 因思來歲賞，未必少年狂。
-- 野鳥學蠻語，岸花浮楚香。
-- 魚應知我者，圉圉到池塘。
+- 年少逢春不惜春，惜春還是白頭人。
+- 飛花入坐兒曹舞，細草蒙階醉後裀。
+- 未羨食前羅五鼎，靜看簷隙走雙輪。
+- 此心已與堯夫似，同爲清時作幸民。
 
 ## 拼音
 
-- you2 shi4 yi4 fan1 le0 ， chou2 duo1 suo3 zhou4 chang2 。
-- yin1 si1 lai2 sui4 shang3 ， wei4 bi4 shao4 nian2 kuang2 。
-- ye3 niao3 xue2 man2 yu3 ， an4 hua1 fu2 chu3 xiang1 。
-- yu2 ying1 zhi1 wo3 zhe3 ， yu3 yu3 dao4 chi2 tang2 。
+- nian2 shao4 feng2 chun1 bu4 xi1 chun1 ， xi1 chun1 huan2 shi4 bai2 tou2 ren2 。
+- fei1 hua1 ru4 zuo4 er2 cao2 wu3 ， xi4 cao3 meng2 jie1 zui4 hou4 yin1 。
+- wei4 xian4 shi2 qian2 luo2 wu3 ding3 ， jing4 kan4 yan2 xi4 zou3 shuang1 lun2 。
+- ci3 xin1 yi3 yu3 yao2 fu1 si4 ， tong2 wei2 qing1 shi2 zuo4 xing4 min2 。
 
 ## 注释
 

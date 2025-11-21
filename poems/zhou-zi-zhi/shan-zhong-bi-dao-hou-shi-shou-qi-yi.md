@@ -1,30 +1,30 @@
 ---
 id: zhou-zi-zhi-shan-zhong-bi-dao-hou-shi-shou-qi-yi
-title: 山中避盗後十首  其一
-titlePinyin: shan1 zhong1 bi4 dao4 hou4 shi2 shou3     qi2 yi1
+title: 山中避盗後十首  其一○
+titlePinyin: shan1 zhong1 bi4 dao4 hou4 shi2 shou3     qi2 yi1 ○
 titleSlug: shan-zhong-bi-dao-hou-shi-shou-qi-yi
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 喪亂今猶爾，安危了未分。
-- 叛羌初射月，羣盗忽如雲。
-- 妙略歸諸將，深憂軫聖君。
-- 灞陵逢醉尉，應有故將軍。
+- 可怪子劉子，全家肯見存。
+- 長分夜雨榻，復共草堂樽。
+- 磊落吾何取，笑言君益温。
+- 它時此心在，結草報深恩。
 
 ## 拼音
 
-- sang1 luan4 jin1 you2 er3 ， an1 wei1 le0 wei4 fen1 。
-- pan4 qiang1 chu1 she4 yue4 ， qun2 dao4 hu1 ru2 yun2 。
-- miao4 lüe4 gui1 zhu1 jiang1 ， shen1 you1 zhen3 sheng4 jun1 。
-- ba4 ling2 feng2 zui4 wei4 ， ying1 you3 gu4 jiang1 jun1 。
+- ke3 guai4 zi3 liu2 zi3 ， quan2 jia1 ken3 jian4 cun2 。
+- chang2 fen1 ye4 yu3 ta4 ， fu4 gong4 cao3 tang2 zun1 。
+- lei3 luo4 wu2 he2 qu3 ， xiao4 yan2 jun1 yi4 wen1 。
+- ta1 shi2 ci3 xin1 zai4 ， jie2 cao3 bao4 shen1 en1 。
 
 ## 注释
 

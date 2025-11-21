@@ -6,10 +6,10 @@ titleSlug: fu-xuan-xian-mian
 author: 仲訥
 authorPinyin: zhong4 ne4
 authorSlug: zhong-ne
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

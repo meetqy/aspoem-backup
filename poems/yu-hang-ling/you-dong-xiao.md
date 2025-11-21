@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao
 author: 餘杭令
 authorPinyin: yu2 hang2 ling4
 authorSlug: yu-hang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: huang-di-he-chun-tie-zi-qi-yi
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 路寢朝元早，條風應律初。
-- 八荒躋壽域，一札下寬書。
+- 曉漏催班拱至尊，千官綺勝簇金旛。
+- 紫皇恭儉憂民切，未祝椒盤祝獸樽。
 
 ## 拼音
 
-- lu4 qin3 chao2 yuan2 zao3 ， tiao2 feng1 ying1 lü4 chu1 。
-- ba1 huang1 ji1 shou4 yu4 ， yi4 zha2 xia4 kuan1 shu1 。
+- xiao3 lou4 cui1 ban1 gong3 zhi4 zun1 ， qian1 guan1 qi3 sheng4 cu4 jin1 fan1 。
+- zi3 huang2 gong1 jian3 you1 min2 qie4 ， wei4 zhu4 jiao1 pan2 zhu4 shou4 zun1 。
 
 ## 注释
 

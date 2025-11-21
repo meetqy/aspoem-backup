@@ -6,10 +6,10 @@ titleSlug: song
 author: 殊勝院僧
 authorPinyin: shu1 sheng4 yuan4 seng1
 authorSlug: shu-sheng-yuan-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

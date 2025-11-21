@@ -6,33 +6,25 @@ titleSlug: jing-shi-gu-liao-yi-yu-tui-ju-jin-ji-shu-ci-cun-wen-yin-xu-huai-zi-ga
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 病餘頗厭肉，欣得僧廬蔬。
-- 僧窗亦明潔，可以觀我書。
-- 弟兄冷相對，因著柏酒醉。
-- 酹餘欲拈筆，狀乃爾狼狽。
-- 我老固有素，未至形苶具。
-- 其事故可知，寧復論年數。
-- 阿連吾語汝，我計當何取。
-- 學道既無成，何如事農圃。
+- 多年京洛寓靈臺，貪見三山縹帙開。
+- 野鶴據軒真冒祿，跛䍧生奧苦爲災。
+- 茂陵養疾愔愔骨，莊室刳心寂寂灰。
+- 南鄙孤城非灞岸，欲乘春氣望瑶魁。
 
 ## 拼音
 
-- bing4 yu2 po1 yan4 rou4 ， xin1 de2 seng1 lu2 shu1 。
-- seng1 chuang1 yi4 ming2 jie2 ， ke3 yi3 guan1 wo3 shu1 。
-- di4 xiong0 leng3 xiang1 dui4 ， yin1 zhu4 bai3 jiu3 zui4 。
-- lei4 yu2 yu4 nian1 bi3 ， zhuang4 nai3 er3 lang2 bei4 。
-- wo3 lao3 gu4 you3 su4 ， wei4 zhi4 xing2 nie2 ju4 。
-- qi2 shi4 gu4 ke3 zhi1 ， ning2 fu4 lun4 nian2 shu4 。
-- a1 lian2 wu2 yu3 ru3 ， wo3 ji4 dang1 he2 qu3 。
-- xue2 dao4 ji4 wu2 cheng2 ， he2 ru2 shi4 nong2 pu3 。
+- duo1 nian2 jing1 luo4 yu4 ling2 tai2 ， tan1 jian4 san1 shan1 piao3 zhi4 kai1 。
+- ye3 he4 ju4 xuan1 zhen1 mao4 lu4 ， bo3 䍧 sheng1 ao4 ku3 wei2 zai1 。
+- mao4 ling2 yang3 ji2 yin1 yin1 gu3 ， zhuang1 shi4 ku1 xin1 ji4 ji4 hui1 。
+- nan2 bi3 gu1 cheng2 fei1 ba4 an4 ， yu4 cheng2 chun1 qi4 wang4 yao2 kui2 。
 
 ## 注释
 

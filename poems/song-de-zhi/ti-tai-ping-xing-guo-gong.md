@@ -6,10 +6,10 @@ titleSlug: ti-tai-ping-xing-guo-gong
 author: 宋德之
 authorPinyin: song4 de2 zhi1
 authorSlug: song-de-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

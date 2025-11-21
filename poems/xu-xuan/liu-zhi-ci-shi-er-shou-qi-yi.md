@@ -1,26 +1,26 @@
 ---
 id: xu-xuan-liu-zhi-ci-shi-er-shou-qi-yi
-title: 柳枝辭十二首  其一
-titlePinyin: liu3 zhi1 ci2 shi2 er4 shou3     qi2 yi1
+title: 柳枝辭十二首  其一○
+titlePinyin: liu3 zhi1 ci2 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: liu-zhi-ci-shi-er-shou-qi-yi
 author: 徐鉉
 authorPinyin: xu2 xuan4
 authorSlug: xu-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 把酒憑君唱柳枝，也從絲管遞相隨。
-- 逢春只合朝朝醉，記取秋風落葉時。
+- 暫別揚州十度春，不知光景屬何人。
+- 一帆歸客千條柳，腸斷東風揚子津。
 
 ## 拼音
 
-- ba3 jiu3 ping2 jun1 chang4 liu3 zhi1 ， ye3 cong2 si1 guan3 di4 xiang1 sui2 。
-- feng2 chun1 zhi1 he2 zhao1 zhao1 zui4 ， ji4 qu3 qiu1 feng1 luo4 ye4 shi2 。
+- zan4 bie2 yang2 zhou1 shi2 du4 chun1 ， bu4 zhi1 guang1 jing3 shu3 he2 ren2 。
+- yi4 fan1 gui1 ke4 qian1 tiao2 liu3 ， chang2 duan4 dong1 feng1 yang2 zi3 jin1 。
 
 ## 注释
 

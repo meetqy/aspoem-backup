@@ -9,18 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 欲爲平生一散愁，洞庭湖上岳陽樓。
-- 可憐萬里堪乘興，枉是蛟龍解覆舟。
+- 漢水方城帶百蠻，四隣誰道亂周班。
+- 如何一夢高唐雨，自此無心入武關。
 
 ## 拼音
 
-- yu4 wei2 ping2 sheng1 yi2 san4 chou2 ， dong4 ting2 hu2 shang4 yue4 yang2 lou2 。
-- ke3 lian2 wan4 li3 kan1 cheng2 xing1 ， wang3 shi4 jiao1 long2 jie3 fu4 zhou1 。
+- han4 shui3 fang1 cheng2 dai4 bai3 man2 ， si4 lin2 shui2 dao4 luan4 zhou1 ban1 。
+- ru2 he2 yi2 meng4 gao1 tang2 yu3 ， zi4 ci3 wu2 xin1 ru4 wu3 guan1 。
 
 ## 注释
 

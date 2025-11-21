@@ -6,10 +6,10 @@ titleSlug: zhu-yin-jing-she
 author: 蘇良
 authorPinyin: su1 liang2
 authorSlug: su-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

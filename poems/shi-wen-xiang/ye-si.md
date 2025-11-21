@@ -1,30 +1,30 @@
 ---
 id: shi-wen-xiang-ye-si
-title: 夜思
-titlePinyin: ye4 si1
+title: 野寺
+titlePinyin: ye3 si4
 titleSlug: ye-si
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 靜坐四無鄰，看山待明月。
-- 池邊暑氣盡，竹上涼颸發。
-- 伏翼打窗飛，孤螢隨草沒。
-- 予心適有會，還就幽人說。
+- 野寺居來歲月長，幽深真是隠人鄉。
+- 怪枝結頂青松古，巨石分流碧澗長。
+- 拈弄詩章非俗事，斷除禪病得良方。
+- 因悲竊國亡身者，枉作塵勞夢一場。
 
 ## 拼音
 
-- jing4 zuo4 si4 wu2 lin2 ， kan4 shan1 dai4 ming2 yue4 。
-- chi2 bian1 shu3 qi4 jin4 ， zhu2 shang4 liang2 si1 fa1 。
-- fu2 yi4 da3 chuang1 fei1 ， gu1 ying2 sui2 cao3 mei2 。
-- yu3 xin1 shi4 you3 hui4 ， huan2 jiu4 you1 ren2 shuo1 。
+- ye3 si4 ju1 lai2 sui4 yue4 chang2 ， you1 shen1 zhen1 shi4 yin3 ren2 xiang1 。
+- guai4 zhi1 jie2 ding3 qing1 song1 gu3 ， ju4 shi2 fen1 liu2 bi4 jian4 chang2 。
+- nian1 nong4 shi1 zhang1 fei1 su2 shi4 ， duan4 chu2 shan4 bing4 de2 liang2 fang1 。
+- yin1 bei1 qie4 guo2 wang2 shen1 zhe3 ， wang3 zuo4 chen2 lao2 meng4 yi4 chang3 。
 
 ## 注释
 

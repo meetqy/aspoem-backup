@@ -6,10 +6,10 @@ titleSlug: jiang-ting-hou-shi-cui-chun-weng-zu-shui-zhang-zuo-shi-ji-zhi
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

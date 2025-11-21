@@ -6,10 +6,10 @@ titleSlug: shang-ren-zong-huang-di-qi-huan-shan-ji
 author: 釋懷璉
 authorPinyin: shi4 huai2 lian3
 authorSlug: shi-huai-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

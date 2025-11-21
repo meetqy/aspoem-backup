@@ -6,25 +6,21 @@ titleSlug: you-ju-shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫嘆澗谷本卷七作恨人間苦不諧，清時有味是歸来。
-- 己因積毁成高臥，更借陽狂護散才。
-- 正欲清言聞客至，偶思小飲報花開。
-- 紛紛爭奪成何事，白骨生苔但可哀。
+- 老人初起厭囂喧，塵几從教鼠迹存。
+- 赤脚平頭俱遣去，倚牆危坐咽朝暾。
 
 ## 拼音
 
-- mo4 tan4 jian4 gu3 ben3 juan4 qi1 zuo4 hen4 ren2 jian4 ku3 bu4 xie2 ， qing1 shi2 you3 wei4 shi4 gui1 lai2 。
-- ji3 yin1 ji1 hui3 cheng2 gao1 wo4 ， geng4 jie4 yang2 kuang2 hu4 san4 cai2 。
-- zheng4 yu4 qing1 yan2 wen2 ke4 zhi4 ， ou3 si1 xiao3 yin3 bao4 hua1 kai1 。
-- fen1 fen1 zheng1 duo2 cheng2 he2 shi4 ， bai2 gu3 sheng1 tai2 dan4 ke3 ai1 。
+- lao3 ren2 chu1 qi3 yan4 xiao1 xuan1 ， chen2 ji3 cong2 jiao4 shu3 ji4 cun2 。
+- chi4 jiao3 ping2 tou2 ju4 qian3 qu4 ， yi3 qiang2 wei1 zuo4 yan4 chao2 tun1 。
 
 ## 注释
 

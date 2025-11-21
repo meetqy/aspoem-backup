@@ -6,10 +6,10 @@ titleSlug: yan-yi-zhong-yu-fu-lan-tian-cheng-er-yun-shuai-yi-yong-yin-jia-huo-da
 author: 王安中
 authorPinyin: wang2 an1 zhong1
 authorSlug: wang-an-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhu-shan
 author: 邵勉
 authorPinyin: shao4 mian3
 authorSlug: shao-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

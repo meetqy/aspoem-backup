@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋宗盛
 authorPinyin: shi4 zong1 sheng4
 authorSlug: shi-zong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,30 +1,30 @@
 ---
 id: zhang-fu-ji-shi-qi-yi
-title: 即事  其一
-titlePinyin: ji2 shi4     qi2 yi1
+title: 即事  其一○
+titlePinyin: ji2 shi4     qi2 yi1 ○
 titleSlug: ji-shi-qi-yi
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暑雨何時了，江雲不肯開。
-- 窮途惟有死，薄俗動相猜。
-- 怪事供詩卷，閒愁付酒杯。
-- 欲從湖海去，安得小舟來。
+- 初失清河口，駸駸遂逼人。
+- 餘生偷歲月，無處避風塵。
+- 精銳看諸將，謀謨仰大臣。
+- 愞夫憂國淚，欲忍已沾巾。
 
 ## 拼音
 
-- shu3 yu3 he2 shi2 le0 ， jiang1 yun2 bu4 ken3 kai1 。
-- qiong2 tu2 wei2 you3 si3 ， bao2 su2 dong4 xiang1 cai1 。
-- guai4 shi4 gong4 shi1 juan4 ， xian2 chou2 fu4 jiu3 bei1 。
-- yu4 cong2 hu2 hai3 qu4 ， an1 de2 xiao3 zhou1 lai2 。
+- chu1 shi1 qing1 he2 kou3 ， qin1 qin1 sui4 bi1 ren2 。
+- yu2 sheng1 tou1 sui4 yue4 ， wu2 chu3 bi4 feng1 chen2 。
+- jing1 rui4 kan4 zhu1 jiang1 ， mou2 mo2 yang3 da4 chen2 。
+- nuo4 fu1 you1 guo2 lei4 ， yu4 ren3 yi3 zhan1 jin1 。
 
 ## 注释
 

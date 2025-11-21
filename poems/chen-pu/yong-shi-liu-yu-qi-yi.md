@@ -1,26 +1,26 @@
 ---
 id: chen-pu-yong-shi-liu-yu-qi-yi
-title: 詠史 劉虞 其一
-titlePinyin: yong3 shi3   liu2 yu2   qi2 yi1
+title: 詠史 劉裕 其一
+titlePinyin: yong3 shi3   liu2 yu4   qi2 yi1
 titleSlug: yong-shi-liu-yu-qi-yi
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曲蓋華旗起益荆，幽州臣節獨分明。
-- 漢家福分無周旦，天遣忠賢不習兵。
+- 雲雨蛟龍無世無，睡中往往失明珠。
+- 比干七竅天何惜，不付曹瞞與寄奴。
 
 ## 拼音
 
-- qu3 gai4 hua2 qi2 qi3 yi4 jing1 ， you1 zhou1 chen2 jie2 du2 fen1 ming2 。
-- han4 jia1 fu2 fen4 wu2 zhou1 dan4 ， tian1 qian3 zhong1 xian2 bu4 xi2 bing1 。
+- yun2 yu3 jiao1 long2 wu2 shi4 wu2 ， shui4 zhong1 wang3 wang3 shi1 ming2 zhu1 。
+- bi3 gan1 qi1 qiao4 tian1 he2 xi1 ， bu2 fu4 cao2 man2 yu3 ji4 nu2 。
 
 ## 注释
 

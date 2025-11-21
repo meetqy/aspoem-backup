@@ -6,10 +6,10 @@ titleSlug: shi-yi-yue-er-shi-ba-ri-xue-zhi-shi-er-yue-shi-yi-ri-ri-se-fang-nuan-
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: tan-lao
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朋儕什九墮丘墟，自笑身如脫網魚。
-- 委命已悲吾道喪，垂名真負此心初。
-- 齒殘僅可决濡肉，眼澀知難讀細書。
-- 家事豈容關老子，兒曹努力事耕鉏。
+- 身歷邅回事萬端，天教林下養衰殘。
+- 文編似是他人作，書卷如曾隔世觀。
+- 久已悠悠置恩怨，况能一一記悲歡。
+- 床頭周易真良藥，不是書生强自寬。
 
 ## 拼音
 
-- peng2 chai2 shen2 jiu3 duo4 qiu1 xu1 ， zi4 xiao4 shen1 ru2 tuo1 wang3 yu2 。
-- wei3 ming4 yi3 bei1 wu2 dao4 sang1 ， chui2 ming2 zhen1 fu4 ci3 xin1 chu1 。
-- chi3 can2 jin3 ke3 jue2 ru2 rou4 ， yan3 se4 zhi1 nan2 du2 xi4 shu1 。
-- jia1 shi4 qi3 rong2 guan1 lao3 zi3 ， er2 cao2 nu3 li4 shi4 geng1 chu2 。
+- shen1 li4 zhan1 hui2 shi4 wan4 duan1 ， tian1 jiao4 lin2 xia4 yang3 shuai1 can2 。
+- wen2 bian1 si4 shi4 ta1 ren2 zuo4 ， shu1 juan4 ru2 ceng2 ge2 shi4 guan1 。
+- jiu3 yi3 you1 you1 zhi4 en1 yuan4 ， kuang4 neng2 yi1 yi1 ji4 bei1 huan1 。
+- chuang2 tou2 zhou1 yi4 zhen1 liang2 yao4 ， bu2 shi4 shu1 sheng1 qiang2 zi4 kuan1 。
 
 ## 注释
 

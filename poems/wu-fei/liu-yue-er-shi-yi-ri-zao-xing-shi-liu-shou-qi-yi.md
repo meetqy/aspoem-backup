@@ -1,26 +1,26 @@
 ---
 id: wu-fei-liu-yue-er-shi-yi-ri-zao-xing-shi-liu-shou-qi-yi
-title: 六月二十一日早行十六首  其一
-titlePinyin: liu4 yue4 er4 shi2 yi1 ri4 zao3 xing2 shi2 liu4 shou3     qi2 yi1
+title: 六月二十一日早行十六首  其一○
+titlePinyin: liu4 yue4 er4 shi2 yi1 ri4 zao3 xing2 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: liu-yue-er-shi-yi-ri-zao-xing-shi-liu-shou-qi-yi
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 四更山月吐微明，起促籃輿趁早行。
-- 忽聽疾雷催雨急，風生襟袖不勝清。
+- 東望吾廬百里間，二年別去一朝還。
+- 雖然未遂歸休意，且對湖山一解顔。
 
 ## 拼音
 
-- si4 geng1 shan1 yue4 tu3 wei1 ming2 ， qi3 cu4 lan2 yu2 chen4 zao3 xing2 。
-- hu1 ting1 ji2 lei2 cui1 yu3 ji2 ， feng1 sheng1 jin1 xiu4 bu2 sheng4 qing1 。
+- dong1 wang4 wu2 lu2 bai3 li3 jian4 ， er4 nian2 bie2 qu4 yi4 zhao1 huan2 。
+- sui1 ran2 wei4 sui4 gui1 xiu1 yi4 ， qie3 dui4 hu2 shan1 yi4 jie3 yan2 。
 
 ## 注释
 

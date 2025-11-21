@@ -1,26 +1,26 @@
 ---
 id: shi-tan-bi-song-gu-er-shi-qi-shou-qi-er
-title: 頌古二十七首  其二
-titlePinyin: song4 gu3 er4 shi2 qi1 shou3     qi2 er4
+title: 頌古二十七首  其二○
+titlePinyin: song4 gu3 er4 shi2 qi1 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-qi-shou-qi-er
 author: 釋曇賁
 authorPinyin: shi4 tan2 bi4
 authorSlug: shi-tan-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 剎剎塵塵見不難，頭陀何苦被他瞞。
-- 當初若論收姦細，莫把瞿曇做佛看。
+- 七寶盃酌葡萄酒，金花紙寫清平詞。
+- 春風院靜無人見，閑把君王玉笛吹。
 
 ## 拼音
 
-- cha4 cha4 chen2 chen2 jian4 bu4 nan2 ， tou2 tuo2 he2 ku3 bei4 ta1 man2 。
-- dang1 chu1 ruo4 lun4 shou1 jian1 xi4 ， mo4 ba3 qu2 tan2 zuo4 fo2 kan4 。
+- qi1 bao3 bei1 zhuo2 pu2 tao0 jiu3 ， jin1 hua1 zhi3 xie3 qing1 ping2 ci2 。
+- chun1 feng1 yuan4 jing4 wu2 ren2 jian4 ， xian2 ba3 jun1 wang2 yu4 di2 chui1 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: shi-an-yong-song-gu-san-shi-yi-shou-qi-yi
-title: 頌古三十一首  其一
-titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1
+title: 頌古三十一首  其一○
+titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1 ○
 titleSlug: song-gu-san-shi-yi-shou-qi-yi
 author: 釋安永
 authorPinyin: shi4 an1 yong3
 authorSlug: shi-an-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道泰時清才子貴，家肥國富小兒嬌。
-- 不因紫陌花開早，爭見黄鶯下柳條。
+- 不放溪東西，隨分納些兒。
+- 冷暖只自知，分明說向誰。
 
 ## 拼音
 
-- dao4 tai4 shi2 qing1 cai2 zi3 gui4 ， jia1 fei2 guo2 fu4 xiao3 er2 jiao1 。
-- bu4 yin1 zi3 mo4 hua1 kai1 zao3 ， zheng1 jian4 huang2 ying1 xia4 liu3 tiao2 。
+- bu2 fang4 xi1 dong1 xi1 ， sui2 fen1 na4 xie1 er2 。
+- leng3 nuan3 zhi1 zi4 zhi1 ， fen1 ming2 shuo1 xiang4 shui2 。
 
 ## 注释
 

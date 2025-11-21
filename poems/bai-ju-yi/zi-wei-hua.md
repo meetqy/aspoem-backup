@@ -9,18 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 絲綸閣下文書靜，鐘鼓樓中刻漏長。
-- 獨坐黃昏誰是伴，紫薇花對紫微郎。
+- 紫薇花對紫微翁，名目雖同貌不同。
+- 獨占芳菲當夏景，不將顏色託春風。
+- 潯陽官舍雙高樹，興善僧庭一大叢。
+- 何似蘇州安置處，花堂欄下月明中。
 
 ## 拼音
 
-- si1 lun2 ge2 xia4 wen2 shu1 jing4 ， zhong1 gu3 lou2 zhong1 ke4 lou4 chang2 。
-- du2 zuo4 huang2 hun1 shui2 shi4 ban4 ， zi3 wei1 hua1 dui4 zi3 wei1 lang2 。
+- zi3 wei1 hua1 dui4 zi3 wei1 weng1 ， ming2 mu4 sui1 tong2 mao4 bu4 tong2 。
+- du2 zhan4 fang1 fei1 dang1 xia4 jing3 ， bu4 jiang1 yan2 se4 tuo1 chun1 feng1 。
+- xun2 yang2 guan1 she4 shuang1 gao1 shu4 ， xing1 shan4 seng1 ting2 yi2 da4 cong2 。
+- he2 si4 su1 zhou1 an1 zhi4 chu3 ， hua1 tang2 lan2 xia4 yue4 ming2 zhong1 。
 
 ## 注释
 

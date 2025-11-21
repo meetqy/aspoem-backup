@@ -6,9 +6,9 @@ titleSlug: song-qian-xia-guan-shi-wang-gong
 author: 靳宗
 authorPinyin: jin4 zong1
 authorSlug: jin-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

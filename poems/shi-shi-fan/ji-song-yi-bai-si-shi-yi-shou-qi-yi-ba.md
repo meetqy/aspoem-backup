@@ -1,28 +1,26 @@
 ---
 id: shi-shi-fan-ji-song-yi-bai-si-shi-yi-shou-qi-yi-ba
-title: 偈頌一百四十一首  其一八
-titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 yi1 ba1
+title: 偈頌一百四十一首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-si-shi-yi-shou-qi-yi-ba
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春日遲遲，春風浩浩。
-- 靈利衲僧，點即不到。
-- 唯有東村王大翁，放牛喫我谿邊草。
+- 現前三昧，了無向背。
+- 雪壓樓臺，風號松檜。
 
 ## 拼音
 
-- chun1 ri4 chi2 chi2 ， chun1 feng1 hao4 hao4 。
-- ling2 li4 na4 seng1 ， dian3 ji2 bu2 dao4 。
-- wei2 you3 dong1 cun1 wang2 da4 weng1 ， fang4 niu2 chi1 wo3 xi1 bian1 cao3 。
+- xian4 qian2 san1 mei4 ， liao3 wu2 xiang4 bei4 。
+- xue3 ya1 lou2 tai2 ， feng1 hao4 song1 gui4 。
 
 ## 注释
 

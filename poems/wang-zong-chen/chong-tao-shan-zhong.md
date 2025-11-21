@@ -6,10 +6,10 @@ titleSlug: chong-tao-shan-zhong
 author: 汪宗臣
 authorPinyin: wang1 zong1 chen2
 authorSlug: wang-zong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

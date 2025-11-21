@@ -6,10 +6,10 @@ titleSlug: dian-yuan-ceng-yuan-zi-zhai-jiu-han-fang-ge
 author: 廖應淮
 authorPinyin: liao4 ying1 huai2
 authorSlug: liao-ying-huai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

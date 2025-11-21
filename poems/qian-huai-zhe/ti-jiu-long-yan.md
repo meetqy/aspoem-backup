@@ -6,9 +6,9 @@ titleSlug: ti-jiu-long-yan
 author: 錢懷哲
 authorPinyin: qian2 huai2 zhe2
 authorSlug: qian-huai-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

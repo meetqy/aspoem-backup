@@ -6,25 +6,25 @@ titleSlug: zeng-ke-hui-zhu-gong
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 書社他年事，尋盟未厭煩。
-- 須吾執牛耳，助子躍龍門。
-- 凌厲先諸彥，從容即萬言。
-- 雋功科舉外，暇日要深論。
+- 歲月翩翩驥受檛，妙年雲路不應賒。
+- 手中白羽真穿葉，門外蒼槐又著花。
+- 丹竈功成須換骨，天河波淺待乘槎。
+- 鴈行看即青冥上，却笑臞儒兩鬢華。
 
 ## 拼音
 
-- shu1 she4 ta1 nian2 shi4 ， xun2 meng2 wei4 yan4 fan2 。
-- xu1 wu2 zhi2 niu2 er3 ， zhu4 zi3 yue4 long2 men2 。
-- ling2 li4 xian1 zhu1 yan4 ， cong2 rong2 ji2 wan4 yan2 。
-- jun4 gong1 ke1 ju3 wai4 ， xia2 ri4 yao4 shen1 lun4 。
+- sui4 yue4 pian1 pian1 ji4 shou4 zhua1 ， miao4 nian2 yun2 lu4 bu4 ying1 she1 。
+- shou3 zhong1 bai2 yu3 zhen1 chuan1 ye4 ， men2 wai4 cang1 huai2 you4 zhu4 hua1 。
+- dan1 zao4 gong1 cheng2 xu1 huan4 gu3 ， tian1 he2 bo1 qian3 dai4 cheng2 cha2 。
+- yan4 xing2 kan4 ji2 qing1 ming2 shang4 ， que4 xiao4 qu2 ru2 liang3 bin4 hua2 。
 
 ## 注释
 

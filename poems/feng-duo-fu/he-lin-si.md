@@ -6,10 +6,10 @@ titleSlug: he-lin-si
 author: 馮多福
 authorPinyin: feng2 duo1 fu2
 authorSlug: feng-duo-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

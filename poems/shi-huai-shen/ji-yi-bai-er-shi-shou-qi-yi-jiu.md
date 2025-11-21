@@ -1,30 +1,26 @@
 ---
 id: shi-huai-shen-ji-yi-bai-er-shi-shou-qi-yi-jiu
-title: 偈一百二十首  其一九
-titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 yi1 jiu3
+title: 偈一百二十首  其一○九
+titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 yi1 ○ jiu3
 titleSlug: ji-yi-bai-er-shi-shou-qi-yi-jiu
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今朝一陽生，明日便數九。
-- 張三依舊肥，李四從來瘠。
-- 喫盡天下藥，舊病依前有。
-- 用盡自家心，笑破他人口。
+- 炭頭今日地爐開，澀雨慳風惱破懷。
+- 老僧向火喫酸豏，誰管檀那來不來。
 
 ## 拼音
 
-- jin1 zhao1 yi4 yang2 sheng1 ， ming2 ri4 bian4 shu4 jiu3 。
-- zhang1 san1 yi1 jiu4 fei2 ， li3 si4 cong2 lai2 ji2 。
-- chi1 jin4 tian1 xia4 yao4 ， jiu4 bing4 yi1 qian2 you3 。
-- yong4 jin4 zi4 jia1 xin1 ， xiao4 po4 ta1 ren2 kou3 。
+- tan4 tou2 jin1 ri4 di4 lu2 kai1 ， se4 yu3 qian1 feng1 nao3 po4 huai2 。
+- lao3 seng1 xiang4 huo3 chi1 suan1 xian4 ， shui2 guan3 tan2 na4 lai2 bu0 lai2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ji-song-shi-yi-shou-qi-er
 author: 釋了演
 authorPinyin: shi4 le0 yan3
 authorSlug: shi-le-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

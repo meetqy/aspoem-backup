@@ -6,10 +6,10 @@ titleSlug: ti-hong-yang-dong
 author: 柳交
 authorPinyin: liu3 jiao1
 authorSlug: liu-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

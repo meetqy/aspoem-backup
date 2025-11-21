@@ -1,26 +1,28 @@
 ---
 id: shi-fa-xun-ji-song-liu-shi-ba-shou-qi-er
-title: 偈頌六十八首  其二
-titlePinyin: ji4 song4 liu4 shi2 ba1 shou3     qi2 er4
+title: 偈頌六十八首  其二○
+titlePinyin: ji4 song4 liu4 shi2 ba1 shou3     qi2 er4 ○
 titleSlug: ji-song-liu-shi-ba-shou-qi-er
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有路可行，更高也上。
-- 須彌燈王，退身合掌。
+- 趙州老漢，心如蘗，口如蜜。
+- 一埦粗茶，多虛少實。
+- 院主兩眼瞇𥊚，畢竟何曾得喫。
 
 ## 拼音
 
-- you3 lu4 ke3 xing2 ， geng4 gao1 ye3 shang4 。
-- xu1 mi2 deng1 wang2 ， tui4 shen1 he2 zhang3 。
+- zhao4 zhou1 lao3 han4 ， xin1 ru2 bo4 ， kou3 ru2 mi4 。
+- yi4 wan3 cu1 cha2 ， duo1 xu1 shao3 shi2 。
+- yuan4 zhu3 liang3 yan3 mi1 𥊚， bi4 jing4 he2 ceng2 de2 chi1 。
 
 ## 注释
 

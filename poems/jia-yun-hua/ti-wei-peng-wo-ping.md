@@ -6,10 +6,10 @@ titleSlug: ti-wei-peng-wo-ping
 author: 賈雲華
 authorPinyin: jia3 yun2 hua2
 authorSlug: jia-yun-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

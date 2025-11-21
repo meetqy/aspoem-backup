@@ -6,25 +6,45 @@ titleSlug: song-zheng-hu-cao
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遊遍錢塘湖上山，歸來文字带芳鮮。
-- 羸童瘦馬從吾飲，陋巷何人似子賢。
-- 公業有田常乏食，廣文好客竟無氈。
-- 東歸不趁花時節，開盡春風誰與妍。
+- 水繞彭城樓，山圍戲馬臺。
+- 古來豪傑地，千載有餘哀。
+- 隆準飛上天，重瞳亦成灰。
+- 白門下呂布，大星隕臨淮。
+- 尚想劉德輿，置酒此徘徊。
+- 爾來苦寂寞，廢圃多蒼苔。
+- 河從百步響，山到九里回。
+- 山水自相激，夜聲轉風雷。
+- 蕩蕩清河堧，黄樓我所開。
+- 秋月墮城角，春風摇酒杯。
+- 遲君爲座客，新詩出瓊瑰。
+- 樓成君已去，人事固多乖。
+- 他年君倦游，白首賦歸來。
+- 登樓一長嘯，使君安在哉。
 
 ## 拼音
 
-- you2 bian4 qian2 tang2 hu2 shang4 shan1 ， gui1 lai2 wen2 zi4 dai4 fang1 xian1 。
-- lei2 tong2 shou4 ma3 cong2 wu2 yin3 ， lou4 xiang4 he2 ren2 si4 zi3 xian2 。
-- gong1 ye4 you3 tian2 chang2 fa2 shi2 ， guang3 wen2 hao4 ke4 jing4 wu2 zhan1 。
-- dong1 gui1 bu2 chen4 hua1 shi2 jie2 ， kai1 jin4 chun1 feng1 shui2 yu3 yan2 。
+- shui3 rao4 peng2 cheng2 lou2 ， shan1 wei2 xi4 ma3 tai2 。
+- gu3 lai2 hao2 jie2 di4 ， qian1 zai4 you3 yu2 ai1 。
+- long2 zhun3 fei1 shang4 tian1 ， zhong4 tong2 yi4 cheng2 hui1 。
+- bai2 men2 xia4 lü3 bu4 ， da4 xing1 yun3 lin2 huai2 。
+- shang4 xiang3 liu2 de2 yu2 ， zhi4 jiu3 ci3 pai2 huai2 。
+- er3 lai2 ku3 ji4 mo4 ， fei4 pu3 duo1 cang1 tai2 。
+- he2 cong2 bai3 bu4 xiang3 ， shan1 dao4 jiu3 li3 hui2 。
+- shan1 shui3 zi4 xiang1 ji1 ， ye4 sheng1 zhuan3 feng1 lei2 。
+- dang4 dang4 qing1 he2 ruan2 ， huang2 lou2 wo3 suo3 kai1 。
+- qiu1 yue4 duo4 cheng2 jiao3 ， chun1 feng1 yao2 jiu3 bei1 。
+- chi2 jun1 wei2 zuo4 ke4 ， xin1 shi1 chu1 qiong2 gui1 。
+- lou2 cheng2 jun1 yi3 qu4 ， ren2 shi4 gu4 duo1 guai1 。
+- ta1 nian2 jun1 juan4 you2 ， bai2 shou3 fu4 gui1 lai2 。
+- deng1 lou2 yi4 chang2 xiao4 ， shi3 jun1 an1 zai4 zai1 。
 
 ## 注释
 

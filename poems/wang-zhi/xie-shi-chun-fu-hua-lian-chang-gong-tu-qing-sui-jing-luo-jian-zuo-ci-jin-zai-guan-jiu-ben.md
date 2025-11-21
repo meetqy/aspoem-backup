@@ -6,10 +6,10 @@ titleSlug: xie-shi-chun-fu-hua-lian-chang-gong-tu-qing-sui-jing-luo-jian-zuo-ci-
 author: 王銍
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

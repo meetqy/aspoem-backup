@@ -6,10 +6,10 @@ titleSlug: tong-liao-ji-dao-you-dong-xiao
 author: 陳伯山
 authorPinyin: chen2 bo2 shan1
 authorSlug: chen-bo-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

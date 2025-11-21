@@ -6,25 +6,25 @@ titleSlug: wan-chen-pan-guan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- □□□兵少，匹馬命如絲。
-- 寶玦化爲燼，錦囊存者詩。
-- 無丹駐光景，有雪上鬚眉。
-- 坐閲君三世，如之何勿思。
+- 偶然傾蓋欣初識，驀地分襟惜久暌。
+- 太末謾稱三語掾，上林未借一枝棲。
+- 空煩樗叟招魂些，頼有薇郎積善題。
+- 他日廣文燎黄誥，原頭鶴表與雲齊。
 
 ## 拼音
 
-- □□□ bing1 shao3 ， pi3 ma3 ming4 ru2 si1 。
-- bao3 jue2 hua4 wei2 jin4 ， jin3 nang2 cun2 zhe3 shi1 。
-- wu2 dan1 zhu4 guang1 jing3 ， you3 xue3 shang4 xu1 mei2 。
-- zuo4 yue4 jun1 san1 shi4 ， ru2 zhi1 he2 wu4 si1 。
+- ou3 ran2 qing1 gai4 xin1 chu1 shi2 ， mo4 di4 fen1 jin1 xi1 jiu3 kui2 。
+- tai4 mo4 man2 cheng1 san1 yu3 yuan4 ， shang4 lin2 wei4 jie4 yi4 zhi1 qi1 。
+- kong1 fan2 chu1 sou3 zhao1 hun2 xie1 ， lai4 you3 wei1 lang2 ji1 shan4 ti2 。
+- ta1 ri4 guang3 wen2 liao2 huang2 gao4 ， yuan2 tou2 he4 biao3 yu3 yun2 qi2 。
 
 ## 注释
 

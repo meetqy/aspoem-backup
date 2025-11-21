@@ -6,10 +6,10 @@ titleSlug: geng-yin-yu-zi-lian-dang-su-liu-quan-fu-di-shun-liu-fu-xing-shan-zhi-
 author: 陽枋
 authorPinyin: yang2 fang1
 authorSlug: yang-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

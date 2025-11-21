@@ -9,18 +9,18 @@ authorSlug: xue-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 跳躍深池四五秋，常搖朱尾弄綸鉤。
-- 無端擺斷芙蓉朵，不得清波更一遊。
+- 戲躍蓮池四五秋，常揺朱尾弄銀鈎。
+- 無緣擺罷芙蓉朶，不得清波更一遊。
 
 ## 拼音
 
-- tiao4 yue4 shen1 chi2 si4 wu3 qiu1 ， chang2 yao2 zhu1 wei3 nong4 lun2 gou1 。
-- wu2 duan1 bai3 duan4 fu2 rong2 duo3 ， bu4 de2 qing1 bo1 geng4 yi4 you2 。
+- xi4 yue4 lian2 chi2 si4 wu3 qiu1 ， chang2 yao2 zhu1 wei3 nong4 yin2 gou1 。
+- wu2 yuan2 bai3 ba4 fu2 rong2 duo3 ， bu4 de2 qing1 bo1 geng4 yi4 you2 。
 
 ## 注释
 

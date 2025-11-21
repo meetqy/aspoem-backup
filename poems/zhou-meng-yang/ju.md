@@ -6,10 +6,10 @@ titleSlug: ju
 author: 周孟陽
 authorPinyin: zhou1 meng4 yang2
 authorSlug: zhou-meng-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

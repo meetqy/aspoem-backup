@@ -6,10 +6,10 @@ titleSlug: ju
 author: 朱顯之
 authorPinyin: zhu1 xian3 zhi1
 authorSlug: zhu-xian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

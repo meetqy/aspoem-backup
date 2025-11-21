@@ -6,10 +6,10 @@ titleSlug: you-ling-yin-si
 author: 道諫
 authorPinyin: dao4 jian4
 authorSlug: dao-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

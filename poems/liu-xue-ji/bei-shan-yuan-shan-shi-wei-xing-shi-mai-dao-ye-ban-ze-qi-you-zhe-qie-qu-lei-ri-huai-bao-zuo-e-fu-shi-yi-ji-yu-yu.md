@@ -6,10 +6,10 @@ titleSlug: bei-shan-yuan-shan-shi-wei-xing-shi-mai-dao-ye-ban-ze-qi-you-zhe-qie-
 author: 劉學箕
 authorPinyin: liu2 xue2 ji1
 authorSlug: liu-xue-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: jiang-shang
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柳翠蘆尤碧，楓殷蓼更紅。
-- 金波連夕照，玉浪起秋風。
-- 霄漢雙飛鳥，波瀾一釣篷。
-- 江湖如許景，總合付詩翁。
+- 波瀾浮動月翻翻，細雨吹風忽在門。
+- 溪上酒家何處所，青燈明滅見漁村。
 
 ## 拼音
 
-- liu3 cui4 lu2 you2 bi4 ， feng1 yin1 liao3 geng4 hong2 。
-- jin1 bo1 lian2 xi1 zhao4 ， yu4 lang4 qi3 qiu1 feng1 。
-- xiao1 han4 shuang1 fei1 niao3 ， bo1 lan2 yi2 diao4 peng2 。
-- jiang1 hu2 ru2 xu1 jing3 ， zong3 he2 fu4 shi1 weng1 。
+- bo1 lan2 fu2 dong4 yue4 fan1 fan1 ， xi4 yu3 chui1 feng1 hu1 zai4 men2 。
+- xi1 shang4 jiu3 jia1 he2 chu3 suo3 ， qing1 deng1 ming2 mie4 jian4 yu2 cun1 。
 
 ## 注释
 

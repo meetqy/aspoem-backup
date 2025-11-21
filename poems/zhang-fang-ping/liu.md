@@ -6,25 +6,25 @@ titleSlug: liu
 author: 張方平
 authorPinyin: zhang1 fang1 ping2
 authorSlug: zhang-fang-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠眉含愁展新葉，長袖善舞拖舊條。
-- 黄鶯初囀一何喜，紅桃相映不勝嬌。
-- 行人歇馬近驛路，漁叟繫舟臨溪橋。
-- 斜風細雨與殘照，不妨意氣常飄飄。
+- 雨細池塘靜，風斜院落深。
+- 蝶飛隨亂絮，鶯囀入濃陰。
+- 翠带堪紉佩，金絲可度針。
+- 願依菩薩手，不上美人簪。
 
 ## 拼音
 
-- cui4 mei2 han2 chou2 zhan3 xin1 ye4 ， chang2 xiu4 shan4 wu3 tuo1 jiu4 tiao2 。
-- huang2 ying1 chu1 zhuan4 yi4 he2 xi3 ， hong2 tao2 xiang1 ying4 bu2 sheng4 jiao1 。
-- xing2 ren2 xie1 ma3 jin4 yi4 lu4 ， yu2 sou3 xi4 zhou1 lin2 xi1 qiao2 。
-- xie2 feng1 xi4 yu3 yu3 can2 zhao4 ， bu4 fang2 yi4 qi4 chang2 piao1 piao1 。
+- yu3 xi4 chi2 tang2 jing4 ， feng1 xie2 yuan4 luo4 shen1 。
+- die2 fei1 sui2 luan4 xu4 ， ying1 zhuan4 ru4 nong2 yin1 。
+- cui4 dai4 kan1 ren4 pei4 ， jin1 si1 ke3 du4 zhen1 。
+- yuan4 yi1 pu2 sa4 shou3 ， bu2 shang4 mei3 ren2 zan1 。
 
 ## 注释
 

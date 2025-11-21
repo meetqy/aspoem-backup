@@ -6,10 +6,10 @@ titleSlug: you-han-yan-diao-ji
 author: 路德章
 authorPinyin: lu4 de2 zhang1
 authorSlug: lu-de-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

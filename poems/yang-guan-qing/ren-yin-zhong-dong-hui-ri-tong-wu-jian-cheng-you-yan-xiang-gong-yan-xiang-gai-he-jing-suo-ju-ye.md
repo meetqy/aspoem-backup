@@ -6,10 +6,10 @@ titleSlug: ren-yin-zhong-dong-hui-ri-tong-wu-jian-cheng-you-yan-xiang-gong-yan-x
 author: 楊冠卿
 authorPinyin: yang2 guan1 qing1
 authorSlug: yang-guan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

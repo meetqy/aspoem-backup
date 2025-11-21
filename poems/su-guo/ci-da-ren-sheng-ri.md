@@ -6,10 +6,10 @@ titleSlug: ci-da-ren-sheng-ri
 author: 蘇過
 authorPinyin: su1 guo4
 authorSlug: su-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

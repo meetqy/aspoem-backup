@@ -6,21 +6,21 @@ titleSlug: tian-fu-yin-wu-shou-qi-san
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老天應是念農夫，萬頃黄雲著地鋪。
-- 有穀未爲兒女計，半償私債半官租。
+- 羣來野雀遶林梢，三五人家住水坳。
+- 翁媼語人年歲好，屋山添得一層茅。
 
 ## 拼音
 
-- lao3 tian1 ying1 shi4 nian4 nong2 fu1 ， wan4 qing3 huang2 yun2 zhu4 di4 pu1 。
-- you3 gu3 wei4 wei2 er2 nü3 ji4 ， ban4 chang2 si1 zhai4 ban4 guan1 zu1 。
+- qun2 lai2 ye3 que4 rao4 lin2 shao1 ， san1 wu3 ren2 jia1 zhu4 shui3 ao4 。
+- weng1 ao3 yu3 ren2 nian2 sui4 hao3 ， wu1 shan1 tian1 de2 yi4 ceng2 mao2 。
 
 ## 注释
 

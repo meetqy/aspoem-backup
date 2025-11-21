@@ -6,21 +6,21 @@ titleSlug: wen-di
 author: 徐鈞
 authorPinyin: xu2 jun1
 authorSlug: xu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 才輸十倍德何如，竊位稱尊尊啟帝圖。
-- 自料孔明非可敵，終身不敢瞰成都。
+- 倚女專朝旋篡位，因妃訴子竟戕身。
+- 興亡反掌都緣色，枉作車書混一人。
 
 ## 拼音
 
-- cai2 shu1 shi2 bei4 de2 he2 ru2 ， qie4 wei4 cheng1 zun1 zun1 qi3 di4 tu2 。
-- zi4 liao4 kong3 ming2 fei1 ke3 di2 ， zhong1 shen1 bu4 gan3 kan4 cheng2 du1 。
+- yi3 nü3 zhuan1 chao2 xuan2 cuan4 wei4 ， yin1 fei1 su4 zi3 jing4 qiang1 shen1 。
+- xing1 wang2 fan3 zhang3 dou1 yuan2 se4 ， wang3 zuo4 ju1 shu1 hun4 yi4 ren2 。
 
 ## 注释
 

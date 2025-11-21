@@ -6,25 +6,23 @@ titleSlug: wu-ti-er-shou-yi
 author: 李商隱
 authorPinyin: li3 shang1 yin3
 authorSlug: li-shang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨夜星辰昨夜風，畫樓西畔桂堂東。
-- 身無綵鳳雙飛翼，心有靈犀一點通。
-- 隔座送鉤春酒暖，分曹射覆蠟燈紅。
-- 嗟余聽鼓應官去，走馬蘭臺類斷蓬。
+- 鳳尾香羅薄幾重，碧文圓頂夜深縫。
+- 扇裁月魄羞難掩，車走雷聲語未通。
+- 曾是寂寥金燼暗，斷無消息石榴紅。
 
 ## 拼音
 
-- zuo2 ye4 xing1 chen2 zuo2 ye4 feng1 ， hua4 lou2 xi1 pan4 gui4 tang2 dong1 。
-- shen1 wu2 cai3 feng4 shuang1 fei1 yi4 ， xin1 you3 ling2 xi1 yi4 dian3 tong1 。
-- ge2 zuo4 song4 gou1 chun1 jiu3 nuan3 ， fen1 cao2 she4 fu4 la4 deng1 hong2 。
-- jie1 yu2 ting1 gu3 ying1 guan1 qu4 ， zou3 ma3 lan2 tai2 lei4 duan4 peng2 。
+- feng4 wei3 xiang1 luo2 bao2 ji1 zhong4 ， bi4 wen2 yuan2 ding3 ye4 shen1 feng2 。
+- shan4 cai2 yue4 po4 xiu1 nan2 yan3 ， ju1 zou3 lei2 sheng1 yu3 wei4 tong1 。
+- ceng2 shi4 ji4 liao2 jin1 jin4 an4 ， duan4 wu2 xiao1 xi0 shi2 liu0 hong2 。
 
 ## 注释
 

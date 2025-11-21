@@ -6,10 +6,10 @@ titleSlug: wen-si-bo-yan-ke-yin-yi-jiu-xie-song-si-you-shi-jian-ji-ci-yun-er-sho
 author: 羅願
 authorPinyin: luo2 yuan4
 authorSlug: luo-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

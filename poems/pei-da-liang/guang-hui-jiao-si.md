@@ -6,10 +6,10 @@ titleSlug: guang-hui-jiao-si
 author: 裴大亮
 authorPinyin: pei2 da4 liang4
 authorSlug: pei-da-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

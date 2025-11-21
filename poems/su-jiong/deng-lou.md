@@ -6,21 +6,21 @@ titleSlug: deng-lou
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 越客西來隠姓名，扁舟浩蕩逐江行。
-- 岳陽樓上三更後，自倚欄干看月明。
+- 秋林薄薄半棲鴉，城脚荷花一带斜。
+- 碧色暮雲三萬里，不知魚網是誰家。
 
 ## 拼音
 
-- yue4 ke4 xi1 lai2 yin3 xing4 ming2 ， pian1 zhou1 hao4 dang4 zhu2 jiang1 xing2 。
-- yue4 yang2 lou2 shang4 san1 geng4 hou4 ， zi4 yi3 lan2 gan1 kan4 yue4 ming2 。
+- qiu1 lin2 bao2 bao2 ban4 qi1 ya1 ， cheng2 jiao3 he2 hua1 yi2 dai4 xie2 。
+- bi4 se4 mu4 yun2 san1 wan4 li3 ， bu4 zhi1 yu2 wang3 shi4 shui2 jia1 。
 
 ## 注释
 

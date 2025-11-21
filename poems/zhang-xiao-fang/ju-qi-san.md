@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 張孝芳
 authorPinyin: zhang1 xiao4 fang1
 authorSlug: zhang-xiao-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

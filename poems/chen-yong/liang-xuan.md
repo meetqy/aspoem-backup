@@ -6,10 +6,10 @@ titleSlug: liang-xuan
 author: 陳庸
 authorPinyin: chen2 yong1
 authorSlug: chen-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

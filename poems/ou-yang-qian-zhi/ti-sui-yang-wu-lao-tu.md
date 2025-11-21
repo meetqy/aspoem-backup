@@ -6,10 +6,10 @@ titleSlug: ti-sui-yang-wu-lao-tu
 author: 歐陽謙之
 authorPinyin: ou1 yang2 qian1 zhi1
 authorSlug: ou-yang-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

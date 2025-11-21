@@ -1,6 +1,6 @@
 ---
 id: li-jiao-ping
-title: 屏
+title: 萍
 titlePinyin: ping2
 titleSlug: ping
 author: 李嶠
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 洞徹琉璃蔽，威紆屈膝回。
-- 錦中雲母列，霞上織成開。
-- 山上含春動，神仙倒景來。
-- 脩身兼竭節，誰識作銘才。
+- 二月虹初見，三春蟻正浮。
+- 青蘋含吹轉，紫蒂帶波流。
+- 屢逐明神薦，常隨旅客遊。
+- 既能甜似蜜，還遶楚王舟。
 
 ## 拼音
 
-- dong4 che4 liu2 li2 bi4 ， wei1 yu1 qu1 xi1 hui2 。
-- jin3 zhong1 yun2 mu3 lie4 ， xia2 shang4 zhi1 cheng2 kai1 。
-- shan1 shang4 han2 chun1 dong4 ， shen2 xian1 dao3 jing3 lai2 。
-- xiu1 shen1 jian1 jie2 jie2 ， shui2 shi2 zuo4 ming2 cai2 。
+- er4 yue4 hong2 chu1 jian4 ， san1 chun1 yi3 zheng4 fu2 。
+- qing1 pin2 han2 chui1 zhuan3 ， zi3 di4 dai4 bo1 liu2 。
+- lü3 zhu2 ming2 shen2 jian4 ， chang2 sui2 lü3 ke4 you2 。
+- ji4 neng2 tian2 si4 mi4 ， huan2 rao4 chu3 wang2 zhou1 。
 
 ## 注释
 

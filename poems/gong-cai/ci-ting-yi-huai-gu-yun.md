@@ -6,10 +6,10 @@ titleSlug: ci-ting-yi-huai-gu-yun
 author: □公才
 authorPinyin: □ gong1 cai2
 authorSlug: gong-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

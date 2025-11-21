@@ -6,10 +6,10 @@ titleSlug: yu-tai-ti-shi-er-shou-shi-yi
 author: 權德輿
 authorPinyin: quan2 de2 yu2
 authorSlug: quan-de-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

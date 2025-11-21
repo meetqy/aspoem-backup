@@ -6,10 +6,10 @@ titleSlug: ji-seng-qin-shan
 author: 楊紬林
 authorPinyin: yang2 chou1 lin2
 authorSlug: yang-chou-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

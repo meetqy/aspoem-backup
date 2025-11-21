@@ -6,21 +6,25 @@ titleSlug: dui-jiu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘆息人真未易知，暮年始覺麴生奇。
-- 個中妙趣誰堪語，最是初醺未醉時。
+- 密汙持苫屋，寒蘆用織簾。
+- 彘肩柴熟罨，蓴菜豉初添。
+- 黄甲如盤大，紅丁似蜜甜。
+- 街頭桑葉落，相喚指青帘。
 
 ## 拼音
 
-- tan4 xi1 ren2 zhen1 wei4 yi4 zhi1 ， mu4 nian2 shi3 jue2 qu1 sheng1 qi2 。
-- ge4 zhong1 miao4 qu4 shui2 kan1 yu3 ， zui4 shi4 chu1 xun1 wei4 zui4 shi2 。
+- mi4 wu1 chi2 shan1 wu1 ， han2 lu2 yong4 zhi1 lian2 。
+- zhi4 jian1 chai2 shu2 yan3 ， chun2 cai4 chi3 chu1 tian1 。
+- huang2 jia3 ru2 pan2 da4 ， hong2 ding1 si4 mi4 tian2 。
+- jie1 tou2 sang1 ye4 luo4 ， xiang1 huan4 zhi3 qing1 lian2 。
 
 ## 注释
 

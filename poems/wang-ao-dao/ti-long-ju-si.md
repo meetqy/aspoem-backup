@@ -6,10 +6,10 @@ titleSlug: ti-long-ju-si
 author: 王敖道
 authorPinyin: wang2 ao2 dao4
 authorSlug: wang-ao-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: kong-ba-tai-ci-yun-qi-er
 author: 李訦
 authorPinyin: li3 chen2
 authorSlug: li-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

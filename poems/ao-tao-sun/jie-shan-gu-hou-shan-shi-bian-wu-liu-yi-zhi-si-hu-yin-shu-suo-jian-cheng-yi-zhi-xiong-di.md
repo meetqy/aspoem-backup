@@ -6,10 +6,10 @@ titleSlug: jie-shan-gu-hou-shan-shi-bian-wu-liu-yi-zhi-si-hu-yin-shu-suo-jian-ch
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

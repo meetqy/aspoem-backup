@@ -6,21 +6,21 @@ titleSlug: huang-yuan
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荒圍午日照青蕪，樹罅鳴鳩相應呼。
-- 一片陰雲送山雨，漸漸新麥地親鋤。
+- 日暖風簷翻乳燕，曉寒露柳囀流鶯。
+- 荒園日日東風裏，吹盡閒花香草生。
 
 ## 拼音
 
-- huang1 wei2 wu3 ri4 zhao4 qing1 wu2 ， shu4 xia4 ming2 jiu1 xiang1 ying1 hu1 。
-- yi2 pian4 yin1 yun2 song4 shan1 yu3 ， jian4 jian4 xin1 mai4 di4 qin1 chu2 。
+- ri4 nuan3 feng1 yan2 fan1 ru3 yan4 ， xiao3 han2 lu4 liu3 zhuan4 liu2 ying1 。
+- huang1 yuan2 ri4 ri4 dong1 feng1 li3 ， chui1 jin4 xian2 hua1 xiang1 cao3 sheng1 。
 
 ## 注释
 

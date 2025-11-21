@@ -6,10 +6,10 @@ titleSlug: ge-ling-jia-si-dao-yuan-chi
 author: 湯仲友
 authorPinyin: tang1 zhong4 you3
 authorSlug: tang-zhong-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

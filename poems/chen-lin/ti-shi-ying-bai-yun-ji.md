@@ -6,10 +6,10 @@ titleSlug: ti-shi-ying-bai-yun-ji
 author: 陳麟
 authorPinyin: chen2 lin2
 authorSlug: chen-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

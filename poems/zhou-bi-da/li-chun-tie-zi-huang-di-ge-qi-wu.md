@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-huang-di-ge-qi-wu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 延英議政恰朝還，選德觀書時暫閑。
-- 晝漏稍稀高閤報，教添內引兩三班。
+- 昕陛延賢日徹曛，金蓮閲奏夜常分。
+- 餘閒手點唐文粹，春晝長時分外勤。
 
 ## 拼音
 
-- yan2 ying1 yi4 zheng4 qia4 chao2 huan2 ， xuan3 de2 guan1 shu1 shi2 zan4 xian2 。
-- zhou4 lou4 shao1 xi1 gao1 he2 bao4 ， jiao4 tian1 nei4 yin3 liang3 san1 ban1 。
+- xin1 bi4 yan2 xian2 ri4 che4 xun1 ， jin1 lian2 yue4 zou4 ye4 chang2 fen1 。
+- yu2 xian2 shou3 dian3 tang2 wen2 cui4 ， chun1 zhou4 chang2 shi2 fen4 wai4 qin2 。
 
 ## 注释
 

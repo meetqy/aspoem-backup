@@ -6,21 +6,21 @@ titleSlug: chu-xia
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松花金粉落，荷葉翠鈿浮。
-- 啼鵙千山暮，一年春事休。
+- 時節催農圃，園林花事空。
+- 柳蒼無故態，苗長有新功。
 
 ## 拼音
 
-- song1 hua1 jin1 fen3 luo4 ， he2 ye4 cui4 dian4 fu2 。
-- ti2 ju2 qian1 shan1 mu4 ， yi4 nian2 chun1 shi4 xiu1 。
+- shi2 jie2 cui1 nong2 pu3 ， yuan2 lin2 hua1 shi4 kong1 。
+- liu3 cang1 wu2 gu4 tai4 ， miao2 chang2 you3 xin1 gong1 。
 
 ## 注释
 

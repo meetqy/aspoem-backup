@@ -6,10 +6,10 @@ titleSlug: yang-zhuang-pu
 author: 彭可軒
 authorPinyin: peng2 ke3 xuan1
 authorSlug: peng-ke-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

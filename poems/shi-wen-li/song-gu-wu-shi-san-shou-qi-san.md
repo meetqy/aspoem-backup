@@ -1,26 +1,26 @@
 ---
 id: shi-wen-li-song-gu-wu-shi-san-shou-qi-san
-title: 頌古五十三首  其三
-titlePinyin: song4 gu3 wu3 shi2 san1 shou3     qi2 san1
+title: 頌古五十三首  其三○
+titlePinyin: song4 gu3 wu3 shi2 san1 shou3     qi2 san1 ○
 titleSlug: song-gu-wu-shi-san-shou-qi-san
 author: 釋文禮
 authorPinyin: shi4 wen2 li3
 authorSlug: shi-wen-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 策起眉毛示育王，分明佛面露堂堂。
-- 至今阿耨池中水，流落人間潤八荒。
+- 以此振鈴伸召請，旋風連架打將來。
+- 大悲院里邏齋去，肘露皮穿可怪哉。
 
 ## 拼音
 
-- ce4 qi3 mei2 mao0 shi4 yu4 wang2 ， fen1 ming2 fo2 mian4 lu4 tang2 tang2 。
-- zhi4 jin1 a1 nou4 chi2 zhong1 shui3 ， liu2 luo4 ren2 jian4 run4 ba1 huang1 。
+- yi3 ci3 zhen4 ling2 shen1 zhao4 qing3 ， xuan2 feng1 lian2 jia4 da3 jiang1 lai2 。
+- da4 bei1 yuan4 li3 luo2 zhai1 qu4 ， zhou3 lu4 pi2 chuan1 ke3 guai4 zai1 。
 
 ## 注释
 

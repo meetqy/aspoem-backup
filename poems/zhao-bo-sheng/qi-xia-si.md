@@ -6,10 +6,10 @@ titleSlug: qi-xia-si
 author: 趙伯晟
 authorPinyin: zhao4 bo2 sheng4
 authorSlug: zhao-bo-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

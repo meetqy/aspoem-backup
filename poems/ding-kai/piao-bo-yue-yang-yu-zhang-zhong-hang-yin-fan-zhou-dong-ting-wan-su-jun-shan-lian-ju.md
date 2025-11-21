@@ -6,10 +6,10 @@ titleSlug: piao-bo-yue-yang-yu-zhang-zhong-hang-yin-fan-zhou-dong-ting-wan-su-ju
 author: 丁開
 authorPinyin: ding1 kai1
 authorSlug: ding-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

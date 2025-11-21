@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-qing-xi-zhai-liu-yan-shi-shou-qi-si
-title: 題請息齋六言十首・其四
-titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3・qi2 si4
+title: 題請息齋六言十首  其四
+titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3     qi2 si4
 titleSlug: ti-qing-xi-zhai-liu-yan-shi-shou-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

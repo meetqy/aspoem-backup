@@ -6,25 +6,25 @@ titleSlug: hou-yuan-shang-hua-ying-zhi
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宫花如錦水連漪，翠輦尋芳正是時。
-- 禁苑定知人未識，朱欄除有蝶偷窺。
-- 艶烘曉日迷天仗，香逐輕風落酒巵。
-- 何幸微臣陪鎬宴，蓬壺春漏正遲遲。
+- 雲羅霞綺媚芳辰，瓊圃花開爛漫春。
+- 風遞清香隨鳳輦，波涵倒影落龍津。
+- 仙葩四照烘初日，濃艶千苞賜近臣。
+- 向晚天街戴歸處，遊蜂舞蝶自隨人。
 
 ## 拼音
 
-- gong1 hua1 ru2 jin3 shui3 lian2 yi1 ， cui4 nian3 xun2 fang1 zheng4 shi4 shi2 。
-- jin4 yuan4 ding4 zhi1 ren2 wei4 shi2 ， zhu1 lan2 chu2 you3 die2 tou1 kui1 。
-- yan4 hong1 xiao3 ri4 mi2 tian1 zhang4 ， xiang1 zhu2 qing1 feng1 luo4 jiu3 zhi1 。
-- he2 xing4 wei1 chen2 pei2 gao3 yan4 ， peng2 hu2 chun1 lou4 zheng4 chi2 chi2 。
+- yun2 luo2 xia2 qi3 mei4 fang1 chen2 ， qiong2 pu3 hua1 kai1 lan4 man4 chun1 。
+- feng1 di4 qing1 xiang1 sui2 feng4 nian3 ， bo1 han2 dao4 ying3 luo4 long2 jin1 。
+- xian1 pa1 si4 zhao4 hong1 chu1 ri4 ， nong2 yan4 qian1 bao1 ci4 jin4 chen2 。
+- xiang4 wan3 tian1 jie1 dai4 gui1 chu3 ， you2 feng1 wu3 die2 zi4 sui2 ren2 。
 
 ## 注释
 

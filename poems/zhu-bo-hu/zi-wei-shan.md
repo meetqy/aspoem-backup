@@ -6,10 +6,10 @@ titleSlug: zi-wei-shan
 author: 朱伯虎
 authorPinyin: zhu1 bo2 hu3
 authorSlug: zhu-bo-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

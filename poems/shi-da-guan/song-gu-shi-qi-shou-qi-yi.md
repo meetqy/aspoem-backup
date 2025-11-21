@@ -1,26 +1,26 @@
 ---
 id: shi-da-guan-song-gu-shi-qi-shou-qi-yi
-title: 頌古十七首  其一
-titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 yi1
+title: 頌古十七首  其一○
+titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-qi-shou-qi-yi
 author: 釋大觀
 authorPinyin: shi4 da4 guan1
 authorSlug: shi-da-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乾坤雖有作，太平本無象。
-- 赫日正中天，去却脩羅掌。
+- 兩聲不合共交肩，毒手纔施報老拳。
+- 今日上天同碧落，明朝入地共黄泉。
 
 ## 拼音
 
-- qian2 kun1 sui1 you3 zuo4 ， tai4 ping2 ben3 wu2 xiang4 。
-- he4 ri4 zheng4 zhong1 tian1 ， qu4 que4 xiu1 luo2 zhang3 。
+- liang3 sheng1 bu4 he2 gong4 jiao1 jian1 ， du2 shou3 cai2 shi1 bao4 lao3 quan2 。
+- jin1 ri4 shang4 tian1 tong2 bi4 luo4 ， ming2 chao2 ru4 di4 gong4 huang2 quan2 。
 
 ## 注释
 

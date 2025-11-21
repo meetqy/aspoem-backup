@@ -6,25 +6,21 @@ titleSlug: du-xiao-xian-chuan
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不假成田勢，寧堪麥秀悲。
-- 青氈梁舊物，赤幟漢威儀。
-- 剛被農家誤，俄推鼎祚移。
-- 江湖百郡地，只自黍離離。
+- 可怪梁朝幾帝王，丘墟萬里變農桑。
+- 修文偃武如何故，町疃江陵盡鹿場。
 
 ## 拼音
 
-- bu4 jia3 cheng2 tian2 shi4 ， ning2 kan1 mai4 xiu4 bei1 。
-- qing1 zhan1 liang2 jiu4 wu4 ， chi4 zhi4 han4 wei1 yi2 。
-- gang1 bei4 nong2 jia1 wu4 ， e2 tui1 ding3 zuo4 yi2 。
-- jiang1 hu2 bai3 jun4 di4 ， zhi1 zi4 shu3 li2 li2 。
+- ke3 guai4 liang2 chao2 ji1 di4 wang2 ， qiu1 xu1 wan4 li3 bian4 nong2 sang1 。
+- xiu1 wen2 yan3 wu3 ru2 he2 gu4 ， ting3 tuan3 jiang1 ling2 jin4 lu4 chang3 。
 
 ## 注释
 

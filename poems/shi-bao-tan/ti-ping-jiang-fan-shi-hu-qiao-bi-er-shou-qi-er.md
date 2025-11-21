@@ -6,10 +6,10 @@ titleSlug: ti-ping-jiang-fan-shi-hu-qiao-bi-er-shou-qi-er
 author: 釋寶曇
 authorPinyin: shi4 bao3 tan2
 authorSlug: shi-bao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

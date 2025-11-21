@@ -1,34 +1,30 @@
 ---
 id: hu-su-yuan-si
-title: 怨思
-titlePinyin: yuan4 si1
+title: 遠思
+titlePinyin: yuan3 si1
 titleSlug: yuan-si
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陰蟲思衰草，羈雌啼空林。
-- 盛秋授寒服，獨夜搗清砧。
-- 影孤隨月瘦，肌薄怯霜侵。
-- 平生託義分，夢想在容音。
-- 山頭憐化石，陌上重辭金。
-- 安得兩黄鵠，因之傳此心。
+- 一片平蕪百尺樓，闌干橫絕點清秋。
+- 三年字與燕鴻斷，千里心隨桂水流。
+- 空對霜葭驚遠別，忍題雲葉寄牢愁。
+- 驪駒不見西曛迫，目眩天涯片席收。
 
 ## 拼音
 
-- yin1 chong2 si1 shuai1 cao3 ， ji1 ci2 ti2 kong1 lin2 。
-- sheng4 qiu1 shou4 han2 fu2 ， du2 ye4 dao3 qing1 zhen1 。
-- ying3 gu1 sui2 yue4 shou4 ， ji1 bao2 qie4 shuang1 qin1 。
-- ping2 sheng1 tuo1 yi4 fen1 ， meng4 xiang3 zai4 rong2 yin1 。
-- shan1 tou2 lian2 hua4 shi2 ， mo4 shang4 zhong4 ci2 jin1 。
-- an1 de2 liang3 huang2 hu2 ， yin1 zhi1 chuan2 ci3 xin1 。
+- yi2 pian4 ping2 wu2 bai3 chi3 lou2 ， lan2 gan1 heng2 jue2 dian3 qing1 qiu1 。
+- san1 nian2 zi4 yu3 yan4 hong2 duan4 ， qian1 li3 xin1 sui2 gui4 shui3 liu2 。
+- kong1 dui4 shuang1 jia1 jing1 yuan3 bie2 ， ren3 ti2 yun2 ye4 ji4 lao2 chou2 。
+- li2 ju1 bu2 jian4 xi1 xun1 po4 ， mu4 xuan4 tian1 ya2 pian4 xi2 shou1 。
 
 ## 注释
 

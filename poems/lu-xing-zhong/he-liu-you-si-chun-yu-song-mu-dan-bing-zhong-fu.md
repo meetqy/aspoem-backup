@@ -6,10 +6,10 @@ titleSlug: he-liu-you-si-chun-yu-song-mu-dan-bing-zhong-fu
 author: 呂行中
 authorPinyin: lü3 xing2 zhong1
 authorSlug: lu-xing-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

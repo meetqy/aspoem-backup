@@ -6,21 +6,21 @@ titleSlug: yu-fu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲儉何曾敢吃漿，早於世路似忘羊。
-- 桃花飯有秦人味，不染膏粱脂膩香。
+- 罷釣歸來不繫船，坐看秋水落紅蓮。
+- 江鮮野菜桃花飯，高唱夕陽孤島邊。
 
 ## 拼音
 
-- sui4 jian3 he2 ceng2 gan3 chi1 jiang1 ， zao3 wu1 shi4 lu4 si4 wang4 yang2 。
-- tao2 hua1 fan4 you3 qin2 ren2 wei4 ， bu4 ran3 gao1 liang2 zhi1 ni4 xiang1 。
+- ba4 diao4 gui1 lai2 bu2 xi4 chuan2 ， zuo4 kan4 qiu1 shui3 luo4 hong2 lian2 。
+- jiang1 xian1 ye3 cai4 tao2 hua1 fan4 ， gao1 chang4 xi1 yang2 gu1 dao3 bian1 。
 
 ## 注释
 

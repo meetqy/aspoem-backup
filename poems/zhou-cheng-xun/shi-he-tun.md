@@ -6,10 +6,10 @@ titleSlug: shi-he-tun
 author: 周承勛
 authorPinyin: zhou1 cheng2 xun1
 authorSlug: zhou-cheng-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

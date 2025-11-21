@@ -1,24 +1,26 @@
 ---
 id: chen-hu-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○○
+titlePinyin: ju4     qi2 yi1 ○ ○
 titleSlug: ju-qi-yi
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩表蜀天開日月，三軍漢地出旌旗。
+- 昔誰醒中夢，今獨夢中醒。
+- 萬緣水上漚，百歲花前景。
 
 ## 拼音
 
-- liang3 biao3 shu3 tian1 kai1 ri4 yue4 ， san1 jun1 han4 di4 chu1 jing1 qi2 。
+- xi1 shui2 xing3 zhong1 meng4 ， jin1 du2 meng4 zhong1 xing3 。
+- wan4 yuan2 shui3 shang4 ou1 ， bai3 sui4 hua1 qian2 jing3 。
 
 ## 注释
 

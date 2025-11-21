@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙絳夫
 authorPinyin: zhao4 jiang4 fu1
 authorSlug: zhao-jiang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

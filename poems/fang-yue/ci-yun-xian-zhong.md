@@ -6,25 +6,25 @@ titleSlug: ci-yun-xian-zhong
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玲瓏壓轡繫絨鞍，付與詩人洗眼看。
-- 老子只憑雙脚健，梅花相對一溪寒。
-- 吾生焉往不三黜，此樂未央并四難。
-- 併與竹間孤鶴語，倦飛底用插脩翰。
+- 區中何日了塵緣，落草牛須驀鼻穿。
+- 乾沒一生空歲月，見成三逕老風煙。
+- 山林有味從今我，鐘鼎無心付老天。
+- 田彼南山多種豆，不愁饑火苦相煎。
 
 ## 拼音
 
-- ling2 long2 ya1 pei4 xi4 rong2 an1 ， fu4 yu3 shi1 ren2 xi3 yan3 kan4 。
-- lao3 zi3 zhi1 ping2 shuang1 jiao3 jian4 ， mei2 hua1 xiang1 dui4 yi4 xi1 han2 。
-- wu2 sheng1 yan1 wang3 bu4 san1 chu4 ， ci3 le4 wei4 yang1 bing4 si4 nan2 。
-- bing4 yu3 zhu2 jian4 gu1 he4 yu3 ， juan4 fei1 di3 yong4 cha1 xiu1 han4 。
+- qu1 zhong1 he2 ri4 le0 chen2 yuan2 ， luo4 cao3 niu2 xu1 mo4 bi2 chuan1 。
+- qian2 mei2 yi4 sheng1 kong1 sui4 yue4 ， jian4 cheng2 san1 jing4 lao3 feng1 yan1 。
+- shan1 lin2 you3 wei4 cong2 jin1 wo3 ， zhong1 ding3 wu2 xin1 fu4 lao3 tian1 。
+- tian2 bi3 nan2 shan1 duo1 zhong3 dou4 ， bu4 chou2 ji1 huo3 ku3 xiang4 jian1 。
 
 ## 注释
 

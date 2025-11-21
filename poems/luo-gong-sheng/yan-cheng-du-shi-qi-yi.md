@@ -1,26 +1,26 @@
 ---
 id: luo-gong-sheng-yan-cheng-du-shi-qi-yi
-title: 燕城讀史  其一
-titlePinyin: yan4 cheng2 du2 shi3     qi2 yi1
+title: 燕城讀史  其一○
+titlePinyin: yan4 cheng2 du2 shi3     qi2 yi1 ○
 titleSlug: yan-cheng-du-shi-qi-yi
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 主父變服强公叔，魏武遷都違衆臣。
-- 戰國猶有知禮士，後世還同問俗人。
+- 隋唐晉漢本胡種，自入中國皆衣冠。
+- 不知耶律稱皇帝，何似文皇號可汗。
 
 ## 拼音
 
-- zhu3 fu4 bian4 fu2 qiang2 gong1 shu1 ， wei4 wu3 qian1 dou1 wei2 zhong4 chen2 。
-- zhan4 guo2 you2 you3 zhi1 li3 shi4 ， hou4 shi4 huan2 tong2 wen4 su2 ren2 。
+- sui2 tang2 jin4 han4 ben3 hu2 zhong3 ， zi4 ru4 zhong1 guo2 jie1 yi1 guan1 。
+- bu4 zhi1 ye1 lü4 cheng1 huang2 di4 ， he2 si4 wen2 huang2 hao4 ke4 han2 。
 
 ## 注释
 

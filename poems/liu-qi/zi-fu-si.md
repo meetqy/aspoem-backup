@@ -6,9 +6,9 @@ titleSlug: zi-fu-si
 author: 劉錡
 authorPinyin: liu2 qi2
 authorSlug: liu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

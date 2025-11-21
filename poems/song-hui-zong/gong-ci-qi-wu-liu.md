@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水精澄瑩一屏方，置近盤龍寶硯傍。
-- 海玉森森紅挺秀，瑣窗清楚興何長。
+- 嬪娥閑較選仙圖，争到天宮意自娱。
+- 堂印碧油常占得，更無憂恐入酆都。
 
 ## 拼音
 
-- shui3 jing1 cheng2 ying2 yi4 ping2 fang1 ， zhi4 jin4 pan2 long2 bao3 yan4 bang4 。
-- hai3 yu4 sen1 sen1 hong2 ting3 xiu4 ， suo3 chuang1 qing1 chu3 xing1 he2 chang2 。
+- pin2 e2 xian2 jiao4 xuan3 xian1 tu2 ， zheng1 dao4 tian1 gong1 yi4 zi4 yu2 。
+- tang2 yin4 bi4 you2 chang2 zhan4 de2 ， geng4 wu2 you1 kong3 ru4 feng1 dou1 。
 
 ## 注释
 

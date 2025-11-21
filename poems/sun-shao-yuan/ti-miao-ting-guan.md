@@ -6,10 +6,10 @@ titleSlug: ti-miao-ting-guan
 author: 孫紹遠
 authorPinyin: sun1 shao4 yuan3
 authorSlug: sun-shao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qing-yu-si-yong-guan-qi-san
 author: 游九言
 authorPinyin: you2 jiu3 yan2
 authorSlug: you-jiu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

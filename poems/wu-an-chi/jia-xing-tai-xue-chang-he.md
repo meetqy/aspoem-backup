@@ -6,10 +6,10 @@ titleSlug: jia-xing-tai-xue-chang-he
 author: 吳安持
 authorPinyin: wu2 an1 chi2
 authorSlug: wu-an-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

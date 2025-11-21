@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-liu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 大食波斯飲百杯，停杯把挹萬人魁。
-- 送風使過黄牛峽，不問瞿塘灧澦堆。
+- 杖林山下竹筋鞭，生長由來古佛先。
+- 一擊眼睛纔定動，又隨烟雨過秦川。
 
 ## 拼音
 
-- da4 shi2 bo1 si1 yin3 bai3 bei1 ， ting2 bei1 ba3 yi4 wan4 ren2 kui2 。
-- song4 feng1 shi3 guo4 huang2 niu2 xia2 ， bu2 wen4 qu2 tang2 yan4 yu4 dui1 。
+- zhang4 lin2 shan1 xia4 zhu2 jin1 bian1 ， sheng1 chang2 you2 lai2 gu3 fo2 xian1 。
+- yi4 ji1 yan3 jing0 cai2 ding4 dong4 ， you4 sui2 yan1 yu3 guo4 qin2 chuan1 。
 
 ## 注释
 

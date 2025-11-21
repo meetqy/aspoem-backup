@@ -6,9 +6,9 @@ titleSlug: ji-huai-ying-gong-da-shi-qing-jiao
 author: 馬去非
 authorPinyin: ma3 qu4 fei1
 authorSlug: ma-qu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

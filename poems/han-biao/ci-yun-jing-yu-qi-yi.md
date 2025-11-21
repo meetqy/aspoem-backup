@@ -6,25 +6,21 @@ titleSlug: ci-yun-jing-yu-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已是山中人，只問山中友。
-- 水仙官梅花，霜濃盛開否。
-- 靈山閣之前，溪山堂之後。
-- 竹裏春山亭，冬深幾詩酒。
+- 春山歲晚成良集，不但盃中酒聖賢。
+- 一局棋聲轉歌扇，醉和歸夢入梅邊。
 
 ## 拼音
 
-- yi3 shi4 shan1 zhong1 ren2 ， zhi1 wen4 shan1 zhong1 you3 。
-- shui3 xian1 guan1 mei2 hua1 ， shuang1 nong2 sheng4 kai1 fou3 。
-- ling2 shan1 ge2 zhi1 qian2 ， xi1 shan1 tang2 zhi1 hou4 。
-- zhu2 li3 chun1 shan1 ting2 ， dong1 shen1 ji1 shi1 jiu3 。
+- chun1 shan1 sui4 wan3 cheng2 liang2 ji2 ， bu2 dan4 bei1 zhong1 jiu3 sheng4 xian2 。
+- yi4 ju2 qi2 sheng1 zhuan3 ge1 shan4 ， zui4 he2 gui1 meng4 ru4 mei2 bian1 。
 
 ## 注释
 

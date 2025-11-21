@@ -6,10 +6,10 @@ titleSlug: jin-shan-guang-xuan
 author: 胡宗哲
 authorPinyin: hu2 zong1 zhe2
 authorSlug: hu-zong-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -16,11 +16,15 @@ tags: []
 
 - 悠悠往古繼來今，天地無窮照孔林。
 - 兩到金絲堂下拜，門生無負百年心。
+- （見《宋詩紀事補遺》卷二引《闕里志》。
+- ）。
 
 ## 拼音
 
 - you1 you1 wang3 gu3 ji4 lai2 jin1 ， tian1 di4 wu2 qiong2 zhao4 kong3 lin2 。
 - liang3 dao4 jin1 si1 tang2 xia4 bai4 ， men2 sheng1 wu2 fu4 bai3 nian2 xin1 。
+- （ jian4 《 song4 shi1 ji4 shi4 bu3 yi2 》 juan4 er4 yin3 《 que4 li3 zhi4 》。
+- ）。
 
 ## 注释
 

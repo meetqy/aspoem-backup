@@ -6,10 +6,10 @@ titleSlug: jie-xia-xiao-can-wen-wu-zhun-shan-shi
 author: 僧某
 authorPinyin: seng1 mou3
 authorSlug: seng-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

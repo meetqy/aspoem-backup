@@ -6,25 +6,29 @@ titleSlug: yu
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 蕭蕭十日雨，穩送祝融歸。
-- 燕子經年夢，梧桐昨暮非。
-- 一凉恩到骨，四壁事多違。
-- 衮衮繁華地，西風吹客衣。
+- 聽雨披夜襟，衝雨踏晨鼓。
+- 萬珠絡笋輿，詩中有新語。
+- 老龍經秋卧，歲暮始一舉。
+- 成功亦何遲，光采變蔬圃。
+- 道邊聞井溢，可笑遽如許。
+- 舊山百尺泉，不知旱與雨。
 
 ## 拼音
 
-- xiao1 xiao1 shi2 ri4 yu3 ， wen3 song4 zhu4 rong2 gui1 。
-- yan4 zi0 jing1 nian2 meng4 ， wu2 tong2 zuo2 mu4 fei1 。
-- yi4 liang2 en1 dao4 gu3 ， si4 bi4 shi4 duo1 wei2 。
-- gun3 gun3 fan2 hua2 di4 ， xi1 feng1 chui1 ke4 yi1 。
+- ting1 yu3 pi1 ye4 jin1 ， chong1 yu3 ta4 chen2 gu3 。
+- wan4 zhu1 luo4 sun3 yu2 ， shi1 zhong1 you3 xin1 yu3 。
+- lao3 long2 jing1 qiu1 wo4 ， sui4 mu4 shi3 yi4 ju3 。
+- cheng2 gong1 yi4 he2 chi2 ， guang1 cai3 bian4 shu1 pu3 。
+- dao4 bian1 wen2 jing3 yi4 ， ke3 xiao4 ju4 ru2 xu1 。
+- jiu4 shan1 bai3 chi3 quan2 ， bu4 zhi1 han4 yu3 yu3 。
 
 ## 注释
 

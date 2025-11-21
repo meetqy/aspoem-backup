@@ -6,10 +6,10 @@ titleSlug: song-lin-shang-ren-gui-hu-nan
 author: 釋廣聞
 authorPinyin: shi4 guang3 wen2
 authorSlug: shi-guang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

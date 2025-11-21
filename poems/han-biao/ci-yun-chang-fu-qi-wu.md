@@ -6,25 +6,25 @@ titleSlug: ci-yun-chang-fu-qi-wu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 章泉泉上屋，茅補定牽蘿。
-- 意象時間少，心思古處多。
-- 暑風今夏矣，凉雨奈秋何。
-- 顧我顛毛白，門閒亦養疴。
+- 我圃雖荒亦有梅，云何也會待春回。
+- 尋香逐色從頭數，弄蘂攀條著眼催。
+- 老境隙光真野馬，新年律琯已飛灰。
+- 一枝千樹俱能爾，莫負尊前得句來。
 
 ## 拼音
 
-- zhang1 quan2 quan2 shang4 wu1 ， mao2 bu3 ding4 qian1 luo2 。
-- yi4 xiang4 shi2 jian4 shao3 ， xin1 si0 gu3 chu3 duo1 。
-- shu3 feng1 jin1 xia4 yi3 ， liang2 yu3 nai4 qiu1 he2 。
-- gu4 wo3 dian1 mao2 bai2 ， men2 xian2 yi4 yang3 ke1 。
+- wo3 pu3 sui1 huang1 yi4 you3 mei2 ， yun2 he2 ye3 hui4 dai4 chun1 hui2 。
+- xun2 xiang1 zhu2 se4 cong2 tou2 shu4 ， nong4 rui3 pan1 tiao2 zhu4 yan3 cui1 。
+- lao3 jing4 xi4 guang1 zhen1 ye3 ma3 ， xin1 nian2 lü4 guan3 yi3 fei1 hui1 。
+- yi4 zhi1 qian1 shu4 ju4 neng2 er3 ， mo4 fu4 zun1 qian2 de2 ju4 lai2 。
 
 ## 注释
 

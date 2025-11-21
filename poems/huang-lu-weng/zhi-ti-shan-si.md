@@ -6,10 +6,10 @@ titleSlug: zhi-ti-shan-si
 author: 黄履翁
 authorPinyin: huang2 lü3 weng1
 authorSlug: huang-lu-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

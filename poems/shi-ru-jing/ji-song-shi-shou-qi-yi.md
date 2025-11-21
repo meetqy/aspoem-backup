@@ -1,26 +1,26 @@
 ---
 id: shi-ru-jing-ji-song-shi-shou-qi-yi
-title: 偈頌十首  其一
-titlePinyin: ji4 song4 shi2 shou3     qi2 yi1
+title: 偈頌十首  其一○
+titlePinyin: ji4 song4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-shou-qi-yi
 author: 釋如淨
 authorPinyin: shi4 ru2 jing4
 authorSlug: shi-ru-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 回避無門，此門大開。
-- 家私都脫盡，平白起風雷。
+- 瑞岩一隻破木靴，幾箇攙來盡要拕。
+- 唯有老僧能踢脫，出門赤脚笑呵呵。
 
 ## 拼音
 
-- hui2 bi4 wu2 men2 ， ci3 men2 da4 kai1 。
-- jia1 si1 dou1 tuo1 jin4 ， ping2 bai2 qi3 feng1 lei2 。
+- rui4 yan2 yi4 zhi1 po4 mu4 xue1 ， ji1 ge4 chan1 lai2 jin4 yao4 tuo1 。
+- wei2 you3 lao3 seng1 neng2 ti1 tuo1 ， chu1 men2 chi4 jiao3 xiao4 he1 he1 。
 
 ## 注释
 

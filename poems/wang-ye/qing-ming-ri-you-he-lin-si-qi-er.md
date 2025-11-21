@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-you-he-lin-si-qi-er
 author: 王埜
 authorPinyin: wang2 ye3
 authorSlug: wang-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: jing-li-wa-wu-he-shang-ta-ji
 author: 勾令玄
 authorPinyin: gou1 ling4 xuan2
 authorSlug: gou-ling-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

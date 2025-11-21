@@ -1,30 +1,30 @@
 ---
 id: chen-zao-zai-ci-yun-qi-san
-title: 再次韵  其三
+title: 再次韻  其三
 titlePinyin: zai4 ci4 yun4     qi2 san1
 titleSlug: zai-ci-yun-qi-san
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世人競捧心，妍醜西東施。
-- 揮斤得妙質，捨子吾從誰。
-- 所惜憂患餘，歸計不暇遲。
-- 繼今省幽獨，鴈足時新詩。
+- 橫前整整萬全兵，自笑空弮借背城。
+- 更遣齊竽混東郭，坐令鵠卵化南榮。
+- 黄陳得法仍宗派，甫白論情自弟兄。
+- 顧我無能鄒賈役，放公筆力擅西京。
 
 ## 拼音
 
-- shi4 ren2 jing4 peng3 xin1 ， yan2 chou3 xi1 dong1 shi1 。
-- hui1 jin1 de2 miao4 zhi4 ， she3 zi3 wu2 cong2 shui2 。
-- suo3 xi1 you1 huan4 yu2 ， gui1 ji4 bu4 xia2 chi2 。
-- ji4 jin1 sheng3 you1 du2 ， yan4 zu2 shi2 xin1 shi1 。
+- heng2 qian2 zheng3 zheng3 wan4 quan2 bing1 ， zi4 xiao4 kong1 quan1 jie4 bei4 cheng2 。
+- geng4 qian3 qi2 yu2 hun4 dong1 guo1 ， zuo4 ling4 hu2 luan3 hua4 nan2 rong2 。
+- huang2 chen2 de2 fa3 reng2 zong1 pai4 ， fu3 bai2 lun4 qing2 zi4 di4 xiong0 。
+- gu4 wo3 wu2 neng2 zou1 jia3 yi4 ， fang4 gong1 bi3 li4 shan4 xi1 jing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-yu-xiao-ting
 author: 王廉清
 authorPinyin: wang2 lian2 qing1
 authorSlug: wang-lian-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

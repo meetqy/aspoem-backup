@@ -6,10 +6,10 @@ titleSlug: ti-zhang-zi-zheng-guan-cha-xi-feng-ting
 author: 郭仲荀
 authorPinyin: guo1 zhong4 xun2
 authorSlug: guo-zhong-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

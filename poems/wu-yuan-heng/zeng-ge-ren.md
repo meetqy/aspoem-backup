@@ -9,18 +9,18 @@ authorSlug: wu-yuan-heng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 林鶯一哢四時春，蟬翼羅衣白玉人。
-- 曾逐使君歌舞地，清聲長嘯翠眉顰。
+- 仙歌靜轉玉簫催，疑是流鶯禁苑來。
+- 他日相思夢巫峽，莫敎雲雨晦陽臺。
 
 ## 拼音
 
-- lin2 ying1 yi2 long4 si4 shi2 chun1 ， chan2 yi4 luo2 yi1 bai2 yu4 ren2 。
-- ceng2 zhu2 shi3 jun1 ge1 wu3 di4 ， qing1 sheng1 chang2 xiao4 cui4 mei2 pin2 。
+- xian1 ge1 jing4 zhuan3 yu4 xiao1 cui1 ， yi2 shi4 liu2 ying1 jin4 yuan4 lai2 。
+- ta1 ri4 xiang1 si1 meng4 wu1 xia2 ， mo4 jiao4 yun2 yu3 hui4 yang2 tai2 。
 
 ## 注释
 

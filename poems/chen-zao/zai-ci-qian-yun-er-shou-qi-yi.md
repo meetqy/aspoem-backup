@@ -6,25 +6,25 @@ titleSlug: zai-ci-qian-yun-er-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 未說高文錦不如，談間已勝十年書。
-- 是中我亦潛心久，作者君今舉世無。
-- 應俗不堪塵瞇目，論交政復棘如鬚。
-- 獨憐兒戲心猶在，更向詩筒較戚疎。
+- 解纜征塗一愴神，房陵十舍望西秦。
+- 苦無勳業裨昭代，久分江湖著老身。
+- 三楚上遊常定伯，六朝陳迹渺愁人。
+- 不緣俛仰悲凉甚，可博臨風得句新。
 
 ## 拼音
 
-- wei4 shuo1 gao1 wen2 jin3 bu4 ru2 ， tan2 jian4 yi3 sheng4 shi2 nian2 shu1 。
-- shi4 zhong1 wo3 yi4 qian2 xin1 jiu3 ， zuo4 zhe3 jun1 jin1 ju3 shi4 wu2 。
-- ying1 su2 bu4 kan1 chen2 mi1 mu4 ， lun4 jiao1 zheng4 fu4 ji2 ru2 xu1 。
-- du2 lian2 er2 xi4 xin1 you2 zai4 ， geng4 xiang4 shi1 tong3 jiao4 qi1 shu1 。
+- jie3 lan3 zheng1 tu2 yi2 chuang4 shen2 ， fang2 ling2 shi2 she4 wang4 xi1 qin2 。
+- ku3 wu2 xun1 ye4 bi4 zhao1 dai4 ， jiu3 fen1 jiang1 hu2 zhu4 lao3 shen1 。
+- san1 chu3 shang4 you2 chang2 ding4 bo2 ， liu4 chao2 chen2 ji4 miao3 chou2 ren2 。
+- bu4 yuan2 fu3 yang3 bei1 liang2 shen4 ， ke3 bo2 lin2 feng1 de2 ju4 xin1 。
 
 ## 注释
 

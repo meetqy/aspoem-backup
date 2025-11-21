@@ -6,10 +6,10 @@ titleSlug: liang-zuo-liu-bie-shi-po-qi-wan-ci-yun-xu-xian-ju-zhi-le-yi-shi-zhi-e
 author: 陶夢桂
 authorPinyin: tao2 meng4 gui4
 authorSlug: tao-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

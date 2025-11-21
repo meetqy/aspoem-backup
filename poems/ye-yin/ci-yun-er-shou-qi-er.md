@@ -6,25 +6,25 @@ titleSlug: ci-yun-er-shou-qi-er
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古貌如君更古心，艤舟來伴故人吟。
-- 十分酒醉憂時切，一點燈昏語夜深。
-- 半似畫圖經雨壁，不成宮徵亂風琴。
-- 箇中好辦栽梅計，勝友從教載月尋。
+- 難把來箋向後黏，載持珠玉傍風簷。
+- 吟根此性辭平易，學本於經意簡嚴。
+- 未遜彌明聯石鼎，還嗤韓渥賦香匳。
+- 陽春政不容人和，自聽巴音亦自嫌。
 
 ## 拼音
 
-- gu3 mao4 ru2 jun1 geng4 gu3 xin1 ， yi3 zhou1 lai2 ban4 gu4 ren2 yin2 。
-- shi2 fen1 jiu3 zui4 you1 shi2 qie4 ， yi4 dian3 deng1 hun1 yu3 ye4 shen1 。
-- ban4 si4 hua4 tu2 jing1 yu3 bi4 ， bu4 cheng2 gong1 zhi3 luan4 feng1 qin2 。
-- ge4 zhong1 hao3 ban4 zai1 mei2 ji4 ， sheng4 you3 cong2 jiao4 zai4 yue4 xun2 。
+- nan2 ba3 lai2 jian1 xiang4 hou4 nian2 ， zai4 chi2 zhu1 yu4 bang4 feng1 yan2 。
+- yin2 gen1 ci3 xing4 ci2 ping2 yi4 ， xue2 ben3 wu1 jing1 yi4 jian3 yan2 。
+- wei4 xun4 mi2 ming2 lian2 shi2 ding3 ， huan2 chi1 han2 wo4 fu4 xiang1 lian2 。
+- yang2 chun1 zheng4 bu4 rong2 ren2 he2 ， zi4 ting1 ba1 yin1 yi4 zi4 xian2 。
 
 ## 注释
 

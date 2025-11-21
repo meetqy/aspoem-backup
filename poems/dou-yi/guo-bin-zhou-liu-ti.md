@@ -6,9 +6,9 @@ titleSlug: guo-bin-zhou-liu-ti
 author: 竇儀
 authorPinyin: dou4 yi2
 authorSlug: dou-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

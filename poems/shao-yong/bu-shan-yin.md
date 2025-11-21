@@ -6,21 +6,25 @@ titleSlug: bu-shan-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 悲哉不善人，稟此凶戾德。
-- 非唯敗人家，又能敗人國。
+- 不良之人，稟氣非正。
+- 蛇蝎其情，豺狼其性。
+- 至良之人，稟氣清明。
+- 金玉其性，芝蘭其情。
 
 ## 拼音
 
-- bei1 zai1 bu2 shan4 ren2 ， bing3 ci3 xiong1 li4 de2 。
-- fei1 wei2 bai4 ren2 jia1 ， you4 neng2 bai4 ren2 guo2 。
+- bu4 liang2 zhi1 ren2 ， bing3 qi4 fei1 zheng4 。
+- she2 xie1 qi2 qing2 ， chai2 lang2 qi2 xing4 。
+- zhi4 liang2 zhi1 ren2 ， bing3 qi4 qing1 ming2 。
+- jin1 yu4 qi2 xing4 ， zhi1 lan2 qi2 qing2 。
 
 ## 注释
 

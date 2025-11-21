@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 魚在枯池鳥在林，四時無奈雪霜侵。
-- 若教激勸由真宰，亦獎青松徑寸心。
+- 曉鏡高窗氣象深，自憐清格笑塵心。
+- 世間不爲蛾眉誤，海上方應鶴背吟。
 
 ## 拼音
 
-- yu2 zai4 ku1 chi2 niao3 zai4 lin2 ， si4 shi2 wu2 nai4 xue3 shuang1 qin1 。
-- ruo4 jiao4 ji1 quan4 you2 zhen1 zai3 ， yi4 jiang3 qing1 song1 jing4 cun4 xin1 。
+- xiao3 jing4 gao1 chuang1 qi4 xiang4 shen1 ， zi4 lian2 qing1 ge2 xiao4 chen2 xin1 。
+- shi4 jian4 bu4 wei2 e2 mei2 wu4 ， hai3 shang4 fang1 ying1 he4 bei4 yin2 。
 
 ## 注释
 

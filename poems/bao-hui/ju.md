@@ -3,22 +3,22 @@ id: bao-hui-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 包恢
-authorPinyin: bao1 hui1
+author: 鮑輝
+authorPinyin: bao4 hui1
 authorSlug: bao-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日短暫居猶旅舍，夜長宜就作祠堂。
+- 下瞰波瀾知海闊，仰觀霄漢得天多。
 
 ## 拼音
 
-- ri4 duan3 zan4 ju1 you2 lü3 she4 ， ye4 chang2 yi2 jiu4 zuo4 ci2 tang2 。
+- xia4 kan4 bo1 lan2 zhi1 hai3 kuo4 ， yang3 guan1 xiao1 han4 de2 tian1 duo1 。
 
 ## 注释
 

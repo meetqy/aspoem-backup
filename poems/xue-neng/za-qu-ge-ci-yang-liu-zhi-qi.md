@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 和花烟樹九重城，夾路春陰十萬營。
-- 唯向邊頭不堪望，一株顦顇少人行。
+- 暖梳簪朵事登樓，因挂垂楊立地愁。
+- 牽斷綠絲攀不得，半空懸著玉搔頭。
 
 ## 拼音
 
-- he2 hua1 yan1 shu4 jiu3 chong2 cheng2 ， jia1 lu4 chun1 yin1 shi2 wan4 ying2 。
-- wei2 xiang4 bian1 tou2 bu4 kan1 wang4 ， yi4 zhu1 qiao2 cui4 shao3 ren2 hang2 。
+- nuan3 shu1 zan1 duo3 shi4 deng1 lou2 ， yin1 gua4 chui2 yang2 li4 di4 chou2 。
+- qian1 duan4 lü4 si1 pan1 bu4 de2 ， ban4 kong1 xuan2 zhu4 yu4 sao1 tou2 。
 
 ## 注释
 

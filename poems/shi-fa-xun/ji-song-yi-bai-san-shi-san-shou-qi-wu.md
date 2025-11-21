@@ -1,28 +1,28 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-wu
-title: 偈頌一百三十三首  其五
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 wu3
+title: 偈頌一百三十三首  其五○
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 wu3 ○
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-wu
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晷運推移，日南長至。
-- 佛法世法，因行掉臂。
-- 高峰更囑諸人，第一莫眠冷地。
+- 見聞覺知，行住坐卧。
+- 眨上眉毛，早已蹉過。
+- 赤脚唱山歌，路上無人和。
 
 ## 拼音
 
-- gui3 yun4 tui1 yi2 ， ri4 nan2 chang2 zhi4 。
-- fo2 fa3 shi4 fa3 ， yin1 xing2 diao4 bi4 。
-- gao1 feng1 geng4 zhu3 zhu1 ren2 ， di4 yi1 mo4 mian2 leng3 di4 。
+- jian4 wen2 jue2 zhi1 ， xing2 zhu4 zuo4 wo4 。
+- zha3 shang4 mei2 mao0 ， zao3 yi3 cuo1 guo4 。
+- chi4 jiao3 chang4 shan1 ge1 ， lu4 shang0 wu2 ren2 he2 。
 
 ## 注释
 

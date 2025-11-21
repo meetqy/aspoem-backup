@@ -6,10 +6,10 @@ titleSlug: jia-zi-chun-guo-zhe-he-zhou-qu-hua-yun-wu-jue-qi-wu
 author: 史堯弼
 authorPinyin: shi3 yao2 bi4
 authorSlug: shi-yao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

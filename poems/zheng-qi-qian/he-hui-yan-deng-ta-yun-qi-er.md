@@ -6,10 +6,10 @@ titleSlug: he-hui-yan-deng-ta-yun-qi-er
 author: 鄭起潛
 authorPinyin: zheng4 qi3 qian2
 authorSlug: zheng-qi-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

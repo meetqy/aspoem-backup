@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-bing-zhong-jue-ju-ba-shou-qi-yi
-title: 病中絕句八首・其一
-titlePinyin: bing4 zhong1 jue2 ju4 ba1 shou3・qi2 yi1
+title: 病中絕句八首  其一
+titlePinyin: bing4 zhong1 jue2 ju4 ba1 shou3     qi2 yi1
 titleSlug: bing-zhong-jue-ju-ba-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

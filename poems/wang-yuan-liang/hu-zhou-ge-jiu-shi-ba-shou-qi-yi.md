@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-hu-zhou-ge-jiu-shi-ba-shou-qi-yi
-title: 湖州歌九十八首  其一
-titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 yi1
+title: 湖州歌九十八首  其一○
+titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 yi1 ○
 titleSlug: hu-zhou-ge-jiu-shi-ba-shou-qi-yi
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丙子正月十有三，撾鞞伐鼓下江南。
-- 臯亭山上青烟起，宰執相看似醉酣。
+- 太湖風起浪頭高，錦柁摇摇坐不牢。
+- 靠著篷窗垂兩目，船頭船尾爛弓刀。
 
 ## 拼音
 
-- bing3 zi3 zheng1 yue4 shi2 you3 san1 ， zhua1 pi2 fa2 gu3 xia4 jiang1 nan2 。
-- gao1 ting2 shan1 shang4 qing1 yan1 qi3 ， zai3 zhi2 xiang1 kan4 si4 zui4 han1 。
+- tai4 hu2 feng1 qi3 lang4 tou2 gao1 ， jin3 tuo2 yao2 yao2 zuo4 bu4 lao2 。
+- kao4 zhu4 peng2 chuang1 chui2 liang3 mu4 ， chuan2 tou2 chuan2 wei3 lan4 gong1 dao1 。
 
 ## 注释
 

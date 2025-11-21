@@ -6,25 +6,25 @@ titleSlug: chun-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬事不關身，翛然一幅巾。
-- 雖非愛酒伴，猶是别花人。
-- 領略琴書意，掃空車馬塵。
-- 東阡與南陌，隨處夢殘春。
+- 暖靄催桑眼，晴光長草心。
+- 沙平看卧犢，密葉聽鳴禽。
+- 買酒貧爲祟，登山病不禁。
+- 終年惟一褐，捫虱又春深。
 
 ## 拼音
 
-- wan4 shi4 bu4 guan1 shen1 ， xiao1 ran2 yi4 fu2 jin1 。
-- sui1 fei1 ai4 jiu3 ban4 ， you2 shi4 bie2 hua1 ren2 。
-- ling3 lüe4 qin2 shu1 yi4 ， sao3 kong1 ju1 ma3 chen2 。
-- dong1 qian1 yu3 nan2 mo4 ， sui2 chu3 meng4 can2 chun1 。
+- nuan3 ai3 cui1 sang1 yan3 ， qing2 guang1 chang2 cao3 xin1 。
+- sha1 ping2 kan4 wo4 du2 ， mi4 ye4 ting1 ming2 qin2 。
+- mai3 jiu3 pin2 wei2 sui4 ， deng1 shan1 bing4 bu4 jin1 。
+- zhong1 nian2 wei2 yi1 he4 ， men2 shi1 you4 chun1 shen1 。
 
 ## 注释
 

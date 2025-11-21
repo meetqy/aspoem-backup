@@ -1,7 +1,7 @@
 ---
 id: lu-gui-meng-yu-ju-shi
-title: 漁具詩 𦊔
-titlePinyin: yu2 ju4 shi1   𦊔
+title: 漁具詩 𥶠
+titlePinyin: yu2 ju4 shi1   𥶠
 titleSlug: yu-ju-shi
 author: 陸龜蒙
 authorPinyin: lu4 gui1 meng2
@@ -9,22 +9,22 @@ authorSlug: lu-gui-meng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 有意烹小鮮，乘流駐孤櫂。
-- 雖然煩取舍，未肯求津要。
-- 多爲蝦蜆誤，已分鵁鶄笑。
-- 寄語龍伯人，荒唐不同調。
+- 斬木置水中，枝條互相蔽。
+- 寒魚遂家此，自以爲生計。
+- 春冰忽融冶，盡取無遺裔。
+- 所託成禍機，臨川一凝睇。
 
 ## 拼音
 
-- you3 yi4 peng1 xiao3 xian1 ， cheng2 liu2 zhu4 gu1 zhao4 。
-- sui1 ran2 fan2 qu3 she3 ， wei4 ken3 qiu2 jin1 yao4 。
-- duo1 wei2 xia1 xian3 wu4 ， yi3 fen1 jiao1 jing1 xiao4 。
-- ji4 yu3 long2 bo2 ren2 ， huang1 tang2 bu4 tong2 diao4 。
+- zhan3 mu4 zhi4 shui3 zhong1 ， zhi1 tiao2 hu4 xiang1 bi4 。
+- han2 yu2 sui4 jia1 ci3 ， zi4 yi3 wei2 sheng1 ji4 。
+- chun1 bing1 hu1 rong2 ye3 ， jin4 qu3 wu2 yi2 yi4 。
+- suo3 tuo1 cheng2 huo4 ji1 ， lin2 chuan1 yi4 ning2 di4 。
 
 ## 注释
 

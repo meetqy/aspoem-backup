@@ -6,10 +6,10 @@ titleSlug: shou-li-zhuo-weng
 author: 陳儀慶
 authorPinyin: chen2 yi2 qing4
 authorSlug: chen-yi-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

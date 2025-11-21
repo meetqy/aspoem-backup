@@ -6,10 +6,10 @@ titleSlug: zeng-tong-nian-lou-shi-ren
 author: 史常之
 authorPinyin: shi3 chang2 zhi1
 authorSlug: shi-chang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

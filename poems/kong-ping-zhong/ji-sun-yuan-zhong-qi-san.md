@@ -1,30 +1,30 @@
 ---
 id: kong-ping-zhong-ji-sun-yuan-zhong-qi-san
-title: 寄孫元忠  其三
-titlePinyin: ji4 sun1 yuan2 zhong1     qi2 san1
+title: 寄孫元忠  其三○
+titlePinyin: ji4 sun1 yuan2 zhong1     qi2 san1 ○
 titleSlug: ji-sun-yuan-zhong-qi-san
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嗚呼古人已糞土，紛紛輕薄何須數。
-- 當面輸心背面笑，翻手作雲覆手雨。
-- 感君意氣無所惜，於我見子真顔色。
-- 人生會合不可常，昔者相遇今不得。
+- 神仙中人不易得，京中舊見君顔色。
+- 同心不減骨肉親，我居巷南子巷北。
+- 佳人屢出董嬌嬈，秋水爲神玉爲骨。
+- 孤城此日堪斷腸，既飽歡娛亦蕭瑟。
 
 ## 拼音
 
-- wu1 hu1 gu3 ren2 yi3 fen4 tu3 ， fen1 fen1 qing1 bao2 he2 xu1 shu4 。
-- dang1 mian4 shu1 xin1 bei4 mian4 xiao4 ， fan1 shou3 zuo4 yun2 fu4 shou3 yu3 。
-- gan3 jun1 yi4 qi4 wu2 suo3 xi1 ， wu1 wo3 jian4 zi3 zhen1 yan2 se4 。
-- ren2 sheng1 hui4 he2 bu4 ke3 chang2 ， xi1 zhe3 xiang1 yu4 jin1 bu4 de2 。
+- shen2 xian1 zhong1 ren2 bu2 yi4 de2 ， jing1 zhong1 jiu4 jian4 jun1 yan2 se4 。
+- tong2 xin1 bu4 jian3 gu3 rou4 qin1 ， wo3 ju1 xiang4 nan2 zi3 xiang4 bei3 。
+- jia1 ren2 lü3 chu1 dong3 jiao1 rao2 ， qiu1 shui3 wei2 shen2 yu4 wei2 gu3 。
+- gu1 cheng2 ci3 ri4 kan1 duan4 chang2 ， ji4 bao3 huan1 yu2 yi4 xiao1 se4 。
 
 ## 注释
 

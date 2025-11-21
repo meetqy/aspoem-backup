@@ -9,26 +9,20 @@ authorSlug: yang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 王□重幽賞，携樽對□□。
-- □□□□□，□□□□□。
-- □□□□□，□□□□□。
-- 鳥鳴欺□度，人嬌舞實□。
-- 獨□□□□，□□□□□。
-- （同前）。
+- （上缺）□□丹桂□，旖旎綠巖垂。
+- □□露（下缺）人□花飄□袖宜□□□□□□雖（下缺。
+- 同前）。
 
 ## 拼音
 
-- wang2 □ zhong4 you1 shang3 ， xie2 zun1 dui4 □□。
-- □□□□□，□□□□□。
-- □□□□□，□□□□□。
-- niao3 ming2 qi1 □ du4 ， ren2 jiao1 wu3 shi2 □。
-- du2 □□□□，□□□□□。
-- （ tong2 qian2 ）。
+- （ shang4 que1 ）□□ dan1 gui4 □， yi3 ni3 lü4 yan2 chui2 。
+- □□ lu4 （ xia4 que1 ） ren2 □ hua1 piao1 □ xiu4 yi2 □□□□□□ sui1 （ xia4 que1 。
+- tong2 qian2 ）。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: xu-rui-xun-mei-shi-shou-qi-yi
-title: 尋梅十首  其一
-titlePinyin: xun2 mei2 shi2 shou3     qi2 yi1
+title: 尋梅十首  其一○
+titlePinyin: xun2 mei2 shi2 shou3     qi2 yi1 ○
 titleSlug: xun-mei-shi-shou-qi-yi
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去年冰雪梅開晚，立春半月始見花。
-- 只今至後未五日，南枝已破兩三丫。
+- 十畝荒園野水邊，盡栽梅樹不論錢。
+- 珍重木瓢任真率，年年携此醉花前。
 
 ## 拼音
 
-- qu4 nian2 bing1 xue3 mei2 kai1 wan3 ， li4 chun1 ban4 yue4 shi3 jian4 hua1 。
-- zhi1 jin1 zhi4 hou4 wei4 wu3 ri4 ， nan2 zhi1 yi3 po4 liang3 san1 ya1 。
+- shi2 mu3 huang1 yuan2 ye3 shui3 bian1 ， jin4 zai1 mei2 shu4 bu2 lun4 qian2 。
+- zhen1 zhong4 mu4 piao2 ren4 zhen1 shuai4 ， nian2 nian2 xie2 ci3 zui4 hua1 qian2 。
 
 ## 注释
 

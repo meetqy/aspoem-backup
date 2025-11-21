@@ -6,10 +6,10 @@ titleSlug: tong-xuan-guan
 author: 汪行素
 authorPinyin: wang1 xing2 su4
 authorSlug: wang-xing-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ti-sheng-guo-si-jie-ting-shi
 author: 丘濬
 authorPinyin: qiu1 jun4
 authorSlug: qiu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

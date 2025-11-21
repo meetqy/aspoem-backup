@@ -6,10 +6,10 @@ titleSlug: xia-ken-fu-wei-xian-dou-cang-qiu-shui-xin-mu-zhi-wei-de-er-gui-she-zh
 author: 戴栩
 authorPinyin: dai4 xu3
 authorSlug: dai-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

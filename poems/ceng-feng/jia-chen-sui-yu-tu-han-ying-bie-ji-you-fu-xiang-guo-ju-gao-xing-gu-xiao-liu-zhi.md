@@ -6,10 +6,10 @@ titleSlug: jia-chen-sui-yu-tu-han-ying-bie-ji-you-fu-xiang-guo-ju-gao-xing-gu-xi
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

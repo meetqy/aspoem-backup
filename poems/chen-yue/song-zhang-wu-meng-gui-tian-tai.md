@@ -6,10 +6,10 @@ titleSlug: song-zhang-wu-meng-gui-tian-tai
 author: 陳越
 authorPinyin: chen2 yue4
 authorSlug: chen-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yong-qiong-jiang
 author: 榮咨道
 authorPinyin: rong2 zi1 dao4
 authorSlug: rong-zi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

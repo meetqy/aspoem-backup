@@ -6,10 +6,10 @@ titleSlug: shou-chang-shan-si
 author: 康惇
 authorPinyin: kang1 dun1
 authorSlug: kang-dun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

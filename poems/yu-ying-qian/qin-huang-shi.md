@@ -6,10 +6,10 @@ titleSlug: qin-huang-shi
 author: 俞應僉
 authorPinyin: yu2 ying1 qian1
 authorSlug: yu-ying-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

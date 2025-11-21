@@ -6,10 +6,10 @@ titleSlug: nan-chao-gu-ji-wei-tian-xi-feng-huang-tai-lu-yuan-si-chi-shi-ku-wei-z
 author: 任希夷
 authorPinyin: ren4 xi1 yi2
 authorSlug: ren-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

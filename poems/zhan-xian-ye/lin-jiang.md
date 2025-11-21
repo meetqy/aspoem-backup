@@ -6,9 +6,9 @@ titleSlug: lin-jiang
 author: 詹先野
 authorPinyin: zhan1 xian1 ye3
 authorSlug: zhan-xian-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

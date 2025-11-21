@@ -6,10 +6,10 @@ titleSlug: san-yong-yun-chou-shen-tong-nian
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 晚來供望眼。
+- 二月春方好。
 
 ## 拼音
 
-- wan3 lai2 gong4 wang4 yan3 。
+- er4 yue4 chun1 fang1 hao3 。
 
 ## 注释
 

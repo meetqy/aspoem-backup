@@ -6,10 +6,10 @@ titleSlug: quan-nong-he-meng-da-jian-yun
 author: 朱宗强
 authorPinyin: zhu1 zong1 qiang2
 authorSlug: zhu-zong-qiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

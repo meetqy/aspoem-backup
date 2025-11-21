@@ -6,21 +6,21 @@ titleSlug: za-yong-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 微風翻翻芋葉白，落日漠漠稻花香。
-- 出門縱轡何所詣，萬里橋南追晚涼。
+- 松肪燎火滿爐紅，罌粟煎湯到手空。
+- 試問齋居守丹竈，何如醉卧聽松風。
 
 ## 拼音
 
-- wei1 feng1 fan1 fan1 yu4 ye4 bai2 ， luo4 ri4 mo4 mo4 dao4 hua1 xiang1 。
-- chu1 men2 zong4 pei4 he2 suo3 yi4 ， wan4 li3 qiao2 nan2 zhui1 wan3 liang2 。
+- song1 fang2 liao2 huo3 man3 lu2 hong2 ， ying1 su4 jian1 tang1 dao4 shou3 kong1 。
+- shi4 wen4 zhai1 ju1 shou3 dan1 zao4 ， he2 ru2 zui4 wo4 ting1 song1 feng1 。
 
 ## 注释
 

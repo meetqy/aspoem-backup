@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 孫仲鰲
 authorPinyin: sun1 zhong4 ao2
 authorSlug: sun-zhong-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

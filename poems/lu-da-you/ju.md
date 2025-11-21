@@ -6,10 +6,10 @@ titleSlug: ju
 author: 呂大有
 authorPinyin: lü3 da4 you3
 authorSlug: lu-da-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

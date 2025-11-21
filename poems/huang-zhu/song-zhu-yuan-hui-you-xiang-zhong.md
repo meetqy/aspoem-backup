@@ -6,10 +6,10 @@ titleSlug: song-zhu-yuan-hui-you-xiang-zhong
 author: 黄銖
 authorPinyin: huang2 zhu1
 authorSlug: huang-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: you-liu-yan-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羣雄走野逐鹿，一士入海騎鯨。
-- 不聽安期畫策，便知子羽無成。
+- 昏主非姬不飽，內嬖廢嫡可悲。
+- 驪女逐金玦子，玉環養錦䙀兒。
 
 ## 拼音
 
-- qun2 xiong2 zou3 ye3 zhu2 lu4 ， yi2 shi4 ru4 hai3 qi2 jing1 。
-- bu4 ting1 an1 qi1 hua4 ce4 ， bian4 zhi1 zi3 yu3 wu2 cheng2 。
+- hun1 zhu3 fei1 ji1 bu4 bao3 ， nei4 bi4 fei4 di2 ke3 bei1 。
+- li2 nü3 zhu2 jin1 jue2 zi3 ， yu4 huan2 yang3 jin3 䙀 er2 。
 
 ## 注释
 

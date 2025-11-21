@@ -6,10 +6,10 @@ titleSlug: fu-jie-xuan-ban-cun-xin-ju
 author: 周耕雲
 authorPinyin: zhou1 geng1 yun2
 authorSlug: zhou-geng-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

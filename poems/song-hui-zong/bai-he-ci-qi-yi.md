@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-bai-he-ci-qi-yi
-title: 白鶴詞  其一
-titlePinyin: bai2 he4 ci2     qi2 yi1
+title: 白鶴詞  其一○
+titlePinyin: bai2 he4 ci2     qi2 yi1 ○
 titleSlug: bai-he-ci-qi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胎化靈禽唳九天，雪毛丹頂兩相鮮。
-- 世人莫認歸華表，來瑞昇平億萬年。
+- 玉宇沉沉瑞霧開，香風未斷鶴徘徊。
+- 奇姿會與青田別，定是仙人次第來。
 
 ## 拼音
 
-- tai1 hua4 ling2 qin2 li4 jiu3 tian1 ， xue3 mao2 dan1 ding3 liang3 xiang1 xian1 。
-- shi4 ren2 mo4 ren4 gui1 hua2 biao3 ， lai2 rui4 sheng1 ping2 yi4 wan4 nian2 。
+- yu4 yu3 chen2 chen2 rui4 wu4 kai1 ， xiang1 feng1 wei4 duan4 he4 pai2 huai2 。
+- qi2 zi1 hui4 yu3 qing1 tian2 bie2 ， ding4 shi4 xian1 ren2 ci4 di4 lai2 。
 
 ## 注释
 

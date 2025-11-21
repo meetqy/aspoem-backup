@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人言春事已，我言未遽央。
-- 試向後湖去，菰葉如許長。
+- 雲洞看雲坐，月巖和月留。
+- 元來是野老，強喚作知州。
 
 ## 拼音
 
-- ren2 yan2 chun1 shi4 yi3 ， wo3 yan2 wei4 ju4 yang1 。
-- shi4 xiang4 hou4 hu2 qu4 ， gu1 ye4 ru2 xu1 chang2 。
+- yun2 dong4 kan4 yun2 zuo4 ， yue4 yan2 he2 yue4 liu2 。
+- yuan2 lai2 shi4 ye3 lao3 ， qiang2 huan4 zuo4 zhi1 zhou1 。
 
 ## 注释
 

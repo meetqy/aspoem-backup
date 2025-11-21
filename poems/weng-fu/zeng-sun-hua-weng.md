@@ -6,10 +6,10 @@ titleSlug: zeng-sun-hua-weng
 author: 翁甫
 authorPinyin: weng1 fu3
 authorSlug: weng-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

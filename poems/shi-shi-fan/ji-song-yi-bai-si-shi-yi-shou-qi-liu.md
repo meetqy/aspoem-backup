@@ -1,28 +1,28 @@
 ---
 id: shi-shi-fan-ji-song-yi-bai-si-shi-yi-shou-qi-liu
-title: 偈頌一百四十一首  其六
-titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 liu4
+title: 偈頌一百四十一首  其六○
+titlePinyin: ji4 song4 yi4 bai3 si4 shi2 yi4 shou3     qi2 liu4 ○
 titleSlug: ji-song-yi-bai-si-shi-yi-shou-qi-liu
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十四十五，賤如泥土。
-- 十六十七，貴如金璧。
-- 此意分明說向誰，天上人間惟我知。
+- 作家相見，有底憑據。
+- 迥無人處，聚頭共語。
+- 寂子無端撼茶樹。
 
 ## 拼音
 
-- shi2 si4 shi2 wu3 ， jian4 ru2 ni2 tu3 。
-- shi2 liu4 shi2 qi1 ， gui4 ru2 jin1 bi4 。
-- ci3 yi4 fen1 ming2 shuo1 xiang4 shui2 ， tian1 shang4 ren2 jian4 wei2 wo3 zhi1 。
+- zuo4 jia1 xiang1 jian4 ， you3 di3 ping2 ju4 。
+- jiong3 wu2 ren2 chu3 ， ju4 tou2 gong4 yu3 。
+- ji4 zi3 wu2 duan1 han4 cha2 shu4 。
 
 ## 注释
 

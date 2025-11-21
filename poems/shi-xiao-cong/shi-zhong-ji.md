@@ -6,10 +6,10 @@ titleSlug: shi-zhong-ji
 author: 釋曉聰
 authorPinyin: shi4 xiao3 cong1
 authorSlug: shi-xiao-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

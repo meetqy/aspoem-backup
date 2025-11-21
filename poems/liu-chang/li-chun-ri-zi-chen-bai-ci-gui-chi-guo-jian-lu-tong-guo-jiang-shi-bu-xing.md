@@ -6,10 +6,10 @@ titleSlug: li-chun-ri-zi-chen-bai-ci-gui-chi-guo-jian-lu-tong-guo-jiang-shi-bu-x
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

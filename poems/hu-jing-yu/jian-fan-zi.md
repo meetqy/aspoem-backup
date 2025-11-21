@@ -6,10 +6,10 @@ titleSlug: jian-fan-zi
 author: 胡景裕
 authorPinyin: hu2 jing3 yu4
 authorSlug: hu-jing-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

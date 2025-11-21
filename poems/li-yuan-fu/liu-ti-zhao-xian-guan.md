@@ -6,10 +6,10 @@ titleSlug: liu-ti-zhao-xian-guan
 author: 李元輔
 authorPinyin: li3 yuan2 fu3
 authorSlug: li-yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

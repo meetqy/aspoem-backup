@@ -6,10 +6,10 @@ titleSlug: ji-san-shi-wu-shou-qi-er-er
 author: 釋祖珍
 authorPinyin: shi4 zu3 zhen1
 authorSlug: shi-zu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

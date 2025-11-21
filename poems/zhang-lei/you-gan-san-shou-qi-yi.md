@@ -6,37 +6,25 @@ titleSlug: you-gan-san-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一春苦多風，桃李見無幾。
-- 良遊時已失，忽忽三月尾。
-- 中間亦何有，徒自亂心耳。
-- 所嗟違所娛，坐費良日晷。
-- 堂北千葉桃，微本混榛枳。
-- 居然未之省，一日燦相視。
-- 零丁不忍摘，攀玩聊自慰。
-- 乃知物雖微，未易即疏棄。
-- 從今至零落，猶足伴尊胾。
-- 仍煩芊綿草，藉我花前醉。
+- 郁城本自貳師謀，騎士拔劍猶封侯。
+- 董生明經守正直，白首區區相侯國。
+- 參差世事足嗟歎，我笑羣兒較目前。
+- 可能董子之榮辱，乃在封侯得失間。
 
 ## 拼音
 
-- yi4 chun1 ku3 duo1 feng1 ， tao2 li3 jian4 wu2 ji1 。
-- liang2 you2 shi2 yi3 shi1 ， hu1 hu1 san1 yue4 wei3 。
-- zhong1 jian4 yi4 he2 you3 ， tu2 zi4 luan4 xin1 er3 。
-- suo3 jie1 wei2 suo3 yu2 ， zuo4 fei4 liang2 ri4 gui3 。
-- tang2 bei3 qian1 ye4 tao2 ， wei1 ben3 hun4 zhen1 zhi3 。
-- ju1 ran2 wei4 zhi1 sheng3 ， yi2 ri4 can4 xiang1 shi4 。
-- ling2 ding1 bu4 ren3 zhai1 ， pan1 wan2 liao2 zi4 wei4 。
-- nai3 zhi1 wu4 sui1 wei1 ， wei4 yi4 ji2 shu1 qi4 。
-- cong2 jin1 zhi4 ling2 luo4 ， you2 zu2 ban4 zun1 zi4 。
-- reng2 fan2 qian1 mian2 cao3 ， jie4 wo3 hua1 qian2 zui4 。
+- yu4 cheng2 ben3 zi4 er4 shi1 mou2 ， qi2 shi4 ba2 jian4 you2 feng1 hou2 。
+- dong3 sheng1 ming2 jing1 shou3 zheng4 zhi2 ， bai2 shou3 qu1 qu1 xiang1 hou2 guo2 。
+- can1 cha4 shi4 shi4 zu2 jie1 tan4 ， wo3 xiao4 qun2 er2 jiao4 mu4 qian2 。
+- ke3 neng2 dong3 zi0 zhi1 rong2 ru3 ， nai3 zai4 feng1 hou2 de2 shi1 jian4 。
 
 ## 注释
 

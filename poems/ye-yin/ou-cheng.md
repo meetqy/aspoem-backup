@@ -6,25 +6,25 @@ titleSlug: ou-cheng
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春陰晴復陰，因物悟浮生。
-- 杜宇鄉心重，楊花世事輕。
-- 知非蘧伯玉，覺是晉淵明。
-- 此意誰人會，騎牛訪偶耕。
+- 世事如今不可知，相逢茶罷且吟詩。
+- 無風古鼎香煙直，未午空庭樹影遲。
+- 袖手好看棋勝敗，論心休問酒醇醨。
+- 謀居恰與松江近，斫膾羹蓴漸及時。
 
 ## 拼音
 
-- chun1 yin1 qing2 fu4 yin1 ， yin1 wu4 wu4 fu2 sheng1 。
-- du4 yu3 xiang1 xin1 zhong4 ， yang2 hua1 shi4 shi4 qing1 。
-- zhi1 fei1 qu2 bo2 yu4 ， jue2 shi4 jin4 yuan1 ming2 。
-- ci3 yi4 shui2 ren2 hui4 ， qi2 niu2 fang3 ou3 geng1 。
+- shi4 shi4 ru2 jin1 bu4 ke3 zhi1 ， xiang1 feng2 cha2 ba4 qie3 yin2 shi1 。
+- wu2 feng1 gu3 ding3 xiang1 yan1 zhi2 ， wei4 wu3 kong1 ting2 shu4 ying3 chi2 。
+- xiu4 shou3 hao3 kan4 qi2 sheng4 bai4 ， lun4 xin1 xiu1 wen4 jiu3 chun2 li2 。
+- mou2 ju1 qia4 yu3 song1 jiang1 jin4 ， zhuo2 kuai4 geng1 chun2 jian4 ji2 shi2 。
 
 ## 注释
 

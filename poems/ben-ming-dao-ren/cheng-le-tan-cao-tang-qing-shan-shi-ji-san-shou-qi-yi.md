@@ -6,10 +6,10 @@ titleSlug: cheng-le-tan-cao-tang-qing-shan-shi-ji-san-shou-qi-yi
 author: 本明道人
 authorPinyin: ben3 ming2 dao4 ren2
 authorSlug: ben-ming-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

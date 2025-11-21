@@ -6,10 +6,10 @@ titleSlug: bie-zhang-yuan-zhou-wu-shou-qi-si
 author: 彭龜年
 authorPinyin: peng2 gui1 nian2
 authorSlug: peng-gui-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-zhang-tai
 author: 況志寧
 authorPinyin: kuang4 zhi4 ning2
 authorSlug: kuang-zhi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

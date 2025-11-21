@@ -6,25 +6,25 @@ titleSlug: shang-jian-wang-sheng-chen-qi-er
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 子孝與臣忠，二者有大戒。
-- 王今得兼隆，無乃神所介。
-- 晨昏奉赤墀，腰圍白玉带。
-- 堂堂真天人，驕吝蔑纖芥。
+- 椒殿靄葱蒨，瑞霧濛烟霏。
+- 有子不必多，一夔燦斑衣。
+- 天地久覆載，日月長光輝。
+- 願言千萬壽，怡色奉庭闈。
 
 ## 拼音
 
-- zi3 xiao4 yu3 chen2 zhong1 ， er4 zhe3 you3 da4 jie4 。
-- wang2 jin1 de2 jian1 long2 ， wu2 nai3 shen2 suo3 jie4 。
-- chen2 hun1 feng4 chi4 chi2 ， yao1 wei2 bai2 yu4 dai4 。
-- tang2 tang2 zhen1 tian1 ren2 ， jiao1 lin4 mie4 xian1 jie4 。
+- jiao1 dian4 ai3 cong1 qian4 ， rui4 wu4 meng2 yan1 fei1 。
+- you3 zi3 bu2 bi4 duo1 ， yi4 kui2 can4 ban1 yi1 。
+- tian1 di4 jiu3 fu4 zai4 ， ri4 yue4 chang2 guang1 hui1 。
+- yuan4 yan2 qian1 wan4 shou4 ， yi2 se4 feng4 ting2 wei2 。
 
 ## 注释
 

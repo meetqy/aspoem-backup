@@ -1,30 +1,30 @@
 ---
 id: zhang-dao-qia-mei-hua-er-shi-shou-qi-er
-title: 梅花二十首  其二
-titlePinyin: mei2 hua1 er4 shi2 shou3     qi2 er4
+title: 梅花二十首  其二○
+titlePinyin: mei2 hua1 er4 shi2 shou3     qi2 er4 ○
 titleSlug: mei-hua-er-shi-shou-qi-er
 author: 張道洽
 authorPinyin: zhang1 dao4 qia4
 authorSlug: zhang-dao-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 數花疏疏靜處芳，便成佳景不荒凉。
-- 暖回窮谷春常早，影落寒溪水也香。
-- 自倚風流高格調，唯消質素淡衣裳。
-- 滿天霜月花邊宿，無復莊周蝶夢狂。
+- 癖愛梅花不可醫，開教探早落教遲。
+- 欲知無限春風意，盡在相將暮雪時。
+- 竹嶼烟深尋得巧，茅簷月淡立成癡。
+- 夢驂鸞鶴相尋去，題徧江南寺寺詩。
 
 ## 拼音
 
-- shu4 hua1 shu1 shu1 jing4 chu3 fang1 ， bian4 cheng2 jia1 jing3 bu4 huang1 liang2 。
-- nuan3 hui2 qiong2 gu3 chun1 chang2 zao3 ， ying3 luo4 han2 xi1 shui3 ye3 xiang1 。
-- zi4 yi3 feng1 liu2 gao1 ge2 diao4 ， wei2 xiao1 zhi4 su4 dan4 yi1 shang0 。
-- man3 tian1 shuang1 yue4 hua1 bian1 su4 ， wu2 fu4 zhuang1 zhou1 die2 meng4 kuang2 。
+- pi3 ai4 mei2 hua1 bu4 ke3 yi1 ， kai1 jiao4 tan4 zao3 luo4 jiao4 chi2 。
+- yu4 zhi1 wu2 xian4 chun1 feng1 yi4 ， jin4 zai4 xiang1 jiang1 mu4 xue3 shi2 。
+- zhu2 yu3 yan1 shen1 xun2 de2 qiao3 ， mao2 yan2 yue4 dan4 li4 cheng2 chi1 。
+- meng4 can1 luan2 he4 xiang1 xun2 qu4 ， ti2 bian4 jiang1 nan2 si4 si4 shi1 。
 
 ## 注释
 

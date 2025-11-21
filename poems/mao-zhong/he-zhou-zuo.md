@@ -6,10 +6,10 @@ titleSlug: he-zhou-zuo
 author: 毛衷
 authorPinyin: mao2 zhong1
 authorSlug: mao-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

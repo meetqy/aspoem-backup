@@ -6,21 +6,21 @@ titleSlug: shu-huai
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五月山中長對雨，一春湖上懶看花。
-- 杜鵑莫惱麻衣客，何處野泉不是家。
+- 山郡人來水郡遊，雁驚秋色向南州。
+- 日長意懶無消遣，醉劈芙蓉付水流。
 
 ## 拼音
 
-- wu3 yue4 shan1 zhong1 chang2 dui4 yu3 ， yi4 chun1 hu2 shang4 lan3 kan4 hua1 。
-- du4 jian1 mo4 nao3 ma2 yi1 ke4 ， he2 chu3 ye3 quan2 bu2 shi4 jia1 。
+- shan1 jun4 ren2 lai2 shui3 jun4 you2 ， yan4 jing1 qiu1 se4 xiang4 nan2 zhou1 。
+- ri4 chang2 yi4 lan3 wu2 xiao1 qian3 ， zui4 pi1 fu2 rong2 fu4 shui3 liu2 。
 
 ## 注释
 

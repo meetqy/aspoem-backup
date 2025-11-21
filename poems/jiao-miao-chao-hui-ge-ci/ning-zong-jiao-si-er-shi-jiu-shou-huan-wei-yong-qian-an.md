@@ -6,25 +6,25 @@ titleSlug: ning-zong-jiao-si-er-shi-jiu-shou-huan-wei-yong-qian-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 甘露流英，卿雲舒采。
-- 靈俞有喜，神光晻曖。
-- 穆穆來蒞，洋洋如在。
-- 帝用居歆，澤及四海。
+- 璇圖天深，鼎文日輝。
+- 慶流皇家，象炳紫微。
+- 乾回冕旒，雲煥衮衣。
+- 何千萬年，式于九圍。
 
 ## 拼音
 
-- gan1 lu4 liu2 ying1 ， qing1 yun2 shu1 cai3 。
-- ling2 yu2 you3 xi3 ， shen2 guang1 an3 ai4 。
-- mu4 mu4 lai2 li4 ， yang2 yang2 ru2 zai4 。
-- di4 yong4 ju1 xin1 ， ze2 ji2 si4 hai3 。
+- xuan2 tu2 tian1 shen1 ， ding3 wen2 ri4 hui1 。
+- qing4 liu2 huang2 jia1 ， xiang4 bing3 zi3 wei1 。
+- qian2 hui2 mian3 liu2 ， yun2 huan4 gun3 yi1 。
+- he2 qian1 wan4 nian2 ， shi4 yu2 jiu3 wei2 。
 
 ## 注释
 

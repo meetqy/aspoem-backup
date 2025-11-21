@@ -9,22 +9,18 @@ authorSlug: li-zhong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 卷簾遲日暖，睡起思沈沈。
-- 遼海音塵遠，春風旅館深。
-- 疎篁留鳥語，曲砌轉花陰。
-- 寄語長征客，流年不易禁。
+- 塵昏菱鑑懶修容，雙臉桃花落盡紅。
+- 玉塞夢歸殘燭在，曉鶯窗外囀梧桐。
 
 ## 拼音
 
-- juan4 lian2 chi2 ri4 nuan3 ， shui4 qi3 si1 shen3 shen3 。
-- liao2 hai3 yin1 chen2 yuan3 ， chun1 feng1 lü3 guan3 shen1 。
-- shu1 huang2 liu2 niao3 yu3 ， qu3 qi4 zhuan3 hua1 yin1 。
-- ji4 yu3 chang2 zheng1 ke4 ， liu2 nian2 bu2 yi4 jin4 。
+- chen2 hun1 ling2 jian4 lan3 xiu1 rong2 ， shuang1 lian3 tao2 hua1 luo4 jin4 hong2 。
+- yu4 sai1 meng4 gui1 can2 zhu2 zai4 ， xiao3 ying1 chuang1 wai4 zhuan4 wu2 tong2 。
 
 ## 注释
 

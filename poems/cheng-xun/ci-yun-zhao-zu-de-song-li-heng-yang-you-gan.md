@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhao-zu-de-song-li-heng-yang-you-gan
 author: 程洵
 authorPinyin: cheng2 xun2
 authorSlug: cheng-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

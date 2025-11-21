@@ -6,21 +6,21 @@ titleSlug: jue-ju-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門前山樹插雲青，雨足山前稻水平。
-- 桑柘半空蠶事了，綠陰深處囀殘鶯。
+- 荒山岑寂晚雞號，獨閉衡門守一瓢。
+- 風雨似秋君莫怪，容愁逢處易蕭條。
 
 ## 拼音
 
-- men2 qian2 shan1 shu4 cha1 yun2 qing1 ， yu3 zu2 shan1 qian2 dao4 shui3 ping2 。
-- sang1 zhe4 ban4 kong1 can2 shi4 le0 ， lü4 yin1 shen1 chu3 zhuan4 can2 ying1 。
+- huang1 shan1 cen2 ji4 wan3 ji1 hao4 ， du2 bi4 heng2 men2 shou3 yi4 piao2 。
+- feng1 yu3 si4 qiu1 jun1 mo4 guai4 ， rong2 chou2 feng2 chu3 yi4 xiao1 tiao2 。
 
 ## 注释
 

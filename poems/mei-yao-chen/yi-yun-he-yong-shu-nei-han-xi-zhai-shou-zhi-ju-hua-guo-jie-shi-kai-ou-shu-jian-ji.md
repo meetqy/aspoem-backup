@@ -6,10 +6,10 @@ titleSlug: yi-yun-he-yong-shu-nei-han-xi-zhai-shou-zhi-ju-hua-guo-jie-shi-kai-ou
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-shui-yun-gui-wu
 author: 林順德
 authorPinyin: lin2 shun4 de2
 authorSlug: lin-shun-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

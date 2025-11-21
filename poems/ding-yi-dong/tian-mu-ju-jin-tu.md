@@ -6,10 +6,10 @@ titleSlug: tian-mu-ju-jin-tu
 author: 丁易東
 authorPinyin: ding1 yi4 dong1
 authorSlug: ding-yi-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: yu-zhong
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 雨打船蓬聲百般，白頭當夏不禁寒。
-- 五湖七澤經行遍，終憶吾鄉八節灘。
+- 北客霜侵鬢，南州雨送年。
+- 未聞兵革定，從使歲時遷。
+- 古澤生春靄，高空落暮鳶。
+- 山川含萬古，鬰鬰在樽前。
 
 ## 拼音
 
-- yu3 da3 chuan2 peng2 sheng1 bai3 ban1 ， bai2 tou2 dang1 xia4 bu4 jin1 han2 。
-- wu3 hu2 qi1 ze2 jing1 xing2 bian4 ， zhong1 yi4 wu2 xiang1 ba1 jie2 tan1 。
+- bei3 ke4 shuang1 qin1 bin4 ， nan2 zhou1 yu3 song4 nian2 。
+- wei4 wen2 bing1 ge2 ding4 ， cong2 shi3 sui4 shi2 qian1 。
+- gu3 ze2 sheng1 chun1 ai3 ， gao1 kong1 luo4 mu4 yuan1 。
+- shan1 chuan1 han2 wan4 gu3 ， yu4 yu4 zai4 zun1 qian2 。
 
 ## 注释
 

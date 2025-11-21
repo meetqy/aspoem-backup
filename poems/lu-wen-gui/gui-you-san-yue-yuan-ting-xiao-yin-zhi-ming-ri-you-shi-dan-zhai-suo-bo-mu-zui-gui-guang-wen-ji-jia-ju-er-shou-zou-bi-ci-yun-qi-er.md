@@ -6,10 +6,10 @@ titleSlug: gui-you-san-yue-yuan-ting-xiao-yin-zhi-ming-ri-you-shi-dan-zhai-suo-b
 author: 陸文圭
 authorPinyin: lu4 wen2 gui1
 authorSlug: lu-wen-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

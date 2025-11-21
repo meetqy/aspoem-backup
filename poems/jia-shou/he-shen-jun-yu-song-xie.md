@@ -6,10 +6,10 @@ titleSlug: he-shen-jun-yu-song-xie
 author: 賈收
 authorPinyin: jia3 shou1
 authorSlug: jia-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

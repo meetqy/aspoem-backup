@@ -6,25 +6,21 @@ titleSlug: zhong-jiang-dao-zhong
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茅結蕭蕭宅，松周淺淺山。
-- 斧桑雲堕綠，堤水月留彎。
-- 楊蕋風團去，蟲絲燕掠還。
-- 行經雙隻堠，曾未徹重關。
+- 江楓搖落市煙青，石壁方嚴水面平。
+- 若問灘流何太咽，定隨行客學吞聲。
 
 ## 拼音
 
-- mao2 jie2 xiao1 xiao1 zhai2 ， song1 zhou1 qian3 qian3 shan1 。
-- fu3 sang1 yun2 duo4 lü4 ， di1 shui3 yue4 liu2 wan1 。
-- yang2 rui3 feng1 tuan2 qu4 ， chong2 si1 yan4 lüe4 huan2 。
-- xing2 jing1 shuang1 zhi1 hou4 ， ceng2 wei4 che4 zhong4 guan1 。
+- jiang1 feng1 yao2 luo4 shi4 yan1 qing1 ， shi2 bi4 fang1 yan2 shui3 mian4 ping2 。
+- ruo4 wen4 tan1 liu2 he2 tai4 yan4 ， ding4 sui2 xing2 ke4 xue2 tun1 sheng1 。
 
 ## 注释
 

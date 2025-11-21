@@ -6,10 +6,10 @@ titleSlug: ti-lao-wu-hua-juan-si-shou-qi-yi
 author: 裘萬頃
 authorPinyin: qiu2 wan4 qing3
 authorSlug: qiu-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

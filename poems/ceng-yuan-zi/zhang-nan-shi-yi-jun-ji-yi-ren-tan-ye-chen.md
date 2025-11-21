@@ -6,10 +6,10 @@ titleSlug: zhang-nan-shi-yi-jun-ji-yi-ren-tan-ye-chen
 author: 曾淵子
 authorPinyin: ceng2 yuan1 zi3
 authorSlug: ceng-yuan-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

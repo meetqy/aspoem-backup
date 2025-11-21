@@ -6,10 +6,10 @@ titleSlug: zeng-guang-dou-yu-yu-she-xian-fu-er-yu-shi
 author: 頓起
 authorPinyin: dun4 qi3
 authorSlug: dun-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

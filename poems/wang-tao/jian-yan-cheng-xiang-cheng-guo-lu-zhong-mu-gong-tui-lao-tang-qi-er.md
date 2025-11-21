@@ -6,10 +6,10 @@ titleSlug: jian-yan-cheng-xiang-cheng-guo-lu-zhong-mu-gong-tui-lao-tang-qi-er
 author: 王绹
 authorPinyin: wang2 tao2
 authorSlug: wang-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

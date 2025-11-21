@@ -6,25 +6,25 @@ titleSlug: li-gong-ze-zi-hua-zhou-yi-zhi-e-zhou
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄河魴與鯉，不及武昌魚。
-- 好去連城守，翩然雙隼旟。
-- 諫官仍重外，天祿不成書。
-- 可待三年最，歸來侍赤除。
+- 黄鶴仙人去不留，武昌官柳傍層樓。
+- 前山欲近滄浪水，芳草遥分鸚鵡洲。
+- 漁父嘯歌聊自樂，禰衡詞賦若爲謀。
+- 朱輪皂蓋一身貴，談笑豈知千古愁。
 
 ## 拼音
 
-- huang2 he2 fang2 yu3 li3 ， bu4 ji2 wu3 chang1 yu2 。
-- hao3 qu4 lian2 cheng2 shou3 ， pian1 ran2 shuang1 sun3 yu2 。
-- jian4 guan1 reng2 zhong4 wai4 ， tian1 lu4 bu4 cheng2 shu1 。
-- ke3 dai4 san1 nian2 zui4 ， gui1 lai2 shi4 chi4 chu2 。
+- huang2 he4 xian1 ren2 qu4 bu4 liu2 ， wu3 chang1 guan1 liu3 bang4 ceng2 lou2 。
+- qian2 shan1 yu4 jin4 cang1 lang4 shui3 ， fang1 cao3 yao2 fen1 ying1 wu3 zhou1 。
+- yu2 fu4 xiao4 ge1 liao2 zi4 le4 ， mi2 heng2 ci2 fu4 ruo4 wei2 mou2 。
+- zhu1 lun2 zao4 gai4 yi4 shen1 gui4 ， tan2 xiao4 qi3 zhi1 qian1 gu3 chou2 。
 
 ## 注释
 

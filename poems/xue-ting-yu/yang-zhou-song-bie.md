@@ -6,10 +6,10 @@ titleSlug: yang-zhou-song-bie
 author: 薛廷玉
 authorPinyin: xue1 ting2 yu4
 authorSlug: xue-ting-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

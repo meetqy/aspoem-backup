@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鳥緯遷序，龍星見辰。
-- 純陽在律，明德崇禋。
-- 五方降帝，萬宇安人。
-- 恭以致享，肅以迎神。
+- 祀遵經設，享緣誠舉。
+- 獻畢于樽，徹臨于俎。
+- 舞止干戚，樂停柷敔。
+- 歌以送神，神還其所。
 
 ## 拼音
 
-- niao3 wei3 qian1 xu4 ， long2 xing1 jian4 chen2 。
-- chun2 yang2 zai4 lü4 ， ming2 de2 chong2 yin1 。
-- wu3 fang1 jiang4 di4 ， wan4 yu3 an1 ren2 。
-- gong1 yi3 zhi4 xiang3 ， su4 yi3 ying2 shen2 。
+- si4 zun1 jing1 she4 ， xiang3 yuan2 cheng2 ju3 。
+- xian4 bi4 yu2 zun1 ， che4 lin2 yu2 zu3 。
+- wu3 zhi3 gan1 qi1 ， le4 ting2 zhu4 yu3 。
+- ge1 yi3 song4 shen2 ， shen2 huan2 qi2 suo3 。
 
 ## 注释
 

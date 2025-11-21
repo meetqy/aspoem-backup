@@ -6,10 +6,10 @@ titleSlug: ci-yun-da-wen-shi-zhong-ji-shi-han-jin-gong-cun-tian-ge-wu-tu-yan-lu-
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

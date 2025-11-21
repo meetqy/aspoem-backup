@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雞冠與鳳仙，早種近階砌。
-- 夏秋無花時，類能作幽致。
-- 雞色惟青紫，鳳蘂雜紅翠。
-- 來年不待種，罅隙自苗裔。
+- 城居得高勝，欄檻俯闤闠。
+- 歛跡紅塵中，游目雉堞外。
+- 湖光浸晴碧，若與雲外會。
+- 漁舟何處來，幾點忽隠晦。
 
 ## 拼音
 
-- ji1 guan1 yu3 feng4 xian1 ， zao3 zhong3 jin4 jie1 qi4 。
-- xia4 qiu1 wu2 hua1 shi2 ， lei4 neng2 zuo4 you1 zhi4 。
-- ji1 se4 wei2 qing1 zi3 ， feng4 rui3 za2 hong2 cui4 。
-- lai2 nian2 bu2 dai4 zhong3 ， xia4 xi4 zi4 miao2 yi4 。
+- cheng2 ju1 de2 gao1 sheng4 ， lan2 jian4 fu3 huan2 hui4 。
+- lian3 ji4 hong2 chen2 zhong1 ， you2 mu4 zhi4 die2 wai4 。
+- hu2 guang1 jin4 qing2 bi4 ， ruo4 yu3 yun2 wai4 hui4 。
+- yu2 zhou1 he2 chu3 lai2 ， ji1 dian3 hu1 yin3 hui4 。
 
 ## 注释
 

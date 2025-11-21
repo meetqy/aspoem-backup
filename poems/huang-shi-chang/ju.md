@@ -6,10 +6,10 @@ titleSlug: ju
 author: 黄世長
 authorPinyin: huang2 shi4 chang2
 authorSlug: huang-shi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

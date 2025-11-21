@@ -6,10 +6,10 @@ titleSlug: song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha
 author: 高適
 authorPinyin: gao1 shi4
 authorSlug: gao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju-qi-er-ba
 author: 釋藴常
 authorPinyin: shi4 yun4 chang2
 authorSlug: shi-yun-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

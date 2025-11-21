@@ -6,25 +6,25 @@ titleSlug: zai-yong-qian-yun-er-shou-qi-er
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不假焦仙把酒噴，須臾澍雨若翻盆。
-- 官應可了劭農事，天豈終慳及物恩。
-- 無復絕糧憂魯叟，何須進食念王孫。
-- 只愁撩得秋聲動，老客他鄉易斷魂。
+- 中夜懷歸夢趁虛，柰無黄耳寄家書。
+- 高人不問閉門後，征士應思遣戍初。
+- 壓棟排簷能拉朽，穿簾入隙解乘疎。
+- 遥知山谷皆封路，食絕腸饑有怒狙。
 
 ## 拼音
 
-- bu4 jia3 jiao1 xian1 ba3 jiu3 pen1 ， xu1 yu2 shu4 yu3 ruo4 fan1 pen2 。
-- guan1 ying1 ke3 le0 shao4 nong2 shi4 ， tian1 qi3 zhong1 qian1 ji2 wu4 en1 。
-- wu2 fu4 jue2 liang2 you1 lu3 sou3 ， he2 xu1 jin4 shi2 nian4 wang2 sun1 。
-- zhi1 chou2 liao2 de2 qiu1 sheng1 dong4 ， lao3 ke4 ta1 xiang1 yi4 duan4 hun2 。
+- zhong1 ye4 huai2 gui1 meng4 chen4 xu1 ， nai4 wu2 huang2 er3 ji4 jia1 shu1 。
+- gao1 ren2 bu2 wen4 bi4 men2 hou4 ， zheng1 shi4 ying1 si1 qian3 shu4 chu1 。
+- ya1 dong4 pai2 yan2 neng2 la1 xiu3 ， chuan1 lian2 ru4 xi4 jie3 cheng2 shu1 。
+- yao2 zhi1 shan1 gu3 jie1 feng1 lu4 ， shi2 jue2 chang2 ji1 you3 nu4 ju1 。
 
 ## 注释
 

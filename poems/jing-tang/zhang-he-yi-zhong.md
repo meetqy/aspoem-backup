@@ -6,10 +6,10 @@ titleSlug: zhang-he-yi-zhong
 author: 京鏜
 authorPinyin: jing1 tang1
 authorSlug: jing-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

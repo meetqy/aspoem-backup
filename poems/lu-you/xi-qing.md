@@ -6,25 +6,33 @@ titleSlug: xi-qing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西風吹雨冷凄凄，道上行人白晝迷。
-- 聊抉重雲取朝日，未容嘉穀臥秋泥。
-- 年豐郡府疏文檄，蠻遁邊亭息鼓鼙。
-- 寄語農家莫遊惰，冬閑正要飽鉏犁。
+- 三日雨不止，意謂無復晴。
+- 泥深不可出，卧聽空階聲。
+- 事有未易料，南風起三更。
+- 陣陣浮雲歸，杲杲初日明。
+- 穡事既竭作，機杼比屋鳴。
+- 天公真老手，談笑功皆成。
+- 家家有新釀，歡言相送迎。
+- 蝗孽幸掃空，努力謀春耕。
 
 ## 拼音
 
-- xi1 feng1 chui1 yu3 leng3 qi1 qi1 ， dao4 shang4 xing2 ren2 bai2 zhou4 mi2 。
-- liao2 jue2 zhong4 yun2 qu3 zhao1 ri4 ， wei4 rong2 jia1 gu3 wo4 qiu1 ni2 。
-- nian2 feng1 jun4 fu3 shu1 wen2 xi2 ， man2 dun4 bian1 ting2 xi1 gu3 pi2 。
-- ji4 yu3 nong2 jia1 mo4 you2 duo4 ， dong1 xian2 zheng4 yao4 bao3 chu2 li2 。
+- san1 ri4 yu3 bu4 zhi3 ， yi4 wei4 wu2 fu4 qing2 。
+- ni2 shen1 bu4 ke3 chu1 ， wo4 ting1 kong1 jie1 sheng1 。
+- shi4 you3 wei4 yi4 liao4 ， nan2 feng1 qi3 san1 geng1 。
+- zhen4 zhen4 fu2 yun2 gui1 ， gao3 gao3 chu1 ri4 ming2 。
+- se4 shi4 ji4 jie2 zuo4 ， ji1 zhu4 bi3 wu1 ming2 。
+- tian1 gong1 zhen1 lao3 shou3 ， tan2 xiao4 gong1 jie1 cheng2 。
+- jia1 jia1 you3 xin1 niang4 ， huan1 yan2 xiang1 song4 ying2 。
+- huang2 nie4 xing4 sao3 kong1 ， nu3 li4 mou2 chun1 geng1 。
 
 ## 注释
 

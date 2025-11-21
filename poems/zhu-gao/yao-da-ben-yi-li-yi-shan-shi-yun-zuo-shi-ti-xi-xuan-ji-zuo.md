@@ -6,9 +6,9 @@ titleSlug: yao-da-ben-yi-li-yi-shan-shi-yun-zuo-shi-ti-xi-xuan-ji-zuo
 author: 朱槔
 authorPinyin: zhu1 gao1
 authorSlug: zhu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

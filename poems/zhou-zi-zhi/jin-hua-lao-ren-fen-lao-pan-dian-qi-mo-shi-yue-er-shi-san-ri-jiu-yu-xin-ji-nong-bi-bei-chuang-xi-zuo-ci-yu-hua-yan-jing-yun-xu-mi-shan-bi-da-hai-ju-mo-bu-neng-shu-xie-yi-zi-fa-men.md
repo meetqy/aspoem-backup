@@ -6,10 +6,10 @@ titleSlug: jin-hua-lao-ren-fen-lao-pan-dian-qi-mo-shi-yue-er-shi-san-ri-jiu-yu-x
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

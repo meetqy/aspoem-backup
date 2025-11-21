@@ -6,10 +6,10 @@ titleSlug: han-yun-qian-die-shan
 author: 楊養晦
 authorPinyin: yang2 yang3 hui4
 authorSlug: yang-yang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

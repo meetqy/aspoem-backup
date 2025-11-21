@@ -6,21 +6,21 @@ titleSlug: guan-yin-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百八摩尼杏葉光，圓通門戶日開張。
-- 度生莫恃蓮舟穩，惡浪狂風自著忙。
+- 隨類分身萬百千，真圓通境落誰邊。
+- 小兒戲劇無人會，萬頃滄波一葉蓮。
 
 ## 拼音
 
-- bai3 ba1 mo2 ni2 xing4 ye4 guang1 ， yuan2 tong1 men2 hu4 ri4 kai1 zhang1 。
-- du4 sheng1 mo4 shi4 lian2 zhou1 wen3 ， e4 lang4 kuang2 feng1 zi4 zhu4 mang2 。
+- sui2 lei4 fen1 shen1 wan4 bai3 qian1 ， zhen1 yuan2 tong1 jing4 luo4 shui2 bian1 。
+- xiao3 er2 xi4 ju4 wu2 ren2 hui4 ， wan4 qing3 cang1 bo1 yi2 ye4 lian2 。
 
 ## 注释
 

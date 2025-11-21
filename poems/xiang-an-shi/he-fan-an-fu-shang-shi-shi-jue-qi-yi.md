@@ -1,26 +1,26 @@
 ---
 id: xiang-an-shi-he-fan-an-fu-shang-shi-shi-jue-qi-yi
-title: 賀范安撫上事十絕  其一
-titlePinyin: he4 fan4 an1 fu3 shang4 shi4 shi2 jue2     qi2 yi1
+title: 賀范安撫上事十絕  其一○
+titlePinyin: he4 fan4 an1 fu3 shang4 shi4 shi2 jue2     qi2 yi1 ○
 titleSlug: he-fan-an-fu-shang-shi-shi-jue-qi-yi
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前肩蘇叟後陪朱，父子經筵世已無。
-- 誰見諸孫同盛事，槐龍陰下六絲絇。
+- 是人從古爲秋悲，病骨逢秋更可知。
+- 說與世人應未信，今年新有羨秋詩。
 
 ## 拼音
 
-- qian2 jian1 su1 sou3 hou4 pei2 zhu1 ， fu4 zi3 jing1 yan2 shi4 yi3 wu2 。
-- shui2 jian4 zhu1 sun1 tong2 sheng4 shi4 ， huai2 long2 yin1 xia4 liu4 si1 qu2 。
+- shi4 ren2 cong2 gu3 wei2 qiu1 bei1 ， bing4 gu3 feng2 qiu1 geng4 ke3 zhi1 。
+- shuo1 yu3 shi4 ren2 ying1 wei4 xin4 ， jin1 nian2 xin1 you3 xian4 qiu1 shi1 。
 
 ## 注释
 

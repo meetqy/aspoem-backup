@@ -6,21 +6,21 @@ titleSlug: mei-ying
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山空年歲晚，老氣寒崢嶸。
-- 耿耿霜月夜，相看直到明。
+- 冷蘂疏疏密密，老枝怪怪奇奇。
+- 孤高不得春力，雅淡惟應月知。
 
 ## 拼音
 
-- shan1 kong1 nian2 sui4 wan3 ， lao3 qi4 han2 zheng1 rong2 。
-- geng3 geng3 shuang1 yue4 ye4 ， xiang1 kan4 zhi2 dao4 ming2 。
+- leng3 rui3 shu1 shu1 mi4 mi4 ， lao3 zhi1 guai4 guai4 qi2 qi2 。
+- gu1 gao1 bu4 de2 chun1 li4 ， ya3 dan4 wei2 ying1 yue4 zhi1 。
 
 ## 注释
 

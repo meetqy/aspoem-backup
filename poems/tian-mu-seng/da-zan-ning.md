@@ -14,13 +14,19 @@ tags: []
 
 ## 正文
 
-- 中人事違，天眼中修定。
-- 我本無根株，只將筍爲命。
+- 山中人事違，天眼中修定。
+- （天目，一名天眼。
+- ）我本無根株，只將筍爲命。
+- （見釋贊寧所撰《筍譜》。
+- ）。
 
 ## 拼音
 
-- zhong1 ren2 shi4 wei2 ， tian1 yan3 zhong1 xiu1 ding4 。
-- wo3 ben3 wu2 gen1 zhu1 ， zhi1 jiang1 sun3 wei2 ming4 。
+- shan1 zhong1 ren2 shi4 wei2 ， tian1 yan3 zhong1 xiu1 ding4 。
+- （ tian1 mu4 ， yi4 ming2 tian1 yan3 。
+- ） wo3 ben3 wu2 gen1 zhu1 ， zhi1 jiang1 sun3 wei2 ming4 。
+- （ jian4 shi4 zan4 ning2 suo3 zhuan4 《 sun3 pu3 》。
+- ）。
 
 ## 注释
 

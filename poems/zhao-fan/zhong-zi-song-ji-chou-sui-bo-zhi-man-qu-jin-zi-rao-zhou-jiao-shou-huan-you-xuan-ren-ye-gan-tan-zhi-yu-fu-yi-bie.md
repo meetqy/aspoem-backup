@@ -6,10 +6,10 @@ titleSlug: zhong-zi-song-ji-chou-sui-bo-zhi-man-qu-jin-zi-rao-zhou-jiao-shou-hua
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

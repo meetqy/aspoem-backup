@@ -6,10 +6,10 @@ titleSlug: ji-xue-yong
 author: 杜汝能
 authorPinyin: du4 ru3 neng2
 authorSlug: du-ru-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

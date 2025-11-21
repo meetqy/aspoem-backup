@@ -6,10 +6,10 @@ titleSlug: ying-chao-tan
 author: 朱元昇
 authorPinyin: zhu1 yuan2 sheng1
 authorSlug: zhu-yuan-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

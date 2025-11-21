@@ -9,22 +9,24 @@ authorSlug: zhang-bi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 缾錫爲生久，門闌過客疏。
-- 於間見真寂，燕坐此清虛。
+- 缾錫爲生久，門闌過客疎。
+- 於閑見真寂，燕坐此清虛。
 - 事事皆身外，悠悠度歲餘。
 - 如何繁草木，還長舊庭除。
+- （見《至元嘉禾志》卷三二）。
 
 ## 拼音
 
 - ping2 xi1 wei2 sheng1 jiu3 ， men2 lan2 guo4 ke4 shu1 。
-- wu1 jian4 jian4 zhen1 ji4 ， yan4 zuo4 ci3 qing1 xu1 。
+- wu1 xian2 jian4 zhen1 ji4 ， yan4 zuo4 ci3 qing1 xu1 。
 - shi4 shi4 jie1 shen1 wai4 ， you1 you1 du4 sui4 yu2 。
 - ru2 he2 fan2 cao3 mu4 ， huan2 chang2 jiu4 ting2 chu2 。
+- （ jian4 《 zhi4 yuan2 jia1 he2 zhi4 》 juan4 san1 er4 ）。
 
 ## 注释
 

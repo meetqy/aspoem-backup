@@ -6,10 +6,10 @@ titleSlug: zui-xian-ya
 author: 魯百能
 authorPinyin: lu3 bai3 neng2
 authorSlug: lu-bai-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

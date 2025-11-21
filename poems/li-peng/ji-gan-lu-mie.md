@@ -6,37 +6,29 @@ titleSlug: ji-gan-lu-mie
 author: 李彭
 authorPinyin: li3 peng2
 authorSlug: li-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 疵賤楚江濆，真遭女嬃罵。
-- 自無交吕心，從猜追信詐。
-- 頗耽麯米春，寒柯一壺掛。
-- 戲逃蘇晉禪，時赴拾遺社。
-- 念我眼中人，十燭九已灺。
-- 向來支道林，得禍不能嫁。
-- 解覊蜑霧中，萬事頓高謝。
-- 奇胸挾風濤，吐句端可怕。
-- 何時織錦機，緯經聊一借。
-- 懷哉付短章，參旗耿寒夜。
+- 道人欲居甘露滅，年來寄食温柔鄉。
+- 開單展鉢底事遠，舉案齊眉風味長。
+- 我衰日涉甘岑寂，頗遭霜刺頤長出。
+- 願隨魚鼓供伊蒲，一墮塵網誰能力。
+- 要知在欲是行禪，久聚荷花顔色鮮。
+- 秋濤風怒何掀掀，莫倒危檣沈法船。
 
 ## 拼音
 
-- ci1 jian4 chu3 jiang1 pen1 ， zhen1 zao1 nü3 xu1 ma4 。
-- zi4 wu2 jiao1 lü3 xin1 ， cong2 cai1 zhui1 xin4 zha4 。
-- po1 dan1 qu1 mi3 chun1 ， han2 ke1 yi4 hu2 gua4 。
-- xi4 tao2 su1 jin4 shan4 ， shi2 fu4 shi2 yi2 she4 。
-- nian4 wo3 yan3 zhong1 ren2 ， shi2 zhu2 jiu3 yi3 xie4 。
-- xiang4 lai2 zhi1 dao4 lin2 ， de2 huo4 bu4 neng2 jia4 。
-- jie3 ji1 dan4 wu4 zhong1 ， wan4 shi4 dun4 gao1 xie4 。
-- qi2 xiong1 xie2 feng1 tao1 ， tu3 ju4 duan1 ke3 pa4 。
-- he2 shi2 zhi1 jin3 ji1 ， wei3 jing1 liao2 yi2 jie4 。
-- huai2 zai1 fu4 duan3 zhang1 ， can1 qi2 geng3 han2 ye4 。
+- dao4 ren2 yu4 ju1 gan1 lu4 mie4 ， nian2 lai2 ji4 shi2 wen1 rou2 xiang1 。
+- kai1 dan1 zhan3 bo1 di3 shi4 yuan3 ， ju3 an4 qi2 mei2 feng1 wei4 chang2 。
+- wo3 shuai1 ri4 she4 gan1 cen2 ji4 ， po1 zao1 shuang1 ci4 yi2 chang2 chu1 。
+- yuan4 sui2 yu2 gu3 gong4 yi1 pu2 ， yi2 duo4 chen2 wang3 shui2 neng2 li4 。
+- yao4 zhi1 zai4 yu4 shi4 xing2 shan4 ， jiu3 ju4 he2 hua1 yan2 se4 xian1 。
+- qiu1 tao1 feng1 nu4 he2 xian1 xian1 ， mo4 dao3 wei1 qiang2 shen3 fa3 chuan2 。
 
 ## 注释
 

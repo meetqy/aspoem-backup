@@ -6,10 +6,10 @@ titleSlug: liao-liao-tang
 author: 滿執中
 authorPinyin: man3 zhi2 zhong1
 authorSlug: man-zhi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

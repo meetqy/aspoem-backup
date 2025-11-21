@@ -6,10 +6,10 @@ titleSlug: jing-jie-ci-tang
 author: 李亨伯
 authorPinyin: li3 heng1 bo2
 authorSlug: li-heng-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-jun-shen-yu-qing-zong-cheng-ming-fu-jun-pu-luo-han-shu-qi-shu-ye-
 author: 林憲
 authorPinyin: lin2 xian4
 authorSlug: lin-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

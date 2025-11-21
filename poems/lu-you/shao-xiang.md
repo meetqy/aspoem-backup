@@ -6,25 +6,25 @@ titleSlug: shao-xiang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茹芝却粒世無方，隨食江湖每自傷。
-- 千里一身鳬泛泛，十年萬事海茫茫。
-- 春來鄉夢憑誰說，歸去君恩未敢忘。
-- 一寸丹心幸無愧，庭空月白夜燒香。
+- 寶熏清夜起氤氳，寂寂中庭伴月痕。
+- 小斮海沉非弄水，旋開山麝取當門。
+- 蜜房割處春方半，花露收時日未暾。
+- 安得故人同晤語，一燈相對看雲屯。
 
 ## 拼音
 
-- ru2 zhi1 que4 li4 shi4 wu2 fang1 ， sui2 shi2 jiang1 hu2 mei3 zi4 shang1 。
-- qian1 li3 yi4 shen1 fu2 fan4 fan4 ， shi2 nian2 wan4 shi4 hai3 mang2 mang2 。
-- chun1 lai2 xiang1 meng4 ping2 shui2 shuo1 ， gui1 qu4 jun1 en1 wei4 gan3 wang4 。
-- yi2 cun4 dan1 xin1 xing4 wu2 kui4 ， ting2 kong1 yue4 bai2 ye4 shao1 xiang1 。
+- bao3 xun1 qing1 ye4 qi3 yin1 yun1 ， ji4 ji4 zhong1 ting2 ban4 yue4 hen2 。
+- xiao3 zhuo2 hai3 chen2 fei1 nong4 shui3 ， xuan2 kai1 shan1 she4 qu3 dang1 men2 。
+- mi4 fang2 ge1 chu3 chun1 fang1 ban4 ， hua1 lu4 shou1 shi2 ri4 wei4 tun1 。
+- an1 de2 gu4 ren2 tong2 wu4 yu3 ， yi4 deng1 xiang1 dui4 kan4 yun2 tun2 。
 
 ## 注释
 

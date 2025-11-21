@@ -6,10 +6,10 @@ titleSlug: zeng-pei-zhi-jiang-shui-li-er-ke-yan-tai-xian-da-wu-gan-san-ke-yi-wei
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

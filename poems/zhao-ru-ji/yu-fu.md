@@ -6,25 +6,21 @@ titleSlug: yu-fu
 author: 趙汝績
 authorPinyin: zhao4 ru3 ji4
 authorSlug: zhao-ru-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 換米活妻子，餘錢付酒家。
-- 身前舟似葉，世上事如麻。
-- 獨鼈過深浦，伴鷗眠淺沙。
-- 旁人問醒醉，鼓枻入蘆花。
+- 魚滿笭箵酒滿壺，渚鷗汀鶴伴清孤。
+- 此身漂泊雖無定，能與人間作畫圖。
 
 ## 拼音
 
-- huan4 mi3 huo2 qi1 zi0 ， yu2 qian2 fu4 jiu3 jia1 。
-- shen1 qian2 zhou1 si4 ye4 ， shi4 shang4 shi4 ru2 ma2 。
-- du2 bie1 guo4 shen1 pu3 ， ban4 ou1 mian2 qian3 sha1 。
-- pang2 ren2 wen4 xing3 zui4 ， gu3 yi4 ru4 lu2 hua1 。
+- yu2 man3 ling2 xing3 jiu3 man3 hu2 ， zhu3 ou1 ting1 he4 ban4 qing1 gu1 。
+- ci3 shen1 piao1 bo2 sui1 wu2 ding4 ， neng2 yu3 ren2 jian4 zuo4 hua4 tu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: you-yang-hua-kou-zhan-wu-yan-ba-ju-cheng-zhu-liao-you
 author: 江朝議
 authorPinyin: jiang1 chao2 yi4
 authorSlug: jiang-chao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

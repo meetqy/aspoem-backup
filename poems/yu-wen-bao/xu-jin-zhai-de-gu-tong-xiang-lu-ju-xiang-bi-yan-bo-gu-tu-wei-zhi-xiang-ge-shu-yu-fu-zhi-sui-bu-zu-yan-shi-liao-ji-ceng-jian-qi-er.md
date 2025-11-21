@@ -6,10 +6,10 @@ titleSlug: xu-jin-zhai-de-gu-tong-xiang-lu-ju-xiang-bi-yan-bo-gu-tu-wei-zhi-xian
 author: 俞文豹
 authorPinyin: yu2 wen2 bao4
 authorSlug: yu-wen-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

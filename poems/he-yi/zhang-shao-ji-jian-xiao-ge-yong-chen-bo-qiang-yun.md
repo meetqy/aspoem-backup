@@ -6,10 +6,10 @@ titleSlug: zhang-shao-ji-jian-xiao-ge-yong-chen-bo-qiang-yun
 author: 何异
 authorPinyin: he2 yi4
 authorSlug: he-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

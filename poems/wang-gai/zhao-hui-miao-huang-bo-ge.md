@@ -6,10 +6,10 @@ titleSlug: zhao-hui-miao-huang-bo-ge
 author: 王該
 authorPinyin: wang2 gai1
 authorSlug: wang-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

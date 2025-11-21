@@ -6,10 +6,10 @@ titleSlug: zheng-yue-shi-san-ri-guo-deng-shi-qi-xie-hou-bo-shan-zai-yan-shi-qi-z
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

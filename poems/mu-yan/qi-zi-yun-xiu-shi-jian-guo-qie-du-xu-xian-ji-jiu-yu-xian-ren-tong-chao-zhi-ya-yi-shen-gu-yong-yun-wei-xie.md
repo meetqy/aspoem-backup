@@ -6,10 +6,10 @@ titleSlug: qi-zi-yun-xiu-shi-jian-guo-qie-du-xu-xian-ji-jiu-yu-xian-ren-tong-cha
 author: 牟巘
 authorPinyin: mu4 yan3
 authorSlug: mu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

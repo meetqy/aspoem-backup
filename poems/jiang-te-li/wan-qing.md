@@ -6,21 +6,21 @@ titleSlug: wan-qing
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚晴返照射高櫨，不覺煩襟氣一蘇。
-- 欲問明朝天色好，請看空際兩浮圖。
+- 草木肥梅雨，江山快晚晴。
+- 芳塘荷芰發，香泛葛衣輕。
 
 ## 拼音
 
-- wan3 qing2 fan3 zhao4 she4 gao1 lu2 ， bu4 jue2 fan2 jin1 qi4 yi4 su1 。
-- yu4 wen4 ming2 chao2 tian1 se4 hao3 ， qing3 kan4 kong1 ji4 liang3 fu2 tu2 。
+- cao3 mu4 fei2 mei2 yu3 ， jiang1 shan1 kuai4 wan3 qing2 。
+- fang1 tang2 he2 ji4 fa1 ， xiang1 fan4 ge3 yi1 qing1 。
 
 ## 注释
 

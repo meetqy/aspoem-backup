@@ -6,10 +6,10 @@ titleSlug: ding-jia-shan-fang-li-can
 author: 凌策
 authorPinyin: ling2 ce4
 authorSlug: ling-ce
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

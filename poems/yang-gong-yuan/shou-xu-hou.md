@@ -6,25 +6,25 @@ titleSlug: shou-xu-hou
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冬孟猶餘一葉蓂，中原賢哲此時生。
-- 星輝南極躔吳分，月出東山照歙城。
-- 耐與寒花香晚節，清如冷蕊味和羹。
-- 童顔鶴髮神仙骨，便是崆峒老廣成。
+- 星輝南極彩雲邊，律轉黄鍾一日前。
+- 河嶽間生賢太守，椿松齊算老神仙。
+- 心猶秋月燭千里，人在春風度兩年。
+- 祇恐練溪難久駐，行看飛詔下堯天。
 
 ## 拼音
 
-- dong1 meng4 you2 yu2 yi2 ye4 mi4 ， zhong1 yuan2 xian2 zhe2 ci3 shi2 sheng1 。
-- xing1 hui1 nan2 ji2 chan2 wu2 fen1 ， yue4 chu1 dong1 shan1 zhao4 xi1 cheng2 。
-- nai4 yu3 han2 hua1 xiang1 wan3 jie2 ， qing1 ru2 leng3 rui3 wei4 he2 geng1 。
-- tong2 yan2 he4 fa4 shen2 xian1 gu3 ， bian4 shi4 kong1 tong2 lao3 guang3 cheng2 。
+- xing1 hui1 nan2 ji2 cai3 yun2 bian1 ， lü4 zhuan3 huang2 zhong1 yi2 ri4 qian2 。
+- he2 yue4 jian4 sheng1 xian2 tai4 shou3 ， chun1 song1 qi2 suan4 lao3 shen2 xian1 。
+- xin1 you2 qiu1 yue4 zhu2 qian1 li3 ， ren2 zai4 chun1 feng1 du4 liang3 nian2 。
+- qi2 kong3 lian4 xi1 nan2 jiu3 zhu4 ， xing2 kan4 fei1 zhao4 xia4 yao2 tian1 。
 
 ## 注释
 

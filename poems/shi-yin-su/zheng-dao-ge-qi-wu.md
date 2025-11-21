@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-wu
-title: 證道歌  其五
-titlePinyin: zheng4 dao4 ge1     qi2 wu3
+title: 證道歌  其五○
+titlePinyin: zheng4 dao4 ge1     qi2 wu3 ○
 titleSlug: zheng-dao-ge-qi-wu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無明實性即佛性，心浄還同佛土浄。
-- 水鳥樹林聲色中，殊無毫髮來爭競。
+- 道則心藏無價珍，十方諸佛我同身。
+- 一切諸法皆無相，萬法無非是我心。
 
 ## 拼音
 
-- wu2 ming2 shi2 xing4 ji2 fo2 xing4 ， xin1 jing4 huan2 tong2 fo2 tu3 jing4 。
-- shui3 niao3 shu4 lin2 sheng1 se4 zhong1 ， shu1 wu2 hao2 fa4 lai2 zheng1 jing4 。
+- dao4 ze2 xin1 cang2 wu2 jia4 zhen1 ， shi2 fang1 zhu1 fo2 wo3 tong2 shen1 。
+- yi2 qie4 zhu1 fa3 jie1 wu2 xiang1 ， wan4 fa3 wu2 fei1 shi4 wo3 xin1 。
 
 ## 注释
 

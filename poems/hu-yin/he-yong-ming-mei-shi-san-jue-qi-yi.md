@@ -1,26 +1,26 @@
 ---
 id: hu-yin-he-yong-ming-mei-shi-san-jue-qi-yi
-title: 和用明梅十三絕  其一
-titlePinyin: he2 yong4 ming2 mei2 shi2 san1 jue2     qi2 yi1
+title: 和用明梅十三絕  其一○
+titlePinyin: he2 yong4 ming2 mei2 shi2 san1 jue2     qi2 yi1 ○
 titleSlug: he-yong-ming-mei-shi-san-jue-qi-yi
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 的皪輕臨宋玉牆，世間顔色盡凡籹。
-- 病夫欲作天花觀，無奈時時得暗香。
+- 漫說瓊花淮海陽，要知蘭蕙不能香。
+- 人間草木如相對，寧遣詩仙引興長。
 
 ## 拼音
 
-- de0 li4 qing1 lin2 song4 yu4 qiang2 ， shi4 jian4 yan2 se4 jin4 fan2 nü3 。
-- bing4 fu1 yu4 zuo4 tian1 hua1 guan1 ， wu2 nai4 shi2 shi2 de2 an4 xiang1 。
+- man4 shuo1 qiong2 hua1 huai2 hai3 yang2 ， yao4 zhi1 lan2 hui4 bu4 neng2 xiang1 。
+- ren2 jian4 cao3 mu4 ru2 xiang1 dui4 ， ning2 qian3 shi1 xian1 yin3 xing1 chang2 。
 
 ## 注释
 

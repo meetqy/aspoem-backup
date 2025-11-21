@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-qiu-xing-qi-yi
-title: 秋興・其一
-titlePinyin: qiu1 xing1・qi2 yi1
+title: 秋興  其一
+titlePinyin: qiu1 xing1     qi2 yi1
 titleSlug: qiu-xing-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

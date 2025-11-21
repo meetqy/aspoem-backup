@@ -6,9 +6,9 @@ titleSlug: jin-dao-pu-ting-xia-zhu-shi-xu-zhi-yin-yi-liu-zi-hou-qing-shui-yi-jue
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

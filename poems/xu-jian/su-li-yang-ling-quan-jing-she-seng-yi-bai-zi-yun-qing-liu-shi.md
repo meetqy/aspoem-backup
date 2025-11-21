@@ -6,9 +6,9 @@ titleSlug: su-li-yang-ling-quan-jing-she-seng-yi-bai-zi-yun-qing-liu-shi
 author: 許堅
 authorPinyin: xu1 jian1
 authorSlug: xu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

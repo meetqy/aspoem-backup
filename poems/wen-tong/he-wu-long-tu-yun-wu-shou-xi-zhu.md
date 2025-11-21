@@ -1,14 +1,14 @@
 ---
 id: wen-tong-he-wu-long-tu-yun-wu-shou-xi-zhu
-title: 和吳龍圖韵五首・洗竹
-titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3・xi3 zhu2
+title: 和吳龍圖韵五首 洗竹
+titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3   xi3 zhu2
 titleSlug: he-wu-long-tu-yun-wu-shou-xi-zhu
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

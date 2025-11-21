@@ -1,26 +1,26 @@
 ---
 id: bai-yu-chan-qu-gong-shi-qi-yi
-title: 曲肱詩  其一
-titlePinyin: qu1 gong1 shi1     qi2 yi1
+title: 曲肱詩  其一○
+titlePinyin: qu1 gong1 shi1     qi2 yi1 ○
 titleSlug: qu-gong-shi-qi-yi
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔在青華第一宮，祇緣醉後怒騎龍。
-- 傾翻半滴金瓶水，不覺人間雨發洪。
+- 我到人間未百年，恰如頃刻在三天。
+- 向來我本雷霆吏，今更休疑作甚仙。
 
 ## 拼音
 
-- xi1 zai4 qing1 hua2 di4 yi4 gong1 ， qi2 yuan2 zui4 hou4 nu4 qi2 long2 。
-- qing1 fan1 ban4 di1 jin1 ping2 shui3 ， bu4 jue2 ren2 jian4 yu3 fa1 hong2 。
+- wo3 dao4 ren2 jian4 wei4 bai3 nian2 ， qia4 ru2 qing3 ke4 zai4 san1 tian1 。
+- xiang4 lai2 wo3 ben3 lei2 ting2 li4 ， jin1 geng4 xiu1 yi2 zuo4 shen4 xian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-yu-jian-ba-jing-ba-shou-qi-liu
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

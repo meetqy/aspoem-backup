@@ -6,25 +6,25 @@ titleSlug: qiu-wan-huai-gui
 author: 周密
 authorPinyin: zhou1 mi4
 authorSlug: zhou-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 逝水歸雲日夜流，倚欄心事共悠悠。
-- 黄棲露畝稻粱晚，紅染霜林橡栗秋。
-- 日月不閑雙鬢老，風埃長滿百年愁。
-- 故山薇長無人采，有媿平生馬少游。
+- 摇落江空雁影沉，樓高愁近怕登臨。
+- 雙溪秋晚碧苕老，三徑雨多紅葉深。
+- 燈火未忘年少夢，蓴鱸偏惱客中心。
+- 且尋籬下黄花約，莫倚西風學楚吟。
 
 ## 拼音
 
-- shi4 shui3 gui1 yun2 ri4 ye4 liu2 ， yi3 lan2 xin1 shi4 gong4 you1 you1 。
-- huang2 qi1 lu4 mu3 dao4 liang2 wan3 ， hong2 ran3 shuang1 lin2 xiang4 li4 qiu1 。
-- ri4 yue4 bu4 xian2 shuang1 bin4 lao3 ， feng1 ai1 chang2 man3 bai3 nian2 chou2 。
-- gu4 shan1 wei1 chang2 wu2 ren2 cai3 ， you3 kui4 ping2 sheng1 ma3 shao3 you2 。
+- yao2 luo4 jiang1 kong1 yan4 ying3 chen2 ， lou2 gao1 chou2 jin4 pa4 deng1 lin2 。
+- shuang1 xi1 qiu1 wan3 bi4 tiao2 lao3 ， san1 jing4 yu3 duo1 hong2 ye4 shen1 。
+- deng1 huo3 wei4 wang4 nian2 shao3 meng4 ， chun2 lu2 pian1 nao3 ke4 zhong1 xin1 。
+- qie3 xun2 li2 xia4 huang2 hua1 yue1 ， mo4 yi3 xi1 feng1 xue2 chu3 yin2 。
 
 ## 注释
 

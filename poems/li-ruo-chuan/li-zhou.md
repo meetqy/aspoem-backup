@@ -6,10 +6,10 @@ titleSlug: li-zhou
 author: 李若川
 authorPinyin: li3 ruo4 chuan1
 authorSlug: li-ruo-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

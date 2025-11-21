@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-jiu
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 唐士有非國語，漢人曾反離騷。
-- 依本定非筆傑，愛奇自是人豪。
+- 俗交毋惜三分話，道眼須看上一層。
+- 太傅莫疑高屐客，都官休厭紫衣僧。
 
 ## 拼音
 
-- tang2 shi4 you3 fei1 guo2 yu3 ， han4 ren2 ceng2 fan3 li2 sao1 。
-- yi1 ben3 ding4 fei1 bi3 jie2 ， ai4 qi2 zi4 shi4 ren2 hao2 。
+- su2 jiao1 wu2 xi1 san1 fen1 hua4 ， dao4 yan3 xu1 kan4 shang4 yi4 ceng2 。
+- tai4 fu4 mo4 yi2 gao1 ji1 ke4 ， dou1 guan1 xiu1 yan4 zi3 yi1 seng1 。
 
 ## 注释
 

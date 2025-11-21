@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒔松須殘臘，栽花宜早春。
-- 移竹日隨月，種麻月及辰。
-- 旺方八卦定，農詩七月陳。
-- 物性無不然，農業宜斤斤。
+- 雲山環所臨，烟景日日異。
+- 山作故人接，雲爲久處計。
+- 酒酣一聲笛，梅風四山起。
+- 清香賸披拂，參橫伴村醉。
 
 ## 拼音
 
-- shi4 song1 xu1 can2 la4 ， zai1 hua1 yi2 zao3 chun1 。
-- yi2 zhu2 ri4 sui2 yue4 ， zhong3 ma2 yue4 ji2 chen2 。
-- wang4 fang1 ba1 gua4 ding4 ， nong2 shi1 qi1 yue4 chen2 。
-- wu4 xing4 wu2 bu4 ran2 ， nong2 ye4 yi2 jin1 jin1 。
+- yun2 shan1 huan2 suo3 lin2 ， yan1 jing3 ri4 ri4 yi4 。
+- shan1 zuo4 gu4 ren2 jie1 ， yun2 wei2 jiu3 chu3 ji4 。
+- jiu3 han1 yi4 sheng1 di2 ， mei2 feng1 si4 shan1 qi3 。
+- qing1 xiang1 sheng4 pi1 fu2 ， can1 heng2 ban4 cun1 zui4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ji
 author: 謝方叔
 authorPinyin: xie4 fang1 shu1
 authorSlug: xie-fang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

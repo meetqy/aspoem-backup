@@ -6,10 +6,10 @@ titleSlug: ci-yun-hui-shan-ren-zeng-shen-dong-lao-er-shou-qi-er
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

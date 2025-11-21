@@ -6,10 +6,10 @@ titleSlug: dong-feng-ting
 author: 劉讀
 authorPinyin: liu2 du2
 authorSlug: liu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

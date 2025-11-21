@@ -6,10 +6,10 @@ titleSlug: zao-chao-shi-jue-qi-wu
 author: 趙子潚
 authorPinyin: zhao4 zi3 su4
 authorSlug: zhao-zi-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

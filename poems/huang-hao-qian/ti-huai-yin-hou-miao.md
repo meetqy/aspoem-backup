@@ -6,10 +6,10 @@ titleSlug: ti-huai-yin-hou-miao
 author: 黄好謙
 authorPinyin: huang2 hao3 qian1
 authorSlug: huang-hao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

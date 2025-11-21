@@ -6,10 +6,10 @@ titleSlug: xie-en-shi
 author: 蔡仲龍
 authorPinyin: cai4 zhong4 long2
 authorSlug: cai-zhong-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

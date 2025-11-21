@@ -6,21 +6,21 @@ titleSlug: zai-ci-ji-ken-tang-yun-wu-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丈室雲趨彼豈徒，拳拳此意忍容孤。
-- 即今又舉二三語，說似當年邑大夫。
+- 道人心地古爲徒，野鶴昂藏白月孤。
+- 我亦生來世緣薄，回思昏宦歎非夫。
 
 ## 拼音
 
-- zhang4 shi4 yun2 qu1 bi3 qi3 tu2 ， quan2 quan2 ci3 yi4 ren3 rong2 gu1 。
-- ji2 jin1 you4 ju3 er4 san1 yu3 ， shuo1 si4 dang1 nian2 yi4 dai4 fu0 。
+- dao4 ren2 xin1 di4 gu3 wei2 tu2 ， ye3 he4 ang2 cang2 bai2 yue4 gu1 。
+- wo3 yi4 sheng1 lai2 shi4 yuan2 bao2 ， hui2 si1 hun1 huan4 tan4 fei1 fu1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禁掖乘歡飲興濃，笙歌圍繞盡芳容。
-- 玉人相對賡酬勸，忽奏葵花一寶鍾。
+- 琳庭節物樂無涯，又是餘寒易歲華。
+- 昨夜雪晴天氣好，後園初進臘梅花。
 
 ## 拼音
 
-- jin4 ye4 cheng2 huan1 yin3 xing1 nong2 ， sheng1 ge1 wei2 rao4 jin4 fang1 rong2 。
-- yu4 ren2 xiang1 dui4 geng1 chou2 quan4 ， hu1 zou4 kui2 hua1 yi4 bao3 zhong1 。
+- lin2 ting2 jie2 wu4 le4 wu2 ya2 ， you4 shi4 yu2 han2 yi4 sui4 hua2 。
+- zuo2 ye4 xue3 qing2 tian1 qi4 hao3 ， hou4 yuan2 chu1 jin4 la4 mei2 hua1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ti-yan-qing-yuan
 author: 李經
 authorPinyin: li3 jing1
 authorSlug: li-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -9,40 +9,36 @@ authorSlug: liu-zong-yuan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 晉陽武，奮義威。
-- 煬之渝，德焉歸。
-- 氓畢屠，綏者誰。
-- 皇烈烈，專天機。
-- 號以仁，揚其旗。
-- 日之昇，九土晞。
-- 斥田坼，流洪輝。
-- 有其二，翼餘隋。
-- 斮梟鷔，連熊螭。
-- 枯以肉，勍者羸。
-- 后土蕩，玄穹彌。
-- 合之育，莾然施。
-- 惟德輔，慶無期。
+- 東蠻有謝氏，冠帶理海中。
+- 自言我異世，雖聖莫能通。
+- 王卒如飛翰，鵬鶱駭羣龍。
+- 轟然自天墜，乃信神武功。
+- 繫虜君臣人，累累來自東。
+- 無思不服從，唐業如山崇。
+- 百辟拜稽首，咸願圖形容。
+- 如周王會書，永永傳無窮。
+- 睢盱萬狀乖，咿嗢九譯重。
+- 廣輪撫四海，浩浩知皇風。
+- 歌詩鐃鼓閒，以壯我元戎。
 
 ## 拼音
 
-- jin4 yang2 wu3 ， fen4 yi4 wei1 。
-- yang2 zhi1 yu2 ， de2 yan1 gui1 。
-- mang2 bi4 tu2 ， sui2 zhe3 shui2 。
-- huang2 lie4 lie4 ， zhuan1 tian1 ji1 。
-- hao4 yi3 ren2 ， yang2 qi2 qi2 。
-- ri4 zhi1 sheng1 ， jiu3 tu3 xi1 。
-- chi4 tian2 che4 ， liu2 hong2 hui1 。
-- you3 qi2 er4 ， yi4 yu2 sui2 。
-- zhuo2 xiao1 ao2 ， lian2 xiong2 chi1 。
-- ku1 yi3 rou4 ， qing2 zhe3 lei2 。
-- hou4 tu3 dang4 ， xuan2 qiong2 mi2 。
-- he2 zhi1 yu4 ， mang3 ran2 shi1 。
-- wei2 de2 fu3 ， qing4 wu2 qi1 。
+- dong1 man2 you3 xie4 shi4 ， guan1 dai4 li3 hai3 zhong1 。
+- zi4 yan2 wo3 yi4 shi4 ， sui1 sheng4 mo4 neng2 tong1 。
+- wang2 zu2 ru2 fei1 han4 ， peng2 xian1 hai4 qun2 long2 。
+- hong1 ran2 zi4 tian1 zhui4 ， nai3 xin4 shen2 wu3 gong1 。
+- xi4 lu3 jun1 chen2 ren2 ， lei2 lei2 lai2 zi4 dong1 。
+- wu2 si1 bu4 fu2 cong2 ， tang2 ye4 ru2 shan1 chong2 。
+- bai3 pi4 bai4 qi3 shou3 ， xian2 yuan4 tu2 xing2 rong2 。
+- ru2 zhou1 wang2 hui4 shu1 ， yong3 yong3 chuan2 wu2 qiong2 。
+- sui1 xu1 wan4 zhuang4 guai1 ， yi1 wa4 jiu3 yi4 zhong4 。
+- guang3 lun2 fu3 si4 hai3 ， hao4 hao4 zhi1 huang2 feng1 。
+- ge1 shi1 nao2 gu3 xian2 ， yi3 zhuang4 wo3 yuan2 rong2 。
 
 ## 注释
 

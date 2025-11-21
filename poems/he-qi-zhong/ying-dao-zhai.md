@@ -6,10 +6,10 @@ titleSlug: ying-dao-zhai
 author: 何棄仲
 authorPinyin: he2 qi4 zhong4
 authorSlug: he-qi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

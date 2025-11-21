@@ -9,22 +9,22 @@ authorSlug: wang-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 皎潔明星高，蒼茫遠天曙。
-- 槐霧暗不開，城鴉鳴稍去。
-- 始聞高閣聲，莫辨更衣處。
-- 銀燭已成行，金門儼騶馭。
+- 柳暗百花明，春深五鳳城。
+- 城烏睥睨曉，宮井轆轤聲。
+- 方朔金門侍，班姬玉輦迎。
+- 仍聞遣方士，東海訪蓬瀛。
 
 ## 拼音
 
-- jiao3 jie2 ming2 xing1 gao1 ， cang1 mang2 yuan3 tian1 shu3 。
-- huai2 wu4 an4 bu4 kai1 ， cheng2 ya1 ming2 shao1 qu4 。
-- shi3 wen2 gao1 ge2 sheng1 ， mo4 bian4 geng1 yi1 chu3 。
-- yin2 zhu2 yi3 cheng2 xing2 ， jin1 men2 yan3 zou1 yu4 。
+- liu3 an4 bai3 hua1 ming2 ， chun1 shen1 wu3 feng4 cheng2 。
+- cheng2 wu1 pi4 ni4 xiao3 ， gong1 jing3 lu4 lu2 sheng1 。
+- fang1 shuo4 jin1 men2 shi4 ， ban1 ji1 yu4 nian3 ying2 。
+- reng2 wen2 qian3 fang1 shi4 ， dong1 hai3 fang3 peng2 ying2 。
 
 ## 注释
 

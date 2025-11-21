@@ -6,21 +6,21 @@ titleSlug: huang-tai-hou-he-chun-tie-zi-qi-san
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 內殿家人禮，猩袍奉玉巵。
-- 椒盤勤盥饋，百世有孫支。
+- 濯龍宮館漏聲徐，閒把黄庭味道腴。
+- 侍女不持珠玉玩，爭傳文母澣衣圖。
 
 ## 拼音
 
-- nei4 dian4 jia1 ren2 li3 ， xing1 pao2 feng4 yu4 zhi1 。
-- jiao1 pan2 qin2 guan4 kui4 ， bai3 shi4 you3 sun1 zhi1 。
+- zhuo2 long2 gong1 guan3 lou4 sheng1 xu2 ， xian2 ba3 huang2 ting2 wei4 dao4 yu2 。
+- shi4 nü3 bu4 chi2 zhu1 yu4 wan2 ， zheng1 chuan2 wen2 mu3 huan4 yi1 tu2 。
 
 ## 注释
 

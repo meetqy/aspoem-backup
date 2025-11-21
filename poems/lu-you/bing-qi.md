@@ -6,25 +6,29 @@ titleSlug: bing-qi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 開歲忽六十，病餘閑炷香。
-- 春光向客淡，夜漏爲愁長。
-- 已老鷄豚社，永違鵷鷺行。
-- 蒼龍西角月，孤夢墮微茫。
+- 一病輒經旬，幾病能不死。
+- 誠知迫頽年，暫健亦自喜。
+- 半窗風竹影，晴景極清美。
+- 讀書雖益懶，尚可日百紙。
+- 引鏡整角巾，病思真一洗。
+- 悠然度朝晡，萬事如覆水。
 
 ## 拼音
 
-- kai1 sui4 hu1 liu4 shi2 ， bing4 yu2 xian2 zhu4 xiang1 。
-- chun1 guang1 xiang4 ke4 dan4 ， ye4 lou4 wei2 chou2 chang2 。
-- yi3 lao3 ji1 tun2 she4 ， yong3 wei2 yuan1 lu4 xing2 。
-- cang1 long2 xi1 jiao3 yue4 ， gu1 meng4 duo4 wei1 mang2 。
+- yi2 bing4 zhe2 jing1 xun2 ， ji1 bing4 neng2 bu4 si3 。
+- cheng2 zhi1 po4 tui2 nian2 ， zan4 jian4 yi4 zi4 xi3 。
+- ban4 chuang1 feng1 zhu2 ying3 ， qing2 jing3 ji2 qing1 mei3 。
+- du2 shu1 sui1 yi4 lan3 ， shang4 ke3 ri4 bai3 zhi3 。
+- yin3 jing4 zheng3 jiao3 jin1 ， bing4 si1 zhen1 yi4 xi3 。
+- you1 ran2 du4 chao2 bu1 ， wan4 shi4 ru2 fu4 shui3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chen-su-zhai-xi-shang
 author: 韓應
 authorPinyin: han2 ying1
 authorSlug: han-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

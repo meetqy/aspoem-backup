@@ -6,10 +6,10 @@ titleSlug: bing-ju-xing
 author: 杜甫
 authorPinyin: du4 fu3
 authorSlug: du-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
@@ -26,8 +26,7 @@ tags: []
 - 況復秦兵耐苦戰，被驅不異犬與雞。
 - 長者雖有問，役夫敢申恨。
 - 且如今年冬，未休關西卒。
-- 縣官急索租，租稅從何出？
-- 信知生男惡，反是生女好。
+- 縣官急索租，租稅從何出？信知生男惡，反是生女好。
 - 生女猶是嫁比鄰，生男埋沒隨百草。
 - 君不見青海頭，古來白骨無人收。
 - 新鬼煩冤舊鬼哭，天陰雨濕聲啾啾。
@@ -46,8 +45,7 @@ tags: []
 - kuang4 fu4 qin2 bing1 nai4 ku3 zhan4 ， bei4 qu1 bu2 yi4 quan3 yu3 ji1 。
 - chang2 zhe3 sui1 you3 wen4 ， yi4 fu1 gan3 shen1 hen4 。
 - qie3 ru2 jin1 nian2 dong1 ， wei4 xiu1 guan1 xi1 zu2 。
-- xian4 guan1 ji2 suo3 zu1 ， zu1 shui4 cong2 he2 chu1 ？
-- xin4 zhi1 sheng1 nan2 e4 ， fan3 shi4 sheng1 nü3 hao3 。
+- xian4 guan1 ji2 suo3 zu1 ， zu1 shui4 cong2 he2 chu1 ？ xin4 zhi1 sheng1 nan2 e4 ， fan3 shi4 sheng1 nü3 hao3 。
 - sheng1 nü3 you2 shi4 jia4 bi3 lin2 ， sheng1 nan2 mai2 mei2 sui2 bai3 cao3 。
 - jun1 bu2 jian4 qing1 hai3 tou2 ， gu3 lai2 bai2 gu3 wu2 ren2 shou1 。
 - xin1 gui3 fan2 yuan1 jiu4 gui3 ku1 ， tian1 yin1 yu3 shi1 sheng1 jiu1 jiu1 。

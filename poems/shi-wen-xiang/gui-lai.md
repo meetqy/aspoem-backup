@@ -6,25 +6,25 @@ titleSlug: gui-lai
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世變今如此，吾心復背時。
-- 皇皇無所與，去去欲何之。
-- 獨木橋難渡，三叉路可疑。
-- 歸來差自好，猨鶴舊相知。
+- 歸來巖下養衰形，日日眠雲聽瀑聲。
+- 但愛一閒堪佚老，翻思萬卷是勞生。
+- 人嫌草座麻衣陋，自守芝翁木客盟。
+- 沒齒如斯吾事足，更無他事可關情。
 
 ## 拼音
 
-- shi4 bian4 jin1 ru2 ci3 ， wu2 xin1 fu4 bei4 shi2 。
-- huang2 huang2 wu2 suo3 yu3 ， qu4 qu4 yu4 he2 zhi1 。
-- du2 mu4 qiao2 nan2 du4 ， san1 cha1 lu4 ke3 yi2 。
-- gui1 lai2 cha4 zi4 hao4 ， yuan2 he4 jiu4 xiang1 zhi1 。
+- gui1 lai2 yan2 xia4 yang3 shuai1 xing2 ， ri4 ri4 mian2 yun2 ting1 pu4 sheng1 。
+- dan4 ai4 yi4 xian2 kan1 yi4 lao3 ， fan1 si1 wan4 juan4 shi4 lao2 sheng1 。
+- ren2 xian2 cao3 zuo4 ma2 yi1 lou4 ， zi4 shou3 zhi1 weng1 mu4 ke4 meng2 。
+- mei2 chi3 ru2 si1 wu2 shi4 zu2 ， geng4 wu2 ta1 shi4 ke3 guan1 qing2 。
 
 ## 注释
 

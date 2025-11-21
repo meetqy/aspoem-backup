@@ -6,25 +6,21 @@ titleSlug: zai-ci-yun-si-shou-qi-si
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 韻語聯翩到浚旌，楚珩非重夜光輕。
-- 吟成品物回春態，誦處東風放曉晴。
-- 抖擻錦囊娛我老，滌除愁斛見君情。
-- 固應詩膽驁無本，刺手霜牙摩怒鯨。
+- 頗有傳詩問子山，或將贊易譽虞翻。
+- 先生不乏醺酣笑，問字能無款席門。
 
 ## 拼音
 
-- yun4 yu3 lian2 pian1 dao4 jun4 jing1 ， chu3 heng2 fei1 zhong4 ye4 guang1 qing1 。
-- yin2 cheng2 pin3 wu4 hui2 chun1 tai4 ， song4 chu3 dong1 feng1 fang4 xiao3 qing2 。
-- dou3 sou4 jin3 nang2 yu2 wo3 lao3 ， di2 chu2 chou2 hu2 jian4 jun1 qing2 。
-- gu4 ying1 shi1 dan3 ao4 wu2 ben3 ， ci4 shou3 shuang1 ya2 mo2 nu4 jing1 。
+- po1 you3 chuan2 shi1 wen4 zi3 shan1 ， huo4 jiang1 zan4 yi4 yu4 yu2 fan1 。
+- xian1 sheng0 bu4 fa2 xun1 han1 xiao4 ， wen4 zi4 neng2 wu2 kuan3 xi2 men2 。
 
 ## 注释
 

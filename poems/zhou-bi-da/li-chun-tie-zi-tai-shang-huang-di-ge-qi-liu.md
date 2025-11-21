@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-liu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鬭巧花枝金剪幡，誇多菜縷玉爲盤。
-- 君王賸欲娛佳節，總把時新輟大官。
+- 湖上春光次第還，夾街新展集芳園。
+- 定知花木開偏早，慣識東皇造化恩。
 
 ## 拼音
 
-- dou4 qiao3 hua1 zhi1 jin1 jian3 fan1 ， kua1 duo1 cai4 lü3 yu4 wei2 pan2 。
-- jun1 wang2 sheng4 yu4 yu2 jia1 jie2 ， zong3 ba3 shi2 xin1 chuo4 da4 guan1 。
+- hu2 shang4 chun1 guang1 ci4 di4 huan2 ， jia1 jie1 xin1 zhan3 ji2 fang1 yuan2 。
+- ding4 zhi1 hua1 mu4 kai1 pian1 zao3 ， guan4 shi2 dong1 huang2 zao4 hua4 en1 。
 
 ## 注释
 

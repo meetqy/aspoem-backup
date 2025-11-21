@@ -6,25 +6,25 @@ titleSlug: chen-zhou
 author: 陶弼
 authorPinyin: tao2 bi4
 authorSlug: tao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詔條符節古連今，王澤漸濡豈不深。
-- 賦役未行中國法，謳歌猶带遠人音。
-- 採金戶簇青莎岸，射虎兵圍黄葉林。
-- 寄語湖南灘上客，預將忠信待浮沉。
+- 東海舊場屋，南江新塞垣。
+- 璽書行絕域，銅柱入中原。
+- 草暖聞鳴鹿，江清對飲猿。
+- 何時一樽酒，重上謝公軒。
 
 ## 拼音
 
-- zhao4 tiao2 fu2 jie2 gu3 lian2 jin1 ， wang2 ze2 jian4 ru2 qi3 bu4 shen1 。
-- fu4 yi4 wei4 xing2 zhong1 guo2 fa3 ， ou1 ge1 you2 dai4 yuan3 ren2 yin1 。
-- cai3 jin1 hu4 cu4 qing1 sha1 an4 ， she4 hu3 bing1 wei2 huang2 ye4 lin2 。
-- ji4 yu3 hu2 nan2 tan1 shang4 ke4 ， yu4 jiang1 zhong1 xin4 dai4 fu2 chen2 。
+- dong1 hai3 jiu4 chang3 wu1 ， nan2 jiang1 xin1 sai1 yuan2 。
+- xi3 shu1 xing2 jue2 yu4 ， tong2 zhu4 ru4 zhong1 yuan2 。
+- cao3 nuan3 wen2 ming2 lu4 ， jiang1 qing1 dui4 yin3 yuan2 。
+- he2 shi2 yi4 zun1 jiu3 ， chong2 shang4 xie4 gong1 xuan1 。
 
 ## 注释
 

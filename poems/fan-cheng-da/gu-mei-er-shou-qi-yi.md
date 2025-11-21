@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-gu-mei-er-shou-qi-yi
-title: 古梅二首・其一
-titlePinyin: gu3 mei2 er4 shou3・qi2 yi1
+title: 古梅二首  其一
+titlePinyin: gu3 mei2 er4 shou3     qi2 yi1
 titleSlug: gu-mei-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

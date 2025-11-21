@@ -6,25 +6,25 @@ titleSlug: ji-chen-chu-shi
 author: 田錫
 authorPinyin: tian2 xi1
 authorSlug: tian-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 簿書軍吏日相隨，心在諠譁旨趣卑。
-- 明月夜吟無意緒，白雲秋約笑羈縻。
-- 宛陵古寺經遊少，疊嶂名樓眺望遲。
-- 堪重高人陳處士，不來尋訪已多時。
+- 柳闇江亭春正深，黄鶑百囀有餘音。
+- 自慚分判頒條政，誰信常懷易俗心。
+- 吟次落花浮硯水，靜中飛絮滿簾陰。
+- 及瓜即是歸丹闕，莫惜時來一訪尋。
 
 ## 拼音
 
-- bo2 shu1 jun1 li4 ri4 xiang1 sui2 ， xin1 zai4 xuan1 hua2 zhi3 qu4 bei1 。
-- ming2 yue4 ye4 yin2 wu2 yi4 xu4 ， bai2 yun2 qiu1 yue1 xiao4 ji1 mi2 。
-- wan3 ling2 gu3 si4 jing1 you2 shao3 ， die2 zhang4 ming2 lou2 tiao4 wang4 chi2 。
-- kan1 zhong4 gao1 ren2 chen2 chu3 shi4 ， bu4 lai2 xun2 fang3 yi3 duo1 shi2 。
+- liu3 an4 jiang1 ting2 chun1 zheng4 shen1 ， huang2 ying1 bai3 zhuan4 you3 yu2 yin1 。
+- zi4 can2 fen1 pan4 ban1 tiao2 zheng4 ， shui2 xin4 chang2 huai2 yi4 su2 xin1 。
+- yin2 ci4 luo4 hua1 fu2 yan4 shui3 ， jing4 zhong1 fei1 xu4 man3 lian2 yin1 。
+- ji2 gua1 ji2 shi4 gui1 dan1 que4 ， mo4 xi1 shi2 lai2 yi4 fang3 xun2 。
 
 ## 注释
 

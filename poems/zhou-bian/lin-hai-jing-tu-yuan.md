@@ -6,10 +6,10 @@ titleSlug: lin-hai-jing-tu-yuan
 author: 周弁
 authorPinyin: zhou1 bian4
 authorSlug: zhou-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

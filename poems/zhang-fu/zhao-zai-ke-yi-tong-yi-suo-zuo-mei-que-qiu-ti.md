@@ -6,10 +6,10 @@ titleSlug: zhao-zai-ke-yi-tong-yi-suo-zuo-mei-que-qiu-ti
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

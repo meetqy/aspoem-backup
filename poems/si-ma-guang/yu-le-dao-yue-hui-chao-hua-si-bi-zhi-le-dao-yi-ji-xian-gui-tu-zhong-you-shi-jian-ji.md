@@ -6,10 +6,10 @@ titleSlug: yu-le-dao-yue-hui-chao-hua-si-bi-zhi-le-dao-yi-ji-xian-gui-tu-zhong-y
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

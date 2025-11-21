@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-mei-yu-wu-jue-qi-san
-title: 梅雨五絕・其三
-titlePinyin: mei2 yu3 wu3 jue2・qi2 san1
+title: 梅雨五絕  其三
+titlePinyin: mei2 yu3 wu3 jue2     qi2 san1
 titleSlug: mei-yu-wu-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

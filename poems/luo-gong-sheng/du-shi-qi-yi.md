@@ -6,21 +6,25 @@ titleSlug: du-shi-qi-yi
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燕丹餘風被朔野，男女無別身益榮。
-- 誰云乃祖騶虞化，却自鵲巢行露生。
+- 祖龍吞八荒，功名再開闢。
+- 方貪蓬山金，肯信滈池璧。
+- 平生焚椒蘭，死得鮑魚力。
+- 長城空巍巍，千古表漢域。
 
 ## 拼音
 
-- yan4 dan1 yu2 feng1 bei4 shuo4 ye3 ， nan2 nü3 wu2 bie2 shen1 yi4 rong2 。
-- shui2 yun2 nai3 zu3 zou1 yu2 hua4 ， que4 zi4 que4 chao2 xing2 lu4 sheng1 。
+- zu3 long2 tun1 ba1 huang1 ， gong1 ming2 zai4 kai1 pi4 。
+- fang1 tan1 peng2 shan1 jin1 ， ken3 xin4 hao4 chi2 bi4 。
+- ping2 sheng1 fen2 jiao1 lan2 ， si3 de2 bao4 yu2 li4 。
+- chang2 cheng2 kong1 wei1 wei1 ， qian1 gu3 biao3 han4 yu4 。
 
 ## 注释
 

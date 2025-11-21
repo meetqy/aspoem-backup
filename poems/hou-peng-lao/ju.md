@@ -6,10 +6,10 @@ titleSlug: ju
 author: 侯彭老
 authorPinyin: hou2 peng2 lao3
 authorSlug: hou-peng-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

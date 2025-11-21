@@ -6,10 +6,10 @@ titleSlug: yi-tang
 author: 劉祖尹
 authorPinyin: liu2 zu3 yin3
 authorSlug: liu-zu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-su-duan-ming-shu-ru-quan-fu-hou
 author: 王學可
 authorPinyin: wang2 xue2 ke3
 authorSlug: wang-xue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

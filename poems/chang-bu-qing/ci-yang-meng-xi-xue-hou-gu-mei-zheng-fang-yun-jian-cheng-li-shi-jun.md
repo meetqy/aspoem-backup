@@ -6,10 +6,10 @@ titleSlug: ci-yang-meng-xi-xue-hou-gu-mei-zheng-fang-yun-jian-cheng-li-shi-jun
 author: 常不輕
 authorPinyin: chang2 bu4 qing1
 authorSlug: chang-bu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: guo-san-ling-zhu-xi
 author: 釋清豁
 authorPinyin: shi4 qing1 huo1
 authorSlug: shi-qing-huo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

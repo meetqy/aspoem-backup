@@ -6,9 +6,9 @@ titleSlug: cang-lang-ting
 author: 胡珵
 authorPinyin: hu2 cheng2
 authorSlug: hu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

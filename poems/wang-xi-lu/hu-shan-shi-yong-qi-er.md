@@ -6,10 +6,10 @@ titleSlug: hu-shan-shi-yong-qi-er
 author: 王希呂
 authorPinyin: wang2 xi1 lü3
 authorSlug: wang-xi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

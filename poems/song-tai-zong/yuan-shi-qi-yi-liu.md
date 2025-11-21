@@ -6,25 +6,23 @@ titleSlug: yuan-shi-qi-yi-liu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 爲人能省己，就靜亦皆忙。
-- 春去秋來定，年諸日遠長。
-- 英姿終有異，賤品足顛狂。
-- 蠢動含靈性，善生惡自亡。
+- 三春二月一樣同，翠柳峨峨解舞風。
+- 池水湛然經雨後，桃花始覺半開紅。
+- 半開紅，麗天輝，新燕未歸鶑亦飛。
 
 ## 拼音
 
-- wei2 ren2 neng2 sheng3 ji3 ， jiu4 jing4 yi4 jie1 mang2 。
-- chun1 qu4 qiu1 lai2 ding4 ， nian2 zhu1 ri4 yuan3 chang2 。
-- ying1 zi1 zhong1 you3 yi4 ， jian4 pin3 zu2 dian1 kuang2 。
-- chun3 dong4 han2 ling2 xing4 ， shan4 sheng1 e4 zi4 wang2 。
+- san1 chun1 er4 yue4 yi1 yang4 tong2 ， cui4 liu3 e2 e2 jie3 wu3 feng1 。
+- chi2 shui3 zhan4 ran2 jing1 yu3 hou4 ， tao2 hua1 shi3 jue2 ban4 kai1 hong2 。
+- ban4 kai1 hong2 ， li2 tian1 hui1 ， xin1 yan4 wei4 gui1 ying1 yi4 fei1 。
 
 ## 注释
 

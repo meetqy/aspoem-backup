@@ -6,10 +6,10 @@ titleSlug: ye-mei-dou-guan-mu-qi-yi
 author: 滕珂
 authorPinyin: teng2 ke1
 authorSlug: teng-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

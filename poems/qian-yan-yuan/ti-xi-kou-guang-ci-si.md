@@ -6,10 +6,10 @@ titleSlug: ti-xi-kou-guang-ci-si
 author: 錢彥遠
 authorPinyin: qian2 yan4 yuan3
 authorSlug: qian-yan-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

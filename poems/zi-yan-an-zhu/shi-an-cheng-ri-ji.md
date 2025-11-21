@@ -6,10 +6,10 @@ titleSlug: shi-an-cheng-ri-ji
 author: 子言庵主
 authorPinyin: zi3 yan2 an1 zhu3
 authorSlug: zi-yan-an-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,37 +6,25 @@ titleSlug: ji-huang-zi-geng
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 野寺已黄昏，高軒辱過門。
-- 交遊夫豈乏，情義獨能敦。
-- 我已家聲愧，君今風氣存。
-- 一官何未試，多雞亦成屯。
-- 詩本吾家事，經從達者論。
-- 明知有傳受，未易測淵源。
-- 近訪湖邊宅，猶餘漲水痕。
-- 如聞江上郡，欲覓隠居園。
-- 邂逅空題句，飄零難具言。
-- 折梅無以贈，三嗅鬢霜繁。
+- 誰能一枉林間寺，君獨屢過湖上村。
+- 先世文章出遺逸，當家句法有淵源。
+- 平生所識蓋無幾，盛意若何如見存。
+- 元祐蘭臺妙人物，我今寂寞媿諸孫。
 
 ## 拼音
 
-- ye3 si4 yi3 huang2 hun1 ， gao1 xuan1 ru3 guo4 men2 。
-- jiao1 you2 fu1 qi3 fa2 ， qing2 yi4 du2 neng2 dun1 。
-- wo3 yi3 jia1 sheng1 kui4 ， jun1 jin1 feng1 qi4 cun2 。
-- yi4 guan1 he2 wei4 shi4 ， duo1 ji1 yi4 cheng2 tun2 。
-- shi1 ben3 wu2 jia1 shi4 ， jing1 cong2 da2 zhe3 lun4 。
-- ming2 zhi1 you3 chuan2 shou4 ， wei4 yi4 ce4 yuan1 yuan2 。
-- jin4 fang3 hu2 bian1 zhai2 ， you2 yu2 zhang3 shui3 hen2 。
-- ru2 wen2 jiang1 shang4 jun4 ， yu4 mi4 yin3 ju1 yuan2 。
-- xie4 hou4 kong1 ti2 ju4 ， piao1 ling2 nan2 ju4 yan2 。
-- zhe2 mei2 wu2 yi3 zeng4 ， san1 xiu4 bin4 shuang1 fan2 。
+- shui2 neng2 yi4 wang3 lin2 jian4 si4 ， jun1 du2 lü3 guo4 hu2 shang4 cun1 。
+- xian1 shi4 wen2 zhang1 chu1 yi2 yi4 ， dang1 jia1 ju4 fa3 you3 yuan1 yuan2 。
+- ping2 sheng1 suo3 shi2 gai4 wu2 ji1 ， sheng4 yi4 ruo4 he2 ru2 jian4 cun2 。
+- yuan2 you4 lan2 tai2 miao4 ren2 wu4 ， wo3 jin1 ji4 mo4 kui4 zhu1 sun1 。
 
 ## 注释
 

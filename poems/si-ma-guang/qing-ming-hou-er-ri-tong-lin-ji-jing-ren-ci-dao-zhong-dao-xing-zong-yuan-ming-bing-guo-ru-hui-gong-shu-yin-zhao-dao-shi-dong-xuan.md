@@ -6,10 +6,10 @@ titleSlug: qing-ming-hou-er-ri-tong-lin-ji-jing-ren-ci-dao-zhong-dao-xing-zong-y
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

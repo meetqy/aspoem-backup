@@ -1,20 +1,20 @@
 ---
 id: wang-qi-mu-chun-you-xiao-yuan
-title: 暮春游小園
+title: 暮春遊小園
 titlePinyin: mu4 chun1 you2 xiao3 yuan2
 titleSlug: mu-chun-you-xiao-yuan
-author: 王琪
+author: 王淇
 authorPinyin: wang2 qi2
 authorSlug: wang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 一叢梅粉褪殘妝，塗抹新紅上海棠。
+- 一從梅粉褪殘粧，涂抹新紅上海棠。
 - 開到荼䕷花事了，絲絲天棘出莓牆。
 
 ## 拼音

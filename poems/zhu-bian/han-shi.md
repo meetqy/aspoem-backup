@@ -6,25 +6,25 @@ titleSlug: han-shi
 author: 朱弁
 authorPinyin: zhu1 bian4
 authorSlug: zhu-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 絕域年華久，衰顔淚點新。
-- 毎逢寒食節，頻夢故郷春。
-- 草緑唯供恨，花紅只笑人。
-- 南轅定何日，無地不風塵。
+- 清明六到客愁邊，雙鬢星星只自憐。
+- 兵氣尚纒巢鳳閣，節旄巳落牧羊天。
+- 紙錢灰入松楸夢，餳粥香隨榆柳煙。
+- 北向鴈來寒霧隔，音書不比上林傳。
 
 ## 拼音
 
-- jue2 yu4 nian2 hua2 jiu3 ， shuai1 yan2 lei4 dian3 xin1 。
-- mei3 feng2 han2 shi2 jie2 ， bin1 meng4 gu4 xiang1 chun1 。
-- cao3 lü4 wei2 gong4 hen4 ， hua1 hong2 zhi1 xiao4 ren2 。
-- nan2 yuan2 ding4 he2 ri4 ， wu2 di4 bu4 feng1 chen2 。
+- qing1 ming2 liu4 dao4 ke4 chou2 bian1 ， shuang1 bin4 xing1 xing0 zhi1 zi4 lian2 。
+- bing1 qi4 shang4 chan2 chao2 feng4 ge2 ， jie2 mao2 si4 luo4 mu4 yang2 tian1 。
+- zhi3 qian2 hui1 ru4 song1 qiu1 meng4 ， xing2 zhou1 xiang1 sui2 yu2 liu3 yan1 。
+- bei3 xiang4 yan4 lai2 han2 wu4 ge2 ， yin1 shu1 bu4 bi3 shang4 lin2 chuan2 。
 
 ## 注释
 

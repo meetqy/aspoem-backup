@@ -1,26 +1,26 @@
 ---
 id: zhou-duan-chen-gu-duan-chang-qu-san-shi-shou-qi-er
-title: 古斷腸曲三十首  其二
-titlePinyin: gu3 duan4 chang2 qu3 san1 shi2 shou3     qi2 er4
+title: 古斷腸曲三十首  其二○
+titlePinyin: gu3 duan4 chang2 qu3 san1 shi2 shou3     qi2 er4 ○
 titleSlug: gu-duan-chang-qu-san-shi-shou-qi-er
 author: 周端臣
 authorPinyin: zhou1 duan1 chen2
 authorSlug: zhou-duan-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 催花一霎雨依微，芳逕泥香草色萋。
-- 可是一春天氣冷，牡丹開了未鶑啼。
+- 玉纖無力怯梳頭，鏡裏容顔見自羞。
+- 一陣落紅簾外雨，十分春是十分愁。
 
 ## 拼音
 
-- cui1 hua1 yi2 sha4 yu3 yi1 wei1 ， fang1 jing4 ni2 xiang1 cao3 se4 qi1 。
-- ke3 shi4 yi4 chun1 tian1 qi4 leng3 ， mu3 dan1 kai1 le0 wei4 ying1 ti2 。
+- yu4 xian1 wu2 li4 qie4 shu1 tou2 ， jing4 li3 rong2 yan2 jian4 zi4 xiu1 。
+- yi2 zhen4 luo4 hong2 lian2 wai4 yu3 ， shi2 fen1 chun1 shi4 shi2 fen1 chou2 。
 
 ## 注释
 

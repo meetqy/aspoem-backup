@@ -9,22 +9,22 @@ authorSlug: chu-liang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 萬方資以化，交泰屬昇平。
-- 易從業惟簡，得一道斯寧。
-- 具儀光玉帛，送舞變咸英。
-- 黍稷良非貴，明德信惟馨。
+- 陰祇協贊，厚載方貞。
+- 牲幣具舉，簫管備成。
+- 其禮惟肅，其德惟明。
+- 神之聽矣，式鑒虔誠。
 
 ## 拼音
 
-- wan4 fang1 zi1 yi3 hua4 ， jiao1 tai4 shu3 sheng1 ping2 。
-- yi4 cong2 ye4 wei2 jian3 ， de2 yi2 dao4 si1 ning2 。
-- ju4 yi2 guang1 yu4 bo2 ， song4 wu3 bian4 xian2 ying1 。
-- shu3 ji4 liang2 fei1 gui4 ， ming2 de2 xin4 wei2 xin1 。
+- yin1 qi2 xie2 zan4 ， hou4 zai4 fang1 zhen1 。
+- sheng1 bi4 ju4 ju3 ， xiao1 guan3 bei4 cheng2 。
+- qi2 li3 wei2 su4 ， qi2 de2 wei2 ming2 。
+- shen2 zhi1 ting1 yi3 ， shi4 jian4 qian2 cheng2 。
 
 ## 注释
 

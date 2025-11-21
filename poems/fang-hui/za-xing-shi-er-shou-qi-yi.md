@@ -1,36 +1,38 @@
 ---
 id: fang-hui-za-xing-shi-er-shou-qi-yi
-title: 雜興十二首  其一
-titlePinyin: za2 xing1 shi2 er4 shou3     qi2 yi1
+title: 雜興十二首  其一○
+titlePinyin: za2 xing1 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: za-xing-shi-er-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生世六六載，始獲玷末科。
-- 選官六六載，仕少閒日多。
-- 逆旅脫兵火，專城免干戈。
-- 中原久隔絕，忽焉得經過。
-- 水涸梁山泊，淮流受黄河。
-- 往者故已矣，方來將若何。
-- 開歲七十一，聊擬自挽歌。
+- 勢位高於己，諂子奴事之。
+- 虎後狐前行，假威將誰欺。
+- 才藝卑於己，苟且相追隨。
+- 庶幾不見軏，延譽借諛辭。
+- 老夫久擇交，此心故異茲。
+- 勿攀勢位高，毋友才藝卑。
+- 章惇招不往，豐谷以爲師。
+- 彭城陳正字，貽我有良規。
 
 ## 拼音
 
-- sheng1 shi4 liu4 liu4 zai4 ， shi3 huo4 dian4 mo4 ke1 。
-- xuan3 guan1 liu4 liu4 zai4 ， shi4 shao3 xian2 ri4 duo1 。
-- ni4 lü3 tuo1 bing1 huo3 ， zhuan1 cheng2 mian3 gan1 ge1 。
-- zhong1 yuan2 jiu3 ge2 jue2 ， hu1 yan1 de2 jing1 guo4 。
-- shui3 he2 liang2 shan1 po1 ， huai2 liu2 shou4 huang2 he2 。
-- wang3 zhe3 gu4 yi3 yi3 ， fang1 lai2 jiang1 ruo4 he2 。
-- kai1 sui4 qi1 shi2 yi1 ， liao2 ni3 zi4 wan3 ge1 。
+- shi4 wei4 gao1 wu1 ji3 ， chan3 zi3 nu2 shi4 zhi1 。
+- hu3 hou4 hu2 qian2 xing2 ， jia3 wei1 jiang1 shui2 qi1 。
+- cai2 yi4 bei1 wu1 ji3 ， gou3 qie3 xiang1 zhui1 sui2 。
+- shu4 ji1 bu2 jian4 yue4 ， yan2 yu4 jie4 yu2 ci2 。
+- lao3 fu1 jiu3 ze2 jiao1 ， ci3 xin1 gu4 yi4 zi1 。
+- wu4 pan1 shi4 wei4 gao1 ， wu2 you3 cai2 yi4 bei1 。
+- zhang1 dun1 zhao1 bu4 wang3 ， feng1 gu3 yi3 wei2 shi1 。
+- peng2 cheng2 chen2 zheng4 zi4 ， yi2 wo3 you3 liang2 gui1 。
 
 ## 注释
 

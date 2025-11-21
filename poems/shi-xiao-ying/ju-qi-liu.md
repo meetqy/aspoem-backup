@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-liu
-title: 句  其六
-titlePinyin: ju4     qi2 liu4
+title: 句  其六○
+titlePinyin: ju4     qi2 liu4 ○
 titleSlug: ju-qi-liu
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 攜朋上故基。
+- 稍稍竹過墻。
 
 ## 拼音
 
-- xie2 peng2 shang4 gu4 ji1 。
+- shao1 shao1 zhu2 guo4 qiang2 。
 
 ## 注释
 

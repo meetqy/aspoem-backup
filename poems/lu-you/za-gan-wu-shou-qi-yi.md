@@ -6,21 +6,25 @@ titleSlug: za-gan-wu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自古文章與命仇，功名身外更悠悠。
-- 一從識得元無事，窮死逢人不說愁。
+- 孔欲居九夷，老亦適流沙。
+- 忠信之所覃，豈間夷與華。
+- 况我州閭間，相視等一家。
+- 老稚各自力，勉蹈思無邪。
 
 ## 拼音
 
-- zi4 gu3 wen2 zhang1 yu3 ming4 chou2 ， gong1 ming2 shen1 wai4 geng4 you1 you1 。
-- yi4 cong2 shi2 de2 yuan2 wu2 shi4 ， qiong2 si3 feng2 ren2 bu4 shuo1 chou2 。
+- kong3 yu4 ju1 jiu3 yi2 ， lao3 yi4 shi4 liu2 sha1 。
+- zhong1 xin4 zhi1 suo3 qin2 ， qi3 jian4 yi2 yu3 hua2 。
+- kuang4 wo3 zhou1 lü2 jian4 ， xiang1 shi4 deng3 yi4 jia1 。
+- lao3 zhi4 ge4 zi4 li4 ， mian3 dao3 si1 wu2 xie2 。
 
 ## 注释
 

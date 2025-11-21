@@ -6,10 +6,10 @@ titleSlug: he-zhao-si-hu-xun-mei-tong-yuan-an-qi-er
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

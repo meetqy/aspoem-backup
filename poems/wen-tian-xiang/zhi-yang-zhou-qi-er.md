@@ -1,26 +1,26 @@
 ---
 id: wen-tian-xiang-zhi-yang-zhou-qi-er
-title: 至揚州  其二
-titlePinyin: zhi4 yang2 zhou1     qi2 er4
+title: 至揚州  其二○
+titlePinyin: zhi4 yang2 zhou1     qi2 er4 ○
 titleSlug: zhi-yang-zhou-qi-er
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 譙鼓鼕鼕入四更，行行三五入西城。
-- 隔壕喝問無人應，怕恐人來捉眼生。
+- 樵夫偏念客途長，肯向城中爲裹糧。
+- 曉指高沙移處泊，司徒廟下賈家莊。
 
 ## 拼音
 
-- qiao2 gu3 dong1 dong1 ru4 si4 geng1 ， hang2 hang2 san1 wu3 ru4 xi1 cheng2 。
-- ge2 hao2 he1 wen4 wu2 ren2 ying1 ， pa4 kong3 ren2 lai2 zhuo1 yan3 sheng1 。
+- qiao2 fu1 pian1 nian4 ke4 tu2 chang2 ， ken3 xiang4 cheng2 zhong1 wei2 guo3 liang2 。
+- xiao3 zhi3 gao1 sha1 yi2 chu3 bo2 ， si1 tu2 miao4 xia4 jia3 jia1 zhuang1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yang-liu-zhi
 author: 王惲
 authorPinyin: wang2 yun4
 authorSlug: wang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

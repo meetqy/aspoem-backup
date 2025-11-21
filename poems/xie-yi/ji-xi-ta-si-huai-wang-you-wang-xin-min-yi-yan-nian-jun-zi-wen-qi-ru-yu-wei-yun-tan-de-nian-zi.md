@@ -6,10 +6,10 @@ titleSlug: ji-xi-ta-si-huai-wang-you-wang-xin-min-yi-yan-nian-jun-zi-wen-qi-ru-y
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

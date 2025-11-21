@@ -1,26 +1,26 @@
 ---
 id: shao-yong-ti-huai-yin-hou-miao-shi-shou-qi-yi
-title: 題淮陰侯廟十首  其一
-titlePinyin: ti2 huai2 yin1 hou2 miao4 shi2 shou3     qi2 yi1
+title: 題淮陰侯廟十首  其一○
+titlePinyin: ti2 huai2 yin1 hou2 miao4 shi2 shou3     qi2 yi1 ○
 titleSlug: ti-huai-yin-hou-miao-shi-shou-qi-yi
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一身作亂宜從戮，三族全夷似少恩。
-- 漢道是時初雜霸，蕭何王佐殆非尊。
+- 若履暴榮須暴辱，既經多喜必多憂。
+- 功成能讓封王印，世世長爲列土侯。
 
 ## 拼音
 
-- yi4 shen1 zuo4 luan4 yi2 cong2 lu4 ， san1 zu2 quan2 yi2 si4 shao3 en1 。
-- han4 dao4 shi4 shi2 chu1 za2 ba4 ， xiao1 he2 wang2 zuo3 dai4 fei1 zun1 。
+- ruo4 lü3 bao4 rong2 xu1 bao4 ru3 ， ji4 jing1 duo1 xi3 bi4 duo1 you1 。
+- gong1 cheng2 neng2 rang4 feng1 wang2 yin4 ， shi4 shi4 chang2 wei2 lie4 tu3 hou2 。
 
 ## 注释
 

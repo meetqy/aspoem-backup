@@ -6,10 +6,10 @@ titleSlug: yu-ke-jiu-ri-you-long-shan-yi-chen-shi-nan-feng-kai-kou-xiao-fen-yun-
 author: 劉汝進
 authorPinyin: liu2 ru3 jin4
 authorSlug: liu-ru-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

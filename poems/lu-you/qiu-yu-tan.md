@@ -6,33 +6,33 @@ titleSlug: qiu-yu-tan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 點點滴滴雨到明，悽悽惻惻夢不成。
-- 窗間殘燈暗欲滅，匣中孤劍鏗有聲。
-- 少年讀書忽頭白，一字不試空虚名。
-- 公車自薦心實恥，新豐獨飲人所驚。
-- 太行千仞插雲立，黄流萬里從天傾。
-- 遺民久憤世多故，孱冦何足煩長纓。
-- 霜風初高鷹隼擊，天河下洗烟塵清。
-- 投筆急裝須快士，令人絕憶獨孤生。
+- 淙淙雨聲瀉高秋，稻粱浸瀾雨不休。
+- 志士仁人萬行泪，孤臣孽子無窮憂。
+- 一身窮困未暇恤，如此無事理有不。
+- 聖言古訓舉不驗，簡編可用汗馬牛。
+- 嗚呼有粟吾得食，夜睡何時得安席。
+- 我生猶及宣和年，建炎以來身所歷。
+- 高皇一言感天地，盜賊千群掃無迹。
+- 疽囊雖慘固可醫，誰爲聖代施鍼石。
 
 ## 拼音
 
-- dian3 dian3 di1 di1 yu3 dao4 ming2 ， qi1 qi1 ce4 ce4 meng4 bu4 cheng2 。
-- chuang1 jian4 can2 deng1 an4 yu4 mie4 ， xia2 zhong1 gu1 jian4 keng1 you3 sheng1 。
-- shao4 nian2 du2 shu1 hu1 tou2 bai2 ， yi2 zi4 bu2 shi4 kong1 xu1 ming2 。
-- gong1 ju1 zi4 jian4 xin1 shi2 chi3 ， xin1 feng1 du2 yin3 ren2 suo3 jing1 。
-- tai4 hang2 qian1 ren4 cha1 yun2 li4 ， huang2 liu2 wan4 li3 cong2 tian1 qing1 。
-- yi2 min2 jiu3 fen4 shi4 duo1 gu4 ， chan2 kou4 he2 zu2 fan2 chang2 ying1 。
-- shuang1 feng1 chu1 gao1 ying1 sun3 ji1 ， tian1 he2 xia4 xi3 yan1 chen2 qing1 。
-- tou2 bi3 ji2 zhuang1 xu1 kuai4 shi4 ， ling4 ren2 jue2 yi4 du2 gu1 sheng1 。
+- cong2 cong2 yu3 sheng1 xie4 gao1 qiu1 ， dao4 liang2 jin4 lan2 yu3 bu4 xiu1 。
+- zhi4 shi4 ren2 ren2 wan4 xing2 lei4 ， gu1 chen2 nie4 zi3 wu2 qiong2 you1 。
+- yi4 shen1 qiong2 kun4 wei4 xia2 xu4 ， ru2 ci3 wu2 shi4 li3 you3 bu4 。
+- sheng4 yan2 gu3 xun4 ju3 bu2 yan4 ， jian3 bian1 ke3 yong4 han4 ma3 niu2 。
+- wu1 hu1 you3 su4 wu2 de2 shi2 ， ye4 shui4 he2 shi2 de2 an1 xi2 。
+- wo3 sheng1 you2 ji2 xuan1 he2 nian2 ， jian4 yan2 yi3 lai2 shen1 suo3 li4 。
+- gao1 huang2 yi4 yan2 gan3 tian1 di4 ， dao4 zei2 qian1 qun2 sao3 wu2 ji4 。
+- ju1 nang2 sui1 can3 gu4 ke3 yi1 ， shui2 wei2 sheng4 dai4 shi1 zhen1 shi2 。
 
 ## 注释
 

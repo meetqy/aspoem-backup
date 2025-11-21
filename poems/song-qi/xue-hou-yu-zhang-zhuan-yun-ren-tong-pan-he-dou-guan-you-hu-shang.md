@@ -6,10 +6,10 @@ titleSlug: xue-hou-yu-zhang-zhuan-yun-ren-tong-pan-he-dou-guan-you-hu-shang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

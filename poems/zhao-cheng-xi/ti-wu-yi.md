@@ -6,10 +6,10 @@ titleSlug: ti-wu-yi
 author: 趙承禧
 authorPinyin: zhao4 cheng2 xi3
 authorSlug: zhao-cheng-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

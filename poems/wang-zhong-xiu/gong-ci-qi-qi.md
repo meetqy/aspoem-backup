@@ -1,26 +1,26 @@
 ---
 id: wang-zhong-xiu-gong-ci-qi-qi
-title: 宮詞  其七
-titlePinyin: gong1 ci2     qi2 qi1
+title: 宮詞  其七○
+titlePinyin: gong1 ci2     qi2 qi1 ○
 titleSlug: gong-ci-qi-qi
 author: 王仲修
 authorPinyin: wang2 zhong4 xiu1
 authorSlug: wang-zhong-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冒臘交春日向遲，雪殘鳷鵲已多時。
-- 宮桃紅小勻丹臉，御柳黄深展翠眉。
+- 宰臣出省午漏下，衛士交番未刻深。
+- 續報六宮無事後，龍墀初月夜沉沉。
 
 ## 拼音
 
-- mao4 la4 jiao1 chun1 ri4 xiang4 chi2 ， xue3 can2 zhi1 que4 yi3 duo1 shi2 。
-- gong1 tao2 hong2 xiao3 yun2 dan1 lian3 ， yu4 liu3 huang2 shen1 zhan3 cui4 mei2 。
+- zai3 chen2 chu1 sheng3 wu3 lou4 xia4 ， wei4 shi4 jiao1 fan1 wei4 ke4 shen1 。
+- xu4 bao4 liu4 gong1 wu2 shi4 hou4 ， long2 chi2 chu1 yue4 ye4 chen2 chen2 。
 
 ## 注释
 

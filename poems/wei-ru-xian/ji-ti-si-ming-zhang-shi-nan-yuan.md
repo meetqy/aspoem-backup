@@ -6,10 +6,10 @@ titleSlug: ji-ti-si-ming-zhang-shi-nan-yuan
 author: 魏汝賢
 authorPinyin: wei4 ru3 xian2
 authorSlug: wei-ru-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

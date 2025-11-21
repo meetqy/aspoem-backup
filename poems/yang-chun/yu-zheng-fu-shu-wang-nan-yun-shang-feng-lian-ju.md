@@ -6,10 +6,10 @@ titleSlug: yu-zheng-fu-shu-wang-nan-yun-shang-feng-lian-ju
 author: 陽醇
 authorPinyin: yang2 chun2
 authorSlug: yang-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

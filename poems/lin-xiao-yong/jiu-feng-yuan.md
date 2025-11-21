@@ -6,10 +6,10 @@ titleSlug: jiu-feng-yuan
 author: 林孝雍
 authorPinyin: lin2 xiao4 yong1
 authorSlug: lin-xiao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

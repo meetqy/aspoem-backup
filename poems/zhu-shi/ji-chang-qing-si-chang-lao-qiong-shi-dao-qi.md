@@ -6,10 +6,10 @@ titleSlug: ji-chang-qing-si-chang-lao-qiong-shi-dao-qi
 author: 朱詩
 authorPinyin: zhu1 shi1
 authorSlug: zhu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

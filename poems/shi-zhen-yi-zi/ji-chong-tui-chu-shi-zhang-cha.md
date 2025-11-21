@@ -6,10 +6,10 @@ titleSlug: ji-chong-tui-chu-shi-zhang-cha
 author: 釋真一子
 authorPinyin: shi4 zhen1 yi4 zi3
 authorSlug: shi-zhen-yi-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

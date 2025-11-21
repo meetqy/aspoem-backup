@@ -6,10 +6,10 @@ titleSlug: shu-shan-jing-si-ji-cui-tang-shi-tang-zhong-lao-ren-lin-jing-shan-shi
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

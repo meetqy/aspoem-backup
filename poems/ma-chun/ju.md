@@ -6,10 +6,10 @@ titleSlug: ju
 author: 馬純
 authorPinyin: ma3 chun2
 authorSlug: ma-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

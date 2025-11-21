@@ -6,25 +6,21 @@ titleSlug: qiu-yu-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陋巷柴門揜寂寥，一窗風雨晚蕭蕭。
-- 清秋漸冷尤宜懶，閒日苦長無處消。
-- 烏几青筇扶病弱，素琴黄卷伴逍遙。
-- 交朋南北音書隔，雖有芳樽誰可招。
+- 離披衰柳已無蟬，黄葉閉門風雨天。
+- 陶令無錢難得醉，竹窗過午枕書眠。
 
 ## 拼音
 
-- lou4 xiang4 chai2 men2 yan3 ji4 liao2 ， yi4 chuang1 feng1 yu3 wan3 xiao1 xiao1 。
-- qing1 qiu1 jian4 leng3 you2 yi2 lan3 ， xian2 ri4 ku3 chang2 wu2 chu3 xiao1 。
-- wu1 ji3 qing1 qiong2 fu2 bing4 ruo4 ， su4 qin2 huang2 juan4 ban4 xiao1 yao2 。
-- jiao1 peng2 nan2 bei3 yin1 shu1 ge2 ， sui1 you3 fang1 zun1 shui2 ke3 zhao1 。
+- li2 pi1 shuai1 liu3 yi3 wu2 chan2 ， huang2 ye4 bi4 men2 feng1 yu3 tian1 。
+- tao2 ling4 wu2 qian2 nan2 de2 zui4 ， zhu2 chuang1 guo4 wu3 zhen3 shu1 mian2 。
 
 ## 注释
 

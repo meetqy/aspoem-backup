@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 富貴功名繭一盆，繰車頭緒正紛紛。
-- 肯尋冷淡做生活，定是著書揚子雲。
+- 花氣薰人欲破禪，心情其實過中年。
+- 春來詩思何所似，八節灘頭上水船。
 
 ## 拼音
 
-- fu4 gui4 gong1 ming2 jian3 yi4 pen2 ， qiao1 ju1 tou2 xu4 zheng4 fen1 fen1 。
-- ken3 xun2 leng3 dan4 zuo4 sheng1 huo2 ， ding4 shi4 zhu4 shu1 yang2 zi3 yun2 。
+- hua1 qi4 xun1 ren2 yu4 po4 shan4 ， xin1 qing2 qi2 shi2 guo4 zhong1 nian2 。
+- chun1 lai2 shi1 si1 he2 suo3 si4 ， ba1 jie2 tan1 tou2 shang4 shui3 chuan2 。
 
 ## 注释
 

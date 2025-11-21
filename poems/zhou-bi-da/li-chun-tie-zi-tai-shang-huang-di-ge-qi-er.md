@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-er
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溥博參洪造，希夷法自然。
-- 鴻名稱盛禮，玉冊趁新年。
+- 殿閣無爲日，朝廷有道時。
+- 椒浮重醖酒，花發萬年枝。
 
 ## 拼音
 
-- pu3 bo2 can1 hong2 zao4 ， xi1 yi2 fa3 zi4 ran2 。
-- hong2 ming2 cheng1 sheng4 li3 ， yu4 ce4 chen4 xin1 nian2 。
+- dian4 ge2 wu2 wei2 ri4 ， chao2 ting2 you3 dao4 shi2 。
+- jiao1 fu2 zhong4 yun4 jiu3 ， hua1 fa1 wan4 nian2 zhi1 。
 
 ## 注释
 

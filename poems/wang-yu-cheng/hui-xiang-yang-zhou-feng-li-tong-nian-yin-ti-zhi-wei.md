@@ -6,10 +6,10 @@ titleSlug: hui-xiang-yang-zhou-feng-li-tong-nian-yin-ti-zhi-wei
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

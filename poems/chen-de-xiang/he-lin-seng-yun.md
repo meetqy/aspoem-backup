@@ -6,10 +6,10 @@ titleSlug: he-lin-seng-yun
 author: 陳德翔
 authorPinyin: chen2 de2 xiang2
 authorSlug: chen-de-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

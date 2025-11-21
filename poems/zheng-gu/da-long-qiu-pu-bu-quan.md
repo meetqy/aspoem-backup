@@ -6,10 +6,10 @@ titleSlug: da-long-qiu-pu-bu-quan
 author: 鄭轂
 authorPinyin: zheng4 gu3
 authorSlug: zheng-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

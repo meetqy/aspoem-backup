@@ -6,21 +6,21 @@ titleSlug: shu-bi
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 佳木交穉綠，小閣掩春深。
-- 唯有山西叟，相看識此心。
+- 愛山日凭西樓角，聽雨長來破寺中。
+- 可恨無人同此味，繞簷疏竹鳥呼風。
 
 ## 拼音
 
-- jia1 mu4 jiao1 zhi4 lü4 ， xiao3 ge2 yan3 chun1 shen1 。
-- wei2 you3 shan1 xi1 sou3 ， xiang1 kan4 shi2 ci3 xin1 。
+- ai4 shan1 ri4 ping2 xi1 lou2 jiao3 ， ting1 yu3 chang2 lai2 po4 si4 zhong1 。
+- ke3 hen4 wu2 ren2 tong2 ci3 wei4 ， rao4 yan2 shu1 zhu2 niao3 hu1 feng1 。
 
 ## 注释
 

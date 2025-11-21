@@ -6,21 +6,21 @@ titleSlug: tian-fu-yin-wu-shou-qi-wu
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 逢逢社鼓佐豐年，酒熟那逢釀雪天。
-- 擘橘煮雞償一醉，布衾烘暖抱孫眠。
+- 往來雞酒樂村村，一稔難忘大造恩。
+- 糶穀可酬婚嫁願，今年好事屬柴門。
 
 ## 拼音
 
-- feng2 feng2 she4 gu3 zuo3 feng1 nian2 ， jiu3 shu2 na4 feng2 niang4 xue3 tian1 。
-- bo4 ju2 zhu3 ji1 chang2 yi2 zui4 ， bu4 qin1 hong1 nuan3 bao4 sun1 mian2 。
+- wang3 lai2 ji1 jiu3 le4 cun1 cun1 ， yi4 ren3 nan2 wang4 da4 zao4 en1 。
+- tiao4 gu3 ke3 chou2 hun1 jia4 yuan4 ， jin1 nian2 hao3 shi4 shu3 chai2 men2 。
 
 ## 注释
 

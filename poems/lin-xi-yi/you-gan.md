@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少日因貧强覓官，于今悔擲釣魚竿。
-- 宮袍豈似陀尼暖，廐馬何如款段安。
-- 準易莫教玄尚白，奏篇還要炳於丹。
-- 得歸須謁嚴陵去，夢已先經七里灘。
+- 人間分有高卑在，世界嗟如缺減何。
+- 楚客騷吟小司命，杜翁詩誚寡嫦娥。
+- 拙知尊爵非吾有，貧爲鰥居失助多。
+- 獨坐蒲團守書卷，長年恰似病維摩。
 
 ## 拼音
 
-- shao3 ri4 yin1 pin2 qiang2 mi4 guan1 ， yu2 jin1 hui3 zhi4 diao4 yu2 gan1 。
-- gong1 pao2 qi3 si4 tuo2 ni2 nuan3 ， jiu4 ma3 he2 ru2 kuan3 duan4 an1 。
-- zhun3 yi4 mo4 jiao4 xuan2 shang4 bai2 ， zou4 pian1 huan2 yao4 bing3 wu1 dan1 。
-- de2 gui1 xu1 ye4 yan2 ling2 qu4 ， meng4 yi3 xian1 jing1 qi1 li3 tan1 。
+- ren2 jian4 fen1 you3 gao1 bei1 zai4 ， shi4 jie4 jie1 ru2 que1 jian3 he2 。
+- chu3 ke4 sao1 yin2 xiao3 si1 ming4 ， du4 weng1 shi1 qiao4 gua3 chang2 e2 。
+- zhuo1 zhi1 zun1 jue2 fei1 wu2 you3 ， pin2 wei2 guan1 ju1 shi1 zhu4 duo1 。
+- du2 zuo4 pu2 tuan2 shou3 shu1 juan4 ， chang2 nian2 qia4 si4 bing4 wei2 mo2 。
 
 ## 注释
 

@@ -9,22 +9,22 @@ authorSlug: zhang-shuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 撫劒空餘勇，彎弧遂無力。
-- 老去事如何，據鞍長歎息。
-- 故交索將盡，後進稀相識。
-- 獨憐半死心，尚有寒松直。
+- 去年六月西河西，今年六月北河北。
+- 沙場磧路何爲爾，重氣輕生知許國。
+- 人生在世能幾時，壯年征戰髪如絲。
+- 會待安邊報明主，作頌封山也未遲。
 
 ## 拼音
 
-- fu3 jian4 kong1 yu2 yong3 ， wan1 hu2 sui4 wu2 li4 。
-- lao3 qu4 shi4 ru2 he2 ， ju4 an1 chang2 tan4 xi1 。
-- gu4 jiao1 suo3 jiang1 jin4 ， hou4 jin4 xi1 xiang1 shi2 。
-- du2 lian2 ban4 si3 xin1 ， shang4 you3 han2 song1 zhi2 。
+- qu4 nian2 liu4 yue4 xi1 he2 xi1 ， jin1 nian2 liu4 yue4 bei3 he2 bei3 。
+- sha1 chang3 qi4 lu4 he2 wei2 er3 ， zhong4 qi4 qing1 sheng1 zhi1 xu1 guo2 。
+- ren2 sheng1 zai4 shi4 neng2 ji1 shi2 ， zhuang4 nian2 zheng1 zhan4 fa4 ru2 si1 。
+- hui4 dai4 an1 bian1 bao4 ming2 zhu3 ， zuo4 song4 feng1 shan1 ye3 wei4 chi2 。
 
 ## 注释
 

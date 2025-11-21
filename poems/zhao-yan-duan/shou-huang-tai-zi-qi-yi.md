@@ -6,21 +6,21 @@ titleSlug: shou-huang-tai-zi-qi-yi
 author: 趙彥端
 authorPinyin: zhao4 yan4 duan1
 authorSlug: zhao-yan-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日日龍樓問寢時，雞人未動漏花遲。
-- 前星一點朝天節，只有清臺太史知。
+- 清賞堂中無管弦，鳳山樓上有雲烟。
+- 儲皇側畔何人侍，黄卷團欒是聖賢。
 
 ## 拼音
 
-- ri4 ri4 long2 lou2 wen4 qin3 shi2 ， ji1 ren2 wei4 dong4 lou4 hua1 chi2 。
-- qian2 xing1 yi4 dian3 chao2 tian1 jie2 ， zhi3 you3 qing1 tai2 tai4 shi3 zhi1 。
+- qing1 shang3 tang2 zhong1 wu2 guan3 xian2 ， feng4 shan1 lou2 shang4 you3 yun2 yan1 。
+- chu3 huang2 ce4 pan4 he2 ren2 shi4 ， huang2 juan4 tuan2 luan2 shi4 sheng4 xian2 。
 
 ## 注释
 

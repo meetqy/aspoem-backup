@@ -6,10 +6,10 @@ titleSlug: liang-ri-bu-jian-zai-bo-feng-yu-zhong-you-huai-yin-yi-jian-zhi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

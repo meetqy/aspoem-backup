@@ -6,10 +6,10 @@ titleSlug: tian-tong-de-da-shi-huo-hou-zhuang-wu-bai-luo-han-hua-wu-shi-san-can-
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

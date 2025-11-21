@@ -6,10 +6,10 @@ titleSlug: ci-xiu-ye-fan-cang-bo-guan-zhi-chi-shi-guan-yi-zao-dao-yun
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

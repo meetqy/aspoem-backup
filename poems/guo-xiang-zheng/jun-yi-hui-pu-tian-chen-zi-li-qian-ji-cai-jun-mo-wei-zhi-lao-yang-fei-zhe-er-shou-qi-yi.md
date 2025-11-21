@@ -6,10 +6,10 @@ titleSlug: jun-yi-hui-pu-tian-chen-zi-li-qian-ji-cai-jun-mo-wei-zhi-lao-yang-fei
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

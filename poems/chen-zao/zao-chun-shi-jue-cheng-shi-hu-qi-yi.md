@@ -1,26 +1,26 @@
 ---
 id: chen-zao-zao-chun-shi-jue-cheng-shi-hu-qi-yi
-title: 早春十絕呈石湖  其一
-titlePinyin: zao3 chun1 shi2 jue2 cheng2 shi2 hu2     qi2 yi1
+title: 早春十絕呈石湖  其一○
+titlePinyin: zao3 chun1 shi2 jue2 cheng2 shi2 hu2     qi2 yi1 ○
 titleSlug: zao-chun-shi-jue-cheng-shi-hu-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不是風寒即雨寒，朝來春意破天慳。
-- 怪君未解春皇意，恐把韶華付等閑。
+- 館娃宮外趁遊人，不見湖山自在春。
+- 聞道石湖清絕處，芳時不著綺羅塵。
 
 ## 拼音
 
-- bu2 shi4 feng1 han2 ji2 yu3 han2 ， chao2 lai2 chun1 yi4 po4 tian1 qian1 。
-- guai4 jun1 wei4 jie3 chun1 huang2 yi4 ， kong3 ba3 shao2 hua2 fu4 deng3 xian2 。
+- guan3 wa2 gong1 wai4 chen4 you2 ren2 ， bu2 jian4 hu2 shan1 zi4 zai4 chun1 。
+- wen2 dao4 shi2 hu2 qing1 jue2 chu3 ， fang1 shi2 bu2 zhu4 qi3 luo2 chen2 。
 
 ## 注释
 

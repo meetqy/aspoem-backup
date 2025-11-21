@@ -1,26 +1,28 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-ba
-title: 偈頌一百六十九首  其一八
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 ba1
+title: 偈頌一百六十九首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-ba
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胞胎才出播殃塵，直至如今毒害人。
-- 一杓蘭湯無限恨，腕頭何止重千斤。
+- 無用之用，其用甚大。
+- 無功之功，其功甚博。
+- 自然如龍得水，似虎靠山，壺中春色異人間。
 
 ## 拼音
 
-- bao1 tai1 cai2 chu1 bo1 yang1 chen2 ， zhi2 zhi4 ru2 jin1 du2 hai4 ren2 。
-- yi4 shao2 lan2 tang1 wu2 xian4 hen4 ， wan4 tou2 he2 zhi3 zhong4 qian1 jin1 。
+- wu2 yong4 zhi1 yong4 ， qi2 yong4 shen4 da4 。
+- wu2 gong1 zhi1 gong1 ， qi2 gong1 shen4 bo2 。
+- zi4 ran2 ru2 long2 de2 shui3 ， si4 hu3 kao4 shan1 ， hu2 zhong1 chun1 se4 yi4 ren2 jian4 。
 
 ## 注释
 

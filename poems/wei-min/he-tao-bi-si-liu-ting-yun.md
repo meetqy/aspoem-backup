@@ -6,10 +6,10 @@ titleSlug: he-tao-bi-si-liu-ting-yun
 author: 韋旻
 authorPinyin: wei2 min2
 authorSlug: wei-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

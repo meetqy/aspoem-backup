@@ -1,26 +1,26 @@
 ---
 id: mao-xu-wu-men-tian-jia-shi-yong-qi-yi
-title: 吳門田家十詠  其一
-titlePinyin: wu2 men2 tian2 jia1 shi2 yong3     qi2 yi1
+title: 吳門田家十詠  其一○
+titlePinyin: wu2 men2 tian2 jia1 shi2 yong3     qi2 yi1 ○
 titleSlug: wu-men-tian-jia-shi-yong-qi-yi
 author: 毛珝
 authorPinyin: mao2 xu3
 authorSlug: mao-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去年一澇失冬收，逋債于今尚未酬。
-- 偶爲灼龜逢吉兆，再供租約賃耕牛。
+- 主家文牓又圍田，田甲科丁各備船。
+- 下得樁深笆土穩，更遷垂柳護圍邊。
 
 ## 拼音
 
-- qu4 nian2 yi2 lao4 shi1 dong1 shou1 ， bu1 zhai4 yu2 jin1 shang4 wei4 chou2 。
-- ou3 wei2 zhuo2 gui1 feng2 ji2 zhao4 ， zai4 gong4 zu1 yue1 lin4 geng1 niu2 。
+- zhu3 jia1 wen2 bang3 you4 wei2 tian2 ， tian2 jia3 ke1 ding1 ge4 bei4 chuan2 。
+- xia4 de2 zhuang1 shen1 ba1 tu3 wen3 ， geng4 qian1 chui2 liu3 hu4 wei2 bian1 。
 
 ## 注释
 

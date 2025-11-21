@@ -6,10 +6,10 @@ titleSlug: lin-shui
 author: 黄亢
 authorPinyin: huang2 kang4
 authorSlug: huang-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

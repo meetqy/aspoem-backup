@@ -6,21 +6,21 @@ titleSlug: yu-shan-zhu-zan
 author: 釋智愚
 authorPinyin: shi4 zhi4 yu2
 authorSlug: shi-zhi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日暖跨馿出，溪橋款步行。
-- 因思遭攧處，寸草不曾生。
+- 略彴蹈翻天地黑，盲馿惡拗弄蹄行。
+- 從茲不到茶川上，溪水自涵山影清。
 
 ## 拼音
 
-- ri4 nuan3 kua4 lu2 chu1 ， xi1 qiao2 kuan3 bu4 xing2 。
-- yin1 si1 zao1 dian1 chu3 ， cun4 cao3 bu4 ceng2 sheng1 。
+- lüe4 zhuo2 dao3 fan1 tian1 di4 hei1 ， mang2 lu2 e4 ao4 nong4 ti2 xing2 。
+- cong2 zi1 bu2 dao4 cha2 chuan1 shang4 ， xi1 shui3 zi4 han2 shan1 ying3 qing1 。
 
 ## 注释
 

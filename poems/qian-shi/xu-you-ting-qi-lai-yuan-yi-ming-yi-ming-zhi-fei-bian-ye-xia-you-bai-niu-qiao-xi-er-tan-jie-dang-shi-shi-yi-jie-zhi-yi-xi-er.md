@@ -6,10 +6,10 @@ titleSlug: xu-you-ting-qi-lai-yuan-yi-ming-yi-ming-zhi-fei-bian-ye-xia-you-bai-n
 author: 錢時
 authorPinyin: qian2 shi2
 authorSlug: qian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

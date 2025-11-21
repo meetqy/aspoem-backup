@@ -6,10 +6,10 @@ titleSlug: bao-tuo-shan-guan-yin-zan
 author: 黄龜年
 authorPinyin: huang2 gui1 nian2
 authorSlug: huang-gui-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

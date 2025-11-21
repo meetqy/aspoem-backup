@@ -6,25 +6,25 @@ titleSlug: ci-yun-chang-fu-jian-ji
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 相逢雖數數，共話祇匆匆。
-- 不覺中秋過，還當九日中。
-- 登臺嗟往事，覓句憶高風。
-- 人物方彫謝，吾儕孰與同。
+- 薄宦歸來盍罷休，閒心終是愛吾州。
+- 高名又喜爲澄觀，素隠何妨得卧遊。
+- 四海九州彫落盡，東鄰西舍往來不。
+- 秋風山裏相尋處，莫問人間有比周。
 
 ## 拼音
 
-- xiang1 feng2 sui1 shu4 shu4 ， gong4 hua4 qi2 cong1 cong1 。
-- bu4 jue2 zhong1 qiu1 guo4 ， huan2 dang1 jiu3 ri4 zhong1 。
-- deng1 tai2 jie1 wang3 shi4 ， mi4 ju4 yi4 gao1 feng1 。
-- ren2 wu4 fang1 diao1 xie4 ， wu2 chai2 shu2 yu3 tong2 。
+- bao2 huan4 gui1 lai2 he2 ba4 xiu1 ， xian2 xin1 zhong1 shi4 ai4 wu2 zhou1 。
+- gao1 ming2 you4 xi3 wei2 cheng2 guan1 ， su4 yin3 he2 fang2 de2 wo4 you2 。
+- si4 hai3 jiu3 zhou1 diao1 luo4 jin4 ， dong1 lin2 xi1 she4 wang3 lai2 bu4 。
+- qiu1 feng1 shan1 li3 xiang1 xun2 chu3 ， mo4 wen4 ren2 jian4 you3 bi3 zhou1 。
 
 ## 注释
 

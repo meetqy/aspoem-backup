@@ -6,25 +6,21 @@ titleSlug: chu-mu
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪響饑魚食，川明柱影斜。
-- 驚禽穿密竹，噪鵲立浮查。
-- 谷暗山藏雨，林喧雀啅蛇。
-- 鄉閭等行路，何向更爲家。
+- 果下翩翩跨紫騮，踏花濺水見風流。
+- 可無雙璧千金聚，付與狂兒取次遊。
 
 ## 拼音
 
-- xi1 xiang3 ji1 yu2 shi2 ， chuan1 ming2 zhu4 ying3 xie2 。
-- jing1 qin2 chuan1 mi4 zhu2 ， zao4 que4 li4 fu2 cha2 。
-- gu3 an4 shan1 cang2 yu3 ， lin2 xuan1 que4 zhuo2 she2 。
-- xiang1 lü2 deng3 xing2 lu4 ， he2 xiang4 geng4 wei2 jia1 。
+- guo3 xia4 pian1 pian1 kua4 zi3 liu2 ， ta4 hua1 jian4 shui3 jian4 feng1 liu2 。
+- ke3 wu2 shuang1 bi4 qian1 jin1 ju4 ， fu4 yu3 kuang2 er2 qu3 ci4 you2 。
 
 ## 注释
 

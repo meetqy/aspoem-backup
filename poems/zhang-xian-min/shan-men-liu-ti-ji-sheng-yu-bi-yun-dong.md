@@ -6,10 +6,10 @@ titleSlug: shan-men-liu-ti-ji-sheng-yu-bi-yun-dong
 author: 張獻民
 authorPinyin: zhang1 xian4 min2
 authorSlug: zhang-xian-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

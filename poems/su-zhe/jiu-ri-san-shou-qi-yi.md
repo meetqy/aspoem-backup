@@ -6,25 +6,25 @@ titleSlug: jiu-ri-san-shou-qi-yi
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早歲寡歡意，衰年仍病纏。
-- 客居逢九日，斗酒破千錢。
-- 萸菊驚秋晚，兒孫慰目前。
-- 登高懶不出，多酌任頹然。
+- 九日真佳節，年年長賦詩。
+- 深慚鶴髮老，每與菊花期。
+- 帽落無人拾，酒狂聊自持。
+- 豐年餘社甕，天意念衰羸。
 
 ## 拼音
 
-- zao3 sui4 gua3 huan1 yi4 ， shuai1 nian2 reng2 bing4 chan2 。
-- ke4 ju1 feng2 jiu3 ri4 ， dou4 jiu3 po4 qian1 qian2 。
-- yu2 ju2 jing1 qiu1 wan3 ， er2 sun1 wei4 mu4 qian2 。
-- deng1 gao1 lan3 bu4 chu1 ， duo1 zhuo2 ren4 tui2 ran2 。
+- jiu3 ri4 zhen1 jia1 jie2 ， nian2 nian2 chang2 fu4 shi1 。
+- shen1 can2 he4 fa4 lao3 ， mei3 yu3 ju2 hua1 qi1 。
+- mao4 luo4 wu2 ren2 shi2 ， jiu3 kuang2 liao2 zi4 chi2 。
+- feng1 nian2 yu2 she4 weng4 ， tian1 yi4 nian4 shuai1 lei2 。
 
 ## 注释
 

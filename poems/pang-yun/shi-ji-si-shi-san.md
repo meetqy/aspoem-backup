@@ -9,26 +9,24 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 外若絕攀緣，歡喜常現前。
-- 本來何所得，吉祥自現形。
-- 空生成長老，燃燈常照明。
-- 彌勒是同學，釋迦是長兄。
-- 神通次第坐，無勞問姓名。
-- 名相有差別，法身同一形。
+- 空中自見清涼月，一光普照婆娑徹。
+- 此光湛然無去來，不增不減無生滅。
+- 爾是妙德現真身，剎那不起恆沙劫。
+- 無邊無盡如虛空，虛空無邊不可說。
+- 。
 
 ## 拼音
 
-- wai4 ruo4 jue2 pan1 yuan2 ， huan1 xi3 chang2 xian4 qian2 。
-- ben3 lai2 he2 suo3 de2 ， ji2 xiang2 zi4 xian4 xing2 。
-- kong1 sheng1 cheng2 chang2 lao3 ， ran2 deng1 chang2 zhao4 ming2 。
-- mi2 le4 shi4 tong2 xue2 ， shi4 jia1 shi4 chang2 xiong1 。
-- shen2 tong1 ci4 di4 zuo4 ， wu2 lao2 wen4 xing4 ming2 。
-- ming2 xiang4 you3 cha4 bie2 ， fa3 shen1 tong2 yi4 xing2 。
+- kong1 zhong1 zi4 jian4 qing1 liang2 yue4 ， yi4 guang1 pu3 zhao4 po2 suo1 che4 。
+- ci3 guang1 zhan4 ran2 wu2 qu4 lai2 ， bu4 zeng1 bu4 jian3 wu2 sheng1 mie4 。
+- er3 shi4 miao4 de2 xian4 zhen1 shen1 ， cha4 na4 bu4 qi3 heng2 sha1 jie2 。
+- wu2 bian1 wu2 jin4 ru2 xu1 kong1 ， xu1 kong1 wu2 bian1 bu4 ke3 shuo1 。
+- 。
 
 ## 注释
 

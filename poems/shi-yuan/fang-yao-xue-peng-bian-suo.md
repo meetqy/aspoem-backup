@@ -6,10 +6,10 @@ titleSlug: fang-yao-xue-peng-bian-suo
 author: 釋淵
 authorPinyin: shi4 yuan1
 authorSlug: shi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

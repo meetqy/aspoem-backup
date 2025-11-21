@@ -6,10 +6,10 @@ titleSlug: ti-la-ji-jin-diao-er-ting-lu-xun-bo-biao-di-ming-fu
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

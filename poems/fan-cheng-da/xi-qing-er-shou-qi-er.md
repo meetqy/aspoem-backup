@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-xi-qing-er-shou-qi-er
-title: 喜晴二首・其二
-titlePinyin: xi3 qing2 er4 shou3・qi2 er4
+title: 喜晴二首  其二
+titlePinyin: xi3 qing2 er4 shou3     qi2 er4
 titleSlug: xi-qing-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

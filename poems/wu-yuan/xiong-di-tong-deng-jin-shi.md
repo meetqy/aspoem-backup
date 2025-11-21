@@ -6,10 +6,10 @@ titleSlug: xiong-di-tong-deng-jin-shi
 author: 吳元
 authorPinyin: wu2 yuan2
 authorSlug: wu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

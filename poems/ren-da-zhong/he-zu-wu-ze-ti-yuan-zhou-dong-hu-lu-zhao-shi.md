@@ -6,10 +6,10 @@ titleSlug: he-zu-wu-ze-ti-yuan-zhou-dong-hu-lu-zhao-shi
 author: 任大中
 authorPinyin: ren4 da4 zhong1
 authorSlug: ren-da-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

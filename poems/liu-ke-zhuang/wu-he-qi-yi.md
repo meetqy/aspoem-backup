@@ -6,25 +6,25 @@ titleSlug: wu-he-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出門機穽已相隨，竟放靈均逐伯奇。
-- 始者齧膚微似蚋，俄然擇肉及於羆。
-- 不言快箭穿楊葉，却訝長松托兔絲。
-- 敗壞人材由利祿，乃知曾點勝顓師。
+- 霧掃山如潑黛濃，一開口笑古難逢。
+- 斬新種柳輞川水，火急移蓮玉井峰。
+- 甚愛名花當輦致，遠求佳果莫函封。
+- 人生惟有田園樂，未可輕將仕易農。
 
 ## 拼音
 
-- chu1 men2 ji1 jing3 yi3 xiang1 sui2 ， jing4 fang4 ling2 jun1 zhu2 bo2 qi2 。
-- shi3 zhe3 nie4 fu1 wei1 si4 rui4 ， e2 ran2 ze2 rou4 ji2 wu1 pi2 。
-- bu4 yan2 kuai4 jian4 chuan1 yang2 ye4 ， que4 ya4 chang2 song1 tuo1 tu4 si1 。
-- bai4 huai4 ren2 cai2 you2 li4 lu4 ， nai3 zhi1 ceng2 dian3 sheng4 zhuan1 shi1 。
+- wu4 sao3 shan1 ru2 po1 dai4 nong2 ， yi4 kai1 kou3 xiao4 gu3 nan2 feng2 。
+- zhan3 xin1 zhong3 liu3 wang3 chuan1 shui3 ， huo3 ji2 yi2 lian2 yu4 jing3 feng1 。
+- shen4 ai4 ming2 hua1 dang1 nian3 zhi4 ， yuan3 qiu2 jia1 guo3 mo4 han2 feng1 。
+- ren2 sheng1 wei2 you3 tian2 yuan2 le4 ， wei4 ke3 qing1 jiang1 shi4 yi4 nong2 。
 
 ## 注释
 

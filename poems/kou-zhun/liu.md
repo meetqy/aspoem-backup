@@ -6,21 +6,21 @@ titleSlug: liu
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉带輕煙間杏花，晚凝深翠拂平沙。
-- 長條別有風流處，密映錢塘蘇小家。
+- 絲翠最宜經宿雨，絮飛爭忍逐香塵。
+- 簾垂獨院無人處，一樹風摇日午春。
 
 ## 拼音
 
-- xiao3 dai4 qing1 yan1 jian4 xing4 hua1 ， wan3 ning2 shen1 cui4 fu2 ping2 sha1 。
-- chang2 tiao2 bie2 you3 feng1 liu2 chu3 ， mi4 ying4 qian2 tang2 su1 xiao3 jia1 。
+- si1 cui4 zui4 yi2 jing1 su4 yu3 ， xu4 fei1 zheng1 ren3 zhu2 xiang1 chen2 。
+- lian2 chui2 du2 yuan4 wu2 ren2 chu3 ， yi2 shu4 feng1 yao2 ri4 wu3 chun1 。
 
 ## 注释
 

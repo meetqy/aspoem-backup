@@ -9,24 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我今日夜憂，諸弟各異方。
-- 不知死與生，何況道路長。
-- 避寇一分散，飢寒永相望。
-- 豈無柴門歸，欲出畏虎狼。
-- 仰看雲中雁，禽鳥亦有行。
+- 陶潛避俗翁，未必能達道。
+- 觀其著詩集，頗亦恨枯槁。
+- 達生豈是足，默識蓋不早。
+- 有子賢與愚，何其挂懷抱。
 
 ## 拼音
 
-- wo3 jin1 ri4 ye4 you1 ， zhu1 di4 ge4 yi4 fang1 。
-- bu4 zhi1 si3 yu3 sheng1 ， he2 kuang4 dao4 lu4 chang2 。
-- bi4 kou4 yi4 fen1 san4 ， ji1 han2 yong3 xiang1 wang4 。
-- qi3 wu2 chai2 men2 gui1 ， yu4 chu1 wei4 hu3 lang2 。
-- yang3 kan4 yun2 zhong1 yan4 ， qin2 niao3 yi4 you3 xing2 。
+- tao2 qian2 bi4 su2 weng1 ， wei4 bi4 neng2 da2 dao4 。
+- guan1 qi2 zhu4 shi1 ji2 ， po1 yi4 hen4 ku1 gao3 。
+- da2 sheng1 qi3 shi4 zu2 ， mo4 shi2 gai4 bu4 zao3 。
+- you3 zi3 xian2 yu3 yu2 ， he2 qi2 gua4 huai2 bao4 。
 
 ## 注释
 

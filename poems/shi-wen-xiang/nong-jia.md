@@ -6,25 +6,25 @@ titleSlug: nong-jia
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 繞屋桑麻槿作籬，當門一樹白薔薇。
-- 老翁請喚牛醫至，穉子鞭攔鴨陣歸。
-- 賽願酒豐同飲福，輸官絹足各裁衣。
-- 年年十月農功畢，還向谿頭整釣磯。
+- 農家何所知，鄰里自相宜。
+- 草徑東風軟，茅簷春日遲。
+- 數鴉鳴禿樹，一犢卧荒陂。
+- 酒熟相留醉，於人不作期。
 
 ## 拼音
 
-- rao4 wu1 sang1 ma2 jin3 zuo4 li2 ， dang1 men2 yi2 shu4 bai2 qiang2 wei1 。
-- lao3 weng1 qing3 huan4 niu2 yi1 zhi4 ， zhi4 zi3 bian1 lan2 ya1 zhen4 gui1 。
-- sai4 yuan4 jiu3 feng1 tong2 yin3 fu2 ， shu1 guan1 juan4 zu2 ge4 cai2 yi1 。
-- nian2 nian2 shi2 yue4 nong2 gong1 bi4 ， huan2 xiang4 xi1 tou2 zheng3 diao4 ji1 。
+- nong2 jia1 he2 suo3 zhi1 ， lin2 li3 zi4 xiang1 yi2 。
+- cao3 jing4 dong1 feng1 ruan3 ， mao2 yan2 chun1 ri4 chi2 。
+- shu4 ya1 ming2 tu1 shu4 ， yi4 du2 wo4 huang1 bei1 。
+- jiu3 shu2 xiang1 liu2 zui4 ， wu1 ren2 bu2 zuo4 qi1 。
 
 ## 注释
 

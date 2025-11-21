@@ -6,10 +6,10 @@ titleSlug: liu-shi-bie-zhong
 author: 李陶真
 authorPinyin: li3 tao2 zhen1
 authorSlug: li-tao-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

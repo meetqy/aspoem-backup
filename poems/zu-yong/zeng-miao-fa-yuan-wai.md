@@ -9,22 +9,26 @@ authorSlug: zu-yong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 宿雨朝來歇，空山天氣清。
-- 盤雲雙鶴下，隔水一蟬鳴。
-- 古道黃花落，平蕪赤燒生。
-- 茂陵雖有病，猶得伴君行。
+- 朱戶敞高扉，青槐礙落暉。
+- 八龍乘慶重，三虎遞朝歸。
+- 坐竹人聲絕，橫琴鳥語稀。
+- 花慙潘岳貌，年稱老萊衣。
+- 葉暗朱櫻熟，絲長粉蝶飛。
+- 應憐魯儒賤，空與故山違。
 
 ## 拼音
 
-- su4 yu3 chao2 lai2 xie1 ， kong1 shan1 tian1 qi4 qing1 。
-- pan2 yun2 shuang1 he4 xia4 ， ge2 shui3 yi4 chan2 ming2 。
-- gu3 dao4 huang2 hua1 luo4 ， ping2 wu2 chi4 shao1 sheng1 。
-- mao4 ling2 sui1 you3 bing4 ， you2 de2 ban4 jun1 xing2 。
+- zhu1 hu4 chang3 gao1 fei1 ， qing1 huai2 ai4 luo4 hui1 。
+- ba1 long2 cheng2 qing4 zhong4 ， san1 hu3 di4 chao2 gui1 。
+- zuo4 zhu2 ren2 sheng1 jue2 ， heng2 qin2 niao3 yu3 xi1 。
+- hua1 can2 pan1 yue4 mao4 ， nian2 cheng1 lao3 lai2 yi1 。
+- ye4 an4 zhu1 ying1 shu2 ， si1 chang2 fen3 die2 fei1 。
+- ying1 lian2 lu3 ru2 jian4 ， kong1 yu3 gu4 shan1 wei2 。
 
 ## 注释
 

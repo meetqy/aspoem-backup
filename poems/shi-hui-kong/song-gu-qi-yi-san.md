@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-yi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 人人盡有生緣，落花流出桃源。
-- 過後再尋無處，滿簑烟雨漁村。
+- 古人悟處今人眼，善巧休爲眼畫眉。
+- 不見馬頭人廝撲，一拳打倒隻臨時。
 
 ## 拼音
 
-- ren2 ren2 jin4 you3 sheng1 yuan2 ， luo4 hua1 liu2 chu1 tao2 yuan2 。
-- guo4 hou4 zai4 xun2 wu2 chu3 ， man3 suo1 yan1 yu3 yu2 cun1 。
+- gu3 ren2 wu4 chu3 jin1 ren2 yan3 ， shan4 qiao3 xiu1 wei2 yan3 hua4 mei2 。
+- bu2 jian4 ma3 tou2 ren2 si1 pu1 ， yi4 quan2 da3 dao3 zhi1 lin2 shi2 。
 
 ## 注释
 

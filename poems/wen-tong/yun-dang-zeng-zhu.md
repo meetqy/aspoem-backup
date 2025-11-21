@@ -1,14 +1,14 @@
 ---
 id: wen-tong-yun-dang-zeng-zhu
-title: 篔簹・贈竹
-titlePinyin: yun2 dang1・zeng4 zhu2
+title: 篔簹 贈竹
+titlePinyin: yun2 dang1   zeng4 zhu2
 titleSlug: yun-dang-zeng-zhu
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

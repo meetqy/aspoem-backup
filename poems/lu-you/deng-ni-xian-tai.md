@@ -6,25 +6,25 @@ titleSlug: deng-ni-xian-tai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 層臺縹緲壓城闉，倚杖来觀浩蕩春。
-- 放盡樽前千里目，洗空衣上十年塵。
-- 縈廻水抱中和氣，平遠山如醖藉人。
-- 更喜機心無復在，沙邊鷗鷺亦相親。
+- 憔悴思吴客，凄涼擬峴臺。
+- 一年秋欲到，兩鬢老先催。
+- 裊裊菱歌斷，翩翩水鳥来。
+- 倚闌哦五字，未穩莫輕回。
 
 ## 拼音
 
-- ceng2 tai2 piao3 miao3 ya1 cheng2 yin1 ， yi3 zhang4 lai2 guan1 hao4 dang4 chun1 。
-- fang4 jin4 zun1 qian2 qian1 li3 mu4 ， xi3 kong1 yi1 shang4 shi2 nian2 chen2 。
-- ying2 hui2 shui3 bao4 zhong1 he2 qi4 ， ping2 yuan3 shan1 ru2 yun4 jie4 ren2 。
-- geng4 xi3 ji1 xin1 wu2 fu4 zai4 ， sha1 bian1 ou1 lu4 yi4 xiang1 qin1 。
+- qiao2 cui4 si1 wu2 ke4 ， qi1 liang2 ni3 xian4 tai2 。
+- yi4 nian2 qiu1 yu4 dao4 ， liang3 bin4 lao3 xian1 cui1 。
+- niao3 niao3 ling2 ge1 duan4 ， pian1 pian1 shui3 niao3 lai2 。
+- yi3 lan2 o4 wu3 zi4 ， wei4 wen3 mo4 qing1 hui2 。
 
 ## 注释
 

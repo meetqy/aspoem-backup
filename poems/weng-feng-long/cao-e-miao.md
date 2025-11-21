@@ -6,10 +6,10 @@ titleSlug: cao-e-miao
 author: 翁逢龍
 authorPinyin: weng1 feng2 long2
 authorSlug: weng-feng-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

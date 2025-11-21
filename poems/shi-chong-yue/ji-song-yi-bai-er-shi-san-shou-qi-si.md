@@ -1,26 +1,28 @@
 ---
 id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-qi-si
-title: 偈頌一百二十三首  其四
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 si4
+title: 偈頌一百二十三首  其四○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 si4 ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-si
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬般施設不如常，又不驚人又久長。
-- 誰知遠煙浪，別有好思量。
+- 殺人刀，活人劍。
+- 那吒眼睛，金剛正焰。
+- 咬定牙關，赤心片片。
 
 ## 拼音
 
-- wan4 ban1 shi1 she4 bu4 ru2 chang2 ， you4 bu4 jing1 ren2 you4 jiu3 chang2 。
-- shui2 zhi1 yuan3 yan1 lang4 ， bie2 you3 hao3 si1 liang0 。
+- sha1 ren2 dao1 ， huo2 ren2 jian4 。
+- na4 zha4 yan3 jing0 ， jin1 gang1 zheng4 yan4 。
+- yao3 ding4 ya2 guan1 ， chi4 xin1 pian4 pian4 。
 
 ## 注释
 

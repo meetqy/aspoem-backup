@@ -6,25 +6,25 @@ titleSlug: ci-yun
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生涯老布衾，清處更清吟。
-- 舊事即新夢，今人非古心。
-- 意行雙謝屐，道在一陶琴。
-- 誰解無名利，其中有淺深。
+- 竹滿園林水滿溝，幽深地位度春秋。
+- 坐中不可無侯喜，歌處何須有莫愁。
+- 別墅簾櫳風颭燕，遠村籉笠雨耕牛。
+- 老來應物猶强健，多少壯年成夢休。
 
 ## 拼音
 
-- sheng1 ya2 lao3 bu4 qin1 ， qing1 chu3 geng4 qing1 yin2 。
-- jiu4 shi4 ji2 xin1 meng4 ， jin1 ren2 fei1 gu3 xin1 。
-- yi4 xing2 shuang1 xie4 ji1 ， dao4 zai4 yi4 tao2 qin2 。
-- shui2 jie3 wu2 ming2 li4 ， qi2 zhong1 you3 qian3 shen1 。
+- zhu2 man3 yuan2 lin2 shui3 man3 gou1 ， you1 shen1 di4 wei4 du4 chun1 qiu1 。
+- zuo4 zhong1 bu4 ke3 wu2 hou2 xi3 ， ge1 chu3 he2 xu1 you3 mo4 chou2 。
+- bie2 shu4 lian2 long2 feng1 zhan3 yan4 ， yuan3 cun1 tai2 li4 yu3 geng1 niu2 。
+- lao3 lai2 ying1 wu4 you2 qiang2 jian4 ， duo1 shao3 zhuang4 nian2 cheng2 meng4 xiu1 。
 
 ## 注释
 

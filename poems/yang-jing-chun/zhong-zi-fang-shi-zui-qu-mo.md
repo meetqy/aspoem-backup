@@ -6,10 +6,10 @@ titleSlug: zhong-zi-fang-shi-zui-qu-mo
 author: 陽景春
 authorPinyin: yang2 jing3 chun1
 authorSlug: yang-jing-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

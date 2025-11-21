@@ -1,26 +1,26 @@
 ---
 id: xu-lu-qing-ming-tang-qing-cheng-song-qi-yi
-title: 明堂慶成頌  其一
-titlePinyin: ming2 tang2 qing4 cheng2 song4     qi2 yi1
+title: 明堂慶成頌  其一○
+titlePinyin: ming2 tang2 qing4 cheng2 song4     qi2 yi1 ○
 titleSlug: ming-tang-qing-cheng-song-qi-yi
 author: 徐鹿卿
 authorPinyin: xu2 lu4 qing1
 authorSlug: xu-lu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 穆穆聖皇，出震乘乾。
-- 二十二載，如日中天。
+- 相維辟公，耆俊布列。
+- 珩璜鏘鳴，籩豆豐潔。
 
 ## 拼音
 
-- mu4 mu4 sheng4 huang2 ， chu1 zhen4 cheng2 qian2 。
-- er4 shi2 er4 zai4 ， ru2 ri4 zhong1 tian1 。
+- xiang1 wei2 pi4 gong1 ， qi2 jun4 bu4 lie4 。
+- heng2 huang2 qiang1 ming2 ， bian1 dou4 feng1 jie2 。
 
 ## 注释
 

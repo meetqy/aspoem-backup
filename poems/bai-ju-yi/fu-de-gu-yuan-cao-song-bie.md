@@ -6,10 +6,10 @@ titleSlug: fu-de-gu-yuan-cao-song-bie
 author: 白居易
 authorPinyin: bai2 ju1 yi4
 authorSlug: bai-ju-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

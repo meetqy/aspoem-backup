@@ -6,10 +6,10 @@ titleSlug: da-yu-lian-ju
 author: 程建用
 authorPinyin: cheng2 jian4 yong4
 authorSlug: cheng-jian-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

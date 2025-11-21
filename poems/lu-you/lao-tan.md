@@ -6,25 +6,25 @@ titleSlug: lao-tan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百年逝不留，萬事本難料。
-- 夜行鐘漏迫，但取賢達笑。
-- 頗疑功名事，造物付年少。
-- 歸休莫問人，曉鏡勤自照。
+- 步遲腰傴僂，面瘦骨崢嶸。
+- 貧病消前業，耕樵樂太平。
+- 有歌悲易水，無酒醉湖城。
+- 何許容身得，門前釣艇橫。
 
 ## 拼音
 
-- bai3 nian2 shi4 bu4 liu2 ， wan4 shi4 ben3 nan2 liao4 。
-- ye4 xing2 zhong1 lou4 po4 ， dan4 qu3 xian2 da2 xiao4 。
-- po1 yi2 gong1 ming2 shi4 ， zao4 wu4 fu4 nian2 shao4 。
-- gui1 xiu1 mo4 wen4 ren2 ， xiao3 jing4 qin2 zi4 zhao4 。
+- bu4 chi2 yao1 yu3 lü3 ， mian4 shou4 gu3 zheng1 rong2 。
+- pin2 bing4 xiao1 qian2 ye4 ， geng1 qiao2 le4 tai4 ping2 。
+- you3 ge1 bei1 yi4 shui3 ， wu2 jiu3 zui4 hu2 cheng2 。
+- he2 xu1 rong2 shen1 de2 ， men2 qian2 diao4 ting3 heng2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: lian-hua-chi
 author: 黄中庸
 authorPinyin: huang2 zhong1 yong1
 authorSlug: huang-zhong-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

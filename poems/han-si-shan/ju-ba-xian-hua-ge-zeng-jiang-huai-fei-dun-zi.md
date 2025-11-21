@@ -6,10 +6,10 @@ titleSlug: ju-ba-xian-hua-ge-zeng-jiang-huai-fei-dun-zi
 author: 韓似山
 authorPinyin: han2 si4 shan1
 authorSlug: han-si-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

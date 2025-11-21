@@ -9,46 +9,22 @@ authorSlug: li-shen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 上家山，家山依舊好。
-- 昔去松桂長，今來容鬚老。
-- 上家山，臨古道。
-- 高低入雲樹，蕪沒連天草。
-- 草色綠萋萋，寒蛩徧草啼。
-- 噪鴉啼樹遠，行雁帖雲齊。
-- 嵒光翻落日，僧火開經室。
-- 竹洞磬聲長，松樓鐘韻疾。
-- 苔階泉溜鈌，石甃青莎密。
-- 舊徑行處迷，前交坐中失。
-- 歎息整華冠，持杯強自歡。
-- 笑歌憐稚孺，弦竹縱吹彈。
-- 山明溪月上，酒滿心聊放。
-- 丱髮此淹留，垂絲匪閑曠。
-- 青山不可上，昔事還惆悵。
-- 況復白頭人，追懷空望望。
+- 羽毛似雪無瑕點，顧影秋池舞白雲。
+- 閑整素儀三島近，迴飄清唳九霄聞。
+- 好風順舉應摩日，逸翮將成莫戀羣。
+- 凌勵坐看空碧外，更憐鳧鷺老江濆。
 
 ## 拼音
 
-- shang4 jia1 shan1 ， jia1 shan1 yi1 jiu4 hao3 。
-- xi1 qu4 song1 gui4 chang2 ， jin1 lai2 rong2 xu1 lao3 。
-- shang4 jia1 shan1 ， lin2 gu3 dao4 。
-- gao1 di1 ru4 yun2 shu4 ， wu2 mei2 lian2 tian1 cao3 。
-- cao3 se4 lü4 qi1 qi1 ， han2 qiong2 bian4 cao3 ti2 。
-- zao4 ya1 ti2 shu4 yuan3 ， xing2 yan4 tie1 yun2 qi2 。
-- yan2 guang1 fan1 luo4 ri4 ， seng1 huo3 kai1 jing1 shi4 。
-- zhu2 dong4 qing4 sheng1 chang2 ， song1 lou2 zhong1 yun4 ji2 。
-- tai2 jie1 quan2 liu1 jue2 ， shi2 zhou4 qing1 sha1 mi4 。
-- jiu4 jing4 xing2 chu3 mi2 ， qian2 jiao1 zuo4 zhong1 shi1 。
-- tan4 xi1 zheng3 hua2 guan1 ， chi2 bei1 qiang2 zi4 huan1 。
-- xiao4 ge1 lian2 zhi4 ru2 ， xian2 zhu2 zong4 chui1 dan4 。
-- shan1 ming2 xi1 yue4 shang4 ， jiu3 man3 xin1 liao2 fang4 。
-- guan4 fa4 ci3 yan1 liu2 ， chui2 si1 fei3 xian2 kuang4 。
-- qing1 shan1 bu4 ke3 shang4 ， xi1 shi4 huan2 chou2 chang4 。
-- kuang4 fu4 bai2 tou2 ren2 ， zhui1 huai2 kong1 wang4 wang4 。
+- yu3 mao2 si4 xue3 wu2 xia2 dian3 ， gu4 ying3 qiu1 chi2 wu3 bai2 yun2 。
+- xian2 zheng3 su4 yi2 san1 dao3 jin4 ， hui2 piao1 qing1 li4 jiu3 xiao1 wen2 。
+- hao3 feng1 shun4 ju3 ying1 mo2 ri4 ， yi4 he2 jiang1 cheng2 mo4 lian4 qun2 。
+- ling2 li4 zuo4 kan4 kong1 bi4 wai4 ， geng4 lian2 fu2 lu4 lao3 jiang1 pen1 。
 
 ## 注释
 

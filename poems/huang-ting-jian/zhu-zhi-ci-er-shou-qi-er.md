@@ -6,21 +6,21 @@ titleSlug: zhu-zhi-ci-er-shou-qi-er
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浮雲一百八盤縈，落日四十八渡明。
-- 鬼門關外莫言遠，四海一家皆弟兄。
+- 塞上柳枝且莫歌，夔州竹枝奈愁何。
+- 虛心相待莫相誤，歲寒望君一來過。
 
 ## 拼音
 
-- fu2 yun2 yi4 bai3 ba1 pan2 ying2 ， luo4 ri4 si4 shi2 ba1 du4 ming2 。
-- gui3 men2 guan1 wai4 mo4 yan2 yuan3 ， si4 hai3 yi1 jia1 jie1 di4 xiong0 。
+- sai1 shang4 liu3 zhi1 qie3 mo4 ge1 ， kui2 zhou1 zhu2 zhi1 nai4 chou2 he2 。
+- xu1 xin1 xiang1 dai4 mo4 xiang1 wu4 ， sui4 han2 wang4 jun1 yi4 lai2 guo4 。
 
 ## 注释
 

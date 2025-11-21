@@ -6,10 +6,10 @@ titleSlug: xiao-qi
 author: 林景怡
 authorPinyin: lin2 jing3 yi2
 authorSlug: lin-jing-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

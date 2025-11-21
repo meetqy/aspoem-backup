@@ -6,10 +6,10 @@ titleSlug: he-jing-fu-xie-chuan-shi
 author: 劉芮
 authorPinyin: liu2 rui4
 authorSlug: liu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

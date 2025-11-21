@@ -6,10 +6,10 @@ titleSlug: he-zu-wu-ze-yuan-zhou-dong-hu-lu-zhao-shi
 author: 蕭元宗
 authorPinyin: xiao1 yuan2 zong1
 authorSlug: xiao-yuan-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

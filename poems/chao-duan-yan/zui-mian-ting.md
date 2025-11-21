@@ -6,10 +6,10 @@ titleSlug: zui-mian-ting
 author: 晁端彥
 authorPinyin: chao2 duan1 yan4
 authorSlug: chao-duan-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

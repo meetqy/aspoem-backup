@@ -6,10 +6,10 @@ titleSlug: ci-yun-xin-zhu-zuo-xing-hua-yuan-chi-shi-qi-yi
 author: 沈括
 authorPinyin: shen3 kuo4
 authorSlug: shen-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

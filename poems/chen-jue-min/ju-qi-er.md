@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 陳覺民
 authorPinyin: chen2 jue2 min2
 authorSlug: chen-jue-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

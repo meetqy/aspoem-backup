@@ -6,10 +6,10 @@ titleSlug: ji-huai-qi-yi
 author: 龍輔
 authorPinyin: long2 fu3
 authorSlug: long-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: weng-cheng-zan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 晨起竹軒外，逍遙清興多。
-- 早涼生戶牖，孤月照關河。
-- 旅食甘藜藿，歸心憶薜蘿。
-- 一尊如有地，放意且狂歌。
+- 鼓絕天街冷霧收，曉來風景已堪愁。
+- 槐無顏色因經雨，菊有精神爲傍秋。
+- 自愛鮮飆生戶外，不教閑事住心頭。
+- 披襟徐步一蕭灑，吟繞盆池想狎鷗。
 
 ## 拼音
 
-- chen2 qi3 zhu2 xuan1 wai4 ， xiao1 yao2 qing1 xing1 duo1 。
-- zao3 liang2 sheng1 hu4 you3 ， gu1 yue4 zhao4 guan1 he2 。
-- lü3 shi2 gan1 li2 huo4 ， gui1 xin1 yi4 bi4 luo2 。
-- yi4 zun1 ru2 you3 di4 ， fang4 yi4 qie3 kuang2 ge1 。
+- gu3 jue2 tian1 jie1 leng3 wu4 shou1 ， xiao3 lai2 feng1 jing3 yi3 kan1 chou2 。
+- huai2 wu2 yan2 se4 yin1 jing1 yu3 ， ju2 you3 jing1 shen2 wei2 bang4 qiu1 。
+- zi4 ai4 xian1 biao1 sheng1 hu4 wai4 ， bu2 jiao4 xian2 shi4 zhu4 xin1 tou2 。
+- pi1 jin1 xu2 bu4 yi4 xiao1 sa3 ， yin2 rao4 pen2 chi2 xiang3 xia2 ou1 。
 
 ## 注释
 

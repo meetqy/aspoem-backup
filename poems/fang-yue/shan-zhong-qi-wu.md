@@ -6,25 +6,25 @@ titleSlug: shan-zhong-qi-wu
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 剩斸荒寒地百弓，儘供弄月與吟風。
-- 太平世界豐登外，小有洞天閒適中。
-- 野服染成駝樣褐，山花開到鴈來紅。
-- 夕陽籬落誰呼喚，盂酒蹄肩賽社翁。
+- 暄風已愜綠陰凉，小簟初橫六尺床。
+- 如宇宙寬容膝地，與塵埃隔及肩牆。
+- 鳥烏聲樂櫻桃熟，田舍人忙麥飯香。
+- 留得壁間雙不借，尚堪鉏水共移秧。
 
 ## 拼音
 
-- sheng4 zhu2 huang1 han2 di4 bai3 gong1 ， jin3 gong4 nong4 yue4 yu3 yin2 feng1 。
-- tai4 ping2 shi4 jie4 feng1 deng1 wai4 ， xiao3 you3 dong4 tian1 xian2 shi4 zhong1 。
-- ye3 fu2 ran3 cheng2 tuo2 yang4 he4 ， shan1 hua1 kai1 dao4 yan4 lai2 hong2 。
-- xi1 yang2 li2 luo4 shui2 hu1 huan4 ， yu2 jiu3 ti2 jian1 sai4 she4 weng1 。
+- xuan1 feng1 yi3 qie4 lü4 yin1 liang2 ， xiao3 dian4 chu1 heng2 liu4 chi3 chuang2 。
+- ru2 yu3 zhou4 kuan1 rong2 xi1 di4 ， yu3 chen2 ai1 ge2 ji2 jian1 qiang2 。
+- niao3 wu1 sheng1 le4 ying1 tao2 shu2 ， tian2 she4 ren2 mang2 mai4 fan4 xiang1 。
+- liu2 de2 bi4 jian4 shuang1 bu2 jie4 ， shang4 kan1 chu2 shui3 gong4 yi2 yang1 。
 
 ## 注释
 

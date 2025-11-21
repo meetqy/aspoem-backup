@@ -6,10 +6,10 @@ titleSlug: ti-mei-xian-shan
 author: 陳闡
 authorPinyin: chen2 chan3
 authorSlug: chen-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

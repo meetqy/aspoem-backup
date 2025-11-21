@@ -6,10 +6,10 @@ titleSlug: yu-ke-bu-yue-zuo-jian-zhong-shi-shang
 author: 錢時
 authorPinyin: qian2 shi2
 authorSlug: qian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zuo-chuan-zhi-lao-jun-zhang-ming-meng-wen-ru-zhi-zhong-jie-hui-jia-ju
 author: 師驥
 authorPinyin: shi1 ji4
 authorSlug: shi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

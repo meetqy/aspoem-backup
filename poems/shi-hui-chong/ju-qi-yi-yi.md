@@ -1,24 +1,24 @@
 ---
 id: shi-hui-chong-ju-qi-yi-yi
-title: 句  其一一
-titlePinyin: ju4     qi2 yi1 yi1
+title: 句  其一○一
+titlePinyin: ju4     qi2 yi1 ○ yi1
 titleSlug: ju-qi-yi-yi
 author: 釋惠崇
 authorPinyin: shi4 hui4 chong2
 authorSlug: shi-hui-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 多年不道姓，幾日旋移家。
+- 人遊曲江少，草入未央深。
 
 ## 拼音
 
-- duo1 nian2 bu2 dao4 xing4 ， ji1 ri4 xuan2 yi2 jia1 。
+- ren2 you2 qu3 jiang1 shao3 ， cao3 ru4 wei4 yang1 shen1 。
 
 ## 注释
 

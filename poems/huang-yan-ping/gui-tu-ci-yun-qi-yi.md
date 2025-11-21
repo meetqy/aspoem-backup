@@ -1,26 +1,26 @@
 ---
 id: huang-yan-ping-gui-tu-ci-yun-qi-yi
-title: 歸途次韻  其一
-titlePinyin: gui1 tu2 ci4 yun4     qi2 yi1
+title: 歸途次韻  其一○
+titlePinyin: gui1 tu2 ci4 yun4     qi2 yi1 ○
 titleSlug: gui-tu-ci-yun-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2
 authorSlug: huang-yan-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霏紅點點胭脂雨，唾碧濺濺罨畫溪。
-- 送客歸來問山館，一聲啼鳥日平西。
+- 剩水殘山明竹屋，暖風晴日倩桃花。
+- 輕羅小扇親曾見，花外青帘是酒家。
 
 ## 拼音
 
-- fei1 hong2 dian3 dian3 yan1 zhi1 yu3 ， tuo4 bi4 jian4 jian4 yan3 hua4 xi1 。
-- song4 ke4 gui1 lai2 wen4 shan1 guan3 ， yi4 sheng1 ti2 niao3 ri4 ping2 xi1 。
+- sheng4 shui3 can2 shan1 ming2 zhu2 wu1 ， nuan3 feng1 qing2 ri4 qian4 tao2 hua1 。
+- qing1 luo2 xiao3 shan4 qin1 ceng2 jian4 ， hua1 wai4 qing1 lian2 shi4 jiu3 jia1 。
 
 ## 注释
 

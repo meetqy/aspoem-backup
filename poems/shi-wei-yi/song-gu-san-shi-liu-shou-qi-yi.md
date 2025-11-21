@@ -1,26 +1,28 @@
 ---
 id: shi-wei-yi-song-gu-san-shi-liu-shou-qi-yi
-title: 頌古三十六首  其一
-titlePinyin: song4 gu3 san1 shi2 liu4 shou3     qi2 yi1
+title: 頌古三十六首  其一○
+titlePinyin: song4 gu3 san1 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: song-gu-san-shi-liu-shou-qi-yi
 author: 釋惟一
 authorPinyin: shi4 wei2 yi1
 authorSlug: shi-wei-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 劫初鑄就毗盧印，古篆雕蟲尚宛然。
-- 堪笑堪悲人不識，却嫌字畫不完全。
+- 臨濟栽松，一椎兩當。
+- 山門境致，後人標榜。
+- 鋤頭打地，滅却吾宗，陰凉大樹起清風。
 
 ## 拼音
 
-- jie2 chu1 zhu4 jiu4 pi2 lu2 yin4 ， gu3 zhuan4 diao1 chong2 shang4 wan3 ran2 。
-- kan1 xiao4 kan1 bei1 ren2 bu4 shi2 ， que4 xian2 zi4 hua4 bu4 wan2 quan2 。
+- lin2 ji4 zai1 song1 ， yi4 zhui1 liang3 dang1 。
+- shan1 men2 jing4 zhi4 ， hou4 ren2 biao1 bang3 。
+- chu2 tou2 da3 di4 ， mie4 que4 wu2 zong1 ， yin1 liang2 da4 shu4 qi3 qing1 feng1 。
 
 ## 注释
 

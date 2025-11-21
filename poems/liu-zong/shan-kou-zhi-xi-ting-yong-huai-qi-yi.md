@@ -6,10 +6,10 @@ titleSlug: shan-kou-zhi-xi-ting-yong-huai-qi-yi
 author: 劉宗
 authorPinyin: liu2 zong1
 authorSlug: liu-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: mei-qi-yi
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉佩瓊裾萼綠華，銅瓶清浸廣寒家。
-- 客懷無着春風處，醉向梢頭嚼盡花。
+- 風霜摇落都盧盡，一點春回造化家。
+- 萬物成終又成始，須將艮體看梅花。
 
 ## 拼音
 
-- yu4 pei4 qiong2 ju1 e4 lü4 hua2 ， tong2 ping2 qing1 jin4 guang3 han2 jia1 。
-- ke4 huai2 wu2 zhe0 chun1 feng1 chu3 ， zui4 xiang4 shao1 tou2 jiao2 jin4 hua1 。
+- feng1 shuang1 yao2 luo4 dou1 lu2 jin4 ， yi4 dian3 chun1 hui2 zao4 hua4 jia1 。
+- wan4 wu4 cheng2 zhong1 you4 cheng2 shi3 ， xu1 jiang1 gen4 ti3 kan4 mei2 hua1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: lao-jing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老景雖無幾，爲農尚有餘。
-- 曾傳種魚術，新得相牛書。
-- 黍酒時留客，菱歌或起予。
-- 平生湖海志，高枕看嚴徐。
+- 老死知無日，天公偶見寬。
+- 疾行逾百步，健啖每三餐。
+- 身瘦短裁褐，髮稀低作冠。
+- 年來更小黠，不據伏波鞍。
 
 ## 拼音
 
-- lao3 jing3 sui1 wu2 ji1 ， wei2 nong2 shang4 you3 yu2 。
-- ceng2 chuan2 zhong3 yu2 shu4 ， xin1 de2 xiang1 niu2 shu1 。
-- shu3 jiu3 shi2 liu2 ke4 ， ling2 ge1 huo4 qi3 yu3 。
-- ping2 sheng1 hu2 hai3 zhi4 ， gao1 zhen3 kan4 yan2 xu2 。
+- lao3 si3 zhi1 wu2 ri4 ， tian1 gong1 ou3 jian4 kuan1 。
+- ji2 xing2 yu2 bai3 bu4 ， jian4 dan4 mei3 san1 can1 。
+- shen1 shou4 duan3 cai2 he4 ， fa4 xi1 di1 zuo4 guan1 。
+- nian2 lai2 geng4 xiao3 xia2 ， bu2 ju4 fu2 bo1 an1 。
 
 ## 注释
 

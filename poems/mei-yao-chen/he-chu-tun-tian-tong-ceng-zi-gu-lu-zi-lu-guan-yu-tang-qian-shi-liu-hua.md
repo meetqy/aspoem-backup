@@ -6,10 +6,10 @@ titleSlug: he-chu-tun-tian-tong-ceng-zi-gu-lu-zi-lu-guan-yu-tang-qian-shi-liu-hu
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

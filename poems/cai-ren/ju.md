@@ -3,22 +3,22 @@ id: cai-ren-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 蔡任
-authorPinyin: cai4 ren4
+author: 才人
+authorPinyin: cai2 ren2
 authorSlug: cai-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我與斯民同一性，誰言此邑號三陽。
+- 山翁不識時宜甚，猶學淵明裹葛巾。
 
 ## 拼音
 
-- wo3 yu3 si1 min2 tong2 yi2 xing4 ， shui2 yan2 ci3 yi4 hao4 san1 yang2 。
+- shan1 weng1 bu4 shi2 shi2 yi2 shen4 ， you2 xue2 yuan1 ming2 guo3 ge2 jin1 。
 
 ## 注释
 

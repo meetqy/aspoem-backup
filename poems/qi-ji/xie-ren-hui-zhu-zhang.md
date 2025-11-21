@@ -9,22 +9,18 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 邛州靈境產修篁，九節材應表九陽。
-- 造化已能分尺度，保持爭合與尋常。
-- 幽林剪破清秋影，高手攜來綠玉光。
-- 深謝魯儒憐潦倒，欲教撐拄遶禪牀。
+- 何處雲根採得來，黑龍狂欲作風雷。
+- 知師念我形骸老，教把經行拄綠苔。
 
 ## 拼音
 
-- qiong2 zhou1 ling2 jing4 chan3 xiu1 huang2 ， jiu3 jie2 cai2 ying1 biao3 jiu3 yang2 。
-- zao4 hua4 yi3 neng2 fen1 chi3 du4 ， bao3 chi2 zheng1 he2 yu3 xun2 chang2 。
-- you1 lin2 jian3 po4 qing1 qiu1 ying3 ， gao1 shou3 xie2 lai2 lü4 yu4 guang1 。
-- shen1 xie4 lu3 ru2 lian2 liao2 dao3 ， yu4 jiao4 cheng1 zhu3 rao4 shan4 chuang2 。
+- he2 chu3 yun2 gen1 cai3 de2 lai2 ， hei1 long2 kuang2 yu4 zuo4 feng1 lei2 。
+- zhi1 shi1 nian4 wo3 xing2 hai2 lao3 ， jiao4 ba3 jing1 xing2 zhu3 lü4 tai2 。
 
 ## 注释
 

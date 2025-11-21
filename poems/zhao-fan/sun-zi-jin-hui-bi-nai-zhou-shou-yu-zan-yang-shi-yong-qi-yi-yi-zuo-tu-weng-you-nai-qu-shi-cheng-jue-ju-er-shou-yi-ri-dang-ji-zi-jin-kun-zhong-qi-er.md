@@ -6,10 +6,10 @@ titleSlug: sun-zi-jin-hui-bi-nai-zhou-shou-yu-zan-yang-shi-yong-qi-yi-yi-zuo-tu-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

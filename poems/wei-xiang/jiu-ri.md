@@ -6,25 +6,25 @@ titleSlug: jiu-ri
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 重九蕭條秋已深，登高更在蜀江潯。
-- 黄花未肯趁時吐，白酒祇如常日斟。
-- 絕塞煙雲長滿目，故園風物愈關心。
-- 須憑酩酊酬佳節，追感齊山不浪吟。
+- 四逢九日峽江湄，竊祿無功祇自嗤。
+- 把酒又遲今歲菊，開編還愧去年詩。
+- 牛山悽感何其昧，藍水歡吟乃所宜。
+- 白髪不辭吹帽落，更登山閣醉佳時。
 
 ## 拼音
 
-- chong2 jiu3 xiao1 tiao2 qiu1 yi3 shen1 ， deng1 gao1 geng4 zai4 shu3 jiang1 xun2 。
-- huang2 hua1 wei4 ken3 chen4 shi2 tu3 ， bai2 jiu3 qi2 ru2 chang2 ri4 zhen1 。
-- jue2 sai1 yan1 yun2 chang2 man3 mu4 ， gu4 yuan2 feng1 wu4 yu4 guan1 xin1 。
-- xu1 ping2 ming3 ding3 chou2 jia1 jie2 ， zhui1 gan3 qi2 shan1 bu2 lang4 yin2 。
+- si4 feng2 jiu3 ri4 xia2 jiang1 mei2 ， qie4 lu4 wu2 gong1 qi2 zi4 chi1 。
+- ba3 jiu3 you4 chi2 jin1 sui4 ju2 ， kai1 bian1 huan2 kui4 qu4 nian2 shi1 。
+- niu2 shan1 qi1 gan3 he2 qi2 mei4 ， lan2 shui3 huan1 yin2 nai3 suo3 yi2 。
+- bai2 fa4 bu4 ci2 chui1 mao4 luo4 ， geng4 deng1 shan1 ge2 zui4 jia1 shi2 。
 
 ## 注释
 

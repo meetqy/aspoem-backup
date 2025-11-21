@@ -6,10 +6,10 @@ titleSlug: zhuo-wang-shan
 author: 黄漳
 authorPinyin: huang2 zhang1
 authorSlug: huang-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

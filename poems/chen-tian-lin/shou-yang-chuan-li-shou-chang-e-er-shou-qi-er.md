@@ -6,10 +6,10 @@ titleSlug: shou-yang-chuan-li-shou-chang-e-er-shou-qi-er
 author: 陳天麟
 authorPinyin: chen2 tian1 lin2
 authorSlug: chen-tian-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

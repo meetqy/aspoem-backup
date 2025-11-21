@@ -6,10 +6,10 @@ titleSlug: jin-ling-di-zhong-shi-dao-heng-fu-lao-zhang-qu-nian-qiu-chu-jian-ji-s
 author: 呂南公
 authorPinyin: lü3 nan2 gong1
 authorSlug: lu-nan-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

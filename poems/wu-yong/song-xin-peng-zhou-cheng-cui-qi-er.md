@@ -6,10 +6,10 @@ titleSlug: song-xin-peng-zhou-cheng-cui-qi-er
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

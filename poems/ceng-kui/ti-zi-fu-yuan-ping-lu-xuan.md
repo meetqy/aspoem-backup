@@ -6,10 +6,10 @@ titleSlug: ti-zi-fu-yuan-ping-lu-xuan
 author: 曾揆
 authorPinyin: ceng2 kui2
 authorSlug: ceng-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

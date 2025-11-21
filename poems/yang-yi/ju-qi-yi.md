@@ -1,24 +1,24 @@
 ---
 id: yang-yi-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 眼中是面前人。
+- 獨自憑闌干，衣襟生暮寒。
 
 ## 拼音
 
-- yan3 zhong1 shi4 mian4 qian2 ren2 。
+- du2 zi4 ping2 lan2 gan1 ， yi1 jin1 sheng1 mu4 han2 。
 
 ## 注释
 

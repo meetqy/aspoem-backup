@@ -6,9 +6,9 @@ titleSlug: zeng-hui-hui-ji
 author: 釋雲居西
 authorPinyin: shi4 yun2 ju1 xi1
 authorSlug: shi-yun-ju-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

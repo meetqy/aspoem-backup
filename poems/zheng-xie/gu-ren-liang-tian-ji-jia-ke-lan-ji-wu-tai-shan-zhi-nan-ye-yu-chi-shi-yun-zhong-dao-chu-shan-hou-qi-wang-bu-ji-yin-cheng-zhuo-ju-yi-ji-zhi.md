@@ -6,10 +6,10 @@ titleSlug: gu-ren-liang-tian-ji-jia-ke-lan-ji-wu-tai-shan-zhi-nan-ye-yu-chi-shi-
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

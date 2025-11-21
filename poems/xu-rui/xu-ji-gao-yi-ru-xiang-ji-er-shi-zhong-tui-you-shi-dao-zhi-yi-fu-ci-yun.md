@@ -6,10 +6,10 @@ titleSlug: xu-ji-gao-yi-ru-xiang-ji-er-shi-zhong-tui-you-shi-dao-zhi-yi-fu-ci-yu
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

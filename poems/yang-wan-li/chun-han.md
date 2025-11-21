@@ -6,21 +6,21 @@ titleSlug: chun-han
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春寒儘解粟人膚，敢傍吾儕酒盞無。
-- 雨裏杏花如半醉，擡頭不起索人扶。
+- 風日晴暄一併來，桃花告報李花開。
+- 待君減盡衣裘了，夜半春寒特地回。
 
 ## 拼音
 
-- chun1 han2 jin3 jie3 su4 ren2 fu1 ， gan3 bang4 wu2 chai2 jiu3 zhan3 wu2 。
-- yu3 li3 xing4 hua1 ru2 ban4 zui4 ， tai2 tou2 bu4 qi3 suo3 ren2 fu2 。
+- feng1 ri4 qing2 xuan1 yi2 bing4 lai2 ， tao2 hua1 gao4 bao4 li3 hua1 kai1 。
+- dai4 jun1 jian3 jin4 yi1 qiu2 le0 ， ye4 ban4 chun1 han2 te4 di4 hui2 。
 
 ## 注释
 

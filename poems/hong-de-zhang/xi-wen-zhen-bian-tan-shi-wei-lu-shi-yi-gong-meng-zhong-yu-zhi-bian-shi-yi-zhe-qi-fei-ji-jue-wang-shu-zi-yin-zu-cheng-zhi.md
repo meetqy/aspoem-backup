@@ -6,10 +6,10 @@ titleSlug: xi-wen-zhen-bian-tan-shi-wei-lu-shi-yi-gong-meng-zhong-yu-zhi-bian-sh
 author: 洪德章
 authorPinyin: hong2 de2 zhang1
 authorSlug: hong-de-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: yuan-zhong-za-shu-si-shou-qi-si
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄昏橋上據胡床，青靄濛籠總是香。
-- 未說居閒南面樂，且乘北面十分凉。
+- 初生科斗聚如拳，鼓吹駸駸聒夜眠。
+- 料得魚蠻生妄想，麴車那解口流涎。
 
 ## 拼音
 
-- huang2 hun1 qiao2 shang4 ju4 hu2 chuang2 ， qing1 ai3 meng2 long2 zong3 shi4 xiang1 。
-- wei4 shuo1 ju1 xian2 nan2 mian4 le4 ， qie3 cheng2 bei3 mian4 shi2 fen1 liang2 。
+- chu1 sheng1 ke1 dou4 ju4 ru2 quan2 ， gu3 chui1 qin1 qin1 guo1 ye4 mian2 。
+- liao4 de2 yu2 man2 sheng1 wang4 xiang3 ， qu1 ju1 na4 jie3 kou3 liu2 xian2 。
 
 ## 注释
 

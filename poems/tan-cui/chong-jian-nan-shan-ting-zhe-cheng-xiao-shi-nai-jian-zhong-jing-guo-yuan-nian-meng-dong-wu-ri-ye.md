@@ -6,10 +6,10 @@ titleSlug: chong-jian-nan-shan-ting-zhe-cheng-xiao-shi-nai-jian-zhong-jing-guo-y
 author: 譚粹
 authorPinyin: tan2 cui4
 authorSlug: tan-cui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

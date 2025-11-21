@@ -1,38 +1,38 @@
 ---
 id: fang-yi-kui-xu-gan-xing-er-shi-wu-shou-qi-er
-title: 續感興二十五首  其二
-titlePinyin: xu4 gan3 xing1 er4 shi2 wu3 shou3     qi2 er4
+title: 續感興二十五首  其二○
+titlePinyin: xu4 gan3 xing1 er4 shi2 wu3 shou3     qi2 er4 ○
 titleSlug: xu-gan-xing-er-shi-wu-shou-qi-er
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 惡木生高岡，枝疎上指天。
-- 雨露非有私，蟠踞幾何年。
-- 蕘子寢其下，山鳥棲其巔。
-- 匠石過不睨，生理得自全。
-- 皮爲野火燒，根爲螻蟻穿。
-- 空中不足恃，一朝踣而顛。
-- 上有千歲藤，相依久纏綿。
-- 樹猶不自保，爾藤何足憐。
+- 老氏嗇而生，併力攻一境。
+- 深入黑暗中，杳杳無光景。
+- 佛氏定而死，百動不離靜。
+- 了了誰在眼，莫掇水中影。
+- 終然歸空無，用處各馳騁。
+- 紛紛墮此中，未悟此二柄。
+- 漂流餘千年，誰能折鋒穎。
+- 邈哉我前修，忠信得要領。
 
 ## 拼音
 
-- e4 mu4 sheng1 gao1 gang1 ， zhi1 shu1 shang4 zhi3 tian1 。
-- yu3 lu4 fei1 you3 si1 ， pan2 ju4 ji1 he2 nian2 。
-- rao2 zi3 qin3 qi2 xia4 ， shan1 niao3 qi1 qi2 dian1 。
-- jiang4 shi2 guo4 bu2 ni4 ， sheng1 li3 de2 zi4 quan2 。
-- pi2 wei2 ye3 huo3 shao1 ， gen1 wei2 lou2 yi3 chuan1 。
-- kong1 zhong1 bu4 zu2 shi4 ， yi4 zhao1 bo2 er2 dian1 。
-- shang4 you3 qian1 sui4 teng2 ， xiang1 yi1 jiu3 chan2 mian2 。
-- shu4 you2 bu2 zi4 bao3 ， er3 teng2 he2 zu2 lian2 。
+- lao3 shi4 se4 er2 sheng1 ， bing4 li4 gong1 yi2 jing4 。
+- shen1 ru4 hei1 an4 zhong1 ， yao3 yao3 wu2 guang1 jing3 。
+- fo2 shi4 ding4 er2 si3 ， bai3 dong4 bu4 li2 jing4 。
+- liao3 liao3 shui2 zai4 yan3 ， mo4 duo1 shui3 zhong1 ying3 。
+- zhong1 ran2 gui1 kong1 wu2 ， yong4 chu3 ge4 chi2 cheng3 。
+- fen1 fen1 duo4 ci3 zhong1 ， wei4 wu4 ci3 er4 bing3 。
+- piao1 liu2 yu2 qian1 nian2 ， shui2 neng2 zhe2 feng1 ying3 。
+- miao3 zai1 wo3 qian2 xiu1 ， zhong1 xin4 de2 yao4 ling3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄧遠舉
 authorPinyin: deng4 yuan3 ju3
 authorSlug: deng-yuan-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

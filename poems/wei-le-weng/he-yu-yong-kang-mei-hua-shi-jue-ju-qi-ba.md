@@ -6,10 +6,10 @@ titleSlug: he-yu-yong-kang-mei-hua-shi-jue-ju-qi-ba
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

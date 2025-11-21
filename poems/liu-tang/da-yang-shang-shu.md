@@ -9,13 +9,13 @@ authorSlug: liu-tang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 未向燕臺逢厚禮，幸因社會接餘歡。
-- 一魚喫了終無媿，鵾化爲鵬也不難。
+- 一魚喫了終無媿，鯤化爲鵬也不難。
 
 ## 拼音
 

@@ -6,25 +6,25 @@ titleSlug: li-qiu
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斗杓忽又指西樓，我獨何爲此滯留。
-- 多事心情人轉老，荒城風雨夜爭秋。
-- 一蓑屢費漁樵夢，杯酒難湔宇宙愁。
-- 好趁微凉便歸去，豆花籬落荻花洲。
+- 暑赦如聞降德音，一凉歡喜萬人心。
+- 雖然未便梧桐落，終是相將蟋蟀吟。
+- 初夜銀河正牛女，詰朝紅日尾觜參。
+- 朝廷欲覓玄真子，蟹舍漁蓑煙雨深。
 
 ## 拼音
 
-- dou4 shao2 hu1 you4 zhi3 xi1 lou2 ， wo3 du2 he2 wei2 ci3 zhi4 liu2 。
-- duo1 shi4 xin1 qing2 ren2 zhuan3 lao3 ， huang1 cheng2 feng1 yu3 ye4 zheng1 qiu1 。
-- yi4 suo1 lü3 fei4 yu2 qiao2 meng4 ， bei1 jiu3 nan2 jian1 yu3 zhou4 chou2 。
-- hao3 chen4 wei1 liang2 bian4 gui1 qu4 ， dou4 hua1 li2 luo4 di2 hua1 zhou1 。
+- shu3 she4 ru2 wen2 jiang4 de2 yin1 ， yi4 liang2 huan1 xi3 wan4 ren2 xin1 。
+- sui1 ran2 wei4 bian4 wu2 tong2 luo4 ， zhong1 shi4 xiang1 jiang1 xi1 shuai4 yin2 。
+- chu1 ye4 yin2 he2 zheng4 niu2 nü3 ， jie2 chao2 hong2 ri4 wei3 zi1 can1 。
+- chao2 ting2 yu4 mi4 xuan2 zhen1 zi0 ， xie4 she4 yu2 suo1 yan1 yu3 shen1 。
 
 ## 注释
 

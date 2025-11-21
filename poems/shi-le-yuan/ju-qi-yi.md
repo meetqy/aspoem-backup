@@ -6,19 +6,19 @@ titleSlug: ju-qi-yi
 author: 釋了元
 authorPinyin: shi4 le0 yuan2
 authorSlug: shi-le-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 子瞻船上带家來。
+- 紫蟹黄柑新酒熟，夜間船尾唱伊州。
 
 ## 拼音
 
-- zi3 zhan1 chuan2 shang4 dai4 jia1 lai2 。
+- zi3 xie4 huang2 gan1 xin1 jiu3 shu2 ， ye4 jian4 chuan2 wei3 chang4 yi1 zhou1 。
 
 ## 注释
 

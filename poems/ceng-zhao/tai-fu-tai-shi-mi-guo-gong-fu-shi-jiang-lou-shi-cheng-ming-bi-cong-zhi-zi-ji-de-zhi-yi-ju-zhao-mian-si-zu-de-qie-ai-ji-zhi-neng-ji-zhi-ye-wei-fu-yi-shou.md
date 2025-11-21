@@ -6,10 +6,10 @@ titleSlug: tai-fu-tai-shi-mi-guo-gong-fu-shi-jiang-lou-shi-cheng-ming-bi-cong-zh
 author: 曾肇
 authorPinyin: ceng2 zhao4
 authorSlug: ceng-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

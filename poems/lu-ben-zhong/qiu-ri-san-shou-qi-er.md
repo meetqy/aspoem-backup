@@ -6,21 +6,25 @@ titleSlug: qiu-ri-san-shou-qi-er
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵滿文書燈暗檠，荒城相望數殘更。
-- 莫言愁罷無佳處，睡正熟時聞雨聲。
+- 交游大半死，吾亦老相侵。
+- 古木十圍大，寒泉百尺深。
+- 恨猶能切骨，愁或至傷心。
+- 寄語南飛雁，君無笑苦吟。
 
 ## 拼音
 
-- chen2 man3 wen2 shu1 deng1 an4 qing2 ， huang1 cheng2 xiang1 wang4 shu4 can2 geng4 。
-- mo4 yan2 chou2 ba4 wu2 jia1 chu3 ， shui4 zheng4 shu2 shi2 wen2 yu3 sheng1 。
+- jiao1 you2 da4 ban4 si3 ， wu2 yi4 lao3 xiang4 qin1 。
+- gu3 mu4 shi2 wei2 da4 ， han2 quan2 bai3 chi3 shen1 。
+- hen4 you2 neng2 qie4 gu3 ， chou2 huo4 zhi4 shang1 xin1 。
+- ji4 yu3 nan2 fei1 yan4 ， jun1 wu2 xiao4 ku3 yin2 。
 
 ## 注释
 

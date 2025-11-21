@@ -6,10 +6,10 @@ titleSlug: xi-hu-wei-chen-shi-chong-jian-xing
 author: 壑大
 authorPinyin: he4 da4
 authorSlug: he-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

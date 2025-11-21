@@ -6,10 +6,10 @@ titleSlug: huang-di-shang-tai-shang-huang-di-shou-le-qu-gong-qing-ru-men-yong-li
 author: 崔敦詩
 authorPinyin: cui1 dun1 shi1
 authorSlug: cui-dun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bao-gai-shan
 author: 趙永嘉
 authorPinyin: zhao4 yong3 jia1
 authorSlug: zhao-yong-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

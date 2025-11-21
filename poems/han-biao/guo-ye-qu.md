@@ -6,25 +6,21 @@ titleSlug: guo-ye-qu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春澗涓涓水，山雲放晚晴。
-- 捧身推戶出，夷步過橋行。
-- 細草梅英嫩，崇桃柳線輕。
-- 人忻得芳事，禽鳥亦飛鳴。
+- 晚窗持酒對梅花，山色吹寒入歲華。
+- 冰水溪南南澗曲，行吟閒過兩三家。
 
 ## 拼音
 
-- chun1 jian4 juan1 juan1 shui3 ， shan1 yun2 fang4 wan3 qing2 。
-- peng3 shen1 tui1 hu4 chu1 ， yi2 bu4 guo4 qiao2 xing2 。
-- xi4 cao3 mei2 ying1 nen4 ， chong2 tao2 liu3 xian4 qing1 。
-- ren2 xin1 de2 fang1 shi4 ， qin2 niao3 yi4 fei1 ming2 。
+- wan3 chuang1 chi2 jiu3 dui4 mei2 hua1 ， shan1 se4 chui1 han2 ru4 sui4 hua2 。
+- bing1 shui3 xi1 nan2 nan2 jian4 qu3 ， xing2 yin2 xian2 guo4 liang3 san1 jia1 。
 
 ## 注释
 

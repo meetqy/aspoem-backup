@@ -6,10 +6,10 @@ titleSlug: he-dai-zhi-pang-xue-shi-ji-xian-gong-shi-xiang-gong-zhi-zuo
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

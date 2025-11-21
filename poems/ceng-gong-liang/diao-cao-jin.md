@@ -6,10 +6,10 @@ titleSlug: diao-cao-jin
 author: 曾公亮
 authorPinyin: ceng2 gong1 liang4
 authorSlug: ceng-gong-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

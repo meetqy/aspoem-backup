@@ -6,9 +6,9 @@ titleSlug: zi-yong
 author: 馮楫
 authorPinyin: feng2 ji2
 authorSlug: feng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,26 +1,26 @@
 ---
 id: shi-zong-gao-song-gu-yi-bai-er-shi-yi-shou-qi-yi-san
-title: 頌古一百二十一首  其一三
-titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 yi1 san1
+title: 頌古一百二十一首  其一○三
+titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 yi1 ○ san1
 titleSlug: song-gu-yi-bai-er-shi-yi-shou-qi-yi-san
 author: 釋宗杲
 authorPinyin: shi4 zong1 gao3
 authorSlug: shi-zong-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倒腹傾腸說向君，不知何物尚沈吟。
-- 而今便好猛提取，付與世間無事人。
+- 一口吸盡西江水，甲乙丙丁庚戊己。
+- 咄咄咄，囉囉哩。
 
 ## 拼音
 
-- dao3 fu4 qing1 chang2 shuo1 xiang4 jun1 ， bu4 zhi1 he2 wu4 shang4 shen3 yin2 。
-- er2 jin1 bian4 hao3 meng3 ti2 qu3 ， fu4 yu3 shi4 jian4 wu2 shi4 ren2 。
+- yi4 kou3 xi1 jin4 xi1 jiang1 shui3 ， jia3 yi3 bing3 ding1 geng1 wu4 ji3 。
+- duo1 duo1 duo1 ， luo1 luo1 li1 。
 
 ## 注释
 

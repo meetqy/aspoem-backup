@@ -6,10 +6,10 @@ titleSlug: bie-jian-fu-bo-xiu
 author: 度正
 authorPinyin: du4 zheng4
 authorSlug: du-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

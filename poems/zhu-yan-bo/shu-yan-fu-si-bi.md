@@ -6,10 +6,10 @@ titleSlug: shu-yan-fu-si-bi
 author: 朱巖伯
 authorPinyin: zhu1 yan2 bo2
 authorSlug: zhu-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

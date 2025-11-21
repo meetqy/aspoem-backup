@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-qi
-title: 證道歌  其七
-titlePinyin: zheng4 dao4 ge1     qi2 qi1
+title: 證道歌  其七○
+titlePinyin: zheng4 dao4 ge1     qi2 qi1 ○
 titleSlug: zheng-dao-ge-qi-qi
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 法身覺了無一物，入滅降生非出沒。
-- 觀身實相亦如然，究竟何曾離兜率。
+- 河沙諸佛體皆同，如今端坐大雄峰。
+- 森羅萬象無藏隱，元來只在一塵中。
 
 ## 拼音
 
-- fa3 shen1 jue2 le0 wu2 yi2 wu4 ， ru4 mie4 jiang4 sheng1 fei1 chu1 mei2 。
-- guan1 shen1 shi2 xiang1 yi4 ru2 ran2 ， jiu1 jing4 he2 ceng2 li2 dou1 lü4 。
+- he2 sha1 zhu1 fo2 ti3 jie1 tong2 ， ru2 jin1 duan1 zuo4 da4 xiong2 feng1 。
+- sen1 luo2 wan4 xiang4 wu2 cang2 yin3 ， yuan2 lai2 zhi1 zai4 yi4 chen2 zhong1 。
 
 ## 注释
 

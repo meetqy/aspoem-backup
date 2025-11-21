@@ -6,10 +6,10 @@ titleSlug: song-gu-si-shi-ba-shou-qi-si-yi
 author: 釋慧開
 authorPinyin: shi4 hui4 kai1
 authorSlug: shi-hui-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

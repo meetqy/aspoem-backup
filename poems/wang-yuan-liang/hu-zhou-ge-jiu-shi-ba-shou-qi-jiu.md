@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-hu-zhou-ge-jiu-shi-ba-shou-qi-jiu
-title: 湖州歌九十八首  其九
-titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 jiu3
+title: 湖州歌九十八首  其九○
+titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 jiu3 ○
 titleSlug: hu-zhou-ge-jiu-shi-ba-shou-qi-jiu
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一出宮門上畫船，紅紅白白艷神仙。
-- 山長水遠愁無那，又見江南月上弦。
+- 雪子飛飛塞面寒，地爐石炭共團欒。
+- 天家賜酒十銀甕，熊掌天鵝三玉盤。
 
 ## 拼音
 
-- yi4 chu1 gong1 men2 shang4 hua4 chuan2 ， hong2 hong2 bai2 bai2 yan4 shen2 xian1 。
-- shan1 chang2 shui3 yuan3 chou2 wu2 na4 ， you4 jian4 jiang1 nan2 yue4 shang4 xian2 。
+- xue3 zi3 fei1 fei1 sai1 mian4 han2 ， di4 lu2 shi2 tan4 gong4 tuan2 luan2 。
+- tian1 jia1 ci4 jiu3 shi2 yin2 weng4 ， xiong2 zhang3 tian1 e2 san1 yu4 pan2 。
 
 ## 注释
 

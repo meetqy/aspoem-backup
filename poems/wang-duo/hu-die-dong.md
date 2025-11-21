@@ -6,10 +6,10 @@ titleSlug: hu-die-dong
 author: 王鐸
 authorPinyin: wang2 duo2
 authorSlug: wang-duo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

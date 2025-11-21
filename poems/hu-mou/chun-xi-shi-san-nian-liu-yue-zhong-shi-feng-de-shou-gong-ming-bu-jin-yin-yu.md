@@ -6,10 +6,10 @@ titleSlug: chun-xi-shi-san-nian-liu-yue-zhong-shi-feng-de-shou-gong-ming-bu-jin-
 author: 胡某
 authorPinyin: hu2 mou3
 authorSlug: hu-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

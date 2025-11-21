@@ -6,10 +6,10 @@ titleSlug: shan-gu-zi-zan-yun-zuo-meng-zhong-meng-jian-shen-wai-shen-fu-tang-cen
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

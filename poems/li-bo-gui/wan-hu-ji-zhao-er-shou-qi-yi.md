@@ -6,10 +6,10 @@ titleSlug: wan-hu-ji-zhao-er-shou-qi-yi
 author: 李伯圭
 authorPinyin: li3 bo2 gui1
 authorSlug: li-bo-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

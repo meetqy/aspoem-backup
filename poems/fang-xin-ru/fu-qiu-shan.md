@@ -6,10 +6,10 @@ titleSlug: fu-qiu-shan
 author: 方信孺
 authorPinyin: fang1 xin4 ru2
 authorSlug: fang-xin-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

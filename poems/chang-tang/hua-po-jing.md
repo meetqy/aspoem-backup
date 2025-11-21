@@ -6,10 +6,10 @@ titleSlug: hua-po-jing
 author: 常棠
 authorPinyin: chang2 tang2
 authorSlug: chang-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

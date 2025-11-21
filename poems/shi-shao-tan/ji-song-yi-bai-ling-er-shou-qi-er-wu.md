@@ -6,23 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-er-wu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 憎金以黄，謗沉無香。
-- 達磨不會，歷魏遊梁。
-- 更有不識好惡底，齊腰立雪，寄食窮鄉，巴峽聞猿空斷腸。
+- 有一物，無人識。
+- 或在東南，或居西北。
+- 破草鞋跟踏著，價重千金；折拄杖頭挑來，分文不直。
+- 識不識，吳地冬瓜，鎮州蘿蔔。
 
 ## 拼音
 
-- zeng1 jin1 yi3 huang2 ， bang4 chen2 wu2 xiang1 。
-- da2 mo2 bu2 hui4 ， li4 wei4 you2 liang2 。
-- geng4 you3 bu4 shi2 hao3 e4 di3 ， qi2 yao1 li4 xue3 ， ji4 shi2 qiong2 xiang1 ， ba1 xia2 wen2 yuan2 kong1 duan4 chang2 。
+- you3 yi2 wu4 ， wu2 ren2 shi2 。
+- huo4 zai4 dong1 nan2 ， huo4 ju1 xi1 bei3 。
+- po4 cao3 xie2 gen1 ta4 zhu4 ， jia4 zhong4 qian1 jin1 ； zhe2 zhu3 zhang4 tou2 tiao1 lai2 ， fen1 wen2 bu4 zhi2 。
+- shi2 bu0 shi2 ， wu2 di4 dong1 gua1 ， zhen4 zhou1 luo2 bo0 。
 
 ## 注释
 

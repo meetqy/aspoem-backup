@@ -9,22 +9,22 @@ authorSlug: li-qi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 出郭喜見山，東行亦未遠。
-- 夕陽帶歸路，靄靄秋稼晚。
-- 樵者乘霽歸，野夫及星飯。
-- 請謝朱輪客，垂竿不復返。
+- 荆扉帶郊郭，稼穡滿東葘。
+- 倚杖寒山暮，鳴梭秋葉時。
+- 回雲覆陰谷，返景照霜梨。
+- 澹泊真吾事，清風別自茲。
 
 ## 拼音
 
-- chu1 guo1 xi3 jian4 shan1 ， dong1 xing2 yi4 wei4 yuan3 。
-- xi1 yang2 dai4 gui1 lu4 ， ai3 ai3 qiu1 jia4 wan3 。
-- qiao2 zhe3 cheng2 ji4 gui1 ， ye3 fu1 ji2 xing1 fan4 。
-- qing3 xie4 zhu1 lun2 ke4 ， chui2 gan1 bu2 fu4 fan3 。
+- jing1 fei1 dai4 jiao1 guo1 ， jia4 se4 man3 dong1 zi1 。
+- yi3 zhang4 han2 shan1 mu4 ， ming2 suo1 qiu1 ye4 shi2 。
+- hui2 yun2 fu4 yin1 gu3 ， fan3 jing3 zhao4 shuang1 li2 。
+- dan4 bo2 zhen1 wu2 shi4 ， qing1 feng1 bie2 zi4 zi1 。
 
 ## 注释
 

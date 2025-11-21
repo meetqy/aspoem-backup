@@ -6,25 +6,21 @@ titleSlug: bing-zhong
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貸米供晨炊，尚欠數束薪。
-- 平生甘此味，此去未爲貧。
-- 新霜已嚴厲，况我病經旬。
-- 但守此心足，無爲思古人。
+- 藥裹關心老不宜，只今筋力已全衰。
+- 何由更得身無事，却似他時把酒時。
 
 ## 拼音
 
-- dai4 mi3 gong4 chen2 chui1 ， shang4 qian4 shu4 shu4 xin1 。
-- ping2 sheng1 gan1 ci3 wei4 ， ci3 qu4 wei4 wei2 pin2 。
-- xin1 shuang1 yi3 yan2 li4 ， kuang4 wo3 bing4 jing1 xun2 。
-- dan4 shou3 ci3 xin1 zu2 ， wu2 wei2 si1 gu3 ren2 。
+- yao4 guo3 guan1 xin1 lao3 bu4 yi2 ， zhi1 jin1 jin1 li4 yi3 quan2 shuai1 。
+- he2 you2 geng4 de2 shen1 wu2 shi4 ， que4 si4 ta1 shi2 ba3 jiu3 shi2 。
 
 ## 注释
 

@@ -9,22 +9,24 @@ authorSlug: wen-ting-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 茅堂對薇蕨，爐曖一裘輕。
-- 醉後楚山夢，覺來春鳥聲。
-- 採茶溪樹綠，煮藥石泉清。
-- 不問人間事，忘機過此生。
+- 楚客隱名姓，圍碁當薜蘿。
+- 亂溪藏釣石，一鶴在庭柯。
+- 敗堰水聲急，破窗山色多。
+- 南軒新竹逕，應許子猷過。
+- （《又玄集》中）。
 
 ## 拼音
 
-- mao2 tang2 dui4 wei1 jue2 ， lu2 ai4 yi4 qiu2 qing1 。
-- zui4 hou4 chu3 shan1 meng4 ， jue2 lai2 chun1 niao3 sheng1 。
-- cai3 cha2 xi1 shu4 lü4 ， zhu3 yao4 shi2 quan2 qing1 。
-- bu2 wen4 ren2 jian4 shi4 ， wang4 ji1 guo4 ci3 sheng1 。
+- chu3 ke4 yin3 ming2 xing4 ， wei2 qi2 dang1 bi4 luo2 。
+- luan4 xi1 cang2 diao4 shi2 ， yi2 he4 zai4 ting2 ke1 。
+- bai4 yan4 shui3 sheng1 ji2 ， po4 chuang1 shan1 se4 duo1 。
+- nan2 xuan1 xin1 zhu2 jing4 ， ying1 xu1 zi3 you2 guo4 。
+- （《 you4 xuan2 ji2 》 zhong1 ）。
 
 ## 注释
 

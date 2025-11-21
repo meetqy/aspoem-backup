@@ -6,10 +6,10 @@ titleSlug: ou-jian-zhi-zhu-yin-cheng-si-yun
 author: 翟嗣宗
 authorPinyin: zhai2 si4 zong1
 authorSlug: zhai-si-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

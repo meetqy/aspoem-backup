@@ -6,10 +6,10 @@ titleSlug: ci-bang-xian-xuan-de-hong-mei-shi-yun-qi-si
 author: 吳頤
 authorPinyin: wu2 yi2
 authorSlug: wu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

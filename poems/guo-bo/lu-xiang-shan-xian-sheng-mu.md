@@ -6,10 +6,10 @@ titleSlug: lu-xiang-shan-xian-sheng-mu
 author: 郭波
 authorPinyin: guo1 bo1
 authorSlug: guo-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

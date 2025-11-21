@@ -6,37 +6,21 @@ titleSlug: hai-tang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西域流根遠，中都屬賞偏。
-- 初無可並色，竟不許勝妍。
-- 薄暝霞烘爛，平明露濯鮮。
-- 長衾繡作地，密帳錦爲天。
-- 淺影纔欹檻，橫柯欲照筵。
-- 愁心隨落處，醉眼著繁邊。
-- 的的誇妝靚，番番恃笑嫣。
-- 何嘗見蘭媚，要是掩櫻然。
-- 艷足非他譽，香輕且近傳。
-- 所嗟名後出，遺載楚臣篇。
+- 萬萼霞乾照曙空，向來心賞已多同。
+- 未如此日家園樂，數徧繁枝衮衮紅。
 
 ## 拼音
 
-- xi1 yu4 liu2 gen1 yuan3 ， zhong1 du1 shu3 shang3 pian1 。
-- chu1 wu2 ke3 bing4 se4 ， jing4 bu4 xu1 sheng4 yan2 。
-- bao2 ming2 xia2 hong1 lan4 ， ping2 ming2 lu4 zhuo2 xian1 。
-- chang2 qin1 xiu4 zuo4 di4 ， mi4 zhang4 jin3 wei2 tian1 。
-- qian3 ying3 cai2 qi1 jian4 ， heng2 ke1 yu4 zhao4 yan2 。
-- chou2 xin1 sui2 luo4 chu3 ， zui4 yan3 zhu4 fan2 bian1 。
-- de0 de0 kua1 zhuang1 jing4 ， fan1 fan1 shi4 xiao4 yan1 。
-- he2 chang2 jian4 lan2 mei4 ， yao4 shi0 yan3 ying1 ran2 。
-- yan4 zu2 fei1 ta1 yu4 ， xiang1 qing1 qie3 jin4 chuan2 。
-- suo3 jie1 ming2 hou4 chu1 ， yi2 zai4 chu3 chen2 pian1 。
+- wan4 e4 xia2 qian2 zhao4 shu3 kong1 ， xiang4 lai2 xin1 shang3 yi3 duo1 tong2 。
+- wei4 ru2 ci3 ri4 jia1 yuan2 le4 ， shu4 bian4 fan2 zhi1 gun3 gun3 hong2 。
 
 ## 注释
 

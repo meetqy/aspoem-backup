@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蓬蓽久不居，乍歸欣故情。
-- 落葉聚蛛網，殘莎閙蛩聲。
-- 迹與朝市遠，夢隨風月清。
-- 從此眠食間，蕭散安餘生。
+- 新年供家廟，老稚晨夕忙。
+- 塊坐溫暖處，但聞油醤香。
+- 不問物物闕，有食時時嘗。
+- 諸孫甚解事，翁乃無饑腸。
 
 ## 拼音
 
-- peng2 bi4 jiu3 bu4 ju1 ， zha4 gui1 xin1 gu4 qing2 。
-- luo4 ye4 ju4 zhu1 wang3 ， can2 sha1 nao4 qiong2 sheng1 。
-- ji4 yu3 chao2 shi4 yuan3 ， meng4 sui2 feng1 yue4 qing1 。
-- cong2 ci3 mian2 shi2 jian4 ， xiao1 san4 an1 yu2 sheng1 。
+- xin1 nian2 gong4 jia1 miao4 ， lao3 zhi4 chen2 xi1 mang2 。
+- kuai4 zuo4 wen1 nuan3 chu3 ， dan4 wen2 you2 jiang4 xiang1 。
+- bu2 wen4 wu4 wu4 que4 ， you3 shi2 shi2 shi2 chang2 。
+- zhu1 sun1 shen4 jie3 shi4 ， weng1 nai3 wu2 ji1 chang2 。
 
 ## 注释
 

@@ -6,21 +6,25 @@ titleSlug: ci-yun-zhao-wei
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世於吾道轉崎嶇，是與非耶一子虛。
-- 借得祁山兩間屋，一間分與月明居。
+- 昨過騎馿尉，香深茗一杯。
+- 杏寒春且住，芹老燕初來。
+- 山自相知甚，僊今安在哉。
+- 晚洲分鷺宿，了不受嫌猜。
 
 ## 拼音
 
-- shi4 wu1 wu2 dao4 zhuan3 qi2 qu1 ， shi4 yu3 fei1 ye1 yi4 zi3 xu1 。
-- jie4 de2 qi2 shan1 liang3 jian4 wu1 ， yi2 jian4 fen1 yu3 yue4 ming2 ju1 。
+- zuo2 guo4 qi2 lu2 wei4 ， xiang1 shen1 ming2 yi4 bei1 。
+- xing4 han2 chun1 qie3 zhu4 ， qin2 lao3 yan4 chu1 lai2 。
+- shan1 zi4 xiang1 zhi1 shen4 ， xian1 jin1 an1 zai4 zai1 。
+- wan3 zhou1 fen1 lu4 su4 ， liao3 bu2 shou4 xian2 cai1 。
 
 ## 注释
 

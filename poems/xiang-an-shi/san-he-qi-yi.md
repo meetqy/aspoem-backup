@@ -1,26 +1,26 @@
 ---
 id: xiang-an-shi-san-he-qi-yi
-title: 三和  其一
-titlePinyin: san1 he2     qi2 yi1
+title: 三和  其一○
+titlePinyin: san1 he2     qi2 yi1 ○
 titleSlug: san-he-qi-yi
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 易簡乾坤正理，寬平雅頌真情。
-- 何處如今更有，壁間牀下秋聲。
+- 老子於此不淺，先師教我資深。
+- 但使發乎情性，何愁嘔出肝心。
 
 ## 拼音
 
-- yi4 jian3 qian2 kun1 zheng4 li3 ， kuan1 ping2 ya3 song4 zhen1 qing2 。
-- he2 chu3 ru2 jin1 geng4 you3 ， bi4 jian4 chuang2 xia4 qiu1 sheng1 。
+- lao3 zi3 wu1 ci3 bu4 qian3 ， xian1 shi1 jiao4 wo3 zi1 shen1 。
+- dan4 shi3 fa1 hu1 qing2 xing4 ， he2 chou2 ou3 chu1 gan1 xin1 。
 
 ## 注释
 

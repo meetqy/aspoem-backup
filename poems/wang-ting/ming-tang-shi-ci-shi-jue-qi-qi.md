@@ -6,10 +6,10 @@ titleSlug: ming-tang-shi-ci-shi-jue-qi-qi
 author: 王庭
 authorPinyin: wang2 ting2
 authorSlug: wang-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

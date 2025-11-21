@@ -6,10 +6,10 @@ titleSlug: kui-zhou-ge-jian-chao-zi-xi
 author: 王從道
 authorPinyin: wang2 cong2 dao4
 authorSlug: wang-cong-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

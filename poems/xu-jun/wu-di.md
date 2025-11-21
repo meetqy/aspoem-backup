@@ -6,21 +6,21 @@ titleSlug: wu-di
 author: 徐鈞
 authorPinyin: xu2 jun1
 authorSlug: xu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一曲秋風已悔心，此機開導竟無人。
-- 後來不下輪臺詔，黷武求仙又一秦。
+- 東南離析僅遺餘，枉受污名僭帝名。
+- 輸却當年曹馬巧，不先受禪且驅除。
 
 ## 拼音
 
-- yi4 qu3 qiu1 feng1 yi3 hui3 xin1 ， ci3 ji1 kai1 dao3 jing4 wu2 ren2 。
-- hou4 lai2 bu2 xia4 lun2 tai2 zhao4 ， du2 wu3 qiu2 xian1 you4 yi4 qin2 。
+- dong1 nan2 li2 xi1 jin3 yi2 yu2 ， wang3 shou4 wu1 ming2 jian4 di4 ming2 。
+- shu1 que4 dang1 nian2 cao2 ma3 qiao3 ， bu4 xian1 shou4 shan4 qie3 qu1 chu2 。
 
 ## 注释
 

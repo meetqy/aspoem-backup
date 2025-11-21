@@ -6,10 +6,10 @@ titleSlug: chong-an-dao-zhong
 author: 趙彥端
 authorPinyin: zhao4 yan4 duan1
 authorSlug: zhao-yan-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

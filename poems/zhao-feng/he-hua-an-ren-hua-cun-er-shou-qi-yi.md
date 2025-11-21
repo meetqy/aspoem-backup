@@ -6,10 +6,10 @@ titleSlug: he-hua-an-ren-hua-cun-er-shou-qi-yi
 author: 趙逢
 authorPinyin: zhao4 feng2
 authorSlug: zhao-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

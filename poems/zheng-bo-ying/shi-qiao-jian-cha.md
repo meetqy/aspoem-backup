@@ -6,10 +6,10 @@ titleSlug: shi-qiao-jian-cha
 author: 鄭伯英
 authorPinyin: zheng4 bo2 ying1
 authorSlug: zheng-bo-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

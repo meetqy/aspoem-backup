@@ -6,21 +6,25 @@ titleSlug: yuan-xi
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一簇蓮燈亦可觀，隔牆簫鼓二更殘。
-- 平生未識繁華事，旋借宣和國史看。
+- 夢想傳柑宴，村醪可試沽。
+- 謾酬元夕爾，不復去年吾。
+- 舊事思清汴，幽情卜紫姑。
+- 六分春已一，秉燭步通衢。
 
 ## 拼音
 
-- yi2 cu4 lian2 deng1 yi4 ke3 guan1 ， ge2 qiang2 xiao1 gu3 er4 geng1 can2 。
-- ping2 sheng1 wei4 shi2 fan2 hua2 shi4 ， xuan2 jie4 xuan1 he2 guo2 shi3 kan4 。
+- meng4 xiang3 chuan2 gan1 yan4 ， cun1 lao2 ke3 shi4 gu1 。
+- man2 chou2 yuan2 xi1 er3 ， bu2 fu4 qu4 nian2 wu2 。
+- jiu4 shi4 si1 qing1 bian4 ， you1 qing2 bu3 zi3 gu1 。
+- liu4 fen1 chun1 yi3 yi1 ， bing3 zhu2 bu4 tong1 qu2 。
 
 ## 注释
 

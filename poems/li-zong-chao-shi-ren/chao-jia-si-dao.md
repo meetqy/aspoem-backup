@@ -6,10 +6,10 @@ titleSlug: chao-jia-si-dao
 author: 理宗朝士人
 authorPinyin: li3 zong1 chao2 shi4 ren2
 authorSlug: li-zong-chao-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: yuan-su-zai-yao-tong-fu
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 載酒何人肯見臨，情於老伴莫嫌深。
-- 誦君詞賦疑仙去，笑我功名付陸沉。
-- 且可閉門留客飲，不知擁膝是誰吟。
-- 幅巾趁取春猶在，來聽黄鸝喚午陰。
+- 家住三峰頗下臨，畏人小築不辭深。
+- 南齊謝老樓空在，東海麻姑信已沉。
+- 恨子不當青瑣闥，伴人猶作白頭吟。
+- 我窮無物能娛客，只有蒼梧滿地陰。
 
 ## 拼音
 
-- zai4 jiu3 he2 ren2 ken3 jian4 lin2 ， qing2 wu1 lao3 ban4 mo4 xian2 shen1 。
-- song4 jun1 ci2 fu4 yi2 xian1 qu4 ， xiao4 wo3 gong1 ming2 fu4 lu4 chen2 。
-- qie3 ke3 bi4 men2 liu2 ke4 yin3 ， bu4 zhi1 yong1 xi1 shi4 shui2 yin2 。
-- fu2 jin1 chen4 qu3 chun1 you2 zai4 ， lai2 ting1 huang2 li2 huan4 wu3 yin1 。
+- jia1 zhu4 san1 feng1 po1 xia4 lin2 ， wei4 ren2 xiao3 zhu4 bu4 ci2 shen1 。
+- nan2 qi2 xie4 lao3 lou2 kong1 zai4 ， dong1 hai3 ma2 gu1 xin4 yi3 chen2 。
+- hen4 zi3 bu4 dang1 qing1 suo3 ta4 ， ban4 ren2 you2 zuo4 bai2 tou2 yin2 。
+- wo3 qiong2 wu2 wu4 neng2 yu2 ke4 ， zhi3 you3 cang1 wu2 man3 di4 yin1 。
 
 ## 注释
 

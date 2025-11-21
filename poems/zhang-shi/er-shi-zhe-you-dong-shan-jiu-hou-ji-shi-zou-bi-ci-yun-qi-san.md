@@ -6,10 +6,10 @@ titleSlug: er-shi-zhe-you-dong-shan-jiu-hou-ji-shi-zou-bi-ci-yun-qi-san
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qi-liang-yue-guan-jiao-shan-zai-wang
 author: 曹𨙅
 authorPinyin: cao2 𨙅
 authorSlug: cao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

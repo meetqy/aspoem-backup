@@ -6,10 +6,10 @@ titleSlug: jian-xuan
 author: 劉大綱
 authorPinyin: liu2 da4 gang1
 authorSlug: liu-da-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: an
 author: 馮脩之
 authorPinyin: feng2 xiu1 zhi1
 authorSlug: feng-xiu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

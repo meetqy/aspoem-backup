@@ -6,10 +6,10 @@ titleSlug: de-lin-yue-you-xi-shan-mou-zi-zan-lai-hui-xing-li-zu-xiu-cheng-ci-shi
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳嗣昭
 authorPinyin: chen2 si4 zhao1
 authorSlug: chen-si-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-yi-jin-yun-jin-shi-zhou-qi-ming-chang-shu-cheng-mi-ge-huang-shao-q
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

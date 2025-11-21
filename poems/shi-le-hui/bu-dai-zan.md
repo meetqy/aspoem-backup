@@ -6,21 +6,23 @@ titleSlug: bu-dai-zan
 author: 釋了惠
 authorPinyin: shi4 le0 hui4
 authorSlug: shi-le-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 烏藤橫占閻浮界，鼻孔直撐兜率天。
-- 剛道化身千百億，一身猶自不完全。
+- 捫腹一笑，笑裏戈矛。
+- 背手牽囊，囊中錐刺。
+- 將謂渠儂有底聱，元來奉化只如此。
 
 ## 拼音
 
-- wu1 teng2 heng2 zhan4 yan2 fu2 jie4 ， bi2 kong3 zhi2 cheng1 dou1 lü4 tian1 。
-- gang1 dao4 hua4 shen1 qian1 bai3 yi4 ， yi4 shen1 you2 zi4 bu4 wan2 quan2 。
+- men2 fu4 yi2 xiao4 ， xiao4 li3 ge1 mao2 。
+- bei4 shou3 qian1 nang2 ， nang2 zhong1 zhui1 ci4 。
+- jiang1 wei4 qu2 nong2 you3 di3 ao2 ， yuan2 lai2 feng4 hua4 zhi1 ru2 ci3 。
 
 ## 注释
 

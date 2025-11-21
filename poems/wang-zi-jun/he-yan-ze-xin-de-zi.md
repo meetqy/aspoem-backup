@@ -6,10 +6,10 @@ titleSlug: he-yan-ze-xin-de-zi
 author: 王子俊
 authorPinyin: wang2 zi3 jun4
 authorSlug: wang-zi-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

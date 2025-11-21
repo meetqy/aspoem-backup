@@ -1,32 +1,34 @@
 ---
 id: liu-chang-yong-gu-shi-shi-er-shou-qi-yi
-title: 詠古詩十二首  其一
-titlePinyin: yong3 gu3 shi1 shi2 er4 shou3     qi2 yi1
+title: 詠古詩十二首  其一○
+titlePinyin: yong3 gu3 shi1 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: yong-gu-shi-shi-er-shou-qi-yi
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 虹蜺明西方，五色相屬聫。
-- 浮雲萬里來，泱鬱天宇間。
-- 白日晦無象，盛陽變爲寒。
-- 洚水彌九土，陵谷相貿遷。
-- 盈虛叵前測，物理有固然。
+- 麒麟不可羈，安得書春秋。
+- 鳯凰云難致，孰使鳴岐周。
+- 無田于甫田，歳月忽已遒。
+- 如非行邁謀，自宜道路脩。
+- 安知吹鳴律，燕谷成良疇。
+- 不見託秋駕，崑墟亦能游。
 
 ## 拼音
 
-- hong2 ni2 ming2 xi1 fang1 ， wu3 se4 xiang4 shu3 lian2 。
-- fu2 yun2 wan4 li3 lai2 ， yang1 yu4 tian1 yu3 jian4 。
-- bai2 ri4 hui4 wu2 xiang4 ， sheng4 yang2 bian4 wei2 han2 。
-- jiang4 shui3 mi2 jiu3 tu3 ， ling2 gu3 xiang1 mao4 qian1 。
-- ying2 xu1 po3 qian2 ce4 ， wu4 li3 you3 gu4 ran2 。
+- qi2 lin2 bu4 ke3 ji1 ， an1 de2 shu1 chun1 qiu1 。
+- feng4 huang2 yun2 nan2 zhi4 ， shu2 shi3 ming2 qi2 zhou1 。
+- wu2 tian2 yu2 fu3 tian2 ， sui4 yue4 hu1 yi3 qiu2 。
+- ru2 fei1 xing2 mai4 mou2 ， zi4 yi2 dao4 lu4 xiu1 。
+- an1 zhi1 chui1 ming2 lü4 ， yan4 gu3 cheng2 liang2 chou2 。
+- bu2 jian4 tuo1 qiu1 jia4 ， kun1 xu1 yi4 neng2 you2 。
 
 ## 注释
 

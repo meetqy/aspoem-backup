@@ -6,9 +6,9 @@ titleSlug: xie-li-bo-shi-zi-lin-an-jian-guo-tai-zhou-er-shou-qi-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

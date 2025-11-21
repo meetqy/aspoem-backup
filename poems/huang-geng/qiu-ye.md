@@ -6,25 +6,25 @@ titleSlug: qiu-ye
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 博山香冷夜將闌，紅影摇窗燭未殘。
-- 庭樹露濃花氣濕，井梧風老葉聲乾。
-- 世情冷暖知心少，朋舊東西會面難。
-- 一段客愁吟不就，無言背月倚闌干。
+- 十分秋色滿軒窗，景物凄清夜氣凉。
+- 篩月簾櫳金瑣碎，搗霜砧杵玉丁璫。
+- 井梧葉脫無多影，巖桂花稠不斷香。
+- 坐到更深吟興動，硯池滴露寫詩狂。
 
 ## 拼音
 
-- bo2 shan1 xiang1 leng3 ye4 jiang1 lan2 ， hong2 ying3 yao2 chuang1 zhu2 wei4 can2 。
-- ting2 shu4 lu4 nong2 hua1 qi4 shi1 ， jing3 wu2 feng1 lao3 ye4 sheng1 qian2 。
-- shi4 qing2 leng3 nuan3 zhi1 xin1 shao3 ， peng2 jiu4 dong1 xi1 hui4 mian4 nan2 。
-- yi2 duan4 ke4 chou2 yin2 bu2 jiu4 ， wu2 yan2 bei4 yue4 yi3 lan2 gan1 。
+- shi2 fen1 qiu1 se4 man3 xuan1 chuang1 ， jing3 wu4 qi1 qing1 ye4 qi4 liang2 。
+- shai1 yue4 lian2 long2 jin1 suo3 sui4 ， dao3 shuang1 zhen1 chu3 yu4 ding1 dang1 。
+- jing3 wu2 ye4 tuo1 wu2 duo1 ying3 ， yan2 gui4 hua1 chou2 bu2 duan4 xiang1 。
+- zuo4 dao4 geng4 shen1 yin2 xing1 dong4 ， yan4 chi2 di1 lu4 xie3 shi1 kuang2 。
 
 ## 注释
 

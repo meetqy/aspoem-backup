@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-jiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老子齋居罷擊鮮，木盤竹筯每隨緣。
-- 鄰僧不用分香鉢，蓮芡猶堪過半年。
+- 眼明尚見蠅頭字，暑退初親雁足燈。
+- 歷歷胸中千載事，莫將輕比住庵僧。
 
 ## 拼音
 
-- lao3 zi3 zhai1 ju1 ba4 ji1 xian1 ， mu4 pan2 zhu2 zhu4 mei3 sui2 yuan2 。
-- lin2 seng1 bu2 yong4 fen1 xiang1 bo1 ， lian2 qian4 you2 kan1 guo4 ban4 nian2 。
+- yan3 ming2 shang4 jian4 ying2 tou2 zi4 ， shu3 tui4 chu1 qin1 yan4 zu2 deng1 。
+- li4 li4 xiong1 zhong1 qian1 zai4 shi4 ， mo4 jiang1 qing1 bi3 zhu4 an1 seng1 。
 
 ## 注释
 

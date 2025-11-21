@@ -6,25 +6,25 @@ titleSlug: ren-qiu-dao-zhong-zhi-xue-zeng-quan-yi-zai-cao-yi-qu-dao-cao-he-jian-
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宿霧寒猶重，濃陰曉未分。
-- 山川連野暗，雞犬隔村聞。
-- 浩蕩天將雪，朦朧酒半醺。
-- 向來臨易水，長嘯欲移文。
+- 驊騮終日在道路，鸚鵡一生遭網羅。
+- 諸公但欲選才耳，明府其如多事何。
+- 釜中烹魚莫倉卒，車下叩角徒悲歌。
+- 寄書請問皇華使，今日誰堪政事科。
 
 ## 拼音
 
-- su4 wu4 han2 you2 zhong4 ， nong2 yin1 xiao3 wei4 fen1 。
-- shan1 chuan1 lian2 ye3 an4 ， ji1 quan3 ge2 cun1 wen2 。
-- hao4 dang4 tian1 jiang1 xue3 ， meng2 long2 jiu3 ban4 xun1 。
-- xiang4 lai2 lin2 yi4 shui3 ， chang2 xiao4 yu4 yi2 wen2 。
+- hua2 liu2 zhong1 ri4 zai4 dao4 lu4 ， ying1 wu3 yi4 sheng1 zao1 wang3 luo2 。
+- zhu1 gong1 dan4 yu4 xuan3 cai2 er3 ， ming2 fu3 qi2 ru2 duo1 shi4 he2 。
+- fu3 zhong1 peng1 yu2 mo4 cang1 zu2 ， ju1 xia4 kou4 jiao3 tu2 bei1 ge1 。
+- ji4 shu1 qing3 wen4 huang2 hua2 shi3 ， jin1 ri4 shui2 kan1 zheng4 shi4 ke1 。
 
 ## 注释
 

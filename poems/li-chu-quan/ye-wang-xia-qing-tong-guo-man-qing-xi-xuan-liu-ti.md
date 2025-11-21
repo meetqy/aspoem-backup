@@ -6,9 +6,9 @@ titleSlug: ye-wang-xia-qing-tong-guo-man-qing-xi-xuan-liu-ti
 author: 李處權
 authorPinyin: li3 chu3 quan2
 authorSlug: li-chu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

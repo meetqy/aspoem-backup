@@ -6,10 +6,10 @@ titleSlug: qi-ri-fa-yue-lu-dao-zhong-xun-mei-bu-huo-zhi-shi-ri-yu-xue-zuo-ci
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

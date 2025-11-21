@@ -6,10 +6,10 @@ titleSlug: ji
 author: 呂生
 authorPinyin: lü3 sheng1
 authorSlug: lu-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: wu-ti-san-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浪出嗟何補，歸來樂有餘。
-- 山川付不借，天地託蘧廬。
-- 酒熟聊呼客，鈎垂不在魚。
-- 平生棲遯意，政用蓋迂疎。
+- 才不時宜嬾治生，學專信已一官輕。
+- 只今尚友須千載，獨惜時無尚子平。
 
 ## 拼音
 
-- lang4 chu1 jie1 he2 bu3 ， gui1 lai2 le4 you3 yu2 。
-- shan1 chuan1 fu4 bu2 jie4 ， tian1 di4 tuo1 qu2 lu2 。
-- jiu3 shu2 liao2 hu1 ke4 ， gou1 chui2 bu2 zai4 yu2 。
-- ping2 sheng1 qi1 dun4 yi4 ， zheng4 yong4 gai4 yu1 shu1 。
+- cai2 bu4 shi2 yi2 lan3 zhi4 sheng1 ， xue2 zhuan1 xin4 yi3 yi4 guan1 qing1 。
+- zhi1 jin1 shang4 you3 xu1 qian1 zai4 ， du2 xi1 shi2 wu2 shang4 zi3 ping2 。
 
 ## 注释
 

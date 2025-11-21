@@ -6,10 +6,10 @@ titleSlug: zhang-ji-zi-xie-suo-zuo-le-fu-lai-yi-shi-xie-zhi
 author: 曾協
 authorPinyin: ceng2 xie2
 authorSlug: ceng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

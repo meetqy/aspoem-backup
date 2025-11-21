@@ -6,10 +6,10 @@ titleSlug: ju
 author: 榮諲
 authorPinyin: rong2 yin1
 authorSlug: rong-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

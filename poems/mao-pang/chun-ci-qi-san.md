@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-san
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雪盡牙籤暖，芸生竹簡香。
-- 夜分猶樂此，定喜日舒長。
+- 好生恰對發生時，寛大恩流渙汗飛。
+- 雷雨解成僵枿動，蓼蕭詩就遠人歸。
 
 ## 拼音
 
-- xue3 jin4 ya2 qian1 nuan3 ， yun2 sheng1 zhu2 jian3 xiang1 。
-- ye4 fen1 you2 le4 ci3 ， ding4 xi3 ri4 shu1 chang2 。
+- hao3 sheng1 qia4 dui4 fa1 sheng1 shi2 ， kuan1 da4 en1 liu2 huan4 han4 fei1 。
+- lei2 yu3 jie3 cheng2 jiang1 nie4 dong4 ， liao3 xiao1 shi1 jiu4 yuan3 ren2 gui1 。
 
 ## 注释
 

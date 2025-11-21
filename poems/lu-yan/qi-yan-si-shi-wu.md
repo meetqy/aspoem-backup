@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 返本還元已到乾，能升能降號飛仙。
-- 一陽生是興功日，九轉周爲得道年。
-- 煉藥但尋金裏水，安爐先立地中天。
-- 此中便是還丹理，不遇奇人誓莫傳。
+- 春盡閑閑過落花，一回舞劍一吁嗟。
+- 常憂白日光陰促，每恨青天道路賒。
+- 本志不求名與利，元心只慕水兼霞。
+- 世間萬種浮沈事，達理誰能似我家。
 
 ## 拼音
 
-- fan3 ben3 huan2 yuan2 yi3 dao4 qian2 ， neng2 sheng1 neng2 jiang4 hao4 fei1 xian1 。
-- yi4 yang2 sheng1 shi4 xing1 gong1 ri4 ， jiu3 zhuan3 zhou1 wei2 de2 dao4 nian2 。
-- lian4 yao4 dan4 xun2 jin1 li3 shui3 ， an1 lu2 xian1 li4 di4 zhong1 tian1 。
-- ci3 zhong1 bian4 shi4 huan2 dan1 li3 ， bu2 yu4 qi2 ren2 shi4 mo4 chuan2 。
+- chun1 jin4 xian2 xian2 guo4 luo4 hua1 ， yi4 hui2 wu3 jian4 yi4 xu1 jie1 。
+- chang2 you1 bai2 ri4 guang1 yin1 cu4 ， mei3 hen4 qing1 tian1 dao4 lu4 she1 。
+- ben3 zhi4 bu4 qiu2 ming2 yu3 li4 ， yuan2 xin1 zhi1 mu4 shui3 jian1 xia2 。
+- shi4 jian4 wan4 zhong3 fu2 shen3 shi4 ， da2 li3 shui2 neng2 si4 wo3 jia1 。
 
 ## 注释
 

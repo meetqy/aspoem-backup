@@ -6,21 +6,21 @@ titleSlug: mei-hua
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 高花玉質照窮臈，破雪數枝春已多。
-- 一時傾倒東風意，桃李爭春奈晚何。
+- 一枝斜映佛前燈，春入銅壺夜不冰。
+- 昔歲曾遊大庾嶺，今年聊作小乘僧。
 
 ## 拼音
 
-- gao1 hua1 yu4 zhi4 zhao4 qiong2 la4 ， po4 xue3 shu4 zhi1 chun1 yi3 duo1 。
-- yi4 shi2 qing1 dao3 dong1 feng1 yi4 ， tao2 li3 zheng1 chun1 nai4 wan3 he2 。
+- yi4 zhi1 xie2 ying4 fo2 qian2 deng1 ， chun1 ru4 tong2 hu2 ye4 bu4 bing1 。
+- xi1 sui4 ceng2 you2 da4 yu3 ling3 ， jin1 nian2 liao2 zuo4 xiao3 cheng2 seng1 。
 
 ## 注释
 

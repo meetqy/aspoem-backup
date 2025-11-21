@@ -6,25 +6,25 @@ titleSlug: ye-wang
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜葉紅於染，吹花落更馨。
-- 平江行詰曲，小徑夾葱青。
-- 度鳥開愁眼，遥山入畫屏。
-- 畏人惟可飲，從俗却須醒。
+- 山開兩岸柳，水遶數家村。
+- 地勢傾崖口，風濤嚙石根。
+- 平林霜著色，沙岸水留痕。
+- 剩寄還鄉泣，難招去國魂。
 
 ## 拼音
 
-- shuang1 ye4 hong2 wu1 ran3 ， chui1 hua1 luo4 geng4 xin1 。
-- ping2 jiang1 xing2 jie2 qu3 ， xiao3 jing4 jia1 cong1 qing1 。
-- du4 niao3 kai1 chou2 yan3 ， yao2 shan1 ru4 hua4 ping2 。
-- wei4 ren2 wei2 ke3 yin3 ， cong2 su2 que4 xu1 xing3 。
+- shan1 kai1 liang3 an4 liu3 ， shui3 rao4 shu4 jia1 cun1 。
+- di4 shi4 qing1 ya2 kou3 ， feng1 tao1 nie4 shi2 gen1 。
+- ping2 lin2 shuang1 zhuo2 se4 ， sha1 an4 shui3 liu2 hen2 。
+- sheng4 ji4 huan2 xiang1 qi4 ， nan2 zhao1 qu4 guo2 hun2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: hua-yue-xin-shi-za-yong-qi-yi
-title: 新市雜詠  其一
-titlePinyin: xin1 shi4 za2 yong3     qi2 yi1
+title: 新市雜詠  其一○
+titlePinyin: xin1 shi4 za2 yong3     qi2 yi1 ○
 titleSlug: xin-shi-za-yong-qi-yi
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲鬟煙鬢縷雙鴉，一搦宮腰柳带花。
-- 試問行雲何處覓，畫橋東畔是奴家。
+- 朱門粉壁謫仙家，柳外鞦韆襯落霞。
+- 一澗碧雲流不去，木蘭舟繫木蘭花。
 
 ## 拼音
 
-- yun2 huan2 yan1 bin4 lü3 shuang1 ya1 ， yi2 nuo4 gong1 yao1 liu3 dai4 hua1 。
-- shi4 wen4 xing2 yun2 he2 chu3 mi4 ， hua4 qiao2 dong1 pan4 shi4 nu2 jia1 。
+- zhu1 men2 fen3 bi4 zhe2 xian1 jia1 ， liu3 wai4 qiu1 qian1 chen4 luo4 xia2 。
+- yi2 jian4 bi4 yun2 liu2 bu2 qu4 ， mu4 lan2 zhou1 xi4 mu4 lan2 hua1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing
 author: 林子明
 authorPinyin: lin2 zi0 ming2
 authorSlug: lin-zi-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

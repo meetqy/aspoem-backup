@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遯居無外事，白日不勝長。
-- 詩爲窮差進，琴雖老未忘。
-- 映窗精試墨，閉閤苦留香。
-- 年少無相誚，功名事更狂。
+- 鴻冥固自辭矰繳，樗散猶能謝斧斤。
+- 况是溪山幽絕地，有人高卧百重雲。
 
 ## 拼音
 
-- dun4 ju1 wu2 wai4 shi4 ， bai2 ri4 bu2 sheng4 chang2 。
-- shi1 wei2 qiong2 cha4 jin4 ， qin2 sui1 lao3 wei4 wang4 。
-- ying4 chuang1 jing1 shi4 mo4 ， bi4 he2 ku3 liu2 xiang1 。
-- nian2 shao4 wu2 xiang1 qiao4 ， gong1 ming2 shi4 geng4 kuang2 。
+- hong2 ming2 gu4 zi4 ci2 zeng1 jiao3 ， chu1 san4 you2 neng2 xie4 fu3 jin1 。
+- kuang4 shi4 xi1 shan1 you1 jue2 di4 ， you3 ren2 gao1 wo4 bai3 zhong4 yun2 。
 
 ## 注释
 

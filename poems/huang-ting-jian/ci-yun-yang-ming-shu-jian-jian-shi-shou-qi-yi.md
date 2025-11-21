@@ -1,30 +1,30 @@
 ---
 id: huang-ting-jian-ci-yun-yang-ming-shu-jian-jian-shi-shou-qi-yi
-title: 次韵楊明叔見餞十首  其一
-titlePinyin: ci4 yun4 yang2 ming2 shu1 jian4 jian4 shi2 shou3     qi2 yi1
+title: 次韵楊明叔見餞十首  其一○
+titlePinyin: ci4 yun4 yang2 ming2 shu1 jian4 jian4 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-yang-ming-shu-jian-jian-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平津善牧豕，佽飛能斬蛟。
-- 終藉一汲黯，淮南解兵交。
-- 楊子有直氣，未忍死草茅。
-- 引之入漢朝，誰爲續弦膠。
+- 老作同安守，蹇足信所便。
+- 胸中無水鏡，敢當吏部銓。
+- 恨此虛名在，未脫世糾纏。
+- 夢作白鷗去，江南水如天。
 
 ## 拼音
 
-- ping2 jin1 shan4 mu4 shi3 ， ci4 fei1 neng2 zhan3 jiao1 。
-- zhong1 jie4 yi4 ji2 an4 ， huai2 nan2 jie3 bing1 jiao1 。
-- yang2 zi3 you3 zhi2 qi4 ， wei4 ren3 si3 cao3 mao2 。
-- yin3 zhi1 ru4 han4 chao2 ， shui2 wei2 xu4 xian2 jiao1 。
+- lao3 zuo4 tong2 an1 shou3 ， jian3 zu2 xin4 suo3 bian4 。
+- xiong1 zhong1 wu2 shui3 jing4 ， gan3 dang1 li4 bu4 quan2 。
+- hen4 ci3 xu1 ming2 zai4 ， wei4 tuo1 shi4 jiu1 chan2 。
+- meng4 zuo4 bai2 ou1 qu4 ， jiang1 nan2 shui3 ru2 tian1 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: shi-wei-yi-song-gu-san-shi-liu-shou-qi-er
-title: 頌古三十六首  其二
-titlePinyin: song4 gu3 san1 shi2 liu4 shou3     qi2 er4
+title: 頌古三十六首  其二○
+titlePinyin: song4 gu3 san1 shi2 liu4 shou3     qi2 er4 ○
 titleSlug: song-gu-san-shi-liu-shou-qi-er
 author: 釋惟一
 authorPinyin: shi4 wei2 yi1
 authorSlug: shi-wei-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荷盡已無擎雨蓋，菊殘猶有傲霜枝。
-- 一年好景君須記，正是橙黄橘綠時。
+- 老倒趙州無本據，翻手爲雲覆手雨，覿面當機不覆藏，往往少人知落處。
+- 知落處，是甚閑家具。
 
 ## 拼音
 
-- he2 jin4 yi3 wu2 qing2 yu3 gai4 ， ju2 can2 you2 you3 ao4 shuang1 zhi1 。
-- yi4 nian2 hao3 jing3 jun1 xu1 ji4 ， zheng4 shi4 cheng2 huang2 ju2 lü4 shi2 。
+- lao3 dao3 zhao4 zhou1 wu2 ben3 ju4 ， fan1 shou3 wei2 yun2 fu4 shou3 yu3 ， di2 mian4 dang1 ji1 bu2 fu4 cang2 ， wang3 wang3 shao3 ren2 zhi1 luo4 chu3 。
+- zhi1 luo4 chu3 ， shi4 shen4 xian2 jia1 ju4 。
 
 ## 注释
 

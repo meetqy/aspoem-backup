@@ -6,10 +6,10 @@ titleSlug: xian-chun-wu-nian-tian-xia-dou-san-han-xu-yue-qing-yin-wu-suan-zui-ho
 author: 許月卿
 authorPinyin: xu1 yue4 qing1
 authorSlug: xu-yue-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

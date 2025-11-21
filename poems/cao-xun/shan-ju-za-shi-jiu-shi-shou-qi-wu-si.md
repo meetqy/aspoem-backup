@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 侵晨盥櫛起，爽氣隨凉飈。
-- 曳杖踏露草，不覺路已遥。
-- 水清出沙嘴，烟白橫山腰。
-- 致爽列羣岫，不待西山招。
+- 閑居必家釀，不以空乏廢。
+- 小槽壓春碧，渾含揖和氣。
+- 三杯禦客寒，一巵款僕意。
+- 寧論有賢聖，且復供村醉。
 
 ## 拼音
 
-- qin1 chen2 guan4 zhi4 qi3 ， shuang3 qi4 sui2 liang2 biao1 。
-- ye4 zhang4 ta4 lu4 cao3 ， bu4 jue2 lu4 yi3 yao2 。
-- shui3 qing1 chu1 sha1 zui3 ， yan1 bai2 heng2 shan1 yao1 。
-- zhi4 shuang3 lie4 qun2 xiu4 ， bu2 dai4 xi1 shan1 zhao1 。
+- xian2 ju1 bi4 jia1 niang4 ， bu4 yi3 kong1 fa2 fei4 。
+- xiao3 cao2 ya1 chun1 bi4 ， hun2 han2 yi1 he2 qi4 。
+- san1 bei1 yu4 ke4 han2 ， yi4 zhi1 kuan3 pu2 yi4 。
+- ning2 lun4 you3 xian2 sheng4 ， qie3 fu4 gong4 cun1 zui4 。
 
 ## 注释
 

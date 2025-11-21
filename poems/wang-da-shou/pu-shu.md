@@ -6,15 +6,15 @@ titleSlug: pu-shu
 author: 王大受
 authorPinyin: wang2 da4 shou4
 authorSlug: wang-da-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲月如流書似山，豈堪檢點鬢毛斑。
+- 歲月如流書似山，豈堪檢點鬢毛班。
 - 貧憂消耗記持少，場屋羈縻展拓難。
 - 事物無窮徒著眼，身心未了只長歎。
 - 直須種種從頭掃，掃到和書也不看。

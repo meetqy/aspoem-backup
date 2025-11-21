@@ -1,30 +1,34 @@
 ---
 id: zhu-xi-zhai-ju-gan-xing-er-shi-shou-qi-er
-title: 齋居感興二十首  其二
-titlePinyin: zhai1 ju1 gan3 xing1 er4 shi2 shou3     qi2 er4
+title: 齋居感興二十首  其二○
+titlePinyin: zhai1 ju1 gan3 xing1 er4 shi2 shou3     qi2 er4 ○
 titleSlug: zhai-ju-gan-xing-er-shi-shou-qi-er
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾觀陰陽化，升降八紘中。
-- 前瞻既無始，後際那有終。
-- 至理諒斯存，萬世與今同。
-- 誰言混沌死，幻語驚盲聾。
+- 玄天幽且默，仲尼欲無言。
+- 動植各生遂，德容自清溫。
+- 彼哉夸毗子，呫囁徒啾喧。
+- 但逞言辭好，豈知神監昏。
+- 曰余昧前訓，坐此枝葉繁。
+- 發憤永刊落，奇功收一原。
 
 ## 拼音
 
-- wu2 guan1 yin1 yang2 hua4 ， sheng1 jiang4 ba1 hong2 zhong1 。
-- qian2 zhan1 ji4 wu2 shi3 ， hou4 ji4 na4 you3 zhong1 。
-- zhi4 li3 liang4 si1 cun2 ， wan4 shi4 yu3 jin1 tong2 。
-- shui2 yan2 hun4 dun4 si3 ， huan4 yu3 jing1 mang2 long2 。
+- xuan2 tian1 you1 qie3 mo4 ， zhong4 ni2 yu4 wu2 yan2 。
+- dong4 zhi2 ge4 sheng1 sui4 ， de2 rong2 zi4 qing1 wen1 。
+- bi3 zai1 kua1 pi2 zi3 ， tie4 nie4 tu2 jiu1 xuan1 。
+- dan4 cheng3 yan2 ci2 hao3 ， qi3 zhi1 shen2 jian1 hun1 。
+- yue1 yu2 mei4 qian2 xun4 ， zuo4 ci3 zhi1 ye4 fan2 。
+- fa1 fen4 yong3 kan1 luo4 ， qi2 gong1 shou1 yi4 yuan2 。
 
 ## 注释
 

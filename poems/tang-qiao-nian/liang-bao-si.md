@@ -6,9 +6,9 @@ titleSlug: liang-bao-si
 author: 湯喬年
 authorPinyin: tang1 qiao2 nian2
 authorSlug: tang-qiao-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

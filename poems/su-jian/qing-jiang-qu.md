@@ -6,10 +6,10 @@ titleSlug: qing-jiang-qu
 author: 蘇堅
 authorPinyin: su1 jian1
 authorSlug: su-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

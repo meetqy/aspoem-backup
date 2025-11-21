@@ -6,10 +6,10 @@ titleSlug: jin-quan-bu-xu-tai
 author: 鄭庭芳
 authorPinyin: zheng4 ting2 fang1
 authorSlug: zheng-ting-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

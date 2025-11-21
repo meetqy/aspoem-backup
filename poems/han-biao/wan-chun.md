@@ -6,25 +6,25 @@ titleSlug: wan-chun
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 細雨收微暖，輕雲起薄陰。
-- 舟橫蓮葉淺，人度柳花深。
-- 佛屋多支徑，旂亭亦遠林。
-- 一春思放浪，盡日喜登臨。
+- 幽砌疎畦送晚春，水流山靜見閑身。
+- 行吟散去風光好，熟睡醒來雨氣新。
+- 木筆豈非濃意態，石楠終是淡精神。
+- 鶑聲圓處鵑聲急，景物要之不負人。
 
 ## 拼音
 
-- xi4 yu3 shou1 wei1 nuan3 ， qing1 yun2 qi3 bao2 yin1 。
-- zhou1 heng2 lian2 ye4 qian3 ， ren2 du4 liu3 hua1 shen1 。
-- fo2 wu1 duo1 zhi1 jing4 ， qi2 ting2 yi4 yuan3 lin2 。
-- yi4 chun1 si1 fang4 lang4 ， jin4 ri4 xi3 deng1 lin2 。
+- you1 qi4 shu1 qi2 song4 wan3 chun1 ， shui3 liu2 shan1 jing4 jian4 xian2 shen1 。
+- xing2 yin2 san4 qu4 feng1 guang1 hao3 ， shu2 shui4 xing3 lai2 yu3 qi4 xin1 。
+- mu4 bi3 qi3 fei1 nong2 yi4 tai4 ， shi2 nan2 zhong1 shi4 dan4 jing1 shen2 。
+- ying1 sheng1 yuan2 chu3 jian1 sheng1 ji2 ， jing3 wu4 yao4 zhi1 bu2 fu4 ren2 。
 
 ## 注释
 

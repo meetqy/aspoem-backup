@@ -6,9 +6,9 @@ titleSlug: xue
 author: 楊适
 authorPinyin: yang2 shi4
 authorSlug: yang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

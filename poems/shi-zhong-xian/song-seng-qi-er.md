@@ -6,21 +6,21 @@ titleSlug: song-seng-qi-er
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祖域高親日未央，家林歸去意何長。
-- 舊交不識初相見，曾振滄溟奪夜光。
+- 禪石飛流濺碧莎，利生還喜下雲坡。
+- 途中若立三千客，剔起眉毛不在多。
 
 ## 拼音
 
-- zu3 yu4 gao1 qin1 ri4 wei4 yang1 ， jia1 lin2 gui1 qu4 yi4 he2 chang2 。
-- jiu4 jiao1 bu4 shi2 chu1 xiang1 jian4 ， ceng2 zhen4 cang1 ming2 duo2 ye4 guang1 。
+- shan4 shi2 fei1 liu2 jian4 bi4 sha1 ， li4 sheng1 huan2 xi3 xia4 yun2 po1 。
+- tu2 zhong1 ruo4 li4 san1 qian1 ke4 ， ti1 qi3 mei2 mao0 bu2 zai4 duo1 。
 
 ## 注释
 

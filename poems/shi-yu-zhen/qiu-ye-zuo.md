@@ -6,9 +6,9 @@ titleSlug: qiu-ye-zuo
 author: 釋遇臻
 authorPinyin: shi4 yu4 zhen1
 authorSlug: shi-yu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

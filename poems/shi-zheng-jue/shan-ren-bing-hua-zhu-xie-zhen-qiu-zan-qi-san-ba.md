@@ -1,32 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-san-ba
-title: 禪人并化主寫真求贊  其三八
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 san1 ba1
+title: 禪人并化主寫真求贊  其三八○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 san1 ba1 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-san-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 靜據胡床，久而愈芳。
-- 默亡痕黑白，貧不覺蒼黄。
-- 住無相兮龜之藏，行無章兮鳥之翔。
-- 月爛爛而魚吞光，華菲菲而蜂採香。
-- 相隨來也，觸處堂堂。
+- 默默有句兮祖祖相傳，心心無住兮靈靈自然。
+- 石藴玉而輝山，淵含珠而媚川。
+- 千億門開彌勒彈，三十年用俱胝禪。
+- 一乘底事，百草頭邊。
 
 ## 拼音
 
-- jing4 ju4 hu2 chuang2 ， jiu3 er2 yu4 fang1 。
-- mo4 wang2 hen2 hei1 bai2 ， pin2 bu4 jue2 cang1 huang2 。
-- zhu4 wu2 xiang1 xi1 gui1 zhi1 cang2 ， xing2 wu2 zhang1 xi1 niao3 zhi1 xiang2 。
-- yue4 lan4 lan4 er2 yu2 tun1 guang1 ， hua2 fei1 fei1 er2 feng1 cai3 xiang1 。
-- xiang1 sui2 lai2 ye3 ， chu4 chu3 tang2 tang2 。
+- mo4 mo4 you3 ju4 xi1 zu3 zu3 xiang1 chuan2 ， xin1 xin1 wu2 zhu4 xi1 ling2 ling2 zi4 ran2 。
+- shi2 yun4 yu4 er2 hui1 shan1 ， yuan1 han2 zhu1 er2 mei4 chuan1 。
+- qian1 yi4 men2 kai1 mi2 le4 dan4 ， san1 shi2 nian2 yong4 ju4 zhi1 shan4 。
+- yi4 cheng2 di3 shi4 ， bai3 cao3 tou2 bian1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-yi-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 鉛汞精修鍊，陰陽協物情。
-- 花開黄道正，藥就紫烟輕。
-- 海嶠浮雲合，神光照室明。
-- 彩霞高麗日，細意話長生。
+- 論功須是一陽初，二八調和作楷模。
+- 固濟但牢封密閉，莫教中道有差殊。
+- 依時消息專心記，在意停騰運火徐。
+- 日月無虧明節候，從容願所不躊躇。
 
 ## 拼音
 
-- qian1 gong3 jing1 xiu1 lian4 ， yin1 yang2 xie2 wu4 qing2 。
-- hua1 kai1 huang2 dao4 zheng4 ， yao4 jiu4 zi3 yan1 qing1 。
-- hai3 jiao4 fu2 yun2 he2 ， shen2 guang1 zhao4 shi4 ming2 。
-- cai3 xia2 gao1 li2 ri4 ， xi4 yi4 hua4 chang2 sheng1 。
+- lun4 gong1 xu1 shi4 yi4 yang2 chu1 ， er4 ba1 diao4 he2 zuo4 kai3 mo2 。
+- gu4 ji4 dan4 lao2 feng1 mi4 bi4 ， mo4 jiao4 zhong1 dao4 you3 cha4 shu1 。
+- yi1 shi2 xiao1 xi0 zhuan1 xin1 ji4 ， zai4 yi4 ting2 teng2 yun4 huo3 xu2 。
+- ri4 yue4 wu2 kui1 ming2 jie2 hou4 ， cong2 rong2 yuan4 suo3 bu4 chou2 chu2 。
 
 ## 注释
 

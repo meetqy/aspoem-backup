@@ -6,10 +6,10 @@ titleSlug: su-wu-miao
 author: 溫庭筠
 authorPinyin: wen1 ting2 yun2
 authorSlug: wen-ting-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

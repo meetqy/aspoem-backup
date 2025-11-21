@@ -6,25 +6,25 @@ titleSlug: ji-bo-kang-jun-shi
 author: 范純仁
 authorPinyin: fan4 chun2 ren2
 authorSlug: fan-chun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生親友分，偏向二難深。
-- 但念相從樂，應知別後心。
-- 西窗棋罷弈，南圃逕慵尋。
-- 不奈懷賢意，香醪獨滿斟。
+- 明月照分袂，離魂增黯然。
+- 禪公歸故里，詞伯約新年。
+- 松竹荒三徑，金蘭憶二賢。
+- 向風無限意，書札豈能宣。
 
 ## 拼音
 
-- ping2 sheng1 qin1 you3 fen1 ， pian1 xiang4 er4 nan2 shen1 。
-- dan4 nian4 xiang1 cong2 le4 ， ying1 zhi1 bie2 hou4 xin1 。
-- xi1 chuang1 qi2 ba4 yi4 ， nan2 pu3 jing4 yong1 xun2 。
-- bu2 nai4 huai2 xian2 yi4 ， xiang1 lao2 du2 man3 zhen1 。
+- ming2 yue4 zhao4 fen1 mei4 ， li2 hun2 zeng1 an4 ran2 。
+- shan4 gong1 gui1 gu4 li3 ， ci2 bo2 yue1 xin1 nian2 。
+- song1 zhu2 huang1 san1 jing4 ， jin1 lan2 yi4 er4 xian2 。
+- xiang4 feng1 wu2 xian4 yi4 ， shu1 zha2 qi3 neng2 xuan1 。
 
 ## 注释
 

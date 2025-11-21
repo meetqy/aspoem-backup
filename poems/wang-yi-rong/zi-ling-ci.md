@@ -6,10 +6,10 @@ titleSlug: zi-ling-ci
 author: 汪義榮
 authorPinyin: wang1 yi4 rong2
 authorSlug: wang-yi-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhi-shao-wu-xian-dao-yu-da-you-gan-ying-ren-man-zuo-shi-ji-qi-shi
 author: 張士遜
 authorPinyin: zhang1 shi4 xun4
 authorSlug: zhang-shi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

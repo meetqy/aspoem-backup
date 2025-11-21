@@ -6,21 +6,21 @@ titleSlug: xia-tang
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日出移船日又斜，蘆根時復見人家。
-- 水鄉占得秋多少，岸岸紅雲是蓼花。
+- 河水新添三尺高，河邊蘆葦有龜巢。
+- 波流夜夜飄漁箔，空點籃燈照樹梢。
 
 ## 拼音
 
-- ri4 chu1 yi2 chuan2 ri4 you4 xie2 ， lu2 gen1 shi2 fu4 jian4 ren2 jia1 。
-- shui3 xiang1 zhan4 de2 qiu1 duo1 shao3 ， an4 an4 hong2 yun2 shi4 liao3 hua1 。
+- he2 shui3 xin1 tian1 san1 chi3 gao1 ， he2 bian1 lu2 wei3 you3 gui1 chao2 。
+- bo1 liu2 ye4 ye4 piao1 yu2 bo2 ， kong1 dian3 lan2 deng1 zhao4 shu4 shao1 。
 
 ## 注释
 

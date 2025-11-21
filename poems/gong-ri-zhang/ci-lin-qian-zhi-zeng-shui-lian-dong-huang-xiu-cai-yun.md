@@ -6,10 +6,10 @@ titleSlug: ci-lin-qian-zhi-zeng-shui-lian-dong-huang-xiu-cai-yun
 author: 龔日章
 authorPinyin: gong1 ri4 zhang1
 authorSlug: gong-ri-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

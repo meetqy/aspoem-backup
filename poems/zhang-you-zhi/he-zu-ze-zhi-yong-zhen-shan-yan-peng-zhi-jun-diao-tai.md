@@ -6,10 +6,10 @@ titleSlug: he-zu-ze-zhi-yong-zhen-shan-yan-peng-zhi-jun-diao-tai
 author: 章友直
 authorPinyin: zhang1 you3 zhi2
 authorSlug: zhang-you-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

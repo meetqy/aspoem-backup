@@ -9,22 +9,22 @@ authorSlug: du-xun-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 馬上覽春色，丈夫慙淚垂。
-- 一生看却老，五字未逢知。
-- 酒力不能久，愁根無可醫。
-- 明年到今日，公道與誰期。
+- 年光身事旋成空，畢竟何門遇至公。
+- 人世鶴歸雙鬢上，客程蛇遶亂山中。
+- 牧童向日眠春草，漁父隈巖避晚風。
+- 一醉未醒花又落，故鄉回首楚關東。
 
 ## 拼音
 
-- ma3 shang4 lan3 chun1 se4 ， zhang4 fu0 can2 lei4 chui2 。
-- yi4 sheng1 kan4 que4 lao3 ， wu3 zi4 wei4 feng2 zhi1 。
-- jiu3 li4 bu4 neng2 jiu3 ， chou2 gen1 wu2 ke3 yi1 。
-- ming2 nian2 dao4 jin1 ri4 ， gong1 dao4 yu3 shui2 qi1 。
+- nian2 guang1 shen1 shi4 xuan2 cheng2 kong1 ， bi4 jing4 he2 men2 yu4 zhi4 gong1 。
+- ren2 shi4 he4 gui1 shuang1 bin4 shang4 ， ke4 cheng2 she2 rao4 luan4 shan1 zhong1 。
+- mu4 tong2 xiang4 ri4 mian2 chun1 cao3 ， yu2 fu4 wei1 yan2 bi4 wan3 feng1 。
+- yi2 zui4 wei4 xing3 hua1 you4 luo4 ， gu4 xiang1 hui2 shou3 chu3 guan1 dong1 。
 
 ## 注释
 

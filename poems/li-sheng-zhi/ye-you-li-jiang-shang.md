@@ -6,10 +6,10 @@ titleSlug: ye-you-li-jiang-shang
 author: 李昇之
 authorPinyin: li3 sheng1 zhi1
 authorSlug: li-sheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

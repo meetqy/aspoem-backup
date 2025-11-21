@@ -6,25 +6,25 @@ titleSlug: xuan-cheng-dao-zhong
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 躍馬上宣城，千山翠欲顰。
-- 蕙風輕卷舌，櫻雨細沾唇。
-- 柳絮難驅臘，榆錢不買春。
-- 何如澆一斗，爛醉石湖濱。
+- 恰到杏花天，轉頭過禁煙。
+- 燕歸纔數日，蠶起又三眠。
+- 少智慚樗里，多材憶孟堅。
+- 功名且隨分，無苦自咨煎。
 
 ## 拼音
 
-- yue4 ma3 shang4 xuan1 cheng2 ， qian1 shan1 cui4 yu4 pin2 。
-- hui4 feng1 qing1 juan3 she2 ， ying1 yu3 xi4 zhan1 chun2 。
-- liu3 xu4 nan2 qu1 la4 ， yu2 qian2 bu4 mai3 chun1 。
-- he2 ru2 jiao1 yi4 dou3 ， lan4 zui4 shi2 hu2 bin1 。
+- qia4 dao4 xing4 hua1 tian1 ， zhuan3 tou2 guo4 jin4 yan1 。
+- yan4 gui1 cai2 shu4 ri4 ， can2 qi3 you4 san1 mian2 。
+- shao3 zhi4 can2 chu1 li3 ， duo1 cai2 yi4 meng4 jian1 。
+- gong1 ming2 qie3 sui2 fen1 ， wu2 ku3 zi4 zi1 jian1 。
 
 ## 注释
 

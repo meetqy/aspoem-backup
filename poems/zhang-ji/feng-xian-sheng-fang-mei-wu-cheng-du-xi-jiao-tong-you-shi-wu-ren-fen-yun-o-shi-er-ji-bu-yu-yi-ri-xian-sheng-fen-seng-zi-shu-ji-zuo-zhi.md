@@ -6,10 +6,10 @@ titleSlug: feng-xian-sheng-fang-mei-wu-cheng-du-xi-jiao-tong-you-shi-wu-ren-fen-
 author: 張積
 authorPinyin: zhang1 ji1
 authorSlug: zhang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,28 +1,36 @@
 ---
 id: shi-ke-xiang-ji-song-yi-bai-ling-jiu-shou-qi-yi-ba
-title: 偈頌一百零九首  其一八
-titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 yi1 ba1
+title: 偈頌一百零九首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-ling-jiu-shou-qi-yi-ba
 author: 釋可湘
 authorPinyin: shi4 ke3 xiang1
 authorSlug: shi-ke-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胸摩卍字，弄假像真。
-- 槨示雙趺，弄真像假。
-- 柳垂金線舞春風，演說涅槃猶未罷。
+- 嗟末法，惡時世。
+- 諭之向上關，略不點頭。
+- 說及龍華會，何曾抽採。
+- 但見需撒花索苗米，惱得頭白，逼得面黄。
+- 留香一鉢飯，渾是皺眉糧。
+- 今歲上供銀未解，來年新底又催綱。
+- 歸堂快合休糧方。
 
 ## 拼音
 
-- xiong1 mo2 wan4 zi4 ， nong4 jia3 xiang4 zhen1 。
-- guo3 shi4 shuang1 fu1 ， nong4 zhen1 xiang4 jia3 。
-- liu3 chui2 jin1 xian4 wu3 chun1 feng1 ， yan3 shuo1 nie4 pan2 you2 wei4 ba4 。
+- jie1 mo4 fa3 ， e4 shi2 shi4 。
+- yu4 zhi1 xiang4 shang4 guan1 ， lüe4 bu4 dian3 tou2 。
+- shuo1 ji2 long2 hua2 hui4 ， he2 ceng2 chou1 cai3 。
+- dan4 jian4 xu1 sa3 hua1 suo3 miao2 mi3 ， nao3 de2 tou2 bai2 ， bi1 de2 mian4 huang2 。
+- liu2 xiang1 yi4 bo1 fan4 ， hun2 shi4 zhou4 mei2 liang2 。
+- jin1 sui4 shang4 gong4 yin2 wei4 jie3 ， lai2 nian2 xin1 di3 you4 cui1 gang1 。
+- gui1 tang2 kuai4 he2 xiu1 liang2 fang1 。
 
 ## 注释
 

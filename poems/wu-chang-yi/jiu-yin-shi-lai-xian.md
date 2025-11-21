@@ -6,10 +6,10 @@ titleSlug: jiu-yin-shi-lai-xian
 author: 吳昌裔
 authorPinyin: wu2 chang1 yi4
 authorSlug: wu-chang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

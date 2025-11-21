@@ -1,7 +1,7 @@
 ---
 id: yuan-zhen-qian-xing-shi-shou-er
-title: 遣興十首 二
-titlePinyin: qian3 xing1 shi2 shou3   er4
+title: 遣行十首 二
+titlePinyin: qian3 xing2 shi2 shou3   er4
 titleSlug: qian-xing-shi-shou-er
 author: 元稹
 authorPinyin: yuan2 zhen3
@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 莫厭夏日長，莫愁冬日短。
-- 欲識短復長，君看寒又暖。
-- 城中百萬家，冤哀雜絲管。
-- 草沒奉誠園，軒車昔曾滿。
+- 十五年前事，恓惶無限情。
+- 病僮更借出，羸馬共馳聲。
+- 射葉楊纔破，聞弓鴈已驚。
+- 小年辛苦學，求得苦辛行。
 
 ## 拼音
 
-- mo4 yan4 xia4 ri4 chang2 ， mo4 chou2 dong1 ri4 duan3 。
-- yu4 shi2 duan3 fu4 chang2 ， jun1 kan4 han2 you4 nuan3 。
-- cheng2 zhong1 bai3 wan4 jia1 ， yuan1 ai1 za2 si1 guan3 。
-- cao3 mei2 feng4 cheng2 yuan2 ， xuan1 ju1 xi1 ceng2 man3 。
+- shi2 wu3 nian2 qian2 shi4 ， xi1 huang2 wu2 xian4 qing2 。
+- bing4 tong2 geng4 jie4 chu1 ， lei2 ma3 gong4 chi2 sheng1 。
+- she4 ye4 yang2 cai2 po4 ， wen2 gong1 yan4 yi3 jing1 。
+- xiao3 nian2 xin1 ku3 xue2 ， qiu2 de2 ku3 xin1 xing2 。
 
 ## 注释
 

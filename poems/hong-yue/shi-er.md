@@ -6,10 +6,10 @@ titleSlug: shi-er
 author: 洪鉞
 authorPinyin: hong2 yue4
 authorSlug: hong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

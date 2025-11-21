@@ -6,10 +6,10 @@ titleSlug: song-hu-yan-long-guo-jin-ling
 author: 高彥竹
 authorPinyin: gao1 yan4 zhu2
 authorSlug: gao-yan-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

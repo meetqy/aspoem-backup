@@ -6,25 +6,25 @@ titleSlug: ji-ju-shan
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 分携六換禁城烟，夢也慵飛到日邊。
-- 綵筆尚懷貂可續，冰銜時許雁遥傳。
-- 紫薇院靜君宵直，綠苧村深我晝眠。
-- 會向急流歸亦好，雙筇同訪幔亭仙。
+- 故人浮家檇李傍，爲愛修竹分僧房。
+- 霏霏玉塵夢千里，剡剡銀鈎書數行。
+- 極知神潛鼻端白，祇恐喜動眉間黄。
+- 烟波莫久費吟筆，好繪日月增天光。
 
 ## 拼音
 
-- fen1 xie2 liu4 huan4 jin4 cheng2 yan1 ， meng4 ye3 yong1 fei1 dao4 ri4 bian1 。
-- cai3 bi3 shang4 huai2 diao1 ke3 xu4 ， bing1 xian2 shi2 xu1 yan4 yao2 chuan2 。
-- zi3 wei1 yuan4 jing4 jun1 xiao1 zhi2 ， lü4 zhu4 cun1 shen1 wo3 zhou4 mian2 。
-- hui4 xiang4 ji2 liu2 gui1 yi4 hao3 ， shuang1 qiong2 tong2 fang3 man4 ting2 xian1 。
+- gu4 ren2 fu2 jia1 zui4 li3 bang4 ， wei2 ai4 xiu1 zhu2 fen1 seng1 fang2 。
+- fei1 fei1 yu4 chen2 meng4 qian1 li3 ， yan3 yan3 yin2 gou1 shu1 shu4 xing2 。
+- ji2 zhi1 shen2 qian2 bi2 duan1 bai2 ， qi2 kong3 xi3 dong4 mei2 jian4 huang2 。
+- yan1 bo1 mo4 jiu3 fei4 yin2 bi3 ， hao3 hui4 ri4 yue4 zeng1 tian1 guang1 。
 
 ## 注释
 

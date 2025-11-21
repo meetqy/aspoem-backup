@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 蹇汝明
 authorPinyin: jian3 ru3 ming2
 authorSlug: jian-ru-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

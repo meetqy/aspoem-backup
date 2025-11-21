@@ -6,25 +6,21 @@ titleSlug: qiu-ye
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋夜多愁思，虛堂風露凉。
-- 觀書燈可近，欲睡漏初長。
-- 蛩響頻催織，螢飛爍有光。
-- 雨梢窗外過，散入稻花香。
+- 月華如水浄無塵，千里相思總一心。
+- 絡緯籬邊吟不徹，做成秋意十分深。
 
 ## 拼音
 
-- qiu1 ye4 duo1 chou2 si1 ， xu1 tang2 feng1 lu4 liang2 。
-- guan1 shu1 deng1 ke3 jin4 ， yu4 shui4 lou4 chu1 chang2 。
-- qiong2 xiang3 bin1 cui1 zhi1 ， ying2 fei1 shuo4 you3 guang1 。
-- yu3 shao1 chuang1 wai4 guo4 ， san4 ru4 dao4 hua1 xiang1 。
+- yue4 hua2 ru2 shui3 jing4 wu2 chen2 ， qian1 li3 xiang1 si1 zong3 yi4 xin1 。
+- luo4 wei3 li2 bian1 yin2 bu2 che4 ， zuo4 cheng2 qiu1 yi4 shi2 fen1 shen1 。
 
 ## 注释
 

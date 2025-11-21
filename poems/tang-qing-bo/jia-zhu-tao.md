@@ -6,10 +6,10 @@ titleSlug: jia-zhu-tao
 author: 湯清伯
 authorPinyin: tang1 qing1 bo2
 authorSlug: tang-qing-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

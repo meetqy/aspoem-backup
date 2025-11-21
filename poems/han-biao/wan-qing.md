@@ -6,25 +6,25 @@ titleSlug: wan-qing
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩年元日陰，今年元日晴。
-- 微霜起清寒，人物多歡聲。
-- 行都占江海，魚鹽易經營。
-- 何時復三京，萬世開太平。
+- 雨闊雲難斂，高樓忽晚晴。
+- 地卑雖带潤，天近自增明。
+- 蚊動初成勢，鴉翻過宿聲。
+- 牆根有孤樹，清坐見凉生。
 
 ## 拼音
 
-- liang3 nian2 yuan2 ri4 yin1 ， jin1 nian2 yuan2 ri4 qing2 。
-- wei1 shuang1 qi3 qing1 han2 ， ren2 wu4 duo1 huan1 sheng1 。
-- xing2 dou1 zhan4 jiang1 hai3 ， yu2 yan2 yi4 jing1 ying2 。
-- he2 shi2 fu4 san1 jing1 ， wan4 shi4 kai1 tai4 ping2 。
+- yu3 kuo4 yun2 nan2 lian3 ， gao1 lou2 hu1 wan3 qing2 。
+- di4 bei1 sui1 dai4 run4 ， tian1 jin4 zi4 zeng1 ming2 。
+- wen2 dong4 chu1 cheng2 shi4 ， ya1 fan1 guo4 su4 sheng1 。
+- qiang2 gen1 you3 gu1 shu4 ， qing1 zuo4 jian4 liang2 sheng1 。
 
 ## 注释
 

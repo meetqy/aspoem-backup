@@ -6,10 +6,10 @@ titleSlug: shu-meng-ji-zhao-zi-zhi
 author: 徐璣
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

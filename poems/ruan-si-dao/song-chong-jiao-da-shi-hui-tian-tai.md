@@ -6,9 +6,9 @@ titleSlug: song-chong-jiao-da-shi-hui-tian-tai
 author: 阮思道
 authorPinyin: ruan3 si1 dao4
 authorSlug: ruan-si-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

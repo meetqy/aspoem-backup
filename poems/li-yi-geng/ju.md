@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李夷庚
 authorPinyin: li3 yi2 geng1
 authorSlug: li-yi-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

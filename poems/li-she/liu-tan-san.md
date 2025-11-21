@@ -9,26 +9,26 @@ authorSlug: li-she
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢臣一沒丁零塞，牧羊西過陰沙外。
-- 朝憑南鴈信難回，夜望北辰心獨在。
-- 漢家茅土橫九州，高門長戟封王侯。
-- 但將鐘鼓悅私愛，肯以犬羊爲國羞。
-- 夜宿寒雲臥冰雪，嚴風觸刃垂旌節。
-- 丁年奉使白頭歸，泣盡李陵衣上血。
+- 關東病儒客梁城，五歲十回逢亂兵。
+- 燒人之家食人肉，狼虎熾心都未足。
+- 城裏愁雲不開城，城頭野草春還綠。
+- 五十餘年忠烈臣，臨難守節羞謀身。
+- 堂上英髦沈白刃，門前輿隸乘朱輪。
+- 千古傷心汴河水，陰天落日悲風起。
 
 ## 拼音
 
-- han4 chen2 yi4 mei2 ding1 ling2 sai1 ， mu4 yang2 xi1 guo4 yin1 sha1 wai4 。
-- chao2 ping2 nan2 yan4 xin4 nan2 hui2 ， ye4 wang4 bei3 chen2 xin1 du2 zai4 。
-- han4 jia1 mao2 tu3 heng2 jiu3 zhou1 ， gao1 men2 chang2 ji3 feng1 wang2 hou2 。
-- dan4 jiang1 zhong1 gu3 yue4 si1 ai4 ， ken3 yi3 quan3 yang2 wei2 guo2 xiu1 。
-- ye4 su4 han2 yun2 wo4 bing1 xue3 ， yan2 feng1 chu4 ren4 chui2 jing1 jie2 。
-- ding1 nian2 feng4 shi3 bai2 tou2 gui1 ， qi4 jin4 li3 ling2 yi1 shang4 xue4 。
+- guan1 dong1 bing4 ru2 ke4 liang2 cheng2 ， wu3 sui4 shi2 hui2 feng2 luan4 bing1 。
+- shao1 ren2 zhi1 jia1 shi2 ren2 rou4 ， lang2 hu3 chi4 xin1 dou1 wei4 zu2 。
+- cheng2 li3 chou2 yun2 bu4 kai1 cheng2 ， cheng2 tou2 ye3 cao3 chun1 huan2 lü4 。
+- wu3 shi2 yu2 nian2 zhong1 lie4 chen2 ， lin2 nan2 shou3 jie2 xiu1 mou2 shen1 。
+- tang2 shang4 ying1 mao2 shen3 bai2 ren4 ， men2 qian2 yu2 li4 cheng2 zhu1 lun2 。
+- qian1 gu3 shang1 xin1 bian4 he2 shui3 ， yin1 tian1 luo4 ri4 bei1 feng1 qi3 。
 
 ## 注释
 

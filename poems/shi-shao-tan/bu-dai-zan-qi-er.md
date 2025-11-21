@@ -6,23 +6,23 @@ titleSlug: bu-dai-zan-qi-er
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 馱布袋，笑誾誾。
-- 智無一兩，肉重千斤，轉腦回頭等個人。
-- 率陀歸路遠，滿面是埃塵。
+- 緊捉布袋頭，片時放不下。
+- 用盡惡機關，難瞞鐵奉化。
+- 重重敗缺幾曾知，猶自回頭望阿誰。
 
 ## 拼音
 
-- tuo2 bu4 dai4 ， xiao4 yin2 yin2 。
-- zhi4 wu2 yi4 liang3 ， rou4 zhong4 qian1 jin1 ， zhuan3 nao3 hui2 tou2 deng3 ge4 ren2 。
-- lü4 tuo2 gui1 lu4 yuan3 ， man3 mian4 shi4 ai1 chen2 。
+- jin3 zhuo1 bu4 dai4 tou2 ， pian4 shi2 fang4 bu2 xia4 。
+- yong4 jin4 e4 ji1 guan1 ， nan2 man2 tie3 feng4 hua4 。
+- chong2 chong2 bai4 que1 ji1 ceng2 zhi1 ， you2 zi4 hui2 tou2 wang4 a1 shui2 。
 
 ## 注释
 

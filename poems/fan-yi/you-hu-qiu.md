@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu
 author: 范宜
 authorPinyin: fan4 yi2
 authorSlug: fan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

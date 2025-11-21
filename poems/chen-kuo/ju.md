@@ -3,22 +3,22 @@ id: chen-kuo-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳廓
+author: 陳括
 authorPinyin: chen2 kuo4
 authorSlug: chen-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 滄江練遶清暉閣，古榭苔封燕喜碑。
+- 古來唯有杜陵翁。
 
 ## 拼音
 
-- cang1 jiang1 lian4 rao4 qing1 hui1 ge2 ， gu3 xie4 tai2 feng1 yan4 xi3 bei1 。
+- gu3 lai2 wei2 you3 du4 ling2 weng1 。
 
 ## 注释
 

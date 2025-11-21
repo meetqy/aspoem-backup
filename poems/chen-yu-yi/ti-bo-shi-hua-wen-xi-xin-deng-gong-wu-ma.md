@@ -6,9 +6,9 @@ titleSlug: ti-bo-shi-hua-wen-xi-xin-deng-gong-wu-ma
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

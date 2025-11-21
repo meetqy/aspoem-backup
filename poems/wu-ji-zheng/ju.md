@@ -6,10 +6,10 @@ titleSlug: ju
 author: 吳己正
 authorPinyin: wu2 ji3 zheng4
 authorSlug: wu-ji-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

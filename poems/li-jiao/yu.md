@@ -1,7 +1,7 @@
 ---
 id: li-jiao-yu
-title: 雨
-titlePinyin: yu3
+title: 玉
+titlePinyin: yu4
 titleSlug: yu
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 西北雲膚起，東南雨足來。
-- 靈童出海見，神女向臺回。
-- 斜影風前合，圓文水上開。
-- 十旬無破塊，九土信康哉。
+- 映石先過魏，連城欲向秦。
+- 洛陽陪勝友，燕趙類佳人。
+- 方水晴虹媚，常山瑞馬新。
+- 徒爲卞和識，不遇楚王珍。
 
 ## 拼音
 
-- xi1 bei3 yun2 fu1 qi3 ， dong1 nan2 yu3 zu2 lai2 。
-- ling2 tong2 chu1 hai3 jian4 ， shen2 nü3 xiang4 tai2 hui2 。
-- xie2 ying3 feng1 qian2 he2 ， yuan2 wen2 shui3 shang4 kai1 。
-- shi2 xun2 wu2 po4 kuai4 ， jiu3 tu3 xin4 kang1 zai1 。
+- ying4 shi2 xian1 guo4 wei4 ， lian2 cheng2 yu4 xiang4 qin2 。
+- luo4 yang2 pei2 sheng4 you3 ， yan4 zhao4 lei4 jia1 ren2 。
+- fang1 shui3 qing2 hong2 mei4 ， chang2 shan1 rui4 ma3 xin1 。
+- tu2 wei2 bian4 he2 shi2 ， bu2 yu4 chu3 wang2 zhen1 。
 
 ## 注释
 

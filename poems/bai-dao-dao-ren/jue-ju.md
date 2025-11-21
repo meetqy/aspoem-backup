@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 敗道道人
 authorPinyin: bai4 dao4 dao4 ren2
 authorSlug: bai-dao-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲崦重重不易尋，庖厨性命走山林。
-- 但令有月同幽夢，更用何人識苦心。
-- 流輩漸稀知死近，鬢毛無色覺愁侵。
-- 平生自許忘情者，頗怪燈前感慨深。
+- 温洛榮河拱舊京，從來人物富豪英。
+- 報仇雖有楚三戸，守節得無齊二城。
+- 敵虜寕能斷地脉，王師行復暢天聲。
+- 鳳麟久伏應争奮，勉爲明時頌太平。
 
 ## 拼音
 
-- yun2 yan1 chong2 chong2 bu2 yi4 xun2 ， pao2 chu2 xing4 ming4 zou3 shan1 lin2 。
-- dan4 ling4 you3 yue4 tong2 you1 meng4 ， geng4 yong4 he2 ren2 shi2 ku3 xin1 。
-- liu2 bei4 jian4 xi1 zhi1 si3 jin4 ， bin4 mao2 wu2 se4 jue2 chou2 qin1 。
-- ping2 sheng1 zi4 xu1 wang4 qing2 zhe3 ， po1 guai4 deng1 qian2 gan3 kai3 shen1 。
+- wen1 luo4 rong2 he2 gong3 jiu4 jing1 ， cong2 lai2 ren2 wu4 fu4 hao2 ying1 。
+- bao4 chou2 sui1 you3 chu3 san1 hu4 ， shou3 jie2 de2 wu2 qi2 er4 cheng2 。
+- di2 lu3 ning4 neng2 duan4 di4 mai4 ， wang2 shi1 xing2 fu4 chang4 tian1 sheng1 。
+- feng4 lin2 jiu3 fu2 ying1 zheng1 fen4 ， mian3 wei2 ming2 shi2 song4 tai4 ping2 。
 
 ## 注释
 

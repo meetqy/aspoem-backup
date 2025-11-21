@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-hu-nan-jiang-xi-dao-zhong-shi-shou-qi-yi
-title: 湖南江西道中十首  其一
-titlePinyin: hu2 nan2 jiang1 xi1 dao4 zhong1 shi2 shou3     qi2 yi1
+title: 湖南江西道中十首  其一○
+titlePinyin: hu2 nan2 jiang1 xi1 dao4 zhong1 shi2 shou3     qi2 yi1 ○
 titleSlug: hu-nan-jiang-xi-dao-zhong-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨醒公子去沉湘，未識人間有醉鄉。
-- 酒與離騷難捏合，不如痛飲是單方。
+- 上封已失嶽僧期，客問丹霞謝不知。
+- 懶到登山臨水處，始驚筋力減來時。
 
 ## 拼音
 
-- du2 xing3 gong1 zi3 qu4 chen2 xiang1 ， wei4 shi2 ren2 jian4 you3 zui4 xiang1 。
-- jiu3 yu3 li2 sao1 nan2 nie1 he2 ， bu4 ru2 tong4 yin3 shi4 dan1 fang1 。
+- shang4 feng1 yi3 shi1 yue4 seng1 qi1 ， ke4 wen4 dan1 xia2 xie4 bu4 zhi1 。
+- lan3 dao4 deng1 shan1 lin2 shui3 chu3 ， shi3 jing1 jin1 li4 jian3 lai2 shi2 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: you-he
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 沴氣反爲和氣來，長沙千里一瑶臺。
-- 新炊頓頓匙抄玉，熟睡家家壁撼雷。
-- 天直於人如合券，公應憐我欲停盃。
-- 向來韓子誇精禱，雲合衡山特易開。
+- 湖上簾須半捲蝦，調冰雪藕各名家。
+- 有人不觧長安飲，話極茶鐺吸井花。
 
 ## 拼音
 
-- li4 qi4 fan3 wei2 he2 qi4 lai2 ， chang2 sha1 qian1 li3 yi4 yao2 tai2 。
-- xin1 chui1 dun4 dun4 chi2 chao1 yu4 ， shu2 shui4 jia1 jia1 bi4 han4 lei2 。
-- tian1 zhi2 wu1 ren2 ru2 he2 quan4 ， gong1 ying1 lian2 wo3 yu4 ting2 bei1 。
-- xiang4 lai2 han2 zi3 kua1 jing1 dao3 ， yun2 he2 heng2 shan1 te4 yi4 kai1 。
+- hu2 shang4 lian2 xu1 ban4 juan3 xia1 ， diao4 bing1 xue3 ou3 ge4 ming2 jia1 。
+- you3 ren2 bu4 jie3 chang2 an1 yin3 ， hua4 ji2 cha2 dang1 xi1 jing3 hua1 。
 
 ## 注释
 

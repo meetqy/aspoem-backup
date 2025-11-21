@@ -6,21 +6,25 @@ titleSlug: guan-wu-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 時有代謝，物有枯榮。
-- 人有衰盛，事有廢興。
+- 居暗觀明，居靜觀動。
+- 居簡觀繁，居輕觀重。
+- 所居者寡，所觀則衆。
+- 匪居匪觀，衆寡何用。
 
 ## 拼音
 
-- shi2 you3 dai4 xie4 ， wu4 you3 ku1 rong2 。
-- ren2 you3 shuai1 sheng4 ， shi4 you3 fei4 xing1 。
+- ju1 an4 guan1 ming2 ， ju1 jing4 guan1 dong4 。
+- ju1 jian3 guan1 fan2 ， ju1 qing1 guan1 zhong4 。
+- suo3 ju1 zhe3 gua3 ， suo3 guan1 ze2 zhong4 。
+- fei3 ju1 fei3 guan1 ， zhong4 gua3 he2 yong4 。
 
 ## 注释
 

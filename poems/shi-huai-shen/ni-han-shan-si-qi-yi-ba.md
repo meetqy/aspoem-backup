@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-yi-ba
-title: 擬寒山寺  其一八
-titlePinyin: ni3 han2 shan1 si4     qi2 yi1 ba1
+title: 擬寒山寺  其一○八
+titlePinyin: ni3 han2 shan1 si4     qi2 yi1 ○ ba1
 titleSlug: ni-han-shan-si-qi-yi-ba
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 忽聞賊殺人，吞聲眉已皺。
-- 不知杯中羹，甘肥自何有。
-- 汝身既怕死，物命亦愛壽。
-- 彼此莫相殺，且要無身後。
+- 名湯並利火，古今燒殺人。
+- 只貪炙手熱，應笑甑生塵。
+- 虎口都忘險，龍鱗不怕嗔。
+- 利名心未足，衰老已及身。
 
 ## 拼音
 
-- hu1 wen2 zei2 sha1 ren2 ， tun1 sheng1 mei2 yi3 zhou4 。
-- bu4 zhi1 bei1 zhong1 geng1 ， gan1 fei2 zi4 he2 you3 。
-- ru3 shen1 ji4 pa4 si3 ， wu4 ming4 yi4 ai4 shou4 。
-- bi3 ci3 mo4 xiang1 sha1 ， qie3 yao4 wu2 shen1 hou4 。
+- ming2 tang1 bing4 li4 huo3 ， gu3 jin1 shao1 sha1 ren2 。
+- zhi1 tan1 zhi4 shou3 re4 ， ying1 xiao4 zeng4 sheng1 chen2 。
+- hu3 kou3 dou1 wang4 xian3 ， long2 lin2 bu2 pa4 chen1 。
+- li4 ming2 xin1 wei4 zu2 ， shuai1 lao3 yi3 ji2 shen1 。
 
 ## 注释
 

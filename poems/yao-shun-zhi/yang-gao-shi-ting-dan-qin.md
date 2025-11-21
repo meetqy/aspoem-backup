@@ -6,10 +6,10 @@ titleSlug: yang-gao-shi-ting-dan-qin
 author: 姚舜陟
 authorPinyin: yao2 shun4 zhi4
 authorSlug: yao-shun-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

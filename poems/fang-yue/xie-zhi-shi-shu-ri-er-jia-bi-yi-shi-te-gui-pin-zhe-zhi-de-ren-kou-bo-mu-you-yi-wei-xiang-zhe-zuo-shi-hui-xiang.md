@@ -6,10 +6,10 @@ titleSlug: xie-zhi-shi-shu-ri-er-jia-bi-yi-shi-te-gui-pin-zhe-zhi-de-ren-kou-bo-
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

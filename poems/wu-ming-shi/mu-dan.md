@@ -9,20 +9,20 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 傾國姿容別，多開富貴家。
-- 臨軒一賞後，輕薄萬千花。
-- （同上《草木典》二八九《牡丹部》）。
+- 紅開西子粧樓曉，翠揭麻姑水殿春。
+- （見《苕溪漁隱叢話前集》卷二七引《陳輔之詩話》。
+- ）。
 
 ## 拼音
 
-- qing1 guo2 zi1 rong2 bie2 ， duo1 kai1 fu4 gui4 jia1 。
-- lin2 xuan1 yi4 shang3 hou4 ， qing1 bao2 wan4 qian1 hua1 。
-- （ tong2 shang4 《 cao3 mu4 dian3 》 er4 ba1 jiu3 《 mu3 dan1 bu4 》）。
+- hong2 kai1 xi1 zi3 zhuang1 lou2 xiao3 ， cui4 jie1 ma2 gu1 shui3 dian4 chun1 。
+- （ jian4 《 tiao2 xi1 yu2 yin3 cong2 hua4 qian2 ji2 》 juan4 er4 qi1 yin3 《 chen2 fu3 zhi1 shi1 hua4 》。
+- ）。
 
 ## 注释
 

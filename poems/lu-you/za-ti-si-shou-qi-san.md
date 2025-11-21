@@ -6,21 +6,21 @@ titleSlug: za-ti-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傳家只要存書種，學道當知養聖胎。
-- 寧使終身遷比景，莫令一物汙靈臺。
+- 野花紅碧自爭春，村酒酸甜也醉人。
+- 解放船頭便千里，不愁無處著閑身。
 
 ## 拼音
 
-- chuan2 jia1 zhi3 yao4 cun2 shu1 zhong3 ， xue2 dao4 dang1 zhi1 yang3 sheng4 tai1 。
-- ning2 shi3 zhong1 shen1 qian1 bi3 jing3 ， mo4 ling4 yi2 wu4 wu1 ling2 tai2 。
+- ye3 hua1 hong2 bi4 zi4 zheng1 chun1 ， cun1 jiu3 suan1 tian2 ye3 zui4 ren2 。
+- jie3 fang4 chuan2 tou2 bian4 qian1 li3 ， bu4 chou2 wu2 chu3 zhu4 xian2 shen1 。
 
 ## 注释
 

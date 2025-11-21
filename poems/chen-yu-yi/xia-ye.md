@@ -6,29 +6,25 @@ titleSlug: xia-ye
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 幽窗報夕霽，微月在屋橑。
-- 手中白羽扇，共此夜寥寥。
-- 六月天正碧，三更樹微摇。
-- 緬懷山中景，茲夕感路遥。
-- 長嘯送行雲，可望不可招。
-- 夜闌林光發，白露濡青條。
+- 遠遊萬事裂，獨立數峯青。
+- 明月照山木，荒村饒夜螢。
+- 翻翻雲渡漢，歷歷水浮星。
+- 遥舍燈已盡，幽人門未扃。
 
 ## 拼音
 
-- you1 chuang1 bao4 xi1 ji4 ， wei1 yue4 zai4 wu1 liao2 。
-- shou3 zhong1 bai2 yu3 shan4 ， gong4 ci3 ye4 liao2 liao2 。
-- liu4 yue4 tian1 zheng4 bi4 ， san1 geng1 shu4 wei1 yao2 。
-- mian3 huai2 shan1 zhong1 jing3 ， zi1 xi1 gan3 lu4 yao2 。
-- chang2 xiao4 song4 xing2 yun2 ， ke3 wang4 bu4 ke3 zhao1 。
-- ye4 lan2 lin2 guang1 fa1 ， bai2 lu4 ru2 qing1 tiao2 。
+- yuan3 you2 wan4 shi4 lie4 ， du2 li4 shu4 feng1 qing1 。
+- ming2 yue4 zhao4 shan1 mu4 ， huang1 cun1 rao2 ye4 ying2 。
+- fan1 fan1 yun2 du4 han4 ， li4 li4 shui3 fu2 xing1 。
+- yao2 she4 deng1 yi3 jin4 ， you1 ren2 men2 wei4 jiong1 。
 
 ## 注释
 

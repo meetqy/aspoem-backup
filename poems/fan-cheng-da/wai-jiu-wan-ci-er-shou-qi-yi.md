@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-wai-jiu-wan-ci-er-shou-qi-yi
-title: 外舅輓詞二首・其一
-titlePinyin: wai4 jiu4 wan3 ci2 er4 shou3・qi2 yi1
+title: 外舅輓詞二首  其一
+titlePinyin: wai4 jiu4 wan3 ci2 er4 shou3     qi2 yi1
 titleSlug: wai-jiu-wan-ci-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

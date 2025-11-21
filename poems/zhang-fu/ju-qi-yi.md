@@ -1,24 +1,24 @@
 ---
 id: zhang-fu-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
-author: 章甫
+author: 張釜
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 只欠蛾眉把屈巵。
+- 機心吾豈有。
 
 ## 拼音
 
-- zhi1 qian4 e2 mei2 ba3 qu1 zhi1 。
+- ji1 xin1 wu2 qi3 you3 。
 
 ## 注释
 

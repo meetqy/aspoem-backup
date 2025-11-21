@@ -6,10 +6,10 @@ titleSlug: ti-san-xuan
 author: 譙令憲
 authorPinyin: qiao2 ling4 xian4
 authorSlug: qiao-ling-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

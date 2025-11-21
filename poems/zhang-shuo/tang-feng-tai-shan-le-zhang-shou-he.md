@@ -9,22 +9,18 @@ authorSlug: zhang-shuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 烝烝我后，享獻惟寅。
-- 躬酌鬱鬯，跪奠明神。
-- 孝莫孝乎，配上帝親。
-- 敬莫敬乎，教天下臣。
+- 皇祖嚴配，配享皇天。
+- 皇皇降嘏，天子萬年。
 
 ## 拼音
 
-- zheng1 zheng1 wo3 hou4 ， xiang3 xian4 wei2 yin2 。
-- gong1 zhuo2 yu4 chang4 ， gui4 dian4 ming2 shen2 。
-- xiao4 mo4 xiao4 hu1 ， pei4 shang4 di4 qin1 。
-- jing4 mo4 jing4 hu1 ， jiao4 tian1 xia4 chen2 。
+- huang2 zu3 yan2 pei4 ， pei4 xiang3 huang2 tian1 。
+- huang2 huang2 jiang4 gu3 ， tian1 zi3 wan4 nian2 。
 
 ## 注释
 

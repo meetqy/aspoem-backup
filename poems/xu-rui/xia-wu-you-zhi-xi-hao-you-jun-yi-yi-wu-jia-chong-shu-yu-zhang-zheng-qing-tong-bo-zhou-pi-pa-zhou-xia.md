@@ -6,10 +6,10 @@ titleSlug: xia-wu-you-zhi-xi-hao-you-jun-yi-yi-wu-jia-chong-shu-yu-zhang-zheng-q
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

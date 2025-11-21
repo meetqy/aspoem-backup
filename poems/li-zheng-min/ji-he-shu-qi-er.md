@@ -6,25 +6,25 @@ titleSlug: ji-he-shu-qi-er
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飄泊柯山二十春，琴書索莫困埃塵。
-- 憶攀楊柳當年别，愁見桃花幾度新。
-- 公業有田猶告乏，淵明解綬便憂貧。
-- 浮生種種皆爲累，况是羈棲一旅人。
+- 阮公痛哭到途窮，碧海相望西與東。
+- 流落真同土木偶，奔馳方類馬牛風。
+- 烏衣舊會嗟難繼，黄耳家書杳不通。
+- 桂樹連蜷猿嘯苦，王孫何久滯山中。
 
 ## 拼音
 
-- piao1 bo2 ke1 shan1 er4 shi2 chun1 ， qin2 shu1 suo3 mo4 kun4 ai1 chen2 。
-- yi4 pan1 yang2 liu3 dang1 nian2 bie2 ， chou2 jian4 tao2 hua1 ji1 du4 xin1 。
-- gong1 ye4 you3 tian2 you2 gao4 fa2 ， yuan1 ming2 jie3 shou4 bian4 you1 pin2 。
-- fu2 sheng1 zhong3 zhong3 jie1 wei2 lei4 ， kuang4 shi4 ji1 qi1 yi4 lü3 ren2 。
+- ruan3 gong1 tong4 ku1 dao4 tu2 qiong2 ， bi4 hai3 xiang1 wang4 xi1 yu3 dong1 。
+- liu2 luo4 zhen1 tong2 tu3 mu4 ou3 ， ben1 chi2 fang1 lei4 ma3 niu2 feng1 。
+- wu1 yi1 jiu4 hui4 jie1 nan2 ji4 ， huang2 er3 jia1 shu1 yao3 bu4 tong1 。
+- gui4 shu4 lian2 quan2 yuan2 xiao4 ku3 ， wang2 sun1 he2 jiu3 zhi4 shan1 zhong1 。
 
 ## 注释
 

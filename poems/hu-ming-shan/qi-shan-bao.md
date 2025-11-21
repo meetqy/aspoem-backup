@@ -6,10 +6,10 @@ titleSlug: qi-shan-bao
 author: 胡明善
 authorPinyin: hu2 ming2 shan4
 authorSlug: hu-ming-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

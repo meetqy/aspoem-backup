@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 竟日語還默，中宵棲復驚。
-- 身囚緣彩翠，心苦爲分明。
-- 暮起歸巢思，春多憶侶聲。
-- 誰能拆籠破，從放快飛鳴。
+- 隴西鸚鵡到江東，養得經年觜漸紅。
+- 常恐思歸先剪翅，每因餧食暫開籠。
+- 人憐巧語情雖重，鳥憶高飛意不同。
+- 應似朱門歌舞妓，深藏牢閉後房中。
 
 ## 拼音
 
-- jing4 ri4 yu3 huan2 mo4 ， zhong1 xiao1 qi1 fu4 jing1 。
-- shen1 qiu2 yuan2 cai3 cui4 ， xin1 ku3 wei2 fen1 ming2 。
-- mu4 qi3 gui1 chao2 si1 ， chun1 duo1 yi4 lü3 sheng1 。
-- shui2 neng2 chai1 long2 po4 ， cong2 fang4 kuai4 fei1 ming2 。
+- long3 xi1 ying1 wu3 dao4 jiang1 dong1 ， yang3 de2 jing1 nian2 zi1 jian4 hong2 。
+- chang2 kong3 si1 gui1 xian1 jian3 chi4 ， mei3 yin1 wei4 shi2 zan4 kai1 long2 。
+- ren2 lian2 qiao3 yu3 qing2 sui1 zhong4 ， niao3 yi4 gao1 fei1 yi4 bu4 tong2 。
+- ying1 si4 zhu1 men2 ge1 wu3 ji4 ， shen1 cang2 lao2 bi4 hou4 fang2 zhong1 。
 
 ## 注释
 

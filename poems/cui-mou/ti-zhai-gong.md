@@ -6,10 +6,10 @@ titleSlug: ti-zhai-gong
 author: 崔某
 authorPinyin: cui1 mou3
 authorSlug: cui-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

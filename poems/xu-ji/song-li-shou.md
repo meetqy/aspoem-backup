@@ -6,25 +6,25 @@ titleSlug: song-li-shou
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千兵州將已嚴裝，猶入西菴曳繡裳。
-- 坐燕起來中酒色，行春歸後落花香。
-- 難酬高義情彌重，欲述餘恩事更長。
-- 但看楚人遮道處，草頭垂淚濕殘陽。
+- 莫說真州南畔路，楚望亭南路已遥。
+- 只可寄聲來見問，更難折簡去相招。
+- 船頭何處逢秋水，山下誰家把酒瓢。
+- 且趁潮行急摇櫓，到江州後更無潮。
 
 ## 拼音
 
-- qian1 bing1 zhou1 jiang1 yi3 yan2 zhuang1 ， you2 ru4 xi1 an1 ye4 xiu4 shang0 。
-- zuo4 yan4 qi3 lai2 zhong1 jiu3 se4 ， xing2 chun1 gui1 hou4 luo4 hua1 xiang1 。
-- nan2 chou2 gao1 yi4 qing2 mi2 zhong4 ， yu4 shu4 yu2 en1 shi4 geng4 chang2 。
-- dan4 kan4 chu3 ren2 zhe1 dao4 chu3 ， cao3 tou2 chui2 lei4 shi1 can2 yang2 。
+- mo4 shuo1 zhen1 zhou1 nan2 pan4 lu4 ， chu3 wang4 ting2 nan2 lu4 yi3 yao2 。
+- zhi1 ke3 ji4 sheng1 lai2 jian4 wen4 ， geng4 nan2 zhe2 jian3 qu4 xiang1 zhao1 。
+- chuan2 tou2 he2 chu3 feng2 qiu1 shui3 ， shan1 xia4 shui2 jia1 ba3 jiu3 piao2 。
+- qie3 chen4 chao2 xing2 ji2 yao2 lu3 ， dao4 jiang1 zhou1 hou4 geng4 wu2 chao2 。
 
 ## 注释
 

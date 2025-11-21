@@ -6,21 +6,21 @@ titleSlug: sheng-shou-he-duan-wu-tie-zi-qi-yi
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有德天同壽，無爲日更長。
-- 每逢端午節，雙上萬年觴。
+- 宮人晨起靚粧梳，艾葉菖花獻頌餘。
+- 團扇裁成留不畫，應時只乞聖人書。
 
 ## 拼音
 
-- you3 de2 tian1 tong2 shou4 ， wu2 wei2 ri4 geng4 chang2 。
-- mei3 feng2 duan1 wu3 jie2 ， shuang1 shang4 wan4 nian2 shang1 。
+- gong1 ren2 chen2 qi3 jing4 zhuang1 shu1 ， ai4 ye4 chang1 hua1 xian4 song4 yu2 。
+- tuan2 shan4 cai2 cheng2 liu2 bu2 hua4 ， ying1 shi2 zhi1 qi3 sheng4 ren2 shu1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-er-si
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 避罪勝修福，其爲理一般。
-- 資財豐利益，公道不欺瞞。
-- 濁世貪榮祿，明時善政官。
-- 遏强能撫弱，容此勢情觀。
+- 皇天不事但多羅，莫道無緣奈我何。
+- 上有天堂下地獄，分明種麥不生禾。
 
 ## 拼音
 
-- bi4 zui4 sheng4 xiu1 fu2 ， qi2 wei2 li3 yi4 ban1 。
-- zi1 cai2 feng1 li4 yi4 ， gong1 dao4 bu4 qi1 man2 。
-- zhuo2 shi4 tan1 rong2 lu4 ， ming2 shi2 shan4 zheng4 guan1 。
-- e4 qiang2 neng2 fu3 ruo4 ， rong2 ci3 shi4 qing2 guan1 。
+- huang2 tian1 bu2 shi4 dan4 duo1 luo2 ， mo4 dao4 wu2 yuan2 nai4 wo3 he2 。
+- shang4 you3 tian1 tang2 xia4 di4 yu4 ， fen1 ming2 zhong3 mai4 bu4 sheng1 he2 。
 
 ## 注释
 

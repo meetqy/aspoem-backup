@@ -6,25 +6,21 @@ titleSlug: wan-chun
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春來涉幾日，又到落花時。
-- 老面羞看鏡，愁懷强作詩。
-- 雨牆蝸篆古，風樹鳥巢危。
-- 有客適相過，樽前一局棋。
+- 池塘渴雨蛙聲少，庭院無人燕語長。
+- 午枕不成春草夢，落花風靜煮茶香。
 
 ## 拼音
 
-- chun1 lai2 she4 ji1 ri4 ， you4 dao4 luo4 hua1 shi2 。
-- lao3 mian4 xiu1 kan4 jing4 ， chou2 huai2 qiang2 zuo4 shi1 。
-- yu3 qiang2 wo1 zhuan4 gu3 ， feng1 shu4 niao3 chao2 wei1 。
-- you3 ke4 shi4 xiang1 guo4 ， zun1 qian2 yi4 ju2 qi2 。
+- chi2 tang2 ke3 yu3 wa1 sheng1 shao3 ， ting2 yuan4 wu2 ren2 yan4 yu3 chang2 。
+- wu3 zhen3 bu4 cheng2 chun1 cao3 meng4 ， luo4 hua1 feng1 jing4 zhu3 cha2 xiang1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: wan-gui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暑雨初晴日，江皋欲莫天。
-- 鴉棲沙際樹，人喚渡頭船。
-- 病骨羸将折，昏眸困欲眠。
-- 市橋燈火閙，且復喜豐年。
+- 梅市橋邊弄夕霏，菱歌聲裏棹船歸。
+- 白鷗去盡還堪恨，不爲幽人暖釣磯。
 
 ## 拼音
 
-- shu3 yu3 chu1 qing2 ri4 ， jiang1 gao1 yu4 mo4 tian1 。
-- ya1 qi1 sha1 ji4 shu4 ， ren2 huan4 du4 tou2 chuan2 。
-- bing4 gu3 lei2 jiang1 zhe2 ， hun1 mou2 kun4 yu4 mian2 。
-- shi4 qiao2 deng1 huo3 nao4 ， qie3 fu4 xi3 feng1 nian2 。
+- mei2 shi4 qiao2 bian1 nong4 xi1 fei1 ， ling2 ge1 sheng1 li3 zhao4 chuan2 gui1 。
+- bai2 ou1 qu4 jin4 huan2 kan1 hen4 ， bu4 wei2 you1 ren2 nuan3 diao4 ji1 。
 
 ## 注释
 

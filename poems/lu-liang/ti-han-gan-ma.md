@@ -6,10 +6,10 @@ titleSlug: ti-han-gan-ma
 author: 呂量
 authorPinyin: lü3 liang2
 authorSlug: lu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

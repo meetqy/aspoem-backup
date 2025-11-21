@@ -6,10 +6,10 @@ titleSlug: huang-long-dong
 author: 林同叔
 authorPinyin: lin2 tong2 shu1
 authorSlug: lin-tong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

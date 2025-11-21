@@ -6,10 +6,10 @@ titleSlug: zao-chun-ou-ti
 author: 崔鶠
 authorPinyin: cui1 yan3
 authorSlug: cui-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

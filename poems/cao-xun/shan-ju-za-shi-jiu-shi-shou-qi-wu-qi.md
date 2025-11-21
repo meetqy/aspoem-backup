@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-qi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生不能棋，遇棋亦輙喜。
-- 從來號萬戶，知生不救死。
-- 多見國手說，得先乃妙理。
-- 更有末後著，此著知者幾。
+- 老來參同事，勤志不敢失。
+- 人言爐偃月，吾意爐藏日。
+- 朝陽升西山，異液甘若蜜。
+- 一體奠所居，旦旦享清逸。
 
 ## 拼音
 
-- ping2 sheng1 bu4 neng2 qi2 ， yu4 qi2 yi4 zhe2 xi3 。
-- cong2 lai2 hao4 wan4 hu4 ， zhi1 sheng1 bu2 jiu4 si3 。
-- duo1 jian4 guo2 shou3 shuo1 ， de2 xian1 nai3 miao4 li3 。
-- geng4 you3 mo4 hou4 zhu4 ， ci3 zhu4 zhi1 zhe3 ji1 。
+- lao3 lai2 can1 tong2 shi4 ， qin2 zhi4 bu4 gan3 shi1 。
+- ren2 yan2 lu2 yan3 yue4 ， wu2 yi4 lu2 cang2 ri4 。
+- chao2 yang2 sheng1 xi1 shan1 ， yi4 ye4 gan1 ruo4 mi4 。
+- yi4 ti3 dian4 suo3 ju1 ， dan4 dan4 xiang3 qing1 yi4 。
 
 ## 注释
 

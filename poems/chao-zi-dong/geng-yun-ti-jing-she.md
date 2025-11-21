@@ -6,10 +6,10 @@ titleSlug: geng-yun-ti-jing-she
 author: 晁子東
 authorPinyin: chao2 zi3 dong1
 authorSlug: chao-zi-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

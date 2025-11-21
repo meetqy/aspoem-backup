@@ -6,10 +6,10 @@ titleSlug: nan-xi-dan-zhen-ge-xian-wang
 author: 呂大臨
 authorPinyin: lü3 da4 lin2
 authorSlug: lu-da-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

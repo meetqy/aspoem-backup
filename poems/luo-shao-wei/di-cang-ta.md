@@ -6,10 +6,10 @@ titleSlug: di-cang-ta
 author: 羅少微
 authorPinyin: luo2 shao3 wei1
 authorSlug: luo-shao-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

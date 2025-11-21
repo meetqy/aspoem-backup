@@ -6,29 +6,25 @@ titleSlug: gui-tan-er-shou-qi-er
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心空閑有味，境寂澹無營。
-- 石鼎脹豕腹，幽幽暗泉鳴。
-- 銅盤印鳥迹，漠漠微雲行。
-- 起挽枝上紅，細傾榼中清。
-- 提壺亦勸飲，布穀仍催耕。
-- 悠然獨往願，一笑愜平生。
+- 投老一無取，遊空百不聞。
+- 莫參東閣吏，恐汙北山文。
+- 心定對止水，身閑臥白雲。
+- 嗒然吾喪我，何意傲人羣。
 
 ## 拼音
 
-- xin1 kong1 xian2 you3 wei4 ， jing4 ji4 dan4 wu2 ying2 。
-- shi2 ding3 zhang4 shi3 fu4 ， you1 you1 an4 quan2 ming2 。
-- tong2 pan2 yin4 niao3 ji4 ， mo4 mo4 wei1 yun2 xing2 。
-- qi3 wan3 zhi1 shang4 hong2 ， xi4 qing1 ke1 zhong1 qing1 。
-- ti2 hu2 yi4 quan4 yin3 ， bu4 gu3 reng2 cui1 geng1 。
-- you1 ran2 du2 wang3 yuan4 ， yi2 xiao4 qie4 ping2 sheng1 。
+- tou2 lao3 yi4 wu2 qu3 ， you2 kong1 bai3 bu4 wen2 。
+- mo4 can1 dong1 ge2 li4 ， kong3 wu1 bei3 shan1 wen2 。
+- xin1 ding4 dui4 zhi3 shui3 ， shen1 xian2 wo4 bai2 yun2 。
+- da1 ran2 wu2 sang1 wo3 ， he2 yi4 ao4 ren2 qun2 。
 
 ## 注释
 

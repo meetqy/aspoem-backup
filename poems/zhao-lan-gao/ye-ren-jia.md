@@ -6,10 +6,10 @@ titleSlug: ye-ren-jia
 author: 趙蘭皋
 authorPinyin: zhao4 lan2 gao1
 authorSlug: zhao-lan-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

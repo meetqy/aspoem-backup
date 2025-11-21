@@ -6,9 +6,9 @@ titleSlug: he-yan-zheng-ju-shi-jian-ji-bing-mian-ding-xiong-ji-zai-he-meng-shi-q
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

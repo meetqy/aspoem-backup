@@ -6,21 +6,21 @@ titleSlug: yuan-zhong-za-shu-si-shou-qi-yi
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 因病經旬不賦詩，無詩病思轉難支。
-- 今朝詩句未成了，已覺全無病可醫。
+- 春雲天上白成行，春草人間綠自香。
+- 罨岸桃花三百樹，碧溪休問短和長。
 
 ## 拼音
 
-- yin1 bing4 jing1 xun2 bu2 fu4 shi1 ， wu2 shi1 bing4 si1 zhuan3 nan2 zhi1 。
-- jin1 zhao1 shi1 ju4 wei4 cheng2 le0 ， yi3 jue2 quan2 wu2 bing4 ke3 yi1 。
+- chun1 yun2 tian1 shang4 bai2 cheng2 xing2 ， chun1 cao3 ren2 jian4 lü4 zi4 xiang1 。
+- yan3 an4 tao2 hua1 san1 bai3 shu4 ， bi4 xi1 xiu1 wen4 duan3 he2 chang2 。
 
 ## 注释
 

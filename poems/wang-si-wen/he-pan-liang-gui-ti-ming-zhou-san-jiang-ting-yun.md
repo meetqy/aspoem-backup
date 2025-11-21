@@ -6,10 +6,10 @@ titleSlug: he-pan-liang-gui-ti-ming-zhou-san-jiang-ting-yun
 author: 汪思溫
 authorPinyin: wang1 si1 wen1
 authorSlug: wang-si-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

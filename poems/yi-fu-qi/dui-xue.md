@@ -6,10 +6,10 @@ titleSlug: dui-xue
 author: 易祓妻
 authorPinyin: yi4 fu2 qi1
 authorSlug: yi-fu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

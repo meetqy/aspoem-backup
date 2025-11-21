@@ -6,10 +6,10 @@ titleSlug: shou-xia-jing-guan-tang-shu-huai
 author: 章詡
 authorPinyin: zhang1 xu3
 authorSlug: zhang-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

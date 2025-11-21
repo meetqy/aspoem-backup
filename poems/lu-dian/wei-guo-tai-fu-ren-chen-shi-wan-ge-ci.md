@@ -6,25 +6,25 @@ titleSlug: wei-guo-tai-fu-ren-chen-shi-wan-ge-ci
 author: 陸佃
 authorPinyin: lu4 dian4
 authorSlug: lu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漏逐晨鐘盡，舟隨暮壑移。
-- 文歸大家傳，行在小星詩。
-- 珠珮臨江失，金丹渡海遲。
-- 侍郎頭已白，兒慕不勝悲。
+- 門戶同歸太史評，傳芳消息在瑶瓊。
+- 鳳銜誥詔從夫貴，龍負圖書識父清。
+- 金鴨火銷香自遠，玉匳珠在月空明。
+- 也知欲向華胥問，炊盡黄粱夢不成。
 
 ## 拼音
 
-- lou4 zhu2 chen2 zhong1 jin4 ， zhou1 sui2 mu4 he4 yi2 。
-- wen2 gui1 da4 jia1 chuan2 ， xing2 zai4 xiao3 xing1 shi1 。
-- zhu1 pei4 lin2 jiang1 shi1 ， jin1 dan1 du4 hai3 chi2 。
-- shi4 lang2 tou2 yi3 bai2 ， er2 mu4 bu2 sheng4 bei1 。
+- men2 hu4 tong2 gui1 tai4 shi3 ping2 ， chuan2 fang1 xiao1 xi0 zai4 yao2 qiong2 。
+- feng4 xian2 gao4 zhao4 cong2 fu1 gui4 ， long2 fu4 tu2 shu1 shi2 fu4 qing1 。
+- jin1 ya1 huo3 xiao1 xiang1 zi4 yuan3 ， yu4 lian2 zhu1 zai4 yue4 kong1 ming2 。
+- ye3 zhi1 yu4 xiang4 hua2 xu1 wen4 ， chui1 jin4 huang2 liang2 meng4 bu4 cheng2 。
 
 ## 注释
 

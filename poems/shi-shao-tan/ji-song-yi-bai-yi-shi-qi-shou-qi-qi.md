@@ -1,28 +1,30 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-yi-shi-qi-shou-qi-qi
-title: 偈頌一百一十七首  其七
-titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 qi1
+title: 偈頌一百一十七首  其七○
+titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-yi-shi-qi-shou-qi-qi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 逼人上樹拔却梯，推人入井覆却桶。
-- 江湖用此惡心腸，誰云契義金蘭重。
-- 怪語顛言，開眼說夢。
+- 茅舍春深，韶華可人。
+- 山花裛翠，烟草如茵。
+- 況有尋幽客至，錦囊探句，藜杖挑琴。
+- 握手松根同一笑，高風曾不護東林。
 
 ## 拼音
 
-- bi1 ren2 shang4 shu4 ba2 que4 ti1 ， tui1 ren2 ru4 jing3 fu4 que4 tong3 。
-- jiang1 hu2 yong4 ci3 e4 xin1 chang2 ， shui2 yun2 qi4 yi4 jin1 lan2 zhong4 。
-- guai4 yu3 dian1 yan2 ， kai1 yan3 shuo1 meng4 。
+- mao2 she4 chun1 shen1 ， shao2 hua2 ke3 ren2 。
+- shan1 hua1 yi4 cui4 ， yan1 cao3 ru2 yin1 。
+- kuang4 you3 xun2 you1 ke4 zhi4 ， jin3 nang2 tan4 ju4 ， li2 zhang4 tiao1 qin2 。
+- wo4 shou3 song1 gen1 tong2 yi2 xiao4 ， gao1 feng1 ceng2 bu2 hu4 dong1 lin2 。
 
 ## 注释
 

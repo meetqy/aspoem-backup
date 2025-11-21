@@ -6,21 +6,21 @@ titleSlug: hui-wen-qi-yi
 author: 無名氏
 authorPinyin: wu2 ming2 shi4
 authorSlug: wu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅窗小立低聲怨，永日春寒斗帳空。
-- 中酒落花飛絮亂，曉鶑啼破夢匆匆。
+- 春晚落花餘碧草，夜凉低月半枯桐。
+- 人隨遠雁邊城暮，雨映疏簾繡閣空。
 
 ## 拼音
 
-- hong2 chuang1 xiao3 li4 di1 sheng1 yuan4 ， yong3 ri4 chun1 han2 dou4 zhang4 kong1 。
-- zhong1 jiu3 luo4 hua1 fei1 xu4 luan4 ， xiao3 ying1 ti2 po4 meng4 cong1 cong1 。
+- chun1 wan3 luo4 hua1 yu2 bi4 cao3 ， ye4 liang2 di1 yue4 ban4 ku1 tong2 。
+- ren2 sui2 yuan3 yan4 bian1 cheng2 mu4 ， yu3 ying4 shu1 lian2 xiu4 ge2 kong1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湖上梅花手自移，小橋風月最相宜。
-- 主人歲歲常爲客，莫怪幽香怨不知。
+- 子欲作梅詩，當造幽絕境。
+- 筆端有纖塵，正恐梅未肯。
 
 ## 拼音
 
-- hu2 shang4 mei2 hua1 shou3 zi4 yi2 ， xiao3 qiao2 feng1 yue4 zui4 xiang1 yi2 。
-- zhu3 ren2 sui4 sui4 chang2 wei2 ke4 ， mo4 guai4 you1 xiang1 yuan4 bu4 zhi1 。
+- zi3 yu4 zuo4 mei2 shi1 ， dang1 zao4 you1 jue2 jing4 。
+- bi3 duan1 you3 xian1 chen2 ， zheng4 kong3 mei2 wei4 ken3 。
 
 ## 注释
 

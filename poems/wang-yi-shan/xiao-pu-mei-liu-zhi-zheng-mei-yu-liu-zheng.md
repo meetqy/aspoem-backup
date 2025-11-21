@@ -6,10 +6,10 @@ titleSlug: xiao-pu-mei-liu-zhi-zheng-mei-yu-liu-zheng
 author: 王義山
 authorPinyin: wang2 yi4 shan1
 authorSlug: wang-yi-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

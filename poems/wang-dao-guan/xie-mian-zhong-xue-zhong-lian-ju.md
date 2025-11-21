@@ -6,10 +6,10 @@ titleSlug: xie-mian-zhong-xue-zhong-lian-ju
 author: 王道觀
 authorPinyin: wang2 dao4 guan1
 authorSlug: wang-dao-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: chu-ye-qi-wu
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幸有牛衣暖似春，可曾半字日邊人。
-- 不知相國何爲者，撩得諸公屋大嗔。
+- 不是催租夜打門，那知寶祐改新元。
+- 人間測度春風意，李白桃紅又一番。
 
 ## 拼音
 
-- xing4 you3 niu2 yi1 nuan3 si4 chun1 ， ke3 ceng2 ban4 zi4 ri4 bian1 ren2 。
-- bu4 zhi1 xiang1 guo2 he2 wei2 zhe3 ， liao2 de2 zhu1 gong1 wu1 da4 chen1 。
+- bu2 shi4 cui1 zu1 ye4 da3 men2 ， na4 zhi1 bao3 you4 gai3 xin1 yuan2 。
+- ren2 jian4 ce4 du4 chun1 feng1 yi4 ， li3 bai2 tao2 hong2 you4 yi4 fan1 。
 
 ## 注释
 

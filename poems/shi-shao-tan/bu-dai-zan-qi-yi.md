@@ -6,23 +6,25 @@ titleSlug: bu-dai-zan-qi-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 馱布袋，放癡憨。
-- 回頭一笑，捏怪千般。
-- 走徧長汀人不識，誑言彌勒示人間。
+- 臭布囊，有甚底。
+- 才倚靠，便瞌睡。
+- 不知何日下生，屈數尚餘一指。
+- 浣盆浣盆，我識得你。
 
 ## 拼音
 
-- tuo2 bu4 dai4 ， fang4 chi1 han1 。
-- hui2 tou2 yi2 xiao4 ， nie1 guai4 qian1 ban1 。
-- zou3 bian4 chang2 ting1 ren2 bu4 shi2 ， kuang2 yan2 mi2 le4 shi4 ren2 jian4 。
+- chou4 bu4 nang2 ， you3 shen4 di3 。
+- cai2 yi3 kao4 ， bian4 ke1 shui4 。
+- bu4 zhi1 he2 ri4 xia4 sheng1 ， qu1 shu4 shang4 yu2 yi4 zhi3 。
+- huan4 pen2 huan4 pen2 ， wo3 shi2 de2 ni3 。
 
 ## 注释
 

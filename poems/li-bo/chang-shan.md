@@ -6,10 +6,10 @@ titleSlug: chang-shan
 author: 李渤
 authorPinyin: li3 bo2
 authorSlug: li-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

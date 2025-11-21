@@ -6,10 +6,10 @@ titleSlug: song-xu-dian-yuan-qu-guo
 author: 程壯
 authorPinyin: cheng2 zhuang4
 authorSlug: cheng-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yue-ye-wu-chun-qing-su-yi-fu-xiang-guo-hui-yin-hu-wen-wu-gu-sui-tong-
 author: 張方平
 authorPinyin: zhang1 fang1 ping2
 authorSlug: zhang-fang-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

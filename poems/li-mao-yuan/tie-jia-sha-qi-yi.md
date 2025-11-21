@@ -6,10 +6,10 @@ titleSlug: tie-jia-sha-qi-yi
 author: 李懋遠
 authorPinyin: li3 mao4 yuan3
 authorSlug: li-mao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

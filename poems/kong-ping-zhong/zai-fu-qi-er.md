@@ -6,25 +6,25 @@ titleSlug: zai-fu-qi-er
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鬰鬰金舒柳，青青黛染槐。
-- 繁陰庭側柏，碎綠井中苔。
-- 雨漏蘆簷破，風薰草意回。
-- 陟釐題短句，自洗筆頭灰。
+- 起自然銅鼎，烹茶滴乳香。
+- 深冬灰正冷，新臘雪須當。
+- 我意空青眼，君才貫衆長。
+- 唱酬幾百合，衰白荷相忘。
 
 ## 拼音
 
-- yu4 yu4 jin1 shu1 liu3 ， qing1 qing1 dai4 ran3 huai2 。
-- fan2 yin1 ting2 ce4 bai3 ， sui4 lü4 jing3 zhong1 tai2 。
-- yu3 lou4 lu2 yan2 po4 ， feng1 xun1 cao3 yi4 hui2 。
-- zhi4 li2 ti2 duan3 ju4 ， zi4 xi3 bi3 tou2 hui1 。
+- qi3 zi4 ran2 tong2 ding3 ， peng1 cha2 di1 ru3 xiang1 。
+- shen1 dong1 hui1 zheng4 leng3 ， xin1 la4 xue3 xu1 dang1 。
+- wo3 yi4 kong1 qing1 yan3 ， jun1 cai2 guan4 zhong4 chang2 。
+- chang4 chou2 ji1 bai3 he2 ， shuai1 bai2 he2 xiang1 wang4 。
 
 ## 注释
 

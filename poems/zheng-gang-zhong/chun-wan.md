@@ -6,25 +6,21 @@ titleSlug: chun-wan
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒雞不飽亦知鳴，布被堆中又五更。
-- 喚此枕邉烟浪夢，雜然風外鼓鐘聲。
-- 花籠宿霧方衝濕，窗識朝陽已弄明。
-- 盥濯是身無始業，一爐香火向三清。
+- 東望故園天一涯，官身到處且爲家。
+- 六房吏散無留事，滿袖亂紅攜落花。
 
 ## 拼音
 
-- han2 ji1 bu4 bao3 yi4 zhi1 ming2 ， bu4 bei4 dui1 zhong1 you4 wu3 geng4 。
-- huan4 ci3 zhen3 bian1 yan1 lang4 meng4 ， za2 ran2 feng1 wai4 gu3 zhong1 sheng1 。
-- hua1 long2 su4 wu4 fang1 chong1 shi1 ， chuang1 shi2 chao2 yang2 yi3 nong4 ming2 。
-- guan4 zhuo2 shi4 shen1 wu2 shi3 ye4 ， yi4 lu2 xiang1 huo3 xiang4 san1 qing1 。
+- dong1 wang4 gu4 yuan2 tian1 yi4 ya2 ， guan1 shen1 dao4 chu3 qie3 wei2 jia1 。
+- liu4 fang2 li4 san4 wu2 liu2 shi4 ， man3 xiu4 luan4 hong2 xie2 luo4 hua1 。
 
 ## 注释
 

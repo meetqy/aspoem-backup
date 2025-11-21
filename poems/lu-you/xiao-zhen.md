@@ -6,21 +6,25 @@ titleSlug: xiao-zhen
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉枕鶯聲带夢聽，忽看淡日滿窗櫺。
-- 閑愁誰遣濃如酒，醉過殘春不解酲。
+- 殘漏鼕鼕急，明星磊磊高。
+- 一從安枕卧，無復攬衣勞。
+- 熨斗生晨火，熏籠覆緼袍。
+- 一杯山藥酒，紅日滿亭皋。
 
 ## 拼音
 
-- xiao3 zhen3 ying1 sheng1 dai4 meng4 ting1 ， hu1 kan4 dan4 ri4 man3 chuang1 ling2 。
-- xian2 chou2 shui2 qian3 nong2 ru2 jiu3 ， zui4 guo4 can2 chun1 bu4 jie3 cheng2 。
+- can2 lou4 dong1 dong1 ji2 ， ming2 xing1 lei3 lei3 gao1 。
+- yi4 cong2 an1 zhen3 wo4 ， wu2 fu4 lan3 yi1 lao2 。
+- yun4 dou3 sheng1 chen2 huo3 ， xun1 long2 fu4 yun4 pao2 。
+- yi4 bei1 shan1 yao4 jiu3 ， hong2 ri4 man3 ting2 gao1 。
 
 ## 注释
 

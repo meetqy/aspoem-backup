@@ -6,10 +6,10 @@ titleSlug: song-liu-dao-shi-zhi-shan-yin-yue-cang-shu-si-shou-qi-si
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

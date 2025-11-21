@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-di-ge-qi-si
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 再興炎祚撫華戎，成就南訛長養功。
-- 仁似薰風來不斷，壽如午景恰當中。
+- 三紀躋民壽域中，艾人桃印本何功。
+- 如今坐享無窮報，幾看龜巢蓮葉紅。
 
 ## 拼音
 
-- zai4 xing1 yan2 zuo4 fu3 hua2 rong2 ， cheng2 jiu4 nan2 e2 chang2 yang3 gong1 。
-- ren2 si4 xun1 feng1 lai2 bu2 duan4 ， shou4 ru2 wu3 jing3 qia4 dang1 zhong1 。
+- san1 ji4 ji1 min2 shou4 yu4 zhong1 ， ai4 ren2 tao2 yin4 ben3 he2 gong1 。
+- ru2 jin1 zuo4 xiang3 wu2 qiong2 bao4 ， ji1 kan4 gui1 chao2 lian2 ye4 hong2 。
 
 ## 注释
 

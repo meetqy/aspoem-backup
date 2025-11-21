@@ -6,25 +6,21 @@ titleSlug: li-chun-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 恰歸舊隠再逢春，村巷荒涼草沒人。
-- 犬壞園中門作竇，盜規墳上樹爲薪。
-- 官如巫祝難羞賤，家似樵漁敢諱貧。
-- 聞說鄰醅低價賣，病夫一滴未沾脣。
+- 絲切登盤菜，花垂插鬢幡。
+- 老人總無分，回施與諸孫。
 
 ## 拼音
 
-- qia4 gui1 jiu4 yin3 zai4 feng2 chun1 ， cun1 xiang4 huang1 liang2 cao3 mei2 ren2 。
-- quan3 huai4 yuan2 zhong1 men2 zuo4 dou4 ， dao4 gui1 fen2 shang4 shu4 wei2 xin1 。
-- guan1 ru2 wu1 zhu4 nan2 xiu1 jian4 ， jia1 si4 qiao2 yu2 gan3 hui4 pin2 。
-- wen2 shuo1 lin2 pei1 di1 jia4 mai4 ， bing4 fu1 yi4 di1 wei4 zhan1 chun2 。
+- si1 qie4 deng1 pan2 cai4 ， hua1 chui2 cha1 bin4 fan1 。
+- lao3 ren2 zong3 wu2 fen1 ， hui2 shi1 yu3 zhu1 sun1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jue-bi
 author: 謝緒
 authorPinyin: xie4 xu4
 authorSlug: xie-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

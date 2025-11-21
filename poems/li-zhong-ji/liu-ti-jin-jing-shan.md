@@ -6,10 +6,10 @@ titleSlug: liu-ti-jin-jing-shan
 author: 黎仲吉
 authorPinyin: li2 zhong4 ji2
 authorSlug: li-zhong-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

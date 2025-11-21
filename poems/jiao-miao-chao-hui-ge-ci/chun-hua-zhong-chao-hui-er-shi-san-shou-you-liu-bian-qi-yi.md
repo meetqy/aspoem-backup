@@ -6,25 +6,25 @@ titleSlug: chun-hua-zhong-chao-hui-er-shi-san-shou-you-liu-bian-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蕩蕩無私世，巍巍至聖君。
-- 山河分國寶，日月耀人文。
-- 厭浥凝甘露，輪囷吐慶雲。
-- 正聲兼大雅，洋溢應南薰。
+- 宣榭始觀兵，桓桓稱鼓行。
+- 一戎期大定，載纘議徂征。
+- 善政從師律，神功冀武成。
+- 勗哉勤誓衆，王業自經營。
 
 ## 拼音
 
-- dang4 dang4 wu2 si1 shi4 ， wei1 wei1 zhi4 sheng4 jun1 。
-- shan1 he2 fen1 guo2 bao3 ， ri4 yue4 yao4 ren2 wen2 。
-- yan4 yi4 ning2 gan1 lu4 ， lun2 qun1 tu3 qing4 yun2 。
-- zheng4 sheng1 jian1 da4 ya3 ， yang2 yi4 ying1 nan2 xun1 。
+- xuan1 xie4 shi3 guan1 bing1 ， huan2 huan2 cheng1 gu3 xing2 。
+- yi4 rong2 qi1 da4 ding4 ， zai4 zuan3 yi4 cu2 zheng1 。
+- shan4 zheng4 cong2 shi1 lü4 ， shen2 gong1 ji4 wu3 cheng2 。
+- xu4 zai1 qin2 shi4 zhong4 ， wang2 ye4 zi4 jing1 ying2 。
 
 ## 注释
 

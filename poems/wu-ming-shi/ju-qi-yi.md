@@ -6,19 +6,19 @@ titleSlug: ju-qi-yi
 author: 無名氏
 authorPinyin: wu2 ming2 shi4
 authorSlug: wu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 憲州渾如枉死市，岢嵐彷彿似陽間。
+- 一色樓臺三十里，不知何處覓孤山。
 
 ## 拼音
 
-- xian4 zhou1 hun2 ru2 wang3 si3 shi4 ， ke3 lan2 pang2 fu2 si4 yang2 jian4 。
+- yi2 se4 lou2 tai2 san1 shi2 li3 ， bu4 zhi1 he2 chu3 mi4 gu1 shan1 。
 
 ## 注释
 

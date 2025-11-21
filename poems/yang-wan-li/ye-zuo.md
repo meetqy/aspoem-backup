@@ -6,25 +6,25 @@ titleSlug: ye-zuo
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲雪天還惜，不風寒自生。
-- 燈摇無定影，火作始然聲。
-- 又遣庭闈訊，懸知骨肉情。
-- 履端猶幾日，有夢未歸程。
+- 夜永留清坐，詩臞稱病容。
+- 溪鳴風處竹，月濕露中松。
+- 喜事何曾夢，燈花誑殺儂。
+- 欲歸歸已得，歸得却無悰。
 
 ## 拼音
 
-- yu4 xue3 tian1 huan2 xi1 ， bu4 feng1 han2 zi4 sheng1 。
-- deng1 yao2 wu2 ding4 ying3 ， huo3 zuo4 shi3 ran2 sheng1 。
-- you4 qian3 ting2 wei2 xun4 ， xuan2 zhi1 gu3 rou4 qing2 。
-- lü3 duan1 you2 ji1 ri4 ， you3 meng4 wei4 gui1 cheng2 。
+- ye4 yong3 liu2 qing1 zuo4 ， shi1 qu2 cheng1 bing4 rong2 。
+- xi1 ming2 feng1 chu3 zhu2 ， yue4 shi1 lu4 zhong1 song1 。
+- xi3 shi4 he2 ceng2 meng4 ， deng1 hua1 kuang2 sha1 nong2 。
+- yu4 gui1 gui1 yi3 de2 ， gui1 de2 que4 wu2 cong2 。
 
 ## 注释
 

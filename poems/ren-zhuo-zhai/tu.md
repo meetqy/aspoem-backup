@@ -6,10 +6,10 @@ titleSlug: tu
 author: 任拙齋
 authorPinyin: ren4 zhuo1 zhai1
 authorSlug: ren-zhuo-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

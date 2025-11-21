@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-zhai-gong-xun-xing-xing-mao-bi
 author: 何去非
 authorPinyin: he2 qu4 fei1
 authorSlug: he-qu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

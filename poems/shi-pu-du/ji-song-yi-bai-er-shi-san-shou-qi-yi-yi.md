@@ -1,30 +1,28 @@
 ---
 id: shi-pu-du-ji-song-yi-bai-er-shi-san-shou-qi-yi-yi
-title: 偈頌一百二十三首  其一一
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 yi1
+title: 偈頌一百二十三首  其一一○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 yi1 ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-yi
 author: 釋普度
 authorPinyin: shi4 pu3 du4
 authorSlug: shi-pu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 破沙盆，沒巴鼻，盡大地人扶持不起。
-- 玉山路上，荆棘參天。
-- 鍾阜山前，清風匝地。
-- 擘破寶公面皮，德雲無處回避。
+- 天無四壁，大地爲爐。
+- 籬頭吹觱栗，寒鴈一聲孤。
+- 老胡若不渡江去，至今火種一星無。
 
 ## 拼音
 
-- po4 sha1 pen2 ， mei2 ba1 bi2 ， jin4 da4 di4 ren2 fu2 chi2 bu4 qi3 。
-- yu4 shan1 lu4 shang0 ， jing1 ji2 can1 tian1 。
-- zhong1 fu4 shan1 qian2 ， qing1 feng1 za1 di4 。
-- bo4 po4 bao3 gong1 mian4 pi2 ， de2 yun2 wu2 chu3 hui2 bi4 。
+- tian1 wu2 si4 bi4 ， da4 di4 wei2 lu2 。
+- li2 tou2 chui1 bi4 li4 ， han2 yan4 yi4 sheng1 gu1 。
+- lao3 hu2 ruo4 bu2 du4 jiang1 qu4 ， zhi4 jin1 huo3 zhong3 yi4 xing1 wu2 。
 
 ## 注释
 

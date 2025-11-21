@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 憑君子後午前看，一脈天津在脊端。
-- 金闕內藏玄谷子，玉池中坐太和官。
-- 只將至妙三周火，鍊出通靈九轉丹。
-- 直指幾多求道者，行藏莫離虎龍灘。
+- 靈芝無種亦無根，解飲能餐自返魂。
+- 但得煙霞供歲月，任他烏兔走乾坤。
+- 嬰兒只戀陽中母，姹女須朝頂上尊。
+- 一得不回千古內，更無塚墓示兒孫。
 
 ## 拼音
 
-- ping2 jun1 zi3 hou4 wu3 qian2 kan4 ， yi2 mai4 tian1 jin1 zai4 ji3 duan1 。
-- jin1 que4 nei4 cang2 xuan2 gu3 zi0 ， yu4 chi2 zhong1 zuo4 tai4 he2 guan1 。
-- zhi1 jiang1 zhi4 miao4 san1 zhou1 huo3 ， lian4 chu1 tong1 ling2 jiu3 zhuan3 dan1 。
-- zhi2 zhi3 ji1 duo1 qiu2 dao4 zhe3 ， xing2 cang2 mo4 li2 hu3 long2 tan1 。
+- ling2 zhi1 wu2 zhong3 yi4 wu2 gen1 ， jie3 yin3 neng2 can1 zi4 fan3 hun2 。
+- dan4 de2 yan1 xia2 gong4 sui4 yue4 ， ren4 ta1 wu1 tu4 zou3 qian2 kun1 。
+- ying1 er2 zhi1 lian4 yang2 zhong1 mu3 ， cha4 nü3 xu1 chao2 ding3 shang4 zun1 。
+- yi4 de2 bu4 hui2 qian1 gu3 nei4 ， geng4 wu2 zhong3 mu4 shi4 er2 sun1 。
 
 ## 注释
 

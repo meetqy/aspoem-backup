@@ -6,9 +6,9 @@ titleSlug: ti-bi
 author: 南陽驛婦人
 authorPinyin: nan2 yang2 yi4 fu4 ren2
 authorSlug: nan-yang-yi-fu-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

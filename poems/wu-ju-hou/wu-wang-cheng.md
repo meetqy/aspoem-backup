@@ -6,10 +6,10 @@ titleSlug: wu-wang-cheng
 author: 吳居厚
 authorPinyin: wu2 ju1 hou4
 authorSlug: wu-ju-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: dong-ri-yu-bao-hui-jiao-si
 author: 范端臣
 authorPinyin: fan4 duan1 chen2
 authorSlug: fan-duan-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

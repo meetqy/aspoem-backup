@@ -6,10 +6,10 @@ titleSlug: ren-xu-sui-gui-zhi-xi-cun-ju-feng-da-ci-dao-jian-ji-chang-ju
 author: 呂南公
 authorPinyin: lü3 nan2 gong1
 authorSlug: lu-nan-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

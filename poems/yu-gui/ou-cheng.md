@@ -6,21 +6,21 @@ titleSlug: ou-cheng
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 短髮蕭蕭滿鏡秋，家居但覺歲時流。
-- 兩年不見西湖面，笑我寒盟是白鷗。
+- 吹來一葉報秋知，玉露金風正及時。
+- 戴了凉巾披野服，桂花香裏看唐詩。
 
 ## 拼音
 
-- duan3 fa4 xiao1 xiao1 man3 jing4 qiu1 ， jia1 ju1 dan4 jue2 sui4 shi2 liu2 。
-- liang3 nian2 bu2 jian4 xi1 hu2 mian4 ， xiao4 wo3 han2 meng2 shi4 bai2 ou1 。
+- chui1 lai2 yi2 ye4 bao4 qiu1 zhi1 ， yu4 lu4 jin1 feng1 zheng4 ji2 shi2 。
+- dai4 le0 liang2 jin1 pi1 ye3 fu2 ， gui4 hua1 xiang1 li3 kan4 tang2 shi1 。
 
 ## 注释
 

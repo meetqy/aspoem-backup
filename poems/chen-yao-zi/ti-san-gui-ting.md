@@ -6,10 +6,10 @@ titleSlug: ti-san-gui-ting
 author: 陳堯咨
 authorPinyin: chen2 yao2 zi1
 authorSlug: chen-yao-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

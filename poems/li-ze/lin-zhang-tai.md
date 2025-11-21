@@ -6,9 +6,9 @@ titleSlug: lin-zhang-tai
 author: 李則
 authorPinyin: li3 ze2
 authorSlug: li-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

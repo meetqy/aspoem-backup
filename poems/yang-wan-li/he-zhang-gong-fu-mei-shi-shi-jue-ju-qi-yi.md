@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-he-zhang-gong-fu-mei-shi-shi-jue-ju-qi-yi
-title: 和張功父梅詩十絕句  其一
-titlePinyin: he2 zhang1 gong1 fu4 mei2 shi1 shi2 jue2 ju4     qi2 yi1
+title: 和張功父梅詩十絕句  其一○
+titlePinyin: he2 zhang1 gong1 fu4 mei2 shi1 shi2 jue2 ju4     qi2 yi1 ○
 titleSlug: he-zhang-gong-fu-mei-shi-shi-jue-ju-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今歲柴車總未巾，孤山龍井不曾行。
-- 老無半點看花意，遮莫明朝雨及晴。
+- 老子年來不願餘，祇慚霜鬢入金鋪。
+- 故山自有梅千樹，夢繞橫枝撚斷鬚。
 
 ## 拼音
 
-- jin1 sui4 chai2 ju1 zong3 wei4 jin1 ， gu1 shan1 long2 jing3 bu4 ceng2 xing2 。
-- lao3 wu2 ban4 dian3 kan4 hua1 yi4 ， zhe1 mo4 ming2 chao2 yu3 ji2 qing2 。
+- lao3 zi3 nian2 lai2 bu2 yuan4 yu2 ， qi2 can2 shuang1 bin4 ru4 jin1 pu1 。
+- gu4 shan1 zi4 you3 mei2 qian1 shu4 ， meng4 rao4 heng2 zhi1 nian3 duan4 xu1 。
 
 ## 注释
 

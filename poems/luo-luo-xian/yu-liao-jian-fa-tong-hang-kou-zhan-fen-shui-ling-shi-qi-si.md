@@ -6,10 +6,10 @@ titleSlug: yu-liao-jian-fa-tong-hang-kou-zhan-fen-shui-ling-shi-qi-si
 author: 駱羅憲
 authorPinyin: luo4 luo2 xian4
 authorSlug: luo-luo-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: xiang-shan
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 採香徑裏木蘭舟，嚼蕊吹芳爛熳遊。
-- 落日青山都好在，桑間蕎麥滿芳洲。
+- 抖擻軒裳一鬨塵，任教空翠滴烏巾。
+- 老身已到籃輿上，處處青山是故人。
 
 ## 拼音
 
-- cai3 xiang1 jing4 li3 mu4 lan2 zhou1 ， jiao2 rui3 chui1 fang1 lan4 man4 you2 。
-- luo4 ri4 qing1 shan1 dou1 hao3 zai4 ， sang1 jian4 qiao2 mai4 man3 fang1 zhou1 。
+- dou3 sou4 xuan1 shang0 yi2 hong4 chen2 ， ren4 jiao4 kong1 cui4 di1 wu1 jin1 。
+- lao3 shen1 yi3 dao4 lan2 yu2 shang4 ， chu3 chu3 qing1 shan1 shi4 gu4 ren2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shu-gu-san-si-fu-shi-chen-gong-shi-zhou-hou
 author: 任希夷
 authorPinyin: ren4 xi1 yi2
 authorSlug: ren-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: er-shi-si-ri-jiang-lin-ji-yao-guan-san-guan-shu-hua-lu-qi-suo-jian
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

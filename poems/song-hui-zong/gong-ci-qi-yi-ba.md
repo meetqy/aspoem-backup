@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 承平皇族益繁昌，雁序天倫令德彰。
-- 此意綿長敦友愛，時時别殿宴親王。
+- 龍德營修已慶成，秘扃齋潔奉三清。
+- 餘田增輯成嘉致，千百樓臺紺瓦明。
 
 ## 拼音
 
-- cheng2 ping2 huang2 zu2 yi4 fan2 chang1 ， yan4 xu4 tian1 lun2 ling4 de2 zhang1 。
-- ci3 yi4 mian2 chang2 dun1 you3 ai4 ， shi2 shi2 bie2 dian4 yan4 qin1 wang2 。
+- long2 de2 ying2 xiu1 yi3 qing4 cheng2 ， mi4 jiong1 zhai1 jie2 feng4 san1 qing1 。
+- yu2 tian2 zeng1 ji2 cheng2 jia1 zhi4 ， qian1 bai3 lou2 tai2 gan4 wa3 ming2 。
 
 ## 注释
 

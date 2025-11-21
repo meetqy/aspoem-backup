@@ -6,29 +6,25 @@ titleSlug: shu-kuang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 垂白渭南叟，深居湖上村。
-- 貧知蔬食美，閑覺布衣尊。
-- 琴譜從僧借，茶經與客論。
-- 探梅來直步，沽酒到偏門。
-- 細織籠安鶴，頻求果飼猿。
-- 舊書編未絕，猶足教諸孫。
+- 自從請老鏡湖濱，萬事不關林下人。
+- 鴉去鴉歸還過日，花開花落又經春。
+- 官微也過千重浪，身在依然一幅巾。
+- 晨突有烟吾事了，濁醪不復惱比鄰。
 
 ## 拼音
 
-- chui2 bai2 wei4 nan2 sou3 ， shen1 ju1 hu2 shang4 cun1 。
-- pin2 zhi1 shu1 shi2 mei3 ， xian2 jue2 bu4 yi1 zun1 。
-- qin2 pu3 cong2 seng1 jie4 ， cha2 jing1 yu3 ke4 lun4 。
-- tan4 mei2 lai2 zhi2 bu4 ， gu1 jiu3 dao4 pian1 men2 。
-- xi4 zhi1 long2 an1 he4 ， bin1 qiu2 guo3 si4 yuan2 。
-- jiu4 shu1 bian1 wei4 jue2 ， you2 zu2 jiao4 zhu1 sun1 。
+- zi4 cong2 qing3 lao3 jing4 hu2 bin1 ， wan4 shi4 bu4 guan1 lin2 xia4 ren2 。
+- ya1 qu4 ya1 gui1 huan2 guo4 ri4 ， hua1 kai1 hua1 luo4 you4 jing1 chun1 。
+- guan1 wei1 ye3 guo4 qian1 chong2 lang4 ， shen1 zai4 yi1 ran2 yi4 fu2 jin1 。
+- chen2 tu1 you3 yan1 wu2 shi4 le0 ， zhuo2 lao2 bu2 fu4 nao3 bi3 lin2 。
 
 ## 注释
 

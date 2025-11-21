@@ -6,25 +6,25 @@ titleSlug: cun-ju
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 富貴功名不擬論，且浮舴艋寄烟村。
-- 生憎快馬隨鞭影，寜作癡人記劍痕。
-- 樵牧相諳欲爭席，比鄰漸熟約論婚。
-- 晨舂夜績吾家舊，正要遺風付子孫。
+- 人笑無才自笑狂，槿籬竹塢得深藏。
+- 自從病後辜風月，未免愁中讀老莊。
+- 行圃數畦秋菜長，泛溪十里晚荷香。
+- 叢書坐懶無由續，且補忠州手錄方。
 
 ## 拼音
 
-- fu4 gui4 gong1 ming2 bu4 ni3 lun4 ， qie3 fu2 ze2 meng3 ji4 yan1 cun1 。
-- sheng1 zeng1 kuai4 ma3 sui2 bian1 ying3 ， ning2 zuo4 chi1 ren2 ji4 jian4 hen2 。
-- qiao2 mu4 xiang1 an1 yu4 zheng1 xi2 ， bi3 lin2 jian4 shu2 yue1 lun4 hun1 。
-- chen2 chong1 ye4 ji4 wu2 jia1 jiu4 ， zheng4 yao4 yi2 feng1 fu4 zi3 sun1 。
+- ren2 xiao4 wu2 cai2 zi4 xiao4 kuang2 ， jin3 li2 zhu2 wu4 de2 shen1 cang2 。
+- zi4 cong2 bing4 hou4 gu1 feng1 yue4 ， wei4 mian3 chou2 zhong1 du2 lao3 zhuang1 。
+- xing2 pu3 shu4 qi2 qiu1 cai4 chang2 ， fan4 xi1 shi2 li3 wan3 he2 xiang1 。
+- cong2 shu1 zuo4 lan3 wu2 you2 xu4 ， qie3 bu3 zhong1 zhou1 shou3 lu4 fang1 。
 
 ## 注释
 

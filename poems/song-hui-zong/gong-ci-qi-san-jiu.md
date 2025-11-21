@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 皇家詵偉固藩垣，濮邸尤爲席慶源。
-- 八寶霈恩陞殿服，朝班榮盛子孫繁。
+- 今歲閩中别貢茶，翔龍萬壽占春芽。
+- 初開寶篋新香滿，分賜師垣政府家。
 
 ## 拼音
 
-- huang2 jia1 shen1 wei3 gu4 fan1 yuan2 ， pu2 di3 you2 wei2 xi2 qing4 yuan2 。
-- ba1 bao3 pei4 en1 sheng1 dian4 fu2 ， chao2 ban1 rong2 sheng4 zi3 sun1 fan2 。
+- jin1 sui4 min3 zhong1 bie2 gong4 cha2 ， xiang2 long2 wan4 shou4 zhan4 chun1 ya2 。
+- chu1 kai1 bao3 qie4 xin1 xiang1 man3 ， fen1 ci4 shi1 yuan2 zheng4 fu3 jia1 。
 
 ## 注释
 

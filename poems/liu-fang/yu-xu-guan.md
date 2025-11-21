@@ -6,10 +6,10 @@ titleSlug: yu-xu-guan
 author: 劉方
 authorPinyin: liu2 fang1
 authorSlug: liu-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

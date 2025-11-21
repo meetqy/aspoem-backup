@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-hou-ge-qi-liu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清曉宮中獻綵絲，盤龍結鳳鬭新奇。
-- 欲教嬪御知勤儉，閒說當年繭館儀。
+- 粉團菰黍族金盤，仙朮昌陽灧玉樽。
+- 小小角弓誇射中，兩宮歡燕似開元。
 
 ## 拼音
 
-- qing1 xiao3 gong1 zhong1 xian4 cai3 si1 ， pan2 long2 jie2 feng4 dou4 xin1 qi2 。
-- yu4 jiao4 pin2 yu4 zhi1 qin2 jian3 ， xian2 shuo1 dang1 nian2 jian3 guan3 yi2 。
+- fen3 tuan2 gu1 shu3 zu2 jin1 pan2 ， xian1 zhu2 chang1 yang2 yan4 yu4 zun1 。
+- xiao3 xiao3 jiao3 gong1 kua1 she4 zhong4 ， liang3 gong1 huan1 yan4 si4 kai1 yuan2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: diao-yu-ji
 author: 倪德元
 authorPinyin: ni2 de2 yuan2
 authorSlug: ni-de-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

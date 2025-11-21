@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-chu-zhen-yang-xia-shi-shou-qi-yi
-title: 出真陽峽十首  其一
-titlePinyin: chu1 zhen1 yang2 xia2 shi2 shou3     qi2 yi1
+title: 出真陽峽十首  其一○
+titlePinyin: chu1 zhen1 yang2 xia2 shi2 shou3     qi2 yi1 ○
 titleSlug: chu-zhen-yang-xia-shi-shou-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 過盡危磯出小潭，回頭失却石峰巉。
-- 春寒料峭元無事，知我猶藏一布衫。
+- 未必陽山天下窮，英州窮到骨中空。
+- 郡官只怨無供給，支與真陽數石峰。
 
 ## 拼音
 
-- guo4 jin4 wei1 ji1 chu1 xiao3 tan2 ， hui2 tou2 shi1 que4 shi2 feng1 chan2 。
-- chun1 han2 liao4 qiao4 yuan2 wu2 shi4 ， zhi1 wo3 you2 cang2 yi2 bu4 shan1 。
+- wei4 bi4 yang2 shan1 tian1 xia4 qiong2 ， ying1 zhou1 qiong2 dao4 gu3 zhong1 kong1 。
+- jun4 guan1 zhi1 yuan4 wu2 gong4 gei3 ， zhi1 yu3 zhen1 yang2 shu4 shi2 feng1 。
 
 ## 注释
 

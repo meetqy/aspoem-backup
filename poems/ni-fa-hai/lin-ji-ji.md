@@ -6,10 +6,10 @@ titleSlug: lin-ji-ji
 author: 尼法海
 authorPinyin: ni2 fa3 hai3
 authorSlug: ni-fa-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

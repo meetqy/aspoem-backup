@@ -6,25 +6,25 @@ titleSlug: shan-ju-dong-ri
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嬾隨冬日柳，獨許歲寒松。
-- 無復芳菲意，深棲雲外峰。
-- 病身寒易縮，老衲澀難縫。
-- 却喜同懷者，時來問隠蹤。
+- 白水青山不礙禪，登高臨遠意翛然。
+- 老梅卧雪香逾遠，瘦柏凌霜骨更堅。
+- 四海交遊多契闊，一生陶寫頼詩篇。
+- 人間萬事俱拋棄，自此閒居又幾年。
 
 ## 拼音
 
-- lan3 sui2 dong1 ri4 liu3 ， du2 xu1 sui4 han2 song1 。
-- wu2 fu4 fang1 fei1 yi4 ， shen1 qi1 yun2 wai4 feng1 。
-- bing4 shen1 han2 yi4 suo1 ， lao3 na4 se4 nan2 feng2 。
-- que4 xi3 tong2 huai2 zhe3 ， shi2 lai2 wen4 yin3 zong1 。
+- bai2 shui3 qing1 shan1 bu2 ai4 shan4 ， deng1 gao1 lin2 yuan3 yi4 xiao1 ran2 。
+- lao3 mei2 wo4 xue3 xiang1 yu2 yuan3 ， shou4 bai3 ling2 shuang1 gu3 geng4 jian1 。
+- si4 hai3 jiao1 you2 duo1 qi4 kuo4 ， yi4 sheng1 tao2 xie3 lai4 shi1 pian1 。
+- ren2 jian4 wan4 shi4 ju4 pao1 qi4 ， zi4 ci3 xian2 ju1 you4 ji1 nian2 。
 
 ## 注释
 

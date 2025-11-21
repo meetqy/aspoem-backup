@@ -6,10 +6,10 @@ titleSlug: ju
 author: 章清
 authorPinyin: zhang1 qing1
 authorSlug: zhang-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-ju-he-tai-bai-shui-xi-yun
 author: 管向
 authorPinyin: guan3 xiang4
 authorSlug: guan-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

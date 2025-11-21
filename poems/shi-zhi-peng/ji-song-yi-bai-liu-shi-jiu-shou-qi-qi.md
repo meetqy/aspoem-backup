@@ -1,30 +1,28 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-qi
-title: 偈頌一百六十九首  其七
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 qi1
+title: 偈頌一百六十九首  其七○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-qi
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卒風暴雨，鼓蕩無前。
-- 石裂崖崩，回避不及。
-- 總教喪盡生涯，方見時清道泰。
-- 功不浪施。
+- 一冬晴暖，梅花盡開。
+- 林下道人，折得一蓓兩蓓。
+- 但見清香可愛，不知結調羹子未得，猶有雪在。
 
 ## 拼音
 
-- zu2 feng1 bao4 yu3 ， gu3 dang4 wu2 qian2 。
-- shi2 lie4 ya2 beng1 ， hui2 bi4 bu4 ji2 。
-- zong3 jiao4 sang1 jin4 sheng1 ya2 ， fang1 jian4 shi2 qing1 dao4 tai4 。
-- gong1 bu2 lang4 shi1 。
+- yi4 dong1 qing2 nuan3 ， mei2 hua1 jin4 kai1 。
+- lin2 xia4 dao4 ren2 ， zhe2 de2 yi2 bei4 liang3 bei4 。
+- dan4 jian4 qing1 xiang1 ke3 ai4 ， bu4 zhi1 jie2 diao4 geng1 zi3 wei4 de2 ， you2 you3 xue3 zai4 。
 
 ## 注释
 

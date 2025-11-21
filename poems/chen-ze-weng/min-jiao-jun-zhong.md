@@ -6,10 +6,10 @@ titleSlug: min-jiao-jun-zhong
 author: 陳則翁
 authorPinyin: chen2 ze2 weng1
 authorSlug: chen-ze-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

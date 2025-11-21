@@ -3,22 +3,22 @@ id: liu-bian-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 劉邊
-authorPinyin: liu2 bian1
+author: 劉卞
+authorPinyin: liu2 bian4
 authorSlug: liu-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 耕鋤曉雨有餘地，應接東風無暇時。
+- 木圍三寺影，川合兩江波。
 
 ## 拼音
 
-- geng1 chu2 xiao3 yu3 you3 yu2 di4 ， ying1 jie1 dong1 feng1 wu2 xia2 shi2 。
+- mu4 wei2 san1 si4 ying3 ， chuan1 he2 liang3 jiang1 bo1 。
 
 ## 注释
 

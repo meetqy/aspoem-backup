@@ -6,10 +6,10 @@ titleSlug: ci-jun-tai-shou-liu-shuo-zhai-qiu-wan-ye-xie-tiao-ting-xiao-yin-san-s
 author: 程炎子
 authorPinyin: cheng2 yan2 zi3
 authorSlug: cheng-yan-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

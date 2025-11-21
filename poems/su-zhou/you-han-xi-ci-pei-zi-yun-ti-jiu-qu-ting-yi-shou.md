@@ -6,9 +6,9 @@ titleSlug: you-han-xi-ci-pei-zi-yun-ti-jiu-qu-ting-yi-shou
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

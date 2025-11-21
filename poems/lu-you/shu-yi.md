@@ -6,25 +6,25 @@ titleSlug: shu-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一鳴輒斥不鳴烹，禍福元知未易評。
-- 湖海凄涼身跌宕，杯觴豪舉筆縱横。
-- 敢希二頃成高臥，但願諸公致太平。
-- 波暖龍舟泝清汴，道邊扶杖眼猶明。
+- 養得山林氣粗全，此懷無處不超然。
+- 日長琴弈茆簷下，歲晚江湖箬帽前。
+- 天上本令星主酒，俗間妄謂世無仙。
+- 今年茶比常年早，笑試西峰一掬泉。
 
 ## 拼音
 
-- yi4 ming2 zhe2 chi4 bu4 ming2 peng1 ， huo4 fu2 yuan2 zhi1 wei4 yi4 ping2 。
-- hu2 hai3 qi1 liang2 shen1 die1 dang4 ， bei1 shang1 hao2 ju3 bi3 zong4 heng2 。
-- gan3 xi1 er4 qing3 cheng2 gao1 wo4 ， dan4 yuan4 zhu1 gong1 zhi4 tai4 ping2 。
-- bo1 nuan3 long2 zhou1 su4 qing1 bian4 ， dao4 bian1 fu2 zhang4 yan3 you2 ming2 。
+- yang3 de2 shan1 lin2 qi4 cu1 quan2 ， ci3 huai2 wu2 chu3 bu4 chao1 ran2 。
+- ri4 chang2 qin2 yi4 mao2 yan2 xia4 ， sui4 wan3 jiang1 hu2 ruo4 mao4 qian2 。
+- tian1 shang4 ben3 ling4 xing1 zhu3 jiu3 ， su2 jian4 wang4 wei4 shi4 wu2 xian1 。
+- jin1 nian2 cha2 bi3 chang2 nian2 zao3 ， xiao4 shi4 xi1 feng1 yi4 ju1 quan2 。
 
 ## 注释
 

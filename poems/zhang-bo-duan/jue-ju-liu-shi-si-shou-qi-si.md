@@ -1,26 +1,26 @@
 ---
 id: zhang-bo-duan-jue-ju-liu-shi-si-shou-qi-si
-title: 絕句六十四首  其四
-titlePinyin: jue2 ju4 liu4 shi2 si4 shou3     qi2 si4
+title: 絕句六十四首  其四○
+titlePinyin: jue2 ju4 liu4 shi2 si4 shou3     qi2 si4 ○
 titleSlug: jue-ju-liu-shi-si-shou-qi-si
 author: 張伯端
 authorPinyin: zhang1 bo2 duan1
 authorSlug: zhang-bo-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 偃月鑪中玉蕊生，朱砂鼎內水銀平。
-- 只因火力調和後，種得黄芽漸長成。
+- 異名同出少人知，兩者玄玄是要機。
+- 保命全形明損益，紫金丹藥最靈奇。
 
 ## 拼音
 
-- yan3 yue4 lu2 zhong1 yu4 rui3 sheng1 ， zhu1 sha1 ding3 nei4 shui3 yin2 ping2 。
-- zhi3 yin1 huo3 li4 diao4 he2 hou4 ， zhong3 de2 huang2 ya2 jian4 chang2 cheng2 。
+- yi4 ming2 tong2 chu1 shao3 ren2 zhi1 ， liang3 zhe3 xuan2 xuan2 shi4 yao4 ji1 。
+- bao3 ming4 quan2 xing2 ming2 sun3 yi4 ， zi3 jin1 dan1 yao4 zui4 ling2 qi2 。
 
 ## 注释
 

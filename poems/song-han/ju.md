@@ -6,9 +6,9 @@ titleSlug: ju
 author: 宋翰
 authorPinyin: song4 han4
 authorSlug: song-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

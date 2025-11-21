@@ -6,9 +6,9 @@ titleSlug: deng-ci-en-ta
 author: 范智聞
 authorPinyin: fan4 zhi4 wen2
 authorSlug: fan-zhi-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

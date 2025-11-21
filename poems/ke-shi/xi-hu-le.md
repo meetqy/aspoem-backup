@@ -6,10 +6,10 @@ titleSlug: xi-hu-le
 author: 柯氏
 authorPinyin: ke1 shi4
 authorSlug: ke-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

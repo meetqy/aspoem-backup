@@ -6,10 +6,10 @@ titleSlug: ji-mao-chu-shi-zhi-zhi
 author: 鄭少連
 authorPinyin: zheng4 shao3 lian2
 authorSlug: zheng-shao-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: guang-ning-qiao-huai-han-you-gong
 author: 朱襲封
 authorPinyin: zhu1 xi2 feng1
 authorSlug: zhu-xi-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

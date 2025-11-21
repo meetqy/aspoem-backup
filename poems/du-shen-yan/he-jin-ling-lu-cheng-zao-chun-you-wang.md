@@ -6,10 +6,10 @@ titleSlug: he-jin-ling-lu-cheng-zao-chun-you-wang
 author: 杜審言
 authorPinyin: du4 shen3 yan2
 authorSlug: du-shen-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

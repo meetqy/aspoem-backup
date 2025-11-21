@@ -6,10 +6,10 @@ titleSlug: chen-qi-wen-xu-ying-qing-song-ji-yi-shi-zuo-shi-ji-ji-yi-jian-jian-go
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

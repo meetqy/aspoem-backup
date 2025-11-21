@@ -6,9 +6,9 @@ titleSlug: cun-mu
 author: 沈昭遠
 authorPinyin: shen3 zhao1 yuan3
 authorSlug: shen-zhao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

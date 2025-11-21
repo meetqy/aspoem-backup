@@ -1,7 +1,7 @@
 ---
 id: bai-ju-yi-ou-yin
-title: 偶飲
-titlePinyin: ou3 yin3
+title: 偶吟
+titlePinyin: ou3 yin2
 titleSlug: ou-yin
 author: 白居易
 authorPinyin: bai2 ju1 yi4
@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 三盞醺醺四體融，妓亭簷下夕陽中。
-- 千聲方響敲相續，一曲【雲】和戛未終。
-- 今日心情如往日，秋風氣味似春風。
-- 唯憎小吏樽前報，道去衙時水五筒。
+- 人生變改故無窮，昔是朝官今野翁。
+- 久寄形於朱紫內，漸抽身入蕙荷中。
+- 無情水任方圓器，不繫舟隨去住風。
+- 猶有鱸魚蓴菜興，來春或擬往江東。
 
 ## 拼音
 
-- san1 zhan3 xun1 xun1 si4 ti3 rong2 ， ji4 ting2 yan2 xia4 xi1 yang2 zhong1 。
-- qian1 sheng1 fang1 xiang3 qiao1 xiang1 xu4 ， yi4 qu3 【 yun2 】 he2 jia2 wei4 zhong1 。
-- jin1 ri4 xin1 qing2 ru2 wang3 ri4 ， qiu1 feng1 qi4 wei4 si4 chun1 feng1 。
-- wei2 zeng1 xiao3 li4 zun1 qian2 bao4 ， dao4 qu4 ya2 shi2 shui3 wu3 tong3 。
+- ren2 sheng1 bian4 gai3 gu4 wu2 qiong2 ， xi1 shi4 chao2 guan1 jin1 ye3 weng1 。
+- jiu3 ji4 xing2 wu1 zhu1 zi3 nei4 ， jian4 chou1 shen1 ru4 hui4 he2 zhong1 。
+- wu2 qing2 shui3 ren4 fang1 yuan2 qi4 ， bu2 xi4 zhou1 sui2 qu4 zhu4 feng1 。
+- you2 you3 lu2 yu2 chun2 cai4 xing1 ， lai2 chun1 huo4 ni3 wang3 jiang1 dong1 。
 
 ## 注释
 

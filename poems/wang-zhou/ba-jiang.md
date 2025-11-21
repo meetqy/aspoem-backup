@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 巴江江水色，一带濃藍碧。
-- 仙女瑟瑟衣，風梭晚来織。
+- 巴江江水色，一帶濃藍碧。
+- 仙女瑟瑟衣，風梭晚來織。
 
 ## 拼音
 

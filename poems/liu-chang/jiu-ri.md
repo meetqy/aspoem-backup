@@ -6,25 +6,25 @@ titleSlug: jiu-ri
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜薄氣早寒，木落景已變。
-- 佳晨事厭勝，習俗推往彦。
-- 憂來初無方，興盡復自遣。
-- 所遇無故物，登臨殊非願。
+- 采采黄花菊，飄飄閶闔風。
+- 醉從紗帽落，興與古人同。
+- 北岳烽烟隔，甘泉侯騎通。
+- 悲歌傷遠目，不獨爲青楓。
 
 ## 拼音
 
-- shuang1 bao2 qi4 zao3 han2 ， mu4 luo4 jing3 yi3 bian4 。
-- jia1 chen2 shi4 yan4 sheng4 ， xi2 su2 tui1 wang3 yan4 。
-- you1 lai2 chu1 wu2 fang1 ， xing1 jin4 fu4 zi4 qian3 。
-- suo3 yu4 wu2 gu4 wu4 ， deng1 lin2 shu1 fei1 yuan4 。
+- cai3 cai3 huang2 hua1 ju2 ， piao1 piao1 chang1 he2 feng1 。
+- zui4 cong2 sha1 mao4 luo4 ， xing1 yu3 gu3 ren2 tong2 。
+- bei3 yue4 feng1 yan1 ge2 ， gan1 quan2 hou2 qi2 tong1 。
+- bei1 ge1 shang1 yuan3 mu4 ， bu4 du2 wei2 qing1 feng1 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-lang-zhou-dong-yuan-shi-yong-yao-lan
-title: 閬州東園十詠・藥欄
-titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3・yao4 lan2
+title: 閬州東園十詠 藥欄
+titlePinyin: lang4 zhou1 dong1 yuan2 shi2 yong3   yao4 lan2
 titleSlug: lang-zhou-dong-yuan-shi-yong-yao-lan
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

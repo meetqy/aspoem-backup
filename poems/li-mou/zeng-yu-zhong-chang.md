@@ -6,10 +6,10 @@ titleSlug: zeng-yu-zhong-chang
 author: 李某
 authorPinyin: li3 mou3
 authorSlug: li-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

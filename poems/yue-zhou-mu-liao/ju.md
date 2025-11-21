@@ -6,10 +6,10 @@ titleSlug: ju
 author: 越州幕僚
 authorPinyin: yue4 zhou1 mu4 liao2
 authorSlug: yue-zhou-mu-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

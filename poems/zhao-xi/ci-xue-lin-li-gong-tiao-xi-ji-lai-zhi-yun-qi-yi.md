@@ -6,10 +6,10 @@ titleSlug: ci-xue-lin-li-gong-tiao-xi-ji-lai-zhi-yun-qi-yi
 author: 趙希㯝
 authorPinyin: zhao4 xi1 㯝
 authorSlug: zhao-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fu-qu-xian-guan-gu-nan
 author: 孫松壽
 authorPinyin: sun1 song1 shou4
 authorSlug: sun-song-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

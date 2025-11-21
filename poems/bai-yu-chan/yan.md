@@ -1,30 +1,30 @@
 ---
 id: bai-yu-chan-yan
-title: 鴈
+title: 燕
 titlePinyin: yan4
 titleSlug: yan
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘹唳疇爾憐，凄凉去何渺。
-- 寧無稻粱謀，豈是江湖小。
-- 昆仲畏弓矰，奴儓失昏曉。
-- 關山夜月寒，風雨秋天杳。
+- 新巢故園兩依依，似與春花秋葉期。
+- 雨過池塘得泥跡，日高臺榭卷簾遲。
+- 秋千節後初相見，祓禊人歸有所思。
+- 雙侶多情擬憑仗，小箋封就碧雲詩。
 
 ## 拼音
 
-- liao2 li4 chou2 er3 lian2 ， qi1 liang2 qu4 he2 miao3 。
-- ning2 wu2 dao4 liang2 mou2 ， qi3 shi4 jiang1 hu2 xiao3 。
-- kun1 zhong4 wei4 gong1 zeng1 ， nu2 tai2 shi1 hun1 xiao3 。
-- guan1 shan1 ye4 yue4 han2 ， feng1 yu3 qiu1 tian1 yao3 。
+- xin1 chao2 gu4 yuan2 liang3 yi1 yi1 ， si4 yu3 chun1 hua1 qiu1 ye4 qi1 。
+- yu3 guo4 chi2 tang2 de2 ni2 ji4 ， ri4 gao1 tai2 xie4 juan4 lian2 chi2 。
+- qiu1 qian1 jie2 hou4 chu1 xiang1 jian4 ， fu2 xi4 ren2 gui1 you3 suo3 si1 。
+- shuang1 lü3 duo1 qing2 ni3 ping2 zhang4 ， xiao3 jian1 feng1 jiu4 bi4 yun2 shi1 。
 
 ## 注释
 

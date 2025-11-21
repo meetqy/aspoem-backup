@@ -6,9 +6,9 @@ titleSlug: bing-zhong-za-xing-qi-qi
 author: 高登
 authorPinyin: gao1 deng1
 authorSlug: gao-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

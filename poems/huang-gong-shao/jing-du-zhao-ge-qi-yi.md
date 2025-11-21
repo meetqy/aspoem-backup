@@ -1,26 +1,26 @@
 ---
 id: huang-gong-shao-jing-du-zhao-ge-qi-yi
-title: 競渡櫂歌  其一
-titlePinyin: jing4 du4 zhao4 ge1     qi2 yi1
+title: 競渡櫂歌  其一○
+titlePinyin: jing4 du4 zhao4 ge1     qi2 yi1 ○
 titleSlug: jing-du-zhao-ge-qi-yi
 author: 黄公紹
 authorPinyin: huang2 gong1 shao4
 authorSlug: huang-gong-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 望天湖，望天湖，綠楊深處鼓𪔱𪔱。
-- 好是年年三二月，湖邊日日看劃船。
+- 月明中，月明中，滿湖春水望難窮。
+- 欲學楚歌歌不得，一場離恨兩眉峯。
 
 ## 拼音
 
-- wang4 tian1 hu2 ， wang4 tian1 hu2 ， lü4 yang2 shen1 chu3 gu3 𪔱𪔱。
-- hao3 shi4 nian2 nian2 san1 er4 yue4 ， hu2 bian1 ri4 ri4 kan4 hua2 chuan2 。
+- yue4 ming2 zhong1 ， yue4 ming2 zhong1 ， man3 hu2 chun1 shui3 wang4 nan2 qiong2 。
+- yu4 xue2 chu3 ge1 ge1 bu4 de2 ， yi4 chang3 li2 hen4 liang3 mei2 feng1 。
 
 ## 注释
 

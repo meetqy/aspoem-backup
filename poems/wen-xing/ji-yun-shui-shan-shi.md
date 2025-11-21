@@ -6,10 +6,10 @@ titleSlug: ji-yun-shui-shan-shi
 author: 文興
 authorPinyin: wen2 xing1
 authorSlug: wen-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ci-yun-he-chou
 author: 釋惟晤
 authorPinyin: shi4 wei2 wu4
 authorSlug: shi-wei-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白雲蒼海一重重，傍舍遥聞隔塢鐘。
-- 月上更無人語鬧，雪深空認虎行蹤。
-- 詩書共喜燈前論，茗果翻疑夢裏逢。
-- 脫屣高譚無限樂，熅鑪寒擁日高舂。
+- 今日追懷昨日游，二君乘興似奔流。
+- 遠尋幽壑行拖屐，累到深雲卧枕邱。
+- 崖竹蕭疏晴影亂，塢梅零落晚香收。
+- 會須重訪藤州老，更約高才沈隱侯。
 
 ## 拼音
 
-- bai2 yun2 cang1 hai3 yi2 chong2 chong2 ， bang4 she4 yao2 wen2 ge2 wu4 zhong1 。
-- yue4 shang4 geng4 wu2 ren2 yu3 nao4 ， xue3 shen1 kong1 ren4 hu3 xing2 zong1 。
-- shi1 shu1 gong4 xi3 deng1 qian2 lun4 ， ming2 guo3 fan1 yi2 meng4 li3 feng2 。
-- tuo1 xi3 gao1 tan2 wu2 xian4 le4 ， yun1 lu2 han2 yong1 ri4 gao1 chong1 。
+- jin1 ri4 zhui1 huai2 zuo2 ri4 you2 ， er4 jun1 cheng2 xing1 si4 ben1 liu2 。
+- yuan3 xun2 you1 he4 xing2 tuo1 ji1 ， lei4 dao4 shen1 yun2 wo4 zhen3 qiu1 。
+- ya2 zhu2 xiao1 shu1 qing2 ying3 luan4 ， wu4 mei2 ling2 luo4 wan3 xiang1 shou1 。
+- hui4 xu1 zhong4 fang3 teng2 zhou1 lao3 ， geng4 yue1 gao1 cai2 shen3 yin3 hou2 。
 
 ## 注释
 

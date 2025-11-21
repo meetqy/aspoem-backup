@@ -1,26 +1,26 @@
 ---
 id: shi-zi-chun-song-gu-yi-yi-shou-qi-liu
-title: 頌古一○一首  其六
-titlePinyin: song4 gu3 yi1 ○ yi4 shou3     qi2 liu4
+title: 頌古一○一首  其六○
+titlePinyin: song4 gu3 yi1 ○ yi4 shou3     qi2 liu4 ○
 titleSlug: song-gu-yi-yi-shou-qi-liu
 author: 釋子淳
 authorPinyin: shi4 zi3 chun2
 authorSlug: shi-zi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 垂手還他作者機，尋常語裏布鎗旗。
-- 重詢擬進歸方丈，一句分明更不疑。
+- 三番白紙問寒暄，千里同風月滿船。
+- 奪得高標全用處，盤蛇口內打鞦韆。
 
 ## 拼音
 
-- chui2 shou3 huan2 ta1 zuo4 zhe3 ji1 ， xun2 chang2 yu3 li3 bu4 qiang1 qi2 。
-- zhong4 xun2 ni3 jin4 gui1 fang1 zhang4 ， yi2 ju4 fen1 ming2 geng4 bu4 yi2 。
+- san1 fan1 bai2 zhi3 wen4 han2 xuan1 ， qian1 li3 tong2 feng1 yue4 man3 chuan2 。
+- duo2 de2 gao1 biao1 quan2 yong4 chu3 ， pan2 she2 kou3 nei4 da3 qiu1 qian1 。
 
 ## 注释
 

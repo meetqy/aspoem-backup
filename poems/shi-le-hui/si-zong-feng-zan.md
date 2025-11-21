@@ -6,21 +6,21 @@ titleSlug: si-zong-feng-zan
 author: 釋了惠
 authorPinyin: shi4 le0 hui4
 authorSlug: shi-le-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松根石上柳陰邊，三箇癡頑一箇顛。
-- 總道繫蛇如伏虎，不知跨犢似乘船。
+- 白鷺股邊供大嚼，一蹄涔裏鼓波聲。
+- 三生更待三生後，未許平田路上行。
 
 ## 拼音
 
-- song1 gen1 shi2 shang4 liu3 yin1 bian1 ， san1 ge4 chi1 wan2 yi2 ge4 dian1 。
-- zong3 dao4 xi4 she2 ru2 fu2 hu3 ， bu4 zhi1 kua4 du2 si4 cheng2 chuan2 。
+- bai2 lu4 gu3 bian1 gong4 da4 jiao2 ， yi4 ti2 cen2 li3 gu3 bo1 sheng1 。
+- san1 sheng1 geng4 dai4 san1 sheng1 hou4 ， wei4 xu1 ping2 tian2 lu4 shang0 xing2 。
 
 ## 注释
 

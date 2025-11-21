@@ -6,10 +6,10 @@ titleSlug: shi-guang-hua-jun-si-bi
 author: 釋祕演
 authorPinyin: shi4 bi4 yan3
 authorSlug: shi-bi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

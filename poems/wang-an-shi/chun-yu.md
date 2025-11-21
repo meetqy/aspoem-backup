@@ -6,21 +6,21 @@ titleSlug: chun-yu
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 苦霧藏春色，愁霖病物華。
-- 幽奇無可奈，强釂一杯霞。
+- 城雲如夢柳僛僛，野水橫來强滿池。
+- 九十日春渾得雨，故應留潤作花時。
 
 ## 拼音
 
-- ku3 wu4 cang2 chun1 se4 ， chou2 lin2 bing4 wu4 hua2 。
-- you1 qi2 wu2 ke3 nai4 ， qiang2 jiao4 yi4 bei1 xia2 。
+- cheng2 yun2 ru2 meng4 liu3 qi1 qi1 ， ye3 shui3 heng2 lai2 qiang2 man3 chi2 。
+- jiu3 shi2 ri4 chun1 hun2 de2 yu3 ， gu4 ying1 liu2 run4 zuo4 hua1 shi2 。
 
 ## 注释
 

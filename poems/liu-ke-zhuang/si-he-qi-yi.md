@@ -6,25 +6,25 @@ titleSlug: si-he-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一橐蕭然五鬼隨，竟緣名盛與文奇。
-- 可曾天下無麟鳳，何必山中有虎羆。
-- 蜂蠆尾猶如許毒，蜘蛛腹得幾多絲。
-- 聖賢不校吾家法，車及蒲騷豈足師。
+- 漢末名臣推北海，鄴中才子遜東阿。
+- 老勤未輟吾伊讀，爛醉時爲爾汝歌。
+- 一滴何妨盧行少，五車安重惠施多。
+- 客來問話巴巴說，君不回頭可奈何。
 
 ## 拼音
 
-- yi4 tuo2 xiao1 ran2 wu3 gui3 sui2 ， jing4 yuan2 ming2 sheng4 yu3 wen2 qi2 。
-- ke3 ceng2 tian1 xia4 wu2 lin2 feng4 ， he2 bi4 shan1 zhong1 you3 hu3 pi2 。
-- feng1 chai4 wei3 you2 ru2 xu1 du2 ， zhi1 zhu1 fu4 de2 ji1 duo1 si1 。
-- sheng4 xian2 bu2 xiao4 wu2 jia1 fa3 ， ju1 ji2 pu2 sao1 qi3 zu2 shi1 。
+- han4 mo4 ming2 chen2 tui1 bei3 hai3 ， ye4 zhong1 cai2 zi3 xun4 dong1 a1 。
+- lao3 qin2 wei4 chuo4 wu2 yi1 du2 ， lan4 zui4 shi2 wei2 er3 ru3 ge1 。
+- yi4 di1 he2 fang2 lu2 xing2 shao3 ， wu3 ju1 an1 zhong4 hui4 shi1 duo1 。
+- ke4 lai2 wen4 hua4 ba1 ba1 shuo1 ， jun1 bu4 hui2 tou2 ke3 nai4 he2 。
 
 ## 注释
 

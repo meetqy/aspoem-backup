@@ -6,23 +6,25 @@ titleSlug: ti-yin-guang-ting
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 林風引石溜，席上清且寒。
-- 主人白羽扇，觴客水精盤。
-- 絃歌泛宮羽，酒面生波瀾。
+- 居易能藏氣，探幽復治亭。
+- 泉華聊自挹，澗響與誰聽。
+- 圓檜行依蓋，前峰坐對屏。
+- 一瓢吾道在，凉月此忘形。
 
 ## 拼音
 
-- lin2 feng1 yin3 shi2 liu1 ， xi2 shang4 qing1 qie3 han2 。
-- zhu3 ren2 bai2 yu3 shan4 ， shang1 ke4 shui3 jing1 pan2 。
-- xian2 ge1 fan4 gong1 yu3 ， jiu3 mian4 sheng1 bo1 lan2 。
+- ju1 yi4 neng2 cang2 qi4 ， tan4 you1 fu4 zhi4 ting2 。
+- quan2 hua2 liao2 zi4 yi4 ， jian4 xiang3 yu3 shui2 ting1 。
+- yuan2 gui4 xing2 yi1 gai4 ， qian2 feng1 zuo4 dui4 ping2 。
+- yi4 piao2 wu2 dao4 zai4 ， liang2 yue4 ci3 wang4 xing2 。
 
 ## 注释
 

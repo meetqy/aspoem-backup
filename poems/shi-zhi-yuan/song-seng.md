@@ -6,23 +6,21 @@ titleSlug: song-seng
 author: 釋智圓
 authorPinyin: shi4 zhi4 yuan2
 authorSlug: shi-zhi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風吹行衣，舊山逍遙歸。
-- 齋盂滌空潭，古磬敲殘暉。
-- 須知高靜懷，杳與塵俗違。
+- 萬緣難繫自由身，道性何妨學世人。
+- 擬向東山贈離別，長堤楊柳未成春。
 
 ## 拼音
 
-- qiu1 feng1 chui1 xing2 yi1 ， jiu4 shan1 xiao1 yao2 gui1 。
-- zhai1 yu2 di2 kong1 tan2 ， gu3 qing4 qiao1 can2 hui1 。
-- xu1 zhi1 gao1 jing4 huai2 ， yao3 yu3 chen2 su2 wei2 。
+- wan4 yuan2 nan2 xi4 zi4 you2 shen1 ， dao4 xing4 he2 fang2 xue2 shi4 ren2 。
+- ni3 xiang4 dong1 shan1 zeng4 li2 bie2 ， chang2 di1 yang2 liu3 wei4 cheng2 chun1 。
 
 ## 注释
 

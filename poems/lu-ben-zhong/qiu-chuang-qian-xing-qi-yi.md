@@ -1,32 +1,32 @@
 ---
 id: lu-ben-zhong-qiu-chuang-qian-xing-qi-yi
-title: 秋窗遣興  其一
-titlePinyin: qiu1 chuang1 qian3 xing1     qi2 yi1
+title: 秋窗遣興  其一○
+titlePinyin: qiu1 chuang1 qian3 xing1     qi2 yi1 ○
 titleSlug: qiu-chuang-qian-xing-qi-yi
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 造物何繁敷，雜然呈萬變。
-- 潛飛愜會心，顯藏亦遞見。
-- 人生事機巧，雕鑿失性善。
-- 碌碌塵寰事，輪環走精電。
-- 蕭散眄庭柯，商意集微霰。
+- 我生事柔翰，中懷異好尚。
+- 瀟灑逼嵇阮，功成薄瑜亮。
+- 白衣本山人，置身豈疏放。
+- 途逢醉尉呵，未且對侯相。
+- 亭亭千仞松，當破萬里浪。
 
 ## 拼音
 
-- zao4 wu4 he2 fan2 fu1 ， za2 ran2 cheng2 wan4 bian4 。
-- qian2 fei1 qie4 hui4 xin1 ， xian3 cang2 yi4 di4 jian4 。
-- ren2 sheng1 shi4 ji1 qiao3 ， diao1 zao2 shi1 xing4 shan4 。
-- lu4 lu4 chen2 huan2 shi4 ， lun2 huan2 zou3 jing1 dian4 。
-- xiao1 san4 mian3 ting2 ke1 ， shang1 yi4 ji2 wei1 xian4 。
+- wo3 sheng1 shi4 rou2 han4 ， zhong1 huai2 yi4 hao3 shang4 。
+- xiao1 sa3 bi1 ji1 ruan3 ， gong1 cheng2 bao2 yu2 liang4 。
+- bai2 yi1 ben3 shan1 ren2 ， zhi4 shen1 qi3 shu1 fang4 。
+- tu2 feng2 zui4 wei4 he1 ， wei4 qie3 dui4 hou2 xiang1 。
+- ting2 ting2 qian1 ren4 song1 ， dang1 po4 wan4 li3 lang4 。
 
 ## 注释
 

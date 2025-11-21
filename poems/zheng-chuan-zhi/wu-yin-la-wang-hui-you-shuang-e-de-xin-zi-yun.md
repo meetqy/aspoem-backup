@@ -6,10 +6,10 @@ titleSlug: wu-yin-la-wang-hui-you-shuang-e-de-xin-zi-yun
 author: 鄭傳之
 authorPinyin: zheng4 chuan2 zhi1
 authorSlug: zheng-chuan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

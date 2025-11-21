@@ -6,10 +6,10 @@ titleSlug: chuan-zi-he-shang-xi-ting
 author: 姜竹野
 authorPinyin: jiang1 zhu2 ye3
 authorSlug: jiang-zhu-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

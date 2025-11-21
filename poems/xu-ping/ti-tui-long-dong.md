@@ -6,10 +6,10 @@ titleSlug: ti-tui-long-dong
 author: 徐評
 authorPinyin: xu2 ping2
 authorSlug: xu-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

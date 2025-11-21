@@ -6,21 +6,21 @@ titleSlug: chu-xia
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅紫光陰不久長，一聲啼鴂靜年芳。
-- 陰陰綠樹黄鸝語，將與人間作夏凉。
+- 等閑過了一年春，雨後風光夏景新。
+- 試把櫻桃薦杯酒，欲將芍藥贈何人。
 
 ## 拼音
 
-- hong2 zi3 guang1 yin1 bu4 jiu3 chang2 ， yi4 sheng1 ti2 jue2 jing4 nian2 fang1 。
-- yin1 yin1 lü4 shu4 huang2 li2 yu3 ， jiang1 yu3 ren2 jian4 zuo4 xia4 liang2 。
+- deng3 xian2 guo4 le0 yi4 nian2 chun1 ， yu3 hou4 feng1 guang1 xia4 jing3 xin1 。
+- shi4 ba3 ying1 tao2 jian4 bei1 jiu3 ， yu4 jiang1 shao2 yao4 zeng4 he2 ren2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-qi-liu
-title: 頌古  其六
-titlePinyin: song4 gu3     qi2 liu4
+title: 頌古  其六○
+titlePinyin: song4 gu3     qi2 liu4 ○
 titleSlug: song-gu-qi-liu
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 二祖當年立少林，滿庭積雪到腰深。
-- 叉手當胸無一事，不求不覓不安心。
+- 作家相見終不錯，兩兩同時看啐啄。
+- 喝下雖然賓主分，爭如普化搖鈴鐸。
 
 ## 拼音
 
-- er4 zu3 dang1 nian2 li4 shao4 lin2 ， man3 ting2 ji1 xue3 dao4 yao1 shen1 。
-- cha1 shou3 dang1 xiong1 wu2 yi2 shi4 ， bu4 qiu2 bu2 mi4 bu4 an1 xin1 。
+- zuo4 jia1 xiang1 jian4 zhong1 bu2 cuo4 ， liang3 liang3 tong2 shi2 kan4 cui4 zhuo2 。
+- he1 xia4 sui1 ran2 bin1 zhu3 fen1 ， zheng1 ru2 pu3 hua4 yao2 ling2 duo2 。
 
 ## 注释
 

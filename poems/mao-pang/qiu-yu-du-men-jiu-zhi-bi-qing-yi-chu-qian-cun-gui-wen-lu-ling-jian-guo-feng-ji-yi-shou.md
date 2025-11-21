@@ -6,10 +6,10 @@ titleSlug: qiu-yu-du-men-jiu-zhi-bi-qing-yi-chu-qian-cun-gui-wen-lu-ling-jian-gu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

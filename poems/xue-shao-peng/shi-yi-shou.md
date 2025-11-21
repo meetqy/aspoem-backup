@@ -6,21 +6,29 @@ titleSlug: shi-yi-shou
 author: 薛紹彭
 authorPinyin: xue1 shao4 peng2
 authorSlug: xue-shao-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東晉風流勝事多，一時人物盡消磨。
-- 不因醉本蘭亭在，後世誰知舊永和。
+- 晉大司馬至洛陽，威略已著推砍羌。
+- 聲馳江龍傳國光，右軍筆陣爭堂堂。
+- 妙用作意驅後鋩，驚鴻乍起游龍翔。
+- 仁祖無奕烏衣郎，排名篇末流遺芳。
+- 開元散落王涯藏，聯翩飛動茂密行。
+- 料簡鑒賞盛有唐，傳授視此真印章。
 
 ## 拼音
 
-- dong1 jin4 feng1 liu2 sheng4 shi4 duo1 ， yi4 shi2 ren2 wu4 jin4 xiao1 mo2 。
-- bu4 yin1 zui4 ben3 lan2 ting2 zai4 ， hou4 shi4 shui2 zhi1 jiu4 yong3 he2 。
+- jin4 da4 si1 ma3 zhi4 luo4 yang2 ， wei1 lüe4 yi3 zhu4 tui1 kan3 qiang1 。
+- sheng1 chi2 jiang1 long2 chuan2 guo2 guang1 ， you4 jun1 bi3 zhen4 zheng1 tang2 tang2 。
+- miao4 yong4 zuo4 yi4 qu1 hou4 mang2 ， jing1 hong2 zha4 qi3 you2 long2 xiang2 。
+- ren2 zu3 wu2 yi4 wu1 yi1 lang2 ， pai2 ming2 pian1 mo4 liu2 yi2 fang1 。
+- kai1 yuan2 san4 luo4 wang2 ya2 cang2 ， lian2 pian1 fei1 dong4 mao4 mi4 xing2 。
+- liao4 jian3 jian4 shang3 sheng4 you3 tang2 ， chuan2 shou4 shi4 ci3 zhen1 yin4 zhang1 。
 
 ## 注释
 

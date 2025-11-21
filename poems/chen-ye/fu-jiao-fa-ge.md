@@ -6,10 +6,10 @@ titleSlug: fu-jiao-fa-ge
 author: 陳曄
 authorPinyin: chen2 ye4
 authorSlug: chen-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

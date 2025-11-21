@@ -6,10 +6,10 @@ titleSlug: xin-si-zhong-dong-er-ri-dong-zhi-meng-dong-hui-ri-ou-cheng-qi-er
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

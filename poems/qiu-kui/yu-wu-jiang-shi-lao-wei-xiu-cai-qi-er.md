@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-yu-wu-jiang-shi-lao-wei-xiu-cai-qi-er
-title: 寓浯江識老魏秀才・其二
-titlePinyin: yu4 wu2 jiang1 shi2 lao3 wei4 xiu4 cai0・qi2 er4
+title: 寓浯江識老魏秀才  其二
+titlePinyin: yu4 wu2 jiang1 shi2 lao3 wei4 xiu4 cai0     qi2 er4
 titleSlug: yu-wu-jiang-shi-lao-wei-xiu-cai-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

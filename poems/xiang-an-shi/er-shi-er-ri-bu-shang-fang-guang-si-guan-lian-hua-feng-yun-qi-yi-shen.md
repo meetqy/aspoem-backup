@@ -6,10 +6,10 @@ titleSlug: er-shi-er-ri-bu-shang-fang-guang-si-guan-lian-hua-feng-yun-qi-yi-shen
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bai-yun-lou
 author: 程之才
 authorPinyin: cheng2 zhi1 cai2
 authorSlug: cheng-zhi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

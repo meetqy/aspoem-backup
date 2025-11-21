@@ -6,10 +6,10 @@ titleSlug: you-da-di
 author: 李廷忠
 authorPinyin: li3 ting2 zhong1
 authorSlug: li-ting-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

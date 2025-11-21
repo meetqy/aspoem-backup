@@ -6,25 +6,25 @@ titleSlug: shan-yuan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 買得新園近釣磯，旋營茆棟設柴扉。
-- 山經宿雨修容出，花倚和風作態飛。
-- 世事只成驚老眼，酒徒頻約典春衣。
-- 狂吟爛醉君無笑，十丈愁城要解圍。
+- 山泉引派漲清池，野蔓移根絡短籬。
+- 藝果極知非老事，接花聊復効兒嬉。
+- 提壺言語開顔聽，斵木衣襦緩步窺。
+- 莫笑題詩還滿紙，小園幽事要君知。
 
 ## 拼音
 
-- mai3 de2 xin1 yuan2 jin4 diao4 ji1 ， xuan2 ying2 mao2 dong4 she4 chai2 fei1 。
-- shan1 jing1 su4 yu3 xiu1 rong2 chu1 ， hua1 yi3 he2 feng1 zuo4 tai4 fei1 。
-- shi4 shi4 zhi1 cheng2 jing1 lao3 yan3 ， jiu3 tu2 bin1 yue1 dian3 chun1 yi1 。
-- kuang2 yin2 lan4 zui4 jun1 wu2 xiao4 ， shi2 zhang4 chou2 cheng2 yao4 jie3 wei2 。
+- shan1 quan2 yin3 pai4 zhang3 qing1 chi2 ， ye3 man4 yi2 gen1 luo4 duan3 li2 。
+- yi4 guo3 ji2 zhi1 fei1 lao3 shi4 ， jie1 hua1 liao2 fu4 xiao4 er2 xi1 。
+- ti2 hu2 yan2 yu3 kai1 yan2 ting1 ， zhuo2 mu4 yi1 ru2 huan3 bu4 kui1 。
+- mo4 xiao4 ti2 shi1 huan2 man3 zhi3 ， xiao3 yuan2 you1 shi4 yao4 jun1 zhi1 。
 
 ## 注释
 

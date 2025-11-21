@@ -9,22 +9,26 @@ authorSlug: geng-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鄰里朝光徧，披衣夜醉醒。
-- 庖廚非舊火，林木發新青。
-- 接果移天性，疎泉逐地形。
-- 清明來幾日，戴勝已堪聽。
+- 芳菲那變易，年鬢自蹉跎。
+- 室與千峯對，門唯二仲過。
+- 宦情知己少，生事託人多。
+- 草色微風長，鶯聲細雨和。
+- 幾時猶滯拙，終日望恩波。
+- 縱欲論相報，無如漂母何。
 
 ## 拼音
 
-- lin2 li3 chao2 guang1 bian4 ， pi1 yi1 ye4 zui4 xing3 。
-- pao2 chu2 fei1 jiu4 huo3 ， lin2 mu4 fa1 xin1 qing1 。
-- jie1 guo3 yi2 tian1 xing4 ， shu1 quan2 zhu2 di4 xing2 。
-- qing1 ming2 lai2 ji1 ri4 ， dai4 sheng4 yi3 kan1 ting1 。
+- fang1 fei1 na4 bian4 yi4 ， nian2 bin4 zi4 cuo1 tuo2 。
+- shi4 yu3 qian1 feng1 dui4 ， men2 wei2 er4 zhong4 guo4 。
+- huan4 qing2 zhi1 ji3 shao3 ， sheng1 shi4 tuo1 ren2 duo1 。
+- cao3 se4 wei1 feng1 chang2 ， ying1 sheng1 xi4 yu3 he2 。
+- ji1 shi2 you2 zhi4 zhuo1 ， zhong1 ri4 wang4 en1 bo1 。
+- zong4 yu4 lun4 xiang1 bao4 ， wu2 ru2 piao1 mu3 he2 。
 
 ## 注释
 

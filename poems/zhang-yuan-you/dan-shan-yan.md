@@ -6,10 +6,10 @@ titleSlug: dan-shan-yan
 author: 張遠猷
 authorPinyin: zhang1 yuan3 you2
 authorSlug: zhang-yuan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

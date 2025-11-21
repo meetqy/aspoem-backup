@@ -9,18 +9,18 @@ authorSlug: cui-guo-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢使南還盡，胡中妾獨存。
-- 紫臺綿望絕，秋草不堪論。
+- 一回望月一回悲，望月月移人不移。
+- 何時得見漢朝使，爲妾傳書斬畫師。
 
 ## 拼音
 
-- han4 shi3 nan2 huan2 jin4 ， hu2 zhong1 qie4 du2 cun2 。
-- zi3 tai2 mian2 wang4 jue2 ， qiu1 cao3 bu4 kan1 lun4 。
+- yi4 hui2 wang4 yue4 yi1 hui2 bei1 ， wang4 yue4 yue4 yi2 ren2 bu4 yi2 。
+- he2 shi2 de2 jian4 han4 chao2 shi3 ， wei2 qie4 chuan2 shu1 zhan3 hua4 shi1 。
 
 ## 注释
 

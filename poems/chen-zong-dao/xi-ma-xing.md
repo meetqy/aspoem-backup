@@ -6,10 +6,10 @@ titleSlug: xi-ma-xing
 author: 陳宗道
 authorPinyin: chen2 zong1 dao4
 authorSlug: chen-zong-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

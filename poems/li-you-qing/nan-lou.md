@@ -6,10 +6,10 @@ titleSlug: nan-lou
 author: 李猷卿
 authorPinyin: li3 you2 qing1
 authorSlug: li-you-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

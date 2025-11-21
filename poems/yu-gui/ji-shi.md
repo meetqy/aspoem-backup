@@ -6,21 +6,21 @@ titleSlug: ji-shi
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陰雲釀雨勒花遲，梅已飄殘到杏枝。
-- 好是池塘清夢處，勾吟春草入新詩。
+- 暑赫練襟汗欲流，倩誰喚得一天秋。
+- 無人共訂吟邊句，獨有蟬聲叫樹頭。
 
 ## 拼音
 
-- yin1 yun2 niang4 yu3 le4 hua1 chi2 ， mei2 yi3 piao1 can2 dao4 xing4 zhi1 。
-- hao3 shi4 chi2 tang2 qing1 meng4 chu3 ， gou1 yin2 chun1 cao3 ru4 xin1 shi1 。
+- shu3 he4 lian4 jin1 han4 yu4 liu2 ， qian4 shui2 huan4 de2 yi4 tian1 qiu1 。
+- wu2 ren2 gong4 ding4 yin2 bian1 ju4 ， du2 you3 chan2 sheng1 jiao4 shu4 tou2 。
 
 ## 注释
 

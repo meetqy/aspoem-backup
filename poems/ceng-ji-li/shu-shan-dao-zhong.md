@@ -6,10 +6,10 @@ titleSlug: shu-shan-dao-zhong
 author: 曾季貍
 authorPinyin: ceng2 ji4 li2
 authorSlug: ceng-ji-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

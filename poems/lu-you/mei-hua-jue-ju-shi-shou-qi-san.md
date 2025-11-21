@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 折得梅花愧滿顔，文書堆案正如山。
-- 輸君一覺翛然夢，長在清泉白石間。
+- 錦城梅花海，十里香不斷。
+- 醉帽插花歸，銀鞍萬人看。
 
 ## 拼音
 
-- zhe2 de2 mei2 hua1 kui4 man3 yan2 ， wen2 shu1 dui1 an4 zheng4 ru2 shan1 。
-- shu1 jun1 yi4 jue2 xiao1 ran2 meng4 ， chang2 zai4 qing1 quan2 bai2 shi2 jian4 。
+- jin3 cheng2 mei2 hua1 hai3 ， shi2 li3 xiang1 bu2 duan4 。
+- zui4 mao4 cha1 hua1 gui1 ， yin2 an1 wan4 ren2 kan4 。
 
 ## 注释
 

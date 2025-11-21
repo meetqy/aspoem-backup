@@ -6,10 +6,10 @@ titleSlug: you-zhong-nan-shan-za-yong-mei-bei
 author: 李騊
 authorPinyin: li3 tao2
 authorSlug: li-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

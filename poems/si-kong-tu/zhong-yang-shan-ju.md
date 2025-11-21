@@ -9,22 +9,22 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 詩人自古恨難窮，暮節登臨且喜同。
-- 四望交親兵亂後，一川風物笛聲中。
-- 菊殘深處迴幽蝶，陂動晴光下早鴻。
-- 明日更期來此醉，不堪寂寞對衰翁。
+- 此身逃難入鄉關，八度重陽在舊山。
+- 籬菊亂來成爛熳，家僮常得解登攀。
+- 年隨曆日三分盡，醉伴浮生一片閑。
+- 滿目秋光還似鏡，殷勤爲我照衰顏。
 
 ## 拼音
 
-- shi1 ren2 zi4 gu3 hen4 nan2 qiong2 ， mu4 jie2 deng1 lin2 qie3 xi3 tong2 。
-- si4 wang4 jiao1 qin1 bing1 luan4 hou4 ， yi4 chuan1 feng1 wu4 di2 sheng1 zhong1 。
-- ju2 can2 shen1 chu3 hui2 you1 die2 ， bei1 dong4 qing2 guang1 xia4 zao3 hong2 。
-- ming2 ri4 geng4 qi1 lai2 ci3 zui4 ， bu4 kan1 ji4 mo4 dui4 shuai1 weng1 。
+- ci3 shen1 tao2 nan2 ru4 xiang1 guan1 ， ba1 du4 zhong4 yang2 zai4 jiu4 shan1 。
+- li2 ju2 luan4 lai2 cheng2 lan4 man4 ， jia1 tong2 chang2 de2 jie3 deng1 pan1 。
+- nian2 sui2 li4 ri4 san1 fen1 jin4 ， zui4 ban4 fu2 sheng1 yi2 pian4 xian2 。
+- man3 mu4 qiu1 guang1 huan2 si4 jing4 ， yin1 qin2 wei2 wo3 zhao4 shuai1 yan2 。
 
 ## 注释
 

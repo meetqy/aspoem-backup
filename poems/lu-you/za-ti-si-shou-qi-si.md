@@ -6,21 +6,21 @@ titleSlug: za-ti-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大兒都門久栖栖，小兒調官今復西。
-- 鄰家父子我所羨，泥水沒膝扶耕犁。
+- 湖堤疏瘦水楊柳，村舍殷紅山石榴。
+- 推戶本來隨意入，乞漿因得片時留。
 
 ## 拼音
 
-- da4 er2 dou1 men2 jiu3 qi1 qi1 ， xiao3 er2 diao4 guan1 jin1 fu4 xi1 。
-- lin2 jia1 fu4 zi3 wo3 suo3 xian4 ， ni2 shui3 mei2 xi1 fu2 geng1 li2 。
+- hu2 di1 shu1 shou4 shui3 yang2 liu3 ， cun1 she4 yin1 hong2 shan1 shi2 liu0 。
+- tui1 hu4 ben3 lai2 sui2 yi4 ru4 ， qi3 jiang1 yin1 de2 pian4 shi2 liu2 。
 
 ## 注释
 

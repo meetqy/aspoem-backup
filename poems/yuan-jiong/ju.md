@@ -6,10 +6,10 @@ titleSlug: ju
 author: 袁坰
 authorPinyin: yuan2 jiong1
 authorSlug: yuan-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

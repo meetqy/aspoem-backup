@@ -6,25 +6,25 @@ titleSlug: zeng-yin-seng
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 高僧謝人世，誅茅亂峰曲。
-- 三衣不著蠶，一飯長分鹿。
-- 露滴秋逕松，烟蒙曉窗竹。
-- 真隠澹無營，怡然心自足。
+- 禪居既高靜，道氣尤凄清。
+- 不識市朝路，深諳猨鳥情。
+- 田衣聯槲葉，山火燎松明。
+- 自說歸棲後，柴門罷送迎。
 
 ## 拼音
 
-- gao1 seng1 xie4 ren2 shi4 ， zhu1 mao2 luan4 feng1 qu3 。
-- san1 yi1 bu2 zhu4 can2 ， yi2 fan4 chang2 fen1 lu4 。
-- lu4 di1 qiu1 jing4 song1 ， yan1 meng2 xiao3 chuang1 zhu2 。
-- zhen1 yin3 dan4 wu2 ying2 ， yi2 ran2 xin1 zi4 zu2 。
+- shan4 ju1 ji4 gao1 jing4 ， dao4 qi4 you2 qi1 qing1 。
+- bu4 shi2 shi4 chao2 lu4 ， shen1 an1 yuan2 niao3 qing2 。
+- tian2 yi1 lian2 hu2 ye4 ， shan1 huo3 liao2 song1 ming2 。
+- zi4 shuo1 gui1 qi1 hou4 ， chai2 men2 ba4 song4 ying2 。
 
 ## 注释
 

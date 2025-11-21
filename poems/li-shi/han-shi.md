@@ -6,25 +6,21 @@ titleSlug: han-shi
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜泊依漁市，天寒問酒家。
-- 燼餘缸吐粟，凘合硯生花。
-- 月浸江妃冷，波喧海若誇。
-- 漂摇隨水宿，鳬雁寄生涯。
+- 街頭春柳弄疎柔，閉戶何曾一醉謀。
+- 只道將家對寒食，三千風雨隔松楸。
 
 ## 拼音
 
-- ye4 bo2 yi1 yu2 shi4 ， tian1 han2 wen4 jiu3 jia1 。
-- jin4 yu2 gang1 tu3 su4 ， si1 he2 yan4 sheng1 hua1 。
-- yue4 jin4 jiang1 fei1 leng3 ， bo1 xuan1 hai3 ruo4 kua1 。
-- piao1 yao2 sui2 shui3 su4 ， fu2 yan4 ji4 sheng1 ya2 。
+- jie1 tou2 chun1 liu3 nong4 shu1 rou2 ， bi4 hu4 he2 ceng2 yi2 zui4 mou2 。
+- zhi1 dao4 jiang1 jia1 dui4 han2 shi2 ， san1 qian1 feng1 yu3 ge2 song1 qiu1 。
 
 ## 注释
 

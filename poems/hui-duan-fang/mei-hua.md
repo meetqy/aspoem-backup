@@ -6,10 +6,10 @@ titleSlug: mei-hua
 author: 惠端方
 authorPinyin: hui4 duan1 fang1
 authorSlug: hui-duan-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

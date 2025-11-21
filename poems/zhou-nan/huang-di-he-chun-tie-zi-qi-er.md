@@ -6,21 +6,21 @@ titleSlug: huang-di-he-chun-tie-zi-qi-er
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉燭天時正，金穰歲兆豐。
-- 華封遥上祝，聖德與天通。
+- 玉宇朝來變好春，都傳塞上已和親。
+- 中天日月無私照，萬國耕桑雨露均。
 
 ## 拼音
 
-- yu4 zhu2 tian1 shi2 zheng4 ， jin1 rang2 sui4 zhao4 feng1 。
-- hua2 feng1 yao2 shang4 zhu4 ， sheng4 de2 yu3 tian1 tong1 。
+- yu4 yu3 chao2 lai2 bian4 hao3 chun1 ， dou1 chuan2 sai4 shang4 yi3 he2 qin1 。
+- zhong1 tian1 ri4 yue4 wu2 si1 zhao4 ， wan4 guo2 geng1 sang1 yu3 lu4 jun1 。
 
 ## 注释
 

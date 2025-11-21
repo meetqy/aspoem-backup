@@ -6,10 +6,10 @@ titleSlug: meng-liu-yuan-zhong-shu-shi-dong-po-shi
 author: 徐恢
 authorPinyin: xu2 hui1
 authorSlug: xu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: hua-yan-si-wang-fan-chuan
 author: 釋子蘭
 authorPinyin: shi4 zi3 lan2
 authorSlug: shi-zi-lan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

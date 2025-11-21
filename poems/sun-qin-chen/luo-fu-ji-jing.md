@@ -6,10 +6,10 @@ titleSlug: luo-fu-ji-jing
 author: 孫欽臣
 authorPinyin: sun1 qin1 chen2
 authorSlug: sun-qin-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

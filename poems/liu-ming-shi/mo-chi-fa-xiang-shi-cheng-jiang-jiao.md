@@ -6,10 +6,10 @@ titleSlug: mo-chi-fa-xiang-shi-cheng-jiang-jiao
 author: 劉名世
 authorPinyin: liu2 ming2 shi4
 authorSlug: liu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

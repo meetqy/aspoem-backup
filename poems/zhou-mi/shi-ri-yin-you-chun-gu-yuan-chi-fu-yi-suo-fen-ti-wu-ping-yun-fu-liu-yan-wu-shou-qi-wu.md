@@ -6,10 +6,10 @@ titleSlug: shi-ri-yin-you-chun-gu-yuan-chi-fu-yi-suo-fen-ti-wu-ping-yun-fu-liu-y
 author: 周密
 authorPinyin: zhou1 mi4
 authorSlug: zhou-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

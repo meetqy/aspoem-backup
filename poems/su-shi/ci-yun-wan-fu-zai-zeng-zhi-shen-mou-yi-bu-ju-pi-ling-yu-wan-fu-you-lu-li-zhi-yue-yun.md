@@ -6,10 +6,10 @@ titleSlug: ci-yun-wan-fu-zai-zeng-zhi-shen-mou-yi-bu-ju-pi-ling-yu-wan-fu-you-lu
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

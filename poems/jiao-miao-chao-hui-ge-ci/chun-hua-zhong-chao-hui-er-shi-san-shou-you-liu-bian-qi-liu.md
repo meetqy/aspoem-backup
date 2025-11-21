@@ -6,25 +6,25 @@ titleSlug: chun-hua-zhong-chao-hui-er-shi-san-shou-you-liu-bian-qi-liu
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冠古耀鴻徽，深仁及隠微。
-- 二南江漢詠，九奏鳳凰飛。
-- 設虡羅鐘律，盈庭列舞衣。
-- 文明資厚德，怡懌兆民歸。
+- 干戚有司傳，威容著凱旋。
+- 象成王業盛，役輟武功全。
+- 兵寢西郊閲，書惟北闕縣。
+- 聖神膺景命，卜世萬斯年。
 
 ## 拼音
 
-- guan1 gu3 yao4 hong2 hui1 ， shen1 ren2 ji2 yin3 wei1 。
-- er4 nan2 jiang1 han4 yong3 ， jiu3 zou4 feng4 huang2 fei1 。
-- she4 ju4 luo2 zhong1 lü4 ， ying2 ting2 lie4 wu3 yi1 。
-- wen2 ming2 zi1 hou4 de2 ， yi2 yi4 zhao4 min2 gui1 。
+- gan1 qi1 you3 si1 chuan2 ， wei1 rong2 zhu4 kai3 xuan2 。
+- xiang4 cheng2 wang2 ye4 sheng4 ， yi4 chuo4 wu3 gong1 quan2 。
+- bing1 qin3 xi1 jiao1 yue4 ， shu1 wei2 bei3 que4 xian4 。
+- sheng4 shen2 ying1 jing3 ming4 ， bu3 shi4 wan4 si1 nian2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 戎裘殊麗學彎弓，十指纖柔力未充。
-- 多被朋儕齊謔笑，强顔無奈臉蓮紅。
+- 唐畫名工品格殊，搜求爭進入皇居。
+- 金題玉躞分倫類，區别媸妍細字書。
 
 ## 拼音
 
-- rong2 qiu2 shu1 li2 xue2 wan1 gong1 ， shi2 zhi3 xian1 rou2 li4 wei4 chong1 。
-- duo1 bei4 peng2 chai2 qi2 xue4 xiao4 ， qiang2 yan2 wu2 nai4 lian3 lian2 hong2 。
+- tang2 hua4 ming2 gong1 pin3 ge2 shu1 ， sou1 qiu2 zheng1 jin4 ru4 huang2 ju1 。
+- jin1 ti2 yu4 xie4 fen1 lun2 lei4 ， qu1 bie2 chi1 yan2 xi4 zi4 shu1 。
 
 ## 注释
 

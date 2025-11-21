@@ -6,10 +6,10 @@ titleSlug: jin-wen-zhu-shan-li-guan-tang-shi-men-lao-ou-zhu-huang-jing-yi-shi-we
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

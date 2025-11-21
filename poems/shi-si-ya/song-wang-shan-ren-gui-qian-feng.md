@@ -6,10 +6,10 @@ titleSlug: song-wang-shan-ren-gui-qian-feng
 author: 釋思雅
 authorPinyin: shi4 si1 ya3
 authorSlug: shi-si-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

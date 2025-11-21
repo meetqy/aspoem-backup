@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松樹倒影半溪寒，數個沙鷗似水安。
-- 曾買江南千本畫，歸來一筆不中看。
+- 南朝官紙兒女膚，玉版雲英比不如。
+- 乞與此公原不稱，他年留與大蘇書。
 
 ## 拼音
 
-- song1 shu4 dao4 ying3 ban4 xi1 han2 ， shu4 ge4 sha1 ou1 si4 shui3 an1 。
-- ceng2 mai3 jiang1 nan2 qian1 ben3 hua4 ， gui1 lai2 yi4 bi3 bu4 zhong1 kan4 。
+- nan2 chao2 guan1 zhi3 er2 nü3 fu1 ， yu4 ban3 yun2 ying1 bi3 bu4 ru2 。
+- qi3 yu3 ci3 gong1 yuan2 bu4 cheng1 ， ta1 nian2 liu2 yu3 da4 su1 shu1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shi-er-shi-song-qi-er
 author: 釋文準
 authorPinyin: shi4 wen2 zhun3
 authorSlug: shi-wen-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,24 +9,22 @@ authorSlug: wen-ting-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鳴機札札停金梭，芙蓉澹蕩生池波。
-- 神軒紅粉陳香羅，鳳低蟬薄愁雙蛾。
-- 微光奕奕凌天河，鸞咽鶴唳飄颻歌。
-- 彎橋銷盡愁奈何，天氣駘蕩雲陂陁。
-- 平明花木有秋意，露濕綵盤蛛網多。
+- 鵲歸燕去兩悠悠，青瑣西南月似鉤。
+- 天上歲時星右轉，世間離別水東流。
+- 金風入樹千門夜，銀漢橫空萬象秋。
+- 蘇小橫塘通桂檝，未應清淺隔牽牛。
 
 ## 拼音
 
-- ming2 ji1 zha2 zha2 ting2 jin1 suo1 ， fu2 rong2 dan4 dang4 sheng1 chi2 bo1 。
-- shen2 xuan1 hong2 fen3 chen2 xiang1 luo2 ， feng4 di1 chan2 bao2 chou2 shuang1 e2 。
-- wei1 guang1 yi4 yi4 ling2 tian1 he2 ， luan2 yan4 he4 li4 piao1 yao2 ge1 。
-- wan1 qiao2 xiao1 jin4 chou2 nai4 he2 ， tian1 qi4 tai2 dang4 yun2 bei1 tuo2 。
-- ping2 ming2 hua1 mu4 you3 qiu1 yi4 ， lu4 shi1 cai3 pan2 zhu1 wang3 duo1 。
+- que4 gui1 yan4 qu4 liang3 you1 you1 ， qing1 suo3 xi1 nan2 yue4 si4 gou1 。
+- tian1 shang4 sui4 shi2 xing1 you4 zhuan3 ， shi4 jian4 li2 bie2 shui3 dong1 liu2 。
+- jin1 feng1 ru4 shu4 qian1 men2 ye4 ， yin2 han4 heng2 kong1 wan4 xiang4 qiu1 。
+- su1 xiao3 heng2 tang2 tong1 gui4 ji2 ， wei4 ying1 qing1 qian3 ge2 qian1 niu2 。
 
 ## 注释
 

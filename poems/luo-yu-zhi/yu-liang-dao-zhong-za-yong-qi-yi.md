@@ -1,30 +1,30 @@
 ---
 id: luo-yu-zhi-yu-liang-dao-zhong-za-yong-qi-yi
-title: 玉梁道中雜詠  其一
-titlePinyin: yu4 liang2 dao4 zhong1 za2 yong3     qi2 yi1
+title: 玉梁道中雜詠  其一○
+titlePinyin: yu4 liang2 dao4 zhong1 za2 yong3     qi2 yi1 ○
 titleSlug: yu-liang-dao-zhong-za-yong-qi-yi
 author: 羅與之
 authorPinyin: luo2 yu3 zhi1
 authorSlug: luo-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一別三會峰，轉燭閲半紀。
-- 山根石上苔，已沒舊屐齒。
-- 摩挲青青松，彼樹猶如此。
-- 睠言枕清流，爲洗囂塵耳。
+- 塵坌不可耐，飄然入林坰。
+- 稍覺道心勝，漸至詩脾清。
+- 靜極生孤愁，耿耿難爲情。
+- 喧寂兩莫愜，吾意何由平。
 
 ## 拼音
 
-- yi4 bie2 san1 hui4 feng1 ， zhuan3 zhu2 yue4 ban4 ji4 。
-- shan1 gen1 shi2 shang4 tai2 ， yi3 mei2 jiu4 ji1 chi3 。
-- mo2 suo1 qing1 qing1 song1 ， bi3 shu4 you2 ru2 ci3 。
-- juan4 yan2 zhen3 qing1 liu2 ， wei2 xi3 xiao1 chen2 er3 。
+- chen2 ben4 bu4 ke3 nai4 ， piao1 ran2 ru4 lin2 jiong1 。
+- shao1 jue2 dao4 xin1 sheng4 ， jian4 zhi4 shi1 pi2 qing1 。
+- jing4 ji2 sheng1 gu1 chou2 ， geng3 geng3 nan2 wei2 qing2 。
+- xuan1 ji4 liang3 mo4 qie4 ， wu2 yi4 he2 you2 ping2 。
 
 ## 注释
 

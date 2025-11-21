@@ -6,10 +6,10 @@ titleSlug: shi-le-cheng
 author: 孫渤
 authorPinyin: sun1 bo2
 authorSlug: sun-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

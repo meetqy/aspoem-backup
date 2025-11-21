@@ -6,10 +6,10 @@ titleSlug: qi-yue-er-shi-yi-ye-wen-han-yu-ru-su-cheng-bei-ma-pu
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,18 @@ authorSlug: li-shen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 君詠風月夕，余當童稚年。
-- 閑窗讀書罷，偷詠左司篇。
+- 魚驚翠羽金鱗躍，蓮脫紅衣紫菂擢。
+- （見宋高似孫《剡錄》卷十引）。
 
 ## 拼音
 
-- jun1 yong3 feng1 yue4 xi1 ， yu2 dang1 tong2 zhi4 nian2 。
-- xian2 chuang1 du2 shu1 ba4 ， tou1 yong3 zuo3 si1 pian1 。
+- yu2 jing1 cui4 yu3 jin1 lin2 yue4 ， lian2 tuo1 hong2 yi1 zi3 di4 zhuo2 。
+- （ jian4 song4 gao1 si4 sun1 《 yan3 lu4 》 juan4 shi2 yin3 ）。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jiang-guo-yi-chang-xian-ji-feng-yun-nan-shi-jun
 author: 楊壽祺
 authorPinyin: yang2 shou4 qi2
 authorSlug: yang-shou-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

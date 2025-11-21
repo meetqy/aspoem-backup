@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 休退居遠邑，頓喜人事疏。
-- 飯籮自不足，日記無可書。
-- 惟對楮先生，復接松大夫。
-- 溪友留白魚，鼾睡驚長須。
+- 寂歷斜陽岸，高低猶漲痕。
+- 輕舟隨浪穩，遠水带烟昏。
+- 野色幾番換，喬林何處村。
+- 情懷了無事，安得易銷魂。
 
 ## 拼音
 
-- xiu1 tui4 ju1 yuan3 yi4 ， dun4 xi3 ren2 shi4 shu1 。
-- fan4 luo2 zi4 bu4 zu2 ， ri4 ji4 wu2 ke3 shu1 。
-- wei2 dui4 chu3 xian1 sheng0 ， fu4 jie1 song1 dai4 fu0 。
-- xi1 you3 liu2 bai2 yu2 ， han1 shui4 jing1 chang2 xu1 。
+- ji4 li4 xie2 yang2 an4 ， gao1 di1 you2 zhang3 hen2 。
+- qing1 zhou1 sui2 lang4 wen3 ， yuan3 shui3 dai4 yan1 hun1 。
+- ye3 se4 ji1 fan1 huan4 ， qiao2 lin2 he2 chu3 cun1 。
+- qing2 huai2 le0 wu2 shi4 ， an1 de2 yi4 xiao1 hun2 。
 
 ## 注释
 

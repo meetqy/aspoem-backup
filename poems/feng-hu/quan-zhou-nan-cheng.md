@@ -6,10 +6,10 @@ titleSlug: quan-zhou-nan-cheng
 author: 馮岵
 authorPinyin: feng2 hu4
 authorSlug: feng-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

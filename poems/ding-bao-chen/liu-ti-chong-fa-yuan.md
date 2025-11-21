@@ -6,10 +6,10 @@ titleSlug: liu-ti-chong-fa-yuan
 author: 丁寶臣
 authorPinyin: ding1 bao3 chen2
 authorSlug: ding-bao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

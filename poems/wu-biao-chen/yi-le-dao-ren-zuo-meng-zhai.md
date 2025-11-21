@@ -6,10 +6,10 @@ titleSlug: yi-le-dao-ren-zuo-meng-zhai
 author: 吳表臣
 authorPinyin: wu2 biao3 chen2
 authorSlug: wu-biao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

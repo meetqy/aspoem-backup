@@ -6,25 +6,25 @@ titleSlug: lu-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 岸幘臨窗意未便，又拖筇杖出庭前。
-- 清秋欲近露霑草，皎月未升星滿天。
-- 過埭船爭明旦市，蹋車人廢徹宵眠。
-- 齊民一飽勤如許，坐食官倉每惕然。
+- 落月無留照，殘河亦已傾。
+- 墜枝雙鵲裊，黏草一螢明。
+- 暑令忘三伏，凉颼逼五更。
+- 爲憐荷瀉露，故起繞池行。
 
 ## 拼音
 
-- an4 ze2 lin2 chuang1 yi4 wei4 bian4 ， you4 tuo1 qiong2 zhang4 chu1 ting2 qian2 。
-- qing1 qiu1 yu4 jin4 lu4 zhan1 cao3 ， jiao3 yue4 wei4 sheng1 xing1 man3 tian1 。
-- guo4 dai4 chuan2 zheng1 ming2 dan4 shi4 ， ta4 ju1 ren2 fei4 che4 xiao1 mian2 。
-- qi2 min2 yi4 bao3 qin2 ru2 xu1 ， zuo4 shi2 guan1 cang1 mei3 ti4 ran2 。
+- luo4 yue4 wu2 liu2 zhao4 ， can2 he2 yi4 yi3 qing1 。
+- zhui4 zhi1 shuang1 que4 niao3 ， nian2 cao3 yi4 ying2 ming2 。
+- shu3 ling4 wang4 san1 fu2 ， liang2 sou1 bi1 wu3 geng1 。
+- wei2 lian2 he2 xie4 lu4 ， gu4 qi3 rao4 chi2 xing2 。
 
 ## 注释
 

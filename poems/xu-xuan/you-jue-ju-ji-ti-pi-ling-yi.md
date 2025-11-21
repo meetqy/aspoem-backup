@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-you-jue-ju-ji-ti-pi-ling-yi
-title: 又絕句寄題毗陵驛
+title: 又絕句寄題毘陵驛
 titlePinyin: you4 jue2 ju4 ji4 ti2 pi2 ling2 yi4
 titleSlug: you-jue-ju-ji-ti-pi-ling-yi
 author: 徐鉉
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 曾持使節駐毗陵，長與州人有舊情。
+- 曾持使節駐毘陵，長與州人有舊情。
 - 爲向驛橋風月道，舍人髭鬢白千莖。
 
 ## 拼音

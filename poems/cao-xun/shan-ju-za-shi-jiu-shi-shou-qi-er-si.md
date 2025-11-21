@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客惠雙井芽，千里冒寒暍。
-- 品格自高勝，香味兩奇絕。
-- 小小猷溪磨，團團掌中月。
-- 揮肘喜旋之，紛泊看落雪。
+- 平生江海性，俗冗不到眼。
+- 偶然牽祿養，遂復事篇簡。
+- 所愧道益遠，所喜性習懶。
+- 末路終此惠，尤得養樗散。
 
 ## 拼音
 
-- ke4 hui4 shuang1 jing3 ya2 ， qian1 li3 mao4 han2 ye1 。
-- pin3 ge2 zi4 gao1 sheng4 ， xiang1 wei4 liang3 qi2 jue2 。
-- xiao3 xiao3 you2 xi1 mo2 ， tuan2 tuan2 zhang3 zhong1 yue4 。
-- hui1 zhou3 xi3 xuan2 zhi1 ， fen1 bo2 kan4 luo4 xue3 。
+- ping2 sheng1 jiang1 hai3 xing4 ， su2 rong3 bu2 dao4 yan3 。
+- ou3 ran2 qian1 lu4 yang3 ， sui4 fu4 shi4 pian1 jian3 。
+- suo3 kui4 dao4 yi4 yuan3 ， suo3 xi3 xing4 xi2 lan3 。
+- mo4 lu4 zhong1 ci3 hui4 ， you2 de2 yang3 chu1 san4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhang-zhou-xie-huai
 author: 呂信臣
 authorPinyin: lü3 xin4 chen2
 authorSlug: lu-xin-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

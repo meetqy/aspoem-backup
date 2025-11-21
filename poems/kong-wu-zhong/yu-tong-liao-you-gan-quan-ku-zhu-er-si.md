@@ -6,10 +6,10 @@ titleSlug: yu-tong-liao-you-gan-quan-ku-zhu-er-si
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

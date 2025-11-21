@@ -6,10 +6,10 @@ titleSlug: chun-ri-feng-he-ma-jing-shan
 author: 郭昭度
 authorPinyin: guo1 zhao1 du4
 authorSlug: guo-zhao-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

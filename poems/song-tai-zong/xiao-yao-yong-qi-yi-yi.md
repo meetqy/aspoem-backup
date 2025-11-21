@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-yi-yi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 清靜真空理，不無解者難。
-- 縱橫依見性，廓落智中觀。
-- 坦蕩歸仁德，辛勤久遠看。
-- 勿教爲逆順，平地入雲端。
+- 九重天上帝仙居，愚昧求真道理疏。
+- 混沌初分長日月，精魂聚散記丹書。
+- 離男坎女皆相類，壬子丙丁異境殊。
+- 歷劫因緣隨世在，陰功及物最玄殊。
 
 ## 拼音
 
-- qing1 jing4 zhen1 kong1 li3 ， bu4 wu2 jie3 zhe3 nan2 。
-- zong4 heng2 yi1 jian4 xing4 ， kuo4 luo4 zhi4 zhong1 guan1 。
-- tan3 dang4 gui1 ren2 de2 ， xin1 qin2 jiu3 yuan3 kan4 。
-- wu4 jiao4 wei2 ni4 shun4 ， ping2 di4 ru4 yun2 duan1 。
+- jiu3 chong2 tian1 shang4 di4 xian1 ju1 ， yu2 mei4 qiu2 zhen1 dao4 li3 shu1 。
+- hun4 dun4 chu1 fen1 chang2 ri4 yue4 ， jing1 hun2 ju4 san4 ji4 dan1 shu1 。
+- li2 nan2 kan3 nü3 jie1 xiang1 lei4 ， ren2 zi3 bing3 ding1 yi4 jing4 shu1 。
+- li4 jie2 yin1 yuan2 sui2 shi4 zai4 ， yin1 gong1 ji2 wu4 zui4 xuan2 shu1 。
 
 ## 注释
 

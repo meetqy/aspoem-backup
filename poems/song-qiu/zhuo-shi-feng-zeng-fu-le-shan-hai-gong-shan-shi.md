@@ -6,10 +6,10 @@ titleSlug: zhuo-shi-feng-zeng-fu-le-shan-hai-gong-shan-shi
 author: 宋球
 authorPinyin: song4 qiu2
 authorSlug: song-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

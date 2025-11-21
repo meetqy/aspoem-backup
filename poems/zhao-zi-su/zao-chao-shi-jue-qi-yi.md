@@ -1,26 +1,26 @@
 ---
 id: zhao-zi-su-zao-chao-shi-jue-qi-yi
-title: 早朝十絕  其一
-titlePinyin: zao3 chao2 shi2 jue2     qi2 yi1
+title: 早朝十絕  其一○
+titlePinyin: zao3 chao2 shi2 jue2     qi2 yi1 ○
 titleSlug: zao-chao-shi-jue-qi-yi
 author: 趙子潚
 authorPinyin: zhao4 zi3 su4
 authorSlug: zhao-zi-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門門閶闔早春初，恭遘龍飛御太虛。
-- 聖德巍巍隆譽望，坐令四海誦唐虞。
+- 壯時瞻仰近龍顔，老尚簪纓侍從班。
+- 戀闕敢辭筋力倦，銘心刻骨更輸丹。
 
 ## 拼音
 
-- men2 men2 chang1 he2 zao3 chun1 chu1 ， gong1 gou4 long2 fei1 yu4 tai4 xu1 。
-- sheng4 de2 wei1 wei1 long2 yu4 wang4 ， zuo4 ling4 si4 hai3 song4 tang2 yu2 。
+- zhuang4 shi2 zhan1 yang3 jin4 long2 yan2 ， lao3 shang4 zan1 ying1 shi4 cong2 ban1 。
+- lian4 que4 gan3 ci2 jin1 li4 juan4 ， ming2 xin1 ke4 gu3 geng4 shu1 dan1 。
 
 ## 注释
 

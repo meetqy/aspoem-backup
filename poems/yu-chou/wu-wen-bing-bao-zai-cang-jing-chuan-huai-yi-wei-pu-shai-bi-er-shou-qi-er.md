@@ -6,10 +6,10 @@ titleSlug: wu-wen-bing-bao-zai-cang-jing-chuan-huai-yi-wei-pu-shai-bi-er-shou-qi
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

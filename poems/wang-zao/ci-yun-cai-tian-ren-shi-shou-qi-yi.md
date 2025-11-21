@@ -1,26 +1,26 @@
 ---
 id: wang-zao-ci-yun-cai-tian-ren-shi-shou-qi-yi
-title: 次韻蔡天任十首  其一
-titlePinyin: ci4 yun4 cai4 tian1 ren4 shi2 shou3     qi2 yi1
+title: 次韻蔡天任十首  其一○
+titlePinyin: ci4 yun4 cai4 tian1 ren4 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-cai-tian-ren-shi-shou-qi-yi
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江頭山色舊所愛，倒影玉海空嶙峋。
-- 爾來處處作媚嫵，似與世爭眉黛新。
+- 中郎故是渥洼種，不受世人金絡頭。
+- 十年一衲作僧過，卧看烟雨明沙鷗。
 
 ## 拼音
 
-- jiang1 tou2 shan1 se4 jiu4 suo3 ai4 ， dao4 ying3 yu4 hai3 kong1 lin2 xun2 。
-- er3 lai2 chu3 chu3 zuo4 mei4 wu3 ， si4 yu3 shi4 zheng1 mei2 dai4 xin1 。
+- zhong1 lang2 gu4 shi4 wo4 wa1 zhong3 ， bu2 shou4 shi4 ren2 jin1 luo4 tou2 。
+- shi2 nian2 yi2 na4 zuo4 seng1 guo4 ， wo4 kan4 yan1 yu3 ming2 sha1 ou1 。
 
 ## 注释
 

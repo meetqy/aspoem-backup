@@ -6,10 +6,10 @@ titleSlug: deng-si-zhong-xiao-shu-ji-shen-bu-jian-yi-seng-du-zuo-yun-tang-shu-ke
 author: 衛涇
 authorPinyin: wei4 jing1
 authorSlug: wei-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

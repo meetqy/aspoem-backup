@@ -6,10 +6,10 @@ titleSlug: fang-cui-wei-miao-shang-ren
 author: 郟僑
 authorPinyin: jia2 qiao2
 authorSlug: jia-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

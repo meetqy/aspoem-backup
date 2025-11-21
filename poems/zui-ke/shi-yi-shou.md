@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 醉客
 authorPinyin: zui4 ke4
 authorSlug: zui-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

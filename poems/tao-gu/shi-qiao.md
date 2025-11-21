@@ -14,13 +14,17 @@ tags: []
 
 ## 正文
 
-- 重重翠幛聳雲端，玉殿金樓縹緲間。
+- 重重翠嶂聳雲端，玉殿金樓縹緲間。
 - 聖境不容凡俗到，故將飛瀑隔塵寰。
+- （見《天台續集》卷中。
+- ）。
 
 ## 拼音
 
 - chong2 chong2 cui4 zhang4 song3 yun2 duan1 ， yu4 dian4 jin1 lou2 piao3 miao3 jian4 。
 - sheng4 jing4 bu4 rong2 fan2 su2 dao4 ， gu4 jiang1 fei1 pu4 ge2 chen2 huan2 。
+- （ jian4 《 tian1 tai2 xu4 ji2 》 juan4 zhong1 。
+- ）。
 
 ## 注释
 

@@ -1,26 +1,28 @@
 ---
 id: shi-hui-xing-ji-song-yi-bai-ling-yi-shou-qi-yi
-title: 偈頌一百零一首  其一
-titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 yi1
+title: 偈頌一百零一首  其一○○
+titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 yi1 ○ ○
 titleSlug: ji-song-yi-bai-ling-yi-shou-qi-yi
 author: 釋慧性
 authorPinyin: shi4 hui4 xing4
 authorSlug: shi-hui-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬疊峯巒秀，清虛杳靄間。
-- 跨門一句子，擬議隔重關。
+- 歸宗事理絕，日輪正當午。
+- 布袋放憨癡，貓兒捉老鼠。
+- 若人會得，超佛越祖。
 
 ## 拼音
 
-- wan4 die2 feng1 luan2 xiu4 ， qing1 xu1 yao3 ai3 jian4 。
-- kua4 men2 yi2 ju4 zi0 ， ni3 yi4 ge2 zhong4 guan1 。
+- gui1 zong1 shi4 li3 jue2 ， ri4 lun2 zheng4 dang1 wu3 。
+- bu4 dai4 fang4 han1 chi1 ， mao1 er2 zhuo1 lao3 shu3 。
+- ruo4 ren2 hui4 de2 ， chao1 fo2 yue4 zu3 。
 
 ## 注释
 

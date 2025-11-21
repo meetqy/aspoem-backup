@@ -6,10 +6,10 @@ titleSlug: da-jian-shan
 author: 慕容佰才
 authorPinyin: mu4 rong2 bai3 cai2
 authorSlug: mu-rong-bai-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

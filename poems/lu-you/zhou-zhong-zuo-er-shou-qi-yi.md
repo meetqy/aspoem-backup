@@ -6,25 +6,21 @@ titleSlug: zhou-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 娥江西路石帆東，身寄鷗波浩蕩中。
-- 疊疊沙痕留浦岸，疏疏日影透漁篷。
-- 詩人無復同盟在，酒債何時一洗空。
-- 已迫耄年宜易感，人生五十即稱翁。
+- 籧篨作帆三版船，漁燈夜泊閶門邊。
+- 烟波四萬八千頃，造物推排作水仙。
 
 ## 拼音
 
-- e2 jiang1 xi1 lu4 shi2 fan1 dong1 ， shen1 ji4 ou1 bo1 hao4 dang4 zhong1 。
-- die2 die2 sha1 hen2 liu2 pu3 an4 ， shu1 shu1 ri4 ying3 tou4 yu2 peng2 。
-- shi1 ren2 wu2 fu4 tong2 meng2 zai4 ， jiu3 zhai4 he2 shi2 yi4 xi3 kong1 。
-- yi3 po4 mao4 nian2 yi2 yi4 gan3 ， ren2 sheng1 wu3 shi2 ji2 cheng1 weng1 。
+- qu2 chu2 zuo4 fan1 san1 ban3 chuan2 ， yu2 deng1 ye4 bo2 chang1 men2 bian1 。
+- yan1 bo1 si4 wan4 ba1 qian1 qing3 ， zao4 wu4 tui1 pai2 zuo4 shui3 xian1 。
 
 ## 注释
 

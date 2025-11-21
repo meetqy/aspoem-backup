@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 霍正夫
 authorPinyin: huo4 zheng4 fu1
 authorSlug: huo-zheng-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

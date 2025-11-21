@@ -6,25 +6,29 @@ titleSlug: ou-shu
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 罇中一勺水，其味誠淡薄。
-- 盡日設重席，無人與酬酢。
-- 東鄰有旨酒，金壺而玉爵。
-- 門前羅軒車，陶陶一何樂。
+- 寂然閒地好弦歌，胸中森森萬仞戈。
+- 自道壯圖終有用，未知時事竟如何。
+- 千金似糞無心願，一劍如霜爲國磨。
+- 吟輒廢眠詩骨瘦，酒能消思醉顔酡。
+- 起登夜閣乘明月，笑倚寒山望太阿。
+- 誰道吾儒無壯士，藺生功烈勝廉頗。
 
 ## 拼音
 
-- zun1 zhong1 yi4 shao2 shui3 ， qi2 wei4 cheng2 dan4 bo2 。
-- jin4 ri4 she4 zhong4 xi2 ， wu2 ren2 yu3 chou2 zuo4 。
-- dong1 lin2 you3 zhi3 jiu3 ， jin1 hu2 er2 yu4 jue2 。
-- men2 qian2 luo2 xuan1 ju1 ， tao2 tao2 yi4 he2 le4 。
+- ji4 ran2 xian2 di4 hao3 xian2 ge1 ， xiong1 zhong1 sen1 sen1 wan4 ren4 ge1 。
+- zi4 dao4 zhuang4 tu2 zhong1 you3 yong4 ， wei4 zhi1 shi2 shi4 jing4 ru2 he2 。
+- qian1 jin1 si4 fen4 wu2 xin1 yuan4 ， yi2 jian4 ru2 shuang1 wei2 guo2 mo2 。
+- yin2 zhe2 fei4 mian2 shi1 gu3 shou4 ， jiu3 neng2 xiao1 si1 zui4 yan2 tuo2 。
+- qi3 deng1 ye4 ge2 cheng2 ming2 yue4 ， xiao4 yi3 han2 shan1 wang4 tai4 e1 。
+- shui2 dao4 wu2 ru2 wu2 zhuang4 shi4 ， lin4 sheng1 gong1 lie4 sheng4 lian2 po1 。
 
 ## 注释
 

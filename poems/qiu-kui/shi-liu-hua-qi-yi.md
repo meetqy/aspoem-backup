@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-shi-liu-hua-qi-yi
-title: 石榴花・其一
-titlePinyin: shi2 liu0 hua1・qi2 yi1
+title: 石榴花  其一
+titlePinyin: shi2 liu0 hua1     qi2 yi1
 titleSlug: shi-liu-hua-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

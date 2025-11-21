@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 李閌先
 authorPinyin: li3 kang1 xian1
 authorSlug: li-kang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

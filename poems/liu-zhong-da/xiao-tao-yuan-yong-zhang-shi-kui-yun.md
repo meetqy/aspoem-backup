@@ -6,10 +6,10 @@ titleSlug: xiao-tao-yuan-yong-zhang-shi-kui-yun
 author: 劉仲達
 authorPinyin: liu2 zhong4 da2
 authorSlug: liu-zhong-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

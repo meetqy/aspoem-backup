@@ -1,26 +1,26 @@
 ---
 id: xiong-ke-quan-nong-shi-shou-qi-yi
-title: 勸農十首  其一
-titlePinyin: quan4 nong2 shi2 shou3     qi2 yi1
+title: 勸農十首  其一○
+titlePinyin: quan4 nong2 shi2 shou3     qi2 yi1 ○
 titleSlug: quan-nong-shi-shou-qi-yi
 author: 熊克
 authorPinyin: xiong2 ke4
 authorSlug: xiong-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雪漬冰濡土脈肥，趁時舉趾莫教違。
-- 荷蓑早合衝煙去，負耒遲須带月歸。
+- 唆伊爭訟真伊賊，勸你休和是你師。
+- 縱使勝來耕已廢，得便宜處失便宜。
 
 ## 拼音
 
-- xue3 zi4 bing1 ru2 tu3 mai4 fei2 ， chen4 shi2 ju3 zhi3 mo4 jiao4 wei2 。
-- he2 suo1 zao3 he2 chong1 yan1 qu4 ， fu4 lei3 chi2 xu1 dai4 yue4 gui1 。
+- suo1 yi1 zheng1 song4 zhen1 yi1 zei2 ， quan4 ni3 xiu1 he2 shi4 ni3 shi1 。
+- zong4 shi3 sheng4 lai2 geng1 yi3 fei4 ， de2 pian2 yi0 chu3 shi1 pian2 yi0 。
 
 ## 注释
 

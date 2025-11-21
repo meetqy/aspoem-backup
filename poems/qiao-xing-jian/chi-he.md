@@ -6,10 +6,10 @@ titleSlug: chi-he
 author: 喬行簡
 authorPinyin: qiao2 xing2 jian3
 authorSlug: qiao-xing-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

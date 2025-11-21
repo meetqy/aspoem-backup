@@ -6,10 +6,10 @@ titleSlug: jiang-fu-gao-an-chu-ji-shui-bao-ye-xian-guan-gui-tu-su-wu-feng-si-er-
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

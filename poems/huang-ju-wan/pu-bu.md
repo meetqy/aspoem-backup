@@ -6,10 +6,10 @@ titleSlug: pu-bu
 author: 黄居萬
 authorPinyin: huang2 ju1 wan4
 authorSlug: huang-ju-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -3,22 +3,22 @@ id: xu-xin-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 徐忻
-authorPinyin: xu2 xin1
+author: 徐信
+authorPinyin: xu2 xin4
 authorSlug: xu-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 著衣輕有暈，入水淡無痕。
+- 平地風煙飛白鳥，半空雲木捲蒼藤。
 
 ## 拼音
 
-- zhu4 yi1 qing1 you3 yun4 ， ru4 shui3 dan4 wu2 hen2 。
+- ping2 di4 feng1 yan1 fei1 bai2 niao3 ， ban4 kong1 yun2 mu4 juan3 cang1 teng2 。
 
 ## 注释
 

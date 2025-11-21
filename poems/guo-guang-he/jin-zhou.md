@@ -6,10 +6,10 @@ titleSlug: jin-zhou
 author: 郭廣和
 authorPinyin: guo1 guang3 he2
 authorSlug: guo-guang-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

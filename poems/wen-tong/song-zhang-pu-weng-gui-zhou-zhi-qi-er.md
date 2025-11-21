@@ -1,14 +1,14 @@
 ---
 id: wen-tong-song-zhang-pu-weng-gui-zhou-zhi-qi-er
-title: 送張樸翁歸盩厔・其二
-titlePinyin: song4 zhang1 pu3 weng1 gui1 zhou1 zhi4・qi2 er4
+title: 送張樸翁歸盩厔  其二
+titlePinyin: song4 zhang1 pu3 weng1 gui1 zhou1 zhi4     qi2 er4
 titleSlug: song-zhang-pu-weng-gui-zhou-zhi-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

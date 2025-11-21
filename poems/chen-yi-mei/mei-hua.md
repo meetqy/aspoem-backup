@@ -6,10 +6,10 @@ titleSlug: mei-hua
 author: 陳亦梅
 authorPinyin: chen2 yi4 mei2
 authorSlug: chen-yi-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

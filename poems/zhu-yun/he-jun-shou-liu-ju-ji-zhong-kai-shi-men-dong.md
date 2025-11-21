@@ -6,10 +6,10 @@ titleSlug: he-jun-shou-liu-ju-ji-zhong-kai-shi-men-dong
 author: 朱筠
 authorPinyin: zhu1 yun2
 authorSlug: zhu-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

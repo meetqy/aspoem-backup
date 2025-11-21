@@ -6,10 +6,10 @@ titleSlug: liang-xuan
 author: 呂希彥
 authorPinyin: lü3 xi1 yan4
 authorSlug: lu-xi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

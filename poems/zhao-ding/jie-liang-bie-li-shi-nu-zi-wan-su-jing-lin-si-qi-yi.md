@@ -6,10 +6,10 @@ titleSlug: jie-liang-bie-li-shi-nu-zi-wan-su-jing-lin-si-qi-yi
 author: 趙鼎
 authorPinyin: zhao4 ding3
 authorSlug: zhao-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

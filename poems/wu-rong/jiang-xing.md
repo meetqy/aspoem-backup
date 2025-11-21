@@ -9,18 +9,18 @@ authorSlug: wu-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 霞低水遠碧翻紅，一棹無邊落照中。
-- 說示北人應不愛，錦遮泥健馬追風。
+- 來時風，去時雨，蕭蕭颯颯春江浦。
+- 欹欹側側海門帆，軋軋啞啞洞庭櫓。
 
 ## 拼音
 
-- xia2 di1 shui3 yuan3 bi4 fan1 hong2 ， yi2 zhao4 wu2 bian1 luo4 zhao4 zhong1 。
-- shuo1 shi4 bei3 ren2 ying1 bu2 ai4 ， jin3 zhe1 ni2 jian4 ma3 zhui1 feng1 。
+- lai2 shi2 feng1 ， qu4 shi2 yu3 ， xiao1 xiao1 sa4 sa4 chun1 jiang1 pu3 。
+- qi1 qi1 ce4 ce4 hai3 men2 fan1 ， ya4 ya4 ya3 ya3 dong4 ting2 lu3 。
 
 ## 注释
 

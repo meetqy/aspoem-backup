@@ -6,10 +6,10 @@ titleSlug: hui-ji-song-qi-wu
 author: 諸葛興
 authorPinyin: zhu1 ge3 xing1
 authorSlug: zhu-ge-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

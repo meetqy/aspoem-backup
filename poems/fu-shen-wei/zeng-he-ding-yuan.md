@@ -6,9 +6,9 @@ titleSlug: zeng-he-ding-yuan
 author: 傅慎微
 authorPinyin: fu4 shen4 wei1
 authorSlug: fu-shen-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

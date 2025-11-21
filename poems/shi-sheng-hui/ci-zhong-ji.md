@@ -6,10 +6,10 @@ titleSlug: ci-zhong-ji
 author: 釋省回
 authorPinyin: shi4 sheng3 hui2
 authorSlug: shi-sheng-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

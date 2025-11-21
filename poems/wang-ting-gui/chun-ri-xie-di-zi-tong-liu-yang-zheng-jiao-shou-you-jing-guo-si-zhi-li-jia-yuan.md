@@ -6,10 +6,10 @@ titleSlug: chun-ri-xie-di-zi-tong-liu-yang-zheng-jiao-shou-you-jing-guo-si-zhi-l
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

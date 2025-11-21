@@ -6,9 +6,9 @@ titleSlug: luo-yang-chen-qu-fei-zi-fu-bao-lang-zhe-chen-liu-jiu-guan-yu-shi-zuo-
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

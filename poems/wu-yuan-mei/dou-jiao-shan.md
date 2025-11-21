@@ -6,9 +6,9 @@ titleSlug: dou-jiao-shan
 author: 吳元美
 authorPinyin: wu2 yuan2 mei3
 authorSlug: wu-yuan-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

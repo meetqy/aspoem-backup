@@ -6,25 +6,21 @@ titleSlug: qiu-gan
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朱槿不堪留，牽牛上竹幽。
-- 蛩聲清奪漏，鷹翮勁思秋。
-- 掩卷悲先哲，看山憶舊遊。
-- 閨情兼旅夢，百慮五更頭。
+- 油窗漠漠雨垂垂，秋盡江南草木知。
+- 促織到頭無一語，不知能有幾多絲。
 
 ## 拼音
 
-- zhu1 jin3 bu4 kan1 liu2 ， qian1 niu2 shang4 zhu2 you1 。
-- qiong2 sheng1 qing1 duo2 lou4 ， ying1 he2 jin4 si1 qiu1 。
-- yan3 juan4 bei1 xian1 zhe2 ， kan4 shan1 yi4 jiu4 you2 。
-- gui1 qing2 jian1 lü3 meng4 ， bai3 lü4 wu3 geng1 tou2 。
+- you2 chuang1 mo4 mo4 yu3 chui2 chui2 ， qiu1 jin4 jiang1 nan2 cao3 mu4 zhi1 。
+- cu4 zhi1 dao4 tou2 wu2 yi4 yu3 ， bu4 zhi1 neng2 you3 ji1 duo1 si1 。
 
 ## 注释
 

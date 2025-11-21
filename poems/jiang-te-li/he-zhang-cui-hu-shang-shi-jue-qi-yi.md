@@ -1,26 +1,26 @@
 ---
 id: jiang-te-li-he-zhang-cui-hu-shang-shi-jue-qi-yi
-title: 和張倅湖上十絕  其一
-titlePinyin: he2 zhang1 cui4 hu2 shang4 shi2 jue2     qi2 yi1
+title: 和張倅湖上十絕  其一○
+titlePinyin: he2 zhang1 cui4 hu2 shang4 shi2 jue2     qi2 yi1 ○
 titleSlug: he-zhang-cui-hu-shang-shi-jue-qi-yi
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾訪高人舊隠居，詩情平澹宦情踈。
-- 緹屏今日雖泥軾，芸閣它時合校書。
+- 夕寒山水閟清暉，歸到華堂月半扉。
+- 傾倒錦囊無賸語，風光那得更相違。
 
 ## 拼音
 
-- ceng2 fang3 gao1 ren2 jiu4 yin3 ju1 ， shi1 qing2 ping2 dan4 huan4 qing2 shu1 。
-- ti2 ping2 jin1 ri4 sui1 ni2 shi4 ， yun2 ge2 ta1 shi2 he2 xiao4 shu1 。
+- xi1 han2 shan1 shui3 bi4 qing1 hui1 ， gui1 dao4 hua2 tang2 yue4 ban4 fei1 。
+- qing1 dao3 jin3 nang2 wu2 sheng4 yu3 ， feng1 guang1 na4 de2 geng4 xiang1 wei2 。
 
 ## 注释
 

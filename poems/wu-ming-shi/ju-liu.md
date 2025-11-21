@@ -9,16 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 言滿天下無口過。
+- 舒（一作「野」）桃臨遠騎，垂柳映連營。
+- （以上聯爲映帶體）。
 
 ## 拼音
 
-- yan2 man3 tian1 xia4 wu2 kou3 guo4 。
+- shu1 （ yi2 zuo4 「 ye3 」） tao2 lin2 yuan3 qi2 ， chui2 liu3 ying4 lian2 ying2 。
+- （ yi3 shang4 lian2 wei2 ying4 dai4 ti3 ）。
 
 ## 注释
 

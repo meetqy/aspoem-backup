@@ -6,25 +6,25 @@ titleSlug: mei-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 沐罷斜簮二寸冠，斷雲殘靄暗江干。
-- 絲絲梅子熟時雨，漠漠楝花開後寒。
-- 剩采芸香辟書蠧，旋舂麥麨續家餐。
-- 日長倦睫惟思閉，茗椀真須抵死寛。
+- 殘雨收還滴，低雲去復留。
+- 護雛憐弱燕，喚婦笑鳴鳩。
+- 碓米舂初滑，園蔬摘復抽。
+- 誰知泥沒踝，也有客相求。
 
 ## 拼音
 
-- mu4 ba4 xie2 zan1 er4 cun4 guan1 ， duan4 yun2 can2 ai3 an4 jiang1 gan1 。
-- si1 si1 mei2 zi0 shu2 shi2 yu3 ， mo4 mo4 lian4 hua1 kai1 hou4 han2 。
-- sheng4 cai3 yun2 xiang1 pi4 shu1 du4 ， xuan2 chong1 mai4 chao3 xu4 jia1 can1 。
-- ri4 chang2 juan4 jie2 wei2 si1 bi4 ， ming2 wan3 zhen1 xu1 di3 si3 kuan1 。
+- can2 yu3 shou1 huan2 di1 ， di1 yun2 qu4 fu4 liu2 。
+- hu4 chu2 lian2 ruo4 yan4 ， huan4 fu4 xiao4 ming2 jiu1 。
+- dui4 mi3 chong1 chu1 hua2 ， yuan2 shu1 zhai1 fu4 chou1 。
+- shui2 zhi1 ni2 mei2 huai2 ， ye3 you3 ke4 xiang1 qiu2 。
 
 ## 注释
 

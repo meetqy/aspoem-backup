@@ -6,10 +6,10 @@ titleSlug: si-yue-san-shi-ri-ci-xiao-si-shan-ting-xi-shang-ci-yun-jing-fu-she-re
 author: 范祖禹
 authorPinyin: fan4 zu3 yu3
 authorSlug: fan-zu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

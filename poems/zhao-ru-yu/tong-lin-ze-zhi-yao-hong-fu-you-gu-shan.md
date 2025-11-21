@@ -6,10 +6,10 @@ titleSlug: tong-lin-ze-zhi-yao-hong-fu-you-gu-shan
 author: 趙汝愚
 authorPinyin: zhao4 ru3 yu2
 authorSlug: zhao-ru-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

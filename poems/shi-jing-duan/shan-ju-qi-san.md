@@ -6,10 +6,10 @@ titleSlug: shan-ju-qi-san
 author: 釋淨端
 authorPinyin: shi4 jing4 duan1
 authorSlug: shi-jing-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

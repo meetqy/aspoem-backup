@@ -1,26 +1,26 @@
 ---
 id: mu-yan-ti-shu-ji-bo-shan-yuan-er-shi-shou-qi-er
-title: 題束季博山園二十首  其二
-titlePinyin: ti2 shu4 ji4 bo2 shan1 yuan2 er4 shi2 shou3     qi2 er4
+title: 題束季博山園二十首  其二○
+titlePinyin: ti2 shu4 ji4 bo2 shan1 yuan2 er4 shi2 shou3     qi2 er4 ○
 titleSlug: ti-shu-ji-bo-shan-yuan-er-shi-shou-qi-er
 author: 牟巘
 authorPinyin: mu4 yan3
 authorSlug: mu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 輪囷肖天巧，霑䨴含雨意。
-- 惟應野老知，此是豐年瑞。
+- 好著在眼前，世上少人覺。
+- 留此妙不傳，付與神仙著。
 
 ## 拼音
 
-- lun2 qun1 xiao4 tian1 qiao3 ， zhan1 䨴 han2 yu3 yi4 。
-- wei2 ying1 ye3 lao3 zhi1 ， ci3 shi4 feng1 nian2 rui4 。
+- hao3 zhu4 zai4 yan3 qian2 ， shi4 shang4 shao3 ren2 jue2 。
+- liu2 ci3 miao4 bu4 chuan2 ， fu4 yu3 shen2 xian1 zhu4 。
 
 ## 注释
 

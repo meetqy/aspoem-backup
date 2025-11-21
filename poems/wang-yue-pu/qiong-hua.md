@@ -6,10 +6,10 @@ titleSlug: qiong-hua
 author: 王月浦
 authorPinyin: wang2 yue4 pu3
 authorSlug: wang-yue-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

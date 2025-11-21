@@ -6,10 +6,10 @@ titleSlug: da-shu-song-xia-wo-qi-er-shou-qi-er
 author: 陳天瑞
 authorPinyin: chen2 tian1 rui4
 authorSlug: chen-tian-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

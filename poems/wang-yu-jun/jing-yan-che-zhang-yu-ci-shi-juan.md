@@ -6,10 +6,10 @@ titleSlug: jing-yan-che-zhang-yu-ci-shi-juan
 author: 王與鈞
 authorPinyin: wang2 yu3 jun1
 authorSlug: wang-yu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

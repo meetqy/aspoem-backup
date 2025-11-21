@@ -6,10 +6,10 @@ titleSlug: ti-mei-shan
 author: 張景端
 authorPinyin: zhang1 jing3 duan1
 authorSlug: zhang-jing-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xian-hu
 author: 儲惇叙
 authorPinyin: chu3 dun1 xu4
 authorSlug: chu-dun-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

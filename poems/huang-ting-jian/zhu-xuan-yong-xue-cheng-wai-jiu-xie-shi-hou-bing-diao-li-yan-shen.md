@@ -6,10 +6,10 @@ titleSlug: zhu-xuan-yong-xue-cheng-wai-jiu-xie-shi-hou-bing-diao-li-yan-shen
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

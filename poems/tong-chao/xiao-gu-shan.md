@@ -6,10 +6,10 @@ titleSlug: xiao-gu-shan
 author: 童潮
 authorPinyin: tong2 chao2
 authorSlug: tong-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

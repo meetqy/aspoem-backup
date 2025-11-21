@@ -6,21 +6,21 @@ titleSlug: ou-zuo
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去年芳草又萋萋，休歎王孫猶未歸。
-- 更見春深送春雁，三三兩兩傍雲飛。
+- 鄙夫養病苦不足，諸公覓官常有餘。
+- 自是閑人不更事，可隨雲鳥更深居。
 
 ## 拼音
 
-- qu4 nian2 fang1 cao3 you4 qi1 qi1 ， xiu1 tan4 wang2 sun1 you2 wei4 gui1 。
-- geng4 jian4 chun1 shen1 song4 chun1 yan4 ， san1 san1 liang3 liang3 bang4 yun2 fei1 。
+- bi3 fu1 yang3 bing4 ku3 bu4 zu2 ， zhu1 gong1 mi4 guan1 chang2 you3 yu2 。
+- zi4 shi4 xian2 ren2 bu4 geng1 shi4 ， ke3 sui2 yun2 niao3 geng4 shen1 ju1 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: zou-hao-ru-hu-nan-jie-qi-yi
-title: 入湖南界  其一
-titlePinyin: ru4 hu2 nan2 jie4     qi2 yi1
+title: 入湖南界  其一○
+titlePinyin: ru4 hu2 nan2 jie4     qi2 yi1 ○
 titleSlug: ru-hu-nan-jie-qi-yi
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 踏着湖南境界新，展開天宇浄無塵。
-- 增添喜色知多少，滿眼雪峰如故人。
+- 短簫長笛鼓鼕鼕，簇紙爲船棹晚風。
+- 送了鬼神無一事，大家贏得醉顔紅。
 
 ## 拼音
 
-- ta4 zhe0 hu2 nan2 jing4 jie4 xin1 ， zhan3 kai1 tian1 yu3 jing4 wu2 chen2 。
-- zeng1 tian1 xi3 se4 zhi1 duo1 shao3 ， man3 yan3 xue3 feng1 ru2 gu4 ren2 。
+- duan3 xiao1 chang2 di2 gu3 dong1 dong1 ， cu4 zhi3 wei2 chuan2 zhao4 wan3 feng1 。
+- song4 le0 gui3 shen2 wu2 yi2 shi4 ， da4 jia1 ying2 de2 zui4 yan2 hong2 。
 
 ## 注释
 

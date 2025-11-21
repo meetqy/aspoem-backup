@@ -6,10 +6,10 @@ titleSlug: jing-li-xi-shan-tong-er-ke-xiong-di-zhi-bei-shi-tai-ru-ren-you-guan-l
 author: 喻良弼
 authorPinyin: yu4 liang2 bi4
 authorSlug: yu-liang-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

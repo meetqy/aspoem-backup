@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-yan
-title: 燕
+title: 硯
 titlePinyin: yan4
 titleSlug: yan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔人懷故主，季世絕貧交。
-- 汝勝炎凉者，年年歸舊巢。
+- 圓眼珠單顆，方穿玉一漥。
+- 寶如雙白璧，草了十黄麻。
 
 ## 拼音
 
-- xi1 ren2 huai2 gu4 zhu3 ， ji4 shi4 jue2 pin2 jiao1 。
-- ru3 sheng4 yan2 liang2 zhe3 ， nian2 nian2 gui1 jiu4 chao2 。
+- yuan2 yan3 zhu1 dan1 ke1 ， fang1 chuan1 yu4 yi4 wa1 。
+- bao3 ru2 shuang1 bai2 bi4 ， cao3 le0 shi2 huang2 ma2 。
 
 ## 注释
 

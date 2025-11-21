@@ -6,21 +6,49 @@ titleSlug: qin-huai
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不將行李試間關，誰信江湖道路難。
-- 腸斷秦淮三百曲，船頭終日見方山。
+- 祖龍驅羣龍，疏此萬丈溝。
+- 雨工戀故棲，十步九回頭。
+- 至今秦淮曲，蜿若春蛇遊。
+- 舟師厭回互，歎息倚柂樓。
+- 維昔東巡初，八極圍寸眸。
+- 天端有佳氣，鬰鬰東南浮。
+- 卜云當興王，在後五百秋。
+- 叱咤召六丁，慘淡風雲愁。
+- 鑿渠斷地脈，自謂神與謀。
+- 乾坤有端倪，已露不可收。
+- 大帝開吳天，定鼎臨江陬。
+- 融融秣陵日，始照十二斿。
+- 經營暨六代，茲地稱神州。
+- 乃知歷數定，昧者徒私憂。
+- 茲事故老傳，未知信然不。
+- 姑置勿重陳，作詩歎遲留。
 
 ## 拼音
 
-- bu4 jiang1 xing2 li0 shi4 jian4 guan1 ， shui2 xin4 jiang1 hu2 dao4 lu4 nan2 。
-- chang2 duan4 qin2 huai2 san1 bai3 qu3 ， chuan2 tou2 zhong1 ri4 jian4 fang1 shan1 。
+- zu3 long2 qu1 qun2 long2 ， shu1 ci3 wan4 zhang4 gou1 。
+- yu3 gong1 lian4 gu4 qi1 ， shi2 bu4 jiu3 hui2 tou2 。
+- zhi4 jin1 qin2 huai2 qu3 ， wan1 ruo4 chun1 she2 you2 。
+- zhou1 shi1 yan4 hui2 hu4 ， tan4 xi1 yi3 yi2 lou2 。
+- wei2 xi1 dong1 xun2 chu1 ， ba1 ji2 wei2 cun4 mou2 。
+- tian1 duan1 you3 jia1 qi4 ， yu4 yu4 dong1 nan2 fu2 。
+- bu3 yun2 dang1 xing1 wang2 ， zai4 hou4 wu3 bai3 qiu1 。
+- chi4 zha4 zhao4 liu4 ding1 ， can3 dan4 feng1 yun2 chou2 。
+- zao2 qu2 duan4 di4 mai4 ， zi4 wei4 shen2 yu3 mou2 。
+- qian2 kun1 you3 duan1 ni2 ， yi3 lu4 bu4 ke3 shou1 。
+- da4 di4 kai1 wu2 tian1 ， ding4 ding3 lin2 jiang1 zou1 。
+- rong2 rong2 mo4 ling2 ri4 ， shi3 zhao4 shi2 er4 you2 。
+- jing1 ying2 ji4 liu4 dai4 ， zi1 di4 cheng1 shen2 zhou1 。
+- nai3 zhi1 li4 shu4 ding4 ， mei4 zhe3 tu2 si1 you1 。
+- zi1 shi4 gu4 lao3 chuan2 ， wei4 zhi1 xin4 ran2 bu4 。
+- gu1 zhi4 wu4 zhong4 chen2 ， zuo4 shi1 tan4 chi2 liu2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shu-fen
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早歲那知世事艱，中原北望氣如山。
-- 樓船夜雪瓜洲渡，鐵馬秋風大散關。
-- 塞上長城空自許，鏡中衰鬢已先斑。
-- 出師一表真名世，千載誰堪伯仲間。
+- 山河自古有乖分，京洛腥膻實未聞。
+- 劇盜曾從宗父命，遺民猶望岳家軍。
+- 上天悔禍終平虜，公道何人肯散群。
+- 白首自知疏報國，尚憑精意祝爐熏。
 
 ## 拼音
 
-- zao3 sui4 na4 zhi1 shi4 shi4 jian1 ， zhong1 yuan2 bei3 wang4 qi4 ru2 shan1 。
-- lou2 chuan2 ye4 xue3 gua1 zhou1 du4 ， tie3 ma3 qiu1 feng1 da4 san4 guan1 。
-- sai4 shang4 chang2 cheng2 kong1 zi4 xu1 ， jing4 zhong1 shuai1 bin4 yi3 xian1 ban1 。
-- chu1 shi1 yi4 biao3 zhen1 ming2 shi4 ， qian1 zai4 shui2 kan1 bo2 zhong4 jian4 。
+- shan1 he2 zi4 gu3 you3 guai1 fen1 ， jing1 luo4 xing1 shan1 shi2 wei4 wen2 。
+- ju4 dao4 ceng2 cong2 zong1 fu4 ming4 ， yi2 min2 you2 wang4 yue4 jia1 jun1 。
+- shang4 tian1 hui3 huo4 zhong1 ping2 lu3 ， gong1 dao4 he2 ren2 ken3 san4 qun2 。
+- bai2 shou3 zi4 zhi1 shu1 bao4 guo2 ， shang4 ping2 jing1 yi4 zhu4 lu2 xun1 。
 
 ## 注释
 

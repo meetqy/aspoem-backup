@@ -6,10 +6,10 @@ titleSlug: yong-qian-qiu-you-dong-yan-shi-xin-shi-gu-he-zhi-yi-ci-qi-yun
 author: 侯賓
 authorPinyin: hou2 bin1
 authorSlug: hou-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

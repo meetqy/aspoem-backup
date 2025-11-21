@@ -6,10 +6,10 @@ titleSlug: fo-yin-yuan-gong-zi-jing-shi-huan-zuo-shi-zeng-zhi
 author: 釋可遵
 authorPinyin: shi4 ke3 zun1
 authorSlug: shi-ke-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

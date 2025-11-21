@@ -6,10 +6,10 @@ titleSlug: ci-yun-shan-zhuang-za-yong-shi-shou-xi-shuang
 author: 周密
 authorPinyin: zhou1 mi4
 authorSlug: zhou-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: huang-hou-ge-duan-wu-tie-zi-ci-wu-shou-qi-san
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅榴紫槿映池臺，玳席還當水殿開。
-- 借問天顔何大喜，皇儲親奉萬年杯。
+- 記得當年夢月符，浴蘭節後恰旬餘。
+- 欲知天錫無疆壽，認取仙蜍頷下書。
 
 ## 拼音
 
-- hong2 liu2 zi3 jin3 ying4 chi2 tai2 ， dai4 xi2 huan2 dang1 shui3 dian4 kai1 。
-- jie4 wen4 tian1 yan2 he2 da4 xi3 ， huang2 chu3 qin1 feng4 wan4 nian2 bei1 。
+- ji4 de2 dang1 nian2 meng4 yue4 fu2 ， yu4 lan2 jie2 hou4 qia4 xun2 yu2 。
+- yu4 zhi1 tian1 xi1 wu2 jiang1 shou4 ， ren4 qu3 xian1 chu2 han4 xia4 shu1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhou-jia-hui-yuan-xing
 author: 黄叔美
 authorPinyin: huang2 shu1 mei3
 authorSlug: huang-shu-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

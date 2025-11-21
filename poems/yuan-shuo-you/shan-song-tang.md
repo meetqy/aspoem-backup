@@ -6,25 +6,29 @@ titleSlug: shan-song-tang
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 庭前雲蓋碧巉嚴，堂上先生雪滿髯。
-- 說藥客來聊下榻，謁齋僧去便垂簾。
-- 種時法好花難謝，買處錢多石易添。
-- 子舍光榮身壯健，只將香火事華嚴。
+- 家法傳忠孝，朝英仰正平。
+- 抗詞嚴廟制，勇去樂親榮。
+- 一室從新扁，羣公詠落成。
+- 清風天籟靜，斜日雪山橫。
+- 養志閔曾重，浮名廣受輕。
+- 聞風千載下，凜凜萬夫驚。
 
 ## 拼音
 
-- ting2 qian2 yun2 gai4 bi4 chan2 yan2 ， tang2 shang4 xian1 sheng0 xue3 man3 ran2 。
-- shuo1 yao4 ke4 lai2 liao2 xia4 ta4 ， ye4 zhai1 seng1 qu4 bian4 chui2 lian2 。
-- zhong3 shi2 fa3 hao3 hua1 nan2 xie4 ， mai3 chu3 qian2 duo1 shi2 yi4 tian1 。
-- zi3 she4 guang1 rong2 shen1 zhuang4 jian4 ， zhi1 jiang1 xiang1 huo3 shi4 hua2 yan2 。
+- jia1 fa3 chuan2 zhong1 xiao4 ， chao2 ying1 yang3 zheng4 ping2 。
+- kang4 ci2 yan2 miao4 zhi4 ， yong3 qu4 le4 qin1 rong2 。
+- yi2 shi4 cong2 xin1 bian3 ， qun2 gong1 yong3 luo4 cheng2 。
+- qing1 feng1 tian1 lai4 jing4 ， xie2 ri4 xue3 shan1 heng2 。
+- yang3 zhi4 min3 ceng2 zhong4 ， fu2 ming2 guang3 shou4 qing1 。
+- wen2 feng1 qian1 zai4 xia4 ， lin3 lin3 wan4 fu1 jing1 。
 
 ## 注释
 

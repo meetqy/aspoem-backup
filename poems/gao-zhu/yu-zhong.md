@@ -6,25 +6,21 @@ titleSlug: yu-zhong
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霍地春歸喚不譍，客中容易鬢星星。
-- 漫山風雨櫻桃紫，繞屋煙雲薜荔青。
-- 姑惡恨誰能自苦，子規催客厭人聽。
-- 閉門獨坐難拋酒，生怕離愁到短屏。
+- 濃雲漠漠雨飛飛，不放東風取次吹。
+- 先自一春晴意少，那堪梅子欲黄時。
 
 ## 拼音
 
-- huo4 di4 chun1 gui1 huan4 bu4 ying1 ， ke4 zhong1 rong2 yi4 bin4 xing1 xing0 。
-- man4 shan1 feng1 yu3 ying1 tao2 zi3 ， rao4 wu1 yan1 yun2 bi4 li4 qing1 。
-- gu1 e4 hen4 shui2 neng2 zi4 ku3 ， zi3 gui1 cui1 ke4 yan4 ren2 ting1 。
-- bi4 men2 du2 zuo4 nan2 pao1 jiu3 ， sheng1 pa4 li2 chou2 dao4 duan3 ping2 。
+- nong2 yun2 mo4 mo4 yu3 fei1 fei1 ， bu2 fang4 dong1 feng1 qu3 ci4 chui1 。
+- xian1 zi4 yi4 chun1 qing2 yi4 shao3 ， na4 kan1 mei2 zi0 yu4 huang2 shi2 。
 
 ## 注释
 

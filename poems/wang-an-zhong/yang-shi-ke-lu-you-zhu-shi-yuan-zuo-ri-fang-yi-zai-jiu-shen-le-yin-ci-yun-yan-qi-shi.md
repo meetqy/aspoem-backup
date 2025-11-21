@@ -6,10 +6,10 @@ titleSlug: yang-shi-ke-lu-you-zhu-shi-yuan-zuo-ri-fang-yi-zai-jiu-shen-le-yin-ci
 author: 王安中
 authorPinyin: wang2 an1 zhong1
 authorSlug: wang-an-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

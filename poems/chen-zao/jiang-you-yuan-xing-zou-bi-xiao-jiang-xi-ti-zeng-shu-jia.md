@@ -6,10 +6,10 @@ titleSlug: jiang-you-yuan-xing-zou-bi-xiao-jiang-xi-ti-zeng-shu-jia
 author: 陳藻
 authorPinyin: chen2 zao3
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

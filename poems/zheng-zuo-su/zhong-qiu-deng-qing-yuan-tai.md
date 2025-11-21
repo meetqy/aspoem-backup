@@ -6,9 +6,9 @@ titleSlug: zhong-qiu-deng-qing-yuan-tai
 author: 鄭作肅
 authorPinyin: zheng4 zuo4 su4
 authorSlug: zheng-zuo-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

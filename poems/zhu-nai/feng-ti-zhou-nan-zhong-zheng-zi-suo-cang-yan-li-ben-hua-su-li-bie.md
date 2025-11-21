@@ -6,10 +6,10 @@ titleSlug: feng-ti-zhou-nan-zhong-zheng-zi-suo-cang-yan-li-ben-hua-su-li-bie
 author: 朱鼐
 authorPinyin: zhu1 nai4
 authorSlug: zhu-nai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

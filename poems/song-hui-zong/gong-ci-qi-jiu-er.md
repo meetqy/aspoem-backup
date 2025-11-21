@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千步廻廊遠接連，疊山盈壁狀天然。
-- 重新繪畫非塵境，不是高真即列仙。
+- 平明綵仗幸琳宮，紫府仙童下九重。
+- 整頓瓏璁時駐馬，畫工暗地貌真容。
 
 ## 拼音
 
-- qian1 bu4 hui2 lang2 yuan3 jie1 lian2 ， die2 shan1 ying2 bi4 zhuang4 tian1 ran2 。
-- chong2 xin1 hui4 hua4 fei1 chen2 jing4 ， bu2 shi4 gao1 zhen1 ji2 lie4 xian1 。
+- ping2 ming2 cai3 zhang4 xing4 lin2 gong1 ， zi3 fu3 xian1 tong2 xia4 jiu3 chong2 。
+- zheng3 dun4 long2 cong1 shi2 zhu4 ma3 ， hua4 gong1 an4 di4 mao4 zhen1 rong2 。
 
 ## 注释
 

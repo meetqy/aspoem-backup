@@ -6,25 +6,25 @@ titleSlug: du-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 城上長更續短更，江平天迥雁方征。
-- 燈明紙帳雪霜色，火熟銅瓶風雨聲。
-- 濁酒未傾心已怯，細書時讀眼猶明。
-- 蕭然一室平生慣，纛下何須擁萬兵。
+- 燈花寒自結，雪片夜方深。
+- 瘦影參危坐，清愁入苦吟。
+- 江湖身汗漫，藥石病侵尋。
+- 朋舊凋零盡，何人識此心。
 
 ## 拼音
 
-- cheng2 shang4 chang2 geng4 xu4 duan3 geng4 ， jiang1 ping2 tian1 jiong3 yan4 fang1 zheng1 。
-- deng1 ming2 zhi3 zhang4 xue3 shuang1 se4 ， huo3 shu2 tong2 ping2 feng1 yu3 sheng1 。
-- zhuo2 jiu3 wei4 qing1 xin1 yi3 qie4 ， xi4 shu1 shi2 du2 yan3 you2 ming2 。
-- xiao1 ran2 yi2 shi4 ping2 sheng1 guan4 ， dao4 xia4 he2 xu1 yong1 wan4 bing1 。
+- deng1 hua1 han2 zi4 jie2 ， xue3 pian4 ye4 fang1 shen1 。
+- shou4 ying3 can1 wei1 zuo4 ， qing1 chou2 ru4 ku3 yin2 。
+- jiang1 hu2 shen1 han4 man4 ， yao4 shi2 bing4 qin1 xun2 。
+- peng2 jiu4 diao1 ling2 jin4 ， he2 ren2 shi2 ci3 xin1 。
 
 ## 注释
 

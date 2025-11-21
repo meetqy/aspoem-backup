@@ -6,10 +6,10 @@ titleSlug: shi-san-ri-yin-yu-yuan-chang-fu-si-yuan-yan-zhang-bi-zhi
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

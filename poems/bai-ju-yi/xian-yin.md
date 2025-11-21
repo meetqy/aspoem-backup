@@ -9,18 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自從苦學空門法，銷盡平生種種心。
-- 唯有詩魔降未得，每逢風月一閑吟。
+- 貧窮汲汲求衣食，富貴營營役心力。
+- 人生不富即貧窮，光陰易過閑難得。
+- 我今幸在窮富間，雖在朝廷不入山。
+- 看雪尋花翫風月，洛陽城裏七年閑。
 
 ## 拼音
 
-- zi4 cong2 ku3 xue2 kong1 men2 fa3 ， xiao1 jin4 ping2 sheng1 zhong3 zhong3 xin1 。
-- wei2 you3 shi1 mo2 jiang4 wei4 de2 ， mei3 feng2 feng1 yue4 yi1 xian2 yin2 。
+- pin2 qiong2 ji2 ji2 qiu2 yi1 shi2 ， fu4 gui4 ying2 ying2 yi4 xin1 li4 。
+- ren2 sheng1 bu2 fu4 ji2 pin2 qiong2 ， guang1 yin1 yi4 guo4 xian2 nan2 de2 。
+- wo3 jin1 xing4 zai4 qiong2 fu4 jian4 ， sui1 zai4 chao2 ting2 bu2 ru4 shan1 。
+- kan4 xue3 xun2 hua1 wan2 feng1 yue4 ， luo4 yang2 cheng2 li3 qi1 nian2 xian2 。
 
 ## 注释
 

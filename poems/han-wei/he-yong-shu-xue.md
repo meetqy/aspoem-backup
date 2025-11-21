@@ -6,25 +6,25 @@ titleSlug: he-yong-shu-xue
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浴鳳池邊雪舞風，題詩高揖杜陵翁。
-- 懷人共惜車音斷，對酒須論盞底空。
-- 授簡久虛梁苑候，引舟誰過剡溪中。
-- 今朝白雪聞君咏，千載風流未覺窮。
+- 二十年來野逸身，懶能奔走傍埃塵。
+- 偶逢閭里閑游伴，同過叢林燕坐人。
+- 世事糾紛寧有盡，勞生蕭散不妨頻。
+- 晴陽緩轡殊多適，它日重來訪道真。
 
 ## 拼音
 
-- yu4 feng4 chi2 bian1 xue3 wu3 feng1 ， ti2 shi1 gao1 yi1 du4 ling2 weng1 。
-- huai2 ren2 gong4 xi1 ju1 yin1 duan4 ， dui4 jiu3 xu1 lun4 zhan3 di3 kong1 。
-- shou4 jian3 jiu3 xu1 liang2 yuan4 hou4 ， yin3 zhou1 shui2 guo4 shan4 xi1 zhong1 。
-- jin1 zhao1 bai2 xue3 wen2 jun1 yong3 ， qian1 zai4 feng1 liu2 wei4 jue2 qiong2 。
+- er4 shi2 nian2 lai2 ye3 yi4 shen1 ， lan3 neng2 ben1 zou3 bang4 ai1 chen2 。
+- ou3 feng2 lü2 li3 xian2 you2 ban4 ， tong2 guo4 cong2 lin2 yan4 zuo4 ren2 。
+- shi4 shi4 jiu1 fen1 ning2 you3 jin4 ， lao2 sheng1 xiao1 san4 bu4 fang2 bin1 。
+- qing2 yang2 huan3 pei4 shu1 duo1 shi4 ， ta1 ri4 zhong4 lai2 fang3 dao4 zhen1 。
 
 ## 注释
 

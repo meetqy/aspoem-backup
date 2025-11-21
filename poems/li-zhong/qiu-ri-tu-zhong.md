@@ -9,22 +9,18 @@ authorSlug: li-zhong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 竹林已蕭索，客思正如讎。
-- 舊業吳江外，新蟬楚驛頭。
-- 遙天疎雨過，列岫亂雲收。
-- 今夕誰家宿，孤吟月色秋。
+- 信步騰騰野岸邊，離家都爲利名牽。
+- 疎林一路斜陽裏，颯颯西風滿耳蟬。
 
 ## 拼音
 
-- zhu2 lin2 yi3 xiao1 suo3 ， ke4 si1 zheng4 ru2 chou2 。
-- jiu4 ye4 wu2 jiang1 wai4 ， xin1 chan2 chu3 yi4 tou2 。
-- yao2 tian1 shu1 yu3 guo4 ， lie4 xiu4 luan4 yun2 shou1 。
-- jin1 xi1 shui2 jia1 su4 ， gu1 yin2 yue4 se4 qiu1 。
+- xin4 bu4 teng2 teng2 ye3 an4 bian1 ， li2 jia1 dou1 wei2 li4 ming2 qian1 。
+- shu1 lin2 yi2 lu4 xie2 yang2 li3 ， sa4 sa4 xi1 feng1 man3 er3 chan2 。
 
 ## 注释
 

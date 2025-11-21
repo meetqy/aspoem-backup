@@ -6,10 +6,10 @@ titleSlug: bian-shi-fang-ji-you-zhong-shi-zhi-yu-zhong-chu-jiao-hou-zhi
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

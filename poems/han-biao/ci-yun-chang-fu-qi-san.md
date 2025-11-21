@@ -6,25 +6,25 @@ titleSlug: ci-yun-chang-fu-qi-san
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古道定誰成，莊周與淨名。
-- 勞哉秦外趣，甚矣潁陽清。
-- 並舍披衣去，行橋拄杖聲。
-- 遥知園列樹，新好看初榮。
+- 既貧且病是今年，容貌音聲亦變遷。
+- 縱起步趨終倦矣，訥於言語每頹然。
+- 秋涼頗似如人意，月好翻能攪我眠。
+- 試把閑情和佳句，瑞峰何處入章泉。
 
 ## 拼音
 
-- gu3 dao4 ding4 shui2 cheng2 ， zhuang1 zhou1 yu3 jing4 ming2 。
-- lao2 zai1 qin2 wai4 qu4 ， shen4 yi3 ying3 yang2 qing1 。
-- bing4 she4 pi1 yi1 qu4 ， xing2 qiao2 zhu3 zhang4 sheng1 。
-- yao2 zhi1 yuan2 lie4 shu4 ， xin1 hao3 kan4 chu1 rong2 。
+- ji4 pin2 qie3 bing4 shi4 jin1 nian2 ， rong2 mao4 yin1 sheng1 yi4 bian4 qian1 。
+- zong4 qi3 bu4 qu1 zhong1 juan4 yi3 ， ne4 wu1 yan2 yu3 mei3 tui2 ran2 。
+- qiu1 liang2 po1 si4 ru2 ren2 yi4 ， yue4 hao3 fan1 neng2 jiao3 wo3 mian2 。
+- shi4 ba3 xian2 qing2 he2 jia1 ju4 ， rui4 feng1 he2 chu3 ru4 zhang1 quan2 。
 
 ## 注释
 

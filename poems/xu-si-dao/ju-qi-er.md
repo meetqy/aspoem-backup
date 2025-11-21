@@ -1,24 +1,24 @@
 ---
 id: xu-si-dao-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 徐似道
 authorPinyin: xu2 si4 dao4
 authorSlug: xu-si-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小桃洗面添光澤，未點胭脂已自紅。
+- 化成銀地佛應喜，移下玉樓天不知。
 
 ## 拼音
 
-- xiao3 tao2 xi3 mian4 tian1 guang1 ze2 ， wei4 dian3 yan1 zhi0 yi3 zi4 hong2 。
+- hua4 cheng2 yin2 di4 fo2 ying1 xi3 ， yi2 xia4 yu4 lou2 tian1 bu4 zhi1 。
 
 ## 注释
 

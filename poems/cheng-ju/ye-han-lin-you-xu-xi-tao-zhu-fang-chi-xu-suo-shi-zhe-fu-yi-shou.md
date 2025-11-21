@@ -6,10 +6,10 @@ titleSlug: ye-han-lin-you-xu-xi-tao-zhu-fang-chi-xu-suo-shi-zhe-fu-yi-shou
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

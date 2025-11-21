@@ -6,10 +6,10 @@ titleSlug: zhan-bo-hua
 author: 潘鄭臺
 authorPinyin: pan1 zheng4 tai2
 authorSlug: pan-zheng-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

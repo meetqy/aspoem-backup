@@ -6,10 +6,10 @@ titleSlug: you-jiu-suo
 author: 沈中行
 authorPinyin: shen3 zhong1 hang2
 authorSlug: shen-zhong-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

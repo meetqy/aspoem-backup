@@ -6,10 +6,10 @@ titleSlug: guo-xian-du-xu-shi-shan-ju-qi-er
 author: 李邦獻
 authorPinyin: li3 bang1 xian4
 authorSlug: li-bang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

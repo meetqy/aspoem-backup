@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-si
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鬬雞園裏城非雅，射鴨池邊豈足多。
-- 最好芰荷香隔岸，畫船搖曳按笙歌。
+- 兩行新札寄霜紈，圓柄均裝七寶檀。
+- 殿記宣和書四字，禁中傳得作榮觀。
 
 ## 拼音
 
-- dou4 ji1 yuan2 li3 cheng2 fei1 ya3 ， she4 ya1 chi2 bian1 qi3 zu2 duo1 。
-- zui4 hao3 ji4 he2 xiang1 ge2 an4 ， hua4 chuan2 yao2 ye4 an4 sheng1 ge1 。
+- liang3 xing2 xin1 zha2 ji4 shuang1 wan2 ， yuan2 bing3 jun1 zhuang1 qi1 bao3 tan2 。
+- dian4 ji4 xuan1 he2 shu1 si4 zi4 ， jin4 zhong1 chuan2 de2 zuo4 rong2 guan1 。
 
 ## 注释
 

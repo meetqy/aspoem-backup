@@ -6,10 +6,10 @@ titleSlug: jia-yang-hui-yi-qi-fu-shu-hou-suo-fu-lin-qing-ting-shi-qiu-he-yin-yon
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

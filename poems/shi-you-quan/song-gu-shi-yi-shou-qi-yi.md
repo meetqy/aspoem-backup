@@ -1,26 +1,26 @@
 ---
 id: shi-you-quan-song-gu-shi-yi-shou-qi-yi
-title: 頌古十一首  其一
-titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1
+title: 頌古十一首  其一○
+titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-yi-shou-qi-yi
 author: 釋有權
 authorPinyin: shi4 you3 quan2
 authorSlug: shi-you-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石上栽花分外奇，枝頭春色暗芳菲。
-- 馨香徧界無人嗅，一任狂風取次吹。
+- 揭大夔鼓噪紅塵，徧地刀鎗解出身。
+- 結角羅紋隨處入，銀山鐵壁是通津。
 
 ## 拼音
 
-- shi2 shang4 zai1 hua1 fen4 wai4 qi2 ， zhi1 tou2 chun1 se4 an4 fang1 fei1 。
-- xin1 xiang1 bian4 jie4 wu2 ren2 xiu4 ， yi2 ren4 kuang2 feng1 qu3 ci4 chui1 。
+- jie1 da4 kui2 gu3 zao4 hong2 chen2 ， bian4 di4 dao1 qiang1 jie3 chu1 shen1 。
+- jie2 jiao3 luo2 wen2 sui2 chu3 ru4 ， yin2 shan1 tie3 bi4 shi4 tong1 jin1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shi-seng-chang-bu-qing-yi-mei-hua-ju-de-ming-yu-shi-xue-hou-ta-yue-xi
 author: 楊冠卿
 authorPinyin: yang2 guan1 qing1
 authorSlug: yang-guan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

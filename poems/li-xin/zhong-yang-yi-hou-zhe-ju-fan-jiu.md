@@ -6,10 +6,10 @@ titleSlug: zhong-yang-yi-hou-zhe-ju-fan-jiu
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

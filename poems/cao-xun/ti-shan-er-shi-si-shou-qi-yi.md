@@ -1,26 +1,26 @@
 ---
 id: cao-xun-ti-shan-er-shi-si-shou-qi-yi
-title: 題扇二十四首  其一
-titlePinyin: ti2 shan4 er4 shi2 si4 shou3     qi2 yi1
+title: 題扇二十四首  其一○
+titlePinyin: ti2 shan4 er4 shi2 si4 shou3     qi2 yi1 ○
 titleSlug: ti-shan-er-shi-si-shou-qi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霏微梅雨暗林塘，潤逼琴絲草木香。
-- 捲箔鈎簾無一事，篆烟終日伴清凉。
+- 紅槃花上綠烟微，風轉天香暖著衣。
+- 行遍四橋閑竚立，碧波時有綵鴛飛。
 
 ## 拼音
 
-- fei1 wei1 mei2 yu3 an4 lin2 tang2 ， run4 bi1 qin2 si1 cao3 mu4 xiang1 。
-- juan3 bo2 gou1 lian2 wu2 yi2 shi4 ， zhuan4 yan1 zhong1 ri4 ban4 qing1 liang2 。
+- hong2 pan2 hua1 shang4 lü4 yan1 wei1 ， feng1 zhuan3 tian1 xiang1 nuan3 zhu4 yi1 。
+- xing2 bian4 si4 qiao2 xian2 zhu4 li4 ， bi4 bo1 shi2 you3 cai3 yuan1 fei1 。
 
 ## 注释
 

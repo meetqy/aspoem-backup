@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嬌雲溶漾作春晴，繡轂清風出鳳城。
-- 簾底紅粧方笑語，通衢争聽賣花聲。
+- 龍舟艤岸簇樓臺，蘭棹輕飛兩翅開。
+- 撃鼓鳴鐃颺旗幟，早來觀賞暮方廻。
 
 ## 拼音
 
-- jiao1 yun2 rong2 yang4 zuo4 chun1 qing2 ， xiu4 gu3 qing1 feng1 chu1 feng4 cheng2 。
-- lian2 di3 hong2 zhuang1 fang1 xiao4 yu3 ， tong1 qu2 zheng1 ting1 mai4 hua1 sheng1 。
+- long2 zhou1 yi3 an4 cu4 lou2 tai2 ， lan2 zhao4 qing1 fei1 liang3 chi4 kai1 。
+- ji1 gu3 ming2 nao2 yang2 qi2 zhi4 ， zao3 lai2 guan1 shang3 mu4 fang1 hui2 。
 
 ## 注释
 

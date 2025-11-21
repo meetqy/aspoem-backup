@@ -6,9 +6,9 @@ titleSlug: ju
 author: 王揚英
 authorPinyin: wang2 yang2 ying1
 authorSlug: wang-yang-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

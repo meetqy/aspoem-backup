@@ -6,25 +6,21 @@ titleSlug: li-chun-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今歲春盤始住家，也勝覊旅走天涯。
-- 圃晴菜拆經霜甲，林暖梅飛徧地花。
-- 閑有工夫憂世事，老無勳業惜年華。
-- 近來死盡吟詩者，得句聊從野叟誇。
+- 枯槁蒙膏潤，誰非喜雨人。
+- 兒童翻懊惱，惜不看鞭春。
 
 ## 拼音
 
-- jin1 sui4 chun1 pan2 shi3 zhu4 jia1 ， ye3 sheng4 ji1 lü3 zou3 tian1 ya2 。
-- pu3 qing2 cai4 chai1 jing1 shuang1 jia3 ， lin2 nuan3 mei2 fei1 bian4 di4 hua1 。
-- xian2 you3 gong1 fu0 you1 shi4 shi4 ， lao3 wu2 xun1 ye4 xi1 nian2 hua2 。
-- jin4 lai2 si3 jin4 yin2 shi1 zhe3 ， de2 ju4 liao2 cong2 ye3 sou3 kua1 。
+- ku1 gao3 meng2 gao1 run4 ， shui2 fei1 xi3 yu3 ren2 。
+- er2 tong2 fan1 ao4 nao3 ， xi1 bu2 kan4 bian1 chun1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: shui-si
 author: 李覯
 authorPinyin: li3 gou4
 authorSlug: li-gou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 俗語不入耳，旅愁還到心。
-- 坐多渾易厭，夢好欲重尋。
-- 暴雨撩蓬響，殘陽過嶺陰。
-- 迴看犇競苦，此興貴南金。
+- 睡魔氣勢重千鈞，壓倒心閑食飽人。
+- 莫笑坐間常似醉，當年滿腹是精神。
 
 ## 拼音
 
-- su2 yu3 bu2 ru4 er3 ， lü3 chou2 huan2 dao4 xin1 。
-- zuo4 duo1 hun2 yi4 yan4 ， meng4 hao3 yu4 zhong4 xun2 。
-- bao4 yu3 liao2 peng2 xiang3 ， can2 yang2 guo4 ling3 yin1 。
-- hui2 kan4 ben1 jing4 ku3 ， ci3 xing1 gui4 nan2 jin1 。
+- shui4 mo2 qi4 shi4 zhong4 qian1 jun1 ， ya1 dao3 xin1 xian2 shi2 bao3 ren2 。
+- mo4 xiao4 zuo4 jian4 chang2 si4 zui4 ， dang1 nian2 man3 fu4 shi4 jing1 shen2 。
 
 ## 注释
 

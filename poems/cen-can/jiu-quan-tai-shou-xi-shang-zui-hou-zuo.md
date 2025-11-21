@@ -9,20 +9,18 @@ authorSlug: cen-can
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 琵琶長笛曲相和，羌兒胡雛齊唱歌。
-- 渾炙犂牛烹野駝，交河美酒歸叵羅。
-- 三更醉後軍中寢，無奈秦山歸夢何。
+- 酒泉太守能劒舞，高堂置酒夜擊鼓。
+- 胡笳一曲斷人腸，座上相看淚如雨。
 
 ## 拼音
 
-- pi2 pa0 chang2 di2 qu3 xiang1 he2 ， qiang1 er2 hu2 chu2 qi2 chang4 ge1 。
-- hun2 zhi4 li2 niu2 peng1 ye3 tuo2 ， jiao1 he2 mei3 jiu3 gui1 po3 luo2 。
-- san1 geng1 zui4 hou4 jun1 zhong1 qin3 ， wu2 nai4 qin2 shan1 gui1 meng4 he2 。
+- jiu3 quan2 tai4 shou3 neng2 jian4 wu3 ， gao1 tang2 zhi4 jiu3 ye4 ji1 gu3 。
+- hu2 jia1 yi4 qu3 duan4 ren2 chang2 ， zuo4 shang4 xiang1 kan4 lei4 ru2 yu3 。
 
 ## 注释
 

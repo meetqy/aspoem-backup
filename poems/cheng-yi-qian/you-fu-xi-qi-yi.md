@@ -6,10 +6,10 @@ titleSlug: you-fu-xi-qi-yi
 author: 程以謙
 authorPinyin: cheng2 yi3 qian1
 authorSlug: cheng-yi-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

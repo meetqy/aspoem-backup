@@ -6,10 +6,10 @@ titleSlug: guan-wu-hou-zhen-tu
 author: 魯訔
 authorPinyin: lu3 yin2
 authorSlug: lu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

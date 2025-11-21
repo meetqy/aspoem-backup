@@ -6,10 +6,10 @@ titleSlug: shi-ju-zuo-qin-xi-cheng-chong-wen-zhang-xue-shi
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

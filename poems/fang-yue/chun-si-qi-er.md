@@ -6,21 +6,21 @@ titleSlug: chun-si-qi-er
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 杜鵑花落石闌干，新染晴波綠遶灣。
-- 小立佇詩風滿袖，一雙睡鴨占春閒。
+- 烟草茸茸匝岸齊，晴天鳬浴喜清溪。
+- 一春造化花開盡，大欠渠詩共品題。
 
 ## 拼音
 
-- du4 jian1 hua1 luo4 shi2 lan2 gan1 ， xin1 ran3 qing2 bo1 lü4 rao4 wan1 。
-- xiao3 li4 zhu4 shi1 feng1 man3 xiu4 ， yi4 shuang1 shui4 ya1 zhan4 chun1 xian2 。
+- yan1 cao3 rong2 rong2 za1 an4 qi2 ， qing2 tian1 fu2 yu4 xi3 qing1 xi1 。
+- yi4 chun1 zao4 hua4 hua1 kai1 jin4 ， da4 qian4 qu2 shi1 gong4 pin3 ti2 。
 
 ## 注释
 

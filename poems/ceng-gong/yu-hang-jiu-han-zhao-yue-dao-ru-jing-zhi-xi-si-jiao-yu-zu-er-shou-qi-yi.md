@@ -6,10 +6,10 @@ titleSlug: yu-hang-jiu-han-zhao-yue-dao-ru-jing-zhi-xi-si-jiao-yu-zu-er-shou-qi-
 author: 曾鞏
 authorPinyin: ceng2 gong3
 authorSlug: ceng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

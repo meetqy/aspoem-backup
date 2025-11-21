@@ -6,10 +6,10 @@ titleSlug: fu-que-ci-gui
 author: 程康國
 authorPinyin: cheng2 kang1 guo2
 authorSlug: cheng-kang-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

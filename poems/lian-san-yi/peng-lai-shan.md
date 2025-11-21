@@ -6,10 +6,10 @@ titleSlug: peng-lai-shan
 author: 連三益
 authorPinyin: lian2 san1 yi4
 authorSlug: lian-san-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

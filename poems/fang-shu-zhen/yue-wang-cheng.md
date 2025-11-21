@@ -6,10 +6,10 @@ titleSlug: yue-wang-cheng
 author: 方叔震
 authorPinyin: fang1 shu1 zhen4
 authorSlug: fang-shu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: wu-jin-qiao
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曳杖徜徉去，仙家洞府中。
-- 寒流清自繞，幽徑密相通。
-- 著處亭皆穩，看來景不同。
-- 是名無盡藏，具眼悉和融。
+- 園林作佛事，施子不少吝。
+- 携笻渡一溪，華藏愈無盡。
 
 ## 拼音
 
-- ye4 zhang4 chang2 yang2 qu4 ， xian1 jia1 dong4 fu3 zhong1 。
-- han2 liu2 qing1 zi4 rao4 ， you1 jing4 mi4 xiang1 tong1 。
-- zhu4 chu3 ting2 jie1 wen3 ， kan4 lai2 jing3 bu4 tong2 。
-- shi4 ming2 wu2 jin4 cang2 ， ju4 yan3 xi1 he2 rong2 。
+- yuan2 lin2 zuo4 fo2 shi4 ， shi1 zi3 bu4 shao3 lin4 。
+- xie2 qiong2 du4 yi4 xi1 ， hua2 cang2 yu4 wu2 jin4 。
 
 ## 注释
 

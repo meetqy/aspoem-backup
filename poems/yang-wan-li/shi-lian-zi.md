@@ -6,21 +6,21 @@ titleSlug: shi-lian-zi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蜂不禁人採蜜忙，荷花蕊裏作蜂房。
-- 不知玉蛹甜於蜜，又被詩人嚼作霜。
+- 綠玉蜂房白玉蜂，折來带露復含風。
+- 玻瓈盆面冰漿底，醉嚼新蓮一百蓬。
 
 ## 拼音
 
-- feng1 bu4 jin1 ren2 cai3 mi4 mang2 ， he2 hua1 rui3 li3 zuo4 feng1 fang2 。
-- bu4 zhi1 yu4 yong3 tian2 wu1 mi4 ， you4 bei4 shi1 ren2 jiao2 zuo4 shuang1 。
+- lü4 yu4 feng1 fang2 bai2 yu4 feng1 ， zhe2 lai2 dai4 lu4 fu4 han2 feng1 。
+- bo1 li2 pen2 mian4 bing1 jiang1 di3 ， zui4 jiao2 xin1 lian2 yi4 bai3 peng2 。
 
 ## 注释
 

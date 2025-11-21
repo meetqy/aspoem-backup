@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu-qi-yi
 author: 林拱中
 authorPinyin: lin2 gong3 zhong1
 authorSlug: lin-gong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

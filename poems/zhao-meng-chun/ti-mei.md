@@ -6,10 +6,10 @@ titleSlug: ti-mei
 author: 趙孟淳
 authorPinyin: zhao4 meng4 chun2
 authorSlug: zhao-meng-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

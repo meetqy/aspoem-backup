@@ -6,10 +6,10 @@ titleSlug: jiu-ri-ling-xing-shan-gu-jiu-shang-ju
 author: 鄧深
 authorPinyin: deng4 shen1
 authorSlug: deng-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

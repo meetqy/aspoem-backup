@@ -1,26 +1,26 @@
 ---
 id: shi-shi-gui-song-gu-qi-shi-liu-shou-qi-wu
-title: 頌古七十六首  其五
-titlePinyin: song4 gu3 qi1 shi2 liu4 shou3     qi2 wu3
+title: 頌古七十六首  其五○
+titlePinyin: song4 gu3 qi1 shi2 liu4 shou3     qi2 wu3 ○
 titleSlug: song-gu-qi-shi-liu-shou-qi-wu
 author: 釋士珪
 authorPinyin: shi4 shi4 gui1
 authorSlug: shi-shi-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舉手攀南斗，翻身倚北辰。
-- 出頭天外看，誰是我般人。
+- 年來萬事總成魔，老去閑添白髪多。
+- 道泰不傳天子令，時清休唱太平歌。
 
 ## 拼音
 
-- ju3 shou3 pan1 nan2 dou3 ， fan1 shen1 yi3 bei3 chen2 。
-- chu1 tou2 tian1 wai4 kan4 ， shui2 shi4 wo3 ban1 ren2 。
+- nian2 lai2 wan4 shi4 zong3 cheng2 mo2 ， lao3 qu4 xian2 tian1 bai2 fa4 duo1 。
+- dao4 tai4 bu4 chuan2 tian1 zi3 ling4 ， shi2 qing1 xiu1 chang4 tai4 ping2 ge1 。
 
 ## 注释
 

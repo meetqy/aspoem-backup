@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-yi-ba
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 世利貪拘束，欺心自不知。
-- 一真求意在，四敘絕參差。
-- 頓悟超諸聖，娛情改換癡。
-- 生前如似夢，願重細推之。
+- 烘烘火色水中論，至寶須教鼎內存。
+- 點化自然常在手，區分道理有玄門。
+- 莫將容易誇言說，盡入虛無是我尊。
+- 天動地神邪可畏，丹能飛走似雲奔。
 
 ## 拼音
 
-- shi4 li4 tan1 ju1 shu4 ， qi1 xin1 zi4 bu4 zhi1 。
-- yi4 zhen1 qiu2 yi4 zai4 ， si4 xu4 jue2 can1 cha4 。
-- dun4 wu4 chao1 zhu1 sheng4 ， yu2 qing2 gai3 huan4 chi1 。
-- sheng1 qian2 ru2 si4 meng4 ， yuan4 zhong4 xi4 tui1 zhi1 。
+- hong1 hong1 huo3 se4 shui3 zhong1 lun4 ， zhi4 bao3 xu1 jiao4 ding3 nei4 cun2 。
+- dian3 hua4 zi4 ran2 chang2 zai4 shou3 ， qu1 fen1 dao4 li3 you3 xuan2 men2 。
+- mo4 jiang1 rong2 yi4 kua1 yan2 shuo1 ， jin4 ru4 xu1 wu2 shi4 wo3 zun1 。
+- tian1 dong4 di4 shen2 xie2 ke3 wei4 ， dan1 neng2 fei1 zou3 si4 yun2 ben1 。
 
 ## 注释
 

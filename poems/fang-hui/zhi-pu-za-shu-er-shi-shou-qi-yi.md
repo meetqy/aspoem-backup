@@ -1,30 +1,30 @@
 ---
 id: fang-hui-zhi-pu-za-shu-er-shi-shou-qi-yi
-title: 治圃雜書二十首  其一
-titlePinyin: zhi4 pu3 za2 shu1 er4 shi2 shou3     qi2 yi1
+title: 治圃雜書二十首  其一○
+titlePinyin: zhi4 pu3 za2 shu1 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: zhi-pu-za-shu-er-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天地一閒人，園林數畝春。
-- 認苗諳藥性，養果護花身。
-- 社友同疏飯，鄰兒笑野巾。
-- 空庭維老馬，不出動經旬。
+- 新年雨雪頻，五戊又踰旬。
+- 寒更過於臘，晴猶不似春。
+- 燕瘖甘再蟄，花瘦黯無神。
+- 賣樹翁來說，村多疫死人。
 
 ## 拼音
 
-- tian1 di4 yi4 xian2 ren2 ， yuan2 lin2 shu4 mu3 chun1 。
-- ren4 miao2 an1 yao4 xing4 ， yang3 guo3 hu4 hua1 shen1 。
-- she4 you3 tong2 shu1 fan4 ， lin2 er2 xiao4 ye3 jin1 。
-- kong1 ting2 wei2 lao3 ma3 ， bu4 chu1 dong4 jing1 xun2 。
+- xin1 nian2 yu3 xue3 bin1 ， wu3 wu4 you4 yu2 xun2 。
+- han2 geng4 guo4 wu1 la4 ， qing2 you2 bu2 si4 chun1 。
+- yan4 yin1 gan1 zai4 zhe2 ， hua1 shou4 an4 wu2 shen2 。
+- mai4 shu4 weng1 lai2 shuo1 ， cun1 duo1 yi4 si3 ren2 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: jiao-miao-chao-hui-ge-ci-xia-xiang-tai-miao-qi-yi
-title: 祫饗太廟  其一
-titlePinyin: xia2 xiang3 tai4 miao4     qi2 yi1
+title: 祫饗太廟  其一○
+titlePinyin: xia2 xiang3 tai4 miao4     qi2 yi1 ○
 titleSlug: xia-xiang-tai-miao-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 猗我僖祖，德潜而充。
-- 慶之所基，日茂以崇。
-- 施及後嗣，天命有融。
-- 廟歌載之，播于無窮。
+- 嘉牲在俎，廣樂在庭。
+- 其所將者，曰躬曰誠。
+- 神兮來歆，以安以寧。
+- 以錫壽嘏，惟皇是膺。
 
 ## 拼音
 
-- yi1 wo3 xi1 zu3 ， de2 qian2 er2 chong1 。
-- qing4 zhi1 suo3 ji1 ， ri4 mao4 yi3 chong2 。
-- shi1 ji2 hou4 si4 ， tian1 ming4 you3 rong2 。
-- miao4 ge1 zai4 zhi1 ， bo1 yu2 wu2 qiong2 。
+- jia1 sheng1 zai4 zu3 ， guang3 le4 zai4 ting2 。
+- qi2 suo3 jiang1 zhe3 ， yue1 gong1 yue1 cheng2 。
+- shen2 xi1 lai2 xin1 ， yi3 an1 yi3 ning2 。
+- yi3 xi1 shou4 gu3 ， wei2 huang2 shi4 ying1 。
 
 ## 注释
 

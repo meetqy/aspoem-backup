@@ -6,10 +6,10 @@ titleSlug: ju-xi-hu-wu-li-zhi-bai-ta-yuan-ming-lan-lian-wu-liu-zui-you-jue-yun
 author: 員興宗
 authorPinyin: yuan2 xing1 zong1
 authorSlug: yuan-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

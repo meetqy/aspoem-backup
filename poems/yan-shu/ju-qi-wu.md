@@ -1,24 +1,24 @@
 ---
 id: yan-shu-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 干斗氣沈龍已化，置芻人去榻猶懸。
+- 青帝回風初習習，黄人捧日故遲遲。
 
 ## 拼音
 
-- gan1 dou4 qi4 shen3 long2 yi3 hua4 ， zhi4 chu2 ren2 qu4 ta4 you2 xuan2 。
+- qing1 di4 hui2 feng1 chu1 xi2 xi2 ， huang2 ren2 peng3 ri4 gu4 chi2 chi2 。
 
 ## 注释
 

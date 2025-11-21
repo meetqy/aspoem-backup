@@ -6,9 +6,9 @@ titleSlug: xi-dou-guan-shu-xian-bei-yin-zheng-de-yi-yang-cheng-xia-ri-chi-pu-bia
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

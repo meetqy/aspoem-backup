@@ -6,25 +6,25 @@ titleSlug: song-you-ren
 author: 劉宰
 authorPinyin: liu2 zai3
 authorSlug: liu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年來去客半西東，須信勞生等轉蓬。
-- 萬里相望成別恨，一聲何處遞冥鴻。
-- 人情對景分憂樂，月色於今豈異同。
-- 莫把壯懷成索寞，舉盃聊與吸清風。
+- 凜凜霜臺起事功，翛翛三徑任窮通。
+- 幾因節物傷離別，無奈行藏苦異同。
+- 白露感懷悲杜老，黄樓得句憶坡翁。
+- 鴈行何日齊飛去，岸幘相看酒一中。
 
 ## 拼音
 
-- nian2 lai2 qu4 ke4 ban4 xi1 dong1 ， xu1 xin4 lao2 sheng1 deng3 zhuan3 peng2 。
-- wan4 li3 xiang1 wang4 cheng2 bie2 hen4 ， yi4 sheng1 he2 chu3 di4 ming2 hong2 。
-- ren2 qing2 dui4 jing3 fen1 you1 le4 ， yue4 se4 wu1 jin1 qi3 yi4 tong2 。
-- mo4 ba3 zhuang4 huai2 cheng2 suo3 mo4 ， ju3 bei1 liao2 yu3 xi1 qing1 feng1 。
+- lin3 lin3 shuang1 tai2 qi3 shi4 gong1 ， xiao1 xiao1 san1 jing4 ren4 qiong2 tong1 。
+- ji1 yin1 jie2 wu4 shang1 li2 bie2 ， wu2 nai4 xing2 cang2 ku3 yi4 tong2 。
+- bai2 lu4 gan3 huai2 bei1 du4 lao3 ， huang2 lou2 de2 ju4 yi4 po1 weng1 。
+- yan4 xing2 he2 ri4 qi2 fei1 qu4 ， an4 ze2 xiang1 kan4 jiu3 yi4 zhong1 。
 
 ## 注释
 

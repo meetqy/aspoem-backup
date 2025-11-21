@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠攪蘭芽繞徑隅，日融花氣暖縈紆。
-- 鞦韆伴侶時相約，畫板繒繩翠袖扶。
+- 集英親殿策才豪，盈廡紛紛盡雪袍。
+- 禮樂問題人罕記，就紆黼座繼蘭膏。
 
 ## 拼音
 
-- lü4 jiao3 lan2 ya2 rao4 jing4 yu2 ， ri4 rong2 hua1 qi4 nuan3 ying2 yu1 。
-- qiu1 qian1 ban4 lü3 shi2 xiang1 yue1 ， hua4 ban3 zeng1 sheng2 cui4 xiu4 fu2 。
+- ji2 ying1 qin1 dian4 ce4 cai2 hao2 ， ying2 wu3 fen1 fen1 jin4 xue3 pao2 。
+- li3 le4 wen4 ti2 ren2 han3 ji4 ， jiu4 yu1 fu3 zuo4 ji4 lan2 gao1 。
 
 ## 注释
 

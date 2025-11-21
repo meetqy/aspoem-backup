@@ -9,24 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 學佛作夢事，不須論地獄。
-- 天堂總越却，六識爲僮僕。
-- 心心無所住，處處塵不著。
-- 五道絕人行，無心是極樂。
-- 空裏見優曇，衆生作橋彴。
+- 田舍老翁如聚落，眼耳鼻舌俱失却。
+- 內外尋訪覓無蹤，舊時住處空寂寞。
+- 卻歸堂上問空王，總在此間學無作。
 
 ## 拼音
 
-- xue2 fo2 zuo4 meng4 shi4 ， bu4 xu1 lun4 di4 yu4 。
-- tian1 tang2 zong3 yue4 que4 ， liu4 shi2 wei2 tong2 pu2 。
-- xin1 xin1 wu2 suo3 zhu4 ， chu3 chu3 chen2 bu2 zhu4 。
-- wu3 dao4 jue2 ren2 hang2 ， wu2 xin1 shi4 ji2 le4 。
-- kong1 li3 jian4 you1 tan2 ， zhong4 sheng1 zuo4 qiao2 zhuo2 。
+- tian2 she4 lao3 weng1 ru2 ju4 luo4 ， yan3 er3 bi2 she2 ju4 shi1 que4 。
+- nei4 wai4 xun2 fang3 mi4 wu2 zong1 ， jiu4 shi2 zhu4 chu3 kong1 ji4 mo4 。
+- que4 gui1 tang2 shang4 wen4 kong1 wang2 ， zong3 zai4 ci3 jian4 xue2 wu2 zuo4 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ci-yun-chao-ran-yu-zhe-gui-jue-da-shi-jian-jian-fang-zhang-lao
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

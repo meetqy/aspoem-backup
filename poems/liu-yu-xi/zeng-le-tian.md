@@ -9,22 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一別舊遊盡，相逢俱涕零。
-- 在人雖晚達，於樹似冬青。
-- 痛飲連宵醉，狂吟滿坐聽。
-- 終期拋印綬，共占少微星。
+- 唯君比萱草，相見可忘憂。
+- （《白氏長慶集》卷三四《酬夢得比萱草見贈》自注引）。
 
 ## 拼音
 
-- yi4 bie2 jiu4 you2 jin4 ， xiang1 feng2 ju4 ti4 ling2 。
-- zai4 ren2 sui1 wan3 da2 ， wu1 shu4 si4 dong1 qing1 。
-- tong4 yin3 lian2 xiao1 zui4 ， kuang2 yin2 man3 zuo4 ting1 。
-- zhong1 qi1 pao1 yin4 shou4 ， gong4 zhan4 shao3 wei1 xing1 。
+- wei2 jun1 bi3 xuan1 cao3 ， xiang1 jian4 ke3 wang4 you1 。
+- （《 bai2 shi4 chang2 qing4 ji2 》 juan4 san1 si4 《 chou2 meng4 de2 bi3 xuan1 cao3 jian4 zeng4 》 zi4 zhu4 yin3 ）。
 
 ## 注释
 

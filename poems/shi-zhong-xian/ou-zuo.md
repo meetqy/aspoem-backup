@@ -6,21 +6,25 @@ titleSlug: ou-zuo
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 拾翠尋芳烈夜燈，蘆芽穿膝笑無能。
-- 飛泉泠淡與誰聼，空落斷崖千萬層。
+- 列岫霽新雨，凭欄秪澹交。
+- 夕陽明遠水，秋葉露空巢。
+- 思極曾無玷，神清未動爻。
+- 祇應千古意，誰得共雲坳。
 
 ## 拼音
 
-- shi2 cui4 xun2 fang1 lie4 ye4 deng1 ， lu2 ya2 chuan1 xi1 xiao4 wu2 neng2 。
-- fei1 quan2 ling2 dan4 yu3 shui2 ting1 ， kong1 luo4 duan4 ya2 qian1 wan4 ceng2 。
+- lie4 xiu4 ji4 xin1 yu3 ， ping2 lan2 di1 dan4 jiao1 。
+- xi1 yang2 ming2 yuan3 shui3 ， qiu1 ye4 lu4 kong1 chao2 。
+- si1 ji2 ceng2 wu2 dian4 ， shen2 qing1 wei4 dong4 yao2 。
+- qi2 ying1 qian1 gu3 yi4 ， shui2 de2 gong4 yun2 ao4 。
 
 ## 注释
 

@@ -9,22 +9,18 @@ authorSlug: wu-yuan-heng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 沱江水綠波，喧鳥去喬柯。
-- 南浦別離處，東風蘭杜多。
-- 長亭春婉娩，層漢路蹉跎。
-- 會有歸朝日，班超奈老何。
+- 望鄉臺上秦人在，學射山中杜魄哀。
+- 落日河橋千騎別，春風寂寞斾旌迴。
 
 ## 拼音
 
-- tuo2 jiang1 shui3 lü4 bo1 ， xuan1 niao3 qu4 qiao2 ke1 。
-- nan2 pu3 bie2 li2 chu3 ， dong1 feng1 lan2 du4 duo1 。
-- chang2 ting2 chun1 wan3 mian3 ， ceng2 han4 lu4 cuo1 tuo2 。
-- hui4 you3 gui1 zhao1 ri4 ， ban1 chao1 nai4 lao3 he2 。
+- wang4 xiang1 tai2 shang4 qin2 ren2 zai4 ， xue2 she4 shan1 zhong1 du4 po4 ai1 。
+- luo4 ri4 he2 qiao2 qian1 qi2 bie2 ， chun1 feng1 ji4 mo4 pei4 jing1 hui2 。
 
 ## 注释
 

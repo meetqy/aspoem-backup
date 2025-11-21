@@ -6,25 +6,29 @@ titleSlug: ru-mei
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 微雨輕雲已入梅，石榴萱草一時開。
-- 碑償宿諾淮僧去，卷錄新詩蜀使回。
-- 墨試小螺看斗硯，茶分細乳玩毫杯。
-- 客來莫誚兒嬉事，九陌紅塵更可哀。
+- 今年入梅日，雲脚垂到地。
+- 芬香小麥麨，展轉北窗睡。
+- 甲夜聞雨聲，起拜造物賜。
+- 三登于此卜，一飽可坐致。
+- 語兒高爾囷，戒婦豐爾饋。
+- 擊壤歌太平，門無督租吏。
 
 ## 拼音
 
-- wei1 yu3 qing1 yun2 yi3 ru4 mei2 ， shi2 liu0 xuan1 cao3 yi4 shi2 kai1 。
-- bei1 chang2 su4 nuo4 huai2 seng1 qu4 ， juan4 lu4 xin1 shi1 shu3 shi3 hui2 。
-- mo4 shi4 xiao3 luo2 kan4 dou4 yan4 ， cha2 fen1 xi4 ru3 wan2 hao2 bei1 。
-- ke4 lai2 mo4 qiao4 er2 xi1 shi4 ， jiu3 mo4 hong2 chen2 geng4 ke3 ai1 。
+- jin1 nian2 ru4 mei2 ri4 ， yun2 jiao3 chui2 dao4 di4 。
+- fen1 xiang1 xiao3 mai4 chao3 ， zhan3 zhuan3 bei3 chuang1 shui4 。
+- jia3 ye4 wen2 yu3 sheng1 ， qi3 bai4 zao4 wu4 ci4 。
+- san1 deng1 yu2 ci3 bu3 ， yi4 bao3 ke3 zuo4 zhi4 。
+- yu3 er2 gao1 er3 qun1 ， jie4 fu4 feng1 er3 kui4 。
+- ji1 rang3 ge1 tai4 ping2 ， men2 wu2 du1 zu1 li4 。
 
 ## 注释
 

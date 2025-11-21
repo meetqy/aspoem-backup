@@ -1,28 +1,28 @@
 ---
 id: shi-zi-yi-ji-song-qi-shi-liu-shou-qi-yi
-title: 偈頌七十六首  其一
-titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 yi1
+title: 偈頌七十六首  其一○
+titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: ji-song-qi-shi-liu-shou-qi-yi
 author: 釋子益
 authorPinyin: shi4 zi3 yi4
 authorSlug: shi-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我此一門，初無關鍵。
-- 半合半開，東扇西扇。
-- 千聞不如一見。
+- 去年今日逢冬節，撲頭撲面迎霜雪。
+- 今年冬節又來臨，屋角梅花弄曉晴。
+- 笑它魯史謾書雲。
 
 ## 拼音
 
-- wo3 ci3 yi4 men2 ， chu1 wu2 guan1 jian4 。
-- ban4 he2 ban4 kai1 ， dong1 shan4 xi1 shan4 。
-- qian1 wen2 bu4 ru2 yi2 jian4 。
+- qu4 nian2 jin1 ri4 feng2 dong1 jie2 ， pu1 tou2 pu1 mian4 ying2 shuang1 xue3 。
+- jin1 nian2 dong1 jie2 you4 lai2 lin2 ， wu1 jiao3 mei2 hua1 nong4 xiao3 qing2 。
+- xiao4 ta1 lu3 shi3 man2 shu1 yun2 。
 
 ## 注释
 

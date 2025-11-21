@@ -6,10 +6,10 @@ titleSlug: he-qian-zhong
 author: 吳江老人
 authorPinyin: wu2 jiang1 lao3 ren2
 authorSlug: wu-jiang-lao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

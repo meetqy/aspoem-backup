@@ -6,10 +6,10 @@ titleSlug: ding-mao-shi-yue-shi-ri-you-kai-xian-pu-bu-jue-liu
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

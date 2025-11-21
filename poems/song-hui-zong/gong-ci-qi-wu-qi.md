@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 資善黌堂几席開，小王初學讀書來。
-- 師儒專選英豪用，敎育當資保傅才。
+- 宗祀玄堂羽衛還，大庭齋夕駐鳴鸞。
+- 平明復賜端明赦，争看金雞立巨盤。
 
 ## 拼音
 
-- zi1 shan4 hong2 tang2 ji3 xi2 kai1 ， xiao3 wang2 chu1 xue2 du2 shu1 lai2 。
-- shi1 ru2 zhuan1 xuan3 ying1 hao2 yong4 ， jiao4 yu4 dang1 zi1 bao3 fu4 cai2 。
+- zong1 si4 xuan2 tang2 yu3 wei4 huan2 ， da4 ting2 zhai1 xi1 zhu4 ming2 luan2 。
+- ping2 ming2 fu4 ci4 duan1 ming2 she4 ， zheng1 kan4 jin1 ji1 li4 ju4 pan2 。
 
 ## 注释
 

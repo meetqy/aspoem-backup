@@ -6,10 +6,10 @@ titleSlug: fu-rong-feng
 author: 鄭芝秀
 authorPinyin: zheng4 zhi1 xiu4
 authorSlug: zheng-zhi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

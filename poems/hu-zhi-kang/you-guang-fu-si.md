@@ -6,10 +6,10 @@ titleSlug: you-guang-fu-si
 author: 胡志康
 authorPinyin: hu2 zhi4 kang1
 authorSlug: hu-zhi-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

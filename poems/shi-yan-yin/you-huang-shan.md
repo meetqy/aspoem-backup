@@ -6,10 +6,10 @@ titleSlug: you-huang-shan
 author: 釋巖隠
 authorPinyin: shi4 yan2 yin3
 authorSlug: shi-yan-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

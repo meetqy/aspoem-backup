@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-mao-zhi-shi-shou-qi-yi
-title: 耄志十首  其一
-titlePinyin: mao4 zhi4 shi2 shou3     qi2 yi1
+title: 耄志十首  其一○
+titlePinyin: mao4 zhi4 shi2 shou3     qi2 yi1 ○
 titleSlug: mao-zhi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 富貴浮榮何足道，綱常大義詎容差。
-- 皆云養子將防老，豈若嬌嬰未識爺。
-- 上欲奪情俾歸衮，臣寧斷腕不操麻。
-- 向非十日留黄力，輦路幾於誤築沙。
+- 此篇不是臣當筆，清曉貂璫忽踵門。
+- 朕欲散文安用偶，卿多古意勿傷繁。
+- 院收同列殘篇去，家有先朝聖筆存。
+- 臣億何嘗無氣性，芻言安得及王言。
 
 ## 拼音
 
-- fu4 gui4 fu2 rong2 he2 zu2 dao4 ， gang1 chang2 da4 yi4 ju4 rong2 cha4 。
-- jie1 yun2 yang3 zi3 jiang1 fang2 lao3 ， qi3 ruo4 jiao1 ying1 wei4 shi2 ye2 。
-- shang4 yu4 duo2 qing2 bi3 gui1 gun3 ， chen2 ning2 duan4 wan4 bu4 cao1 ma2 。
-- xiang4 fei1 shi2 ri4 liu2 huang2 li4 ， nian3 lu4 ji1 wu1 wu4 zhu4 sha1 。
+- ci3 pian1 bu2 shi4 chen2 dang1 bi3 ， qing1 xiao3 diao1 dang1 hu1 zhong3 men2 。
+- zhen4 yu4 san3 wen2 an1 yong4 ou3 ， qing1 duo1 gu3 yi4 wu4 shang1 fan2 。
+- yuan4 shou1 tong2 lie4 can2 pian1 qu4 ， jia1 you3 xian1 chao2 sheng4 bi3 cun2 。
+- chen2 yi4 he2 chang2 wu2 qi4 xing4 ， chu2 yan2 an1 de2 ji2 wang2 yan2 。
 
 ## 注释
 

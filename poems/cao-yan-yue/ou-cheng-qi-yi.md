@@ -1,30 +1,26 @@
 ---
 id: cao-yan-yue-ou-cheng-qi-yi
-title: 偶成  其一
-titlePinyin: ou3 cheng2     qi2 yi1
+title: 偶成  其一○
+titlePinyin: ou3 cheng2     qi2 yi1 ○
 titleSlug: ou-cheng-qi-yi
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春入園林種種奇，化工施巧太精微。
-- 山禽說我胸中事，煙柳藏他物外機。
-- 既遣杏桃空際發，又令蜂蝶近前飛。
-- 如何有眼無人見，只解西郊看落暉。
+- 我吟詩處鶑啼處，我起行時蝶舞時。
+- 踏著此機何所似，陶然如醉又如癡。
 
 ## 拼音
 
-- chun1 ru4 yuan2 lin2 zhong3 zhong3 qi2 ， hua4 gong1 shi1 qiao3 tai4 jing1 wei1 。
-- shan1 qin2 shuo1 wo3 xiong1 zhong1 shi4 ， yan1 liu3 cang2 ta1 wu4 wai4 ji1 。
-- ji4 qian3 xing4 tao2 kong1 ji4 fa1 ， you4 ling4 feng1 die2 jin4 qian2 fei1 。
-- ru2 he2 you3 yan3 wu2 ren2 jian4 ， zhi1 jie3 xi1 jiao1 kan4 luo4 hui1 。
+- wo3 yin2 shi1 chu3 ying1 ti2 chu3 ， wo3 qi3 xing2 shi2 die2 wu3 shi2 。
+- ta4 zhu4 ci3 ji1 he2 suo3 si4 ， tao2 ran2 ru2 zui4 you4 ru2 chi1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: zhan-liang-ji-zi
 author: 葉簡
 authorPinyin: ye4 jian3
 authorSlug: ye-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

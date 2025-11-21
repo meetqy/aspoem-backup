@@ -6,10 +6,10 @@ titleSlug: chong-xiu-long-xing-guan-ji-cheng-jiang-wu-er-zun-shi-qi-yi
 author: 金君卿
 authorPinyin: jin1 jun1 qing1
 authorSlug: jin-jun-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

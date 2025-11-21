@@ -6,10 +6,10 @@ titleSlug: ti-ling-jiu-si-shou-qi-yi
 author: 湯漢
 authorPinyin: tang1 han4
 authorSlug: tang-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

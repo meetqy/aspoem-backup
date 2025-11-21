@@ -9,22 +9,24 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雷電不敢伐，鱗皴勢萬端。
+- 雷電不敢伐，鱗皺勢萬端。
 - 蠹依枯節死，蛇入朽根盤。
 - 影浸僧禪濕，聲吹鶴夢寒。
 - 尋常風雨夜，應有鬼神看。
+- （《分門纂類唐歌詩》殘本卷九五《草木蟲魚類》七）。
 
 ## 拼音
 
-- lei2 dian4 bu4 gan3 fa2 ， lin2 cun1 shi4 wan4 duan1 。
+- lei2 dian4 bu4 gan3 fa2 ， lin2 zhou4 shi4 wan4 duan1 。
 - du4 yi1 ku1 jie2 si3 ， she2 ru4 xiu3 gen1 pan2 。
 - ying3 jin4 seng1 shan4 shi1 ， sheng1 chui1 he4 meng4 han2 。
 - xun2 chang2 feng1 yu3 ye4 ， ying1 you3 gui3 shen2 kan4 。
+- （《 fen1 men2 zuan3 lei4 tang2 ge1 shi1 》 can2 ben3 juan4 jiu3 wu3 《 cao3 mu4 chong2 yu2 lei4 》 qi1 ）。
 
 ## 注释
 

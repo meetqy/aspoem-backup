@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙雄
 authorPinyin: zhao4 xiong2
 authorSlug: zhao-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

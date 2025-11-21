@@ -6,25 +6,25 @@ titleSlug: ye-zuo
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹翠濃如滴，絺凉薄似空。
-- 遐觀山缺處，露坐月明中。
-- 計較圍碁勝，喧呼琢句工。
-- 畏途誰觸熱，衣袂漲塵紅。
+- 全家久住白雲窩，貪看疎梅夜景多。
+- 簾角花陰和月捲，墨池水凍带冰磨。
+- 寒欺駝褐吟肩聳，暖入鵝黄醉面酡。
+- 笑挹暗香人不寐，不辭百匝繞前坡。
 
 ## 拼音
 
-- zhu2 cui4 nong2 ru2 di1 ， chi1 liang2 bao2 si4 kong1 。
-- xia2 guan1 shan1 que1 chu3 ， lu4 zuo4 yue4 ming2 zhong1 。
-- ji4 jiao4 wei2 qi2 sheng4 ， xuan1 hu1 zhuo2 ju4 gong1 。
-- wei4 tu2 shui2 chu4 re4 ， yi1 mei4 zhang3 chen2 hong2 。
+- quan2 jia1 jiu3 zhu4 bai2 yun2 wo1 ， tan1 kan4 shu1 mei2 ye4 jing3 duo1 。
+- lian2 jiao3 hua1 yin1 he2 yue4 juan3 ， mo4 chi2 shui3 dong4 dai4 bing1 mo2 。
+- han2 qi1 tuo2 he4 yin2 jian1 song3 ， nuan3 ru4 e2 huang2 zui4 mian4 tuo2 。
+- xiao4 yi4 an4 xiang1 ren2 bu2 mei4 ， bu4 ci2 bai3 za1 rao4 qian2 po1 。
 
 ## 注释
 

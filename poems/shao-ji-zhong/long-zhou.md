@@ -6,10 +6,10 @@ titleSlug: long-zhou
 author: 邵稽仲
 authorPinyin: shao4 ji1 zhong4
 authorSlug: shao-ji-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

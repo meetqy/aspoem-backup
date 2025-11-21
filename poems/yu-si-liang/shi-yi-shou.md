@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 虞似良
 authorPinyin: yu2 si4 liang2
 authorSlug: yu-si-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

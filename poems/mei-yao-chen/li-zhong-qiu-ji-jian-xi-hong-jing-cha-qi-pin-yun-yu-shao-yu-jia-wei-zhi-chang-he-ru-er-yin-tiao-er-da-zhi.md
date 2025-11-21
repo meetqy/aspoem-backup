@@ -6,10 +6,10 @@ titleSlug: li-zhong-qiu-ji-jian-xi-hong-jing-cha-qi-pin-yun-yu-shao-yu-jia-wei-z
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

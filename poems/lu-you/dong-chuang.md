@@ -6,21 +6,25 @@ titleSlug: dong-chuang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萱草石榴相續開，數枝晚筍破蒼苔。
-- 背人紅練穿林去，直是無情不再來。
+- 臘近寒何薄，秋衣著尚宜。
+- 年光祈雪見，節物賣燈知。
+- 川日初沉後，樓鐘欲動時。
+- 東窗對兒子，聊與細論詩。
 
 ## 拼音
 
-- xuan1 cao3 shi2 liu2 xiang1 xu4 kai1 ， shu4 zhi1 wan3 sun3 po4 cang1 tai2 。
-- bei4 ren2 hong2 lian4 chuan1 lin2 qu4 ， zhi2 shi4 wu2 qing2 bu2 zai4 lai2 。
+- la4 jin4 han2 he2 bao2 ， qiu1 yi1 zhu4 shang4 yi2 。
+- nian2 guang1 qi2 xue3 jian4 ， jie2 wu4 mai4 deng1 zhi1 。
+- chuan1 ri4 chu1 chen2 hou4 ， lou2 zhong1 yu4 dong4 shi2 。
+- dong1 chuang1 dui4 er2 zi3 ， liao2 yu3 xi4 lun4 shi1 。
 
 ## 注释
 

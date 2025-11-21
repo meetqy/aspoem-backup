@@ -6,25 +6,25 @@ titleSlug: ou-cheng
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世路崎嶇蜀道難，長年兀兀坐柴關。
-- 詩才得句心先喜，事不縈懷夢亦閒。
-- 已種蒼竿環碧沼，旋營矮屋傍青山。
-- 倘來軒冕雖無分，贏得優游天地間。
+- 抱膝長吟更短歌，百年身世易蹉跎。
+- 事逢如意從來少，詩不驚人空自多。
+- 暖日烘時花著子，東風吹後草成莎。
+- 看渠天道無私覆，寒谷陽春有脚麽。
 
 ## 拼音
 
-- shi4 lu4 qi2 qu1 shu3 dao4 nan2 ， chang2 nian2 wu4 wu4 zuo4 chai2 guan1 。
-- shi1 cai2 de2 ju4 xin1 xian1 xi3 ， shi4 bu4 ying2 huai2 meng4 yi4 xian2 。
-- yi3 zhong3 cang1 gan1 huan2 bi4 zhao3 ， xuan2 ying2 ai3 wu1 bang4 qing1 shan1 。
-- tang3 lai2 xuan1 mian3 sui1 wu2 fen1 ， ying2 de2 you1 you2 tian1 di4 jian4 。
+- bao4 xi1 chang2 yin2 geng4 duan3 ge1 ， bai3 nian2 shen1 shi4 yi4 cuo1 tuo2 。
+- shi4 feng2 ru2 yi4 cong2 lai2 shao3 ， shi1 bu4 jing1 ren2 kong1 zi4 duo1 。
+- nuan3 ri4 hong1 shi2 hua1 zhu4 zi3 ， dong1 feng1 chui1 hou4 cao3 cheng2 sha1 。
+- kan4 qu2 tian1 dao4 wu2 si1 fu4 ， han2 gu3 yang2 chun1 you3 jiao3 mo2 。
 
 ## 注释
 

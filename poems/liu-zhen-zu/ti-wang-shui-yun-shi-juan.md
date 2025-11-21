@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan
 author: 劉震祖
 authorPinyin: liu2 zhen4 zu3
 authorSlug: liu-zhen-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

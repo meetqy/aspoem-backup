@@ -6,10 +6,10 @@ titleSlug: wen-shi-chuan-jian-yi-zhi-zhang-zhou-zuo-jian-chu-zi-shi-shi-er-yun-y
 author: 洪炎
 authorPinyin: hong2 yan2
 authorSlug: hong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 王韶
 authorPinyin: wang2 shao2
 authorSlug: wang-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

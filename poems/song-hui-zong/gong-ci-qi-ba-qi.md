@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 邃宇宏開巧石叢，擅名還有勝嬴峰。
-- 巫山未足爲珍異，碧玉巑岏疊數重。
+- 錦幈誰染楚峰青，依約惟無澗水聲。
+- 麗質閑觀欹縷枕，高唐雲杳夢難成。
 
 ## 拼音
 
-- sui4 yu3 hong2 kai1 qiao3 shi2 cong2 ， shan4 ming2 huan2 you3 sheng4 ying2 feng1 。
-- wu1 shan1 wei4 zu2 wei2 zhen1 yi4 ， bi4 yu4 cuan2 wan2 die2 shu4 zhong4 。
+- jin3 ping2 shui2 ran3 chu3 feng1 qing1 ， yi1 yue1 wei2 wu2 jian4 shui3 sheng1 。
+- li2 zhi4 xian2 guan1 qi1 lü3 zhen3 ， gao1 tang2 yun2 yao3 meng4 nan2 cheng2 。
 
 ## 注释
 

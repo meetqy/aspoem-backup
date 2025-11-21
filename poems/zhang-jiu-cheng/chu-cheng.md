@@ -6,21 +6,21 @@ titleSlug: chu-cheng
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 不出柴門近兩旬，江邊柳眼已窺人。
-- 却思歸去西湖上，剩把長條醉幾春。
+- 凌晨江畔倚筇行，正見橫雲冉冉生。
+- 失却前山尋不得，雙尖微向日邊明。
 
 ## 拼音
 
-- bu4 chu1 chai2 men2 jin4 liang3 xun2 ， jiang1 bian1 liu3 yan3 yi3 kui1 ren2 。
-- que4 si1 gui1 qu4 xi1 hu2 shang4 ， sheng4 ba3 chang2 tiao2 zui4 ji1 chun1 。
+- ling2 chen2 jiang1 pan4 yi3 qiong2 xing2 ， zheng4 jian4 heng2 yun2 ran3 ran3 sheng1 。
+- shi1 que4 qian2 shan1 xun2 bu4 de2 ， shuang1 jian1 wei1 xiang4 ri4 bian1 ming2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 晏幾道
 authorPinyin: yan4 ji1 dao4
 authorSlug: yan-ji-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: deng-dong-shan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漆園傲吏養生主，栗里高人歸去來。
-- 俱作放翁新受用，不妨平地脫塵埃。
-- 松崖壁立臨樵塢，竹徑蛇蟠上嘯臺。
-- 送盡夕陽山更好，與君踏月浩歌回。
+- 老慣人間歲月催，强扶衰病上崔嵬。
+- 生爲柱國細事爾，死畫雲臺何有哉。
+- 熟計提軍出青海，未如喚客倒金罍。
+- 明朝日出春風動，更看晴天萬里開。
 
 ## 拼音
 
-- qi1 yuan2 ao4 li4 yang3 sheng1 zhu3 ， li4 li3 gao1 ren2 gui1 qu4 lai2 。
-- ju4 zuo4 fang4 weng1 xin1 shou4 yong4 ， bu4 fang2 ping2 di4 tuo1 chen2 ai1 。
-- song1 ya2 bi4 li4 lin2 qiao2 wu4 ， zhu2 jing4 she2 pan2 shang4 xiao4 tai2 。
-- song4 jin4 xi1 yang2 shan1 geng4 hao3 ， yu3 jun1 ta4 yue4 hao4 ge1 hui2 。
+- lao3 guan4 ren2 jian4 sui4 yue4 cui1 ， qiang2 fu2 shuai1 bing4 shang4 cui1 wei2 。
+- sheng1 wei2 zhu4 guo2 xi4 shi4 er3 ， si3 hua4 yun2 tai2 he2 you3 zai1 。
+- shu2 ji4 ti2 jun1 chu1 qing1 hai3 ， wei4 ru2 huan4 ke4 dao3 jin1 lei2 。
+- ming2 chao2 ri4 chu1 chun1 feng1 dong4 ， geng4 kan4 qing2 tian1 wan4 li3 kai1 。
 
 ## 注释
 

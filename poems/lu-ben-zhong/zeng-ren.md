@@ -6,25 +6,25 @@ titleSlug: zeng-ren
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堅卧因循欲過冬，故人無復馬牛風。
-- 得君好句能忘病，笑我長饑不諱窮。
-- 清夢肯嫌齋舍冷，破囊常伴酒杯空。
-- 新正所願長窮健，剩作歌詩準備公。
+- 中表多離隔，情親子獨賢。
+- 心游衆目外，氣出萬夫前。
+- 米賤猶堪飽，官閑不記年。
+- 春風上嚴瀨，爲我略回船。
 
 ## 拼音
 
-- jian1 wo4 yin1 xun2 yu4 guo4 dong1 ， gu4 ren2 wu2 fu4 ma3 niu2 feng1 。
-- de2 jun1 hao3 ju4 neng2 wang4 bing4 ， xiao4 wo3 chang2 ji1 bu2 hui4 qiong2 。
-- qing1 meng4 ken3 xian2 zhai1 she4 leng3 ， po4 nang2 chang2 ban4 jiu3 bei1 kong1 。
-- xin1 zheng1 suo3 yuan4 chang2 qiong2 jian4 ， sheng4 zuo4 ge1 shi1 zhun3 bei4 gong1 。
+- zhong1 biao3 duo1 li2 ge2 ， qing2 qin1 zi3 du2 xian2 。
+- xin1 you2 zhong4 mu4 wai4 ， qi4 chu1 wan4 fu1 qian2 。
+- mi3 jian4 you2 kan1 bao3 ， guan1 xian2 bu2 ji4 nian2 。
+- chun1 feng1 shang4 yan2 lai4 ， wei2 wo3 lüe4 hui2 chuan2 。
 
 ## 注释
 

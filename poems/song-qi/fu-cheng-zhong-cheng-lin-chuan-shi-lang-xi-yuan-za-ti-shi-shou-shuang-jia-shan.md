@@ -6,10 +6,10 @@ titleSlug: fu-cheng-zhong-cheng-lin-chuan-shi-lang-xi-yuan-za-ti-shi-shou-shuang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

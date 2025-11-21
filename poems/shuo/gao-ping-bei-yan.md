@@ -6,10 +6,10 @@ titleSlug: gao-ping-bei-yan
 author: □說
 authorPinyin: □ shuo1
 authorSlug: shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

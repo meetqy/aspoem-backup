@@ -6,10 +6,10 @@ titleSlug: ti-bei-yan-yuan
 author: 王觀國
 authorPinyin: wang2 guan1 guo2
 authorSlug: wang-guan-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

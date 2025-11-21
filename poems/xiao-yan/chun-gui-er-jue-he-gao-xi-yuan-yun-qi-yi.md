@@ -6,10 +6,10 @@ titleSlug: chun-gui-er-jue-he-gao-xi-yuan-yun-qi-yi
 author: 蕭炎
 authorPinyin: xiao1 yan2
 authorSlug: xiao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

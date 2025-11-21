@@ -6,21 +6,25 @@ titleSlug: wu-ti
 author: 李商隱
 authorPinyin: li3 shang1 yin3
 authorSlug: li-shang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白道縈迴入暮霞，斑騅嘶斷七香車。
-- 春風自共何人笑，枉破陽城十萬家。
+- 相見時難別亦難，東風無力百花殘。
+- 春蠶到死絲方盡，蠟炬成灰淚始乾。
+- 曉鏡但愁雲鬢改，夜吟應覺月光寒。
+- 蓬山此去無多路，青鳥殷勤爲探看。
 
 ## 拼音
 
-- bai2 dao4 ying2 hui2 ru4 mu4 xia2 ， ban1 zhui1 si1 duan4 qi1 xiang1 ju1 。
-- chun1 feng1 zi4 gong4 he2 ren2 xiao4 ， wang3 po4 yang2 cheng2 shi2 wan4 jia1 。
+- xiang1 jian4 shi2 nan2 bie2 yi4 nan2 ， dong1 feng1 wu2 li4 bai3 hua1 can2 。
+- chun1 can2 dao4 si3 si1 fang1 jin4 ， la4 ju4 cheng2 hui1 lei4 shi3 qian2 。
+- xiao3 jing4 dan4 chou2 yun2 bin4 gai3 ， ye4 yin2 ying1 jue2 yue4 guang1 han2 。
+- peng2 shan1 ci3 qu4 wu2 duo1 lu4 ， qing1 niao3 yin1 qin2 wei2 tan4 kan4 。
 
 ## 注释
 

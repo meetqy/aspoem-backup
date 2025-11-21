@@ -6,25 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 死柴頭，無烟火。
-- 信口一吹，面門爍破。
-- 可憐龍門遠知客禮首座。
-- 火爐頭熱血相噴，分爭你我，笑倒嵩山破竈墮。
+- 借家傳帝網絲，下公子仙鼇釣。
+- 捩轉衲僧鼻頭，撩撥諸方一笑。
+- 鯤化鵬飛總未知，推蓬對月平分破。
+- 却請維那，揚帆皷棹。
 
 ## 拼音
 
-- si3 chai2 tou2 ， wu2 yan1 huo3 。
-- xin4 kou3 yi4 chui1 ， mian4 men2 shuo4 po4 。
-- ke3 lian2 long2 men2 yuan3 zhi1 ke4 li3 shou3 zuo4 。
-- huo3 lu2 tou2 re4 xue4 xiang1 pen1 ， fen1 zheng1 ni3 wo3 ， xiao4 dao3 song1 shan1 po4 zao4 duo4 。
+- jie4 jia1 chuan2 di4 wang3 si1 ， xia4 gong1 zi3 xian1 ao2 diao4 。
+- lie4 zhuan3 na4 seng1 bi2 tou2 ， liao2 bo1 zhu1 fang1 yi2 xiao4 。
+- kun1 hua4 peng2 fei1 zong3 wei4 zhi1 ， tui1 peng2 dui4 yue4 ping2 fen1 po4 。
+- que4 qing3 wei2 na4 ， yang2 fan1 gu3 zhao4 。
 
 ## 注释
 

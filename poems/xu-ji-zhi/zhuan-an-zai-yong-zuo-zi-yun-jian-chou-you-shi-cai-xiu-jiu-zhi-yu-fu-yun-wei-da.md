@@ -6,10 +6,10 @@ titleSlug: zhuan-an-zai-yong-zuo-zi-yun-jian-chou-you-shi-cai-xiu-jiu-zhi-yu-fu-
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

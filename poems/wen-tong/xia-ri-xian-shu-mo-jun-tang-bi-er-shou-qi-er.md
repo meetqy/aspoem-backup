@@ -1,14 +1,14 @@
 ---
 id: wen-tong-xia-ri-xian-shu-mo-jun-tang-bi-er-shou-qi-er
-title: 夏日閑書墨君堂壁二首・其二
-titlePinyin: xia4 ri4 xian2 shu1 mo4 jun1 tang2 bi4 er4 shou3・qi2 er4
+title: 夏日閑書墨君堂壁二首  其二
+titlePinyin: xia4 ri4 xian2 shu1 mo4 jun1 tang2 bi4 er4 shou3     qi2 er4
 titleSlug: xia-ri-xian-shu-mo-jun-tang-bi-er-shou-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

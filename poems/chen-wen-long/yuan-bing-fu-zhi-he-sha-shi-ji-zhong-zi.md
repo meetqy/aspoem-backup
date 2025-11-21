@@ -6,10 +6,10 @@ titleSlug: yuan-bing-fu-zhi-he-sha-shi-ji-zhong-zi
 author: 陳文龍
 authorPinyin: chen2 wen2 long2
 authorSlug: chen-wen-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: du-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 巾帽欹傾短髮稀，青燈照影夜相依。
-- 窮邊草木春遲到，故國湖山夢自歸。
-- 茶鼎松風吹謖謖，香奩雲縷散馡馡。
-- 羸驂敢復和鑾望，只願連山苜蓿肥。
+- 博山香霧散馡馡，袖手何妨靜掩扉。
+- 六十年前故人盡，八千里外寄書稀。
+- 昨朝送客桐江去，今日逢僧剡縣歸。
+- 欲作小詩還復懶，海鷗與我兩忘機。
 
 ## 拼音
 
-- jin1 mao4 qi1 qing1 duan3 fa4 xi1 ， qing1 deng1 zhao4 ying3 ye4 xiang1 yi1 。
-- qiong2 bian1 cao3 mu4 chun1 chi2 dao4 ， gu4 guo2 hu2 shan1 meng4 zi4 gui1 。
-- cha2 ding3 song1 feng1 chui1 su4 su4 ， xiang1 lian2 yun2 lü3 san4 fei1 fei1 。
-- lei2 can1 gan3 fu4 he2 luan2 wang4 ， zhi1 yuan4 lian2 shan1 mu4 xu0 fei2 。
+- bo2 shan1 xiang1 wu4 san4 fei1 fei1 ， xiu4 shou3 he2 fang2 jing4 yan3 fei1 。
+- liu4 shi2 nian2 qian2 gu4 ren2 jin4 ， ba1 qian1 li3 wai4 ji4 shu1 xi1 。
+- zuo2 chao2 song4 ke4 tong2 jiang1 qu4 ， jin1 ri4 feng2 seng1 yan3 xian4 gui1 。
+- yu4 zuo4 xiao3 shi1 huan2 fu4 lan3 ， hai3 ou1 yu3 wo3 liang3 wang4 ji1 。
 
 ## 注释
 

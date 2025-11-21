@@ -6,29 +6,33 @@ titleSlug: jiang-nan-qu
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江蒲芽白江水綠，江頭花開自幽淑。
-- 人家晨炊欲熟時，旋去網魚惟所欲。
-- 往來送租只用船，未省泥沙曾污足。
-- 有錢買酒醉鄰畔，終日數口常在目。
-- 不學長安貴公卿，每念離心寄朱轂。
-- 朝遊巖廊暮海島，譴人未歸身自到。
+- 平湖碧玉烟波闊，芰荷風起秋香發。
+- 採蓮女兒紅粉新，舟中笑語隔烟聞。
+- 高繫紅裙袖雙卷，不惜浮萍沾皓腕。
+- 爭先採得隠船篷，多少相欺互相問。
+- 吳兒蕩槳來何事，手指荷花示深意。
+- 郎指蓮房妾折絲，蓮不到頭絲不止。
+- 月上潮平四散歸，舟輕楫短去如飛。
+- 斷腸脈脈兩無語，寄情流水傳相思。
 
 ## 拼音
 
-- jiang1 pu2 ya2 bai2 jiang1 shui3 lü4 ， jiang1 tou2 hua1 kai1 zi4 you1 shu1 。
-- ren2 jia1 chen2 chui1 yu4 shu2 shi2 ， xuan2 qu4 wang3 yu2 wei2 suo3 yu4 。
-- wang3 lai2 song4 zu1 zhi3 yong4 chuan2 ， wei4 sheng3 ni2 sha1 ceng2 wu1 zu2 。
-- you3 qian2 mai3 jiu3 zui4 lin2 pan4 ， zhong1 ri4 shu4 kou3 chang2 zai4 mu4 。
-- bu4 xue2 chang2 an1 gui4 gong1 qing1 ， mei3 nian4 li2 xin1 ji4 zhu1 gu3 。
-- chao2 you2 yan2 lang2 mu4 hai3 dao3 ， qian3 ren2 wei4 gui1 shen1 zi4 dao4 。
+- ping2 hu2 bi4 yu4 yan1 bo1 kuo4 ， ji4 he2 feng1 qi3 qiu1 xiang1 fa1 。
+- cai3 lian2 nü3 er2 hong2 fen3 xin1 ， zhou1 zhong1 xiao4 yu3 ge2 yan1 wen2 。
+- gao1 xi4 hong2 qun2 xiu4 shuang1 juan4 ， bu4 xi1 fu2 ping2 zhan1 hao4 wan4 。
+- zheng1 xian1 cai3 de2 yin3 chuan2 peng2 ， duo1 shao3 xiang1 qi1 hu4 xiang1 wen4 。
+- wu2 er2 dang4 jiang3 lai2 he2 shi4 ， shou3 zhi3 he2 hua1 shi4 shen1 yi4 。
+- lang2 zhi3 lian2 fang2 qie4 zhe2 si1 ， lian2 bu2 dao4 tou2 si1 bu4 zhi3 。
+- yue4 shang4 chao2 ping2 si4 san4 gui1 ， zhou1 qing1 ji2 duan3 qu4 ru2 fei1 。
+- duan4 chang2 mai4 mai4 liang3 wu2 yu3 ， ji4 qing2 liu2 shui3 chuan2 xiang1 si1 。
 
 ## 注释
 

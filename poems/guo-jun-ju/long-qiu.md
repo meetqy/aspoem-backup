@@ -6,10 +6,10 @@ titleSlug: long-qiu
 author: 郭君舉
 authorPinyin: guo1 jun1 ju3
 authorSlug: guo-jun-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

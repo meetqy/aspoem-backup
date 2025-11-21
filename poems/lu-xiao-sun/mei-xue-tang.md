@@ -6,10 +6,10 @@ titleSlug: mei-xue-tang
 author: 盧孝孫
 authorPinyin: lu2 xiao4 sun1
 authorSlug: lu-xiao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

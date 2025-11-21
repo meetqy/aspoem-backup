@@ -6,10 +6,10 @@ titleSlug: tong-zhou-yuan-weng-zhu-zuo-fan-ming-yuan-bi-xiao-xi-hu-ye-fan-ge-fu-
 author: 釋道潜
 authorPinyin: shi4 dao4 qian2
 authorSlug: shi-dao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

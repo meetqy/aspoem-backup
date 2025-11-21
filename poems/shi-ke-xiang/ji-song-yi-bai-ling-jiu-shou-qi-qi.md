@@ -1,26 +1,26 @@
 ---
 id: shi-ke-xiang-ji-song-yi-bai-ling-jiu-shou-qi-qi
-title: 偈頌一百零九首  其七
-titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 qi1
+title: 偈頌一百零九首  其七○
+titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 qi1 ○
 titleSlug: ji-song-yi-bai-ling-jiu-shou-qi-qi
 author: 釋可湘
 authorPinyin: shi4 ke3 xiang1
 authorSlug: shi-ke-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- □□□□理機梭，徧向園林織綺羅。
-- 唯有黄鸝知此意，纔方偷眼又春過。
+- 無門之門須得門而入，無意之意須得意而通。
+- 一扇西兮一扇東。
 
 ## 拼音
 
-- □□□□ li3 ji1 suo1 ， bian4 xiang4 yuan2 lin2 zhi1 qi3 luo2 。
-- wei2 you3 huang2 li2 zhi1 ci3 yi4 ， cai2 fang1 tou1 yan3 you4 chun1 guo4 。
+- wu2 men2 zhi1 men2 xu1 de2 men2 er2 ru4 ， wu2 yi4 zhi1 yi4 xu1 de2 yi4 er2 tong1 。
+- yi2 shan4 xi1 xi1 yi2 shan4 dong1 。
 
 ## 注释
 

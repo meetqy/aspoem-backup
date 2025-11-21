@@ -6,47 +6,57 @@ titleSlug: ji-shan-tang-shi
 author: 晁沖之
 authorPinyin: chao2 chong1 zhi1
 authorSlug: chao-chong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 星次朝當赦，龍符夜改元。
-- 忽傳優老詔，周及庶臣門。
-- 細札頒殊禮，陪封錫異恩。
-- 大酺堪一笑，束帛不須論。
-- 緬想吾宗盛，恭惟母德尊。
-- 孝忠兼仲子，辭翰競諸孫。
-- 掖誥金鸞潤，宮衣翠翟溫。
-- 萬錢賓客賀，五色帝王言。
-- 諼草開新夏，蟠桃屬舊樽。
-- 曲迎團扇度，舞接綵衣翻。
-- 冰下看魚尾，霜邊見筍根。
-- 英聲彤管在，繪事畫屏存。
-- 有客依同姓，逢人問故園。
-- 淹留驚伏臘，俛仰媿晨昏。
-- 西望浮雲合，巾車擬載奔。
+- 我家得姓自衛史，文王之昭鐵厥美。
+- 西京御史府大夫，父慈子忠不惜死。
+- 至今墓上無曲棘，潁川歲時虔廟祀。
+- 中原喪亂厭風塵，南渡不及渡遼水。
+- 晚惟道武攬英雄，遼東之晁同興起。
+- 世封潁川刺濟州，子孫嬋媛冠劍偉。
+- 唐有賢良如漢初，名動集賢爲學士。
+- 是時海內圖書家，一晁未讓張與李。
+- 忠實文華入本朝，三祖百孫同一體。
+- 中祖潁川襲遠封，東祖西祖復于濟。
+- 自從決策罷兵來，平進不厭百寮底。
+- 即今門戶益衰微，攬古懷今情曷已。
+- 上恩坱圠播無垠，宿莽心存春藿靡。
+- 漳州有母行百齡，疏封鈿服明光裏。
+- 夫人眼力尚針縷，拜恩不易從稚齒。
+- 初惟夫人有子賢，曰此布濩敢不俾。
+- 何勞夢帝血面論，直以微誠動旒扆。
+- 華堂白髮喜更新，即看青袍子高第。
+- 壽斝千場日未央，膝下曾玄扶且倚。
+- 中眷有孫不能叫，東眷孫文刊燁煒。
 
 ## 拼音
 
-- xing1 ci4 chao2 dang1 she4 ， long2 fu2 ye4 gai3 yuan2 。
-- hu1 chuan2 you1 lao3 zhao4 ， zhou1 ji2 shu4 chen2 men2 。
-- xi4 zha2 ban1 shu1 li3 ， pei2 feng1 xi1 yi4 en1 。
-- da4 pu2 kan1 yi2 xiao4 ， shu4 bo2 bu4 xu1 lun4 。
-- mian3 xiang3 wu2 zong1 sheng4 ， gong1 wei2 mu3 de2 zun1 。
-- xiao4 zhong1 jian1 zhong4 zi3 ， ci2 han4 jing4 zhu1 sun1 。
-- ye4 gao4 jin1 luan2 run4 ， gong1 yi1 cui4 zhai2 wen1 。
-- wan4 qian2 bin1 ke4 he4 ， wu3 se4 di4 wang2 yan2 。
-- xuan1 cao3 kai1 xin1 xia4 ， pan2 tao2 shu3 jiu4 zun1 。
-- qu3 ying2 tuan2 shan4 du4 ， wu3 jie1 cai3 yi1 fan1 。
-- bing1 xia4 kan4 yu2 wei3 ， shuang1 bian1 jian4 sun3 gen1 。
-- ying1 sheng1 tong2 guan3 zai4 ， hui4 shi4 hua4 ping2 cun2 。
-- you3 ke4 yi1 tong2 xing4 ， feng2 ren2 wen4 gu4 yuan2 。
-- yan1 liu2 jing1 fu2 la4 ， fu3 yang3 kui4 chen2 hun1 。
-- xi1 wang4 fu2 yun2 he2 ， jin1 ju1 ni3 zai4 ben1 。
+- wo3 jia1 de2 xing4 zi4 wei4 shi3 ， wen2 wang2 zhi1 zhao1 tie3 jue2 mei3 。
+- xi1 jing1 yu4 shi3 fu3 dai4 fu0 ， fu4 ci2 zi3 zhong1 bu4 xi1 si3 。
+- zhi4 jin1 mu4 shang4 wu2 qu3 ji2 ， ying3 chuan1 sui4 shi2 qian2 miao4 si4 。
+- zhong1 yuan2 sang1 luan4 yan4 feng1 chen2 ， nan2 du4 bu4 ji2 du4 liao2 shui3 。
+- wan3 wei2 dao4 wu3 lan3 ying1 xiong2 ， liao2 dong1 zhi1 chao2 tong2 xing1 qi3 。
+- shi4 feng1 ying3 chuan1 ci4 ji4 zhou1 ， zi3 sun1 chan2 yuan4 guan1 jian4 wei3 。
+- tang2 you3 xian2 liang2 ru2 han4 chu1 ， ming2 dong4 ji2 xian2 wei2 xue2 shi4 。
+- shi4 shi2 hai3 nei4 tu2 shu1 jia1 ， yi4 chao2 wei4 rang4 zhang1 yu3 li3 。
+- zhong1 shi2 wen2 hua2 ru4 ben3 chao2 ， san1 zu3 bai3 sun1 tong2 yi4 ti3 。
+- zhong1 zu3 ying3 chuan1 xi2 yuan3 feng1 ， dong1 zu3 xi1 zu3 fu4 yu2 ji4 。
+- zi4 cong2 jue2 ce4 ba4 bing1 lai2 ， ping2 jin4 bu2 yan4 bai3 liao2 di3 。
+- ji2 jin1 men2 hu4 yi4 shuai1 wei1 ， lan3 gu3 huai2 jin1 qing2 he2 yi3 。
+- shang4 en1 yang3 ya4 bo1 wu2 yin2 ， su4 mang3 xin1 cun2 chun1 huo4 mi2 。
+- zhang1 zhou1 you3 mu3 xing2 bai3 ling2 ， shu1 feng1 dian4 fu2 ming2 guang1 li3 。
+- fu1 ren2 yan3 li4 shang4 zhen1 lü3 ， bai4 en1 bu2 yi4 cong2 zhi4 chi3 。
+- chu1 wei2 fu1 ren2 you3 zi3 xian2 ， yue1 ci3 bu4 hu4 gan3 bu4 bi3 。
+- he2 lao2 meng4 di4 xue4 mian4 lun4 ， zhi2 yi3 wei1 cheng2 dong4 liu2 yi3 。
+- hua2 tang2 bai2 fa4 xi3 geng1 xin1 ， ji2 kan4 qing1 pao2 zi0 gao1 di4 。
+- shou4 jia3 qian1 chang3 ri4 wei4 yang1 ， xi1 xia4 ceng2 xuan2 fu2 qie3 yi3 。
+- zhong1 juan4 you3 sun1 bu4 neng2 jiao4 ， dong1 juan4 sun1 wen2 kan1 ye4 wei3 。
 
 ## 注释
 

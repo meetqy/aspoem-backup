@@ -6,10 +6,10 @@ titleSlug: yi-shou-lin-chuan-ceng-ji-fu-yi-shi-jian-ji-ci-yun-da-zhi-shi-ji-fu-c
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: shan-qin
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何處飛來傍隱居，就中聲與衆禽殊。
-- 長拖緩轉嬌無力，一似汴孫吹畫烏。
+- 一鳥飛從何處來，歸去歸去聲聲催。
+- 爐烟正自山閣起，天意俄從雲路開。
+- 三年至日阻爲壽，萬里膝下今當回。
+- 迎祥拜貺不勝喜，滿引賀酒千百杯。
 
 ## 拼音
 
-- he2 chu3 fei1 lai2 bang4 yin3 ju1 ， jiu4 zhong1 sheng1 yu3 zhong4 qin2 shu1 。
-- chang2 tuo1 huan3 zhuan3 jiao1 wu2 li4 ， yi2 si4 bian4 sun1 chui1 hua4 wu1 。
+- yi4 niao3 fei1 cong2 he2 chu3 lai2 ， gui1 qu4 gui1 qu4 sheng1 sheng1 cui1 。
+- lu2 yan1 zheng4 zi4 shan1 ge2 qi3 ， tian1 yi4 e2 cong2 yun2 lu4 kai1 。
+- san1 nian2 zhi4 ri4 zu3 wei2 shou4 ， wan4 li3 xi1 xia4 jin1 dang1 hui2 。
+- ying2 xiang2 bai4 kuang4 bu2 sheng4 xi3 ， man3 yin3 he4 jiu3 qian1 bai3 bei1 。
 
 ## 注释
 

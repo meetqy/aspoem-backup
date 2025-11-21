@@ -6,25 +6,21 @@ titleSlug: zi-shu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 睡美不知旦，氣衰先覺秋。
-- 有時浮小艇，隨意宿滄洲。
-- 未恨名風漢，惟求拜醉侯。
-- 更須多種竹，搔首送悠悠。
+- 齒卼復牢能咀嚼，足攣漸愈可跏趺。
+- 短檠非復衰翁事，且與兒孫共地爐。
 
 ## 拼音
 
-- shui4 mei3 bu4 zhi1 dan4 ， qi4 shuai1 xian1 jue2 qiu1 。
-- you3 shi2 fu2 xiao3 ting3 ， sui2 yi4 su4 cang1 zhou1 。
-- wei4 hen4 ming2 feng1 han4 ， wei2 qiu2 bai4 zui4 hou2 。
-- geng4 xu1 duo1 zhong3 zhu2 ， sao1 shou3 song4 you1 you1 。
+- chi3 wu4 fu4 lao2 neng2 ju3 jue2 ， zu2 luan2 jian4 yu4 ke3 jia1 fu1 。
+- duan3 qing2 fei1 fu4 shuai1 weng1 shi4 ， qie3 yu3 er2 sun1 gong4 di4 lu2 。
 
 ## 注释
 

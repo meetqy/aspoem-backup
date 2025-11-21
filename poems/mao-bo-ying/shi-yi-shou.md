@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 毛伯英
 authorPinyin: mao2 bo2 ying1
 authorSlug: mao-bo-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-zhi-yu-ji-song-shi-qi-shou-qi-yi
-title: 偈頌十七首  其一
-titlePinyin: ji4 song4 shi2 qi1 shou3     qi2 yi1
+title: 偈頌十七首  其一○
+titlePinyin: ji4 song4 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-qi-shou-qi-yi
 author: 釋智愚
 authorPinyin: shi4 zhi4 yu2
 authorSlug: shi-zhi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 懷州牛喫禾，益州馬腹脹。
-- 天下覓醫人，灸豬左膊上。
+- 道人猛利難親近，漾笠中流驗作家。
+- 憶昔高人何處去，夜深和月過平沙。
 
 ## 拼音
 
-- huai2 zhou1 niu2 chi1 he2 ， yi4 zhou1 ma3 fu4 zhang4 。
-- tian1 xia4 mi4 yi1 ren2 ， jiu3 zhu1 zuo3 bo2 shang4 。
+- dao4 ren2 meng3 li4 nan2 qin1 jin4 ， yang4 li4 zhong1 liu2 yan4 zuo4 jia1 。
+- yi4 xi1 gao1 ren2 he2 chu3 qu4 ， ye4 shen1 he2 yue4 guo4 ping2 sha1 。
 
 ## 注释
 

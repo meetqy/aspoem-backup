@@ -6,25 +6,25 @@ titleSlug: han-shi-dao-zhong
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兒時只願春長早，老去始知春要老。
-- 人老高低事事諳，春深遠近家家好。
-- 鶑來燕去總關天，絮起萍浮俱合道。
-- 浪將開落惱閒心，却恨少年何草草。
+- 秋千飛去過牆枝，風乙歸來矮屋楣。
+- 春色一如前度晚，鬢毛多似去年衰。
+- 碧雲莫唱愁紅曲，黄鳥休歌代木詩。
+- 方寸不禁如許思，門前楊柳正開眉。
 
 ## 拼音
 
-- er2 shi2 zhi1 yuan4 chun1 chang2 zao3 ， lao3 qu4 shi3 zhi1 chun1 yao4 lao3 。
-- ren2 lao3 gao1 di1 shi4 shi4 an1 ， chun1 shen1 yuan3 jin4 jia1 jia1 hao3 。
-- ying1 lai2 yan4 qu4 zong3 guan1 tian1 ， xu4 qi3 ping2 fu2 ju4 he2 dao4 。
-- lang4 jiang1 kai1 luo4 nao3 xian2 xin1 ， que4 hen4 shao4 nian2 he2 cao3 cao3 。
+- qiu1 qian1 fei1 qu4 guo4 qiang2 zhi1 ， feng1 yi3 gui1 lai2 ai3 wu1 mei2 。
+- chun1 se4 yi4 ru2 qian2 du4 wan3 ， bin4 mao2 duo1 si4 qu4 nian2 shuai1 。
+- bi4 yun2 mo4 chang4 chou2 hong2 qu3 ， huang2 niao3 xiu1 ge1 dai4 mu4 shi1 。
+- fang1 cun4 bu4 jin1 ru2 xu1 si1 ， men2 qian2 yang2 liu3 zheng4 kai1 mei2 。
 
 ## 注释
 

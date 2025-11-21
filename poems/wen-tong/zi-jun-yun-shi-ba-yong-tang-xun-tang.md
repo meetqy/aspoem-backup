@@ -1,14 +1,14 @@
 ---
 id: wen-tong-zi-jun-yun-shi-ba-yong-tang-xun-tang
-title: 子駿運使八咏堂・巽堂
-titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2・xun4 tang2
+title: 子駿運使八咏堂 巽堂
+titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2   xun4 tang2
 titleSlug: zi-jun-yun-shi-ba-yong-tang-xun-tang
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

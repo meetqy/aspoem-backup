@@ -6,10 +6,10 @@ titleSlug: huang-tai-hou-hui-luan-song
 author: 吳𣓨
 authorPinyin: wu2 𣓨
 authorSlug: wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

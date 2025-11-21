@@ -6,25 +6,25 @@ titleSlug: yu-mu
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白日照園林，悲風久蕭索。
-- 橫秋隻鶻健，駕海孤帆逸。
-- 陰雲带雨歸，晴嶂排空出。
-- 一望一高歌，憑誰縱吟筆。
+- 雲慘天如褐，山橫日易昏。
+- 寒鴉啼古木，饑雀噪空園。
+- 紅葉風飄勢，蒼苔雨滴痕。
+- 行吟有清興，寂寞與誰論。
 
 ## 拼音
 
-- bai2 ri4 zhao4 yuan2 lin2 ， bei1 feng1 jiu3 xiao1 suo3 。
-- heng2 qiu1 zhi1 gu3 jian4 ， jia4 hai3 gu1 fan1 yi4 。
-- yin1 yun2 dai4 yu3 gui1 ， qing2 zhang4 pai2 kong1 chu1 。
-- yi2 wang4 yi4 gao1 ge1 ， ping2 shui2 zong4 yin2 bi3 。
+- yun2 can3 tian1 ru2 he4 ， shan1 heng2 ri4 yi4 hun1 。
+- han2 ya1 ti2 gu3 mu4 ， ji1 que4 zao4 kong1 yuan2 。
+- hong2 ye4 feng1 piao1 shi4 ， cang1 tai2 yu3 di1 hen2 。
+- xing2 yin2 you3 qing1 xing1 ， ji4 mo4 yu3 shui2 lun4 。
 
 ## 注释
 

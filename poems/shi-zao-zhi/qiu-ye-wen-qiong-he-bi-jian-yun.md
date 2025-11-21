@@ -6,10 +6,10 @@ titleSlug: qiu-ye-wen-qiong-he-bi-jian-yun
 author: 史慥之
 authorPinyin: shi3 zao4 zhi1
 authorSlug: shi-zao-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

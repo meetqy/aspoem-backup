@@ -6,25 +6,25 @@ titleSlug: zao-xing
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 脂轄行傷早，揚旌興莫窮。
-- 水遥天色共，雲細月波通。
-- 巧舌爭啼曉，香牙盡入風。
-- 縱吟殊未已，初旭放晴紅。
+- 冒暑行宜早，修途不困人。
+- 遠風清逐睡，微露濕低塵。
+- 好月看無盡，高吟意益新。
+- 未雞知漸曉，天角下星辰。
 
 ## 拼音
 
-- zhi1 xia2 xing2 shang1 zao3 ， yang2 jing1 xing1 mo4 qiong2 。
-- shui3 yao2 tian1 se4 gong4 ， yun2 xi4 yue4 bo1 tong1 。
-- qiao3 she2 zheng1 ti2 xiao3 ， xiang1 ya2 jin4 ru4 feng1 。
-- zong4 yin2 shu1 wei4 yi3 ， chu1 xu4 fang4 qing2 hong2 。
+- mao4 shu3 xing2 yi2 zao3 ， xiu1 tu2 bu2 kun4 ren2 。
+- yuan3 feng1 qing1 zhu2 shui4 ， wei1 lu4 shi1 di1 chen2 。
+- hao3 yue4 kan4 wu2 jin4 ， gao1 yin2 yi4 yi4 xin1 。
+- wei4 ji1 zhi1 jian4 xiao3 ， tian1 jiao3 xia4 xing1 chen2 。
 
 ## 注释
 

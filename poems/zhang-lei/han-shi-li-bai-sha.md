@@ -6,21 +6,21 @@ titleSlug: han-shi-li-bai-sha
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫驚客路已經年，尚有青春一半妍。
-- 試上芳堤望春野，萬絲楊柳拂晴天。
+- 花枝裊裊水溶溶，楊柳輕明二月風。
+- 景物可憐人寂寞，年年寒食醉眠中。
 
 ## 拼音
 
-- mo4 jing1 ke4 lu4 yi3 jing1 nian2 ， shang4 you3 qing1 chun1 yi2 ban4 yan2 。
-- shi4 shang4 fang1 di1 wang4 chun1 ye3 ， wan4 si1 yang2 liu3 fu2 qing2 tian1 。
+- hua1 zhi1 niao3 niao3 shui3 rong2 rong2 ， yang2 liu3 qing1 ming2 er4 yue4 feng1 。
+- jing3 wu4 ke3 lian2 ren2 ji4 mo4 ， nian2 nian2 han2 shi2 zui4 mian2 zhong1 。
 
 ## 注释
 

@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 白帝城頭春草生，白鹽山下蜀江清。
-- 南人上來歌一曲，北人莫上動鄉情。
+- 楊柳青青江水平，聞郎江上唱歌聲。
+- 東邊日出西邊雨，道是無情還有情。
 
 ## 拼音
 
-- bai2 di4 cheng2 tou2 chun1 cao3 sheng1 ， bai2 yan2 shan1 xia4 shu3 jiang1 qing1 。
-- nan2 ren2 shang4 lai2 ge1 yi4 qu3 ， bei3 ren2 mo4 shang4 dong4 xiang1 qing2 。
+- yang2 liu3 qing1 qing1 jiang1 shui3 ping2 ， wen2 lang2 jiang1 shang4 chang4 ge1 sheng1 。
+- dong1 bian1 ri4 chu1 xi1 bian1 yu3 ， dao4 shi4 wu2 qing2 huan2 you3 qing2 。
 
 ## 注释
 

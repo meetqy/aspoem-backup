@@ -6,10 +6,10 @@ titleSlug: chun-ri-shan-zhong
 author: 田耕月
 authorPinyin: tian2 geng1 yue4
 authorSlug: tian-geng-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

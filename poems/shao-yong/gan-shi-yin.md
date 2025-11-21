@@ -6,21 +6,25 @@ titleSlug: gan-shi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蛇頭蝎尾不相同，毒殺人多始是功。
-- 風月四時無限好，莫將閑事撓胸中。
+- 切玉如泥劍不虛，誰知世上有昆吾。
+- 能言未是真男子，善處方名大丈夫。
+- 士老林泉誠所願，民填溝壑諒何辜。
+- 然非我事我心惻，珍重羲皇一卷書。
 
 ## 拼音
 
-- she2 tou2 xie1 wei3 bu4 xiang1 tong2 ， du2 sha1 ren2 duo1 shi3 shi4 gong1 。
-- feng1 yue4 si4 shi2 wu2 xian4 hao3 ， mo4 jiang1 xian2 shi4 nao2 xiong1 zhong1 。
+- qie4 yu4 ru2 ni2 jian4 bu4 xu1 ， shui2 zhi1 shi4 shang4 you3 kun1 wu2 。
+- neng2 yan2 wei4 shi4 zhen1 nan2 zi3 ， shan4 chu3 fang1 ming2 da4 zhang4 fu0 。
+- shi4 lao3 lin2 quan2 cheng2 suo3 yuan4 ， min2 tian2 gou1 he4 liang4 he2 gu1 。
+- ran2 fei1 wo3 shi4 wo3 xin1 ce4 ， zhen1 zhong4 xi1 huang2 yi2 juan4 shu1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: bao-yuan-guan
 author: 劉希真
 authorPinyin: liu2 xi1 zhen1
 authorSlug: liu-xi-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

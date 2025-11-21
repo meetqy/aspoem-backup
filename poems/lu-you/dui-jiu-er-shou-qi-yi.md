@@ -6,21 +6,25 @@ titleSlug: dui-jiu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 温如春色爽如秋，一榼燈前自獻酬。
-- 百萬愁魔降未得，故應用爾作戈矛。
+- 素月度銀漢，紅螺斟玉醪。
+- 染丹梨半頰，斫雪蟹雙螯。
+- 詩就吟逾苦，杯殘興尚豪。
+- 閑愁翦不斷，剩欲借并刀。
 
 ## 拼音
 
-- wen1 ru2 chun1 se4 shuang3 ru2 qiu1 ， yi4 ke1 deng1 qian2 zi4 xian4 chou2 。
-- bai3 wan4 chou2 mo2 jiang4 wei4 de2 ， gu4 ying1 yong4 er3 zuo4 ge1 mao2 。
+- su4 yue4 du4 yin2 han4 ， hong2 luo2 zhen1 yu4 lao2 。
+- ran3 dan1 li2 ban4 jia2 ， zhuo2 xue3 xie4 shuang1 ao2 。
+- shi1 jiu4 yin2 yu2 ku3 ， bei1 can2 xing1 shang4 hao2 。
+- xian2 chou2 jian3 bu2 duan4 ， sheng4 yu4 jie4 bing4 dao1 。
 
 ## 注释
 

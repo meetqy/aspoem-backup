@@ -9,30 +9,22 @@ authorSlug: chu-guang-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 蒲葉日已長，杏花日已滋。
-- 老農要看此，貴不違天時。
-- 迎晨起飯牛，雙駕耕東菑。
-- 蚯蚓土中出，田烏隨我飛。
-- 羣合亂啄噪，嗷嗷如道飢。
-- 我心多惻隱，顧此兩傷悲。
-- 撥食與田烏，日暮空筐歸。
-- 親戚更相誚，我心終不移。
+- 桑柘悠悠水蘸堤，晚風晴景不妨犂。
+- 高機猶織臥蠶子，下坂飢逢餉饁妻。
+- 杏色滿林羊酪熟，麥涼浮壠雉媒低。
+- 生時樂死皆由命，事在皇天志不迷。
 
 ## 拼音
 
-- pu2 ye4 ri4 yi3 chang2 ， xing4 hua1 ri4 yi3 zi1 。
-- lao3 nong2 yao4 kan4 ci3 ， gui4 bu4 wei2 tian1 shi2 。
-- ying2 chen2 qi3 fan4 niu2 ， shuang1 jia4 geng1 dong1 zi1 。
-- qiu1 yin3 tu3 zhong1 chu1 ， tian2 wu1 sui2 wo3 fei1 。
-- qun2 he2 luan4 zhuo2 zao4 ， ao2 ao2 ru2 dao4 ji1 。
-- wo3 xin1 duo1 ce4 yin3 ， gu4 ci3 liang3 shang1 bei1 。
-- bo1 shi2 yu3 tian2 wu1 ， ri4 mu4 kong1 kuang1 gui1 。
-- qin1 qi1 geng4 xiang1 qiao4 ， wo3 xin1 zhong1 bu4 yi2 。
+- sang1 zhe4 you1 you1 shui3 zhan4 di1 ， wan3 feng1 qing2 jing3 bu4 fang2 li2 。
+- gao1 ji1 you2 zhi1 wo4 can2 zi3 ， xia4 ban3 ji1 feng2 xiang3 ye4 qi1 。
+- xing4 se4 man3 lin2 yang2 lao4 shu2 ， mai4 liang2 fu2 long3 zhi4 mei2 di1 。
+- sheng1 shi2 le4 si3 jie1 you2 ming4 ， shi4 zai4 huang2 tian1 zhi4 bu4 mi2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: huang-di-chao-xian-jing-ling-gong-tian-yuan-dian-men-you-ling-zhi-wei
 author: 楊傑
 authorPinyin: yang2 jie2
 authorSlug: yang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

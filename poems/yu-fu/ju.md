@@ -9,18 +9,18 @@ authorSlug: yu-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 顏凋明鏡覺，思苦白雲知。
-- 滄洲迷釣隱，紫閣負僧期。
+- 煮雪問茶味，當風看鴈門。
+- （宋高似孫《緯略》卷七）。
 
 ## 拼音
 
-- yan2 diao1 ming2 jing4 jue2 ， si1 ku3 bai2 yun2 zhi1 。
-- cang1 zhou1 mi2 diao4 yin3 ， zi3 ge2 fu4 seng1 qi1 。
+- zhu3 xue3 wen4 cha2 wei4 ， dang1 feng1 kan4 yan4 men2 。
+- （ song4 gao1 si4 sun1 《 wei3 lüe4 》 juan4 qi1 ）。
 
 ## 注释
 

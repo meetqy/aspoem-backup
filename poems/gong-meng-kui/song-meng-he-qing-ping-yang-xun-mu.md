@@ -6,10 +6,10 @@ titleSlug: song-meng-he-qing-ping-yang-xun-mu
 author: 龔孟夔
 authorPinyin: gong1 meng4 kui2
 authorSlug: gong-meng-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

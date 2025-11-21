@@ -6,9 +6,9 @@ titleSlug: gui-qu-lai-wei-nan-lin-liu-jia-cai-pu-jin-xu-pi-lu-xiang-tong
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

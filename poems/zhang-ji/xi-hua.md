@@ -9,22 +9,18 @@ authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春潭足芳樹，水清不如素。
-- 幽人愛華景，一一空山暮。
-- 月出潭氣白，游魚暗衝石。
-- 夜深春思多，酒醒山寂寂。
+- 山中春已晚，處處見花稀。
+- 明日來應盡，林間宿不歸。
 
 ## 拼音
 
-- chun1 tan2 zu2 fang1 shu4 ， shui3 qing1 bu4 ru2 su4 。
-- you1 ren2 ai4 hua2 jing3 ， yi1 yi1 kong1 shan1 mu4 。
-- yue4 chu1 tan2 qi4 bai2 ， you2 yu2 an4 chong1 shi2 。
-- ye4 shen1 chun1 si1 duo1 ， jiu3 xing3 shan1 ji4 ji4 。
+- shan1 zhong1 chun1 yi3 wan3 ， chu3 chu3 jian4 hua1 xi1 。
+- ming2 ri4 lai2 ying1 jin4 ， lin2 jian4 su4 bu4 gui1 。
 
 ## 注释
 

@@ -6,41 +6,49 @@ titleSlug: da-man-shu-jian-ji
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人生風波間，觸事喜乖隔。
-- 前君還里中，王事有程格。
-- 歡言不一再，歸馬已在軛。
-- 相期高陽秋，叢菊手共摘。
-- 惟時家多虞，伯氏遭遠謫。
-- 蒼黄走國門，下馬拜顔色。
-- 孤舟千日宿，離思日侵迫。
-- 還家問生事，未免煩計畫。
-- 自念非世器，身以閑爲職。
-- 不能高奮飛，有類籠中翮。
-- 清霜落衆木，諸嶺應更碧。
-- 行當脫身去，爛醉松下石。
+- 日君同里閭，杖履數相過。
+- 靡爲不吾咨，有唱必君和。
+- 春風南陌遊，炎月北窗卧。
+- 貪從德義樂，不覺歲月破。
+- 而君宦遊者，動足落羈鎖。
+- 襄城雖近邑，去局有重坐。
+- 子來誠獨難，我往義當果。
+- 時天雨方霽，綠樹垂 {禾袲}{禾袲}。
+- 策馬望城郭，青山映烟火。
+- 解衣塵慮清，垂箔月華墮。
+- 憐君九品賤，志尚勇不挫。
+- 乃云曹事簡，經史日自課。
+- 出詩且百篇，語法就平妥。
+- 相別不滿歲，美譽亦已播。
+- 顧慚糠秕姿，幾不見揚簸。
+- 投章匪云報，亦用警庸懦。
 
 ## 拼音
 
-- ren2 sheng1 feng1 bo1 jian4 ， chu4 shi4 xi3 guai1 ge2 。
-- qian2 jun1 huan2 li3 zhong1 ， wang2 shi4 you3 cheng2 ge2 。
-- huan1 yan2 bu4 yi2 zai4 ， gui1 ma3 yi3 zai4 e4 。
-- xiang1 qi1 gao1 yang2 qiu1 ， cong2 ju2 shou3 gong4 zhai1 。
-- wei2 shi2 jia1 duo1 yu2 ， bo2 shi4 zao1 yuan3 zhe2 。
-- cang1 huang2 zou3 guo2 men2 ， xia4 ma3 bai4 yan2 se4 。
-- gu1 zhou1 qian1 ri4 su4 ， li2 si1 ri4 qin1 po4 。
-- huan2 jia1 wen4 sheng1 shi4 ， wei4 mian3 fan2 ji4 hua4 。
-- zi4 nian4 fei1 shi4 qi4 ， shen1 yi3 xian2 wei2 zhi2 。
-- bu4 neng2 gao1 fen4 fei1 ， you3 lei4 long2 zhong1 he2 。
-- qing1 shuang1 luo4 zhong4 mu4 ， zhu1 ling3 ying1 geng4 bi4 。
-- xing2 dang1 tuo1 shen1 qu4 ， lan4 zui4 song1 xia4 shi2 。
+- ri4 jun1 tong2 li3 lü2 ， zhang4 lü3 shu4 xiang1 guo4 。
+- mi2 wei2 bu4 wu2 zi1 ， you3 chang4 bi4 jun1 he2 。
+- chun1 feng1 nan2 mo4 you2 ， yan2 yue4 bei3 chuang1 wo4 。
+- tan1 cong2 de2 yi4 le4 ， bu4 jue2 sui4 yue4 po4 。
+- er2 jun1 huan4 you2 zhe3 ， dong4 zu2 luo4 ji1 suo3 。
+- xiang1 cheng2 sui1 jin4 yi4 ， qu4 ju2 you3 zhong4 zuo4 。
+- zi3 lai2 cheng2 du2 nan2 ， wo3 wang3 yi4 dang1 guo3 。
+- shi2 tian1 yu3 fang1 ji4 ， lü4 shu4 chui2  { he2 chi3 }{ he2 chi3 }。
+- ce4 ma3 wang4 cheng2 guo1 ， qing1 shan1 ying4 yan1 huo3 。
+- jie3 yi1 chen2 lü4 qing1 ， chui2 bo2 yue4 hua2 duo4 。
+- lian2 jun1 jiu3 pin3 jian4 ， zhi4 shang4 yong3 bu2 cuo4 。
+- nai3 yun2 cao2 shi4 jian3 ， jing1 shi3 ri4 zi4 ke4 。
+- chu1 shi1 qie3 bai3 pian1 ， yu3 fa3 jiu4 ping2 tuo3 。
+- xiang1 bie2 bu4 man3 sui4 ， mei3 yu4 yi4 yi3 bo1 。
+- gu4 can2 kang1 bi3 zi1 ， ji1 bu2 jian4 yang2 bo4 。
+- tou2 zhang1 fei3 yun2 bao4 ， yi4 yong4 jing3 yong1 nuo4 。
 
 ## 注释
 

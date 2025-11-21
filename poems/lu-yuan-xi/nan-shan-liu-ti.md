@@ -6,10 +6,10 @@ titleSlug: nan-shan-liu-ti
 author: 呂元錫
 authorPinyin: lü3 yuan2 xi1
 authorSlug: lu-yuan-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

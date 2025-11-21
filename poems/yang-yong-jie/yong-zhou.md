@@ -6,10 +6,10 @@ titleSlug: yong-zhou
 author: 楊永節
 authorPinyin: yang2 yong3 jie2
 authorSlug: yang-yong-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 劉象功
 authorPinyin: liu2 xiang4 gong1
 authorSlug: liu-xiang-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

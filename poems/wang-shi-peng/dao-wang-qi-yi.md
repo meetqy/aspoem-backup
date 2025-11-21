@@ -6,21 +6,21 @@ titleSlug: dao-wang-qi-yi
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燕寢焚香老病身，細君相對坐如賓。
-- 而今一榻維摩室，唯與無言法喜親。
+- 傷哉無復見，老矣不成偕。
+- 牢落凝香地，同誰話此懷。
 
 ## 拼音
 
-- yan4 qin3 fen2 xiang1 lao3 bing4 shen1 ， xi4 jun1 xiang1 dui4 zuo4 ru2 bin1 。
-- er2 jin1 yi2 ta4 wei2 mo2 shi4 ， wei2 yu3 wu2 yan2 fa3 xi3 qin1 。
+- shang1 zai1 wu2 fu4 jian4 ， lao3 yi3 bu4 cheng2 xie2 。
+- lao2 luo4 ning2 xiang1 di4 ， tong2 shui2 hua4 ci3 huai2 。
 
 ## 注释
 

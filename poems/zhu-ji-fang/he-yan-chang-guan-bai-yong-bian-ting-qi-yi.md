@@ -1,26 +1,26 @@
 ---
 id: zhu-ji-fang-he-yan-chang-guan-bai-yong-bian-ting-qi-yi
-title: 和顔長官百詠 邊庭 其一
-titlePinyin: he2 yan2 chang2 guan1 bai3 yong3   bian1 ting2   qi2 yi1
+title: 和顔長官百詠 邊庭 其一○
+titlePinyin: he2 yan2 chang2 guan1 bai3 yong3   bian1 ting2   qi2 yi1 ○
 titleSlug: he-yan-chang-guan-bai-yong-bian-ting-qi-yi
 author: 朱繼芳
 authorPinyin: zhu1 ji4 fang1
 authorSlug: zhu-ji-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年年塞草欲秋時，左右紅旗說戰機。
-- 介胄粗官應有語，而今宰相好吟詩。
+- 北風吹骨最酸辛，白面書生四角巾。
+- 戰士總成亡命鬼，將軍纔是有功人。
 
 ## 拼音
 
-- nian2 nian2 sai1 cao3 yu4 qiu1 shi2 ， zuo3 you4 hong2 qi2 shuo1 zhan4 ji1 。
-- jie4 zhou4 cu1 guan1 ying1 you3 yu3 ， er2 jin1 zai3 xiang4 hao3 yin2 shi1 。
+- bei3 feng1 chui1 gu3 zui4 suan1 xin1 ， bai2 mian4 shu1 sheng1 si4 jiao3 jin1 。
+- zhan4 shi4 zong3 cheng2 wang2 ming4 gui3 ， jiang1 jun1 cai2 shi4 you3 gong1 ren2 。
 
 ## 注释
 

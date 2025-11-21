@@ -6,9 +6,9 @@ titleSlug: zhong-zi-shu-ming-er-bang-jun-jian-ji-zi-an-de-he-wen-ming-si-shi-zhe
 author: 鄧肅
 authorPinyin: deng4 su4
 authorSlug: deng-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

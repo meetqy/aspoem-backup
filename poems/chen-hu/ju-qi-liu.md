@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-liu
-title: 句  其六
-titlePinyin: ju4     qi2 liu4
+title: 句  其六○
+titlePinyin: ju4     qi2 liu4 ○
 titleSlug: ju-qi-liu
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 封濬九州堯舜禹，典刑萬世契夔龍。
+- 萬國夢囘秦月在，千年事過蜀雲飛。
 
 ## 拼音
 
-- feng1 jun4 jiu3 zhou1 yao2 shun4 yu3 ， dian3 xing2 wan4 shi4 qi4 kui2 long2 。
+- wan4 guo2 meng4 hui2 qin2 yue4 zai4 ， qian1 nian2 shi4 guo4 shu3 yun2 fei1 。
 
 ## 注释
 

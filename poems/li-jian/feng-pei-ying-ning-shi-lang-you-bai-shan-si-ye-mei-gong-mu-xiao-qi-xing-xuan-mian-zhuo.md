@@ -6,10 +6,10 @@ titleSlug: feng-pei-ying-ning-shi-lang-you-bai-shan-si-ye-mei-gong-mu-xiao-qi-xi
 author: 李兼
 authorPinyin: li3 jian1
 authorSlug: li-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 井稅無餘負，川原已飽犁。
-- 樵歌歸市步，帆影過河堤。
-- 野實丹兼漆，村醪蜜與齏。
-- 雖云有豐約，不廢醉如泥。
+- 了事如何省事奇，無心始覺有心癡。
+- 三更急雨打窗破，正是擁爐危坐時。
 
 ## 拼音
 
-- jing3 shui4 wu2 yu2 fu4 ， chuan1 yuan2 yi3 bao3 li2 。
-- qiao2 ge1 gui1 shi4 bu4 ， fan1 ying3 guo4 he2 di1 。
-- ye3 shi2 dan1 jian1 qi1 ， cun1 lao2 mi4 yu3 ji1 。
-- sui1 yun2 you3 feng1 yue1 ， bu2 fei4 zui4 ru2 ni2 。
+- liao3 shi4 ru2 he2 sheng3 shi4 qi2 ， wu2 xin1 shi3 jue2 you3 xin1 chi1 。
+- san1 geng1 ji2 yu3 da3 chuang1 po4 ， zheng4 shi4 yong1 lu2 wei1 zuo4 shi2 。
 
 ## 注释
 

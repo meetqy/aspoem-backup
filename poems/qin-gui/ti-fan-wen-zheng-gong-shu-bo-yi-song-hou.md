@@ -6,9 +6,9 @@ titleSlug: ti-fan-wen-zheng-gong-shu-bo-yi-song-hou
 author: 秦檜
 authorPinyin: qin2 gui4
 authorSlug: qin-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

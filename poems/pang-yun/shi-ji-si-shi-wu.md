@@ -9,24 +9,22 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 無念清涼寺，藴空真五臺。
-- 對鏡心無垢，當情心死灰。
-- 妙理於中現，優曇空裏開。
-- 無求真法眼，離相見如來。
-- 若能如是學，不動出三災。
+- 清靜無爲無識塵，不捨內身妙法身。
+- 祇爲衆生有漏習，權止草菴轉法輪。
+- 法輪常轉而人見，優曇時時一出現。
+- 無相真空妙法身，歷劫恆沙不遷變。
 
 ## 拼音
 
-- wu2 nian4 qing1 liang2 si4 ， yun4 kong1 zhen1 wu3 tai2 。
-- dui4 jing4 xin1 wu2 gou4 ， dang1 qing2 xin1 si3 hui1 。
-- miao4 li3 wu1 zhong1 xian4 ， you1 tan2 kong1 li3 kai1 。
-- wu2 qiu2 zhen1 fa3 yan3 ， li2 xiang1 jian4 ru2 lai2 。
-- ruo4 neng2 ru2 shi4 xue2 ， bu2 dong4 chu1 san1 zai1 。
+- qing1 jing4 wu2 wei2 wu2 shi2 chen2 ， bu4 she3 nei4 shen1 miao4 fa3 shen1 。
+- qi2 wei2 zhong4 sheng1 you3 lou4 xi2 ， quan2 zhi3 cao3 an1 zhuan3 fa3 lun2 。
+- fa3 lun2 chang2 zhuan3 er2 ren2 jian4 ， you1 tan2 shi2 shi2 yi4 chu1 xian4 。
+- wu2 xiang1 zhen1 kong1 miao4 fa3 shen1 ， li4 jie2 heng2 sha1 bu4 qian1 bian4 。
 
 ## 注释
 

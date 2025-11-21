@@ -6,10 +6,10 @@ titleSlug: chao-tian-gong-cheng-ji-huai
 author: 張德興
 authorPinyin: zhang1 de2 xing1
 authorSlug: zhang-de-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

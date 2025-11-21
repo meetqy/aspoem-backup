@@ -6,10 +6,10 @@ titleSlug: ju-hu-shan-liu-ti-xiu-zhu-wu
 author: 馬雲
 authorPinyin: ma3 yun2
 authorSlug: ma-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

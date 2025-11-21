@@ -6,25 +6,25 @@ titleSlug: you-shi
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽事春來早，晨興即啟閽。
-- 掃梁延燕子，插楥護龍孫。
-- 數日招賓友，先期辦酒尊。
-- 淋漓衣袖濕，不管漬春痕。
+- 日日營幽事，時時有好懷。
+- 雨園殘竹粉，風砌落松釵。
+- 伴蜨行花逕，聽蛙傍水涯。
+- 窮通了無謂，不必更安排。
 
 ## 拼音
 
-- you1 shi4 chun1 lai2 zao3 ， chen2 xing1 ji2 qi3 hun1 。
-- sao3 liang2 yan2 yan4 zi0 ， cha1 yuan2 hu4 long2 sun1 。
-- shu4 ri4 zhao1 bin1 you3 ， xian1 qi1 ban4 jiu3 zun1 。
-- lin2 li2 yi1 xiu4 shi1 ， bu4 guan3 zi4 chun1 hen2 。
+- ri4 ri4 ying2 you1 shi4 ， shi2 shi2 you3 hao3 huai2 。
+- yu3 yuan2 can2 zhu2 fen3 ， feng1 qi4 luo4 song1 chai1 。
+- ban4 die2 xing2 hua1 jing4 ， ting1 wa1 bang4 shui3 ya2 。
+- qiong2 tong1 le0 wu2 wei4 ， bu2 bi4 geng4 an1 pai2 。
 
 ## 注释
 

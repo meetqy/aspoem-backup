@@ -6,10 +6,10 @@ titleSlug: zi-huai-kun-dai-gui-ling-lei-xie-qin-you-you-hu-qiu-ou-cheng-shu-yu-y
 author: 丘岳
 authorPinyin: qiu1 yue4
 authorSlug: qiu-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

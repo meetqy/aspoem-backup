@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 獨處乾坤萬象中，從頭歷歷運元功。
-- 縱橫北斗心機大，顛倒南辰膽氣雄。
-- 鬼哭神號金鼎結，雞飛犬化玉爐空。
-- 如何俗士尋常覓，不達希夷不可窮。
+- 爐養丹砂鬢不斑，假將名利住人間。
+- 已逢志士傳神藥，又喜同流動笑顏。
+- 老子道經分付得，少微星許共相攀。
+- 幸蒙上士甘撈摝，處世輸君一箇閑。
 
 ## 拼音
 
-- du2 chu3 qian2 kun1 wan4 xiang4 zhong1 ， cong2 tou2 li4 li4 yun4 yuan2 gong1 。
-- zong4 heng2 bei3 dou3 xin1 ji1 da4 ， dian1 dao3 nan2 chen2 dan3 qi4 xiong2 。
-- gui3 ku1 shen2 hao4 jin1 ding3 jie2 ， ji1 fei1 quan3 hua4 yu4 lu2 kong1 。
-- ru2 he2 su2 shi4 xun2 chang2 mi4 ， bu4 da2 xi1 yi2 bu4 ke3 qiong2 。
+- lu2 yang3 dan1 sha1 bin4 bu4 ban1 ， jia3 jiang1 ming2 li4 zhu4 ren2 jian4 。
+- yi3 feng2 zhi4 shi4 chuan2 shen2 yao4 ， you4 xi3 tong2 liu2 dong4 xiao4 yan2 。
+- lao3 zi3 dao4 jing1 fen1 fu4 de2 ， shao3 wei1 xing1 xu1 gong4 xiang1 pan1 。
+- xing4 meng2 shang4 shi4 gan1 lao1 lu4 ， chu3 shi4 shu1 jun1 yi2 ge4 xian2 。
 
 ## 注释
 

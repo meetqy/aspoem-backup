@@ -6,29 +6,25 @@ titleSlug: zao-xing
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出門挂襆被，客路寒溪早。
-- 團團霧中日，淡月隠林梢。
-- 村巷驅饑牛，楓林度飛鳥。
-- 山行未十里，佳處輒藉草。
-- 道逢青衿生，肝膽總傾倒。
-- 分手各東西，蘋花風嫋嫋。
+- 早行理歸裝，殘燈耿曙光。
+- 開門半山月，立馬一庭霜。
+- 鐘響知雲寺，波聲認石梁。
+- 脩途留不住，去去出山莊。
 
 ## 拼音
 
-- chu1 men2 gua4 fu2 bei4 ， ke4 lu4 han2 xi1 zao3 。
-- tuan2 tuan2 wu4 zhong1 ri4 ， dan4 yue4 yin3 lin2 shao1 。
-- cun1 xiang4 qu1 ji1 niu2 ， feng1 lin2 du4 fei1 niao3 。
-- shan1 xing2 wei4 shi2 li3 ， jia1 chu3 zhe2 jie4 cao3 。
-- dao4 feng2 qing1 jin1 sheng1 ， gan1 dan3 zong3 qing1 dao3 。
-- fen1 shou3 ge4 dong1 xi1 ， pin2 hua1 feng1 niao3 niao3 。
+- zao3 xing2 li3 gui1 zhuang1 ， can2 deng1 geng3 shu3 guang1 。
+- kai1 men2 ban4 shan1 yue4 ， li4 ma3 yi4 ting2 shuang1 。
+- zhong1 xiang3 zhi1 yun2 si4 ， bo1 sheng1 ren4 shi2 liang2 。
+- xiu1 tu2 liu2 bu2 zhu4 ， qu4 qu4 chu1 shan1 zhuang1 。
 
 ## 注释
 

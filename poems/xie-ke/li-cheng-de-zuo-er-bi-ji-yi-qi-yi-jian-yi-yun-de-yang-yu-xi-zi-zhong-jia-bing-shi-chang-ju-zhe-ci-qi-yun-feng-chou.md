@@ -6,10 +6,10 @@ titleSlug: li-cheng-de-zuo-er-bi-ji-yi-qi-yi-jian-yi-yun-de-yang-yu-xi-zi-zhong-
 author: 謝薖
 authorPinyin: xie4 ke1
 authorSlug: xie-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

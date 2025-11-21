@@ -6,10 +6,10 @@ titleSlug: zheng-yue-qi-ri-chu-jian-mei-hua
 author: 方元修
 authorPinyin: fang1 yuan2 xiu1
 authorSlug: fang-yuan-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: xi-ning-wang-ji-yue-zhen-hai-du-shi-qi-shou-song-shen-yong-ning-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 神之至止，熙壇爲春。
-- 神之將歸，旂服振振。
-- 欻兮迴飈，窅兮旋雲。
-- 祐于東方，永施厥仁。
+- 維山及川，奠宅幽方。
+- 我度其靈，降止靡常。
+- 肅肅坎壇，既迎既將。
+- 促樂徹俎，是送是望。
 
 ## 拼音
 
-- shen2 zhi1 zhi4 zhi3 ， xi1 tan2 wei2 chun1 。
-- shen2 zhi1 jiang1 gui1 ， qi2 fu2 zhen4 zhen4 。
-- chua1 xi1 hui2 biao1 ， yao3 xi1 xuan2 yun2 。
-- you4 yu2 dong1 fang1 ， yong3 shi1 jue2 ren2 。
+- wei2 shan1 ji2 chuan1 ， dian4 zhai2 you1 fang1 。
+- wo3 du4 qi2 ling2 ， jiang4 zhi3 mi2 chang2 。
+- su4 su4 kan3 tan2 ， ji4 ying2 ji4 jiang1 。
+- cu4 le4 che4 zu3 ， shi4 song4 shi4 wang4 。
 
 ## 注释
 

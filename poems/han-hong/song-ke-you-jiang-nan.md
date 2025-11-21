@@ -9,22 +9,22 @@ authorSlug: han-hong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 南使孤帆遠，東風任意吹。
-- 楚雲殊不斷，江鳥暫相隨。
-- 月淨鴛鴦水，春生豆蔻枝。
-- 賞稱佳麗地，君去莫應知。
+- 桂水隨去遠，賞心知有餘。
+- 衣香楚山橘，手鱠湘波魚。
+- 芳芷不共把，浮雲悵離居。
+- 遙想汩羅上，弔屈秋風初。
 
 ## 拼音
 
-- nan2 shi3 gu1 fan1 yuan3 ， dong1 feng1 ren4 yi4 chui1 。
-- chu3 yun2 shu1 bu2 duan4 ， jiang1 niao3 zan4 xiang1 sui2 。
-- yue4 jing4 yuan1 yang1 shui3 ， chun1 sheng1 dou4 kou4 zhi1 。
-- shang3 cheng1 jia1 li2 di4 ， jun1 qu4 mo4 ying1 zhi1 。
+- gui4 shui3 sui2 qu4 yuan3 ， shang3 xin1 zhi1 you3 yu2 。
+- yi1 xiang1 chu3 shan1 ju2 ， shou3 kuai4 xiang1 bo1 yu2 。
+- fang1 zhi3 bu2 gong4 ba3 ， fu2 yun2 chang4 li2 ju1 。
+- yao2 xiang3 gu3 luo2 shang4 ， diao4 qu1 qiu1 feng1 chu1 。
 
 ## 注释
 

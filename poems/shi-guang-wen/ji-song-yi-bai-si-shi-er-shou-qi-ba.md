@@ -1,30 +1,26 @@
 ---
 id: shi-guang-wen-ji-song-yi-bai-si-shi-er-shou-qi-ba
-title: 偈頌一百四十二首  其八
-titlePinyin: ji4 song4 yi4 bai3 si4 shi2 er4 shou3     qi2 ba1
+title: 偈頌一百四十二首  其八○
+titlePinyin: ji4 song4 yi4 bai3 si4 shi2 er4 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-si-shi-er-shou-qi-ba
 author: 釋廣聞
 authorPinyin: shi4 guang3 wen2
 authorSlug: shi-guang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 森羅及萬象，一法之所印。
-- 晝見日，夜見星。
-- 松本直，棘本曲，如何是一法。
-- 一冬二冬，叉手當胸。
+- 用毗盧正印，揭仲尼日月。
+- 一字不著畫，八字無兩丿。
 
 ## 拼音
 
-- sen1 luo2 ji2 wan4 xiang4 ， yi4 fa3 zhi1 suo3 yin4 。
-- zhou4 jian4 ri4 ， ye4 jian4 xing1 。
-- song1 ben3 zhi2 ， ji2 ben3 qu3 ， ru2 he2 shi4 yi4 fa3 。
-- yi4 dong1 er4 dong1 ， cha1 shou3 dang1 xiong1 。
+- yong4 pi2 lu2 zheng4 yin4 ， jie1 zhong4 ni2 ri4 yue4 。
+- yi2 zi4 bu2 zhu4 hua4 ， ba1 zi4 wu2 liang3 pie3 。
 
 ## 注释
 

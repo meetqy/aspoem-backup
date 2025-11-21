@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 珊瑚植立壯林巒，翡翠巑岏作小灘。
-- 几案自成清曠景，蓬山常對座隅看。
+- 杏子成丹乳雀飛，柳條搖曳拂漣漪。
+- 瑤宮露井殘紅滿，惆悵晴空欲暮時。
 
 ## 拼音
 
-- shan1 hu2 zhi2 li4 zhuang4 lin2 luan2 ， fei3 cui4 cuan2 wan2 zuo4 xiao3 tan1 。
-- ji1 an4 zi4 cheng2 qing1 kuang4 jing3 ， peng2 shan1 chang2 dui4 zuo4 yu2 kan4 。
+- xing4 zi0 cheng2 dan1 ru3 que4 fei1 ， liu3 tiao2 yao2 ye4 fu2 lian2 yi1 。
+- yao2 gong1 lu4 jing3 can2 hong2 man3 ， chou2 chang4 qing2 kong1 yu4 mu4 shi2 。
 
 ## 注释
 

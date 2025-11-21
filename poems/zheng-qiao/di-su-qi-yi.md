@@ -1,30 +1,30 @@
 ---
 id: zheng-qiao-di-su-qi-yi
-title: 滌愫  其一
-titlePinyin: di2 su4     qi2 yi1
+title: 滌愫  其一○
+titlePinyin: di2 su4     qi2 yi1 ○
 titleSlug: di-su-qi-yi
 author: 鄭樵
 authorPinyin: zheng4 qiao2
 authorSlug: zheng-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 枳棘何榛榛，猿狖不敢下。
-- 芳苓何燁燁，雹霜不敢灑。
-- 驊騮馳曲囏，舉足難寬假。
-- 所以古之人，犁鋤聊自把。
+- 嗟余本固陋，湛身入花渚。
+- 未製芙蓉裳，已習離騷語。
+- 綽約雖多姿，涕零何如雨。
+- 季夏遭繁霜，天寒不可禦。
 
 ## 拼音
 
-- zhi3 ji2 he2 zhen1 zhen1 ， yuan2 you4 bu4 gan3 xia4 。
-- fang1 ling2 he2 ye4 ye4 ， bao2 shuang1 bu4 gan3 sa3 。
-- hua2 liu2 chi2 qu3 jian1 ， ju3 zu2 nan2 kuan1 jia3 。
-- suo3 yi3 gu3 zhi1 ren2 ， li2 chu2 liao2 zi4 ba3 。
+- jie1 yu2 ben3 gu4 lou4 ， zhan4 shen1 ru4 hua1 zhu3 。
+- wei4 zhi4 fu2 rong2 shang0 ， yi3 xi2 li2 sao1 yu3 。
+- chuo4 yue1 sui1 duo1 zi1 ， ti4 ling2 he2 ru2 yu3 。
+- ji4 xia4 zao1 fan2 shuang1 ， tian1 han2 bu4 ke3 yu4 。
 
 ## 注释
 

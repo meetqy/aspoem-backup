@@ -9,22 +9,24 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 海陽湖下溪，夾峯多異石。
-- 數步□□□，溶溶似雲白。
-- 竹陰入□裏，更覺溪已碧。
-- 吾欲漱斯流，長爲避時客。
+- 湖水下爲溪，溪小趣更幽。
+- 窈窕林中迴，清泠石上流。
+- 掩映成碧潭，遊戲見白鷗。
+- 岸傍古樹根，往往疑潛虬。
+- 野情隨所適，世事何沈浮。
 
 ## 拼音
 
-- hai3 yang2 hu2 xia4 xi1 ， jia1 feng1 duo1 yi4 shi2 。
-- shu4 bu4 □□□， rong2 rong2 si4 yun2 bai2 。
-- zhu2 yin1 ru4 □ li3 ， geng4 jue2 xi1 yi3 bi4 。
-- wu2 yu4 shu4 si1 liu2 ， chang2 wei2 bi4 shi2 ke4 。
+- hu2 shui3 xia4 wei2 xi1 ， xi1 xiao3 qu4 geng4 you1 。
+- yao3 tiao3 lin2 zhong1 hui2 ， qing1 ling2 shi2 shang4 liu2 。
+- yan3 ying4 cheng2 bi4 tan2 ， you2 xi4 jian4 bai2 ou1 。
+- an4 bang4 gu3 shu4 gen1 ， wang3 wang3 yi2 qian2 qiu2 。
+- ye3 qing2 sui2 suo3 shi4 ， shi4 shi4 he2 shen3 fu2 。
 
 ## 注释
 

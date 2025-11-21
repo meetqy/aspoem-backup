@@ -6,10 +6,10 @@ titleSlug: hai-shan-tu-er-shou-qi-er
 author: 趙文
 authorPinyin: zhao4 wen2
 authorSlug: zhao-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

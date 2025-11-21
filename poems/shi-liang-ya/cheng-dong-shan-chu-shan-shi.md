@@ -6,9 +6,9 @@ titleSlug: cheng-dong-shan-chu-shan-shi
 author: 釋良雅
 authorPinyin: shi4 liang2 ya3
 authorSlug: shi-liang-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

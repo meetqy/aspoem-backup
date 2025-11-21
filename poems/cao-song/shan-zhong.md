@@ -9,22 +9,22 @@ authorSlug: cao-song
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 此地似商嶺，雲霞空往還。
-- 衰條難定鳥，缺月易依山。
-- 野色耕不盡，溪容釣自閑。
-- 分因多臥退，百計少相關。
+- 要路豪家非往還，巖門先有不曾關。
+- 衆心惟恐地無剩，吾意亦憂天惜閑。
+- 白練曳泉窗下石，絳羅垂果枕前山。
+- 樵夫豈解營生業，貴欲自安麋鹿間。
 
 ## 拼音
 
-- ci3 di4 si4 shang1 ling3 ， yun2 xia2 kong1 wang3 huan2 。
-- shuai1 tiao2 nan2 ding4 niao3 ， que1 yue4 yi4 yi1 shan1 。
-- ye3 se4 geng1 bu2 jin4 ， xi1 rong2 diao4 zi4 xian2 。
-- fen1 yin1 duo1 wo4 tui4 ， bai3 ji4 shao3 xiang1 guan1 。
+- yao4 lu4 hao2 jia1 fei1 wang3 huan2 ， yan2 men2 xian1 you3 bu4 ceng2 guan1 。
+- zhong4 xin1 wei2 kong3 di4 wu2 sheng4 ， wu2 yi4 yi4 you1 tian1 xi1 xian2 。
+- bai2 lian4 ye4 quan2 chuang1 xia4 shi2 ， jiang4 luo2 chui2 guo3 zhen3 qian2 shan1 。
+- qiao2 fu1 qi3 jie3 ying2 sheng1 ye4 ， gui4 yu4 zi4 an1 mi2 lu4 jian4 。
 
 ## 注释
 

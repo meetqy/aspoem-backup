@@ -6,21 +6,21 @@ titleSlug: wan-ju
 author: 史鑄
 authorPinyin: shi3 zhu4
 authorSlug: shi-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青蘂重陽不堪摘，重陽已過菊方開。
-- 不將時節較早晚，且折霜蕤浸玉醅。
+- 節過霜風衮衮來，菊花寂寞晚仍開。
+- 誰云既晚何用好，爲我殷勤送一杯。
 
 ## 拼音
 
-- qing1 rui3 zhong4 yang2 bu4 kan1 zhai1 ， zhong4 yang2 yi3 guo4 ju2 fang1 kai1 。
-- bu4 jiang1 shi2 jie2 jiao4 zao3 wan3 ， qie3 zhe2 shuang1 rui2 jin4 yu4 pei1 。
+- jie2 guo4 shuang1 feng1 gun3 gun3 lai2 ， ju2 hua1 ji4 mo4 wan3 reng2 kai1 。
+- shui2 yun2 ji4 wan3 he2 yong4 hao3 ， wei2 wo3 yin1 qin2 song4 yi4 bei1 。
 
 ## 注释
 

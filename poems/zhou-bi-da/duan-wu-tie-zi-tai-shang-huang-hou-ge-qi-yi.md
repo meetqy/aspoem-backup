@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-hou-ge-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 艾葉雙人巧，菖花九節榮。
-- 玉皇膺曼壽，金母共長生。
+- 令節仍豐歲，宮闈樂事全。
+- 千祥并萬壽，善頌入薰絃。
 
 ## 拼音
 
-- ai4 ye4 shuang1 ren2 qiao3 ， chang1 hua1 jiu3 jie2 rong2 。
-- yu4 huang2 ying1 man4 shou4 ， jin1 mu3 gong4 chang2 sheng1 。
+- ling4 jie2 reng2 feng1 sui4 ， gong1 wei2 le4 shi4 quan2 。
+- qian1 xiang2 bing4 wan4 shou4 ， shan4 song4 ru4 xun1 xian2 。
 
 ## 注释
 

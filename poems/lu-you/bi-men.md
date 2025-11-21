@@ -6,25 +6,25 @@ titleSlug: bi-men
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寂雲山千萬重，閉門不忍嘆塗窮。
-- 高秋酒熟雪浮瓮，中夜劍歸雷吼空。
-- 近報冦戎迯漠北，豈無貔虎定關中。
-- 君王猶記孤忠在，安得英豪共此功。
+- 閉門何所樂，聊息此生勞。
+- 霜薄殘蕪綠，風酣萬木號。
+- 研朱點周易，飲酒讀離騷。
+- 斷盡功名念，非關快剪刀。
 
 ## 拼音
 
-- ji4 ji4 yun2 shan1 qian1 wan4 zhong4 ， bi4 men2 bu4 ren3 tan4 tu2 qiong2 。
-- gao1 qiu1 jiu3 shu2 xue3 fu2 weng4 ， zhong1 ye4 jian4 gui1 lei2 hou3 kong1 。
-- jin4 bao4 kou4 rong2 tao2 mo4 bei3 ， qi3 wu2 pi2 hu3 ding4 guan1 zhong1 。
-- jun1 wang2 you2 ji4 gu1 zhong1 zai4 ， an1 de2 ying1 hao2 gong4 ci3 gong1 。
+- bi4 men2 he2 suo3 le4 ， liao2 xi1 ci3 sheng1 lao2 。
+- shuang1 bao2 can2 wu2 lü4 ， feng1 han1 wan4 mu4 hao4 。
+- yan2 zhu1 dian3 zhou1 yi4 ， yin3 jiu3 du2 li2 sao1 。
+- duan4 jin4 gong1 ming2 nian4 ， fei1 guan1 kuai4 jian3 dao1 。
 
 ## 注释
 

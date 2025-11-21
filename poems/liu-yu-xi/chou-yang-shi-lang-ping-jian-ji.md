@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 十年毛羽催頹，一旦天書召回。
-- 看看瓜時欲到，故侯也好歸來。
+- 翔鸞闕底謝皇恩，纓上滄浪舊水痕。
+- 疎傅揮金忽相憶，遠擎長句與招魂。
 
 ## 拼音
 
-- shi2 nian2 mao2 yu3 cui1 tui2 ， yi2 dan4 tian1 shu1 zhao4 hui2 。
-- kan4 kan4 gua1 shi2 yu4 dao4 ， gu4 hou2 ye3 hao3 gui1 lai2 。
+- xiang2 luan2 que4 di3 xie4 huang2 en1 ， ying1 shang4 cang1 lang4 jiu4 shui3 hen2 。
+- shu1 fu4 hui1 jin1 hu1 xiang1 yi4 ， yuan3 qing2 chang2 ju4 yu3 zhao1 hun2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: lian-xue-bu-yi-fu-zuo-jue-ju-yong-zhi-ji-liu-er-zhi-dai-wei-mian-bu-c
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

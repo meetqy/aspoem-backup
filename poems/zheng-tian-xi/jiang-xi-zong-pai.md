@@ -6,10 +6,10 @@ titleSlug: jiang-xi-zong-pai
 author: 鄭天錫
 authorPinyin: zheng4 tian1 xi1
 authorSlug: zheng-tian-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

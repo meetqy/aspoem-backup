@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲巖小石碧嶙峋，瑩徹仍移玉座親。
-- 千仞喬崧雖突秀，未如纖巧具天真。
+- 都府新儀置六曹，壯威京尹勢增豪。
+- 屢空囹圄人知化，典憲從中力不勞。
 
 ## 拼音
 
-- yun2 yan2 xiao3 shi2 bi4 lin2 xun2 ， ying2 che4 reng2 yi2 yu4 zuo4 qin1 。
-- qian1 ren4 qiao2 song1 sui1 tu1 xiu4 ， wei4 ru2 xian1 qiao3 ju4 tian1 zhen1 。
+- du1 fu3 xin1 yi2 zhi4 liu4 cao2 ， zhuang4 wei1 jing1 yin3 shi4 zeng1 hao2 。
+- lü3 kong1 ling2 yu3 ren2 zhi1 hua4 ， dian3 xian4 cong2 zhong1 li4 bu4 lao2 。
 
 ## 注释
 

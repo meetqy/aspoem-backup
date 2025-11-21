@@ -6,25 +6,25 @@ titleSlug: xiao-zong-huang-di-wan-ci-wu-shou-qi-san
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 神機規禹迹，鬼膽破胡兒。
-- 大號初歸我，成功少待時。
-- 鞬櫜懷不滿，簞食問何遲。
-- 河洛空遺恨，年年上玉巵。
+- 豈以崇高極，能忘凜凜憂。
+- 衣更三澣舊，費爲十金休。
+- 熊館無秋獵，期門絕夜遊。
+- 恭惟懷顯德，真可締孫謀。
 
 ## 拼音
 
-- shen2 ji1 gui1 yu3 ji4 ， gui3 dan3 po4 hu2 er2 。
-- da4 hao4 chu1 gui1 wo3 ， cheng2 gong1 shao3 dai1 shi2 。
-- jian1 gao1 huai2 bu4 man3 ， dan1 shi2 wen4 he2 chi2 。
-- he2 luo4 kong1 yi2 hen4 ， nian2 nian2 shang4 yu4 zhi1 。
+- qi3 yi3 chong2 gao1 ji2 ， neng2 wang4 lin3 lin3 you1 。
+- yi1 geng4 san1 huan4 jiu4 ， fei4 wei2 shi2 jin1 xiu1 。
+- xiong2 guan3 wu2 qiu1 lie4 ， qi1 men2 jue2 ye4 you2 。
+- gong1 wei2 huai2 xian3 de2 ， zhen1 ke3 di4 sun1 mou2 。
 
 ## 注释
 

@@ -1,24 +1,24 @@
 ---
 id: xu-fu-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄氣遠臨天北極，紫宸位在殿中央。
+- 青干霄外山千尺，碧入林間水一條。
 
 ## 拼音
 
-- huang2 qi4 yuan3 lin2 tian1 bei3 ji2 ， zi3 chen2 wei4 zai4 dian4 zhong1 yang1 。
+- qing1 gan1 xiao1 wai4 shan1 qian1 chi3 ， bi4 ru4 lin2 jian4 shui3 yi4 tiao2 。
 
 ## 注释
 

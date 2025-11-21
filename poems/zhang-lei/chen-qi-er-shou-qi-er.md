@@ -6,21 +6,33 @@ titleSlug: chen-qi-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中宵爽氣入衾裯，簷雨浪浪曉末收。
-- 三伏炎歊掃除盡，待教明月放清秋。
+- 窮居無遠念，暇日親庖厨。
+- 澤國富滋味，春江出嘉魚。
+- 鬻市有懸羔，擷園得嘉蔬。
+- 雖無五鼎烹，薦俎頗有餘。
+- 導和資一杯，徑使愁肺蘇。
+- 條味以實氣，聊以彊吾軀。
+- 聖賢戒求飽，豐德任形臞。
+- 彼皆勤勵智，我獨懶求愚。
 
 ## 拼音
 
-- zhong1 xiao1 shuang3 qi4 ru4 qin1 dao1 ， yan2 yu3 lang4 lang4 xiao3 mo4 shou1 。
-- san1 fu2 yan2 xiao1 sao3 chu2 jin4 ， dai4 jiao4 ming2 yue4 fang4 qing1 qiu1 。
+- qiong2 ju1 wu2 yuan3 nian4 ， xia2 ri4 qin1 pao2 chu2 。
+- ze2 guo2 fu4 zi1 wei4 ， chun1 jiang1 chu1 jia1 yu2 。
+- yu4 shi4 you3 xuan2 gao1 ， xie2 yuan2 de2 jia1 shu1 。
+- sui1 wu2 wu3 ding3 peng1 ， jian4 zu3 po1 you3 yu2 。
+- dao3 he2 zi1 yi4 bei1 ， jing4 shi3 chou2 fei4 su1 。
+- tiao2 wei4 yi3 shi2 qi4 ， liao2 yi3 qiang2 wu2 qu1 。
+- sheng4 xian2 jie4 qiu2 bao3 ， feng1 de2 ren4 xing2 qu2 。
+- bi3 jie1 qin2 li4 zhi4 ， wo3 du2 lan3 qiu2 yu2 。
 
 ## 注释
 

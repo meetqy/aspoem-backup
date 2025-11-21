@@ -6,10 +6,10 @@ titleSlug: ti-tai-ping-xing-guo-gong
 author: 李受
 authorPinyin: li3 shou4
 authorSlug: li-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

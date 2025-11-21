@@ -1,6 +1,6 @@
 ---
 id: wang-zhou-chun-da
-title: 春答
+title: 春荅
 titlePinyin: chun1 da2
 titleSlug: chun-da
 author: 王周
@@ -9,7 +9,7 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

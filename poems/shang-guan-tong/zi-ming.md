@@ -6,10 +6,10 @@ titleSlug: zi-ming
 author: 上官統
 authorPinyin: shang4 guan1 tong3
 authorSlug: shang-guan-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

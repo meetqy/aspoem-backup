@@ -6,10 +6,10 @@ titleSlug: song-shu-ming-fu-zhi-zi-cheng-gang-zhong-shi-de-zhuo-jia-ke-er-shou-q
 author: 王邁
 authorPinyin: wang2 mai4
 authorSlug: wang-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: lai-yan-tang-lian-ju
 author: 趙概
 authorPinyin: zhao4 gai4
 authorSlug: zhao-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

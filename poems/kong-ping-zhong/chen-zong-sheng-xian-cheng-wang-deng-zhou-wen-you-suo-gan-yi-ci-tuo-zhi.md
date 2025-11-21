@@ -6,10 +6,10 @@ titleSlug: chen-zong-sheng-xian-cheng-wang-deng-zhou-wen-you-suo-gan-yi-ci-tuo-z
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

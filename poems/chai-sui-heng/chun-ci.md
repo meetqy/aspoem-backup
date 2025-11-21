@@ -6,25 +6,21 @@ titleSlug: chun-ci
 author: 柴隨亨
 authorPinyin: chai2 sui2 heng1
 authorSlug: chai-sui-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 采蘩春日詠遲遲，何事于今詠黍離。
-- 夜到子中分旦氣，歲從寅上授人時。
-- 野花啼鳥般般意，流水孤村岸岸移。
-- 且向醉中歌一曲，自憐吾及共吾兒。
+- 爐烟爇盡冷衣篝，長樂鐘聲半入樓。
+- 燕子不歸春夢斷，刺桐花月上簾鉤。
 
 ## 拼音
 
-- cai3 fan2 chun1 ri4 yong3 chi2 chi2 ， he2 shi4 yu2 jin1 yong3 shu3 li2 。
-- ye4 dao4 zi3 zhong1 fen1 dan4 qi4 ， sui4 cong2 yin2 shang4 shou4 ren2 shi2 。
-- ye3 hua1 ti2 niao3 ban1 ban1 yi4 ， liu2 shui3 gu1 cun1 an4 an4 yi2 。
-- qie3 xiang4 zui4 zhong1 ge1 yi4 qu3 ， zi4 lian2 wu2 ji2 gong4 wu2 er2 。
+- lu2 yan1 ruo4 jin4 leng3 yi1 gou1 ， chang2 le4 zhong1 sheng1 ban4 ru4 lou2 。
+- yan4 zi0 bu4 gui1 chun1 meng4 duan4 ， ci4 tong2 hua1 yue4 shang4 lian2 gou1 。
 
 ## 注释
 

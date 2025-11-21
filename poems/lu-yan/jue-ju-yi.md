@@ -9,18 +9,18 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 捉得金晶固命基，日魂東畔月華西。
-- 於中煉就長生藥，服了還同天地齊。
+- 息精息氣養精神，精養丹田氣養身。
+- 有人學得這般術，便是長生不死人。
 
 ## 拼音
 
-- zhuo1 de2 jin1 jing1 gu4 ming4 ji1 ， ri4 hun2 dong1 pan4 yue4 hua2 xi1 。
-- wu1 zhong1 lian4 jiu4 chang2 sheng1 yao4 ， fu2 le0 huan2 tong2 tian1 di4 qi2 。
+- xi1 jing1 xi1 qi4 yang3 jing1 shen2 ， jing1 yang3 dan1 tian2 qi4 yang3 shen1 。
+- you3 ren2 xue2 de2 zhe4 ban1 shu4 ， bian4 shi4 chang2 sheng1 bu4 si3 ren2 。
 
 ## 注释
 

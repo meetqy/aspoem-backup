@@ -6,10 +6,10 @@ titleSlug: li-fu-chi-wang-lu-yue-shi-ri-ru-jia-kou-zhi-da-xun-yang-sui-she-da-ji
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jun-shan
 author: 史{隽乃=冏}之
 authorPinyin: shi3 { jun4 nai3 = jiong3 } zhi1
 authorSlug: shi-jun-nai-jiong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

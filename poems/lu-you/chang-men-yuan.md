@@ -6,29 +6,29 @@ titleSlug: chang-men-yuan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒風號有聲，寒日慘無暉。
-- 空房不敢恨，但懷歲暮悲。
-- 今年選後宫，連娟千蛾眉。
-- 早知獲譴速，悔不承恩遲。
-- 聲當徹九天，泪當達九泉。
-- 死猶復見思，生當長棄捐。
+- 未央宫中花月夕，歌舞稱觴天咫尺。
+- 從来所恃獨君王，一日讒興誰爲直。
+- 咫尺之天今萬里，空在長安一城裏。
+- 春風時送簫韶聲，獨掩羅巾泪如洗。
+- 泪如洗兮天不知，此生再見應無期。
+- 不如南粤匈奴使，航海梯山有到時。
 
 ## 拼音
 
-- han2 feng1 hao4 you3 sheng1 ， han2 ri4 can3 wu2 hui1 。
-- kong4 fang2 bu4 gan3 hen4 ， dan4 huai2 sui4 mu4 bei1 。
-- jin1 nian2 xuan3 hou4 gong1 ， lian2 juan1 qian1 e2 mei2 。
-- zao3 zhi1 huo4 qian3 su4 ， hui3 bu4 cheng2 en1 chi2 。
-- sheng1 dang1 che4 jiu3 tian1 ， lei4 dang1 da2 jiu3 quan2 。
-- si3 you2 fu4 jian4 si1 ， sheng1 dang1 chang2 qi4 juan1 。
+- wei4 yang1 gong1 zhong1 hua1 yue4 xi1 ， ge1 wu3 cheng1 shang1 tian1 zhi3 chi3 。
+- cong2 lai2 suo3 shi4 du2 jun1 wang2 ， yi2 ri4 chan2 xing1 shui2 wei2 zhi2 。
+- zhi3 chi3 zhi1 tian1 jin1 wan4 li3 ， kong1 zai4 chang2 an1 yi4 cheng2 li3 。
+- chun1 feng1 shi2 song4 xiao1 shao2 sheng1 ， du2 yan3 luo2 jin1 lei4 ru2 xi3 。
+- lei4 ru2 xi3 xi1 tian1 bu4 zhi1 ， ci3 sheng1 zai4 jian4 ying1 wu2 qi1 。
+- bu4 ru2 nan2 yue4 xiong1 nu2 shi3 ， hang2 hai3 ti1 shan1 you3 dao4 shi2 。
 
 ## 注释
 

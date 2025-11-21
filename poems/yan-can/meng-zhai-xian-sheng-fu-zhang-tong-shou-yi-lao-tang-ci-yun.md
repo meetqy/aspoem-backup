@@ -6,10 +6,10 @@ titleSlug: meng-zhai-xian-sheng-fu-zhang-tong-shou-yi-lao-tang-ci-yun
 author: 嚴粲
 authorPinyin: yan2 can4
 authorSlug: yan-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

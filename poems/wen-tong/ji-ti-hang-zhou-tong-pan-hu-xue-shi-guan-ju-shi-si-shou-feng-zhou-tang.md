@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ji-ti-hang-zhou-tong-pan-hu-xue-shi-guan-ju-shi-si-shou-feng-zhou-tang
-title: 寄題杭州通判胡學士官居詩四首・鳳咮堂
-titlePinyin: ji4 ti2 hang2 zhou1 tong1 pan4 hu2 xue2 shi4 guan1 ju1 shi1 si4 shou3・feng4 zhou4 tang2
+title: 寄題杭州通判胡學士官居詩四首 鳳咮堂
+titlePinyin: ji4 ti2 hang2 zhou1 tong1 pan4 hu2 xue2 shi4 guan1 ju1 shi1 si4 shou3   feng4 zhou4 tang2
 titleSlug: ji-ti-hang-zhou-tong-pan-hu-xue-shi-guan-ju-shi-si-shou-feng-zhou-tang
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

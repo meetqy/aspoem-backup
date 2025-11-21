@@ -9,24 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 苦痛役身心，勞神覓官職。
-- 暫得色毛披，拍按作瞋色。
-- 口口打奴兵，聲聲遣拔肋。
-- 聞道送王老，曲亦變成直。
-- 縱令有理道，分疎亦不得。
+- 報汝世人莫癡憨，暫時權住此草菴。
+- 無想衣食飽暖後，世間有物不須貪。
+- 此身幻化如燈焰，須臾不覺即頭南。
 
 ## 拼音
 
-- ku3 tong4 yi4 shen1 xin1 ， lao2 shen2 mi4 guan1 zhi2 。
-- zan4 de2 se4 mao2 pi1 ， pai1 an4 zuo4 chen1 se4 。
-- kou3 kou3 da3 nu2 bing1 ， sheng1 sheng1 qian3 ba2 lei4 。
-- wen2 dao4 song4 wang2 lao3 ， qu3 yi4 bian4 cheng2 zhi2 。
-- zong4 ling4 you3 li3 dao4 ， fen1 shu1 yi4 bu4 de2 。
+- bao4 ru3 shi4 ren2 mo4 chi1 han1 ， zan4 shi2 quan2 zhu4 ci3 cao3 an1 。
+- wu2 xiang3 yi1 shi2 bao3 nuan3 hou4 ， shi4 jian4 you3 wu4 bu4 xu1 tan1 。
+- ci3 shen1 huan4 hua4 ru2 deng1 yan4 ， xu1 yu2 bu4 jue2 ji2 tou2 nan2 。
 
 ## 注释
 

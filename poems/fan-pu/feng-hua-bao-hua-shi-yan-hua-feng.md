@@ -6,10 +6,10 @@ titleSlug: feng-hua-bao-hua-shi-yan-hua-feng
 author: 樊圃
 authorPinyin: fan2 pu3
 authorSlug: fan-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

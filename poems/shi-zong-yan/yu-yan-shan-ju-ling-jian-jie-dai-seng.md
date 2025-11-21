@@ -6,9 +6,9 @@ titleSlug: yu-yan-shan-ju-ling-jian-jie-dai-seng
 author: 釋宗演
 authorPinyin: shi4 zong1 yan3
 authorSlug: shi-zong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

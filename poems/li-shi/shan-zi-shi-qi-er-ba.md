@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-ba
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三召三逐去之，老眼已不識路。
-- 偶然得箇漁家，此是桃溪西渡。
+- 戰葉初收兩點稀，入簾花影碎晴暉。
+- 莫留一物遮人眼，展出青天放鶴飛。
 
 ## 拼音
 
-- san1 zhao4 san1 zhu2 qu4 zhi1 ， lao3 yan3 yi3 bu4 shi2 lu4 。
-- ou3 ran2 de2 ge4 yu2 jia1 ， ci3 shi4 tao2 xi1 xi1 du4 。
+- zhan4 ye4 chu1 shou1 liang3 dian3 xi1 ， ru4 lian2 hua1 ying3 sui4 qing2 hui1 。
+- mo4 liu2 yi2 wu4 zhe1 ren2 yan3 ， zhan3 chu1 qing1 tian1 fang4 he4 fei1 。
 
 ## 注释
 

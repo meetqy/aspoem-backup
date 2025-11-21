@@ -6,10 +6,10 @@ titleSlug: he-li-chu-mai-ti-cui-qing-ge
 author: 江緯
 authorPinyin: jiang1 wei3
 authorSlug: jiang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

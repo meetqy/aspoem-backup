@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-shuang-hou-ji-yuan-zhong-cao-mu-shi-er-jue-qi-wu
-title: 霜後紀園中草木十二絕・其五
-titlePinyin: shuang1 hou4 ji4 yuan2 zhong1 cao3 mu4 shi2 er4 jue2・qi2 wu3
+title: 霜後紀園中草木十二絕  其五
+titlePinyin: shuang1 hou4 ji4 yuan2 zhong1 cao3 mu4 shi2 er4 jue2     qi2 wu3
 titleSlug: shuang-hou-ji-yuan-zhong-cao-mu-shi-er-jue-qi-wu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

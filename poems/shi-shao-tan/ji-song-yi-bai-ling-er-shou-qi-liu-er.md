@@ -6,23 +6,27 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-liu-er
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 未見岑大蟲，狐膽先驚破。
-- 密室不通風，家私狼藉了。
-- 更說新開乳竇山，無端刻糞作旃檀。
+- 籬菊鋪黄，茱萸噴香。
+- 淵明錯會，耽賞重陽。
+- 何似林間衲子，無榮無辱，無可思量。
+- 飽噇香積飯，高卧古禪床。
+- 是佛是魔俱掃跡，獻花無路鳥空忙。
 
 ## 拼音
 
-- wei4 jian4 cen2 da4 chong2 ， hu2 dan3 xian1 jing1 po4 。
-- mi4 shi4 bu4 tong1 feng1 ， jia1 si1 lang2 ji2 le0 。
-- geng4 shuo1 xin1 kai1 ru3 dou4 shan1 ， wu2 duan1 ke4 fen4 zuo4 zhan1 tan2 。
+- li2 ju2 pu1 huang2 ， zhu1 yu2 pen1 xiang1 。
+- yuan1 ming2 cuo4 hui4 ， dan1 shang3 zhong4 yang2 。
+- he2 si4 lin2 jian4 na4 zi0 ， wu2 rong2 wu2 ru3 ， wu2 ke3 si1 liang0 。
+- bao3 chuang2 xiang1 ji1 fan4 ， gao1 wo4 gu3 shan4 chuang2 。
+- shi4 fo2 shi4 mo2 ju4 sao3 ji4 ， xian4 hua1 wu2 lu4 niao3 kong1 mang2 。
 
 ## 注释
 

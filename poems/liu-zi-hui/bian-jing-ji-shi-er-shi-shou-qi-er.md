@@ -1,26 +1,26 @@
 ---
 id: liu-zi-hui-bian-jing-ji-shi-er-shi-shou-qi-er
-title: 汴京紀事二十首  其二
-titlePinyin: bian4 jing1 ji4 shi4 er4 shi2 shou3     qi2 er4
+title: 汴京紀事二十首  其二○
+titlePinyin: bian4 jing1 ji4 shi4 er4 shi2 shou3     qi2 er4 ○
 titleSlug: bian-jing-ji-shi-er-shi-shou-qi-er
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉璽相傳舜紹堯，壺春堂上獨逍遥。
-- 唐虞盛事今寥落，盡卷清風入聖朝。
+- 輦轂繁華事可傷，師師垂老過湖湘。
+- 縷衣檀板無顔色，一曲當時動帝王。
 
 ## 拼音
 
-- yu4 xi3 xiang1 chuan2 shun4 shao4 yao2 ， hu2 chun1 tang2 shang4 du2 xiao1 yao2 。
-- tang2 yu2 sheng4 shi4 jin1 liao2 luo4 ， jin4 juan4 qing1 feng1 ru4 sheng4 chao2 。
+- nian3 gu3 fan2 hua2 shi4 ke3 shang1 ， shi1 shi1 chui2 lao3 guo4 hu2 xiang1 。
+- lü3 yi1 tan2 ban3 wu2 yan2 se4 ， yi4 qu3 dang1 shi2 dong4 di4 wang2 。
 
 ## 注释
 

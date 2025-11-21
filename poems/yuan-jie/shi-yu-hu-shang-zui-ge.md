@@ -6,10 +6,10 @@ titleSlug: shi-yu-hu-shang-zui-ge
 author: 元結
 authorPinyin: yuan2 jie2
 authorSlug: yuan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

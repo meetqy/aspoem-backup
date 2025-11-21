@@ -6,9 +6,9 @@ titleSlug: gong-ci-qi-si-ba
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
@@ -19,7 +19,7 @@ tags: []
 
 ## 拼音
 
-- si1 si1 xin1 zhi1 yu4 { ge2 you2 } jiang1 ， zi3 yan4 chun1 an1 zhao4 di4 guang1 。
+- si1 si1 xin1 zhi1 yu4  { ge2 you2 }  jiang1 ， zi3 yan4 chun1 an1 zhao4 di4 guang1 。
 - shuang1 kong4 zhui4 shao1 jie1 shi4 nü3 ， yu4 bian1 rou2 ruan3 fu2 chui2 yang2 。
 
 ## 注释

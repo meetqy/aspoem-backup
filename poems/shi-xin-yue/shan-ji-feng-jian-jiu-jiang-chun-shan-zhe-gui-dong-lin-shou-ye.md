@@ -6,10 +6,10 @@ titleSlug: shan-ji-feng-jian-jiu-jiang-chun-shan-zhe-gui-dong-lin-shou-ye
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

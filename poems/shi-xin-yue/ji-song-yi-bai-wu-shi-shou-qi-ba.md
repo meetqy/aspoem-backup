@@ -1,26 +1,30 @@
 ---
 id: shi-xin-yue-ji-song-yi-bai-wu-shi-shou-qi-ba
-title: 偈頌一百五十首  其八
-titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 ba1
+title: 偈頌一百五十首  其八○
+titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-wu-shi-shou-qi-ba
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竺土大僊心，東西密相付。
-- 謹白參玄人，光陰莫虛度。
+- 久晴不雨則旱，旱固可憂。
+- 久雨不晴則澇，澇亦可憂。
+- 不旱不澇，尤爲可憂。
+- 不曾下得春時種，空向田頭望有秋。
 
 ## 拼音
 
-- zhu2 tu3 da4 xian1 xin1 ， dong1 xi1 mi4 xiang1 fu4 。
-- jin3 bai2 can1 xuan2 ren2 ， guang1 yin1 mo4 xu1 du4 。
+- jiu3 qing2 bu4 yu3 ze2 han4 ， han4 gu4 ke3 you1 。
+- jiu3 yu3 bu4 qing2 ze2 lao4 ， lao4 yi4 ke3 you1 。
+- bu2 han4 bu2 lao4 ， you2 wei2 ke3 you1 。
+- bu4 ceng2 xia4 de2 chun1 shi2 zhong3 ， kong1 xiang4 tian2 tou2 wang4 you3 qiu1 。
 
 ## 注释
 

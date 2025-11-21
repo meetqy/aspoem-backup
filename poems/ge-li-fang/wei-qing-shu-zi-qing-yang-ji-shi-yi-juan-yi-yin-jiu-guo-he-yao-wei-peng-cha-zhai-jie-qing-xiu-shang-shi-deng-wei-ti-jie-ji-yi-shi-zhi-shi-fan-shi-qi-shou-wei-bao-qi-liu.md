@@ -6,10 +6,10 @@ titleSlug: wei-qing-shu-zi-qing-yang-ji-shi-yi-juan-yi-yin-jiu-guo-he-yao-wei-pe
 author: 葛立方
 authorPinyin: ge3 li4 fang1
 authorSlug: ge-li-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-san-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不可以智知，金剛手把八稜槌。
-- 不可以識識，鎮州出箇大蘿蔔。
-- 不可以語言造，山禽聚集啼清曉。
-- 不可以寂默通，赤眼烏龜吞大蟲。
+- 鼠竊竺乾，身逃震旦。
+- 合火分贓，兒孫無眼。
+- 死款諸方不言，今朝佛壟分明斷。
+- 以何爲據，看。
 
 ## 拼音
 
-- bu4 ke3 yi3 zhi4 zhi1 ， jin1 gang1 shou3 ba3 ba1 leng2 chui2 。
-- bu4 ke3 yi3 shi2 shi2 ， zhen4 zhou1 chu1 ge4 da4 luo2 bo0 。
-- bu4 ke3 yi3 yu3 yan2 zao4 ， shan1 qin2 ju4 ji2 ti2 qing1 xiao3 。
-- bu4 ke3 yi3 ji4 mo4 tong1 ， chi4 yan3 wu1 gui1 tun1 da4 chong2 。
+- shu3 qie4 zhu2 qian2 ， shen1 tao2 zhen4 dan4 。
+- he2 huo3 fen1 zang1 ， er2 sun1 wu2 yan3 。
+- si3 kuan3 zhu1 fang1 bu4 yan2 ， jin1 zhao1 fo2 long3 fen1 ming2 duan4 。
+- yi3 he2 wei2 ju4 ， kan4 。
 
 ## 注释
 

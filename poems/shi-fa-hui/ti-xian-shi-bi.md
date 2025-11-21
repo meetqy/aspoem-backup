@@ -6,10 +6,10 @@ titleSlug: ti-xian-shi-bi
 author: 釋法輝
 authorPinyin: shi4 fa3 hui1
 authorSlug: shi-fa-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

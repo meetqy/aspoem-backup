@@ -6,10 +6,10 @@ titleSlug: zai-ru-jiu-ri-he-zhang-lian-ri-gong-rong-shi-wu-feng-geng-jin-ri-da-y
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

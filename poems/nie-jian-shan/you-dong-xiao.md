@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao
 author: 聶兼善
 authorPinyin: nie4 jian1 shan4
 authorSlug: nie-jian-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

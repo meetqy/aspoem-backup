@@ -6,25 +6,25 @@ titleSlug: ci-yun-chun-huai
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲作歸田計，無如二頃何。
-- 折腰方頼祿，拭面未傷和。
-- 日下烏聲樂，塵生鳥跡多。
-- 渡頭留小楫，乘興得相過。
+- 老形已具臂膝痛，春事無多櫻笋來。
+- 敗絮不溫生蟣虱，大杯覆酒著塵埃。
+- 衰年此日仍爲客，舊國當時只廢臺。
+- 河嶺尚堪供極目，少年爲句未須哀。
 
 ## 拼音
 
-- yu4 zuo4 gui1 tian2 ji4 ， wu2 ru2 er4 qing3 he2 。
-- zhe2 yao1 fang1 lai4 lu4 ， shi4 mian4 wei4 shang1 he2 。
-- ri4 xia4 wu1 sheng1 le4 ， chen2 sheng1 niao3 ji4 duo1 。
-- du4 tou2 liu2 xiao3 ji2 ， cheng2 xing1 de2 xiang1 guo4 。
+- lao3 xing2 yi3 ju4 bi4 xi1 tong4 ， chun1 shi4 wu2 duo1 ying1 sun3 lai2 。
+- bai4 xu4 bu4 wen1 sheng1 ji3 shi1 ， da4 bei1 fu4 jiu3 zhu4 chen2 ai1 。
+- shuai1 nian2 ci3 ri4 reng2 wei2 ke4 ， jiu4 guo2 dang1 shi2 zhi1 fei4 tai2 。
+- he2 ling3 shang4 kan1 gong4 ji2 mu4 ， shao4 nian2 wei2 ju4 wei4 xu1 ai1 。
 
 ## 注释
 

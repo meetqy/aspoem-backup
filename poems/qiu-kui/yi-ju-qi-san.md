@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-yi-ju-qi-san
-title: 移居・其三
-titlePinyin: yi2 ju1・qi2 san1
+title: 移居  其三
+titlePinyin: yi2 ju1     qi2 san1
 titleSlug: yi-ju-qi-san
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: song-shui-yun-gui-wu
 author: 孔清真
 authorPinyin: kong3 qing1 zhen1
 authorSlug: kong-qing-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

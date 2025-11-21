@@ -6,10 +6,10 @@ titleSlug: gan-xian-dao-zhong-you-huai-hui-an-yong-jiang-dong-ri-mu-yun-wei-yun-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

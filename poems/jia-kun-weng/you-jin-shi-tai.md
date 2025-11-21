@@ -6,10 +6,10 @@ titleSlug: you-jin-shi-tai
 author: 家坤翁
 authorPinyin: jia1 kun1 weng1
 authorSlug: jia-kun-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

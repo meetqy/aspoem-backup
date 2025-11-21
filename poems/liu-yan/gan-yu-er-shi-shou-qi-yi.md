@@ -1,34 +1,38 @@
 ---
 id: liu-yan-gan-yu-er-shi-shou-qi-yi
-title: 感寓二十首  其一
-titlePinyin: gan3 yu4 er4 shi2 shou3     qi2 yi1
+title: 感寓二十首  其一○
+titlePinyin: gan3 yu4 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: gan-yu-er-shi-shou-qi-yi
 author: 劉弇
 authorPinyin: liu2 yan3
 authorSlug: liu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲月忽其除，颯焉悲凜秋。
-- 商飆號晨林，脫葉舞梧楸。
-- 鳥邊下白道，木末揚寒流。
-- 閨人促幽杼，客子悵遠游。
-- 雲闊眇天半，俯景獨遲留。
-- 陰霾掃不得，千古空滄洲。
+- 驅車出郭門，四顧心茫茫。
+- 玄蟬不知愁，十百號枯桑。
+- 東北有故宮，云是許旌陽。
+- 旌陽昔仙去，雞犬亦隨翔。
+- 云何誇毗子，乾沒走康莊。
+- 徂年不可挽，綠髮忽已蒼。
+- 我欲拂衣垢，駐景吸晨光。
+- 駕言從朱陵，荒兮其未央。
 
 ## 拼音
 
-- sui4 yue4 hu1 qi2 chu2 ， sa4 yan1 bei1 lin3 qiu1 。
-- shang1 biao1 hao4 chen2 lin2 ， tuo1 ye4 wu3 wu2 qiu1 。
-- niao3 bian1 xia4 bai2 dao4 ， mu4 mo4 yang2 han2 liu2 。
-- gui1 ren2 cu4 you1 zhu4 ， ke4 zi3 chang4 yuan3 you2 。
-- yun2 kuo4 miao3 tian1 ban4 ， fu3 jing3 du2 chi2 liu2 。
-- yin1 mai2 sao3 bu4 de2 ， qian1 gu3 kong1 cang1 zhou1 。
+- qu1 ju1 chu1 guo1 men2 ， si4 gu4 xin1 mang2 mang2 。
+- xuan2 chan2 bu4 zhi1 chou2 ， shi2 bai3 hao4 ku1 sang1 。
+- dong1 bei3 you3 gu4 gong1 ， yun2 shi4 xu1 jing1 yang2 。
+- jing1 yang2 xi1 xian1 qu4 ， ji1 quan3 yi4 sui2 xiang2 。
+- yun2 he2 kua1 pi2 zi3 ， qian2 mei2 zou3 kang1 zhuang1 。
+- cu2 nian2 bu4 ke3 wan3 ， lü4 fa4 hu1 yi3 cang1 。
+- wo3 yu4 fu2 yi1 gou4 ， zhu4 jing3 xi1 chen2 guang1 。
+- jia4 yan2 cong2 zhu1 ling2 ， huang1 xi1 qi2 wei4 yang1 。
 
 ## 注释
 

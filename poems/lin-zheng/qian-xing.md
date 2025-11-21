@@ -6,10 +6,10 @@ titleSlug: qian-xing
 author: 林正
 authorPinyin: lin2 zheng4
 authorSlug: lin-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

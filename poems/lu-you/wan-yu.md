@@ -6,25 +6,29 @@ titleSlug: wan-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蕭瑟度横塘，霏微映繚牆。
-- 壓低塵不動，灑急土生香。
-- 聲入楸梧碎，清分枕簟涼。
-- 回頭忽陳迹，簷角挂斜陽。
+- 春旱久閔雨，夏潦復望晴。
+- 米盡薪亦絕，漲水與階平。
+- 山信得新粟，欣然聽舂聲。
+- 書生易滿足，筆硯還施行。
+- 南風柱礎乾，西照窗戶明。
+- 雨其遂已乎，努力趣秋成。
 
 ## 拼音
 
-- xiao1 se4 du4 heng2 tang2 ， fei1 wei1 ying4 liao2 qiang2 。
-- ya1 di1 chen2 bu2 dong4 ， sa3 ji2 tu3 sheng1 xiang1 。
-- sheng1 ru4 qiu1 wu2 sui4 ， qing1 fen1 zhen3 dian4 liang2 。
-- hui2 tou2 hu1 chen2 ji4 ， yan2 jiao3 gua4 xie2 yang2 。
+- chun1 han4 jiu3 min3 yu3 ， xia4 liao2 fu4 wang4 qing2 。
+- mi3 jin4 xin1 yi4 jue2 ， zhang3 shui3 yu3 jie1 ping2 。
+- shan1 xin4 de2 xin1 su4 ， xin1 ran2 ting1 chong1 sheng1 。
+- shu1 sheng1 yi4 man3 zu2 ， bi3 yan4 huan2 shi1 xing2 。
+- nan2 feng1 zhu4 chu3 qian2 ， xi1 zhao4 chuang1 hu4 ming2 。
+- yu3 qi2 sui4 yi3 hu1 ， nu3 li4 qu4 qiu1 cheng2 。
 
 ## 注释
 

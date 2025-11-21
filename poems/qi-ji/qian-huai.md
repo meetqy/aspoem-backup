@@ -9,22 +9,22 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 病腸休洗老休醫，七十能饒百歲期。
-- 不死任還蓬島客，無生自有雪山師。
-- 浮雲聚散俱關慮，明月相逢好展眉。
-- 既兆未萌閑酌度，不如中抱是尋思。
+- 詩病相兼老病深，世醫徒更費千金。
+- 餘生豈必虛拋擲，未死何妨樂詠吟。
+- 流水不迴休歎息，白雲無跡莫追尋。
+- 閑身自有閑消處，黃葉清風蟬一林。
 
 ## 拼音
 
-- bing4 chang2 xiu1 xi3 lao3 xiu1 yi1 ， qi1 shi2 neng2 rao2 bai3 sui4 qi1 。
-- bu4 si3 ren4 huan2 peng2 dao3 ke4 ， wu2 sheng1 zi4 you3 xue3 shan1 shi1 。
-- fu2 yun2 ju4 san4 ju4 guan1 lü4 ， ming2 yue4 xiang1 feng2 hao3 zhan3 mei2 。
-- ji4 zhao4 wei4 meng2 xian2 zhuo2 du4 ， bu4 ru2 zhong1 bao4 shi4 xun2 si1 。
+- shi1 bing4 xiang1 jian1 lao3 bing4 shen1 ， shi4 yi1 tu2 geng4 fei4 qian1 jin1 。
+- yu2 sheng1 qi3 bi4 xu1 pao1 zhi4 ， wei4 si3 he2 fang2 le4 yong3 yin2 。
+- liu2 shui3 bu4 hui2 xiu1 tan4 xi1 ， bai2 yun2 wu2 ji4 mo4 zhui1 xun2 。
+- xian2 shen1 zi4 you3 xian2 xiao1 chu3 ， huang2 ye4 qing1 feng1 chan2 yi4 lin2 。
 
 ## 注释
 

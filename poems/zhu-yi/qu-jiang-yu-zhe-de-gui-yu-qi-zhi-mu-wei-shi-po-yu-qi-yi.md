@@ -6,9 +6,9 @@ titleSlug: qu-jiang-yu-zhe-de-gui-yu-qi-zhi-mu-wei-shi-po-yu-qi-yi
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

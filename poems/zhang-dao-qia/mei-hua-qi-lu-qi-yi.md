@@ -1,30 +1,30 @@
 ---
 id: zhang-dao-qia-mei-hua-qi-lu-qi-yi
-title: 梅花七律  其一
-titlePinyin: mei2 hua1 qi1 lü4     qi2 yi1
+title: 梅花七律  其一○
+titlePinyin: mei2 hua1 qi1 lü4     qi2 yi1 ○
 titleSlug: mei-hua-qi-lu-qi-yi
 author: 張道洽
 authorPinyin: zhang1 dao4 qia4
 authorSlug: zhang-dao-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜月輕描玉樣身，枉拚心力喚真真。
-- 藤牀幾度勞清夢，竹屋相看是故人。
-- 玉雪襟期惟我共，金蘭氣味更誰親。
-- 一清頼有天知己，多少春花逐後塵。
+- 高標勝韻點人寒，殘雪疎籬是水南。
+- 天上玉妃居第一，人閒石友結成三。
+- 廣平心事今猶在，和靖家風晚最諳。
+- 莫訝清晨將鶴出，孤筇行過竹西庵。
 
 ## 拼音
 
-- ye4 yue4 qing1 miao2 yu4 yang4 shen1 ， wang3 pin1 xin1 li4 huan4 zhen1 zhen1 。
-- teng2 chuang2 ji1 du4 lao2 qing1 meng4 ， zhu2 wu1 xiang1 kan4 shi4 gu4 ren2 。
-- yu4 xue3 jin1 qi1 wei2 wo3 gong4 ， jin1 lan2 qi4 wei4 geng4 shui2 qin1 。
-- yi4 qing1 lai4 you3 tian1 zhi1 ji3 ， duo1 shao3 chun1 hua1 zhu2 hou4 chen2 。
+- gao1 biao1 sheng4 yun4 dian3 ren2 han2 ， can2 xue3 shu1 li2 shi4 shui3 nan2 。
+- tian1 shang4 yu4 fei1 ju1 di4 yi1 ， ren2 xian2 shi2 you3 jie2 cheng2 san1 。
+- guang3 ping2 xin1 shi4 jin1 you2 zai4 ， he2 jing4 jia1 feng1 wan3 zui4 an1 。
+- mo4 ya4 qing1 chen2 jiang1 he4 chu1 ， gu1 qiong2 xing2 guo4 zhu2 xi1 an1 。
 
 ## 注释
 

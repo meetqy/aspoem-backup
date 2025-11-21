@@ -6,10 +6,10 @@ titleSlug: guang-jian-da-shi-guan-shang-ren-wei-ling-zhi-shu-bai-zhong-gu-qi-con
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

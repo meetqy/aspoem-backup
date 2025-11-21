@@ -6,10 +6,10 @@ titleSlug: xiu-wen-lou
 author: 聶致孫
 authorPinyin: nie4 zhi4 sun1
 authorSlug: nie-zhi-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,22 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 丹湖湖上送行舟，白鴈啼殘蘆葉秋。
-- 采石江頭舊時路，題詩還憶水邊樓。
+- 西入潼關路，何時更盍簪。
+- 年來人事改，老去鬢毛侵。
+- 花染離筵淚，葵傾報國心。
+- 龍潭千尺水，不似別情深。
 
 ## 拼音
 
-- dan1 hu2 hu2 shang4 song4 xing2 zhou1 ， bai2 yan4 ti2 can2 lu2 ye4 qiu1 。
-- cai3 shi2 jiang1 tou2 jiu4 shi2 lu4 ， ti2 shi1 huan2 yi4 shui3 bian1 lou2 。
+- xi1 ru4 tong2 guan1 lu4 ， he2 shi2 geng4 he2 zan1 。
+- nian2 lai2 ren2 shi4 gai3 ， lao3 qu4 bin4 mao2 qin1 。
+- hua1 ran3 li2 yan2 lei4 ， kui2 qing1 bao4 guo2 xin1 。
+- long2 tan2 qian1 chi3 shui3 ， bu2 si4 bie2 qing2 shen1 。
 
 ## 注释
 

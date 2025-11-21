@@ -6,10 +6,10 @@ titleSlug: zhu-gong-jian-zi-dun-shi-yi-bing-bu-wang-fu-ci-qian-yun
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

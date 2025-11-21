@@ -6,10 +6,10 @@ titleSlug: dong-ye
 author: 李若璞
 authorPinyin: li3 ruo4 pu2
 authorSlug: li-ruo-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

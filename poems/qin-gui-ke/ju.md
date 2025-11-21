@@ -6,9 +6,9 @@ titleSlug: ju
 author: 秦檜客
 authorPinyin: qin2 gui4 ke4
 authorSlug: qin-gui-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

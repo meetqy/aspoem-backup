@@ -6,10 +6,10 @@ titleSlug: biao-zhong-guan
 author: 釋法照
 authorPinyin: shi4 fa3 zhao4
 authorSlug: shi-fa-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

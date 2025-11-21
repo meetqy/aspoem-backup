@@ -6,25 +6,25 @@ titleSlug: shan-zhong-qi-liu
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無心出岫懶於雲，生死交情一付君。
-- 五柳當門陶令宅，百梅共塢老逋墳。
-- 山雖甚淺略堪隠，硯不能靈併可焚。
-- 我亦平生輕俗子，向來魚鳥自同羣。
+- 黄紙紅旗總不宜，綠蓑青笠久相知。
+- 躬耕莘野一犂雨，親見豳風七月詩。
+- 老已自催蠶作繭，死時須用豹留皮。
+- 山深未省人間世，黑白縱橫幾局棋。
 
 ## 拼音
 
-- wu2 xin1 chu1 xiu4 lan3 wu1 yun2 ， sheng1 si3 jiao1 qing0 yi2 fu4 jun1 。
-- wu3 liu3 dang1 men2 tao2 ling4 zhai2 ， bai3 mei2 gong4 wu4 lao3 bu1 fen2 。
-- shan1 sui1 shen4 qian3 lüe4 kan1 yin3 ， yan4 bu4 neng2 ling2 bing4 ke3 fen2 。
-- wo3 yi4 ping2 sheng1 qing1 su2 zi3 ， xiang4 lai2 yu2 niao3 zi4 tong2 qun2 。
+- huang2 zhi3 hong2 qi2 zong3 bu4 yi2 ， lü4 suo1 qing1 li4 jiu3 xiang1 zhi1 。
+- gong1 geng1 shen1 ye3 yi4 li2 yu3 ， qin1 jian4 bin1 feng1 qi1 yue4 shi1 。
+- lao3 yi3 zi4 cui1 can2 zuo4 jian3 ， si3 shi2 xu1 yong4 bao4 liu2 pi2 。
+- shan1 shen1 wei4 sheng3 ren2 jian4 shi4 ， hei1 bai2 zong4 heng2 ji1 ju2 qi2 。
 
 ## 注释
 

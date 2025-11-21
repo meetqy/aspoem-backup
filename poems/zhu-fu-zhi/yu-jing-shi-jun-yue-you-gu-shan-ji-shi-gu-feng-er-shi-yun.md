@@ -6,10 +6,10 @@ titleSlug: yu-jing-shi-jun-yue-you-gu-shan-ji-shi-gu-feng-er-shi-yun
 author: 朱復之
 authorPinyin: zhu1 fu4 zhi1
 authorSlug: zhu-fu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

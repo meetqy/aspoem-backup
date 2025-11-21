@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-qi-shi-ba-yong-liu-yan-shi-shou-qi-yi
-title: 七十八咏六言十首  其一
-titlePinyin: qi1 shi2 ba1 yong3 liu4 yan2 shi2 shou3     qi2 yi1
+title: 七十八咏六言十首  其一○
+titlePinyin: qi1 shi2 ba1 yong3 liu4 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: qi-shi-ba-yong-liu-yan-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大絳縣人五歲，小魯申公二年。
-- 楞嚴已難筆受，尚書尚可口傳。
+- 泛愛親疎平等，任吟古律不拘。
+- 武公耄猶戲謔，白公老尚囁嚅。
 
 ## 拼音
 
-- da4 jiang4 xian4 ren2 wu3 sui4 ， xiao3 lu3 shen1 gong1 er4 nian2 。
-- leng2 yan2 yi3 nan2 bi3 shou4 ， shang4 shu1 shang4 ke3 kou3 chuan2 。
+- fan4 ai4 qin1 shu1 ping2 deng3 ， ren4 yin2 gu3 lü4 bu4 ju1 。
+- wu3 gong1 mao4 you2 xi4 xue4 ， bai2 gong1 lao3 shang4 nie4 ru2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-qi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 士不遠千里，訪我村落中。
-- 話舊語益密，論交顔不紅。
-- 酒炙乏供給，近製相延容。
-- 白飯與青芻，且餉馿與僮。
+- 大麥未救饑，小麥漸擢芒。
+- 此時農夫嘆，政阻接青黄。
+- 多畏頻雨澤，只欲暄晴光。
+- 農安吾亦安，朝夕祈蒼蒼。
 
 ## 拼音
 
-- shi4 bu4 yuan3 qian1 li3 ， fang3 wo3 cun1 luo4 zhong1 。
-- hua4 jiu4 yu3 yi4 mi4 ， lun4 jiao1 yan2 bu4 hong2 。
-- jiu3 zhi4 fa2 gong4 gei3 ， jin4 zhi4 xiang1 yan2 rong2 。
-- bai2 fan4 yu3 qing1 chu2 ， qie3 xiang3 lu2 yu3 tong2 。
+- da4 mai4 wei4 jiu4 ji1 ， xiao3 mai4 jian4 zhuo2 mang2 。
+- ci3 shi2 nong2 fu1 tan4 ， zheng4 zu3 jie1 qing1 huang2 。
+- duo1 wei4 bin1 yu3 ze2 ， zhi1 yu4 xuan1 qing2 guang1 。
+- nong2 an1 wu2 yi4 an1 ， zhao1 xi1 qi2 cang1 cang1 。
 
 ## 注释
 

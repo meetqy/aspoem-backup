@@ -6,25 +6,29 @@ titleSlug: zhou-xing
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 下水復上水，暮秋仍早秋。
-- 暫歸非去吏，觸緒苦添愁。
-- 本乏風雅作，謾于山水遊。
-- 經營欲終日，人謂我何求。
+- 夜來投宿定花浦，乞曉占風更前邁。
+- 波濤洶湧勢莫遏，顧視吾舟真若芥。
+- 是時霜威甚可怖，篙師戰縮不可耐。
+- 急溫濁酒澆肺肝，向者饑寒夫安在。
+- 自憐不比婁師德，未可輕犯垂堂戒。
+- 徑搜苦語謝江神，恐懼偷生勿吾怪。
 
 ## 拼音
 
-- xia4 shui3 fu4 shang4 shui3 ， mu4 qiu1 reng2 zao3 qiu1 。
-- zan4 gui1 fei1 qu4 li4 ， chu4 xu4 ku3 tian1 chou2 。
-- ben3 fa2 feng1 ya3 zuo4 ， man2 yu2 shan1 shui3 you2 。
-- jing1 ying2 yu4 zhong1 ri4 ， ren2 wei4 wo3 he2 qiu2 。
+- ye4 lai2 tou2 su4 ding4 hua1 pu3 ， qi3 xiao3 zhan4 feng1 geng4 qian2 mai4 。
+- bo1 tao1 xiong1 yong3 shi4 mo4 e4 ， gu4 shi4 wu2 zhou1 zhen1 ruo4 jie4 。
+- shi4 shi2 shuang1 wei1 shen4 ke3 bu4 ， gao1 shi1 zhan4 suo1 bu4 ke3 nai4 。
+- ji2 wen1 zhuo2 jiu3 jiao1 fei4 gan1 ， xiang4 zhe3 ji1 han2 fu1 an1 zai4 。
+- zi4 lian2 bu4 bi3 lou2 shi1 de2 ， wei4 ke3 qing1 fan4 chui2 tang2 jie4 。
+- jing4 sou1 ku3 yu3 xie4 jiang1 shen2 ， kong3 ju4 tou1 sheng1 wu4 wu2 guai4 。
 
 ## 注释
 

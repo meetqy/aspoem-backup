@@ -6,9 +6,9 @@ titleSlug: zeng-tan-xian-sheng
 author: 李九齡
 authorPinyin: li3 jiu3 ling2
 authorSlug: li-jiu-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

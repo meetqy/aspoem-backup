@@ -6,9 +6,9 @@ titleSlug: xian-shi
 author: 馬賢良
 authorPinyin: ma3 xian2 liang2
 authorSlug: ma-xian-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

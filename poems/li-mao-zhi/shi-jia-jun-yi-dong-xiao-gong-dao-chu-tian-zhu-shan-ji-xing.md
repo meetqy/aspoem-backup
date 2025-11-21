@@ -6,10 +6,10 @@ titleSlug: shi-jia-jun-yi-dong-xiao-gong-dao-chu-tian-zhu-shan-ji-xing
 author: 李茂之
 authorPinyin: li3 mao4 zhi1
 authorSlug: li-mao-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

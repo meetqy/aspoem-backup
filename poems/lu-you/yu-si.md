@@ -6,21 +6,21 @@ titleSlug: yu-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暮春之初光景奇，湖平山遠最宜詩。
-- 尚餘一恨無人會，不見蟬聲滿寺時。
+- 禹寺荒殘鐘鼓在，我來又見物華新。
+- 紹興年上曾題壁，觀者多疑是古人。
 
 ## 拼音
 
-- mu4 chun1 zhi1 chu1 guang1 jing3 qi2 ， hu2 ping2 shan1 yuan3 zui4 yi2 shi1 。
-- shang4 yu2 yi2 hen4 wu2 ren2 hui4 ， bu2 jian4 chan2 sheng1 man3 si4 shi2 。
+- yu3 si4 huang1 can2 zhong1 gu3 zai4 ， wo3 lai2 you4 jian4 wu4 hua2 xin1 。
+- shao4 xing1 nian2 shang4 ceng2 ti2 bi4 ， guan1 zhe3 duo1 yi2 shi4 gu3 ren2 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: yuan-qing
 author: 李白
 authorPinyin: li3 bai2
 authorSlug: li-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新人如花雖可寵，故人似玉由來重。
-- 花性飄揚不自持，玉心皎潔終不移。
-- 故人昔新今尚故，還見新人有故時。
-- 請看陳后黃金屋，寂寂珠簾生網絲。
+- 美人捲珠簾，深坐顰蛾眉。
+- 但見淚痕濕，不知心恨誰。
 
 ## 拼音
 
-- xin1 ren2 ru2 hua1 sui1 ke3 chong3 ， gu4 ren2 si4 yu4 you2 lai2 zhong4 。
-- hua1 xing4 piao1 yang2 bu2 zi4 chi2 ， yu4 xin1 jiao3 jie2 zhong1 bu4 yi2 。
-- gu4 ren2 xi1 xin1 jin1 shang4 gu4 ， huan2 jian4 xin1 ren2 you3 gu4 shi2 。
-- qing3 kan4 chen2 hou4 huang2 jin1 wu1 ， ji4 ji4 zhu1 lian2 sheng1 wang3 si1 。
+- mei3 ren2 juan3 zhu1 lian2 ， shen1 zuo4 pin2 e2 mei2 。
+- dan4 jian4 lei4 hen2 shi1 ， bu4 zhi1 xin1 hen4 shui2 。
 
 ## 注释
 

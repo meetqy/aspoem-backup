@@ -6,25 +6,25 @@ titleSlug: wang-yong-fu-ling
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖主乘乾臨斧扆，小臣承詔上丹墀。
-- 寧知齒豁頭童後，更遇天崩地陷時。
-- 泣至眼枯無血續，夢隨魂斷獨心知。
-- 白頭才盡空濡筆，寧繼生民下武詩。
+- 龍飛回首尚如新，忽閱人間四十春。
+- 聖主已嚴天上駕，孤臣歸作道傍民。
+- 傾河尚恨難供泪，衛社何由得致身。
+- 獨立秋風吹白髮，感恩肝膽漫輪囷。
 
 ## 拼音
 
-- sheng4 zhu3 cheng2 qian2 lin2 fu3 yi3 ， xiao3 chen2 cheng2 zhao4 shang4 dan1 chi2 。
-- ning2 zhi1 chi3 huo1 tou2 tong2 hou4 ， geng4 yu4 tian1 beng1 di4 xian4 shi2 。
-- qi4 zhi4 yan3 ku1 wu2 xue4 xu4 ， meng4 sui2 hun2 duan4 du2 xin1 zhi1 。
-- bai2 tou2 cai2 jin4 kong1 ru2 bi3 ， ning2 ji4 sheng1 min2 xia4 wu3 shi1 。
+- long2 fei1 hui2 shou3 shang4 ru2 xin1 ， hu1 yue4 ren2 jian4 si4 shi2 chun1 。
+- sheng4 zhu3 yi3 yan2 tian1 shang4 jia4 ， gu1 chen2 gui1 zuo4 dao4 bang4 min2 。
+- qing1 he2 shang4 hen4 nan2 gong4 lei4 ， wei4 she4 he2 you2 de2 zhi4 shen1 。
+- du2 li4 qiu1 feng1 chui1 bai2 fa4 ， gan3 en1 gan1 dan3 man4 lun2 qun1 。
 
 ## 注释
 

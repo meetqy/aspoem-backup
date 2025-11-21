@@ -6,10 +6,10 @@ titleSlug: ti-xing-ci-bu-zai-he-qian-pian-wei-wei-dao-qi-zhi-ying-zhe-fu-ci-yun-
 author: 張方平
 authorPinyin: zhang1 fang1 ping2
 authorSlug: zhang-fang-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

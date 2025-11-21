@@ -6,10 +6,10 @@ titleSlug: zi-chong-ling-huan-ti-yi-she-bi
 author: 朱輅
 authorPinyin: zhu1 lu4
 authorSlug: zhu-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

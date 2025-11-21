@@ -6,10 +6,10 @@ titleSlug: ji-hu-nan-xian-qing-ci-ye-gong
 author: 張景脩
 authorPinyin: zhang1 jing3 xiu1
 authorSlug: zhang-jing-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

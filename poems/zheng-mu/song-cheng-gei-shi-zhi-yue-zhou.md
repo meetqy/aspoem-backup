@@ -6,10 +6,10 @@ titleSlug: song-cheng-gei-shi-zhi-yue-zhou
 author: 鄭穆
 authorPinyin: zheng4 mu4
 authorSlug: zheng-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

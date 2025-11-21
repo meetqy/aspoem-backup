@@ -6,10 +6,10 @@ titleSlug: nan-po-bu-yi-ke-mu-zi-lei-er-yi-feng-ya-zi-ming-qing-yu-wei-fu
 author: 沈說
 authorPinyin: shen3 shuo1
 authorSlug: shen-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

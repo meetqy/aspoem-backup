@@ -6,10 +6,10 @@ titleSlug: ti-zai-xue-lu
 author: 孫惟信
 authorPinyin: sun1 wei2 xin4
 authorSlug: sun-wei-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: wang-mu-dui-zhu-sheng-zhi-yu-kou-hao
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六幕紛紛啟瑞篇，非烟深處下芝軿。
-- 穆王擾擾不謀治，武帝區區空學仙。
-- 今代一人真間世，昔時五老與疑年。
-- 歡呼亦有南山頌，誰解吹噓上九天。
+- 想像編星拱紫微，龍蛇日暖動旌旗。
+- 恭維虹瑞生虞帝，遠以鸞驂會宓妃。
+- 雲氣先飛三足使，風紋不皺六銖衣。
+- 君王若問蟠桃木，溜雨霜皮幾萬圍。
 
 ## 拼音
 
-- liu4 mu4 fen1 fen1 qi3 rui4 pian1 ， fei1 yan1 shen1 chu3 xia4 zhi1 ping2 。
-- mu4 wang2 rao3 rao3 bu4 mou2 zhi4 ， wu3 di4 qu1 qu1 kong1 xue2 xian1 。
-- jin1 dai4 yi4 ren2 zhen1 jian4 shi4 ， xi1 shi2 wu3 lao3 yu3 yi2 nian2 。
-- huan1 hu1 yi4 you3 nan2 shan1 song4 ， shui2 jie3 chui1 xu1 shang4 jiu3 tian1 。
+- xiang3 xiang4 bian1 xing1 gong3 zi3 wei1 ， long2 she2 ri4 nuan3 dong4 jing1 qi2 。
+- gong1 wei2 hong2 rui4 sheng1 yu2 di4 ， yuan3 yi3 luan2 can1 hui4 mi4 fei1 。
+- yun2 qi4 xian1 fei1 san1 zu2 shi3 ， feng1 wen2 bu2 zhou4 liu4 zhu1 yi1 。
+- jun1 wang2 ruo4 wen4 pan2 tao2 mu4 ， liu1 yu3 shuang1 pi2 ji1 wan4 wei2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-yi-hua
 author: 荆州掾
 authorPinyin: jing1 zhou1 yuan4
 authorSlug: jing-zhou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

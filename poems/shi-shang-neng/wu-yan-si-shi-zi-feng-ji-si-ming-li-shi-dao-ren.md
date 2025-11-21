@@ -6,10 +6,10 @@ titleSlug: wu-yan-si-shi-zi-feng-ji-si-ming-li-shi-dao-ren
 author: 釋尚能
 authorPinyin: shi4 shang4 neng2
 authorSlug: shi-shang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

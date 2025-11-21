@@ -6,10 +6,10 @@ titleSlug: lin-gui-wen-mai-mu-dan-jian-zeng-zhi-peng-cun-ou-ti
 author: 辛棄疾
 authorPinyin: xin1 qi4 ji2
 authorSlug: xin-qi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

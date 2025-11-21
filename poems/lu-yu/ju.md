@@ -9,20 +9,18 @@ authorSlug: lu-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 辟彊舊林間，怪石紛相向。
-- 絕澗方險尋，亂巖亦危造。
-- 瀉從千仞石，寄逐九江船。
+- 行坐誦佛書。
+- （見齊己《白蓮集》卷九《過陸鴻漸舊居》自注引）。
 
 ## 拼音
 
-- pi4 qiang2 jiu4 lin2 jian4 ， guai4 shi2 fen1 xiang1 xiang4 。
-- jue2 jian4 fang1 xian3 xun2 ， luan4 yan2 yi4 wei1 zao4 。
-- xie4 cong2 qian1 ren4 shi2 ， ji4 zhu2 jiu3 jiang1 chuan2 。
+- xing2 zuo4 song4 fo2 shu1 。
+- （ jian4 qi2 ji3 《 bai2 lian2 ji2 》 juan4 jiu3 《 guo4 lu4 hong2 jian4 jiu4 ju1 》 zi4 zhu4 yin3 ）。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: rui-xiang-hua
 author: 蘇大璋
 authorPinyin: su1 da4 zhang1
 authorSlug: su-da-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

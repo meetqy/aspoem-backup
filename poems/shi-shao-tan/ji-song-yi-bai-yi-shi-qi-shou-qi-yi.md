@@ -1,28 +1,28 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-yi-shi-qi-shou-qi-yi
-title: 偈頌一百一十七首  其一
-titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 yi1
+title: 偈頌一百一十七首  其一○○
+titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 yi1 ○ ○
 titleSlug: ji-song-yi-bai-yi-shi-qi-shou-qi-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 池開古鏡奩，山聳青螺髻。
-- 急著眼來看，不得作境會。
-- 覿體全彰解脫門，一踏牢關百雜碎。
+- 跨弄蹄馿，住疎壁院，千古遺風今再見。
+- 吞吐何須栗棘蓬，煅煉已成丹九轉。
+- 傾出瓶壺，寒光閃電，扶危妙在通權變。
 
 ## 拼音
 
-- chi2 kai1 gu3 jing4 lian2 ， shan1 song3 qing1 luo2 ji4 。
-- ji2 zhu4 yan3 lai2 kan4 ， bu4 de2 zuo4 jing4 hui4 。
-- di2 ti3 quan2 zhang1 jie3 tuo1 men2 ， yi2 ta4 lao2 guan1 bai3 za2 sui4 。
+- kua4 nong4 ti2 lu2 ， zhu4 shu1 bi4 yuan4 ， qian1 gu3 yi2 feng1 jin1 zai4 jian4 。
+- tun1 tu3 he2 xu1 li4 ji2 peng2 ， duan4 lian4 yi3 cheng2 dan1 jiu3 zhuan3 。
+- qing1 chu1 ping2 hu2 ， han2 guang1 shan3 dian4 ， fu2 wei1 miao4 zai4 tong1 quan2 bian4 。
 
 ## 注释
 

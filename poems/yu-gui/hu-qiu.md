@@ -6,25 +6,21 @@ titleSlug: hu-qiu
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩寺今爲一，因秦虎占丘。
-- 鶴飛王劍化，鳥宿古墳愁。
-- 石與泉流接，池通海水浮。
-- 十奇多勝槩，不及盡追遊。
+- 突兀浮圖插翠微，吳王事迹總成非。
+- 寺僧未晚山門閉，不放閑雲一片飛。
 
 ## 拼音
 
-- liang3 si4 jin1 wei2 yi1 ， yin1 qin2 hu3 zhan4 qiu1 。
-- he4 fei1 wang2 jian4 hua4 ， niao3 su4 gu3 fen2 chou2 。
-- shi2 yu3 quan2 liu2 jie1 ， chi2 tong1 hai3 shui3 fu2 。
-- shi2 qi2 duo1 sheng4 gai4 ， bu4 ji2 jin4 zhui1 you2 。
+- tu1 wu4 fu2 tu2 cha1 cui4 wei1 ， wu2 wang2 shi4 ji4 zong3 cheng2 fei1 。
+- si4 seng1 wei4 wan3 shan1 men2 bi4 ， bu2 fang4 xian2 yun2 yi2 pian4 fei1 。
 
 ## 注释
 

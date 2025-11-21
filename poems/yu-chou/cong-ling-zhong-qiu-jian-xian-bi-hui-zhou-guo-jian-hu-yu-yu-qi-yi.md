@@ -6,10 +6,10 @@ titleSlug: cong-ling-zhong-qiu-jian-xian-bi-hui-zhou-guo-jian-hu-yu-yu-qi-yi
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

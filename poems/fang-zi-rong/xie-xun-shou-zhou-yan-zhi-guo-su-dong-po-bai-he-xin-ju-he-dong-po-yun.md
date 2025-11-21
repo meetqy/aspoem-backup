@@ -6,10 +6,10 @@ titleSlug: xie-xun-shou-zhou-yan-zhi-guo-su-dong-po-bai-he-xin-ju-he-dong-po-yun
 author: 方子容
 authorPinyin: fang1 zi0 rong2
 authorSlug: fang-zi-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

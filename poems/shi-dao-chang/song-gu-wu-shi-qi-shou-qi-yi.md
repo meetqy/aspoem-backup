@@ -1,28 +1,26 @@
 ---
 id: shi-dao-chang-song-gu-wu-shi-qi-shou-qi-yi
-title: 頌古五十七首  其一
-titlePinyin: song4 gu3 wu3 shi2 qi1 shou3     qi2 yi1
+title: 頌古五十七首  其一○
+titlePinyin: song4 gu3 wu3 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-wu-shi-qi-shou-qi-yi
 author: 釋道昌
 authorPinyin: shi4 dao4 chang1
 authorSlug: shi-dao-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 奴兒婢子，十生九死。
-- 於裏不正，被外邊使。
-- 縱饒開口便過頭，未免渾身輥泥水。
+- 赤士纔將畫簸箕，烏雞何事忽驚飛。
+- 自從題入新詩後，黄鶴樓前忘卻歸。
 
 ## 拼音
 
-- nu2 er2 bi4 zi0 ， shi2 sheng1 jiu3 si3 。
-- wu1 li3 bu2 zheng4 ， bei4 wai4 bian1 shi3 。
-- zong4 rao2 kai1 kou3 bian4 guo4 tou2 ， wei4 mian3 hun2 shen1 gun3 ni2 shui3 。
+- chi4 shi4 cai2 jiang1 hua4 bo4 ji1 ， wu1 ji1 he2 shi4 hu1 jing1 fei1 。
+- zi4 cong2 ti2 ru4 xin1 shi1 hou4 ， huang2 he4 lou2 qian2 wang4 que4 gui1 。
 
 ## 注释
 

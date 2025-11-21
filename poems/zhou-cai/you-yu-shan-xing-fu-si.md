@@ -6,10 +6,10 @@ titleSlug: you-yu-shan-xing-fu-si
 author: 周才
 authorPinyin: zhou1 cai2
 authorSlug: zhou-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

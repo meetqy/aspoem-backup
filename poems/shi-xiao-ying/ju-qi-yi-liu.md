@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-yi-liu
-title: 句  其一六
-titlePinyin: ju4     qi2 yi1 liu4
+title: 句  其一○六
+titlePinyin: ju4     qi2 yi1 ○ liu4
 titleSlug: ju-qi-yi-liu
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 那敢謂長城。
+- 誰知老子懶成癖。
 
 ## 拼音
 
-- na4 gan3 wei4 chang2 cheng2 。
+- shui2 zhi1 lao3 zi3 lan3 cheng2 pi3 。
 
 ## 注释
 

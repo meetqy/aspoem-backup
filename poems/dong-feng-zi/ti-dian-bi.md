@@ -6,10 +6,10 @@ titleSlug: ti-dian-bi
 author: 董風子
 authorPinyin: dong3 feng1 zi3
 authorSlug: dong-feng-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-you-ren-zhi-huai
 author: 鄭起
 authorPinyin: zheng4 qi3
 authorSlug: zheng-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

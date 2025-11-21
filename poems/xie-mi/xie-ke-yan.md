@@ -6,10 +6,10 @@ titleSlug: xie-ke-yan
 author: 謝泌
 authorPinyin: xie4 mi4
 authorSlug: xie-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

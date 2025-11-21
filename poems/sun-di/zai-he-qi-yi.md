@@ -6,25 +6,25 @@ titleSlug: zai-he-qi-yi
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 烏啼鵲噪晚庭空，並舍相呼入酒中。
-- 逐影故慚夸父日，披襟聊快楚王風。
-- 牛衣泣臥悲游子，鳩杖歡迎愧老翁。
-- 笑我獨醒成底事，一邱之貉古今同。
+- 瘴雨蠻煙掃地空，衆星環列拱天中。
+- 豹章尚隱南山霧，鵬背將摶北海風。
+- 麟閣似聞登漢將，鹿門猶自臥龐翁。
+- 低頭莫負平生志，冠蓋風雲萬里同。
 
 ## 拼音
 
-- wu1 ti2 que4 zao4 wan3 ting2 kong1 ， bing4 she4 xiang1 hu1 ru4 jiu3 zhong1 。
-- zhu2 ying3 gu4 can2 kua1 fu4 ri4 ， pi1 jin1 liao2 kuai4 chu3 wang2 feng1 。
-- niu2 yi1 qi4 wo4 bei1 you2 zi3 ， jiu1 zhang4 huan1 ying2 kui4 lao3 weng1 。
-- xiao4 wo3 du2 xing3 cheng2 di3 shi4 ， yi4 qiu1 zhi1 mo4 gu3 jin1 tong2 。
+- zhang4 yu3 man2 yan1 sao3 di4 kong1 ， zhong4 xing1 huan2 lie4 gong3 tian1 zhong1 。
+- bao4 zhang1 shang4 yin3 nan2 shan1 wu4 ， peng2 bei4 jiang1 tuan2 bei3 hai3 feng1 。
+- lin2 ge2 si4 wen2 deng1 han4 jiang1 ， lu4 men2 you2 zi4 wo4 pang2 weng1 。
+- di1 tou2 mo4 fu4 ping2 sheng1 zhi4 ， guan1 gai4 feng1 yun2 wan4 li3 tong2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: you-zhong-fu-cheng-tong-ji-zhu-gong
 author: 張祁
 authorPinyin: zhang1 qi2
 authorSlug: zhang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

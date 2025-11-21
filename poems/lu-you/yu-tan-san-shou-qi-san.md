@@ -6,25 +6,25 @@ titleSlug: yu-tan-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 裘薄便冬暖，簞空畏午饑。
-- 臨成乞米帖，看入借車詩。
-- 學古心猶壮，憂時語自悲。
-- 公卿闕自重，社稷欲誰期。
+- 短髮不禁搔，紓悲頼濁醪。
+- 潦收溪瀨急，木落寺樓高。
+- 善飯餘何欠，看雲亦足豪。
+- 今朝有奇事，江浦得霜螯。
 
 ## 拼音
 
-- qiu2 bao2 bian4 dong1 nuan3 ， dan1 kong1 wei4 wu3 ji1 。
-- lin2 cheng2 qi3 mi3 tie1 ， kan4 ru4 jie4 ju1 shi1 。
-- xue2 gu3 xin1 you2 zhuang4 ， you1 shi2 yu3 zi4 bei1 。
-- gong1 qing1 que4 zi4 zhong4 ， she4 ji4 yu4 shui2 qi1 。
+- duan3 fa4 bu4 jin1 sao1 ， shu1 bei1 lai4 zhuo2 lao2 。
+- liao2 shou1 xi1 lai4 ji2 ， mu4 luo4 si4 lou2 gao1 。
+- shan4 fan4 yu2 he2 qian4 ， kan4 yun2 yi4 zu2 hao2 。
+- jin1 zhao1 you3 qi2 shi4 ， jiang1 pu3 de2 shuang1 ao2 。
 
 ## 注释
 

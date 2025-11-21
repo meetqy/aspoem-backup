@@ -6,10 +6,10 @@ titleSlug: ti-fang-gan-jiu-yin-qi-yi
 author: 李若谷
 authorPinyin: li3 ruo4 gu3
 authorSlug: li-ruo-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

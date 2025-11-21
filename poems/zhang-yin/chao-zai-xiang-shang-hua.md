@@ -6,9 +6,9 @@ titleSlug: chao-zai-xiang-shang-hua
 author: 張隠
 authorPinyin: zhang1 yin3
 authorSlug: zhang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

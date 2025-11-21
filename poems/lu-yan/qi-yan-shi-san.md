@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一本天機深更深，徒言萬劫與千金。
-- 三冬大熱玄中火，六月霜寒表外陰。
-- 金爲浮來方見性，木因沈後始知心。
-- 五行顛倒堪消息，返本還元在己尋。
+- 九曲江邊坐臥看，一條長路入天端。
+- 慶雲捧擁朝丹闕，瑞氣裴回起白煙。
+- 鉛汞此時爲至藥，坎離今日結神丹。
+- 功能濟命長無老，只在人心不是難。
 
 ## 拼音
 
-- yi4 ben3 tian1 ji1 shen1 geng4 shen1 ， tu2 yan2 wan4 jie2 yu3 qian1 jin1 。
-- san1 dong1 da4 re4 xuan2 zhong1 huo3 ， liu4 yue4 shuang1 han2 biao3 wai4 yin1 。
-- jin1 wei2 fu2 lai2 fang1 jian4 xing4 ， mu4 yin1 shen3 hou4 shi3 zhi1 xin1 。
-- wu3 xing2 dian1 dao3 kan1 xiao1 xi0 ， fan3 ben3 huan2 yuan2 zai4 ji3 xun2 。
+- jiu3 qu1 jiang1 bian1 zuo4 wo4 kan4 ， yi4 tiao2 chang2 lu4 ru4 tian1 duan1 。
+- qing4 yun2 peng3 yong1 chao2 dan1 que4 ， rui4 qi4 pei2 hui2 qi3 bai2 yan1 。
+- qian1 gong3 ci3 shi2 wei2 zhi4 yao4 ， kan3 li2 jin1 ri4 jie2 shen2 dan1 。
+- gong1 neng2 ji4 ming4 chang2 wu2 lao3 ， zhi1 zai4 ren2 xin1 bu2 shi4 nan2 。
 
 ## 注释
 

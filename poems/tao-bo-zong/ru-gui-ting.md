@@ -6,10 +6,10 @@ titleSlug: ru-gui-ting
 author: 陶伯宗
 authorPinyin: tao2 bo2 zong1
 authorSlug: tao-bo-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

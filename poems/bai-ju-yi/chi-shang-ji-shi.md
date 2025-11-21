@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 行尋甃石引新泉，坐看修橋補釣船。
-- 綠竹挂衣涼處歇，清風展簟困時眠。
-- 身閑當貴真天爵，官散無憂即地仙。
-- 林下水邊無厭日，便堪終老豈論年。
+- 移牀避日依松竹，解帶當風挂薜蘿。
+- 鈿砌池心綠蘋合，粉開花面白蓮多。
+- 久陰新霽宜絲管，苦熱初涼入綺羅。
+- 家醞瓶空人客絕，今宵爭奈月明何。
 
 ## 拼音
 
-- xing2 xun2 zhou4 shi2 yin3 xin1 quan2 ， zuo4 kan4 xiu1 qiao2 bu3 diao4 chuan2 。
-- lü4 zhu2 gua4 yi1 liang2 chu3 xie1 ， qing1 feng1 zhan3 dian4 kun4 shi2 mian2 。
-- shen1 xian2 dang1 gui4 zhen1 tian1 jue2 ， guan1 san4 wu2 you1 ji2 di4 xian1 。
-- lin2 xia4 shui3 bian1 wu2 yan4 ri4 ， bian4 kan1 zhong1 lao3 qi3 lun4 nian2 。
+- yi2 chuang2 bi4 ri4 yi1 song1 zhu2 ， jie3 dai4 dang1 feng1 gua4 bi4 luo2 。
+- dian4 qi4 chi2 xin1 lü4 pin2 he2 ， fen3 kai1 hua1 mian4 bai2 lian2 duo1 。
+- jiu3 yin1 xin1 ji4 yi2 si1 guan3 ， ku3 re4 chu1 liang2 ru4 qi3 luo2 。
+- jia1 yun4 ping2 kong1 ren2 ke4 jue2 ， jin1 xiao1 zheng1 nai4 yue4 ming2 he2 。
 
 ## 注释
 

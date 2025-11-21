@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六幕低垂曉鑑寒，簾旌風動皺翔鸞。
-- 仙姿粧早呵纖指，遠黛遙分勝筆端。
+- 女兒粧束效男兒，峭窄羅衫稱玉肌。
+- 盡是珍珠勻絡縫，唐中簇带萬花枝。
 
 ## 拼音
 
-- liu4 mu4 di1 chui2 xiao3 jian4 han2 ， lian2 jing1 feng1 dong4 zhou4 xiang2 luan2 。
-- xian1 zi1 zhuang1 zao3 he1 xian1 zhi3 ， yuan3 dai4 yao2 fen1 sheng4 bi3 duan1 。
+- nü3 er2 zhuang1 shu4 xiao4 nan2 er2 ， qiao4 zhai3 luo2 shan1 cheng1 yu4 ji1 。
+- jin4 shi4 zhen1 zhu1 yun2 luo4 feng2 ， tang2 zhong1 cu4 dai4 wan4 hua1 zhi1 。
 
 ## 注释
 

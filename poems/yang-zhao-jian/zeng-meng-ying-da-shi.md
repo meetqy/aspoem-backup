@@ -6,9 +6,9 @@ titleSlug: zeng-meng-ying-da-shi
 author: 楊昭儉
 authorPinyin: yang2 zhao1 jian3
 authorSlug: yang-zhao-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

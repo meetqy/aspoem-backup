@@ -6,10 +6,10 @@ titleSlug: yu-zi-nan-jing-liu-shou-tui-guan-xun-zi-wei-zhang-shu-ji-you-jiang-sh
 author: 石介
 authorPinyin: shi2 jie4
 authorSlug: shi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

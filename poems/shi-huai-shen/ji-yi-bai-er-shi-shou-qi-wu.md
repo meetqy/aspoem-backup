@@ -1,26 +1,30 @@
 ---
 id: shi-huai-shen-ji-yi-bai-er-shi-shou-qi-wu
-title: 偈一百二十首  其五
-titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 wu3
+title: 偈一百二十首  其五○
+titlePinyin: ji4 yi4 bai3 er4 shi2 shou3     qi2 wu3 ○
 titleSlug: ji-yi-bai-er-shi-shou-qi-wu
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年年此日是重陽，籬菊如聞去歲香。
-- 莫笑枝條太枯槁，從今別有好商量。
+- 焦山熱肺腸，有事便要了。
+- 今歲閏九月，來年春氣早。
+- 頂門三隻眼，常要光皎皎。
+- 照顧溈山水牯牛，莫教喫卻他人草。
 
 ## 拼音
 
-- nian2 nian2 ci3 ri4 shi4 zhong4 yang2 ， li2 ju2 ru2 wen2 qu4 sui4 xiang1 。
-- mo4 xiao4 zhi1 tiao2 tai4 ku1 gao3 ， cong2 jin1 bie2 you3 hao3 shang1 liang0 。
+- jiao1 shan1 re4 fei4 chang2 ， you3 shi4 bian4 yao4 le0 。
+- jin1 sui4 run4 jiu3 yue4 ， lai2 nian2 chun1 qi4 zao3 。
+- ding3 men2 san1 zhi1 yan3 ， chang2 yao4 guang1 jiao3 jiao3 。
+- zhao4 gu4 wei2 shan1 shui3 gu3 niu2 ， mo4 jiao4 chi1 que4 ta1 ren2 cao3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-deng-she-ren-jiang-cao-xi-huai-yong-she-ren-zuo-shang-shi-yun-qi
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

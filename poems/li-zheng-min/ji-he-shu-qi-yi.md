@@ -6,25 +6,25 @@ titleSlug: ji-he-shu-qi-yi
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雙魚來自縠溪端，手把緘書子細看。
-- 授業馬融褰綘帳，懷歸王粲倚危欄。
-- 且憑黄耳傳消息，未辦青蚨濟急難。
-- 七十從心今已過，保兹遐福願加餐。
+- 君書於我不能忘，我亦思君苦斷膓。
+- 女嫁兒婚方擾擾，宦情文意愈茫茫。
+- 病來頗厭盃中綠，老去時添鬢畔霜。
+- 一夜西風破殘暑，蛩吟四壁倍淒涼。
 
 ## 拼音
 
-- shuang1 yu2 lai2 zi4 hu2 xi1 duan1 ， shou3 ba3 jian1 shu1 zi3 xi4 kan4 。
-- shou4 ye4 ma3 rong2 qian1 feng2 zhang4 ， huai2 gui1 wang2 can4 yi3 wei1 lan2 。
-- qie3 ping2 huang2 er3 chuan2 xiao1 xi0 ， wei4 ban4 qing1 fu2 ji4 ji2 nan2 。
-- qi1 shi2 cong2 xin1 jin1 yi3 guo4 ， bao3 zi1 xia2 fu2 yuan4 jia1 can1 。
+- jun1 shu1 wu1 wo3 bu4 neng2 wang4 ， wo3 yi4 si1 jun1 ku3 duan4 chang2 。
+- nü3 jia4 er2 hun1 fang1 rao3 rao3 ， huan4 qing2 wen2 yi4 yu4 mang2 mang2 。
+- bing4 lai2 po1 yan4 bei1 zhong1 lü4 ， lao3 qu4 shi2 tian1 bin4 pan4 shuang1 。
+- yi2 ye4 xi1 feng1 po4 can2 shu3 ， qiong2 yin2 si4 bi4 bei4 qi1 liang2 。
 
 ## 注释
 

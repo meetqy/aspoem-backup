@@ -6,21 +6,21 @@ titleSlug: tong-guan-xu-zhi-zhang-she-ba-pian-qi-san
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 文帝却回千里馬，項王獨愛一名騅。
-- 烏江不渡騅難逝，細柳徐行馬不馳。
+- 嗜慾煎熬豈有窮，羅屏羣幕圍香風。
+- 更添錦綺爲華飾，不念寒家四壁空。
 
 ## 拼音
 
-- wen2 di4 que4 hui2 qian1 li3 ma3 ， xiang4 wang2 du2 ai4 yi4 ming2 zhui1 。
-- wu1 jiang1 bu2 du4 zhui1 nan2 shi4 ， xi4 liu3 xu2 hang2 ma3 bu4 chi2 。
+- shi4 yu4 jian1 ao2 qi3 you3 qiong2 ， luo2 ping2 qun2 mu4 wei2 xiang1 feng1 。
+- geng4 tian1 jin3 qi3 wei2 hua2 shi4 ， bu2 nian4 han2 jia1 si4 bi4 kong1 。
 
 ## 注释
 

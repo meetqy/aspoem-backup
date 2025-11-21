@@ -6,25 +6,25 @@ titleSlug: ning-zong-jiao-si-er-shi-jiu-shou-jiang-tan-yong-qian-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天容澄謐，景氣晏和。
-- 瓚斝薦醇，鋗璆叶歌。
-- 帝降庭止，夜其如何。
-- 神助之休，宜爾衆多。
+- 天錫多祉，皇受五福。
+- 言瞻瑶壇，迄奉瑄玉。
+- 昭星炳燿，元氣回復。
+- 帝儀載旋，有嘉穆穆。
 
 ## 拼音
 
-- tian1 rong2 cheng2 mi4 ， jing3 qi4 yan4 he2 。
-- zan4 jia3 jian4 chun2 ， juan1 qiu2 ye4 ge1 。
-- di4 jiang4 ting2 zhi3 ， ye4 qi2 ru2 he2 。
-- shen2 zhu4 zhi1 xiu1 ， yi2 er3 zhong4 duo1 。
+- tian1 xi1 duo1 zhi3 ， huang2 shou4 wu3 fu2 。
+- yan2 zhan1 yao2 tan2 ， qi4 feng4 xuan1 yu4 。
+- zhao1 xing1 bing3 yao4 ， yuan2 qi4 hui2 fu4 。
+- di4 yi2 zai4 xuan2 ， you3 jia1 mu4 mu4 。
 
 ## 注释
 

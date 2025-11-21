@@ -6,10 +6,10 @@ titleSlug: ju
 author: 江施
 authorPinyin: jiang1 shi1
 authorSlug: jiang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

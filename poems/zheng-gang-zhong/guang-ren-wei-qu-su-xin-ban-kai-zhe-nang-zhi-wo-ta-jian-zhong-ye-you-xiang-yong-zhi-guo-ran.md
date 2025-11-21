@@ -6,10 +6,10 @@ titleSlug: guang-ren-wei-qu-su-xin-ban-kai-zhe-nang-zhi-wo-ta-jian-zhong-ye-you-
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

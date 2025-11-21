@@ -6,10 +6,10 @@ titleSlug: ju
 author: 顔幾
 authorPinyin: yan2 ji1
 authorSlug: yan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

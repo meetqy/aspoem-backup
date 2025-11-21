@@ -6,25 +6,25 @@ titleSlug: que-ti
 author: 王之望
 authorPinyin: wang2 zhi1 wang4
 authorSlug: wang-zhi-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜晴愛日曉生東，蕭寺山茶賞歲豐。
-- 錦里出遨驅小隊，雪山納堠狎諸戎。
-- 葉連油幕侵天碧，花倚朱旗特地紅。
-- 美景良辰萬人喜，不妨行樂一尊同。
+- 天梯雲棧轉龍旗，細雨淒風暗路岐。
+- 七夕難忘祈巧夜，三鄉不以望仙時。
+- 曲江若悟賢臣語，汾水寧傷才子詞。
+- 此日鈴聲腸斷處，後庭遺唱未爲悲。
 
 ## 拼音
 
-- shuang1 qing2 ai4 ri4 xiao3 sheng1 dong1 ， xiao1 si4 shan1 cha2 shang3 sui4 feng1 。
-- jin3 li3 chu1 ao2 qu1 xiao3 dui4 ， xue3 shan1 na4 hou4 xia2 zhu1 rong2 。
-- ye4 lian2 you2 mu4 qin1 tian1 bi4 ， hua1 yi3 zhu1 qi2 te4 di4 hong2 。
-- mei3 jing3 liang2 chen2 wan4 ren2 xi3 ， bu4 fang2 xing2 le4 yi4 zun1 tong2 。
+- tian1 ti1 yun2 zhan4 zhuan3 long2 qi2 ， xi4 yu3 qi1 feng1 an4 lu4 qi2 。
+- qi1 xi1 nan2 wang4 qi2 qiao3 ye4 ， san1 xiang1 bu4 yi3 wang4 xian1 shi2 。
+- qu3 jiang1 ruo4 wu4 xian2 chen2 yu3 ， fen2 shui3 ning2 shang1 cai2 zi3 ci2 。
+- ci3 ri4 ling2 sheng1 chang2 duan4 chu3 ， hou4 ting2 yi2 chang4 wei4 wei2 bei1 。
 
 ## 注释
 

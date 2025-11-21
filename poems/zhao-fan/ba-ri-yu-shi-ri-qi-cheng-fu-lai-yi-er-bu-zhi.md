@@ -6,10 +6,10 @@ titleSlug: ba-ri-yu-shi-ri-qi-cheng-fu-lai-yi-er-bu-zhi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

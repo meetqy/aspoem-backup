@@ -6,9 +6,9 @@ titleSlug: ji-wu-xi-yuan
 author: 祖秀實
 authorPinyin: zu3 xiu4 shi2
 authorSlug: zu-xiu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

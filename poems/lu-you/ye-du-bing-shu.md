@@ -6,29 +6,33 @@ titleSlug: ye-du-bing-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孤燈耿霜夕，窮山讀兵書。
-- 平生萬里心，執戈王前驅。
-- 戰死士所有，恥復守妻孥。
-- 成功亦邂逅，逆料政自疏。
-- 陂澤號饑鴻，歲月欺貧儒。
-- 嘆息鏡中面，安得長膚腴。
+- 八月風雨夕，千載孫吴書。
+- 老病雖憊甚，壮氣頗有餘。
+- 長纓果可請，上馬不躊躇。
+- 豈惟鏖皋蘭，直欲封狼居。
+- 萬乘久巡狩，兩京盡邱墟。
+- 此責在臣子，憂愧何時攄。
+- 南鄭築壇場，隆中顧草廬。
+- 邂逅未可知，旄頭方掃除。
 
 ## 拼音
 
-- gu1 deng1 geng3 shuang1 xi1 ， qiong2 shan1 du2 bing1 shu1 。
-- ping2 sheng1 wan4 li3 xin1 ， zhi2 ge1 wang2 qian2 qu1 。
-- zhan4 si3 shi4 suo3 you3 ， chi3 fu4 shou3 qi1 nu2 。
-- cheng2 gong1 yi4 xie4 hou4 ， ni4 liao4 zheng4 zi4 shu1 。
-- bei1 ze2 hao4 ji1 hong2 ， sui4 yue4 qi1 pin2 ru2 。
-- tan4 xi1 jing4 zhong1 mian4 ， an1 de2 chang2 fu1 yu2 。
+- ba1 yue4 feng1 yu3 xi1 ， qian1 zai4 sun1 wu2 shu1 。
+- lao3 bing4 sui1 bei4 shen4 ， zhuang4 qi4 po1 you3 yu2 。
+- chang2 ying1 guo3 ke3 qing3 ， shang4 ma3 bu4 chou2 chu2 。
+- qi3 wei2 ao2 gao1 lan2 ， zhi2 yu4 feng1 lang2 ju1 。
+- wan4 cheng2 jiu3 xun2 shou4 ， liang3 jing1 jin4 qiu1 xu1 。
+- ci3 ze2 zai4 chen2 zi3 ， you1 kui4 he2 shi2 shu1 。
+- nan2 zheng4 zhu4 tan2 chang3 ， long2 zhong1 gu4 cao3 lu2 。
+- xie4 hou4 wei4 ke3 zhi1 ， mao2 tou2 fang1 sao3 chu2 。
 
 ## 注释
 

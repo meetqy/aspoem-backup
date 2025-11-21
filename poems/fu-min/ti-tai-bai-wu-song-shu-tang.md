@@ -6,10 +6,10 @@ titleSlug: ti-tai-bai-wu-song-shu-tang
 author: 阜民
 authorPinyin: fu4 min2
 authorSlug: fu-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

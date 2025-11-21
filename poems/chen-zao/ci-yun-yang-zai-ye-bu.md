@@ -6,25 +6,25 @@ titleSlug: ci-yun-yang-zai-ye-bu
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 筇杖陪隨去，漂然不繫舟。
-- 雲低山影暝，風定竹林幽。
-- 病減柳臂感，老無蒿目憂。
-- 吟詩如蝕月，玉斧儻能脩。
+- 眼邊室邇嘆人遐，再見驚飈衮雪花。
+- 歲歉民勞真諉子，泥行草宿又誰家。
+- 題詩山寺神應助，問俗村區日易斜。
+- 隨處棠陰誦遺愛，他年賸著翠珉誇。
 
 ## 拼音
 
-- qiong2 zhang4 pei2 sui2 qu4 ， piao1 ran2 bu2 xi4 zhou1 。
-- yun2 di1 shan1 ying3 ming2 ， feng1 ding4 zhu2 lin2 you1 。
-- bing4 jian3 liu3 bi4 gan3 ， lao3 wu2 hao1 mu4 you1 。
-- yin2 shi1 ru2 shi2 yue4 ， yu4 fu3 tang3 neng2 xiu1 。
+- yan3 bian1 shi4 er3 tan4 ren2 xia2 ， zai4 jian4 jing1 biao1 gun3 xue3 hua1 。
+- sui4 qian4 min2 lao2 zhen1 wei3 zi3 ， ni2 xing2 cao3 su4 you4 shui2 jia1 。
+- ti2 shi1 shan1 si4 shen2 ying1 zhu4 ， wen4 su2 cun1 qu1 ri4 yi4 xie2 。
+- sui2 chu3 tang2 yin1 song4 yi2 ai4 ， ta1 nian2 sheng4 zhu4 cui4 min2 kua1 。
 
 ## 注释
 

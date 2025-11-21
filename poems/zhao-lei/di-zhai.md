@@ -6,10 +6,10 @@ titleSlug: di-zhai
 author: 趙雷
 authorPinyin: zhao4 lei2
 authorSlug: zhao-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xi-you-shi
 author: 詹體仁
 authorPinyin: zhan1 ti3 ren2
 authorSlug: zhan-ti-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

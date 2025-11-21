@@ -6,10 +6,10 @@ titleSlug: zuo-huang-gang-guang-fu-shan-fang
 author: 郭昂
 authorPinyin: guo1 ang2
 authorSlug: guo-ang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

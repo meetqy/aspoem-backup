@@ -6,25 +6,25 @@ titleSlug: zai-he-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 與君未得便安閑，邊警偏能惱澗槃。
-- 草地棗紅猶索鬭，田家稻白可能餐。
-- 誰將鐵綆橫江鎖，莫靠琵琶出塞彈。
-- 處處衝梯樓上舞，不應諸老自巍冠。
+- 古柏每經寒聳秀，朝花不待夕離披。
+- 舉揚壹似德山棒，摧拉過於力士椎。
+- 化鶴仙歸見孫老，感麟翁泣歎吾衰。
+- 楚狂難和薰風句，聊自歌之舞蹈之。
 
 ## 拼音
 
-- yu3 jun1 wei4 de2 bian4 an1 xian2 ， bian1 jing3 pian1 neng2 nao3 jian4 pan2 。
-- cao3 di4 zao3 hong2 you2 suo3 dou4 ， tian2 jia1 dao4 bai2 ke3 neng2 can1 。
-- shui2 jiang1 tie3 geng3 heng2 jiang1 suo3 ， mo4 kao4 pi2 pa0 chu1 sai4 dan4 。
-- chu3 chu3 chong1 ti1 lou2 shang4 wu3 ， bu4 ying1 zhu1 lao3 zi4 wei1 guan1 。
+- gu3 bai3 mei3 jing1 han2 song3 xiu4 ， chao2 hua1 bu2 dai4 xi1 li2 pi1 。
+- ju3 yang2 yi1 si4 de2 shan1 bang4 ， cui1 la1 guo4 wu1 li4 shi4 zhui1 。
+- hua4 he4 xian1 gui1 jian4 sun1 lao3 ， gan3 lin2 weng1 qi4 tan4 wu2 shuai1 。
+- chu3 kuang2 nan2 he2 xun1 feng1 ju4 ， liao2 zi4 ge1 zhi1 wu3 dao3 zhi1 。
 
 ## 注释
 

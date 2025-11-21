@@ -6,10 +6,10 @@ titleSlug: guo-fang-gong-hu-lin-fa-guang-wen-zai-jiu-deng-nan-lou-ting-yin-shi-c
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

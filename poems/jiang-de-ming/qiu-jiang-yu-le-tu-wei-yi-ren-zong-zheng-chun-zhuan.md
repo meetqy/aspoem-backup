@@ -6,10 +6,10 @@ titleSlug: qiu-jiang-yu-le-tu-wei-yi-ren-zong-zheng-chun-zhuan
 author: 姜德明
 authorPinyin: jiang1 de2 ming2
 authorSlug: jiang-de-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

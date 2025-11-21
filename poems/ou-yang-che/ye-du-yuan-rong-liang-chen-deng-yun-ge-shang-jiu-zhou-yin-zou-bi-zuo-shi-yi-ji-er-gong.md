@@ -6,9 +6,9 @@ titleSlug: ye-du-yuan-rong-liang-chen-deng-yun-ge-shang-jiu-zhou-yin-zou-bi-zuo-
 author: 歐陽澈
 authorPinyin: ou1 yang2 che4
 authorSlug: ou-yang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

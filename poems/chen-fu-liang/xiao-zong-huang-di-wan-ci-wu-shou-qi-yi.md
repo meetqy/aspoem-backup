@@ -6,25 +6,25 @@ titleSlug: xiao-zong-huang-di-wan-ci-wu-shou-qi-yi
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 九廟威靈遠，三宗德業尊。
-- 謳歌思藝祖，曆數在神孫。
-- 欲返皇圖正，先推帝繫恩。
-- 諸儒議東嚮，此意定初元。
+- 藝祖開皇極，何心畀後昆。
+- 天將翊堯運，世復見湯孫。
+- 武接規模在，仁追典則存。
+- 煌煌宋宗社，永永配乾坤。
 
 ## 拼音
 
-- jiu3 miao4 wei1 ling2 yuan3 ， san1 zong1 de2 ye4 zun1 。
-- ou1 ge1 si1 yi4 zu3 ， li4 shu4 zai4 shen2 sun1 。
-- yu4 fan3 huang2 tu2 zheng4 ， xian1 tui1 di4 xi4 en1 。
-- zhu1 ru2 yi4 dong1 xiang4 ， ci3 yi4 ding4 chu1 yuan2 。
+- yi4 zu3 kai1 huang2 ji2 ， he2 xin1 bi4 hou4 kun1 。
+- tian1 jiang1 yi4 yao2 yun4 ， shi4 fu4 jian4 tang1 sun1 。
+- wu3 jie1 gui1 mo2 zai4 ， ren2 zhui1 dian3 ze2 cun2 。
+- huang2 huang2 song4 zong1 she4 ， yong3 yong3 pei4 qian2 kun1 。
 
 ## 注释
 

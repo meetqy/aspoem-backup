@@ -6,10 +6,10 @@ titleSlug: song-xian-chen-shi-shi-xian-chen-shi-qin-zhi-huai-nan-yu-yi-qie-shi-x
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiang-guo-huang-chi-zhong-lu-han-shen-feng-meng-bu-ke-xing-fu-gui-qin
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

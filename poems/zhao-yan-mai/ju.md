@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙彥邁
 authorPinyin: zhao4 yan4 mai4
 authorSlug: zhao-yan-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

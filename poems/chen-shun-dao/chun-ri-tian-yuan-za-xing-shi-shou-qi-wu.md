@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing-shi-shou-qi-wu
 author: 陳舜道
 authorPinyin: chen2 shun4 dao4
 authorSlug: chen-shun-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

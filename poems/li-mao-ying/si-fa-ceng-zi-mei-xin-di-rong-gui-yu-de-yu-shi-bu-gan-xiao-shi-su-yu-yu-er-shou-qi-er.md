@@ -6,10 +6,10 @@ titleSlug: si-fa-ceng-zi-mei-xin-di-rong-gui-yu-de-yu-shi-bu-gan-xiao-shi-su-yu-
 author: 李昴英
 authorPinyin: li3 mao3 ying1
 authorSlug: li-mao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-dao-ning-song-gu-shi-liu-shou-qi-yi
-title: 頌古十六首  其一
-titlePinyin: song4 gu3 shi2 liu4 shou3     qi2 yi1
+title: 頌古十六首  其一○
+titlePinyin: song4 gu3 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-liu-shou-qi-yi
 author: 釋道寧
 authorPinyin: shi4 dao4 ning2
 authorSlug: shi-dao-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前箭猶輕後箭深，行人何事苦沉吟。
-- 翻身若解看方便，始信真鍮不博金。
+- 火號更深喝道來，普門關棙一時開。
+- 圓通大師呵呵笑，不是峨嵋與五臺。
 
 ## 拼音
 
-- qian2 jian4 you2 qing1 hou4 jian4 shen1 ， xing2 ren2 he2 shi4 ku3 chen2 yin2 。
-- fan1 shen1 ruo4 jie3 kan4 fang1 bian4 ， shi3 xin4 zhen1 tou1 bu4 bo2 jin1 。
+- huo3 hao4 geng4 shen1 he4 dao4 lai2 ， pu3 men2 guan1 li4 yi4 shi2 kai1 。
+- yuan2 tong1 da4 shi1 he1 he1 xiao4 ， bu2 shi4 e2 mei2 yu3 wu3 tai2 。
 
 ## 注释
 

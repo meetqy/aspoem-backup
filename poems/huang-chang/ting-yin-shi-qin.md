@@ -6,35 +6,25 @@ titleSlug: ting-yin-shi-qin
 author: 黄裳
 authorPinyin: huang2 chang2
 authorSlug: huang-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽意不可象，因聲而後形。
-- 至聲不可僞，因心而後生。
-- 三尺膝上孤，一寸胸中鳴。
-- 急聲如飛泉，瀉瀉秋雲邊。
-- 巧聲如流鶑，歷歷春風前。
-- 幽人無此心，素弦無此聲。
-- 心與手相忘，意與聲相迎。
-- 彈者自到古，聞者誰知音。
-- 但見風色吹我清，欲御此風天上行。
+- 心手相忘到混成，又非湘瑟與秦箏。
+- 秋來獨坐水邊石，古往誰知弦上聲。
+- 易度寸心閒有味，難諧羣耳淡無情。
+- 夕陽回首山猶好，更起松風一段清。
 
 ## 拼音
 
-- you1 yi4 bu4 ke3 xiang4 ， yin1 sheng1 er2 hou4 xing2 。
-- zhi4 sheng1 bu4 ke3 wei3 ， yin1 xin1 er2 hou4 sheng1 。
-- san1 chi3 xi1 shang4 gu1 ， yi2 cun4 xiong1 zhong1 ming2 。
-- ji2 sheng1 ru2 fei1 quan2 ， xie4 xie4 qiu1 yun2 bian1 。
-- qiao3 sheng1 ru2 liu2 ying1 ， li4 li4 chun1 feng1 qian2 。
-- you1 ren2 wu2 ci3 xin1 ， su4 xian2 wu2 ci3 sheng1 。
-- xin1 yu3 shou3 xiang4 wang4 ， yi4 yu3 sheng1 xiang1 ying2 。
-- dan4 zhe3 zi4 dao4 gu3 ， wen2 zhe3 shui2 zhi1 yin1 。
-- dan4 jian4 feng1 se4 chui1 wo3 qing1 ， yu4 yu4 ci3 feng1 tian1 shang4 xing2 。
+- xin1 shou3 xiang1 wang4 dao4 hun4 cheng2 ， you4 fei1 xiang1 se4 yu3 qin2 zheng1 。
+- qiu1 lai2 du2 zuo4 shui3 bian1 shi2 ， gu3 wang3 shui2 zhi1 xian2 shang4 sheng1 。
+- yi4 du4 cun4 xin1 xian2 you3 wei4 ， nan2 xie2 qun2 er3 dan4 wu2 qing2 。
+- xi1 yang2 hui2 shou3 shan1 you2 hao3 ， geng4 qi3 song1 feng1 yi2 duan4 qing1 。
 
 ## 注释
 

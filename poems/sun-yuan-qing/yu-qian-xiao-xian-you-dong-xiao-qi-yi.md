@@ -6,10 +6,10 @@ titleSlug: yu-qian-xiao-xian-you-dong-xiao-qi-yi
 author: 孫元卿
 authorPinyin: sun1 yuan2 qing1
 authorSlug: sun-yuan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

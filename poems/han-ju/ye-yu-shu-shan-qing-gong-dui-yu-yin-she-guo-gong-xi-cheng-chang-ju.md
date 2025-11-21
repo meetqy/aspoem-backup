@@ -6,10 +6,10 @@ titleSlug: ye-yu-shu-shan-qing-gong-dui-yu-yin-she-guo-gong-xi-cheng-chang-ju
 author: 韓駒
 authorPinyin: han2 ju1
 authorSlug: han-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

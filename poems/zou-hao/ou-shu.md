@@ -6,25 +6,21 @@ titleSlug: ou-shu
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝讀一卷經，暮讀一卷書。
-- 一卷復一卷，三藏與五車。
-- 儒釋本不異，昧者自親疏。
-- 昧者不足道，明者當何如。
+- 朝天坊裏朝天客，拱北軒中拱北人。
+- 惟有蒼蒼知此意，只應潛爲啟嚴宸。
 
 ## 拼音
 
-- chao2 du2 yi2 juan4 jing1 ， mu4 du2 yi2 juan4 shu1 。
-- yi2 juan4 fu4 yi2 juan4 ， san1 zang4 yu3 wu3 ju1 。
-- ru2 shi4 ben3 bu2 yi4 ， mei4 zhe3 zi4 qin1 shu1 。
-- mei4 zhe3 bu4 zu2 dao4 ， ming2 zhe3 dang1 he2 ru2 。
+- chao2 tian1 fang1 li3 chao2 tian1 ke4 ， gong3 bei3 xuan1 zhong1 gong3 bei3 ren2 。
+- wei2 you3 cang1 cang1 zhi1 ci3 yi4 ， zhi1 ying1 qian2 wei2 qi3 yan2 chen2 。
 
 ## 注释
 

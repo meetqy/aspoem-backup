@@ -6,21 +6,25 @@ titleSlug: ye-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 猿臂將軍老未衰，氣吞十萬羽林兒。
-- 南山射虎自堪樂，何用封侯高帝時。
+- 涉澗穿林信意行，翠崖朱棧愜幽情。
+- 關關幽鳥將雛語，簌簌幽篁解籜聲。
+- 藉草一壺消永日，出門幾屐了平生。
+- 川雲正作遮山計，浩蕩南風又快晴。
 
 ## 拼音
 
-- yuan2 bi4 jiang1 jun1 lao3 wei4 shuai1 ， qi4 tun1 shi2 wan4 yu3 lin2 er2 。
-- nan2 shan1 she4 hu3 zi4 kan1 le4 ， he2 yong4 feng1 hou2 gao1 di4 shi2 。
+- she4 jian4 chuan1 lin2 xin4 yi4 xing2 ， cui4 ya2 zhu1 zhan4 qie4 you1 qing2 。
+- guan1 guan1 you1 niao3 jiang1 chu2 yu3 ， su4 su4 you1 huang2 jie3 tuo4 sheng1 。
+- jie4 cao3 yi4 hu2 xiao1 yong3 ri4 ， chu1 men2 ji1 ji1 le0 ping2 sheng1 。
+- chuan1 yun2 zheng4 zuo4 zhe1 shan1 ji4 ， hao4 dang4 nan2 feng1 you4 kuai4 qing2 。
 
 ## 注释
 

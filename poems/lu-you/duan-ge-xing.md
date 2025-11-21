@@ -6,29 +6,29 @@ titleSlug: duan-ge-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百年鼎鼎世共悲，晨鐘暮鼓無休時。
-- 碧桃紅杏易零落，翠眉玉頰多别離。
-- 涉江采菱風敗意，登樓待月雲爲祟。
-- 功名常畏謗讒興，冨貴毎同衰病至。
-- 人生可嘆十八九，自古危機無妙手。
-- 正令插翮上青雲，不如得錢即沽酒。
+- 上樽不解散牢愁，靈藥安能扶死病。
+- 千鈞强弩無自射虛空，六出奇計終難逃定命。
+- 人生斯世無別巧，要在遇物心不競。
+- 憂忘寢食怒裂眥，孰若憑高寄孤詠。
+- 炎天一葛冬一裘，藜羹飯糗勿豫謀。
+- 耳邊閑事有何極，正可付之風馬牛。
 
 ## 拼音
 
-- bai3 nian2 ding3 ding3 shi4 gong4 bei1 ， chen2 zhong1 mu4 gu3 wu2 xiu1 shi2 。
-- bi4 tao2 hong2 xing4 yi4 ling2 luo4 ， cui4 mei2 yu4 jia2 duo1 bie2 li2 。
-- she4 jiang1 cai3 ling2 feng1 bai4 yi4 ， deng1 lou2 dai4 yue4 yun2 wei2 sui4 。
-- gong1 ming2 chang2 wei4 bang4 chan2 xing1 ， fu4 gui4 mei3 tong2 shuai1 bing4 zhi4 。
-- ren2 sheng1 ke3 tan4 shi2 ba1 jiu3 ， zi4 gu3 wei1 ji1 wu2 miao4 shou3 。
-- zheng4 ling4 cha1 he2 shang4 qing1 yun2 ， bu4 ru2 de2 qian2 ji2 gu1 jiu3 。
+- shang4 zun1 bu4 jie3 san4 lao2 chou2 ， ling2 yao4 an1 neng2 fu2 si3 bing4 。
+- qian1 jun1 qiang2 nu3 wu2 zi4 she4 xu1 kong1 ， liu4 chu1 qi2 ji4 zhong1 nan2 tao2 ding4 ming4 。
+- ren2 sheng1 si1 shi4 wu2 bie2 qiao3 ， yao4 zai4 yu4 wu4 xin1 bu2 jing4 。
+- you1 wang4 qin3 shi2 nu4 lie4 zi4 ， shu2 ruo4 ping2 gao1 ji4 gu1 yong3 。
+- yan2 tian1 yi4 ge3 dong1 yi4 qiu2 ， li2 geng1 fan4 qiu3 wu4 yu4 mou2 。
+- er3 bian1 xian2 shi4 you3 he2 ji2 ， zheng4 ke3 fu4 zhi1 feng1 ma3 niu2 。
 
 ## 注释
 

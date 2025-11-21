@@ -6,9 +6,9 @@ titleSlug: ji
 author: 尼法燈
 authorPinyin: ni2 fa3 deng1
 authorSlug: ni-fa-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

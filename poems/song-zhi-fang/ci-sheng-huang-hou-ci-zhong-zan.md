@@ -6,10 +6,10 @@ titleSlug: ci-sheng-huang-hou-ci-zhong-zan
 author: 宋直方
 authorPinyin: song4 zhi2 fang1
 authorSlug: song-zhi-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

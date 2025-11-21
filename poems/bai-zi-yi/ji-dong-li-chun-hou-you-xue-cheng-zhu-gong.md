@@ -6,10 +6,10 @@ titleSlug: ji-dong-li-chun-hou-you-xue-cheng-zhu-gong
 author: 白子儀
 authorPinyin: bai2 zi0 yi2
 authorSlug: bai-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

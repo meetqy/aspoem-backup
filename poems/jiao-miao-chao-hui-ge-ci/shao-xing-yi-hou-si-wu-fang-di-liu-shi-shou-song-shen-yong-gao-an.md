@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-si-wu-fang-di-liu-shi-shou-song-shen-yong-gao-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 忽而來兮，格神鴻休。
-- 忽而往兮，神不予留。
-- 神在天兮，福我壽我。
-- 千萬春兮，高靈下墮。
+- 神之戾止，天門夜開。
+- 禮備告成，雲 {車井} 亟回。
+- 旗纛晻靄，萬靈喧豗。
+- 獨遺祉福，用澤九垓。
 
 ## 拼音
 
-- hu1 er2 lai2 xi1 ， ge2 shen2 hong2 xiu1 。
-- hu1 er2 wang3 xi1 ， shen2 bu4 yu3 liu2 。
-- shen2 zai4 tian1 xi1 ， fu2 wo3 shou4 wo3 。
-- qian1 wan4 chun1 xi1 ， gao1 ling2 xia4 duo4 。
+- shen2 zhi1 li4 zhi3 ， tian1 men2 ye4 kai1 。
+- li3 bei4 gao4 cheng2 ， yun2  { ju1 jing3 }  ji2 hui2 。
+- qi2 dao4 an3 ai3 ， wan4 ling2 xuan1 hui1 。
+- du2 yi2 zhi3 fu2 ， yong4 ze2 jiu3 gai1 。
 
 ## 注释
 

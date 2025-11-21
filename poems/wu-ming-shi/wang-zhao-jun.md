@@ -9,20 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 猗蘭恩寵歇，昭陽幸御稀。
-- 朝辭漢闕去，夕見胡塵飛。
-- 寄信秦樓下，因書秋雁歸。
+- 一回望月一回悲，望月月移人不移。
+- 何時得見漢朝使，爲妾傳書斬畫師。
 
 ## 拼音
 
-- yi1 lan2 en1 chong3 xie1 ， zhao1 yang2 xing4 yu4 xi1 。
-- chao2 ci2 han4 que4 qu4 ， xi1 jian4 hu2 chen2 fei1 。
-- ji4 xin4 qin2 lou2 xia4 ， yin1 shu1 qiu1 yan4 gui1 。
+- yi4 hui2 wang4 yue4 yi1 hui2 bei1 ， wang4 yue4 yue4 yi2 ren2 bu4 yi2 。
+- he2 shi2 de2 jian4 han4 chao2 shi3 ， wei2 qie4 chuan2 shu1 zhan3 hua4 shi1 。
 
 ## 注释
 

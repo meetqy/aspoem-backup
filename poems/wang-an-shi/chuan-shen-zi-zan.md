@@ -6,21 +6,21 @@ titleSlug: chuan-shen-zi-zan
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此物非他物，今吾即故吾。
-- 今吾如可狀，此物若爲摹。
+- 我與丹青兩幻身，世間流轉會成塵。
+- 但知此物非他物，莫問今人猶昔人。
 
 ## 拼音
 
-- ci3 wu4 fei1 ta1 wu4 ， jin1 wu2 ji2 gu4 wu2 。
-- jin1 wu2 ru2 ke3 zhuang4 ， ci3 wu4 ruo4 wei2 mo2 。
+- wo3 yu3 dan1 qing1 liang3 huan4 shen1 ， shi4 jian4 liu2 zhuan3 hui4 cheng2 chen2 。
+- dan4 zhi1 ci3 wu4 fei1 ta1 wu4 ， mo4 wen4 jin1 ren2 you2 xi1 ren2 。
 
 ## 注释
 

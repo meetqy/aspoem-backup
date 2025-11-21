@@ -6,10 +6,10 @@ titleSlug: mo-ya-zhong-xing-song
 author: 吳億
 authorPinyin: wu2 yi4
 authorSlug: wu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

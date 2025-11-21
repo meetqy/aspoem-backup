@@ -6,10 +6,10 @@ titleSlug: song-luo-zheng-zhi-nian-xiong-chu-shi-er-zhe
 author: 趙挺之
 authorPinyin: zhao4 ting3 zhi1
 authorSlug: zhao-ting-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

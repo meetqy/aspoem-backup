@@ -3,22 +3,22 @@ id: chen-peng-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳鵬
+author: 陳蓬
 authorPinyin: chen2 peng2
 authorSlug: chen-peng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 桔柏江聲猶在耳，木瓜園路已侵山。
+- 竹籬疎見浦，茅屋漏通星。
 
 ## 拼音
 
-- ju2 bai3 jiang1 sheng1 you2 zai4 er3 ， mu4 gua1 yuan2 lu4 yi3 qin1 shan1 。
+- zhu2 li2 shu1 jian4 pu3 ， mao2 wu1 lou4 tong1 xing1 。
 
 ## 注释
 

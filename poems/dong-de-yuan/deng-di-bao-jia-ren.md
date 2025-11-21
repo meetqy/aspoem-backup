@@ -6,9 +6,9 @@ titleSlug: deng-di-bao-jia-ren
 author: 董德元
 authorPinyin: dong3 de2 yuan2
 authorSlug: dong-de-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

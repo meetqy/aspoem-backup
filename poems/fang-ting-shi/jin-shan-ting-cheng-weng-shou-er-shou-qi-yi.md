@@ -6,9 +6,9 @@ titleSlug: jin-shan-ting-cheng-weng-shou-er-shou-qi-yi
 author: 方廷實
 authorPinyin: fang1 ting2 shi2
 authorSlug: fang-ting-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

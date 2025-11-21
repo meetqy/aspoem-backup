@@ -6,10 +6,10 @@ titleSlug: xue-han-bai-si-zuo-xia-du-ru-ju-guan-xue-jian-zhang-zhi-ge
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

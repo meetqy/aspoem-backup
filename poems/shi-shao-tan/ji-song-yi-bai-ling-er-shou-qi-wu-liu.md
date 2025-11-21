@@ -6,27 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不紹金輪尊貴位，被人打落當門齒。
-- 難嚲梁王掘地埋，脫身留得空棺履。
-- 死款供成，臨文不諱。
-- 乳竇今朝報不平，臭烟蓬㶿薰他鼻。
-- 任是老頑，也須噴嚏。
+- 共飯江湖，何須晙鬭。
+- 含血噴人，先污其口。
+- 結成不共戴天冤，句句無非是駡門。
 
 ## 拼音
 
-- bu2 shao4 jin1 lun2 zun1 gui4 wei4 ， bei4 ren2 da3 luo4 dang1 men2 chi3 。
-- nan2 duo3 liang2 wang2 jue2 di4 mai2 ， tuo1 shen1 liu2 de2 kong4 guan1 lü3 。
-- si3 kuan3 gong4 cheng2 ， lin2 wen2 bu2 hui4 。
-- ru3 dou4 jin1 zhao1 bao4 bu4 ping2 ， chou4 yan1 peng2 㶿 xun1 ta1 bi2 。
-- ren4 shi4 lao3 wan2 ， ye3 xu1 pen1 ti4 。
+- gong4 fan4 jiang1 hu2 ， he2 xu1 jun4 dou4 。
+- han2 xue4 pen1 ren2 ， xian1 wu1 qi2 kou3 。
+- jie2 cheng2 bu2 gong4 dai4 tian1 yuan1 ， ju4 ju4 wu2 fei1 shi4 ma4 men2 。
 
 ## 注释
 

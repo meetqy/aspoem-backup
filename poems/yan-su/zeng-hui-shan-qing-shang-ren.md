@@ -6,10 +6,10 @@ titleSlug: zeng-hui-shan-qing-shang-ren
 author: 燕肅
 authorPinyin: yan4 su4
 authorSlug: yan-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

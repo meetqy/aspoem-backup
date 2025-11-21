@@ -6,21 +6,21 @@ titleSlug: du-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 榮悴紛紛醉夢中，轉頭何事不成空。
-- 全家采藥鹿門去，我憶襄陽龐德公。
+- 顔良文醜知何益，關羽張飛死可傷。
+- 等是人間號驍將，太山寧比一毫芒。
 
 ## 拼音
 
-- rong2 cui4 fen1 fen1 zui4 meng4 zhong1 ， zhuan3 tou2 he2 shi4 bu4 cheng2 kong1 。
-- quan2 jia1 cai3 yao4 lu4 men2 qu4 ， wo3 yi4 xiang1 yang2 pang2 de2 gong1 。
+- yan2 liang2 wen2 chou3 zhi1 he2 yi4 ， guan1 yu3 zhang1 fei1 si3 ke3 shang1 。
+- deng3 shi4 ren2 jian4 hao4 xiao1 jiang1 ， tai4 shan1 ning2 bi3 yi4 hao2 mang2 。
 
 ## 注释
 

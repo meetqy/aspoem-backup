@@ -6,10 +6,10 @@ titleSlug: ceng-nei-xiang-yi-jue-ju-shi-huan-yu-shi-juan-he-qi-yun-wu-shou-qi-er
 author: 洪芻
 authorPinyin: hong2 chu2
 authorSlug: hong-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

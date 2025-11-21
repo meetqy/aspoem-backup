@@ -6,10 +6,10 @@ titleSlug: shi-liu-ri-fu-du-ming-tang-li-cheng-sheng-jia-gong-xie-tai-yi-gong-xi
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

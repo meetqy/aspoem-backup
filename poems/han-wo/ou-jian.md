@@ -9,18 +9,22 @@ authorSlug: han-wo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鞦韆打困解羅帬，指點醍醐索一尊。
-- 見客入來和笑走，手搓梅子映中門。
+- 千金莫惜旱蓮生，一笑從教下蔡傾。
+- 仙樹有花難問種，御香聞氣不知名。
+- 愁來自覺歌喉咽，瘦去誰憐舞掌輕。
+- 小疊紅箋書恨字，與奴方便寄卿卿。
 
 ## 拼音
 
-- qiu1 qian1 da3 kun4 jie3 luo2 qun2 ， zhi3 dian3 ti2 hu2 suo3 yi4 zun1 。
-- jian4 ke4 ru4 lai2 he2 xiao4 zou3 ， shou3 cuo1 mei2 zi0 ying4 zhong1 men2 。
+- qian1 jin1 mo4 xi1 han4 lian2 sheng1 ， yi2 xiao4 cong2 jiao4 xia4 cai4 qing1 。
+- xian1 shu4 you3 hua1 nan2 wen4 zhong3 ， yu4 xiang1 wen2 qi4 bu4 zhi1 ming2 。
+- chou2 lai2 zi4 jue2 ge1 hou2 yan4 ， shou4 qu4 shui2 lian2 wu3 zhang3 qing1 。
+- xiao3 die2 hong2 jian1 shu1 hen4 zi4 ， yu3 nu2 fang1 bian4 ji4 qing1 qing1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ou-wen-guan-li-ju-qing-zhe-you-yi-pian-ji-cheng-cheng-du-fu-cong-di-s
 author: 劉兼
 authorPinyin: liu2 jian1
 authorSlug: liu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

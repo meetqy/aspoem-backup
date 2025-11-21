@@ -6,10 +6,10 @@ titleSlug: liu-bie-long-yin-yan
 author: 許子紹
 authorPinyin: xu1 zi3 shao4
 authorSlug: xu-zi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

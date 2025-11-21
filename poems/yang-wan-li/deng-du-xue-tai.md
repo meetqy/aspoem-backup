@@ -6,21 +6,21 @@ titleSlug: deng-du-xue-tai
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲問金沙信，聊登度雪臺。
-- 碧桃良解事，開過架梢來。
+- 金沙歲歲占先回，不等荼糜一併來。
+- 今歲香紅與香雪，兩花同日忽齊開。
 
 ## 拼音
 
-- yu4 wen4 jin1 sha1 xin4 ， liao2 deng1 du4 xue3 tai2 。
-- bi4 tao2 liang2 jie3 shi4 ， kai1 guo4 jia4 shao1 lai2 。
+- jin1 sha1 sui4 sui4 zhan4 xian1 hui2 ， bu4 deng3 tu2 mi2 yi2 bing4 lai2 。
+- jin1 sui4 xiang1 hong2 yu3 xiang1 xue3 ， liang3 hua1 tong2 ri4 hu1 qi2 kai1 。
 
 ## 注释
 

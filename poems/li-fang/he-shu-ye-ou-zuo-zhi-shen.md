@@ -6,9 +6,9 @@ titleSlug: he-shu-ye-ou-zuo-zhi-shen
 author: 李昉
 authorPinyin: li3 fang3
 authorSlug: li-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

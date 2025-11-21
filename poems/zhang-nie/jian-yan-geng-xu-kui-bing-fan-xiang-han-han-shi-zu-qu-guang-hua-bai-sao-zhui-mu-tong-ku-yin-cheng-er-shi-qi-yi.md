@@ -6,9 +6,9 @@ titleSlug: jian-yan-geng-xu-kui-bing-fan-xiang-han-han-shi-zu-qu-guang-hua-bai-s
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

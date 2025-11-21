@@ -6,10 +6,10 @@ titleSlug: ji-you
 author: 張庭薦
 authorPinyin: zhang1 ting2 jian4
 authorSlug: zhang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,18 @@ authorSlug: ou-yang-zhan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 山橫碧立並雄岷，大阜洪川共降神。
-- 心合雲雷清禍亂，力迴天地作陽春。
-- 非熊德媿當周輔，稱傑叨慙首漢臣。
-- 何幸腐儒無一藝，得爲門下食魚人。
+- 推車閫外主恩新，今日梁川草遍春。
+- 玉色據鞍雙節下，揚兵百萬路無塵。
 
 ## 拼音
 
-- shan1 heng2 bi4 li4 bing4 xiong2 min2 ， da4 fu4 hong2 chuan1 gong4 jiang4 shen2 。
-- xin1 he2 yun2 lei2 qing1 huo4 luan4 ， li4 hui2 tian1 di4 zuo4 yang2 chun1 。
-- fei1 xiong2 de2 kui4 dang1 zhou1 fu3 ， cheng1 jie2 dao1 can2 shou3 han4 chen2 。
-- he2 xing4 fu3 ru2 wu2 yi2 yi4 ， de2 wei2 men2 xia4 shi2 yu2 ren2 。
+- tui1 ju1 kun3 wai4 zhu3 en1 xin1 ， jin1 ri4 liang2 chuan1 cao3 bian4 chun1 。
+- yu4 se4 ju4 an1 shuang1 jie2 xia4 ， yang2 bing1 bai3 wan4 lu4 wu2 chen2 。
 
 ## 注释
 

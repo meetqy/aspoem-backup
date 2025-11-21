@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳大震
 authorPinyin: chen2 da4 zhen4
 authorSlug: chen-da-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

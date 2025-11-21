@@ -6,10 +6,10 @@ titleSlug: hu-shang-ming-jiu-zuo
 author: 尤棐
 authorPinyin: you2 fei3
 authorSlug: you-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

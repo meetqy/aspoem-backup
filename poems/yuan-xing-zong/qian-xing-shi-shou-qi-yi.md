@@ -1,26 +1,26 @@
 ---
 id: yuan-xing-zong-qian-xing-shi-shou-qi-yi
-title: 遣興十首  其一
-titlePinyin: qian3 xing1 shi2 shou3     qi2 yi1
+title: 遣興十首  其一○
+titlePinyin: qian3 xing1 shi2 shou3     qi2 yi1 ○
 titleSlug: qian-xing-shi-shou-qi-yi
 author: 員興宗
 authorPinyin: yuan2 xing1 zong1
 authorSlug: yuan-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好在青山成獨往，無端赤縣擁清曹。
-- 會須披草對田叟，豈問無豪即易高。
+- 舍南百尺樹駭綠，籬外一梢梅破春。
+- 不須訪我伶俜事，儘有幽花料理人。
 
 ## 拼音
 
-- hao3 zai4 qing1 shan1 cheng2 du2 wang3 ， wu2 duan1 chi4 xian4 yong1 qing1 cao2 。
-- hui4 xu1 pi1 cao3 dui4 tian2 sou3 ， qi3 wen4 wu2 hao2 ji2 yi4 gao1 。
+- she4 nan2 bai3 chi3 shu4 hai4 lü4 ， li2 wai4 yi4 shao1 mei2 po4 chun1 。
+- bu4 xu1 fang3 wo3 ling2 ping1 shi4 ， jin3 you3 you1 hua1 liao4 li3 ren2 。
 
 ## 注释
 

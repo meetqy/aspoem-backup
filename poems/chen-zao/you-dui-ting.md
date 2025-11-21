@@ -6,25 +6,25 @@ titleSlug: you-dui-ting
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄堂綠影轉槐龍，錦繡圍中度好風。
-- 珠履相輝人峙玉，金罍更勸酒如空。
-- 逢辰正自千齡會，勝日何妨一醉同。
-- 來歲從公話今日，鈞天應簉未央宮。
+- 綠輿初下玉龜山，小駐黄堂相府蓮。
+- 上客居多天下士，主人况自地行仙。
+- 九光霞裏聞譚笑，三素雲中度管絃。
+- 來歲日邊桃薦碧，帝觴應共醉鈞天。
 
 ## 拼音
 
-- huang2 tang2 lü4 ying3 zhuan3 huai2 long2 ， jin3 xiu4 wei2 zhong1 du4 hao3 feng1 。
-- zhu1 lü3 xiang1 hui1 ren2 zhi4 yu4 ， jin1 lei2 geng4 quan4 jiu3 ru2 kong1 。
-- feng2 chen2 zheng4 zi4 qian1 ling2 hui4 ， sheng4 ri4 he2 fang2 yi2 zui4 tong2 。
-- lai2 sui4 cong2 gong1 hua4 jin1 ri4 ， jun1 tian1 ying1 zao4 wei4 yang1 gong1 。
+- lü4 yu2 chu1 xia4 yu4 gui1 shan1 ， xiao3 zhu4 huang2 tang2 xiang4 fu3 lian2 。
+- shang4 ke4 ju1 duo1 tian1 xia4 shi4 ， zhu3 ren2 kuang4 zi4 di4 xing2 xian1 。
+- jiu3 guang1 xia2 li3 wen2 tan2 xiao4 ， san1 su4 yun2 zhong1 du4 guan3 xian2 。
+- lai2 sui4 ri4 bian1 tao2 jian4 bi4 ， di4 shang1 ying1 gong4 zui4 jun1 tian1 。
 
 ## 注释
 

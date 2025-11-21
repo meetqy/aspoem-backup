@@ -6,10 +6,10 @@ titleSlug: jian-kang-huang-shang-shu-qing-zhu-qing-zhen-ceng-yi-song-que-zhi
 author: 釋亮
 authorPinyin: shi4 liang4
 authorSlug: shi-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

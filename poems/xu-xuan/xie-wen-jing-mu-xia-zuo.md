@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-xie-wen-jing-mu-xia-zuo
-title: 謝文靜墓下作
+title: 謝文靖墓下作
 titlePinyin: xie4 wen2 jing4 mu4 xia4 zuo4
 titleSlug: xie-wen-jing-mu-xia-zuo
 author: 徐鉉

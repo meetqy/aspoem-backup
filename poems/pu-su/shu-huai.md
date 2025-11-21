@@ -6,10 +6,10 @@ titleSlug: shu-huai
 author: 濮肅
 authorPinyin: pu2 su4
 authorSlug: pu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

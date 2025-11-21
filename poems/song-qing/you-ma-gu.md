@@ -6,10 +6,10 @@ titleSlug: you-ma-gu
 author: □松卿
 authorPinyin: □ song1 qing1
 authorSlug: song-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

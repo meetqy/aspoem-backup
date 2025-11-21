@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-er
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 睍睆黄鸝出，參差紫燕飛。
-- 君仁罿罻闊，惠及羽毛微。
+- 截肪初見昭華玉，刀出昆吾寶籀開。
+- 天助君王敷大喜，安排春色探先來。
 
 ## 拼音
 
-- xian4 huan4 huang2 li2 chu1 ， can1 cha4 zi3 yan4 fei1 。
-- jun1 ren2 chong1 wei4 kuo4 ， hui4 ji2 yu3 mao2 wei1 。
+- jie2 fang2 chu1 jian4 zhao1 hua2 yu4 ， dao1 chu1 kun1 wu2 bao3 zhou4 kai1 。
+- tian1 zhu4 jun1 wang2 fu1 da4 xi3 ， an1 pai2 chun1 se4 tan4 xian1 lai2 。
 
 ## 注释
 

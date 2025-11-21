@@ -6,10 +6,10 @@ titleSlug: fang-yang-zun-shi
 author: 孫革
 authorPinyin: sun1 ge2
 authorSlug: sun-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

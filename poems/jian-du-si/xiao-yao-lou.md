@@ -6,10 +6,10 @@ titleSlug: xiao-yao-lou
 author: 建都思
 authorPinyin: jian4 du1 si1
 authorSlug: jian-du-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

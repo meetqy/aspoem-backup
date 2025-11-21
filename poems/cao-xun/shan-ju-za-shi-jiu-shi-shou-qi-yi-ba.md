@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今年已斷梅，七月雨益大。
-- 苗雖不厭雨，灌恐有餘溉。
-- 禾梗正柔嫩，水滿舞澎湃。
-- 其間田高低，于焉有畏愛。
+- 秋色遂將半，游雲時淡濃。
+- 水光影䆉䅉，秀色增芙蓉。
+- 斸地種三徑，鈎窗來五峰。
+- 新晴何以卜，一意聽晨鐘。
 
 ## 拼音
 
-- jin1 nian2 yi3 duan4 mei2 ， qi1 yue4 yu3 yi4 da4 。
-- miao2 sui1 bu2 yan4 yu3 ， guan4 kong3 you3 yu2 gai4 。
-- he2 geng3 zheng4 rou2 nen4 ， shui3 man3 wu3 peng2 pai4 。
-- qi2 jian4 tian2 gao1 di1 ， yu2 yan1 you3 wei4 ai4 。
+- qiu1 se4 sui4 jiang1 ban4 ， you2 yun2 shi2 dan4 nong2 。
+- shui3 guang1 ying3 䆉䅉， xiu4 se4 zeng1 fu2 rong2 。
+- zhu2 di4 zhong3 san1 jing4 ， gou1 chuang1 lai2 wu3 feng1 。
+- xin1 qing2 he2 yi3 bu3 ， yi2 yi4 ting1 chen2 zhong1 。
 
 ## 注释
 

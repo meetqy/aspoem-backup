@@ -6,9 +6,9 @@ titleSlug: li-lin-an-ri-fan-bo-da-song-cha-yue-zhi-diao-tai-peng-zhi-zheng-yue-s
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

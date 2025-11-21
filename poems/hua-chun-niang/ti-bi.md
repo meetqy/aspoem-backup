@@ -6,10 +6,10 @@ titleSlug: ti-bi
 author: 華春娘
 authorPinyin: hua2 chun1 niang2
 authorSlug: hua-chun-niang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

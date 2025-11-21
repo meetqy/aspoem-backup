@@ -6,10 +6,10 @@ titleSlug: ci-jian-cheng-yu-lian-fang
 author: 蔣芸
 authorPinyin: jiang3 yun2
 authorSlug: jiang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

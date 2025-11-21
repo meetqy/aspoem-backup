@@ -6,10 +6,10 @@ titleSlug: tong-qian-ze-fu-deng-jun-cheng-guan-yu-suo-he-mei-zhong-qian-jin-shan
 author: 林表民
 authorPinyin: lin2 biao3 min2
 authorSlug: lin-biao-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

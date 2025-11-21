@@ -6,10 +6,10 @@ titleSlug: dong-hu-bai-shuo-fei-li-qu-zhi-zhu-sheng-yi-shi-liu-xing-he-qi-yun-yi
 author: 王義山
 authorPinyin: wang2 yi4 shan1
 authorSlug: wang-yi-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 澄澄方沼玉庭前，天産雙英並萼蓮。
-- 含秀同芳應有感，故來清禁啓妖妍。
+- 慶成宮宇亘修梁，偉頌聲文出玉堂。
+- 近日屢經親述作，懽然中分仰宸章。
 
 ## 拼音
 
-- cheng2 cheng2 fang1 zhao3 yu4 ting2 qian2 ， tian1 chan3 shuang1 ying1 bing4 e4 lian2 。
-- han2 xiu4 tong2 fang1 ying1 you3 gan3 ， gu4 lai2 qing1 jin4 qi3 yao1 yan2 。
+- qing4 cheng2 gong1 yu3 gen4 xiu1 liang2 ， wei3 song4 sheng1 wen2 chu1 yu4 tang2 。
+- jin4 ri4 lü3 jing1 qin1 shu4 zuo4 ， huan1 ran2 zhong1 fen1 yang3 chen2 zhang1 。
 
 ## 注释
 

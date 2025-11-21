@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禁宮春色最妖妍，桃李扶疏滿眼前。
-- 鬬草踏青攜伴侶，更尋何處畫圖仙。
+- 一夜濃雲布九霄，忽成春色潤寒苖。
+- 玉墀墀下鴛鴻到，欲曉傳宣敎放朝。
 
 ## 拼音
 
-- jin4 gong1 chun1 se4 zui4 yao1 yan2 ， tao2 li3 fu2 shu1 man3 yan3 qian2 。
-- dou4 cao3 ta4 qing1 xie2 ban4 lü3 ， geng4 xun2 he2 chu3 hua4 tu2 xian1 。
+- yi2 ye4 nong2 yun2 bu4 jiu3 xiao1 ， hu1 cheng2 chun1 se4 run4 han2 di2 。
+- yu4 chi2 chi2 xia4 yuan1 hong2 dao4 ， yu4 xiao3 chuan2 xuan1 jiao4 fang4 chao2 。
 
 ## 注释
 

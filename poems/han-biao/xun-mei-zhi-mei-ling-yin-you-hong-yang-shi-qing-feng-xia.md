@@ -6,10 +6,10 @@ titleSlug: xun-mei-zhi-mei-ling-yin-you-hong-yang-shi-qing-feng-xia
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

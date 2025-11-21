@@ -6,10 +6,10 @@ titleSlug: yi-shui-shen-xiang-ji-lu-ju-ren-xi-zuo-liu-yan-er-shou-qi-er
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,24 +9,24 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 海陽泉上山，巉巉盡殊狀。
-- 忽然有平石，盤薄千峯上。
-- 寒泉匝石流，懸注幾千丈。
-- 有時厭泉湖，愛臨一長望。
-- 意出天地間，因爲逸民唱。
+- 下山復上山，山勢凌雲空。
+- 有石圓且平，疑是□□功。
+- 清淺繞細泉，陰森倚長松。
+- 幕幕生青苔，亭亭對遠峯。
+- 朝來暮未歸，愛□□□□。
 
 ## 拼音
 
-- hai3 yang2 quan2 shang4 shan1 ， chan2 chan2 jin4 shu1 zhuang4 。
-- hu1 ran2 you3 ping2 shi2 ， pan2 bao2 qian1 feng1 shang4 。
-- han2 quan2 za1 shi2 liu2 ， xuan2 zhu4 ji1 qian1 zhang4 。
-- you3 shi2 yan4 quan2 hu2 ， ai4 lin2 yi4 chang2 wang4 。
-- yi4 chu1 tian1 di4 jian4 ， yin1 wei2 yi4 min2 chang4 。
+- xia4 shan1 fu4 shang4 shan1 ， shan1 shi4 ling2 yun2 kong1 。
+- you3 shi2 yuan2 qie3 ping2 ， yi2 shi4 □□ gong1 。
+- qing1 qian3 rao4 xi4 quan2 ， yin1 sen1 yi3 chang2 song1 。
+- mu4 mu4 sheng1 qing1 tai2 ， ting2 ting2 dui4 yuan3 feng1 。
+- chao2 lai2 mu4 wei4 gui1 ， ai4 □□□□。
 
 ## 注释
 

@@ -9,16 +9,20 @@ authorSlug: wang-zheng-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 洗盂秋澗日華動，搗藥夜坐秋氣深。
+- 未可輕樗櫟，尤能濟雪霜。
+- （同前卷二一引《零陵總記》，云爲王正詩，王正當即王正己之誤。
+- ）。
 
 ## 拼音
 
-- xi3 yu2 qiu1 jian4 ri4 hua2 dong4 ， dao3 yao4 ye4 zuo4 qiu1 qi4 shen1 。
+- wei4 ke3 qing1 chu1 li4 ， you2 neng2 ji4 xue3 shuang1 。
+- （ tong2 qian2 juan4 er4 yi4 yin3 《 ling2 ling2 zong3 ji4 》， yun2 wei2 wang2 zheng4 shi1 ， wang2 zheng4 dang1 ji2 wang2 zheng4 ji3 zhi1 wu4 。
+- ）。
 
 ## 注释
 

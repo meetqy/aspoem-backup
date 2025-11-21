@@ -6,10 +6,10 @@ titleSlug: dan-qin
 author: 李氏女
 authorPinyin: li3 shi4 nü3
 authorSlug: li-shi-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

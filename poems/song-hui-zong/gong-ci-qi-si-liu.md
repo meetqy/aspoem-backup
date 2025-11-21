@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金殿重重十字方，當中鸞鶴勢翺翔。
-- 韜藏蘭炷無人見，篆縷搖搖闔座香。
+- 鞦韆影裏笑相迎，蕙圃蘭畦恣擷英。
+- 薄暮歸來春意倦，芝堂閑聽碾茶聲。
 
 ## 拼音
 
-- jin1 dian4 chong2 chong2 shi2 zi4 fang1 ， dang1 zhong1 luan2 he4 shi4 ao2 xiang2 。
-- tao1 cang2 lan2 zhu4 wu2 ren2 jian4 ， zhuan4 lü3 yao2 yao2 he2 zuo4 xiang1 。
+- qiu1 qian1 ying3 li3 xiao4 xiang1 ying2 ， hui4 pu3 lan2 qi2 zi4 xie2 ying1 。
+- bo2 mu4 gui1 lai2 chun1 yi4 juan4 ， zhi1 tang2 xian2 ting1 nian3 cha2 sheng1 。
 
 ## 注释
 

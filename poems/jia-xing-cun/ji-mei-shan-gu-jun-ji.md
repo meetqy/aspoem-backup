@@ -6,10 +6,10 @@ titleSlug: ji-mei-shan-gu-jun-ji
 author: 家性存
 authorPinyin: jia1 xing4 cun2
 authorSlug: jia-xing-cun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

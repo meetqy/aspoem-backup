@@ -6,10 +6,10 @@ titleSlug: fei-shi-yi-shu-tang
 author: 江景春
 authorPinyin: jiang1 jing3 chun1
 authorSlug: jiang-jing-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

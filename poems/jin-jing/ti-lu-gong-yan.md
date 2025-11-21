@@ -6,10 +6,10 @@ titleSlug: ti-lu-gong-yan
 author: 金靖
 authorPinyin: jin1 jing4
 authorSlug: jin-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

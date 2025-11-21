@@ -6,10 +6,10 @@ titleSlug: luo-hua
 author: 李陶子
 authorPinyin: li3 tao2 zi0
 authorSlug: li-tao-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

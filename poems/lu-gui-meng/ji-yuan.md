@@ -9,18 +9,18 @@ authorSlug: lu-gui-meng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鬢亂羞雲卷，眉空羨月生。
-- 中原猶將將，何日重卿卿。
+- 縹梨花謝鶯口喫，黃犢少年人未歸。
+- 畫扇紅弦相掩映，獨看斜月下簾衣。
 
 ## 拼音
 
-- bin4 luan4 xiu1 yun2 juan4 ， mei2 kong1 xian4 yue4 sheng1 。
-- zhong1 yuan2 you2 jiang1 jiang1 ， he2 ri4 zhong4 qing1 qing1 。
+- piao3 li2 hua1 xie4 ying1 kou3 chi1 ， huang2 du2 shao4 nian2 ren2 wei4 gui1 。
+- hua4 shan4 hong2 xian2 xiang1 yan3 ying4 ， du2 kan4 xie2 yue4 xia4 lian2 yi1 。
 
 ## 注释
 

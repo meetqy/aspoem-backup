@@ -6,10 +6,10 @@ titleSlug: si-yue-jie-guan-du-hai-lu-chu-bei-liu-zhi-zhou-zai-nan-xiong-you-lu-c
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

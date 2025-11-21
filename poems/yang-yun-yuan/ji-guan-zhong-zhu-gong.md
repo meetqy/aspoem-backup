@@ -6,10 +6,10 @@ titleSlug: ji-guan-zhong-zhu-gong
 author: 楊允元
 authorPinyin: yang2 yun3 yuan2
 authorSlug: yang-yun-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,16 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 日日思前路，朝朝別主人。
-- 行行山水上，處處鳥啼新。
+- 白玉非爲寶，千金我不須，憶念千張紙，心藏萬卷書。
 
 ## 拼音
 
-- ri4 ri4 si1 qian2 lu4 ， zhao1 zhao1 bie2 zhu3 ren2 。
-- hang2 hang2 shan1 shui3 shang4 ， chu3 chu3 niao3 ti2 xin1 。
+- bai2 yu4 fei1 wei2 bao3 ， qian1 jin1 wo3 bu4 xu1 ， yi4 nian4 qian1 zhang1 zhi3 ， xin1 cang2 wan4 juan4 shu1 。
 
 ## 注释
 

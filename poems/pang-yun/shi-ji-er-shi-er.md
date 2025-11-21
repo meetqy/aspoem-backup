@@ -9,28 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 癡兒無智慧，自嫌阿爺醜。
-- 阿娘生得身，嫌孃無面首。
-- 拋却親爺孃，外邊逐色走。
-- 六親相將作，尋常不開口。
-- 恆遊十二月，月月飲欲酒。
-- 夜夜不曾醒，醉吐飼猪狗。
-- 如此惡男子，緣事不了手。
+- 取空是取（《祖堂集》作「空是」）色，取色色無常。
+- 色空非我有，端坐見家鄉。
 
 ## 拼音
 
-- chi1 er2 wu2 zhi4 hui4 ， zi4 xian2 a1 ye2 chou3 。
-- a1 niang2 sheng1 de2 shen1 ， xian2 niang2 wu2 mian4 shou3 。
-- pao1 que4 qin1 ye2 niang2 ， wai4 bian1 zhu2 se4 zou3 。
-- liu4 qin1 xiang1 jiang1 zuo4 ， xun2 chang2 bu4 kai1 kou3 。
-- heng2 you2 shi2 er4 yue4 ， yue4 yue4 yin3 yu4 jiu3 。
-- ye4 ye4 bu4 ceng2 xing3 ， zui4 tu3 si4 zhu1 gou3 。
-- ru2 ci3 e4 nan2 zi3 ， yuan2 shi4 bu4 liao3 shou3 。
+- qu3 kong1 shi4 qu3 （《 zu3 tang2 ji2 》 zuo4 「 kong1 shi4 」） se4 ， qu3 se4 se4 wu2 chang2 。
+- se4 kong1 fei1 wo3 you3 ， duan1 zuo4 jian4 jia1 xiang1 。
 
 ## 注释
 

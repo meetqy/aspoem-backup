@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 張表臣
 authorPinyin: zhang1 biao3 chen2
 authorSlug: zhang-biao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

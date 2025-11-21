@@ -6,10 +6,10 @@ titleSlug: song-miao-xi-lao-shi-shi-zhong-suo-wen-yin-yuan
 author: 吳偉明
 authorPinyin: wu2 wei3 ming2
 authorSlug: wu-wei-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

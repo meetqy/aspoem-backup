@@ -6,10 +6,10 @@ titleSlug: tong-guan-xu-zhi-dao-liang-ba-pian-qi-si
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

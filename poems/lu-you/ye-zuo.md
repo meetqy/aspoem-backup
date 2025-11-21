@@ -6,21 +6,25 @@ titleSlug: ye-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大風横吹斗柄折，迅雷下擊山壁裂。
-- 放翁閉户寂不聞，楞嚴卷盡燈花結。
+- 懷抱何蕭爽，凉風掃鬰蒸。
+- 寒蛩喧敗草，饑鼠囓枯藤。
+- 蝶入誰家夢，花殘半夜燈。
+- 無人論道德，長嘯愧孫登。
 
 ## 拼音
 
-- da4 feng1 heng2 chui1 dou4 bing3 zhe2 ， xun4 lei2 xia4 ji1 shan1 bi4 lie4 。
-- fang4 weng1 bi4 hu4 ji4 bu4 wen2 ， leng2 yan2 juan4 jin4 deng1 hua1 jie2 。
+- huai2 bao4 he2 xiao1 shuang3 ， liang2 feng1 sao3 yu4 zheng1 。
+- han2 qiong2 xuan1 bai4 cao3 ， ji1 shu3 nie4 ku1 teng2 。
+- die2 ru4 shui2 jia1 meng4 ， hua1 can2 ban4 ye4 deng1 。
+- wu2 ren2 lun4 dao4 de2 ， chang2 xiao4 kui4 sun1 deng1 。
 
 ## 注释
 

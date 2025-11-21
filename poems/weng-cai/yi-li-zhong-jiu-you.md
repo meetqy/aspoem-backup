@@ -6,10 +6,10 @@ titleSlug: yi-li-zhong-jiu-you
 author: 翁采
 authorPinyin: weng1 cai3
 authorSlug: weng-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

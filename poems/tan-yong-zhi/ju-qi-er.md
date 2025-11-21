@@ -6,9 +6,9 @@ titleSlug: ju-qi-er
 author: 譚用之
 authorPinyin: tan2 yong4 zhi1
 authorSlug: tan-yong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

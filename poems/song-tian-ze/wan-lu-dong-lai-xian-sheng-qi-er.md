@@ -6,10 +6,10 @@ titleSlug: wan-lu-dong-lai-xian-sheng-qi-er
 author: 宋天則
 authorPinyin: song4 tian1 ze2
 authorSlug: song-tian-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

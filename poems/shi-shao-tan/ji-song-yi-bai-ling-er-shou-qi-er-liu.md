@@ -6,25 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-er-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秘魔擎叉，俱胝豎指。
-- 邪法難扶，如何得是。
-- 山僧冷地思量，不覺吞聲飲氣。
-- 攻乎異端，斯害也矣。
+- 一月行空，千門賞玩。
+- 自己光明，幾人著眼。
+- 馬師父子盡力揩磨，不得一半。
+- 諸人要見真月麽，何似破漆碗。
 
 ## 拼音
 
-- mi4 mo2 qing2 cha1 ， ju4 zhi1 shu4 zhi3 。
-- xie2 fa3 nan2 fu2 ， ru2 he2 de2 shi4 。
-- shan1 seng1 leng3 di4 si1 liang0 ， bu4 jue2 tun1 sheng1 yin3 qi4 。
-- gong1 hu1 yi4 duan1 ， si1 hai4 ye3 yi3 。
+- yi1 yue4 xing2 kong1 ， qian1 men2 shang3 wan2 。
+- zi4 ji3 guang1 ming2 ， ji1 ren2 zhu4 yan3 。
+- ma3 shi1 fu4 zi3 jin4 li4 kai1 mo2 ， bu4 de2 yi2 ban4 。
+- zhu1 ren2 yao4 jian4 zhen1 yue4 mo2 ， he2 si4 po4 qi1 wan3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: dai-ju-ji-qiu-zan
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

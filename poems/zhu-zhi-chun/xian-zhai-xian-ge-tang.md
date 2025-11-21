@@ -6,10 +6,10 @@ titleSlug: xian-zhai-xian-ge-tang
 author: 朱之純
 authorPinyin: zhu1 zhi1 chun2
 authorSlug: zhu-zhi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wu-wu-chu-chang-xing-guo-fan-xi-xi-zhi-qing-guo-yuan
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

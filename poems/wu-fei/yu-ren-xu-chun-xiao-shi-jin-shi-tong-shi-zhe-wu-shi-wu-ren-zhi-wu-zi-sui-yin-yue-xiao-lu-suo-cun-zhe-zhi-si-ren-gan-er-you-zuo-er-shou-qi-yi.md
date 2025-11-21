@@ -6,10 +6,10 @@ titleSlug: yu-ren-xu-chun-xiao-shi-jin-shi-tong-shi-zhe-wu-shi-wu-ren-zhi-wu-zi-
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

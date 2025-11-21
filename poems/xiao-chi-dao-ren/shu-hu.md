@@ -6,9 +6,9 @@ titleSlug: shu-hu
 author: 小郗道人
 authorPinyin: xiao3 chi1 dao4 ren2
 authorSlug: xiao-chi-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

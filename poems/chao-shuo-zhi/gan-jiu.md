@@ -6,25 +6,25 @@ titleSlug: gan-jiu
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 林梢接手百花浮，昔與王孫倚小樓。
-- 風物無情常自若，男兒何處不堪愁。
-- 蘭成只憶江南老，丞相難忘洛下游。
-- 今日天涯送春淚，不堪更爲種瓜侯。
+- 田園幾畝豆苗新，卒歲閒居百慮真。
+- 不日頻逢中酒客，何時曾禁折花人。
+- 誰誇玉帛奔侯服，自喜樵蘇入帝闉。
+- 回首龍蛇紛起陸，却垂涕淚問胡塵。
 
 ## 拼音
 
-- lin2 shao1 jie1 shou3 bai3 hua1 fu2 ， xi1 yu3 wang2 sun1 yi3 xiao3 lou2 。
-- feng1 wu4 wu2 qing2 chang2 zi4 ruo4 ， nan2 er2 he2 chu3 bu4 kan1 chou2 。
-- lan2 cheng2 zhi1 yi4 jiang1 nan2 lao3 ， cheng2 xiang4 nan2 wang4 luo4 xia4 you2 。
-- jin1 ri4 tian1 ya2 song4 chun1 lei4 ， bu4 kan1 geng4 wei2 zhong3 gua1 hou2 。
+- tian2 yuan2 ji1 mu3 dou4 miao2 xin1 ， zu2 sui4 xian2 ju1 bai3 lü4 zhen1 。
+- bu2 ri4 bin1 feng2 zhong1 jiu3 ke4 ， he2 shi2 ceng2 jin4 zhe2 hua1 ren2 。
+- shui2 kua1 yu4 bo2 ben1 hou2 fu2 ， zi4 xi3 qiao2 su1 ru4 di4 yin1 。
+- hui2 shou3 long2 she2 fen1 qi3 lu4 ， que4 chui2 ti4 lei4 wen4 hu2 chen2 。
 
 ## 注释
 

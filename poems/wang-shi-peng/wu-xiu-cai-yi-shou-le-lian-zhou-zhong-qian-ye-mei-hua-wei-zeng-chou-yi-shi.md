@@ -6,10 +6,10 @@ titleSlug: wu-xiu-cai-yi-shou-le-lian-zhou-zhong-qian-ye-mei-hua-wei-zeng-chou-y
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: zhou-yan-zhi-gong-ci-qi-jiu
-title: 宮詞  其九
-titlePinyin: gong1 ci2     qi2 jiu3
+title: 宮詞  其九○
+titlePinyin: gong1 ci2     qi2 jiu3 ○
 titleSlug: gong-ci-qi-jiu
 author: 周彥質
 authorPinyin: zhou1 yan4 zhi4
 authorSlug: zhou-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖主威聲懾四溟，洮湟鄯廓指呼平。
-- 如今都護無公事，但奏諸藩進奉名。
+- 踴躍新羈已過關，未高生怕別人盤。
+- 到窩路數無多擲，急滿須防將馬闌。
 
 ## 拼音
 
-- sheng4 zhu3 wei1 sheng1 she4 si4 ming2 ， tao2 huang2 shan4 kuo4 zhi3 hu1 ping2 。
-- ru2 jin1 dou1 hu4 wu2 gong1 shi4 ， dan4 zou4 zhu1 fan1 jin4 feng4 ming2 。
+- yong3 yue4 xin1 ji1 yi3 guo4 guan1 ， wei4 gao1 sheng1 pa4 bie2 ren2 pan2 。
+- dao4 wo1 lu4 shu4 wu2 duo1 zhi4 ， ji2 man3 xu1 fang2 jiang1 ma3 lan2 。
 
 ## 注释
 

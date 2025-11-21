@@ -6,10 +6,10 @@ titleSlug: tou-pu-shou-cheng-qi-er
 author: 潮州書生
 authorPinyin: chao2 zhou1 shu1 sheng1
 authorSlug: chao-zhou-shu-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

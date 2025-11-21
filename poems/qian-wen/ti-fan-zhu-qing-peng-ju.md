@@ -6,10 +6,10 @@ titleSlug: ti-fan-zhu-qing-peng-ju
 author: 錢文
 authorPinyin: qian2 wen2
 authorSlug: qian-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

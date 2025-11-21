@@ -6,25 +6,25 @@ titleSlug: zhong-qiu-yue
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何處見清輝，登樓正午時。
-- 莫辭終夕看，動是隔年期。
-- 冷濕流螢草，光凝宿鶴枝。
-- 不禁鷄唱曉，輕別下天涯。
+- 明可鑑秋毫，供吟屬我曹。
+- 隔年方得見，終夕敢辭勞。
+- 冷向天心白，清臨露掌高。
+- 霜臺相照處，寒色滿藍袍。
 
 ## 拼音
 
-- he2 chu3 jian4 qing1 hui1 ， deng1 lou2 zheng4 wu3 shi2 。
-- mo4 ci2 zhong1 xi1 kan4 ， dong4 shi4 ge2 nian2 qi1 。
-- leng3 shi1 liu2 ying2 cao3 ， guang1 ning2 su4 he4 zhi1 。
-- bu4 jin1 ji1 chang4 xiao3 ， qing1 bie2 xia4 tian1 ya2 。
+- ming2 ke3 jian4 qiu1 hao2 ， gong4 yin2 shu3 wo3 cao2 。
+- ge2 nian2 fang1 de2 jian4 ， zhong1 xi1 gan3 ci2 lao2 。
+- leng3 xiang4 tian1 xin1 bai2 ， qing1 lin2 lu4 zhang3 gao1 。
+- shuang1 tai2 xiang1 zhao4 chu3 ， han2 se4 man3 lan2 pao2 。
 
 ## 注释
 

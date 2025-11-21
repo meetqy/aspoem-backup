@@ -6,21 +6,21 @@ titleSlug: xian-fu
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 樓臺百萬裝成，花木四時羅列。
-- 從渠眼底江山，欠我詩中風月。
+- 人生浮脆若風烟，障簏操籌亦可憐。
+- 但得樽中長有酒，不須身後更留錢。
 
 ## 拼音
 
-- lou2 tai2 bai3 wan4 zhuang1 cheng2 ， hua1 mu4 si4 shi2 luo2 lie4 。
-- cong2 qu2 yan3 di3 jiang1 shan1 ， qian4 wo3 shi1 zhong1 feng1 yue4 。
+- ren2 sheng1 fu2 cui4 ruo4 feng1 yan1 ， zhang4 lu4 cao1 chou2 yi4 ke3 lian2 。
+- dan4 de2 zun1 zhong1 chang2 you3 jiu3 ， bu4 xu1 shen1 hou4 geng4 liu2 qian2 。
 
 ## 注释
 

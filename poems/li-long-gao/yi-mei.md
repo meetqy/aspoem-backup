@@ -1,26 +1,26 @@
 ---
 id: li-long-gao-yi-mei
-title: 驛梅
+title: 憶梅
 titlePinyin: yi4 mei2
 titleSlug: yi-mei
 author: 李龍高
 authorPinyin: li3 long2 gao1
 authorSlug: li-long-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 亭邊老樹影𣰦毿，閲盡犀珠壓去驂。
-- 歲晚行人風雪裏，也須障面過江南。
+- 飄蓬萬里隔風沙，夢到江南未到家。
+- 料得夜深霜月苦，幾人揮淚說梅花。
 
 ## 拼音
 
-- ting2 bian1 lao3 shu4 ying3 𣰦 san1 ， yue4 jin4 xi1 zhu1 ya1 qu4 can1 。
-- sui4 wan3 xing2 ren2 feng1 xue3 li3 ， ye3 xu1 zhang4 mian4 guo4 jiang1 nan2 。
+- piao1 peng2 wan4 li3 ge2 feng1 sha1 ， meng4 dao4 jiang1 nan2 wei4 dao4 jia1 。
+- liao4 de2 ye4 shen1 shuang1 yue4 ku3 ， ji1 ren2 hui1 lei4 shuo1 mei2 hua1 。
 
 ## 注释
 

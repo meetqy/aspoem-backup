@@ -6,10 +6,10 @@ titleSlug: da-peng-shan-tian-bao-bei
 author: 何彥國
 authorPinyin: he2 yan4 guo2
 authorSlug: he-yan-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

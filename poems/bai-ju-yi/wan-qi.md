@@ -9,22 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 臥聽鼕鼕衙鼓聲，起遲睡足長心情。
-- 華簪脫後頭雖白，堆案拋來眼校明。
-- 閑上籃轝乘興出，醉回花舫信風行。
-- 明朝更濯塵纓去，聞道松江水最清。
+- 爛熳朝眠後，頻伸晚起時。
+- 煖爐生火早，寒鏡裹頭遲。
+- 融雪煎香茗，調酥煮乳糜。
+- 慵饞還自哂，快活亦誰知。
+- 酒性溫無毒，琴聲淡不悲。
+- 榮公三樂外，仍弄小男兒。
 
 ## 拼音
 
-- wo4 ting1 dong1 dong1 ya2 gu3 sheng1 ， qi3 chi2 shui4 zu2 chang2 xin1 qing2 。
-- hua2 zan1 tuo1 hou4 tou2 sui1 bai2 ， dui1 an4 pao1 lai2 yan3 xiao4 ming2 。
-- xian2 shang4 lan2 yu2 cheng2 xing1 chu1 ， zui4 hui2 hua1 fang3 xin4 feng1 xing2 。
-- ming2 chao2 geng4 zhuo2 chen2 ying1 qu4 ， wen2 dao4 song1 jiang1 shui3 zui4 qing1 。
+- lan4 man4 chao2 mian2 hou4 ， bin1 shen1 wan3 qi3 shi2 。
+- xuan1 lu2 sheng1 huo3 zao3 ， han2 jing4 guo3 tou2 chi2 。
+- rong2 xue3 jian1 xiang1 ming2 ， diao4 su1 zhu3 ru3 mi2 。
+- yong1 chan2 huan2 zi4 shen3 ， kuai4 huo0 yi4 shui2 zhi1 。
+- jiu3 xing4 wen1 wu2 du2 ， qin2 sheng1 dan4 bu4 bei1 。
+- rong2 gong1 san1 le4 wai4 ， reng2 nong4 xiao3 nan2 er2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: yong-qian-yun
 author: 張綱
 authorPinyin: zhang1 gang1
 authorSlug: zhang-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 愁來莫遣上眉頭，着酒驅除醉即休。
-- 未省一官堪送老，已驚雙鬢不禁秋。
-- 收心香火供清夢，洗眼雲溪結勝遊。
-- 喚取短篷乘晚興，坐看烟浪没輕鷗。
+- 召節煌煌下帝關，君王圖舊起髙年。
+- 露章懇避回天速，拜命歡呼壓地偏。
+- 錫饌宰官侵夜到，問安州牧置郵傳。
+- 辭榮有耀人皆說，誰解清時獨占先。
 
 ## 拼音
 
-- chou2 lai2 mo4 qian3 shang4 mei2 tou2 ， zhe0 jiu3 qu1 chu2 zui4 ji2 xiu1 。
-- wei4 sheng3 yi4 guan1 kan1 song4 lao3 ， yi3 jing1 shuang1 bin4 bu4 jin1 qiu1 。
-- shou1 xin1 xiang1 huo3 gong4 qing1 meng4 ， xi3 yan3 yun2 xi1 jie2 sheng4 you2 。
-- huan4 qu3 duan3 peng2 cheng2 wan3 xing1 ， zuo4 kan4 yan1 lang4 mei2 qing1 ou1 。
+- zhao4 jie2 huang2 huang2 xia4 di4 guan1 ， jun1 wang2 tu2 jiu4 qi3 gao1 nian2 。
+- lu4 zhang1 ken3 bi4 hui2 tian1 su4 ， bai4 ming4 huan1 hu1 ya1 di4 pian1 。
+- xi1 zhuan4 zai3 guan1 qin1 ye4 dao4 ， wen4 an1 zhou1 mu4 zhi4 you2 chuan2 。
+- ci2 rong2 you3 yao4 ren2 jie1 shuo1 ， shui2 jie3 qing1 shi2 du2 zhan4 xian1 。
 
 ## 注释
 

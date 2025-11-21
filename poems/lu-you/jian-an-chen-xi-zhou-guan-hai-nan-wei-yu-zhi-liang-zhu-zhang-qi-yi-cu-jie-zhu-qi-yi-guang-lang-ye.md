@@ -6,10 +6,10 @@ titleSlug: jian-an-chen-xi-zhou-guan-hai-nan-wei-yu-zhi-liang-zhu-zhang-qi-yi-cu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

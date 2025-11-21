@@ -6,25 +6,25 @@ titleSlug: dui-ting-zhi-yu-kou-hao
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 時逢化國日舒長，解慍風來宇宙凉。
-- 飛鷁闓祥瞻北極，頒魚錫宴暨南方。
-- 紛紛人贊元侯德，兩兩星舒使者光。
-- 來歲廣庭班玉筍，斯辰同奉萬年觴。
+- 心傾葵藿斗南邊，秩秩簪紳再就筵。
+- 方伯舉杯均舜酒，外臺連璧頌堯年。
+- 望雲鼇鼇躍三百，指日鵷行官九遷。
+- 祕殿此時同廣宴，宮花深處拜傳宣。
 
 ## 拼音
 
-- shi2 feng2 hua4 guo2 ri4 shu1 chang2 ， jie3 yun4 feng1 lai2 yu3 zhou4 liang2 。
-- fei1 yi4 kai3 xiang2 zhan1 bei3 ji2 ， ban1 yu2 xi1 yan4 ji4 nan2 fang1 。
-- fen1 fen1 ren2 zan4 yuan2 hou2 de2 ， liang3 liang3 xing1 shu1 shi3 zhe3 guang1 。
-- lai2 sui4 guang3 ting2 ban1 yu4 sun3 ， si1 chen2 tong2 feng4 wan4 nian2 shang1 。
+- xin1 qing1 kui2 huo4 dou3 nan2 bian1 ， zhi4 zhi4 zan1 shen1 zai4 jiu4 yan2 。
+- fang1 bo2 ju3 bei1 jun1 shun4 jiu3 ， wai4 tai2 lian2 bi4 song4 yao2 nian2 。
+- wang4 yun2 ao2 ao2 yue4 san1 bai3 ， zhi3 ri4 yuan1 xing2 guan1 jiu3 qian1 。
+- bi4 dian4 ci3 shi2 tong2 guang3 yan4 ， gong1 hua1 shen1 chu3 bai4 chuan2 xuan1 。
 
 ## 注释
 

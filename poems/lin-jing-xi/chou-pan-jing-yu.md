@@ -6,25 +6,25 @@ titleSlug: chou-pan-jing-yu
 author: 林景熙
 authorPinyin: lin2 jing3 xi1
 authorSlug: lin-jing-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 喚起離愁落木聲，抱饑猶自向書耕。
-- 江湖有夢追前事，天地無根笑此生。
-- 歲晏斷鴻羈客影，夜深殘火故人情。
-- 幸來相就分岑寂，閑對梅花酌翠觥。
+- 讀史雙眸夜烱然，一聲江雁落燈前。
+- 馬非汗血材終下，木或青黄性不全。
+- 風月未容詩入務，乾坤應許酒爲年。
+- 寒城日出無窮事，老耳山中獨聽泉。
 
 ## 拼音
 
-- huan4 qi3 li2 chou2 luo4 mu4 sheng1 ， bao4 ji1 you2 zi4 xiang4 shu1 geng1 。
-- jiang1 hu2 you3 meng4 zhui1 qian2 shi4 ， tian1 di4 wu2 gen1 xiao4 ci3 sheng1 。
-- sui4 yan4 duan4 hong2 ji1 ke4 ying3 ， ye4 shen1 can2 huo3 gu4 ren2 qing2 。
-- xing4 lai2 xiang1 jiu4 fen1 cen2 ji4 ， xian2 dui4 mei2 hua1 zhuo2 cui4 gong1 。
+- du2 shi3 shuang1 mou2 ye4 jiong3 ran2 ， yi4 sheng1 jiang1 yan4 luo4 deng1 qian2 。
+- ma3 fei1 han4 xue4 cai2 zhong1 xia4 ， mu4 huo4 qing1 huang2 xing4 bu4 quan2 。
+- feng1 yue4 wei4 rong2 shi1 ru4 wu4 ， qian2 kun1 ying1 xu1 jiu3 wei2 nian2 。
+- han2 cheng2 ri4 chu1 wu2 qiong2 shi4 ， lao3 er3 shan1 zhong1 du2 ting1 quan2 。
 
 ## 注释
 

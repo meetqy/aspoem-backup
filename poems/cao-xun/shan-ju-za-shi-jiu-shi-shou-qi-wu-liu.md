@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前村有經社，香火訊屢通。
-- 携朋閑步往，老人顔有童。
-- 一杯苦澀茗，滿塘蒲稗風。
-- 笑顧紙上佛，何時供渠儂。
+- 隨分作欄檻，松竹带花柳。
+- 四時面面看，百種日日有。
+- 玩目必羣卉，洗心付芳酒。
+- 吾儕不改常，居閒簡可久。
 
 ## 拼音
 
-- qian2 cun1 you3 jing1 she4 ， xiang1 huo3 xun4 lü3 tong1 。
-- xie2 peng2 xian2 bu4 wang3 ， lao3 ren2 yan2 you3 tong2 。
-- yi4 bei1 ku3 se4 ming2 ， man3 tang2 pu2 bai4 feng1 。
-- xiao4 gu4 zhi3 shang4 fo2 ， he2 shi2 gong4 qu2 nong2 。
+- sui2 fen1 zuo4 lan2 jian4 ， song1 zhu2 dai4 hua1 liu3 。
+- si4 shi2 mian4 mian4 kan4 ， bai3 zhong3 ri4 ri4 you3 。
+- wan2 mu4 bi4 qun2 hui4 ， xi3 xin1 fu4 fang1 jiu3 。
+- wu2 chai2 bu4 gai3 chang2 ， ju1 xian2 jian3 ke3 jiu3 。
 
 ## 注释
 

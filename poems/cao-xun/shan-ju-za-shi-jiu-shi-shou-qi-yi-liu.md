@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 七月正流火，晚飯凈剎中。
-- 稍脫蒸鬰苦，頓覺心境空。
-- 放意覽翠岫，徐行迎好風。
-- 得來喜不徹，此賜皆天公。
+- 北歸了無日，先壟掃何時。
+- 愁與燕鴻遠，心同楚客悲。
+- 寒蟬咽敗柳，幽鷺來清池。
+- 誰與話舊事，淚蘚空在衣。
 
 ## 拼音
 
-- qi1 yue4 zheng4 liu2 huo3 ， wan3 fan4 jing4 cha4 zhong1 。
-- shao1 tuo1 zheng1 yu4 ku3 ， dun4 jue2 xin1 jing4 kong1 。
-- fang4 yi4 lan3 cui4 xiu4 ， xu2 hang2 ying2 hao3 feng1 。
-- de2 lai2 xi3 bu2 che4 ， ci3 ci4 jie1 tian1 gong1 。
+- bei3 gui1 le0 wu2 ri4 ， xian1 long3 sao3 he2 shi2 。
+- chou2 yu3 yan4 hong2 yuan3 ， xin1 tong2 chu3 ke4 bei1 。
+- han2 chan2 yan4 bai4 liu3 ， you1 lu4 lai2 qing1 chi2 。
+- shui2 yu3 hua4 jiu4 shi4 ， lei4 xian3 kong1 zai4 yi1 。
 
 ## 注释
 

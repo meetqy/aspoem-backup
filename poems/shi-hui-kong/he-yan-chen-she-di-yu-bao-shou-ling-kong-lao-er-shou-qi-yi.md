@@ -6,9 +6,9 @@ titleSlug: he-yan-chen-she-di-yu-bao-shou-ling-kong-lao-er-shou-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

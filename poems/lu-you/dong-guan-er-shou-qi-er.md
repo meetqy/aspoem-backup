@@ -6,25 +6,21 @@ titleSlug: dong-guan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲蹙魚鱗襯夕陽，放翁繫纜水雲鄉。
-- 一笻疾步人驚健，斗酒高歌自笑狂。
-- 風暖市樓吹絮雪，蠶生村舍采桑黄。
-- 東阡南陌無窮樂，底事隨人作許忙。
+- 烟水蒼茫西復東，扁舟又繫柳陰中。
+- 三更酒醒殘燈在，卧聴蕭蕭雨打篷。
 
 ## 拼音
 
-- yun2 cu4 yu2 lin2 chen4 xi1 yang2 ， fang4 weng1 xi4 lan3 shui3 yun2 xiang1 。
-- yi4 qiong2 ji2 bu4 ren2 jing1 jian4 ， dou4 jiu3 gao1 ge1 zi4 xiao4 kuang2 。
-- feng1 nuan3 shi4 lou2 chui1 xu4 xue3 ， can2 sheng1 cun1 she4 cai3 sang1 huang2 。
-- dong1 qian1 nan2 mo4 wu2 qiong2 le4 ， di3 shi4 sui2 ren2 zuo4 xu1 mang2 。
+- yan1 shui3 cang1 mang2 xi1 fu4 dong1 ， pian1 zhou1 you4 xi4 liu3 yin1 zhong1 。
+- san1 geng1 jiu3 xing3 can2 deng1 zai4 ， wo4 ting1 xiao1 xiao1 yu3 da3 peng2 。
 
 ## 注释
 

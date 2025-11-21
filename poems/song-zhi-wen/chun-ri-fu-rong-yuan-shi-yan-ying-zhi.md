@@ -9,22 +9,22 @@ authorSlug: song-zhi-wen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 芙蓉秦地沼，盧橘漢家園。
-- 谷轉斜盤徑，川迴曲抱原。
-- 風來花自舞，春入鳥能言。
-- 侍宴瑤池夕，歸途笳吹繁。
+- 年光竹裏遍，春色杏間遙。
+- 煙氣籠青閣，流文蕩畫橋。
+- 飛花隨蝶舞，豔曲伴鶯嬌。
+- 今日陪歡豫，還疑陟紫霄。
 
 ## 拼音
 
-- fu2 rong2 qin2 di4 zhao3 ， lu2 ju2 han4 jia1 yuan2 。
-- gu3 zhuan3 xie2 pan2 jing4 ， chuan1 hui2 qu3 bao4 yuan2 。
-- feng1 lai2 hua1 zi4 wu3 ， chun1 ru4 niao3 neng2 yan2 。
-- shi4 yan4 yao2 chi2 xi1 ， gui1 tu2 jia1 chui1 fan2 。
+- nian2 guang1 zhu2 li3 bian4 ， chun1 se4 xing4 jian4 yao2 。
+- yan1 qi4 long2 qing1 ge2 ， liu2 wen2 dang4 hua4 qiao2 。
+- fei1 hua1 sui2 die2 wu3 ， yan4 qu3 ban4 ying1 jiao1 。
+- jin1 ri4 pei2 huan1 yu4 ， huan2 yi2 zhi4 zi3 xiao1 。
 
 ## 注释
 

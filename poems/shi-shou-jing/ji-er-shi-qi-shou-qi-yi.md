@@ -1,26 +1,30 @@
 ---
 id: shi-shou-jing-ji-er-shi-qi-shou-qi-yi
-title: 偈二十七首  其一
-titlePinyin: ji4 er4 shi2 qi1 shou3     qi2 yi1
+title: 偈二十七首  其一○
+titlePinyin: ji4 er4 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: ji-er-shi-qi-shou-qi-yi
 author: 釋守浄
 authorPinyin: shi4 shou3 jing4
 authorSlug: shi-shou-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 定光金地遥招手，智者江陵暗點頭。
-- 已是白雲千萬里，那堪於此未知休。
+- 石門深且幽，好住不肯住。
+- 翻身入城隍，却向鬧市去。
+- 鬧浩浩處冷湫湫，冷湫湫處看楊州。
+- 四五百條花柳巷，二三千處管絃樓。
 
 ## 拼音
 
-- ding4 guang1 jin1 di4 yao2 zhao1 shou3 ， zhi4 zhe3 jiang1 ling2 an4 dian3 tou2 。
-- yi3 shi4 bai2 yun2 qian1 wan4 li3 ， na4 kan1 wu1 ci3 wei4 zhi1 xiu1 。
+- shi2 men2 shen1 qie3 you1 ， hao3 zhu4 bu4 ken3 zhu4 。
+- fan1 shen1 ru4 cheng2 huang2 ， que4 xiang4 nao4 shi4 qu4 。
+- nao4 hao4 hao4 chu3 leng3 qiu1 qiu1 ， leng3 qiu1 qiu1 chu3 kan4 yang2 zhou1 。
+- si4 wu3 bai3 tiao2 hua1 liu3 xiang4 ， er4 san1 qian1 chu3 guan3 xian2 lou2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-tai-yue-yuan-bi
 author: 林焞
 authorPinyin: lin2 tun1
 authorSlug: lin-tun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

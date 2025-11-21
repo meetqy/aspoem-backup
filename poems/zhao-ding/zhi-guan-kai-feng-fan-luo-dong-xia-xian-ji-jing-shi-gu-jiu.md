@@ -6,10 +6,10 @@ titleSlug: zhi-guan-kai-feng-fan-luo-dong-xia-xian-ji-jing-shi-gu-jiu
 author: 趙鼎
 authorPinyin: zhao4 ding3
 authorSlug: zhao-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

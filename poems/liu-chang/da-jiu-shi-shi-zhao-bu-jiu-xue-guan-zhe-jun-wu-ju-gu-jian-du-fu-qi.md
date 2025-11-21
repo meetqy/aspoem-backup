@@ -6,10 +6,10 @@ titleSlug: da-jiu-shi-shi-zhao-bu-jiu-xue-guan-zhe-jun-wu-ju-gu-jian-du-fu-qi
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

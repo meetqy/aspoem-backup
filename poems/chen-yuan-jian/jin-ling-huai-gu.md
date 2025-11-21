@@ -6,10 +6,10 @@ titleSlug: jin-ling-huai-gu
 author: 陳元鑑
 authorPinyin: chen2 yuan2 jian4
 authorSlug: chen-yuan-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

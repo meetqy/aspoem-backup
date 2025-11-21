@@ -6,9 +6,9 @@ titleSlug: shi-yi-yue-shi-jiu-ri-yu-zhong-you-da-nian-chuo-zhong-mei-zhong-yin-w
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

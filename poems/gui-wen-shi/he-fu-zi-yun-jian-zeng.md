@@ -6,10 +6,10 @@ titleSlug: he-fu-zi-yun-jian-zeng
 author: 桂聞詩
 authorPinyin: gui4 wen2 shi1
 authorSlug: gui-wen-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

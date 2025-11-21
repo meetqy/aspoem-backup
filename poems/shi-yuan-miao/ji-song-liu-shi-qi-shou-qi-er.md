@@ -1,30 +1,28 @@
 ---
 id: shi-yuan-miao-ji-song-liu-shi-qi-shou-qi-er
-title: 偈頌六十七首  其二
-titlePinyin: ji4 song4 liu4 shi2 qi1 shou3     qi2 er4
+title: 偈頌六十七首  其二○
+titlePinyin: ji4 song4 liu4 shi2 qi1 shou3     qi2 er4 ○
 titleSlug: ji-song-liu-shi-qi-shou-qi-er
 author: 釋原妙
 authorPinyin: shi4 yuan2 miao4
 authorSlug: shi-yuan-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有一物，明歷歷。
-- 佛祖覷不破，大地無人識。
-- 常在舌頭尖，盡力吐不出。
-- 吐得出，也是胡餠裏呷汁。
+- 禪不在參，道不須悟。
+- 動轉施爲，山嶽鼓舞。
+- 孟八郎漢便恁麽去，爭似西峰搬石運土。
 
 ## 拼音
 
-- you3 yi2 wu4 ， ming2 li4 li4 。
-- fo2 zu3 qu4 bu2 po4 ， da4 di4 wu2 ren2 shi2 。
-- chang2 zai4 she2 tou2 jian1 ， jin4 li4 tu3 bu4 chu1 。
-- tu3 de2 chu1 ， ye3 shi4 hu2 bing3 li3 xia1 zhi1 。
+- shan4 bu2 zai4 can1 ， dao4 bu4 xu1 wu4 。
+- dong4 zhuan3 shi1 wei2 ， shan1 yue4 gu3 wu3 。
+- meng4 ba1 lang2 han4 bian4 nen4 mo2 qu4 ， zheng1 si4 xi1 feng1 ban1 shi2 yun4 tu3 。
 
 ## 注释
 

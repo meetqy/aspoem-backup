@@ -6,10 +6,10 @@ titleSlug: diao-tai
 author: 范師道
 authorPinyin: fan4 shi1 dao4
 authorSlug: fan-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

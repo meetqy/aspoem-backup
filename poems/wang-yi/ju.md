@@ -3,22 +3,22 @@ id: wang-yi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王益
+author: 王逸
 authorPinyin: wang2 yi4
 authorSlug: wang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 不逢星漢使，誰識是靈槎。
+- 他年館閣同遊處，榮路方蹤繼二孫。
 
 ## 拼音
 
-- bu4 feng2 xing1 han4 shi3 ， shui2 shi2 shi4 ling2 cha2 。
+- ta1 nian2 guan3 ge2 tong2 you2 chu3 ， rong2 lu4 fang1 zong1 ji4 er4 sun1 。
 
 ## 注释
 

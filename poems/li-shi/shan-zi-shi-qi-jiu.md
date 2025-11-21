@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-jiu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 積雨莓苔色，秋風松桂林。
-- 莫隨蓬鬢改，黄落見真心。
+- 黄葉鳴林捲地風，一天秋色鴈橫空。
+- 風狂吹作欹斜字，似我遥書咄咄中。
 
 ## 拼音
 
-- ji1 yu3 mei2 tai2 se4 ， qiu1 feng1 song1 gui4 lin2 。
-- mo4 sui2 peng2 bin4 gai3 ， huang2 luo4 jian4 zhen1 xin1 。
+- huang2 ye4 ming2 lin2 juan3 di4 feng1 ， yi4 tian1 qiu1 se4 yan4 heng2 kong1 。
+- feng1 kuang2 chui1 zuo4 qi1 xie2 zi4 ， si4 wo3 yao2 shu1 duo1 duo1 zhong1 。
 
 ## 注释
 

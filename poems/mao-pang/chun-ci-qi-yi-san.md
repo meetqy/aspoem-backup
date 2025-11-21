@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-san
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 粉壁椒花馥，瑤釵彩燕翩。
-- 東風呼唤得，隨意作春妍。
+- 御溝梅柳寒猶噤，芳草池塘暖尚微。
+- 玉色怡融何事喜，一年苔綠遍圜扉。
 
 ## 拼音
 
-- fen3 bi4 jiao1 hua1 fu4 ， yao2 chai1 cai3 yan4 pian1 。
-- dong1 feng1 hu1 huan4 de2 ， sui2 yi4 zuo4 chun1 yan2 。
+- yu4 gou1 mei2 liu3 han2 you2 jin4 ， fang1 cao3 chi2 tang2 nuan3 shang4 wei1 。
+- yu4 se4 yi2 rong2 he2 shi4 xi3 ， yi4 nian2 tai2 lü4 bian4 huan2 fei1 。
 
 ## 注释
 

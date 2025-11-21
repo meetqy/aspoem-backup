@@ -6,25 +6,25 @@ titleSlug: you-qi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰謂幽棲陋，茅茨足庇床。
-- 雨便梧葉大，風度楝花香。
-- 浴佛兒童喜，繅絲婦女忙。
-- 朅來三十載，吾鬢固宜霜。
+- 自卜幽棲地，頻驚歲月移。
+- 鄉鄰崇禮讓，子弟習書詩。
+- 喔喔雞鳴樹，狺狺犬吠籬。
+- 謀生已過足，富貴亦何爲。
 
 ## 拼音
 
-- shui2 wei4 you1 qi1 lou4 ， mao2 ci2 zu2 bi4 chuang2 。
-- yu3 bian4 wu2 ye4 da4 ， feng1 du4 lian4 hua1 xiang1 。
-- yu4 fo2 er2 tong2 xi3 ， sao1 si1 fu4 nü3 mang2 。
-- qie4 lai2 san1 shi2 zai4 ， wu2 bin4 gu4 yi2 shuang1 。
+- zi4 bu3 you1 qi1 di4 ， bin1 jing1 sui4 yue4 yi2 。
+- xiang1 lin2 chong2 li3 rang4 ， zi3 di4 xi2 shu1 shi1 。
+- wo1 wo1 ji1 ming2 shu4 ， yin2 yin2 quan3 fei4 li2 。
+- mou2 sheng1 yi3 guo4 zu2 ， fu4 gui4 yi4 he2 wei2 。
 
 ## 注释
 

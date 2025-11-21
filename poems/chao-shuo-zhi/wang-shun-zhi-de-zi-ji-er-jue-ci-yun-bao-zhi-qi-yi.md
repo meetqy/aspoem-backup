@@ -6,10 +6,10 @@ titleSlug: wang-shun-zhi-de-zi-ji-er-jue-ci-yun-bao-zhi-qi-yi
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: han-shi-zhi-yu
 author: 梁顥
 authorPinyin: liang2 hao4
 authorSlug: liang-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

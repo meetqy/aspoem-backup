@@ -6,10 +6,10 @@ titleSlug: gong-he-jia-da-ren-jiang-fu-ji-di-guan-she-shu-shi-ji-men-zhi-zuo-qi-
 author: 孫應符
 authorPinyin: sun1 ying1 fu2
 authorSlug: sun-ying-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

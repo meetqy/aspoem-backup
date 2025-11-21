@@ -6,10 +6,10 @@ titleSlug: yu-qing-huan-zi-hai-wai-xia-jun-fu-yi-xiang-yang-bie-ye-jian-yao-shi-
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

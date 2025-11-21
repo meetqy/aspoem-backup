@@ -6,25 +6,25 @@ titleSlug: wan-song-ting-you-gan
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 微雨濕青松，松間多好風。
-- 翠光濃欲滴，對舞千蛟龍。
-- 可惜青玉釵，道邊委蒿蓬。
-- 幽人不汝棄，應有綠毛翁。
+- 犖确山行穿翠微，石雲秋露濕秋衣。
+- 朦朧小睡還成夢，諷詠新詩且療饑。
+- 千里歸來人事改，四年辛苦舊容非。
+- 祇應亭下青雲蓋，依舊蒼腰聳十圍。
 
 ## 拼音
 
-- wei1 yu3 shi1 qing1 song1 ， song1 jian4 duo1 hao3 feng1 。
-- cui4 guang1 nong2 yu4 di1 ， dui4 wu3 qian1 jiao1 long2 。
-- ke3 xi1 qing1 yu4 chai1 ， dao4 bian1 wei3 hao1 peng2 。
-- you1 ren2 bu4 ru3 qi4 ， ying1 you3 lü4 mao2 weng1 。
+- luo4 que4 shan1 xing2 chuan1 cui4 wei1 ， shi2 yun2 qiu1 lu4 shi1 qiu1 yi1 。
+- meng2 long2 xiao3 shui4 huan2 cheng2 meng4 ， feng3 yong3 xin1 shi1 qie3 liao2 ji1 。
+- qian1 li3 gui1 lai2 ren2 shi4 gai3 ， si4 nian2 xin1 ku3 jiu4 rong2 fei1 。
+- qi2 ying1 ting2 xia4 qing1 yun2 gai4 ， yi1 jiu4 cang1 yao1 song3 shi2 wei2 。
 
 ## 注释
 

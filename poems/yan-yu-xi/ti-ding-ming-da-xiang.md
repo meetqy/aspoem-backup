@@ -6,10 +6,10 @@ titleSlug: ti-ding-ming-da-xiang
 author: 閻禹錫
 authorPinyin: yan2 yu3 xi1
 authorSlug: yan-yu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

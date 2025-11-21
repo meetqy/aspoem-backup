@@ -6,10 +6,10 @@ titleSlug: yun-ju-huan-zhi-han-huai-jiu-you-ji-yang-wen-zhong-er-shou-qi-yi
 author: 王阮
 authorPinyin: wang2 ruan3
 authorSlug: wang-ruan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

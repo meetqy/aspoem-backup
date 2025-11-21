@@ -6,10 +6,10 @@ titleSlug: ji-yao-fu-san-shou-qi-er
 author: 呂誨
 authorPinyin: lü3 hui4
 authorSlug: lu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-nan-tang-yi-lin-dan-yan-gu-feng-shi-dan-yan-guan-jiao-wai
 author: 衛宗武
 authorPinyin: wei4 zong1 wu3
 authorSlug: wei-zong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

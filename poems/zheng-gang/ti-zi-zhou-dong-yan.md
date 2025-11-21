@@ -6,9 +6,9 @@ titleSlug: ti-zi-zhou-dong-yan
 author: 鄭鋼
 authorPinyin: zheng4 gang1
 authorSlug: zheng-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

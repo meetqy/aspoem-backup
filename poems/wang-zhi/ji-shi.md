@@ -3,24 +3,24 @@ id: wang-zhi-ji-shi
 title: 即事
 titlePinyin: ji2 shi4
 titleSlug: ji-shi
-author: 王銍
+author: 王致
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 住依溪口破殘村，身伴渡頭零落雲。
-- 更向空山拾黄葉，姓名那有世人聞。
+- 谷暗隨呼應，禽春不速來。
+- 幽居逢令序，跬步且徘徊。
 
 ## 拼音
 
-- zhu4 yi1 xi1 kou3 po4 can2 cun1 ， shen1 ban4 du4 tou2 ling2 luo4 yun2 。
-- geng4 xiang4 kong1 shan1 shi2 huang2 ye4 ， xing4 ming2 na4 you3 shi4 ren2 wen2 。
+- gu3 an4 sui2 hu1 ying1 ， qin2 chun1 bu2 su4 lai2 。
+- you1 ju1 feng2 ling4 xu4 ， kui3 bu4 qie3 pai2 huai2 。
 
 ## 注释
 

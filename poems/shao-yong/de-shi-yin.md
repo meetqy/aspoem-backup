@@ -6,21 +6,21 @@ titleSlug: de-shi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人有賢愚，事無巨細。
-- 得不艱難，失必容易。
+- 時難得而易失，心雖悔而何追。
+- 不知老之已至，不知志與願違。
 
 ## 拼音
 
-- ren2 you3 xian2 yu2 ， shi4 wu2 ju4 xi4 。
-- de2 bu4 jian1 nan2 ， shi1 bi4 rong2 yi4 。
+- shi2 nan2 de2 er2 yi4 shi1 ， xin1 sui1 hui3 er2 he2 zhui1 。
+- bu4 zhi1 lao3 zhi1 yi3 zhi4 ， bu4 zhi1 zhi4 yu3 yuan4 wei2 。
 
 ## 注释
 

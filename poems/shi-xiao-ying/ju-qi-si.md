@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 不到茲亭久。
+- 是身多落寞。
 
 ## 拼音
 
-- bu2 dao4 zi1 ting2 jiu3 。
+- shi4 shen1 duo1 luo4 mo4 。
 
 ## 注释
 

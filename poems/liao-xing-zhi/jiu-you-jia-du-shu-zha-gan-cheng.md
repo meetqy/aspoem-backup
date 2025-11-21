@@ -6,10 +6,10 @@ titleSlug: jiu-you-jia-du-shu-zha-gan-cheng
 author: 廖行之
 authorPinyin: liao4 xing2 zhi1
 authorSlug: liao-xing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

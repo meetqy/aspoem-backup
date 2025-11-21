@@ -6,10 +6,10 @@ titleSlug: ti-wu-yi
 author: 馬合麻
 authorPinyin: ma3 he2 ma2
 authorSlug: ma-he-ma
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 張斗南
 authorPinyin: zhang1 dou3 nan2
 authorSlug: zhang-dou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

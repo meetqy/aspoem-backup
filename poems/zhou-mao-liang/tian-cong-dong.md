@@ -6,10 +6,10 @@ titleSlug: tian-cong-dong
 author: 周茂良
 authorPinyin: zhou1 mao4 liang2
 authorSlug: zhou-mao-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

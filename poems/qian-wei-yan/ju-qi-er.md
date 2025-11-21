@@ -1,24 +1,24 @@
 ---
 id: qian-wei-yan-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 錢惟演
 authorPinyin: qian2 wei2 yan3
 authorSlug: qian-wei-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 正好睡時行十里，不交談處飲三杯。
+- 綠野桑麻連四水，黄堂歌吹擁千兵。
 
 ## 拼音
 
-- zheng4 hao3 shui4 shi2 xing2 shi2 li3 ， bu4 jiao1 tan2 chu3 yin3 san1 bei1 。
+- lü4 ye3 sang1 ma2 lian2 si4 shui3 ， huang2 tang2 ge1 chui1 yong1 qian1 bing1 。
 
 ## 注释
 

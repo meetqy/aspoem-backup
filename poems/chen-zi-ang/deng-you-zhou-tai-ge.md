@@ -6,10 +6,10 @@ titleSlug: deng-you-zhou-tai-ge
 author: 陳子昂
 authorPinyin: chen2 zi3 ang2
 authorSlug: chen-zi-ang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

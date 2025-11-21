@@ -6,10 +6,10 @@ titleSlug: ge
 author: 裴道人
 authorPinyin: pei2 dao4 ren2
 authorSlug: pei-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

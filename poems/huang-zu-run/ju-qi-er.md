@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 黄祖潤
 authorPinyin: huang2 zu3 run4
 authorSlug: huang-zu-run
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

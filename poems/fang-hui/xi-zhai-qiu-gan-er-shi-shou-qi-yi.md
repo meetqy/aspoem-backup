@@ -1,38 +1,38 @@
 ---
 id: fang-hui-xi-zhai-qiu-gan-er-shi-shou-qi-yi
-title: 西齋秋感二十首  其一
-titlePinyin: xi1 zhai1 qiu1 gan3 er4 shi2 shou3     qi2 yi1
+title: 西齋秋感二十首  其一○
+titlePinyin: xi1 zhai1 qiu1 gan3 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: xi-zhai-qiu-gan-er-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少年妄有意，與世扶危顛。
-- 神遊渺八極，詎嘗□□□。
-- □□覆天地，鼎沸同熬煎。
-- 勺水空自揚，偶茲微命完。
-- 貪夫遂□欲，得所恬以安。
-- 君子抱古見，十事十不然。
-- 觀人眼難開，不如返自觀。
-- 此心既已了，口亦何必言。
+- 聽雨勝觀雨，觀雨須高樓。
+- 細雨或終日，高樓令人愁。
+- 不如空齋夜，聽雨詩思幽。
+- 雨作樹聲洶，萬葉鳴颼飀。
+- 雨止簷聲絕，忽續一滴秋。
+- 此時佳句來，自得不待求。
+- 暮年識此味，□廬真宜休。
+- 何如大醉眠，紅日生床頭。
 
 ## 拼音
 
-- shao4 nian2 wang4 you3 yi4 ， yu3 shi4 fu2 wei1 dian1 。
-- shen2 you2 miao3 ba1 ji2 ， ju4 chang2 □□□。
-- □□ fu4 tian1 di4 ， ding3 fei4 tong2 ao2 jian1 。
-- shao2 shui3 kong1 zi4 yang2 ， ou3 zi1 wei1 ming4 wan2 。
-- tan1 fu1 sui4 □ yu4 ， de2 suo3 tian2 yi3 an1 。
-- jun1 zi3 bao4 gu3 jian4 ， shi2 shi4 shi2 bu4 ran2 。
-- guan1 ren2 yan3 nan2 kai1 ， bu4 ru2 fan3 zi4 guan1 。
-- ci3 xin1 ji4 yi3 le0 ， kou3 yi4 he2 bi4 yan2 。
+- ting1 yu3 sheng4 guan1 yu3 ， guan1 yu3 xu1 gao1 lou2 。
+- xi4 yu3 huo4 zhong1 ri4 ， gao1 lou2 ling4 ren2 chou2 。
+- bu4 ru2 kong1 zhai1 ye4 ， ting1 yu3 shi1 si1 you1 。
+- yu3 zuo4 shu4 sheng1 xiong1 ， wan4 ye4 ming2 sou1 liu2 。
+- yu3 zhi3 yan2 sheng1 jue2 ， hu1 xu4 yi4 di1 qiu1 。
+- ci3 shi2 jia1 ju4 lai2 ， zi4 de2 bu2 dai4 qiu2 。
+- mu4 nian2 shi2 ci3 wei4 ，□ lu2 zhen1 yi2 xiu1 。
+- he2 ru2 da4 zui4 mian2 ， hong2 ri4 sheng1 chuang2 tou2 。
 
 ## 注释
 

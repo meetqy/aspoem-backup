@@ -6,10 +6,10 @@ titleSlug: ju
 author: 韓履常
 authorPinyin: han2 lü3 chang2
 authorSlug: han-lu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

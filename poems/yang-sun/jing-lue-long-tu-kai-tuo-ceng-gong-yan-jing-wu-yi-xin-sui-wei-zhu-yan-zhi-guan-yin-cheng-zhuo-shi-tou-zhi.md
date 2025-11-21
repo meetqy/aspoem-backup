@@ -6,9 +6,9 @@ titleSlug: jing-lue-long-tu-kai-tuo-ceng-gong-yan-jing-wu-yi-xin-sui-wei-zhu-yan
 author: 楊損
 authorPinyin: yang2 sun3
 authorSlug: yang-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

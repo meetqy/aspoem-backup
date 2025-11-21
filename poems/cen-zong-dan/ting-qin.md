@@ -6,10 +6,10 @@ titleSlug: ting-qin
 author: 岑宗旦
 authorPinyin: cen2 zong1 dan4
 authorSlug: cen-zong-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

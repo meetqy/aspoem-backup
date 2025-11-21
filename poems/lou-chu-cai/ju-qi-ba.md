@@ -6,10 +6,10 @@ titleSlug: ju-qi-ba
 author: 樓楚材
 authorPinyin: lou2 chu3 cai2
 authorSlug: lou-chu-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

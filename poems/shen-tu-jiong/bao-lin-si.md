@@ -6,10 +6,10 @@ titleSlug: bao-lin-si
 author: 申屠炯
 authorPinyin: shen1 tu2 jiong3
 authorSlug: shen-tu-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

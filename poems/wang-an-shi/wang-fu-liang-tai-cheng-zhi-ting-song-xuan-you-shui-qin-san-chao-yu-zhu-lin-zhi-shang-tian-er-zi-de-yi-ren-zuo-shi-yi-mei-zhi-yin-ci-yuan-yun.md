@@ -6,10 +6,10 @@ titleSlug: wang-fu-liang-tai-cheng-zhi-ting-song-xuan-you-shui-qin-san-chao-yu-z
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

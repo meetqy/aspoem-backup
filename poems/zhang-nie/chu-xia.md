@@ -1,32 +1,26 @@
 ---
 id: zhang-nie-chu-xia
-title: 初夏
-titlePinyin: chu1 xia4
+title: 出峡
+titlePinyin: chu1 xia2
 titleSlug: chu-xia
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 孟夏忽已至，雨餘草木荒。
-- 俯澗有驚泉，仰林無遺芳。
-- 山中歲事晚，是日農始忙。
-- 布穀鳴遠林，田家競農桑。
-- 故園今何爲，默默心獨傷。
+- 牽舟已出峡，何旦復當還。
+- 蒲溪應漸近，已見宋平山。
 
 ## 拼音
 
-- meng4 xia4 hu1 yi3 zhi4 ， yu3 yu2 cao3 mu4 huang1 。
-- fu3 jian4 you3 jing1 quan2 ， yang3 lin2 wu2 yi2 fang1 。
-- shan1 zhong1 sui4 shi4 wan3 ， shi4 ri4 nong2 shi3 mang2 。
-- bu4 gu3 ming2 yuan3 lin2 ， tian2 jia1 jing4 nong2 sang1 。
-- gu4 yuan2 jin1 he2 wei2 ， mo4 mo4 xin1 du2 shang1 。
+- qian1 zhou1 yi3 chu1 xia2 ， he2 dan4 fu4 dang1 huan2 。
+- pu2 xi1 ying1 jian4 jin4 ， yi3 jian4 song4 ping2 shan1 。
 
 ## 注释
 

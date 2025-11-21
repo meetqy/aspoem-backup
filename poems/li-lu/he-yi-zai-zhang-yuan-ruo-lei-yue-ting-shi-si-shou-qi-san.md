@@ -6,10 +6,10 @@ titleSlug: he-yi-zai-zhang-yuan-ruo-lei-yue-ting-shi-si-shou-qi-san
 author: 李呂
 authorPinyin: li3 lü3
 authorSlug: li-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

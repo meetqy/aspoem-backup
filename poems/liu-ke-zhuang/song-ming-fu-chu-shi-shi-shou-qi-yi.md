@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-song-ming-fu-chu-shi-shi-shou-qi-yi
-title: 送明甫初筮十首  其一
-titlePinyin: song4 ming2 fu3 chu1 shi4 shi2 shou3     qi2 yi1
+title: 送明甫初筮十首  其一○
+titlePinyin: song4 ming2 fu3 chu1 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: song-ming-fu-chu-shi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三間參佐廨，昔也處先公。
-- 矮屋兒無歎，翁生矮屋中。
+- 汝幼不努力，忽爲三十餘。
+- 勉旃教汝子，要付善和書。
 
 ## 拼音
 
-- san1 jian4 can1 zuo3 xie4 ， xi1 ye3 chu3 xian1 gong1 。
-- ai3 wu1 er2 wu2 tan4 ， weng1 sheng1 ai3 wu1 zhong1 。
+- ru3 you4 bu4 nu3 li4 ， hu1 wei2 san1 shi2 yu2 。
+- mian3 zhan1 jiao4 ru3 zi3 ， yao4 fu4 shan4 he2 shu1 。
 
 ## 注释
 

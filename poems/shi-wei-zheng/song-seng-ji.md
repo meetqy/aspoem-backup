@@ -6,10 +6,10 @@ titleSlug: song-seng-ji
 author: 釋惟政
 authorPinyin: shi4 wei2 zheng4
 authorSlug: shi-wei-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

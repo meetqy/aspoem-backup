@@ -1,28 +1,30 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-yi-shi-qi-shou-qi-san
-title: 偈頌一百一十七首  其三
-titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 san1
+title: 偈頌一百一十七首  其三○
+titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 san1 ○
 titleSlug: ji-song-yi-bai-yi-shi-qi-shou-qi-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十二瑞峰前，一火白拈賊。
-- 佛面夜叉心，是何等相識。
-- 燒香供養，使自知非，剪月初無陷虎機。
+- 書載五雲，綉添一線。
+- 剝盡羣陰，天心復見。
+- 惟有龜毛拂，今古無遷變。
+- 松根石上笑談空，切忌隨他語脈轉。
 
 ## 拼音
 
-- shi2 er4 rui4 feng1 qian2 ， yi4 huo3 bai2 nian1 zei2 。
-- fo2 mian4 ye4 cha1 xin1 ， shi4 he2 deng3 xiang1 shi2 。
-- shao1 xiang1 gong4 yang3 ， shi3 zi4 zhi1 fei1 ， jian3 yue4 chu1 wu2 xian4 hu3 ji1 。
+- shu1 zai4 wu3 yun2 ， xiu4 tian1 yi2 xian4 。
+- bao1 jin4 qun2 yin1 ， tian1 xin1 fu4 jian4 。
+- wei2 you3 gui1 mao2 fu2 ， jin1 gu3 wu2 qian1 bian4 。
+- song1 gen1 shi2 shang4 xiao4 tan2 kong1 ， qie4 ji4 sui2 ta1 yu3 mai4 zhuan3 。
 
 ## 注释
 

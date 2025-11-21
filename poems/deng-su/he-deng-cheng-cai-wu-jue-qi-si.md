@@ -6,9 +6,9 @@ titleSlug: he-deng-cheng-cai-wu-jue-qi-si
 author: 鄧肅
 authorPinyin: deng4 su4
 authorSlug: deng-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

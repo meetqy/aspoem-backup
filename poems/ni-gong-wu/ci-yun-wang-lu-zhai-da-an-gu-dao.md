@@ -6,10 +6,10 @@ titleSlug: ci-yun-wang-lu-zhai-da-an-gu-dao
 author: 倪公武
 authorPinyin: ni2 gong1 wu3
 authorSlug: ni-gong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

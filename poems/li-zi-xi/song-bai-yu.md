@@ -6,10 +6,10 @@ titleSlug: song-bai-yu
 author: 李子西
 authorPinyin: li3 zi0 xi1
 authorSlug: li-zi-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

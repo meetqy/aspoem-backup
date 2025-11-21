@@ -6,25 +6,21 @@ titleSlug: zi-jing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出仕每辭榮，歸休但力耕。
-- 儉勤貧亦足，戒懼禍終輕。
-- 學自不欺始，智由無事行。
-- 書紳及銘座，勉勉盡吾生。
+- 惡石從來豈汝仇，安居無患却堪憂。
+- 不須更守庚申夜，留取三彭儆惰偷。
 
 ## 拼音
 
-- chu1 shi4 mei3 ci2 rong2 ， gui1 xiu1 dan4 li4 geng1 。
-- jian3 qin2 pin2 yi4 zu2 ， jie4 ju4 huo4 zhong1 qing1 。
-- xue2 zi4 bu4 qi1 shi3 ， zhi4 you2 wu2 shi4 xing2 。
-- shu1 shen1 ji2 ming2 zuo4 ， mian3 mian3 jin4 wu2 sheng1 。
+- e4 shi2 cong2 lai2 qi3 ru3 chou2 ， an1 ju1 wu2 huan4 que4 kan1 you1 。
+- bu4 xu1 geng4 shou3 geng1 shen1 ye4 ， liu2 qu3 san1 peng2 jing3 duo4 tou1 。
 
 ## 注释
 

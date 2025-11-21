@@ -6,10 +6,10 @@ titleSlug: he-pan-liang-gui-ti-ming-zhou-san-jiang-ting-yun
 author: 陳栖筠
 authorPinyin: chen2 qi1 yun2
 authorSlug: chen-qi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

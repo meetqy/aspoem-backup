@@ -6,25 +6,21 @@ titleSlug: zai-ci-yun-qi-yi
 author: 陳棣
 authorPinyin: chen2 di4
 authorSlug: chen-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小圃香初足，枯池水乍通。
-- 捲簾延舊燕，掃徑襯飛紅。
-- 寂寂梨花雨，斜斜柳带風。
-- 東君有餘思，別在一壺中。
+- 翠葆低籠衣縷金，惱人風味在秋深。
+- 不緣月窟移仙種，安得塵寰有桂林。
 
 ## 拼音
 
-- xiao3 pu3 xiang1 chu1 zu2 ， ku1 chi2 shui3 zha4 tong1 。
-- juan3 lian2 yan2 jiu4 yan4 ， sao3 jing4 chen4 fei1 hong2 。
-- ji4 ji4 li2 hua1 yu3 ， xie2 xie2 liu3 dai4 feng1 。
-- dong1 jun1 you3 yu2 si1 ， bie2 zai4 yi4 hu2 zhong1 。
+- cui4 bao3 di1 long2 yi1 lü3 jin1 ， nao3 ren2 feng1 wei4 zai4 qiu1 shen1 。
+- bu4 yuan2 yue4 ku1 yi2 xian1 zhong3 ， an1 de2 chen2 huan2 you3 gui4 lin2 。
 
 ## 注释
 

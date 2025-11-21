@@ -9,18 +9,22 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 振鷺翔鸞集禁闈，玉堂珠樹瑩風儀。
-- 不知新到靈和殿，張緒何如柳一枝。
+- 玉簡金文直上清，禁垣丹地閉嚴扃。
+- 黃扉議政參元化，紫殿稱觴拂壽星。
+- 萬戶千門迷步武，非煙非霧隔儀形。
+- 塵中舊侶無音信，知道遼東鶴姓丁。
 
 ## 拼音
 
-- zhen4 lu4 xiang2 luan2 ji2 jin4 wei2 ， yu4 tang2 zhu1 shu4 ying2 feng1 yi2 。
-- bu4 zhi1 xin1 dao4 ling2 he2 dian4 ， zhang1 xu4 he2 ru2 liu3 yi4 zhi1 。
+- yu4 jian3 jin1 wen2 zhi2 shang4 qing1 ， jin4 yuan2 dan1 di4 bi4 yan2 jiong1 。
+- huang2 fei1 yi4 zheng4 can1 yuan2 hua4 ， zi3 dian4 cheng1 shang1 fu2 shou4 xing1 。
+- wan4 hu4 qian1 men2 mi2 bu4 wu3 ， fei1 yan1 fei1 wu4 ge2 yi2 xing2 。
+- chen2 zhong1 jiu4 lü3 wu2 yin1 xin4 ， zhi1 dao4 liao2 dong1 he4 xing4 ding1 。
 
 ## 注释
 

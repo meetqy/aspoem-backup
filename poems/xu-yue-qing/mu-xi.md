@@ -6,25 +6,25 @@ titleSlug: mu-xi
 author: 許月卿
 authorPinyin: xu1 yue4 qing1
 authorSlug: xu-yue-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩到黄初上，高標不肯唐。
-- 分封在香國，筮仕得黄裳。
-- 錦晝纍金印，瑶英案玉皇。
-- 黄香天下士，誰得並清芳。
+- 桂犀明辨不雷同，長憶先師品藻公。
+- 風到如開香積國，月明疑在廣寒宮。
+- 含香結佩風宜月，纍印懷香月稱風。
+- 酒裏典刑幸猶在，先師醖藉孔林叢。
 
 ## 拼音
 
-- shi1 dao4 huang2 chu1 shang4 ， gao1 biao1 bu4 ken3 tang2 。
-- fen1 feng1 zai4 xiang1 guo2 ， shi4 shi4 de2 huang2 shang0 。
-- jin3 zhou4 lei2 jin1 yin4 ， yao2 ying1 an4 yu4 huang2 。
-- huang2 xiang1 tian1 xia4 shi4 ， shui2 de2 bing4 qing1 fang1 。
+- gui4 xi1 ming2 bian4 bu4 lei2 tong2 ， chang2 yi4 xian1 shi1 pin3 zao3 gong1 。
+- feng1 dao4 ru2 kai1 xiang1 ji1 guo2 ， yue4 ming2 yi2 zai4 guang3 han2 gong1 。
+- han2 xiang1 jie2 pei4 feng1 yi2 yue4 ， lei2 yin4 huai2 xiang1 yue4 cheng1 feng1 。
+- jiu3 li3 dian3 xing2 xing4 you2 zai4 ， xian1 shi1 yun4 jie4 kong3 lin2 cong2 。
 
 ## 注释
 

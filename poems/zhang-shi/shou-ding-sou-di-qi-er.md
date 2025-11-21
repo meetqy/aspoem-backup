@@ -6,21 +6,21 @@ titleSlug: shou-ding-sou-di-qi-er
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堂堂自昔源流遠，衮衮方來事業長。
-- 駟馬安車遵大道，正須緩轡不須忙。
+- 聞說嚴人愛貳車，呻吟赴愬頼携扶。
+- 從今充擴應無倦，千里疲民待子蘇。
 
 ## 拼音
 
-- tang2 tang2 zi4 xi1 yuan2 liu2 yuan3 ， gun3 gun3 fang1 lai2 shi4 ye4 chang2 。
-- si4 ma3 an1 ju1 zun1 da4 dao4 ， zheng4 xu1 huan3 pei4 bu4 xu1 mang2 。
+- wen2 shuo1 yan2 ren2 ai4 er4 ju1 ， shen1 yin2 fu4 shuo4 lai4 xie2 fu2 。
+- cong2 jin1 chong1 kuo4 ying1 wu2 juan4 ， qian1 li3 pi2 min2 dai4 zi3 su1 。
 
 ## 注释
 

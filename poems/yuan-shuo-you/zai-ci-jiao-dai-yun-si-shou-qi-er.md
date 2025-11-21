@@ -6,21 +6,21 @@ titleSlug: zai-ci-jiao-dai-yun-si-shou-qi-er
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔夸石廩祝融堆，驟見人家畫軸開。
-- 坐挹高寒吾願足，此行似爲此山來。
+- 今朝著我簿書堆，領客樽罍未辦開。
+- 始信南山是知己，露奇呈秀斬關來。
 
 ## 拼音
 
-- xi1 kua1 shi2 lin3 zhu4 rong2 dui1 ， zhou4 jian4 ren2 jia1 hua4 zhou2 kai1 。
-- zuo4 yi4 gao1 han2 wu2 yuan4 zu2 ， ci3 xing2 si4 wei2 ci3 shan1 lai2 。
+- jin1 zhao1 zhu4 wo3 bo2 shu1 dui1 ， ling3 ke4 zun1 lei2 wei4 ban4 kai1 。
+- shi3 xin4 nan2 shan1 shi4 zhi1 ji3 ， lu4 qi2 cheng2 xiu4 zhan3 guan1 lai2 。
 
 ## 注释
 

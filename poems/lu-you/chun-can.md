@@ -6,25 +6,25 @@ titleSlug: chun-can
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石鏡山前送落暉，春殘回首倍依依。
-- 時平壯士無功老，鄉遠征人有夢歸。
-- 苜蓿苗侵官道合，蕪菁花入麥畦稀。
-- 倦逰自笑摧頺甚，誰記飛鷹醉打圍。
+- 老堕空山裏，春殘白日長。
+- 庸醫司性命，俗子議文章。
+- 燭映一池墨，風飄半篆香。
+- 箇中有佳處，袖手看人忙。
 
 ## 拼音
 
-- shi2 jing4 shan1 qian2 song4 luo4 hui1 ， chun1 can2 hui2 shou3 bei4 yi1 yi1 。
-- shi2 ping2 zhuang4 shi4 wu2 gong1 lao3 ， xiang1 yuan3 zheng1 ren2 you3 meng4 gui1 。
-- mu4 xu0 miao2 qin1 guan1 dao4 he2 ， wu2 jing1 hua1 ru4 mai4 qi2 xi1 。
-- juan4 you2 zi4 xiao4 cui1 tui2 shen4 ， shui2 ji4 fei1 ying1 zui4 da3 wei2 。
+- lao3 duo4 kong1 shan1 li3 ， chun1 can2 bai2 ri4 chang2 。
+- yong1 yi1 si1 xing4 ming4 ， su2 zi3 yi4 wen2 zhang1 。
+- zhu2 ying4 yi4 chi2 mo4 ， feng1 piao1 ban4 zhuan4 xiang1 。
+- ge4 zhong1 you3 jia1 chu3 ， xiu4 shou3 kan4 ren2 mang2 。
 
 ## 注释
 

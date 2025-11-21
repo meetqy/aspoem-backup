@@ -6,9 +6,9 @@ titleSlug: ju
 author: 張進彥
 authorPinyin: zhang1 jin4 yan4
 authorSlug: zhang-jin-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

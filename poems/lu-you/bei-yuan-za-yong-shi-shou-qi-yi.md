@@ -1,26 +1,26 @@
 ---
 id: lu-you-bei-yuan-za-yong-shi-shou-qi-yi
-title: 北園雜詠十首  其一
-titlePinyin: bei3 yuan2 za2 yong3 shi2 shou3     qi2 yi1
+title: 北園雜詠十首  其一○
+titlePinyin: bei3 yuan2 za2 yong3 shi2 shou3     qi2 yi1 ○
 titleSlug: bei-yuan-za-yong-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西村林外起炊烟，南浦橋邊繫釣船。
-- 樂歲家家俱自得，桃源未必是神仙。
+- 暮年身似一虛舟，付與滄波自在流。
+- 垂地雪雲吹不散，且傾桑落膾槎頭。
 
 ## 拼音
 
-- xi1 cun1 lin2 wai4 qi3 chui1 yan1 ， nan2 pu3 qiao2 bian1 xi4 diao4 chuan2 。
-- le4 sui4 jia1 jia1 ju4 zi4 de2 ， tao2 yuan2 wei4 bi4 shi4 shen2 xian1 。
+- mu4 nian2 shen1 si4 yi4 xu1 zhou1 ， fu4 yu3 cang1 bo1 zi4 zai4 liu2 。
+- chui2 di4 xue3 yun2 chui1 bu2 san4 ， qie3 qing1 sang1 luo4 kuai4 cha2 tou2 。
 
 ## 注释
 

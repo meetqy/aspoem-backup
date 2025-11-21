@@ -6,25 +6,25 @@ titleSlug: za-shi-qi-yi
 author: 沈遼
 authorPinyin: shen3 liao2
 authorSlug: shen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 葱蒨竹林下，秋來多獨往。
-- 豈無夕禽喧，固勝人語響。
-- 欲詠葛天歌，支離難自强。
-- 何如默默爲，中心亦怠賞。
+- 白雲非我役，出沒在山間。
+- 我亦何所事，籃輿自往還。
+- 不知樂與否，聊爾寄衰孱。
+- 早恨冠冕誤，空令鬢毛斑。
 
 ## 拼音
 
-- cong1 qian4 zhu2 lin2 xia4 ， qiu1 lai2 duo1 du2 wang3 。
-- qi3 wu2 xi1 qin2 xuan1 ， gu4 sheng4 ren2 yu3 xiang3 。
-- yu4 yong3 ge3 tian1 ge1 ， zhi1 li2 nan2 zi4 qiang2 。
-- he2 ru2 mo4 mo4 wei2 ， zhong1 xin1 yi4 dai4 shang3 。
+- bai2 yun2 fei1 wo3 yi4 ， chu1 mei2 zai4 shan1 jian4 。
+- wo3 yi4 he2 suo3 shi4 ， lan2 yu2 zi4 wang3 huan2 。
+- bu4 zhi1 le4 yu3 fou3 ， liao2 er3 ji4 shuai1 chan2 。
+- zao3 hen4 guan1 mian3 wu4 ， kong1 ling4 bin4 mao2 ban1 。
 
 ## 注释
 

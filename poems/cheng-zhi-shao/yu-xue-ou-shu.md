@@ -6,10 +6,10 @@ titleSlug: yu-xue-ou-shu
 author: 程之邵
 authorPinyin: cheng2 zhi1 shao4
 authorSlug: cheng-zhi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

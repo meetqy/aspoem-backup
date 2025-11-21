@@ -6,10 +6,10 @@ titleSlug: da-di-dong-qi-yi
 author: 趙希焄
 authorPinyin: zhao4 xi1 hun1
 authorSlug: zhao-xi-hun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

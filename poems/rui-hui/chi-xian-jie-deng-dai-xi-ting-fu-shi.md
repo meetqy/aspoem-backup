@@ -6,10 +6,10 @@ titleSlug: chi-xian-jie-deng-dai-xi-ting-fu-shi
 author: 芮煇
 authorPinyin: rui4 hui1
 authorSlug: rui-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

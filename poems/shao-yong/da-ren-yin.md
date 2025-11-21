@@ -1,26 +1,26 @@
 ---
 id: shao-yong-da-ren-yin
-title: 答人吟
-titlePinyin: da2 ren2 yin2
+title: 大人吟
+titlePinyin: da4 ren2 yin2
 titleSlug: da-ren-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 林下閑言語，何須更問爲。
-- 自知無紀律，安得謂之詩。
+- 天道遠，人道邇。
+- 盡人情，合天理。
 
 ## 拼音
 
-- lin2 xia4 xian2 yan2 yu3 ， he2 xu1 geng4 wen4 wei2 。
-- zi4 zhi1 wu2 ji4 lü4 ， an1 de2 wei4 zhi1 shi1 。
+- tian1 dao4 yuan3 ， ren2 dao4 er3 。
+- jin4 ren2 qing2 ， he2 tian1 li3 。
 
 ## 注释
 

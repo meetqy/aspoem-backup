@@ -6,10 +6,10 @@ titleSlug: ti-ju-rong-jiu-si-bi
 author: 李天才
 authorPinyin: li3 tian1 cai2
 authorSlug: li-tian-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-zhang-min-shu-ci-bu-ya-yun-xuan-yun
 author: 釋沖邈
 authorPinyin: shi4 chong1 miao3
 authorSlug: shi-chong-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

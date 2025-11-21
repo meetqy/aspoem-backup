@@ -6,10 +6,10 @@ titleSlug: yu-zhong-yong-cong-pi-guang-xi-shi-hong-jing-lu-suo-zuo-song-feng-ge-
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhao-zai-bie-ye
 author: 吳澗所
 authorPinyin: wu2 jian4 suo3
 authorSlug: wu-jian-suo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

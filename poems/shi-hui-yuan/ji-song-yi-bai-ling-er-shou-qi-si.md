@@ -1,26 +1,30 @@
 ---
 id: shi-hui-yuan-ji-song-yi-bai-ling-er-shou-qi-si
-title: 偈頌一百零二首  其四
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 si4
+title: 偈頌一百零二首  其四○
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 si4 ○
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-si
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 隴麥青青春色過，嶺雲散盡楚天高。
-- 翻思歡喜園中事，八萬魔軍爭奈何。
+- 新歲有來由，烹茶上酒樓。
+- 一雙無兩脚，半箇有三頭。
+- 突出神難辨，相逢鬼見愁。
+- 倒吹無孔笛，促拍舞梁州。
 
 ## 拼音
 
-- long3 mai4 qing1 qing1 chun1 se4 guo4 ， ling3 yun2 san4 jin4 chu3 tian1 gao1 。
-- fan1 si1 huan1 xi3 yuan2 zhong1 shi4 ， ba1 wan4 mo2 jun1 zheng1 nai4 he2 。
+- xin1 sui4 you3 lai2 you2 ， peng1 cha2 shang4 jiu3 lou2 。
+- yi4 shuang1 wu2 liang3 jiao3 ， ban4 ge4 you3 san1 tou2 。
+- tu1 chu1 shen2 nan2 bian4 ， xiang1 feng2 gui3 jian4 chou2 。
+- dao3 chui1 wu2 kong3 di2 ， cu4 pai1 wu3 liang2 zhou1 。
 
 ## 注释
 

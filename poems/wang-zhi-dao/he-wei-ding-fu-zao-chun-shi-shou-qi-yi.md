@@ -1,26 +1,26 @@
 ---
 id: wang-zhi-dao-he-wei-ding-fu-zao-chun-shi-shou-qi-yi
-title: 和魏定父早春十首  其一
-titlePinyin: he2 wei4 ding4 fu4 zao3 chun1 shi2 shou3     qi2 yi1
+title: 和魏定父早春十首  其一○
+titlePinyin: he2 wei4 ding4 fu4 zao3 chun1 shi2 shou3     qi2 yi1 ○
 titleSlug: he-wei-ding-fu-zao-chun-shi-shou-qi-yi
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 早從子美追懶真，近向長康得癡絕。
-- 相逢可笑復可憐，君看稀疏鬢邉雪。
+- 南禪相望無多地，深謝高軒日見過。
+- 歸去山林遂閒放，卻尋農圃問誰何。
 
 ## 拼音
 
-- zao3 cong2 zi3 mei3 zhui1 lan3 zhen1 ， jin4 xiang4 chang2 kang1 de2 chi1 jue2 。
-- xiang1 feng2 ke3 xiao4 fu4 ke3 lian2 ， jun1 kan4 xi1 shu1 bin4 bian1 xue3 。
+- nan2 shan4 xiang1 wang4 wu2 duo1 di4 ， shen1 xie4 gao1 xuan1 ri4 jian4 guo4 。
+- gui1 qu4 shan1 lin2 sui4 xian2 fang4 ， que4 xun2 nong2 pu3 wen4 shui2 he2 。
 
 ## 注释
 

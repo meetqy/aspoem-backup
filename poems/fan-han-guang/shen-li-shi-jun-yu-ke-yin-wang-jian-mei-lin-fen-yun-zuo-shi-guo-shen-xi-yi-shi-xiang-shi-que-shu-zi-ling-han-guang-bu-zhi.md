@@ -6,10 +6,10 @@ titleSlug: shen-li-shi-jun-yu-ke-yin-wang-jian-mei-lin-fen-yun-zuo-shi-guo-shen-
 author: 樊漢廣
 authorPinyin: fan2 han4 guang3
 authorSlug: fan-han-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

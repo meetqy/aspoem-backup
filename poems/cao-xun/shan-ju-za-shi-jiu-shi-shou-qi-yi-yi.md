@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松色蔭人居，松力治人病。
-- 丹砂含其滋，復可延性命。
-- 幽居繞蒼髯，不畏夏日盛。
-- 風來聽笙竽，便有華胥興。
+- 春雪翳重霄，寒雨連日夜。
+- 不輟獸炭熾，甚恐庭花謝。
+- 疏簾莫禦冷，爐焚屢成灺。
+- 寒食數日間，春事求諸野。
 
 ## 拼音
 
-- song1 se4 yin1 ren2 ju1 ， song1 li4 zhi4 ren2 bing4 。
-- dan1 sha1 han2 qi2 zi1 ， fu4 ke3 yan2 xing4 ming4 。
-- you1 ju1 rao4 cang1 ran2 ， bu2 wei4 xia4 ri4 sheng4 。
-- feng1 lai2 ting1 sheng1 yu2 ， bian4 you3 hua2 xu1 xing1 。
+- chun1 xue3 yi4 chong2 xiao1 ， han2 yu3 lian2 ri4 ye4 。
+- bu2 chuo4 shou4 tan4 chi4 ， shen4 kong3 ting2 hua1 xie4 。
+- shu1 lian2 mo4 yu4 leng3 ， lu2 fen2 lü3 cheng2 xie4 。
+- han2 shi2 shu4 ri4 jian4 ， chun1 shi4 qiu2 zhu1 ye3 。
 
 ## 注释
 

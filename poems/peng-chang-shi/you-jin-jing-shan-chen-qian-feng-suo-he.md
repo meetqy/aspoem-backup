@@ -6,10 +6,10 @@ titleSlug: you-jin-jing-shan-chen-qian-feng-suo-he
 author: 彭昌詩
 authorPinyin: peng2 chang1 shi1
 authorSlug: peng-chang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

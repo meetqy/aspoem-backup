@@ -6,10 +6,10 @@ titleSlug: ti-rong-yin-tu
 author: 胡大用
 authorPinyin: hu2 da4 yong4
 authorSlug: hu-da-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

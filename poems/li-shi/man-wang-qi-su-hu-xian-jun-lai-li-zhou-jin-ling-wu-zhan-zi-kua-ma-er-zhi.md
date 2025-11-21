@@ -6,10 +6,10 @@ titleSlug: man-wang-qi-su-hu-xian-jun-lai-li-zhou-jin-ling-wu-zhan-zi-kua-ma-er-
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

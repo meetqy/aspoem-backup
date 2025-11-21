@@ -6,10 +6,10 @@ titleSlug: jian-yuan-ting
 author: 魏某
 authorPinyin: wei4 mou3
 authorSlug: wei-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

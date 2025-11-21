@@ -6,25 +6,25 @@ titleSlug: chu-han
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 船尾寒風不滿旗，江邊樷祠常掩扉。
-- 行人畏虎少晨起，舟子捕魚多夜歸。
-- 茆葉翻翻带宿雨，葦花漠漠弄斜暉。
-- 傷心到處聞碪杵，九月今年未授衣。
+- 雨霽林猶滴，泥新路易乾。
+- 蕭條山步晚，憔悴客衣單。
+- 小女收魚笱，童兒放鴨欄。
+- 初寒豈不好，衰病自無歡。
 
 ## 拼音
 
-- chuan2 wei3 han2 feng1 bu4 man3 qi2 ， jiang1 bian1 cong2 ci2 chang2 yan3 fei1 。
-- xing2 ren2 wei4 hu3 shao3 chen2 qi3 ， zhou1 zi3 bu3 yu2 duo1 ye4 gui1 。
-- mao2 ye4 fan1 fan1 dai4 su4 yu3 ， wei3 hua1 mo4 mo4 nong4 xie2 hui1 。
-- shang1 xin1 dao4 chu3 wen2 zhen1 chu3 ， jiu3 yue4 jin1 nian2 wei4 shou4 yi1 。
+- yu3 ji4 lin2 you2 di1 ， ni2 xin1 lu4 yi4 qian2 。
+- xiao1 tiao2 shan1 bu4 wan3 ， qiao2 cui4 ke4 yi1 dan1 。
+- xiao3 nü3 shou1 yu2 gou3 ， tong2 er2 fang4 ya1 lan2 。
+- chu1 han2 qi3 bu4 hao3 ， shuai1 bing4 zi4 wu2 huan1 。
 
 ## 注释
 

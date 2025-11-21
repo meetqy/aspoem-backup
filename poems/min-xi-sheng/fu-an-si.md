@@ -6,10 +6,10 @@ titleSlug: fu-an-si
 author: 閔希聲
 authorPinyin: min3 xi1 sheng1
 authorSlug: min-xi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

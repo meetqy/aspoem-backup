@@ -6,10 +6,10 @@ titleSlug: lin-gui-ling-yi-jian-dang-qu-chao-zhi-jiu-zhao-ke-xi-zuo-er-shi-ba-zi
 author: 張孝祥
 authorPinyin: zhang1 xiao4 xiang2
 authorSlug: zhang-xiao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

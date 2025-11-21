@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-jiu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 引鼻拽回野鴨，元來卻是家雞。
-- 不管晦明風雨，纔到五更便啼。
+- 不是風兮不是幡，胡僧兩耳带金環。
+- 分明有語無人會，又上高樓看遠山。
 
 ## 拼音
 
-- yin3 bi2 zhuai4 hui2 ye3 ya1 ， yuan2 lai2 que4 shi4 jia1 ji1 。
-- bu4 guan3 hui4 ming2 feng1 yu3 ， cai2 dao4 wu3 geng1 bian4 ti2 。
+- bu2 shi4 feng1 xi1 bu2 shi4 fan1 ， hu2 seng1 liang3 er3 dai4 jin1 huan2 。
+- fen1 ming2 you3 yu3 wu2 ren2 hui4 ， you4 shang4 gao1 lou2 kan4 yuan3 shan1 。
 
 ## 注释
 

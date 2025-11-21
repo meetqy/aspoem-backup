@@ -6,10 +6,10 @@ titleSlug: run-zhong-qiu
 author: 趙大成
 authorPinyin: zhao4 da4 cheng2
 authorSlug: zhao-da-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

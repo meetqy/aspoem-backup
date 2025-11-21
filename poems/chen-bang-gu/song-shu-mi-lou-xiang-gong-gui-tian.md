@@ -6,10 +6,10 @@ titleSlug: song-shu-mi-lou-xiang-gong-gui-tian
 author: 陳邦固
 authorPinyin: chen2 bang1 gu4
 authorSlug: chen-bang-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

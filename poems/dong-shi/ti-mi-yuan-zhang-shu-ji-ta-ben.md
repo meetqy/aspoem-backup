@@ -6,10 +6,10 @@ titleSlug: ti-mi-yuan-zhang-shu-ji-ta-ben
 author: 董史
 authorPinyin: dong3 shi3
 authorSlug: dong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

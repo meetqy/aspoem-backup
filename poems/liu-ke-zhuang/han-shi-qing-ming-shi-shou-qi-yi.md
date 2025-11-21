@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-han-shi-qing-ming-shi-shou-qi-yi
-title: 寒食清明十首  其一
-titlePinyin: han2 shi2 qing1 ming2 shi2 shou3     qi2 yi1
+title: 寒食清明十首  其一○
+titlePinyin: han2 shi2 qing1 ming2 shi2 shou3     qi2 yi1 ○
 titleSlug: han-shi-qing-ming-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 時節澆松近，人家擘紙歸。
-- 但知題墓好，不笑乞墦非。
+- 輕薄墜鞭子，清狂謁水生。
+- 如何唐老杜，也作麗人行。
 
 ## 拼音
 
-- shi2 jie2 jiao1 song1 jin4 ， ren2 jia1 bo4 zhi3 gui1 。
-- dan4 zhi1 ti2 mu4 hao3 ， bu2 xiao4 qi3 fan2 fei1 。
+- qing1 bao2 zhui4 bian1 zi0 ， qing1 kuang2 ye4 shui3 sheng1 。
+- ru2 he2 tang2 lao3 du4 ， ye3 zuo4 li2 ren2 hang2 。
 
 ## 注释
 

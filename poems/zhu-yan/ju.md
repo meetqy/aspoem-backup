@@ -3,22 +3,22 @@ id: zhu-yan-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 朱嚴
+author: 朱炎
 authorPinyin: zhu1 yan2
 authorSlug: zhu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寓直有誰同騎省，立班獨自戴貂冠。
+- 古人不到處，吾子獨留心。
 
 ## 拼音
 
-- yu4 zhi2 you3 shui2 tong2 qi2 sheng3 ， li4 ban1 du2 zi4 dai4 diao1 guan1 。
+- gu3 ren2 bu2 dao4 chu3 ， wu2 zi3 du2 liu2 xin1 。
 
 ## 注释
 

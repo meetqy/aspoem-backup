@@ -9,20 +9,24 @@ authorSlug: yuan-jie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 猗皇至聖兮，至儉至明。
-- 化流瀛瀛，瀛瀛如何。
-- 不虢不赩，莫知其極。
+- 聖賢爲上兮，必用賢正。
+- 黜姦佞之臣，所以長久也。
+- 如何反是，以爲亂矣。
+- 寵邪信惑，近佞好諛。
+- 廢嫡立庶，忍爲禍謨。
 
 ## 拼音
 
-- yi1 huang2 zhi4 sheng4 xi1 ， zhi4 jian3 zhi4 ming2 。
-- hua4 liu2 ying2 ying2 ， ying2 ying2 ru2 he2 。
-- bu4 guo2 bu2 xi4 ， mo4 zhi1 qi2 ji2 。
+- sheng4 xian2 wei2 shang4 xi1 ， bi4 yong4 xian2 zheng4 。
+- chu4 jian1 ning4 zhi1 chen2 ， suo3 yi3 chang2 jiu3 ye3 。
+- ru2 he2 fan3 shi4 ， yi3 wei2 luan4 yi3 。
+- chong3 xie2 xin4 huo4 ， jin4 ning4 hao3 yu2 。
+- fei4 di2 li4 shu4 ， ren3 wei2 huo4 mo2 。
 
 ## 注释
 

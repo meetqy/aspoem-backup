@@ -6,10 +6,10 @@ titleSlug: deng-qi-shi-shan-qi-er
 author: 黄汝嘉
 authorPinyin: huang2 ru3 jia1
 authorSlug: huang-ru-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

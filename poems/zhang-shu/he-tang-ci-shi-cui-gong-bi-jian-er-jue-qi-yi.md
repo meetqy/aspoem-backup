@@ -6,10 +6,10 @@ titleSlug: he-tang-ci-shi-cui-gong-bi-jian-er-jue-qi-yi
 author: 張述
 authorPinyin: zhang1 shu4
 authorSlug: zhang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

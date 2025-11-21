@@ -1,26 +1,26 @@
 ---
 id: shi-ruo-fen-shou-fu-shou-qi-yi
-title: 壽傅守  其一
-titlePinyin: shou4 fu4 shou3     qi2 yi1
+title: 壽傅守  其一○
+titlePinyin: shou4 fu4 shou3     qi2 yi1 ○
 titleSlug: shou-fu-shou-qi-yi
 author: 釋若芬
 authorPinyin: shi4 ruo4 fen1
 authorSlug: shi-ruo-fen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 仙游舍人聲建中，正論久矣排群雄。
-- 令子賢孫俱有耀，皇天兩耳元非聾。
+- 秋入東籬破曉霜，黄花不肯媚重陽。
+- 花神愛惜緣何事，要向今朝薦壽觴。
 
 ## 拼音
 
-- xian1 you2 she4 ren2 sheng1 jian4 zhong1 ， zheng4 lun4 jiu3 yi3 pai2 qun2 xiong2 。
-- ling4 zi3 xian2 sun1 ju4 you3 yao4 ， huang2 tian1 liang3 er3 yuan2 fei1 long2 。
+- qiu1 ru4 dong1 li2 po4 xiao3 shuang1 ， huang2 hua1 bu4 ken3 mei4 zhong4 yang2 。
+- hua1 shen2 ai4 xi1 yuan2 he2 shi4 ， yao4 xiang4 jin1 zhao1 jian4 shou4 shang1 。
 
 ## 注释
 

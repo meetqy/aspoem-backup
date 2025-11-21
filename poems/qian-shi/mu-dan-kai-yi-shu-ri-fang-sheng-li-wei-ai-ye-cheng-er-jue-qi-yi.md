@@ -6,10 +6,10 @@ titleSlug: mu-dan-kai-yi-shu-ri-fang-sheng-li-wei-ai-ye-cheng-er-jue-qi-yi
 author: 錢時
 authorPinyin: qian2 shi2
 authorSlug: qian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

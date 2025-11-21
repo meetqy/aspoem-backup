@@ -6,10 +6,10 @@ titleSlug: ti-ju-tai-wei-zhang-qiu-song
 author: 釋如淨
 authorPinyin: shi4 ru2 jing4
 authorSlug: shi-ru-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

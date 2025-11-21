@@ -6,10 +6,10 @@ titleSlug: shou-zhang-seng-yao-tian-wang-shang-you-xue-ji-ti-yan-er-wu-le-lao-ch
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

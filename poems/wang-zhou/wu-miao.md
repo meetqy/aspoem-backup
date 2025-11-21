@@ -9,20 +9,20 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 巴水走若箭，峡山開如屏。
+- 巴水走若箭，峽山開如屏。
 - 洶湧匹練白，𡷾崒濃藍青。
 - 崖空蓄雲雨，灘惡驚雷霆。
-- 神仙宅幽邃，廟貌横杳冥。
+- 神仙宅幽邃，廟貌橫杳冥。
 - 隱約可一夢，縹緲餘千齡。
 - 名利有所役，舟楫無暫停。
-- 悉窣垂肹蠁，祠禱希安寧。
-- 鵶鵶爾何物，飛飛来廟庭。
-- 紛紛颺寥泬，遠近随虚舲。
+- 悉宰垂【肸】蠁，祠禱希安寧。
+- 鵶鵶爾何物，飛飛來廟庭。
+- 紛紛颺寥泬，遠近隨虛舲。
 - 鐵石礪觜爪，金碧輝光翎。
 - 翔集託陰險，鵮啄貪羶腥。
 - 日既恃威福，歲久爲精靈。
@@ -38,7 +38,7 @@ tags: []
 - shen2 xian1 zhai2 you1 sui4 ， miao4 mao4 heng2 yao3 ming2 。
 - yin3 yue1 ke3 yi2 meng4 ， piao3 miao3 yu2 qian1 ling2 。
 - ming2 li4 you3 suo3 yi4 ， zhou1 ji2 wu2 zan4 ting2 。
-- xi1 su1 chui2 xi1 xiang3 ， ci2 dao3 xi1 an1 ning2 。
+- xi1 zai3 chui2 【 xi1 】 xiang3 ， ci2 dao3 xi1 an1 ning2 。
 - ya1 ya1 er3 he2 wu4 ， fei1 fei1 lai2 miao4 ting2 。
 - fen1 fen1 yang2 liao2 jue2 ， yuan3 jin4 sui2 xu1 ling2 。
 - tie3 shi2 li4 zi1 zhua3 ， jin1 bi4 hui1 guang1 ling2 。

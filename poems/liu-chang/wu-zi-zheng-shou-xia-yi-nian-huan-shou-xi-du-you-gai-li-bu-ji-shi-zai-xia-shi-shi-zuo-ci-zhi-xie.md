@@ -6,10 +6,10 @@ titleSlug: wu-zi-zheng-shou-xia-yi-nian-huan-shou-xi-du-you-gai-li-bu-ji-shi-zai
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

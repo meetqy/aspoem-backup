@@ -6,10 +6,10 @@ titleSlug: yan-dang-jing-ming-gu-lian-shui
 author: 劉子寰
 authorPinyin: liu2 zi3 huan2
 authorSlug: liu-zi-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

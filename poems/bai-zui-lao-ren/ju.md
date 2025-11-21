@@ -6,10 +6,10 @@ titleSlug: ju
 author: 百醉老人
 authorPinyin: bai3 zui4 lao3 ren2
 authorSlug: bai-zui-lao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

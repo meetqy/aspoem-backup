@@ -6,10 +6,10 @@ titleSlug: ti-qing-yuan-xia-he-guang-dong
 author: 安昌期
 authorPinyin: an1 chang1 qi1
 authorSlug: an-chang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

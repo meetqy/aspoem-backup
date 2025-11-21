@@ -6,10 +6,10 @@ titleSlug: you-bai-yan-yuan-zhu-shi-zai-he-nan-xiu-wu
 author: 劉師忠
 authorPinyin: liu2 shi1 zhong1
 authorSlug: liu-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

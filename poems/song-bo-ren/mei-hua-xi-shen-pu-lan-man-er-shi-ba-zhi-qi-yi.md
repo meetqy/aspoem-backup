@@ -1,26 +1,26 @@
 ---
 id: song-bo-ren-mei-hua-xi-shen-pu-lan-man-er-shi-ba-zhi-qi-yi
-title: 梅花喜神譜 爛熳二十八枝 其一
-titlePinyin: mei2 hua1 xi3 shen2 pu3   lan4 man4 er4 shi2 ba1 zhi1   qi2 yi1
+title: 梅花喜神譜 爛熳二十八枝 其一○
+titlePinyin: mei2 hua1 xi3 shen2 pu3   lan4 man4 er4 shi2 ba1 zhi1   qi2 yi1 ○
 titleSlug: mei-hua-xi-shen-pu-lan-man-er-shi-ba-zhi-qi-yi
 author: 宋伯仁
 authorPinyin: song4 bo2 ren2
 authorSlug: song-bo-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵匣啟菱花，醜妍無不識。
-- 羞殺幾英雄，霜髯太煎逼。
+- 八珍風味清，藜腸豈曾識。
+- 堪嗤嘗臠人，欲與魚兼得。
 
 ## 拼音
 
-- chen2 xia2 qi3 ling2 hua1 ， chou3 yan2 wu2 bu4 shi2 。
-- xiu1 sha1 ji1 ying1 xiong2 ， shuang1 ran2 tai4 jian1 bi1 。
+- ba1 zhen1 feng1 wei4 qing1 ， li2 chang2 qi3 ceng2 shi2 。
+- kan1 chi1 chang2 luan2 ren2 ， yu4 yu3 yu2 jian1 de2 。
 
 ## 注释
 

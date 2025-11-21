@@ -6,25 +6,25 @@ titleSlug: xia-ye-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我昔在南鄭，夜過東駱谷。
-- 平川月如霜，萬馬皆露宿。
-- 思從六月師，關輔談笑復。
-- 那知二十年，秋風枯苜蓿。
+- 落月不滿窗，驚鵲屢移樹。
+- 沉憂少睡眠，亦以衰疾故。
+- 五更忽作夢，立馬青衣渡。
+- 白首厭山村，郵亭憶征步。
 
 ## 拼音
 
-- wo3 xi1 zai4 nan2 zheng4 ， ye4 guo4 dong1 luo4 gu3 。
-- ping2 chuan1 yue4 ru2 shuang1 ， wan4 ma3 jie1 lu4 su4 。
-- si1 cong2 liu4 yue4 shi1 ， guan1 fu3 tan2 xiao4 fu4 。
-- na4 zhi1 er4 shi2 nian2 ， qiu1 feng1 ku1 mu4 xu0 。
+- luo4 yue4 bu4 man3 chuang1 ， jing1 que4 lü3 yi2 shu4 。
+- chen2 you1 shao3 shui4 mian2 ， yi4 yi3 shuai1 ji2 gu4 。
+- wu3 geng1 hu1 zuo4 meng4 ， li4 ma3 qing1 yi1 du4 。
+- bai2 shou3 yan4 shan1 cun1 ， you2 ting2 yi4 zheng1 bu4 。
 
 ## 注释
 

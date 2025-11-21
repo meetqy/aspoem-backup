@@ -6,10 +6,10 @@ titleSlug: shuang-gui-lian-ju
 author: 种診
 authorPinyin: zhong3 zhen3
 authorSlug: zhong-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

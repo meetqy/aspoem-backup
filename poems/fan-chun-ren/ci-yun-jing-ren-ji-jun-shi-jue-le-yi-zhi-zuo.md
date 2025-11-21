@@ -6,10 +6,10 @@ titleSlug: ci-yun-jing-ren-ji-jun-shi-jue-le-yi-zhi-zuo
 author: 范純仁
 authorPinyin: fan4 chun2 ren2
 authorSlug: fan-chun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

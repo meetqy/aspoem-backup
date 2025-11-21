@@ -1,26 +1,26 @@
 ---
 id: chou-yuan-xian-ju-shi-yong-qi-yi
-title: 閒居十詠  其一
-titlePinyin: xian2 ju1 shi2 yong3     qi2 yi1
+title: 閒居十詠  其一○
+titlePinyin: xian2 ju1 shi2 yong3     qi2 yi1 ○
 titleSlug: xian-ju-shi-yong-qi-yi
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 階前紫蔓金絲草，籬角紅垂錦带花。
-- 梓澤平泉易消歇，春留富貴與詩家。
+- 珠簾玉柵綺羅叢，猶有承平京洛風。
+- 飲罷歸來游騎少，一庭明月夜方中。
 
 ## 拼音
 
-- jie1 qian2 zi3 man4 jin1 si1 cao3 ， li2 jiao3 hong2 chui2 jin3 dai4 hua1 。
-- zi3 ze2 ping2 quan2 yi4 xiao1 xie1 ， chun1 liu2 fu4 gui4 yu3 shi1 jia1 。
+- zhu1 lian2 yu4 shan1 qi3 luo2 cong2 ， you2 you3 cheng2 ping2 jing1 luo4 feng1 。
+- yin3 ba4 gui1 lai2 you2 qi2 shao3 ， yi4 ting2 ming2 yue4 ye4 fang1 zhong1 。
 
 ## 注释
 

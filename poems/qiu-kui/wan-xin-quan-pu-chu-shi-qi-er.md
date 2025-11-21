@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-wan-xin-quan-pu-chu-shi-qi-er
-title: 挽心泉蒲處士・其二
-titlePinyin: wan3 xin1 quan2 pu2 chu3 shi4・qi2 er4
+title: 挽心泉蒲處士  其二
+titlePinyin: wan3 xin1 quan2 pu2 chu3 shi4     qi2 er4
 titleSlug: wan-xin-quan-pu-chu-shi-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

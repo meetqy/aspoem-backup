@@ -6,10 +6,10 @@ titleSlug: gao-zong-huang-di-wan-ci-qi-er
 author: 林栗
 authorPinyin: lin2 li4
 authorSlug: lin-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

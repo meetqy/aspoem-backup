@@ -6,10 +6,10 @@ titleSlug: xiang-shan-yuan
 author: 游少游
 authorPinyin: you2 shao3 you2
 authorSlug: you-shao-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

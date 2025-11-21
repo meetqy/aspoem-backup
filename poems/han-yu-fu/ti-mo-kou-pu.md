@@ -6,10 +6,10 @@ titleSlug: ti-mo-kou-pu
 author: 韓玉父
 authorPinyin: han2 yu4 fu4
 authorSlug: han-yu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

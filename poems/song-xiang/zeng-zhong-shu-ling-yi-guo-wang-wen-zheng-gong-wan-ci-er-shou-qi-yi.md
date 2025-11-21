@@ -6,9 +6,9 @@ titleSlug: zeng-zhong-shu-ling-yi-guo-wang-wen-zheng-gong-wan-ci-er-shou-qi-yi
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

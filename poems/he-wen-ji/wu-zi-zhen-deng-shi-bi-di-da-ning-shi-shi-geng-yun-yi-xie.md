@@ -6,10 +6,10 @@ titleSlug: wu-zi-zhen-deng-shi-bi-di-da-ning-shi-shi-geng-yun-yi-xie
 author: 何文季
 authorPinyin: he2 wen2 ji4
 authorSlug: he-wen-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yi-shang-ren-zhi-jing-shan
 author: 釋子益
 authorPinyin: shi4 zi3 yi4
 authorSlug: shi-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

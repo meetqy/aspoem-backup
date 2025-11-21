@@ -6,25 +6,21 @@ titleSlug: wu-zuo-you-gan
 author: 裘萬頃
 authorPinyin: qiu2 wan4 qing3
 authorSlug: qiu-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 忘言編簡倦三復，適意絲桐聊再行。
-- 已共白雲論久要，更尋青鳥問長生。
-- 按行泉石苔侵屨，披拂松篁露濕纓。
-- 此事洪崖知我舊，歸與端合與同盟。
+- 意行曾到楚江臯，占得雙泉第一寮。
+- 窗戶邃深鐘磬遠，客塵都向靜中消。
 
 ## 拼音
 
-- wang4 yan2 bian1 jian3 juan4 san1 fu4 ， shi4 yi4 si1 tong2 liao2 zai4 xing2 。
-- yi3 gong4 bai2 yun2 lun4 jiu3 yao4 ， geng4 xun2 qing1 niao3 wen4 chang2 sheng1 。
-- an4 xing2 quan2 shi2 tai2 qin1 ju4 ， pi1 fu2 song1 huang2 lu4 shi1 ying1 。
-- ci3 shi4 hong2 ya2 zhi1 wo3 jiu4 ， gui1 yu3 duan1 he2 yu3 tong2 meng2 。
+- yi4 xing2 ceng2 dao4 chu3 jiang1 gao1 ， zhan4 de2 shuang1 quan2 di4 yi1 liao2 。
+- chuang1 hu4 sui4 shen1 zhong1 qing4 yuan3 ， ke4 chen2 dou1 xiang4 jing4 zhong1 xiao1 。
 
 ## 注释
 

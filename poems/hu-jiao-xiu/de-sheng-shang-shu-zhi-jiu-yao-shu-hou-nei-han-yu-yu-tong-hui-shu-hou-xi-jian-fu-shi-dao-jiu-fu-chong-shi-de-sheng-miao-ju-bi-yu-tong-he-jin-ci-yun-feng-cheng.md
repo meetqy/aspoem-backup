@@ -6,10 +6,10 @@ titleSlug: de-sheng-shang-shu-zhi-jiu-yao-shu-hou-nei-han-yu-yu-tong-hui-shu-hou
 author: 胡交修
 authorPinyin: hu2 jiao1 xiu1
 authorSlug: hu-jiao-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

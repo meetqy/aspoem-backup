@@ -6,10 +6,10 @@ titleSlug: wan-hu-ji-zhao
 author: 林經德
 authorPinyin: lin2 jing1 de2
 authorSlug: lin-jing-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

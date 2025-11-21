@@ -6,25 +6,25 @@ titleSlug: shang-jian-wang-sheng-chen-qi-yi
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 上帝昌我宋，高目視所以。
-- 天子亶聰明，亦既受多祉。
-- 慶澤渺夢圖，班衣有元嗣。
-- 茲辰甫誕辰，想見龍顔喜。
+- 高穹祚明德，聖主歷無疆。
+- 談笑復境土，穆穆游岩廊。
+- 一定天下本，忠孝資元良。
+- 願言千萬壽，玉立侍清光。
 
 ## 拼音
 
-- shang4 di4 chang1 wo3 song4 ， gao1 mu4 shi4 suo3 yi3 。
-- tian1 zi3 dan3 cong1 ming2 ， yi4 ji4 shou4 duo1 zhi3 。
-- qing4 ze2 miao3 meng4 tu2 ， ban1 yi1 you3 yuan2 si4 。
-- zi1 chen2 fu3 dan4 chen2 ， xiang3 jian4 long2 yan2 xi3 。
+- gao1 qiong2 zuo4 ming2 de2 ， sheng4 zhu3 li4 wu2 jiang1 。
+- tan2 xiao4 fu4 jing4 tu3 ， mu4 mu4 you2 yan2 lang2 。
+- yi2 ding4 tian1 xia4 ben3 ， zhong1 xiao4 zi1 yuan2 liang2 。
+- yuan4 yan2 qian1 wan4 shou4 ， yu4 li4 shi4 qing1 guang1 。
 
 ## 注释
 

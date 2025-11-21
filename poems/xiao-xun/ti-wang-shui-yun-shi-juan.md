@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan
 author: 蕭壎
 authorPinyin: xiao1 xun1
 authorSlug: xiao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

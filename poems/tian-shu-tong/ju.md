@@ -6,10 +6,10 @@ titleSlug: ju
 author: 田叔通
 authorPinyin: tian2 shu1 tong1
 authorSlug: tian-shu-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

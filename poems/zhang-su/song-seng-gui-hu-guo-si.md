@@ -6,9 +6,9 @@ titleSlug: song-seng-gui-hu-guo-si
 author: 張肅
 authorPinyin: zhang1 su4
 authorSlug: zhang-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

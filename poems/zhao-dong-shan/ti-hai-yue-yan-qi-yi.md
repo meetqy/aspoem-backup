@@ -6,10 +6,10 @@ titleSlug: ti-hai-yue-yan-qi-yi
 author: 趙東山
 authorPinyin: zhao4 dong1 shan1
 authorSlug: zhao-dong-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

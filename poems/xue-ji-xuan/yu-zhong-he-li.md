@@ -6,33 +6,21 @@ titleSlug: yu-zhong-he-li
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陰靄結愁思，秋霖政霪澍。
-- 何天唳鳴鶴，嘹喨烏雲路。
-- 九皋聲甚遠，底處披冥霧。
-- 定知君子化，不作乘軒汙。
-- 介蟣六王師，櫛沐方暴露。
-- 芻輓苦不繼，曷保金湯固。
-- 塗泥困淪沒，無計開樊笯。
-- 傷古聽華亭，吾心向誰布。
+- 十萬虛屯野次兵，不逢苻詔壽陽城。
+- 愁雲慘淡雨來急，鳴鶴一聲天未晴。
 
 ## 拼音
 
-- yin1 ai3 jie2 chou2 si1 ， qiu1 lin2 zheng4 yin2 shu4 。
-- he2 tian1 li4 ming2 he4 ， liao2 liang4 wu1 yun2 lu4 。
-- jiu3 gao1 sheng1 shen4 yuan3 ， di3 chu3 pi1 ming2 wu4 。
-- ding4 zhi1 jun1 zi3 hua4 ， bu2 zuo4 cheng2 xuan1 wu1 。
-- jie4 ji3 liu4 wang2 shi1 ， zhi4 mu4 fang1 bao4 lu4 。
-- chu2 wan3 ku3 bu2 ji4 ， he2 bao3 jin1 tang1 gu4 。
-- tu2 ni2 kun4 lun2 mei2 ， wu2 ji4 kai1 fan2 nu2 。
-- shang1 gu3 ting1 hua2 ting2 ， wu2 xin1 xiang4 shui2 bu4 。
+- shi2 wan4 xu1 tun2 ye3 ci4 bing1 ， bu4 feng2 fu2 zhao4 shou4 yang2 cheng2 。
+- chou2 yun2 can3 dan4 yu3 lai2 ji2 ， ming2 he4 yi4 sheng1 tian1 wei4 qing2 。
 
 ## 注释
 

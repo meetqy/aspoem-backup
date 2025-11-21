@@ -6,29 +6,21 @@ titleSlug: ti-jun-shan-ai-song-xuan
 author: 李呂
 authorPinyin: li3 lü3
 authorSlug: li-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青青窗外松，高下如羽蓋。
-- 不論霜雪晨，屹立風雨外。
-- 深根養茯苓，千歲坐可待。
-- 世情苦炎凉，一日幾變態。
-- 此物獨堅貞，雅志在久耐。
-- 清聲萬壑傳，時奏莊生籟。
+- 嘗愛山間老喬松，棲煙宿雨盤虬龍。
+- 道人所愛偶相似，許我來此聽松風。
 
 ## 拼音
 
-- qing1 qing1 chuang1 wai4 song1 ， gao1 xia4 ru2 yu3 gai4 。
-- bu2 lun4 shuang1 xue3 chen2 ， yi4 li4 feng1 yu3 wai4 。
-- shen1 gen1 yang3 fu2 ling2 ， qian1 sui4 zuo4 ke3 dai4 。
-- shi4 qing2 ku3 yan2 liang2 ， yi2 ri4 ji1 bian4 tai4 。
-- ci3 wu4 du2 jian1 zhen1 ， ya3 zhi4 zai4 jiu3 nai4 。
-- qing1 sheng1 wan4 he4 chuan2 ， shi2 zou4 zhuang1 sheng1 lai4 。
+- chang2 ai4 shan1 jian4 lao3 qiao2 song1 ， qi1 yan1 su4 yu3 pan2 qiu2 long2 。
+- dao4 ren2 suo3 ai4 ou3 xiang1 si4 ， xu1 wo3 lai2 ci3 ting1 song1 feng1 。
 
 ## 注释
 

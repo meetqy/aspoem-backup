@@ -6,10 +6,10 @@ titleSlug: ci-yun-da-ti-xing-wang-chao-feng-xi-shang-kan-mei-jian-yi
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

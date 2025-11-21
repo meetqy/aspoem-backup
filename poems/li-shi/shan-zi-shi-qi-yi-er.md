@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-er
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黑風吹海立，雲水渺三韓。
-- 蓑笠漁舟裏，無心下釣竿。
+- 拈花示病元來怕，遇酒逃禪却未真。
+- 三古絕編徒自聖，二王書法恐非臣。
 
 ## 拼音
 
-- hei1 feng1 chui1 hai3 li4 ， yun2 shui3 miao3 san1 han2 。
-- suo1 li4 yu2 zhou1 li3 ， wu2 xin1 xia4 diao4 gan1 。
+- nian1 hua1 shi4 bing4 yuan2 lai2 pa4 ， yu4 jiu3 tao2 shan4 que4 wei4 zhen1 。
+- san1 gu3 jue2 bian1 tu2 zi4 sheng4 ， er4 wang2 shu1 fa3 kong3 fei1 chen2 。
 
 ## 注释
 

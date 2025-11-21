@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李宋臣
 authorPinyin: li3 song4 chen2
 authorSlug: li-song-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

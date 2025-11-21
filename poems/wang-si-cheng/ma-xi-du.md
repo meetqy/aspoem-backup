@@ -6,9 +6,9 @@ titleSlug: ma-xi-du
 author: 汪寺丞
 authorPinyin: wang1 si4 cheng2
 authorSlug: wang-si-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

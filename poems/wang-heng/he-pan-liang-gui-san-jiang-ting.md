@@ -6,10 +6,10 @@ titleSlug: he-pan-liang-gui-san-jiang-ting
 author: 王珩
 authorPinyin: wang2 heng2
 authorSlug: wang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

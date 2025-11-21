@@ -1,30 +1,26 @@
 ---
 id: lu-you-shu-shi-er-shou-qi-yi
-title: 書適二首  其一
+title: 書事二首  其一
 titlePinyin: shu1 shi4 er4 shou3     qi2 yi1
 titleSlug: shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老翁垂七十，其實似童兒。
-- 山果啼呼覓，鄉儺喜笑隨。
-- 群嬉累瓦塔，獨立照盆池。
-- 更挾殘書讀，渾如上學時。
+- 本來只道千鈞重，看破元無一羽輕。
+- 日月光明天廣大，不妨嘯傲過平生。
 
 ## 拼音
 
-- lao3 weng1 chui2 qi1 shi2 ， qi2 shi2 si4 tong2 er2 。
-- shan1 guo3 ti2 hu1 mi4 ， xiang1 nuo2 xi3 xiao4 sui2 。
-- qun2 xi1 lei4 wa3 ta3 ， du2 li4 zhao4 pen2 chi2 。
-- geng4 xie2 can2 shu1 du2 ， hun2 ru2 shang4 xue2 shi2 。
+- ben3 lai2 zhi1 dao4 qian1 jun1 zhong4 ， kan4 po4 yuan2 wu2 yi4 yu3 qing1 。
+- ri4 yue4 guang1 ming2 tian1 guang3 da4 ， bu4 fang2 xiao4 ao4 guo4 ping2 sheng1 。
 
 ## 注释
 

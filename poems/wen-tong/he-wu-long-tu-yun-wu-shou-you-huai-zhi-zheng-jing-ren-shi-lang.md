@@ -1,14 +1,14 @@
 ---
 id: wen-tong-he-wu-long-tu-yun-wu-shou-you-huai-zhi-zheng-jing-ren-shi-lang
-title: 和吳龍圖韵五首・有懷致政景仁侍郎
-titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3・you3 huai2 zhi4 zheng4 jing3 ren2 shi4 lang2
+title: 和吳龍圖韵五首 有懷致政景仁侍郎
+titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3   you3 huai2 zhi4 zheng4 jing3 ren2 shi4 lang2
 titleSlug: he-wu-long-tu-yun-wu-shou-you-huai-zhi-zheng-jing-ren-shi-lang
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: you-dong-shan-yuan
 author: 郭某
 authorPinyin: guo1 mou3
 authorSlug: guo-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

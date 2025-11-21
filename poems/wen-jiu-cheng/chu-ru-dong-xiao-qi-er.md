@@ -6,10 +6,10 @@ titleSlug: chu-ru-dong-xiao-qi-er
 author: 聞九成
 authorPinyin: wen2 jiu3 cheng2
 authorSlug: wen-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

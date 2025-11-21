@@ -6,10 +6,10 @@ titleSlug: ju
 author: 郭建德
 authorPinyin: guo1 jian4 de2
 authorSlug: guo-jian-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

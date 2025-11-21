@@ -6,10 +6,10 @@ titleSlug: shi-ba-nan-wu-wen-ying-yu-yan-dang-wen-shou-shi-mu-zhi-yi-shi-jian-ji
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

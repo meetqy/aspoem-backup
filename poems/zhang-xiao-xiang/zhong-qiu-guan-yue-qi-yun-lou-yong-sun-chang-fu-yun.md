@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-guan-yue-qi-yun-lou-yong-sun-chang-fu-yun
 author: 張孝祥
 authorPinyin: zhang1 xiao4 xiang2
 authorSlug: zhang-xiao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

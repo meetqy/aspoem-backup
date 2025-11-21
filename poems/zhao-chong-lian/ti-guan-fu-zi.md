@@ -6,10 +6,10 @@ titleSlug: ti-guan-fu-zi
 author: 趙崇璉
 authorPinyin: zhao4 chong2 lian3
 authorSlug: zhao-chong-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

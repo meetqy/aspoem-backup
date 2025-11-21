@@ -6,10 +6,10 @@ titleSlug: hua-shan-wei-gong-yuan
 author: 李公異
 authorPinyin: li3 gong1 yi4
 authorSlug: li-gong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

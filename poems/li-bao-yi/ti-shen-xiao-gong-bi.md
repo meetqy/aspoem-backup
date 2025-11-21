@@ -6,9 +6,9 @@ titleSlug: ti-shen-xiao-gong-bi
 author: 李抱一
 authorPinyin: li3 bao4 yi1
 authorSlug: li-bao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

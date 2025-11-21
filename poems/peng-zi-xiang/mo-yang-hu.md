@@ -6,10 +6,10 @@ titleSlug: mo-yang-hu
 author: 彭子翔
 authorPinyin: peng2 zi3 xiang2
 authorSlug: peng-zi-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: dao-you-weng
 author: 陳諤
 authorPinyin: chen2 e4
 authorSlug: chen-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

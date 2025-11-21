@@ -6,10 +6,10 @@ titleSlug: ci-zhong-ji
 author: 釋普交
 authorPinyin: shi4 pu3 jiao1
 authorSlug: shi-pu-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

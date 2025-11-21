@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-si-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 古來高逸士，數目幾多人。
-- 積德千花秀，溫良七寶珍。
-- 緣因終可作，好事福齊臻。
-- 宇內光陰速，仙天夜月春。
+- 心如明鑑照纖微，大道之中沒是非。
+- 拂拭塵埃高挂閣，天邊日月有光輝。
 
 ## 拼音
 
-- gu3 lai2 gao1 yi4 shi4 ， shu4 mu4 ji1 duo1 ren2 。
-- ji1 de2 qian1 hua1 xiu4 ， wen1 liang2 qi1 bao3 zhen1 。
-- yuan2 yin1 zhong1 ke3 zuo4 ， hao3 shi4 fu2 qi2 zhen1 。
-- yu3 nei4 guang1 yin1 su4 ， xian1 tian1 ye4 yue4 chun1 。
+- xin1 ru2 ming2 jian4 zhao4 xian1 wei1 ， da4 dao4 zhi1 zhong1 mei2 shi4 fei1 。
+- fu2 shi4 chen2 ai1 gao1 gua4 ge2 ， tian1 bian1 ri4 yue4 you3 guang1 hui1 。
 
 ## 注释
 

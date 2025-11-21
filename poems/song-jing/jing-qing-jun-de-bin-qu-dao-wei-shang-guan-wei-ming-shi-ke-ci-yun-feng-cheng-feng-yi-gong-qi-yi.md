@@ -6,10 +6,10 @@ titleSlug: jing-qing-jun-de-bin-qu-dao-wei-shang-guan-wei-ming-shi-ke-ci-yun-fen
 author: 宋京
 authorPinyin: song4 jing1
 authorSlug: song-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

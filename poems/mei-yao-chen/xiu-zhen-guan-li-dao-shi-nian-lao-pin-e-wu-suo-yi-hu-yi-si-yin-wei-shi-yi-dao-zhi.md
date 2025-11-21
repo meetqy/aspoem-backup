@@ -6,10 +6,10 @@ titleSlug: xiu-zhen-guan-li-dao-shi-nian-lao-pin-e-wu-suo-yi-hu-yi-si-yin-wei-sh
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

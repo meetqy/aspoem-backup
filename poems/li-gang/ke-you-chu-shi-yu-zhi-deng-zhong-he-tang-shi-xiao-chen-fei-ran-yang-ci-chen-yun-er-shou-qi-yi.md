@@ -6,10 +6,10 @@ titleSlug: ke-you-chu-shi-yu-zhi-deng-zhong-he-tang-shi-xiao-chen-fei-ran-yang-c
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

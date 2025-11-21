@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人惠九臯禽，應節每對舞。
-- 縶彼雲漢心，成我閑靜趣。
-- 六翮不忍剪，深徑任翔翥。
-- 一舉遨天風，應到逍遥處。
+- 冰壺凍欲裂，霜風凌雪屋。
+- 牛鬭攪夕眠，缾笙不成曲。
+- 平生湖海心，弗受車轅促。
+- 晨興且探梅，不憚肌生粟。
 
 ## 拼音
 
-- ren2 hui4 jiu3 gao1 qin2 ， ying1 jie2 mei3 dui4 wu3 。
-- zhi2 bi3 yun2 han4 xin1 ， cheng2 wo3 xian2 jing4 qu4 。
-- liu4 he2 bu4 ren3 jian3 ， shen1 jing4 ren4 xiang2 zhu4 。
-- yi4 ju3 ao2 tian1 feng1 ， ying1 dao4 xiao1 yao2 chu3 。
+- bing1 hu2 dong4 yu4 lie4 ， shuang1 feng1 ling2 xue3 wu1 。
+- niu2 dou4 jiao3 xi1 mian2 ， ping2 sheng1 bu4 cheng2 qu3 。
+- ping2 sheng1 hu2 hai3 xin1 ， fu2 shou4 ju1 yuan2 cu4 。
+- chen2 xing1 qie3 tan4 mei2 ， bu2 dan4 ji1 sheng1 su4 。
 
 ## 注释
 

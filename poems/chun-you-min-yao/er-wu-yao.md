@@ -6,10 +6,10 @@ titleSlug: er-wu-yao
 author: 淳祐民謠
 authorPinyin: chun2 you4 min2 yao2
 authorSlug: chun-you-min-yao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

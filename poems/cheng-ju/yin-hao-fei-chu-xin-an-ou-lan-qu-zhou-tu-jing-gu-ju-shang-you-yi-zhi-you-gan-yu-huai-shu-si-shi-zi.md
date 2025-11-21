@@ -6,10 +6,10 @@ titleSlug: yin-hao-fei-chu-xin-an-ou-lan-qu-zhou-tu-jing-gu-ju-shang-you-yi-zhi-
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

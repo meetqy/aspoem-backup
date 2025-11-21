@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄭雍
 authorPinyin: zheng4 yong1
 authorSlug: zheng-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

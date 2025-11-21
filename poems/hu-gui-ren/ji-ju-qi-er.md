@@ -6,10 +6,10 @@ titleSlug: ji-ju-qi-er
 author: 胡歸仁
 authorPinyin: hu2 gui1 ren2
 authorSlug: hu-gui-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

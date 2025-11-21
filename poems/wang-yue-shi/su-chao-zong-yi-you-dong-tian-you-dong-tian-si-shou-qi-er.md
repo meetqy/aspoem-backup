@@ -6,10 +6,10 @@ titleSlug: su-chao-zong-yi-you-dong-tian-you-dong-tian-si-shou-qi-er
 author: 王越石
 authorPinyin: wang2 yue4 shi2
 authorSlug: wang-yue-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

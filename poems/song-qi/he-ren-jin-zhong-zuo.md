@@ -6,21 +6,21 @@ titleSlug: he-ren-jin-zhong-zuo
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鈞曲來深殿，宮花出御溝。
-- 雲天正如畫，壁月在西樓。
+- 前殿籠童晝鼓賒，對論兵食近袍紗。
+- 此時刻意言頗牧，不爲雲中首級差。
 
 ## 拼音
 
-- jun1 qu3 lai2 shen1 dian4 ， gong1 hua1 chu1 yu4 gou1 。
-- yun2 tian1 zheng4 ru2 hua4 ， bi4 yue4 zai4 xi1 lou2 。
+- qian2 dian4 long2 tong2 zhou4 gu3 she1 ， dui4 lun4 bing1 shi2 jin4 pao2 sha1 。
+- ci3 shi2 ke4 yi4 yan2 po1 mu4 ， bu4 wei2 yun2 zhong1 shou3 ji2 cha4 。
 
 ## 注释
 

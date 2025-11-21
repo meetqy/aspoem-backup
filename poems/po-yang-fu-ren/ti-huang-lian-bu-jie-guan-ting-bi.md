@@ -6,9 +6,9 @@ titleSlug: ti-huang-lian-bu-jie-guan-ting-bi
 author: 鄱陽婦人
 authorPinyin: po2 yang2 fu4 ren2
 authorSlug: po-yang-fu-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,29 @@ titleSlug: zhai-zhong-za-ti-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 棐几硯涵鸜鵒眼，古奩香斮鷓鴣斑。
-- 絕知造物殷勤意，成就衰翁到死閑。
+- 書生每苦饑，得飯已可賀。
+- 黄齏三百甕，自是天所破。
+- 有時尚不繼，得米無暇簸。
+- 昨者雪塞門，烟絕但僵卧。
+- 雖云迫溝壑，老學不敢惰。
+- 夜分喚鄰翁，我歌爾當和。
 
 ## 拼音
 
-- fei3 ji3 yan4 han2 qu2 yu4 yan3 ， gu3 lian2 xiang1 zhuo2 zhe4 gu1 ban1 。
-- jue2 zhi1 zao4 wu4 yin1 qin2 yi4 ， cheng2 jiu4 shuai1 weng1 dao4 si3 xian2 。
+- shu1 sheng1 mei3 ku3 ji1 ， de2 fan4 yi3 ke3 he4 。
+- huang2 ji1 san1 bai3 weng4 ， zi4 shi4 tian1 suo3 po4 。
+- you3 shi2 shang4 bu2 ji4 ， de2 mi3 wu2 xia2 bo4 。
+- zuo2 zhe3 xue3 sai1 men2 ， yan1 jue2 dan4 jiang1 wo4 。
+- sui1 yun2 po4 gou1 he4 ， lao3 xue2 bu4 gan3 duo4 。
+- ye4 fen1 huan4 lin2 weng1 ， wo3 ge1 er3 dang1 he2 。
 
 ## 注释
 

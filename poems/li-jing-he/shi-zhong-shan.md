@@ -6,10 +6,10 @@ titleSlug: shi-zhong-shan
 author: 李景和
 authorPinyin: li3 jing3 he2
 authorSlug: li-jing-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

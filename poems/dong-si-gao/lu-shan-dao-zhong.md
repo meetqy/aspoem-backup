@@ -6,25 +6,21 @@ titleSlug: lu-shan-dao-zhong
 author: 董嗣杲
 authorPinyin: dong3 si4 gao3
 authorSlug: dong-si-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 疊疊蒼巒别是天，往來即是地行仙。
-- 撥雲峰底落紅雨，冷翠谷中浮紫烟。
-- 樹色浄依山色古，樵聲清共瀑聲傳。
-- 逺公不作淵明醉，結社徒然懐白蓮。
+- 偶呼鄰稚携竹杖，試入仙窟尋桃源。
+- 日斜小憩冷翠谷，驚散掛樹黄黒猿。
 
 ## 拼音
 
-- die2 die2 cang1 luan2 bie2 shi4 tian1 ， wang3 lai2 ji2 shi4 di4 xing2 xian1 。
-- bo1 yun2 feng1 di3 luo4 hong2 yu3 ， leng3 cui4 gu3 zhong1 fu2 zi3 yan1 。
-- shu4 se4 jing4 yi1 shan1 se4 gu3 ， qiao2 sheng1 qing1 gong4 pu4 sheng1 chuan2 。
-- yuan3 gong1 bu2 zuo4 yuan1 ming2 zui4 ， jie2 she4 tu2 ran2 huai2 bai2 lian2 。
+- ou3 hu1 lin2 zhi4 xie2 zhu2 zhang4 ， shi4 ru4 xian1 ku1 xun2 tao2 yuan2 。
+- ri4 xie2 xiao3 qi4 leng3 cui4 gu3 ， jing1 san4 gua4 shu4 huang2 hei1 yuan2 。
 
 ## 注释
 

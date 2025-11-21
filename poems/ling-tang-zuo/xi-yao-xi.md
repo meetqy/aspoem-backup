@@ -6,10 +6,10 @@ titleSlug: xi-yao-xi
 author: 凌唐佐
 authorPinyin: ling2 tang2 zuo3
 authorSlug: ling-tang-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jia-si-dao-ru-xiang
 author: 理宗庚申士人
 authorPinyin: li3 zong1 geng1 shen1 shi4 ren2
 authorSlug: li-zong-geng-shen-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

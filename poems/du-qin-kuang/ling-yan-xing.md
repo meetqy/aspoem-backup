@@ -6,10 +6,10 @@ titleSlug: ling-yan-xing
 author: 杜欽况
 authorPinyin: du4 qin1 kuang4
 authorSlug: du-qin-kuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

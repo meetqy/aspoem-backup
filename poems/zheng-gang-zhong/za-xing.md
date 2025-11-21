@@ -6,21 +6,25 @@ titleSlug: za-xing
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不似張蒼作瓠肥，衰顔白髪就昏癡。
-- 近来終日扃柴戶，静看微風過竹枝。
+- 秋風城壘小，遠望一消凝。
+- 洞客雲中路，漁舟水底燈。
+- 有鐘聊是寺，半俗不成僧。
+- 羈旅其間者，塵埃料可憎。
 
 ## 拼音
 
-- bu2 si4 zhang1 cang1 zuo4 hu4 fei2 ， shuai1 yan2 bai2 fa4 jiu4 hun1 chi1 。
-- jin4 lai2 zhong1 ri4 jiong1 chai2 hu4 ， jing4 kan4 wei1 feng1 guo4 zhu2 zhi1 。
+- qiu1 feng1 cheng2 lei3 xiao3 ， yuan3 wang4 yi4 xiao1 ning2 。
+- dong4 ke4 yun2 zhong1 lu4 ， yu2 zhou1 shui3 di3 deng1 。
+- you3 zhong1 liao2 shi4 si4 ， ban4 su2 bu4 cheng2 seng1 。
+- ji1 lü3 qi2 jian4 zhe3 ， chen2 ai1 liao4 ke3 zeng1 。
 
 ## 注释
 

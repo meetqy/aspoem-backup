@@ -6,10 +6,10 @@ titleSlug: bang-heng-zhi-ji-huai-yi-hui-er-shi-zai-ci-yun-er-shou-yi-song-qi-shu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

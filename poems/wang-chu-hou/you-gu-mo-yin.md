@@ -6,9 +6,9 @@ titleSlug: you-gu-mo-yin
 author: 王處厚
 authorPinyin: wang2 chu3 hou4
 authorSlug: wang-chu-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

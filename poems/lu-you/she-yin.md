@@ -6,25 +6,25 @@ titleSlug: she-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東作初占嗣歲宜，蠶官又近乞靈時。
-- 傾家釀酒無遺力，倒社迎神盡及期。
-- 先醉後醒驚老憊，路長足蹇嘆歸遲。
-- 西村漸過新塘近，宿鳥歸飛已滿枝。
+- 世上升沉一轆轤，古來成敗幾樗蒱。
+- 試看大醉稱賢相，始信常醒是鄙夫。
+- 起舞非無垂白伴，暮歸仍有髧髦扶。
+- 即今不乏丹青手，誰畫三山社飲圖。
 
 ## 拼音
 
-- dong1 zuo4 chu1 zhan4 si4 sui4 yi2 ， can2 guan1 you4 jin4 qi3 ling2 shi2 。
-- qing1 jia1 niang4 jiu3 wu2 yi2 li4 ， dao3 she4 ying2 shen2 jin4 ji2 qi1 。
-- xian1 zui4 hou4 xing3 jing1 lao3 bei4 ， lu4 chang2 zu2 jian3 tan4 gui1 chi2 。
-- xi1 cun1 jian4 guo4 xin1 tang2 jin4 ， su4 niao3 gui1 fei1 yi3 man3 zhi1 。
+- shi4 shang4 sheng1 chen2 yi2 lu4 lu2 ， gu3 lai2 cheng2 bai4 ji1 chu1 pu2 。
+- shi4 kan4 da4 zui4 cheng1 xian2 xiang1 ， shi3 xin4 chang2 xing3 shi4 bi3 fu1 。
+- qi3 wu3 fei1 wu2 chui2 bai2 ban4 ， mu4 gui1 reng2 you3 dan4 mao2 fu2 。
+- ji2 jin1 bu4 fa2 dan1 qing1 shou3 ， shui2 hua4 san1 shan1 she4 yin3 tu2 。
 
 ## 注释
 

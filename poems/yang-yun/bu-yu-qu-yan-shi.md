@@ -6,10 +6,10 @@ titleSlug: bu-yu-qu-yan-shi
 author: 楊允
 authorPinyin: yang2 yun3
 authorSlug: yang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

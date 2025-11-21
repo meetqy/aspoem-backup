@@ -6,10 +6,10 @@ titleSlug: du-lan-gao-xian-sheng-ji
 author: 繆志道
 authorPinyin: mou2 zhi4 dao4
 authorSlug: mou-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

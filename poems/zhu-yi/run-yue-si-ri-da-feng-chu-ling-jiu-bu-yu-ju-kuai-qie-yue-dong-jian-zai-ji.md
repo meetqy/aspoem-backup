@@ -6,9 +6,9 @@ titleSlug: run-yue-si-ri-da-feng-chu-ling-jiu-bu-yu-ju-kuai-qie-yue-dong-jian-za
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

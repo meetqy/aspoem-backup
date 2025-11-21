@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 洛橋晴影覆江船，羌笛秋聲濕塞烟。
-- 閑想習池公宴罷，水蒲風絮夕陽天。
+- 高出軍營遠映橋，賊兵曾斫火曾燒。
+- 風流性在終難改，依舊春來萬萬條。
 
 ## 拼音
 
-- luo4 qiao2 qing2 ying3 fu4 jiang1 chuan2 ， qiang1 di2 qiu1 sheng1 shi1 sai1 yan1 。
-- xian2 xiang3 xi2 chi2 gong1 yan4 ba4 ， shui3 pu2 feng1 xu4 xi1 yang2 tian1 。
+- gao1 chu1 jun1 ying2 yuan3 ying4 qiao2 ， zei2 bing1 ceng2 zhuo2 huo3 ceng2 shao1 。
+- feng1 liu2 xing4 zai4 zhong1 nan2 gai3 ， yi1 jiu4 chun1 lai2 wan4 wan4 tiao2 。
 
 ## 注释
 

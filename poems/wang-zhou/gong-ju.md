@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 公居門館静，旅寄萬州城。
-- 山共秋煙紫，霜并夜月清。
+- 公居門館靜，旅寄萬州城。
+- 山共秋煙紫，霜幷夜月清。
 - 無愁干酒律，有句入詩評。
 - 何必須林下，方馳吏隱名。
 

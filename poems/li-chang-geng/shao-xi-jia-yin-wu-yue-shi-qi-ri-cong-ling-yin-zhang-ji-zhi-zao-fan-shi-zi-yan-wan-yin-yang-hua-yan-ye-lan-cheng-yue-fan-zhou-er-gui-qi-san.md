@@ -6,10 +6,10 @@ titleSlug: shao-xi-jia-yin-wu-yue-shi-qi-ri-cong-ling-yin-zhang-ji-zhi-zao-fan-s
 author: 李長庚
 authorPinyin: li3 chang2 geng1
 authorSlug: li-chang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

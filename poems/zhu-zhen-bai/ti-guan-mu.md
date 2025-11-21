@@ -6,9 +6,9 @@ titleSlug: ti-guan-mu
 author: 朱貞白
 authorPinyin: zhu1 zhen1 bai2
 authorSlug: zhu-zhen-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

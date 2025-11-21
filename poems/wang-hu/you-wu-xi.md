@@ -6,10 +6,10 @@ titleSlug: you-wu-xi
 author: 王壺
 authorPinyin: wang2 hu2
 authorSlug: wang-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: shi-yi-shou
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 穠芳依翠萼，煥爛一庭中。
-- 零露霑如醉，殘霞照似融。
-- 丹青難下筆，造化獨留功。
-- 舞蝶迷香徑，翩翩逐晚風。
+- 十二樓藏玉蝶中，鳳凰雙宿碧梧桐。
+- 流霞淺酌留君醉，今夜吹簫第幾重。
 
 ## 拼音
 
-- nong2 fang1 yi1 cui4 e4 ， huan4 lan4 yi4 ting2 zhong1 。
-- ling2 lu4 zhan1 ru2 zui4 ， can2 xia2 zhao4 si4 rong2 。
-- dan1 qing1 nan2 xia4 bi3 ， zao4 hua4 du2 liu2 gong1 。
-- wu3 die2 mi2 xiang1 jing4 ， pian1 pian1 zhu2 wan3 feng1 。
+- shi2 er4 lou2 cang2 yu4 die2 zhong1 ， feng4 huang2 shuang1 su4 bi4 wu2 tong2 。
+- liu2 xia2 qian3 zhuo2 liu2 jun1 zui4 ， jin1 ye4 chui1 xiao1 di4 ji1 zhong4 。
 
 ## 注释
 

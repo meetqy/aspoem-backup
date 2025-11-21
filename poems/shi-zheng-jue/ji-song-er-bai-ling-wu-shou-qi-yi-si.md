@@ -1,26 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-yi-si
-title: 偈頌二百零五首  其一四
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 si4
+title: 偈頌二百零五首  其一四○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 si4 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-yi-si
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 開爐歲歲是今朝，暖氣潜通稱我曹。
-- 可惜丹霞燒木佛，翻令院主墮眉毛。
+- 浄不涉緣，照不對物。
+- 用無去來之相，混無彼我之心。
+- 穩穩密密，玲玲瓏瓏。
+- 宛轉虛玄事不彰，明暗只在影中圓。
 
 ## 拼音
 
-- kai1 lu2 sui4 sui4 shi4 jin1 zhao1 ， nuan3 qi4 qian2 tong1 cheng1 wo3 cao2 。
-- ke3 xi1 dan1 xia2 shao1 mu4 fo2 ， fan1 ling4 yuan4 zhu3 duo4 mei2 mao0 。
+- jing4 bu2 she4 yuan2 ， zhao4 bu2 dui4 wu4 。
+- yong4 wu2 qu4 lai2 zhi1 xiang1 ， hun4 wu2 bi3 wo3 zhi1 xin1 。
+- wen3 wen3 mi4 mi4 ， ling2 ling2 long2 long2 。
+- wan3 zhuan3 xu1 xuan2 shi4 bu4 zhang1 ， ming2 an4 zhi1 zai4 ying3 zhong1 yuan2 。
 
 ## 注释
 

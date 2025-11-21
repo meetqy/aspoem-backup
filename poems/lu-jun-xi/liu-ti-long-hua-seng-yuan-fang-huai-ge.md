@@ -6,10 +6,10 @@ titleSlug: liu-ti-long-hua-seng-yuan-fang-huai-ge
 author: 魯君錫
 authorPinyin: lu3 jun1 xi1
 authorSlug: lu-jun-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

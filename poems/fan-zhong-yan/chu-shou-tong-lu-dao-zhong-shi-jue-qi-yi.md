@@ -1,26 +1,26 @@
 ---
 id: fan-zhong-yan-chu-shou-tong-lu-dao-zhong-shi-jue-qi-yi
-title: 出守桐廬道中十絕  其一
-titlePinyin: chu1 shou3 tong2 lu2 dao4 zhong1 shi2 jue2     qi2 yi1
+title: 出守桐廬道中十絕  其一○
+titlePinyin: chu1 shou3 tong2 lu2 dao4 zhong1 shi2 jue2     qi2 yi1 ○
 titleSlug: chu-shou-tong-lu-dao-zhong-shi-jue-qi-yi
 author: 范仲淹
 authorPinyin: fan4 zhong4 yan1
 authorSlug: fan-zhong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 隴上带經人，金門齒諫臣。
-- 雷霆日有犯，始可報君親。
+- 風塵日已遠，郡枕子陵溪。
+- 始見神龜樂，優優尾在泥。
 
 ## 拼音
 
-- long3 shang4 dai4 jing1 ren2 ， jin1 men2 chi3 jian4 chen2 。
-- lei2 ting2 ri4 you3 fan4 ， shi3 ke3 bao4 jun1 qin1 。
+- feng1 chen2 ri4 yi3 yuan3 ， jun4 zhen3 zi3 ling2 xi1 。
+- shi3 jian4 shen2 gui1 le4 ， you1 you1 wei3 zai4 ni2 。
 
 ## 注释
 

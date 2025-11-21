@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-xu-zi-li-ti-ju-ying-hua-ting-qi-san
-title: 次韻徐子禮提舉鶑花亭・其三
-titlePinyin: ci4 yun4 xu2 zi3 li3 ti2 ju3 ying1 hua1 ting2・qi2 san1
+title: 次韻徐子禮提舉鶑花亭  其三
+titlePinyin: ci4 yun4 xu2 zi3 li3 ti2 ju3 ying1 hua1 ting2     qi2 san1
 titleSlug: ci-yun-xu-zi-li-ti-ju-ying-hua-ting-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

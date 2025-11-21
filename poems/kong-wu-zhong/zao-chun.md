@@ -6,25 +6,25 @@ titleSlug: zao-chun
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲探年光好，春風入酒帘。
-- 寒威隨雪解，芳意逐情添。
-- 塞雁今回陣，冰魚稍出潛。
-- 王孫幽興動，顔巷自安恬。
+- 密雨霏霏欲結霖，洒開青帝發生心。
+- 風吹嫩草迸微緑，雷碾長空破積陰。
+- 啼鳥隨陽聲自得，卧龍思海意尤深。
+- 更看三月桃花浪，舊鬛凌雲在尺尋。
 
 ## 拼音
 
-- yu4 tan4 nian2 guang1 hao3 ， chun1 feng1 ru4 jiu3 lian2 。
-- han2 wei1 sui2 xue3 jie3 ， fang1 yi4 zhu2 qing2 tian1 。
-- sai1 yan4 jin1 hui2 zhen4 ， bing1 yu2 shao1 chu1 qian2 。
-- wang2 sun1 you1 xing1 dong4 ， yan2 xiang4 zi4 an1 tian2 。
+- mi4 yu3 fei1 fei1 yu4 jie2 lin2 ， sa3 kai1 qing1 di4 fa1 sheng1 xin1 。
+- feng1 chui1 nen4 cao3 beng4 wei1 lü4 ， lei2 nian3 chang2 kong1 po4 ji1 yin1 。
+- ti2 niao3 sui2 yang2 sheng1 zi4 de2 ， wo4 long2 si1 hai3 yi4 you2 shen1 。
+- geng4 kan4 san1 yue4 tao2 hua1 lang4 ， jiu4 lie4 ling2 yun2 zai4 chi3 xun2 。
 
 ## 注释
 

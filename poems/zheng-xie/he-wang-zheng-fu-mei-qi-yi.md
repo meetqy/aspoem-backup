@@ -1,26 +1,26 @@
 ---
 id: zheng-xie-he-wang-zheng-fu-mei-qi-yi
-title: 和汪正夫梅  其一
-titlePinyin: he2 wang1 zheng4 fu1 mei2     qi2 yi1
+title: 和汪正夫梅  其一○
+titlePinyin: he2 wang1 zheng4 fu1 mei2     qi2 yi1 ○
 titleSlug: he-wang-zheng-fu-mei-qi-yi
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少陵老杜獨憐才，長句還如鐵馬來。
-- 酒味漸佳春漸好，苦教陸凱咏寒梅。
+- 詩入鷄林白傅才，當年曾佩左符來。
+- 尊前依舊江山好，不見章臺驛使梅。
 
 ## 拼音
 
-- shao3 ling2 lao3 du4 du2 lian2 cai2 ， chang2 ju4 huan2 ru2 tie3 ma3 lai2 。
-- jiu3 wei4 jian4 jia1 chun1 jian4 hao3 ， ku3 jiao4 lu4 kai3 yong3 han2 mei2 。
+- shi1 ru4 ji1 lin2 bai2 fu4 cai2 ， dang1 nian2 ceng2 pei4 zuo3 fu2 lai2 。
+- zun1 qian2 yi1 jiu4 jiang1 shan1 hao3 ， bu2 jian4 zhang1 tai2 yi4 shi3 mei2 。
 
 ## 注释
 

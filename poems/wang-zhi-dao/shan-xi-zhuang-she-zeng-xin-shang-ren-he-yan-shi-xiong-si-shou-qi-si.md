@@ -6,9 +6,9 @@ titleSlug: shan-xi-zhuang-she-zeng-xin-shang-ren-he-yan-shi-xiong-si-shou-qi-si
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

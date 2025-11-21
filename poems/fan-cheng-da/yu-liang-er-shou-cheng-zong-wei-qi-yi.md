@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-yu-liang-er-shou-cheng-zong-wei-qi-yi
-title: 雨凉二首呈宗偉・其一
-titlePinyin: yu3 liang2 er4 shou3 cheng2 zong1 wei3・qi2 yi1
+title: 雨凉二首呈宗偉  其一
+titlePinyin: yu3 liang2 er4 shou3 cheng2 zong1 wei3     qi2 yi1
 titleSlug: yu-liang-er-shou-cheng-zong-wei-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: liu-ti-nan-shan
 author: 時彥
 authorPinyin: shi2 yan4
 authorSlug: shi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

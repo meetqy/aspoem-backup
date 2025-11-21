@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳童登
 authorPinyin: chen2 tong2 deng1
 authorSlug: chen-tong-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-wu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 上下三指，彼此七馬。
-- 眼見如盲，口說如啞。
-- 拄杖子忍俊不禁，等閑捉敗。
-- 休休，盡法恐無民，且放天寒赦。
+- 韓柳肺腸，蘇黄骨髓。
+- 點著禪衣，香風匝地。
+- 七十二峰增秀氣。
 
 ## 拼音
 
-- shang4 xia4 san1 zhi3 ， bi3 ci3 qi1 ma3 。
-- yan3 jian4 ru2 mang2 ， kou3 shuo1 ru2 ya3 。
-- zhu3 zhang4 zi3 ren3 jun4 bu4 jin1 ， deng3 xian2 zhuo1 bai4 。
-- xiu1 xiu1 ， jin4 fa3 kong3 wu2 min2 ， qie3 fang4 tian1 han2 she4 。
+- han2 liu3 fei4 chang2 ， su1 huang2 gu3 sui3 。
+- dian3 zhu4 shan4 yi1 ， xiang1 feng1 za1 di4 。
+- qi1 shi2 er4 feng1 zeng1 xiu4 qi4 。
 
 ## 注释
 

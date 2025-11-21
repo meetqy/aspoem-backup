@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-huang-di-ge-qi-san
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暖律催花蘤，晴暉活柳枝。
-- 發生雖有信，造化本無私。
+- 選德庭前柳，朝來漏泄春。
+- 等閑施御箭，穿葉捷於神。
 
 ## 拼音
 
-- nuan3 lü4 cui1 hua1 hua1 ， qing2 hui1 huo2 liu3 zhi1 。
-- fa1 sheng1 sui1 you3 xin4 ， zao4 hua4 ben3 wu2 si1 。
+- xuan3 de2 ting2 qian2 liu3 ， chao2 lai2 lou4 xie4 chun1 。
+- deng3 xian2 shi1 yu4 jian4 ， chuan1 ye4 jie2 wu1 shen2 。
 
 ## 注释
 

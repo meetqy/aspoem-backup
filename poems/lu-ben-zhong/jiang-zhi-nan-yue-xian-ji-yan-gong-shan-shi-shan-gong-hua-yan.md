@@ -6,10 +6,10 @@ titleSlug: jiang-zhi-nan-yue-xian-ji-yan-gong-shan-shi-shan-gong-hua-yan
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

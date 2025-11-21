@@ -6,25 +6,21 @@ titleSlug: he-zhao-ji-zhong
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 入室芝蘭氣不殊，逢君還憶見君初。
-- 梅花正喜春懸鳯，藿葉俄同夏鱠魚。
-- 下榻舊聞看孺子，負荆誰復謝相如。
-- 艱難正詘平戎策，及早東游叩帝居。
+- 日下高城月入扉，蒲葵不動晚風微。
+- 幽人信步如相過，買酒黄公一醉歸。
 
 ## 拼音
 
-- ru4 shi4 zhi1 lan2 qi4 bu4 shu1 ， feng2 jun1 huan2 yi4 jian4 jun1 chu1 。
-- mei2 hua1 zheng4 xi3 chun1 xuan2 feng4 ， huo4 ye4 e2 tong2 xia4 kuai4 yu2 。
-- xia4 ta4 jiu4 wen2 kan4 ru2 zi3 ， fu4 jing1 shui2 fu4 xie4 xiang1 ru2 。
-- jian1 nan2 zheng4 qu1 ping2 rong2 ce4 ， ji2 zao3 dong1 you2 kou4 di4 ju1 。
+- ri4 xia4 gao1 cheng2 yue4 ru4 fei1 ， pu2 kui2 bu2 dong4 wan3 feng1 wei1 。
+- you1 ren2 xin4 bu4 ru2 xiang1 guo4 ， mai3 jiu3 huang2 gong1 yi2 zui4 gui1 。
 
 ## 注释
 

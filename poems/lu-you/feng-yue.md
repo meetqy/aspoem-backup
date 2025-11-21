@@ -6,29 +6,21 @@ titleSlug: feng-yue
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老来苦無伴，風月獨見知。
-- 未嘗費招呼，到處相娛嬉。
-- 披襟萬里快，弄影三更奇。
-- 淋漓蜀苑酒，散落江樓詩。
-- 狂歌撼山川，醉墨飛蛟螭。
-- 聊將調俗子，更遣半生疑。
+- 鏡中日日鬢毛衰，八十還思七十時。
+- 風月不知人意緒，酒醒夢斷又催詩。
 
 ## 拼音
 
-- lao3 lai2 ku3 wu2 ban4 ， feng1 yue4 du2 jian4 zhi1 。
-- wei4 chang2 fei4 zhao1 hu0 ， dao4 chu3 xiang1 yu2 xi1 。
-- pi1 jin1 wan4 li3 kuai4 ， nong4 ying3 san1 geng1 qi2 。
-- lin2 li2 shu3 yuan4 jiu3 ， san4 luo4 jiang1 lou2 shi1 。
-- kuang2 ge1 han4 shan1 chuan1 ， zui4 mo4 fei1 jiao1 chi1 。
-- liao2 jiang1 diao4 su2 zi3 ， geng4 qian3 ban4 sheng1 yi2 。
+- jing4 zhong1 ri4 ri4 bin4 mao2 shuai1 ， ba1 shi2 huan2 si1 qi1 shi2 shi2 。
+- feng1 yue4 bu4 zhi1 ren2 yi4 xu4 ， jiu3 xing3 meng4 duan4 you4 cui1 shi1 。
 
 ## 注释
 

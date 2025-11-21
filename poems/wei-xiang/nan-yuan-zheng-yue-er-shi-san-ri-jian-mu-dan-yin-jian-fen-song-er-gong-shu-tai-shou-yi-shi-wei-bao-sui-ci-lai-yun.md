@@ -6,10 +6,10 @@ titleSlug: nan-yuan-zheng-yue-er-shi-san-ri-jian-mu-dan-yin-jian-fen-song-er-gon
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

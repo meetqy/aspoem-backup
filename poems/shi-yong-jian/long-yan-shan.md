@@ -6,10 +6,10 @@ titleSlug: long-yan-shan
 author: 石泳堅
 authorPinyin: shi2 yong3 jian1
 authorSlug: shi-yong-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

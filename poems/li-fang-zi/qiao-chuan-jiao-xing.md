@@ -6,10 +6,10 @@ titleSlug: qiao-chuan-jiao-xing
 author: 李方子
 authorPinyin: li3 fang1 zi0
 authorSlug: li-fang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

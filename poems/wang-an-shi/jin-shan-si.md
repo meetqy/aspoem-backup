@@ -6,25 +6,57 @@ titleSlug: jin-shan-si
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 重經高處寺，一與白雲親。
-- 樹木有春意，江山如故人。
-- 幽軒含氣象，偏影落風塵。
-- 日暮臨歸去，徘徊欲損神。
+- 招提憑高岡，四面斷行旅。
+- 勝地猶在險，浮梁裊相拄。
+- 大江當我前，颭灧翠綃舞。
+- 通流與厨會，甘美勝牛乳。
+- 扣欄出黿鼉，幽姿可時睹。
+- 夜深殿突兀，太微凝帝宇。
+- 壁立兩崖對，迢迢隔雲雨。
+- 天多剩得月，月落聞津鼓。
+- 夜風一何喧，大舶夾雙艣。
+- 顛沉在須臾，我自檝迎汝。
+- 始知像教力，但度無所苦。
+- 憶昨狼狽初，只見石與土。
+- 榮華一朝盡，土梗空俯僂。
+- 人事隨轉燭，蒼茫竟誰主。
+- 咄嗟檀施開，繡楹盤萬礎。
+- 高閣切星辰，新秋照牛女。
+- 湯休起我病，轉上青天去。
+- 攝身凌蒼霞，同憑朱欄語。
+- 我歌爾其聆，幽憤得一吐。
+- 誰言張處士，雄筆映千古。
 
 ## 拼音
 
-- zhong4 jing1 gao1 chu3 si4 ， yi4 yu3 bai2 yun2 qin1 。
-- shu4 mu4 you3 chun1 yi4 ， jiang1 shan1 ru2 gu4 ren2 。
-- you1 xuan1 han2 qi4 xiang4 ， pian1 ying3 luo4 feng1 chen2 。
-- ri4 mu4 lin2 gui1 qu4 ， pai2 huai2 yu4 sun3 shen2 。
+- zhao1 ti2 ping2 gao1 gang1 ， si4 mian4 duan4 xing2 lü3 。
+- sheng4 di4 you2 zai4 xian3 ， fu2 liang2 niao3 xiang1 zhu3 。
+- da4 jiang1 dang1 wo3 qian2 ， zhan3 yan4 cui4 xiao1 wu3 。
+- tong1 liu2 yu3 chu2 hui4 ， gan1 mei3 sheng4 niu2 ru3 。
+- kou4 lan2 chu1 yuan2 tuo2 ， you1 zi1 ke3 shi2 du3 。
+- ye4 shen1 dian4 tu1 wu4 ， tai4 wei1 ning2 di4 yu3 。
+- bi4 li4 liang3 ya2 dui4 ， tiao2 tiao2 ge2 yun2 yu3 。
+- tian1 duo1 sheng4 de2 yue4 ， yue4 luo4 wen2 jin1 gu3 。
+- ye4 feng1 yi4 he2 xuan1 ， da4 bo2 jia1 shuang1 lu3 。
+- dian1 chen2 zai4 xu1 yu2 ， wo3 zi4 ji2 ying2 ru3 。
+- shi3 zhi1 xiang4 jiao4 li4 ， dan4 du4 wu2 suo3 ku3 。
+- yi4 zuo2 lang2 bei4 chu1 ， zhi1 jian4 shi2 yu3 tu3 。
+- rong2 hua2 yi4 zhao1 jin4 ， tu3 geng3 kong1 fu3 lü3 。
+- ren2 shi4 sui2 zhuan3 zhu2 ， cang1 mang2 jing4 shui2 zhu3 。
+- duo1 jie1 tan2 shi1 kai1 ， xiu4 ying2 pan2 wan4 chu3 。
+- gao1 ge2 qie4 xing1 chen2 ， xin1 qiu1 zhao4 niu2 nü3 。
+- tang1 xiu1 qi3 wo3 bing4 ， zhuan3 shang4 qing1 tian1 qu4 。
+- she4 shen1 ling2 cang1 xia2 ， tong2 ping2 zhu1 lan2 yu3 。
+- wo3 ge1 er3 qi2 ling2 ， you1 fen4 de2 yi4 tu3 。
+- shui2 yan2 zhang1 chu3 shi4 ， xiong2 bi3 ying4 qian1 gu3 。
 
 ## 注释
 

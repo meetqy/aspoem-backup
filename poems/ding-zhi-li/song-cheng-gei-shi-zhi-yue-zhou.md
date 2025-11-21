@@ -6,10 +6,10 @@ titleSlug: song-cheng-gei-shi-zhi-yue-zhou
 author: 丁執禮
 authorPinyin: ding1 zhi2 li3
 authorSlug: ding-zhi-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

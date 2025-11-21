@@ -6,10 +6,10 @@ titleSlug: zhi-sheng-lou
 author: 王延禧
 authorPinyin: wang2 yan2 xi3
 authorSlug: wang-yan-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

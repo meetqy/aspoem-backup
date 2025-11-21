@@ -6,10 +6,10 @@ titleSlug: lin-an-jiang-shang
 author: 方翥
 authorPinyin: fang1 zhu4
 authorSlug: fang-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju-qi-er-san
 author: 陶弼
 authorPinyin: tao2 bi4
 authorSlug: tao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

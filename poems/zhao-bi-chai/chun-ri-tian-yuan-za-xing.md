@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing
 author: 趙必拆
 authorPinyin: zhao4 bi4 chai1
 authorSlug: zhao-bi-chai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

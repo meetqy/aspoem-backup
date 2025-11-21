@@ -1,26 +1,28 @@
 ---
 id: shi-shi-ti-song-gu-er-shi-jiu-shou-qi-yi
-title: 頌古二十九首  其一
-titlePinyin: song4 gu3 er4 shi2 jiu3 shou3     qi2 yi1
+title: 頌古二十九首  其一○
+titlePinyin: song4 gu3 er4 shi2 jiu3 shou3     qi2 yi1 ○
 titleSlug: song-gu-er-shi-jiu-shou-qi-yi
 author: 釋師體
 authorPinyin: shi4 shi1 ti3
 authorSlug: shi-shi-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 走出門風相副稱，東西南北更無人。
-- 看來不得韶陽老，未免兒孫惹客塵。
+- 餓鬼鞭死屍，仙人禮枯骨。
+- 野犬吠荒丘，鐵山空突兀。
+- 六合羣靈競出頭，不知何處爲窠窟。
 
 ## 拼音
 
-- zou3 chu1 men2 feng1 xiang1 fu4 cheng1 ， dong1 xi1 nan2 bei3 geng4 wu2 ren2 。
-- kan4 lai2 bu4 de2 shao2 yang2 lao3 ， wei4 mian3 er2 sun1 re3 ke4 chen2 。
+- e4 gui3 bian1 si3 shi1 ， xian1 ren2 li3 ku1 gu3 。
+- ye3 quan3 fei4 huang1 qiu1 ， tie3 shan1 kong1 tu1 wu4 。
+- liu4 he2 qun2 ling2 jing4 chu1 tou2 ， bu4 zhi1 he2 chu3 wei2 ke1 ku1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shi-yue-guo-zhao-jue-ting-mei-xiao-ran-yi-dong-ren-yi-yin-zuo-er-shi-
 author: 李燾
 authorPinyin: li3 dao4
 authorSlug: li-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

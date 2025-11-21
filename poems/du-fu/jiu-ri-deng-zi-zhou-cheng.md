@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 伊昔黃花酒，如今白髮翁。
-- 追歡筋力異，望遠歲時同。
-- 弟妹悲歌裏，朝廷醉眼中。
-- 兵戈與關塞，此日意無窮。
+- 客心驚暮序，賓雁下襄州。
+- 共賞重陽節，言尋戲馬遊。
+- 湖風秋戍柳，江雨暗山樓。
+- 且酌東籬菊，聊祛南國愁。
 
 ## 拼音
 
-- yi1 xi1 huang2 hua1 jiu3 ， ru2 jin1 bai2 fa4 weng1 。
-- zhui1 huan1 jin1 li4 yi4 ， wang4 yuan3 sui4 shi2 tong2 。
-- di4 mei4 bei1 ge1 li3 ， chao2 ting2 zui4 yan3 zhong1 。
-- bing1 ge1 yu3 guan1 sai1 ， ci3 ri4 yi4 wu2 qiong2 。
+- ke4 xin1 jing1 mu4 xu4 ， bin1 yan4 xia4 xiang1 zhou1 。
+- gong4 shang3 zhong4 yang2 jie2 ， yan2 xun2 xi4 ma3 you2 。
+- hu2 feng1 qiu1 shu4 liu3 ， jiang1 yu3 an4 shan1 lou2 。
+- qie3 zhuo2 dong1 li2 ju2 ， liao2 qu1 nan2 guo2 chou2 。
 
 ## 注释
 

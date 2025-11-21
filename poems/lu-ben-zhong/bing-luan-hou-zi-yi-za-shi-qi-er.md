@@ -1,30 +1,30 @@
 ---
 id: lu-ben-zhong-bing-luan-hou-zi-yi-za-shi-qi-er
-title: 兵亂後自嬄雜詩  其二
-titlePinyin: bing1 luan4 hou4 zi4 yi1 za2 shi1     qi2 er4
+title: 兵亂後自嬄雜詩  其二○
+titlePinyin: bing1 luan4 hou4 zi4 yi1 za2 shi1     qi2 er4 ○
 titleSlug: bing-luan-hou-zi-yi-za-shi-qi-er
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羽檄連朝莫，戎旃匝邇遐。
-- 未教知死所，詎所作生涯。
-- 東郭同逃戶，西郊類破家。
-- 萍蓬無定跡，屢欲過三巴。
+- 平世多忘戰，今真得陣梁。
+- 燕雲擁豺虎，陸晉失金湯。
+- 漢將爭奔北，胡兵尚崛強。
+- 何當合餘燼，戮力共勤王。
 
 ## 拼音
 
-- yu3 xi2 lian2 chao2 mo4 ， rong2 zhan1 za1 er3 xia2 。
-- wei4 jiao4 zhi1 si3 suo3 ， ju4 suo3 zuo4 sheng1 ya2 。
-- dong1 guo1 tong2 tao2 hu4 ， xi1 jiao1 lei4 po4 jia1 。
-- ping2 peng2 wu2 ding4 ji4 ， lü3 yu4 guo4 san1 ba1 。
+- ping2 shi4 duo1 wang4 zhan4 ， jin1 zhen1 de2 zhen4 liang2 。
+- yan4 yun2 yong1 chai2 hu3 ， lu4 jin4 shi1 jin1 tang1 。
+- han4 jiang1 zheng1 ben1 bei3 ， hu2 bing1 shang4 jue2 qiang2 。
+- he2 dang1 he2 yu2 jin4 ， lu4 li4 gong4 qin2 wang2 。
 
 ## 注释
 

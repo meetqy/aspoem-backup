@@ -1,30 +1,30 @@
 ---
 id: yang-gong-yuan-san-yong-yun-qi-yi
-title: 三用韻  其一
-titlePinyin: san1 yong4 yun4     qi2 yi1
+title: 三用韻  其一○
+titlePinyin: san1 yong4 yun4     qi2 yi1 ○
 titleSlug: san-yong-yun-qi-yi
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卜築郊坰外，寬閒一畝餘。
-- 汲泉朝灌菊，炙燭夜觀書。
-- 酒熟邀朋酌，園荒課僕鋤。
-- 喜嘗紅稻飯，旋薦晚菘蔬。
+- 無官堪受祿，有橘當封侯。
+- 俗事退三舍，吟情出一頭。
+- 策筇枝縱步，買竹葉澆愁。
+- 又是秋歸去，推移不暫休。
 
 ## 拼音
 
-- bu3 zhu4 jiao1 jiong1 wai4 ， kuan1 xian2 yi4 mu3 yu2 。
-- ji2 quan2 chao2 guan4 ju2 ， zhi4 zhu2 ye4 guan1 shu1 。
-- jiu3 shu2 yao1 peng2 zhuo2 ， yuan2 huang1 ke4 pu2 chu2 。
-- xi3 chang2 hong2 dao4 fan4 ， xuan2 jian4 wan3 song1 shu1 。
+- wu2 guan1 kan1 shou4 lu4 ， you3 ju2 dang1 feng1 hou2 。
+- su2 shi4 tui4 san1 she4 ， yin2 qing2 chu1 yi4 tou2 。
+- ce4 qiong2 zhi1 zong4 bu4 ， mai3 zhu2 ye4 jiao1 chou2 。
+- you4 shi4 qiu1 gui1 qu4 ， tui1 yi2 bu2 zan4 xiu1 。
 
 ## 注释
 

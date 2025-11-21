@@ -6,10 +6,10 @@ titleSlug: liu-bie-shan-cun-le-xian-ju-cun-ai-shan-mei-cun-bing-ji-jing-chu-shen
 author: 陸文圭
 authorPinyin: lu4 wen2 gui1
 authorSlug: lu-wen-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

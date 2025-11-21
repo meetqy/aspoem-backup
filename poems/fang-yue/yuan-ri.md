@@ -6,25 +6,25 @@ titleSlug: yuan-ri
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 釣寂耕閒老病身，何堪附翼與攀鱗。
-- 山中是處有詩思，天上自來無故人。
-- 歲事共知雙鬢雪，梅花又過一年春。
-- 晴妍已有溪村興，牛下柴車或可巾。
+- 坎止流行一任他，年華其奈老夫何。
+- 貧知醉有回天日，早得閒爲却日戈。
+- 野燒青歸煙髣髴，溪痕晴漲雪坡陀。
+- 屠蘇只對梅花飲，茅屋竹籬春意多。
 
 ## 拼音
 
-- diao4 ji4 geng1 xian2 lao3 bing4 shen1 ， he2 kan1 fu4 yi4 yu3 pan1 lin2 。
-- shan1 zhong1 shi4 chu3 you3 shi1 si1 ， tian1 shang4 zi4 lai2 wu2 gu4 ren2 。
-- sui4 shi4 gong4 zhi1 shuang1 bin4 xue3 ， mei2 hua1 you4 guo4 yi4 nian2 chun1 。
-- qing2 yan2 yi3 you3 xi1 cun1 xing1 ， niu2 xia4 chai2 ju1 huo4 ke3 jin1 。
+- kan3 zhi3 liu2 xing2 yi2 ren4 ta1 ， nian2 hua2 qi2 nai4 lao3 fu1 he2 。
+- pin2 zhi1 zui4 you3 hui2 tian1 ri4 ， zao3 de2 xian2 wei2 que4 ri4 ge1 。
+- ye3 shao1 qing1 gui1 yan1 fang3 fu2 ， xi1 hen2 qing2 zhang3 xue3 po1 tuo2 。
+- tu2 su1 zhi1 dui4 mei2 hua1 yin3 ， mao2 wu1 zhu2 li2 chun1 yi4 duo1 。
 
 ## 注释
 

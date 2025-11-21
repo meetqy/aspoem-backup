@@ -6,10 +6,10 @@ titleSlug: fu-ren-cheng
 author: 王宗旦
 authorPinyin: wang2 zong1 dan4
 authorSlug: wang-zong-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

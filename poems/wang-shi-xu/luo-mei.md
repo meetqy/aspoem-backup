@@ -6,10 +6,10 @@ titleSlug: luo-mei
 author: 王時敘
 authorPinyin: wang2 shi2 xu4
 authorSlug: wang-shi-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

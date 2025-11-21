@@ -1,26 +1,26 @@
 ---
 id: zhang-gong-xiang-gong-ci-qi-wu
-title: 宮詞  其五
-titlePinyin: gong1 ci2     qi2 wu3
+title: 宮詞  其五○
+titlePinyin: gong1 ci2     qi2 wu3 ○
 titleSlug: gong-ci-qi-wu
 author: 張公庠
 authorPinyin: zhang1 gong1 xiang2
 authorSlug: zhang-gong-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉虛新殿勢巑岏，誰見壺中日月閑。
-- 消盡曉霞無一縷，數聲清磬落人間。
+- 百花成錦柳飛綿，纔度清明上巳前。
+- 繡蓋徐徐紅日永，六宮遊幸不鳴鞭。
 
 ## 拼音
 
-- yu4 xu1 xin1 dian4 shi4 cuan2 wan2 ， shui2 jian4 hu2 zhong1 ri4 yue4 xian2 。
-- xiao1 jin4 xiao3 xia2 wu2 yi4 lü3 ， shu4 sheng1 qing1 qing4 luo4 ren2 jian4 。
+- bai3 hua1 cheng2 jin3 liu3 fei1 mian2 ， cai2 du4 qing1 ming2 shang4 si4 qian2 。
+- xiu4 gai4 xu2 xu2 hong2 ri4 yong3 ， liu4 gong1 you2 xing4 bu4 ming2 bian1 。
 
 ## 注释
 

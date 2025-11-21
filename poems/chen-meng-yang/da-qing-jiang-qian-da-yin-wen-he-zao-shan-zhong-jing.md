@@ -6,10 +6,10 @@ titleSlug: da-qing-jiang-qian-da-yin-wen-he-zao-shan-zhong-jing
 author: 陳孟陽
 authorPinyin: chen2 meng4 yang2
 authorSlug: chen-meng-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-yuan-xi-shang-feng-he-shou-xiang-wu-gong-yuan-yun
 author: 王存
 authorPinyin: wang2 cun2
 authorSlug: wang-cun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

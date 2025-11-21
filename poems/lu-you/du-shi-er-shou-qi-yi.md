@@ -6,21 +6,21 @@ titleSlug: du-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人間著脚盡危機，睡覺方知夢境非。
-- 莫怪富春江上客，一生不厭釣漁磯。
+- 蕭相守關成漢業，穆之一死宋班師。
+- 赫連拓跋非難取，天意從來未易知。
 
 ## 拼音
 
-- ren2 jian4 zhu4 jiao3 jin4 wei1 ji1 ， shui4 jue2 fang1 zhi1 meng4 jing4 fei1 。
-- mo4 guai4 fu4 chun1 jiang1 shang4 ke4 ， yi4 sheng1 bu2 yan4 diao4 yu2 ji1 。
+- xiao1 xiang1 shou3 guan1 cheng2 han4 ye4 ， mu4 zhi1 yi1 si3 song4 ban1 shi1 。
+- he4 lian2 tuo4 ba2 fei1 nan2 qu3 ， tian1 yi4 cong2 lai2 wei4 yi4 zhi1 。
 
 ## 注释
 

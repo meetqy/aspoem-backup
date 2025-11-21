@@ -6,10 +6,10 @@ titleSlug: ti-jiao-shan-si-xiu-fo
 author: 蔡載
 authorPinyin: cai4 zai4
 authorSlug: cai-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

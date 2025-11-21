@@ -6,10 +6,10 @@ titleSlug: shen-zong-huang-di-wan-ci-qi-yi
 author: 王子韶
 authorPinyin: wang2 zi3 shao2
 authorSlug: wang-zi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ding-guang-nan-an-yan
 author: 方開之
 authorPinyin: fang1 kai1 zhi1
 authorSlug: fang-kai-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

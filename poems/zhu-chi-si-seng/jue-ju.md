@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 朱池寺僧
 authorPinyin: zhu1 chi2 si4 seng1
 authorSlug: zhu-chi-si-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

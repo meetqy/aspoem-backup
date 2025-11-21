@@ -1,36 +1,40 @@
 ---
 id: zhang-jiu-cheng-ni-gu-qi-yi
-title: 擬古  其一
-titlePinyin: ni3 gu3     qi2 yi1
+title: 擬古  其一○
+titlePinyin: ni3 gu3     qi2 yi1 ○
 titleSlug: ni-gu-qi-yi
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 平居自相樂，忽焉成別離。
-- 君居天之南，我墮海之涯。
-- 四海豈不大，非君誰我知。
-- 狡兔營三窟，鷦鷯安一枝。
-- 勿云千里遠，相見無遲緩。
-- 精誠儻可通，指日日猶反。
-- 毋爲浪相思，我老尚能飯。
+- 喬松列萬行，知是誰人墓。
+- 龜趺表山岡，石馬夾山路。
+- 潺潺瀑水秋，蕭蕭白楊暮。
+- 蒼黄愁殺人，何物能超寤。
+- 人命極危脆，不殊花上露。
+- 秦皇死則已，規與山河固。
+- 一朝禍事發，所掘無尺度。
+- 想見冥漠中，自歎平生誤。
+- 遺臭千萬年，至今污尺素。
 
 ## 拼音
 
-- ping2 ju1 zi4 xiang1 le4 ， hu1 yan1 cheng2 bie2 li2 。
-- jun1 ju1 tian1 zhi1 nan2 ， wo3 duo4 hai3 zhi1 ya2 。
-- si4 hai3 qi3 bu2 da4 ， fei1 jun1 shui2 wo3 zhi1 。
-- jiao3 tu4 ying2 san1 ku1 ， jiao1 liao2 an1 yi4 zhi1 。
-- wu4 yun2 qian1 li3 yuan3 ， xiang1 jian4 wu2 chi2 huan3 。
-- jing1 cheng2 tang3 ke3 tong1 ， zhi3 ri4 ri4 you2 fan3 。
-- wu2 wei2 lang4 xiang1 si1 ， wo3 lao3 shang4 neng2 fan4 。
+- qiao2 song1 lie4 wan4 xing2 ， zhi1 shi4 shui2 ren2 mu4 。
+- gui1 fu1 biao3 shan1 gang1 ， shi2 ma3 jia1 shan1 lu4 。
+- chan2 chan2 pu4 shui3 qiu1 ， xiao1 xiao1 bai2 yang2 mu4 。
+- cang1 huang2 chou2 sha1 ren2 ， he2 wu4 neng2 chao1 wu4 。
+- ren2 ming4 ji2 wei1 cui4 ， bu4 shu1 hua1 shang4 lu4 。
+- qin2 huang2 si3 ze2 yi3 ， gui1 yu3 shan1 he2 gu4 。
+- yi4 zhao1 huo4 shi4 fa1 ， suo3 jue2 wu2 chi3 du4 。
+- xiang3 jian4 ming2 mo4 zhong1 ， zi4 tan4 ping2 sheng1 wu4 。
+- yi2 chou4 qian1 wan4 nian2 ， zhi4 jin1 wu1 chi3 su4 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shu-xi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨足郊原正得晴，地綿萬里盡春耕。
-- 陰陰阡陌桑麻暗，軋軋房櫳機杼鳴。
-- 亭鼓不聞知盜息，社錢易斂慶秋成。
-- 天公不負書生眼，留向人間看太平。
+- 莫謂家貧厭舊醅，一尊聊對桂花開。
+- 天菑已過無蝗孽，海舶初通有藥材。
+- 剩借凉風吹醉頰，况逢急雨洗浮埃。
+- 入秋腰脚增强健，山麓從今日日來。
 
 ## 拼音
 
-- yu3 zu2 jiao1 yuan2 zheng4 de2 qing2 ， di4 mian2 wan4 li3 jin4 chun1 geng1 。
-- yin1 yin1 qian1 mo4 sang1 ma2 an4 ， ya4 ya4 fang2 long2 ji1 zhu4 ming2 。
-- ting2 gu3 bu4 wen2 zhi1 dao4 xi1 ， she4 qian2 yi4 lian3 qing4 qiu1 cheng2 。
-- tian1 gong1 bu2 fu4 shu1 sheng1 yan3 ， liu2 xiang4 ren2 jian4 kan4 tai4 ping2 。
+- mo4 wei4 jia1 pin2 yan4 jiu4 pei1 ， yi4 zun1 liao2 dui4 gui4 hua1 kai1 。
+- tian1 zi1 yi3 guo4 wu2 huang2 nie4 ， hai3 bo2 chu1 tong1 you3 yao4 cai2 。
+- sheng4 jie4 liang2 feng1 chui1 zui4 jia2 ， kuang4 feng2 ji2 yu3 xi3 fu2 ai1 。
+- ru4 qiu1 yao1 jiao3 zeng1 qiang2 jian4 ， shan1 lu4 cong2 jin1 ri4 ri4 lai2 。
 
 ## 注释
 

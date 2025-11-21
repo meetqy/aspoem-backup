@@ -6,25 +6,25 @@ titleSlug: he-huang-sun-ping-yang-jun-wang-shi-yue-shi-jiu-ri-sheng-chen
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉曆當千運，天潢第一源。
-- 本支堯百世，有道宋曾孫。
-- 接武前星曜，依光太極尊。
-- 年年會慶節，更慶茁蘭孫。
+- 前星炳煥領孫星，環拱中天日兩輪。
+- 四葉重光同聖世，千秋佳節近生辰。
+- 本支秀茂旦復旦，典學熙明新又新。
+- 喜入威顔天一笑，壽觴分賜一枝椿。
 
 ## 拼音
 
-- yu4 li4 dang1 qian1 yun4 ， tian1 huang2 di4 yi1 yuan2 。
-- ben3 zhi1 yao2 bai3 shi4 ， you3 dao4 song4 ceng2 sun1 。
-- jie1 wu3 qian2 xing1 yao4 ， yi1 guang1 tai4 ji2 zun1 。
-- nian2 nian2 hui4 qing4 jie2 ， geng4 qing4 zhuo2 lan2 sun1 。
+- qian2 xing1 bing3 huan4 ling3 sun1 xing1 ， huan2 gong3 zhong1 tian1 ri4 liang3 lun2 。
+- si4 ye4 chong2 guang1 tong2 sheng4 shi4 ， qian1 qiu1 jia1 jie2 jin4 sheng1 chen2 。
+- ben3 zhi1 xiu4 mao4 dan4 fu4 dan4 ， dian3 xue2 xi1 ming2 xin1 you4 xin1 。
+- xi3 ru4 wei1 yan2 tian1 yi2 xiao4 ， shou4 shang1 fen1 ci4 yi4 zhi1 chun1 。
 
 ## 注释
 

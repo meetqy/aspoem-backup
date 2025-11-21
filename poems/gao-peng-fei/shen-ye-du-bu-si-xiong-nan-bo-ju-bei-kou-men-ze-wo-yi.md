@@ -6,10 +6,10 @@ titleSlug: shen-ye-du-bu-si-xiong-nan-bo-ju-bei-kou-men-ze-wo-yi
 author: 高鵬飛
 authorPinyin: gao1 peng2 fei1
 authorSlug: gao-peng-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

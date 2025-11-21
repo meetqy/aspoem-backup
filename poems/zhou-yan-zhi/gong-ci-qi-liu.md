@@ -1,26 +1,26 @@
 ---
 id: zhou-yan-zhi-gong-ci-qi-liu
-title: 宮詞  其六
-titlePinyin: gong1 ci2     qi2 liu4
+title: 宮詞  其六○
+titlePinyin: gong1 ci2     qi2 liu4 ○
 titleSlug: gong-ci-qi-liu
 author: 周彥質
 authorPinyin: zhou1 yan4 zhi4
 authorSlug: zhou-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖人制作合天規，大晟初成按樂時。
-- 果見晴空鸞鶴舞，未饒當日鳳凰儀。
+- 瑶津亭榭俯池塘，芬馥氤氳雜衆芳。
+- 永晝和風一披拂，近城分得禁園香。
 
 ## 拼音
 
-- sheng4 ren2 zhi4 zuo4 he2 tian1 gui1 ， da4 sheng4 chu1 cheng2 an4 le4 shi2 。
-- guo3 jian4 qing2 kong1 luan2 he4 wu3 ， wei4 rao2 dang1 ri4 feng4 huang2 yi2 。
+- yao2 jin1 ting2 xie4 fu3 chi2 tang2 ， fen1 fu4 yin1 yun1 za2 zhong4 fang1 。
+- yong3 zhou4 he2 feng1 yi4 pi1 fu2 ， jin4 cheng2 fen1 de0 jin4 yuan2 xiang1 。
 
 ## 注释
 

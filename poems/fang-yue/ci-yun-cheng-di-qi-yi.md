@@ -1,26 +1,26 @@
 ---
 id: fang-yue-ci-yun-cheng-di-qi-yi
-title: 次韻程弟  其一
-titlePinyin: ci4 yun4 cheng2 di4     qi2 yi1
+title: 次韻程弟  其一○
+titlePinyin: ci4 yun4 cheng2 di4     qi2 yi1 ○
 titleSlug: ci-yun-cheng-di-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一船月自不嫌貧，伴我荒灣理釣緡。
-- 歸去莫橫深夜笛，怕驚溪友與山賓。
+- 此腹寧須文字香，漫淹虀甕半青黄。
+- 午窗一枕齁齁睡，世上何人最得忙。
 
 ## 拼音
 
-- yi4 chuan2 yue4 zi4 bu4 xian2 pin2 ， ban4 wo3 huang1 wan1 li3 diao4 min2 。
-- gui1 qu4 mo4 heng2 shen1 ye4 di2 ， pa4 jing1 xi1 you3 yu3 shan1 bin1 。
+- ci3 fu4 ning2 xu1 wen2 zi4 xiang1 ， man4 yan1 ji1 weng4 ban4 qing1 huang2 。
+- wu3 chuang1 yi4 zhen3 hou1 hou1 shui4 ， shi4 shang4 he2 ren2 zui4 de2 mang2 。
 
 ## 注释
 

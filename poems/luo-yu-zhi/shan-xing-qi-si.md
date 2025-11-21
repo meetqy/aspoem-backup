@@ -6,10 +6,10 @@ titleSlug: shan-xing-qi-si
 author: 羅與之
 authorPinyin: luo2 yu3 zhi1
 authorSlug: luo-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

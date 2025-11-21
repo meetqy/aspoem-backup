@@ -6,10 +6,10 @@ titleSlug: shan-zhai-ou-shu
 author: 翁森
 authorPinyin: weng1 sen1
 authorSlug: weng-sen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

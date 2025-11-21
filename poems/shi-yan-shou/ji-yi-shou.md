@@ -6,21 +6,21 @@ titleSlug: ji-yi-shou
 author: 釋延壽
 authorPinyin: shi4 yan2 shou4
 authorSlug: shi-yan-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 欲識永明旨，門前一湖水。
-- 日照光明生，風來波浪起。
+- 孤猿叫落中巖月，野客吟殘半夜燈。
+- 此境此時誰會意，白雲深處坐禪僧。
 
 ## 拼音
 
-- yu4 shi2 yong3 ming2 zhi3 ， men2 qian2 yi4 hu2 shui3 。
-- ri4 zhao4 guang1 ming2 sheng1 ， feng1 lai2 bo1 lang4 qi3 。
+- gu1 yuan2 jiao4 luo4 zhong1 yan2 yue4 ， ye3 ke4 yin2 can2 ban4 ye4 deng1 。
+- ci3 jing4 ci3 shi2 shui2 hui4 yi4 ， bai2 yun2 shen1 chu3 zuo4 shan4 seng1 。
 
 ## 注释
 

@@ -9,24 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 耳聞無相理，眼空不受色。
-- 鼻嗅無相香，舌嘗無相食。
-- 身着無相衣，竟隨無相得。
-- 心靜越諸天，神清見彌勒。
-- 十方同一乘，無心記南北。
+- 更無別路超生死，前佛後佛同一般。
+- 舒即周流十方剎，歛時還在一毛端。
 
 ## 拼音
 
-- er3 wen2 wu2 xiang1 li3 ， yan3 kong1 bu2 shou4 se4 。
-- bi2 xiu4 wu2 xiang1 xiang1 ， she2 chang2 wu2 xiang1 shi2 。
-- shen1 zhuo2 wu2 xiang1 yi1 ， jing4 sui2 wu2 xiang1 de2 。
-- xin1 jing4 yue4 zhu1 tian1 ， shen2 qing1 jian4 mi2 le4 。
-- shi2 fang1 tong2 yi4 cheng2 ， wu2 xin1 ji4 nan2 bei3 。
+- geng4 wu2 bie2 lu4 chao1 sheng1 si3 ， qian2 fo2 hou4 fo2 tong2 yi4 ban1 。
+- shu1 ji2 zhou1 liu2 shi2 fang1 cha4 ， lian3 shi2 huan2 zai4 yi4 mao2 duan1 。
 
 ## 注释
 

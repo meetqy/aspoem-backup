@@ -6,10 +6,10 @@ titleSlug: song-cheng-du-hu-rong-han-she-ren
 author: 范祥
 authorPinyin: fan4 xiang2
 authorSlug: fan-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

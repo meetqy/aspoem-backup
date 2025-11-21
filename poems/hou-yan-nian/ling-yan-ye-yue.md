@@ -6,10 +6,10 @@ titleSlug: ling-yan-ye-yue
 author: 侯延年
 authorPinyin: hou2 yan2 nian2
 authorSlug: hou-yan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

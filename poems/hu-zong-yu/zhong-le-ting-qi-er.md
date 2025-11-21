@@ -6,10 +6,10 @@ titleSlug: zhong-le-ting-qi-er
 author: 胡宗愈
 authorPinyin: hu2 zong1 yu4
 authorSlug: hu-zong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

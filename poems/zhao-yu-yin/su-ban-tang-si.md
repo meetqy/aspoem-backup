@@ -6,10 +6,10 @@ titleSlug: su-ban-tang-si
 author: 趙與訔
 authorPinyin: zhao4 yu3 yin2
 authorSlug: zhao-yu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

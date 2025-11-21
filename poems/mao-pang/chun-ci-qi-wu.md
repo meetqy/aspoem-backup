@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-wu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲避南山曉，天回北斗春。
-- 榮光生八彩，壽色兩嶙峋。
+- 仙桃欲拂朝真臉，禁柳忙催望幸眉。
+- 不會君王春思别，杏花菖葉在農時。
 
 ## 拼音
 
-- yun2 bi4 nan2 shan1 xiao3 ， tian1 hui2 bei3 dou3 chun1 。
-- rong2 guang1 sheng1 ba1 cai3 ， shou4 se4 liang3 lin2 xun2 。
+- xian1 tao2 yu4 fu2 chao2 zhen1 lian3 ， jin4 liu3 mang2 cui1 wang4 xing4 mei2 。
+- bu2 hui4 jun1 wang2 chun1 si1 bie2 ， xing4 hua1 chang1 ye4 zai4 nong2 shi2 。
 
 ## 注释
 

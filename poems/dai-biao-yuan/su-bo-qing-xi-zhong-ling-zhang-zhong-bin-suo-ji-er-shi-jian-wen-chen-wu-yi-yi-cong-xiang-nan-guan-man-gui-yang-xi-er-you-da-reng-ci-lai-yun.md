@@ -6,10 +6,10 @@ titleSlug: su-bo-qing-xi-zhong-ling-zhang-zhong-bin-suo-ji-er-shi-jian-wen-chen-
 author: 戴表元
 authorPinyin: dai4 biao3 yuan2
 authorSlug: dai-biao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fan-xiang-jian-wu-xu-hui-qi-fu-pan-xi-ju-shi-shi-xian-wang-shu-yu-yan
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

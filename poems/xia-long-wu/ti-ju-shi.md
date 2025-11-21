@@ -6,10 +6,10 @@ titleSlug: ti-ju-shi
 author: 夏龍五
 authorPinyin: xia4 long2 wu3
 authorSlug: xia-long-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

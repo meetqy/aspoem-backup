@@ -6,51 +6,33 @@ titleSlug: ji-wang-shen-fu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前日君遠遊，相憐每獨悲。
-- 寧知君未返，自笑還若兹。
-- 賢者易姓逃，聖者微服馳。
-- 聖賢不必容，吾道其如飴。
-- 浮舟潁水清，遠與塵囂違。
-- 卜鄰西郊郭，得近樵漁期。
-- 主人文章伯，聲望高一時。
-- 平生莫往還，見我如舊知。
-- 勢與年俱忘，胸中坦無疑。
-- 人當意氣展，何有憂寒饑。
-- 反思萬類情，紏纒未易推。
-- 向者雖定居，睽孤常不怡。
-- 邇來暫奔走，師友足自持。
-- 物或損而益，吾又何怨爲。
-- 且苟無陳人，吾豈能至斯。
-- 歲窮景蕭條，多感令志衰。
-- 須君濟其弱，嗟子何當來。
+- 城東與城西，相去咫尺耳。
+- 不得同朝夕，譬如隔山水。
+- 況兹歷三秋，正復累百里。
+- 念我誰與遊，悵然豈能已。
+- 古人稱莫逆，未必居密邇。
+- 自嫌感豫深，更失笑談理。
+- 寡陋使心憂，空虚見人喜。
+- 觀過而知仁，且當謝君子。
 
 ## 拼音
 
-- qian2 ri4 jun1 yuan3 you2 ， xiang1 lian2 mei3 du2 bei1 。
-- ning2 zhi1 jun1 wei4 fan3 ， zi4 xiao4 huan2 ruo4 zi1 。
-- xian2 zhe3 yi4 xing4 tao2 ， sheng4 zhe3 wei1 fu2 chi2 。
-- sheng4 xian2 bu2 bi4 rong2 ， wu2 dao4 qi2 ru2 yi2 。
-- fu2 zhou1 ying3 shui3 qing1 ， yuan3 yu3 chen2 xiao1 wei2 。
-- bu3 lin2 xi1 jiao1 guo1 ， de2 jin4 qiao2 yu2 qi1 。
-- zhu3 ren2 wen2 zhang1 bo2 ， sheng1 wang4 gao1 yi1 shi2 。
-- ping2 sheng1 mo4 wang3 huan2 ， jian4 wo3 ru2 jiu4 zhi1 。
-- shi4 yu3 nian2 ju4 wang4 ， xiong1 zhong1 tan3 wu2 yi2 。
-- ren2 dang1 yi4 qi4 zhan3 ， he2 you3 you1 han2 ji1 。
-- fan3 si1 wan4 lei4 qing2 ， tou3 chan2 wei4 yi4 tui1 。
-- xiang4 zhe3 sui1 ding4 ju1 ， kui2 gu1 chang2 bu4 yi2 。
-- er3 lai2 zan4 ben1 zou3 ， shi1 you3 zu2 zi4 chi2 。
-- wu4 huo4 sun3 er2 yi4 ， wu2 you4 he2 yuan4 wei2 。
-- qie3 gou3 wu2 chen2 ren2 ， wu2 qi3 neng2 zhi4 si1 。
-- sui4 qiong2 jing3 xiao1 tiao2 ， duo1 gan3 ling4 zhi4 shuai1 。
-- xu1 jun1 ji4 qi2 ruo4 ， jie1 zi3 he2 dang1 lai2 。
+- cheng2 dong1 yu3 cheng2 xi1 ， xiang1 qu4 zhi3 chi3 er3 。
+- bu4 de2 tong2 zhao1 xi1 ， pi4 ru2 ge2 shan1 shui3 。
+- kuang4 zi1 li4 san1 qiu1 ， zheng4 fu4 lei4 bai3 li3 。
+- nian4 wo3 shui2 yu3 you2 ， chang4 ran2 qi3 neng2 yi3 。
+- gu3 ren2 cheng1 mo4 ni4 ， wei4 bi4 ju1 mi4 er3 。
+- zi4 xian2 gan3 yu4 shen1 ， geng4 shi1 xiao4 tan2 li3 。
+- gua3 lou4 shi3 xin1 you1 ， kong1 xu1 jian4 ren2 xi3 。
+- guan1 guo4 er2 zhi1 ren2 ， qie3 dang1 xie4 jun1 zi3 。
 
 ## 注释
 

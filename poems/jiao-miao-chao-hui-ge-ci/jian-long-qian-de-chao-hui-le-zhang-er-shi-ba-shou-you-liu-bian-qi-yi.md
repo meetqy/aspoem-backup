@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宸扆威容盛，聲明禮樂宣。
-- 九州臻禹會，萬國戴堯天。
-- 貢職輸琛賮，皇猷煥簡編。
-- 含和均暢茂，鴻慶結非煙。
+- 惕厲日乾乾，潜蟠或躍淵。
+- 伐謀參上策，受鉞總中堅。
+- 田訟歸周日，民謠戴舜年。
+- 風雲自冥感，嘉會翼飛天。
 
 ## 拼音
 
-- chen2 yi3 wei1 rong2 sheng4 ， sheng1 ming2 li3 le4 xuan1 。
-- jiu3 zhou1 zhen1 yu3 hui4 ， wan4 guo2 dai4 yao2 tian1 。
-- gong4 zhi2 shu1 chen1 jin4 ， huang2 you2 huan4 jian3 bian1 。
-- han2 he2 jun1 chang4 mao4 ， hong2 qing4 jie2 fei1 yan1 。
+- ti4 li4 ri4 qian2 qian2 ， qian2 pan2 huo4 yue4 yuan1 。
+- fa2 mou2 can1 shang4 ce4 ， shou4 yue4 zong3 zhong1 jian1 。
+- tian2 song4 gui1 zhou1 ri4 ， min2 yao2 dai4 shun4 nian2 。
+- feng1 yun2 zi4 ming2 gan3 ， jia1 hui4 yi4 fei1 tian1 。
 
 ## 注释
 

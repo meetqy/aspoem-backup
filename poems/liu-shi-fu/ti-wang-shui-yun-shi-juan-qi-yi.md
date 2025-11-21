@@ -1,26 +1,26 @@
 ---
 id: liu-shi-fu-ti-wang-shui-yun-shi-juan-qi-yi
-title: 題汪水雲詩卷  其一
-titlePinyin: ti2 wang1 shui3 yun2 shi1 juan4     qi2 yi1
+title: 題汪水雲詩卷  其一○
+titlePinyin: ti2 wang1 shui3 yun2 shi1 juan4     qi2 yi1 ○
 titleSlug: ti-wang-shui-yun-shi-juan-qi-yi
 author: 劉師復
 authorPinyin: liu2 shi1 fu4
 authorSlug: liu-shi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬里歸來葺故園，闞湖新結小船軒。
-- 雙親八十喜康健，七子侍勞三十孫。
+- 澗邊爛醉桂花秋，明發携琴不可留。
+- 遥想兩峰湖一曲，畫船何日許同遊。
 
 ## 拼音
 
-- wan4 li3 gui1 lai2 qi4 gu4 yuan2 ， kan4 hu2 xin1 jie2 xiao3 chuan2 xuan1 。
-- shuang1 qin1 ba1 shi2 xi3 kang1 jian4 ， qi1 zi3 shi4 lao2 san1 shi2 sun1 。
+- jian4 bian1 lan4 zui4 gui4 hua1 qiu1 ， ming2 fa1 xie2 qin2 bu4 ke3 liu2 。
+- yao2 xiang3 liang3 feng1 hu2 yi4 qu3 ， hua4 chuan2 he2 ri4 xu1 tong2 you2 。
 
 ## 注释
 

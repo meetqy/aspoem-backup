@@ -6,10 +6,10 @@ titleSlug: wu-xie-shan
 author: 曾諤
 authorPinyin: ceng2 e4
 authorSlug: ceng-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

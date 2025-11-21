@@ -6,10 +6,10 @@ titleSlug: liu-yue-wang-ri-yue-tang-lao-shan-shi-pu-zhong-ji-sui-xi-kui-shen
 author: 唐士恥
 authorPinyin: tang2 shi4 chi3
 authorSlug: tang-shi-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

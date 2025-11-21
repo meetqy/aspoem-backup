@@ -6,25 +6,25 @@ titleSlug: jin-guo-he-zheng-dan-shi-ren-dao-que-ji-ying-dian-yan-zhi-yu-kou-hao
 author: 崔敦詩
 authorPinyin: cui1 dun1 shi1
 authorSlug: cui-dun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殿頭清蹕起晴雷，萬歲聲中扇影開。
-- 曉日青旗明絳闕，春風黄傘傍瑶臺。
-- 卿雲湧瑞扶天座，仙露流甘入御盃。
-- 要識八荒俱壽域，年年常看使星來。
+- 四時和氣轉洪鈞，昨夜璿杓正指寅。
+- 萬玉鳴班朝廣殿，五雲扶輦下端宸。
+- 翠旄低引仙韶度，寶斝徐傳御醴醇。
+- 看取年年來信使，定知天地一家春。
 
 ## 拼音
 
-- dian4 tou2 qing1 bi4 qi3 qing2 lei2 ， wan4 sui4 sheng1 zhong1 shan4 ying3 kai1 。
-- xiao3 ri4 qing1 qi2 ming2 jiang4 que4 ， chun1 feng1 huang2 san3 bang4 yao2 tai2 。
-- qing1 yun2 yong3 rui4 fu2 tian1 zuo4 ， xian1 lu4 liu2 gan1 ru4 yu4 bei1 。
-- yao4 shi2 ba1 huang1 ju4 shou4 yu4 ， nian2 nian2 chang2 kan4 shi3 xing1 lai2 。
+- si4 shi2 he2 qi4 zhuan3 hong2 jun1 ， zuo2 ye4 xuan2 shao2 zheng4 zhi3 yin2 。
+- wan4 yu4 ming2 ban1 chao2 guang3 dian4 ， wu3 yun2 fu2 nian3 xia4 duan1 chen2 。
+- cui4 mao2 di1 yin3 xian1 shao2 du4 ， bao3 jia3 xu2 chuan2 yu4 li3 chun2 。
+- kan4 qu3 nian2 nian2 lai2 xin4 shi3 ， ding4 zhi1 tian1 di4 yi4 jia1 chun1 。
 
 ## 注释
 

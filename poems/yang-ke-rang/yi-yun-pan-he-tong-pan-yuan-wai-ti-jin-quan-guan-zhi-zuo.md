@@ -6,9 +6,9 @@ titleSlug: yi-yun-pan-he-tong-pan-yuan-wai-ti-jin-quan-guan-zhi-zuo
 author: 楊克讓
 authorPinyin: yang2 ke4 rang4
 authorSlug: yang-ke-rang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

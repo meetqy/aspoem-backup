@@ -6,10 +6,10 @@ titleSlug: su-ye-shu-wu-geng-chuang-yue-zhao-ping-zhong-lao-mei-qing-shen-you-ga
 author: 徐僑
 authorPinyin: xu2 qiao2
 authorSlug: xu-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

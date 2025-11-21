@@ -6,9 +6,9 @@ titleSlug: su-ye-bei-yong-qian-yun
 author: 董穎
 authorPinyin: dong3 ying3
 authorSlug: dong-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

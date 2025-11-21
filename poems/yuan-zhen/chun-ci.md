@@ -9,18 +9,20 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 山翠湖光似欲流，蜂聲鳥思却堪愁。
-- 西施顏色今何在，但看春風百草頭。
+- 一雙玉手十三弦，移柱高低落鬢邊。
+- 即問向來彈了曲，羞人不道《想夫憐》。
+- （《千載佳句》卷下《宴喜部・箏》）。
 
 ## 拼音
 
-- shan1 cui4 hu2 guang1 si4 yu4 liu2 ， feng1 sheng1 niao3 si1 que4 kan1 chou2 。
-- xi1 shi1 yan2 se4 jin1 he2 zai4 ， dan4 kan4 chun1 feng1 bai3 cao3 tou2 。
+- yi4 shuang1 yu4 shou3 shi2 san1 xian2 ， yi2 zhu4 gao1 di1 luo4 bin4 bian1 。
+- ji2 wen4 xiang4 lai2 dan4 le0 qu3 ， xiu1 ren2 bu2 dao4 《 xiang3 fu1 lian2 》。
+- （《 qian1 zai4 jia1 ju4 》 juan4 xia4 《 yan4 xi3 bu4 ・ zheng1 》）。
 
 ## 注释
 

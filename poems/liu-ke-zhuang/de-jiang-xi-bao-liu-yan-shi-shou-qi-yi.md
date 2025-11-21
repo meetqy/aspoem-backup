@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-de-jiang-xi-bao-liu-yan-shi-shou-qi-yi
-title: 得江西報六言十首  其一
-titlePinyin: de2 jiang1 xi1 bao4 liu4 yan2 shi2 shou3     qi2 yi1
+title: 得江西報六言十首  其一○
+titlePinyin: de2 jiang1 xi1 bao4 liu4 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: de-jiang-xi-bao-liu-yan-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大江已浪頭白，中原未棗兒紅。
-- 折北不愁春水，吠南何必秋風。
+- 但見盈城盈野，誰能去食去兵。
+- 山東河北捲土，江右湖南失耕。
 
 ## 拼音
 
-- da4 jiang1 yi3 lang4 tou2 bai2 ， zhong1 yuan2 wei4 zao3 er2 hong2 。
-- zhe2 bei3 bu4 chou2 chun1 shui3 ， fei4 nan2 he2 bi4 qiu1 feng1 。
+- dan4 jian4 ying2 cheng2 ying2 ye3 ， shui2 neng2 qu4 shi2 qu4 bing1 。
+- shan1 dong1 he2 bei3 juan3 tu3 ， jiang1 you4 hu2 nan2 shi1 geng1 。
 
 ## 注释
 

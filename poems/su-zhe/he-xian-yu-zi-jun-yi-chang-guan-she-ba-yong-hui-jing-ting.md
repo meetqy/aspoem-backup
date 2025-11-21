@@ -6,10 +6,10 @@ titleSlug: he-xian-yu-zi-jun-yi-chang-guan-she-ba-yong-hui-jing-ting
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

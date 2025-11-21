@@ -6,23 +6,21 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 社燕催歸，賓鴻欲返。
-- 雪點白蘋洲，錦鋪紅蓼岸。
-- 蝦蟆入汝鼻孔裏，毒蛇穿汝眼睛中。
+- 頂𩕳機，法空座。
+- 不涉思而知，不動步而到，無端入荒草。
 
 ## 拼音
 
-- she4 yan4 cui1 gui1 ， bin1 hong2 yu4 fan3 。
-- xue3 dian3 bai2 pin2 zhou1 ， jin3 pu1 hong2 liao3 an4 。
-- xia1 ma0 ru4 ru3 bi2 kong3 li3 ， du2 she2 chuan1 ru3 yan3 jing0 zhong1 。
+- ding3 𩕳 ji1 ， fa3 kong4 zuo4 。
+- bu2 she4 si1 er2 zhi1 ， bu2 dong4 bu4 er2 dao4 ， wu2 duan1 ru4 huang1 cao3 。
 
 ## 注释
 

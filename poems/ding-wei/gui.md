@@ -1,30 +1,30 @@
 ---
 id: ding-wei-gui
-title: 桂
-titlePinyin: gui4
+title: 龜
+titlePinyin: gui1
 titleSlug: gui
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青紫間朱丹，三湘五嶺間。
-- 充庖資爽口，泛酒助𨠑□。
-- 種色思圓月，叢生憶小山。
-- 郄枝曾入手，招隠更聊攀。
+- 居蔡推神物，巢蓮表聖君。
+- 膺期千歲色，垂世九疇文。
+- 惠向銜珠辨，靈從顧印分。
+- 自諳宮沼樂，錫貢任江濱。
 
 ## 拼音
 
-- qing1 zi3 jian4 zhu1 dan1 ， san1 xiang1 wu3 ling3 jian4 。
-- chong1 pao2 zi1 shuang3 kou3 ， fan4 jiu3 zhu4 𨠑□。
-- zhong3 se4 si1 yuan2 yue4 ， cong2 sheng1 yi4 xiao3 shan1 。
-- xi4 zhi1 ceng2 ru4 shou3 ， zhao1 yin3 geng4 liao2 pan1 。
+- ju1 cai4 tui1 shen2 wu4 ， chao2 lian2 biao3 sheng4 jun1 。
+- ying1 qi1 qian1 sui4 se4 ， chui2 shi4 jiu3 chou2 wen2 。
+- hui4 xiang4 xian2 zhu1 bian4 ， ling2 cong2 gu4 yin4 fen1 。
+- zi4 an1 gong1 zhao3 le4 ， xi1 gong4 ren4 jiang1 bin1 。
 
 ## 注释
 

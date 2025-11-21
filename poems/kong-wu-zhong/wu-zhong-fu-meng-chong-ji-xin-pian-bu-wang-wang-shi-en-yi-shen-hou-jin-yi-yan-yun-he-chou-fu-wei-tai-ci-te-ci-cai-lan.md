@@ -6,10 +6,10 @@ titleSlug: wu-zhong-fu-meng-chong-ji-xin-pian-bu-wang-wang-shi-en-yi-shen-hou-ji
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-gu-qi-shou-qi-qi
 author: 釋勝
 authorPinyin: shi4 sheng4
 authorSlug: shi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

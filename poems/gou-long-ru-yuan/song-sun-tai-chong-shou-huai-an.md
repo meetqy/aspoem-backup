@@ -6,9 +6,9 @@ titleSlug: song-sun-tai-chong-shou-huai-an
 author: 勾龍如淵
 authorPinyin: gou1 long2 ru2 yuan1
 authorSlug: gou-long-ru-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

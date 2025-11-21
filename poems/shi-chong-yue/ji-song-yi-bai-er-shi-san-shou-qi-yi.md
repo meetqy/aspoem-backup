@@ -1,28 +1,30 @@
 ---
 id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-qi-yi
-title: 偈頌一百二十三首  其一
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1
+title: 偈頌一百二十三首  其一○○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ○ ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三人證龜作鱉，有口都不能說。
-- 須彌頂上浪滔滔，大洋海裏遭火爇。
-- 別別，金色頭陀曾漏泄。
+- 大人具大見，大智得大用。
+- 一舉定千差，百發而百中。
+- 密贊中興業，了無毫末共。
+- 福如滄海壽如山，赫赫聲名繼前踵。
 
 ## 拼音
 
-- san1 ren2 zheng4 gui1 zuo4 bie1 ， you3 kou3 dou1 bu4 neng2 shuo1 。
-- xu1 mi2 ding3 shang4 lang4 tao1 tao1 ， da4 yang2 hai3 li3 zao1 huo3 ruo4 。
-- bie2 bie2 ， jin1 se4 tou2 tuo2 ceng2 lou4 xie4 。
+- da4 ren2 ju4 da4 jian4 ， da4 zhi4 de2 da4 yong4 。
+- yi4 ju3 ding4 qian1 cha4 ， bai3 fa1 er2 bai3 zhong1 。
+- mi4 zan4 zhong1 xing1 ye4 ， liao3 wu2 hao2 mo4 gong4 。
+- fu2 ru2 cang1 hai3 shou4 ru2 shan1 ， he4 he4 sheng1 ming2 ji4 qian2 zhong3 。
 
 ## 注释
 

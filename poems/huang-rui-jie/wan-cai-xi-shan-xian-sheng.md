@@ -6,10 +6,10 @@ titleSlug: wan-cai-xi-shan-xian-sheng
 author: 黄瑞節
 authorPinyin: huang2 rui4 jie2
 authorSlug: huang-rui-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

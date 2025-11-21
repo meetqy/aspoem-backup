@@ -6,25 +6,21 @@ titleSlug: za-shi-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 高堂斷四聽，鳴雨曉未止。
-- 堂空雨聲大，滴滴清我耳。
-- 朝眠引幽夢，遇我同心子。
-- 談笑未容周，夢開坐千里。
+- 病腹難禁七椀茶，小窗睡起日西斜。
+- 貧無隙地栽桃李，日日門前自買花。
 
 ## 拼音
 
-- gao1 tang2 duan4 si4 ting1 ， ming2 yu3 xiao3 wei4 zhi3 。
-- tang2 kong1 yu3 sheng1 da4 ， di1 di1 qing1 wo3 er3 。
-- chao2 mian2 yin3 you1 meng4 ， yu4 wo3 tong2 xin1 zi3 。
-- tan2 xiao4 wei4 rong2 zhou1 ， meng4 kai1 zuo4 qian1 li3 。
+- bing4 fu4 nan2 jin4 qi1 wan3 cha2 ， xiao3 chuang1 shui4 qi3 ri4 xi1 xie2 。
+- pin2 wu2 xi4 di4 zai1 tao2 li3 ， ri4 ri4 men2 qian2 zi4 mai3 hua1 。
 
 ## 注释
 

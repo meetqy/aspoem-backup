@@ -6,21 +6,25 @@ titleSlug: han-zhu-lin
 author: 舒亶
 authorPinyin: shu1 dan3
 authorSlug: shu-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬箇松杉一顆珠，老僧心手最工夫。
-- 冷光長在千峰頂，誰道人間夜月孤。
+- 何代神僧機匠深，手栽珠樹作珠林。
+- 獰龍離穴頷初鑿，老蚌出泥光易尋。
+- 海近鮫人工迸泣，山深木客費愁吟。
+- 開窗夜半不成寐，明月時時照我心。
 
 ## 拼音
 
-- wan4 ge4 song1 shan1 yi4 ke1 zhu1 ， lao3 seng1 xin1 shou3 zui4 gong1 fu0 。
-- leng3 guang1 chang2 zai4 qian1 feng1 ding3 ， shui2 dao4 ren2 jian4 ye4 yue4 gu1 。
+- he2 dai4 shen2 seng1 ji1 jiang4 shen1 ， shou3 zai1 zhu1 shu4 zuo4 zhu1 lin2 。
+- ning2 long2 li2 xue2 han4 chu1 zao2 ， lao3 bang4 chu1 ni2 guang1 yi4 xun2 。
+- hai3 jin4 jiao1 ren2 gong1 beng4 qi4 ， shan1 shen1 mu4 ke4 fei4 chou2 yin2 。
+- kai1 chuang1 ye4 ban4 bu4 cheng2 mei4 ， ming2 yue4 shi2 shi2 zhao4 wo3 xin1 。
 
 ## 注释
 

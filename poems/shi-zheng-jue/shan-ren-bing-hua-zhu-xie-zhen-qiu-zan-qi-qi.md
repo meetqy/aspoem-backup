@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-qi
-title: 禪人并化主寫真求贊  其七
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 qi1
+title: 禪人并化主寫真求贊  其七○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 qi1 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-qi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 身閒類莫收，心靜情不流。
-- 片月自炯炯，孤雲長悠悠。
-- 顛毛衰白高山雪，眉目寒清古澗秋。
-- 把似春風些子妙，施於草木十方周。
+- 無像而像，有許模樣。
+- 不真而真，只箇形神。
+- 豁清也千巖萬壑而秋，光麗也諸塵百草而春。
+- 恁麽來兮，處處相親。
 
 ## 拼音
 
-- shen1 xian2 lei4 mo4 shou1 ， xin1 jing4 qing2 bu4 liu2 。
-- pian4 yue4 zi4 jiong3 jiong3 ， gu1 yun2 chang2 you1 you1 。
-- dian1 mao2 shuai1 bai2 gao1 shan1 xue3 ， mei2 mu4 han2 qing1 gu3 jian4 qiu1 。
-- ba3 si4 chun1 feng1 xie1 zi3 miao4 ， shi1 wu1 cao3 mu4 shi2 fang1 zhou1 。
+- wu2 xiang4 er2 xiang4 ， you3 xu1 mo2 yang4 。
+- bu4 zhen1 er2 zhen1 ， zhi1 ge4 xing2 shen2 。
+- huo1 qing1 ye3 qian1 yan2 wan4 he4 er2 qiu1 ， guang1 li2 ye3 zhu1 chen2 bai3 cao3 er2 chun1 。
+- nen4 mo2 lai2 xi1 ， chu3 chu3 xiang1 qin1 。
 
 ## 注释
 

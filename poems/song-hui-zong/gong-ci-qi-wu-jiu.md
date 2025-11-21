@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霽雲高敞九城關，簪佩衣裾一望間。
-- 昨日閤門新入奏，降王初綴紫宸班。
+- 紅藥欄邊晚吹輕，玉肌人醉擷芳英。
+- 春衫旖旎香難已，却羡東風太有情。
 
 ## 拼音
 
-- ji4 yun2 gao1 chang3 jiu3 cheng2 guan1 ， zan1 pei4 yi1 ju1 yi2 wang4 jian4 。
-- zuo2 ri4 he2 men2 xin1 ru4 zou4 ， jiang4 wang2 chu1 zhui4 zi3 chen2 ban1 。
+- hong2 yao4 lan2 bian1 wan3 chui1 qing1 ， yu4 ji1 ren2 zui4 xie2 fang1 ying1 。
+- chun1 shan1 yi3 ni3 xiang1 nan2 yi3 ， que4 xian4 dong1 feng1 tai4 you3 qing2 。
 
 ## 注释
 

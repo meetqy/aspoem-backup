@@ -6,10 +6,10 @@ titleSlug: gu-su-huai-gu
 author: 釋義傳
 authorPinyin: shi4 yi4 chuan2
 authorSlug: shi-yi-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

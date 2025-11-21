@@ -6,10 +6,10 @@ titleSlug: yong-qin-chu-shi-zuo-ku-song
 author: 釋祖可
 authorPinyin: shi4 zu3 ke3
 authorSlug: shi-zu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

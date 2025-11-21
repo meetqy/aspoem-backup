@@ -6,9 +6,9 @@ titleSlug: nong-shui-ting
 author: 陳師孟
 authorPinyin: chen2 shi1 meng4
 authorSlug: chen-shi-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

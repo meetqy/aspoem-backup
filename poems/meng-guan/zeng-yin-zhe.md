@@ -1,6 +1,6 @@
 ---
 id: meng-guan-zeng-yin-zhe
-title: 贈隠者
+title: 贈隱者
 titlePinyin: zeng4 yin3 zhe3
 titleSlug: zeng-yin-zhe
 author: 孟貫
@@ -17,7 +17,7 @@ tags: []
 - 世路爭名利，深山獨結茅。
 - 安情自得所，非道豈相交。
 - 百尺松當戶，千年鶴在巢。
-- 知君於此景，未欲等閒拋。
+- 知君於此景，未欲等閑拋。
 
 ## 拼音
 

@@ -6,21 +6,21 @@ titleSlug: za-yong-qi-er
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹西桑柘暮鴉盤，特地霜風滿倦顔。
-- 不用使君相料理，都緣塵土少青山。
+- 巨艦橫江穩不搖，順浮溟漲午時潮。
+- 江南晴色山無翳，乞與閒人取次描。
 
 ## 拼音
 
-- zhu2 xi1 sang1 zhe4 mu4 ya1 pan2 ， te4 di4 shuang1 feng1 man3 juan4 yan2 。
-- bu2 yong4 shi3 jun1 xiang1 liao4 li3 ， dou1 yuan2 chen2 tu3 shao3 qing1 shan1 。
+- ju4 jian4 heng2 jiang1 wen3 bu4 yao2 ， shun4 fu2 ming2 zhang3 wu3 shi2 chao2 。
+- jiang1 nan2 qing2 se4 shan1 wu2 yi4 ， qi3 yu3 xian2 ren2 qu3 ci4 miao2 。
 
 ## 注释
 

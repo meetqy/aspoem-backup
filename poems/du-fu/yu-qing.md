@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天水秋雲薄，從西萬里風。
-- 今朝好晴景，久雨不妨農。
-- 塞柳行疎翠，山棃結小紅。
-- 胡笳樓上發，一雁入高空。
+- 雨時山不改，晴罷峽如新。
+- 天路看殊俗，秋江思殺人。
+- 有猨揮淚盡，無犬附書頻。
+- 故國愁眉外，長歌欲損神。
 
 ## 拼音
 
-- tian1 shui3 qiu1 yun2 bao2 ， cong2 xi1 wan4 li3 feng1 。
-- jin1 zhao1 hao3 qing2 jing3 ， jiu3 yu3 bu4 fang2 nong2 。
-- sai1 liu3 xing2 shu1 cui4 ， shan1 li2 jie2 xiao3 hong2 。
-- hu2 jia1 lou2 shang4 fa1 ， yi2 yan4 ru4 gao1 kong1 。
+- yu3 shi2 shan1 bu4 gai3 ， qing2 ba4 xia2 ru2 xin1 。
+- tian1 lu4 kan4 shu1 su2 ， qiu1 jiang1 si1 sha1 ren2 。
+- you3 yuan2 hui1 lei4 jin4 ， wu2 quan3 fu4 shu1 bin1 。
+- gu4 guo2 chou2 mei2 wai4 ， chang2 ge1 yu4 sun3 shen2 。
 
 ## 注释
 

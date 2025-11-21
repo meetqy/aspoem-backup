@@ -6,21 +6,25 @@ titleSlug: qiu-ri-wan-wang
 author: 朱淑真
 authorPinyin: zhu1 shu1 zhen1
 authorSlug: zhu-shu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 煙濃難認別州山，彷彿鷗群浴遠灘。
-- 一點客帆搖動處，排雲給日弄先寒。
+- 極目寒郊外，晚來微雨收。
+- 隴頭霞散綺，天際月懸鈎。
+- 一字新鴻度，千聲落葉秋。
+- 倚樓堪聽處，玉笛在漁舟。
 
 ## 拼音
 
-- yan1 nong2 nan2 ren4 bie2 zhou1 shan1 ， pang2 fu2 ou1 qun2 yu4 yuan3 tan1 。
-- yi4 dian3 ke4 fan1 yao2 dong4 chu3 ， pai2 yun2 gei3 ri4 nong4 xian1 han2 。
+- ji2 mu4 han2 jiao1 wai4 ， wan3 lai2 wei1 yu3 shou1 。
+- long3 tou2 xia2 san4 qi3 ， tian1 ji4 yue4 xuan2 gou1 。
+- yi2 zi4 xin1 hong2 du4 ， qian1 sheng1 luo4 ye4 qiu1 。
+- yi3 lou2 kan1 ting1 chu3 ， yu4 di2 zai4 yu2 zhou1 。
 
 ## 注释
 

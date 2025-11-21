@@ -6,10 +6,10 @@ titleSlug: ji-wang-zhong-yi-zhong-yi-liu-san-qu-jiu-bu-gui-sheng-yin-yi-zhen-zhi
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: yu-chou-han-lao-di-ji-he-hua-fa-duo-feng-yu-ren-sheng-zu-bie-li-yun-shi-jue-yin-he-zhi-qi-yi
-title: 漢老弟寄和花發多風雨人生足別離韻十絕因和之  其一
-titlePinyin: han4 lao3 di4 ji4 he2 hua1 fa1 duo1 feng1 yu3 ren2 sheng1 zu2 bie2 li2 yun4 shi2 jue2 yin1 he2 zhi1     qi2 yi1
+title: 漢老弟寄和花發多風雨人生足別離韻十絕因和之  其一○
+titlePinyin: han4 lao3 di4 ji4 he2 hua1 fa1 duo1 feng1 yu3 ren2 sheng1 zu2 bie2 li2 yun4 shi2 jue2 yin1 he2 zhi1     qi2 yi1 ○
 titleSlug: han-lao-di-ji-he-hua-fa-duo-feng-yu-ren-sheng-zu-bie-li-yun-shi-jue-yin-he-zhi-qi-yi
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自笑爲容非白璧，從渠入耳有黄華。
-- 一行作吏渾無况，兩眼新來病有花。
+- 十首新詩逼黄絹，數行妙墨寫烏絲。
+- 摩挲老眼還驚顧，文采珊瑚鬭陸離。
 
 ## 拼音
 
-- zi4 xiao4 wei2 rong2 fei1 bai2 bi4 ， cong2 qu2 ru4 er3 you3 huang2 hua2 。
-- yi4 xing2 zuo4 li4 hun2 wu2 kuang4 ， liang3 yan3 xin1 lai2 bing4 you3 hua1 。
+- shi2 shou3 xin1 shi1 bi1 huang2 juan4 ， shu4 xing2 miao4 mo4 xie3 wu1 si1 。
+- mo2 suo1 lao3 yan3 huan2 jing1 gu4 ， wen2 cai3 shan1 hu2 dou4 lu4 li2 。
 
 ## 注释
 

@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 步步相攜不覺難，九層雲外倚闌干。
-- 忽然笑語半天上，無限遊人舉眼看。
+- 步步相㩦不覺難，九霄雲外倚欄杆。
+- 忽然語笑半天上，無限游人舉眼看。
 
 ## 拼音
 
-- bu4 bu4 xiang1 xie2 bu4 jue2 nan2 ， jiu3 ceng2 yun2 wai4 yi3 lan2 gan1 。
-- hu1 ran2 xiao4 yu3 ban4 tian1 shang4 ， wu2 xian4 you2 ren2 ju3 yan3 kan4 。
+- bu4 bu4 xiang1 㩦 bu4 jue2 nan2 ， jiu3 xiao1 yun2 wai4 yi3 lan2 gan1 。
+- hu1 ran2 yu3 xiao4 ban4 tian1 shang4 ， wu2 xian4 you2 ren2 ju3 yan3 kan4 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: song-cheng-ji-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋日烘林巖桂花，笋輿應過野人家。
-- 青山路口望烏石，綠水渡頭行白沙。
-- 里社遊從情最樂，弟兄團聚興無涯。
-- 重陽天氣君歸去，賸醉芳尊詠物華。
+- 開歲春風我亦歸，雪雲猶带雨霏霏。
+- 不須別酒添鄉思，待上靈山同振衣。
 
 ## 拼音
 
-- qiu1 ri4 hong1 lin2 yan2 gui4 hua1 ， sun3 yu2 ying1 guo4 ye3 ren2 jia1 。
-- qing1 shan1 lu4 kou3 wang4 wu1 shi2 ， lü4 shui3 du4 tou2 xing2 bai2 sha1 。
-- li3 she4 you2 cong2 qing2 zui4 le4 ， di4 xiong0 tuan2 ju4 xing1 wu2 ya2 。
-- zhong4 yang2 tian1 qi4 jun1 gui1 qu4 ， sheng4 zui4 fang1 zun1 yong3 wu4 hua2 。
+- kai1 sui4 chun1 feng1 wo3 yi4 gui1 ， xue3 yun2 you2 dai4 yu3 fei1 fei1 。
+- bu4 xu1 bie2 jiu3 tian1 xiang1 si1 ， dai4 shang4 ling2 shan1 tong2 zhen4 yi1 。
 
 ## 注释
 

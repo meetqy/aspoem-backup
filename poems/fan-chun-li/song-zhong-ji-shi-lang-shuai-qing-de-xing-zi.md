@@ -6,10 +6,10 @@ titleSlug: song-zhong-ji-shi-lang-shuai-qing-de-xing-zi
 author: 范純禮
 authorPinyin: fan4 chun2 li3
 authorSlug: fan-chun-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

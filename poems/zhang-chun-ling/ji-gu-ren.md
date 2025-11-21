@@ -6,10 +6,10 @@ titleSlug: ji-gu-ren
 author: 張椿齡
 authorPinyin: zhang1 chun1 ling2
 authorSlug: zhang-chun-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

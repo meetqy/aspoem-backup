@@ -6,10 +6,10 @@ titleSlug: shou-yang-guang-wen-liu-shi-jie-zu-nan-huan-shi-shu-yi-zhuan-shi
 author: 孫銳
 authorPinyin: sun1 rui4
 authorSlug: sun-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: deng-hua
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衆花皆可喜，最好是燈花。
-- 好結無風屋，偏生有慶家。
-- 案頭生瑞菌，火裏養丹砂。
-- 清夜開樽看，山人被詔加。
+- 火樹知誰種，燈花凝不銷。
+- 何人知此意，有喜在明朝。
+- 兒愛抄詩卷，童歡進酒瓢。
+- 紗籠添護惜，莫要隙風摇。
 
 ## 拼音
 
-- zhong4 hua1 jie1 ke3 xi3 ， zui4 hao3 shi4 deng1 hua1 。
-- hao3 jie2 wu2 feng1 wu1 ， pian1 sheng1 you3 qing4 jia1 。
-- an4 tou2 sheng1 rui4 jun1 ， huo3 li3 yang3 dan1 sha1 。
-- qing1 ye4 kai1 zun1 kan4 ， shan1 ren2 bei4 zhao4 jia1 。
+- huo3 shu4 zhi1 shui2 zhong3 ， deng1 hua1 ning2 bu4 xiao1 。
+- he2 ren2 zhi1 ci3 yi4 ， you3 xi3 zai4 ming2 chao2 。
+- er2 ai4 chao1 shi1 juan4 ， tong2 huan1 jin4 jiu3 piao2 。
+- sha1 long2 tian1 hu4 xi1 ， mo4 yao4 xi4 feng1 yao2 。
 
 ## 注释
 

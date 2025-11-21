@@ -6,21 +6,21 @@ titleSlug: ye-zuo
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寞燈花慰客情，濕雲收盡月還明。
-- 夜寒不作東歸夢，坐聽空山落葉聲。
+- 雨雪蕭蕭在異鄉，冷看孤影百愁生。
+- 江南江北春風好，坐對寒燈到五更。
 
 ## 拼音
 
-- ji4 mo4 deng1 hua1 wei4 ke4 qing2 ， shi1 yun2 shou1 jin4 yue4 huan2 ming2 。
-- ye4 han2 bu2 zuo4 dong1 gui1 meng4 ， zuo4 ting1 kong1 shan1 luo4 ye4 sheng1 。
+- yu3 xue3 xiao1 xiao1 zai4 yi4 xiang1 ， leng3 kan4 gu1 ying3 bai3 chou2 sheng1 。
+- jiang1 nan2 jiang1 bei3 chun1 feng1 hao3 ， zuo4 dui4 han2 deng1 dao4 wu3 geng1 。
 
 ## 注释
 

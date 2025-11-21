@@ -6,10 +6,10 @@ titleSlug: qian-tang-huai-gu
 author: 汪斗建
 authorPinyin: wang1 dou4 jian4
 authorSlug: wang-dou-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

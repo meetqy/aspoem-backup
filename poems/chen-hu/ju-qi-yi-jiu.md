@@ -1,24 +1,28 @@
 ---
 id: chen-hu-ju-qi-yi-jiu
-title: 句  其一九
-titlePinyin: ju4     qi2 yi1 jiu3
+title: 句  其一○九
+titlePinyin: ju4     qi2 yi1 ○ jiu3
 titleSlug: ju-qi-yi-jiu
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 看翻後夜月囘照，夢憶前生地不同。
+- 花今國在橫浦南，看誰冰雪來同參。
+- 入南出南此時節，元祐名卿花底雪。
+- 骨香直到桑海翻，花尚永存香豈滅。
 
 ## 拼音
 
-- kan4 fan1 hou4 ye4 yue4 hui2 zhao4 ， meng4 yi4 qian2 sheng1 di4 bu4 tong2 。
+- hua1 jin1 guo2 zai4 heng2 pu3 nan2 ， kan4 shui2 bing1 xue3 lai2 tong2 can1 。
+- ru4 nan2 chu1 nan2 ci3 shi2 jie2 ， yuan2 you4 ming2 qing1 hua1 di3 xue3 。
+- gu3 xiang1 zhi2 dao4 sang1 hai3 fan1 ， hua1 shang4 yong3 cun2 xiang1 qi3 mie4 。
 
 ## 注释
 

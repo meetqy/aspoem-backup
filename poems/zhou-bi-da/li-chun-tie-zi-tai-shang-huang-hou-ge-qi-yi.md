@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 化國春偏好，慈闈日自長。
-- 仙韶喧法曲，齊勸萬年觴。
+- 綵勝宜春字，流霞曼壽觴。
+- 塗歌并里詠，地久對天長。
 
 ## 拼音
 
-- hua4 guo2 chun1 pian1 hao4 ， ci2 wei2 ri4 zi4 chang2 。
-- xian1 shao2 xuan1 fa3 qu3 ， qi2 quan4 wan4 nian2 shang1 。
+- cai3 sheng4 yi2 chun1 zi4 ， liu2 xia2 man4 shou4 shang1 。
+- tu2 ge1 bing4 li3 yong3 ， di4 jiu3 dui4 tian1 chang2 。
 
 ## 注释
 

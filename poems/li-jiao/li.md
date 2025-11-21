@@ -1,7 +1,7 @@
 ---
 id: li-jiao-li
-title: 李
-titlePinyin: li3
+title: 梨
+titlePinyin: li2
 titleSlug: li
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 潘岳閑居日，王戎戲陌辰。
-- 蝶游芳徑馥，鸎囀弱枝新。
-- 葉暗青房晚，花明玉井春。
-- 方知有靈幹，特用表真人。
+- 擅美玄光側，傳芳瀚海中。
+- 鳳文疎象郡，花影麗新豐。
+- 色對瑤池紫，甘依大谷紅。
+- 若令逢漢主，還冀識張公。
 
 ## 拼音
 
-- pan1 yue4 xian2 ju1 ri4 ， wang2 rong2 xi4 mo4 chen2 。
-- die2 you2 fang1 jing4 fu4 ， ying1 zhuan4 ruo4 zhi1 xin1 。
-- ye4 an4 qing1 fang2 wan3 ， hua1 ming2 yu4 jing3 chun1 。
-- fang1 zhi1 you3 ling2 gan4 ， te4 yong4 biao3 zhen1 ren2 。
+- shan4 mei3 xuan2 guang1 ce4 ， chuan2 fang1 han4 hai3 zhong1 。
+- feng4 wen2 shu1 xiang4 jun4 ， hua1 ying3 li2 xin1 feng1 。
+- se4 dui4 yao2 chi2 zi3 ， gan1 yi1 da4 gu3 hong2 。
+- ruo4 ling4 feng2 han4 zhu3 ， huan2 ji4 shi2 zhang1 gong1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ming-he-shan
 author: 翁仲德
 authorPinyin: weng1 zhong4 de2
 authorSlug: weng-zhong-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

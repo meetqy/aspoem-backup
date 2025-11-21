@@ -6,21 +6,21 @@ titleSlug: bai-ma-tou
 author: 賈似道
 authorPinyin: jia3 si4 dao4
 authorSlug: jia-si-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄色輝光耀似金，棗紅牙齒利如針。
-- 更有葡萄毛肉體，日交三度也還贏。
+- 麻頭白面白如銀，細絲透頂根根明。
+- 更加青項長肥腿，戰鬭之時必定贏。
 
 ## 拼音
 
-- huang2 se4 hui1 guang1 yao4 si4 jin1 ， zao3 hong2 ya2 chi3 li4 ru2 zhen1 。
-- geng4 you3 pu2 tao0 mao2 rou4 ti3 ， ri4 jiao1 san1 du4 ye3 huan2 ying2 。
+- ma2 tou2 bai2 mian4 bai2 ru2 yin2 ， xi4 si1 tou4 ding3 gen1 gen1 ming2 。
+- geng4 jia1 qing1 xiang4 chang2 fei2 tui3 ， zhan4 dou4 zhi1 shi2 bi4 ding4 ying2 。
 
 ## 注释
 

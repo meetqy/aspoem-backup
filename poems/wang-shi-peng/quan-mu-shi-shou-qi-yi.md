@@ -1,30 +1,30 @@
 ---
 id: wang-shi-peng-quan-mu-shi-shou-qi-yi
-title: 畎畝十首  其一
-titlePinyin: quan3 mu3 shi2 shou3     qi2 yi1
+title: 畎畝十首  其一○
+titlePinyin: quan3 mu3 shi2 shou3     qi2 yi1 ○
 titleSlug: quan-mu-shi-shou-qi-yi
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畎畝有遺士，妄懷葵藿心。
-- 朝夕傾太陽，不耐氛穢侵。
-- 肝膽有古劍，願言决群陰。
-- 茲志尚鬰鬰，抱膝成悲吟。
+- 儒冠誤身世，偃蹇二十年。
+- 豈不懷明主，富貴乃在天。
+- 平生學忠孝，自致無由前。
+- 青燈照夜長，感激徒自憐。
 
 ## 拼音
 
-- quan3 mu3 you3 yi2 shi4 ， wang4 huai2 kui2 huo4 xin1 。
-- zhao1 xi1 qing1 tai4 yang2 ， bu2 nai4 fen1 hui4 qin1 。
-- gan1 dan3 you3 gu3 jian4 ， yuan4 yan2 jue2 qun2 yin1 。
-- zi1 zhi4 shang4 yu4 yu4 ， bao4 xi1 cheng2 bei1 yin2 。
+- ru2 guan1 wu4 shen1 shi4 ， yan3 jian3 er4 shi2 nian2 。
+- qi3 bu4 huai2 ming2 zhu3 ， fu4 gui4 nai3 zai4 tian1 。
+- ping2 sheng1 xue2 zhong1 xiao4 ， zi4 zhi4 wu2 you2 qian2 。
+- qing1 deng1 zhao4 ye4 chang2 ， gan3 ji1 tu2 zi4 lian2 。
 
 ## 注释
 

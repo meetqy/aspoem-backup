@@ -6,10 +6,10 @@ titleSlug: dong-zhi-hou-wu-ri-yue-ke-chen-wang-ji-le-jing-she-yin-xun-mei-hu-sha
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

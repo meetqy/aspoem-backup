@@ -6,10 +6,10 @@ titleSlug: shi-zi-yan
 author: 繆烈
 authorPinyin: mou2 lie4
 authorSlug: mou-lie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

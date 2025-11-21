@@ -6,25 +6,21 @@ titleSlug: zai-ci-yun-qi-er
 author: 陳棣
 authorPinyin: chen2 di4
 authorSlug: chen-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨過灘聲急，無風亦自波。
-- 花稠春意閙，山遠月明多。
-- 地僻無來轍，門閒欲設羅。
-- 胸中元礧磈，詩酒漫揩磨。
+- 天恐花神漏洩香，故教醖釀待新凉。
+- 丹鉛不御丰容淺，一洗塵凡時世粧。
 
 ## 拼音
 
-- yu3 guo4 tan1 sheng1 ji2 ， wu2 feng1 yi4 zi4 bo1 。
-- hua1 chou2 chun1 yi4 nao4 ， shan1 yuan3 yue4 ming2 duo1 。
-- di4 pi4 wu2 lai2 zhe2 ， men2 xian2 yu4 she4 luo2 。
-- xiong1 zhong1 yuan2 lei2 wei3 ， shi1 jiu3 man4 kai1 mo2 。
+- tian1 kong3 hua1 shen2 lou4 xie4 xiang1 ， gu4 jiao4 yun4 niang4 dai4 xin1 liang2 。
+- dan1 qian1 bu2 yu4 feng1 rong2 qian3 ， yi4 xi3 chen2 fan2 shi2 shi4 zhuang1 。
 
 ## 注释
 

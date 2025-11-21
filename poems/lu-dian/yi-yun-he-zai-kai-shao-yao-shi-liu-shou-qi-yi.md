@@ -1,30 +1,30 @@
 ---
 id: lu-dian-yi-yun-he-zai-kai-shao-yao-shi-liu-shou-qi-yi
-title: 依韵和再開芍藥十六首  其一
-titlePinyin: yi1 yun4 he2 zai4 kai1 shao2 yao4 shi2 liu4 shou3     qi2 yi1
+title: 依韵和再開芍藥十六首  其一○
+titlePinyin: yi1 yun4 he2 zai4 kai1 shao2 yao4 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: yi-yun-he-zai-kai-shao-yao-shi-liu-shou-qi-yi
 author: 陸佃
 authorPinyin: lu4 dian4
 authorSlug: lu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 同時幾許已成空，回首榮枯是夢中。
-- 自昔一般稱國艷，而今兩度嫁春風。
-- 誰人與刻三年葉，何事惟開十日紅。
-- 試倚玉梯丹漢外，爲渠方便問元功。
+- 詩成贏得錦袍先，自是高才遣將偏。
+- 稀遇仙丹時下熟，荐驚神女夢中圓。
+- 丹梯直上三千級，間氣于今五百年。
+- 爲報百花休暗恨，便開三度也由天。
 
 ## 拼音
 
-- tong2 shi2 ji1 xu1 yi3 cheng2 kong1 ， hui2 shou3 rong2 ku1 shi4 meng4 zhong1 。
-- zi4 xi1 yi4 ban1 cheng1 guo2 yan4 ， er2 jin1 liang3 du4 jia4 chun1 feng1 。
-- shui2 ren2 yu3 ke4 san1 nian2 ye4 ， he2 shi4 wei2 kai1 shi2 ri4 hong2 。
-- shi4 yi3 yu4 ti1 dan1 han4 wai4 ， wei2 qu2 fang1 bian4 wen4 yuan2 gong1 。
+- shi1 cheng2 ying2 de2 jin3 pao2 xian1 ， zi4 shi4 gao1 cai2 qian3 jiang1 pian1 。
+- xi1 yu4 xian1 dan1 shi2 xia4 shu2 ， jian4 jing1 shen2 nü3 meng4 zhong1 yuan2 。
+- dan1 ti1 zhi2 shang4 san1 qian1 ji2 ， jian4 qi4 yu2 jin1 wu3 bai3 nian2 。
+- wei2 bao4 bai3 hua1 xiu1 an4 hen4 ， bian4 kai1 san1 du4 ye3 you2 tian1 。
 
 ## 注释
 

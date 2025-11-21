@@ -6,10 +6,10 @@ titleSlug: ze-qing-shi-lan-ting-kao-zuo-xiao-yi-qu-lan-ting-ci
 author: 黄疇若
 authorPinyin: huang2 chou2 ruo4
 authorSlug: huang-chou-ruo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: you-liu-yan-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貴欒大佩六印，賦侏儒俸一囊。
-- 曼倩面有饑色，蟠桃三度偷嘗。
+- 寡女畫眉通好，鄰姬捧心效顰。
+- 况有黄金買賦，不羨碧玉嫁人。
 
 ## 拼音
 
-- gui4 luan2 da4 pei4 liu4 yin4 ， fu4 zhu1 ru2 feng4 yi4 nang2 。
-- man4 qian4 mian4 you3 ji1 se4 ， pan2 tao2 san1 du4 tou1 chang2 。
+- gua3 nü3 hua4 mei2 tong1 hao3 ， lin2 ji1 peng3 xin1 xiao4 pin2 。
+- kuang4 you3 huang2 jin1 mai3 fu4 ， bu2 xian4 bi4 yu4 jia4 ren2 。
 
 ## 注释
 

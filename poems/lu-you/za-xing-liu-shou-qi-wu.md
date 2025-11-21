@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 面顔日瘦口眼大，氣血頓衰鬚髮獰。
-- 不用凌烟寫冠劍，一蓑烟雨事春耕。
+- 倒橐得千錢，從人買釣船。
+- 秋風宿村步，暮雪醉江天。
+- 得意鷗波外，忘歸雁浦邊。
+- 平生笑嚴子，猶有姓名傳。
 
 ## 拼音
 
-- mian4 yan2 ri4 shou4 kou3 yan3 da4 ， qi4 xue4 dun4 shuai1 xu1 fa4 ning2 。
-- bu2 yong4 ling2 yan1 xie3 guan1 jian4 ， yi4 suo1 yan1 yu3 shi4 chun1 geng1 。
+- dao3 tuo2 de2 qian1 qian2 ， cong2 ren2 mai3 diao4 chuan2 。
+- qiu1 feng1 su4 cun1 bu4 ， mu4 xue3 zui4 jiang1 tian1 。
+- de2 yi4 ou1 bo1 wai4 ， wang4 gui1 yan4 pu3 bian1 。
+- ping2 sheng1 xiao4 yan2 zi3 ， you2 you3 xing4 ming2 chuan2 。
 
 ## 注释
 

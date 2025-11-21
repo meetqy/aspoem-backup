@@ -6,9 +6,9 @@ titleSlug: shi-yue-dan-du-zi-mei-bei-feng-chui-zhang-li-lei-lao-si-san-ce-zhi-ju
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

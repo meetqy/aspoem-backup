@@ -6,9 +6,9 @@ titleSlug: zheng-heng-zhong-zuo-ting-xi-shan-yan-yue-ke-you-yi-shu-qiu-shi-wei-f
 author: 潘良貴
 authorPinyin: pan1 liang2 gui4
 authorSlug: pan-liang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

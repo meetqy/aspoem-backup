@@ -6,9 +6,9 @@ titleSlug: zhuang-yuan-zhang-jian-cheng-cui-shan-jiao-jian-zhi-lang-zhong-sheng-
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

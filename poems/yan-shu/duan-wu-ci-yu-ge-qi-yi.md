@@ -6,21 +6,21 @@ titleSlug: duan-wu-ci-yu-ge-qi-yi
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 沐浴蘭湯在此辰，內園仙境物華新。
-- 輕絲五綵纏金縷，共祝堯年壽萬春。
+- 五綵絲長繫臂初，萬年芳樹影扶疏。
+- 豈勞方士標神篆，自有真靈衛帝居。
 
 ## 拼音
 
-- mu4 yu4 lan2 tang1 zai4 ci3 chen2 ， nei4 yuan2 xian1 jing4 wu4 hua2 xin1 。
-- qing1 si1 wu3 cai3 chan2 jin1 lü3 ， gong4 zhu4 yao2 nian2 shou4 wan4 chun1 。
+- wu3 cai3 si1 chang2 xi4 bi4 chu1 ， wan4 nian2 fang1 shu4 ying3 fu2 shu1 。
+- qi3 lao2 fang1 shi4 biao1 shen2 zhuan4 ， zi4 you3 zhen1 ling2 wei4 di4 ju1 。
 
 ## 注释
 

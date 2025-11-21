@@ -1,30 +1,30 @@
 ---
 id: chao-shuo-zhi-gan-shi-er-shou-qi-yi
-title: 感事二首  其一
-titlePinyin: gan3 shi4 er4 shou3     qi2 yi1
+title: 感時二首  其一
+titlePinyin: gan3 shi2 er4 shou3     qi2 yi1
 titleSlug: gan-shi-er-shou-qi-yi
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 本是懸車却掃人，猥貪雨露政惟新。
-- 干戈難作牆東客，疾病猶存硯北身。
-- 敢覓圖書灰燼裏，誰分盜賊甲兵屯。
-- 紛紛四海人知否，猶屬炎年第一春。
+- 衣冠迷魯衛，食飲歎荆揚。
+- 夜雨思鄉近，秋風客夢長。
+- 莫言遊帝所，要且狩河陽。
+- 丞相如求士，當求張子房。
 
 ## 拼音
 
-- ben3 shi4 xuan2 ju1 que4 sao3 ren2 ， wei3 tan1 yu3 lu4 zheng4 wei2 xin1 。
-- gan1 ge1 nan2 zuo4 qiang2 dong1 ke4 ， ji2 bing4 you2 cun2 yan4 bei3 shen1 。
-- gan3 mi4 tu2 shu1 hui1 jin4 li3 ， shui2 fen1 dao4 zei2 jia3 bing1 tun2 。
-- fen1 fen1 si4 hai3 ren2 zhi1 fou3 ， you2 shu3 yan2 nian2 di4 yi1 chun1 。
+- yi1 guan1 mi2 lu3 wei4 ， shi2 yin3 tan4 jing1 yang2 。
+- ye4 yu3 si1 xiang1 jin4 ， qiu1 feng1 ke4 meng4 chang2 。
+- mo4 yan2 you2 di4 suo3 ， yao4 qie3 shou4 he2 yang2 。
+- cheng2 xiang4 ru2 qiu2 shi4 ， dang1 qiu2 zhang1 zi3 fang2 。
 
 ## 注释
 

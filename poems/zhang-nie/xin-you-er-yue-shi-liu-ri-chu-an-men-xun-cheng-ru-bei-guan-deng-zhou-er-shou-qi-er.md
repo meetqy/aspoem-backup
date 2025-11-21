@@ -6,9 +6,9 @@ titleSlug: xin-you-er-yue-shi-liu-ri-chu-an-men-xun-cheng-ru-bei-guan-deng-zhou-
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

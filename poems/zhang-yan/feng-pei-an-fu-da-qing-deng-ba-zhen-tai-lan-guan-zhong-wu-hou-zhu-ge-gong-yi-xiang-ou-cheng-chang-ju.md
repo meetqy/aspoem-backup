@@ -6,10 +6,10 @@ titleSlug: feng-pei-an-fu-da-qing-deng-ba-zhen-tai-lan-guan-zhong-wu-hou-zhu-ge-
 author: 張縯
 authorPinyin: zhang1 yan3
 authorSlug: zhang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

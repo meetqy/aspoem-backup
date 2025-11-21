@@ -6,9 +6,9 @@ titleSlug: bai-ma-jing
 author: 許康民
 authorPinyin: xu1 kang1 min2
 authorSlug: xu-kang-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

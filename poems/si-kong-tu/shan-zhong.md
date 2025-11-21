@@ -9,22 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 全家與我戀孤岑，蹋得蒼苔一徑深。
-- 逃難人多分隙地，放生麋大出寒林。
-- 名應不朽輕仙骨，理到忘機近佛心。
-- 昨夜前溪驟雷雨，晚晴閑步數峰吟。
+- 凡鳥愛喧人靜處，閑雲似妬月明時。
+- 世間萬事非吾事，只愧秋來未有詩。
 
 ## 拼音
 
-- quan2 jia1 yu3 wo3 lian4 gu1 cen2 ， ta4 de2 cang1 tai2 yi2 jing4 shen1 。
-- tao2 nan2 ren2 duo1 fen1 xi4 di4 ， fang4 sheng1 mi2 da4 chu1 han2 lin2 。
-- ming2 ying1 bu4 xiu3 qing1 xian1 gu3 ， li3 dao4 wang4 ji1 jin4 fo2 xin1 。
-- zuo2 ye4 qian2 xi1 zhou4 lei2 yu3 ， wan3 qing2 xian2 bu4 shu4 feng1 yin2 。
+- fan2 niao3 ai4 xuan1 ren2 jing4 chu3 ， xian2 yun2 si4 du4 yue4 ming2 shi2 。
+- shi4 jian4 wan4 shi4 fei1 wu2 shi4 ， zhi1 kui4 qiu1 lai2 wei4 you3 shi1 。
 
 ## 注释
 

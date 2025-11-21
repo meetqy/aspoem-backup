@@ -6,25 +6,25 @@ titleSlug: qi-xi
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東西燕子伯勞飛，新月如鈎玉露垂。
-- 河鼓天孫信靈匹，鵲橋星渚有佳期。
-- 穿針乞巧佇立久，織素成章報答遲。
-- 定與黄姑享偕老，晉宫休插奈花枝。
+- 天開翠帟暮氛消，盤薰朱煤惜易飄。
+- 月出南樓蟾桂長，笙來北里鳳簧調。
+- 巧蛛露濕千絲網，倦鵲波橫一夕橋。
+- 曬腹曝衣傳故俗，阮庭布犢若爲標。
 
 ## 拼音
 
-- dong1 xi1 yan4 zi0 bo2 lao2 fei1 ， xin1 yue4 ru2 gou1 yu4 lu4 chui2 。
-- he2 gu3 tian1 sun1 xin4 ling2 pi3 ， que4 qiao2 xing1 zhu3 you3 jia1 qi1 。
-- chuan1 zhen1 qi3 qiao3 zhu4 li4 jiu3 ， zhi1 su4 cheng2 zhang1 bao4 da2 chi2 。
-- ding4 yu3 huang2 gu1 xiang3 xie2 lao3 ， jin4 gong1 xiu1 cha1 nai4 hua1 zhi1 。
+- tian1 kai1 cui4 yi4 mu4 fen1 xiao1 ， pan2 xun1 zhu1 mei2 xi1 yi4 piao1 。
+- yue4 chu1 nan2 lou2 chan2 gui4 chang2 ， sheng1 lai2 bei3 li3 feng4 huang2 diao4 。
+- qiao3 zhu1 lu4 shi1 qian1 si1 wang3 ， juan4 que4 bo1 heng2 yi4 xi1 qiao2 。
+- shai4 fu4 bao4 yi1 chuan2 gu4 su2 ， ruan3 ting2 bu4 du2 ruo4 wei2 biao1 。
 
 ## 注释
 

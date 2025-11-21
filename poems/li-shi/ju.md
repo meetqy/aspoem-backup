@@ -3,22 +3,22 @@ id: li-shi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 李氏
-authorPinyin: li3 shi4
+author: 李湜
+authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清朝富貴利名在，結髪夫妻日月長。
+- 迸石如散珠，穿雲似流玉。
 
 ## 拼音
 
-- qing1 chao2 fu4 gui4 li4 ming2 zai4 ， jie2 fa4 fu1 qi1 ri4 yue4 chang2 。
+- beng4 shi2 ru2 san4 zhu1 ， chuan1 yun2 si4 liu2 yu4 。
 
 ## 注释
 

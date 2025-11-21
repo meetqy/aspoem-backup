@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-si
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早臨書殿啓芸香，冰硯難開肅曉霜。
-- 誰製暖爐新様巧，雲龍突鏤遍金箱。
+- 滿架酴醾旖旎香，小亭芳沼戲鴛鴦。
+- 蘭房祗慕承恩澤，愈學時宜百巧粧。
 
 ## 拼音
 
-- zao3 lin2 shu1 dian4 qi3 yun2 xiang1 ， bing1 yan4 nan2 kai1 su4 xiao3 shuang1 。
-- shui2 zhi4 nuan3 lu2 xin1 yang4 qiao3 ， yun2 long2 tu1 lou4 bian4 jin1 xiang1 。
+- man3 jia4 tu2 mi2 yi3 ni3 xiang1 ， xiao3 ting2 fang1 zhao3 xi4 yuan1 yang1 。
+- lan2 fang2 zhi1 mu4 cheng2 en1 ze2 ， yu4 xue2 shi2 yi2 bai3 qiao3 zhuang1 。
 
 ## 注释
 

@@ -9,26 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 世人重珍寶，我則不如然。
-- 名聞即知足，富貴心不緣。
-- 唯樂簞瓢飲，無求澡鏡銓。
-- 饑食西山稻，渴飲本源泉。
-- 寒披無相服，熱來松下眠。
-- 知身無究竟，任運了殘年。
+- 教君一箇法，有事無處避。
+- 若能如理修，存本却有利。
 
 ## 拼音
 
-- shi4 ren2 zhong4 zhen1 bao3 ， wo3 ze2 bu4 ru2 ran2 。
-- ming2 wen2 ji2 zhi1 zu2 ， fu4 gui4 xin1 bu4 yuan2 。
-- wei2 le4 dan1 piao2 yin3 ， wu2 qiu2 zao3 jing4 quan2 。
-- ji1 shi2 xi1 shan1 dao4 ， ke3 yin3 ben3 yuan2 quan2 。
-- han2 pi1 wu2 xiang1 fu2 ， re4 lai2 song1 xia4 mian2 。
-- zhi1 shen1 wu2 jiu1 jing4 ， ren4 yun4 le0 can2 nian2 。
+- jiao4 jun1 yi2 ge4 fa3 ， you3 shi4 wu2 chu3 bi4 。
+- ruo4 neng2 ru2 li3 xiu1 ， cun2 ben3 que4 you3 li4 。
 
 ## 注释
 

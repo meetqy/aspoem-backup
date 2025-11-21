@@ -1,26 +1,26 @@
 ---
 id: han-yuan-ji-qiu-huai-shi-shou-qi-yi
-title: 秋懷十首  其一
-titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1
+title: 秋懷十首  其一○
+titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: qiu-huai-shi-shou-qi-yi
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝行佛屋魚千里，暮借僧牀鷯一枝。
-- 窗下秋蟲解人意，似憐羈客伴哦詩。
+- 閉戶跏趺意已清，爐香燒盡一燈明。
+- 空庭葉落知多少，一任西風百種聲。
 
 ## 拼音
 
-- chao2 xing2 fo2 wu1 yu2 qian1 li3 ， mu4 jie4 seng1 chuang2 liao2 yi4 zhi1 。
-- chuang1 xia4 qiu1 chong2 jie3 ren2 yi4 ， si4 lian2 ji1 ke4 ban4 o4 shi1 。
+- bi4 hu4 jia1 fu1 yi4 yi3 qing1 ， lu2 xiang1 shao1 jin4 yi4 deng1 ming2 。
+- kong1 ting2 ye4 luo4 zhi1 duo1 shao3 ， yi2 ren4 xi1 feng1 bai3 zhong3 sheng1 。
 
 ## 注释
 

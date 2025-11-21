@@ -6,25 +6,25 @@ titleSlug: qiu-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 魚復城邊逢雁飛，白頭覊客恨依依。
-- 遠遊眼底故交少，晚歲人間樂事稀。
-- 雲重古關傳夜柝，月斜深巷擣秋衣。
-- 官閑況是頻移疾，藥鼎熒熒臥掩扉。
+- 詩人本自易悲傷，何况身更憂患場。
+- 烏鵲成橋秋又到，梧桐滴雨夜初凉。
+- 江南江北堠雙隻，燈暗燈明更短長。
+- 安得平生會心侶，一尊相屬送年光。
 
 ## 拼音
 
-- yu2 fu4 cheng2 bian1 feng2 yan4 fei1 ， bai2 tou2 ji1 ke4 hen4 yi1 yi1 。
-- yuan3 you2 yan3 di3 gu4 jiao1 shao3 ， wan3 sui4 ren2 jian4 le4 shi4 xi1 。
-- yun2 zhong4 gu3 guan1 chuan2 ye4 tuo4 ， yue4 xie2 shen1 xiang4 dao3 qiu1 yi1 。
-- guan1 xian2 kuang4 shi4 bin1 yi2 ji2 ， yao4 ding3 ying2 ying2 wo4 yan3 fei1 。
+- shi1 ren2 ben3 zi4 yi4 bei1 shang1 ， he2 kuang4 shen1 geng4 you1 huan4 chang3 。
+- wu1 que4 cheng2 qiao2 qiu1 you4 dao4 ， wu2 tong2 di1 yu3 ye4 chu1 liang2 。
+- jiang1 nan2 jiang1 bei3 hou4 shuang1 zhi1 ， deng1 an4 deng1 ming2 geng4 duan3 chang2 。
+- an1 de2 ping2 sheng1 hui4 xin1 lü3 ， yi4 zun1 xiang1 shu3 song4 nian2 guang1 。
 
 ## 注释
 

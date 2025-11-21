@@ -1,26 +1,26 @@
 ---
 id: shi-shi-gui-song-gu-qi-shi-liu-shou-qi-qi
-title: 頌古七十六首  其七
-titlePinyin: song4 gu3 qi1 shi2 liu4 shou3     qi2 qi1
+title: 頌古七十六首  其七○
+titlePinyin: song4 gu3 qi1 shi2 liu4 shou3     qi2 qi1 ○
 titleSlug: song-gu-qi-shi-liu-shou-qi-qi
 author: 釋士珪
 authorPinyin: shi4 shi4 gui1
 authorSlug: shi-shi-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 入林不動草，入水不動波。
-- 鑊湯無冷處，合眼跳黄河。
+- 鋸解秤鎚渾似鐵，大愚老子曾饒舌。
+- 水流澗下太忙生，雲在嶺頭閑不徹。
 
 ## 拼音
 
-- ru4 lin2 bu2 dong4 cao3 ， ru4 shui3 bu2 dong4 bo1 。
-- huo4 tang1 wu2 leng3 chu3 ， he2 yan3 tiao4 huang2 he2 。
+- ju4 jie3 cheng4 chui2 hun2 si4 tie3 ， da4 yu2 lao3 zi3 ceng2 rao2 she2 。
+- shui3 liu2 jian4 xia4 tai4 mang2 sheng1 ， yun2 zai4 ling3 tou2 xian2 bu2 che4 。
 
 ## 注释
 

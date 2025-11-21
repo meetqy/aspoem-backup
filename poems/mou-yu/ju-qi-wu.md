@@ -6,10 +6,10 @@ titleSlug: ju-qi-wu
 author: 繆瑜
 authorPinyin: mou2 yu2
 authorSlug: mou-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

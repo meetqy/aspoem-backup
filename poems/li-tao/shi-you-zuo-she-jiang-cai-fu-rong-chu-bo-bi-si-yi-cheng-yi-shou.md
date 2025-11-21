@@ -6,10 +6,10 @@ titleSlug: shi-you-zuo-she-jiang-cai-fu-rong-chu-bo-bi-si-yi-cheng-yi-shou
 author: 李濤
 authorPinyin: li3 tao1
 authorSlug: li-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

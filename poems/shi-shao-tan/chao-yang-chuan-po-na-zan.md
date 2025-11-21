@@ -6,21 +6,23 @@ titleSlug: chao-yang-chuan-po-na-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斷線無蹊，折針缺鼻。
-- 提得完全，金烏西墜。
+- 死鐵針，無鼻竅。
+- 眼昏花，穿不過。
+- 穿得過，雲擁禪衣，風生木杪。
 
 ## 拼音
 
-- duan4 xian4 wu2 qi1 ， zhe2 zhen1 que1 bi2 。
-- ti2 de2 wan2 quan2 ， jin1 wu1 xi1 zhui4 。
+- si3 tie3 zhen1 ， wu2 bi2 qiao4 。
+- yan3 hun1 hua1 ， chuan1 bu2 guo4 。
+- chuan1 de2 guo4 ， yun2 yong1 shan4 yi1 ， feng1 sheng1 mu4 miao3 。
 
 ## 注释
 

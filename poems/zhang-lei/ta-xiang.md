@@ -6,25 +6,25 @@ titleSlug: ta-xiang
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春寒客古寺，草草過鶯花。
-- 小榼供朝酒，溫爐煮夜茶。
-- 柏庭鳴曉吹，樓角麗朝霞。
-- 莫嘆萍蓬迹，心安即是家。
+- 身寄他鄉遠，心驚土俗殊。
+- 閭閻諱冠带，子弟笑詩書。
+- 韓國縱橫後，商頑習尚餘。
+- 幾時東去棹，笑膾楚鄉魚。
 
 ## 拼音
 
-- chun1 han2 ke4 gu3 si4 ， cao3 cao3 guo4 ying1 hua1 。
-- xiao3 ke1 gong4 chao2 jiu3 ， wen1 lu2 zhu3 ye4 cha2 。
-- bai3 ting2 ming2 xiao3 chui1 ， lou2 jiao3 li2 zhao1 xia2 。
-- mo4 tan4 ping2 peng2 ji4 ， xin1 an1 ji2 shi4 jia1 。
+- shen1 ji4 ta1 xiang1 yuan3 ， xin1 jing1 tu3 su2 shu1 。
+- lü2 yan2 hui4 guan1 dai4 ， zi3 di4 xiao4 shi1 shu1 。
+- han2 guo2 zong4 heng2 hou4 ， shang1 wan2 xi2 shang4 yu2 。
+- ji1 shi2 dong1 qu4 zhao4 ， xiao4 kuai4 chu3 xiang1 yu2 。
 
 ## 注释
 

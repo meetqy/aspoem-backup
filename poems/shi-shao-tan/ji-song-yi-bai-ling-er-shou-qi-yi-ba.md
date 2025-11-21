@@ -6,23 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-ba
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山木陰陰，寒花淺深。
-- 巢雲鶴怨，掛月猿吟。
-- 王維妙手畫不得，神光徒自覓安心。
+- 有服藥，甚功效。
+- 不收肘後方書，不入神農本草。
+- 善財採處不識真，文殊用之不得妙。
+- 佛壟信手拈來，百病根源俱掃。
 
 ## 拼音
 
-- shan1 mu4 yin1 yin1 ， han2 hua1 qian3 shen1 。
-- chao2 yun2 he4 yuan4 ， gua4 yue4 yuan2 yin2 。
-- wang2 wei2 miao4 shou3 hua4 bu4 de2 ， shen2 guang1 tu2 zi4 mi4 an1 xin1 。
+- you3 fu2 yao4 ， shen4 gong1 xiao4 。
+- bu4 shou1 zhou3 hou4 fang1 shu1 ， bu2 ru4 shen2 nong2 ben3 cao3 。
+- shan4 cai2 cai3 chu3 bu4 shi2 zhen1 ， wen2 shu1 yong4 zhi1 bu4 de2 miao4 。
+- fo2 long3 xin4 shou3 nian1 lai2 ， bai3 bing4 gen1 yuan2 ju4 sao3 。
 
 ## 注释
 

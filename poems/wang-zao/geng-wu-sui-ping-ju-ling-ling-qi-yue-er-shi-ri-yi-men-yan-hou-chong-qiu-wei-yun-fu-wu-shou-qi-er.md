@@ -6,10 +6,10 @@ titleSlug: geng-wu-sui-ping-ju-ling-ling-qi-yue-er-shi-ri-yi-men-yan-hou-chong-q
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

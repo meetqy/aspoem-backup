@@ -6,10 +6,10 @@ titleSlug: ti-bu-qi-shi-zhang-wei-gong-wei-wang-gui-ling-shu-ye-he-zi-ying-fu-sh
 author: 王秬
 authorPinyin: wang2 ju4
 authorSlug: wang-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: lin-di-you-ti-ruan-xi-sheng-dong-hu-shi-jue-qi-yi
-title: 又題阮希聖東湖十絕  其一
-titlePinyin: you4 ti2 ruan3 xi1 sheng4 dong1 hu2 shi2 jue2     qi2 yi1
+title: 又題阮希聖東湖十絕  其一○
+titlePinyin: you4 ti2 ruan3 xi1 sheng4 dong1 hu2 shi2 jue2     qi2 yi1 ○
 titleSlug: you-ti-ruan-xi-sheng-dong-hu-shi-jue-qi-yi
 author: 林迪
 authorPinyin: lin2 di2
 authorSlug: lin-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 群山高下浸湖溽，暝靄朝霞物物新。
-- 驛道更穿東北去，青銅影裏看行人。
+- 仙亭射的鬭崔嵬，紫翠飄飄落酒杯。
+- 更待春陰須一往，要看雷雨過湖來。
 
 ## 拼音
 
-- qun2 shan1 gao1 xia4 jin4 hu2 ru4 ， ming2 ai3 zhao1 xia2 wu4 wu4 xin1 。
-- yi4 dao4 geng4 chuan1 dong1 bei3 qu4 ， qing1 tong2 ying3 li3 kan4 xing2 ren2 。
+- xian1 ting2 she4 de0 dou4 cui1 wei2 ， zi3 cui4 piao1 piao1 luo4 jiu3 bei1 。
+- geng4 dai4 chun1 yin1 xu1 yi4 wang3 ， yao4 kan4 lei2 yu3 guo4 hu2 lai2 。
 
 ## 注释
 

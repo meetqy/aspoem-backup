@@ -9,22 +9,44 @@ authorSlug: bai-yuan-jian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 靈山實秀德，仙聖杳難親。
-- 水溜空沿石，雲扃不見人。
-- 川原世上異，日月洞中春。
+- 名山閟靈府，隱士此尋真。
+- 仙去空遺鼓，雲扃不見人。
+- 川源世上異，日月洞中春。
 - 欲出虛無境，應修有待身。
+- （見《洞霄詩集》。
+- ）（〖1〗鄧牧《洞霄圖志》卷二《山水門・大滌山》條：「大滌山，在宮〖指洞霄宮〗北，凡四峯，於九鎖內最爲巨山。
+- 西洞據其領，石室出其半，天壇冠其顛，皆山中勝處也。
+- 是山以洞名之。
+- 舊志謂大可以洗滌塵心，故名大滌。
+- …… 元同先生劍履瘞山下。
+- 」〖2〗又《洞霄圖志》卷三《洞府門・大滌洞》條：「大滌洞在宮西北半里。
+- 《茅君傳》云第三十四洞天，名大滌元蓋之天。
+- 周圍四百里，…… 相傳元同先生入游，見龍麟異境，花木鮮繁，自華陽而歸〖望按前文有云：與華陽林屋邃道通〗。
+- 洞門石鼓，廣可尋丈，扣之逄逄有聲。
+- 」）。
 
 ## 拼音
 
-- ling2 shan1 shi2 xiu4 de2 ， xian1 sheng4 yao3 nan2 qin1 。
-- shui3 liu4 kong1 yan2 shi2 ， yun2 jiong1 bu2 jian4 ren2 。
+- ming2 shan1 bi4 ling2 fu3 ， yin3 shi4 ci3 xun2 zhen1 。
+- xian1 qu4 kong1 yi2 gu3 ， yun2 jiong1 bu2 jian4 ren2 。
 - chuan1 yuan2 shi4 shang4 yi4 ， ri4 yue4 dong4 zhong1 chun1 。
 - yu4 chu1 xu1 wu2 jing4 ， ying1 xiu1 you3 dai4 shen1 。
+- （ jian4 《 dong4 xiao1 shi1 ji2 》。
+- ）（〖1〗 deng4 mu4 《 dong4 xiao1 tu2 zhi4 》 juan4 er4 《 shan1 shui3 men2 ・ da4 di2 shan1 》 tiao2 ：「 da4 di2 shan1 ， zai4 gong1 〖 zhi3 dong4 xiao1 gong1 〗 bei3 ， fan2 si4 feng1 ， wu1 jiu3 suo3 nei4 zui4 wei2 ju4 shan1 。
+- xi1 dong4 ju4 qi2 ling3 ， shi2 shi4 chu1 qi2 ban4 ， tian1 tan2 guan1 qi2 dian1 ， jie1 shan1 zhong1 sheng4 chu3 ye3 。
+- shi4 shan1 yi3 dong4 ming2 zhi1 。
+- jiu4 zhi4 wei4 da4 ke3 yi3 xi3 di2 chen2 xin1 ， gu4 ming2 da4 di2 。
+- ……  yuan2 tong2 xian1 sheng0 jian4 lü3 yi4 shan1 xia4 。
+- 」〖2〗 you4 《 dong4 xiao1 tu2 zhi4 》 juan4 san1 《 dong4 fu3 men2 ・ da4 di2 dong4 》 tiao2 ：「 da4 di2 dong4 zai4 gong1 xi1 bei3 ban4 li3 。
+- 《 mao2 jun1 chuan2 》 yun2 di4 san1 shi2 si4 dong4 tian1 ， ming2 da4 di2 yuan2 gai4 zhi1 tian1 。
+- zhou1 wei2 si4 bai3 li3 ，……  xiang1 chuan2 yuan2 tong2 xian1 sheng0 ru4 you2 ， jian4 long2 lin2 yi4 jing4 ， hua1 mu4 xian1 fan2 ， zi4 hua2 yang2 er2 gui1 〖 wang4 an4 qian2 wen2 you3 yun2 ： yu3 hua2 yang2 lin2 wu1 sui4 dao4 tong1 〗。
+- dong4 men2 shi2 gu3 ， guang3 ke3 xun2 zhang4 ， kou4 zhi1 pang2 pang2 you3 sheng1 。
+- 」）。
 
 ## 注释
 

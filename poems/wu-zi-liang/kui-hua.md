@@ -6,10 +6,10 @@ titleSlug: kui-hua
 author: 吳子良
 authorPinyin: wu2 zi3 liang2
 authorSlug: wu-zi-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

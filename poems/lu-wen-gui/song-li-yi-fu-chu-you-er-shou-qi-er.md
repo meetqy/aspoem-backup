@@ -6,25 +6,21 @@ titleSlug: song-li-yi-fu-chu-you-er-shou-qi-er
 author: 陸文圭
 authorPinyin: lu4 wen2 gui1
 authorSlug: lu-wen-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少年有志東山卧，晚歲方圖北海遊。
-- 餬口饑寧甘半菽，拄胸氣尚食全牛。
-- 問唐元振今誰在，欲趙平原何處求。
-- 赤白洪崖兩相厄，不妨詩句各風流。
+- 三千丈髪從渠脫，九十日春須我遊。
+- 出却草堂三五里，囊中無得一錢留。
 
 ## 拼音
 
-- shao4 nian2 you3 zhi4 dong1 shan1 wo4 ， wan3 sui4 fang1 tu2 bei3 hai3 you2 。
-- hu2 kou3 ji1 ning2 gan1 ban4 shu1 ， zhu3 xiong1 qi4 shang4 shi2 quan2 niu2 。
-- wen4 tang2 yuan2 zhen4 jin1 shui2 zai4 ， yu4 zhao4 ping2 yuan2 he2 chu3 qiu2 。
-- chi4 bai2 hong2 ya2 liang3 xiang1 e4 ， bu4 fang2 shi1 ju4 ge4 feng1 liu2 。
+- san1 qian1 zhang4 fa4 cong2 qu2 tuo1 ， jiu3 shi2 ri4 chun1 xu1 wo3 you2 。
+- chu1 que4 cao3 tang2 san1 wu3 li3 ， nang2 zhong1 wu2 de2 yi4 qian2 liu2 。
 
 ## 注释
 

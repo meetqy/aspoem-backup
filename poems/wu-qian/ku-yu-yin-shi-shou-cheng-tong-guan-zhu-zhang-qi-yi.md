@@ -1,30 +1,30 @@
 ---
 id: wu-qian-ku-yu-yin-shi-shou-cheng-tong-guan-zhu-zhang-qi-yi
-title: 苦雨吟十首呈同官諸丈  其一
-titlePinyin: ku3 yu3 yin2 shi2 shou3 cheng2 tong2 guan1 zhu1 zhang4     qi2 yi1
+title: 苦雨吟十首呈同官諸丈  其一○
+titlePinyin: ku3 yu3 yin2 shi2 shou3 cheng2 tong2 guan1 zhu1 zhang4     qi2 yi1 ○
 titleSlug: ku-yu-yin-shi-shou-cheng-tong-guan-zhu-zhang-qi-yi
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舊雨連今雨，南鳩喚北鳩。
-- 聲聲腸寸斷，點點淚交流。
-- 歷耳風來處，凝眸天盡頭。
-- 衷情如此苦，造物亦憐不。
+- 老守最憂農，往來思慮忡。
+- 半時半刻裏，一飯一茶中。
+- 饑溺真猶己，恫 {疒眾} 在厥躬。
+- 天高元聽下，一念豈難通。
 
 ## 拼音
 
-- jiu4 yu3 lian2 jin1 yu3 ， nan2 jiu1 huan4 bei3 jiu1 。
-- sheng1 sheng1 chang2 cun4 duan4 ， dian3 dian3 lei4 jiao1 liu2 。
-- li4 er3 feng1 lai2 chu3 ， ning2 mou2 tian1 jin4 tou2 。
-- zhong1 qing2 ru2 ci3 ku3 ， zao4 wu4 yi4 lian2 bu4 。
+- lao3 shou3 zui4 you1 nong2 ， wang3 lai2 si1 lü4 chong1 。
+- ban4 shi2 ban4 ke4 li3 ， yi2 fan4 yi4 cha2 zhong1 。
+- ji1 ni4 zhen1 you2 ji3 ， dong4  { ne4 zhong4 }  zai4 jue2 gong1 。
+- tian1 gao1 yuan2 ting1 xia4 ， yi2 nian4 qi3 nan2 tong1 。
 
 ## 注释
 

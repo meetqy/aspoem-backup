@@ -6,10 +6,10 @@ titleSlug: ti-tai-hu
 author: 羅處約
 authorPinyin: luo2 chu3 yue1
 authorSlug: luo-chu-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

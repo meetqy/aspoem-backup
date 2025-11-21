@@ -6,10 +6,10 @@ titleSlug: chong-you-dong-ting
 author: 呂祖异
 authorPinyin: lü3 zu3 yi4
 authorSlug: lu-zu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

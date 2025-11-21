@@ -6,10 +6,10 @@ titleSlug: ting-qian-you-gu-huai-yi-zhu-zhi-ye-fu-shu-guang-yin-yi-mu-mei-dang-y
 author: 劉摰
 authorPinyin: liu2 nie4
 authorSlug: liu-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

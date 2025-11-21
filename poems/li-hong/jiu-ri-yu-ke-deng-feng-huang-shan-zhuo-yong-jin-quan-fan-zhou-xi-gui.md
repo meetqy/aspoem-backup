@@ -6,10 +6,10 @@ titleSlug: jiu-ri-yu-ke-deng-feng-huang-shan-zhuo-yong-jin-quan-fan-zhou-xi-gui
 author: 李洪
 authorPinyin: li3 hong2
 authorSlug: li-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

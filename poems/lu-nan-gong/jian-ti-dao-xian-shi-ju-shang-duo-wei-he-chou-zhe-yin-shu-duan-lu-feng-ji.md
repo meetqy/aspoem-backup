@@ -6,10 +6,10 @@ titleSlug: jian-ti-dao-xian-shi-ju-shang-duo-wei-he-chou-zhe-yin-shu-duan-lu-fen
 author: 呂南公
 authorPinyin: lü3 nan2 gong1
 authorSlug: lu-nan-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ding-wei-zhong-xia-ji-di-hai-ling-guan-she-jia-da-ren-shang-yue-zuo-s
 author: 孫應符
 authorPinyin: sun1 ying1 fu2
 authorSlug: sun-ying-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

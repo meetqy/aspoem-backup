@@ -6,10 +6,10 @@ titleSlug: yu-hou-dao-jian-jian-hong-mei
 author: 施樞
 authorPinyin: shi1 shu1
 authorSlug: shi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

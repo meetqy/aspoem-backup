@@ -14,12 +14,12 @@ tags: []
 
 ## 正文
 
-- 弔憐君送我至南康，更憶梅花庾嶺芳。
-- 多少仙山共遊在，願君百歲尚康强。
+- 憐君送我至南康，更憶梅花庾嶺芳。
+- 多少仙山共遊在，願君百歲尚康強。
 
 ## 拼音
 
-- diao4 lian2 jun1 song4 wo3 zhi4 nan2 kang1 ， geng4 yi4 mei2 hua1 yu3 ling3 fang1 。
+- lian2 jun1 song4 wo3 zhi4 nan2 kang1 ， geng4 yi4 mei2 hua1 yu3 ling3 fang1 。
 - duo1 shao3 xian1 shan1 gong4 you2 zai4 ， yuan4 jun1 bai3 sui4 shang4 kang1 qiang2 。
 
 ## 注释

@@ -6,10 +6,10 @@ titleSlug: chun-gong-yuan
 author: 杜荀鶴
 authorPinyin: du4 xun2 he4
 authorSlug: du-xun-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

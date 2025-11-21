@@ -6,10 +6,10 @@ titleSlug: zhi-zheng-zhang-an-qing-cheng-shi-wan-ci-san-shou-qi-san
 author: 祖德恭
 authorPinyin: zu3 de2 gong1
 authorSlug: zu-de-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

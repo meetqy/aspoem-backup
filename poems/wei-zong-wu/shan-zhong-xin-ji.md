@@ -6,25 +6,21 @@ titleSlug: shan-zhong-xin-ji
 author: 衛宗武
 authorPinyin: wei4 zong1 wu3
 authorSlug: wei-zong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨喜還晴，曉山青復青。
-- 喬松清老眼，啼鳥悅幽情。
-- 與客評詩卷，看僧誦佛經。
-- 更憐清絕處，泉瀉佩琚聲。
+- 宿雨初收曉日升，晴川遠浸數峰青。
+- 西風一洗林巒翳，收拾秋容入畫屏。
 
 ## 拼音
 
-- yi4 yu3 xi3 huan2 qing2 ， xiao3 shan1 qing1 fu4 qing1 。
-- qiao2 song1 qing1 lao3 yan3 ， ti2 niao3 yue4 you1 qing2 。
-- yu3 ke4 ping2 shi1 juan4 ， kan4 seng1 song4 fo2 jing1 。
-- geng4 lian2 qing1 jue2 chu3 ， quan2 xie4 pei4 ju1 sheng1 。
+- su4 yu3 chu1 shou1 xiao3 ri4 sheng1 ， qing2 chuan1 yuan3 jin4 shu4 feng1 qing1 。
+- xi1 feng1 yi4 xi3 lin2 luan2 yi4 ， shou1 shi0 qiu1 rong2 ru4 hua4 ping2 。
 
 ## 注释
 

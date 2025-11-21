@@ -6,25 +6,25 @@ titleSlug: shao-xing-si-yue-zhen-hai-du-si-shi-san-shou-dian-yu-bi-yong-ming-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 司曆告時，惟孟之春。
-- 爰舉時祀，旅于有神。
-- 鼓鍾既設，珪帛具陳。
-- 阜蕃庶物，以福我民。
+- 相予陰威，厥功浩浩。
+- 一歲之功，何以爲報。
+- 府有珪幣，我其敢私。
+- 肅肅孔懷，于以將之。
 
 ## 拼音
 
-- si1 li4 gao4 shi2 ， wei2 meng4 zhi1 chun1 。
-- yuan2 ju3 shi2 si4 ， lü3 yu2 you3 shen2 。
-- gu3 zhong1 ji4 she4 ， gui1 bo2 ju4 chen2 。
-- fu4 fan1 shu4 wu4 ， yi3 fu2 wo3 min2 。
+- xiang1 yu3 yin1 wei1 ， jue2 gong1 hao4 hao4 。
+- yi2 sui4 zhi1 gong1 ， he2 yi3 wei2 bao4 。
+- fu3 you3 gui1 bi4 ， wo3 qi2 gan3 si1 。
+- su4 su4 kong3 huai2 ， yu2 yi3 jiang1 zhi1 。
 
 ## 注释
 

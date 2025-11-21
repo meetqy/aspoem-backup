@@ -6,10 +6,10 @@ titleSlug: shi-wei-tong-song-de-cao-chen-chun-zhong-deng-ji-gu-ge-xiao-wang
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

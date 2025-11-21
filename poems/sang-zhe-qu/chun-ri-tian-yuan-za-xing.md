@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing
 author: 桑柘區
 authorPinyin: sang1 zhe4 qu1
 authorSlug: sang-zhe-qu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

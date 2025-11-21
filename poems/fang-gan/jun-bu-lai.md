@@ -9,22 +9,18 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 閑花未零落，心緒已紛紛。
-- 久客無人見，新禽何處聞？
-- 舟隨一水遠，路出萬山分。
-- 夜月生愁望，孤光必照君。
+- 遠路東西欲問誰，寒來無處寄寒衣。
+- 去時初種庭前樹，樹已勝巢人未歸。
 
 ## 拼音
 
-- xian2 hua1 wei4 ling2 luo4 ， xin1 xu4 yi3 fen1 fen1 。
-- jiu3 ke4 wu2 ren2 jian4 ， xin1 qin2 he2 chu3 wen2 ？
-- zhou1 sui2 yi4 shui3 yuan3 ， lu4 chu1 wan4 shan1 fen1 。
-- ye4 yue4 sheng1 chou2 wang4 ， gu1 guang1 bi4 zhao4 jun1 。
+- yuan3 lu4 dong1 xi1 yu4 wen4 shui2 ， han2 lai2 wu2 chu3 ji4 han2 yi1 。
+- qu4 shi2 chu1 zhong3 ting2 qian2 shu4 ， shu4 yi3 sheng4 chao2 ren2 wei4 gui1 。
 
 ## 注释
 

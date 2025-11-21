@@ -6,25 +6,33 @@ titleSlug: ji-li-chu-zhou
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 近別遂累日，逢人空附書。
-- 雖能道所以，未辱報何如。
-- 千里江山外，一春風雨餘。
-- 夢成同泛宅，起欲命籃輿。
+- 自入湖南路，驅車得屢停。
+- 流傳雖有句，次舍或無亭。
+- 嶮絕猶云未，艱危不易聽。
+- 真宜太白醉，未信屈原醒。
+- 我去方蠻府，公歸合漢庭。
+- 願言均沛雨，尚想獨當霆。
+- 白雪故寡和，黄麻須六經。
+- 詔除期不晚，得以慰飄零。
 
 ## 拼音
 
-- jin4 bie2 sui4 lei4 ri4 ， feng2 ren2 kong1 fu4 shu1 。
-- sui1 neng2 dao4 suo3 yi3 ， wei4 ru3 bao4 he2 ru2 。
-- qian1 li3 jiang1 shan1 wai4 ， yi4 chun1 feng1 yu3 yu2 。
-- meng4 cheng2 tong2 fan4 zhai2 ， qi3 yu4 ming4 lan2 yu2 。
+- zi4 ru4 hu2 nan2 lu4 ， qu1 ju1 de2 lü3 ting2 。
+- liu2 chuan2 sui1 you3 ju4 ， ci4 she4 huo4 wu2 ting2 。
+- xian3 jue2 you2 yun2 wei4 ， jian1 wei1 bu2 yi4 ting1 。
+- zhen1 yi2 tai4 bai2 zui4 ， wei4 xin4 qu1 yuan2 xing3 。
+- wo3 qu4 fang1 man2 fu3 ， gong1 gui1 he2 han4 ting2 。
+- yuan4 yan2 jun1 pei4 yu3 ， shang4 xiang3 du2 dang1 ting2 。
+- bai2 xue3 gu4 gua3 he2 ， huang2 ma2 xu1 liu4 jing1 。
+- zhao4 chu2 qi1 bu4 wan3 ， de2 yi3 wei4 piao1 ling2 。
 
 ## 注释
 

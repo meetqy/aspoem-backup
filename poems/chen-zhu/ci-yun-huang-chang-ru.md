@@ -6,25 +6,25 @@ titleSlug: ci-yun-huang-chang-ru
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山谷忽精神，一番桃李新。
-- 杯盤留話處，鐙火苟安人。
-- 老去刻爲歲，醉來寒亦春。
-- 催歸莫閒管，此處豈天津。
+- 玉潤深慚冰未清，午軒杯酒見人情。
+- 艱難方識山林味，親戚還兼朋友盟。
+- 安用白頭傷世變，又看黄葉報秋成。
+- 羨君燕奉潘輿處，淡泊中閒禮樂聲。
 
 ## 拼音
 
-- shan1 gu3 hu1 jing1 shen2 ， yi4 fan1 tao2 li3 xin1 。
-- bei1 pan2 liu2 hua4 chu3 ， deng1 huo3 gou3 an1 ren2 。
-- lao3 qu4 ke4 wei2 sui4 ， zui4 lai2 han2 yi4 chun1 。
-- cui1 gui1 mo4 xian2 guan3 ， ci3 chu3 qi3 tian1 jin1 。
+- yu4 run4 shen1 can2 bing1 wei4 qing1 ， wu3 xuan1 bei1 jiu3 jian4 ren2 qing2 。
+- jian1 nan2 fang1 shi2 shan1 lin2 wei4 ， qin1 qi1 huan2 jian1 peng2 you0 meng2 。
+- an1 yong4 bai2 tou2 shang1 shi4 bian4 ， you4 kan4 huang2 ye4 bao4 qiu1 cheng2 。
+- xian4 jun1 yan4 feng4 pan1 yu2 chu3 ， dan4 bo2 zhong1 xian2 li3 le4 sheng1 。
 
 ## 注释
 

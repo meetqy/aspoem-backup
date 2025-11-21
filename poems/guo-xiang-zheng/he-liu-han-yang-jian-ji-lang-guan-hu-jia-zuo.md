@@ -6,10 +6,10 @@ titleSlug: he-liu-han-yang-jian-ji-lang-guan-hu-jia-zuo
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

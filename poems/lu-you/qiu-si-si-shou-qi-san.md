@@ -6,25 +6,25 @@ titleSlug: qiu-si-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身似龐翁不出家，一窗自了淡生涯。
-- 山薑零落初成子，石竹凄凉半吐花。
-- 寒澗挹泉供試墨，墮巢篝火喚煎茶。
-- 掩關本意君知否，兩耳衰年不耐譁。
+- 稽山九十翁，病起無氣力。
+- 擁杖牧鷄豚，乃是老人職。
+- 一杯芋糝羹，孫子喚翁食。
+- 既飽負朝陽，自愧爾何德。
 
 ## 拼音
 
-- shen1 si4 pang2 weng1 bu4 chu1 jia1 ， yi4 chuang1 zi4 le0 dan4 sheng1 ya2 。
-- shan1 jiang1 ling2 luo4 chu1 cheng2 zi3 ， shi2 zhu2 qi1 liang2 ban4 tu3 hua1 。
-- han2 jian4 yi4 quan2 gong4 shi4 mo4 ， duo4 chao2 gou1 huo3 huan4 jian1 cha2 。
-- yan3 guan1 ben3 yi4 jun1 zhi1 fou3 ， liang3 er3 shuai1 nian2 bu2 nai4 hua2 。
+- ji1 shan1 jiu3 shi2 weng1 ， bing4 qi3 wu2 qi4 li4 。
+- yong1 zhang4 mu4 ji1 tun2 ， nai3 shi4 lao3 ren2 zhi2 。
+- yi4 bei1 yu4 san3 geng1 ， sun1 zi3 huan4 weng1 shi2 。
+- ji4 bao3 fu4 chao2 yang2 ， zi4 kui4 er3 he2 de2 。
 
 ## 注释
 

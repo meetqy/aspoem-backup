@@ -6,25 +6,25 @@ titleSlug: fu-sheng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浮生過六十，百念已頽然。
-- 獨有躭書癖，猶同總角年。
-- 横陳糲飯側，朗誦短檠前。
-- 不用嘲癡絕，兒曹尚可傳。
+- 浮生真是寄郵亭，短鬢匆匆失故青。
+- 睡少始知愁有力，病增方嘆藥無靈。
+- 謀生懶似逢秋燕，訪舊疏於欲旦星。
+- 自笑若爲銷此恨，濁醪聊復倒餘瓶。
 
 ## 拼音
 
-- fu2 sheng1 guo4 liu4 shi2 ， bai3 nian4 yi3 tui2 ran2 。
-- du2 you3 dan1 shu1 pi3 ， you2 tong2 zong3 jiao3 nian2 。
-- heng2 chen2 li4 fan4 ce4 ， lang3 song4 duan3 qing2 qian2 。
-- bu2 yong4 chao2 chi1 jue2 ， er2 cao2 shang4 ke3 chuan2 。
+- fu2 sheng1 zhen1 shi4 ji4 you2 ting2 ， duan3 bin4 cong1 cong1 shi1 gu4 qing1 。
+- shui4 shao3 shi3 zhi1 chou2 you3 li4 ， bing4 zeng1 fang1 tan4 yao4 wu2 ling2 。
+- mou2 sheng1 lan3 si4 feng2 qiu1 yan4 ， fang3 jiu4 shu1 wu1 yu4 dan4 xing1 。
+- zi4 xiao4 ruo4 wei2 xiao1 ci3 hen4 ， zhuo2 lao2 liao2 fu4 dao3 yu2 ping2 。
 
 ## 注释
 

@@ -1,24 +1,24 @@
 ---
 id: shi-yun-chang-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 釋藴常
 authorPinyin: shi4 yun4 chang2
 authorSlug: shi-yun-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斷橋人寂寂。
+- 月生更愛欄干影。
 
 ## 拼音
 
-- duan4 qiao2 ren2 ji4 ji4 。
+- yue4 sheng1 geng4 ai4 lan2 gan1 ying3 。
 
 ## 注释
 

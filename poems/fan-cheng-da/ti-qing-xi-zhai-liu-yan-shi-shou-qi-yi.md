@@ -1,26 +1,26 @@
 ---
 id: fan-cheng-da-ti-qing-xi-zhai-liu-yan-shi-shou-qi-yi
-title: 題請息齋六言十首・其一
-titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3・qi2 yi1
+title: 題請息齋六言十首  其一○
+titlePinyin: ti2 qing3 xi1 zhai1 liu4 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: ti-qing-xi-zhai-liu-yan-shi-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 洞門晝挂鐵鎖，閣道秋生綠苔。
-- 蓍下略同龜伏，瓜中且免蠅來。
+- 園丁以時白事，山客終日相陪。
+- 竹比平安報到，花依次第折來。
 
 ## 拼音
 
-- dong4 men2 zhou4 gua4 tie3 suo3 ， ge2 dao4 qiu1 sheng1 lü4 tai2 。
-- shi1 xia4 lüe4 tong2 gui1 fu2 ， gua1 zhong1 qie3 mian3 ying2 lai2 。
+- yuan2 ding1 yi3 shi2 bai2 shi4 ， shan1 ke4 zhong1 ri4 xiang1 pei2 。
+- zhu2 bi3 ping2 an1 bao4 dao4 ， hua1 yi1 ci4 di4 zhe2 lai2 。
 
 ## 注释
 

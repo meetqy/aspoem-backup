@@ -6,10 +6,10 @@ titleSlug: song-hu-ji-zhao-zhe-xiang-zhou
 author: 曾夢選
 authorPinyin: ceng2 meng4 xuan3
 authorSlug: ceng-meng-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 映空初作繭絲微，掠地俄成箭鏃飛。
-- 紙帳光遲饒曉夢，銅鑪香潤覆春衣。
-- 池魚鱍鱍隨溝出，梁燕翩翩接翅歸。
-- 惟有落花吹不去，数枝紅濕自相依。
+- 曉望橫斜映水亭，暮看飄灑溼簾旌。
+- 不嫌平野蒼茫色，實厭空階點滴聲。
+- 上策莫如常熟睡，少安毋躁會當晴。
+- 且將穡事傳童稚，未插秧時正好耕。
 
 ## 拼音
 
-- ying4 kong1 chu1 zuo4 jian3 si1 wei1 ， lüe4 di4 e2 cheng2 jian4 zu2 fei1 。
-- zhi3 zhang4 guang1 chi2 rao2 xiao3 meng4 ， tong2 lu2 xiang1 run4 fu4 chun1 yi1 。
-- chi2 yu2 bo1 bo1 sui2 gou1 chu1 ， liang2 yan4 pian1 pian1 jie1 chi4 gui1 。
-- wei2 you3 luo4 hua1 chui1 bu2 qu4 ， shu4 zhi1 hong2 shi1 zi4 xiang1 yi1 。
+- xiao3 wang4 heng2 xie2 ying4 shui3 ting2 ， mu4 kan4 piao1 sa3 shi1 lian2 jing1 。
+- bu4 xian2 ping2 ye3 cang1 mang2 se4 ， shi2 yan4 kong1 jie1 dian3 di1 sheng1 。
+- shang4 ce4 mo4 ru2 chang2 shu2 shui4 ， shao3 an1 wu2 zao4 hui4 dang1 qing2 。
+- qie3 jiang1 se4 shi4 chuan2 tong2 zhi4 ， wei4 cha1 yang1 shi2 zheng4 hao3 geng1 。
 
 ## 注释
 

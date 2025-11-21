@@ -6,10 +6,10 @@ titleSlug: er-shi-ba-ri-xue-er-shi-jiu-ri-wei-yi-fu-shi-fan-wu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

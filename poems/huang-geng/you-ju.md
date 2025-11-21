@@ -6,25 +6,25 @@ titleSlug: you-ju
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽居少塵事，贏得一身閑。
-- 竹屋無人到，柴門盡日關。
-- 斜陽明晚浦，落葉瘦秋山。
-- 隔水雙飛鷺，忘機自往還。
+- 結屋依山住，幽窗與靜宜。
+- 藤花上疏竹，苔石卧荒籬。
+- 挈榼童沽酒，敲門客送詩。
+- 老慚生計拙，役役又何爲。
 
 ## 拼音
 
-- you1 ju1 shao3 chen2 shi4 ， ying2 de2 yi4 shen1 xian2 。
-- zhu2 wu1 wu2 ren2 dao4 ， chai2 men2 jin4 ri4 guan1 。
-- xie2 yang2 ming2 wan3 pu3 ， luo4 ye4 shou4 qiu1 shan1 。
-- ge2 shui3 shuang1 fei1 lu4 ， wang4 ji1 zi4 wang3 huan2 。
+- jie2 wu1 yi1 shan1 zhu4 ， you1 chuang1 yu3 jing4 yi2 。
+- teng2 hua1 shang4 shu1 zhu2 ， tai2 shi2 wo4 huang1 li2 。
+- qie4 ke1 tong2 gu1 jiu3 ， qiao1 men2 ke4 song4 shi1 。
+- lao3 can2 sheng1 ji4 zhuo1 ， yi4 yi4 you4 he2 wei2 。
 
 ## 注释
 

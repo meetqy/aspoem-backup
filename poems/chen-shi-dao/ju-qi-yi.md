@@ -1,24 +1,24 @@
 ---
 id: chen-shi-dao-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聞道新文能入樣，相州紅纈鄂州花。
+- 吳音未至慢，楚語不假些。
 
 ## 拼音
 
-- wen2 dao4 xin1 wen2 neng2 ru4 yang4 ， xiang1 zhou1 hong2 xie4 e4 zhou1 hua1 。
+- wu2 yin1 wei4 zhi4 man4 ， chu3 yu3 bu4 jia3 xie1 。
 
 ## 注释
 

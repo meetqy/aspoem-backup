@@ -6,10 +6,10 @@ titleSlug: ti-ji-chang-qiao
 author: 吳武陵
 authorPinyin: wu2 wu3 ling2
 authorSlug: wu-wu-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

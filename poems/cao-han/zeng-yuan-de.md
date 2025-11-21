@@ -6,9 +6,9 @@ titleSlug: zeng-yuan-de
 author: 曹翰
 authorPinyin: cao2 han4
 authorSlug: cao-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

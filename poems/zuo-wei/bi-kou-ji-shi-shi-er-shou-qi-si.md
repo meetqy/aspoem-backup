@@ -6,10 +6,10 @@ titleSlug: bi-kou-ji-shi-shi-er-shou-qi-si
 author: 左緯
 authorPinyin: zuo3 wei3
 authorSlug: zuo-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

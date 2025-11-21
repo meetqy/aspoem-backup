@@ -6,10 +6,10 @@ titleSlug: song-chong-jiao-da-shi-gui-tian-tai-jin-yin-qi-yan-si-yun
 author: 范貽孫
 authorPinyin: fan4 yi2 sun1
 authorSlug: fan-yi-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

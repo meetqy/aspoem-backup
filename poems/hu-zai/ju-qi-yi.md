@@ -1,24 +1,24 @@
 ---
 id: hu-zai-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 胡仔
 authorPinyin: hu2 zai3
 authorSlug: hu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 壯圖鵬翼九萬里，末路羊腸百八盤。
+- 白髮惟公道，春風不世情。
 
 ## 拼音
 
-- zhuang4 tu2 peng2 yi4 jiu3 wan4 li3 ， mo4 lu4 yang2 chang2 bai3 ba1 pan2 。
+- bai2 fa4 wei2 gong1 dao4 ， chun1 feng1 bu2 shi4 qing2 。
 
 ## 注释
 

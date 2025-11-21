@@ -6,10 +6,10 @@ titleSlug: xue-hou-xu-guang-wen-zhao-tong-guan-xiao-ji-fen-yun-de-ming-zi
 author: 趙汝鐩
 authorPinyin: zhao4 ru3 sui4
 authorSlug: zhao-ru-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

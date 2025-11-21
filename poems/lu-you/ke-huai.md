@@ -6,25 +6,25 @@ titleSlug: ke-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客懷耿耿向誰語，世事茫茫空自知。
-- 堅坐懶窮牛渚怪，倦遊何恨雁門踦。
-- 眼前客共一杯酒，身後人傳千首詩。
-- 報與故交當賀我，計歸猶及菊花時。
+- 客懷病思兩凄凄，瘦馬長靴濺雪泥。
+- 道左忽逢曾宿驛，壁間閑看舊留題。
+- 村醅酸薄陳山果，旅飯蕭條嚼凍齏。
+- 何處人間非夢境，怳然重到劍關西。
 
 ## 拼音
 
-- ke4 huai2 geng3 geng3 xiang4 shui2 yu3 ， shi4 shi4 mang2 mang2 kong1 zi4 zhi1 。
-- jian1 zuo4 lan3 qiong2 niu2 zhu3 guai4 ， juan4 you2 he2 hen4 yan4 men2 yi3 。
-- yan3 qian2 ke4 gong4 yi4 bei1 jiu3 ， shen1 hou4 ren2 chuan2 qian1 shou3 shi1 。
-- bao4 yu3 gu4 jiao1 dang1 he4 wo3 ， ji4 gui1 you2 ji2 ju2 hua1 shi2 。
+- ke4 huai2 bing4 si1 liang3 qi1 qi1 ， shou4 ma3 chang2 xue1 jian4 xue3 ni2 。
+- dao4 zuo3 hu1 feng2 ceng2 su4 yi4 ， bi4 jian4 xian2 kan4 jiu4 liu2 ti2 。
+- cun1 pei1 suan1 bao2 chen2 shan1 guo3 ， lü3 fan4 xiao1 tiao2 jiao2 dong4 ji1 。
+- he2 chu3 ren2 jian4 fei1 meng4 jing4 ， huang3 ran2 zhong4 dao4 jian4 guan1 xi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zi-wen-zhi-yong-zai-wen-song-xin-zuo-tu-guo-huang-chu-shi-zuo-shi-shi
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

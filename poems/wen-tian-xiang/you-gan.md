@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海闊龍深蟄，山空鳥雜鳴。
-- 花隨春共去，雲與水俱行。
-- 壯士千年志，征夫萬里程。
-- 夜凉看星斗，何處是攙槍。
+- 平生心事付悠悠，風雨燕南老楚囚。
+- 故舊相思空萬里，妻孥不見滿三秋。
+- 絕憐諸葛隆中意，贏得子長天下遊。
+- 一死皎然無復恨，忠魂多少暗荒丘。
 
 ## 拼音
 
-- hai3 kuo4 long2 shen1 zhe2 ， shan1 kong1 niao3 za2 ming2 。
-- hua1 sui2 chun1 gong4 qu4 ， yun2 yu3 shui3 ju4 xing2 。
-- zhuang4 shi4 qian1 nian2 zhi4 ， zheng1 fu1 wan4 li3 cheng2 。
-- ye4 liang2 kan4 xing1 dou3 ， he2 chu3 shi4 chan1 qiang1 。
+- ping2 sheng1 xin1 shi4 fu4 you1 you1 ， feng1 yu3 yan4 nan2 lao3 chu3 qiu2 。
+- gu4 jiu4 xiang1 si1 kong1 wan4 li3 ， qi1 nu2 bu2 jian4 man3 san1 qiu1 。
+- jue2 lian2 zhu1 ge3 long2 zhong4 yi4 ， ying2 de2 zi3 chang2 tian1 xia4 you2 。
+- yi4 si3 jiao3 ran2 wu2 fu4 hen4 ， zhong1 hun2 duo1 shao3 an4 huang1 qiu1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-yi
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 八風調養力，九地發生深。
-- 共被年豐賜，誰知日昃心。
+- 春色年年染御溝，鴨頭輕綠弄花柔。
+- 今年春到崑崙上，九折委蛇舞翠蚪。
 
 ## 拼音
 
-- ba1 feng1 diao4 yang3 li4 ， jiu3 di4 fa1 sheng1 shen1 。
-- gong4 bei4 nian2 feng1 ci4 ， shui2 zhi1 ri4 ze4 xin1 。
+- chun1 se4 nian2 nian2 ran3 yu4 gou1 ， ya1 tou2 qing1 lü4 nong4 hua1 rou2 。
+- jin1 nian2 chun1 dao4 kun1 lun2 shang4 ， jiu3 zhe2 wei1 yi2 wu3 cui4 dou3 。
 
 ## 注释
 

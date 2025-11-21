@@ -6,10 +6,10 @@ titleSlug: feng-tan-jing-she-yue-ye-ou-cheng
 author: 方逢振
 authorPinyin: fang1 feng2 zhen4
 authorSlug: fang-feng-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

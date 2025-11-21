@@ -6,10 +6,10 @@ titleSlug: fa-xiang-yuan
 author: 束長孺
 authorPinyin: shu4 chang2 ru2
 authorSlug: shu-chang-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

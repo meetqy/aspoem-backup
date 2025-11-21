@@ -9,22 +9,22 @@ authorSlug: li-shen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 杜鵑如火千房拆，丹檻低看晚景中。
-- 繁豔向人啼宿露，落英飄砌怨春風。
-- 早梅昔待佳人折，好月誰將老子同。
-- 惟有此花隨越鳥，一聲啼處滿山紅。
+- 石橋峰上栖玄鶴，碧闕巖邊蔭羽人。
+- 冰葉萬條垂碧實，玉珠千日保青春。
+- 月中泣露應同浥，澗底侵雲尚有塵。
+- 徒使茯苓成琥珀，不爲松老化龍鱗。
 
 ## 拼音
 
-- du4 jian1 ru2 huo3 qian1 fang2 chai1 ， dan1 jian4 di1 kan4 wan3 jing3 zhong1 。
-- fan2 yan4 xiang4 ren2 ti2 su4 lu4 ， luo4 ying1 piao1 qi4 yuan4 chun1 feng1 。
-- zao3 mei2 xi1 dai4 jia1 ren2 zhe2 ， hao3 yue4 shui2 jiang1 lao3 zi3 tong2 。
-- wei2 you3 ci3 hua1 sui2 yue4 niao3 ， yi4 sheng1 ti2 chu3 man3 shan1 hong2 。
+- shi2 qiao2 feng1 shang4 qi1 xuan2 he4 ， bi4 que4 yan2 bian1 yin1 yu3 ren2 。
+- bing1 ye4 wan4 tiao2 chui2 bi4 shi2 ， yu4 zhu1 qian1 ri4 bao3 qing1 chun1 。
+- yue4 zhong1 qi4 lu4 ying1 tong2 yi4 ， jian4 di3 qin1 yun2 shang4 you3 chen2 。
+- tu2 shi3 fu2 ling2 cheng2 hu3 po4 ， bu4 wei2 song1 lao3 hua4 long2 lin2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ye-wang
 author: 杜甫
 authorPinyin: du4 fu3
 authorSlug: du-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清秋望不極，迢遰起曾陰。
-- 遠水兼天淨，孤城隱霧深。
-- 葉稀風更落，山迥日初沈。
-- 獨鶴歸何晚，昏鴉已滿林。
+- 西山白雪三奇戍，南浦清江萬里橋。
+- 海內風塵諸弟隔，天涯涕淚一身遙。
+- 唯將遲暮供多病，未有涓埃荅聖朝。
+- 跨馬出郊時極目，不堪人事日蕭條。
 
 ## 拼音
 
-- qing1 qiu1 wang4 bu4 ji2 ， tiao2 di4 qi3 ceng2 yin1 。
-- yuan3 shui3 jian1 tian1 jing4 ， gu1 cheng2 yin3 wu4 shen1 。
-- ye4 xi1 feng1 geng4 luo4 ， shan1 jiong3 ri4 chu1 shen3 。
-- du2 he4 gui1 he2 wan3 ， hun1 ya1 yi3 man3 lin2 。
+- xi1 shan1 bai2 xue3 san1 qi2 shu4 ， nan2 pu3 qing1 jiang1 wan4 li3 qiao2 。
+- hai3 nei4 feng1 chen2 zhu1 di4 ge2 ， tian1 ya2 ti4 lei4 yi4 shen1 yao2 。
+- wei2 jiang1 chi2 mu4 gong4 duo1 bing4 ， wei4 you3 juan1 ai1 da2 sheng4 chao2 。
+- kua4 ma3 chu1 jiao1 shi2 ji2 mu4 ， bu4 kan1 ren2 shi4 ri4 xiao1 tiao2 。
 
 ## 注释
 

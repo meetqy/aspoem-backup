@@ -6,10 +6,10 @@ titleSlug: tong-li-qian-pan-shan-xing-wu-fan-ye-dian-yan-wai-qun-feng-fen-fen-yi
 author: 裘萬頃
 authorPinyin: qiu2 wan4 qing3
 authorSlug: qiu-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

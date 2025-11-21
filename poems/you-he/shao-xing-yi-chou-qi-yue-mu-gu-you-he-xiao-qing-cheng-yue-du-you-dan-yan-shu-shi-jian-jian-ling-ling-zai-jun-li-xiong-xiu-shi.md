@@ -6,10 +6,10 @@ titleSlug: shao-xing-yi-chou-qi-yue-mu-gu-you-he-xiao-qing-cheng-yue-du-you-dan-
 author: 游何
 authorPinyin: you2 he2
 authorSlug: you-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

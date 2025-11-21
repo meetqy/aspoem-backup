@@ -6,10 +6,10 @@ titleSlug: long-nan-yu-shi-yan
 author: 鍾伷
 authorPinyin: zhong1 zhou4
 authorSlug: zhong-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

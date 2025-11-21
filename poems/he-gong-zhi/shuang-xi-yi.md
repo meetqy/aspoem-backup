@@ -6,9 +6,9 @@ titleSlug: shuang-xi-yi
 author: 何恭直
 authorPinyin: he2 gong1 zhi2
 authorSlug: he-gong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

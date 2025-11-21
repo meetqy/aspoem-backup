@@ -6,10 +6,10 @@ titleSlug: shi-cai-miao-ti-zhu
 author: 陳剛中
 authorPinyin: chen2 gang1 zhong1
 authorSlug: chen-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

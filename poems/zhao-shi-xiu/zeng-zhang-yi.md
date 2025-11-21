@@ -6,25 +6,25 @@ titleSlug: zeng-zhang-yi
 author: 趙師秀
 authorPinyin: zhao4 shi1 xiu4
 authorSlug: zhao-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 相逢楚澤中，語罷各西東。
-- 天下方無事，男兒未有功。
-- 邊風吹面黑，市酒到腸空。
-- 早作歸耕計，吾舟俟爾同。
+- 一別無書信，相逢各老蒼。
+- 山川烽外遠，歲月夢中長。
+- 空橐盛詩草，單衣涴酒香。
+- 因言瀼溪宴，同憶舊時狂。
 
 ## 拼音
 
-- xiang1 feng2 chu3 ze2 zhong1 ， yu3 ba4 ge4 xi1 dong1 。
-- tian1 xia4 fang1 wu2 shi4 ， nan2 er2 wei4 you3 gong1 。
-- bian1 feng1 chui1 mian4 hei1 ， shi4 jiu3 dao4 chang2 kong1 。
-- zao3 zuo4 gui1 geng1 ji4 ， wu2 zhou1 si4 er3 tong2 。
+- yi4 bie2 wu2 shu1 xin4 ， xiang1 feng2 ge4 lao3 cang1 。
+- shan1 chuan1 feng1 wai4 yuan3 ， sui4 yue4 meng4 zhong1 chang2 。
+- kong1 tuo2 sheng4 shi1 cao3 ， dan1 yi1 wo4 jiu3 xiang1 。
+- yin1 yan2 rang2 xi1 yan4 ， tong2 yi4 jiu4 shi2 kuang2 。
 
 ## 注释
 

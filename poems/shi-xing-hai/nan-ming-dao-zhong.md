@@ -6,21 +6,21 @@ titleSlug: nan-ming-dao-zhong
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 麥長綠鬚桑蕾黄，百禽調舌百花香。
-- 今年笑裏逢春色，笑裏逢春有幾場。
+- 酒旗猶寫天台紅，小白花繁綠刺叢。
+- 蜂蝶不來春意靜，日斜桐角奏東風。
 
 ## 拼音
 
-- mai4 chang2 lü4 xu1 sang1 lei3 huang2 ， bai3 qin2 diao4 she2 bai3 hua1 xiang1 。
-- jin1 nian2 xiao4 li3 feng2 chun1 se4 ， xiao4 li3 feng2 chun1 you3 ji1 chang3 。
+- jiu3 qi2 you2 xie3 tian1 tai2 hong2 ， xiao3 bai2 hua1 fan2 lü4 ci4 cong2 。
+- feng1 die2 bu4 lai2 chun1 yi4 jing4 ， ri4 xie2 tong2 jiao3 zou4 dong1 feng1 。
 
 ## 注释
 

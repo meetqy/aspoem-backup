@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-yi-san
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 形影隨人得，精修道不迷。
-- 研窮深理路，造化隠端倪。
-- 雲引龍吟穴，風生虎嘯溪。
-- 少知愚豈解，南北與東西。
+- 五惡貪嗔皆自起，高深海嶽猶窮矣。
+- 無明發在一時間，對面如同千萬里。
 
 ## 拼音
 
-- xing2 ying3 sui2 ren2 de2 ， jing1 xiu1 dao4 bu4 mi2 。
-- yan2 qiong2 shen1 li3 lu4 ， zao4 hua4 yin3 duan1 ni2 。
-- yun2 yin3 long2 yin2 xue2 ， feng1 sheng1 hu3 xiao4 xi1 。
-- shao3 zhi1 yu2 qi3 jie3 ， nan2 bei3 yu3 dong1 xi1 。
+- wu3 e4 tan1 chen1 jie1 zi4 qi3 ， gao1 shen1 hai3 yue4 you2 qiong2 yi3 。
+- wu2 ming2 fa1 zai4 yi4 shi2 jian4 ， dui4 mian4 ru2 tong2 qian1 wan4 li3 。
 
 ## 注释
 

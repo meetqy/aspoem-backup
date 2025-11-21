@@ -6,25 +6,25 @@ titleSlug: shan-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 七十衰翁短鬢斑，藥瓢藤杖伴清閑。
-- 平生惡路羊腸坂，晚歲羸軀飯顆山。
-- 一寸塔餘青靄外，數聲鐘下翠微間。
-- 往来處處皆奇絕，莫道先生興盡還。
+- 閑人日日得閑行，况值今朝小雨晴。
+- 水淺遊魚渾可數，山深藥草半無名。
+- 臨溪旋喚罾船渡，過寺初聞浴鼓聲。
+- 小醉未應風味減，滿盤青杏伴朱櫻。
 
 ## 拼音
 
-- qi1 shi2 shuai1 weng1 duan3 bin4 ban1 ， yao4 piao2 teng2 zhang4 ban4 qing1 xian2 。
-- ping2 sheng1 e4 lu4 yang2 chang2 ban3 ， wan3 sui4 lei2 qu1 fan4 ke1 shan1 。
-- yi2 cun4 ta3 yu2 qing1 ai3 wai4 ， shu4 sheng1 zhong1 xia4 cui4 wei1 jian4 。
-- wang3 lai2 chu3 chu3 jie1 qi2 jue2 ， mo4 dao4 xian1 sheng0 xing1 jin4 huan2 。
+- xian2 ren2 ri4 ri4 de2 xian2 xing2 ， kuang4 zhi2 jin1 zhao1 xiao3 yu3 qing2 。
+- shui3 qian3 you2 yu2 hun2 ke3 shu4 ， shan1 shen1 yao4 cao3 ban4 wu2 ming2 。
+- lin2 xi1 xuan2 huan4 zeng1 chuan2 du4 ， guo4 si4 chu1 wen2 yu4 gu3 sheng1 。
+- xiao3 zui4 wei4 ying1 feng1 wei4 jian3 ， man3 pan2 qing1 xing4 ban4 zhu1 ying1 。
 
 ## 注释
 

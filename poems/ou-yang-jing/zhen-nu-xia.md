@@ -6,10 +6,10 @@ titleSlug: zhen-nu-xia
 author: 歐陽經
 authorPinyin: ou1 yang2 jing1
 authorSlug: ou-yang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,25 @@ titleSlug: wan-bu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 屏居無俗事，薄暮行溪園。
-- 斷續風蟬噪，俯仰露葉翻。
-- 月出照西壁，參差見簷痕。
-- 新沐懶不櫛，清冷入髮根。
-- 臨流揮羽扇，對月傾芳尊。
-- 寄謝南昌尉，何必隐市門。
+- 晚步清溪上，微陰忽快晴。
+- 鴉棲先小泊，魚暖已群行。
+- 藥餌扶垂老，耕桑樂太平。
+- 非關戀鄉社，久客倦遐征。
 
 ## 拼音
 
-- ping2 ju1 wu2 su2 shi4 ， bo2 mu4 xing2 xi1 yuan2 。
-- duan4 xu4 feng1 chan2 zao4 ， fu3 yang3 lu4 ye4 fan1 。
-- yue4 chu1 zhao4 xi1 bi4 ， can1 cha4 jian4 yan2 hen2 。
-- xin1 mu4 lan3 bu2 zhi4 ， qing1 leng3 ru4 fa4 gen1 。
-- lin2 liu2 hui1 yu3 shan4 ， dui4 yue4 qing1 fang1 zun1 。
-- ji4 xie4 nan2 chang1 wei4 ， he2 bi4 yin3 shi4 men2 。
+- wan3 bu4 qing1 xi1 shang4 ， wei1 yin1 hu1 kuai4 qing2 。
+- ya1 qi1 xian1 xiao3 bo2 ， yu2 nuan3 yi3 qun2 xing2 。
+- yao4 er3 fu2 chui2 lao3 ， geng1 sang1 le4 tai4 ping2 。
+- fei1 guan1 lian4 xiang1 she4 ， jiu3 ke4 juan4 xia2 zheng1 。
 
 ## 注释
 

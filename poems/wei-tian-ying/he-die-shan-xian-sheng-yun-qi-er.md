@@ -6,10 +6,10 @@ titleSlug: he-die-shan-xian-sheng-yun-qi-er
 author: 魏天應
 authorPinyin: wei4 tian1 ying1
 authorSlug: wei-tian-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

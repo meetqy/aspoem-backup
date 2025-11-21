@@ -6,9 +6,9 @@ titleSlug: ling-yan
 author: 呂源
 authorPinyin: lü3 yuan2
 authorSlug: lu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,25 +6,25 @@ titleSlug: ai-xian
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 愛閑惟與病相宜，壯歲懷歸老可知。
-- 睡熟素書横竹架，吟餘犀管閣銅螭。
-- 水芭蕉潤心抽葉，盆石榴殘子壓枝。
-- 堪笑放翁頭白盡，坐消長日事兒嬉。
+- 今日先生病體輕，愛閑猶有舊心情。
+- 帖看貞觀行間印，琴記中郎爨下聲。
+- 衣焙溫溫香欲透，雪簷滴滴日初晴。
+- 客來一笑明窗底，枉道爲農事耦耕。
 
 ## 拼音
 
-- ai4 xian2 wei2 yu3 bing4 xiang1 yi2 ， zhuang4 sui4 huai2 gui1 lao3 ke3 zhi1 。
-- shui4 shu2 su4 shu1 heng2 zhu2 jia4 ， yin2 yu2 xi1 guan3 ge2 tong2 chi1 。
-- shui3 ba1 jiao1 run4 xin1 chou1 ye4 ， pen2 shi2 liu0 can2 zi3 ya1 zhi1 。
-- kan1 xiao4 fang4 weng1 tou2 bai2 jin4 ， zuo4 xiao1 chang2 ri4 shi4 er2 xi1 。
+- jin1 ri4 xian1 sheng0 bing4 ti3 qing1 ， ai4 xian2 you2 you3 jiu4 xin1 qing2 。
+- tie1 kan4 zhen1 guan1 xing2 jian4 yin4 ， qin2 ji4 zhong1 lang2 cuan4 xia4 sheng1 。
+- yi1 bei4 wen1 wen1 xiang1 yu4 tou4 ， xue3 yan2 di1 di1 ri4 chu1 qing2 。
+- ke4 lai2 yi2 xiao4 ming2 chuang1 di3 ， wang3 dao4 wei2 nong2 shi4 ou3 geng1 。
 
 ## 注释
 

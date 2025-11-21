@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-liu
-title: 梅花集句  其一六
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 liu4
+title: 梅花集句  其一六○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 liu4 ○
 titleSlug: mei-hua-ji-ju-qi-yi-liu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茅屋蕭然野水東，掃窗映竹見玲瓏。
-- 城中桃李休相笑，豈待世間桃李風。
+- 幾夕疏林下，山花慰客心。
+- 哀猿自相叫，惟恐暮雲陰。
 
 ## 拼音
 
-- mao2 wu1 xiao1 ran2 ye3 shui3 dong1 ， sao3 chuang1 ying4 zhu2 jian4 ling2 long2 。
-- cheng2 zhong1 tao2 li3 xiu1 xiang1 xiao4 ， qi3 dai4 shi4 jian4 tao2 li3 feng1 。
+- ji1 xi1 shu1 lin2 xia4 ， shan1 hua1 wei4 ke4 xin1 。
+- ai1 yuan2 zi4 xiang1 jiao4 ， wei2 kong3 mu4 yun2 yin1 。
 
 ## 注释
 

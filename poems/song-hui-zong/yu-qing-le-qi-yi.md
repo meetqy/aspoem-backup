@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-yu-qing-le-qi-yi
-title: 玉清樂  其一
-titlePinyin: yu4 qing1 le4     qi2 yi1
+title: 玉清樂  其一○
+titlePinyin: yu4 qing1 le4     qi2 yi1 ○
 titleSlug: yu-qing-le-qi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地居天上接空居，萬象森羅遍八區。
-- 功用不知誰主宰，絳霞丹霧閟清都。
+- 三華太素自然生，空裏芙蓉灼灼明。
+- 絳室金房虛寶座，大微童子下相迎。
 
 ## 拼音
 
-- di4 ju1 tian1 shang4 jie1 kong1 ju1 ， wan4 xiang4 sen1 luo2 bian4 ba1 qu1 。
-- gong1 yong4 bu4 zhi1 shui2 zhu3 zai3 ， jiang4 xia2 dan1 wu4 bi4 qing1 dou1 。
+- san1 hua2 tai4 su4 zi4 ran2 sheng1 ， kong1 li3 fu2 rong2 zhuo2 zhuo2 ming2 。
+- jiang4 shi4 jin1 fang2 xu1 bao3 zuo4 ， da4 wei1 tong2 zi3 xia4 xiang1 ying2 。
 
 ## 注释
 

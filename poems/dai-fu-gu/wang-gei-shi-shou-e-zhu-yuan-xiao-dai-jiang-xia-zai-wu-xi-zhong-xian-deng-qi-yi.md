@@ -6,10 +6,10 @@ titleSlug: wang-gei-shi-shou-e-zhu-yuan-xiao-dai-jiang-xia-zai-wu-xi-zhong-xian-
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

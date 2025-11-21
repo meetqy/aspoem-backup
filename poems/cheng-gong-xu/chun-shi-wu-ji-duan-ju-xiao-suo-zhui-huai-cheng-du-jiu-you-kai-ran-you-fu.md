@@ -6,10 +6,10 @@ titleSlug: chun-shi-wu-ji-duan-ju-xiao-suo-zhui-huai-cheng-du-jiu-you-kai-ran-yo
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

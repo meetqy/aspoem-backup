@@ -6,9 +6,9 @@ titleSlug: fu-xue-li-ji-er-sun
 author: 蘇簡
 authorPinyin: su1 jian3
 authorSlug: su-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

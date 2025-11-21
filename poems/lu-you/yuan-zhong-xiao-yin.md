@@ -6,25 +6,37 @@ titleSlug: yuan-zhong-xiao-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此老胸中萬頃寛，小園幽徑日追歡。
-- 寜教酒欠尋常債，恥就人求本分官。
-- 高柳陰濃烟欲暝，叢花紅濕露初溥。
-- 要知澤國年光晚，已過清明尚淺寒。
+- 造物佚我老，畀以江湖寬。
+- 俯仰六年間，得請兩挂冠。
+- 鬢毛雖蕭颯，脚力未蹣跚。
+- 記書過十張，噉飯空一簞。
+- 開歲忽兩月，感此春事殘。
+- 杏靨笑牆頭，鶯聲入雲端。
+- 掃地設菅席，相與勸加餐。
+- 村酒瀉濁清，野果嘗甘酸。
+- 鄰里語蟬聯，兒孫話團欒。
+- 雖無萬錢筯，浩歌有餘歡。
 
 ## 拼音
 
-- ci3 lao3 xiong1 zhong1 wan4 qing3 kuan1 ， xiao3 yuan2 you1 jing4 ri4 zhui1 huan1 。
-- ning2 jiao4 jiu3 qian4 xun2 chang2 zhai4 ， chi3 jiu4 ren2 qiu2 ben3 fen4 guan1 。
-- gao1 liu3 yin1 nong2 yan1 yu4 ming2 ， cong2 hua1 hong2 shi1 lu4 chu1 pu3 。
-- yao4 zhi1 ze2 guo2 nian2 guang1 wan3 ， yi3 guo4 qing1 ming2 shang4 qian3 han2 。
+- zao4 wu4 yi4 wo3 lao3 ， bi4 yi3 jiang1 hu2 kuan1 。
+- fu3 yang3 liu4 nian2 jian4 ， de2 qing3 liang3 gua4 guan1 。
+- bin4 mao2 sui1 xiao1 sa4 ， jiao3 li4 wei4 pan2 shan1 。
+- ji4 shu1 guo4 shi2 zhang1 ， dan4 fan4 kong1 yi4 dan1 。
+- kai1 sui4 hu1 liang3 yue4 ， gan3 ci3 chun1 shi4 can2 。
+- xing4 ye4 xiao4 qiang2 tou2 ， ying1 sheng1 ru4 yun2 duan1 。
+- sao3 di4 she4 jian1 xi2 ， xiang1 yu3 quan4 jia1 can1 。
+- cun1 jiu3 xie4 zhuo2 qing1 ， ye3 guo3 chang2 gan1 suan1 。
+- lin2 li3 yu3 chan2 lian2 ， er2 sun1 hua4 tuan2 luan2 。
+- sui1 wu2 wan4 qian2 zhu4 ， hao4 ge1 you3 yu2 huan1 。
 
 ## 注释
 

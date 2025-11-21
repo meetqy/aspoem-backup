@@ -6,10 +6,10 @@ titleSlug: ju
 author: 任布
 authorPinyin: ren4 bu4
 authorSlug: ren-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

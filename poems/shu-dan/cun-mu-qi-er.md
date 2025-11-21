@@ -6,10 +6,10 @@ titleSlug: cun-mu-qi-er
 author: 舒亶
 authorPinyin: shu1 dan3
 authorSlug: shu-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhang-shi-ke-xi-shang-xi-xue-fen-yun-de-shui-zi-shi-yu-hou-zhi-zhou-x
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: meng-zong-shi-zi-lai-xiong-she-ji-sheng-jiu-yue-chu-qi-guo-sheng-zhi-
 author: 陽伯高
 authorPinyin: yang2 bo2 gao1
 authorSlug: yang-bo-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

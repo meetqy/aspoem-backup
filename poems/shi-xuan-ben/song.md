@@ -6,10 +6,10 @@ titleSlug: song
 author: 釋玄本
 authorPinyin: shi4 xuan2 ben3
 authorSlug: shi-xuan-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

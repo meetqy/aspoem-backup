@@ -6,10 +6,10 @@ titleSlug: lie-zi-you-li-ming-wang-chong-lun-heng-you-ming-lu-ji-yan-bi-ding-zhi
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

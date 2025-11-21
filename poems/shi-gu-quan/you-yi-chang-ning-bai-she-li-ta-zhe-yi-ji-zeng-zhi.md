@@ -6,10 +6,10 @@ titleSlug: you-yi-chang-ning-bai-she-li-ta-zhe-yi-ji-zeng-zhi
 author: 釋谷泉
 authorPinyin: shi4 gu3 quan2
 authorSlug: shi-gu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

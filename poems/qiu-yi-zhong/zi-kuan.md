@@ -6,10 +6,10 @@ titleSlug: zi-kuan
 author: 邱一中
 authorPinyin: qiu1 yi4 zhong1
 authorSlug: qiu-yi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

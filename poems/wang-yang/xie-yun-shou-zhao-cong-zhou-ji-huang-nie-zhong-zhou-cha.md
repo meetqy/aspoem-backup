@@ -6,10 +6,10 @@ titleSlug: xie-yun-shou-zhao-cong-zhou-ji-huang-nie-zhong-zhou-cha
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

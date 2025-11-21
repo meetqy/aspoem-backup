@@ -6,21 +6,21 @@ titleSlug: da-wai
 author: 龍輔
 authorPinyin: long2 fu3
 authorSlug: long-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金徽只自秘，玉匣不曾開。
-- 梅花難獨弄，袖手待郎來。
+- 郎書來問近何如，性癖如郎只似初。
+- 忍冷臨風因愛雪，抱疴點燭爲看書。
 
 ## 拼音
 
-- jin1 hui1 zhi1 zi4 mi4 ， yu4 xia2 bu4 ceng2 kai1 。
-- mei2 hua1 nan2 du2 nong4 ， xiu4 shou3 dai4 lang2 lai2 。
+- lang2 shu1 lai2 wen4 jin4 he2 ru2 ， xing4 pi3 ru2 lang2 zhi1 si4 chu1 。
+- ren3 leng3 lin2 feng1 yin1 ai4 xue3 ， bao4 ke1 dian3 zhu2 wei2 kan4 shu1 。
 
 ## 注释
 

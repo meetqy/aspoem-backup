@@ -6,10 +6,10 @@ titleSlug: zeng-wang-zhi-fang
 author: 秦覯
 authorPinyin: qin2 gou4
 authorSlug: qin-gou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

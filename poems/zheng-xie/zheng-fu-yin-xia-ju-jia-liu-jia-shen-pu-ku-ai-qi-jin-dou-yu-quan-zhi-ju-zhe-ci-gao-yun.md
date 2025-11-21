@@ -6,10 +6,10 @@ titleSlug: zheng-fu-yin-xia-ju-jia-liu-jia-shen-pu-ku-ai-qi-jin-dou-yu-quan-zhi-
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

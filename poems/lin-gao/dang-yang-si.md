@@ -6,10 +6,10 @@ titleSlug: dang-yang-si
 author: 林誥
 authorPinyin: lin2 gao4
 authorSlug: lin-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

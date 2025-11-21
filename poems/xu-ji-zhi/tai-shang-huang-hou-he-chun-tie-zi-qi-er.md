@@ -6,21 +6,21 @@ titleSlug: tai-shang-huang-hou-he-chun-tie-zi-qi-er
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 母道齊皇極，韶光傍壽觴。
-- 徽音家慶集，隨輦奉尊章。
+- 廣成得道自崆峒，少廣功成閬苑中。
+- 自是仙家春不老，蟠桃枝上又春風。
 
 ## 拼音
 
-- mu3 dao4 qi2 huang2 ji2 ， shao2 guang1 bang4 shou4 shang1 。
-- hui1 yin1 jia1 qing4 ji2 ， sui2 nian3 feng4 zun1 zhang1 。
+- guang3 cheng2 de2 dao4 zi4 kong1 tong2 ， shao3 guang3 gong1 cheng2 lang4 yuan4 zhong1 。
+- zi4 shi4 xian1 jia1 chun1 bu4 lao3 ， pan2 tao2 zhi1 shang4 you4 chun1 feng1 。
 
 ## 注释
 

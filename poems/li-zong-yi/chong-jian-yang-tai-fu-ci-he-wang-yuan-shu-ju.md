@@ -6,10 +6,10 @@ titleSlug: chong-jian-yang-tai-fu-ci-he-wang-yuan-shu-ju
 author: 李宗易
 authorPinyin: li3 zong1 yi4
 authorSlug: li-zong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

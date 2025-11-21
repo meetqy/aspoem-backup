@@ -1,24 +1,24 @@
 ---
 id: yuan-jiang-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 元絳
 authorPinyin: yuan2 jiang4
 authorSlug: yuan-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 九重侍從三明主，四紀乾坤一老臣。
+- 玉露精神山合沓，溪成文字水橫斜。
 
 ## 拼音
 
-- jiu3 chong2 shi4 cong2 san1 ming2 zhu3 ， si4 ji4 qian2 kun1 yi4 lao3 chen2 。
+- yu4 lu4 jing1 shen2 shan1 he2 ta4 ， xi1 cheng2 wen2 zi4 shui3 heng2 xie2 。
 
 ## 注释
 

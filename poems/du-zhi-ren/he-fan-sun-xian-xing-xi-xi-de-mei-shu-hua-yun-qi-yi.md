@@ -6,10 +6,10 @@ titleSlug: he-fan-sun-xian-xing-xi-xi-de-mei-shu-hua-yun-qi-yi
 author: 杜知仁
 authorPinyin: du4 zhi1 ren2
 authorSlug: du-zhi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

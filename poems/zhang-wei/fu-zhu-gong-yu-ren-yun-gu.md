@@ -6,9 +6,9 @@ titleSlug: fu-zhu-gong-yu-ren-yun-gu
 author: 張煒
 authorPinyin: zhang1 wei3
 authorSlug: zhang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

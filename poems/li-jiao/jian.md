@@ -1,6 +1,6 @@
 ---
 id: li-jiao-jian
-title: 劒
+title: 鑑
 titlePinyin: jian4
 titleSlug: jian
 author: 李嶠
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我有昆吾劒，求趨夫子庭。
-- 白虹時切玉，紫氣夜干星。
-- 鍔上芙蓉動，匣中霜雪明。
-- 倚天持報國，畫地取雄名。
+- 明鑑掩塵埃，含情照魏臺。
+- 日中烏鵲至，花裏鳳皇來。
+- 玉彩疑冰徹，金輝似月開。
+- 方知樂彥輔，自有鑒人才。
 
 ## 拼音
 
-- wo3 you3 kun1 wu2 jian4 ， qiu2 qu1 fu1 zi3 ting2 。
-- bai2 hong2 shi2 qie4 yu4 ， zi3 qi4 ye4 gan1 xing1 。
-- e4 shang4 fu2 rong2 dong4 ， xia2 zhong1 shuang1 xue3 ming2 。
-- yi3 tian1 chi2 bao4 guo2 ， hua4 di4 qu3 xiong2 ming2 。
+- ming2 jian4 yan3 chen2 ai1 ， han2 qing2 zhao4 wei4 tai2 。
+- ri4 zhong1 wu1 que4 zhi4 ， hua1 li3 feng4 huang2 lai2 。
+- yu4 cai3 yi2 bing1 che4 ， jin1 hui1 si4 yue4 kai1 。
+- fang1 zhi1 le4 yan4 fu3 ， zi4 you3 jian4 ren2 cai2 。
 
 ## 注释
 

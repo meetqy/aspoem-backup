@@ -1,30 +1,30 @@
 ---
 id: shi-qing-le-ji-song-er-shi-jiu-shou-qi-er
-title: 偈頌二十九首  其二
-titlePinyin: ji4 song4 er4 shi2 jiu3 shou3     qi2 er4
+title: 偈頌二十九首  其二○
+titlePinyin: ji4 song4 er4 shi2 jiu3 shou3     qi2 er4 ○
 titleSlug: ji-song-er-shi-jiu-shou-qi-er
 author: 釋清了
 authorPinyin: shi4 qing1 le0
 authorSlug: shi-qing-le
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傍參密旨，妙會玄宗。
-- 句在混沌前，豈涉今時路。
-- 在無舕人解語，無情者皆聞。
-- 通途消耗不分時，靈脈浩流無閑處。
+- 機回明位，妙盡轉身。
+- 一夢青山，滿船白月。
+- 子夜雲收碧漢，中秋露混銀河。
+- 蘆花深處驀相逢，談笑飲茶無處避。
 
 ## 拼音
 
-- bang4 can1 mi4 zhi3 ， miao4 hui4 xuan2 zong1 。
-- ju4 zai4 hun4 dun4 qian2 ， qi3 she4 jin1 shi2 lu4 。
-- zai4 wu2 tan4 ren2 jie3 yu3 ， wu2 qing2 zhe3 jie1 wen2 。
-- tong1 tu2 xiao1 hao4 bu4 fen1 shi2 ， ling2 mai4 hao4 liu2 wu2 xian2 chu3 。
+- ji1 hui2 ming2 wei4 ， miao4 jin4 zhuan3 shen1 。
+- yi2 meng4 qing1 shan1 ， man3 chuan2 bai2 yue4 。
+- zi3 ye4 yun2 shou1 bi4 han4 ， zhong1 qiu1 lu4 hun4 yin2 he2 。
+- lu2 hua1 shen1 chu3 mo4 xiang1 feng2 ， tan2 xiao4 yin3 cha2 wu2 chu3 bi4 。
 
 ## 注释
 

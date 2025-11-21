@@ -6,10 +6,10 @@ titleSlug: seng-ju-dui-yu-er-shou-qi-yi
 author: 賀鑄
 authorPinyin: he4 zhu4
 authorSlug: he-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

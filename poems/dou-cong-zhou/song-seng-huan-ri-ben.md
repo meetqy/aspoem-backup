@@ -6,10 +6,10 @@ titleSlug: song-seng-huan-ri-ben
 author: 竇從周
 authorPinyin: dou4 cong2 zhou1
 authorSlug: dou-cong-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

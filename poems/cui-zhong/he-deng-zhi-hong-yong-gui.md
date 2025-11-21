@@ -6,9 +6,9 @@ titleSlug: he-deng-zhi-hong-yong-gui
 author: 崔中
 authorPinyin: cui1 zhong1
 authorSlug: cui-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

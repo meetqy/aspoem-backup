@@ -6,10 +6,10 @@ titleSlug: wan-xue-gen-zhai
 author: 徐定
 authorPinyin: xu2 ding4
 authorSlug: xu-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

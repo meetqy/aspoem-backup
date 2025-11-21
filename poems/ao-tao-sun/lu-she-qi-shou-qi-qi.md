@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-lu-she-qi-shou-qi-qi
-title: 旅舍七首・其七
-titlePinyin: lü3 she4 qi1 shou3・qi2 qi1
+title: 旅舍七首  其七
+titlePinyin: lü3 she4 qi1 shou3     qi2 qi1
 titleSlug: lu-she-qi-shou-qi-qi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

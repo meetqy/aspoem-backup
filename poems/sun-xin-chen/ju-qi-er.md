@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 孫信臣
 authorPinyin: sun1 xin4 chen2
 authorSlug: sun-xin-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

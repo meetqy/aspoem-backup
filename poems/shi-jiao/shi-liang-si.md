@@ -6,10 +6,10 @@ titleSlug: shi-liang-si
 author: 石郊
 authorPinyin: shi2 jiao1
 authorSlug: shi-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

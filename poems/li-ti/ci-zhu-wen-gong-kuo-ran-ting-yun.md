@@ -6,10 +6,10 @@ titleSlug: ci-zhu-wen-gong-kuo-ran-ting-yun
 author: 李倜
 authorPinyin: li3 ti4
 authorSlug: li-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

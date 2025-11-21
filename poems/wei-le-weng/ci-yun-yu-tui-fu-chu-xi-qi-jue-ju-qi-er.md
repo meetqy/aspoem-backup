@@ -6,21 +6,21 @@ titleSlug: ci-yun-yu-tui-fu-chu-xi-qi-jue-ju-qi-er
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 從渠滿腹貯千年，遮莫揮毫動百篇。
-- 入到聖門無一事，東西日月自行天。
+- 誰驅斗柄向東遷，漸喜新年勝故年。
+- 歲緯移躔東井外，狼星歛角左參邊。
 
 ## 拼音
 
-- cong2 qu2 man3 fu4 zhu4 qian1 nian2 ， zhe1 mo4 hui1 hao2 dong4 bai3 pian1 。
-- ru4 dao4 sheng4 men2 wu2 yi2 shi4 ， dong1 xi1 ri4 yue4 zi4 xing2 tian1 。
+- shui2 qu1 dou3 bing3 xiang4 dong1 qian1 ， jian4 xi3 xin1 nian2 sheng4 gu4 nian2 。
+- sui4 wei3 yi2 chan2 dong1 jing3 wai4 ， lang2 xing1 lian3 jiao3 zuo3 can1 bian1 。
 
 ## 注释
 

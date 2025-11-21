@@ -6,10 +6,10 @@ titleSlug: bai-shi-shan
 author: 林斗南
 authorPinyin: lin2 dou3 nan2
 authorSlug: lin-dou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

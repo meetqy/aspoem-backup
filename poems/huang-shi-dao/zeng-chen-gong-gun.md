@@ -6,10 +6,10 @@ titleSlug: zeng-chen-gong-gun
 author: 黄師道
 authorPinyin: huang2 shi1 dao4
 authorSlug: huang-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

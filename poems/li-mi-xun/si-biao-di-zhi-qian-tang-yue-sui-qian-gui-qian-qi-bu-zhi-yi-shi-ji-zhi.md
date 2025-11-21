@@ -6,10 +6,10 @@ titleSlug: si-biao-di-zhi-qian-tang-yue-sui-qian-gui-qian-qi-bu-zhi-yi-shi-ji-zh
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

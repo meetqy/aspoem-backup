@@ -6,10 +6,10 @@ titleSlug: ling-jiang-xia-shi-zuo
 author: 樓常
 authorPinyin: lou2 chang2
 authorSlug: lou-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

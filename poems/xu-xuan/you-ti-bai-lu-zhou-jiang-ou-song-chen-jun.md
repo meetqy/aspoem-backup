@@ -14,18 +14,18 @@ tags: []
 
 ## 正文
 
-- 白鷺洲邊江路斜，輕鷗接翼滿平沙。
+- 白鷺洲邊江路斜，輕鷗按翼滿平沙。
 - 吾徒來送遠行客，停舟爲爾長歎息。
-- 酒旗漁艇兩無猜，月影蘆花鎮相得。
+- 酒旗魚艇兩無猜，月影蘆花鎮相得。
 - 離筵一曲怨復清，滿座銷魂鳥不驚。
 - 人生不及水禽樂，安用虛名上麟閣。
-- 同心携手今如此，金鼎丹砂何寂寞。
+- 同心攜手今如此，金鼎丹砂何寂寞。
 - 天涯後會眇難期，從此又應添白髭。
 - 願君不忘分飛處，長保翩翩潔白姿。
 
 ## 拼音
 
-- bai2 lu4 zhou1 bian1 jiang1 lu4 xie2 ， qing1 ou1 jie1 yi4 man3 ping2 sha1 。
+- bai2 lu4 zhou1 bian1 jiang1 lu4 xie2 ， qing1 ou1 an4 yi4 man3 ping2 sha1 。
 - wu2 tu2 lai2 song4 yuan3 xing2 ke4 ， ting2 zhou1 wei2 er3 chang2 tan4 xi1 。
 - jiu3 qi2 yu2 ting3 liang3 wu2 cai1 ， yue4 ying3 lu2 hua1 zhen4 xiang1 de2 。
 - li2 yan2 yi4 qu3 yuan4 fu4 qing1 ， man3 zuo4 xiao1 hun2 niao3 bu4 jing1 。

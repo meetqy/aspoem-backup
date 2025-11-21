@@ -6,10 +6,10 @@ titleSlug: shi-qi-zi-yao
 author: 臨安里人
 authorPinyin: lin2 an1 li3 ren2
 authorSlug: lin-an-li-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

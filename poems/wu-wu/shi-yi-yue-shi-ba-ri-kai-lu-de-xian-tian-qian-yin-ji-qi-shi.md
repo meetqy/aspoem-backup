@@ -6,10 +6,10 @@ titleSlug: shi-yi-yue-shi-ba-ri-kai-lu-de-xian-tian-qian-yin-ji-qi-shi
 author: 吳悮
 authorPinyin: wu2 wu4
 authorSlug: wu-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

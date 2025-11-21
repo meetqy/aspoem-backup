@@ -9,22 +9,18 @@ authorSlug: li-zhong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 離思春來切，誰能慰寂寥。
-- 花飛寒食過，雲重楚山遙。
-- 耿耿夢徒往，悠悠鬢易凋。
-- 那堪對明月，獨立水邊橋。
+- 解珮當時在洛濱，悠悠疑是夢中身。
+- 自從物外無消息，花謝鶯啼近十春。
 
 ## 拼音
 
-- li2 si1 chun1 lai2 qie4 ， shui2 neng2 wei4 ji4 liao2 。
-- hua1 fei1 han2 shi2 guo4 ， yun2 zhong4 chu3 shan1 yao2 。
-- geng3 geng3 meng4 tu2 wang3 ， you1 you1 bin4 yi4 diao1 。
-- na4 kan1 dui4 ming2 yue4 ， du2 li4 shui3 bian1 qiao2 。
+- jie3 pei4 dang1 shi2 zai4 luo4 bin1 ， you1 you1 yi2 shi4 meng4 zhong1 shen1 。
+- zi4 cong2 wu4 wai4 wu2 xiao1 xi0 ， hua1 xie4 ying1 ti2 jin4 shi2 chun1 。
 
 ## 注释
 

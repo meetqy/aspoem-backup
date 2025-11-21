@@ -6,10 +6,10 @@ titleSlug: jian-lu-tai-xue-zhen
 author: 邵知柔
 authorPinyin: shao4 zhi1 rou2
 authorSlug: shao-zhi-rou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

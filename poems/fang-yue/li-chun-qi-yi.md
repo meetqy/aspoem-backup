@@ -6,21 +6,25 @@ titleSlug: li-chun-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冰絲玉縷簇青紅，已逗花梢一信風。
-- 夢到謝池新雪盡，暖烟含雨綠匆匆。
+- 初信東風入綵幡，自挑雪薺飣春盤。
+- 土牛又送一年老，野鶴不知三逕寒。
+- 筋力尚堪耕綠野，鬢毛併欲掛黄冠。
+- 無人共跨南山犢，便作尋花問柳看。
 
 ## 拼音
 
-- bing1 si1 yu4 lü3 cu4 qing1 hong2 ， yi3 dou4 hua1 shao1 yi2 xin4 feng1 。
-- meng4 dao4 xie4 chi2 xin1 xue3 jin4 ， nuan3 yan1 han2 yu3 lü4 cong1 cong1 。
+- chu1 xin4 dong1 feng1 ru4 cai3 fan1 ， zi4 tiao1 xue3 ji4 ding4 chun1 pan2 。
+- tu3 niu2 you4 song4 yi4 nian2 lao3 ， ye3 he4 bu4 zhi1 san1 jing4 han2 。
+- jin1 li4 shang4 kan1 geng1 lü4 ye3 ， bin4 mao2 bing4 yu4 gua4 huang2 guan1 。
+- wu2 ren2 gong4 kua4 nan2 shan1 du2 ， bian4 zuo4 xun2 hua1 wen4 liu3 kan4 。
 
 ## 注释
 

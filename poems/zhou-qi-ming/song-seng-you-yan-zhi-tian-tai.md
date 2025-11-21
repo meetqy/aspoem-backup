@@ -6,10 +6,10 @@ titleSlug: song-seng-you-yan-zhi-tian-tai
 author: 周啟明
 authorPinyin: zhou1 qi3 ming2
 authorSlug: zhou-qi-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

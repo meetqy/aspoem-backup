@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 本之
 authorPinyin: ben3 zhi1
 authorSlug: ben-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

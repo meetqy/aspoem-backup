@@ -6,10 +6,10 @@ titleSlug: you-da-di-shan
 author: 上官辰
 authorPinyin: shang4 guan1 chen2
 authorSlug: shang-guan-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

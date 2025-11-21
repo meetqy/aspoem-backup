@@ -6,10 +6,10 @@ titleSlug: ke-you-zhi-zi-jing-shi-yan-zhu-gong-chun-jian-duo-hui-yu-yuan-bo-yuan
 author: 蔡襄
 authorPinyin: cai4 xiang1
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

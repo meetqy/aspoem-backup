@@ -6,10 +6,10 @@ titleSlug: yuan-hui-shang-ren-xi-fu-shi-zuo-dong-po-zi-xiao-ran-you-chu-chen-zhi
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

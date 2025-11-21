@@ -1,30 +1,42 @@
 ---
 id: chen-zao-he-tao-yuan-ming-er-shi-shou-qi-er
-title: 和陶淵明二十首  其二
-titlePinyin: he2 tao2 yuan1 ming2 er4 shi2 shou3     qi2 er4
+title: 和陶淵明二十首  其二○
+titlePinyin: he2 tao2 yuan1 ming2 er4 shi2 shou3     qi2 er4 ○
 titleSlug: he-tao-yuan-ming-er-shi-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 壯歲銳著述，瞢欲藏名山。
-- 中間忽自哂，聒聒厭多言。
-- 棄置杯中樂，雕鎪耗歲年。
-- 不知百歲後，何益空名傳。
+- 陶翁出宰縣，徑去亦天真。
+- 閑居詩成集，古雅仍深醇。
+- 坡翁訪赤壁，臨流雙鬢新。
+- 小袖補衮手，千篇準過秦。
+- 兩翁閲當世，眇若毫端塵。
+- 熙豐望義熙，愛君最忠勤。
+- 向非與道俱，寧爾著語親。
+- 自我誦遺編，行身少知津。
+- 敢忘炷爐香，亦復墊雨巾。
+- 鼎鼎蓋棺前，期無愧斯人。
 
 ## 拼音
 
-- zhuang4 sui4 rui4 zhu4 shu4 ， meng2 yu4 cang2 ming2 shan1 。
-- zhong1 jian4 hu1 zi4 shen3 ， guo1 guo1 yan4 duo1 yan2 。
-- qi4 zhi4 bei1 zhong1 le4 ， diao1 sou1 hao4 sui4 nian2 。
-- bu4 zhi1 bai3 sui4 hou4 ， he2 yi4 kong1 ming2 chuan2 。
+- tao2 weng1 chu1 zai3 xian4 ， jing4 qu4 yi4 tian1 zhen1 。
+- xian2 ju1 shi1 cheng2 ji2 ， gu3 ya3 reng2 shen1 chun2 。
+- po1 weng1 fang3 chi4 bi4 ， lin2 liu2 shuang1 bin4 xin1 。
+- xiao3 xiu4 bu3 gun3 shou3 ， qian1 pian1 zhun3 guo4 qin2 。
+- liang3 weng1 yue4 dang1 shi4 ， miao3 ruo4 hao2 duan1 chen2 。
+- xi1 feng1 wang4 yi4 xi1 ， ai4 jun1 zui4 zhong1 qin2 。
+- xiang4 fei1 yu3 dao4 ju4 ， ning2 er3 zhu4 yu3 qin1 。
+- zi4 wo3 song4 yi2 bian1 ， xing2 shen1 shao3 zhi1 jin1 。
+- gan3 wang4 zhu4 lu2 xiang1 ， yi4 fu4 dian4 yu3 jin1 。
+- ding3 ding3 gai4 guan1 qian2 ， qi1 wu2 kui4 si1 ren2 。
 
 ## 注释
 

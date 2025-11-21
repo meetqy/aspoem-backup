@@ -6,25 +6,25 @@ titleSlug: wu-mian
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丙夜不成寐，可知心念家。
-- 人情風上草，身世眼中沙。
-- 宿鳥司更漏，黄蜂集晚衙。
-- 了忘官府事，高枕是生涯。
+- 蛩吟砌下豈知時，我亦無眠有所思。
+- 夜永只憐燈作伴，秋凉最許簟先知。
+- 十年擾擾夢中事，一笑悠悠世上兒。
+- 數盡更籌窗送曙，起來贏得鬢成絲。
 
 ## 拼音
 
-- bing3 ye4 bu4 cheng2 mei4 ， ke3 zhi1 xin1 nian4 jia1 。
-- ren2 qing2 feng1 shang4 cao3 ， shen1 shi4 yan3 zhong1 sha1 。
-- su4 niao3 si1 geng1 lou4 ， huang2 feng1 ji2 wan3 ya2 。
-- liao3 wang4 guan1 fu3 shi4 ， gao1 zhen3 shi4 sheng1 ya2 。
+- qiong2 yin2 qi4 xia4 qi3 zhi1 shi2 ， wo3 yi4 wu2 mian2 you3 suo3 si1 。
+- ye4 yong3 zhi1 lian2 deng1 zuo4 ban4 ， qiu1 liang2 zui4 xu1 dian4 xian1 zhi1 。
+- shi2 nian2 rao3 rao3 meng4 zhong1 shi4 ， yi2 xiao4 you1 you1 shi4 shang4 er2 。
+- shu4 jin4 geng4 chou2 chuang1 song4 shu3 ， qi3 lai2 ying2 de2 bin4 cheng2 si1 。
 
 ## 注释
 

@@ -6,25 +6,29 @@ titleSlug: zhou-shui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 書獄徴租自笑忙，暫歸聊得憩匡床。
-- 屏圖夜雨孤舟句，枕带秋風九日香。
-- 一卷蠧書棲倦手，數聲殘角報斜陽。
-- 清泉浴罷西窗靜，更覺茶甌氣味長。
+- 體中小不佳，惟睡可以休。
+- 睡美自成夢，去爲萬里遊。
+- 萬里遊尚可，乃復有得喪。
+- 漂搖一葉舟，掀舞千重浪。
+- 午鷄忽驚起，向夢安在哉。
+- 童子解原夢，篝火具茶杯。
 
 ## 拼音
 
-- shu1 yu4 zhi3 zu1 zi4 xiao4 mang2 ， zan4 gui1 liao2 de2 qi4 kuang1 chuang2 。
-- ping2 tu2 ye4 yu3 gu1 zhou1 ju4 ， zhen3 dai4 qiu1 feng1 jiu3 ri4 xiang1 。
-- yi2 juan4 du4 shu1 qi1 juan4 shou3 ， shu4 sheng1 can2 jiao3 bao4 xie2 yang2 。
-- qing1 quan2 yu4 ba4 xi1 chuang1 jing4 ， geng4 jue2 cha2 ou1 qi4 wei4 chang2 。
+- ti3 zhong1 xiao3 bu4 jia1 ， wei2 shui4 ke3 yi3 xiu1 。
+- shui4 mei3 zi4 cheng2 meng4 ， qu4 wei2 wan4 li3 you2 。
+- wan4 li3 you2 shang4 ke3 ， nai3 fu4 you3 de2 sang1 。
+- piao1 yao2 yi2 ye4 zhou1 ， xian1 wu3 qian1 zhong4 lang4 。
+- wu3 ji1 hu1 jing1 qi3 ， xiang4 meng4 an1 zai4 zai1 。
+- tong2 zi3 jie3 yuan2 meng4 ， gou1 huo3 ju4 cha2 bei1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qiu-ri-you-he-jiang-xi-ti-zhi-ting-shang
 author: 郭思
 authorPinyin: guo1 si1
 authorSlug: guo-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

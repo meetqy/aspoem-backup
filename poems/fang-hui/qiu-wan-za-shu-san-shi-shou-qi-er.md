@@ -1,38 +1,38 @@
 ---
 id: fang-hui-qiu-wan-za-shu-san-shi-shou-qi-er
-title: 秋晚雜書三十首  其二
-titlePinyin: qiu1 wan3 za2 shu1 san1 shi2 shou3     qi2 er4
+title: 秋晚雜書三十首  其二○
+titlePinyin: qiu1 wan3 za2 shu1 san1 shi2 shou3     qi2 er4 ○
 titleSlug: qiu-wan-za-shu-san-shi-shou-qi-er
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 屈子悼芙蓉，胡於木末采。
-- 誰歟變秋樹，水花儼高塏。
-- 本非蓮藕類，稍稍具姿彩。
-- 厥植亦匪貞，朝澤暮已痗。
-- 叔世尚浮卉，貌取實故萎。
-- 吾廬百昌戕，一二此根在。
-- 無奈兒女曹，愛之若芳茝。
-- 曾不如蕎穄，足用拯疲餒。
+- 人言太白豪，其詩麗以富。
+- 樂府信皆爾，一掃梁隋腐。
+- 餘編細讀之，要自有樸處。
+- 最於贈答篇，肺腑露情愫。
+- 何至昌谷生，一一雕麗句。
+- 亦焉用玉溪，纂組失天趣。
+- 沈宋非不工，子建獨高步。
+- 畫肉不畫骨，乃以帝閑故。
 
 ## 拼音
 
-- qu1 zi3 dao4 fu2 rong2 ， hu2 wu1 mu4 mo4 cai3 。
-- shui2 yu2 bian4 qiu1 shu4 ， shui3 hua1 yan3 gao1 kai3 。
-- ben3 fei1 lian2 ou3 lei4 ， shao1 shao1 ju4 zi1 cai3 。
-- jue2 zhi2 yi4 fei3 zhen1 ， chao2 ze2 mu4 yi3 mei4 。
-- shu1 shi4 shang4 fu2 hui4 ， mao4 qu3 shi2 gu4 wei3 。
-- wu2 lu2 bai3 chang1 qiang1 ， yi1 er4 ci3 gen1 zai4 。
-- wu2 nai4 er2 nü3 cao2 ， ai4 zhi1 ruo4 fang1 chai3 。
-- ceng2 bu4 ru2 qiao2 ji4 ， zu2 yong4 zheng3 pi2 nei3 。
+- ren2 yan2 tai4 bai2 hao2 ， qi2 shi1 li2 yi3 fu4 。
+- le4 fu3 xin4 jie1 er3 ， yi4 sao3 liang2 sui2 fu3 。
+- yu2 bian1 xi4 du2 zhi1 ， yao4 zi4 you3 pu3 chu3 。
+- zui4 wu1 zeng4 da2 pian1 ， fei4 fu3 lu4 qing2 su4 。
+- he2 zhi4 chang1 gu3 sheng1 ， yi1 yi1 diao1 li2 ju4 。
+- yi4 yan1 yong4 yu4 xi1 ， zuan3 zu3 shi1 tian1 qu4 。
+- shen3 song4 fei1 bu4 gong1 ， zi3 jian4 du2 gao1 bu4 。
+- hua4 rou4 bu2 hua4 gu3 ， nai3 yi3 di4 xian2 gu4 。
 
 ## 注释
 

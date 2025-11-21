@@ -6,10 +6,10 @@ titleSlug: he-jin-biao-shu-zhong-qiu-ye-ti-yue
 author: 朱申首
 authorPinyin: zhu1 shen1 shou3
 authorSlug: zhu-shen-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

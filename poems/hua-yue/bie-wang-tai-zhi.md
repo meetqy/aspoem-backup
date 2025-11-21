@@ -6,25 +6,25 @@ titleSlug: bie-wang-tai-zhi
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄塵漫漫小峰路，白石齒齒茗坑渡。
-- 相亭南來第一程，人煙蕭條歲云暮。
-- 故人小隠三家村，約我旗亭聊一樽。
-- 相逢此地復相別，明朝懷抱同誰論。
+- 風神戀行客，吹柳纏簪纓。
+- 傍水鳥多白，近山蟬更清。
+- 別腸雲閣淚，歸路月關情。
+- 告德無多日，清觴聊一傾。
 
 ## 拼音
 
-- huang2 chen2 man4 man4 xiao3 feng1 lu4 ， bai2 shi2 chi3 chi3 ming2 keng1 du4 。
-- xiang1 ting2 nan2 lai2 di4 yi1 cheng2 ， ren2 yan1 xiao1 tiao2 sui4 yun2 mu4 。
-- gu4 ren2 xiao3 yin3 san1 jia1 cun1 ， yue1 wo3 qi2 ting2 liao2 yi4 zun1 。
-- xiang1 feng2 ci3 di4 fu4 xiang1 bie2 ， ming2 chao2 huai2 bao4 tong2 shui2 lun4 。
+- feng1 shen2 lian4 xing2 ke4 ， chui1 liu3 chan2 zan1 ying1 。
+- bang4 shui3 niao3 duo1 bai2 ， jin4 shan1 chan2 geng4 qing1 。
+- bie2 chang2 yun2 ge2 lei4 ， gui1 lu4 yue4 guan1 qing2 。
+- gao4 de2 wu2 duo1 ri4 ， qing1 shang1 liao2 yi4 qing1 。
 
 ## 注释
 

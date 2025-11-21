@@ -9,24 +9,26 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春朝散微雨，庭樹開芸綠。
-- 上有懷春鳥，間關斷復續。
-- 謂言□野中，定是珠城曲。
-- 我自牽時幸，以慚羈旅束。
-- 爾下鳴幽林，來此將何欲。
+- 東上波流西上船，桃源未必有真仙。
+- 干戈滿目家何在，寂寞空山聞杜鵑。
+- （見《江南餘載》卷下。
+- 南唐開寶末詩也。
+- ）（〖1〗《江南餘載》：「開寶末，長老法倫夢金陵兵火四起，有書生朗吟曰〖詩不重錄〗」云云。
+- ）。
 
 ## 拼音
 
-- chun1 chao2 san4 wei1 yu3 ， ting2 shu4 kai1 yun2 lü4 。
-- shang4 you3 huai2 chun1 niao3 ， jian4 guan1 duan4 fu4 xu4 。
-- wei4 yan2 □ ye3 zhong1 ， ding4 shi4 zhu1 cheng2 qu3 。
-- wo3 zi4 qian1 shi2 xing4 ， yi3 can2 ji1 lü3 shu4 。
-- er3 xia4 ming2 you1 lin2 ， lai2 ci3 jiang1 he2 yu4 。
+- dong1 shang4 bo1 liu2 xi1 shang4 chuan2 ， tao2 yuan2 wei4 bi4 you3 zhen1 xian1 。
+- gan1 ge1 man3 mu4 jia1 he2 zai4 ， ji4 mo4 kong1 shan1 wen2 du4 jian1 。
+- （ jian4 《 jiang1 nan2 yu2 zai4 》 juan4 xia4 。
+- nan2 tang2 kai1 bao3 mo4 shi1 ye3 。
+- ）（〖1〗《 jiang1 nan2 yu2 zai4 》：「 kai1 bao3 mo4 ， chang2 lao3 fa3 lun2 meng4 jin1 ling2 bing1 huo3 si4 qi3 ， you3 shu1 sheng1 lang3 yin2 yue1 〖 shi1 bu2 zhong4 lu4 〗」 yun2 yun2 。
+- ）。
 
 ## 注释
 

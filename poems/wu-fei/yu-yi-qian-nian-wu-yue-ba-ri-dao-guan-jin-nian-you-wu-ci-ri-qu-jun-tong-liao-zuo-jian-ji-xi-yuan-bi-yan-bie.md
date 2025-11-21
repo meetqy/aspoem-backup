@@ -6,10 +6,10 @@ titleSlug: yu-yi-qian-nian-wu-yue-ba-ri-dao-guan-jin-nian-you-wu-ci-ri-qu-jun-to
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

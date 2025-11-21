@@ -6,10 +6,10 @@ titleSlug: tai-xue-qiu-shi-feng-mi-ye-shen-du-zuo-huai-kao-shi-zhu-you
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

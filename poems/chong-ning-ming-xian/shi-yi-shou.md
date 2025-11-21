@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 崇寧名賢
 authorPinyin: chong2 ning2 ming2 xian2
 authorSlug: chong-ning-ming-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

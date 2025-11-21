@@ -6,9 +6,9 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋證悟
 authorPinyin: shi4 zheng4 wu4
 authorSlug: shi-zheng-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

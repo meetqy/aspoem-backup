@@ -6,29 +6,25 @@ titleSlug: zao-xing
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東方未明天紫色，凉風吹空聲惻惻。
-- 船人起語鳥奮翼，兼葭茫茫江水白。
-- 石潭轉旋蛟龍窟，巖壁冥蒙虎豹迹。
-- 生存古木數十圍，老死懸藤百餘尺。
-- 民生有爲俱事役，豈獨羈人不遑息。
-- 商歌濁酒聊慰懷，君不見仲尼旅人常接淅。
+- 山鳥相呼曙，檣烏自指南。
+- 健看帆席滿，坐數舳艫銜。
+- 水闊蛟龍舞，魚肥鸛鶴貪。
+- 陣雲濃似墨，送雨向湘潭。
 
 ## 拼音
 
-- dong1 fang1 wei4 ming2 tian1 zi3 se4 ， liang2 feng1 chui1 kong1 sheng1 ce4 ce4 。
-- chuan2 ren2 qi3 yu3 niao3 fen4 yi4 ， jian1 jia1 mang2 mang2 jiang1 shui3 bai2 。
-- shi2 tan2 zhuan3 xuan2 jiao1 long2 ku1 ， yan2 bi4 ming2 meng2 hu3 bao4 ji4 。
-- sheng1 cun2 gu3 mu4 shu4 shi2 wei2 ， lao3 si3 xuan2 teng2 bai3 yu2 chi3 。
-- min2 sheng1 you3 wei2 ju4 shi4 yi4 ， qi3 du2 ji1 ren2 bu4 huang2 xi1 。
-- shang1 ge1 zhuo2 jiu3 liao2 wei4 huai2 ， jun1 bu2 jian4 zhong4 ni2 lü3 ren2 chang2 jie1 xi1 。
+- shan1 niao3 xiang1 hu1 shu3 ， qiang2 wu1 zi4 zhi3 nan2 。
+- jian4 kan4 fan1 xi2 man3 ， zuo4 shu4 zhu2 lu2 xian2 。
+- shui3 kuo4 jiao1 long2 wu3 ， yu2 fei2 guan4 he4 tan1 。
+- zhen4 yun2 nong2 si4 mo4 ， song4 yu3 xiang4 xiang1 tan2 。
 
 ## 注释
 

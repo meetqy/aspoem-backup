@@ -1,28 +1,26 @@
 ---
 id: shi-dao-heng-song-gu-shi-qi-shou-qi-yi
-title: 頌古十七首  其一
-titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 yi1
+title: 頌古十七首  其一○
+titlePinyin: song4 gu3 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-qi-shou-qi-yi
 author: 釋道行
 authorPinyin: shi4 dao4 heng0
 authorSlug: shi-dao-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 枯樹雲充葉，凋梅雪作花。
-- 擊桐成木響，蘸雪喫冬瓜。
-- 長天秋水，孤鶩落霞。
+- 因我得禮你，崑崙臥潭底。
+- 雖然浪拍天，身上無滴水。
 
 ## 拼音
 
-- ku1 shu4 yun2 chong1 ye4 ， diao1 mei2 xue3 zuo4 hua1 。
-- ji1 tong2 cheng2 mu4 xiang3 ， zhan4 xue3 chi1 dong1 gua1 。
-- chang2 tian1 qiu1 shui3 ， gu1 wu4 luo4 xia2 。
+- yin1 wo3 de2 li3 ni3 ， kun1 lun2 wo4 tan2 di3 。
+- sui1 ran2 lang4 pai1 tian1 ， shen1 shang4 wu2 di1 shui3 。
 
 ## 注释
 

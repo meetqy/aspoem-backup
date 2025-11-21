@@ -6,25 +6,25 @@ titleSlug: zi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 健忘閑何害，貪眠老正宜。
-- 本心惟泥酒，餘習略存詩。
-- 未廢春農業，猶堪幼學師。
-- 微官何所戀，請老五年遲。
+- 一廛東近會稽城，鑿破烟蕪俋俋耕。
+- 上藥養神非近效，善言銘座要躬行。
+- 論書尚欲心先正，學道寧容氣不平。
+- 天付吾儕元自足，滿園春薺又堪烹。
 
 ## 拼音
 
-- jian4 wang4 xian2 he2 hai4 ， tan1 mian2 lao3 zheng4 yi2 。
-- ben3 xin1 wei2 ni2 jiu3 ， yu2 xi2 lüe4 cun2 shi1 。
-- wei4 fei4 chun1 nong2 ye4 ， you2 kan1 you4 xue2 shi1 。
-- wei1 guan1 he2 suo3 lian4 ， qing3 lao3 wu3 nian2 chi2 。
+- yi4 chan2 dong1 jin4 hui4 ji1 cheng2 ， zao2 po4 yan1 wu2 yi4 yi4 geng1 。
+- shang4 yao4 yang3 shen2 fei1 jin4 xiao4 ， shan4 yan2 ming2 zuo4 yao4 gong1 xing2 。
+- lun4 shu1 shang4 yu4 xin1 xian1 zheng4 ， xue2 dao4 ning2 rong2 qi4 bu4 ping2 。
+- tian1 fu4 wu2 chai2 yuan2 zi4 zu2 ， man3 yuan2 chun1 ji4 you4 kan1 peng1 。
 
 ## 注释
 

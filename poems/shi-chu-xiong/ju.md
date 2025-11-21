@@ -6,10 +6,10 @@ titleSlug: ju
 author: 石處雄
 authorPinyin: shi2 chu3 xiong2
 authorSlug: shi-chu-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

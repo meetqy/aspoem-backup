@@ -6,10 +6,10 @@ titleSlug: wu-han-yi-jia-jing-xi-xu-gu-shu-qi-qi-shen-fu-yu-yu-zao-guan-er-wei-g
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

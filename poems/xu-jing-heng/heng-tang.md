@@ -6,25 +6,21 @@ titleSlug: heng-tang
 author: 許景衡
 authorPinyin: xu1 jing3 heng2
 authorSlug: xu-jing-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好在横塘水，人今去幾年。
-- 秋光空到地，霽色自連天。
-- 伐石圍高岸，誅茅駕短椽。
-- 歸歟此心在，何苦利名牽。
+- 春日横塘綠渺漫，扁舟欲去重盤桓。
+- 誰教向晚亷纖雨，又作殘春料峭寒。
 
 ## 拼音
 
-- hao3 zai4 heng2 tang2 shui3 ， ren2 jin1 qu4 ji1 nian2 。
-- qiu1 guang1 kong1 dao4 di4 ， ji4 se4 zi4 lian2 tian1 。
-- fa2 shi2 wei2 gao1 an4 ， zhu1 mao2 jia4 duan3 chuan2 。
-- gui1 yu2 ci3 xin1 zai4 ， he2 ku3 li4 ming2 qian1 。
+- chun1 ri4 heng2 tang2 lü4 miao3 man4 ， pian1 zhou1 yu4 qu4 zhong4 pan2 huan2 。
+- shui2 jiao4 xiang4 wan3 lian2 xian1 yu3 ， you4 zuo4 can2 chun1 liao4 qiao4 han2 。
 
 ## 注释
 

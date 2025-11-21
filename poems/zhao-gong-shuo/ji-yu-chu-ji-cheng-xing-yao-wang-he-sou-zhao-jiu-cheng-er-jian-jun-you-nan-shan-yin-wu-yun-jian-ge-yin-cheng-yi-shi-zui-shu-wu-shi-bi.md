@@ -6,10 +6,10 @@ titleSlug: ji-yu-chu-ji-cheng-xing-yao-wang-he-sou-zhao-jiu-cheng-er-jian-jun-yo
 author: 趙公碩
 authorPinyin: zhao4 gong1 shuo4
 authorSlug: zhao-gong-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

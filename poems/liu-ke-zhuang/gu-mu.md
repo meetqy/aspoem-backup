@@ -6,21 +6,21 @@ titleSlug: gu-mu
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石麟闕耳筍生苔，要讀豐碑與客來。
-- 精舍荒涼僧已出，瓦牆一朵佛桑開。
+- 龜趺但見碑訛缺，馬鬣安知葬舊新。
+- 想見若敖求食鬼，亦羞東郭乞墦人。
 
 ## 拼音
 
-- shi2 lin2 que4 er3 sun3 sheng1 tai2 ， yao4 du2 feng1 bei1 yu3 ke4 lai2 。
-- jing1 she4 huang1 liang2 seng1 yi3 chu1 ， wa3 qiang2 yi4 duo3 fo2 sang1 kai1 。
+- gui1 fu1 dan4 jian4 bei1 e2 que1 ， ma3 lie4 an1 zhi1 zang4 jiu4 xin1 。
+- xiang3 jian4 ruo4 ao2 qiu2 shi2 gui3 ， yi4 xiu1 dong1 guo1 qi3 fan2 ren2 。
 
 ## 注释
 

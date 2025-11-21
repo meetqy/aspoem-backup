@@ -6,21 +6,21 @@ titleSlug: ji-shi
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 照空初涌玉芙蕖，驚起霜林尾畢逋。
-- 託宿一枝翻自失，倦飛三匝正相呼。
+- 春深草木未欣榮，冰谷峥嶸霰雪零。
+- 鸞鳳不來黄鵠舉，請看鷰雀閙荒庭。
 
 ## 拼音
 
-- zhao4 kong1 chu1 yong3 yu4 fu2 qu2 ， jing1 qi3 shuang1 lin2 wei3 bi4 bu1 。
-- tuo1 su4 yi4 zhi1 fan1 zi4 shi1 ， juan4 fei1 san1 za1 zheng4 xiang1 hu1 。
+- chun1 shen1 cao3 mu4 wei4 xin1 rong2 ， bing1 gu3 zheng1 rong2 xian4 xue3 ling2 。
+- luan2 feng4 bu4 lai2 huang2 hu2 ju3 ， qing3 kan4 yan4 que4 nao4 huang1 ting2 。
 
 ## 注释
 

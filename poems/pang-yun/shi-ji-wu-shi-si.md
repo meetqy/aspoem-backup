@@ -9,24 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 世人皮上黠，心裏沒頭癡。
-- 他貪目前利，焉知已後非。
-- 謾胡欺得漢，誇道手脚遲。
-- 走向見閻老，倒拖研米槌。
-- 恐君不覺悟，今日報君知。
+- 迷時愛欲心如火，心開悟理火成灰。
+- 灰火本來同一體，當知妄盡即如來。
 
 ## 拼音
 
-- shi4 ren2 pi2 shang4 xia2 ， xin1 li3 mei2 tou2 chi1 。
-- ta1 tan1 mu4 qian2 li4 ， yan1 zhi1 yi3 hou4 fei1 。
-- man2 hu2 qi1 de2 han4 ， kua1 dao4 shou3 jiao3 chi2 。
-- zou3 xiang4 jian4 yan2 lao3 ， dao3 tuo1 yan2 mi3 chui2 。
-- kong3 jun1 bu4 jue2 wu4 ， jin1 ri4 bao4 jun1 zhi1 。
+- mi2 shi2 ai4 yu4 xin1 ru2 huo3 ， xin1 kai1 wu4 li3 huo3 cheng2 hui1 。
+- hui1 huo3 ben3 lai2 tong2 yi4 ti3 ， dang1 zhi1 wang4 jin4 ji2 ru2 lai2 。
 
 ## 注释
 

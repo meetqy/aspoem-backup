@@ -6,10 +6,10 @@ titleSlug: qing-xu-tang
 author: 陳簡軒
 authorPinyin: chen2 jian3 xuan1
 authorSlug: chen-jian-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

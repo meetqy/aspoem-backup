@@ -6,10 +6,10 @@ titleSlug: he-peng-lu-xie-en
 author: 崇寧翰林
 authorPinyin: chong2 ning2 han4 lin2
 authorSlug: chong-ning-han-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

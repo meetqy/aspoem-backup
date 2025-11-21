@@ -6,25 +6,25 @@ titleSlug: shi-yue
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塞向傾書槴，開爐積豆萁。
-- 林居得溫暖，天遣養衰遲。
-- 甕盎藏蔬後，鉏耰下麥時。
-- 農家冬最樂，我老頗能知。
+- 紅樹平沙十月天，放翁今作水中仙。
+- 鼕鼕林外迎神鼓，隻隻溪頭下釣船。
+- 世事極知吾有命，俗人終與汝無緣。
+- 菊花枯盡香猶在，又付東籬一醉眠。
 
 ## 拼音
 
-- sai1 xiang4 qing1 shu1 hu4 ， kai1 lu2 ji1 dou4 qi2 。
-- lin2 ju1 de2 wen1 nuan3 ， tian1 qian3 yang3 shuai1 chi2 。
-- weng4 ang4 cang2 shu1 hou4 ， chu2 you1 xia4 mai4 shi2 。
-- nong2 jia1 dong1 zui4 le4 ， wo3 lao3 po1 neng2 zhi1 。
+- hong2 shu4 ping2 sha1 shi2 yue4 tian1 ， fang4 weng1 jin1 zuo4 shui3 zhong1 xian1 。
+- dong1 dong1 lin2 wai4 ying2 shen2 gu3 ， zhi1 zhi1 xi1 tou2 xia4 diao4 chuan2 。
+- shi4 shi4 ji2 zhi1 wu2 you3 ming4 ， su2 ren2 zhong1 yu3 ru3 wu2 yuan2 。
+- ju2 hua1 ku1 jin4 xiang1 you2 zai4 ， you4 fu4 dong1 li2 yi2 zui4 mian2 。
 
 ## 注释
 

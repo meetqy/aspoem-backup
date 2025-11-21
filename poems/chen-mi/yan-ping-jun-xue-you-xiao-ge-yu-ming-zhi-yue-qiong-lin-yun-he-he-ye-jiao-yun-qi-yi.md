@@ -6,10 +6,10 @@ titleSlug: yan-ping-jun-xue-you-xiao-ge-yu-ming-zhi-yue-qiong-lin-yun-he-he-ye-j
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

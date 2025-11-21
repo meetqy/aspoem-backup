@@ -6,31 +6,25 @@ titleSlug: gui-tu
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 招要非故約，談笑偶然期。
-- 假日寧憂夜，徐行不用馳。
-- 吾曹欣窈窕，童騎苦逶迤。
-- 罷酌餘樽酒，催成未了詩。
-- 事雖同栗里，宿乃異西枝。
-- 雨合泉如瀑，嵐昏石似螭。
-- 茲遊蘄可再，約友更携兒。
+- 籃輿伊軋又前村，何許風來洗睡昏。
+- 木落盡還山面目，旱深窮見水根源。
+- 相逢負擔皆征利，難覓隠居躬灌園。
+- 歸路苦長行易倦，斷鴉殘月記松門。
 
 ## 拼音
 
-- zhao1 yao4 fei1 gu4 yue1 ， tan2 xiao4 ou3 ran2 qi1 。
-- jia4 ri4 ning2 you1 ye4 ， xu2 hang2 bu2 yong4 chi2 。
-- wu2 cao2 xin1 yao3 tiao3 ， tong2 qi2 ku3 wei1 yi2 。
-- ba4 zhuo2 yu2 zun1 jiu3 ， cui1 cheng2 wei4 liao3 shi1 。
-- shi4 sui1 tong2 li4 li3 ， su4 nai3 yi4 xi1 zhi1 。
-- yu3 he2 quan2 ru2 pu4 ， lan2 hun1 shi2 si4 chi1 。
-- zi1 you2 qi2 ke3 zai4 ， yue1 you3 geng4 xie2 er2 。
+- lan2 yu2 yi1 ya4 you4 qian2 cun1 ， he2 xu1 feng1 lai2 xi3 shui4 hun1 。
+- mu4 luo4 jin4 huan2 shan1 mian4 mu4 ， han4 shen1 qiong2 jian4 shui3 gen1 yuan2 。
+- xiang1 feng2 fu4 dan1 jie1 zheng1 li4 ， nan2 mi4 yin3 ju1 gong1 guan4 yuan2 。
+- gui1 lu4 ku3 chang2 xing2 yi4 juan4 ， duan4 ya1 can2 yue4 ji4 song1 men2 。
 
 ## 注释
 

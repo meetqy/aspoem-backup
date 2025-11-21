@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄭至道
 authorPinyin: zheng4 zhi4 dao4
 authorSlug: zheng-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

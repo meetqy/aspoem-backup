@@ -1,38 +1,42 @@
 ---
 id: fang-yi-kui-gan-xing-er-shi-qi-shou-qi-er
-title: 感興二十七首  其二
-titlePinyin: gan3 xing1 er4 shi2 qi1 shou3     qi2 er4
+title: 感興二十七首  其二○
+titlePinyin: gan3 xing1 er4 shi2 qi1 shou3     qi2 er4 ○
 titleSlug: gan-xing-er-shi-qi-shou-qi-er
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 婉婉馬上女，兩頰瑩寒玉。
-- 弓彎敲鐙踏，側立紛相逐。
-- 借問誰家兒，近出常山族。
-- 兒家昔鼎貴，煌煌什朱轂。
-- 父親守常山，忽值胡馬蹙。
-- 起義功不成，巢傾卵亦覆。
-- 妾身轉流落，歲久無錢贖。
-- 欲去無緣由，安得南飛鵠。
+- 著籍占杜曲，別業在臨淄。
+- 雞號夜鐸靜，汗血逐膏脂。
+- 縱橫一握算，顛倒逢笑嬉。
+- 舉俗以爲妙，紛紛盡愚癡。
+- 不見朱公子，千里來相師。
+- 偶然得我策，沼吳航妖姬。
+- 祕此枕中術，若有千歲期。
+- 大化常不偶，日與人事移。
+- 人事多乖忤，汝計不得施。
+- 君看貨殖傳，刀間有衰時。
 
 ## 拼音
 
-- wan3 wan3 ma3 shang4 nü3 ， liang3 jia2 ying2 han2 yu4 。
-- gong1 wan1 qiao1 deng1 ta4 ， ce4 li4 fen1 xiang1 zhu2 。
-- jie4 wen4 shui2 jia1 er2 ， jin4 chu1 chang2 shan1 zu2 。
-- er2 jia1 xi1 ding3 gui4 ， huang2 huang2 shen2 zhu1 gu3 。
-- fu4 qin1 shou3 chang2 shan1 ， hu1 zhi2 hu2 ma3 cu4 。
-- qi3 yi4 gong1 bu4 cheng2 ， chao2 qing1 luan3 yi4 fu4 。
-- qie4 shen1 zhuan3 liu2 luo4 ， sui4 jiu3 wu2 qian2 shu2 。
-- yu4 qu4 wu2 yuan2 you2 ， an1 de2 nan2 fei1 hu2 。
+- zhu4 ji2 zhan4 du4 qu3 ， bie2 ye4 zai4 lin2 zi1 。
+- ji1 hao4 ye4 duo2 jing4 ， han4 xue4 zhu2 gao1 zhi1 。
+- zong4 heng2 yi2 wo4 suan4 ， dian1 dao3 feng2 xiao4 xi1 。
+- ju3 su2 yi3 wei2 miao4 ， fen1 fen1 jin4 yu2 chi1 。
+- bu2 jian4 zhu1 gong1 zi3 ， qian1 li3 lai2 xiang1 shi1 。
+- ou3 ran2 de2 wo3 ce4 ， zhao3 wu2 hang2 yao1 ji1 。
+- bi4 ci3 zhen3 zhong1 shu4 ， ruo4 you3 qian1 sui4 qi1 。
+- da4 hua4 chang2 bu4 ou3 ， ri4 yu3 ren2 shi4 yi2 。
+- ren2 shi4 duo1 guai1 wu3 ， ru3 ji4 bu4 de2 shi1 。
+- jun1 kan4 huo4 zhi2 chuan2 ， dao1 jian4 you3 shuai1 shi2 。
 
 ## 注释
 

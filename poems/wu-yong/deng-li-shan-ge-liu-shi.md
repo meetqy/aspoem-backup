@@ -6,10 +6,10 @@ titleSlug: deng-li-shan-ge-liu-shi
 author: 吳雍
 authorPinyin: wu2 yong1
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

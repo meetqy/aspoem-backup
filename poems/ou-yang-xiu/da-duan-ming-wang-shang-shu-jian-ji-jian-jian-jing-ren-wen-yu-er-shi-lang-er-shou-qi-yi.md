@@ -6,10 +6,10 @@ titleSlug: da-duan-ming-wang-shang-shu-jian-ji-jian-jian-jing-ren-wen-yu-er-shi-
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

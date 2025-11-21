@@ -6,10 +6,10 @@ titleSlug: xiang-yin-jiu-chang-he-shi
 author: 曾穎茂
 authorPinyin: ceng2 ying3 mao4
 authorSlug: ceng-ying-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

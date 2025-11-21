@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-si
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禁宇春圍晝漏長，睿思宸極景相望。
-- 廻環露浥蒼苔合，一架荼蘼滿殿香。
+- 日暖風和殿宇深，高花修竹囀閑禽。
+- 宮娥攜手臨丹檻，喜看文鴛戲水心。
 
 ## 拼音
 
-- jin4 yu3 chun1 wei2 zhou4 lou4 chang2 ， rui4 si1 chen2 ji2 jing3 xiang1 wang4 。
-- hui2 huan2 lu4 yi4 cang1 tai2 he2 ， yi2 jia4 tu2 mi2 man3 dian4 xiang1 。
+- ri4 nuan3 feng1 he2 dian4 yu3 shen1 ， gao1 hua1 xiu1 zhu2 zhuan4 xian2 qin2 。
+- gong1 e2 xie2 shou3 lin2 dan1 jian4 ， xi3 kan4 wen2 yuan1 xi4 shui3 xin1 。
 
 ## 注释
 

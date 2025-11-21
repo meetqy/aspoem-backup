@@ -6,10 +6,10 @@ titleSlug: yu-zi-hua-yuan-fu-xiao-yin-zuo-zhong-ji-tong-zhou-jiang-shi-xue-shi-x
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

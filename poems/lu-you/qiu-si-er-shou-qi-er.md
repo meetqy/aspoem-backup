@@ -6,25 +6,25 @@ titleSlug: qiu-si-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日落江城聞擣衣，長空杳杳雁南飛。
-- 桑枝空後醅初熟，豆莢成時兔正肥。
-- 徂歲背人常冉冉，老懷感物倍依依。
-- 平生許國今何有，且擬梁鴻賦五噫。
+- 十日秋陰滿徑苔，蓬門那有客敲推。
+- 水邊丹葉已如許，籬下黄花猶未開。
+- 空見遊僧衡嶽去，難逢新雁杜陵來。
+- 溪雲一片閑舒卷，戀著漁磯不肯回。
 
 ## 拼音
 
-- ri4 luo4 jiang1 cheng2 wen2 dao3 yi1 ， chang2 kong1 yao3 yao3 yan4 nan2 fei1 。
-- sang1 zhi1 kong1 hou4 pei1 chu1 shu2 ， dou4 jia2 cheng2 shi2 tu4 zheng4 fei2 。
-- cu2 sui4 bei4 ren2 chang2 ran3 ran3 ， lao3 huai2 gan3 wu4 bei4 yi1 yi1 。
-- ping2 sheng1 xu1 guo2 jin1 he2 you3 ， qie3 ni3 liang2 hong2 fu4 wu3 yi1 。
+- shi2 ri4 qiu1 yin1 man3 jing4 tai2 ， peng2 men2 na4 you3 ke4 qiao1 tui1 。
+- shui3 bian1 dan1 ye4 yi3 ru2 xu1 ， li2 xia4 huang2 hua1 you2 wei4 kai1 。
+- kong1 jian4 you2 seng1 heng2 yue4 qu4 ， nan2 feng2 xin1 yan4 du4 ling2 lai2 。
+- xi1 yun2 yi2 pian4 xian2 shu1 juan3 ， lian4 zhu4 yu2 ji1 bu4 ken3 hui2 。
 
 ## 注释
 

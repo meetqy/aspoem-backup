@@ -6,10 +6,10 @@ titleSlug: you-long-cheng-si-zeng-pu-xun
 author: 甘文政
 authorPinyin: gan1 wen2 zheng4
 authorSlug: gan-wen-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

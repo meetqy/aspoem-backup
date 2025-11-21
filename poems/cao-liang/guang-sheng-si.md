@@ -6,10 +6,10 @@ titleSlug: guang-sheng-si
 author: 曹量
 authorPinyin: cao2 liang2
 authorSlug: cao-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

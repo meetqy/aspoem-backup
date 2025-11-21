@@ -6,10 +6,10 @@ titleSlug: ji-you
 author: 朱浚
 authorPinyin: zhu1 jun4
 authorSlug: zhu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

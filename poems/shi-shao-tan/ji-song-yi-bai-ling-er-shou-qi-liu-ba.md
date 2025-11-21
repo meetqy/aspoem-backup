@@ -6,25 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-liu-ba
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉几山前，凌霄峰下。
-- 熱血嗔拳，做人話欛。
-- 犀牛扇颺向他方，捋虎鬚攔胸便打。
-- 一炷兜婁怨結成，貴買賤賣。
+- 大康山，楊浮山。
+- 撞頭搕額，共打鄉談。
+- 其中切脚無人會，一大藏教，華梵重翻。
 
 ## 拼音
 
-- yu4 ji3 shan1 qian2 ， ling2 xiao1 feng1 xia4 。
-- re4 xue4 chen1 quan2 ， zuo4 ren2 hua4 ba4 。
-- xi1 niu2 shan4 yang2 xiang4 ta1 fang1 ， lü3 hu3 xu1 lan2 xiong1 bian4 da3 。
-- yi2 zhu4 dou1 lou2 yuan4 jie2 cheng2 ， gui4 mai3 jian4 mai4 。
+- da4 kang1 shan1 ， yang2 fu2 shan1 。
+- zhuang4 tou2 ke1 e2 ， gong4 da3 xiang1 tan2 。
+- qi2 zhong1 qie4 jiao3 wu2 ren2 hui4 ， yi2 da4 zang4 jiao4 ， hua2 fan4 zhong4 fan1 。
 
 ## 注释
 

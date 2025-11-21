@@ -6,10 +6,10 @@ titleSlug: kai-xi-ding-mao-zhi-zhi-shi-ye-bao-wen-tuan-jie-huai-xi-shan-shui-zha
 author: 孔蓋
 authorPinyin: kong3 gai4
 authorSlug: kong-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-song-wu-shou-qi-wu
 author: 釋了悟
 authorPinyin: shi4 liao3 wu4
 authorSlug: shi-liao-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

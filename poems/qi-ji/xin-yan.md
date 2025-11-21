@@ -9,22 +9,22 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 燕燕知何事，年年應候來。
-- 却緣華屋在，長得好時催。
-- 花外銜泥去，空中接食迴。
-- 不同黃雀意，迷逐網羅媒。
+- 棲託近佳人，應憐巧語新。
+- 風光華屋暖，弦管牡丹晨。
+- 遠采江泥膩，雙飛麥雨勻。
+- 差池自有便，敢觸杏梁塵。
 
 ## 拼音
 
-- yan4 yan4 zhi1 he2 shi4 ， nian2 nian2 ying1 hou4 lai2 。
-- que4 yuan2 hua2 wu1 zai4 ， chang2 de2 hao3 shi2 cui1 。
-- hua1 wai4 xian2 ni2 qu4 ， kong1 zhong1 jie1 shi2 hui2 。
-- bu4 tong2 huang2 que4 yi4 ， mi2 zhu2 wang3 luo2 mei2 。
+- qi1 tuo1 jin4 jia1 ren2 ， ying1 lian2 qiao3 yu3 xin1 。
+- feng1 guang1 hua2 wu1 nuan3 ， xian2 guan3 mu3 dan1 chen2 。
+- yuan3 cai3 jiang1 ni2 ni4 ， shuang1 fei1 mai4 yu3 yun2 。
+- cha1 chi2 zi4 you3 bian4 ， gan3 chu4 xing4 liang2 chen2 。
 
 ## 注释
 

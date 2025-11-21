@@ -6,10 +6,10 @@ titleSlug: gu-mu-kong-yan
 author: 梁子固
 authorPinyin: liang2 zi3 gu4
 authorSlug: liang-zi-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

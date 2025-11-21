@@ -6,10 +6,10 @@ titleSlug: he-zhao-bian-fu-xin-fan-zhou-biao-quan-ru-zhao-ting-shi
 author: 白贄
 authorPinyin: bai2 zhi4
 authorSlug: bai-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

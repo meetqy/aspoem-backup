@@ -6,10 +6,10 @@ titleSlug: er-yue-shi-ri-ye-yu-qi-shu-ceng-yi-zhong-he-pu-hou
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

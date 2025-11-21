@@ -6,10 +6,10 @@ titleSlug: zeng-chang-an-jiang-yu-shi
 author: 徐清叟
 authorPinyin: xu2 qing1 sou3
 authorSlug: xu-qing-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: cao-xun-za-shi-er-shi-qi-shou-qi-er
-title: 雜詩二十七首  其二
-titlePinyin: za2 shi1 er4 shi2 qi1 shou3     qi2 er4
+title: 雜詩二十七首  其二○
+titlePinyin: za2 shi1 er4 shi2 qi1 shou3     qi2 er4 ○
 titleSlug: za-shi-er-shi-qi-shou-qi-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孤山不復訪林逋，杖策東風踏碧蕪。
-- 九里蒼雲經曉徑，四圍碧玉照清湖。
+- 柑花開密玉璘珣，香轉薰風滿坐聞。
+- 摘得一枝參鼻觀，不妨終夕醒餘醺。
 
 ## 拼音
 
-- gu1 shan1 bu2 fu4 fang3 lin2 bu1 ， zhang4 ce4 dong1 feng1 ta4 bi4 wu2 。
-- jiu3 li3 cang1 yun2 jing1 xiao3 jing4 ， si4 wei2 bi4 yu4 zhao4 qing1 hu2 。
+- gan1 hua1 kai1 mi4 yu4 lin2 xun2 ， xiang1 zhuan3 xun1 feng1 man3 zuo4 wen2 。
+- zhai1 de2 yi4 zhi1 can1 bi2 guan1 ， bu4 fang2 zhong1 xi1 xing3 yu2 xun1 。
 
 ## 注释
 

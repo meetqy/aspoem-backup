@@ -6,10 +6,10 @@ titleSlug: guo-huang-hua-du
 author: 姜迪
 authorPinyin: jiang1 di2
 authorSlug: jiang-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

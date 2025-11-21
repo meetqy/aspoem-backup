@@ -6,10 +6,10 @@ titleSlug: fang-xu-dao-ren
 author: 郭禮
 authorPinyin: guo1 li3
 authorSlug: guo-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: lan-jing
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 覽鏡朝來心自知，鼻端色動有光輝。
-- 鄉邦回首見歸路，已覺歡欣生綵衣。
+- 三竄湖南與嶺南，生涯破蕩孰能堪。
+- 歸田莫慮饑寒迫，眼下新來有卧蠶。
 
 ## 拼音
 
-- lan3 jing4 chao2 lai2 xin1 zi4 zhi1 ， bi2 duan1 se4 dong4 you3 guang1 hui1 。
-- xiang1 bang1 hui2 shou3 jian4 gui1 lu4 ， yi3 jue2 huan1 xin1 sheng1 cai3 yi1 。
+- san1 cuan4 hu2 nan2 yu3 ling3 nan2 ， sheng1 ya2 po4 dang4 shu2 neng2 kan1 。
+- gui1 tian2 mo4 lü4 ji1 han2 po4 ， yan3 xia4 xin1 lai2 you3 wo4 can2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: chun-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江頭一夜雨，曉路無新花。
-- 我今爲陳人，感此重嘆嗟。
-- 羲和挾兩曜，疾走不可遮。
-- 古今俛仰間，那暇惜物華。
+- 春陰不肯晴，春雨斷人行。
+- 慘澹柴荆色，蕭條鷄犬聲。
+- 香分豆子粥，美啜芋魁羹。
+- 猶勝梁州路，蒙氈夜下程。
 
 ## 拼音
 
-- jiang1 tou2 yi2 ye4 yu3 ， xiao3 lu4 wu2 xin1 hua1 。
-- wo3 jin1 wei2 chen2 ren2 ， gan3 ci3 zhong4 tan4 jie1 。
-- xi1 he2 xie2 liang3 yao4 ， ji2 zou3 bu4 ke3 zhe1 。
-- gu3 jin1 fu3 yang3 jian4 ， na4 xia2 xi1 wu4 hua2 。
+- chun1 yin1 bu4 ken3 qing2 ， chun1 yu3 duan4 ren2 hang2 。
+- can3 dan4 chai2 jing1 se4 ， xiao1 tiao2 ji1 quan3 sheng1 。
+- xiang1 fen1 dou4 zi0 zhou1 ， mei3 chuo4 yu4 kui2 geng1 。
+- you2 sheng4 liang2 zhou1 lu4 ， meng2 zhan1 ye4 xia4 cheng2 。
 
 ## 注释
 

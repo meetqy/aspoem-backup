@@ -6,10 +6,10 @@ titleSlug: you-lao-jun-dong-qi-er
 author: 劉子薦
 authorPinyin: liu2 zi3 jian4
 authorSlug: liu-zi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

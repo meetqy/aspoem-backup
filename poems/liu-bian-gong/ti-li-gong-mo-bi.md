@@ -6,10 +6,10 @@ titleSlug: ti-li-gong-mo-bi
 author: 劉卞功
 authorPinyin: liu2 bian4 gong1
 authorSlug: liu-bian-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

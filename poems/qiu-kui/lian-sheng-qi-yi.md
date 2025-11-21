@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-lian-sheng-qi-yi
-title: 蓮生・其一
-titlePinyin: lian2 sheng1・qi2 yi1
+title: 蓮生  其一
+titlePinyin: lian2 sheng1     qi2 yi1
 titleSlug: lian-sheng-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,9 +6,9 @@ titleSlug: da-seng-hui-wen-qi-yi
 author: 釋曉榮
 authorPinyin: shi4 xiao3 rong2
 authorSlug: shi-xiao-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

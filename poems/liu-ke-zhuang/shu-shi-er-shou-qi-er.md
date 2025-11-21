@@ -6,25 +6,25 @@ titleSlug: shu-shi-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人道山東入職方，書生膽小慮空長。
-- 遺民似蟻饑難給，俠士如鷹飽易揚。
-- 未見馳車修寢廟，先聞鑄印拜侯王。
-- 青齊父老應流涕，何日鸞旗駐路旁。
+- 利刃斬風空惡毒，疾聲吠雪似獃顛。
+- 嗟余芻狗木雞爾，視汝螟蛉蜾蠃然。
+- 墓上將軍堪嚇鬼，龕中大士且安禪。
+- 不須懺禮如來足，佛與波旬共結緣。
 
 ## 拼音
 
-- ren2 dao4 shan1 dong1 ru4 zhi2 fang1 ， shu1 sheng1 dan3 xiao3 lü4 kong1 chang2 。
-- yi2 min2 si4 yi3 ji1 nan2 gei3 ， xia2 shi4 ru2 ying1 bao3 yi4 yang2 。
-- wei4 jian4 chi2 ju1 xiu1 qin3 miao4 ， xian1 wen2 zhu4 yin4 bai4 hou2 wang2 。
-- qing1 qi2 fu4 lao3 ying1 liu2 ti4 ， he2 ri4 luan2 qi2 zhu4 lu4 pang2 。
+- li4 ren4 zhan3 feng1 kong1 e4 du2 ， ji2 sheng1 fei4 xue3 si4 dai1 dian1 。
+- jie1 yu2 chu2 gou3 mu4 ji1 er3 ， shi4 ru3 ming2 ling2 guo3 luo3 ran2 。
+- mu4 shang4 jiang1 jun1 kan1 he4 gui3 ， kan1 zhong1 da4 shi4 qie3 an1 shan4 。
+- bu4 xu1 chan4 li3 ru2 lai2 zu2 ， fo2 yu3 bo1 xun2 gong4 jie2 yuan2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: chu-xia-ke-huai
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠樹成陰四月天，紫桐花放石池邊。
-- 風光暗換人雙鬢，一別江南二十年。
+- 塞雁南來已北歸，鄉心空逐暮雲飛。
+- 楝花落盡寒猶在，月下金波點客衣。
 
 ## 拼音
 
-- lü4 shu4 cheng2 yin1 si4 yue4 tian1 ， zi3 tong2 hua1 fang4 shi2 chi2 bian1 。
-- feng1 guang1 an4 huan4 ren2 shuang1 bin4 ， yi4 bie2 jiang1 nan2 er4 shi2 nian2 。
+- sai1 yan4 nan2 lai2 yi3 bei3 gui1 ， xiang1 xin1 kong1 zhu2 mu4 yun2 fei1 。
+- lian4 hua1 luo4 jin4 han2 you2 zai4 ， yue4 xia4 jin1 bo1 dian3 ke4 yi1 。
 
 ## 注释
 

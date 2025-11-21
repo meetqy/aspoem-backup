@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-wu
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鄰壁嘲啾誦學而，老人睡少聽移時。
-- 它年謹勿如張禹，帝問床前謬不知。
+- 小築三家聚，新篘萬戶春。
+- 昔豪幾腐脅，今病罕沾唇。
+- 太古華胥氏，豐年畏壘人。
+- 超然市朝外，未易葛天民。
 
 ## 拼音
 
-- lin2 bi4 chao2 jiu1 song4 xue2 er2 ， lao3 ren2 shui4 shao3 ting1 yi2 shi2 。
-- ta1 nian2 jin3 wu4 ru2 zhang1 yu3 ， di4 wen4 chuang2 qian2 miu4 bu4 zhi1 。
+- xiao3 zhu4 san1 jia1 ju4 ， xin1 chou1 wan4 hu4 chun1 。
+- xi1 hao2 ji1 fu3 xie2 ， jin1 bing4 han3 zhan1 chun2 。
+- tai4 gu3 hua2 xu1 shi4 ， feng1 nian2 wei4 lei3 ren2 。
+- chao1 ran2 shi4 chao2 wai4 ， wei4 yi4 ge3 tian1 min2 。
 
 ## 注释
 

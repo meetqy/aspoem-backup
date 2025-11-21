@@ -6,10 +6,10 @@ titleSlug: song-bie-ren-long-tu
 author: 史才
 authorPinyin: shi3 cai2
 authorSlug: shi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

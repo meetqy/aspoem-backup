@@ -6,10 +6,10 @@ titleSlug: sun-shi-chi-ting-de-xiao-zi
 author: 董英
 authorPinyin: dong3 ying1
 authorSlug: dong-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

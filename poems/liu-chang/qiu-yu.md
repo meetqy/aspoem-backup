@@ -6,25 +6,25 @@ titleSlug: qiu-yu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天道去人遠，好惡常若違。
-- 始耕苦炎旱，既穫雨過時。
-- 憔悴兩無補，饑寒方自兹。
-- 素飽猶可恃，眷言采其薇。
+- 采蕭逼晚歲，飛雨度高雲。
+- 暝色空窗見，秋聲墜葉聞。
+- 過螢低似滅，遠岫望如分。
+- 蟋蟀悲虚織，輕絲競欲棼。
 
 ## 拼音
 
-- tian1 dao4 qu4 ren2 yuan3 ， hao3 e4 chang2 ruo4 wei2 。
-- shi3 geng1 ku3 yan2 han4 ， ji4 huo4 yu3 guo4 shi2 。
-- qiao2 cui4 liang3 wu2 bu3 ， ji1 han2 fang1 zi4 zi1 。
-- su4 bao3 you2 ke3 shi4 ， juan4 yan2 cai3 qi2 wei1 。
+- cai3 xiao1 bi1 wan3 sui4 ， fei1 yu3 du4 gao1 yun2 。
+- ming2 se4 kong1 chuang1 jian4 ， qiu1 sheng1 zhui4 ye4 wen2 。
+- guo4 ying2 di1 si4 mie4 ， yuan3 xiu4 wang4 ru2 fen1 。
+- xi1 shuai4 bei1 xu1 zhi1 ， qing1 si1 jing4 yu4 fen2 。
 
 ## 注释
 

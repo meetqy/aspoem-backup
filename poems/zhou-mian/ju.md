@@ -6,10 +6,10 @@ titleSlug: ju
 author: 周沔
 authorPinyin: zhou1 mian3
 authorSlug: zhou-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

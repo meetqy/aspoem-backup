@@ -6,10 +6,10 @@ titleSlug: tai-ping-yan
 author: 陳昌時
 authorPinyin: chen2 chang1 shi2
 authorSlug: chen-chang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

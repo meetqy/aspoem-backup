@@ -6,10 +6,10 @@ titleSlug: zeng-bo-luan
 author: 蘇壽元師
 authorPinyin: su1 shou4 yuan2 shi1
 authorSlug: su-shou-yuan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

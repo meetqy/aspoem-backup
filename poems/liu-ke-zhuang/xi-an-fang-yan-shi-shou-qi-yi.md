@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-xi-an-fang-yan-shi-shou-qi-yi
-title: 溪庵放言十首  其一
-titlePinyin: xi1 an1 fang4 yan2 shi2 shou3     qi2 yi1
+title: 溪庵放言十首  其一○
+titlePinyin: xi1 an1 fang4 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: xi-an-fang-yan-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石槨隄防速朽，金棺粧點湼槃。
-- 說乾矢橛差勝，戀臭皮袋一般。
+- 市朝易得虛誇，鄉井難諱實年。
+- 還笏殿前已晚，飾巾牖下差賢。
 
 ## 拼音
 
-- shi2 guo3 di1 fang2 su4 xiu3 ， jin1 guan1 zhuang1 dian3 nie4 pan2 。
-- shuo1 qian2 shi3 jue2 cha4 sheng4 ， lian4 chou4 pi2 dai4 yi4 ban1 。
+- shi4 chao2 yi4 de2 xu1 kua1 ， xiang1 jing3 nan2 hui4 shi2 nian2 。
+- huan2 hu4 dian4 qian2 yi3 wan3 ， shi4 jin1 you3 xia4 cha4 xian2 。
 
 ## 注释
 

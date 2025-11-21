@@ -6,9 +6,9 @@ titleSlug: lun-zi-mei-yuan-ming-shi
 author: 施德操
 authorPinyin: shi1 de2 cao1
 authorSlug: shi-de-cao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

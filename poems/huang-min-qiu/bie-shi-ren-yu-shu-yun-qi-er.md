@@ -6,10 +6,10 @@ titleSlug: bie-shi-ren-yu-shu-yun-qi-er
 author: 黄敏求
 authorPinyin: huang2 min3 qiu2
 authorSlug: huang-min-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

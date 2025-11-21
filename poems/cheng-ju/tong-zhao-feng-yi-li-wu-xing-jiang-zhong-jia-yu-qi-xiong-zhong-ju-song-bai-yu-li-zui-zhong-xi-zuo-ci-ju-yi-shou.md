@@ -6,10 +6,10 @@ titleSlug: tong-zhao-feng-yi-li-wu-xing-jiang-zhong-jia-yu-qi-xiong-zhong-ju-son
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

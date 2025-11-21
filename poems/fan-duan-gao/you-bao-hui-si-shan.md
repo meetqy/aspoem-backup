@@ -6,10 +6,10 @@ titleSlug: you-bao-hui-si-shan
 author: 范端杲
 authorPinyin: fan4 duan1 gao3
 authorSlug: fan-duan-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

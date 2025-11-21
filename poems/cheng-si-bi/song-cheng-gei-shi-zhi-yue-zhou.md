@@ -6,10 +6,10 @@ titleSlug: song-cheng-gei-shi-zhi-yue-zhou
 author: 程嗣弼
 authorPinyin: cheng2 si4 bi4
 authorSlug: cheng-si-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

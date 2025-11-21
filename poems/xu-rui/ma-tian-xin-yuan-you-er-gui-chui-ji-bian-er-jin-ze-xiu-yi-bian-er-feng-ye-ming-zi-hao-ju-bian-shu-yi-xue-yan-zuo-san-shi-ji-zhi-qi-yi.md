@@ -6,10 +6,10 @@ titleSlug: ma-tian-xin-yuan-you-er-gui-chui-ji-bian-er-jin-ze-xiu-yi-bian-er-fen
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

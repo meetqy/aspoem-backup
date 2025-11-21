@@ -6,10 +6,10 @@ titleSlug: ti-shi-zhi-shi-juan-hou
 author: 李義山
 authorPinyin: li3 yi4 shan1
 authorSlug: li-yi-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

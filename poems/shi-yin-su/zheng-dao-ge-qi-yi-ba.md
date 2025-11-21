@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-yi-ba
-title: 證道歌  其一八
-titlePinyin: zheng4 dao4 ge1     qi2 yi1 ba1
+title: 證道歌  其一八○
+titlePinyin: zheng4 dao4 ge1     qi2 yi1 ba1 ○
 titleSlug: zheng-dao-ge-qi-yi-ba
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 覺後空空無大千，今年不離舊時天。
-- 春夏秋冬花木節，皆標實相耀心源。
+- 一性如來體自同，聲聞執相有西東。
+- 忽然撞出來時路，九萬鵬程頃刻通。
 
 ## 拼音
 
-- jue2 hou4 kong1 kong1 wu2 da4 qian1 ， jin1 nian2 bu4 li2 jiu4 shi2 tian1 。
-- chun1 xia4 qiu1 dong1 hua1 mu4 jie2 ， jie1 biao1 shi2 xiang1 yao4 xin1 yuan2 。
+- yi2 xing4 ru2 lai2 ti3 zi4 tong2 ， sheng1 wen2 zhi2 xiang1 you3 xi1 dong1 。
+- hu1 ran2 zhuang4 chu1 lai2 shi2 lu4 ， jiu3 wan4 peng2 cheng2 qing3 ke4 tong1 。
 
 ## 注释
 

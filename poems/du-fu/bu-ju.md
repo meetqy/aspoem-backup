@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 浣花流水水西頭，主人爲卜林塘幽。
-- 已知出郭少塵事，更有澄江銷客愁。
-- 無數蜻蜓齊上下，一雙鸂鶒對沈浮。
-- 東行萬里堪乘興，須向山陰上小舟。
+- 歸羨遼東鶴，吟同楚執珪。
+- 未成遊碧海，著處覓丹梯。
+- 雲障寬江左，春耕破瀼西。
+- 桃紅客若至，定似昔人迷。
 
 ## 拼音
 
-- huan4 hua1 liu2 shui3 shui3 xi1 tou2 ， zhu3 ren2 wei2 bu3 lin2 tang2 you1 。
-- yi3 zhi1 chu1 guo1 shao3 chen2 shi4 ， geng4 you3 cheng2 jiang1 xiao1 ke4 chou2 。
-- wu2 shu4 qing1 ting2 qi2 shang4 xia4 ， yi4 shuang1 xi1 chi4 dui4 shen3 fu2 。
-- dong1 xing2 wan4 li3 kan1 cheng2 xing1 ， xu1 xiang4 shan1 yin1 shang4 xiao3 zhou1 。
+- gui1 xian4 liao2 dong1 he4 ， yin2 tong2 chu3 zhi2 gui1 。
+- wei4 cheng2 you2 bi4 hai3 ， zhu4 chu3 mi4 dan1 ti1 。
+- yun2 zhang4 kuan1 jiang1 zuo3 ， chun1 geng1 po4 rang2 xi1 。
+- tao2 hong2 ke4 ruo4 zhi4 ， ding4 si4 xi1 ren2 mi2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jiu-jiang
 author: 任隨
 authorPinyin: ren4 sui2
 authorSlug: ren-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-gu-jiu-shou-qi-liu
 author: 釋梵思
 authorPinyin: shi4 fan4 si1
 authorSlug: shi-fan-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

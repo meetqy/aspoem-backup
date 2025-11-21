@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-la-ji-si-shi-er-shou-ya-zhong-xian-yong-qing-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 申以貳觴，百味且旨。
-- 禮告三終，神具醉止。
-- 旌容騎沓，揚光紛委。
-- 降福穰穰，被大豐美。
+- 歌磬臚驩，膋蕭激香。
+- 飈御奄留，申以貳觴。
+- 相與震澹，告靈其醉。
+- 庶幾聽之，成我熙事。
 
 ## 拼音
 
-- shen1 yi3 er4 shang1 ， bai3 wei4 qie3 zhi3 。
-- li3 gao4 san1 zhong1 ， shen2 ju4 zui4 zhi3 。
-- jing1 rong2 qi2 ta4 ， yang2 guang1 fen1 wei3 。
-- jiang4 fu2 rang2 rang2 ， bei4 da4 feng1 mei3 。
+- ge1 qing4 lu2 huan1 ， liao2 xiao1 ji1 xiang1 。
+- biao1 yu4 yan3 liu2 ， shen1 yi3 er4 shang1 。
+- xiang1 yu3 zhen4 dan4 ， gao4 ling2 qi2 zui4 。
+- shu4 ji1 ting1 zhi1 ， cheng2 wo3 xi1 shi4 。
 
 ## 注释
 

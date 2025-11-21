@@ -6,25 +6,25 @@ titleSlug: shao-xing-er-shi-ba-nian-si-yuan-qiu-huan-wei-yong-qian-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 克昭王業，命成昊天。
-- 泰畤禋燎，八陛惟圓。
-- 肅然威儀，登降周旋。
-- 是謂精享，神監吉蠲。
+- 帝出于震，孝奏上儀。
+- 燔燎羶薌，神徠燕娭。
+- 肅若舊典，罔或不祗。
+- 既右饗之，翕受蕃釐。
 
 ## 拼音
 
-- ke4 zhao1 wang2 ye4 ， ming4 cheng2 hao4 tian1 。
-- tai4 zhi4 yin1 liao2 ， ba1 bi4 wei2 yuan2 。
-- su4 ran2 wei1 yi2 ， deng1 jiang4 zhou1 xuan2 。
-- shi4 wei4 jing1 xiang3 ， shen2 jian1 ji2 juan1 。
+- di4 chu1 yu2 zhen4 ， xiao4 zou4 shang4 yi2 。
+- fan2 liao2 shan1 xiang1 ， shen2 lai2 yan4 xi1 。
+- su4 ruo4 jiu4 dian3 ， wang3 huo4 bu4 zhi1 。
+- ji4 you4 xiang3 zhi1 ， xi1 shou4 fan1 li2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zi-he
 author: 羅道成
 authorPinyin: luo2 dao4 cheng2
 authorSlug: luo-dao-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-chui-lao-wu-ju-zhi-xi-pian-ying-xiao-tang-mian-dui-nan-shan-yi-fen
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

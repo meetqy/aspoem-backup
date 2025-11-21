@@ -6,10 +6,10 @@ titleSlug: ti-tian-feng-si
 author: 釋慧明
 authorPinyin: shi4 hui4 ming2
 authorSlug: shi-hui-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

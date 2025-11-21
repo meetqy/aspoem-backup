@@ -6,10 +6,10 @@ titleSlug: shuang-xiu-ting
 author: 羅知古
 authorPinyin: luo2 zhi1 gu3
 authorSlug: luo-zhi-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

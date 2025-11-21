@@ -6,18 +6,18 @@ titleSlug: jing-chu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 常於靜處著閒身，別是清虛冷淡人。
+- 常於靜處著閒身，別是清虛冷澹人。
 - 禪裏斷除千種法，吟中消受一生貧。
 - 聲名豈必存編簡，林壑從來有隠淪。
-- 雲月溪山無限景，對餘一一意皆真。
+- 雲月溪山無限景，對余一一意皆真。
 
 ## 拼音
 

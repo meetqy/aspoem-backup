@@ -6,10 +6,10 @@ titleSlug: yu-yi-shi-xi-yu-shi-tai-yu-yu-li-shao-jian-qin-zi-du-bu-neng-kan-si-y
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

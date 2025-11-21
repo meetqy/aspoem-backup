@@ -6,10 +6,10 @@ titleSlug: cheng-zhao-tang
 author: 馮堯民
 authorPinyin: feng2 yao2 min2
 authorSlug: feng-yao-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

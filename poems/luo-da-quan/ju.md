@@ -6,9 +6,9 @@ titleSlug: ju
 author: 羅大全
 authorPinyin: luo2 da4 quan2
 authorSlug: luo-da-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

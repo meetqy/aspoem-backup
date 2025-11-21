@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-er-shi-shou-qi-er
-title: 頌古二十首  其二
-titlePinyin: song4 gu3 er4 shi2 shou3     qi2 er4
+title: 頌古二十首  其二○
+titlePinyin: song4 gu3 er4 shi2 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-shou-qi-er
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 三十二應不思議，十四無畏如流水。
-- 男子身中入定時，女子身中從定起。
+- 聞三腳驢子弄蹄行，兩浙江南秋復熱。
+- 西北風霜怯早寒，閉門愁見楊花落。
 
 ## 拼音
 
-- san1 shi2 er4 ying1 bu4 si1 yi4 ， shi2 si4 wu2 wei4 ru2 liu2 shui3 。
-- nan2 zi3 shen1 zhong1 ru4 ding4 shi2 ， nü3 zi3 shen1 zhong1 cong2 ding4 qi3 。
+- wen2 san1 jiao3 lü2 zi3 nong4 ti2 xing2 ， liang3 zhe4 jiang1 nan2 qiu1 fu4 re4 。
+- xi1 bei3 feng1 shuang1 qie4 zao3 han2 ， bi4 men2 chou2 jian4 yang2 hua1 luo4 。
 
 ## 注释
 

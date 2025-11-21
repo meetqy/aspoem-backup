@@ -6,21 +6,21 @@ titleSlug: song-lu-qing-shu-qi-er
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨夜月初圓，今宵月初缺。
-- 月圓月缺本無情，惟有文通恨難說。
+- 平生志在青雲霄，十年不飛藏羽毛。
+- 夫子乃是知我者，吟詩贈子何辭勞。
 
 ## 拼音
 
-- zuo2 ye4 yue4 chu1 yuan2 ， jin1 xiao1 yue4 chu1 que1 。
-- yue4 yuan2 yue4 que1 ben3 wu2 qing2 ， wei2 you3 wen2 tong1 hen4 nan2 shuo1 。
+- ping2 sheng1 zhi4 zai4 qing1 yun2 xiao1 ， shi2 nian2 bu4 fei1 cang2 yu3 mao2 。
+- fu1 zi3 nai3 shi4 zhi1 wo3 zhe3 ， yin2 shi1 zeng4 zi3 he2 ci2 lao2 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: wang-yuan-liang-tang-lu-ji-cheng-fu-feng-shan-ti-ju-qi-yi
-title: 唐律寄呈父鳳山提舉  其一
-titlePinyin: tang2 lü4 ji4 cheng2 fu4 feng4 shan1 ti2 ju3     qi2 yi1
+title: 唐律寄呈父鳳山提舉  其一○
+titlePinyin: tang2 lü4 ji4 cheng2 fu4 feng4 shan1 ti2 ju3     qi2 yi1 ○
 titleSlug: tang-lu-ji-cheng-fu-feng-shan-ti-ju-qi-yi
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西興渡口亂啼鴉，錦纜牽江目力賒。
-- 六館衣冠淪道路，三宮珠玉走風砂。
-- 山川不盡心難老，歲月憂煎髪漸華。
-- 行到湘南歸不得，倚門應是望天涯。
+- 自笑儒衣世法疏，窮愁何日得伸舒。
+- 一從挾策來燕地，幾擬陳情乞鑑湖。
+- 風雨凄凄鴻雁瘦，雪霜凜凜鶺鴒孤。
+- 湘江樓上無憀甚，不見吳山似畫圖。
 
 ## 拼音
 
-- xi1 xing1 du4 kou3 luan4 ti2 ya1 ， jin3 lan3 qian1 jiang1 mu4 li4 she1 。
-- liu4 guan3 yi1 guan1 lun2 dao4 lu4 ， san1 gong1 zhu1 yu4 zou3 feng1 sha1 。
-- shan1 chuan1 bu2 jin4 xin1 nan2 lao3 ， sui4 yue4 you1 jian1 fa4 jian4 hua2 。
-- xing2 dao4 xiang1 nan2 gui1 bu4 de2 ， yi3 men2 ying1 shi4 wang4 tian1 ya2 。
+- zi4 xiao4 ru2 yi1 shi4 fa3 shu1 ， qiong2 chou2 he2 ri4 de2 shen1 shu1 。
+- yi4 cong2 xie2 ce4 lai2 yan1 di4 ， ji1 ni3 chen2 qing2 qi3 jian4 hu2 。
+- feng1 yu3 qi1 qi1 hong2 yan4 shou4 ， xue3 shuang1 lin3 lin3 ji2 ling2 gu1 。
+- xiang1 jiang1 lou2 shang4 wu2 liao2 shen4 ， bu2 jian4 wu2 shan1 si4 hua4 tu2 。
 
 ## 注释
 

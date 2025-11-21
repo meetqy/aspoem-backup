@@ -6,10 +6,10 @@ titleSlug: ji-ju-qi-er-yi
 author: 聞人祥正
 authorPinyin: wen2 ren2 xiang2 zheng4
 authorSlug: wen-ren-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

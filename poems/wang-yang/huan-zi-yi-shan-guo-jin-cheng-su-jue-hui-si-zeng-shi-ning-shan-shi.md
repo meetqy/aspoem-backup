@@ -6,10 +6,10 @@ titleSlug: huan-zi-yi-shan-guo-jin-cheng-su-jue-hui-si-zeng-shi-ning-shan-shi
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

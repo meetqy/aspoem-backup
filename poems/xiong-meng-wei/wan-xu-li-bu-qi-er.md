@@ -6,10 +6,10 @@ titleSlug: wan-xu-li-bu-qi-er
 author: 熊夢渭
 authorPinyin: xiong2 meng4 wei4
 authorSlug: xiong-meng-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

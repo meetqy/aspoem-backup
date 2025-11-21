@@ -6,10 +6,10 @@ titleSlug: yong-lian-chuan
 author: 王子昭
 authorPinyin: wang2 zi3 zhao1
 authorSlug: wang-zi-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

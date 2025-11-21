@@ -6,31 +6,25 @@ titleSlug: li-chun
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲陰已暗去，春色復潛動。
-- 嘉樹欲芳華，歸鴻雜清哢。
-- 乾坤自長久，節物厭迎送。
-- 濁酒歡我愁，浩歌爲誰縱。
-- 古人盡流水，世事皆宵夢。
-- 白日少借留，青春亦公共。
-- 舉眼向高天，吾謀不能用。
+- 得新矜白鬢，數九喜和風。
+- 菜甲成春事，郊園付野翁。
+- 天開池水碧，雪盡樹梢紅。
+- 頗復尋樵隠，柴門步武通。
 
 ## 拼音
 
-- sui4 yin1 yi3 an4 qu4 ， chun1 se4 fu4 qian2 dong4 。
-- jia1 shu4 yu4 fang1 hua2 ， gui1 hong2 za2 qing1 long4 。
-- qian2 kun1 zi4 chang2 jiu3 ， jie2 wu4 yan4 ying2 song4 。
-- zhuo2 jiu3 huan1 wo3 chou2 ， hao4 ge1 wei2 shui2 zong4 。
-- gu3 ren2 jin4 liu2 shui3 ， shi4 shi4 jie1 xiao1 meng4 。
-- bai2 ri4 shao3 jie4 liu2 ， qing1 chun1 yi4 gong1 gong4 。
-- ju3 yan3 xiang4 gao1 tian1 ， wu2 mou2 bu4 neng2 yong4 。
+- de2 xin1 jin1 bai2 bin4 ， shu4 jiu3 xi3 he2 feng1 。
+- cai4 jia3 cheng2 chun1 shi4 ， jiao1 yuan2 fu4 ye3 weng1 。
+- tian1 kai1 chi2 shui3 bi4 ， xue3 jin4 shu4 shao1 hong2 。
+- po1 fu4 xun2 qiao2 yin3 ， chai2 men2 bu4 wu3 tong1 。
 
 ## 注释
 

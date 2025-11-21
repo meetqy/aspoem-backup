@@ -6,10 +6,10 @@ titleSlug: zeng-xu-yue-dao-shi
 author: 張簡
 authorPinyin: zhang1 jian3
 authorSlug: zhang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

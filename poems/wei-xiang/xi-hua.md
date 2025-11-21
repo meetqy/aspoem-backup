@@ -6,21 +6,21 @@ titleSlug: xi-hua
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉人攜酒對花枝，悵息紅芳已半稀。
-- 楚帳歌中别虞氏，馬嵬坡裏顧楊妃。
+- 東風吹園雜花開，不忍虚擲委黄埃。
+- 且來相就飲一斗，漸老逢春能幾迴。
 
 ## 拼音
 
-- yu4 ren2 xie2 jiu3 dui4 hua1 zhi1 ， chang4 xi1 hong2 fang1 yi3 ban4 xi1 。
-- chu3 zhang4 ge1 zhong1 bie2 yu2 shi4 ， ma3 wei2 po1 li3 gu4 yang2 fei1 。
+- dong1 feng1 chui1 yuan2 za2 hua1 kai1 ， bu4 ren3 xu1 zhi4 wei3 huang2 ai1 。
+- qie3 lai2 xiang1 jiu4 yin3 yi4 dou3 ， jian4 lao3 feng2 chun1 neng2 ji1 hui2 。
 
 ## 注释
 

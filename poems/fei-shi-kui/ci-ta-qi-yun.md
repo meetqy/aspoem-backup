@@ -6,10 +6,10 @@ titleSlug: ci-ta-qi-yun
 author: 費士戣
 authorPinyin: fei4 shi4 kui2
 authorSlug: fei-shi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

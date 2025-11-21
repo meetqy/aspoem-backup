@@ -6,9 +6,9 @@ titleSlug: ti-zao-chun-ting
 author: 吳遵
 authorPinyin: wu2 zun1
 authorSlug: wu-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

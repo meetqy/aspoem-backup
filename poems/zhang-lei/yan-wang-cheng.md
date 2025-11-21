@@ -6,21 +6,21 @@ titleSlug: yan-wang-cheng
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蔓草悲風知幾秋，黄桑晚葉野雲愁。
-- 偃王城下樵蘇盡，猶有耕人指舊丘。
+- 逃戰彭城似去邠，興王可即廢爲臣。
+- 中原多少堪憂事，勞苦君王八馬奔。
 
 ## 拼音
 
-- man4 cao3 bei1 feng1 zhi1 ji1 qiu1 ， huang2 sang1 wan3 ye4 ye3 yun2 chou2 。
-- yan3 wang2 cheng2 xia4 qiao2 su1 jin4 ， you2 you3 geng1 ren2 zhi3 jiu4 qiu1 。
+- tao2 zhan4 peng2 cheng2 si4 qu4 bin1 ， xing1 wang2 ke3 ji2 fei4 wei2 chen2 。
+- zhong1 yuan2 duo1 shao3 kan1 you1 shi4 ， lao2 ku3 jun1 wang2 ba0 ma3 ben1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-yi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 我手何似佛手，拈起扇子擗口。
-- 打落帝釋花冠，卻是寒山掃箒。
+- 不是風幡不是心，曹溪一路盡平沈。
+- 俊鷹豈肯籬邊立，直透青霄萬萬尋。
 
 ## 拼音
 
-- wo3 shou3 he2 si4 fo2 shou3 ， nian1 qi3 shan4 zi0 pi3 kou3 。
-- da3 luo4 di4 shi4 hua1 guan1 ， que4 shi4 han2 shan1 sao3 zhou3 。
+- bu2 shi4 feng1 fan1 bu2 shi4 xin1 ， cao2 xi1 yi2 lu4 jin4 ping2 shen3 。
+- jun4 ying1 qi3 ken3 li2 bian1 li4 ， zhi2 tou4 qing1 xiao1 wan4 wan4 xun2 。
 
 ## 注释
 

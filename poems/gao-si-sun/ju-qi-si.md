@@ -1,24 +1,24 @@
 ---
 id: gao-si-sun-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 高似孫
 authorPinyin: gao1 si4 sun1
 authorSlug: gao-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有桂叢生須讓菊，爲鱸歸去也輸螯。
+- 小山花落渠如別，右手螯香我欠肥。
 
 ## 拼音
 
-- you3 gui4 cong2 sheng1 xu1 rang4 ju2 ， wei2 lu2 gui1 qu4 ye3 shu1 ao2 。
+- xiao3 shan1 hua1 luo4 qu2 ru2 bie2 ， you4 shou3 ao2 xiang1 wo3 qian4 fei2 。
 
 ## 注释
 

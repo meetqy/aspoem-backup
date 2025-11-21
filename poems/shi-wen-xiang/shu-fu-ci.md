@@ -6,29 +6,25 @@ titleSlug: shu-fu-ci
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 女蘿施松柏，終始相因依。
-- 結髮爲婚姻，偕老相與期。
-- 夫今戍邊城，賤妾無由隨。
-- 行行日已遠，何時定當歸。
-- 但願崇勳業，上報明主知。
-- 諒君守恒節，妾心終不移。
+- 新婚便別比秋胡，何似當年莫嫁夫。
+- 身在朔方征戍久，鴈來南國信音無。
+- 空閨寂寂寒宵永，荒路悠悠遠夢孤。
+- 聞道仙家能縮地，癡心要覓長房符。
 
 ## 拼音
 
-- nü3 luo2 shi1 song1 bai3 ， zhong1 shi3 xiang1 yin1 yi1 。
-- jie2 fa4 wei2 hun1 yin1 ， xie2 lao3 xiang1 yu3 qi1 。
-- fu1 jin1 shu4 bian1 cheng2 ， jian4 qie4 wu2 you2 sui2 。
-- hang2 hang2 ri4 yi3 yuan3 ， he2 shi2 ding4 dang1 gui1 。
-- dan4 yuan4 chong2 xun1 ye4 ， shang4 bao4 ming2 zhu3 zhi1 。
-- liang4 jun1 shou3 heng2 jie2 ， qie4 xin1 zhong1 bu4 yi2 。
+- xin1 hun1 bian4 bie2 bi3 qiu1 hu2 ， he2 si4 dang1 nian2 mo4 jia4 fu1 。
+- shen1 zai4 shuo4 fang1 zheng1 shu4 jiu3 ， yan4 lai2 nan2 guo2 xin4 yin1 wu2 。
+- kong1 gui1 ji4 ji4 han2 xiao1 yong3 ， huang1 lu4 you1 you1 yuan3 meng4 gu1 。
+- wen2 dao4 xian1 jia1 neng2 suo1 di4 ， chi1 xin1 yao4 mi4 chang2 fang2 fu2 。
 
 ## 注释
 

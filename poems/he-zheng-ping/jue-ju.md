@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 何正平
 authorPinyin: he2 zheng4 ping2
 authorSlug: he-zheng-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,18 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 爾是無心水，東流有恨無。
-- 我心無說處，也共爾何殊。
+- 古時應是山頭水，自古流來江路深。
+- 若使江流會人意，也應知我遠來心。
 
 ## 拼音
 
-- er3 shi4 wu2 xin1 shui3 ， dong1 liu2 you3 hen4 wu2 。
-- wo3 xin1 wu2 shuo1 chu3 ， ye3 gong4 er3 he2 shu1 。
+- gu3 shi2 ying1 shi4 shan1 tou2 shui3 ， zi4 gu3 liu2 lai2 jiang1 lu4 shen1 。
+- ruo4 shi3 jiang1 liu2 hui4 ren2 yi4 ， ye3 ying1 zhi1 wo3 yuan3 lai2 xin1 。
 
 ## 注释
 

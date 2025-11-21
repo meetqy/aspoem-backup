@@ -6,9 +6,9 @@ titleSlug: cui-zhuang-shi
 author: 成郎中
 authorPinyin: cheng2 lang2 zhong1
 authorSlug: cheng-lang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

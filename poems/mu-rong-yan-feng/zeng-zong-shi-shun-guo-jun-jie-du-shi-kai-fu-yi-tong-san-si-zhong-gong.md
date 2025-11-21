@@ -6,10 +6,10 @@ titleSlug: zeng-zong-shi-shun-guo-jun-jie-du-shi-kai-fu-yi-tong-san-si-zhong-gon
 author: 慕容彥逢
 authorPinyin: mu4 rong2 yan4 feng2
 authorSlug: mu-rong-yan-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

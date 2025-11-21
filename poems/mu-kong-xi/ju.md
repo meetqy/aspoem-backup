@@ -6,10 +6,10 @@ titleSlug: ju
 author: 牟孔錫
 authorPinyin: mu4 kong3 xi1
 authorSlug: mu-kong-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

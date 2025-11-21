@@ -6,10 +6,10 @@ titleSlug: ju
 author: 蕭國梁
 authorPinyin: xiao1 guo2 liang2
 authorSlug: xiao-guo-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

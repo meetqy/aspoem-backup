@@ -1,26 +1,26 @@
 ---
 id: lin-guang-chao-dai-chen-ji-ruo-shang-zhang-shuai-qi-yi
-title: 代陳季若上張帥  其一
-titlePinyin: dai4 chen2 ji4 ruo4 shang4 zhang1 shuai4     qi2 yi1
+title: 代陳季若上張帥  其一○
+titlePinyin: dai4 chen2 ji4 ruo4 shang4 zhang1 shuai4     qi2 yi1 ○
 titleSlug: dai-chen-ji-ruo-shang-zhang-shuai-qi-yi
 author: 林光朝
 authorPinyin: lin2 guang1 chao2
 authorSlug: lin-guang-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一樣官儀漢代新，乘時大手與經綸。
-- 東南自古衣冠地，桐柏山前淮水春。
+- 南牆鉅竹拂青煙，正在空齋簿領前。
+- 欲向韓門借餘潤，乞將白璧種藍田。
 
 ## 拼音
 
-- yi2 yang4 guan1 yi2 han4 dai4 xin1 ， cheng2 shi2 da4 shou3 yu3 jing1 lun2 。
-- dong1 nan2 zi4 gu3 yi1 guan1 di4 ， tong2 bai3 shan1 qian2 huai2 shui3 chun1 。
+- nan2 qiang2 ju4 zhu2 fu2 qing1 yan1 ， zheng4 zai4 kong1 zhai1 bo2 ling3 qian2 。
+- yu4 xiang4 han2 men2 jie4 yu2 run4 ， qi3 jiang1 bai2 bi4 zhong3 lan2 tian2 。
 
 ## 注释
 

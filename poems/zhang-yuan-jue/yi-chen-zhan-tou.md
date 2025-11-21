@@ -6,10 +6,10 @@ titleSlug: yi-chen-zhan-tou
 author: 張圓覺
 authorPinyin: zhang1 yuan2 jue2
 authorSlug: zhang-yuan-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

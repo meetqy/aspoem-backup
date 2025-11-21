@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-zhang-xi-yan-liang-hua-tu-er-shou-fan-xing
-title: 題張晞顔兩花圖二首・繁杏
-titlePinyin: ti2 zhang1 xi1 yan2 liang3 hua1 tu2 er4 shou3・fan2 xing4
+title: 題張晞顔兩花圖二首 繁杏
+titlePinyin: ti2 zhang1 xi1 yan2 liang3 hua1 tu2 er4 shou3   fan2 xing4
 titleSlug: ti-zhang-xi-yan-liang-hua-tu-er-shou-fan-xing
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

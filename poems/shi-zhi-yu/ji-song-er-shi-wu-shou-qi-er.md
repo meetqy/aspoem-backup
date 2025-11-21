@@ -1,28 +1,28 @@
 ---
 id: shi-zhi-yu-ji-song-er-shi-wu-shou-qi-er
-title: 偈頌二十五首  其二
-titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 er4
+title: 偈頌二十五首  其二○
+titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 er4 ○
 titleSlug: ji-song-er-shi-wu-shou-qi-er
 author: 釋智愚
 authorPinyin: shi4 zhi4 yu2
 authorSlug: shi-zhi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風淅淅，秋水冷冷。
-- 千辛萬苦，負笈擔簦。
-- 張公堠子李家店，草舍茅庵短作程。
+- 杜宇不如歸，竹雞泥滑滑。
+- 深山巖崖中，誰道無佛法。
+- 有佛法，衲僧只有三隻襪。
 
 ## 拼音
 
-- qiu1 feng1 xi1 xi1 ， qiu1 shui3 leng3 leng3 。
-- qian1 xin1 wan4 ku3 ， fu4 ji2 dan1 deng1 。
-- zhang1 gong1 hou4 zi3 li3 jia1 dian4 ， cao3 she4 mao2 an1 duan3 zuo4 cheng2 。
+- du4 yu3 bu4 ru2 gui1 ， zhu2 ji1 ni2 hua2 hua2 。
+- shen1 shan1 yan2 ya2 zhong1 ， shui2 dao4 wu2 fo2 fa3 。
+- you3 fo2 fa3 ， na4 seng1 zhi3 you3 san1 zhi1 wa4 。
 
 ## 注释
 

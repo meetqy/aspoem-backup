@@ -6,29 +6,25 @@ titleSlug: bu-mei
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 索居在村坰，水陸走通津。
-- 半夜有棹歌，鷄鳴語行人。
-- 中年近少睡，耿耿多達晨。
-- 外物非所念，頗復念我身。
-- 聖賢不敢欺，久大在日新。
-- 人生會有役，安得辭苦辛。
+- 向夕起秋思，無眠知夜長。
+- 年華一俛仰，人事幾炎涼。
+- 自喜全虛白，何妨兀老蒼。
+- 空庭風露入，唧唧話蛩螿。
 
 ## 拼音
 
-- suo3 ju1 zai4 cun1 jiong1 ， shui3 lu4 zou3 tong1 jin1 。
-- ban4 ye4 you3 zhao4 ge1 ， ji1 ming2 yu3 xing2 ren2 。
-- zhong1 nian2 jin4 shao3 shui4 ， geng3 geng3 duo1 da2 chen2 。
-- wai4 wu4 fei1 suo3 nian4 ， po1 fu4 nian4 wo3 shen1 。
-- sheng4 xian2 bu4 gan3 qi1 ， jiu3 da4 zai4 ri4 xin1 。
-- ren2 sheng1 hui4 you3 yi4 ， an1 de2 ci2 ku3 xin1 。
+- xiang4 xi1 qi3 qiu1 si1 ， wu2 mian2 zhi1 ye4 chang2 。
+- nian2 hua2 yi4 fu3 yang3 ， ren2 shi4 ji1 yan2 liang2 。
+- zi4 xi3 quan2 xu1 bai2 ， he2 fang2 wu4 lao3 cang1 。
+- kong1 ting2 feng1 lu4 ru4 ， ji1 ji1 hua4 qiong2 jiang1 。
 
 ## 注释
 

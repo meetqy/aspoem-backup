@@ -9,22 +9,18 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 外事休關念，灰心獨閉門。
-- 無人來問我，白日又黃昏。
-- 燈集飛蛾影，窗銷迸雪痕。
-- 中心自明了，一句祖師言。
+- 正是閉門爭合閉，大家開處不須開。
+- 還防朗月清風夜，有箇詩人相訪來。
 
 ## 拼音
 
-- wai4 shi4 xiu1 guan1 nian4 ， hui1 xin1 du2 bi4 men2 。
-- wu2 ren2 lai2 wen4 wo3 ， bai2 ri4 you4 huang2 hun1 。
-- deng1 ji2 fei1 e2 ying3 ， chuang1 xiao1 beng4 xue3 hen2 。
-- zhong1 xin1 zi4 ming2 le0 ， yi2 ju4 zu3 shi1 yan2 。
+- zheng4 shi4 bi4 men2 zheng1 he2 bi4 ， da4 jia1 kai1 chu3 bu4 xu1 kai1 。
+- huan2 fang2 lang3 yue4 qing1 feng1 ye4 ， you3 ge4 shi1 ren2 xiang1 fang3 lai2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: zou-hao-ci-yun-he-qian-tang-zhu-gong-shang-mei-shi-jue-qi-yi
-title: 次韻和錢塘諸公賞梅十絕  其一
-titlePinyin: ci4 yun4 he2 qian2 tang2 zhu1 gong1 shang3 mei2 shi2 jue2     qi2 yi1
+title: 次韻和錢塘諸公賞梅十絕  其一○
+titlePinyin: ci4 yun4 he2 qian2 tang2 zhu1 gong1 shang3 mei2 shi2 jue2     qi2 yi1 ○
 titleSlug: ci-yun-he-qian-tang-zhu-gong-shang-mei-shi-jue-qi-yi
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衝寒來訪喜生和，破恨新詩不必多。
-- 太皥初還好消息，從今日飲更無何。
+- 玉樹森森太傅家，玲瓏徐動曉風斜。
+- 可憐刻楮空機事，一葉三年猶未花。
 
 ## 拼音
 
-- chong1 han2 lai2 fang3 xi3 sheng1 he2 ， po4 hen4 xin1 shi1 bu2 bi4 duo1 。
-- tai4 hao4 chu1 huan2 hao3 xiao1 xi0 ， cong2 jin1 ri4 yin3 geng4 wu2 he2 。
+- yu4 shu4 sen1 sen1 tai4 fu4 jia1 ， ling2 long2 xu2 dong4 xiao3 feng1 xie2 。
+- ke3 lian2 ke4 chu3 kong1 ji1 shi4 ， yi2 ye4 san1 nian2 you2 wei4 hua1 。
 
 ## 注释
 

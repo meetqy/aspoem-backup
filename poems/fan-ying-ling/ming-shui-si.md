@@ -6,10 +6,10 @@ titleSlug: ming-shui-si
 author: 范應鈴
 authorPinyin: fan4 ying1 ling2
 authorSlug: fan-ying-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

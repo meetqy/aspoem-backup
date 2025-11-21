@@ -6,21 +6,23 @@ titleSlug: shan-ju
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古木環池竹數竿，疎籬補菊屋三間。
-- 白雲不放紅塵入，無怪山人懶出山。
+- 朝踏山根雲，暮歸雲中扉。
+- 野鳥始驚避，今焉情依依。
+- 異哉海上鷗，猜疑未忘機。
 
 ## 拼音
 
-- gu3 mu4 huan2 chi2 zhu2 shu4 gan1 ， shu1 li2 bu3 ju2 wu1 san1 jian4 。
-- bai2 yun2 bu2 fang4 hong2 chen2 ru4 ， wu2 guai4 shan1 ren2 lan3 chu1 shan1 。
+- chao2 ta4 shan1 gen1 yun2 ， mu4 gui1 yun2 zhong1 fei1 。
+- ye3 niao3 shi3 jing1 bi4 ， jin1 yan1 qing2 yi1 yi1 。
+- yi4 zai1 hai3 shang4 ou1 ， cai1 yi2 wei4 wang4 ji1 。
 
 ## 注释
 

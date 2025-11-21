@@ -6,25 +6,21 @@ titleSlug: jia-sheng
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漢有洛陽子，少年明是非。
-- 所論多感概，自信肯依違。
-- 死者若可作，今人誰與歸。
-- 應須蹈東海，不但涕沾衣。
+- 一時謀議略施行，誰道君王薄賈生。
+- 爵位自高言盡廢，古來何啻萬公卿。
 
 ## 拼音
 
-- han4 you3 luo4 yang2 zi3 ， shao4 nian2 ming2 shi4 fei1 。
-- suo3 lun4 duo1 gan3 gai4 ， zi4 xin4 ken3 yi1 wei2 。
-- si3 zhe3 ruo4 ke3 zuo4 ， jin1 ren2 shui2 yu3 gui1 。
-- ying1 xu1 dao3 dong1 hai3 ， bu2 dan4 ti4 zhan1 yi1 。
+- yi4 shi2 mou2 yi4 lüe4 shi1 xing2 ， shui2 dao4 jun1 wang2 bao2 jia3 sheng1 。
+- jue2 wei4 zi4 gao1 yan2 jin4 fei4 ， gu3 lai2 he2 chi4 wan4 gong1 qing1 。
 
 ## 注释
 

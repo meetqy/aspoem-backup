@@ -6,10 +6,10 @@ titleSlug: ti-geng-shi-wen-qing-tang
 author: 上官均
 authorPinyin: shang4 guan1 jun1
 authorSlug: shang-guan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

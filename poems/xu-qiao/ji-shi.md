@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 徐僑
 authorPinyin: xu2 qiao2
 authorSlug: xu-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 在家貧亦好，居官貧更宜。
-- 布被不妨溫，菜羹有餘滋。
-- 客至草具杯，事閑遣興詩。
-- 外此了無撓，澹然心地夷。
+- 關吾朝夕事，月嶺與雲岑。
+- 坐冊澹中味，行筇老者襟。
+- 酒隨深淺酌，詩任短長吟。
+- 時與七賢語，知音在素琴。
 
 ## 拼音
 
-- zai4 jia1 pin2 yi4 hao3 ， ju1 guan1 pin2 geng4 yi2 。
-- bu4 bei4 bu4 fang2 wen1 ， cai4 geng1 you3 yu2 zi1 。
-- ke4 zhi4 cao3 ju4 bei1 ， shi4 xian2 qian3 xing1 shi1 。
-- wai4 ci3 le0 wu2 nao2 ， dan4 ran2 xin1 di4 yi2 。
+- guan1 wu2 zhao1 xi1 shi4 ， yue4 ling3 yu3 yun2 cen2 。
+- zuo4 ce4 dan4 zhong1 wei4 ， xing2 qiong2 lao3 zhe3 jin1 。
+- jiu3 sui2 shen1 qian3 zhuo2 ， shi1 ren4 duan3 chang2 yin2 。
+- shi2 yu3 qi1 xian2 yu3 ， zhi1 yin1 zai4 su4 qin2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-dong-liu-ju-jiang-ting
 author: 廖𠵨
 authorPinyin: liao4 𠵨
 authorSlug: liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

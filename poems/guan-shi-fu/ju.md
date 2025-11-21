@@ -6,10 +6,10 @@ titleSlug: ju
 author: 管師復
 authorPinyin: guan3 shi1 fu4
 authorSlug: guan-shi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

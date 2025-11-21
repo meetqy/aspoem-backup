@@ -6,10 +6,10 @@ titleSlug: bai-long-si
 author: 靳更生
 authorPinyin: jin4 geng1 sheng1
 authorSlug: jin-geng-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

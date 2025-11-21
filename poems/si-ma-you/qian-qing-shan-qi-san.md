@@ -6,10 +6,10 @@ titleSlug: qian-qing-shan-qi-san
 author: 司馬槱
 authorPinyin: si1 ma3 you3
 authorSlug: si-ma-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

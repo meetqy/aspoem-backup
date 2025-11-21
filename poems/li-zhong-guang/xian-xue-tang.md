@@ -6,10 +6,10 @@ titleSlug: xian-xue-tang
 author: 李仲光
 authorPinyin: li3 zhong4 guang1
 authorSlug: li-zhong-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

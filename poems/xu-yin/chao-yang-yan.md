@@ -6,9 +6,9 @@ titleSlug: chao-yang-yan
 author: 許尹
 authorPinyin: xu1 yin3
 authorSlug: xu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

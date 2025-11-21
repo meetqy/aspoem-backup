@@ -6,10 +6,10 @@ titleSlug: yu-jiu-ke-du-cheng-qiu-feng-si-gui-zuo-chu-yu-he-wu-lang-cai-ling-kou
 author: 劉翰
 authorPinyin: liu2 han4
 authorSlug: liu-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

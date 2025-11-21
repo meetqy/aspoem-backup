@@ -6,10 +6,10 @@ titleSlug: ju-qi-si
 author: 李兌
 authorPinyin: li3 dui4
 authorSlug: li-dui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

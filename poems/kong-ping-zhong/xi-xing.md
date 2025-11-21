@@ -1,30 +1,30 @@
 ---
 id: kong-ping-zhong-xi-xing
-title: 西興
-titlePinyin: xi1 xing1
+title: 西行
+titlePinyin: xi1 xing2
 titleSlug: xi-xing
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舟行頗濡滯，累日驛前溪。
-- 大雨翻盆盎，狂風作鼓鼙。
-- 兩潮空朝晚，一水限東西。
-- 憶昔游湖棹，新晴傍會稽。
+- 繚繞西行入亂山，白雲深處據征鞍。
+- 蕎花著雨相爭秀，棗頰迎陽一半丹。
+- 鞅掌未能逃物役，乾坤何處託身安。
+- 莒臺東嚮情無限，那更秋風作暮寒。
 
 ## 拼音
 
-- zhou1 xing2 po1 ru2 zhi4 ， lei4 ri4 yi4 qian2 xi1 。
-- da4 yu3 fan1 pen2 ang4 ， kuang2 feng1 zuo4 gu3 pi2 。
-- liang3 chao2 kong1 chao2 wan3 ， yi4 shui3 xian4 dong1 xi1 。
-- yi4 xi1 you2 hu2 zhao4 ， xin1 qing2 bang4 hui4 ji1 。
+- liao2 rao4 xi1 xing2 ru4 luan4 shan1 ， bai2 yun2 shen1 chu3 ju4 zheng1 an1 。
+- qiao2 hua1 zhu4 yu3 xiang1 zheng1 xiu4 ， zao3 jia2 ying2 yang2 yi2 ban4 dan1 。
+- yang1 zhang3 wei4 neng2 tao2 wu4 yi4 ， qian2 kun1 he2 chu3 tuo1 shen1 an1 。
+- ju3 tai2 dong1 xiang4 qing2 wu2 xian4 ， na4 geng4 qiu1 feng1 zuo4 mu4 han2 。
 
 ## 注释
 

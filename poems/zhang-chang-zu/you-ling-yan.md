@@ -6,10 +6,10 @@ titleSlug: you-ling-yan
 author: 張昌祖
 authorPinyin: zhang1 chang1 zu3
 authorSlug: zhang-chang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -3,22 +3,22 @@ id: zhu-shi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 朱詩
-authorPinyin: zhu1 shi1
+author: 朱適
+authorPinyin: zhu1 shi4
 authorSlug: zhu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒夜客來茶當酒，竹爐湯沸火初紅。
+- 燒殘紅燭客未起，歌斷一聲塵遶梁。
 
 ## 拼音
 
-- han2 ye4 ke4 lai2 cha2 dang1 jiu3 ， zhu2 lu2 tang1 fei4 huo3 chu1 hong2 。
+- shao1 can2 hong2 zhu2 ke4 wei4 qi3 ， ge1 duan4 yi4 sheng1 chen2 rao4 liang2 。
 
 ## 注释
 

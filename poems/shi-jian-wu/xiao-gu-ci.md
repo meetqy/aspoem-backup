@@ -9,18 +9,18 @@ authorSlug: shi-jian-wu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 姊妹無多兄弟少，舉家鍾愛年最小。
-- 有時繞樹山鵲飛，貪看不待畫眉了。
+- 莫愁新得年十六，如蛾雙眉長帶綠。
+- 初學箜篌四五人，莫愁獨自聲前足。
 
 ## 拼音
 
-- zi3 mei4 wu2 duo1 xiong1 di4 shao3 ， ju3 jia1 zhong1 ai4 nian2 zui4 xiao3 。
-- you3 shi2 rao4 shu4 shan1 que4 fei1 ， tan1 kan4 bu2 dai4 hua4 mei2 le0 。
+- mo4 chou2 xin1 de2 nian2 shi2 liu4 ， ru2 e2 shuang1 mei2 chang2 dai4 lü4 。
+- chu1 xue2 kong1 hou2 si4 wu3 ren2 ， mo4 chou2 du2 zi4 sheng1 qian2 zu2 。
 
 ## 注释
 

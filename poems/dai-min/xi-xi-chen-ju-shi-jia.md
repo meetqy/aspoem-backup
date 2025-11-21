@@ -6,10 +6,10 @@ titleSlug: xi-xi-chen-ju-shi-jia
 author: 戴敏
 authorPinyin: dai4 min3
 authorSlug: dai-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋玄應
 authorPinyin: shi4 xuan2 ying1
 authorSlug: shi-xuan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

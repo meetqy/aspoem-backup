@@ -1,26 +1,26 @@
 ---
 id: yang-jian-shang-deng-xian-sheng-chen-qi-yi
-title: 上鄧憲生辰  其一
-titlePinyin: shang4 deng4 xian4 sheng1 chen2     qi2 yi1
+title: 上鄧憲生辰  其一○
+titlePinyin: shang4 deng4 xian4 sheng1 chen2     qi2 yi1 ○
 titleSlug: shang-deng-xian-sheng-chen-qi-yi
 author: 楊簡
 authorPinyin: yang2 jian3
 authorSlug: yang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 維彼岷源，維深且長。
-- 是爲大江，潤澤南方。
+- 僵者起之，骨者肉之。
+- 知畿千萬，父之母之。
 
 ## 拼音
 
-- wei2 bi3 min2 yuan2 ， wei2 shen1 qie3 chang2 。
-- shi4 wei2 da4 jiang1 ， run4 ze2 nan2 fang1 。
+- jiang1 zhe3 qi3 zhi1 ， gu3 zhe3 rou4 zhi1 。
+- zhi1 ji1 qian1 wan4 ， fu4 zhi1 mu3 zhi1 。
 
 ## 注释
 

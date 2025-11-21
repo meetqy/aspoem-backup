@@ -6,10 +6,10 @@ titleSlug: he-sun-shen-lao-ti-zhao-bo-dou-ye-ting
 author: 張琬
 authorPinyin: zhang1 wan3
 authorSlug: zhang-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

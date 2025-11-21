@@ -6,9 +6,9 @@ titleSlug: gui-zi-lin-chuan-tu-zhong-gan-wu-yu-shi-de-ba-jue-ju-ji-xiu-mei-qi-li
 author: 歐陽澈
 authorPinyin: ou1 yang2 che4
 authorSlug: ou-yang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

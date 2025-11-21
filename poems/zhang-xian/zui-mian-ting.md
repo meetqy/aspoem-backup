@@ -6,25 +6,37 @@ titleSlug: zui-mian-ting
 author: 張先
 authorPinyin: zhang1 xian1
 authorSlug: zhang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 醉翁家有醉眠亭，爲愛江堤亂草春。
-- 不聽耳邊啼鳥喚，任教風外雜花零。
-- 欲酣未必過此舍，樂甚應宜造大庭。
-- 五柳北窗知此趣，三閭南儗漫孤醒。
+- 松陵江畔客，築室從何年。
+- 世俗徒紛紛，不知李子賢。
+- 在彼既不知，不如醉且眠。
+- 聲名衮衮誰知命，醉非愛酒眠非病。
+- 長江渾渾無古今，羣山回合來相應。
+- 呼奴沽酒不可遲，買魚斫膾煩老妻。
+- 何必紉繩繫飛兔，百年長短空自知。
+- 直將褌蝨視天地，冥冥支枕窮四時。
+- 九衢足塵土，朱門多是非。
+- 秋風老蓴鱸，扁舟何日歸。
 
 ## 拼音
 
-- zui4 weng1 jia1 you3 zui4 mian2 ting2 ， wei2 ai4 jiang1 di1 luan4 cao3 chun1 。
-- bu4 ting1 er3 bian1 ti2 niao3 huan4 ， ren4 jiao4 feng1 wai4 za2 hua1 ling2 。
-- yu4 han1 wei4 bi4 guo4 ci3 she4 ， le4 shen4 ying1 yi2 zao4 da4 ting2 。
-- wu3 liu3 bei3 chuang1 zhi1 ci3 qu4 ， san1 lü2 nan2 ni3 man4 gu1 xing3 。
+- song1 ling2 jiang1 pan4 ke4 ， zhu4 shi4 cong2 he2 nian2 。
+- shi4 su2 tu2 fen1 fen1 ， bu4 zhi1 li3 zi0 xian2 。
+- zai4 bi3 ji4 bu4 zhi1 ， bu4 ru2 zui4 qie3 mian2 。
+- sheng1 ming2 gun3 gun3 shui2 zhi1 ming4 ， zui4 fei1 ai4 jiu3 mian2 fei1 bing4 。
+- chang2 jiang1 hun2 hun2 wu2 gu3 jin1 ， qun2 shan1 hui2 he2 lai2 xiang1 ying1 。
+- hu1 nu2 gu1 jiu3 bu4 ke3 chi2 ， mai3 yu2 zhuo2 kuai4 fan2 lao3 qi1 。
+- he2 bi4 ren4 sheng2 xi4 fei1 tu4 ， bai3 nian2 chang2 duan3 kong1 zi4 zhi1 。
+- zhi2 jiang1 kun1 shi1 shi4 tian1 di4 ， ming2 ming2 zhi1 zhen3 qiong2 si4 shi2 。
+- jiu3 qu2 zu2 chen2 tu3 ， zhu1 men2 duo1 shi4 fei1 。
+- qiu1 feng1 lao3 chun2 lu2 ， pian1 zhou1 he2 ri4 gui1 。
 
 ## 注释
 

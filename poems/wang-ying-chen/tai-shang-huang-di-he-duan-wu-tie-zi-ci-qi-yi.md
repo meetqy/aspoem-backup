@@ -1,26 +1,26 @@
 ---
 id: wang-ying-chen-tai-shang-huang-di-he-duan-wu-tie-zi-ci-qi-yi
-title: 太上皇帝閤端午帖子詞  其一
-titlePinyin: tai4 shang4 huang2 di4 he2 duan1 wu3 tie3 zi0 ci2     qi2 yi1
+title: 太上皇帝閤端午帖子詞  其一○
+titlePinyin: tai4 shang4 huang2 di4 he2 duan1 wu3 tie3 zi0 ci2     qi2 yi1 ○
 titleSlug: tai-shang-huang-di-he-duan-wu-tie-zi-ci-qi-yi
 author: 汪應辰
 authorPinyin: wang1 ying1 chen2
 authorSlug: wang-ying-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道大光今古，功成付聖明。
-- 超然羣物表，但見四時行。
+- 聖治從來本好生，擬銷劍戟助農耕。
+- 此心自與天無間，豈待丹繒始辟兵。
 
 ## 拼音
 
-- dao4 da4 guang1 jin1 gu3 ， gong1 cheng2 fu4 sheng4 ming2 。
-- chao1 ran2 qun2 wu4 biao3 ， dan4 jian4 si4 shi2 xing2 。
+- sheng4 zhi4 cong2 lai2 ben3 hao3 sheng1 ， ni3 xiao1 jian4 ji3 zhu4 nong2 geng1 。
+- ci3 xin1 zi4 yu3 tian1 wu2 jian4 ， qi3 dai4 dan1 zeng1 shi3 pi4 bing1 。
 
 ## 注释
 

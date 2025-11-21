@@ -6,10 +6,10 @@ titleSlug: ye-su-chui-hong-ting-zhou-zhong-you-gan-er-zuo
 author: 龐元英
 authorPinyin: pang2 yuan2 ying1
 authorSlug: pang-yuan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

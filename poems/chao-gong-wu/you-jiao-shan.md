@@ -6,10 +6,10 @@ titleSlug: you-jiao-shan
 author: 晁公武
 authorPinyin: chao2 gong1 wu3
 authorSlug: chao-gong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,28 @@
 ---
 id: shi-dao-chang-song-gu-wu-shi-qi-shou-qi-wu
-title: 頌古五十七首  其五
-titlePinyin: song4 gu3 wu3 shi2 qi1 shou3     qi2 wu3
+title: 頌古五十七首  其五○
+titlePinyin: song4 gu3 wu3 shi2 qi1 shou3     qi2 wu3 ○
 titleSlug: song-gu-wu-shi-qi-shou-qi-wu
 author: 釋道昌
 authorPinyin: shi4 dao4 chang1
 authorSlug: shi-dao-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 活中死眼，無作有用。
-- 方寸不移，十方獨弄。
-- 巧拙不到處，鹽官有出身。
-- 親言出親口，雞犬鬧比鄰。
+- 塵塵三昧，缽飯桶水。
+- 雲門眼中，者僧身裏。
+- 捏合起來無處藏，𡎺著磕著埋沒你。
 
 ## 拼音
 
-- huo2 zhong1 si3 yan3 ， wu2 zuo4 you3 yong4 。
-- fang1 cun4 bu4 yi2 ， shi2 fang1 du2 nong4 。
-- qiao3 zhuo1 bu2 dao4 chu3 ， yan2 guan1 you3 chu1 shen1 。
-- qin1 yan2 chu1 qin1 kou3 ， ji1 quan3 nao4 bi3 lin2 。
+- chen2 chen2 san1 mei4 ， bo1 fan4 tong3 shui3 。
+- yun2 men2 yan3 zhong1 ， zhe3 seng1 shen1 li3 。
+- nie1 he2 qi3 lai2 wu2 chu3 cang2 ，𡎺 zhu4 ke1 zhu4 mai2 mei2 ni3 。
 
 ## 注释
 

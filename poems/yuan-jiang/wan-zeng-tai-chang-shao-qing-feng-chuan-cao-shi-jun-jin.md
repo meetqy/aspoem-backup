@@ -6,10 +6,10 @@ titleSlug: wan-zeng-tai-chang-shao-qing-feng-chuan-cao-shi-jun-jin
 author: 元絳
 authorPinyin: yuan2 jiang4
 authorSlug: yuan-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-tai-ping-xing-guo-gong
 author: 傅謙受
 authorPinyin: fu4 qian1 shou4
 authorSlug: fu-qian-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

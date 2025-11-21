@@ -1,26 +1,26 @@
 ---
 id: wang-bai-ti-shan-qiao-shi-shou-qi-yi
-title: 題山橋十首  其一
-titlePinyin: ti2 shan1 qiao2 shi2 shou3     qi2 yi1
+title: 題山橋十首  其一○
+titlePinyin: ti2 shan1 qiao2 shi2 shou3     qi2 yi1 ○
 titleSlug: ti-shan-qiao-shi-shou-qi-yi
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 軋軋飛車入翠微，人於妙處未深知。
-- 自從標榜新拈掇，碎却山橋一段奇。
+- 風雲下走若馮虛，目極長空千里餘。
+- 每日城中望山色，却來倚檻認吾廬。
 
 ## 拼音
 
-- ya4 ya4 fei1 ju1 ru4 cui4 wei1 ， ren2 wu1 miao4 chu3 wei4 shen1 zhi1 。
-- zi4 cong2 biao1 bang3 xin1 nian1 duo1 ， sui4 que4 shan1 qiao2 yi2 duan4 qi2 。
+- feng1 yun2 xia4 zou3 ruo4 feng2 xu1 ， mu4 ji2 chang2 kong1 qian1 li3 yu2 。
+- mei3 ri4 cheng2 zhong1 wang4 shan1 se4 ， que4 lai2 yi3 jian4 ren4 wu2 lu2 。
 
 ## 注释
 

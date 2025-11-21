@@ -6,10 +6,10 @@ titleSlug: yu-hou-shi-xiao-jue-yi-yi-yu-xi-can-shu-wan-jia-sheng-zao-liang-wei-y
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

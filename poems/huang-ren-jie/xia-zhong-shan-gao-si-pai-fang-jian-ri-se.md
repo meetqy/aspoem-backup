@@ -6,10 +6,10 @@ titleSlug: xia-zhong-shan-gao-si-pai-fang-jian-ri-se
 author: 黄人傑
 authorPinyin: huang2 ren2 jie2
 authorSlug: huang-ren-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ye-lin-miao
 author: 吳秘
 authorPinyin: wu2 mi4
 authorSlug: wu-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: guo-wu-liu-yong
 author: 南野
 authorPinyin: nan2 ye3
 authorSlug: nan-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

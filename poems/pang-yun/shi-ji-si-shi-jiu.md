@@ -9,24 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 家長自飲酒，舉家一時醉。
-- 失火燒故宅，運水沃空地。
-- 水火當頭發，三災一時起。
-- 空中鳩鴿舞，騾來助放屁。
-- 因中無好花，結果亦天理。
+- 一切有求枉用功，想念真成著色空。
+- 差之亳釐失千里，有生劫劫道難通。
+- 癡心望出三界外，不知元在鐵圍中。
 
 ## 拼音
 
-- jia1 chang2 zi4 yin3 jiu3 ， ju3 jia1 yi4 shi2 zui4 。
-- shi1 huo3 shao1 gu4 zhai2 ， yun4 shui3 wo4 kong4 di4 。
-- shui3 huo3 dang1 tou2 fa1 ， san1 zai1 yi4 shi2 qi3 。
-- kong1 zhong1 jiu1 ge1 wu3 ， luo2 lai2 zhu4 fang4 pi4 。
-- yin1 zhong1 wu2 hao3 hua1 ， jie2 guo3 yi4 tian1 li3 。
+- yi2 qie4 you3 qiu2 wang3 yong4 gong1 ， xiang3 nian4 zhen1 cheng2 zhuo2 se4 kong1 。
+- cha4 zhi1 bo2 li2 shi1 qian1 li3 ， you3 sheng1 jie2 jie2 dao4 nan2 tong1 。
+- chi1 xin1 wang4 chu1 san1 jie4 wai4 ， bu4 zhi1 yuan2 zai4 tie3 wei2 zhong1 。
 
 ## 注释
 

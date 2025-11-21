@@ -3,22 +3,22 @@ id: liu-qi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 柳耆
-authorPinyin: liu3 qi2
+author: 劉跂
+authorPinyin: liu2 qi2
 authorSlug: liu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 野犢正忙犁曉雨，谷鶑才出管東風。
+- 急雨欲來先暑氣，凉風過後却秋聲。
 
 ## 拼音
 
-- ye3 du2 zheng4 mang2 li2 xiao3 yu3 ， gu3 ying1 cai2 chu1 guan3 dong1 feng1 。
+- ji2 yu3 yu4 lai2 xian1 shu3 qi4 ， liang2 feng1 guo4 hou4 que4 qiu1 sheng1 。
 
 ## 注释
 

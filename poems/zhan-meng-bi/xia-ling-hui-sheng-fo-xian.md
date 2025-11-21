@@ -6,10 +6,10 @@ titleSlug: xia-ling-hui-sheng-fo-xian
 author: 詹夢璧
 authorPinyin: zhan1 meng4 bi4
 authorSlug: zhan-meng-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

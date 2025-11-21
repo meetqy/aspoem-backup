@@ -6,10 +6,10 @@ titleSlug: du-ting-zhi-xin-de-he-zhou-jiang-chu-jing-yi-yu-xin-chu-dou
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 蘇舜欽
 authorPinyin: su1 shun4 qin1
 authorSlug: su-shun-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 滁陽太守好山水，公餘日醉羣山間。
-- 滁峯環回秀相倚，作亭正對溪山前。
+- 崑崙氣候西時春，紫府光陰夜如曉。
+- 來時不用五雲車，跨著清風下蓬島。
 
 ## 拼音
 
-- chu2 yang2 tai4 shou3 hao3 shan1 shui3 ， gong1 yu2 ri4 zui4 qun2 shan1 jian4 。
-- chu2 feng1 huan2 hui2 xiu4 xiang1 yi3 ， zuo4 ting2 zheng4 dui4 xi1 shan1 qian2 。
+- kun1 lun2 qi4 hou4 xi1 shi2 chun1 ， zi3 fu3 guang1 yin1 ye4 ru2 xiao3 。
+- lai2 shi2 bu2 yong4 wu3 yun2 ju1 ， kua4 zhu4 qing1 feng1 xia4 peng2 dao3 。
 
 ## 注释
 

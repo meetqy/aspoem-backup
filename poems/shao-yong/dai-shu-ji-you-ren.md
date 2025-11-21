@@ -6,25 +6,25 @@ titleSlug: dai-shu-ji-you-ren
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 當年有志高天下，嘗讀前書笑謝安。
-- 豈謂此身甘老朽，尚無閑地可盤桓。
-- 棋逢敵手纔堪著，琴少知音不願彈。
-- 非止不才能退默，古賢長恨得時難。
+- 一別光陰二紀餘，歲華如箭止堪吁。
+- 東西契闊久經難，前後慇懃兩得書。
+- 故國山川皆夢寐，舊家人物半丘墟。
+- 何時重講當時事，笑對西風坼酒壺。
 
 ## 拼音
 
-- dang1 nian2 you3 zhi4 gao1 tian1 xia4 ， chang2 du2 qian2 shu1 xiao4 xie4 an1 。
-- qi3 wei4 ci3 shen1 gan1 lao3 xiu3 ， shang4 wu2 xian2 di4 ke3 pan2 huan2 。
-- qi2 feng2 di2 shou3 cai2 kan1 zhu4 ， qin2 shao3 zhi1 yin1 bu2 yuan4 dan4 。
-- fei1 zhi3 bu4 cai2 neng2 tui4 mo4 ， gu3 xian2 chang2 hen4 de2 shi2 nan2 。
+- yi4 bie2 guang1 yin1 er4 ji4 yu2 ， sui4 hua2 ru2 jian4 zhi3 kan1 xu1 。
+- dong1 xi1 qi4 kuo4 jiu3 jing1 nan2 ， qian2 hou4 yin1 qin2 liang3 de2 shu1 。
+- gu4 guo2 shan1 chuan1 jie1 meng4 mei4 ， jiu4 jia1 ren2 wu4 ban4 qiu1 xu1 。
+- he2 shi2 zhong4 jiang3 dang1 shi2 shi4 ， xiao4 dui4 xi1 feng1 che4 jiu3 hu2 。
 
 ## 注释
 

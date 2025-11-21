@@ -6,25 +6,21 @@ titleSlug: ji
 author: 釋心道
 authorPinyin: shi4 xin1 dao4
 authorSlug: shi-xin-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 師子嚬呻，象王哮吼。
-- 雲門北斗裏藏身，白雲因何喚作手。
-- 三世諸佛不能知，狸奴白牯却知有。
-- 雨打梨花蛺蝶飛，風吹柳絮毛毬走。
+- 契丹打破波斯寨，奪得寶珠村裏賣。
+- 十字街頭窮乞兒，腰間挂箇風流袋。
 
 ## 拼音
 
-- shi1 zi3 pin2 shen1 ， xiang4 wang2 xiao4 hou3 。
-- yun2 men2 bei3 dou3 li3 cang2 shen1 ， bai2 yun2 yin1 he2 huan4 zuo4 shou3 。
-- san1 shi4 zhu1 fo2 bu4 neng2 zhi1 ， li2 nu2 bai2 gu3 que4 zhi1 you3 。
-- yu3 da3 li2 hua1 jia2 die2 fei1 ， feng1 chui1 liu3 xu4 mao2 qiu2 zou3 。
+- qi4 dan1 da3 po4 bo1 si1 zhai4 ， duo2 de2 bao3 zhu1 cun1 li3 mai4 。
+- shi2 zi4 jie1 tou2 qiong2 qi3 er2 ， yao1 jian4 gua4 ge4 feng1 liu2 dai4 。
 
 ## 注释
 

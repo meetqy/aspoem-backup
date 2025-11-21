@@ -6,37 +6,37 @@ titleSlug: zai-ci-zhuan-an-yun
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 能詩何殊臂使指，得句不愁人背毀。
-- 詩何緣瘦道自肥，誰嘲飯顆山前甫。
-- 誓不驚人死不休，言是良工心獨苦。
-- 驪黄牝牡元不問，智詐勇貪俱可使。
-- 合時端如錐畫沙，悟處快於瓴建水。
-- 趙詩平澹謝奇古，所以吾儕誇絜矩。
-- 轉庵更是可憐人，詩眼既高窺字髓。
-- 我生何能補一字，君美非溢私兩喜。
-- 更須傳抄及同社，定不驚嗟斯是取。
-- 騷壇摩壘真幾人，安能碌碌數餘子。
+- 安石移根煩使指，花蹙紅綃誰擘毀。
+- 封姨妬作阿醋呼，同調何殊申及甫。
+- 肯憐顛倒落絳英，祇覺韓公用心苦。
+- 流傳午節遂成例，萱草戎葵併驅使。
+- 真能染却白雲殷，靈囿鮮繁金谷水。
+- 詩人愛節因愛花，射團點綴追前矩。
+- 炎官鍊丹成絳雪，獺膽分杯凝赤髓。
+- 誰言不似舞裙紅，色相異觀特私喜。
+- 點化精神欲然句，晉宋風流坡獨取。
+- 鄙哉摘實兒女見，却要缾罌結多子。
 
 ## 拼音
 
-- neng2 shi1 he2 shu1 bi4 shi3 zhi3 ， de2 ju4 bu4 chou2 ren2 bei4 hui3 。
-- shi1 he2 yuan2 shou4 dao4 zi4 fei2 ， shui2 chao2 fan4 ke1 shan1 qian2 fu3 。
-- shi4 bu4 jing1 ren2 si3 bu4 xiu1 ， yan2 shi4 liang2 gong1 xin1 du2 ku3 。
-- li2 huang2 pin4 mu3 yuan2 bu2 wen4 ， zhi4 zha4 yong3 tan1 ju4 ke3 shi3 。
-- he2 shi2 duan1 ru2 zhui1 hua4 sha1 ， wu4 chu3 kuai4 wu1 ling2 jian4 shui3 。
-- zhao4 shi1 ping2 dan4 xie4 qi2 gu3 ， suo3 yi3 wu2 chai2 kua1 jie2 ju3 。
-- zhuan3 an1 geng4 shi4 ke3 lian2 ren2 ， shi1 yan3 ji4 gao1 kui1 zi4 sui3 。
-- wo3 sheng1 he2 neng2 bu3 yi2 zi4 ， jun1 mei3 fei1 yi4 si1 liang3 xi3 。
-- geng4 xu1 chuan2 chao1 ji2 tong2 she4 ， ding4 bu4 jing1 jie1 si1 shi4 qu3 。
-- sao1 tan2 mo2 lei3 zhen1 ji1 ren2 ， an1 neng2 lu4 lu4 shu4 yu2 zi3 。
+- an1 shi2 yi2 gen1 fan2 shi3 zhi3 ， hua1 cu4 hong2 xiao1 shui2 bo4 hui3 。
+- feng1 yi2 du4 zuo4 a1 cu4 hu1 ， tong2 diao4 he2 shu1 shen1 ji2 fu3 。
+- ken3 lian2 dian1 dao3 luo4 jiang4 ying1 ， qi2 jue2 han2 gong1 yong4 xin1 ku3 。
+- liu2 chuan2 wu3 jie2 sui4 cheng2 li4 ， xuan1 cao3 rong2 kui2 bing4 qu1 shi3 。
+- zhen1 neng2 ran3 que4 bai2 yun2 yin1 ， ling2 you4 xian1 fan2 jin1 gu3 shui3 。
+- shi1 ren2 ai4 jie2 yin1 ai4 hua1 ， she4 tuan2 dian3 zhui4 zhui1 qian2 ju3 。
+- yan2 guan1 lian4 dan1 cheng2 jiang4 xue3 ， ta3 dan3 fen1 bei1 ning2 chi4 sui3 。
+- shui2 yan2 bu2 si4 wu3 qun2 hong2 ， se4 xiang4 yi4 guan1 te4 si1 xi3 。
+- dian3 hua4 jing1 shen2 yu4 ran2 ju4 ， jin4 song4 feng1 liu2 po1 du2 qu3 。
+- bi3 zai1 zhai1 shi2 er2 nü3 jian4 ， que4 yao4 ping2 ying1 jie2 duo1 zi3 。
 
 ## 注释
 

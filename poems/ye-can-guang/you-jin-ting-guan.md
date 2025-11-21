@@ -6,10 +6,10 @@ titleSlug: you-jin-ting-guan
 author: 葉參光
 authorPinyin: ye4 can1 guang1
 authorSlug: ye-can-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

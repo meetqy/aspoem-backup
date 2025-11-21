@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 休官伏畎畝，農事未歷覽。
-- 年豐則知喜，歲歉頗不鑒。
-- 螟蜮則曰蠖，不實乃名冇。
-- 生民惰與勤，天災未嘗濫。
+- 下邑常寂寞，細履寒溪頭。
+- 魚鰕腥斷岸，橘柚明晚秋。
+- 山色儼晴碧，溪光泛澄流。
+- 相思故人遠，應過回雁洲。
 
 ## 拼音
 
-- xiu1 guan1 fu2 quan3 mu3 ， nong2 shi4 wei4 li4 lan3 。
-- nian2 feng1 ze2 zhi1 xi3 ， sui4 qian4 po1 bu2 jian4 。
-- ming2 yu4 ze2 yue1 huo4 ， bu4 shi2 nai3 ming2 mao3 。
-- sheng1 min2 duo4 yu3 qin2 ， tian1 zai1 wei4 chang2 lan4 。
+- xia4 yi4 chang2 ji4 mo4 ， xi4 lü3 han2 xi1 tou2 。
+- yu2 xia1 xing1 duan4 an4 ， ju2 you4 ming2 wan3 qiu1 。
+- shan1 se4 yan3 qing2 bi4 ， xi1 guang1 fan4 cheng2 liu2 。
+- xiang1 si1 gu4 ren2 yuan3 ， ying1 guo4 hui2 yan4 zhou1 。
 
 ## 注释
 

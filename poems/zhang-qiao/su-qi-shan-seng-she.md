@@ -9,17 +9,17 @@ authorSlug: zhang-qiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一宿經窗臥白波，萬重歸夢隔煙蘿。
+- 一宿經窗望白波，曉隨山月出煙蘿。
 - 若言不得南宗要，長在禪牀事更多。
 
 ## 拼音
 
-- yi2 su4 jing1 chuang1 wo4 bai2 bo1 ， wan4 zhong4 gui1 meng4 ge2 yan1 luo2 。
+- yi2 su4 jing1 chuang1 wang4 bai2 bo1 ， xiao3 sui2 shan1 yue4 chu1 yan1 luo2 。
 - ruo4 yan2 bu4 de2 nan2 zong1 yao4 ， chang2 zai4 shan4 chuang2 shi4 geng4 duo1 。
 
 ## 注释

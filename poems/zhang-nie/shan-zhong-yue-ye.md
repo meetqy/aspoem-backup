@@ -6,25 +6,25 @@ titleSlug: shan-zhong-yue-ye
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 過雨得清夜，月明惟水聲。
-- 葉光知露隕，蘭馥賴風清。
-- 天地未悔禍，豺狼猶阻兵。
-- 故園同此夕，長望一霑纓。
+- 中原群盗幾時平，避地荒山萬慮驚。
+- 霜月有情凝夜色，溪流無盡落寒聲。
+- 滿山林影龍蛇動，繞屋風枝劍珮鳴。
+- 自惜壯懷消欲盡，只將捜句了餘生。
 
 ## 拼音
 
-- guo4 yu3 de2 qing1 ye4 ， yue4 ming2 wei2 shui3 sheng1 。
-- ye4 guang1 zhi1 lu4 yun3 ， lan2 fu4 lai4 feng1 qing1 。
-- tian1 di4 wei4 hui3 huo4 ， chai2 lang2 you2 zu3 bing1 。
-- gu4 yuan2 tong2 ci3 xi1 ， chang2 wang4 yi4 zhan1 ying1 。
+- zhong1 yuan2 qun2 dao4 ji1 shi2 ping2 ， bi4 di4 huang1 shan1 wan4 lü4 jing1 。
+- shuang1 yue4 you3 qing2 ning2 ye4 se4 ， xi1 liu2 wu2 jin4 luo4 han2 sheng1 。
+- man3 shan1 lin2 ying3 long2 she2 dong4 ， rao4 wu1 feng1 zhi1 jian4 pei4 ming2 。
+- zi4 xi1 zhuang4 huai2 xiao1 yu4 jin4 ， zhi1 jiang1 sou1 ju4 le0 yu2 sheng1 。
 
 ## 注释
 

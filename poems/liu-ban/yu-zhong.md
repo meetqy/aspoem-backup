@@ -6,27 +6,25 @@ titleSlug: yu-zhong
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丹桂更束薪，白璧償斗粟。
-- 况茲風雨朝，泥潦壞牆屋。
-- 敗竈方生魚，并日能薄粥。
-- 始知簞瓢人，陋巷本自足。
-- 寧見子桑詩，若歌復若哭。
+- 沈陰連日雨，六月似高秋。
+- 凉冷宵眠穩，泥塗晝事休。
+- 塵昏舊銅鏡，朽蠹敝貂裘。
+- 頼有盈樽酒，能爲懶病謀。
 
 ## 拼音
 
-- dan1 gui4 geng4 shu4 xin1 ， bai2 bi4 chang2 dou4 su4 。
-- kuang4 zi1 feng1 yu3 chao2 ， ni2 liao2 huai4 qiang2 wu1 。
-- bai4 zao4 fang1 sheng1 yu2 ， bing4 ri4 neng2 bao2 zhou1 。
-- shi3 zhi1 dan1 piao2 ren2 ， lou4 xiang4 ben3 zi4 zu2 。
-- ning2 jian4 zi3 sang1 shi1 ， ruo4 ge1 fu4 ruo4 ku1 。
+- shen3 yin1 lian2 ri4 yu3 ， liu4 yue4 si4 gao1 qiu1 。
+- liang2 leng3 xiao1 mian2 wen3 ， ni2 tu2 zhou4 shi4 xiu1 。
+- chen2 hun1 jiu4 tong2 jing4 ， xiu3 du4 bi4 diao1 qiu2 。
+- lai4 you3 ying2 zun1 jiu3 ， neng2 wei2 lan3 bing4 mou2 。
 
 ## 注释
 

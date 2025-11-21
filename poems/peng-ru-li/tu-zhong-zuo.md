@@ -6,25 +6,23 @@ titleSlug: tu-zhong-zuo
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮冬尚羈旅，行色太凄凉。
-- 白雪園林好，紅塵道路長。
-- 暮雲寒不散，斜日淡無光。
-- 夜宿溪山靜，清風滿肺腸。
+- 清晨四句偈，午夜一爐香。
+- 有見即心境，無時非道場。
+- 華夷初一致，彼是兩兼忘。
 
 ## 拼音
 
-- qiong2 dong1 shang4 ji1 lü3 ， xing2 se4 tai4 qi1 liang2 。
-- bai2 xue3 yuan2 lin2 hao3 ， hong2 chen2 dao4 lu4 chang2 。
-- mu4 yun2 han2 bu2 san4 ， xie2 ri4 dan4 wu2 guang1 。
-- ye4 su4 xi1 shan1 jing4 ， qing1 feng1 man3 fei4 chang2 。
+- qing1 chen2 si4 ju4 ji4 ， wu3 ye4 yi4 lu2 xiang1 。
+- you3 jian4 ji2 xin1 jing4 ， wu2 shi2 fei1 dao4 chang3 。
+- hua2 yi2 chu1 yi2 zhi4 ， bi3 shi4 liang3 jian1 wang4 。
 
 ## 注释
 

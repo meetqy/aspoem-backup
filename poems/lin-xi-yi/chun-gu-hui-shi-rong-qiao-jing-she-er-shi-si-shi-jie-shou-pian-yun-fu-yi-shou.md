@@ -6,10 +6,10 @@ titleSlug: chun-gu-hui-shi-rong-qiao-jing-she-er-shi-si-shi-jie-shou-pian-yun-fu
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

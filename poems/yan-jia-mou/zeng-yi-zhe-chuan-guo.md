@@ -6,10 +6,10 @@ titleSlug: zeng-yi-zhe-chuan-guo
 author: 嚴嘉謀
 authorPinyin: yan2 jia1 mou2
 authorSlug: yan-jia-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

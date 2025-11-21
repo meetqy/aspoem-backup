@@ -6,25 +6,25 @@ titleSlug: mei
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 疎影幾黄昏，明明野水濱。
-- 未風先信息，無雪更精神。
-- 一白見真色，萬紅隨後塵。
-- 自來花下飲，肺腑盡生春。
+- 溪橋一樹玉精神，香色中間集大成。
+- 疎影逼真前處士，羣花推重老先生。
+- 春回隴首人千里，月到窗前夢五更。
+- 甚欲折來還不忍，歲寒留取看崢嶸。
 
 ## 拼音
 
-- shu1 ying3 ji1 huang2 hun1 ， ming2 ming2 ye3 shui3 bin1 。
-- wei4 feng1 xian1 xin4 xi1 ， wu2 xue3 geng4 jing1 shen2 。
-- yi4 bai2 jian4 zhen1 se4 ， wan4 hong2 sui2 hou4 chen2 。
-- zi4 lai2 hua1 xia4 yin3 ， fei4 fu3 jin4 sheng1 chun1 。
+- xi1 qiao2 yi2 shu4 yu4 jing1 shen2 ， xiang1 se4 zhong1 jian4 ji2 da4 cheng2 。
+- shu1 ying3 bi1 zhen1 qian2 chu3 shi4 ， qun2 hua1 tui1 zhong4 lao3 xian1 sheng0 。
+- chun1 hui2 long3 shou3 ren2 qian1 li3 ， yue4 dao4 chuang1 qian2 meng4 wu3 geng1 。
+- shen4 yu4 zhe2 lai2 huan2 bu4 ren3 ， sui4 han2 liu2 qu3 kan4 zheng1 rong2 。
 
 ## 注释
 

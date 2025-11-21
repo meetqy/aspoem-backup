@@ -6,10 +6,10 @@ titleSlug: pei-zhang-jing-zhou-jiu-ri-deng-gao-yan-shi-zuo-zhong-cheng-er-shuai
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

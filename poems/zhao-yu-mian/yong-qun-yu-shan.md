@@ -6,10 +6,10 @@ titleSlug: yong-qun-yu-shan
 author: 趙與沔
 authorPinyin: zhao4 yu3 mian3
 authorSlug: zhao-yu-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,30 @@
 ---
 id: shi-dao-can-ji-song-shi-ba-shou-qi-yi
-title: 偈頌十八首  其一
-titlePinyin: ji4 song4 shi2 ba1 shou3     qi2 yi1
+title: 偈頌十八首  其一○
+titlePinyin: ji4 song4 shi2 ba1 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-ba-shou-qi-yi
 author: 釋道璨
 authorPinyin: shi4 dao4 can4
 authorSlug: shi-dao-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天高地厚，日盈月昃。
-- 全提半提，天地懸隔。
+- 閙浩浩，閑寂寂。
+- 不動一絲頭，如對萬人敵。
+- 惺惺直是惺惺，歷歷直是歷歷。
+- 捉象亦全其力，捉兔亦全其力。
 
 ## 拼音
 
-- tian1 gao1 di4 hou4 ， ri4 ying2 yue4 ze4 。
-- quan2 ti2 ban4 ti2 ， tian1 di4 xuan2 ge2 。
+- nao4 hao4 hao4 ， xian2 ji4 ji4 。
+- bu2 dong4 yi4 si1 tou2 ， ru2 dui4 wan4 ren2 di2 。
+- xing1 xing1 zhi2 shi4 xing1 xing1 ， li4 li4 zhi2 shi4 li4 li4 。
+- zhuo1 xiang4 yi4 quan2 qi2 li4 ， zhuo1 tu4 yi4 quan2 qi2 li4 。
 
 ## 注释
 

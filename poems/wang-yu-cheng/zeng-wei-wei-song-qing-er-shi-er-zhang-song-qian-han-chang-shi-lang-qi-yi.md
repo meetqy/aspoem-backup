@@ -6,10 +6,10 @@ titleSlug: zeng-wei-wei-song-qing-er-shi-er-zhang-song-qian-han-chang-shi-lang-q
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

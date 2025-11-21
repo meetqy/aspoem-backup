@@ -6,10 +6,10 @@ titleSlug: ou-gan-cheng-su-xian-sheng
 author: 濮本
 authorPinyin: pu2 ben3
 authorSlug: pu-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

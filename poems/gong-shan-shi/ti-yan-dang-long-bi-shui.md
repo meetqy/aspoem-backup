@@ -6,10 +6,10 @@ titleSlug: ti-yan-dang-long-bi-shui
 author: 肱禪師
 authorPinyin: gong1 shan4 shi1
 authorSlug: gong-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

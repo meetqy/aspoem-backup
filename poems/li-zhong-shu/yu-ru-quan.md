@@ -6,10 +6,10 @@ titleSlug: yu-ru-quan
 author: 李仲殊
 authorPinyin: li3 zhong4 shu1
 authorSlug: li-zhong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

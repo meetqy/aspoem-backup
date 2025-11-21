@@ -6,10 +6,10 @@ titleSlug: jiang-yin-jue-ju
 author: 裴若訥
 authorPinyin: pei2 ruo4 ne4
 authorSlug: pei-ruo-ne
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

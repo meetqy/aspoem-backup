@@ -6,10 +6,10 @@ titleSlug: chao-yang-wei-zheng-tai-yu-meng-zhi-quan-ce-yin-zhi-shen-gan-ming-ri-
 author: 唐康
 authorPinyin: tang2 kang1
 authorSlug: tang-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

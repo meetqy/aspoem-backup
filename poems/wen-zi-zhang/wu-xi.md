@@ -6,10 +6,10 @@ titleSlug: wu-xi
 author: 文子璋
 authorPinyin: wen2 zi3 zhang1
 authorSlug: wen-zi-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

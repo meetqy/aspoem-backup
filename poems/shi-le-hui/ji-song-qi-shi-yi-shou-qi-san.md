@@ -1,26 +1,26 @@
 ---
 id: shi-le-hui-ji-song-qi-shi-yi-shou-qi-san
-title: 偈頌七十一首  其三
-titlePinyin: ji4 song4 qi1 shi2 yi4 shou3     qi2 san1
+title: 偈頌七十一首  其三○
+titlePinyin: ji4 song4 qi1 shi2 yi4 shou3     qi2 san1 ○
 titleSlug: ji-song-qi-shi-yi-shou-qi-san
 author: 釋了惠
 authorPinyin: shi4 le0 hui4
 authorSlug: shi-le-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舉步生荆棘，翻身墮嶮崖。
-- 一毫不動著，當處自沉埋。
+- 舊歲已去，去不可追。
+- 新歲當來，來不可拒。
 
 ## 拼音
 
-- ju3 bu4 sheng1 jing1 ji2 ， fan1 shen1 duo4 xian3 ya2 。
-- yi4 hao2 bu2 dong4 zhu4 ， dang1 chu3 zi4 chen2 mai2 。
+- jiu4 sui4 yi3 qu4 ， qu4 bu4 ke3 zhui1 。
+- xin1 sui4 dang1 lai2 ， lai2 bu4 ke3 ju4 。
 
 ## 注释
 

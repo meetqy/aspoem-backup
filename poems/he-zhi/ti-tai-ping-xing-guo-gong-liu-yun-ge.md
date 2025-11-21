@@ -6,9 +6,9 @@ titleSlug: ti-tai-ping-xing-guo-gong-liu-yun-ge
 author: 何致
 authorPinyin: he2 zhi4
 authorSlug: he-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

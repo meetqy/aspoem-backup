@@ -6,25 +6,25 @@ titleSlug: bo-zhou
 author: 趙汝鐩
 authorPinyin: zhao4 ru3 sui4
 authorSlug: zhao-ru-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前頭無泊處，且住荻花林。
-- 水沸知灘淺，煙蜂花在瓶。
-- 呼童治茶具，有客扣柴扃。
-- 共說山林話，休嗟兩鬢星。
+- 舟泊似差早，篙工愛酒坊。
+- 羊羣歸遠隴，柳影戀斜陽。
+- 澤國人千里，暮霞天一方。
+- 茶多不思睡，漁唱聽滄浪。
 
 ## 拼音
 
-- qian2 tou2 wu2 bo2 chu3 ， qie3 zhu4 di2 hua1 lin2 。
-- shui3 fei4 zhi1 tan1 qian3 ， yan1 feng1 hua1 zai4 ping2 。
-- hu1 tong2 zhi4 cha2 ju4 ， you3 ke4 kou4 chai2 jiong1 。
-- gong4 shuo1 shan1 lin2 hua4 ， xiu1 jie1 liang3 bin4 xing1 。
+- zhou1 bo2 si4 cha4 zao3 ， gao1 gong1 ai4 jiu3 fang2 。
+- yang2 qun2 gui1 yuan3 long3 ， liu3 ying3 lian4 xie2 yang2 。
+- ze2 guo2 ren2 qian1 li3 ， mu4 xia2 tian1 yi4 fang1 。
+- cha2 duo1 bu4 si1 shui4 ， yu2 chang4 ting1 cang1 lang4 。
 
 ## 注释
 

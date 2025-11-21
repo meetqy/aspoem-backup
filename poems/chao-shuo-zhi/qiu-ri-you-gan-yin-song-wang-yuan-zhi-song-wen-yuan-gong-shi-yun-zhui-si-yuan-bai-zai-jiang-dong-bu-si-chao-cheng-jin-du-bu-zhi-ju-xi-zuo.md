@@ -6,10 +6,10 @@ titleSlug: qiu-ri-you-gan-yin-song-wang-yuan-zhi-song-wen-yuan-gong-shi-yun-zhui
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

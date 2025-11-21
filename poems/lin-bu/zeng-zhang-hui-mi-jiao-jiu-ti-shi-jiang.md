@@ -1,30 +1,30 @@
 ---
 id: lin-bu-zeng-zhang-hui-mi-jiao-jiu-ti-shi-jiang
-title: 贈張繪秘教九題 詩將
-titlePinyin: zeng4 zhang1 hui4 mi4 jiao4 jiu3 ti2   shi1 jiang1
+title: 贈張繪秘教九題 詩匠
+titlePinyin: zeng4 zhang1 hui4 mi4 jiao4 jiu3 ti2   shi1 jiang4
 titleSlug: zeng-zhang-hui-mi-jiao-jiu-ti-shi-jiang
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風騷推上將，千古聳威名。
-- 子美嘗登拜，昌齡合按行。
-- 籠紗疑旆影，擊鉢認金聲。
-- 唱和知誰敵，長驅勢已成。
+- 詩流有匠手，萬象片心通。
+- 山落分題月，花摇刻句風。
+- 勞形忘底滯，巧思出樊籠。
+- 唐律如刪正，斯人合立功。
 
 ## 拼音
 
-- feng1 sao1 tui1 shang4 jiang1 ， qian1 gu3 song3 wei1 ming2 。
-- zi3 mei3 chang2 deng1 bai4 ， chang1 ling2 he2 an4 xing2 。
-- long2 sha1 yi2 pei4 ying3 ， ji1 bo1 ren4 jin1 sheng1 。
-- chang4 he4 zhi1 shui2 di2 ， chang2 qu1 shi4 yi3 cheng2 。
+- shi1 liu2 you3 jiang4 shou3 ， wan4 xiang4 pian4 xin1 tong1 。
+- shan1 luo4 fen1 ti2 yue4 ， hua1 yao2 ke4 ju4 feng1 。
+- lao2 xing2 wang4 di3 zhi4 ， qiao3 si1 chu1 fan2 long2 。
+- tang2 lü4 ru2 shan1 zheng4 ， si1 ren2 he2 li4 gong1 。
 
 ## 注释
 

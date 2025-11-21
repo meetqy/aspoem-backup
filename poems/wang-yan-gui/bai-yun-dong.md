@@ -6,10 +6,10 @@ titleSlug: bai-yun-dong
 author: 王延軌
 authorPinyin: wang2 yan2 gui3
 authorSlug: wang-yan-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,25 @@ titleSlug: fan-zhou
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出郭已清思，浮舟暫長嘯。
-- 水雲兩涵泳，青翠相照耀。
-- 賞心隨值遇，物色相顧召。
-- 逍遥忘迴期，頃刻攬衆妙。
-- 白鷗亦知機，潛魚不可釣。
-- 飛沉信樂然，迴首寄一笑。
+- 野境尋不盡，幽歡良自如。
+- 猶疑夢爲鳥，誰謂子非魚。
+- 岸樹綠已合，渚蒲長且疏。
+- 逍遥此中意，何減漆園書。
 
 ## 拼音
 
-- chu1 guo1 yi3 qing1 si1 ， fu2 zhou1 zan4 chang2 xiao4 。
-- shui3 yun2 liang3 han2 yong3 ， qing1 cui4 xiang1 zhao4 yao4 。
-- shang3 xin1 sui2 zhi2 yu4 ， wu4 se4 xiang4 gu4 zhao4 。
-- xiao1 yao2 wang4 hui2 qi1 ， qing3 ke4 lan3 zhong4 miao4 。
-- bai2 ou1 yi4 zhi1 ji1 ， qian2 yu2 bu4 ke3 diao4 。
-- fei1 chen2 xin4 le4 ran2 ， hui2 shou3 ji4 yi2 xiao4 。
+- ye3 jing4 xun2 bu2 jin4 ， you1 huan1 liang2 zi4 ru2 。
+- you2 yi2 meng4 wei2 niao3 ， shui2 wei4 zi3 fei1 yu2 。
+- an4 shu4 lü4 yi3 he2 ， zhu3 pu2 chang2 qie3 shu1 。
+- xiao1 yao2 ci3 zhong4 yi4 ， he2 jian3 qi1 yuan2 shu1 。
 
 ## 注释
 

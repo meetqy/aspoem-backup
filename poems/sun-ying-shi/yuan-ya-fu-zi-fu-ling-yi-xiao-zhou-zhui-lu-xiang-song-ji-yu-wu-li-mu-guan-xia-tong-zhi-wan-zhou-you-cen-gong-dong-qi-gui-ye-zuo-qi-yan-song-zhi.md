@@ -6,10 +6,10 @@ titleSlug: yuan-ya-fu-zi-fu-ling-yi-xiao-zhou-zhui-lu-xiang-song-ji-yu-wu-li-mu-
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhong-xia-shang-yue-ci-xue-zhai-yun-er-shou-qi-er
 author: 司馬述
 authorPinyin: si1 ma3 shu4
 authorSlug: si-ma-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

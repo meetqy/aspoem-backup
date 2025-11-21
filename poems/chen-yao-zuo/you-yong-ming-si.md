@@ -6,10 +6,10 @@ titleSlug: you-yong-ming-si
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
 authorSlug: chen-yao-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

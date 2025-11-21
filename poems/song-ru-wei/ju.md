@@ -6,9 +6,9 @@ titleSlug: ju
 author: 宋汝爲
 authorPinyin: song4 ru3 wei2
 authorSlug: song-ru-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

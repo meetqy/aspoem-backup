@@ -6,21 +6,21 @@ titleSlug: yu-tai-ti-qi-er
 author: 利登
 authorPinyin: li4 deng1
 authorSlug: li-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六曲鴛屏紫玉環，寐衣紅地繡雙鸞。
-- 相思未必君如我，一夜芙蓉翠露寒。
+- 濃綠千竿湑欲流，春風疑只在池頭。
+- 相思一夕天相似，望斷西南四百州。
 
 ## 拼音
 
-- liu4 qu3 yuan1 ping2 zi3 yu4 huan2 ， mei4 yi1 hong2 di4 xiu4 shuang1 luan2 。
-- xiang1 si1 wei4 bi4 jun1 ru2 wo3 ， yi2 ye4 fu2 rong2 cui4 lu4 han2 。
+- nong2 lü4 qian1 gan1 xu3 yu4 liu2 ， chun1 feng1 yi2 zhi1 zai4 chi2 tou2 。
+- xiang1 si1 yi4 xi1 tian1 xiang1 si4 ， wang4 duan4 xi1 nan2 si4 bai3 zhou1 。
 
 ## 注释
 

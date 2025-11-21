@@ -6,33 +6,25 @@ titleSlug: you-gan-san-shou-qi-san
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古今不殊途，掩卷獨長想。
-- 炎爐與死灰，相去如反掌。
-- 彼昏誠不知，一醉富莫量。
-- 那知道旁殍，曾是厭盃盎。
-- 一金短販兒，豈暇議得喪。
-- 但憐反覆間，觀者爲惆悵。
-- 聖賢蹈大方，不苟目前妄。
-- 寄身愛憎間，得失真一餉。
+- 南風霏霏麥花落，豆田漠漠初垂角。
+- 山邊夜半一犂雨，田父高歌待收穫。
+- 雨多蕭蕭蠶簇寒，蠶婦低眉憂繭單。
+- 人生多求復多怨，天工供爾良獨難。
 
 ## 拼音
 
-- gu3 jin1 bu4 shu1 tu2 ， yan3 juan4 du2 chang2 xiang3 。
-- yan2 lu2 yu3 si3 hui1 ， xiang1 qu4 ru2 fan3 zhang3 。
-- bi3 hun1 cheng2 bu4 zhi1 ， yi2 zui4 fu4 mo4 liang2 。
-- na4 zhi1 dao4 pang2 piao3 ， ceng2 shi4 yan4 bei1 ang4 。
-- yi4 jin1 duan3 fan4 er2 ， qi3 xia2 yi4 de2 sang1 。
-- dan4 lian2 fan3 fu4 jian4 ， guan1 zhe3 wei2 chou2 chang4 。
-- sheng4 xian2 dao3 da4 fang1 ， bu4 gou3 mu4 qian2 wang4 。
-- ji4 shen1 ai4 zeng1 jian4 ， de2 shi1 zhen1 yi4 xiang3 。
+- nan2 feng1 fei1 fei1 mai4 hua1 luo4 ， dou4 tian2 mo4 mo4 chu1 chui2 jiao3 。
+- shan1 bian1 ye4 ban4 yi4 li2 yu3 ， tian2 fu4 gao1 ge1 dai4 shou1 huo4 。
+- yu3 duo1 xiao1 xiao1 can2 cu4 han2 ， can2 fu4 di1 mei2 you1 jian3 dan1 。
+- ren2 sheng1 duo1 qiu2 fu4 duo1 yuan4 ， tian1 gong1 gong4 er3 liang2 du2 nan2 。
 
 ## 注释
 

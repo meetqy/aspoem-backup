@@ -6,9 +6,9 @@ titleSlug: ju
 author: 符昭遠
 authorPinyin: fu2 zhao1 yuan3
 authorSlug: fu-zhao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,28 +1,28 @@
 ---
 id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-qi-yi-jiu
-title: 偈頌一百二十三首  其一九
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 jiu3
+title: 偈頌一百二十三首  其一○九
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ○ jiu3
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-jiu
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今朝結制，叢林體例。
-- 長期短期，似兀如癡。
-- 離四句，絕百非，大家相聚喫莖虀。
+- 今朝月半，見成公案。
+- 臨濟德山，猶是鈍漢。
+- 靈隠恁麽道，也是不著便。
 
 ## 拼音
 
-- jin1 zhao1 jie2 zhi4 ， cong2 lin2 ti3 li4 。
-- chang2 qi1 duan3 qi1 ， si4 wu4 ru2 chi1 。
-- li2 si4 ju4 ， jue2 bai3 fei1 ， da4 jia1 xiang1 ju4 chi1 jing4 ji1 。
+- jin1 zhao1 yue4 ban4 ， jian4 cheng2 gong1 an4 。
+- lin2 ji4 de2 shan1 ， you2 shi4 dun4 han4 。
+- ling2 yin3 nen4 mo2 dao4 ， ye3 shi4 bu2 zhu4 bian4 。
 
 ## 注释
 

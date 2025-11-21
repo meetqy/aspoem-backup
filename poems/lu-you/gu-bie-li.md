@@ -6,29 +6,33 @@ titleSlug: gu-bie-li
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孤城窮巷秋寂寂，美人停梭夜嘆息。
-- 空園露濕荆棘枝，荒蹊月照狐狸迹。
-- 憶君去時兒在腹，走如黄犢爺未識。
-- 紫姑吉語元無據，况憑瓦兆占歸日。
-- 嫁来不省出門前，魂夢何因識酒泉。
-- 粉綿磨鏡不忍照，女子盛時無十年。
+- 君北遊司并，我南適熊湘。
+- 邂逅淮陰市，共飲官道傍。
+- 丈夫各有懷，窮達詎可量。
+- 臨别一取醉，浩歌神激揚。
+- 勲業有際會，風雲正蒼茫。
+- 亂點劍峰血，苦寒芒屨霜。
+- 死即萬鬼鄰，生當致虞唐。
+- 丹雞不須盟，我非兒女腸。
 
 ## 拼音
 
-- gu1 cheng2 qiong2 xiang4 qiu1 ji4 ji4 ， mei3 ren2 ting2 suo1 ye4 tan4 xi1 。
-- kong1 yuan2 lu4 shi1 jing1 ji2 zhi1 ， huang1 qi1 yue4 zhao4 hu2 li0 ji4 。
-- yi4 jun1 qu4 shi2 er2 zai4 fu4 ， zou3 ru2 huang2 du2 ye2 wei4 shi2 。
-- zi3 gu1 ji2 yu3 yuan2 wu2 ju4 ， kuang4 ping2 wa3 zhao4 zhan4 gui1 ri4 。
-- jia4 lai2 bu4 sheng3 chu1 men2 qian2 ， hun2 meng4 he2 yin1 shi2 jiu3 quan2 。
-- fen3 mian2 mo2 jing4 bu4 ren3 zhao4 ， nü3 zi3 sheng4 shi2 wu2 shi2 nian2 。
+- jun1 bei3 you2 si1 bing4 ， wo3 nan2 shi4 xiong2 xiang1 。
+- xie4 hou4 huai2 yin1 shi4 ， gong4 yin3 guan1 dao4 bang4 。
+- zhang4 fu1 ge4 you3 huai2 ， qiong2 da2 ju4 ke3 liang2 。
+- lin2 bie2 yi4 qu3 zui4 ， hao4 ge1 shen2 ji1 yang2 。
+- xun1 ye4 you3 ji4 hui4 ， feng1 yun2 zheng4 cang1 mang2 。
+- luan4 dian3 jian4 feng1 xue4 ， ku3 han2 mang2 ju4 shuang1 。
+- si3 ji2 wan4 gui3 lin2 ， sheng1 dang1 zhi4 yu2 tang2 。
+- dan1 ji1 bu4 xu1 meng2 ， wo3 fei1 er2 nü3 chang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ma-shang-yin
 author: 湯莘叟
 authorPinyin: tang1 shen1 sou3
 authorSlug: tang-shen-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

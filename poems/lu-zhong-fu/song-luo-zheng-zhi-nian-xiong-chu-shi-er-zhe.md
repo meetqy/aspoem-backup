@@ -6,10 +6,10 @@ titleSlug: song-luo-zheng-zhi-nian-xiong-chu-shi-er-zhe
 author: 呂仲甫
 authorPinyin: lü3 zhong4 fu3
 authorSlug: lu-zhong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

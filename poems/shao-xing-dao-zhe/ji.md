@@ -6,10 +6,10 @@ titleSlug: ji
 author: 紹興道者
 authorPinyin: shao4 xing1 dao4 zhe3
 authorSlug: shao-xing-dao-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

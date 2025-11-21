@@ -6,10 +6,10 @@ titleSlug: ru-shang-jiang-gui-wu-xing-qi-zhou-ji-shi-su-zi-you-ru-shi-wei-song-y
 author: 俞汝尚
 authorPinyin: yu2 ru3 shang4
 authorSlug: yu-ru-shang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

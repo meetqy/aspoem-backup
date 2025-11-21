@@ -6,25 +6,25 @@ titleSlug: li-zi
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 挺秀窮荒歎未遭，昔賢吟賞著風騷。
-- 縱班盧橘材非偶，不近長安價愈高。
-- 烟雨萬株遥若畫，塵埃一騎笑徒勞。
-- 琱盤此日無遺選，品格妍媸敢自逃。
+- 炎蒸午枕夢滄浪，落落星苞喜乍嘗。
+- 筆下丹青千品色，釵頭風露一枝香。
+- 鷄冠借諭何輕許，馬乳爭名固不量。
+- 直待當時妃子笑，驪山千古事淒涼。
 
 ## 拼音
 
-- ting3 xiu4 qiong2 huang1 tan4 wei4 zao1 ， xi1 xian2 yin2 shang3 zhu4 feng1 sao1 。
-- zong4 ban1 lu2 ju2 cai2 fei1 ou3 ， bu2 jin4 chang2 an1 jia4 yu4 gao1 。
-- yan1 yu3 wan4 zhu1 yao2 ruo4 hua4 ， chen2 ai1 yi4 qi2 xiao4 tu2 lao2 。
-- diao1 pan2 ci3 ri4 wu2 yi2 xuan3 ， pin3 ge2 yan2 chi1 gan3 zi4 tao2 。
+- yan2 zheng1 wu3 zhen3 meng4 cang1 lang4 ， luo4 luo4 xing1 bao1 xi3 zha4 chang2 。
+- bi3 xia4 dan1 qing1 qian1 pin3 se4 ， chai1 tou2 feng1 lu4 yi4 zhi1 xiang1 。
+- ji1 guan1 jie4 yu4 he2 qing1 xu1 ， ma3 ru3 zheng1 ming2 gu4 bu4 liang2 。
+- zhi2 dai4 dang1 shi2 fei1 zi0 xiao4 ， li2 shan1 qian1 gu3 shi4 qi1 liang2 。
 
 ## 注释
 

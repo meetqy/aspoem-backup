@@ -6,25 +6,25 @@ titleSlug: zong-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 凍研笑臞儒，雕弓隱獵徒。
-- 不成平趙魏，正可老江湖。
-- 憔悴頭雖秃，輪囷膽尚粗。
-- 咸陽呼五白，何遽不能盧。
+- 天下本無事，吾生行且休。
+- 關心惟酒盞，入眼獨漁舟。
+- 雁過三湘曉，雲開二華秋。
+- 殷勤驛樓柱，小草記曾遊。
 
 ## 拼音
 
-- dong4 yan2 xiao4 qu2 ru2 ， diao1 gong1 yin3 lie4 tu2 。
-- bu4 cheng2 ping2 zhao4 wei4 ， zheng4 ke3 lao3 jiang1 hu2 。
-- qiao2 cui4 tou2 sui1 tu1 ， lun2 qun1 dan3 shang4 cu1 。
-- xian2 yang2 hu1 wu3 bai2 ， he2 ju4 bu4 neng2 lu2 。
+- tian1 xia4 ben3 wu2 shi4 ， wu2 sheng1 xing2 qie3 xiu1 。
+- guan1 xin1 wei2 jiu3 zhan3 ， ru4 yan3 du2 yu2 zhou1 。
+- yan4 guo4 san1 xiang1 xiao3 ， yun2 kai1 er4 hua2 qiu1 。
+- yin1 qin2 yi4 lou2 zhu4 ， xiao3 cao3 ji4 ceng2 you2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: san-gao-tang
 author: 黄潛
 authorPinyin: huang2 qian2
 authorSlug: huang-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

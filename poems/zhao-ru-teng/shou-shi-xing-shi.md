@@ -6,35 +6,37 @@ titleSlug: shou-shi-xing-shi
 author: 趙汝騰
 authorPinyin: zhao4 ru3 teng2
 authorSlug: zhao-ru-teng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 岷峨儲英賢，一例皆家食。
-- 公亦淹海角，麾節猶赫奕。
-- 七閩政多幸，福星照南極。
-- 輕裘鎮鈴閤，使斧光衛戟。
-- 門弧初度臨，和氣徧阡陌。
-- 宿雨洗瘴氛，朔雲報寒色。
-- 前期爲重九，後期爲至日。
-- 中間産蜀珍，天意扶陽脈。
-- 願言愛剛健，他日壽王國。
+- 羨公博學今揚雄，未許蜀珍專瑞蜀。
+- 喜公奉使今鮮于，又見福星來照福。
+- 我初敬公因讜疏，萬言批鱗折五鹿。
+- 我轉敬公緣清操，高吟放鶴孤山麓。
+- 今茲仗斧更仁厚，庭草不鋤生意足。
+- 憂時兩鬢白髮增，愛賢一念緇衣篤。
+- 衰予歸卧西河上，都騎時來尋澗谷。
+- 清言竟日無盡藏，想見胸中幾天祿。
+- 若人盍置論思地，垂弧定有鋒車趣。
+- 去年五言稱公壽，今年笑指湖山綠。
 
 ## 拼音
 
-- min2 e2 chu3 ying1 xian2 ， yi2 li4 jie1 jia1 shi2 。
-- gong1 yi4 yan1 hai3 jiao3 ， hui1 jie2 you2 he4 yi4 。
-- qi1 min3 zheng4 duo1 xing4 ， fu2 xing1 zhao4 nan2 ji2 。
-- qing1 qiu2 zhen4 ling2 he2 ， shi3 fu3 guang1 wei4 ji3 。
-- men2 hu2 chu1 du4 lin2 ， he2 qi4 bian4 qian1 mo4 。
-- su4 yu3 xi3 zhang4 fen1 ， shuo4 yun2 bao4 han2 se4 。
-- qian2 qi1 wei2 chong2 jiu3 ， hou4 qi1 wei2 zhi4 ri4 。
-- zhong1 jian4 chan3 shu3 zhen1 ， tian1 yi4 fu2 yang2 mai4 。
-- yuan4 yan2 ai4 gang1 jian4 ， ta1 ri4 shou4 wang2 guo2 。
+- xian4 gong1 bo2 xue2 jin1 yang2 xiong2 ， wei4 xu1 shu3 zhen1 zhuan1 rui4 shu3 。
+- xi3 gong1 feng4 shi3 jin1 xian1 yu2 ， you4 jian4 fu2 xing1 lai2 zhao4 fu2 。
+- wo3 chu1 jing4 gong1 yin1 dang3 shu1 ， wan4 yan2 pi1 lin2 zhe2 wu3 lu4 。
+- wo3 zhuan3 jing4 gong1 yuan2 qing1 cao1 ， gao1 yin2 fang4 he4 gu1 shan1 lu4 。
+- jin1 zi1 zhang4 fu3 geng4 ren2 hou4 ， ting2 cao3 bu4 chu2 sheng1 yi4 zu2 。
+- you1 shi2 liang3 bin4 bai2 fa4 zeng1 ， ai4 xian2 yi2 nian4 zi1 yi1 du3 。
+- shuai1 yu3 gui1 wo4 xi1 he2 shang4 ， dou1 qi2 shi2 lai2 xun2 jian4 gu3 。
+- qing1 yan2 jing4 ri4 wu2 jin4 cang2 ， xiang3 jian4 xiong1 zhong1 ji1 tian1 lu4 。
+- ruo4 ren2 he2 zhi4 lun4 si1 di4 ， chui2 hu2 ding4 you3 feng1 ju1 qu4 。
+- qu4 nian2 wu3 yan2 cheng1 gong1 shou4 ， jin1 nian2 xiao4 zhi3 hu2 shan1 lü4 。
 
 ## 注释
 

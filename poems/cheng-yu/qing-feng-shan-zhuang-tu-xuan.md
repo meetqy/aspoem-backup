@@ -6,10 +6,10 @@ titleSlug: qing-feng-shan-zhuang-tu-xuan
 author: 程瑀
 authorPinyin: cheng2 yu3
 authorSlug: cheng-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

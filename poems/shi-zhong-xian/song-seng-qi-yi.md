@@ -6,21 +6,21 @@ titleSlug: song-seng-qi-yi
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅芍藥邊方舞蝶，碧梧桐裏正啼鶯。
-- 離亭不折依依柳，況有春山送又迎。
+- 乘興飛帆别翠峰，水光春靜冷涵空。
+- 到人若問曹溪意，祇報盧能在下風。
 
 ## 拼音
 
-- hong2 shao2 yao4 bian1 fang1 wu3 die2 ， bi4 wu2 tong2 li3 zheng4 ti2 ying1 。
-- li2 ting2 bu4 zhe2 yi1 yi1 liu3 ， kuang4 you3 chun1 shan1 song4 you4 ying2 。
+- cheng2 xing1 fei1 fan1 bie2 cui4 feng1 ， shui3 guang1 chun1 jing4 leng3 han2 kong1 。
+- dao4 ren2 ruo4 wen4 cao2 xi1 yi4 ， qi2 bao4 lu2 neng2 zai4 xia4 feng1 。
 
 ## 注释
 

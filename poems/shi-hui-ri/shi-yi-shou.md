@@ -6,9 +6,9 @@ titleSlug: shi-yi-shou
 author: 釋慧日
 authorPinyin: shi4 hui4 ri4
 authorSlug: shi-hui-ri
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

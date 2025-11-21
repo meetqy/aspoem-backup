@@ -14,12 +14,12 @@ tags: []
 
 ## 正文
 
-- 雪凍陰河半夜風，戰回狂寇血漂紅。
-- 據鞍遥指長安路，須刻麟臺第一功。
+- 雪凍陰河半夜風，戰回狂虜血漂紅。
+- 據鞍遙指長安路，須刻麟臺第一功。
 
 ## 拼音
 
-- xue3 dong4 yin1 he2 ban4 ye4 feng1 ， zhan4 hui2 kuang2 kou4 xue4 piao1 hong2 。
+- xue3 dong4 yin1 he2 ban4 ye4 feng1 ， zhan4 hui2 kuang2 lu3 xue4 piao1 hong2 。
 - ju4 an1 yao2 zhi3 chang2 an1 lu4 ， xu1 ke4 lin2 tai2 di4 yi1 gong1 。
 
 ## 注释

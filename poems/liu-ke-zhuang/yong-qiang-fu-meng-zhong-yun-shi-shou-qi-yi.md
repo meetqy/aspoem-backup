@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-yong-qiang-fu-meng-zhong-yun-shi-shou-qi-yi
-title: 用强甫蒙仲韻十首  其一
-titlePinyin: yong4 qiang2 fu3 meng2 zhong4 yun4 shi2 shou3     qi2 yi1
+title: 用强甫蒙仲韻十首  其一○
+titlePinyin: yong4 qiang2 fu3 meng2 zhong4 yun4 shi2 shou3     qi2 yi1 ○
 titleSlug: yong-qiang-fu-meng-zhong-yun-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病著經旬卧小齋，一窗螢雪與誰偕。
-- 季宣易尚資到溉，茂叔書曾取壽涯。
-- 志苦白頭寧退惰，論孤黄吻競攻排。
-- 兔園冊子俱拈起，且放芙蓉月照懷。
+- 先生擬把衣冠挂，穉子能操杖履從。
+- 叔夜只堪伴魚鳥，子雲何至况蛇龍。
+- 豹皮尚欲留名死，雞肋安知與怒逢。
+- 老去自鳴還自止，簣桴何敢間金鐘。
 
 ## 拼音
 
-- bing4 zhu4 jing1 xun2 wo4 xiao3 zhai1 ， yi4 chuang1 ying2 xue3 yu3 shui2 xie2 。
-- ji4 xuan1 yi4 shang4 zi1 dao4 gai4 ， mao4 shu1 shu1 ceng2 qu3 shou4 ya2 。
-- zhi4 ku3 bai2 tou2 ning2 tui4 duo4 ， lun4 gu1 huang2 wen3 jing4 gong1 pai2 。
-- tu4 yuan2 ce4 zi3 ju4 nian1 qi3 ， qie3 fang4 fu2 rong2 yue4 zhao4 huai2 。
+- xian1 sheng0 ni3 ba3 yi1 guan1 gua4 ， zhi4 zi3 neng2 cao1 zhang4 lü3 cong2 。
+- shu1 ye4 zhi1 kan1 ban4 yu2 niao3 ， zi3 yun2 he2 zhi4 kuang4 she2 long2 。
+- bao4 pi2 shang4 yu4 liu2 ming2 si3 ， ji1 lei4 an1 zhi1 yu3 nu4 feng2 。
+- lao3 qu4 zi4 ming2 huan2 zi4 zhi3 ， kui4 fu2 he2 gan3 jian4 jin1 zhong1 。
 
 ## 注释
 

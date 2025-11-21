@@ -6,10 +6,10 @@ titleSlug: su-zi-zhan-yin-jiao-xi-zhao-ming-shu-fu-bao-bo-jiu-du-xiao-xi-chao-ya
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

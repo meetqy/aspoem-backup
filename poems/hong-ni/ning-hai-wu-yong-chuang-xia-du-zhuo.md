@@ -6,10 +6,10 @@ titleSlug: ning-hai-wu-yong-chuang-xia-du-zhuo
 author: 洪擬
 authorPinyin: hong2 ni3
 authorSlug: hong-ni
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

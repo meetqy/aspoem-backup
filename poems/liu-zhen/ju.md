@@ -6,19 +6,19 @@ titleSlug: ju
 author: 劉鎮
 authorPinyin: liu2 zhen4
 authorSlug: liu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 須知失馬事，莫廢獲麟書。
+- 始終無玷缺，出處最光明。
 
 ## 拼音
 
-- xu1 zhi1 shi1 ma3 shi4 ， mo4 fei4 huo4 lin2 shu1 。
+- shi3 zhong1 wu2 dian4 que1 ， chu1 chu3 zui4 guang1 ming2 。
 
 ## 注释
 

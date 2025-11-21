@@ -6,10 +6,10 @@ titleSlug: ti-chu-fu-gong-yu-zhen-gong-zhu-xiang
 author: 沈少南
 authorPinyin: shen3 shao3 nan2
 authorSlug: shen-shao-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

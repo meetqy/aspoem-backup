@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 垂拱凌晨百辟朝，鳴鞘風引徹璇霄。
-- 鴛鸞雜遝趨鱗砌，無限黄金重滿腰。
+- 日上觚稜氣鬱葱，露華猶泠玉芙蓉。
+- 錦幃繡幕風光暖，瓊葉珠花影漸重。
 
 ## 拼音
 
-- chui2 gong3 ling2 chen2 bai3 pi4 chao2 ， ming2 qiao4 feng1 yin3 che4 xuan2 xiao1 。
-- yuan1 luan2 za2 ta4 qu1 lin2 qi4 ， wu2 xian4 huang2 jin1 zhong4 man3 yao1 。
+- ri4 shang4 gu1 leng2 qi4 yu4 cong1 ， lu4 hua2 you2 ling2 yu4 fu2 rong2 。
+- jin3 wei2 xiu4 mu4 feng1 guang1 nuan3 ， qiong2 ye4 zhu1 hua1 ying3 jian4 zhong4 。
 
 ## 注释
 

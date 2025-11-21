@@ -6,21 +6,21 @@ titleSlug: fu-ren-he-chun-tie-zi-qi-yi
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 臘雪餘香徑，朝暉上綺甍。
-- 翠生蘭蕙色，和入管絃聲。
+- 漸暖正當挑菜日，輕陰新變養花天。
+- 君王勤政稀游幸，院院相過理管絃。
 
 ## 拼音
 
-- la4 xue3 yu2 xiang1 jing4 ， chao2 hui1 shang4 qi3 meng2 。
-- cui4 sheng1 lan2 hui4 se4 ， he2 ru4 guan3 xian2 sheng1 。
+- jian4 nuan3 zheng4 dang1 tiao1 cai4 ri4 ， qing1 yin1 xin1 bian4 yang3 hua1 tian1 。
+- jun1 wang2 qin2 zheng4 xi1 you2 xing4 ， yuan4 yuan4 xiang1 guo4 li3 guan3 xian2 。
 
 ## 注释
 

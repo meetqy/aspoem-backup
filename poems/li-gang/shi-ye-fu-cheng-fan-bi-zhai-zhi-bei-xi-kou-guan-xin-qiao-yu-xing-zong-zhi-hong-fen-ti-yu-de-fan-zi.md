@@ -6,10 +6,10 @@ titleSlug: shi-ye-fu-cheng-fan-bi-zhai-zhi-bei-xi-kou-guan-xin-qiao-yu-xing-zong
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

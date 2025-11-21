@@ -1,28 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-jiu
-title: 偈頌二百零五首  其九
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 jiu3
+title: 偈頌二百零五首  其九○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 jiu3 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-jiu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 劫前機，肘後印，用而無痕，空而不盡。
-- 是誰造作大千，出自虛明方寸。
-- 你儂欲去泥瘢，匠石不慳斤運。
+- 主中主，須辨取。
+- 動犯威嚴，細看規矩。
+- 貴不可得其名，壽不可窮其數。
+- 四溟潮落露仙山，萬里雲開廓天宇。
 
 ## 拼音
 
-- jie2 qian2 ji1 ， zhou3 hou4 yin4 ， yong4 er2 wu2 hen2 ， kong1 er2 bu2 jin4 。
-- shi4 shui2 zao4 zuo4 da4 qian1 ， chu1 zi4 xu1 ming2 fang1 cun4 。
-- ni3 nong2 yu4 qu4 ni2 ban1 ， jiang4 shi2 bu4 qian1 jin1 yun4 。
+- zhu3 zhong1 zhu3 ， xu1 bian4 qu3 。
+- dong4 fan4 wei1 yan2 ， xi4 kan4 gui1 ju3 。
+- gui4 bu4 ke3 de2 qi2 ming2 ， shou4 bu4 ke3 qiong2 qi2 shu4 。
+- si4 ming2 chao2 luo4 lu4 xian1 shan1 ， wan4 li3 yun2 kai1 kuo4 tian1 yu3 。
 
 ## 注释
 

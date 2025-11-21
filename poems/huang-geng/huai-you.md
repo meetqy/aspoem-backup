@@ -6,25 +6,21 @@ titleSlug: huai-you
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柴門春事盡，未見故人來。
-- 樹密鳥相語，山空花自開。
-- 傾心多日別，屈指幾時回。
-- 爲問頻書札，何時共酒杯。
+- 聽雨思君淚欲流，簷聲滴老鬢邊秋。
+- 何時過我晴窗下，共話思君聽雨愁。
 
 ## 拼音
 
-- chai2 men2 chun1 shi4 jin4 ， wei4 jian4 gu4 ren2 lai2 。
-- shu4 mi4 niao3 xiang1 yu3 ， shan1 kong1 hua1 zi4 kai1 。
-- qing1 xin1 duo1 ri4 bie2 ， qu1 zhi3 ji1 shi2 hui2 。
-- wei2 wen4 bin1 shu1 zha2 ， he2 shi2 gong4 jiu3 bei1 。
+- ting1 yu3 si1 jun1 lei4 yu4 liu2 ， yan2 sheng1 di1 lao3 bin4 bian1 qiu1 。
+- he2 shi2 guo4 wo3 qing2 chuang1 xia4 ， gong4 hua4 si1 jun1 ting1 yu3 chou2 。
 
 ## 注释
 

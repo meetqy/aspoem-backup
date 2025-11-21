@@ -6,10 +6,10 @@ titleSlug: shui-xi-si
 author: 曾子公
 authorPinyin: ceng2 zi3 gong1
 authorSlug: ceng-zi-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

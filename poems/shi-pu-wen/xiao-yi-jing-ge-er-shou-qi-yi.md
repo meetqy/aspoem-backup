@@ -6,10 +6,10 @@ titleSlug: xiao-yi-jing-ge-er-shou-qi-yi
 author: 釋普聞
 authorPinyin: shi4 pu3 wen2
 authorSlug: shi-pu-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

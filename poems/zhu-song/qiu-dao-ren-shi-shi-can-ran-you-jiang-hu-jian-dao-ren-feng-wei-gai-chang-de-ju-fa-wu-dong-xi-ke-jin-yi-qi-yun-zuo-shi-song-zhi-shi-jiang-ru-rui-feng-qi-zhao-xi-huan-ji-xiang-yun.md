@@ -6,9 +6,9 @@ titleSlug: qiu-dao-ren-shi-shi-can-ran-you-jiang-hu-jian-dao-ren-feng-wei-gai-ch
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: tai-zi-tai-bao-zhi-shi-li-gong-wan-ci-er-shou-qi-yi
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

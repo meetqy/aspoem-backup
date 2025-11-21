@@ -6,10 +6,10 @@ titleSlug: ti-yue-ren-he-han-si-hu-ling-zi-de-ju-shi-juan
 author: 葛紹體
 authorPinyin: ge3 shao4 ti3
 authorSlug: ge-shao-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: er-jue-ju-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衙齋無事雨初晴，山澤有容春向深。
-- 何物東風吹不散，祇應多病謫官心。
+- 幽窗老客寒無睡，長聽城樓曉角悲。
+- 萬里滄溟初浴日，暗雞先向草間知。
 
 ## 拼音
 
-- ya2 zhai1 wu2 shi4 yu3 chu1 qing2 ， shan1 ze2 you3 rong2 chun1 xiang4 shen1 。
-- he2 wu4 dong1 feng1 chui1 bu2 san4 ， qi2 ying1 duo1 bing4 zhe2 guan1 xin1 。
+- you1 chuang1 lao3 ke4 han2 wu2 shui4 ， chang2 ting1 cheng2 lou2 xiao3 jiao3 bei1 。
+- wan4 li3 cang1 ming2 chu1 yu4 ri4 ， an4 ji1 xian1 xiang4 cao3 jian4 zhi1 。
 
 ## 注释
 

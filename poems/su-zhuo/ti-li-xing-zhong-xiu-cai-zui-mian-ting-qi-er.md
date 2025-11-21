@@ -6,10 +6,10 @@ titleSlug: ti-li-xing-zhong-xiu-cai-zui-mian-ting-qi-er
 author: 蘇棁
 authorPinyin: su1 zhuo1
 authorSlug: su-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

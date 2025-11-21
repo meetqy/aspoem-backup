@@ -6,10 +6,10 @@ titleSlug: jin-ci-jun-yi-she-ren-ji-ti-hui-shan-cui-lu-ting-yun
 author: 焦千之
 authorPinyin: jiao1 qian1 zhi1
 authorSlug: jiao-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

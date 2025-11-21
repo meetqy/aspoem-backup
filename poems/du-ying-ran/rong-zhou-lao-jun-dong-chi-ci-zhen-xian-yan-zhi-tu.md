@@ -6,10 +6,10 @@ titleSlug: rong-zhou-lao-jun-dong-chi-ci-zhen-xian-yan-zhi-tu
 author: 杜應然
 authorPinyin: du4 ying1 ran2
 authorSlug: du-ying-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

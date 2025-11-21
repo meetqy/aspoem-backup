@@ -9,7 +9,7 @@ authorSlug: tai-zong-huang-di-li-shi-min
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

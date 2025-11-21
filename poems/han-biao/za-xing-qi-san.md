@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-san
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲雷布凉雨，早稻葉翻翻。
-- 携鋤走畦町，惜水不厭渾。
-- 吾方卧澗壑，人奚識丘園。
-- 望歲可以飽，高歌誦虞軒。
+- 潤色初分嵐影飄，細看莽莽近迢迢。
+- 山楹川觀誰能到，禽鳥飛鳴亦自驕。
 
 ## 拼音
 
-- yun2 lei2 bu4 liang2 yu3 ， zao3 dao4 ye4 fan1 fan1 。
-- xie2 chu2 zou3 qi2 ting3 ， xi1 shui3 bu2 yan4 hun2 。
-- wu2 fang1 wo4 jian4 he4 ， ren2 xi1 shi2 qiu1 yuan2 。
-- wang4 sui4 ke3 yi3 bao3 ， gao1 ge1 song4 yu2 xuan1 。
+- run4 se4 chu1 fen1 lan2 ying3 piao1 ， xi4 kan4 mang3 mang3 jin4 tiao2 tiao2 。
+- shan1 ying2 chuan1 guan1 shui2 neng2 dao4 ， qin2 niao3 fei1 ming2 yi4 zi4 jiao1 。
 
 ## 注释
 

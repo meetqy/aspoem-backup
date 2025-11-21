@@ -9,22 +9,22 @@ authorSlug: guan-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 端居碧雲暮，好鳥啼紅芳。
-- 滿郭桃李熟，捲簾風雨香。
-- 清吟繡段句，默念芙蓉章。
-- 未得歸山去，頻升謝守堂。
+- 山風與霜氣，浩浩滿松枝。
+- 永日燒杉子，無人共此時。
+- 爲文攀諷諫，得道在毫釐。
+- 唯有桐江守，常憐志不卑。
 
 ## 拼音
 
-- duan1 ju1 bi4 yun2 mu4 ， hao3 niao3 ti2 hong2 fang1 。
-- man3 guo1 tao2 li3 shu2 ， juan3 lian2 feng1 yu3 xiang1 。
-- qing1 yin2 xiu4 duan4 ju4 ， mo4 nian4 fu2 rong2 zhang1 。
-- wei4 de2 gui1 shan1 qu4 ， bin1 sheng1 xie4 shou3 tang2 。
+- shan1 feng1 yu3 shuang1 qi4 ， hao4 hao4 man3 song1 zhi1 。
+- yong3 ri4 shao1 shan1 zi3 ， wu2 ren2 gong4 ci3 shi2 。
+- wei2 wen2 pan1 feng3 jian4 ， de2 dao4 zai4 hao2 li2 。
+- wei2 you3 tong2 jiang1 shou3 ， chang2 lian2 zhi4 bu4 bei1 。
 
 ## 注释
 

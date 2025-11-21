@@ -6,25 +6,21 @@ titleSlug: zai-you-jiang-shan-qi-er
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江南春晚見芳菲，雪白梨花照客衣。
-- 步步來求諸佛記，塵塵全現祖師機。
-- 不禁戰伐山河老，猶說經綸俎豆非。
-- 共飲名園那惜醉，落紅故故傍愁飛。
+- 六經豈解亡人國，萬卷平生最苦辛。
+- 只作卧龍嗟晚悟，當年人畏近前嗔。
 
 ## 拼音
 
-- jiang1 nan2 chun1 wan3 jian4 fang1 fei1 ， xue3 bai2 li2 hua1 zhao4 ke4 yi1 。
-- bu4 bu4 lai2 qiu2 zhu1 fo2 ji4 ， chen2 chen2 quan2 xian4 zu3 shi1 ji1 。
-- bu4 jin1 zhan4 fa2 shan1 he2 lao3 ， you2 shuo1 jing1 lun2 zu3 dou4 fei1 。
-- gong4 yin3 ming2 yuan2 na4 xi1 zui4 ， luo4 hong2 gu4 gu4 bang4 chou2 fei1 。
+- liu4 jing1 qi3 jie3 wang2 ren2 guo2 ， wan4 juan4 ping2 sheng1 zui4 ku3 xin1 。
+- zhi1 zuo4 wo4 long2 jie1 wan3 wu4 ， dang1 nian2 ren2 wei4 jin4 qian2 chen1 。
 
 ## 注释
 

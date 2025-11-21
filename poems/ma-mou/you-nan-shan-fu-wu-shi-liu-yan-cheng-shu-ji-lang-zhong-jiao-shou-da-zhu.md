@@ -6,10 +6,10 @@ titleSlug: you-nan-shan-fu-wu-shi-liu-yan-cheng-shu-ji-lang-zhong-jiao-shou-da-z
 author: 馬某
 authorPinyin: ma3 mou3
 authorSlug: ma-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

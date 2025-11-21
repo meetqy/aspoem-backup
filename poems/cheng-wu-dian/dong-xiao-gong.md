@@ -6,10 +6,10 @@ titleSlug: dong-xiao-gong
 author: 成無玷
 authorPinyin: cheng2 wu2 dian4
 authorSlug: cheng-wu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

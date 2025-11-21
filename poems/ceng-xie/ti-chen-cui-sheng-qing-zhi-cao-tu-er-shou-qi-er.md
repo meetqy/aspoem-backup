@@ -1,15 +1,15 @@
 ---
 id: ceng-xie-ti-chen-cui-sheng-qing-zhi-cao-tu-er-shou-qi-er
-title: 題陳倅升卿芝草圖二首・其二
-titlePinyin: ti2 chen2 cui4 sheng1 qing1 zhi1 cao3 tu2 er4 shou3・qi2 er4
+title: 題陳倅升卿芝草圖二首  其二
+titlePinyin: ti2 chen2 cui4 sheng1 qing1 zhi1 cao3 tu2 er4 shou3     qi2 er4
 titleSlug: ti-chen-cui-sheng-qing-zhi-cao-tu-er-shou-qi-er
 author: 曾協
 authorPinyin: ceng2 xie2
 authorSlug: ceng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: 诗,七言
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

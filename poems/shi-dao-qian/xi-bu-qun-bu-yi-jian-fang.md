@@ -6,10 +6,10 @@ titleSlug: xi-bu-qun-bu-yi-jian-fang
 author: 釋道潜
 authorPinyin: shi4 dao4 qian2
 authorSlug: shi-dao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

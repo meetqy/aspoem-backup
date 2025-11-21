@@ -6,10 +6,10 @@ titleSlug: shu-tang-qian-zhi-zhu-jin-ri-yi-mei-wu-qi-jian
 author: 舒邦佐
 authorPinyin: shu1 bang1 zuo3
 authorSlug: shu-bang-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

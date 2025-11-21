@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 郭汝臣
 authorPinyin: guo1 ru3 chen2
 authorSlug: guo-ru-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

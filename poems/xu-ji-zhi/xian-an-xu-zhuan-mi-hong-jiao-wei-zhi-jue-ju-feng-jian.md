@@ -6,21 +6,21 @@ titleSlug: xian-an-xu-zhuan-mi-hong-jiao-wei-zhi-jue-ju-feng-jian
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 境中曾見畫，雪裏故依然。
-- 展盡衷惟赤，須輸九萬牋。
+- 過眼浮華擲錦梭，聞閒習氣種花窠。
+- 蕉中得鹿元烏有，雪裏看蕉竟若何。
 
 ## 拼音
 
-- jing4 zhong1 ceng2 jian4 hua4 ， xue3 li3 gu4 yi1 ran2 。
-- zhan3 jin4 zhong1 wei2 chi4 ， xu1 shu1 jiu3 wan4 jian1 。
+- guo4 yan3 fu2 hua2 zhi4 jin3 suo1 ， wen2 xian2 xi2 qi4 zhong3 hua1 ke1 。
+- jiao1 zhong1 de2 lu4 yuan2 wu1 you3 ， xue3 li3 kan4 jiao1 jing4 ruo4 he2 。
 
 ## 注释
 

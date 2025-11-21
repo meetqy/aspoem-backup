@@ -6,10 +6,10 @@ titleSlug: ru-nan-kang-jie-yue-tu-jing-gan-tao-gong-li-bo-liu-ning-zhi-shi-xi-zu
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

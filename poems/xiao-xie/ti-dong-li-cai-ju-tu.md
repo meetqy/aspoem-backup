@@ -6,10 +6,10 @@ titleSlug: ti-dong-li-cai-ju-tu
 author: 蕭澥
 authorPinyin: xiao1 xie4
 authorSlug: xiao-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

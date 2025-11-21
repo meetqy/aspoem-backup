@@ -6,25 +6,25 @@ titleSlug: dong-ri
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 短景怱怱過，新寒亹亹來。
-- 客遊聊戲耳，世事亦悠哉。
-- 緑動連村麥，香吹到處梅。
-- 錦城花柳窟，歸去看春回。
+- 室中恰受一蒲團，也抵三千世界寬。
+- 上策莫如扃戶坐，苦閑猶復取書看。
+- 蔬青飯軟枝梧老，窗白爐新準備寒。
+- 堪笑此翁幽獨慣，却嫌兒女話團欒。
 
 ## 拼音
 
-- duan3 jing3 cong1 cong1 guo4 ， xin1 han2 wei3 wei3 lai2 。
-- ke4 you2 liao2 xi4 er3 ， shi4 shi4 yi4 you1 zai1 。
-- lü4 dong4 lian2 cun1 mai4 ， xiang1 chui1 dao4 chu3 mei2 。
-- jin3 cheng2 hua1 liu3 ku1 ， gui1 qu4 kan4 chun1 hui2 。
+- shi4 zhong1 qia4 shou4 yi4 pu2 tuan2 ， ye3 di3 san1 qian1 shi4 jie4 kuan1 。
+- shang4 ce4 mo4 ru2 jiong1 hu4 zuo4 ， ku3 xian2 you2 fu4 qu3 shu1 kan4 。
+- shu1 qing1 fan4 ruan3 zhi1 wu2 lao3 ， chuang1 bai2 lu2 xin1 zhun3 bei4 han2 。
+- kan1 xiao4 ci3 weng1 you1 du2 guan4 ， que4 xian2 er2 nü3 hua4 tuan2 luan2 。
 
 ## 注释
 

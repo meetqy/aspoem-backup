@@ -9,22 +9,22 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 茂苑城如畫，閶門瓦欲流。
-- 還依水光殿，更起月華樓。
-- 侵夜鸞開鏡，迎冬雉獻裘。
-- 從臣皆半醉，天子正無愁。
+- 玄武開新苑，龍舟讌幸頻。
+- 渚蓮參法駕，沙鳥犯句陳。
+- 壽獻金莖露，歌翻玉樹塵。
+- 夜來江令醉，別詔宿臨春。
 
 ## 拼音
 
-- mao4 yuan4 cheng2 ru2 hua4 ， chang1 men2 wa3 yu4 liu2 。
-- huan2 yi1 shui3 guang1 dian4 ， geng4 qi3 yue4 hua2 lou2 。
-- qin1 ye4 luan2 kai1 jing4 ， ying2 dong1 zhi4 xian4 qiu2 。
-- cong2 chen2 jie1 ban4 zui4 ， tian1 zi3 zheng4 wu2 chou2 。
+- xuan2 wu3 kai1 xin1 yuan4 ， long2 zhou1 yan4 xing4 bin1 。
+- zhu3 lian2 can1 fa3 jia4 ， sha1 niao3 fan4 ju4 chen2 。
+- shou4 xian4 jin1 jing4 lu4 ， ge1 fan1 yu4 shu4 chen2 。
+- ye4 lai2 jiang1 ling4 zui4 ， bie2 zhao4 su4 lin2 chun1 。
 
 ## 注释
 

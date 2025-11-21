@@ -6,10 +6,10 @@ titleSlug: zhen-zhong-shu
 author: 孚禪師
 authorPinyin: fu2 shan4 shi1
 authorSlug: fu-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

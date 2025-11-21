@@ -6,10 +6,10 @@ titleSlug: jia-ding-yuan-zai-yu-fo-ri-tong-hu-yan-de-he-jing-shu-you-ling-long-s
 author: 黎民瑞
 authorPinyin: li2 min2 rui4
 authorSlug: li-min-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

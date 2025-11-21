@@ -6,10 +6,10 @@ titleSlug: song-ye-da-yin-ting-heng
 author: 盧茂
 authorPinyin: lu2 mao4
 authorSlug: lu-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

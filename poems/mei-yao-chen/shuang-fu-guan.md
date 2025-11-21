@@ -6,25 +6,21 @@ titleSlug: shuang-fu-guan
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 野水雙紋翼，雲蘿謾自媒。
-- 驚飛带波起，行啑拂萍開。
-- 暖日浮還沒，寒汀去復來。
-- 王喬如可挹，仙舄此徘徊。
+- 山下溪流照城郭，幽庭柏子風自落。
+- 古壇蒼蘚少人行，不見雙鳬見黄雀。
 
 ## 拼音
 
-- ye3 shui3 shuang1 wen2 yi4 ， yun2 luo2 man2 zi4 mei2 。
-- jing1 fei1 dai4 bo1 qi3 ， xing2 die2 fu2 ping2 kai1 。
-- nuan3 ri4 fu2 huan2 mei2 ， han2 ting1 qu4 fu4 lai2 。
-- wang2 qiao2 ru2 ke3 yi4 ， xian1 xi4 ci3 pai2 huai2 。
+- shan1 xia4 xi1 liu2 zhao4 cheng2 guo1 ， you1 ting2 bai3 zi3 feng1 zi4 luo4 。
+- gu3 tan2 cang1 xian3 shao3 ren2 hang2 ， bu2 jian4 shuang1 fu2 jian4 huang2 que4 。
 
 ## 注释
 

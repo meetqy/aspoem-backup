@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 偶泊巴東古縣前，宦情鄉思兩綿綿。
-- 不堪蠟炬燒殘淚，雨打船窓半夜天。
+- 不堪蠟炬燒殘淚，雨打船窗半夜天。
 
 ## 拼音
 

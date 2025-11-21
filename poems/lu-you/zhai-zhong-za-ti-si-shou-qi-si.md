@@ -6,21 +6,31 @@ titleSlug: zhai-zhong-za-ti-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽居厭見凡花草，紅紫紛紛不復栽。
-- 自斸蒼苔換黄土，南山移得玉芝來。
+- 西窗日過中，饑坐生眼花。
+- 援筆課小詩，墨燥字傾斜。
+- 須臾忽滿紙，翩翩若風鴉。
+- 雖無古人法，簡拙自一家。
+- 乃知雨漏壁，未愧錐畫沙。
+- 俄報豆飯熟，投筆喜莫涯。
+- 呼童拾澗薪，試我家山茶。
 
 ## 拼音
 
-- you1 ju1 yan4 jian4 fan2 hua1 cao3 ， hong2 zi3 fen1 fen1 bu2 fu4 zai1 。
-- zi4 zhu2 cang1 tai2 huan4 huang2 tu3 ， nan2 shan1 yi2 de2 yu4 zhi1 lai2 。
+- xi1 chuang1 ri4 guo4 zhong1 ， ji1 zuo4 sheng1 yan3 hua1 。
+- yuan2 bi3 ke4 xiao3 shi1 ， mo4 zao4 zi4 qing1 xie2 。
+- xu1 yu2 hu1 man3 zhi3 ， pian1 pian1 ruo4 feng1 ya1 。
+- sui1 wu2 gu3 ren2 fa3 ， jian3 zhuo1 zi4 yi4 jia1 。
+- nai3 zhi1 yu3 lou4 bi4 ， wei4 kui4 zhui1 hua4 sha1 。
+- e2 bao4 dou4 fan4 shu2 ， tou2 bi3 xi3 mo4 ya2 。
+- hu1 tong2 shi2 jian4 xin1 ， shi4 wo3 jia1 shan1 cha2 。
 
 ## 注释
 

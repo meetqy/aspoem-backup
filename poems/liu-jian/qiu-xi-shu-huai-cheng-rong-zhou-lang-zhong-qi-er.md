@@ -6,9 +6,9 @@ titleSlug: qiu-xi-shu-huai-cheng-rong-zhou-lang-zhong-qi-er
 author: 劉兼
 authorPinyin: liu2 jian1
 authorSlug: liu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

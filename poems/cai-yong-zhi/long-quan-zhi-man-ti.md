@@ -6,10 +6,10 @@ titleSlug: long-quan-zhi-man-ti
 author: 蔡用之
 authorPinyin: cai4 yong4 zhi1
 authorSlug: cai-yong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: cun-ju-ji-shi
 author: 劉雪崖
 authorPinyin: liu2 xue3 ya2
 authorSlug: liu-xue-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

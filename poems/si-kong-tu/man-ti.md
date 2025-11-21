@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 經亂年年厭別離，歌聲喜似太平時。
-- 詞臣更有中興頌，磨取蓮峰便作碑。
+- 無宦無名拘逸興，有歌有酒任他鄉。
+- 看看萬里休征戍，莫向新詞寄斷腸。
 
 ## 拼音
 
-- jing1 luan4 nian2 nian2 yan4 bie2 li2 ， ge1 sheng1 xi3 si4 tai4 ping2 shi2 。
-- ci2 chen2 geng4 you3 zhong1 xing1 song4 ， mo2 qu3 lian2 feng1 bian4 zuo4 bei1 。
+- wu2 huan4 wu2 ming2 ju1 yi4 xing1 ， you3 ge1 you3 jiu3 ren4 ta1 xiang1 。
+- kan4 kan4 wan4 li3 xiu1 zheng1 shu4 ， mo4 xiang4 xin1 ci2 ji4 duan4 chang2 。
 
 ## 注释
 

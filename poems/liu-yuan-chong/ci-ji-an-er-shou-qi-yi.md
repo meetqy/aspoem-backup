@@ -6,10 +6,10 @@ titleSlug: ci-ji-an-er-shou-qi-yi
 author: 留元崇
 authorPinyin: liu2 yuan2 chong2
 authorSlug: liu-yuan-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

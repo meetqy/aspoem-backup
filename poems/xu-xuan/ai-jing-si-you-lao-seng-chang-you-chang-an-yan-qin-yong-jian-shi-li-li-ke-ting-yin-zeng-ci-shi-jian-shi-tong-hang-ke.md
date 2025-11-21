@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-ai-jing-si-you-lao-seng-chang-you-chang-an-yan-qin-yong-jian-shi-li-li-ke-ting-yin-zeng-ci-shi-jian-shi-tong-hang-ke
-title: 愛敬寺有老僧嘗遊長安言秦雍間事歷歷可聽因贈此詩兼示同行客
+title: 愛敬寺有老僧嘗游長安言秦雍間事歷歷可聽因贈此詩兼示同行客
 titlePinyin: ai4 jing4 si4 you3 lao3 seng1 chang2 you2 chang2 an1 yan2 qin2 yong1 jian4 shi4 li4 li4 ke3 ting1 yin1 zeng4 ci3 shi1 jian1 shi4 tong2 hang2 ke4
 titleSlug: ai-jing-si-you-lao-seng-chang-you-chang-an-yan-qin-yong-jian-shi-li-li-ke-ting-yin-zeng-ci-shi-jian-shi-tong-hang-ke
 author: 徐鉉

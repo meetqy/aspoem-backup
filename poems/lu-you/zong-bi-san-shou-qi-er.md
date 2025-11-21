@@ -6,25 +6,25 @@ titleSlug: zong-bi-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東都宫闕鬱嵯峨，忍聽胡兒敕勒歌。
-- 雲隔江淮翔翠鳳，露霑荆棘沒銅駝。
-- 丹心自笑依然在，白髮將如老去何。
-- 安得鐵衣三萬騎，爲君王取舊山河。
+- 壯歲志天下，崎嶇無一施。
+- 高談對鄰父，朴學付癡兒。
+- 補柵憐雞冷，分糧憫雀饑。
+- 吾生忽至此，惆悵鏡中絲。
 
 ## 拼音
 
-- dong1 dou1 gong1 que4 yu4 cuo2 e2 ， ren3 ting1 hu2 er2 chi4 le4 ge1 。
-- yun2 ge2 jiang1 huai2 xiang2 cui4 feng4 ， lu4 zhan1 jing1 ji2 mei2 tong2 tuo2 。
-- dan1 xin1 zi4 xiao4 yi1 ran2 zai4 ， bai2 fa4 jiang1 ru2 lao3 qu4 he2 。
-- an1 de2 tie3 yi1 san1 wan4 qi2 ， wei2 jun1 wang2 qu3 jiu4 shan1 he2 。
+- zhuang4 sui4 zhi4 tian1 xia4 ， qi2 qu1 wu2 yi4 shi1 。
+- gao1 tan2 dui4 lin2 fu4 ， pu3 xue2 fu4 chi1 er2 。
+- bu3 shan1 lian2 ji1 leng3 ， fen1 liang2 min3 que4 ji1 。
+- wu2 sheng1 hu1 zhi4 ci3 ， chou2 chang4 jing4 zhong1 si1 。
 
 ## 注释
 

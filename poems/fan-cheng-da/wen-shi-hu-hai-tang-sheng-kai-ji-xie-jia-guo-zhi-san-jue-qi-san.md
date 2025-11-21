@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-wen-shi-hu-hai-tang-sheng-kai-ji-xie-jia-guo-zhi-san-jue-qi-san
-title: 聞石湖海棠盛開亟携家過之三絕・其三
-titlePinyin: wen2 shi2 hu2 hai3 tang2 sheng4 kai1 ji2 xie2 jia1 guo4 zhi1 san1 jue2・qi2 san1
+title: 聞石湖海棠盛開亟携家過之三絕  其三
+titlePinyin: wen2 shi2 hu2 hai3 tang2 sheng4 kai1 ji2 xie2 jia1 guo4 zhi1 san1 jue2     qi2 san1
 titleSlug: wen-shi-hu-hai-tang-sheng-kai-ji-xie-jia-guo-zhi-san-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

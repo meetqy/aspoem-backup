@@ -6,10 +6,10 @@ titleSlug: ji-feng-ming
 author: 石建見
 authorPinyin: shi2 jian4 jian4
 authorSlug: shi-jian-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

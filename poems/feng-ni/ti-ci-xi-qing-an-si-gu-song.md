@@ -6,10 +6,10 @@ titleSlug: ti-ci-xi-qing-an-si-gu-song
 author: 馮輗
 authorPinyin: feng2 ni2
 authorSlug: feng-ni
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

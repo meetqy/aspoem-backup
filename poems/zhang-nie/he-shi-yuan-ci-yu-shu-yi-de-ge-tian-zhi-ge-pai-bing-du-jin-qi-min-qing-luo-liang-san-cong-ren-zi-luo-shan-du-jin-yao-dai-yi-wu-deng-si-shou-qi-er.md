@@ -6,9 +6,9 @@ titleSlug: he-shi-yuan-ci-yu-shu-yi-de-ge-tian-zhi-ge-pai-bing-du-jin-qi-min-qin
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

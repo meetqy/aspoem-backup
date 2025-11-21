@@ -6,10 +6,10 @@ titleSlug: ju
 author: 益州綠事參軍
 authorPinyin: yi4 zhou1 lü4 shi4 can1 jun1
 authorSlug: yi-zhou-lu-shi-can-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

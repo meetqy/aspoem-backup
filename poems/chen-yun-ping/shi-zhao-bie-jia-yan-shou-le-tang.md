@@ -6,10 +6,10 @@ titleSlug: shi-zhao-bie-jia-yan-shou-le-tang
 author: 陳允平
 authorPinyin: chen2 yun3 ping2
 authorSlug: chen-yun-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: chun-tie-zi
 author: 梁君貺
 authorPinyin: liang2 jun1 kuang4
 authorSlug: liang-jun-kuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

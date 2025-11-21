@@ -6,21 +6,21 @@ titleSlug: za-yong-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青羊宫中竹暗天，白馬廟畔柏如山。
-- 琴尊處處可消日，車馬紛紛自欠閑。
+- 少日狂疏觸怒嗔，每緣憂患喪吾真。
+- 晚收咄咄書空手，却作騰騰任運人。
 
 ## 拼音
 
-- qing1 yang2 gong1 zhong1 zhu2 an4 tian1 ， bai2 ma3 miao4 pan4 bai3 ru2 shan1 。
-- qin2 zun1 chu3 chu3 ke3 xiao1 ri4 ， ju1 ma3 fen1 fen1 zi4 qian4 xian2 。
+- shao3 ri4 kuang2 shu1 chu4 nu4 chen1 ， mei3 yuan2 you1 huan4 sang1 wu2 zhen1 。
+- wan3 shou1 duo1 duo1 shu1 kong1 shou3 ， que4 zuo4 teng2 teng2 ren4 yun4 ren2 。
 
 ## 注释
 

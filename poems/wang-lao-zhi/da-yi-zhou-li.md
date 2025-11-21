@@ -6,10 +6,10 @@ titleSlug: da-yi-zhou-li
 author: 王老志
 authorPinyin: wang2 lao3 zhi4
 authorSlug: wang-lao-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

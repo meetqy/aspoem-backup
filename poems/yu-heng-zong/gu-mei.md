@@ -6,10 +6,10 @@ titleSlug: gu-mei
 author: 俞亨宗
 authorPinyin: yu2 heng1 zong1
 authorSlug: yu-heng-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

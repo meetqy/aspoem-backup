@@ -6,10 +6,10 @@ titleSlug: bian-fu-dong
 author: 倪夢龍
 authorPinyin: ni2 meng4 long2
 authorSlug: ni-meng-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

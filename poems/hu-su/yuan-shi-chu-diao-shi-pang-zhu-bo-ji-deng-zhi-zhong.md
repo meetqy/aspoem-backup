@@ -6,10 +6,10 @@ titleSlug: yuan-shi-chu-diao-shi-pang-zhu-bo-ji-deng-zhi-zhong
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: bai-yu-chan-wen-zi-gui
-title: 聞子規
-titlePinyin: wen2 zi3 gui1
+title: 問子規
+titlePinyin: wen4 zi3 gui1
 titleSlug: wen-zi-gui
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 二十年前怯杜鵑，枕邊時把淚珠彈。
-- 如今老眼應無淚，一任聲聲到月殘。
+- 綠柳陰中問子規，勸人歸是勸春歸。
+- 人須回首春須暮，何不成都西去飛。
 
 ## 拼音
 
-- er4 shi2 nian2 qian2 qie4 du4 jian1 ， zhen3 bian1 shi2 ba3 lei4 zhu1 dan4 。
-- ru2 jin1 lao3 yan3 ying1 wu2 lei4 ， yi2 ren4 sheng1 sheng1 dao4 yue4 can2 。
+- lü4 liu3 yin1 zhong1 wen4 zi3 gui1 ， quan4 ren2 gui1 shi4 quan4 chun1 gui1 。
+- ren2 xu1 hui2 shou3 chun1 xu1 mu4 ， he2 bu4 cheng2 dou1 xi1 qu4 fei1 。
 
 ## 注释
 

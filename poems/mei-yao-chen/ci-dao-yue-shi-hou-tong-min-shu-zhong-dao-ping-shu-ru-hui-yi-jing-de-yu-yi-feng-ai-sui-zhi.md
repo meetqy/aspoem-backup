@@ -6,10 +6,10 @@ titleSlug: ci-dao-yue-shi-hou-tong-min-shu-zhong-dao-ping-shu-ru-hui-yi-jing-de-
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

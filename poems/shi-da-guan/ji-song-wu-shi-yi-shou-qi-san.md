@@ -1,30 +1,26 @@
 ---
 id: shi-da-guan-ji-song-wu-shi-yi-shou-qi-san
-title: 偈頌五十一首  其三
-titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 san1
+title: 偈頌五十一首  其三○
+titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 san1 ○
 titleSlug: ji-song-wu-shi-yi-shou-qi-san
 author: 釋大觀
 authorPinyin: shi4 da4 guan1
 authorSlug: shi-da-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 空手把鉏頭，男命怕羅睺。
-- 步行騎水牛，石虎生肉彪。
-- 人從橋上過，橋流水不流。
-- 羲和鞭白日，少昊行清秋。
+- 擁之不聚，撥之不散。
+- 聽之不聞，覷之不見。
 
 ## 拼音
 
-- kong1 shou3 ba3 chu2 tou2 ， nan2 ming4 pa4 luo2 hou2 。
-- bu4 xing2 qi2 shui3 niu2 ， shi2 hu3 sheng1 rou4 biao1 。
-- ren2 cong2 qiao2 shang4 guo4 ， qiao2 liu2 shui3 bu4 liu2 。
-- xi1 he2 bian1 bai2 ri4 ， shao3 hao4 xing2 qing1 qiu1 。
+- yong1 zhi1 bu2 ju4 ， bo1 zhi1 bu2 san4 。
+- ting1 zhi1 bu4 wen2 ， qu4 zhi1 bu2 jian4 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: zhou-mi-chun-gui
-title: 春閨
+title: 春歸
 titlePinyin: chun1 gui1
 titleSlug: chun-gui
 author: 周密
 authorPinyin: zhou1 mi4
 authorSlug: zhou-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嫩柳拖春眼眼愁，怨春人立柳邊樓。
-- 芳心已被流鶑說，手撚花枝暗點頭。
+- 草滿閑塘絮滿谿，萬株煙柳一鵑啼。
+- 開簾恰見春歸處，花片東流日景西。
 
 ## 拼音
 
-- nen4 liu3 tuo1 chun1 yan3 yan3 chou2 ， yuan4 chun1 ren2 li4 liu3 bian1 lou2 。
-- fang1 xin1 yi3 bei4 liu2 ying1 shuo1 ， shou3 nian3 hua1 zhi1 an4 dian3 tou2 。
+- cao3 man3 xian2 tang2 xu4 man3 xi1 ， wan4 zhu1 yan1 liu3 yi4 jian1 ti2 。
+- kai1 lian2 qia4 jian4 chun1 gui1 chu3 ， hua1 pian4 dong1 liu2 ri4 jing3 xi1 。
 
 ## 注释
 

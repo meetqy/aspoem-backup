@@ -6,10 +6,10 @@ titleSlug: wan-you-cheng-xi-kai-shan-yuan-fan-zhou-mu-gui-er-shou-qi-yi
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

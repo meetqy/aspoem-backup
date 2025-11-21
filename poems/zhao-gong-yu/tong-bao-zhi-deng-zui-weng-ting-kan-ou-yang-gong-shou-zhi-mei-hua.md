@@ -6,10 +6,10 @@ titleSlug: tong-bao-zhi-deng-zui-weng-ting-kan-ou-yang-gong-shou-zhi-mei-hua
 author: 趙公豫
 authorPinyin: zhao4 gong1 yu4
 authorSlug: zhao-gong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

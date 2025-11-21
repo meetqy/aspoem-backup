@@ -6,10 +6,10 @@ titleSlug: lin-tui-yi-shi-qi-er
 author: 晏穎
 authorPinyin: yan4 ying3
 authorSlug: yan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zao-chao-bu-ge-yuan-zhe-yun
 author: 吳淵
 authorPinyin: wu2 yuan1
 authorSlug: wu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

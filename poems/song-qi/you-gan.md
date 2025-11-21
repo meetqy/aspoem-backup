@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 力守高皇約，祈還司隸章。
-- 翻身去殿檻，忍死出縑囊。
-- 豕突埋輪路，豺驕擇肉場。
-- 霜毫墨猶溼，迢遞竄遐方。
+- 車轍無聲巷次閒，畸人愁卧鬢毛班。
+- 月囊罷食侏儒米，歲計深依嵔壘山。
+- 風薄迴林秋蔕老，天圍荒堞暝烏還。
+- 舉頭却望長安日，已在浮雲沆漭閒。
 
 ## 拼音
 
-- li4 shou3 gao1 huang2 yue1 ， qi2 huan2 si1 li4 zhang1 。
-- fan1 shen1 qu4 dian4 jian4 ， ren3 si3 chu1 jian1 nang2 。
-- shi3 tu1 mai2 lun2 lu4 ， chai2 jiao1 ze2 rou4 chang3 。
-- shuang1 hao2 mo4 you2 shi1 ， tiao2 di4 cuan4 xia2 fang1 。
+- ju1 zhe2 wu2 sheng1 xiang4 ci4 xian2 ， ji1 ren2 chou2 wo4 bin4 mao2 ban1 。
+- yue4 nang2 ba4 shi2 zhu1 ru2 mi3 ， sui4 ji4 shen1 yi1 wei1 lei3 shan1 。
+- feng1 bao2 hui2 lin2 qiu1 di4 lao3 ， tian1 wei2 huang1 die2 ming2 wu1 huan2 。
+- ju3 tou2 que4 wang4 chang2 an1 ri4 ， yi3 zai4 fu2 yun2 hang4 mang3 xian2 。
 
 ## 注释
 

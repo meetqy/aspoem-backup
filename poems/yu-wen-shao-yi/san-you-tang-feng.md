@@ -6,10 +6,10 @@ titleSlug: san-you-tang-feng
 author: 宇文紹奕
 authorPinyin: yu3 wen2 shao4 yi4
 authorSlug: yu-wen-shao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

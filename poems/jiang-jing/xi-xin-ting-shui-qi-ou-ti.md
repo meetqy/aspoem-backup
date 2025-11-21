@@ -6,10 +6,10 @@ titleSlug: xi-xin-ting-shui-qi-ou-ti
 author: 蔣靜
 authorPinyin: jiang3 jing4
 authorSlug: jiang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

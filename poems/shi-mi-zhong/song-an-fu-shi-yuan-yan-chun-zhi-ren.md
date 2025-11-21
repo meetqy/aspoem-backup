@@ -6,10 +6,10 @@ titleSlug: song-an-fu-shi-yuan-yan-chun-zhi-ren
 author: 史彌忠
 authorPinyin: shi3 mi2 zhong1
 authorSlug: shi-mi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,20 +9,18 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 他道愁勝死，兒言死勝愁。
-- 愁來百處痛，死去一時休。
-- 。
+- 日夜懸心憶，知隔幾年秋。
 
 ## 拼音
 
 - ta1 dao4 chou2 sheng4 si3 ， er2 yan2 si3 sheng4 chou2 。
-- chou2 lai2 bai3 chu3 tong4 ， si3 qu4 yi4 shi2 xiu1 。
-- 。
+- ri4 ye4 xuan2 xin1 yi4 ， zhi1 ge2 ji1 nian2 qiu1 。
 
 ## 注释
 

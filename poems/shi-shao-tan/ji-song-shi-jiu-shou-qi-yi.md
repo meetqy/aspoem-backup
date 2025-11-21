@@ -1,26 +1,26 @@
 ---
 id: shi-shao-tan-ji-song-shi-jiu-shou-qi-yi
-title: 偈頌十九首  其一
-titlePinyin: ji4 song4 shi2 jiu3 shou3     qi2 yi1
+title: 偈頌十九首  其一○
+titlePinyin: ji4 song4 shi2 jiu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-jiu-shou-qi-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 草舍開張小小筵，炊無米飯爨無烟。
-- 通身飽暖憨憨睡，夢到滄洲白鳥邊。
+- 臘月三十日，臘月二十九。
+- 等是歲華終，無事窮相守。
 
 ## 拼音
 
-- cao3 she4 kai1 zhang1 xiao3 xiao3 yan2 ， chui1 wu2 mi3 fan4 cuan4 wu2 yan1 。
-- tong1 shen1 bao3 nuan3 han1 han1 shui4 ， meng4 dao4 cang1 zhou1 bai2 niao3 bian1 。
+- la4 yue4 san1 shi2 ri4 ， la4 yue4 er4 shi2 jiu3 。
+- deng3 shi4 sui4 hua2 zhong1 ， wu2 shi4 qiong2 xiang1 shou3 。
 
 ## 注释
 

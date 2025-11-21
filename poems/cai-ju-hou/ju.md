@@ -6,10 +6,10 @@ titleSlug: ju
 author: 蔡居厚
 authorPinyin: cai4 ju1 hou4
 authorSlug: cai-ju-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

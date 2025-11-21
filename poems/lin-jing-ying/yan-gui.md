@@ -6,10 +6,10 @@ titleSlug: yan-gui
 author: 林景英
 authorPinyin: lin2 jing3 ying1
 authorSlug: lin-jing-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

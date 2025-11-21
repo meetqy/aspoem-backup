@@ -6,9 +6,9 @@ titleSlug: ti-du-men-si
 author: 田如鼇
 authorPinyin: tian2 ru2 ao2
 authorSlug: tian-ru-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

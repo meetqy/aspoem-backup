@@ -6,25 +6,25 @@ titleSlug: ye-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 每見青桐落，常虞白髮侵。
-- 傷心惟片月，不睡更清砧。
-- 蟋蟀秋聲早，銀河夜色深。
-- 崎嶇無限意，蕭索一長吟。
+- 荒城轉五更，北斗向誰傾。
+- 穴鬭時爭齧，林棲或自驚。
+- 老來神慮淡，睡足骨毛輕。
+- 石磬催僧粥，低窗枕畔鳴。
 
 ## 拼音
 
-- mei3 jian4 qing1 tong2 luo4 ， chang2 yu2 bai2 fa4 qin1 。
-- shang1 xin1 wei2 pian4 yue4 ， bu2 shui4 geng4 qing1 zhen1 。
-- xi1 shuai4 qiu1 sheng1 zao3 ， yin2 he2 ye4 se4 shen1 。
-- qi2 qu1 wu2 xian4 yi4 ， xiao1 suo3 yi4 chang2 yin2 。
+- huang1 cheng2 zhuan3 wu3 geng1 ， bei3 dou3 xiang4 shui2 qing1 。
+- xue2 dou4 shi2 zheng1 nie4 ， lin2 qi1 huo4 zi4 jing1 。
+- lao3 lai2 shen2 lü4 dan4 ， shui4 zu2 gu3 mao2 qing1 。
+- shi2 qing4 cui1 seng1 zhou1 ， di1 chuang1 zhen3 pan4 ming2 。
 
 ## 注释
 

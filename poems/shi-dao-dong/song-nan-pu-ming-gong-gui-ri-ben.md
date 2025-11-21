@@ -6,10 +6,10 @@ titleSlug: song-nan-pu-ming-gong-gui-ri-ben
 author: 釋道東
 authorPinyin: shi4 dao4 dong1
 authorSlug: shi-dao-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-zhang-lin-si
 author: 玉盤居士
 authorPinyin: yu4 pan2 ju1 shi4
 authorSlug: yu-pan-ju-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

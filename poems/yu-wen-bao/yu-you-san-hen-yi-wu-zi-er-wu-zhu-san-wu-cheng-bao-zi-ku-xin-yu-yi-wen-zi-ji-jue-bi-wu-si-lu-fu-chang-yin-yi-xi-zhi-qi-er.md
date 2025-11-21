@@ -6,10 +6,10 @@ titleSlug: yu-you-san-hen-yi-wu-zi-er-wu-zhu-san-wu-cheng-bao-zi-ku-xin-yu-yi-we
 author: 俞文豹
 authorPinyin: yu2 wen2 bao4
 authorSlug: yu-wen-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhou-zhong-meng-jue
 author: 黄載
 authorPinyin: huang2 zai4
 authorSlug: huang-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

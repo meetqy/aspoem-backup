@@ -6,21 +6,21 @@ titleSlug: song-jiang
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荷葉翻風暑氣微，看山露冷濕征衣。
-- 垂虹夜靜三高月，只照漁溪一舸歸。
+- 香飄菡萏短篷中，水色山光一樣同。
+- 行止又非人所料，今年兩度上垂虹。
 
 ## 拼音
 
-- he2 ye4 fan1 feng1 shu3 qi4 wei1 ， kan4 shan1 lu4 leng3 shi1 zheng1 yi1 。
-- chui2 hong2 ye4 jing4 san1 gao1 yue4 ， zhi1 zhao4 yu2 xi1 yi4 ge3 gui1 。
+- xiang1 piao1 han4 dan4 duan3 peng2 zhong1 ， shui3 se4 shan1 guang1 yi2 yang4 tong2 。
+- xing2 zhi3 you4 fei1 ren2 suo3 liao4 ， jin1 nian2 liang3 du4 shang4 chui2 hong2 。
 
 ## 注释
 

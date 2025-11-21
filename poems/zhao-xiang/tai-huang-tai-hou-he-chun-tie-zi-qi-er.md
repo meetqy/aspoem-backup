@@ -6,21 +6,21 @@ titleSlug: tai-huang-tai-hou-he-chun-tie-zi-qi-er
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 銅霤消殘凍，朱樓拂早霞。
-- 傳聲回步輦，來賞小桃花。
+- 長樂鐘殘寶殿開，鳴梢移仗問安來。
+- 欲知純孝通天地，和氣氤氳遶御杯。
 
 ## 拼音
 
-- tong2 liu4 xiao1 can2 dong4 ， zhu1 lou2 fu2 zao3 xia2 。
-- chuan2 sheng1 hui2 bu4 nian3 ， lai2 shang3 xiao3 tao2 hua1 。
+- chang2 le4 zhong1 can2 bao3 dian4 kai1 ， ming2 shao1 yi2 zhang4 wen4 an1 lai2 。
+- yu4 zhi1 chun2 xiao4 tong1 tian1 di4 ， he2 qi4 yin1 yun1 rao4 yu4 bei1 。
 
 ## 注释
 

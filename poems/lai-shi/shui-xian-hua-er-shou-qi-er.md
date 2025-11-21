@@ -6,10 +6,10 @@ titleSlug: shui-xian-hua-er-shou-qi-er
 author: 來氏
 authorPinyin: lai2 shi4
 authorSlug: lai-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

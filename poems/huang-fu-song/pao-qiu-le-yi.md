@@ -9,12 +9,12 @@ authorSlug: huang-fu-song
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紅撥一聲飄，輕毬墜越綃。
+- 紅撥一聲飄，輕裘墜越綃。
 - 帶翻金孔雀，香滿繡蜂腰。
 - 少少拋分數，花枝正索饒。
 

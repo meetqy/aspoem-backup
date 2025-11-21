@@ -9,18 +9,18 @@ authorSlug: cui-dao-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 長門春欲盡，明月照花枝。
-- 買得相如賦，君恩不可移。
+- 長門花泣一枝春，爭奈君恩別處新。
+- 錯把黃金買詞賦，相如自是薄情人。
 
 ## 拼音
 
-- chang2 men2 chun1 yu4 jin4 ， ming2 yue4 zhao4 hua1 zhi1 。
-- mai3 de2 xiang1 ru2 fu4 ， jun1 en1 bu4 ke3 yi2 。
+- chang2 men2 hua1 qi4 yi4 zhi1 chun1 ， zheng1 nai4 jun1 en1 bie2 chu3 xin1 。
+- cuo4 ba3 huang2 jin1 mai3 ci2 fu4 ， xiang1 ru2 zi4 shi4 bo2 qing2 ren2 。
 
 ## 注释
 

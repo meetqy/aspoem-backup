@@ -6,10 +6,10 @@ titleSlug: xiang-yin
 author: 陳隆之
 authorPinyin: chen2 long2 zhi1
 authorSlug: chen-long-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

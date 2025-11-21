@@ -6,10 +6,10 @@ titleSlug: bin-shi-ren-zhang-gu-qi-wu-xian-sheng-chi-ming-jing-shi-si-fang-wan-y
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

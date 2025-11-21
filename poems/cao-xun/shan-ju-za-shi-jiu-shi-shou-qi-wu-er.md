@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三春羣卉盛，在花茂與殘。
-- 好花正穠麗，不作十日看。
-- 蓓嫩便須賞，開時惟可歎。
-- 繼自喜新綠，吾心常並觀。
+- 寒毬格雖下，春事亦可尋。
+- 故園少見之，花葉均來禽。
+- 芳蓓暖苞玉，半腮紅淺深。
+- 與客屢清賞，只恐風雨侵。
 
 ## 拼音
 
-- san1 chun1 qun2 hui4 sheng4 ， zai4 hua1 mao4 yu3 can2 。
-- hao3 hua1 zheng4 nong2 li2 ， bu2 zuo4 shi2 ri4 kan4 。
-- bei4 nen4 bian4 xu1 shang3 ， kai1 shi2 wei2 ke3 tan4 。
-- ji4 zi4 xi3 xin1 lü4 ， wu2 xin1 chang2 bing4 guan1 。
+- han2 qiu2 ge2 sui1 xia4 ， chun1 shi4 yi4 ke3 xun2 。
+- gu4 yuan2 shao3 jian4 zhi1 ， hua1 ye4 jun1 lai2 qin2 。
+- fang1 bei4 nuan3 bao1 yu4 ， ban4 sai1 hong2 qian3 shen1 。
+- yu3 ke4 lü3 qing1 shang3 ， zhi3 kong3 feng1 yu3 qin1 。
 
 ## 注释
 

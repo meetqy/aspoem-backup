@@ -6,21 +6,21 @@ titleSlug: qian-huai
 author: 杜牧
 authorPinyin: du4 mu4
 authorSlug: du-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道泰時還泰，時來命不來。
-- 何當離城市，高臥博山隈。
+- 落魄江南載酒行，楚腰腸斷掌中輕。
+- 十年一覺揚州夢，贏得青樓薄倖名。
 
 ## 拼音
 
-- dao4 tai4 shi2 huan2 tai4 ， shi2 lai2 ming4 bu4 lai2 。
-- he2 dang1 li2 cheng2 shi4 ， gao1 wo4 bo2 shan1 wei1 。
+- luo4 po4 jiang1 nan2 zai4 jiu3 xing2 ， chu3 yao1 chang2 duan4 zhang3 zhong1 qing1 。
+- shi2 nian2 yi4 jue2 yang2 zhou1 meng4 ， ying2 de2 qing1 lou2 bao2 xing4 ming2 。
 
 ## 注释
 

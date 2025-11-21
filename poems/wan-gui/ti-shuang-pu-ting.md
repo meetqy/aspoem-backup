@@ -6,10 +6,10 @@ titleSlug: ti-shuang-pu-ting
 author: 萬規
 authorPinyin: wan4 gui1
 authorSlug: wan-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

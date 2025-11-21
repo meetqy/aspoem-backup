@@ -6,25 +6,25 @@ titleSlug: shu-chang-gan-seng-fang
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨日方得書，經年不相見。
-- 書來必累幅，分明如見面。
-- 雖同雨千花，略不通一線。
-- 誰云非吉祥，便是金毛現。
+- 異日延禪地，今朝選佛場。
+- 真身瘞堅固，層級韵琅當。
+- 雨灑家家潤，燈傳處處光。
+- 曾將一則語，要路截諸方。
 
 ## 拼音
 
-- zuo2 ri4 fang1 de2 shu1 ， jing1 nian2 bu4 xiang1 jian4 。
-- shu1 lai2 bi4 lei4 fu2 ， fen1 ming2 ru2 jian4 mian4 。
-- sui1 tong2 yu3 qian1 hua1 ， lüe4 bu4 tong1 yi2 xian4 。
-- shui2 yun2 fei1 ji2 xiang2 ， bian4 shi4 jin1 mao2 xian4 。
+- yi4 ri4 yan2 shan4 di4 ， jin1 zhao1 xuan3 fo2 chang3 。
+- zhen1 shen1 yi4 jian1 gu4 ， ceng2 ji2 yun4 lang2 dang1 。
+- yu3 sa3 jia1 jia1 run4 ， deng1 chuan2 chu3 chu3 guang1 。
+- ceng2 jiang1 yi4 ze2 yu3 ， yao4 lu4 jie2 zhu1 fang1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: zai-ci-yun-si-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新釀開缸淥蟻浮，舊辭仍缺唾壺謳。
-- 宦塗要處難插手，詩社叢中常引頭。
-- 倒載肯陪山簡醉，反關莫厭孟公留。
-- 秋田粗可供佳客，不比封君亦素侯。
+- 公朝已後茹茅連，幕府偷閑亦所天。
+- 寵辱肯爲差別觀，道人隨寓祇怡然。
 
 ## 拼音
 
-- xin1 niang4 kai1 gang1 lu4 yi3 fu2 ， jiu4 ci2 reng2 que1 tuo4 hu2 ou1 。
-- huan4 tu2 yao4 chu3 nan2 cha1 shou3 ， shi1 she4 cong2 zhong1 chang2 yin3 tou2 。
-- dao3 zai4 ken3 pei2 shan1 jian3 zui4 ， fan3 guan1 mo4 yan4 meng4 gong1 liu2 。
-- qiu1 tian2 cu1 ke3 gong1 jia1 ke4 ， bu4 bi3 feng1 jun1 yi4 su4 hou2 。
+- gong1 chao2 yi3 hou4 ru2 mao2 lian2 ， mu4 fu3 tou1 xian2 yi4 suo3 tian1 。
+- chong3 ru3 ken3 wei2 cha4 bie2 guan1 ， dao4 ren2 sui2 yu4 qi2 yi2 ran2 。
 
 ## 注释
 

@@ -9,18 +9,24 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 煙霄微月澹長空，銀漢秋期萬古同。
-- 幾許歡情與離恨，年年幷在此宵中。
+- 憶得少年長乞巧，竹竿頭上願絲多。
+- （見《日本古典文學大系》七三冊藤原公任《和漢朗詠集》卷上《七夕》）（〖1〗川口久雄校注云：「《佳句・七夕》題作『《七夕》，白』。
+- 《全唐詩》、《文集》、《全唐詩逸》均未見。
+- 當爲在中國已散逸而在我國流傳下來的白詩斷句。
+- 」）。
 
 ## 拼音
 
-- yan1 xiao1 wei1 yue4 dan4 chang2 kong1 ， yin2 han4 qiu1 qi1 wan4 gu3 tong2 。
-- ji1 xu1 huan1 qing2 yu3 li2 hen4 ， nian2 nian2 bing4 zai4 ci3 xiao1 zhong1 。
+- yi4 de2 shao4 nian2 chang2 qi3 qiao3 ， zhu2 gan1 tou2 shang4 yuan4 si1 duo1 。
+- （ jian4 《 ri4 ben3 gu3 dian3 wen2 xue2 da4 xi4 》 qi1 san1 ce4 teng2 yuan2 gong1 ren4 《 he2 han4 lang3 yong3 ji2 》 juan3 shang4 《 qi1 xi1 》）（〖1〗 chuan1 kou3 jiu3 xiong2 jiao4 zhu4 yun2 ：「《 jia1 ju4 ・ qi1 xi1 》 ti2 zuo4 『《 qi1 xi1 》， bai2 』。
+- 《 quan2 tang2 shi1 》、《 wen2 ji2 》、《 quan2 tang2 shi1 yi4 》 jun1 wei4 jian4 。
+- dang1 wei2 zai4 zhong1 guo2 yi3 san4 yi4 er2 zai4 wo3 guo2 liu2 chuan2 xia4 lai2 de0 bai2 shi1 duan4 ju4 。
+- 」）。
 
 ## 注释
 

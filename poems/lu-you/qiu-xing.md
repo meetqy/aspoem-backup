@@ -6,25 +6,25 @@ titleSlug: qiu-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無處逢秋不黯然，驛前斜日渡頭烟。
-- 吟肩雅與寒驢稱，歸夢頻爭社燕先。
-- 百歲猶穿幾兩屐，千詩不及一囊錢。
-- 故應身世如團扇，已向人間耐棄捐。
+- 巢燕無情不更回，門庭日日落楸槐。
+- 新凉漸喜償碑債，多病還憂欠藥材。
+- 社近家方篘濁酒，客來身自掃蒼苔。
+- 道心已熟機心盡，寄語鸕鷀莫苦猜。
 
 ## 拼音
 
-- wu2 chu3 feng2 qiu1 bu2 an4 ran2 ， yi4 qian2 xie2 ri4 du4 tou2 yan1 。
-- yin2 jian1 ya3 yu3 han2 lü2 cheng1 ， gui1 meng4 bin1 zheng1 she4 yan4 xian1 。
-- bai3 sui4 you2 chuan1 ji1 liang3 ji1 ， qian1 shi1 bu4 ji2 yi4 nang2 qian2 。
-- gu4 ying1 shen1 shi4 ru2 tuan2 shan4 ， yi3 xiang4 ren2 jian4 nai4 qi4 juan1 。
+- chao2 yan4 wu2 qing2 bu2 geng4 hui2 ， men2 ting2 ri4 ri4 luo4 qiu1 huai2 。
+- xin1 liang2 jian4 xi3 chang2 bei1 zhai4 ， duo1 bing4 huan2 you1 qian4 yao4 cai2 。
+- she4 jin4 jia1 fang1 chou1 zhuo2 jiu3 ， ke4 lai2 shen1 zi4 sao3 cang1 tai2 。
+- dao4 xin1 yi3 shu2 ji1 xin1 jin4 ， ji4 yu3 lu2 ci2 mo4 ku3 cai1 。
 
 ## 注释
 

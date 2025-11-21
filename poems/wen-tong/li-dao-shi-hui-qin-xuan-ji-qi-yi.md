@@ -1,14 +1,14 @@
 ---
 id: wen-tong-li-dao-shi-hui-qin-xuan-ji-qi-yi
-title: 李道士惠琴軒集・其一
-titlePinyin: li3 dao4 shi0 hui4 qin2 xuan1 ji2・qi2 yi1
+title: 李道士惠琴軒集  其一
+titlePinyin: li3 dao4 shi0 hui4 qin2 xuan1 ji2     qi2 yi1
 titleSlug: li-dao-shi-hui-qin-xuan-ji-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

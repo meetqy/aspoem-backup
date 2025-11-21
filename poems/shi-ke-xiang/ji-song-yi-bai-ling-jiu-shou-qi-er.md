@@ -1,26 +1,28 @@
 ---
 id: shi-ke-xiang-ji-song-yi-bai-ling-jiu-shou-qi-er
-title: 偈頌一百零九首  其二
-titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 er4
+title: 偈頌一百零九首  其二○
+titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 er4 ○
 titleSlug: ji-song-yi-bai-ling-jiu-shou-qi-er
 author: 釋可湘
 authorPinyin: shi4 ke3 xiang1
 authorSlug: shi-ke-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 摩竭陀國，親行此令。
-- 從上以來，孰敢違命。
+- 老瞿曇，沒碑記。
+- 占慈氏機先，埋通天界至。
+- 也須還我坐具地。
 
 ## 拼音
 
-- mo2 jie2 tuo2 guo2 ， qin1 xing2 ci3 ling4 。
-- cong2 shang4 yi3 lai2 ， shu2 gan3 wei2 ming4 。
+- lao3 qu2 tan2 ， mei2 bei1 ji4 。
+- zhan4 ci2 shi4 ji1 xian1 ， mai2 tong1 tian1 jie4 zhi4 。
+- ye3 xu1 huan2 wo3 zuo4 ju4 di4 。
 
 ## 注释
 

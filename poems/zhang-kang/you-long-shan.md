@@ -6,10 +6,10 @@ titleSlug: you-long-shan
 author: 章康
 authorPinyin: zhang1 kang1
 authorSlug: zhang-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

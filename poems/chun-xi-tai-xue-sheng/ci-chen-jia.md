@@ -6,10 +6,10 @@ titleSlug: ci-chen-jia
 author: 淳熙太學生
 authorPinyin: chun2 xi1 tai4 xue2 sheng1
 authorSlug: chun-xi-tai-xue-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

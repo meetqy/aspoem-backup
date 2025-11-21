@@ -6,10 +6,10 @@ titleSlug: shi-cai-tong-pan
 author: 賈同
 authorPinyin: jia3 tong2
 authorSlug: jia-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

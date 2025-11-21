@@ -6,10 +6,10 @@ titleSlug: lin-zhong-ji
 author: 釋系南
 authorPinyin: shi4 xi4 nan2
 authorSlug: shi-xi-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

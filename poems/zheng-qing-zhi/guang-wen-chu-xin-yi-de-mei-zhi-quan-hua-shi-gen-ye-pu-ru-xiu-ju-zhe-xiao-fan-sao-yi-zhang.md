@@ -6,10 +6,10 @@ titleSlug: guang-wen-chu-xin-yi-de-mei-zhi-quan-hua-shi-gen-ye-pu-ru-xiu-ju-zhe-
 author: 鄭清之
 authorPinyin: zheng4 qing1 zhi1
 authorSlug: zheng-qing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

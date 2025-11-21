@@ -1,30 +1,26 @@
 ---
 id: shi-qing-yuan-ji-song-yi-yi-er-shou-qi-ba
-title: 偈頌一一二首  其八
-titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 ba1
+title: 偈頌一一二首  其八○
+titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-yi-er-shou-qi-ba
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少室無言語，曹溪有消息。
-- 可憐門大開，而人不能入。
-- 蒼龍得雲雨，猛虎生羽翼。
-- 但解自承當，何勞問知識。
+- 大丈夫，秉慧劍，般若鋒兮金剛焰。
+- 非道能摧外道心，早曾落却天魔膽。
 
 ## 拼音
 
-- shao3 shi4 wu2 yan2 yu3 ， cao2 xi1 you3 xiao1 xi0 。
-- ke3 lian2 men2 da4 kai1 ， er2 ren2 bu4 neng2 ru4 。
-- cang1 long2 de2 yun2 yu3 ， meng3 hu3 sheng1 yu3 yi4 。
-- dan4 jie3 zi4 cheng2 dang1 ， he2 lao2 wen4 zhi1 shi2 。
+- da4 zhang4 fu1 ， bing3 hui4 jian4 ， bo1 re3 feng1 xi1 jin1 gang1 yan4 。
+- fei1 dao4 neng2 cui1 wai4 dao4 xin1 ， zao3 ceng2 luo4 que4 tian1 mo2 dan3 。
 
 ## 注释
 

@@ -6,37 +6,25 @@ titleSlug: qiu-ye-du-shu-you-gan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久病畏長夏，枕簟如炮焚。
-- 扶持賴藥物，俛仰秋已分。
-- 清夜炷爐香，裊裊起孤雲。
-- 靈府豁蒙滯，舊學資鉏耘。
-- 言念總角初，操觚極艱勤。
-- 諸老頗賞識，謂可與斯文。
-- 沉痼幸鍼石，輪囷勞斧斤。
-- 可憐四十年，薄陋負所聞。
-- 白首猶著書，逝將獻吾君。
-- 太官薦玉食，野人徒美芹。
+- 鬢毛焦禿齒牙疏，老病燈前未廢書。
+- 卷裏光陰能屬我，人間聲利久忘渠。
+- 窮山藏拙猶嫌淺，糲飯支羸不願餘。
+- 雨露安能澤枯朽，故人枉是費吹嘘。
 
 ## 拼音
 
-- jiu3 bing4 wei4 chang2 xia4 ， zhen3 dian4 ru2 pao4 fen2 。
-- fu2 chi2 lai4 yao4 wu4 ， fu3 yang3 qiu1 yi3 fen1 。
-- qing1 ye4 zhu4 lu2 xiang1 ， niao3 niao3 qi3 gu1 yun2 。
-- ling2 fu3 huo1 meng2 zhi4 ， jiu4 xue2 zi1 chu2 yun2 。
-- yan2 nian4 zong3 jiao3 chu1 ， cao1 gu1 ji2 jian1 qin2 。
-- zhu1 lao3 po1 shang3 shi2 ， wei4 ke3 yu3 si1 wen2 。
-- chen2 gu4 xing4 zhen1 shi2 ， lun2 qun1 lao2 fu3 jin1 。
-- ke3 lian2 si4 shi2 nian2 ， bao2 lou4 fu4 suo3 wen2 。
-- bai2 shou3 you2 zhu4 shu1 ， shi4 jiang1 xian4 wu2 jun1 。
-- tai4 guan1 jian4 yu4 shi2 ， ye3 ren2 tu2 mei3 qin2 。
+- bin4 mao2 jiao1 tu1 chi3 ya2 shu1 ， lao3 bing4 deng1 qian2 wei4 fei4 shu1 。
+- juan4 li3 guang1 yin1 neng2 shu3 wo3 ， ren2 jian4 sheng1 li4 jiu3 wang4 qu2 。
+- qiong2 shan1 cang2 zhuo1 you2 xian2 qian3 ， li4 fan4 zhi1 lei2 bu2 yuan4 yu2 。
+- yu3 lu4 an1 neng2 ze2 ku1 xiu3 ， gu4 ren2 wang3 shi4 fei4 chui1 xu1 。
 
 ## 注释
 

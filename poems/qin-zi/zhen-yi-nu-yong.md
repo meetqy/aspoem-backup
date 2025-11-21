@@ -6,10 +6,10 @@ titleSlug: zhen-yi-nu-yong
 author: 秦梓
 authorPinyin: qin2 zi3
 authorSlug: qin-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: yue-ke-gong-ci-yi-bai-shou-qi-yi
-title: 宮詞一百首  其一
-titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 yi1
+title: 宮詞一百首  其一○○
+titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 yi1 ○ ○
 titleSlug: gong-ci-yi-bai-shou-qi-yi
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五色雲煙覆帝城，御溝流水接金明。
-- 曉來珂繖沙堤閙，萬歲聲中賀太平。
+- 鬰葱佳氣藹南都，共識彊華赤伏符。
+- 地紀已占江渡馬，天心定見屋流烏。
 
 ## 拼音
 
-- wu3 se4 yun2 yan1 fu4 di4 cheng2 ， yu4 gou1 liu2 shui3 jie1 jin1 ming2 。
-- xiao3 lai2 ke1 san3 sha1 di1 nao4 ， wan4 sui4 sheng1 zhong1 he4 tai4 ping2 。
+- yu4 cong1 jia1 qi4 ai3 nan2 du1 ， gong4 shi2 qiang2 hua2 chi4 fu2 fu2 。
+- di4 ji4 yi3 zhan4 jiang1 du4 ma3 ， tian1 xin1 ding4 jian4 wu1 liu2 wu1 。
 
 ## 注释
 

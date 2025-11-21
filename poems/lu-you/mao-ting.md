@@ -1,30 +1,30 @@
 ---
 id: lu-you-mao-ting
-title: 茅亭
+title: 茆亭
 titlePinyin: mao2 ting2
 titleSlug: mao-ting
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 終日坐茅亭，蕭然倚素屏。
-- 兒圓點茶夢，客授養魚經。
-- 馬以鳴當斥，龜緣久不靈。
-- 詩成作吳詠，及此醉初醒。
+- 讀罷楞伽四卷經，其餘終日坐茆亭。
+- 靜聽溪碓舂雲母，細斸松根采茯苓。
+- 大道粗嘗聞海若，高情未至愧山靈。
+- 寒泉新渫甘于乳，晨起何妨挈半瓶。
 
 ## 拼音
 
-- zhong1 ri4 zuo4 mao2 ting2 ， xiao1 ran2 yi3 su4 ping2 。
-- er2 yuan2 dian3 cha2 meng4 ， ke4 shou4 yang3 yu2 jing1 。
-- ma3 yi3 ming2 dang1 chi4 ， gui1 yuan2 jiu3 bu4 ling2 。
-- shi1 cheng2 zuo4 wu2 yong3 ， ji2 ci3 zui4 chu1 xing3 。
+- du2 ba4 leng2 qie2 si4 juan4 jing1 ， qi2 yu2 zhong1 ri4 zuo4 mao2 ting2 。
+- jing4 ting1 xi1 dui4 chong1 yun2 mu3 ， xi4 zhu2 song1 gen1 cai3 fu2 ling2 。
+- da4 dao4 cu1 chang2 wen2 hai3 ruo4 ， gao1 qing2 wei4 zhi4 kui4 shan1 ling2 。
+- han2 quan2 xin1 xie4 gan1 yu2 ru3 ， chen2 qi3 he2 fang2 qie4 ban4 ping2 。
 
 ## 注释
 

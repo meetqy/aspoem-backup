@@ -6,10 +6,10 @@ titleSlug: ci-yun-chou-tong-pan-liu-xiong-yue-yang-lou-jian-huai-er-shou-qi-yi
 author: 羅願
 authorPinyin: luo2 yuan4
 authorSlug: luo-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

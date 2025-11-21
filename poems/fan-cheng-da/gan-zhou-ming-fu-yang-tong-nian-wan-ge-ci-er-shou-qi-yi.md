@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-gan-zhou-ming-fu-yang-tong-nian-wan-ge-ci-er-shou-qi-yi
-title: 贛州明府楊同年輓歌詞二首・其一
-titlePinyin: gan4 zhou1 ming2 fu3 yang2 tong2 nian2 wan3 ge1 ci2 er4 shou3・qi2 yi1
+title: 贛州明府楊同年輓歌詞二首  其一
+titlePinyin: gan4 zhou1 ming2 fu3 yang2 tong2 nian2 wan3 ge1 ci2 er4 shou3     qi2 yi1
 titleSlug: gan-zhou-ming-fu-yang-tong-nian-wan-ge-ci-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

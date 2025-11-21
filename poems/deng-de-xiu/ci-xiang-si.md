@@ -6,10 +6,10 @@ titleSlug: ci-xiang-si
 author: 鄧德秀
 authorPinyin: deng4 de2 xiu4
 authorSlug: deng-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

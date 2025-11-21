@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 醍醐一盞詩一篇，暮醉朝吟不記年。
-- 乾馬屢來遊九地，坤牛時駕出三天。
-- 白龜窟裏夫妻會，青鳳巢中子母圓。
-- 提挈靈童山上望，重重疊疊是金錢。
+- 遙指高峰笑一聲，紅霞紫霧面前生。
+- 每於廛市無人識，長到山中有鶴行。
+- 時弄玉蟾驅鬼魅，夜煎金鼎煮瓊英。
+- 他時若赴蓬萊洞，知我仙家有姓名。
 
 ## 拼音
 
-- ti2 hu2 yi4 zhan3 shi1 yi4 pian1 ， mu4 zui4 chao2 yin2 bu2 ji4 nian2 。
-- qian2 ma3 lü3 lai2 you2 jiu3 di4 ， kun1 niu2 shi2 jia4 chu1 san1 tian1 。
-- bai2 gui1 ku1 li3 fu1 qi1 hui4 ， qing1 feng4 chao2 zhong1 zi3 mu3 yuan2 。
-- ti2 qie4 ling2 tong2 shan1 shang4 wang4 ， chong2 chong2 die2 die2 shi4 jin1 qian2 。
+- yao2 zhi3 gao1 feng1 xiao4 yi4 sheng1 ， hong2 xia2 zi3 wu4 mian4 qian2 sheng1 。
+- mei3 wu1 chan2 shi4 wu2 ren2 shi2 ， chang2 dao4 shan1 zhong1 you3 he4 xing2 。
+- shi2 nong4 yu4 chan2 qu1 gui3 mei4 ， ye4 jian1 jin1 ding3 zhu3 qiong2 ying1 。
+- ta1 shi2 ruo4 fu4 peng2 lai2 dong4 ， zhi1 wo3 xian1 jia1 you3 xing4 ming2 。
 
 ## 注释
 

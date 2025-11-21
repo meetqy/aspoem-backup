@@ -6,9 +6,9 @@ titleSlug: you-fan-luo-shan
 author: 蕭照
 authorPinyin: xiao1 zhao4
 authorSlug: xiao-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

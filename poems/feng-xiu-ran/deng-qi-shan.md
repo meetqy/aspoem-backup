@@ -6,10 +6,10 @@ titleSlug: deng-qi-shan
 author: 馮褎然
 authorPinyin: feng2 xiu4 ran2
 authorSlug: feng-xiu-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

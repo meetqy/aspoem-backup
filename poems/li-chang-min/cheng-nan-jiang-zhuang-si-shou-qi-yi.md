@@ -6,10 +6,10 @@ titleSlug: cheng-nan-jiang-zhuang-si-shou-qi-yi
 author: 李長民
 authorPinyin: li3 chang2 min2
 authorSlug: li-chang-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

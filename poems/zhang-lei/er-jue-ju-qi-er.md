@@ -6,21 +6,21 @@ titleSlug: er-jue-ju-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茅簷斜日曉雞號，水滿陂塘薺麥高。
-- 回首故園空悵望，東門歸路綠迢迢。
+- 歲陰慘澹不可出，竹榻地爐聊自安。
+- 黄葉滿山籬落晚，北風吹雨濕荒寒。
 
 ## 拼音
 
-- mao2 yan2 xie2 ri4 xiao3 ji1 hao4 ， shui3 man3 bei1 tang2 ji4 mai4 gao1 。
-- hui2 shou3 gu4 yuan2 kong1 chang4 wang4 ， dong1 men2 gui1 lu4 lü4 tiao2 tiao2 。
+- sui4 yin1 can3 dan4 bu4 ke3 chu1 ， zhu2 ta4 di4 lu2 liao2 zi4 an1 。
+- huang2 ye4 man3 shan1 li2 luo4 wan3 ， bei3 feng1 chui1 yu3 shi1 huang1 han2 。
 
 ## 注释
 

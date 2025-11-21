@@ -6,10 +6,10 @@ titleSlug: shen-jian-song-cheng-yong-shan-shi
 author: 顯首座
 authorPinyin: xian3 shou3 zuo4
 authorSlug: xian-shou-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-ye-shu-xiang-song-shao-yao-er-shou-qi-er
 author: 胡澄
 authorPinyin: hu2 cheng2
 authorSlug: hu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 景定朝士
 authorPinyin: jing3 ding4 chao2 shi4
 authorSlug: jing-ding-chao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

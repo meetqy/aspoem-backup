@@ -6,10 +6,10 @@ titleSlug: guo-qing-yuan-da-jia-xia
 author: 章才邵
 authorPinyin: zhang1 cai2 shao4
 authorSlug: zhang-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

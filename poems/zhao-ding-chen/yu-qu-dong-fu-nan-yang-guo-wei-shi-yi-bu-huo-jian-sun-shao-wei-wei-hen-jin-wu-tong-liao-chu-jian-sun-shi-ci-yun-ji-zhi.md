@@ -6,10 +6,10 @@ titleSlug: yu-qu-dong-fu-nan-yang-guo-wei-shi-yi-bu-huo-jian-sun-shao-wei-wei-he
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

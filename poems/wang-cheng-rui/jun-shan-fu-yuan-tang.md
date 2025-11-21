@@ -6,10 +6,10 @@ titleSlug: jun-shan-fu-yuan-tang
 author: 王呈瑞
 authorPinyin: wang2 cheng2 rui4
 authorSlug: wang-cheng-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

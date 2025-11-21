@@ -6,25 +6,25 @@ titleSlug: jiang-shang
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山束江流急，雲兼霧氣深。
-- 輕鷗閑態度，孤鴈苦聲音。
-- 客路行無極，風光古又今。
-- 梅花出籬落，幽事頗關心。
+- 江上維舟穩，人間行路難。
+- 數朝花雨細，一夜社風寒。
+- 燕語能留客，蛙鳴豈爲官。
+- 苦吟成底事，贏得瘦團欒。
 
 ## 拼音
 
-- shan1 shu4 jiang1 liu2 ji2 ， yun2 jian1 wu4 qi4 shen1 。
-- qing1 ou1 xian2 tai4 du4 ， gu1 yan4 ku3 sheng1 yin1 。
-- ke4 lu4 xing2 wu2 ji2 ， feng1 guang1 gu3 you4 jin1 。
-- mei2 hua1 chu1 li2 luo4 ， you1 shi4 po1 guan1 xin1 。
+- jiang1 shang4 wei2 zhou1 wen3 ， ren2 jian4 xing2 lu4 nan2 。
+- shu4 chao2 hua1 yu3 xi4 ， yi2 ye4 she4 feng1 han2 。
+- yan4 yu3 neng2 liu2 ke4 ， wa1 ming2 qi3 wei2 guan1 。
+- ku3 yin2 cheng2 di3 shi4 ， ying2 de2 shou4 tuan2 luan2 。
 
 ## 注释
 

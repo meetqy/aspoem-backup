@@ -1,30 +1,26 @@
 ---
 id: lu-you-yan-zuo
-title: 宴坐
+title: 燕坐
 titlePinyin: yan4 zuo4
 titleSlug: yan-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身窮寄山裏，心安一事無。
-- 新傳小止觀，漸觧半跏趺。
-- 急雪鳴窗紙，孤燈耿地爐。
-- 老来元少睡，且復兀枯株。
+- 赫日曈曈湧海門，黄流混混泝河源。
+- 功成一日書仙籍，鍊骨成金不足言。
 
 ## 拼音
 
-- shen1 qiong2 ji4 shan1 li3 ， xin1 an1 yi2 shi4 wu2 。
-- xin1 chuan2 xiao3 zhi3 guan1 ， jian4 jie3 ban4 jia1 fu1 。
-- ji2 xue3 ming2 chuang1 zhi3 ， gu1 deng1 geng3 di4 lu2 。
-- lao3 lai2 yuan2 shao3 shui4 ， qie3 fu4 wu4 ku1 zhu1 。
+- he4 ri4 tong2 tong2 yong3 hai3 men2 ， huang2 liu2 hun4 hun0 su4 he2 yuan2 。
+- gong1 cheng2 yi2 ri4 shu1 xian1 ji2 ， lian4 gu3 cheng2 jin1 bu4 zu2 yan2 。
 
 ## 注释
 

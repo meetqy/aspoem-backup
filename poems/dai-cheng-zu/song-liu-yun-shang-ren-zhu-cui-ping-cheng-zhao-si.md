@@ -6,10 +6,10 @@ titleSlug: song-liu-yun-shang-ren-zhu-cui-ping-cheng-zhao-si
 author: 戴成祖
 authorPinyin: dai4 cheng2 zu3
 authorSlug: dai-cheng-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

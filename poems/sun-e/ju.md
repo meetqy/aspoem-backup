@@ -6,19 +6,19 @@ titleSlug: ju
 author: 孫諤
 authorPinyin: sun1 e4
 authorSlug: sun-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹林藏月讀書家。
+- 秋空獨見周王廟，夜月猶懸蜀將營。
 
 ## 拼音
 
-- zhu2 lin2 cang2 yue4 du2 shu1 jia1 。
+- qiu1 kong1 du2 jian4 zhou1 wang2 miao4 ， ye4 yue4 you2 xuan2 shu3 jiang1 ying2 。
 
 ## 注释
 

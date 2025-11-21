@@ -6,10 +6,10 @@ titleSlug: hu-kou-zhu-bo-liu-jun-shao-wei-yi-zao-hu-shi-er-feng-jian-yi-qi-yi-pa
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

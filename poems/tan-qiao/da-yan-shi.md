@@ -9,18 +9,18 @@ authorSlug: tan-qiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 線作長江扇作天，靸鞵拋向海東邊。
-- 蓬萊信道無多路，只在譚生拄杖前。
+- 線大長江扇大天，屐鞋抛在海東邉。
+- 世間多少閒蟲豸，盡在郯生柱杖前。
 
 ## 拼音
 
-- xian4 zuo4 chang2 jiang1 shan4 zuo4 tian1 ， sa3 xie2 pao1 xiang4 hai3 dong1 bian1 。
-- peng2 lai2 xin4 dao4 wu2 duo1 lu4 ， zhi1 zai4 tan2 sheng1 zhu3 zhang4 qian2 。
+- xian4 da4 chang2 jiang1 shan4 da4 tian1 ， ji1 xie2 pao1 zai4 hai3 dong1 bian1 。
+- shi4 jian4 duo1 shao3 xian2 chong2 zhi4 ， jin4 zai4 tan2 sheng1 zhu4 zhang4 qian2 。
 
 ## 注释
 

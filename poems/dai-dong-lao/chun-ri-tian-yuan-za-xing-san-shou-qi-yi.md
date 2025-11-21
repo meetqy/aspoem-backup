@@ -6,10 +6,10 @@ titleSlug: chun-ri-tian-yuan-za-xing-san-shou-qi-yi
 author: 戴東老
 authorPinyin: dai4 dong1 lao3
 authorSlug: dai-dong-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

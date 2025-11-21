@@ -6,25 +6,25 @@ titleSlug: zeng-ye-shao-min
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 絳蠟高然玉粟花，眉間喜色見宜家。
-- 銀河已報橋成鵲，寶鏡遥知鬢畫鴉。
-- 柳外月圓人漸好，洞中桃出路非賒。
-- 從今莫作悲秋賦，直自安仁鬢未華。
+- 故國三千里，五行信偶然。
+- 丈夫天下志，兒女客中憐。
+- 荆鄂十守歲，衡潭三拜年。
+- 新正納殊祐，從此不孤眠。
 
 ## 拼音
 
-- jiang4 la4 gao1 ran2 yu4 su4 hua1 ， mei2 jian4 xi3 se4 jian4 yi2 jia1 。
-- yin2 he2 yi3 bao4 qiao2 cheng2 que4 ， bao3 jing4 yao2 zhi1 bin4 hua4 ya1 。
-- liu3 wai4 yue4 yuan2 ren2 jian4 hao3 ， dong4 zhong1 tao2 chu1 lu4 fei1 she1 。
-- cong2 jin1 mo4 zuo4 bei1 qiu1 fu4 ， zhi2 zi4 an1 ren2 bin4 wei4 hua2 。
+- gu4 guo2 san1 qian1 li3 ， wu3 xing2 xin4 ou3 ran2 。
+- zhang4 fu0 tian1 xia4 zhi4 ， er2 nü3 ke4 zhong1 lian2 。
+- jing1 e4 shi2 shou3 sui4 ， heng2 tan2 san1 bai4 nian2 。
+- xin1 zheng1 na4 shu1 you4 ， cong2 ci3 bu4 gu1 mian2 。
 
 ## 注释
 

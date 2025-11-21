@@ -6,10 +6,10 @@ titleSlug: yun-an-yu-xu-guan-nan-xuan-gan-shi-ou-shu-wu-shou-qi-san
 author: 杜柬之
 authorPinyin: du4 jian3 zhi1
 authorSlug: du-jian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

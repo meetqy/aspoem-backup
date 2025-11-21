@@ -6,9 +6,9 @@ titleSlug: ji-zeng-meng-ying-da-shi
 author: 陶穀
 authorPinyin: tao2 gu3
 authorSlug: tao-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

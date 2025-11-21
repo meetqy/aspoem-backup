@@ -6,10 +6,10 @@ titleSlug: yu-hua-shan
 author: 張道宗
 authorPinyin: zhang1 dao4 zong1
 authorSlug: zhang-dao-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

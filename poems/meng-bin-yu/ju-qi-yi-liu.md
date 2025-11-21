@@ -6,9 +6,9 @@ titleSlug: ju-qi-yi-liu
 author: 孟賓于
 authorPinyin: meng4 bin1 yu2
 authorSlug: meng-bin-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

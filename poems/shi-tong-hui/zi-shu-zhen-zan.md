@@ -6,9 +6,9 @@ titleSlug: zi-shu-zhen-zan
 author: 釋通慧
 authorPinyin: shi4 tong1 hui4
 authorSlug: shi-tong-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

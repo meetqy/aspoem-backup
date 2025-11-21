@@ -6,10 +6,10 @@ titleSlug: fan-gong-ting-hu
 author: 劉刪
 authorPinyin: liu2 shan1
 authorSlug: liu-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-yi-zhang-shi-er-ju-yong-zang-de-ci-shan-lao
 author: 何誠孺
 authorPinyin: he2 cheng2 ru2
 authorSlug: he-cheng-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

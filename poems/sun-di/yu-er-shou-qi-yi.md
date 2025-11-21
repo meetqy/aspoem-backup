@@ -6,25 +6,25 @@ titleSlug: yu-er-shou-qi-yi
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山空發清響，樓迥落餘霏。
-- 掩冉花頭重，渾酣水面肥。
-- 喧豗沉地鏡，飄灑浄垣衣。
-- 數點蒼茫裏，饑烏接翅歸。
+- 風卷三江立，雷穿九地鳴。
+- 捎林百鳥散，破柱一龍驚。
+- 滿樹春聲合，連甍曉溜傾。
+- 坐看流惡盡，邑里一時清。
 
 ## 拼音
 
-- shan1 kong1 fa1 qing1 xiang3 ， lou2 jiong3 luo4 yu2 fei1 。
-- yan3 ran3 hua1 tou2 zhong4 ， hun2 han1 shui3 mian4 fei2 。
-- xuan1 hui1 chen2 di4 jing4 ， piao1 sa3 jing4 yuan2 yi1 。
-- shu4 dian3 cang1 mang2 li3 ， ji1 wu1 jie1 chi4 gui1 。
+- feng1 juan4 san1 jiang1 li4 ， lei2 chuan1 jiu3 di4 ming2 。
+- shao1 lin2 bai3 niao3 san4 ， po4 zhu4 yi4 long2 jing1 。
+- man3 shu4 chun1 sheng1 he2 ， lian2 meng2 xiao3 liu1 qing1 。
+- zuo4 kan4 liu2 e4 jin4 ， yi4 li3 yi4 shi2 qing1 。
 
 ## 注释
 

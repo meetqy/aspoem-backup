@@ -6,10 +6,10 @@ titleSlug: ti-hua
 author: 李甲
 authorPinyin: li3 jia3
 authorSlug: li-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

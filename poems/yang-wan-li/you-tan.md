@@ -6,21 +6,21 @@ titleSlug: you-tan
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老來無面見毛錐，猶把閑愁付小詩。
-- 若道愁多頭易白，鷺鷥從小鬢成絲。
+- 飽喜饑嗔笑殺儂，鳳皇未可笑狙公。
+- 儘逃暮四朝三外，猶在桐花竹實中。
 
 ## 拼音
 
-- lao3 lai2 wu2 mian4 jian4 mao2 zhui1 ， you2 ba3 xian2 chou2 fu4 xiao3 shi1 。
-- ruo4 dao4 chou2 duo1 tou2 yi4 bai2 ， lu4 si1 cong2 xiao3 bin4 cheng2 si1 。
+- bao3 xi3 ji1 chen1 xiao4 sha1 nong2 ， feng4 huang2 wei4 ke3 xiao4 ju1 gong1 。
+- jin3 tao2 mu4 si4 chao2 san1 wai4 ， you2 zai4 tong2 hua1 zhu2 shi2 zhong1 。
 
 ## 注释
 

@@ -6,21 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 頭上漫漫，脚下漫漫。
-- 拈掇不得，地闊天寬，老僧住持事繁。
+- 肥馬碌碌，瘦馬碌碌。
+- 醫得眼前瘡，剜却心頭肉。
+- 朝不足，莫不足，六六依然三十六。
+- 雲門見睦州，良遂參麻谷。
 
 ## 拼音
 
-- tou2 shang4 man4 man4 ， jiao3 xia4 man4 man4 。
-- nian1 duo1 bu4 de2 ， di4 kuo4 tian1 kuan1 ， lao3 seng1 zhu4 chi2 shi4 fan2 。
+- fei2 ma3 lu4 lu4 ， shou4 ma3 lu4 lu4 。
+- yi1 de2 yan3 qian2 chuang1 ， wan1 que4 xin1 tou2 rou4 。
+- chao2 bu4 zu2 ， mo4 bu4 zu2 ， liu4 liu4 yi1 ran2 san1 shi2 liu4 。
+- yun2 men2 jian4 mu4 zhou1 ， liang2 sui4 can1 ma2 gu3 。
 
 ## 注释
 

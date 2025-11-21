@@ -6,10 +6,10 @@ titleSlug: ju
 author: 俞野處
 authorPinyin: yu2 ye3 chu3
 authorSlug: yu-ye-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

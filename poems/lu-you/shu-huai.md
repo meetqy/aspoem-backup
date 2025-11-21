@@ -6,25 +6,25 @@ titleSlug: shu-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬里馳驅坐一饑，自憐無計脱塵鞿。
-- 身留幕府還家少，眼亂文書把酒稀。
-- 客路更逢秋色晚，故山空有夢魂歸。
-- 芋羮豆飯元堪飽，錯用人言恨子威。
+- 無事自能心太平，有爲終蔽性光明。
+- 皮膚脫盡見真理，粱肉掃空甘菜羹。
+- 處處浮家成野宿，時時策蹇作山行。
+- 平生常笑羊裘老，史冊猶存後世名。
 
 ## 拼音
 
-- wan4 li3 chi2 qu1 zuo4 yi4 ji1 ， zi4 lian2 wu2 ji4 tuo1 chen2 ji1 。
-- shen1 liu2 mu4 fu3 huan2 jia1 shao3 ， yan3 luan4 wen2 shu1 ba3 jiu3 xi1 。
-- ke4 lu4 geng4 feng2 qiu1 se4 wan3 ， gu4 shan1 kong1 you3 meng4 hun2 gui1 。
-- yu4 geng1 dou4 fan4 yuan2 kan1 bao3 ， cuo4 yong4 ren2 yan2 hen4 zi3 wei1 。
+- wu2 shi4 zi4 neng2 xin1 tai4 ping2 ， you3 wei2 zhong1 bi4 xing4 guang1 ming2 。
+- pi2 fu1 tuo1 jin4 jian4 zhen1 li3 ， liang2 rou4 sao3 kong1 gan1 cai4 geng1 。
+- chu3 chu3 fu2 jia1 cheng2 ye3 su4 ， shi2 shi2 ce4 jian3 zuo4 shan1 xing2 。
+- ping2 sheng1 chang2 xiao4 yang2 qiu2 lao3 ， shi3 ce4 you2 cun2 hou4 shi4 ming2 。
 
 ## 注释
 

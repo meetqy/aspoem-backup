@@ -1,6 +1,6 @@
 ---
 id: li-jiu-ling-lu-she-wo-bing
-title: 旅舍卧病
+title: 旅舍臥病
 titlePinyin: lü3 she4 wo4 bing4
 titleSlug: lu-she-wo-bing
 author: 李九齡
@@ -15,7 +15,7 @@ tags: []
 ## 正文
 
 - 家隔西秦無遠信，身隨東洛度流年。
-- 病來旅館誰相問，牢落閒庭一樹蟬。
+- 病來旅館誰相問，牢落閑庭一樹蟬。
 
 ## 拼音
 

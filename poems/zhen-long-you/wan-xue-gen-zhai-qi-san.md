@@ -6,10 +6,10 @@ titleSlug: wan-xue-gen-zhai-qi-san
 author: 甄龍友
 authorPinyin: zhen1 long2 you3
 authorSlug: zhen-long-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

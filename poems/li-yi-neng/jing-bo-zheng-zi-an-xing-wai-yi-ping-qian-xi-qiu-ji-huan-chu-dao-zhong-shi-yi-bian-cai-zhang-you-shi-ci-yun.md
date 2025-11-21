@@ -6,10 +6,10 @@ titleSlug: jing-bo-zheng-zi-an-xing-wai-yi-ping-qian-xi-qiu-ji-huan-chu-dao-zhon
 author: 李益能
 authorPinyin: li3 yi4 neng2
 authorSlug: li-yi-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

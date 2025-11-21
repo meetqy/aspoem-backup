@@ -6,10 +6,10 @@ titleSlug: ju
 author: 劉渭
 authorPinyin: liu2 wei4
 authorSlug: liu-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

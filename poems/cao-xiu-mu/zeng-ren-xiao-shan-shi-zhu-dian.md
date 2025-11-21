@@ -6,10 +6,10 @@ titleSlug: zeng-ren-xiao-shan-shi-zhu-dian
 author: 曹修睦
 authorPinyin: cao2 xiu1 mu4
 authorSlug: cao-xiu-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

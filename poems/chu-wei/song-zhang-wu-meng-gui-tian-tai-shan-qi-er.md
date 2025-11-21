@@ -6,10 +6,10 @@ titleSlug: song-zhang-wu-meng-gui-tian-tai-shan-qi-er
 author: 初暐
 authorPinyin: chu1 wei3
 authorSlug: chu-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

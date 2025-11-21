@@ -6,25 +6,21 @@ titleSlug: wu-xing-zhou-zhong-you-zuo
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 大澤知何處，扁舟快此行。
-- 綺羅紛勝賞，歌吹溢歡聲。
-- 茭葑春還合，波濤暮自平。
-- 臨風一披拂，誰識未歸情。
+- 一水濡須百里間，舉頭遥見水西山。
+- 微波不動又終日，安得扁舟送我還。
 
 ## 拼音
 
-- da4 ze2 zhi1 he2 chu3 ， pian1 zhou1 kuai4 ci3 xing2 。
-- qi3 luo2 fen1 sheng4 shang3 ， ge1 chui1 yi4 huan1 sheng1 。
-- jiao1 feng1 chun1 huan2 he2 ， bo1 tao1 mu4 zi4 ping2 。
-- lin2 feng1 yi4 pi1 fu2 ， shui2 shi2 wei4 gui1 qing2 。
+- yi4 shui3 ru2 xu1 bai3 li3 jian4 ， ju3 tou2 yao2 jian4 shui3 xi1 shan1 。
+- wei1 bo1 bu2 dong4 you4 zhong1 ri4 ， an1 de2 pian1 zhou1 song4 wo3 huan2 。
 
 ## 注释
 

@@ -14,10 +14,11 @@ tags: []
 
 ## 正文
 
-- 湖南雖不就卑官，高卧深雲道自安。
+- 湖南雖不就卑官，高臥深雲道自安。
 - 病起坐當秋閣迥，酒醒吟對夜濤寒。
 - 爐中藥熟分僧服，榻上琴閑借我彈。
 - 幸遇清朝有良鑒，退身爭忍似方干。
+- （同前）。
 
 ## 拼音
 
@@ -25,6 +26,7 @@ tags: []
 - bing4 qi3 zuo4 dang1 qiu1 ge2 jiong3 ， jiu3 xing3 yin2 dui4 ye4 tao1 han2 。
 - lu2 zhong1 yao4 shu2 fen1 seng1 fu2 ， ta4 shang4 qin2 xian2 jie4 wo3 dan4 。
 - xing4 yu4 qing1 chao2 you3 liang2 jian4 ， tui4 shen1 zheng1 ren3 si4 fang1 gan1 。
+- （ tong2 qian2 ）。
 
 ## 注释
 

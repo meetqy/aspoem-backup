@@ -6,10 +6,10 @@ titleSlug: zi-shan-zai-hui-shi-jian-he-yin-you-xu-cheng-zi-shan-bu-yi-yu-bu-cai-
 author: 張先
 authorPinyin: zhang1 xian1
 authorSlug: zhang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

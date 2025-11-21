@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao
 author: 嚴嘉
 authorPinyin: yan2 jia1
 authorSlug: yan-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

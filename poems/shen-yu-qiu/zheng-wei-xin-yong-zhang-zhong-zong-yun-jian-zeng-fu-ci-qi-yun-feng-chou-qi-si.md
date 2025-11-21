@@ -6,10 +6,10 @@ titleSlug: zheng-wei-xin-yong-zhang-zhong-zong-yun-jian-zeng-fu-ci-qi-yun-feng-c
 author: 沈與求
 authorPinyin: shen3 yu3 qiu2
 authorSlug: shen-yu-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: da-qian-shao-qing
 author: 舒雅
 authorPinyin: shu1 ya3
 authorSlug: shu-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

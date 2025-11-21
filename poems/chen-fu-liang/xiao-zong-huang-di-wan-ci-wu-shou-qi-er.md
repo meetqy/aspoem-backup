@@ -6,25 +6,25 @@ titleSlug: xiao-zong-huang-di-wan-ci-wu-shou-qi-er
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 但謹雞鳴問，何知鶴髮侵。
-- 石經方典學，盟載更關心。
-- 四海堯喪畢，三年舜慕深。
-- 匆匆付神器，長樂尚沾襟。
+- 深衷何自見，寬詔不勝書。
+- 當宁延方岳，逢人問里閭。
+- 歲爲周委積，家被漢蠲除。
+- 巷哭彌天遠，長江淚不如。
 
 ## 拼音
 
-- dan4 jin3 ji1 ming2 wen4 ， he2 zhi1 he4 fa4 qin1 。
-- shi2 jing1 fang1 dian3 xue2 ， meng2 zai4 geng4 guan1 xin1 。
-- si4 hai3 yao2 sang1 bi4 ， san1 nian2 shun4 mu4 shen1 。
-- cong1 cong1 fu4 shen2 qi4 ， chang2 le4 shang4 zhan1 jin1 。
+- shen1 zhong1 he2 zi4 jian4 ， kuan1 zhao4 bu2 sheng4 shu1 。
+- dang1 ning2 yan2 fang1 yue4 ， feng2 ren2 wen4 li3 lü2 。
+- sui4 wei2 zhou1 wei3 ji1 ， jia1 bei4 han4 juan1 chu2 。
+- xiang4 ku1 mi2 tian1 yuan3 ， chang2 jiang1 lei4 bu4 ru2 。
 
 ## 注释
 

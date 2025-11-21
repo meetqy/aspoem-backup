@@ -6,9 +6,9 @@ titleSlug: wen-rong-yu-he-xiang-ji-er-wang-gan-fu-jue-ju
 author: 潘若沖
 authorPinyin: pan1 ruo4 chong1
 authorSlug: pan-ruo-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

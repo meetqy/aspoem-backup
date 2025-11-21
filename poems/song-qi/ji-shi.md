@@ -6,25 +6,21 @@ titleSlug: ji-shi
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中伏翻無暑，斜陽未即曛。
-- 暫光風處葉，餘墨雨殘雲。
-- 圃埒繁蔬甲，堂坳疊蘚文。
-- 巾㡚殊上喜，文酒半離羣。
+- 我來春已晏，道樾半清陰。
+- 崖暗石蹲虎，林明花散金。
 
 ## 拼音
 
-- zhong1 fu2 fan1 wu2 shu3 ， xie2 yang2 wei4 ji2 xun1 。
-- zan4 guang1 feng1 chu3 ye4 ， yu2 mo4 yu3 can2 yun2 。
-- pu3 lie4 fan2 shu1 jia3 ， tang2 ao4 die2 xian3 wen2 。
-- jin1 㡚 shu1 shang4 xi3 ， wen2 jiu3 ban4 li2 qun2 。
+- wo3 lai2 chun1 yi3 yan4 ， dao4 yue4 ban4 qing1 yin1 。
+- ya2 an4 shi2 dun1 hu3 ， lin2 ming2 hua1 san4 jin1 。
 
 ## 注释
 

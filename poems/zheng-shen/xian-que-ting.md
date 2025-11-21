@@ -6,10 +6,10 @@ titleSlug: xian-que-ting
 author: 鄭宷
 authorPinyin: zheng4 shen3
 authorSlug: zheng-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

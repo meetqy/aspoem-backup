@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-qi
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 露冷蘂珠珮，五湖雲水深。
-- 一枝春好在，先寄月邊心。
+- 鼻中出入一毫端，不論春溫與夏寒。
+- 十二時間無別法，只將心事轉天盤。
 
 ## 拼音
 
-- lu4 leng3 rui3 zhu1 pei4 ， wu3 hu2 yun2 shui3 shen1 。
-- yi4 zhi1 chun1 hao3 zai4 ， xian1 ji4 yue4 bian1 xin1 。
+- bi2 zhong1 chu1 ru4 yi4 hao2 duan1 ， bu2 lun4 chun1 wen1 yu3 xia4 han2 。
+- shi2 er4 shi2 jian4 wu2 bie2 fa3 ， zhi1 jiang1 xin1 shi4 zhuan3 tian1 pan2 。
 
 ## 注释
 

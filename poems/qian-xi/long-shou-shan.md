@@ -9,22 +9,24 @@ authorSlug: qian-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 殘年仍置閏，五日恰逢春。
-- 携酒客獨嘗，敲門僧不嗔。
-- 雙松如拱立，萬井自橫陳。
+- 攜酒客不賞，敲門僧不嗔。
+- 雙松如拱立，萬井自橫廹。
 - 精舍故盤礴，元規塵上人。
+- （同治《泉州府志》卷六）。
 
 ## 拼音
 
 - can2 nian2 reng2 zhi4 run4 ， wu3 ri4 qia4 feng2 chun1 。
-- xie2 jiu3 ke4 du2 chang2 ， qiao1 men2 seng1 bu4 chen1 。
-- shuang1 song1 ru2 gong3 li4 ， wan4 jing3 zi4 heng2 chen2 。
+- xie2 jiu3 ke4 bu4 shang3 ， qiao1 men2 seng1 bu4 chen1 。
+- shuang1 song1 ru2 gong3 li4 ， wan4 jing3 zi4 heng2 po4 。
 - jing1 she4 gu4 pan2 bo2 ， yuan2 gui1 chen2 shang4 ren2 。
+- （ tong2 zhi4 《 quan2 zhou1 fu3 zhi4 》 juan4 liu4 ）。
 
 ## 注释
 

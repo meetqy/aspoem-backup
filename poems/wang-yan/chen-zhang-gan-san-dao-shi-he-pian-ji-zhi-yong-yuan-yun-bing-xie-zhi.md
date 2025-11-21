@@ -6,10 +6,10 @@ titleSlug: chen-zhang-gan-san-dao-shi-he-pian-ji-zhi-yong-yuan-yun-bing-xie-zhi
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

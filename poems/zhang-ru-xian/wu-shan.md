@@ -6,10 +6,10 @@ titleSlug: wu-shan
 author: 張汝賢
 authorPinyin: zhang1 ru3 xian2
 authorSlug: zhang-ru-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fan-zhi-de-ju-ye
 author: 劉元茂
 authorPinyin: liu2 yuan2 mao4
 authorSlug: liu-yuan-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

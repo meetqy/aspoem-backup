@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-si-wu-fang-di-liu-shi-shou-feng-zu-yong-feng-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 靈兮安留，煙燎既升。
-- 有碩其牲，有俎斯承。
-- 匪牲則碩，我德惟馨。
-- 緩節安歌，庶幾是聽。
+- 辰牡孔碩，奉牲以告。
+- 祕祝非祈，豐年宜報。
+- 至意昭徹，交乎神明。
+- 降福穰穰，用燕羣生。
 
 ## 拼音
 
-- ling2 xi1 an1 liu2 ， yan1 liao2 ji4 sheng1 。
-- you3 shuo4 qi2 sheng1 ， you3 zu3 si1 cheng2 。
-- fei3 sheng1 ze2 shuo4 ， wo3 de2 wei2 xin1 。
-- huan3 jie2 an1 ge1 ， shu4 ji1 shi4 ting1 。
+- chen2 mu3 kong3 shuo4 ， feng4 sheng1 yi3 gao4 。
+- bi4 zhu4 fei1 qi2 ， feng1 nian2 yi2 bao4 。
+- zhi4 yi4 zhao1 che4 ， jiao1 hu1 shen2 ming2 。
+- jiang4 fu2 rang2 rang2 ， yong4 yan4 qun2 sheng1 。
 
 ## 注释
 

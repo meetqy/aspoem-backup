@@ -6,10 +6,10 @@ titleSlug: ti-xi-shan-sheng-ci-bi
 author: 長沙郡人
 authorPinyin: chang2 sha1 jun4 ren2
 authorSlug: chang-sha-jun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

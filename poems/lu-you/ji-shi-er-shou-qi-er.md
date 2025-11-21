@@ -6,25 +6,21 @@ titleSlug: ji-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 穄飯流匙滑，葵羹出鬴香。
-- 有時留野客，亦復餉鄰牆。
-- 老圃傳占法，行僧遺藥方。
-- 未爲全絕物，終勝利名場。
+- 草衣木食更何求，穴處巢居過即休。
+- 尚恨未能全省事，一竿風月釣滄洲。
 
 ## 拼音
 
-- ji4 fan4 liu2 chi2 hua2 ， kui2 geng1 chu1 fu3 xiang1 。
-- you3 shi2 liu2 ye3 ke4 ， yi4 fu4 xiang3 lin2 qiang2 。
-- lao3 pu3 chuan2 zhan4 fa3 ， xing2 seng1 yi2 yao4 fang1 。
-- wei4 wei2 quan2 jue2 wu4 ， zhong1 sheng4 li4 ming2 chang3 。
+- cao3 yi1 mu4 shi2 geng4 he2 qiu2 ， xue2 chu3 chao2 ju1 guo4 ji2 xiu1 。
+- shang4 hen4 wei4 neng2 quan2 sheng3 shi4 ， yi4 gan1 feng1 yue4 diao4 cang1 zhou1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: dong-xiao-gong-qi-er
 author: 錢景諶
 authorPinyin: qian2 jing3 chen2
 authorSlug: qian-jing-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

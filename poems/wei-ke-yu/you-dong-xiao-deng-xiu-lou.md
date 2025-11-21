@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao-deng-xiu-lou
 author: 魏克愚
 authorPinyin: wei4 ke4 yu2
 authorSlug: wei-ke-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

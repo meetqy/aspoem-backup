@@ -6,10 +6,10 @@ titleSlug: xie-wan-nian-huai-hai-ji-ni-wei-shang-tang
 author: 釋了惠
 authorPinyin: shi4 le0 hui4
 authorSlug: shi-le-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

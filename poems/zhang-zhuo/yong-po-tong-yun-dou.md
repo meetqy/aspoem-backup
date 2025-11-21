@@ -9,20 +9,20 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 若冷頭面在，生平不熨空。
-- 即今雖冷惡，人自覓殘銅。
-- 。
+- 舊來心肚熱，無端強熨他。
+- 即今形勢冷，誰肯重（重字原缺，據《唐人小說》本補。
+- ）相磨。
 
 ## 拼音
 
-- ruo4 leng3 tou2 mian4 zai4 ， sheng1 ping2 bu2 yun4 kong1 。
-- ji2 jin1 sui1 leng3 e4 ， ren2 zi4 mi4 can2 tong2 。
-- 。
+- jiu4 lai2 xin1 du4 re4 ， wu2 duan1 qiang2 yun4 ta1 。
+- ji2 jin1 xing2 shi4 leng3 ， shui2 ken3 zhong4 （ zhong4 zi4 yuan2 que1 ， ju4 《 tang2 ren2 xiao3 shuo1 》 ben3 bu3 。
+- ） xiang1 mo2 。
 
 ## 注释
 

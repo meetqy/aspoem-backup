@@ -6,10 +6,10 @@ titleSlug: zhang-jun-yu-yong-bo-hun-yun-jian-shi-ci-yun-wei-xie
 author: 晁公遡
 authorPinyin: chao2 gong1 su4
 authorSlug: chao-gong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-ling-yan-ge-jing-ming-xin-dong
 author: 元勛
 authorPinyin: yuan2 xun1
 authorSlug: yuan-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

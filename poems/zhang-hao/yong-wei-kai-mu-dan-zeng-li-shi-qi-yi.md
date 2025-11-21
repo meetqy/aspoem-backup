@@ -6,10 +6,10 @@ titleSlug: yong-wei-kai-mu-dan-zeng-li-shi-qi-yi
 author: 張浩
 authorPinyin: zhang1 hao4
 authorSlug: zhang-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

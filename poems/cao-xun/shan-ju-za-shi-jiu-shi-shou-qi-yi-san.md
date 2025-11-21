@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朅去天台居，邑有萬戶酒。
-- 一出嘗十家，已覺醉屢肘。
-- 留連多好事，方圓煩飣鬬。
-- 約趁黄昏歸，不知月挂柳。
+- 客寄輦轂下，馳心田畝間。
+- 君恩重山嶽，臣節殊安閑。
+- 雖幸米鹽足，其如塵土顔。
+- 終負告歸罪，判然誠獨難。
 
 ## 拼音
 
-- qie4 qu4 tian1 tai2 ju1 ， yi4 you3 wan4 hu4 jiu3 。
-- yi4 chu1 chang2 shi2 jia1 ， yi3 jue2 zui4 lü3 zhou3 。
-- liu2 lian2 duo1 hao3 shi4 ， fang1 yuan2 fan2 ding4 dou4 。
-- yue1 chen4 huang2 hun1 gui1 ， bu4 zhi1 yue4 gua4 liu3 。
+- ke4 ji4 nian3 gu3 xia4 ， chi2 xin1 tian2 mu3 jian4 。
+- jun1 en1 chong2 shan1 yue4 ， chen2 jie2 shu1 an1 xian2 。
+- sui1 xing4 mi3 yan2 zu2 ， qi2 ru2 chen2 tu3 yan2 。
+- zhong1 fu4 gao4 gui1 zui4 ， pan4 ran2 cheng2 du2 nan2 。
 
 ## 注释
 

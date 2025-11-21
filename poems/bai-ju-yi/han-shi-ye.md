@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 無月無燈寒食夜，夜深猶立闇花前。
-- 忽因時節驚年幾，四十如今欠一年。
+- 四十九年身老日，一百五夜月明天。
+- 抱膝思量何事在，癡男騃女喚鞦韆。
 
 ## 拼音
 
-- wu2 yue4 wu2 deng1 han2 shi2 ye4 ， ye4 shen1 you2 li4 an4 hua1 qian2 。
-- hu1 yin1 shi2 jie2 jing1 nian2 ji1 ， si4 shi2 ru2 jin1 qian4 yi4 nian2 。
+- si4 shi2 jiu3 nian2 shen1 lao3 ri4 ， yi4 bai3 wu3 ye4 yue4 ming2 tian1 。
+- bao4 xi1 si1 liang0 he2 shi4 zai4 ， chi1 nan2 si4 nü3 huan4 qiu1 qian1 。
 
 ## 注释
 

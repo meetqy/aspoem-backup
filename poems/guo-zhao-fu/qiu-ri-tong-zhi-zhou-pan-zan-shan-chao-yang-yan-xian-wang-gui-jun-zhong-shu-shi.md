@@ -6,10 +6,10 @@ titleSlug: qiu-ri-tong-zhi-zhou-pan-zan-shan-chao-yang-yan-xian-wang-gui-jun-zho
 author: 郭昭符
 authorPinyin: guo1 zhao1 fu2
 authorSlug: guo-zhao-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

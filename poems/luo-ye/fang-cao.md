@@ -9,22 +9,18 @@ authorSlug: luo-ye
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 廢苑牆南殘雨中，似袍顏色在蒙茸。
-- 微香暗惹遊人步，遠綠纔分鬬雉蹤。
-- 三楚渡頭長恨見，五侯門外却難逢。
-- 年年縱有春風便，馬跡車輪一萬重。
+- 曲江岸上天街裏，兩地縱生車馬多。
+- 不似萋萋南浦見，晚來煙雨半相和。
 
 ## 拼音
 
-- fei4 yuan4 qiang2 nan2 can2 yu3 zhong1 ， si4 pao2 yan2 se4 zai4 meng2 rong2 。
-- wei1 xiang1 an4 re3 you2 ren2 bu4 ， yuan3 lü4 cai2 fen1 dou4 zhi4 zong1 。
-- san1 chu3 du4 tou2 chang2 hen4 jian4 ， wu3 hou2 men2 wai4 que4 nan2 feng2 。
-- nian2 nian2 zong4 you3 chun1 feng1 bian4 ， ma3 ji4 ju1 lun2 yi2 wan4 zhong4 。
+- qu3 jiang1 an4 shang4 tian1 jie1 li3 ， liang3 di4 zong4 sheng1 ju1 ma3 duo1 。
+- bu2 si4 qi1 qi1 nan2 pu3 jian4 ， wan3 lai2 yan1 yu3 ban4 xiang1 he2 。
 
 ## 注释
 

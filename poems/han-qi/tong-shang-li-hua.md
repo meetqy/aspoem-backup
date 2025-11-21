@@ -6,25 +6,25 @@ titleSlug: tong-shang-li-hua
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 興福梨珍號素封，千株花發此欣逢。
-- 風開笑臉輕桃艷，雨带啼痕自玉容。
-- 蝶舞只疑殘靨墜，月明唯覺異香濃。
-- 尋春已恨來傷晚，莫厭頻揮瀲灧鐘。
+- 寒食西藍賞素英，白毫光裏亂雲騰。
+- 莊嚴金地三千界，顔色瑶臺十二層。
+- 后土瓊花漸我寡，唐昌玉蕊豈吾朋。
+- 雪香預約爲亭號，修創終逢好事僧。
 
 ## 拼音
 
-- xing1 fu2 li2 zhen1 hao4 su4 feng1 ， qian1 zhu1 hua1 fa1 ci3 xin1 feng2 。
-- feng1 kai1 xiao4 lian3 qing1 tao2 yan4 ， yu3 dai4 ti2 hen2 zi4 yu4 rong2 。
-- die2 wu3 zhi1 yi2 can2 ye4 zhui4 ， yue4 ming2 wei2 jue2 yi4 xiang1 nong2 。
-- xun2 chun1 yi3 hen4 lai2 shang1 wan3 ， mo4 yan4 bin1 hui1 lian4 yan4 zhong1 。
+- han2 shi2 xi1 lan2 shang3 su4 ying1 ， bai2 hao2 guang1 li3 luan4 yun2 teng2 。
+- zhuang1 yan2 jin1 di4 san1 qian1 jie4 ， yan2 se4 yao2 tai2 shi2 er4 ceng2 。
+- hou4 tu3 qiong2 hua1 jian4 wo3 gua3 ， tang2 chang1 yu4 rui3 qi3 wu2 peng2 。
+- xue3 xiang1 yu4 yue1 wei2 ting2 hao4 ， xiu1 chuang4 zhong1 feng2 hao3 shi4 seng1 。
 
 ## 注释
 

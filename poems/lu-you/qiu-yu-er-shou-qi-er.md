@@ -6,25 +6,25 @@ titleSlug: qiu-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾廬多美蔭，最茂楸與梧。
-- 百鳥集其間，下上更鳴呼。
-- 秋風忽動地，摇落日日疏。
-- 何如澗底松，終歲無榮枯。
+- 秋晚兼旬雨，雨晴當有霜。
+- 頗思遊近縣，亦已戒輕裝。
+- 珍𩺃披綿美，寒醅撥雪香。
+- 菊花常歲有，所喜及重陽。
 
 ## 拼音
 
-- wu2 lu2 duo1 mei3 yin1 ， zui4 mao4 qiu1 yu3 wu2 。
-- bai3 niao3 ji2 qi2 jian4 ， xia4 shang4 geng4 ming2 hu1 。
-- qiu1 feng1 hu1 dong4 di4 ， yao2 luo4 ri4 ri4 shu1 。
-- he2 ru2 jian4 di3 song1 ， zhong1 sui4 wu2 rong2 ku1 。
+- qiu1 wan3 jian1 xun2 yu3 ， yu3 qing2 dang1 you3 shuang1 。
+- po1 si1 you2 jin4 xian4 ， yi4 yi3 jie4 qing1 zhuang1 。
+- zhen1 𩺃 pi1 mian2 mei3 ， han2 pei1 bo1 xue3 xiang1 。
+- ju2 hua1 chang2 sui4 you3 ， suo3 xi3 ji2 zhong4 yang2 。
 
 ## 注释
 

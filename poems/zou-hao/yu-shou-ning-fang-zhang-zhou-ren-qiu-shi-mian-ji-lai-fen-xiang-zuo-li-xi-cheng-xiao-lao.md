@@ -6,10 +6,10 @@ titleSlug: yu-shou-ning-fang-zhang-zhou-ren-qiu-shi-mian-ji-lai-fen-xiang-zuo-li
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

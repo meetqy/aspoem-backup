@@ -6,10 +6,10 @@ titleSlug: wu-wei-xian-zhai-gu-mei
 author: 劉用行
 authorPinyin: liu2 yong4 xing2
 authorSlug: liu-yong-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

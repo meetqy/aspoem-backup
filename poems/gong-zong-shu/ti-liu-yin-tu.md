@@ -6,10 +6,10 @@ titleSlug: ti-liu-yin-tu
 author: 貢宗舒
 authorPinyin: gong4 zong1 shu1
 authorSlug: gong-zong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

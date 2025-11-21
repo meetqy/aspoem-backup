@@ -6,10 +6,10 @@ titleSlug: ci-tai-shou-zheng-an-gong-tan-mei-guo-xi-hu-yun-qi-er
 author: 張棟
 authorPinyin: zhang1 dong4
 authorSlug: zhang-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

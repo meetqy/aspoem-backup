@@ -6,10 +6,10 @@ titleSlug: song-qi-ning-shang-ren
 author: 釋祖欽
 authorPinyin: shi4 zu3 qin1
 authorSlug: shi-zu-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

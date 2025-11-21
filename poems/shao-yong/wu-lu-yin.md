@@ -6,21 +6,25 @@ titleSlug: wu-lu-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾廬雖小粗容身，且免輕爲僦舍人。
-- 大有世人無屋住，向人簷下索溫存。
+- 吾亦愛吾廬，吾廬似野居。
+- 性隨天共淡，身與世俱疎。
+- 遍地長芳草，滿床堆亂書。
+- 自從無事後，更不著工夫。
 
 ## 拼音
 
-- wu2 lu2 sui1 xiao3 cu1 rong2 shen1 ， qie3 mian3 qing1 wei2 jiu4 she4 ren2 。
-- da4 you3 shi4 ren2 wu2 wu1 zhu4 ， xiang4 ren2 yan2 xia4 suo3 wen1 cun2 。
+- wu2 yi4 ai4 wu2 lu2 ， wu2 lu2 si4 ye3 ju1 。
+- xing4 sui2 tian1 gong4 dan4 ， shen1 yu3 shi4 ju4 shu1 。
+- bian4 di4 chang2 fang1 cao3 ， man3 chuang2 dui1 luan4 shu1 。
+- zi4 cong2 wu2 shi4 hou4 ， geng4 bu2 zhu4 gong1 fu0 。
 
 ## 注释
 

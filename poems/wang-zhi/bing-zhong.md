@@ -6,25 +6,25 @@ titleSlug: bing-zhong
 author: 王銍
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久知身是幻，况復病相侵。
-- 古寺松篁瘦，山空雨雪深。
-- 定知書不達，豈有客相尋。
-- 伴我殘燈火，應知夜夜心。
+- 遥夜支頤坐，春醪負十分。
+- 碧烟沈宿靄，清月入微雲。
+- 真妄怯多病，翔潛喜不聞。
+- 鞦韆人樂處，十載愴離羣。
 
 ## 拼音
 
-- jiu3 zhi1 shen1 shi4 huan4 ， kuang4 fu4 bing4 xiang1 qin1 。
-- gu3 si4 song1 huang2 shou4 ， shan1 kong1 yu3 xue3 shen1 。
-- ding4 zhi1 shu1 bu4 da2 ， qi3 you3 ke4 xiang1 xun2 。
-- ban4 wo3 can2 deng1 huo3 ， ying1 zhi1 ye4 ye4 xin1 。
+- yao2 ye4 zhi1 yi2 zuo4 ， chun1 lao2 fu4 shi2 fen1 。
+- bi4 yan1 shen3 su4 ai3 ， qing1 yue4 ru4 wei1 yun2 。
+- zhen1 wang4 qie4 duo1 bing4 ， xiang2 qian2 xi3 bu4 wen2 。
+- qiu1 qian1 ren2 le4 chu3 ， shi2 zai4 chuang4 li2 qun2 。
 
 ## 注释
 

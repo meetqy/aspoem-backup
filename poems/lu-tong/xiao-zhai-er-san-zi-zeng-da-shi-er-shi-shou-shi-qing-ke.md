@@ -9,18 +9,22 @@ authorSlug: lu-tong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 竹弟雖讓客，不敢當客恩。
-- 自慙埋沒久，滿面蒼苔痕。
+- 啓母是諸母，三十六峰是諸父。
+- 知君家近父母家，小人安得不懷土。
+- 憐君與我金石交，君歸可得共載否。
+- 小人無以報君恩，使君池亭風月古。
 
 ## 拼音
 
-- zhu2 di4 sui1 rang4 ke4 ， bu4 gan3 dang1 ke4 en1 。
-- zi4 can2 mai2 mei2 jiu3 ， man3 mian4 cang1 tai2 hen2 。
+- qi3 mu3 shi4 zhu1 mu3 ， san1 shi2 liu4 feng1 shi4 zhu1 fu4 。
+- zhi1 jun1 jia1 jin4 fu4 mu3 jia1 ， xiao3 ren2 an1 de2 bu4 huai2 tu3 。
+- lian2 jun1 yu3 wo3 jin1 shi2 jiao1 ， jun1 gui1 ke3 de2 gong4 zai4 fou3 。
+- xiao3 ren2 wu2 yi3 bao4 jun1 en1 ， shi3 jun1 chi2 ting2 feng1 yue4 gu3 。
 
 ## 注释
 

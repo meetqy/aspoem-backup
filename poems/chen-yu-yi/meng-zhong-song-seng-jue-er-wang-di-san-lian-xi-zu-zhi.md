@@ -6,9 +6,9 @@ titleSlug: meng-zhong-song-seng-jue-er-wang-di-san-lian-xi-zu-zhi
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

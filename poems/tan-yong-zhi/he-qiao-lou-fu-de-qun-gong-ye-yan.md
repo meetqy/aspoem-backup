@@ -1,6 +1,6 @@
 ---
 id: tan-yong-zhi-he-qiao-lou-fu-de-qun-gong-ye-yan
-title: 河橋樓賦得群公夜讌
+title: 河橋樓賦得羣公夜讌
 titlePinyin: he2 qiao2 lou2 fu4 de2 qun2 gong1 ye4 yan4
 titleSlug: he-qiao-lou-fu-de-qun-gong-ye-yan
 author: 譚用之

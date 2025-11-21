@@ -6,10 +6,10 @@ titleSlug: yun-an-jian-quan-xue-shi
 author: 王日翬
 authorPinyin: wang2 ri4 hui1
 authorSlug: wang-ri-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 范令孫
 authorPinyin: fan4 ling4 sun1
 authorSlug: fan-ling-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

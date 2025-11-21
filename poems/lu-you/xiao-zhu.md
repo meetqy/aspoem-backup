@@ -6,25 +6,25 @@ titleSlug: xiao-zhu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小築茅茨鏡水濱，天敎靜處著閑身。
-- 平原不復賦豪士，甫里但思歌散人。
-- 翠壁微泉時的皪，衡門疉嶂曉嶙峋。
-- 子虚誤辱諸公賞，萬里輕鷗豈易馴。
+- 小築並湖堤，茅茨不厭低。
+- 引泉澆藥圃，砟竹樹雞棲。
+- 夕靄山常淡，秋蕪路欲迷。
+- 平生草玄手，老去學鉏犂。
 
 ## 拼音
 
-- xiao3 zhu4 mao2 ci2 jing4 shui3 bin1 ， tian1 jiao4 jing4 chu3 zhu4 xian2 shen1 。
-- ping2 yuan2 bu2 fu4 fu4 hao2 shi4 ， fu3 li3 dan4 si1 ge1 san4 ren2 。
-- cui4 bi4 wei1 quan2 shi2 de0 li4 ， heng2 men2 die2 zhang4 xiao3 lin2 xun2 。
-- zi3 xu1 wu4 ru3 zhu1 gong1 shang3 ， wan4 li3 qing1 ou1 qi3 yi4 xun4 。
+- xiao3 zhu4 bing4 hu2 di1 ， mao2 ci2 bu2 yan4 di1 。
+- yin3 quan2 jiao1 yao4 pu3 ， zha3 zhu2 shu4 ji1 qi1 。
+- xi1 ai3 shan1 chang2 dan4 ， qiu1 wu2 lu4 yu4 mi2 。
+- ping2 sheng1 cao3 xuan2 shou3 ， lao3 qu4 xue2 chu2 li2 。
 
 ## 注释
 

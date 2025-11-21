@@ -6,10 +6,10 @@ titleSlug: liu-ti-wu-shi-yuan
 author: 何渷
 authorPinyin: he2 yan3
 authorSlug: he-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

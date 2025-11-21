@@ -6,9 +6,9 @@ titleSlug: xie-xu-jun-yao
 author: 折彥質
 authorPinyin: zhe2 yan4 zhi4
 authorSlug: zhe-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

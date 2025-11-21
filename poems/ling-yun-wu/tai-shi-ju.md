@@ -6,10 +6,10 @@ titleSlug: tai-shi-ju
 author: 凌雲屋
 authorPinyin: ling2 yun2 wu1
 authorSlug: ling-yun-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: feng-tong-gong-zhi-pi-lao-guo-ying-fu-shi-you-zhai
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

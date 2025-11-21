@@ -6,41 +6,45 @@ titleSlug: dong-gong-shou-shi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 甲觀秋彌月，前星蚤麗天。
-- 君親重慶日，家國中興年。
-- 英武神機遠，溫文德宇全。
-- 摛章森典則，會道極高堅。
-- 儉寶躬安履，仁端性自然。
-- 淵沖澄有量，海潤浹無邊。
-- 五學臨函丈，三朝拱邃延。
-- 頌聲敷政久，喜色問安還。
-- 銅律諧初度，桑弧絕舊傳。
-- 菊催重九近，梅占小春先。
-- 戲綵猗蘭殿，宣杯玳瑁筵。
-- 青宮千億壽，長對兩宮前。
+- 有赫題期盛，無疆嗣歷昌。
+- 中興歸濬哲，重慶啟元良。
+- 兩亥開基遠，三丁系統長。
+- 帝咨同物瑞，人卜降年祥。
+- 離日融雙照，乾天秉少陽。
+- 晨昏周內寢，詩禮舜巖廊。
+- 極右辰居煥，心前火德光。
+- 與齡偕聖父，德壽協虛皇。
+- 銅律風占兌，瑶山樂奏商。
+- 蓂芳鄰五位，菊色麗中央。
+- 視膳斑衣拱，傳觴玉契將。
+- 宸楓霜獻葉，仙桂月輸香。
+- 薰炷爭延祝，吟牋曷讚揚。
+- 形容仁與孝，步障有雲章。
 
 ## 拼音
 
-- jia3 guan1 qiu1 mi2 yue4 ， qian2 xing1 zao3 li2 tian1 。
-- jun1 qin1 zhong4 qing4 ri4 ， jia1 guo2 zhong1 xing1 nian2 。
-- ying1 wu3 shen2 ji1 yuan3 ， wen1 wen2 de2 yu3 quan2 。
-- chi1 zhang1 sen1 dian3 ze2 ， hui4 dao4 ji2 gao1 jian1 。
-- jian3 bao3 gong1 an1 lü3 ， ren2 duan1 xing4 zi4 ran2 。
-- yuan1 chong1 cheng2 you3 liang2 ， hai3 run4 jia1 wu2 bian1 。
-- wu3 xue2 lin2 han2 zhang4 ， san1 zhao1 gong3 sui4 yan2 。
-- song4 sheng1 fu1 zheng4 jiu3 ， xi3 se4 wen4 an1 huan2 。
-- tong2 lü4 xie2 chu1 du4 ， sang1 hu2 jue2 jiu4 chuan2 。
-- ju2 cui1 chong2 jiu3 jin4 ， mei2 zhan4 xiao3 chun1 xian1 。
-- xi4 cai3 yi1 lan2 dian4 ， xuan1 bei1 dai4 mao4 yan2 。
-- qing1 gong1 qian1 yi4 shou4 ， chang2 dui4 liang3 gong1 qian2 。
+- you3 he4 ti2 qi1 sheng4 ， wu2 jiang1 si4 li4 chang1 。
+- zhong1 xing1 gui1 jun4 zhe2 ， zhong4 qing4 qi3 yuan2 liang2 。
+- liang3 hai4 kai1 ji1 yuan3 ， san1 ding1 xi4 tong3 chang2 。
+- di4 zi1 tong2 wu4 rui4 ， ren2 bu3 jiang4 nian2 xiang2 。
+- li2 ri4 rong2 shuang1 zhao4 ， qian2 tian1 bing3 shao3 yang2 。
+- chen2 hun1 zhou1 nei4 qin3 ， shi1 li3 shun4 yan2 lang2 。
+- ji2 you4 chen2 ju1 huan4 ， xin1 qian2 huo3 de2 guang1 。
+- yu3 ling2 xie2 sheng4 fu4 ， de2 shou4 xie2 xu1 huang2 。
+- tong2 lü4 feng1 zhan4 dui4 ， yao2 shan1 le4 zou4 shang1 。
+- mi4 fang1 lin2 wu3 wei4 ， ju2 se4 li2 zhong1 yang1 。
+- shi4 shan4 ban1 yi1 gong3 ， chuan2 shang1 yu4 qi4 jiang1 。
+- chen2 feng1 shuang1 xian4 ye4 ， xian1 gui4 yue4 shu1 xiang1 。
+- xun1 zhu4 zheng1 yan2 zhu4 ， yin2 jian1 he2 zan4 yang2 。
+- xing2 rong2 ren2 yu3 xiao4 ， bu4 zhang4 you3 yun2 zhang1 。
 
 ## 注释
 

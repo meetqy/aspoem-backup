@@ -6,10 +6,10 @@ titleSlug: hao
 author: 周吟軒
 authorPinyin: zhou1 yin2 xuan1
 authorSlug: zhou-yin-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

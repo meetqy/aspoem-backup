@@ -6,25 +6,21 @@ titleSlug: ou-yong
 author: 洪朋
 authorPinyin: hong2 peng2
 authorSlug: hong-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 汴水日夜去，我心亦東流。
-- 如何向炎熱，尚復此淹留。
-- 京塵空擾擾，吾道本悠悠。
-- 頼得西江舸，今年下鄂州。
+- 黄鳥餘秋聲，紅菊作秋艷。
+- 一室得自娛，四時本無念。
 
 ## 拼音
 
-- bian4 shui3 ri4 ye4 qu4 ， wo3 xin1 yi4 dong1 liu2 。
-- ru2 he2 xiang4 yan2 re4 ， shang4 fu4 ci3 yan1 liu2 。
-- jing1 chen2 kong1 rao3 rao3 ， wu2 dao4 ben3 you1 you1 。
-- lai4 de2 xi1 jiang1 ge3 ， jin1 nian2 xia4 e4 zhou1 。
+- huang2 niao3 yu2 qiu1 sheng1 ， hong2 ju2 zuo4 qiu1 yan4 。
+- yi2 shi4 de2 zi4 yu2 ， si4 shi2 ben3 wu2 nian4 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: he-li-fang
 author: 鄧洵美
 authorPinyin: deng4 xun2 mei3
 authorSlug: deng-xun-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

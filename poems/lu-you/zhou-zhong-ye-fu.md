@@ -6,25 +6,25 @@ titleSlug: zhou-zhong-ye-fu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千里風塵季子裘，五湖烟浪志和舟。
-- 燈殘復吐惱孤夢，雨落還收生旅愁。
-- 城上霜笳入霄漢，烟中漁火耿汀洲。
-- 牧之未極詩人趣，但謂能輕萬戶侯。
+- 問天乞得不貲身，常作東阡北陌人。
+- 買酒不澆胸礌磈，憂時空覺膽輪囷。
+- 寓居尚復能栽竹，羈宦懸知正憶蓴。
+- 那似石帆山下客，釣船載月泊烟津。
 
 ## 拼音
 
-- qian1 li3 feng1 chen2 ji4 zi0 qiu2 ， wu3 hu2 yan1 lang4 zhi4 he2 zhou1 。
-- deng1 can2 fu4 tu3 nao3 gu1 meng4 ， yu3 luo4 huan2 shou1 sheng1 lü3 chou2 。
-- cheng2 shang4 shuang1 jia1 ru4 xiao1 han4 ， yan1 zhong1 yu2 huo3 geng3 ting1 zhou1 。
-- mu4 zhi1 wei4 ji2 shi1 ren2 qu4 ， dan4 wei4 neng2 qing1 wan4 hu4 hou2 。
+- wen4 tian1 qi3 de2 bu4 zi1 shen1 ， chang2 zuo4 dong1 qian1 bei3 mo4 ren2 。
+- mai3 jiu3 bu4 jiao1 xiong1 lei2 wei3 ， you1 shi2 kong1 jue2 dan3 lun2 qun1 。
+- yu4 ju1 shang4 fu4 neng2 zai1 zhu2 ， ji1 huan4 xuan2 zhi1 zheng4 yi4 chun2 。
+- na4 si4 shi2 fan1 shan1 xia4 ke4 ， diao4 chuan2 zai4 yue4 bo2 yan1 jin1 。
 
 ## 注释
 

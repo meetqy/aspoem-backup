@@ -6,25 +6,25 @@ titleSlug: qiu-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 毒熱秋未衰，吾廬况淺迫。
-- 雖云日一浴，流汗沾衣幘。
-- 蕭蕭三日雨，出此炮烙厄。
-- 瀟湘應更佳，恨我無六翮。
+- 雨滴何由止，人眠不復成。
+- 雲深無雁影，村近有砧聲。
+- 草草殘年夢，寥寥後世名。
+- 太山并蟻垤，俱向酒中平。
 
 ## 拼音
 
-- du2 re4 qiu1 wei4 shuai1 ， wu2 lu2 kuang4 qian3 po4 。
-- sui1 yun2 ri4 yi2 yu4 ， liu2 han4 zhan1 yi1 ze2 。
-- xiao1 xiao1 san1 ri4 yu3 ， chu1 ci3 pao2 luo4 e4 。
-- xiao1 xiang1 ying1 geng4 jia1 ， hen4 wo3 wu2 liu4 he2 。
+- yu3 di1 he2 you2 zhi3 ， ren2 mian2 bu2 fu4 cheng2 。
+- yun2 shen1 wu2 yan4 ying3 ， cun1 jin4 you3 zhen1 sheng1 。
+- cao3 cao3 can2 nian2 meng4 ， liao2 liao2 hou4 shi4 ming2 。
+- tai4 shan1 bing4 yi3 die2 ， ju4 xiang4 jiu3 zhong1 ping2 。
 
 ## 注释
 

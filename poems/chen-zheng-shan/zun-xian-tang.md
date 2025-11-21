@@ -6,10 +6,10 @@ titleSlug: zun-xian-tang
 author: 陳正善
 authorPinyin: chen2 zheng4 shan4
 authorSlug: chen-zheng-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

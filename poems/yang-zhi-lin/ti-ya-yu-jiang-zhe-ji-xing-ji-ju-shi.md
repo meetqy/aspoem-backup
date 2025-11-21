@@ -6,10 +6,10 @@ titleSlug: ti-ya-yu-jiang-zhe-ji-xing-ji-ju-shi
 author: 楊之麟
 authorPinyin: yang2 zhi1 lin2
 authorSlug: yang-zhi-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

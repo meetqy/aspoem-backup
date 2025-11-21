@@ -6,10 +6,10 @@ titleSlug: xie-song-ye-shu-zeng-shi-yong-shou-ju-jing-zhou-chu-qu-tang-huan-you-
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

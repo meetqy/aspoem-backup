@@ -6,21 +6,21 @@ titleSlug: shou-huang-tai-zi-qi-san
 author: 趙彥端
 authorPinyin: zhao4 yan4 duan1
 authorSlug: zhao-yan-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 光堯初御六龍天，上直參維大火躔。
-- 天意分明昌宋德，誕辰王世總丁年。
+- 明河楂上有仙翁，犯月撞星列碧穹。
+- 金闕東邊銀榜處，大書天地長男宮。
 
 ## 拼音
 
-- guang1 yao2 chu1 yu4 liu4 long2 tian1 ， shang4 zhi2 can1 wei2 da4 huo3 chan2 。
-- tian1 yi4 fen1 ming2 chang1 song4 de2 ， dan4 chen2 wang2 shi4 zong3 ding1 nian2 。
+- ming2 he2 zha1 shang4 you3 xian1 weng1 ， fan4 yue4 zhuang4 xing1 lie4 bi4 qiong2 。
+- jin1 que4 dong1 bian1 yin2 bang3 chu3 ， da4 shu1 tian1 di4 chang2 nan2 gong1 。
 
 ## 注释
 

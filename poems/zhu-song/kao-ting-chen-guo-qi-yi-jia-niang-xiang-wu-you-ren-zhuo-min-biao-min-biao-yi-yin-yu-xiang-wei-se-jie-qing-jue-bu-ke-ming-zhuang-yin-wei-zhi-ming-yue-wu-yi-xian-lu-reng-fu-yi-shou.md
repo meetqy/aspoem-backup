@@ -6,9 +6,9 @@ titleSlug: kao-ting-chen-guo-qi-yi-jia-niang-xiang-wu-you-ren-zhuo-min-biao-min-
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: wan-hu-ji-zhao-yong-wang-lu-xi-yun-qi-yi
 author: 羅䦔
 authorPinyin: luo2 䦔
 authorSlug: luo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

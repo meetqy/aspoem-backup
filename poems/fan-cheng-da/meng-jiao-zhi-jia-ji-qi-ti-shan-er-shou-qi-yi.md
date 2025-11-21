@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-meng-jiao-zhi-jia-ji-qi-ti-shan-er-shou-qi-yi
-title: 孟嶠之家姬乞題扇二首・其一
-titlePinyin: meng4 jiao4 zhi1 jia1 ji1 qi3 ti2 shan4 er4 shou3・qi2 yi1
+title: 孟嶠之家姬乞題扇二首  其一
+titlePinyin: meng4 jiao4 zhi1 jia1 ji1 qi3 ti2 shan4 er4 shou3     qi2 yi1
 titleSlug: meng-jiao-zhi-jia-ji-qi-ti-shan-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: geng-man-lao-jiang-ming-xiang-bang-jian-guo-cong-ju-yan-bie-fu-zuo-sh
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

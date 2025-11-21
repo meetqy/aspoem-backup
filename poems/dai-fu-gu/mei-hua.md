@@ -6,25 +6,25 @@ titleSlug: mei-hua
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 細把南枝看，百花無此奇。
-- 夜深鍾月魄，□□□□□。
-- 古樹龍其似，寒香蝶不知。
-- 幽蘭開亦早，二妙喜同時。
+- 瀟灑春葩縞壽陽，百花惟有此花强。
+- 月中分外精神出，雪裏幾多風味長。
+- 折向書窗疑是玉，吟來齒頰亦生香。
+- 年年茅舍江村畔，勾引詩人費品量。
 
 ## 拼音
 
-- xi4 ba3 nan2 zhi1 kan4 ， bai3 hua1 wu2 ci3 qi2 。
-- ye4 shen1 zhong1 yue4 po4 ，□□□□□。
-- gu3 shu4 long2 qi2 si4 ， han2 xiang1 die2 bu4 zhi1 。
-- you1 lan2 kai1 yi4 zao3 ， er4 miao4 xi3 tong2 shi2 。
+- xiao1 sa3 chun1 pa1 gao3 shou4 yang2 ， bai3 hua1 wei2 you3 ci3 hua1 qiang2 。
+- yue4 zhong1 fen4 wai4 jing1 shen2 chu1 ， xue3 li3 ji1 duo1 feng1 wei4 chang2 。
+- zhe2 xiang4 shu1 chuang1 yi2 shi4 yu4 ， yin2 lai2 chi3 jia2 yi4 sheng1 xiang1 。
+- nian2 nian2 mao2 she4 jiang1 cun1 pan4 ， gou1 yin3 shi1 ren2 fei4 pin3 liang2 。
 
 ## 注释
 

@@ -6,33 +6,29 @@ titleSlug: ye-guo-lu-xu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中夜過魯墟，船底鳴細浪。
-- 月出菱歌長，林闇績火壯。
-- 故居不可識，四顧但青嶂。
-- 百年幾廢興，撫事一悽愴。
-- 士生本耕稼，時來偶卿相。
-- 功名亦餘事，所勉在素尚。
-- 况吾多難者，久已冥得喪。
-- 微祿行當辭，没身事幽曠。
+- 晡時發柯橋，申夜過魯墟。
+- 燈出籬落間，七世有故廬。
+- 門低不容駟，壁壞亡遺書。
+- 高樹宿羈鳥，廢沼跳驚魚。
+- 移船過古埭，水面涵星疏。
+- 安得病良已，畢世澆春蔬。
 
 ## 拼音
 
-- zhong1 ye4 guo4 lu3 xu1 ， chuan2 di3 ming2 xi4 lang4 。
-- yue4 chu1 ling2 ge1 chang2 ， lin2 an4 ji4 huo3 zhuang4 。
-- gu4 ju1 bu4 ke3 shi2 ， si4 gu4 dan4 qing1 zhang4 。
-- bai3 nian2 ji1 fei4 xing1 ， fu3 shi4 yi4 qi1 chuang4 。
-- shi4 sheng1 ben3 geng1 jia4 ， shi2 lai2 ou3 qing1 xiang4 。
-- gong1 ming2 yi4 yu2 shi4 ， suo3 mian3 zai4 su4 shang4 。
-- kuang4 wu2 duo1 nan2 zhe3 ， jiu3 yi3 ming2 de2 sang1 。
-- wei1 lu4 xing2 dang1 ci2 ， mei2 shen1 shi4 you1 kuang4 。
+- bu1 shi2 fa1 ke1 qiao2 ， shen1 ye4 guo4 lu3 xu1 。
+- deng1 chu1 li2 luo4 jian4 ， qi1 shi4 you3 gu4 lu2 。
+- men2 di1 bu4 rong2 si4 ， bi4 huai4 wang2 yi2 shu1 。
+- gao1 shu4 su4 ji1 niao3 ， fei4 zhao3 tiao4 jing1 yu2 。
+- yi2 chuan2 guo4 gu3 dai4 ， shui3 mian4 han2 xing1 shu1 。
+- an1 de2 bing4 liang2 yi3 ， bi4 shi4 jiao1 chun1 shu1 。
 
 ## 注释
 

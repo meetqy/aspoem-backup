@@ -6,10 +6,10 @@ titleSlug: diao-ao-ting
 author: 趙傑之
 authorPinyin: zhao4 jie2 zhi1
 authorSlug: zhao-jie-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

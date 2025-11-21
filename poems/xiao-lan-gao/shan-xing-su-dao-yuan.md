@@ -6,10 +6,10 @@ titleSlug: shan-xing-su-dao-yuan
 author: 蕭蘭皋
 authorPinyin: xiao1 lan2 gao1
 authorSlug: xiao-lan-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

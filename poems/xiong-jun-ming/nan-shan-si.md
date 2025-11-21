@@ -6,10 +6,10 @@ titleSlug: nan-shan-si
 author: 熊浚明
 authorPinyin: xiong2 jun4 ming2
 authorSlug: xiong-jun-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

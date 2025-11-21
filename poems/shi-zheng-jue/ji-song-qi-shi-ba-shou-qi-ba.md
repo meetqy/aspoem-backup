@@ -1,32 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-qi-shi-ba-shou-qi-ba
-title: 偈頌七十八首  其八
-titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 ba1
+title: 偈頌七十八首  其八○
+titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 ba1 ○
 titleSlug: ji-song-qi-shi-ba-shou-qi-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 丙丁童子來求火，南海波斯鼻孔大。
-- 狤獠舌頭會者難，直下而今照得破。
-- 照得破，沒功過。
-- 知你被底穿，曾與同床卧。
-- 廉纖脫盡舊時疑，杯影蛇絃留再坐。
+- 一亘清虛衲子家，十方三世箇生涯。
+- 光明照夜觸髏眼，消息含春枯木花。
+- 曉色依依雲冉冉，天容淡淡月斜斜。
+- 母陀羅臂通身是，今日逢場便攃沙。
 
 ## 拼音
 
-- bing3 ding1 tong2 zi3 lai2 qiu2 huo3 ， nan2 hai3 bo1 si1 bi2 kong3 da4 。
-- jie2 liao2 she2 tou2 hui4 zhe3 nan2 ， zhi2 xia4 er2 jin1 zhao4 de2 po4 。
-- zhao4 de2 po4 ， mei2 gong1 guo4 。
-- zhi1 ni3 bei4 di3 chuan1 ， ceng2 yu3 tong2 chuang2 wo4 。
-- lian2 xian1 tuo1 jin4 jiu4 shi2 yi2 ， bei1 ying3 she2 xian2 liu2 zai4 zuo4 。
+- yi2 gen4 qing1 xu1 na4 zi0 jia1 ， shi2 fang1 san1 shi4 ge4 sheng1 ya2 。
+- guang1 ming2 zhao4 ye4 chu4 lou2 yan3 ， xiao1 xi0 han2 chun1 ku1 mu4 hua1 。
+- xiao3 se4 yi1 yi1 yun2 ran3 ran3 ， tian1 rong2 dan4 dan4 yue4 xie2 xie2 。
+- mu3 tuo2 luo2 bi4 tong1 shen1 shi4 ， jin1 ri4 feng2 chang3 bian4 ca1 sha1 。
 
 ## 注释
 

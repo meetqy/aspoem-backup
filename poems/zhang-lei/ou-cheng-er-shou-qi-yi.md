@@ -6,21 +6,25 @@ titleSlug: ou-cheng-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新引龍孫欲解苞，籬根抽筍已梢梢。
-- 莓苔雨過蝸緣壁，楊柳葉深鶯有巢。
+- 鳥啼宮直散，歸舍日猶長。
+- 暗樹殘春綠，回風欲雨凉。
+- 久知癡有絕，端爲酒成忙。
+- 可是嘲須解，平生一漫郎。
 
 ## 拼音
 
-- xin1 yin3 long2 sun1 yu4 jie3 bao1 ， li2 gen1 chou1 sun3 yi3 shao1 shao1 。
-- mei2 tai2 yu3 guo4 wo1 yuan2 bi4 ， yang2 liu3 ye4 shen1 ying1 you3 chao2 。
+- niao3 ti2 gong1 zhi2 san4 ， gui1 she4 ri4 you2 chang2 。
+- an4 shu4 can2 chun1 lü4 ， hui2 feng1 yu4 yu3 liang2 。
+- jiu3 zhi1 chi1 you3 jue2 ， duan1 wei2 jiu3 cheng2 mang2 。
+- ke3 shi4 chao2 xu1 jie3 ， ping2 sheng1 yi2 man4 lang2 。
 
 ## 注释
 

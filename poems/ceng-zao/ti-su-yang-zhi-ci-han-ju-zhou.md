@@ -6,9 +6,9 @@ titleSlug: ti-su-yang-zhi-ci-han-ju-zhou
 author: 曾慥
 authorPinyin: ceng2 zao4
 authorSlug: ceng-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: dan-fu-ji-shi-lu-shan-gao-yao-ming-shi-yi-zuo-yi-shou-feng-chou-bu-fa
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

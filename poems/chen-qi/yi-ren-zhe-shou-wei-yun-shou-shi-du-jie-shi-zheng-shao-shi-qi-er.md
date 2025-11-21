@@ -6,10 +6,10 @@ titleSlug: yi-ren-zhe-shou-wei-yun-shou-shi-du-jie-shi-zheng-shao-shi-qi-er
 author: 陳起
 authorPinyin: chen2 qi3
 authorSlug: chen-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

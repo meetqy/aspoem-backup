@@ -6,10 +6,10 @@ titleSlug: jun-zhong-ji-nei
 author: 陳子全
 authorPinyin: chen2 zi3 quan2
 authorSlug: chen-zi-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

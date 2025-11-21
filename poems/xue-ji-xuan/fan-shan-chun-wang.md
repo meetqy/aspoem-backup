@@ -6,25 +6,21 @@ titleSlug: fan-shan-chun-wang
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飛出仙人壺外天，壺中日月故依然。
-- 虛明百雉龍鱗動，空翠千巒翡羽鮮。
-- 咫尺畫圖藏世界，侵尋錦繡簇山川。
-- 歸來身入寒谿路，恍若瑶林一夢還。
+- 東鄂城東安樂宮，李花練絢玉玲瓏。
+- 畫圖長喜平蕪綠，不覺身歸罨畫中。
 
 ## 拼音
 
-- fei1 chu1 xian1 ren2 hu2 wai4 tian1 ， hu2 zhong1 ri4 yue4 gu4 yi1 ran2 。
-- xu1 ming2 bai3 zhi4 long2 lin2 dong4 ， kong1 cui4 qian1 luan2 fei3 yu3 xian1 。
-- zhi3 chi3 hua4 tu2 cang2 shi4 jie4 ， qin1 xun2 jin3 xiu4 cu4 shan1 chuan1 。
-- gui1 lai2 shen1 ru4 han2 xi1 lu4 ， huang3 ruo4 yao2 lin2 yi2 meng4 huan2 。
+- dong1 e4 cheng2 dong1 an1 le4 gong1 ， li3 hua1 lian4 xuan4 yu4 ling2 long2 。
+- hua4 tu2 chang2 xi3 ping2 wu2 lü4 ， bu4 jue2 shen1 gui1 yan3 hua4 zhong1 。
 
 ## 注释
 

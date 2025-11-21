@@ -6,10 +6,10 @@ titleSlug: ping-weng-ling-zhu-sun-xiao-ji-yi-long-di-ye-ting-jun-yu-ji-xi-you-sh
 author: 戴昺
 authorPinyin: dai4 bing3
 authorSlug: dai-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

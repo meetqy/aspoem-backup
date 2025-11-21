@@ -6,25 +6,25 @@ titleSlug: he-ying-shi
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去來的的然，莫道無來去。
-- 烟蘿寶峰境，風月清源路。
-- 雨漲沒滄洲，雲歸出孤嶼。
-- 風便水亦便，非訟亦非訴。
+- 澤國春初好，江城雨易昏。
+- 繫舟林下寺，步屧水邊村。
+- 法悅長如此，詩情剩欲論。
+- 歸心師莫問，一旆正翻翻。
 
 ## 拼音
 
-- qu4 lai2 de0 de0 ran2 ， mo4 dao4 wu2 lai2 qu4 。
-- yan1 luo2 bao3 feng1 jing4 ， feng1 yue4 qing1 yuan2 lu4 。
-- yu3 zhang3 mei2 cang1 zhou1 ， yun2 gui1 chu1 gu1 yu3 。
-- feng1 bian4 shui3 yi4 bian4 ， fei1 song4 yi4 fei1 su4 。
+- ze2 guo2 chun1 chu1 hao3 ， jiang1 cheng2 yu3 yi4 hun1 。
+- xi4 zhou1 lin2 xia4 si4 ， bu4 xie4 shui3 bian1 cun1 。
+- fa3 yue4 chang2 ru2 ci3 ， shi1 qing2 sheng4 yu4 lun4 。
+- gui1 xin1 shi1 mo4 wen4 ， yi2 pei4 zheng4 fan1 fan1 。
 
 ## 注释
 

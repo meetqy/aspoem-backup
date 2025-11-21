@@ -6,10 +6,10 @@ titleSlug: ci-yuan-shuo-you-wu-shan-shi-er-feng-er-shi-wu-yun
 author: 閭丘泳
 authorPinyin: lü2 qiu1 yong3
 authorSlug: lu-qiu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

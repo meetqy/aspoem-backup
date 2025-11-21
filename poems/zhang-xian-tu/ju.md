@@ -6,10 +6,10 @@ titleSlug: ju
 author: 張獻圖
 authorPinyin: zhang1 xian4 tu2
 authorSlug: zhang-xian-tu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

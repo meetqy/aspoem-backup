@@ -6,21 +6,25 @@ titleSlug: du-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 怪怪奇奇不自懲，晚途猶復氣横膺。
-- 觥船那待清歌勸，酒到愁邊量自增。
+- 肅肅霜風勁，蕭蕭木葉聲。
+- 殘年如寄爾，冷坐太憎生。
+- 就市沽新釀，呼兒洗破觥。
+- 獨斟還獨醉，無月配長庚。
 
 ## 拼音
 
-- guai4 guai4 qi2 qi2 bu2 zi4 cheng2 ， wan3 tu2 you2 fu4 qi4 heng2 ying1 。
-- gong1 chuan2 na4 dai4 qing1 ge1 quan4 ， jiu3 dao4 chou2 bian1 liang2 zi4 zeng1 。
+- su4 su4 shuang1 feng1 jin4 ， xiao1 xiao1 mu4 ye4 sheng1 。
+- can2 nian2 ru2 ji4 er3 ， leng3 zuo4 tai4 zeng1 sheng1 。
+- jiu4 shi4 gu1 xin1 niang4 ， hu1 er2 xi3 po4 gong1 。
+- du2 zhen1 huan2 du2 zui4 ， wu2 yue4 pei4 chang2 geng1 。
 
 ## 注释
 

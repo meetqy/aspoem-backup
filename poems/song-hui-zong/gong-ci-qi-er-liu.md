@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 崇政西清闢講筵，簪裾雜遝盡英賢。
-- 守成當謹持盈戒，紬繹鳧鷖大雅篇。
+- 刺花彈篋紫檀弓，何處星丸入苑中。
+- 驚起流鶯花裏去，紛紛如雨落殘紅。
 
 ## 拼音
 
-- chong2 zheng4 xi1 qing1 pi4 jiang3 yan2 ， zan1 ju1 za2 ta4 jin4 ying1 xian2 。
-- shou3 cheng2 dang1 jin3 chi2 ying2 jie4 ， chou1 yi4 fu2 yi1 da4 ya3 pian1 。
+- ci4 hua1 dan4 qie4 zi3 tan2 gong1 ， he2 chu3 xing1 wan2 ru4 yuan4 zhong1 。
+- jing1 qi3 liu2 ying1 hua1 li3 qu4 ， fen1 fen1 ru2 yu3 luo4 can2 hong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: hai-tang-qi-er
 author: 石揚休
 authorPinyin: shi2 yang2 xiu1
 authorSlug: shi-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

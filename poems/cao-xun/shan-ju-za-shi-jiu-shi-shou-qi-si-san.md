@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 頃職古器事，三代考纖悉。
-- 閎異必夏商，形模且朴質。
-- 其間盛款識，鼓文儼周室。
-- 固知文武隆，牧敦當第一。
+- 小隠世味薄，花飛慘殘春。
+- 明玉剝楚筍，嫩紫庖吳蓴。
+- 不覺槃筯闕，但喜志意新。
+- 我惟一廛足，何必問大鈞。
 
 ## 拼音
 
-- qing3 zhi2 gu3 qi4 shi4 ， san1 dai4 kao3 xian1 xi1 。
-- hong2 yi4 bi4 xia4 shang1 ， xing2 mo2 qie3 pu3 zhi4 。
-- qi2 jian4 sheng4 kuan3 shi2 ， gu3 wen2 yan3 zhou1 shi4 。
-- gu4 zhi1 wen2 wu3 long2 ， mu4 dun1 dang1 di4 yi1 。
+- xiao3 yin3 shi4 wei4 bao2 ， hua1 fei1 can3 can2 chun1 。
+- ming2 yu4 bao1 chu3 sun3 ， nen4 zi3 pao2 wu2 chun2 。
+- bu4 jue2 pan2 zhu4 que4 ， dan4 xi3 zhi4 yi4 xin1 。
+- wo3 wei2 yi1 chan2 zu2 ， he2 bi4 wen4 da4 jun1 。
 
 ## 注释
 

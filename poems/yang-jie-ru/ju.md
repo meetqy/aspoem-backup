@@ -6,10 +6,10 @@ titleSlug: ju
 author: 楊介如
 authorPinyin: yang2 jie4 ru2
 authorSlug: yang-jie-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

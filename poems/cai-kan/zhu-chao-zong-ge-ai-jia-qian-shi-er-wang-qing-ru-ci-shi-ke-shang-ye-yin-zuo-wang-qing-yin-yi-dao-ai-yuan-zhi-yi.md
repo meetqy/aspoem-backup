@@ -6,10 +6,10 @@ titleSlug: zhu-chao-zong-ge-ai-jia-qian-shi-er-wang-qing-ru-ci-shi-ke-shang-ye-y
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

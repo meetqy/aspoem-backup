@@ -6,23 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-qi-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨潤焦枯，大地承恩澤。
-- 黄鋪𤱶畝雲，青鎖郊原色。
-- 刈禾鐮子疾如風，收放全歸掌握中。
+- 人間萬斛金蓮，競賞元宵佳節。
+- 法華徹骨貧窮，鬭勝不如鬭劣。
+- 室內一盞燈，燦燦心花發。
+- 不夜光明照古今，見得分明，眼裏重添屑。
 
 ## 拼音
 
-- yi4 yu3 run4 jiao1 ku1 ， da4 di4 cheng2 en1 ze2 。
-- huang2 pu1 𤱶 mu3 yun2 ， qing1 suo3 jiao1 yuan2 se4 。
-- yi4 he2 lian2 zi3 ji2 ru2 feng1 ， shou1 fang4 quan2 gui1 zhang3 wo4 zhong1 。
+- ren2 jian4 wan4 hu2 jin1 lian2 ， jing4 shang3 yuan2 xiao1 jia1 jie2 。
+- fa3 hua2 che4 gu3 pin2 qiong2 ， dou4 sheng4 bu4 ru2 dou4 lie4 。
+- shi4 nei4 yi4 zhan3 deng1 ， can4 can4 xin1 hua1 fa1 。
+- bu2 ye4 guang1 ming2 zhao4 gu3 jin1 ， jian4 de2 fen1 ming2 ， yan3 li3 zhong4 tian1 xie4 。
 
 ## 注释
 

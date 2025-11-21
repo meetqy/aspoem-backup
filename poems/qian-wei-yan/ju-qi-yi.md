@@ -1,24 +1,24 @@
 ---
 id: qian-wei-yan-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 錢惟演
 authorPinyin: qian2 wei2 yan3
 authorSlug: qian-wei-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日上故陵烟漠漠，春歸空苑水潺潺。
+- 坐激鮮飆湘竹曉，樹含凉雨越禽歸。
 
 ## 拼音
 
-- ri4 shang4 gu4 ling2 yan1 mo4 mo4 ， chun1 gui1 kong1 yuan4 shui3 chan2 chan2 。
+- zuo4 ji1 xian1 biao1 xiang1 zhu2 xiao3 ， shu4 han2 liang2 yu3 yue4 qin2 gui1 。
 
 ## 注释
 

@@ -9,18 +9,18 @@ authorSlug: wei-ying-wu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 今朝把酒復惆悵，憶在杜陵田舍時。
-- 明年九日知何處，世難還家未有期。
+- 一爲吳郡守，不覺菊花開。
+- 始有故園思，且喜衆賓來。
 
 ## 拼音
 
-- jin1 chao2 ba3 jiu3 fu4 chou2 chang4 ， yi4 zai4 du4 ling2 tian2 she4 shi2 。
-- ming2 nian2 jiu3 ri4 zhi1 he2 chu3 ， shi4 nan2 huan2 jia1 wei4 you3 qi1 。
+- yi4 wei2 wu2 jun4 shou3 ， bu4 jue2 ju2 hua1 kai1 。
+- shi3 you3 gu4 yuan2 si1 ， qie3 xi3 zhong4 bin1 lai2 。
 
 ## 注释
 

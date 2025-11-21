@@ -6,25 +6,25 @@ titleSlug: qi-xi
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄姑織女萬古心，脈脈欲渡銀河深。
-- 有齊季女起拜月，綠髮一縷蒙金針。
-- 眼明志針如志鵠，針髮相投如破鏃。
-- 回身拍手笑迺翁，字大行疎燒矮燭。
+- 好箇牽牛織女天，凄其獨夜不成眠。
+- 柳家細婢何能問，太尉粗人祗自憐。
+- 比翼難磨終古恨，嫵眉未了宿生緣。
+- 新凉如水誰消得，平等天公也解偏。
 
 ## 拼音
 
-- huang2 gu1 zhi1 nü3 wan4 gu3 xin1 ， mai4 mai4 yu4 du4 yin2 he2 shen1 。
-- you3 qi2 ji4 nü3 qi3 bai4 yue4 ， lü4 fa4 yi4 lü3 meng2 jin1 zhen1 。
-- yan3 ming2 zhi4 zhen1 ru2 zhi4 hu2 ， zhen1 fa4 xiang1 tou2 ru2 po4 zu2 。
-- hui2 shen1 pai1 shou3 xiao4 nai3 weng1 ， zi4 da4 xing2 shu1 shao1 ai3 zhu2 。
+- hao3 ge4 qian1 niu2 zhi1 nü3 tian1 ， qi1 qi2 du2 ye4 bu4 cheng2 mian2 。
+- liu3 jia1 xi4 bi4 he2 neng2 wen4 ， tai4 wei4 cu1 ren2 zhi1 zi4 lian2 。
+- bi3 yi4 nan2 mo2 zhong1 gu3 hen4 ， wu3 mei2 wei4 liao3 su4 sheng1 yuan2 。
+- xin1 liang2 ru2 shui3 shui2 xiao1 de2 ， ping2 deng3 tian1 gong1 ye3 jie3 pian1 。
 
 ## 注释
 

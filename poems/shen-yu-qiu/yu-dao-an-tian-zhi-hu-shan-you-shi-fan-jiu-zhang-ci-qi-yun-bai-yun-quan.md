@@ -6,10 +6,10 @@ titleSlug: yu-dao-an-tian-zhi-hu-shan-you-shi-fan-jiu-zhang-ci-qi-yun-bai-yun-qu
 author: 沈與求
 authorPinyin: shen3 yu3 qiu2
 authorSlug: shen-yu-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

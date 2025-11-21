@@ -6,10 +6,10 @@ titleSlug: wu-xi
 author: 臧辛伯
 authorPinyin: zang1 xin1 bo2
 authorSlug: zang-xin-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-jiu
-title: 梅花集句  其一九
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 jiu3
+title: 梅花集句  其一九○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 jiu3 ○
 titleSlug: mei-hua-ji-ju-qi-yi-jiu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 栗里先生花夾門，且尋詩社著詩勳。
-- 莫嫌春淺花房小，春在枝頭已十分。
+- 世上樹桃李，逢春解惜春。
+- 不知春色早，對此合傷神。
 
 ## 拼音
 
-- li4 li3 xian1 sheng1 hua1 jia1 men2 ， qie3 xun2 shi1 she4 zhu4 shi1 xun1 。
-- mo4 xian2 chun1 qian3 hua1 fang2 xiao3 ， chun1 zai4 zhi1 tou2 yi3 shi2 fen1 。
+- shi4 shang4 shu4 tao2 li3 ， feng2 chun1 jie3 xi1 chun1 。
+- bu4 zhi1 chun1 se4 zao3 ， dui4 ci3 he2 shang1 shen2 。
 
 ## 注释
 

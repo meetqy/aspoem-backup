@@ -6,25 +6,25 @@ titleSlug: you-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老境俗緣減，閑居幽事多。
-- 去沙通斷澗，插援護新荷。
-- 棋罷看山臥，釣歸揺檝歌。
-- 餘年端有幾，風月且婆娑。
+- 幽事春來早，晨興即啟閽。
+- 掃梁迎燕子，插楥護龍孫。
+- 數日招賓友，先期辦酒尊。
+- 淋漓衣袖濕，不管漬春痕。
 
 ## 拼音
 
-- lao3 jing4 su2 yuan2 jian3 ， xian2 ju1 you1 shi4 duo1 。
-- qu4 sha1 tong1 duan4 jian4 ， cha1 yuan2 hu4 xin1 he2 。
-- qi2 ba4 kan4 shan1 wo4 ， diao4 gui1 yao2 ji2 ge1 。
-- yu2 nian2 duan1 you3 ji1 ， feng1 yue4 qie3 po2 suo1 。
+- you1 shi4 chun1 lai2 zao3 ， chen2 xing1 ji2 qi3 hun1 。
+- sao3 liang2 ying2 yan4 zi0 ， cha1 yuan2 hu4 long2 sun1 。
+- shu4 ri4 zhao1 bin1 you3 ， xian1 qi1 ban4 jiu3 zun1 。
+- lin2 li2 yi1 xiu4 shi1 ， bu4 guan3 zi4 chun1 hen2 。
 
 ## 注释
 

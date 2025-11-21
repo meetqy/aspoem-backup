@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-xue-zhong-ku-han-xi-chao-er-jue-qi-yi
-title: 雪中苦寒戲嘲二絕・其一
-titlePinyin: xue3 zhong1 ku3 han2 xi4 chao2 er4 jue2・qi2 yi1
+title: 雪中苦寒戲嘲二絕  其一
+titlePinyin: xue3 zhong1 ku3 han2 xi4 chao2 er4 jue2     qi2 yi1
 titleSlug: xue-zhong-ku-han-xi-chao-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: yong-yue-gui-feng-gui-zi
 author: 釋慈永
 authorPinyin: shi4 ci2 yong3
 authorSlug: shi-ci-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

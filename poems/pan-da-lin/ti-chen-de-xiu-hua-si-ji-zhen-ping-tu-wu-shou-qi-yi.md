@@ -6,10 +6,10 @@ titleSlug: ti-chen-de-xiu-hua-si-ji-zhen-ping-tu-wu-shou-qi-yi
 author: 潘大臨
 authorPinyin: pan1 da4 lin2
 authorSlug: pan-da-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

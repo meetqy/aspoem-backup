@@ -6,25 +6,25 @@ titleSlug: chu-xia
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百葉盆榴照眼明，桐陰初密暑猶清。
-- 深深簾幕度香縷，寂寂房櫳聞燕聲。
-- 細煆詩聨憑棐几，靜思棋劫對楸枰。
-- 浣花光景應如昨，回首西州一愴情。
+- 白白飺筒美，青青米果新。
+- 衰遲重時節，薄少遍鄉鄰。
+- 梅市花成幄，蘭亭草作茵。
+- 極知歡意盡，强起伴遊人。
 
 ## 拼音
 
-- bai3 ye4 pen2 liu2 zhao4 yan3 ming2 ， tong2 yin1 chu1 mi4 shu3 you2 qing1 。
-- shen1 shen1 lian2 mu4 du4 xiang1 lü3 ， ji4 ji4 fang2 long2 wen2 yan4 sheng1 。
-- xi4 xia1 shi1 lian2 ping2 fei3 ji3 ， jing4 si1 qi2 jie2 dui4 qiu1 ping2 。
-- huan4 hua1 guang1 jing3 ying1 ru2 zuo2 ， hui2 shou3 xi1 zhou1 yi2 chuang4 qing2 。
+- bai2 bai2 ci2 tong3 mei3 ， qing1 qing1 mi3 guo3 xin1 。
+- shuai1 chi2 zhong4 shi2 jie2 ， bao2 shao3 bian4 xiang1 lin2 。
+- mei2 shi4 hua1 cheng2 wo4 ， lan2 ting2 cao3 zuo4 yin1 。
+- ji2 zhi1 huan1 yi4 jin4 ， qiang2 qi3 ban4 you2 ren2 。
 
 ## 注释
 

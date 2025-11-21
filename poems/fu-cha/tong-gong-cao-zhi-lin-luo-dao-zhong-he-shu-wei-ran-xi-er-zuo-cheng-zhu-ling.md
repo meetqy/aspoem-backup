@@ -6,9 +6,9 @@ titleSlug: tong-gong-cao-zhi-lin-luo-dao-zhong-he-shu-wei-ran-xi-er-zuo-cheng-zh
 author: 傅察
 authorPinyin: fu4 cha2
 authorSlug: fu-cha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

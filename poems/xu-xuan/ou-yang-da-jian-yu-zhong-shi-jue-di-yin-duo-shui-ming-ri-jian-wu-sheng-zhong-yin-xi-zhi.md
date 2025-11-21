@@ -6,9 +6,9 @@ titleSlug: ou-yang-da-jian-yu-zhong-shi-jue-di-yin-duo-shui-ming-ri-jian-wu-shen
 author: 徐鉉
 authorPinyin: xu2 xuan4
 authorSlug: xu-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

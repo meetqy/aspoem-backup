@@ -6,9 +6,9 @@ titleSlug: song-zhi-zi-jing-huan-jiu-jing-tang
 author: 晁謙之
 authorPinyin: chao2 qian1 zhi1
 authorSlug: chao-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

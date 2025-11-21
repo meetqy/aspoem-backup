@@ -6,21 +6,21 @@ titleSlug: chun-si
 author: 許棐
 authorPinyin: xu1 fei3
 authorSlug: xu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嫁得蕭郎不戀家，幾年流落在天涯。
-- 滿懷多少傷春事，嫌殺門前叫賣花。
+- 朝來一陣無情雨，敲得庭花半欲殘。
+- 燕子不知人冷落，飛來簾底避春寒。
 
 ## 拼音
 
-- jia4 de2 xiao1 lang2 bu2 lian4 jia1 ， ji1 nian2 liu2 luo4 zai4 tian1 ya2 。
-- man3 huai2 duo1 shao3 shang1 chun1 shi4 ， xian2 sha1 men2 qian2 jiao4 mai4 hua1 。
+- chao2 lai2 yi2 zhen4 wu2 qing2 yu3 ， qiao1 de2 ting2 hua1 ban4 yu4 can2 。
+- yan4 zi0 bu4 zhi1 ren2 leng3 luo4 ， fei1 lai2 lian2 di3 bi4 chun1 han2 。
 
 ## 注释
 

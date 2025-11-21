@@ -6,9 +6,9 @@ titleSlug: ju-qi-er
 author: 高元矩
 authorPinyin: gao1 yuan2 ju3
 authorSlug: gao-yuan-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,21 @@ titleSlug: meng-zi-tian-jue
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 利名物外奚必用，至貴無虧備自身。
-- 舍己從人徒取賤，到頭還自喪其真。
+- 天爵在人非我有，重輕取予係於人。
+- 要知良貴人難奪，德義尊榮本自身。
 
 ## 拼音
 
-- li4 ming2 wu4 wai4 xi1 bi4 yong4 ， zhi4 gui4 wu2 kui1 bei4 zi4 shen1 。
-- she3 ji3 cong2 ren2 tu2 qu3 jian4 ， dao4 tou2 huan2 zi4 sang1 qi2 zhen1 。
+- tian1 jue2 zai4 ren2 fei1 wo3 you3 ， zhong4 qing1 qu3 yu3 xi4 wu1 ren2 。
+- yao4 zhi1 liang2 gui4 ren2 nan2 duo2 ， de2 yi4 zun1 rong2 ben3 zi4 shen1 。
 
 ## 注释
 

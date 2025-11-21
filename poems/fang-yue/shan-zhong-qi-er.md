@@ -6,25 +6,25 @@ titleSlug: shan-zhong-qi-er
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 解纓聊復濯滄浪，晞髮松陰蘚石床。
-- 有味是貧琳館俸，無功於懶玉函方。
-- 自參老子鼻端白，未羨諸公腰下黄。
-- 蔗境漸佳惟習靜，筆床茶竈併荒唐。
+- 溪村楊柳好藏鴉，春水池塘已吠蛙。
+- 詩外共誰千里月，雨中老却一山花。
+- 蝶將夢去客欹枕，燕寄聲來社到家。
+- 數掩斷籬春且住，莫隨芳草遽天涯。
 
 ## 拼音
 
-- jie3 ying1 liao2 fu4 zhuo2 cang1 lang4 ， xi1 fa4 song1 yin1 xian3 shi2 chuang2 。
-- you3 wei4 shi4 pin2 lin2 guan3 feng4 ， wu2 gong1 wu1 lan3 yu4 han2 fang1 。
-- zi4 can1 lao3 zi3 bi2 duan1 bai2 ， wei4 xian4 zhu1 gong1 yao1 xia4 huang2 。
-- zhe4 jing4 jian4 jia1 wei2 xi2 jing4 ， bi3 chuang2 cha2 zao4 bing4 huang1 tang2 。
+- xi1 cun1 yang2 liu3 hao3 cang2 ya1 ， chun1 shui3 chi2 tang2 yi3 fei4 wa1 。
+- shi1 wai4 gong4 shui2 qian1 li3 yue4 ， yu3 zhong1 lao3 que4 yi4 shan1 hua1 。
+- die2 jiang1 meng4 qu4 ke4 qi1 zhen3 ， yan4 ji4 sheng1 lai2 she4 dao4 jia1 。
+- shu4 yan3 duan4 li2 chun1 qie3 zhu4 ， mo4 sui2 fang1 cao3 ju4 tian1 ya2 。
 
 ## 注释
 

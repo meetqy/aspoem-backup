@@ -6,10 +6,10 @@ titleSlug: su-jian-xing-si
 author: 呂人龍
 authorPinyin: lü3 ren2 long2
 authorSlug: lu-ren-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

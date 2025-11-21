@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 還鄉吳語熟，伏枕越吟悲。
-- 接客寒溫簡，過鄰几杖隨。
-- 獨嗟親舊少，不覺歲時移。
-- 陌上人爭看，風欹白接䍦。
+- 高人鬻駱放柳枝，豪士駿馬換蛾眉。
+- 人間解事誰如我，小蹇小童自謂宜。
 
 ## 拼音
 
-- huan2 xiang1 wu2 yu3 shu2 ， fu2 zhen3 yue4 yin2 bei1 。
-- jie1 ke4 han2 wen1 jian3 ， guo4 lin2 ji3 zhang4 sui2 。
-- du2 jie1 qin1 jiu4 shao3 ， bu4 jue2 sui4 shi2 yi2 。
-- mo4 shang4 ren2 zheng1 kan4 ， feng1 qi1 bai2 jie1 䍦。
+- gao1 ren2 yu4 luo4 fang4 liu3 zhi1 ， hao2 shi4 jun4 ma3 huan4 e2 mei2 。
+- ren2 jian4 jie3 shi4 shui2 ru2 wo3 ， xiao3 jian3 xiao3 tong2 zi4 wei4 yi2 。
 
 ## 注释
 

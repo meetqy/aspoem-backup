@@ -6,10 +6,10 @@ titleSlug: chun-ri-yin-wang-li-zhi-jia-tong-fu-san-tou-mu-dan-yi-ci-ding-shi-yun
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

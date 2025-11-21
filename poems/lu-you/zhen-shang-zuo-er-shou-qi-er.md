@@ -6,25 +6,25 @@ titleSlug: zhen-shang-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山雨蕭蕭過，沙泉咽咽流。
-- 夢中無遠道，醉裏失孤愁。
-- 貧賣相如騎，寒思季子裘。
-- 兒童報新霽，裹飯出閑遊。
+- 蕭蕭白髮卧扁舟，死盡中朝舊輩流。
+- 萬里關河孤枕夢，五更風雨四山秋。
+- 鄭虔自笑窮耽酒，李廣何妨老不侯。
+- 猶有少年風味在，吳箋著句寫清愁。
 
 ## 拼音
 
-- shan1 yu3 xiao1 xiao1 guo4 ， sha1 quan2 yan4 yan4 liu2 。
-- meng4 zhong1 wu2 yuan3 dao4 ， zui4 li3 shi1 gu1 chou2 。
-- pin2 mai4 xiang1 ru2 qi2 ， han2 si1 ji4 zi0 qiu2 。
-- er2 tong2 bao4 xin1 ji4 ， guo3 fan4 chu1 xian2 you2 。
+- xiao1 xiao1 bai2 fa4 wo4 pian1 zhou1 ， si3 jin4 zhong1 chao2 jiu4 bei4 liu2 。
+- wan4 li3 guan1 he2 gu1 zhen3 meng4 ， wu3 geng1 feng1 yu3 si4 shan1 qiu1 。
+- zheng4 qian2 zi4 xiao4 qiong2 dan1 jiu3 ， li3 guang3 he2 fang2 lao3 bu4 hou2 。
+- you2 you3 shao4 nian2 feng1 wei4 zai4 ， wu2 jian1 zhu4 ju4 xie3 qing1 chou2 。
 
 ## 注释
 

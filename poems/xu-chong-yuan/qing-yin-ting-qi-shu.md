@@ -6,10 +6,10 @@ titleSlug: qing-yin-ting-qi-shu
 author: 徐沖淵
 authorPinyin: xu2 chong1 yuan1
 authorSlug: xu-chong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

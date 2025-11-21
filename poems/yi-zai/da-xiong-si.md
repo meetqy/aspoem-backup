@@ -6,10 +6,10 @@ titleSlug: da-xiong-si
 author: 奕載
 authorPinyin: yi4 zai4
 authorSlug: yi-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

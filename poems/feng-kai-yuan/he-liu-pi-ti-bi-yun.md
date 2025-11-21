@@ -6,10 +6,10 @@ titleSlug: he-liu-pi-ti-bi-yun
 author: 馮開元
 authorPinyin: feng2 kai1 yuan2
 authorSlug: feng-kai-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

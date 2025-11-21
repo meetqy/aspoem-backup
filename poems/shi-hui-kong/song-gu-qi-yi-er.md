@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-yi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 我腳何似驢腳，車輪頓生八角。
-- 三千剎海波澄，一陣西風葉落。
+- 十智同真驗作家，可中毫忽不容差。
+- 若無師子翻身句，現在徒將面自誇。
 
 ## 拼音
 
-- wo3 jiao3 he2 si4 lü2 jiao3 ， ju1 lun2 dun4 sheng1 ba1 jiao3 。
-- san1 qian1 cha4 hai3 bo1 cheng2 ， yi2 zhen4 xi1 feng1 ye4 luo4 。
+- shi2 zhi4 tong2 zhen1 yan4 zuo4 jia1 ， ke3 zhong1 hao2 hu1 bu4 rong2 cha4 。
+- ruo4 wu2 shi1 zi3 fan1 shen1 ju4 ， xian4 zai4 tu2 jiang1 mian4 zi4 kua1 。
 
 ## 注释
 

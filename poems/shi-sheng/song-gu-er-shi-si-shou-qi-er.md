@@ -1,26 +1,26 @@
 ---
 id: shi-sheng-song-gu-er-shi-si-shou-qi-er
-title: 頌古二十四首  其二
-titlePinyin: song4 gu3 er4 shi2 si4 shou3     qi2 er4
+title: 頌古二十四首  其二○
+titlePinyin: song4 gu3 er4 shi2 si4 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-si-shou-qi-er
 author: 釋勝
 authorPinyin: shi4 sheng4
 authorSlug: shi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心佛物兮俱不是，坐斷舌頭除藥忌。
-- 橫拈倒用總由他，活捉魔群穿卻鼻。
+- 貓全食血功，虎備起屍殺。
+- 無奈何舅何，不傳上樹訣。
 
 ## 拼音
 
-- xin1 fo2 wu4 xi1 ju4 bu2 shi4 ， zuo4 duan4 she2 tou2 chu2 yao4 ji4 。
-- heng2 nian1 dao3 yong4 zong3 you2 ta1 ， huo2 zhuo1 mo2 qun2 chuan1 que4 bi2 。
+- mao1 quan2 shi2 xue4 gong1 ， hu3 bei4 qi3 shi1 sha1 。
+- wu2 nai4 he2 jiu4 he2 ， bu4 chuan2 shang4 shu4 jue2 。
 
 ## 注释
 

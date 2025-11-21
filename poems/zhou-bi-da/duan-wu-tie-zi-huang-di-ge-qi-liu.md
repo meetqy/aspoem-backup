@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-liu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘗記唐家逢五日，近臣藩鎮貢衿鞶。
-- 吾君敦朴無來獻，却疊香羅賜百官。
+- 三殿晨開錫宴初，太官順節進龜魚。
+- 微臣筆力慚燕許，謾賦羣官上玉除。
 
 ## 拼音
 
-- chang2 ji4 tang2 jia1 feng2 wu3 ri4 ， jin4 chen2 fan1 zhen4 gong4 jin1 pan2 。
-- wu2 jun1 dun1 pu3 wu2 lai2 xian4 ， que4 die2 xiang1 luo2 ci4 bai3 guan1 。
+- san1 dian4 chen2 kai1 xi1 yan4 chu1 ， tai4 guan1 shun4 jie2 jin4 gui1 yu2 。
+- wei1 chen2 bi3 li4 can2 yan4 xu1 ， man2 fu4 qun2 guan1 shang4 yu4 chu2 。
 
 ## 注释
 

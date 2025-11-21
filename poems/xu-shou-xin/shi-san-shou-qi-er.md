@@ -6,10 +6,10 @@ titleSlug: shi-san-shou-qi-er
 author: 徐守信
 authorPinyin: xu2 shou3 xin4
 authorSlug: xu-shou-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

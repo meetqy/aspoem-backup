@@ -6,10 +6,10 @@ titleSlug: deng-hua-ding-feng
 author: 鮑朝賓
 authorPinyin: bao4 chao2 bin1
 authorSlug: bao-chao-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yuan-ling-jian-zhao-shang-hai-tang-bing-bu-neng-wang-zhe-er-yan-xie-s
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

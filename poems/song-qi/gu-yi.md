@@ -6,29 +6,25 @@ titleSlug: gu-yi
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 薄宦若秋蔕，飄然去林枝。
-- 盲風不我愛，吹墮清淮湄。
-- 淮南苦憀慄，九月繁霜飛。
-- 晚蕙相爲歎，崇蘭偕此衰。
-- 凋落雖云苦，芬香終不移。
-- 但願陽春動，要當三秀期。
+- 博妖齊許取侯封，褒貶都歸竹帛中。
+- 三虎有無空逞辯，一狐埋伏妄貪功。
+- 輪囷自許先枯木，首鼠何曾忌禿翁。
+- 堪笑雲羅彌藪澤，不知天外有冥鴻。
 
 ## 拼音
 
-- bao2 huan4 ruo4 qiu1 di4 ， piao1 ran2 qu4 lin2 zhi1 。
-- mang2 feng1 bu4 wo3 ai4 ， chui1 duo4 qing1 huai2 mei2 。
-- huai2 nan2 ku3 liao2 li4 ， jiu3 yue4 fan2 shuang1 fei1 。
-- wan3 hui4 xiang1 wei2 tan4 ， chong2 lan2 xie2 ci3 shuai1 。
-- diao1 luo4 sui1 yun2 ku3 ， fen1 xiang1 zhong1 bu4 yi2 。
-- dan4 yuan4 yang2 chun1 dong4 ， yao4 dang1 san1 xiu4 qi1 。
+- bo2 yao1 qi2 xu1 qu3 hou2 feng1 ， bao1 bian3 dou1 gui1 zhu2 bo2 zhong1 。
+- san1 hu3 you3 wu2 kong1 cheng3 bian4 ， yi4 hu2 mai2 fu2 wang4 tan1 gong1 。
+- lun2 qun1 zi4 xu1 xian1 ku1 mu4 ， shou3 shu3 he2 ceng2 ji4 tu1 weng1 。
+- kan1 xiao4 yun2 luo2 mi2 sou3 ze2 ， bu4 zhi1 tian1 wai4 you3 ming2 hong2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ci-yun-da-ren-zhong-wei
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 邂逅相逢講世盟，諸任尊行各才名。
-- 交情吾子如棠棣，酒椀今秋對菊英。
-- 高論生風摇麈尾，新詩擲地作金聲。
-- 文章學問嗟予晚，深信前賢畏後生。
+- 伯氏文章足起家，雁行唯我乏芳華。
+- 不堪黄綬腰銅印，只合清江把釣車。
+- 縮項魚肥炊稻飯，扶頭酒熟卧蘆花。
+- 吳兒何敢當倫比，或有離騷似景差。
 
 ## 拼音
 
-- xie4 hou4 xiang1 feng2 jiang3 shi4 meng2 ， zhu1 ren4 zun1 xing2 ge4 cai2 ming2 。
-- jiao1 qing0 wu2 zi3 ru2 tang2 di4 ， jiu3 wan3 jin1 qiu1 dui4 ju2 ying1 。
-- gao1 lun4 sheng1 feng1 yao2 zhu3 wei3 ， xin1 shi1 zhi4 di4 zuo4 jin1 sheng1 。
-- wen2 zhang1 xue2 wen4 jie1 yu3 wan3 ， shen1 xin4 qian2 xian2 wei4 hou4 sheng1 。
+- bo2 shi4 wen2 zhang1 zu2 qi3 jia1 ， yan4 hang2 wei2 wo3 fa2 fang1 hua2 。
+- bu4 kan1 huang2 shou4 yao1 tong2 yin4 ， zhi1 he2 qing1 jiang1 ba3 diao4 ju1 。
+- suo1 xiang4 yu2 fei2 chui1 dao4 fan4 ， fu2 tou2 jiu3 shu2 wo4 lu2 hua1 。
+- wu2 er2 he2 gan3 dang1 lun2 bi3 ， huo4 you3 li2 sao1 si4 jing3 cha4 。
 
 ## 注释
 

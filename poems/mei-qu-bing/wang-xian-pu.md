@@ -6,10 +6,10 @@ titleSlug: wang-xian-pu
 author: 梅癯兵
 authorPinyin: mei2 qu2 bing1
 authorSlug: mei-qu-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-yun-jian-ge
 author: 趙希濬
 authorPinyin: zhao4 xi1 jun4
 authorSlug: zhao-xi-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

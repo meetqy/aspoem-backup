@@ -6,10 +6,10 @@ titleSlug: duan-ge-xing
 author: 郭世模
 authorPinyin: guo1 shi4 mo2
 authorSlug: guo-shi-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

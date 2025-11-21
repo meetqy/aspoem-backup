@@ -6,9 +6,9 @@ titleSlug: yin-cong-tai-jia-sui-shi-zheng-dao-she-dao-zhen-deng-qi-ren-jiu-san-w
 author: 釋道真
 authorPinyin: shi4 dao4 zhen1
 authorSlug: shi-dao-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

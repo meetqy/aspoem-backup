@@ -6,10 +6,10 @@ titleSlug: ling-yan-shan-si
 author: 蔣允中
 authorPinyin: jiang3 yun3 zhong1
 authorSlug: jiang-yun-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

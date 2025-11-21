@@ -6,25 +6,21 @@ titleSlug: ti-gao-jiang-shi-mo-mei
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 露零難辨蘂，月滿祇尋香。
-- 不受丹青涴，仍當雲水鄉。
-- 詩清見和靖，筆妙得高郎。
-- 當暑開霜素，蕭然六月凉。
+- 玉質縱橫黄絹外，春陽却自紫毫開。
+- 雨餘不共莓苔老，風暖暗勾蜂蝶來。
 
 ## 拼音
 
-- lu4 ling2 nan2 bian4 rui3 ， yue4 man3 qi2 xun2 xiang1 。
-- bu2 shou4 dan1 qing1 wo4 ， reng2 dang1 yun2 shui3 xiang1 。
-- shi1 qing1 jian4 he2 jing4 ， bi3 miao4 de2 gao1 lang2 。
-- dang1 shu3 kai1 shuang1 su4 ， xiao1 ran2 liu4 yue4 liang2 。
+- yu4 zhi4 zong4 heng2 huang2 juan4 wai4 ， chun1 yang2 que4 zi4 zi3 hao2 kai1 。
+- yu3 yu2 bu2 gong4 mei2 tai2 lao3 ， feng1 nuan3 an4 gou1 feng1 die2 lai2 。
 
 ## 注释
 

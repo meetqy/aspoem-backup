@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-er
 author: 釋洪英
 authorPinyin: shi4 hong2 ying1
 authorSlug: shi-hong-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

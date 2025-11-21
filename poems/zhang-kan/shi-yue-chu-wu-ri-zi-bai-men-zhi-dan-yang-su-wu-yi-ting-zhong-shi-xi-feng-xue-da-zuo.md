@@ -6,10 +6,10 @@ titleSlug: shi-yue-chu-wu-ri-zi-bai-men-zhi-dan-yang-su-wu-yi-ting-zhong-shi-xi-
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

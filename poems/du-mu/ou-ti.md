@@ -9,18 +9,18 @@ authorSlug: du-mu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 甘羅昔作秦丞相，子政曾爲漢輦郎。
-- 千載更逢王侍讀，當時還道有文章。
+- 道在人間或可傳，小還輕變已多年。
+- 今來海上昇高望，不到蓬萊不是仙。
 
 ## 拼音
 
-- gan1 luo2 xi1 zuo4 qin2 cheng2 xiang4 ， zi3 zheng4 ceng2 wei2 han4 nian3 lang2 。
-- qian1 zai4 geng4 feng2 wang2 shi4 du2 ， dang1 shi2 huan2 dao4 you3 wen2 zhang1 。
+- dao4 zai4 ren2 jian4 huo4 ke3 chuan2 ， xiao3 huan2 qing1 bian4 yi3 duo1 nian2 。
+- jin1 lai2 hai3 shang4 sheng1 gao1 wang4 ， bu2 dao4 peng2 lai2 bu2 shi4 xian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yuan-ri-dai-lou-yuan-hui-zai-zhi-shi
 author: 黄棆
 authorPinyin: huang2 lun2
 authorSlug: huang-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

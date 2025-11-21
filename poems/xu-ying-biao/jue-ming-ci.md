@@ -6,10 +6,10 @@ titleSlug: jue-ming-ci
 author: 徐應鑣
 authorPinyin: xu2 ying1 biao1
 authorSlug: xu-ying-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

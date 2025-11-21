@@ -6,10 +6,10 @@ titleSlug: liu-ti-zeng-ling-yan-jian-gong-shan-shi
 author: 張會宗
 authorPinyin: zhang1 hui4 zong1
 authorSlug: zhang-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-ling-kang-miao-liu-ti
 author: 劉坦之
 authorPinyin: liu2 tan3 zhi1
 authorSlug: liu-tan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

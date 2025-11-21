@@ -6,10 +6,10 @@ titleSlug: ti-jie-an
 author: 李寅仲
 authorPinyin: li3 yin2 zhong4
 authorSlug: li-yin-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

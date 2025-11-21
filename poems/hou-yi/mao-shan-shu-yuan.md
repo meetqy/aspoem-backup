@@ -6,10 +6,10 @@ titleSlug: mao-shan-shu-yuan
 author: 侯遺
 authorPinyin: hou2 yi2
 authorSlug: hou-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

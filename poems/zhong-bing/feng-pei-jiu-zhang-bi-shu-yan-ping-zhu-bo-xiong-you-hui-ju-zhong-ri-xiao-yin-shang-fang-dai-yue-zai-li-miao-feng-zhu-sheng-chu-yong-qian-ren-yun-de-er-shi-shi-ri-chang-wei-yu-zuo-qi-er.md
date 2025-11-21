@@ -6,10 +6,10 @@ titleSlug: feng-pei-jiu-zhang-bi-shu-yan-ping-zhu-bo-xiong-you-hui-ju-zhong-ri-x
 author: 仲并
 authorPinyin: zhong4 bing4
 authorSlug: zhong-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

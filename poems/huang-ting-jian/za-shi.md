@@ -6,21 +6,21 @@ titleSlug: za-shi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古風蕭索不言歸，貧賤交情富貴非。
-- 世祖本無天下量，子陵何慕釣魚磯。
+- 迷情淡蕩不知津，老却平生夢幻身。
+- 滿眼紛華心寂寞，長安市上酒家人。
 
 ## 拼音
 
-- gu3 feng1 xiao1 suo3 bu4 yan2 gui1 ， pin2 jian4 jiao1 qing0 fu4 gui4 fei1 。
-- shi4 zu3 ben3 wu2 tian1 xia4 liang2 ， zi3 ling2 he2 mu4 diao4 yu2 ji1 。
+- mi2 qing2 dan4 dang4 bu4 zhi1 jin1 ， lao3 que4 ping2 sheng1 meng4 huan4 shen1 。
+- man3 yan3 fen1 hua2 xin1 ji4 mo4 ， chang2 an1 shi4 shang4 jiu3 jia1 ren2 。
 
 ## 注释
 

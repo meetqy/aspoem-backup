@@ -6,10 +6,10 @@ titleSlug: shi-qiao-qi-er
 author: 余爽
 authorPinyin: yu2 shuang3
 authorSlug: yu-shuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

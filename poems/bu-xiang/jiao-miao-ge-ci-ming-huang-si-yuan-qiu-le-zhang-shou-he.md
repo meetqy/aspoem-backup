@@ -9,18 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 六變爰闋，八階載虔。
-- 祐我皇祚，於萬斯年。
+- 崇崇泰畤，肅肅嚴禋。
+- 粢盛既潔，金石畢陳。
+- 上帝來享，介福爰臻。
+- 受釐合祉，寶祚維新。
 
 ## 拼音
 
-- liu4 bian4 yuan2 que4 ， ba1 jie1 zai4 qian2 。
-- you4 wo3 huang2 zuo4 ， wu1 wan4 si1 nian2 。
+- chong2 chong2 tai4 zhi4 ， su4 su4 yan2 yin1 。
+- zi1 sheng4 ji4 jie2 ， jin1 shi2 bi4 chen2 。
+- shang4 di4 lai2 xiang3 ， jie4 fu2 yuan2 zhen1 。
+- shou4 li2 he2 zhi3 ， bao3 zuo4 wei2 xin1 。
 
 ## 注释
 

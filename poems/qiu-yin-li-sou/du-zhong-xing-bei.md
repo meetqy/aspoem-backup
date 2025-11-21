@@ -6,10 +6,10 @@ titleSlug: du-zhong-xing-bei
 author: 秋隠里叟
 authorPinyin: qiu1 yin3 li3 sou3
 authorSlug: qiu-yin-li-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

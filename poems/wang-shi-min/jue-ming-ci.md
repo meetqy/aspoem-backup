@@ -6,10 +6,10 @@ titleSlug: jue-ming-ci
 author: 王士敏
 authorPinyin: wang2 shi4 min3
 authorSlug: wang-shi-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

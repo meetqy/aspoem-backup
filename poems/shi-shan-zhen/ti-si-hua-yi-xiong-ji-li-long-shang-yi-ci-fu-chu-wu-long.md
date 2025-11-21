@@ -6,10 +6,10 @@ titleSlug: ti-si-hua-yi-xiong-ji-li-long-shang-yi-ci-fu-chu-wu-long
 author: 釋善珍
 authorPinyin: shi4 shan4 zhen1
 authorSlug: shi-shan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

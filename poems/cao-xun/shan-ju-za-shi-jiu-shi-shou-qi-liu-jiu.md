@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 赤城玉京天，冠簡奉香火。
-- 一旦僧有之，道容易佛坐。
-- 忽爲道復得，瞿曇加巾裹。
-- 屢改神不聞，二家自人我。
+- 秋暑正炎酷，人不得以息。
+- 向晚注大雨，劇暑遂掃跡。
+- 蕭然物氣平，暫止火御職。
+- 上天常好生，一凉誠大德。
 
 ## 拼音
 
-- chi4 cheng2 yu4 jing1 tian1 ， guan1 jian3 feng4 xiang1 huo3 。
-- yi2 dan4 seng1 you3 zhi1 ， dao4 rong2 yi4 fo2 zuo4 。
-- hu1 wei2 dao4 fu4 de2 ， qu2 tan2 jia1 jin1 guo3 。
-- lü3 gai3 shen2 bu4 wen2 ， er4 jia1 zi4 ren2 wo3 。
+- qiu1 shu3 zheng4 yan2 ku4 ， ren2 bu4 de2 yi3 xi1 。
+- xiang4 wan3 zhu4 da4 yu3 ， ju4 shu3 sui4 sao3 ji4 。
+- xiao1 ran2 wu4 qi4 ping2 ， zan4 zhi3 huo3 yu4 zhi2 。
+- shang4 tian1 chang2 hao3 sheng1 ， yi4 liang2 cheng2 da4 de2 。
 
 ## 注释
 

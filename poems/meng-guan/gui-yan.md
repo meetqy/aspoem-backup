@@ -1,6 +1,6 @@
 ---
 id: meng-guan-gui-yan
-title: 歸雁
+title: 歸鴈
 titlePinyin: gui1 yan4
 titleSlug: gui-yan
 author: 孟貫
@@ -14,9 +14,9 @@ tags: []
 
 ## 正文
 
-- 春至衡陽雁，思歸塞路長。
+- 春至衡陽鴈，思歸塞路長。
 - 汀洲齊奮翼，霄漢共成行。
-- 雪盡翻風暖，寒收度月凉。
+- 雪盡翻風暖，寒收度月涼。
 - 直應到秋日，依舊返瀟湘。
 
 ## 拼音

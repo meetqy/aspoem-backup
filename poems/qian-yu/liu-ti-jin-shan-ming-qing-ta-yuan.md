@@ -9,22 +9,26 @@ authorSlug: qian-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 數級崔嵬萬木中，最堪影勢似難同。
-- 欄桿夜壓江心月，鈴鐸秋摇嶽頂風。
-- 重疊畫簷遮世界，稀疏清磬徹虛空。
+- 欄杆（《赤城志》作「闌干」）夜壓江心月，鈴鐸秋搖嶽頂風。
+- 重疊畫簷遮世界，稀疎清磬徹虛空。
 - 有時問著禪僧路，笑指丹霄去不窮。
+- （見《天台續集》卷下、《嘉定赤城志》卷十九。
+- ）。
 
 ## 拼音
 
 - shu4 ji2 cui1 wei2 wan4 mu4 zhong1 ， zui4 kan1 ying3 shi4 si4 nan2 tong2 。
-- lan2 gan3 ye4 ya1 jiang1 xin1 yue4 ， ling2 duo2 qiu1 yao2 yue4 ding3 feng1 。
+- lan2 gan1 （《 chi4 cheng2 zhi4 》 zuo4 「 lan2 gan1 」） ye4 ya1 jiang1 xin1 yue4 ， ling2 duo2 qiu1 yao2 yue4 ding3 feng1 。
 - zhong4 die2 hua4 yan2 zhe1 shi4 jie4 ， xi1 shu1 qing1 qing4 che4 xu1 kong1 。
 - you3 shi2 wen4 zhu4 shan4 seng1 lu4 ， xiao4 zhi3 dan1 xiao1 qu4 bu4 qiong2 。
+- （ jian4 《 tian1 tai2 xu4 ji2 》 juan4 xia4 、《 jia1 ding4 chi4 cheng2 zhi4 》 juan4 shi2 jiu3 。
+- ）。
 
 ## 注释
 

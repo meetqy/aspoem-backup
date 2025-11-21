@@ -1,26 +1,26 @@
 ---
 id: zhao-fan-ba-yue-ba-ri-fa-tan-zhou-hou-de-jue-ju-si-shi-shou-qi-si
-title: 八月八日發潭州後得絕句四十首  其四
-titlePinyin: ba1 yue4 ba1 ri4 fa1 tan2 zhou1 hou4 de2 jue2 ju4 si4 shi2 shou3     qi2 si4
+title: 八月八日發潭州後得絕句四十首  其四○
+titlePinyin: ba1 yue4 ba1 ri4 fa1 tan2 zhou1 hou4 de2 jue2 ju4 si4 shi2 shou3     qi2 si4 ○
 titleSlug: ba-yue-ba-ri-fa-tan-zhou-hou-de-jue-ju-si-shi-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鷗如玉潔鷺霜明，閒意相看了不驚。
-- 乃不悟予非慕者，决然飛背晚煙輕。
+- 終朝未厭哭灘聲，歸近何妨細作程。
+- 送盡鵝湖青一带，靈山已復遠相迎。
 
 ## 拼音
 
-- ou1 ru2 yu4 jie2 lu4 shuang1 ming2 ， xian2 yi4 xiang1 kan4 le0 bu4 jing1 。
-- nai3 bu2 wu4 yu3 fei1 mu4 zhe3 ， jue2 ran2 fei1 bei4 wan3 yan1 qing1 。
+- zhong1 chao2 wei4 yan4 ku1 tan1 sheng1 ， gui1 jin4 he2 fang2 xi4 zuo4 cheng2 。
+- song4 jin4 e2 hu2 qing1 yi2 dai4 ， ling2 shan1 yi3 fu4 yuan3 xiang1 ying2 。
 
 ## 注释
 

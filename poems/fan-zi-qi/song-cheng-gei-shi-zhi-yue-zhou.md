@@ -6,10 +6,10 @@ titleSlug: song-cheng-gei-shi-zhi-yue-zhou
 author: 范子奇
 authorPinyin: fan4 zi3 qi2
 authorSlug: fan-zi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

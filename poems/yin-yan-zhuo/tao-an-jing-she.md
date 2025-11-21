@@ -6,10 +6,10 @@ titleSlug: tao-an-jing-she
 author: 殷彥卓
 authorPinyin: yin1 yan4 zhuo2
 authorSlug: yin-yan-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

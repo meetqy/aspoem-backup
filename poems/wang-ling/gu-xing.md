@@ -6,25 +6,25 @@ titleSlug: gu-xing
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出門將何從，與物隨紛紛。
-- 不得所欲爲，還與俗人羣。
-- 外跡久已非，獨嗟心所存。
-- 自信有可羞，彼人何足論。
+- 颭颭樹頭葉，翻翻水中浮。
+- 暮潮通長河，載入江海流。
+- 顛倒濕就溺，紛淪来不休。
+- 行人坐成嘆，風惡久藏舟。
 
 ## 拼音
 
-- chu1 men2 jiang1 he2 cong2 ， yu3 wu4 sui2 fen1 fen1 。
-- bu4 de2 suo3 yu4 wei2 ， huan2 yu3 su2 ren2 qun2 。
-- wai4 ji4 jiu3 yi3 fei1 ， du2 jie1 xin1 suo3 cun2 。
-- zi4 xin4 you3 ke3 xiu1 ， bi3 ren2 he2 zu2 lun4 。
+- zhan3 zhan3 shu4 tou2 ye4 ， fan1 fan1 shui3 zhong1 fu2 。
+- mu4 chao2 tong1 chang2 he2 ， zai4 ru4 jiang1 hai3 liu2 。
+- dian1 dao3 shi1 jiu4 ni4 ， fen1 lun2 lai2 bu4 xiu1 。
+- xing2 ren2 zuo4 cheng2 tan4 ， feng1 e4 jiu3 cang2 zhou1 。
 
 ## 注释
 

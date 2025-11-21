@@ -6,10 +6,10 @@ titleSlug: xian-yan-ji-shi
 author: 沈躬行
 authorPinyin: shen3 gong1 xing2
 authorSlug: shen-gong-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

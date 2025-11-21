@@ -6,10 +6,10 @@ titleSlug: diao-tai
 author: 王逵
 authorPinyin: wang2 kui2
 authorSlug: wang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

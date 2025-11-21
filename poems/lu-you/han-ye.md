@@ -6,25 +6,25 @@ titleSlug: han-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小隱謝城市，新寒尋褐袍。
-- 秋燈依壁暗，夜雨挾風豪。
-- 俗自隨時異，身寧與世鏖。
-- 殘年更何事，持蟹酌松醪。
+- 閉戶歲云暮，翻書夜向闌。
+- 足僵知火盡，目鈍覺燈殘。
+- 躍浦魚驚獺，穿林犬逐獾。
+- 三年納微祿，無愧得心安。
 
 ## 拼音
 
-- xiao3 yin3 xie4 cheng2 shi4 ， xin1 han2 xun2 he4 pao2 。
-- qiu1 deng1 yi1 bi4 an4 ， ye4 yu3 xie2 feng1 hao2 。
-- su2 zi4 sui2 shi2 yi4 ， shen1 ning2 yu3 shi4 ao2 。
-- can2 nian2 geng4 he2 shi4 ， chi2 xie4 zhuo2 song1 lao2 。
+- bi4 hu4 sui4 yun2 mu4 ， fan1 shu1 ye4 xiang4 lan2 。
+- zu2 jiang1 zhi1 huo3 jin4 ， mu4 dun4 jue2 deng1 can2 。
+- yue4 pu3 yu2 jing1 ta3 ， chuan1 lin2 quan3 zhu2 huan1 。
+- san1 nian2 na4 wei1 lu4 ， wu2 kui4 de2 xin1 an1 。
 
 ## 注释
 

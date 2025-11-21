@@ -6,10 +6,10 @@ titleSlug: meng-wen-zhong-xian-cheng-yi-shi-song-ku-sun-zou-bi-liu-shou-wei-xie-
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

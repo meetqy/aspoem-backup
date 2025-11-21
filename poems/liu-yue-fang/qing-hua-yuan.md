@@ -6,10 +6,10 @@ titleSlug: qing-hua-yuan
 author: 劉月房
 authorPinyin: liu2 yue4 fang2
 authorSlug: liu-yue-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

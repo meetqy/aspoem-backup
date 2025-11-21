@@ -6,25 +6,25 @@ titleSlug: feng-he-sheng-zhi-shang-yuan-ye
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蘭燈照夕開南闕，星弁飛樓拱北辰。
-- 在鎬正逢全盛日，祝堯皆是太平人。
-- 流風舞妙翻成字，積雪歌長迥遶塵。
-- 鸞鵲寶函頒睿什，明良賡載想同倫。
+- 勾芒司節令，鶉火中星規。
+- 廣陌消塵霧，重城集宴嬉。
+- 仙韶聞玉琯，寶焰列瓊枝。
+- 萬國同嘉會，胥庭即此時。
 
 ## 拼音
 
-- lan2 deng1 zhao4 xi1 kai1 nan2 que4 ， xing1 bian4 fei1 lou2 gong3 bei3 chen2 。
-- zai4 gao3 zheng4 feng2 quan2 sheng4 ri4 ， zhu4 yao2 jie1 shi4 tai4 ping2 ren2 。
-- liu2 feng1 wu3 miao4 fan1 cheng2 zi4 ， ji1 xue3 ge1 chang2 jiong3 rao4 chen2 。
-- luan2 que4 bao3 han2 ban1 rui4 shen2 ， ming2 liang2 geng1 zai4 xiang3 tong2 lun2 。
+- gou1 mang2 si1 jie2 ling4 ， chun2 huo3 zhong1 xing1 gui1 。
+- guang3 mo4 xiao1 chen2 wu4 ， zhong4 cheng2 ji2 yan4 xi1 。
+- xian1 shao2 wen2 yu4 guan3 ， bao3 yan4 lie4 qiong2 zhi1 。
+- wan4 guo2 tong2 jia1 hui4 ， xu1 ting2 ji2 ci3 shi2 。
 
 ## 注释
 

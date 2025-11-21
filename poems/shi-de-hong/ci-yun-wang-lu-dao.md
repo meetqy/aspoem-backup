@@ -6,27 +6,29 @@ titleSlug: ci-yun-wang-lu-dao
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老來漸覺朋儕少，夜室孤禪還自照。
-- 惟詩垢習未全除，賴有汪郎恰同調。
-- 嘗聞從來以類從，谷風忽作虎應嘯。
-- 交道今嗟張紙薄，老人嘗乖少年約。
-- 與君一笑似三秋，此道長令洞開廓。
+- 君去中秋猶一缺，爽氣洗開倍明徹。
+- 昨夜宵晴獨倚欄，露冷鳴廊卷風葉。
+- 百年客舍熟黄梁，夢境偶逢還偶别。
+- 谢安擁鼻公豈免，百年死灰我何說。
+- 故國天涯眼力衰，飛鳥當還倦始知。
+- 可憐此别秋方壯，未審重來是幾時。
 
 ## 拼音
 
-- lao3 lai2 jian4 jue2 peng2 chai2 shao3 ， ye4 shi4 gu1 shan4 huan2 zi4 zhao4 。
-- wei2 shi1 gou4 xi2 wei4 quan2 chu2 ， lai4 you3 wang1 lang2 qia4 tong2 diao4 。
-- chang2 wen2 cong2 lai2 yi3 lei4 cong2 ， gu3 feng1 hu1 zuo4 hu3 ying1 xiao4 。
-- jiao1 dao4 jin1 jie1 zhang1 zhi3 bao2 ， lao3 ren2 chang2 guai1 shao4 nian2 yue1 。
-- yu3 jun1 yi2 xiao4 si4 san1 qiu1 ， ci3 dao4 chang2 ling4 dong4 kai1 kuo4 。
+- jun1 qu4 zhong1 qiu1 you2 yi4 que1 ， shuang3 qi4 xi3 kai1 bei4 ming2 che4 。
+- zuo2 ye4 xiao1 qing2 du2 yi3 lan2 ， lu4 leng3 ming2 lang2 juan4 feng1 ye4 。
+- bai3 nian2 ke4 she4 shu2 huang2 liang2 ， meng4 jing4 ou3 feng2 huan2 ou3 bie2 。
+- xie4 an1 yong1 bi2 gong1 qi3 mian3 ， bai3 nian2 si3 hui1 wo3 he2 shuo1 。
+- gu4 guo2 tian1 ya2 yan3 li4 shuai1 ， fei1 niao3 dang1 huan2 juan4 shi3 zhi1 。
+- ke3 lian2 ci3 bie2 qiu1 fang1 zhuang4 ， wei4 shen3 zhong4 lai2 shi4 ji1 shi2 。
 
 ## 注释
 

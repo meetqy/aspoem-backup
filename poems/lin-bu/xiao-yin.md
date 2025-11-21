@@ -6,25 +6,25 @@ titleSlug: xiao-yin
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門徑獨蕭然，山林屋舍邊。
-- 水風清晚釣，花日重春眠。
-- 苒苒苔衣滑，磷磷石子圓。
-- 人寰諸洞府，應合署閒仙。
+- 魯望無來已百年，又生吾輩在林泉。
+- 誰知隠遁爲高尚，敢道文章到聖賢。
+- 月界曉窗琴嶽潤，竹摇秋機墨雲鮮。
+- 南塘一霎霏微雨，更擁漁蓑上釣船。
 
 ## 拼音
 
-- men2 jing4 du2 xiao1 ran2 ， shan1 lin2 wu1 she4 bian1 。
-- shui3 feng1 qing1 wan3 diao4 ， hua1 ri4 zhong4 chun1 mian2 。
-- ran3 ran3 tai2 yi1 hua2 ， lin2 lin2 shi2 zi3 yuan2 。
-- ren2 huan2 zhu1 dong4 fu3 ， ying1 he2 shu3 xian2 xian1 。
+- lu3 wang4 wu2 lai2 yi3 bai3 nian2 ， you4 sheng1 wu2 bei4 zai4 lin2 quan2 。
+- shui2 zhi1 yin3 dun4 wei2 gao1 shang4 ， gan3 dao4 wen2 zhang1 dao4 sheng4 xian2 。
+- yue4 jie4 xiao3 chuang1 qin2 yue4 run4 ， zhu2 yao2 qiu1 ji1 mo4 yun2 xian1 。
+- nan2 tang2 yi2 sha4 fei1 wei1 yu3 ， geng4 yong1 yu2 suo1 shang4 diao4 chuan2 。
 
 ## 注释
 

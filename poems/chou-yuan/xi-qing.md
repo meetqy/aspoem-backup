@@ -6,25 +6,21 @@ titleSlug: xi-qing
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新歲連朝喜遇晴，宜人宜穀最關情。
-- 郊原尚覺春光薄，市井先傳米價平。
-- 趁暖飛蟲生滅易，向陽征雁去留輕。
-- 北門冷掾無公事，閒看官梅野柳爭。
+- 一簾遲日忽開晴，側近園池得散行。
+- 儘勝草堂窮處士，有花有酒作清明。
 
 ## 拼音
 
-- xin1 sui4 lian2 chao2 xi3 yu4 qing2 ， yi2 ren2 yi2 gu3 zui4 guan1 qing2 。
-- jiao1 yuan2 shang4 jue2 chun1 guang1 bao2 ， shi4 jing3 xian1 chuan2 mi3 jia4 ping2 。
-- chen4 nuan3 fei1 chong2 sheng1 mie4 yi4 ， xiang4 yang2 zheng1 yan4 qu4 liu2 qing1 。
-- bei3 men2 leng3 yuan4 wu2 gong1 shi4 ， xian2 kan4 guan1 mei2 ye3 liu3 zheng1 。
+- yi4 lian2 chi2 ri4 hu1 kai1 qing2 ， ce4 jin4 yuan2 chi2 de2 san4 xing2 。
+- jin3 sheng4 cao3 tang2 qiong2 chu3 shi4 ， you3 hua1 you3 jiu3 zuo4 qing1 ming2 。
 
 ## 注释
 

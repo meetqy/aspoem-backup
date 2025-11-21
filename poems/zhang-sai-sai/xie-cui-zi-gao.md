@@ -6,10 +6,10 @@ titleSlug: xie-cui-zi-gao
 author: 張賽賽
 authorPinyin: zhang1 sai4 sai4
 authorSlug: zhang-sai-sai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

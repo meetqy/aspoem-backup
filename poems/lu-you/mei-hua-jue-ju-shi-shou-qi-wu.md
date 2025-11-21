@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蜀王小苑舊池臺，江北江南萬樹梅。
-- 只怪朝來歌吹閙，園官已報五分開。
+- 蘭荃古所貴，梅乃晚見稱。
+- 盛衰各有時，類非人力能。
 
 ## 拼音
 
-- shu3 wang2 xiao3 yuan4 jiu4 chi2 tai2 ， jiang1 bei3 jiang1 nan2 wan4 shu4 mei2 。
-- zhi1 guai4 chao2 lai2 ge1 chui1 nao4 ， yuan2 guan1 yi3 bao4 wu3 fen1 kai1 。
+- lan2 quan2 gu3 suo3 gui4 ， mei2 nai3 wan3 jian4 cheng1 。
+- sheng4 shuai1 ge4 you3 shi2 ， lei4 fei1 ren2 li4 neng2 。
 
 ## 注释
 

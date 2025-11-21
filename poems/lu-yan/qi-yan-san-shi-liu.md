@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紅爐迸濺煉金英，一點靈珠透室明。
-- 擺動乾坤知道力，逃移生死見功程。
-- 逍遙四海留蹤跡，歸去三清立姓名。
-- 直上五雲雲路穩，紫鸞朱鳳自來迎。
+- 金鎚灼灼舞天階，獨自騎龍去又來。
+- 高臥白雲觀日窟，閑眠秋月擘天開。
+- 離花片片乾坤產，坎蘂翻翻造化栽。
+- 晚醉九巖回首望，北邙山下骨皚皚。
 
 ## 拼音
 
-- hong2 lu2 beng4 jian4 lian4 jin1 ying1 ， yi4 dian3 ling2 zhu1 tou4 shi4 ming2 。
-- bai3 dong4 qian2 kun1 zhi1 dao4 li4 ， tao2 yi2 sheng1 si3 jian4 gong1 cheng2 。
-- xiao1 yao2 si4 hai3 liu2 zong1 ji4 ， gui1 qu4 san1 qing1 li4 xing4 ming2 。
-- zhi2 shang4 wu3 yun2 yun2 lu4 wen3 ， zi3 luan2 zhu1 feng4 zi4 lai2 ying2 。
+- jin1 chui2 zhuo2 zhuo2 wu3 tian1 jie1 ， du2 zi4 qi2 long2 qu4 you4 lai2 。
+- gao1 wo4 bai2 yun2 guan1 ri4 ku1 ， xian2 mian2 qiu1 yue4 bo4 tian1 kai1 。
+- li2 hua1 pian4 pian4 qian2 kun1 chan3 ， kan3 rui3 fan1 fan1 zao4 hua4 zai1 。
+- wan3 zui4 jiu3 yan2 hui2 shou3 wang4 ， bei3 mang1 shan1 xia4 gu3 ai2 ai2 。
 
 ## 注释
 

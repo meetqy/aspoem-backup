@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 孫子實
 authorPinyin: sun1 zi3 shi2
 authorSlug: sun-zi-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

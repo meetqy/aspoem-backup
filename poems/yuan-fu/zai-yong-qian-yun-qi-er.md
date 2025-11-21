@@ -6,21 +6,21 @@ titleSlug: zai-yong-qian-yun-qi-er
 author: 袁甫
 authorPinyin: yuan2 fu3
 authorSlug: yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 修慝之餘德復初，更須辨白舍并趨。
-- 善哉三語當年問，直到于今想從雩。
+- 本是塵中詩興微，秋風偶折最高枝。
+- 詩壇方築那言去，爲我留連百首詩。
 
 ## 拼音
 
-- xiu1 te4 zhi1 yu2 de2 fu4 chu1 ， geng4 xu1 bian4 bai2 she4 bing4 qu1 。
-- shan4 zai1 san1 yu3 dang1 nian2 wen4 ， zhi2 dao4 yu2 jin1 xiang3 cong2 yu2 。
+- ben3 shi4 chen2 zhong1 shi1 xing1 wei1 ， qiu1 feng1 ou3 zhe2 zui4 gao1 zhi1 。
+- shi1 tan2 fang1 zhu4 na4 yan2 qu4 ， wei2 wo3 liu2 lian2 bai3 shou3 shi1 。
 
 ## 注释
 

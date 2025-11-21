@@ -6,10 +6,10 @@ titleSlug: bing-zhong-zeng-zhang-yu-niang
 author: 沈佺
 authorPinyin: shen3 quan2
 authorSlug: shen-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

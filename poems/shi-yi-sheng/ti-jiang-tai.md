@@ -6,10 +6,10 @@ titleSlug: ti-jiang-tai
 author: 施宜生
 authorPinyin: shi1 yi2 sheng1
 authorSlug: shi-yi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

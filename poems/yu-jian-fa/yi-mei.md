@@ -6,10 +6,10 @@ titleSlug: yi-mei
 author: 虞薦發
 authorPinyin: yu2 jian4 fa1
 authorSlug: yu-jian-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

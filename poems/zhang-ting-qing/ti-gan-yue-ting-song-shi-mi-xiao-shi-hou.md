@@ -6,10 +6,10 @@ titleSlug: ti-gan-yue-ting-song-shi-mi-xiao-shi-hou
 author: 張挺卿
 authorPinyin: zhang1 ting3 qing1
 authorSlug: zhang-ting-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

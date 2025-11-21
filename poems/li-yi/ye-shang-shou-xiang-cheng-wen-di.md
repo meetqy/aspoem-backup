@@ -6,25 +6,21 @@ titleSlug: ye-shang-shou-xiang-cheng-wen-di
 author: 李益
 authorPinyin: li3 yi4
 authorSlug: li-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 入夜思歸切，笛聲清更哀。
-- 愁人不願聽，自到枕前來。
-- 風起塞雲斷，夜深關月開。
-- 平明獨惆悵，落盡一庭梅。
+- 回樂峰前沙似雪，受降城下月如霜。
+- 不知何處吹蘆管，一夜征人盡望鄉。
 
 ## 拼音
 
-- ru4 ye4 si1 gui1 qie4 ， di2 sheng1 qing1 geng4 ai1 。
-- chou2 ren2 bu2 yuan4 ting1 ， zi4 dao4 zhen3 qian2 lai2 。
-- feng1 qi3 sai1 yun2 duan4 ， ye4 shen1 guan1 yue4 kai1 。
-- ping2 ming2 du2 chou2 chang4 ， luo4 jin4 yi4 ting2 mei2 。
+- hui2 le4 feng1 qian2 sha1 si4 xue3 ， shou4 xiang2 cheng2 xia4 yue4 ru2 shuang1 。
+- bu4 zhi1 he2 chu3 chui1 lu2 guan3 ， yi2 ye4 zheng1 ren2 jin4 wang4 xiang1 。
 
 ## 注释
 

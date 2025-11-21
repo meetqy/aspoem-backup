@@ -6,10 +6,10 @@ titleSlug: zeng-hu-qiu-seng-dao-hui-you-tian-tai-er-shou-qi-yi
 author: 周文璞
 authorPinyin: zhou1 wen2 pu2
 authorSlug: zhou-wen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

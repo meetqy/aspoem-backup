@@ -6,10 +6,10 @@ titleSlug: zuo-ri-wan-gui-xi-cheng-si-jue-cheng-zi-zhi-jian-fan-zhuan-shi-jin-da
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

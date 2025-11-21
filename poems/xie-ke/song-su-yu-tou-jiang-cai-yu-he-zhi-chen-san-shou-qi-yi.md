@@ -6,10 +6,10 @@ titleSlug: song-su-yu-tou-jiang-cai-yu-he-zhi-chen-san-shou-qi-yi
 author: 謝薖
 authorPinyin: xie4 ke1
 authorSlug: xie-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

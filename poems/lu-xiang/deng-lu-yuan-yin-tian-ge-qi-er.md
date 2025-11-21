@@ -6,10 +6,10 @@ titleSlug: deng-lu-yuan-yin-tian-ge-qi-er
 author: 盧襄
 authorPinyin: lu2 xiang1
 authorSlug: lu-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

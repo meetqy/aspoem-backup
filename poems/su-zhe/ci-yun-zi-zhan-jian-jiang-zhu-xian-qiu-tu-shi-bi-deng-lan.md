@@ -6,10 +6,10 @@ titleSlug: ci-yun-zi-zhan-jian-jiang-zhu-xian-qiu-tu-shi-bi-deng-lan
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

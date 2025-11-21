@@ -6,10 +6,10 @@ titleSlug: shi-jing-lian-ju
 author: 傅概
 authorPinyin: fu4 gai4
 authorSlug: fu-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

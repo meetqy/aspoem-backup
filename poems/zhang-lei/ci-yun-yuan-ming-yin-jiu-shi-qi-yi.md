@@ -1,30 +1,34 @@
 ---
 id: zhang-lei-ci-yun-yuan-ming-yin-jiu-shi-qi-yi
-title: 次韵淵明飲酒詩  其一
-titlePinyin: ci4 yun4 yuan1 ming2 yin3 jiu3 shi1     qi2 yi1
+title: 次韵淵明飲酒詩  其一○
+titlePinyin: ci4 yun4 yuan1 ming2 yin3 jiu3 shi1     qi2 yi1 ○
 titleSlug: ci-yun-yuan-ming-yin-jiu-shi-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我欲常飲酒，俗事苦奪之。
-- 飲酒不得醉，何如未飲時。
-- 顛倒衆譏笑，佳處正在茲。
-- 念此雖杜門，濁醪日常持。
+- 弱歲慕世名，中年頗探道。
+- 世間無非苦，病死與生老。
+- 相尋無窮已，遞代作榮槁。
+- 奇哉竺乾書，百遍讀愈好。
+- 汙泥雖云濁，本不害吾寶。
+- 酒雖破浄律，吾事在律表。
 
 ## 拼音
 
-- wo3 yu4 chang2 yin3 jiu3 ， su2 shi4 ku3 duo2 zhi1 。
-- yin3 jiu3 bu4 de2 zui4 ， he2 ru2 wei4 yin3 shi2 。
-- dian1 dao3 zhong4 ji1 xiao4 ， jia1 chu3 zheng4 zai4 zi1 。
-- nian4 ci3 sui1 du4 men2 ， zhuo2 lao2 ri4 chang2 chi2 。
+- ruo4 sui4 mu4 shi4 ming2 ， zhong1 nian2 po1 tan4 dao4 。
+- shi4 jian4 wu2 fei1 ku3 ， bing4 si3 yu3 sheng1 lao3 。
+- xiang1 xun2 wu2 qiong2 yi3 ， di4 dai4 zuo4 rong2 gao3 。
+- qi2 zai1 zhu2 qian2 shu1 ， bai3 bian4 du2 yu4 hao3 。
+- wu1 ni2 sui1 yun2 zhuo2 ， ben3 bu2 hai4 wu2 bao3 。
+- jiu3 sui1 po4 jing4 lü4 ， wu2 shi4 zai4 lü4 biao3 。
 
 ## 注释
 

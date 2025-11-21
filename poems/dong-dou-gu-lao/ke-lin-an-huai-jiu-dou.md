@@ -6,9 +6,9 @@ titleSlug: ke-lin-an-huai-jiu-dou
 author: 東都故老
 authorPinyin: dong1 dou1 gu4 lao3
 authorSlug: dong-dou-gu-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,26 +1,26 @@
 ---
 id: luo-luo-xian-yu-liao-jian-fa-tong-hang-kou-zhan-fen-shui-ling-shi-qi-yi
-title: 與廖檢法同行口占分水嶺詩  其一
-titlePinyin: yu3 liao4 jian3 fa3 tong2 hang2 kou3 zhan4 fen1 shui3 ling3 shi1     qi2 yi1
+title: 與廖檢法同行口占分水嶺詩  其一○
+titlePinyin: yu3 liao4 jian3 fa3 tong2 hang2 kou3 zhan4 fen1 shui3 ling3 shi1     qi2 yi1 ○
 titleSlug: yu-liao-jian-fa-tong-hang-kou-zhan-fen-shui-ling-shi-qi-yi
 author: 駱羅憲
 authorPinyin: luo4 luo2 xian4
 authorSlug: luo-luo-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山路相隨步步高，忘懷携手上嵯峨。
-- 掀髯長嘯青雲去，回首躋攀有許勞。
+- 驛路新安掌面平，揚塵從此去朝京。
+- 清風只欠蒼松立，留待他時我種成。
 
 ## 拼音
 
-- shan1 lu4 xiang1 sui2 bu4 bu4 gao1 ， wang4 huai2 xie2 shou3 shang4 cuo2 e2 。
-- xian1 ran2 chang2 xiao4 qing1 yun2 qu4 ， hui2 shou3 ji1 pan1 you3 xu1 lao2 。
+- yi4 lu4 xin1 an1 zhang3 mian4 ping2 ， yang2 chen2 cong2 ci3 qu4 chao2 jing1 。
+- qing1 feng1 zhi1 qian4 cang1 song1 li4 ， liu2 dai4 ta1 shi2 wo3 zhong3 cheng2 。
 
 ## 注释
 

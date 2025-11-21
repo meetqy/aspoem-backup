@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-zhi-jun-an-fu-yuan-xi-shang-cui-ting-hong-mei-san-shou-qi-yi
-title: 次韻知郡安撫元夕賞倅廳紅梅三首・其一
-titlePinyin: ci4 yun4 zhi1 jun4 an1 fu3 yuan2 xi1 shang3 cui4 ting1 hong2 mei2 san1 shou3・qi2 yi1
+title: 次韻知郡安撫元夕賞倅廳紅梅三首  其一
+titlePinyin: ci4 yun4 zhi1 jun4 an1 fu3 yuan2 xi1 shang3 cui4 ting1 hong2 mei2 san1 shou3     qi2 yi1
 titleSlug: ci-yun-zhi-jun-an-fu-yuan-xi-shang-cui-ting-hong-mei-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

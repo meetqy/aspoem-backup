@@ -6,10 +6,10 @@ titleSlug: tou-ren-bo-yu-shi
 author: 陳師錫子
 authorPinyin: chen2 shi1 xi1 zi3
 authorSlug: chen-shi-xi-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

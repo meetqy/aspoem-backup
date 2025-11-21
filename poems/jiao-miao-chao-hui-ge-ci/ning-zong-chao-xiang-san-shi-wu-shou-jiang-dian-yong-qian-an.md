@@ -6,25 +6,25 @@ titleSlug: ning-zong-chao-xiang-san-shi-wu-shou-jiang-dian-yong-qian-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黼幄蟬蜎，飈斿寧燕。
-- 尊彝獻祼，瑚簋陳薦。
-- 眎儀天旋，淳音韶變。
-- 遹求厥寧，福祿流羨。
+- 聖有謨訓，詒謀燕翼。
+- 奉天酌祖，萬世維則。
+- 維皇孝熙，乾乾夕惕。
+- 禮既式旋，惟福之錫。
 
 ## 拼音
 
-- fu3 wo4 chan2 yuan1 ， biao1 you2 ning2 yan4 。
-- zun1 yi2 xian4 guan4 ， hu2 gui3 chen2 jian4 。
-- shi4 yi2 tian1 xuan2 ， chun2 yin1 shao2 bian4 。
-- yu4 qiu2 jue2 ning2 ， fu2 lu4 liu2 xian4 。
+- sheng4 you3 mo2 xun4 ， yi2 mou2 yan4 yi4 。
+- feng4 tian1 zhuo2 zu3 ， wan4 shi4 wei2 ze2 。
+- wei2 huang2 xiao4 xi1 ， qian2 qian2 xi1 ti4 。
+- li3 ji4 shi4 xuan2 ， wei2 fu2 zhi1 xi1 。
 
 ## 注释
 

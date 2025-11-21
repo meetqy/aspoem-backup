@@ -1,30 +1,30 @@
 ---
 id: guo-xiang-zheng-chun-ri-du-zhuo-shi-shou-qi-yi
-title: 春日獨酌十首  其一
-titlePinyin: chun1 ri4 du2 zhuo2 shi2 shou3     qi2 yi1
+title: 春日獨酌十首  其一○
+titlePinyin: chun1 ri4 du2 zhuo2 shi2 shou3     qi2 yi1 ○
 titleSlug: chun-ri-du-zhuo-shi-shou-qi-yi
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桃花不解飲，向我如情親。
-- 迎風更低昂，狂殺對酒人。
-- 桃無十日花，人無百歲身。
-- 竟須醒復醉，不負花上春。
+- 海棠微雨濕，枝上殘紅泣。
+- 山鳥啼向人，春光一何急。
+- 濁酒注我腸，免使新愁入。
+- 却欲買扁舟，漁竿荷蓑笠。
 
 ## 拼音
 
-- tao2 hua1 bu4 jie3 yin3 ， xiang4 wo3 ru2 qing2 qin1 。
-- ying2 feng1 geng4 di1 ang2 ， kuang2 sha1 dui4 jiu3 ren2 。
-- tao2 wu2 shi2 ri4 hua1 ， ren2 wu2 bai3 sui4 shen1 。
-- jing4 xu1 xing3 fu4 zui4 ， bu2 fu4 hua1 shang4 chun1 。
+- hai3 tang2 wei1 yu3 shi1 ， zhi1 shang4 can2 hong2 qi4 。
+- shan1 niao3 ti2 xiang4 ren2 ， chun1 guang1 yi4 he2 ji2 。
+- zhuo2 jiu3 zhu4 wo3 chang2 ， mian3 shi3 xin1 chou2 ru4 。
+- que4 yu4 mai3 pian1 zhou1 ， yu2 gan1 he2 suo1 li4 。
 
 ## 注释
 

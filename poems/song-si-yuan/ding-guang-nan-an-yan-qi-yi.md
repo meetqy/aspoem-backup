@@ -6,10 +6,10 @@ titleSlug: ding-guang-nan-an-yan-qi-yi
 author: 宋思遠
 authorPinyin: song4 si1 yuan3
 authorSlug: song-si-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

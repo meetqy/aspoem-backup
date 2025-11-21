@@ -6,10 +6,10 @@ titleSlug: jue-dao-nian-ba-di-de-xiao-jin-yin-yi-shi-zeng-zhi
 author: 晁沖之
 authorPinyin: chao2 chong1 zhi1
 authorSlug: chao-chong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

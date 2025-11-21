@@ -6,10 +6,10 @@ titleSlug: ye-cheng-xiang-ci-guan-ba-zhen-tu
 author: 李訦
 authorPinyin: li3 chen2
 authorSlug: li-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

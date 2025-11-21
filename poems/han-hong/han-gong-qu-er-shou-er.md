@@ -9,18 +9,18 @@ authorSlug: han-hong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 繡幕珊瑚鉤，春開翡翠樓。
-- 深情不肯道，嬌倚鈿箜篌。
+- 家在長陵小市中，珠簾繡戶對春風。
+- 君王昨日移仙仗，玉輦迎將入漢宮。
 
 ## 拼音
 
-- xiu4 mu4 shan1 hu2 gou1 ， chun1 kai1 fei3 cui4 lou2 。
-- shen1 qing2 bu4 ken3 dao4 ， jiao1 yi3 dian4 kong1 hou2 。
+- jia1 zai4 chang2 ling2 xiao3 shi4 zhong1 ， zhu1 lian2 xiu4 hu4 dui4 chun1 feng1 。
+- jun1 wang2 zuo2 ri4 yi2 xian1 zhang4 ， yu4 nian3 ying2 jiang1 ru4 han4 gong1 。
 
 ## 注释
 

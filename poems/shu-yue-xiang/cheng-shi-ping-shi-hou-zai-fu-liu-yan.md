@@ -6,10 +6,10 @@ titleSlug: cheng-shi-ping-shi-hou-zai-fu-liu-yan
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

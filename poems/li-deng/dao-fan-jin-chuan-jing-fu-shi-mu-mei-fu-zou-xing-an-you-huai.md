@@ -6,10 +6,10 @@ titleSlug: dao-fan-jin-chuan-jing-fu-shi-mu-mei-fu-zou-xing-an-you-huai
 author: 利登
 authorPinyin: li4 deng1
 authorSlug: li-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

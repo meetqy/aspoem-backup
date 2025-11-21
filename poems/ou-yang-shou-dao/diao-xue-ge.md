@@ -6,10 +6,10 @@ titleSlug: diao-xue-ge
 author: 歐陽守道
 authorPinyin: ou1 yang2 shou3 dao4
 authorSlug: ou-yang-shou-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

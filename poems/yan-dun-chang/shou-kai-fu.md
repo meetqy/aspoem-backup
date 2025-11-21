@@ -6,10 +6,10 @@ titleSlug: shou-kai-fu
 author: 嚴敦常
 authorPinyin: yan2 dun1 chang2
 authorSlug: yan-dun-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

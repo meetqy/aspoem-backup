@@ -6,10 +6,10 @@ titleSlug: ti-qin-tang
 author: 孫祖德
 authorPinyin: sun1 zu3 de2
 authorSlug: sun-zu-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

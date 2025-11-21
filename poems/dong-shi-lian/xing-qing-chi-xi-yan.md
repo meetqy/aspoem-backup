@@ -6,10 +6,10 @@ titleSlug: xing-qing-chi-xi-yan
 author: 董士廉
 authorPinyin: dong3 shi4 lian2
 authorSlug: dong-shi-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

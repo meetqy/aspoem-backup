@@ -6,21 +6,21 @@ titleSlug: cun-mei-kou-hao-qi-yi
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 唐家不靖自牛李，黨籍何勞口舌爭。
-- 莫說紛紛倒元祐，古來平國用阿衡。
+- 陶山松柏日夜長，屋下兒孫漸滿堂。
+- 當時侍傍五男子，考叔之羹曾未嘗。
 
 ## 拼音
 
-- tang2 jia1 bu2 jing4 zi4 niu2 li3 ， dang3 ji2 he2 lao2 kou3 she2 zheng1 。
-- mo4 shuo1 fen1 fen1 dao3 yuan2 you4 ， gu3 lai2 ping2 guo2 yong4 a1 heng2 。
+- tao2 shan1 song1 bai3 ri4 ye4 chang2 ， wu1 xia4 er2 sun1 jian4 man3 tang2 。
+- dang1 shi2 shi4 bang4 wu3 nan2 zi3 ， kao3 shu1 zhi1 geng1 ceng2 wei4 chang2 。
 
 ## 注释
 

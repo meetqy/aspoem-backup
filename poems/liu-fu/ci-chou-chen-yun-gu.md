@@ -6,10 +6,10 @@ titleSlug: ci-chou-chen-yun-gu
 author: 劉黻
 authorPinyin: liu2 fu2
 authorSlug: liu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: xiao-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鴉啼曙色尚朦朧，驚起山房夢蝶翁。
-- 始悟區區大槐裏，不如栩栩亂花中。
+- 夢入華胥國土來，咍㘆不省夜何其。
+- 青燈明滅窺昏眩，絳幘殷勤警惰嬉。
+- 窗外百禽更唱和，褌中羣虱尚貪癡。
+- 病翁未得全無事，不作新詩改舊詩。
 
 ## 拼音
 
-- ya1 ti2 shu3 se4 shang4 meng2 long2 ， jing1 qi3 shan1 fang2 meng4 die2 weng1 。
-- shi3 wu4 qu1 qu1 da4 huai2 li3 ， bu4 ru2 xu3 xu3 luan4 hua1 zhong1 。
+- meng4 ru4 hua2 xu1 guo2 tu3 lai2 ， hai1 㘆 bu4 sheng3 ye4 he2 qi2 。
+- qing1 deng1 ming2 mie4 kui1 hun1 xuan4 ， jiang4 ze2 yin1 qin2 jing3 duo4 xi1 。
+- chuang1 wai4 bai3 qin2 geng4 chang4 he4 ， kun1 zhong1 qun2 shi1 shang4 tan1 chi1 。
+- bing4 weng1 wei4 de2 quan2 wu2 shi4 ， bu2 zuo4 xin1 shi1 gai3 jiu4 shi1 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: wang-shen-fang-hu-zi-yong-qi-yi
-title: 方壺自詠  其一
-titlePinyin: fang1 hu2 zi4 yong3     qi2 yi1
+title: 方壺自詠  其一○
+titlePinyin: fang1 hu2 zi4 yong3     qi2 yi1 ○
 titleSlug: fang-hu-zi-yong-qi-yi
 author: 汪莘
 authorPinyin: wang1 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 性靜無一物，心生有萬端。
-- 曾將魂魄鍊，不被鬼神瞞。
-- 縱步地雖窄，仰頭天自寬。
-- 裁詩偏得偶，遇卦只成單。
+- 誰和陽春曲，仍操白雪音。
+- 郊寒猶有骨，島瘦未無心。
+- 雲到散時看，月當虧處尋。
+- 可憐持玉尺，終不度金針。
 
 ## 拼音
 
-- xing4 jing4 wu2 yi2 wu4 ， xin1 sheng1 you3 wan4 duan1 。
-- ceng2 jiang1 hun2 po4 lian4 ， bu2 bei4 gui3 shen2 man2 。
-- zong4 bu4 di4 sui1 zhai3 ， yang3 tou2 tian1 zi4 kuan1 。
-- cai2 shi1 pian1 de2 ou3 ， yu4 gua4 zhi1 cheng2 dan1 。
+- shui2 he2 yang2 chun1 qu3 ， reng2 cao1 bai2 xue3 yin1 。
+- jiao1 han2 you2 you3 gu3 ， dao3 shou4 wei4 wu2 xin1 。
+- yun2 dao4 san4 shi2 kan4 ， yue4 dang1 kui1 chu3 xun2 。
+- ke3 lian2 chi2 yu4 chi3 ， zhong1 bu2 du4 jin1 zhen1 。
 
 ## 注释
 

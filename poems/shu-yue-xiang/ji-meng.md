@@ -6,21 +6,21 @@ titleSlug: ji-meng
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 款段徐行穩不危，迢迢溪路見疎梅。
-- 青枝欲挽憐香雪，喚取芳尊樹下來。
+- 纚纚桃花萬樹紅，徑回無復辨西東。
+- 人間何處春風好，若欲逃秦入夢中。
 
 ## 拼音
 
-- kuan3 duan4 xu2 xing2 wen3 bu4 wei1 ， tiao2 tiao2 xi1 lu4 jian4 shu1 mei2 。
-- qing1 zhi1 yu4 wan3 lian2 xiang1 xue3 ， huan4 qu3 fang1 zun1 shu4 xia4 lai2 。
+- li2 li2 tao2 hua1 wan4 shu4 hong2 ， jing4 hui2 wu2 fu4 bian4 xi1 dong1 。
+- ren2 jian4 he2 chu3 chun1 feng1 hao3 ， ruo4 yu4 tao2 qin2 ru4 meng4 zhong1 。
 
 ## 注释
 

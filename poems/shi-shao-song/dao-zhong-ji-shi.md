@@ -6,25 +6,21 @@ titleSlug: dao-zhong-ji-shi
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 饒水回回轉，白雲西復東。
-- 日斜喧急雨，天闊退飛鴻。
-- 薄暮沿西峽，隆寒正北風。
-- 茲行有勝事，未敢歎途窮。
+- 南浦東岡二月時，迸流穿樹墮花隨。
+- 春風掩映千門柳，多少長條拂地垂。
 
 ## 拼音
 
-- rao2 shui3 hui2 hui2 zhuan3 ， bai2 yun2 xi1 fu4 dong1 。
-- ri4 xie2 xuan1 ji2 yu3 ， tian1 kuo4 tui4 fei1 hong2 。
-- bo2 mu4 yan2 xi1 xia2 ， long2 han2 zheng4 bei3 feng1 。
-- zi1 xing2 you3 sheng4 shi4 ， wei4 gan3 tan4 tu2 qiong2 。
+- nan2 pu3 dong1 gang1 er4 yue4 shi2 ， beng4 liu2 chuan1 shu4 duo4 hua1 sui2 。
+- chun1 feng1 yan3 ying4 qian1 men2 liu3 ， duo1 shao3 chang2 tiao2 fu2 di4 chui2 。
 
 ## 注释
 

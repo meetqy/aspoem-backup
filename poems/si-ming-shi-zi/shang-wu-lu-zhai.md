@@ -6,10 +6,10 @@ titleSlug: shang-wu-lu-zhai
 author: 四明士子
 authorPinyin: si4 ming2 shi4 zi3
 authorSlug: si-ming-shi-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

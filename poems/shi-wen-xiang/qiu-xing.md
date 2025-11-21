@@ -6,27 +6,41 @@ titleSlug: qiu-xing
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋雲滿茅屋，秋風響楓林。
-- 杖藜步幽徑，落葉數寸深。
-- 悠然拾葉歸，寫我閒中吟。
-- 坐客興亦閒，彈入青瑶琴。
-- 曲終各無語，山水遺清音。
+- 昔人苦悲秋，我獨愛秋色。
+- 無雲天萬里，遠嶠出寒碧。
+- 楓林葉如丹，溪水清見石。
+- 飽雨豆莢肥，經霜栗包拆。
+- 連疇稻正黄，冒野蕎亦白。
+- 籬菊忽盈把，山萸又堪摘。
+- 日月如過鳥，良辰敢虛擲。
+- 青猿頗會意，爲我具短策。
+- 西風吹破帽，野興在故屐。
+- 不憚登涉勞，遠訪巢居客。
+- 此客更可人，分我漁樵席。
+- 人生貴適意，何必累形役。
 
 ## 拼音
 
-- qiu1 yun2 man3 mao2 wu1 ， qiu1 feng1 xiang3 feng1 lin2 。
-- zhang4 li2 bu4 you1 jing4 ， luo4 ye4 shu4 cun4 shen1 。
-- you1 ran2 shi2 ye4 gui1 ， xie3 wo3 xian2 zhong1 yin2 。
-- zuo4 ke4 xing1 yi4 xian2 ， dan4 ru4 qing1 yao2 qin2 。
-- qu3 zhong1 ge4 wu2 yu3 ， shan1 shui3 yi2 qing1 yin1 。
+- xi1 ren2 ku3 bei1 qiu1 ， wo3 du2 ai4 qiu1 se4 。
+- wu2 yun2 tian1 wan4 li3 ， yuan3 jiao4 chu1 han2 bi4 。
+- feng1 lin2 ye4 ru2 dan1 ， xi1 shui3 qing1 jian4 shi2 。
+- bao3 yu3 dou4 jia2 fei2 ， jing1 shuang1 li4 bao1 chai1 。
+- lian2 chou2 dao4 zheng4 huang2 ， mao4 ye3 qiao2 yi4 bai2 。
+- li2 ju2 hu1 ying2 ba3 ， shan1 yu2 you4 kan1 zhai1 。
+- ri4 yue4 ru2 guo4 niao3 ， liang2 chen2 gan3 xu1 zhi4 。
+- qing1 yuan2 po1 hui4 yi4 ， wei2 wo3 ju4 duan3 ce4 。
+- xi1 feng1 chui1 po4 mao4 ， ye3 xing1 zai4 gu4 ji1 。
+- bu2 dan4 deng1 she4 lao2 ， yuan3 fang3 chao2 ju1 ke4 。
+- ci3 ke4 geng4 ke3 ren2 ， fen1 wo3 yu2 qiao2 xi2 。
+- ren2 sheng1 gui4 shi4 yi4 ， he2 bi4 lei4 xing2 yi4 。
 
 ## 注释
 

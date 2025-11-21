@@ -6,10 +6,10 @@ titleSlug: qian-tang-guo-liao-ci-shan-yi-shi-jian-zeng-ci-yun
 author: 陳淵
 authorPinyin: chen2 yuan1
 authorSlug: chen-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

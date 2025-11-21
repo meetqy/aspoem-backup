@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-long-xue-shang-shu-xin-an-hou-luo-gong-wan-ci-er-shou-qi-yi
-title: 龍學尚書新安侯羅公輓詞二首・其一
-titlePinyin: long2 xue2 shang4 shu1 xin1 an1 hou2 luo2 gong1 wan3 ci2 er4 shou3・qi2 yi1
+title: 龍學尚書新安侯羅公輓詞二首  其一
+titlePinyin: long2 xue2 shang4 shu1 xin1 an1 hou2 luo2 gong1 wan3 ci2 er4 shou3     qi2 yi1
 titleSlug: long-xue-shang-shu-xin-an-hou-luo-gong-wan-ci-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

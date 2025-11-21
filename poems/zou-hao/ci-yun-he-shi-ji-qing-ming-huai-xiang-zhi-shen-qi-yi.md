@@ -1,26 +1,26 @@
 ---
 id: zou-hao-ci-yun-he-shi-ji-qing-ming-huai-xiang-zhi-shen-qi-yi
-title: 次韻和師稷清明懷鄉之什  其一
-titlePinyin: ci4 yun4 he2 shi1 ji4 qing1 ming2 huai2 xiang1 zhi1 shen2     qi2 yi1
+title: 次韻和師稷清明懷鄉之什  其一○
+titlePinyin: ci4 yun4 he2 shi1 ji4 qing1 ming2 huai2 xiang1 zhi1 shen2     qi2 yi1 ○
 titleSlug: ci-yun-he-shi-ji-qing-ming-huai-xiang-zhi-shen-qi-yi
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 掃盡人間冰雪寒，魚龍鱗甲動斒斕。
-- 向來協氣無蹤跡，從此氤氲滿世還。
+- 三元甲子幾回旋，前日滄溟今甫田。
+- 惟有交情似春壽，蟠桃花裏自年年。
 
 ## 拼音
 
-- sao3 jin4 ren2 jian4 bing1 xue3 han2 ， yu2 long2 lin2 jia3 dong4 ban1 lan2 。
-- xiang4 lai2 xie2 qi4 wu2 zong1 ji4 ， cong2 ci3 yin1 yun1 man3 shi4 huan2 。
+- san1 yuan2 jia3 zi3 ji1 hui2 xuan2 ， qian2 ri4 cang1 ming2 jin1 fu3 tian2 。
+- wei2 you3 jiao1 qing0 si4 chun1 shou4 ， pan2 tao2 hua1 li3 zi4 nian2 nian2 。
 
 ## 注释
 

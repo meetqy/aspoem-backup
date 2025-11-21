@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-qi-du-fu-shi-shu-liu-qi-ju
-title: 棋賭賦詩輸劉起居
+title: 棊賭賦詩輸劉起居
 titlePinyin: qi2 du3 fu4 shi1 shu1 liu2 qi3 ju1
 titleSlug: qi-du-fu-shi-shu-liu-qi-ju
 author: 徐鉉

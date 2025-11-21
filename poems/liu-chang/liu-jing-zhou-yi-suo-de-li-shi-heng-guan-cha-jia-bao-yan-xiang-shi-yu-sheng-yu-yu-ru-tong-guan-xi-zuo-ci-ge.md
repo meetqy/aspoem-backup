@@ -6,10 +6,10 @@ titleSlug: liu-jing-zhou-yi-suo-de-li-shi-heng-guan-cha-jia-bao-yan-xiang-shi-yu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: wang-sui-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 王隨
 authorPinyin: wang2 sui2
 authorSlug: wang-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一聲啼鳥禁門靜，滿地落花春日長。
+- 地迴暖脈冰先覺，梅吐新香蝶未知。
 
 ## 拼音
 
-- yi4 sheng1 ti2 niao3 jin4 men2 jing4 ， man3 di4 luo4 hua1 chun1 ri4 chang2 。
+- di4 hui2 nuan3 mai4 bing1 xian1 jue2 ， mei2 tu3 xin1 xiang1 die2 wei4 zhi1 。
 
 ## 注释
 

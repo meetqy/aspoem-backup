@@ -6,10 +6,10 @@ titleSlug: ju
 author: 信陽道人
 authorPinyin: xin4 yang2 dao4 ren2
 authorSlug: xin-yang-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

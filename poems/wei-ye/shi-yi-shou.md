@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 魏野
 authorPinyin: wei4 ye3
 authorSlug: wei-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰人把我狂詩句，寫向添蘇繡戶中。
-- 閑暇若將紅袖拂，還應勝得碧紗籠。
+- 城裏爭看城外花，獨來城裏訪僧家。
+- 辛勤旋覓新鑽火，爲我親烹嶽麓茶。
 
 ## 拼音
 
-- shui2 ren2 ba3 wo3 kuang2 shi1 ju4 ， xie3 xiang4 tian1 su1 xiu4 hu4 zhong1 。
-- xian2 xia2 ruo4 jiang1 hong2 xiu4 fu2 ， huan2 ying1 sheng4 de2 bi4 sha1 long2 。
+- cheng2 li3 zheng1 kan4 cheng2 wai4 hua1 ， du2 lai2 cheng2 li3 fang3 seng1 jia1 。
+- xin1 qin2 xuan2 mi4 xin1 zuan1 huo3 ， wei2 wo3 qin1 peng1 yue4 lu4 cha2 。
 
 ## 注释
 

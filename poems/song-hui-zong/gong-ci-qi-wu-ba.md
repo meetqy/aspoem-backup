@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金鑾登對擇忠良，嘉納儒臣蹇議長。
-- 圖治取人當數路，吏能全不在文章。
+- 十花金盞勸仙娥，乘興追懽酒量過。
+- 燈影四圍深夜裏，分明紅玉醉顔酡。
 
 ## 拼音
 
-- jin1 luan2 deng1 dui4 ze2 zhong1 liang2 ， jia1 na4 ru2 chen2 jian3 yi4 chang2 。
-- tu2 zhi4 qu3 ren2 dang1 shu4 lu4 ， li4 neng2 quan2 bu2 zai4 wen2 zhang1 。
+- shi2 hua1 jin1 zhan3 quan4 xian1 e2 ， cheng2 xing1 zhui1 huan1 jiu3 liang4 guo4 。
+- deng1 ying3 si4 wei2 shen1 ye4 li3 ， fen1 ming2 hong2 yu4 zui4 yan2 tuo2 。
 
 ## 注释
 

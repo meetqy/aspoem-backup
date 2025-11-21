@@ -6,10 +6,10 @@ titleSlug: ti-dan-yan
 author: 朱正一
 authorPinyin: zhu1 zheng4 yi1
 authorSlug: zhu-zheng-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

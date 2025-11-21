@@ -6,9 +6,9 @@ titleSlug: guang-ye-xuan
 author: 張之才
 authorPinyin: zhang1 zhi1 cai2
 authorSlug: zhang-zhi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

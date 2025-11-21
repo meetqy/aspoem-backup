@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-wu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 御前曾刻百篇書，可但常披無逸圖。
-- 二帝三王俱寶鑑，江心百鍊定何須。
+- 攬衣切切念絲棼，當饋孜孜恤暑耘。
+- 今歲麥收蠶又熟，萬方何以答吾君。
 
 ## 拼音
 
-- yu4 qian2 ceng2 ke4 bai3 pian1 shu1 ， ke3 dan4 chang2 pi1 wu2 yi4 tu2 。
-- er4 di4 san1 wang2 ju4 bao3 jian4 ， jiang1 xin1 bai3 lian4 ding4 he2 xu1 。
+- lan3 yi1 qie4 qie4 nian4 si1 fen2 ， dang1 kui4 zi1 zi1 xu4 shu3 yun2 。
+- jin1 sui4 mai4 shou1 can2 you4 shu2 ， wan4 fang1 he2 yi3 da2 wu2 jun1 。
 
 ## 注释
 

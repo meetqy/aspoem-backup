@@ -6,10 +6,10 @@ titleSlug: chong-jiao-yuan
 author: 徐璹
 authorPinyin: xu2 shu2
 authorSlug: xu-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

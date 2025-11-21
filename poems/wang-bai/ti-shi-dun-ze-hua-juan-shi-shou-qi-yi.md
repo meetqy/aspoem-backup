@@ -1,26 +1,26 @@
 ---
 id: wang-bai-ti-shi-dun-ze-hua-juan-shi-shou-qi-yi
-title: 題時遁澤畫卷十首  其一
-titlePinyin: ti2 shi2 dun4 ze2 hua4 juan4 shi2 shou3     qi2 yi1
+title: 題時遁澤畫卷十首  其一○
+titlePinyin: ti2 shi2 dun4 ze2 hua4 juan4 shi2 shou3     qi2 yi1 ○
 titleSlug: ti-shi-dun-ze-hua-juan-shi-shou-qi-yi
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斷岸臨江渚，風聲瑟瑟寒。
-- 蒼髯五君子，莫作大夫看。
+- 浩浩乾坤闊，微微見斷山。
+- 頗興浮海意，吾道正多艱。
 
 ## 拼音
 
-- duan4 an4 lin2 jiang1 zhu3 ， feng1 sheng1 se4 se4 han2 。
-- cang1 ran2 wu3 jun1 zi3 ， mo4 zuo4 dai4 fu0 kan4 。
+- hao4 hao4 qian2 kun1 kuo4 ， wei1 wei1 jian4 duan4 shan1 。
+- po1 xing1 fu2 hai3 yi4 ， wu2 dao4 zheng4 duo1 jian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: guo-da-qiao-bing-chu-jie-ou-cheng-si-jue-ji-shao-yang-fu-lao-qi-yi
 author: 趙鼐
 authorPinyin: zhao4 nai4
 authorSlug: zhao-nai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

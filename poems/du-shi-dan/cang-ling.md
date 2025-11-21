@@ -6,10 +6,10 @@ titleSlug: cang-ling
 author: 杜師旦
 authorPinyin: du4 shi1 dan4
 authorSlug: du-shi-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

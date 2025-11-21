@@ -6,10 +6,10 @@ titleSlug: qi-xian-kai-xian-si
 author: 孫直言
 authorPinyin: sun1 zhi2 yan2
 authorSlug: sun-zhi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

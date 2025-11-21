@@ -6,10 +6,10 @@ titleSlug: jin-xiu-gu-ting
 author: 趙善湘
 authorPinyin: zhao4 shan4 xiang1
 authorSlug: zhao-shan-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

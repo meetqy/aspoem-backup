@@ -6,10 +6,10 @@ titleSlug: ma-jia-shan
 author: 車瑾
 authorPinyin: ju1 jin3
 authorSlug: ju-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

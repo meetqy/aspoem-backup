@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雙陸翻騰品格新，屢贏由彩豈由人。
-- 坐中時有全嬌態，才見頻輸特地嗔。
+- 金波如晝麗彤庭，夜寂無人傍玉寧。
+- 惟有直更宮女伴，呼來方得近鸞屏。
 
 ## 拼音
 
-- shuang1 lu4 fan1 teng2 pin3 ge2 xin1 ， lü3 ying2 you2 cai3 qi3 you2 ren2 。
-- zuo4 zhong1 shi2 you3 quan2 jiao1 tai4 ， cai2 jian4 bin1 shu1 te4 di4 chen1 。
+- jin1 bo1 ru2 zhou4 li2 tong2 ting2 ， ye4 ji4 wu2 ren2 bang4 yu4 ning2 。
+- wei2 you3 zhi2 geng4 gong1 nü3 ban4 ， hu1 lai2 fang1 de2 jin4 luan2 ping2 。
 
 ## 注释
 

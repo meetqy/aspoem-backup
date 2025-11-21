@@ -1,30 +1,30 @@
 ---
 id: yin-zhu-huang-ya-shi-shou-qi-er
-title: 皇雅十首  其二
-titlePinyin: huang2 ya3 shi2 shou3     qi2 er4
+title: 皇雅十首  其二○
+titlePinyin: huang2 ya3 shi2 shou3     qi2 er4 ○
 titleSlug: huang-ya-shi-shou-qi-er
 author: 尹洙
 authorPinyin: yin3 zhu1
 authorSlug: yin-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自昔外禪，曰經曰營。
-- 令以挾制，政以陰傾。
-- 帝初治兵，志勤于征。
-- 奄受神器，匪謀而成。
+- 帝咨庶工，疇其輔予。
+- 俊乂以登，厥勞乃圖。
+- 匪忘舊勳，非賢勿俞。
+- 巍巍衮台，盛德以居。
 
 ## 拼音
 
-- zi4 xi1 wai4 shan4 ， yue1 jing1 yue1 ying2 。
-- ling4 yi3 xie2 zhi4 ， zheng4 yi3 yin1 qing1 。
-- di4 chu1 zhi4 bing1 ， zhi4 qin2 yu2 zheng1 。
-- yan3 shou4 shen2 qi4 ， fei3 mou2 er2 cheng2 。
+- di4 zi1 shu4 gong1 ， chou2 qi2 fu3 yu3 。
+- jun4 yi4 yi3 deng1 ， jue2 lao2 nai3 tu2 。
+- fei3 wang4 jiu4 xun1 ， fei1 xian2 wu4 yu2 。
+- wei1 wei1 gun3 tai2 ， sheng4 de2 yi3 ju1 。
 
 ## 注释
 

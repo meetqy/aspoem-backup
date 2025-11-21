@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-ba
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茶交君子之淡，酒飲聖人之清。
-- 醉爲天下大老，睡則吾輩神兵。
+- 香積盂中玉粒圓，自然肥佛勝癯仙。
+- 萬金有藥元非病，一笑拈花却是禪。
 
 ## 拼音
 
-- cha2 jiao1 jun1 zi3 zhi1 dan4 ， jiu3 yin3 sheng4 ren2 zhi1 qing1 。
-- zui4 wei2 tian1 xia4 da4 lao3 ， shui4 ze2 wu2 bei4 shen2 bing1 。
+- xiang1 ji1 yu2 zhong1 yu4 li4 yuan2 ， zi4 ran2 fei2 fo2 sheng4 qu2 xian1 。
+- wan4 jin1 you3 yao4 yuan2 fei1 bing4 ， yi2 xiao4 nian1 hua1 que4 shi4 shan4 。
 
 ## 注释
 

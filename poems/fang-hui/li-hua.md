@@ -1,26 +1,26 @@
 ---
 id: fang-hui-li-hua
-title: 李花
-titlePinyin: li3 hua1
+title: 梨花
+titlePinyin: li2 hua1
 titleSlug: li-hua
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 仙根判耦得無差，春對夭桃夏對瓜。
-- 此豈輕浮閒果子，白花亦復勝紅花。
+- 仙姿白雪帔青霞，月淡春濃意不邪。
+- 天上嫦娥人未識，料應清雅似梨花。
 
 ## 拼音
 
-- xian1 gen1 pan4 ou3 de2 wu2 cha4 ， chun1 dui4 yao1 tao2 xia4 dui4 gua1 。
-- ci3 qi3 qing1 fu2 xian2 guo3 zi0 ， bai2 hua1 yi4 fu4 sheng4 hong2 hua1 。
+- xian1 zi1 bai2 xue3 pei4 qing1 xia2 ， yue4 dan4 chun1 nong2 yi4 bu4 xie2 。
+- tian1 shang4 chang2 e2 ren2 wei4 shi2 ， liao4 ying1 qing1 ya3 si4 li2 hua1 。
 
 ## 注释
 

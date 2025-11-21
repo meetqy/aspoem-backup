@@ -6,25 +6,25 @@ titleSlug: xu-yan-ya
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徐行竢命退風鷁，决起乘時遷木鶑。
-- 秋隼巧爲非義取，夜蛩工作不平鳴。
-- 行歸寡悔蟻知雨，言至數窮鳩喚晴。
-- 惟有冥鴻自高上，茲其不可得而名。
+- 臨川戰戰渴飲水，行道遲遲飽食牛。
+- 促織貪爲先具計，提壺欠作豫防謀。
+- 知風鵲備全無患，報雨鳩言半不酬。
+- 惟有海鷗忘物我，何思何慮任沉浮。
 
 ## 拼音
 
-- xu2 hang2 si4 ming4 tui4 feng1 yi4 ， jue2 qi3 cheng2 shi2 qian1 mu4 ying1 。
-- qiu1 sun3 qiao3 wei2 fei1 yi4 qu3 ， ye4 qiong2 gong1 zuo4 bu4 ping2 ming2 。
-- xing2 gui1 gua3 hui3 yi3 zhi1 yu3 ， yan2 zhi4 shu4 qiong2 jiu1 huan4 qing2 。
-- wei2 you3 ming2 hong2 zi4 gao1 shang4 ， zi1 qi2 bu4 ke3 de2 er2 ming2 。
+- lin2 chuan1 zhan4 zhan4 ke3 yin3 shui3 ， hang2 dao4 chi2 chi2 bao3 shi2 niu2 。
+- cu4 zhi1 tan1 wei2 xian1 ju4 ji4 ， ti2 hu2 qian4 zuo4 yu4 fang2 mou2 。
+- zhi1 feng1 que4 bei4 quan2 wu2 huan4 ， bao4 yu3 jiu1 yan2 ban4 bu4 chou2 。
+- wei2 you3 hai3 ou1 wang4 wu4 wo3 ， he2 si1 he2 lü4 ren4 chen2 fu2 。
 
 ## 注释
 

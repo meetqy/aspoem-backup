@@ -6,10 +6,10 @@ titleSlug: he-qian-pan-dian-cheng-you-shan-shang-yi-dao-guan-san-fo-si
 author: 費琦
 authorPinyin: fei4 qi2
 authorSlug: fei-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

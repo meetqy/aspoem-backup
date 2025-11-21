@@ -6,25 +6,25 @@ titleSlug: she-bei-xing-fan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蔓絡疏籬草滿塘，飽嬉聊復步斜陽。
-- 一霜驟變千林色，兩犢新犁百畝荒。
-- 野寺僧殘尚鐘鼓，官堤舟過見帆檣。
-- 歸來笑補空囊課，寒日誰知亦自長。
+- 飯飽逍遥信所之，芡塘蔬圃遍遊嬉。
+- 梧楸凋落風高後，瓜瓠輪囷雨足時。
+- 犬喜人歸迎野路，鵲營巢穩占低枝。
+- 晚來懶復呼童子，自掩柴門上扊扅。
 
 ## 拼音
 
-- man4 luo4 shu1 li2 cao3 man3 tang2 ， bao3 xi1 liao2 fu4 bu4 xie2 yang2 。
-- yi4 shuang1 zhou4 bian4 qian1 lin2 se4 ， liang3 du2 xin1 li2 bai3 mu3 huang1 。
-- ye3 si4 seng1 can2 shang4 zhong1 gu3 ， guan1 di1 zhou1 guo4 jian4 fan1 qiang2 。
-- gui1 lai2 xiao4 bu3 kong1 nang2 ke4 ， han2 ri4 shui2 zhi1 yi4 zi4 chang2 。
+- fan4 bao3 xiao1 yao2 xin4 suo3 zhi1 ， qian4 tang2 shu1 pu3 bian4 you2 xi1 。
+- wu2 qiu1 diao1 luo4 feng1 gao1 hou4 ， gua1 hu4 lun2 qun1 yu3 zu2 shi2 。
+- quan3 xi3 ren2 gui1 ying2 ye3 lu4 ， que4 ying2 chao2 wen3 zhan4 di1 zhi1 。
+- wan3 lai2 lan3 fu4 hu1 tong2 zi3 ， zi4 yan3 chai2 men2 shang4 yan3 yi2 。
 
 ## 注释
 

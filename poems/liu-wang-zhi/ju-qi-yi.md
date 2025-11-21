@@ -1,24 +1,24 @@
 ---
 id: liu-wang-zhi-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 劉望之
 authorPinyin: liu2 wang4 zhi1
 authorSlug: liu-wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鳳林秋晚見日落，鹿門事遠無人傳。
+- 便作稽山看，犀湖五月凉。
 
 ## 拼音
 
-- feng4 lin2 qiu1 wan3 jian4 ri4 luo4 ， lu4 men2 shi4 yuan3 wu2 ren2 chuan2 。
+- bian4 zuo4 ji1 shan1 kan4 ， xi1 hu2 wu3 yue4 liang2 。
 
 ## 注释
 

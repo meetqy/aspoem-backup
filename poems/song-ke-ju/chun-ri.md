@@ -6,10 +6,10 @@ titleSlug: chun-ri
 author: 宋可菊
 authorPinyin: song4 ke3 ju2
 authorSlug: song-ke-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

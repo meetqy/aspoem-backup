@@ -6,10 +6,10 @@ titleSlug: ti-bi-qi-yi
 author: 和庵主
 authorPinyin: he2 an1 zhu3
 authorSlug: he-an-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

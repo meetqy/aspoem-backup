@@ -9,22 +9,22 @@ authorSlug: huang-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 莫恨東牆下，頻傷命不通。
-- 苦心如有感，他日自推公。
-- 雨夜扁舟發，花時別酒空。
-- 越山煙翠在，終媿臥雲翁。
+- 已喜相逢又怨嗟，十年飄泊在京華。
+- 大朝多事還停舉，故國經荒未有家。
+- 鳥帶夕陽投遠樹，人衝臘雪往邊沙。
+- 夢魂空繫瀟湘岸，煙水茫茫蘆葦花。
 
 ## 拼音
 
-- mo4 hen4 dong1 qiang2 xia4 ， bin1 shang1 ming4 bu4 tong1 。
-- ku3 xin1 ru2 you3 gan3 ， ta1 ri4 zi4 tui1 gong1 。
-- yu3 ye4 pian1 zhou1 fa1 ， hua1 shi2 bie2 jiu3 kong1 。
-- yue4 shan1 yan1 cui4 zai4 ， zhong1 kui4 wo4 yun2 weng1 。
+- yi3 xi3 xiang1 feng2 you4 yuan4 jie1 ， shi2 nian2 piao1 bo2 zai4 jing1 hua2 。
+- da4 chao2 duo1 shi4 huan2 ting2 ju3 ， gu4 guo2 jing1 huang1 wei4 you3 jia1 。
+- niao3 dai4 xi1 yang2 tou2 yuan3 shu4 ， ren2 chong1 la4 xue3 wang3 bian1 sha1 。
+- meng4 hun2 kong1 xi4 xiao1 xiang1 an4 ， yan1 shui3 mang2 mang2 lu2 wei3 hua1 。
 
 ## 注释
 

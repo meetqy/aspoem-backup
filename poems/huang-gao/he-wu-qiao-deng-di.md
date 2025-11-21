@@ -6,10 +6,10 @@ titleSlug: he-wu-qiao-deng-di
 author: 黄誥
 authorPinyin: huang2 gao4
 authorSlug: huang-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

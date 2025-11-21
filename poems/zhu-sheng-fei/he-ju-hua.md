@@ -6,10 +6,10 @@ titleSlug: he-ju-hua
 author: 朱勝非
 authorPinyin: zhu1 sheng4 fei1
 authorSlug: zhu-sheng-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

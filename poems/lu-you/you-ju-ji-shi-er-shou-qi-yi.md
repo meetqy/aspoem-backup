@@ -6,25 +6,29 @@ titleSlug: you-ju-ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 壯歲本亡奇，頹齡又及斯。
-- 極知身有幾，惟是醉相宜。
-- 燒草溫新犢，編籬護伏雌。
-- 謀生未忘念，笑語路傍兒。
+- 山崦可伐薪，稻隴可負耒。
+- 但令二事集，一飽已有在。
+- 霜林兩株橘，春圃數畦菜。
+- 仁哉造物心，乞我曾不愛。
+- 炊烹付樵青，鉏灌頼阿對。
+- 乃翁亦自爲，高枕聽晨碓。
 
 ## 拼音
 
-- zhuang4 sui4 ben3 wang2 qi2 ， tui2 ling2 you4 ji2 si1 。
-- ji2 zhi1 shen1 you3 ji1 ， wei2 shi4 zui4 xiang1 yi2 。
-- shao1 cao3 wen1 xin1 du2 ， bian1 li2 hu4 fu2 ci2 。
-- mou2 sheng1 wei4 wang4 nian4 ， xiao4 yu3 lu4 bang4 er2 。
+- shan1 yan1 ke3 fa2 xin1 ， dao4 long3 ke3 fu4 lei3 。
+- dan4 ling4 er4 shi4 ji2 ， yi4 bao3 yi3 you3 zai4 。
+- shuang1 lin2 liang3 zhu1 ju2 ， chun1 pu3 shu4 qi2 cai4 。
+- ren2 zai1 zao4 wu4 xin1 ， qi3 wo3 ceng2 bu2 ai4 。
+- chui1 peng1 fu4 qiao2 qing1 ， chu2 guan4 lai4 a1 dui4 。
+- nai3 weng1 yi4 zi4 wei2 ， gao1 zhen3 ting1 chen2 dui4 。
 
 ## 注释
 

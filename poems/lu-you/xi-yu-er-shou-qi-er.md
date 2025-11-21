@@ -1,30 +1,30 @@
 ---
 id: lu-you-xi-yu-er-shou-qi-er
-title: 夕雨二首  其二
-titlePinyin: xi1 yu3 er4 shou3     qi2 er4
+title: 喜雨二首  其二
+titlePinyin: xi3 yu3 er4 shou3     qi2 er4
 titleSlug: xi-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨夜初傳漏，空齋半掩扉。
-- 候蟲燈下語，水鳥雨中歸。
-- 客舍愁彈劍，京塵怯化衣。
-- 故人招隱意，字字莫相違。
+- 雨聲蕭蕭集庭樹，雨氣森森入窗戶。
+- 玉川茆屋久不葺，破漏無復施床處。
+- 我於萬事本悠悠，危坐讀書忘百憂。
+- 明朝秋水增三尺，且復沙邊弄釣舟。
 
 ## 拼音
 
-- du2 ye4 chu1 chuan2 lou4 ， kong1 zhai1 ban4 yan3 fei1 。
-- hou4 chong2 deng1 xia4 yu3 ， shui3 niao3 yu3 zhong1 gui1 。
-- ke4 she4 chou2 dan4 jian4 ， jing1 chen2 qie4 hua4 yi1 。
-- gu4 ren2 zhao1 yin3 yi4 ， zi4 zi4 mo4 xiang1 wei2 。
+- yu3 sheng1 xiao1 xiao1 ji2 ting2 shu4 ， yu3 qi4 sen1 sen1 ru4 chuang1 hu4 。
+- yu4 chuan1 mao2 wu1 jiu3 bu2 qi4 ， po4 lou4 wu2 fu4 shi1 chuang2 chu3 。
+- wo3 wu1 wan4 shi4 ben3 you1 you1 ， wei1 zuo4 du2 shu1 wang4 bai3 you1 。
+- ming2 chao2 qiu1 shui3 zeng1 san1 chi3 ， qie3 fu4 sha1 bian1 nong4 diao4 zhou1 。
 
 ## 注释
 

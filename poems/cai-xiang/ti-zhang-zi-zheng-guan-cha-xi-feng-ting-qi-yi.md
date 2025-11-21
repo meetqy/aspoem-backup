@@ -6,10 +6,10 @@ titleSlug: ti-zhang-zi-zheng-guan-cha-xi-feng-ting-qi-yi
 author: 蔡向
 authorPinyin: cai4 xiang4
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

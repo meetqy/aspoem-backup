@@ -6,29 +6,25 @@ titleSlug: ji-shi
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝隨粥魚作，夕與棲鳥眠。
-- 中間復何事，野飯炊山田。
-- 摩腹步脩廡，披襟坐南軒。
-- 薫爐鬰佳氣，茶鼎浮輕烟。
-- 閑開竹窗帙，靜憩蒲團禪。
-- 庶幾永白日，亦用銷殘年。
+- 野寺山家兩寂然，小窗下有白頭禪。
+- 微風不動爐煙直，永日方中樹影圓。
+- 隱几讀書長竟夕，閉門覓句可忘年。
+- 幸無駟馬高車客，觸忤幽人到眼邊。
 
 ## 拼音
 
-- chao2 sui2 zhou1 yu2 zuo4 ， xi1 yu3 qi1 niao3 mian2 。
-- zhong1 jian4 fu4 he2 shi4 ， ye3 fan4 chui1 shan1 tian2 。
-- mo2 fu4 bu4 xiu1 wu3 ， pi1 jin1 zuo4 nan2 xuan1 。
-- xun1 lu2 yu4 jia1 qi4 ， cha2 ding3 fu2 qing1 yan1 。
-- xian2 kai1 zhu2 chuang1 zhi4 ， jing4 qi4 pu2 tuan2 shan4 。
-- shu4 ji1 yong3 bai2 ri4 ， yi4 yong4 xiao1 can2 nian2 。
+- ye3 si4 shan1 jia1 liang3 ji4 ran2 ， xiao3 chuang1 xia4 you3 bai2 tou2 shan4 。
+- wei1 feng1 bu2 dong4 lu2 yan1 zhi2 ， yong3 ri4 fang1 zhong1 shu4 ying3 yuan2 。
+- yin3 ji3 du2 shu1 chang2 jing4 xi1 ， bi4 men2 mi4 ju4 ke3 wang4 nian2 。
+- xing4 wu2 si4 ma3 gao1 ju1 ke4 ， chu4 wu3 you1 ren2 dao4 yan3 bian1 。
 
 ## 注释
 

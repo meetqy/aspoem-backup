@@ -1,30 +1,30 @@
 ---
 id: chen-yuan-yue-zhou-dao-zhong-za-shi-shi-san-shou-qi-yi
-title: 越州道中雜詩十三首  其一
-titlePinyin: yue4 zhou1 dao4 zhong1 za2 shi1 shi2 san1 shou3     qi2 yi1
+title: 越州道中雜詩十三首  其一○
+titlePinyin: yue4 zhou1 dao4 zhong1 za2 shi1 shi2 san1 shou3     qi2 yi1 ○
 titleSlug: yue-zhou-dao-zhong-za-shi-shi-san-shou-qi-yi
 author: 陳淵
 authorPinyin: chen2 yuan1
 authorSlug: chen-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心息久相依，息調心自住。
-- 忽焉不自知，根塵失所寓。
-- 向來尚有錐，今我已忘兔。
-- 似入無功鄉，不由嵇阮路。
+- 揚雄窺聖域，何啻越距楚。
+- 斷然著成書，凖易與論語。
+- 古來文字學，似此奚足數。
+- 誰謂千秋人，斯言果輕許。
 
 ## 拼音
 
-- xin1 xi1 jiu3 xiang1 yi1 ， xi1 diao4 xin1 zi4 zhu4 。
-- hu1 yan1 bu2 zi4 zhi1 ， gen1 chen2 shi1 suo3 yu4 。
-- xiang4 lai2 shang4 you3 zhui1 ， jin1 wo3 yi3 wang4 tu4 。
-- si4 ru4 wu2 gong1 xiang1 ， bu4 you2 ji1 ruan3 lu4 。
+- yang2 xiong2 kui1 sheng4 yu4 ， he2 chi4 yue4 ju4 chu3 。
+- duan4 ran2 zhu4 cheng2 shu1 ， zhun3 yi4 yu3 lun4 yu3 。
+- gu3 lai2 wen2 zi4 xue2 ， si4 ci3 xi1 zu2 shu4 。
+- shui2 wei4 qian1 qiu1 ren2 ， si1 yan2 guo3 qing1 xu1 。
 
 ## 注释
 

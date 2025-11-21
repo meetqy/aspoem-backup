@@ -6,9 +6,9 @@ titleSlug: du-cheng-xiang-ceng-gong-wei-gui-shuai-shi-jing-guo-liu-ti
 author: 黄朝散
 authorPinyin: huang2 chao2 san4
 authorSlug: huang-chao-san
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

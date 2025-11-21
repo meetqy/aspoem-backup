@@ -6,10 +6,10 @@ titleSlug: da-di-shan
 author: 白元鑒
 authorPinyin: bai2 yuan2 jian4
 authorSlug: bai-yuan-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

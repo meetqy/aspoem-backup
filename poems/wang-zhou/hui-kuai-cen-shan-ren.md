@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 渝州江上忽相逢，說隐西山最上峰。
-- 略坐移時又分别，片雲孤鶴一枝筇。
+- 渝州江上忽相逢，說隱西山最上峰。
+- 略坐移時又分別，片雲孤鶴一枝筇。
 
 ## 拼音
 

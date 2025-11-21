@@ -6,10 +6,10 @@ titleSlug: shi-qiao-qi-er
 author: 范沖
 authorPinyin: fan4 chong1
 authorSlug: fan-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ti-fang-gan-jiu-yin
 author: 陳最
 authorPinyin: chen2 zui4
 authorSlug: chen-zui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

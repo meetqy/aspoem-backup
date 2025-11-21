@@ -6,9 +6,9 @@ titleSlug: lin-bi-min-bao-yi-shi-jian-zeng-ci-yun-feng-da
 author: 顧禧
 authorPinyin: gu4 xi3
 authorSlug: gu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

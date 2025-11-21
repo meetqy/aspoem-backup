@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 洞庭老人
 authorPinyin: dong4 ting2 lao3 ren2
 authorSlug: dong-ting-lao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

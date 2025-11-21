@@ -6,10 +6,10 @@ titleSlug: tong-chi-guo-su-tai-xue-guan-she
 author: 江休復
 authorPinyin: jiang1 xiu1 fu4
 authorSlug: jiang-xiu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

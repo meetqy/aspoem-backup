@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 黄知微
 authorPinyin: huang2 zhi1 wei1
 authorSlug: huang-zhi-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

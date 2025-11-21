@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan
 author: 劉豐祿
 authorPinyin: liu2 feng1 lu4
 authorSlug: liu-feng-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-zi-cheng-chun-ci-xian-sheng-lu-shi
 author: 羅願
 authorPinyin: luo2 yuan4
 authorSlug: luo-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

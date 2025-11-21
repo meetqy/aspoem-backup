@@ -6,10 +6,10 @@ titleSlug: jing-chou-zhi-shu-san-ci-zhi-ru-jian-xi-yang-li-cao-er-shou-qi-yi
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

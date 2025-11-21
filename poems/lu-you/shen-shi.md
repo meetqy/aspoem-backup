@@ -6,25 +6,25 @@ titleSlug: shen-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身世浮沉等一漚，卧看校尉例封侯。
-- 青燈微火藥鐺夜，淡月凄風衣杵秋。
-- 醉裏不辭嘲兀兀，吟邊時得寄悠悠。
-- 即今老眼無開處，又向城南倚寺樓。
+- 身世飄然似斷雲，時人誤許與斯文。
+- 旋償碑債動千里，强理詩情無一分。
+- 子美舊悲殘酒炙，幼安今老白襦裙。
+- 餘生自喜渾無事，清夜銅爐炷寶熏。
 
 ## 拼音
 
-- shen1 shi4 fu2 chen2 deng3 yi4 ou1 ， wo4 kan4 xiao4 wei4 li4 feng1 hou2 。
-- qing1 deng1 wei1 huo3 yao4 dang1 ye4 ， dan4 yue4 qi1 feng1 yi1 chu3 qiu1 。
-- zui4 li3 bu4 ci2 chao2 wu4 wu4 ， yin2 bian1 shi2 de2 ji4 you1 you1 。
-- ji2 jin1 lao3 yan3 wu2 kai1 chu3 ， you4 xiang4 cheng2 nan2 yi3 si4 lou2 。
+- shen1 shi4 piao1 ran2 si4 duan4 yun2 ， shi2 ren2 wu4 xu1 yu3 si1 wen2 。
+- xuan2 chang2 bei1 zhai4 dong4 qian1 li3 ， qiang2 li3 shi1 qing2 wu2 yi4 fen1 。
+- zi3 mei3 jiu4 bei1 can2 jiu3 zhi4 ， you4 an1 jin1 lao3 bai2 ru2 qun2 。
+- yu2 sheng1 zi4 xi3 hun2 wu2 shi4 ， qing1 ye4 tong2 lu2 zhu4 bao3 xun1 。
 
 ## 注释
 

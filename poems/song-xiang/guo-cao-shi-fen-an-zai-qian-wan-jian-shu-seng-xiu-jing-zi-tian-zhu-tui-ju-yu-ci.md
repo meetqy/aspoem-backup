@@ -6,9 +6,9 @@ titleSlug: guo-cao-shi-fen-an-zai-qian-wan-jian-shu-seng-xiu-jing-zi-tian-zhu-tu
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

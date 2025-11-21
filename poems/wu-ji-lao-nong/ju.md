@@ -6,10 +6,10 @@ titleSlug: ju
 author: 無機老農
 authorPinyin: wu2 ji1 lao3 nong2
 authorSlug: wu-ji-lao-nong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

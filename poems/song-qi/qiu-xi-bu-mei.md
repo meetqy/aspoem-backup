@@ -6,25 +6,21 @@ titleSlug: qiu-xi-bu-mei
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 槭槭始遥夜，騷騷無寐時。
-- 啼螿思歲晚，寒葉伴人衰。
-- 白髮生將遍，丹砂化苦遲。
-- 多情是殘月，通曉共遥帷。
+- 風褭危檣浪拍船，三更殘月下空弦。
+- 離鴻過盡啼烏困，猶自愁人不得眠。
 
 ## 拼音
 
-- qi4 qi4 shi3 yao2 ye4 ， sao1 sao1 wu2 mei4 shi2 。
-- ti2 jiang1 si1 sui4 wan3 ， han2 ye4 ban4 ren2 shuai1 。
-- bai2 fa4 sheng1 jiang1 bian4 ， dan1 sha1 hua4 ku3 chi2 。
-- duo1 qing2 shi4 can2 yue4 ， tong1 xiao3 gong4 yao2 wei2 。
+- feng1 niao3 wei1 qiang2 lang4 pai1 chuan2 ， san1 geng1 can2 yue4 xia4 kong1 xian2 。
+- li2 hong2 guo4 jin4 ti2 wu1 kun4 ， you2 zi4 chou2 ren2 bu4 de2 mian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ming-zhong-xiao-zhi-gui-jiang-zhe-jian-zhi-xi-du-you-gan-er-shou-qi-y
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

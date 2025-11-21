@@ -6,10 +6,10 @@ titleSlug: shi-yi-yue-si-ri-pei-zhu-gong-you-shen-quan-nan-shan-yuan-er-shi-yun
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

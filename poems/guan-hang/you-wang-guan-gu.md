@@ -6,10 +6,10 @@ titleSlug: you-wang-guan-gu
 author: 毌沆
 authorPinyin: guan4 hang4
 authorSlug: guan-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

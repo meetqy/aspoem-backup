@@ -6,10 +6,10 @@ titleSlug: chen-shu-jin-bi-shu-song-chun-fen-su-wei-xie-nai-ru-jia-ju-ci-yun-fa-
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

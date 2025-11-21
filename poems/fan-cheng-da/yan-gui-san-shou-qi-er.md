@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-yan-gui-san-shou-qi-er
-title: 巖桂三首・其二
-titlePinyin: yan2 gui4 san1 shou3・qi2 er4
+title: 巖桂三首  其二
+titlePinyin: yan2 gui4 san1 shou3     qi2 er4
 titleSlug: yan-gui-san-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

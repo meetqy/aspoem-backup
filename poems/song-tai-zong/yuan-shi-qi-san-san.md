@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-san-san
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 世間何所益，樂善有馨香。
-- 貴賤雖差等，非違定不祥。
-- 春臺宜勝地，花木收嚴霜。
-- 求取立身行，恒持但久長。
+- 居山城市罕逢人，傲世名高混世塵。
+- 滿目煙霞常作伴，言知寒暑易爲春。
 
 ## 拼音
 
-- shi4 jian4 he2 suo3 yi4 ， le4 shan4 you3 xin1 xiang1 。
-- gui4 jian4 sui1 cha4 deng3 ， fei1 wei2 ding4 bu4 xiang2 。
-- chun1 tai2 yi2 sheng4 di4 ， hua1 mu4 shou1 yan2 shuang1 。
-- qiu2 qu3 li4 shen1 xing2 ， heng2 chi2 dan4 jiu3 chang2 。
+- ju1 shan1 cheng2 shi4 han3 feng2 ren2 ， ao4 shi4 ming2 gao1 hun4 shi4 chen2 。
+- man3 mu4 yan1 xia2 chang2 zuo4 ban4 ， yan2 zhi1 han2 shu3 yi4 wei2 chun1 。
 
 ## 注释
 

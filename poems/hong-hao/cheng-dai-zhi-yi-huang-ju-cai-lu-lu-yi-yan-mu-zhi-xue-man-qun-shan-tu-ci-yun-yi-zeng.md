@@ -6,10 +6,10 @@ titleSlug: cheng-dai-zhi-yi-huang-ju-cai-lu-lu-yi-yan-mu-zhi-xue-man-qun-shan-tu
 author: 洪皓
 authorPinyin: hong2 hao4
 authorSlug: hong-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

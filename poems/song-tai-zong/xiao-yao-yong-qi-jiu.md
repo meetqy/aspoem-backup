@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-jiu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 道德誰分別，逍遥我自由。
-- 時情人不達，深理少相投。
-- 己是終無益，非他作逗留。
-- 奈何爲各異，未定復還休。
+- 含元得一本真宗，誤者平論總是空。
+- 萬象都來皆備數，千言譬諭了然通。
+- 才高俊彥優堪賞，竊祿偷安有異同。
+- 唯願他心如似我，不教陷惡罪身中。
 
 ## 拼音
 
-- dao4 de2 shui2 fen1 bie2 ， xiao1 yao2 wo3 zi4 you2 。
-- shi2 qing2 ren2 bu4 da2 ， shen1 li3 shao3 xiang1 tou2 。
-- ji3 shi4 zhong1 wu2 yi4 ， fei1 ta1 zuo4 dou4 liu2 。
-- nai4 he2 wei2 ge4 yi4 ， wei4 ding4 fu4 huan2 xiu1 。
+- han2 yuan2 de2 yi4 ben3 zhen1 zong1 ， wu4 zhe3 ping2 lun4 zong3 shi4 kong1 。
+- wan4 xiang4 dou1 lai2 jie1 bei4 shu4 ， qian1 yan2 pi4 yu4 liao3 ran2 tong1 。
+- cai2 gao1 jun4 yan4 you1 kan1 shang3 ， qie4 lu4 tou1 an1 you3 yi4 tong2 。
+- wei2 yuan4 ta1 xin1 ru2 si4 wo3 ， bu2 jiao4 xian4 e4 zui4 shen1 zhong1 。
 
 ## 注释
 

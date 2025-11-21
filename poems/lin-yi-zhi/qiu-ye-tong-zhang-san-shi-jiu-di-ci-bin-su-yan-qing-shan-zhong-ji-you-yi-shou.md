@@ -6,10 +6,10 @@ titleSlug: qiu-ye-tong-zhang-san-shi-jiu-di-ci-bin-su-yan-qing-shan-zhong-ji-you
 author: 林亦之
 authorPinyin: lin2 yi4 zhi1
 authorSlug: lin-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

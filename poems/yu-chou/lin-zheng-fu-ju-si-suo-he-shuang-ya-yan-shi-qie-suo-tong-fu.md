@@ -6,10 +6,10 @@ titleSlug: lin-zheng-fu-ju-si-suo-he-shuang-ya-yan-shi-qie-suo-tong-fu
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

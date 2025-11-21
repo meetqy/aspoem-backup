@@ -6,10 +6,10 @@ titleSlug: shu-duan-zhou-jun-zhai-bi
 author: 包拯
 authorPinyin: bao1 zheng3
 authorSlug: bao-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

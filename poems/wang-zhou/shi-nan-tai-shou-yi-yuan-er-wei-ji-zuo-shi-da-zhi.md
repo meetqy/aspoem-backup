@@ -1,6 +1,6 @@
 ---
 id: wang-zhou-shi-nan-tai-shou-yi-yuan-er-wei-ji-zuo-shi-da-zhi
-title: 施南太守以猿兒爲寄作詩答之
+title: 施南太守以猨兒爲寄作詩答之
 titlePinyin: shi1 nan2 tai4 shou3 yi3 yuan2 er2 wei2 ji4 zuo4 shi1 da2 zhi1
 titleSlug: shi-nan-tai-shou-yi-yuan-er-wei-ji-zuo-shi-da-zhi
 author: 王周
@@ -9,7 +9,7 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

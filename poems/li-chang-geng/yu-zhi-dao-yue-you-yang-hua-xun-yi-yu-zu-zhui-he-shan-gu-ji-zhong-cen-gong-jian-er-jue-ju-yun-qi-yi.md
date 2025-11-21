@@ -6,10 +6,10 @@ titleSlug: yu-zhi-dao-yue-you-yang-hua-xun-yi-yu-zu-zhui-he-shan-gu-ji-zhong-cen
 author: 李長庚
 authorPinyin: li3 chang2 geng1
 authorSlug: li-chang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: su-yuan-dong-he-cheng-shi-meng-yun
 author: 福州運判
 authorPinyin: fu2 zhou1 yun4 pan4
 authorSlug: fu-zhou-yun-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

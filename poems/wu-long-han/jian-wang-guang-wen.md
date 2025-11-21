@@ -1,30 +1,30 @@
 ---
 id: wu-long-han-jian-wang-guang-wen
-title: 見王廣文
+title: 餞王廣文
 titlePinyin: jian4 wang2 guang3 wen2
 titleSlug: jian-wang-guang-wen
 author: 吳龍翰
 authorPinyin: wu2 long2 han4
 authorSlug: wu-long-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 旅食京華不自謀，可堪典盡鷫鸘裘。
-- 一床風雨孤燈夜，千里江山兩髩秋。
-- 笑索寒梅吟苦句，醉拈禿筆掃窮愁。
-- 學人翻笑孫明復，強乞希明一點頭。
+- 宦居三載滿，嚴駕出山城。
+- 詩擔梅花白，離杯竹葉清。
+- 更籌催客夢，斥堠計行程。
+- 去去驂鸞鶴，長歌上玉京。
 
 ## 拼音
 
-- lü3 shi2 jing1 hua2 bu2 zi4 mou2 ， ke3 kan1 dian3 jin4 su4 shuang1 qiu2 。
-- yi4 chuang2 feng1 yu3 gu1 deng1 ye4 ， qian1 li3 jiang1 shan1 liang3 bin4 qiu1 。
-- xiao4 suo3 han2 mei2 yin2 ku3 ju4 ， zui4 nian1 tu1 bi3 sao3 qiong2 chou2 。
-- xue2 ren2 fan1 xiao4 sun1 ming2 fu4 ， qiang2 qi3 xi1 ming2 yi4 dian3 tou2 。
+- huan4 ju1 san1 zai4 man3 ， yan2 jia4 chu1 shan1 cheng2 。
+- shi1 dan1 mei2 hua1 bai2 ， li2 bei1 zhu2 ye4 qing1 。
+- geng4 chou2 cui1 ke4 meng4 ， chi4 hou4 ji4 xing2 cheng2 。
+- qu4 qu4 can1 luan2 he4 ， chang2 ge1 shang4 yu4 jing1 。
 
 ## 注释
 

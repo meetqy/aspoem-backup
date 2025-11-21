@@ -6,10 +6,10 @@ titleSlug: chun-yue-yue-bao-cheng-shi-ji-cheng-fang-cao-xin-ru-fu-ruo
 author: 王邁
 authorPinyin: wang2 mai4
 authorSlug: wang-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-mei-shan
 author: 薛修竹
 authorPinyin: xue1 xiu1 zhu2
 authorSlug: xue-xiu-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

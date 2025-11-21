@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 晁逈
 authorPinyin: chao2 jiong3
 authorSlug: chao-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貌愚愚谷邃，道醉醉鄉春。
-- 愚醉無迷謬，伊予意又新。
+- 宜城徵美醖，漢水得佳舫。
+- 登峴思前哲，遊池醉夕陽。
 
 ## 拼音
 
-- mao4 yu2 yu2 gu3 sui4 ， dao4 zui4 zui4 xiang1 chun1 。
-- yu2 zui4 wu2 mi2 miu4 ， yi1 yu3 yi4 you4 xin1 。
+- yi2 cheng2 zhi3 mei3 yun4 ， han4 shui3 de2 jia1 fang3 。
+- deng1 xian4 si1 qian2 zhe2 ， you2 chi2 zui4 xi1 yang2 。
 
 ## 注释
 

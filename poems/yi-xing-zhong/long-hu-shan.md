@@ -6,10 +6,10 @@ titleSlug: long-hu-shan
 author: 易性中
 authorPinyin: yi4 xing4 zhong1
 authorSlug: yi-xing-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

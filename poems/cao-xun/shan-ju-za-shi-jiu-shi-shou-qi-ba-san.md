@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陳梨甘若飴，雪梨脆而水。
-- 二物浙左右，大顆擅甘脆。
-- 秋熱兼宿酒，啗之手不置。
-- 雖非鳳濁鵝，惠予亦多矣。
+- 秋雨不可雷，雷即雨無節。
+- 況當收刈時，只欲天明潔。
+- 夫何連日雨，卧穗恐芽蘗。
+- 已失早禾望，晚田幸天輟。
 
 ## 拼音
 
-- chen2 li2 gan1 ruo4 yi2 ， xue3 li2 cui4 er2 shui3 。
-- er4 wu4 zhe4 zuo3 you4 ， da4 ke1 shan4 gan1 cui4 。
-- qiu1 re4 jian1 su4 jiu3 ， dan4 zhi1 shou3 bu2 zhi4 。
-- sui1 fei1 feng4 zhuo2 e2 ， hui4 yu3 yi4 duo1 yi3 。
+- qiu1 yu3 bu4 ke3 lei2 ， lei2 ji2 yu3 wu2 jie2 。
+- kuang4 dang1 shou1 yi4 shi2 ， zhi1 yu4 tian1 ming2 jie2 。
+- fu1 he2 lian2 ri4 yu3 ， wo4 sui4 kong3 ya2 bo4 。
+- yi3 shi1 zao3 he2 wang4 ， wan3 tian2 xing4 tian1 chuo4 。
 
 ## 注释
 

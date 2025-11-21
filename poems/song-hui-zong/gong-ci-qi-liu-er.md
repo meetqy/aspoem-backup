@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 七夕新秋玉露清，月鈎遙掛碧雲平。
-- 珍庭祈巧貪娱宴，唯恨殘更促曉聲。
+- 每將兢慎保丕基，頻歲多男巳應期。
+- 欲問榮昌在何事，春中禖燕滿彤圍。
 
 ## 拼音
 
-- qi1 xi1 xin1 qiu1 yu4 lu4 qing1 ， yue4 gou1 yao2 gua4 bi4 yun2 ping2 。
-- zhen1 ting2 qi2 qiao3 tan1 yu2 yan4 ， wei2 hen4 can2 geng4 cu4 xiao3 sheng1 。
+- mei3 jiang1 jing1 shen4 bao3 pi1 ji1 ， bin1 sui4 duo1 nan2 si4 ying1 qi1 。
+- yu4 wen4 rong2 chang1 zai4 he2 shi4 ， chun1 zhong1 mei2 yan4 man3 tong2 wei2 。
 
 ## 注释
 

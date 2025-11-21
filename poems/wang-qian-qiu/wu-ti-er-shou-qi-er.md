@@ -6,10 +6,10 @@ titleSlug: wu-ti-er-shou-qi-er
 author: 王千秋
 authorPinyin: wang2 qian1 qiu1
 authorSlug: wang-qian-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

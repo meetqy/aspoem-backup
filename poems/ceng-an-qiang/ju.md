@@ -6,10 +6,10 @@ titleSlug: ju
 author: 曾安强
 authorPinyin: ceng2 an1 qiang2
 authorSlug: ceng-an-qiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

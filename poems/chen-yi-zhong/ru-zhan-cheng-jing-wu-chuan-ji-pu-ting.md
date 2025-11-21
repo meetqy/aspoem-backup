@@ -6,10 +6,10 @@ titleSlug: ru-zhan-cheng-jing-wu-chuan-ji-pu-ting
 author: 陳宜中
 authorPinyin: chen2 yi2 zhong1
 authorSlug: chen-yi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-jiu-bian-er-jue-qi-er
-title: 酒邊二絕・其二
-titlePinyin: jiu3 bian1 er4 jue2・qi2 er4
+title: 酒邊二絕  其二
+titlePinyin: jiu3 bian1 er4 jue2     qi2 er4
 titleSlug: jiu-bian-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

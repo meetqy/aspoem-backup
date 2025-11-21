@@ -6,10 +6,10 @@ titleSlug: xin-si-chen-shi-chong-lai-fang-shuo-ji
 author: 釋常竹塢
 authorPinyin: shi4 chang2 zhu2 wu4
 authorSlug: shi-chang-zhu-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-huang-xiu-shi-zhu-zuo-fu-dan-fu-ren
 author: 廖剛
 authorPinyin: liao4 gang1
 authorSlug: liao-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-xiang-si-pu-bi
 author: 令狐挺
 authorPinyin: ling2 hu2 ting3
 authorSlug: ling-hu-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

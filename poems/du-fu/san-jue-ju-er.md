@@ -9,18 +9,18 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 門外鸕鷀去不來，沙頭忽見眼相猜。
-- 自今已後知人意，一日須來一百回。
+- 二十一家同入蜀，惟殘一人出駱谷。
+- 自說二女齧臂時，回頭却向秦雲哭。
 
 ## 拼音
 
-- men2 wai4 lu2 ci2 qu4 bu4 lai2 ， sha1 tou2 hu1 jian4 yan3 xiang1 cai1 。
-- zi4 jin1 yi3 hou4 zhi1 ren2 yi4 ， yi2 ri4 xu1 lai2 yi4 bai3 hui2 。
+- er4 shi2 yi1 jia1 tong2 ru4 shu3 ， wei2 can2 yi4 ren2 chu1 luo4 gu3 。
+- zi4 shuo1 er4 nü3 nie4 bi4 shi2 ， hui2 tou2 que4 xiang4 qin2 yun2 ku1 。
 
 ## 注释
 

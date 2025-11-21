@@ -6,9 +6,9 @@ titleSlug: shi-bi-tang-gong-fang-san-jun-zai-yong-qian-yun-fu-chou-yi-shou
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

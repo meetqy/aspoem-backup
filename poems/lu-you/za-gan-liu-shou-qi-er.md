@@ -6,21 +6,25 @@ titleSlug: za-gan-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 讒口安能作禍基，吾曹興廢豈無時。
-- 向來何事令公怒，問著渠儂自不知。
+- 道進身垂老，方靈病已侵。
+- 知難逃死籍，猶得遂歸心。
+- 星斗開孤劍，塵埃拂素琴。
+- 妄庸常衮衮，誰與論幽深。
 
 ## 拼音
 
-- chan2 kou3 an1 neng2 zuo4 huo4 ji1 ， wu2 cao2 xing1 fei4 qi3 wu2 shi2 。
-- xiang4 lai2 he2 shi4 ling4 gong1 nu4 ， wen4 zhu4 qu2 nong2 zi4 bu4 zhi1 。
+- dao4 jin4 shen1 chui2 lao3 ， fang1 ling2 bing4 yi3 qin1 。
+- zhi1 nan2 tao2 si3 ji2 ， you2 de2 sui4 gui1 xin1 。
+- xing1 dou3 kai1 gu1 jian4 ， chen2 ai1 fu2 su4 qin2 。
+- wang4 yong1 chang2 gun3 gun3 ， shui2 yu3 lun4 you1 shen1 。
 
 ## 注释
 

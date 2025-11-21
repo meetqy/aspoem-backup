@@ -6,10 +6,10 @@ titleSlug: ku-gu-ren-cao-shi-jiu-mi-xiao-shu-ming-hai-yang-si-shi-di-zi-chao-zho
 author: 林亦之
 authorPinyin: lin2 yi4 zhi1
 authorSlug: lin-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

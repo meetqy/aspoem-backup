@@ -6,10 +6,10 @@ titleSlug: shao-wu
 author: 葉祖洽
 authorPinyin: ye4 zu3 qia4
 authorSlug: ye-zu-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

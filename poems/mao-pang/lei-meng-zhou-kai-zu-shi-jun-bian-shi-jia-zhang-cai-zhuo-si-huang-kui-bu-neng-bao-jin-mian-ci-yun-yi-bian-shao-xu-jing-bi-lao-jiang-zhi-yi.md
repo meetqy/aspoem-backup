@@ -6,10 +6,10 @@ titleSlug: lei-meng-zhou-kai-zu-shi-jun-bian-shi-jia-zhang-cai-zhuo-si-huang-kui
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

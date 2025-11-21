@@ -6,25 +6,25 @@ titleSlug: shu-huai
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倦櫛頭如葆，深居心若齋。
-- 作詩須識病，遇事莫裝懷。
-- 富貴乃身賊，饑寒爲道階。
-- 長貧君勿怨，天豈困吾儕。
+- 春風吹雨又吹晴，柳樹能青桃樹明。
+- 細履野蹊初見蝶，却行幽徑未聞鶑。
+- 布衾雖破猶堪典，菜甲縱稀亦可羹。
+- 政擬遠同嵇叔夜，一尊濁酒話平生。
 
 ## 拼音
 
-- juan4 zhi4 tou2 ru2 bao3 ， shen1 ju1 xin1 ruo4 zhai1 。
-- zuo4 shi1 xu1 shi2 bing4 ， yu4 shi4 mo4 zhuang1 huai2 。
-- fu4 gui4 nai3 shen1 zei2 ， ji1 han2 wei2 dao4 jie1 。
-- chang2 pin2 jun1 wu4 yuan4 ， tian1 qi3 kun4 wu2 chai2 。
+- chun1 feng1 chui1 yu3 you4 chui1 qing2 ， liu3 shu4 neng2 qing1 tao2 shu4 ming2 。
+- xi4 lü3 ye3 qi1 chu1 jian4 die2 ， que4 xing2 you1 jing4 wei4 wen2 ying1 。
+- bu4 qin1 sui1 po4 you2 kan1 dian3 ， cai4 jia3 zong4 xi1 yi4 ke3 geng1 。
+- zheng4 ni3 yuan3 tong2 ji1 shu1 ye4 ， yi4 zun1 zhuo2 jiu3 hua4 ping2 sheng1 。
 
 ## 注释
 

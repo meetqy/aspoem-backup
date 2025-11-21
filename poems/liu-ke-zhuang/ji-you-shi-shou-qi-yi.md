@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-ji-you-shi-shou-qi-yi
-title: 紀游十首  其一
-titlePinyin: ji4 you2 shi2 shou3     qi2 yi1
+title: 紀游十首  其一○
+titlePinyin: ji4 you2 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-you-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倦後入蒲龕，欣時出草庵。
-- 偶圓靈照話，亦於善財參。
+- 由晉以至唐，幾人作文字。
+- 前有酒德頌，後惟醉鄉記。
 
 ## 拼音
 
-- juan4 hou4 ru4 pu2 kan1 ， xin1 shi2 chu1 cao3 an1 。
-- ou3 yuan2 ling2 zhao4 hua4 ， yi4 wu1 shan4 cai2 can1 。
+- you2 jin4 yi3 zhi4 tang2 ， ji1 ren2 zuo4 wen2 zi4 。
+- qian2 you3 jiu3 de2 song4 ， hou4 wei2 zui4 xiang1 ji4 。
 
 ## 注释
 

@@ -1,26 +1,30 @@
 ---
 id: shi-yin-su-song-gu-jiu-shi-ba-shou-qi-liu
-title: 頌古九十八首  其六
-titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 liu4
+title: 頌古九十八首  其六○
+titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 liu4 ○
 titleSlug: song-gu-jiu-shi-ba-shou-qi-liu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 未解空時决定疑，速教歸去莫令遲。
-- 諸方罕辯無聲句，師子還生師子兒。
+- 見道不生機，生機不見道。
+- 青峰年年青，白水常浩浩。
+- 生熟路不通，迷悟俱不到。
+- 青白未萌前，樂普大深奧。
 
 ## 拼音
 
-- wei4 jie3 kong1 shi2 jue2 ding4 yi2 ， su4 jiao4 gui1 qu4 mo4 ling4 chi2 。
-- zhu1 fang1 han3 bian4 wu2 sheng1 ju4 ， shi1 zi3 huan2 sheng1 shi1 zi3 er2 。
+- jian4 dao4 bu4 sheng1 ji1 ， sheng1 ji1 bu2 jian4 dao4 。
+- qing1 feng1 nian2 nian2 qing1 ， bai2 shui3 chang2 hao4 hao4 。
+- sheng1 shu2 lu4 bu4 tong1 ， mi2 wu4 ju4 bu2 dao4 。
+- qing1 bai2 wei4 meng2 qian2 ， le4 pu3 da4 shen1 ao4 。
 
 ## 注释
 

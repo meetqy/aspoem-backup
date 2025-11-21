@@ -6,10 +6,10 @@ titleSlug: meng-zhong-zuo
 author: 王山
 authorPinyin: wang2 shan1
 authorSlug: wang-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

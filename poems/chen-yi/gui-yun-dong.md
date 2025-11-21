@@ -6,10 +6,10 @@ titleSlug: gui-yun-dong
 author: 陳毅
 authorPinyin: chen2 yi4
 authorSlug: chen-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-tang-zi-fang-dian-yuan
 author: 陳洙
 authorPinyin: chen2 zhu1
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

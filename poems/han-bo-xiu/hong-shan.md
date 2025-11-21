@@ -6,10 +6,10 @@ titleSlug: hong-shan
 author: 韓伯修
 authorPinyin: han2 bo2 xiu1
 authorSlug: han-bo-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

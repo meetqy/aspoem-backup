@@ -9,22 +9,22 @@ authorSlug: li-shen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 垂陰敢慕甘棠葉，附幹將呈瑞木符。
-- 十步蘭茶同秀彩，萬年枝葉表皇圖。
-- 芟夷不及知無患，雨露曾霑自不枯。
-- 好住孤根託桃李，莫令從此混樵蘇。
+- 南山白額同馴擾，亦變仁心去殺機。
+- 不競牛甘令買患，免遭狐假妄憑威。
+- 渡河豈適他邦害，據谷終無暴物非。
+- 爾效騶虞護生草，豈徒柔伏在淮淝。
 
 ## 拼音
 
-- chui2 yin1 gan3 mu4 gan1 tang2 ye4 ， fu4 gan4 jiang1 cheng2 rui4 mu4 fu2 。
-- shi2 bu4 lan2 cha2 tong2 xiu4 cai3 ， wan4 nian2 zhi1 ye4 biao3 huang2 tu2 。
-- shan1 yi2 bu4 ji2 zhi1 wu2 huan4 ， yu3 lu4 ceng2 zhan1 zi4 bu4 ku1 。
-- hao3 zhu4 gu1 gen1 tuo1 tao2 li3 ， mo4 ling4 cong2 ci3 hun4 qiao2 su1 。
+- nan2 shan1 bai2 e2 tong2 xun4 rao3 ， yi4 bian4 ren2 xin1 qu4 sha1 ji1 。
+- bu2 jing4 niu2 gan1 ling4 mai3 huan4 ， mian3 zao1 hu2 jia3 wang4 ping2 wei1 。
+- du4 he2 qi3 shi4 ta1 bang1 hai4 ， ju4 gu3 zhong1 wu2 bao4 wu4 fei1 。
+- er3 xiao4 zou1 yu2 hu4 sheng1 cao3 ， qi3 tu2 rou2 fu2 zai4 huai2 fei2 。
 
 ## 注释
 

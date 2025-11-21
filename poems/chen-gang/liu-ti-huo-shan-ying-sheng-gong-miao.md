@@ -6,10 +6,10 @@ titleSlug: liu-ti-huo-shan-ying-sheng-gong-miao
 author: 陳綱
 authorPinyin: chen2 gang1
 authorSlug: chen-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wan-hu-ji-zhao
 author: 林起鰲
 authorPinyin: lin2 qi3 ao2
 authorSlug: lin-qi-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

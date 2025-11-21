@@ -6,10 +6,10 @@ titleSlug: ti-xin-feng-xian-cheng-men-liu-shou-gong-ri
 author: 羅椅
 authorPinyin: luo2 yi3
 authorSlug: luo-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: jiao-hui-you-ren-zhuan-shi-shi-juan
 author: 張煒
 authorPinyin: zhang1 wei3
 authorSlug: zhang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

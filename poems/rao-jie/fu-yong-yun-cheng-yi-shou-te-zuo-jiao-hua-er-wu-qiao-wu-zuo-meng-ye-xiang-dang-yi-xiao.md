@@ -6,10 +6,10 @@ titleSlug: fu-yong-yun-cheng-yi-shou-te-zuo-jiao-hua-er-wu-qiao-wu-zuo-meng-ye-x
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

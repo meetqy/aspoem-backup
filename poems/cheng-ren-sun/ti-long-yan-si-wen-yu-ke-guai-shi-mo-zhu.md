@@ -6,10 +6,10 @@ titleSlug: ti-long-yan-si-wen-yu-ke-guai-shi-mo-zhu
 author: 程壬孫
 authorPinyin: cheng2 ren2 sun1
 authorSlug: cheng-ren-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

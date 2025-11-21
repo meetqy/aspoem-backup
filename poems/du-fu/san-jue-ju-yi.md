@@ -9,18 +9,18 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 楸樹馨香倚釣磯，斬新花蘂未應飛。
-- 不如醉裏風吹盡，可忍醒時雨打稀。
+- 前年渝州殺刺史，今年開州殺刺史。
+- 羣盜相隨劇虎狼，食人更肯留妻子。
 
 ## 拼音
 
-- qiu1 shu4 xin1 xiang1 yi3 diao4 ji1 ， zhan3 xin1 hua1 rui3 wei4 ying1 fei1 。
-- bu4 ru2 zui4 li3 feng1 chui1 jin4 ， ke3 ren3 xing3 shi2 yu3 da3 xi1 。
+- qian2 nian2 yu2 zhou1 sha1 ci4 shi3 ， jin1 nian2 kai1 zhou1 sha1 ci4 shi3 。
+- qun2 dao4 xiang1 sui2 ju4 hu3 lang2 ， shi2 ren2 geng4 ken3 liu2 qi1 zi0 。
 
 ## 注释
 

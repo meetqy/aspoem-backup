@@ -6,10 +6,10 @@ titleSlug: tong-yuan-zhong-shao-yi-deng-da-an-ge-ge-fu-yi-pian
 author: 王安中
 authorPinyin: wang2 an1 zhong1
 authorSlug: wang-an-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-guan
 author: 余嗣
 authorPinyin: yu2 si4
 authorSlug: yu-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

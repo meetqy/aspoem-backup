@@ -6,10 +6,10 @@ titleSlug: luo-zhong-ci-yun-he-nan-ling-wang-zi-yu-guan-mei
 author: 趙鼎
 authorPinyin: zhao4 ding3
 authorSlug: zhao-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

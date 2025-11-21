@@ -6,10 +6,10 @@ titleSlug: jin-ci-yuan-yun-cheng-yan-jun-gei-shi
 author: 楊損之
 authorPinyin: yang2 sun3 zhi1
 authorSlug: yang-sun-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

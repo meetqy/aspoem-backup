@@ -6,10 +6,10 @@ titleSlug: ju
 author: 宇文之邵
 authorPinyin: yu3 wen2 zhi1 shao4
 authorSlug: yu-wen-zhi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-qi-yi-yi
-title: 偈頌一百二十三首  其一一
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 yi1
+title: 偈頌一百二十三首  其一一○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 yi1 ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-yi
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生平活計一絲頭，嘯月迎風得自由。
-- 管甚澄江興逆浪，等閑平步過滄洲。
+- 百尺竿頭弄險，是非海裏橫身。
+- 更有全提底時節，只堪惆悵不堪陳。
 
 ## 拼音
 
-- sheng1 ping2 huo2 ji4 yi4 si1 tou2 ， xiao4 yue4 ying2 feng1 de2 zi4 you2 。
-- guan3 shen4 cheng2 jiang1 xing1 ni4 lang4 ， deng3 xian2 ping2 bu4 guo4 cang1 zhou1 。
+- bai3 chi3 gan1 tou2 nong4 xian3 ， shi4 fei1 hai3 li3 heng2 shen1 。
+- geng4 you3 quan2 ti2 di3 shi2 jie2 ， zhi1 kan1 chou2 chang4 bu4 kan1 chen2 。
 
 ## 注释
 

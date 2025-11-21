@@ -6,25 +6,25 @@ titleSlug: ji-zi-tang
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 知君不寂寞，禪悅只空房。
-- 書卷依經藏，吟聲繞寺廊。
-- 早霜貍面白，新酒菊花黄。
-- 共此山家景，西峯隔夕陽。
+- 欲出一雨隔，相違十日强。
+- 鼠過松落粉，雉步麥摇芒。
+- 酒盡夜難過，書清日自長。
+- 羊求三逕約，來往莫相忘。
 
 ## 拼音
 
-- zhi1 jun1 bu2 ji4 mo4 ， shan4 yue4 zhi1 kong4 fang2 。
-- shu1 juan4 yi1 jing1 cang2 ， yin2 sheng1 rao4 si4 lang2 。
-- zao3 shuang1 li2 mian4 bai2 ， xin1 jiu3 ju2 hua1 huang2 。
-- gong4 ci3 shan1 jia1 jing3 ， xi1 feng1 ge2 xi1 yang2 。
+- yu4 chu1 yi4 yu3 ge2 ， xiang1 wei2 shi2 ri4 qiang2 。
+- shu3 guo4 song1 luo4 fen3 ， zhi4 bu4 mai4 yao2 mang2 。
+- jiu3 jin4 ye4 nan2 guo4 ， shu1 qing1 ri4 zi4 chang2 。
+- yang2 qiu2 san1 jing4 yue1 ， lai2 wang3 mo4 xiang1 wang4 。
 
 ## 注释
 

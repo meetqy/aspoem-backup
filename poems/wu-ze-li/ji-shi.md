@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 吳則禮
 authorPinyin: wu2 ze2 li3
 authorSlug: wu-ze-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 子規日日啼，凋我兩鬢毛。
-- 鄰家洗甕盎，漸欲見濁醪。
-- 飽聞荆江邊，古柳繫酒船。
-- 沙頭昨夜夢，一笑水浮天。
+- 先生寧負虀鹽口，歲歲來沽春社酒。
+- 好事晴鳩喚睡醒，與人穀穀論花柳。
+- 白頭强作懷抱寛，我曹未辦憎儒冠。
+- 不知無米知覓句，大似騎驢杜工部。
 
 ## 拼音
 
-- zi3 gui1 ri4 ri4 ti2 ， diao1 wo3 liang3 bin4 mao2 。
-- lin2 jia1 xi3 weng4 ang4 ， jian4 yu4 jian4 zhuo2 lao2 。
-- bao3 wen2 jing1 jiang1 bian1 ， gu3 liu3 xi4 jiu3 chuan2 。
-- sha1 tou2 zuo2 ye4 meng4 ， yi2 xiao4 shui3 fu2 tian1 。
+- xian1 sheng0 ning2 fu4 ji1 yan2 kou3 ， sui4 sui4 lai2 gu1 chun1 she4 jiu3 。
+- hao3 shi4 qing2 jiu1 huan4 shui4 xing3 ， yu3 ren2 gu3 gu3 lun4 hua1 liu3 。
+- bai2 tou2 qiang2 zuo4 huai2 bao4 kuan1 ， wo3 cao2 wei4 ban4 zeng1 ru2 guan1 。
+- bu4 zhi1 wu2 mi3 zhi1 mi4 ju4 ， da4 si4 qi2 lü2 du4 gong1 bu4 。
 
 ## 注释
 

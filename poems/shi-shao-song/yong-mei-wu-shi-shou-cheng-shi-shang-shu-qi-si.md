@@ -1,26 +1,26 @@
 ---
 id: shi-shao-song-yong-mei-wu-shi-shou-cheng-shi-shang-shu-qi-si
-title: 詠梅五十首呈史尚書  其四
-titlePinyin: yong3 mei2 wu3 shi2 shou3 cheng2 shi3 shang4 shu1     qi2 si4
+title: 詠梅五十首呈史尚書  其四○
+titlePinyin: yong3 mei2 wu3 shi2 shou3 cheng2 shi3 shang4 shu1     qi2 si4 ○
 titleSlug: yong-mei-wu-shi-shou-cheng-shi-shang-shu-qi-si
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 繞樹尋花得得來，摩挲蒼石更徘徊。
-- 題詩未有驚人句，謾想華光寫照才。
+- 一徑蕭蕭松影低，尋花覓路忽成迷。
+- 詩材雖乏三千首，聞見隨時入品題。
 
 ## 拼音
 
-- rao4 shu4 xun2 hua1 de2 de2 lai2 ， mo2 suo1 cang1 shi2 geng4 pai2 huai2 。
-- ti2 shi1 wei4 you3 jing1 ren2 ju4 ， man2 xiang3 hua2 guang1 xie3 zhao4 cai2 。
+- yi2 jing4 xiao1 xiao1 song1 ying3 di1 ， xun2 hua1 mi4 lu4 hu1 cheng2 mi2 。
+- shi1 cai2 sui1 fa2 san1 qian1 shou3 ， wen2 jian4 sui2 shi2 ru4 pin3 ti2 。
 
 ## 注释
 

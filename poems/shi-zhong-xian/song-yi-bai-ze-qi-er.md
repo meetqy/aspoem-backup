@@ -1,32 +1,26 @@
 ---
 id: shi-zhong-xian-song-yi-bai-ze-qi-er
-title: 頌一百則  其二
-titlePinyin: song4 yi4 bai3 ze2     qi2 er4
+title: 頌一百則  其二○
+titlePinyin: song4 yi4 bai3 ze2     qi2 er4 ○
 titleSlug: song-yi-bai-ze-qi-er
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 至道無難，言端語端。
-- 一有多種，二無兩般。
-- 天際日上月下，檻前山深水寒。
-- 髑髏識盡喜何立，枯木龍吟消未乾。
-- 難難，揀擇明白君自看。
+- 龍牙山裏龍無眼，死水何曾振古風。
+- 禪板蒲團不能用，只應分付與盧公。
 
 ## 拼音
 
-- zhi4 dao4 wu2 nan2 ， yan2 duan1 yu3 duan1 。
-- yi4 you3 duo1 zhong3 ， er4 wu2 liang3 ban1 。
-- tian1 ji4 ri4 shang4 yue4 xia4 ， jian4 qian2 shan1 shen1 shui3 han2 。
-- du2 lou2 shi2 jin4 xi3 he2 li4 ， ku1 mu4 long2 yin2 xiao1 wei4 qian2 。
-- nan2 nan2 ， jian3 ze2 ming2 bai0 jun1 zi4 kan4 。
+- long2 ya2 shan1 li3 long2 wu2 yan3 ， si3 shui3 he2 ceng2 zhen4 gu3 feng1 。
+- shan4 ban3 pu2 tuan2 bu4 neng2 yong4 ， zhi1 ying1 fen1 fu4 yu3 lu2 gong1 。
 
 ## 注释
 

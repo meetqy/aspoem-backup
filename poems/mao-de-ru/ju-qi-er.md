@@ -6,9 +6,9 @@ titleSlug: ju-qi-er
 author: 毛德如
 authorPinyin: mao2 de2 ru2
 authorSlug: mao-de-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

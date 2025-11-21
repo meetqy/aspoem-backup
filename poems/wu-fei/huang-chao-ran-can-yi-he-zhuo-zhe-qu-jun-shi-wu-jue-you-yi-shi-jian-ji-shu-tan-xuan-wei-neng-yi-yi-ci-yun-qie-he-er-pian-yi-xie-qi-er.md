@@ -6,10 +6,10 @@ titleSlug: huang-chao-ran-can-yi-he-zhuo-zhe-qu-jun-shi-wu-jue-you-yi-shi-jian-j
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

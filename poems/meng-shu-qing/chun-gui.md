@@ -6,10 +6,10 @@ titleSlug: chun-gui
 author: 孟淑卿
 authorPinyin: meng4 shu1 qing1
 authorSlug: meng-shu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

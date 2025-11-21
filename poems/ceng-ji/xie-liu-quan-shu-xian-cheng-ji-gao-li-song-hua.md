@@ -6,10 +6,10 @@ titleSlug: xie-liu-quan-shu-xian-cheng-ji-gao-li-song-hua
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: song-ren
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春盡江南二月時，盈盈陌上燕差池。
-- 遊絲日暖垂千尺，不爲行人繫別離。
+- 疎雨梧桐滴滴秋，涼吹別袂上歸舟。
+- 釜山青立蒼茫外，潮落潮生一點愁。
 
 ## 拼音
 
-- chun1 jin4 jiang1 nan2 er4 yue4 shi2 ， ying2 ying2 mo4 shang4 yan4 cha1 chi2 。
-- you2 si1 ri4 nuan3 chui2 qian1 chi3 ， bu4 wei2 xing2 ren2 xi4 bie2 li2 。
+- shu1 yu3 wu2 tong2 di1 di1 qiu1 ， liang2 chui1 bie2 mei4 shang4 gui1 zhou1 。
+- fu3 shan1 qing1 li4 cang1 mang2 wai4 ， chao2 luo4 chao2 sheng1 yi4 dian3 chou2 。
 
 ## 注释
 

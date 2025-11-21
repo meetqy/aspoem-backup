@@ -1,24 +1,26 @@
 ---
 id: wu-hang-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 吳沆
 authorPinyin: wu2 hang4
 authorSlug: wu-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 樹頭明月光欲吐，反眼仰面天恢恢。
+- 寇殘井邑困流離，回首歡娛一一悲。
+- 不厭兒童遭世亂，惟愁父老說清時。
 
 ## 拼音
 
-- shu4 tou2 ming2 yue4 guang1 yu4 tu3 ， fan3 yan3 yang3 mian4 tian1 hui1 hui1 。
+- kou4 can2 jing3 yi4 kun4 liu2 li2 ， hui2 shou3 huan1 yu2 yi1 yi1 bei1 。
+- bu2 yan4 er2 tong2 zao1 shi4 luan4 ， wei2 chou2 fu4 lao3 shuo1 qing1 shi2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: you-kai-shan-si
 author: 歐陽子槐
 authorPinyin: ou1 yang2 zi3 huai2
 authorSlug: ou-yang-zi-huai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

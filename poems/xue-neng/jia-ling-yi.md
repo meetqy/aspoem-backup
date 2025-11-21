@@ -9,22 +9,22 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 江濤千疊閣千層，銜尾相隨盡室登。
-- 稠樹蔽山聞杜宇，午煙薰日食嘉陵。
-- 頻題石上程多破，暫歇泉邊起不能。
-- 如此幸非名利切，益州來日合攜僧。
+- 盡室可招魂，蠻餘出蜀門。
+- 雹涼隨雨氣，江熱傍山根。
+- 蠶月繰絲路，農時碌碡村。
+- 干將磨欲盡，無位可酬恩。
 
 ## 拼音
 
-- jiang1 tao1 qian1 die2 ge2 qian1 ceng2 ， xian2 wei3 xiang1 sui2 jin4 shi4 deng1 。
-- chou2 shu4 bi4 shan1 wen2 du4 yu3 ， wu3 yan1 xun1 ri4 shi2 jia1 ling2 。
-- bin1 ti2 shi2 shang4 cheng2 duo1 po4 ， zan4 xie1 quan2 bian1 qi3 bu4 neng2 。
-- ru2 ci3 xing4 fei1 ming2 li4 qie4 ， yi4 zhou1 lai2 ri4 he2 xie2 seng1 。
+- jin4 shi4 ke3 zhao1 hun2 ， man2 yu2 chu1 shu3 men2 。
+- bao2 liang2 sui2 yu3 qi4 ， jiang1 re4 bang4 shan1 gen1 。
+- can2 yue4 qiao1 si1 lu4 ， nong2 shi2 liu4 zhou0 cun1 。
+- gan1 jiang1 mo2 yu4 jin4 ， wu2 wei4 ke3 chou2 en1 。
 
 ## 注释
 

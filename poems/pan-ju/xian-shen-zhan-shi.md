@@ -6,10 +6,10 @@ titleSlug: xian-shen-zhan-shi
 author: 潘矩
 authorPinyin: pan1 ju3
 authorSlug: pan-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

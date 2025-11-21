@@ -6,9 +6,9 @@ titleSlug: ju-qi-yi
 author: 釋省念
 authorPinyin: shi4 sheng3 nian4
 authorSlug: shi-sheng-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

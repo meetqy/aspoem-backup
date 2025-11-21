@@ -6,10 +6,10 @@ titleSlug: ping-lu-xuan-ji-shi
 author: 莫若拙
 authorPinyin: mo4 ruo4 zhuo1
 authorSlug: mo-ruo-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiu-hou-shan-shen-shi
 author: 蔡如松
 authorPinyin: cai4 ru2 song1
 authorSlug: cai-ru-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

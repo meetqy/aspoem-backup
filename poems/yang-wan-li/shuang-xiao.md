@@ -6,21 +6,21 @@ titleSlug: shuang-xiao
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜重曉未覺，日高融始寒。
-- 空牆半根濕，落葉片聲乾。
+- 荒荒瘦日作秋暉，稍稍微暄破曉霏。
+- 只有江楓偏得意，夜挼霜水染紅衣。
 
 ## 拼音
 
-- shuang1 zhong4 xiao3 wei4 jue2 ， ri4 gao1 rong2 shi3 han2 。
-- kong1 qiang2 ban4 gen1 shi1 ， luo4 ye4 pian4 sheng1 qian2 。
+- huang1 huang1 shou4 ri4 zuo4 qiu1 hui1 ， shao1 shao1 wei1 xuan1 po4 xiao3 fei1 。
+- zhi3 you3 jiang1 feng1 pian1 de2 yi4 ， ye4 ruo2 shuang1 shui3 ran3 hong2 yi1 。
 
 ## 注释
 

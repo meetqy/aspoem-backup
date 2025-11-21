@@ -6,9 +6,9 @@ titleSlug: wen-bian-shi-jiu-you-guai-shi-cang-zhai-zhong-wen-qi-yi-sun-zhi-yi-fe
 author: 李若水
 authorPinyin: li3 ruo4 shui3
 authorSlug: li-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

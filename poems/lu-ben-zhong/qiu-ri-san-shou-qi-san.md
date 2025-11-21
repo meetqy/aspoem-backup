@@ -6,21 +6,25 @@ titleSlug: qiu-ri-san-shou-qi-san
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 往来奔走看渠忙，疾病低回却未妨。
-- 喚客不須嫌酒惡，隔牆時喜送橙香。
+- 獄掾酸寒極，官曹冗長催。
+- 真同鶴久住，不學雁輕回。
+- 婦女能相笑，兒童忍見猜。
+- 猶憐舊耆老，時有一書來。
 
 ## 拼音
 
-- wang3 lai2 ben1 zou3 kan4 qu2 mang2 ， ji2 bing4 di1 hui2 que4 wei4 fang2 。
-- huan4 ke4 bu4 xu1 xian2 jiu3 e4 ， ge2 qiang2 shi2 xi3 song4 cheng2 xiang1 。
+- yu4 yuan4 suan1 han2 ji2 ， guan1 cao2 rong3 chang2 cui1 。
+- zhen1 tong2 he4 jiu3 zhu4 ， bu4 xue2 yan4 qing1 hui2 。
+- fu4 nü3 neng2 xiang1 xiao4 ， er2 tong2 ren3 jian4 cai1 。
+- you2 lian2 jiu4 qi2 lao3 ， shi2 you3 yi4 shu1 lai2 。
 
 ## 注释
 

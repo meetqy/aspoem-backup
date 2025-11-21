@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 令月初登黍，嘉辰舊沐蘭。
-- 宸心思解慍，時取舜琴彈。
+- 令節傳千古，休祥屬聖時。
+- 炎圖如日永，赫赫照華夷。
 
 ## 拼音
 
-- ling4 yue4 chu1 deng1 shu3 ， jia1 chen2 jiu4 mu4 lan2 。
-- chen2 xin1 si0 jie3 yun4 ， shi2 qu3 shun4 qin2 dan4 。
+- ling4 jie2 chuan2 qian1 gu3 ， xiu1 xiang2 shu3 sheng4 shi2 。
+- yan2 tu2 ru2 ri4 yong3 ， he4 he4 zhao4 hua2 yi2 。
 
 ## 注释
 

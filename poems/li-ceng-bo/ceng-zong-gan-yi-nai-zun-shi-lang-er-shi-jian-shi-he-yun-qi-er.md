@@ -6,10 +6,10 @@ titleSlug: ceng-zong-gan-yi-nai-zun-shi-lang-er-shi-jian-shi-he-yun-qi-er
 author: 李曾伯
 authorPinyin: li3 ceng2 bo2
 authorSlug: li-ceng-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

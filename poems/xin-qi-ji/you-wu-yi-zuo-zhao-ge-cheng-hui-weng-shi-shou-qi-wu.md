@@ -6,10 +6,10 @@ titleSlug: you-wu-yi-zuo-zhao-ge-cheng-hui-weng-shi-shou-qi-wu
 author: 辛棄疾
 authorPinyin: xin1 qi4 ji2
 authorSlug: xin-qi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

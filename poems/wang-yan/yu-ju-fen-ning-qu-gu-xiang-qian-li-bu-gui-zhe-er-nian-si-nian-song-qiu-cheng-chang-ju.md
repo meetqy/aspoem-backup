@@ -6,10 +6,10 @@ titleSlug: yu-ju-fen-ning-qu-gu-xiang-qian-li-bu-gui-zhe-er-nian-si-nian-song-qi
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

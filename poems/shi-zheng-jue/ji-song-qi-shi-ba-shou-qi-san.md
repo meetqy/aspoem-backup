@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-qi-shi-ba-shou-qi-san
-title: 偈頌七十八首  其三
-titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 san1
+title: 偈頌七十八首  其三○
+titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 san1 ○
 titleSlug: ji-song-qi-shi-ba-shou-qi-san
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 山雲冉冉，江水茫茫。
-- 正不居位，偏不涉傍。
-- 顯而不露，隱而彌彰。
-- 猿啼古木音聲急，鶴宿枯松夢寐長。
+- 不可以色見，不可以聲求。
+- 風定花猶落，鳥啼山更幽。
+- 四衢明自曉，六戶冷如秋。
+- 再坐不疑處，杯中弓影浮。
 
 ## 拼音
 
-- shan1 yun2 ran3 ran3 ， jiang1 shui3 mang2 mang2 。
-- zheng4 bu4 ju1 wei4 ， pian1 bu2 she4 bang4 。
-- xian3 er2 bu2 lu4 ， yin3 er2 mi2 zhang1 。
-- yuan2 ti2 gu3 mu4 yin1 sheng1 ji2 ， he4 su4 ku1 song1 meng4 mei4 chang2 。
+- bu4 ke3 yi3 se4 jian4 ， bu4 ke3 yi3 sheng1 qiu2 。
+- feng1 ding4 hua1 you2 luo4 ， niao3 ti2 shan1 geng4 you1 。
+- si4 qu2 ming2 zi4 xiao3 ， liu4 hu4 leng3 ru2 qiu1 。
+- zai4 zuo4 bu4 yi2 chu3 ， bei1 zhong1 gong1 ying3 fu2 。
 
 ## 注释
 

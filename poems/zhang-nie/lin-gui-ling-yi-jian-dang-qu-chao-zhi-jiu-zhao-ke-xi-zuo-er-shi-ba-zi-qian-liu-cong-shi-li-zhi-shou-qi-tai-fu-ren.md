@@ -6,9 +6,9 @@ titleSlug: lin-gui-ling-yi-jian-dang-qu-chao-zhi-jiu-zhao-ke-xi-zuo-er-shi-ba-zi
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

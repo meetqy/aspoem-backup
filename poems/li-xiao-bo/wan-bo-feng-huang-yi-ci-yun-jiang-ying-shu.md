@@ -6,10 +6,10 @@ titleSlug: wan-bo-feng-huang-yi-ci-yun-jiang-ying-shu
 author: 李孝伯
 authorPinyin: li3 xiao4 bo2
 authorSlug: li-xiao-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: wang-zhi-dao-zhui-he-dong-po-mei-hua-shi-jue-qi-yi
-title: 追和東坡梅花十絕  其一
-titlePinyin: zhui1 he2 dong1 po1 mei2 hua1 shi2 jue2     qi2 yi1
+title: 追和東坡梅花十絕  其一○
+titlePinyin: zhui1 he2 dong1 po1 mei2 hua1 shi2 jue2     qi2 yi1 ○
 titleSlug: zhui-he-dong-po-mei-hua-shi-jue-qi-yi
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 春到梅梢日自和，動人芳氣不須多。
-- 清肌瘦骨如冰玉，瘴霧那能柰子何。
+- 山下溪頭賣酒家，爲誰低入屋簷斜。
+- 蔬腸不柰村酤澁，笑挽長條沃井花。
 
 ## 拼音
 
-- chun1 dao4 mei2 shao1 ri4 zi4 he2 ， dong4 ren2 fang1 qi4 bu4 xu1 duo1 。
-- qing1 ji1 shou4 gu3 ru2 bing1 yu4 ， zhang4 wu4 na4 neng2 nai4 zi3 he2 。
+- shan1 xia4 xi1 tou2 mai4 jiu3 jia1 ， wei2 shui2 di1 ru4 wu1 yan2 xie2 。
+- shu1 chang2 bu2 nai4 cun1 gu1 se4 ， xiao4 wan3 chang2 tiao2 wo4 jing3 hua1 。
 
 ## 注释
 

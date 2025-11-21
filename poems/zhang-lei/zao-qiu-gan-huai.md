@@ -6,25 +6,25 @@ titleSlug: zao-qiu-gan-huai
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 永日付悠悠，年華逝不留。
-- 風聲送殘暑，雲色淡新秋。
-- 吾道倘有待，窮通寧遽憂。
-- 朝來望清潁，一雁下汀洲。
+- 一行爲吏百事廢，幸此村州終日閒。
+- 莫疑虎兕率曠野，正見虎豹守天關。
+- 櫳簾晝靜燕已去，陂澤風高雁欲還。
+- 老見功名真戲事，惱人何苦鬢毛斑。
 
 ## 拼音
 
-- yong3 ri4 fu4 you1 you1 ， nian2 hua2 shi4 bu4 liu2 。
-- feng1 sheng1 song4 can2 shu3 ， yun2 se4 dan4 xin1 qiu1 。
-- wu2 dao4 tang3 you3 dai4 ， qiong2 tong1 ning2 ju4 you1 。
-- chao2 lai2 wang4 qing1 ying3 ， yi2 yan4 xia4 ting1 zhou1 。
+- yi4 hang2 wei2 li4 bai3 shi4 fei4 ， xing4 ci3 cun1 zhou1 zhong1 ri4 xian2 。
+- mo4 yi2 hu3 si4 lü4 kuang4 ye3 ， zheng4 jian4 hu3 bao4 shou3 tian1 guan1 。
+- long2 lian2 zhou4 jing4 yan4 yi3 qu4 ， bei1 ze2 feng1 gao1 yan4 yu4 huan2 。
+- lao3 jian4 gong1 ming2 zhen1 xi4 shi4 ， nao3 ren2 he2 ku3 bin4 mao2 ban1 。
 
 ## 注释
 

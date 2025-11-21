@@ -9,18 +9,18 @@ authorSlug: zheng-gu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 王孫莫把比荆蒿，九日枝枝近鬢毛。
-- 露溼秋香滿池岸，由來不羨瓦松高。
+- 日日池邊載酒行，黃昏猶自遶黃英。
+- 重陽過後頻來此，甚覺多情勝薄情。
 
 ## 拼音
 
-- wang2 sun1 mo4 ba3 bi3 jing1 hao1 ， jiu3 ri4 zhi1 zhi1 jin4 bin4 mao2 。
-- lu4 shi1 qiu1 xiang1 man3 chi2 an4 ， you2 lai2 bu2 xian4 wa3 song1 gao1 。
+- ri4 ri4 chi2 bian1 zai4 jiu3 xing2 ， huang2 hun1 you2 zi4 rao4 huang2 ying1 。
+- zhong4 yang2 guo4 hou4 bin1 lai2 ci3 ， shen4 jue2 duo1 qing2 sheng4 bo2 qing2 。
 
 ## 注释
 

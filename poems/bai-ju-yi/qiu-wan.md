@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 籬菊花稀砌桐落，樹陰離離日色薄。
-- 單幕疎簾貧寂莫，涼風冷露秋蕭索。
-- 光陰流轉忽已晚，顏色凋殘不如昨。
-- 萊妻臥病月明時，不擣寒衣空擣藥。
+- 煙景澹濛濛，池邊微有風。
+- 覺寒蛬近壁，知瞑鶴歸籠。
+- 長貌隨年改，衰情與物同。
+- 夜來霜厚薄，梨葉半低紅。
 
 ## 拼音
 
-- li2 ju2 hua1 xi1 qi4 tong2 luo4 ， shu4 yin1 li2 li2 ri4 se4 bao2 。
-- dan1 mu4 shu1 lian2 pin2 ji4 mo4 ， liang2 feng1 leng3 lu4 qiu1 xiao1 suo3 。
-- guang1 yin1 liu2 zhuan3 hu1 yi3 wan3 ， yan2 se4 diao1 can2 bu4 ru2 zuo2 。
-- lai2 qi1 wo4 bing4 yue4 ming2 shi2 ， bu4 dao3 han2 yi1 kong1 dao3 yao4 。
+- yan1 jing3 dan4 meng2 meng2 ， chi2 bian1 wei1 you3 feng1 。
+- jue2 han2 qiong2 jin4 bi4 ， zhi1 ming2 he4 gui1 long2 。
+- chang2 mao4 sui2 nian2 gai3 ， shuai1 qing2 yu3 wu4 tong2 。
+- ye4 lai2 shuang1 hou4 bao2 ， li2 ye4 ban4 di1 hong2 。
 
 ## 注释
 

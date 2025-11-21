@@ -6,10 +6,10 @@ titleSlug: you-wang-guan-gu
 author: 王午
 authorPinyin: wang2 wu3
 authorSlug: wang-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiang-yin-yang-shi-jun-ji-shi-yu-yang-cong-shi-chang-he-shi-yi-zhou-f
 author: 沈遘
 authorPinyin: shen3 gou4
 authorSlug: shen-gou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

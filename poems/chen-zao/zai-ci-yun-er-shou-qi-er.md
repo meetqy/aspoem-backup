@@ -6,25 +6,25 @@ titleSlug: zai-ci-yun-er-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自揖高人擁鼻吟，湖濱詩酒便論心。
-- 天教聯綬同民社，日許挑燈訂古今。
-- 刺眼未妨翻著襪，躍爐寧問不祥金。
-- 簡編自有千年計，遲子追還正始音。
+- 吹花舞絮纔俄頃，可待區區刻楮成。
+- 催動江梅傲春意，喜聽冰筯滴階聲。
+- 剡溪載酒人乘興，縣圃明空月碾晴。
+- 更想捧觴天一笑，恩光旋浸鳳凰城。
 
 ## 拼音
 
-- zi4 yi1 gao1 ren2 yong1 bi2 yin2 ， hu2 bin1 shi1 jiu3 bian4 lun4 xin1 。
-- tian1 jiao4 lian2 shou4 tong2 min2 she4 ， ri4 xu1 tiao1 deng1 ding4 gu3 jin1 。
-- ci4 yan3 wei4 fang2 fan1 zhu4 wa4 ， yue4 lu2 ning2 wen4 bu4 xiang2 jin1 。
-- jian3 bian1 zi4 you3 qian1 nian2 ji4 ， chi2 zi3 zhui1 huan2 zheng4 shi3 yin1 。
+- chui1 hua1 wu3 xu4 cai2 e2 qing3 ， ke3 dai4 qu1 qu1 ke4 chu3 cheng2 。
+- cui1 dong4 jiang1 mei2 ao4 chun1 yi4 ， xi3 ting1 bing1 zhu4 di1 jie1 sheng1 。
+- shan4 xi1 zai4 jiu3 ren2 cheng2 xing1 ， xian4 pu3 ming2 kong1 yue4 nian3 qing2 。
+- geng4 xiang3 peng3 shang1 tian1 yi2 xiao4 ， en1 guang1 xuan2 jin4 feng4 huang2 cheng2 。
 
 ## 注释
 

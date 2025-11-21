@@ -6,10 +6,10 @@ titleSlug: ju
 author: 范寅亮
 authorPinyin: fan4 yin2 liang4
 authorSlug: fan-yin-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

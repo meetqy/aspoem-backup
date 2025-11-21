@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-san
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 我自常安樂，凡情勿笑耶。
-- 雲生諸洞府，棘不放仙花。
-- 地卑三光照，天開五色霞。
-- 未知何所是，善願理交加。
+- 含胎長養盡籠羅，豈離玄談道理麽。
+- 狐兔幾曾能乳馬，麥田斷定不生禾。
+- 目前便是真佳境，汞內消停自合和。
+- 認取門庭深見解，紅砂奇異湧恒河。
 
 ## 拼音
 
-- wo3 zi4 chang2 an1 le4 ， fan2 qing2 wu4 xiao4 ye1 。
-- yun2 sheng1 zhu1 dong4 fu3 ， ji2 bu2 fang4 xian1 hua1 。
-- di4 bei1 san1 guang1 zhao4 ， tian1 kai1 wu3 se4 xia2 。
-- wei4 zhi1 he2 suo3 shi4 ， shan4 yuan4 li3 jiao1 jia1 。
+- han2 tai1 chang2 yang3 jin4 long2 luo2 ， qi3 li2 xuan2 tan2 dao4 li3 mo2 。
+- hu2 tu4 ji1 ceng2 neng2 ru3 ma3 ， mai4 tian2 duan4 ding4 bu4 sheng1 he2 。
+- mu4 qian2 bian4 shi4 zhen1 jia1 jing4 ， gong3 nei4 xiao1 ting0 zi4 he2 he2 。
+- ren4 qu3 men2 ting2 shen1 jian4 jie3 ， hong2 sha1 qi2 yi4 yong3 heng2 he2 。
 
 ## 注释
 

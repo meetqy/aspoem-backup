@@ -6,10 +6,10 @@ titleSlug: zhou-xian-zhi-yong-yu-song-zhao-zi-yong-shi-yun-zuo-shu-de-zu-ji-yu-t
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiu-yue-er-shi-jiu-ri-er-ying-kai-jiang-tian-yu-mo-ban-jiang-tui-xiao
 author: 崔敦禮
 authorPinyin: cui1 dun1 li3
 authorSlug: cui-dun-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

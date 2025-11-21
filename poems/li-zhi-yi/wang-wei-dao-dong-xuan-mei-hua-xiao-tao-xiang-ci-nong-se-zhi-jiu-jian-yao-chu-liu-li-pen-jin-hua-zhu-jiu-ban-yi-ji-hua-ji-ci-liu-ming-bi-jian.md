@@ -6,10 +6,10 @@ titleSlug: wang-wei-dao-dong-xuan-mei-hua-xiao-tao-xiang-ci-nong-se-zhi-jiu-jian
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

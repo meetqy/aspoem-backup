@@ -1,30 +1,30 @@
 ---
 id: shi-dao-ning-ji-liu-shi-san-shou-qi-er
-title: 偈六十三首  其二
-titlePinyin: ji4 liu4 shi2 san1 shou3     qi2 er4
+title: 偈六十三首  其二○
+titlePinyin: ji4 liu4 shi2 san1 shou3     qi2 er4 ○
 titleSlug: ji-liu-shi-san-shou-qi-er
 author: 釋道寧
 authorPinyin: shi4 dao4 ning2
 authorSlug: shi-dao-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不是風動，不是幡動，仁者心動。
-- 大小老盧，好與三十棒。
-- 只知穿靴，不覺袴綻。
-- 鳥啼處處皆相似，花落不聞流水聲。
+- 凜凜玄風，塵塵三昧。
+- 信手拈來，曾無障礙。
+- 不用安排，素非憎愛。
+- 透過斯關，逍遥自在。
 
 ## 拼音
 
-- bu2 shi4 feng1 dong4 ， bu2 shi4 fan1 dong4 ， ren2 zhe3 xin1 dong4 。
-- da4 xiao3 lao3 lu2 ， hao3 yu3 san1 shi2 bang4 。
-- zhi1 zhi1 chuan1 xue1 ， bu4 jue2 ku4 zhan4 。
-- niao3 ti2 chu3 chu3 jie1 xiang1 si4 ， hua1 luo4 bu4 wen2 liu2 shui3 sheng1 。
+- lin3 lin3 xuan2 feng1 ， chen2 chen2 san1 mei4 。
+- xin4 shou3 nian1 lai2 ， ceng2 wu2 zhang4 ai4 。
+- bu2 yong4 an1 pai2 ， su4 fei1 zeng1 ai4 。
+- tou4 guo4 si1 guan1 ， xiao1 yao2 zi4 zai4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 愈上人
 authorPinyin: yu4 shang4 ren2
 authorSlug: yu-shang-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

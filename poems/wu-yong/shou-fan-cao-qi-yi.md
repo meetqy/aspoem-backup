@@ -6,25 +6,25 @@ titleSlug: shou-fan-cao-qi-yi
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春山蕨方芽，春院桐始華。
-- 暄風蕩紅紫，還似綠幄遮。
-- 老僊坐鹿園，凈眼閲歲華。
-- 會須乘五羊，結佩凌飛霞。
+- 粲粲桐花昨夜風，吹香還到鹿園中。
+- 前生出處黄山谷，後代風流范蜀公。
+- 灑落一襟涵霽月，精神滿面貫晴虹。
+- 直須整頓坤維了，歸侍祥雲一朶紅。
 
 ## 拼音
 
-- chun1 shan1 jue2 fang1 ya2 ， chun1 yuan4 tong2 shi3 hua2 。
-- xuan1 feng1 dang4 hong2 zi3 ， huan2 si4 lü4 wo4 zhe1 。
-- lao3 xian1 zuo4 lu4 yuan2 ， jing4 yan3 yue4 sui4 hua2 。
-- hui4 xu1 cheng2 wu3 yang2 ， jie2 pei4 ling2 fei1 xia2 。
+- can4 can4 tong2 hua1 zuo2 ye4 feng1 ， chui1 xiang1 huan2 dao4 lu4 yuan2 zhong1 。
+- qian2 sheng1 chu1 chu3 huang2 shan1 gu3 ， hou4 dai4 feng1 liu2 fan4 shu3 gong1 。
+- sa3 luo4 yi4 jin1 han2 ji4 yue4 ， jing1 shen2 man3 mian4 guan4 qing2 hong2 。
+- zhi2 xu1 zheng3 dun4 kun1 wei2 le0 ， gui1 shi4 xiang2 yun2 yi4 duo3 hong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shi-ying-zhi-xiao-shu-zhao-tong-hu-chong-li-zhao-ji-dao-yin-bai-lian-
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

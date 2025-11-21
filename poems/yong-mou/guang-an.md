@@ -6,10 +6,10 @@ titleSlug: guang-an
 author: 雍某
 authorPinyin: yong1 mou3
 authorSlug: yong-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

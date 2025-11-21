@@ -6,25 +6,25 @@ titleSlug: ren-wu-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人破須至護，物破須至補。
-- 補護既已多，卒歸于敗露。
-- 人有人之情，物有物之理。
-- 人物類不同，情理安有異。
+- 人盛必有衰，物生須有死。
+- 既見身前人，乃知身後事。
+- 身前人能興，身後事豈廢。
+- 興廢先言人，然後語天地。
 
 ## 拼音
 
-- ren2 po4 xu1 zhi4 hu4 ， wu4 po4 xu1 zhi4 bu3 。
-- bu3 hu4 ji4 yi3 duo1 ， zu2 gui1 yu2 bai4 lu4 。
-- ren2 you3 ren2 zhi1 qing2 ， wu4 you3 wu4 zhi1 li3 。
-- ren2 wu4 lei4 bu4 tong2 ， qing2 li3 an1 you3 yi4 。
+- ren2 sheng4 bi4 you3 shuai1 ， wu4 sheng1 xu1 you3 si3 。
+- ji4 jian4 shen1 qian2 ren2 ， nai3 zhi1 shen1 hou4 shi4 。
+- shen1 qian2 ren2 neng2 xing1 ， shen1 hou4 shi4 qi3 fei4 。
+- xing1 fei4 xian1 yan2 ren2 ， ran2 hou4 yu3 tian1 di4 。
 
 ## 注释
 

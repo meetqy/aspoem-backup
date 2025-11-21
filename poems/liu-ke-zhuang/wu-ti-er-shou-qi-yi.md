@@ -6,21 +6,21 @@ titleSlug: wu-ti-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 游公念舊纔叁月，鄭傅憐才恰半年。
-- 老去獨當千箭鏃，向來不踏兩船舷。
+- 恕漢唾師德，酒徒拳伯倫。
+- 吾評此二士，顔子後無人。
 
 ## 拼音
 
-- you2 gong1 nian4 jiu4 cai2 san1 yue4 ， zheng4 fu4 lian2 cai2 qia4 ban4 nian2 。
-- lao3 qu4 du2 dang1 qian1 jian4 zu2 ， xiang4 lai2 bu2 ta4 liang3 chuan2 xian2 。
+- shu4 han4 tuo4 shi1 de2 ， jiu3 tu2 quan2 bo2 lun2 。
+- wu2 ping2 ci3 er4 shi4 ， yan2 zi3 hou4 wu2 ren2 。
 
 ## 注释
 

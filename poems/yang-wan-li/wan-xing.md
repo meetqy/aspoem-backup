@@ -6,21 +6,25 @@ titleSlug: wan-xing
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雙井茶芽醒骨甜，蓬萊香燼倦人添。
-- 蜘蛛政苦空庭闊，風爲將絲度別簷。
+- 老來懷抱向誰開，歲晚無花薦一杯。
+- 處分新霜且留菊，辟差寒日早開梅。
+- 只教詩句清如雪，看得榮名細似埃。
+- 管葛諸人端解事，也曾遭我笑渠來。
 
 ## 拼音
 
-- shuang1 jing3 cha2 ya2 xing3 gu3 tian2 ， peng2 lai2 xiang1 jin4 juan4 ren2 tian1 。
-- zhi1 zhu1 zheng4 ku3 kong1 ting2 kuo4 ， feng1 wei2 jiang1 si1 du4 bie2 yan2 。
+- lao3 lai2 huai2 bao4 xiang4 shui2 kai1 ， sui4 wan3 wu2 hua1 jian4 yi4 bei1 。
+- chu3 fen1 xin1 shuang1 qie3 liu2 ju2 ， pi4 cha4 han2 ri4 zao3 kai1 mei2 。
+- zhi1 jiao4 shi1 ju4 qing1 ru2 xue3 ， kan4 de2 rong2 ming2 xi4 si4 ai1 。
+- guan3 ge3 zhu1 ren2 duan1 jie3 shi4 ， ye3 ceng2 zao1 wo3 xiao4 qu2 lai2 。
 
 ## 注释
 

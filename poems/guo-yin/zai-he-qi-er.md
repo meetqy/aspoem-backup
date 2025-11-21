@@ -6,25 +6,21 @@ titleSlug: zai-he-qi-er
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我愛希夷子，妙處渾一睡。
-- 無心樹勳業，栩栩同汙世。
-- 夢裏還獨醒，卻笑群兒醉。
-- 時事嗔人說，達官從措置。
+- 欲把群葩次第分，桃粗杏俗未應論。
+- 寒梢清絕世無比，且趁繁開倒綠樽。
 
 ## 拼音
 
-- wo3 ai4 xi1 yi2 zi3 ， miao4 chu3 hun2 yi2 shui4 。
-- wu2 xin1 shu4 xun1 ye4 ， xu3 xu3 tong2 wu1 shi4 。
-- meng4 li3 huan2 du2 xing3 ， que4 xiao4 qun2 er2 zui4 。
-- shi2 shi4 chen1 ren2 shuo1 ， da2 guan1 cong2 cuo4 zhi4 。
+- yu4 ba3 qun2 pa1 ci4 di4 fen1 ， tao2 cu1 xing4 su2 wei4 ying1 lun4 。
+- han2 shao1 qing1 jue2 shi4 wu2 bi3 ， qie3 chen4 fan2 kai1 dao3 lü4 zun1 。
 
 ## 注释
 

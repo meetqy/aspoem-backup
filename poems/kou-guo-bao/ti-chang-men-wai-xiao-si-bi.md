@@ -6,10 +6,10 @@ titleSlug: ti-chang-men-wai-xiao-si-bi
 author: 寇國寶
 authorPinyin: kou4 guo2 bao3
 authorSlug: kou-guo-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

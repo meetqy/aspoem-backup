@@ -1,34 +1,38 @@
 ---
 id: fang-yi-kui-gan-xing-er-shi-qi-shou-qi-yi
-title: 感興二十七首  其一
-titlePinyin: gan3 xing1 er4 shi2 qi1 shou3     qi2 yi1
+title: 感興二十七首  其一○
+titlePinyin: gan3 xing1 er4 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: gan-xing-er-shi-qi-shou-qi-yi
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斑斑林中雉，雌雄伺朝暉。
-- 鼓翅飛不遠，山田麥苗肥。
-- 飲啄百步間，未暮相隨歸。
-- 當春哺羣雛，長大各自飛。
-- 宇宙豈不大，嗟爾爲生微。
-- 窮途守一轍，畢命芝與薇。
+- 轉丸有餘巧，物莫如蛣蜣。
+- 置身糞壤中，不復知臭香。
+- 兒女苦貧賤，自愛錢滿牀。
+- 丈夫意見別，胡爲死排牆。
+- 人心最靈智，自合知短長。
+- 清濁雖異趣，均墮聲利場。
+- 爲善與爲利，相去爭毫芒。
+- 不見舜與跖，雞鳴辨存亡。
 
 ## 拼音
 
-- ban1 ban1 lin2 zhong1 zhi4 ， ci2 xiong2 si4 chao2 hui1 。
-- gu3 chi4 fei1 bu4 yuan3 ， shan1 tian2 mai4 miao2 fei2 。
-- yin3 zhuo2 bai3 bu4 jian4 ， wei4 mu4 xiang1 sui2 gui1 。
-- dang1 chun1 bu3 qun2 chu2 ， chang2 da4 ge4 zi4 fei1 。
-- yu3 zhou4 qi3 bu2 da4 ， jie1 er3 wei2 sheng1 wei1 。
-- qiong2 tu2 shou3 yi4 zhe2 ， bi4 ming4 zhi1 yu3 wei1 。
+- zhuan3 wan2 you3 yu2 qiao3 ， wu4 mo4 ru2 jie2 qiang1 。
+- zhi4 shen1 fen4 rang3 zhong1 ， bu2 fu4 zhi1 chou4 xiang1 。
+- er2 nü3 ku3 pin2 jian4 ， zi4 ai4 qian2 man3 chuang2 。
+- zhang4 fu0 yi4 jian4 bie2 ， hu2 wei2 si3 pai2 qiang2 。
+- ren2 xin1 zui4 ling2 zhi4 ， zi4 he2 zhi1 duan3 chang2 。
+- qing1 zhuo2 sui1 yi4 qu4 ， jun1 duo4 sheng1 li4 chang3 。
+- wei2 shan4 yu3 wei2 li4 ， xiang1 qu4 zheng1 hao2 mang2 。
+- bu2 jian4 shun4 yu3 zhi2 ， ji1 ming2 bian4 cun2 wang2 。
 
 ## 注释
 

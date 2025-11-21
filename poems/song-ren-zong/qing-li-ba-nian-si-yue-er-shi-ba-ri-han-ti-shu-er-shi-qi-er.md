@@ -6,10 +6,10 @@ titleSlug: qing-li-ba-nian-si-yue-er-shi-ba-ri-han-ti-shu-er-shi-qi-er
 author: 宋仁宗
 authorPinyin: song4 ren2 zong1
 authorSlug: song-ren-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

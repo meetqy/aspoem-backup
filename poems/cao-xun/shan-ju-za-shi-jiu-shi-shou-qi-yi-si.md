@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年來心目昏，稍息文字業。
-- 曉擁台山雲，時讀修禊帖。
-- 稚子來捋鬚，幼孫每持鑷。
-- 晚來微雨休，幽徑無不涉。
+- 老去情懷懶，翛然只此翁。
+- 閑窗千里月，修竹一簾風。
+- 事與孤鴻遠，心將止水同。
+- 故人如問訊，癡坐正觀空。
 
 ## 拼音
 
-- nian2 lai2 xin1 mu4 hun1 ， shao4 xi1 wen2 zi4 ye4 。
-- xiao3 yong1 tai2 shan1 yun2 ， shi2 du2 xiu1 xi4 tie1 。
-- zhi4 zi3 lai2 lü3 xu1 ， you4 sun1 mei3 chi2 nie4 。
-- wan3 lai2 wei1 yu3 xiu1 ， you1 jing4 wu2 bu2 she4 。
+- lao3 qu4 qing2 huai2 lan3 ， xiao1 ran2 zhi3 ci3 weng1 。
+- xian2 chuang1 qian1 li3 yue4 ， xiu1 zhu2 yi4 lian2 feng1 。
+- shi4 yu3 gu1 hong2 yuan3 ， xin1 jiang1 zhi3 shui3 tong2 。
+- gu4 ren2 ru2 wen4 xun4 ， chi1 zuo4 zheng4 guan1 kong1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 栽竹勿傍牆，種蕉莫近砌。
-- 頃之根蔓延，寖乃壞階戺。
-- 扶疏宛成趣，茂密相映蔽。
-- 操刀時遣獠，洗削去蓊翳。
+- 堂堂春將去，好花如款留。
+- 荼䕷蔓層雪，芍藥欹重樓。
+- 金沙插架富，蕙香轉林幽。
+- 我欲助送之，飛絮漫天愁。
 
 ## 拼音
 
-- zai1 zhu2 wu4 bang4 qiang2 ， zhong3 jiao1 mo4 jin4 qi4 。
-- qing3 zhi1 gen1 man4 yan2 ， jin4 nai3 huai4 jie1 shi4 。
-- fu2 shu1 wan3 cheng2 qu4 ， mao4 mi4 xiang1 ying4 bi4 。
-- cao1 dao1 shi2 qian3 liao2 ， xi3 xiao1 qu4 weng3 yi4 。
+- tang2 tang2 chun1 jiang1 qu4 ， hao3 hua1 ru2 kuan3 liu2 。
+- tu2 䕷 man4 ceng2 xue3 ， shao2 yao4 qi1 zhong4 lou2 。
+- jin1 sha1 cha1 jia4 fu4 ， hui4 xiang1 zhuan3 lin2 you1 。
+- wo3 yu4 zhu4 song4 zhi1 ， fei1 xu4 man4 tian1 chou2 。
 
 ## 注释
 

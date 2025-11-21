@@ -6,25 +6,25 @@ titleSlug: jiu-ri-san-shou-qi-er
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 狂夫老無頼，見逐便忘歸。
-- 小酌還成醉，僑居不覺非。
-- 妻孥應念我，風雨未縫衣。
-- 憂患十年足，何時賦式微。
+- 我飲不爲酒，黄花競此時。
+- 茱萸謾辟惡，麯糵助和脾。
+- 淺酌何勞訴，獨醒徒爾爲。
+- 來年我猶健，相對亦如斯。
 
 ## 拼音
 
-- kuang2 fu1 lao3 wu2 lai4 ， jian4 zhu2 bian4 wang4 gui1 。
-- xiao3 zhuo2 huan2 cheng2 zui4 ， qiao2 ju1 bu4 jue2 fei1 。
-- qi1 nu2 ying1 nian4 wo3 ， feng1 yu3 wei4 feng2 yi1 。
-- you1 huan4 shi2 nian2 zu2 ， he2 shi2 fu4 shi4 wei1 。
+- wo3 yin3 bu4 wei2 jiu3 ， huang2 hua1 jing4 ci3 shi2 。
+- zhu1 yu2 man2 pi4 e4 ， qu1 nie4 zhu4 he2 pi2 。
+- qian3 zhuo2 he2 lao2 su4 ， du2 xing3 tu2 er3 wei2 。
+- lai2 nian2 wo3 you2 jian4 ， xiang1 dui4 yi4 ru2 si1 。
 
 ## 注释
 

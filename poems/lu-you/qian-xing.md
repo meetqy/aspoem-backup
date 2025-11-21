@@ -6,25 +6,25 @@ titleSlug: qian-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 酒量愁翻減，詩聲老轉低。
-- 日高羮馬齒，霜冷駕雞栖。
-- 已判功名迕，寜論簿領迷。
-- 賴無權入手，軟弱實如泥。
+- 翳翳魚鹽市，迢迢桑麥村。
+- 山家薪炭足，野叟袴襦溫。
+- 罝兔殘蕪盡，叉魚積水渾。
+- 詩書老無效，猶擬付兒孫。
 
 ## 拼音
 
-- jiu3 liang4 chou2 fan1 jian3 ， shi1 sheng1 lao3 zhuan3 di1 。
-- ri4 gao1 geng1 ma3 chi3 ， shuang1 leng3 jia4 ji1 qi1 。
-- yi3 pan4 gong1 ming2 wu3 ， ning2 lun4 bo2 ling3 mi2 。
-- lai4 wu2 quan2 ru4 shou3 ， ruan3 ruo4 shi2 ru2 ni2 。
+- yi4 yi4 yu2 yan2 shi4 ， tiao2 tiao2 sang1 mai4 cun1 。
+- shan1 jia1 xin1 tan4 zu2 ， ye3 sou3 ku4 ru2 wen1 。
+- ju1 tu4 can2 wu2 jin4 ， cha1 yu2 ji1 shui3 hun2 。
+- shi1 shu1 lao3 wu2 xiao4 ， you2 ni3 fu4 er2 sun1 。
 
 ## 注释
 

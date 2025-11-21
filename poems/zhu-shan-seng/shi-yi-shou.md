@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 住山僧
 authorPinyin: zhu4 shan1 seng1
 authorSlug: zhu-shan-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

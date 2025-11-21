@@ -6,10 +6,10 @@ titleSlug: jiu-yue-er-ri-zi-gong-guan-qian-ju-shuang-quan-feng-wu-you-sheng-zuo-
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: san-xue-shan
 author: 袁彥安
 authorPinyin: yuan2 yan4 an1
 authorSlug: yuan-yan-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: guang-hua-ting
 author: 魏伯恂
 authorPinyin: wei4 bo2 xun2
 authorSlug: wei-bo-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

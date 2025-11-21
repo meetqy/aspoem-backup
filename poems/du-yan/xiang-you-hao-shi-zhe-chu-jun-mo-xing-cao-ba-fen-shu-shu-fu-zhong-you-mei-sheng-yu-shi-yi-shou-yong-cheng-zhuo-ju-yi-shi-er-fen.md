@@ -6,10 +6,10 @@ titleSlug: xiang-you-hao-shi-zhe-chu-jun-mo-xing-cao-ba-fen-shu-shu-fu-zhong-you
 author: 杜衍
 authorPinyin: du4 yan3
 authorSlug: du-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

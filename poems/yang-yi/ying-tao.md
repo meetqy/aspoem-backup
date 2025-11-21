@@ -6,29 +6,25 @@ titleSlug: ying-tao
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 離宮時薦罷，樂府艶歌新。
-- 石髓凝秦洞，珠胎剖漢津。
-- 三桃聊竝列，百果獨先春。
-- 清籞來君賜，雕盤助席珍。
-- 甘餘應受和，圓極豈能神。
-- 楚客便羊酪，歸期負紫蓴。
+- 團於火色貝，燦極日光珠。
+- 西海瑤池苑，曾城寶樹區。
+- 鳳幘生猶嫩，龍睛未脫枯。
+- 彤標與霞彩，紫府閟雲腴。
 
 ## 拼音
 
-- li2 gong1 shi2 jian4 ba4 ， le4 fu3 yan4 ge1 xin1 。
-- shi2 sui3 ning2 qin2 dong4 ， zhu1 tai1 pou1 han4 jin1 。
-- san1 tao2 liao2 bing4 lie4 ， bai3 guo3 du2 xian1 chun1 。
-- qing1 yu4 lai2 jun1 ci4 ， diao1 pan2 zhu4 xi2 zhen1 。
-- gan1 yu2 ying1 shou4 he2 ， yuan2 ji2 qi3 neng2 shen2 。
-- chu3 ke4 bian4 yang2 lao4 ， gui1 qi1 fu4 zi3 chun2 。
+- tuan2 wu1 huo3 se4 bei4 ， can4 ji2 ri4 guang1 zhu1 。
+- xi1 hai3 yao2 chi2 yuan4 ， ceng2 cheng2 bao3 shu4 qu1 。
+- feng4 ze2 sheng1 you2 nen4 ， long2 jing1 wei4 tuo1 ku1 。
+- tong2 biao1 yu3 xia2 cai3 ， zi3 fu3 bi4 yun2 yu2 。
 
 ## 注释
 

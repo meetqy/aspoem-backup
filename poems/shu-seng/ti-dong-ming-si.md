@@ -6,10 +6,10 @@ titleSlug: ti-dong-ming-si
 author: 蜀僧
 authorPinyin: shu3 seng1
 authorSlug: shu-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

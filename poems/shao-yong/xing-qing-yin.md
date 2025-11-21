@@ -6,21 +6,21 @@ titleSlug: xing-qing-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 踐形治性，踐跡治情。
-- 賢人踐跡，聖人踐形。
+- 君子任性，小人任情。
+- 任性則近，任情則遠。
 
 ## 拼音
 
-- jian4 xing2 zhi4 xing4 ， jian4 ji4 zhi4 qing2 。
-- xian2 ren2 jian4 ji4 ， sheng4 ren2 jian4 xing2 。
+- jun1 zi3 ren4 xing4 ， xiao3 ren2 ren4 qing2 。
+- ren4 xing4 ze2 jin4 ， ren4 qing2 ze2 yuan3 。
 
 ## 注释
 

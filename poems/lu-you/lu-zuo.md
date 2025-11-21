@@ -6,25 +6,25 @@ titleSlug: lu-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五月暑猶薄，中庭試葛衣。
-- 蛙聲經雨壯，螢點避風稀。
-- 塵念三生誤，歸心半世違。
-- 殘年端有幾，可復負漁磯。
+- 略彴方塘北，篔簹小塹東。
+- 荷盤傾夕露，芡觜坼秋風。
+- 磔磔禽移樹，芒芒月墮空。
+- 詩材隨處足，盡付苦吟中。
 
 ## 拼音
 
-- wu3 yue4 shu3 you2 bao2 ， zhong1 ting2 shi4 ge3 yi1 。
-- wa1 sheng1 jing1 yu3 zhuang4 ， ying2 dian3 bi4 feng1 xi1 。
-- chen2 nian4 san1 sheng1 wu4 ， gui1 xin1 ban4 shi4 wei2 。
-- can2 nian2 duan1 you3 ji1 ， ke3 fu4 fu4 yu2 ji1 。
+- lüe4 zhuo2 fang1 tang2 bei3 ， yun2 dang1 xiao3 qian4 dong1 。
+- he2 pan2 qing1 xi1 lu4 ， qian4 zi1 che4 qiu1 feng1 。
+- zhe2 zhe2 qin2 yi2 shu4 ， mang2 mang2 yue4 duo4 kong1 。
+- shi1 cai2 sui2 chu3 zu2 ， jin4 fu4 ku3 yin2 zhong1 。
 
 ## 注释
 

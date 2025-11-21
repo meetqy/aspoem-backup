@@ -6,10 +6,10 @@ titleSlug: luo-xia-bie-tong-zhi
 author: 釋善懃
 authorPinyin: shi4 shan4 qin2
 authorSlug: shi-shan-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

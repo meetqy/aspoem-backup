@@ -1,26 +1,26 @@
 ---
 id: li-xin-song-zhang-shao-qing-fu-zhao-shi-shou-qi-yi
-title: 送張少卿赴召十首  其一
-titlePinyin: song4 zhang1 shao3 qing1 fu4 zhao4 shi2 shou3     qi2 yi1
+title: 送張少卿赴召十首  其一○
+titlePinyin: song4 zhang1 shao3 qing1 fu4 zhao4 shi2 shou3     qi2 yi1 ○
 titleSlug: song-zhang-shao-qing-fu-zhao-shi-shou-qi-yi
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 初排閶闔欲朝天，流電追鋒急召賢。
-- 延閣鳯池風月好，不須回首望籌邊。
+- 傾倒憐才出至公，吹嘘牙頰自春風。
+- 寛和肯問車裀吐，涵養須知內史聾。
 
 ## 拼音
 
-- chu1 pai2 chang1 he2 yu4 chao2 tian1 ， liu2 dian4 zhui1 feng1 ji2 zhao4 xian2 。
-- yan2 ge2 feng4 chi2 feng1 yue4 hao3 ， bu4 xu1 hui2 shou3 wang4 chou2 bian1 。
+- qing1 dao3 lian2 cai2 chu1 zhi4 gong1 ， chui1 xu1 ya2 jia2 zi4 chun1 feng1 。
+- kuan1 he2 ken3 wen4 ju1 yin1 tu3 ， han2 yang3 xu1 zhi1 nei4 shi3 long2 。
 
 ## 注释
 

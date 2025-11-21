@@ -6,25 +6,21 @@ titleSlug: ji-jing-jia-zhu-ming-fu
 author: 釋斯植
 authorPinyin: shi4 si1 zhi2
 authorSlug: shi-si-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翰苑留名久，城邊半掩扉。
-- 聲隨淮水遠，吟入楚天微。
-- 吏靜看山坐，鄉遥撫劍歸。
-- 清虛無別事，嘉政在璇璣。
+- 傷心獨立舊池臺，日日西風送雨來。
+- 別後思君無限事，一封書發兩番開。
 
 ## 拼音
 
-- han4 yuan4 liu2 ming2 jiu3 ， cheng2 bian1 ban4 yan3 fei1 。
-- sheng1 sui2 huai2 shui3 yuan3 ， yin2 ru4 chu3 tian1 wei1 。
-- li4 jing4 kan4 shan1 zuo4 ， xiang1 yao2 fu3 jian4 gui1 。
-- qing1 xu1 wu2 bie2 shi4 ， jia1 zheng4 zai4 xuan2 ji1 。
+- shang1 xin1 du2 li4 jiu4 chi2 tai2 ， ri4 ri4 xi1 feng1 song4 yu3 lai2 。
+- bie2 hou4 si1 jun1 wu2 xian4 shi4 ， yi4 feng1 shu1 fa1 liang3 fan1 kai1 。
 
 ## 注释
 

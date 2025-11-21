@@ -6,10 +6,10 @@ titleSlug: zhou-ci-wu-hu-que-ji-wei-yang-diao-xue-shi
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

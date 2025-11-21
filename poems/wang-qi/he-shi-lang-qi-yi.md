@@ -6,10 +6,10 @@ titleSlug: he-shi-lang-qi-yi
 author: 王其
 authorPinyin: wang2 qi2
 authorSlug: wang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

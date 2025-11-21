@@ -6,10 +6,10 @@ titleSlug: qu-nian-jiu-han-liu-yue-shi-san-ri-ru-jing-de-yu-jin-nian-fu-han-de-y
 author: 曾鞏
 authorPinyin: ceng2 gong3
 authorSlug: ceng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

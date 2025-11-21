@@ -6,25 +6,25 @@ titleSlug: chun-ri-zhou-zhong-ji-shi
 author: 劉弇
 authorPinyin: liu2 yan3
 authorSlug: liu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 墨綬蠻鄉去，青春瘴海行。
-- 陋篷愁暴雨，小艇畏長鯨。
-- 灘惡舟難渡，風狂浪易生。
-- 不堪江上笛，時送兩三聲。
+- 不因門有北堂親，肯泛孤舟瘴海濱。
+- 萬里江湖愁去客，一春風雨厭行人。
+- 花朝水國留題懶，月夜鄉園入夢頻。
+- 每被烟波驚破膽，却思雲石自由身。
 
 ## 拼音
 
-- mo4 shou4 man2 xiang1 qu4 ， qing1 chun1 zhang4 hai3 xing2 。
-- lou4 peng2 chou2 bao4 yu3 ， xiao3 ting3 wei4 chang2 jing1 。
-- tan1 e4 zhou1 nan2 du4 ， feng1 kuang2 lang4 yi4 sheng1 。
-- bu4 kan1 jiang1 shang4 di2 ， shi2 song4 liang3 san1 sheng1 。
+- bu4 yin1 men2 you3 bei3 tang2 qin1 ， ken3 fan4 gu1 zhou1 zhang4 hai3 bin1 。
+- wan4 li3 jiang1 hu2 chou2 qu4 ke4 ， yi4 chun1 feng1 yu3 yan4 xing2 ren2 。
+- hua1 zhao1 shui3 guo2 liu2 ti2 lan3 ， yue4 ye4 xiang1 yuan2 ru4 meng4 bin1 。
+- mei3 bei4 yan1 bo1 jing1 po4 dan3 ， que4 si1 yun2 shi2 zi4 you2 shen1 。
 
 ## 注释
 

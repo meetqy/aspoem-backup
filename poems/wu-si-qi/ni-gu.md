@@ -6,10 +6,10 @@ titleSlug: ni-gu
 author: 吳思齊
 authorPinyin: wu2 si1 qi2
 authorSlug: wu-si-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

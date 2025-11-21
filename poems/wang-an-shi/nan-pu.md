@@ -6,21 +6,21 @@ titleSlug: nan-pu
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南浦隨花去，迴舟路已迷。
-- 暗香無覓處，日落畫橋西。
+- 南浦東岡二月時，物華撩我有新詩。
+- 含風鴨綠粼粼起，弄日鵝黄裊裊垂。
 
 ## 拼音
 
-- nan2 pu3 sui2 hua1 qu4 ， hui2 zhou1 lu4 yi3 mi2 。
-- an4 xiang1 wu2 mi4 chu3 ， ri4 luo4 hua4 qiao2 xi1 。
+- nan2 pu3 dong1 gang1 er4 yue4 shi2 ， wu4 hua2 liao2 wo3 you3 xin1 shi1 。
+- han2 feng1 ya1 lü4 lin2 lin2 qi3 ， nong4 ri4 e2 huang2 niao3 niao3 chui2 。
 
 ## 注释
 

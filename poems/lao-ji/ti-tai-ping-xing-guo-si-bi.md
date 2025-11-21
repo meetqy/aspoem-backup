@@ -6,10 +6,10 @@ titleSlug: ti-tai-ping-xing-guo-si-bi
 author: 老妓
 authorPinyin: lao3 ji4
 authorSlug: lao-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

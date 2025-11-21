@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-yi-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 伏藏終不見，巧拙是兼非。
-- 至道光懷古，周通隠聖機。
-- 清天何物性，濁地故相依。
-- 修鍊真堪惜，疏慵有順違。
+- 凡愚不取自逍遥，其奈心如似火燒。
+- 虛過光陰速似夢，隨緣盡向暗中銷。
 
 ## 拼音
 
-- fu2 cang2 zhong1 bu2 jian4 ， qiao3 zhuo1 shi4 jian1 fei1 。
-- zhi4 dao4 guang1 huai2 gu3 ， zhou1 tong1 yin3 sheng4 ji1 。
-- qing1 tian1 he2 wu4 xing4 ， zhuo2 di4 gu4 xiang1 yi1 。
-- xiu1 lian4 zhen1 kan1 xi1 ， shu1 yong1 you3 shun4 wei2 。
+- fan2 yu2 bu4 qu3 zi4 xiao1 yao2 ， qi2 nai4 xin1 ru2 si4 huo3 shao1 。
+- xu1 guo4 guang1 yin1 su4 si4 meng4 ， sui2 yuan2 jin4 xiang4 an4 zhong1 xiao1 。
 
 ## 注释
 

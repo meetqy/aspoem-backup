@@ -6,10 +6,10 @@ titleSlug: ju
 author: 倪天隠
 authorPinyin: ni2 tian1 yin3
 authorSlug: ni-tian-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

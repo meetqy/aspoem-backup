@@ -1,30 +1,34 @@
 ---
 id: mei-yao-chen-qiu-yin
-title: 秋陰
-titlePinyin: qiu1 yin1
+title: 蚯蚓
+titlePinyin: qiu1 yin3
 titleSlug: qiu-yin
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已過蕭蕭雨，猶成黯黯陰。
-- 登臨潘岳思，憀慄楚臣心。
-- 遠吹鳴高樹，低雲冒晚岑。
-- 久爲關外客，不忍聽疎砧。
+- 蚯蚓在泥穴，出縮常似盈。
+- 龍蟠亦以蟠，龍鳴亦以鳴。
+- 自謂與龍比，恨不頭角生。
+- 螻蟈似相助，草根無停聲。
+- 聒亂我不寐，每夕但欲明。
+- 天地且容畜，憎惡唯人情。
 
 ## 拼音
 
-- yi3 guo4 xiao1 xiao1 yu3 ， you2 cheng2 an4 an4 yin1 。
-- deng1 lin2 pan1 yue4 si1 ， liao2 li4 chu3 chen2 xin1 。
-- yuan3 chui1 ming2 gao1 shu4 ， di1 yun2 mao4 wan3 cen2 。
-- jiu3 wei2 guan1 wai4 ke4 ， bu4 ren3 ting1 shu1 zhen1 。
+- qiu1 yin3 zai4 ni2 xue2 ， chu1 suo1 chang2 si4 ying2 。
+- long2 pan2 yi4 yi3 pan2 ， long2 ming2 yi4 yi3 ming2 。
+- zi4 wei4 yu3 long2 bi3 ， hen4 bu4 tou2 jiao3 sheng1 。
+- lou2 guo1 si4 xiang1 zhu4 ， cao3 gen1 wu2 ting2 sheng1 。
+- guo1 luan4 wo3 bu2 mei4 ， mei3 xi1 dan4 yu4 ming2 。
+- tian1 di4 qie3 rong2 chu4 ， zeng1 e4 wei2 ren2 qing2 。
 
 ## 注释
 

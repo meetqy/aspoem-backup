@@ -6,10 +6,10 @@ titleSlug: ju
 author: 馮如愚
 authorPinyin: feng2 ru2 yu2
 authorSlug: feng-ru-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

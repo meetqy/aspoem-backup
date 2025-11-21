@@ -6,10 +6,10 @@ titleSlug: xiao-meng-hao-ran-ti-ji-cheng-bang-xian-ming-fu
 author: 吳頤
 authorPinyin: wu2 yi2
 authorSlug: wu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

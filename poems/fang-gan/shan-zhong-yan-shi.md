@@ -9,22 +9,22 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 欹枕亦吟行亦醉，臥吟行醉更何營。
-- 貧來猶有故琴在，老去不過新髪生。
-- 山鳥踏枝紅果落，家童引釣白魚驚。
-- 潛夫自有孤雲侶，可要王侯知姓名。
+- 日與村家事漸同，燒松啜茗學鄰翁。
+- 池塘月撼芙蕖浪，窗戶涼生薜荔風。
+- 書幌晝昏嵐氣裏，巢枝俯折雪聲中。
+- 山陰釣叟無知己，窺鏡撏多鬢欲空。
 
 ## 拼音
 
-- qi1 zhen3 yi4 yin2 xing2 yi4 zui4 ， wo4 yin2 xing2 zui4 geng4 he2 ying2 。
-- pin2 lai2 you2 you3 gu4 qin2 zai4 ， lao3 qu4 bu2 guo4 xin1 fa4 sheng1 。
-- shan1 niao3 ta4 zhi1 hong2 guo3 luo4 ， jia1 tong2 yin3 diao4 bai2 yu2 jing1 。
-- qian2 fu1 zi4 you3 gu1 yun2 lü3 ， ke3 yao4 wang2 hou2 zhi1 xing4 ming2 。
+- ri4 yu3 cun1 jia1 shi4 jian4 tong2 ， shao1 song1 chuo4 ming2 xue2 lin2 weng1 。
+- chi2 tang2 yue4 han4 fu2 qu2 lang4 ， chuang1 hu4 liang2 sheng1 bi4 li4 feng1 。
+- shu1 huang3 zhou4 hun1 lan2 qi4 li3 ， chao2 zhi1 fu3 zhe2 xue3 sheng1 zhong1 。
+- shan1 yin1 diao4 sou3 wu2 zhi1 ji3 ， kui1 jing4 xian2 duo1 bin4 yu4 kong1 。
 
 ## 注释
 

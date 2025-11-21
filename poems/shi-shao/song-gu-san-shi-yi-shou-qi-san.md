@@ -1,26 +1,28 @@
 ---
 id: shi-shao-song-gu-san-shi-yi-shou-qi-san
-title: 頌古三十一首  其三
-titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 san1
+title: 頌古三十一首  其三○
+titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 san1 ○
 titleSlug: song-gu-san-shi-yi-shou-qi-san
 author: 釋玿
 authorPinyin: shi4 shao2
 authorSlug: shi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身世悠悠不繫舟，得隨流處且隨流。
-- 今朝有酒今朝醉，明日無錢明日愁。
+- 佛手驢脚生緣，生緣驢脚佛手。
+- 李公醉倒街頭，元是張公喫酒。
+- 黄龍山裏老婆禪，恰似河陽新婦醜。
 
 ## 拼音
 
-- shen1 shi4 you1 you1 bu2 xi4 zhou1 ， de2 sui2 liu2 chu3 qie3 sui2 liu2 。
-- jin1 zhao1 you3 jiu3 jin1 zhao1 zui4 ， ming2 ri4 wu2 qian2 ming2 ri4 chou2 。
+- fo2 shou3 lü2 jiao3 sheng1 yuan2 ， sheng1 yuan2 lü2 jiao3 fo2 shou3 。
+- li3 gong1 zui4 dao3 jie1 tou2 ， yuan2 shi4 zhang1 gong1 chi1 jiu3 。
+- huang2 long2 shan1 li3 lao3 po0 shan4 ， qia4 si4 he2 yang2 xin1 fu4 chou3 。
 
 ## 注释
 

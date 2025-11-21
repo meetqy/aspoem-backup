@@ -6,10 +6,10 @@ titleSlug: zheng-zi-ren-sheng-ri-yong-qi-qu-la-jian-shou-yun-qi-er
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

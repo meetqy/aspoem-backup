@@ -6,10 +6,10 @@ titleSlug: mao-de-xing-ji-bu-ji-zuo-zhao-li-shu-gu-ci-wen-xun
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

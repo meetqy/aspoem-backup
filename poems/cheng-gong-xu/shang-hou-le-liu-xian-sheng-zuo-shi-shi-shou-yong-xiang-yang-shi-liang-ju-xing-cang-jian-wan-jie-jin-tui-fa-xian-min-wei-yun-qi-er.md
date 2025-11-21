@@ -6,10 +6,10 @@ titleSlug: shang-hou-le-liu-xian-sheng-zuo-shi-shi-shou-yong-xiang-yang-shi-lian
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

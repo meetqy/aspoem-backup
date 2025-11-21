@@ -6,21 +6,21 @@ titleSlug: nan-tai
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 木老地平靜，直北萬家城。
-- 小立興懷處，憑高眼更明。
+- 春登臺處溪山好，煖靄時吹淡淡風。
+- 試以閒身供酒琖，也知人與我能同。
 
 ## 拼音
 
-- mu4 lao3 di4 ping2 jing4 ， zhi2 bei3 wan4 jia1 cheng2 。
-- xiao3 li4 xing1 huai2 chu3 ， ping2 gao1 yan3 geng4 ming2 。
+- chun1 deng1 tai2 chu3 xi1 shan1 hao3 ， xuan1 ai3 shi2 chui1 dan4 dan4 feng1 。
+- shi4 yi3 xian2 shen1 gong4 jiu3 zhan3 ， ye3 zhi1 ren2 yu3 wo3 neng2 tong2 。
 
 ## 注释
 

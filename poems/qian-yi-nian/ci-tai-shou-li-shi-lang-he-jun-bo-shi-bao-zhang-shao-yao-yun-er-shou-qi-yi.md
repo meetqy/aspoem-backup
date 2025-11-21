@@ -6,10 +6,10 @@ titleSlug: ci-tai-shou-li-shi-lang-he-jun-bo-shi-bao-zhang-shao-yao-yun-er-shou-
 author: 錢億年
 authorPinyin: qian2 yi4 nian2
 authorSlug: qian-yi-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

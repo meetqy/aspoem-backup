@@ -6,21 +6,21 @@ titleSlug: zai-yong-qian-yun-qi-san
 author: 袁甫
 authorPinyin: yuan2 fu3
 authorSlug: yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩地參天命曰人，靈龜端合取諸身。
-- 笑渠到處閒尋覓，直信人言井有仁。
+- 百首詩成遇賞音，云何容易動歸心。
+- 少陵不肯爲輕薄，笑殺王楊井底沈。
 
 ## 拼音
 
-- liang3 di4 can1 tian1 ming4 yue1 ren2 ， ling2 gui1 duan1 he2 qu3 zhu1 shen1 。
-- xiao4 qu2 dao4 chu3 xian2 xun2 mi4 ， zhi2 xin4 ren2 yan2 jing3 you3 ren2 。
+- bai3 shou3 shi1 cheng2 yu4 shang3 yin1 ， yun2 he2 rong2 yi4 dong4 gui1 xin1 。
+- shao3 ling2 bu4 ken3 wei2 qing1 bao2 ， xiao4 sha1 wang2 yang2 jing3 di3 shen3 。
 
 ## 注释
 

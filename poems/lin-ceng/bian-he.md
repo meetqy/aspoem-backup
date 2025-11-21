@@ -6,10 +6,10 @@ titleSlug: bian-he
 author: 林曾
 authorPinyin: lin2 ceng2
 authorSlug: lin-ceng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

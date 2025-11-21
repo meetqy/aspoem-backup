@@ -1,30 +1,28 @@
 ---
 id: song-tai-zong-yuan-shi-qi-wu
-title: 緣識  其五
-titlePinyin: yuan2 shi2     qi2 wu3
+title: 緣識  其五○
+titlePinyin: yuan2 shi2     qi2 wu3 ○
 titleSlug: yuan-shi-qi-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 恍惚人難曉，天仙語默玄。
-- 修心無道理，終日自忙然。
-- 我命真中趣，長生認宿緣。
-- 機權饒使用，聖事不虛傳。
+- 逢春酒一杯，百卉向陽開。
+- 梨花看似梅，光揚迎日彩。
+- 嫩柳引清風，黄鳥聲吹臺。
 
 ## 拼音
 
-- huang3 hu1 ren2 nan2 xiao3 ， tian1 xian1 yu3 mo4 xuan2 。
-- xiu1 xin1 wu2 dao4 li3 ， zhong1 ri4 zi4 mang2 ran2 。
-- wo3 ming4 zhen1 zhong1 qu4 ， chang2 sheng1 ren4 su4 yuan2 。
-- ji1 quan2 rao2 shi3 yong4 ， sheng4 shi4 bu4 xu1 chuan2 。
+- feng2 chun1 jiu3 yi4 bei1 ， bai3 hui4 xiang4 yang2 kai1 。
+- li2 hua1 kan4 si4 mei2 ， guang1 yang2 ying2 ri4 cai3 。
+- nen4 liu3 yin3 qing1 feng1 ， huang2 niao3 sheng1 chui1 tai2 。
 
 ## 注释
 

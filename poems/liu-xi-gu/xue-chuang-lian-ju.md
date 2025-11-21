@@ -6,10 +6,10 @@ titleSlug: xue-chuang-lian-ju
 author: 劉希古
 authorPinyin: liu2 xi1 gu3
 authorSlug: liu-xi-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

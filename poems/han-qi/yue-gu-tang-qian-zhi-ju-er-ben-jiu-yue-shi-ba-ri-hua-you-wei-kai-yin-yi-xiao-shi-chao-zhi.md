@@ -6,10 +6,10 @@ titleSlug: yue-gu-tang-qian-zhi-ju-er-ben-jiu-yue-shi-ba-ri-hua-you-wei-kai-yin-
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

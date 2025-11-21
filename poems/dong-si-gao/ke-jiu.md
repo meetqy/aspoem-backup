@@ -6,25 +6,25 @@ titleSlug: ke-jiu
 author: 董嗣杲
 authorPinyin: dong3 si4 gao3
 authorSlug: dong-si-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身孤猶落葉，客久向餘英。
-- 少睡夜逾悄，多聞心更清。
-- 縣樓訛漏點，雨市雜溪聲。
-- 海上仙槎在，思乘幾凝情。
+- 衣裳敝盡客遊闌，三月江城雨更寒。
+- 小店有翁賒酒易，名園無主看花難。
+- 驅馳塵土身千里，荏苒光陰指一彈。
+- 種種舊愁歸杜宇，青山碧樹带愁看。
 
 ## 拼音
 
-- shen1 gu1 you2 luo4 ye4 ， ke4 jiu3 xiang4 yu2 ying1 。
-- shao3 shui4 ye4 yu2 qiao1 ， duo1 wen2 xin1 geng4 qing1 。
-- xian4 lou2 e2 lou4 dian3 ， yu3 shi4 za2 xi1 sheng1 。
-- hai3 shang4 xian1 cha2 zai4 ， si1 cheng2 ji1 ning2 qing2 。
+- yi1 shang0 bi4 jin4 ke4 you2 lan2 ， san1 yue4 jiang1 cheng2 yu3 geng4 han2 。
+- xiao3 dian4 you3 weng1 she1 jiu3 yi4 ， ming2 yuan2 wu2 zhu3 kan4 hua1 nan2 。
+- qu1 chi2 chen2 tu3 shen1 qian1 li3 ， ren3 ran3 guang1 yin1 zhi3 yi2 dan4 。
+- zhong3 zhong3 jiu4 chou2 gui1 du4 yu3 ， qing1 shan1 bi4 shu4 dai4 chou2 kan4 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 深庭窗月透輕紗，仙侣勤工組繡華。
-- 笑語竟將心事卜，只知相顧看燈花。
+- 桃葉基春二月中，滿庭芽孽順年豐。
+- 欲令九禁知羣卉，蒙被坤輿造化工。
 
 ## 拼音
 
-- shen1 ting2 chuang1 yue4 tou4 qing1 sha1 ， xian1 lü3 qin2 gong1 zu3 xiu4 hua2 。
-- xiao4 yu3 jing4 jiang1 xin1 shi4 bu3 ， zhi1 zhi1 xiang1 gu4 kan4 deng1 hua1 。
+- tao2 ye4 ji1 chun1 er4 yue4 zhong1 ， man3 ting2 ya2 nie4 shun4 nian2 feng1 。
+- yu4 ling4 jiu3 jin4 zhi1 qun2 hui4 ， meng2 bei4 kun1 yu2 zao4 hua4 gong1 。
 
 ## 注释
 

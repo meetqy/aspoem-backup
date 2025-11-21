@@ -6,21 +6,21 @@ titleSlug: he-chang-fu-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水南上郭荒凉甚，猶有西軒兩首詩。
-- 沙草犢鷗眠動處，當時識賞孰能追。
+- 行盡田家與酒家，書窗薝蔔見新花。
+- 風流一老來何處，不許閒人作話夸。
 
 ## 拼音
 
-- shui3 nan2 shang4 guo1 huang1 liang2 shen4 ， you2 you3 xi1 xuan1 liang3 shou3 shi1 。
-- sha1 cao3 du2 ou1 mian2 dong4 chu3 ， dang1 shi2 shi2 shang3 shu2 neng2 zhui1 。
+- xing2 jin4 tian2 jia1 yu3 jiu3 jia1 ， shu1 chuang1 zhan1 bo0 jian4 xin1 hua1 。
+- feng1 liu2 yi4 lao3 lai2 he2 chu3 ， bu4 xu1 xian2 ren2 zuo4 hua4 kua1 。
 
 ## 注释
 

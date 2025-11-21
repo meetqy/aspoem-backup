@@ -6,9 +6,9 @@ titleSlug: qiu-dao-ren-zi-you-xi-lai-san-shan-chu-shi-tong-xu-hou-you-long-men-d
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

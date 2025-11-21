@@ -6,25 +6,25 @@ titleSlug: za-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 散髮林間萬事輕，夢魂安穩氣和平。
-- 只知秋菊有佳色，那問荒雞非惡聲。
-- 達士招呼同嘯傲，福人分付與功名。
-- 一篇說盡逍遥理，始信蒙莊是達生。
+- 此身漂蕩等流槎，又向江村送歲華。
+- 急雨遇寒凝作雪，明燈無灺結成花。
+- 座懸鏡古森毛髮，甌聚茶香爽齒牙。
+- 况是貧家多樂事，阿開漸學手吒叉。
 
 ## 拼音
 
-- san4 fa4 lin2 jian4 wan4 shi4 qing1 ， meng4 hun2 an1 wen3 qi4 he2 ping2 。
-- zhi1 zhi1 qiu1 ju2 you3 jia1 se4 ， na4 wen4 huang1 ji1 fei1 e4 sheng1 。
-- da2 shi4 zhao1 hu0 tong2 xiao4 ao4 ， fu2 ren2 fen1 fu4 yu3 gong1 ming2 。
-- yi4 pian1 shuo1 jin4 xiao1 yao2 li3 ， shi3 xin4 meng2 zhuang1 shi4 da2 sheng1 。
+- ci3 shen1 piao1 dang4 deng3 liu2 cha2 ， you4 xiang4 jiang1 cun1 song4 sui4 hua2 。
+- ji2 yu3 yu4 han2 ning2 zuo4 xue3 ， ming2 deng1 wu2 xie4 jie2 cheng2 hua1 。
+- zuo4 xuan2 jing4 gu3 sen1 mao2 fa4 ， ou1 ju4 cha2 xiang1 shuang3 chi3 ya2 。
+- kuang4 shi4 pin2 jia1 duo1 le4 shi4 ， a1 kai1 jian4 xue2 shou3 zha4 cha1 。
 
 ## 注释
 

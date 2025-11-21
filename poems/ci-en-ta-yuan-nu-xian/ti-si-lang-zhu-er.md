@@ -9,7 +9,7 @@ authorSlug: ci-en-ta-yuan-nu-xian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

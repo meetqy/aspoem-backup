@@ -6,10 +6,10 @@ titleSlug: yu-tu-jing-ju-shi
 author: 張仲尹
 authorPinyin: zhang1 zhong4 yin3
 authorSlug: zhang-zhong-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

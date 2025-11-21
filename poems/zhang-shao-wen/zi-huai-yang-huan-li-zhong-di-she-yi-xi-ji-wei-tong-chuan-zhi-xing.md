@@ -6,10 +6,10 @@ titleSlug: zi-huai-yang-huan-li-zhong-di-she-yi-xi-ji-wei-tong-chuan-zhi-xing
 author: 張紹文
 authorPinyin: zhang1 shao4 wen2
 authorSlug: zhang-shao-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

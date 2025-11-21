@@ -6,10 +6,10 @@ titleSlug: hu-wen-chang-he-dong-po-zi-you-peng-cheng-yue-shi-bing-lu-dan-an-xin-
 author: 陳元晉
 authorPinyin: chen2 yuan2 jin4
 authorSlug: chen-yuan-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

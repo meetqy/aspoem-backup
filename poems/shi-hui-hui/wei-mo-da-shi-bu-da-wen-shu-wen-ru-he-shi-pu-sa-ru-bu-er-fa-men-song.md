@@ -6,9 +6,9 @@ titleSlug: wei-mo-da-shi-bu-da-wen-shu-wen-ru-he-shi-pu-sa-ru-bu-er-fa-men-song
 author: 釋慧暉
 authorPinyin: shi4 hui4 hui1
 authorSlug: shi-hui-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

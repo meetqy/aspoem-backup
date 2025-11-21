@@ -6,21 +6,21 @@ titleSlug: zai-fu-qi-yi
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 外求它壤曾攀桂，近捨家園尚守株。
-- 待得枝頭如赤柰，却來看我百花圖。
+- 不用風人怨綠衣，身兼魏紫與潜緋。
+- 司花直爲文官地，可忍春殘一片飛。
 
 ## 拼音
 
-- wai4 qiu2 ta1 rang3 ceng2 pan1 gui4 ， jin4 she3 jia1 yuan2 shang4 shou3 zhu1 。
-- dai4 de2 zhi1 tou2 ru2 chi4 nai4 ， que4 lai2 kan4 wo3 bai3 hua1 tu2 。
+- bu2 yong4 feng1 ren2 yuan4 lü4 yi1 ， shen1 jian1 wei4 zi3 yu3 qian2 fei1 。
+- si1 hua1 zhi2 wei2 wen2 guan1 di4 ， ke3 ren3 chun1 can2 yi2 pian4 fei1 。
 
 ## 注释
 

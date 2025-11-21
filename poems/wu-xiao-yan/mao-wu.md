@@ -6,10 +6,10 @@ titleSlug: mao-wu
 author: 吳肖巖
 authorPinyin: wu2 xiao4 yan2
 authorSlug: wu-xiao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

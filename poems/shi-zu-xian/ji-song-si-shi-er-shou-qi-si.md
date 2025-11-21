@@ -1,26 +1,26 @@
 ---
 id: shi-zu-xian-ji-song-si-shi-er-shou-qi-si
-title: 偈頌四十二首  其四
-titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 si4
+title: 偈頌四十二首  其四○
+titlePinyin: ji4 song4 si4 shi2 er4 shou3     qi2 si4 ○
 titleSlug: ji-song-si-shi-er-shou-qi-si
 author: 釋祖先
 authorPinyin: shi4 zu3 xian1
 authorSlug: shi-zu-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一夏九十日，今朝喜告畢。
-- 二千年前事，切忌更尋覓。
+- 不坐空王殿，不掛本來衣。
+- 何須更恁麽，切忌未生時。
 
 ## 拼音
 
-- yi2 xia4 jiu3 shi2 ri4 ， jin1 zhao1 xi3 gao4 bi4 。
-- er4 qian1 nian2 qian2 shi4 ， qie4 ji4 geng4 xun2 mi4 。
+- bu2 zuo4 kong1 wang2 dian4 ， bu2 gua4 ben3 lai2 yi1 。
+- he2 xu1 geng4 nen4 mo2 ， qie4 ji4 wei4 sheng1 shi2 。
 
 ## 注释
 

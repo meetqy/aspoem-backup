@@ -6,21 +6,21 @@ titleSlug: tao-yuan-shan-dao-zhe-xiao-an
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天寒山氣黄，日暮竹色碧。
-- 住庵人勿驚，此景有此客。
+- 空山落葉響流泉，窈窕崎嶇一徑邊。
+- 借問桃花今在否，秦人元不愛山川。
 
 ## 拼音
 
-- tian1 han2 shan1 qi4 huang2 ， ri4 mu4 zhu2 se4 bi4 。
-- zhu4 an1 ren2 wu4 jing1 ， ci3 jing3 you3 ci3 ke4 。
+- kong1 shan1 luo4 ye4 xiang3 liu2 quan2 ， yao3 tiao3 qi2 qu1 yi2 jing4 bian1 。
+- jie4 wen4 tao2 hua1 jin1 zai4 fou3 ， qin2 ren2 yuan2 bu2 ai4 shan1 chuan1 。
 
 ## 注释
 

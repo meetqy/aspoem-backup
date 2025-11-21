@@ -9,13 +9,13 @@ authorSlug: chen-cun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 暫入新豐市，猶聞舊酒香。
-- 抱琴沽一醉，盡日卧垂楊。
+- 抱琴沽一醉，盡日臥垂楊。
 
 ## 拼音
 

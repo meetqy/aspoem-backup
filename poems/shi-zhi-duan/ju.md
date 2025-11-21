@@ -6,9 +6,9 @@ titleSlug: ju
 author: 釋志端
 authorPinyin: shi4 zhi4 duan1
 authorSlug: shi-zhi-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

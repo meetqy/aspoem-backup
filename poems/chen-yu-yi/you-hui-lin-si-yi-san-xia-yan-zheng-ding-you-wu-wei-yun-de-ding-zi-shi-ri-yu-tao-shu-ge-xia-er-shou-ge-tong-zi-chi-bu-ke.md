@@ -6,9 +6,9 @@ titleSlug: you-hui-lin-si-yi-san-xia-yan-zheng-ding-you-wu-wei-yun-de-ding-zi-sh
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

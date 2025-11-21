@@ -6,10 +6,10 @@ titleSlug: wu-xia-tong-nian-hui-shi
 author: 唐子壽
 authorPinyin: tang2 zi3 shou4
 authorSlug: tang-zi-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

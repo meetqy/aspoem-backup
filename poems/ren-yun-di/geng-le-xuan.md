@@ -6,10 +6,10 @@ titleSlug: geng-le-xuan
 author: 任允迪
 authorPinyin: ren4 yun3 di2
 authorSlug: ren-yun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-men-yan
 author: 趙師立
 authorPinyin: zhao4 shi1 li4
 authorSlug: zhao-shi-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

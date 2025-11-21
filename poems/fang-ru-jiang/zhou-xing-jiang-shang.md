@@ -6,10 +6,10 @@ titleSlug: zhou-xing-jiang-shang
 author: 方汝疆
 authorPinyin: fang1 ru3 jiang1
 authorSlug: fang-ru-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

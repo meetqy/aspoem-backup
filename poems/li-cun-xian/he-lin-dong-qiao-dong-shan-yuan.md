@@ -6,10 +6,10 @@ titleSlug: he-lin-dong-qiao-dong-shan-yuan
 author: 李存賢
 authorPinyin: li3 cun2 xian2
 authorSlug: li-cun-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

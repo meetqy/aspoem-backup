@@ -6,10 +6,10 @@ titleSlug: zi-zhan-he-yu-zhi-zhai-shi-you-duan-xiang-weng-jian-xun-li-bu-lao-lai
 author: 趙令鑠
 authorPinyin: zhao4 ling4 shuo4
 authorSlug: zhao-ling-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

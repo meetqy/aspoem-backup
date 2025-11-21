@@ -1,24 +1,24 @@
 ---
 id: xu-fu-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生功名心，夜窗短檠燈。
+- 四月麥穗如馬尾，湯餅在眼粉可喜。
 
 ## 拼音
 
-- ping2 sheng1 gong1 ming2 xin1 ， ye4 chuang1 duan3 qing2 deng1 。
+- si4 yue4 mai4 sui4 ru2 ma3 wei3 ， tang1 bing3 zai4 yan3 fen3 ke3 xi3 。
 
 ## 注释
 

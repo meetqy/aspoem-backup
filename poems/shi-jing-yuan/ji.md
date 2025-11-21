@@ -6,25 +6,25 @@ titleSlug: ji
 author: 釋景元
 authorPinyin: shi4 jing3 yuan2
 authorSlug: shi-jing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 野干鳴，師子吼。
-- 張得眼，開得口。
-- 動南星，嗟北斗。
-- 金剛階下蹲，神龜火裏走。
+- 有時瞋，有時喜，有時觀音面，有時夜叉觜。
+- 或現鼠尾龍頭，或現鼠頭龍尾。
+- 偏要檢非，不要檢是。
+- 是金不博金，是水不博水。
 
 ## 拼音
 
-- ye3 gan1 ming2 ， shi1 zi3 hou3 。
-- zhang1 de2 yan3 ， kai1 de2 kou3 。
-- dong4 nan2 xing1 ， jie1 bei3 dou3 。
-- jin1 gang1 jie1 xia4 dun1 ， shen2 gui1 huo3 li3 zou3 。
+- you3 shi2 chen1 ， you3 shi2 xi3 ， you3 shi2 guan1 yin1 mian4 ， you3 shi2 ye4 cha1 zi1 。
+- huo4 xian4 shu3 wei3 long2 tou2 ， huo4 xian4 shu3 tou2 long2 wei3 。
+- pian1 yao4 jian3 fei1 ， bu2 yao4 jian3 shi4 。
+- shi4 jin1 bu4 bo2 jin1 ， shi4 shui3 bu4 bo2 shui3 。
 
 ## 注释
 

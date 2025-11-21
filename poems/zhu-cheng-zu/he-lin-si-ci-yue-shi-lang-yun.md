@@ -6,10 +6,10 @@ titleSlug: he-lin-si-ci-yue-shi-lang-yun
 author: 朱承祖
 authorPinyin: zhu1 cheng2 zu3
 authorSlug: zhu-cheng-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

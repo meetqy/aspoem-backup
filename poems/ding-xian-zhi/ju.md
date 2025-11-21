@@ -9,16 +9,18 @@ authorSlug: ding-xian-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雨鳴鴛瓦收炎氣，風卷珠簾送曉涼。
+- 窮花常閉戶，秋城聞搗衣。
+- 樹迴早秋色，川長遲落暉。
 
 ## 拼音
 
-- yu3 ming2 yuan1 wa3 shou1 yan2 qi4 ， feng1 juan4 zhu1 lian2 song4 xiao3 liang2 。
+- qiong2 hua1 chang2 bi4 hu4 ， qiu1 cheng2 wen2 dao3 yi1 。
+- shu4 hui2 zao3 qiu1 se4 ， chuan1 chang2 chi2 luo4 hui1 。
 
 ## 注释
 

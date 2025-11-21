@@ -6,10 +6,10 @@ titleSlug: xi-ti-tan-bang-yi-bi
 author: 林外
 authorPinyin: lin2 wai4
 authorSlug: lin-wai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

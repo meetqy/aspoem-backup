@@ -6,10 +6,10 @@ titleSlug: teng-xi-huai-gu
 author: 鮑若虛
 authorPinyin: bao4 ruo4 xu1
 authorSlug: bao-ruo-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

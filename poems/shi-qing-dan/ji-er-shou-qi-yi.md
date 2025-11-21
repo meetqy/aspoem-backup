@@ -6,9 +6,9 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋清旦
 authorPinyin: shi4 qing1 dan4
 authorSlug: shi-qing-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

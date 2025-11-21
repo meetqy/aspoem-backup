@@ -6,10 +6,10 @@ titleSlug: ti-san-xia-tang
 author: 郭明復
 authorPinyin: guo1 ming2 fu4
 authorSlug: guo-ming-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

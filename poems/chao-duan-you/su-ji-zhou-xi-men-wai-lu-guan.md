@@ -6,10 +6,10 @@ titleSlug: su-ji-zhou-xi-men-wai-lu-guan
 author: 晁端友
 authorPinyin: chao2 duan1 you3
 authorSlug: chao-duan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

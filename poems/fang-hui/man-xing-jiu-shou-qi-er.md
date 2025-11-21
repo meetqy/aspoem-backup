@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-er
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老豈堪從仕，窮應不爲詩。
-- 死生元有命，病亦莫求醫。
+- 洶洶戰場元不懼，恓恓貧巷亦無憂。
+- 千金浪費如泥土，今日何人識故侯。
 
 ## 拼音
 
-- lao3 qi3 kan1 cong2 shi4 ， qiong2 ying1 bu4 wei2 shi1 。
-- si3 sheng1 yuan2 you3 ming4 ， bing4 yi4 mo4 qiu2 yi1 。
+- xiong1 xiong1 zhan4 chang3 yuan2 bu2 ju4 ， xi1 xi1 pin2 xiang4 yi4 wu2 you1 。
+- qian1 jin1 lang4 fei4 ru2 ni2 tu3 ， jin1 ri4 he2 ren2 shi2 gu4 hou2 。
 
 ## 注释
 

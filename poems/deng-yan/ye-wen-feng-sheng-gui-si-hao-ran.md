@@ -6,10 +6,10 @@ titleSlug: ye-wen-feng-sheng-gui-si-hao-ran
 author: 鄧剡
 authorPinyin: deng4 yan3
 authorSlug: deng-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

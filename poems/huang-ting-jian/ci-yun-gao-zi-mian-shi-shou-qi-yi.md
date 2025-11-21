@@ -1,30 +1,30 @@
 ---
 id: huang-ting-jian-ci-yun-gao-zi-mian-shi-shou-qi-yi
-title: 次韵高子勉十首  其一
-titlePinyin: ci4 yun4 gao1 zi3 mian3 shi2 shou3     qi2 yi1
+title: 次韵高子勉十首  其一○
+titlePinyin: ci4 yun4 gao1 zi3 mian3 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-gao-zi-mian-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雪盡虛簷滴，春從細草迴。
-- 德人泉下夢，俗物眼中埃。
-- 久立我有待，長吟君不來。
-- 重玄鎖關籥，要待玉匙開。
+- 沙上步微暖，思君剩欲招。
+- 蔞蒿穿雪動，楊柳索春饒。
+- 枉駕時逢出，新詩若見撩。
+- 樽前遠湖樹，來飲莫辭遙。
 
 ## 拼音
 
-- xue3 jin4 xu1 yan2 di1 ， chun1 cong2 xi4 cao3 hui2 。
-- de2 ren2 quan2 xia4 meng4 ， su2 wu4 yan3 zhong1 ai1 。
-- jiu3 li4 wo3 you3 dai4 ， chang2 yin2 jun1 bu4 lai2 。
-- zhong4 xuan2 suo3 guan1 yue4 ， yao4 dai4 yu4 chi2 kai1 。
+- sha1 shang4 bu4 wei1 nuan3 ， si1 jun1 sheng4 yu4 zhao1 。
+- lou2 hao1 chuan1 xue3 dong4 ， yang2 liu3 suo3 chun1 rao2 。
+- wang3 jia4 shi2 feng2 chu1 ， xin1 shi1 ruo4 jian4 liao2 。
+- zun1 qian2 yuan3 hu2 shu4 ， lai2 yin3 mo4 ci2 yao2 。
 
 ## 注释
 

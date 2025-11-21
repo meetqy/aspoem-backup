@@ -6,10 +6,10 @@ titleSlug: ju
 author: 徐昭然
 authorPinyin: xu2 zhao1 ran2
 authorSlug: xu-zhao-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

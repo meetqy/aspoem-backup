@@ -6,10 +6,10 @@ titleSlug: ci-yun-ting-zao-zhui-ji-qu-sui-yu-yu-you-xi-hu-zhou-zhong-wen-huo-er-
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

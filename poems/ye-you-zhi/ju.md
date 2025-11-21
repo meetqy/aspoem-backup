@@ -6,10 +6,10 @@ titleSlug: ju
 author: 葉祐之
 authorPinyin: ye4 you4 zhi1
 authorSlug: ye-you-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

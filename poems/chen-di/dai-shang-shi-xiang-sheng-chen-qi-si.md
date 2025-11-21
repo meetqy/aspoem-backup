@@ -6,10 +6,10 @@ titleSlug: dai-shang-shi-xiang-sheng-chen-qi-si
 author: 陳棣
 authorPinyin: chen2 di4
 authorSlug: chen-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

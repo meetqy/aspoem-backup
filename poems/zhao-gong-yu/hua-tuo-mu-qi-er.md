@@ -6,10 +6,10 @@ titleSlug: hua-tuo-mu-qi-er
 author: 趙公豫
 authorPinyin: zhao4 gong1 yu4
 authorSlug: zhao-gong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

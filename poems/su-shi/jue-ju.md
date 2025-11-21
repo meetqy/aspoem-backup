@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春來濯濯江邊柳，秋後離離湖上花。
-- 不羨千金買歌舞，一篇珠玉是生涯。
+- 柴桑春晚思依依，屋角鳴鳩雨欲飛。
+- 昨日已收寒食火，吹花風起却添衣。
 
 ## 拼音
 
-- chun1 lai2 zhuo2 zhuo2 jiang1 bian1 liu3 ， qiu1 hou4 li2 li2 hu2 shang4 hua1 。
-- bu2 xian4 qian1 jin1 mai3 ge1 wu3 ， yi4 pian1 zhu1 yu4 shi4 sheng1 ya2 。
+- chai2 sang1 chun1 wan3 si1 yi1 yi1 ， wu1 jiao3 ming2 jiu1 yu3 yu4 fei1 。
+- zuo2 ri4 yi3 shou1 han2 shi2 huo3 ， chui1 hua1 feng1 qi3 que4 tian1 yi1 。
 
 ## 注释
 

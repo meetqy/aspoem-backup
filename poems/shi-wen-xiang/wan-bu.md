@@ -6,25 +6,33 @@ titleSlug: wan-bu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋色徧西原，行吟野興存。
-- 坂田通堰熟，溪水度灘喧。
-- 宿鳥分投樹，歸牛各認村。
-- 幽居乘夜返，松月在衡門。
+- 晚策信所往，幽懷那可窮。
+- 孤村流水外，古木亂山中。
+- 雨過天容浄，風收地籟空。
+- 淡煙歸獨鳥，深澗飲長虹。
+- 日下青峰表，潮生滄海東。
+- 光吞羣象沒，氣混百川雄。
+- 㭬杙知樵子，乘舟識釣翁。
+- 閒身天與健，蕭散復誰同。
 
 ## 拼音
 
-- qiu1 se4 bian4 xi1 yuan2 ， xing2 yin2 ye3 xing1 cun2 。
-- ban3 tian2 tong1 yan4 shu2 ， xi1 shui3 du4 tan1 xuan1 。
-- su4 niao3 fen1 tou2 shu4 ， gui1 niu2 ge4 ren4 cun1 。
-- you1 ju1 cheng2 ye4 fan3 ， song1 yue4 zai4 heng2 men2 。
+- wan3 ce4 xin4 suo3 wang3 ， you1 huai2 na4 ke3 qiong2 。
+- gu1 cun1 liu2 shui3 wai4 ， gu3 mu4 luan4 shan1 zhong1 。
+- yu3 guo4 tian1 rong2 jing4 ， feng1 shou1 di4 lai4 kong1 。
+- dan4 yan1 gui1 du2 niao3 ， shen1 jian4 yin3 chang2 hong2 。
+- ri4 xia4 qing1 feng1 biao3 ， chao2 sheng1 cang1 hai3 dong1 。
+- guang1 tun1 qun2 xiang4 mei2 ， qi4 hun4 bai3 chuan1 xiong2 。
+- 㭬 yi4 zhi1 qiao2 zi0 ， cheng2 zhou1 shi2 diao4 weng1 。
+- xian2 shen1 tian1 yu3 jian4 ， xiao1 san4 fu4 shui2 tong2 。
 
 ## 注释
 

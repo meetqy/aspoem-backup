@@ -6,10 +6,10 @@ titleSlug: gu-su-tai-tong-nian-hui-ci-yuan-shuo-you-yun
 author: 趙彥真
 authorPinyin: zhao4 yan4 zhen1
 authorSlug: zhao-yan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yong-shi-lu-zhu
 author: 張玉孃
 authorPinyin: zhang1 yu4 niang2
 authorSlug: zhang-yu-niang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

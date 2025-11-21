@@ -6,10 +6,10 @@ titleSlug: jiao-shan-si
 author: 翟汝文
 authorPinyin: zhai2 ru3 wen2
 authorSlug: zhai-ru-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

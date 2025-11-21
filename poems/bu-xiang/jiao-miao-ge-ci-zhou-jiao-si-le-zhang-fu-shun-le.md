@@ -9,22 +9,18 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 相承五運，取法三才。
-- 大禮爰展，率土咸來。
-- 卿雲祕室，甘泉寶臺。
-- 象樽初酌，受福不回。
+- 上天垂景貺，哲后舉鸞觴。
+- 明德今方祚，邦家萬世昌。
 
 ## 拼音
 
-- xiang1 cheng2 wu3 yun4 ， qu3 fa3 san1 cai2 。
-- da4 li3 yuan2 zhan3 ， lü4 tu3 xian2 lai2 。
-- qing1 yun2 bi4 shi4 ， gan1 quan2 bao3 tai2 。
-- xiang4 zun1 chu1 zhuo2 ， shou4 fu2 bu4 hui2 。
+- shang4 tian1 chui2 jing3 kuang4 ， zhe2 hou4 ju3 luan2 shang1 。
+- ming2 de2 jin1 fang1 zuo4 ， bang1 jia1 wan4 shi4 chang1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: guo-fang-shi-ji-xie-jin-lian-jian-ting-zhong-hong-li-hua-sheng-kai-yi
 author: 趙汝州
 authorPinyin: zhao4 ru3 zhou1
 authorSlug: zhao-ru-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

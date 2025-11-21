@@ -6,10 +6,10 @@ titleSlug: xie-fan-xian-liang-you-tian-wang-si-deng-cheng-wan-gui-san-jue-qi-er
 author: 樓炤
 authorPinyin: lou2 zhao1
 authorSlug: lou-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

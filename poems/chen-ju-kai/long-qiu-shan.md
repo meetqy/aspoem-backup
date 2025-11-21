@@ -6,10 +6,10 @@ titleSlug: long-qiu-shan
 author: 陳舉愷
 authorPinyin: chen2 ju3 kai3
 authorSlug: chen-ju-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

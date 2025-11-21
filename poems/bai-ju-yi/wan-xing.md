@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 極浦收殘雨，高城駐落暉。
-- 山明虹半出，松闇鶴雙歸。
-- 將吏隨衙散，文書入務稀。
-- 閑吟倚新竹，筠粉汙朱衣。
+- 草淺馬翩翩，新晴薄暮天。
+- 柳條春拂面，衫袖醉垂鞭。
+- 立語花堤上，行吟水寺前。
+- 等閑消一日，不覺過三年。
 
 ## 拼音
 
-- ji2 pu3 shou1 can2 yu3 ， gao1 cheng2 zhu4 luo4 hui1 。
-- shan1 ming2 hong2 ban4 chu1 ， song1 an4 he4 shuang1 gui1 。
-- jiang1 li4 sui2 ya2 san4 ， wen2 shu1 ru4 wu4 xi1 。
-- xian2 yin2 yi3 xin1 zhu2 ， yun2 fen3 wu1 zhu1 yi1 。
+- cao3 qian3 ma3 pian1 pian1 ， xin1 qing2 bo2 mu4 tian1 。
+- liu3 tiao2 chun1 fu2 mian4 ， shan1 xiu4 zui4 chui2 bian1 。
+- li4 yu3 hua1 di1 shang4 ， xing2 yin2 shui3 si4 qian2 。
+- deng3 xian2 xiao1 yi2 ri4 ， bu4 jue2 guo4 san1 nian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: liang-peng-zhou-gui-zi-dao-shan-su-liu-ru-xia-yi-er-shi-jian-ji-yin-c
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

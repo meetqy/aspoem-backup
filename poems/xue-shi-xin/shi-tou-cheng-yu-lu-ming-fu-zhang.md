@@ -6,10 +6,10 @@ titleSlug: shi-tou-cheng-yu-lu-ming-fu-zhang
 author: 薛師心
 authorPinyin: xue1 shi1 xin1
 authorSlug: xue-shi-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

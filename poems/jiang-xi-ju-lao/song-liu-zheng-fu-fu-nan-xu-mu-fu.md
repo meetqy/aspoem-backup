@@ -6,10 +6,10 @@ titleSlug: song-liu-zheng-fu-fu-nan-xu-mu-fu
 author: 江西舉老
 authorPinyin: jiang1 xi1 ju3 lao3
 authorSlug: jiang-xi-ju-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

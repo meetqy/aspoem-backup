@@ -6,10 +6,10 @@ titleSlug: fen-shui-pu
 author: 李次淵
 authorPinyin: li3 ci4 yuan1
 authorSlug: li-ci-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

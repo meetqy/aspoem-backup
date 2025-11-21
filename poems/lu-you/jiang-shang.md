@@ -6,25 +6,25 @@ titleSlug: jiang-shang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江上霜寒透客衣，閉窗羸臥不支持。
-- 羈孤形影真相吊，衰颯頭顱已可知。
-- 潦縮穩經行雨峽，竹疏賸見挂猿枝。
-- 清樽可置須勤醉，莫望功名老大時。
+- 禹會橋頭江渺然，隔江村店起孤烟。
+- 冷雲垂野雪方作，斷雁叫群人未眠。
+- 萬里漂流歸故國，一生蹭蹬付蒼天。
+- 暮年尚欲師周孔，未遽長齋繡佛前。
 
 ## 拼音
 
-- jiang1 shang4 shuang1 han2 tou4 ke4 yi1 ， bi4 chuang1 lei2 wo4 bu4 zhi1 chi2 。
-- ji1 gu1 xing2 ying3 zhen1 xiang4 diao4 ， shuai1 sa4 tou2 lu2 yi3 ke3 zhi1 。
-- liao2 suo1 wen3 jing1 xing2 yu3 xia2 ， zhu2 shu1 sheng4 jian4 gua4 yuan2 zhi1 。
-- qing1 zun1 ke3 zhi4 xu1 qin2 zui4 ， mo4 wang4 gong1 ming2 lao3 da4 shi2 。
+- yu3 hui4 qiao2 tou2 jiang1 miao3 ran2 ， ge2 jiang1 cun1 dian4 qi3 gu1 yan1 。
+- leng3 yun2 chui2 ye3 xue3 fang1 zuo4 ， duan4 yan4 jiao4 qun2 ren2 wei4 mian2 。
+- wan4 li3 piao1 liu2 gui1 gu4 guo2 ， yi4 sheng1 ceng4 deng4 fu4 cang1 tian1 。
+- mu4 nian2 shang4 yu4 shi1 zhou1 kong3 ， wei4 ju4 chang2 zhai1 xiu4 fo2 qian2 。
 
 ## 注释
 

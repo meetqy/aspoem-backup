@@ -6,10 +6,10 @@ titleSlug: bei-gui-guo-yong-yong-shou-zhao-jun-zai-zhi-jiu-wan-shi-ting
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

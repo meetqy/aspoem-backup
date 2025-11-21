@@ -6,10 +6,10 @@ titleSlug: zuo-feng-bo-xin-miao
 author: 楊四太尉
 authorPinyin: yang2 si4 tai4 wei4
 authorSlug: yang-si-tai-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

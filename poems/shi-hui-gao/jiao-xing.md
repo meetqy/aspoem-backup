@@ -6,10 +6,10 @@ titleSlug: jiao-xing
 author: 釋惠高
 authorPinyin: shi4 hui4 gao1
 authorSlug: shi-hui-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

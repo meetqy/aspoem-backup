@@ -6,10 +6,10 @@ titleSlug: qiao-yang-wu-lao-hui-shi
 author: 朱貫
 authorPinyin: zhu1 guan4
 authorSlug: zhu-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

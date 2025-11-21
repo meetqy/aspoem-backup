@@ -6,9 +6,9 @@ titleSlug: song
 author: 釋了贇
 authorPinyin: shi4 le0 yun1
 authorSlug: shi-le-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

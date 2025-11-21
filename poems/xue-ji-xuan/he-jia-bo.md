@@ -6,25 +6,25 @@ titleSlug: he-jia-bo
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 官冷君休歎，浮名陌路車。
-- 冰山逢燠泮，豆粥併寒除。
-- 但酌樽中酒，從堆架上書。
-- 未酬題柱志，終不羨相如。
+- 澄江風定也清寒，咫尺渾疑醉夢間。
+- 雪滿後湖真是浪，雲平西塞且無山。
+- 輕鷗弄水情無限，遠雁書空時自還。
+- 靜極要當隨衆樂，歸來燈火閙朱顔。
 
 ## 拼音
 
-- guan1 leng3 jun1 xiu1 tan4 ， fu2 ming2 mo4 lu4 ju1 。
-- bing1 shan1 feng2 yu4 pan4 ， dou4 zhou1 bing4 han2 chu2 。
-- dan4 zhuo2 zun1 zhong1 jiu3 ， cong2 dui1 jia4 shang4 shu1 。
-- wei4 chou2 ti2 zhu4 zhi4 ， zhong1 bu2 xian4 xiang1 ru2 。
+- cheng2 jiang1 feng1 ding4 ye3 qing1 han2 ， zhi3 chi3 hun2 yi2 zui4 meng4 jian4 。
+- xue3 man3 hou4 hu2 zhen1 shi4 lang4 ， yun2 ping2 xi1 sai1 qie3 wu2 shan1 。
+- qing1 ou1 nong4 shui3 qing2 wu2 xian4 ， yuan3 yan4 shu1 kong1 shi2 zi4 huan2 。
+- jing4 ji2 yao4 dang1 sui2 zhong4 le4 ， gui1 lai2 deng1 huo3 nao4 zhu1 yan2 。
 
 ## 注释
 

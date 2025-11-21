@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 返本還元道氣平，虛非形質轉分明。
-- 水中白雪微微結，火裏金蓮漸漸生。
-- 聖汞論時非有體，真鉛窮看亦無名。
-- 吾今爲報修行者，莫向燒金問至精。
+- 世上何人會此言，休將名利挂心田。
+- 等閑倒盡十分酒，遇興高吟一百篇。
+- 物外煙霞爲伴侶，壺中日月任嬋娟。
+- 他時功滿歸何處，直駕雲車入洞天。
 
 ## 拼音
 
-- fan3 ben3 huan2 yuan2 dao4 qi4 ping2 ， xu1 fei1 xing2 zhi4 zhuan3 fen1 ming2 。
-- shui3 zhong1 bai2 xue3 wei1 wei1 jie2 ， huo3 li3 jin1 lian2 jian4 jian4 sheng1 。
-- sheng4 gong3 lun4 shi2 fei1 you3 ti3 ， zhen1 qian1 qiong2 kan4 yi4 wu2 ming2 。
-- wu2 jin1 wei2 bao4 xiu1 xing2 zhe3 ， mo4 xiang4 shao1 jin1 wen4 zhi4 jing1 。
+- shi4 shang4 he2 ren2 hui4 ci3 yan2 ， xiu1 jiang1 ming2 li4 gua4 xin1 tian2 。
+- deng3 xian2 dao3 jin4 shi2 fen1 jiu3 ， yu4 xing1 gao1 yin2 yi4 bai3 pian1 。
+- wu4 wai4 yan1 xia2 wei2 ban4 lü3 ， hu2 zhong1 ri4 yue4 ren4 chan2 juan1 。
+- ta1 shi2 gong1 man3 gui1 he2 chu3 ， zhi2 jia4 yun2 ju1 ru4 dong4 tian1 。
 
 ## 注释
 

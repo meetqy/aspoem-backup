@@ -6,21 +6,21 @@ titleSlug: tong-guan-xu-zhi-zhang-she-ba-pian-qi-si
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 車如流水馬如龍，從此諸郎不得封。
-- 無限外家多敗類，獨餘馬氏著謙恭。
+- 蝸涎苔蘚不能除，覓得碑文當壁衣。
+- 富貴一朝還自恣，盡將錦繡繚牆圍。
 
 ## 拼音
 
-- ju1 ru2 liu2 shui3 ma3 ru2 long2 ， cong2 ci3 zhu1 lang2 bu4 de2 feng1 。
-- wu2 xian4 wai4 jia1 duo1 bai4 lei4 ， du2 yu2 ma3 shi4 zhu4 qian1 gong1 。
+- wo1 xian2 tai2 xian3 bu4 neng2 chu2 ， mi4 de2 bei1 wen2 dang1 bi4 yi1 。
+- fu4 gui4 yi4 zhao1 huan2 zi4 zi4 ， jin4 jiang1 jin3 xiu4 liao2 qiang2 wei2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: du-jiu-shi
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早歲吟哦已有詩，年來七十才全衰。
-- 開編一笑恍如夢，閉目徐思定是誰。
-- 敵手一時無復在，賞音他日更難期。
-- 老人不用多言語，一點空明萬法師。
+- 老人詩思如枯泉，轆轤不下甕盎乾。
+- 舊詩展卷驚三年，粲然佳句疑昔賢。
+- 老來百事不如前，藜羹稻飯嗟獨便。
+- 飽食餘暇盡日眠，安用琢句愁心肝。
 
 ## 拼音
 
-- zao3 sui4 yin2 e2 yi3 you3 shi1 ， nian2 lai2 qi1 shi2 cai2 quan2 shuai1 。
-- kai1 bian1 yi2 xiao4 huang3 ru2 meng4 ， bi4 mu4 xu2 si1 ding4 shi4 shui2 。
-- di2 shou3 yi4 shi2 wu2 fu4 zai4 ， shang3 yin1 ta1 ri4 geng4 nan2 qi1 。
-- lao3 ren2 bu2 yong4 duo1 yan2 yu3 ， yi4 dian3 kong1 ming2 wan4 fa3 shi1 。
+- lao3 ren2 shi1 si1 ru2 ku1 quan2 ， lu4 lu2 bu2 xia4 weng4 ang4 qian2 。
+- jiu4 shi1 zhan3 juan4 jing1 san1 nian2 ， can4 ran2 jia1 ju4 yi2 xi1 xian2 。
+- lao3 lai2 bai3 shi4 bu4 ru2 qian2 ， li2 geng1 dao4 fan4 jie1 du2 bian4 。
+- bao3 shi2 yu2 xia2 jin4 ri4 mian2 ， an1 yong4 zhuo2 ju4 chou2 xin1 gan1 。
 
 ## 注释
 

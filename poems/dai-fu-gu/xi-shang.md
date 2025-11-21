@@ -6,21 +6,21 @@ titleSlug: xi-shang
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小樓蕭灑面晴川，嫋嫋西風掃暮煙。
-- 碧水明霞兩相照，秋光全在夕陽天。
+- 山腰有路穿脩竹，水面無橋涉淺沙。
+- 夾岸人家盡農圃，秋風吹老木棉花。
 
 ## 拼音
 
-- xiao3 lou2 xiao1 sa3 mian4 qing2 chuan1 ， niao3 niao3 xi1 feng1 sao3 mu4 yan1 。
-- bi4 shui3 ming2 xia2 liang3 xiang1 zhao4 ， qiu1 guang1 quan2 zai4 xi1 yang2 tian1 。
+- shan1 yao1 you3 lu4 chuan1 xiu1 zhu2 ， shui3 mian4 wu2 qiao2 she4 qian3 sha1 。
+- jia1 an4 ren2 jia1 jin4 nong2 pu3 ， qiu1 feng1 chui1 lao3 mu4 mian2 hua1 。
 
 ## 注释
 

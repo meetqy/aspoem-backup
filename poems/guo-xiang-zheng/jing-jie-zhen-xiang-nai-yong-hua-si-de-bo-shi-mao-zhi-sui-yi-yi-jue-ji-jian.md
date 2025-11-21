@@ -6,10 +6,10 @@ titleSlug: jing-jie-zhen-xiang-nai-yong-hua-si-de-bo-shi-mao-zhi-sui-yi-yi-jue-j
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

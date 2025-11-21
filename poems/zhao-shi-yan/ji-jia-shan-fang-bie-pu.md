@@ -6,10 +6,10 @@ titleSlug: ji-jia-shan-fang-bie-pu
 author: 趙世延
 authorPinyin: zhao4 shi4 yan2
 authorSlug: zhao-shi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

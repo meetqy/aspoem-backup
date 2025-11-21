@@ -1,26 +1,34 @@
 ---
 id: lu-you-shi-zi-yu
-title: 示子聿
+title: 示子遹
 titlePinyin: shi4 zi3 yu4
 titleSlug: shi-zi-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我鑽故紙似癡蠅，汝復孳孳不少懲。
-- 父子更兼師友分，夜深常共短檠燈。
+- 家貧不學儉，物理有固然。
+- 要是善用短，足以終其年。
+- 我家稽山下，稟賦良奇偏。
+- 敢言中人産，日或無炊烟。
+- 有兒更耐窮，伴翁理遺編。
+- 短檠幸能繼，竟夜可忘眠。
 
 ## 拼音
 
-- wo3 zuan1 gu4 zhi3 si4 chi1 ying2 ， ru3 fu4 zi1 zi1 bu4 shao3 cheng2 。
-- fu4 zi3 geng4 jian1 shi1 you3 fen1 ， ye4 shen1 chang2 gong4 duan3 qing2 deng1 。
+- jia1 pin2 bu4 xue2 jian3 ， wu4 li3 you3 gu4 ran2 。
+- yao4 shi0 shan4 yong4 duan3 ， zu2 yi3 zhong1 qi2 nian2 。
+- wo3 jia1 ji1 shan1 xia4 ， bing3 fu4 liang2 qi2 pian1 。
+- gan3 yan2 zhong1 ren2 chan3 ， ri4 huo4 wu2 chui1 yan1 。
+- you3 er2 geng4 nai4 qiong2 ， ban4 weng1 li3 yi2 bian1 。
+- duan3 qing2 xing4 neng2 ji4 ， jing4 ye4 ke3 wang4 mian2 。
 
 ## 注释
 

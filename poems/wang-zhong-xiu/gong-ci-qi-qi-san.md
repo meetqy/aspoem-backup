@@ -6,10 +6,10 @@ titleSlug: gong-ci-qi-qi-san
 author: 王仲修
 authorPinyin: wang2 zhong4 xiu1
 authorSlug: wang-zhong-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

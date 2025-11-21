@@ -1,26 +1,26 @@
 ---
 id: hong-zi-kui-liu-hou-xi-he-yan-hu-ji-shi-shi-shi-jue-jian-shi-ci-yun-qi-yi
-title: 劉後溪和雁湖即事詩十絕見示次韵  其一
-titlePinyin: liu2 hou4 xi1 he2 yan4 hu2 ji2 shi4 shi1 shi2 jue2 jian4 shi4 ci4 yun4     qi2 yi1
+title: 劉後溪和雁湖即事詩十絕見示次韵  其一○
+titlePinyin: liu2 hou4 xi1 he2 yan4 hu2 ji2 shi4 shi1 shi2 jue2 jian4 shi4 ci4 yun4     qi2 yi1 ○
 titleSlug: liu-hou-xi-he-yan-hu-ji-shi-shi-shi-jue-jian-shi-ci-yun-qi-yi
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰家柳繫夜郎舟，半月風顛估客愁。
-- 起候五更風脚定，安排篙楫放中流。
+- 中原離合數由天，百戰關河血滿川。
+- 日月赤雲占勝氣，掛弓何處是祁連。
 
 ## 拼音
 
-- shui2 jia1 liu3 xi4 ye4 lang2 zhou1 ， ban4 yue4 feng1 dian1 gu1 ke4 chou2 。
-- qi3 hou4 wu3 geng1 feng1 jiao3 ding4 ， an1 pai2 gao1 ji2 fang4 zhong1 liu2 。
+- zhong1 yuan2 li2 he2 shu4 you2 tian1 ， bai3 zhan4 guan1 he2 xue4 man3 chuan1 。
+- ri4 yue4 chi4 yun2 zhan4 sheng4 qi4 ， gua4 gong1 he2 chu3 shi4 qi2 lian2 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-wang-zhao-jun-qi-san
-title: 王昭君・其三
-titlePinyin: wang2 zhao1 jun1・qi2 san1
+title: 王昭君  其三
+titlePinyin: wang2 zhao1 jun1     qi2 san1
 titleSlug: wang-zhao-jun-qi-san
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

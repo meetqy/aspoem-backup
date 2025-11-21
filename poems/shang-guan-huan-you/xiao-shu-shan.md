@@ -6,10 +6,10 @@ titleSlug: xiao-shu-shan
 author: 上官渙酉
 authorPinyin: shang4 guan1 huan4 you3
 authorSlug: shang-guan-huan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

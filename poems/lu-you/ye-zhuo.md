@@ -6,25 +6,25 @@ titleSlug: ye-zhuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遥夜澆愁賴麴生，燈前忽見臥長瓶。
-- 比紅有句狂猶在，染白無方老已成。
-- 園徑露螢粘濕草，塔簷風鐸亂疏更。
-- 悲秋要是騷人事，未必忘情勝有情。
+- 我有一瓢酒，與君今夕同。
+- 鳴簷社公雨，捲野沛歌風。
+- 閲世花開落，觀身劫壞空。
+- 北邙丘壠盡，太息幾英雄。
 
 ## 拼音
 
-- yao2 ye4 jiao1 chou2 lai4 qu1 sheng1 ， deng1 qian2 hu1 jian4 wo4 chang2 ping2 。
-- bi3 hong2 you3 ju4 kuang2 you2 zai4 ， ran3 bai2 wu2 fang1 lao3 yi3 cheng2 。
-- yuan2 jing4 lu4 ying2 nian2 shi1 cao3 ， ta3 yan2 feng1 duo2 luan4 shu1 geng4 。
-- bei1 qiu1 yao4 shi0 sao1 ren2 shi4 ， wei4 bi4 wang4 qing2 sheng4 you3 qing2 。
+- wo3 you3 yi4 piao2 jiu3 ， yu3 jun1 jin1 xi1 tong2 。
+- ming2 yan2 she4 gong1 yu3 ， juan3 ye3 pei4 ge1 feng1 。
+- yue4 shi4 hua1 kai1 luo4 ， guan1 shen1 jie2 huai4 kong1 。
+- bei3 mang2 qiu1 long3 jin4 ， tai4 xi1 ji1 ying1 xiong2 。
 
 ## 注释
 

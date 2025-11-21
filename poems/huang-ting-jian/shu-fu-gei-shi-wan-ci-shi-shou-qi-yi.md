@@ -1,26 +1,26 @@
 ---
 id: huang-ting-jian-shu-fu-gei-shi-wan-ci-shi-shou-qi-yi
-title: 叔父給事挽詞十首  其一
-titlePinyin: shu1 fu4 gei3 shi4 wan3 ci2 shi2 shou3     qi2 yi1
+title: 叔父給事挽詞十首  其一○
+titlePinyin: shu1 fu4 gei3 shi4 wan3 ci2 shi2 shou3     qi2 yi1 ○
 titleSlug: shu-fu-gei-shi-wan-ci-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 元祐宗臣考十科，公居八九未爲多。
-- 功名身後無瑕點，孝友生知不琢磨。
+- 榮祿常思澤九宗，山摧梁壞牀成空。
+- 百年遺恨誰昭洗，他日諸郎有父風。
 
 ## 拼音
 
-- yuan2 you4 zong1 chen2 kao3 shi2 ke1 ， gong1 ju1 ba1 jiu3 wei4 wei2 duo1 。
-- gong1 ming2 shen1 hou4 wu2 xia2 dian3 ， xiao4 you3 sheng1 zhi1 bu4 zuo2 mo0 。
+- rong2 lu4 chang2 si1 ze2 jiu3 zong1 ， shan1 cui1 liang2 huai4 chuang2 cheng2 kong1 。
+- bai3 nian2 yi2 hen4 shui2 zhao1 xi3 ， ta1 ri4 zhu1 lang2 you3 fu4 feng1 。
 
 ## 注释
 

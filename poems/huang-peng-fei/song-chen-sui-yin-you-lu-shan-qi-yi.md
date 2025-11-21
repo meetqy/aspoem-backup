@@ -6,10 +6,10 @@ titleSlug: song-chen-sui-yin-you-lu-shan-qi-yi
 author: 黄鵬飛
 authorPinyin: huang2 peng2 fei1
 authorSlug: huang-peng-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: zhong-xiang-qiao
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 標名何所謂，物色正相當。
-- 堆雪酴醿潔，披風菡蓞香。
-- 菊從秋後發，梅向臘前芳。
-- 眼界無多地，縱横亘十方。
+- 修證彼何人，有國號衆香。
+- 此境了不殊，沉檀藹飛揚。
 
 ## 拼音
 
-- biao1 ming2 he2 suo3 wei4 ， wu4 se4 zheng4 xiang1 dang1 。
-- dui1 xue3 tu2 mi2 jie2 ， pi1 feng1 han4 dan4 xiang1 。
-- ju2 cong2 qiu1 hou4 fa1 ， mei2 xiang4 la4 qian2 fang1 。
-- yan3 jie4 wu2 duo1 di4 ， zong4 heng2 gen4 shi2 fang1 。
+- xiu1 zheng4 bi3 he2 ren2 ， you3 guo2 hao4 zhong4 xiang1 。
+- ci3 jing4 le0 bu4 shu1 ， chen2 tan2 ai3 fei1 yang2 。
 
 ## 注释
 

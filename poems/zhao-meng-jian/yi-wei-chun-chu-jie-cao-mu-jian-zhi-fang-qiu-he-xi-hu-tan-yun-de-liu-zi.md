@@ -6,10 +6,10 @@ titleSlug: yi-wei-chun-chu-jie-cao-mu-jian-zhi-fang-qiu-he-xi-hu-tan-yun-de-liu-
 author: 趙孟堅
 authorPinyin: zhao4 meng4 jian1
 authorSlug: zhao-meng-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

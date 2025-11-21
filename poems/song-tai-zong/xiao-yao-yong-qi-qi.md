@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-qi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 逍遥名有理，得一便知空。
-- 道本皆深邃，凡爲不易窮。
-- 品流才雅淡，格致意潜通。
-- 救世傳相益，因成順八風。
+- 難求的當問愚癡，那箇堪言好事知。
+- 名利猛貪無有足，多端動止沒規儀。
+- 浮生不實將何用，欲把非常亂作爲。
+- 謾語饒教能配類，一朝患害殢他誰。
 
 ## 拼音
 
-- xiao1 yao2 ming2 you3 li3 ， de2 yi2 bian4 zhi1 kong1 。
-- dao4 ben3 jie1 shen1 sui4 ， fan2 wei2 bu2 yi4 qiong2 。
-- pin3 liu2 cai2 ya3 dan4 ， ge2 zhi4 yi4 qian2 tong1 。
-- jiu4 shi4 chuan2 xiang1 yi4 ， yin1 cheng2 shun4 ba1 feng1 。
+- nan2 qiu2 de0 dang1 wen4 yu2 chi1 ， na4 ge4 kan1 yan2 hao3 shi4 zhi1 。
+- ming2 li4 meng3 tan1 wu2 you3 zu2 ， duo1 duan1 dong4 zhi3 mei2 gui1 yi2 。
+- fu2 sheng1 bu4 shi2 jiang1 he2 yong4 ， yu4 ba3 fei1 chang2 luan4 zuo4 wei2 。
+- man2 yu3 rao2 jiao4 neng2 pei4 lei4 ， yi4 zhao1 huan4 hai4 ti4 ta1 shui2 。
 
 ## 注释
 

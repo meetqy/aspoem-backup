@@ -6,10 +6,10 @@ titleSlug: cui-jiao-ting
 author: 吳某
 authorPinyin: wu2 mou3
 authorSlug: wu-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: za-shi-si-shou-qi-si
 author: 王中立
 authorPinyin: wang2 zhong1 li4
 authorSlug: wang-zhong-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

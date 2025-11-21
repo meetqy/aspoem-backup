@@ -6,10 +6,10 @@ titleSlug: pu-wei-xu-gu-xian-sheng-zuo-yu-bao-ma-xian-sheng-you-shi-jian-chou-ji
 author: 龔開
 authorPinyin: gong1 kai1
 authorSlug: gong-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 亦無得失亦無言，動即施功靜即眠。
-- 驅遣赤牛耕宇宙，分張玉粒種山川。
-- 栽培不憚勞千日，服食須知活萬年。
-- 今日示君君好信，教君見世作神仙。
+- 因攜琴劍下煙蘿，何幸今朝喜暫過。
+- 貌相本來猶自可，針醫偏更効無多。
+- 仙經已讀三千卷，古法曾持十二科。
+- 些小道功如不信，金堦捨手試看麽。
 
 ## 拼音
 
-- yi4 wu2 de2 shi1 yi4 wu2 yan2 ， dong4 ji2 shi1 gong1 jing4 ji2 mian2 。
-- qu1 qian3 chi4 niu2 geng1 yu3 zhou4 ， fen1 zhang1 yu4 li4 zhong3 shan1 chuan1 。
-- zai1 pei2 bu2 dan4 lao2 qian1 ri4 ， fu2 shi2 xu1 zhi1 huo2 wan4 nian2 。
-- jin1 ri4 shi4 jun1 jun1 hao3 xin4 ， jiao4 jun1 jian4 shi4 zuo4 shen2 xian1 。
+- yin1 xie2 qin2 jian4 xia4 yan1 luo2 ， he2 xing4 jin1 zhao1 xi3 zan4 guo4 。
+- mao4 xiang4 ben3 lai2 you2 zi4 ke3 ， zhen1 yi1 pian1 geng4 xiao4 wu2 duo1 。
+- xian1 jing1 yi3 du2 san1 qian1 juan4 ， gu3 fa3 ceng2 chi2 shi2 er4 ke1 。
+- xie1 xiao3 dao4 gong1 ru2 bu2 xin4 ， jin1 jie1 she3 shou3 shi4 kan4 mo2 。
 
 ## 注释
 

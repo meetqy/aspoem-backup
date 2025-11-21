@@ -1,26 +1,26 @@
 ---
 id: chen-zao-ji-zhang-shou-zhong-si-shi-shou-qi-yi
-title: 寄張守仲思十首  其一
-titlePinyin: ji4 zhang1 shou3 zhong4 si1 shi2 shou3     qi2 yi1
+title: 寄張守仲思十首  其一○
+titlePinyin: ji4 zhang1 shou3 zhong4 si1 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-zhang-shou-zhong-si-shi-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一思交好一悲悽，楚嶠吳山夢到迷。
-- 怕說萬山天樣遠，房陵更在萬山西。
+- 詩社同盟欲二年，吮宮含羽飽周旋。
+- 儀真又屬風騷將，定喚閑身續此絃。
 
 ## 拼音
 
-- yi4 si1 jiao1 hao3 yi4 bei1 qi1 ， chu3 jiao4 wu2 shan1 meng4 dao4 mi2 。
-- pa4 shuo1 wan4 shan1 tian1 yang4 yuan3 ， fang2 ling2 geng4 zai4 wan4 shan1 xi1 。
+- shi1 she4 tong2 meng2 yu4 er4 nian2 ， shun3 gong1 han2 yu3 bao3 zhou1 xuan2 。
+- yi2 zhen1 you4 shu3 feng1 sao1 jiang1 ， ding4 huan4 xian2 shen1 xu4 ci3 xian2 。
 
 ## 注释
 

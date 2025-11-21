@@ -6,10 +6,10 @@ titleSlug: song-sun-zheng-zhong-chen-yi-cheng-du-xiao-cao
 author: 楊天惠
 authorPinyin: yang2 tian1 hui4
 authorSlug: yang-tian-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

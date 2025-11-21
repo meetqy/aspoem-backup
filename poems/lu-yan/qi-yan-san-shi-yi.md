@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 誰知神水玉華池，中有長生性命基。
-- 運用須憑龍與虎，抽添全藉坎兼離。
-- 晨昏點盡黃金粉，頃刻修成玉石脂。
-- 齋戒餌之千日後，等閑輕舉上雲梯。
+- 五岳灘頭景象新，仁人方達杳冥身。
+- 天綱運轉三元淨，地脈通來萬物生。
+- 自曉谷神通此道，誰將理性欲修真。
+- 明明說向中黃路，霹靂聲中自得神。
 
 ## 拼音
 
-- shui2 zhi1 shen2 shui3 yu4 hua2 chi2 ， zhong1 you3 chang2 sheng1 xing4 ming4 ji1 。
-- yun4 yong4 xu1 ping2 long2 yu3 hu3 ， chou1 tian1 quan2 jie4 kan3 jian1 li2 。
-- chen2 hun1 dian3 jin4 huang2 jin1 fen3 ， qing3 ke4 xiu1 cheng2 yu4 shi2 zhi1 。
-- zhai1 jie4 er3 zhi1 qian1 ri4 hou4 ， deng3 xian2 qing1 ju3 shang4 yun2 ti1 。
+- wu3 yue4 tan1 tou2 jing3 xiang4 xin1 ， ren2 ren2 fang1 da2 yao3 ming2 shen1 。
+- tian1 gang1 yun4 zhuan3 san1 yuan2 jing4 ， di4 mai4 tong1 lai2 wan4 wu4 sheng1 。
+- zi4 xiao3 gu3 shen2 tong1 ci3 dao4 ， shui2 jiang1 li3 xing4 yu4 xiu1 zhen1 。
+- ming2 ming2 shuo1 xiang4 zhong1 huang2 lu4 ， pi1 li4 sheng1 zhong1 zi4 de2 shen2 。
 
 ## 注释
 

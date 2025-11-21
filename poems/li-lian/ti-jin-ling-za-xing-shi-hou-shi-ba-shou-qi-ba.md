@@ -6,10 +6,10 @@ titleSlug: ti-jin-ling-za-xing-shi-hou-shi-ba-shou-qi-ba
 author: 李璉
 authorPinyin: li3 lian3
 authorSlug: li-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

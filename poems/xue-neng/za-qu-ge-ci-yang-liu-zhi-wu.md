@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 潭上江邊嫋嫋垂，日高風靜絮相隨。
-- 青樓一樹無人見，正是女郎眠覺時。
+- 朝陽晴照綠楊烟，一別通波十七年。
+- 應有舊枝無處覓，萬株風裏卓旌旃。
 
 ## 拼音
 
-- tan2 shang4 jiang1 bian1 niao3 niao3 chui2 ， ri4 gao1 feng1 jing4 xu4 xiang1 sui2 。
-- qing1 lou2 yi2 shu4 wu2 ren2 jian4 ， zheng4 shi4 nü3 lang2 mian2 jue2 shi2 。
+- chao2 yang2 qing2 zhao4 lü4 yang2 yan1 ， yi4 bie2 tong1 bo1 shi2 qi1 nian2 。
+- ying1 you3 jiu4 zhi1 wu2 chu3 mi4 ， wan4 zhu1 feng1 li3 zhuo2 jing1 zhan1 。
 
 ## 注释
 

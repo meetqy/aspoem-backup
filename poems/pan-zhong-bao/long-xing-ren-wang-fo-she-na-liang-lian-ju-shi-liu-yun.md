@@ -6,10 +6,10 @@ titleSlug: long-xing-ren-wang-fo-she-na-liang-lian-ju-shi-liu-yun
 author: 潘仲寶
 authorPinyin: pan1 zhong4 bao3
 authorSlug: pan-zhong-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

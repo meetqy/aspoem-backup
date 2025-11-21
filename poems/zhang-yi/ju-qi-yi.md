@@ -3,22 +3,22 @@ id: zhang-yi-ju-qi-yi
 title: 句  其一
 titlePinyin: ju4     qi2 yi1
 titleSlug: ju-qi-yi
-author: 張鎰
+author: 張逸
 authorPinyin: zhang1 yi4
 authorSlug: zhang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山中宰相晉遺民，下視雄特何僕臣。
+- 一夜碧瀾堂上坐，直疑身在水晶宮。
 
 ## 拼音
 
-- shan1 zhong1 zai3 xiang4 jin4 yi2 min2 ， xia4 shi4 xiong2 te4 he2 pu2 chen2 。
+- yi2 ye4 bi4 lan2 tang2 shang4 zuo4 ， zhi2 yi2 shen1 zai4 shui3 jing1 gong1 。
 
 ## 注释
 

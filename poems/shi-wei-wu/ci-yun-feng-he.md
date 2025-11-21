@@ -6,25 +6,25 @@ titleSlug: ci-yun-feng-he
 author: 釋惟晤
 authorPinyin: shi4 wei2 wu4
 authorSlug: shi-wei-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道安獨繼襄陽踵，詩好慵窺霅晝評。
-- 竹屋數間經幾載，草衣三事傲平生。
-- 縱陪林下收孤迹，難學人間走大名。
-- 燈火已殘譚未倦，曉風斜雨打窗聲。
+- 白髮東山老，青林西塢歸。
+- 聽猿時駐錫，厲水自褰衣。
+- 高論才難敵，孤蹤行亦稀。
+- 慚君寄樵采，佳句出巖扉。
 
 ## 拼音
 
-- dao4 an1 du2 ji4 xiang1 yang2 zhong3 ， shi1 hao3 yong1 kui1 zha4 zhou4 ping2 。
-- zhu2 wu1 shu4 jian4 jing1 ji1 zai4 ， cao3 yi1 san1 shi4 ao4 ping2 sheng1 。
-- zong4 pei2 lin2 xia4 shou1 gu1 ji4 ， nan2 xue2 ren2 jian4 zou3 da4 ming2 。
-- deng1 huo3 yi3 can2 tan2 wei4 juan4 ， xiao3 feng1 xie2 yu3 da3 chuang1 sheng1 。
+- bai2 fa4 dong1 shan1 lao3 ， qing1 lin2 xi1 wu4 gui1 。
+- ting1 yuan2 shi2 zhu4 xi1 ， li4 shui3 zi4 qian1 yi1 。
+- gao1 lun4 cai2 nan2 di2 ， gu1 zong1 xing2 yi4 xi1 。
+- can2 jun1 ji4 qiao2 cai3 ， jia1 ju4 chu1 yan2 fei1 。
 
 ## 注释
 

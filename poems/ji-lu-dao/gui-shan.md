@@ -6,10 +6,10 @@ titleSlug: gui-shan
 author: 季履道
 authorPinyin: ji4 lü3 dao4
 authorSlug: ji-lu-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhao-da-jian-shi-shang-di-yi-bai-yi-shi-jiu
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

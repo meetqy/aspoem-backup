@@ -6,10 +6,10 @@ titleSlug: yu-hai-ge
 author: 柳永
 authorPinyin: liu3 yong3
 authorSlug: liu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

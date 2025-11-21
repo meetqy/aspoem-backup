@@ -6,9 +6,9 @@ titleSlug: ji-mei-zhou-shou
 author: 張致遠
 authorPinyin: zhang1 zhi4 yuan3
 authorSlug: zhang-zhi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

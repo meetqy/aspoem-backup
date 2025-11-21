@@ -6,25 +6,25 @@ titleSlug: zi-he
 author: 李曾伯
 authorPinyin: li3 ceng2 bo2
 authorSlug: li-ceng-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一壑馮夷宅，五丁盤古開。
-- 天將作甘澍，地豈著浮埃。
-- 梭化雷陂去，槎乘星渚來。
-- 猶疑真隠在，搜訪莫徘徊。
+- 老態龍鍾雪滿頭，黄花招我對清秋。
+- 東籬幸可安吾土，南服何堪典此州。
+- 莫憶風巾游漢渚，早呼雨笠訪滄洲。
+- 明年把酒知何處，預約家僮釀蟻浮。
 
 ## 拼音
 
-- yi2 he4 feng2 yi2 zhai2 ， wu3 ding1 pan2 gu3 kai1 。
-- tian1 jiang1 zuo4 gan1 shu4 ， di4 qi3 zhu4 fu2 ai1 。
-- suo1 hua4 lei2 bei1 qu4 ， cha2 cheng2 xing1 zhu3 lai2 。
-- you2 yi2 zhen1 yin3 zai4 ， sou1 fang3 mo4 pai2 huai2 。
+- lao3 tai4 long2 zhong1 xue3 man3 tou2 ， huang2 hua1 zhao1 wo3 dui4 qing1 qiu1 。
+- dong1 li2 xing4 ke3 an1 wu2 tu3 ， nan2 fu2 he2 kan1 dian3 ci3 zhou1 。
+- mo4 yi4 feng1 jin1 you2 han4 zhu3 ， zao3 hu1 yu3 li4 fang3 cang1 zhou1 。
+- ming2 nian2 ba3 jiu3 zhi1 he2 chu3 ， yu4 yue1 jia1 tong2 niang4 yi3 fu2 。
 
 ## 注释
 

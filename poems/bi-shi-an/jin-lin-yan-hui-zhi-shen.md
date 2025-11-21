@@ -6,9 +6,9 @@ titleSlug: jin-lin-yan-hui-zhi-shen
 author: 畢士安
 authorPinyin: bi4 shi4 an1
 authorSlug: bi-shi-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

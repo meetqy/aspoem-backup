@@ -6,9 +6,9 @@ titleSlug: yu-fo
 author: 釋悟本
 authorPinyin: shi4 wu4 ben3
 authorSlug: shi-wu-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

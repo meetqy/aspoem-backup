@@ -1,26 +1,26 @@
 ---
 id: shi-chong-yue-song-gu-er-shi-wu-shou-qi-er
-title: 頌古二十五首  其二
-titlePinyin: song4 gu3 er4 shi2 wu3 shou3     qi2 er4
+title: 頌古二十五首  其二○
+titlePinyin: song4 gu3 er4 shi2 wu3 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-wu-shou-qi-er
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生心膽向人傾，過犯彌天已不輕。
-- 带累馬師胡亂後，至今錯認定盤星。
+- 出水何如未出水，蓮花荷葉有來由。
+- 定光金地遥招手，智者江陵暗點頭。
 
 ## 拼音
 
-- ping2 sheng1 xin1 dan3 xiang4 ren2 qing1 ， guo4 fan4 mi2 tian1 yi3 bu4 qing1 。
-- dai4 lei4 ma3 shi1 hu2 luan4 hou4 ， zhi4 jin1 cuo4 ren4 ding4 pan2 xing1 。
+- chu1 shui3 he2 ru2 wei4 chu1 shui3 ， lian2 hua1 he2 ye4 you3 lai2 you2 。
+- ding4 guang1 jin1 di4 yao2 zhao1 shou3 ， zhi4 zhe3 jiang1 ling2 an4 dian3 tou2 。
 
 ## 注释
 

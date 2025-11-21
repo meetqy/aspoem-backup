@@ -6,10 +6,10 @@ titleSlug: jia-ri-guo-long-yin-shan-you-yi-qian-ye-bai-mei-xian-zhe-zhe-cheng-bi
 author: 朱晞顔
 authorPinyin: zhu1 xi1 yan2
 authorSlug: zhu-xi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

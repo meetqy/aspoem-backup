@@ -6,10 +6,10 @@ titleSlug: jia-xu-ting-dui-hou-dao-dong-xiao-bing-xu-jia-shou-xin-an-you-de-ji-j
 author: 汪立中
 authorPinyin: wang1 li4 zhong1
 authorSlug: wang-li-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

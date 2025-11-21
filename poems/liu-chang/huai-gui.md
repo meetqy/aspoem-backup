@@ -6,29 +6,33 @@ titleSlug: huai-gui
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 圖養始干祿，執官復辭親。
-- 外物與我違，幽懷安得仲。
-- 低徊畏簡書，苟且謀賤貧。
-- 碌碌已無期，規規徒自珍。
-- 秋風卷層雲，鴻雁知所賓。
-- 我獨無羽翰，不能絕飇塵。
+- 往昔佩觽日，童蒙幸相求。
+- 中間萬里别，倐忽二十秋。
+- 人事固契闊，歳華易如流。
+- 聞君尚黄綬，失意成白頭。
+- 奄速不可期，升沉亦難謀。
+- 寧知及門晚，忽辱從政優。
+- 感舊勞心腸，相從恨淹留。
+- 寄聲不盡意，何以紓離憂。
 
 ## 拼音
 
-- tu2 yang3 shi3 gan1 lu4 ， zhi2 guan1 fu4 ci2 qin1 。
-- wai4 wu4 yu3 wo3 wei2 ， you1 huai2 an1 de2 zhong4 。
-- di1 huai2 wei4 jian3 shu1 ， gou3 qie3 mou2 jian4 pin2 。
-- lu4 lu4 yi3 wu2 qi1 ， gui1 gui1 tu2 zi4 zhen1 。
-- qiu1 feng1 juan4 ceng2 yun2 ， hong2 yan4 zhi1 suo3 bin1 。
-- wo3 du2 wu2 yu3 han4 ， bu4 neng2 jue2 biao1 chen2 。
+- wang3 xi1 pei4 xi1 ri4 ， tong2 meng2 xing4 xiang1 qiu2 。
+- zhong1 jian4 wan4 li3 bie2 ， shu1 hu1 er4 shi2 qiu1 。
+- ren2 shi4 gu4 qi4 kuo4 ， sui4 hua2 yi4 ru2 liu2 。
+- wen2 jun1 shang4 huang2 shou4 ， shi1 yi4 cheng2 bai2 tou2 。
+- yan3 su4 bu4 ke3 qi1 ， sheng1 chen2 yi4 nan2 mou2 。
+- ning2 zhi1 ji2 men2 wan3 ， hu1 ru3 cong2 zheng4 you1 。
+- gan3 jiu4 lao2 xin1 chang2 ， xiang1 cong2 hen4 yan1 liu2 。
+- ji4 sheng1 bu2 jin4 yi4 ， he2 yi3 shu1 li2 you1 。
 
 ## 注释
 

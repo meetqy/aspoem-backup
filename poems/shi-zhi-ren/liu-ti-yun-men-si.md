@@ -6,10 +6,10 @@ titleSlug: liu-ti-yun-men-si
 author: 釋智仁
 authorPinyin: shi4 zhi4 ren2
 authorSlug: shi-zhi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

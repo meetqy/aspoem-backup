@@ -6,31 +6,25 @@ titleSlug: tan-mei
 author: 吳可
 authorPinyin: wu2 ke3
 authorSlug: wu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 探春逼殘歲，幽香度寒原。
-- 欲看枝橫水，會待月掛村。
-- 誰憐槁木中，妙有春風根。
-- 孤芳自一丘，不受烟霧昏。
-- 飽霜分疏瘦，下笑浪蕊繁。
-- 喜無蜂蝶知，那與桃李言。
-- 要當碧雲暮，殷勤賦離魂。
+- 柳未搖金草未芽，尋幽逸興屬詩家。
+- 不辭山下五六里，爲愛枝頭三四花。
+- 噴月清香猶吝惜，印溪疏影恣橫斜。
+- 固應羞澀怯寒峭，結子成陰已有涯。
 
 ## 拼音
 
-- tan4 chun1 bi1 can2 sui4 ， you1 xiang1 du4 han2 yuan2 。
-- yu4 kan4 zhi1 heng2 shui3 ， hui4 dai4 yue4 gua4 cun1 。
-- shui2 lian2 gao3 mu4 zhong1 ， miao4 you3 chun1 feng1 gen1 。
-- gu1 fang1 zi4 yi4 qiu1 ， bu2 shou4 yan1 wu4 hun1 。
-- bao3 shuang1 fen1 shu1 shou4 ， xia4 xiao4 lang4 rui3 fan2 。
-- xi3 wu2 feng1 die2 zhi1 ， na4 yu3 tao2 li3 yan2 。
-- yao4 dang1 bi4 yun2 mu4 ， yin1 qin2 fu4 li2 hun2 。
+- liu3 wei4 yao2 jin1 cao3 wei4 ya2 ， xun2 you1 yi4 xing1 shu3 shi1 jia1 。
+- bu4 ci2 shan1 xia4 wu3 liu4 li3 ， wei2 ai4 zhi1 tou2 san1 si4 hua1 。
+- pen1 yue4 qing1 xiang1 you2 lin4 xi1 ， yin4 xi1 shu1 ying3 zi4 heng2 xie2 。
+- gu4 ying1 xiu1 se4 qie4 han2 qiao4 ， jie2 zi3 cheng2 yin1 yi3 you3 ya2 。
 
 ## 注释
 

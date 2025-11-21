@@ -6,10 +6,10 @@ titleSlug: lu-ling-ke-guan-yu-ji-deng-lou-yan-huai-ji-you
 author: 嚴羽
 authorPinyin: yan2 yu3
 authorSlug: yan-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

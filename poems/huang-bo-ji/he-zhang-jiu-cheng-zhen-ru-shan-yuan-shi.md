@@ -6,9 +6,9 @@ titleSlug: he-zhang-jiu-cheng-zhen-ru-shan-yuan-shi
 author: 黄伯劑
 authorPinyin: huang2 bo2 ji4
 authorSlug: huang-bo-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

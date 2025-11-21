@@ -6,10 +6,10 @@ titleSlug: dong-ri
 author: 翁定遠
 authorPinyin: weng1 ding4 yuan3
 authorSlug: weng-ding-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

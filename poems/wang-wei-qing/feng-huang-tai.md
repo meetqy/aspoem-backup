@@ -6,10 +6,10 @@ titleSlug: feng-huang-tai
 author: 王渭卿
 authorPinyin: wang2 wei4 qing1
 authorSlug: wang-wei-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

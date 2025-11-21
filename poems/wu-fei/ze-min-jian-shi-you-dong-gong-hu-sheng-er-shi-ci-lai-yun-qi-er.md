@@ -6,10 +6,10 @@ titleSlug: ze-min-jian-shi-you-dong-gong-hu-sheng-er-shi-ci-lai-yun-qi-er
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

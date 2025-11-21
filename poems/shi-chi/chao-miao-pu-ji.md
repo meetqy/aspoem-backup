@@ -6,10 +6,10 @@ titleSlug: chao-miao-pu-ji
 author: 釋持
 authorPinyin: shi4 chi2
 authorSlug: shi-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

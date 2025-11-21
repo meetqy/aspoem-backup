@@ -6,25 +6,25 @@ titleSlug: zeng-yi-shang-ren
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 細褥紗幮卧軟綾，豈知秋色到襄陵。
-- 饑烏乍定門門樹，寶塔新晴夜夜燈。
-- 晚菜聊充肉一臠，殘林才當飯三升。
-- 平生積嬾成驕惰，慚媿空房獨坐僧。
+- 偶從嶺嶠轉江東，得向疏山見一公。
+- 所至共游常草草，爾來相遇更匆匆。
+- 晁郎埋骨虛無裏，璧老收聲蒼莽中。
+- 二十餘年往還事，半隨秋雁落寒空。
 
 ## 拼音
 
-- xi4 ru4 sha1 chu2 wo4 ruan3 ling2 ， qi3 zhi1 qiu1 se4 dao4 xiang1 ling2 。
-- ji1 wu1 zha4 ding4 men2 men2 shu4 ， bao3 ta3 xin1 qing2 ye4 ye4 deng1 。
-- wan3 cai4 liao2 chong1 rou4 yi4 luan2 ， can2 lin2 cai2 dang1 fan4 san1 sheng1 。
-- ping2 sheng1 ji1 lan3 cheng2 jiao1 duo4 ， can2 kui4 kong4 fang2 du2 zuo4 seng1 。
+- ou3 cong2 ling3 jiao4 zhuan3 jiang1 dong1 ， de2 xiang4 shu1 shan1 jian4 yi4 gong1 。
+- suo3 zhi4 gong4 you2 chang2 cao3 cao3 ， er3 lai2 xiang1 yu4 geng4 cong1 cong1 。
+- chao2 lang2 mai2 gu3 xu1 wu2 li3 ， bi4 lao3 shou1 sheng1 cang1 mang3 zhong1 。
+- er4 shi2 yu2 nian2 wang3 huan2 shi4 ， ban4 sui2 qiu1 yan4 luo4 han2 kong1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-wen-tai-shi-zai-zhi-zheng-gui-xi-du-er-shou-qi-er
 author: 陸佃
 authorPinyin: lu4 dian4
 authorSlug: lu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

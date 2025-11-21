@@ -6,10 +6,10 @@ titleSlug: jing-xiang-dong
 author: 侍其備
 authorPinyin: shi4 qi2 bei4
 authorSlug: shi-qi-bei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-jun-shou-zhang-zong-cheng-qi-san
 author: 蕭元之
 authorPinyin: xiao1 yuan2 zhi1
 authorSlug: xiao-yuan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

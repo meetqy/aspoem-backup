@@ -6,10 +6,10 @@ titleSlug: tong-wen-meng-gu-ji-liu-zi-shu
 author: 趙必瞻
 authorPinyin: zhao4 bi4 zhan1
 authorSlug: zhao-bi-zhan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

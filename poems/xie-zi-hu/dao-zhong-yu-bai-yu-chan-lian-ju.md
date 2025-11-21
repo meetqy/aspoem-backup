@@ -6,10 +6,10 @@ titleSlug: dao-zhong-yu-bai-yu-chan-lian-ju
 author: 謝紫壺
 authorPinyin: xie4 zi3 hu2
 authorSlug: xie-zi-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

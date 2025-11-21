@@ -6,10 +6,10 @@ titleSlug: xun-zi-huai-kang-jiu-guan-gui-jin-yu-xun-er-gui-song-xing-er-jue-ju-q
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zeng-chen-chang-weng
 author: 謝天民
 authorPinyin: xie4 tian1 min2
 authorSlug: xie-tian-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

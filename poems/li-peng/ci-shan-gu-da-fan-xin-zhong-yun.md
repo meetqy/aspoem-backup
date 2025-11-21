@@ -6,10 +6,10 @@ titleSlug: ci-shan-gu-da-fan-xin-zhong-yun
 author: 李彭
 authorPinyin: li3 peng2
 authorSlug: li-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

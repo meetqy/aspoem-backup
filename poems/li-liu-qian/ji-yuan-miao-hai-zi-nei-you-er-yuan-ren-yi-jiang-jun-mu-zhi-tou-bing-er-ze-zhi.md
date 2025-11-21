@@ -6,10 +6,10 @@ titleSlug: ji-yuan-miao-hai-zi-nei-you-er-yuan-ren-yi-jiang-jun-mu-zhi-tou-bing-
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

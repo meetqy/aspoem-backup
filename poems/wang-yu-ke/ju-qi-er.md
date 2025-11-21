@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 王予可
 authorPinyin: wang2 yu3 ke3
 authorSlug: wang-yu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

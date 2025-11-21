@@ -6,10 +6,10 @@ titleSlug: liu-yue-er-shi-er-ri-bing-zhong-de-yu-dun-jue-shen-ke-qu-ti-xin-ran-q
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

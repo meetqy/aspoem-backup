@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-yi-wu
-title: 證道歌  其一五
-titlePinyin: zheng4 dao4 ge1     qi2 yi1 wu3
+title: 證道歌  其一五○
+titlePinyin: zheng4 dao4 ge1     qi2 yi1 wu3 ○
 titleSlug: zheng-dao-ge-qi-yi-wu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 頓覺了，如來禪，豈獨東方與竺乾。
-- 充塞虛空無空缺，一毛孔裏現三千。
+- 非色非心非行業，休指黄花并綠葉。
+- 說時似有證時無，從此家邦大安貼。
 
 ## 拼音
 
-- dun4 jue2 le0 ， ru2 lai2 shan4 ， qi3 du2 dong1 fang1 yu3 zhu2 qian2 。
-- chong1 se4 xu1 kong1 wu2 kong4 que1 ， yi4 mao2 kong3 li3 xian4 san1 qian1 。
+- fei1 se4 fei1 xin1 fei1 xing2 ye4 ， xiu1 zhi3 huang2 hua1 bing4 lü4 ye4 。
+- shuo1 shi2 si4 you3 zheng4 shi2 wu2 ， cong2 ci3 jia1 bang1 da4 an1 tie1 。
 
 ## 注释
 

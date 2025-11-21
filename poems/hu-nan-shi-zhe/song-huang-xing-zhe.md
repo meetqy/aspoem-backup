@@ -6,10 +6,10 @@ titleSlug: song-huang-xing-zhe
 author: 湖南使者
 authorPinyin: hu2 nan2 shi3 zhe3
 authorSlug: hu-nan-shi-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

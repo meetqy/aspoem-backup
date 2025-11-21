@@ -6,10 +6,10 @@ titleSlug: da-yun-shan-shi-wen-zong-men-san-yin
 author: 南修造
 authorPinyin: nan2 xiu1 zao4
 authorSlug: nan-xiu-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

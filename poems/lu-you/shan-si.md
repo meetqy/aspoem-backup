@@ -6,25 +6,25 @@ titleSlug: shan-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 籃輿送客過江村，小寺無人半掩門。
-- 古佛負牆塵漠漠，孤燈照殿雨昏昏。
-- 喜投禪榻聊尋夢，懶爲啼猿更斷魂。
-- 要識人間盛衰理，岸沙君看去年痕。
+- 路盡初逢寺，行行獨叩扉。
+- 民貧稀送供，僧老少完衣。
+- 日正樓鐘動，溪深藥草肥。
+- 吾衰亦久矣，捨此欲疇依。
 
 ## 拼音
 
-- lan2 yu2 song4 ke4 guo4 jiang1 cun1 ， xiao3 si4 wu2 ren2 ban4 yan3 men2 。
-- gu3 fo2 fu4 qiang2 chen2 mo4 mo4 ， gu1 deng1 zhao4 dian4 yu3 hun1 hun1 。
-- xi3 tou2 shan4 ta4 liao2 xun2 meng4 ， lan3 wei2 ti2 yuan2 geng4 duan4 hun2 。
-- yao4 shi2 ren2 jian4 sheng4 shuai1 li3 ， an4 sha1 jun1 kan4 qu4 nian2 hen2 。
+- lu4 jin4 chu1 feng2 si4 ， hang2 hang2 du2 kou4 fei1 。
+- min2 pin2 xi1 song4 gong4 ， seng1 lao3 shao4 wan2 yi1 。
+- ri4 zheng4 lou2 zhong1 dong4 ， xi1 shen1 yao4 cao3 fei2 。
+- wu2 shuai1 yi4 jiu3 yi3 ， she3 ci3 yu4 chou2 yi1 。
 
 ## 注释
 

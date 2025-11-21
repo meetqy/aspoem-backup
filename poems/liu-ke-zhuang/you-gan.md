@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘羯如蜂暫寄窠，十年南北問干戈。
-- 穹廬昔少曾居汴，莫府今猶未過河。
-- 越石不生誰可將，奉春再出亦難和。
-- 憂時元是詩人職，莫怪吟中感慨多。
+- 我與昔賢生異世，晝思夜夢兩微茫。
+- 掉頭隨霧入東海，被髮乘風下大荒。
+- 仙伯已尋丹竈地，武皇亦返白雲鄉。
+- 惟應詩卷留天地，寶氣雖埋斗有光。
 
 ## 拼音
 
-- can2 jie2 ru2 feng1 zan4 ji4 ke1 ， shi2 nian2 nan2 bei3 wen4 gan1 ge1 。
-- qiong2 lu2 xi1 shao3 ceng2 ju1 bian4 ， mo4 fu3 jin1 you2 wei4 guo4 he2 。
-- yue4 shi2 bu4 sheng1 shui2 ke3 jiang1 ， feng4 chun1 zai4 chu1 yi4 nan2 he2 。
-- you1 shi2 yuan2 shi4 shi1 ren2 zhi2 ， mo4 guai4 yin2 zhong1 gan3 kai3 duo1 。
+- wo3 yu3 xi1 xian2 sheng1 yi4 shi4 ， zhou4 si1 ye4 meng4 liang3 wei1 mang2 。
+- diao4 tou2 sui2 wu4 ru4 dong1 hai3 ， bei4 fa4 cheng2 feng1 xia4 da4 huang1 。
+- xian1 bo2 yi3 xun2 dan1 zao4 di4 ， wu3 huang2 yi4 fan3 bai2 yun2 xiang1 。
+- wei2 ying1 shi1 juan4 liu2 tian1 di4 ， bao3 qi4 sui1 mai2 dou4 you3 guang1 。
 
 ## 注释
 

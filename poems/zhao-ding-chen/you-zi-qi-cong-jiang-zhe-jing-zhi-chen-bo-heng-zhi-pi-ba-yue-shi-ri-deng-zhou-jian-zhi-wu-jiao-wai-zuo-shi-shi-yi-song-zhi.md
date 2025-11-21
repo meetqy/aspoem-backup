@@ -6,10 +6,10 @@ titleSlug: you-zi-qi-cong-jiang-zhe-jing-zhi-chen-bo-heng-zhi-pi-ba-yue-shi-ri-d
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: ye-xing
 author: 汪莘
 authorPinyin: wang1 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倚天長劍爲誰收，欲獻君王鎮九州。
-- 世事漫隨紅日下，壯心空逐碧江流。
-- 雁橫西塞偏愁客，菊綻東籬始當秋。
-- 抖擻向來塵土夢，便提蓑笠上漁舟。
+- 簟紋如水浸蟾光，睡覺湖邊月半牀。
+- 道是廣寒疑不是，月中那得藕花香。
 
 ## 拼音
 
-- yi3 tian1 chang2 jian4 wei2 shui2 shou1 ， yu4 xian4 jun1 wang2 zhen4 jiu3 zhou1 。
-- shi4 shi4 man4 sui2 hong2 ri4 xia4 ， zhuang4 xin1 kong1 zhu2 bi4 jiang1 liu2 。
-- yan4 heng2 xi1 sai1 pian1 chou2 ke4 ， ju2 zhan4 dong1 li2 shi3 dang1 qiu1 。
-- dou3 sou4 xiang4 lai2 chen2 tu3 meng4 ， bian4 ti2 suo1 li4 shang4 yu2 zhou1 。
+- dian4 wen2 ru2 shui3 jin4 chan2 guang1 ， shui4 jue2 hu2 bian1 yue4 ban4 chuang2 。
+- dao4 shi4 guang3 han2 yi2 bu2 shi4 ， yue4 zhong1 na4 de2 ou3 hua1 xiang1 。
 
 ## 注释
 

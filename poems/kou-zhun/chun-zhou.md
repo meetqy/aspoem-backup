@@ -6,21 +6,21 @@ titleSlug: chun-zhou
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年長追遊興漸凋，況兼巴峽景蕭蕭。
-- 閑齋爲謝楊花到，時拂殘書慰寂寥。
+- 午晝花陰靜，春風數蝶飛。
+- 坐來生遠思，深院燕初歸。
 
 ## 拼音
 
-- nian2 chang2 zhui1 you2 xing1 jian4 diao1 ， kuang4 jian1 ba1 xia2 jing3 xiao1 xiao1 。
-- xian2 zhai1 wei2 xie4 yang2 hua1 dao4 ， shi2 fu2 can2 shu1 wei4 ji4 liao2 。
+- wu3 zhou4 hua1 yin1 jing4 ， chun1 feng1 shu4 die2 fei1 。
+- zuo4 lai2 sheng1 yuan3 si1 ， shen1 yuan4 yan4 chu1 gui1 。
 
 ## 注释
 

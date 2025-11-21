@@ -6,10 +6,10 @@ titleSlug: jian-dong-xiao-gong-yu-kang-zhi-lang-zhong-suo-ju-si-yong-dun-xuan
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-hai-shi-yi-yue-shi-san-ri-nan-jiao-ji-tian-zhai-gong-ji-shi-ci-tai
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

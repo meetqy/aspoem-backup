@@ -6,21 +6,21 @@ titleSlug: ci-yun-yu-tui-fu-chu-xi-qi-jue-ju-qi-yi
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太極光陰不計年，聖賢千古此周旋。
-- 九夷自陋吾何與，長在回瓢點瑟邊。
+- 蜀人誰不望西還，何事天公獨我慳。
+- 兩度來逢單閼歲，腥風血雨滿人間。
 
 ## 拼音
 
-- tai4 ji2 guang1 yin1 bu2 ji4 nian2 ， sheng4 xian2 qian1 gu3 ci3 zhou1 xuan2 。
-- jiu3 yi2 zi4 lou4 wu2 he2 yu3 ， chang2 zai4 hui2 piao2 dian3 se4 bian1 。
+- shu3 ren2 shui2 bu2 wang4 xi1 huan2 ， he2 shi4 tian1 gong1 du2 wo3 qian1 。
+- liang3 du4 lai2 feng2 dan1 e4 sui4 ， xing1 feng1 xue4 yu3 man3 ren2 jian4 。
 
 ## 注释
 

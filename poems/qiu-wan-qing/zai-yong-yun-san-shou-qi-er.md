@@ -6,21 +6,21 @@ titleSlug: zai-yong-yun-san-shou-qi-er
 author: 裘萬頃
 authorPinyin: qiu2 wan4 qing3
 authorSlug: qiu-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蕙帳一冬無苦寒，夢回長是日三竿。
-- 那知今夜剡溪路，月淡扁舟水滿灘。
+- 厭趨朝市元無夢，慣處山林似有情。
+- 圓覺楞嚴俱不解，維摩會下一書生。
 
 ## 拼音
 
-- hui4 zhang4 yi4 dong1 wu2 ku3 han2 ， meng4 hui2 chang2 shi4 ri4 san1 gan1 。
-- na4 zhi1 jin1 ye4 shan4 xi1 lu4 ， yue4 dan4 pian1 zhou1 shui3 man3 tan1 。
+- yan4 qu1 chao2 shi4 yuan2 wu2 meng4 ， guan4 chu3 shan1 lin2 si4 you3 qing2 。
+- yuan2 jue2 leng2 yan2 ju4 bu4 jie3 ， wei2 mo2 hui4 xia4 yi4 shu1 sheng1 。
 
 ## 注释
 

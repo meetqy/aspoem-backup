@@ -6,10 +6,10 @@ titleSlug: ji-song-ba-shi-wu-shou-qi-yi-si
 author: 釋妙倫
 authorPinyin: shi4 miao4 lun2
 authorSlug: shi-miao-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,6 +1,6 @@
 ---
 id: meng-guan-shan-zhong-da-you-ren
-title: 山中答友人
+title: 山中荅友人
 titlePinyin: shan1 zhong1 da2 you3 ren2
 titleSlug: shan-zhong-da-you-ren
 author: 孟貫
@@ -17,7 +17,7 @@ tags: []
 - 偶愛春山在，因循值暑時。
 - 風塵非所願，泉石本相宜。
 - 坐久松陰轉，吟餘蟬韻移。
-- 自慚疏野甚，多失故人期。
+- 自慙疎野甚，多失故人期。
 
 ## 拼音
 

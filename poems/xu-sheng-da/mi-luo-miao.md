@@ -6,10 +6,10 @@ titleSlug: mi-luo-miao
 author: 許晟大
 authorPinyin: xu1 sheng4 da4
 authorSlug: xu-sheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

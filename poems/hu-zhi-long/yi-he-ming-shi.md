@@ -6,10 +6,10 @@ titleSlug: yi-he-ming-shi
 author: 胡致隆
 authorPinyin: hu2 zhi4 long2
 authorSlug: hu-zhi-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,32 +1,32 @@
 ---
 id: teng-cen-he-tao-yuan-ming-yin-jiu-shi-qi-yi
-title: 和陶淵明飲酒詩  其一
-titlePinyin: he2 tao2 yuan1 ming2 yin3 jiu3 shi1     qi2 yi1
+title: 和陶淵明飲酒詩  其一○
+titlePinyin: he2 tao2 yuan1 ming2 yin3 jiu3 shi1     qi2 yi1 ○
 titleSlug: he-tao-yuan-ming-yin-jiu-shi-qi-yi
 author: 滕岑
 authorPinyin: teng2 cen2
 authorSlug: teng-cen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風浪渺平陸，吾行將安之。
-- 酒中有樂國，猶是太古時。
-- 孰云道里長，一觴自臻茲。
-- 不知有先死，况復憂與疑。
-- 何辭日一往，蟹螯正堪持。
+- 壯士志四方，小夫守一隅。
+- 所稟既殊科，所趣亦異塗。
+- 毋論賢與愚，等爲造物驅。
+- 豈如飲家流，一醉不願餘。
+- 兩忘適與莫，畢世醉鄉居。
 
 ## 拼音
 
-- feng1 lang4 miao3 ping2 lu4 ， wu2 xing2 jiang1 an1 zhi1 。
-- jiu3 zhong1 you3 le4 guo2 ， you2 shi4 tai4 gu3 shi2 。
-- shu2 yun2 dao4 li3 chang2 ， yi4 shang1 zi4 zhen1 zi1 。
-- bu4 zhi1 you3 xian1 si3 ， kuang4 fu4 you1 yu3 yi2 。
-- he2 ci2 ri4 yi4 wang3 ， xie4 ao2 zheng4 kan1 chi2 。
+- zhuang4 shi4 zhi4 si4 fang1 ， xiao3 fu1 shou3 yi4 yu2 。
+- suo3 bing3 ji4 shu1 ke1 ， suo3 qu4 yi4 yi4 tu2 。
+- wu2 lun4 xian2 yu3 yu2 ， deng3 wei2 zao4 wu4 qu1 。
+- qi3 ru2 yin3 jia1 liu2 ， yi2 zui4 bu2 yuan4 yu2 。
+- liang3 wang4 shi4 yu3 mo4 ， bi4 shi4 zui4 xiang1 ju1 。
 
 ## 注释
 

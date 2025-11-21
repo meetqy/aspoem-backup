@@ -6,10 +6,10 @@ titleSlug: xi-qiao-wan-xing
 author: 鄭協
 authorPinyin: zheng4 xie2
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: la-yue-er-shi-san-ri-qun-mu-shi-yuan-nei-han-ceng-long-tu-tong-ri-bai
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

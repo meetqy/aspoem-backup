@@ -6,25 +6,25 @@ titleSlug: lao-xue-an
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮冬短景苦匆忙，老學庵中日自長。
-- 名譽不如心自肯，文辭終與道相妨。
-- 吾心本自同天地，俗學何知溺粃糠。
-- 已與兒曹相約定，勿爲無益費年光。
+- 老學衡茅底，秋毫敢自欺。
+- 開編常默識，閉戶有餘師。
+- 大節艱危見，真心夢寐知。
+- 唐虞元在眼，生世未爲遲。
 
 ## 拼音
 
-- qiong2 dong1 duan3 jing3 ku3 cong1 mang2 ， lao3 xue2 an1 zhong1 ri4 zi4 chang2 。
-- ming2 yu4 bu4 ru2 xin1 zi4 ken3 ， wen2 ci2 zhong1 yu3 dao4 xiang1 fang2 。
-- wu2 xin1 ben3 zi4 tong2 tian1 di4 ， su2 xue2 he2 zhi1 ni4 bi3 kang1 。
-- yi3 yu3 er2 cao2 xiang1 yue1 ding4 ， wu4 wei2 wu2 yi4 fei4 nian2 guang1 。
+- lao3 xue2 heng2 mao2 di3 ， qiu1 hao2 gan3 zi4 qi1 。
+- kai1 bian1 chang2 mo4 shi2 ， bi4 hu4 you3 yu2 shi1 。
+- da4 jie2 jian1 wei1 jian4 ， zhen1 xin1 meng4 mei4 zhi1 。
+- tang2 yu2 yuan2 zai4 yan3 ， sheng1 shi4 wei4 wei2 chi2 。
 
 ## 注释
 

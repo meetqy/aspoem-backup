@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 五兵勿用，萬國咸安。
-- 告功圓蓋，受命雲壇。
-- 樂鳴鳳律，禮備雞竿。
-- 神光欲降，衆目遐觀。
+- 雲門孤竹，蒼璧黃琮。
+- 既祀天地，克配祖宗。
+- 虔修盛禮，仰荅玄功。
+- 神歸碧落，福降無窮。
 
 ## 拼音
 
-- wu3 bing1 wu4 yong4 ， wan4 guo2 xian2 an1 。
-- gao4 gong1 yuan2 gai4 ， shou4 ming4 yun2 tan2 。
-- le4 ming2 feng4 lü4 ， li3 bei4 ji1 gan1 。
-- shen2 guang1 yu4 jiang4 ， zhong4 mu4 xia2 guan1 。
+- yun2 men2 gu1 zhu2 ， cang1 bi4 huang2 cong2 。
+- ji4 si4 tian1 di4 ， ke4 pei4 zu3 zong1 。
+- qian2 xiu1 sheng4 li3 ， yang3 da2 xuan2 gong1 。
+- shen2 gui1 bi4 luo4 ， fu2 jiang4 wu2 qiong2 。
 
 ## 注释
 

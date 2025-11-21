@@ -6,10 +6,10 @@ titleSlug: ti-jiao-shan-si-bi
 author: 元掔
 authorPinyin: yuan2 qian1
 authorSlug: yuan-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

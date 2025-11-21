@@ -6,10 +6,10 @@ titleSlug: song-yang-si-hu
 author: 邢凱
 authorPinyin: xing2 kai3
 authorSlug: xing-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

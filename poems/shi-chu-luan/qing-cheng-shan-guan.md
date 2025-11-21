@@ -6,10 +6,10 @@ titleSlug: qing-cheng-shan-guan
 author: 釋楚巒
 authorPinyin: shi4 chu3 luan2
 authorSlug: shi-chu-luan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

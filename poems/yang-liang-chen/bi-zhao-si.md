@@ -6,10 +6,10 @@ titleSlug: bi-zhao-si
 author: 楊良臣
 authorPinyin: yang2 liang2 chen2
 authorSlug: yang-liang-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

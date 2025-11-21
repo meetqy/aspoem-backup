@@ -6,10 +6,10 @@ titleSlug: ju
 author: 董敦逸
 authorPinyin: dong3 dun1 yi4
 authorSlug: dong-dun-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

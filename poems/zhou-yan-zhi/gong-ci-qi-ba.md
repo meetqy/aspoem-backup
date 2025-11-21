@@ -1,26 +1,26 @@
 ---
 id: zhou-yan-zhi-gong-ci-qi-ba
-title: 宮詞  其八
-titlePinyin: gong1 ci2     qi2 ba1
+title: 宮詞  其八○
+titlePinyin: gong1 ci2     qi2 ba1 ○
 titleSlug: gong-ci-qi-ba
 author: 周彥質
 authorPinyin: zhou1 yan4 zhi4
 authorSlug: zhou-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬里封疆匝普天，君王神武不開邊。
-- 河西房下文書少，樞府經年罷密宣。
+- 太平天子絕畋遊，結束宮娥馬打毬。
+- 韶樂引來花錦隊，男兒跪拜謝頭籌。
 
 ## 拼音
 
-- wan4 li3 feng1 jiang1 za1 pu3 tian1 ， jun1 wang2 shen2 wu3 bu4 kai1 bian1 。
-- he2 xi1 fang2 xia4 wen2 shu1 shao3 ， shu1 fu3 jing1 nian2 ba4 mi4 xuan1 。
+- tai4 ping2 tian1 zi3 jue2 tian2 you2 ， jie2 shu4 gong1 e2 ma3 da3 qiu2 。
+- shao2 le4 yin3 lai2 hua1 jin3 dui4 ， nan2 er2 gui4 bai4 xie4 tou2 chou2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: fang-hui-da-yan-yi-yin-si-shi-shou-qi-er
-title: 大衍易吟四十首  其二
-titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 er4
+title: 大衍易吟四十首  其二○
+titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 er4 ○
 titleSlug: da-yan-yi-yin-si-shi-shou-qi-er
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太極元無極，先天異後天。
-- 今人不識此，讀易豈其然。
+- 剝三與復四，皆處五陰中。
+- 自拔棄其類，吾推道是從。
 
 ## 拼音
 
-- tai4 ji2 yuan2 wu2 ji2 ， xian1 tian1 yi4 hou4 tian1 。
-- jin1 ren2 bu4 shi2 ci3 ， du2 yi4 qi3 qi2 ran2 。
+- bao1 san1 yu3 fu4 si4 ， jie1 chu3 wu3 yin1 zhong1 。
+- zi4 ba2 qi4 qi2 lei4 ， wu2 tui1 dao4 shi4 cong2 。
 
 ## 注释
 

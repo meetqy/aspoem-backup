@@ -6,10 +6,10 @@ titleSlug: geng-mei-shan-bi-jian-yun
 author: 鄧夢杰
 authorPinyin: deng4 meng4 jie2
 authorSlug: deng-meng-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

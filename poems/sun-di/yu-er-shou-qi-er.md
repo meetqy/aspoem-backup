@@ -6,25 +6,25 @@ titleSlug: yu-er-shou-qi-er
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淅瀝珠跳瓦，淋浪綆縋簷。
-- 林園春寂寂，燈火夜厭厭。
-- 寒著衣稜起，愁牽酒户添。
-- 詩翁獨無事，危坐撚衰髯。
+- 池涸萍黏塊，畦荒麥聚埃。
+- 乖龍一味睡，幽鳥百般催。
+- 藥裹蒸生菌，衣篝潤作梅。
+- 殷勤一夜雨，洗出翠千堆。
 
 ## 拼音
 
-- xi1 li4 zhu1 tiao4 wa3 ， lin2 lang4 geng3 zhui4 yan2 。
-- lin2 yuan2 chun1 ji4 ji4 ， deng1 huo3 ye4 yan4 yan4 。
-- han2 zhu4 yi1 leng2 qi3 ， chou2 qian1 jiu3 hu4 tian1 。
-- shi1 weng1 du2 wu2 shi4 ， wei1 zuo4 nian3 shuai1 ran2 。
+- chi2 he2 ping2 nian2 kuai4 ， qi2 huang1 mai4 ju4 ai1 。
+- guai1 long2 yi2 wei4 shui4 ， you1 niao3 bai3 ban1 cui1 。
+- yao4 guo3 zheng1 sheng1 jun1 ， yi1 gou1 run4 zuo4 mei2 。
+- yin1 qin2 yi2 ye4 yu3 ， xi3 chu1 cui4 qian1 dui1 。
 
 ## 注释
 

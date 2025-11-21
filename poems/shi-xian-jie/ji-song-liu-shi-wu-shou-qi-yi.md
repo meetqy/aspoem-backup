@@ -1,28 +1,30 @@
 ---
 id: shi-xian-jie-ji-song-liu-shi-wu-shou-qi-yi
-title: 偈頌六十五首  其一
-titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 yi1
+title: 偈頌六十五首  其一○
+titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 yi1 ○
 titleSlug: ji-song-liu-shi-wu-shou-qi-yi
 author: 釋咸傑
 authorPinyin: shi4 xian2 jie2
 authorSlug: shi-xian-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一進一退，一動一靜，須信那伽常在定。
-- 一擒一縱，一殺一活，四方八面活鱍鱍。
-- 嘉州大象喫鹽多，陝府鐵牛添得渴。
+- 烏巨今日解夏，乃遵黄面老子二千年前話霸。
+- 驗蠟人徹底冰清，護戒珠了無縫罅。
+- 唯有露柱燈籠，不肯入遮保社。
+- 從來心似鐵，端不受差排。
 
 ## 拼音
 
-- yi2 jin4 yi2 tui4 ， yi2 dong4 yi2 jing4 ， xu1 xin4 na4 jia1 chang2 zai4 ding4 。
-- yi4 qin2 yi2 zong4 ， yi4 sha1 yi4 huo2 ， si4 fang1 ba1 mian4 huo2 bo1 bo1 。
-- jia1 zhou1 da4 xiang4 chi1 yan2 duo1 ， shan3 fu3 tie3 niu2 tian1 de2 ke3 。
+- wu1 ju4 jin1 ri4 jie3 xia4 ， nai3 zun1 huang2 mian4 lao3 zi3 er4 qian1 nian2 qian2 hua4 ba4 。
+- yan4 la4 ren2 che4 di3 bing1 qing1 ， hu4 jie4 zhu1 le0 wu2 feng2 xia4 。
+- wei2 you3 lu4 zhu4 deng1 long2 ， bu4 ken3 ru4 zhe1 bao3 she4 。
+- cong2 lai2 xin1 si4 tie3 ， duan1 bu2 shou4 cha4 pai2 。
 
 ## 注释
 

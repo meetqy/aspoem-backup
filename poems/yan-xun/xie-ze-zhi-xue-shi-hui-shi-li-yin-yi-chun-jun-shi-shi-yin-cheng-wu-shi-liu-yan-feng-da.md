@@ -6,10 +6,10 @@ titleSlug: xie-ze-zhi-xue-shi-hui-shi-li-yin-yi-chun-jun-shi-shi-yin-cheng-wu-sh
 author: 閻珣
 authorPinyin: yan2 xun2
 authorSlug: yan-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

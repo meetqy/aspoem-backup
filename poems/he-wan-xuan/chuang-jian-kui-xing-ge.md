@@ -6,10 +6,10 @@ titleSlug: chuang-jian-kui-xing-ge
 author: 何萬選
 authorPinyin: he2 wan4 xuan3
 authorSlug: he-wan-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

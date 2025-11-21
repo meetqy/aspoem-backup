@@ -1,26 +1,26 @@
 ---
 id: li-shi-shan-zi-shi-qi-liu
-title: 扇子詩  其六
-titlePinyin: shan4 zi0 shi1     qi2 liu4
+title: 扇子詩  其六○
+titlePinyin: shan4 zi0 shi1     qi2 liu4 ○
 titleSlug: shan-zi-shi-qi-liu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹影月來去，荷香風送迎。
-- 南窗枕書卧，醉眼看山橫。
+- 秋蘂深紅勝菊黄，拒霜却是最宜霜。
+- 仲謀有子來江表，先與喬娘醉晚粧。
 
 ## 拼音
 
-- zhu2 ying3 yue4 lai2 qu4 ， he2 xiang1 feng1 song4 ying2 。
-- nan2 chuang1 zhen3 shu1 wo4 ， zui4 yan3 kan4 shan1 heng2 。
+- qiu1 rui3 shen1 hong2 sheng4 ju2 huang2 ， ju4 shuang1 que4 shi4 zui4 yi2 shuang1 。
+- zhong4 mou2 you3 zi3 lai2 jiang1 biao3 ， xian1 yu3 qiao2 niang2 zui4 wan3 zhuang1 。
 
 ## 注释
 

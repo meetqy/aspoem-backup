@@ -6,10 +6,10 @@ titleSlug: ti-shou-shi-ta-nan-xuan
 author: 何執中
 authorPinyin: he2 zhi2 zhong1
 authorSlug: he-zhi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fu-yi-yin-wu-xian-xia-cai-ji-ba-ju-xing-ji-kong-mu-wu-yan-er-shi-yun-
 author: 釋道猷
 authorPinyin: shi4 dao4 you2
 authorSlug: shi-dao-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

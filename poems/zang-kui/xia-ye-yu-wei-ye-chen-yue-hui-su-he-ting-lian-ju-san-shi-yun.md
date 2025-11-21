@@ -6,10 +6,10 @@ titleSlug: xia-ye-yu-wei-ye-chen-yue-hui-su-he-ting-lian-ju-san-shi-yun
 author: 臧奎
 authorPinyin: zang1 kui2
 authorSlug: zang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

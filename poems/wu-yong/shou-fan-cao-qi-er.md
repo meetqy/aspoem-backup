@@ -6,25 +6,25 @@ titleSlug: shou-fan-cao-qi-er
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 豫章富人物，山谷人中豪。
-- 雖從老坡來，頗服舂陵高。
-- 泰和善鼓琴，涪水不擬騷。
-- 安知百世士，於此還一遭。
+- 自從繡紱解麒麟，一片忠誠只爲民。
+- 涪水竹枝秋送客，漢嘉火樹夜迎神。
+- 玄蜂赤螘三垂靜，白黍黄雞萬井春。
+- 儘使蜀人翻覆看，皇華禮樂只如新。
 
 ## 拼音
 
-- yu4 zhang1 fu4 ren2 wu4 ， shan1 gu3 ren2 zhong1 hao2 。
-- sui1 cong2 lao3 po1 lai2 ， po1 fu2 chong1 ling2 gao1 。
-- tai4 he2 shan4 gu3 qin2 ， fu2 shui3 bu4 ni3 sao1 。
-- an1 zhi1 bai3 shi4 shi4 ， wu1 ci3 huan2 yi4 zao1 。
+- zi4 cong2 xiu4 fu2 jie3 qi2 lin2 ， yi2 pian4 zhong1 cheng2 zhi1 wei2 min2 。
+- fu2 shui3 zhu2 zhi1 qiu1 song4 ke4 ， han4 jia1 huo3 shu4 ye4 ying2 shen2 。
+- xuan2 feng1 chi4 yi3 san1 chui2 jing4 ， bai2 shu3 huang2 ji1 wan4 jing3 chun1 。
+- jin3 shi3 shu3 ren2 fan1 fu4 kan4 ， huang2 hua2 li3 le4 zhi1 ru2 xin1 。
 
 ## 注释
 

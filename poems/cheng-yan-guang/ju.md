@@ -6,10 +6,10 @@ titleSlug: ju
 author: 成延光
 authorPinyin: cheng2 yan2 guang1
 authorSlug: cheng-yan-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

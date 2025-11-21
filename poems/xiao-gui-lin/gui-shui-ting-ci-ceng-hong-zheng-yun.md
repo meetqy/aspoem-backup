@@ -6,10 +6,10 @@ titleSlug: gui-shui-ting-ci-ceng-hong-zheng-yun
 author: 蕭桂林
 authorPinyin: xiao1 gui4 lin2
 authorSlug: xiao-gui-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

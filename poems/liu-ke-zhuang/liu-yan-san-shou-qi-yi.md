@@ -6,21 +6,21 @@ titleSlug: liu-yan-san-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不識平康坊裏，多在村學堂中。
-- 安得金錢買笑，只堪夏楚訓蒙。
+- 表賀赤烏白兔，韋布披襟巨題。
+- 定價堪提鰲嶺，逢辰不讓龍溪。
 
 ## 拼音
 
-- bu4 shi2 ping2 kang1 fang1 li3 ， duo1 zai4 cun1 xue2 tang2 zhong1 。
-- an1 de2 jin1 qian2 mai3 xiao4 ， zhi1 kan1 xia4 chu3 xun4 meng2 。
+- biao3 he4 chi4 wu1 bai2 tu4 ， wei2 bu4 pi1 jin1 ju4 ti2 。
+- ding4 jia4 kan1 ti2 ao2 ling3 ， feng2 chen2 bu2 rang4 long2 xi1 。
 
 ## 注释
 

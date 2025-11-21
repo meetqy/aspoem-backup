@@ -1,34 +1,34 @@
 ---
 id: shi-zheng-jue-song-gu-yi-bai-ze-qi-jiu
-title: 頌古一百則  其九
-titlePinyin: song4 gu3 yi4 bai3 ze2     qi2 jiu3
+title: 頌古一百則  其九○
+titlePinyin: song4 gu3 yi4 bai3 ze2     qi2 jiu3 ○
 titleSlug: song-gu-yi-bai-ze-qi-jiu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 兩堂雲水盡分拏，王老師能驗正邪。
-- 利刀斬斷具亡像，千古令人愛作家。
-- 此道未喪，知音可嘉。
-- 鑿山透海兮唯尊大禹，鍊石補天兮獨賢女媧。
-- 趙州老，有生涯，草鞋頭戴較些些。
-- 異中來也還明鑒，只箇真金不混沙。
+- 夢中擁衲參耆舊，列聖森森坐其右。
+- 當仁不讓犍穉鳴，說法無畏師子吼。
+- 心安如海，膽量如斗。
+- 鮫目淚流，蚌腸珠剖。
+- 譫語誰知洩我機，厖眉應笑揚家醜。
+- 離四句，絕百非，馬師父子病休醫。
 
 ## 拼音
 
-- liang3 tang2 yun2 shui3 jin4 fen1 na2 ， wang2 lao3 shi1 neng2 yan4 zheng4 xie2 。
-- li4 dao1 zhan3 duan4 ju4 wang2 xiang4 ， qian1 gu3 ling4 ren2 ai4 zuo4 jia1 。
-- ci3 dao4 wei4 sang1 ， zhi1 yin1 ke3 jia1 。
-- zao2 shan1 tou4 hai3 xi1 wei2 zun1 da4 yu3 ， lian4 shi2 bu3 tian1 xi1 du2 xian2 nü3 wa1 。
-- zhao4 zhou1 lao3 ， you3 sheng1 ya2 ， cao3 xie2 tou2 dai4 jiao4 xie1 xie1 。
-- yi4 zhong1 lai2 ye3 huan2 ming2 jian4 ， zhi1 ge4 zhen1 jin1 bu2 hun4 sha1 。
+- meng4 zhong1 yong1 na4 can1 qi2 jiu4 ， lie4 sheng4 sen1 sen1 zuo4 qi2 you4 。
+- dang1 ren2 bu2 rang4 jian1 zhi4 ming2 ， shuo1 fa3 wu2 wei4 shi1 zi3 hou3 。
+- xin1 an1 ru2 hai3 ， dan3 liang2 ru2 dou4 。
+- jiao1 mu4 lei4 liu2 ， bang4 chang2 zhu1 pou1 。
+- zhan1 yu3 shui2 zhi1 xie4 wo3 ji1 ， mang2 mei2 ying1 xiao4 yang2 jia1 chou3 。
+- li2 si4 ju4 ， jue2 bai3 fei1 ， ma3 shi1 fu4 zi3 bing4 xiu1 yi1 。
 
 ## 注释
 

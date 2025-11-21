@@ -6,10 +6,10 @@ titleSlug: zeng-da-ci-si-xiao-weng-kai-shi
 author: 史守之
 authorPinyin: shi3 shou3 zhi1
 authorSlug: shi-shou-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

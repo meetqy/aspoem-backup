@@ -6,10 +6,10 @@ titleSlug: wan-chun
 author: 釋守璋
 authorPinyin: shi4 shou3 zhang1
 authorSlug: shi-shou-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

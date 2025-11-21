@@ -6,19 +6,19 @@ titleSlug: ju-qi-er
 author: 釋了元
 authorPinyin: shi4 le0 yuan2
 authorSlug: shi-le-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 龍枝已逐風雷變，減卻虛窗半日涼。
+- 正是清澄秋雨夜，空傳玉蕊發春晴。
 
 ## 拼音
 
-- long2 zhi1 yi3 zhu2 feng1 lei2 bian4 ， jian3 que4 xu1 chuang1 ban4 ri4 liang2 。
+- zheng4 shi4 qing1 cheng2 qiu1 yu3 ye4 ， kong1 chuan2 yu4 rui3 fa1 chun1 qing2 。
 
 ## 注释
 

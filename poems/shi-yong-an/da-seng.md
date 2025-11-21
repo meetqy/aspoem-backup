@@ -6,9 +6,9 @@ titleSlug: da-seng
 author: 釋永安
 authorPinyin: shi4 yong3 an1
 authorSlug: shi-yong-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: yu-hong-quan
 author: 何錫汝
 authorPinyin: he2 xi1 ru3
 authorSlug: he-xi-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

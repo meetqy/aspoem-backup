@@ -6,10 +6,10 @@ titleSlug: zu-shi-mi-yuan-zhan-si-ji
 author: 育王寺僧
 authorPinyin: yu4 wang2 si4 seng1
 authorSlug: yu-wang-si-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

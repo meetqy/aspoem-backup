@@ -6,10 +6,10 @@ titleSlug: tong-yun-he-yuan-ming-xiong-zhi-ming-di-jiu-ri-xiang-yi-er-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

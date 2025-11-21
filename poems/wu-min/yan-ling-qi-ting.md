@@ -6,10 +6,10 @@ titleSlug: yan-ling-qi-ting
 author: 吳敏
 authorPinyin: wu2 min3
 authorSlug: wu-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

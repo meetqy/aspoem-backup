@@ -6,10 +6,10 @@ titleSlug: xian-shan
 author: 范微之
 authorPinyin: fan4 wei1 zhi1
 authorSlug: fan-wei-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

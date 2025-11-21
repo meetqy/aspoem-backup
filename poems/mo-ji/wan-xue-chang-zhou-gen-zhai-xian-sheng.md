@@ -6,10 +6,10 @@ titleSlug: wan-xue-chang-zhou-gen-zhai-xian-sheng
 author: 莫濟
 authorPinyin: mo4 ji4
 authorSlug: mo-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 周元仲
 authorPinyin: zhou1 yuan2 zhong4
 authorSlug: zhou-yuan-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

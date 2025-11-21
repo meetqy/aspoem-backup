@@ -6,29 +6,25 @@ titleSlug: ye-si
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 讀書不見理，作詩欲求名。
-- 定非百世士，苟且誑此生。
-- 蹇予脫萬死，老氣空崢嶸。
-- 莫年識見進，深夜精神清。
-- 一燈何可暗，鼠輩將肆行。
-- 不惜三披衣，續膏挑復明。
+- 夜氣侵寒薄寢衣，迴頭六十二年非。
+- 直能欹枕思時透，始覺挑燈得處微。
+- 百蛬漸侵床畔語，一螢忽入帳前飛。
+- 研朱點墨皆陳迹，見道元來自有機。
 
 ## 拼音
 
-- du2 shu1 bu2 jian4 li3 ， zuo4 shi1 yu4 qiu2 ming2 。
-- ding4 fei1 bai3 shi4 shi4 ， gou3 qie3 kuang2 ci3 sheng1 。
-- jian3 yu3 tuo1 wan4 si3 ， lao3 qi4 kong1 zheng1 rong2 。
-- mo4 nian2 shi2 jian4 jin4 ， shen1 ye4 jing1 shen2 qing1 。
-- yi4 deng1 he2 ke3 an4 ， shu3 bei4 jiang1 si4 xing2 。
-- bu4 xi1 san1 pi1 yi1 ， xu4 gao1 tiao1 fu4 ming2 。
+- ye4 qi4 qin1 han2 bao2 qin3 yi1 ， hui2 tou2 liu4 shi2 er4 nian2 fei1 。
+- zhi2 neng2 qi1 zhen3 si1 shi2 tou4 ， shi3 jue2 tiao1 deng1 de2 chu3 wei1 。
+- bai3 qiong2 jian4 qin1 chuang2 pan4 yu3 ， yi4 ying2 hu1 ru4 zhang4 qian2 fei1 。
+- yan2 zhu1 dian3 mo4 jie1 chen2 ji4 ， jian4 dao4 yuan2 lai2 zi4 you3 ji1 。
 
 ## 注释
 

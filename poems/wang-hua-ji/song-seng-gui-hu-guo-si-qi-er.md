@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-hu-guo-si-qi-er
 author: 王化基
 authorPinyin: wang2 hua4 ji1
 authorSlug: wang-hua-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

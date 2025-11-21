@@ -6,10 +6,10 @@ titleSlug: geng-xu-qiu-zuo
 author: 陳起
 authorPinyin: chen2 qi3
 authorSlug: chen-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

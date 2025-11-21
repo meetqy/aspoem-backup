@@ -6,10 +6,10 @@ titleSlug: ou-cheng
 author: 葛起文
 authorPinyin: ge3 qi3 wen2
 authorSlug: ge-qi-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

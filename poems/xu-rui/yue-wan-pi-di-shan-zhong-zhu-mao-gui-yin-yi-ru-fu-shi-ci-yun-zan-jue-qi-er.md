@@ -6,10 +6,10 @@ titleSlug: yue-wan-pi-di-shan-zhong-zhu-mao-gui-yin-yi-ru-fu-shi-ci-yun-zan-jue-
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

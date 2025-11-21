@@ -6,10 +6,10 @@ titleSlug: jian-yan-si-nian-zheng-yue-er-shi-wu-ri-guo-nan-shan-shi
 author: 趙子松
 authorPinyin: zhao4 zi3 song1
 authorSlug: zhao-zi-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

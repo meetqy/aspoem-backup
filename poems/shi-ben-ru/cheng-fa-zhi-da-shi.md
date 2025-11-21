@@ -6,10 +6,10 @@ titleSlug: cheng-fa-zhi-da-shi
 author: 釋本如
 authorPinyin: shi4 ben3 ru2
 authorSlug: shi-ben-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

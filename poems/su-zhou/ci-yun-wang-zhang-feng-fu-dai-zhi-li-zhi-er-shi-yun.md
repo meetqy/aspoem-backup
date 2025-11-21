@@ -6,9 +6,9 @@ titleSlug: ci-yun-wang-zhang-feng-fu-dai-zhi-li-zhi-er-shi-yun
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

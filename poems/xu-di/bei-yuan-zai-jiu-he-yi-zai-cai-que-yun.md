@@ -6,10 +6,10 @@ titleSlug: bei-yuan-zai-jiu-he-yi-zai-cai-que-yun
 author: 徐迪
 authorPinyin: xu2 di2
 authorSlug: xu-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

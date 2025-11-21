@@ -6,33 +6,25 @@ titleSlug: huan-jia
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久客常念歸，還家自深願。
-- 雖非湖海遊，早已時節變。
-- 果臝施於宇，蠨蛸巧相衒。
-- 牆根思哀蛩，危棟辭歸燕。
-- 貧加鄉閭慕，病益兒女戀。
-- 棲遲免路旁，未厭茅屋賤。
-- 衡門過凉雨，秋草盈芳甸。
-- 耕耘儻及時，筋力自此勸。
+- 草徑茅廬不遠城，歸來松竹已秋聲。
+- 鄙人倦客方招隠，弱女非男亦慰情。
+- 薄願自甘隨老圃，短才無用至名卿。
+- 閭里相見成幽熟，他日禽魚尚不驚。
 
 ## 拼音
 
-- jiu3 ke4 chang2 nian4 gui1 ， huan2 jia1 zi4 shen1 yuan4 。
-- sui1 fei1 hu2 hai3 you2 ， zao3 yi3 shi2 jie2 bian4 。
-- guo3 luo3 shi1 wu1 yu3 ， xiao1 shao1 qiao3 xiang1 xuan4 。
-- qiang2 gen1 si1 ai1 qiong2 ， wei1 dong4 ci2 gui1 yan4 。
-- pin2 jia1 xiang1 lü2 mu4 ， bing4 yi4 er2 nü3 lian4 。
-- qi1 chi2 mian3 lu4 pang2 ， wei4 yan4 mao2 wu1 jian4 。
-- heng2 men2 guo4 liang2 yu3 ， qiu1 cao3 ying2 fang1 dian4 。
-- geng1 yun2 tang3 ji2 shi2 ， jin1 li4 zi4 ci3 quan4 。
+- cao3 jing4 mao2 lu2 bu4 yuan3 cheng2 ， gui1 lai2 song1 zhu2 yi3 qiu1 sheng1 。
+- bi3 ren2 juan4 ke4 fang1 zhao1 yin3 ， ruo4 nü3 fei1 nan2 yi4 wei4 qing2 。
+- bao2 yuan4 zi4 gan1 sui2 lao3 pu3 ， duan3 cai2 wu2 yong4 zhi4 ming2 qing1 。
+- lü2 li3 xiang1 jian4 cheng2 you1 shu2 ， ta1 ri4 qin2 yu2 shang4 bu4 jing1 。
 
 ## 注释
 

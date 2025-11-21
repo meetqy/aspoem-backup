@@ -6,10 +6,10 @@ titleSlug: feng-he-da-guan-wen-xiang-gong-jian-ji-gu-feng
 author: 許翰
 authorPinyin: xu1 han4
 authorSlug: xu-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

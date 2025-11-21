@@ -6,10 +6,10 @@ titleSlug: ke-you-xie-zhen-zhe-jian-yu-yin-yi-san-shi-zeng-zhi-qi-yi
 author: 李師中
 authorPinyin: li3 shi1 zhong1
 authorSlug: li-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

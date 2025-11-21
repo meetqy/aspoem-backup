@@ -6,10 +6,10 @@ titleSlug: xiao-yao-lou
 author: 張琮
 authorPinyin: zhang1 cong2
 authorSlug: zhang-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

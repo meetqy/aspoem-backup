@@ -1,14 +1,14 @@
 ---
 id: chen-yao-zuo-ju-qi-wu
-title: 句・其五
-titlePinyin: ju4・qi2 wu3
+title: 句  其五
+titlePinyin: ju4     qi2 wu3
 titleSlug: ju-qi-wu
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
 authorSlug: chen-yao-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

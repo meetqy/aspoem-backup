@@ -6,25 +6,25 @@ titleSlug: chun-ri
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 院落無人到，遊絲自短長。
-- 細風添霽色，斜日轉流光。
-- 柳入鶑邊嫩，花飛燕外香。
-- 一杯春晝永，試與問年芳。
+- 紛如殘雪墮梅梢，門外春光入柳條。
+- 歲事肯隨人意改，時情空使客魂銷。
+- 山圍古屋地還僻，水拍孤城灘復高。
+- 鷗汎鳥鳴聲自好，一巾華髮任蕭蕭。
 
 ## 拼音
 
-- yuan4 luo4 wu2 ren2 dao4 ， you2 si1 zi4 duan3 chang2 。
-- xi4 feng1 tian1 ji4 se4 ， xie2 ri4 zhuan3 liu2 guang1 。
-- liu3 ru4 ying1 bian1 nen4 ， hua1 fei1 yan4 wai4 xiang1 。
-- yi4 bei1 chun1 zhou4 yong3 ， shi4 yu3 wen4 nian2 fang1 。
+- fen1 ru2 can2 xue3 duo4 mei2 shao1 ， men2 wai4 chun1 guang1 ru4 liu3 tiao2 。
+- sui4 shi4 ken3 sui2 ren2 yi4 gai3 ， shi2 qing2 kong1 shi3 ke4 hun2 xiao1 。
+- shan1 wei2 gu3 wu1 di4 huan2 pi4 ， shui3 pai1 gu1 cheng2 tan1 fu4 gao1 。
+- ou1 fan4 niao3 ming2 sheng1 zi4 hao4 ， yi4 jin1 hua2 fa4 ren4 xiao1 xiao1 。
 
 ## 注释
 

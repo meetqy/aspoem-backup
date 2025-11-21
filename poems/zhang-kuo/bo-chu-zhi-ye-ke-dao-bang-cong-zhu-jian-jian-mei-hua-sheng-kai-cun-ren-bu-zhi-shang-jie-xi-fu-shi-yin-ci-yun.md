@@ -6,10 +6,10 @@ titleSlug: bo-chu-zhi-ye-ke-dao-bang-cong-zhu-jian-jian-mei-hua-sheng-kai-cun-re
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

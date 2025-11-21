@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 龔茂良
 authorPinyin: gong1 mao4 liang2
 authorSlug: gong-mao-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-hui-quan-ji-zhi-jun-lang-zhong
 author: 句龍緯
 authorPinyin: ju4 long2 wei3
 authorSlug: ju-long-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

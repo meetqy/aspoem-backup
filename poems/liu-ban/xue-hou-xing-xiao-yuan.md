@@ -6,25 +6,21 @@ titleSlug: xue-hou-xing-xiao-yuan
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚照開霽色，閉園幽事增。
-- 樹摇風落雪，池漲水浮冰。
-- 鵲亂聲已變，鳶飛誰爲矜。
-- 風光看滿眼，取醉此吾能。
+- 一尺春泥頻側足，半池天水欲清神。
+- 柳黄梅白貪迴首，驚起啼鴉雪灑人。
 
 ## 拼音
 
-- wan3 zhao4 kai1 ji4 se4 ， bi4 yuan2 you1 shi4 zeng1 。
-- shu4 yao2 feng1 luo4 xue3 ， chi2 zhang3 shui3 fu2 bing1 。
-- que4 luan4 sheng1 yi3 bian4 ， yuan1 fei1 shui2 wei2 jin1 。
-- feng1 guang1 kan4 man3 yan3 ， qu3 zui4 ci3 wu2 neng2 。
+- yi4 chi3 chun1 ni2 bin1 ce4 zu2 ， ban4 chi2 tian1 shui3 yu4 qing1 shen2 。
+- liu3 huang2 mei2 bai2 tan1 hui2 shou3 ， jing1 qi3 ti2 ya1 xue3 sa3 ren2 。
 
 ## 注释
 

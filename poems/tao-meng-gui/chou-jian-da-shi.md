@@ -6,10 +6,10 @@ titleSlug: chou-jian-da-shi
 author: 陶夢桂
 authorPinyin: tao2 meng4 gui4
 authorSlug: tao-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

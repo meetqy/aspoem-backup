@@ -6,10 +6,10 @@ titleSlug: zhao-nan-zhong-ji-wang-pu-hua-mao-quan-xi-wei-zhi-fu
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

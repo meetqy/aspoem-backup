@@ -6,23 +6,21 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋本才
 authorPinyin: shi4 ben3 cai2
 authorSlug: shi-ben-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 達磨未來，懷藏至寶，頂髻有珠。
-- 達磨既來，卞和刖足，楊朱途窮。
-- 擬議之間，知君罔措。
+- 徹，徹，大海乾枯，虛空迸裂。
+- 四方八面絕遮攔，萬象森羅齊漏泄。
 
 ## 拼音
 
-- da2 mo2 wei4 lai2 ， huai2 cang2 zhi4 bao3 ， ding3 ji4 you3 zhu1 。
-- da2 mo2 ji4 lai2 ， bian4 he2 yue4 zu2 ， yang2 zhu1 tu2 qiong2 。
-- ni3 yi4 zhi1 jian4 ， zhi1 jun1 wang3 cuo4 。
+- che4 ， che4 ， da4 hai3 qian2 ku1 ， xu1 kong1 beng4 lie4 。
+- si4 fang1 ba1 mian4 jue2 zhe1 lan2 ， wan4 xiang4 sen1 luo2 qi2 lou4 xie4 。
 
 ## 注释
 

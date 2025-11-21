@@ -6,10 +6,10 @@ titleSlug: ti-ling-yan-nong-yue-chi
 author: 方慎言
 authorPinyin: fang1 shen4 yan2
 authorSlug: fang-shen-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

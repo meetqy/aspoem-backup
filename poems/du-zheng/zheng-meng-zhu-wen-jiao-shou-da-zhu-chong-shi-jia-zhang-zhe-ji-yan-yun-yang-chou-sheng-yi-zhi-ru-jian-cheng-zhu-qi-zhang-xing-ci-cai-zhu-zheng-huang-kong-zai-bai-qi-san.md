@@ -6,10 +6,10 @@ titleSlug: zheng-meng-zhu-wen-jiao-shou-da-zhu-chong-shi-jia-zhang-zhe-ji-yan-yu
 author: 度正
 authorPinyin: du4 zheng4
 authorSlug: du-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

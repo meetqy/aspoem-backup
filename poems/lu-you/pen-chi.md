@@ -6,21 +6,25 @@ titleSlug: pen-chi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門外江濤湧雪堆，埋盆作沼亦何哉。
-- 兒曹不解渠翁意，新脱風波嶮處來。
+- 雨送疏疏響，風吹細細紋。
+- 猶稀綠萍點，已映小魚群。
+- 傍有一拳石，又生膚寸雲。
+- 我來閑照影，一笑整綸巾。
 
 ## 拼音
 
-- men2 wai4 jiang1 tao1 yong3 xue3 dui1 ， mai2 pen2 zuo4 zhao3 yi4 he2 zai1 。
-- er2 cao2 bu4 jie3 qu2 weng1 yi4 ， xin1 tuo1 feng1 bo1 xian3 chu3 lai2 。
+- yu3 song4 shu1 shu1 xiang3 ， feng1 chui1 xi4 xi4 wen2 。
+- you2 xi1 lü4 ping2 dian3 ， yi3 ying4 xiao3 yu2 qun2 。
+- bang4 you3 yi4 quan2 shi2 ， you4 sheng1 fu1 cun4 yun2 。
+- wo3 lai2 xian2 zhao4 ying3 ， yi2 xiao4 zheng3 lun2 jin1 。
 
 ## 注释
 

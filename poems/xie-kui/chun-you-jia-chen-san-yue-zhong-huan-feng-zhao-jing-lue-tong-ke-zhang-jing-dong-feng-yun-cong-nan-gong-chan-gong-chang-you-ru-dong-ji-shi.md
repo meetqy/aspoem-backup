@@ -6,10 +6,10 @@ titleSlug: chun-you-jia-chen-san-yue-zhong-huan-feng-zhao-jing-lue-tong-ke-zhang
 author: 謝逵
 authorPinyin: xie4 kui2
 authorSlug: xie-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

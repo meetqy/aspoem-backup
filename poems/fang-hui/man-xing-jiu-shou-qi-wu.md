@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-wu
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 靜院幽花馥，空庭皓月明。
-- 春寒夜更好，未有一蟲鳴。
+- 陰陰白晝似昏黄，平地愁城萬里長。
+- 稻卧三秋常是雨，菊殘十月尚無霜。
 
 ## 拼音
 
-- jing4 yuan4 you1 hua1 fu4 ， kong1 ting2 hao4 yue4 ming2 。
-- chun1 han2 ye4 geng4 hao3 ， wei4 you3 yi4 chong2 ming2 。
+- yin1 yin1 bai2 zhou4 si4 hun1 huang2 ， ping2 di4 chou2 cheng2 wan4 li3 chang2 。
+- dao4 wo4 san1 qiu1 chang2 shi4 yu3 ， ju2 can2 shi2 yue4 shang4 wu2 shuang1 。
 
 ## 注释
 

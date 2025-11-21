@@ -6,10 +6,10 @@ titleSlug: zui-mian-ting
 author: 關景山
 authorPinyin: guan1 jing3 shan1
 authorSlug: guan-jing-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

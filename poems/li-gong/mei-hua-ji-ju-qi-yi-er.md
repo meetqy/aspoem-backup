@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-er
-title: 梅花集句  其一二
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 er4
+title: 梅花集句  其一二○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 er4 ○
 titleSlug: mei-hua-ji-ju-qi-yi-er
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南園北園花滿風，南枝與客兩飄蓬。
-- 平生一點調元意，都在吟情句眼中。
+- 西望長安不見家，駞裘幾折犯寒花。
+- 玉驄慣識西湖路，不覺歸鞍带月華。
 
 ## 拼音
 
-- nan2 yuan2 bei3 yuan2 hua1 man3 feng1 ， nan2 zhi1 yu3 ke4 liang3 piao1 peng2 。
-- ping2 sheng1 yi4 dian3 diao4 yuan2 yi4 ， dou1 zai4 yin2 qing2 ju4 yan3 zhong1 。
+- xi1 wang4 chang2 an1 bu2 jian4 jia1 ， tuo2 qiu2 ji1 zhe2 fan4 han2 hua1 。
+- yu4 cong1 guan4 shi2 xi1 hu2 lu4 ， bu4 jue2 gui1 an1 dai4 yue4 hua2 。
 
 ## 注释
 

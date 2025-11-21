@@ -6,25 +6,25 @@ titleSlug: chu-xia
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一信楝花風，一年春事空。
-- 池荷還揭揭，櫻笋又匆匆。
-- 空嘆時光換，誰知造化工。
-- 盡將枝上色，并作石榴紅。
+- 當春一脈生生意，直到如今始潔齊。
+- 千樹向榮知靖節，一庭交翠見濂溪。
+- 柳塘花塢心應懶，葵扇桃笙手自携。
+- 猶自清和未蒸溽，可人日日竹亭西。
 
 ## 拼音
 
-- yi2 xin4 lian4 hua1 feng1 ， yi4 nian2 chun1 shi4 kong1 。
-- chi2 he2 huan2 jie1 jie1 ， ying1 sun3 you4 cong1 cong1 。
-- kong1 tan4 shi2 guang1 huan4 ， shui2 zhi1 zao4 hua4 gong1 。
-- jin4 jiang1 zhi1 shang4 se4 ， bing4 zuo4 shi2 liu0 hong2 。
+- dang1 chun1 yi2 mai4 sheng1 sheng1 yi4 ， zhi2 dao4 ru2 jin1 shi3 jie2 qi2 。
+- qian1 shu4 xiang4 rong2 zhi1 jing4 jie2 ， yi4 ting2 jiao1 cui4 jian4 lian2 xi1 。
+- liu3 tang2 hua1 wu4 xin1 ying1 lan3 ， kui2 shan1 tao2 sheng1 shou3 zi4 xie2 。
+- you2 zi4 qing1 he2 wei4 zheng1 ru4 ， ke3 ren2 ri4 ri4 zhu2 ting2 xi1 。
 
 ## 注释
 

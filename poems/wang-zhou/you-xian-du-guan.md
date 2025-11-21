@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 冷杉枯柏路盤空，毛髮生寒略略風。
-- 兩漢真仙在何處，巡香行遶蕊珠宫。
+- 冷杉枯栢路盤空，毛髮生寒略略風。
+- 兩漢真仙在何處，巡香行遶蘂珠宮。
 
 ## 拼音
 

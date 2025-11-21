@@ -1,30 +1,30 @@
 ---
 id: zuo-wei-bi-zei-shu-shi-shi-san-shou-qi-yi
-title: 避賊書事十三首  其一
-titlePinyin: bi4 zei2 shu1 shi4 shi2 san1 shou3     qi2 yi1
+title: 避賊書事十三首  其一○
+titlePinyin: bi4 zei2 shu1 shi4 shi2 san1 shou3     qi2 yi1 ○
 titleSlug: bi-zei-shu-shi-shi-san-shou-qi-yi
 author: 左緯
 authorPinyin: zuo3 wei3
 authorSlug: zuo-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 凶賊意何慘，殺人焚其廬。
-- 我命雖僅免，我家已爲墟。
-- 譬如巢南鳥，巢破不得居。
-- 朔風吹黄草，飛去將何如。
+- 今我有三子，欲謀分置之。
+- 庶幾一子在，可以收我尸。
+- 老妻已咽絕，三子皆號悲。
+- 生離過死別，不如還相隨。
 
 ## 拼音
 
-- xiong1 zei2 yi4 he2 can3 ， sha1 ren2 fen2 qi2 lu2 。
-- wo3 ming4 sui1 jin3 mian3 ， wo3 jia1 yi3 wei2 xu1 。
-- pi4 ru2 chao2 nan2 niao3 ， chao2 po4 bu4 de2 ju1 。
-- shuo4 feng1 chui1 huang2 cao3 ， fei1 qu4 jiang1 he2 ru2 。
+- jin1 wo3 you3 san1 zi3 ， yu4 mou2 fen1 zhi4 zhi1 。
+- shu4 ji1 yi4 zi3 zai4 ， ke3 yi3 shou1 wo3 shi1 。
+- lao3 qi1 yi3 yan4 jue2 ， san1 zi3 jie1 hao4 bei1 。
+- sheng1 li2 guo4 si3 bie2 ， bu4 ru2 huan2 xiang1 sui2 。
 
 ## 注释
 

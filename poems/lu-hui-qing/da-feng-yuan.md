@@ -6,10 +6,10 @@ titleSlug: da-feng-yuan
 author: 呂惠卿
 authorPinyin: lü3 hui4 qing1
 authorSlug: lu-hui-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

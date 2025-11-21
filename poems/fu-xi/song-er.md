@@ -9,24 +9,20 @@ authorSlug: fu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 觀此色身中，心王般若空。
-- 聖智安居處，凡夫路不同。
-- 出入無門戶，觀尋不見蹤。
-- 大體寬無際，小心塵不容。
-- 欲得登彼岸，高張智慧篷。
+- 能知此心無隔礙，生死虛妄不能覊。
+- 而此一心皆悉具，八萬四千諸律儀。
+- （同前卷二九）。
 
 ## 拼音
 
-- guan1 ci3 se4 shen1 zhong1 ， xin1 wang2 bo1 re3 kong1 。
-- sheng4 zhi4 an1 ju1 chu3 ， fan2 fu1 lu4 bu4 tong2 。
-- chu1 ru4 wu2 men2 hu4 ， guan1 xun2 bu2 jian4 zong1 。
-- da4 ti3 kuan1 wu2 ji4 ， xiao3 xin1 chen2 bu4 rong2 。
-- yu4 de2 deng1 bi3 an4 ， gao1 zhang1 zhi4 hui4 peng2 。
+- neng2 zhi1 ci3 xin1 wu2 ge2 ai4 ， sheng1 si3 xu1 wang4 bu4 neng2 ji1 。
+- er2 ci3 yi4 xin1 jie1 xi1 ju4 ， ba1 wan4 si4 qian1 zhu1 lü4 yi2 。
+- （ tong2 qian2 juan4 er4 jiu3 ）。
 
 ## 注释
 

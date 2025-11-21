@@ -9,22 +9,22 @@ authorSlug: geng-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 日暮黃雲合，年深白骨稀。
-- 舊村喬木在，秋草遠人歸。
-- 廢井莓苔厚，荒田路徑微。
-- 唯餘近山色，相對似依依。
+- 百戰無軍食，孤城陷虜塵。
+- 爲傷多易子，翻弔淺爲臣。
+- 漫漫東流水，悠悠南陌人。
+- 空思前事往，向曉淚霑巾。
 
 ## 拼音
 
-- ri4 mu4 huang2 yun2 he2 ， nian2 shen1 bai2 gu3 xi1 。
-- jiu4 cun1 qiao2 mu4 zai4 ， qiu1 cao3 yuan3 ren2 gui1 。
-- fei4 jing3 mei2 tai2 hou4 ， huang1 tian2 lu4 jing4 wei1 。
-- wei2 yu2 jin4 shan1 se4 ， xiang1 dui4 si4 yi1 yi1 。
+- bai3 zhan4 wu2 jun1 shi2 ， gu1 cheng2 xian4 lu3 chen2 。
+- wei2 shang1 duo1 yi4 zi3 ， fan1 diao4 qian3 wei2 chen2 。
+- man4 man4 dong1 liu2 shui3 ， you1 you1 nan2 mo4 ren2 。
+- kong1 si1 qian2 shi4 wang3 ， xiang4 xiao3 lei4 zhan1 jin1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qiu-wei-suo-shi-zeng-zhao-mao-shi
 author: 房子靖
 authorPinyin: fang2 zi0 jing4
 authorSlug: fang-zi-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qi-quan-jie-pu-ai-qi-cheng-wei-zhu-ma-jiu-zhi
 author: 宗澤
 authorPinyin: zong1 ze2
 authorSlug: zong-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

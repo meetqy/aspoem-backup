@@ -6,9 +6,9 @@ titleSlug: zeng-dao-shi-wu-chong-yue
 author: 周渭
 authorPinyin: zhou1 wei4
 authorSlug: zhou-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

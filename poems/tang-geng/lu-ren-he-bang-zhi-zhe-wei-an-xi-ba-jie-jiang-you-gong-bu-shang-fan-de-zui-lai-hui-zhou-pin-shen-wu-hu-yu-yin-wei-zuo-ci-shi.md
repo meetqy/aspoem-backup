@@ -6,10 +6,10 @@ titleSlug: lu-ren-he-bang-zhi-zhe-wei-an-xi-ba-jie-jiang-you-gong-bu-shang-fan-d
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: song-tian-biao-sheng-chu-zhi-chen-zhou
 author: 郭忠恕
 authorPinyin: guo1 zhong1 shu4
 authorSlug: guo-zhong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

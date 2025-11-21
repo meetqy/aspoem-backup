@@ -6,10 +6,10 @@ titleSlug: liang-xuan
 author: 樊宗簡
 authorPinyin: fan2 zong1 jian3
 authorSlug: fan-zong-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-huai-shen-zi-fu-xun-tong-xing-song-qi-er
-title: 資福訓童行頌  其二
-titlePinyin: zi1 fu2 xun4 tong2 xing2 song4     qi2 er4
+title: 資福訓童行頌  其二○
+titlePinyin: zi1 fu2 xun4 tong2 xing2 song4     qi2 er4 ○
 titleSlug: zi-fu-xun-tong-xing-song-qi-er
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心猿易縱安教縱，意馬難調亦要調。
-- 到老情塵掃不盡，出家四事恐難消。
+- 色身康健莫貪眠，作務辛勤要向前。
+- 不見確坊盧行者，祖堂衣鉢是渠傳。
 
 ## 拼音
 
-- xin1 yuan2 yi4 zong4 an1 jiao4 zong4 ， yi4 ma3 nan2 diao4 yi4 yao4 diao4 。
-- dao4 lao3 qing2 chen2 sao3 bu2 jin4 ， chu1 jia1 si4 shi4 kong3 nan2 xiao1 。
+- se4 shen1 kang1 jian4 mo4 tan1 mian2 ， zuo4 wu4 xin1 qin2 yao4 xiang4 qian2 。
+- bu2 jian4 que4 fang1 lu2 xing2 zhe3 ， zu3 tang2 yi1 bo1 shi4 qu2 chuan2 。
 
 ## 注释
 

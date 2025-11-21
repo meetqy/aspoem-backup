@@ -6,10 +6,10 @@ titleSlug: hui-zheng-qiao
 author: 孫應鳳
 authorPinyin: sun1 ying1 feng4
 authorSlug: sun-ying-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

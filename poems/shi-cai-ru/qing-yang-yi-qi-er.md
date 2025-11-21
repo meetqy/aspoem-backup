@@ -6,10 +6,10 @@ titleSlug: qing-yang-yi-qi-er
 author: 石才孺
 authorPinyin: shi2 cai2 ru2
 authorSlug: shi-cai-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

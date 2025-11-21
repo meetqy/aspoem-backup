@@ -6,21 +6,21 @@ titleSlug: lu-shan-si-qi-er
 author: 舒亶
 authorPinyin: shu1 dan3
 authorSlug: shu-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 別開小徑入松關，半在雲間半雨間。
-- 紅葉滿庭人倚檻，一池寒水動秋山。
+- 鵝鴨相呼初出田，昏昏雲日澹平川。
+- 寒雲數簇山南北，不見人家空見煙。
 
 ## 拼音
 
-- bie2 kai1 xiao3 jing4 ru4 song1 guan1 ， ban4 zai4 yun2 jian4 ban4 yu3 jian4 。
-- hong2 ye4 man3 ting2 ren2 yi3 jian4 ， yi4 chi2 han2 shui3 dong4 qiu1 shan1 。
+- e2 ya1 xiang1 hu1 chu1 chu1 tian2 ， hun1 hun1 yun2 ri4 dan4 ping2 chuan1 。
+- han2 yun2 shu4 cu4 shan1 nan2 bei3 ， bu2 jian4 ren2 jia1 kong1 jian4 yan1 。
 
 ## 注释
 

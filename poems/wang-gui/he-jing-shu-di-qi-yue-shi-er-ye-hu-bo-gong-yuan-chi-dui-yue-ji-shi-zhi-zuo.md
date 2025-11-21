@@ -6,10 +6,10 @@ titleSlug: he-jing-shu-di-qi-yue-shi-er-ye-hu-bo-gong-yuan-chi-dui-yue-ji-shi-zh
 author: 王珪
 authorPinyin: wang2 gui1
 authorSlug: wang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

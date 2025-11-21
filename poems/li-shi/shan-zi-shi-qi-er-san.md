@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-san
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 隠几今昔兩箇，卧床左右一邊。
-- 正要脚根著地，莫教火焰燒天。
+- 白團扇子合歡裁，出水菱花鏡面開。
+- 好是緱山明月夜，大家騎鳳上天來。
 
 ## 拼音
 
-- yin3 ji3 jin1 xi1 liang3 ge4 ， wo4 chuang2 zuo3 you4 yi4 bian1 。
-- zheng4 yao4 jiao3 gen1 zhu4 di4 ， mo4 jiao4 huo3 yan4 shao1 tian1 。
+- bai2 tuan2 shan4 zi0 he2 huan1 cai2 ， chu1 shui3 ling2 hua1 jing4 mian4 kai1 。
+- hao3 shi4 gou1 shan1 ming2 yue4 ye4 ， da4 jia1 qi2 feng4 shang4 tian1 lai2 。
 
 ## 注释
 

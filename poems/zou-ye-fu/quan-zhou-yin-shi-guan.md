@@ -6,10 +6,10 @@ titleSlug: quan-zhou-yin-shi-guan
 author: 鄒野夫
 authorPinyin: zou1 ye3 fu1
 authorSlug: zou-ye-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

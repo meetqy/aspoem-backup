@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 徐似道
 authorPinyin: xu2 si4 dao4
 authorSlug: xu-si-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一瓶儲粟一囊錢，兒學箕裘女紡磚。
-- 更買小丘吾事畢，勘書評畫了殘年。
+- 植杞必植梓，藝蘭仍藝蓀。
+- 過庭遺訓在，鑿楹故書存。
 
 ## 拼音
 
-- yi4 ping2 chu3 su4 yi4 nang2 qian2 ， er2 xue2 ji1 qiu2 nü3 fang3 zhuan1 。
-- geng4 mai3 xiao3 qiu1 wu2 shi4 bi4 ， kan1 shu1 ping2 hua4 le0 can2 nian2 。
+- zhi2 qi3 bi4 zhi2 zi3 ， yi4 lan2 reng2 yi4 sun1 。
+- guo4 ting2 yi2 xun4 zai4 ， zao2 ying2 gu4 shu1 cun2 。
 
 ## 注释
 

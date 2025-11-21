@@ -6,10 +6,10 @@ titleSlug: ling-gui-dong
 author: 郭允升
 authorPinyin: guo1 yun3 sheng1
 authorSlug: guo-yun-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

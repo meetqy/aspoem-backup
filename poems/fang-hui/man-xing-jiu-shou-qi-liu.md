@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-liu
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 索果嬌兒怒，胹羹老僕頑。
-- 欲嗔仍復笑，掩卷看南山。
+- 枕上半醒中酒病，樓前時過賣花聲。
+- 千門萬戶俱更換，惟此依稀舊太平。
 
 ## 拼音
 
-- suo3 guo3 jiao1 er2 nu4 ， er2 geng1 lao3 pu2 wan2 。
-- yu4 chen1 reng2 fu4 xiao4 ， yan3 juan4 kan4 nan2 shan1 。
+- zhen3 shang4 ban4 xing3 zhong1 jiu3 bing4 ， lou2 qian2 shi2 guo4 mai4 hua1 sheng1 。
+- qian1 men2 wan4 hu4 ju4 geng4 huan4 ， wei2 ci3 yi1 xi1 jiu4 tai4 ping2 。
 
 ## 注释
 

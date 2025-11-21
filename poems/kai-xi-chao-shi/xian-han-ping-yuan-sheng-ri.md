@@ -6,10 +6,10 @@ titleSlug: xian-han-ping-yuan-sheng-ri
 author: 開禧朝士
 authorPinyin: kai1 xi3 chao2 shi4
 authorSlug: kai-xi-chao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

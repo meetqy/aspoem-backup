@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-ba
-title: 證道歌  其八
-titlePinyin: zheng4 dao4 ge1     qi2 ba1
+title: 證道歌  其八○
+titlePinyin: zheng4 dao4 ge1     qi2 ba1 ○
 titleSlug: zheng-dao-ge-qi-ba
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 本元自性天真佛，一體無邊含萬物。
-- 迷時只道有西天，悟來當甚乾蘿蔔。
+- 語默動靜體安然，謝三拋下釣魚船。
+- 剛道參方不出嶺，癡人猶尚走如烟。
 
 ## 拼音
 
-- ben3 yuan2 zi4 xing4 tian1 zhen1 fo2 ， yi4 ti3 wu2 bian1 han2 wan4 wu4 。
-- mi2 shi2 zhi1 dao4 you3 xi1 tian1 ， wu4 lai2 dang1 shen4 qian2 luo2 bo0 。
+- yu3 mo4 dong4 jing4 ti3 an1 ran2 ， xie4 san1 pao1 xia4 diao4 yu2 chuan2 。
+- gang1 dao4 can1 fang1 bu4 chu1 ling3 ， chi1 ren2 you2 shang4 zou3 ru2 yan1 。
 
 ## 注释
 

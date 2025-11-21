@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-chen-rong-fu-zhi-yan-nian-jia-jian-zeng-er-shou-qi-er
-title: 次韻陳融甫支鹽年家見贈二首・其二
-titlePinyin: ci4 yun4 chen2 rong2 fu3 zhi1 yan2 nian2 jia1 jian4 zeng4 er4 shou3・qi2 er4
+title: 次韻陳融甫支鹽年家見贈二首  其二
+titlePinyin: ci4 yun4 chen2 rong2 fu3 zhi1 yan2 nian2 jia1 jian4 zeng4 er4 shou3     qi2 er4
 titleSlug: ci-yun-chen-rong-fu-zhi-yan-nian-jia-jian-zeng-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: xia-shan-si
 author: 晁公邁
 authorPinyin: chao2 gong1 mai4
 authorSlug: chao-gong-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

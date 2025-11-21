@@ -1,30 +1,30 @@
 ---
 id: shu-yue-xiang-tian-jia-ji-shi
-title: 田家即事
-titlePinyin: tian2 jia1 ji2 shi4
+title: 田家紀事
+titlePinyin: tian2 jia1 ji4 shi4
 titleSlug: tian-jia-ji-shi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飽暖無他事，天心亦易迴。
-- 繅車翻急瀑，麥磨響輕雷。
-- 履辟行泥笋，衣蒸過雨梅。
-- 荒村斷魚肉，隨興酌山杯。
+- 濛濛土霧連三日，父老傳經十七年。
+- 蠶月人家多忌諱，麥秋時候好安眠。
+- 桑鳩逐婦應嫌雨，社燕依人不避烟。
+- 短策綠陰新似沃，頃筐朱實寫來圓。
 
 ## 拼音
 
-- bao3 nuan3 wu2 ta1 shi4 ， tian1 xin1 yi4 yi4 hui2 。
-- sao1 ju1 fan1 ji2 pu4 ， mai4 mo2 xiang3 qing1 lei2 。
-- lü3 pi4 xing2 ni2 sun3 ， yi1 zheng1 guo4 yu3 mei2 。
-- huang1 cun1 duan4 yu2 rou4 ， sui2 xing1 zhuo2 shan1 bei1 。
+- meng2 meng2 tu3 wu4 lian2 san1 ri4 ， fu4 lao3 chuan2 jing1 shi2 qi1 nian2 。
+- can2 yue4 ren2 jia1 duo1 ji4 hui4 ， mai4 qiu1 shi2 hou4 hao3 an1 mian2 。
+- sang1 jiu1 zhu2 fu4 ying1 xian2 yu3 ， she4 yan4 yi1 ren2 bu2 bi4 yan1 。
+- duan3 ce4 lü4 yin1 xin1 si4 wo4 ， qing3 kuang1 zhu1 shi2 xie3 lai2 yuan2 。
 
 ## 注释
 

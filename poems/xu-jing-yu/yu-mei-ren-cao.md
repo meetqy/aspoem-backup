@@ -6,10 +6,10 @@ titleSlug: yu-mei-ren-cao
 author: 許景迂
 authorPinyin: xu1 jing3 yu1
 authorSlug: xu-jing-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

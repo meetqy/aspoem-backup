@@ -6,10 +6,10 @@ titleSlug: chu-liang
 author: 呂欽問
 authorPinyin: lü3 qin1 wen4
 authorSlug: lu-qin-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

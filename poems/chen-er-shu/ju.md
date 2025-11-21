@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳二叔
 authorPinyin: chen2 er4 shu1
 authorSlug: chen-er-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

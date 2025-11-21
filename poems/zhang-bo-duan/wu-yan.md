@@ -6,10 +6,10 @@ titleSlug: wu-yan
 author: 張伯端
 authorPinyin: zhang1 bo2 duan1
 authorSlug: zhang-bo-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

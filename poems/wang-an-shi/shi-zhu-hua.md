@@ -6,25 +6,21 @@ titleSlug: shi-zhu-hua
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 退公詩酒樂華年，欲取幽芳近綺筵。
-- 種玉亂抽青節瘦，刻繒輕染絳花圓。
-- 風霜不放飄零早，雨露應從愛惜偏。
-- 已向美人衣上並，更留佳客賦嬋娟。
+- 麝香眠後露檀勻，繡在羅衣色未真。
+- 斜倚細叢如有恨，冷摇數朵欲無春。
 
 ## 拼音
 
-- tui4 gong1 shi1 jiu3 le4 hua2 nian2 ， yu4 qu3 you1 fang1 jin4 qi3 yan2 。
-- zhong3 yu4 luan4 chou1 qing1 jie2 shou4 ， ke4 zeng1 qing1 ran3 jiang4 hua1 yuan2 。
-- feng1 shuang1 bu2 fang4 piao1 ling2 zao3 ， yu3 lu4 ying1 cong2 ai4 xi1 pian1 。
-- yi3 xiang4 mei3 ren2 yi1 shang4 bing4 ， geng4 liu2 jia1 ke4 fu4 chan2 juan1 。
+- she4 xiang1 mian2 hou4 lu4 tan2 yun2 ， xiu4 zai4 luo2 yi1 se4 wei4 zhen1 。
+- xie2 yi3 xi4 cong2 ru2 you3 hen4 ， leng3 yao2 shu4 duo3 yu4 wu2 chun1 。
 
 ## 注释
 

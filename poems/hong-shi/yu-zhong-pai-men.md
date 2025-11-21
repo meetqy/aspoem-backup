@@ -6,25 +6,25 @@ titleSlug: yu-zhong-pai-men
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生怕花飛減却春，半旬苦雨惱幽人。
-- 山房挂壁有雙屐，村徑衝泥無隻輪。
-- 但見淥波侵碧草，不須皂莢去黄塵。
-- 擁爐更甚三冬月，轉覺寒威逼坐茵。
+- 飯牛戴笠牧童昏，安得斜陽過別村。
+- 戶外涎蝸行半壁，床頭渴鼠側空樽。
+- 花殘鶯老渾如夢，水到渠成不見痕。
+- 天意未晴人未飲，家奴款曲辦籸盆。
 
 ## 拼音
 
-- sheng1 pa4 hua1 fei1 jian3 que4 chun1 ， ban4 xun2 ku3 yu3 nao3 you1 ren2 。
-- shan1 fang2 gua4 bi4 you3 shuang1 ji1 ， cun1 jing4 chong1 ni2 wu2 zhi1 lun2 。
-- dan4 jian4 lu4 bo1 qin1 bi4 cao3 ， bu4 xu1 zao4 jia2 qu4 huang2 chen2 。
-- yong1 lu2 geng4 shen4 san1 dong1 yue4 ， zhuan3 jue2 han2 wei1 bi1 zuo4 yin1 。
+- fan4 niu2 dai4 li4 mu4 tong2 hun1 ， an1 de2 xie2 yang2 guo4 bie2 cun1 。
+- hu4 wai4 xian2 wo1 xing2 ban4 bi4 ， chuang2 tou2 ke3 shu3 ce4 kong1 zun1 。
+- hua1 can2 ying1 lao3 hun2 ru2 meng4 ， shui3 dao4 qu2 cheng2 bu2 jian4 hen2 。
+- tian1 yi4 wei4 qing2 ren2 wei4 yin3 ， jia1 nu2 kuan3 qu1 ban4 shen1 pen2 。
 
 ## 注释
 

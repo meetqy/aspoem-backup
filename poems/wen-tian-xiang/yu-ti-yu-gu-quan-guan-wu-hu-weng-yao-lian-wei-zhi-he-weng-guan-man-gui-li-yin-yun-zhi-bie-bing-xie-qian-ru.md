@@ -6,10 +6,10 @@ titleSlug: yu-ti-yu-gu-quan-guan-wu-hu-weng-yao-lian-wei-zhi-he-weng-guan-man-gu
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: su-chong-xu-guan
 author: 胡衍
 authorPinyin: hu2 yan3
 authorSlug: hu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

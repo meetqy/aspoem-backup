@@ -6,21 +6,21 @@ titleSlug: chan
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柳外聲殘日未殘，棲身未穩擇枝安。
-- 不須過有螳螂慮，黄雀從傍冷眼看。
+- 壁間吟不待秋時，吟苦中宵動客悲。
+- 勸汝不須催婦織，家家五月賣新絲。
 
 ## 拼音
 
-- liu3 wai4 sheng1 can2 ri4 wei4 can2 ， qi1 shen1 wei4 wen3 ze2 zhi1 an1 。
-- bu4 xu1 guo4 you3 tang2 lang2 lü4 ， huang2 que4 cong2 bang4 leng3 yan3 kan4 。
+- bi4 jian4 yin2 bu2 dai4 qiu1 shi2 ， yin2 ku3 zhong1 xiao1 dong4 ke4 bei1 。
+- quan4 ru3 bu4 xu1 cui1 fu4 zhi1 ， jia1 jia1 wu3 yue4 mai4 xin1 si1 。
 
 ## 注释
 

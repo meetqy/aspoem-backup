@@ -6,25 +6,25 @@ titleSlug: ji
 author: 釋警玄
 authorPinyin: shi4 jing3 xuan2
 authorSlug: shi-jing-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我昔初機學道迷，萬水千山覓見知。
-- 明今辨古終難會，直說無心轉更疑。
-- 蒙師點出秦時鏡，照見父母未生時。
-- 如今覺了何所得，夜放烏雞带雪飛。
+- 夜半鳥雞抱鵠卵，天明起來生老鸛。
+- 鶴毛鷹觜鷺鸞身，却共烏鴉爲侶伴。
+- 高入煙霄，低飛柳岸。
+- 向晚歸來子細看，依稀恰似雲中雁。
 
 ## 拼音
 
-- wo3 xi1 chu1 ji1 xue2 dao4 mi2 ， wan4 shui3 qian1 shan1 mi4 jian4 zhi1 。
-- ming2 jin1 bian4 gu3 zhong1 nan2 hui4 ， zhi2 shuo1 wu2 xin1 zhuan3 geng4 yi2 。
-- meng2 shi1 dian3 chu1 qin2 shi2 jing4 ， zhao4 jian4 fu4 mu3 wei4 sheng1 shi2 。
-- ru2 jin1 jue2 le0 he2 suo3 de2 ， ye4 fang4 wu1 ji1 dai4 xue3 fei1 。
+- ye4 ban4 niao3 ji1 bao4 hu2 luan3 ， tian1 ming2 qi3 lai2 sheng1 lao3 guan4 。
+- he4 mao2 ying1 zi1 lu4 luan2 shen1 ， que4 gong4 wu1 ya1 wei2 lü3 ban4 。
+- gao1 ru4 yan1 xiao1 ， di1 fei1 liu3 an4 。
+- xiang4 wan3 gui1 lai2 zi3 xi4 kan4 ， yi1 xi1 qia4 si4 yun2 zhong1 yan4 。
 
 ## 注释
 

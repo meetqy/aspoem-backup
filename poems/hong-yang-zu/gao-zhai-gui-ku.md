@@ -6,10 +6,10 @@ titleSlug: gao-zhai-gui-ku
 author: 洪揚祖
 authorPinyin: hong2 yang2 zu3
 authorSlug: hong-yang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

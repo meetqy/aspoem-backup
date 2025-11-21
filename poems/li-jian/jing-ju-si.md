@@ -6,9 +6,9 @@ titleSlug: jing-ju-si
 author: 李澗
 authorPinyin: li3 jian4
 authorSlug: li-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

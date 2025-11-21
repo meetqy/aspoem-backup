@@ -1,14 +1,14 @@
 ---
 id: wen-tong-pu-shi-bie-shu-shi-yong-han-bi-ting
-title: 蒲氏別墅十詠・涵碧亭
-titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3・han2 bi4 ting2
+title: 蒲氏別墅十詠 涵碧亭
+titlePinyin: pu2 shi4 bie2 shu4 shi2 yong3   han2 bi4 ting2
 titleSlug: pu-shi-bie-shu-shi-yong-han-bi-ting
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

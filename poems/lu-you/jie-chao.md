@@ -6,25 +6,21 @@ titleSlug: jie-chao
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一壑棲遲久，多生習氣消。
-- 行藏無愧怍，夢覺兩逍遥。
-- 倩鶴傳山信，疏泉洗藥苗。
-- 晚來幽興極，乘月過溪橋。
+- 我生學語即耽書，萬卷縱橫眼欲枯。
+- 莫道終身作魚蠹，爾來書外有工夫。
 
 ## 拼音
 
-- yi2 he4 qi1 chi2 jiu3 ， duo1 sheng1 xi2 qi4 xiao1 。
-- xing2 cang2 wu2 kui4 zuo4 ， meng4 jue2 liang3 xiao1 yao2 。
-- qian4 he4 chuan2 shan1 xin4 ， shu1 quan2 xi3 yao4 miao2 。
-- wan3 lai2 you1 xing1 ji2 ， cheng2 yue4 guo4 xi1 qiao2 。
+- wo3 sheng1 xue2 yu3 ji2 dan1 shu1 ， wan4 juan4 zong4 heng2 yan3 yu4 ku1 。
+- mo4 dao4 zhong1 shen1 zuo4 yu2 du4 ， er3 lai2 shu1 wai4 you3 gong1 fu0 。
 
 ## 注释
 

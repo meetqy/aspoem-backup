@@ -6,21 +6,21 @@ titleSlug: ci-yun-yu-tui-fu-chu-xi-qi-jue-ju-qi-wu
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長嘆熙豐祐聖年，偏輕偏重幾番舡。
-- 誰能裝載亭勻了，多著男兒盡力牽。
+- 幾度將心安處安，有時中夜起長嘆。
+- 年來識得安心法，否泰元從隨蠱看。
 
 ## 拼音
 
-- chang2 tan4 xi1 feng1 you4 sheng4 nian2 ， pian1 qing1 pian1 zhong4 ji1 fan1 chuan2 。
-- shui2 neng2 zhuang1 zai4 ting2 yun2 le0 ， duo1 zhu4 nan2 er2 jin4 li4 qian1 。
+- ji1 du4 jiang1 xin1 an1 chu3 an1 ， you3 shi2 zhong1 ye4 qi3 chang2 tan4 。
+- nian2 lai2 shi2 de2 an1 xin1 fa3 ， pi3 tai4 yuan2 cong2 sui2 gu3 kan4 。
 
 ## 注释
 

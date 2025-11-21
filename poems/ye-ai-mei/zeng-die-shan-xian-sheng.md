@@ -6,10 +6,10 @@ titleSlug: zeng-die-shan-xian-sheng
 author: 葉愛梅
 authorPinyin: ye4 ai4 mei2
 authorSlug: ye-ai-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

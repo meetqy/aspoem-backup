@@ -9,26 +9,30 @@ authorSlug: chen-yuan-guang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 隻騎登南服，五龍開洞門。
-- 未有登臨者，天留好使君。
-- 湖心涵萬象，湖口合千春。
-- 久翫天機動，昭迴漢表文。
-- 迢遙天侶上，磊落野人羣。
-- 促命茅君起，雄揮記五巡。
+- 戍樓西北望皇州，宿衙曾隨上苑遊。
+- 明月蘆花迷曲岸，西風梧葉報清秋。
+- 鳳凰臺上幾聲笛，鸚鵡洲邊一葦舟。
+- 對菊淵明懷刺史，拋梭織女弄牽牛。
+- 娟娟萬里江河爛，耽耽孤星大火流。
+- 白雁遠傳蘇武札，銀鱸細切【季】（李）鷹【羞】（差）。
+- 露悽霜肅吳砧搗，馬壯兵強楚戍愁。
+- 報道四更笳鼓響，銜枚襲虜獻俘囚。
 
 ## 拼音
 
-- zhi1 qi2 deng1 nan2 fu2 ， wu3 long2 kai1 dong4 men2 。
-- wei4 you3 deng1 lin2 zhe3 ， tian1 liu2 hao3 shi3 jun1 。
-- hu2 xin1 han2 wan4 xiang4 ， hu2 kou3 he2 qian1 chun1 。
-- jiu3 wan2 tian1 ji1 dong4 ， zhao1 hui2 han4 biao3 wen2 。
-- tiao2 yao2 tian1 lü3 shang4 ， lei3 luo4 ye3 ren2 qun2 。
-- cu4 ming4 mao2 jun1 qi3 ， xiong2 hui1 ji4 wu3 xun2 。
+- shu4 lou2 xi1 bei3 wang4 huang2 zhou1 ， su4 ya2 ceng2 sui2 shang4 yuan4 you2 。
+- ming2 yue4 lu2 hua1 mi2 qu3 an4 ， xi1 feng1 wu2 ye4 bao4 qing1 qiu1 。
+- feng4 huang2 tai2 shang4 ji1 sheng1 di2 ， ying1 wu3 zhou1 bian1 yi4 wei3 zhou1 。
+- dui4 ju2 yuan1 ming2 huai2 ci4 shi3 ， pao1 suo1 zhi1 nü3 nong4 qian1 niu2 。
+- juan1 juan1 wan4 li3 jiang1 he2 lan4 ， dan1 dan1 gu1 xing1 da4 huo3 liu2 。
+- bai2 yan4 yuan3 chuan2 su1 wu3 zha2 ， yin2 lu2 xi4 qie4 【 ji4 】（ li3 ） ying1 【 xiu1 】（ cha4 ）。
+- lu4 qi1 shuang1 su4 wu2 zhen1 dao3 ， ma3 zhuang4 bing1 qiang2 chu3 shu4 chou2 。
+- bao4 dao4 si4 geng1 jia1 gu3 xiang3 ， xian2 mei2 xi2 lu3 xian4 fu2 qiu2 。
 
 ## 注释
 

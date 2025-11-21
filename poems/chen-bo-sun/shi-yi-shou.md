@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 陳伯孫
 authorPinyin: chen2 bo2 sun1
 authorSlug: chen-bo-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

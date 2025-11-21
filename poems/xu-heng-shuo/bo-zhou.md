@@ -6,10 +6,10 @@ titleSlug: bo-zhou
 author: 徐橫槊
 authorPinyin: xu2 heng2 shuo4
 authorSlug: xu-heng-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

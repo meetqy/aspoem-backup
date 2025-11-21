@@ -6,10 +6,10 @@ titleSlug: song
 author: 謝子才
 authorPinyin: xie4 zi3 cai2
 authorSlug: xie-zi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

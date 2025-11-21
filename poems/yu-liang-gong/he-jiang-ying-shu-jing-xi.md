@@ -6,10 +6,10 @@ titleSlug: he-jiang-ying-shu-jing-xi
 author: 余良肱
 authorPinyin: yu2 liang2 gong1
 authorSlug: yu-liang-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

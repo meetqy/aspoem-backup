@@ -6,10 +6,10 @@ titleSlug: ti-tian-qing-guan-bi-yu-tang
 author: 龔準
 authorPinyin: gong1 zhun3
 authorSlug: gong-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

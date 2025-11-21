@@ -6,21 +6,21 @@ titleSlug: ji
 author: 釋法演
 authorPinyin: shi4 fa3 yan3
 authorSlug: shi-fa-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 皖伯臺前送別時，桃花如錦柳如眉。
-- 明年此日憑欄看，依舊青青一兩枝。
+- 華種有生姓，因地華生生。
+- 大緣與性合，當生生不生。
 
 ## 拼音
 
-- wan3 bo2 tai2 qian2 song4 bie2 shi2 ， tao2 hua1 ru2 jin3 liu3 ru2 mei2 。
-- ming2 nian2 ci3 ri4 ping2 lan2 kan4 ， yi1 jiu4 qing1 qing1 yi4 liang3 zhi1 。
+- hua2 zhong3 you3 sheng1 xing4 ， yin1 di4 hua2 sheng1 sheng1 。
+- da4 yuan2 yu3 xing4 he2 ， dang1 sheng1 sheng1 bu0 sheng1 。
 
 ## 注释
 

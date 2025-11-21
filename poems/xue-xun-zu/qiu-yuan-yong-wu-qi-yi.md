@@ -6,10 +6,10 @@ titleSlug: qiu-yuan-yong-wu-qi-yi
 author: 薛循祖
 authorPinyin: xue1 xun2 zu3
 authorSlug: xue-xun-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

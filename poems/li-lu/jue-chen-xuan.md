@@ -6,29 +6,25 @@ titleSlug: jue-chen-xuan
 author: 李呂
 authorPinyin: li3 lü3
 authorSlug: li-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔年陪仲父，杖屨集幽軒。
-- 門占蹄輪道，交無市井言。
-- 池邊對棋酒，胸次有丘園。
-- 蟬蛻寒雲斷，徑荒春草蕃。
-- 增新窗戶改，尚喜典刑存。
-- 結客登臨去，茶瓜勿憚煩。
+- 生平雅不樂城市，背郭開軒喜再來。
+- 煙淡山屏青未了，晴曛荷蓋翠相挨。
+- 倚風柔弱休栽柳，照水橫斜剩種梅。
+- 乘興祇應清坐好，此懷難向俗人開。
 
 ## 拼音
 
-- xi1 nian2 pei2 zhong4 fu4 ， zhang4 ju4 ji2 you1 xuan1 。
-- men2 zhan4 ti2 lun2 dao4 ， jiao1 wu2 shi4 jing3 yan2 。
-- chi2 bian1 dui4 qi2 jiu3 ， xiong1 ci4 you3 qiu1 yuan2 。
-- chan2 tui4 han2 yun2 duan4 ， jing4 huang1 chun1 cao3 fan1 。
-- zeng1 xin1 chuang1 hu4 gai3 ， shang4 xi3 dian3 xing2 cun2 。
-- jie2 ke4 deng1 lin2 qu4 ， cha2 gua1 wu4 dan4 fan2 。
+- sheng1 ping2 ya3 bu2 le4 cheng2 shi4 ， bei4 guo1 kai1 xuan1 xi3 zai4 lai2 。
+- yan1 dan4 shan1 ping2 qing1 wei4 liao3 ， qing2 xun1 he2 gai4 cui4 xiang1 ai1 。
+- yi3 feng1 rou2 ruo4 xiu1 zai1 liu3 ， zhao4 shui3 heng2 xie2 sheng4 zhong3 mei2 。
+- cheng2 xing1 qi2 ying1 qing1 zuo4 hao3 ， ci3 huai2 nan2 xiang4 su2 ren2 kai1 。
 
 ## 注释
 

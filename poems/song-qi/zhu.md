@@ -6,21 +6,21 @@ titleSlug: zhu
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新筍漸盈尺，新梢已鋪瓦。
-- 燕雀忽相驚，深沈似隆夏。
+- 除地牆陰植翠筠，纖莖潤葉與時新。
+- 頼逢醉日終無損，正似得全于酒人。
 
 ## 拼音
 
-- xin1 sun3 jian4 ying2 chi3 ， xin1 shao1 yi3 pu1 wa3 。
-- yan4 que4 hu1 xiang1 jing1 ， shen1 shen3 si4 long2 xia4 。
+- chu2 di4 qiang2 yin1 zhi2 cui4 yun2 ， xian1 jing4 run4 ye4 yu3 shi2 xin1 。
+- lai4 feng2 zui4 ri4 zhong1 wu2 sun3 ， zheng4 si4 de2 quan2 yu2 jiu3 ren2 。
 
 ## 注释
 

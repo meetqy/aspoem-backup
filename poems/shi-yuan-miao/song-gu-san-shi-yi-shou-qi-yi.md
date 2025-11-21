@@ -1,26 +1,26 @@
 ---
 id: shi-yuan-miao-song-gu-san-shi-yi-shou-qi-yi
-title: 頌古三十一首  其一
-titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1
+title: 頌古三十一首  其一○
+titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 yi1 ○
 titleSlug: song-gu-san-shi-yi-shou-qi-yi
 author: 釋原妙
 authorPinyin: shi4 yuan2 miao4
 authorSlug: shi-yuan-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 靈山拈出一枝花，百萬都來是作家。
-- 惟有飲光猶未瞥，那堪眼裏又添沙。
+- 自小丹青畫不成，年來始覺藝方精。
+- 等閑擲筆成龍去，換却時人眼裏睛。
 
 ## 拼音
 
-- ling2 shan1 nian1 chu1 yi4 zhi1 hua1 ， bai3 wan4 dou1 lai2 shi4 zuo4 jia1 。
-- wei2 you3 yin3 guang1 you2 wei4 pie1 ， na4 kan1 yan3 li3 you4 tian1 sha1 。
+- zi4 xiao3 dan1 qing1 hua4 bu4 cheng2 ， nian2 lai2 shi3 jue2 yi4 fang1 jing1 。
+- deng3 xian2 zhi4 bi3 cheng2 long2 qu4 ， huan4 que4 shi2 ren2 yan3 li3 jing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qu-sui-wang-jian-yue-yi-shi-jian-xing-qie-qiu-wu-gou-yu-lu-ci-yun-son
 author: 徐鹿卿
 authorPinyin: xu2 lu4 qing1
 authorSlug: xu-lu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

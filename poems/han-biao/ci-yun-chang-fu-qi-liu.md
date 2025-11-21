@@ -6,25 +6,25 @@ titleSlug: ci-yun-chang-fu-qi-liu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老嘆交情少，閒知友道難。
-- 何堪武夷曲，更近子陵灘。
-- 絕口談龍肉，從渠食馬肝。
-- 敢云棲擇木，隨世一枝安。
+- 我圃雖荒亦有梅，相隨酬唱謂何哉。
+- 須知流水孤村外，儘有清明風月來。
+- 幽艷肯因人意發，好花元是化工栽。
+- 幾番立盡空行去，猶記西湖挈杖回。
 
 ## 拼音
 
-- lao3 tan4 jiao1 qing0 shao3 ， xian2 zhi1 you3 dao4 nan2 。
-- he2 kan1 wu3 yi2 qu3 ， geng4 jin4 zi3 ling2 tan1 。
-- jue2 kou3 tan2 long2 rou4 ， cong2 qu2 shi2 ma3 gan1 。
-- gan3 yun2 qi1 ze2 mu4 ， sui2 shi4 yi4 zhi1 an1 。
+- wo3 pu3 sui1 huang1 yi4 you3 mei2 ， xiang1 sui2 chou2 chang4 wei4 he2 zai1 。
+- xu1 zhi1 liu2 shui3 gu1 cun1 wai4 ， jin3 you3 qing1 ming2 feng1 yue4 lai2 。
+- you1 yan4 ken3 yin1 ren2 yi4 fa1 ， hao3 hua1 yuan2 shi4 hua4 gong1 zai1 。
+- ji1 fan1 li4 jin4 kong1 xing2 qu4 ， you2 ji4 xi1 hu2 qie4 zhang4 hui2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: jin-lin-yan-hui-zhi-shen
 author: 柴成務
 authorPinyin: chai2 cheng2 wu4
 authorSlug: chai-cheng-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

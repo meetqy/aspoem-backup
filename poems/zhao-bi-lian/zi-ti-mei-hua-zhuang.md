@@ -6,10 +6,10 @@ titleSlug: zi-ti-mei-hua-zhuang
 author: 趙必漣
 authorPinyin: zhao4 bi4 lian2
 authorSlug: zhao-bi-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

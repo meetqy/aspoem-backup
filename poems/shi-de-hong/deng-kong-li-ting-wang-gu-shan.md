@@ -6,21 +6,21 @@ titleSlug: deng-kong-li-ting-wang-gu-shan
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大江自吞空，中流湧孤山。
-- 欲取藏袖中，歸置几案間。
+- 水面微開笑靨，山形故作横陳。
+- 彭澤詩中圖畫，爲君點出精神。
 
 ## 拼音
 
-- da4 jiang1 zi4 tun1 kong1 ， zhong1 liu2 yong3 gu1 shan1 。
-- yu4 qu3 cang2 xiu4 zhong1 ， gui1 zhi4 ji1 an4 jian4 。
+- shui3 mian4 wei1 kai1 xiao4 ye4 ， shan1 xing2 gu4 zuo4 heng2 chen2 。
+- peng2 ze2 shi1 zhong1 tu2 hua4 ， wei2 jun1 dian3 chu1 jing1 shen2 。
 
 ## 注释
 

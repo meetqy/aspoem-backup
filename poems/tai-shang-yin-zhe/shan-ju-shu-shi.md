@@ -6,10 +6,10 @@ titleSlug: shan-ju-shu-shi
 author: 太上隱者
 authorPinyin: tai4 shang4 yin3 zhe3
 authorSlug: tai-shang-yin-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

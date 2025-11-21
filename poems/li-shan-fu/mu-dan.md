@@ -9,22 +9,24 @@ authorSlug: li-shan-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 邀勒春風不早開，衆芳飄後上樓臺。
-- 數苞仙豔火中出，一片異香天上來。
-- 曉露精神妖欲動，暮煙情態恨成堆。
-- 知君也解相輕薄，斜倚闌干首重迴。
+- 嫚黃妖紫間輕紅，穀雨初晴早景中。
+- 靜女不言還愛日，綵雲無定只隨風。
+- 爐煙坐覺沈檀薄，妝面行看粉黛空。
+- 此別又須經歲月，酒闌把燭遶芳叢。
+- （見《夢梁錄》卷十八）。
 
 ## 拼音
 
-- yao1 le4 chun1 feng1 bu4 zao3 kai1 ， zhong4 fang1 piao1 hou4 shang4 lou2 tai2 。
-- shu4 bao1 xian1 yan4 huo3 zhong1 chu1 ， yi2 pian4 yi4 xiang1 tian1 shang4 lai2 。
-- xiao3 lu4 jing1 shen2 yao1 yu4 dong4 ， mu4 yan1 qing2 tai4 hen4 cheng2 dui1 。
-- zhi1 jun1 ye3 jie3 xiang1 qing1 bao2 ， xie2 yi3 lan2 gan1 shou3 zhong4 hui2 。
+- man4 huang2 yao1 zi3 jian4 qing1 hong2 ， gu3 yu3 chu1 qing2 zao3 jing3 zhong1 。
+- jing4 nü3 bu4 yan2 huan2 ai4 ri4 ， cai3 yun2 wu2 ding4 zhi1 sui2 feng1 。
+- lu2 yan1 zuo4 jue2 shen3 tan2 bao2 ， zhuang1 mian4 xing2 kan4 fen3 dai4 kong1 。
+- ci3 bie2 you4 xu1 jing1 sui4 yue4 ， jiu3 lan2 ba3 zhu2 rao4 fang1 cong2 。
+- （ jian4 《 meng4 liang2 lu4 》 juan4 shi2 ba1 ）。
 
 ## 注释
 

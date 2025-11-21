@@ -6,25 +6,25 @@ titleSlug: ping-shan-tang
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吳山不過楚，江水限中間。
-- 此地一回首，衆峰如可攀。
-- 俯看孤鳥沒，平視白雲還。
-- 行子厭長路，秋風聊解顔。
+- 危棟層軒不易攀，萬峰猶在戶庭間。
+- 長空未省浮雲礙，積翠如遮去鳥還。
+- 寡和陽春隨白雪，知音流水與高山。
+- 吳中辯士嗤枚叟，漫說觀濤可慰顔。
 
 ## 拼音
 
-- wu2 shan1 bu2 guo4 chu3 ， jiang1 shui3 xian4 zhong1 jian4 。
-- ci3 di4 yi4 hui2 shou3 ， zhong4 feng1 ru2 ke3 pan1 。
-- fu3 kan4 gu1 niao3 mei2 ， ping2 shi4 bai2 yun2 huan2 。
-- xing2 zi3 yan4 chang2 lu4 ， qiu1 feng1 liao2 jie3 yan2 。
+- wei1 dong4 ceng2 xuan1 bu2 yi4 pan1 ， wan4 feng1 you2 zai4 hu4 ting2 jian4 。
+- chang2 kong1 wei4 sheng3 fu2 yun2 ai4 ， ji1 cui4 ru2 zhe1 qu4 niao3 huan2 。
+- gua3 he2 yang2 chun1 sui2 bai2 xue3 ， zhi1 yin1 liu2 shui3 yu3 gao1 shan1 。
+- wu2 zhong1 bian4 shi4 chi1 mei2 sou3 ， man4 shuo1 guan1 tao1 ke3 wei4 yan2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ri-mu
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人去紅塵息，林幽晚意清。
-- 秋陽紅旆亂，夕靄翠紳橫。
-- 新月淡無色，微風寒有聲。
-- 此吟猶未竟，城吏已嚴更。
+- 日暮辭前渚，天寒宿遠汀。
+- 青燈同寂寞，濁酒慰飄零。
+- 痛飲無人共，高歌反自聽。
+- 終宵惟此興，日戰破愁亭。
 
 ## 拼音
 
-- ren2 qu4 hong2 chen2 xi1 ， lin2 you1 wan3 yi4 qing1 。
-- qiu1 yang2 hong2 pei4 luan4 ， xi1 ai3 cui4 shen1 heng2 。
-- xin1 yue4 dan4 wu2 se4 ， wei1 feng1 han2 you3 sheng1 。
-- ci3 yin2 you2 wei4 jing4 ， cheng2 li4 yi3 yan2 geng4 。
+- ri4 mu4 ci2 qian2 zhu3 ， tian1 han2 su4 yuan3 ting1 。
+- qing1 deng1 tong2 ji4 mo4 ， zhuo2 jiu3 wei4 piao1 ling2 。
+- tong4 yin3 wu2 ren2 gong4 ， gao1 ge1 fan3 zi4 ting1 。
+- zhong1 xiao1 wei2 ci3 xing1 ， ri4 zhan4 po4 chou2 ting2 。
 
 ## 注释
 

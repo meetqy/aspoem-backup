@@ -6,10 +6,10 @@ titleSlug: guo-bai-jia-rang
 author: 胡嶧
 authorPinyin: hu2 yi4
 authorSlug: hu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

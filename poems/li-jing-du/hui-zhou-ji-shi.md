@@ -6,10 +6,10 @@ titleSlug: hui-zhou-ji-shi
 author: 李靜獨
 authorPinyin: li3 jing4 du2
 authorSlug: li-jing-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

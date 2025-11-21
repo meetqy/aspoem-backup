@@ -1,30 +1,30 @@
 ---
 id: wen-tong-ren-zong-huang-di-wan-shi-shi-shou-qi-yi
-title: 仁宗皇帝挽詩十首・其一
-titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3・qi2 yi1
+title: 仁宗皇帝挽詩十首  其一○
+titlePinyin: ren2 zong1 huang2 di4 wan3 shi1 shi2 shou3     qi2 yi1 ○
 titleSlug: ren-zong-huang-di-wan-shi-shi-shou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 緒業承三聖，規模盛一王。
-- 朝廷周禮樂，庠序漢文章。
-- 殊俗皆歸往，蒸民盡樂康。
-- 帝功如此大，宜享壽無疆。
+- 史祝周壇日，人憂杞國時。
+- 飲池無善效，頮水有遺辭。
+- 仙仗朝三后，蕃儀集四夷。
+- 從今河與洛，長瀉鳳臺悲。
 
 ## 拼音
 
-- xu4 ye4 cheng2 san1 sheng4 ， gui1 mo2 sheng4 yi4 wang2 。
-- chao2 ting2 zhou1 li3 le4 ， xiang2 xu4 han4 wen2 zhang1 。
-- shu1 su2 jie1 gui1 wang3 ， zheng1 min2 jin4 le4 kang1 。
-- di4 gong1 ru2 ci3 da4 ， yi2 xiang3 shou4 wu2 jiang1 。
+- shi3 zhu4 zhou1 tan2 ri4 ， ren2 you1 qi3 guo2 shi2 。
+- yin3 chi2 wu2 shan4 xiao4 ， hui4 shui3 you3 yi2 ci2 。
+- xian1 zhang4 chao2 san1 hou4 ， fan1 yi2 ji2 si4 yi2 。
+- cong2 jin1 he2 yu3 luo4 ， chang2 xie4 feng4 tai2 bei1 。
 
 ## 注释
 

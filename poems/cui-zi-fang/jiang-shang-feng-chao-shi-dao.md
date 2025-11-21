@@ -6,10 +6,10 @@ titleSlug: jiang-shang-feng-chao-shi-dao
 author: 崔子方
 authorPinyin: cui1 zi3 fang1
 authorSlug: cui-zi-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: ting-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 髮已成絲齒半摇，燈殘香盡夜迢迢。
-- 天河不洗胸中恨，却賴簷頭雨滴消。
+- 老態龍鍾疾未平，更堪俗事敗幽情。
+- 紗幮笛簟差堪樂，且聽蕭蕭暮雨聲。
 
 ## 拼音
 
-- fa4 yi3 cheng2 si1 chi3 ban4 yao2 ， deng1 can2 xiang1 jin4 ye4 tiao2 tiao2 。
-- tian1 he2 bu4 xi3 xiong1 zhong1 hen4 ， que4 lai4 yan2 tou2 yu3 di1 xiao1 。
+- lao3 tai4 long2 zhong1 ji2 wei4 ping2 ， geng4 kan1 su2 shi4 bai4 you1 qing2 。
+- sha1 chu2 di2 dian4 cha4 kan1 le4 ， qie3 ting1 xiao1 xiao1 mu4 yu3 sheng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jia-tai-gai-yuan-gui-lin-da-bi-yu-ji-xie-zhe-shi-you-yi-ren-jiu-yue-s
 author: 王正功
 authorPinyin: wang2 zheng4 gong1
 authorSlug: wang-zheng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

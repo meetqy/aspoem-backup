@@ -6,10 +6,10 @@ titleSlug: fu-yang-chen-dai-fu-qian-er-li-chao-li-wen-yong-xie-dao-yu-yu-wen-zhi
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-shi-yue-er-shi-liu-ri-san-ji-qi-er
-title: 十月二十六日三偈・其二
-titlePinyin: shi2 yue4 er4 shi2 liu4 ri4 san1 ji4・qi2 er4
+title: 十月二十六日三偈  其二
+titlePinyin: shi2 yue4 er4 shi2 liu4 ri4 san1 ji4     qi2 er4
 titleSlug: shi-yue-er-shi-liu-ri-san-ji-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,9 +6,9 @@ titleSlug: xiu-ning-cun-luo-jian-you-qi-shi-ru-dan-zi-wo-suo-chu-zhe-yi-yang-shi
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 開禧牧童
 authorPinyin: kai1 xi3 mu4 tong2
 authorSlug: kai-xi-mu-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

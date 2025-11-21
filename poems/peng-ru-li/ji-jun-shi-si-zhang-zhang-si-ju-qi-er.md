@@ -6,21 +6,21 @@ titleSlug: ji-jun-shi-si-zhang-zhang-si-ju-qi-er
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我帆我舟，汎彼大江。
-- 母也吾憂，匪食或皇。
+- 我游我庭，有菊之苗。
+- 于以芼之，既旨且時。
 
 ## 拼音
 
-- wo3 fan1 wo3 zhou1 ， fan4 bi3 da4 jiang1 。
-- mu3 ye3 wu2 you1 ， fei3 shi2 huo4 huang2 。
+- wo3 you2 wo3 ting2 ， you3 ju2 zhi1 miao2 。
+- yu2 yi3 mao4 zhi1 ， ji4 zhi3 qie3 shi2 。
 
 ## 注释
 

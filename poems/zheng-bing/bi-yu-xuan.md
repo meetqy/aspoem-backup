@@ -6,10 +6,10 @@ titleSlug: bi-yu-xuan
 author: 鄭丙
 authorPinyin: zheng4 bing3
 authorSlug: zheng-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

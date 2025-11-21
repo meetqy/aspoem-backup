@@ -6,9 +6,9 @@ titleSlug: nan-shui-cun
 author: 盧多遜
 authorPinyin: lu2 duo1 xun4
 authorSlug: lu-duo-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

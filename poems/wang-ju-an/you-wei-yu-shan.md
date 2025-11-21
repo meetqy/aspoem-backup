@@ -6,10 +6,10 @@ titleSlug: you-wei-yu-shan
 author: 王居安
 authorPinyin: wang2 ju1 an1
 authorSlug: wang-ju-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

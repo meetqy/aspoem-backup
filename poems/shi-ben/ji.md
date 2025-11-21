@@ -6,21 +6,21 @@ titleSlug: ji
 author: 釋本
 authorPinyin: shi4 ben3
 authorSlug: shi-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五峰家風，南北西東。
-- 要用便用，以橛釘空。
+- 半在河南半在北，一片虛凝似墨黑。
+- 冷地思量愁殺人，叵耐雲門這老賊。
 
 ## 拼音
 
-- wu3 feng1 jia1 feng1 ， nan2 bei3 xi1 dong1 。
-- yao4 yong4 bian4 yong4 ， yi3 jue2 ding1 kong1 。
+- ban4 zai4 he2 nan2 ban4 zai4 bei3 ， yi2 pian4 xu1 ning2 si4 mo4 hei1 。
+- leng3 di4 si1 liang0 chou2 sha1 ren2 ， po3 nai4 yun2 men2 zhe4 lao3 zei2 。
 
 ## 注释
 

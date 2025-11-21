@@ -6,9 +6,9 @@ titleSlug: gong-ci-qi-liu-ba
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

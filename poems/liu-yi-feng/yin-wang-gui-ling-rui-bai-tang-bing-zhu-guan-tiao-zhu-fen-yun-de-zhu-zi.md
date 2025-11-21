@@ -6,10 +6,10 @@ titleSlug: yin-wang-gui-ling-rui-bai-tang-bing-zhu-guan-tiao-zhu-fen-yun-de-zhu-
 author: 劉儀鳳
 authorPinyin: liu2 yi2 feng4
 authorSlug: liu-yi-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

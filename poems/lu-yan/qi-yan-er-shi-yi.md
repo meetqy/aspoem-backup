@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 浮名浮利兩何堪，迴首歸山味轉甘。
-- 舉世算無心可契，誰人更與道相參。
-- 寸猶未到甘談尺，一尚難明強說三。
-- 經卷葫蘆幷拄杖，依前擔入舊江南。
+- 黃芽白雪兩飛金，行即高歌醉即吟。
+- 日月暗扶君甲子，乾坤自與我知音。
+- 精靈滅跡三清劍，風雨騰空一弄琴。
+- 的當南遊歸甚處，莫交鶴去上天尋。
 
 ## 拼音
 
-- fu2 ming2 fu2 li4 liang3 he2 kan1 ， hui2 shou3 gui1 shan1 wei4 zhuan3 gan1 。
-- ju3 shi4 suan4 wu2 xin1 ke3 qi4 ， shui2 ren2 geng4 yu3 dao4 xiang1 can1 。
-- cun4 you2 wei4 dao4 gan1 tan2 chi3 ， yi2 shang4 nan2 ming2 qiang2 shuo1 san1 。
-- jing1 juan4 hu2 lu2 bing4 zhu3 zhang4 ， yi1 qian2 dan1 ru4 jiu4 jiang1 nan2 。
+- huang2 ya2 bai2 xue3 liang3 fei1 jin1 ， xing2 ji2 gao1 ge1 zui4 ji2 yin2 。
+- ri4 yue4 an4 fu2 jun1 jia3 zi3 ， qian2 kun1 zi4 yu3 wo3 zhi1 yin1 。
+- jing1 ling2 mie4 ji4 san1 qing1 jian4 ， feng1 yu3 teng2 kong1 yi2 nong4 qin2 。
+- de0 dang1 nan2 you2 gui1 shen4 chu3 ， mo4 jiao1 he4 qu4 shang4 tian1 xun2 。
 
 ## 注释
 

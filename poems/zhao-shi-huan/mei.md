@@ -6,10 +6,10 @@ titleSlug: mei
 author: 趙時煥
 authorPinyin: zhao4 shi2 huan4
 authorSlug: zhao-shi-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

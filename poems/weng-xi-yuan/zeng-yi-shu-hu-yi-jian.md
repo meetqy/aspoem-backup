@@ -6,10 +6,10 @@ titleSlug: zeng-yi-shu-hu-yi-jian
 author: 翁溪園
 authorPinyin: weng1 xi1 yuan2
 authorSlug: weng-xi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

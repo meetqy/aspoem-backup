@@ -6,25 +6,25 @@ titleSlug: yang-qi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 養氣安心不計年，未嘗一念住愁邊。
-- 才疏屢掃朝中迹，命薄翻成世外緣。
-- 耐老尚能消劫石，放狂聊復醉江天。
-- 飽知句曲羅浮路，不訪初平即稚川。
+- 學道先養氣，吾聞三住章。
+- 屏除金鼎藥，糠秕玉函方。
+- 凜凜春冰履，兢兢拱璧藏。
+- 高談忘力守，此病最膏肓。
 
 ## 拼音
 
-- yang3 qi4 an1 xin1 bu2 ji4 nian2 ， wei4 chang2 yi2 nian4 zhu4 chou2 bian1 。
-- cai2 shu1 lü3 sao3 chao2 zhong1 ji4 ， ming4 bao2 fan1 cheng2 shi4 wai4 yuan2 。
-- nai4 lao3 shang4 neng2 xiao1 jie2 shi2 ， fang4 kuang2 liao2 fu4 zui4 jiang1 tian1 。
-- bao3 zhi1 ju4 qu3 luo2 fu2 lu4 ， bu4 fang3 chu1 ping2 ji2 zhi4 chuan1 。
+- xue2 dao4 xian1 yang3 qi4 ， wu2 wen2 san1 zhu4 zhang1 。
+- bing3 chu2 jin1 ding3 yao4 ， kang1 bi3 yu4 han2 fang1 。
+- lin3 lin3 chun1 bing1 lü3 ， jing1 jing1 gong3 bi4 cang2 。
+- gao1 tan2 wang4 li4 shou3 ， ci3 bing4 zui4 gao1 huang1 。
 
 ## 注释
 

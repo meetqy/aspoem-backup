@@ -6,25 +6,25 @@ titleSlug: ji-shi-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禿翁未敢佚餘生，洗竹澆蘭立課程。
-- 辛苦謀身無甕算，殷勤娛耳有瓶笙。
-- 罏寒燒葉回春意，燭盡携書就月明。
-- 一欠伸間分夢覺，何須它日曲池平。
+- 碧玉去隨年少易，絳桃留待主君難。
+- 喚郎豈有雲神女，觴客寧無黑牡丹。
+- 漢上謾爲留佩惱，湘東曾被淡粧瞞。
+- 維摩老病禪房冷，一點青燈伴夜闌。
 
 ## 拼音
 
-- tu1 weng1 wei4 gan3 yi4 yu2 sheng1 ， xi3 zhu2 jiao1 lan2 li4 ke4 cheng2 。
-- xin1 ku3 mou2 shen1 wu2 weng4 suan4 ， yin1 qin2 yu2 er3 you3 ping2 sheng1 。
-- lu2 han2 shao1 ye4 hui2 chun1 yi4 ， zhu2 jin4 xie2 shu1 jiu4 yue4 ming2 。
-- yi2 qian4 shen1 jian4 fen1 meng4 jue2 ， he2 xu1 ta1 ri4 qu3 chi2 ping2 。
+- bi4 yu4 qu4 sui2 nian2 shao4 yi4 ， jiang4 tao2 liu2 dai4 zhu3 jun1 nan2 。
+- huan4 lang2 qi3 you3 yun2 shen2 nü3 ， shang1 ke4 ning2 wu2 hei1 mu3 dan1 。
+- han4 shang4 man2 wei2 liu2 pei4 nao3 ， xiang1 dong1 ceng2 bei4 dan4 zhuang1 man2 。
+- wei2 mo2 lao3 bing4 shan4 fang2 leng3 ， yi4 dian3 qing1 deng1 ban4 ye4 lan2 。
 
 ## 注释
 

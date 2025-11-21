@@ -6,10 +6,10 @@ titleSlug: shi-hua-ting
 author: 翁緯
 authorPinyin: weng1 wei3
 authorSlug: weng-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

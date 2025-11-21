@@ -6,10 +6,10 @@ titleSlug: wang-meng-de-yi-jiu-chu-yuan-gui-hui-shi-ci-yun
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

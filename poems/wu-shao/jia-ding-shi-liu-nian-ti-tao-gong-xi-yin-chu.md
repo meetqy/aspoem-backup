@@ -6,10 +6,10 @@ titleSlug: jia-ding-shi-liu-nian-ti-tao-gong-xi-yin-chu
 author: 吳紹
 authorPinyin: wu2 shao4
 authorSlug: wu-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

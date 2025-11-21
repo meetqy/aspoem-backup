@@ -6,10 +6,10 @@ titleSlug: dong-zhi-ri-chen-cui-xi-shang-fen-fu-yi-yang-lai-fu-tan-de-fu-zi
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

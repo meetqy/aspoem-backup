@@ -6,25 +6,21 @@ titleSlug: hu-ting
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湖波方瀰瀰，柳影自珊珊。
-- 有客坐終日，城中無此閒。
-- 鳥飛明鏡裏，人語翠帷間。
-- 月下清尤甚，今宵擬不還。
+- 一堤楊柳青絲輭，百頃芙蕖錦障開。
+- 中有閒人心似水，坐看沙鳥鏡中來。
 
 ## 拼音
 
-- hu2 bo1 fang1 mi2 mi2 ， liu3 ying3 zi4 shan1 shan1 。
-- you3 ke4 zuo4 zhong1 ri4 ， cheng2 zhong1 wu2 ci3 xian2 。
-- niao3 fei1 ming2 jing4 li3 ， ren2 yu3 cui4 wei2 jian4 。
-- yue4 xia4 qing1 you2 shen4 ， jin1 xiao1 ni3 bu4 huan2 。
+- yi4 di1 yang2 liu3 qing1 si1 ruan3 ， bai3 qing3 fu2 qu2 jin3 zhang4 kai1 。
+- zhong1 you3 xian2 ren2 xin1 si4 shui3 ， zuo4 kan4 sha1 niao3 jing4 zhong1 lai2 。
 
 ## 注释
 

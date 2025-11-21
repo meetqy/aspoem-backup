@@ -1,26 +1,26 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-yi-qi
-title: 偈頌一百三十三首  其一七
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 qi1
+title: 偈頌一百三十三首  其一○七
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 ○ qi1
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-yi-qi
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東弗于逮，西瞿耶尼。
-- 清清之水，遊鱼自迷。
+- 不坐空王殿，不掛本來衣。
+- 何須便恁麽，切忌未生時。
 
 ## 拼音
 
-- dong1 fu2 yu2 dai3 ， xi1 qu2 ye1 ni2 。
-- qing1 qing1 zhi1 shui3 ， you2 yu2 zi4 mi2 。
+- bu2 zuo4 kong1 wang2 dian4 ， bu2 gua4 ben3 lai2 yi1 。
+- he2 xu1 bian4 nen4 mo2 ， qie4 ji4 wei4 sheng1 shi2 。
 
 ## 注释
 

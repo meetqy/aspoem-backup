@@ -6,37 +6,25 @@ titleSlug: zi-he
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 忽思湖上趣，水闊似南州。
-- 地接過從易，人閑取次留。
-- 絮輕遞吹卷，蒲嫩匝堤幽。
-- 落果知禽入，行莎覺履柔。
-- 蓮爲游女曲，藤繫野人舟。
-- 晚筍長過篠，春秧綠滿疇。
-- 賞心曾卜晝，望岫最宜秋。
-- 款款穿叢蝶，涓涓敗堰流。
-- 風埃無入座，笳鼓或驚鷗。
-- 下客林泉性，時能夢寐遊。
+- 沉水香焚金博山，杜陵誰復與車還。
+- 馬尋綺陌知何曲，人在珠簾第幾間。
+- 法部樂聲長滿耳，上樽醇味易酡顔。
+- 更貧更賤皆能樂，十二重門不上關。
 
 ## 拼音
 
-- hu1 si1 hu2 shang4 qu4 ， shui3 kuo4 si4 nan2 zhou1 。
-- di4 jie1 guo4 cong2 yi4 ， ren2 xian2 qu3 ci4 liu2 。
-- xu4 qing1 di4 chui1 juan4 ， pu2 nen4 za1 di1 you1 。
-- luo4 guo3 zhi1 qin2 ru4 ， xing2 sha1 jue2 lü3 rou2 。
-- lian2 wei2 you2 nü3 qu3 ， teng2 xi4 ye3 ren2 zhou1 。
-- wan3 sun3 chang2 guo4 xiao3 ， chun1 yang1 lü4 man3 chou2 。
-- shang3 xin1 ceng2 bu3 zhou4 ， wang4 xiu4 zui4 yi2 qiu1 。
-- kuan3 kuan3 chuan1 cong2 die2 ， juan1 juan1 bai4 yan4 liu2 。
-- feng1 ai1 wu2 ru4 zuo4 ， jia1 gu3 huo4 jing1 ou1 。
-- xia4 ke4 lin2 quan2 xing4 ， shi2 neng2 meng4 mei4 you2 。
+- chen2 shui3 xiang1 fen2 jin1 bo2 shan1 ， du4 ling2 shui2 fu4 yu3 ju1 huan2 。
+- ma3 xun2 qi3 mo4 zhi1 he2 qu3 ， ren2 zai4 zhu1 lian2 di4 ji1 jian4 。
+- fa3 bu4 le4 sheng1 chang2 man3 er3 ， shang4 zun1 chun2 wei4 yi4 tuo2 yan2 。
+- geng4 pin2 geng4 jian4 jie1 neng2 le4 ， shi2 er4 zhong4 men2 bu2 shang4 guan1 。
 
 ## 注释
 

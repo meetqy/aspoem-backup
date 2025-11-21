@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梨花如雪照庭隅，魄月淪精上海初。
-- 禁鼓方傳宮漏閉，嬪嬙相拉夜看書。
+- 新月彎彎掛碧空，嬪嬙争拜望圓穹。
+- 倚闌長是躊躇久，應想姮娥在桂宮。
 
 ## 拼音
 
-- li2 hua1 ru2 xue3 zhao4 ting2 yu2 ， po4 yue4 lun2 jing1 shang4 hai3 chu1 。
-- jin4 gu3 fang1 chuan2 gong1 lou4 bi4 ， pin2 qiang2 xiang1 la1 ye4 kan4 shu1 。
+- xin1 yue4 wan1 wan1 gua4 bi4 kong1 ， pin2 qiang2 zheng1 bai4 wang4 yuan2 qiong2 。
+- yi3 lan2 chang2 shi4 chou2 chu2 jiu3 ， ying1 xiang3 heng2 e2 zai4 gui4 gong1 。
 
 ## 注释
 

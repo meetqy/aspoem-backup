@@ -6,21 +6,21 @@ titleSlug: ji-shi-qi-yi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三宮九廟事方危，狼子心腸未可知。
-- 若使無人折狂虜，東南那箇是男兒。
+- 不拚一死報封疆，忍使湖山牧虎狼。
+- 當日本爲妻子計，而今何面見三光。
 
 ## 拼音
 
-- san1 gong1 jiu3 miao4 shi4 fang1 wei1 ， lang2 zi3 xin1 chang2 wei4 ke3 zhi1 。
-- ruo4 shi3 wu2 ren2 zhe2 kuang2 lu3 ， dong1 nan2 na4 ge4 shi4 nan2 er2 。
+- bu4 pin1 yi4 si3 bao4 feng1 jiang1 ， ren3 shi3 hu2 shan1 mu4 hu3 lang2 。
+- dang1 ri4 ben3 wei2 qi1 zi0 ji4 ， er2 jin1 he2 mian4 jian4 san1 guang1 。
 
 ## 注释
 

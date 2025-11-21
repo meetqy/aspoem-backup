@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李誼伯
 authorPinyin: li3 yi4 bo2
 authorSlug: li-yi-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

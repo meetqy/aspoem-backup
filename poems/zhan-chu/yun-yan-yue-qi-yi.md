@@ -6,10 +6,10 @@ titleSlug: yun-yan-yue-qi-yi
 author: 詹初
 authorPinyin: zhan1 chu1
 authorSlug: zhan-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

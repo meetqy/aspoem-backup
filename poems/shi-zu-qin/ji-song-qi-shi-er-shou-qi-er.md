@@ -1,26 +1,26 @@
 ---
 id: shi-zu-qin-ji-song-qi-shi-er-shou-qi-er
-title: 偈頌七十二首  其二
-titlePinyin: ji4 song4 qi1 shi2 er4 shou3     qi2 er4
+title: 偈頌七十二首  其二○
+titlePinyin: ji4 song4 qi1 shi2 er4 shou3     qi2 er4 ○
 titleSlug: ji-song-qi-shi-er-shou-qi-er
 author: 釋祖欽
 authorPinyin: shi4 zu3 qin1
 authorSlug: shi-zu-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西來十萬路迢迢，智鑑當軒影莫逃。
-- 四海浪平龍睡穩，九霄雲浄鶴飛高。
+- 東君有令不虛行，三頓烏藤大險生。
+- 龍得水時增意氣，虎逢山色長威獰。
 
 ## 拼音
 
-- xi1 lai2 shi2 wan4 lu4 tiao2 tiao2 ， zhi4 jian4 dang1 xuan1 ying3 mo4 tao2 。
-- si4 hai3 lang4 ping2 long2 shui4 wen3 ， jiu3 xiao1 yun2 jing4 he4 fei1 gao1 。
+- dong1 jun1 you3 ling4 bu4 xu1 xing2 ， san1 dun4 wu1 teng2 da4 xian3 sheng1 。
+- long2 de2 shui3 shi2 zeng1 yi4 qi4 ， hu3 feng2 shan1 se4 chang2 wei1 ning2 。
 
 ## 注释
 

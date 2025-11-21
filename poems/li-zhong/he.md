@@ -9,18 +9,22 @@ authorSlug: li-zhong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 警露精神異，沖天羽翼新。
-- 千年一歸日，誰識令威身。
+- 九臯羽翼下晴空，萬里心難駐玉籠。
+- 清露滴時翹蘚徑，白雲開處唳松風。
+- 歸當華表千年後，怨在瑤琴別操中。
+- 好共靈龜作儔侶，十洲三島逐仙翁。
 
 ## 拼音
 
-- jing3 lu4 jing1 shen2 yi4 ， chong1 tian1 yu3 yi4 xin1 。
-- qian1 nian2 yi4 gui1 ri4 ， shui2 shi2 ling4 wei1 shen1 。
+- jiu3 gao1 yu3 yi4 xia4 qing2 kong1 ， wan4 li3 xin1 nan2 zhu4 yu4 long2 。
+- qing1 lu4 di1 shi2 qiao2 xian3 jing4 ， bai2 yun2 kai1 chu3 li4 song1 feng1 。
+- gui1 dang1 hua2 biao3 qian1 nian2 hou4 ， yuan4 zai4 yao2 qin2 bie2 cao1 zhong1 。
+- hao3 gong4 ling2 gui1 zuo4 chou2 lü3 ， shi2 zhou1 san1 dao3 zhu2 xian1 weng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-gu-zhi-rong-zhou-chao-qing-tao-gong-zhang-er-shou-qi-er
 author: 易中行
 authorPinyin: yi4 zhong1 hang2
 authorSlug: yi-zhong-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

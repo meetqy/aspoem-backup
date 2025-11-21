@@ -1,7 +1,7 @@
 ---
 id: li-jiao-luo
-title: 洛
-titlePinyin: luo4
+title: 羅
+titlePinyin: luo2
 titleSlug: luo
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 九洛韶光媚，三川物候新。
-- 花明丹鳳浦，日映玉雞津。
-- 元禮期仙客，陳王覩麗人。
-- 神龜方錫瑞，綠字重來臻。
+- 妙舞隨裙動，行歌入扇清。
+- 蓮花依帳發，秋月鑒帷明。
+- 雲薄衣初捲，蟬飛翼轉輕。
+- 若珍三代服，同擅綺紈名。
 
 ## 拼音
 
-- jiu3 luo4 shao2 guang1 mei4 ， san1 chuan1 wu4 hou4 xin1 。
-- hua1 ming2 dan1 feng4 pu3 ， ri4 ying4 yu4 ji1 jin1 。
-- yuan2 li3 qi1 xian1 ke4 ， chen2 wang2 du3 li2 ren2 。
-- shen2 gui1 fang1 xi1 rui4 ， lü4 zi4 zhong4 lai2 zhen1 。
+- miao4 wu3 sui2 qun2 dong4 ， xing2 ge1 ru4 shan4 qing1 。
+- lian2 hua1 yi1 zhang4 fa1 ， qiu1 yue4 jian4 wei2 ming2 。
+- yun2 bao2 yi1 chu1 juan3 ， chan2 fei1 yi4 zhuan3 qing1 。
+- ruo4 zhen1 san1 dai4 fu2 ， tong2 shan4 qi3 wan2 ming2 。
 
 ## 注释
 

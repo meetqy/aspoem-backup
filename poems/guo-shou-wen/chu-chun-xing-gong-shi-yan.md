@@ -6,9 +6,9 @@ titleSlug: chu-chun-xing-gong-shi-yan
 author: 郭守文
 authorPinyin: guo1 shou3 wen2
 authorSlug: guo-shou-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

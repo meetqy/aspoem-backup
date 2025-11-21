@@ -6,10 +6,10 @@ titleSlug: she-qian-yi-ri-dian-jian-shan-fang-yong-he-zi-yun
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhang-gong-fu-jiu-zi-shi-ke-mu-guo-gong-fu-gu-yi-zhi-qiu-yu-shu-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

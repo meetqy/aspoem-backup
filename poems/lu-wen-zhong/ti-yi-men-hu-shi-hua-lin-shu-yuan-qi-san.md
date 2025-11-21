@@ -6,10 +6,10 @@ titleSlug: ti-yi-men-hu-shi-hua-lin-shu-yuan-qi-san
 author: 呂文仲
 authorPinyin: lü3 wen2 zhong4
 authorSlug: lu-wen-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yu-zhong-fang-si-ma-song-qiu-yun
 author: 丁世昌
 authorPinyin: ding1 shi4 chang1
 authorSlug: ding-shi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

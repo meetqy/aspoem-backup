@@ -6,21 +6,21 @@ titleSlug: tai-shang-huang-hou-he-chun-tie-zi-qi-yi
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 壽擬南山祝，春從北斗回。
-- 物華欣向泰，厚德發生來。
+- 補天立極寄何言，媲德同歸太極尊。
+- 德壽宮中康壽殿，春來別有一乾坤。
 
 ## 拼音
 
-- shou4 ni3 nan2 shan1 zhu4 ， chun1 cong2 bei3 dou3 hui2 。
-- wu4 hua2 xin1 xiang4 tai4 ， hou4 de2 fa1 sheng1 lai2 。
+- bu3 tian1 li4 ji2 ji4 he2 yan2 ， pi4 de2 tong2 gui1 tai4 ji2 zun1 。
+- de2 shou4 gong1 zhong1 kang1 shou4 dian4 ， chun1 lai2 bie2 you3 yi4 qian2 kun1 。
 
 ## 注释
 

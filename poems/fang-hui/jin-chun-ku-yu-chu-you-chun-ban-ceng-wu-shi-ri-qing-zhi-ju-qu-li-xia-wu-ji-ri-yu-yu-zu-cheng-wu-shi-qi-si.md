@@ -6,10 +6,10 @@ titleSlug: jin-chun-ku-yu-chu-you-chun-ban-ceng-wu-shi-ri-qing-zhi-ju-qu-li-xia-
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

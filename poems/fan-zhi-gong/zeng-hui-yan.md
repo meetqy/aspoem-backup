@@ -6,10 +6,10 @@ titleSlug: zeng-hui-yan
 author: 范置公
 authorPinyin: fan4 zhi4 gong1
 authorSlug: fan-zhi-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

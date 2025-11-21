@@ -1,30 +1,30 @@
 ---
 id: zhao-fan-qiu-huai-shi-shou-qi-yi
-title: 秋懷十首  其一
-titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1
+title: 秋懷十首  其一○
+titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: qiu-huai-shi-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋林如老髮，賸好忽已衰。
-- 委身造物中，寧得逭厥時。
-- 木落有再榮，人衰無少期。
-- 可不思自勉，無聞戒在茲。
+- 情親骨肉均，未可一一數。
+- 君家蓋其人，進也邊城戍。
+- 肅儀雖近家，白首猶管庫。
+- 好歌歸去來，莫賦感不遇。
 
 ## 拼音
 
-- qiu1 lin2 ru2 lao3 fa4 ， sheng4 hao3 hu1 yi3 shuai1 。
-- wei3 shen1 zao4 wu4 zhong1 ， ning2 de2 huan4 jue2 shi2 。
-- mu4 luo4 you3 zai4 rong2 ， ren2 shuai1 wu2 shao3 qi1 。
-- ke3 bu4 si1 zi4 mian3 ， wu2 wen2 jie4 zai4 zi1 。
+- qing2 qin1 gu3 rou4 jun1 ， wei4 ke3 yi1 yi1 shu4 。
+- jun1 jia1 gai4 qi2 ren2 ， jin4 ye3 bian1 cheng2 shu4 。
+- su4 yi2 sui1 jin4 jia1 ， bai2 shou3 you2 guan3 ku4 。
+- hao3 ge1 gui1 qu4 lai2 ， mo4 fu4 gan3 bu2 yu4 。
 
 ## 注释
 

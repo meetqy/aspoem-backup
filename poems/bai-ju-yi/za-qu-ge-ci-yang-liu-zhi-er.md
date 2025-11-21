@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一樹衰殘委泥土，雙枝榮耀植天庭。
-- 定知玄象今春後，柳宿光中添兩星。
+- 陶令門前四五樹，亞夫營裏百千條。
+- 何似東都正二月，黃金枝映洛陽橋。
 
 ## 拼音
 
-- yi2 shu4 shuai1 can2 wei3 ni2 tu3 ， shuang1 zhi1 rong2 yao4 zhi2 tian1 ting2 。
-- ding4 zhi1 xuan2 xiang4 jin1 chun1 hou4 ， liu3 su4 guang1 zhong1 tian1 liang3 xing1 。
+- tao2 ling4 men2 qian2 si4 wu3 shu4 ， ya1 fu1 ying2 li3 bai3 qian1 tiao2 。
+- he2 si4 dong1 dou1 zheng4 er4 yue4 ， huang2 jin1 zhi1 ying4 luo4 yang2 qiao2 。
 
 ## 注释
 

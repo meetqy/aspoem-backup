@@ -9,26 +9,28 @@ authorSlug: zhao-gu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 浮雲悲晚翠，落日泣秋風。
-- 語風雙燕立，褭樹百勞飛。
-- 松島鶴歸書信絕，橘洲風起夢魂香。
-- 徒知六國隨斤斧，莫有羣儒定是非。
-- 一千里色中秋月，十萬軍聲半夜潮。
-- 梁王舊館已秋色，珠履少年輕繡衣。
+- 池上昔遊夫子鳳，雲間初起武侯龍。
+- 亭分楚寺依依樹，水應公臺夜夜琴。
+- 鴝鵒舞酣人自醉，琵琶聲緩客初來。
+- 高鳥過時秋色動，征帆落處暮煙生。
+- 夜吟孤枕潮聲近，晚過千山雪氣寒。
+- 望臘早花緣路見，隨巖寒水隔林聞。
+- 宿處客塵隨夜靜，坐中煙水向人閑。
 
 ## 拼音
 
-- fu2 yun2 bei1 wan3 cui4 ， luo4 ri4 qi4 qiu1 feng1 。
-- yu3 feng1 shuang1 yan4 li4 ， niao3 shu4 bai3 lao2 fei1 。
-- song1 dao3 he4 gui1 shu1 xin4 jue2 ， ju2 zhou1 feng1 qi3 meng4 hun2 xiang1 。
-- tu2 zhi1 liu4 guo2 sui2 jin1 fu3 ， mo4 you3 qun2 ru2 ding4 shi4 fei1 。
-- yi4 qian1 li3 se4 zhong1 qiu1 yue4 ， shi2 wan4 jun1 sheng1 ban4 ye4 chao2 。
-- liang2 wang2 jiu4 guan3 yi3 qiu1 se4 ， zhu1 lü3 shao4 nian2 qing1 xiu4 yi1 。
+- chi2 shang4 xi1 you2 fu1 zi3 feng4 ， yun2 jian4 chu1 qi3 wu3 hou2 long2 。
+- ting2 fen1 chu3 si4 yi1 yi1 shu4 ， shui3 ying1 gong1 tai2 ye4 ye4 qin2 。
+- qu2 yu4 wu3 han1 ren2 zi4 zui4 ， pi2 pa0 sheng1 huan3 ke4 chu1 lai2 。
+- gao1 niao3 guo4 shi2 qiu1 se4 dong4 ， zheng1 fan1 luo4 chu3 mu4 yan1 sheng1 。
+- ye4 yin2 gu1 zhen3 chao2 sheng1 jin4 ， wan3 guo4 qian1 shan1 xue3 qi4 han2 。
+- wang4 la4 zao3 hua1 yuan2 lu4 jian4 ， sui2 yan2 han2 shui3 ge2 lin2 wen2 。
+- su4 chu3 ke4 chen2 sui2 ye4 jing4 ， zuo4 zhong1 yan1 shui3 xiang4 ren2 xian2 。
 
 ## 注释
 

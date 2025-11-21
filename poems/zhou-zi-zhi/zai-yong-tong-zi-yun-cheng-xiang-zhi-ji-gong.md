@@ -6,25 +6,25 @@ titleSlug: zai-yong-tong-zi-yun-cheng-xiang-zhi-ji-gong
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柳邊輕絮不禁風，春事如梭過眼空。
-- 已有細枝催暗綠，忍看疏雨打殘紅。
-- 强將瘦馬欹烏帽，只合秋江把釣筒。
-- 賴此同遊兩陶謝，詩成渾在笑談中。
+- 似僧寮外看春風，晏坐尋詩不寫空。
+- 春事可憐樽酒在，旅情猶念舞衣紅。
+- 去家久似千年鶴，時節看沉五綵筒。
+- 節物苦催雙髩白，故鄉常着夢魂中。
 
 ## 拼音
 
-- liu3 bian1 qing1 xu4 bu4 jin1 feng1 ， chun1 shi4 ru2 suo1 guo4 yan3 kong1 。
-- yi3 you3 xi4 zhi1 cui1 an4 lü4 ， ren3 kan4 shu1 yu3 da3 can2 hong2 。
-- qiang2 jiang1 shou4 ma3 qi1 wu1 mao4 ， zhi1 he2 qiu1 jiang1 ba3 diao4 tong3 。
-- lai4 ci3 tong2 you2 liang3 tao2 xie4 ， shi1 cheng2 hun2 zai4 xiao4 tan2 zhong1 。
+- si4 seng1 liao2 wai4 kan4 chun1 feng1 ， yan4 zuo4 xun2 shi1 bu4 xie3 kong1 。
+- chun1 shi4 ke3 lian2 zun1 jiu3 zai4 ， lü3 qing2 you2 nian4 wu3 yi1 hong2 。
+- qu4 jia1 jiu3 si4 qian1 nian2 he4 ， shi2 jie2 kan4 chen2 wu3 cai3 tong3 。
+- jie2 wu4 ku3 cui1 shuang1 bin4 bai2 ， gu4 xiang1 chang2 zhe0 meng4 hun2 zhong1 。
 
 ## 注释
 

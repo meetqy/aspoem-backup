@@ -6,10 +6,10 @@ titleSlug: ji-wu-meng-he
 author: 杜北山
 authorPinyin: du4 bei3 shan1
 authorSlug: du-bei-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-cheng-du-ze-qiao-guan-yin-yuan-zi-hua-zhu
 author: 程堂
 authorPinyin: cheng2 tang2
 authorSlug: cheng-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

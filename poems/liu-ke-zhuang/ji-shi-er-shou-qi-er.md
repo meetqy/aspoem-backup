@@ -6,25 +6,25 @@ titleSlug: ji-shi-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 生涯草草旋安排，先架茅堂次竹齋。
-- 傍榾柮邊名燠室，有榕樹處當凉臺。
-- 且饒林下一人去，莫問門前幾客來。
-- 新買溪西山數畝，便思輦石更移梅。
+- 非人不暖豈其然，卷起桃笙設艾氈。
+- 老物可憎吾頓覺，盛時一失汝堪憐。
+- 有分香妓空遺臭，無散花魔莫惱禪。
+- 多謝小窗半規月，夜深長伴絳紗邊。
 
 ## 拼音
 
-- sheng1 ya2 cao3 cao3 xuan2 an1 pai2 ， xian1 jia4 mao2 tang2 ci4 zhu2 zhai1 。
-- bang4 gu3 duo4 bian1 ming2 yu4 shi4 ， you3 rong2 shu4 chu3 dang1 liang2 tai2 。
-- qie3 rao2 lin2 xia4 yi4 ren2 qu4 ， mo4 wen4 men2 qian2 ji1 ke4 lai2 。
-- xin1 mai3 xi1 xi1 shan1 shu4 mu3 ， bian4 si1 nian3 shi2 geng4 yi2 mei2 。
+- fei1 ren2 bu4 nuan3 qi3 qi2 ran2 ， juan3 qi3 tao2 sheng1 she4 ai4 zhan1 。
+- lao3 wu4 ke3 zeng1 wu2 dun4 jue2 ， sheng4 shi2 yi4 shi1 ru3 kan1 lian2 。
+- you3 fen1 xiang1 ji4 kong1 yi2 chou4 ， wu2 san4 hua1 mo2 mo4 nao3 shan4 。
+- duo1 xie4 xiao3 chuang1 ban4 gui1 yue4 ， ye4 shen1 chang2 ban4 jiang4 sha1 bian1 。
 
 ## 注释
 

@@ -9,22 +9,22 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 日炙旱雲裂，迸爲千道血。
-- 天地沸一鑊，竟自烹妖孽。
-- 堯湯遇災數，災數還中輟。
-- 何事姦與邪，古來難撲滅。
+- 籜冠新帶步池塘，逸韻偏宜夏景長。
+- 扶起綠荷承早露，驚迴白鳥入殘陽。
+- 久無書去干時貴，時有僧來自故鄉。
+- 不用名山訪真訣，退休便是養生方。
 
 ## 拼音
 
-- ri4 zhi4 han4 yun2 lie4 ， beng4 wei2 qian1 dao4 xue4 。
-- tian1 di4 fei4 yi2 huo4 ， jing4 zi4 peng1 yao1 nie4 。
-- yao2 tang1 yu4 zai1 shu4 ， zai1 shu4 huan2 zhong1 chuo4 。
-- he2 shi4 jian1 yu3 xie2 ， gu3 lai2 nan2 pu1 mie4 。
+- tuo4 guan1 xin1 dai4 bu4 chi2 tang2 ， yi4 yun4 pian1 yi2 xia4 jing3 chang2 。
+- fu2 qi3 lü4 he2 cheng2 zao3 lu4 ， jing1 hui2 bai2 niao3 ru4 can2 yang2 。
+- jiu3 wu2 shu1 qu4 gan1 shi2 gui4 ， shi2 you3 seng1 lai2 zi4 gu4 xiang1 。
+- bu2 yong4 ming2 shan1 fang3 zhen1 jue2 ， tui4 xiu1 bian4 shi4 yang3 sheng1 fang1 。
 
 ## 注释
 

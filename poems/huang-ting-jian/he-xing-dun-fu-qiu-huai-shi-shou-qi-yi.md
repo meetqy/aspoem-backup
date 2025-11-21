@@ -1,30 +1,30 @@
 ---
 id: huang-ting-jian-he-xing-dun-fu-qiu-huai-shi-shou-qi-yi
-title: 和邢惇夫秋懷十首  其一
-titlePinyin: he2 xing2 dun1 fu1 qiu1 huai2 shi2 shou3     qi2 yi1
+title: 和邢惇夫秋懷十首  其一○
+titlePinyin: he2 xing2 dun1 fu1 qiu1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: he-xing-dun-fu-qiu-huai-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘暑已俶裝，好風方來歸。
-- 未能疏團扇，且復製秋衣。
-- 高蟬遽如許，長吟送落暉。
-- 相戒趣女功，莎蟲能表微。
+- 邢子卧北窗，吟秋意少悰。
+- 讀書用意苦，嘔血驚乃翁。
+- 安得和扁輩，爲浣學古胸。
+- 肺熱今好否，微凉生井桐。
 
 ## 拼音
 
-- can2 shu3 yi3 chu4 zhuang1 ， hao3 feng1 fang1 lai2 gui1 。
-- wei4 neng2 shu1 tuan2 shan4 ， qie3 fu4 zhi4 qiu1 yi1 。
-- gao1 chan2 ju4 ru2 xu1 ， chang2 yin2 song4 luo4 hui1 。
-- xiang1 jie4 qu4 nü3 gong1 ， sha1 chong2 neng2 biao3 wei1 。
+- xing2 zi3 wo4 bei3 chuang1 ， yin2 qiu1 yi4 shao3 cong2 。
+- du2 shu1 yong4 yi4 ku3 ， ou3 xue4 jing1 nai3 weng1 。
+- an1 de2 he2 bian3 bei4 ， wei2 huan4 xue2 gu3 xiong1 。
+- fei4 re4 jin1 hao3 fou3 ， wei1 liang2 sheng1 jing3 tong2 。
 
 ## 注释
 

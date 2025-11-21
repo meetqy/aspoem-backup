@@ -6,21 +6,21 @@ titleSlug: zhen-zhu-hua
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風中的皪月中看，解作人間五月寒。
-- 一似漢宮梳洗了，玉瓏璁壓翠雲冠。
+- 千璣萬琲照庭除，細雨斜風拂座隅。
+- 莫道長安貧似磬，緣階繞砌盡真珠。
 
 ## 拼音
 
-- feng1 zhong1 de0 li4 yue4 zhong1 kan4 ， jie3 zuo4 ren2 jian4 wu3 yue4 han2 。
-- yi2 si4 han4 gong1 shu1 xi3 le0 ， yu4 long2 cong1 ya1 cui4 yun2 guan1 。
+- qian1 ji1 wan4 bei4 zhao4 ting2 chu2 ， xi4 yu3 xie2 feng1 fu2 zuo4 yu2 。
+- mo4 dao4 chang2 an1 pin2 si4 qing4 ， yuan2 jie1 rao4 qi4 jin4 zhen1 zhu1 。
 
 ## 注释
 

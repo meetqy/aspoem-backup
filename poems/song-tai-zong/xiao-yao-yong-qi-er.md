@@ -1,30 +1,30 @@
 ---
 id: song-tai-zong-xiao-yao-yong-qi-er
-title: 逍遥詠  其二
-titlePinyin: xiao1 yao2 yong3     qi2 er4
+title: 逍遥詠  其二○
+titlePinyin: xiao1 yao2 yong3     qi2 er4 ○
 titleSlug: xiao-yao-yong-qi-er
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 大道虛無境，信之則有靈。
-- 幽深玄妙理，運轉幾曾停。
-- 拘束從何益，周通靜杳冥。
-- 真空非作相，善應保安寧。
+- 因緣業障遇真稀，黄帝乘龍豈是非。
+- 達識尚凝常恍惚，愚蒙學解故相違。
+- 華池秘密人天授，神室光揚日月輝。
+- 智者無言皆口嘿，敢將容易論玄機。
 
 ## 拼音
 
-- da4 dao4 xu1 wu2 jing4 ， xin4 zhi1 ze2 you3 ling2 。
-- you1 shen1 xuan2 miao4 li3 ， yun4 zhuan3 ji1 ceng2 ting2 。
-- ju1 shu4 cong2 he2 yi4 ， zhou1 tong1 jing4 yao3 ming2 。
-- zhen1 kong1 fei1 zuo4 xiang1 ， shan4 ying1 bao3 an1 ning2 。
+- yin1 yuan2 ye4 zhang4 yu4 zhen1 xi1 ， huang2 di4 cheng2 long2 qi3 shi4 fei1 。
+- da2 shi2 shang4 ning2 chang2 huang3 hu1 ， yu2 meng2 xue2 jie3 gu4 xiang1 wei2 。
+- hua2 chi2 mi4 mi4 ren2 tian1 shou4 ， shen2 shi4 guang1 yang2 ri4 yue4 hui1 。
+- zhi4 zhe3 wu2 yan2 jie1 kou3 hei1 ， gan3 jiang1 rong2 yi4 lun4 xuan2 ji1 。
 
 ## 注释
 

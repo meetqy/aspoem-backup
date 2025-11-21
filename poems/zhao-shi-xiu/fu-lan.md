@@ -1,30 +1,30 @@
 ---
 id: zhao-shi-xiu-fu-lan
-title: 撫欄
-titlePinyin: fu3 lan2
+title: 扶欄
+titlePinyin: fu2 lan2
 titleSlug: fu-lan
 author: 趙師秀
 authorPinyin: zhao4 shi1 xiu4
 authorSlug: zhao-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 撫欄驚歲月，久住欲如何。
-- 水國花開早，春城人上多。
-- 病令詩懶作，閑喜客頻過。
-- 聽說邊頭事，時賢策在和。
+- 强起扶欄立，新寒陡見侵。
+- 鐘聲諸寺曉，柳蔭半池陰。
+- 病久方憑艾，貧深或夢金。
+- 湖邊好風日，孤負幾登臨。
 
 ## 拼音
 
-- fu3 lan2 jing1 sui4 yue4 ， jiu3 zhu4 yu4 ru2 he2 。
-- shui3 guo2 hua1 kai1 zao3 ， chun1 cheng2 ren2 shang4 duo1 。
-- bing4 ling4 shi1 lan3 zuo4 ， xian2 xi3 ke4 bin1 guo4 。
-- ting1 shuo1 bian1 tou2 shi4 ， shi2 xian2 ce4 zai4 he2 。
+- qiang2 qi3 fu2 lan2 li4 ， xin1 han2 dou3 jian4 qin1 。
+- zhong1 sheng1 zhu1 si4 xiao3 ， liu3 yin1 ban4 chi2 yin1 。
+- bing4 jiu3 fang1 ping2 ai4 ， pin2 shen1 huo4 meng4 jin1 。
+- hu2 bian1 hao3 feng1 ri4 ， gu1 fu4 ji1 deng1 lin2 。
 
 ## 注释
 

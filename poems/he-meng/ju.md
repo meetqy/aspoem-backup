@@ -6,9 +6,9 @@ titleSlug: ju
 author: 何蒙
 authorPinyin: he2 meng2
 authorSlug: he-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

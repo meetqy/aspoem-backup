@@ -6,23 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-jiu-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 骨瘦如柴，機深似井。
-- 劃地爲牢，酷行商令。
-- 兒孫無地雪深冤，燒炷兜婁苦告天。
+- 三伏炎蒸，汗流如雨。
+- 老倒白雲，說迷說悟。
+- 一莖草上建瓊樓，熟睡饒譫語。
 
 ## 拼音
 
-- gu3 shou4 ru2 chai2 ， ji1 shen1 si4 jing3 。
-- hua2 di4 wei2 lao2 ， ku4 hang2 shang1 ling4 。
-- er2 sun1 wu2 di4 xue3 shen1 yuan1 ， shao1 zhu4 dou1 lou2 ku3 gao4 tian1 。
+- san1 fu2 yan2 zheng1 ， han4 liu2 ru2 yu3 。
+- lao3 dao3 bai2 yun2 ， shuo1 mi2 shuo1 wu4 。
+- yi2 jing4 cao3 shang4 jian4 qiong2 lou2 ， shu2 shui4 rao2 zhan1 yu3 。
 
 ## 注释
 

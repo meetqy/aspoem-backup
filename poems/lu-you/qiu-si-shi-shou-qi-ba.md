@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-ba
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鄰砧落日數聲殘，汀樹秋風幾葉丹。
-- 冉冉清愁來不斷，無方能使酒腸寬。
+- 閑愁正可資詩酒，小疾安能減食眠。
+- 一畝旋租畦菜地，千錢新買釣魚船。
 
 ## 拼音
 
-- lin2 zhen1 luo4 ri4 shu4 sheng1 can2 ， ting1 shu4 qiu1 feng1 ji1 ye4 dan1 。
-- ran3 ran3 qing1 chou2 lai2 bu2 duan4 ， wu2 fang1 neng2 shi3 jiu3 chang2 kuan1 。
+- xian2 chou2 zheng4 ke3 zi1 shi1 jiu3 ， xiao3 ji2 an1 neng2 jian3 shi2 mian2 。
+- yi4 mu3 xuan2 zu1 qi2 cai4 di4 ， qian1 qian2 xin1 mai3 diao4 yu2 chuan2 。
 
 ## 注释
 

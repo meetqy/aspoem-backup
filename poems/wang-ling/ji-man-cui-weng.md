@@ -6,25 +6,25 @@ titleSlug: ji-man-cui-weng
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心愛滿夫子，論師不敢交。
-- 誠明大中性，二五老陽爻。
-- 後學誰思進，吾蒙久辱包。
-- 思之無見日，夢把客門敲。
+- 滿子吾逢久，皇皇未見閑。
+- 老成終到孔，窮死亦爲顔。
+- 學術思無際，誠明去一間。
+- 吾雖有心者，力苦未能攀。
 
 ## 拼音
 
-- xin1 ai4 man3 fu1 zi3 ， lun4 shi1 bu4 gan3 jiao1 。
-- cheng2 ming2 da4 zhong1 xing4 ， er4 wu3 lao3 yang2 yao2 。
-- hou4 xue2 shui2 si1 jin4 ， wu2 meng2 jiu3 ru3 bao1 。
-- si1 zhi1 wu2 jian4 ri4 ， meng4 ba3 ke4 men2 qiao1 。
+- man3 zi3 wu2 feng2 jiu3 ， huang2 huang2 wei4 jian4 xian2 。
+- lao3 cheng2 zhong1 dao4 kong3 ， qiong2 si3 yi4 wei2 yan2 。
+- xue2 shu4 si1 wu2 ji4 ， cheng2 ming2 qu4 yi2 jian4 。
+- wu2 sui1 you3 xin1 zhe3 ， li4 ku3 wei4 neng2 pan1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zeng-ru-seng-kong-gu-er-shou-qi-er
 author: 汪立信
 authorPinyin: wang1 li4 xin4
 authorSlug: wang-li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

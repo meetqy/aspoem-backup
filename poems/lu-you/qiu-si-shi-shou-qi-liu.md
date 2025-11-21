@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 看雲廬阜屏風疊，采藥嵩山冠子峰。
-- 行盡四方心未快，不如一櫂醉吳松。
+- 疏泉洗石誇身健，試墨燒香破日長。
+- 若得三山安樂法，不須更覓玉函方。
 
 ## 拼音
 
-- kan4 yun2 lu2 fu4 ping2 feng1 die2 ， cai3 yao4 song1 shan1 guan1 zi0 feng1 。
-- xing2 jin4 si4 fang1 xin1 wei4 kuai4 ， bu4 ru2 yi2 zhao4 zui4 wu2 song1 。
+- shu1 quan2 xi3 shi2 kua1 shen1 jian4 ， shi4 mo4 shao1 xiang1 po4 ri4 chang2 。
+- ruo4 de2 san1 shan1 an1 le4 fa3 ， bu4 xu1 geng4 mi4 yu4 han2 fang1 。
 
 ## 注释
 

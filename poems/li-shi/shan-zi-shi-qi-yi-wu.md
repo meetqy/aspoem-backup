@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-wu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衆水秋風勁，羣鷗白雪和。
-- 只宜閒坐釣，湖海老烟蓑。
+- 蝶兒也解宿香叢，蜂子尤能醉蜜紅。
+- 幻景掃除餘結習，自携茗椀潄花風。
 
 ## 拼音
 
-- zhong4 shui3 qiu1 feng1 jin4 ， qun2 ou1 bai2 xue3 he2 。
-- zhi1 yi2 xian2 zuo4 diao4 ， hu2 hai3 lao3 yan1 suo1 。
+- die2 er2 ye3 jie3 su4 xiang1 cong2 ， feng1 zi3 you2 neng2 zui4 mi4 hong2 。
+- huan4 jing3 sao3 chu2 yu2 jie2 xi2 ， zi4 xie2 ming2 wan3 shu4 hua1 feng1 。
 
 ## 注释
 

@@ -9,15 +9,15 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 行過武寧縣，初晴物景和。
 - 岸回驚水急，山淺見天多。
-- 細草濃藍潑，輕煙疋練拖。
-- 晚来何處宿，一笛起漁歌。
+- 細草濃藍潑，輕煙匹練拖。
+- 晚來何處宿，一笛起漁歌。
 
 ## 拼音
 

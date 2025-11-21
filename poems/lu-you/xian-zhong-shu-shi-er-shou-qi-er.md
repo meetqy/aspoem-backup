@@ -1,30 +1,30 @@
 ---
 id: lu-you-xian-zhong-shu-shi-er-shou-qi-er
-title: 閑中書事二首  其二
+title: 閑中書適二首  其二
 titlePinyin: xian2 zhong1 shu1 shi4 er4 shou3     qi2 er4
 titleSlug: xian-zhong-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一畝山園半畝池，流年忽逮挂冠期。
-- 賣花醉叟剝紅桂，種藥高僧寄玉芝。
-- 午枕爲兒哦舊句，晚窗留客算殘棋。
-- 登庸策免多新報，老子癡頑總不知。
+- 乞得殘骸久，天涯一禿翁。
+- 瓢分春甕綠，甑絕太倉紅。
+- 短褐便冬暖，長歌樂歲豐。
+- 老腰那可折，步步賴枯筇。
 
 ## 拼音
 
-- yi4 mu3 shan1 yuan2 ban4 mu3 chi2 ， liu2 nian2 hu1 dai3 gua4 guan1 qi1 。
-- mai4 hua1 zui4 sou3 bao1 hong2 gui4 ， zhong3 yao4 gao1 seng1 ji4 yu4 zhi1 。
-- wu3 zhen3 wei2 er2 o4 jiu4 ju4 ， wan3 chuang1 liu2 ke4 suan4 can2 qi2 。
-- deng1 yong1 ce4 mian3 duo1 xin1 bao4 ， lao3 zi3 chi1 wan2 zong3 bu4 zhi1 。
+- qi3 de2 can2 hai2 jiu3 ， tian1 ya2 yi4 tu1 weng1 。
+- piao2 fen1 chun1 weng4 lü4 ， zeng4 jue2 tai4 cang1 hong2 。
+- duan3 he4 bian4 dong1 nuan3 ， chang2 ge1 le4 sui4 feng1 。
+- lao3 yao1 na4 ke3 zhe2 ， bu4 bu4 lai4 ku1 qiong2 。
 
 ## 注释
 

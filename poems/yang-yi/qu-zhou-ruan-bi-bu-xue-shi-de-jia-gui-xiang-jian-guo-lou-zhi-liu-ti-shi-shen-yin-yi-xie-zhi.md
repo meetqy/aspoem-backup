@@ -6,10 +6,10 @@ titleSlug: qu-zhou-ruan-bi-bu-xue-shi-de-jia-gui-xiang-jian-guo-lou-zhi-liu-ti-s
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

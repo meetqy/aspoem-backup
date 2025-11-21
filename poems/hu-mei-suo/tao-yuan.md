@@ -6,10 +6,10 @@ titleSlug: tao-yuan
 author: 胡梅所
 authorPinyin: hu2 mei2 suo3
 authorSlug: hu-mei-suo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

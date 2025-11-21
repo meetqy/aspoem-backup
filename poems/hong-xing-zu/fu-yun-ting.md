@@ -6,9 +6,9 @@ titleSlug: fu-yun-ting
 author: 洪興祖
 authorPinyin: hong2 xing1 zu3
 authorSlug: hong-xing-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

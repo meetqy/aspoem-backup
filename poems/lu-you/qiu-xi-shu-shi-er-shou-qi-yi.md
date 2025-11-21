@@ -6,25 +6,25 @@ titleSlug: qiu-xi-shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋夕初多露，漁家半掩扉。
-- 鵲飛山月出，犬吠市船歸。
-- 影瘦悲形瘁，冠偏感髮稀。
-- 眼中無宿士，老我欲疇依。
+- 垂老雖堪嘆，爲謀亦未疏。
+- 悶賒鄰巷酒，閑讀後身書。
+- 大嚼寧須肉，徐行可當車。
+- 秋來歡喜事，菽粟有新儲。
 
 ## 拼音
 
-- qiu1 xi1 chu1 duo1 lu4 ， yu2 jia1 ban4 yan3 fei1 。
-- que4 fei1 shan1 yue4 chu1 ， quan3 fei4 shi4 chuan2 gui1 。
-- ying3 shou4 bei1 xing2 cui4 ， guan1 pian1 gan3 fa4 xi1 。
-- yan3 zhong1 wu2 su4 shi4 ， lao3 wo3 yu4 chou2 yi1 。
+- chui2 lao3 sui1 kan1 tan4 ， wei2 mou2 yi4 wei4 shu1 。
+- men4 she1 lin2 xiang4 jiu3 ， xian2 du2 hou4 shen1 shu1 。
+- da4 jiao2 ning2 xu1 rou4 ， xu2 hang2 ke3 dang1 ju1 。
+- qiu1 lai2 huan1 xi3 shi4 ， shu1 su4 you3 xin1 chu3 。
 
 ## 注释
 

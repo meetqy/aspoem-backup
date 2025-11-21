@@ -1,26 +1,26 @@
 ---
 id: zhang-zi-yu-zhao-tang-guan-mei-er-shi-shou-qi-yi
-title: 玉照堂觀梅二十首  其一
-titlePinyin: yu4 zhao4 tang2 guan1 mei2 er4 shi2 shou3     qi2 yi1
+title: 玉照堂觀梅二十首  其一○
+titlePinyin: yu4 zhao4 tang2 guan1 mei2 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: yu-zhao-tang-guan-mei-er-shi-shou-qi-yi
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一笑林間說向春，宿緣三世豈無因。
-- 半生憂患摧殘損，却與梅花作主人。
+- 別開庭院近蓮塘，油榭欄干小扇窗。
+- 更取梅花瓶內插，放教清夢月橫江。
 
 ## 拼音
 
-- yi2 xiao4 lin2 jian4 shuo1 xiang4 chun1 ， su4 yuan2 san1 shi4 qi3 wu2 yin1 。
-- ban4 sheng1 you1 huan4 cui1 can2 sun3 ， que4 yu3 mei2 hua1 zuo4 zhu3 ren2 。
+- bie2 kai1 ting2 yuan4 jin4 lian2 tang2 ， you2 xie4 lan2 gan1 xiao3 shan4 chuang1 。
+- geng4 qu3 mei2 hua1 ping2 nei4 cha1 ， fang4 jiao4 qing1 meng4 yue4 heng2 jiang1 。
 
 ## 注释
 

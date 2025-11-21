@@ -6,10 +6,10 @@ titleSlug: jiu-ri-huai-xiang-yang
 author: 盧明甫
 authorPinyin: lu2 ming2 fu3
 authorSlug: lu-ming-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

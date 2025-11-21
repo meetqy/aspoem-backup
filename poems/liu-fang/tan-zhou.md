@@ -6,9 +6,9 @@ titleSlug: tan-zhou
 author: 劉昉
 authorPinyin: liu2 fang3
 authorSlug: liu-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

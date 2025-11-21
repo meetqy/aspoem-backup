@@ -6,10 +6,10 @@ titleSlug: zhi-zhi-an-ji-shi
 author: 詹琰夫
 authorPinyin: zhan1 yan3 fu1
 authorSlug: zhan-yan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: qiu-si-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老懷不慣著閑愁，信脚時爲野外遊。
-- 過雁未驚殘月曉，片雲先借一天秋。
-- 村醅似粥家家醉，社肉如林處處留。
-- 七十已稀今又過，問君端的更何求。
+- 今日鵲噪簷，邢趙別我西。
+- 老懷易感慨，近別亦慘凄。
+- 自我卧孤村，海內無輪蹄。
+- 垂虹秋愈佳，不得同裝賫。
 
 ## 拼音
 
-- lao3 huai2 bu2 guan4 zhu4 xian2 chou2 ， xin4 jiao3 shi2 wei2 ye3 wai4 you2 。
-- guo4 yan4 wei4 jing1 can2 yue4 xiao3 ， pian4 yun2 xian1 jie4 yi4 tian1 qiu1 。
-- cun1 pei1 si4 zhou1 jia1 jia1 zui4 ， she4 rou4 ru2 lin2 chu3 chu3 liu2 。
-- qi1 shi2 yi3 xi1 jin1 you4 guo4 ， wen4 jun1 duan1 di4 geng4 he2 qiu2 。
+- jin1 ri4 que4 zao4 yan2 ， xing2 zhao4 bie2 wo3 xi1 。
+- lao3 huai2 yi4 gan3 kai3 ， jin4 bie2 yi4 can3 qi1 。
+- zi4 wo3 wo4 gu1 cun1 ， hai3 nei4 wu2 lun2 ti2 。
+- chui2 hong2 qiu1 yu4 jia1 ， bu4 de2 tong2 zhuang1 ji1 。
 
 ## 注释
 

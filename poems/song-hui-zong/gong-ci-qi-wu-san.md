@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閣門雙闢約人還，後苑芳菲一望間。
-- 臺榭參差春更好，瑤津遶岸聳眉山。
+- 朝班翼翼布鴛行，三衛森嚴殿砌旁。
+- 遴選親勳先許進，校員多是補中郎。
 
 ## 拼音
 
-- ge2 men2 shuang1 pi4 yue1 ren2 huan2 ， hou4 yuan4 fang1 fei1 yi2 wang4 jian4 。
-- tai2 xie4 can1 cha4 chun1 geng4 hao3 ， yao2 jin1 rao4 an4 song3 mei2 shan1 。
+- chao2 ban1 yi4 yi4 bu4 yuan1 xing2 ， san1 wei4 sen1 yan2 dian4 qi4 pang2 。
+- lin2 xuan3 qin1 xun1 xian1 xu1 jin4 ， xiao4 yuan2 duo1 shi4 bu3 zhong1 lang2 。
 
 ## 注释
 

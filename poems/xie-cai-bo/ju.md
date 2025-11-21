@@ -6,10 +6,10 @@ titleSlug: ju
 author: 謝采伯
 authorPinyin: xie4 cai3 bo2
 authorSlug: xie-cai-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

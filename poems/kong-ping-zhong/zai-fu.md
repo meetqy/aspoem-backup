@@ -6,25 +6,25 @@ titleSlug: zai-fu
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 廊廟之才守一州，暮年名位等酇侯。
-- 簪纓七葉皆當軸，棟宇千章爲起樓。
-- 撫事蕭條人已遠，臨風慷慨意相投。
-- 期公便握璣衡去，留取餘光照斗牛。
+- 金房此去路幾千，石瀨齒齒秋風前。
+- 絲侵兩鬢老不言，竹實已空饑鳳眠。
+- 匏笙吹作別離曲，土壞漸異思諸賢。
+- 革屨練服何蕭然，木陰緩步尋雙泉。
 
 ## 拼音
 
-- lang2 miao4 zhi1 cai2 shou3 yi4 zhou1 ， mu4 nian2 ming2 wei4 deng3 zan4 hou2 。
-- zan1 ying1 qi1 ye4 jie1 dang1 zhou2 ， dong4 yu3 qian1 zhang1 wei2 qi3 lou2 。
-- fu3 shi4 xiao1 tiao2 ren2 yi3 yuan3 ， lin2 feng1 kang1 kai3 yi4 xiang1 tou2 。
-- qi1 gong1 bian4 wo4 ji1 heng2 qu4 ， liu2 qu3 yu2 guang1 zhao4 dou4 niu2 。
+- jin1 fang2 ci3 qu4 lu4 ji1 qian1 ， shi2 lai4 chi3 chi3 qiu1 feng1 qian2 。
+- si1 qin1 liang3 bin4 lao3 bu4 yan2 ， zhu2 shi2 yi3 kong1 ji1 feng4 mian2 。
+- pao2 sheng1 chui1 zuo4 bie2 li2 qu3 ， tu3 huai4 jian4 yi4 si1 zhu1 xian2 。
+- ge2 ju4 lian4 fu2 he2 xiao1 ran2 ， mu4 yin1 huan3 bu4 xun2 shuang1 quan2 。
 
 ## 注释
 

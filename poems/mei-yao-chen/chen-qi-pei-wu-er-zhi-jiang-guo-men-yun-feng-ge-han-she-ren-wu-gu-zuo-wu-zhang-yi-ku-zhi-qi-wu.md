@@ -6,10 +6,10 @@ titleSlug: chen-qi-pei-wu-er-zhi-jiang-guo-men-yun-feng-ge-han-she-ren-wu-gu-zuo
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: wang-fan-zhi-shi-san
-title: 十三
-titlePinyin: shi2 san1
+title: 詩 三
+titlePinyin: shi1   san1
 titleSlug: shi-san
 author: 王梵志
 authorPinyin: wang2 fan4 zhi4
@@ -9,24 +9,26 @@ authorSlug: wang-fan-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 尊人嗔約束，共語莫江降。
-- （「江降」，伯三七一六卷作「江絳」，伯三六五六卷作「{馬工}{馬降}」，張錫厚疑應作「𤢐𤝷」。
-- ）縱有些些理，無煩說矩（鄭校本云似應作短長。
-- 〖「矩長」，伯三七一六卷作「短長」。
-- 〗）。
+- 世間不信我，言我□造惡。
+- 不能爲俗情，和光心自各。
+- 財色終不染，妻子不戀者。
+- 共□（任、陳皆補「你」字）□□（陳補「同」字）塵，至理求不錯。
+- 智惠（陳校作「慧」）渾一愚，我心常離縛。
+- 君自未識真，余身桓（任錄、項校均作「恒」）□（陳補「坦」字、項補「快」字）樂。
 
 ## 拼音
 
-- zun1 ren2 chen1 yue1 shu4 ， gong4 yu3 mo4 jiang1 jiang4 。
-- （「 jiang1 jiang4 」， bo2 san1 qi1 yi1 liu4 juan4 zuo4 「 jiang1 jiang4 」， bo2 san1 liu4 wu3 liu4 juan4 zuo4 「{ ma3 gong1 }{ ma3 jiang4 }」， zhang1 xi1 hou4 yi2 ying1 zuo4 「𤢐𤝷」。
-- ） zong4 you3 xie1 xie1 li3 ， wu2 fan2 shuo1 ju3 （ zheng4 jiao4 ben3 yun2 si4 ying1 zuo4 duan3 chang2 。
-- 〖「 ju3 chang2 」， bo2 san1 qi1 yi1 liu4 juan4 zuo4 「 duan3 chang2 」。
-- 〗）。
+- shi4 jian4 bu2 xin4 wo3 ， yan2 wo3 □ zao4 e4 。
+- bu4 neng2 wei2 su2 qing2 ， he2 guang1 xin1 zi4 ge4 。
+- cai2 se4 zhong1 bu4 ran3 ， qi1 zi0 bu2 lian4 zhe3 。
+- gong4 □（ ren4 、 chen2 jie1 bu3 「 ni3 」 zi4 ）□□（ chen2 bu3 「 tong2 」 zi4 ） chen2 ， zhi4 li3 qiu2 bu2 cuo4 。
+- zhi4 hui4 （ chen2 xiao4 zuo4 「 hui4 」） hun2 yi4 yu2 ， wo3 xin1 chang2 li2 fu4 。
+- jun1 zi4 wei4 shi2 zhen1 ， yu2 shen1 huan2 （ ren4 lu4 、 xiang4 xiao4 jun1 zuo4 「 heng2 」）□（ chen2 bu3 「 tan3 」 zi4 、 xiang4 bu3 「 kuai4 」 zi4 ） le4 。
 
 ## 注释
 

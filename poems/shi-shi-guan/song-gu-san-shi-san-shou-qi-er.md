@@ -1,26 +1,26 @@
 ---
 id: shi-shi-guan-song-gu-san-shi-san-shou-qi-er
-title: 頌古三十三首  其二
-titlePinyin: song4 gu3 san1 shi2 san1 shou3     qi2 er4
+title: 頌古三十三首  其二○
+titlePinyin: song4 gu3 san1 shi2 san1 shou3     qi2 er4 ○
 titleSlug: song-gu-san-shi-san-shou-qi-er
 author: 釋師觀
 authorPinyin: shi4 shi1 guan1
 authorSlug: shi-shi-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 以手策起眉毛，千聖從來不識。
-- 一會靈山儼然，說甚今朝昨日。
+- 喫粥了也洗鉢盂，已是分明說向渠。
+- 有時冷地思量著，點鐵成金舉世無。
 
 ## 拼音
 
-- yi3 shou3 ce4 qi3 mei2 mao0 ， qian1 sheng4 cong2 lai2 bu4 shi2 。
-- yi2 hui4 ling2 shan1 yan3 ran2 ， shuo1 shen4 jin1 zhao1 zuo2 ri4 。
+- chi1 zhou1 le0 ye3 xi3 bo1 yu2 ， yi3 shi4 fen1 ming2 shuo1 xiang4 qu2 。
+- you3 shi2 leng3 di4 si1 liang0 zhu4 ， dian3 tie3 cheng2 jin1 ju3 shi4 wu2 。
 
 ## 注释
 

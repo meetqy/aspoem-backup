@@ -6,10 +6,10 @@ titleSlug: ti-he-yang-hou-cheng-ping-song-ge
 author: 李迪
 authorPinyin: li3 di2
 authorSlug: li-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-da-di
 author: 王溉
 authorPinyin: wang2 gai4
 authorSlug: wang-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

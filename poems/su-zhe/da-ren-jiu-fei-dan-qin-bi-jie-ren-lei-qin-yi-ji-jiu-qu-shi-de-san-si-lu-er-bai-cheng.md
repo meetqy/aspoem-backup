@@ -6,10 +6,10 @@ titleSlug: da-ren-jiu-fei-dan-qin-bi-jie-ren-lei-qin-yi-ji-jiu-qu-shi-de-san-si-
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

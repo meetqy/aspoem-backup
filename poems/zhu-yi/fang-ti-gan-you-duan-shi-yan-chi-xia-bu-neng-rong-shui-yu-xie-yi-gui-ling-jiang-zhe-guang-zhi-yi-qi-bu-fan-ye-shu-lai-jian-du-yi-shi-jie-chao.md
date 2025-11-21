@@ -6,9 +6,9 @@ titleSlug: fang-ti-gan-you-duan-shi-yan-chi-xia-bu-neng-rong-shui-yu-xie-yi-gui-
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

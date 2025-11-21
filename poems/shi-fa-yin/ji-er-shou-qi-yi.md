@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋法因
 authorPinyin: shi4 fa3 yin1
 authorSlug: shi-fa-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

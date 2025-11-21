@@ -6,25 +6,25 @@ titleSlug: zai-he-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 動而得謗亦名隨，生子看來不必奇。
-- 爾輩真堪畀豺虎，君王安用獵熊羆。
-- 人言李白文如錦，誰信盧能命若絲。
-- 迴首世間機穽惡，子歸閉戶有餘師。
+- 剗騎犢子不施韉，老退猶堪學力田。
+- 疏大夫金雖已散，藺相如璧偶然全。
+- 黄河水有曾清日，白髮人無再少年。
+- 許大乾坤愁塞滿，覓無愁處只樽前。
 
 ## 拼音
 
-- dong4 er2 de2 bang4 yi4 ming2 sui2 ， sheng1 zi3 kan4 lai2 bu2 bi4 qi2 。
-- er3 bei4 zhen1 kan1 bi4 chai2 hu3 ， jun1 wang2 an1 yong4 lie4 xiong2 pi2 。
-- ren2 yan2 li3 bai2 wen2 ru2 jin3 ， shui2 xin4 lu2 neng2 ming4 ruo4 si1 。
-- hui2 shou3 shi4 jian4 ji1 jing3 e4 ， zi3 gui1 bi4 hu4 you3 yu2 shi1 。
+- chan3 qi2 du2 zi3 bu4 shi1 jian1 ， lao3 tui4 you2 kan1 xue2 li4 tian2 。
+- shu1 dai4 fu0 jin1 sui1 yi3 san4 ， lin4 xiang1 ru2 bi4 ou3 ran2 quan2 。
+- huang2 he2 shui3 you3 ceng2 qing1 ri4 ， bai2 fa4 ren2 wu2 zai4 shao4 nian2 。
+- xu1 da4 qian2 kun1 chou2 sai1 man3 ， mi4 wu2 chou2 chu3 zhi1 zun1 qian2 。
 
 ## 注释
 

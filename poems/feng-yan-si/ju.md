@@ -9,16 +9,20 @@ authorSlug: feng-yan-si
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 青樓阿監應相笑，書記登壇又却回。
+- 卍字迴廊旋看月。
+- （沈雄《古今詞話・詞品》卷下引。
+- ）。
 
 ## 拼音
 
-- qing1 lou2 a1 jian1 ying1 xiang1 xiao4 ， shu1 ji4 deng1 tan2 you4 que4 hui2 。
+- wan4 zi4 hui2 lang2 xuan2 kan4 yue4 。
+- （ shen3 xiong2 《 gu3 jin1 ci2 hua4 ・ ci2 pin3 》 juan4 xia4 yin3 。
+- ）。
 
 ## 注释
 

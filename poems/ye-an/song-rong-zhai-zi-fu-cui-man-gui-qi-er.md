@@ -6,10 +6,10 @@ titleSlug: song-rong-zhai-zi-fu-cui-man-gui-qi-er
 author: 葉黯
 authorPinyin: ye4 an4
 authorSlug: ye-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

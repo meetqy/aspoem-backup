@@ -6,21 +6,21 @@ titleSlug: tong-guan-xu-zhi-zhang-she-ba-pian-qi-liu
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 婦人自處只閨房，車馬寧須侈閙裝。
-- 莫與他人爭富貴，從來儉素足輝光。
+- 帷幕時間奉此身，當知流轉會成塵。
+- 隨緣且用遮空壁，莫較敷陳舊與新。
 
 ## 拼音
 
-- fu4 ren2 zi4 chu3 zhi1 gui1 fang2 ， ju1 ma3 ning2 xu1 chi3 nao4 zhuang1 。
-- mo4 yu3 ta1 ren2 zheng1 fu4 gui4 ， cong2 lai2 jian3 su4 zu2 hui1 guang1 。
+- wei2 mu4 shi2 jian4 feng4 ci3 shen1 ， dang1 zhi1 liu2 zhuan3 hui4 cheng2 chen2 。
+- sui2 yuan2 qie3 yong4 zhe1 kong1 bi4 ， mo4 jiao4 fu1 chen2 jiu4 yu3 xin1 。
 
 ## 注释
 

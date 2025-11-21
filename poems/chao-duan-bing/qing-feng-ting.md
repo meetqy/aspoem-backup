@@ -6,10 +6,10 @@ titleSlug: qing-feng-ting
 author: 晁端稟
 authorPinyin: chao2 duan1 bing3
 authorSlug: chao-duan-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

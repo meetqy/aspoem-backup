@@ -9,22 +9,22 @@ authorSlug: huang-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 蕭颯聞風葉，驚時不自堪。
-- 宦名中夜切，人事長年諳。
-- 古畫僧留與，新知客遇談。
-- 鄉心隨去鴈，一一到江南。
+- 雪貌潛凋雪髮生，故園魂斷弟兼兄。
+- 十年除夜在孤館，萬里一身求大名。
+- 空有新詩高華嶽，已無丹懇出秦城。
+- 侯門莫問曾遊處，槐柳影中肝膽傾。
 
 ## 拼音
 
-- xiao1 sa4 wen2 feng1 ye4 ， jing1 shi2 bu2 zi4 kan1 。
-- huan4 ming2 zhong1 ye4 qie4 ， ren2 shi4 chang2 nian2 an1 。
-- gu3 hua4 seng1 liu2 yu3 ， xin1 zhi1 ke4 yu4 tan2 。
-- xiang1 xin1 sui2 qu4 yan4 ， yi1 yi1 dao4 jiang1 nan2 。
+- xue3 mao4 qian2 diao1 xue3 fa4 sheng1 ， gu4 yuan2 hun2 duan4 di4 jian1 xiong1 。
+- shi2 nian2 chu2 ye4 zai4 gu1 guan3 ， wan4 li3 yi4 shen1 qiu2 da4 ming2 。
+- kong1 you3 xin1 shi1 gao1 hua2 yue4 ， yi3 wu2 dan1 ken3 chu1 qin2 cheng2 。
+- hou2 men2 mo4 wen4 ceng2 you2 chu3 ， huai2 liu3 ying3 zhong1 gan1 dan3 qing1 。
 
 ## 注释
 

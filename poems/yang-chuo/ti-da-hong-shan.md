@@ -6,9 +6,9 @@ titleSlug: ti-da-hong-shan
 author: 楊逴
 authorPinyin: yang2 chuo1
 authorSlug: yang-chuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

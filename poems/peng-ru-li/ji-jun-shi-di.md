@@ -6,25 +6,25 @@ titleSlug: ji-jun-shi-di
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日夜風前聽好音，書來一讀一傷心。
-- 淚摇眼尾催花發，愁結眉頭見雪侵。
-- 秋徑自栽彭澤菊，夜堂時奏武城琴。
-- 事多不廢看書否，白首知君惜寸陰。
+- 正直多疑勢易孤，官情時態近何如。
+- 應知秋後無窮事，未得冬來第一書。
+- 憶汝愁聞洞庭雁，作詩欲寄武昌魚。
+- 江湖此別何其久，日月居諸又歲除。
 
 ## 拼音
 
-- ri4 ye4 feng1 qian2 ting1 hao3 yin1 ， shu1 lai2 yi4 du2 yi4 shang1 xin1 。
-- lei4 yao2 yan3 wei3 cui1 hua1 fa1 ， chou2 jie2 mei2 tou2 jian4 xue3 qin1 。
-- qiu1 jing4 zi4 zai1 peng2 ze2 ju2 ， ye4 tang2 shi2 zou4 wu3 cheng2 qin2 。
-- shi4 duo1 bu2 fei4 kan4 shu1 fou3 ， bai2 shou3 zhi1 jun1 xi1 cun4 yin1 。
+- zheng4 zhi2 duo1 yi2 shi4 yi4 gu1 ， guan1 qing2 shi2 tai4 jin4 he2 ru2 。
+- ying1 zhi1 qiu1 hou4 wu2 qiong2 shi4 ， wei4 de2 dong1 lai2 di4 yi1 shu1 。
+- yi4 ru3 chou2 wen2 dong4 ting2 yan4 ， zuo4 shi1 yu4 ji4 wu3 chang1 yu2 。
+- jiang1 hu2 ci3 bie2 he2 qi2 jiu3 ， ri4 yue4 ju1 zhu1 you4 sui4 chu2 。
 
 ## 注释
 

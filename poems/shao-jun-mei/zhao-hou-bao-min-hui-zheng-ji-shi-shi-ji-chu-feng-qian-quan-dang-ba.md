@@ -6,10 +6,10 @@ titleSlug: zhao-hou-bao-min-hui-zheng-ji-shi-shi-ji-chu-feng-qian-quan-dang-ba
 author: 邵君美
 authorPinyin: shao4 jun1 mei3
 authorSlug: shao-jun-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

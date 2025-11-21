@@ -6,10 +6,10 @@ titleSlug: du-lao-ren-jin-shi
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

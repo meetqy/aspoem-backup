@@ -6,10 +6,10 @@ titleSlug: ju
 author: 張埴客
 authorPinyin: zhang1 zhi2 ke4
 authorSlug: zhang-zhi-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

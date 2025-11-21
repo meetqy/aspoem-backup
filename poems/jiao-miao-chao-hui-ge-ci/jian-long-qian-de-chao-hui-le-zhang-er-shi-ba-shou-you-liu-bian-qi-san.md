@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-sa
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 螭階聊載筆，紀瑞軼唐虞。
-- 丹鳳儀金奏，黄龍負寶圖。
-- 羣材薪棫樸，仁政煦蒲盧。
-- 蕩蕩巍巍德，豚魚信自孚。
+- 蠢茲淮海帥，保據毒黎苗。
+- 不悟龍興漢，猶同犬吠堯。
+- 六師方雨施，孤壘自冰消。
+- 千載逢嘉運，華夷奉聖朝。
 
 ## 拼音
 
-- chi1 jie1 liao2 zai4 bi3 ， ji4 rui4 yi4 tang2 yu2 。
-- dan1 feng4 yi2 jin1 zou4 ， huang2 long2 fu4 bao3 tu2 。
-- qun2 cai2 xin1 yu4 pu3 ， ren2 zheng4 xu4 pu2 lu2 。
-- dang4 dang4 wei1 wei1 de2 ， tun2 yu2 xin4 zi4 fu2 。
+- chun3 zi1 huai2 hai3 shuai4 ， bao3 ju4 du2 li2 miao2 。
+- bu2 wu4 long2 xing1 han4 ， you2 tong2 quan3 fei4 yao2 。
+- liu4 shi1 fang1 yu3 shi1 ， gu1 lei3 zi4 bing1 xiao1 。
+- qian1 zai4 feng2 jia1 yun4 ， hua2 yi2 feng4 sheng4 chao2 。
 
 ## 注释
 

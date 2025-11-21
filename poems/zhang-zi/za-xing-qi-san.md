@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-san
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 原子何所得，所得在養心。
-- 澹然處窮閻，蓬蒿絕車音。
-- 結駟者誰子，排門願同襟。
-- 乃知能辯者，於道未爲深。
+- 細讀南山扣角歌，機鋒投處幾曾多。
+- 道人不踏門前路，敝帚其如自愛何。
 
 ## 拼音
 
-- yuan2 zi3 he2 suo3 de2 ， suo3 de2 zai4 yang3 xin1 。
-- dan4 ran2 chu3 qiong2 yan2 ， peng2 hao1 jue2 ju1 yin1 。
-- jie2 si4 zhe3 shui2 zi3 ， pai2 men2 yuan4 tong2 jin1 。
-- nai3 zhi1 neng2 bian4 zhe3 ， wu1 dao4 wei4 wei2 shen1 。
+- xi4 du2 nan2 shan1 kou4 jiao3 ge1 ， ji1 feng1 tou2 chu3 ji1 ceng2 duo1 。
+- dao4 ren2 bu2 ta4 men2 qian2 lu4 ， bi4 zhou3 qi2 ru2 zi4 ai4 he2 。
 
 ## 注释
 

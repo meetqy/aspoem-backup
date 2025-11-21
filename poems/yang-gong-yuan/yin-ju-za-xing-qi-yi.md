@@ -1,30 +1,30 @@
 ---
 id: yang-gong-yuan-yin-ju-za-xing-qi-yi
-title: 隠居雜興  其一
-titlePinyin: yin3 ju1 za2 xing1     qi2 yi1
+title: 隠居雜興  其一○
+titlePinyin: yin3 ju1 za2 xing1     qi2 yi1 ○
 titleSlug: yin-ju-za-xing-qi-yi
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 碧雲深處著吾廬，遠却喧囂儘自如。
-- 呵硯磨冰朝鍊句，擁爐燒葉夜觀書。
-- 人生窮達乘軒鶴，世事盈虛賦芧狙。
-- 勘破已無朝市夢，軟紅端不上衣裾。
+- 詰曲通村小徑開，依山結屋任低隈。
+- 無從問字高人過，有不嫌貧長者來。
+- 煮茗燒殘柴带葉，脫巾漉起酒和醅。
+- 絕憐筆硯香猶在，集句曾賡百詠梅。
 
 ## 拼音
 
-- bi4 yun2 shen1 chu3 zhu4 wu2 lu2 ， yuan3 que4 xuan1 xiao1 jin3 zi4 ru2 。
-- he1 yan4 mo2 bing1 chao2 lian4 ju4 ， yong1 lu2 shao1 ye4 ye4 guan1 shu1 。
-- ren2 sheng1 qiong2 da2 cheng2 xuan1 he4 ， shi4 shi4 ying2 xu1 fu4 xu4 ju1 。
-- kan1 po4 yi3 wu2 chao2 shi4 meng4 ， ruan3 hong2 duan1 bu2 shang4 yi1 ju1 。
+- jie2 qu3 tong1 cun1 xiao3 jing4 kai1 ， yi1 shan1 jie2 wu1 ren4 di1 wei1 。
+- wu2 cong2 wen4 zi4 gao1 ren2 guo4 ， you3 bu4 xian2 pin2 chang2 zhe3 lai2 。
+- zhu3 ming2 shao1 can2 chai2 dai4 ye4 ， tuo1 jin1 lu4 qi3 jiu3 he2 pei1 。
+- jue2 lian2 bi3 yan4 xiang1 you2 zai4 ， ji2 ju4 ceng2 geng1 bai3 yong3 mei2 。
 
 ## 注释
 

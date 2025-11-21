@@ -6,9 +6,9 @@ titleSlug: po-shan-si-shuang-tou-bai-lian
 author: 陳掞
 authorPinyin: chen2 yan4
 authorSlug: chen-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

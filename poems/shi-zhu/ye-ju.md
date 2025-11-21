@@ -6,21 +6,21 @@ titleSlug: ye-ju
 author: 史鑄
 authorPinyin: shi3 zhu4
 authorSlug: shi-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒郊露蘂疏仍小，瘦地霜枝細且長。
-- 境僻人稀誰與採，馬蹄贏得踐餘香。
+- 一簇疏籬有野花，不應青女妬容華。
+- 繁英自剪無人插，只有黄蜂趁兩衙。
 
 ## 拼音
 
-- han2 jiao1 lu4 rui3 shu1 reng2 xiao3 ， shou4 di4 shuang1 zhi1 xi4 qie3 chang2 。
-- jing4 pi4 ren2 xi1 shui2 yu3 cai3 ， ma3 ti2 ying2 de2 jian4 yu2 xiang1 。
+- yi2 cu4 shu1 li2 you3 ye3 hua1 ， bu4 ying1 qing1 nü3 du4 rong2 hua2 。
+- fan2 ying1 zi4 jian3 wu2 ren2 cha1 ， zhi3 you3 huang2 feng1 chen4 liang3 ya2 。
 
 ## 注释
 

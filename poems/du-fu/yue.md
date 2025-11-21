@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天上秋期近，人間月影清。
-- 入河蟾不沒，擣藥兔長生。
-- 只益丹心苦，能添白髮明。
-- 干戈知滿地，休照國西營。
+- 四更山吐月，殘夜水明樓。
+- 塵匣元開鏡，風簾自上鉤。
+- 兔應疑鶴髮，蟾亦戀貂裘。
+- 斟酌姮娥寡，天寒耐九秋。
 
 ## 拼音
 
-- tian1 shang4 qiu1 qi1 jin4 ， ren2 jian4 yue4 ying3 qing1 。
-- ru4 he2 chan2 bu4 mei2 ， dao3 yao4 tu4 chang2 sheng1 。
-- zhi1 yi4 dan1 xin1 ku3 ， neng2 tian1 bai2 fa4 ming2 。
-- gan1 ge1 zhi1 man3 di4 ， xiu1 zhao4 guo2 xi1 ying2 。
+- si4 geng1 shan1 tu3 yue4 ， can2 ye4 shui3 ming2 lou2 。
+- chen2 xia2 yuan2 kai1 jing4 ， feng1 lian2 zi4 shang4 gou1 。
+- tu4 ying1 yi2 he4 fa4 ， chan2 yi4 lian4 diao1 qiu2 。
+- zhen1 zhuo2 heng2 e2 gua3 ， tian1 han2 nai4 jiu3 qiu1 。
 
 ## 注释
 

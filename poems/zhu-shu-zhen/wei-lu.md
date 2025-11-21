@@ -6,21 +6,21 @@ titleSlug: wei-lu
 author: 朱淑真
 authorPinyin: zhu1 shu1 zhen1
 authorSlug: zhu-shu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 圜坐紅爐唱小詞，旋篘新酒賞新詩。
-- 大家莫惜今宵醉，一別參差又幾時。
+- 昨夜霜風透膽寒，圍爐漫意昔年歡。
+- 如今獨坐無人說，撥悶惟憑酒力寬。
 
 ## 拼音
 
-- huan2 zuo4 hong2 lu2 chang4 xiao3 ci2 ， xuan2 chou1 xin1 jiu3 shang3 xin1 shi1 。
-- da4 jia1 mo4 xi1 jin1 xiao1 zui4 ， yi4 bie2 can1 cha4 you4 ji1 shi2 。
+- zuo2 ye4 shuang1 feng1 tou4 dan3 han2 ， wei2 lu2 man4 yi4 xi1 nian2 huan1 。
+- ru2 jin1 du2 zuo4 wu2 ren2 shuo1 ， bo1 men4 wei2 ping2 jiu3 li4 kuan1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: yu-ruo-xi-huan-shang-ren-ye-zuo
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一庵秋色裏，共坐佛燈前。
-- 風引上香磬，月浮煎茗泉。
-- 袖寒沙氣逼，窗迥樹聲懸。
-- 語罷鴉棲定，山僧入夜禪。
+- 菱窠柿葉滿秋池，彷彿樵歌在翠微。
+- 隔寺晚鐘聲欲斷，蒲葵樹底一僧歸。
 
 ## 拼音
 
-- yi4 an1 qiu1 se4 li3 ， gong4 zuo4 fo2 deng1 qian2 。
-- feng1 yin3 shang4 xiang1 qing4 ， yue4 fu2 jian1 ming2 quan2 。
-- xiu4 han2 sha1 qi4 bi1 ， chuang1 jiong3 shu4 sheng1 xuan2 。
-- yu3 ba4 ya1 qi1 ding4 ， shan1 seng1 ru4 ye4 shan4 。
+- ling2 ke1 shi4 ye4 man3 qiu1 chi2 ， pang2 fu2 qiao2 ge1 zai4 cui4 wei1 。
+- ge2 si4 wan3 zhong1 sheng1 yu4 duan4 ， pu2 kui2 shu4 di3 yi4 seng1 gui1 。
 
 ## 注释
 

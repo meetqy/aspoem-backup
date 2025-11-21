@@ -6,10 +6,10 @@ titleSlug: chao-lin-hong
 author: 無名子
 authorPinyin: wu2 ming2 zi0
 authorSlug: wu-ming-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

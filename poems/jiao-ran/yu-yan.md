@@ -9,18 +9,18 @@ authorSlug: jiao-ran
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾道本無我，未曾嫌世人。
-- 如今到城市，彌覺此心真。
+- 人生百年我過半，天生才定不可換。
+- 東海釣鼇鼇不食，南山坐石石欲爛。
 
 ## 拼音
 
-- wu2 dao4 ben3 wu2 wo3 ， wei4 ceng2 xian2 shi4 ren2 。
-- ru2 jin1 dao4 cheng2 shi4 ， mi2 jue2 ci3 xin1 zhen1 。
+- ren2 sheng1 bai3 nian2 wo3 guo4 ban4 ， tian1 sheng1 cai2 ding4 bu4 ke3 huan4 。
+- dong1 hai3 diao4 ao2 ao2 bu4 shi2 ， nan2 shan1 zuo4 shi2 shi2 yu4 lan4 。
 
 ## 注释
 

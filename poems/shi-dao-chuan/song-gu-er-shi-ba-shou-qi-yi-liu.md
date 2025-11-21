@@ -6,10 +6,10 @@ titleSlug: song-gu-er-shi-ba-shou-qi-yi-liu
 author: 釋道川
 authorPinyin: shi4 dao4 chuan1
 authorSlug: shi-dao-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xie-dong-yuan-zhu-ren-hui-zhu-shi-yi-zi-shi-pen-zhu-zhi
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

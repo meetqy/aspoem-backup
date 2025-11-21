@@ -6,10 +6,10 @@ titleSlug: shou-ke
 author: 關士容
 authorPinyin: guan1 shi4 rong2
 authorSlug: guan-shi-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

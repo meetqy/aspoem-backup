@@ -6,10 +6,10 @@ titleSlug: man-ting-feng
 author: 李左史
 authorPinyin: li3 zuo3 shi3
 authorSlug: li-zuo-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

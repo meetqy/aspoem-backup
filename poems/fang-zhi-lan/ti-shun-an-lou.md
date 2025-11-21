@@ -6,10 +6,10 @@ titleSlug: ti-shun-an-lou
 author: 房芝蘭
 authorPinyin: fang2 zhi1 lan2
 authorSlug: fang-zhi-lan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

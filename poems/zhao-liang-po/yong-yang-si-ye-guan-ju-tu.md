@@ -6,10 +6,10 @@ titleSlug: yong-yang-si-ye-guan-ju-tu
 author: 趙良坡
 authorPinyin: zhao4 liang2 po1
 authorSlug: zhao-liang-po
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

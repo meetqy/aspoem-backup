@@ -6,21 +6,21 @@ titleSlug: zai-yong-qian-yun-qi-yi
 author: 袁甫
 authorPinyin: yuan2 fu3
 authorSlug: yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑚璉區區只小成，休言果藝與忠清。
-- 聖師忘食兼忘老，地久天長日月明。
+- 山未烟雲水未波，試參妙處定如何。
+- 黄花未見應難會，見了黄花會意多。
 
 ## 拼音
 
-- hu2 lian3 qu1 qu1 zhi1 xiao3 cheng2 ， xiu1 yan2 guo3 yi4 yu3 zhong1 qing1 。
-- sheng4 shi1 wang4 shi2 jian1 wang4 lao3 ， di4 jiu3 tian1 chang2 ri4 yue4 ming2 。
+- shan1 wei4 yan1 yun2 shui3 wei4 bo1 ， shi4 can1 miao4 chu3 ding4 ru2 he2 。
+- huang2 hua1 wei4 jian4 ying1 nan2 hui4 ， jian4 le0 huang2 hua1 hui4 yi4 duo1 。
 
 ## 注释
 

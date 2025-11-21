@@ -6,10 +6,10 @@ titleSlug: dan-qiu-dao-zhong-ji-qian-da-zi-er-shou-qi-yi
 author: 釋道舉
 authorPinyin: shi4 dao4 ju3
 authorSlug: shi-dao-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

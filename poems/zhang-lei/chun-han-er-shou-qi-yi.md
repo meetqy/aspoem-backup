@@ -1,34 +1,30 @@
 ---
 id: zhang-lei-chun-han-er-shou-qi-yi
-title: 春旱二首  其一
-titlePinyin: chun1 han4 er4 shou3     qi2 yi1
+title: 春寒二首  其一
+titlePinyin: chun1 han2 er4 shou3     qi2 yi1
 titleSlug: chun-han-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大野拱連山，晴空轉規日。
-- 青春散坱莽，積水中蕩潏。
-- 欣欣見羣動，咄咄爭湧出。
-- 滯留無好懷，風景獨蕭瑟。
-- 離羣與誰語，塊坐守蓬蓽。
-- 巵酒樂餘春，沉憂畏生疾。
+- 星霜殘臘過，霰雪一冬頻。
+- 雲重常昏晝，寒多更入春。
+- 晚風捎翠暮，輕雨斂微塵。
+- 滿酌山樽酒，驅愁爾最親。
 
 ## 拼音
 
-- da4 ye3 gong3 lian2 shan1 ， qing2 kong1 zhuan3 gui1 ri4 。
-- qing1 chun1 san4 yang3 mang3 ， ji1 shui3 zhong1 dang4 yu4 。
-- xin1 xin1 jian4 qun2 dong4 ， duo1 duo1 zheng1 yong3 chu1 。
-- zhi4 liu2 wu2 hao3 huai2 ， feng1 jing3 du2 xiao1 se4 。
-- li2 qun2 yu3 shui2 yu3 ， kuai4 zuo4 shou3 peng2 bi4 。
-- zhi1 jiu3 le4 yu2 chun1 ， chen2 you1 wei4 sheng1 ji2 。
+- xing1 shuang1 can2 la4 guo4 ， xian4 xue3 yi4 dong1 bin1 。
+- yun2 zhong4 chang2 hun1 zhou4 ， han2 duo1 geng1 ru4 chun1 。
+- wan3 feng1 shao1 cui4 mu4 ， qing1 yu3 lian3 wei1 chen2 。
+- man3 zhuo2 shan1 zun1 jiu3 ， qu1 chou2 er3 zui4 qin1 。
 
 ## 注释
 

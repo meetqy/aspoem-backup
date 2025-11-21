@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-yong-hou-hou-di-qiang-fu-yun-qi-yi
-title: 用厚後弟强甫韻  其一
-titlePinyin: yong4 hou4 hou4 di4 qiang2 fu3 yun4     qi2 yi1
+title: 用厚後弟强甫韻  其一○
+titlePinyin: yong4 hou4 hou4 di4 qiang2 fu3 yun4     qi2 yi1 ○
 titleSlug: yong-hou-hou-di-qiang-fu-yun-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老禪和築退居菴，識路何須待指南。
-- 野叟得年今九九，星翁布算更三三。
-- 有詩入夢撩靈運，無藁藏山愧史談。
-- 愚智同歸一抔土，管他後世傳非聃。
+- 把茅容膝强名庵，宜夏宜冬戶向南。
+- 雪厄黄精饑杜二，花欺白髮笑陳三。
+- 爾儂柏下已骨朽，此老橘中猶手談。
+- 惟有子長讚深遠，諸家類以淺求聃。
 
 ## 拼音
 
-- lao3 shan4 he2 zhu4 tui4 ju1 an1 ， shi2 lu4 he2 xu1 dai4 zhi3 nan2 。
-- ye3 sou3 de2 nian2 jin1 jiu3 jiu3 ， xing1 weng1 bu4 suan4 geng4 san1 san1 。
-- you3 shi1 ru4 meng4 liao2 ling2 yun4 ， wu2 gao3 cang2 shan1 kui4 shi3 tan2 。
-- yu2 zhi4 tong2 gui1 yi4 pou2 tu3 ， guan3 ta1 hou4 shi4 chuan2 fei1 dan1 。
+- ba3 mao2 rong2 xi1 qiang2 ming2 an1 ， yi2 xia4 yi2 dong1 hu4 xiang4 nan2 。
+- xue3 e4 huang2 jing1 ji1 du4 er4 ， hua1 qi1 bai2 fa4 xiao4 chen2 san1 。
+- er3 nong2 bai3 xia4 yi3 gu3 xiu3 ， ci3 lao3 ju2 zhong1 you2 shou3 tan2 。
+- wei2 you3 zi3 chang2 zan4 shen1 yuan3 ， zhu1 jia1 lei4 yi3 qian3 qiu2 dan1 。
 
 ## 注释
 

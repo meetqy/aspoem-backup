@@ -9,32 +9,32 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 大海濶三千，巨深五六萬。
-- 余特七尺軀，入裏飲一頓。
-- 當時枯竭盡，龍王自出現。
-- 大閱經藏門，請爲說一徧。
-- 依如說無法，龍王悟知見。
-- 賣君髻中珠，隱在如來殿。
-- 戴將軍陳頭，賊降不敢戰。
-- 世上有仁人，得永離貧賤。
-- 不貪有爲身，當見如來面。
+- 居士元無病，方丈現有疾。
+- 唯憂二乘者，緣事不得出。
+- 所以訶穢食，純說波羅蜜。
+- 上方一盂飯，氣滿於七日。
+- 不假日月光，心王照斯室。
+- 文殊問不二，忘言功自畢。
+- 過去即如然，現在還同一。
+- 若能達此理，無求總成佛。
+- （見前書卷二五）。
 
 ## 拼音
 
-- da4 hai3 kuo4 san1 qian1 ， ju4 shen1 wu3 liu4 wan4 。
-- yu2 te4 qi1 chi3 qu1 ， ru4 li3 yin3 yi2 dun4 。
-- dang1 shi2 ku1 jie2 jin4 ， long2 wang2 zi4 chu1 xian4 。
-- da4 yue4 jing1 cang2 men2 ， qing3 wei2 shuo1 yi2 bian4 。
-- yi1 ru2 shuo1 wu2 fa3 ， long2 wang2 wu4 zhi1 jian4 。
-- mai4 jun1 ji4 zhong1 zhu1 ， yin3 zai4 ru2 lai2 dian4 。
-- dai4 jiang1 jun1 chen2 tou2 ， zei2 jiang4 bu4 gan3 zhan4 。
-- shi4 shang4 you3 ren2 ren2 ， de2 yong3 li2 pin2 jian4 。
-- bu4 tan1 you3 wei2 shen1 ， dang1 jian4 ru2 lai2 mian4 。
+- ju1 shi4 yuan2 wu2 bing4 ， fang1 zhang4 xian4 you3 ji2 。
+- wei2 you1 er4 cheng2 zhe3 ， yuan2 shi4 bu4 de2 chu1 。
+- suo3 yi3 he1 hui4 shi2 ， chun2 shuo1 bo1 luo2 mi4 。
+- shang4 fang1 yi4 yu2 fan4 ， qi4 man3 wu1 qi1 ri4 。
+- bu4 jia4 ri4 yue4 guang1 ， xin1 wang2 zhao4 si1 shi4 。
+- wen2 shu1 wen4 bu2 er4 ， wang4 yan2 gong1 zi4 bi4 。
+- guo4 qu4 ji2 ru2 ran2 ， xian4 zai4 huan2 tong2 yi1 。
+- ruo4 neng2 da2 ci3 li3 ， wu2 qiu2 zong3 cheng2 fo2 。
+- （ jian4 qian2 shu1 juan4 er4 wu3 ）。
 
 ## 注释
 

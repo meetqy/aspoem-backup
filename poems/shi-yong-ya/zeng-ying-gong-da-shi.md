@@ -6,9 +6,9 @@ titleSlug: zeng-ying-gong-da-shi
 author: 釋永牙
 authorPinyin: shi4 yong3 ya2
 authorSlug: shi-yong-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

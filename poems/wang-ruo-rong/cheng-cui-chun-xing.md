@@ -6,10 +6,10 @@ titleSlug: cheng-cui-chun-xing
 author: 汪若容
 authorPinyin: wang1 ruo4 rong2
 authorSlug: wang-ruo-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: yong-hua-lin-shu-yuan
 author: 樂史
 authorPinyin: le4 shi3
 authorSlug: le-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: song-tian-xi-xia-di-gui-ning
 author: 釋懷古
 authorPinyin: shi4 huai2 gu3
 authorSlug: shi-huai-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

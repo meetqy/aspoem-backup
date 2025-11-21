@@ -6,25 +6,25 @@ titleSlug: dong-xuan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 僻巷地無喧，閑人慮不煩。
-- 刺舟回北渚，岸幘倚東軒。
-- 乳鵲行苔徑，馴麞觸筍藩。
-- 作勞憐野老，喚取倒清樽。
+- 終日在東廂，閑消百刻香。
+- 一枰分黑白，雙硯列朱黄。
+- 荷氣侵簾馥，桐陰覆井凉。
+- 前知今夕夢，孤榜上瀟湘。
 
 ## 拼音
 
-- pi4 xiang4 di4 wu2 xuan1 ， xian2 ren2 lü4 bu4 fan2 。
-- ci4 zhou1 hui2 bei3 zhu3 ， an4 ze2 yi3 dong1 xuan1 。
-- ru3 que4 xing2 tai2 jing4 ， xun4 zhang1 chu4 sun3 fan1 。
-- zuo4 lao2 lian2 ye3 lao3 ， huan4 qu3 dao3 qing1 zun1 。
+- zhong1 ri4 zai4 dong1 xiang1 ， xian2 xiao1 bai3 ke4 xiang1 。
+- yi4 ping2 fen1 hei1 bai2 ， shuang1 yan4 lie4 zhu1 huang2 。
+- he2 qi4 qin1 lian2 fu4 ， tong2 yin1 fu4 jing3 liang2 。
+- qian2 zhi1 jin1 xi1 meng4 ， gu1 bang3 shang4 xiao1 xiang1 。
 
 ## 注释
 

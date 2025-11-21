@@ -6,21 +6,21 @@ titleSlug: chun-ri
 author: 衛宗武
 authorPinyin: wei4 zong1 wu3
 authorSlug: wei-zong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 化工溥至仁，生機運不停。
-- 榮觀徧原野，宇宙一丹青。
+- 天公要與物爲春，人事紛紛藹若雲。
+- 錦繡山川誰管領，祇應魚鳥得平分。
 
 ## 拼音
 
-- hua4 gong1 pu3 zhi4 ren2 ， sheng1 ji1 yun4 bu4 ting2 。
-- rong2 guan1 bian4 yuan2 ye3 ， yu3 zhou4 yi4 dan1 qing1 。
+- tian1 gong1 yao4 yu3 wu4 wei2 chun1 ， ren2 shi4 fen1 fen1 ai3 ruo4 yun2 。
+- jin3 xiu4 shan1 chuan1 shui2 guan3 ling3 ， qi2 ying1 yu2 niao3 de2 ping2 fen1 。
 
 ## 注释
 

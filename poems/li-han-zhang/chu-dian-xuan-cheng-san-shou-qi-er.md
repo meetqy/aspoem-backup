@@ -6,10 +6,10 @@ titleSlug: chu-dian-xuan-cheng-san-shou-qi-er
 author: 李含章
 authorPinyin: li3 han2 zhang1
 authorSlug: li-han-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

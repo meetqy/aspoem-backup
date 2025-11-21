@@ -6,10 +6,10 @@ titleSlug: qing-xun-zhou-liao-tai-shou-si-shou-qi-yi
 author: 許縣尉
 authorPinyin: xu1 xian4 wei4
 authorSlug: xu-xian-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

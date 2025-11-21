@@ -6,10 +6,10 @@ titleSlug: zhong-di-ying-fu-sheng-ri-da-ren-zuo-shi-ming-he-yuan-yun
 author: 孫應求
 authorPinyin: sun1 ying1 qiu2
 authorSlug: sun-ying-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

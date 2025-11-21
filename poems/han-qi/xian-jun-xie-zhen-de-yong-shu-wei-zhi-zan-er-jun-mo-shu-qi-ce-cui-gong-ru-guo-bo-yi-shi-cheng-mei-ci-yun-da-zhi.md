@@ -6,10 +6,10 @@ titleSlug: xian-jun-xie-zhen-de-yong-shu-wei-zhi-zan-er-jun-mo-shu-qi-ce-cui-gon
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

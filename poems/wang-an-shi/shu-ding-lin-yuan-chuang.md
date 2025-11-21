@@ -6,21 +6,21 @@ titleSlug: shu-ding-lin-yuan-chuang
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道人今輟講，卷裓寄松蘿。
-- 夢說波羅蜜，當如習氣何。
+- 竹雞呼我出華胥，起滅篝燈擁燎鑪。
+- 試問道人何所夢，但言渾忘不言無。
 
 ## 拼音
 
-- dao4 ren2 jin1 chuo4 jiang3 ， juan4 jie1 ji4 song1 luo2 。
-- meng4 shuo1 bo1 luo2 mi4 ， dang1 ru2 xi2 qi4 he2 。
+- zhu2 ji1 hu1 wo3 chu1 hua2 xu1 ， qi3 mie4 gou1 deng1 yong1 liao2 lu2 。
+- shi4 wen4 dao4 ren2 he2 suo3 meng4 ， dan4 yan2 hun2 wang4 bu4 yan2 wu2 。
 
 ## 注释
 

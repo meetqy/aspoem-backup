@@ -6,10 +6,10 @@ titleSlug: la-mei-shu-zhi-tuo-wu-shang-ren-chi-gong-nan-you
 author: 李壁
 authorPinyin: li3 bi4
 authorSlug: li-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

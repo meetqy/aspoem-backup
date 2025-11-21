@@ -6,10 +6,10 @@ titleSlug: xuan-he-gai-yuan-gai-seng-wei-de-shi-zuo-ji
 author: 釋心道
 authorPinyin: shi4 xin1 dao4
 authorSlug: shi-xin-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

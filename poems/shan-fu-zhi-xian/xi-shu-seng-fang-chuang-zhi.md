@@ -6,10 +6,10 @@ titleSlug: xi-shu-seng-fang-chuang-zhi
 author: 陝府知縣
 authorPinyin: shan3 fu3 zhi1 xian4
 authorSlug: shan-fu-zhi-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

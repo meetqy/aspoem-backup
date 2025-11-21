@@ -6,10 +6,10 @@ titleSlug: ti-lai-an-xian-xing-guo-si
 author: 遇僧
 authorPinyin: yu4 seng1
 authorSlug: yu-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

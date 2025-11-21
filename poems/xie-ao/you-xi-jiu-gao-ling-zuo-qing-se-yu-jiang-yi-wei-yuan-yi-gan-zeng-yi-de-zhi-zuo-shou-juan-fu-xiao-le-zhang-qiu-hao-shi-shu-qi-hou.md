@@ -6,10 +6,10 @@ titleSlug: you-xi-jiu-gao-ling-zuo-qing-se-yu-jiang-yi-wei-yuan-yi-gan-zeng-yi-d
 author: 謝翱
 authorPinyin: xie4 ao2
 authorSlug: xie-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: shao-yong-dui-hua-yin
-title: 對花飲
-titlePinyin: dui4 hua1 yin3
+title: 對花吟
+titlePinyin: dui4 hua1 yin2
 titleSlug: dui-hua-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人言物外有煙霞，物外煙霞豈足誇。
-- 若用校量爲樂事，但無憂撓是仙家。
-- 百年光景留難住，十日芳菲去莫遮。
-- 對酒無花非負酒，對花無酒是虧花。
+- 今年花似昔年開，今日人開昔日懷。
+- 煩惱全無半掐子，喜歡長有百車來。
+- 光陰已過意未過，齒髮雖頹志未頹。
+- 人問堯夫曾出否，答云方自洞天回。
 
 ## 拼音
 
-- ren2 yan2 wu4 wai4 you3 yan1 xia2 ， wu4 wai4 yan1 xia2 qi3 zu2 kua1 。
-- ruo4 yong4 xiao4 liang2 wei2 le4 shi4 ， dan4 wu2 you1 nao2 shi4 xian1 jia1 。
-- bai3 nian2 guang1 jing3 liu2 nan2 zhu4 ， shi2 ri4 fang1 fei1 qu4 mo4 zhe1 。
-- dui4 jiu3 wu2 hua1 fei1 fu4 jiu3 ， dui4 hua1 wu2 jiu3 shi4 kui1 hua1 。
+- jin1 nian2 hua1 si4 xi1 nian2 kai1 ， jin1 ri4 ren2 kai1 xi1 ri4 huai2 。
+- fan2 nao3 quan2 wu2 ban4 qia1 zi3 ， xi3 huan1 chang2 you3 bai3 ju1 lai2 。
+- guang1 yin1 yi3 guo4 yi4 wei4 guo4 ， chi3 fa4 sui1 tui2 zhi4 wei4 tui2 。
+- ren2 wen4 yao2 fu1 ceng2 chu1 fou3 ， da2 yun2 fang1 zi4 dong4 tian1 hui2 。
 
 ## 注释
 

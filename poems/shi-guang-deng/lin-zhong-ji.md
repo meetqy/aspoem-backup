@@ -6,10 +6,10 @@ titleSlug: lin-zhong-ji
 author: 釋廣燈
 authorPinyin: shi4 guang3 deng1
 authorSlug: shi-guang-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

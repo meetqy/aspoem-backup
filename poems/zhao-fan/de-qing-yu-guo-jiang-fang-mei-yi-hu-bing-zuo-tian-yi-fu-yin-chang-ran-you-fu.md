@@ -6,10 +6,10 @@ titleSlug: de-qing-yu-guo-jiang-fang-mei-yi-hu-bing-zuo-tian-yi-fu-yin-chang-ran
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

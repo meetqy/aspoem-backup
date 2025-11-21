@@ -6,10 +6,10 @@ titleSlug: han-shi-ye-bu
 author: 釋文坦
 authorPinyin: shi4 wen2 tan3
 authorSlug: shi-wen-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

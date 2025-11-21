@@ -9,24 +9,22 @@ authorSlug: chen-kuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 年年聞爾者，未有不傷情。
-- 出得風塵者，合知岐路人。
-- 拂榻燈未來，開門月先入。
-- 忽生雲是匣，高以月爲臺。
-- 入夜雖無傷物意，向明還有動人心。
+- 醒眼看諸峰，白雲開又集。
+- （見《能改齋漫錄》卷八。
+- ）（按：中華上編本《能改齋漫錄》引此作「五代時陳况詩」，「况」爲「貺」之誤，鄭方坤《五代詩話》卷三所引不誤。
+- ）。
 
 ## 拼音
 
-- nian2 nian2 wen2 er3 zhe3 ， wei4 you3 bu4 shang1 qing2 。
-- chu1 de2 feng1 chen2 zhe3 ， he2 zhi1 qi2 lu4 ren2 。
-- fu2 ta4 deng1 wei4 lai2 ， kai1 men2 yue4 xian1 ru4 。
-- hu1 sheng1 yun2 shi4 xia2 ， gao1 yi3 yue4 wei2 tai2 。
-- ru4 ye4 sui1 wu2 shang1 wu4 yi4 ， xiang4 ming2 huan2 you3 dong4 ren2 xin1 。
+- xing3 yan3 kan4 zhu1 feng1 ， bai2 yun2 kai1 you4 ji2 。
+- （ jian4 《 neng2 gai3 zhai1 man4 lu4 》 juan4 ba1 。
+- ）（ an4 ： zhong1 hua2 shang4 bian1 ben3 《 neng2 gai3 zhai1 man4 lu4 》 yin3 ci3 zuo4 「 wu3 dai4 shi2 chen2 kuang4 shi1 」，「 kuang4 」 wei2 「 kuang4 」 zhi1 wu4 ， zheng4 fang1 kun1 《 wu3 dai4 shi1 hua4 》 juan4 san1 suo3 yin3 bu2 wu4 。
+- ）。
 
 ## 注释
 

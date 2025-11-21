@@ -1,28 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-si
-title: 禪人并化主寫真求贊  其二四
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 si4
+title: 禪人并化主寫真求贊  其二四○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 si4 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-si
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 稜稜之山早雪，淵淵之水先秋。
-- 靜也虛谷之應，動也閑雲之流。
-- 自憐方外專默，誰與環中至遊。
+- 白雲無根，青山有棱。
+- 自得一句，妙出三乘。
+- 和氣而春回百草，光明而焰續千燈。
+- 淵默心傳諸佛體，家風獨許少林曾。
 
 ## 拼音
 
-- leng2 leng2 zhi1 shan1 zao3 xue3 ， yuan1 yuan1 zhi1 shui3 xian1 qiu1 。
-- jing4 ye3 xu1 gu3 zhi1 ying1 ， dong4 ye3 xian2 yun2 zhi1 liu2 。
-- zi4 lian2 fang1 wai4 zhuan1 mo4 ， shui2 yu3 huan2 zhong1 zhi4 you2 。
+- bai2 yun2 wu2 gen1 ， qing1 shan1 you3 leng2 。
+- zi4 de2 yi2 ju4 ， miao4 chu1 san1 cheng2 。
+- he2 qi4 er2 chun1 hui2 bai3 cao3 ， guang1 ming2 er2 yan4 xu4 qian1 deng1 。
+- yuan1 mo4 xin1 chuan2 zhu1 fo2 ti3 ， jia1 feng1 du2 xu1 shao4 lin2 ceng2 。
 
 ## 注释
 

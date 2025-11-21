@@ -6,25 +6,25 @@ titleSlug: dui-jiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 扇邉生怕庾公塵，索笑來逰錦水濵。
-- 四野雲齊初釀雪，一枝梅動已催春。
-- 緑尊有味能消日，白髮無情不貸人。
-- 商略此生何所恨，太平時得自由身。
+- 酒非攻愁具，本頼以適意。
+- 如接名勝遊，所挹在風味。
+- 庸子墮世紛，但欲蘄一醉。
+- 麴生絕俗人，笑汝非真契。
 
 ## 拼音
 
-- shan4 bian1 sheng1 pa4 yu3 gong1 chen2 ， suo3 xiao4 lai2 you2 jin3 shui3 bin1 。
-- si4 ye3 yun2 qi2 chu1 niang4 xue3 ， yi4 zhi1 mei2 dong4 yi3 cui1 chun1 。
-- lü4 zun1 you3 wei4 neng2 xiao1 ri4 ， bai2 fa4 wu2 qing2 bu2 dai4 ren2 。
-- shang1 lüe4 ci3 sheng1 he2 suo3 hen4 ， tai4 ping2 shi2 de2 zi4 you2 shen1 。
+- jiu3 fei1 gong1 chou2 ju4 ， ben3 lai4 yi3 shi4 yi4 。
+- ru2 jie1 ming2 sheng4 you2 ， suo3 yi4 zai4 feng1 wei4 。
+- yong1 zi3 duo4 shi4 fen1 ， dan4 yu4 qi2 yi2 zui4 。
+- qu1 sheng1 jue2 su2 ren2 ， xiao4 ru3 fei1 zhen1 qi4 。
 
 ## 注释
 

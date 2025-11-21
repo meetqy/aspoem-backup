@@ -6,10 +6,10 @@ titleSlug: xiao-gu-shan
 author: 傅文翁
 authorPinyin: fu4 wen2 weng1
 authorSlug: fu-wen-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

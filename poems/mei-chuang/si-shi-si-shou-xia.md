@@ -6,10 +6,10 @@ titleSlug: si-shi-si-shou-xia
 author: 梅窗
 authorPinyin: mei2 chuang1
 authorSlug: mei-chuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

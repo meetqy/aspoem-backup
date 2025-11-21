@@ -6,29 +6,29 @@ titleSlug: yong-huai
 author: 釋永頤
 authorPinyin: shi4 yong3 yi2
 authorSlug: shi-yong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晨風蕩原野，高林摩蒼條。
-- 屋上野花落，階前春草摇。
-- 少壯不可恃，金骨亦易銷。
-- 夙志歎沈泯，晚心日幽寥。
-- 紫烟凌石峯，綠雲生桂標。
-- 林懷頗清暢，況復靈景饒。
+- 落日重雲下，哀哀聞子規。
+- 荆玉化爲土，湘淚摧空枝。
+- 彼禽復何怨，歲歲號春時。
+- 春風自無情，衆芳日夜衰。
+- 冉冉無終極，哀樂徒爾爲。
+- 睇彼川上流，浩蕩無前期。
 
 ## 拼音
 
-- chen2 feng1 dang4 yuan2 ye3 ， gao1 lin2 mo2 cang1 tiao2 。
-- wu1 shang4 ye3 hua1 luo4 ， jie1 qian2 chun1 cao3 yao2 。
-- shao3 zhuang4 bu4 ke3 shi4 ， jin1 gu3 yi4 yi4 xiao1 。
-- su4 zhi4 tan4 shen3 min3 ， wan3 xin1 ri4 you1 liao2 。
-- zi3 yan1 ling2 shi2 feng1 ， lü4 yun2 sheng1 gui4 biao1 。
-- lin2 huai2 po1 qing1 chang4 ， kuang4 fu4 ling2 jing3 rao2 。
+- luo4 ri4 zhong4 yun2 xia4 ， ai1 ai1 wen2 zi3 gui1 。
+- jing1 yu4 hua4 wei2 tu3 ， xiang1 lei4 cui1 kong1 zhi1 。
+- bi3 qin2 fu4 he2 yuan4 ， sui4 sui4 hao4 chun1 shi2 。
+- chun1 feng1 zi4 wu2 qing2 ， zhong4 fang1 ri4 ye4 shuai1 。
+- ran3 ran3 wu2 zhong1 ji2 ， ai1 le4 tu2 er3 wei2 。
+- di4 bi3 chuan1 shang4 liu2 ， hao4 dang4 wu2 qian2 qi1 。
 
 ## 注释
 

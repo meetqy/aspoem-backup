@@ -18,6 +18,8 @@ tags: []
 - 卷簾山入戶，摘菓鳥移林。
 - 石沼養龜水，月臺留客琴。
 - 生涯一樽酒，名利不關心。
+- （同前第五冊第三一二三頁。
+- ）。
 
 ## 拼音
 
@@ -25,6 +27,8 @@ tags: []
 - juan4 lian2 shan1 ru4 hu4 ， zhai1 guo3 niao3 yi2 lin2 。
 - shi2 zhao3 yang3 gui1 shui3 ， yue4 tai2 liu2 ke4 qin2 。
 - sheng1 ya2 yi4 zun1 jiu3 ， ming2 li4 bu4 guan1 xin1 。
+- （ tong2 qian2 di4 wu3 ce4 di4 san1 yi1 er4 san1 ye4 。
+- ）。
 
 ## 注释
 

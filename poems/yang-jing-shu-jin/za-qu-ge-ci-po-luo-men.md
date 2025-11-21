@@ -6,10 +6,10 @@ titleSlug: za-qu-ge-ci-po-luo-men
 author: 楊敬述進
 authorPinyin: yang2 jing4 shu4 jin4
 authorSlug: yang-jing-shu-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

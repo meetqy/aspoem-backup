@@ -6,10 +6,10 @@ titleSlug: fan-shi-qi-si-li-jian-wen-sui-chu-qiu-shu-ye-yin-zhi-yue-xin-chun-qia
 author: 呂南公
 authorPinyin: lü3 nan2 gong1
 authorSlug: lu-nan-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: tong-yang-shi-er-gou-shi-si-su-cao-zhuo-zhang-zheng-min-xiu-cai-jian-
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

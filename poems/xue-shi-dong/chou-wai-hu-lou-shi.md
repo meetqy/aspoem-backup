@@ -6,10 +6,10 @@ titleSlug: chou-wai-hu-lou-shi
 author: 薛師董
 authorPinyin: xue1 shi1 dong3
 authorSlug: xue-shi-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

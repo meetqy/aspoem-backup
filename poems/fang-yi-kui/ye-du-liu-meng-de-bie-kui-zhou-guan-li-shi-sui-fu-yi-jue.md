@@ -6,10 +6,10 @@ titleSlug: ye-du-liu-meng-de-bie-kui-zhou-guan-li-shi-sui-fu-yi-jue
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

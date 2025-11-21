@@ -9,22 +9,18 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 歲迎更始，節及朝元。
-- 冕旒仰止，冠劒相連。
-- 八音合奏，萬物齊宣。
-- 常陳盛禮，願永千年。
+- 明庭展禮，爲龍爲光。
+- 咸韶息韻，鵷鷺歸行。
 
 ## 拼音
 
-- sui4 ying2 geng1 shi3 ， jie2 ji2 chao2 yuan2 。
-- mian3 liu2 yang3 zhi3 ， guan1 jian4 xiang1 lian2 。
-- ba1 yin1 he2 zou4 ， wan4 wu4 qi2 xuan1 。
-- chang2 chen2 sheng4 li3 ， yuan4 yong3 qian1 nian2 。
+- ming2 ting2 zhan3 li3 ， wei2 long2 wei2 guang1 。
+- xian2 shao2 xi1 yun4 ， yuan1 lu4 gui1 xing2 。
 
 ## 注释
 

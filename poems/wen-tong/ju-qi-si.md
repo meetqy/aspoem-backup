@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ju-qi-si
-title: 句・其四
-titlePinyin: ju4・qi2 si4
+title: 句  其四
+titlePinyin: ju4     qi2 si4
 titleSlug: ju-qi-si
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

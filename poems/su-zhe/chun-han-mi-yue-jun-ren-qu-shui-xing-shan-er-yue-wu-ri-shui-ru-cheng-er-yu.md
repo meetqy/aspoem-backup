@@ -6,10 +6,10 @@ titleSlug: chun-han-mi-yue-jun-ren-qu-shui-xing-shan-er-yue-wu-ri-shui-ru-cheng-
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

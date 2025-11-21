@@ -6,10 +6,10 @@ titleSlug: ju
 author: 段全
 authorPinyin: duan4 quan2
 authorSlug: duan-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

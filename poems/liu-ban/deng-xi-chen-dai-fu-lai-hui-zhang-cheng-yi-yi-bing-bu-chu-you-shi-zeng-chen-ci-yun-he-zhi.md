@@ -6,10 +6,10 @@ titleSlug: deng-xi-chen-dai-fu-lai-hui-zhang-cheng-yi-yi-bing-bu-chu-you-shi-zen
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: qiu-ye
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小屏相對兩眉攢，長夜迢迢不肯殘。
-- 鼠向鐙前窺坐卧，人從夢裏說悲歡。
-- 故山無計行秋晚，客路從誰守歲寒。
-- 留得濁醪相慰藉，酒腸猶喜十分寬。
+- 老去驚秋白髮添，不禁涼吹逼疏簾。
+- 樓高幸自蛩聲遠，爭柰梧桐又傍簷。
 
 ## 拼音
 
-- xiao3 ping2 xiang1 dui4 liang3 mei2 zan3 ， chang2 ye4 tiao2 tiao2 bu4 ken3 can2 。
-- shu3 xiang4 deng1 qian2 kui1 zuo4 wo4 ， ren2 cong2 meng4 li3 shuo1 bei1 huan1 。
-- gu4 shan1 wu2 ji4 xing2 qiu1 wan3 ， ke4 lu4 cong2 shui2 shou3 sui4 han2 。
-- liu2 de2 zhuo2 lao2 xiang1 wei4 jie4 ， jiu3 chang2 you2 xi3 shi2 fen1 kuan1 。
+- lao3 qu4 jing1 qiu1 bai2 fa4 tian1 ， bu4 jin1 liang2 chui1 bi1 shu1 lian2 。
+- lou2 gao1 xing4 zi4 qiong2 sheng1 yuan3 ， zheng1 nai4 wu2 tong2 you4 bang4 yan2 。
 
 ## 注释
 

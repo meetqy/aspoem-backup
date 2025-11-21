@@ -6,25 +6,25 @@ titleSlug: ti-zhai-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閉門無事不勝閑，心境超然一室寬。
-- 香岫火深生細靄，硯池風過起微瀾。
-- 睡餘但欲依書几，坐久還思弄釣竿。
-- 擾擾平生成底事，鏡湖歸隱老黄冠。
+- 皞皞太平民，堂堂大耋身。
+- 乾坤一旅舍，日月兩車輪。
+- 蓑貴超三品，蔬甘敵八珍。
+- 明年真耄矣，爛醉海山春。
 
 ## 拼音
 
-- bi4 men2 wu2 shi4 bu2 sheng4 xian2 ， xin1 jing4 chao1 ran2 yi2 shi4 kuan1 。
-- xiang1 xiu4 huo3 shen1 sheng1 xi4 ai3 ， yan4 chi2 feng1 guo4 qi3 wei1 lan2 。
-- shui4 yu2 dan4 yu4 yi1 shu1 ji3 ， zuo4 jiu3 huan2 si1 nong4 diao4 gan1 。
-- rao3 rao3 ping2 sheng1 cheng2 di3 shi4 ， jing4 hu2 gui1 yin3 lao3 huang2 guan1 。
+- hao4 hao4 tai4 ping2 min2 ， tang2 tang2 da4 die2 shen1 。
+- qian2 kun1 yi4 lü3 she4 ， ri4 yue4 liang3 ju1 lun2 。
+- suo1 gui4 chao1 san1 pin3 ， shu1 gan1 di2 ba1 zhen1 。
+- ming2 nian2 zhen1 mao4 yi3 ， lan4 zui4 hai3 shan1 chun1 。
 
 ## 注释
 

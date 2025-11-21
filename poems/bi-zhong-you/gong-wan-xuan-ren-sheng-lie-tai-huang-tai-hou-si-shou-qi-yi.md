@@ -6,10 +6,10 @@ titleSlug: gong-wan-xuan-ren-sheng-lie-tai-huang-tai-hou-si-shou-qi-yi
 author: 畢仲游
 authorPinyin: bi4 zhong4 you2
 authorSlug: bi-zhong-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

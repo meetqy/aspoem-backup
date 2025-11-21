@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-tai-shi-chen-wen-gong-gong-wan-ci-qi-san
-title: 太師陳文恭公輓詞・其三
-titlePinyin: tai4 shi1 chen2 wen2 gong1 gong1 wan3 ci2・qi2 san1
+title: 太師陳文恭公輓詞  其三
+titlePinyin: tai4 shi1 chen2 wen2 gong1 gong1 wan3 ci2     qi2 san1
 titleSlug: tai-shi-chen-wen-gong-gong-wan-ci-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

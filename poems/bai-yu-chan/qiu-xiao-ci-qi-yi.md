@@ -1,32 +1,32 @@
 ---
 id: bai-yu-chan-qiu-xiao-ci-qi-yi
-title: 秋宵辭  其一
-titlePinyin: qiu1 xiao1 ci2     qi2 yi1
+title: 秋宵辭  其一○
+titlePinyin: qiu1 xiao1 ci2     qi2 yi1 ○
 titleSlug: qiu-xiao-ci-qi-yi
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋色何凄凄，奈此可憐宵。
-- 銀河望不極，萬籟凉蕭蕭。
-- 雲花遠縹緲，月影寒寂寥。
-- 一鴈蹲滄洲，羣螢飛斷橋。
-- 仰盼蒼松枝，黯然不自聊。
+- 清秋薄湖山，蒲柳生寒煙。
+- 悵望荷花中，誰家鳴筦筦絃。
+- 豈復念伊人，孤影芙蓉邊。
+- 吸風咀月露，照水時自憐。
+- 暗懷夜光寶，長吁不成眠。
 
 ## 拼音
 
-- qiu1 se4 he2 qi1 qi1 ， nai4 ci3 ke3 lian2 xiao1 。
-- yin2 he2 wang4 bu4 ji2 ， wan4 lai4 liang2 xiao1 xiao1 。
-- yun2 hua1 yuan3 piao3 miao3 ， yue4 ying3 han2 ji4 liao2 。
-- yi2 yan4 dun1 cang1 zhou1 ， qun2 ying2 fei1 duan4 qiao2 。
-- yang3 pan4 cang1 song1 zhi1 ， an4 ran2 bu2 zi4 liao2 。
+- qing1 qiu1 bao2 hu2 shan1 ， pu2 liu3 sheng1 han2 yan1 。
+- chang4 wang4 he2 hua1 zhong1 ， shui2 jia1 ming2 guan3 guan3 xian2 。
+- qi3 fu4 nian4 yi1 ren2 ， gu1 ying3 fu2 rong2 bian1 。
+- xi1 feng1 zui3 yue4 lu4 ， zhao4 shui3 shi2 zi4 lian2 。
+- an4 huai2 ye4 guang1 bao3 ， chang2 xu1 bu4 cheng2 mian2 。
 
 ## 注释
 

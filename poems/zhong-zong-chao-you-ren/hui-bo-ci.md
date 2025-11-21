@@ -9,7 +9,7 @@ authorSlug: zhong-zong-chao-you-ren
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ti-fang-xing-hua-ying-she
 author: 趙師秀
 authorPinyin: zhao4 shi1 xiu4
 authorSlug: zhao-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晴簷方聽夜淋浪，晚送儒臣別建章。
-- 但欲有言扶國是，不嫌無計作身防。
-- 輕舟過處猿頻斷，舊宅開時菊正黄。
-- 心事對牀應細語，得歸如此亦何妨。
+- 使君如玉不雕鎸，可惜埋藏已十年。
+- 佳兆昔令人入夢，遺經今有子能傳。
+- 紫藤附暖應生地，蒼柏凌空欲到天。
+- 要識德源無盡處，一池清甚發淵泉。
 
 ## 拼音
 
-- qing2 yan2 fang1 ting1 ye4 lin2 lang4 ， wan3 song4 ru2 chen2 bie2 jian4 zhang1 。
-- dan4 yu4 you3 yan2 fu2 guo2 shi4 ， bu4 xian2 wu2 ji4 zuo4 shen1 fang2 。
-- qing1 zhou1 guo4 chu3 yuan2 bin1 duan4 ， jiu4 zhai2 kai1 shi2 ju2 zheng4 huang2 。
-- xin1 shi4 dui4 chuang2 ying1 xi4 yu3 ， de2 gui1 ru2 ci3 yi4 he2 fang2 。
+- shi3 jun1 ru2 yu4 bu4 diao1 juan1 ， ke3 xi1 mai2 cang2 yi3 shi2 nian2 。
+- jia1 zhao4 xi1 ling4 ren2 ru4 meng4 ， yi2 jing1 jin1 you3 zi3 neng2 chuan2 。
+- zi3 teng2 fu4 nuan3 ying1 sheng1 di4 ， cang1 bai3 ling2 kong1 yu4 dao4 tian1 。
+- yao4 shi2 de2 yuan2 wu2 jin4 chu3 ， yi4 chi2 qing1 shen4 fa1 yuan1 quan2 。
 
 ## 注释
 

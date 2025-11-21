@@ -6,10 +6,10 @@ titleSlug: song-wen-yue-you-ye-wu-fang-jiang-bu-sui-er-gui-fu-yong-yun-jian-yi-y
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

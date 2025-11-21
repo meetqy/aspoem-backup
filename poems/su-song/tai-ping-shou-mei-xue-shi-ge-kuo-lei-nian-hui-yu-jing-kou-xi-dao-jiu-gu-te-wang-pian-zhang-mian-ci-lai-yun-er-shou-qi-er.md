@@ -6,10 +6,10 @@ titleSlug: tai-ping-shou-mei-xue-shi-ge-kuo-lei-nian-hui-yu-jing-kou-xi-dao-jiu-
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

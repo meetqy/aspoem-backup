@@ -6,10 +6,10 @@ titleSlug: ti-qin-chang-ling-xie-zhen
 author: 魚肉和尚
 authorPinyin: yu2 rou4 he2 shang4
 authorSlug: yu-rou-he-shang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: zao-qi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不分老鈴下，苦來驚我眠。
-- 要知甘寢處，最是欲明天。
-- 未了公家事，難銷月俸錢。
-- 坐曹臨訟罷，殘燭正熒然。
+- 黄菊花繁依舊臞，牡丹葉落恰如枯。
+- 霜中蚱蜢凍欲死，緊抱寒梢不放渠。
 
 ## 拼音
 
-- bu4 fen1 lao3 ling2 xia4 ， ku3 lai2 jing1 wo3 mian2 。
-- yao4 zhi1 gan1 qin3 chu3 ， zui4 shi4 yu4 ming2 tian1 。
-- wei4 liao3 gong1 jia0 shi4 ， nan2 xiao1 yue4 feng4 qian2 。
-- zuo4 cao2 lin2 song4 ba4 ， can2 zhu2 zheng4 ying2 ran2 。
+- huang2 ju2 hua1 fan2 yi1 jiu4 qu2 ， mu3 dan1 ye4 luo4 qia4 ru2 ku1 。
+- shuang1 zhong1 zha4 meng3 dong4 yu4 si3 ， jin3 bao4 han2 shao1 bu2 fang4 qu2 。
 
 ## 注释
 

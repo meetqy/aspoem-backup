@@ -6,10 +6,10 @@ titleSlug: feng-zhao-fu-qiong-lin-yuan-yan-jian-tai-wei-lu-guo-wen-gong-chu-zhen
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

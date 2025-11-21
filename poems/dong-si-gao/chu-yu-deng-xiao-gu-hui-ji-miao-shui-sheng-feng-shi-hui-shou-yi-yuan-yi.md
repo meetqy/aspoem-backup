@@ -6,10 +6,10 @@ titleSlug: chu-yu-deng-xiao-gu-hui-ji-miao-shui-sheng-feng-shi-hui-shou-yi-yuan-
 author: 董嗣杲
 authorPinyin: dong3 si4 gao3
 authorSlug: dong-si-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

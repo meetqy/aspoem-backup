@@ -6,9 +6,9 @@ titleSlug: guang-hua-si
 author: 陳桷
 authorPinyin: chen2 jue2
 authorSlug: chen-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

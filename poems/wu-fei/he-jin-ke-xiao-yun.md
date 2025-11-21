@@ -6,25 +6,25 @@ titleSlug: he-jin-ke-xiao-yun
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天公放我作閒人，寵辱無緣到我身。
-- 濁酒興來寧惜醉，小園日涉不嫌頻。
-- 祇知丘壑追元亮，敢望京師說子真。
-- 漸近青春尤可樂，有花如錦草如茵。
+- 長嗟軒冕累吾身，幸得歸來見此君。
+- 晚出漁樵呼作伴，行隨鹿鶴與同羣。
+- 浮光喜踏山前月，弄影貪看水底雲。
+- 還有江梅通信息，一枝暗裏遞清芬。
 
 ## 拼音
 
-- tian1 gong1 fang4 wo3 zuo4 xian2 ren2 ， chong3 ru3 wu2 yuan2 dao4 wo3 shen1 。
-- zhuo2 jiu3 xing1 lai2 ning2 xi1 zui4 ， xiao3 yuan2 ri4 she4 bu4 xian2 bin1 。
-- qi2 zhi1 qiu1 he4 zhui1 yuan2 liang4 ， gan3 wang4 jing1 shi1 shuo1 zi3 zhen1 。
-- jian4 jin4 qing1 chun1 you2 ke3 le4 ， you3 hua1 ru2 jin3 cao3 ru2 yin1 。
+- chang2 jie1 xuan1 mian3 lei4 wu2 shen1 ， xing4 de2 gui1 lai2 jian4 ci3 jun1 。
+- wan3 chu1 yu2 qiao2 hu1 zuo4 ban4 ， xing2 sui2 lu4 he4 yu3 tong2 qun2 。
+- fu2 guang1 xi3 ta4 shan1 qian2 yue4 ， nong4 ying3 tan1 kan4 shui3 di3 yun2 。
+- huan2 you3 jiang1 mei2 tong1 xin4 xi1 ， yi4 zhi1 an4 li3 di4 qing1 fen1 。
 
 ## 注释
 

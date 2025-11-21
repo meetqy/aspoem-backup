@@ -6,10 +6,10 @@ titleSlug: yong-xi-hu-jiang-hu-wei-guan-lou
 author: 李遇
 authorPinyin: li3 yu4
 authorSlug: li-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

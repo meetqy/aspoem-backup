@@ -6,25 +6,21 @@ titleSlug: long-yin-yan
 author: 方信孺
 authorPinyin: fang1 xin4 ru2
 authorSlug: fang-xin-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石門元不鎖，巖屋本無基。
-- 九夏花猶在，千年樹倒垂。
-- 僧閒方定起，客到每歸遲。
-- 甚欲眠蓮葉，沿崖讀斷碑。
+- 曾榜武夷九曲，何如桂嶺七星。
+- 水石小容螭隠，烟雲長带龍腥。
 
 ## 拼音
 
-- shi2 men2 yuan2 bu4 suo3 ， yan2 wu1 ben3 wu2 ji1 。
-- jiu3 xia4 hua1 you2 zai4 ， qian1 nian2 shu4 dao4 chui2 。
-- seng1 xian2 fang1 ding4 qi3 ， ke4 dao4 mei3 gui1 chi2 。
-- shen4 yu4 mian2 lian2 ye4 ， yan2 ya2 du2 duan4 bei1 。
+- ceng2 bang3 wu3 yi2 jiu3 qu1 ， he2 ru2 gui4 ling3 qi1 xing1 。
+- shui3 shi2 xiao3 rong2 chi1 yin3 ， yan1 yun2 chang2 dai4 long2 xing1 。
 
 ## 注释
 

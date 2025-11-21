@@ -6,10 +6,10 @@ titleSlug: cha-an
 author: 逍遥子
 authorPinyin: xiao1 yao2 zi0
 authorSlug: xiao-yao-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

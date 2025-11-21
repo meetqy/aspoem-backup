@@ -6,9 +6,9 @@ titleSlug: ti-zhen-rong-jun-ting-bi
 author: 張繼常
 authorPinyin: zhang1 ji4 chang2
 authorSlug: zhang-ji-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ti-wen-gong-shu-yuan
 author: 管御史
 authorPinyin: guan3 yu4 shi3
 authorSlug: guan-yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

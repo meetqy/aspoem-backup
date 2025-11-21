@@ -6,10 +6,10 @@ titleSlug: zhong-mei
 author: 劉文晦
 authorPinyin: liu2 wen2 hui4
 authorSlug: liu-wen-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

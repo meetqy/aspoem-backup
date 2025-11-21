@@ -6,25 +6,25 @@ titleSlug: xian-you
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出雜羊牛牧，歸隨鳥雀栖。
-- 聊持數匙飯，就乞半盂齏。
-- 浩蕩凌原野，崎嶇歷澗溪。
-- 閑遊豈不好，客意自凄凄。
+- 柴車去去度橫陂，正是春殘入夏時。
+- 果熟多藏新密葉，鶑啼偏占最高枝。
+- 迷途每就傭耕問，薄飯時從逆旅炊。
+- 隨意題詩無傑思，還家猶足詫吾兒。
 
 ## 拼音
 
-- chu1 za2 yang2 niu2 mu4 ， gui1 sui2 niao3 que4 qi1 。
-- liao2 chi2 shu4 chi2 fan4 ， jiu4 qi3 ban4 yu2 ji1 。
-- hao4 dang4 ling2 yuan2 ye3 ， qi2 qu1 li4 jian4 xi1 。
-- xian2 you2 qi3 bu4 hao3 ， ke4 yi4 zi4 qi1 qi1 。
+- chai2 ju1 qu4 qu4 du4 heng2 bei1 ， zheng4 shi4 chun1 can2 ru4 xia4 shi2 。
+- guo3 shu2 duo1 cang2 xin1 mi4 ye4 ， ying1 ti2 pian1 zhan4 zui4 gao1 zhi1 。
+- mi2 tu2 mei3 jiu4 yong1 geng1 wen4 ， bao2 fan4 shi2 cong2 ni4 lü3 chui1 。
+- sui2 yi4 ti2 shi1 wu2 jie2 si1 ， huan2 jia1 you2 zu2 cha4 wu2 er2 。
 
 ## 注释
 

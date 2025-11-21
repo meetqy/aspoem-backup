@@ -6,9 +6,9 @@ titleSlug: song-gu-er-shi-shou-qi-liu
 author: 釋了一
 authorPinyin: shi4 le0 yi1
 authorSlug: shi-le-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

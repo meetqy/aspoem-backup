@@ -6,10 +6,10 @@ titleSlug: wan-gu-zhi-rong-zhou-chao-qing-tao-gong
 author: 危彪
 authorPinyin: wei1 biao1
 authorSlug: wei-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

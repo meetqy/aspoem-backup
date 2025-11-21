@@ -6,10 +6,10 @@ titleSlug: bei-xin-qiao-jie-sun-shi-zhai-nei-you-jing-gan-han-you-you-liu-yin-du
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

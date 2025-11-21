@@ -6,25 +6,25 @@ titleSlug: wan-ci-sheng-guang-xian-huang-hou-er-shou-qi-er
 author: 劉摰
 authorPinyin: liu2 nie4
 authorSlug: liu-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖孝心崇報，宫庭詔屢頒。
-- 喪期逾易月，陵兆改因山。
-- 已想天人樂，猶睎藥使還。
-- 蟠桃舊亭上，時節壽觴間。
+- 孝孫皇帝念終天，毁慕難留王座遷。
+- 廟謚易名尊四字，宸闈行服自三年。
+- 寶衣鸞鳯藏華殿，哀仗星辰下洛川。
+- 從此都人想遊幸，無因重見九龍軿。
 
 ## 拼音
 
-- sheng4 xiao4 xin1 chong2 bao4 ， gong1 ting2 zhao4 lü3 ban1 。
-- sang1 qi1 yu2 yi4 yue4 ， ling2 zhao4 gai3 yin1 shan1 。
-- yi3 xiang3 tian1 ren2 le4 ， you2 xi1 yao4 shi3 huan2 。
-- pan2 tao2 jiu4 ting2 shang4 ， shi2 jie2 shou4 shang1 jian4 。
+- xiao4 sun1 huang2 di4 nian4 zhong1 tian1 ， hui3 mu4 nan2 liu2 wang2 zuo4 qian1 。
+- miao4 shi4 yi4 ming2 zun1 si4 zi4 ， chen2 wei2 xing2 fu2 zi4 san1 nian2 。
+- bao3 yi1 luan2 feng4 cang2 hua2 dian4 ， ai1 zhang4 xing1 chen2 xia4 luo4 chuan1 。
+- cong2 ci3 dou1 ren2 xiang3 you2 xing4 ， wu2 yin1 zhong4 jian4 jiu3 long2 ping2 。
 
 ## 注释
 

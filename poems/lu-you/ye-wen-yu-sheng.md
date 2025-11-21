@@ -6,25 +6,25 @@ titleSlug: ye-wen-yu-sheng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 高簷夜雨瀉淋浪，起擁寒衾旋炷香。
-- 春事豈堪頻破壊，客愁不可復禁當。
-- 長缾磊落輸郫醸，輕騎聮翩報海棠。
-- 著意物華君莫笑，世間得喪更茫茫。
+- 我似騎驢孟浩然，帽邊隨意領山川。
+- 忽聞風雨掠窗外，便覺江湖在眼前。
+- 路過郵亭知幾處，身如估客不論年。
+- 未妨剩擁寒衾卧，贏取孤吟入斷編。
 
 ## 拼音
 
-- gao1 yan2 ye4 yu3 xie4 lin2 lang4 ， qi3 yong1 han2 qin1 xuan2 zhu4 xiang1 。
-- chun1 shi4 qi3 kan1 bin1 po4 huai4 ， ke4 chou2 bu4 ke3 fu4 jin4 dang1 。
-- chang2 ping2 lei3 luo4 shu1 pi2 niang4 ， qing1 qi2 lian2 pian1 bao4 hai3 tang2 。
-- zhu4 yi4 wu4 hua2 jun1 mo4 xiao4 ， shi4 jian4 de2 sang1 geng4 mang2 mang2 。
+- wo3 si4 qi2 lü2 meng4 hao4 ran2 ， mao4 bian1 sui2 yi4 ling3 shan1 chuan1 。
+- hu1 wen2 feng1 yu3 lüe4 chuang1 wai4 ， bian4 jue2 jiang1 hu2 zai4 yan3 qian2 。
+- lu4 guo4 you2 ting2 zhi1 ji1 chu3 ， shen1 ru2 gu1 ke4 bu2 lun4 nian2 。
+- wei4 fang2 sheng4 yong1 han2 qin1 wo4 ， ying2 qu3 gu1 yin2 ru4 duan4 bian1 。
 
 ## 注释
 

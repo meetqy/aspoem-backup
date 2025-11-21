@@ -6,10 +6,10 @@ titleSlug: you-dan-yan-ou-de-er-jue-qi-yi
 author: 袁鎮
 authorPinyin: yuan2 zhen4
 authorSlug: yuan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

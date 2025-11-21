@@ -6,10 +6,10 @@ titleSlug: shan-yuan-xiao-mei-de-shu-ying-heng-xie-shui-qing-qian-an-xiang-fu-do
 author: 趙時韶
 authorPinyin: zhao4 shi2 shao2
 authorSlug: zhao-shi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

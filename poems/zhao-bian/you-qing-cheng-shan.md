@@ -6,33 +6,25 @@ titleSlug: you-qing-cheng-shan
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三十六峯峻，維岷在蜀奇。
-- 方行刺史部，重款丈人祠。
-- 凍雪諸蕃隔，晴雲六面披。
-- 訪山窮寶洞，敕鬼覘豐碑。
-- 泉落寒崖響，蘿依古木垂。
-- 良工存舊筆，老叟琢新詩。
-- 陟險齊雙屐，逢幽鼓七絲。
-- 盤桓不忍去，還作更來期。
+- 山到青城險復奇，地平孤起壓坤維。
+- 直通一徑岧嶢上，俯覺千山迤邐卑。
+- 爲訪隱賢題古壁，因觀幽境過荒祠。
+- 白雲深處逢巖老，醉酌松醪滿鬢絲。
 
 ## 拼音
 
-- san1 shi2 liu4 feng1 jun4 ， wei2 min2 zai4 shu3 qi2 。
-- fang1 xing2 ci4 shi3 bu4 ， zhong4 kuan3 zhang4 ren2 ci2 。
-- dong4 xue3 zhu1 fan1 ge2 ， qing2 yun2 liu4 mian4 pi1 。
-- fang3 shan1 qiong2 bao3 dong4 ， chi4 gui3 chan1 feng1 bei1 。
-- quan2 luo4 han2 ya2 xiang3 ， luo2 yi1 gu3 mu4 chui2 。
-- liang2 gong1 cun2 jiu4 bi3 ， lao3 sou3 zhuo2 xin1 shi1 。
-- zhi4 xian3 qi2 shuang1 ji1 ， feng2 you1 gu3 qi1 si1 。
-- pan2 huan2 bu4 ren3 qu4 ， huan2 zuo4 geng4 lai2 qi1 。
+- shan1 dao4 qing1 cheng2 xian3 fu4 qi2 ， di4 ping2 gu1 qi3 ya1 kun1 wei2 。
+- zhi2 tong1 yi2 jing4 tiao2 yao2 shang4 ， fu3 jue2 qian1 shan1 yi3 li3 bei1 。
+- wei2 fang3 yin3 xian2 ti2 gu3 bi4 ， yin1 guan1 you1 jing4 guo4 huang1 ci2 。
+- bai2 yun2 shen1 chu3 feng2 yan2 lao3 ， zui4 zhuo2 song1 lao2 man3 bin4 si1 。
 
 ## 注释
 

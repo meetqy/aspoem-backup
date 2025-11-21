@@ -6,10 +6,10 @@ titleSlug: yuan-feng-liu-nian-zheng-yue-er-shi-jiu-ri-ji-ren-sheng-xu-yuan-li-yi
 author: 華鎮
 authorPinyin: hua2 zhen4
 authorSlug: hua-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

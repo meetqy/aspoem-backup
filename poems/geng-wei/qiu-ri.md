@@ -9,22 +9,18 @@ authorSlug: geng-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 照耀天山外，飛鵶幾共過。
-- 微紅拂秋漢，片白透長波。
-- 影促寒汀薄，光殘古木多。
-- 金霞與雲氣，散漫復相和。
+- 反照入閭巷，憂來與誰語。
+- 古道無人行，秋風動禾黍。
 
 ## 拼音
 
-- zhao4 yao4 tian1 shan1 wai4 ， fei1 ya1 ji1 gong4 guo4 。
-- wei1 hong2 fu2 qiu1 han4 ， pian4 bai2 tou4 chang2 bo1 。
-- ying3 cu4 han2 ting1 bao2 ， guang1 can2 gu3 mu4 duo1 。
-- jin1 xia2 yu3 yun2 qi4 ， san3 man4 fu4 xiang1 he2 。
+- fan3 zhao4 ru4 lü2 xiang4 ， you1 lai2 yu3 shui2 yu3 。
+- gu3 dao4 wu2 ren2 hang2 ， qiu1 feng1 dong4 he2 shu3 。
 
 ## 注释
 

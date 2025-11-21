@@ -6,10 +6,10 @@ titleSlug: ti-jiang-xiang-feng-qian-ci-qi-yi
 author: 傅伯壽
 authorPinyin: fu4 bo2 shou4
 authorSlug: fu-bo-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

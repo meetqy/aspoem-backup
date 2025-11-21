@@ -1,30 +1,34 @@
 ---
 id: lu-you-xiao-yin
-title: 小隱
+title: 小飲
 titlePinyin: xiao3 yin3
 titleSlug: xiao-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小隱在江干，茆廬亦易安。
-- 庖厨供白小，籬落蔓黄團。
-- 蹭蹬馮唐老，飄零范叔寒。
-- 世情從迫隘，醉眼覺天寛。
+- 門生嘲喜眠，官長罵耽酒。
+- 人生自適爾，嘲罵亦何有。
+- 蒸我乳下豚，翦我雨中韭。
+- 杯盤雖不豐，吾兒起爲壽。
+- 車馬滿長安，誰肯顧衰朽。
+- 作詩付汝藏，千金珍弊帚。
 
 ## 拼音
 
-- xiao3 yin3 zai4 jiang1 gan1 ， mao2 lu2 yi4 yi4 an1 。
-- pao2 chu2 gong4 bai2 xiao3 ， li2 luo4 man4 huang2 tuan2 。
-- ceng4 deng4 feng2 tang2 lao3 ， piao1 ling2 fan4 shu1 han2 。
-- shi4 qing2 cong2 po4 ai4 ， zui4 yan3 jue2 tian1 kuan1 。
+- men2 sheng1 chao2 xi3 mian2 ， guan1 chang2 ma4 dan1 jiu3 。
+- ren2 sheng1 zi4 shi4 er3 ， chao2 ma4 yi4 he2 you3 。
+- zheng1 wo3 ru3 xia4 tun2 ， jian3 wo3 yu3 zhong1 jiu3 。
+- bei1 pan2 sui1 bu4 feng1 ， wu2 er2 qi3 wei2 shou4 。
+- ju1 ma3 man3 chang2 an1 ， shui2 ken3 gu4 shuai1 xiu3 。
+- zuo4 shi1 fu4 ru3 cang2 ， qian1 jin1 zhen1 bi4 zhou3 。
 
 ## 注释
 

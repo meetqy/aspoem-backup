@@ -6,10 +6,10 @@ titleSlug: ju
 author: 許轂
 authorPinyin: xu1 gu3
 authorSlug: xu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

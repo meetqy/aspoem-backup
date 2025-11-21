@@ -9,26 +9,24 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 達人知是幻，縱損心亦如。
-- 諸天不免難，況復此閻浮。
-- 須尋無上理，莫更苦踟躕。
-- 衣食纔方足，不用積盈餘。
-- 少欲有湼槃，知足非凡夫。
-- 當來無地獄，現在出三塗。
+- 菩提般若名相假，湼槃真如亦是虛。
+- 欲得心神真解脫，一切名相本來無。
+- 十方世界風塵淨，州州縣縣絕艱虞。
+- 王道蕩蕩無偏黨，舉國衆生同一如。
+- 不動干戈安萬姓，法王合掌髻中珠。
 
 ## 拼音
 
-- da2 ren2 zhi1 shi4 huan4 ， zong4 sun3 xin1 yi4 ru2 。
-- zhu1 tian1 bu4 mian3 nan2 ， kuang4 fu4 ci3 yan2 fu2 。
-- xu1 xun2 wu2 shang4 li3 ， mo4 geng4 ku3 chi2 chu2 。
-- yi1 shi2 cai2 fang1 zu2 ， bu2 yong4 ji1 ying2 yu2 。
-- shao3 yu4 you3 nie4 pan2 ， zhi1 zu2 fei1 fan2 fu1 。
-- dang1 lai2 wu2 di4 yu4 ， xian4 zai4 chu1 san1 tu2 。
+- pu2 ti2 bo1 re3 ming2 xiang4 jia3 ， nie4 pan2 zhen1 ru2 yi4 shi4 xu1 。
+- yu4 de2 xin1 shen2 zhen1 jie3 tuo1 ， yi2 qie4 ming2 xiang1 ben3 lai2 wu2 。
+- shi2 fang1 shi4 jie4 feng1 chen2 jing4 ， zhou1 zhou1 xian4 xian4 jue2 jian1 yu2 。
+- wang2 dao4 dang4 dang4 wu2 pian1 dang3 ， ju3 guo2 zhong4 sheng1 tong2 yi4 ru2 。
+- bu2 dong4 gan1 ge1 an1 wan4 xing4 ， fa3 wang2 he2 zhang3 ji4 zhong1 zhu1 。
 
 ## 注释
 

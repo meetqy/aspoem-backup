@@ -6,10 +6,10 @@ titleSlug: cheng-nan
 author: 王月窗
 authorPinyin: wang2 yue4 chuang1
 authorSlug: wang-yue-chuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

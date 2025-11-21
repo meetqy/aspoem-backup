@@ -6,25 +6,25 @@ titleSlug: ba-yue-chu-yi-ri
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風幾日尚無詩，政坐炎歊轉赫曦。
-- 閒被貧爲魔攪撓，病須凉當藥醫治。
-- 薄田董穫收新粟，老圃開包獻巨梨。
-- 顧此亦差勝窮宦，迴頭何啻十年遲。
+- 吾生遽如此，六十一衰翁。
+- 功過差相掩，時幾大不同。
+- 冥冥終日雨，忽忽半秋風。
+- 食盡囊無物，今年始是窮。
 
 ## 拼音
 
-- qiu1 feng1 ji1 ri4 shang4 wu2 shi1 ， zheng4 zuo4 yan2 xiao1 zhuan3 he4 xi1 。
-- xian2 bei4 pin2 wei2 mo2 jiao3 nao2 ， bing4 xu1 liang2 dang1 yao4 yi1 zhi4 。
-- bao2 tian2 dong3 huo4 shou1 xin1 su4 ， lao3 pu3 kai1 bao1 xian4 ju4 li2 。
-- gu4 ci3 yi4 cha4 sheng4 qiong2 huan4 ， hui2 tou2 he2 chi4 shi2 nian2 chi2 。
+- wu2 sheng1 ju4 ru2 ci3 ， liu4 shi2 yi1 shuai1 weng1 。
+- gong1 guo4 cha4 xiang1 yan3 ， shi2 ji1 da4 bu4 tong2 。
+- ming2 ming2 zhong1 ri4 yu3 ， hu1 hu1 ban4 qiu1 feng1 。
+- shi2 jin4 nang2 wu2 wu4 ， jin1 nian2 shi3 shi4 qiong2 。
 
 ## 注释
 

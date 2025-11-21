@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 葛天民
 authorPinyin: ge3 tian1 min2
 authorSlug: ge-tian-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜雨漲波高二尺，失却搗衣平正石。
-- 天明水落石依然，老夫一夜空相憶。
+- 二十四友金谷宴，千三百里錦帆遊。
+- 人間無此春風樂，樂極人間無此愁。
 
 ## 拼音
 
-- ye4 yu3 zhang3 bo1 gao1 er4 chi3 ， shi1 que4 dao3 yi1 ping2 zheng4 shi2 。
-- tian1 ming2 shui3 luo4 shi2 yi1 ran2 ， lao3 fu1 yi2 ye4 kong1 xiang4 yi4 。
+- er4 shi2 si4 you3 jin1 gu3 yan4 ， qian1 san1 bai3 li3 jin3 fan1 you2 。
+- ren2 jian4 wu2 ci3 chun1 feng1 le4 ， le4 ji2 ren2 jian4 wu2 ci3 chou2 。
 
 ## 注释
 

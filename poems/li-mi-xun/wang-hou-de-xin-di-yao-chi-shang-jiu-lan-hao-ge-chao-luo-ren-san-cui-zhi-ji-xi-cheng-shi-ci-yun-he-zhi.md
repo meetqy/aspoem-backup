@@ -6,10 +6,10 @@ titleSlug: wang-hou-de-xin-di-yao-chi-shang-jiu-lan-hao-ge-chao-luo-ren-san-cui-
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

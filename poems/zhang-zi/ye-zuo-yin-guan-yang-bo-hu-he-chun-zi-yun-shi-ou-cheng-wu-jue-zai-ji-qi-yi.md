@@ -6,10 +6,10 @@ titleSlug: ye-zuo-yin-guan-yang-bo-hu-he-chun-zi-yun-shi-ou-cheng-wu-jue-zai-ji-
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

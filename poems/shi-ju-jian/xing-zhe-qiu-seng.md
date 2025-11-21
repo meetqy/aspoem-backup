@@ -6,21 +6,21 @@ titleSlug: xing-zhe-qiu-seng
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘗盡叢林苦與甜，九天雨露未曾霑。
-- 相逢作者開青眼，千尺浮圖看合尖。
+- 求僧囊勿一錢看，誦徹蓮花六萬言。
+- 久客長安雖自樂，得魚應合早忘筌。
 
 ## 拼音
 
-- chang2 jin4 cong2 lin2 ku3 yu3 tian2 ， jiu3 tian1 yu3 lu4 wei4 ceng2 zhan1 。
-- xiang1 feng2 zuo4 zhe3 kai1 qing1 yan3 ， qian1 chi3 fu2 tu2 kan4 he2 jian1 。
+- qiu2 seng1 nang2 wu4 yi4 qian2 kan4 ， song4 che4 lian2 hua1 liu4 wan4 yan2 。
+- jiu3 ke4 chang2 an1 sui1 zi4 le4 ， de2 yu2 ying1 he2 zao3 wang4 quan2 。
 
 ## 注释
 

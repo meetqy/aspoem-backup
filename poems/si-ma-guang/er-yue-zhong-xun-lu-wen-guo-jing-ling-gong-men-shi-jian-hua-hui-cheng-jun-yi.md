@@ -6,10 +6,10 @@ titleSlug: er-yue-zhong-xun-lu-wen-guo-jing-ling-gong-men-shi-jian-hua-hui-cheng
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

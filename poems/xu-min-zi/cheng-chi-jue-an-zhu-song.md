@@ -6,10 +6,10 @@ titleSlug: cheng-chi-jue-an-zhu-song
 author: 徐敏子
 authorPinyin: xu2 min3 zi3
 authorSlug: xu-min-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

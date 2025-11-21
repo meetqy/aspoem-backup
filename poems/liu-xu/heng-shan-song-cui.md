@@ -6,10 +6,10 @@ titleSlug: heng-shan-song-cui
 author: 柳敘
 authorPinyin: liu3 xu4
 authorSlug: liu-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

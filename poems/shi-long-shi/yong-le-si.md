@@ -6,10 +6,10 @@ titleSlug: yong-le-si
 author: 釋龍石
 authorPinyin: shi4 long2 shi2
 authorSlug: shi-long-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

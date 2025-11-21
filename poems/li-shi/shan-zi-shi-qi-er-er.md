@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-er
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風輕匝破世界，山僧如如自在。
-- 箇中純白團圓，洞然法香水海。
+- 夜凉紅藕六銖衣，露滴銀床樹影稀。
+- 醉把玉簫風鬢亂，乘鸞初自月歸來。
 
 ## 拼音
 
-- feng1 qing1 za1 po4 shi4 jie4 ， shan1 seng1 ru2 ru2 zi4 zai4 。
-- ge4 zhong1 chun2 bai2 tuan2 yuan2 ， dong4 ran2 fa3 xiang1 shui3 hai3 。
+- ye4 liang2 hong2 ou3 liu4 zhu1 yi1 ， lu4 di1 yin2 chuang2 shu4 ying3 xi1 。
+- zui4 ba3 yu4 xiao1 feng1 bin4 luan4 ， cheng2 luan2 chu1 zi4 yue4 gui1 lai2 。
 
 ## 注释
 

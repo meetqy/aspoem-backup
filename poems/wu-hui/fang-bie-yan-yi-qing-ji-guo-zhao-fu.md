@@ -6,10 +6,10 @@ titleSlug: fang-bie-yan-yi-qing-ji-guo-zhao-fu
 author: 吳會
 authorPinyin: wu2 hui4
 authorSlug: wu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

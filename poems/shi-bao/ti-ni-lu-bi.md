@@ -6,10 +6,10 @@ titleSlug: ti-ni-lu-bi
 author: 釋寶黁
 authorPinyin: shi4 bao3 黁
 authorSlug: shi-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

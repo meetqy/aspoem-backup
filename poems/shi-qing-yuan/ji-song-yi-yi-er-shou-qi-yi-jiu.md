@@ -1,28 +1,26 @@
 ---
 id: shi-qing-yuan-ji-song-yi-yi-er-shou-qi-yi-jiu
-title: 偈頌一一二首  其一九
-titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 yi1 jiu3
+title: 偈頌一一二首  其一○九
+titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 yi1 ○ jiu3
 titleSlug: ji-song-yi-yi-er-shou-qi-yi-jiu
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨日如來垂法雨，今朝法雨洗如來。
-- 了然一味無差別，雲外青山朵朵開。
-- 欲報如來深恩，殿上重新浴過。
+- 玄沙白紙費封題，一聽雷音萬仞低。
+- 慰釋私懷已無量，那堪更唱邏羅哩。
 
 ## 拼音
 
-- zuo2 ri4 ru2 lai2 chui2 fa3 yu3 ， jin1 zhao1 fa3 yu3 xi3 ru2 lai2 。
-- liao3 ran2 yi2 wei4 wu2 cha4 bie2 ， yun2 wai4 qing1 shan1 duo3 duo3 kai1 。
-- yu4 bao4 ru2 lai2 shen1 en1 ， dian4 shang4 chong2 xin1 yu4 guo4 。
+- xuan2 sha1 bai2 zhi3 fei4 feng1 ti2 ， yi4 ting1 lei2 yin1 wan4 ren4 di1 。
+- wei4 shi4 si1 huai2 yi3 wu2 liang2 ， na4 kan1 geng4 chang4 luo2 luo2 li1 。
 
 ## 注释
 

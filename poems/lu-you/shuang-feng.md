@@ -6,25 +6,25 @@ titleSlug: shuang-feng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十月霜風吼屋邊，布裘未辦一銖綿。
-- 豈惟饑索鄰僧米，真是寒無坐客氊。
-- 身老嘯歌悲永夜，家貧撐拄過凶年。
-- 丈夫經此寜非福，破涕燈前一粲然。
+- 霜風近海夜颼颼，敢效庸人念褐裘。
+- 關吏雖通西域貢，王師猶護北平秋。
+- 黄旗馳奏有三捷，金印酬功多列侯。
+- 願補顔行身已老，區區畎畝亦私憂。
 
 ## 拼音
 
-- shi2 yue4 shuang1 feng1 hou3 wu1 bian1 ， bu4 qiu2 wei4 ban4 yi4 zhu1 mian2 。
-- qi3 wei2 ji1 suo3 lin2 seng1 mi3 ， zhen1 shi4 han2 wu2 zuo4 ke4 zhan1 。
-- shen1 lao3 xiao4 ge1 bei1 yong3 ye4 ， jia1 pin2 cheng1 zhu3 guo4 xiong1 nian2 。
-- zhang4 fu0 jing1 ci3 ning2 fei1 fu2 ， po4 ti4 deng1 qian2 yi2 can4 ran2 。
+- shuang1 feng1 jin4 hai3 ye4 sou1 sou1 ， gan3 xiao4 yong1 ren2 nian4 he4 qiu2 。
+- guan1 li4 sui1 tong1 xi1 yu4 gong4 ， wang2 shi1 you2 hu4 bei3 ping2 qiu1 。
+- huang2 qi2 chi2 zou4 you3 san1 jie2 ， jin1 yin4 chou2 gong1 duo1 lie4 hou2 。
+- yuan4 bu3 yan2 xing2 shen1 yi3 lao3 ， qu1 qu1 quan3 mu3 yi4 si1 you1 。
 
 ## 注释
 

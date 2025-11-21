@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 櫻桃樊素口，楊柳小蠻腰。
-- （《雲溪友議》、《本事詩》）。
+- 生爲漢宮妃，死作胡地鬼。
+- （《集注分類東坡詩》卷四《昭君村》注引）。
 
 ## 拼音
 
-- ying1 tao2 fan2 su4 kou3 ， yang2 liu3 xiao3 man2 yao1 。
-- （《 yun2 xi1 you3 yi4 》、《 ben3 shi4 shi1 》）。
+- sheng1 wei2 han4 gong1 fei1 ， si3 zuo4 hu2 di4 gui3 。
+- （《 ji2 zhu4 fen1 lei4 dong1 po1 shi1 》 juan4 si4 《 zhao1 jun1 cun1 》 zhu4 yin3 ）。
 
 ## 注释
 

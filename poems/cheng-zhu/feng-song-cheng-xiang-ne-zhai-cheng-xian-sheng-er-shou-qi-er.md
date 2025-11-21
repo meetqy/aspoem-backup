@@ -6,10 +6,10 @@ titleSlug: feng-song-cheng-xiang-ne-zhai-cheng-xian-sheng-er-shou-qi-er
 author: 程洙
 authorPinyin: cheng2 zhu1
 authorSlug: cheng-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

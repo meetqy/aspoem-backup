@@ -6,9 +6,9 @@ titleSlug: zuo-mu-shi-yu-xiao-ting-zuo-xin-yue-chu-shang-liang-feng-die-zhi-pei-
 author: 袁復一
 authorPinyin: yuan2 fu4 yi1
 authorSlug: yuan-fu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

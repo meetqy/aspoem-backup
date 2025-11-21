@@ -6,10 +6,10 @@ titleSlug: deng-huang-lou
 author: 胡謐
 authorPinyin: hu2 mi4
 authorSlug: hu-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

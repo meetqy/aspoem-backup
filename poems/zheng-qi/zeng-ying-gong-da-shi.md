@@ -6,9 +6,9 @@ titleSlug: zeng-ying-gong-da-shi
 author: 鄭起
 authorPinyin: zheng4 qi3
 authorSlug: zheng-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

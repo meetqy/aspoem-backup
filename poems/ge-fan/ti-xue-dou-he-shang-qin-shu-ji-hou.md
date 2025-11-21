@@ -6,10 +6,10 @@ titleSlug: ti-xue-dou-he-shang-qin-shu-ji-hou
 author: 葛繁
 authorPinyin: ge3 fan2
 authorSlug: ge-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

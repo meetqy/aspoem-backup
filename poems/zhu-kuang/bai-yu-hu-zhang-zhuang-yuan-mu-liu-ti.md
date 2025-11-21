@@ -6,10 +6,10 @@ titleSlug: bai-yu-hu-zhang-zhuang-yuan-mu-liu-ti
 author: 朱曠
 authorPinyin: zhu1 kuang4
 authorSlug: zhu-kuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

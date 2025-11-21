@@ -6,25 +6,25 @@ titleSlug: xi-qing
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春風吹晴簷雨止，蘭芽半吐梅堆委。
-- 階前背蔭苔蘚深，曳杖不妨成細履。
-- 浮生憂喜均何如，誰能役役愁其軀。
-- 時閒意適且自慰，莫問詰朝瓶乏儲。
+- 地雖湖北稻爲鄉，歲比曾微一報穰。
+- 望望雨晴求屢告，欣欣守尉德俱良。
+- 共期負籠爭晴割，敢愛當檠滴夜凉。
+- 更擬年豐酒初賤，鈎藤免飲澀如棠。
 
 ## 拼音
 
-- chun1 feng1 chui1 qing2 yan2 yu3 zhi3 ， lan2 ya2 ban4 tu3 mei2 dui1 wei3 。
-- jie1 qian2 bei4 yin1 tai2 xian3 shen1 ， ye4 zhang4 bu4 fang2 cheng2 xi4 lü3 。
-- fu2 sheng1 you1 xi3 jun1 he2 ru2 ， shui2 neng2 yi4 yi4 chou2 qi2 qu1 。
-- shi2 xian2 yi4 shi4 qie3 zi4 wei4 ， mo4 wen4 jie2 chao2 ping2 fa2 chu3 。
+- di4 sui1 hu2 bei3 dao4 wei2 xiang1 ， sui4 bi3 ceng2 wei1 yi2 bao4 rang2 。
+- wang4 wang4 yu3 qing2 qiu2 lü3 gao4 ， xin1 xin1 shou3 wei4 de2 ju4 liang2 。
+- gong4 qi1 fu4 long2 zheng1 qing2 ge1 ， gan3 ai4 dang1 qing2 di1 ye4 liang2 。
+- geng4 ni3 nian2 feng1 jiu3 chu1 jian4 ， gou1 teng2 mian3 yin3 se4 ru2 tang2 。
 
 ## 注释
 

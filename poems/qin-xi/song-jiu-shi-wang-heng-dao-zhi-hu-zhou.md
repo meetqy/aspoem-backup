@@ -6,10 +6,10 @@ titleSlug: song-jiu-shi-wang-heng-dao-zhi-hu-zhou
 author: 秦熺
 authorPinyin: qin2 xi1
 authorSlug: qin-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

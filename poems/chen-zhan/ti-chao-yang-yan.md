@@ -6,10 +6,10 @@ titleSlug: ti-chao-yang-yan
 author: 陳瞻
 authorPinyin: chen2 zhan1
 authorSlug: chen-zhan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

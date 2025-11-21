@@ -6,10 +6,10 @@ titleSlug: he-zhang-xiao-bo-xue-chuang-shi-yun
 author: 丘崈
 authorPinyin: qiu1 chong2
 authorSlug: qiu-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zan-fa-ru-shan-shi
 author: 釋圓極
 authorPinyin: shi4 yuan2 ji2
 authorSlug: shi-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

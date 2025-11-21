@@ -1,26 +1,26 @@
 ---
 id: wang-gui-gong-ci-qi-yi-yi
-title: 宮詞  其一一
-titlePinyin: gong1 ci2     qi2 yi1 yi1
+title: 宮詞  其一○一
+titlePinyin: gong1 ci2     qi2 yi1 ○ yi1
 titleSlug: gong-ci-qi-yi-yi
 author: 王珪
 authorPinyin: wang2 gui1
 authorSlug: wang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 盆山高疉小蓬莱，檜柏屏風鳳尾開。
-- 綠遶金階春水闊，新分一派御溝来。
+- 小雨霏微潤綠苔，石欄紅杏傍池開。
+- 一枝插向銀瓶裏，捧進君王玉殿來。
 
 ## 拼音
 
-- pen2 shan1 gao1 die2 xiao3 peng2 lai2 ， gui4 bai3 ping2 feng1 feng4 wei3 kai1 。
-- lü4 rao4 jin1 jie1 chun1 shui3 kuo4 ， xin1 fen1 yi2 pai4 yu4 gou1 lai2 。
+- xiao3 yu3 fei1 wei1 run4 lü4 tai2 ， shi2 lan2 hong2 xing4 bang4 chi2 kai1 。
+- yi4 zhi1 cha1 xiang4 yin2 ping2 li3 ， peng3 jin4 jun1 wang2 yu4 dian4 lai2 。
 
 ## 注释
 

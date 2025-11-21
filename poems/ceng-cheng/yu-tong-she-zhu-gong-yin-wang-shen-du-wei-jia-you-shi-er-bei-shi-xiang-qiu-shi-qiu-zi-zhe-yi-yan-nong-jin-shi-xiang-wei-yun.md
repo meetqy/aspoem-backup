@@ -6,10 +6,10 @@ titleSlug: yu-tong-she-zhu-gong-yin-wang-shen-du-wei-jia-you-shi-er-bei-shi-xian
 author: 曾誠
 authorPinyin: ceng2 cheng2
 authorSlug: ceng-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

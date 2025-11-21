@@ -1,30 +1,26 @@
 ---
 id: qiu-kui-guan-wu-qi-er
-title: 觀物・其二
-titlePinyin: guan1 wu4・qi2 er4
+title: 觀物  其二
+titlePinyin: guan1 wu4     qi2 er4
 titleSlug: guan-wu-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 氣聚則明施，氣散則明匿。
-- 孰能知其妙，聚散乃爲客。
-- 法象乃糟糠，真機乃虛寂。
-- 大哉無方體，是謂神與易。
+- 維天於穆不已，維聖之德之純。
+- 人人皆可堯舜，物物各具乾坤。
 
 ## 拼音
 
-- qi4 ju4 ze2 ming2 shi1 ， qi4 san4 ze2 ming2 ni4 。
-- shu2 neng2 zhi1 qi2 miao4 ， ju4 san4 nai3 wei2 ke4 。
-- fa3 xiang4 nai3 zao1 kang1 ， zhen1 ji1 nai3 xu1 ji4 。
-- da4 zai1 wu2 fang1 ti3 ， shi4 wei4 shen2 yu3 yi4 。
+- wei2 tian1 wu1 mu4 bu4 yi3 ， wei2 sheng4 zhi1 de2 zhi1 chun2 。
+- ren2 ren2 jie1 ke3 yao2 shun4 ， wu4 wu4 ge4 ju4 qian2 kun1 。
 
 ## 注释
 

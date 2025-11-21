@@ -6,10 +6,10 @@ titleSlug: shi-dong-mei-zhi-jiu-jian-zhao-ou-yi-shi-dian-zhi-zhai-bu-guo-wang-yi
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

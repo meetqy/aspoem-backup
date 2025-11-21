@@ -6,25 +6,25 @@ titleSlug: chun-ri
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堂堂春日躍出山，郊原草木皆清新。
-- 千紅萬紫各有態，正自酬酢勞精神。
-- 短籬誰家小桃李，雖復幽陋亦可人。
-- 但知痛飲莫辭病，數年幽憂難具陳。
+- 如絲苣甲飣春盤，韭葉金黄雪未乾。
+- 旅飯二年無此味，故園千里幾時還。
+- 異方時節三巵酒，殘歲風烟一慘顔。
+- 曾奉龍旂典邦禮，歲窮祠祀少休閑。
 
 ## 拼音
 
-- tang2 tang2 chun1 ri4 yue4 chu1 shan1 ， jiao1 yuan2 cao3 mu4 jie1 qing1 xin1 。
-- qian1 hong2 wan4 zi3 ge4 you3 tai4 ， zheng4 zi4 chou2 zuo4 lao2 jing1 shen2 。
-- duan3 li2 shui2 jia1 xiao3 tao2 li3 ， sui1 fu4 you1 lou4 yi4 ke3 ren2 。
-- dan4 zhi1 tong4 yin3 mo4 ci2 bing4 ， shu4 nian2 you1 you1 nan2 ju4 chen2 。
+- ru2 si1 ju4 jia3 ding4 chun1 pan2 ， jiu3 ye4 jin1 huang2 xue3 wei4 qian2 。
+- lü3 fan4 er4 nian2 wu2 ci3 wei4 ， gu4 yuan2 qian1 li3 ji1 shi2 huan2 。
+- yi4 fang1 shi2 jie2 san1 zhi1 jiu3 ， can2 sui4 feng1 yan1 yi4 can3 yan2 。
+- ceng2 feng4 long2 qi2 dian3 bang1 li3 ， sui4 qiong2 ci2 si4 shao3 xiu1 xian2 。
 
 ## 注释
 

@@ -6,29 +6,25 @@ titleSlug: gui-tan-er-shou-qi-yi
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 真源閟仙扃，一綫下佛龕。
-- 來從白馬洞，聚作烏龜潭。
-- 觸石細瑟瑟，循除走涵涵。
-- 漱齒類齧雪，湔衣真佩藍。
-- 醉紅灑面醒，衰白照影慚。
-- 延緣遂清景，拄策縱幽探。
+- 擺落攀緣斷，驅除磊磈平。
+- 庭松敵老健，潭水伴孤清。
+- 待月出時看，尋雲起處行。
+- 相隨木上坐，徙倚到參横。
 
 ## 拼音
 
-- zhen1 yuan2 bi4 xian1 jiong1 ， yi2 xian4 xia4 fo2 kan1 。
-- lai2 cong2 bai2 ma3 dong4 ， ju4 zuo4 wu1 gui1 tan2 。
-- chu4 shi2 xi4 se4 se4 ， xun2 chu2 zou3 han2 han2 。
-- shu4 chi3 lei4 nie4 xue3 ， jian1 yi1 zhen1 pei4 lan2 。
-- zui4 hong2 sa3 mian4 xing3 ， shuai1 bai2 zhao4 ying3 can2 。
-- yan2 yuan2 sui4 qing1 jing3 ， zhu3 ce4 zong4 you1 tan4 。
+- bai3 luo4 pan1 yuan2 duan4 ， qu1 chu2 lei3 wei3 ping2 。
+- ting2 song1 di2 lao3 jian4 ， tan2 shui3 ban4 gu1 qing1 。
+- dai4 yue4 chu1 shi2 kan4 ， xun2 yun2 qi3 chu3 xing2 。
+- xiang1 sui2 mu4 shang4 zuo4 ， xi3 yi3 dao4 can1 heng2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wen-du-jian-zai-yun
 author: 易士達
 authorPinyin: yi4 shi4 da2
 authorSlug: yi-shi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

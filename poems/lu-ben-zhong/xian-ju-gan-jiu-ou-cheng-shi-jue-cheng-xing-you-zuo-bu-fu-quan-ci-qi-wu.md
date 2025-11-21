@@ -6,10 +6,10 @@ titleSlug: xian-ju-gan-jiu-ou-cheng-shi-jue-cheng-xing-you-zuo-bu-fu-quan-ci-qi-
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: wang-shi-lang-wan-zhang
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 位列仙官籍，名随海賈船。
-- 前旌衝瘴雨，拱木兆新阡。
-- 玉骨埋黄土，金聲麗藻編。
-- 兩行懷舊淚，灑向菊花天。
+- 當年幕府拜英遊，十載烏絲換白頭。
+- 城郭俱非前日夢，關山如舊一天愁。
+- 詩人已作潭移影，往事休論江自流。
+- 物色佳城閉何許，西山凝望不勝秋。
 
 ## 拼音
 
-- wei4 lie4 xian1 guan1 ji2 ， ming2 sui2 hai3 jia3 chuan2 。
-- qian2 jing1 chong1 zhang4 yu3 ， gong3 mu4 zhao4 xin1 qian1 。
-- yu4 gu3 mai2 huang2 tu3 ， jin1 sheng1 li2 zao3 bian1 。
-- liang3 xing2 huai2 jiu4 lei4 ， sa3 xiang4 ju2 hua1 tian1 。
+- dang1 nian2 mu4 fu3 bai4 ying1 you2 ， shi2 zai4 wu1 si1 huan4 bai2 tou2 。
+- cheng2 guo1 ju4 fei1 qian2 ri4 meng4 ， guan1 shan1 ru2 jiu4 yi4 tian1 chou2 。
+- shi1 ren2 yi3 zuo4 tan2 yi2 ying3 ， wang3 shi4 xiu1 lun4 jiang1 zi4 liu2 。
+- wu4 se4 jia1 cheng2 bi4 he2 xu1 ， xi1 shan1 ning2 wang4 bu2 sheng4 qiu1 。
 
 ## 注释
 

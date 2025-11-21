@@ -6,10 +6,10 @@ titleSlug: jie-xuan-fu-xie-dao-zheng-fang-jiu-long-yan-zhu-xi-shi-lu-cheng-er-sh
 author: 章詢
 authorPinyin: zhang1 xun2
 authorSlug: zhang-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

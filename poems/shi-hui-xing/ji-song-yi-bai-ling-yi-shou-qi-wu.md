@@ -1,26 +1,32 @@
 ---
 id: shi-hui-xing-ji-song-yi-bai-ling-yi-shou-qi-wu
-title: 偈頌一百零一首  其五
-titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 wu3
+title: 偈頌一百零一首  其五○
+titlePinyin: ji4 song4 yi4 bai3 ling2 yi4 shou3     qi2 wu3 ○
 titleSlug: ji-song-yi-bai-ling-yi-shou-qi-wu
 author: 釋慧性
 authorPinyin: shi4 hui4 xing4
 authorSlug: shi-hui-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 要入牯牛隊，還披水牯皮。
-- 全身行異類，拽杷又牽犁。
+- 去聖時遥，人多懈怠。
+- 逆則生嗔，順則生愛。
+- 不嗔不愛，東海剪刀，西番布袋。
+- 解脫門頭緊著關，休誇鋪席無人買。
+- 腦後見腮，和贓捉敗。
 
 ## 拼音
 
-- yao4 ru4 gu3 niu2 dui4 ， huan2 pi1 shui3 gu3 pi2 。
-- quan2 shen1 xing2 yi4 lei4 ， zhuai4 pa2 you4 qian1 li2 。
+- qu4 sheng4 shi2 yao2 ， ren2 duo1 xie4 dai4 。
+- ni4 ze2 sheng1 chen1 ， shun4 ze2 sheng1 ai4 。
+- bu4 chen1 bu2 ai4 ， dong1 hai3 jian3 dao1 ， xi1 fan1 bu4 dai4 。
+- jie3 tuo1 men2 tou2 jin3 zhu4 guan1 ， xiu1 kua1 pu1 xi2 wu2 ren2 mai3 。
+- nao3 hou4 jian4 sai1 ， he2 zang1 zhuo1 bai4 。
 
 ## 注释
 

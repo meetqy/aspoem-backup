@@ -6,10 +6,10 @@ titleSlug: you-jin-jing-ci-yun
 author: 曾原郕
 authorPinyin: ceng2 yuan2 cheng2
 authorSlug: ceng-yuan-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: jiu-ri-yu-shu-ke-deng-shan-fu-yuan-zhi-jue-ding-wan-yin-ming-yin-ge-y
 author: 朱槔
 authorPinyin: zhu1 gao1
 authorSlug: zhu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

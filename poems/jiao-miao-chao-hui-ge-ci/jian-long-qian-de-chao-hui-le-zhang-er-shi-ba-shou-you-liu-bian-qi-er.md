@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-er
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝會儼威儀，司常建九旗。
-- 舞容分綴兆，文物辨威蕤。
-- 運格桃林牧，祥開洛水龜。
-- 帝功潜日用，化俗自登熙。
+- 壺關方逆命，投袂起親征。
+- 虎旅聊攻伐，梟巢遽蕩平。
+- 天威清朔漠，仁澤被黎氓。
+- 按節皇輿復，洋洋載頌聲。
 
 ## 拼音
 
-- chao2 hui4 yan3 wei1 yi2 ， si1 chang2 jian4 jiu3 qi2 。
-- wu3 rong2 fen1 zhui4 zhao4 ， wen2 wu4 bian4 wei1 rui2 。
-- yun4 ge2 tao2 lin2 mu4 ， xiang2 kai1 luo4 shui3 gui1 。
-- di4 gong1 qian2 ri4 yong4 ， hua4 su2 zi4 deng1 xi1 。
+- hu2 guan1 fang1 ni4 ming4 ， tou2 mei4 qi3 qin1 zheng1 。
+- hu3 lü3 liao2 gong1 fa2 ， xiao1 chao2 ju4 dang4 ping2 。
+- tian1 wei1 qing1 shuo4 mo4 ， ren2 ze2 bei4 li2 mang2 。
+- an4 jie2 huang2 yu2 fu4 ， yang2 yang2 zai4 song4 sheng1 。
 
 ## 注释
 

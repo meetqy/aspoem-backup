@@ -9,16 +9,16 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 不知何處在？惆悵望東西。
+- 樹蔭逢歇馬，魚潭見洗船。
 
 ## 拼音
 
-- bu4 zhi1 he2 chu3 zai4 ？ chou2 chang4 wang4 dong1 xi1 。
+- shu4 yin1 feng2 xie1 ma3 ， yu2 tan2 jian4 xi3 chuan2 。
 
 ## 注释
 

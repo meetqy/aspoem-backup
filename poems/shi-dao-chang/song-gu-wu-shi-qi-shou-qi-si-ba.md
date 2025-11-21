@@ -6,10 +6,10 @@ titleSlug: song-gu-wu-shi-qi-shou-qi-si-ba
 author: 釋道昌
 authorPinyin: shi4 dao4 chang1
 authorSlug: shi-dao-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

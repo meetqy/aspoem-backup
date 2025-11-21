@@ -9,16 +9,16 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鞭打馬，馬急走。
+- 三羊五馬，馬子離羣，羊子無舍。
 
 ## 拼音
 
-- bian1 da3 ma3 ， ma3 ji2 zou3 。
+- san1 yang2 wu3 ma3 ， ma3 zi3 li2 qun2 ， yang2 zi3 wu2 she4 。
 
 ## 注释
 

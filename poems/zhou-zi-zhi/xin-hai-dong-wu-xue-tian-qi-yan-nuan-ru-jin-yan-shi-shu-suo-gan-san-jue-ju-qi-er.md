@@ -6,10 +6,10 @@ titleSlug: xin-hai-dong-wu-xue-tian-qi-yan-nuan-ru-jin-yan-shi-shu-suo-gan-san-j
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

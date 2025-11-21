@@ -6,25 +6,21 @@ titleSlug: you-gan
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲回雨歇天欲晴，鵓鳩唤婦皆和聲。
-- 山南山北樹陰裏，懽然相趁争飛鳴。
-- 伊予流竄止平樂，妻孥尚寄瀟湘城。
-- 五嶺横空唤不聞，不如鵓鳩猶有情。
+- 真訣由來甚易明，惟人用志不精誠。
+- 從今謹事先生語，何患無階朝玊清。
 
 ## 拼音
 
-- yun2 hui2 yu3 xie1 tian1 yu4 qing2 ， bo2 jiu1 huan4 fu4 jie1 he2 sheng1 。
-- shan1 nan2 shan1 bei3 shu4 yin1 li3 ， huan1 ran2 xiang1 chen4 zheng1 fei1 ming2 。
-- yi1 yu3 liu2 cuan4 zhi3 ping2 le4 ， qi1 nu2 shang4 ji4 xiao1 xiang1 cheng2 。
-- wu3 ling3 heng2 kong1 huan4 bu4 wen2 ， bu4 ru2 bo2 jiu1 you2 you3 qing2 。
+- zhen1 jue2 you2 lai2 shen4 yi4 ming2 ， wei2 ren2 yong4 zhi4 bu4 jing1 cheng2 。
+- cong2 jin1 jin3 shi4 xian1 sheng0 yu3 ， he2 huan4 wu2 jie1 chao2 su4 qing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yu-xi-zuo-shui-mo-si-zhi-zhang-qing-fu-you-shi-yin-yong-qi-yun
 author: 胡銓
 authorPinyin: hu2 quan2
 authorSlug: hu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

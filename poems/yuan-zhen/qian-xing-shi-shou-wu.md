@@ -1,7 +1,7 @@
 ---
 id: yuan-zhen-qian-xing-shi-shou-wu
-title: 遣興十首 五
-titlePinyin: qian3 xing1 shi2 shou3   wu3
+title: 遣行十首 五
+titlePinyin: qian3 xing2 shi2 shou3   wu3
 titleSlug: qian-xing-shi-shou-wu
 author: 元稹
 authorPinyin: yuan2 zhen3
@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 晚荷猶展卷，早蟬遽蕭嘹。
-- 露葉行已重，況乃江風搖。
-- 炎夏火再伏，清商暗回飆。
-- 寄言抱志士，日月東西跳。
+- 塞上風雨思，城中兄弟情。
+- 北隨鵷立位，南送鴈來聲。
+- 遇適尤兼恨，聞書喜復驚。
+- 唯應遙料得，知我伴君行。
 
 ## 拼音
 
-- wan3 he2 you2 zhan3 juan4 ， zao3 chan2 ju4 xiao1 liao2 。
-- lu4 ye4 xing2 yi3 zhong4 ， kuang4 nai3 jiang1 feng1 yao2 。
-- yan2 xia4 huo3 zai4 fu2 ， qing1 shang1 an4 hui2 biao1 。
-- ji4 yan2 bao4 zhi4 shi4 ， ri4 yue4 dong1 xi1 tiao4 。
+- sai4 shang4 feng1 yu3 si1 ， cheng2 zhong1 xiong1 di4 qing2 。
+- bei3 sui2 yuan1 li4 wei4 ， nan2 song4 yan4 lai2 sheng1 。
+- yu4 shi4 you2 jian1 hen4 ， wen2 shu1 xi3 fu4 jing1 。
+- wei2 ying1 yao2 liao4 de2 ， zhi1 wo3 ban4 jun1 xing2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: he-da-sun-tui-guan-jiu-bing-xin-qi-jian-guo-qian-tang-zhi-shen-er-sho
 author: 蔡襄
 authorPinyin: cai4 xiang1
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

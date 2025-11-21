@@ -1,26 +1,26 @@
 ---
 id: zhang-zi-song-ke-zhi-wu-xiang-lan-ruo-gui-guo-ci-yun-ling-xiao-qi-chong-shou-si-shu-suo-jian-shi-shou-qi-yi
-title: 送客至無相蘭若歸過慈雲嶺小憩崇壽寺書所見十首  其一
-titlePinyin: song4 ke4 zhi4 wu2 xiang1 lan2 ruo4 gui1 guo4 ci2 yun2 ling3 xiao3 qi4 chong2 shou4 si4 shu1 suo3 jian4 shi2 shou3     qi2 yi1
+title: 送客至無相蘭若歸過慈雲嶺小憩崇壽寺書所見十首  其一○
+titlePinyin: song4 ke4 zhi4 wu2 xiang1 lan2 ruo4 gui1 guo4 ci2 yun2 ling3 xiao3 qi4 chong2 shou4 si4 shu1 suo3 jian4 shi2 shou3     qi2 yi1 ○
 titleSlug: song-ke-zhi-wu-xiang-lan-ruo-gui-guo-ci-yun-ling-xiao-qi-chong-shou-si-shu-suo-jian-shi-shou-qi-yi
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 故殿簷陰石匯泉，針魚苔凈樂回旋。
-- 持盃挹取雖無暇，照影心腸更洒然。
+- 欲歸停馭重徘徊，破費林間雪一杯。
+- 留取半山看未了，火雲時節約重來。
 
 ## 拼音
 
-- gu4 dian4 yan2 yin1 shi2 hui4 quan2 ， zhen1 yu2 tai2 jing4 le4 hui2 xuan2 。
-- chi2 bei1 yi4 qu3 sui1 wu2 xia2 ， zhao4 ying3 xin1 chang2 geng4 sa3 ran2 。
+- yu4 gui1 ting2 yu4 zhong4 pai2 huai2 ， po4 fei4 lin2 jian4 xue3 yi4 bei1 。
+- liu2 qu3 ban4 shan1 kan4 wei4 liao3 ， huo3 yun2 shi2 jie2 yue1 zhong4 lai2 。
 
 ## 注释
 

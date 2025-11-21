@@ -6,10 +6,10 @@ titleSlug: ju-qi-liu
 author: 俞君錫
 authorPinyin: yu2 jun1 xi1
 authorSlug: yu-jun-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

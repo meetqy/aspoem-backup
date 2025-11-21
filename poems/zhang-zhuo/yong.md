@@ -9,18 +9,18 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 眼似星初轉，眉如月欲渭。
-- 先須捺後脚，然後勒前腰。
+- 勒腰須巧快，捺脚更風流。
+- 但令細眼合，人自分輪籌。
 
 ## 拼音
 
-- yan3 si4 xing1 chu1 zhuan3 ， mei2 ru2 yue4 yu4 wei4 。
-- xian1 xu1 na4 hou4 jiao3 ， ran2 hou4 le4 qian2 yao1 。
+- le4 yao1 xu1 qiao3 kuai4 ， na4 jiao3 geng4 feng1 liu2 。
+- dan4 ling4 xi4 yan3 he2 ， ren2 zi4 fen1 lun2 chou2 。
 
 ## 注释
 

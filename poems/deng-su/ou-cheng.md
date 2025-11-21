@@ -6,29 +6,37 @@ titleSlug: ou-cheng
 author: 鄧肅
 authorPinyin: deng4 su4
 authorSlug: deng-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 乘風上天款天語，天公不怒雷公怒。
-- 烟霄一斥下人間，豺狼旁午歸無路。
-- 欲度三吳血盈川，欲泛九江兵闇天。
-- 扶筇却出徽城去，去天一握五危巔。
-- 水陸辛勤已足矣，雪花更開九萬里。
-- 英雄困餓古猶今，莫學兒曹生慍喜。
+- 我涉江東路，平地雪盈尺。
+- 明日登芙蓉，晴天開曉日。
+- 朅自婺源來，陰雨連朝夕。
+- 瘦馬逼雲際，又斷檐間滴。
+- 顧我亦何人，市朝欲掃迹。
+- 平生詩酒交，落井仍下石。
+- 那知涉畏途，乃煩造化力。
+- 要知萬里行，人謫非天謫。
+- 衡雲霽韓愈，海市呈蘇軾。
+- 君知此理不，鬼物護狂直。
 
 ## 拼音
 
-- cheng2 feng1 shang4 tian1 kuan3 tian1 yu3 ， tian1 gong1 bu2 nu4 lei2 gong1 nu4 。
-- yan1 xiao1 yi2 chi4 xia4 ren2 jian4 ， chai2 lang2 pang2 wu3 gui1 wu2 lu4 。
-- yu4 du4 san1 wu2 xue4 ying2 chuan1 ， yu4 fan4 jiu3 jiang1 bing1 an4 tian1 。
-- fu2 qiong2 que4 chu1 hui1 cheng2 qu4 ， qu4 tian1 yi2 wo4 wu3 wei1 dian1 。
-- shui3 lu4 xin1 qin2 yi3 zu2 yi3 ， xue3 hua1 geng4 kai1 jiu3 wan4 li3 。
-- ying1 xiong2 kun4 e4 gu3 you2 jin1 ， mo4 xue2 er2 cao2 sheng1 yun4 xi3 。
+- wo3 she4 jiang1 dong1 lu4 ， ping2 di4 xue3 ying2 chi3 。
+- ming2 ri4 deng1 fu2 rong2 ， qing2 tian1 kai1 xiao3 ri4 。
+- qie4 zi4 wu4 yuan2 lai2 ， yin1 yu3 lian2 zhao1 xi1 。
+- shou4 ma3 bi1 yun2 ji4 ， you4 duan4 yan2 jian4 di1 。
+- gu4 wo3 yi4 he2 ren2 ， shi4 chao2 yu4 sao3 ji4 。
+- ping2 sheng1 shi1 jiu3 jiao1 ， luo4 jing3 reng2 xia4 shi2 。
+- na4 zhi1 she4 wei4 tu2 ， nai3 fan2 zao4 hua4 li4 。
+- yao4 zhi1 wan4 li3 xing2 ， ren2 zhe2 fei1 tian1 zhe2 。
+- heng2 yun2 ji4 han2 yu4 ， hai3 shi4 cheng2 su1 shi4 。
+- jun1 zhi1 ci3 li3 bu4 ， gui3 wu4 hu4 kuang2 zhi2 。
 
 ## 注释
 

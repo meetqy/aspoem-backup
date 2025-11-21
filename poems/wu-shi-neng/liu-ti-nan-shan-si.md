@@ -6,10 +6,10 @@ titleSlug: liu-ti-nan-shan-si
 author: 吳師能
 authorPinyin: wu2 shi1 neng2
 authorSlug: wu-shi-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

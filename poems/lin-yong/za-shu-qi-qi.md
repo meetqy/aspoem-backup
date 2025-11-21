@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-qi
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祝柱客曾興刺，斲窗史亦留名。
-- 我見諸相非相，天何不鳴善鳴。
+- 一念重來如祖忍，三生盡見有圖澄。
+- 虎雖化女心常在，鷹已爲鳩眼可憎。
 
 ## 拼音
 
-- zhu4 zhu4 ke4 ceng2 xing1 ci4 ， zhuo2 chuang1 shi3 yi4 liu2 ming2 。
-- wo3 jian4 zhu1 xiang1 fei1 xiang1 ， tian1 he2 bu4 ming2 shan4 ming2 。
+- yi2 nian4 zhong4 lai2 ru2 zu3 ren3 ， san1 sheng1 jin4 jian4 you3 tu2 cheng2 。
+- hu3 sui1 hua4 nü3 xin1 chang2 zai4 ， ying1 yi3 wei2 jiu1 yan3 ke3 zeng1 。
 
 ## 注释
 

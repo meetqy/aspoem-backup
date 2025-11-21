@@ -6,10 +6,10 @@ titleSlug: jiu-yue-er-shi-si-ri
 author: 余芑舒
 authorPinyin: yu2 qi3 shu1
 authorSlug: yu-qi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

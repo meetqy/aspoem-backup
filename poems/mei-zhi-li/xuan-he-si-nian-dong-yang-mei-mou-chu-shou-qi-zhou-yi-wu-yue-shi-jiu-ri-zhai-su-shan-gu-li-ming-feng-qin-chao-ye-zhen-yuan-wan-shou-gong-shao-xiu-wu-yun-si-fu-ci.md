@@ -6,10 +6,10 @@ titleSlug: xuan-he-si-nian-dong-yang-mei-mou-chu-shou-qi-zhou-yi-wu-yue-shi-jiu-
 author: 梅執禮
 authorPinyin: mei2 zhi2 li3
 authorSlug: mei-zhi-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

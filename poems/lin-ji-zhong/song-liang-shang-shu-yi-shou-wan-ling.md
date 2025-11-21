@@ -6,9 +6,9 @@ titleSlug: song-liang-shang-shu-yi-shou-wan-ling
 author: 林季仲
 authorPinyin: lin2 ji4 zhong4
 authorSlug: lin-ji-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

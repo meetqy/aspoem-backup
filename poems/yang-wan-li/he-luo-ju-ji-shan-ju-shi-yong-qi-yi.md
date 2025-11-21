@@ -1,30 +1,30 @@
 ---
 id: yang-wan-li-he-luo-ju-ji-shan-ju-shi-yong-qi-yi
-title: 和羅巨濟山居十詠  其一
-titlePinyin: he2 luo2 ju4 ji4 shan1 ju1 shi2 yong3     qi2 yi1
+title: 和羅巨濟山居十詠  其一○
+titlePinyin: he2 luo2 ju4 ji4 shan1 ju1 shi2 yong3     qi2 yi1 ○
 titleSlug: he-luo-ju-ji-shan-ju-shi-yong-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世方爭速化，渠獨請真祠。
-- 意在昇沉外，官無冷熱宜。
-- 山如輞川畫，地似習家池。
-- 若道閑居嬾，如何有十詩。
+- 眼底無羣子，毫端有百川。
+- 脩名如揭月，餘事亦凌煙。
+- 剩欲携藤去，相從聽雨眠。
+- 恐渠即霄漢，泉石罷潺湲。
 
 ## 拼音
 
-- shi4 fang1 zheng1 su4 hua4 ， qu2 du2 qing3 zhen1 ci2 。
-- yi4 zai4 sheng1 chen2 wai4 ， guan1 wu2 leng3 re4 yi2 。
-- shan1 ru2 wang3 chuan1 hua4 ， di4 si4 xi2 jia1 chi2 。
-- ruo4 dao4 xian2 ju1 lan3 ， ru2 he2 you3 shi2 shi1 。
+- yan3 di3 wu2 qun2 zi3 ， hao2 duan1 you3 bai3 chuan1 。
+- xiu1 ming2 ru2 jie1 yue4 ， yu2 shi4 yi4 ling2 yan1 。
+- sheng4 yu4 xie2 teng2 qu4 ， xiang1 cong2 ting1 yu3 mian2 。
+- kong3 qu2 ji2 xiao1 han4 ， quan2 shi2 ba4 chan2 yuan2 。
 
 ## 注释
 

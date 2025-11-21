@@ -1,26 +1,30 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-san
-title: 偈頌一百六十九首  其三
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 san1
+title: 偈頌一百六十九首  其三○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 san1 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-san
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北鬰單越，西瞿耶尼。
-- 有利無利，不離行市。
+- 暮春初，修禊事。
+- 少長咸集，群賢畢至。
+- 數樹松花，一溪流水。
+- 知慚愧底足以暢敘幽情，無摸索底正好頓張意氣。
 
 ## 拼音
 
-- bei3 yu4 dan1 yue4 ， xi1 qu2 ye1 ni2 。
-- you3 li4 wu2 li4 ， bu4 li2 hang2 shi4 。
+- mu4 chun1 chu1 ， xiu1 xi4 shi4 。
+- shao3 chang2 xian2 ji2 ， qun2 xian2 bi4 zhi4 。
+- shu4 shu4 song1 hua1 ， yi4 xi1 liu2 shui3 。
+- zhi1 can2 kui4 di3 zu2 yi3 chang4 xu4 you1 qing2 ， wu2 mo1 suo3 di3 zheng4 hao3 dun4 zhang1 yi4 qi4 。
 
 ## 注释
 

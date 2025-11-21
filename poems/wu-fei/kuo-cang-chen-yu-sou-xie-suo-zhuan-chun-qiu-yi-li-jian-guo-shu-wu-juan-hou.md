@@ -6,10 +6,10 @@ titleSlug: kuo-cang-chen-yu-sou-xie-suo-zhuan-chun-qiu-yi-li-jian-guo-shu-wu-jua
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

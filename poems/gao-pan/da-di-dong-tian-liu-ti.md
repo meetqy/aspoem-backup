@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 高攀
 authorPinyin: gao1 pan1
 authorSlug: gao-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

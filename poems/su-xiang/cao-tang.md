@@ -6,10 +6,10 @@ titleSlug: cao-tang
 author: 蘇庠
 authorPinyin: su1 xiang2
 authorSlug: su-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ding-lin-si-yan-xi-cai-shi-pu
 author: 盧襄
 authorPinyin: lu2 xiang1
 authorSlug: lu-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

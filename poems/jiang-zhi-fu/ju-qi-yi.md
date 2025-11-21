@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 蔣志父
 authorPinyin: jiang3 zhi4 fu4
 authorSlug: jiang-zhi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

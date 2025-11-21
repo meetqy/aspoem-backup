@@ -6,9 +6,9 @@ titleSlug: you-dan-shan-yan
 author: 彭從虎
 authorPinyin: peng2 cong2 hu3
 authorSlug: peng-cong-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

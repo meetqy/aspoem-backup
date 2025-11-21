@@ -6,10 +6,10 @@ titleSlug: yu-huai-hui-ji-wu-dao-zi-yu-yin-shi
 author: 鮑當
 authorPinyin: bao4 dang1
 authorSlug: bao-dang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

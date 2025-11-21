@@ -9,22 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一盞新羅酒，凌晨恐易消。
-- 歸應衝鼓半，去不待笙調。
-- 歌好惟愁和，香濃豈惜飄。
-- 春場鋪艾帳，下馬雉媒嬌。
+- 外戚封侯自有恩，平明通籍九華門。
+- 金唐公主年應小，二十君王未許婚。
 
 ## 拼音
 
-- yi4 zhan3 xin1 luo2 jiu3 ， ling2 chen2 kong3 yi4 xiao1 。
-- gui1 ying1 chong1 gu3 ban4 ， qu4 bu2 dai4 sheng1 diao4 。
-- ge1 hao3 wei2 chou2 he2 ， xiang1 nong2 qi3 xi1 piao1 。
-- chun1 chang3 pu1 ai4 zhang4 ， xia4 ma3 zhi4 mei2 jiao1 。
+- wai4 qi1 feng1 hou2 zi4 you3 en1 ， ping2 ming2 tong1 ji2 jiu3 hua2 men2 。
+- jin1 tang2 gong1 zhu3 nian2 ying1 xiao3 ， er4 shi2 jun1 wang2 wei4 xu1 hun1 。
 
 ## 注释
 

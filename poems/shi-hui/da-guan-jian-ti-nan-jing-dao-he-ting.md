@@ -6,10 +6,10 @@ titleSlug: da-guan-jian-ti-nan-jing-dao-he-ting
 author: 史徽
 authorPinyin: shi3 hui1
 authorSlug: shi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

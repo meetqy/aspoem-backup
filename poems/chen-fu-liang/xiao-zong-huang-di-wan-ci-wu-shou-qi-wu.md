@@ -6,25 +6,25 @@ titleSlug: xiao-zong-huang-di-wan-ci-wu-shou-qi-wu
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 群才何輻輳，聖度似天寬。
-- 清蹕留儒館，黄金散將壇。
-- 風雲一語合，日月萬人看。
-- 攀附今無路，哀摧壯士肝。
+- 不作脩齡夢，天乎詎可諶。
+- 白雲新厭世，黄屋舊非心。
+- 德業成千古，閭閻寢八音。
+- 烏號在何許，霜重越山岑。
 
 ## 拼音
 
-- qun2 cai2 he2 fu2 cou4 ， sheng4 du4 si4 tian1 kuan1 。
-- qing1 bi4 liu2 ru2 guan3 ， huang2 jin1 san4 jiang1 tan2 。
-- feng1 yun2 yi4 yu3 he2 ， ri4 yue4 wan4 ren2 kan4 。
-- pan1 fu4 jin1 wu2 lu4 ， ai1 cui1 zhuang4 shi4 gan1 。
+- bu2 zuo4 xiu1 ling2 meng4 ， tian1 hu1 ju4 ke3 chen2 。
+- bai2 yun2 xin1 yan4 shi4 ， huang2 wu1 jiu4 fei1 xin1 。
+- de2 ye4 cheng2 qian1 gu3 ， lü2 yan2 qin3 ba1 yin1 。
+- wu1 hao4 zai4 he2 xu1 ， shuang1 zhong4 yue4 shan1 cen2 。
 
 ## 注释
 

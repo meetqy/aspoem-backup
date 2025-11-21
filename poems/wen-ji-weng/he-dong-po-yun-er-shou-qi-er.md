@@ -6,10 +6,10 @@ titleSlug: he-dong-po-yun-er-shou-qi-er
 author: 文及翁
 authorPinyin: wen2 ji2 weng1
 authorSlug: wen-ji-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

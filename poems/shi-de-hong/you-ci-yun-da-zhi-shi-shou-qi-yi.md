@@ -1,26 +1,26 @@
 ---
 id: shi-de-hong-you-ci-yun-da-zhi-shi-shou-qi-yi
-title: 又次韻答之十首  其一
-titlePinyin: you4 ci4 yun4 da2 zhi1 shi2 shou3     qi2 yi1
+title: 又次韻答之十首  其一○
+titlePinyin: you4 ci4 yun4 da2 zhi1 shi2 shou3     qi2 yi1 ○
 titleSlug: you-ci-yun-da-zhi-shi-shou-qi-yi
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金篦抉膜去重重，露出當時晦昧空。
-- 撥轉上頭關棙子，莫教更墮有無中。
+- 一笑相看萬事休，公無榮辱我無憂。
+- 挂名入社非難事，圓寂光中不厭游。
 
 ## 拼音
 
-- jin1 bi4 jue2 mo2 qu4 chong2 chong2 ， lu4 chu1 dang1 shi2 hui4 mei4 kong1 。
-- bo1 zhuan3 shang4 tou2 guan1 li4 zi3 ， mo4 jiao4 geng4 duo4 you3 wu2 zhong1 。
+- yi2 xiao4 xiang1 kan4 wan4 shi4 xiu1 ， gong1 wu2 rong2 ru3 wo3 wu2 you1 。
+- gua4 ming2 ru4 she4 fei1 nan2 shi4 ， yuan2 ji4 guang1 zhong1 bu2 yan4 you2 。
 
 ## 注释
 

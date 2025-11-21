@@ -6,10 +6,10 @@ titleSlug: shao-zhou-zhi-man-zhi-qing-yuan-dao-zhong-wen-zi-xiang-zhi-pan-ju-den
 author: 張牧
 authorPinyin: zhang1 mu4
 authorSlug: zhang-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

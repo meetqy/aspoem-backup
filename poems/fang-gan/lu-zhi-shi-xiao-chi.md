@@ -9,22 +9,22 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 兒童戲穿鑿，咫尺見津涯。
-- 蘚岸和纖草，松泉濺淺沙。
-- 光含半牀月，影入一枝花。
-- 到此無醒日，當時有習家。
+- 廣狹偶然非製定，猶將方寸像滄溟。
+- 一泓春水無多浪，數尺晴天幾箇星。
+- 露滿玉盤當半夜，匣開金鏡在中庭。
+- 主人垂釣常來此，雖把魚竿醉未醒。
 
 ## 拼音
 
-- er2 tong2 xi4 chuan1 zao2 ， zhi3 chi3 jian4 jin1 ya2 。
-- xian3 an4 he2 xian1 cao3 ， song1 quan2 jian4 qian3 sha1 。
-- guang1 han2 ban4 chuang2 yue4 ， ying3 ru4 yi4 zhi1 hua1 。
-- dao4 ci3 wu2 xing3 ri4 ， dang1 shi2 you3 xi2 jia1 。
+- guang3 xia2 ou3 ran2 fei1 zhi4 ding4 ， you2 jiang1 fang1 cun4 xiang4 cang1 ming2 。
+- yi4 hong2 chun1 shui3 wu2 duo1 lang4 ， shu4 chi3 qing2 tian1 ji1 ge4 xing1 。
+- lu4 man3 yu4 pan2 dang1 ban4 ye4 ， xia2 kai1 jin1 jing4 zai4 zhong1 ting2 。
+- zhu3 ren2 chui2 diao4 chang2 lai2 ci3 ， sui1 ba3 yu2 gan1 zui4 wei4 xing3 。
 
 ## 注释
 

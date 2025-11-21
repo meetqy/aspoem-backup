@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-bing-zhou-qian-dai-fu-xi-ci-feng-zhou-dao-zhong-jian-ji
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

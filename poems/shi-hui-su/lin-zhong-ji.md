@@ -6,10 +6,10 @@ titleSlug: lin-zhong-ji
 author: 釋慧素
 authorPinyin: shi4 hui4 su4
 authorSlug: shi-hui-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

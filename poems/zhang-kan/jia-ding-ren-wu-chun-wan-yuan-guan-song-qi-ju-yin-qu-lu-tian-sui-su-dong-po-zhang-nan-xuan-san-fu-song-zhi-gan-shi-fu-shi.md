@@ -6,10 +6,10 @@ titleSlug: jia-ding-ren-wu-chun-wan-yuan-guan-song-qi-ju-yin-qu-lu-tian-sui-su-d
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

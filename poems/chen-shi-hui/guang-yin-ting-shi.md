@@ -6,10 +6,10 @@ titleSlug: guang-yin-ting-shi
 author: 陳士徽
 authorPinyin: chen2 shi4 hui1
 authorSlug: chen-shi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yun-gai-lang-zhong-lu-guo-lang-zhong-xiu-guan-er-shou-qi-er
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

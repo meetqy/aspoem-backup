@@ -6,35 +6,45 @@ titleSlug: cheng-dong-zuo
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 九江雖僑寓，城東乃松楸。
-- 泉府固勞冗，十日得一休。
-- 朝出暮可還，駕言循故丘。
-- 雨洗川原浄，鳥啼岩谷幽。
-- 白楊吟悲風，澗水咽長流。
-- 江西走濁浪，中有蛟鼉游。
-- 可望不可涉，裴徊倚山陬。
-- 眈眈林間鴝，歲老爪如鈎。
-- 飛下啄餘祭，肉食惟自謀。
+- 九江非吾土，久寓忘羈棲。
+- 丘墳之所宅，舍此亦安歸。
+- 錢官最閒暇，因得治其私。
+- 松楸鬰在望，時復至郊圻。
+- 駕言上東原，藹藹晨露晞。
+- 草木新過雨，秀色可療饑。
+- 念此道旁民，散居在山蹊。
+- 新秋百物熟，入城各有携。
+- 芋迸紫卵壯，薑抽紅笋肥。
+- 欓香憶烹鯉，稻白想流匙。
+- 養生無不有，美味仍及時。
+- 此土遂可老，行當結茅茨。
+- 雲水有深約，塵埃無盡期。
+- 人生適意耳，富貴亦何爲。
 
 ## 拼音
 
-- jiu3 jiang1 sui1 qiao2 yu4 ， cheng2 dong1 nai3 song1 qiu1 。
-- quan2 fu3 gu4 lao2 rong3 ， shi2 ri4 de2 yi4 xiu1 。
-- chao2 chu1 mu4 ke3 huan2 ， jia4 yan2 xun2 gu4 qiu1 。
-- yu3 xi3 chuan1 yuan2 jing4 ， niao3 ti2 yan2 gu3 you1 。
-- bai2 yang2 yin2 bei1 feng1 ， jian4 shui3 yan4 chang2 liu2 。
-- jiang1 xi1 zou3 zhuo2 lang4 ， zhong1 you3 jiao1 tuo2 you2 。
-- ke3 wang4 bu4 ke3 she4 ， pei2 huai2 yi3 shan1 zou1 。
-- dan1 dan1 lin2 jian4 qu2 ， sui4 lao3 zhua3 ru2 gou1 。
-- fei1 xia4 zhuo2 yu2 ji4 ， rou4 shi2 wei2 zi4 mou2 。
+- jiu3 jiang1 fei1 wu2 tu3 ， jiu3 yu4 wang4 ji1 qi1 。
+- qiu1 fen2 zhi1 suo3 zhai2 ， she3 ci3 yi4 an1 gui1 。
+- qian2 guan1 zui4 xian2 xia2 ， yin1 de2 zhi4 qi2 si1 。
+- song1 qiu1 yu4 zai4 wang4 ， shi2 fu4 zhi4 jiao1 qi2 。
+- jia4 yan2 shang4 dong1 yuan2 ， ai3 ai3 chen2 lu4 xi1 。
+- cao3 mu4 xin1 guo4 yu3 ， xiu4 se4 ke3 liao2 ji1 。
+- nian4 ci3 dao4 pang2 min2 ， san3 ju1 zai4 shan1 qi1 。
+- xin1 qiu1 bai3 wu4 shu2 ， ru4 cheng2 ge4 you3 xie2 。
+- yu4 beng4 zi3 luan3 zhuang4 ， jiang1 chou1 hong2 sun3 fei2 。
+- dang3 xiang1 yi4 peng1 li3 ， dao4 bai2 xiang3 liu2 chi2 。
+- yang3 sheng1 wu2 bu4 you3 ， mei3 wei4 reng2 ji2 shi2 。
+- ci3 tu3 sui4 ke3 lao3 ， xing2 dang1 jie2 mao2 ci2 。
+- yun2 shui3 you3 shen1 yue1 ， chen2 ai1 wu2 jin4 qi1 。
+- ren2 sheng1 shi4 yi4 er3 ， fu4 gui4 yi4 he2 wei2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zeng-zheng-jia-tian
 author: 阮委心
 authorPinyin: ruan3 wei3 xin1
 authorSlug: ruan-wei-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

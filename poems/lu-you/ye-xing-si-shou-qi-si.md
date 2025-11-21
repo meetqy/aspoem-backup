@@ -6,25 +6,25 @@ titleSlug: ye-xing-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水作縠紋微起伏，天如卵色半陰晴。
-- 偶来竹下搘頤坐，却向藤陰曳杖行。
-- 西埭人喧荻船過，東村燈上緯車鳴。
-- 幽居應接真無暇，莫訝經年懶入城。
+- 去去歷山村，行行並廟垣。
+- 湍流鱠魚小，仄徑鮓花繁。
+- 白鷺飛如導，青蘿險可捫。
+- 歸途不寂寞，迎笑有諸孫。
 
 ## 拼音
 
-- shui3 zuo4 hu2 wen2 wei1 qi3 fu2 ， tian1 ru2 luan3 se4 ban4 yin1 qing2 。
-- ou3 lai2 zhu2 xia4 zhi1 yi2 zuo4 ， que4 xiang4 teng2 yin1 ye4 zhang4 xing2 。
-- xi1 dai4 ren2 xuan1 di2 chuan2 guo4 ， dong1 cun1 deng1 shang4 wei3 ju1 ming2 。
-- you1 ju1 ying1 jie1 zhen1 wu2 xia2 ， mo4 ya4 jing1 nian2 lan3 ru4 cheng2 。
+- qu4 qu4 li4 shan1 cun1 ， hang2 hang2 bing4 miao4 yuan2 。
+- tuan1 liu2 kuai4 yu2 xiao3 ， ze4 jing4 zha3 hua1 fan2 。
+- bai2 lu4 fei1 ru2 dao3 ， qing1 luo2 xian3 ke3 men2 。
+- gui1 tu2 bu2 ji4 mo4 ， ying2 xiao4 you3 zhu1 sun1 。
 
 ## 注释
 

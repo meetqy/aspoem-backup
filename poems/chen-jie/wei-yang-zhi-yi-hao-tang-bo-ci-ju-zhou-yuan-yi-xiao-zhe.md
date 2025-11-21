@@ -6,10 +6,10 @@ titleSlug: wei-yang-zhi-yi-hao-tang-bo-ci-ju-zhou-yuan-yi-xiao-zhe
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

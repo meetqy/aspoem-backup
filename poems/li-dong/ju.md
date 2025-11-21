@@ -9,16 +9,18 @@ authorSlug: li-dong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 公道此時如不得，昭陵慟哭一生休。
+- 魚弄晴波影上簾。
+- （見宋陳善《捫蝨新話》上集卷一）。
 
 ## 拼音
 
-- gong1 dao4 ci3 shi2 ru2 bu4 de2 ， zhao1 ling2 tong4 ku1 yi4 sheng1 xiu1 。
+- yu2 nong4 qing2 bo1 ying3 shang4 lian2 。
+- （ jian4 song4 chen2 shan4 《 men2 shi1 xin1 hua4 》 shang4 ji2 juan4 yi1 ）。
 
 ## 注释
 

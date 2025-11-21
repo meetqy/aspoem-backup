@@ -6,25 +6,21 @@ titleSlug: li-chun
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 底處春來早，依依傍日華。
-- 年光隨寶勝，陽律犯鳴笳。
-- 冰沼應潜坼，風枝已自斜。
-- 江南無驛騎，何計賞梅花。
+- 曾見青旂上苑回，瑞幡仙萼翦刀催。
+- 朝來獨曝茅檐日，且暖蓬心一寸灰。
 
 ## 拼音
 
-- di3 chu3 chun1 lai2 zao3 ， yi1 yi1 bang4 ri4 hua2 。
-- nian2 guang1 sui2 bao3 sheng4 ， yang2 lü4 fan4 ming2 jia1 。
-- bing1 zhao3 ying1 qian2 che4 ， feng1 zhi1 yi3 zi4 xie2 。
-- jiang1 nan2 wu2 yi4 qi2 ， he2 ji4 shang3 mei2 hua1 。
+- ceng2 jian4 qing1 qi2 shang4 yuan4 hui2 ， rui4 fan1 xian1 e4 jian3 dao1 cui1 。
+- chao2 lai2 du2 pu4 mao2 yan2 ri4 ， qie3 nuan3 peng2 xin1 yi2 cun4 hui1 。
 
 ## 注释
 

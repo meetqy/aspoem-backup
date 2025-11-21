@@ -6,10 +6,10 @@ titleSlug: zhi-feng-cheng-huai-wen-sou-shu-yi-nan-xiu-yu-ti-zhi-shu-yi-qu-jiang-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

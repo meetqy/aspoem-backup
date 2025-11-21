@@ -6,10 +6,10 @@ titleSlug: chong-xu-guan
 author: 梁真素
 authorPinyin: liang2 zhen1 su4
 authorSlug: liang-zhen-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

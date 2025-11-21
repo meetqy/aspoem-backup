@@ -6,21 +6,21 @@ titleSlug: ji-meng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 團臍霜蠏四腮鱸，樽俎芳鮮十載無。
-- 塞月征塵身萬里，夢魂也復醉西湖。
+- 老來百事不關身，北陌東阡一幅巾。
+- 忽夢行軍太行路，不惟無想亦無因。
 
 ## 拼音
 
-- tuan2 qi2 shuang1 xie4 si4 sai1 lu2 ， zun1 zu3 fang1 xian1 shi2 zai4 wu2 。
-- sai1 yue4 zheng1 chen2 shen1 wan4 li3 ， meng4 hun2 ye3 fu4 zui4 xi1 hu2 。
+- lao3 lai2 bai3 shi4 bu4 guan1 shen1 ， bei3 mo4 dong1 qian1 yi4 fu2 jin1 。
+- hu1 meng4 xing2 jun1 tai4 hang2 lu4 ， bu4 wei2 wu2 xiang3 yi4 wu2 yin1 。
 
 ## 注释
 

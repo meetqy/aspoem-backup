@@ -6,10 +6,10 @@ titleSlug: yong-jia-lu-zhong-xiu-yong-nian-xiu-wen-jian-fang-chou-yi-duan-ju
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

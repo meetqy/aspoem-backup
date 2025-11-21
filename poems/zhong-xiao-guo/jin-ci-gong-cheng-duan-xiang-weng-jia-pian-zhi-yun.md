@@ -6,10 +6,10 @@ titleSlug: jin-ci-gong-cheng-duan-xiang-weng-jia-pian-zhi-yun
 author: 鍾孝國
 authorPinyin: zhong1 xiao4 guo2
 authorSlug: zhong-xiao-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

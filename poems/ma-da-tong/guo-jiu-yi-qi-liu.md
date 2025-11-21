@@ -6,10 +6,10 @@ titleSlug: guo-jiu-yi-qi-liu
 author: 馬大同
 authorPinyin: ma3 da4 tong2
 authorSlug: ma-da-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

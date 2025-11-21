@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-huang-di-ge-qi-si
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠輿黄繖下祥曦，德壽宮中奉玉巵。
-- 天上融怡和氣滿，人間那得不熙熙。
+- 新歲階蓂九葉芳，乾元用九應春陽。
+- 九州元載中興主，九牧行稱萬壽觴。
 
 ## 拼音
 
-- cui4 yu2 huang2 san3 xia4 xiang2 xi1 ， de2 shou4 gong1 zhong1 feng4 yu4 zhi1 。
-- tian1 shang4 rong2 yi2 he2 qi4 man3 ， ren2 jian4 na4 de2 bu4 xi1 xi1 。
+- xin1 sui4 jie1 mi4 jiu3 ye4 fang1 ， qian2 yuan2 yong4 jiu3 ying1 chun1 yang2 。
+- jiu3 zhou1 yuan2 zai4 zhong1 xing1 zhu3 ， jiu3 mu4 xing2 cheng1 wan4 shou4 shang1 。
 
 ## 注释
 

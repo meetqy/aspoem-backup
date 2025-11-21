@@ -6,10 +6,10 @@ titleSlug: ju-yu-wan-fa-wei-lu-yin-yuan-song
 author: 釋中仁
 authorPinyin: shi4 zhong1 ren2
 authorSlug: shi-zhong-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

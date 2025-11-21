@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhi-qiu-ri-yu-hou-yun
 author: 王隠
 authorPinyin: wang2 yin3
 authorSlug: wang-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

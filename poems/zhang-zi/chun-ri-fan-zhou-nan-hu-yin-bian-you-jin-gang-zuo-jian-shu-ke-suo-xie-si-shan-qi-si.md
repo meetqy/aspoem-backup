@@ -6,10 +6,10 @@ titleSlug: chun-ri-fan-zhou-nan-hu-yin-bian-you-jin-gang-zuo-jian-shu-ke-suo-xie
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

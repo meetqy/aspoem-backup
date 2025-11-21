@@ -6,21 +6,25 @@ titleSlug: du-shu
 author: 沈遼
 authorPinyin: shen3 liao2
 authorSlug: shen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病骨愔愔百不如，不應投老更看書。
-- 古今得喪今方辨，且向斜陽弄蠧魚。
+- 讀書十車老已忘，人生得意須少壯。
+- 白髪漸多筋力衰，誰爲流年更惆悵。
+- 自寄蠻夷朋舊稀，更將黄卷卧斜暉。
+- 古來枉直何足道，昨日皦皦今還非。
 
 ## 拼音
 
-- bing4 gu3 yin1 yin1 bai3 bu4 ru2 ， bu4 ying1 tou2 lao3 geng4 kan4 shu1 。
-- gu3 jin1 de2 sang1 jin1 fang1 bian4 ， qie3 xiang4 xie2 yang2 nong4 du4 yu2 。
+- du2 shu1 shi2 ju1 lao3 yi3 wang4 ， ren2 sheng1 de2 yi4 xu1 shao3 zhuang4 。
+- bai2 fa4 jian4 duo1 jin1 li4 shuai1 ， shui2 wei2 liu2 nian2 geng4 chou2 chang4 。
+- zi4 ji4 man2 yi2 peng2 jiu4 xi1 ， geng4 jiang1 huang2 juan4 wo4 xie2 hui1 。
+- gu3 lai2 wang3 zhi2 he2 zu2 dao4 ， zuo2 ri4 jiao3 jiao3 jin1 huan2 fei1 。
 
 ## 注释
 

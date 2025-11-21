@@ -6,10 +6,10 @@ titleSlug: ci-tang-yan-you-gu-ting-lin-yun
 author: 張堯幹
 authorPinyin: zhang1 yao2 gan4
 authorSlug: zhang-yao-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

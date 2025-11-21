@@ -6,25 +6,25 @@ titleSlug: mei-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梅市柯山小繫船，開篷驚起醉中眠。
-- 橋橫風柳荒寒外，月墮烟鍾縹渺邊。
-- 客思况經孤驛路，詩情又入早秋天。
-- 如今老病知何恨，判斷江山六十年。
+- 小雨長堤古寺西，不容羸馬惜障泥。
+- 時平道路鈴聲少，歲樂坊場酒價低。
+- 烟樹淺深山驛近，野歌斷續客魂迷。
+- 殘軀不料重來此，一首清詩手自題。
 
 ## 拼音
 
-- mei2 shi4 ke1 shan1 xiao3 xi4 chuan2 ， kai1 peng2 jing1 qi3 zui4 zhong1 mian2 。
-- qiao2 heng2 feng1 liu3 huang1 han2 wai4 ， yue4 duo4 yan1 zhong1 piao3 miao3 bian1 。
-- ke4 si1 kuang4 jing1 gu1 yi4 lu4 ， shi1 qing2 you4 ru4 zao3 qiu1 tian1 。
-- ru2 jin1 lao3 bing4 zhi1 he2 hen4 ， pan4 duan4 jiang1 shan1 liu4 shi2 nian2 。
+- xiao3 yu3 chang2 di1 gu3 si4 xi1 ， bu4 rong2 lei2 ma3 xi1 zhang4 ni2 。
+- shi2 ping2 dao4 lu4 ling2 sheng1 shao3 ， sui4 le4 fang1 chang3 jiu3 jia4 di1 。
+- yan1 shu4 qian3 shen1 shan1 yi4 jin4 ， ye3 ge1 duan4 xu4 ke4 hun2 mi2 。
+- can2 qu1 bu2 liao4 zhong4 lai2 ci3 ， yi4 shou3 qing1 shi1 shou3 zi4 ti2 。
 
 ## 注释
 

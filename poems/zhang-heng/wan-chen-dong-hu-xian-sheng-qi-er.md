@@ -6,25 +6,25 @@ titleSlug: wan-chen-dong-hu-xian-sheng-qi-er
 author: 張衡
 authorPinyin: zhang1 heng2
 authorSlug: zhang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 德星難再聚，薤露重興悲。
-- 客憶芹邊膾，孫尋膝上飴。
-- 入門惟水竹，拜像見鬚眉。
-- 吾父亦丁丑，白雲增夢思。
+- 亂世沒吾寧，何須滿百齡。
+- 雲封靈壽杖，天殞少微星。
+- 長夜泉臺黑，幽林鬼火青。
+- 西風吹木葉，無語慰飄零。
 
 ## 拼音
 
-- de2 xing1 nan2 zai4 ju4 ， xie4 lu4 zhong4 xing1 bei1 。
-- ke4 yi4 qin2 bian1 kuai4 ， sun1 xun2 xi1 shang4 yi2 。
-- ru4 men2 wei2 shui3 zhu2 ， bai4 xiang4 jian4 xu1 mei2 。
-- wu2 fu4 yi4 ding1 chou3 ， bai2 yun2 zeng1 meng4 si1 。
+- luan4 shi4 mei2 wu2 ning2 ， he2 xu1 man3 bai3 ling2 。
+- yun2 feng1 ling2 shou4 zhang4 ， tian1 yun3 shao3 wei1 xing1 。
+- chang2 ye4 quan2 tai2 hei1 ， you1 lin2 gui3 huo3 qing1 。
+- xi1 feng1 chui1 mu4 ye4 ， wu2 yu3 wei4 piao1 ling2 。
 
 ## 注释
 

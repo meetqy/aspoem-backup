@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-hu-qiu-liu-jue-ju-dian-tou-shi
-title: 虎丘六絕句・點頭石
-titlePinyin: hu3 qiu1 liu4 jue2 ju4・dian3 tou2 shi2
+title: 虎丘六絕句 點頭石
+titlePinyin: hu3 qiu1 liu4 jue2 ju4   dian3 tou2 shi2
 titleSlug: hu-qiu-liu-jue-ju-dian-tou-shi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

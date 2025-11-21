@@ -6,10 +6,10 @@ titleSlug: ti-tai-lao-mu
 author: 陳嘉言
 authorPinyin: chen2 jia1 yan2
 authorSlug: chen-jia-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

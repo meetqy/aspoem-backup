@@ -6,25 +6,25 @@ titleSlug: ye-zuo-ji-shi
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 對景坐清夜，蕭然鬢已華。
-- 詩慳難就稿，燈暗不成花。
-- 易醉愁邊酒，頻歸夢裏家。
-- 何時鋤舊圃，學種邵平瓜。
+- 霜氣侵窗冷客氈，青燈白髮老堪憐。
+- 光陰明日又明日，世事一年難一年。
+- 眼底江山元似舊，胸中風月本無邊。
+- 道人不作陽臺夢，紙帳梅花伴獨眠。
 
 ## 拼音
 
-- dui4 jing3 zuo4 qing1 ye4 ， xiao1 ran2 bin4 yi3 hua2 。
-- shi1 qian1 nan2 jiu4 gao3 ， deng1 an4 bu4 cheng2 hua1 。
-- yi4 zui4 chou2 bian1 jiu3 ， bin1 gui1 meng4 li3 jia1 。
-- he2 shi2 chu2 jiu4 pu3 ， xue2 zhong3 shao4 ping2 gua1 。
+- shuang1 qi4 qin1 chuang1 leng3 ke4 zhan1 ， qing1 deng1 bai2 fa4 lao3 kan1 lian2 。
+- guang1 yin1 ming2 ri4 you4 ming2 ri4 ， shi4 shi4 yi4 nian2 nan2 yi4 nian2 。
+- yan3 di3 jiang1 shan1 yuan2 si4 jiu4 ， xiong1 zhong1 feng1 yue4 ben3 wu2 bian1 。
+- dao4 ren2 bu2 zuo4 yang2 tai2 meng4 ， zhi3 zhang4 mei2 hua1 ban4 du2 mian2 。
 
 ## 注释
 

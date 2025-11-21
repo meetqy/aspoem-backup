@@ -6,25 +6,27 @@ titleSlug: qiu-huai
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舊日方山子，凄凉寄一簞。
-- 蟲聲來倦枕，秋思入凭闌。
-- 已是肱三折，那堪指一彈。
-- 中宵更風雨，誰念客氈寒。
+- 歸輿穿翠微，夜久樹益蒼。
+- 海蟾浴清波，吐此林表光。
+- 今宵衣上露，明日履下霜。
+- 兒童不知此，且喜今夕凉。
+- 風林忽響答，似識予心腸。
 
 ## 拼音
 
-- jiu4 ri4 fang1 shan1 zi0 ， qi1 liang2 ji4 yi4 dan1 。
-- chong2 sheng1 lai2 juan4 zhen3 ， qiu1 si1 ru4 ping2 lan2 。
-- yi3 shi4 gong1 san1 zhe2 ， na4 kan1 zhi3 yi2 dan4 。
-- zhong1 xiao1 geng4 feng1 yu3 ， shui2 nian4 ke4 zhan1 han2 。
+- gui1 yu2 chuan1 cui4 wei1 ， ye4 jiu3 shu4 yi4 cang1 。
+- hai3 chan2 yu4 qing1 bo1 ， tu3 ci3 lin2 biao3 guang1 。
+- jin1 xiao1 yi1 shang4 lu4 ， ming2 ri4 lü3 xia4 shuang1 。
+- er2 tong2 bu4 zhi1 ci3 ， qie3 xi3 jin1 xi1 liang2 。
+- feng1 lin2 hu1 xiang3 da2 ， si4 shi2 yu3 xin1 chang2 。
 
 ## 注释
 

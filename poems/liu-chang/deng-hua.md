@@ -6,25 +6,25 @@ titleSlug: deng-hua
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒燈不及鄰，花艷競爭新。
-- 重疊芝三秀，分明桂半輪。
-- 東風誰變律，芳意自驚春。
-- 流玩堪通夕，長眉莫效顰。
+- 火中有芝，殊幹連葉。
+- 頃刻三秀，爛其煜煜。
+- 孰爲而生，孰爲而滋。
+- 既富且壽，君子正之。
 
 ## 拼音
 
-- han2 deng1 bu4 ji2 lin2 ， hua1 yan4 jing4 zheng1 xin1 。
-- zhong4 die2 zhi1 san1 xiu4 ， fen1 ming2 gui4 ban4 lun2 。
-- dong1 feng1 shui2 bian4 lü4 ， fang1 yi4 zi4 jing1 chun1 。
-- liu2 wan2 kan1 tong1 xi1 ， chang2 mei2 mo4 xiao4 pin2 。
+- huo3 zhong1 you3 zhi1 ， shu1 gan4 lian2 ye4 。
+- qing3 ke4 san1 xiu4 ， lan4 qi2 yu4 yu4 。
+- shu2 wei2 er2 sheng1 ， shu2 wei2 er2 zi1 。
+- ji4 fu4 qie3 shou4 ， jun1 zi3 zheng4 zhi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhi-shuang-xuan
 author: 劉焞
 authorPinyin: liu2 tun1
 authorSlug: liu-tun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

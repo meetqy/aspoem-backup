@@ -6,10 +6,10 @@ titleSlug: yu-zhu-ren-fen-yun-yong-gu-bei-tan-de-luo-chi-miao-ji-yi-chi-zi-wei-y
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

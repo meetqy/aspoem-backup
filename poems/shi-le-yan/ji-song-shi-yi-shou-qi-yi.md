@@ -1,30 +1,30 @@
 ---
 id: shi-le-yan-ji-song-shi-yi-shou-qi-yi
-title: 偈頌十一首  其一
-titlePinyin: ji4 song4 shi2 yi1 shou3     qi2 yi1
+title: 偈頌十一首  其一○
+titlePinyin: ji4 song4 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-yi-shou-qi-yi
 author: 釋了演
 authorPinyin: shi4 le0 yan3
 authorSlug: shi-le-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 誰菴不會說禪，一向外邊之繞。
-- 鳴鼓集衆陞堂，豈容亂開臭口。
-- 而今無計可爲，謾把屎腸抖擻。
-- 瞎驢趁隊過新羅，驚起南辰藏北斗。
+- 即心即拂，千山萬水。
+- 非心非佛，草窠裏輥。
+- 向上一路千聖，不傳熱椀鳴聲。
+- 三邊若得渾無事，四海何愁不太平。
 
 ## 拼音
 
-- shui2 an1 bu2 hui4 shuo1 shan4 ， yi2 xiang4 wai4 bian1 zhi1 rao4 。
-- ming2 gu3 ji2 zhong4 sheng1 tang2 ， qi3 rong2 luan4 kai1 chou4 kou3 。
-- er2 jin1 wu2 ji4 ke3 wei2 ， man2 ba3 shi3 chang2 dou3 sou4 。
-- xia1 lü2 chen4 dui4 guo4 xin1 luo2 ， jing1 qi3 nan2 chen2 cang2 bei3 dou3 。
+- ji2 xin1 ji2 fu2 ， qian1 shan1 wan4 shui3 。
+- fei1 xin1 fei1 fo2 ， cao3 ke1 li3 gun3 。
+- xiang4 shang4 yi2 lu4 qian1 sheng4 ， bu4 chuan2 re4 wan3 ming2 sheng1 。
+- san1 bian1 ruo4 de2 hun2 wu2 shi4 ， si4 hai3 he2 chou2 bu2 tai4 ping2 。
 
 ## 注释
 

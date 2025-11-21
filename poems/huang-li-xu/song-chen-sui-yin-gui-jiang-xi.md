@@ -6,10 +6,10 @@ titleSlug: song-chen-sui-yin-gui-jiang-xi
 author: 黄力敘
 authorPinyin: huang2 li4 xu4
 authorSlug: huang-li-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

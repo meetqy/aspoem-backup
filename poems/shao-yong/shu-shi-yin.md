@@ -6,25 +6,25 @@ titleSlug: shu-shi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天地有常理，日月無循行。
-- 飽食高眠外，率是皆虛名。
-- 雖乏伊呂才，不失堯舜氓。
-- 何須身作相，然後爲太平。
+- 他山有石能攻玉，玉未全成老已催。
+- 有限光陰隨事去，無涯衰朽逐人來。
+- 陶鎔情性詩千首，燮理筋骸酒一盃。
+- 六十六年無事日，心源方始似昭回。
 
 ## 拼音
 
-- tian1 di4 you3 chang2 li3 ， ri4 yue4 wu2 xun2 xing2 。
-- bao3 shi2 gao1 mian2 wai4 ， lü4 shi4 jie1 xu1 ming2 。
-- sui1 fa2 yi1 lü3 cai2 ， bu4 shi1 yao2 shun4 mang2 。
-- he2 xu1 shen1 zuo4 xiang1 ， ran2 hou4 wei2 tai4 ping2 。
+- ta1 shan1 you3 shi2 neng2 gong1 yu4 ， yu4 wei4 quan2 cheng2 lao3 yi3 cui1 。
+- you3 xian4 guang1 yin1 sui2 shi4 qu4 ， wu2 ya2 shuai1 xiu3 zhu2 ren2 lai2 。
+- tao2 rong2 qing2 xing4 shi1 qian1 shou3 ， xie4 li3 jin1 hai2 jiu3 yi4 bei1 。
+- liu4 shi2 liu4 nian2 wu2 shi4 ri4 ， xin1 yuan2 fang1 shi3 si4 zhao1 hui2 。
 
 ## 注释
 

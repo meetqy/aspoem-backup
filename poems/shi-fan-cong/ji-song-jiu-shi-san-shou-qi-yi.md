@@ -1,26 +1,26 @@
 ---
 id: shi-fan-cong-ji-song-jiu-shi-san-shou-qi-yi
-title: 偈頌九十三首  其一
-titlePinyin: ji4 song4 jiu3 shi2 san1 shou3     qi2 yi1
+title: 偈頌九十三首  其一○
+titlePinyin: ji4 song4 jiu3 shi2 san1 shou3     qi2 yi1 ○
 titleSlug: ji-song-jiu-shi-san-shou-qi-yi
 author: 釋梵琮
 authorPinyin: shi4 fan4 cong2
 authorSlug: shi-fan-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 直進直出，直行直用。
-- 瞥轉玄關，百發百中。
+- 東山水上行，乾元利貞亨。
+- 誵訛一箇字，才子競頭爭。
 
 ## 拼音
 
-- zhi2 jin4 zhi2 chu1 ， zhi2 xing2 zhi2 yong4 。
-- pie1 zhuan3 xuan2 guan1 ， bai3 fa1 bai3 zhong1 。
+- dong1 shan1 shui3 shang4 xing2 ， qian2 yuan2 li4 zhen1 heng1 。
+- xiao2 e2 yi2 ge4 zi4 ， cai2 zi3 jing4 tou2 zheng1 。
 
 ## 注释
 

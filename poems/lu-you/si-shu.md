@@ -6,25 +6,25 @@ titleSlug: si-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老子饞堪笑，珍盤憶少城。
-- 流匙抄薏飯，加糝啜巢羮。
-- 柑美傾筠籠，茶香出土鐺。
-- 西郊有舊隱，何日返柴荆。
+- 西遊陳迹浩無窮，回首真同一夢中。
+- 柳拂驛牆思鳳集，鼓喧市裏憶蠶叢。
+- 故人丘壟秋蕪碧，舊隠園林夕照紅。
+- 自閔未能忘感慨，浩歌彈劍送飛鴻。
 
 ## 拼音
 
-- lao3 zi3 chan2 kan1 xiao4 ， zhen1 pan2 yi4 shao3 cheng2 。
-- liu2 chi2 chao1 yi4 fan4 ， jia1 san3 chuo4 chao2 geng1 。
-- gan1 mei3 qing1 yun2 long2 ， cha2 xiang1 chu1 tu3 dang1 。
-- xi1 jiao1 you3 jiu4 yin3 ， he2 ri4 fan3 chai2 jing1 。
+- xi1 you2 chen2 ji4 hao4 wu2 qiong2 ， hui2 shou3 zhen1 tong2 yi2 meng4 zhong1 。
+- liu3 fu2 yi4 qiang2 si1 feng4 ji2 ， gu3 xuan1 shi4 li3 yi4 can2 cong2 。
+- gu4 ren2 qiu1 long3 qiu1 wu2 bi4 ， jiu4 yin3 yuan2 lin2 xi1 zhao4 hong2 。
+- zi4 min3 wei4 neng2 wang4 gan3 kai3 ， hao4 ge1 dan4 jian4 song4 fei1 hong2 。
 
 ## 注释
 

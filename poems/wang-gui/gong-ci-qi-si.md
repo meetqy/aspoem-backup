@@ -1,26 +1,26 @@
 ---
 id: wang-gui-gong-ci-qi-si
-title: 宮詞  其四
-titlePinyin: gong1 ci2     qi2 si4
+title: 宮詞  其四○
+titlePinyin: gong1 ci2     qi2 si4 ○
 titleSlug: gong-ci-qi-si
 author: 王珪
 authorPinyin: wang2 gui1
 authorSlug: wang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 碧桃花下試枰棋，誤算籌先一着低。
-- 輸却鈿釵雙翡翠，可勝重勸玉東西。
+- 夜寒金屋篆烟飛，燈燭分明在紫微。
+- 漏永禁宮三十六，燕回争踏月輪歸。
 
 ## 拼音
 
-- bi4 tao2 hua1 xia4 shi4 ping2 qi2 ， wu4 suan4 chou2 xian1 yi1 zhe0 di1 。
-- shu1 que4 dian4 chai1 shuang1 fei3 cui4 ， ke3 sheng4 zhong4 quan4 yu4 dong1 xi1 。
+- ye4 han2 jin1 wu1 zhuan4 yan1 fei1 ， deng1 zhu2 fen1 ming2 zai4 zi3 wei1 。
+- lou4 yong3 jin4 gong1 san1 shi2 liu4 ， yan4 hui2 zheng1 ta4 yue4 lun2 gui1 。
 
 ## 注释
 

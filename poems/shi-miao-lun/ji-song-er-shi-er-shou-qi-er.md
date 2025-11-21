@@ -1,26 +1,28 @@
 ---
 id: shi-miao-lun-ji-song-er-shi-er-shou-qi-er
-title: 偈頌二十二首  其二
-titlePinyin: ji4 song4 er4 shi2 er4 shou3     qi2 er4
+title: 偈頌二十二首  其二○
+titlePinyin: ji4 song4 er4 shi2 er4 shou3     qi2 er4 ○
 titleSlug: ji-song-er-shi-er-shou-qi-er
 author: 釋妙倫
 authorPinyin: shi4 miao4 lun2
 authorSlug: shi-miao-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一自休戈見太平，跨龍仙去彩霞輕。
-- 感恩惟有西湖水，夜夜清波蘸月明。
+- 九十日一夏，始終無縫罅。
+- 拶到末梢頭，有箇好說話。
+- 長爪梵志註九經，瞎眼波斯書八卦。
 
 ## 拼音
 
-- yi2 zi4 xiu1 ge1 jian4 tai4 ping2 ， kua4 long2 xian1 qu4 cai3 xia2 qing1 。
-- gan3 en1 wei2 you3 xi1 hu2 shui3 ， ye4 ye4 qing1 bo1 zhan4 yue4 ming2 。
+- jiu3 shi2 ri4 yi2 xia4 ， shi3 zhong1 wu2 feng2 xia4 。
+- za1 dao4 mo4 shao1 tou2 ， you3 ge4 hao3 shuo1 hua4 。
+- chang2 zhua3 fan4 zhi4 zhu4 jiu3 jing1 ， xia1 yan3 bo1 si1 shu1 ba1 gua4 。
 
 ## 注释
 

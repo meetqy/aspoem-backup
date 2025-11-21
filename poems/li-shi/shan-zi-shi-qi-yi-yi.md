@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-yi
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 薰蒸香積厨，精鑿午齋飯。
-- 飯後且放參，林下香一瓣。
+- 一卷赤松橋上老，三杯玉案甕中仙。
+- 騎馿出去知何日，跨鶴歸來得幾年。
 
 ## 拼音
 
-- xun1 zheng1 xiang1 ji1 chu2 ， jing1 zao2 wu3 zhai1 fan4 。
-- fan4 hou4 qie3 fang4 can1 ， lin2 xia4 xiang1 yi2 ban4 。
+- yi2 juan4 chi4 song1 qiao2 shang4 lao3 ， san1 bei1 yu4 an4 weng4 zhong1 xian1 。
+- qi2 lu2 chu1 qu4 zhi1 he2 ri4 ， kua4 he4 gui1 lai2 de2 ji1 nian2 。
 
 ## 注释
 

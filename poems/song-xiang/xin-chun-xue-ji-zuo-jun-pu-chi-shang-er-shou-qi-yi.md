@@ -6,9 +6,9 @@ titleSlug: xin-chun-xue-ji-zuo-jun-pu-chi-shang-er-shou-qi-yi
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

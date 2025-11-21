@@ -6,9 +6,9 @@ titleSlug: jin-lin-yan-hui-zhi-shen
 author: 王著
 authorPinyin: wang2 zhu4
 authorSlug: wang-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

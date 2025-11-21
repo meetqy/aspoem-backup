@@ -6,10 +6,10 @@ titleSlug: zeng-zhang-yu-xiu-cai-you-jin-hua-shan
 author: 鄭炎
 authorPinyin: zheng4 yan2
 authorSlug: zheng-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

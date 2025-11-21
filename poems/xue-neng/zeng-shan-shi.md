@@ -9,22 +9,22 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 夢想青山寺，前年住此中。
-- 夜堂吹竹雨，春地落花風。
-- 舊句師曾見，清齋我亦同。
-- 浮生蹇莫問，辛苦未成功。
+- 嗜慾本無性，此生長在禪。
+- 九州空有路，一室獨多年。
+- 鳴磬微塵落，移缾濕地圓。
+- 相尋偶同宿，星月坐忘眠。
 
 ## 拼音
 
-- meng4 xiang3 qing1 shan1 si4 ， qian2 nian2 zhu4 ci3 zhong1 。
-- ye4 tang2 chui1 zhu2 yu3 ， chun1 di4 luo4 hua1 feng1 。
-- jiu4 ju4 shi1 ceng2 jian4 ， qing1 zhai1 wo3 yi4 tong2 。
-- fu2 sheng1 jian3 mo4 wen4 ， xin1 ku3 wei4 cheng2 gong1 。
+- shi4 yu4 ben3 wu2 xing4 ， ci3 sheng1 chang2 zai4 shan4 。
+- jiu3 zhou1 kong1 you3 lu4 ， yi2 shi4 du2 duo1 nian2 。
+- ming2 qing4 wei1 chen2 luo4 ， yi2 ping2 shi1 di4 yuan2 。
+- xiang1 xun2 ou3 tong2 su4 ， xing1 yue4 zuo4 wang4 mian2 。
 
 ## 注释
 

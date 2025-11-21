@@ -6,10 +6,10 @@ titleSlug: jing-he-jiu-suo-bu-xu-ci-chao-yuan-suo
 author: 趙汝湜
 authorPinyin: zhao4 ru3 shi2
 authorSlug: zhao-ru-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

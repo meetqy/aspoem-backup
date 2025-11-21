@@ -6,10 +6,10 @@ titleSlug: zeng-wei-xian
 author: 魏憲叔
 authorPinyin: wei4 xian4 shu1
 authorSlug: wei-xian-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

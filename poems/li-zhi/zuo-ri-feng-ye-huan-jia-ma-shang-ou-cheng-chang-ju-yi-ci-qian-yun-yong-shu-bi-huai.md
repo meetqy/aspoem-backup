@@ -6,10 +6,10 @@ titleSlug: zuo-ri-feng-ye-huan-jia-ma-shang-ou-cheng-chang-ju-yi-ci-qian-yun-yon
 author: 李至
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

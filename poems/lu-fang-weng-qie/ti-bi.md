@@ -6,10 +6,10 @@ titleSlug: ti-bi
 author: 陸放翁妾
 authorPinyin: lu4 fang4 weng1 qie4
 authorSlug: lu-fang-weng-qie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

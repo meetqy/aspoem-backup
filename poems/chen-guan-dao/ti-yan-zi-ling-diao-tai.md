@@ -6,10 +6,10 @@ titleSlug: ti-yan-zi-ling-diao-tai
 author: 陳貫道
 authorPinyin: chen2 guan4 dao4
 authorSlug: chen-guan-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

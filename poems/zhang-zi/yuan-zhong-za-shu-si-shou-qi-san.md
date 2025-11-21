@@ -6,21 +6,21 @@ titleSlug: yuan-zhong-za-shu-si-shou-qi-san
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 木芙蓉遶岸傍栽，水芙蓉滿池內開。
-- 池畔忽生尋丈葉，引花穿岸入叢來。
+- 芍藥抽紅葉未齊，畦丁籠鶴避花時。
+- 始知有喙長三尺，輸與藏頭曳尾龜。
 
 ## 拼音
 
-- mu4 fu2 rong2 rao4 an4 bang4 zai1 ， shui3 fu2 rong2 man3 chi2 nei4 kai1 。
-- chi2 pan4 hu1 sheng1 xun2 zhang4 ye4 ， yin3 hua1 chuan1 an4 ru4 cong2 lai2 。
+- shao2 yao4 chou1 hong2 ye4 wei4 qi2 ， qi2 ding1 long2 he4 bi4 hua1 shi2 。
+- shi3 zhi1 you3 hui4 chang2 san1 chi3 ， shu1 yu3 cang2 tou2 ye4 wei3 gui1 。
 
 ## 注释
 

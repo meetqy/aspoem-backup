@@ -1,26 +1,26 @@
 ---
 id: fang-yue-mei-hua-shi-jue-qi-yi
-title: 梅花十絕  其一
-titlePinyin: mei2 hua1 shi2 jue2     qi2 yi1
+title: 梅花十絕  其一○
+titlePinyin: mei2 hua1 shi2 jue2     qi2 yi1 ○
 titleSlug: mei-hua-shi-jue-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 儘道春風有等差，從前謾語待詩家。
-- 今年雪屋親曾見，的當南枝先著花。
+- 竹緣貨殖比封君，松愛微官不避秦。
+- 至竟羞與噲等伍，歲寒誰障庾公塵。
 
 ## 拼音
 
-- jin3 dao4 chun1 feng1 you3 deng3 cha4 ， cong2 qian2 man2 yu3 dai4 shi1 jia1 。
-- jin1 nian2 xue3 wu1 qin1 ceng2 jian4 ， de0 dang1 nan2 zhi1 xian1 zhu4 hua1 。
+- zhu2 yuan2 huo4 zhi2 bi3 feng1 jun1 ， song1 ai4 wei1 guan1 bu2 bi4 qin2 。
+- zhi4 jing4 xiu1 yu3 kuai4 deng3 wu3 ， sui4 han2 shui2 zhang4 yu3 gong1 chen2 。
 
 ## 注释
 

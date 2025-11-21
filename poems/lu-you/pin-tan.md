@@ -6,25 +6,25 @@ titleSlug: pin-tan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老叟年年病，書生世世貧。
-- 盜寧窺破橐，雀亦棄空囷。
-- 屋壞須撐拄，衣穿厭補紉。
-- 今朝風日美，且復過比鄰。
+- 貧到今年極，蕭然四壁家。
+- 弊袍生蟣虱，粗飯雜泥沙。
+- 浩浩乾坤大，茫茫歲月賒。
+- 故鄉烟水窟，別擬卜生涯。
 
 ## 拼音
 
-- lao3 sou3 nian2 nian2 bing4 ， shu1 sheng1 shi4 shi4 pin2 。
-- dao4 ning2 kui1 po4 tuo2 ， que4 yi4 qi4 kong1 qun1 。
-- wu1 huai4 xu1 cheng1 zhu3 ， yi1 chuan1 yan4 bu3 ren4 。
-- jin1 zhao1 feng1 ri4 mei3 ， qie3 fu4 guo4 bi3 lin2 。
+- pin2 dao4 jin1 nian2 ji2 ， xiao1 ran2 si4 bi4 jia1 。
+- bi4 pao2 sheng1 ji3 shi1 ， cu1 fan4 za2 ni2 sha1 。
+- hao4 hao4 qian2 kun1 da4 ， mang2 mang2 sui4 yue4 she1 。
+- gu4 xiang1 yan1 shui3 ku1 ， bie2 ni3 bu3 sheng1 ya2 。
 
 ## 注释
 

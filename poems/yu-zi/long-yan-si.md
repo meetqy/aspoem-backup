@@ -6,10 +6,10 @@ titleSlug: long-yan-si
 author: 俞鼒
 authorPinyin: yu2 zi1
 authorSlug: yu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: can-zheng-xie-gong-wan-ci-qi-yi
 author: 黄定
 authorPinyin: huang2 ding4
 authorSlug: huang-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

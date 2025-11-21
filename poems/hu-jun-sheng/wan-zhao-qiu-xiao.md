@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao
 author: 胡駿升
 authorPinyin: hu2 jun4 sheng1
 authorSlug: hu-jun-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

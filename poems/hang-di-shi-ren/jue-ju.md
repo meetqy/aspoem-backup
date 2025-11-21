@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 杭地士人
 authorPinyin: hang2 di4 shi4 ren2
 authorSlug: hang-di-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

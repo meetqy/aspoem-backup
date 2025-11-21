@@ -1,24 +1,24 @@
 ---
 id: hu-quan-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 胡銓
 authorPinyin: hu2 quan2
 authorSlug: hu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君側無讒人，發口不須婉。
+- 啗氈使者莫思家。
 
 ## 拼音
 
-- jun1 ce4 wu2 chan2 ren2 ， fa1 kou3 bu4 xu1 wan3 。
+- dan4 zhan1 shi3 zhe3 mo4 si1 jia1 。
 
 ## 注释
 

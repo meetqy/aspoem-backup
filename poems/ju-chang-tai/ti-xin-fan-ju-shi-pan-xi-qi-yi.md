@@ -6,10 +6,10 @@ titleSlug: ti-xin-fan-ju-shi-pan-xi-qi-yi
 author: 句昌泰
 authorPinyin: ju4 chang1 tai4
 authorSlug: ju-chang-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

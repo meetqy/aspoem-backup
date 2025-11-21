@@ -6,10 +6,10 @@ titleSlug: qu-dong-zhang-ruo-shui-bo-fen-yi-xue-shi-shi-yu-lan-bu-xia-he-zhang-l
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

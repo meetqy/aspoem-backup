@@ -6,10 +6,10 @@ titleSlug: zhang-huan-hou-miao
 author: 黎登
 authorPinyin: li2 deng1
 authorSlug: li-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

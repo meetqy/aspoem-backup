@@ -6,10 +6,10 @@ titleSlug: ci-weng-lai-jie-zhu-jia-yi-jie-wen-yi-you-xin-shuo-yi-shi-jie-guan
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

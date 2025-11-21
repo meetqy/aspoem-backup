@@ -6,10 +6,10 @@ titleSlug: lian-qun-dai-zhong-shi-qi-er
 author: 韓希孟
 authorPinyin: han2 xi1 meng4
 authorSlug: han-xi-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

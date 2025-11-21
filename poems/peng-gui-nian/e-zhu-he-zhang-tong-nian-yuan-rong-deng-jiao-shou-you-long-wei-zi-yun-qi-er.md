@@ -6,10 +6,10 @@ titleSlug: e-zhu-he-zhang-tong-nian-yuan-rong-deng-jiao-shou-you-long-wei-zi-yun
 author: 彭龜年
 authorPinyin: peng2 gui1 nian2
 authorSlug: peng-gui-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

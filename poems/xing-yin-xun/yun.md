@@ -14,17 +14,17 @@ tags: []
 
 ## 正文
 
-- 因登巨石知來處，勃勃元生綠蘚痕。
-- 靜即等閑藏草木，動時頃刻徧乾坤。
-- 橫天未必朋元惡，捧日還曾瑞至尊。
-- 不獨朝朝在巫峽，楚王何事謾勞魂。
+- 片片飛來靜又閑，樓頭江上復山前。
+- 飄零盡日不歸去，帖破清光萬里天。
+- （見《宛委別藏》本《分門纂類唐宋時賢千家詩選》卷十二。
+- ）。
 
 ## 拼音
 
-- yin1 deng1 ju4 shi2 zhi1 lai2 chu3 ， bo2 bo2 yuan2 sheng1 lü4 xian3 hen2 。
-- jing4 ji2 deng3 xian2 cang2 cao3 mu4 ， dong4 shi2 qing3 ke4 bian4 qian2 kun1 。
-- heng2 tian1 wei4 bi4 peng2 yuan2 e4 ， peng3 ri4 huan2 ceng2 rui4 zhi4 zun1 。
-- bu4 du2 zhao1 zhao1 zai4 wu1 xia2 ， chu3 wang2 he2 shi4 man2 lao2 hun2 。
+- pian4 pian4 fei1 lai2 jing4 you4 xian2 ， lou2 tou2 jiang1 shang4 fu4 shan1 qian2 。
+- piao1 ling2 jin4 ri4 bu4 gui1 qu4 ， tie1 po4 qing1 guang1 wan4 li3 tian1 。
+- （ jian4 《 wan3 wei3 bie2 cang2 》 ben3 《 fen1 men2 zuan3 lei4 tang2 song4 shi2 xian2 qian1 jia1 shi1 xuan3 》 juan4 shi2 er4 。
+- ）。
 
 ## 注释
 

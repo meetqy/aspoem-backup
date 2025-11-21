@@ -1,30 +1,30 @@
 ---
 id: li-gang-qiu-si-shi-shou-qi-yi
-title: 秋思十首  其一
-titlePinyin: qiu1 si1 shi2 shou3     qi2 yi1
+title: 秋思十首  其一○
+titlePinyin: qiu1 si1 shi2 shou3     qi2 yi1 ○
 titleSlug: qiu-si-shi-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝來秋色高，西山有爽氣。
-- 開軒遠相望，自得靜中意。
-- 那知宋玉悲，肯灑楊朱淚。
-- 逍遙天地間，俯仰可無愧。
+- 百卉秋具腓，先隕惟梧桐。
+- 豈無貞潔者，獨立青霜中。
+- 艷艷籬下菊，青青嶺頭松。
+- 與君爲德友，相好永無窮。
 
 ## 拼音
 
-- chao2 lai2 qiu1 se4 gao1 ， xi1 shan1 you3 shuang3 qi4 。
-- kai1 xuan1 yuan3 xiang1 wang4 ， zi4 de2 jing4 zhong4 yi4 。
-- na4 zhi1 song4 yu4 bei1 ， ken3 sa3 yang2 zhu1 lei4 。
-- xiao1 yao2 tian1 di4 jian4 ， fu3 yang3 ke3 wu2 kui4 。
+- bai3 hui4 qiu1 ju4 fei2 ， xian1 yun3 wei2 wu2 tong2 。
+- qi3 wu2 zhen1 jie2 zhe3 ， du2 li4 qing1 shuang1 zhong1 。
+- yan4 yan4 li2 xia4 ju2 ， qing1 qing1 ling3 tou2 song1 。
+- yu3 jun1 wei2 de2 you3 ， xiang1 hao3 yong3 wu2 qiong2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ti-qing-sha-lian-er-zhen
 author: 秦南運
 authorPinyin: qin2 nan2 yun4
 authorSlug: qin-nan-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

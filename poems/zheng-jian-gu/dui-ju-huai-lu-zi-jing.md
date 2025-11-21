@@ -6,10 +6,10 @@ titleSlug: dui-ju-huai-lu-zi-jing
 author: 鄭建古
 authorPinyin: zheng4 jian4 gu3
 authorSlug: zheng-jian-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: li-zhi-yi-lu-xi-tian-she-shi-yu-sun-xiao-shi-er-shi-si-shou-qi-er
-title: 路西田舍示虞孫小詩二十四首  其二
-titlePinyin: lu4 xi1 tian2 she4 shi4 yu2 sun1 xiao3 shi1 er4 shi2 si4 shou3     qi2 er4
+title: 路西田舍示虞孫小詩二十四首  其二○
+titlePinyin: lu4 xi1 tian2 she4 shi4 yu2 sun1 xiao3 shi1 er4 shi2 si4 shou3     qi2 er4 ○
 titleSlug: lu-xi-tian-she-shi-yu-sun-xiao-shi-er-shi-si-shou-qi-er
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一春霖雨不曾休，雪雹驚人四月頭。
-- 初製單衣方待着，却添爐火換重裘。
+- 百事無能一老夫，十年江上把犁鋤。
+- 西莊南畝時來往，常得青山在坐隅。
 
 ## 拼音
 
-- yi4 chun1 lin2 yu3 bu4 ceng2 xiu1 ， xue3 bao2 jing1 ren2 si4 yue4 tou2 。
-- chu1 zhi4 dan1 yi1 fang1 dai4 zhe0 ， que4 tian1 lu2 huo3 huan4 zhong4 qiu2 。
+- bai3 shi4 wu2 neng2 yi4 lao3 fu1 ， shi2 nian2 jiang1 shang4 ba3 li2 chu2 。
+- xi1 zhuang1 nan2 mu3 shi2 lai2 wang3 ， chang2 de2 qing1 shan1 zai4 zuo4 yu2 。
 
 ## 注释
 

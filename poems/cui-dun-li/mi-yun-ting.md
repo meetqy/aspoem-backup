@@ -6,10 +6,10 @@ titleSlug: mi-yun-ting
 author: 崔敦禮
 authorPinyin: cui1 dun1 li3
 authorSlug: cui-dun-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

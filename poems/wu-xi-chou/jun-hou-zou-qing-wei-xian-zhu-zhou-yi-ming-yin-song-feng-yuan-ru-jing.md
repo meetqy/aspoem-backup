@@ -6,10 +6,10 @@ titleSlug: jun-hou-zou-qing-wei-xian-zhu-zhou-yi-ming-yin-song-feng-yuan-ru-jing
 author: 吳錫疇
 authorPinyin: wu2 xi1 chou2
 authorSlug: wu-xi-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

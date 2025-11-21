@@ -6,10 +6,10 @@ titleSlug: xin-kai-hu-shang-dai-qian-zhu-bu-chu-ou-shu-xi-sun-shen-lao-er-shou-q
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

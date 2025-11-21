@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-song-shi-xuan-tan-qi-yi
-title: 頌十玄談  其一
-titlePinyin: song4 shi2 xuan2 tan2     qi2 yi1
+title: 頌十玄談  其一○
+titlePinyin: song4 shi2 xuan2 tan2     qi2 yi1 ○
 titleSlug: song-shi-xuan-tan-qi-yi
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心心，非不心，未得印時生死侵。
-- 除非一搭無纖翳，六道皆標我相形。
+- 一一，恰似太虛經鳥跡。
+- 色即是空空不空，度日長吹無孔笛。
 
 ## 拼音
 
-- xin1 xin1 ， fei1 bu4 xin1 ， wei4 de2 yin4 shi2 sheng1 si3 qin1 。
-- chu2 fei1 yi4 da1 wu2 xian1 yi4 ， liu4 dao4 jie1 biao1 wo3 xiang1 xing2 。
+- yi1 yi1 ， qia4 si4 tai4 xu1 jing1 niao3 ji4 。
+- se4 ji2 shi4 kong1 kong1 bu0 kong1 ， du4 ri4 chang2 chui1 wu2 kong3 di2 。
 
 ## 注释
 

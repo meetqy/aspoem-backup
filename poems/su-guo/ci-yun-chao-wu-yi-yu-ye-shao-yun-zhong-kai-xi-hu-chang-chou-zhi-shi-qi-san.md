@@ -6,10 +6,10 @@ titleSlug: ci-yun-chao-wu-yi-yu-ye-shao-yun-zhong-kai-xi-hu-chang-chou-zhi-shi-q
 author: 蘇過
 authorPinyin: su1 guo4
 authorSlug: su-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

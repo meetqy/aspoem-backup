@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陸惟忠
 authorPinyin: lu4 wei2 zhong1
 authorSlug: lu-wei-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

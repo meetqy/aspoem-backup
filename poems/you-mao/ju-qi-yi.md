@@ -1,24 +1,24 @@
 ---
 id: you-mao-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 尤袤
 authorPinyin: you2 mao4
 authorSlug: you-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胸中襞積千般事，到得相逢一語無。
+- 寒窗莫怪吟聲苦，舉室長懸似細腰。
 
 ## 拼音
 
-- xiong1 zhong1 bi4 ji1 qian1 ban1 shi4 ， dao4 de2 xiang1 feng2 yi4 yu3 wu2 。
+- han2 chuang1 mo4 guai4 yin2 sheng1 ku3 ， ju3 shi4 chang2 xuan2 si4 xi4 yao1 。
 
 ## 注释
 

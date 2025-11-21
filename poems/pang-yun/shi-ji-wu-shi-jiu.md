@@ -9,22 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我是凡夫身，樂說真如理。
-- 爲性不慳貪，常行平等施。
-- 凡夫事有爲，佛智超生死。
-- 作佛作凡夫，一切自繇你。
+- 世人愛假不愛真，世人憐富却憎貧。
+- 唯敬三塗八不淨，背却如來妙色身。
 
 ## 拼音
 
-- wo3 shi4 fan2 fu1 shen1 ， le4 shuo1 zhen1 ru2 li3 。
-- wei2 xing4 bu4 qian1 tan1 ， chang2 xing2 ping2 deng3 shi1 。
-- fan2 fu1 shi4 you3 wei2 ， fo2 zhi4 chao1 sheng1 si3 。
-- zuo4 fo2 zuo4 fan2 fu1 ， yi2 qie4 zi4 yao2 ni3 。
+- shi4 ren2 ai4 jia3 bu2 ai4 zhen1 ， shi4 ren2 lian2 fu4 que4 zeng1 pin2 。
+- wei2 jing4 san1 tu2 ba1 bu2 jing4 ， bei4 que4 ru2 lai2 miao4 se4 shen1 。
 
 ## 注释
 

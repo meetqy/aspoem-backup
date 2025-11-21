@@ -6,21 +6,21 @@ titleSlug: mei
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 默坐觀書久不言，爲梅驅我到詩邊。
-- 月明孤影瘦如畵，曉起數枝清欲仙。
+- 斷橋斜路水聲平，茅舍疏籬月色新。
+- 千里故人如念我，不妨早寄一枝春。
 
 ## 拼音
 
-- mo4 zuo4 guan1 shu1 jiu3 bu4 yan2 ， wei2 mei2 qu1 wo3 dao4 shi1 bian1 。
-- yue4 ming2 gu1 ying3 shou4 ru2 hua4 ， xiao3 qi3 shu4 zhi1 qing1 yu4 xian1 。
+- duan4 qiao2 xie2 lu4 shui3 sheng1 ping2 ， mao2 she4 shu1 li2 yue4 se4 xin1 。
+- qian1 li3 gu4 ren2 ru2 nian4 wo3 ， bu4 fang2 zao3 ji4 yi4 zhi1 chun1 。
 
 ## 注释
 

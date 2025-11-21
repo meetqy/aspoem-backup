@@ -6,10 +6,10 @@ titleSlug: ti-mei-shan-yun-yue-lou
 author: 王時彥
 authorPinyin: wang2 shi2 yan4
 authorSlug: wang-shi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

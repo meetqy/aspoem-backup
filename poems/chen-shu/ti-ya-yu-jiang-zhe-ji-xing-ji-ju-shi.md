@@ -6,10 +6,10 @@ titleSlug: ti-ya-yu-jiang-zhe-ji-xing-ji-ju-shi
 author: 陳書𥩝
 authorPinyin: chen2 shu1 𥩝
 authorSlug: chen-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

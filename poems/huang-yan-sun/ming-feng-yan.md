@@ -6,10 +6,10 @@ titleSlug: ming-feng-yan
 author: 黄巖孫
 authorPinyin: huang2 yan2 sun1
 authorSlug: huang-yan-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

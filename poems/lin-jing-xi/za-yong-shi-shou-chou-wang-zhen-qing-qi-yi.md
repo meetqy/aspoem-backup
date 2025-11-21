@@ -1,32 +1,32 @@
 ---
 id: lin-jing-xi-za-yong-shi-shou-chou-wang-zhen-qing-qi-yi
-title: 雜詠十首酬汪鎮卿  其一
-titlePinyin: za2 yong3 shi2 shou3 chou2 wang1 zhen4 qing1     qi2 yi1
+title: 雜詠十首酬汪鎮卿  其一○
+titlePinyin: za2 yong3 shi2 shou3 chou2 wang1 zhen4 qing1     qi2 yi1 ○
 titleSlug: za-yong-shi-shou-chou-wang-zhen-qing-qi-yi
 author: 林景熙
 authorPinyin: lin2 jing3 xi1
 authorSlug: lin-jing-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 踆烏不停飛，歛景下蒙谷。
-- 征途險在前，而况車折軸。
-- 夸父追羲和，欲挽丹砂轂。
-- 意遠力不任，化作鄧林木。
-- 漫漫夜何如，長歌飯觳觫。
+- 權臣坐偃月，棄官如飄蓬。
+- 及茲顛沛秋，翻然挺孤忠。
+- 一死未得所，網羅挂秋鴻。
+- 渡淮已不食，蛻槁夷齊風。
+- 何人續遷史，表爲節義雄。
 
 ## 拼音
 
-- cun1 wu1 bu4 ting2 fei1 ， lian3 jing3 xia4 meng2 gu3 。
-- zheng1 tu2 xian3 zai4 qian2 ， er2 kuang4 ju1 zhe2 zhou2 。
-- kua1 fu4 zhui1 xi1 he2 ， yu4 wan3 dan1 sha1 gu3 。
-- yi4 yuan3 li4 bu2 ren4 ， hua4 zuo4 deng4 lin2 mu4 。
-- man4 man4 ye4 he2 ru2 ， chang2 ge1 fan4 hu2 su4 。
+- quan2 chen2 zuo4 yan3 yue4 ， qi4 guan1 ru2 piao1 peng2 。
+- ji2 zi1 dian1 pei4 qiu1 ， fan1 ran2 ting3 gu1 zhong1 。
+- yi4 si3 wei4 de2 suo3 ， wang3 luo2 gua4 qiu1 hong2 。
+- du4 huai2 yi3 bu4 shi2 ， tui4 gao3 yi2 qi2 feng1 。
+- he2 ren2 xu4 qian1 shi3 ， biao3 wei2 jie2 yi4 xiong2 。
 
 ## 注释
 

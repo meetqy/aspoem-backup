@@ -6,10 +6,10 @@ titleSlug: fang-wu
 author: 晏乂
 authorPinyin: yan4 yi4
 authorSlug: yan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zi-song
 author: 孟珙
 authorPinyin: meng4 gong3
 authorSlug: meng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ye-zhu-fu-zi-ci
 author: 林天瑞
 authorPinyin: lin2 tian1 rui4
 authorSlug: lin-tian-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

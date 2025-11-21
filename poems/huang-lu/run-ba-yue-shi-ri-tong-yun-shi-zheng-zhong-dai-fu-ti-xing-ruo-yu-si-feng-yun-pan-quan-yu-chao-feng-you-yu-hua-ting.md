@@ -6,10 +6,10 @@ titleSlug: run-ba-yue-shi-ri-tong-yun-shi-zheng-zhong-dai-fu-ti-xing-ruo-yu-si-f
 author: 黄履
 authorPinyin: huang2 lü3
 authorSlug: huang-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

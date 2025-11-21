@@ -6,10 +6,10 @@ titleSlug: yong-wen-bi-shan
 author: 高夢月
 authorPinyin: gao1 meng4 yue4
 authorSlug: gao-meng-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,33 @@ titleSlug: hu-gong-ci-da-shu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 若人既羽化，伊樹亦千年。
-- 委幹龍蛇蟄，交陰孔翠鮮。
-- 流光駒過隙，浮世海成田。
-- 信有壺中藥，能移物外天。
-- 真游藐何許，神理信茫然。
-- 會見遼東鶴，悲歌感市廛。
+- 壺公飛昇向千歲，茲樹懸壺今尚在。
+- 繁根鬰屈蟠蛟龍，冗幹呺嚎作天籟。
+- 樛枝入土又旁出，四面童童若車蓋。
+- 大鈞播物信容易，父老相傳謾驚駭。
+- 孔明廟前千丈栢，老子庭中左紐檜。
+- 天資正直本當壽，地養堅強自宜大。
+- 嗟爾朽質名弗聞，雖能所生世何賴。
+- 雷霆不及斤斧遺，但恐狐貍假爲怪。
 
 ## 拼音
 
-- ruo4 ren2 ji4 yu3 hua4 ， yi1 shu4 yi4 qian1 nian2 。
-- wei3 gan4 long2 she2 zhe2 ， jiao1 yin1 kong3 cui4 xian1 。
-- liu2 guang1 ju1 guo4 xi4 ， fu2 shi4 hai3 cheng2 tian2 。
-- xin4 you3 hu2 zhong1 yao4 ， neng2 yi2 wu4 wai4 tian1 。
-- zhen1 you2 miao3 he2 xu1 ， shen2 li3 xin4 mang2 ran2 。
-- hui4 jian4 liao2 dong1 he4 ， bei1 ge1 gan3 shi4 chan2 。
+- hu2 gong1 fei1 sheng1 xiang4 qian1 sui4 ， zi1 shu4 xuan2 hu2 jin1 shang4 zai4 。
+- fan2 gen1 yu4 qu1 pan2 jiao1 long2 ， rong3 gan4 hao2 hao2 zuo4 tian1 lai4 。
+- jiu1 zhi1 ru4 tu3 you4 pang2 chu1 ， si4 mian4 tong2 tong2 ruo4 ju1 gai4 。
+- da4 jun1 bo1 wu4 xin4 rong2 yi4 ， fu4 lao3 xiang1 chuan2 man2 jing1 hai4 。
+- kong3 ming2 miao4 qian2 qian1 zhang4 bai3 ， lao3 zi3 ting2 zhong1 zuo3 niu3 gui4 。
+- tian1 zi1 zheng4 zhi2 ben3 dang1 shou4 ， di4 yang3 jian1 qiang2 zi4 yi2 da4 。
+- jie1 er3 xiu3 zhi4 ming2 fu2 wen2 ， sui1 neng2 suo3 sheng1 shi4 he2 lai4 。
+- lei2 ting2 bu4 ji2 jin1 fu3 yi2 ， dan4 kong3 hu2 li2 jia3 wei2 guai4 。
 
 ## 注释
 

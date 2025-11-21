@@ -6,25 +6,25 @@ titleSlug: he-ren-sheng-sun
 author: 卓田
 authorPinyin: zhuo2 tian2
 authorSlug: zhuo-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蘭蓀秀茁謝庭初，善積五教慶有餘。
-- 此子異時□跨竈，乃翁今日驗充閭。
-- 懷中玉燕夢符說，天上石麟祥應徐。
-- 未得踵門索啼看，先投林甫弄麞書。
+- 德積千門後必昌，孫枝此日果儲祥。
+- 休誇注水生麒驥，自度丹山産鳳凰。
+- 蓬矢桑弧今已舉，犀錢玉果孰能忘。
+- 寒荄久荷沾濡賜，更藉春風爲發揚。
 
 ## 拼音
 
-- lan2 sun1 xiu4 zhuo2 xie4 ting2 chu1 ， shan4 ji1 wu3 jiao4 qing4 you3 yu2 。
-- ci3 zi3 yi4 shi2 □ kua4 zao4 ， nai3 weng1 jin1 ri4 yan4 chong1 lü2 。
-- huai2 zhong1 yu4 yan4 meng4 fu2 shuo1 ， tian1 shang4 shi2 lin2 xiang2 ying1 xu2 。
-- wei4 de2 zhong3 men2 suo3 ti2 kan4 ， xian1 tou2 lin2 fu3 nong4 zhang1 shu1 。
+- de2 ji1 qian1 men2 hou4 bi4 chang1 ， sun1 zhi1 ci3 ri4 guo3 chu3 xiang2 。
+- xiu1 kua1 zhu4 shui3 sheng1 qi2 ji4 ， zi4 du4 dan1 shan1 chan3 feng4 huang2 。
+- peng2 shi3 sang1 hu2 jin1 yi3 ju3 ， xi1 qian2 yu4 guo3 shu2 neng2 wang4 。
+- han2 gai1 jiu3 he2 zhan1 ru2 ci4 ， geng4 jie4 chun1 feng1 wei2 fa1 yang2 。
 
 ## 注释
 

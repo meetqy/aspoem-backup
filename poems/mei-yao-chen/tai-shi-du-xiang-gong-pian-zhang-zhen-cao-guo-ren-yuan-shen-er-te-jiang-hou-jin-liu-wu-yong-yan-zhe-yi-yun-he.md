@@ -6,10 +6,10 @@ titleSlug: tai-shi-du-xiang-gong-pian-zhang-zhen-cao-guo-ren-yuan-shen-er-te-jia
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

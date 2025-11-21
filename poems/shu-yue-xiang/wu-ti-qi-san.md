@@ -6,21 +6,21 @@ titleSlug: wu-ti-qi-san
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠樹陰中春雨過，乳鴉聲裏曉寒生。
-- 紙衾木枕清如水，暗想山城又殺更。
+- 杏花寒氣退三舍，柳絮春光減二分。
+- 簾外遊絲飛冉冉，窗間野馬走紛紛。
 
 ## 拼音
 
-- lü4 shu4 yin1 zhong1 chun1 yu3 guo4 ， ru3 ya1 sheng1 li3 xiao3 han2 sheng1 。
-- zhi3 qin1 mu4 zhen3 qing1 ru2 shui3 ， an4 xiang3 shan1 cheng2 you4 sha1 geng4 。
+- xing4 hua1 han2 qi4 tui4 san1 she4 ， liu3 xu4 chun1 guang1 jian3 er4 fen1 。
+- lian2 wai4 you2 si1 fei1 ran3 ran3 ， chuang1 jian4 ye3 ma3 zou3 fen1 fen1 。
 
 ## 注释
 

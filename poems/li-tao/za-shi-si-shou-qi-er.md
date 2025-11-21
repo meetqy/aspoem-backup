@@ -6,9 +6,9 @@ titleSlug: za-shi-si-shou-qi-er
 author: 李濤
 authorPinyin: li3 tao1
 authorSlug: li-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

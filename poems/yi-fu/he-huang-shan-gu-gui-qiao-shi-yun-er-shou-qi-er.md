@@ -6,10 +6,10 @@ titleSlug: he-huang-shan-gu-gui-qiao-shi-yun-er-shou-qi-er
 author: 易祓
 authorPinyin: yi4 fu2
 authorSlug: yi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

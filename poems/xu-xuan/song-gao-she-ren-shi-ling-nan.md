@@ -14,8 +14,8 @@ tags: []
 
 ## 正文
 
-- 西掖官曹近，南溟道路遥。
-- 使星將渡漢，仙掌乍乘潮。
+- 西掖官曹近，南溟道路遙。
+- 使星將渡漢，仙櫂乍乘潮。
 - 柳映靈和折，梅依大庾飄。
 - 江帆風淅淅，山館雨蕭蕭。
 - 陸賈真迂闊，終童久寂寥。
@@ -24,7 +24,7 @@ tags: []
 ## 拼音
 
 - xi1 ye4 guan1 cao2 jin4 ， nan2 ming2 dao4 lu4 yao2 。
-- shi3 xing1 jiang1 du4 han4 ， xian1 zhang3 zha4 cheng2 chao2 。
+- shi3 xing1 jiang1 du4 han4 ， xian1 zhao4 zha4 cheng2 chao2 。
 - liu3 ying4 ling2 he2 zhe2 ， mei2 yi1 da4 yu3 piao1 。
 - jiang1 fan1 feng1 xi1 xi1 ， shan1 guan3 yu3 xiao1 xiao1 。
 - lu4 jia3 zhen1 yu1 kuo4 ， zhong1 tong2 jiu3 ji4 liao2 。

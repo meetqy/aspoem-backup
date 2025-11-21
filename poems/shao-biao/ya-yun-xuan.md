@@ -6,9 +6,9 @@ titleSlug: ya-yun-xuan
 author: 邵彪
 authorPinyin: shao4 biao1
 authorSlug: shao-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

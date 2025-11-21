@@ -6,21 +6,21 @@ titleSlug: za-yong-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石犀廟壖江已回，陵谷一變吁可哀。
-- 即今禾黍連雲處，當日帆檣隐映來。
+- 得過一日且一日，安知今吾非故吾。
+- 袖手明窗讀周易，不辜香飯一齋盂。
 
 ## 拼音
 
-- shi2 xi1 miao4 ruan2 jiang1 yi3 hui2 ， ling2 gu3 yi2 bian4 xu1 ke3 ai1 。
-- ji2 jin1 he2 shu3 lian2 yun2 chu3 ， dang1 ri4 fan1 qiang2 yin3 ying4 lai2 。
+- de2 guo4 yi2 ri4 qie3 yi2 ri4 ， an1 zhi1 jin1 wu2 fei1 gu4 wu2 。
+- xiu4 shou3 ming2 chuang1 du2 zhou1 yi4 ， bu4 gu1 xiang1 fan4 yi4 zhai1 yu2 。
 
 ## 注释
 

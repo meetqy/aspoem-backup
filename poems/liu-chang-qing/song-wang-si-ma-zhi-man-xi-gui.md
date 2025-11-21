@@ -9,17 +9,17 @@ authorSlug: liu-chang-qing
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢主何時放逐臣？江邊幾度送歸人。
+- 漢代何人訪逐臣，江邊幾度送歸人。
 - 同官歲歲先辭滿，唯有青山伴老身。
 
 ## 拼音
 
-- han4 zhu3 he2 shi2 fang4 zhu2 chen2 ？ jiang1 bian1 ji1 du4 song4 gui1 ren2 。
+- han4 dai4 he2 ren2 fang3 zhu2 chen2 ， jiang1 bian1 ji1 du4 song4 gui1 ren2 。
 - tong2 guan1 sui4 sui4 xian1 ci2 man3 ， wei2 you3 qing1 shan1 ban4 lao3 shen1 。
 
 ## 注释

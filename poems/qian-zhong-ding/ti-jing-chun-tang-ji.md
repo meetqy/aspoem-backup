@@ -6,10 +6,10 @@ titleSlug: ti-jing-chun-tang-ji
 author: 錢仲鼎
 authorPinyin: qian2 zhong4 ding3
 authorSlug: qian-zhong-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

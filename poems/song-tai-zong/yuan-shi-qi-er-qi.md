@@ -6,25 +6,25 @@ titleSlug: yuan-shi-qi-er-qi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 世途含萬象，稽古便知今。
-- 大樹垂清影，如花耀碧岑。
-- 虛勞空自白，德行勝黄金。
-- 有過而能改，無爲積善深。
+- 春風綠野徧天地，枯朽漸隨紅日麗。
+- 世界包含雨露新，東郊舒暢芳菲媚。
+- 煙波柳嫩摇拂水，時遷蕩颺情已矣。
+- 不言往昔與今來，海岳高深升萬里。
 
 ## 拼音
 
-- shi4 tu2 han2 wan4 xiang4 ， ji1 gu3 bian4 zhi1 jin1 。
-- da4 shu4 chui2 qing1 ying3 ， ru2 hua1 yao4 bi4 cen2 。
-- xu1 lao2 kong1 zi4 bai2 ， de2 xing2 sheng4 huang2 jin1 。
-- you3 guo4 er2 neng2 gai3 ， wu2 wei2 ji1 shan4 shen1 。
+- chun1 feng1 lü4 ye3 bian4 tian1 di4 ， ku1 xiu3 jian4 sui2 hong2 ri4 li2 。
+- shi4 jie4 bao1 han2 yu3 lu4 xin1 ， dong1 jiao1 shu1 chang4 fang1 fei1 mei4 。
+- yan1 bo1 liu3 nen4 yao2 fu2 shui3 ， shi2 qian1 dang4 yang2 qing2 yi3 yi3 。
+- bu4 yan2 wang3 xi1 yu3 jin1 lai2 ， hai3 yue4 gao1 shen1 sheng1 wan4 li3 。
 
 ## 注释
 

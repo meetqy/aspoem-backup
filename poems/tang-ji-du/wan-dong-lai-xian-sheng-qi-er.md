@@ -6,10 +6,10 @@ titleSlug: wan-dong-lai-xian-sheng-qi-er
 author: 唐季度
 authorPinyin: tang2 ji4 du4
 authorSlug: tang-ji-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

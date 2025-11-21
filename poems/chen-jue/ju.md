@@ -3,22 +3,22 @@ id: chen-jue-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳桷
+author: 陳玨
 authorPinyin: chen2 jue2
 authorSlug: chen-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 神仙多是大羅客，我比大羅超一格。
+- 石洞雲歸春雨足，海門月上夜潮生。
 
 ## 拼音
 
-- shen2 xian1 duo1 shi4 da4 luo2 ke4 ， wo3 bi3 da4 luo2 chao1 yi1 ge2 。
+- shi2 dong4 yun2 gui1 chun1 yu3 zu2 ， hai3 men2 yue4 shang4 ye4 chao2 sheng1 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-gong-ci-qi-liu
-title: 宮詞  其六
-titlePinyin: gong1 ci2     qi2 liu4
+title: 宮詞  其六○
+titlePinyin: gong1 ci2     qi2 liu4 ○
 titleSlug: gong-ci-qi-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春工先與上林芳，迎歲紅梅破臘香。
-- 才過閣門分曲檻，弄晴繁蘂麗如糚。
+- 小雨飛輕助燕泥，萬花零落柳垂隄。
+- 紫清宮裏人稀到，廊外雙雙孔雀棲。
 
 ## 拼音
 
-- chun1 gong1 xian1 yu3 shang4 lin2 fang1 ， ying2 sui4 hong2 mei2 po4 la4 xiang1 。
-- cai2 guo4 ge2 men2 fen1 qu3 jian4 ， nong4 qing2 fan2 rui3 li2 ru2 zhuang1 。
+- xiao3 yu3 fei1 qing1 zhu4 yan4 ni2 ， wan4 hua1 ling2 luo4 liu3 chui2 di1 。
+- zi3 qing1 gong1 li3 ren2 xi1 dao4 ， lang2 wai4 shuang1 shuang1 kong3 que4 qi1 。
 
 ## 注释
 

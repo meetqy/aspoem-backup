@@ -6,10 +6,10 @@ titleSlug: jun-zhong-hang
 author: 陳宗傳
 authorPinyin: chen2 zong1 chuan2
 authorSlug: chen-zong-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

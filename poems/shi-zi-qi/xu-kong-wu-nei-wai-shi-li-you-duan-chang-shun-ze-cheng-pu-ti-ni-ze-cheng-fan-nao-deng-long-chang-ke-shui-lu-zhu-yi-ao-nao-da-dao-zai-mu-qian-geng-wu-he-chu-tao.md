@@ -6,10 +6,10 @@ titleSlug: xu-kong-wu-nei-wai-shi-li-you-duan-chang-shun-ze-cheng-pu-ti-ni-ze-ch
 author: 釋子琦
 authorPinyin: shi4 zi3 qi2
 authorSlug: shi-zi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

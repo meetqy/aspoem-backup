@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 馬師瞎卻亮師眼，一入西山更不返。
-- 我有二十二藤條，寄與山中這擔板。
+- 宗師一等把宗綱，魯祖垂慈太著忙。
+- 璞玉渾金雖定價，往來多是不相當。
 
 ## 拼音
 
-- ma3 shi1 xia1 que4 liang4 shi1 yan3 ， yi2 ru4 xi1 shan1 geng4 bu4 fan3 。
-- wo3 you3 er4 shi2 er4 teng2 tiao2 ， ji4 yu3 shan1 zhong1 zhe4 dan1 ban3 。
+- zong1 shi1 yi4 deng3 ba3 zong1 gang1 ， lu3 zu3 chui2 ci2 tai4 zhu4 mang2 。
+- pu2 yu4 hun2 jin1 sui1 ding4 jia4 ， wang3 lai2 duo1 shi4 bu4 xiang1 dang1 。
 
 ## 注释
 

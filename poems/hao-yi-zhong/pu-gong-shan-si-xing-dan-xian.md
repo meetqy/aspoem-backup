@@ -6,10 +6,10 @@ titleSlug: pu-gong-shan-si-xing-dan-xian
 author: 郝以中
 authorPinyin: hao3 yi3 zhong1
 authorSlug: hao-yi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,37 +6,25 @@ titleSlug: da-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北風挾驕雲，突起塞宇宙。
-- 赫日初未西，盼轉失白晝。
-- 翻空黑幟合，列陣奇鬼鬭。
-- 雨鏃飛縱橫，雷車助奔驟。
-- 平階水入戶，溝瀆不能受。
-- 對面語不聞，持繖避屋漏。
-- 兒童抱圖書，衣屨那暇救。
-- 縱暴理豈長，忽已收簷霤。
-- 比鄰更相勞，捃拾如過寇。
-- 老子獨癡頑，長歌對醇酎。
+- 萬壑風聲遠，千林雨脚長。
+- 溝盈懸爨竈，屋漏徙衣囊。
+- 未說豐年喜，先便永夜凉。
+- 清秋病小愈，起柁上瀟湘。
 
 ## 拼音
 
-- bei3 feng1 xie2 jiao1 yun2 ， tu1 qi3 sai1 yu3 zhou4 。
-- he4 ri4 chu1 wei4 xi1 ， pan4 zhuan3 shi1 bai2 zhou4 。
-- fan1 kong1 hei1 zhi4 he2 ， lie4 zhen4 qi2 gui3 dou4 。
-- yu3 zu2 fei1 zong4 heng2 ， lei2 ju1 zhu4 ben1 zhou4 。
-- ping2 jie1 shui3 ru4 hu4 ， gou1 du2 bu4 neng2 shou4 。
-- dui4 mian4 yu3 bu4 wen2 ， chi2 san3 bi4 wu1 lou4 。
-- er2 tong2 bao4 tu2 shu1 ， yi1 ju4 na4 xia2 jiu4 。
-- zong4 bao4 li3 qi3 chang2 ， hu1 yi3 shou1 yan2 liu4 。
-- bi3 lin2 geng4 xiang1 lao2 ， jun4 shi2 ru2 guo4 kou4 。
-- lao3 zi3 du2 chi1 wan2 ， chang2 ge1 dui4 chun2 zhou4 。
+- wan4 he4 feng1 sheng1 yuan3 ， qian1 lin2 yu3 jiao3 chang2 。
+- gou1 ying2 xuan2 cuan4 zao4 ， wu1 lou4 xi3 yi1 nang2 。
+- wei4 shuo1 feng1 nian2 xi3 ， xian1 bian4 yong3 ye4 liang2 。
+- qing1 qiu1 bing4 xiao3 yu4 ， qi3 tuo2 shang4 xiao1 xiang1 。
 
 ## 注释
 

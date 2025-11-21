@@ -6,10 +6,10 @@ titleSlug: shao-qing-yang-gong-ya-xi-shi-zuo-ju-shan-you-dong-nan-zhi-xiu-jia-lo
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

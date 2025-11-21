@@ -6,10 +6,10 @@ titleSlug: zi-yun-jing-lue-wu-ji-shi-men-dong
 author: 杜于能
 authorPinyin: du4 yu2 neng2
 authorSlug: du-yu-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

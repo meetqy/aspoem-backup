@@ -6,9 +6,9 @@ titleSlug: song-qian-xia-guan-shi-wang-gong
 author: 程戡
 authorPinyin: cheng2 kan1
 authorSlug: cheng-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

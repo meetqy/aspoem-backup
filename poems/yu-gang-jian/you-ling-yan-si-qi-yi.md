@@ -6,10 +6,10 @@ titleSlug: you-ling-yan-si-qi-yi
 author: 虞剛簡
 authorPinyin: yu2 gang1 jian3
 authorSlug: yu-gang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

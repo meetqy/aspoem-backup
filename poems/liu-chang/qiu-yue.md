@@ -6,35 +6,25 @@ titleSlug: qiu-yue
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暮歸欲投息，明月强我行。
-- 越陌復度阡，古人知此情。
-- 叩門童奴走，升堂兒女驚。
-- 呼酒徑就醉，益復招友生。
-- 不可不與飲，子真勝公榮。
-- 顧聞四壁間，絲竹金石聲。
-- 此非孔子居，那得爾鏗轟。
-- 夜闌興不盡，積雲解我醒。
-- 噫嘻王子猷，浪得千載名。
+- 蟾光瑩碧墀，天色凍琉璃。
+- 市響新晴後，風和欲暖時。
+- 杉松冷岑寂，樓殿黑参差。
+- 静者非無趣，長吹遺所思。
 
 ## 拼音
 
-- mu4 gui1 yu4 tou2 xi1 ， ming2 yue4 qiang2 wo3 xing2 。
-- yue4 mo4 fu4 du4 qian1 ， gu3 ren2 zhi1 ci3 qing2 。
-- kou4 men2 tong2 nu2 zou3 ， sheng1 tang2 er2 nü3 jing1 。
-- hu1 jiu3 jing4 jiu4 zui4 ， yi4 fu4 zhao1 you3 sheng1 。
-- bu4 ke3 bu4 yu3 yin3 ， zi3 zhen1 sheng4 gong1 rong2 。
-- gu4 wen2 si4 bi4 jian4 ， si1 zhu2 jin1 shi2 sheng1 。
-- ci3 fei1 kong3 zi3 ju1 ， na4 de2 er3 keng1 hong1 。
-- ye4 lan2 xing1 bu2 jin4 ， ji1 yun2 jie3 wo3 xing3 。
-- yi1 xi1 wang2 zi3 you2 ， lang4 de2 qian1 zai4 ming2 。
+- chan2 guang1 ying2 bi4 chi2 ， tian1 se4 dong4 liu2 li2 。
+- shi4 xiang3 xin1 qing2 hou4 ， feng1 he2 yu4 nuan3 shi2 。
+- shan1 song1 leng3 cen2 ji4 ， lou2 dian4 hei1 cen1 ci1 。
+- jing4 zhe3 fei1 wu2 qu4 ， chang2 chui1 yi2 suo3 si1 。
 
 ## 注释
 

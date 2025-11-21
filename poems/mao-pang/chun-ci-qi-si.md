@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-si
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 精華初結紐，璧水再逢春。
-- 杞梓扶疏見，君王自作新。
+- 天光地氣與年新，不覺人間一物陳。
+- 初令雷霆端有信，舊餘霰雪敢無垠。
 
 ## 拼音
 
-- jing1 hua2 chu1 jie2 niu3 ， bi4 shui3 zai4 feng2 chun1 。
-- qi3 zi3 fu2 shu1 jian4 ， jun1 wang2 zi4 zuo4 xin1 。
+- tian1 guang1 di4 qi4 yu3 nian2 xin1 ， bu4 jue2 ren2 jian4 yi2 wu4 chen2 。
+- chu1 ling4 lei2 ting2 duan1 you3 xin4 ， jiu4 yu2 xian4 xue3 gan3 wu2 yin2 。
 
 ## 注释
 

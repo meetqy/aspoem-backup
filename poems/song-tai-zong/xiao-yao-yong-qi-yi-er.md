@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-yi-er
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 乾坤常運轉，兀兀見衆生。
-- 利物終相應，施爲願要精。
-- 身慵何隠遁，舌辯謾縱橫。
-- 種性歸真理，因緣有重輕。
+- 神水華池妙更精，非鉛非汞妄干名。
+- 河車本是延齡藥，戊子從教配類成。
+- 朱雀坎蛇安在後，青龍白虎免交爭。
+- 若使真金全二八，何憂住世不長生。
 
 ## 拼音
 
-- qian2 kun1 chang2 yun4 zhuan3 ， wu4 wu4 jian4 zhong4 sheng1 。
-- li4 wu4 zhong1 xiang1 ying1 ， shi1 wei2 yuan4 yao4 jing1 。
-- shen1 yong1 he2 yin3 dun4 ， she2 bian4 man2 zong4 heng2 。
-- zhong3 xing4 gui1 zhen1 li3 ， yin1 yuan2 you3 zhong4 qing1 。
+- shen2 shui3 hua2 chi2 miao4 geng4 jing1 ， fei1 qian1 fei1 gong3 wang4 gan1 ming2 。
+- he2 ju1 ben3 shi4 yan2 ling2 yao4 ， wu4 zi3 cong2 jiao4 pei4 lei4 cheng2 。
+- zhu1 que4 kan3 she2 an1 zai4 hou4 ， qing1 long2 bai2 hu3 mian3 jiao1 zheng1 。
+- ruo4 shi3 zhen1 jin1 quan2 er4 ba1 ， he2 you1 zhu4 shi4 bu4 chang2 sheng1 。
 
 ## 注释
 

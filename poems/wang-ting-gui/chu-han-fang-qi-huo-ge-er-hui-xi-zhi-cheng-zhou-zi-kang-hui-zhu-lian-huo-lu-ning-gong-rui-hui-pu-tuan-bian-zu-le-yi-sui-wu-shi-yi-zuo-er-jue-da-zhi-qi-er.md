@@ -6,10 +6,10 @@ titleSlug: chu-han-fang-qi-huo-ge-er-hui-xi-zhi-cheng-zhou-zi-kang-hui-zhu-lian-
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

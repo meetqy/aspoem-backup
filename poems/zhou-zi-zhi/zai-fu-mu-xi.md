@@ -6,25 +6,25 @@ titleSlug: zai-fu-mu-xi
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 新詩幾欲賦幽姿，才淺真慚禿角犀。
-- 未可便教金粟盡，直須看到玉蟾低。
-- 風吹香去天誰管，花趁人來我自攜。
-- 不對此郎時一醉，空令墓上掲征西。
+- 尋香剪得耐寒枝，不羨腰圍寶带犀。
+- 塘桂自應同臭味，巖花未可較高低。
+- 秋風易老空成恨，佳客無人莫漫攜。
+- 挽取芳條供燕坐，絕勝騎馬號安西。
 
 ## 拼音
 
-- xin1 shi1 ji1 yu4 fu4 you1 zi1 ， cai2 qian3 zhen1 can2 tu1 jiao3 xi1 。
-- wei4 ke3 bian4 jiao4 jin1 su4 jin4 ， zhi2 xu1 kan4 dao4 yu4 chan2 di1 。
-- feng1 chui1 xiang1 qu4 tian1 shui2 guan3 ， hua1 chen4 ren2 lai2 wo3 zi4 xie2 。
-- bu2 dui4 ci3 lang2 shi2 yi2 zui4 ， kong1 ling4 mu4 shang4 jie1 zheng1 xi1 。
+- xun2 xiang1 jian3 de2 nai4 han2 zhi1 ， bu2 xian4 yao1 wei2 bao3 dai4 xi1 。
+- tang2 gui4 zi4 ying1 tong2 chou4 wei4 ， yan2 hua1 wei4 ke3 jiao4 gao1 di1 。
+- qiu1 feng1 yi4 lao3 kong1 cheng2 hen4 ， jia1 ke4 wu2 ren2 mo4 man4 xie2 。
+- wan3 qu3 fang1 tiao2 gong4 yan4 zuo4 ， jue2 sheng4 qi2 ma3 hao4 an1 xi1 。
 
 ## 注释
 

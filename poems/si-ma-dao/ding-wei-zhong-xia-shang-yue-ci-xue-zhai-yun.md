@@ -6,10 +6,10 @@ titleSlug: ding-wei-zhong-xia-shang-yue-ci-xue-zhai-yun
 author: 司馬道
 authorPinyin: si1 ma3 dao4
 authorSlug: si-ma-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

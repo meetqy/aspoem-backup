@@ -6,10 +6,10 @@ titleSlug: song-wang-meng-tong-guan-huang-yan-jian-wang-jian-qing-shi-lang
 author: 陳謙
 authorPinyin: chen2 qian1
 authorSlug: chen-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

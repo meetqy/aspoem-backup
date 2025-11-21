@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 杏綠桃緋一片春，後庭花卉盡坤珍。
-- 鞦韆峻架臨芳徑，須信韶光每歲新。
+- 機杼年來入禁垣，素絲初織未成端。
+- 遍呼御府令均玩，方識農家力最難。
 
 ## 拼音
 
-- xing4 lü4 tao2 fei1 yi2 pian4 chun1 ， hou4 ting2 hua1 hui4 jin4 kun1 zhen1 。
-- qiu1 qian1 jun4 jia4 lin2 fang1 jing4 ， xu1 xin4 shao2 guang1 mei3 sui4 xin1 。
+- ji1 zhu4 nian2 lai2 ru4 jin4 yuan2 ， su4 si1 chu1 zhi1 wei4 cheng2 duan1 。
+- bian4 hu1 yu4 fu3 ling4 jun1 wan2 ， fang1 shi2 nong2 jia1 li4 zui4 nan2 。
 
 ## 注释
 

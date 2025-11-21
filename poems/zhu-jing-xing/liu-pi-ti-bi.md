@@ -6,10 +6,10 @@ titleSlug: liu-pi-ti-bi
 author: 朱景行
 authorPinyin: zhu1 jing3 xing2
 authorSlug: zhu-jing-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

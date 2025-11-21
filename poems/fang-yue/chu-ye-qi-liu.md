@@ -6,21 +6,21 @@ titleSlug: chu-ye-qi-liu
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 眼底童烏已七齡，吾伊略亦記群經。
-- 丁寧莫就中書試，只可松邊竹下聽。
+- 盡處生機衮衮新，花情柳思已精神。
+- 歲堂堂去誰能守，睡到明朝又是春。
 
 ## 拼音
 
-- yan3 di3 tong2 wu1 yi3 qi1 ling2 ， wu2 yi1 lüe4 yi4 ji4 qun2 jing1 。
-- ding1 ning2 mo4 jiu4 zhong1 shu1 shi4 ， zhi1 ke3 song1 bian1 zhu2 xia4 ting1 。
+- jin4 chu3 sheng1 ji1 gun3 gun3 xin1 ， hua1 qing2 liu3 si1 yi3 jing1 shen2 。
+- sui4 tang2 tang2 qu4 shui2 neng2 shou3 ， shui4 dao4 ming2 chao2 you4 shi4 chun1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: tuo-que-bu-ku
 author: 邵定翁
 authorPinyin: shao4 ding4 weng1
 authorSlug: shao-ding-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

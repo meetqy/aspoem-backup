@@ -6,10 +6,10 @@ titleSlug: song-wang-yan-bi-fu-shan-yang-shou-yi-bing-wei-sen-hua-ji-yan-qin-nin
 author: 曾協
 authorPinyin: ceng2 xie2
 authorSlug: ceng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

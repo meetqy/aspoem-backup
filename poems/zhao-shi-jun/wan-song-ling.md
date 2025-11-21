@@ -6,10 +6,10 @@ titleSlug: wan-song-ling
 author: 趙史君
 authorPinyin: zhao4 shi3 jun1
 authorSlug: zhao-shi-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

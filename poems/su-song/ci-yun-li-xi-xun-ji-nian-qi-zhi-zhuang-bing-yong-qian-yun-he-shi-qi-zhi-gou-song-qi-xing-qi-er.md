@@ -6,10 +6,10 @@ titleSlug: ci-yun-li-xi-xun-ji-nian-qi-zhi-zhuang-bing-yong-qian-yun-he-shi-qi-z
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

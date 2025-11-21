@@ -6,10 +6,10 @@ titleSlug: ti-ling-shan-juan-ji-shi
 author: 梅應發
 authorPinyin: mei2 ying1 fa1
 authorSlug: mei-ying-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

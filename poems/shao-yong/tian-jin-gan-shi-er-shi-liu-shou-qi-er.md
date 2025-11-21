@@ -1,26 +1,26 @@
 ---
 id: shao-yong-tian-jin-gan-shi-er-shi-liu-shou-qi-er
-title: 天津感事二十六首  其二
-titlePinyin: tian1 jin1 gan3 shi4 er4 shi2 liu4 shou3     qi2 er4
+title: 天津感事二十六首  其二○
+titlePinyin: tian1 jin1 gan3 shi4 er4 shi2 liu4 shou3     qi2 er4 ○
 titleSlug: tian-jin-gan-shi-er-shi-liu-shou-qi-er
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寵辱事多今不見，興亡時去止堪哀。
-- 諸觀今日長安道，抵暮行人猶往來。
+- 遶堤楊柳輕風裏，隔水樓臺細雨中。
+- 酒放半醺重九後，此時情味更無窮。
 
 ## 拼音
 
-- chong3 ru3 shi4 duo1 jin1 bu2 jian4 ， xing1 wang2 shi2 qu4 zhi3 kan1 ai1 。
-- zhu1 guan1 jin1 ri4 chang2 an1 dao4 ， di3 mu4 xing2 ren2 you2 wang3 lai2 。
+- rao4 di1 yang2 liu3 qing1 feng1 li3 ， ge2 shui3 lou2 tai2 xi4 yu3 zhong1 。
+- jiu3 fang4 ban4 xun1 chong2 jiu3 hou4 ， ci3 shi2 qing2 wei4 geng4 wu2 qiong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhu-gong-yi-song-shi-po-jie-zuo-shi-chao-yong-yin-ci-yun-jie-zhi
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

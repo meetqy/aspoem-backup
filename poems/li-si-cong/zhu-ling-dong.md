@@ -6,10 +6,10 @@ titleSlug: zhu-ling-dong
 author: 李思聰
 authorPinyin: li3 si1 cong1
 authorSlug: li-si-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: zhong-ju
 author: 史鑄
 authorPinyin: shi3 zhu4
 authorSlug: shi-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽懷遠慕陶彭澤，一畝荒園試爲鉏。
-- 自種黄花添野景，幾多光彩照庭除。
+- 春初種菊助盤蔬，益氣輕身載舊圖。
+- 終藉九秋扶正色，芳時偷得醉工夫。
 
 ## 拼音
 
-- you1 huai2 yuan3 mu4 tao2 peng2 ze2 ， yi4 mu3 huang1 yuan2 shi4 wei2 chu2 。
-- zi4 zhong3 huang2 hua1 tian1 ye3 jing3 ， ji1 duo1 guang1 cai3 zhao4 ting2 chu2 。
+- chun1 chu1 zhong3 ju2 zhu4 pan2 shu1 ， yi4 qi4 qing1 shen1 zai4 jiu4 tu2 。
+- zhong1 jie4 jiu3 qiu1 fu2 zheng4 se4 ， fang1 shi2 tou1 de2 zui4 gong1 fu0 。
 
 ## 注释
 

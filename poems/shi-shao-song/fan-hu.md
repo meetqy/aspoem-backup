@@ -6,25 +6,21 @@ titleSlug: fan-hu
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久客欣無事，扶衰上野航。
-- 迴雲覆陰谷，初日放晨光。
-- 楊柳千尋色，荷花一路香。
-- 西湖天下勝，誰與共平章。
+- 六月西湖錦綉鄉，新詩滿眼費平章。
+- 移舟水濺差差綠，吹面輕風與送香。
 
 ## 拼音
 
-- jiu3 ke4 xin1 wu2 shi4 ， fu2 shuai1 shang4 ye3 hang2 。
-- hui2 yun2 fu4 yin1 gu3 ， chu1 ri4 fang4 chen2 guang1 。
-- yang2 liu3 qian1 xun2 se4 ， he2 hua1 yi2 lu4 xiang1 。
-- xi1 hu2 tian1 xia4 sheng4 ， shui2 yu3 gong4 ping2 zhang1 。
+- liu4 yue4 xi1 hu2 jin3 xiu4 xiang1 ， xin1 shi1 man3 yan3 fei4 ping2 zhang1 。
+- yi2 zhou1 shui3 jian4 cha4 cha4 lü4 ， chui1 mian4 qing1 feng1 yu3 song4 xiang1 。
 
 ## 注释
 

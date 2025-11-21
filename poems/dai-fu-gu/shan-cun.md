@@ -6,25 +6,21 @@ titleSlug: shan-cun
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 野水開冰出，山雲带雨行。
-- 白鷗乘曉泛，黄犢試春耕。
-- 地僻民風古，年豐米價平。
-- 村居自蕭洒，况有讀書聲。
+- 雨過山村六月凉，田田流水稻花香。
+- 松邊一石平如榻，坐聽風蟬送夕陽。
 
 ## 拼音
 
-- ye3 shui3 kai1 bing1 chu1 ， shan1 yun2 dai4 yu3 xing2 。
-- bai2 ou1 cheng2 xiao3 fan4 ， huang2 du2 shi4 chun1 geng1 。
-- di4 pi4 min2 feng1 gu3 ， nian2 feng1 mi3 jia4 ping2 。
-- cun1 ju1 zi4 xiao1 sa3 ， kuang4 you3 du2 shu1 sheng1 。
+- yu3 guo4 shan1 cun1 liu4 yue4 liang2 ， tian2 tian2 liu2 shui3 dao4 hua1 xiang1 。
+- song1 bian1 yi4 shi2 ping2 ru2 ta4 ， zuo4 ting1 feng1 chan2 song4 xi1 yang2 。
 
 ## 注释
 

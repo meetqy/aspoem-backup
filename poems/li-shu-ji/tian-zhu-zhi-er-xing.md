@@ -6,10 +6,10 @@ titleSlug: tian-zhu-zhi-er-xing
 author: 利書記
 authorPinyin: li4 shu1 ji4
 authorSlug: li-shu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

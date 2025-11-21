@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 李安期
 authorPinyin: li3 an1 qi1
 authorSlug: li-an-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

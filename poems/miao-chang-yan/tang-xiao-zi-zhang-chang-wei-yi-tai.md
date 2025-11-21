@@ -6,10 +6,10 @@ titleSlug: tang-xiao-zi-zhang-chang-wei-yi-tai
 author: 苗昌言
 authorPinyin: miao2 chang1 yan2
 authorSlug: miao-chang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-cheng-du-jiang-mi-xue
 author: 向傳式
 authorPinyin: xiang4 chuan2 shi4
 authorSlug: xiang-chuan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

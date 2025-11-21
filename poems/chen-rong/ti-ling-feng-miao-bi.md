@@ -6,10 +6,10 @@ titleSlug: ti-ling-feng-miao-bi
 author: 陳容
 authorPinyin: chen2 rong2
 authorSlug: chen-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

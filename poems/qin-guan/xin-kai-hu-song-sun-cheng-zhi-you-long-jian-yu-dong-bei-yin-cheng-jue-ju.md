@@ -6,10 +6,10 @@ titleSlug: xin-kai-hu-song-sun-cheng-zhi-you-long-jian-yu-dong-bei-yin-cheng-jue
 author: 秦觀
 authorPinyin: qin2 guan1
 authorSlug: qin-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

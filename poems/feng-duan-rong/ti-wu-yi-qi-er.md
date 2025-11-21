@@ -6,10 +6,10 @@ titleSlug: ti-wu-yi-qi-er
 author: 馮端榮
 authorPinyin: feng2 duan1 rong2
 authorSlug: feng-duan-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

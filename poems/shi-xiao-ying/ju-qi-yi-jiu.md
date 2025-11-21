@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-yi-jiu
-title: 句  其一九
-titlePinyin: ju4     qi2 yi1 jiu3
+title: 句  其一○九
+titlePinyin: ju4     qi2 yi1 ○ jiu3
 titleSlug: ju-qi-yi-jiu
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 搘筇聊小立。
+- 幾迴相送復相迎。
 
 ## 拼音
 
-- zhi1 qiong2 liao2 xiao3 li4 。
+- ji1 hui2 xiang1 song4 fu4 xiang1 ying2 。
 
 ## 注释
 

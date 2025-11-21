@@ -6,25 +6,21 @@ titleSlug: xi-qing
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 今晨日色佳，一洗數夕陰。
-- 開門玩秋色，愛此佳山林。
-- 人事端可絕，俗慮莫相侵。
-- 綠綺奏流水，門外無知音。
+- 數日陰霖氣不舒，江流作漲吾其魚。
+- 晚來風起雲頭散，夜半星辰滿太虛。
 
 ## 拼音
 
-- jin1 chen2 ri4 se4 jia1 ， yi4 xi3 shu4 xi1 yin1 。
-- kai1 men2 wan2 qiu1 se4 ， ai4 ci3 jia1 shan1 lin2 。
-- ren2 shi4 duan1 ke3 jue2 ， su2 lü4 mo4 xiang1 qin1 。
-- lü4 qi3 zou4 liu2 shui3 ， men2 wai4 wu2 zhi1 yin1 。
+- shu4 ri4 yin1 lin2 qi4 bu4 shu1 ， jiang1 liu2 zuo4 zhang3 wu2 qi2 yu2 。
+- wan3 lai2 feng1 qi3 yun2 tou2 san4 ， ye4 ban4 xing1 chen2 man3 tai4 xu1 。
 
 ## 注释
 

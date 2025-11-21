@@ -6,10 +6,10 @@ titleSlug: you-zi-yi-fu-guan-zhong-shan-qi-zuo-shi-song-zhi-yin-ci-qi-yun
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

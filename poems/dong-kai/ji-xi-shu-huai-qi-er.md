@@ -6,10 +6,10 @@ titleSlug: ji-xi-shu-huai-qi-er
 author: 董楷
 authorPinyin: dong3 kai3
 authorSlug: dong-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

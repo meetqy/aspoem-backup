@@ -6,25 +6,25 @@ titleSlug: shao-xing-si-yue-zhen-hai-du-si-shi-san-shou-ya-zhong-xian-zhuo-xian
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 神之游兮，洋洋對越。
-- 澹乎容與，肸蠁斯答。
-- 乃奏既備，八音攸節。
-- 重觴申陳，百禮以洽。
+- 禮樂既成，肅容有常。
+- 奄留消摇，申畢重觴。
+- 仰臚所求，降福滂洋。
+- 師象山則，以況皇章。
 
 ## 拼音
 
-- shen2 zhi1 you2 xi1 ， yang2 yang2 dui4 yue4 。
-- dan4 hu1 rong2 yu3 ， xi1 xiang3 si1 da2 。
-- nai3 zou4 ji4 bei4 ， ba1 yin1 you1 jie2 。
-- zhong4 shang1 shen1 chen2 ， bai3 li3 yi3 qia4 。
+- li3 le4 ji4 cheng2 ， su4 rong2 you3 chang2 。
+- yan3 liu2 xiao1 yao2 ， shen1 bi4 zhong4 shang1 。
+- yang3 lu2 suo3 qiu2 ， jiang4 fu2 pang1 yang2 。
+- shi1 xiang4 shan1 ze2 ， yi3 kuang4 huang2 zhang1 。
 
 ## 注释
 

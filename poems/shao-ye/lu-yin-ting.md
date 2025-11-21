@@ -6,10 +6,10 @@ titleSlug: lu-yin-ting
 author: 邵叶
 authorPinyin: shao4 ye4
 authorSlug: shao-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

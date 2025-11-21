@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-si-wu-fang-di-liu-shi-shou-ya-zhong-xian-yong-wen-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貳觴具舉，承神嘉虞。
-- 神具醉止，眷焉此都。
-- 我歲方新，我畝伊殖。
-- 時暘時雨，繄神之力。
+- 萬彙揫斂，時惟冬序。
+- 蠢爾黎氓，入此室處。
+- 酌獻告神，禮以時舉。
+- 頼此陰騭，民有所怙。
 
 ## 拼音
 
-- er4 shang1 ju4 ju3 ， cheng2 shen2 jia1 yu2 。
-- shen2 ju4 zui4 zhi3 ， juan4 yan1 ci3 dou1 。
-- wo3 sui4 fang1 xin1 ， wo3 mu3 yi1 zhi2 。
-- shi2 yang2 shi2 yu3 ， yi1 shen2 zhi1 li4 。
+- wan4 hui4 jiu1 lian3 ， shi2 wei2 dong1 xu4 。
+- chun3 er3 li2 mang2 ， ru4 ci3 shi4 chu3 。
+- zhuo2 xian4 gao4 shen2 ， li3 yi3 shi2 ju3 。
+- lai4 ci3 yin1 zhi4 ， min2 you3 suo3 hu4 。
 
 ## 注释
 

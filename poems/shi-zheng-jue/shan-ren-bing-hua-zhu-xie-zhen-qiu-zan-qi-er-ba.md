@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-ba
-title: 禪人并化主寫真求贊  其二八
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 ba1
+title: 禪人并化主寫真求贊  其二八○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 er4 ba1 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 一相無相，虛空等量。
-- 一身多身，物像俱春。
-- 動也出岫之雲，靜也居谷之神。
-- 現形說法也，剎剎塵塵。
+- 畫者不相出脫，轉見面皮醜惡。
+- 蜂採百華春不饑，兔飲長河夜不渴。
+- 無事而禪，待緣而作。
+- 一機一警誰與知，百發百中絃銜筈。
 
 ## 拼音
 
-- yi4 xiang1 wu2 xiang1 ， xu1 kong1 deng3 liang4 。
-- yi4 shen1 duo1 shen1 ， wu4 xiang4 ju4 chun1 。
-- dong4 ye3 chu1 xiu4 zhi1 yun2 ， jing4 ye3 ju1 gu3 zhi1 shen2 。
-- xian4 xing2 shuo1 fa3 ye3 ， cha4 cha4 chen2 chen2 。
+- hua4 zhe3 bu4 xiang1 chu1 tuo1 ， zhuan3 jian4 mian4 pi2 chou3 e4 。
+- feng1 cai3 bai3 hua2 chun1 bu4 ji1 ， tu4 yin3 chang2 he2 ye4 bu4 ke3 。
+- wu2 shi4 er2 shan4 ， dai4 yuan2 er2 zuo4 。
+- yi4 ji1 yi4 jing3 shui2 yu3 zhi1 ， bai3 fa1 bai3 zhong1 xian2 xian2 kuo4 。
 
 ## 注释
 

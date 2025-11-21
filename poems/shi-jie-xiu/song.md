@@ -6,9 +6,9 @@ titleSlug: song
 author: 釋戒修
 authorPinyin: shi4 jie4 xiu1
 authorSlug: shi-jie-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

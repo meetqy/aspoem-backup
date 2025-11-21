@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-la-yue-cun-tian-le-fu-shi-shou-deng-shi-xing
-title: 臘月村田樂府十首・燈市行
-titlePinyin: la4 yue4 cun1 tian2 le4 fu3 shi2 shou3・deng1 shi4 xing2
+title: 臘月村田樂府十首 燈市行
+titlePinyin: la4 yue4 cun1 tian2 le4 fu3 shi2 shou3   deng1 shi4 xing2
 titleSlug: la-yue-cun-tian-le-fu-shi-shou-deng-shi-xing
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

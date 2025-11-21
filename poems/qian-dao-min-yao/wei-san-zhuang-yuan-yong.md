@@ -6,10 +6,10 @@ titleSlug: wei-san-zhuang-yuan-yong
 author: 乾道民謠
 authorPinyin: qian2 dao4 min2 yao2
 authorSlug: qian-dao-min-yao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

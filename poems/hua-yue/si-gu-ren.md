@@ -6,25 +6,21 @@ titleSlug: si-gu-ren
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太乙年來落冀并，幾多豪傑未成名。
-- 堯天日月計和玉，胡地山川知耀卿。
-- 盧六驅風能破屋，陳三平水可傾城。
-- 年來幕府勤延攬，何事諸兄未有聲。
+- 芳酒一樽雖甚□，故人千里奈思何。
+- 柳挼池閣條偏細，花近簷楹香更多。
 
 ## 拼音
 
-- tai4 yi3 nian2 lai2 luo4 ji4 bing4 ， ji1 duo1 hao2 jie2 wei4 cheng2 ming2 。
-- yao2 tian1 ri4 yue4 ji4 he2 yu4 ， hu2 di4 shan1 chuan1 zhi1 yao4 qing1 。
-- lu2 liu4 qu1 feng1 neng2 po4 wu1 ， chen2 san1 ping2 shui3 ke3 qing1 cheng2 。
-- nian2 lai2 mu4 fu3 qin2 yan2 lan3 ， he2 shi4 zhu1 xiong1 wei4 you3 sheng1 。
+- fang1 jiu3 yi4 zun1 sui1 shen4 □， gu4 ren2 qian1 li3 nai4 si1 he2 。
+- liu3 ruo2 chi2 ge2 tiao2 pian1 xi4 ， hua1 jin4 yan2 ying2 xiang1 geng4 duo1 。
 
 ## 注释
 

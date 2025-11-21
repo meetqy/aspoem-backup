@@ -6,25 +6,25 @@ titleSlug: qiu-huai
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 惠連初擬賦秋懷，病束慵纏幾未諧。
-- 濕葉墮丹明晚塹，破雲拖粉露晴崖。
-- 先甘衰落歸雙髩，已覺清凉入百骸。
-- 試枕離騷校閑品，竹烟杉籟滿蕭齋。
+- 霏霏煙雨拂西窗，緗帙披殘卧縹缸。
+- 林木細分山去削，水波微動鶴丁樁。
+- 凉沈欲睡何妨縱，靜壯詩魔未易降。
+- 搔首舊遊堪入畫，一檣如練下澄江。
 
 ## 拼音
 
-- hui4 lian2 chu1 ni3 fu4 qiu1 huai2 ， bing4 shu4 yong1 chan2 ji1 wei4 xie2 。
-- shi1 ye4 duo4 dan1 ming2 wan3 qian4 ， po4 yun2 tuo1 fen3 lu4 qing2 ya2 。
-- xian1 gan1 shuai1 luo4 gui1 shuang1 bin4 ， yi3 jue2 qing1 liang2 ru4 bai3 hai2 。
-- shi4 zhen3 li2 sao1 xiao4 xian2 pin3 ， zhu2 yan1 shan1 lai4 man3 xiao1 zhai1 。
+- fei1 fei1 yan1 yu3 fu2 xi1 chuang1 ， xiang1 zhi4 pi1 can2 wo4 piao3 gang1 。
+- lin2 mu4 xi4 fen1 shan1 qu4 xiao1 ， shui3 bo1 wei1 dong4 he4 ding1 zhuang1 。
+- liang2 shen3 yu4 shui4 he2 fang2 zong4 ， jing4 zhuang4 shi1 mo2 wei4 yi4 jiang4 。
+- sao1 shou3 jiu4 you2 kan1 ru4 hua4 ， yi4 qiang2 ru2 lian4 xia4 cheng2 jiang1 。
 
 ## 注释
 

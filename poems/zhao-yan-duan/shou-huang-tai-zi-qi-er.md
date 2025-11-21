@@ -6,21 +6,21 @@ titleSlug: shou-huang-tai-zi-qi-er
 author: 趙彥端
 authorPinyin: zhao4 yan4 duan1
 authorSlug: zhao-yan-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 子晉吹笙未是仙，阿丕橫槊少全篇。
-- 小吟青著梅梢句，一日東風四海傳。
+- 二聖多能似仲尼，儲皇家學自庭闈。
+- 銀鈎已有淳熙脚，玉句仍傳德壽衣。
 
 ## 拼音
 
-- zi3 jin4 chui1 sheng1 wei4 shi4 xian1 ， a1 pi1 heng2 shuo4 shao3 quan2 pian1 。
-- xiao3 yin2 qing1 zhu4 mei2 shao1 ju4 ， yi2 ri4 dong1 feng1 si4 hai3 chuan2 。
+- er4 sheng4 duo1 neng2 si4 zhong4 ni2 ， chu3 huang2 jia1 xue2 zi4 ting2 wei2 。
+- yin2 gou1 yi3 you3 chun2 xi1 jiao3 ， yu4 ju4 reng2 chuan2 de2 shou4 yi1 。
 
 ## 注释
 

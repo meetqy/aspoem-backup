@@ -6,10 +6,10 @@ titleSlug: wen-bo-yu-cheng-shi-jie-cai-zhou-zuo-le-you-dong-hu-xi-ji-si-yun
 author: 林迪
 authorPinyin: lin2 di2
 authorSlug: lin-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

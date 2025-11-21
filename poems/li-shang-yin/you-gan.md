@@ -9,18 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 中路因循我所長，古來才命兩相妨。
-- 勸君莫強安蛇足，一醆芳醪不得嘗。
+- 非關宋玉有微辭，却是襄王夢覺遲。
+- 一自高唐賦成後，楚天雲雨盡堪疑。
 
 ## 拼音
 
-- zhong1 lu4 yin1 xun2 wo3 suo3 chang2 ， gu3 lai2 cai2 ming4 liang3 xiang1 fang2 。
-- quan4 jun1 mo4 qiang2 an1 she2 zu2 ， yi4 zhan3 fang1 lao2 bu4 de2 chang2 。
+- fei1 guan1 song4 yu4 you3 wei1 ci2 ， que4 shi4 xiang1 wang2 meng4 jue2 chi2 。
+- yi2 zi4 gao1 tang2 fu4 cheng2 hou4 ， chu3 tian1 yun2 yu3 jin4 kan1 yi2 。
 
 ## 注释
 

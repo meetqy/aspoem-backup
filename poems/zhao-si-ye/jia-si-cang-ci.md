@@ -6,10 +6,10 @@ titleSlug: jia-si-cang-ci
 author: 趙嗣業
 authorPinyin: zhao4 si4 ye4
 authorSlug: zhao-si-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

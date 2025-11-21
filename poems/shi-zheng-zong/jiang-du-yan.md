@@ -6,10 +6,10 @@ titleSlug: jiang-du-yan
 author: 釋正宗
 authorPinyin: shi4 zheng4 zong1
 authorSlug: shi-zheng-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

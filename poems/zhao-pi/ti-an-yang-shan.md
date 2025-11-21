@@ -6,10 +6,10 @@ titleSlug: ti-an-yang-shan
 author: 趙伾
 authorPinyin: zhao4 pi1
 authorSlug: zhao-pi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

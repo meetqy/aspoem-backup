@@ -6,21 +6,21 @@ titleSlug: chu-ye-qi-si
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春入荷葭塢亦奇，塢名不枉與天知。
-- 綠章併按閒池沼，豈但烏臺要勘詩。
+- 山中寒盡不知年，只道梅花欲雪天。
+- 未到五更春已動，乾坤生意本無邊。
 
 ## 拼音
 
-- chun1 ru4 he2 jia1 wu4 yi4 qi2 ， wu4 ming2 bu4 wang3 yu3 tian1 zhi1 。
-- lü4 zhang1 bing4 an4 xian2 chi2 zhao3 ， qi3 dan4 wu1 tai2 yao4 kan1 shi1 。
+- shan1 zhong1 han2 jin4 bu4 zhi1 nian2 ， zhi1 dao4 mei2 hua1 yu4 xue3 tian1 。
+- wei4 dao4 wu3 geng1 chun1 yi3 dong4 ， qian2 kun1 sheng1 yi4 ben3 wu2 bian1 。
 
 ## 注释
 

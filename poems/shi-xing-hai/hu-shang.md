@@ -6,25 +6,21 @@ titleSlug: hu-shang
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨後湖光照綠蘋，岸行舟載苦吟身。
-- 恨無杯酒澆胸次，折得梅花插帽輪。
-- 流水六橋人自老，暖烟十里柳重新。
-- 飛來白鷺如相識，共樂羲皇世上春。
+- 鳳城樓閣藹春風，湖水綠平橋影紅。
+- 蛺蝶倚花香夢暖，管絃聲斷夕陽中。
 
 ## 拼音
 
-- yu3 hou4 hu2 guang1 zhao4 lü4 pin2 ， an4 xing2 zhou1 zai4 ku3 yin2 shen1 。
-- hen4 wu2 bei1 jiu3 jiao1 xiong1 ci4 ， zhe2 de2 mei2 hua1 cha1 mao4 lun2 。
-- liu2 shui3 liu4 qiao2 ren2 zi4 lao3 ， nuan3 yan1 shi2 li3 liu3 chong2 xin1 。
-- fei1 lai2 bai2 lu4 ru2 xiang1 shi2 ， gong4 le4 xi1 huang2 shi4 shang4 chun1 。
+- feng4 cheng2 lou2 ge2 ai3 chun1 feng1 ， hu2 shui3 lü4 ping2 qiao2 ying3 hong2 。
+- jia2 die2 yi3 hua1 xiang1 meng4 nuan3 ， guan3 xian2 sheng1 duan4 xi1 yang2 zhong1 。
 
 ## 注释
 

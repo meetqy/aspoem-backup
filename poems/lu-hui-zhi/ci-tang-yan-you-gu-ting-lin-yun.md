@@ -6,10 +6,10 @@ titleSlug: ci-tang-yan-you-gu-ting-lin-yun
 author: 魯晦之
 authorPinyin: lu3 hui4 zhi1
 authorSlug: lu-hui-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

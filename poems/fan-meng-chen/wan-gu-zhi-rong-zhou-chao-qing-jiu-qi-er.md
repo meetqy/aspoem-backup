@@ -6,10 +6,10 @@ titleSlug: wan-gu-zhi-rong-zhou-chao-qing-jiu-qi-er
 author: 樊夢辰
 authorPinyin: fan2 meng4 chen2
 authorSlug: fan-meng-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

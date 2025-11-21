@@ -6,10 +6,10 @@ titleSlug: yue-er-nian-zheng-dan-you-hui-su-yuan-dong
 author: 程師孟
 authorPinyin: cheng2 shi1 meng4
 authorSlug: cheng-shi-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

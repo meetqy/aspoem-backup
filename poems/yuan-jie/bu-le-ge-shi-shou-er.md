@@ -9,18 +9,18 @@ authorSlug: yuan-jie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾人苦兮，山幽幽。
-- 網罟設兮，山不幽。
+- 聖人生兮，天下和。
+- 萬姓熙熙兮，舞且歌。
 
 ## 拼音
 
-- wu2 ren2 ku3 xi1 ， shan1 you1 you1 。
-- wang3 gu3 she4 xi1 ， shan1 bu4 you1 。
+- sheng4 ren2 sheng1 xi1 ， tian1 xia4 he2 。
+- wan4 xing4 xi1 xi1 xi1 ， wu3 qie3 ge1 。
 
 ## 注释
 

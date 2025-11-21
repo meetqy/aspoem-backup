@@ -1,14 +1,14 @@
 ---
 id: wen-tong-wu-qu-qu-qi-er
-title: 吳趨曲・其二
-titlePinyin: wu2 qu1 qu3・qi2 er4
+title: 吳趨曲  其二
+titlePinyin: wu2 qu1 qu3     qi2 er4
 titleSlug: wu-qu-qu-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

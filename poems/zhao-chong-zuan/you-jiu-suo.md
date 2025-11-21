@@ -6,10 +6,10 @@ titleSlug: you-jiu-suo
 author: 趙崇纘
 authorPinyin: zhao4 chong2 zuan3
 authorSlug: zhao-chong-zuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

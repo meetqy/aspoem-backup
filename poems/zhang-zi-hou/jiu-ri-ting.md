@@ -6,10 +6,10 @@ titleSlug: jiu-ri-ting
 author: 張子厚
 authorPinyin: zhang1 zi3 hou4
 authorSlug: zhang-zi-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

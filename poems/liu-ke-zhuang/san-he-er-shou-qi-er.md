@@ -6,25 +6,25 @@ titleSlug: san-he-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 厨人無職主君閑，春日惟供菜滿槃。
-- 山下鴟肥聊共飽，堂中羊美得常餐。
-- 徧嘗憂患肱三折，已過光陰指一彈。
-- 老去有巾宜漉酒，笑它楚客切雲冠。
+- 世吏寬嚴若夏冬，欲安欲富此情同。
+- 楮先生賤難扶起，桑大夫生計亦窮。
+- 漸喜青規舒化日，更煩絳氣導晴虹。
+- 若教子駿星常照，荒札從今可阜豐。
 
 ## 拼音
 
-- chu2 ren2 wu2 zhi2 zhu3 jun1 xian2 ， chun1 ri4 wei2 gong4 cai4 man3 pan2 。
-- shan1 xia4 chi1 fei2 liao2 gong4 bao3 ， tang2 zhong1 yang2 mei3 de2 chang2 can1 。
-- bian4 chang2 you1 huan4 gong1 san1 zhe2 ， yi3 guo4 guang1 yin1 zhi3 yi2 dan4 。
-- lao3 qu4 you3 jin1 yi2 lu4 jiu3 ， xiao4 ta1 chu3 ke4 qie4 yun2 guan1 。
+- shi4 li4 kuan1 yan2 ruo4 xia4 dong1 ， yu4 an1 yu4 fu4 ci3 qing2 tong2 。
+- chu3 xian1 sheng0 jian4 nan2 fu2 qi3 ， sang1 dai4 fu0 sheng1 ji4 yi4 qiong2 。
+- jian4 xi3 qing1 gui1 shu1 hua4 ri4 ， geng4 fan2 jiang4 qi4 dao3 qing2 hong2 。
+- ruo4 jiao4 zi3 jun4 xing1 chang2 zhao4 ， huang1 zha2 cong2 jin1 ke3 fu4 feng1 。
 
 ## 注释
 

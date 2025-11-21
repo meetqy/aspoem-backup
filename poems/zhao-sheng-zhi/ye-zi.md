@@ -6,10 +6,10 @@ titleSlug: ye-zi
 author: 趙升之
 authorPinyin: zhao4 sheng1 zhi1
 authorSlug: zhao-sheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

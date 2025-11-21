@@ -6,10 +6,10 @@ titleSlug: ti-xue-lie-tu
 author: 王平子
 authorPinyin: wang2 ping2 zi3
 authorSlug: wang-ping-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

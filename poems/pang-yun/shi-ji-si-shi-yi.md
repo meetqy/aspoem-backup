@@ -9,26 +9,28 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 若能相用語，教君一箇訣。
-- 捻取三毒箭，一時總抝折。
-- 田地成四空，五狗牙總缺。
-- 色藴自消亡，六賊俱磨滅。
-- 閻羅成法王，羅剎成菩薩。
-- 勿論己一身，舉國一時悅。
+- 無思無念是真空，妙德法身自見中。
+- 應機接物契真智，十方世界總流通。
+- 通達無我無人法，人法不見有行蹤。
+- 神識自然無罣礙，廓周沙界等虛空。
+- 不假坐禪持戒律，超然解脫豈勞功。
+- （按：《全唐詩》卷八一○收末四句爲一首，未完。
+- ）。
 
 ## 拼音
 
-- ruo4 neng2 xiang1 yong4 yu3 ， jiao4 jun1 yi2 ge4 jue2 。
-- nian3 qu3 san1 du2 jian4 ， yi4 shi2 zong3 ao3 zhe2 。
-- tian2 di4 cheng2 si4 kong1 ， wu3 gou3 ya2 zong3 que1 。
-- se4 yun4 zi4 xiao1 wang2 ， liu4 zei2 ju4 mo2 mie4 。
-- yan2 luo2 cheng2 fa3 wang2 ， luo2 cha4 cheng2 pu2 sa4 。
-- wu4 lun4 ji3 yi4 shen1 ， ju3 guo2 yi4 shi2 yue4 。
+- wu2 si1 wu2 nian4 shi4 zhen1 kong1 ， miao4 de2 fa3 shen1 zi4 jian4 zhong1 。
+- ying1 ji1 jie1 wu4 qi4 zhen1 zhi4 ， shi2 fang1 shi4 jie4 zong3 liu2 tong1 。
+- tong1 da2 wu2 wo3 wu2 ren2 fa3 ， ren2 fa3 bu2 jian4 you3 xing2 zong1 。
+- shen2 shi2 zi4 ran2 wu2 gua4 ai4 ， kuo4 zhou1 sha1 jie4 deng3 xu1 kong1 。
+- bu4 jia3 zuo4 shan4 chi2 jie4 lü4 ， chao1 ran2 jie3 tuo1 qi3 lao2 gong1 。
+- （ an4 ：《 quan2 tang2 shi1 》 juan4 ba1 yi1 ○ shou1 mo4 si4 ju4 wei2 yi4 shou3 ， wei4 wan2 。
+- ）。
 
 ## 注释
 

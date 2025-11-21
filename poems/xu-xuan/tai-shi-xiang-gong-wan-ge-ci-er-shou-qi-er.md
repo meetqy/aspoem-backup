@@ -6,9 +6,9 @@ titleSlug: tai-shi-xiang-gong-wan-ge-ci-er-shou-qi-er
 author: 徐鉉
 authorPinyin: xu2 xuan4
 authorSlug: xu-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

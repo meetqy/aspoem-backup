@@ -6,10 +6,10 @@ titleSlug: bie-mu
 author: 苗氏女
 authorPinyin: miao2 shi4 nü3
 authorSlug: miao-shi-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

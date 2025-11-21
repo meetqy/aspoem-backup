@@ -6,25 +6,25 @@ titleSlug: shan-zhong-qi-san
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已付身心畢竟空，念頭了不到窮通。
-- 既愚寧免日三省，是聖未妨時一中。
-- 物外禽魚相爾汝，生前烏兔幾西東。
-- 誰云雙手都無用，自種山田歲便豐。
+- 草草菴居絕似僧，不同劣有髮鬅鬙。
+- 空山一夜雷驅雨，老屋四圍雲擁燈。
+- 詩骨瘦來人似鶴，書幐懶去字如蠅。
+- 開門桃李俱塵土，春到園林曾不曾。
 
 ## 拼音
 
-- yi3 fu4 shen1 xin1 bi4 jing4 kong1 ， nian4 tou2 le0 bu2 dao4 qiong2 tong1 。
-- ji4 yu2 ning2 mian3 ri4 san1 sheng3 ， shi4 sheng4 wei4 fang2 shi2 yi4 zhong1 。
-- wu4 wai4 qin2 yu2 xiang1 er3 ru3 ， sheng1 qian2 wu1 tu4 ji1 xi1 dong1 。
-- shui2 yun2 shuang1 shou3 dou1 wu2 yong4 ， zi4 zhong3 shan1 tian2 sui4 bian4 feng1 。
+- cao3 cao3 an1 ju1 jue2 si4 seng1 ， bu4 tong2 lie4 you3 fa4 peng2 seng1 。
+- kong1 shan1 yi2 ye4 lei2 qu1 yu3 ， lao3 wu1 si4 wei2 yun2 yong1 deng1 。
+- shi1 gu3 shou4 lai2 ren2 si4 he4 ， shu1 teng2 lan3 qu4 zi4 ru2 ying2 。
+- kai1 men2 tao2 li3 ju4 chen2 tu3 ， chun1 dao4 yuan2 lin2 ceng2 bu4 ceng2 。
 
 ## 注释
 

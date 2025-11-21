@@ -1,26 +1,26 @@
 ---
 id: han-biao-gan-xing-shi-shou-qi-yi
-title: 感興十首  其一
-titlePinyin: gan3 xing1 shi2 shou3     qi2 yi1
+title: 感興十首  其一○
+titlePinyin: gan3 xing1 shi2 shou3     qi2 yi1 ○
 titleSlug: gan-xing-shi-shou-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迎時上下本謀身，身老難禁物態新。
-- 到得朱金爲我樂，却嫌人笑我知津。
+- 赤縣神州久陸沈，宣和遺恨莫追尋。
+- 饒渠熟客資談柄，須有夫差報越心。
 
 ## 拼音
 
-- ying2 shi2 shang4 xia4 ben3 mou2 shen1 ， shen1 lao3 nan2 jin4 wu4 tai4 xin1 。
-- dao4 de2 zhu1 jin1 wei2 wo3 le4 ， que4 xian2 ren2 xiao4 wo3 zhi1 jin1 。
+- chi4 xian4 shen2 zhou1 jiu3 lu4 shen3 ， xuan1 he2 yi2 hen4 mo4 zhui1 xun2 。
+- rao2 qu2 shu2 ke4 zi1 tan2 bing3 ， xu1 you3 fu1 chai1 bao4 yue4 xin1 。
 
 ## 注释
 

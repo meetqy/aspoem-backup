@@ -6,21 +6,25 @@ titleSlug: qiu-huai-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩如水淡功差進，身似雲孤累轉輕。
-- 落葉擁籬門巷晚，一枝藤杖且閑行。
+- 寓世久成贅，忘家生若浮。
+- 安能三太息，惟有四宜休。
+- 屋壞無全堵，船輕每信流。
+- 鴟夷幸無恙，頼爾可消憂。
 
 ## 拼音
 
-- shi1 ru2 shui3 dan4 gong1 cha4 jin4 ， shen1 si4 yun2 gu1 lei4 zhuan3 qing1 。
-- luo4 ye4 yong1 li2 men2 xiang4 wan3 ， yi4 zhi1 teng2 zhang4 qie3 xian2 xing2 。
+- yu4 shi4 jiu3 cheng2 zhui4 ， wang4 jia1 sheng1 ruo4 fu2 。
+- an1 neng2 san1 tai4 xi1 ， wei2 you3 si4 yi2 xiu1 。
+- wu1 huai4 wu2 quan2 du3 ， chuan2 qing1 mei3 xin4 liu2 。
+- chi1 yi2 xing4 wu2 yang4 ， lai4 er3 ke3 xiao1 you1 。
 
 ## 注释
 

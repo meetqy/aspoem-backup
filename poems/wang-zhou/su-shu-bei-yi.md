@@ -1,6 +1,6 @@
 ---
 id: wang-zhou-su-shu-bei-yi
-title: 宿疏陂驛
+title: 宿疎陂驛
 titlePinyin: su4 shu1 bei1 yi4
 titleSlug: su-shu-bei-yi
 author: 王周
@@ -9,7 +9,7 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

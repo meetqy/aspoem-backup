@@ -1,26 +1,26 @@
 ---
 id: shi-wen-zhun-shi-er-shi-song-qi-yi
-title: 十二時頌  其一
-titlePinyin: shi2 er4 shi2 song4     qi2 yi1
+title: 十二時頌  其一○
+titlePinyin: shi2 er4 shi2 song4     qi2 yi1 ○
 titleSlug: shi-er-shi-song-qi-yi
 author: 釋文準
 authorPinyin: shi4 wen2 zhun3
 authorSlug: shi-wen-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雞鳴丑，念佛起來懶開口。
-- 上樓敲磬兩三聲，驚散飛禽方丈後。
+- 黄昏戌，樓上鳴鐘已落日。
+- 行人旅店宿長途，花上游蜂罷采蜜。
 
 ## 拼音
 
-- ji1 ming2 chou3 ， nian4 fo2 qi3 lai2 lan3 kai1 kou3 。
-- shang4 lou2 qiao1 qing4 liang3 san1 sheng1 ， jing1 san4 fei1 qin2 fang1 zhang4 hou4 。
+- huang2 hun1 xu1 ， lou2 shang4 ming2 zhong1 yi3 luo4 ri4 。
+- xing2 ren2 lü3 dian4 su4 chang2 tu2 ， hua1 shang4 you2 feng1 ba4 cai3 mi4 。
 
 ## 注释
 

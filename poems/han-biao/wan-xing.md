@@ -6,25 +6,21 @@ titleSlug: wan-xing
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 林蟬動微暑，風影摇東軒。
-- 山近鬰巃嵷，澗長瀉潺湲。
-- 閉關誦古書，時時一逢原。
-- 撫卷得閑樂，老境俱忘言。
+- 誰爲喧卑莫賦詩，幾年山澗久安之。
+- 區區守祿才餬口，儘覺肥甘盛一時。
 
 ## 拼音
 
-- lin2 chan2 dong4 wei1 shu3 ， feng1 ying3 yao2 dong1 xuan1 。
-- shan1 jin4 yu4 long2 song3 ， jian4 chang2 xie4 chan2 yuan2 。
-- bi4 guan1 song4 gu3 shu1 ， shi2 shi2 yi4 feng2 yuan2 。
-- fu3 juan4 de2 xian2 le4 ， lao3 jing4 ju4 wang4 yan2 。
+- shui2 wei2 xuan1 bei1 mo4 fu4 shi1 ， ji1 nian2 shan1 jian4 jiu3 an1 zhi1 。
+- qu1 qu1 shou3 lu4 cai2 hu2 kou3 ， jin3 jue2 fei2 gan1 sheng4 yi4 shi2 。
 
 ## 注释
 

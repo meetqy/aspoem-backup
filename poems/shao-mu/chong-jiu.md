@@ -6,10 +6,10 @@ titleSlug: chong-jiu
 author: 邵睦
 authorPinyin: shao4 mu4
 authorSlug: shao-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

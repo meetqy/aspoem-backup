@@ -6,10 +6,10 @@ titleSlug: shen-xian-ming-yi
 author: 崔存
 authorPinyin: cui1 cun2
 authorSlug: cui-cun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

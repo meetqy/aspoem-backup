@@ -6,10 +6,10 @@ titleSlug: yun-sou-dao-ren-zi-fu-zi-lin-zhou-kuan-duan-xian-wo-er-gui-kou-zhan-y
 author: 趙㠓
 authorPinyin: zhao4 meng2
 authorSlug: zhao-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

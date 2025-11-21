@@ -6,29 +6,29 @@ titleSlug: bai-gong-cao-tang
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 達士因忘世，非求高尚名。
-- 林泉得佳處，風物有餘清。
-- 貝錦傷讒舌，浮雲寄宦情。
-- 詩才今古備，性理死生明。
-- 蓮沼秋芳合，香山晚翠橫。
-- 黄蘆繞官舍，不復念青城。
+- 朝貴偶謫宦，郡侯真好賢。
+- 吏事不到門，身與白雲閑。
+- 堂下有流水，堂前俱青山。
+- 時攜孟光來，冷語夕陽間。
+- 登覽興已盡，浩然亦俱還。
+- 頗笑沉湘人，戚戚多愁顔。
 
 ## 拼音
 
-- da2 shi4 yin1 wang4 shi4 ， fei1 qiu2 gao1 shang4 ming2 。
-- lin2 quan2 de2 jia1 chu3 ， feng1 wu4 you3 yu2 qing1 。
-- bei4 jin3 shang1 chan2 she2 ， fu2 yun2 ji4 huan4 qing2 。
-- shi1 cai2 jin1 gu3 bei4 ， xing4 li3 si3 sheng1 ming2 。
-- lian2 zhao3 qiu1 fang1 he2 ， xiang1 shan1 wan3 cui4 heng2 。
-- huang2 lu2 rao4 guan1 she4 ， bu2 fu4 nian4 qing1 cheng2 。
+- chao2 gui4 ou3 zhe2 huan4 ， jun4 hou2 zhen1 hao3 xian2 。
+- li4 shi4 bu2 dao4 men2 ， shen1 yu3 bai2 yun2 xian2 。
+- tang2 xia4 you3 liu2 shui3 ， tang2 qian2 ju4 qing1 shan1 。
+- shi2 xie2 meng4 guang1 lai2 ， leng3 yu3 xi1 yang2 jian4 。
+- deng1 lan3 xing1 yi3 jin4 ， hao4 ran2 yi4 ju4 huan2 。
+- po1 xiao4 chen2 xiang1 ren2 ， qi1 qi1 duo1 chou2 yan2 。
 
 ## 注释
 

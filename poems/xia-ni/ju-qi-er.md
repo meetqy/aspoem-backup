@@ -1,24 +1,24 @@
 ---
 id: xia-ni-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 夏倪
 authorPinyin: xia4 ni2
 authorSlug: xia-ni
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 猶喜平生蟹螯手，尚能半幅寫行書。
+- 邦伯由來有令名。
 
 ## 拼音
 
-- you2 xi3 ping2 sheng1 xie4 ao2 shou3 ， shang4 neng2 ban4 fu2 xie3 xing2 shu1 。
+- bang1 bo2 you2 lai2 you3 ling4 ming2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: huang-jia-fu-chao-qing-gong-yan-shi-shi-yi-bu-shu-mian-wei-yan-qie-su
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

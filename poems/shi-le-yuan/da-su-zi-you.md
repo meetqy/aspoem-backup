@@ -6,10 +6,10 @@ titleSlug: da-su-zi-you
 author: 釋了元
 authorPinyin: shi4 le0 yuan2
 authorSlug: shi-le-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

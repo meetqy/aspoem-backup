@@ -6,21 +6,21 @@ titleSlug: shang-chun
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 園林芳事已闌珊，梅未生仁筍未竿。
-- 堤上柳棉風脫盡，綠陰應在雨中寒。
+- 東皇別我太匆匆，急景相催鬢已翁。
+- 杜宇一聲花結局，人生消得幾春風。
 
 ## 拼音
 
-- yuan2 lin2 fang1 shi4 yi3 lan2 shan1 ， mei2 wei4 sheng1 ren2 sun3 wei4 gan1 。
-- di1 shang4 liu3 mian2 feng1 tuo1 jin4 ， lü4 yin1 ying1 zai4 yu3 zhong1 han2 。
+- dong1 huang2 bie2 wo3 tai4 cong1 cong1 ， ji2 jing3 xiang1 cui1 bin4 yi3 weng1 。
+- du4 yu3 yi4 sheng1 hua1 jie2 ju2 ， ren2 sheng1 xiao1 de2 ji1 chun1 feng1 。
 
 ## 注释
 

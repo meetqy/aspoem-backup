@@ -6,10 +6,10 @@ titleSlug: jiu-qu-ni-yuan
 author: 黄樵逸
 authorPinyin: huang2 qiao2 yi4
 authorSlug: huang-qiao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

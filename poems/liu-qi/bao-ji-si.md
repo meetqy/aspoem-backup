@@ -6,10 +6,10 @@ titleSlug: bao-ji-si
 author: 劉芑
 authorPinyin: liu2 qi3
 authorSlug: liu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

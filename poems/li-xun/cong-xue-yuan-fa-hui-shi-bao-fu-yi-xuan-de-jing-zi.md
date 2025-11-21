@@ -6,10 +6,10 @@ titleSlug: cong-xue-yuan-fa-hui-shi-bao-fu-yi-xuan-de-jing-zi
 author: 李薰
 authorPinyin: li3 xun1
 authorSlug: li-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

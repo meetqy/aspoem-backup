@@ -1,24 +1,24 @@
 ---
 id: shi-xiao-ying-ju-qi-jiu
-title: 句  其九
-titlePinyin: ju4     qi2 jiu3
+title: 句  其九○
+titlePinyin: ju4     qi2 jiu3 ○
 titleSlug: ju-qi-jiu
 author: 釋曉瑩
 authorPinyin: shi4 xiao3 ying2
 authorSlug: shi-xiao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 舟橫漁唱晚。
+- 由來八座尚書貴。
 
 ## 拼音
 
-- zhou1 heng2 yu2 chang4 wan3 。
+- you2 lai2 ba1 zuo4 shang4 shu1 gui4 。
 
 ## 注释
 

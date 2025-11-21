@@ -6,10 +6,10 @@ titleSlug: luo-hua
 author: 嚴肅
 authorPinyin: yan2 su4
 authorSlug: yan-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

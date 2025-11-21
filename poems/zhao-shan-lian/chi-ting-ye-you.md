@@ -6,10 +6,10 @@ titleSlug: chi-ting-ye-you
 author: 趙善漣
 authorPinyin: zhao4 shan4 lian2
 authorSlug: zhao-shan-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: chun-ri-tu-zhong
 author: 李若水
 authorPinyin: li3 ruo4 shui3
 authorSlug: li-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 詩書學郎風騷客，奚奴控馬黄塵陌。
-- 頹陽半嶺促歸鴉，斷雲無意橫山碧。
-- 樹頭白塔孤城小，東風幾度行人老。
-- 夾路桃花春雨餘，落紅萬點無人掃。
+- 一川晴日破春容，柳絮桃紅赴望中。
+- 莫喜芳辰又來到，少年能耐幾東風。
 
 ## 拼音
 
-- shi1 shu1 xue2 lang2 feng1 sao1 ke4 ， xi1 nu2 kong4 ma3 huang2 chen2 mo4 。
-- tui2 yang2 ban4 ling3 cu4 gui1 ya1 ， duan4 yun2 wu2 yi4 heng2 shan1 bi4 。
-- shu4 tou2 bai2 ta3 gu1 cheng2 xiao3 ， dong1 feng1 ji1 du4 xing2 ren2 lao3 。
-- jia1 lu4 tao2 hua1 chun1 yu3 yu2 ， luo4 hong2 wan4 dian3 wu2 ren2 sao3 。
+- yi4 chuan1 qing2 ri4 po4 chun1 rong2 ， liu3 xu4 tao2 hong2 fu4 wang4 zhong1 。
+- mo4 xi3 fang1 chen2 you4 lai2 dao4 ， shao4 nian2 neng2 nai4 ji1 dong1 feng1 。
 
 ## 注释
 

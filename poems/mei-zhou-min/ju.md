@@ -6,10 +6,10 @@ titleSlug: ju
 author: 梅州民
 authorPinyin: mei2 zhou1 min2
 authorSlug: mei-zhou-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

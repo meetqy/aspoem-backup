@@ -6,10 +6,10 @@ titleSlug: ti-zhong-yi-yao-gong-miao-qi-si
 author: 林宋偉
 authorPinyin: lin2 song4 wei3
 authorSlug: lin-song-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

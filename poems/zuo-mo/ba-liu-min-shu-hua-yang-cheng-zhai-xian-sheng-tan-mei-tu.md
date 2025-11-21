@@ -6,10 +6,10 @@ titleSlug: ba-liu-min-shu-hua-yang-cheng-zhai-xian-sheng-tan-mei-tu
 author: 左謨
 authorPinyin: zuo3 mo2
 authorSlug: zuo-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-xu-qi-xia
 author: 周真一
 authorPinyin: zhou1 zhen1 yi1
 authorSlug: zhou-zhen-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

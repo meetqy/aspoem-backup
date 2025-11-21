@@ -6,10 +6,10 @@ titleSlug: tong-xiang-ren-bie-zhu-xi-wen-cha-pan-yu-yong-chun-ting
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

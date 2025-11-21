@@ -6,10 +6,10 @@ titleSlug: ci-yun-mo-yang-zheng-xian-cheng-du-you-qian-tang-nan-bei-shan
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

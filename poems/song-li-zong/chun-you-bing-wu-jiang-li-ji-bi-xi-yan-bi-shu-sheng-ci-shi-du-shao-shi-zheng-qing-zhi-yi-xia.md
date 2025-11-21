@@ -6,10 +6,10 @@ titleSlug: chun-you-bing-wu-jiang-li-ji-bi-xi-yan-bi-shu-sheng-ci-shi-du-shao-sh
 author: 宋理宗
 authorPinyin: song4 li3 zong1
 authorSlug: song-li-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

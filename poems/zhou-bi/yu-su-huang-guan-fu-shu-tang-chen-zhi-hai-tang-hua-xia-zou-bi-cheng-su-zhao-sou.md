@@ -6,10 +6,10 @@ titleSlug: yu-su-huang-guan-fu-shu-tang-chen-zhi-hai-tang-hua-xia-zou-bi-cheng-s
 author: 周弼
 authorPinyin: zhou1 bi4
 authorSlug: zhou-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

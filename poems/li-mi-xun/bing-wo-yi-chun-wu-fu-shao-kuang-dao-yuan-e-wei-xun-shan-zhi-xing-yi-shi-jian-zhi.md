@@ -6,10 +6,10 @@ titleSlug: bing-wo-yi-chun-wu-fu-shao-kuang-dao-yuan-e-wei-xun-shan-zhi-xing-yi-
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: yu-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨遂通夕，安眠失百憂。
-- 窗扉淡欲曉，枕簟凜生秋。
-- 畫燭爭碁道，金尊數酒籌。
-- 依然錦城夢，忘却在南州。
+- 病多漸減燈前課，老甚都忘枕上愁。
+- 一段高情誰會得，卧聽簷雨瀉清秋。
 
 ## 拼音
 
-- yi4 yu3 sui4 tong1 xi1 ， an1 mian2 shi1 bai3 you1 。
-- chuang1 fei1 dan4 yu4 xiao3 ， zhen3 dian4 lin3 sheng1 qiu1 。
-- hua4 zhu2 zheng1 qi2 dao4 ， jin1 zun1 shu4 jiu3 chou2 。
-- yi1 ran2 jin3 cheng2 meng4 ， wang4 que4 zai4 nan2 zhou1 。
+- bing4 duo1 jian4 jian3 deng1 qian2 ke4 ， lao3 shen4 dou1 wang4 zhen3 shang4 chou2 。
+- yi2 duan4 gao1 qing2 shui2 hui4 de2 ， wo4 ting1 yan2 yu3 xie4 qing1 qiu1 。
 
 ## 注释
 

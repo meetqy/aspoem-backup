@@ -3,24 +3,24 @@ id: shi-gao-ji
 title: 偈
 titlePinyin: ji4
 titleSlug: ji
-author: 釋杲
-authorPinyin: shi4 gao3
+author: 釋高
+authorPinyin: shi4 gao1
 authorSlug: shi-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歸宗會斬蛇，禾山解打鼓。
-- 萬象與森羅，皆從這裏去。
+- 象王行，師子住，赤腳崑崙眉卓竪。
+- 寒山拾得笑呵呵，指點門前老松樹。
 
 ## 拼音
 
-- gui1 zong1 hui4 zhan3 she2 ， he2 shan1 jie3 da3 gu3 。
-- wan4 xiang4 yu3 sen1 luo2 ， jie1 cong2 zhe4 li3 qu4 。
+- xiang4 wang2 xing2 ， shi1 zi3 zhu4 ， chi4 jiao3 kun1 lun2 mei2 zhuo2 shu4 。
+- han2 shan1 shi2 de2 xiao4 he1 he1 ， zhi3 dian3 men2 qian2 lao3 song1 shu4 。
 
 ## 注释
 

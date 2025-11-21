@@ -6,25 +6,25 @@ titleSlug: shi-shi
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石室靜而深，青山迭相映。
-- 且無籠檻羈，頗適猿鳥性。
-- 外物俱棄捐，內塵亦清凈。
-- 人莫來扣門，驚回老僧定。
+- 石室閒眠過午鐘，看來唯我最疎慵。
+- 生憎俗客妨幽趣，不與樵夫說定蹤。
+- 麋下磵陰時引子，鶴歸林表只依松。
+- 人生未解休心去，多向塵區歎不逢。
 
 ## 拼音
 
-- shi2 shi4 jing4 er2 shen1 ， qing1 shan1 die2 xiang1 ying4 。
-- qie3 wu2 long2 jian4 ji1 ， po1 shi4 yuan2 niao3 xing4 。
-- wai4 wu4 ju4 qi4 juan1 ， nei4 chen2 yi4 qing1 jing4 。
-- ren2 mo4 lai2 kou4 men2 ， jing1 hui2 lao3 seng1 ding4 。
+- shi2 shi4 xian2 mian2 guo4 wu3 zhong1 ， kan4 lai2 wei2 wo3 zui4 shu1 yong1 。
+- sheng1 zeng1 su2 ke4 fang2 you1 qu4 ， bu4 yu3 qiao2 fu1 shuo1 ding4 zong1 。
+- mi2 xia4 jian4 yin1 shi2 yin3 zi0 ， he4 gui1 lin2 biao3 zhi1 yi1 song1 。
+- ren2 sheng1 wei4 jie3 xiu1 xin1 qu4 ， duo1 xiang4 chen2 qu1 tan4 bu4 feng2 。
 
 ## 注释
 

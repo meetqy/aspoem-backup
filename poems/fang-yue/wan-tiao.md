@@ -6,25 +6,25 @@ titleSlug: wan-tiao
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晴沙漠漠水沄沄，更倚翠微搔白紛。
-- 不可以風秋後葉，何傷於月晚來雲。
-- 憂時自有夔龍在，投老政須麛鹿羣。
-- 旋拾枯松澆瀑布，小奚亦足張吾軍。
+- 摩挲倦眼風煙上，萬木歸根葉已零。
+- 衰髮不知何事白，遥岑只是舊時青。
+- 功名一夢屈伸肘，身世百年長短亭。
+- 莫向夕陽多感慨，夜寒重勘相牛經。
 
 ## 拼音
 
-- qing2 sha1 mo4 mo4 shui3 yun2 yun2 ， geng4 yi3 cui4 wei1 sao1 bai2 fen1 。
-- bu4 ke3 yi3 feng1 qiu1 hou4 ye4 ， he2 shang1 wu1 yue4 wan3 lai2 yun2 。
-- you1 shi2 zi4 you3 kui2 long2 zai4 ， tou2 lao3 zheng4 xu1 mi2 lu4 qun2 。
-- xuan2 shi2 ku1 song1 jiao1 pu4 bu4 ， xiao3 xi1 yi4 zu2 zhang1 wu2 jun1 。
+- mo2 suo1 juan4 yan3 feng1 yan1 shang4 ， wan4 mu4 gui1 gen1 ye4 yi3 ling2 。
+- shuai1 fa4 bu4 zhi1 he2 shi4 bai2 ， yao2 cen2 zhi3 shi4 jiu4 shi2 qing1 。
+- gong1 ming2 yi2 meng4 qu1 shen1 zhou3 ， shen1 shi4 bai3 nian2 chang2 duan3 ting2 。
+- mo4 xiang4 xi1 yang2 duo1 gan3 kai3 ， ye4 han2 zhong4 kan1 xiang1 niu2 jing1 。
 
 ## 注释
 

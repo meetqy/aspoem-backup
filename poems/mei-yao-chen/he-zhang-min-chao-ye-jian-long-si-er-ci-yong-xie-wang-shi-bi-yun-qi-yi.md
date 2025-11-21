@@ -6,10 +6,10 @@ titleSlug: he-zhang-min-chao-ye-jian-long-si-er-ci-yong-xie-wang-shi-bi-yun-qi-y
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

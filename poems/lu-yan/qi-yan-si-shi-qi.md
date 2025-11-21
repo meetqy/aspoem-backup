@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 舉世何人悟我家，我家別是一榮華。
-- 盈箱貯積登仙錄，滿室收藏伏火砂。
-- 頓飲長生天上酒，常栽不死洞中花。
-- 凡流若問吾生計，遍地紛紛五彩霞。
+- 別來洛汭六東風，醉眼吟情慵不慵。
+- 擺撼乾坤金劍吼，烹煎日月玉爐紅。
+- 杖搖楚甸三千里，鶴翥秦煙幾萬重。
+- 爲報晉成仙子道，再期春色會稽峰。
 
 ## 拼音
 
-- ju3 shi4 he2 ren2 wu4 wo3 jia1 ， wo3 jia1 bie2 shi4 yi4 rong2 hua2 。
-- ying2 xiang1 zhu4 ji1 deng1 xian1 lu4 ， man3 shi4 shou1 cang2 fu2 huo3 sha1 。
-- dun4 yin3 chang2 sheng1 tian1 shang4 jiu3 ， chang2 zai1 bu4 si3 dong4 zhong1 hua1 。
-- fan2 liu2 ruo4 wen4 wu2 sheng1 ji4 ， bian4 di4 fen1 fen1 wu3 cai3 xia2 。
+- bie2 lai2 luo4 rui4 liu4 dong1 feng1 ， zui4 yan3 yin2 qing2 yong1 bu0 yong1 。
+- bai3 han4 qian2 kun1 jin1 jian4 hou3 ， peng1 jian1 ri4 yue4 yu4 lu2 hong2 。
+- zhang4 yao2 chu3 dian4 san1 qian1 li3 ， he4 zhu4 qin2 yan1 ji1 wan4 zhong4 。
+- wei2 bao4 jin4 cheng2 xian1 zi3 dao4 ， zai4 qi1 chun1 se4 hui4 ji1 feng1 。
 
 ## 注释
 

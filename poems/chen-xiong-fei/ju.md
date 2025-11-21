@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳雄飛
 authorPinyin: chen2 xiong2 fei1
 authorSlug: chen-xiong-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

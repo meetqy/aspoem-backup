@@ -6,9 +6,9 @@ titleSlug: chun-ji-dong-yuan-fu-de-e-zi
 author: 王洙
 authorPinyin: wang2 zhu1
 authorSlug: wang-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

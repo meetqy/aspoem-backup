@@ -6,10 +6,10 @@ titleSlug: wu-yue-shi-san-ri-zhong-zhu-ou-cheng-er-shou-qi-yi
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: huang-tai-hou-he-chun-tie-zi-qi-yi
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遲日回蒼陸，祥霏下慶霄。
-- 靈椿儲壽嘏，寶冊迨瓊瑶。
+- 三朝備福尊壽樂，七秩脩齡古更稀。
+- 問寢龍樓家法在，鷄鳴步輦過慈幃。
 
 ## 拼音
 
-- chi2 ri4 hui2 cang1 lu4 ， xiang2 fei1 xia4 qing4 xiao1 。
-- ling2 chun1 chu3 shou4 gu3 ， bao3 ce4 dai4 qiong2 yao2 。
+- san1 zhao1 bei4 fu2 zun1 shou4 le4 ， qi1 zhi4 xiu1 ling2 gu3 geng4 xi1 。
+- wen4 qin3 long2 lou2 jia1 fa3 zai4 ， ji1 ming2 bu4 nian3 guo4 ci2 wei2 。
 
 ## 注释
 

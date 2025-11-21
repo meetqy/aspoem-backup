@@ -6,25 +6,25 @@ titleSlug: yu-qing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久雨作我病，今朝身頓輕。
-- 花房避初旭，簾影弄新晴。
-- 漉酒綸巾折，聽琴拄杖横。
-- 翛然又終日，未覺負平生。
+- 小雨初增氣慘凄，新晴差解病沉迷。
+- 虛廊靜院聽松籟，細草甘泉養鹿麛。
+- 寒靄細分山遠近，野歌相應路高低。
+- 孰知倦客蕭然意，水品茶經手自携。
 
 ## 拼音
 
-- jiu3 yu3 zuo4 wo3 bing4 ， jin1 zhao1 shen1 dun4 qing1 。
-- hua1 fang2 bi4 chu1 xu4 ， lian2 ying3 nong4 xin1 qing2 。
-- lu4 jiu3 lun2 jin1 zhe2 ， ting1 qin2 zhu3 zhang4 heng2 。
-- xiao1 ran2 you4 zhong1 ri4 ， wei4 jue2 fu4 ping2 sheng1 。
+- xiao3 yu3 chu1 zeng1 qi4 can3 qi1 ， xin1 qing2 cha4 jie3 bing4 chen2 mi2 。
+- xu1 lang2 jing4 yuan4 ting1 song1 lai4 ， xi4 cao3 gan1 quan2 yang3 lu4 mi2 。
+- han2 ai3 xi4 fen1 shan1 yuan3 jin4 ， ye3 ge1 xiang1 ying1 lu4 gao1 di1 。
+- shu2 zhi1 juan4 ke4 xiao1 ran2 yi4 ， shui3 pin3 cha2 jing1 shou3 zi4 xie2 。
 
 ## 注释
 

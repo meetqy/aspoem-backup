@@ -3,22 +3,22 @@ id: zhang-zhi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 張埴
-authorPinyin: zhang1 zhi2
+author: 張誌
+authorPinyin: zhang1 zhi4
 authorSlug: zhang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜靜莫吟奇險句，恐驚明月墮波寒。
+- 矗漢危橋吞兔魄，出林疏磬落鯨濤。
 
 ## 拼音
 
-- ye4 jing4 mo4 yin2 qi2 xian3 ju4 ， kong3 jing1 ming2 yue4 duo4 bo1 han2 。
+- chu4 han4 wei1 qiao2 tun1 tu4 po4 ， chu1 lin2 shu1 qing4 luo4 jing1 tao1 。
 
 ## 注释
 

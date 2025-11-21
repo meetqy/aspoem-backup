@@ -6,10 +6,10 @@ titleSlug: he-zhu-zhong-fang-song-ran-she-shi-wu-wei-huan-li-yang
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,30 @@
 ---
 id: lu-you-xiao-yu-er-shou-qi-yi
-title: 曉雨二首  其一
+title: 小雨二首  其一
 titlePinyin: xiao3 yu3 er4 shou3     qi2 yi1
 titleSlug: xiao-yu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平明小雨壓香塵，遶舍扶疏綠漸勻。
-- 睡過花時慵著句，老来春事不關身。
+- 小雨過巖扃，殘雲傍野亭。
+- 花光相映發，鶯語苦叮嚀。
+- 舉酒和神氣，彈琴悅性靈。
+- 索居朋友絕，得句遣誰聽。
 
 ## 拼音
 
-- ping2 ming2 xiao3 yu3 ya1 xiang1 chen2 ， rao4 she4 fu2 shu1 lü4 jian4 yun2 。
-- shui4 guo4 hua1 shi2 yong1 zhu4 ju4 ， lao3 lai2 chun1 shi4 bu4 guan1 shen1 。
+- xiao3 yu3 guo4 yan2 jiong1 ， can2 yun2 bang4 ye3 ting2 。
+- hua1 guang1 xiang1 ying4 fa1 ， ying1 yu3 ku3 ding1 ning2 。
+- ju3 jiu3 he2 shen2 qi4 ， dan4 qin2 yue4 xing4 ling2 。
+- suo3 ju1 peng2 you0 jue2 ， de2 ju4 qian3 shui2 ting1 。
 
 ## 注释
 

@@ -1,26 +1,32 @@
 ---
 id: shi-wei-yi-ji-song-yi-bai-san-shi-liu-shou-qi-yi-si
-title: 偈頌一百三十六首  其一四
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 liu4 shou3     qi2 yi1 si4
+title: 偈頌一百三十六首  其一○四
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 liu4 shou3     qi2 yi1 ○ si4
 titleSlug: ji-song-yi-bai-san-shi-liu-shou-qi-yi-si
 author: 釋惟一
 authorPinyin: shi4 wei2 yi1
 authorSlug: shi-wei-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 虎溪冰瑩長空月，鳳嶺松吟後夜風。
-- 堪笑堪悲翁老子，儼然不改舊時容。
+- 一月復一月，此月又過五。
+- 兩輪日月何奔忙，百年彈指如虛度。
+- 物不遷，還知否。
+- 不是佛，亦非祖。
+- 流水不腐，戶樞不蠹。
 
 ## 拼音
 
-- hu3 xi1 bing1 ying2 chang2 kong1 yue4 ， feng4 ling3 song1 yin2 hou4 ye4 feng1 。
-- kan1 xiao4 kan1 bei1 weng1 lao3 zi3 ， yan3 ran2 bu4 gai3 jiu4 shi2 rong2 。
+- yi1 yue4 fu4 yi2 yue4 ， ci3 yue4 you4 guo4 wu3 。
+- liang3 lun2 ri4 yue4 he2 ben1 mang2 ， bai3 nian2 dan4 zhi3 ru2 xu1 du4 。
+- wu4 bu4 qian1 ， huan2 zhi1 fou3 。
+- bu2 shi4 fo2 ， yi4 fei1 zu3 。
+- liu2 shui3 bu4 fu3 ， hu4 shu1 bu2 du4 。
 
 ## 注释
 

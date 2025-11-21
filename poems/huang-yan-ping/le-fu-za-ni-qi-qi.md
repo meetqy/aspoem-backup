@@ -6,10 +6,10 @@ titleSlug: le-fu-za-ni-qi-qi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2
 authorSlug: huang-yan-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

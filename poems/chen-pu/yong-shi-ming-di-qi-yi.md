@@ -6,21 +6,21 @@ titleSlug: yong-shi-ming-di-qi-yi
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 後宮任姒古今希，前殿絃歌鳳已知。
-- 孔子孟軻真薄命，不生建武永平時。
+- 柳谷川西示討曹，摩波井底見芳髦。
+- 藩垣屏翰無方尺，何用凌霄百丈高。
 
 ## 拼音
 
-- hou4 gong1 ren4 si4 gu3 jin1 xi1 ， qian2 dian4 xian2 ge1 feng4 yi3 zhi1 。
-- kong3 zi3 meng4 ke1 zhen1 bo2 ming4 ， bu4 sheng1 jian4 wu3 yong3 ping2 shi2 。
+- liu3 gu3 chuan1 xi1 shi4 tao3 cao2 ， mo2 bo1 jing3 di3 jian4 fang1 mao2 。
+- fan1 yuan2 ping2 han4 wu2 fang1 chi3 ， he2 yong4 ling2 xiao1 bai3 zhang4 gao1 。
 
 ## 注释
 

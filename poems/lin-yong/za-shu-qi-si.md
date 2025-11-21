@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-si
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竺僊論五百劫，蒙叟誇八千春。
-- 但聞堯舜氏作，誰識羲黄上人。
+- 仙掌承來求大藥，法身贖得費千金。
+- 兩宗曾誤國家事，百世誰明佛老心。
 
 ## 拼音
 
-- zhu2 xian1 lun4 wu3 bai3 jie2 ， meng2 sou3 kua1 ba1 qian1 chun1 。
-- dan4 wen2 yao2 shun4 shi4 zuo4 ， shui2 shi2 xi1 huang2 shang4 ren2 。
+- xian1 zhang3 cheng2 lai2 qiu2 da4 yao4 ， fa3 shen1 shu2 de2 fei4 qian1 jin1 。
+- liang3 zong1 ceng2 wu4 guo2 jia1 shi4 ， bai3 shi4 shui2 ming2 fo2 lao3 xin1 。
 
 ## 注释
 

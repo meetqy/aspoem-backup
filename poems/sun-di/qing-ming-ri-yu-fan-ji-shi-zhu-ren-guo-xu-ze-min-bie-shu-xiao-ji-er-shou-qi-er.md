@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-yu-fan-ji-shi-zhu-ren-guo-xu-ze-min-bie-shu-xiao-ji-er-s
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

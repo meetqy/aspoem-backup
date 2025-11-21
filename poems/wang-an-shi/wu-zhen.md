@@ -6,25 +6,21 @@ titleSlug: wu-zhen
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百年春夢去悠悠，不復吹簫向此留。
-- 野草自花還自落，鳴禽相乳亦相酬。
-- 舊蹊埋沒開新徑，朱戶欹斜見畫樓。
-- 欲把一杯無伴侶，眼看興廢使人愁。
+- 午枕花前簟欲流，日催紅影上簾鈎。
+- 窺人鳥喚悠颺夢，隔水山供宛轉愁。
 
 ## 拼音
 
-- bai3 nian2 chun1 meng4 qu4 you1 you1 ， bu2 fu4 chui1 xiao1 xiang4 ci3 liu2 。
-- ye3 cao3 zi4 hua1 huan2 zi4 luo4 ， ming2 qin2 xiang1 ru3 yi4 xiang1 chou2 。
-- jiu4 qi1 mai2 mei2 kai1 xin1 jing4 ， zhu1 hu4 qi1 xie2 jian4 hua4 lou2 。
-- yu4 ba3 yi4 bei1 wu2 ban4 lü3 ， yan3 kan4 xing1 fei4 shi3 ren2 chou2 。
+- wu3 zhen3 hua1 qian2 dian4 yu4 liu2 ， ri4 cui1 hong2 ying3 shang4 lian2 gou1 。
+- kui1 ren2 niao3 huan4 you1 yang2 meng4 ， ge2 shui3 shan1 gong4 wan3 zhuan3 chou2 。
 
 ## 注释
 

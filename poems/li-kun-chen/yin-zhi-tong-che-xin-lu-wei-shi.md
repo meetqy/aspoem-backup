@@ -6,10 +6,10 @@ titleSlug: yin-zhi-tong-che-xin-lu-wei-shi
 author: 李坤臣
 authorPinyin: li3 kun1 chen2
 authorSlug: li-kun-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: jiang-shang
 author: 晁公遡
 authorPinyin: chao2 gong1 su4
 authorSlug: chao-gong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江淺晴沙見，山高細路分。
-- 老藤維墮石，遠樹掛殘雲。
-- 燕鴈遥難到，巴鶑暖遂聞。
-- 花飛少顔色，委地自紛紛。
+- 岸冷霜排草，川明月上梅。
+- 清游誠可愛，深夜孰能來。
+- 不作尋山去，難成訪剡回。
+- 此生慙野老，過往只田萊。
 
 ## 拼音
 
-- jiang1 qian3 qing2 sha1 jian4 ， shan1 gao1 xi4 lu4 fen1 。
-- lao3 teng2 wei2 duo4 shi2 ， yuan3 shu4 gua4 can2 yun2 。
-- yan4 yan4 yao2 nan2 dao4 ， ba1 ying1 nuan3 sui4 wen2 。
-- hua1 fei1 shao3 yan2 se4 ， wei3 di4 zi4 fen1 fen1 。
+- an4 leng3 shuang1 pai2 cao3 ， chuan1 ming2 yue4 shang4 mei2 。
+- qing1 you2 cheng2 ke3 ai4 ， shen1 ye4 shu2 neng2 lai2 。
+- bu2 zuo4 xun2 shan1 qu4 ， nan2 cheng2 fang3 yan3 hui2 。
+- ci3 sheng1 can2 ye3 lao3 ， guo4 wang3 zhi1 tian2 lai2 。
 
 ## 注释
 

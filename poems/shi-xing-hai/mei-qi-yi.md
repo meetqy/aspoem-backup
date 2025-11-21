@@ -1,26 +1,26 @@
 ---
 id: shi-xing-hai-mei-qi-yi
-title: 梅  其一
-titlePinyin: mei2     qi2 yi1
+title: 梅  其一○
+titlePinyin: mei2     qi2 yi1 ○
 titleSlug: mei-qi-yi
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉神何事带紅綃，未讓胭脂與杏桃。
-- 天下更無清可比，湘纍不敢入離騷。
+- 冷澹孤芳雪裏春，園林風景一番新。
+- 可憐花與頭俱白，豈晚相看似故人。
 
 ## 拼音
 
-- yu4 shen2 he2 shi4 dai4 hong2 xiao1 ， wei4 rang4 yan1 zhi0 yu3 xing4 tao2 。
-- tian1 xia4 geng4 wu2 qing1 ke3 bi3 ， xiang1 lei2 bu4 gan3 ru4 li2 sao1 。
+- leng3 dan4 gu1 fang1 xue3 li3 chun1 ， yuan2 lin2 feng1 jing3 yi4 fan1 xin1 。
+- ke3 lian2 hua1 yu3 tou2 ju4 bai2 ， qi3 wan3 xiang1 kan4 si4 gu4 ren2 。
 
 ## 注释
 

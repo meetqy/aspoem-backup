@@ -3,22 +3,22 @@ id: ou-yang-jing-ju-qi-san
 title: 句  其三
 titlePinyin: ju4     qi2 san1
 titleSlug: ju-qi-san
-author: 歐陽景
-authorPinyin: ou1 yang2 jing3
+author: 歐陽經
+authorPinyin: ou1 yang2 jing1
 authorSlug: ou-yang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徧向蜀都呈巧樣，被人翻入錦紋頭。
+- 小桃斜映綠楊絲，激水泠泠漾日暉。
 
 ## 拼音
 
-- bian4 xiang4 shu3 du1 cheng2 qiao3 yang4 ， bei4 ren2 fan1 ru4 jin3 wen2 tou2 。
+- xiao3 tao2 xie2 ying4 lü4 yang2 si1 ， ji1 shui3 ling2 ling2 yang4 ri4 hui1 。
 
 ## 注释
 

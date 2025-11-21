@@ -6,9 +6,9 @@ titleSlug: ju
 author: 呂端
 authorPinyin: lü3 duan1
 authorSlug: lu-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

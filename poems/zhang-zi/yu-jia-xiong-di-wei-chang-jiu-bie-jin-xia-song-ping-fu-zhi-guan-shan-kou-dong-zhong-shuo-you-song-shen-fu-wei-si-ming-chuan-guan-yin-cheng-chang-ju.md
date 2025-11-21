@@ -6,10 +6,10 @@ titleSlug: yu-jia-xiong-di-wei-chang-jiu-bie-jin-xia-song-ping-fu-zhi-guan-shan-
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

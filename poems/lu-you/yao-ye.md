@@ -6,25 +6,25 @@ titleSlug: yao-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遥夜雨聲急，愔愔窗户幽。
-- 開編堯舜在，得句鬼神愁。
-- 同俗愚儒辠，容身壯士羞。
-- 燈殘不成睡，曉角動南樓。
+- 遥夜凛高秋，蕭條念褐裘。
+- 烟江新雁下，竹塢暗螢流。
+- 舊友嗟誰在，初心恐不酬。
+- 一尊桑落酒，聊得洗吾愁。
 
 ## 拼音
 
-- yao2 ye4 yu3 sheng1 ji2 ， yin1 yin1 chuang1 hu0 you1 。
-- kai1 bian1 yao2 shun4 zai4 ， de2 ju4 gui3 shen2 chou2 。
-- tong2 su2 yu2 ru2 zui4 ， rong2 shen1 zhuang4 shi4 xiu1 。
-- deng1 can2 bu4 cheng2 shui4 ， xiao3 jiao3 dong4 nan2 lou2 。
+- yao2 ye4 lin3 gao1 qiu1 ， xiao1 tiao2 nian4 he4 qiu2 。
+- yan1 jiang1 xin1 yan4 xia4 ， zhu2 wu4 an4 ying2 liu2 。
+- jiu4 you3 jie1 shui2 zai4 ， chu1 xin1 kong3 bu4 chou2 。
+- yi4 zun1 sang1 luo4 jiu3 ， liao2 de2 xi3 wu2 chou2 。
 
 ## 注释
 

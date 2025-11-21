@@ -6,23 +6,21 @@ titleSlug: zhang-guo-lao-xiao-ke
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 張果老馿兒，開元天寶時。
-- 三郎非仙才，此老戲之如小兒。
-- 異代想像空好奇，莫解莫說且莫知。
+- 袖手風前散白鬚，長安道上且騎馿。
+- 蒼黄失脚君門裏，贏得他人作畫圖。
 
 ## 拼音
 
-- zhang1 guo3 lao3 lu2 er2 ， kai1 yuan2 tian1 bao3 shi2 。
-- san1 lang2 fei1 xian1 cai2 ， ci3 lao3 xi4 zhi1 ru2 xiao3 er2 。
-- yi4 dai4 xiang3 xiang4 kong1 hao4 qi2 ， mo4 jie3 mo4 shuo1 qie3 mo4 zhi1 。
+- xiu4 shou3 feng1 qian2 san4 bai2 xu1 ， chang2 an1 dao4 shang4 qie3 qi2 lu2 。
+- cang1 huang2 shi1 jiao3 jun1 men2 li3 ， ying2 de2 ta1 ren2 zuo4 hua4 tu2 。
 
 ## 注释
 

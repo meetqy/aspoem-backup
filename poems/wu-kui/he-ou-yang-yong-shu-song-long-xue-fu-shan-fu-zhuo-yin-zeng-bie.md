@@ -6,10 +6,10 @@ titleSlug: he-ou-yang-yong-shu-song-long-xue-fu-shan-fu-zhuo-yin-zeng-bie
 author: 吳奎
 authorPinyin: wu2 kui2
 authorSlug: wu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ji-shi-wen-er-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 父子相爲命，淮鄉望海隅。
-- 誰非牛舐犢，心羨燕將雛。
-- 綵服藏書蠹，青春負隙駒。
-- 營營溫飽計，猶恐未良圖。
+- 世塗豈必盡籠囚，自是迂疎拙應酬。
+- 簿領嬰心寧素志，夢魂何日不滄洲。
+- 揆吾溫飽兒堪託，平昔行藏婦與謀。
+- 已判來年拂衣去，寄言亟辦釣魚舟。
 
 ## 拼音
 
-- fu4 zi3 xiang1 wei2 ming4 ， huai2 xiang1 wang4 hai3 yu2 。
-- shui2 fei1 niu2 shi4 du2 ， xin1 xian4 yan4 jiang1 chu2 。
-- cai3 fu2 cang2 shu1 du4 ， qing1 chun1 fu4 xi4 ju1 。
-- ying2 ying2 wen1 bao3 ji4 ， you2 kong3 wei4 liang2 tu2 。
+- shi4 tu2 qi3 bi4 jin4 long2 qiu2 ， zi4 shi4 yu1 shu1 zhuo1 ying1 chou2 。
+- bo2 ling3 ying1 xin1 ning2 su4 zhi4 ， meng4 hun2 he2 ri4 bu4 cang1 zhou1 。
+- kui2 wu2 wen1 bao3 er2 kan1 tuo1 ， ping2 xi1 xing2 cang2 fu4 yu3 mou2 。
+- yi3 pan4 lai2 nian2 fu2 yi1 qu4 ， ji4 yan2 ji2 ban4 diao4 yu2 zhou1 。
 
 ## 注释
 

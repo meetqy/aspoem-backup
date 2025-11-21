@@ -6,10 +6,10 @@ titleSlug: ci-yun-wang-jing-yi-zheng-yue-shi-liu-ye-sheng-su-guo-jing-ling-jie
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

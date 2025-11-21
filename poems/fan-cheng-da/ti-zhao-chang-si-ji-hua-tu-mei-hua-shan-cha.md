@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-zhao-chang-si-ji-hua-tu-mei-hua-shan-cha
-title: 題趙昌四季花圖・梅花山茶
-titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2・mei2 hua1 shan1 cha2
+title: 題趙昌四季花圖 梅花山茶
+titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2   mei2 hua1 shan1 cha2
 titleSlug: ti-zhao-chang-si-ji-hua-tu-mei-hua-shan-cha
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

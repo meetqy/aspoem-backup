@@ -6,25 +6,21 @@ titleSlug: ye-su-xie-xi-wen-du-jian
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 船窗初日弄暉暉，起坐胡牀自攬衣。
-- 無數青山隨岸改，幾聲幽鳥喚人歸。
-- 鷗盟好在重遊戲，蝶夢驚回果是非。
-- 便擬走書聞稚子，歸來同買釣魚磯。
+- 解纜山銜日，移舟雨暗溪。
+- 無情子規鳥，夢斷隔林啼。
 
 ## 拼音
 
-- chuan2 chuang1 chu1 ri4 nong4 hui1 hui1 ， qi3 zuo4 hu2 chuang2 zi4 lan3 yi1 。
-- wu2 shu4 qing1 shan1 sui2 an4 gai3 ， ji1 sheng1 you1 niao3 huan4 ren2 gui1 。
-- ou1 meng2 hao3 zai4 zhong4 you2 xi4 ， die2 meng4 jing1 hui2 guo3 shi4 fei1 。
-- bian4 ni3 zou3 shu1 wen2 zhi4 zi3 ， gui1 lai2 tong2 mai3 diao4 yu2 ji1 。
+- jie3 lan3 shan1 xian2 ri4 ， yi2 zhou1 yu3 an4 xi1 。
+- wu2 qing2 zi3 gui1 niao3 ， meng4 duan4 ge2 lin2 ti2 。
 
 ## 注释
 

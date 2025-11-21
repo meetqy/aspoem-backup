@@ -9,18 +9,18 @@ authorSlug: wei-zhuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 晴煙漠漠柳毿毿，不那離情酒半酣。
-- 更把玉鞭雲外指，斷腸春色在江南。
+- 一生風月供惆悵，到處煙花恨別離。
+- 止竟多情何處好，少年長抱少年悲。
 
 ## 拼音
 
-- qing2 yan1 mo4 mo4 liu3 san1 san1 ， bu2 na4 li2 qing2 jiu3 ban4 han1 。
-- geng4 ba3 yu4 bian1 yun2 wai4 zhi3 ， duan4 chang2 chun1 se4 zai4 jiang1 nan2 。
+- yi4 sheng1 feng1 yue4 gong4 chou2 chang4 ， dao4 chu3 yan1 hua1 hen4 bie2 li2 。
+- zhi3 jing4 duo1 qing2 he2 chu3 hao3 ， shao4 nian2 chang2 bao4 shao4 nian2 bei1 。
 
 ## 注释
 

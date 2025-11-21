@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 朱日新
 authorPinyin: zhu1 ri4 xin1
 authorSlug: zhu-ri-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

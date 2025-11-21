@@ -1,26 +1,26 @@
 ---
 id: gong-kai-song-jiang-san-shi-liu-zan-qi-er
-title: 宋江三十六贊  其二
-titlePinyin: song4 jiang1 san1 shi2 liu4 zan4     qi2 er4
+title: 宋江三十六贊  其二○
+titlePinyin: song4 jiang1 san1 shi2 liu4 zan4     qi2 er4 ○
 titleSlug: song-jiang-san-shi-liu-zan-qi-er
 author: 龔開
 authorPinyin: gong1 kai1
 authorSlug: gong-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古人用智，義國安民。
-- 惜哉所予，酒色粗人。
+- 風有大小，不辨雌雄。
+- 山谷之中，遇爾亦凶。
 
 ## 拼音
 
-- gu3 ren2 yong4 zhi4 ， yi4 guo2 an1 min2 。
-- xi1 zai1 suo3 yu3 ， jiu3 se4 cu1 ren2 。
+- feng1 you3 da4 xiao3 ， bu2 bian4 ci2 xiong2 。
+- shan1 gu3 zhi1 zhong1 ， yu4 er3 yi4 xiong1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: fei-lai-shan
 author: 安稹
 authorPinyin: an1 zhen3
 authorSlug: an-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

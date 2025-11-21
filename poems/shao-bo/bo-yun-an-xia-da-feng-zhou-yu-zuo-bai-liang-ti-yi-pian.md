@@ -6,9 +6,9 @@ titleSlug: bo-yun-an-xia-da-feng-zhou-yu-zuo-bai-liang-ti-yi-pian
 author: 邵博
 authorPinyin: shao4 bo2
 authorSlug: shao-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

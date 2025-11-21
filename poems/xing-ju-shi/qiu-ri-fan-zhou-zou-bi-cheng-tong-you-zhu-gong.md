@@ -6,10 +6,10 @@ titleSlug: qiu-ri-fan-zhou-zou-bi-cheng-tong-you-zhu-gong
 author: 邢居實
 authorPinyin: xing2 ju1 shi2
 authorSlug: xing-ju-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

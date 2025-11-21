@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 華清高樹出離宮，南陌柔條帶暖風。
-- 誰見輕陰是良夜，瀑泉聲畔月明中。
+- 數首新詞帶恨成，柳絲牽我我傷情。
+- 柔娥幸有腰支穩，試踏吹聲作唱聲。
 
 ## 拼音
 
-- hua2 qing1 gao1 shu4 chu1 li2 gong1 ， nan2 mo4 rou2 tiao2 dai4 nuan3 feng1 。
-- shui2 jian4 qing1 yin1 shi4 liang2 ye4 ， pu4 quan2 sheng1 pan4 yue4 ming2 zhong1 。
+- shu4 shou3 xin1 ci2 dai4 hen4 cheng2 ， liu3 si1 qian1 wo3 wo3 shang1 qing2 。
+- rou2 e2 xing4 you3 yao1 zhi1 wen3 ， shi4 ta4 chui1 sheng1 zuo4 chang4 sheng1 。
 
 ## 注释
 

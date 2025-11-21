@@ -6,10 +6,10 @@ titleSlug: tiao-xi
 author: 賈安宅
 authorPinyin: jia3 an1 zhai2
 authorSlug: jia-an-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: shi-hui-yuan-shan-ren-xie-shi-zhen-qing-zan-qi-san
-title: 禪人寫師真請讚  其三
-titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 san1
+title: 禪人寫師真請讚  其三○
+titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 san1 ○
 titleSlug: shan-ren-xie-shi-zhen-qing-zan-qi-san
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畫也錯，讚也錯。
-- 不識蜆子笊籬，喚作普化木鐸。
-- 而今要且頭不是頭，脚不是脚。
-- 恐人無信，立此爲約。
+- 大道廓然，真空泯跡。
+- 金裏淘砂，玉中辨石。
+- 衲僧用處脫羅籠，熨斗煎茶銚不同。
+- 一聲師子吼，遍界絕狐蹤。
 
 ## 拼音
 
-- hua4 ye3 cuo4 ， zan4 ye3 cuo4 。
-- bu4 shi2 xian3 zi3 zhao4 li2 ， huan4 zuo4 pu3 hua4 mu4 duo2 。
-- er2 jin1 yao4 qie3 tou2 bu2 shi4 tou2 ， jiao3 bu2 shi4 jiao3 。
-- kong3 ren2 wu2 xin4 ， li4 ci3 wei2 yue1 。
+- da4 dao4 kuo4 ran2 ， zhen1 kong1 min3 ji4 。
+- jin1 li3 tao2 sha1 ， yu4 zhong1 bian4 shi2 。
+- na4 seng1 yong4 chu3 tuo1 luo2 long2 ， yun4 dou3 jian1 cha2 diao4 bu4 tong2 。
+- yi4 sheng1 shi1 zi3 hou3 ， bian4 jie4 jue2 hu2 zong1 。
 
 ## 注释
 

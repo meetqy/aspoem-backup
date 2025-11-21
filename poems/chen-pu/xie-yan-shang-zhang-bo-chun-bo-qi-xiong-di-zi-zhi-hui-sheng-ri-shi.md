@@ -6,10 +6,10 @@ titleSlug: xie-yan-shang-zhang-bo-chun-bo-qi-xiong-di-zi-zhi-hui-sheng-ri-shi
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

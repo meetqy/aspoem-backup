@@ -1,30 +1,30 @@
 ---
 id: hua-yue-ji-shi
-title: 紀事
-titlePinyin: ji4 shi4
+title: 紀時
+titlePinyin: ji4 shi2
 titleSlug: ji-shi
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鉗口刳腸未足殫，窮原探本可觀瀾。
-- 乞醯孰謂鄰非直，反矢須知友必端。
-- 暴虎欲從頭碎璧，沐猴還慮髮衝冠。
-- 積薪措火居其下，試問賈生安未安。
+- 古今多少好英雄，未必奸邪未必忠。
+- 上黨鼎膏流地白，長平坑血濺天紅。
+- 三邊傳檄兵雖息，二榷開場貨未通。
+- 更願年豐富金帛，飽裝駝駕爲和戎。
 
 ## 拼音
 
-- qian2 kou3 ku1 chang2 wei4 zu2 dan1 ， qiong2 yuan2 tan4 ben3 ke3 guan1 lan2 。
-- qi3 xi1 shu2 wei4 lin2 fei1 zhi2 ， fan3 shi3 xu1 zhi1 you3 bi4 duan1 。
-- bao4 hu3 yu4 cong2 tou2 sui4 bi4 ， mu4 hou2 huan2 lü4 fa4 chong1 guan1 。
-- ji1 xin1 cuo4 huo3 ju1 qi2 xia4 ， shi4 wen4 jia3 sheng1 an1 wei4 an1 。
+- gu3 jin1 duo1 shao3 hao3 ying1 xiong2 ， wei4 bi4 jian1 xie2 wei4 bi4 zhong1 。
+- shang4 dang3 ding3 gao1 liu2 di4 bai2 ， chang2 ping2 keng1 xue4 jian4 tian1 hong2 。
+- san1 bian1 chuan2 xi2 bing1 sui1 xi1 ， er4 que4 kai1 chang3 huo4 wei4 tong1 。
+- geng4 yuan4 nian2 feng1 fu4 jin1 bo2 ， bao3 zhuang1 tuo2 jia4 wei2 he2 rong2 。
 
 ## 注释
 

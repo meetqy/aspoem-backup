@@ -6,10 +6,10 @@ titleSlug: da-he-lin-ji-yuan-xi-sheng-yu-ji-yu-guo-zhi
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

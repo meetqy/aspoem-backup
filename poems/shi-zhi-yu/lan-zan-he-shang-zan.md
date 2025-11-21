@@ -6,21 +6,21 @@ titleSlug: lan-zan-he-shang-zan
 author: 釋智愚
 authorPinyin: shi4 zhi4 yu2
 authorSlug: shi-zhi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石林冰冷，糞火芋香。
-- 深撥淺得，滋味最長。
+- 枕石苔生，崖藤影綠。
+- 天書促行，芋子未熟。
 
 ## 拼音
 
-- shi2 lin2 bing1 leng3 ， fen4 huo3 yu4 xiang1 。
-- shen1 bo1 qian3 de2 ， zi1 wei4 zui4 chang2 。
+- zhen3 shi2 tai2 sheng1 ， ya2 teng2 ying3 lü4 。
+- tian1 shu1 cu4 xing2 ， yu4 zi3 wei4 shu2 。
 
 ## 注释
 

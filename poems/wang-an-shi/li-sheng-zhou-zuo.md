@@ -6,21 +6,21 @@ titleSlug: li-sheng-zhou-zuo
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘菊冥冥風更吹，雨如梅子欲黄時。
-- 相看握手總無語，愁滿眼前心自知。
+- 相看不忍發，慘澹暮潮平。
+- 語罷更携手，月明洲渚生。
 
 ## 拼音
 
-- can2 ju2 ming2 ming2 feng1 geng4 chui1 ， yu3 ru2 mei2 zi0 yu4 huang2 shi2 。
-- xiang1 kan4 wo4 shou3 zong3 wu2 yu3 ， chou2 man3 yan3 qian2 xin1 zi4 zhi1 。
+- xiang1 kan4 bu4 ren3 fa1 ， can3 dan4 mu4 chao2 ping2 。
+- yu3 ba4 geng4 xie2 shou3 ， yue4 ming2 zhou1 zhu3 sheng1 。
 
 ## 注释
 

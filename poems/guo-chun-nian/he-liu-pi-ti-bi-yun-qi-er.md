@@ -6,10 +6,10 @@ titleSlug: he-liu-pi-ti-bi-yun-qi-er
 author: 郭椿年
 authorPinyin: guo1 chun1 nian2
 authorSlug: guo-chun-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

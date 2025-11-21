@@ -6,10 +6,10 @@ titleSlug: ju
 author: 查應辰
 authorPinyin: cha2 ying1 chen2
 authorSlug: cha-ying-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

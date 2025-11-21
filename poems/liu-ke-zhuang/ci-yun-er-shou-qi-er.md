@@ -6,25 +6,25 @@ titleSlug: ci-yun-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半生竊祿取禾廛，晚節休官失秫田。
-- 伴陸先生遊甫里，同陶徵士訪斜川。
-- 鳳池信美其如奪，鶑谷雖幽不願遷。
-- 自笑劉牆如許短，謫仙壇未易扳緣。
+- 投老參陪杖屨間，頗容摘宋更薰班。
+- 端能面我九年壁，不惜分君一半山。
+- 絕喜庚桑來畏壘，懶爲涑水續君灘。
+- 夷居巷處何嘗陋，但看當年孔與顔。
 
 ## 拼音
 
-- ban4 sheng1 qie4 lu4 qu3 he2 chan2 ， wan3 jie2 xiu1 guan1 shi1 shu2 tian2 。
-- ban4 lu4 xian1 sheng0 you2 fu3 li3 ， tong2 tao2 zhi3 shi4 fang3 xie2 chuan1 。
-- feng4 chi2 xin4 mei3 qi2 ru2 duo2 ， ying1 gu3 sui1 you1 bu2 yuan4 qian1 。
-- zi4 xiao4 liu2 qiang2 ru2 xu1 duan3 ， zhe2 xian1 tan2 wei4 yi4 ban1 yuan2 。
+- tou2 lao3 can1 pei2 zhang4 ju4 jian4 ， po1 rong2 zhai1 song4 geng4 xun1 ban1 。
+- duan1 neng2 mian4 wo3 jiu3 nian2 bi4 ， bu4 xi1 fen1 jun1 yi2 ban4 shan1 。
+- jue2 xi3 geng1 sang1 lai2 wei4 lei3 ， lan3 wei2 su4 shui3 xu4 jun1 tan1 。
+- yi2 ju1 xiang4 chu3 he2 chang2 lou4 ， dan4 kan4 dang1 nian2 kong3 yu3 yan2 。
 
 ## 注释
 

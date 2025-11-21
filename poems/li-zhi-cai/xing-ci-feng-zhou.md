@@ -6,9 +6,9 @@ titleSlug: xing-ci-feng-zhou
 author: 李之才
 authorPinyin: li3 zhi1 cai2
 authorSlug: li-zhi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

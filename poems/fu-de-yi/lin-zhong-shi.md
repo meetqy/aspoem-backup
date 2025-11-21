@@ -6,10 +6,10 @@ titleSlug: lin-zhong-shi
 author: 傅得一
 authorPinyin: fu4 de2 yi1
 authorSlug: fu-de-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

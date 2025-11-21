@@ -6,10 +6,10 @@ titleSlug: ling-yin-wang-ci-yu-xu-kai-xiao-hu-tong-xian-pu-reng-wei-zeng-zhi-hua
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

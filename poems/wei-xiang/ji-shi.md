@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲物半陰晴，春罍酒氣清。
-- 花空葉自隘，梅重核初成。
-- 噱論無柔語，酣歌有壯聲。
-- 翠眉應見笑，先老擲風情。
+- 舞蝶雙飛穿宿露，鳴禽相喚弄朝暾。
+- 澗盤石逕長蛇轉，山入秋空翠鳳騫。
+- 楓葉園林看自好，菊花時節興難論。
+- 高懷不爲塵勞減，安用笙簫簇酒樽。
 
 ## 拼音
 
-- yun2 wu4 ban4 yin1 qing2 ， chun1 lei2 jiu3 qi4 qing1 。
-- hua1 kong1 ye4 zi4 ai4 ， mei2 zhong4 he2 chu1 cheng2 。
-- jue2 lun4 wu2 rou2 yu3 ， han1 ge1 you3 zhuang4 sheng1 。
-- cui4 mei2 ying1 jian4 xiao4 ， xian1 lao3 zhi4 feng1 qing2 。
+- wu3 die2 shuang1 fei1 chuan1 su4 lu4 ， ming2 qin2 xiang1 huan4 nong4 chao2 tun1 。
+- jian4 pan2 shi2 jing4 chang2 she2 zhuan3 ， shan1 ru4 qiu1 kong1 cui4 feng4 qian1 。
+- feng1 ye4 yuan2 lin2 kan4 zi4 hao3 ， ju2 hua1 shi2 jie2 xing1 nan2 lun4 。
+- gao1 huai2 bu4 wei2 chen2 lao2 jian3 ， an1 yong4 sheng1 xiao1 cu4 jiu3 zun1 。
 
 ## 注释
 

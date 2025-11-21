@@ -6,10 +6,10 @@ titleSlug: liu-bei-chi
 author: 徐蘭皋
 authorPinyin: xu2 lan2 gao1
 authorSlug: xu-lan-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

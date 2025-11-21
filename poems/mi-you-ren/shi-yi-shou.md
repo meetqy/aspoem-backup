@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 米友仁
 authorPinyin: mi3 you3 ren2
 authorSlug: mi-you-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山氣最佳處，卷舒晴晦雲。
-- 心潜帝鄉者，願作乘彼君。
+- 密密萬山重，一派哀湍瀉。
+- 此志入瑶琴，當有知音者。
 
 ## 拼音
 
-- shan1 qi4 zui4 jia1 chu3 ， juan3 shu1 qing2 hui4 yun2 。
-- xin1 qian2 di4 xiang1 zhe3 ， yuan4 zuo4 cheng2 bi3 jun1 。
+- mi4 mi4 wan4 shan1 zhong4 ， yi2 pai4 ai1 tuan1 xie4 。
+- ci3 zhi4 ru4 yao2 qin2 ， dang1 you3 zhi1 yin1 zhe3 。
 
 ## 注释
 

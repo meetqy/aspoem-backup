@@ -6,10 +6,10 @@ titleSlug: ci-jing
 author: 方山京
 authorPinyin: fang1 shan1 jing1
 authorSlug: fang-shan-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

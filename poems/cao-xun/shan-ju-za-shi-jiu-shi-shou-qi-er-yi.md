@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚家台山下，雲水同一鄉。
-- 人事講鄰曲，雞黍期相當。
-- 秋風起木杪，凉氣吹衣裳。
-- 東家喜見招，社甕開新嘗。
+- 凄風入林薄，旵日升山遲。
+- 槿花落因雨，菊英開映籬。
+- 身老每倦客，目昏猶喜詩。
+- 所欣水雲念，得赴猿鶴期。
 
 ## 拼音
 
-- wan3 jia1 tai2 shan1 xia4 ， yun2 shui3 tong2 yi4 xiang1 。
-- ren2 shi4 jiang3 lin2 qu3 ， ji1 shu3 qi1 xiang1 dang1 。
-- qiu1 feng1 qi3 mu4 miao3 ， liang2 qi4 chui1 yi1 shang0 。
-- dong1 jia1 xi3 jian4 zhao1 ， she4 weng4 kai1 xin1 chang2 。
+- qi1 feng1 ru4 lin2 bao2 ， chan3 ri4 sheng1 shan1 chi2 。
+- jin3 hua1 luo4 yin1 yu3 ， ju2 ying1 kai1 ying4 li2 。
+- shen1 lao3 mei3 juan4 ke4 ， mu4 hun1 you2 xi3 shi1 。
+- suo3 xin1 shui3 yun2 nian4 ， de2 fu4 yuan2 he4 qi1 。
 
 ## 注释
 

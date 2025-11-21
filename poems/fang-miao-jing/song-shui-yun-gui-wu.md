@@ -6,10 +6,10 @@ titleSlug: song-shui-yun-gui-wu
 author: 方妙靜
 authorPinyin: fang1 miao4 jing4
 authorSlug: fang-miao-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 石懋
 authorPinyin: shi2 mao4
 authorSlug: shi-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jian-wei-zhu-bo-xi-shang-zuo
 author: 李殿丞
 authorPinyin: li3 dian4 cheng2
 authorSlug: li-dian-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

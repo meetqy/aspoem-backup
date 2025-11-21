@@ -9,20 +9,18 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雙燕子，聯聯翩翩幾萬迴。
-- （《唐人小說》本作聯翩幾萬迴。
-- ）强知人是客，方便惱他來。
+- 雙燕子，可可事風流。
+- 即令人得伴，更亦不相求。
 
 ## 拼音
 
-- shuang1 yan4 zi0 ， lian2 lian2 pian1 pian1 ji1 wan4 hui2 。
-- （《 tang2 ren2 xiao3 shuo1 》 ben3 zuo4 lian2 pian1 ji1 wan4 hui2 。
-- ） qiang2 zhi1 ren2 shi4 ke4 ， fang1 bian4 nao3 ta1 lai2 。
+- shuang1 yan4 zi0 ， ke3 ke3 shi4 feng1 liu2 。
+- ji2 ling4 ren2 de2 ban4 ， geng4 yi4 bu4 xiang1 qiu2 。
 
 ## 注释
 

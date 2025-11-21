@@ -6,10 +6,10 @@ titleSlug: you-lian-shan-yong-quan-guan-ci-wen-yu-ke-yun
 author: 麻臺文
 authorPinyin: ma2 tai2 wen2
 authorSlug: ma-tai-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

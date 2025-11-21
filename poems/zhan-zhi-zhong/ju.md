@@ -6,10 +6,10 @@ titleSlug: ju
 author: 湛執中
 authorPinyin: zhan4 zhi2 zhong1
 authorSlug: zhan-zhi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

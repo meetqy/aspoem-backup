@@ -6,9 +6,9 @@ titleSlug: xi-ying-gong-da-shi-gua-xi-tai-hua
 author: 陳摶
 authorPinyin: chen2 tuan2
 authorSlug: chen-tuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

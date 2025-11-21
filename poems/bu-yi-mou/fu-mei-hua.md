@@ -6,10 +6,10 @@ titleSlug: fu-mei-hua
 author: 布衣某
 authorPinyin: bu4 yi1 mou3
 authorSlug: bu-yi-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

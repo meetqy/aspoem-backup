@@ -6,10 +6,10 @@ titleSlug: ji-ju-liu-bie-li-zi-yu-shou-su-chu-shi-er-shou-qi-yi
 author: 劉安世
 authorPinyin: liu2 an1 shi4
 authorSlug: liu-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

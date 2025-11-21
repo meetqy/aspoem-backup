@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳思溫
 authorPinyin: chen2 si1 wen1
 authorSlug: chen-si-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

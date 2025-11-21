@@ -1,26 +1,26 @@
 ---
 id: wang-zhong-xiu-gong-ci-qi-yi
-title: 宮詞  其一
-titlePinyin: gong1 ci2     qi2 yi1
+title: 宮詞  其一○
+titlePinyin: gong1 ci2     qi2 yi1 ○
 titleSlug: gong-ci-qi-yi
 author: 王仲修
 authorPinyin: wang2 zhong4 xiu1
 authorSlug: wang-zhong-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 四海梯航賀歲元，千官環佩拜中天。
-- 願從今日稱觴後，舜殿垂衣一萬年。
+- 畫棟宵寒燕未來，江南誰寄一枝梅。
+- 閏年雪後春工晚，羯鼓催花滿檻開。
 
 ## 拼音
 
-- si4 hai3 ti1 hang2 he4 sui4 yuan2 ， qian1 guan1 huan2 pei4 bai4 zhong1 tian1 。
-- yuan4 cong2 jin1 ri4 cheng1 shang1 hou4 ， shun4 dian4 chui2 yi1 yi2 wan4 nian2 。
+- hua4 dong4 xiao1 han2 yan4 wei4 lai2 ， jiang1 nan2 shui2 ji4 yi4 zhi1 mei2 。
+- run4 nian2 xue3 hou4 chun1 gong1 wan3 ， jie2 gu3 cui1 hua1 man3 jian4 kai1 。
 
 ## 注释
 

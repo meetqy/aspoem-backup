@@ -9,7 +9,7 @@ authorSlug: shu-sun-xuan-guan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

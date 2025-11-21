@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-wu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東郊何必舞雲翹，太史休勞望斗杓。
-- 欲識皇都春色動，兩宮和氣舜承堯。
+- 官家閲武向茅籬，供帳都亭看凱還。
+- 鳳輦過門親獻壽，春風先已滿人間。
 
 ## 拼音
 
-- dong1 jiao1 he2 bi4 wu3 yun2 qiao2 ， tai4 shi3 xiu1 lao2 wang4 dou4 shao2 。
-- yu4 shi2 huang2 dou1 chun1 se4 dong4 ， liang3 gong1 he2 qi4 shun4 cheng2 yao2 。
+- guan1 jia1 yue4 wu3 xiang4 mao2 li2 ， gong4 zhang4 dou1 ting2 kan4 kai3 huan2 。
+- feng4 nian3 guo4 men2 qin1 xian4 shou4 ， chun1 feng1 xian1 yi3 man3 ren2 jian4 。
 
 ## 注释
 

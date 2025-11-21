@@ -6,25 +6,25 @@ titleSlug: er-shi-jiu-ri-han-shi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花間雨未乾，强飲食猶寒。
-- 山澗得名流，豈曰俗相看。
-- 晉文綿上田，往事今鼻酸。
-- 江南好風景，且取文酒懽。
+- 曉色濛濛淡淡烟，花間行過小溪邊。
+- 人家寒食當晴日，野老春遊近午天。
+- 吹盡海棠無步障，開來山柳有堆綿。
+- 呼兒覓友尋鄰伴，即看村農又下田。
 
 ## 拼音
 
-- hua1 jian4 yu3 wei4 qian2 ， qiang2 yin3 shi2 you2 han2 。
-- shan1 jian4 de2 ming2 liu2 ， qi3 yue1 su2 xiang1 kan4 。
-- jin4 wen2 mian2 shang4 tian2 ， wang3 shi4 jin1 bi2 suan1 。
-- jiang1 nan2 hao3 feng1 jing3 ， qie3 qu3 wen2 jiu3 huan1 。
+- xiao3 se4 meng2 meng2 dan4 dan4 yan1 ， hua1 jian4 xing2 guo4 xiao3 xi1 bian1 。
+- ren2 jia1 han2 shi2 dang1 qing2 ri4 ， ye3 lao3 chun1 you2 jin4 wu3 tian1 。
+- chui1 jin4 hai3 tang2 wu2 bu4 zhang4 ， kai1 lai2 shan1 liu3 you3 dui1 mian2 。
+- hu1 er2 mi4 you3 xun2 lin2 ban4 ， ji2 kan4 cun1 nong2 you4 xia4 tian2 。
 
 ## 注释
 

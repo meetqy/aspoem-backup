@@ -6,10 +6,10 @@ titleSlug: xian-pu-shi-jue-he-zhu-dai-zhi-qi-er
 author: 薛抗
 authorPinyin: xue1 kang4
 authorSlug: xue-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

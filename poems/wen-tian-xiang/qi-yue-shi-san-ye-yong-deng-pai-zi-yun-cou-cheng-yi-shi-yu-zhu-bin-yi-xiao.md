@@ -6,10 +6,10 @@ titleSlug: qi-yue-shi-san-ye-yong-deng-pai-zi-yun-cou-cheng-yi-shi-yu-zhu-bin-yi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

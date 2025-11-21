@@ -6,10 +6,10 @@ titleSlug: bie-ye-guan-ban
 author: 韓繳如
 authorPinyin: han2 jiao3 ru2
 authorSlug: han-jiao-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

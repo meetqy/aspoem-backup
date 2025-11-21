@@ -6,10 +6,10 @@ titleSlug: zhao-zhen-wen-chuan-jie-liu-li-deng-pu-xie-shan-shui-ren-wu-yi-zhu-fa
 author: 葉適
 authorPinyin: ye4 shi4
 authorSlug: ye-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

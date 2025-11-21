@@ -6,10 +6,10 @@ titleSlug: gong-he-yu-zhi-yuan-hui-zhi-ci-ri-jia-xue-ying-hou-xi-yan-wu-gong-xia
 author: 慕容彥逢
 authorPinyin: mu4 rong2 yan4 feng2
 authorSlug: mu-rong-yan-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

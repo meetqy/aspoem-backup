@@ -6,9 +6,9 @@ titleSlug: ling-yan
 author: 宋逸
 authorPinyin: song4 yi4
 authorSlug: song-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

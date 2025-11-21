@@ -6,10 +6,10 @@ titleSlug: ji-di-xie-en
 author: 吳必達
 authorPinyin: wu2 bi4 da2
 authorSlug: wu-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

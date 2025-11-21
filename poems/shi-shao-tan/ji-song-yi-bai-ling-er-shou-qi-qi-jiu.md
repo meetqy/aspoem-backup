@@ -6,23 +6,27 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-qi-jiu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 活鱍鱍，硬糾糾，明眼人覷不透。
-- 剛被春山杜宇知，點血啼清晝。
-- 臨風𨁝跳撼坤維，馿前馬後。
+- 毒窠蜂，惡相從。
+- 棒不至心死，喝不到耳聾。
+- 撥玄樞於機輪轉處，喪家私於小玉聲中。
+- 怨無窮，恨無窮。
+- 有口不能分雪得，一年一度，且聽落花啼鳥訴春風。
 
 ## 拼音
 
-- huo2 bo1 bo1 ， ying4 jiu1 jiu1 ， ming2 yan3 ren2 qu4 bu2 tou4 。
-- gang1 bei4 chun1 shan1 du4 yu3 zhi1 ， dian3 xue4 ti2 qing1 zhou4 。
-- lin2 feng1 𨁝 tiao4 han4 kun1 wei2 ， lu2 qian2 ma3 hou4 。
+- du2 ke1 feng1 ， e4 xiang1 cong2 。
+- bang4 bu2 zhi4 xin1 si3 ， he1 bu2 dao4 er3 long2 。
+- bo1 xuan2 shu1 wu1 ji1 lun2 zhuan3 chu3 ， sang1 jia1 si1 wu1 xiao3 yu4 sheng1 zhong1 。
+- yuan4 wu2 qiong2 ， hen4 wu2 qiong2 。
+- you3 kou3 bu4 neng2 fen1 xue3 de2 ， yi4 nian2 yi2 du4 ， qie3 ting1 luo4 hua1 ti2 niao3 su4 chun1 feng1 。
 
 ## 注释
 

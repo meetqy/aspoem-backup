@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 江漲柴門外，兒童報急流。
-- 下牀高數尺，倚杖沒中洲。
-- 細動迎風燕，輕搖逐浪鷗。
-- 漁人縈小楫，容易拔船頭。
+- 江發蠻夷漲，山添雨雪流。
+- 大聲吹地轉，高浪蹴天浮。
+- 魚鱉爲人得，蛟龍不自謀。
+- 輕帆好去便，吾道付滄洲。
 
 ## 拼音
 
-- jiang1 zhang3 chai2 men2 wai4 ， er2 tong2 bao4 ji2 liu2 。
-- xia4 chuang2 gao1 shu4 chi3 ， yi3 zhang4 mei2 zhong1 zhou1 。
-- xi4 dong4 ying2 feng1 yan4 ， qing1 yao2 zhu2 lang4 ou1 。
-- yu2 ren2 ying2 xiao3 ji2 ， rong2 yi4 ba2 chuan2 tou2 。
+- jiang1 fa1 man2 yi2 zhang3 ， shan1 tian1 yu3 xue3 liu2 。
+- da4 sheng1 chui1 di4 zhuan3 ， gao1 lang4 cu4 tian1 fu2 。
+- yu2 bie1 wei2 ren2 de2 ， jiao1 long2 bu2 zi4 mou2 。
+- qing1 fan1 hao3 qu4 bian4 ， wu2 dao4 fu4 cang1 zhou1 。
 
 ## 注释
 

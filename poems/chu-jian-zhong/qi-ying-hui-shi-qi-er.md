@@ -6,10 +6,10 @@ titleSlug: qi-ying-hui-shi-qi-er
 author: 楚建中
 authorPinyin: chu3 jian4 zhong1
 authorSlug: chu-jian-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

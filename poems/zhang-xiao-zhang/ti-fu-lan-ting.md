@@ -6,10 +6,10 @@ titleSlug: ti-fu-lan-ting
 author: 張孝章
 authorPinyin: zhang1 xiao4 zhang1
 authorSlug: zhang-xiao-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: he-qian-ren-yun-qi-er
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 庭前日日見蘭芽，誰把青山特地遮。
-- 雁影寂寥君又遠，歸期夜夜卜燈花。
+- 山靈豈是少恩哉，兩載從容自不來。
+- 羊石豈能留得住，和羹消息到寒梅。
 
 ## 拼音
 
-- ting2 qian2 ri4 ri4 jian4 lan2 ya2 ， shui2 ba3 qing1 shan1 te4 di4 zhe1 。
-- yan4 ying3 ji4 liao2 jun1 you4 yuan3 ， gui1 qi1 ye4 ye4 bu3 deng1 hua1 。
+- shan1 ling2 qi3 shi4 shao3 en1 zai1 ， liang3 zai4 cong2 rong2 zi4 bu4 lai2 。
+- yang2 shi2 qi3 neng2 liu2 de2 zhu4 ， he2 geng1 xiao1 xi0 dao4 han2 mei2 。
 
 ## 注释
 

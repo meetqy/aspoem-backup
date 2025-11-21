@@ -6,10 +6,10 @@ titleSlug: de-zhang-fa-cao-zai-yong-tong-zi-yun-zuo-shi-wei-bao-fu-yong-yun-feng
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

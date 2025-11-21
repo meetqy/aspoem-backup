@@ -6,10 +6,10 @@ titleSlug: yong-yang-fei-ju
 author: 李山節
 authorPinyin: li3 shan1 jie2
 authorSlug: li-shan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

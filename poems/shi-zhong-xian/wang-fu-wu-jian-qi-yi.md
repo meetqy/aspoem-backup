@@ -1,26 +1,26 @@
 ---
 id: shi-zhong-xian-wang-fu-wu-jian-qi-yi
-title: 往復無間  其一
-titlePinyin: wang3 fu4 wu2 jian4     qi2 yi1
+title: 往復無間  其一○
+titlePinyin: wang3 fu4 wu2 jian4     qi2 yi1 ○
 titleSlug: wang-fu-wu-jian-qi-yi
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平旦寅，朕兆之前已喪真。
-- 老胡鶴樹慚開口，猶舉雙趺誑後人。
+- 人定亥，六合茫茫誰不在。
+- 長空有月自尋常，霧起雲騰也奇怪。
 
 ## 拼音
 
-- ping2 dan4 yin2 ， zhen4 zhao4 zhi1 qian2 yi3 sang1 zhen1 。
-- lao3 hu2 he4 shu4 can2 kai1 kou3 ， you2 ju3 shuang1 fu1 kuang2 hou4 ren2 。
+- ren2 ding4 hai4 ， liu4 he2 mang2 mang2 shui2 bu2 zai4 。
+- chang2 kong1 you3 yue4 zi4 xun2 chang2 ， wu4 qi3 yun2 teng2 ye3 qi2 guai4 。
 
 ## 注释
 

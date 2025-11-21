@@ -6,10 +6,10 @@ titleSlug: cheng-nan-tang-jing-shan-shi
 author: 莫將
 authorPinyin: mo4 jiang1
 authorSlug: mo-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

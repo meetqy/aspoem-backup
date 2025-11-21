@@ -6,10 +6,10 @@ titleSlug: mei-yin-jun-liu-zhi-shou
 author: 趙洪
 authorPinyin: zhao4 hong2
 authorSlug: zhao-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

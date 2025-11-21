@@ -6,10 +6,10 @@ titleSlug: tian-ma-ge
 author: 何麟瑞
 authorPinyin: he2 lin2 rui4
 authorSlug: he-lin-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

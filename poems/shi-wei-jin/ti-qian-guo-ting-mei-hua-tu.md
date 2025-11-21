@@ -6,10 +6,10 @@ titleSlug: ti-qian-guo-ting-mei-hua-tu
 author: 釋惟謹
 authorPinyin: shi4 wei2 jin3
 authorSlug: shi-wei-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yun-jing-ren-zheng-yue-shi-er-ri-fang-wu-zhen-si-cheng-er-jue-qi-e
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

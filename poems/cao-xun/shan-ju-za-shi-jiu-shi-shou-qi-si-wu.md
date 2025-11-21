@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 調羹商相業，粉額漢宮粧。
-- 寄遠與却月，六朝用彌彰。
-- 犯寒清而潔，騷經何獨忘。
-- 撫卷懷靈均，靈均亦沉湘。
+- 雲山貯回腸，日月任轉轂。
+- 客居不問鄉，一飽寧較粟。
+- 家釀報浮蟻，溪鱗買尺玉。
+- 以充朝莫槃，懷抱無乃足。
 
 ## 拼音
 
-- diao4 geng1 shang1 xiang1 ye4 ， fen3 e2 han4 gong1 zhuang1 。
-- ji4 yuan3 yu3 que4 yue4 ， liu4 chao2 yong4 mi2 zhang1 。
-- fan4 han2 qing1 er2 jie2 ， sao1 jing1 he2 du2 wang4 。
-- fu3 juan4 huai2 ling2 jun1 ， ling2 jun1 yi4 chen2 xiang1 。
+- yun2 shan1 zhu4 hui2 chang2 ， ri4 yue4 ren4 zhuan3 gu3 。
+- ke4 ju1 bu2 wen4 xiang1 ， yi4 bao3 ning2 jiao4 su4 。
+- jia1 niang4 bao4 fu2 yi3 ， xi1 lin2 mai3 chi3 yu4 。
+- yi3 chong1 chao2 mo4 pan2 ， huai2 bao4 wu2 nai3 zu2 。
 
 ## 注释
 

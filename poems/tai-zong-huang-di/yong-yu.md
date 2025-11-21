@@ -9,22 +9,22 @@ authorSlug: tai-zong-huang-di
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 罩雲飄遠岫，噴雨泛長河。
-- 低飛昏嶺腹，斜足灑巖阿。
-- 泫叢珠締葉，起溜鏡圖波。
-- 濛柳添絲密，含吹織空羅。
+- 和氣吹綠野，梅雨灑芳田。
+- 新流添舊澗，宿霧足朝煙。
+- 雁溼行無次，花霑色更鮮。
+- 對此欣登歲，披襟弄五弦。
 
 ## 拼音
 
-- zhao4 yun2 piao1 yuan3 xiu4 ， pen1 yu3 fan4 chang2 he2 。
-- di1 fei1 hun1 ling3 fu4 ， xie2 zu2 sa3 yan2 a1 。
-- xuan4 cong2 zhu1 di4 ye4 ， qi3 liu1 jing4 tu2 bo1 。
-- meng2 liu3 tian1 si1 mi4 ， han2 chui1 zhi1 kong1 luo2 。
+- he2 qi4 chui1 lü4 ye3 ， mei2 yu3 sa3 fang1 tian2 。
+- xin1 liu2 tian1 jiu4 jian4 ， su4 wu4 zu2 chao2 yan1 。
+- yan4 shi1 xing2 wu2 ci4 ， hua1 zhan1 se4 geng4 xian1 。
+- dui4 ci3 xin1 deng1 sui4 ， pi1 jin1 nong4 wu3 xian2 。
 
 ## 注释
 

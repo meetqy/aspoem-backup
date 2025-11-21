@@ -6,31 +6,25 @@ titleSlug: ku-han
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不敢怨雲霧，不敢悲雪霜。
-- 此是上帝令，所以誅愆陽。
-- 不見李與桃，前日胡爲芳。
-- 不見蚊與穥，往日胡爲翔。
-- 反時固爲妖，徼倖真不祥。
-- 但令冷氣除，豈敢虞凍僵。
-- 吾道不終窮，君看松與篁。
+- 苦寒殊不意，衰老若爲謀。
+- 賜隔青綾被，貧餘白罽裘。
+- 蟄龍才自脫，過雁可深憂。
+- 靳靳西頹日，牆陰肯爲留。
 
 ## 拼音
 
-- bu4 gan3 yuan4 yun2 wu4 ， bu4 gan3 bei1 xue3 shuang1 。
-- ci3 shi4 shang4 di4 ling4 ， suo3 yi3 zhu1 qian1 yang2 。
-- bu2 jian4 li3 yu3 tao2 ， qian2 ri4 hu2 wei2 fang1 。
-- bu2 jian4 wen2 yu3 yu3 ， wang3 ri4 hu2 wei2 xiang2 。
-- fan3 shi2 gu4 wei2 yao1 ， jiao3 xing4 zhen1 bu4 xiang2 。
-- dan4 ling4 leng3 qi4 chu2 ， qi3 gan3 yu2 dong4 jiang1 。
-- wu2 dao4 bu4 zhong1 qiong2 ， jun1 kan4 song1 yu3 huang2 。
+- ku3 han2 shu1 bu2 yi4 ， shuai1 lao3 ruo4 wei2 mou2 。
+- ci4 ge2 qing1 ling2 bei4 ， pin2 yu2 bai2 ji4 qiu2 。
+- zhe2 long2 cai2 zi4 tuo1 ， guo4 yan4 ke3 shen1 you1 。
+- jin4 jin4 xi1 tui2 ri4 ， qiang2 yin1 ken3 wei2 liu2 。
 
 ## 注释
 

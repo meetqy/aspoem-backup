@@ -6,21 +6,21 @@ titleSlug: sheng-shou-he-duan-wu-tie-zi-qi-er
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畫扇迎雙鳳，輕衣拂六銖。
-- 太清元有籙，抱朴不須符。
+- 陰陰密葉韻黄鸝，樂事宮中聖得知。
+- 永日留連惟史帙，薰風拂掠到琴絲。
 
 ## 拼音
 
-- hua4 shan4 ying2 shuang1 feng4 ， qing1 yi1 fu2 liu4 zhu1 。
-- tai4 qing1 yuan2 you3 lu4 ， bao4 pu3 bu4 xu1 fu2 。
+- yin1 yin1 mi4 ye4 yun4 huang2 li2 ， le4 shi4 gong1 zhong1 sheng4 de2 zhi1 。
+- yong3 ri4 liu2 lian2 wei2 shi3 zhi4 ， xun1 feng1 fu2 lüe4 dao4 qin2 si1 。
 
 ## 注释
 

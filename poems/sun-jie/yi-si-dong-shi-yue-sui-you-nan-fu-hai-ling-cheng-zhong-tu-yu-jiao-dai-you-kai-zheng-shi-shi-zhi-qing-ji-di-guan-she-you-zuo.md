@@ -6,10 +6,10 @@ titleSlug: yi-si-dong-shi-yue-sui-you-nan-fu-hai-ling-cheng-zhong-tu-yu-jiao-dai
 author: 孫介
 authorPinyin: sun1 jie4
 authorSlug: sun-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

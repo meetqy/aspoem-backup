@@ -6,25 +6,25 @@ titleSlug: yu-hou
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 礎潤還成雨，雲收旋作晴。
-- 巖花分日發，林筍逐番生。
-- 筆硯行常具，軒窗晚更明。
-- 塵埃幸不到，那得廢詩情。
+- 甘澍慰群望，浮雲還故墟。
+- 新凉生枕簟，餘潤入犁鋤。
+- 簾上翩翩燕，蒲新鱍鱍魚。
+- 素秋猶半月，團扇意先疏。
 
 ## 拼音
 
-- chu3 run4 huan2 cheng2 yu3 ， yun2 shou1 xuan2 zuo4 qing2 。
-- yan2 hua1 fen1 ri4 fa1 ， lin2 sun3 zhu2 fan1 sheng1 。
-- bi3 yan4 xing2 chang2 ju4 ， xuan1 chuang1 wan3 geng4 ming2 。
-- chen2 ai1 xing4 bu2 dao4 ， na4 de2 fei4 shi1 qing2 。
+- gan1 shu4 wei4 qun2 wang4 ， fu2 yun2 huan2 gu4 xu1 。
+- xin1 liang2 sheng1 zhen3 dian4 ， yu2 run4 ru4 li2 chu2 。
+- lian2 shang4 pian1 pian1 yan4 ， pu2 xin1 bo1 bo1 yu2 。
+- su4 qiu1 you2 ban4 yue4 ， tuan2 shan4 yi4 xian1 shu1 。
 
 ## 注释
 

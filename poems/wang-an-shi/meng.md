@@ -6,21 +6,21 @@ titleSlug: meng
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 知世如夢無所求，無所求心普空寂。
-- 還似夢中隨夢境，成就河沙夢功德。
+- 黄粱欲熟且留連，漫道春歸莫悵然。
+- 蝴蝶豈能知夢事，蘧蘧飛墮晚花前。
 
 ## 拼音
 
-- zhi1 shi4 ru2 meng4 wu2 suo3 qiu2 ， wu2 suo3 qiu2 xin1 pu3 kong1 ji4 。
-- huan2 si4 meng4 zhong1 sui2 meng4 jing4 ， cheng2 jiu4 he2 sha1 meng4 gong1 de2 。
+- huang2 liang2 yu4 shu2 qie3 liu2 lian2 ， man4 dao4 chun1 gui1 mo4 chang4 ran2 。
+- hu2 die2 qi3 neng2 zhi1 meng4 shi4 ， qu2 qu2 fei1 duo4 wan3 hua1 qian2 。
 
 ## 注释
 

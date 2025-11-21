@@ -6,10 +6,10 @@ titleSlug: he-cen-zi-shang-zheng-guang-wen-shi
 author: 滕岑父
 authorPinyin: teng2 cen2 fu4
 authorSlug: teng-cen-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

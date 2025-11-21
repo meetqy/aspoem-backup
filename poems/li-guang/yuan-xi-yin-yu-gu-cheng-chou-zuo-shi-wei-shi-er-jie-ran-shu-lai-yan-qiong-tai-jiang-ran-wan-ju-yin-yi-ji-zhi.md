@@ -6,10 +6,10 @@ titleSlug: yuan-xi-yin-yu-gu-cheng-chou-zuo-shi-wei-shi-er-jie-ran-shu-lai-yan-q
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

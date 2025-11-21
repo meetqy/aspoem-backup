@@ -6,10 +6,10 @@ titleSlug: tong-dai-shi-ping-shi-ren-chong-you-fen-yun-de-zao-zi-ji-xi-fu
 author: 曾原一
 authorPinyin: ceng2 yuan2 yi1
 authorSlug: ceng-yuan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: chun-ri-lu-zhong
 author: 刁文叔
 authorPinyin: diao1 wen2 shu1
 authorSlug: diao-wen-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

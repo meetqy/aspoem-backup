@@ -6,21 +6,21 @@ titleSlug: tai-shang-he-duan-wu-tie-zi-qi-er
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人艾休教采，仙丹久養成。
-- 六宮爭結縷，再拜學長生。
+- 艾枝簇虎鬭時新，荷葉巢龜薦瑞頻。
+- 自是仙家多樂事，天中佳節近天申。
 
 ## 拼音
 
-- ren2 ai4 xiu1 jiao4 cai3 ， xian1 dan1 jiu3 yang3 cheng2 。
-- liu4 gong1 zheng1 jie2 lü3 ， zai4 bai4 xue2 chang2 sheng1 。
+- ai4 zhi1 cu4 hu3 dou4 shi2 xin1 ， he2 ye4 chao2 gui1 jian4 rui4 bin1 。
+- zi4 shi4 xian1 jia1 duo1 le4 shi4 ， tian1 zhong1 jia1 jie2 jin4 tian1 shen1 。
 
 ## 注释
 

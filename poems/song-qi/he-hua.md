@@ -6,25 +6,37 @@ titleSlug: he-hua
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚雨跳珠萬蓋勻，紅房高下照池新。
-- 採時雙艇須加槳，行罷微波不見塵。
-- 解把清香貽密坐，忍將芳意付蕭晨。
-- 如何老帥殘風味，三占秋英作主人。
+- 別岸香風起，橫塘夕霧開。
+- 歌須靜婉至，步憶貴妃來。
+- 折藕冰絲剩，翻荷孔蓋回。
+- 曾經佛圖咒，解厭柏梁災。
+- 盛府開爲幕，騷人借作媒。
+- 謝才方麗句，卓寡比愁腮。
+- 有薏緣誰苦，名蓮固自猜。
+- 簪形侵寶髻，燭柄近宮煤。
+- 游羨龜巢密，看防漏葉催。
+- 使君迷已久，落晚且徘徊。
 
 ## 拼音
 
-- wan3 yu3 tiao4 zhu1 wan4 gai4 yun2 ， hong2 fang2 gao1 xia4 zhao4 chi2 xin1 。
-- cai3 shi2 shuang1 ting3 xu1 jia1 jiang3 ， xing2 ba4 wei1 bo1 bu2 jian4 chen2 。
-- jie3 ba3 qing1 xiang1 yi2 mi4 zuo4 ， ren3 jiang1 fang1 yi4 fu4 xiao1 chen2 。
-- ru2 he2 lao3 shuai4 can2 feng1 wei4 ， san1 zhan4 qiu1 ying1 zuo4 zhu3 ren2 。
+- bie2 an4 xiang1 feng1 qi3 ， heng2 tang2 xi1 wu4 kai1 。
+- ge1 xu1 jing4 wan3 zhi4 ， bu4 yi4 gui4 fei1 lai2 。
+- zhe2 ou3 bing1 si1 sheng4 ， fan1 he2 kong3 gai4 hui2 。
+- ceng2 jing1 fo2 tu2 zhou4 ， jie3 yan4 bai3 liang2 zai1 。
+- sheng4 fu3 kai1 wei2 mu4 ， sao1 ren2 jie4 zuo4 mei2 。
+- xie4 cai2 fang1 li2 ju4 ， zhuo2 gua3 bi3 chou2 sai1 。
+- you3 yi4 yuan2 shui2 ku3 ， ming2 lian2 gu4 zi4 cai1 。
+- zan1 xing2 qin1 bao3 ji4 ， zhu2 bing3 jin4 gong1 mei2 。
+- you2 xian4 gui1 chao2 mi4 ， kan4 fang2 lou4 ye4 cui1 。
+- shi3 jun1 mi2 yi3 jiu3 ， luo4 wan3 qie3 pai2 huai2 。
 
 ## 注释
 

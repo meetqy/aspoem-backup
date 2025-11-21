@@ -6,10 +6,10 @@ titleSlug: xiang-bai-shou-dun-shou-qi-fu-meng-xue-shi-jiu-zhang-zai-ci-shi-zhang
 author: 王庠
 authorPinyin: wang2 xiang2
 authorSlug: wang-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

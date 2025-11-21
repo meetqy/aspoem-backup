@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ji-yong-xing-wu-long-tu-gei-shi-qi-san
-title: 寄永興吳龍圖給事・其三
-titlePinyin: ji4 yong3 xing1 wu2 long2 tu2 gei3 shi4・qi2 san1
+title: 寄永興吳龍圖給事  其三
+titlePinyin: ji4 yong3 xing1 wu2 long2 tu2 gei3 shi4     qi2 san1
 titleSlug: ji-yong-xing-wu-long-tu-gei-shi-qi-san
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

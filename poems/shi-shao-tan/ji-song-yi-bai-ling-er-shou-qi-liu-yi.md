@@ -6,25 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-liu-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 川僧素無頭腦，步步引人入草。
-- 忽驚野鴨群飛，便把鼻頭捏扭。
-- 哭不成哭，笑不成笑。
-- 只因家富小兒嬌，七世門風都壞了。
+- 三伏走人間，炎蒸汗如雨。
+- 非無休歇時，亦無栖泊處。
+- 拄杖子，脊梁生鐵鑄，浩浩塵中能辨主。
+- 歸來息影翠微深，抹月披雲，截斷千差路。
 
 ## 拼音
 
-- chuan1 seng1 su4 wu2 tou2 nao3 ， bu4 bu4 yin3 ren2 ru4 cao3 。
-- hu1 jing1 ye3 ya1 qun2 fei1 ， bian4 ba3 bi2 tou2 nie1 niu3 。
-- ku1 bu4 cheng2 ku1 ， xiao4 bu4 cheng2 xiao4 。
-- zhi3 yin1 jia1 fu4 xiao3 er2 jiao1 ， qi1 shi4 men2 feng1 dou1 huai4 le0 。
+- san1 fu2 zou3 ren2 jian4 ， yan2 zheng1 han4 ru2 yu3 。
+- fei1 wu2 xiu1 xie1 shi2 ， yi4 wu2 qi1 bo2 chu3 。
+- zhu3 zhang4 zi3 ， ji3 liang2 sheng1 tie3 zhu4 ， hao4 hao4 chen2 zhong1 neng2 bian4 zhu3 。
+- gui1 lai2 xi1 ying3 cui4 wei1 shen1 ， mo3 yue4 pi1 yun2 ， jie2 duan4 qian1 cha1 lu4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhao-ling-fu-ren-ci
 author: 晁載之
 authorPinyin: chao2 zai4 zhi1
 authorSlug: chao-zai-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

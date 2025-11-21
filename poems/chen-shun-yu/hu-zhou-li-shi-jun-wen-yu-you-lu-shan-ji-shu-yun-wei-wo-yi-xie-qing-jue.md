@@ -6,10 +6,10 @@ titleSlug: hu-zhou-li-shi-jun-wen-yu-you-lu-shan-ji-shu-yun-wei-wo-yi-xie-qing-j
 author: 陳舜俞
 authorPinyin: chen2 shun4 yu2
 authorSlug: chen-shun-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

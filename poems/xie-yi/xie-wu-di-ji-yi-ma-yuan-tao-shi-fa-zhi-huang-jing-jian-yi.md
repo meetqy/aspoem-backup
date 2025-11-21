@@ -6,10 +6,10 @@ titleSlug: xie-wu-di-ji-yi-ma-yuan-tao-shi-fa-zhi-huang-jing-jian-yi
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

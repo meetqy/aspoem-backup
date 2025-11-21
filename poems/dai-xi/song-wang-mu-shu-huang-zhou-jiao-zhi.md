@@ -6,10 +6,10 @@ titleSlug: song-wang-mu-shu-huang-zhou-jiao-zhi
 author: 戴溪
 authorPinyin: dai4 xi1
 authorSlug: dai-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

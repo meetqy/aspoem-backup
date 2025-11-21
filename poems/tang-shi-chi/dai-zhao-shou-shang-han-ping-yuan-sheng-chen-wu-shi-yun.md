@@ -6,10 +6,10 @@ titleSlug: dai-zhao-shou-shang-han-ping-yuan-sheng-chen-wu-shi-yun
 author: 唐士恥
 authorPinyin: tang2 shi4 chi3
 authorSlug: tang-shi-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

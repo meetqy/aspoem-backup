@@ -6,9 +6,9 @@ titleSlug: ju
 author: 馮宋
 authorPinyin: feng2 song4
 authorSlug: feng-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

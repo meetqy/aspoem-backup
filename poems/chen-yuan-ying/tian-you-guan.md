@@ -6,10 +6,10 @@ titleSlug: tian-you-guan
 author: 陳元英
 authorPinyin: chen2 yuan2 ying1
 authorSlug: chen-yuan-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

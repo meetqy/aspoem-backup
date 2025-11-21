@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山間氣候晚，初冬菊英回。
-- 定俟開爐集，始送泛菊杯。
-- 漸列衆色異，不殊東籬栽。
-- 冷雨與寒烟，深惜易塵埃。
+- 我生苟無禍，放懷在詩酒。
+- 詩酒得自在，功名亦何有。
+- 正欲醉墜車，豈問柳生肘。
+- 寫我平生適，笑寄方外友。
 
 ## 拼音
 
-- shan1 jian4 qi4 hou4 wan3 ， chu1 dong1 ju2 ying1 hui2 。
-- ding4 si4 kai1 lu2 ji2 ， shi3 song4 fan4 ju2 bei1 。
-- jian4 lie4 zhong4 se4 yi4 ， bu4 shu1 dong1 li2 zai1 。
-- leng3 yu3 yu3 han2 yan1 ， shen1 xi1 yi4 chen2 ai1 。
+- wo3 sheng1 gou3 wu2 huo4 ， fang4 huai2 zai4 shi1 jiu3 。
+- shi1 jiu3 de2 zi4 zai4 ， gong1 ming2 yi4 he2 you3 。
+- zheng4 yu4 zui4 zhui4 ju1 ， qi3 wen4 liu3 sheng1 zhou3 。
+- xie3 wo3 ping2 sheng1 shi4 ， xiao4 ji4 fang1 wai4 you3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: huang-he
 author: 劉孝孫
 authorPinyin: liu2 xiao4 sun1
 authorSlug: liu-xiao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

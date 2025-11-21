@@ -6,10 +6,10 @@ titleSlug: ci-yun-wu-shou-lin-yi-cheng-jian-zheng-you-chi-song-jue-ju-si-shou-qi
 author: 范浚
 authorPinyin: fan4 jun4
 authorSlug: fan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

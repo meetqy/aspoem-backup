@@ -6,25 +6,25 @@ titleSlug: shu-nan-tang-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 偶筑湖邊舍，侵尋四十春。
-- 山丘未埋骨，詩酒尚關身。
-- 樵路霜侵屨，漁舟雨墊巾。
-- 忝蒙鄉黨敬，六聖有遺民。
+- 數間破屋住荒郊，暑雨時須自補茅。
+- 多病篇章無傑思，長閑樵牧有新交。
+- 荒唐但向先師愧，骯髒寧辭薄俗嘲。
+- 偶有會心成獨笑，一林春筍放烟梢。
 
 ## 拼音
 
-- ou3 zhu4 hu2 bian1 she4 ， qin1 xun2 si4 shi2 chun1 。
-- shan1 qiu1 wei4 mai2 gu3 ， shi1 jiu3 shang4 guan1 shen1 。
-- qiao2 lu4 shuang1 qin1 ju4 ， yu2 zhou1 yu3 dian4 jin1 。
-- tian3 meng2 xiang1 dang3 jing4 ， liu4 sheng4 you3 yi2 min2 。
+- shu4 jian4 po4 wu1 zhu4 huang1 jiao1 ， shu3 yu3 shi2 xu1 zi4 bu3 mao2 。
+- duo1 bing4 pian1 zhang1 wu2 jie2 si1 ， chang2 xian2 qiao2 mu4 you3 xin1 jiao1 。
+- huang1 tang2 dan4 xiang4 xian1 shi1 kui4 ， ang1 zang1 ning2 ci2 bao2 su2 chao2 。
+- ou3 you3 hui4 xin1 cheng2 du2 xiao4 ， yi4 lin2 chun1 sun3 fang4 yan1 shao1 。
 
 ## 注释
 

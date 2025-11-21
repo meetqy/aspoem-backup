@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-yu-xun-zhi-ye-zhen-ci
 author: 張介夫
 authorPinyin: zhang1 jie4 fu1
 authorSlug: zhang-jie-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

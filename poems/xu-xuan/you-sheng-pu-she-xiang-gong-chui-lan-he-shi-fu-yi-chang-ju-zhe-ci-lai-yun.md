@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-you-sheng-pu-she-xiang-gong-chui-lan-he-shi-fu-yi-chang-ju-zhe-ci-lai-yun
-title: 右省僕射相公垂覽和詩復貽長句輒次來韻
+title: 右省僕射相公垂覽和詩復貽長句輙次來韻
 titlePinyin: you4 sheng3 pu2 she4 xiang4 gong0 chui2 lan3 he2 shi1 fu4 yi2 chang2 ju4 zhe2 ci4 lai2 yun4
 titleSlug: you-sheng-pu-she-xiang-gong-chui-lan-he-shi-fu-yi-chang-ju-zhe-ci-lai-yun
 author: 徐鉉
@@ -14,10 +14,10 @@ tags: []
 
 ## 正文
 
-- 西院春歸道思深，披衣閑聽暝猿吟。
-- 鋪陳政事留黄閣，偃息神機在素琴。
-- 玉柄暫時疏末座，瑶華頻復惠清音。
-- 開晴便作東山約，共賞烟霞放曠心。
+- 西院春歸道思深，披衣閑聽暝猨吟。
+- 鋪陳政事留黃閣，偃息神機在素琴。
+- 玉柄暫時疎末座，瑤華頻復惠清音。
+- 開晴便作東山約，共賞煙霞放曠心。
 
 ## 拼音
 

@@ -6,10 +6,10 @@ titleSlug: zui-mian-ting-san-shou-qi-yi
 author: 韓宗文
 authorPinyin: han2 zong1 wen2
 authorSlug: han-zong-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

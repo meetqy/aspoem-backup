@@ -6,10 +6,10 @@ titleSlug: ri-zhe-zheng-sheng-wei-yu-wan-yu-zhi-ren-xiang-shang-shou-qi-ci-duo-d
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

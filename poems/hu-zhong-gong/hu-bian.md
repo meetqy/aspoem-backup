@@ -6,25 +6,21 @@ titleSlug: hu-bian
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乍過黄梅雨，湖邊物色饒。
-- 水深宜鳥浴，藻密礙魚跳。
-- 露重荷傾蓋，風高柳折腰。
-- 道人勤借問，此地好漁樵。
+- 湖邊春色濃於酒，醉盡東西南北人。
+- 獨有詩翁清到底，一生醒眼看青春。
 
 ## 拼音
 
-- zha4 guo4 huang2 mei2 yu3 ， hu2 bian1 wu4 se4 rao2 。
-- shui3 shen1 yi2 niao3 yu4 ， zao3 mi4 ai4 yu2 tiao4 。
-- lu4 zhong4 he4 qing1 gai4 ， feng1 gao1 liu3 zhe2 yao1 。
-- dao4 ren2 qin2 jie4 wen4 ， ci3 di4 hao3 yu2 qiao2 。
+- hu2 bian1 chun1 se4 nong2 wu1 jiu3 ， zui4 jin4 dong1 xi1 nan2 bei3 ren2 。
+- du2 you3 shi1 weng1 qing1 dao4 di3 ， yi4 sheng1 xing3 yan3 kan4 qing1 chun1 。
 
 ## 注释
 

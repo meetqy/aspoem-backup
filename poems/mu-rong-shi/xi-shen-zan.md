@@ -6,10 +6,10 @@ titleSlug: xi-shen-zan
 author: 慕容氏
 authorPinyin: mu4 rong2 shi4
 authorSlug: mu-rong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

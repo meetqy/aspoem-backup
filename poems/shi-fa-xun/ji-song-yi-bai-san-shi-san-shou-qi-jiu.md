@@ -1,26 +1,28 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-jiu
-title: 偈頌一百三十三首  其九
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 jiu3
+title: 偈頌一百三十三首  其九○
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 jiu3 ○
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-jiu
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大道體寬，無易無難。
-- 相頭買帽，此土西天。
+- 巧盡拙出，水到渠成。
+- 舉足下足，十字縱橫。
+- 三千里外，已被南山換却眼睛。
 
 ## 拼音
 
-- da4 dao4 ti3 kuan1 ， wu2 yi4 wu2 nan2 。
-- xiang1 tou2 mai3 mao4 ， ci3 tu3 xi1 tian1 。
+- qiao3 jin4 zhuo1 chu1 ， shui3 dao4 qu2 cheng2 。
+- ju3 zu2 xia4 zu2 ， shi2 zi4 zong4 heng2 。
+- san1 qian1 li3 wai4 ， yi3 bei4 nan2 shan1 huan4 que4 yan3 jing0 。
 
 ## 注释
 

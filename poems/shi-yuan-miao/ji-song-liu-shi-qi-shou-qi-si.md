@@ -1,26 +1,28 @@
 ---
 id: shi-yuan-miao-ji-song-liu-shi-qi-shou-qi-si
-title: 偈頌六十七首  其四
-titlePinyin: ji4 song4 liu4 shi2 qi1 shou3     qi2 si4
+title: 偈頌六十七首  其四○
+titlePinyin: ji4 song4 liu4 shi2 qi1 shou3     qi2 si4 ○
 titleSlug: ji-song-liu-shi-qi-shou-qi-si
 author: 釋原妙
 authorPinyin: shi4 yuan2 miao4
 authorSlug: shi-yuan-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千嶺萬山雪，五湖四海冰。
-- 清光成一片，物物盡皆明。
+- 封却拄杖頭，結却布袋頭。
+- 大家團欒頭，赤眼火柴頭。
+- 嗄，正是冤家共聚頭，不妨頭上更安頭。
 
 ## 拼音
 
-- qian1 ling3 wan4 shan1 xue3 ， wu3 hu2 si4 hai3 bing1 。
-- qing1 guang1 cheng2 yi2 pian4 ， wu4 wu4 jin4 jie1 ming2 。
+- feng1 que4 zhu3 zhang4 tou2 ， jie2 que4 bu4 dai4 tou2 。
+- da4 jia1 tuan2 luan2 tou2 ， chi4 yan3 huo3 chai2 tou2 。
+- a2 ， zheng4 shi4 yuan1 jia0 gong4 ju4 tou2 ， bu4 fang2 tou2 shang4 geng4 an1 tou2 。
 
 ## 注释
 

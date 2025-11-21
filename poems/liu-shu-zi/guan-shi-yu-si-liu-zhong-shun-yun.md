@@ -6,10 +6,10 @@ titleSlug: guan-shi-yu-si-liu-zhong-shun-yun
 author: 劉叔子
 authorPinyin: liu2 shu1 zi0
 authorSlug: liu-shu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

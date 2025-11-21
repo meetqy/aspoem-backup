@@ -6,25 +6,25 @@ titleSlug: shan-zhong-ji-shi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 携壺藉草醉斜陽，白鶴飛來月下雙。
-- 蘆葉西風驚別浦，芭蕉夜雨隔疏窗。
-- 千年帝子朱簾夢，一曲仙人鐵笛腔。
-- 若問山翁還瘦否，手持漁竹下寒江。
+- 山中方雨笠，天外忽晴絲。
+- 夕釣江澄練，春行路布棋。
+- 乾坤供俯仰，歲月任差池。
+- 有酒如澠在，何妨日問奇。
 
 ## 拼音
 
-- xie2 hu2 jie4 cao3 zui4 xie2 yang2 ， bai2 he4 fei1 lai2 yue4 xia4 shuang1 。
-- lu2 ye4 xi1 feng1 jing1 bie2 pu3 ， ba1 jiao1 ye4 yu3 ge2 shu1 chuang1 。
-- qian1 nian2 di4 zi3 zhu1 lian2 meng4 ， yi4 qu3 xian1 ren2 tie3 di2 qiang1 。
-- ruo4 wen4 shan1 weng1 huan2 shou4 fou3 ， shou3 chi2 yu2 zhu2 xia4 han2 jiang1 。
+- shan1 zhong1 fang1 yu3 li4 ， tian1 wai4 hu1 qing2 si1 。
+- xi1 diao4 jiang1 cheng2 lian4 ， chun1 xing2 lu4 bu4 qi2 。
+- qian2 kun1 gong4 fu3 yang3 ， sui4 yue4 ren4 cha1 chi2 。
+- you3 jiu3 ru2 mian3 zai4 ， he2 fang2 ri4 wen4 qi2 。
 
 ## 注释
 

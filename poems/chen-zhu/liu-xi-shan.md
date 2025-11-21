@@ -6,25 +6,25 @@ titleSlug: liu-xi-shan
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西崦已非舊，菴居猶自妍。
-- 樹頭擎月直，山腹轉風圓。
-- 閒坐忙塵外，清談濁酒邊。
-- 悠悠一俯仰，今日是何年。
+- 老憊無如汗枕何，起看玉宇瀉銀河。
+- 殘山賸水淒涼甚，明月清風感愴多。
+- 無計閉門遮外事，真成開眼夢南柯。
+- 坐來不覺東方白，又是餘生一夜過。
 
 ## 拼音
 
-- xi1 yan1 yi3 fei1 jiu4 ， an1 ju1 you2 zi4 yan2 。
-- shu4 tou2 qing2 yue4 zhi2 ， shan1 fu4 zhuan3 feng1 yuan2 。
-- xian2 zuo4 mang2 chen2 wai4 ， qing1 tan2 zhuo2 jiu3 bian1 。
-- you1 you1 yi4 fu3 yang3 ， jin1 ri4 shi4 he2 nian2 。
+- lao3 bei4 wu2 ru2 han4 zhen3 he2 ， qi3 kan4 yu4 yu3 xie4 yin2 he2 。
+- can2 shan1 sheng4 shui3 qi1 liang2 shen4 ， ming2 yue4 qing1 feng1 gan3 chuang4 duo1 。
+- wu2 ji4 bi4 men2 zhe1 wai4 shi4 ， zhen1 cheng2 kai1 yan3 meng4 nan2 ke1 。
+- zuo4 lai2 bu4 jue2 dong1 fang1 bai2 ， you4 shi4 yu2 sheng1 yi2 ye4 guo4 。
 
 ## 注释
 

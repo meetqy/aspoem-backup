@@ -6,9 +6,9 @@ titleSlug: dong-xuan-qin-shi-er-zi-yi
 author: 姚孝錫
 authorPinyin: yao2 xiao4 xi1
 authorSlug: yao-xiao-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

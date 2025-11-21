@@ -1,26 +1,26 @@
 ---
 id: song-bai-gong-ci-qi-qi
-title: 宮詞  其七
-titlePinyin: gong1 ci2     qi2 qi1
+title: 宮詞  其七○
+titlePinyin: gong1 ci2     qi2 qi1 ○
 titleSlug: gong-ci-qi-qi
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 中使傳宣出未央，外宮庭燎發榮光。
-- 怪來連夜催儀注，元是平明冊五王。
+- 春水綾紋積翠池，凌波仙鳥拂花枝。
+- 黄衣宮使宣閻相，錯入中書喚畫師。
 
 ## 拼音
 
-- zhong1 shi3 chuan2 xuan1 chu1 wei4 yang1 ， wai4 gong1 ting2 liao2 fa1 rong2 guang1 。
-- guai4 lai2 lian2 ye4 cui1 yi2 zhu4 ， yuan2 shi4 ping2 ming2 ce4 wu3 wang2 。
+- chun1 shui3 ling2 wen2 ji1 cui4 chi2 ， ling2 bo1 xian1 niao3 fu2 hua1 zhi1 。
+- huang2 yi1 gong1 shi3 xuan1 yan2 xiang1 ， cuo4 ru4 zhong1 shu1 huan4 hua4 shi1 。
 
 ## 注释
 

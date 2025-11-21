@@ -6,10 +6,10 @@ titleSlug: dan-jun-fan-guo-xi-gao-yu-tu-lai-fang-yi-shi-dao-bie
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,24 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 識樂衆生樂，緣繩枉（《宗鏡錄》卷四十作「妄」）走作。
-- 智樂菩薩樂，無繩亦無縛。
-- 若有發心者，直須學無作。
-- 莫道怕落空，得空亦不惡。
-- 見鑛不別（《宗鏡錄》作「識」）金，入鑛（《宗鏡錄》作「爐」）方知錯。
+- 心王若解依真智，一切有無俱遣棄。
+- 身隨世流心不流，夜來眼睡心不睡。
+- 天堂地獄總無情，任運幽玄到此地。
 
 ## 拼音
 
-- shi2 le4 zhong4 sheng1 le4 ， yuan2 sheng2 wang3 （《 zong1 jing4 lu4 》 juan4 si4 shi2 zuo4 「 wang4 」） zou3 zuo4 。
-- zhi4 le4 pu2 sa4 le4 ， wu2 sheng2 yi4 wu2 fu4 。
-- ruo4 you3 fa1 xin1 zhe3 ， zhi2 xu1 xue2 wu2 zuo4 。
-- mo4 dao4 pa4 luo4 kong1 ， de2 kong4 yi4 bu2 e4 。
-- jian4 kuang4 bu4 bie2 （《 zong1 jing4 lu4 》 zuo4 「 shi2 」） jin1 ， ru4 kuang4 （《 zong1 jing4 lu4 》 zuo4 「 lu2 」） fang1 zhi1 cuo4 。
+- xin1 wang2 ruo4 jie3 yi1 zhen1 zhi4 ， yi2 qie4 you3 wu2 ju4 qian3 qi4 。
+- shen1 sui2 shi4 liu2 xin1 bu4 liu2 ， ye4 lai2 yan3 shui4 xin1 bu2 shui4 。
+- tian1 tang2 di4 yu4 zong3 wu2 qing2 ， ren4 yun4 you1 xuan2 dao4 ci3 di4 。
 
 ## 注释
 

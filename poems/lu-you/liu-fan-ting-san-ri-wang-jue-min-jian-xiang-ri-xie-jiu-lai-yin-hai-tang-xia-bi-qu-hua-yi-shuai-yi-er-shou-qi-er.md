@@ -6,10 +6,10 @@ titleSlug: liu-fan-ting-san-ri-wang-jue-min-jian-xiang-ri-xie-jiu-lai-yin-hai-ta
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

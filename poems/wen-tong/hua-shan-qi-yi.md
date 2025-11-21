@@ -1,14 +1,14 @@
 ---
 id: wen-tong-hua-shan-qi-yi
-title: 華山・其一
-titlePinyin: hua2 shan1・qi2 yi1
+title: 華山  其一
+titlePinyin: hua2 shan1     qi2 yi1
 titleSlug: hua-shan-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

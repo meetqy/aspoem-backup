@@ -6,10 +6,10 @@ titleSlug: ci-yun-li-xiao-shu-yu-zhong-zhi-si-sheng-guan-san-jue-ju-qi-er
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

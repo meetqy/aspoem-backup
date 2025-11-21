@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋宗泰
 authorPinyin: shi4 zong1 tai4
 authorSlug: shi-zong-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

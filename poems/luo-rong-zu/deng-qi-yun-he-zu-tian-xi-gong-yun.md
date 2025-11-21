@@ -6,10 +6,10 @@ titleSlug: deng-qi-yun-he-zu-tian-xi-gong-yun
 author: 羅榮祖
 authorPinyin: luo2 rong2 zu3
 authorSlug: luo-rong-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

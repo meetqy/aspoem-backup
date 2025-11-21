@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春雨要如膏，發生物已拆。
-- 霢霂則易耨，浸漬乃損麥。
-- 連旬不見日，過社麻亦阨。
-- 再拜祈開晴，民食庶可得。
+- 四大一和合，所以兆我命。
+- 及其有損增，遂復制我病。
+- 五年過縱心，四大失正定。
+- 新歲轉盼來，疾應改新證。
 
 ## 拼音
 
-- chun1 yu3 yao4 ru2 gao1 ， fa1 sheng1 wu4 yi3 chai1 。
-- mai4 mu4 ze2 yi4 nou4 ， jin4 zi4 nai3 sun3 mai4 。
-- lian2 xun2 bu2 jian4 ri4 ， guo4 she4 ma2 yi4 e4 。
-- zai4 bai4 qi2 kai1 qing2 ， min2 shi2 shu4 ke3 de2 。
+- si4 da4 yi4 he2 he2 ， suo3 yi3 zhao4 wo3 ming4 。
+- ji2 qi2 you3 sun3 zeng1 ， sui4 fu4 zhi4 wo3 bing4 。
+- wu3 nian2 guo4 zong4 xin1 ， si4 da4 shi1 zheng4 ding4 。
+- xin1 sui4 zhuan3 pan4 lai2 ， ji2 ying1 gai3 xin1 zheng4 。
 
 ## 注释
 

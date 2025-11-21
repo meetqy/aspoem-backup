@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閩浙風土異，九日未見菊。
-- 豐枝閟秀色，細蓓凄已綠。
-- 當樽折野蘂，氣味亦棖觸。
-- 詎知三徑中，采采不一足。
+- 行都老故舊，見贈新曆日。
+- 快哉得過目，蘧然若有失。
+- 已病嗟再歲，漸老念弱質。
+- 歎餘落麈尾，非言付摇膝。
 
 ## 拼音
 
-- min3 zhe4 feng1 tu3 yi4 ， jiu3 ri4 wei4 jian4 ju2 。
-- feng1 zhi1 bi4 xiu4 se4 ， xi4 bei4 qi1 yi3 lü4 。
-- dang1 zun1 zhe2 ye3 rui3 ， qi4 wei4 yi4 cheng2 chu4 。
-- ju4 zhi1 san1 jing4 zhong1 ， cai3 cai3 bu4 yi4 zu2 。
+- xing2 dou1 lao3 gu4 jiu4 ， jian4 zeng4 xin1 li4 ri4 。
+- kuai4 zai1 de2 guo4 mu4 ， qu2 ran2 ruo4 you3 shi1 。
+- yi3 bing4 jie1 zai4 sui4 ， jian4 lao3 nian4 ruo4 zhi4 。
+- tan4 yu2 luo4 zhu3 wei3 ， fei1 yan2 fu4 yao2 xi1 。
 
 ## 注释
 

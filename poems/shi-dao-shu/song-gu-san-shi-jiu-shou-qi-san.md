@@ -1,26 +1,26 @@
 ---
 id: shi-dao-shu-song-gu-san-shi-jiu-shou-qi-san
-title: 頌古三十九首  其三
-titlePinyin: song4 gu3 san1 shi2 jiu3 shou3     qi2 san1
+title: 頌古三十九首  其三○
+titlePinyin: song4 gu3 san1 shi2 jiu3 shou3     qi2 san1 ○
 titleSlug: song-gu-san-shi-jiu-shou-qi-san
 author: 釋道樞
 authorPinyin: shi4 dao4 shu1
 authorSlug: shi-dao-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 口念木瓜醫脚氣，紙畫鍾馗驅鬼祟。
-- 一生若解和羅槌，日日喫酒日日醉。
+- 山寺裏頭無可作，輥出木毬兩三箇。
+- 不獨玄沙遭一攧，雪峰老人亦話墮。
 
 ## 拼音
 
-- kou3 nian4 mu4 gua1 yi1 jiao3 qi4 ， zhi3 hua4 zhong1 kui2 qu1 gui3 sui4 。
-- yi4 sheng1 ruo4 jie3 he2 luo2 chui2 ， ri4 ri4 chi1 jiu3 ri4 ri4 zui4 。
+- shan1 si4 li3 tou2 wu2 ke3 zuo4 ， gun3 chu1 mu4 qiu2 liang3 san1 ge4 。
+- bu4 du2 xuan2 sha1 zao1 yi4 dian1 ， xue3 feng1 lao3 ren2 yi4 hua4 duo4 。
 
 ## 注释
 

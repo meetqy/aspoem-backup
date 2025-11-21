@@ -6,10 +6,10 @@ titleSlug: wu-ri-deng-wu-hua-yan
 author: 陳元通
 authorPinyin: chen2 yuan2 tong1
 authorSlug: chen-yuan-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

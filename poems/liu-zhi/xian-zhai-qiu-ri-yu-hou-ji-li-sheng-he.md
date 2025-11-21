@@ -6,10 +6,10 @@ titleSlug: xian-zhai-qiu-ri-yu-hou-ji-li-sheng-he
 author: 劉摯
 authorPinyin: liu2 zhi4
 authorSlug: liu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

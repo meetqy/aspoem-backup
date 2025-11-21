@@ -6,10 +6,10 @@ titleSlug: kai-chuang
 author: 汪若楫
 authorPinyin: wang1 ruo4 ji2
 authorSlug: wang-ruo-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: wen-jiao
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 河白如銀天淡青，角聲中有玉關情。
-- 早知送老桑麻野，悔失安西萬里行。
+- 小閣柴門近，黄昏畫角聲。
+- 時時逐風散，嫋嫋伴愁生。
+- 天地清秋暮，關河殘月明。
+- 湖南賊未破，獨立久含情。
 
 ## 拼音
 
-- he2 bai2 ru2 yin2 tian1 dan4 qing1 ， jiao3 sheng1 zhong1 you3 yu4 guan1 qing2 。
-- zao3 zhi1 song4 lao3 sang1 ma2 ye3 ， hui3 shi1 an1 xi1 wan4 li3 xing2 。
+- xiao3 ge2 chai2 men2 jin4 ， huang2 hun1 hua4 jiao3 sheng1 。
+- shi2 shi2 zhu2 feng1 san4 ， niao3 niao3 ban4 chou2 sheng1 。
+- tian1 di4 qing1 qiu1 mu4 ， guan1 he2 can2 yue4 ming2 。
+- hu2 nan2 zei2 wei4 po4 ， du2 li4 jiu3 han2 qing2 。
 
 ## 注释
 

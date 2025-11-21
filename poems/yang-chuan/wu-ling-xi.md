@@ -6,10 +6,10 @@ titleSlug: wu-ling-xi
 author: 楊川
 authorPinyin: yang2 chuan1
 authorSlug: yang-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

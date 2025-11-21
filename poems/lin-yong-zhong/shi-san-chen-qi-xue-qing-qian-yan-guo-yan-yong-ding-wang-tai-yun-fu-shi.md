@@ -6,10 +6,10 @@ titleSlug: shi-san-chen-qi-xue-qing-qian-yan-guo-yan-yong-ding-wang-tai-yun-fu-s
 author: 林用中
 authorPinyin: lin2 yong4 zhong1
 authorSlug: lin-yong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

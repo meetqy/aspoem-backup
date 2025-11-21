@@ -6,10 +6,10 @@ titleSlug: shi-yan
 author: 周坦
 authorPinyin: zhou1 tan3
 authorSlug: zhou-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: wu-ti-qi-er
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 谿草鴨頭相間綠，山榴雉頰一時紅。
-- 白鷗飛起無尋處，衮入梨花柳絮中。
+- 宇宙千年更帝霸，春秋萬世正乾坤。
+- 陰陽定位綱常立，於此推尋見本原。
 
 ## 拼音
 
-- xi1 cao3 ya1 tou2 xiang1 jian4 lü4 ， shan1 liu2 zhi4 jia2 yi4 shi2 hong2 。
-- bai2 ou1 fei1 qi3 wu2 xun2 chu3 ， gun3 ru4 li2 hua1 liu3 xu4 zhong1 。
+- yu3 zhou4 qian1 nian2 geng4 di4 ba4 ， chun1 qiu1 wan4 shi4 zheng4 qian2 kun1 。
+- yin1 yang2 ding4 wei4 gang1 chang2 li4 ， wu1 ci3 tui1 xun2 jian4 ben3 yuan2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: si-yue-shi-yi-ri-yu-fu-xiao-zhuo-yu-lian-hua-qian-you-gan
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qing-cang-zhu-gui-xiang-sheng-qin
 author: 釋如珙
 authorPinyin: shi4 ru2 gong3
 authorSlug: shi-ru-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

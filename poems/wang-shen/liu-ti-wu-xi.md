@@ -6,9 +6,9 @@ titleSlug: liu-ti-wu-xi
 author: 王伸
 authorPinyin: wang2 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

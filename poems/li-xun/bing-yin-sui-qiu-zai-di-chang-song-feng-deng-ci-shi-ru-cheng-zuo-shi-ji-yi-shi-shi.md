@@ -6,10 +6,10 @@ titleSlug: bing-yin-sui-qiu-zai-di-chang-song-feng-deng-ci-shi-ru-cheng-zuo-shi-
 author: 李薰
 authorPinyin: li3 xun1
 authorSlug: li-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

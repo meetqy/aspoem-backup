@@ -6,10 +6,10 @@ titleSlug: zhui-he-shu-zu-zi-shu-yun
 author: 胡震雷
 authorPinyin: hu2 zhen4 lei2
 authorSlug: hu-zhen-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: lu-huai
 author: 張詠
 authorPinyin: zhang1 yong3
 authorSlug: zhang-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 移文休誚客衣塵，欲去終慚未了身。
-- 一夕亂蛩驚別恨，滿階紅葉愴吟神。
-- 東周住久知音少，白社拋來舊業貧。
-- 猶喜陶潛繞籬菊，带霜開得數枝新。
+- 儒術精窮久，風塵鬢欲衰。
+- 知音豈易得，搔首獨何爲。
+- 寓舍思親處，秋原墜葉時。
+- 樂天吟更苦，笑殺五陵兒。
 
 ## 拼音
 
-- yi2 wen2 xiu1 qiao4 ke4 yi1 chen2 ， yu4 qu4 zhong1 can2 wei4 liao3 shen1 。
-- yi4 xi1 luan4 qiong2 jing1 bie2 hen4 ， man3 jie1 hong2 ye4 chuang4 yin2 shen2 。
-- dong1 zhou1 zhu4 jiu3 zhi1 yin1 shao3 ， bai2 she4 pao1 lai2 jiu4 ye4 pin2 。
-- you2 xi3 tao2 qian2 rao4 li2 ju2 ， dai4 shuang1 kai1 de2 shu4 zhi1 xin1 。
+- ru2 shu4 jing1 qiong2 jiu3 ， feng1 chen2 bin4 yu4 shuai1 。
+- zhi1 yin1 qi3 yi4 de2 ， sao1 shou3 du2 he2 wei2 。
+- yu4 she4 si1 qin1 chu3 ， qiu1 yuan2 zhui4 ye4 shi2 。
+- le4 tian1 yin2 geng4 ku3 ， xiao4 sha1 wu3 ling2 er2 。
 
 ## 注释
 

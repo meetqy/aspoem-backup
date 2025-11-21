@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 山桃紅花滿上頭，蜀江春水拍江流。
-- 花紅易衰似郎意，水流無限似儂愁。
+- 楚水巴山江雨多，巴人能唱本鄉歌。
+- 今朝北客思歸去，迴入紇那披綠羅。
 
 ## 拼音
 
-- shan1 tao2 hong2 hua1 man3 shang4 tou2 ， shu3 jiang1 chun1 shui3 pai1 jiang1 liu2 。
-- hua1 hong2 yi4 shuai1 si4 lang2 yi4 ， shui3 liu2 wu2 xian4 si4 nong2 chou2 。
+- chu3 shui3 ba1 shan1 jiang1 yu3 duo1 ， ba1 ren2 neng2 chang4 ben3 xiang1 ge1 。
+- jin1 zhao1 bei3 ke4 si1 gui1 qu4 ， hui2 ru4 he2 na4 pi1 lü4 luo2 。
 
 ## 注释
 

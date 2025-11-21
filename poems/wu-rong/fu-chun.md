@@ -9,18 +9,22 @@ authorSlug: wu-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天下有水亦有山，富春山水非人寰。
-- 長川不是春來綠，千峰倒影落其間。
+- 水送山迎入富春，一川如畫晚晴新。
+- 雲低遠渡帆來重，潮落寒沙鳥下頻。
+- 未必柳間無謝客，也應花裏有秦人。
+- 嚴光萬古清風在，不敢停橈更問津。
 
 ## 拼音
 
-- tian1 xia4 you3 shui3 yi4 you3 shan1 ， fu4 chun1 shan1 shui3 fei1 ren2 huan2 。
-- chang2 chuan1 bu2 shi4 chun1 lai2 lü4 ， qian1 feng1 dao4 ying3 luo4 qi2 jian4 。
+- shui3 song4 shan1 ying2 ru4 fu4 chun1 ， yi4 chuan1 ru2 hua4 wan3 qing2 xin1 。
+- yun2 di1 yuan3 du4 fan1 lai2 zhong4 ， chao2 luo4 han2 sha1 niao3 xia4 bin1 。
+- wei4 bi4 liu3 jian4 wu2 xie4 ke4 ， ye3 ying1 hua1 li3 you3 qin2 ren2 。
+- yan2 guang1 wan4 gu3 qing1 feng1 zai4 ， bu4 gan3 ting2 rao2 geng4 wen4 jin1 。
 
 ## 注释
 

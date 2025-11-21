@@ -6,25 +6,25 @@ titleSlug: ting-qin
 author: 黎廷瑞
 authorPinyin: li2 ting2 rui4
 authorSlug: li-ting-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 虛籟起還休，輕絲斷復抽。
-- 鬼啼湘竹雨，木落洞庭秋。
-- 因子作浙操，令人悲楚囚。
-- 蒼梧不可叫，杳杳暮雲愁。
+- 凄凉烏夜啼，怨抑雉朝飛。
+- 有室寧非願，無枝可得依。
+- 天涯心獨苦，歲晚淚頻揮。
+- 莫作將歸操，風塵久念歸。
 
 ## 拼音
 
-- xu1 lai4 qi3 huan2 xiu1 ， qing1 si1 duan4 fu4 chou1 。
-- gui3 ti2 xiang1 zhu2 yu3 ， mu4 luo4 dong4 ting2 qiu1 。
-- yin1 zi3 zuo4 zhe4 cao1 ， ling4 ren2 bei1 chu3 qiu2 。
-- cang1 wu2 bu4 ke3 jiao4 ， yao3 yao3 mu4 yun2 chou2 。
+- qi1 liang2 wu1 ye4 ti2 ， yuan4 yi4 zhi4 chao2 fei1 。
+- you3 shi4 ning2 fei1 yuan4 ， wu2 zhi1 ke3 de2 yi1 。
+- tian1 ya2 xin1 du2 ku3 ， sui4 wan3 lei4 bin1 hui1 。
+- mo4 zuo4 jiang1 gui1 cao1 ， feng1 chen2 jiu3 nian4 gui1 。
 
 ## 注释
 

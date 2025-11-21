@@ -6,10 +6,10 @@ titleSlug: ju
 author: 浦廣
 authorPinyin: pu3 guang3
 authorSlug: pu-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

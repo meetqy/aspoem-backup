@@ -9,30 +9,26 @@ authorSlug: zhang-shuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 夜夢雲闕間，從容簪履列。
-- 朝遊洞庭上，緬望京華絕。
-- 潦收江未清，火退山更熱。
-- 重欷視欲醉，懵滿氣如噎。
-- 器留魚鼈腥，衣點蚊虻血。
-- 髪白思益壯，心玄用彌拙。
-- 冠劒日苔蘚，琴書坐廢撤。
-- 唯有報恩字，刻意長不滅。
+- 水國生秋草，離居再及瓜。
+- 山川臨洞穴，風日望長沙。
+- 物土南州異，關河北信賒。
+- 日昏聞怪鳥，地熱見修虵。
+- 遠人夢歸路，瘦馬嘶去家。
+- 正有江潭月，徘徊戀九華。
 
 ## 拼音
 
-- ye4 meng4 yun2 que4 jian4 ， cong2 rong2 zan1 lü3 lie4 。
-- chao2 you2 dong4 ting2 shang4 ， mian3 wang4 jing1 hua2 jue2 。
-- liao2 shou1 jiang1 wei4 qing1 ， huo3 tui4 shan1 geng4 re4 。
-- zhong4 xi1 shi4 yu4 zui4 ， meng3 man3 qi4 ru2 ye1 。
-- qi4 liu2 yu2 bie1 xing1 ， yi1 dian3 wen2 meng2 xue4 。
-- fa4 bai2 si1 yi4 zhuang4 ， xin1 xuan2 yong4 mi2 zhuo1 。
-- guan1 jian4 ri4 tai2 xian3 ， qin2 shu1 zuo4 fei4 che4 。
-- wei2 you3 bao4 en1 zi4 ， ke4 yi4 chang2 bu2 mie4 。
+- shui3 guo2 sheng1 qiu1 cao3 ， li2 ju1 zai4 ji2 gua1 。
+- shan1 chuan1 lin2 dong4 xue2 ， feng1 ri4 wang4 chang2 sha1 。
+- wu4 tu3 nan2 zhou1 yi4 ， guan1 he2 bei3 xin4 she1 。
+- ri4 hun1 wen2 guai4 niao3 ， di4 re4 jian4 xiu1 she2 。
+- yuan3 ren2 meng4 gui1 lu4 ， shou4 ma3 si1 qu4 jia1 。
+- zheng4 you3 jiang1 tan2 yue4 ， pai2 huai2 lian4 jiu3 hua2 。
 
 ## 注释
 

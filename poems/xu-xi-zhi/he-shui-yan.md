@@ -6,10 +6,10 @@ titleSlug: he-shui-yan
 author: 徐錫之
 authorPinyin: xu2 xi1 zhi1
 authorSlug: xu-xi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

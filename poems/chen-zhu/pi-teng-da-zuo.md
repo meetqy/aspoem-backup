@@ -6,25 +6,25 @@ titleSlug: pi-teng-da-zuo
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 頭童面菜色，七十八年閒。
-- 聊把吟移病，何曾笑答閒。
-- 老妻愁日計，弱子怯時艱。
-- 此意有誰會，門前溪與山。
+- 夜來宿痼起心脾，輾轉無眠不自支。
+- 水鳥信天那得飽，河魚作祟却乘饑。
+- 苦無藥力課神效，爛煮菜根爲善醫。
+- 造物怕生安樂病，時將疼痛玉吾衰。
 
 ## 拼音
 
-- tou2 tong2 mian4 cai4 se4 ， qi1 shi2 ba1 nian2 xian2 。
-- liao2 ba3 yin2 yi2 bing4 ， he2 ceng2 xiao4 da2 xian2 。
-- lao3 qi1 chou2 ri4 ji4 ， ruo4 zi3 qie4 shi2 jian1 。
-- ci3 yi4 you3 shui2 hui4 ， men2 qian2 xi1 yu3 shan1 。
+- ye4 lai2 su4 gu4 qi3 xin1 pi2 ， zhan3 zhuan3 wu2 mian2 bu2 zi4 zhi1 。
+- shui3 niao3 xin4 tian1 na4 de2 bao3 ， he2 yu2 zuo4 sui4 que4 cheng2 ji1 。
+- ku3 wu2 yao4 li4 ke4 shen2 xiao4 ， lan4 zhu3 cai4 gen1 wei2 shan4 yi1 。
+- zao4 wu4 pa4 sheng1 an1 le4 bing4 ， shi2 jiang1 teng2 tong4 yu4 wu2 shuai1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: guo-xi-yuan-shi-huo-ran-ting-jiu-zhi-jing-yang-su-huang-men-you-gan-y
 author: 汪晫
 authorPinyin: wang1 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

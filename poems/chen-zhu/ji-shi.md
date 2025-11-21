@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出門問春事，猶在可疑閒。
-- 雲弄欲晴日，風堅曾雪山。
-- 千林芳信遠，百鳥好聲慳。
-- 要識天珍重，時光漸漸還。
+- 新正已强半，連陰凝不開。
+- 雨聲嚴似雪，春色瘦於梅。
+- 老不問花事，病猶須酒杯。
+- 東風自時樣，於我亦悠哉。
 
 ## 拼音
 
-- chu1 men2 wen4 chun1 shi4 ， you2 zai4 ke3 yi2 xian2 。
-- yun2 nong4 yu4 qing2 ri4 ， feng1 jian1 ceng2 xue3 shan1 。
-- qian1 lin2 fang1 xin4 yuan3 ， bai3 niao3 hao3 sheng1 qian1 。
-- yao4 shi2 tian1 zhen1 zhong4 ， shi2 guang1 jian4 jian4 huan2 。
+- xin1 zheng1 yi3 qiang2 ban4 ， lian2 yin1 ning2 bu4 kai1 。
+- yu3 sheng1 yan2 si4 xue3 ， chun1 se4 shou4 wu1 mei2 。
+- lao3 bu2 wen4 hua1 shi4 ， bing4 you2 xu1 jiu3 bei1 。
+- dong1 feng1 zi4 shi2 yang4 ， wu1 wo3 yi4 you1 zai1 。
 
 ## 注释
 

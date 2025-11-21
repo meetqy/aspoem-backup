@@ -9,18 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 兀兀出門何處去，新昌街晚樹陰斜。
-- 馬蹄知意緣行熟，不向楊家即庾家。
+- 身外無羈束，心中少是非。
+- 被花留便住，逢酒醉方歸。
+- 人事行時少，官曹入日稀。
+- 春寒遊正好，穩馬薄綿衣。
 
 ## 拼音
 
-- wu4 wu4 chu1 men2 he2 chu3 qu4 ， xin1 chang1 jie1 wan3 shu4 yin1 xie2 。
-- ma3 ti2 zhi1 yi4 yuan2 xing2 shu2 ， bu2 xiang4 yang2 jia1 ji2 yu3 jia1 。
+- shen1 wai4 wu2 ji1 shu4 ， xin1 zhong1 shao3 shi4 fei1 。
+- bei4 hua1 liu2 bian4 zhu4 ， feng2 jiu3 zui4 fang1 gui1 。
+- ren2 shi4 xing2 shi2 shao3 ， guan1 cao2 ru4 ri4 xi1 。
+- chun1 han2 you2 zheng4 hao3 ， wen3 ma3 bao2 mian2 yi1 。
 
 ## 注释
 

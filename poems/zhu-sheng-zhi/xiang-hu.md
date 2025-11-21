@@ -6,10 +6,10 @@ titleSlug: xiang-hu
 author: 朱升之
 authorPinyin: zhu1 sheng1 zhi1
 authorSlug: zhu-sheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

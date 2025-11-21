@@ -6,21 +6,21 @@ titleSlug: yu-hou
 author: 孫介
 authorPinyin: sun1 jie4
 authorSlug: sun-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落日矯烏雲，疾風豗白浪。
-- 雨聲西南來，勢劇萬馬壯。
+- 呼童捲簾收架書，簷溜忽斷雲蕭疎。
+- 山光水影凈如拭，一川秋意生芙蕖。
 
 ## 拼音
 
-- luo4 ri4 jiao3 wu1 yun2 ， ji2 feng1 hui1 bai2 lang4 。
-- yu3 sheng1 xi1 nan2 lai2 ， shi4 ju4 wan4 ma3 zhuang4 。
+- hu1 tong2 juan3 lian2 shou1 jia4 shu1 ， yan2 liu1 hu1 duan4 yun2 xiao1 shu1 。
+- shan1 guang1 shui3 ying3 jing4 ru2 shi4 ， yi4 chuan1 qiu1 yi4 sheng1 fu2 qu2 。
 
 ## 注释
 

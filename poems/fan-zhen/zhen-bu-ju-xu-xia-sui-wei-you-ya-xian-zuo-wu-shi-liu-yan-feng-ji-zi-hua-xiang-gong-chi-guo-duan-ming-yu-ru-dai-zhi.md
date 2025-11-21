@@ -6,10 +6,10 @@ titleSlug: zhen-bu-ju-xu-xia-sui-wei-you-ya-xian-zuo-wu-shi-liu-yan-feng-ji-zi-h
 author: 范鎮
 authorPinyin: fan4 zhen4
 authorSlug: fan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

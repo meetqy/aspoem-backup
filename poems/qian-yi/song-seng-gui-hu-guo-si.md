@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-hu-guo-si
 author: 錢易
 authorPinyin: qian2 yi4
 authorSlug: qian-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

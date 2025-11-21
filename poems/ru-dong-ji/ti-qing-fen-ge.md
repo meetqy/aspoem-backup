@@ -6,10 +6,10 @@ titleSlug: ti-qing-fen-ge
 author: 茹東濟
 authorPinyin: ru2 dong1 ji4
 authorSlug: ru-dong-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

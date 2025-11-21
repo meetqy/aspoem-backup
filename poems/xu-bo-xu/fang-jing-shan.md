@@ -6,10 +6,10 @@ titleSlug: fang-jing-shan
 author: 許伯詡
 authorPinyin: xu1 bo2 xu3
 authorSlug: xu-bo-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: huan-su-yin-he-di-ying-shu-qi-yi
 author: 蔣之翰
 authorPinyin: jiang3 zhi1 han4
 authorSlug: jiang-zhi-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

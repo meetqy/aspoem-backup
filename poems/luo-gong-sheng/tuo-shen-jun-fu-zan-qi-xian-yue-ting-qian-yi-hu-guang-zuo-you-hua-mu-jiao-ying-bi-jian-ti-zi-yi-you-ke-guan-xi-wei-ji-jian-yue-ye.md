@@ -6,10 +6,10 @@ titleSlug: tuo-shen-jun-fu-zan-qi-xian-yue-ting-qian-yi-hu-guang-zuo-you-hua-mu-
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

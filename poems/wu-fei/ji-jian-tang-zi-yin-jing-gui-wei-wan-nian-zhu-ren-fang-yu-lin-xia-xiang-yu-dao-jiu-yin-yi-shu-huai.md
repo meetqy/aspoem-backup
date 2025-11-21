@@ -6,10 +6,10 @@ titleSlug: ji-jian-tang-zi-yin-jing-gui-wei-wan-nian-zhu-ren-fang-yu-lin-xia-xia
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

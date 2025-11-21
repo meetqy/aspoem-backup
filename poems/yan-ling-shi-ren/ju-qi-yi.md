@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 嚴陵士人
 authorPinyin: yan2 ling2 shi4 ren2
 authorSlug: yan-ling-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

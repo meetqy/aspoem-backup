@@ -6,25 +6,21 @@ titleSlug: ti-zhu
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 南州困歊暑，蔽映資篔簹。
-- 簾捲午陰静，窗開夕氣凉。
-- 徑幽憐筍密，庭空喜幹長。
-- 相期待歲晏，持以凌繁霜。
+- 細葉蕭蕭擁痩枝，石間新筍迸根遲。
+- 輕筠爲使兒童護，待看娟娟解籜時。
 
 ## 拼音
 
-- nan2 zhou1 kun4 xiao1 shu3 ， bi4 ying4 zi1 yun2 dang1 。
-- lian2 juan3 wu3 yin1 jing4 ， chuang1 kai1 xi1 qi4 liang2 。
-- jing4 you1 lian2 sun3 mi4 ， ting2 kong1 xi3 gan4 chang2 。
-- xiang1 qi1 dai4 sui4 yan4 ， chi2 yi3 ling2 fan2 shuang1 。
+- xi4 ye4 xiao1 xiao1 yong1 shou4 zhi1 ， shi2 jian4 xin1 sun3 beng4 gen1 chi2 。
+- qing1 yun2 wei2 shi3 er2 tong2 hu4 ， dai4 kan4 juan1 juan1 jie3 tuo4 shi2 。
 
 ## 注释
 

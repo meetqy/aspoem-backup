@@ -1,30 +1,30 @@
 ---
 id: zhang-lei-sui-mu-shu-shi-shi-er-shou-qi-yi
-title: 歲暮書事十二首  其一
-titlePinyin: sui4 mu4 shu1 shi4 shi2 er4 shou3     qi2 yi1
+title: 歲暮書事十二首  其一○
+titlePinyin: sui4 mu4 shu1 shi4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: sui-mu-shu-shi-shi-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲晏北風疾，山空萬谷號。
-- 木枯隨意折，鴻斷不成高。
-- 深屋支蓬戶，溫爐煖縕袍。
-- 老夫原不寐，鳴竹鼓蕭騷。
+- 陳葉不肯墮，凍醪凝未融。
+- 寒林晴有影，霜日冷無風。
+- 許國片心壯，勞生雙鬢蓬。
+- 功名任愚智，萬事古今同。
 
 ## 拼音
 
-- sui4 yan4 bei3 feng1 ji2 ， shan1 kong1 wan4 gu3 hao4 。
-- mu4 ku1 sui2 yi4 zhe2 ， hong2 duan4 bu4 cheng2 gao1 。
-- shen1 wu1 zhi1 peng2 hu4 ， wen1 lu2 xuan1 yun4 pao2 。
-- lao3 fu1 yuan2 bu2 mei4 ， ming2 zhu2 gu3 xiao1 sao1 。
+- chen2 ye4 bu4 ken3 duo4 ， dong4 lao2 ning2 wei4 rong2 。
+- han2 lin2 qing2 you3 ying3 ， shuang1 ri4 leng3 wu2 feng1 。
+- xu1 guo2 pian4 xin1 zhuang4 ， lao2 sheng1 shuang1 bin4 peng2 。
+- gong1 ming2 ren4 yu2 zhi4 ， wan4 shi4 gu3 jin1 tong2 。
 
 ## 注释
 

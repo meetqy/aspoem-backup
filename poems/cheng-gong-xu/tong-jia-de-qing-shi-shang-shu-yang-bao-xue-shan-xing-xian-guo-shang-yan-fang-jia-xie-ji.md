@@ -6,10 +6,10 @@ titleSlug: tong-jia-de-qing-shi-shang-shu-yang-bao-xue-shan-xing-xian-guo-shang-
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

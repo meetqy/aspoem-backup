@@ -6,9 +6,9 @@ titleSlug: nan-hua-li-shi-zhe-chi-bing-he-shang-yu-zhi-shu-shan-qing-xiao-ru-ban
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

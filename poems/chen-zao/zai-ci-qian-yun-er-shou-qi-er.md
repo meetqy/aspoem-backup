@@ -6,25 +6,25 @@ titleSlug: zai-ci-qian-yun-er-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倉官尉職賤誰如，終歲區區奉簡書。
-- 勝日偷閑須著便，青山有約定來無。
-- 著書聊閣如椽筆，疾惡休張磔蝟鬚。
-- 好袖新瓢五峯路，碧淙清樾伴蕭疎。
+- 起柁揚帆趁便風，狎鷗驚鴈水煙中。
+- 裹香薦彘聊隨俗，計日聽雞等自公。
+- 詩句滌愁收一一，酒杯澆別悔匆匆。
+- 與君二紀陳雷契，猶遣時人笑兩窮。
 
 ## 拼音
 
-- cang1 guan1 wei4 zhi2 jian4 shui2 ru2 ， zhong1 sui4 qu1 qu1 feng4 jian3 shu1 。
-- sheng4 ri4 tou1 xian2 xu1 zhu4 bian4 ， qing1 shan1 you3 yue1 ding4 lai2 wu2 。
-- zhu4 shu1 liao2 ge2 ru2 chuan2 bi3 ， ji2 e4 xiu1 zhang1 zhe2 wei4 xu1 。
-- hao3 xiu4 xin1 piao2 wu3 feng1 lu4 ， bi4 cong2 qing1 yue4 ban4 xiao1 shu1 。
+- qi3 tuo2 yang2 fan1 chen4 bian4 feng1 ， xia2 ou1 jing1 yan4 shui3 yan1 zhong1 。
+- guo3 xiang1 jian4 zhi4 liao2 sui2 su2 ， ji4 ri4 ting1 ji1 deng3 zi4 gong1 。
+- shi1 ju4 di2 chou2 shou1 yi1 yi1 ， jiu3 bei1 jiao1 bie2 hui3 cong1 cong1 。
+- yu3 jun1 er4 ji4 chen2 lei2 qi4 ， you2 qian3 shi2 ren2 xiao4 liang3 qiong2 。
 
 ## 注释
 

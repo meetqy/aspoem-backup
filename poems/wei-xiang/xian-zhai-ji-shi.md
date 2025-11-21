@@ -6,25 +6,41 @@ titleSlug: xian-zhai-ji-shi
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 作邑慚無術，懷民賴有年。
-- 訟筒消不逞，賓席汰非賢。
-- 奉養庭闈穩，論求典冊全。
-- 誰言非吏隱，山水匝城堧。
+- 比来庭訟少，拙令稱幽潛。
+- 愛日開朝幌，看雲捲畫簾。
+- 澄神烹茗粥，憶古檢書籤。
+- 菽水清多樂，溪山意自恬。
+- 韜光異耕釣，苦志念漁鹽。
+- 驥足空思展，牛刀敢謂淹。
+- 民心久當信，佐局美相兼。
+- 笑傲言祛隘，賡酬韻鬭嚴。
+- 囊錢如未乏，樽酒尚能添。
+- 園笋新成綠，池荷半露尖。
+- 共謀懷坦坦，毋恤遠炎炎。
+- 此興歡無敵，逢人語必箝。
 
 ## 拼音
 
-- zuo4 yi4 can2 wu2 shu4 ， huai2 min2 lai4 you3 nian2 。
-- song4 tong3 xiao1 bu4 cheng3 ， bin1 xi2 tai4 fei1 xian2 。
-- feng4 yang3 ting2 wei2 wen3 ， lun4 qiu2 dian3 ce4 quan2 。
-- shui2 yan2 fei1 li4 yin3 ， shan1 shui3 za1 cheng2 ruan2 。
+- bi3 lai2 ting2 song4 shao3 ， zhuo1 ling4 cheng1 you1 qian2 。
+- ai4 ri4 kai1 chao2 huang3 ， kan4 yun2 juan3 hua4 lian2 。
+- cheng2 shen2 peng1 ming2 zhou1 ， yi4 gu3 jian3 shu1 qian1 。
+- shu1 shui3 qing1 duo1 le4 ， xi1 shan1 yi4 zi4 tian2 。
+- tao1 guang1 yi4 geng1 diao4 ， ku3 zhi4 nian4 yu2 yan2 。
+- ji4 zu2 kong1 si1 zhan3 ， niu2 dao1 gan3 wei4 yan1 。
+- min2 xin1 jiu3 dang1 xin4 ， zuo3 ju2 mei3 xiang1 jian1 。
+- xiao4 ao4 yan2 qu1 ai4 ， geng1 chou2 yun4 dou4 yan2 。
+- nang2 qian2 ru2 wei4 fa2 ， zun1 jiu3 shang4 neng2 tian1 。
+- yuan2 sun3 xin1 cheng2 lü4 ， chi2 he2 ban4 lu4 jian1 。
+- gong4 mou2 huai2 tan3 tan3 ， wu2 xu4 yuan3 yan2 yan2 。
+- ci3 xing1 huan1 wu2 di2 ， feng2 ren2 yu3 bi4 qian2 。
 
 ## 注释
 

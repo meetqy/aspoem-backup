@@ -6,21 +6,21 @@ titleSlug: du-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南言蓴菜似羊酪，北說茘枝如石榴。
-- 自古論人多類此，簡編千載判悠悠。
+- 馬周浪迹新豐市，阮籍興懷廣武城。
+- 用捨雖殊才氣似，不妨也是一書生。
 
 ## 拼音
 
-- nan2 yan2 chun2 cai4 si4 yang2 lao4 ， bei3 shuo1 li4 zhi1 ru2 shi2 liu0 。
-- zi4 gu3 lun4 ren2 duo1 lei4 ci3 ， jian3 bian1 qian1 zai4 pan4 you1 you1 。
+- ma3 zhou1 lang4 ji4 xin1 feng1 shi4 ， ruan3 ji2 xing1 huai2 guang3 wu3 cheng2 。
+- yong4 she3 sui1 shu1 cai2 qi4 si4 ， bu4 fang2 ye3 shi4 yi4 shu1 sheng1 。
 
 ## 注释
 

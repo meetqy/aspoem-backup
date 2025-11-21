@@ -6,10 +6,10 @@ titleSlug: ji-si-shou-qi-er
 author: 釋法恭
 authorPinyin: shi4 fa3 gong1
 authorSlug: shi-fa-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

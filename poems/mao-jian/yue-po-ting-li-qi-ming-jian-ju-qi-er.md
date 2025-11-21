@@ -6,10 +6,10 @@ titleSlug: yue-po-ting-li-qi-ming-jian-ju-qi-er
 author: 毛幵
 authorPinyin: mao2 jian1
 authorSlug: mao-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

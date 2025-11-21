@@ -9,22 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 前池秋始半，卉物多摧壞。
-- 欲暮槿先萎，未霜荷已敗。
-- 默然有所感，可以從茲誡。
-- 本不種松筠，早彫何足怪。
+- 身閑無所爲，心閑無所思。
+- 況當故園夜，復此新秋池。
+- 岸闇鳥棲後，橋明月出時。
+- 菱風香散漫，桂露光參差。
+- 靜境多獨得，幽懷竟誰知。
+- 悠然心中語，自問來何遲。
 
 ## 拼音
 
-- qian2 chi2 qiu1 shi3 ban4 ， hui4 wu4 duo1 cui1 huai4 。
-- yu4 mu4 jin3 xian1 wei3 ， wei4 shuang1 he2 yi3 bai4 。
-- mo4 ran2 you3 suo3 gan3 ， ke3 yi3 cong2 zi1 jie4 。
-- ben3 bu4 zhong3 song1 yun2 ， zao3 diao1 he2 zu2 guai4 。
+- shen1 xian2 wu2 suo3 wei2 ， xin1 xian2 wu2 suo3 si1 。
+- kuang4 dang1 gu4 yuan2 ye4 ， fu4 ci3 xin1 qiu1 chi2 。
+- an4 an4 niao3 qi1 hou4 ， qiao2 ming2 yue4 chu1 shi2 。
+- ling2 feng1 xiang1 san3 man4 ， gui4 lou4 guang1 can1 cha4 。
+- jing4 jing4 duo1 du2 de2 ， you1 huai2 jing4 shui2 zhi1 。
+- you1 ran2 xin1 zhong1 yu3 ， zi4 wen4 lai2 he2 chi2 。
 
 ## 注释
 

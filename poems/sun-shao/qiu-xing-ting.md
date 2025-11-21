@@ -6,10 +6,10 @@ titleSlug: qiu-xing-ting
 author: 孫杓
 authorPinyin: sun1 shao2
 authorSlug: sun-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

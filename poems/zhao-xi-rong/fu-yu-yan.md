@@ -6,10 +6,10 @@ titleSlug: fu-yu-yan
 author: 趙希融
 authorPinyin: zhao4 xi1 rong2
 authorSlug: zhao-xi-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

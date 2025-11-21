@@ -6,10 +6,10 @@ titleSlug: you-cui-yin-dong-he-zhu-lu-chang-yun
 author: 林石
 authorPinyin: lin2 shi2
 authorSlug: lin-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

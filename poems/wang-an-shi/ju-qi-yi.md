@@ -1,24 +1,24 @@
 ---
 id: wang-an-shi-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衰俗易高名已振，險途難盡學須强。
+- 青山捫虱坐，黄鳥挾書眠。
 
 ## 拼音
 
-- shuai1 su2 yi4 gao1 ming2 yi3 zhen4 ， xian3 tu2 nan2 jin4 xue2 xu1 qiang2 。
+- qing1 shan1 men2 shi1 zuo4 ， huang2 niao3 xie2 shu1 mian2 。
 
 ## 注释
 

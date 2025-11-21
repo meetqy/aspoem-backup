@@ -6,9 +6,9 @@ titleSlug: hu-gong-rong-gui
 author: 趙存佐
 authorPinyin: zhao4 cun2 zuo3
 authorSlug: zhao-cun-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

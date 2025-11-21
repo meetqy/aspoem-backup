@@ -6,10 +6,10 @@ titleSlug: shu-yin-lian-ju
 author: 楊輔世
 authorPinyin: yang2 fu3 shi4
 authorSlug: yang-fu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

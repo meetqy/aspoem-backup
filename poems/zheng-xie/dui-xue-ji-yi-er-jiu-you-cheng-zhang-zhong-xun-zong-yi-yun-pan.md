@@ -6,10 +6,10 @@ titleSlug: dui-xue-ji-yi-er-jiu-you-cheng-zhang-zhong-xun-zong-yi-yun-pan
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

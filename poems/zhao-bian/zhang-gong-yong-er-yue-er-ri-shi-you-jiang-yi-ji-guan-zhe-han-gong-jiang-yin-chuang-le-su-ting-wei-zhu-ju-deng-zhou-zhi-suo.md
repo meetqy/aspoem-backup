@@ -6,10 +6,10 @@ titleSlug: zhang-gong-yong-er-yue-er-ri-shi-you-jiang-yi-ji-guan-zhe-han-gong-ji
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

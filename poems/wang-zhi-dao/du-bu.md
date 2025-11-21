@@ -6,25 +6,21 @@ titleSlug: du-bu
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 飽餘惟欲睡，散睡步東園。
-- 雨足富蓮子，年豐多稻孫。
-- 崎嶇窮竹徑，詰曲遍花源。
-- 何必冠童輩，偕來笑語喧。
+- 雨晴烟渚白鷗亂，風過霜林紅葉稀。
+- 獨步幽吟心正苦，卻憐明月照人歸。
 
 ## 拼音
 
-- bao3 yu2 wei2 yu4 shui4 ， san4 shui4 bu4 dong1 yuan2 。
-- yu3 zu2 fu4 lian2 zi3 ， nian2 feng1 duo1 dao4 sun1 。
-- qi2 qu1 qiong2 zhu2 jing4 ， jie2 qu3 bian4 hua1 yuan2 。
-- he2 bi4 guan1 tong2 bei4 ， xie2 lai2 xiao4 yu3 xuan1 。
+- yu3 qing2 yan1 zhu3 bai2 ou1 luan4 ， feng1 guo4 shuang1 lin2 hong2 ye4 xi1 。
+- du2 bu4 you1 yin2 xin1 zheng4 ku3 ， que4 lian2 ming2 yue4 zhao4 ren2 gui1 。
 
 ## 注释
 

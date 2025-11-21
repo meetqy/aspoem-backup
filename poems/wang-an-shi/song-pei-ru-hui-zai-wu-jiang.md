@@ -6,33 +6,25 @@ titleSlug: song-pei-ru-hui-zai-wu-jiang
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜澤與天杳，旁臨無限情。
-- 他時散髮處，最愛垂虹亭。
-- 飄然平生遊，捨我戴吳星。
-- 欲往獨不得，都門看揚舲。
-- 到縣問疾苦，爲予求所經。
-- 當知耕牧地，往往茭蒲青。
-- 三江斷其二，洚水何由寧。
-- 微子好古者，此歌尚誰聽。
+- 青髮朱顔各少年，幅巾談笑兩歡然。
+- 柴桑別後餘三徑，天祿歸來盡一廛。
+- 邂逅都門誰載酒，蕭條江縣去鳴弦。
+- 猶疑甫里英靈在，到日憑君爲艤船。
 
 ## 拼音
 
-- shuang1 ze2 yu3 tian1 yao3 ， pang2 lin2 wu2 xian4 qing2 。
-- ta1 shi2 san4 fa4 chu3 ， zui4 ai4 chui2 hong2 ting2 。
-- piao1 ran2 ping2 sheng1 you2 ， she3 wo3 dai4 wu2 xing1 。
-- yu4 wang3 du2 bu4 de2 ， dou1 men2 kan4 yang2 ling2 。
-- dao4 xian4 wen4 ji2 ku3 ， wei2 yu3 qiu2 suo3 jing1 。
-- dang1 zhi1 geng1 mu4 di4 ， wang3 wang3 jiao1 pu2 qing1 。
-- san1 jiang1 duan4 qi2 er4 ， jiang4 shui3 he2 you2 ning2 。
-- wei1 zi3 hao3 gu3 zhe3 ， ci3 ge1 shang4 shui2 ting1 。
+- qing1 fa4 zhu1 yan2 ge4 shao4 nian2 ， fu2 jin1 tan2 xiao4 liang3 huan1 ran2 。
+- chai2 sang1 bie2 hou4 yu2 san1 jing4 ， tian1 lu4 gui1 lai2 jin4 yi4 chan2 。
+- xie4 hou4 dou1 men2 shui2 zai4 jiu3 ， xiao1 tiao2 jiang1 xian4 qu4 ming2 xian2 。
+- you2 yi2 fu3 li3 ying1 ling2 zai4 ， dao4 ri4 ping2 jun1 wei2 yi3 chuan2 。
 
 ## 注释
 

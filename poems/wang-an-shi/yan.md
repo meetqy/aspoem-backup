@@ -1,30 +1,26 @@
 ---
 id: wang-an-shi-yan
-title: 雁
+title: 燕
 titlePinyin: yan4
 titleSlug: yan
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北去還爲客，南來豈是歸。
-- 倦投空渚泊，饑帖冷雲飛。
-- 垣柵鷄長暖，溝池鶩自肥。
-- 憐渠不知此，更墮野人機。
+- 處處定知秋後別，年年長向社前逢。
+- 行藏自欲追時節，豈是人間不見容。
 
 ## 拼音
 
-- bei3 qu4 huan2 wei2 ke4 ， nan2 lai2 qi3 shi4 gui1 。
-- juan4 tou2 kong1 zhu3 bo2 ， ji1 tie1 leng3 yun2 fei1 。
-- yuan2 shan1 ji1 chang2 nuan3 ， gou1 chi2 wu4 zi4 fei2 。
-- lian2 qu2 bu4 zhi1 ci3 ， geng4 duo4 ye3 ren2 ji1 。
+- chu3 chu3 ding4 zhi1 qiu1 hou4 bie2 ， nian2 nian2 chang2 xiang4 she4 qian2 feng2 。
+- xing2 cang2 zi4 yu4 zhui1 shi2 jie2 ， qi3 shi4 ren2 jian4 bu2 jian4 rong2 。
 
 ## 注释
 

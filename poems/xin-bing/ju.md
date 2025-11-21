@@ -6,10 +6,10 @@ titleSlug: ju
 author: 辛炳
 authorPinyin: xin1 bing3
 authorSlug: xin-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

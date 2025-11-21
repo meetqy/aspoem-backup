@@ -6,10 +6,10 @@ titleSlug: ti-huang-zi-zhong-nan-bei-ji
 author: 劉天麟
 authorPinyin: liu2 tian1 lin2
 authorSlug: liu-tian-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

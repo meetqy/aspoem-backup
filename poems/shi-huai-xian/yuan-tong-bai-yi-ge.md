@@ -6,10 +6,10 @@ titleSlug: yuan-tong-bai-yi-ge
 author: 釋懷賢
 authorPinyin: shi4 huai2 xian2
 authorSlug: shi-huai-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

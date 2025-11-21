@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 久爲勞生事，不學攝生道。
-- 年少已多病，此身豈堪老。
+- 病來城裏諸親故，厚薄親疎心總知。
+- 唯有蔚章於我分，深於同在翰林時。
 
 ## 拼音
 
-- jiu3 wei2 lao2 sheng1 shi4 ， bu4 xue2 she4 sheng1 dao4 。
-- nian2 shao4 yi3 duo1 bing4 ， ci3 shen1 qi3 kan1 lao3 。
+- bing4 lai2 cheng2 li3 zhu1 qin1 gu4 ， hou4 bao2 qin1 shu1 xin1 zong3 zhi1 。
+- wei2 you3 wei4 zhang1 wu1 wo3 fen1 ， shen1 wu1 tong2 zai4 han4 lin2 shi2 。
 
 ## 注释
 

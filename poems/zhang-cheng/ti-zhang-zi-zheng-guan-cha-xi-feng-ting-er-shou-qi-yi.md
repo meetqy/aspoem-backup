@@ -6,9 +6,9 @@ titleSlug: ti-zhang-zi-zheng-guan-cha-xi-feng-ting-er-shou-qi-yi
 author: 張偁
 authorPinyin: zhang1 cheng1
 authorSlug: zhang-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

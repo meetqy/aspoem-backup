@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 永日無他念，孤清吏隱心。
-- 竹聲并雪碎，溪色共煙深。
+- 竹聲幷雪碎，溪色共煙深。
 - 數息閑凭几，緣情默寄琴。
 - 誰知同寂寞，相與結知音。
 

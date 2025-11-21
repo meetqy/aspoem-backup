@@ -6,9 +6,9 @@ titleSlug: ju
 author: 袁祹
 authorPinyin: yuan2 tao2
 authorSlug: yuan-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

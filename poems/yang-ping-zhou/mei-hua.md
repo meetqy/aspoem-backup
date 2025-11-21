@@ -6,10 +6,10 @@ titleSlug: mei-hua
 author: 楊平洲
 authorPinyin: yang2 ping2 zhou1
 authorSlug: yang-ping-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

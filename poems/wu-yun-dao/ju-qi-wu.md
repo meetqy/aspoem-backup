@@ -6,10 +6,10 @@ titleSlug: ju-qi-wu
 author: 武允蹈
 authorPinyin: wu3 yun3 dao3
 authorSlug: wu-yun-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

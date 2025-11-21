@@ -6,10 +6,10 @@ titleSlug: song-zhang-rou-weng-bi-qiang-xi-shang
 author: 王邁
 authorPinyin: wang2 mai4
 authorSlug: wang-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: ding-wei-di
-title: 笛
-titlePinyin: di2
+title: 地
+titlePinyin: di4
 titleSlug: di
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衡陽裁翠簳，夢澤剪霜柯。
-- 妙制非丘仲，知音賞列和。
-- 賦因懷舊得，曲爲寫情多。
-- 三弄青溪側，風流奈爾何。
+- 著象本沉潛，成形莫我厭。
+- 秉陰彰至信，厚載示流謙。
+- 右轉羣生遂，東頃萬壑兼。
+- 寰區今底定，不用八龍占。
 
 ## 拼音
 
-- heng2 yang2 cai2 cui4 gan4 ， meng4 ze2 jian3 shuang1 ke1 。
-- miao4 zhi4 fei1 qiu1 zhong4 ， zhi1 yin1 shang3 lie4 he2 。
-- fu4 yin1 huai2 jiu4 de2 ， qu3 wei2 xie3 qing2 duo1 。
-- san1 nong4 qing1 xi1 ce4 ， feng1 liu2 nai4 er3 he2 。
+- zhu4 xiang4 ben3 chen2 qian2 ， cheng2 xing2 mo4 wo3 yan4 。
+- bing3 yin1 zhang1 zhi4 xin4 ， hou4 zai4 shi4 liu2 qian1 。
+- you4 zhuan3 qun2 sheng1 sui4 ， dong1 qing3 wan4 he4 jian1 。
+- huan2 qu1 jin1 di3 ding4 ， bu2 yong4 ba1 long2 zhan4 。
 
 ## 注释
 

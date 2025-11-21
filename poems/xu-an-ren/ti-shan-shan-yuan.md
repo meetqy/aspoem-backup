@@ -6,10 +6,10 @@ titleSlug: ti-shan-shan-yuan
 author: 許安仁
 authorPinyin: xu1 an1 ren2
 authorSlug: xu-an-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

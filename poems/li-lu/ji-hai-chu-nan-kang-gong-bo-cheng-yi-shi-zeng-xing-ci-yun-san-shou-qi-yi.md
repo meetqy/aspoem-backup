@@ -6,10 +6,10 @@ titleSlug: ji-hai-chu-nan-kang-gong-bo-cheng-yi-shi-zeng-xing-ci-yun-san-shou-qi
 author: 李呂
 authorPinyin: li3 lü3
 authorSlug: li-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

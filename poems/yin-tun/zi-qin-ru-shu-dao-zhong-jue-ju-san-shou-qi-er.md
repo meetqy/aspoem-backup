@@ -6,10 +6,10 @@ titleSlug: zi-qin-ru-shu-dao-zhong-jue-ju-san-shou-qi-er
 author: 尹焞
 authorPinyin: yin3 tun1
 authorSlug: yin-tun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

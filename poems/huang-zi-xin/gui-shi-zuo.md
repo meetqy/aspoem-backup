@@ -6,10 +6,10 @@ titleSlug: gui-shi-zuo
 author: 黄子信
 authorPinyin: huang2 zi3 xin4
 authorSlug: huang-zi-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

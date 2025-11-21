@@ -6,10 +6,10 @@ titleSlug: zan-si-xin-shan-shi-ji-qi-er
 author: 釋惟久
 authorPinyin: shi4 wei2 jiu3
 authorSlug: shi-wei-jiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhong-yang-qian-er-ri-xi-yu-da-si-zhou-guo-cong-shi-qi-er
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-huang-shan
 author: 石待問
 authorPinyin: shi2 dai4 wen4
 authorSlug: shi-dai-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

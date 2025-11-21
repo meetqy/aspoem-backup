@@ -6,10 +6,10 @@ titleSlug: ci-zi-zhan-ye-zi-yun-zuo-zhong-qiu-dui-yue-er-pian-yi-yi-zeng-wang-la
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

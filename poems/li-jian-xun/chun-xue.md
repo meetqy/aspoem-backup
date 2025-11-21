@@ -9,22 +9,22 @@ authorSlug: li-jian-xun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 南國春寒朔氣迴，霏霏還阻百花開。
-- 全移暖律何方去，似誤新鶯昨日來。
-- 平野旋銷難蔽草，遠林高綴却遮梅。
-- 不知金勒誰家子，只待晴明賞帝臺。
+- 隨風竟日勢漫漫，特地繁於故歲看。
+- 幽榭凍黏花屋重，短簷斜濕燕巢寒。
+- 閑聽不寐詩魂爽，淨喫無厭酒肺乾。
+- 莫道便爲桑麥藥，亦勝焦涸到春殘。
 
 ## 拼音
 
-- nan2 guo2 chun1 han2 shuo4 qi4 hui2 ， fei1 fei1 huan2 zu3 bai3 hua1 kai1 。
-- quan2 yi2 nuan3 lü4 he2 fang1 qu4 ， si4 wu4 xin1 ying1 zuo2 ri4 lai2 。
-- ping2 ye3 xuan2 xiao1 nan2 bi4 cao3 ， yuan3 lin2 gao1 zhui4 que4 zhe1 mei2 。
-- bu4 zhi1 jin1 le4 shui2 jia1 zi0 ， zhi1 dai4 qing2 ming2 shang3 di4 tai2 。
+- sui2 feng1 jing4 ri4 shi4 man4 man4 ， te4 di4 fan2 wu1 gu4 sui4 kan4 。
+- you1 xie4 dong4 nian2 hua1 wu1 zhong4 ， duan3 yan2 xie2 shi1 yan4 chao2 han2 。
+- xian2 ting1 bu2 mei4 shi1 hun2 shuang3 ， jing4 chi1 wu2 yan4 jiu3 fei4 qian2 。
+- mo4 dao4 bian4 wei2 sang1 mai4 yao4 ， yi4 sheng4 jiao1 he2 dao4 chun1 can2 。
 
 ## 注释
 

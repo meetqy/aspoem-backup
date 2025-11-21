@@ -6,21 +6,25 @@ titleSlug: meng-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 繫馬朱橋上酒樓，樓前敷水拍堤流。
-- 春風又作無情計，滿路楊花輥雪球。
+- 征途遇秋雨，數士集郵亭。
+- 酒拆官壺綠，山圍草市青。
+- 劇談猶激烈，瘦影各伶俜。
+- 四海皆兄弟，悠然共醉醒。
 
 ## 拼音
 
-- xi4 ma3 zhu1 qiao2 shang4 jiu3 lou2 ， lou2 qian2 fu1 shui3 pai1 di1 liu2 。
-- chun1 feng1 you4 zuo4 wu2 qing2 ji4 ， man3 lu4 yang2 hua1 gun3 xue3 qiu2 。
+- zheng1 tu2 yu4 qiu1 yu3 ， shu4 shi4 ji2 you2 ting2 。
+- jiu3 chai1 guan1 hu2 lü4 ， shan1 wei2 cao3 shi4 qing1 。
+- ju4 tan2 you2 ji1 lie4 ， shou4 ying3 ge4 ling2 ping1 。
+- si4 hai3 jie1 xiong1 di4 ， you1 ran2 gong4 zui4 xing3 。
 
 ## 注释
 

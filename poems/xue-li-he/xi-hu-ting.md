@@ -6,10 +6,10 @@ titleSlug: xi-hu-ting
 author: 薛利和
 authorPinyin: xue1 li4 he2
 authorSlug: xue-li-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

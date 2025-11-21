@@ -6,25 +6,25 @@ titleSlug: qi-xi
 author: 廖行之
 authorPinyin: liao4 xing2 zhi1
 authorSlug: liao-xing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 目切雲垂望，心馳枕扇凉。
-- 兩年違色養，七夕又他鄉。
-- 坐想斑衣戯，胡爲捧檄忙。
-- 何人翟方進，將母冠巖廊。
+- 從昔人傳鵲作橋，一年牛女會清宵。
+- 幾家乞巧羅瓜果，是處開樽沸管簫。
+- 雲雨暫成銀漢約，風雷催趁玉晨朝。
+- 憑誰與問支機石，好上仙槎款碧霄。
 
 ## 拼音
 
-- mu4 qie4 yun2 chui2 wang4 ， xin1 chi2 zhen3 shan4 liang2 。
-- liang3 nian2 wei2 se4 yang3 ， qi1 xi1 you4 ta1 xiang1 。
-- zuo4 xiang3 ban1 yi1 xi4 ， hu2 wei2 peng3 xi2 mang2 。
-- he2 ren2 zhai2 fang1 jin4 ， jiang1 mu3 guan1 yan2 lang2 。
+- cong2 xi1 ren2 chuan2 que4 zuo4 qiao2 ， yi4 nian2 niu2 nü3 hui4 qing1 xiao1 。
+- ji1 jia1 qi3 qiao3 luo2 gua1 guo3 ， shi4 chu3 kai1 zun1 fei4 guan3 xiao1 。
+- yun2 yu3 zan4 cheng2 yin2 han4 yue1 ， feng1 lei2 cui1 chen4 yu4 chen2 chao2 。
+- ping2 shui2 yu3 wen4 zhi1 ji1 shi2 ， hao3 shang4 xian1 cha2 kuan3 bi4 xiao1 。
 
 ## 注释
 

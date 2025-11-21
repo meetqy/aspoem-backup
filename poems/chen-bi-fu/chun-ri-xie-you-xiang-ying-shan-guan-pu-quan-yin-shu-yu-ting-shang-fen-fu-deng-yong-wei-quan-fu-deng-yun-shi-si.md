@@ -6,10 +6,10 @@ titleSlug: chun-ri-xie-you-xiang-ying-shan-guan-pu-quan-yin-shu-yu-ting-shang-fe
 author: 陳必復
 authorPinyin: chen2 bi4 fu4
 authorSlug: chen-bi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

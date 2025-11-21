@@ -6,10 +6,10 @@ titleSlug: guo-ling-quan-si-qi-si
 author: 黄廉
 authorPinyin: huang2 lian2
 authorSlug: huang-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

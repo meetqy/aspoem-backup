@@ -6,10 +6,10 @@ titleSlug: zeng-lin-ci-ling
 author: 部使者
 authorPinyin: bu4 shi3 zhe3
 authorSlug: bu-shi-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

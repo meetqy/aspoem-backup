@@ -6,10 +6,10 @@ titleSlug: ju
 author: 范元作
 authorPinyin: fan4 yuan2 zuo4
 authorSlug: fan-yuan-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

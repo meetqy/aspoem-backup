@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-han-lin-you-she-ren-qing-ming-ri-ru-yuan-zhong-tu-jian-guo-yu-ming-ri-yi-ru-xi-sheng-shang-zhi-yin-ji-you-jun
-title: 翰林游舍人清明日入院中塗見過余明日亦入西省上直因寄游君
+title: 翰林游舍人清明日入院中途見過余明日亦入西省上直因寄游君
 titlePinyin: han4 lin2 you2 she4 ren2 qing1 ming2 ri4 ru4 yuan4 zhong1 tu2 jian4 guo4 yu2 ming2 ri4 yi4 ru4 xi1 sheng3 shang4 zhi2 yin1 ji4 you2 jun1
 titleSlug: han-lin-you-she-ren-qing-ming-ri-ru-yuan-zhong-tu-jian-guo-yu-ming-ri-yi-ru-xi-sheng-shang-zhi-yin-ji-you-jun
 author: 徐鉉
@@ -16,7 +16,7 @@ tags: []
 
 - 榆柳開新焰，梨花發故枝。
 - 輜軿隘城市，圭組坐曹司。
-- 獨對芝泥檢，遥憐白馬兒。
+- 獨對芝泥檢，遙憐白馬兒。
 - 禁林還視草，氣味兩相知。
 
 ## 拼音

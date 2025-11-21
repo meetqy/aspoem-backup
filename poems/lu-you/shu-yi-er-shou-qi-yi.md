@@ -6,25 +6,25 @@ titleSlug: shu-yi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我本三生世外人，幻軀其實强冠巾。
-- 稍能閉戶學種菜，時亦長歌行負薪。
-- 一醉却非身外事，百年終是冢中塵。
-- 君知夢境無根底，莫信人言想與因。
+- 秋江菰菜喜新嘗，鹽酪親調匕箸香。
+- 但有長腰吳下米，豈須細肋大官羊。
+- 青衫昔悔塵中老，白髮今宜靜處藏。
+- 一事尚須深自咎，街頭兒女識韓康。
 
 ## 拼音
 
-- wo3 ben3 san1 sheng1 shi4 wai4 ren2 ， huan4 qu1 qi2 shi2 qiang2 guan1 jin1 。
-- shao1 neng2 bi4 hu4 xue2 zhong3 cai4 ， shi2 yi4 chang2 ge1 xing2 fu4 xin1 。
-- yi2 zui4 que4 fei1 shen1 wai4 shi4 ， bai3 nian2 zhong1 shi4 zhong3 zhong1 chen2 。
-- jun1 zhi1 meng4 jing4 wu2 gen1 di3 ， mo4 xin4 ren2 yan2 xiang3 yu3 yin1 。
+- qiu1 jiang1 gu1 cai4 xi3 xin1 chang2 ， yan2 lao4 qin1 diao4 bi3 zhu4 xiang1 。
+- dan4 you3 chang2 yao1 wu2 xia4 mi3 ， qi3 xu1 xi4 lei4 da4 guan1 yang2 。
+- qing1 shan1 xi1 hui3 chen2 zhong1 lao3 ， bai2 fa4 jin1 yi2 jing4 chu3 cang2 。
+- yi2 shi4 shang4 xu1 shen1 zi4 jiu4 ， jie1 tou2 er2 nü3 shi2 han2 kang1 。
 
 ## 注释
 

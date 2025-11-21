@@ -6,10 +6,10 @@ titleSlug: ti-shuang-feng-xian-zu-yuan
 author: 張伯常
 authorPinyin: zhang1 bo2 chang2
 authorSlug: zhang-bo-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

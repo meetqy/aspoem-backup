@@ -6,10 +6,10 @@ titleSlug: zha-chuan-ci-yun-he-tian
 author: 張藴
 authorPinyin: zhang1 yun4
 authorSlug: zhang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

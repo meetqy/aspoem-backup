@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 三千餘法論修行，第一燒丹路最親。
-- 須是坎男端的物，取他離女自然珍。
-- 烹成不死砂中汞，結出長生水裏銀。
-- 九轉九還功若就，定將衰老返長春。
+- 強居此境絕知音，野景雖多不合吟。
+- 詩句若喧卿相口，姓名還動帝王心。
+- 道袍薜帶應慵挂，隱帽皮冠尚懶簪。
+- 除此更無餘箇事，一壺村酒一張琴。
 
 ## 拼音
 
-- san1 qian1 yu2 fa3 lun4 xiu1 xing2 ， di4 yi4 shao1 dan1 lu4 zui4 qin1 。
-- xu1 shi4 kan3 nan2 duan1 di4 wu4 ， qu3 ta1 li2 nü3 zi4 ran2 zhen1 。
-- peng1 cheng2 bu4 si3 sha1 zhong1 gong3 ， jie2 chu1 chang2 sheng1 shui3 li3 yin2 。
-- jiu3 zhuan3 jiu3 huan2 gong1 ruo4 jiu4 ， ding4 jiang1 shuai1 lao3 fan3 chang2 chun1 。
+- qiang2 ju1 ci3 jing4 jue2 zhi1 yin1 ， ye3 jing3 sui1 duo1 bu4 he2 yin2 。
+- shi1 ju4 ruo4 xuan1 qing1 xiang4 kou3 ， xing4 ming2 huan2 dong4 di4 wang2 xin1 。
+- dao4 pao2 bi4 dai4 ying1 yong1 gua4 ， yin3 mao4 pi2 guan1 shang4 lan3 zan1 。
+- chu2 ci3 geng4 wu2 yu2 ge4 shi4 ， yi4 hu2 cun1 jiu3 yi4 zhang1 qin2 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: yang-gong-yuan-si-yong-yun-qi-yi
-title: 四用韻  其一
-titlePinyin: si4 yong4 yun4     qi2 yi1
+title: 四用韻  其一○
+titlePinyin: si4 yong4 yun4     qi2 yi1 ○
 titleSlug: si-yong-yun-qi-yi
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 探梅時節近，春小已秋餘。
-- 飯足農家樂，年豐史筆書。
-- 籬隈眠繭栗，池淺立舂鋤。
-- 對景閒吟句，風騷沒笋蔬。
+- 因循身漸老，性懶謁王侯。
+- 嘗到新藍尾，翻餘舊歷頭。
+- 春來雖可喜，歲去抑何愁。
+- 桃板書聯句，三平二滿休。
 
 ## 拼音
 
-- tan4 mei2 shi2 jie2 jin4 ， chun1 xiao3 yi3 qiu1 yu2 。
-- fan4 zu2 nong2 jia1 le4 ， nian2 feng1 shi3 bi3 shu1 。
-- li2 wei1 mian2 jian3 li4 ， chi2 qian3 li4 chong1 chu2 。
-- dui4 jing3 xian2 yin2 ju4 ， feng1 sao1 mei2 sun3 shu1 。
+- yin1 xun2 shen1 jian4 lao3 ， xing4 lan3 ye4 wang2 hou2 。
+- chang2 dao4 xin1 lan2 wei3 ， fan1 yu2 jiu4 li4 tou2 。
+- chun1 lai2 sui1 ke3 xi3 ， sui4 qu4 yi4 he2 chou2 。
+- tao2 ban3 shu1 lian2 ju4 ， san1 ping2 er4 man3 xiu1 。
 
 ## 注释
 

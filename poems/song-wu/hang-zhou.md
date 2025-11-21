@@ -6,21 +6,21 @@ titleSlug: hang-zhou
 author: 宋無
 authorPinyin: song4 wu2
 authorSlug: song-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 錦繡波翻太液空，一池寒雨落芙蓉。
-- 內前尚有中官住，却聽西蕃寺裏鐘。
+- 山勢猶龍鳳，行宮已劫灰。
+- 北人偏悵望，曾見汴京來。
 
 ## 拼音
 
-- jin3 xiu4 bo1 fan1 tai4 ye4 kong1 ， yi4 chi2 han2 yu3 luo4 fu2 rong2 。
-- nei4 qian2 shang4 you3 zhong1 guan1 zhu4 ， que4 ting1 xi1 fan1 si4 li3 zhong1 。
+- shan1 shi4 you2 long2 feng4 ， xing2 gong1 yi3 jie2 hui1 。
+- bei3 ren2 pian1 chang4 wang4 ， ceng2 jian4 bian4 jing1 lai2 。
 
 ## 注释
 

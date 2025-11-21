@@ -6,10 +6,10 @@ titleSlug: gui-zi-cheng-zhong-cheng-jie-qing-chong-gu-hui-shi-ci-yun
 author: 蔡沈
 authorPinyin: cai4 shen3
 authorSlug: cai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

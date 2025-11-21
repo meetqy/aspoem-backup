@@ -6,10 +6,10 @@ titleSlug: ti-zuo-han-lin-san-you-ting
 author: 黄棨
 authorPinyin: huang2 qi3
 authorSlug: huang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

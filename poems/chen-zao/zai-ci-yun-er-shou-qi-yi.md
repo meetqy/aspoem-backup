@@ -6,25 +6,25 @@ titleSlug: zai-ci-yun-er-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鉛墨才爲一飽謀，還因跋疐賦休休。
-- 南州習俗難馴擾，北客迂疎易悔尤。
-- 世味辰星今落落，歸心風旆正悠悠。
-- 知非况自五十九，爲問衰翁底更求。
+- 雪神不袖噓枯手，嗣歲豐登預告成。
+- 泚筆徑煩書上瑞，載塗况已沸歡聲。
+- 騎馿有客搜新句，扶路何人趁晚晴。
+- 一笑與渠分樂事，的知瓊露勝宜城。
 
 ## 拼音
 
-- qian1 mo4 cai2 wei2 yi4 bao3 mou2 ， huan2 yin1 ba2 di4 fu4 xiu1 xiu1 。
-- nan2 zhou1 xi2 su2 nan2 xun4 rao3 ， bei3 ke4 yu1 shu1 yi4 hui3 you2 。
-- shi4 wei4 chen2 xing1 jin1 luo4 luo4 ， gui1 xin1 feng1 pei4 zheng4 you1 you1 。
-- zhi1 fei1 kuang4 zi4 wu3 shi2 jiu3 ， wei2 wen4 shuai1 weng1 di3 geng4 qiu2 。
+- xue3 shen2 bu2 xiu4 xu1 ku1 shou3 ， si4 sui4 feng1 deng1 yu4 gao4 cheng2 。
+- ci3 bi3 jing4 fan2 shu1 shang4 rui4 ， zai4 tu2 kuang4 yi3 fei4 huan1 sheng1 。
+- qi2 lu2 you3 ke4 sou1 xin1 ju4 ， fu2 lu4 he2 ren2 chen4 wan3 qing2 。
+- yi2 xiao4 yu3 qu2 fen1 le4 shi4 ， de0 zhi1 qiong2 lu4 sheng4 yi2 cheng2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: fang-yue-you-he-hui-weng-zhao-ge-qi-yi
-title: 又和晦翁櫂歌  其一
-titlePinyin: you4 he2 hui4 weng1 zhao4 ge1     qi2 yi1
+title: 又和晦翁櫂歌  其一○
+titlePinyin: you4 he2 hui4 weng1 zhao4 ge1     qi2 yi1 ○
 titleSlug: you-he-hui-weng-zhao-ge-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燒藥爐存草亦靈，煮茶竈冷水猶清。
-- 老僊一去無消息，只有飛泉落珮聲。
+- 乘興而來亦偶然，誰將陰壑作晴川。
+- 笋輿更問星村路，去看溪南一線天。
 
 ## 拼音
 
-- shao1 yao4 lu2 cun2 cao3 yi4 ling2 ， zhu3 cha2 zao4 leng3 shui3 you2 qing1 。
-- lao3 xian1 yi2 qu4 wu2 xiao1 xi0 ， zhi3 you3 fei1 quan2 luo4 pei4 sheng1 。
+- cheng2 xing1 er2 lai2 yi4 ou3 ran2 ， shui2 jiang1 yin1 he4 zuo4 qing2 chuan1 。
+- sun3 yu2 geng4 wen4 xing1 cun1 lu4 ， qu4 kan4 xi1 nan2 yi2 xian4 tian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-li-yu-feng
 author: 覃慶元
 authorPinyin: qin2 qing4 yuan2
 authorSlug: qin-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

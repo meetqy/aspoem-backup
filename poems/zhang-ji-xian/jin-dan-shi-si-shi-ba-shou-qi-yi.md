@@ -1,30 +1,30 @@
 ---
 id: zhang-ji-xian-jin-dan-shi-si-shi-ba-shou-qi-yi
-title: 金丹詩四十八首  其一
-titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 yi1
+title: 金丹詩四十八首  其一○
+titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3     qi2 yi1 ○
 titleSlug: jin-dan-shi-si-shi-ba-shou-qi-yi
 author: 張繼先
 authorPinyin: zhang1 ji4 xian1
 authorSlug: zhang-ji-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金鼎玄珠夜半功，紛紛五彩滿房中。
-- 只爲日月交加合，却被龜蛇取次攻。
-- 乍見容儀方恍惚，久看相貌即朦朧。
-- 慇懃爲報陽人道，此箇真空不是空。
+- 莫論仙骨莫求丹，此理玄玄有正門。
+- 迷者少能知返本，教人藉此以爲根。
+- 龜蛇大小宜頻給，日月精華且總吞。
+- 只自明師分剖後，難爲荒野作丘墳。
 
 ## 拼音
 
-- jin1 ding3 xuan2 zhu1 ye4 ban4 gong1 ， fen1 fen1 wu3 cai3 man3 fang2 zhong1 。
-- zhi1 wei2 ri4 yue4 jiao1 jia1 he2 ， que4 bei4 gui1 she2 qu3 ci4 gong1 。
-- zha4 jian4 rong2 yi2 fang1 huang3 hu1 ， jiu3 kan4 xiang4 mao4 ji2 meng2 long2 。
-- yin1 qin2 wei2 bao4 yang2 ren2 dao4 ， ci3 ge4 zhen1 kong1 bu2 shi4 kong1 。
+- mo4 lun4 xian1 gu3 mo4 qiu2 dan1 ， ci3 li3 xuan2 xuan2 you3 zheng4 men2 。
+- mi2 zhe3 shao3 neng2 zhi1 fan3 ben3 ， jiao1 ren2 jie4 ci3 yi3 wei2 gen1 。
+- gui1 she2 da4 xiao3 yi2 bin1 gei3 ， ri4 yue4 jing1 hua2 qie3 zong3 tun1 。
+- zhi1 zi4 ming2 shi1 fen1 pou1 hou4 ， nan2 wei2 huang1 ye3 zuo4 qiu1 fen2 。
 
 ## 注释
 

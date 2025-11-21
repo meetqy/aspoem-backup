@@ -6,10 +6,10 @@ titleSlug: jie-xi-zi-zhi
 author: 張淵微僕母
 authorPinyin: zhang1 yuan1 wei1 pu2 mu3
 authorSlug: zhang-yuan-wei-pu-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

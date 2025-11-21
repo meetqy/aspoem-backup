@@ -6,10 +6,10 @@ titleSlug: he-tong-zhi
 author: 洪聖保
 authorPinyin: hong2 sheng4 bao3
 authorSlug: hong-sheng-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

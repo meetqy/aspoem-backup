@@ -1,26 +1,26 @@
 ---
 id: lu-zu-qian-ji-jiu-rui-gong-ji-mo-si-nian-men-ren-lu-mou-shi-yi-shi-shi-ku-zhi-qi-yi
-title: 祭酒芮公既歿四年門人呂某始以十詩哭之  其一
-titlePinyin: ji4 jiu3 rui4 gong1 ji4 mo4 si4 nian2 men2 ren2 lü3 mou3 shi3 yi3 shi2 shi1 ku1 zhi1     qi2 yi1
+title: 祭酒芮公既歿四年門人呂某始以十詩哭之  其一○
+titlePinyin: ji4 jiu3 rui4 gong1 ji4 mo4 si4 nian2 men2 ren2 lü3 mou3 shi3 yi3 shi2 shi1 ku1 zhi1     qi2 yi1 ○
 titleSlug: ji-jiu-rui-gong-ji-mo-si-nian-men-ren-lu-mou-shi-yi-shi-shi-ku-zhi-qi-yi
 author: 呂祖謙
 authorPinyin: lü3 zu3 qian1
 authorSlug: lu-zu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少年把筆便班揚，咳唾珠璣落四方。
-- 歲晚寒窗渾忘却，瓦爐香細雨聲長。
+- 先生墓木綠成圍，弟子摧頹晝掩扉。
+- 大雪繁霜心已死，有時清夢尚摳衣。
 
 ## 拼音
 
-- shao4 nian2 ba3 bi3 bian4 ban1 yang2 ， hai1 tuo4 zhu1 ji1 luo4 si4 fang1 。
-- sui4 wan3 han2 chuang1 hun2 wang4 que4 ， wa3 lu2 xiang1 xi4 yu3 sheng1 chang2 。
+- xian1 sheng0 mu4 mu4 lü4 cheng2 wei2 ， di4 zi3 cui1 tui2 zhou4 yan3 fei1 。
+- da4 xue3 fan2 shuang1 xin1 yi3 si3 ， you3 shi2 qing1 meng4 shang4 kou1 yi1 。
 
 ## 注释
 

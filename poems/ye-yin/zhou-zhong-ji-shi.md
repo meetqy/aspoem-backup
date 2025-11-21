@@ -6,25 +6,21 @@ titleSlug: zhou-zhong-ji-shi
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 草舍密還稀，編籬枕釣磯。
-- 鴨羣迎棹去，牛背曬衣歸。
-- 風緊浪千疊，村深柳四圍。
-- 倚檣無與語，數鴈失斜暉。
+- 一岸茭蘆何處村，小舟蕩漾日黄昏。
+- 棲鴉散亂風驚柳，漁火清熒人倚門。
 
 ## 拼音
 
-- cao3 she4 mi4 huan2 xi1 ， bian1 li2 zhen3 diao4 ji1 。
-- ya1 qun2 ying2 zhao4 qu4 ， niu2 bei4 shai4 yi1 gui1 。
-- feng1 jin3 lang4 qian1 die2 ， cun1 shen1 liu3 si4 wei2 。
-- yi3 qiang2 wu2 yu3 yu3 ， shu4 yan4 shi1 xie2 hui1 。
+- yi2 an4 jiao1 lu2 he2 chu3 cun1 ， xiao3 zhou1 dang4 yang4 ri4 huang2 hun1 。
+- qi1 ya1 san4 luan4 feng1 jing1 liu3 ， yu2 huo3 qing1 ying2 ren2 yi3 men2 。
 
 ## 注释
 

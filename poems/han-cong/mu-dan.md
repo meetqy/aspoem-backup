@@ -9,22 +9,22 @@ authorSlug: han-cong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 殘花何處藏，盡在牡丹房。
-- 嫩蘂包金粉，重葩結繡囊。
-- 雲凝巫峽夢，簾閉景陽粧。
-- 應恨年華促，遲遲待日長。
+- 桃時杏日不爭濃，葉帳陰成始放紅。
+- 曉豔遠分金掌露，暮香深惹玉堂風。
+- 名移蘭杜千年後，貴擅笙歌百醉中。
+- 如夢如仙忽零落，暮霞何處綠屏空。
 
 ## 拼音
 
-- can2 hua1 he2 chu3 cang2 ， jin4 zai4 mu3 dan1 fang2 。
-- nen4 rui3 bao1 jin1 fen3 ， zhong4 pa1 jie2 xiu4 nang2 。
-- yun2 ning2 wu1 xia2 meng4 ， lian2 bi4 jing3 yang2 zhuang1 。
-- ying1 hen4 nian2 hua2 cu4 ， chi2 chi2 dai4 ri4 chang2 。
+- tao2 shi2 xing4 ri4 bu4 zheng1 nong2 ， ye4 zhang4 yin1 cheng2 shi3 fang4 hong2 。
+- xiao3 yan4 yuan3 fen1 jin1 zhang3 lu4 ， mu4 xiang1 shen1 re3 yu4 tang2 feng1 。
+- ming2 yi2 lan2 du4 qian1 nian2 hou4 ， gui4 shan4 sheng1 ge1 bai3 zui4 zhong1 。
+- ru2 meng4 ru2 xian1 hu1 ling2 luo4 ， mu4 xia2 he2 chu3 lü4 ping2 kong1 。
 
 ## 注释
 

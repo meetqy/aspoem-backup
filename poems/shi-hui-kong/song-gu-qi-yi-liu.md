@@ -6,19 +6,21 @@ titleSlug: song-gu-qi-yi-liu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 靈雲失腳，玄沙落塹，三十年冰河發焰。
+- 西來密意庭前柏，有語無語徒分拆。
+- 若是道人但舉來，只麽守株無了日。
 
 ## 拼音
 
-- ling2 yun2 shi1 jiao3 ， xuan2 sha1 luo4 qian4 ， san1 shi2 nian2 bing1 he2 fa1 yan4 。
+- xi1 lai2 mi4 yi4 ting2 qian2 bai3 ， you3 yu3 wu2 yu3 tu2 fen1 chai1 。
+- ruo4 shi4 dao4 ren2 dan4 ju3 lai2 ， zhi1 mo2 shou3 zhu1 wu2 le0 ri4 。
 
 ## 注释
 

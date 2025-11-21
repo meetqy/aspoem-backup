@@ -6,10 +6,10 @@ titleSlug: guo-qing-si
 author: 史藴
 authorPinyin: shi3 yun4
 authorSlug: shi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: li-liang-xiang-qing-de-bei-liang-xiang-bai-yao-si-shi-sun-ye-tian-bao
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

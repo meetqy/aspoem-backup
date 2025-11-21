@@ -6,25 +6,21 @@ titleSlug: tian-she-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨逗餘寒曉露濃，絮衣著破索重縫。
-- 清狂昔作戴花監，衰病今爲賣菜傭。
-- 負耒耦耕沮桀溺，操盂三祝棄句龍。
-- 暮年飽識西疇事，不問家丘問老農。
+- 源裏人家太古時，爭爲雞黍款漁師。
+- 下山莫向城中說，第一休教太守知。
 
 ## 拼音
 
-- yu3 dou4 yu2 han2 xiao3 lu4 nong2 ， xu4 yi1 zhu4 po4 suo3 zhong4 feng2 。
-- qing1 kuang2 xi1 zuo4 dai4 hua1 jian1 ， shuai1 bing4 jin1 wei2 mai4 cai4 yong1 。
-- fu4 lei3 ou3 geng1 ju3 jie2 ni4 ， cao1 yu2 san1 zhu4 qi4 ju4 long2 。
-- mu4 nian2 bao3 shi2 xi1 chou2 shi4 ， bu2 wen4 jia1 qiu1 wen4 lao3 nong2 。
+- yuan2 li3 ren2 jia1 tai4 gu3 shi2 ， zheng1 wei2 ji1 shu3 kuan3 yu2 shi1 。
+- xia4 shan1 mo4 xiang4 cheng2 zhong1 shuo1 ， di4 yi1 xiu1 jiao4 tai4 shou3 zhi1 。
 
 ## 注释
 

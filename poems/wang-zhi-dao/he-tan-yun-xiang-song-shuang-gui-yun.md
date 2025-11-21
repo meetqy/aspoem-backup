@@ -6,10 +6,10 @@ titleSlug: he-tan-yun-xiang-song-shuang-gui-yun
 author: 王志道
 authorPinyin: wang2 zhi4 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

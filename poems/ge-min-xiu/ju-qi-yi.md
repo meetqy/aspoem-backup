@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 葛敏修
 authorPinyin: ge3 min3 xiu1
 authorSlug: ge-min-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

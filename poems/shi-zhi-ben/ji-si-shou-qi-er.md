@@ -6,10 +6,10 @@ titleSlug: ji-si-shou-qi-er
 author: 釋智本
 authorPinyin: shi4 zhi4 ben3
 authorSlug: shi-zhi-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

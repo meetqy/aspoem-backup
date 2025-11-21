@@ -6,9 +6,9 @@ titleSlug: ju
 author: 周洙
 authorPinyin: zhou1 zhu1
 authorSlug: zhou-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

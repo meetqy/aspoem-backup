@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-hu-qiu-liu-jue-ju-zhi-shuang-ge
-title: 虎丘六絕句・致爽閣
-titlePinyin: hu3 qiu1 liu4 jue2 ju4・zhi4 shuang3 ge2
+title: 虎丘六絕句 致爽閣
+titlePinyin: hu3 qiu1 liu4 jue2 ju4   zhi4 shuang3 ge2
 titleSlug: hu-qiu-liu-jue-ju-zhi-shuang-ge
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

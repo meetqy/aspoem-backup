@@ -6,10 +6,10 @@ titleSlug: ju
 author: 許民表
 authorPinyin: xu1 min2 biao3
 authorSlug: xu-min-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

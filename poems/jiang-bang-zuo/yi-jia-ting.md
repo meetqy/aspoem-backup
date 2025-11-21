@@ -6,10 +6,10 @@ titleSlug: yi-jia-ting
 author: 江邦佐
 authorPinyin: jiang1 bang1 zuo3
 authorSlug: jiang-bang-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

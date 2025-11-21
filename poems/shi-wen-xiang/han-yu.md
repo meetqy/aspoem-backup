@@ -6,27 +6,25 @@ titleSlug: han-yu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 賊臣弄權罔明主，億萬蒼生受辛苦。
-- 大家巨室盡逃亡，賸積黄金向郿鄔。
-- 弘羊未烹旱如許，弘羊將烹天乃雨。
-- 吾言此雨是雨穀，點點活人勝珠玉。
-- 聖恩新放限田租，從此農家飽飦粥。
+- 驟雨幡然下，風雷駕疾威。
+- 烏兼巢穴墮，龍挾水雲飛。
+- 物象回生意，神功解旱圍。
+- 田間喜相語，點點勝珠璣。
 
 ## 拼音
 
-- zei2 chen2 nong4 quan2 wang3 ming2 zhu3 ， yi4 wan4 cang1 sheng1 shou4 xin1 ku3 。
-- da4 jia1 ju4 shi4 jin4 tao2 wang2 ， sheng4 ji1 huang2 jin1 xiang4 mei2 wu1 。
-- hong2 yang2 wei4 peng1 han4 ru2 xu1 ， hong2 yang2 jiang1 peng1 tian1 nai3 yu3 。
-- wu2 yan2 ci3 yu3 shi4 yu3 gu3 ， dian3 dian3 huo2 ren2 sheng4 zhu1 yu4 。
-- sheng4 en1 xin1 fang4 xian4 tian2 zu1 ， cong2 ci3 nong2 jia1 bao3 zhan1 zhou1 。
+- zhou4 yu3 fan1 ran2 xia4 ， feng1 lei2 jia4 ji2 wei1 。
+- wu1 jian1 chao2 xue2 duo4 ， long2 xie2 shui3 yun2 fei1 。
+- wu4 xiang4 hui2 sheng1 yi4 ， shen2 gong1 jie3 han4 wei2 。
+- tian2 jian4 xi3 xiang1 yu3 ， dian3 dian3 sheng4 zhu1 ji1 。
 
 ## 注释
 

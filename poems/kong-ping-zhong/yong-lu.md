@@ -1,38 +1,30 @@
 ---
 id: kong-ping-zhong-yong-lu
-title: 詠櫓
-titlePinyin: yong3 lu3
+title: 詠蘆
+titlePinyin: yong3 lu2
 titleSlug: yong-lu
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 以小能行大，天機寄物形。
-- 沿流最有助，深壑屢嘗經。
-- 迅速功無比，謳鴉韵可聽。
-- 江空插羽翼，水府散雷霆。
-- 駕浪來湘浦，摇風過洞庭。
-- 侵凌秋島霧，破碎暮灣星。
-- 雁鶩驚羣起，蛟龍睡一醒。
-- 浩然乘此興，東去絕滄溟。
+- 地近長蘆蘆已深，舟行兩岸蔚森森。
+- 能藏蛇虺連山澗，强庇蛙蟆接水陰。
+- 疑汝此中無勁節，使吾終日隔遙岑。
+- 春風暑雨多情思，霜霰崢嶸想不禁。
 
 ## 拼音
 
-- yi3 xiao3 neng2 xing2 da4 ， tian1 ji1 ji4 wu4 xing2 。
-- yan2 liu2 zui4 you3 zhu4 ， shen1 he4 lü3 chang2 jing1 。
-- xun4 su4 gong1 wu2 bi3 ， ou1 ya1 yun4 ke3 ting1 。
-- jiang1 kong1 cha1 yu3 yi4 ， shui3 fu3 san4 lei2 ting2 。
-- jia4 lang4 lai2 xiang1 pu3 ， yao2 feng1 guo4 dong4 ting2 。
-- qin1 ling2 qiu1 dao3 wu4 ， po4 sui4 mu4 wan1 xing1 。
-- yan4 wu4 jing1 qun2 qi3 ， jiao1 long2 shui4 yi4 xing3 。
-- hao4 ran2 cheng2 ci3 xing1 ， dong1 qu4 jue2 cang1 ming2 。
+- di4 jin4 chang2 lu2 lu2 yi3 shen1 ， zhou1 xing2 liang3 an4 wei4 sen1 sen1 。
+- neng2 cang2 she2 hui1 lian2 shan1 jian4 ， qiang2 bi4 wa1 ma0 jie1 shui3 yin1 。
+- yi2 ru3 ci3 zhong1 wu2 jin4 jie2 ， shi3 wu2 zhong1 ri4 ge2 yao2 cen2 。
+- chun1 feng1 shu3 yu3 duo1 qing2 si1 ， shuang1 xian4 zheng1 rong2 xiang3 bu4 jin1 。
 
 ## 注释
 

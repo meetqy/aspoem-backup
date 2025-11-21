@@ -6,41 +6,43 @@ titleSlug: qie-bo-ming
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 妾居西北方，容貌亞冰雪。
-- 妾長嗟無媒，孤影對明月。
-- 頭綰墮馬髻，脚襯凌波襪。
-- 釵梁溜金鳳，舞带蒙錦纈。
-- 頸瑳素玉圓，胸瑩新酥滑。
-- 翠靨中蛾眉，瑶花嚲鴉髮。
-- 腰裊柳絲輕，臉潤桃花發。
-- 出郊乘紫騮，蔽目舉青繖。
-- 不敢一回首，煙際暗愁結。
-- 誰家白面郎，志氣何飄揚。
-- 使妾一過眼，吾肉燔如湯。
-- 自惟父母嚴，折花回倚牆。
+- 長天雲茫茫，流水去不返。
+- 寂寥不可呼，死者日已遠。
+- 舊事常在心，思之輒淚眼。
+- 修晝勞悵想，寒夜百展轉。
+- 夢裏時相逢，醒後細思忖。
+- 門前青衿子，相顧吾安忍。
+- 羅衣疊空箱，久矣廢檀板。
+- 月明燕子樓，風清荷花館。
+- 置之勿復道，此念增繾綣。
+- 自憐妾薄命，鴛衾爲誰煖。
+- 冉冉冥中魂，尚或暗相管。
+- 鄰家琴聲悲，精爽竟難挽。
+- 琴調何凄凉，聞是廣陵散。
 
 ## 拼音
 
-- qie4 ju1 xi1 bei3 fang1 ， rong2 mao4 ya1 bing1 xue3 。
-- qie4 chang2 jie1 wu2 mei2 ， gu1 ying3 dui4 ming2 yue4 。
-- tou2 wan3 duo4 ma3 ji4 ， jiao3 chen4 ling2 bo1 wa4 。
-- chai1 liang2 liu1 jin1 feng4 ， wu3 dai4 meng2 jin3 xie4 。
-- jing3 cuo1 su4 yu4 yuan2 ， xiong1 ying2 xin1 su1 hua2 。
-- cui4 ye4 zhong1 e2 mei2 ， yao2 hua1 duo3 ya1 fa4 。
-- yao1 niao3 liu3 si1 qing1 ， lian3 run4 tao2 hua1 fa1 。
-- chu1 jiao1 cheng2 zi3 liu2 ， bi4 mu4 ju3 qing1 san3 。
-- bu4 gan3 yi4 hui2 shou3 ， yan1 ji4 an4 chou2 jie2 。
-- shui2 jia1 bai2 mian4 lang2 ， zhi4 qi4 he2 piao1 yang2 。
-- shi3 qie4 yi2 guo4 yan3 ， wu2 rou4 fan2 ru2 tang1 。
-- zi4 wei2 fu4 mu3 yan2 ， zhe2 hua1 hui2 yi3 qiang2 。
+- chang2 tian1 yun2 mang2 mang2 ， liu2 shui3 qu4 bu4 fan3 。
+- ji4 liao2 bu4 ke3 hu1 ， si3 zhe3 ri4 yi3 yuan3 。
+- jiu4 shi4 chang2 zai4 xin1 ， si1 zhi1 zhe2 lei4 yan3 。
+- xiu1 zhou4 lao2 chang4 xiang3 ， han2 ye4 bai3 zhan3 zhuan3 。
+- meng4 li3 shi2 xiang1 feng2 ， xing3 hou4 xi4 si1 cun3 。
+- men2 qian2 qing1 jin1 zi3 ， xiang1 gu4 wu2 an1 ren3 。
+- luo2 yi1 die2 kong1 xiang1 ， jiu3 yi3 fei4 tan2 ban3 。
+- yue4 ming2 yan4 zi0 lou2 ， feng1 qing1 he2 hua1 guan3 。
+- zhi4 zhi1 wu4 fu4 dao4 ， ci3 nian4 zeng1 qian3 quan3 。
+- zi4 lian2 qie4 bo2 ming4 ， yuan1 qin1 wei2 shui2 xuan1 。
+- ran3 ran3 ming2 zhong1 hun2 ， shang4 huo4 an4 xiang1 guan3 。
+- lin2 jia1 qin2 sheng1 bei1 ， jing1 shuang3 jing4 nan2 wan3 。
+- qin2 diao4 he2 qi1 liang2 ， wen2 shi4 guang3 ling2 san4 。
 
 ## 注释
 

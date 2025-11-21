@@ -6,25 +6,21 @@ titleSlug: dui-hua
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花枝照酒巵，把酒囑花枝。
-- 酒盡錢能買，花殘藥不醫。
-- 人無先酩酊，花莫便離披。
-- 慢慢對花飲，況春能幾時。
+- 新花色鮮艷，故花色憔悴。
+- 明朝花更開，新花何有異。
 
 ## 拼音
 
-- hua1 zhi1 zhao4 jiu3 zhi1 ， ba3 jiu3 zhu3 hua1 zhi1 。
-- jiu3 jin4 qian2 neng2 mai3 ， hua1 can2 yao4 bu4 yi1 。
-- ren2 wu2 xian1 ming3 ding3 ， hua1 mo4 bian4 li2 pi1 。
-- man4 man4 dui4 hua1 yin3 ， kuang4 chun1 neng2 ji1 shi2 。
+- xin1 hua1 se4 xian1 yan4 ， gu4 hua1 se4 qiao2 cui4 。
+- ming2 chao2 hua1 geng4 kai1 ， xin1 hua1 he2 you3 yi4 。
 
 ## 注释
 

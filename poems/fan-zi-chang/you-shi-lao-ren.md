@@ -6,10 +6,10 @@ titleSlug: you-shi-lao-ren
 author: 范子長
 authorPinyin: fan4 zi3 chang2
 authorSlug: fan-zi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: feng-jia-jun-zi-sheng-ye-qian-ju-shu-tang-jiu-yu-zha-qing-dao-zhong-k
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

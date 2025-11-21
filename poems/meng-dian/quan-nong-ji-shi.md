@@ -6,10 +6,10 @@ titleSlug: quan-nong-ji-shi
 author: 孟點
 authorPinyin: meng4 dian3
 authorSlug: meng-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

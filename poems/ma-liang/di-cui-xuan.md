@@ -6,10 +6,10 @@ titleSlug: di-cui-xuan
 author: 馬亮
 authorPinyin: ma3 liang4
 authorSlug: ma-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

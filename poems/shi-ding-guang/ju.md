@@ -6,9 +6,9 @@ titleSlug: ju
 author: 釋定光
 authorPinyin: shi4 ding4 guang1
 authorSlug: shi-ding-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

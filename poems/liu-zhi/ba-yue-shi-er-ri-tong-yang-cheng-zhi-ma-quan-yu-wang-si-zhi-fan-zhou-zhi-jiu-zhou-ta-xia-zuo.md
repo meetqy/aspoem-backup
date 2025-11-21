@@ -6,10 +6,10 @@ titleSlug: ba-yue-shi-er-ri-tong-yang-cheng-zhi-ma-quan-yu-wang-si-zhi-fan-zhou-
 author: 劉摯
 authorPinyin: liu2 zhi4
 authorSlug: liu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

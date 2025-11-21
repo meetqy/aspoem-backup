@@ -6,10 +6,10 @@ titleSlug: wan-cai-xi-shan-xian-sheng
 author: 李閎祖
 authorPinyin: li3 hong2 zu3
 authorSlug: li-hong-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

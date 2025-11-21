@@ -6,10 +6,10 @@ titleSlug: gong-ci-qi-jiu-liu
 author: 張公庠
 authorPinyin: zhang1 gong1 xiang2
 authorSlug: zhang-gong-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

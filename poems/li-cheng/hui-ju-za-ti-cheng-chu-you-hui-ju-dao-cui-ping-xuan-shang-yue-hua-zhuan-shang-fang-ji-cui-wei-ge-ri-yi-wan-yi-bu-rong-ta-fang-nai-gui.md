@@ -6,10 +6,10 @@ titleSlug: hui-ju-za-ti-cheng-chu-you-hui-ju-dao-cui-ping-xuan-shang-yue-hua-zhu
 author: 李乘
 authorPinyin: li3 cheng2
 authorSlug: li-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

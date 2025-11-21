@@ -14,17 +14,25 @@ tags: []
 
 ## 正文
 
-- 水共逍遥雲共孤，混時言笑只佯愚。
-- 經年但醉宜城酒，千里惟擔華嶽圖。
-- 尋野鶴來空碧洞，覓琴僧去渡重湖。
+- 水共逍遙雲共孤，混時言笑只佯愚。
+- 經年但醉宜城酒，千里唯擔《華嶽圖》。
+- 尋野鶴來空碧洞，覔琴僧去渡重湖。
 - 人間再見知何日，乞取先生石轆轤。
+- （見方回《瀛奎髓》卷四十八《仙逸類》。
+- ）（按《瀛奎律髓》原注云：「九齡，乾德五年進士第三人。
+- 」與《全唐詩》小傳作乾德二年者異。
+- ）。
 
 ## 拼音
 
 - shui3 gong4 xiao1 yao2 yun2 gong4 gu1 ， hun4 shi2 yan2 xiao4 zhi1 yang2 yu2 。
-- jing1 nian2 dan4 zui4 yi2 cheng2 jiu3 ， qian1 li3 wei2 dan1 hua2 yue4 tu2 。
+- jing1 nian2 dan4 zui4 yi2 cheng2 jiu3 ， qian1 li3 wei2 dan1 《 hua2 yue4 tu2 》。
 - xun2 ye3 he4 lai2 kong1 bi4 dong4 ， mi4 qin2 seng1 qu4 du4 zhong4 hu2 。
 - ren2 jian4 zai4 jian4 zhi1 he2 ri4 ， qi3 qu3 xian1 sheng0 shi2 lu4 lu2 。
+- （ jian4 fang1 hui2 《 ying2 kui2 sui3 》 juan4 si4 shi2 ba1 《 xian1 yi4 lei4 》。
+- ）（ an4 《 ying2 kui2 lü4 sui3 》 yuan2 zhu4 yun2 ：「 jiu3 ling2 ， qian2 de2 wu3 nian2 jin4 shi4 di4 san1 ren2 。
+- 」 yu3 《 quan2 tang2 shi1 》 xiao3 chuan2 zuo4 qian2 de2 er4 nian2 zhe3 yi4 。
+- ）。
 
 ## 注释
 

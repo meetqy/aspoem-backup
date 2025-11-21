@@ -6,10 +6,10 @@ titleSlug: ti-sheng-ye-si
 author: 釋文政
 authorPinyin: shi4 wen2 zheng4
 authorSlug: shi-wen-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yan-lai-hong
 author: 孫吳會
 authorPinyin: sun1 wu2 hui4
 authorSlug: sun-wu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

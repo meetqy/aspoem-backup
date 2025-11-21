@@ -6,10 +6,10 @@ titleSlug: yue-yang-lou-guan-dong-ting
 author: 石賡
 authorPinyin: shi2 geng1
 authorSlug: shi-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

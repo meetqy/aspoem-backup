@@ -6,10 +6,10 @@ titleSlug: shao-xi-geng-xu-zhong-qiu-hou-san-ri-bai-zhang-yu-hu-mu
 author: 操某
 authorPinyin: cao1 mou3
 authorSlug: cao-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bai-lu
 author: 趙希崱
 authorPinyin: zhao4 xi1 ze4
 authorSlug: zhao-xi-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

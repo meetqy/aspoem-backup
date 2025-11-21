@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 九天雲淨鶴飛輕，銜簡翩翩別太清。
-- 身外紅塵隨意換，爐中白石立時成。
-- 九苞鳳向空中舞，五色雲從足下生。
-- 回首便歸天上去，願將甘雨救焦氓。
+- 欲陪仙侶得身輕，飛過蓬萊徹上清。
+- 朱頂鶴來雲外接，紫鱗魚向海中迎。
+- 姮娥月桂花先吐，王母仙桃子漸成。
+- 下瞰日輪天欲曉，定知人世久長生。
 
 ## 拼音
 
-- jiu3 tian1 yun2 jing4 he4 fei1 qing1 ， xian2 jian3 pian1 pian1 bie2 tai4 qing1 。
-- shen1 wai4 hong2 chen2 sui2 yi4 huan4 ， lu2 zhong1 bai2 shi2 li4 shi2 cheng2 。
-- jiu3 bao1 feng4 xiang4 kong1 zhong1 wu3 ， wu3 se4 yun2 cong2 zu2 xia4 sheng1 。
-- hui2 shou3 bian4 gui1 tian1 shang4 qu4 ， yuan4 jiang1 gan1 yu3 jiu4 jiao1 mang2 。
+- yu4 pei2 xian1 lü3 de2 shen1 qing1 ， fei1 guo4 peng2 lai2 che4 shang4 qing1 。
+- zhu1 ding3 he4 lai2 yun2 wai4 jie1 ， zi3 lin2 yu2 xiang4 hai3 zhong1 ying2 。
+- heng2 e2 yue4 gui4 hua1 xian1 tu3 ， wang2 mu3 xian1 tao2 zi3 jian4 cheng2 。
+- xia4 kan4 ri4 lun2 tian1 yu4 xiao3 ， ding4 zhi1 ren2 shi4 jiu3 chang2 sheng1 。
 
 ## 注释
 

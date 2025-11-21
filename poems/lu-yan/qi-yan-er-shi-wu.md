@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 欲種長生不死根，再營陰魄及陽魂。
-- 先教玄母歸離戶，後遣空王鎮坎門。
-- 虎到甲邊風浩浩，龍居庚內水溫溫。
-- 迷途爭與輕輕泄，此理須憑達者論。
+- 華陽山裏多芝田，華陽山叟復延年。
+- 青松巖畔攀高幹，白雲堆裏飲飛泉。
+- 不寒不熱神蕩蕩，東來西去氣綿綿。
+- 三千功滿好歸去，休與時人說洞天。
 
 ## 拼音
 
-- yu4 zhong3 chang2 sheng1 bu4 si3 gen1 ， zai4 ying2 yin1 po4 ji2 yang2 hun2 。
-- xian1 jiao4 xuan2 mu3 gui1 li2 hu4 ， hou4 qian3 kong1 wang2 zhen4 kan3 men2 。
-- hu3 dao4 jia3 bian1 feng1 hao4 hao4 ， long2 ju1 geng1 nei4 shui3 wen1 wen1 。
-- mi2 tu2 zheng1 yu3 qing1 qing1 xie4 ， ci3 li3 xu1 ping2 da2 zhe3 lun4 。
+- hua2 yang2 shan1 li3 duo1 zhi1 tian2 ， hua2 yang2 shan1 sou3 fu4 yan2 nian2 。
+- qing1 song1 yan2 pan4 pan1 gao1 gan4 ， bai2 yun2 dui1 li3 yin3 fei1 quan2 。
+- bu4 han2 bu2 re4 shen2 dang4 dang4 ， dong1 lai2 xi1 qu4 qi4 mian2 mian2 。
+- san1 qian1 gong1 man3 hao3 gui1 qu4 ， xiu1 yu3 shi2 ren2 shuo1 dong4 tian1 。
 
 ## 注释
 

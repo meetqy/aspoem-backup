@@ -6,10 +6,10 @@ titleSlug: yong-gong-cheng-yun-fu-wai-jiu-duan-xiang-weng
 author: 耿鎡
 authorPinyin: geng3 zi1
 authorSlug: geng-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ju-qi-jiu
 author: 卞震
 authorPinyin: bian4 zhen4
 authorSlug: bian-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

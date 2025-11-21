@@ -6,10 +6,10 @@ titleSlug: qiu-yu-wu-zuo-wang-yuan-qing-xie-sun-ji-fu-ju-hua-chang-he-jian-guo-y
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

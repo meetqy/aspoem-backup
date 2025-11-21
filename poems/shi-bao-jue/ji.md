@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋寶覺
 authorPinyin: shi4 bao3 jue2
 authorSlug: shi-bao-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

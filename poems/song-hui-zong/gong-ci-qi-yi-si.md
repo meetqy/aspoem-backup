@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-si
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 拂隄絲柳弄春柔，盈沼沉波瑩鴨頭。
-- 錦繡成叢飛畫檝，輕舠兩兩翼龍舟。
+- 蟾光秋半倍嬋娟，河漢潛微瑩碧天。
+- 樓上美人貪醉賞，曉鐘聲斷遂經年。
 
 ## 拼音
 
-- fu2 di1 si1 liu3 nong4 chun1 rou2 ， ying2 zhao3 chen2 bo1 ying2 ya1 tou2 。
-- jin3 xiu4 cheng2 cong2 fei1 hua4 ji2 ， qing1 dao1 liang3 liang3 yi4 long2 zhou1 。
+- chan2 guang1 qiu1 ban4 bei4 chan2 juan1 ， he2 han4 qian2 wei1 ying2 bi4 tian1 。
+- lou2 shang4 mei3 ren2 tan1 zui4 shang3 ， xiao3 zhong1 sheng1 duan4 sui4 jing1 nian2 。
 
 ## 注释
 

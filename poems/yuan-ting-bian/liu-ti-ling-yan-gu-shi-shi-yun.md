@@ -6,10 +6,10 @@ titleSlug: liu-ti-ling-yan-gu-shi-shi-yun
 author: 冤亭卞
 authorPinyin: yuan1 ting2 bian4
 authorSlug: yuan-ting-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

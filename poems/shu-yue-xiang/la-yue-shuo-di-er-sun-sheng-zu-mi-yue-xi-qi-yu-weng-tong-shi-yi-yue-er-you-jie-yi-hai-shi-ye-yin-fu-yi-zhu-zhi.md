@@ -6,10 +6,10 @@ titleSlug: la-yue-shuo-di-er-sun-sheng-zu-mi-yue-xi-qi-yu-weng-tong-shi-yi-yue-e
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

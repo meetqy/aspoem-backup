@@ -6,10 +6,10 @@ titleSlug: da-ning-si-guo-jiu-shu-she
 author: 吳時顯
 authorPinyin: wu2 shi2 xian3
 authorSlug: wu-shi-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

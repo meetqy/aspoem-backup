@@ -6,25 +6,29 @@ titleSlug: yuan-ri
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鳳曆回龍紀，羲和御物新。
-- 崎嶇萬里道，牢落五年春。
-- 羈客聞哀雁，傷懷念昔人。
-- 米鹽能幾許，還自不由身。
+- 星回斗直寅，夏臘變王春。
+- 否泰反成卦，乾坤老逼人。
+- 元正長日月，大化少逡巡。
+- 世事初無始，天時自一新。
+- 祇愁梅片片，不見草欣欣。
+- 善頌聞椒酒，蒼天拱北辰。
 
 ## 拼音
 
-- feng4 li4 hui2 long2 ji4 ， xi1 he2 yu4 wu4 xin1 。
-- qi2 qu1 wan4 li3 dao4 ， lao2 luo4 wu3 nian2 chun1 。
-- ji1 ke4 wen2 ai1 yan4 ， shang1 huai2 nian4 xi1 ren2 。
-- mi3 yan2 neng2 ji1 xu1 ， huan2 zi4 bu4 you2 shen1 。
+- xing1 hui2 dou4 zhi2 yin2 ， xia4 la4 bian4 wang2 chun1 。
+- pi3 tai4 fan3 cheng2 gua4 ， qian2 kun1 lao3 bi1 ren2 。
+- yuan2 zheng4 chang2 ri4 yue4 ， da4 hua4 shao3 qun1 xun2 。
+- shi4 shi4 chu1 wu2 shi3 ， tian1 shi2 zi4 yi4 xin1 。
+- qi2 chou2 mei2 pian4 pian4 ， bu2 jian4 cao3 xin1 xin1 。
+- shan4 song4 wen2 jiao1 jiu3 ， cang1 tian1 gong3 bei3 chen2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-er-lu-ci
 author: 陳琰
 authorPinyin: chen2 yan3
 authorSlug: chen-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-ti-wu-yi
 author: 聶鐵峰
 authorPinyin: nie4 tie3 feng1
 authorSlug: nie-tie-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

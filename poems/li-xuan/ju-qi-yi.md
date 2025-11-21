@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 李絢
 authorPinyin: li3 xuan4
 authorSlug: li-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ba-liu-min-shu-hua-yang-cheng-zhai-xian-sheng-tan-mei-tu
 author: 謝子强
 authorPinyin: xie4 zi3 qiang2
 authorSlug: xie-zi-qiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: jiao-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小雨東郊氣象新，蕭蕭清吹爽衣巾。
-- 並谿密竹巧藏寺，夹道新麻高沒人。
-- 老厭簿書愁欲睡，病疏杯酌渇生塵。
-- 桐君山路無多遠，元自知津莫問津。
+- 凄風吹雨過江城，緩策羸驂並水行。
+- 古路初驚秋葉墮，荒郊已放候蟲鳴。
+- 壯心耿耿人誰識，往事悠悠恨未平。
+- 斜日半竿羌笛怨，西陵寂寞又潮生。
 
 ## 拼音
 
-- xiao3 yu3 dong1 jiao1 qi4 xiang4 xin1 ， xiao1 xiao1 qing1 chui1 shuang3 yi1 jin1 。
-- bing4 xi1 mi4 zhu2 qiao3 cang2 si4 ， jia1 dao4 xin1 ma2 gao1 mei2 ren2 。
-- lao3 yan4 bo2 shu1 chou2 yu4 shui4 ， bing4 shu1 bei1 zhuo2 ke3 sheng1 chen2 。
-- tong2 jun1 shan1 lu4 wu2 duo1 yuan3 ， yuan2 zi4 zhi1 jin1 mo4 wen4 jin1 。
+- qi1 feng1 chui1 yu3 guo4 jiang1 cheng2 ， huan3 ce4 lei2 can1 bing4 shui3 xing2 。
+- gu3 lu4 chu1 jing1 qiu1 ye4 duo4 ， huang1 jiao1 yi3 fang4 hou4 chong2 ming2 。
+- zhuang4 xin1 geng3 geng3 ren2 shui2 shi2 ， wang3 shi4 you1 you1 hen4 wei4 ping2 。
+- xie2 ri4 ban4 gan1 qiang1 di2 yuan4 ， xi1 ling2 ji4 mo4 you4 chao2 sheng1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: peng-song-xi-bo-lai-cheng-jue-ju-yi-zi-xia-weng-jian-hao-yin-zi-hao-w
 author: 趙汝騰
 authorPinyin: zhao4 ru3 teng2
 authorSlug: zhao-ru-teng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

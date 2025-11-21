@@ -6,10 +6,10 @@ titleSlug: mu-xi-shang-ren-wei-zuo-xi-mo-yin-fu-er-shou-yuan
 author: 徐集孫
 authorPinyin: xu2 ji2 sun1
 authorSlug: xu-ji-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

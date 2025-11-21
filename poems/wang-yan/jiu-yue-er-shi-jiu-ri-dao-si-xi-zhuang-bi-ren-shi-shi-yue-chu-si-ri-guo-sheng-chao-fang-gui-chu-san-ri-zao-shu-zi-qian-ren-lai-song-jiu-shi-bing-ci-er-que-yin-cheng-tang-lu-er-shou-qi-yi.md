@@ -6,10 +6,10 @@ titleSlug: jiu-yue-er-shi-jiu-ri-dao-si-xi-zhuang-bi-ren-shi-shi-yue-chu-si-ri-g
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

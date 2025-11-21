@@ -6,10 +6,10 @@ titleSlug: he-yun-shi-xue-shi-huan-hua-ting
 author: 葛琳
 authorPinyin: ge3 lin2
 authorSlug: ge-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

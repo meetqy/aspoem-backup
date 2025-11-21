@@ -1,30 +1,30 @@
 ---
 id: jiao-miao-chao-hui-ge-ci-zhang-xian-ming-su-huang-tai-hou-gong-xie-tai-miao-qi-yi
-title: 章獻明肅皇太后恭謝太廟  其一
-titlePinyin: zhang1 xian4 ming2 su4 huang2 tai4 hou4 gong1 xie4 tai4 miao4     qi2 yi1
+title: 章獻明肅皇太后恭謝太廟  其一○
+titlePinyin: zhang1 xian4 ming2 su4 huang2 tai4 hou4 gong1 xie4 tai4 miao4     qi2 yi1 ○
 titleSlug: zhang-xian-ming-su-huang-tai-hou-gong-xie-tai-miao-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 於穆宋廟，肇允基扃。
-- 文母來獻，國祚咸寧。
-- 永言昭格，式薦惟馨。
-- 亦既降止，聿柄神靈。
+- 赫赫皇祖，萬邦之君。
+- 功崇偃革，德盛興文。
+- 聖謨宏達，至教氤氳。
+- 子孫百世，祗薦苾芬。
 
 ## 拼音
 
-- wu1 mu4 song4 miao4 ， zhao4 yun3 ji1 jiong1 。
-- wen2 mu3 lai2 xian4 ， guo2 zuo4 xian2 ning2 。
-- yong3 yan2 zhao1 ge2 ， shi4 jian4 wei2 xin1 。
-- yi4 ji4 jiang4 zhi3 ， yu4 bing3 shen2 ling2 。
+- he4 he4 huang2 zu3 ， wan4 bang1 zhi1 jun1 。
+- gong1 chong2 yan3 ge2 ， de2 sheng4 xing1 wen2 。
+- sheng4 mo2 hong2 da2 ， zhi4 jiao4 yin1 yun1 。
+- zi3 sun1 bai3 shi4 ， zhi1 jian4 bi4 fen1 。
 
 ## 注释
 

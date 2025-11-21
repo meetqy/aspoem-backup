@@ -6,10 +6,10 @@ titleSlug: ci-shu-ji-xie-yu-zhen-qiu-zan-man-shu-ci-yi-sai-lai-yi
 author: 釋凈如
 authorPinyin: shi4 jing4 ru2
 authorSlug: shi-jing-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

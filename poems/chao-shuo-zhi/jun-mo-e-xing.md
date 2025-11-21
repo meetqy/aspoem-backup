@@ -6,29 +6,31 @@ titleSlug: jun-mo-e-xing
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寂山城已過春，黄鸝紫椹意相親。
-- 天公奈何不肯雨，小麥含秀安得吐。
-- 聞道天公大仁聖，風伯何能回雨令。
-- 恐是風伯老兒凶，長塗未許騁羣龍。
-- 前年流草有餘胔，誰言今朝尚憂此。
-- 內降白麻出上閣，新相爲霖君莫惡。
+- 今年蠶母連萬箔，屋邊桑葉渾不着。
+- 彷徨何計救戢戢，出棄陌頭空涕泣。
+- 前日初眠不敢語，今日賤之如糞土。
+- 不容身老吐一縷，回首室中殊樂苦。
+- 何敢願天不我與，亦太無情彼蠶母。
+- 芙容錦帳醉新粧，那知有恨如許長。
+- 相公日戀北門樂，迎候馬前君莫惡。
 
 ## 拼音
 
-- ji4 ji4 shan1 cheng2 yi3 guo4 chun1 ， huang2 li2 zi3 shen4 yi4 xiang1 qin1 。
-- tian1 gong1 nai4 he2 bu4 ken3 yu3 ， xiao3 mai4 han2 xiu4 an1 de2 tu3 。
-- wen2 dao4 tian1 gong1 da4 ren2 sheng4 ， feng1 bo2 he2 neng2 hui2 yu3 ling4 。
-- kong3 shi4 feng1 bo2 lao3 er2 xiong1 ， chang2 tu2 wei4 xu1 cheng3 qun2 long2 。
-- qian2 nian2 liu2 cao3 you3 yu2 zi4 ， shui2 yan2 jin1 zhao1 shang4 you1 ci3 。
-- nei4 jiang4 bai2 ma2 chu1 shang4 ge2 ， xin1 xiang1 wei2 lin2 jun1 mo4 e4 。
+- jin1 nian2 can2 mu3 lian2 wan4 bo2 ， wu1 bian1 sang1 ye4 hun2 bu4 zhao2 。
+- pang2 huang2 he2 ji4 jiu4 ji2 ji2 ， chu1 qi4 mo4 tou2 kong1 ti4 qi4 。
+- qian2 ri4 chu1 mian2 bu4 gan3 yu3 ， jin1 ri4 jian4 zhi1 ru2 fen4 tu3 。
+- bu4 rong2 shen1 lao3 tu3 yi4 lü3 ， hui2 shou3 shi4 zhong1 shu1 le4 ku3 。
+- he2 gan3 yuan4 tian1 bu4 wo3 yu3 ， yi4 tai4 wu2 qing2 bi3 can2 mu3 。
+- fu2 rong2 jin3 zhang4 zui4 xin1 zhuang1 ， na4 zhi1 you3 hen4 ru2 xu1 chang2 。
+- xiang4 gong0 ri4 lian4 bei3 men2 le4 ， ying2 hou4 ma3 qian2 jun1 mo4 e4 。
 
 ## 注释
 

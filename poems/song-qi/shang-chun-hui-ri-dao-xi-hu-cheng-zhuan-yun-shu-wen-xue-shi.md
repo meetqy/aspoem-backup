@@ -6,10 +6,10 @@ titleSlug: shang-chun-hui-ri-dao-xi-hu-cheng-zhuan-yun-shu-wen-xue-shi
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

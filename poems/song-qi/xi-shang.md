@@ -6,29 +6,21 @@ titleSlug: xi-shang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 溪上玩秋水，使人意自清。
-- 烈烈回飈餘，鱗鱗夕浪生。
-- 有魚可垂餌，有蒲可芼羹。
-- 況值新酒熟，鮭菜辛鹹并。
-- 興來命一樽，樽至壺自傾。
-- 便值人間慮，浩然滄海情。
+- 杖策溪邊興盡歸，片雲何事逐人飛。
+- 飄然自是無心物，欲去還來上客衣。
 
 ## 拼音
 
-- xi1 shang4 wan2 qiu1 shui3 ， shi3 ren2 yi4 zi4 qing1 。
-- lie4 lie4 hui2 biao1 yu2 ， lin2 lin2 xi1 lang4 sheng1 。
-- you3 yu2 ke3 chui2 er3 ， you3 pu2 ke3 mao4 geng1 。
-- kuang4 zhi2 xin1 jiu3 shu2 ， gui1 cai4 xin1 xian2 bing4 。
-- xing1 lai2 ming4 yi4 zun1 ， zun1 zhi4 hu2 zi4 qing1 。
-- bian4 zhi2 ren2 jian4 lü4 ， hao4 ran2 cang1 hai3 qing2 。
+- zhang4 ce4 xi1 bian1 xing1 jin4 gui1 ， pian4 yun2 he2 shi4 zhu2 ren2 fei1 。
+- piao1 ran2 zi4 shi4 wu2 xin1 wu4 ， yu4 qu4 huan2 lai2 shang4 ke4 yi1 。
 
 ## 注释
 

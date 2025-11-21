@@ -6,10 +6,10 @@ titleSlug: la-mei-jin-chu-huo-wei-yao-zhong-yi-zhong-bu-jie-zi-fei-mei-lei-xi-zu
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: liu-yun-an-yi-shi
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五日留山驛，塵無一點新。
-- 瓜虀惟有醬，麴米不成春。
-- 默坐深調息，狂吟枉費神。
-- 箇中真趣在，略得自由身。
+- 孤館幽幽一境清，晝長無事亦無營。
+- 睡頻推枕仍重起，坐久抛書卻再行。
+- 静看簷頭蛛結網，細聽屋角鳥翻聲。
+- 閑邊日月元如此，須信人間有赤城。
 
 ## 拼音
 
-- wu3 ri4 liu2 shan1 yi4 ， chen2 wu2 yi4 dian3 xin1 。
-- gua1 ji1 wei2 you3 jiang4 ， qu1 mi3 bu4 cheng2 chun1 。
-- mo4 zuo4 shen1 diao4 xi1 ， kuang2 yin2 wang3 fei4 shen2 。
-- ge4 zhong1 zhen1 qu4 zai4 ， lüe4 de2 zi4 you2 shen1 。
+- gu1 guan3 you1 you1 yi2 jing4 qing1 ， zhou4 chang2 wu2 shi4 yi4 wu2 ying2 。
+- shui4 bin1 tui1 zhen3 reng2 zhong4 qi3 ， zuo4 jiu3 pao1 shu1 que4 zai4 xing2 。
+- jing4 kan4 yan2 tou2 zhu1 jie2 wang3 ， xi4 ting1 wu1 jiao3 niao3 fan1 sheng1 。
+- xian2 bian1 ri4 yue4 yuan2 ru2 ci3 ， xu1 xin4 ren2 jian4 you3 chi4 cheng2 。
 
 ## 注释
 

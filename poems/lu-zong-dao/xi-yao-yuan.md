@@ -6,10 +6,10 @@ titleSlug: xi-yao-yuan
 author: 魯宗道
 authorPinyin: lu3 zong1 dao4
 authorSlug: lu-zong-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

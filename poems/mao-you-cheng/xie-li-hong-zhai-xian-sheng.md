@@ -6,10 +6,10 @@ titleSlug: xie-li-hong-zhai-xian-sheng
 author: 毛友誠
 authorPinyin: mao2 you3 cheng2
 authorSlug: mao-you-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

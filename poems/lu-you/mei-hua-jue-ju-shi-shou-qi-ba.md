@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-ba
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 探春歲歲在天涯，醉裏題詩字半斜。
-- 今日谿頭還小飲，冷官不禁看梅花。
+- 士窮見節義，木槁自芬芳。
+- 坐回萬物春，賴此一點香。
 
 ## 拼音
 
-- tan4 chun1 sui4 sui4 zai4 tian1 ya2 ， zui4 li3 ti2 shi1 zi4 ban4 xie2 。
-- jin1 ri4 xi1 tou2 huan2 xiao3 yin3 ， leng3 guan1 bu4 jin1 kan4 mei2 hua1 。
+- shi4 qiong2 jian4 jie2 yi4 ， mu4 gao3 zi4 fen1 fang1 。
+- zuo4 hui2 wan4 wu4 chun1 ， lai4 ci3 yi4 dian3 xiang1 。
 
 ## 注释
 

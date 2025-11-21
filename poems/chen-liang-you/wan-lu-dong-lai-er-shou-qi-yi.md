@@ -6,10 +6,10 @@ titleSlug: wan-lu-dong-lai-er-shou-qi-yi
 author: 陳良祐
 authorPinyin: chen2 liang2 you4
 authorSlug: chen-liang-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -14,13 +14,13 @@ tags: []
 
 ## 正文
 
-- 天上瑶池覆五雲，玉麟金鳳好爲羣。
-- 不須更飲人間水，直是清流也汙君。
+- 天上瑤池覆五雲，玉麟金鳳好爲羣。
+- 不須更飲人間水，直是清流也汗君。
 
 ## 拼音
 
 - tian1 shang4 yao2 chi2 fu4 wu3 yun2 ， yu4 lin2 jin1 feng4 hao3 wei2 qun2 。
-- bu4 xu1 geng4 yin3 ren2 jian4 shui3 ， zhi2 shi4 qing1 liu2 ye3 wu1 jun1 。
+- bu4 xu1 geng4 yin3 ren2 jian4 shui3 ， zhi2 shi4 qing1 liu2 ye3 han4 jun1 。
 
 ## 注释
 

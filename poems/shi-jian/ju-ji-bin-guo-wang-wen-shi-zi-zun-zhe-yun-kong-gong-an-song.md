@@ -6,10 +6,10 @@ titleSlug: ju-ji-bin-guo-wang-wen-shi-zi-zun-zhe-yun-kong-gong-an-song
 author: 釋鑑
 authorPinyin: shi4 jian4
 authorSlug: shi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 永懷難自問，此夕衆愁興。
-- 曉韻侵春角，寒光隔歲燈。
-- 心燃一寸火，淚結兩行冰。
-- 煦育誠非遠，陽和又欲昇。
+- 玉漏斯須即達晨，四時吹轉任風輪。
+- 寒燈短燼方燒臘，畫角殘聲已報春。
+- 明日便爲經歲客，昨朝猶是少年人。
+- 新正定數隨年減，浮世惟應百遍新。
 
 ## 拼音
 
-- yong3 huai2 nan2 zi4 wen4 ， ci3 xi1 zhong4 chou2 xing1 。
-- xiao3 yun4 qin1 chun1 jiao3 ， han2 guang1 ge2 sui4 deng1 。
-- xin1 ran2 yi2 cun4 huo3 ， lei4 jie2 liang3 xing2 bing1 。
-- xu4 yu4 cheng2 fei1 yuan3 ， yang2 he2 you4 yu4 sheng1 。
+- yu4 lou4 si1 xu1 ji2 da2 chen2 ， si4 shi2 chui1 zhuan3 ren4 feng1 lun2 。
+- han2 deng1 duan3 jin4 fang1 shao1 la4 ， hua4 jiao3 can2 sheng1 yi3 bao4 chun1 。
+- ming2 ri4 bian4 wei2 jing1 sui4 ke4 ， zuo2 chao2 you2 shi4 shao4 nian2 ren2 。
+- xin1 zheng4 ding4 shu4 sui2 nian2 jian3 ， fu2 shi4 wei2 ying1 bai3 bian4 xin1 。
 
 ## 注释
 

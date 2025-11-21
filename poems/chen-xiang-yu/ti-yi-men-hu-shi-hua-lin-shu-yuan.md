@@ -6,10 +6,10 @@ titleSlug: ti-yi-men-hu-shi-hua-lin-shu-yuan
 author: 陳象輿
 authorPinyin: chen2 xiang4 yu2
 authorSlug: chen-xiang-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

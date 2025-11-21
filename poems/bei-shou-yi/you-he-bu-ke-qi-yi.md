@@ -6,10 +6,10 @@ titleSlug: you-he-bu-ke-qi-yi
 author: 貝守一
 authorPinyin: bei4 shou3 yi1
 authorSlug: bei-shou-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

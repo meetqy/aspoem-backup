@@ -6,25 +6,25 @@ titleSlug: zai-he-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鵠袍再著姑行法，鴈塔重來定策名。
-- 大尹前呵寬賈島，相君十反訪州平。
-- 故溪舊有釣魚石，平地今多陷馬坑。
-- 不信天公囚兩鳥，一鳴會遣百蟲驚。
+- 世味澆漓酒趣深，對花無客亦孤斟。
+- 饑來肯羨乞墦食，貧殺不貪諛墓金。
+- 耄齒未妨師抑戒，高譚何似守規箴。
+- 吾今會得逍遥義，懶訪曹溪問少林。
 
 ## 拼音
 
-- hu2 pao2 zai4 zhu4 gu1 xing2 fa3 ， yan4 ta3 zhong4 lai2 ding4 ce4 ming2 。
-- da4 yin3 qian2 he1 kuan1 jia3 dao3 ， xiang1 jun1 shi2 fan3 fang3 zhou1 ping2 。
-- gu4 xi1 jiu4 you3 diao4 yu2 shi2 ， ping2 di4 jin1 duo1 xian4 ma3 keng1 。
-- bu2 xin4 tian1 gong1 qiu2 liang3 niao3 ， yi4 ming2 hui4 qian3 bai3 chong2 jing1 。
+- shi4 wei4 jiao1 li2 jiu3 qu4 shen1 ， dui4 hua1 wu2 ke4 yi4 gu1 zhen1 。
+- ji1 lai2 ken3 xian4 qi3 fan2 shi2 ， pin2 sha1 bu4 tan1 yu2 mu4 jin1 。
+- mao4 chi3 wei4 fang2 shi1 yi4 jie4 ， gao1 tan2 he2 si4 shou3 gui1 zhen1 。
+- wu2 jin1 hui4 de2 xiao1 yao2 yi4 ， lan3 fang3 cao2 xi1 wen4 shao4 lin2 。
 
 ## 注释
 

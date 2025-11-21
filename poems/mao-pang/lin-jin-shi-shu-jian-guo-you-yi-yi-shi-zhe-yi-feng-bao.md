@@ -6,10 +6,10 @@ titleSlug: lin-jin-shi-shu-jian-guo-you-yi-yi-shi-zhe-yi-feng-bao
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

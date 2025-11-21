@@ -6,10 +6,10 @@ titleSlug: yong-sha
 author: 龍太初
 authorPinyin: long2 tai4 chu1
 authorSlug: long-tai-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

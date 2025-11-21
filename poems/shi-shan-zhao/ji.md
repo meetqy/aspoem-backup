@@ -6,21 +6,21 @@ titleSlug: ji
 author: 釋善昭
 authorPinyin: shi4 shan4 zhao1
 authorSlug: shi-shan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胡僧金錫光，爲法到汾陽。
-- 六人成大器，勸請爲敷揚。
+- 汾陽有三訣，衲曾難辨別。
+- 更擬問如何，拄杖驀頭揳。
 
 ## 拼音
 
-- hu2 seng1 jin1 xi1 guang1 ， wei2 fa3 dao4 fen2 yang2 。
-- liu4 ren2 cheng2 da4 qi4 ， quan4 qing3 wei2 fu1 yang2 。
+- fen2 yang2 you3 san1 jue2 ， na4 ceng2 nan2 bian4 bie2 。
+- geng4 ni3 wen4 ru2 he2 ， zhu3 zhang4 mo4 tou2 xie1 。
 
 ## 注释
 

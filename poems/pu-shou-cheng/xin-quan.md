@@ -6,25 +6,21 @@ titleSlug: xin-quan
 author: 蒲壽宬
 authorPinyin: pu2 shou4 cheng2
 authorSlug: pu-shou-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山泉不知源，流出石磊砢。
-- 坎止心維亨，蒙養行必果。
-- 久視空無塵，静趣自忘我。
-- 明月知此心，時印夜光顆。
+- 冷冷一澗泉，炯炯千樹雪。
+- 歲寒鐵石心，山中玩芳潔。
 
 ## 拼音
 
-- shan1 quan2 bu4 zhi1 yuan2 ， liu2 chu1 shi2 lei3 luo3 。
-- kan3 zhi3 xin1 wei2 heng1 ， meng2 yang3 xing2 bi4 guo3 。
-- jiu3 shi4 kong1 wu2 chen2 ， jing4 qu4 zi4 wang4 wo3 。
-- ming2 yue4 zhi1 ci3 xin1 ， shi2 yin4 ye4 guang1 ke1 。
+- leng3 leng3 yi2 jian4 quan2 ， jiong3 jiong3 qian1 shu4 xue3 。
+- sui4 han2 tie3 shi2 xin1 ， shan1 zhong1 wan2 fang1 jie2 。
 
 ## 注释
 

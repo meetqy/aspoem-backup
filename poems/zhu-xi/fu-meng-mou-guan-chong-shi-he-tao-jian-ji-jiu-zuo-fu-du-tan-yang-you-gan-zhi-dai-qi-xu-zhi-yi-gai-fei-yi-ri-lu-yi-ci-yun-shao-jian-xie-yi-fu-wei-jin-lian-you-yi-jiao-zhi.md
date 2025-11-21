@@ -6,10 +6,10 @@ titleSlug: fu-meng-mou-guan-chong-shi-he-tao-jian-ji-jiu-zuo-fu-du-tan-yang-you-
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

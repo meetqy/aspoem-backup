@@ -6,10 +6,10 @@ titleSlug: ti-hui-ji-xi-kou-gong-shi-shang-ren-fang
 author: 唐詢
 authorPinyin: tang2 xun2
 authorSlug: tang-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-tian-tai-fu-sheng-guan-pu-bu
 author: 楊偰
 authorPinyin: yang2 xie4
 authorSlug: yang-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

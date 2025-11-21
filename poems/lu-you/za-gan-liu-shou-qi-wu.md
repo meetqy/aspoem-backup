@@ -6,21 +6,25 @@ titleSlug: za-gan-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老境睡多行立少，浮生會少別離多。
-- 安得此身重壯健，一杯朋舊共高歌。
+- 早仕讒銷骨，遲歸悔噬臍。
+- 短衣猶掩脛，窮巷固多泥。
+- 婢喜蠶三幼，奴貪雨一犁。
+- 衡茅明我眼，刮膜謝金篦。
 
 ## 拼音
 
-- lao3 jing4 shui4 duo1 xing2 li4 shao3 ， fu2 sheng1 hui4 shao3 bie2 li2 duo1 。
-- an1 de2 ci3 shen1 zhong4 zhuang4 jian4 ， yi4 bei1 peng2 jiu4 gong4 gao1 ge1 。
+- zao3 shi4 chan2 xiao1 gu3 ， chi2 gui1 hui3 shi4 qi2 。
+- duan3 yi1 you2 yan3 jing4 ， qiong2 xiang4 gu4 duo1 ni2 。
+- bi4 xi3 can2 san1 you4 ， nu2 tan1 yu3 yi4 li2 。
+- heng2 mao2 ming2 wo3 yan3 ， gua1 mo2 xie4 jin1 bi4 。
 
 ## 注释
 

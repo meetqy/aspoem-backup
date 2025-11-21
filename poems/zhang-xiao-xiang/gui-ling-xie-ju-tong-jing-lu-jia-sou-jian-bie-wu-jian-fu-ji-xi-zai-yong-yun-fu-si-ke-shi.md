@@ -6,10 +6,10 @@ titleSlug: gui-ling-xie-ju-tong-jing-lu-jia-sou-jian-bie-wu-jian-fu-ji-xi-zai-yo
 author: 張孝祥
 authorPinyin: zhang1 xiao4 xiang2
 authorSlug: zhang-xiao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

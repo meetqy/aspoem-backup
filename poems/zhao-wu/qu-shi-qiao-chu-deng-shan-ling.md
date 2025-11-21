@@ -6,10 +6,10 @@ titleSlug: qu-shi-qiao-chu-deng-shan-ling
 author: 趙屼
 authorPinyin: zhao4 wu4
 authorSlug: zhao-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

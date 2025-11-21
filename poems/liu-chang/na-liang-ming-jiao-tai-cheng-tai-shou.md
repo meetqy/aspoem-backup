@@ -1,30 +1,26 @@
 ---
 id: liu-chang-na-liang-ming-jiao-tai-cheng-tai-shou
-title: 納凉明教臺呈太守
+title: 納涼明教臺呈太守
 titlePinyin: na4 liang2 ming2 jiao4 tai2 cheng2 tai4 shou3
 titleSlug: na-liang-ming-jiao-tai-cheng-tai-shou
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 榻移隨樹影，杯側見山岑。
-- 白鳥渇求水，玄蟬清噪林。
-- 道書無近語，天籟有遺音。
-- 向北新開逕，行苔過竹陰。
+- 臺下井泉冰冷滑，城隅川色劍光鋩。
+- 多慚簿領相寛假，全得南風一日涼。
 
 ## 拼音
 
-- ta4 yi2 sui2 shu4 ying3 ， bei1 ce4 jian4 shan1 cen2 。
-- bai2 niao3 ke3 qiu2 shui3 ， xuan2 chan2 qing1 zao4 lin2 。
-- dao4 shu1 wu2 jin4 yu3 ， tian1 lai4 you3 yi2 yin1 。
-- xiang4 bei3 xin1 kai1 jing4 ， xing2 tai2 guo4 zhu2 yin1 。
+- tai2 xia4 jing3 quan2 bing1 leng3 hua2 ， cheng2 yu2 chuan1 se4 jian4 guang1 mang2 。
+- duo1 can2 bo2 ling3 xiang1 kuan1 jia3 ， quan2 de2 nan2 feng1 yi2 ri4 liang2 。
 
 ## 注释
 

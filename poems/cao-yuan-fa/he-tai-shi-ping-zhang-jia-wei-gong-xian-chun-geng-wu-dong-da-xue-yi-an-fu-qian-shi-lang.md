@@ -6,10 +6,10 @@ titleSlug: he-tai-shi-ping-zhang-jia-wei-gong-xian-chun-geng-wu-dong-da-xue-yi-a
 author: 曹元發
 authorPinyin: cao2 yuan2 fa1
 authorSlug: cao-yuan-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

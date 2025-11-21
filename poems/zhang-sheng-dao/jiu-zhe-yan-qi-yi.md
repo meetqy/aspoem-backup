@@ -6,10 +6,10 @@ titleSlug: jiu-zhe-yan-qi-yi
 author: 張聲道
 authorPinyin: zhang1 sheng1 dao4
 authorSlug: zhang-sheng-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fa-xi-tang
 author: 謝景初
 authorPinyin: xie4 jing3 chu1
 authorSlug: xie-jing-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

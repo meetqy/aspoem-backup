@@ -6,10 +6,10 @@ titleSlug: tao-yuan-dong
 author: 毛漸
 authorPinyin: mao2 jian4
 authorSlug: mao-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

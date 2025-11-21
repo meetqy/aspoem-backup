@@ -6,25 +6,25 @@ titleSlug: zui-wen-du-yu
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 家家酒似池，日日醉如泥。
-- 海燕聊爲客，杜鵑何苦啼。
-- 狂那知帽落，歸不爲花迷。
-- 信筆成詩句，苔牋小草題。
+- 幾日冥迷醉夢中，醒來衣袖裹春風。
+- 杜鵑未歇鳥聲碎，芍藥已開花信空。
+- 差勝跨馿愁杜老，儘教騎馬笑山公。
+- 卑官安得金貂換，尚有杖頭三百銅。
 
 ## 拼音
 
-- jia1 jia1 jiu3 si4 chi2 ， ri4 ri4 zui4 ru2 ni2 。
-- hai3 yan4 liao2 wei2 ke4 ， du4 jian1 he2 ku3 ti2 。
-- kuang2 na4 zhi1 mao4 luo4 ， gui1 bu4 wei2 hua1 mi2 。
-- xin4 bi3 cheng2 shi1 ju4 ， tai2 jian1 xiao3 cao3 ti2 。
+- ji1 ri4 ming2 mi2 zui4 meng4 zhong1 ， xing3 lai2 yi1 xiu4 guo3 chun1 feng1 。
+- du4 jian1 wei4 xie1 niao3 sheng1 sui4 ， shao2 yao4 yi3 kai1 hua1 xin4 kong1 。
+- cha4 sheng4 kua4 lu2 chou2 du4 lao3 ， jin3 jiao4 qi2 ma3 xiao4 shan1 gong1 。
+- bei1 guan1 an1 de2 jin1 diao1 huan4 ， shang4 you3 zhang4 tou2 san1 bai3 tong2 。
 
 ## 注释
 

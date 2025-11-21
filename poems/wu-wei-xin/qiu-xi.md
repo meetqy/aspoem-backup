@@ -6,21 +6,21 @@ titleSlug: qiu-xi
 author: 吳惟信
 authorPinyin: wu2 wei2 xin4
 authorSlug: wu-wei-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 西風吹露下秋空，烏鵲無聲占碧桐。
-- 天氣微凉人好睡，闌干閑在月明中。
+- 雨聲雲氣暮蕭蕭，羅扇恩疎井樹凋。
+- 心事暗隨歸夢去，壁燈留與可憐宵。
 
 ## 拼音
 
-- xi1 feng1 chui1 lu4 xia4 qiu1 kong1 ， wu1 que4 wu2 sheng1 zhan4 bi4 tong2 。
-- tian1 qi4 wei1 liang2 ren2 hao3 shui4 ， lan2 gan1 xian2 zai4 yue4 ming2 zhong1 。
+- yu3 sheng1 yun2 qi4 mu4 xiao1 xiao1 ， luo2 shan4 en1 shu1 jing3 shu4 diao1 。
+- xin1 shi4 an4 sui2 gui1 meng4 qu4 ， bi4 deng1 liu2 yu3 ke3 lian2 xiao1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ling-feng-yuan-long-kan-shan-he-cai-jun-mo
 author: 董淵
 authorPinyin: dong3 yuan1
 authorSlug: dong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

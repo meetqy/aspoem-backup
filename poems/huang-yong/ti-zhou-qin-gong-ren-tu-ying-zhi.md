@@ -6,9 +6,9 @@ titleSlug: ti-zhou-qin-gong-ren-tu-ying-zhi
 author: 黄泳
 authorPinyin: huang2 yong3
 authorSlug: huang-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: yong-shi-seng
 author: 湯思退
 authorPinyin: tang1 si1 tui4
 authorSlug: tang-si-tui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

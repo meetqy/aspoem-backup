@@ -6,10 +6,10 @@ titleSlug: mei-chuang
 author: 李龍高
 authorPinyin: li3 long2 gao1
 authorSlug: li-long-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

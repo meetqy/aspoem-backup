@@ -6,21 +6,21 @@ titleSlug: he-qian-si-ji-qi-di-he
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 再見濤頭湧玉輪，煩君久駐浙江春。
-- 年來總作維摩病，堪笑東西二老人。
+- 老來日月似車輪，此去知逢幾箇春。
+- 昨夜冰花猶作柱，曉來梅子已生人。
 
 ## 拼音
 
-- zai4 jian4 tao1 tou2 yong3 yu4 lun2 ， fan2 jun1 jiu3 zhu4 zhe4 jiang1 chun1 。
-- nian2 lai2 zong3 zuo4 wei2 mo2 bing4 ， kan1 xiao4 dong1 xi1 er4 lao3 ren2 。
+- lao3 lai2 ri4 yue4 si4 ju1 lun2 ， ci3 qu4 zhi1 feng2 ji1 ge4 chun1 。
+- zuo2 ye4 bing1 hua1 you2 zuo4 zhu4 ， xiao3 lai2 mei2 zi0 yi3 sheng1 ren2 。
 
 ## 注释
 

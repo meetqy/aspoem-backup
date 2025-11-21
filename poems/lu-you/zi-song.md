@@ -6,25 +6,25 @@ titleSlug: zi-song
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 家弊須微禄，年衰尚遠遊。
-- 未逃朋友責，更遣吏民羞。
-- 采藥思長往，傳書却小留。
-- 微風入桐葉，分我一簾秋。
+- 年少寧知道廢興，摶風變化羨鯤鵬。
+- 貪求但欲攀分寸，痛定方慚乞斗升。
+- 靈府已能澄似水，俗緣更覺薄于僧。
+- 挂冠且喜身蕭散，二頃寧須退可憑。
 
 ## 拼音
 
-- jia1 bi4 xu1 wei1 lu4 ， nian2 shuai1 shang4 yuan3 you2 。
-- wei4 tao2 peng2 you0 ze2 ， geng4 qian3 li4 min2 xiu1 。
-- cai3 yao4 si1 chang2 wang3 ， chuan2 shu1 que4 xiao3 liu2 。
-- wei1 feng1 ru4 tong2 ye4 ， fen1 wo3 yi4 lian2 qiu1 。
+- nian2 shao4 ning2 zhi1 dao4 fei4 xing1 ， tuan2 feng1 bian4 hua4 xian4 kun1 peng2 。
+- tan1 qiu2 dan4 yu4 pan1 fen1 cun4 ， tong4 ding4 fang1 can2 qi3 dou3 sheng1 。
+- ling2 fu3 yi3 neng2 cheng2 si4 shui3 ， su2 yuan2 geng4 jue2 bao2 yu2 seng1 。
+- gua4 guan1 qie3 xi3 shen1 xiao1 san4 ， er4 qing3 ning2 xu1 tui4 ke3 ping2 。
 
 ## 注释
 

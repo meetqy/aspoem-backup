@@ -6,21 +6,25 @@ titleSlug: za-gan-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小軒幽檻雨絲絲，種竹移花及此時。
-- 客去解衣投卧榻，半醒半醉又成詩。
+- 十月可釀酒，六月可作醬。
+- 兒曹念乃翁，左右日供養。
+- 比鄰有老疾，亦復致一餉。
+- 老老以及人，此義古所尚。
 
 ## 拼音
 
-- xiao3 xuan1 you1 jian4 yu3 si1 si1 ， zhong3 zhu2 yi2 hua1 ji2 ci3 shi2 。
-- ke4 qu4 jie3 yi1 tou2 wo4 ta4 ， ban4 xing3 ban4 zui4 you4 cheng2 shi1 。
+- shi2 yue4 ke3 niang4 jiu3 ， liu4 yue4 ke3 zuo4 jiang4 。
+- er2 cao2 nian4 nai3 weng1 ， zuo3 you4 ri4 gong4 yang3 。
+- bi3 lin2 you3 lao3 ji2 ， yi4 fu4 zhi4 yi4 xiang3 。
+- lao3 lao3 yi3 ji2 ren2 ， ci3 yi4 gu3 suo3 shang4 。
 
 ## 注释
 

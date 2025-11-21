@@ -6,10 +6,10 @@ titleSlug: hai-kou
 author: 皇甫明子
 authorPinyin: huang2 fu3 ming2 zi0
 authorSlug: huang-fu-ming-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

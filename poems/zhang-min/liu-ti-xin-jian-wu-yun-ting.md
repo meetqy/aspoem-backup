@@ -6,9 +6,9 @@ titleSlug: liu-ti-xin-jian-wu-yun-ting
 author: 章岷
 authorPinyin: zhang1 min2
 authorSlug: zhang-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

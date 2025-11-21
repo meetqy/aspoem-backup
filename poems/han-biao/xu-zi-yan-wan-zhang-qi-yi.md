@@ -1,26 +1,26 @@
 ---
 id: han-biao-xu-zi-yan-wan-zhang-qi-yi
-title: 徐子顔挽章  其一
-titlePinyin: xu2 zi3 yan2 wan3 zhang1     qi2 yi1
+title: 徐子顔挽章  其一○
+titlePinyin: xu2 zi3 yan2 wan3 zhang1     qi2 yi1 ○
 titleSlug: xu-zi-yan-wan-zhang-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 信城多士固多才，鄉老凋零安在哉。
-- 自哭湖團王處士，每逢人逝有餘哀。
+- 談天談佛共談仙，靜裏光陰不計年。
+- 幾度過家扶醉去，豈知今日見沉泉。
 
 ## 拼音
 
-- xin4 cheng2 duo1 shi4 gu4 duo1 cai2 ， xiang1 lao3 diao1 ling2 an1 zai4 zai1 。
-- zi4 ku1 hu2 tuan2 wang2 chu3 shi4 ， mei3 feng2 ren2 shi4 you3 yu2 ai1 。
+- tan2 tian1 tan2 fo2 gong4 tan2 xian1 ， jing4 li3 guang1 yin1 bu2 ji4 nian2 。
+- ji1 du4 guo4 jia1 fu2 zui4 qu4 ， qi3 zhi1 jin1 ri4 jian4 chen2 quan2 。
 
 ## 注释
 

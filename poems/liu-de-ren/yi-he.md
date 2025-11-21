@@ -9,22 +9,18 @@ authorSlug: liu-de-ren
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自爾歸仙後，經秋又過春。
-- 白雲尋不得，紫府去無因。
-- 此地空明月，何山伴羽人。
-- 終期華表上，重見令威身。
+- 白絲翎羽丹砂頂，曉度秋煙出翠微。
+- 來向孤松枝上立，見人吟苦却高飛。
 
 ## 拼音
 
-- zi4 er3 gui1 xian1 hou4 ， jing1 qiu1 you4 guo4 chun1 。
-- bai2 yun2 xun2 bu4 de2 ， zi3 fu3 qu4 wu2 yin1 。
-- ci3 di4 kong1 ming2 yue4 ， he2 shan1 ban4 yu3 ren2 。
-- zhong1 qi1 hua2 biao3 shang4 ， zhong4 jian4 ling4 wei1 shen1 。
+- bai2 si1 ling2 yu3 dan1 sha1 ding3 ， xiao3 du4 qiu1 yan1 chu1 cui4 wei1 。
+- lai2 xiang4 gu1 song1 zhi1 shang4 li4 ， jian4 ren2 yin2 ku3 que4 gao1 fei1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-shou-guan-qi-yi
 author: 陳大方
 authorPinyin: chen2 da4 fang1
 authorSlug: chen-da-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: chun-dao-hu-zhuang
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飽綠勻楊柳，殷紅茁海棠。
-- 將春到昌谷，及早下湖莊。
-- 祠事三年樂，邊心萬里長。
-- 新來和氣好，吉報已占祥。
+- 堤南堤北水溶溶，旁倚羣山不礙風。
+- 收拾田園供老境，栽培桃李課新功。
+- 牆頭向長千章聳，潤下潛流一線通。
+- 脚力尚堪行樂在，年來天不負衰翁。
 
 ## 拼音
 
-- bao3 lü4 yun2 yang2 liu3 ， yin1 hong2 zhuo2 hai3 tang2 。
-- jiang1 chun1 dao4 chang1 gu3 ， ji2 zao3 xia4 hu2 zhuang1 。
-- ci2 shi4 san1 nian2 le4 ， bian1 xin1 wan4 li3 chang2 。
-- xin1 lai2 he2 qi4 hao3 ， ji2 bao4 yi3 zhan4 xiang2 。
+- di1 nan2 di1 bei3 shui3 rong2 rong2 ， pang2 yi3 qun2 shan1 bu2 ai4 feng1 。
+- shou1 shi0 tian2 yuan2 gong4 lao3 jing4 ， zai1 pei2 tao2 li3 ke4 xin1 gong1 。
+- qiang2 tou2 xiang4 chang2 qian1 zhang1 song3 ， run4 xia4 qian2 liu2 yi2 xian4 tong1 。
+- jiao3 li4 shang4 kan1 xing2 le4 zai4 ， nian2 lai2 tian1 bu2 fu4 shuai1 weng1 。
 
 ## 注释
 

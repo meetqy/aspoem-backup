@@ -6,21 +6,25 @@ titleSlug: za-gan-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一尊易致蒲萄酒，萬里難逢鸛鵲樓。
-- 何日群胡遺種盡，關河形勝得重遊。
+- 草徑纔容步，茅廬僅庇床。
+- 原貧道尊顯，回夭死芬芳。
+- 弦誦喧清曉，鉏耰滿夕陽。
+- 此風能不墜，韋布亦何傷。
 
 ## 拼音
 
-- yi4 zun1 yi4 zhi4 pu2 tao2 jiu3 ， wan4 li3 nan2 feng2 guan4 que4 lou2 。
-- he2 ri4 qun2 hu2 yi2 zhong3 jin4 ， guan1 he2 xing2 sheng4 de2 zhong4 you2 。
+- cao3 jing4 cai2 rong2 bu4 ， mao2 lu2 jin3 bi4 chuang2 。
+- yuan2 pin2 dao4 zun1 xian3 ， hui2 yao1 si3 fen1 fang1 。
+- xian2 song4 xuan1 qing1 xiao3 ， chu2 you1 man3 xi1 yang2 。
+- ci3 feng1 neng2 bu2 zhui4 ， wei2 bu4 yi4 he2 shang1 。
 
 ## 注释
 

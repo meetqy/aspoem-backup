@@ -1,26 +1,26 @@
 ---
 id: song-bai-gong-ci-qi-wu
-title: 宮詞  其五
-titlePinyin: gong1 ci2     qi2 wu3
+title: 宮詞  其五○
+titlePinyin: gong1 ci2     qi2 wu3 ○
 titleSlug: gong-ci-qi-wu
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 彤廷立仗雪初銷，仙樂空懸讌百寮。
-- 齊指終南稱萬壽，遠平香案碧岧嶢。
+- 新生帝子浴漪蘭，三日宮中列綺筵。
+- 嬪御稱觴呼萬歲，笙歌一片夜掀天。
 
 ## 拼音
 
-- tong2 ting2 li4 zhang4 xue3 chu1 xiao1 ， xian1 le4 kong1 xuan2 yan4 bai3 liao2 。
-- qi2 zhi3 zhong1 nan2 cheng1 wan4 shou4 ， yuan3 ping2 xiang1 an4 bi4 tiao2 yao2 。
+- xin1 sheng1 di4 zi3 yu4 yi1 lan2 ， san1 ri4 gong1 zhong1 lie4 qi3 yan2 。
+- pin2 yu4 cheng1 shang1 hu1 wan4 sui4 ， sheng1 ge1 yi2 pian4 ye4 xian1 tian1 。
 
 ## 注释
 

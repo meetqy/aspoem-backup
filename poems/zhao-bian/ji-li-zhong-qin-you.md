@@ -6,25 +6,21 @@ titleSlug: ji-li-zhong-qin-you
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 記得城南數刻懽，破歡爲別淚闌干。
-- 間關遠道初隨牒，寂寞長亭一據鞍。
-- 郊外此時涼葉亂，嶺頭平日臘梅殘。
-- 不辭頻寄南州信，草檄無功楯墨乾。
+- 上盡危梯望社榆，亂山千疊隔吾廬。
+- 四方盡是男兒志，敢嘆離羣與索居。
 
 ## 拼音
 
-- ji4 de2 cheng2 nan2 shu4 ke4 huan1 ， po4 huan1 wei2 bie2 lei4 lan2 gan1 。
-- jian4 guan1 yuan3 dao4 chu1 sui2 die2 ， ji4 mo4 chang2 ting2 yi2 ju4 an1 。
-- jiao1 wai4 ci3 shi2 liang2 ye4 luan4 ， ling3 tou2 ping2 ri4 la4 mei2 can2 。
-- bu4 ci2 bin1 ji4 nan2 zhou1 xin4 ， cao3 xi2 wu2 gong1 dun4 mo4 qian2 。
+- shang4 jin4 wei1 ti1 wang4 she4 yu2 ， luan4 shan1 qian1 die2 ge2 wu2 lu2 。
+- si4 fang1 jin4 shi4 nan2 er2 zhi4 ， gan3 tan4 li2 qun2 yu3 suo3 ju1 。
 
 ## 注释
 

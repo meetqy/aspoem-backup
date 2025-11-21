@@ -6,10 +6,10 @@ titleSlug: ti-yu-hu-dong
 author: 玉壺洞客
 authorPinyin: yu4 hu2 dong4 ke4
 authorSlug: yu-hu-dong-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

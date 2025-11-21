@@ -6,10 +6,10 @@ titleSlug: ju
 author: 湖州士子
 authorPinyin: hu2 zhou1 shi4 zi3
 authorSlug: hu-zhou-shi-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禁城東馬夜喧喧，閑繞危欄去復還。
-- 遥望觚稜煙靄外，似聞天樂夢魂間。
-- 豈無罇酒當佳節，況有朋歡慰病顔。
-- 待得歸時花在否，春禽簷際已關關。
+- 佳翫能令百事忘，豈惟閑伴倒餘缸。
+- 珍奇來自海千里，皎潔明如璧一雙。
+- 日暖朝籠青石砌，春寒夜宿碧紗窗。
+- 蠻煙瘴霧雖生處，何必區區憶陋邦。
 
 ## 拼音
 
-- jin4 cheng2 dong1 ma3 ye4 xuan1 xuan1 ， xian2 rao4 wei1 lan2 qu4 fu4 huan2 。
-- yao2 wang4 gu1 leng2 yan1 ai3 wai4 ， si4 wen2 tian1 le4 meng4 hun2 jian4 。
-- qi3 wu2 zun1 jiu3 dang1 jia1 jie2 ， kuang4 you3 peng2 huan1 wei4 bing4 yan2 。
-- dai4 de2 gui1 shi2 hua1 zai4 fou3 ， chun1 qin2 yan2 ji4 yi3 guan1 guan1 。
+- jia1 wan2 neng2 ling4 bai3 shi4 wang4 ， qi3 wei2 xian2 ban4 dao3 yu2 gang1 。
+- zhen1 qi2 lai2 zi4 hai3 qian1 li3 ， jiao3 jie2 ming2 ru2 bi4 yi4 shuang1 。
+- ri4 nuan3 chao2 long2 qing1 shi2 qi4 ， chun1 han2 ye4 su4 bi4 sha1 chuang1 。
+- man2 yan1 zhang4 wu4 sui1 sheng1 chu3 ， he2 bi4 qu1 qu1 yi4 lou4 bang1 。
 
 ## 注释
 

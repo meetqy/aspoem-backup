@@ -6,10 +6,10 @@ titleSlug: he-sheng-di-wu-zi
 author: 傅大詢
 authorPinyin: fu4 da4 xun2
 authorSlug: fu-da-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

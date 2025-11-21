@@ -6,25 +6,25 @@ titleSlug: ji-ai-ruo-ne
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宅相凋零久不振，喜君文采日清新。
-- 彈琴密令能官業，獻頌王褒邁等倫。
-- 豈有青松蟠澗谷，待看騄驥絕風塵。
-- 諸儒方講升平事，策足須登要路津。
+- 擬尋荒僻事田園，竊食祠庭愧國恩。
+- 休論鶴長鳬甚短，且看齒落舌猶存。
+- 陶潛昔去因多忤，房琯今知欠不言。
+- 欲問大鈞吾豈敢，喙長三尺亦須吞。
 
 ## 拼音
 
-- zhai2 xiang1 diao1 ling2 jiu3 bu2 zhen4 ， xi3 jun1 wen2 cai3 ri4 qing1 xin1 。
-- dan4 qin2 mi4 ling4 neng2 guan1 ye4 ， xian4 song4 wang2 bao1 mai4 deng3 lun2 。
-- qi3 you3 qing1 song1 pan2 jian4 gu3 ， dai4 kan4 lu4 ji4 jue2 feng1 chen2 。
-- zhu1 ru2 fang1 jiang3 sheng1 ping2 shi4 ， ce4 zu2 xu1 deng1 yao4 lu4 jin1 。
+- ni3 xun2 huang1 pi4 shi4 tian2 yuan2 ， qie4 shi2 ci2 ting2 kui4 guo2 en1 。
+- xiu1 lun4 he4 chang2 fu2 shen4 duan3 ， qie3 kan4 chi3 luo4 she2 you2 cun2 。
+- tao2 qian2 xi1 qu4 yin1 duo1 wu3 ， fang2 guan3 jin1 zhi1 qian4 bu4 yan2 。
+- yu4 wen4 da4 jun1 wu2 qi3 gan3 ， hui4 chang2 san1 chi3 yi4 xu1 tun1 。
 
 ## 注释
 

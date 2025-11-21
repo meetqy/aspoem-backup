@@ -6,10 +6,10 @@ titleSlug: wang-li-zhi-ji-shu-yan-qi-zi-a-yi-jian-xue-zuo-shi-ji-wen-yu-zhi-zi-m
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

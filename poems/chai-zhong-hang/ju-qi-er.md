@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 柴中行
 authorPinyin: chai2 zhong1 hang2
 authorSlug: chai-zhong-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

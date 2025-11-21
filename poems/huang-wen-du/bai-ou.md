@@ -6,10 +6,10 @@ titleSlug: bai-ou
 author: 黄文度
 authorPinyin: huang2 wen2 du4
 authorSlug: huang-wen-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

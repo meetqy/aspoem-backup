@@ -1,6 +1,6 @@
 ---
 id: hu-su-ci-yun-he-zhu-kuang-yu-zhong-zhi-shen
-title: 次韵和朱況雨中之什
+title: 次韻和朱況雨中之什
 titlePinyin: ci4 yun4 he2 zhu1 kuang4 yu3 zhong1 zhi1 shen2
 titleSlug: ci-yun-he-zhu-kuang-yu-zhong-zhi-shen
 author: 胡宿
@@ -9,7 +9,7 @@ authorSlug: hu-su
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

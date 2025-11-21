@@ -6,9 +6,9 @@ titleSlug: he-ji-sou-qiu-ri-nan-pu-shi-jue-ju-jian-zi-zhuang-ji-ji-sou-qi-wu
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

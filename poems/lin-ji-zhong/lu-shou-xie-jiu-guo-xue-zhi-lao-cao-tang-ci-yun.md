@@ -6,9 +6,9 @@ titleSlug: lu-shou-xie-jiu-guo-xue-zhi-lao-cao-tang-ci-yun
 author: 林季仲
 authorPinyin: lin2 ji4 zhong4
 authorSlug: lin-ji-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

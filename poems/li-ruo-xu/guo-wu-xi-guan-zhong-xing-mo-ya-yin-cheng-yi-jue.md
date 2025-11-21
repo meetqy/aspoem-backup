@@ -6,9 +6,9 @@ titleSlug: guo-wu-xi-guan-zhong-xing-mo-ya-yin-cheng-yi-jue
 author: 李若虛
 authorPinyin: li3 ruo4 xu1
 authorSlug: li-ruo-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

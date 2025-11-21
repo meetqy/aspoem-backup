@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan-qi-si
 author: 劉師復
 authorPinyin: liu2 shi1 fu4
 authorSlug: liu-shi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

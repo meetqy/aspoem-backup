@@ -6,10 +6,10 @@ titleSlug: ju
 author: 丁浚明
 authorPinyin: ding1 jun4 ming2
 authorSlug: ding-jun-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

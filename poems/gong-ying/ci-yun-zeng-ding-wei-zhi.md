@@ -6,9 +6,9 @@ titleSlug: ci-yun-zeng-ding-wei-zhi
 author: 龔穎
 authorPinyin: gong1 ying3
 authorSlug: gong-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

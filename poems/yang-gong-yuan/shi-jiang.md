@@ -1,26 +1,26 @@
 ---
 id: yang-gong-yuan-shi-jiang
-title: 詩將
-titlePinyin: shi1 jiang1
+title: 詩匠
+titlePinyin: shi1 jiang4
 titleSlug: shi-jiang
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 草木森羅歸隊伍，溪山遼遶作城池。
-- 運籌決勝應無敵，郊島從旁作鼓旗。
+- 吳剛運斧惟修月，輪扁揮斤妙斲輪。
+- 好句何須勞斧鑿，無痕無跡自天真。
 
 ## 拼音
 
-- cao3 mu4 sen1 luo2 gui1 dui4 wu3 ， xi1 shan1 liao2 rao4 zuo4 cheng2 chi2 。
-- yun4 chou2 jue2 sheng4 ying1 wu2 di2 ， jiao1 dao3 cong2 pang2 zuo4 gu3 qi2 。
+- wu2 gang1 yun4 fu3 wei2 xiu1 yue4 ， lun2 bian3 hui1 jin1 miao4 zhuo2 lun2 。
+- hao3 ju4 he2 xu1 lao2 fu3 zao2 ， wu2 hen2 wu2 ji4 zi4 tian1 zhen1 。
 
 ## 注释
 

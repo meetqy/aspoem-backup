@@ -6,23 +6,25 @@ titleSlug: ou-shu
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暮上高樓聽村笛，清風寥寥吹澤國。
-- 蒼山莽野百戰地，美木陰林四時色。
-- 浩蕩坤乾萬里中，風光盡属漁樵客。
+- 夜枕唯便睡，晨窗不展書。
+- 學文真漸懶，與世况全疏。
+- 老合耕山澗，恩容寄石渠。
+- 飡氊亦堪飽，不歎食無魚。
 
 ## 拼音
 
-- mu4 shang4 gao1 lou2 ting1 cun1 di2 ， qing1 feng1 liao2 liao2 chui1 ze2 guo2 。
-- cang1 shan1 mang3 ye3 bai3 zhan4 di4 ， mei3 mu4 yin1 lin2 si4 shi2 se4 。
-- hao4 dang4 kun1 qian2 wan4 li3 zhong1 ， feng1 guang1 jin4 shu3 yu2 qiao2 ke4 。
+- ye4 zhen3 wei2 bian4 shui4 ， chen2 chuang1 bu4 zhan3 shu1 。
+- xue2 wen2 zhen1 jian4 lan3 ， yu3 shi4 kuang4 quan2 shu1 。
+- lao3 he2 geng1 shan1 jian4 ， en1 rong2 ji4 shi2 qu2 。
+- can1 zhan1 yi4 kan1 bao3 ， bu2 tan4 shi2 wu2 yu2 。
 
 ## 注释
 

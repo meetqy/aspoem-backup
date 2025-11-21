@@ -1,24 +1,24 @@
 ---
 id: zhang-fu-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 張釜
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風緩帆舒卷。
+- 詩材雖乏三千首。
 
 ## 拼音
 
-- feng1 huan3 fan1 shu1 juan3 。
+- shi1 cai2 sui1 fa2 san1 qian1 shou3 。
 
 ## 注释
 

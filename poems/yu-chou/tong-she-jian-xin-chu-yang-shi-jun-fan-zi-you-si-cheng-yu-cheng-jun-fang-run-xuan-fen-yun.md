@@ -6,10 +6,10 @@ titleSlug: tong-she-jian-xin-chu-yang-shi-jun-fan-zi-you-si-cheng-yu-cheng-jun-f
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

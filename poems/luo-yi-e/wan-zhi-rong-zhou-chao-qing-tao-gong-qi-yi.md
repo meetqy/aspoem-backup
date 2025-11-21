@@ -6,10 +6,10 @@ titleSlug: wan-zhi-rong-zhou-chao-qing-tao-gong-qi-yi
 author: 羅一鶚
 authorPinyin: luo2 yi2 e4
 authorSlug: luo-yi-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

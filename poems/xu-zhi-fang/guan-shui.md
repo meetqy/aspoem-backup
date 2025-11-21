@@ -6,10 +6,10 @@ titleSlug: guan-shui
 author: 徐直方
 authorPinyin: xu2 zhi2 fang1
 authorSlug: xu-zhi-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

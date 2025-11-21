@@ -6,10 +6,10 @@ titleSlug: yi-ye-su-jiang-she-shi-shi-chao-yi-dao-shuo-zhi-nai-yi-gu-ju-wei-xie-
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

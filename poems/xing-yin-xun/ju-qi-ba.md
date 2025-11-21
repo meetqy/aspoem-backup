@@ -6,9 +6,9 @@ titleSlug: ju-qi-ba
 author: 幸夤遜
 authorPinyin: xing4 yin2 xun4
 authorSlug: xing-yin-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

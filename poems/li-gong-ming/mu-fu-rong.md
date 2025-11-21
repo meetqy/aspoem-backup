@@ -6,10 +6,10 @@ titleSlug: mu-fu-rong
 author: 李公明
 authorPinyin: li3 gong1 ming2
 authorSlug: li-gong-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

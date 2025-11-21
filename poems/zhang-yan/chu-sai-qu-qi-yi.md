@@ -6,10 +6,10 @@ titleSlug: chu-sai-qu-qi-yi
 author: 張琰
 authorPinyin: zhang1 yan3
 authorSlug: zhang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

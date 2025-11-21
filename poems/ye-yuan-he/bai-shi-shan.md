@@ -6,10 +6,10 @@ titleSlug: bai-shi-shan
 author: 葉原賀
 authorPinyin: ye4 yuan2 he4
 authorSlug: ye-yuan-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

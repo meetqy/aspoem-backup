@@ -1,26 +1,28 @@
 ---
 id: shi-yin-su-song-gu-jiu-shi-ba-shou-qi-wu
-title: 頌古九十八首  其五
-titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 wu3
+title: 頌古九十八首  其五○
+titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 wu3 ○
 titleSlug: song-gu-jiu-shi-ba-shou-qi-wu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徹見無私欲度人，如張羅網罩飛禽。
-- 千萬之中不得一，好申供養老婆心。
+- 門外君子至，一切人不會。
+- 打這閑家具，甘贄與南泉。
+- 大地扶不起，爲甚扶不起，果報還如是。
 
 ## 拼音
 
-- che4 jian4 wu2 si1 yu4 du4 ren2 ， ru2 zhang1 luo2 wang3 zhao4 fei1 qin2 。
-- qian1 wan4 zhi1 zhong1 bu4 de2 yi1 ， hao3 shen1 gong4 yang3 lao3 po0 xin1 。
+- men2 wai4 jun1 zi3 zhi4 ， yi2 qie4 ren2 bu2 hui4 。
+- da3 zhe4 xian2 jia1 ju4 ， gan1 zhi4 yu3 nan2 quan2 。
+- da4 di4 fu2 bu4 qi3 ， wei2 shen4 fu2 bu4 qi3 ， guo3 bao4 huan2 ru2 shi4 。
 
 ## 注释
 

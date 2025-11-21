@@ -6,10 +6,10 @@ titleSlug: man-yue-shan-long-jian
 author: 蔣粹翁
 authorPinyin: jiang3 cui4 weng1
 authorSlug: jiang-cui-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ye-zuo
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 重雲烟雨日冥冥，柱礎流津意未晴。
-- 頼得谿風送雲出，放開山月照人明。
-- 紛紜世態長松影，荏苒時光流水聲。
-- 坐久蕭然轉琴軸，爲君更作九臯鳴。
+- 晚涼徐步出柴扃，萬變浮雲在窈冥。
+- 濃似鐵山擎缺月，薄於春絮透疎星。
+- 正欣夜久沉天籟，尤喜空明鬰帝青。
+- 雨氣未平龍欲動，電光前後射中庭。
 
 ## 拼音
 
-- zhong4 yun2 yan1 yu3 ri4 ming2 ming2 ， zhu4 chu3 liu2 jin1 yi4 wei4 qing2 。
-- lai4 de2 xi1 feng1 song4 yun2 chu1 ， fang4 kai1 shan1 yue4 zhao4 ren2 ming2 。
-- fen1 yun2 shi4 tai4 chang2 song1 ying3 ， ren3 ran3 shi2 guang1 liu2 shui3 sheng1 。
-- zuo4 jiu3 xiao1 ran2 zhuan3 qin2 zhou2 ， wei2 jun1 geng4 zuo4 jiu3 gao1 ming2 。
+- wan3 liang2 xu2 bu4 chu1 chai2 jiong1 ， wan4 bian4 fu2 yun2 zai4 yao3 ming2 。
+- nong2 si4 tie3 shan1 qing2 que1 yue4 ， bao2 wu1 chun1 xu4 tou4 shu1 xing1 。
+- zheng4 xin1 ye4 jiu3 chen2 tian1 lai4 ， you2 xi3 kong1 ming2 yu4 di4 qing1 。
+- yu3 qi4 wei4 ping2 long2 yu4 dong4 ， dian4 guang1 qian2 hou4 she4 zhong4 ting2 。
 
 ## 注释
 

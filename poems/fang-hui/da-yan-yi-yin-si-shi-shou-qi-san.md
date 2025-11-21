@@ -1,26 +1,26 @@
 ---
 id: fang-hui-da-yan-yi-yin-si-shi-shou-qi-san
-title: 大衍易吟四十首  其三
-titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 san1
+title: 大衍易吟四十首  其三○
+titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 san1 ○
 titleSlug: da-yan-yi-yin-si-shi-shou-qi-san
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 謂今三畫卦，不自偶奇生。
-- 便指三爲八，徒勞口舌爭。
+- 一女卦反對，不同而後同。
+- 始知天下事，苟合最爲凶。
 
 ## 拼音
 
-- wei4 jin1 san1 hua4 gua4 ， bu2 zi4 ou3 qi2 sheng1 。
-- bian4 zhi3 san1 wei2 ba1 ， tu2 lao2 kou3 she2 zheng1 。
+- yi4 nü3 gua4 fan3 dui4 ， bu4 tong2 er2 hou4 tong2 。
+- shi3 zhi1 tian1 xia4 shi4 ， gou3 he2 zui4 wei2 xiong1 。
 
 ## 注释
 

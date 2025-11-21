@@ -6,10 +6,10 @@ titleSlug: he-su-tang-qing
 author: 史辭
 authorPinyin: shi3 ci2
 authorSlug: shi-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

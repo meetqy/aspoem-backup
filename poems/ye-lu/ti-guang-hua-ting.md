@@ -6,10 +6,10 @@ titleSlug: ti-guang-hua-ting
 author: 葉簵
 authorPinyin: ye4 lu4
 authorSlug: ye-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

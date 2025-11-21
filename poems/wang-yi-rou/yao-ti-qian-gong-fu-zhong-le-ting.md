@@ -6,10 +6,10 @@ titleSlug: yao-ti-qian-gong-fu-zhong-le-ting
 author: 王益柔
 authorPinyin: wang2 yi4 rou2
 authorSlug: wang-yi-rou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

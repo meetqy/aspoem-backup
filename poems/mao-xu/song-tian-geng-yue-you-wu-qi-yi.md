@@ -6,10 +6,10 @@ titleSlug: song-tian-geng-yue-you-wu-qi-yi
 author: 毛珝
 authorPinyin: mao2 xu3
 authorSlug: mao-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

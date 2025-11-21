@@ -6,9 +6,9 @@ titleSlug: ju
 author: 張邵
 authorPinyin: zhang1 shao4
 authorSlug: zhang-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

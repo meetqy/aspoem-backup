@@ -1,14 +1,14 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-ye-ren-lu
-title: 守居園池雜題・野人廬
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・ye3 ren2 lu2
+title: 守居園池雜題 野人廬
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   ye3 ren2 lu2
 titleSlug: shou-ju-yuan-chi-za-ti-ye-ren-lu
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

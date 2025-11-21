@@ -6,10 +6,10 @@ titleSlug: qiu-ci-qi-er
 author: 史文卿
 authorPinyin: shi3 wen2 qing1
 authorSlug: shi-wen-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

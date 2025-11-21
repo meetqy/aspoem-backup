@@ -6,25 +6,25 @@ titleSlug: chun-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老憊生如寄，春寒夢亦孤。
-- 燈花時自墜，梟語迭相呼。
-- 萬里書難得，三年病未蘇。
-- 窗深不知曉，但覺動林烏。
+- 客向燈前老，愁從枕上生。
+- 雨聲添好睡，花氣散餘酲。
+- 舊事談誰聽，新詩鍊不成。
+- 惟當速歸老，鄰父待同耕。
 
 ## 拼音
 
-- lao3 bei4 sheng1 ru2 ji4 ， chun1 han2 meng4 yi4 gu1 。
-- deng1 hua1 shi2 zi4 zhui4 ， xiao1 yu3 die2 xiang1 hu1 。
-- wan4 li3 shu1 nan2 de2 ， san1 nian2 bing4 wei4 su1 。
-- chuang1 shen1 bu4 zhi1 xiao3 ， dan4 jue2 dong4 lin2 wu1 。
+- ke4 xiang4 deng1 qian2 lao3 ， chou2 cong2 zhen3 shang4 sheng1 。
+- yu3 sheng1 tian1 hao3 shui4 ， hua1 qi4 san4 yu2 cheng2 。
+- jiu4 shi4 tan2 shui2 ting1 ， xin1 shi1 lian4 bu4 cheng2 。
+- wei2 dang1 su4 gui1 lao3 ， lin2 fu4 dai4 tong2 geng1 。
 
 ## 注释
 

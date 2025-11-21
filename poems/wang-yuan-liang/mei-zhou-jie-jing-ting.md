@@ -6,10 +6,10 @@ titleSlug: mei-zhou-jie-jing-ting
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

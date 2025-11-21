@@ -6,10 +6,10 @@ titleSlug: mu-bo-tong-zhe-guan-he-yang-ju-chang-yu-yu-hu-jian-jin-bao-bi-you-xia
 author: 呂陶
 authorPinyin: lü3 tao2
 authorSlug: lu-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

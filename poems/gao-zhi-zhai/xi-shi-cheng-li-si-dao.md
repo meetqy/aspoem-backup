@@ -6,10 +6,10 @@ titleSlug: xi-shi-cheng-li-si-dao
 author: 高質齋
 authorPinyin: gao1 zhi4 zhai1
 authorSlug: gao-zhi-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: cheng-dong-xing-shi-qu-li-jian-fu-shen-er-ke-yi-bu-jian-er-ju-you-wan
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

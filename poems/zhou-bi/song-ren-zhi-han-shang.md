@@ -6,25 +6,21 @@ titleSlug: song-ren-zhi-han-shang
 author: 周弼
 authorPinyin: zhou1 bi4
 authorSlug: zhou-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 木落千山怨別離，自知難駐馬行蹄。
-- 上書季子窮歸洛，獻賦荀卿老向齊。
-- 驛店破旗秋雨細，戍樓殘角夕陽低。
-- 袖藏秘策君門遠，應望中原泣鼓鼙。
+- 舊來邊塞自多塵，瘦草寒花强作春。
+- 見說連年更悽愴，亂螢隨趁鬼迷人。
 
 ## 拼音
 
-- mu4 luo4 qian1 shan1 yuan4 bie2 li2 ， zi4 zhi1 nan2 zhu4 ma3 xing2 ti2 。
-- shang4 shu1 ji4 zi0 qiong2 gui1 luo4 ， xian4 fu4 xun2 qing1 lao3 xiang4 qi2 。
-- yi4 dian4 po4 qi2 qiu1 yu3 xi4 ， shu4 lou2 can2 jiao3 xi1 yang2 di1 。
-- xiu4 cang2 mi4 ce4 jun1 men2 yuan3 ， ying1 wang4 zhong1 yuan2 qi4 gu3 pi2 。
+- jiu4 lai2 bian1 sai1 zi4 duo1 chen2 ， shou4 cao3 han2 hua1 qiang2 zuo4 chun1 。
+- jian4 shuo1 lian2 nian2 geng4 qi1 chuang4 ， luan4 ying2 sui2 chen4 gui3 mi2 ren2 。
 
 ## 注释
 

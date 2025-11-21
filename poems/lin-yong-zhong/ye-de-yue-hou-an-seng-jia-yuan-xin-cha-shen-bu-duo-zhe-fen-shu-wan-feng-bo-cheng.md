@@ -6,10 +6,10 @@ titleSlug: ye-de-yue-hou-an-seng-jia-yuan-xin-cha-shen-bu-duo-zhe-fen-shu-wan-fe
 author: 林用中
 authorPinyin: lin2 yong4 zhong1
 authorSlug: lin-yong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

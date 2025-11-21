@@ -6,21 +6,21 @@ titleSlug: chun-yu
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 散亂縈花塢，空濛暗柳堤。
-- 望迴腸已斷，何處更鶑啼。
+- 漠漠霏霏著柳條，輕寒爭信杏花嬌。
+- 江南二月如煙細，誰正春愁在麗譙。
 
 ## 拼音
 
-- san4 luan4 ying2 hua1 wu4 ， kong1 meng2 an4 liu3 di1 。
-- wang4 hui2 chang2 yi3 duan4 ， he2 chu3 geng4 ying1 ti2 。
+- mo4 mo4 fei1 fei1 zhu4 liu3 tiao2 ， qing1 han2 zheng1 xin4 xing4 hua1 jiao1 。
+- jiang1 nan2 er4 yue4 ru2 yan1 xi4 ， shui2 zheng4 chun1 chou2 zai4 li2 qiao2 。
 
 ## 注释
 

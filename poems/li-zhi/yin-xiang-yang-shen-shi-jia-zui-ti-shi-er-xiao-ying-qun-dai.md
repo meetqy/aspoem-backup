@@ -6,10 +6,10 @@ titleSlug: yin-xiang-yang-shen-shi-jia-zui-ti-shi-er-xiao-ying-qun-dai
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

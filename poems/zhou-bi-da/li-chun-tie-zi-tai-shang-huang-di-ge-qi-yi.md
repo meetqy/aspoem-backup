@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑞雪收殘臘，和風報早春。
-- 祝堯千萬壽，常與歲俱新。
+- 玉燭重開歲，璿杓復建寅。
+- 誰知康壽殿，四序只長春。
 
 ## 拼音
 
-- rui4 xue3 shou1 can2 la4 ， he2 feng1 bao4 zao3 chun1 。
-- zhu4 yao2 qian1 wan4 shou4 ， chang2 yu3 sui4 ju4 xin1 。
+- yu4 zhu2 zhong4 kai1 sui4 ， xuan2 shao2 fu4 jian4 yin2 。
+- shui2 zhi1 kang1 shou4 dian4 ， si4 xu4 zhi1 chang2 chun1 。
 
 ## 注释
 

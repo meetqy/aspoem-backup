@@ -6,10 +6,10 @@ titleSlug: yue-ye-huai-lin-shu-gang
 author: 梁該
 authorPinyin: liang2 gai1
 authorSlug: liang-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

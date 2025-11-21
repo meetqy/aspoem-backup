@@ -6,10 +6,10 @@ titleSlug: shi-xiang-shan-xian-sheng-you-xi-hu-zhou-zhong-xu-bi-xian-zhou-yuan-z
 author: 楊簡
 authorPinyin: yang2 jian3
 authorSlug: yang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

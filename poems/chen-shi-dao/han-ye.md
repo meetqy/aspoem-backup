@@ -6,25 +6,25 @@ titleSlug: han-ye
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閉戶風將雨，通宵浪打頭。
-- 若爲中夕聽，復作別時愁。
-- 宿雁鳴漁火，村舂急暗投。
-- 不應田二頃，能使寸心休。
+- 留滯常思動，艱虞却悔來。
+- 寒燈挑不燄，殘火撥成灰。
+- 凍水滴還歇，風簾掩復開。
+- 孰知文有忌，情至自生哀。
 
 ## 拼音
 
-- bi4 hu4 feng1 jiang1 yu3 ， tong1 xiao1 lang4 da3 tou2 。
-- ruo4 wei2 zhong1 xi1 ting1 ， fu4 zuo4 bie2 shi2 chou2 。
-- su4 yan4 ming2 yu2 huo3 ， cun1 chong1 ji2 an4 tou2 。
-- bu4 ying1 tian2 er4 qing3 ， neng2 shi3 cun4 xin1 xiu1 。
+- liu2 zhi4 chang2 si1 dong4 ， jian1 yu2 que4 hui3 lai2 。
+- han2 deng1 tiao1 bu2 yan4 ， can2 huo3 bo1 cheng2 hui1 。
+- dong4 shui3 di1 huan2 xie1 ， feng1 lian2 yan3 fu4 kai1 。
+- shu2 zhi1 wen2 you3 ji4 ， qing2 zhi4 zi4 sheng1 ai1 。
 
 ## 注释
 

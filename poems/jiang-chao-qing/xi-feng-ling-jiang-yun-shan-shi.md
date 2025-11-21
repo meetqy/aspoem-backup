@@ -6,10 +6,10 @@ titleSlug: xi-feng-ling-jiang-yun-shan-shi
 author: 江朝卿
 authorPinyin: jiang1 chao2 qing1
 authorSlug: jiang-chao-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

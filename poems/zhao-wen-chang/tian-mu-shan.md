@@ -6,10 +6,10 @@ titleSlug: tian-mu-shan
 author: 趙文昌
 authorPinyin: zhao4 wen2 chang1
 authorSlug: zhao-wen-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

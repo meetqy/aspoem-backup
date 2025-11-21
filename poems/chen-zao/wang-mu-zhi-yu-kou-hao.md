@@ -6,25 +6,25 @@ titleSlug: wang-mu-zhi-yu-kou-hao
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾燕瑶池到世間，祝堯今復馭青鸞。
-- 衆真已送駢蕃瑞，萬國同瞻咫尺顔。
-- 聖統有傳尊北極，帝齡無盡等南山。
-- 兒家幾許蟠桃熟，準擬年年薦露盤。
+- 天仗凌晨拱未央，君王親奉紫霞觴。
+- 社鳴當紀乾坤闢，筴授端知日月長。
+- 爲祝堯齡辭翠水，閑留羲馭頓扶桑。
+- 兒家不上千秋鑒，自摘蟠桃壽聖皇。
 
 ## 拼音
 
-- ceng2 yan4 yao2 chi2 dao4 shi4 jian4 ， zhu4 yao2 jin1 fu4 yu4 qing1 luan2 。
-- zhong4 zhen1 yi3 song4 pian2 fan1 rui4 ， wan4 guo2 tong2 zhan1 zhi3 chi3 yan2 。
-- sheng4 tong3 you3 chuan2 zun1 bei3 ji2 ， di4 ling2 wu2 jin4 deng3 nan2 shan1 。
-- er2 jia1 ji1 xu1 pan2 tao2 shu2 ， zhun3 ni3 nian2 nian2 jian4 lu4 pan2 。
+- tian1 zhang4 ling2 chen2 gong3 wei4 yang1 ， jun1 wang2 qin1 feng4 zi3 xia2 shang1 。
+- she4 ming2 dang1 ji4 qian2 kun1 pi4 ， ce4 shou4 duan1 zhi1 ri4 yue4 chang2 。
+- wei2 zhu4 yao2 ling2 ci2 cui4 shui3 ， xian2 liu2 xi1 yu4 dun4 fu2 sang1 。
+- er2 jia1 bu2 shang4 qian1 qiu1 jian4 ， zi4 zhai1 pan2 tao2 shou4 sheng4 huang2 。
 
 ## 注释
 

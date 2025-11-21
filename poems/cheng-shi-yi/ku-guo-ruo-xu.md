@@ -6,9 +6,9 @@ titleSlug: ku-guo-ruo-xu
 author: 程時翼
 authorPinyin: cheng2 shi2 yi4
 authorSlug: cheng-shi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

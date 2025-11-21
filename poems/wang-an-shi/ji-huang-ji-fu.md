@@ -6,25 +6,25 @@ titleSlug: ji-huang-ji-fu
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朱顔去似朔風驚，白髮多於野草生。
-- 挾策讀書空有得，求田問舍轉無成。
-- 解鞍烏石岡邊坐，携手辛夷樹下行。
-- 今日追思真樂事，黄塵深處走雞鳴。
+- 學兼文武在吾曹，別後應看虎豹韜。
+- 欲問廟堂誰鎮撫，尚傳邊塞敢驚騷。
+- 旌旗急引飛黄下，烽火遥連太白高。
+- 聞說荆人亦憔悴，家家還願獻春醪。
 
 ## 拼音
 
-- zhu1 yan2 qu4 si4 shuo4 feng1 jing1 ， bai2 fa4 duo1 wu1 ye3 cao3 sheng1 。
-- xie2 ce4 du2 shu1 kong1 you3 de2 ， qiu2 tian2 wen4 she4 zhuan3 wu2 cheng2 。
-- jie3 an1 wu1 shi2 gang1 bian1 zuo4 ， xie2 shou3 xin1 yi2 shu4 xia4 xing2 。
-- jin1 ri4 zhui1 si1 zhen1 le4 shi4 ， huang2 chen2 shen1 chu3 zou3 ji1 ming2 。
+- xue2 jian1 wen2 wu3 zai4 wu2 cao2 ， bie2 hou4 ying1 kan4 hu3 bao4 tao1 。
+- yu4 wen4 miao4 tang2 shui2 zhen4 fu3 ， shang4 chuan2 bian1 sai1 gan3 jing1 sao1 。
+- jing1 qi2 ji2 yin3 fei1 huang2 xia4 ， feng1 huo3 yao2 lian2 tai4 bai2 gao1 。
+- wen2 shuo1 jing1 ren2 yi4 qiao2 cui4 ， jia1 jia1 huan2 yuan4 xian4 chun1 lao2 。
 
 ## 注释
 

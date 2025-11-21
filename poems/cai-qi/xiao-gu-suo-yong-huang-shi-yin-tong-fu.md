@@ -6,10 +6,10 @@ titleSlug: xiao-gu-suo-yong-huang-shi-yin-tong-fu
 author: 蔡齊
 authorPinyin: cai4 qi2
 authorSlug: cai-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

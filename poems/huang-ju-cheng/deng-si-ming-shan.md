@@ -6,10 +6,10 @@ titleSlug: deng-si-ming-shan
 author: 黄巨澄
 authorPinyin: huang2 ju4 cheng2
 authorSlug: huang-ju-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: gao-shan-tang-he-jie-du-shi-liang-gong-yun
 author: 史安之
 authorPinyin: shi3 an1 zhi1
 authorSlug: shi-an-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

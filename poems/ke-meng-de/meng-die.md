@@ -6,10 +6,10 @@ titleSlug: meng-die
 author: 柯夢得
 authorPinyin: ke1 meng4 de2
 authorSlug: ke-meng-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

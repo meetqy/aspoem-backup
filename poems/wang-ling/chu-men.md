@@ -6,25 +6,25 @@ titleSlug: chu-men
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出門將何從，中道忽自思。
-- 彼懷與爾殊，亦合念子歸。
-- 樂有詩與書，遊有山與陂。
-- 誰言竟無從，猶有影自隨。
+- 出門萬事非，聊復閉關坐。
+- 親識久相遠，與世絕弔賀。
+- 適時既非謀，接俗益加惰。
+- 外物等不来，何必問客過。
 
 ## 拼音
 
-- chu1 men2 jiang1 he2 cong2 ， zhong1 dao4 hu1 zi4 si1 。
-- bi3 huai2 yu3 er3 shu1 ， yi4 he2 nian4 zi3 gui1 。
-- le4 you3 shi1 yu3 shu1 ， you2 you3 shan1 yu3 bei1 。
-- shui2 yan2 jing4 wu2 cong2 ， you2 you3 ying3 zi4 sui2 。
+- chu1 men2 wan4 shi4 fei1 ， liao2 fu4 bi4 guan1 zuo4 。
+- qin1 shi2 jiu3 xiang1 yuan3 ， yu3 shi4 jue2 diao4 he4 。
+- shi4 shi2 ji4 fei1 mou2 ， jie1 su2 yi4 jia1 duo4 。
+- wai4 wu4 deng3 bu4 lai2 ， he2 bi4 wen4 ke4 guo4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xie-hui-lan-hua
 author: 黎道華
 authorPinyin: li2 dao4 hua2
 authorSlug: li-dao-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

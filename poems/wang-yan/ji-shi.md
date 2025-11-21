@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桑盡蠶皆繭，秧成麥已秋。
-- 山雲翻黑雨，溪樹沒黄流。
-- 紅粟方翔貴，蒼生未病瘳。
-- 茅茨烟不起，飽飯得無憂。
+- 故里只十舍，滯留猶未歸。
+- 湖山無此好，父子且相依。
+- 白璧難磨玷，黄間暗發機。
+- 平生丘壑在，一笑釋前非。
 
 ## 拼音
 
-- sang1 jin4 can2 jie1 jian3 ， yang1 cheng2 mai4 yi3 qiu1 。
-- shan1 yun2 fan1 hei1 yu3 ， xi1 shu4 mei2 huang2 liu2 。
-- hong2 su4 fang1 xiang2 gui4 ， cang1 sheng1 wei4 bing4 chou1 。
-- mao2 ci2 yan1 bu4 qi3 ， bao3 fan4 de2 wu2 you1 。
+- gu4 li3 zhi1 shi2 she4 ， zhi4 liu2 you2 wei4 gui1 。
+- hu2 shan1 wu2 ci3 hao3 ， fu4 zi3 qie3 xiang1 yi1 。
+- bai2 bi4 nan2 mo2 dian4 ， huang2 jian4 an4 fa1 ji1 。
+- ping2 sheng1 qiu1 he4 zai4 ， yi2 xiao4 shi4 qian2 fei1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: huang-shan-cai-yao-ge
 author: 汪雄圖
 authorPinyin: wang1 xiong2 tu2
 authorSlug: wang-xiong-tu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

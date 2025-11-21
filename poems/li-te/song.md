@@ -6,10 +6,10 @@ titleSlug: song
 author: 李特
 authorPinyin: li3 te4
 authorSlug: li-te
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

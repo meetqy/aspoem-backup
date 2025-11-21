@@ -6,21 +6,21 @@ titleSlug: you-huai
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小雨如烟柳杪迷，伯勞東去燕西飛。
-- 須臾又是春三月，門對碧桃人未歸。
+- 燕無消息雁都回，三疊陽關笛更哀。
+- 可惜梅花逢夜雨，一場春怨滿蒼苔。
 
 ## 拼音
 
-- xiao3 yu3 ru2 yan1 liu3 miao3 mi2 ， bo2 lao2 dong1 qu4 yan4 xi1 fei1 。
-- xu1 yu2 you4 shi4 chun1 san1 yue4 ， men2 dui4 bi4 tao2 ren2 wei4 gui1 。
+- yan4 wu2 xiao1 xi0 yan4 dou1 hui2 ， san1 die2 yang2 guan1 di2 geng4 ai1 。
+- ke3 xi1 mei2 hua1 feng2 ye4 yu3 ， yi4 chang3 chun1 yuan4 man3 cang1 tai2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 范仲溫
 authorPinyin: fan4 zhong4 wen1
 authorSlug: fan-zhong-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

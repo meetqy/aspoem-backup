@@ -1,26 +1,24 @@
 ---
 id: ding-wei-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 背裝花屈膝，白打大廉斯。
-- 進前行兩步，蹺後立多時。
+- 朝朝薦天酒，寧讓服雲牙。
 
 ## 拼音
 
-- bei4 zhuang1 hua1 qu1 xi1 ， bai2 da3 da4 lian2 si1 。
-- jin4 qian2 xing2 liang3 bu4 ， qiao1 hou4 li4 duo1 shi2 。
+- zhao1 zhao1 jian4 tian1 jiu3 ， ning2 rang4 fu2 yun2 ya2 。
 
 ## 注释
 

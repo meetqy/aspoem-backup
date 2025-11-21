@@ -6,10 +6,10 @@ titleSlug: rong-zhi-zai-gao-cheng-wen-yu-cong-shuai-pi-yong-qian-yun-xi-zhi
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

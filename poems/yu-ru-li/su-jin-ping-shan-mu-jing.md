@@ -6,10 +6,10 @@ titleSlug: su-jin-ping-shan-mu-jing
 author: 喻汝礪
 authorPinyin: yu4 ru3 li4
 authorSlug: yu-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

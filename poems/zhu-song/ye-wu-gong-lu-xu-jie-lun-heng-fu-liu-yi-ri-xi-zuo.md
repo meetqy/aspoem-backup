@@ -6,9 +6,9 @@ titleSlug: ye-wu-gong-lu-xu-jie-lun-heng-fu-liu-yi-ri-xi-zuo
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

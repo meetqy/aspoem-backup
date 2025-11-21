@@ -9,22 +9,18 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 楊子愛言詩，春天好詠時。
-- 戀花從馬滯，聯句放杯遲。
-- 日映含煙竹，風牽臥柳絲。
-- 南山更多興，須作白雲期。
+- 去時芍藥纔堪贈，看却殘花已度春。
+- 只爲情深偏愴別，等閑相見莫相親。
 
 ## 拼音
 
-- yang2 zi3 ai4 yan2 shi1 ， chun1 tian1 hao3 yong3 shi2 。
-- lian4 hua1 cong2 ma3 zhi4 ， lian2 ju4 fang4 bei1 chi2 。
-- ri4 ying4 han2 yan1 zhu2 ， feng1 qian1 wo4 liu3 si1 。
-- nan2 shan1 geng4 duo1 xing1 ， xu1 zuo4 bai2 yun2 qi1 。
+- qu4 shi2 shao2 yao4 cai2 kan1 zeng4 ， kan4 que4 can2 hua1 yi3 du4 chun1 。
+- zhi1 wei2 qing2 shen1 pian1 chuang4 bie2 ， deng3 xian2 xiang1 jian4 mo4 xiang1 qin1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zai-ci-qian-yun-song-xing
 author: 衛博
 authorPinyin: wei4 bo2
 authorSlug: wei-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-rao-ji-shi-bei-yuan-bei-guan-gong-pin
 author: 趙汝騰
 authorPinyin: zhao4 ru3 teng2
 authorSlug: zhao-ru-teng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

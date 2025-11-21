@@ -6,10 +6,10 @@ titleSlug: tian-ze-yuan
 author: 杜扞
 authorPinyin: du4 han4
 authorSlug: du-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

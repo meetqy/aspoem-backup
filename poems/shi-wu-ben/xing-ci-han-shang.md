@@ -6,10 +6,10 @@ titleSlug: xing-ci-han-shang
 author: 釋無本
 authorPinyin: shi4 wu2 ben3
 authorSlug: shi-wu-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 莫惜西風又起來，猶能婀娜傍池臺。
-- 不辭暫被霜寒挫，舞袖招香即却回。
+- 自古詩人少顯榮，逃名何用更題名。
+- 詩中有慮猶須戒，莫向詩中著不平。
 
 ## 拼音
 
-- mo4 xi1 xi1 feng1 you4 qi3 lai2 ， you2 neng2 e1 nuo2 bang4 chi2 tai2 。
-- bu4 ci2 zan4 bei4 shuang1 han2 cuo4 ， wu3 xiu4 zhao1 xiang1 ji2 que4 hui2 。
+- zi4 gu3 shi1 ren2 shao3 xian3 rong2 ， tao2 ming2 he2 yong4 geng4 ti2 ming2 。
+- shi1 zhong1 you3 lü4 you2 xu1 jie4 ， mo4 xiang4 shi1 zhong1 zhu4 bu4 ping2 。
 
 ## 注释
 

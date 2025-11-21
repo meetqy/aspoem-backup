@@ -6,25 +6,25 @@ titleSlug: shu-huai
 author: 李若水
 authorPinyin: li3 ruo4 shui3
 authorSlug: li-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 客裏百無營，一室等方丈。
-- 行藏沙漠邊，志節煙霄上。
-- 歸思入新吟，閑愁付佳釀。
-- 何當把瘦藤，江山樂清放。
+- 戎馬南來久不歸，山河殘破一身微。
+- 功名誤我等雲過，歲月驚人還雪飛。
+- 每事恐貽千古笑，此生甘與衆人違。
+- 艱難重繫君親念，血淚斑斑滿客衣。
 
 ## 拼音
 
-- ke4 li3 bai3 wu2 ying2 ， yi2 shi4 deng3 fang1 zhang4 。
-- xing2 cang2 sha1 mo4 bian1 ， zhi4 jie2 yan1 xiao1 shang4 。
-- gui1 si1 ru4 xin1 yin2 ， xian2 chou2 fu4 jia1 niang4 。
-- he2 dang1 ba3 shou4 teng2 ， jiang1 shan1 le4 qing1 fang4 。
+- rong2 ma3 nan2 lai2 jiu3 bu4 gui1 ， shan1 he2 can2 po4 yi4 shen1 wei1 。
+- gong1 ming2 wu4 wo3 deng3 yun2 guo4 ， sui4 yue4 jing1 ren2 huan2 xue3 fei1 。
+- mei3 shi4 kong3 yi2 qian1 gu3 xiao4 ， ci3 sheng1 gan1 yu3 zhong4 ren2 wei2 。
+- jian1 nan2 zhong4 xi4 jun1 qin1 nian4 ， xue4 lei4 ban1 ban1 man3 ke4 yi1 。
 
 ## 注释
 

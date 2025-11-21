@@ -6,10 +6,10 @@ titleSlug: song-tai-bai-shan-ren-yu-tai-zhong-zhi-shang-wu-fang-dao-you-wang-zhi
 author: 魏野
 authorPinyin: wei4 ye3
 authorSlug: wei-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

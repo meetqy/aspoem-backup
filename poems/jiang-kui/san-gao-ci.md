@@ -6,21 +6,21 @@ titleSlug: san-gao-ci
 author: 姜夔
 authorPinyin: jiang1 kui2
 authorSlug: jiang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 越國霸來頭已白，洛京歸後夢猶驚。
-- 沉思只羨天隨子，蓑笠寒江過一生。
+- 不貪名爵伐功勞，勇退深虞禍患遭。
+- 甫里閒居耕釣樂，范張高處陸猶高。
 
 ## 拼音
 
-- yue4 guo2 ba4 lai2 tou2 yi3 bai2 ， luo4 jing1 gui1 hou4 meng4 you2 jing1 。
-- chen2 si1 zhi1 xian4 tian1 sui2 zi3 ， suo1 li4 han2 jiang1 guo4 yi4 sheng1 。
+- bu4 tan1 ming2 jue2 fa2 gong1 lao2 ， yong3 tui4 shen1 yu2 huo4 huan4 zao1 。
+- fu3 li3 xian2 ju1 geng1 diao4 le4 ， fan4 zhang1 gao1 chu3 lu4 you2 gao1 。
 
 ## 注释
 

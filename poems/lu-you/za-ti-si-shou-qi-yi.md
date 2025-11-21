@@ -6,21 +6,21 @@ titleSlug: za-ti-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貧中得味如餐蔗，語下明心似到鄉。
-- 對客欲談渾忘却，笑呼童子替燒香。
+- 賀公在朝雅吳語，莊舄仕楚猶越吟。
+- 我幸歸休在閭巷，燈前感慨不須深。
 
 ## 拼音
 
-- pin2 zhong1 de2 wei4 ru2 can1 zhe4 ， yu3 xia4 ming2 xin1 si4 dao4 xiang1 。
-- dui4 ke4 yu4 tan2 hun2 wang4 que4 ， xiao4 hu1 tong2 zi3 ti4 shao1 xiang1 。
+- he4 gong1 zai4 chao2 ya3 wu2 yu3 ， zhuang1 xi4 shi4 chu3 you2 yue4 yin2 。
+- wo3 xing4 gui1 xiu1 zai4 lü2 xiang4 ， deng1 qian2 gan3 kai3 bu4 xu1 shen1 。
 
 ## 注释
 

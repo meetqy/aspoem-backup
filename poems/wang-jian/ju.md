@@ -3,30 +3,26 @@ id: wang-jian-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王建
-authorPinyin: wang2 jian4
+author: 王堅
+authorPinyin: wang2 jian1
 authorSlug: wang-jian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 單于不向南牧馬，席萁遍滿天山下卻公不易勝，莫著外家欺。
-- 錦江詩弟子，時寄五花牋。
-- 花燒落第眼，雨破到家程。
-- 一朝金鳳庭前下，當是虛皇詔沈曦。
-- 宣城四面水茫茫，草蓋江城竹夾牆。
+- 良宰多憂憫，虔誠謁庶神。
+- （〖1〗句次趙不爲祈雨詩句後，曰「七𠥱〖月〗廿三〖乙〗〖日〗，文林郎王堅詩曰〖句不重錄〗」云云。
+- ）。
 
 ## 拼音
 
-- dan1 yu2 bu2 xiang4 nan2 mu4 ma3 ， xi2 qi2 bian4 man3 tian1 shan1 xia4 que4 gong1 bu2 yi4 sheng4 ， mo4 zhu4 wai4 jia1 qi1 。
-- jin3 jiang1 shi1 di4 zi3 ， shi2 ji4 wu3 hua1 jian1 。
-- hua1 shao1 luo4 di4 yan3 ， yu3 po4 dao4 jia1 cheng2 。
-- yi4 chao2 jin1 feng4 ting2 qian2 xia4 ， dang1 shi4 xu1 huang2 zhao4 shen3 xi1 。
-- xuan1 cheng2 si4 mian4 shui3 mang2 mang2 ， cao3 gai4 jiang1 cheng2 zhu2 jia1 qiang2 。
+- liang2 zai3 duo1 you1 min3 ， qian2 cheng2 ye4 shu4 shen2 。
+- （〖1〗 ju4 ci4 zhao4 bu4 wei2 qi2 yu3 shi1 ju4 hou4 ， yue1 「 qi1 𠥱〖 yue4 〗 nian4 san1 〖 yi3 〗〖 ri4 〗， wen2 lin2 lang2 wang2 jian1 shi1 yue1 〖 ju4 bu2 zhong4 lu4 〗」 yun2 yun2 。
+- ）。
 
 ## 注释
 

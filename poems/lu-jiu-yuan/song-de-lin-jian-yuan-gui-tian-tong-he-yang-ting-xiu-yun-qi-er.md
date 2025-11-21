@@ -6,10 +6,10 @@ titleSlug: song-de-lin-jian-yuan-gui-tian-tong-he-yang-ting-xiu-yun-qi-er
 author: 陸九淵
 authorPinyin: lu4 jiu3 yuan1
 authorSlug: lu-jiu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

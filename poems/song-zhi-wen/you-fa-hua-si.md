@@ -9,34 +9,34 @@ authorSlug: song-zhi-wen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 薄游京都日，遙羨稽山名。
-- 分刺江海郡，朅來徵素情。
-- 松露洗心眷，象筵敷念誠。
-- 薄雲界青嶂，皎日鶱朱甍。
-- 苔澗深不測，竹房閑且清。
-- 感真六象見，垂兆二𪅝鳴。
-- 古今信靈跡，中州莫與京。
-- 林巘永棲業，豈伊佐一生。
-- 浮悟雖已久，事試去來成。
-- 觀念幸相續，庶幾最後明。
+- 高岫擬耆闍，真乘引妙車。
+- 空中結樓殿，意表出雲霞。
+- 後果纏三足，前因感六牙。
+- 宴林薰寶樹，水溜滴金沙。
+- 寒谷梅猶淺，溫庭橘未華。
+- 臺香紅藥亂，塔影綠篁遮。
+- 果漸輪王族，緣超梵帝家。
+- 晨行踏忍草，夜誦得靈花。
+- 江郡將何匹，天都亦未加。
+- 朝來沿泛所，應是逐仙槎。
 
 ## 拼音
 
-- bao2 you2 jing1 du1 ri4 ， yao2 xian4 ji1 shan1 ming2 。
-- fen1 ci4 jiang1 hai3 jun4 ， qie4 lai2 zhi3 su4 qing2 。
-- song1 lu4 xi3 xin1 juan4 ， xiang4 yan2 fu1 nian4 cheng2 。
-- bao2 yun2 jie4 qing1 zhang4 ， jiao3 ri4 xian1 zhu1 meng2 。
-- tai2 jian4 shen1 bu2 ce4 ， zhu2 fang2 xian2 qie3 qing1 。
-- gan3 zhen1 liu4 xiang4 jian4 ， chui2 zhao4 er4 𪅝 ming2 。
-- gu3 jin1 xin4 ling2 ji4 ， zhong1 zhou1 mo4 yu3 jing1 。
-- lin2 yan3 yong3 qi1 ye4 ， qi3 yi1 zuo3 yi4 sheng1 。
-- fu2 wu4 sui1 yi3 jiu3 ， shi4 shi4 qu4 lai2 cheng2 。
-- guan1 nian4 xing4 xiang1 xu4 ， shu4 ji1 zui4 hou4 ming2 。
+- gao1 xiu4 ni3 qi2 du1 ， zhen1 cheng2 yin3 miao4 ju1 。
+- kong1 zhong1 jie2 lou2 dian4 ， yi4 biao3 chu1 yun2 xia2 。
+- hou4 guo3 chan2 san1 zu2 ， qian2 yin1 gan3 liu4 ya2 。
+- yan4 lin2 xun1 bao3 shu4 ， shui3 liu4 di1 jin1 sha1 。
+- han2 gu3 mei2 you2 qian3 ， wen1 ting2 ju2 wei4 hua2 。
+- tai2 xiang1 hong2 yao4 luan4 ， ta3 ying3 lü4 huang2 zhe1 。
+- guo3 jian4 lun2 wang2 zu2 ， yuan2 chao1 fan4 di4 jia1 。
+- chen2 xing2 ta4 ren3 cao3 ， ye4 song4 de2 ling2 hua1 。
+- jiang1 jun4 jiang1 he2 pi3 ， tian1 du1 yi4 wei4 jia1 。
+- chao2 lai2 yan2 fan4 suo3 ， ying1 shi4 zhu2 xian1 cha2 。
 
 ## 注释
 

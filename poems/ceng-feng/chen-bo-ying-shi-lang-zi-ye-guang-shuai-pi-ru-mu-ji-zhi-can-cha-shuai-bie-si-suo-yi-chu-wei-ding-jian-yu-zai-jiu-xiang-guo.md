@@ -6,10 +6,10 @@ titleSlug: chen-bo-ying-shi-lang-zi-ye-guang-shuai-pi-ru-mu-ji-zhi-can-cha-shuai
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

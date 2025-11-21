@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蓋屋不在華，所欲庇風雨。
-- 種花品無繁，四時看開處。
-- 指喻多非約，日涉乃成趣。
-- 吾年能幾日，景物亦漫與。
+- 平日爲飽役，方拋世網嬰。
+- 買魚沽市醖，借姓過州城。
+- 老脫塵中境，心游物外清。
+- 寒溪行不盡，端爲濯衣纓。
 
 ## 拼音
 
-- gai4 wu1 bu2 zai4 hua2 ， suo3 yu4 bi4 feng1 yu3 。
-- zhong3 hua1 pin3 wu2 fan2 ， si4 shi2 kan4 kai1 chu3 。
-- zhi3 yu4 duo1 fei1 yue1 ， ri4 she4 nai3 cheng2 qu4 。
-- wu2 nian2 neng2 ji1 ri4 ， jing3 wu4 yi4 man4 yu3 。
+- ping2 ri4 wei2 bao3 yi4 ， fang1 pao1 shi4 wang3 ying1 。
+- mai3 yu2 gu1 shi4 yun4 ， jie4 xing4 guo4 zhou1 cheng2 。
+- lao3 tuo1 chen2 zhong1 jing4 ， xin1 you2 wu4 wai4 qing1 。
+- han2 xi1 xing2 bu2 jin4 ， duan1 wei2 zhuo2 yi1 ying1 。
 
 ## 注释
 

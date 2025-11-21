@@ -6,25 +6,25 @@ titleSlug: ye-zuo-ting-zhong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人靜風褰幔，更闌露泫衣。
-- 暗窗饑鼠嚙，空廡冷螢飛。
-- 歲月背人去，鄉閭何日歸。
-- 脱巾還感嘆，殘髮不勝稀。
+- 大澤秋初到，荒庭夜自明。
+- 風雲生有候，河漢落無聲。
+- 病得新凉減，詩因少睡成。
+- 高枝有烏鵲，栖穩若爲驚。
 
 ## 拼音
 
-- ren2 jing4 feng1 qian1 man4 ， geng4 lan2 lu4 xuan4 yi1 。
-- an4 chuang1 ji1 shu3 nie4 ， kong1 wu3 leng3 ying2 fei1 。
-- sui4 yue4 bei4 ren2 qu4 ， xiang1 lü2 he2 ri4 gui1 。
-- tuo1 jin1 huan2 gan3 tan4 ， can2 fa4 bu2 sheng4 xi1 。
+- da4 ze2 qiu1 chu1 dao4 ， huang1 ting2 ye4 zi4 ming2 。
+- feng1 yun2 sheng1 you3 hou4 ， he2 han4 luo4 wu2 sheng1 。
+- bing4 de2 xin1 liang2 jian3 ， shi1 yin1 shao3 shui4 cheng2 。
+- gao1 zhi1 you3 wu1 que4 ， qi1 wen3 ruo4 wei2 jing1 。
 
 ## 注释
 

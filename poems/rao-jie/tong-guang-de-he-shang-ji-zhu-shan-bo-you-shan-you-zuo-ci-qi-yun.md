@@ -6,10 +6,10 @@ titleSlug: tong-guang-de-he-shang-ji-zhu-shan-bo-you-shan-you-zuo-ci-qi-yun
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

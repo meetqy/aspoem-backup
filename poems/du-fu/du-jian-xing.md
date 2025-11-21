@@ -9,30 +9,34 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 君不見昔日蜀天子，化作杜鵑似老烏。
-- 寄巢生子不自啄，羣鳥至今與哺雛。
-- 雖同君臣有舊禮，骨肉滿眼身羈孤。
-- 業工竄伏深樹裏，四月五月偏號呼。
-- 其聲哀痛口流血，所訴何事常區區。
-- 爾豈摧殘始發憤，羞帶羽翮傷形愚。
-- 蒼天變化誰料得，萬事反覆何所無。
-- 萬事反覆何所無，豈憶當殿羣臣趨。
+- 古時杜宇稱望帝，魂作杜鵑何微細。
+- 跳枝竄葉樹木中，搶佯瞥捩雌隨雄。
+- 毛衣慘黑貌顦顇，衆鳥安肯相尊崇。
+- 隳形不敢棲華屋，短翮唯願巢深叢。
+- 穿皮啄朽觜欲禿，苦飢始得食一蟲。
+- 誰言養雛不自哺，此語亦足爲愚蒙。
+- 聲音咽咽如有謂，號啼略與嬰兒同。
+- 口乾垂血轉迫促，似欲上訴於蒼穹。
+- 蜀人聞之皆起立，至今斅學傳遺風。
+- 迺知變化不可窮，豈知昔日居深宮，嬪嬙左右如花紅。
 
 ## 拼音
 
-- jun1 bu2 jian4 xi1 ri4 shu3 tian1 zi3 ， hua4 zuo4 du4 jian1 si4 lao3 wu1 。
-- ji4 chao2 sheng1 zi3 bu2 zi4 zhuo2 ， qun2 niao3 zhi4 jin1 yu3 bu3 chu2 。
-- sui1 tong2 jun1 chen2 you3 jiu4 li3 ， gu3 rou4 man3 yan3 shen1 ji1 gu1 。
-- ye4 gong1 cuan4 fu2 shen1 shu4 li3 ， si4 yue4 wu3 yue4 pian1 hao4 hu1 。
-- qi2 sheng1 ai1 tong4 kou3 liu2 xue4 ， suo3 su4 he2 shi4 chang2 qu1 qu1 。
-- er3 qi3 cui1 can2 shi3 fa1 fen4 ， xiu1 dai4 yu3 he2 shang1 xing2 yu2 。
-- cang1 tian1 bian4 hua4 shui2 liao4 de2 ， wan4 shi4 fan3 fu4 he2 suo3 wu2 。
-- wan4 shi4 fan3 fu4 he2 suo3 wu2 ， qi3 yi4 dang1 dian4 qun2 chen2 qu1 。
+- gu3 shi2 du4 yu3 cheng1 wang4 di4 ， hun2 zuo4 du4 jian1 he2 wei1 xi4 。
+- tiao4 zhi1 cuan4 ye4 shu4 mu4 zhong1 ， qiang1 yang2 pie1 lie4 ci2 sui2 xiong2 。
+- mao2 yi1 can3 hei1 mao4 qiao2 cui4 ， zhong4 niao3 an1 ken3 xiang1 zun1 chong2 。
+- hui1 xing2 bu4 gan3 qi1 hua2 wu1 ， duan3 he2 wei2 yuan4 chao2 shen1 cong2 。
+- chuan1 pi2 zhuo2 xiu3 zi1 yu4 tu1 ， ku3 ji1 shi3 de2 shi2 yi4 chong2 。
+- shui2 yan2 yang3 chu2 bu2 zi4 bu3 ， ci3 yu3 yi4 zu2 wei2 yu2 meng2 。
+- sheng1 yin1 yan4 yan4 ru2 you3 wei4 ， hao4 ti2 lüe4 yu3 ying1 er2 tong2 。
+- kou3 gan1 chui2 xue4 zhuan3 po4 cu4 ， si4 yu4 shang4 su4 wu1 cang1 qiong2 。
+- shu3 ren2 wen2 zhi1 jie1 qi3 li4 ， zhi4 jin1 xiao4 xue2 chuan2 yi2 feng1 。
+- nai3 zhi1 bian4 hua4 bu4 ke3 qiong2 ， qi3 zhi1 xi1 ri4 ju1 shen1 gong1 ， pin2 qiang2 zuo3 you4 ru2 hua1 hong2 。
 
 ## 注释
 

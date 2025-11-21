@@ -6,9 +6,9 @@ titleSlug: ti-mao-shan-hu-dao-shi-qin-yue-juan
 author: 江賓王
 authorPinyin: jiang1 bin1 wang2
 authorSlug: jiang-bin-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

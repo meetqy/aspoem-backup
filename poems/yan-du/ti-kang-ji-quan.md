@@ -6,10 +6,10 @@ titleSlug: ti-kang-ji-quan
 author: 顔度
 authorPinyin: yan2 du4
 authorSlug: yan-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ti-xiao-chi-bi-qi-er
 author: 朱濤
 authorPinyin: zhu1 tao1
 authorSlug: zhu-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

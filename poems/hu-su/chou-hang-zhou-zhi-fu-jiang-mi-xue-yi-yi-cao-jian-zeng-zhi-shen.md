@@ -6,9 +6,9 @@ titleSlug: chou-hang-zhou-zhi-fu-jiang-mi-xue-yi-yi-cao-jian-zeng-zhi-shen
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

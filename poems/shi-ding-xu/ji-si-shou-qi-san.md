@@ -6,9 +6,9 @@ titleSlug: ji-si-shou-qi-san
 author: 釋鼎需
 authorPinyin: shi4 ding3 xu1
 authorSlug: shi-ding-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

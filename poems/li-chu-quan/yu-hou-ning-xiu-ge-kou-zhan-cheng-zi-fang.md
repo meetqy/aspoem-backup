@@ -6,29 +6,25 @@ titleSlug: yu-hou-ning-xiu-ge-kou-zhan-cheng-zi-fang
 author: 李處權
 authorPinyin: li3 chu3 quan2
 authorSlug: li-chu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 春雲向晚留，夜雨凌曉濯。
-- 花明嬌欲語，柳綠浄可握。
-- 化工了無盡，芳意殊未覺。
-- 燒筍薦清尊，此味初不惡。
-- 君知忘憂物，便是卻老藥。
-- 百年終一炊，無事且行樂。
+- 鑿石爲渠水有聲，四垣惟欠竹青青。
+- 壁含霽月光千丈，黛拂雲峰畫一屏。
+- 香異定應來絕島，茶甘初不藉中泠。
+- 主人莫惜千金費，更作飛樓擬摘星。
 
 ## 拼音
 
-- chun1 yun2 xiang4 wan3 liu2 ， ye4 yu3 ling2 xiao3 zhuo2 。
-- hua1 ming2 jiao1 yu4 yu3 ， liu3 lü4 jing4 ke3 wo4 。
-- hua4 gong1 le0 wu2 jin4 ， fang1 yi4 shu1 wei4 jue2 。
-- shao1 sun3 jian4 qing1 zun1 ， ci3 wei4 chu1 bu2 e4 。
-- jun1 zhi1 wang4 you1 wu4 ， bian4 shi4 que4 lao3 yao4 。
-- bai3 nian2 zhong1 yi4 chui1 ， wu2 shi4 qie3 xing2 le4 。
+- zao2 shi2 wei2 qu2 shui3 you3 sheng1 ， si4 yuan2 wei2 qian4 zhu2 qing1 qing1 。
+- bi4 han2 ji4 yue4 guang1 qian1 zhang4 ， dai4 fu2 yun2 feng1 hua4 yi4 ping2 。
+- xiang1 yi4 ding4 ying1 lai2 jue2 dao3 ， cha2 gan1 chu1 bu2 jie4 zhong1 ling2 。
+- zhu3 ren2 mo4 xi1 qian1 jin1 fei4 ， geng4 zuo4 fei1 lou2 ni3 zhai1 xing1 。
 
 ## 注释
 

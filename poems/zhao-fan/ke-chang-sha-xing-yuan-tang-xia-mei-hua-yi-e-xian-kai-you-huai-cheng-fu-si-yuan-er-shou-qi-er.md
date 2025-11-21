@@ -6,10 +6,10 @@ titleSlug: ke-chang-sha-xing-yuan-tang-xia-mei-hua-yi-e-xian-kai-you-huai-cheng-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yue-xie-shi-zhi-chu-lie-shi-zhi-xiao-ji-bu-xing-zuo-shi-xi-zhi
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

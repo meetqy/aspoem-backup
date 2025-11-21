@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-zhi-yuan-zi-pi-ling-jian-ji-er-shou-qi-er
-title: 次韻致遠自毘陵見寄二首・其二
-titlePinyin: ci4 yun4 zhi4 yuan3 zi4 pi2 ling2 jian4 ji4 er4 shou3・qi2 er4
+title: 次韻致遠自毘陵見寄二首  其二
+titlePinyin: ci4 yun4 zhi4 yuan3 zi4 pi2 ling2 jian4 ji4 er4 shou3     qi2 er4
 titleSlug: ci-yun-zhi-yuan-zi-pi-ling-jian-ji-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

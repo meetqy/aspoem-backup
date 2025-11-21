@@ -6,25 +6,25 @@ titleSlug: yu-ji
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨洗炎蒸，危闌偶獨憑。
-- 凉颸生萃蔡，爽氣入鬅鬙。
-- 庭下宵遊燐，盤中晝掃蠅。
-- 絕勝塵土裏，馬上嚼寒冰。
+- 雨霽禽魚樂，風生草木香。
+- 老驚時易失，閑覺日偏長。
+- 閤閤蛙何怒，翩翩蝶許忙。
+- 閉門真得計，切勿變軒昂。
 
 ## 拼音
 
-- yi4 yu3 xi3 yan2 zheng1 ， wei1 lan2 ou3 du2 ping2 。
-- liang2 si1 sheng1 cui4 cai4 ， shuang3 qi4 ru4 peng2 seng1 。
-- ting2 xia4 xiao1 you2 lin2 ， pan2 zhong1 zhou4 sao3 ying2 。
-- jue2 sheng4 chen2 tu3 li3 ， ma3 shang4 jiao2 han2 bing1 。
+- yu3 ji4 qin2 yu2 le4 ， feng1 sheng1 cao3 mu4 xiang1 。
+- lao3 jing1 shi2 yi4 shi1 ， xian2 jue2 ri4 pian1 chang2 。
+- he2 he2 wa1 he2 nu4 ， pian1 pian1 die2 xu1 mang2 。
+- bi4 men2 zhen1 de2 ji4 ， qie4 wu4 bian4 xuan1 ang2 。
 
 ## 注释
 

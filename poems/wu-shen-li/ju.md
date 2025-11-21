@@ -6,10 +6,10 @@ titleSlug: ju
 author: 吳申李
 authorPinyin: wu2 shen1 li3
 authorSlug: wu-shen-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

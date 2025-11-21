@@ -6,10 +6,10 @@ titleSlug: song-shan-er-shi-si-yong-du-xiu-feng
 author: 樓异
 authorPinyin: lou2 yi4
 authorSlug: lou-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

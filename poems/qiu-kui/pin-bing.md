@@ -6,25 +6,25 @@ titleSlug: pin-bing
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貧與病相約，貧來病亦來。
-- 有僧時饋藥，無鬼敢輸財。
-- 酒債償仍欠，醫書閤又開。
-- 安貧吾自愛，且遣病魔回。
+- 貧似山僧瘦似猿，病軀只合老山村。
+- 空床鼿卼無氈卧，破褐繿縿有虱捫。
+- 作甫里翁垂釣艇，學猗玕子飲漥樽。
+- 前修追慕吾何敢，孤負西埔矩老言。
 
 ## 拼音
 
-- pin2 yu3 bing4 xiang1 yue1 ， pin2 lai2 bing4 yi4 lai2 。
-- you3 seng1 shi2 kui4 yao4 ， wu2 gui3 gan3 shu1 cai2 。
-- jiu3 zhai4 chang2 reng2 qian4 ， yi1 shu1 he2 you4 kai1 。
-- an1 pin2 wu2 zi4 ai4 ， qie3 qian3 bing4 mo2 hui2 。
+- pin2 si4 shan1 seng1 shou4 si4 yuan2 ， bing4 qu1 zhi1 he2 lao3 shan1 cun1 。
+- kong1 chuang2 wu4 wu4 wu2 zhan1 wo4 ， po4 he4 lan2 shan1 you3 shi1 men2 。
+- zuo4 fu3 li3 weng1 chui2 diao4 ting3 ， xue2 yi1 gan1 zi3 yin3 wa1 zun1 。
+- qian2 xiu1 zhui1 mu4 wu2 he2 gan3 ， gu1 fu4 xi1 pu3 ju3 lao3 yan2 。
 
 ## 注释
 

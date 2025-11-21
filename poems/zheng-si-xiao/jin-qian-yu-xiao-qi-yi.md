@@ -1,30 +1,30 @@
 ---
 id: zheng-si-xiao-jin-qian-yu-xiao-qi-yi
-title: 錦錢餘笑  其一
-titlePinyin: jin3 qian2 yu2 xiao4     qi2 yi1
+title: 錦錢餘笑  其一○
+titlePinyin: jin3 qian2 yu2 xiao4     qi2 yi1 ○
 titleSlug: jin-qian-yu-xiao-qi-yi
 author: 鄭思肖
 authorPinyin: zheng4 si1 xiao4
 authorSlug: zheng-si-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 有時業一笑，清於萬壑冰。
-- 有時吐一語，濁於三月春。
-- 所以天地閒，不著如是人。
-- 任之波波走，永劫長沉淪。
+- 蒼蠅亦奇哉，腹內矢何物。
+- 黑者變爲白，白者變爲黑。
+- 不換人活眼，何以化流俗。
+- 我來閻浮提，却喜無此術。
 
 ## 拼音
 
-- you3 shi2 ye4 yi2 xiao4 ， qing1 wu1 wan4 he4 bing1 。
-- you3 shi2 tu3 yi4 yu3 ， zhuo2 wu1 san1 yue4 chun1 。
-- suo3 yi3 tian1 di4 xian2 ， bu2 zhu4 ru2 shi4 ren2 。
-- ren4 zhi1 bo1 bo1 zou3 ， yong3 jie2 chang2 chen2 lun2 。
+- cang1 ying2 yi4 qi2 zai1 ， fu4 nei4 shi3 he2 wu4 。
+- hei1 zhe3 bian4 wei2 bai2 ， bai2 zhe3 bian4 wei2 hei1 。
+- bu2 huan4 ren2 huo2 yan3 ， he2 yi3 hua4 liu2 su2 。
+- wo3 lai2 yan2 fu2 ti2 ， que4 xi3 wu2 ci3 shu4 。
 
 ## 注释
 

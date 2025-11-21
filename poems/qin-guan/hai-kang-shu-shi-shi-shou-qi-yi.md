@@ -1,30 +1,30 @@
 ---
 id: qin-guan-hai-kang-shu-shi-shi-shou-qi-yi
-title: 海康書事十首  其一
-titlePinyin: hai3 kang1 shu1 shi4 shi2 shou3     qi2 yi1
+title: 海康書事十首  其一○
+titlePinyin: hai3 kang1 shu1 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: hai-kang-shu-shi-shi-shou-qi-yi
 author: 秦觀
 authorPinyin: qin2 guan1
 authorSlug: qin-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白髮坐鉤黨，南遷海瀕州。
-- 灌園以餬口，身自雜蒼頭。
-- 籬落秋暑中，碧花蔓牽牛。
-- 誰知把鋤人，舊日東陵侯。
+- 合浦古珠池，一熟胎如山。
+- 試問池邊蜑，云今累年閑。
+- 豈無明月珍，轉徙溟渤間。
+- 何關二千石，時至自當還。
 
 ## 拼音
 
-- bai2 fa4 zuo4 gou1 dang3 ， nan2 qian1 hai3 bin1 zhou1 。
-- guan4 yuan2 yi3 hu2 kou3 ， shen1 zi4 za2 cang1 tou2 。
-- li2 luo4 qiu1 shu3 zhong1 ， bi4 hua1 man4 qian1 niu2 。
-- shui2 zhi1 ba3 chu2 ren2 ， jiu4 ri4 dong1 ling2 hou2 。
+- he2 pu3 gu3 zhu1 chi2 ， yi4 shu2 tai1 ru2 shan1 。
+- shi4 wen4 chi2 bian1 dan4 ， yun2 jin1 lei3 nian2 xian2 。
+- qi3 wu2 ming2 yue4 zhen1 ， zhuan3 xi3 ming2 bo2 jian4 。
+- he2 guan1 er4 qian1 shi2 ， shi2 zhi4 zi4 dang1 huan2 。
 
 ## 注释
 

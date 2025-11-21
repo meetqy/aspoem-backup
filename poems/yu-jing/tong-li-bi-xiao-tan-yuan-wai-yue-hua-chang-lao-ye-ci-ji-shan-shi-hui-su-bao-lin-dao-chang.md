@@ -6,10 +6,10 @@ titleSlug: tong-li-bi-xiao-tan-yuan-wai-yue-hua-chang-lao-ye-ci-ji-shan-shi-hui-
 author: 余靖
 authorPinyin: yu2 jing4
 authorSlug: yu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

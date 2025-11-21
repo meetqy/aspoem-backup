@@ -6,10 +6,10 @@ titleSlug: ba-yue-shi-ri-su-bai-zhang-shan-qing-shan-yuan-ming-ri-you-song-feng-
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

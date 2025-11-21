@@ -6,10 +6,10 @@ titleSlug: gong-an-zao-fa
 author: 師嚴
 authorPinyin: shi1 yan2
 authorSlug: shi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

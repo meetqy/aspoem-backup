@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao-de-xiang-you-dao-shi-deng-jun-de-qing-hua-yin-cheng-gu-
 author: 釋自彰
 authorPinyin: shi4 zi4 zhang1
 authorSlug: shi-zi-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

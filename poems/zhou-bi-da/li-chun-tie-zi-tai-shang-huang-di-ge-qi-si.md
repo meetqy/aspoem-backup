@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-si
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青陽布治周三紀，黄屋非心正九年。
-- 聖子有爲今出震，天公不宰舊乘乾。
+- 一年好處是初春，十閣爭先奉聖人。
+- 綵勝寶幡簪帽巧，蘭芽蔬甲族盤新。
 
 ## 拼音
 
-- qing1 yang2 bu4 zhi4 zhou1 san1 ji4 ， huang2 wu1 fei1 xin1 zheng4 jiu3 nian2 。
-- sheng4 zi3 you3 wei2 jin1 chu1 zhen4 ， tian1 gong1 bu4 zai3 jiu4 cheng2 qian2 。
+- yi4 nian2 hao3 chu3 shi4 chu1 chun1 ， shi2 ge2 zheng1 xian1 feng4 sheng4 ren2 。
+- cai3 sheng4 bao3 fan1 zan1 mao4 qiao3 ， lan2 ya2 shu1 jia3 zu2 pan2 xin1 。
 
 ## 注释
 

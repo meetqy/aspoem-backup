@@ -6,9 +6,9 @@ titleSlug: xi-zuo
 author: 陳彥才
 authorPinyin: chen2 yan4 cai2
 authorSlug: chen-yan-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

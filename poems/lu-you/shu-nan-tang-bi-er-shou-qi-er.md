@@ -6,25 +6,25 @@ titleSlug: shu-nan-tang-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荒寒淺村步，隱翳小茅茨。
-- 偶逐漁樵住，都忘歲月移。
-- 閑惟接僧話，老始愛陶詩。
-- 耆齒猶須幾，羸然敢自期。
+- 心溷元知面合團，愚公骨相却酸寒。
+- 雲山萬疊猶嫌淺，茆屋三間已覺寬。
+- 菜長何妨供小摘，花開聊得助幽歡。
+- 今朝忽有西村興，著起芒鞋不作難。
 
 ## 拼音
 
-- huang1 han2 qian3 cun1 bu4 ， yin3 yi4 xiao3 mao2 ci2 。
-- ou3 zhu2 yu2 qiao2 zhu4 ， dou1 wang4 sui4 yue4 yi2 。
-- xian2 wei2 jie1 seng1 hua4 ， lao3 shi3 ai4 tao2 shi1 。
-- qi2 chi3 you2 xu1 ji1 ， lei2 ran2 gan3 zi4 qi1 。
+- xin1 hun4 yuan2 zhi1 mian4 he2 tuan2 ， yu2 gong1 gu3 xiang1 que4 suan1 han2 。
+- yun2 shan1 wan4 die2 you2 xian2 qian3 ， mao2 wu1 san1 jian4 yi3 jue2 kuan1 。
+- cai4 chang2 he2 fang2 gong4 xiao3 zhai1 ， hua1 kai1 liao2 de2 zhu4 you1 huan1 。
+- jin1 zhao1 hu1 you3 xi1 cun1 xing1 ， zhu4 qi3 mang2 xie2 bu2 zuo4 nan2 。
 
 ## 注释
 

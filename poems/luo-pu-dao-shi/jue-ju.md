@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 洛浦道士
 authorPinyin: luo4 pu3 dao4 shi0
 authorSlug: luo-pu-dao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

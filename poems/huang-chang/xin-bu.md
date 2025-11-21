@@ -6,27 +6,21 @@ titleSlug: xin-bu
 author: 黄裳
 authorPinyin: huang2 chang2
 authorSlug: huang-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閒適無他事，優遊有此身。
-- 禽魚窺物性，草木露天真。
-- 靜味祇獨覺，幽香還自陳。
-- 行雲難問信，流水莫知因。
-- 漁父偶相值，笑談猶及秦。
+- 樂道有真侶，好山無俗交。
+- 野花將逸興，不覺到巖坳。
 
 ## 拼音
 
-- xian2 shi4 wu2 ta1 shi4 ， you1 you2 you3 ci3 shen1 。
-- qin2 yu2 kui1 wu4 xing4 ， cao3 mu4 lu4 tian1 zhen1 。
-- jing4 wei4 qi2 du2 jue2 ， you1 xiang1 huan2 zi4 chen2 。
-- xing2 yun2 nan2 wen4 xin4 ， liu2 shui3 mo4 zhi1 yin1 。
-- yu2 fu4 ou3 xiang1 zhi2 ， xiao4 tan2 you2 ji2 qin2 。
+- le4 dao4 you3 zhen1 lü3 ， hao3 shan1 wu2 su2 jiao1 。
+- ye3 hua1 jiang1 yi4 xing1 ， bu4 jue2 dao4 yan2 ao4 。
 
 ## 注释
 

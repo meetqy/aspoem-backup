@@ -6,10 +6,10 @@ titleSlug: ci-yun-hu-zhong-fang-yin-yang-bai-zi-jian-ji-qi-er
 author: 朱繼芳
 authorPinyin: zhu1 ji4 fang1
 authorSlug: zhu-ji-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

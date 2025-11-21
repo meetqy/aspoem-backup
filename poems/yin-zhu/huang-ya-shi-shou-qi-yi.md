@@ -1,30 +1,30 @@
 ---
 id: yin-zhu-huang-ya-shi-shou-qi-yi
-title: 皇雅十首  其一
-titlePinyin: huang2 ya3 shi2 shou3     qi2 yi1
+title: 皇雅十首  其一○
+titlePinyin: huang2 ya3 shi2 shou3     qi2 yi1 ○
 titleSlug: huang-ya-shi-shou-qi-yi
 author: 尹洙
 authorPinyin: yin3 zhu1
 authorSlug: yin-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天監下民，亂靡有定。
-- 甚武且仁，祚厥真聖。
-- 仁實懷徠，武以執競。
-- 匪虔匪劉，拯我大命。
+- 蜀民呼歌，天子威靈。
+- 保我者封，暴我者刑。
+- 匪功是私，匪弱是陵。
+- 天子惠民，疇敢不承。
 
 ## 拼音
 
-- tian1 jian1 xia4 min2 ， luan4 mi2 you3 ding4 。
-- shen4 wu3 qie3 ren2 ， zuo4 jue2 zhen1 sheng4 。
-- ren2 shi2 huai2 lai2 ， wu3 yi3 zhi2 jing4 。
-- fei3 qian2 fei3 liu2 ， zheng3 wo3 da4 ming4 。
+- shu3 min2 hu1 ge1 ， tian1 zi3 wei1 ling2 。
+- bao3 wo3 zhe3 feng1 ， bao4 wo3 zhe3 xing2 。
+- fei3 gong1 shi4 si1 ， fei3 ruo4 shi4 ling2 。
+- tian1 zi3 hui4 min2 ， chou2 gan3 bu4 cheng2 。
 
 ## 注释
 

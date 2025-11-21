@@ -6,25 +6,25 @@ titleSlug: qiu-wan-shu-gan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 丘塚相望故舊空，放翁猶復寄漚中。
-- 少眠危坐待窗白，得酒細傾生頰紅。
-- 雖愧蛟龍起雲雨，尚勝魚鳥困池籠。
-- 秋來莫道無遊興，野渡村橋處處通。
+- 犧象初心豈願才，溝中雖斷不須哀。
+- 吾生自信雲舒卷，客態誰論燕去來。
+- 夕露正看沾草棘，晨霜已見落楸槐。
+- 耄年閉戶真無憾，葑火更闌熟芋魁。
 
 ## 拼音
 
-- qiu1 zhong3 xiang1 wang4 gu4 jiu4 kong1 ， fang4 weng1 you2 fu4 ji4 ou1 zhong1 。
-- shao3 mian2 wei1 zuo4 dai4 chuang1 bai2 ， de2 jiu3 xi4 qing1 sheng1 jia2 hong2 。
-- sui1 kui4 jiao1 long2 qi3 yun2 yu3 ， shang4 sheng4 yu2 niao3 kun4 chi2 long2 。
-- qiu1 lai2 mo4 dao4 wu2 you2 xing1 ， ye3 du4 cun1 qiao2 chu3 chu3 tong1 。
+- xi1 xiang4 chu1 xin1 qi3 yuan4 cai2 ， gou1 zhong1 sui1 duan4 bu4 xu1 ai1 。
+- wu2 sheng1 zi4 xin4 yun2 shu1 juan3 ， ke4 tai4 shui2 lun4 yan4 qu4 lai2 。
+- xi1 lu4 zheng4 kan4 zhan1 cao3 ji2 ， chen2 shuang1 yi3 jian4 luo4 qiu1 huai2 。
+- mao4 nian2 bi4 hu4 zhen1 wu2 han4 ， feng1 huo3 geng4 lan2 shu2 yu4 kui2 。
 
 ## 注释
 

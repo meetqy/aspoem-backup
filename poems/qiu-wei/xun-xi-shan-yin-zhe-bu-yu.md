@@ -6,10 +6,10 @@ titleSlug: xun-xi-shan-yin-zhe-bu-yu
 author: 丘爲
 authorPinyin: qiu1 wei2
 authorSlug: qiu-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

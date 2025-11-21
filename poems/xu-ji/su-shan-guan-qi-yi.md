@@ -1,30 +1,30 @@
 ---
 id: xu-ji-su-shan-guan-qi-yi
-title: 宿山館  其一
-titlePinyin: su4 shan1 guan3     qi2 yi1
+title: 宿山館  其一○
+titlePinyin: su4 shan1 guan3     qi2 yi1 ○
 titleSlug: su-shan-guan-qi-yi
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 下馬開門日已沈，旋尋村路乞樵燈。
-- 隔雲吠去誰家犬，踏月歸來何處僧。
-- 潭上風生千嶂吼，枕前泉落一床冰。
-- 呼兒笑問今宵事，身在危峰第幾層。
+- 遠村樵採皆歸舍，近澗人烟已上燈。
+- 黍飯未炊催秣馬，蕨羹初熟喜逢僧。
+- 獸爭食鬬牙磨血，鳥近泉棲羽刷冰。
+- 若到紅塵人見問，不將水溜結爲層。
 
 ## 拼音
 
-- xia4 ma3 kai1 men2 ri4 yi3 shen3 ， xuan2 xun2 cun1 lu4 qi3 qiao2 deng1 。
-- ge2 yun2 fei4 qu4 shui2 jia1 quan3 ， ta4 yue4 gui1 lai2 he2 chu3 seng1 。
-- tan2 shang4 feng1 sheng1 qian1 zhang4 hou3 ， zhen3 qian2 quan2 luo4 yi4 chuang2 bing1 。
-- hu1 er2 xiao4 wen4 jin1 xiao1 shi4 ， shen1 zai4 wei1 feng1 di4 ji1 ceng2 。
+- yuan3 cun1 qiao2 cai3 jie1 gui1 she4 ， jin4 jian4 ren2 yan1 yi3 shang4 deng1 。
+- shu3 fan4 wei4 chui1 cui1 mo4 ma3 ， jue2 geng1 chu1 shu2 xi3 feng2 seng1 。
+- shou4 zheng1 shi2 dou4 ya2 mo2 xue4 ， niao3 jin4 quan2 qi1 yu3 shua1 bing1 。
+- ruo4 dao4 hong2 chen2 ren2 jian4 wen4 ， bu4 jiang1 shui3 liu4 jie2 wei2 ceng2 。
 
 ## 注释
 

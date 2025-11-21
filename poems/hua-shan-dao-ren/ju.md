@@ -6,10 +6,10 @@ titleSlug: ju
 author: 華山道人
 authorPinyin: hua2 shan1 dao4 ren2
 authorSlug: hua-shan-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

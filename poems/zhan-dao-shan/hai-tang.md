@@ -6,10 +6,10 @@ titleSlug: hai-tang
 author: 湛道山
 authorPinyin: zhan4 dao4 shan1
 authorSlug: zhan-dao-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

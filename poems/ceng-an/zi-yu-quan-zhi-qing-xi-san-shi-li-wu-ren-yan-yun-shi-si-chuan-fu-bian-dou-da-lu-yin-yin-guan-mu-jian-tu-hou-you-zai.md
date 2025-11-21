@@ -6,10 +6,10 @@ titleSlug: zi-yu-quan-zhi-qing-xi-san-shi-li-wu-ren-yan-yun-shi-si-chuan-fu-bian
 author: 曾黯
 authorPinyin: ceng2 an4
 authorSlug: ceng-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

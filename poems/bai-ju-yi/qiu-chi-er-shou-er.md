@@ -9,22 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鑿池貯秋水，中有蘋與芰。
-- 天旱水暗消，塌然委空地。
-- 有似泛泛者，附離權與貴。
-- 一旦恩勢移，相隨共顦顇。
+- 朝衣薄且健，晚簟清仍滑。
+- 社近燕影稀，雨餘蟬聲歇。
+- 閑中得詩境，此境幽難說。
+- 露荷珠自傾，風竹玉相戛。
+- 誰能一同宿，共翫新秋月。
+- 暑退早涼歸，池邊好時節。
 
 ## 拼音
 
-- zao2 chi2 zhu4 qiu1 shui3 ， zhong1 you3 pin2 yu3 ji4 。
-- tian1 han4 shui3 an4 xiao1 ， ta1 ran2 wei3 kong4 di4 。
-- you3 si4 fan4 fan4 zhe3 ， fu4 li2 quan2 yu3 gui4 。
-- yi2 dan4 en1 shi4 yi2 ， xiang1 sui2 gong4 qiao2 cui4 。
+- chao2 yi1 bao2 qie3 jian4 ， wan3 dian4 qing1 reng2 hua2 。
+- she4 jin4 yan4 ying3 xi1 ， yu3 yu2 chan2 sheng1 xie1 。
+- xian2 zhong1 de2 shi1 jing4 ， ci3 jing4 you1 nan2 shuo1 。
+- lu4 he2 zhu1 zi4 qing1 ， feng1 zhu2 yu4 xiang1 jia2 。
+- shui2 neng2 yi4 tong2 su4 ， gong4 wan2 xin1 qiu1 yue4 。
+- shu3 tui4 zao3 liang2 gui1 ， chi2 bian1 hao3 shi2 jie2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhong-you-lin-wu-xiu-yan-qi-er
 author: 曾晞顔
 authorPinyin: ceng2 xi1 yan2
 authorSlug: ceng-xi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

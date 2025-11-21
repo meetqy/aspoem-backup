@@ -6,25 +6,25 @@ titleSlug: jia-ju
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 賃廡接中林，迷途感慨深。
-- 窮年不材木，提月退飛禽。
-- 官宇昏投版，私囊利挫針。
-- 病呻無用怪，不是顯時吟。
+- 鬰鬰行何適，肩肩體寖臞。
+- 安人非善宦，甯子是真愚。
+- 北化隨江枳，東遊謝海桴。
+- 何須命私駕，危涕避窮途。
 
 ## 拼音
 
-- lin4 wu3 jie1 zhong1 lin2 ， mi2 tu2 gan3 kai3 shen1 。
-- qiong2 nian2 bu4 cai2 mu4 ， ti2 yue4 tui4 fei1 qin2 。
-- guan1 yu3 hun1 tou2 ban3 ， si1 nang2 li4 cuo4 zhen1 。
-- bing4 shen1 wu2 yong4 guai4 ， bu2 shi4 xian3 shi2 yin2 。
+- yu4 yu4 xing2 he2 shi4 ， jian1 jian1 ti3 jin4 qu2 。
+- an1 ren2 fei1 shan4 huan4 ， ning2 zi3 shi4 zhen1 yu2 。
+- bei3 hua4 sui2 jiang1 zhi3 ， dong1 you2 xie4 hai3 fu2 。
+- he2 xu1 ming4 si1 jia4 ， wei1 ti4 bi4 qiong2 tu2 。
 
 ## 注释
 

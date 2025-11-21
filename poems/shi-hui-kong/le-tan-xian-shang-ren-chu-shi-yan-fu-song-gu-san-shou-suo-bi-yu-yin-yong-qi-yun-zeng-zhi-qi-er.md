@@ -6,9 +6,9 @@ titleSlug: le-tan-xian-shang-ren-chu-shi-yan-fu-song-gu-san-shou-suo-bi-yu-yin-y
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

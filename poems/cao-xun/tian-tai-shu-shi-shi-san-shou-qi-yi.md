@@ -1,26 +1,26 @@
 ---
 id: cao-xun-tian-tai-shu-shi-shi-san-shou-qi-yi
-title: 天台書事十三首  其一
-titlePinyin: tian1 tai2 shu1 shi4 shi2 san1 shou3     qi2 yi1
+title: 天台書事十三首  其一○
+titlePinyin: tian1 tai2 shu1 shi4 shi2 san1 shou3     qi2 yi1 ○
 titleSlug: tian-tai-shu-shi-shi-san-shou-qi-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南窗面日北窗寒，終日南窗體甚安。
-- 向道老來惟倦坐，看銷一縷篆烟殘。
+- 雲出雲歸山未靜，潮生潮落海非閑。
+- 豈如此老猶强健，一挂冠裳便掩關。
 
 ## 拼音
 
-- nan2 chuang1 mian4 ri4 bei3 chuang1 han2 ， zhong1 ri4 nan2 chuang1 ti3 shen4 an1 。
-- xiang4 dao4 lao3 lai2 wei2 juan4 zuo4 ， kan4 xiao1 yi4 lü3 zhuan4 yan1 can2 。
+- yun2 chu1 yun2 gui1 shan1 wei4 jing4 ， chao2 sheng1 chao2 luo4 hai3 fei1 xian2 。
+- qi3 ru2 ci3 lao3 you2 qiang2 jian4 ， yi2 gua4 guan1 shang0 bian4 yan3 guan1 。
 
 ## 注释
 

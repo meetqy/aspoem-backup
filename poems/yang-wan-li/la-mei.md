@@ -6,21 +6,25 @@ titleSlug: la-mei
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天向梅梢別出奇，國香未許世人知。
-- 殷勤滴蠟緘封却，偷被霜風拆一枝。
+- 栗玉圓彫蕾，金鍾細著行。
+- 來從真蠟國，自號小黄香。
+- 夕吹撩寒馥，晨曦透暖光。
+- 南枝本同姓，喚我作它楊。
 
 ## 拼音
 
-- tian1 xiang4 mei2 shao1 bie2 chu1 qi2 ， guo2 xiang1 wei4 xu1 shi4 ren2 zhi1 。
-- yin1 qin2 di1 la4 jian1 feng1 que4 ， tou1 bei4 shuang1 feng1 chai1 yi4 zhi1 。
+- li4 yu4 yuan2 diao1 lei3 ， jin1 zhong1 xi4 zhu4 xing2 。
+- lai2 cong2 zhen1 la4 guo2 ， zi4 hao4 xiao3 huang2 xiang1 。
+- xi1 chui1 liao2 han2 fu4 ， chen2 xi1 tou4 nuan3 guang1 。
+- nan2 zhi1 ben3 tong2 xing4 ， huan4 wo3 zuo4 ta1 yang2 。
 
 ## 注释
 

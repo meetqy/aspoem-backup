@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ke-xiao-kou-hao-qi-yi
-title: 可笑口號・其一
-titlePinyin: ke3 xiao4 kou3 hao4・qi2 yi1
+title: 可笑口號  其一
+titlePinyin: ke3 xiao4 kou3 hao4     qi2 yi1
 titleSlug: ke-xiao-kou-hao-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -9,22 +9,26 @@ authorSlug: wang-jian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 忽自見憔悴，壯年人亦疑。
-- 髮緣多病落，力爲不行衰。
-- 暖手揉雙目，看圖引四肢。
-- 老來真愛道，所恨覺還遲。
+- 終日自纏繞，此身無適緣。
+- 萬愁生旅夜，百病湊衰年。
+- 少睡憎明屋，慵行待暖天。
+- 癢頭梳有蝨，風耳炙聞蟬。
+- 搖白方多錯，迴金法不全。
+- 家貧何所戀，時在老僧邊。
 
 ## 拼音
 
-- hu1 zi4 jian4 qiao2 cui4 ， zhuang4 nian2 ren2 yi4 yi2 。
-- fa4 yuan2 duo1 bing4 luo4 ， li4 wei2 bu4 xing2 shuai1 。
-- nuan3 shou3 rou2 shuang1 mu4 ， kan4 tu2 yin3 si4 zhi1 。
-- lao3 lai2 zhen1 ai4 dao4 ， suo3 hen4 jue2 huan2 chi2 。
+- zhong1 ri4 zi4 chan2 rao4 ， ci3 shen1 wu2 shi4 yuan2 。
+- wan4 chou2 sheng1 lü3 ye4 ， bai3 bing4 cou4 shuai1 nian2 。
+- shao3 shui4 zeng1 ming2 wu1 ， yong1 xing2 dai4 nuan3 tian1 。
+- yang3 tou2 shu1 you3 shi1 ， feng1 er3 zhi4 wen2 chan2 。
+- yao2 bai2 fang1 duo1 cuo4 ， hui2 jin1 fa3 bu4 quan2 。
+- jia1 pin2 he2 suo3 lian4 ， shi2 zai4 lao3 seng1 bian1 。
 
 ## 注释
 

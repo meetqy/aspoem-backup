@@ -6,10 +6,10 @@ titleSlug: yi-yun-he-yi-fu-ji-shi-wu-shou-qi-yi
 author: 陸佃
 authorPinyin: lu4 dian4
 authorSlug: lu-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

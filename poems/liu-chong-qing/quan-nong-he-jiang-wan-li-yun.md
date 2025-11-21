@@ -6,10 +6,10 @@ titleSlug: quan-nong-he-jiang-wan-li-yun
 author: 劉崇卿
 authorPinyin: liu2 chong2 qing1
 authorSlug: liu-chong-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

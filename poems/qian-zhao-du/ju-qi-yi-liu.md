@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi-liu
 author: 錢昭度
 authorPinyin: qian2 zhao1 du4
 authorSlug: qian-zhao-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

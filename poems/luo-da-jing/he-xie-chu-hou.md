@@ -6,10 +6,10 @@ titleSlug: he-xie-chu-hou
 author: 羅大經
 authorPinyin: luo2 da4 jing1
 authorSlug: luo-da-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

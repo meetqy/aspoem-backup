@@ -1,26 +1,26 @@
 ---
 id: wang-shi-peng-lu-yin-ting-er-shi-jue-qi-er
-title: 率飲亭二十絕  其二
-titlePinyin: lü4 yin3 ting2 er4 shi2 jue2     qi2 er4
+title: 率飲亭二十絕  其二○
+titlePinyin: lü4 yin3 ting2 er4 shi2 jue2     qi2 er4 ○
 titleSlug: lu-yin-ting-er-shi-jue-qi-er
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒼頭稍知耕，赤脚頗能釀。
-- 有田俱種秫，我日坐亭上。
+- 有口但飲酒，無悰亦作詩。
+- 它年宦南北，還憶在家時。
 
 ## 拼音
 
-- cang1 tou2 shao1 zhi1 geng1 ， chi4 jiao3 po1 neng2 niang4 。
-- you3 tian2 ju4 zhong3 shu2 ， wo3 ri4 zuo4 ting2 shang4 。
+- you3 kou3 dan4 yin3 jiu3 ， wu2 cong2 yi4 zuo4 shi1 。
+- ta1 nian2 huan4 nan2 bei3 ， huan2 yi4 zai4 jia1 shi2 。
 
 ## 注释
 

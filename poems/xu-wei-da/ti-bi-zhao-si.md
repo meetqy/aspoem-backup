@@ -6,10 +6,10 @@ titleSlug: ti-bi-zhao-si
 author: 徐偉達
 authorPinyin: xu2 wei3 da2
 authorSlug: xu-wei-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

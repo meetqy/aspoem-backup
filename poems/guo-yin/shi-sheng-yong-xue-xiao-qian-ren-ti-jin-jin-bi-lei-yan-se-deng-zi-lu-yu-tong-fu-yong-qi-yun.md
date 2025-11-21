@@ -6,10 +6,10 @@ titleSlug: shi-sheng-yong-xue-xiao-qian-ren-ti-jin-jin-bi-lei-yan-se-deng-zi-lu-
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: lin-chuan-xian-zhi-gu-gui-liang-da-zhu-yu-ye-qian-zhong-wu-wen-bo-yin
 author: 趙汝鐩
 authorPinyin: zhao4 ru3 sui4
 authorSlug: zhao-ru-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

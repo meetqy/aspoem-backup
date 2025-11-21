@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 郭三益
 authorPinyin: guo1 san1 yi4
 authorSlug: guo-san-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

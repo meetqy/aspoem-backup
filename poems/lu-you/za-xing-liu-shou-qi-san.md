@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老無添處仍逢病，春欲殘時未減寒。
-- 架上漢書渾忘盡，床頭周易却常看。
+- 愛物停垂釣，劬身自荷鋤。
+- 時從鄰父飲，日授稚孫書。
+- 尚棄登山屐，寧須下澤車。
+- 平生雙不借，投老伴歸歟。
 
 ## 拼音
 
-- lao3 wu2 tian1 chu3 reng2 feng2 bing4 ， chun1 yu4 can2 shi2 wei4 jian3 han2 。
-- jia4 shang4 han4 shu1 hun2 wang4 jin4 ， chuang2 tou2 zhou1 yi4 que4 chang2 kan4 。
+- ai4 wu4 ting2 chui2 diao4 ， qu2 shen1 zi4 he2 chu2 。
+- shi2 cong2 lin2 fu4 yin3 ， ri4 shou4 zhi4 sun1 shu1 。
+- shang4 qi4 deng1 shan1 ji1 ， ning2 xu1 xia4 ze2 ju1 。
+- ping2 sheng1 shuang1 bu2 jie4 ， tou2 lao3 ban4 gui1 yu2 。
 
 ## 注释
 

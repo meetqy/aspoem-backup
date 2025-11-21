@@ -6,10 +6,10 @@ titleSlug: ci-yun-tian-qi-xi-wei-shan-ju-zhi-zuo
 author: 余幹
 authorPinyin: yu2 gan4
 authorSlug: yu-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

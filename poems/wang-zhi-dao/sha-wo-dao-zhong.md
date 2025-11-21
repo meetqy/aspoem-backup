@@ -6,25 +6,25 @@ titleSlug: sha-wo-dao-zhong
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 十里沙窩路，晴雲向暮開。
-- 褰裳九過水，駐馬一觀梅。
-- 歲晚松篁茂，山寒虎豹哀。
-- 不因王事迫，誰肯此間來。
+- 疊疊青山處處溪，溪聲淙玉潄玻瓈。
+- 懸知菊水人難老，可信桃源路易迷。
+- 山嶺梅花迎客笑，路傍松盖與雲齊。
+- 寒林昨夜微經雨，新跡分明過虎蹄。
 
 ## 拼音
 
-- shi2 li3 sha1 wo1 lu4 ， qing2 yun2 xiang4 mu4 kai1 。
-- qian1 shang0 jiu3 guo4 shui3 ， zhu4 ma3 yi4 guan1 mei2 。
-- sui4 wan3 song1 huang2 mao4 ， shan1 han2 hu3 bao4 ai1 。
-- bu4 yin1 wang2 shi4 po4 ， shui2 ken3 ci3 jian4 lai2 。
+- die2 die2 qing1 shan1 chu3 chu3 xi1 ， xi1 sheng1 cong2 yu4 shu4 bo1 li2 。
+- xuan2 zhi1 ju2 shui3 ren2 nan2 lao3 ， ke3 xin4 tao2 yuan2 lu4 yi4 mi2 。
+- shan1 ling3 mei2 hua1 ying2 ke4 xiao4 ， lu4 bang4 song1 gai4 yu3 yun2 qi2 。
+- han2 lin2 zuo2 ye4 wei1 jing1 yu3 ， xin1 ji4 fen1 ming2 guo4 hu3 ti2 。
 
 ## 注释
 

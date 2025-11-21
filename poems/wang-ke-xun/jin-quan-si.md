@@ -6,10 +6,10 @@ titleSlug: jin-quan-si
 author: 王克遜
 authorPinyin: wang2 ke4 xun4
 authorSlug: wang-ke-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

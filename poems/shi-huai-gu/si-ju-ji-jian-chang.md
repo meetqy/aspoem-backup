@@ -6,10 +6,10 @@ titleSlug: si-ju-ji-jian-chang
 author: 釋懷古
 authorPinyin: shi4 huai2 gu3
 authorSlug: shi-huai-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

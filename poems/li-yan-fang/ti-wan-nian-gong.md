@@ -6,10 +6,10 @@ titleSlug: ti-wan-nian-gong
 author: 李彥方
 authorPinyin: li3 yan4 fang1
 authorSlug: li-yan-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,18 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 隨夢入池塘，無心在金谷。
-- 春風自年年，吹遍天涯綠。
+- 天北天南遶路邊，托根無處不延綿。
+- 萋萋總是無情物，吹綠東風又一年。
 
 ## 拼音
 
-- sui2 meng4 ru4 chi2 tang2 ， wu2 xin1 zai4 jin1 gu3 。
-- chun1 feng1 zi4 nian2 nian2 ， chui1 bian4 tian1 ya2 lü4 。
+- tian1 bei3 tian1 nan2 rao4 lu4 bian1 ， tuo1 gen1 wu2 chu3 bu4 yan2 mian2 。
+- qi1 qi1 zong3 shi4 wu2 qing2 wu4 ， chui1 lü4 dong1 feng1 you4 yi4 nian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: pian-pian-gong-zhi-zhang-xi-shi-san-zhang-ji-wang-jie-fu-qi-san
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

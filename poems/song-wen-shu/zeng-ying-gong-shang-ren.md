@@ -6,9 +6,9 @@ titleSlug: zeng-ying-gong-shang-ren
 author: 宋溫舒
 authorPinyin: song4 wen1 shu1
 authorSlug: song-wen-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

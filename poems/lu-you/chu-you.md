@@ -6,25 +6,25 @@ titleSlug: chu-you
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬里崎嶇蜀道歸，荆州非復壯遊時。
-- 行吟自怪詩情减，坐睡人驚酒量衰。
-- 卷地風號雲夢澤，黏天草映伏波祠。
-- 一枝藤杖平生事，擊鼓開帆未恨遲。
+- 儘道衰翁嬾，乘閑亦出門。
+- 修琴來竹院，采藥宿山村。
+- 雪路鳴長耳，烟堤駕獨轅。
+- 殘年常自在，何以報君恩。
 
 ## 拼音
 
-- wan4 li3 qi2 qu1 shu3 dao4 gui1 ， jing1 zhou1 fei1 fu4 zhuang4 you2 shi2 。
-- xing2 yin2 zi4 guai4 shi1 qing2 jian3 ， zuo4 shui4 ren2 jing1 jiu3 liang4 shuai1 。
-- juan4 di4 feng1 hao4 yun2 meng4 ze2 ， nian2 tian1 cao3 ying4 fu2 bo1 ci2 。
-- yi4 zhi1 teng2 zhang4 ping2 sheng1 shi4 ， ji1 gu3 kai1 fan1 wei4 hen4 chi2 。
+- jin3 dao4 shuai1 weng1 lan3 ， cheng2 xian2 yi4 chu1 men2 。
+- xiu1 qin2 lai2 zhu2 yuan4 ， cai3 yao4 su4 shan1 cun1 。
+- xue3 lu4 ming2 chang2 er3 ， yan1 di1 jia4 du2 yuan2 。
+- can2 nian2 chang2 zi4 zai4 ， he2 yi3 bao4 jun1 en1 。
 
 ## 注释
 

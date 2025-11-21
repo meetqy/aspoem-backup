@@ -6,10 +6,10 @@ titleSlug: yu-ming-wei-you-hao-er-xiao-yin-zuo-shi-yi-qiong-hua-wei-er-jue-dang-
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

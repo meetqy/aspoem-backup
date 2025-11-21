@@ -6,10 +6,10 @@ titleSlug: gu-shi-xiang-guo-jin-yin-zi-shou-san-gong-yi-ru-zhi-zuo-jin-yin-ci
 author: 王質
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

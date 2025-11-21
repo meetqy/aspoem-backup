@@ -9,18 +9,18 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 顏色無因饒錦繡，馨香惟解掩蘭蓀。
-- 那堪更被煙蒙蔽，南國西施泣斷魂。
+- 青帝於君事分偏，穠堆浮豔倚朱門。
+- 雖然占得笙歌地，將甚酬他雨露恩。
 
 ## 拼音
 
-- yan2 se4 wu2 yin1 rao2 jin3 xiu4 ， xin1 xiang1 wei2 jie3 yan3 lan2 sun1 。
-- na4 kan1 geng4 bei4 yan1 meng2 bi4 ， nan2 guo2 xi1 shi1 qi4 duan4 hun2 。
+- qing1 di4 wu1 jun1 shi4 fen1 pian1 ， nong2 dui1 fu2 yan4 yi3 zhu1 men2 。
+- sui1 ran2 zhan4 de2 sheng1 ge1 di4 ， jiang1 shen4 chou2 ta1 yu3 lu4 en1 。
 
 ## 注释
 

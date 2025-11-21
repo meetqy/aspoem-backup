@@ -6,10 +6,10 @@ titleSlug: su-jia-dao-yi
 author: 時澐
 authorPinyin: shi2 yun2
 authorSlug: shi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

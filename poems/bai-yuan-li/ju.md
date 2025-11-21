@@ -6,10 +6,10 @@ titleSlug: ju
 author: 白元禮
 authorPinyin: bai2 yuan2 li3
 authorSlug: bai-yuan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

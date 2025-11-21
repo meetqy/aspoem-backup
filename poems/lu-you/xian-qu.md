@@ -6,25 +6,25 @@ titleSlug: xian-qu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 濯罷銅駞陌上塵，此生長作水雲人。
-- 更貧家業猶供酒，未死年光盡屬身。
-- 閉户棋聲聞腷膊，卷簾山色對嶙峋。
-- 貴公漫說林間事，東路何人岸角巾。
+- 絕迹市朝外，結廬雲水間。
+- 心平詩淡泊，身退夢安閑。
+- 有酒旋尋伴，無門那說關。
+- 桐江故不遠，日暮趁潮還。
 
 ## 拼音
 
-- zhuo2 ba4 tong2 tuo2 mo4 shang4 chen2 ， ci3 sheng1 chang2 zuo4 shui3 yun2 ren2 。
-- geng4 pin2 jia1 ye4 you2 gong4 jiu3 ， wei4 si3 nian2 guang1 jin4 shu3 shen1 。
-- bi4 hu4 qi2 sheng1 wen2 bi4 bo2 ， juan4 lian2 shan1 se4 dui4 lin2 xun2 。
-- gui4 gong1 man4 shuo1 lin2 jian4 shi4 ， dong1 lu4 he2 ren2 an4 jiao3 jin1 。
+- jue2 ji4 shi4 chao2 wai4 ， jie2 lu2 yun2 shui3 jian4 。
+- xin1 ping2 shi1 dan4 bo2 ， shen1 tui4 meng4 an1 xian2 。
+- you3 jiu3 xuan2 xun2 ban4 ， wu2 men2 na4 shuo1 guan1 。
+- tong2 jiang1 gu4 bu4 yuan3 ， ri4 mu4 chen4 chao2 huan2 。
 
 ## 注释
 

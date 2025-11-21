@@ -6,10 +6,10 @@ titleSlug: xian-zhi-shan-lao-xu-yi-cao-an-jian-chu-zuo-shi-yi-yue-zhi
 author: 孫覺
 authorPinyin: sun1 jue2
 authorSlug: sun-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

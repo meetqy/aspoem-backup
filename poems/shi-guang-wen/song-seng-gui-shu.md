@@ -6,21 +6,21 @@ titleSlug: song-seng-gui-shu
 author: 釋廣聞
 authorPinyin: shi4 guang3 wen2
 authorSlug: shi-guang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾經巴峽聽啼猿，萬想千思舉不全。
-- 一萬里風吹夢轉，月明人上錦江船。
+- 脫得南方馿馬群，相逢無法可呈君。
+- 看儂百衲袈裟上，半是吳雲半楚雲。
 
 ## 拼音
 
-- ceng2 jing1 ba1 xia2 ting1 ti2 yuan2 ， wan4 xiang3 qian1 si1 ju3 bu4 quan2 。
-- yi2 wan4 li3 feng1 chui1 meng4 zhuan3 ， yue4 ming2 ren2 shang4 jin3 jiang1 chuan2 。
+- tuo1 de2 nan2 fang1 lu2 ma3 qun2 ， xiang1 feng2 wu2 fa3 ke3 cheng2 jun1 。
+- kan4 nong2 bai3 na4 jia1 sha1 shang4 ， ban4 shi4 wu2 yun2 ban4 chu3 yun2 。
 
 ## 注释
 

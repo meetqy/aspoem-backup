@@ -1,30 +1,24 @@
 ---
 id: chen-zao-shu-huai
-title: 書懷
-titlePinyin: shu1 huai2
+title: 述懷
+titlePinyin: shu4 huai2
 titleSlug: shu-huai
-author: 陳造
-authorPinyin: chen2 zao4
+author: 陳藻
+authorPinyin: chen2 zao3
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人間窮達命污隆，作意功名欲捕風。
-- 但見劉班誤車子，何曾鄧禹笑王融。
-- 官曹得飽餘何事，書課乘閑亦雋功。
-- 少待蓴鱸付張翰，一溪風月放船篷。
+- 病身四十未妻孥，墟墓那堪兩世孤。
 
 ## 拼音
 
-- ren2 jian4 qiong2 da2 ming4 wu1 long2 ， zuo4 yi4 gong1 ming2 yu4 bu3 feng1 。
-- dan4 jian4 liu2 ban1 wu4 ju1 zi3 ， he2 ceng2 deng4 yu3 xiao4 wang2 rong2 。
-- guan1 cao2 de2 bao3 yu2 he2 shi4 ， shu1 ke4 cheng2 xian2 yi4 jun4 gong1 。
-- shao3 dai1 chun2 lu2 fu4 zhang1 han4 ， yi4 xi1 feng1 yue4 fang4 chuan2 peng2 。
+- bing4 shen1 si4 shi2 wei4 qi1 nu2 ， xu1 mu4 na4 kan1 liang3 shi4 gu1 。
 
 ## 注释
 

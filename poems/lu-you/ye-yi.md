@@ -6,25 +6,25 @@ titleSlug: ye-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小東門外曵笻枝，白葛烏紗自一奇。
-- 閑客逍遥無吏責，茂陰清潤勝花時。
-- 茶經每向僧窗讀，菰米仍於野艇炊。
-- 便覺眼邉歸路近，鏡湖禹廟見參差。
+- 久忝明恩返故鄉，全家衣食出耕桑。
+- 詩纔適意寧求好，醉即成眠不暇狂。
+- 小雨荷鉏分藥品，乍凉扶杖看優場。
+- 此身已作農夫死，却愧時賢獨未忘。
 
 ## 拼音
 
-- xiao3 dong1 men2 wai4 ye4 qiong2 zhi1 ， bai2 ge3 wu1 sha1 zi4 yi4 qi2 。
-- xian2 ke4 xiao1 yao2 wu2 li4 ze2 ， mao4 yin1 qing1 run4 sheng4 hua1 shi2 。
-- cha2 jing1 mei3 xiang4 seng1 chuang1 du2 ， gu1 mi3 reng2 wu1 ye3 ting3 chui1 。
-- bian4 jue2 yan3 bian1 gui1 lu4 jin4 ， jing4 hu2 yu3 miao4 jian4 can1 cha4 。
+- jiu3 tian3 ming2 en1 fan3 gu4 xiang1 ， quan2 jia1 yi1 shi2 chu1 geng1 sang1 。
+- shi1 cai2 shi4 yi4 ning2 qiu2 hao3 ， zui4 ji2 cheng2 mian2 bu4 xia2 kuang2 。
+- xiao3 yu3 he2 chu2 fen1 yao4 pin3 ， zha4 liang2 fu2 zhang4 kan4 you1 chang3 。
+- ci3 shen1 yi3 zuo4 nong2 fu1 si3 ， que4 kui4 shi2 xian2 du2 wei4 wang4 。
 
 ## 注释
 

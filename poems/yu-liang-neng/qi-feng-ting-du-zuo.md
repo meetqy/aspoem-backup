@@ -6,25 +6,21 @@ titleSlug: qi-feng-ting-du-zuo
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨霽失炎燠，新亭境清淑。
-- 層波綠奫泫，疊嶂青陸續。
-- 風篁韻絲桐，烟柳開畫軸。
-- 澹然塵慮銷，庶足永曛旭。
+- 嶼岫新亭好，悠然見七峯。
+- 凭欄吟不盡，春色與秋容。
 
 ## 拼音
 
-- yu3 ji4 shi1 yan2 yu4 ， xin1 ting2 jing4 qing1 shu1 。
-- ceng2 bo1 lü4 yun1 xuan4 ， die2 zhang4 qing1 lu4 xu4 。
-- feng1 huang2 yun4 si1 tong2 ， yan1 liu3 kai1 hua4 zhou2 。
-- dan4 ran2 chen2 lü4 xiao1 ， shu4 zu2 yong3 xun1 xu4 。
+- yu3 xiu4 xin1 ting2 hao3 ， you1 ran2 jian4 qi1 feng1 。
+- ping2 lan2 yin2 bu2 jin4 ， chun1 se4 yu3 qiu1 rong2 。
 
 ## 注释
 

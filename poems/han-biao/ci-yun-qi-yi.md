@@ -6,25 +6,21 @@ titleSlug: ci-yun-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人梅兩相得，雪雲陰復開。
-- 此時對自足，朝夕爲誰催。
-- 逢花既攀折，尋香試徘徊。
-- 山意動詩興，優哉而悠哉。
+- 指點蒼茫句欲成，山中滋味水邊情。
+- 須臾數點黄昏雨，更看弄雲微月生。
 
 ## 拼音
 
-- ren2 mei2 liang3 xiang1 de2 ， xue3 yun2 yin1 fu4 kai1 。
-- ci3 shi2 dui4 zi4 zu2 ， zhao1 xi1 wei2 shui2 cui1 。
-- feng2 hua1 ji4 pan1 zhe2 ， xun2 xiang1 shi4 pai2 huai2 。
-- shan1 yi4 dong4 shi1 xing1 ， you1 zai1 er2 you1 zai1 。
+- zhi3 dian3 cang1 mang2 ju4 yu4 cheng2 ， shan1 zhong1 zi1 wei4 shui3 bian1 qing2 。
+- xu1 yu2 shu4 dian3 huang2 hun1 yu3 ， geng4 kan4 nong4 yun2 wei1 yue4 sheng1 。
 
 ## 注释
 

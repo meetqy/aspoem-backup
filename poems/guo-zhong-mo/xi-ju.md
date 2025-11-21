@@ -6,10 +6,10 @@ titleSlug: xi-ju
 author: 郭忠謨
 authorPinyin: guo1 zhong1 mo2
 authorSlug: guo-zhong-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

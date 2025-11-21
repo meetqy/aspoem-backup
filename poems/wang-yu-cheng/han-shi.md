@@ -6,25 +6,25 @@ titleSlug: han-shi
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今年寒食在商山，山裏風光亦可憐。
-- 稚子就花拈蛺蝶，人家依樹繫鞦韆。
-- 郊原曉綠初經雨，巷陌春陰乍禁烟。
-- 副使官閑莫惆悵，酒錢猶有撰碑錢。
+- 寒食江都郡，青旗賣楚醪。
+- 樓臺藏綠柳，籬落露紅桃。
+- 妓女穿輕屐，笙歌泛小舠。
+- 史君慵不出，愁坐讀離騷。
 
 ## 拼音
 
-- jin1 nian2 han2 shi2 zai4 shang1 shan1 ， shan1 li3 feng1 guang1 yi4 ke3 lian2 。
-- zhi4 zi3 jiu4 hua1 nian1 jia2 die2 ， ren2 jia1 yi1 shu4 xi4 qiu1 qian1 。
-- jiao1 yuan2 xiao3 lü4 chu1 jing1 yu3 ， xiang4 mo4 chun1 yin1 zha4 jin4 yan1 。
-- fu4 shi3 guan1 xian2 mo4 chou2 chang4 ， jiu3 qian2 you2 you3 zhuan4 bei1 qian2 。
+- han2 shi2 jiang1 du1 jun4 ， qing1 qi2 mai4 chu3 lao2 。
+- lou2 tai2 cang2 lü4 liu3 ， li2 luo4 lu4 hong2 tao2 。
+- ji4 nü3 chuan1 qing1 ji1 ， sheng1 ge1 fan4 xiao3 dao1 。
+- shi3 jun1 yong1 bu4 chu1 ， chou2 zuo4 du2 li2 sao1 。
 
 ## 注释
 

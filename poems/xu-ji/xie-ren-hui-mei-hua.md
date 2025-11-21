@@ -6,21 +6,21 @@ titleSlug: xie-ren-hui-mei-hua
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江南費盡春風力，嶺頭驛使無消息。
-- 有人贈我一枝花，滿面春風與春色。
+- 我共梅花情最深，左持樽酒右持燈。
+- 持燈持酒豈辭倦，却是春香不自勝。
 
 ## 拼音
 
-- jiang1 nan2 fei4 jin4 chun1 feng1 li4 ， ling3 tou2 yi4 shi3 wu2 xiao1 xi0 。
-- you3 ren2 zeng4 wo3 yi4 zhi1 hua1 ， man3 mian4 chun1 feng1 yu3 chun1 se4 。
+- wo3 gong4 mei2 hua1 qing2 zui4 shen1 ， zuo3 chi2 zun1 jiu3 you4 chi2 deng1 。
+- chi2 deng1 chi2 jiu3 qi3 ci2 juan4 ， que4 shi4 chun1 xiang1 bu2 zi4 sheng4 。
 
 ## 注释
 

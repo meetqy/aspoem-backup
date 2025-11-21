@@ -6,10 +6,10 @@ titleSlug: deng-fa-yuan
 author: 江白
 authorPinyin: jiang1 bai2
 authorSlug: jiang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

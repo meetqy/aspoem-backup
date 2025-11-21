@@ -6,10 +6,10 @@ titleSlug: ti-an-xiang-shu-ying-ci-hou-yong-pan-de-jiu-zeng-jiang-bai-shi-yun
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

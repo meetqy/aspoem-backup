@@ -6,10 +6,10 @@ titleSlug: liu-xian-yan-he-cao-fu-yun
 author: 梁子美
 authorPinyin: liang2 zi3 mei3
 authorSlug: liang-zi-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

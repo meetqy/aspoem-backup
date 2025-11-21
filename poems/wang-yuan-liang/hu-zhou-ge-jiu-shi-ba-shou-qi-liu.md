@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-hu-zhou-ge-jiu-shi-ba-shou-qi-liu
-title: 湖州歌九十八首  其六
-titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 liu4
+title: 湖州歌九十八首  其六○
+titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 liu4 ○
 titleSlug: hu-zhou-ge-jiu-shi-ba-shou-qi-liu
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北望燕雲不盡頭，大江東去水悠悠。
-- 夕陽一片寒鴉外，目斷東西四百州。
+- 錦帆百幅礙斜陽，遥望陵州里許長。
+- 車馬爭馳迎把盞，走來船上看花娘。
 
 ## 拼音
 
-- bei3 wang4 yan4 yun2 bu2 jin4 tou2 ， da4 jiang1 dong1 qu4 shui3 you1 you1 。
-- xi1 yang2 yi2 pian4 han2 ya1 wai4 ， mu4 duan4 dong1 xi1 si4 bai3 zhou1 。
+- jin3 fan1 bai3 fu2 ai4 xie2 yang2 ， yao2 wang4 ling2 zhou1 li3 xu1 chang2 。
+- ju1 ma3 zheng1 chi2 ying2 ba3 zhan3 ， zou3 lai2 chuan2 shang4 kan4 hua1 niang2 。
 
 ## 注释
 

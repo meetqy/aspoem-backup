@@ -6,25 +6,25 @@ titleSlug: ji-shi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 側徑苔竹潤，短籬鷄鶩喧。
-- 小停障日手，聊憩卧雲村。
-- 綠影烏皮几，新醅老瓦盆。
-- 平生農圃計，重與野人論。
+- 江漾晨光入縣門，樓斜晚影到漁村。
+- 海聲不爲無風靜，山色居常带霧昏。
+- 問俗即今防愒日，來時撫事錯銷魂。
+- 浮生寄寓君恩重，未覺天涯異故園。
 
 ## 拼音
 
-- ce4 jing4 tai2 zhu2 run4 ， duan3 li2 ji1 wu4 xuan1 。
-- xiao3 ting2 zhang4 ri4 shou3 ， liao2 qi4 wo4 yun2 cun1 。
-- lü4 ying3 wu1 pi2 ji3 ， xin1 pei1 lao3 wa3 pen2 。
-- ping2 sheng1 nong2 pu3 ji4 ， zhong4 yu3 ye3 ren2 lun4 。
+- jiang1 yang4 chen2 guang1 ru4 xian4 men2 ， lou2 xie2 wan3 ying3 dao4 yu2 cun1 。
+- hai3 sheng1 bu4 wei2 wu2 feng1 jing4 ， shan1 se4 ju1 chang2 dai4 wu4 hun1 。
+- wen4 su2 ji2 jin1 fang2 kai4 ri4 ， lai2 shi2 fu3 shi4 cuo4 xiao1 hun2 。
+- fu2 sheng1 ji4 yu4 jun1 en1 zhong4 ， wei4 jue2 tian1 ya2 yi4 gu4 yuan2 。
 
 ## 注释
 

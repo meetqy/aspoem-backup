@@ -6,9 +6,9 @@ titleSlug: wu-jun-qing-ji-shi-he-huang-yuan-guang-shi-duo-ji-gu-ren-wei-ji-zhi-x
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

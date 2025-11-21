@@ -6,10 +6,10 @@ titleSlug: yong-tu-zhang-jia-ping-feng-shang-ti-xuan-he-ren-yin-ji-xia
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

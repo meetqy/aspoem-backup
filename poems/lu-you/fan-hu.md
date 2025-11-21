@@ -6,21 +6,25 @@ titleSlug: fan-hu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 筆床茶竈釣魚竿，瀲瀲平湖淡淡山。
-- 浪說枕戈心萬里，此身常在水雲間。
+- 白鷺雙飛導我前，自疑身是水中仙。
+- 放舟漢客樵風裏，擲釣秦皇酒甕邊。
+- 山寺雲間傳講鼓，漁家浦口起炊烟。
+- 箇中得意君知否，買盡烟波不用錢。
 
 ## 拼音
 
-- bi3 chuang2 cha2 zao4 diao4 yu2 gan1 ， lian4 lian4 ping2 hu2 dan4 dan4 shan1 。
-- lang4 shuo1 zhen3 ge1 xin1 wan4 li3 ， ci3 shen1 chang2 zai4 shui3 yun2 jian4 。
+- bai2 lu4 shuang1 fei1 dao3 wo3 qian2 ， zi4 yi2 shen1 shi4 shui3 zhong1 xian1 。
+- fang4 zhou1 han4 ke4 qiao2 feng1 li3 ， zhi4 diao4 qin2 huang2 jiu3 weng4 bian1 。
+- shan1 si4 yun2 jian4 chuan2 jiang3 gu3 ， yu2 jia1 pu3 kou3 qi3 chui1 yan1 。
+- ge4 zhong1 de2 yi4 jun1 zhi1 fou3 ， mai3 jin4 yan1 bo1 bu2 yong4 qian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xi-le-gong-cheng-zhao-fan-zhi-neng-ru-shi-she
 author: 馬先覺
 authorPinyin: ma3 xian1 jue2
 authorSlug: ma-xian-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

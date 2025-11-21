@@ -6,10 +6,10 @@ titleSlug: zu-xi-zhang-su-zhu-ji-xian-shang-sheng-yuan
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

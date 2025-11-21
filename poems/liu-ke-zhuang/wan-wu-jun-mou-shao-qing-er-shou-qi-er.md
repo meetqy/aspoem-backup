@@ -6,25 +6,25 @@ titleSlug: wan-wu-jun-mou-shao-qing-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吳公卿尚少，劉叟耄而迂。
-- 一任群兒謗，相輝九老圖。
-- 客誰哭橫墓，友可托嵇孤。
-- 心折摹陵路，終當酹束芻。
+- 立德尤高似立言，常嗟此語欠精論。
+- 鄴侯架冷惟書在，董子陵荒有策存。
+- 太息晚猶條世務，大招未易返騷魂。
+- 薤歌不盡云亡恨，直待碑成慰九原。
 
 ## 拼音
 
-- wu2 gong1 qing1 shang4 shao3 ， liu2 sou3 mao4 er2 yu1 。
-- yi2 ren4 qun2 er2 bang4 ， xiang1 hui1 jiu3 lao3 tu2 。
-- ke4 shui2 ku1 heng2 mu4 ， you3 ke3 tuo1 ji1 gu1 。
-- xin1 zhe2 mo2 ling2 lu4 ， zhong1 dang1 lei4 shu4 chu2 。
+- li4 de2 you2 gao1 si4 li4 yan2 ， chang2 jie1 ci3 yu3 qian4 jing1 lun4 。
+- ye4 hou2 jia4 leng3 wei2 shu1 zai4 ， dong3 zi0 ling2 huang1 you3 ce4 cun2 。
+- tai4 xi1 wan3 you2 tiao2 shi4 wu4 ， da4 zhao1 wei4 yi4 fan3 sao1 hun2 。
+- xie4 ge1 bu2 jin4 yun2 wang2 hen4 ， zhi2 dai4 bei1 cheng2 wei4 jiu3 yuan2 。
 
 ## 注释
 

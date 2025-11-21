@@ -6,9 +6,9 @@ titleSlug: zi-shun-yang-zhi-jun-fang-dao-wu-shou-yong-chen-fu-bao-qu-fei-yun-qi-
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

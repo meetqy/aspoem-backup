@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋杪金柑産玉庭，雲根呈瑞故連莖。
-- 相期不是塵中物，占得成雙雨露榮。
+- 元夕風光屬太平，燭龍衘耀照嚴城。
+- 鼇峰屹立通明觀，絳炬宵輝上下明。
 
 ## 拼音
 
-- qiu1 miao3 jin1 gan1 chan3 yu4 ting2 ， yun2 gen1 cheng2 rui4 gu4 lian2 jing4 。
-- xiang1 qi1 bu2 shi4 chen2 zhong1 wu4 ， zhan4 de2 cheng2 shuang1 yu3 lu4 rong2 。
+- yuan2 xi1 feng1 guang1 shu3 tai4 ping2 ， zhu2 long2 xian2 yao4 zhao4 yan2 cheng2 。
+- ao2 feng1 yi4 li4 tong1 ming2 guan1 ， jiang4 ju4 xiao1 hui1 shang4 xia4 ming2 。
 
 ## 注释
 

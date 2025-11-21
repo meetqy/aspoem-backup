@@ -6,10 +6,10 @@ titleSlug: wang-neng-fu-zuo-pu-tao-yi-zhi-wu-yuan-shan-zhi-shang-xi-zuo-xiao-shi
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

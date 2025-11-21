@@ -6,10 +6,10 @@ titleSlug: ci-yun-jing-lue-wu-ji-shi-men-dong
 author: 劉牧
 authorPinyin: liu2 mu4
 authorSlug: liu-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-du-fu-shi-yi-tu
 author: 司馬槐
 authorPinyin: si1 ma3 huai2
 authorSlug: si-ma-huai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

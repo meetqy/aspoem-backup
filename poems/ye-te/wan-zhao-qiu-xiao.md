@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao
 author: 葉特
 authorPinyin: ye4 te4
 authorSlug: ye-te
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,26 @@
 ---
 id: chen-hu-ju-qi-yi-er
-title: 句  其一二
-titlePinyin: ju4     qi2 yi1 er4
+title: 句  其一二○
+titlePinyin: ju4     qi2 yi1 er4 ○
 titleSlug: ju-qi-yi-er
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夢猶平昔醒來別，憶到兒童事轉長。
+- 梨園曲譜韶音祕，響入馬嵬花委地。
+- 開元不再宮不花，天街草綠西風起。
 
 ## 拼音
 
-- meng4 you2 ping2 xi1 xing3 lai2 bie2 ， yi4 dao4 er2 tong2 shi4 zhuan3 chang2 。
+- li2 yuan2 qu3 pu3 shao2 yin1 bi4 ， xiang3 ru4 ma3 wei2 hua1 wei3 di4 。
+- kai1 yuan2 bu2 zai4 gong1 bu4 hua1 ， tian1 jie1 cao3 lü4 xi1 feng1 qi3 。
 
 ## 注释
 

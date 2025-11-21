@@ -6,10 +6,10 @@ titleSlug: ju
 author: 姚{殻几=土}
 authorPinyin: yao2 { qiao4 ji3 = tu3 }
 authorSlug: yao-qiao-ji-tu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

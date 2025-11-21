@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-ye-yu-zhao-cheng-zhi-yang-shi-ke-yue-xia-lian-ju
 author: 狄流
 authorPinyin: di2 liu2
 authorSlug: di-liu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

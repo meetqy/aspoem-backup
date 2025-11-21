@@ -6,10 +6,10 @@ titleSlug: xia-shu-jiang-zhong-yong-di-er-zhang
 author: 高公泗
 authorPinyin: gao1 gong1 si4
 authorSlug: gao-gong-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

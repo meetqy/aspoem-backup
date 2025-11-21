@@ -1,26 +1,30 @@
 ---
 id: shi-zong-yan-ji-song-san-shi-er-shou-qi-yi
-title: 偈頌三十二首  其一
-titlePinyin: ji4 song4 san1 shi2 er4 shou3     qi2 yi1
+title: 偈頌三十二首  其一○
+titlePinyin: ji4 song4 san1 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: ji-song-san-shi-er-shou-qi-yi
 author: 釋宗演
 authorPinyin: shi4 zong1 yan3
 authorSlug: shi-zong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 今朝三月初十，大野和風襲襲。
-- 不用轉腦回頭，向此一時證入。
+- 今朝季冬朔旦，歲月不可把玩。
+- 各請打辦精神，了却未了公案。
+- 有我即病生，無我即病滅。
+- 我病兩俱非，萬里一條鐵。
 
 ## 拼音
 
-- jin1 zhao1 san1 yue4 chu1 shi2 ， da4 ye3 he2 feng1 xi2 xi2 。
-- bu2 yong4 zhuan3 nao3 hui2 tou2 ， xiang4 ci3 yi4 shi2 zheng4 ru4 。
+- jin1 zhao1 ji4 dong1 shuo4 dan4 ， sui4 yue4 bu4 ke3 ba3 wan2 。
+- ge4 qing3 da3 ban4 jing1 shen2 ， liao3 que4 wei4 liao3 gong1 an4 。
+- you3 wo3 ji2 bing4 sheng1 ， wu2 wo3 ji2 bing4 mie4 。
+- wo3 bing4 liang3 ju4 fei1 ， wan4 li3 yi4 tiao2 tie3 。
 
 ## 注释
 

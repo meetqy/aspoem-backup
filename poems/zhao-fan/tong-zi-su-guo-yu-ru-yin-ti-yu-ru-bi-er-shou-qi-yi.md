@@ -6,10 +6,10 @@ titleSlug: tong-zi-su-guo-yu-ru-yin-ti-yu-ru-bi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

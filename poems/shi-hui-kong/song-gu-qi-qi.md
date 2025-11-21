@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-qi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 德山棒，臨濟喝，寸刃未施先敗闕。
-- 叢林盡謂是上機，明眼衲僧也大屈。
+- 趙州老倒一禪和，勘破臺山箇老婆。
+- 笑倒石門庵內客，一條濟水過新羅。
 
 ## 拼音
 
-- de2 shan1 bang4 ， lin2 ji4 he1 ， cun4 ren4 wei4 shi1 xian1 bai4 que4 。
-- cong2 lin2 jin4 wei4 shi4 shang4 ji1 ， ming2 yan3 na4 seng1 ye3 da4 qu1 。
+- zhao4 zhou1 lao3 dao3 yi2 shan4 he2 ， kan1 po4 tai2 shan1 ge4 lao3 po0 。
+- xiao4 dao3 shi2 men2 an1 nei4 ke4 ， yi4 tiao2 ji4 shui3 guo4 xin1 luo2 。
 
 ## 注释
 

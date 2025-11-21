@@ -6,21 +6,25 @@ titleSlug: za-gan-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 側帽垂鞭小陌東，名花迎笑一枝紅。
-- 啼鶯驚斷尋春夢，惆悵新霜點鬢蓬。
+- 養生孰爲本，元氣不可虧。
+- 秋毫失固守，金丹亦奚爲。
+- 所以古達人，一意堅自持。
+- 魔鬼雖百萬，敢犯堂堂師。
 
 ## 拼音
 
-- ce4 mao4 chui2 bian1 xiao3 mo4 dong1 ， ming2 hua1 ying2 xiao4 yi4 zhi1 hong2 。
-- ti2 ying1 jing1 duan4 xun2 chun1 meng4 ， chou2 chang4 xin1 shuang1 dian3 bin4 peng2 。
+- yang3 sheng1 shu2 wei2 ben3 ， yuan2 qi4 bu4 ke3 kui1 。
+- qiu1 hao2 shi1 gu4 shou3 ， jin1 dan1 yi4 xi1 wei2 。
+- suo3 yi3 gu3 da2 ren2 ， yi2 yi4 jian1 zi4 chi2 。
+- mo2 gui3 sui1 bai3 wan4 ， gan3 fan4 tang2 tang2 shi1 。
 
 ## 注释
 

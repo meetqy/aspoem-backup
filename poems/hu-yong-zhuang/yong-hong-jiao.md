@@ -6,10 +6,10 @@ titleSlug: yong-hong-jiao
 author: 胡用莊
 authorPinyin: hu2 yong4 zhuang1
 authorSlug: hu-yong-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

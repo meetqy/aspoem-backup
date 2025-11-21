@@ -6,21 +6,21 @@ titleSlug: ji-song-shi-er-shou-qi-ba
 author: 釋道璨
 authorPinyin: shi4 dao4 can4
 authorSlug: shi-dao-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不撥一境，不露一機。
-- 錦包特石，綿裹秤椎。
+- 箭穿楊葉未爲親，透得金塵有幾人。
+- 多謝汾陽曾說破，重陽九日菊花新。
 
 ## 拼音
 
-- bu4 bo1 yi2 jing4 ， bu2 lu4 yi4 ji1 。
-- jin3 bao1 te4 shi2 ， mian2 guo3 cheng4 zhui1 。
+- jian4 chuan1 yang2 ye4 wei4 wei2 qin1 ， tou4 de2 jin1 chen2 you3 ji1 ren2 。
+- duo1 xie4 fen2 yang2 ceng2 shuo1 po4 ， zhong4 yang2 jiu3 ri4 ju2 hua1 xin1 。
 
 ## 注释
 

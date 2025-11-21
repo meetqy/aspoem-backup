@@ -1,30 +1,30 @@
 ---
 id: wang-yuan-liang-hang-zhou-za-shi-he-lin-shi-tian-qi-er
-title: 杭州雜詩和林石田  其二
-titlePinyin: hang2 zhou1 za2 shi1 he2 lin2 shi2 tian2     qi2 er4
+title: 杭州雜詩和林石田  其二○
+titlePinyin: hang2 zhou1 za2 shi1 he2 lin2 shi2 tian2     qi2 er4 ○
 titleSlug: hang-zhou-za-shi-he-lin-shi-tian-qi-er
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 先生忘富貴，久客幸平安。
-- 髪已千莖白，心猶一寸丹。
-- 衣冠前進士，家世舊郎官。
-- 醉入烏程里，吟登李杜壇。
+- 假途虞滅虢，嘗膽越吞吳。
+- 黑白一棋局，方圓八陣圖。
+- 是翁猶矍鑠，諸老自揶揄。
+- 喟歎投麟筆，悲歌擊唾壺。
 
 ## 拼音
 
-- xian1 sheng0 wang4 fu4 gui4 ， jiu3 ke4 xing4 ping2 an1 。
-- fa4 yi3 qian1 jing4 bai2 ， xin1 you2 yi2 cun4 dan1 。
-- yi1 guan1 qian2 jin4 shi4 ， jia1 shi4 jiu4 lang2 guan1 。
-- zui4 ru4 wu1 cheng2 li3 ， yin2 deng1 li3 du4 tan2 。
+- jia3 tu2 yu2 mie4 guo2 ， chang2 dan3 yue4 tun1 wu2 。
+- hei1 bai2 yi4 qi2 ju2 ， fang1 yuan2 ba1 zhen4 tu2 。
+- shi4 weng1 you2 jue2 shuo4 ， zhu1 lao3 zi4 ye2 yu2 。
+- kui4 tan4 tou2 lin2 bi3 ， bei1 ge1 ji1 tuo4 hu2 。
 
 ## 注释
 

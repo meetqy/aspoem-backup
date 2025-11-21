@@ -6,10 +6,10 @@ titleSlug: deng-jiu-hui-tai
 author: 于炳文
 authorPinyin: yu2 bing3 wen2
 authorSlug: yu-bing-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

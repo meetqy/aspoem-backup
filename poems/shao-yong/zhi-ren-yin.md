@@ -6,21 +6,23 @@ titleSlug: zhi-ren-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 事到急時觀態度，人于危處露肝脾。
-- 深心厚貌平時可，慎勿便言容易知。
+- 君子知人出于知，小人知人出于私。
+- 出于知，則同乎理者謂之是，異乎理者謂之非。
+- 出于私，則同乎己者謂之是，異乎己者謂之非。
 
 ## 拼音
 
-- shi4 dao4 ji2 shi2 guan1 tai4 du4 ， ren2 yu2 wei1 chu3 lu4 gan1 pi2 。
-- shen1 xin1 hou4 mao4 ping2 shi2 ke3 ， shen4 wu4 bian4 yan2 rong2 yi4 zhi1 。
+- jun1 zi3 zhi1 ren2 chu1 yu2 zhi1 ， xiao3 ren2 zhi1 ren2 chu1 yu2 si1 。
+- chu1 yu2 zhi1 ， ze2 tong2 hu1 li3 zhe3 wei4 zhi1 shi4 ， yi4 hu1 li3 zhe3 wei4 zhi1 fei1 。
+- chu1 yu2 si1 ， ze2 tong2 hu1 ji3 zhe3 wei4 zhi1 shi4 ， yi4 hu1 ji3 zhe3 wei4 zhi1 fei1 。
 
 ## 注释
 

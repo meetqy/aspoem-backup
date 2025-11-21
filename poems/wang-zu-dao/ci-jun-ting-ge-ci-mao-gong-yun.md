@@ -6,10 +6,10 @@ titleSlug: ci-jun-ting-ge-ci-mao-gong-yun
 author: 王祖道
 authorPinyin: wang2 zu3 dao4
 authorSlug: wang-zu-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

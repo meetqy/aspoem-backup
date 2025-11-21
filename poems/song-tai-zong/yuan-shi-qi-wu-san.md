@@ -6,21 +6,21 @@ titleSlug: yuan-shi-qi-wu-san
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 道門長嘯扣玄關，咀嚼盈虛口不閑。
-- 峰頂怡情松作笠，五湖來往看人間。
+- 蓬萊別有洞中天，摇曳祥雲五色鮮。
+- 不是凡人常到處，精修要實在心專。
 
 ## 拼音
 
-- dao4 men2 chang2 xiao4 kou4 xuan2 guan1 ， ju3 jue2 ying2 xu1 kou3 bu4 xian2 。
-- feng1 ding3 yi2 qing2 song1 zuo4 li4 ， wu3 hu2 lai2 wang3 kan4 ren2 jian4 。
+- peng2 lai2 bie2 you3 dong4 zhong1 tian1 ， yao2 ye4 xiang2 yun2 wu3 se4 xian1 。
+- bu2 shi4 fan2 ren2 chang2 dao4 chu3 ， jing1 xiu1 yao4 shi2 zai4 xin1 zhuan1 。
 
 ## 注释
 

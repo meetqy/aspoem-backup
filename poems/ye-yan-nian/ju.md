@@ -6,10 +6,10 @@ titleSlug: ju
 author: 葉延年
 authorPinyin: ye4 yan2 nian2
 authorSlug: ye-yan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

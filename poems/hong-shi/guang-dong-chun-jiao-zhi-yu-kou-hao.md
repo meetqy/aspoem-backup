@@ -6,25 +6,25 @@ titleSlug: guang-dong-chun-jiao-zhi-yu-kou-hao
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 高管嗷嘈疊鼓忙，春雲輕覆饗軍堂。
-- 二星光動狐狸伏，六纛威騰貔虎良。
-- 海孽向來如薙草，射夫無有不穿楊。
-- 時平已卧邊庭鼓，不廢蒐田謹舊章。
+- 豪竹繁弦振粵臺，鬭場雨過凈纖埃。
+- 台符款曲三揮麈，軍令分明屢舉杯。
+- 兔窟久空春草出，鯨波無事早潮來。
+- 已知樽俎遐衝折，且欲班勞激趫材。
 
 ## 拼音
 
-- gao1 guan3 ao2 cao2 die2 gu3 mang2 ， chun1 yun2 qing1 fu4 xiang3 jun1 tang2 。
-- er4 xing1 guang1 dong4 hu2 li0 fu2 ， liu4 dao4 wei1 teng2 pi2 hu3 liang2 。
-- hai3 nie4 xiang4 lai2 ru2 ti4 cao3 ， she4 fu1 wu2 you3 bu4 chuan1 yang2 。
-- shi2 ping2 yi3 wo4 bian1 ting2 gu3 ， bu2 fei4 sou1 tian2 jin3 jiu4 zhang1 。
+- hao2 zhu2 fan2 xian2 zhen4 yue4 tai2 ， dou4 chang3 yu3 guo4 jing4 xian1 ai1 。
+- tai2 fu2 kuan3 qu1 san1 hui1 zhu3 ， jun1 ling4 fen1 ming2 lü3 ju3 bei1 。
+- tu4 ku1 jiu3 kong1 chun1 cao3 chu1 ， jing1 bo1 wu2 shi4 zao3 chao2 lai2 。
+- yi3 zhi1 zun1 zu3 xia2 chong1 zhe2 ， qie3 yu4 ban1 lao2 ji1 qiao2 cai2 。
 
 ## 注释
 

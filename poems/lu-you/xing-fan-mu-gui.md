@@ -6,25 +6,25 @@ titleSlug: xing-fan-mu-gui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宿疾去如掃，出門芒屨輕。
-- 菊叢寒蝶閙，楓葉夕陽明。
-- 結陣看鴉集，衘衣喜犬迎。
-- 踟蹰搔白首，詩句入經營。
+- 暫置觀書不耐閑，飄然梅塢竹籬間。
+- 霜風盡脫千林葉，雲氣平沉一面山。
+- 笑喚筇枝扶蹇步，聊憑村酒借朱顔。
+- 廟壖牆下歸來晚，宿鳥紛紛已漸還。
 
 ## 拼音
 
-- su4 ji2 qu4 ru2 sao3 ， chu1 men2 mang2 ju4 qing1 。
-- ju2 cong2 han2 die2 nao4 ， feng1 ye4 xi1 yang2 ming2 。
-- jie2 zhen4 kan4 ya1 ji2 ， xian2 yi1 xi3 quan3 ying2 。
-- chi2 chu2 sao1 bai2 shou3 ， shi1 ju4 ru4 jing1 ying2 。
+- zan4 zhi4 guan1 shu1 bu2 nai4 xian2 ， piao1 ran2 mei2 wu4 zhu2 li2 jian4 。
+- shuang1 feng1 jin4 tuo1 qian1 lin2 ye4 ， yun2 qi4 ping2 chen2 yi2 mian4 shan1 。
+- xiao4 huan4 qiong2 zhi1 fu2 jian3 bu4 ， liao2 ping2 cun1 jiu3 jie4 zhu1 yan2 。
+- miao4 ruan2 qiang2 xia4 gui1 lai2 wan3 ， su4 niao3 fen1 fen1 yi3 jian4 huan2 。
 
 ## 注释
 

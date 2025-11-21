@@ -1,30 +1,30 @@
 ---
 id: shao-yong-shou-wei-yin-qi-san
-title: 首尾吟  其三
-titlePinyin: shou3 wei3 yin2     qi2 san1
+title: 首尾吟  其三○
+titlePinyin: shou3 wei3 yin2     qi2 san1 ○
 titleSlug: shou-wei-yin-qi-san
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堯夫非是愛吟詩，安樂窩中得意時。
-- 志快不須求事顯，書成當自有人知。
-- 林泉且作酬心物，風月聊充藉手資。
-- 多少寬平好田地，堯夫非是愛吟詩。
+- 堯夫非是愛吟詩，詩是堯夫對酒時。
+- 處世雖無一分善，行身誤有四方知。
+- 大凡觀物須生意，既若成章必見辭。
+- 詩者志之所之也，堯夫非是愛吟詩。
 
 ## 拼音
 
-- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， an1 le4 wo1 zhong1 de2 yi4 shi2 。
-- zhi4 kuai4 bu4 xu1 qiu2 shi4 xian3 ， shu1 cheng2 dang1 zi4 you3 ren2 zhi1 。
-- lin2 quan2 qie3 zuo4 chou2 xin1 wu4 ， feng1 yue4 liao2 chong1 jie4 shou3 zi1 。
-- duo1 shao3 kuan1 ping2 hao3 tian2 di4 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
+- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， shi1 shi4 yao2 fu1 dui4 jiu3 shi2 。
+- chu3 shi4 sui1 wu2 yi4 fen1 shan4 ， xing2 shen1 wu4 you3 si4 fang1 zhi1 。
+- da4 fan2 guan1 wu4 xu1 sheng1 yi4 ， ji4 ruo4 cheng2 zhang1 bi4 jian4 ci2 。
+- shi1 zhe3 zhi4 zhi1 suo3 zhi1 ye3 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: xia-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清風起湖濱，急雨来天末。
-- 蚊蠅遽退聽，松竹例蘇活。
-- 奇聲集空庭，爽氣生細葛。
-- 素秋雖尚遥，聊喜寛肺渇。
+- 忽聞疏雨滴林梢，起看油雲滿四郊。
+- 行蟻君臣初徙穴，鳴鳩夫婦正爭巢。
+- 筑陂處處移新稻，乘屋家家補破茆。
+- 堪笑此翁惟美睡，孝先便腹任譏嘲。
 
 ## 拼音
 
-- qing1 feng1 qi3 hu2 bin1 ， ji2 yu3 lai2 tian1 mo4 。
-- wen2 ying2 ju4 tui4 ting1 ， song1 zhu2 li4 su1 huo2 。
-- qi2 sheng1 ji2 kong1 ting2 ， shuang3 qi4 sheng1 xi4 ge3 。
-- su4 qiu1 sui1 shang4 yao2 ， liao2 xi3 kuan1 fei4 ke3 。
+- hu1 wen2 shu1 yu3 di1 lin2 shao1 ， qi3 kan4 you2 yun2 man3 si4 jiao1 。
+- xing2 yi3 jun1 chen2 chu1 xi3 xue2 ， ming2 jiu1 fu1 fu4 zheng4 zheng1 chao2 。
+- zhu4 bei1 chu3 chu3 yi2 xin1 dao4 ， cheng2 wu1 jia1 jia1 bu3 po4 mao2 。
+- kan1 xiao4 ci3 weng1 wei2 mei3 shui4 ， xiao4 xian1 bian4 fu4 ren4 ji1 chao2 。
 
 ## 注释
 

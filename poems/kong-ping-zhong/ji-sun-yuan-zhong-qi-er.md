@@ -1,30 +1,30 @@
 ---
 id: kong-ping-zhong-ji-sun-yuan-zhong-qi-er
-title: 寄孫元忠  其二
-titlePinyin: ji4 sun1 yuan2 zhong1     qi2 er4
+title: 寄孫元忠  其二○
+titlePinyin: ji4 sun1 yuan2 zhong1     qi2 er4 ○
 titleSlug: ji-sun-yuan-zhong-qi-er
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 抱病江天白首郎，秋風此日曬衣裳。
-- 看我形容已枯槁，此豈有意仍騰驤。
-- 一官羈絆實藏身，富貴於我如浮雲。
-- 致君堯舜付公等，幾時高義排金門。
+- 摇落深知宋玉悲，東流之外西日微。
+- 寒衣處處催刀尺，誰家搗練風凄凄。
+- 籬邊老却陶潜菊，前飛禿鶖後鴻鵠。
+- 安得送我置汝旁，悵望聊歌紫芝曲。
 
 ## 拼音
 
-- bao4 bing4 jiang1 tian1 bai2 shou3 lang2 ， qiu1 feng1 ci3 ri4 shai4 yi1 shang0 。
-- kan4 wo3 xing2 rong2 yi3 ku1 gao3 ， ci3 qi3 you3 yi4 reng2 teng2 xiang1 。
-- yi4 guan1 ji1 ban4 shi2 cang2 shen1 ， fu4 gui4 wu1 wo3 ru2 fu2 yun2 。
-- zhi4 jun1 yao2 shun4 fu4 gong1 deng3 ， ji1 shi2 gao1 yi4 pai2 jin1 men2 。
+- yao2 luo4 shen1 zhi1 song4 yu4 bei1 ， dong1 liu2 zhi1 wai4 xi1 ri4 wei1 。
+- han2 yi1 chu3 chu3 cui1 dao1 chi3 ， shui2 jia1 dao3 lian4 feng1 qi1 qi1 。
+- li2 bian1 lao3 que4 tao2 qian2 ju2 ， qian2 fei1 tu1 qiu1 hou4 hong2 hu2 。
+- an1 de2 song4 wo3 zhi4 ru3 pang2 ， chang4 wang4 liao2 ge1 zi3 zhi1 qu3 。
 
 ## 注释
 

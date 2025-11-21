@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙不敵
 authorPinyin: zhao4 bu4 di2
 authorSlug: zhao-bu-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

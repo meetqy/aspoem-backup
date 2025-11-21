@@ -6,25 +6,25 @@ titleSlug: ci-yun-wang-gong-jian-ji
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日永官閑自在慵，門前客到未曾通。
-- 憐君避世都門裏，勸我忘憂酒盞中。
-- 城下柳陰新過雨，湖邊荷葉自翻風。
-- 早須命駕追清賞，大字新詩事事工。
+- 池上輕冰暖却開，迎春送臘仰銜杯。
+- 君家有酒能無事，客醉連宵遣不迴。
+- 詩就滴消盤上蠟，信來飄盡嶺頭梅。
+- 商丘冷坐君知否，瓶罄應須有耻罍。
 
 ## 拼音
 
-- ri4 yong3 guan1 xian2 zi4 zai4 yong1 ， men2 qian2 ke4 dao4 wei4 ceng2 tong1 。
-- lian2 jun1 bi4 shi4 dou1 men2 li3 ， quan4 wo3 wang4 you1 jiu3 zhan3 zhong1 。
-- cheng2 xia4 liu3 yin1 xin1 guo4 yu3 ， hu2 bian1 he2 ye4 zi4 fan1 feng1 。
-- zao3 xu1 ming4 jia4 zhui1 qing1 shang3 ， da4 zi4 xin1 shi1 shi4 shi4 gong1 。
+- chi2 shang4 qing1 bing1 nuan3 que4 kai1 ， ying2 chun1 song4 la4 yang3 xian2 bei1 。
+- jun1 jia1 you3 jiu3 neng2 wu2 shi4 ， ke4 zui4 lian2 xiao1 qian3 bu4 hui2 。
+- shi1 jiu4 di1 xiao1 pan2 shang4 la4 ， xin4 lai2 piao1 jin4 ling3 tou2 mei2 。
+- shang1 qiu1 leng3 zuo4 jun1 zhi1 fou3 ， ping2 qing4 ying1 xu1 you3 chi3 lei2 。
 
 ## 注释
 

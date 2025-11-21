@@ -6,10 +6,10 @@ titleSlug: ping-hua
 author: 李雲巖
 authorPinyin: li3 yun2 yan2
 authorSlug: li-yun-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

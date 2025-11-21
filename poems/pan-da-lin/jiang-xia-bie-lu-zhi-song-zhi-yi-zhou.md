@@ -6,10 +6,10 @@ titleSlug: jiang-xia-bie-lu-zhi-song-zhi-yi-zhou
 author: 潘大臨
 authorPinyin: pan1 da4 lin2
 authorSlug: pan-da-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

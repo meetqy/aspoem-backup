@@ -6,21 +6,21 @@ titleSlug: tian-fu-yin-wu-shou-qi-yi
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去年積潦苦無收，今歲逢人說有秋。
-- 未擬香秔供一飽，穇穇新藁蓋簷頭。
+- 桃花深映水邊莊，夫婦相携笑語香。
+- 耕耨有糧蠶有種，丁男戽水女條桑。
 
 ## 拼音
 
-- qu4 nian2 ji1 liao2 ku3 wu2 shou1 ， jin1 sui4 feng2 ren2 shuo1 you3 qiu1 。
-- wei4 ni3 xiang1 jing1 gong4 yi4 bao3 ， shan1 shan1 xin1 gao3 gai4 yan2 tou2 。
+- tao2 hua1 shen1 ying4 shui3 bian1 zhuang1 ， fu1 fu4 xiang1 xie2 xiao4 yu3 xiang1 。
+- geng1 nou4 you3 liang2 can2 you3 zhong3 ， ding1 nan2 hu4 shui3 nü3 tiao2 sang1 。
 
 ## 注释
 

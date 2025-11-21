@@ -6,10 +6,10 @@ titleSlug: ye-guo-wu-jiang-yi-hua-zhong-zhi
 author: 呂寅伯
 authorPinyin: lü3 yin2 bo2
 authorSlug: lu-yin-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: su-wen-rao-wang-chang-guo-yi-po-dan-zhi-song-yi-shi-yin-mian-zhi
 author: 陳瓘
 authorPinyin: chen2 guan4
 authorSlug: chen-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

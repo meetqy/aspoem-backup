@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-ceng-zhong-gong-shi-lang-tong-deng-fu-gui-lou-er-jue-qi-er
-title: 次韻曾仲躬侍郎同登伏龜樓二絕・其二
-titlePinyin: ci4 yun4 ceng2 zhong4 gong1 shi4 lang2 tong2 deng1 fu2 gui1 lou2 er4 jue2・qi2 er4
+title: 次韻曾仲躬侍郎同登伏龜樓二絕  其二
+titlePinyin: ci4 yun4 ceng2 zhong4 gong1 shi4 lang2 tong2 deng1 fu2 gui1 lou2 er4 jue2     qi2 er4
 titleSlug: ci-yun-ceng-zhong-gong-shi-lang-tong-deng-fu-gui-lou-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

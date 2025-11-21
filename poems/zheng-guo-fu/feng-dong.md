@@ -6,10 +6,10 @@ titleSlug: feng-dong
 author: 鄭國輔
 authorPinyin: zheng4 guo2 fu3
 authorSlug: zheng-guo-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

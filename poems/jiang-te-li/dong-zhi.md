@@ -1,26 +1,26 @@
 ---
 id: jiang-te-li-dong-zhi
-title: 冬至
-titlePinyin: dong1 zhi4
+title: 動植
+titlePinyin: dong4 zhi2
 titleSlug: dong-zhi
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老來心緒怯年光，又見春來報一陽。
-- 未必暗添宮線永，只應先引鬢絲長。
+- 動植湊東風，天機各自濃。
+- 花粘蜂股重，絮戀柳腰慵。
 
 ## 拼音
 
-- lao3 lai2 xin1 xu4 qie4 nian2 guang1 ， you4 jian4 chun1 lai2 bao4 yi4 yang2 。
-- wei4 bi4 an4 tian1 gong1 xian4 yong3 ， zhi1 ying1 xian1 yin3 bin4 si1 chang2 。
+- dong4 zhi2 cou4 dong1 feng1 ， tian1 ji1 ge4 zi4 nong2 。
+- hua1 nian2 feng1 gu3 zhong4 ， xu4 lian4 liu3 yao1 yong1 。
 
 ## 注释
 

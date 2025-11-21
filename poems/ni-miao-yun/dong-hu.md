@@ -6,10 +6,10 @@ titleSlug: dong-hu
 author: 尼妙雲
 authorPinyin: ni2 miao4 yun2
 authorSlug: ni-miao-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

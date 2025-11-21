@@ -6,10 +6,10 @@ titleSlug: chun-xi-ren-yin-wu-shi-shan-bie-si-lao-shan-shi
 author: 趙公廙
 authorPinyin: zhao4 gong1 yi4
 authorSlug: zhao-gong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

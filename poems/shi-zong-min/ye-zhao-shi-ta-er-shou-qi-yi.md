@@ -6,10 +6,10 @@ titleSlug: ye-zhao-shi-ta-er-shou-qi-yi
 author: 釋宗敏
 authorPinyin: shi4 zong1 min3
 authorSlug: shi-zong-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

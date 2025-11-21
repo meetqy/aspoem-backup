@@ -6,9 +6,9 @@ titleSlug: ju
 author: 李虞卿
 authorPinyin: li3 yu2 qing1
 authorSlug: li-yu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

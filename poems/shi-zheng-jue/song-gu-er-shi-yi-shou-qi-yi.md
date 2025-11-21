@@ -1,26 +1,26 @@
 ---
 id: shi-zheng-jue-song-gu-er-shi-yi-shou-qi-yi
-title: 頌古二十一首  其一
-titlePinyin: song4 gu3 er4 shi2 yi1 shou3     qi2 yi1
+title: 頌古二十一首  其一○
+titlePinyin: song4 gu3 er4 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-er-shi-yi-shou-qi-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 如今推也，是子是賊。
-- 買帽相頭，食魚去骨。
+- 殺人不眨眼，救人須出手。
+- 論實不論虛，合升始爲斗。
 
 ## 拼音
 
-- ru2 jin1 tui1 ye3 ， shi4 zi3 shi4 zei2 。
-- mai3 mao4 xiang1 tou2 ， shi2 yu2 qu4 gu3 。
+- sha1 ren2 bu4 zha3 yan3 ， jiu4 ren2 xu1 chu1 shou3 。
+- lun4 shi2 bu2 lun4 xu1 ， he2 sheng1 shi3 wei2 dou4 。
 
 ## 注释
 

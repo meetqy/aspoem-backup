@@ -6,10 +6,10 @@ titleSlug: bei-jiu-du-xing-bian-zhi-zi-yun-wei-hui-xian-jue-si-li-zhi-she-san-sh
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

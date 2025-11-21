@@ -6,10 +6,10 @@ titleSlug: zhou-su-nan-wei-an-xia-ye-xi-bu-mei-si-ding-lao-xiao-shan-xi-cheng-ch
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

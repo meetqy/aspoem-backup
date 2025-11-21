@@ -1,30 +1,30 @@
 ---
 id: lu-you-dong-ri-du-bai-ji-ai-qi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-zhi-ju-zuo-gu-feng-shi-shou-qi-yi
-title: 冬日讀白集愛其貧堅志士節病長高人情之句作古風十首  其一
-titlePinyin: dong1 ri4 du2 bai2 ji2 ai4 qi2 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 zhi1 ju4 zuo4 gu3 feng1 shi2 shou3     qi2 yi1
+title: 冬日讀白集愛其貧堅志士節病長高人情之句作古風十首  其一○
+titlePinyin: dong1 ri4 du2 bai2 ji2 ai4 qi2 pin2 jian1 zhi4 shi4 jie2 bing4 chang2 gao1 ren2 qing2 zhi1 ju4 zuo4 gu3 feng1 shi2 shou3     qi2 yi1 ○
 titleSlug: dong-ri-du-bai-ji-ai-qi-pin-jian-zhi-shi-jie-bing-chang-gao-ren-qing-zhi-ju-zuo-gu-feng-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君子亦有慕，不慕要路津。
-- 君子亦有耻，不耻賤與貧。
-- 風俗未唐虞，詩書非一秦。
-- 展轉不能瞑，卧聽雞唱晨。
+- 卜日家祭竈，牲肥酒香清。
+- 分胙雖薄少，要是鄰里情。
+- 眾起壽主人，一觥瀲灧傾。
+- 氣衰易成醉，睡覺窗已明。
 
 ## 拼音
 
-- jun1 zi3 yi4 you3 mu4 ， bu2 mu4 yao4 lu4 jin1 。
-- jun1 zi3 yi4 you3 chi3 ， bu4 chi3 jian4 yu3 pin2 。
-- feng1 su2 wei4 tang2 yu2 ， shi1 shu1 fei1 yi4 qin2 。
-- zhan3 zhuan3 bu4 neng2 ming2 ， wo4 ting1 ji1 chang4 chen2 。
+- bu3 ri4 jia1 ji4 zao4 ， sheng1 fei2 jiu3 xiang1 qing1 。
+- fen1 zuo4 sui1 bao2 shao3 ， yao4 shi0 lin2 li3 qing2 。
+- zhong4 qi3 shou4 zhu3 ren2 ， yi4 gong1 lian4 yan4 qing1 。
+- qi4 shuai1 yi4 cheng2 zui4 ， shui4 jue2 chuang1 yi3 ming2 。
 
 ## 注释
 

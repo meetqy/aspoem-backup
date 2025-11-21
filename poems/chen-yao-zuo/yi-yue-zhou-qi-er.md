@@ -1,14 +1,14 @@
 ---
 id: chen-yao-zuo-yi-yue-zhou-qi-er
-title: 憶越州・其二
-titlePinyin: yi4 yue4 zhou1・qi2 er4
+title: 憶越州  其二
+titlePinyin: yi4 yue4 zhou1     qi2 er4
 titleSlug: yi-yue-zhou-qi-er
 author: 陳堯佐
 authorPinyin: chen2 yao2 zuo3
 authorSlug: chen-yao-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

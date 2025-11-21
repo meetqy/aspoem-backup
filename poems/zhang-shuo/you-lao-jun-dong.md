@@ -6,10 +6,10 @@ titleSlug: you-lao-jun-dong
 author: 張說
 authorPinyin: zhang1 shuo1
 authorSlug: zhang-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

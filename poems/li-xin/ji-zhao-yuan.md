@@ -6,25 +6,21 @@ titleSlug: ji-zhao-yuan
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道人築室不草草，燕壘蜂房斷有才。
-- 細細轉泉縈屋去，疏疏栽竹放山來。
-- 琴無殺意客何憚，士怕移文車自回。
-- 清夜不眠留遲月，譟天耘鼓急如雷。
+- 世路沉迷正厭醒，故山洗出纈龜屏。
+- 已因麗句迎門笑，更得疏篁作眼青。
 
 ## 拼音
 
-- dao4 ren2 zhu4 shi4 bu4 cao3 cao3 ， yan4 lei3 feng1 fang2 duan4 you3 cai2 。
-- xi4 xi4 zhuan3 quan2 ying2 wu1 qu4 ， shu1 shu1 zai1 zhu2 fang4 shan1 lai2 。
-- qin2 wu2 sha1 yi4 ke4 he2 dan4 ， shi4 pa4 yi2 wen2 ju1 zi4 hui2 。
-- qing1 ye4 bu4 mian2 liu2 chi2 yue4 ， zao4 tian1 yun2 gu3 ji2 ru2 lei2 。
+- shi4 lu4 chen2 mi2 zheng4 yan4 xing3 ， gu4 shan1 xi3 chu1 xie4 gui1 ping2 。
+- yi3 yin1 li2 ju4 ying2 men2 xiao4 ， geng4 de2 shu1 huang2 zuo4 yan3 qing1 。
 
 ## 注释
 

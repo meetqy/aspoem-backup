@@ -6,10 +6,10 @@ titleSlug: hua-cheng-yan
 author: 趙善堅
 authorPinyin: zhao4 shan4 jian1
 authorSlug: zhao-shan-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-he-tui-guan
 author: 吳復齋
 authorPinyin: wu2 fu4 zhai1
 authorSlug: wu-fu-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

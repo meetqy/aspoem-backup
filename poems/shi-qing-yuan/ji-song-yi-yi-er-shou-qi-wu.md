@@ -1,26 +1,26 @@
 ---
 id: shi-qing-yuan-ji-song-yi-yi-er-shou-qi-wu
-title: 偈頌一一二首  其五
-titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 wu3
+title: 偈頌一一二首  其五○
+titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 wu3 ○
 titleSlug: ji-song-yi-yi-er-shou-qi-wu
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 棒喝齊施古佛宗，三玄三要絕狐蹤。
-- 白雲消散青山在，明月蘆花對蓼紅。
+- 作無作作，貫色通聲。
+- 水中鹽味，不見其形。
 
 ## 拼音
 
-- bang4 he1 qi2 shi1 gu3 fo2 zong1 ， san1 xuan2 san1 yao4 jue2 hu2 zong1 。
-- bai2 yun2 xiao1 san4 qing1 shan1 zai4 ， ming2 yue4 lu2 hua1 dui4 liao3 hong2 。
+- zuo4 wu2 zuo4 zuo4 ， guan4 se4 tong1 sheng1 。
+- shui3 zhong1 yan2 wei4 ， bu2 jian4 qi2 xing2 。
 
 ## 注释
 

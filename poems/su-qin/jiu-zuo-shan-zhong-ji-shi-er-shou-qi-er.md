@@ -6,9 +6,9 @@ titleSlug: jiu-zuo-shan-zhong-ji-shi-er-shou-qi-er
 author: 蘇欽
 authorPinyin: su1 qin1
 authorSlug: su-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

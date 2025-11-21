@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-ba
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柏酒勤稱壽，椒塗蚤却寒。
-- 静無遊樂事，殊闊濯龍歡。
+- 玉殿重簾捲水晶，椒花柏葉聖人清。
+- 千春萬歲承明主，長聽雲韶歌管聲。
 
 ## 拼音
 
-- bai3 jiu3 qin2 cheng1 shou4 ， jiao1 tu2 zao3 que4 han2 。
-- jing4 wu2 you2 le4 shi4 ， shu1 kuo4 zhuo2 long2 huan1 。
+- yu4 dian4 zhong4 lian2 juan3 shui3 jing1 ， jiao1 hua1 bai3 ye4 sheng4 ren2 qing1 。
+- qian1 chun1 wan4 sui4 cheng2 ming2 zhu3 ， chang2 ting1 yun2 shao2 ge1 guan3 sheng1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: she-xiang-xuan
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南薰吹麝馥，背樹染鵝黄。
-- 裏許香爲德，中央色自莊。
-- 洛津行夕佩，仙掌洗晨粧。
-- 真爲忘憂賞，看雲戀故鄉。
+- 香客忽破鼻，從事宜到臍。
+- 憂端集無所，醉倒休扶携。
 
 ## 拼音
 
-- nan2 xun1 chui1 she4 fu4 ， bei4 shu4 ran3 e2 huang2 。
-- li3 xu1 xiang1 wei2 de2 ， zhong1 yang1 se4 zi4 zhuang1 。
-- luo4 jin1 xing2 xi1 pei4 ， xian1 zhang3 xi3 chen2 zhuang1 。
-- zhen1 wei2 wang4 you1 shang3 ， kan4 yun2 lian4 gu4 xiang1 。
+- xiang1 ke4 hu1 po4 bi2 ， cong2 shi4 yi2 dao4 qi2 。
+- you1 duan1 ji2 wu2 suo3 ， zui4 dao3 xiu1 fu2 xie2 。
 
 ## 注释
 

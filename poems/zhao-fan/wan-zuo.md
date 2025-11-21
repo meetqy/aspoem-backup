@@ -6,25 +6,21 @@ titleSlug: wan-zuo
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 午暑如許酷，晚凉能爾清。
-- 山陰雙鷺落，林杪幾蟬鳴。
-- 懶對自閒坐，閑穿不借行。
-- 追風更撐月，安得小舟橫。
+- 古屋黄昏蝙蝠飛，爾飛干我竟何爲。
+- 但愁蚊子且生翼，飽爾亦當侵我肌。
 
 ## 拼音
 
-- wu3 shu3 ru2 xu1 ku4 ， wan3 liang2 neng2 er3 qing1 。
-- shan1 yin1 shuang1 lu4 luo4 ， lin2 miao3 ji1 chan2 ming2 。
-- lan3 dui4 zi4 xian2 zuo4 ， xian2 chuan1 bu2 jie4 xing2 。
-- zhui1 feng1 geng4 cheng1 yue4 ， an1 de2 xiao3 zhou1 heng2 。
+- gu3 wu1 huang2 hun1 bian1 fu2 fei1 ， er3 fei1 gan1 wo3 jing4 he2 wei2 。
+- dan4 chou2 wen2 zi0 qie3 sheng1 yi4 ， bao3 er3 yi4 dang1 qin1 wo3 ji1 。
 
 ## 注释
 

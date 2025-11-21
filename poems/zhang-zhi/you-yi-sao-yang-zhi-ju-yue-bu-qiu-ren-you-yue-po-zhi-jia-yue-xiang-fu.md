@@ -6,10 +6,10 @@ titleSlug: you-yi-sao-yang-zhi-ju-yue-bu-qiu-ren-you-yue-po-zhi-jia-yue-xiang-fu
 author: 張埴
 authorPinyin: zhang1 zhi2
 authorSlug: zhang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

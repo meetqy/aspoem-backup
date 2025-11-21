@@ -6,10 +6,10 @@ titleSlug: chen-yan-chen-lian-jing-nu-an-pan-ci
 author: 王剛中
 authorPinyin: wang2 gang1 zhong1
 authorSlug: wang-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: tong-ding-zhi-yuan-si-hu-you-dong-ye-shan-qi-er
 author: 李庚
 authorPinyin: li3 geng1
 authorSlug: li-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

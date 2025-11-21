@@ -6,21 +6,21 @@ titleSlug: li-chun
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鬢毛蕭颯寸心灰，生怕新年節物催。
-- 幸是身閑朝睡美，忽聞鼓吹打春回。
+- 採花枝上寶旛新，看徧秦山楚水春。
+- 村舍不知時節換，傍檐百舌苦撩人。
 
 ## 拼音
 
-- bin4 mao2 xiao1 sa4 cun4 xin1 hui1 ， sheng1 pa4 xin1 nian2 jie2 wu4 cui1 。
-- xing4 shi4 shen1 xian2 chao2 shui4 mei3 ， hu1 wen2 gu3 chui1 da3 chun1 hui2 。
+- cai3 hua1 zhi1 shang4 bao3 fan1 xin1 ， kan4 bian4 qin2 shan1 chu3 shui3 chun1 。
+- cun1 she4 bu4 zhi1 shi2 jie2 huan4 ， bang4 yan2 bai3 she2 ku3 liao2 ren2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yu-yu-zhang-shun-qing-er-biao-di-ji-ming-you-jian-sheng-ting-you-zuo-
 author: 陳東
 authorPinyin: chen2 dong1
 authorSlug: chen-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ping-jiang-ting-yao-feng-shan-yun-nan-tong-zuo
 author: 趙衮
 authorPinyin: zhao4 gun3
 authorSlug: zhao-gun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

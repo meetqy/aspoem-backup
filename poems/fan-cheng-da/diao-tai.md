@@ -6,21 +6,21 @@ titleSlug: diao-tai
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山林朝市兩塵埃，邂逅人生有往來。
-- 各向此心安處住，釣臺無意壓雲臺。
+- 久矣心空客路埃，茲行端爲主恩來。
+- 杜陵詩是吾詩句，卧病豈登江上臺。
 
 ## 拼音
 
-- shan1 lin2 chao2 shi4 liang3 chen2 ai1 ， xie4 hou4 ren2 sheng1 you3 wang3 lai2 。
-- ge4 xiang4 ci3 xin1 an1 chu3 zhu4 ， diao4 tai2 wu2 yi4 ya1 yun2 tai2 。
+- jiu3 yi3 xin1 kong1 ke4 lu4 ai1 ， zi1 xing2 duan1 wei2 zhu3 en1 lai2 。
+- du4 ling2 shi1 shi4 wu2 shi1 ju4 ， wo4 bing4 qi3 deng1 jiang1 shang4 tai2 。
 
 ## 注释
 

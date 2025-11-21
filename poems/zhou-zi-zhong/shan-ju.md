@@ -6,10 +6,10 @@ titleSlug: shan-ju
 author: 周自中
 authorPinyin: zhou1 zi4 zhong1
 authorSlug: zhou-zi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-shi-tai-die-du-guang-tai-qian-die-yun-yi-ping-shi-zhu-juan-ming-yi
 author: 石介
 authorPinyin: shi2 jie4
 authorSlug: shi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

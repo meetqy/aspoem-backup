@@ -1,30 +1,34 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-ling-si-shou-qi-yi-yi
-title: 偈頌一百零四首  其一一
-titlePinyin: ji4 song4 yi4 bai3 ling2 si4 shou3     qi2 yi1 yi1
+title: 偈頌一百零四首  其一○一
+titlePinyin: ji4 song4 yi4 bai3 ling2 si4 shou3     qi2 yi1 ○ yi1
 titleSlug: ji-song-yi-bai-ling-si-shou-qi-yi-yi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 八月秋，何處熱，盡大地，一團鐵。
-- 衲僧家向南北東西，草鞋跟踏得裂，拄杖頭挑得折。
-- 驀劄相逢，德山棒，臨濟喝，百怪千妖，如何計結。
-- 噁，邪法難扶，莫說莫說。
+- 三界炎炎如火聚，攪擾勞生困蒸煮。
+- 邪見稠林蔽祖庭，孰爲臨濟陰凉樹。
+- 拄杖子，回避無門，全身荷負。
+- 特立獨行，危分險布。
+- 掃除枝葉不留蹤，普覆大地人，徹骨清凉去。
+- 雖然如是，趙婆酤醋。
 
 ## 拼音
 
-- ba1 yue4 qiu1 ， he2 chu3 re4 ， jin4 da4 di4 ， yi4 tuan2 tie3 。
-- na4 seng1 jia1 xiang4 nan2 bei3 dong1 xi1 ， cao3 xie2 gen1 ta4 de2 lie4 ， zhu3 zhang4 tou2 tiao1 de2 zhe2 。
-- mo4 zha1 xiang1 feng2 ， de2 shan1 bang4 ， lin2 ji4 he1 ， bai3 guai4 qian1 yao1 ， ru2 he2 ji4 jie2 。
-- e3 ， xie2 fa3 nan2 fu2 ， mo4 shuo1 mo4 shuo1 。
+- san1 jie4 yan2 yan2 ru2 huo3 ju4 ， jiao3 rao3 lao2 sheng1 kun4 zheng1 zhu3 。
+- xie2 jian4 chou2 lin2 bi4 zu3 ting2 ， shu2 wei2 lin2 ji4 yin1 liang2 shu4 。
+- zhu3 zhang4 zi3 ， hui2 bi4 wu2 men2 ， quan2 shen1 he2 fu4 。
+- te4 li4 du2 xing2 ， wei1 fen1 xian3 bu4 。
+- sao3 chu2 zhi1 ye4 bu4 liu2 zong1 ， pu3 fu4 da4 di4 ren2 ， che4 gu3 qing1 liang2 qu4 。
+- sui1 ran2 ru2 shi4 ， zhao4 po2 gu1 cu4 。
 
 ## 注释
 

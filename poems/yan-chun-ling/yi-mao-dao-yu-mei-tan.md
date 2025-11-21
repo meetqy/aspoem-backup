@@ -6,10 +6,10 @@ titleSlug: yi-mao-dao-yu-mei-tan
 author: 嚴椿齡
 authorPinyin: yan2 chun1 ling2
 authorSlug: yan-chun-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

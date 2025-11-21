@@ -6,10 +6,10 @@ titleSlug: leng-qing-sheng-huo-yu-fu-zhuo-he-yi-wei-qi-zhuo-jiu-qi-le-wu-ya-zai-
 author: 項大受
 authorPinyin: xiang4 da4 shou4
 authorSlug: xiang-da-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

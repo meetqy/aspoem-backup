@@ -6,10 +6,10 @@ titleSlug: song-chen-de-run-fu-hui-zhou
 author: 汪應辰
 authorPinyin: wang1 ying1 chen2
 authorSlug: wang-ying-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

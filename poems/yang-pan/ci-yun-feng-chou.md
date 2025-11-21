@@ -6,25 +6,25 @@ titleSlug: ci-yun-feng-chou
 author: 楊蟠
 authorPinyin: yang2 pan2
 authorSlug: yang-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 臘後東風掃翠微，同看芳柳破春機。
-- 三宵聽水都無夢，四日登山未肯歸。
-- 野老止憑雲送客，家人應笑雨霑衣。
-- 君詩兼簡佳公子，只恐囊傾一夜飛。
+- 猿聲未落鳥聲愁，筍發花開澗水流。
+- 還對春風驚節物，漫思野老傍林邱。
+- 古人得道多深隠，賢守知名貴早收。
+- 林下頻過君莫怪，自看骨相匪封侯。
 
 ## 拼音
 
-- la4 hou4 dong1 feng1 sao3 cui4 wei1 ， tong2 kan4 fang1 liu3 po4 chun1 ji1 。
-- san1 xiao1 ting1 shui3 dou1 wu2 meng4 ， si4 ri4 deng1 shan1 wei4 ken3 gui1 。
-- ye3 lao3 zhi3 ping2 yun2 song4 ke4 ， jia1 ren2 ying1 xiao4 yu3 zhan1 yi1 。
-- jun1 shi1 jian1 jian3 jia1 gong1 zi3 ， zhi3 kong3 nang2 qing1 yi2 ye4 fei1 。
+- yuan2 sheng1 wei4 luo4 niao3 sheng1 chou2 ， sun3 fa1 hua1 kai1 jian4 shui3 liu2 。
+- huan2 dui4 chun1 feng1 jing1 jie2 wu4 ， man4 si1 ye3 lao3 bang4 lin2 qiu1 。
+- gu3 ren2 de2 dao4 duo1 shen1 yin3 ， xian2 shou3 zhi1 ming2 gui4 zao3 shou1 。
+- lin2 xia4 bin1 guo4 jun1 mo4 guai4 ， zi4 kan4 gu3 xiang4 fei3 feng1 hou2 。
 
 ## 注释
 

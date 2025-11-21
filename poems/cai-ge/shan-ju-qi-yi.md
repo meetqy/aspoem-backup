@@ -1,26 +1,26 @@
 ---
 id: cai-ge-shan-ju-qi-yi
-title: 山居  其一
-titlePinyin: shan1 ju1     qi2 yi1
+title: 山居  其一○
+titlePinyin: shan1 ju1     qi2 yi1 ○
 titleSlug: shan-ju-qi-yi
 author: 蔡格
 authorPinyin: cai4 ge2
 authorSlug: cai-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨秋涼爽氣新，秋聲栗栗轉傷神。
-- 根株半載培多少，倏忽流光不待人。
+- 老年隨分做工夫，黄卷靜披世味無。
+- 倦整池邊春睡足，凭欄遥看鳥相呼。
 
 ## 拼音
 
-- yi4 yu3 qiu1 liang2 shuang3 qi4 xin1 ， qiu1 sheng1 li4 li4 zhuan3 shang1 shen2 。
-- gen1 zhu1 ban4 zai4 pei2 duo1 shao3 ， shu1 hu1 liu2 guang1 bu2 dai4 ren2 。
+- lao3 nian2 sui2 fen1 zuo4 gong1 fu0 ， huang2 juan4 jing4 pi1 shi4 wei4 wu2 。
+- juan4 zheng3 chi2 bian1 chun1 shui4 zu2 ， ping2 lan2 yao2 kan4 niao3 xiang1 hu1 。
 
 ## 注释
 

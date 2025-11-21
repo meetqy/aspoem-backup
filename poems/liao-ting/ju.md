@@ -6,10 +6,10 @@ titleSlug: ju
 author: 廖挺
 authorPinyin: liao4 ting3
 authorSlug: liao-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

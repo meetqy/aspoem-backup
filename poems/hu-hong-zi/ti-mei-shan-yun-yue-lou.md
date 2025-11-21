@@ -6,10 +6,10 @@ titleSlug: ti-mei-shan-yun-yue-lou
 author: 胡宏子
 authorPinyin: hu2 hong2 zi3
 authorSlug: hu-hong-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

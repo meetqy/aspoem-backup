@@ -1,30 +1,26 @@
 ---
 id: shi-fan-cong-ji-song-jiu-shi-san-shou-qi-san
-title: 偈頌九十三首  其三
-titlePinyin: ji4 song4 jiu3 shi2 san1 shou3     qi2 san1
+title: 偈頌九十三首  其三○
+titlePinyin: ji4 song4 jiu3 shi2 san1 shou3     qi2 san1 ○
 titleSlug: ji-song-jiu-shi-san-shou-qi-san
 author: 釋梵琮
 authorPinyin: shi4 fan4 cong2
 authorSlug: shi-fan-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 據此丈室，無可不可。
-- 要行即行，要坐便坐。
-- 漆桶相挨，一時打破。
-- 三脚蝦𢋙透九垓，笑倒嵩山破竈墮。
+- 上方一夜開香積，天曉堂中喫雪團。
+- 信手拈來當面擲，不知誰識爲人寒。
 
 ## 拼音
 
-- ju4 ci3 zhang4 shi4 ， wu2 ke3 bu4 ke3 。
-- yao4 xing2 ji2 xing2 ， yao4 zuo4 bian4 zuo4 。
-- qi1 tong3 xiang1 ai1 ， yi4 shi2 da3 po4 。
-- san1 jiao3 xia1 𢋙 tou4 jiu3 gai1 ， xiao4 dao3 song1 shan1 po4 zao4 duo4 。
+- shang4 fang1 yi2 ye4 kai1 xiang1 ji1 ， tian1 xiao3 tang2 zhong1 chi1 xue3 tuan2 。
+- xin4 shou3 nian1 lai2 dang1 mian4 zhi4 ， bu4 zhi1 shui2 shi2 wei2 ren2 han2 。
 
 ## 注释
 

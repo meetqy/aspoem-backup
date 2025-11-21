@@ -6,10 +6,10 @@ titleSlug: wu-ti-er-shou-qi-er
 author: 龐謙孺
 authorPinyin: pang2 qian1 ru2
 authorSlug: pang-qian-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

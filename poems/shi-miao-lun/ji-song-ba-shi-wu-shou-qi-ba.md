@@ -1,26 +1,26 @@
 ---
 id: shi-miao-lun-ji-song-ba-shi-wu-shou-qi-ba
-title: 偈頌八十五首  其八
-titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 ba1
+title: 偈頌八十五首  其八○
+titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 ba1 ○
 titleSlug: ji-song-ba-shi-wu-shou-qi-ba
 author: 釋妙倫
 authorPinyin: shi4 miao4 lun2
 authorSlug: shi-miao-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禪禪，斷貫索左穿右穿。
-- 道道，生苕菷橫掃豎掃。
+- 竇八抽身已敗贓，偷兒曲爲巧遮藏。
+- 一家著賊猶閑事，攪斷平人幾肚腸。
 
 ## 拼音
 
-- shan4 shan4 ， duan4 guan4 suo3 zuo3 chuan1 you4 chuan1 。
-- dao4 dao4 ， sheng1 tiao2 zhou3 heng2 sao3 shu4 sao3 。
+- dou4 ba1 chou1 shen1 yi3 bai4 zang1 ， tou1 er2 qu3 wei2 qiao3 zhe1 cang2 。
+- yi4 jia1 zhu4 zei2 you2 xian2 shi4 ， jiao3 duan4 ping2 ren2 ji1 du4 chang2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: ji-zhou-ji-qing-qi-san
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日日言歸未得歸，翻令兒女笑寒饑。
-- 而今已覺歸非遠，爲報山猿野鶴知。
+- 老來足力覺全衰，一日山行兩日疲。
+- 歸去蹇馿須買得，山中出入不嫌遲。
 
 ## 拼音
 
-- ri4 ri4 yan2 gui1 wei4 de2 gui1 ， fan1 ling4 er2 nü3 xiao4 han2 ji1 。
-- er2 jin1 yi3 jue2 gui1 fei1 yuan3 ， wei2 bao4 shan1 yuan2 ye3 he4 zhi1 。
+- lao3 lai2 zu2 li4 jue2 quan2 shuai1 ， yi2 ri4 shan1 xing2 liang3 ri4 pi2 。
+- gui1 qu4 jian3 lu2 xu1 mai3 de2 ， shan1 zhong1 chu1 ru4 bu4 xian2 chi2 。
 
 ## 注释
 

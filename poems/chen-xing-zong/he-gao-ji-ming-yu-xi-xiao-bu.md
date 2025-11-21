@@ -6,10 +6,10 @@ titleSlug: he-gao-ji-ming-yu-xi-xiao-bu
 author: 陳興宗
 authorPinyin: chen2 xing1 zong1
 authorSlug: chen-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

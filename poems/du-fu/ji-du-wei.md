@@ -9,20 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 近聞寬法離新州，想見懷歸尚百憂。
-- 逐客雖皆萬里去，悲君已是十年流。
-- 干戈況復塵隨眼，鬢髮還應雪滿頭。
+- 寒日經檐短，窮猨失木悲。
+- 峽中爲客恨，江上憶君時。
+- 天地身何在，風塵病敢辭。
+- 封書兩行淚，霑灑裛新詩。
 
 ## 拼音
 
-- jin4 wen2 kuan1 fa3 li2 xin1 zhou1 ， xiang3 jian4 huai2 gui1 shang4 bai3 you1 。
-- zhu2 ke4 sui1 jie1 wan4 li3 qu4 ， bei1 jun1 yi3 shi4 shi2 nian2 liu2 。
-- gan1 ge1 kuang4 fu4 chen2 sui2 yan3 ， bin4 fa4 huan2 ying1 xue3 man3 tou2 。
+- han2 ri4 jing1 yan2 duan3 ， qiong2 yuan2 shi1 mu4 bei1 。
+- xia2 zhong1 wei2 ke4 hen4 ， jiang1 shang4 yi4 jun1 shi2 。
+- tian1 di4 shen1 he2 zai4 ， feng1 chen2 bing4 gan3 ci2 。
+- feng1 shu1 liang3 xing2 lei4 ， zhan1 sa3 yi4 xin1 shi1 。
 
 ## 注释
 

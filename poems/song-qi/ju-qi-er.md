@@ -1,24 +1,24 @@
 ---
 id: song-qi-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 至公三籍在儲胥。
+- 細栽烟外葉，繁並暖前枝。
 
 ## 拼音
 
-- zhi4 gong1 san1 ji2 zai4 chu3 xu1 。
+- xi4 zai1 yan1 wai4 ye4 ， fan2 bing4 nuan3 qian2 zhi1 。
 
 ## 注释
 

@@ -1,30 +1,26 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-ling-er-shou-qi-san
-title: 偈頌一百零二首  其三
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 san1
+title: 偈頌一百零二首  其三○
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 san1 ○
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人家競賞元宵，佛隴百無一有。
-- 管宴雖愧空疏，賓主不分新舊。
-- 隴頭月助放光明，谷口松編排節奏。
-- 春風舞袖樂昇平，不知身在然燈後。
+- 繭足尋莊到海門，天衣往事與誰論。
+- 長空雁影沉寒水，瘦立西風幾斷魂。
 
 ## 拼音
 
-- ren2 jia1 jing4 shang3 yuan2 xiao1 ， fo2 long3 bai3 wu2 yi4 you3 。
-- guan3 yan4 sui1 kui4 kong1 shu1 ， bin1 zhu3 bu4 fen1 xin1 jiu4 。
-- long3 tou2 yue4 zhu4 fang4 guang1 ming2 ， gu3 kou3 song1 bian1 pai2 jie2 zou4 。
-- chun1 feng1 wu3 xiu4 le4 sheng1 ping2 ， bu4 zhi1 shen1 zai4 ran2 deng1 hou4 。
+- jian3 zu2 xun2 zhuang1 dao4 hai3 men2 ， tian1 yi1 wang3 shi4 yu3 shui2 lun4 。
+- chang2 kong1 yan4 ying3 chen2 han2 shui3 ， shou4 li4 xi1 feng1 ji1 duan4 hun2 。
 
 ## 注释
 

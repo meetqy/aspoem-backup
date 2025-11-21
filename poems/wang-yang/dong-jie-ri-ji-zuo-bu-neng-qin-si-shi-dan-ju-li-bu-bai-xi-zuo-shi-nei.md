@@ -6,10 +6,10 @@ titleSlug: dong-jie-ri-ji-zuo-bu-neng-qin-si-shi-dan-ju-li-bu-bai-xi-zuo-shi-nei
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

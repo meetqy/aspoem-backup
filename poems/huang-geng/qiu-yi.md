@@ -6,21 +6,21 @@ titleSlug: qiu-yi
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梧葉翻風敲老樹，蛩聲带月泣寒莎。
-- 只消些少閑風月，便覺客窗秋意多。
+- 庭前梧葉雨晴後，江上荻花風起時。
+- 凉透書窗人未覺，葛衣竹簟已先知。
 
 ## 拼音
 
-- wu2 ye4 fan1 feng1 qiao1 lao3 shu4 ， qiong2 sheng1 dai4 yue4 qi4 han2 sha1 。
-- zhi1 xiao1 xie1 shao3 xian2 feng1 yue4 ， bian4 jue2 ke4 chuang1 qiu1 yi4 duo1 。
+- ting2 qian2 wu2 ye4 yu3 qing2 hou4 ， jiang1 shang4 di2 hua1 feng1 qi3 shi2 。
+- liang2 tou4 shu1 chuang1 ren2 wei4 jue2 ， ge3 yi1 zhu2 dian4 yi3 xian1 zhi1 。
 
 ## 注释
 

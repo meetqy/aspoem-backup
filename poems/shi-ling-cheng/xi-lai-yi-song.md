@@ -6,9 +6,9 @@ titleSlug: xi-lai-yi-song
 author: 釋靈澄
 authorPinyin: shi4 ling2 cheng2
 authorSlug: shi-ling-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

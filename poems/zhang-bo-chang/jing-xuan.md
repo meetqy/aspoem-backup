@@ -6,10 +6,10 @@ titleSlug: jing-xuan
 author: 張伯昌
 authorPinyin: zhang1 bo2 chang1
 authorSlug: zhang-bo-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

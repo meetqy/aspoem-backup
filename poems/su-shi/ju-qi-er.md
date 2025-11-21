@@ -1,24 +1,24 @@
 ---
 id: su-shi-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 滄海何曾斷地脈，白袍端合破天荒。
+- 山抹微雲秦學士，露花倒影柳屯田。
 
 ## 拼音
 
-- cang1 hai3 he2 ceng2 duan4 di4 mai4 ， bai2 pao2 duan1 he2 po4 tian1 huang1 。
+- shan1 mo3 wei1 yun2 qin2 xue2 shi4 ， lu4 hua1 dao4 ying3 liu3 tun2 tian2 。
 
 ## 注释
 

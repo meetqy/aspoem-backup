@@ -6,10 +6,10 @@ titleSlug: he-li-gong-tao-bao-lin-yuan-yan-xiang-ge
 author: 釋則安
 authorPinyin: shi4 ze2 an1
 authorSlug: shi-ze-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

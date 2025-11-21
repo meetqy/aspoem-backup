@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-wu
-title: 句  其五
-titlePinyin: ju4     qi2 wu3
+title: 句  其五○
+titlePinyin: ju4     qi2 wu3 ○
 titleSlug: ju-qi-wu
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白髮古今天北極，黄華宇宙客西風。
+- 雅翻漢月催黄髮，雁斷胡天想翠華。
 
 ## 拼音
 
-- bai2 fa4 gu3 jin1 tian1 bei3 ji2 ， huang2 hua2 yu3 zhou4 ke4 xi1 feng1 。
+- ya3 fan1 han4 yue4 cui1 huang2 fa4 ， yan4 duan4 hu2 tian1 xiang3 cui4 hua2 。
 
 ## 注释
 

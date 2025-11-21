@@ -6,10 +6,10 @@ titleSlug: qi-xia-si
 author: 谷倪子
 authorPinyin: gu3 ni2 zi3
 authorSlug: gu-ni-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

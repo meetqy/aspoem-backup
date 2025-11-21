@@ -6,10 +6,10 @@ titleSlug: hu-shang-lian-ju
 author: 蘇京
 authorPinyin: su1 jing1
 authorSlug: su-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ren-shi-yuan-er-yong-wu-yuan-lou
 author: 王灼
 authorPinyin: wang2 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

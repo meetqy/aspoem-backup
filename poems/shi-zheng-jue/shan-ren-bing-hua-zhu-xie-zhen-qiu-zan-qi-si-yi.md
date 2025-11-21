@@ -1,32 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-yi
-title: 禪人并化主寫真求贊  其四一
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 yi1
+title: 禪人并化主寫真求贊  其四一○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 yi1 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 這樣師僧，面目可憎。
-- 名摸還不似，藏覆又何曾。
-- 虛空闊無工夫挂劍，滄海深有伎倆挑燈。
-- 抖擻頭陀備，玲瓏道者稜。
-- 入閩借問，何如箇能。
+- 跡像而無，純全而有。
+- 陰陽不測之神，生滅不到而壽。
+- 十方界聊現半身，三世佛不消一口。
+- 只箇山形拄杖子，與君觸處相隨走。
 
 ## 拼音
 
-- zhe4 yang4 shi1 seng1 ， mian4 mu4 ke3 zeng1 。
-- ming2 mo1 huan2 bu2 si4 ， cang2 fu4 you4 he2 ceng2 。
-- xu1 kong1 kuo4 wu2 gong1 fu0 gua4 jian4 ， cang1 hai3 shen1 you3 ji4 liang3 tiao1 deng1 。
-- dou3 sou4 tou2 tuo2 bei4 ， ling2 long2 dao4 zhe3 leng2 。
-- ru4 min3 jie4 wen4 ， he2 ru2 ge4 neng2 。
+- ji4 xiang4 er2 wu2 ， chun2 quan2 er2 you3 。
+- yin1 yang2 bu2 ce4 zhi1 shen2 ， sheng1 mie4 bu2 dao4 er2 shou4 。
+- shi2 fang1 jie4 liao2 xian4 ban4 shen1 ， san1 shi4 fo2 bu4 xiao1 yi4 kou3 。
+- zhi1 ge4 shan1 xing2 zhu3 zhang4 zi3 ， yu3 jun1 chu4 chu3 xiang1 sui2 zou3 。
 
 ## 注释
 

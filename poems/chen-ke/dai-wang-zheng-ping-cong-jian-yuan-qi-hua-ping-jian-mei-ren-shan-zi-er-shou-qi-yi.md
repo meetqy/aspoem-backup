@@ -6,10 +6,10 @@ titleSlug: dai-wang-zheng-ping-cong-jian-yuan-qi-hua-ping-jian-mei-ren-shan-zi-e
 author: 陳克
 authorPinyin: chen2 ke4
 authorSlug: chen-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

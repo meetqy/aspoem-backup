@@ -6,25 +6,21 @@ titleSlug: ai-guo-xian-ling-you-zi-bi-qi-er
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 送別言猶在，來書墨尚溫。
-- 安知咫尺地，便有死生分。
-- 已負秋山約，猶傳魯史文。
-- 魂兮今有託，將祔伯兄墳。
+- 艱生數寸得能孤，滿望亭亭百尺餘。
+- 霜雪未零摧折去，不材何用腹心枯。
 
 ## 拼音
 
-- song4 bie2 yan2 you2 zai4 ， lai2 shu1 mo4 shang4 wen1 。
-- an1 zhi1 zhi3 chi3 di4 ， bian4 you3 si3 sheng1 fen4 。
-- yi3 fu4 qiu1 shan1 yue1 ， you2 chuan2 lu3 shi3 wen2 。
-- hun2 xi1 jin1 you3 tuo1 ， jiang1 fu4 bo2 xiong1 fen2 。
+- jian1 sheng1 shu4 cun4 de2 neng2 gu1 ， man3 wang4 ting2 ting2 bai3 chi3 yu2 。
+- shuang1 xue3 wei4 ling2 cui1 zhe2 qu4 ， bu4 cai2 he2 yong4 fu4 xin1 ku1 。
 
 ## 注释
 

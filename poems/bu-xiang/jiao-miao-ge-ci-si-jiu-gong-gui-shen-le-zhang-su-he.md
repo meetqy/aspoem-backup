@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 歌工既奏，神位既秩。
-- 天符衆星，運行太一。
-- 聲和十管，氣應中律。
-- 肅肅明廷，介茲元吉。
+- 精意嚴恭，明祠豐潔。
+- 獻酬既備，俎豆斯撤。
+- 日麗天儀，風和樂節。
+- 事光祀典，福覃有截。
 
 ## 拼音
 
-- ge1 gong1 ji4 zou4 ， shen2 wei4 ji4 zhi4 。
-- tian1 fu2 zhong4 xing1 ， yun4 xing2 tai4 yi1 。
-- sheng1 he2 shi2 guan3 ， qi4 ying1 zhong1 lü4 。
-- su4 su4 ming2 ting2 ， jie4 zi1 yuan2 ji2 。
+- jing1 yi4 yan2 gong1 ， ming2 ci2 feng1 jie2 。
+- xian4 chou2 ji4 bei4 ， zu3 dou4 si1 che4 。
+- ri4 li2 tian1 yi2 ， feng1 he2 le4 jie2 。
+- shi4 guang1 si4 dian3 ， fu2 qin2 you3 jie2 。
 
 ## 注释
 

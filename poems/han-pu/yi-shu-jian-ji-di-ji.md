@@ -6,9 +6,9 @@ titleSlug: yi-shu-jian-ji-di-ji
 author: 韓溥
 authorPinyin: han2 pu3
 authorSlug: han-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

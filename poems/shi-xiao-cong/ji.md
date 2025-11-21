@@ -6,21 +6,21 @@ titleSlug: ji
 author: 釋曉聰
 authorPinyin: shi4 xiao3 cong1
 authorSlug: shi-xiao-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大地雪漫漫，春風依舊寒。
-- 說禪說道易，成佛成祖難。
+- 晨鷄報曉靈，粥後便天明。
+- 燈籠猶瞌睡，露柱却惺惺。
 
 ## 拼音
 
-- da4 di4 xue3 man4 man4 ， chun1 feng1 yi1 jiu4 han2 。
-- shuo1 shan4 shuo1 dao4 yi4 ， cheng2 fo2 cheng2 zu3 nan2 。
+- chen2 ji1 bao4 xiao3 ling2 ， zhou1 hou4 bian4 tian1 ming2 。
+- deng1 long2 you2 ke1 shui4 ， lu4 zhu4 que4 xing1 xing1 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: ma-ting-luan-he-jie-tang-jian-shou-shi-zhang-qi-yi
-title: 和潔堂見壽十章  其一
-titlePinyin: he2 jie2 tang2 jian4 shou4 shi2 zhang1     qi2 yi1
+title: 和潔堂見壽十章  其一○
+titlePinyin: he2 jie2 tang2 jian4 shou4 shi2 zhang1     qi2 yi1 ○
 titleSlug: he-jie-tang-jian-shou-shi-zhang-qi-yi
 author: 馬廷鸞
 authorPinyin: ma3 ting2 luan2
 authorSlug: ma-ting-luan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老色上尺宅，靈氣虧三田。
-- 懷我長房翁，授汝雞犬仙。
+- 祝公千齡壽，小我五月生。
+- 如何山林槁，得並江漢英。
 
 ## 拼音
 
-- lao3 se4 shang4 chi3 zhai2 ， ling2 qi4 kui1 san1 tian2 。
-- huai2 wo3 chang2 fang2 weng1 ， shou4 ru3 ji1 quan3 xian1 。
+- zhu4 gong1 qian1 ling2 shou4 ， xiao3 wo3 wu3 yue4 sheng1 。
+- ru2 he2 shan1 lin2 gao3 ， de2 bing4 jiang1 han4 ying1 。
 
 ## 注释
 

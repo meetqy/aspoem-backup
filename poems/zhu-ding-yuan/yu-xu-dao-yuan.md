@@ -6,10 +6,10 @@ titleSlug: yu-xu-dao-yuan
 author: 朱鼎元
 authorPinyin: zhu1 ding3 yuan2
 authorSlug: zhu-ding-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

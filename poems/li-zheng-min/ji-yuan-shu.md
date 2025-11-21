@@ -6,25 +6,25 @@ titleSlug: ji-yuan-shu
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 涉世崎嶇三十年，棲遲琳館祝堯天。
-- 桔橰不用身謀拙，梨棗先栽氣守全。
-- 何幸童烏新忝命，應容老鶴漸歸田。
-- 嚢金未足營三徑，搔首東風一慨然。
+- 十束三鍾未苦貧，端居終歲謝塵氛。
+- 春回苒苒生芳草，日暮悠悠對碧雲。
+- 往事已嗟存土梗，乘時争欲辨蕕薫。
+- 傷心極目空千里，膓斷稽山正憶君。
 
 ## 拼音
 
-- she4 shi4 qi2 qu1 san1 shi2 nian2 ， qi1 chi2 lin2 guan3 zhu4 yao2 tian1 。
-- ju2 gao1 bu2 yong4 shen1 mou2 zhuo1 ， li2 zao3 xian1 zai1 qi4 shou3 quan2 。
-- he2 xing4 tong2 wu1 xin1 tian3 ming4 ， ying1 rong2 lao3 he4 jian4 gui1 tian2 。
-- nang2 jin1 wei4 zu2 ying2 san1 jing4 ， sao1 shou3 dong1 feng1 yi4 kai3 ran2 。
+- shi2 shu4 san1 zhong1 wei4 ku3 pin2 ， duan1 ju1 zhong1 sui4 xie4 chen2 fen1 。
+- chun1 hui2 ran3 ran3 sheng1 fang1 cao3 ， ri4 mu4 you1 you1 dui4 bi4 yun2 。
+- wang3 shi4 yi3 jie1 cun2 tu3 geng3 ， cheng2 shi2 zheng1 yu4 bian4 you2 xun1 。
+- shang1 xin1 ji2 mu4 kong1 qian1 li3 ， chang2 duan4 ji1 shan1 zheng4 yi4 jun1 。
 
 ## 注释
 

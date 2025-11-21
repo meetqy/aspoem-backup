@@ -6,10 +6,10 @@ titleSlug: ti-ji-fu-yuan
 author: 徐柟
 authorPinyin: xu2 nan2
 authorSlug: xu-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

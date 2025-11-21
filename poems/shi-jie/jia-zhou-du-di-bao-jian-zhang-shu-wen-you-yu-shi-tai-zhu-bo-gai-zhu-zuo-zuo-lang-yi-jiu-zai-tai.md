@@ -6,10 +6,10 @@ titleSlug: jia-zhou-du-di-bao-jian-zhang-shu-wen-you-yu-shi-tai-zhu-bo-gai-zhu-z
 author: 石介
 authorPinyin: shi2 jie4
 authorSlug: shi-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

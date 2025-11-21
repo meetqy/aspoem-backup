@@ -6,10 +6,10 @@ titleSlug: ye-guan-ge-jiao-kan-ou-yang-gong
 author: 蔡高
 authorPinyin: cai4 gao1
 authorSlug: cai-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

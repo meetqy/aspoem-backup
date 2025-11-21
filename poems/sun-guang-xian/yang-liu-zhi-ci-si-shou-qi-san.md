@@ -6,9 +6,9 @@ titleSlug: yang-liu-zhi-ci-si-shou-qi-san
 author: 孫光憲
 authorPinyin: sun1 guang1 xian4
 authorSlug: sun-guang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

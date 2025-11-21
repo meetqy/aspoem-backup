@@ -6,10 +6,10 @@ titleSlug: shi-er-lu
 author: 饒炎
 authorPinyin: rao2 yan2
 authorSlug: rao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

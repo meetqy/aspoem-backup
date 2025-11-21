@@ -1,26 +1,26 @@
 ---
 id: shi-miao-lun-ji-song-ba-shi-wu-shou-qi-si
-title: 偈頌八十五首  其四
-titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 si4
+title: 偈頌八十五首  其四○
+titlePinyin: ji4 song4 ba1 shi2 wu3 shou3     qi2 si4 ○
 titleSlug: ji-song-ba-shi-wu-shou-qi-si
 author: 釋妙倫
 authorPinyin: shi4 miao4 lun2
 authorSlug: shi-miao-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉花初拆露香新，獨向空山冷襯雲。
-- 忽被春風輕觸著，淡紅脫落亂紛紛。
+- 蕭蕭黄葉埋荒徑，靄靄浮雲鎖野堂。
+- 一陣西風俱埽盡，幾根喬木倚斜陽。
 
 ## 拼音
 
-- xiao3 hua1 chu1 chai1 lu4 xiang1 xin1 ， du2 xiang4 kong1 shan1 leng3 chen4 yun2 。
-- hu1 bei4 chun1 feng1 qing1 chu4 zhu4 ， dan4 hong2 tuo1 luo4 luan4 fen1 fen1 。
+- xiao1 xiao1 huang2 ye4 mai2 huang1 jing4 ， ai3 ai3 fu2 yun2 suo3 ye3 tang2 。
+- yi2 zhen4 xi1 feng1 ju4 sao4 jin4 ， ji1 gen1 qiao2 mu4 yi3 xie2 yang2 。
 
 ## 注释
 

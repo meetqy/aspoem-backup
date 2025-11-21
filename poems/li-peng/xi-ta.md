@@ -6,25 +6,21 @@ titleSlug: xi-ta
 author: 李彭
 authorPinyin: li3 peng2
 authorSlug: li-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋山何秀整，風磴頗崢嶸。
-- 寺古殘僧病，門深舊犬迎。
-- 崖蜂将割蜜，澗鳥自呼名。
-- 毳衲典刑在，蕭然物外情。
+- 峰前日出霧初散，谿上雨来禽亂啼。
+- 欲記寧遊三峽處，詩成賴有董膠西。
 
 ## 拼音
 
-- qiu1 shan1 he2 xiu4 zheng3 ， feng1 deng4 po1 zheng1 rong2 。
-- si4 gu3 can2 seng1 bing4 ， men2 shen1 jiu4 quan3 ying2 。
-- ya2 feng1 jiang1 ge1 mi4 ， jian4 niao3 zi4 hu1 ming2 。
-- cui4 na4 dian3 xing2 zai4 ， xiao1 ran2 wu4 wai4 qing2 。
+- feng1 qian2 ri4 chu1 wu4 chu1 san4 ， xi1 shang4 yu3 lai2 qin2 luan4 ti2 。
+- yu4 ji4 ning2 you2 san1 xia2 chu3 ， shi1 cheng2 lai4 you3 dong3 jiao1 xi1 。
 
 ## 注释
 

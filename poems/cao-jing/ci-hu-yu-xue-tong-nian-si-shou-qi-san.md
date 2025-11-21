@@ -6,10 +6,10 @@ titleSlug: ci-hu-yu-xue-tong-nian-si-shou-qi-san
 author: 曹涇
 authorPinyin: cao2 jing1
 authorSlug: cao-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

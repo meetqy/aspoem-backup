@@ -6,10 +6,10 @@ titleSlug: dong-jun-zao-zhi-zi-shi-xiu-sui-qi-shi-dai-shi-ke-lai-jian-ba-ju-mian
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

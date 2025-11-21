@@ -6,10 +6,10 @@ titleSlug: shui-qi-xi-shu-cheng-ge-lu-qing-xi-da-guang-zhou-ju-tong-she-zhu-xion
 author: 張守
 authorPinyin: zhang1 shou3
 authorSlug: zhang-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

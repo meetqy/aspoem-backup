@@ -6,10 +6,10 @@ titleSlug: yi-lu-shan-san-die-quan-ji-zhang-zong-rui
 author: 湯巾
 authorPinyin: tang1 jin1
 authorSlug: tang-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

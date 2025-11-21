@@ -6,10 +6,10 @@ titleSlug: ji-san-shou-qi-yi
 author: 釋靈源
 authorPinyin: shi4 ling2 yuan2
 authorSlug: shi-ling-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

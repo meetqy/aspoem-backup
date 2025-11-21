@@ -6,10 +6,10 @@ titleSlug: bai-fu-si-xun-feng-tang-xiao-feng-xian-dong-men
 author: 沈樞
 authorPinyin: shen3 shu1
 authorSlug: shen-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

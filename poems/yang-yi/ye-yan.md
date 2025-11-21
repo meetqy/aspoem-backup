@@ -6,25 +6,33 @@ titleSlug: ye-yan
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 華堂高宴卜良宵，賓客當筵半珥貂。
-- 天轉玉繩星落落，風傳銀箭漏迢迢。
-- 連浮大白須判醉，促駕鳴騶又趁朝。
-- 月落烏啼人散後，衣香數日未能銷。
+- 涼宵綺宴開，醽醁湛芳罍。
+- 鶴蓋留飛舄，珠喉怨落梅。
+- 薄雲齊鬢膩，流雪楚腰迴。
+- 巧笑傾城媚，雕章刻燭催。
+- 盤空珠有淚，罏冷蕙成灰。
+- 巾角彈棋勝，琴心促軫哀。
+- 醉羅驚夢枕，愁黛怯妝臺。
+- 風細傳疏漏，猶歌起夜來。
 
 ## 拼音
 
-- hua2 tang2 gao1 yan4 bu3 liang2 xiao1 ， bin1 ke4 dang1 yan2 ban4 er3 diao1 。
-- tian1 zhuan3 yu4 sheng2 xing1 luo4 luo4 ， feng1 chuan2 yin2 jian4 lou4 tiao2 tiao2 。
-- lian2 fu2 da4 bai2 xu1 pan4 zui4 ， cu4 jia4 ming2 zou1 you4 chen4 chao2 。
-- yue4 luo4 wu1 ti2 ren2 san4 hou4 ， yi1 xiang1 shu4 ri4 wei4 neng2 xiao1 。
+- liang2 xiao1 qi3 yan4 kai1 ， ling2 lu4 zhan4 fang1 lei2 。
+- he4 gai4 liu2 fei1 xi4 ， zhu1 hou2 yuan4 luo4 mei2 。
+- bao2 yun2 qi2 bin4 ni4 ， liu2 xue3 chu3 yao1 hui2 。
+- qiao3 xiao4 qing1 cheng2 mei4 ， diao1 zhang1 ke4 zhu2 cui1 。
+- pan2 kong1 zhu1 you3 lei4 ， lu2 leng3 hui4 cheng2 hui1 。
+- jin1 jiao3 dan4 qi2 sheng4 ， qin2 xin1 cu4 zhen3 ai1 。
+- zui4 luo2 jing1 meng4 zhen3 ， chou2 dai4 qie4 zhuang1 tai2 。
+- feng1 xi4 chuan2 shu1 lou4 ， you2 ge1 qi3 ye4 lai2 。
 
 ## 注释
 

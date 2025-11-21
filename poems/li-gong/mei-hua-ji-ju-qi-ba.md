@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-ba
-title: 梅花集句  其八
-titlePinyin: mei2 hua1 ji2 ju4     qi2 ba1
+title: 梅花集句  其八○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 ba1 ○
 titleSlug: mei-hua-ji-ju-qi-ba
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨上西樓四望賒，玉林瓊樹影交加。
-- 春風也解嫌蕭索，借發明年最早花。
+- 鏤冰疊雪鬭輕盈，片逐銀蟾落醉觥。
+- 惆悵晚來風定後，隔林橫笛兩三聲。
 
 ## 拼音
 
-- du2 shang4 xi1 lou2 si4 wang4 she1 ， yu4 lin2 qiong2 shu4 ying3 jiao1 jia1 。
-- chun1 feng1 ye3 jie3 xian2 xiao1 suo3 ， jie4 fa1 ming2 nian2 zui4 zao3 hua1 。
+- lou4 bing1 die2 xue3 dou4 qing1 ying2 ， pian4 zhu2 yin2 chan2 luo4 zui4 gong1 。
+- chou2 chang4 wan3 lai2 feng1 ding4 hou4 ， ge2 lin2 heng2 di2 liang3 san1 sheng1 。
 
 ## 注释
 

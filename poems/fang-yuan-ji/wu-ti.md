@@ -6,10 +6,10 @@ titleSlug: wu-ti
 author: 方元吉
 authorPinyin: fang1 yuan2 ji2
 authorSlug: fang-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

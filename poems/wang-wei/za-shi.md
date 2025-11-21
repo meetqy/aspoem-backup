@@ -9,22 +9,24 @@ authorSlug: wang-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雙燕初命子，五桃新作花。
-- 王昌是東舍，宋玉次西家。
-- 小小能織綺，時時出浣紗。
-- 親勞使君問，南陌駐香車。
+- 朝因折楊柳，相見洛陽隅。
+- 楚國無如妾，秦家自有夫。
+- 對人傳玉腕，暎燭解羅襦。
+- 人見東方騎，皆言夫壻殊。
+- 持謝金吾子，煩君提玉壺。
 
 ## 拼音
 
-- shuang1 yan4 chu1 ming4 zi3 ， wu3 tao2 xin1 zuo4 hua1 。
-- wang2 chang1 shi4 dong1 she4 ， song4 yu4 ci4 xi1 jia1 。
-- xiao3 xiao3 neng2 zhi1 qi3 ， shi2 shi2 chu1 huan4 sha1 。
-- qin1 lao2 shi3 jun1 wen4 ， nan2 mo4 zhu4 xiang1 ju1 。
+- chao2 yin1 zhe2 yang2 liu3 ， xiang1 jian4 luo4 yang2 yu2 。
+- chu3 guo2 wu2 ru2 qie4 ， qin2 jia1 zi4 you3 fu1 。
+- dui4 ren2 chuan2 yu4 wan4 ， ying4 zhu2 jie3 luo2 ru2 。
+- ren2 jian4 dong1 fang1 qi2 ， jie1 yan2 fu1 xu4 shu1 。
+- chi2 xie4 jin1 wu2 zi3 ， fan2 jun1 ti2 yu4 hu2 。
 
 ## 注释
 

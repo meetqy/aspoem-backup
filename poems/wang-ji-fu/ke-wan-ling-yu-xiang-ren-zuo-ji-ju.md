@@ -6,10 +6,10 @@ titleSlug: ke-wan-ling-yu-xiang-ren-zuo-ji-ju
 author: 王吉甫
 authorPinyin: wang2 ji2 fu3
 authorSlug: wang-ji-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

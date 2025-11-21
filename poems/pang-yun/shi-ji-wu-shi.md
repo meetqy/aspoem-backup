@@ -9,24 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 學道迷路人，實是可憐許。
-- 被賊妄牽纏，惡緣取次與。
-- 有法遍娑婆，開眼看佛語。
-- 洗舌讀經典，和經弄蛇鼠。
-- 動念三界成，迷失當時路。
+- 二十部經兼戒律，執相依文常受持。
+- 生生獲得有爲果，隨在三界無出期。
+- 若能離相真入理，理中無念亦無思。
 
 ## 拼音
 
-- xue2 dao4 mi2 lu4 ren2 ， shi2 shi4 ke3 lian2 xu1 。
-- bei4 zei2 wang4 qian1 chan2 ， e4 yuan2 qu3 ci4 yu3 。
-- you3 fa3 bian4 suo1 po2 ， kai1 yan3 kan4 fo2 yu3 。
-- xi3 she2 du2 jing1 dian3 ， he2 jing1 nong4 she2 shu3 。
-- dong4 nian4 san1 jie4 cheng2 ， mi2 shi1 dang1 shi2 lu4 。
+- er4 shi2 bu4 jing1 jian1 jie4 lü4 ， zhi2 xiang1 yi1 wen2 chang2 shou4 chi2 。
+- sheng1 sheng1 huo4 dei3 you3 wei2 guo3 ， sui2 zai4 san1 jie4 wu2 chu1 qi1 。
+- ruo4 neng2 li2 xiang1 zhen1 ru4 li3 ， li3 zhong1 wu2 nian4 yi4 wu2 si1 。
 
 ## 注释
 

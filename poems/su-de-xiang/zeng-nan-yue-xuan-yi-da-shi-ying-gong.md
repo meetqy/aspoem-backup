@@ -6,9 +6,9 @@ titleSlug: zeng-nan-yue-xuan-yi-da-shi-ying-gong
 author: 蘇德祥
 authorPinyin: su1 de2 xiang2
 authorSlug: su-de-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

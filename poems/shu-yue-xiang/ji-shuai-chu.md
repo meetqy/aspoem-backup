@@ -6,25 +6,25 @@ titleSlug: ji-shuai-chu
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寄語榆林戴，年來書不靈。
-- 翠微雙鬢白，茅舍一燈青。
-- 醉後窮豪在，吟成老健能。
-- 楊梅時節近，吾欲理行縢。
+- 西家女兒長日愁，白頭鼻息撼林丘。
+- 老去聲名惜雞肋，世間富貴爛羊頭。
+- 青山白鷺水天遠，綠葉黄鸝風日柔。
+- 欲往榆林忘南北，幾回吹笛上高樓。
 
 ## 拼音
 
-- ji4 yu3 yu2 lin2 dai4 ， nian2 lai2 shu1 bu4 ling2 。
-- cui4 wei1 shuang1 bin4 bai2 ， mao2 she4 yi4 deng1 qing1 。
-- zui4 hou4 qiong2 hao2 zai4 ， yin2 cheng2 lao3 jian4 neng2 。
-- yang2 mei2 shi2 jie2 jin4 ， wu2 yu4 li3 xing2 teng2 。
+- xi1 jia1 nü3 er2 chang2 ri4 chou2 ， bai2 tou2 bi2 xi1 han4 lin2 qiu1 。
+- lao3 qu4 sheng1 ming2 xi1 ji1 lei4 ， shi4 jian4 fu4 gui4 lan4 yang2 tou2 。
+- qing1 shan1 bai2 lu4 shui3 tian1 yuan3 ， lü4 ye4 huang2 li2 feng1 ri4 rou2 。
+- yu4 wang3 yu2 lin2 wang4 nan2 bei3 ， ji1 hui2 chui1 di2 shang4 gao1 lou2 。
 
 ## 注释
 

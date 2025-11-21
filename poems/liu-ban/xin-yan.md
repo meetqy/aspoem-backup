@@ -6,25 +6,21 @@ titleSlug: xin-yan
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南飛洞庭雁，稍復過衡陽。
-- 宇宙同爲客，春秋各異方。
-- 邊塵猶處處，殺氣苦蒼蒼。
-- 恐有傷弓翮，哀鳴少稻粱。
+- 水生巴峽春始秀，葉下洞庭秋已高。
+- 去雁來鴻多少日，羈人搔首看江濤。
 
 ## 拼音
 
-- nan2 fei1 dong4 ting2 yan4 ， shao1 fu4 guo4 heng2 yang2 。
-- yu3 zhou4 tong2 wei2 ke4 ， chun1 qiu1 ge4 yi4 fang1 。
-- bian1 chen2 you2 chu3 chu3 ， sha1 qi4 ku3 cang1 cang1 。
-- kong3 you3 shang1 gong1 he2 ， ai1 ming2 shao3 dao4 liang2 。
+- shui3 sheng1 ba1 xia2 chun1 shi3 xiu4 ， ye4 xia4 dong4 ting2 qiu1 yi3 gao1 。
+- qu4 yan4 lai2 hong2 duo1 shao3 ri4 ， ji1 ren2 sao1 shou3 kan4 jiang1 tao1 。
 
 ## 注释
 

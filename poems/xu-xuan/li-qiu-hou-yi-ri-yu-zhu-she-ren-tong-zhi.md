@@ -14,13 +14,13 @@ tags: []
 
 ## 正文
 
-- 一宿秋風未覺凉，數聲宮漏日猶長。
-- 林泉無計消殘暑，虛向瑶池費稻粱。
+- 一宿秋風未覺涼，數聲宮漏日猶長。
+- 林泉無計消殘暑，虛向華池費稻粱。
 
 ## 拼音
 
 - yi2 su4 qiu1 feng1 wei4 jue2 liang2 ， shu4 sheng1 gong1 lou4 ri4 you2 chang2 。
-- lin2 quan2 wu2 ji4 xiao1 can2 shu3 ， xu1 xiang4 yao2 chi2 fei4 dao4 liang2 。
+- lin2 quan2 wu2 ji4 xiao1 can2 shu3 ， xu1 xiang4 hua2 chi2 fei4 dao4 liang2 。
 
 ## 注释
 

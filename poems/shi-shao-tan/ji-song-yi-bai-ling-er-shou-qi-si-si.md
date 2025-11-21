@@ -6,21 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-si-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千聖靈樞，妙在轉處。
-- 爍盡玄微，更進一步，莫來攔我毬門路。
+- 枯木糝瑶花，虛庭封玉砌。
+- 少室謾安心，神光空折臂。
+- 不墮功勛一色邊，闌干誰共倚。
 
 ## 拼音
 
-- qian1 sheng4 ling2 shu1 ， miao4 zai4 zhuan3 chu3 。
-- shuo4 jin4 xuan2 wei1 ， geng4 jin4 yi2 bu4 ， mo4 lai2 lan2 wo3 qiu2 men2 lu4 。
+- ku1 mu4 san3 yao2 hua1 ， xu1 ting2 feng1 yu4 qi4 。
+- shao3 shi4 man2 an1 xin1 ， shen2 guang1 kong1 zhe2 bi4 。
+- bu2 duo4 gong1 xun1 yi2 se4 bian1 ， lan2 gan1 shui2 gong4 yi3 。
 
 ## 注释
 

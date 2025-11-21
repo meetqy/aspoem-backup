@@ -6,9 +6,9 @@ titleSlug: zi-fang-zhou-gui-zhang-kou-wen-du-jian-shi-du-jian-hua-sheng-kai
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

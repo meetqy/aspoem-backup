@@ -6,10 +6,10 @@ titleSlug: qing-xin-tang-wei-yu-zai-ti
 author: 程應申
 authorPinyin: cheng2 ying1 shen1
 authorSlug: cheng-ying-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

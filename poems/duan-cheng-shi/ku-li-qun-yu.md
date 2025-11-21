@@ -9,18 +9,18 @@ authorSlug: duan-cheng-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 曾話黃陵事，今爲白日摧。
-- 老無兒女累，誰哭到泉臺。
+- 酒裏詩中三十年，縱橫唐突世喧喧。
+- 明時不作禰衡死，傲盡公卿歸九泉。
 
 ## 拼音
 
-- ceng2 hua4 huang2 ling2 shi4 ， jin1 wei2 bai2 ri4 cui1 。
-- lao3 wu2 er2 nü3 lei4 ， shui2 ku1 dao4 quan2 tai2 。
+- jiu3 li3 shi1 zhong1 san1 shi2 nian2 ， zong4 heng2 tang2 tu1 shi4 xuan1 xuan1 。
+- ming2 shi2 bu2 zuo4 mi2 heng2 si3 ， ao4 jin4 gong1 qing1 gui1 jiu3 quan2 。
 
 ## 注释
 

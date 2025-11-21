@@ -6,9 +6,9 @@ titleSlug: xia-zhi-hong-fang-cheng-dao-zhong-yi-shi-jian-ji-bi-di-qiong-shan-qiu
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

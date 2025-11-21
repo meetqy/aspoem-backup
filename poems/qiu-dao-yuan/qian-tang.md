@@ -6,10 +6,10 @@ titleSlug: qian-tang
 author: 邱道源
 authorPinyin: qiu1 dao4 yuan2
 authorSlug: qiu-dao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

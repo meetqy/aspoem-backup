@@ -6,10 +6,10 @@ titleSlug: ju
 author: 夏侯嘉正
 authorPinyin: xia4 hou2 jia1 zheng4
 authorSlug: xia-hou-jia-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

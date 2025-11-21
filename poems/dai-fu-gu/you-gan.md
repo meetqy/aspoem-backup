@@ -6,25 +6,25 @@ titleSlug: you-gan
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浩浩海風勁，滔滔河水渾。
-- 古人皆去世，喬木自當門。
-- 族黨諸孫盛，吾宗一綫存。
-- 興衰知有數，心事與誰論。
+- 老子生來世法疎，白頭思欲把犁鋤。
+- 摩挲此腹空無物，僥倖虛名愧有餘。
+- 憔悴不堪漁父笑，寒溫無益貴人書。
+- 詩家幸有嚴華谷，襟誼猶能眷眷予。
 
 ## 拼音
 
-- hao4 hao4 hai3 feng1 jin4 ， tao1 tao1 he2 shui3 hun2 。
-- gu3 ren2 jie1 qu4 shi4 ， qiao2 mu4 zi4 dang1 men2 。
-- zu2 dang3 zhu1 sun1 sheng4 ， wu2 zong1 yi2 xian4 cun2 。
-- xing1 shuai1 zhi1 you3 shu4 ， xin1 shi4 yu3 shui2 lun4 。
+- lao3 zi3 sheng1 lai2 shi4 fa3 shu1 ， bai2 tou2 si1 yu4 ba3 li2 chu2 。
+- mo2 suo1 ci3 fu4 kong1 wu2 wu4 ， jiao3 xing4 xu1 ming2 kui4 you3 yu2 。
+- qiao2 cui4 bu4 kan1 yu2 fu4 xiao4 ， han2 wen1 wu2 yi4 gui4 ren2 shu1 。
+- shi1 jia1 xing4 you3 yan2 hua2 gu3 ， jin1 yi4 you2 neng2 juan4 juan4 yu3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 張宗尹
 authorPinyin: zhang1 zong1 yin3
 authorSlug: zhang-zong-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

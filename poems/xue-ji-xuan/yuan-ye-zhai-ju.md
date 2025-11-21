@@ -6,25 +6,41 @@ titleSlug: yuan-ye-zhai-ju
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漢家傳舊事，太一祀中庭。
-- 宮架崇喬嶽，銀釭耀列星。
-- 九階塵擾擾，萬室火熒熒。
-- 兀坐聞迂叟，無人尚典刑。
+- 元夜憶年時，忘情居灝灝。
+- 縣齋今夕居，曷謂傷懷抱。
+- 都緣人事非，不足年時好。
+- 世母舍我歸，屈指憂吾老。
+- 人亡不可見，此心爲草草。
+- 大人月云忌，棄我方兒褓。
+- 呱呱救嬰泣，安知請丘禱。
+- 諸父洎諸兄，下世吁何早。
+- 悲傷失所恃，涕淚流行潦。
+- 哀思動時節，不見蓮燈好。
+- 鄉居計日長，松楸倩誰埽。
+- 諸母侍何期，念舊呼穹昊。
 
 ## 拼音
 
-- han4 jia1 chuan2 jiu4 shi4 ， tai4 yi2 si4 zhong1 ting2 。
-- gong1 jia4 chong2 qiao2 yue4 ， yin2 gang1 yao4 lie4 xing1 。
-- jiu3 jie1 chen2 rao3 rao3 ， wan4 shi4 huo3 ying2 ying2 。
-- wu4 zuo4 wen2 yu1 sou3 ， wu2 ren2 shang4 dian3 xing2 。
+- yuan2 ye4 yi4 nian2 shi2 ， wang4 qing2 ju1 hao4 hao4 。
+- xian4 zhai1 jin1 xi1 ju1 ， he2 wei4 shang1 huai2 bao4 。
+- dou1 yuan2 ren2 shi4 fei1 ， bu4 zu2 nian2 shi2 hao3 。
+- shi4 mu3 she4 wo3 gui1 ， qu1 zhi3 you1 wu2 lao3 。
+- ren2 wang2 bu4 ke3 jian4 ， ci3 xin1 wei2 cao3 cao3 。
+- da4 ren2 yue4 yun2 ji4 ， qi4 wo3 fang1 er2 bao3 。
+- gua1 gua1 jiu4 ying1 qi4 ， an1 zhi1 qing3 qiu1 dao3 。
+- zhu1 fu4 ji4 zhu1 xiong1 ， xia4 shi4 xu1 he2 zao3 。
+- bei1 shang1 shi1 suo3 shi4 ， ti4 lei4 liu2 xing2 liao2 。
+- ai1 si1 dong4 shi2 jie2 ， bu2 jian4 lian2 deng1 hao3 。
+- xiang1 ju1 ji4 ri4 chang2 ， song1 qiu1 qian4 shui2 sao4 。
+- zhu1 mu3 shi4 he2 qi1 ， nian4 jiu4 hu1 qiong2 hao4 。
 
 ## 注释
 

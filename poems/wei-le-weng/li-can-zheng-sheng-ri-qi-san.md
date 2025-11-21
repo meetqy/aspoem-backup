@@ -6,21 +6,21 @@ titleSlug: li-can-zheng-sheng-ri-qi-san
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 才記官來早去官，行人驚說路艱難。
-- 行藏用舍何關我，時把尼淵出處看。
+- 八十蹁躚老阿兄，一窗風雨伴雙清。
+- 武昌近日音書少，時聽湖邊過鴈聲。
 
 ## 拼音
 
-- cai2 ji4 guan1 lai2 zao3 qu4 guan1 ， xing2 ren2 jing1 shuo1 lu4 jian1 nan2 。
-- xing2 cang2 yong4 she4 he2 guan1 wo3 ， shi2 ba3 ni2 yuan1 chu1 chu3 kan4 。
+- ba1 shi2 pian2 xian1 lao3 a1 xiong1 ， yi4 chuang1 feng1 yu3 ban4 shuang1 qing1 。
+- wu3 chang1 jin4 ri4 yin1 shu1 shao3 ， shi2 ting1 hu2 bian1 guo4 yan4 sheng1 。
 
 ## 注释
 

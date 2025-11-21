@@ -6,10 +6,10 @@ titleSlug: you-ju-du-men-jiu-fei-bi-yan-zi-yin-bu-zhu-zhe-you-suo-gan-bu-mian-po
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

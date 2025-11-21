@@ -6,10 +6,10 @@ titleSlug: yi-shi
 author: 朱宮人
 authorPinyin: zhu1 gong1 ren2
 authorSlug: zhu-gong-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

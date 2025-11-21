@@ -6,10 +6,10 @@ titleSlug: shan-xing-jian-ju
 author: 李鼐
 authorPinyin: li3 nai4
 authorSlug: li-nai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

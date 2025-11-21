@@ -6,10 +6,10 @@ titleSlug: zhou-zhong-zi-wu-zhi-yue-ji-run-zhou-liu-shi-yu-kai-yang-bo-shi-mai
 author: 潘閬
 authorPinyin: pan1 lang4
 authorSlug: pan-lang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

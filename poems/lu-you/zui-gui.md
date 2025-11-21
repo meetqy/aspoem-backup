@@ -6,25 +6,25 @@ titleSlug: zui-gui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 持酒江頭到夕霏，愁城頓覺解重圍。
-- 澄波宜月移船看，醉面便風走馬歸。
-- 末路已驚添白髮，故人頻報上黄扉。
-- 彊隨官簿真成懶，乞我吳松舊釣磯。
+- 十畝春蕪手自犁，瓜牛廬在鏡湖西。
+- 禪心每笑彈棋局，道眼長捐刮膜篦。
+- 絕食就官分鶴料，無車免客笑雞栖。
+- 旗亭酒賤秋風近，夜夜歸來醉似泥。
 
 ## 拼音
 
-- chi2 jiu3 jiang1 tou2 dao4 xi1 fei1 ， chou2 cheng2 dun4 jue2 jie3 zhong4 wei2 。
-- cheng2 bo1 yi2 yue4 yi2 chuan2 kan4 ， zui4 mian4 bian4 feng1 zou3 ma3 gui1 。
-- mo4 lu4 yi3 jing1 tian1 bai2 fa4 ， gu4 ren2 bin1 bao4 shang4 huang2 fei1 。
-- qiang2 sui2 guan1 bo2 zhen1 cheng2 lan3 ， qi3 wo3 wu2 song1 jiu4 diao4 ji1 。
+- shi2 mu3 chun1 wu2 shou3 zi4 li2 ， gua1 niu2 lu2 zai4 jing4 hu2 xi1 。
+- shan4 xin1 mei3 xiao4 dan4 qi2 ju2 ， dao4 yan3 chang2 juan1 gua1 mo2 bi4 。
+- jue2 shi2 jiu4 guan1 fen1 he4 liao4 ， wu2 ju1 mian3 ke4 xiao4 ji1 qi1 。
+- qi2 ting2 jiu3 jian4 qiu1 feng1 jin4 ， ye4 ye4 gui1 lai2 zui4 si4 ni2 。
 
 ## 注释
 

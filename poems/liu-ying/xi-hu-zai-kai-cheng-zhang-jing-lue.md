@@ -6,10 +6,10 @@ titleSlug: xi-hu-zai-kai-cheng-zhang-jing-lue
 author: 劉穎
 authorPinyin: liu2 ying3
 authorSlug: liu-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

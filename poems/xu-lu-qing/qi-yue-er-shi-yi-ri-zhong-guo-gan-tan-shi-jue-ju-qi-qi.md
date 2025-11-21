@@ -6,10 +6,10 @@ titleSlug: qi-yue-er-shi-yi-ri-zhong-guo-gan-tan-shi-jue-ju-qi-qi
 author: 徐鹿卿
 authorPinyin: xu2 lu4 qing1
 authorSlug: xu-lu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-gao-fang-shan-ye-shan-tu
 author: 張逢原
 authorPinyin: zhang1 feng2 yuan2
 authorSlug: zhang-feng-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

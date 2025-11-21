@@ -6,10 +6,10 @@ titleSlug: ti-dai-xi-ting
 author: 林東
 authorPinyin: lin2 dong1
 authorSlug: lin-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

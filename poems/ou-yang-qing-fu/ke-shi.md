@@ -6,10 +6,10 @@ titleSlug: ke-shi
 author: 歐陽慶甫
 authorPinyin: ou1 yang2 qing4 fu3
 authorSlug: ou-yang-qing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

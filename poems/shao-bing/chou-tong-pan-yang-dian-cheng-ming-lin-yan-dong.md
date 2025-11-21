@@ -6,9 +6,9 @@ titleSlug: chou-tong-pan-yang-dian-cheng-ming-lin-yan-dong
 author: 邵炳
 authorPinyin: shao4 bing3
 authorSlug: shao-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

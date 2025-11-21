@@ -6,10 +6,10 @@ titleSlug: ti-shuang-liu-bao-guo-guan-gu-bai
 author: 胡宗師
 authorPinyin: hu2 zong1 shi1
 authorSlug: hu-zong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

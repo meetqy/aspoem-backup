@@ -1,32 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-yi-ba
-title: 禪人并化主寫真求贊  其一八
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 yi1 ba1
+title: 禪人并化主寫真求贊  其一八○
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 yi1 ba1 ○
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-yi-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 松石歲寒，雲月高閑。
-- 野雪髮鬚上，秋波眉睫間。
-- 用持智柄，靜入道環。
-- 覺心了了，幻事斑斑。
-- 草木精神兮風流自得，叢林氣像兮春信誰慳。
+- 應現般般，初無異端。
+- 春晝華麗，月明水寒。
+- 界方四稜榻地，珠圓一向走盤。
+- 呈似識與不識，請君急著眼看。
 
 ## 拼音
 
-- song1 shi2 sui4 han2 ， yun2 yue4 gao1 xian2 。
-- ye3 xue3 fa4 xu1 shang4 ， qiu1 bo1 mei2 jie2 jian4 。
-- yong4 chi2 zhi4 bing3 ， jing4 ru4 dao4 huan2 。
-- jue2 xin1 liao3 liao3 ， huan4 shi4 ban1 ban1 。
-- cao3 mu4 jing1 shen2 xi1 feng1 liu2 zi4 de2 ， cong2 lin2 qi4 xiang4 xi1 chun1 xin4 shui2 qian1 。
+- ying1 xian4 ban1 ban1 ， chu1 wu2 yi4 duan1 。
+- chun1 zhou4 hua2 li2 ， yue4 ming2 shui3 han2 。
+- jie4 fang1 si4 leng2 ta4 di4 ， zhu1 yuan2 yi2 xiang4 zou3 pan2 。
+- cheng2 si4 shi2 yu3 bu4 shi2 ， qing3 jun1 ji2 zhu4 yan3 kan4 。
 
 ## 注释
 

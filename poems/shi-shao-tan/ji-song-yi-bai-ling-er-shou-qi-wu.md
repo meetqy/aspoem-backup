@@ -1,26 +1,28 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-ling-er-shou-qi-wu
-title: 偈頌一百零二首  其五
-titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 wu3
+title: 偈頌一百零二首  其五○
+titlePinyin: ji4 song4 yi4 bai3 ling2 er4 shou3     qi2 wu3 ○
 titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山舍春深，生涯日貧。
-- 桃花爛熳，不見靈雲。
+- 正直聰明，風流儒雅。
+- 堅護法城，策勳千載。
+- 李將軍有佳聲在。
 
 ## 拼音
 
-- shan1 she4 chun1 shen1 ， sheng1 ya2 ri4 pin2 。
-- tao2 hua1 lan4 man4 ， bu2 jian4 ling2 yun2 。
+- zheng4 zhi2 cong1 ming2 ， feng1 liu2 ru2 ya3 。
+- jian1 hu4 fa3 cheng2 ， ce4 xun1 qian1 zai4 。
+- li3 jiang1 jun1 you3 jia1 sheng1 zai4 。
 
 ## 注释
 

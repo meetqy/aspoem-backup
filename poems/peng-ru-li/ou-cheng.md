@@ -6,21 +6,21 @@ titleSlug: ou-cheng
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大禪痛與藤條四，林際輕彈蒿指三。
-- 皮肉枉遭人戮辱，面顔猶使我羞慚。
+- 抵虛投隙廢精神，世態紛紛日更新。
+- 得喪是非渾一夢，不知悞却幾多人。
 
 ## 拼音
 
-- da4 shan4 tong4 yu3 teng2 tiao2 si4 ， lin2 ji4 qing1 dan4 hao1 zhi3 san1 。
-- pi2 rou4 wang3 zao1 ren2 lu4 ru3 ， mian4 yan2 you2 shi3 wo3 xiu1 can2 。
+- di3 xu1 tou2 xi4 fei4 jing1 shen2 ， shi4 tai4 fen1 fen1 ri4 geng1 xin1 。
+- de2 sang1 shi4 fei1 hun2 yi2 meng4 ， bu4 zhi1 wu4 que4 ji1 duo1 ren2 。
 
 ## 注释
 

@@ -6,37 +6,25 @@ titleSlug: bai-xu
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中歲謬學道，白鬚何由生。
-- 故人指我笑，聞道未能行。
-- 我笑謝故人，唯唯亦否否。
-- 老聃古道師，白髮生而有。
-- 佛告波斯匿，汝有不白存。
-- 亭中掌亭人，何嘗隨客奔。
-- 客去不用留，主在亭不毀。
-- 墁牆支折棟，在我不在爾。
-- 道成款玉晨，跪乞五色丸。
-- 肝心化黄金，齒髮何足言。
+- 少年不辦求良藥，老病無疑生白鬚。
+- 下種已遲空悵望，無心猶幸省工夫。
+- 虛明對面誰知我，寵辱當前莫問渠。
+- 自頃閉門今十載，此生畢竟得如愚。
 
 ## 拼音
 
-- zhong1 sui4 miu4 xue2 dao4 ， bai2 xu1 he2 you2 sheng1 。
-- gu4 ren2 zhi3 wo3 xiao4 ， wen2 dao4 wei4 neng2 xing2 。
-- wo3 xiao4 xie4 gu4 ren2 ， wei2 wei2 yi4 fou3 fou3 。
-- lao3 dan1 gu3 dao4 shi1 ， bai2 fa4 sheng1 er2 you3 。
-- fo2 gao4 bo1 si1 ni4 ， ru3 you3 bu4 bai2 cun2 。
-- ting2 zhong1 zhang3 ting2 ren2 ， he2 chang2 sui2 ke4 ben1 。
-- ke4 qu4 bu2 yong4 liu2 ， zhu3 zai4 ting2 bu4 hui3 。
-- man4 qiang2 zhi1 zhe2 dong4 ， zai4 wo3 bu2 zai4 er3 。
-- dao4 cheng2 kuan3 yu4 chen2 ， gui4 qi3 wu3 se4 wan2 。
-- gan1 xin1 hua4 huang2 jin1 ， chi3 fa4 he2 zu2 yan2 。
+- shao4 nian2 bu2 ban4 qiu2 liang2 yao4 ， lao3 bing4 wu2 yi2 sheng1 bai2 xu1 。
+- xia4 zhong3 yi3 chi2 kong1 chang4 wang4 ， wu2 xin1 you2 xing4 sheng3 gong1 fu0 。
+- xu1 ming2 dui4 mian4 shui2 zhi1 wo3 ， chong3 ru3 dang1 qian2 mo4 wen4 qu2 。
+- zi4 qing3 bi4 men2 jin1 shi2 zai4 ， ci3 sheng1 bi4 jing4 de2 ru2 yu2 。
 
 ## 注释
 

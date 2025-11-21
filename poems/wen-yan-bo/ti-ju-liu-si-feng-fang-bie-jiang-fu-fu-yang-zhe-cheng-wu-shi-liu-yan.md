@@ -6,10 +6,10 @@ titleSlug: ti-ju-liu-si-feng-fang-bie-jiang-fu-fu-yang-zhe-cheng-wu-shi-liu-yan
 author: 文彥博
 authorPinyin: wen2 yan4 bo2
 authorSlug: wen-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ji-sun-zheng-zhi
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少時已感韓子詩，東西南北俱欲往。
-- 新年尤覺此語悲，恨無羽翼超惚恍。
-- 肺肝欲絕形骸外，涕洟自落衣巾上。
-- 此憂難與世共知，憶子論心更惆悵。
+- 南游忽忽與誰言，共笑謀生識最昏。
+- 萬事百年能自信，一簞五鼎不須論。
+- 友中惟子長招隠，世上何人可避喧。
+- 千里秋風相望處，皖公溪上正開樽。
 
 ## 拼音
 
-- shao3 shi2 yi3 gan3 han2 zi3 shi1 ， dong1 xi1 nan2 bei3 ju4 yu4 wang3 。
-- xin1 nian2 you2 jue2 ci3 yu3 bei1 ， hen4 wu2 yu3 yi4 chao1 hu1 huang3 。
-- fei4 gan1 yu4 jue2 xing2 hai2 wai4 ， ti4 yi2 zi4 luo4 yi1 jin1 shang4 。
-- ci3 you1 nan2 yu3 shi4 gong4 zhi1 ， yi4 zi3 lun4 xin1 geng4 chou2 chang4 。
+- nan2 you2 hu1 hu1 yu3 shui2 yan2 ， gong4 xiao4 mou2 sheng1 shi2 zui4 hun1 。
+- wan4 shi4 bai3 nian2 neng2 zi4 xin4 ， yi4 dan1 wu3 ding3 bu4 xu1 lun4 。
+- you3 zhong1 wei2 zi3 chang2 zhao1 yin3 ， shi4 shang4 he2 ren2 ke3 bi4 xuan1 。
+- qian1 li3 qiu1 feng1 xiang1 wang4 chu3 ， wan3 gong1 xi1 shang4 zheng4 kai1 zun1 。
 
 ## 注释
 

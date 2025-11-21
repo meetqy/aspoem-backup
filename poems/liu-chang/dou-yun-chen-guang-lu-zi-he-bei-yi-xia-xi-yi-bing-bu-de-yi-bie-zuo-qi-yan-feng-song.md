@@ -6,10 +6,10 @@ titleSlug: dou-yun-chen-guang-lu-zi-he-bei-yi-xia-xi-yi-bing-bu-de-yi-bie-zuo-qi
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -3,22 +3,22 @@ id: li-ji-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 李楫
+author: 李籍
 authorPinyin: li3 ji2
 authorSlug: li-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 令人却憶保寧寺，二水三山李白詩。
+- 三公歷拜皆無敵，二府更居貴莫倫。
 
 ## 拼音
 
-- ling4 ren2 que4 yi4 bao3 ning2 si4 ， er4 shui3 san1 shan1 li3 bai2 shi1 。
+- san1 gong1 li4 bai4 jie1 wu2 di2 ， er4 fu3 geng4 ju1 gui4 mo4 lun2 。
 
 ## 注释
 

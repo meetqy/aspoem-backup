@@ -6,10 +6,10 @@ titleSlug: you-hu-tan
 author: 陸若濟
 authorPinyin: lu4 ruo4 ji4
 authorSlug: lu-ruo-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

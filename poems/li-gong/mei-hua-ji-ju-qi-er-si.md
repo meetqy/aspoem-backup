@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-er-si
-title: 梅花集句  其二四
-titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 si4
+title: 梅花集句  其二○四
+titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 ○ si4
 titleSlug: mei-hua-ji-ju-qi-er-si
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 上苑年年占物華，東湖同住水雲家。
-- 莫言春度芳菲盡，閑閉春風看落花。
+- 觸處是花開，孤高不受埃。
+- 春風別有意，時有暗香來。
 
 ## 拼音
 
-- shang4 yuan4 nian2 nian2 zhan4 wu4 hua2 ， dong1 hu2 tong2 zhu4 shui3 yun2 jia1 。
-- mo4 yan2 chun1 du4 fang1 fei1 jin4 ， xian2 bi4 chun1 feng1 kan4 luo4 hua1 。
+- chu4 chu3 shi4 hua1 kai1 ， gu1 gao1 bu2 shou4 ai1 。
+- chun1 feng1 bie2 you3 yi4 ， shi2 you3 an4 xiang1 lai2 。
 
 ## 注释
 

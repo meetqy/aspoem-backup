@@ -6,25 +6,25 @@ titleSlug: xia-ri-er-shou-qi-er
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲臻川谷暝，雨來林景清。
-- 齋舍無餘事，凉氣散煩纓。
-- 望山懷釋侶，盥手閲仙經。
-- 誰懷出塵意，來此俱無營。
+- 季夏園木暗，窗戶貯清陰。
+- 長風一掩苒，衆綠何蕭椮。
+- 玩此消永晝，泠然滌幽襟。
+- 俯仰無所爲，聊復得此心。
 
 ## 拼音
 
-- yun2 zhen1 chuan1 gu3 ming2 ， yu3 lai2 lin2 jing3 qing1 。
-- zhai1 she4 wu2 yu2 shi4 ， liang2 qi4 san4 fan2 ying1 。
-- wang4 shan1 huai2 shi4 lü3 ， guan4 shou3 yue4 xian1 jing1 。
-- shui2 huai2 chu1 chen2 yi4 ， lai2 ci3 ju4 wu2 ying2 。
+- ji4 xia4 yuan2 mu4 an4 ， chuang1 hu4 zhu4 qing1 yin1 。
+- chang2 feng1 yi4 yan3 ran3 ， zhong4 lü4 he2 xiao1 sen1 。
+- wan2 ci3 xiao1 yong3 zhou4 ， ling2 ran2 di2 you1 jin1 。
+- fu3 yang3 wu2 suo3 wei2 ， liao2 fu4 de2 ci3 xin1 。
 
 ## 注释
 

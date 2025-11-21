@@ -6,29 +6,25 @@ titleSlug: zi-gui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陸君拙自謀，七十猶糲食。
-- 著書雖如山，身不一錢直。
-- 默自觀我生，困弱良得力。
-- 轉喉畏或觸，唾面敢自拭。
-- 世路方未夷，機阱寧有極。
-- 但能常閉門，尊拳貸雞肋。
+- 立志當如塞决河，犀編鐵硯未爲過。
+- 文難稱意古所恨，學不盡才今亦多。
+- 四海交朋常隔闊，一生光景易蹉跎。
+- 耄年尚欲鞭吾後，太息無人爲詆訶。
 
 ## 拼音
 
-- lu4 jun1 zhuo1 zi4 mou2 ， qi1 shi2 you2 li4 shi2 。
-- zhu4 shu1 sui1 ru2 shan1 ， shen1 bu4 yi4 qian2 zhi2 。
-- mo4 zi4 guan1 wo3 sheng1 ， kun4 ruo4 liang2 de2 li4 。
-- zhuan3 hou2 wei4 huo4 chu4 ， tuo4 mian4 gan3 zi4 shi4 。
-- shi4 lu4 fang1 wei4 yi2 ， ji1 jing3 ning2 you3 ji2 。
-- dan4 neng2 chang2 bi4 men2 ， zun1 quan2 dai4 ji1 lei4 。
+- li4 zhi4 dang1 ru2 sai1 jue2 he2 ， xi1 bian1 tie3 yan4 wei4 wei2 guo4 。
+- wen2 nan2 cheng1 yi4 gu3 suo3 hen4 ， xue2 bu2 jin4 cai2 jin1 yi4 duo1 。
+- si4 hai3 jiao1 peng2 chang2 ge2 kuo4 ， yi4 sheng1 guang1 jing3 yi4 cuo1 tuo2 。
+- mao4 nian2 shang4 yu4 bian1 wu2 hou4 ， tai4 xi1 wu2 ren2 wei2 di3 he1 。
 
 ## 注释
 

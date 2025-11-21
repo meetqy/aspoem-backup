@@ -6,10 +6,10 @@ titleSlug: ti-gong-le-tang
 author: 汪泌
 authorPinyin: wang1 mi4
 authorSlug: wang-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

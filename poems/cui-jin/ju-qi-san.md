@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 崔覲
 authorPinyin: cui1 jin4
 authorSlug: cui-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

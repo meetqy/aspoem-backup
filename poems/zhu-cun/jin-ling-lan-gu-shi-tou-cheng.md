@@ -6,9 +6,9 @@ titleSlug: jin-ling-lan-gu-shi-tou-cheng
 author: 朱存
 authorPinyin: zhu1 cun2
 authorSlug: zhu-cun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

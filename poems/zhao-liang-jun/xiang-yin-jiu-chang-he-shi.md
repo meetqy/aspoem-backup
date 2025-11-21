@@ -6,10 +6,10 @@ titleSlug: xiang-yin-jiu-chang-he-shi
 author: 趙良埈
 authorPinyin: zhao4 liang2 jun4
 authorSlug: zhao-liang-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

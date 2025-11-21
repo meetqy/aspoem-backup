@@ -6,10 +6,10 @@ titleSlug: song-feng-ting
 author: 趙良生
 authorPinyin: zhao4 liang2 sheng1
 authorSlug: zhao-liang-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

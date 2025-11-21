@@ -6,10 +6,10 @@ titleSlug: gong-nu-shui
 author: 胡拂道
 authorPinyin: hu2 fu2 dao4
 authorSlug: hu-fu-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

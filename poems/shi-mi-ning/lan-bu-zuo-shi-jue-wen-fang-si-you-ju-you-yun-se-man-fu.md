@@ -6,10 +6,10 @@ titleSlug: lan-bu-zuo-shi-jue-wen-fang-si-you-ju-you-yun-se-man-fu
 author: 史彌寧
 authorPinyin: shi3 mi2 ning2
 authorSlug: shi-mi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

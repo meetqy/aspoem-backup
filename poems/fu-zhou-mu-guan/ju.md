@@ -6,10 +6,10 @@ titleSlug: ju
 author: 福州幕官
 authorPinyin: fu2 zhou1 mu4 guan1
 authorSlug: fu-zhou-mu-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

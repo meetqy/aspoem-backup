@@ -6,10 +6,10 @@ titleSlug: zhen-yi-nu-ci
 author: 蔣時中
 authorPinyin: jiang3 shi2 zhong1
 authorSlug: jiang-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xiu-ye-ting
 author: 郭閶
 authorPinyin: guo1 chang1
 authorSlug: guo-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

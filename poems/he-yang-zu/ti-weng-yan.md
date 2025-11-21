@@ -6,10 +6,10 @@ titleSlug: ti-weng-yan
 author: 何揚祖
 authorPinyin: he2 yang2 zu3
 authorSlug: he-yang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

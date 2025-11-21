@@ -3,24 +3,28 @@ id: wu-ke-song
 title: 松
 titlePinyin: song1
 titleSlug: song
-author: 吳可
+author: 無可
 authorPinyin: wu2 ke3
 authorSlug: wu-ke
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 秋色何妨陪露菊，歲寒真欲友霜筠。
-- 只應澗底桃花笑，苦愛微官不避秦。
+- 枝幹怪鱗皴，烟梢出澗新。
+- 屈盤高極目，蒼翠遠驚人。
+- 待鶴移陰過，聽風落子頻。
+- 青青寒木外，自與九霄鄰。
 
 ## 拼音
 
-- qiu1 se4 he2 fang2 pei2 lu4 ju2 ， sui4 han2 zhen1 yu4 you3 shuang1 yun2 。
-- zhi1 ying1 jian4 di3 tao2 hua1 xiao4 ， ku3 ai4 wei1 guan1 bu2 bi4 qin2 。
+- zhi1 gan4 guai4 lin2 cun1 ， yan1 shao1 chu1 jian4 xin1 。
+- qu1 pan2 gao1 ji2 mu4 ， cang1 cui4 yuan3 jing1 ren2 。
+- dai4 he4 yi2 yin1 guo4 ， ting1 feng1 luo4 zi3 bin1 。
+- qing1 qing1 han2 mu4 wai4 ， zi4 yu3 jiu3 xiao1 lin2 。
 
 ## 注释
 

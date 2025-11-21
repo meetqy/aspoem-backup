@@ -6,10 +6,10 @@ titleSlug: jiang-zhi-zhe-jiang-yan-zu-zi-shan-shi-rou-hui-bie-yin-san-du-su-kong
 author: 曾鞏
 authorPinyin: ceng2 gong3
 authorSlug: ceng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

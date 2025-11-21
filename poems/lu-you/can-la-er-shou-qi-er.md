@@ -6,25 +6,25 @@ titleSlug: can-la-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘臘無多日，吾生又一年。
-- 林塘明夕照，墟落淡春烟。
-- 山色危欄角，梅花綠酒邊。
-- 歲時元自好，老病獨凄然。
+- 殘臘去春纔十日，衰翁告老已三年。
+- 乳糜但喜分香鉢，銀勝那思映綵鞭。
+- 萬里當時嗟漫浪，一窗此日困沉綿。
+- 清泉白石無人到，且結梅花淡淡緣。
 
 ## 拼音
 
-- can2 la4 wu2 duo1 ri4 ， wu2 sheng1 you4 yi4 nian2 。
-- lin2 tang2 ming2 xi1 zhao4 ， xu1 luo4 dan4 chun1 yan1 。
-- shan1 se4 wei1 lan2 jiao3 ， mei2 hua1 lü4 jiu3 bian1 。
-- sui4 shi2 yuan2 zi4 hao4 ， lao3 bing4 du2 qi1 ran2 。
+- can2 la4 qu4 chun1 cai2 shi2 ri4 ， shuai1 weng1 gao4 lao3 yi3 san1 nian2 。
+- ru3 mi2 dan4 xi3 fen1 xiang1 bo1 ， yin2 sheng4 na4 si1 ying4 cai3 bian1 。
+- wan4 li3 dang1 shi2 jie1 man4 lang4 ， yi4 chuang1 ci3 ri4 kun4 chen2 mian2 。
+- qing1 quan2 bai2 shi2 wu2 ren2 dao4 ， qie3 jie2 mei2 hua1 dan4 dan4 yuan2 。
 
 ## 注释
 

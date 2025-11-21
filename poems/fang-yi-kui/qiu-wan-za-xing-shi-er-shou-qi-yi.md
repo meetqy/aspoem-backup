@@ -1,30 +1,30 @@
 ---
 id: fang-yi-kui-qiu-wan-za-xing-shi-er-shou-qi-yi
-title: 秋晚雜興十二首  其一
-titlePinyin: qiu1 wan3 za2 xing1 shi2 er4 shou3     qi2 yi1
+title: 秋晚雜興十二首  其一○
+titlePinyin: qiu1 wan3 za2 xing1 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: qiu-wan-za-xing-shi-er-shou-qi-yi
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 深秋轉蕭索，木葉滿荒城。
-- 逝水流年景，西風逆旅情。
-- 圉監通馬語，籠養變禽鳴。
-- 吾道知衰久，人都一概聲。
+- 夜魄湛精氣，冰魂消瘴氛。
+- 寒洲沙印篆，荒樹葉鎸文。
+- 詞度柳三變，書臨顧八分。
+- 誰憑當道勢，擡舉上青雲。
 
 ## 拼音
 
-- shen1 qiu1 zhuan3 xiao1 suo3 ， mu4 ye4 man3 huang1 cheng2 。
-- shi4 shui3 liu2 nian2 jing3 ， xi1 feng1 ni4 lü3 qing2 。
-- yu3 jian1 tong1 ma3 yu3 ， long2 yang3 bian4 qin2 ming2 。
-- wu2 dao4 zhi1 shuai1 jiu3 ， ren2 dou1 yi2 gai4 sheng1 。
+- ye4 po4 zhan4 jing1 qi4 ， bing1 hun2 xiao1 zhang4 fen1 。
+- han2 zhou1 sha1 yin4 zhuan4 ， huang1 shu4 ye4 juan1 wen2 。
+- ci2 du4 liu3 san1 bian4 ， shu1 lin2 gu4 ba1 fen1 。
+- shui2 ping2 dang1 dao4 shi4 ， tai2 ju3 shang4 qing1 yun2 。
 
 ## 注释
 

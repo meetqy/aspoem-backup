@@ -6,10 +6,10 @@ titleSlug: jiu-bu-zuo-shi-shi-si-shen-he-chun-wu-ri-sheng-man-xing-san-zhang-yon
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

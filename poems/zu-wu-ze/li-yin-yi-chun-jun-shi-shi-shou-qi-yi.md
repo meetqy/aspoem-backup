@@ -1,30 +1,30 @@
 ---
 id: zu-wu-ze-li-yin-yi-chun-jun-shi-shi-shou-qi-yi
-title: 吏隠宜春郡詩十首  其一
-titlePinyin: li4 yin3 yi2 chun1 jun4 shi1 shi2 shou3     qi2 yi1
+title: 吏隠宜春郡詩十首  其一○
+titlePinyin: li4 yin3 yi2 chun1 jun4 shi1 shi2 shou3     qi2 yi1 ○
 titleSlug: li-yin-yi-chun-jun-shi-shi-shou-qi-yi
 author: 祖無擇
 authorPinyin: zu3 wu2 ze2
 authorSlug: zu-wu-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吏隠宜春郡，年豐獄訟稀。
-- 餘糧委南畝，茂草滿圜扉。
-- 天意憐艱食，民心恥畫衣。
-- 萬家行樂處，車馬有光輝。
+- 吏隠宜春郡，素飱誠有餘。
+- 政聲慙遂霸，文藻謝嚴徐。
+- 使節分銅虎，仙廬秘石渠。
+- 君恩殊未報，不敢賦歸歟。
 
 ## 拼音
 
-- li4 yin3 yi2 chun1 jun4 ， nian2 feng1 yu4 song4 xi1 。
-- yu2 liang2 wei3 nan2 mu3 ， mao4 cao3 man3 huan2 fei1 。
-- tian1 yi4 lian2 jian1 shi2 ， min2 xin1 chi3 hua4 yi1 。
-- wan4 jia1 xing2 le4 chu3 ， ju1 ma3 you3 guang1 hui1 。
+- li4 yin3 yi2 chun1 jun4 ， su4 sun1 cheng2 you3 yu2 。
+- zheng4 sheng1 can2 sui4 ba4 ， wen2 zao3 xie4 yan2 xu2 。
+- shi3 jie2 fen1 tong2 hu3 ， xian1 lu2 mi4 shi2 qu2 。
+- jun1 en1 shu1 wei4 bao4 ， bu4 gan3 fu4 gui1 yu2 。
 
 ## 注释
 

@@ -6,21 +6,25 @@ titleSlug: wan-chun
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 苔封池面草芊綿，鳴蚓跳蛙意若便。
-- 頗覺風雲有奇變，翻盆一雨便潺潺。
+- 積雨桃李暗，西園已晚春。
+- 平池花照影，深樹鳥窺人。
+- 飛近燕知主，青分柳過鄰。
+- 浮生似群動，聊復共欣欣。
 
 ## 拼音
 
-- tai2 feng1 chi2 mian4 cao3 qian1 mian2 ， ming2 yin3 tiao4 wa1 yi4 ruo4 bian4 。
-- po1 jue2 feng1 yun2 you3 qi2 bian4 ， fan1 pen2 yi4 yu3 bian4 chan2 chan2 。
+- ji1 yu3 tao2 li3 an4 ， xi1 yuan2 yi3 wan3 chun1 。
+- ping2 chi2 hua1 zhao4 ying3 ， shen1 shu4 niao3 kui1 ren2 。
+- fei1 jin4 yan4 zhi1 zhu3 ， qing1 fen1 liu3 guo4 lin2 。
+- fu2 sheng1 si4 qun2 dong4 ， liao2 fu4 gong4 xin1 xin1 。
 
 ## 注释
 

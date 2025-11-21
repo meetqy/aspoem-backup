@@ -6,10 +6,10 @@ titleSlug: yuan-gui-dao-ren-lan-yu-xin-shuo-zuo-song-jian-ji-ci-yun-feng-da
 author: 張繼先
 authorPinyin: zhang1 ji4 xian1
 authorSlug: zhang-ji-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

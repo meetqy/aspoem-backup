@@ -1,30 +1,30 @@
 ---
 id: mei-zhi-zhao-tan-shi-ai-qi-yi
-title: 昭潭十愛  其一
-titlePinyin: zhao1 tan2 shi2 ai4     qi2 yi1
+title: 昭潭十愛  其一○
+titlePinyin: zhao1 tan2 shi2 ai4     qi2 yi1 ○
 titleSlug: zhao-tan-shi-ai-qi-yi
 author: 梅摯
 authorPinyin: mei2 zhi4
 authorSlug: mei-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我愛昭州水，湘漓共一源。
-- 本無泥滓污，去有棹歌喧。
-- 沃野藤溪道，浮琛玉海門。
-- 有時新雨漲，多半是君恩。
+- 我愛昭州果，西東此擅珍。
+- 荔枝登宴美，桂子薦盤新。
+- 映樹珠含影，承牙玉溜津。
+- 二行遊宦樂，滿腹嶺南春。
 
 ## 拼音
 
-- wo3 ai4 zhao1 zhou1 shui3 ， xiang1 li2 gong4 yi4 yuan2 。
-- ben3 wu2 ni2 zi3 wu1 ， qu4 you3 zhao4 ge1 xuan1 。
-- wo4 ye3 teng2 xi1 dao4 ， fu2 chen1 yu4 hai3 men2 。
-- you3 shi2 xin1 yu3 zhang3 ， duo1 ban4 shi4 jun1 en1 。
+- wo3 ai4 zhao1 zhou1 guo3 ， xi1 dong1 ci3 shan4 zhen1 。
+- li4 zhi1 deng1 yan4 mei3 ， gui4 zi3 jian4 pan2 xin1 。
+- ying4 shu4 zhu1 han2 ying3 ， cheng2 ya2 yu4 liu1 jin1 。
+- er4 hang2 you2 huan4 le4 ， man3 fu4 ling3 nan2 chun1 。
 
 ## 注释
 

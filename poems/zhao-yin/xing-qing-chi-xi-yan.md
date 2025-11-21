@@ -6,10 +6,10 @@ titleSlug: xing-qing-chi-xi-yan
 author: 趙寅
 authorPinyin: zhao4 yin2
 authorSlug: zhao-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

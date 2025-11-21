@@ -6,21 +6,21 @@ titleSlug: xun-mei
 author: 張道洽
 authorPinyin: zhang1 dao4 qia4
 authorSlug: zhang-dao-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 澹澹一痕月，疎疎數箇花。
-- 春風也公道，先到野人家。
+- 平生春興十分深，長恐梅花負賞心。
+- 偶有一枝斜照水，前村踏雪也須尋。
 
 ## 拼音
 
-- dan4 dan4 yi4 hen2 yue4 ， shu1 shu1 shu4 ge4 hua1 。
-- chun1 feng1 ye3 gong1 dao4 ， xian1 dao4 ye3 ren2 jia1 。
+- ping2 sheng1 chun1 xing1 shi2 fen1 shen1 ， chang2 kong3 mei2 hua1 fu4 shang3 xin1 。
+- ou3 you3 yi4 zhi1 xie2 zhao4 shui3 ， qian2 cun1 ta4 xue3 ye3 xu1 xun2 。
 
 ## 注释
 

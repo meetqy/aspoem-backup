@@ -6,25 +6,21 @@ titleSlug: yu-zhong-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽林遠朝市，太息古來今。
-- 四月麥秋後，江南梅雨臨。
-- 庭前三徑在，路口一溪深。
-- 車馬有時到，定多閒淡心。
+- 雨收炎暑入山雲，滴砌淋簷潤色分。
+- 更以微風吹草樹，鳥飛啼過亦欣欣。
 
 ## 拼音
 
-- you1 lin2 yuan3 chao2 shi4 ， tai4 xi1 gu3 lai2 jin1 。
-- si4 yue4 mai4 qiu1 hou4 ， jiang1 nan2 mei2 yu3 lin2 。
-- ting2 qian2 san1 jing4 zai4 ， lu4 kou3 yi4 xi1 shen1 。
-- ju1 ma3 you3 shi2 dao4 ， ding4 duo1 xian2 dan4 xin1 。
+- yu3 shou1 yan2 shu3 ru4 shan1 yun2 ， di1 qi4 lin2 yan2 run4 se4 fen1 。
+- geng4 yi3 wei1 feng1 chui1 cao3 shu4 ， niao3 fei1 ti2 guo4 yi4 xin1 xin1 。
 
 ## 注释
 

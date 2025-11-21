@@ -6,10 +6,10 @@ titleSlug: zeng-jin-ren-shan-qi-er
 author: 唐良驥
 authorPinyin: tang2 liang2 ji4
 authorSlug: tang-liang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

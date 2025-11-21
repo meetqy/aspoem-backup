@@ -6,10 +6,10 @@ titleSlug: ti-tang-xian-xiao-rao-e-mu-qi-er
 author: 程時登
 authorPinyin: cheng2 shi2 deng1
 authorSlug: cheng-shi-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yuan-yong-jian-guo-song-shi-ju-tan-yin-cheng-gu-feng-yi-cheng-xi-nao-
 author: 章甫
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wang-tai-gu-xie-you-ling-yan-yu-yi-shi-zhong-zhi-xian-huan
 author: 陳深
 authorPinyin: chen2 shen1
 authorSlug: chen-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

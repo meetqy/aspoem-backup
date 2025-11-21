@@ -6,10 +6,10 @@ titleSlug: tang-kai-cheng-nian-mu-zhi-shi
 author: 王應麟
 authorPinyin: wang2 ying1 lin2
 authorSlug: wang-ying-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

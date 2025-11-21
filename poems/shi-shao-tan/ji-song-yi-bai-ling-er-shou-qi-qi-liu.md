@@ -6,25 +6,27 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-qi-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 判虛空筆，摛錦繡文。
-- 光騰萬丈，入石三分。
-- 惡跡既被點破，只得飲氣吞聲。
-- 自有傍人道不平。
+- 拽杖出烟霞，紅塵去路賒。
+- 淡金垂柳線，寒玉點梅花。
+- 觸目分羣象，當機裂萬差。
+- 豈不見太原孚上座，樓頭吹畫角，喪盡潑生涯。
+- 活與深深掘窖埋。
 
 ## 拼音
 
-- pan4 xu1 kong1 bi3 ， chi1 jin3 xiu4 wen2 。
-- guang1 teng2 wan4 zhang4 ， ru4 shi2 san1 fen1 。
-- e4 ji4 ji4 bei4 dian3 po4 ， zhi3 de2 yin3 qi4 tun1 sheng1 。
-- zi4 you3 bang4 ren2 dao4 bu4 ping2 。
+- zhuai4 zhang4 chu1 yan1 xia2 ， hong2 chen2 qu4 lu4 she1 。
+- dan4 jin1 chui2 liu3 xian4 ， han2 yu4 dian3 mei2 hua1 。
+- chu4 mu4 fen1 qun2 xiang4 ， dang1 ji1 lie4 wan4 cha4 。
+- qi3 bu2 jian4 tai4 yuan2 fu2 shang4 zuo4 ， lou2 tou2 chui1 hua4 jiao3 ， sang1 jin4 po1 sheng1 ya2 。
+- huo2 yu3 shen1 shen1 jue2 jiao4 mai2 。
 
 ## 注释
 

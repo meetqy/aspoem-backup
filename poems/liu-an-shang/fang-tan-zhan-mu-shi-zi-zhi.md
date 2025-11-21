@@ -6,10 +6,10 @@ titleSlug: fang-tan-zhan-mu-shi-zi-zhi
 author: 劉安上
 authorPinyin: liu2 an1 shang4
 authorSlug: liu-an-shang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

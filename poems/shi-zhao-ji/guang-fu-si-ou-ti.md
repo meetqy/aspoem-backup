@@ -6,10 +6,10 @@ titleSlug: guang-fu-si-ou-ti
 author: 釋昭輯
 authorPinyin: shi4 zhao1 ji2
 authorSlug: shi-zhao-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

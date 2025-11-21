@@ -6,10 +6,10 @@ titleSlug: tian-zhu-yan
 author: 黄永思
 authorPinyin: huang2 yong3 si1
 authorSlug: huang-yong-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

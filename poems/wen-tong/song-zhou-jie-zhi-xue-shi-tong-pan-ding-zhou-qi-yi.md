@@ -1,14 +1,14 @@
 ---
 id: wen-tong-song-zhou-jie-zhi-xue-shi-tong-pan-ding-zhou-qi-yi
-title: 送周介之學士通判定州・其一
-titlePinyin: song4 zhou1 jie4 zhi1 xue2 shi4 tong1 pan4 ding4 zhou1・qi2 yi1
+title: 送周介之學士通判定州  其一
+titlePinyin: song4 zhou1 jie4 zhi1 xue2 shi4 tong1 pan4 ding4 zhou1     qi2 yi1
 titleSlug: song-zhou-jie-zhi-xue-shi-tong-pan-ding-zhou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: he-kong-si-feng-ti-peng-lai-ge
 author: 孫昌齡
 authorPinyin: sun1 chang1 ling2
 authorSlug: sun-chang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

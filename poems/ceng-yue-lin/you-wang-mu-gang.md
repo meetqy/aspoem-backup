@@ -6,10 +6,10 @@ titleSlug: you-wang-mu-gang
 author: 曾躍鱗
 authorPinyin: ceng2 yue4 lin2
 authorSlug: ceng-yue-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

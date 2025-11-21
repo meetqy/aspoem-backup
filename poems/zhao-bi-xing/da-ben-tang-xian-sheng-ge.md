@@ -6,10 +6,10 @@ titleSlug: da-ben-tang-xian-sheng-ge
 author: 趙必興
 authorPinyin: zhao4 bi4 xing1
 authorSlug: zhao-bi-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

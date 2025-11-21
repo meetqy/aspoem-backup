@@ -9,7 +9,7 @@ authorSlug: yi-meng-chang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

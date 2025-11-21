@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 謝慧卿
 authorPinyin: xie4 hui4 qing1
 authorSlug: xie-hui-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

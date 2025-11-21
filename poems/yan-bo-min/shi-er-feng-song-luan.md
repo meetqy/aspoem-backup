@@ -6,10 +6,10 @@ titleSlug: shi-er-feng-song-luan
 author: 閻伯敏
 authorPinyin: yan2 bo2 min3
 authorSlug: yan-bo-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

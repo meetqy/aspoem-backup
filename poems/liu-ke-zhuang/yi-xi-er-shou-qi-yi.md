@@ -6,25 +6,25 @@ titleSlug: yi-xi-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 憶惜金鞭觀玉臺，當年並駕盡龍騋。
-- 恰逢居易投詩去，又報奇章袖贄來。
-- 病謝交游空感舊，老無氣力尚憐才。
-- 孟陽殘錦都能幾，莫爲諸君更剪裁。
+- 過去生中一念差，强扶衰朽踐清華。
+- 出靈芝殿渾忘却，入大槐宮豈夢耶。
+- 不記省中紅芍藥，曾看天上碧桃花。
+- 而今送老荒村裏，且向溪邊間麥麻。
 
 ## 拼音
 
-- yi4 xi1 jin1 bian1 guan1 yu4 tai2 ， dang1 nian2 bing4 jia4 jin4 long2 lai2 。
-- qia4 feng2 ju1 yi4 tou2 shi1 qu4 ， you4 bao4 qi2 zhang1 xiu4 zhi4 lai2 。
-- bing4 xie4 jiao1 you2 kong1 gan3 jiu4 ， lao3 wu2 qi4 li4 shang4 lian2 cai2 。
-- meng4 yang2 can2 jin3 dou1 neng2 ji1 ， mo4 wei2 zhu1 jun1 geng4 jian3 cai2 。
+- guo4 qu4 sheng1 zhong1 yi2 nian4 cha4 ， qiang2 fu2 shuai1 xiu3 jian4 qing1 hua2 。
+- chu1 ling2 zhi1 dian4 hun2 wang4 que4 ， ru4 da4 huai2 gong1 qi3 meng4 ye1 。
+- bu2 ji4 sheng3 zhong1 hong2 shao2 yao4 ， ceng2 kan4 tian1 shang4 bi4 tao2 hua1 。
+- er2 jin1 song4 lao3 huang1 cun1 li3 ， qie3 xiang4 xi1 bian1 jian4 mai4 ma2 。
 
 ## 注释
 

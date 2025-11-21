@@ -6,10 +6,10 @@ titleSlug: shang-du-shi-chang-xiang-gong
 author: 郭輿
 authorPinyin: guo1 yu2
 authorSlug: guo-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

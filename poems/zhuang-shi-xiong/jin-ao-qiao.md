@@ -6,10 +6,10 @@ titleSlug: jin-ao-qiao
 author: 莊師熊
 authorPinyin: zhuang1 shi1 xiong2
 authorSlug: zhuang-shi-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

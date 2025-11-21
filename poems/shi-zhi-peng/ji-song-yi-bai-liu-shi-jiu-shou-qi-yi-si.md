@@ -1,28 +1,30 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-si
-title: 偈頌一百六十九首  其一四
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 si4
+title: 偈頌一百六十九首  其一四○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 si4 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-si
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舊歲昨宵去，新年今日來。
-- 燈籠與露柱，不覺笑咍咍。
-- 達磨面壁，雲門念七。
+- 黄檗歸本位坐，陷虎機深。
+- 保壽打推出僧，釣鰲力巨。
+- 一舉三山連，未稱全提處。
+- 把斷要津，輝騰今古。
 
 ## 拼音
 
-- jiu4 sui4 zuo2 xiao1 qu4 ， xin1 nian2 jin1 ri4 lai2 。
-- deng1 long2 yu3 lu4 zhu4 ， bu4 jue2 xiao4 hai1 hai1 。
-- da2 mo2 mian4 bi4 ， yun2 men2 nian4 qi1 。
+- huang2 bo4 gui1 ben3 wei4 zuo4 ， xian4 hu3 ji1 shen1 。
+- bao3 shou4 da3 tui1 chu1 seng1 ， diao4 ao2 li4 ju4 。
+- yi4 ju3 san1 shan1 lian2 ， wei4 cheng1 quan2 ti2 chu3 。
+- ba3 duan4 yao4 jin1 ， hui1 teng2 jin1 gu3 。
 
 ## 注释
 

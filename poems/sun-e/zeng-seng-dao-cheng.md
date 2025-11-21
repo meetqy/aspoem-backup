@@ -6,10 +6,10 @@ titleSlug: zeng-seng-dao-cheng
 author: 孫諤
 authorPinyin: sun1 e4
 authorSlug: sun-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

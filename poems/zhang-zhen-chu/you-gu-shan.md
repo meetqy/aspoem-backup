@@ -6,10 +6,10 @@ titleSlug: you-gu-shan
 author: 張鎮初
 authorPinyin: zhang1 zhen4 chu1
 authorSlug: zhang-zhen-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

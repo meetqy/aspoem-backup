@@ -6,29 +6,25 @@ titleSlug: xiao-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暮年多感愴，孤夢久不成。
-- 殘燈暗無焰，宿雨滴有聲。
-- 食少夜常饑，展轉空腸鳴。
-- 老鷄雖三號，山窗終未明。
-- 默誦舊記書，更覺負平生。
-- 披衣搔短髮，壯志浩縱橫。
+- 昏昏斷夢带餘酲，散髮披衣坐待明。
+- 城角吹殘河漸隠，海氛消盡日初生。
+- 老農自得當年樂，癡子方爭後世名。
+- 莫怪閉門常懶出，即今車蓋爲誰傾。
 
 ## 拼音
 
-- mu4 nian2 duo1 gan3 chuang4 ， gu1 meng4 jiu3 bu4 cheng2 。
-- can2 deng1 an4 wu2 yan4 ， su4 yu3 di1 you3 sheng1 。
-- shi2 shao3 ye4 chang2 ji1 ， zhan3 zhuan3 kong1 chang2 ming2 。
-- lao3 ji1 sui1 san1 hao4 ， shan1 chuang1 zhong1 wei4 ming2 。
-- mo4 song4 jiu4 ji4 shu1 ， geng4 jue2 fu4 ping2 sheng1 。
-- pi1 yi1 sao1 duan3 fa4 ， zhuang4 zhi4 hao4 zong4 heng2 。
+- hun1 hun1 duan4 meng4 dai4 yu2 cheng2 ， san4 fa4 pi1 yi1 zuo4 dai4 ming2 。
+- cheng2 jiao3 chui1 can2 he2 jian4 yin3 ， hai3 fen1 xiao1 jin4 ri4 chu1 sheng1 。
+- lao3 nong2 zi4 de2 dang1 nian2 le4 ， chi1 zi3 fang1 zheng1 hou4 shi4 ming2 。
+- mo4 guai4 bi4 men2 chang2 lan3 chu1 ， ji2 jin1 ju1 gai4 wei2 shui2 qing1 。
 
 ## 注释
 

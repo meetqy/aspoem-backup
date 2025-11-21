@@ -6,10 +6,10 @@ titleSlug: you-shi-qiao-qi-yi
 author: 黄{田}
 authorPinyin: huang2 {  tian2 }
 authorSlug: huang-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

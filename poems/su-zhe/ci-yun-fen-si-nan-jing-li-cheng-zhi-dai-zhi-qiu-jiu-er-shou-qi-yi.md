@@ -6,10 +6,10 @@ titleSlug: ci-yun-fen-si-nan-jing-li-cheng-zhi-dai-zhi-qiu-jiu-er-shou-qi-yi
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

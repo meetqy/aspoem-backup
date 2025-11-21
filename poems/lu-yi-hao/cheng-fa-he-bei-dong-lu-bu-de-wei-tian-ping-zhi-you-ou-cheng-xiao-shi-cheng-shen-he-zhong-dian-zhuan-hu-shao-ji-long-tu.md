@@ -6,10 +6,10 @@ titleSlug: cheng-fa-he-bei-dong-lu-bu-de-wei-tian-ping-zhi-you-ou-cheng-xiao-shi
 author: 呂頤浩
 authorPinyin: lü3 yi2 hao4
 authorSlug: lu-yi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

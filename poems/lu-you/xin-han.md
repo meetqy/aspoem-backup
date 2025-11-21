@@ -6,25 +6,25 @@ titleSlug: xin-han
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病怯新寒欲不禁，南窗擁褐夜愔愔。
-- 江湖跌宕送餘日，書劍蕭條孤壯心。
-- 杜曲新愁隨斷雁，遼陽遺恨入疏砧。
-- 此懷擬向何人說，賴有昏燈伴苦吟。
+- 小雨戒新寒，衡茆已怯寬。
+- 甑香炊紫角，門靜挂黄團。
+- 扶杖穿茶塢，移舟傍釣灘。
+- 欲知秋有信，霜鬢不勝繁。
 
 ## 拼音
 
-- bing4 qie4 xin1 han2 yu4 bu4 jin1 ， nan2 chuang1 yong1 he4 ye4 yin1 yin1 。
-- jiang1 hu2 die1 dang4 song4 yu2 ri4 ， shu1 jian4 xiao1 tiao2 gu1 zhuang4 xin1 。
-- du4 qu3 xin1 chou2 sui2 duan4 yan4 ， liao2 yang2 yi2 hen4 ru4 shu1 zhen1 。
-- ci3 huai2 ni3 xiang4 he2 ren2 shuo1 ， lai4 you3 hun1 deng1 ban4 ku3 yin2 。
+- xiao3 yu3 jie4 xin1 han2 ， heng2 mao2 yi3 qie4 kuan1 。
+- zeng4 xiang1 chui1 zi3 jiao3 ， men2 jing4 gua4 huang2 tuan2 。
+- fu2 zhang4 chuan1 cha2 wu4 ， yi2 zhou1 bang4 diao4 tan1 。
+- yu4 zhi1 qiu1 you3 xin4 ， shuang1 bin4 bu2 sheng4 fan2 。
 
 ## 注释
 

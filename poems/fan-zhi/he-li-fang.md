@@ -6,9 +6,9 @@ titleSlug: he-li-fang
 author: 范質
 authorPinyin: fan4 zhi4
 authorSlug: fan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,9 +6,9 @@ titleSlug: ti-rui-yan-kou-bing-gu-fo
 author: 劉子羽
 authorPinyin: liu2 zi3 yu3
 authorSlug: liu-zi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

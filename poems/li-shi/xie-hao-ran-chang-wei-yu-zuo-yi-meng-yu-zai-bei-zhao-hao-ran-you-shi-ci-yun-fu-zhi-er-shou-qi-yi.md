@@ -6,10 +6,10 @@ titleSlug: xie-hao-ran-chang-wei-yu-zuo-yi-meng-yu-zai-bei-zhao-hao-ran-you-shi-
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

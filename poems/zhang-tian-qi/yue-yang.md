@@ -6,10 +6,10 @@ titleSlug: yue-yang
 author: 張天啟
 authorPinyin: zhang1 tian1 qi3
 authorSlug: zhang-tian-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhao-sui-han-kun-ji-san-ren-la-li-xue-yu-yu-tong-you-nan-hu-ci-sui-ha
 author: 曾由基
 authorPinyin: ceng2 you2 ji1
 authorSlug: ceng-you-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

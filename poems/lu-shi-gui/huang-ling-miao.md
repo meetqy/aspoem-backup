@@ -6,9 +6,9 @@ titleSlug: huang-ling-miao
 author: 陸士規
 authorPinyin: lu4 shi4 gui1
 authorSlug: lu-shi-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: shang-chen-xian-yin-qi-er
 author: 劉應李
 authorPinyin: liu2 ying1 li3
 authorSlug: liu-ying-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

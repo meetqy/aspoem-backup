@@ -6,10 +6,10 @@ titleSlug: ju
 author: 楊興宗
 authorPinyin: yang2 xing1 zong1
 authorSlug: yang-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

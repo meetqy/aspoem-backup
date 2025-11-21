@@ -6,10 +6,10 @@ titleSlug: you-xian-ci-san-shi-san-shou-qi-er-ba
 author: 王鎡
 authorPinyin: wang2 zi1
 authorSlug: wang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

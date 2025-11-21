@@ -1,24 +1,24 @@
 ---
 id: li-shi-zhong-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 李師中
 authorPinyin: li3 shi1 zhong1
 authorSlug: li-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好斬佞人頭上血，來充行客酒中杯。
+- 當年殿柱題名處。
 
 ## 拼音
 
-- hao3 zhan3 ning4 ren2 tou2 shang4 xue4 ， lai2 chong1 xing2 ke4 jiu3 zhong1 bei1 。
+- dang1 nian2 dian4 zhu4 ti2 ming2 chu3 。
 
 ## 注释
 

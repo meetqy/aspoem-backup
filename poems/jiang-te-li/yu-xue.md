@@ -1,26 +1,30 @@
 ---
 id: jiang-te-li-yu-xue
-title: 欲雪
+title: 遇雪
 titlePinyin: yu4 xue3
 titleSlug: yu-xue
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘯侶饑鳶愁古木，啅羣凍雀聚踈籬。
-- 一庭寒意沉沉靜，正是江天欲雪時。
+- 艱難要經歷，勿爲居所移。
+- 方茲冒雪行，有愧在家時。
+- 杯酒全無力，春寒易著肌。
+- 誰能念此老，團坐有癡兒。
 
 ## 拼音
 
-- xiao4 lü3 ji1 yuan1 chou2 gu3 mu4 ， zhuo2 qun2 dong4 que4 ju4 shu1 li2 。
-- yi4 ting2 han2 yi4 chen2 chen2 jing4 ， zheng4 shi4 jiang1 tian1 yu4 xue3 shi2 。
+- jian1 nan2 yao4 jing1 li4 ， wu4 wei2 ju1 suo3 yi2 。
+- fang1 zi1 mao4 xue3 xing2 ， you3 kui4 zai4 jia1 shi2 。
+- bei1 jiu3 quan2 wu2 li4 ， chun1 han2 yi4 zhu4 ji1 。
+- shui2 neng2 nian4 ci3 lao3 ， tuan2 zuo4 you3 chi1 er2 。
 
 ## 注释
 

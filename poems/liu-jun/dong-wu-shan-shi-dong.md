@@ -6,10 +6,10 @@ titleSlug: dong-wu-shan-shi-dong
 author: 劉浚
 authorPinyin: liu2 jun4
 authorSlug: liu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

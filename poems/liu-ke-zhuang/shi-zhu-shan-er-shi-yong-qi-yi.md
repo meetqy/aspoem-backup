@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-shi-zhu-shan-er-shi-yong-qi-yi
-title: 石竺山二十詠  其一
-titlePinyin: shi2 zhu2 shan1 er4 shi2 yong3     qi2 yi1
+title: 石竺山二十詠  其一○
+titlePinyin: shi2 zhu2 shan1 er4 shi2 yong3     qi2 yi1 ○
 titleSlug: shi-zhu-shan-er-shi-yong-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾瞞張茂先，亦誑關尹喜。
-- 嗟余雙眼白，任汝半空紫。
+- 慈悲乳孫叔，恭敬侍小顛。
+- 煩君常警邏，老子□□□。
 
 ## 拼音
 
-- ceng2 man2 zhang1 mao4 xian1 ， yi4 kuang2 guan1 yin3 xi3 。
-- jie1 yu2 shuang1 yan3 bai2 ， ren4 ru3 ban4 kong1 zi3 。
+- ci2 bei1 ru3 sun1 shu1 ， gong1 jing4 shi4 xiao3 dian1 。
+- fan2 jun1 chang2 jing3 luo2 ， lao3 zi3 □□□。
 
 ## 注释
 

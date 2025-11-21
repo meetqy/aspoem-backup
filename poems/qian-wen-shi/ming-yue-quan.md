@@ -6,10 +6,10 @@ titleSlug: ming-yue-quan
 author: 錢聞詩
 authorPinyin: qian2 wen2 shi1
 authorSlug: qian-wen-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

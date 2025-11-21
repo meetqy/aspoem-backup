@@ -6,25 +6,25 @@ titleSlug: wan-fu-jun-wan-ci-qi-san
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾母昔逃難，携孥依舅船。
-- 態多朝暮警，恩獨始終全。
-- 濫與高門出，尤蒙長者憐。
-- 未能成宅相，徒有淚如泉。
+- 屈指吾鄉黨，如公今幾何。
+- 門猶畢萬大，男類陸終多。
+- 壯志埋蒿里，幽光發薤歌。
+- 河梁嗟未就，遺恨滿滄波。
 
 ## 拼音
 
-- wu2 mu3 xi1 tao2 nan2 ， xie2 nu2 yi1 jiu4 chuan2 。
-- tai4 duo1 zhao1 mu4 jing3 ， en1 du2 shi3 zhong1 quan2 。
-- lan4 yu3 gao1 men2 chu1 ， you2 meng2 chang2 zhe3 lian2 。
-- wei4 neng2 cheng2 zhai2 xiang1 ， tu2 you3 lei4 ru2 quan2 。
+- qu1 zhi3 wu2 xiang1 dang3 ， ru2 gong1 jin1 ji1 he2 。
+- men2 you2 bi4 wan4 da4 ， nan2 lei4 lu4 zhong1 duo1 。
+- zhuang4 zhi4 mai2 hao1 li3 ， you1 guang1 fa1 xie4 ge1 。
+- he2 liang2 jie1 wei4 jiu4 ， yi2 hen4 man3 cang1 bo1 。
 
 ## 注释
 

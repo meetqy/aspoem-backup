@@ -6,10 +6,10 @@ titleSlug: an-ji-qiao
 author: 杜德源
 authorPinyin: du4 de2 yuan2
 authorSlug: du-de-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bai-chang-pu-lian-ju
 author: 釋智嵩
 authorPinyin: shi4 zhi4 song1
 authorSlug: shi-zhi-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

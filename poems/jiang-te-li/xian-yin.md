@@ -6,21 +6,21 @@ titleSlug: xian-yin
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老去無心思世事，靜中有業愛閒吟。
-- 有時看水看山處，舉世何人會此心。
+- 千首詩輕萬戶侯，富如猗頓亦何求。
+- 六義中間有至樂，不須苦作楚人騷。
 
 ## 拼音
 
-- lao3 qu4 wu2 xin1 si0 shi4 shi4 ， jing4 zhong1 you3 ye4 ai4 xian2 yin2 。
-- you3 shi2 kan4 shui3 kan4 shan1 chu3 ， ju3 shi4 he2 ren2 hui4 ci3 xin1 。
+- qian1 shou3 shi1 qing1 wan4 hu4 hou2 ， fu4 ru2 yi1 dun4 yi4 he2 qiu2 。
+- liu4 yi4 zhong1 jian4 you3 zhi4 le4 ， bu4 xu1 ku3 zuo4 chu3 ren2 sao1 。
 
 ## 注释
 

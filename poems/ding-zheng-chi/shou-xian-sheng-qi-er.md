@@ -6,10 +6,10 @@ titleSlug: shou-xian-sheng-qi-er
 author: 丁正持
 authorPinyin: ding1 zheng4 chi2
 authorSlug: ding-zheng-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-yue-jian-ji-song-yi-bai-ling-san-shou-qi-er
-title: 偈頌一百零三首  其二
-titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 er4
+title: 偈頌一百零三首  其二○
+titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 er4 ○
 titleSlug: ji-song-yi-bai-ling-san-shou-qi-er
 author: 釋月磵
 authorPinyin: shi4 yue4 jian4
 authorSlug: shi-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 隨師三年，咳嗽相似。
-- 山僧隨這老漢六年，相識還同不相識。
+- 無端盡把潑衆私，攤向人前誰點癡。
+- 對面不能掀倒去，滿天風雨謾凄其。
 
 ## 拼音
 
-- sui2 shi1 san1 nian2 ， ke2 sou0 xiang1 si4 。
-- shan1 seng1 sui2 zhe4 lao3 han4 liu4 nian2 ， xiang1 shi2 huan2 tong2 bu4 xiang1 shi2 。
+- wu2 duan1 jin4 ba3 po1 zhong4 si1 ， tan1 xiang4 ren2 qian2 shui2 dian3 chi1 。
+- dui4 mian4 bu4 neng2 xian1 dao3 qu4 ， man3 tian1 feng1 yu3 man2 qi1 qi2 。
 
 ## 注释
 

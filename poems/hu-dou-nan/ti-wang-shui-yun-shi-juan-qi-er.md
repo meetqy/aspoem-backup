@@ -6,10 +6,10 @@ titleSlug: ti-wang-shui-yun-shi-juan-qi-er
 author: 胡斗南
 authorPinyin: hu2 dou3 nan2
 authorSlug: hu-dou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

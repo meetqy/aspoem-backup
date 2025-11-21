@@ -6,10 +6,10 @@ titleSlug: cheng-zhong-bie-xu-shan-yu-xian-sheng-gui-gui-hou-feng-ji
 author: 黎廷瑞
 authorPinyin: li2 ting2 rui4
 authorSlug: li-ting-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

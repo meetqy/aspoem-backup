@@ -6,10 +6,10 @@ titleSlug: jia-he-zhong-you-ai-dao-ren-zi-zhu-xiao-zhou-chi-zhou-wei-sheng-ren-m
 author: 胡仲參
 authorPinyin: hu2 zhong4 can1
 authorSlug: hu-zhong-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

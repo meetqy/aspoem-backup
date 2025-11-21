@@ -6,25 +6,25 @@ titleSlug: xi-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蓬蒻鳴春雨，帆蒲挂暮烟。
-- 買魚尋近市，覓火就鄰船。
-- 愁臥醒還醉，灘行却復前。
-- 長年殊可念，力盡逆風牽。
+- 霜落水初澄，星繁月未升。
+- 近村聞夜犬，隔浦見秋燈。
+- 多病乃如許，微寒已不勝。
+- 平生鄰曲意，移棹避漁罾。
 
 ## 拼音
 
-- peng2 ruo4 ming2 chun1 yu3 ， fan1 pu2 gua4 mu4 yan1 。
-- mai3 yu2 xun2 jin4 shi4 ， mi4 huo3 jiu4 lin2 chuan2 。
-- chou2 wo4 xing3 huan2 zui4 ， tan1 xing2 que4 fu4 qian2 。
-- chang2 nian2 shu1 ke3 nian4 ， li4 jin4 ni4 feng1 qian1 。
+- shuang1 luo4 shui3 chu1 cheng2 ， xing1 fan2 yue4 wei4 sheng1 。
+- jin4 cun1 wen2 ye4 quan3 ， ge2 pu3 jian4 qiu1 deng1 。
+- duo1 bing4 nai3 ru2 xu1 ， wei1 han2 yi3 bu2 sheng4 。
+- ping2 sheng1 lin2 qu1 yi4 ， yi2 zhao4 bi4 yu2 zeng1 。
 
 ## 注释
 

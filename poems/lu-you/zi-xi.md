@@ -6,21 +6,25 @@ titleSlug: zi-xi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半生羈宦走人間，醉裏心寛夢裏閑。
-- 自喜如今無一事，讀書纔倦即逰山。
+- 身閑僊不遠，食足富何加。
+- 庭卧長生犢，園開手種花。
+- 狂歌聲跌宕，醉草筆橫斜。
+- 八十明年是，衰殘豈復嗟。
 
 ## 拼音
 
-- ban4 sheng1 ji1 huan4 zou3 ren2 jian4 ， zui4 li3 xin1 kuan1 meng4 li3 xian2 。
-- zi4 xi3 ru2 jin1 wu2 yi2 shi4 ， du2 shu1 cai2 juan4 ji2 you2 shan1 。
+- shen1 xian2 xian1 bu4 yuan3 ， shi2 zu2 fu4 he2 jia1 。
+- ting2 wo4 chang2 sheng1 du2 ， yuan2 kai1 shou3 zhong3 hua1 。
+- kuang2 ge1 sheng1 die1 dang4 ， zui4 cao3 bi3 heng2 xie2 。
+- ba1 shi2 ming2 nian2 shi4 ， shuai1 can2 qi3 fu4 jie1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jiang-ting-yu-cheng-qu-er-jun-xie-hou-xiao-yin-tai-shou-song-jiu-yin-
 author: 鄭俠
 authorPinyin: zheng4 xia2
 authorSlug: zheng-xia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shang-tang-ji
 author: 廣禪師
 authorPinyin: guang3 shan4 shi1
 authorSlug: guang-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

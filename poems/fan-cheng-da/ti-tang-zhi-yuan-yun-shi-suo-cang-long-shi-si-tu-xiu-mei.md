@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-tang-zhi-yuan-yun-shi-suo-cang-long-shi-si-tu-xiu-mei
-title: 題湯致遠運使所藏隆師四圖・嗅梅
-titlePinyin: ti2 tang1 zhi4 yuan3 yun4 shi3 suo3 cang2 long2 shi1 si4 tu2・xiu4 mei2
+title: 題湯致遠運使所藏隆師四圖 嗅梅
+titlePinyin: ti2 tang1 zhi4 yuan3 yun4 shi3 suo3 cang2 long2 shi1 si4 tu2   xiu4 mei2
 titleSlug: ti-tang-zhi-yuan-yun-shi-suo-cang-long-shi-si-tu-xiu-mei
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

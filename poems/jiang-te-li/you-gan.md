@@ -6,21 +6,21 @@ titleSlug: you-gan
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 巍峩厦屋起千間，更作朝廷第一官。
-- 幾箇得歸仍得老，可憐一世不曾閒。
+- 滴水添壺箭，跳丸疊崦嵫。
+- 只誇顔似玉，不覺鬢成絲。
 
 ## 拼音
 
-- wei1 e2 sha4 wu1 qi3 qian1 jian4 ， geng4 zuo4 chao2 ting2 di4 yi1 guan1 。
-- ji1 ge4 de2 gui1 reng2 de2 lao3 ， ke3 lian2 yi2 shi4 bu4 ceng2 xian2 。
+- di1 shui3 tian1 hu2 jian4 ， tiao4 wan2 die2 yan1 zi1 。
+- zhi1 kua1 yan2 si4 yu4 ， bu4 jue2 bin4 cheng2 si1 。
 
 ## 注释
 

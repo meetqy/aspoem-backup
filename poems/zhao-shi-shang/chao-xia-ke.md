@@ -6,10 +6,10 @@ titleSlug: chao-xia-ke
 author: 趙師商
 authorPinyin: zhao4 shi1 shang1
 authorSlug: zhao-shi-shang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

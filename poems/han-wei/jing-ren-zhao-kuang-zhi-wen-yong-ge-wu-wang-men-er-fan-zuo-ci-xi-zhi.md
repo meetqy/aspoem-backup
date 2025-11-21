@@ -6,10 +6,10 @@ titleSlug: jing-ren-zhao-kuang-zhi-wen-yong-ge-wu-wang-men-er-fan-zuo-ci-xi-zhi
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-wang-zi-jin
 author: 童童
 authorPinyin: tong2 tong2
 authorSlug: tong-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

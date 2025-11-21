@@ -6,10 +6,10 @@ titleSlug: jing-ling-gong-gong-xie-jia-hui-cheng-xiang-yi-xia-jie-zan-hua
 author: 阮秀實
 authorPinyin: ruan3 xiu4 shi2
 authorSlug: ruan-xiu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

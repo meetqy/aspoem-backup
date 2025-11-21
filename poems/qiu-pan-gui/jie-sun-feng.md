@@ -6,10 +6,10 @@ titleSlug: jie-sun-feng
 author: 邱攀桂
 authorPinyin: qiu1 pan1 gui4
 authorSlug: qiu-pan-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

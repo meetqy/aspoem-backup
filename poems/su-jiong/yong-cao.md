@@ -6,23 +6,21 @@ titleSlug: yong-cao
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 芳草復芳草，青似青松樹。
-- 今年見汝黄，明年復如故。
-- 今來古往人，南北東西路。
+- 天涯隨意綠匆匆，只與牛羊踐踏空。
+- 挽著便堪供藥味，誰令汝不遇神農。
 
 ## 拼音
 
-- fang1 cao3 fu4 fang1 cao3 ， qing1 si4 qing1 song1 shu4 。
-- jin1 nian2 jian4 ru3 huang2 ， ming2 nian2 fu4 ru2 gu4 。
-- jin1 lai2 gu3 wang3 ren2 ， nan2 bei3 dong1 xi1 lu4 。
+- tian1 ya2 sui2 yi4 lü4 cong1 cong1 ， zhi1 yu3 niu2 yang2 jian4 ta4 kong1 。
+- wan3 zhu4 bian4 kan1 gong4 yao4 wei4 ， shui2 ling4 ru3 bu2 yu4 shen2 nong2 。
 
 ## 注释
 

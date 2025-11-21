@@ -1,14 +1,14 @@
 ---
 id: wen-tong-yi-yun-he-tu-nan-wu-shou-jin-niu-xiang-bie-cheng-cheng-zhi
-title: 依韵和圖南五首・金牛相別呈誠之
-titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3・jin1 niu2 xiang1 bie2 cheng2 cheng2 zhi1
+title: 依韵和圖南五首 金牛相別呈誠之
+titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3   jin1 niu2 xiang1 bie2 cheng2 cheng2 zhi1
 titleSlug: yi-yun-he-tu-nan-wu-shou-jin-niu-xiang-bie-cheng-cheng-zhi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

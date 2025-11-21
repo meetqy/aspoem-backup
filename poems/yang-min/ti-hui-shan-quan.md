@@ -6,10 +6,10 @@ titleSlug: ti-hui-shan-quan
 author: 楊旻
 authorPinyin: yang2 min2
 authorSlug: yang-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

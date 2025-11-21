@@ -6,9 +6,9 @@ titleSlug: lin-xing-kou-zhan
 author: 邛州僧
 authorPinyin: qiong2 zhou1 seng1
 authorSlug: qiong-zhou-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

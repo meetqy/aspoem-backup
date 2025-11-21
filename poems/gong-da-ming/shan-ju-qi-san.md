@@ -6,10 +6,10 @@ titleSlug: shan-ju-qi-san
 author: 龔大明
 authorPinyin: gong1 da4 ming2
 authorSlug: gong-da-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fa-gui-lin-liu-shuai-li-dao-tong-zhu-si-chu-jian-yu-gan-tang-du-kou-e
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

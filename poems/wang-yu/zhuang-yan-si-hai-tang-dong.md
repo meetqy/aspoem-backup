@@ -6,10 +6,10 @@ titleSlug: zhuang-yan-si-hai-tang-dong
 author: 王瑜
 authorPinyin: wang2 yu2
 authorSlug: wang-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

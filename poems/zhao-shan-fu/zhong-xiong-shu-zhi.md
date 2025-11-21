@@ -6,10 +6,10 @@ titleSlug: zhong-xiong-shu-zhi
 author: 趙善傅
 authorPinyin: zhao4 shan4 fu4
 authorSlug: zhao-shan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

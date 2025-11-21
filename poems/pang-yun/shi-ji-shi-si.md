@@ -9,26 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 爺娘聞子來，端坐見咍咍。
-- 我所有寶藏，分付鑰匙開。
-- 非論窮子富，舉國免三災。
-- 如意用無盡，更不受胞胎。
-- 逍遙無障礙，終日見如來。
-- 。
+- 心王不了事，遮莫向名山。
+- 縱令見佛像，實以不相關。
+- 猿猴見水月，捉月始知難。
 
 ## 拼音
 
-- ye2 niang2 wen2 zi3 lai2 ， duan1 zuo4 jian4 hai1 hai1 。
-- wo3 suo3 you3 bao3 cang2 ， fen1 fu4 yue4 chi2 kai1 。
-- fei1 lun4 qiong2 zi3 fu4 ， ju3 guo2 mian3 san1 zai1 。
-- ru2 yi4 yong4 wu2 jin4 ， geng4 bu2 shou4 bao1 tai1 。
-- xiao1 yao2 wu2 zhang4 ai4 ， zhong1 ri4 jian4 ru2 lai2 。
-- 。
+- xin1 wang2 bu4 liao3 shi4 ， zhe1 mo4 xiang4 ming2 shan1 。
+- zong4 ling4 jian4 fo2 xiang4 ， shi2 yi3 bu4 xiang1 guan1 。
+- yuan2 hou2 jian4 shui3 yue4 ， zhuo1 yue4 shi3 zhi1 nan2 。
 
 ## 注释
 

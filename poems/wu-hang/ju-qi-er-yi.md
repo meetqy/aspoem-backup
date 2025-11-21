@@ -6,10 +6,10 @@ titleSlug: ju-qi-er-yi
 author: 吳沆
 authorPinyin: wu2 hang4
 authorSlug: wu-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

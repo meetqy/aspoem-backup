@@ -6,10 +6,10 @@ titleSlug: tu-han-ying-xue-shi-er-shi-yu-nian-yi-xie-jin-zuo-lai-shi-shang-tan-z
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

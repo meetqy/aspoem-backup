@@ -6,10 +6,10 @@ titleSlug: bing-gu-quan
 author: 沈汝諧
 authorPinyin: shen3 ru3 xie2
 authorSlug: shen-ru-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

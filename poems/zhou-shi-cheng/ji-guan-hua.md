@@ -6,10 +6,10 @@ titleSlug: ji-guan-hua
 author: 周師成
 authorPinyin: zhou1 shi1 cheng2
 authorSlug: zhou-shi-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

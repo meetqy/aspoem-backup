@@ -6,10 +6,10 @@ titleSlug: ti-shen-wu-pen-shi-gu
 author: 李氏子
 authorPinyin: li3 shi4 zi3
 authorSlug: li-shi-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: su-wang-pi-zhai-yu-wei-ye-ji-yong-hui-shang-ren-yin-cheng-lian-ju
 author: 王專
 authorPinyin: wang2 zhuan1
 authorSlug: wang-zhuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: li-bu-su-shang-shu-you-xuan-hu-shi-lang-jie-he-bi-ju-ci-yun-dao-xie
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

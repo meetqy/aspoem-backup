@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zi-chen-zhi-wu-qi-ju-yin-shi-jie-yi-qiang-wai-ren-wu-zhi-sheng-wei-jie-xi-shu-si-jue-qi-san
-title: 自晨至午起居飲食皆以牆外人物之聲爲節戲書四絕・其三
-titlePinyin: zi4 chen2 zhi4 wu3 qi3 ju1 yin3 shi2 jie1 yi3 qiang2 wai4 ren2 wu4 zhi1 sheng1 wei2 jie2 xi4 shu1 si4 jue2・qi2 san1
+title: 自晨至午起居飲食皆以牆外人物之聲爲節戲書四絕  其三
+titlePinyin: zi4 chen2 zhi4 wu3 qi3 ju1 yin3 shi2 jie1 yi3 qiang2 wai4 ren2 wu4 zhi1 sheng1 wei2 jie2 xi4 shu1 si4 jue2     qi2 san1
 titleSlug: zi-chen-zhi-wu-qi-ju-yin-shi-jie-yi-qiang-wai-ren-wu-zhi-sheng-wei-jie-xi-shu-si-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

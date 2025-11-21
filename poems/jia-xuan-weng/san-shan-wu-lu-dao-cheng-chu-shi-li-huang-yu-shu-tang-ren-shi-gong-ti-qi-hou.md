@@ -6,10 +6,10 @@ titleSlug: san-shan-wu-lu-dao-cheng-chu-shi-li-huang-yu-shu-tang-ren-shi-gong-ti
 author: 家鉉翁
 authorPinyin: jia1 xuan4 weng1
 authorSlug: jia-xuan-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

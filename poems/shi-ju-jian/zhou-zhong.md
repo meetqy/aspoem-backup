@@ -6,21 +6,21 @@ titleSlug: zhou-zhong
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曝背初從曉日開，當時曾說獻君來。
-- 船頭亦有茆簷暖，準擬排雲又一回。
+- 物華雨後各矜晴，紅得晴多綠便爭。
+- 未與東風寫懷抱，綿蠻已作送春聲。
 
 ## 拼音
 
-- pu4 bei4 chu1 cong2 xiao3 ri4 kai1 ， dang1 shi2 ceng2 shuo1 xian4 jun1 lai2 。
-- chuan2 tou2 yi4 you3 mao2 yan2 nuan3 ， zhun3 ni3 pai2 yun2 you4 yi4 hui2 。
+- wu4 hua2 yu3 hou4 ge4 jin1 qing2 ， hong2 de2 qing2 duo1 lü4 bian4 zheng1 。
+- wei4 yu3 dong1 feng1 xie3 huai2 bao4 ， mian2 man2 yi3 zuo4 song4 chun1 sheng1 。
 
 ## 注释
 

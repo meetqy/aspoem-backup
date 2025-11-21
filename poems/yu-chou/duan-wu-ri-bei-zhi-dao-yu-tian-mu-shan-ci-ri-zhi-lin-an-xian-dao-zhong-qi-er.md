@@ -6,10 +6,10 @@ titleSlug: duan-wu-ri-bei-zhi-dao-yu-tian-mu-shan-ci-ri-zhi-lin-an-xian-dao-zhon
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

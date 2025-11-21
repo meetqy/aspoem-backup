@@ -6,10 +6,10 @@ titleSlug: yu-gong-bu-zhui-he-wang-zhan-shi-you-dong-po-shi-yi-jue-yi-ci-yun-qi-
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-bei-yan
 author: 王庶
 authorPinyin: wang2 shu4
 authorSlug: wang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

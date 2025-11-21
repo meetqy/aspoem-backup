@@ -6,10 +6,10 @@ titleSlug: bai-yun-ting
 author: 釋正韶
 authorPinyin: shi4 zheng4 shao2
 authorSlug: shi-zheng-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

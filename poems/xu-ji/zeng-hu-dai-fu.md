@@ -6,37 +6,25 @@ titleSlug: zeng-hu-dai-fu
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兵有三難，一曰難知。
-- 二曰難處，三曰難言。
-- 眇忽精微。
-- 偉哉胡公，講辨必精。
-- 以兵爲難，是爲知兵。
-- 是爲力學，是爲老成。
-- 惜乎老矣，未見設施。
-- 其誰知公，胸中之奇。
-- 弗施於兵，施於有政。
-- 所在所居，斯民之幸。
+- 好讀奇書好運籌，橫刀常賦玉關秋。
+- 銅符正選千兵守，金印猶虛萬戶侯。
+- 艗趁潮來家易到，龍投池上劍難求。
+- 應須讀盡平蠻策，二廣封疆近吉州。
 
 ## 拼音
 
-- bing1 you3 san1 nan2 ， yi4 yue1 nan2 zhi1 。
-- er4 yue1 nan2 chu3 ， san1 yue1 nan2 yan2 。
-- miao3 hu1 jing1 wei1 。
-- wei3 zai1 hu2 gong1 ， jiang3 bian4 bi4 jing1 。
-- yi3 bing1 wei2 nan2 ， shi4 wei2 zhi1 bing1 。
-- shi4 wei2 li4 xue2 ， shi4 wei2 lao3 cheng2 。
-- xi1 hu1 lao3 yi3 ， wei4 jian4 she4 shi1 。
-- qi2 shui2 zhi1 gong1 ， xiong1 zhong1 zhi1 qi2 。
-- fu2 shi1 wu1 bing1 ， shi1 wu1 you3 zheng4 。
-- suo3 zai4 suo3 ju1 ， si1 min2 zhi1 xing4 。
+- hao3 du2 qi2 shu1 hao3 yun4 chou2 ， heng2 dao1 chang2 fu4 yu4 guan1 qiu1 。
+- tong2 fu2 zheng4 xuan3 qian1 bing1 shou3 ， jin1 yin4 you2 xu1 wan4 hu4 hou2 。
+- yi4 chen4 chao2 lai2 jia1 yi4 dao4 ， long2 tou2 chi2 shang4 jian4 nan2 qiu2 。
+- ying1 xu1 du2 jin4 ping2 man2 ce4 ， er4 guang3 feng1 jiang1 jin4 ji2 zhou1 。
 
 ## 注释
 

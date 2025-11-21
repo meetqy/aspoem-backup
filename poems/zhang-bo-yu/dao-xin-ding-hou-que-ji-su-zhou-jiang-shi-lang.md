@@ -6,10 +6,10 @@ titleSlug: dao-xin-ding-hou-que-ji-su-zhou-jiang-shi-lang
 author: 張伯玉
 authorPinyin: zhang1 bo2 yu4
 authorSlug: zhang-bo-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

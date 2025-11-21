@@ -1,34 +1,34 @@
 ---
 id: shu-yue-xiang-shi-chong-yin-qi-yi
-title: 十蟲吟  其一
-titlePinyin: shi2 chong2 yin2     qi2 yi1
+title: 十蟲吟  其一○
+titlePinyin: shi2 chong2 yin2     qi2 yi1 ○
 titleSlug: shi-chong-yin-qi-yi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蟲有促織兒，憂人不憂己。
-- 華身有龍鸞，不出工女指。
-- 瓦礫爲堂奧，青莎作衣被。
-- 一身可自了，剌剌不能已。
-- 白露夜庭空，凄其行去矣。
-- 金屋白玉床，貴人呼不起。
+- 蟲有蠹書魚，白膩鉛粉如。
+- 岐尾細而長，所嗜惟食書。
+- 我老書久廢，兒曹復相疎。
+- 經年不啟櫝，宜爾穴以居。
+- 蝕紙兼齧字，古篆成紆餘。
+- 腹中有經傳，顧我何空虛。
 
 ## 拼音
 
-- chong2 you3 cu4 zhi1 er2 ， you1 ren2 bu4 you1 ji3 。
-- hua2 shen1 you3 long2 luan2 ， bu4 chu1 gong1 nü3 zhi3 。
-- wa3 li4 wei2 tang2 ao4 ， qing1 sha1 zuo4 yi1 bei4 。
-- yi4 shen1 ke3 zi4 le0 ， la4 la4 bu4 neng2 yi3 。
-- bai2 lu4 ye4 ting2 kong1 ， qi1 qi2 xing2 qu4 yi3 。
-- jin1 wu1 bai2 yu4 chuang2 ， gui4 ren2 hu1 bu4 qi3 。
+- chong2 you3 du4 shu1 yu2 ， bai2 ni4 qian1 fen3 ru2 。
+- qi2 wei3 xi4 er2 chang2 ， suo3 shi4 wei2 shi2 shu1 。
+- wo3 lao3 shu1 jiu3 fei4 ， er2 cao2 fu4 xiang1 shu1 。
+- jing1 nian2 bu4 qi3 du2 ， yi2 er3 xue2 yi3 ju1 。
+- shi2 zhi3 jian1 nie4 zi4 ， gu3 zhuan4 cheng2 yu1 yu2 。
+- fu4 zhong1 you3 jing1 chuan2 ， gu4 wo3 he2 kong1 xu1 。
 
 ## 注释
 

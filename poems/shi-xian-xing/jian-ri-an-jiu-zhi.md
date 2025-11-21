@@ -6,10 +6,10 @@ titleSlug: jian-ri-an-jiu-zhi
 author: 師顯行
 authorPinyin: shi1 xian3 xing2
 authorSlug: shi-xian-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

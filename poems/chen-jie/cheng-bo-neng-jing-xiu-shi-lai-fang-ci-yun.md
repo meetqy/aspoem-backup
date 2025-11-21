@@ -6,10 +6,10 @@ titleSlug: cheng-bo-neng-jing-xiu-shi-lai-fang-ci-yun
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

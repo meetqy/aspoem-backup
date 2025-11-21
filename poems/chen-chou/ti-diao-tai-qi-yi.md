@@ -6,10 +6,10 @@ titleSlug: ti-diao-tai-qi-yi
 author: 陳疇
 authorPinyin: chen2 chou2
 authorSlug: chen-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

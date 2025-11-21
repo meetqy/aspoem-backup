@@ -6,25 +6,25 @@ titleSlug: zhen-shang-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水漲池新滿，山寒屋儘低。
-- 愁多憎夜雨，睡少喜晨雞。
-- 社肉初分胙，春蕪已再犁。
-- 明朝尋父老，不怕蹋街泥。
+- 無地容錐四壁空，浩然亦未愴途窮。
+- 夢回倦枕燈殘後，詩在空階雨滴中。
+- 徂歲易成雙鬢禿，故人難復一樽同。
+- 唐安萬里音塵絕，誰爲寒沙問斷鴻。
 
 ## 拼音
 
-- shui3 zhang3 chi2 xin1 man3 ， shan1 han2 wu1 jin3 di1 。
-- chou2 duo1 zeng1 ye4 yu3 ， shui4 shao3 xi3 chen2 ji1 。
-- she4 rou4 chu1 fen1 zuo4 ， chun1 wu2 yi3 zai4 li2 。
-- ming2 chao2 xun2 fu4 lao3 ， bu2 pa4 ta4 jie1 ni2 。
+- wu2 di4 rong2 zhui1 si4 bi4 kong1 ， hao4 ran2 yi4 wei4 chuang4 tu2 qiong2 。
+- meng4 hui2 juan4 zhen3 deng1 can2 hou4 ， shi1 zai4 kong1 jie1 yu3 di1 zhong1 。
+- cu2 sui4 yi4 cheng2 shuang1 bin4 tu1 ， gu4 ren2 nan2 fu4 yi4 zun1 tong2 。
+- tang2 an1 wan4 li3 yin1 chen2 jue2 ， shui2 wei2 han2 sha1 wen4 duan4 hong2 。
 
 ## 注释
 

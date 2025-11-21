@@ -6,10 +6,10 @@ titleSlug: fu-qing-tian
 author: 姚述堯
 authorPinyin: yao2 shu4 yao2
 authorSlug: yao-shu-yao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

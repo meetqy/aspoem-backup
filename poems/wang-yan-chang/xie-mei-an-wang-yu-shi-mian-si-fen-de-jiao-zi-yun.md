@@ -6,10 +6,10 @@ titleSlug: xie-mei-an-wang-yu-shi-mian-si-fen-de-jiao-zi-yun
 author: 汪炎昶
 authorPinyin: wang1 yan2 chang3
 authorSlug: wang-yan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

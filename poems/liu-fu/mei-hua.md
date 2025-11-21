@@ -6,25 +6,25 @@ titleSlug: mei-hua
 author: 劉黻
 authorPinyin: liu2 fu2
 authorSlug: liu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 之子孤高勢莫攀，分甘肥遯此林間。
-- 獨先草木有生意，幾歷風霜無老顔。
-- 氣質泠泠全太古，聲名籍籍重孤山。
-- 時人却擬調羹手，到底調羹不似閒。
+- 人誇之子得春早，道眼看來春最遲。
+- 萬木已悲山欲瘦，一花纔與水相宜。
+- 乾坤寂寞常如客，今古平章無盡詩。
+- 說著色香猶近俗，丹心祗許伯夷知。
 
 ## 拼音
 
-- zhi1 zi3 gu1 gao1 shi4 mo4 pan1 ， fen1 gan1 fei2 dun4 ci3 lin2 jian4 。
-- du2 xian1 cao3 mu4 you3 sheng1 yi4 ， ji1 li4 feng1 shuang1 wu2 lao3 yan2 。
-- qi4 zhi4 ling2 ling2 quan2 tai4 gu3 ， sheng1 ming2 ji2 ji2 zhong4 gu1 shan1 。
-- shi2 ren2 que4 ni3 diao4 geng1 shou3 ， dao4 di3 diao4 geng1 bu2 si4 xian2 。
+- ren2 kua1 zhi1 zi3 de2 chun1 zao3 ， dao4 yan3 kan4 lai2 chun1 zui4 chi2 。
+- wan4 mu4 yi3 bei1 shan1 yu4 shou4 ， yi4 hua1 cai2 yu3 shui3 xiang1 yi2 。
+- qian2 kun1 ji4 mo4 chang2 ru2 ke4 ， jin1 gu3 ping2 zhang1 wu2 jin4 shi1 。
+- shuo1 zhu4 se4 xiang1 you2 jin4 su2 ， dan1 xin1 zhi1 xu1 bo2 yi2 zhi1 。
 
 ## 注释
 

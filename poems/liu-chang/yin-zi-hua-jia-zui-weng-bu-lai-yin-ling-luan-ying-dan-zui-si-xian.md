@@ -6,10 +6,10 @@ titleSlug: yin-zi-hua-jia-zui-weng-bu-lai-yin-ling-luan-ying-dan-zui-si-xian
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

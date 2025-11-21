@@ -6,21 +6,21 @@ titleSlug: que-ti
 author: 劉跂
 authorPinyin: liu2 qi2
 authorSlug: liu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君家十畝春蒼筤，犀株解籜冰玉香。
-- 山東麥飯藜羹客，有底詩情合得嘗。
+- 北堂手種藍田玉，采斸不隨薑芋疇。
+- 邇來留得花爲佩，付與吳儂可療愁。
 
 ## 拼音
 
-- jun1 jia1 shi2 mu3 chun1 cang1 lang2 ， xi1 zhu1 jie3 tuo4 bing1 yu4 xiang1 。
-- shan1 dong1 mai4 fan4 li2 geng1 ke4 ， you3 di3 shi1 qing2 he2 de2 chang2 。
+- bei3 tang2 shou3 zhong3 lan2 tian2 yu4 ， cai3 zhu2 bu4 sui2 jiang1 yu4 chou2 。
+- er3 lai2 liu2 de2 hua1 wei2 pei4 ， fu4 yu3 wu2 nong2 ke3 liao2 chou2 。
 
 ## 注释
 

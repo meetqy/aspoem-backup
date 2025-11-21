@@ -6,10 +6,10 @@ titleSlug: ru-wan-nian-ye-jian-an-qing-lao-zhui-he-ceng-shi-jun-shi-ban-yun
 author: 徐大受
 authorPinyin: xu2 da4 shou4
 authorSlug: xu-da-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

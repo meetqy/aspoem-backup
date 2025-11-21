@@ -6,10 +6,10 @@ titleSlug: song-yu-ru-shang-zhi-shi-huan-xiang
 author: 滕元發
 authorPinyin: teng2 yuan2 fa1
 authorSlug: teng-yuan-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: meng-shi-xu-jiu-zhi-zuo-qing-juan-shen-hou-bu-ke-xu-ru-zhe-ci-yuan-yu
 author: 綦崇禮
 authorPinyin: qi2 chong2 li3
 authorSlug: qi-chong-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

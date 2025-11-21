@@ -9,18 +9,20 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 鶴臺南望白雲關，城市猶存暫一還。
-- 書出步虛三百韻，蘂珠文字在人間。
+- 每書題作上都字，悵望關東無限情。
+- 寂寞此心新雨後，槐花高樹晚蟬聲。
+- （《千載佳句》卷上《四時部・早秋》）。
 
 ## 拼音
 
-- he4 tai2 nan2 wang4 bai2 yun2 guan1 ， cheng2 shi4 you2 cun2 zan4 yi4 huan2 。
-- shu1 chu1 bu4 xu1 san1 bai3 yun4 ， rui3 zhu1 wen2 zi4 zai4 ren2 jian4 。
+- mei3 shu1 ti2 zuo4 shang4 dou1 zi4 ， chang4 wang4 guan1 dong1 wu2 xian4 qing2 。
+- ji4 mo4 ci3 xin1 xin1 yu3 hou4 ， huai2 hua1 gao1 shu4 wan3 chan2 sheng1 。
+- （《 qian1 zai4 jia1 ju4 》 juan3 shang4 《 si4 shi2 bu4 ・ zao3 qiu1 》）。
 
 ## 注释
 

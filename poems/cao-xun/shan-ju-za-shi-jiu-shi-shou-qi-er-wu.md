@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-er-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東岡老道友，招我閲子孫。
-- 大兒教以孝，小兒撫以溫。
-- 舉觴意未暢，已復月挂昏。
-- 興言還吾廬，更待它日論。
+- 梢梢岸上柳，粼粼岸下波。
+- 晴雲羃遠岫，東風扇微和。
+- 去冬有耕植，連春無干戈。
+- 田畯知此意，種秫應更多。
 
 ## 拼音
 
-- dong1 gang1 lao3 dao4 you3 ， zhao1 wo3 yue4 zi3 sun1 。
-- da4 er2 jiao4 yi3 xiao4 ， xiao3 er2 fu3 yi3 wen1 。
-- ju3 shang1 yi4 wei4 chang4 ， yi3 fu4 yue4 gua4 hun1 。
-- xing1 yan2 huan2 wu2 lu2 ， geng4 dai4 ta1 ri4 lun4 。
+- shao1 shao1 an4 shang4 liu3 ， lin2 lin2 an4 xia4 bo1 。
+- qing2 yun2 mi4 yuan3 xiu4 ， dong1 feng1 shan4 wei1 he2 。
+- qu4 dong1 you3 geng1 zhi2 ， lian2 chun1 wu2 gan1 ge1 。
+- tian2 jun4 zhi1 ci3 yi4 ， zhong3 shu2 ying1 geng4 duo1 。
 
 ## 注释
 

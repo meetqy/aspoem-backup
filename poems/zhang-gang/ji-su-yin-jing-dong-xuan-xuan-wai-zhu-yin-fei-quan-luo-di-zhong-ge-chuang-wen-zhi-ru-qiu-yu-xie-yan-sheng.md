@@ -6,10 +6,10 @@ titleSlug: ji-su-yin-jing-dong-xuan-xuan-wai-zhu-yin-fei-quan-luo-di-zhong-ge-ch
 author: 張綱
 authorPinyin: zhang1 gang1
 authorSlug: zhang-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

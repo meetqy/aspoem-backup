@@ -6,21 +6,21 @@ titleSlug: chun-xiao
 author: 張玉孃
 authorPinyin: zhang1 yu4 niang2
 authorSlug: zhang-yu-niang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜雨連階碧草，東風滿院飛花。
-- 湘竹簾凝曉色，石楠樹散棲鴉。
+- 夢回隔竹漏聲殘，春起移燈看牡丹。
+- 無力東風暗吹燭，獨披清露倚雕闌。
 
 ## 拼音
 
-- ye4 yu3 lian2 jie1 bi4 cao3 ， dong1 feng1 man3 yuan4 fei1 hua1 。
-- xiang1 zhu2 lian2 ning2 xiao3 se4 ， shi2 nan2 shu4 san4 qi1 ya1 。
+- meng4 hui2 ge2 zhu2 lou4 sheng1 can2 ， chun1 qi3 yi2 deng1 kan4 mu3 dan1 。
+- wu2 li4 dong1 feng1 an4 chui1 zhu2 ， du2 pi1 qing1 lu4 yi3 diao1 lan2 。
 
 ## 注释
 

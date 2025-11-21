@@ -6,10 +6,10 @@ titleSlug: bei-jin-kou-shui-ge
 author: 劉嘉謨
 authorPinyin: liu2 jia1 mo2
 authorSlug: liu-jia-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

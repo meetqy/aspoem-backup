@@ -6,10 +6,10 @@ titleSlug: chun-xing
 author: 吳龍翰
 authorPinyin: wu2 long2 han4
 authorSlug: wu-long-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

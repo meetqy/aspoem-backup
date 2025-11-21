@@ -6,9 +6,9 @@ titleSlug: yi-yun-feng-he-jian-yi-zhi-shen-qie-yi-da-lai-zhang-er-ge-sheng-mei-y
 author: 李昉
 authorPinyin: li3 fang3
 authorSlug: li-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

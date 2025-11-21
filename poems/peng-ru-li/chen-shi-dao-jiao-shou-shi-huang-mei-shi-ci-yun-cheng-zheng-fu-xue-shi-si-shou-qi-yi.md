@@ -6,10 +6,10 @@ titleSlug: chen-shi-dao-jiao-shou-shi-huang-mei-shi-ci-yun-cheng-zheng-fu-xue-sh
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

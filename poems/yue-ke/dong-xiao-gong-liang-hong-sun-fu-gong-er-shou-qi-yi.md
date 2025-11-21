@@ -6,10 +6,10 @@ titleSlug: dong-xiao-gong-liang-hong-sun-fu-gong-er-shou-qi-yi
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

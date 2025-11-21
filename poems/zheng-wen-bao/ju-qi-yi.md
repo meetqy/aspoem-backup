@@ -1,24 +1,24 @@
 ---
 id: zheng-wen-bao-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 鄭文寶
 authorPinyin: zheng4 wen2 bao3
 authorSlug: zheng-wen-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水暖鳬醫行哺子，溪深桃李卧開花。
+- 人辭碧落春風晚，花老朱陵古渡頭。
 
 ## 拼音
 
-- shui3 nuan3 fu2 yi1 xing2 bu3 zi3 ， xi1 shen1 tao2 li3 wo4 kai1 hua1 。
+- ren2 ci2 bi4 luo4 chun1 feng1 wan3 ， hua1 lao3 zhu1 ling2 gu3 du4 tou2 。
 
 ## 注释
 

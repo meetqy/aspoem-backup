@@ -6,10 +6,10 @@ titleSlug: ku-wei-fu-ren
 author: 張夫人
 authorPinyin: zhang1 fu1 ren2
 authorSlug: zhang-fu-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

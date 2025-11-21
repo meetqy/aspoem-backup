@@ -6,10 +6,10 @@ titleSlug: yu-bo-shi-lai-ji-xiang-lai-fang-dai-xiao-zhuo-jia-niang-yi-liang-ri-y
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

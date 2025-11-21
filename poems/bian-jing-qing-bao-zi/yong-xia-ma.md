@@ -6,10 +6,10 @@ titleSlug: yong-xia-ma
 author: 汴京輕薄子
 authorPinyin: bian4 jing1 qing1 bao2 zi0
 authorSlug: bian-jing-qing-bao-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

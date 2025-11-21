@@ -6,10 +6,10 @@ titleSlug: fu-gong-ren-wu-shui
 author: 李獻可
 authorPinyin: li3 xian4 ke3
 authorSlug: li-xian-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

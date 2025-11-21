@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 九鼎烹煎九轉砂，區分時節更無差。
-- 精神氣血歸三要，南北東西共一家。
-- 天地變通飛白雪，陰陽和合產金花。
-- 終期鳳詔空中降，跨虎騎龍謁紫霞。
+- 鶴爲車駕酒爲糧，爲戀長生不死鄉。
+- 地脉尚能縮得短，人年豈不展教長。
+- 星辰往往壺中見，日月時時衲裏藏。
+- 若欲時流親得見，朝朝不離水銀行。
 
 ## 拼音
 
-- jiu3 ding3 peng1 jian1 jiu3 zhuan3 sha1 ， qu1 fen1 shi2 jie2 geng4 wu2 cha4 。
-- jing1 shen2 qi4 xue4 gui1 san1 yao4 ， nan2 bei3 dong1 xi1 gong4 yi4 jia1 。
-- tian1 di4 bian4 tong1 fei1 bai2 xue3 ， yin1 yang2 he2 he2 chan3 jin1 hua1 。
-- zhong1 qi1 feng4 zhao4 kong1 zhong1 jiang4 ， kua4 hu3 qi2 long2 ye4 zi3 xia2 。
+- he4 wei2 ju1 jia4 jiu3 wei2 liang2 ， wei2 lian4 chang2 sheng1 bu4 si3 xiang1 。
+- di4 mai4 shang4 neng2 suo1 de2 duan3 ， ren2 nian2 qi3 bu4 zhan3 jiao4 chang2 。
+- xing1 chen2 wang3 wang3 hu2 zhong1 jian4 ， ri4 yue4 shi2 shi2 na4 li3 cang2 。
+- ruo4 yu4 shi2 liu2 qin1 de2 jian4 ， zhao1 zhao1 bu4 li2 shui3 yin2 xing2 。
 
 ## 注释
 

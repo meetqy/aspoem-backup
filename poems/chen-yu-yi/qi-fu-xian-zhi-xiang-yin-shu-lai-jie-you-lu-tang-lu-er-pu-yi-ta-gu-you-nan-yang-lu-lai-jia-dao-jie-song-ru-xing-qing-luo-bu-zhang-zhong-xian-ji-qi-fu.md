@@ -6,9 +6,9 @@ titleSlug: qi-fu-xian-zhi-xiang-yin-shu-lai-jie-you-lu-tang-lu-er-pu-yi-ta-gu-yo
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

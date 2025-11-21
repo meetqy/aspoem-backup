@@ -6,9 +6,9 @@ titleSlug: wu-kong-ta
 author: 釋贊寧
 authorPinyin: shi4 zan4 ning2
 authorSlug: shi-zan-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

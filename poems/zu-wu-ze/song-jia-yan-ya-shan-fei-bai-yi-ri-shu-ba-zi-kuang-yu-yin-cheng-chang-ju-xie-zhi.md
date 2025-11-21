@@ -6,10 +6,10 @@ titleSlug: song-jia-yan-ya-shan-fei-bai-yi-ri-shu-ba-zi-kuang-yu-yin-cheng-chang
 author: 祖無擇
 authorPinyin: zu3 wu2 ze2
 authorSlug: zu-wu-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

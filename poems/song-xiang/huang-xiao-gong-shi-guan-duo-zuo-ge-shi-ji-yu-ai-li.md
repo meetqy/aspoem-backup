@@ -6,9 +6,9 @@ titleSlug: huang-xiao-gong-shi-guan-duo-zuo-ge-shi-ji-yu-ai-li
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

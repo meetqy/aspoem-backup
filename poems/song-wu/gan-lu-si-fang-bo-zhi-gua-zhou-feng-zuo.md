@@ -6,10 +6,10 @@ titleSlug: gan-lu-si-fang-bo-zhi-gua-zhou-feng-zuo
 author: 宋無
 authorPinyin: song4 wu2
 authorSlug: song-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

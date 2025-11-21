@@ -6,10 +6,10 @@ titleSlug: yu-liu-bang-zhi
 author: 胡直孺
 authorPinyin: hu2 zhi2 ru2
 authorSlug: hu-zhi-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

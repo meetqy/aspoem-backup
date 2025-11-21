@@ -6,21 +6,21 @@ titleSlug: ti-tong-bai-guan
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淡月籠蒼松，清流蘸脩竹。
-- 水深蟾不設，長伴道人宿。
+- 仙翁夜來扣林壑，約我明朝過南嶽。
+- 石壇對坐話松風，鶴唳一聲山月落。
 
 ## 拼音
 
-- dan4 yue4 long2 cang1 song1 ， qing1 liu2 zhan4 xiu1 zhu2 。
-- shui3 shen1 chan2 bu2 she4 ， chang2 ban4 dao4 ren2 su4 。
+- xian1 weng1 ye4 lai2 kou4 lin2 he4 ， yue1 wo3 ming2 chao2 guo4 nan2 yue4 。
+- shi2 tan2 dui4 zuo4 hua4 song1 feng1 ， he4 li4 yi4 sheng1 shan1 yue4 luo4 。
 
 ## 注释
 

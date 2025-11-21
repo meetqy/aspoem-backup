@@ -6,10 +6,10 @@ titleSlug: ti-lu-qi-qian-jie-shan-lou
 author: 牟巘
 authorPinyin: mu4 yan3
 authorSlug: mu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

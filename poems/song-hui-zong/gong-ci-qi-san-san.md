@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燧人鑽火應時分，頒賜諸宮盡樂聞。
-- 堂上美人無用處，旋燔金餅炷蘭薰。
+- 臘中仙賞起華英，高聳雲鼇徹太清。
+- 預占春樓無限景，更聽風度管絃聲。
 
 ## 拼音
 
-- sui4 ren2 zuan1 huo3 ying1 shi2 fen1 ， ban1 ci4 zhu1 gong1 jin4 le4 wen2 。
-- tang2 shang4 mei3 ren2 wu2 yong4 chu3 ， xuan2 fan2 jin1 bing3 zhu4 lan2 xun1 。
+- la4 zhong1 xian1 shang3 qi3 hua2 ying1 ， gao1 song3 yun2 ao2 che4 tai4 qing1 。
+- yu4 zhan4 chun1 lou2 wu2 xian4 jing3 ， geng4 ting1 feng1 du4 guan3 xian2 sheng1 。
 
 ## 注释
 

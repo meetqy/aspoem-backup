@@ -6,10 +6,10 @@ titleSlug: ju-qi-si
 author: 黄景說
 authorPinyin: huang2 jing3 shuo1
 authorSlug: huang-jing-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

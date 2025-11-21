@@ -6,25 +6,25 @@ titleSlug: bi-hu
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自我來茲泮，閉戶交遊絕。
-- 經生一二輩，長庚伴殘月。
-- 芹藻自青青，誰與共採擷。
-- 唯於潑潑處，見得源頭活。
+- 芝蘭豈是爲人香，濁世紛紛貴自藏。
+- 閉戶不求如意事，讀書自得養心方。
+- 卓然有見如參倚，操則常存勿助忘。
+- 但使天根常活潑，小園花卉亦相羊。
 
 ## 拼音
 
-- zi4 wo3 lai2 zi1 pan4 ， bi4 hu4 jiao1 you2 jue2 。
-- jing1 sheng1 yi1 er4 bei4 ， chang2 geng1 ban4 can2 yue4 。
-- qin2 zao3 zi4 qing1 qing1 ， shui2 yu3 gong4 cai3 xie2 。
-- wei2 wu1 po1 po1 chu3 ， jian4 de2 yuan2 tou2 huo2 。
+- zhi1 lan2 qi3 shi4 wei2 ren2 xiang1 ， zhuo2 shi4 fen1 fen1 gui4 zi4 cang2 。
+- bi4 hu4 bu4 qiu2 ru2 yi4 shi4 ， du2 shu1 zi4 de2 yang3 xin1 fang1 。
+- zhuo2 ran2 you3 jian4 ru2 can1 yi3 ， cao1 ze2 chang2 cun2 wu4 zhu4 wang4 。
+- dan4 shi3 tian1 gen1 chang2 huo2 po1 ， xiao3 yuan2 hua1 hui4 yi4 xiang1 yang2 。
 
 ## 注释
 

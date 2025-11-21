@@ -6,10 +6,10 @@ titleSlug: he-mei-tang-zu-xin-shan-shi-da-tan-zhou-zhi-fu-jian-yi-xie-fan-wu-qia
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

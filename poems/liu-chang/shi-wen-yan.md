@@ -6,31 +6,25 @@ titleSlug: shi-wen-yan
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冬夜何漫漫，北風扇凄惻。
-- 始聞南飛羽，稍稍過我側。
-- 来賓無乃後，恐非歲時忒。
-- 朔方稽常貢，物性隨變易。
-- 哀音一何厲，路遠霜雪積。
-- 就陽既云歸，感義寧自默。
-- 胡爲堂上士，撫劍重歎激。
+- 長風送羽翼，千里逐陽和。
+- 朔漠應飛雪，江湖始見波。
+- 識時機不淺，愁旅叫空多。
+- 勿以稻梁故，早飛乘網羅。
 
 ## 拼音
 
-- dong1 ye4 he2 man4 man4 ， bei3 feng1 shan4 qi1 ce4 。
-- shi3 wen2 nan2 fei1 yu3 ， shao1 shao1 guo4 wo3 ce4 。
-- lai2 bin1 wu2 nai3 hou4 ， kong3 fei1 sui4 shi2 te4 。
-- shuo4 fang1 ji1 chang2 gong4 ， wu4 xing4 sui2 bian4 yi4 。
-- ai1 yin1 yi4 he2 li4 ， lu4 yuan3 shuang1 xue3 ji1 。
-- jiu4 yang2 ji4 yun2 gui1 ， gan3 yi4 ning2 zi4 mo4 。
-- hu2 wei2 tang2 shang4 shi4 ， fu3 jian4 zhong4 tan4 ji1 。
+- chang2 feng1 song4 yu3 yi4 ， qian1 li3 zhu2 yang2 he2 。
+- shuo4 mo4 ying1 fei1 xue3 ， jiang1 hu2 shi3 jian4 bo1 。
+- shi2 shi2 ji1 bu4 qian3 ， chou2 lü3 jiao4 kong1 duo1 。
+- wu4 yi3 dao4 liang2 gu4 ， zao3 fei1 cheng2 wang3 luo2 。
 
 ## 注释
 

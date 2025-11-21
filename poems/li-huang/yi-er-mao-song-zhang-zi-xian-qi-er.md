@@ -6,9 +6,9 @@ titleSlug: yi-er-mao-song-zhang-zi-xian-qi-er
 author: 李璜
 authorPinyin: li3 huang2
 authorSlug: li-huang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

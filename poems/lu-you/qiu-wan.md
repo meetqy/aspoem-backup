@@ -6,25 +6,25 @@ titleSlug: qiu-wan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聚落蕭條古埭東，蘆藩蓬戶卧衰翁。
-- 井桐葉盡新霜後，衣杵聲繁夕照中。
-- 身似敗棋難復振，心如病木已中空。
-- 村醪酸澀君無笑，也解燈前作臉紅。
+- 春將愁並至，秋與病相終。
+- 過望猶賒死，扶衰又入冬。
+- 撥香開社甕，带睡聽晨鐘。
+- 懶放君無誚，天公儘見容。
 
 ## 拼音
 
-- ju4 luo4 xiao1 tiao2 gu3 dai4 dong1 ， lu2 fan1 peng2 hu4 wo4 shuai1 weng1 。
-- jing3 tong2 ye4 jin4 xin1 shuang1 hou4 ， yi1 chu3 sheng1 fan2 xi1 zhao4 zhong1 。
-- shen1 si4 bai4 qi2 nan2 fu4 zhen4 ， xin1 ru2 bing4 mu4 yi3 zhong1 kong1 。
-- cun1 lao2 suan1 se4 jun1 wu2 xiao4 ， ye3 jie3 deng1 qian2 zuo4 lian3 hong2 。
+- chun1 jiang1 chou2 bing4 zhi4 ， qiu1 yu3 bing4 xiang1 zhong1 。
+- guo4 wang4 you2 she1 si3 ， fu2 shuai1 you4 ru4 dong1 。
+- bo1 xiang1 kai1 she4 weng4 ， dai4 shui4 ting1 chen2 zhong1 。
+- lan3 fang4 jun1 wu2 qiao4 ， tian1 gong1 jin3 jian4 rong2 。
 
 ## 注释
 

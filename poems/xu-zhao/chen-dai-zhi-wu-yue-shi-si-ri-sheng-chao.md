@@ -6,10 +6,10 @@ titleSlug: chen-dai-zhi-wu-yue-shi-si-ri-sheng-chao
 author: 徐照
 authorPinyin: xu2 zhao4
 authorSlug: xu-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

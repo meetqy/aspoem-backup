@@ -6,10 +6,10 @@ titleSlug: ti-tai-ping-guan
 author: 傅知錄
 authorPinyin: fu4 zhi1 lu4
 authorSlug: fu-zhi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

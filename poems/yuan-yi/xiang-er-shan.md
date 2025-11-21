@@ -6,10 +6,10 @@ titleSlug: xiang-er-shan
 author: 袁倚
 authorPinyin: yuan2 yi3
 authorSlug: yuan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

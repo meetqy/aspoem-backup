@@ -6,25 +6,25 @@ titleSlug: shu-lan-yi-shou
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 妨人作樂屏書籤，閣筆無情復强捻。
-- 執御祇應曩規範，鍛金不假別鎚鈐。
-- 花開咄咄人清苦，鳥哢聲聲夢黑憇。
-- 出世世間皆有道，糟醨餔啜量難兼。
+- 省寺周行占姓名，老耽攝養道幾成。
+- 生緣瑣屑同甕算，居處閒靜惟瓶笙。
+- 求己洗心祛習氣，知非窮理勇移更。
+- 鴻生彥士乖遊好，道秩禪流諧此情。
 
 ## 拼音
 
-- fang2 ren2 zuo4 le4 ping2 shu1 qian1 ， ge2 bi3 wu2 qing2 fu4 qiang2 nian3 。
-- zhi2 yu4 qi2 ying1 nang3 gui1 fan4 ， duan4 jin1 bu4 jia3 bie2 chui2 qian2 。
-- hua1 kai1 duo1 duo1 ren2 qing1 ku3 ， niao3 long4 sheng1 sheng1 meng4 hei1 qi4 。
-- chu1 shi4 shi4 jian4 jie1 you3 dao4 ， zao1 li2 bu1 chuo4 liang2 nan2 jian1 。
+- sheng3 si4 zhou1 xing2 zhan4 xing4 ming2 ， lao3 dan1 she4 yang3 dao4 ji1 cheng2 。
+- sheng1 yuan2 suo3 xie4 tong2 weng4 suan4 ， ju1 chu3 xian2 jing4 wei2 ping2 sheng1 。
+- qiu2 ji3 xi3 xin1 qu1 xi2 qi4 ， zhi1 fei1 qiong2 li3 yong3 yi2 geng4 。
+- hong2 sheng1 yan4 shi4 guai1 you2 hao3 ， dao4 zhi4 shan4 liu2 xie2 ci3 qing2 。
 
 ## 注释
 

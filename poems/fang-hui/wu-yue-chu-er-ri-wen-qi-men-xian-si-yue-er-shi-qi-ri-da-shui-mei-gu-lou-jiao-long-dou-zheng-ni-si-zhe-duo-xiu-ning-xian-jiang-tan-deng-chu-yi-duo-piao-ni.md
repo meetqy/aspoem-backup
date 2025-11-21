@@ -6,10 +6,10 @@ titleSlug: wu-yue-chu-er-ri-wen-qi-men-xian-si-yue-er-shi-qi-ri-da-shui-mei-gu-l
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

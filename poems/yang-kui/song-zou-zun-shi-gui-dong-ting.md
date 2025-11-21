@@ -3,13 +3,13 @@ id: yang-kui-song-zou-zun-shi-gui-dong-ting
 title: 送鄒尊師歸洞庭
 titlePinyin: song4 zou1 zun1 shi1 gui1 dong4 ting2
 titleSlug: song-zou-zun-shi-gui-dong-ting
-author: 楊夔
+author: 楊逵
 authorPinyin: yang2 kui2
 authorSlug: yang-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

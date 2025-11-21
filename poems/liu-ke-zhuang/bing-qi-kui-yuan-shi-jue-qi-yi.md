@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-bing-qi-kui-yuan-shi-jue-qi-yi
-title: 病起窺園十絕  其一
-titlePinyin: bing4 qi3 kui1 yuan2 shi2 jue2     qi2 yi1
+title: 病起窺園十絕  其一○
+titlePinyin: bing4 qi3 kui1 yuan2 shi2 jue2     qi2 yi1 ○
 titleSlug: bing-qi-kui-yuan-shi-jue-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜起飯牛薄暮舂，古人既老始明農。
-- 殘年尚欲勤東作，未肯將身旁瘦筇。
+- 雲裏金烏瞥見些，屋山鵲語亦查查。
+- 侵晨掃徑開籬戶，童子知翁出看花。
 
 ## 拼音
 
-- ye4 qi3 fan4 niu2 bo2 mu4 chong1 ， gu3 ren2 ji4 lao3 shi3 ming2 nong2 。
-- can2 nian2 shang4 yu4 qin2 dong1 zuo4 ， wei4 ken3 jiang1 shen1 pang2 shou4 qiong2 。
+- yun2 li3 jin1 wu1 pie1 jian4 xie1 ， wu1 shan1 que4 yu3 yi4 cha2 cha2 。
+- qin1 chen2 sao3 jing4 kai1 li2 hu4 ， tong2 zi3 zhi1 weng1 chu1 kan4 hua1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ou-cheng
 author: 吳明老
 authorPinyin: wu2 ming2 lao3
 authorSlug: wu-ming-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: zhen-shang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斷香猶在夢初回，燈似孤螢闔復開。
-- 怪底詩情清徹骨，數聲新雁枕邊來。
+- 冥冥梅雨暗江天，汗浹衣裳失夜眠。
+- 商略明朝當少霽，南簷風珮已鏘然。
 
 ## 拼音
 
-- duan4 xiang1 you2 zai4 meng4 chu1 hui2 ， deng1 si4 gu1 ying2 he2 fu4 kai1 。
-- guai4 di3 shi1 qing2 qing1 che4 gu3 ， shu4 sheng1 xin1 yan4 zhen3 bian1 lai2 。
+- ming2 ming2 mei2 yu3 an4 jiang1 tian1 ， han4 jia1 yi1 shang0 shi1 ye4 mian2 。
+- shang1 lüe4 ming2 chao2 dang1 shao3 ji4 ， nan2 yan2 feng1 pei4 yi3 qiang1 ran2 。
 
 ## 注释
 

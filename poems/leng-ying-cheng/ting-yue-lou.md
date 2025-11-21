@@ -6,10 +6,10 @@ titleSlug: ting-yue-lou
 author: 冷應澂
 authorPinyin: leng3 ying1 cheng2
 authorSlug: leng-ying-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

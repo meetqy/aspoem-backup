@@ -6,10 +6,10 @@ titleSlug: gong-zuo-suo-shi-ci-bie-zhong-shi-xiao-shi-yun-yi-zhi-wu-shou-qi-san
 author: 周孚
 authorPinyin: zhou1 fu2
 authorSlug: zhou-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qi-yue-wu-ri-re-tui-xi-liang-zi-zhong-you-huai-er-shi-si-yun
 author: 范祖禹
 authorPinyin: fan4 zu3 yu3
 authorSlug: fan-zu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

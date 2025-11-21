@@ -6,10 +6,10 @@ titleSlug: li-yin-tang-wei-zheng-can-yi-ti
 author: 張祈
 authorPinyin: zhang1 qi2
 authorSlug: zhang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

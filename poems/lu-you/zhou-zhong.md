@@ -6,29 +6,25 @@ titleSlug: zhou-zhong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青楓湖上村，綠蓑舟中客。
-- 雲興山疊見，海近地勢坼。
-- 悠然滄洲趣，宛與塵世隔。
-- 雖云食不足，粗免婚嫁責。
-- 渥丹未辭鏡，衰白幸滿幘。
-- 明當鼓枻行，放浪窮七澤。
+- 江天雲斷漏斜暉，靡迤群山翠作圍。
+- 帆影似經吳赤壁，櫓聲如下蜀青衣。
+- 卧聞裂水長魚出，起看凌風健鶻飛。
+- 禹會橋邊最清絕，憶曾深夜叩漁扉。
 
 ## 拼音
 
-- qing1 feng1 hu2 shang4 cun1 ， lü4 suo1 zhou1 zhong1 ke4 。
-- yun2 xing1 shan1 die2 jian4 ， hai3 jin4 di4 shi4 che4 。
-- you1 ran2 cang1 zhou1 qu4 ， wan3 yu3 chen2 shi4 ge2 。
-- sui1 yun2 shi2 bu4 zu2 ， cu1 mian3 hun1 jia4 ze2 。
-- wo4 dan1 wei4 ci2 jing4 ， shuai1 bai2 xing4 man3 ze2 。
-- ming2 dang1 gu3 yi4 xing2 ， fang4 lang4 qiong2 qi1 ze2 。
+- jiang1 tian1 yun2 duan4 lou4 xie2 hui1 ， mi2 yi3 qun2 shan1 cui4 zuo4 wei2 。
+- fan1 ying3 si4 jing1 wu2 chi4 bi4 ， lu3 sheng1 ru2 xia4 shu3 qing1 yi1 。
+- wo4 wen2 lie4 shui3 chang2 yu2 chu1 ， qi3 kan4 ling2 feng1 jian4 gu3 fei1 。
+- yu3 hui4 qiao2 bian1 zui4 qing1 jue2 ， yi4 ceng2 shen1 ye4 kou4 yu2 fei1 。
 
 ## 注释
 

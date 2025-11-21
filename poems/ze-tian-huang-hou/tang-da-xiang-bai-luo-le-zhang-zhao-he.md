@@ -9,22 +9,22 @@ authorSlug: ze-tian-huang-hou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 九玄眷命，三聖基隆。
-- 奉成先旨，明臺畢功。
-- 宗祀展敬，冀表深衷。
-- 永昌帝業，式播淳風。
+- 舒云致養，合大資生。
+- 德以恆固，功由永貞。
+- 升歌薦序，垂幣翹誠。
+- 虹開玉照，鳳引金聲。
 
 ## 拼音
 
-- jiu3 xuan2 juan4 ming4 ， san1 sheng4 ji1 long2 。
-- feng4 cheng2 xian1 zhi3 ， ming2 tai2 bi4 gong1 。
-- zong1 si4 zhan3 jing4 ， ji4 biao3 shen1 zhong1 。
-- yong3 chang1 di4 ye4 ， shi4 bo1 chun2 feng1 。
+- shu1 yun2 zhi4 yang3 ， he2 da4 zi1 sheng1 。
+- de2 yi3 heng2 gu4 ， gong1 you2 yong3 zhen1 。
+- sheng1 ge1 jian4 xu4 ， chui2 bi4 qiao2 cheng2 。
+- hong2 kai1 yu4 zhao4 ， feng4 yin3 jin1 sheng1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: ji-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陰雲屯硤口，急雨過城頭。
-- 白舫投沙峽，青帘捲市樓。
-- 漂揺爭闔户，壅溢共疏溝。
-- 抽得驅蠅手，題詩慰旅愁。
+- 蝸廬四壁僅容身，赫赫炎曦不貸人。
+- 正喜風清三伏暑，已看雨壓九衢塵。
+- 寒泉不減中𤃩味，貢茗初嘗正焙新。
+- 安得凌空雙健羽，徑隨猿鶴上嶙峋。
 
 ## 拼音
 
-- yin1 yun2 tun2 xia2 kou3 ， ji2 yu3 guo4 cheng2 tou2 。
-- bai2 fang3 tou2 sha1 xia2 ， qing1 lian2 juan3 shi4 lou2 。
-- piao1 yao2 zheng1 he2 hu4 ， yong1 yi4 gong4 shu1 gou1 。
-- chou1 de2 qu1 ying2 shou3 ， ti2 shi1 wei4 lü3 chou2 。
+- wo1 lu2 si4 bi4 jin3 rong2 shen1 ， he4 he4 yan2 xi1 bu2 dai4 ren2 。
+- zheng4 xi3 feng1 qing1 san1 fu2 shu3 ， yi3 kan4 yu3 ya1 jiu3 qu2 chen2 。
+- han2 quan2 bu4 jian3 zhong1 𤃩 wei4 ， gong4 ming2 chu1 chang2 zheng4 bei4 xin1 。
+- an1 de2 ling2 kong1 shuang1 jian4 yu3 ， jing4 sui2 yuan2 he4 shang4 lin2 xun2 。
 
 ## 注释
 

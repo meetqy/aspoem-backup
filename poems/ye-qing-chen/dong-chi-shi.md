@@ -6,10 +6,10 @@ titleSlug: dong-chi-shi
 author: 葉清臣
 authorPinyin: ye4 qing1 chen2
 authorSlug: ye-qing-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

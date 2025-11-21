@@ -6,21 +6,29 @@ titleSlug: yu-ji
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 豐隆故犯青冥上，列缺應逢返照還。
-- 樓外細蟾呈窈窕，枝間少女故徘徊。
+- 滯雨忽雲霽，園林有清暉。
+- 時鳥亦和鳴，好風清且微。
+- 遠愧深山僧，趺坐掩禪扉。
+- 豈知芳非歇，詎傷寒暑違。
+- 一念與道寂，九旬淡無爲。
+- 躡心探斯理，吾今其庶幾。
 
 ## 拼音
 
-- feng1 long2 gu4 fan4 qing1 ming2 shang4 ， lie4 que1 ying1 feng2 fan3 zhao4 huan2 。
-- lou2 wai4 xi4 chan2 cheng2 yao3 tiao3 ， zhi1 jian4 shao4 nü3 gu4 pai2 huai2 。
+- zhi4 yu3 hu1 yun2 ji4 ， yuan2 lin2 you3 qing1 hui1 。
+- shi2 niao3 yi4 he2 ming2 ， hao3 feng1 qing1 qie3 wei1 。
+- yuan3 kui4 shen1 shan1 seng1 ， fu1 zuo4 yan3 shan4 fei1 。
+- qi3 zhi1 fang1 fei1 xie1 ， ju4 shang1 han2 shu3 wei2 。
+- yi2 nian4 yu3 dao4 ji4 ， jiu3 xun2 dan4 wu2 wei2 。
+- nie4 xin1 tan4 si1 li3 ， wu2 jin1 qi2 shu4 ji1 。
 
 ## 注释
 

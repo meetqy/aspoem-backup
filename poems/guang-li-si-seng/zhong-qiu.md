@@ -6,10 +6,10 @@ titleSlug: zhong-qiu
 author: 廣利寺僧
 authorPinyin: guang3 li4 si4 seng1
 authorSlug: guang-li-si-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

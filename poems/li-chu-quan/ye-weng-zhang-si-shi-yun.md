@@ -6,9 +6,9 @@ titleSlug: ye-weng-zhang-si-shi-yun
 author: 李處權
 authorPinyin: li3 chu3 quan2
 authorSlug: li-chu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
@@ -78,7 +78,7 @@ tags: []
 - zheng4 gu3 cheng2 zhen1 yin3 ， xiao1 zhai1 zhan4 shang4 ceng2 。
 - hua2 xu1 jiu3 wu2 meng4 ， kuan3 duan4 shi4 kan1 cheng2 。
 - zhong3 liu3 zhui1 peng2 ze2 ， zai1 tao2 xue2 wu3 ling2 。
-- chi2 liang2 wa1 he2 he2 ， jing4 nuan3 yu3 { meng2 wa3 = yu3 }{ meng2 wa3 = yu3 }。
+- chi2 liang2 wa1 he2 he2 ， jing4 nuan3 yu3  { meng2 wa3  =  yu3 }{ meng2 wa3  =  yu3 }。
 - de2 ju4 chang2 xu1 song4 ， qiao1 men2 zhi4 zi3 ying1 。
 - sao3 ting2 yan2 mo4 ke4 ， guo4 si4 zhe2 tan2 seng1 。
 - jian4 zi3 gu1 huai2 qie4 ， qiong2 tu2 bai3 lü4 zheng1 。

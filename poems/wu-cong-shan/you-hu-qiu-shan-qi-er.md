@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu-shan-qi-er
 author: 吳從善
 authorPinyin: wu2 cong2 shan4
 authorSlug: wu-cong-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

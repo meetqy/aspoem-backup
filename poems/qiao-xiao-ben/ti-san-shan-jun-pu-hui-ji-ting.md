@@ -6,10 +6,10 @@ titleSlug: ti-san-shan-jun-pu-hui-ji-ting
 author: 喬孝本
 authorPinyin: qiao2 xiao4 ben3
 authorSlug: qiao-xiao-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

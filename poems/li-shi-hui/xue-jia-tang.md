@@ -6,10 +6,10 @@ titleSlug: xue-jia-tang
 author: 李士會
 authorPinyin: li3 shi4 hui4
 authorSlug: li-shi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

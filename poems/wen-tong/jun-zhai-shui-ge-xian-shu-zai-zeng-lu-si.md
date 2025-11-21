@@ -1,14 +1,14 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-zai-zeng-lu-si
-title: 郡齋水閣閑書・再贈鷺鷥
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・zai4 zeng4 lu4 si1
+title: 郡齋水閣閑書 再贈鷺鷥
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   zai4 zeng4 lu4 si1
 titleSlug: jun-zhai-shui-ge-xian-shu-zai-zeng-lu-si
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

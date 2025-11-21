@@ -6,10 +6,10 @@ titleSlug: xun-yang-bai-mu-dan-qi-er
 author: 陳讜
 authorPinyin: chen2 dang3
 authorSlug: chen-dang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

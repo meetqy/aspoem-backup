@@ -6,10 +6,10 @@ titleSlug: qing-ming-you-yu-tang-zhuang
 author: 釋朋來
 authorPinyin: shi4 peng2 lai2
 authorSlug: shi-peng-lai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-yu-gan-xian-gan-yue-ting
 author: 李孝先
 authorPinyin: li3 xiao4 xian1
 authorSlug: li-xiao-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

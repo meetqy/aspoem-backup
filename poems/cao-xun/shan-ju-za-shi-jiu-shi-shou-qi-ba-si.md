@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 台蕈甘擅名，油葱芼枯腊。
-- 及居台山下，生致出巖隙。
-- 丁頭形磷磷，雞股香羃羃。
-- 清對雲水客，葷素得共食。
+- 山色侵衣冷，異氣作心賞。
+- 嶺月聞鳳笙，松風吹鶴氅。
+- 碧池縐澄綠，羣山發清響。
+- 以此助蕭閑，欣然同擊壤。
 
 ## 拼音
 
-- tai2 xun4 gan1 shan4 ming2 ， you2 cong1 mao4 ku1 la4 。
-- ji2 ju1 tai2 shan1 xia4 ， sheng1 zhi4 chu1 yan2 xi4 。
-- ding1 tou2 xing2 lin2 lin2 ， ji1 gu3 xiang1 mi4 mi4 。
-- qing1 dui4 yun2 shui3 ke4 ， hun1 su4 de2 gong4 shi2 。
+- shan1 se4 qin1 yi1 leng3 ， yi4 qi4 zuo4 xin1 shang3 。
+- ling3 yue4 wen2 feng4 sheng1 ， song1 feng1 chui1 he4 chang3 。
+- bi4 chi2 zhou4 cheng2 lü4 ， qun2 shan1 fa1 qing1 xiang3 。
+- yi3 ci3 zhu4 xiao1 xian2 ， xin1 ran2 tong2 ji1 rang3 。
 
 ## 注释
 

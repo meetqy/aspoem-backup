@@ -6,25 +6,21 @@ titleSlug: chu-dong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鉏犂滿野及冬耕，時聽兒童叱犢聲。
-- 逐客固宜安散地，閑民何幸樂昇平。
-- 雪花漫漫蕎將熟，綠葉離離薺可烹。
-- 飯飽身閑書有課，西窗来趁夕陽明。
+- 初冬常憶宴梁州，百炬如椽滿畫樓。
+- 三十七年猶未死，茅簷霜冷一燈幽。
 
 ## 拼音
 
-- chu2 li2 man3 ye3 ji2 dong1 geng1 ， shi2 ting1 er2 tong2 chi4 du2 sheng1 。
-- zhu2 ke4 gu4 yi2 an1 san4 di4 ， xian2 min2 he2 xing4 le4 sheng1 ping2 。
-- xue3 hua1 man4 man4 qiao2 jiang1 shu2 ， lü4 ye4 li2 li2 ji4 ke3 peng1 。
-- fan4 bao3 shen1 xian2 shu1 you3 ke4 ， xi1 chuang1 lai2 chen4 xi1 yang2 ming2 。
+- chu1 dong1 chang2 yi4 yan4 liang2 zhou1 ， bai3 ju4 ru2 chuan2 man3 hua4 lou2 。
+- san1 shi2 qi1 nian2 you2 wei4 si3 ， mao2 yan2 shuang1 leng3 yi4 deng1 you1 。
 
 ## 注释
 

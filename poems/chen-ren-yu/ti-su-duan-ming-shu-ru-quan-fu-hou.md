@@ -6,10 +6,10 @@ titleSlug: ti-su-duan-ming-shu-ru-quan-fu-hou
 author: 陳仁玉
 authorPinyin: chen2 ren2 yu4
 authorSlug: chen-ren-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

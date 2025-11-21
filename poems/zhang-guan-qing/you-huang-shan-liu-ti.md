@@ -6,10 +6,10 @@ titleSlug: you-huang-shan-liu-ti
 author: 張冠卿
 authorPinyin: zhang1 guan1 qing1
 authorSlug: zhang-guan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

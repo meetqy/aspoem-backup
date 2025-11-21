@@ -6,21 +6,21 @@ titleSlug: an-fen-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 安分身無辱，知幾心自閑。
-- 雖居人世上，却是出人間。
+- 輕得易失，多謀少成。
+- 德無盡利，善無近名。
 
 ## 拼音
 
-- an1 fen4 shen1 wu2 ru3 ， zhi1 ji1 xin1 zi4 xian2 。
-- sui1 ju1 ren2 shi4 shang4 ， que4 shi4 chu1 ren2 jian4 。
+- qing1 de2 yi4 shi1 ， duo1 mou2 shao3 cheng2 。
+- de2 wu2 jin4 li4 ， shan4 wu2 jin4 ming2 。
 
 ## 注释
 

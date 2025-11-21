@@ -6,10 +6,10 @@ titleSlug: guo-zhou-jing-xuan-bie-shu
 author: 鄭藹
 authorPinyin: zheng4 ai3
 authorSlug: zheng-ai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

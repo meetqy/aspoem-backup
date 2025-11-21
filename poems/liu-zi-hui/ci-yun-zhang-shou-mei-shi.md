@@ -6,25 +6,25 @@ titleSlug: ci-yun-zhang-shou-mei-shi
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 破雪梅初動，南枝更北枝。
-- 傍牆應折盡，背日較開遲。
-- 曉角驚殘夢，春愁占兩眉。
-- 狂風將落蕊，故入畫樓吹。
+- 草棘蕭蕭野岸隈，暗香消息已傳梅。
+- 雪欺籬落遥難認，暖入枝條併欲開。
+- 愁向天涯今度見，老隨春色暗中來。
+- 似聞詩社多何遜，盍試招邀共一杯。
 
 ## 拼音
 
-- po4 xue3 mei2 chu1 dong4 ， nan2 zhi1 geng4 bei3 zhi1 。
-- bang4 qiang2 ying1 zhe2 jin4 ， bei4 ri4 jiao4 kai1 chi2 。
-- xiao3 jiao3 jing1 can2 meng4 ， chun1 chou2 zhan4 liang3 mei2 。
-- kuang2 feng1 jiang1 luo4 rui3 ， gu4 ru4 hua4 lou2 chui1 。
+- cao3 ji2 xiao1 xiao1 ye3 an4 wei1 ， an4 xiang1 xiao1 xi0 yi3 chuan2 mei2 。
+- xue3 qi1 li2 luo4 yao2 nan2 ren4 ， nuan3 ru4 zhi1 tiao2 bing4 yu4 kai1 。
+- chou2 xiang4 tian1 ya2 jin1 du4 jian4 ， lao3 sui2 chun1 se4 an4 zhong1 lai2 。
+- si4 wen2 shi1 she4 duo1 he2 xun4 ， he2 shi4 zhao1 yao1 gong4 yi4 bei1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ju
 author: 張闡
 authorPinyin: zhang1 chan3
 authorSlug: zhang-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

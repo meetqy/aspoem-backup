@@ -6,10 +6,10 @@ titleSlug: pei-fan-ming-fu-yu-zhu-tong-guan-yin-xin-ting-shi-xi-yi-wan-er-bang-z
 author: 林亦之
 authorPinyin: lin2 yi4 zhi1
 authorSlug: lin-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

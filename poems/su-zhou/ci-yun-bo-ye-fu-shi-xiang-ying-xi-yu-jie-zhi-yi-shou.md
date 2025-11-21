@@ -6,9 +6,9 @@ titleSlug: ci-yun-bo-ye-fu-shi-xiang-ying-xi-yu-jie-zhi-yi-shou
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

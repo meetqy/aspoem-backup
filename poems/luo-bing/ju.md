@@ -6,10 +6,10 @@ titleSlug: ju
 author: 羅丙
 authorPinyin: luo2 bing3
 authorSlug: luo-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

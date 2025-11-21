@@ -6,25 +6,21 @@ titleSlug: ye-zuo
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東郭新雨餘，日入凉氣佳。
-- 長風吹天維，坐見參斗斜。
-- 默默羣動息，寒螿先秋譁。
-- 清談互絕倒，豈復憂過差。
+- 且喜屋無穿隙雪，未愁漏盡滿靴霜。
+- 紙幃布被從牢落，頼有希牙齒頰香。
 
 ## 拼音
 
-- dong1 guo1 xin1 yu3 yu2 ， ri4 ru4 liang2 qi4 jia1 。
-- chang2 feng1 chui1 tian1 wei2 ， zuo4 jian4 can1 dou4 xie2 。
-- mo4 mo4 qun2 dong4 xi1 ， han2 jiang1 xian1 qiu1 hua2 。
-- qing1 tan2 hu4 jue2 dao3 ， qi3 fu4 you1 guo4 cha4 。
+- qie3 xi3 wu1 wu2 chuan1 xi4 xue3 ， wei4 chou2 lou4 jin4 man3 xue1 shuang1 。
+- zhi3 wei2 bu4 bei4 cong2 lao2 luo4 ， lai4 you3 xi1 ya2 chi3 jia2 xiang1 。
 
 ## 注释
 

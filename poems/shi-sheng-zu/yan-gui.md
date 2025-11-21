@@ -6,10 +6,10 @@ titleSlug: yan-gui
 author: 史繩祖
 authorPinyin: shi3 sheng2 zu3
 authorSlug: shi-sheng-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

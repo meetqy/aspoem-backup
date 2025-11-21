@@ -1,26 +1,26 @@
 ---
 id: wang-bai-ti-ze-weng-xiao-juan-qi-yi
-title: 題澤翁小卷  其一
-titlePinyin: ti2 ze2 weng1 xiao3 juan4     qi2 yi1
+title: 題澤翁小卷  其一○
+titlePinyin: ti2 ze2 weng1 xiao3 juan4     qi2 yi1 ○
 titleSlug: ti-ze-weng-xiao-juan-qi-yi
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠陰最深處，樓閣出林杪。
-- 江闊野橋間，目斷行人少。
+- 到岸未爲了，行行萬里塗。
+- 舉頭岐路惑，岩畔遇樵夫。
 
 ## 拼音
 
-- lü4 yin1 zui4 shen1 chu3 ， lou2 ge2 chu1 lin2 miao3 。
-- jiang1 kuo4 ye3 qiao2 jian4 ， mu4 duan4 xing2 ren2 shao3 。
+- dao4 an4 wei4 wei2 le0 ， hang2 hang2 wan4 li3 tu2 。
+- ju3 tou2 qi2 lu4 huo4 ， yan2 pan4 yu4 qiao2 fu1 。
 
 ## 注释
 

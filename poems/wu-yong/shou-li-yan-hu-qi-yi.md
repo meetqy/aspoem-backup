@@ -6,25 +6,25 @@ titleSlug: shou-li-yan-hu-qi-yi
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 間氣生賢哲，斯文擅正宗。
-- 咮鳴直是鳳，時見恍猶龍。
-- 信史傳緗簡，元勳在鼎鐘。
-- 惟存霜後節，景仰彼高松。
+- 當年指李記生辰，柱史疑爲法報身。
+- 魚鳥泳飛南閣曉，風花經緯石林春。
+- 手繙萬軸談無底，胸著千年汲愈新。
+- 試看喬松霜雪後，凜然一節照時人。
 
 ## 拼音
 
-- jian4 qi4 sheng1 xian2 zhe2 ， si1 wen2 shan4 zheng4 zong1 。
-- zhou4 ming2 zhi2 shi4 feng4 ， shi2 jian4 huang3 you2 long2 。
-- xin4 shi3 chuan2 xiang1 jian3 ， yuan2 xun1 zai4 ding3 zhong1 。
-- wei2 cun2 shuang1 hou4 jie2 ， jing3 yang3 bi3 gao1 song1 。
+- dang1 nian2 zhi3 li3 ji4 sheng1 chen2 ， zhu4 shi3 yi2 wei2 fa3 bao4 shen1 。
+- yu2 niao3 yong3 fei1 nan2 ge2 xiao3 ， feng1 hua1 jing1 wei3 shi2 lin2 chun1 。
+- shou3 fan1 wan4 zhou2 tan2 wu2 di3 ， xiong1 zhu4 qian1 nian2 ji2 yu4 xin1 。
+- shi4 kan4 qiao2 song1 shuang1 xue3 hou4 ， lin3 ran2 yi4 jie2 zhao4 shi2 ren2 。
 
 ## 注释
 

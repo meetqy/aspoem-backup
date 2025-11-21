@@ -6,10 +6,10 @@ titleSlug: du-yi-chun-ping-xiang-er-yi-dai-fu-zheng-shi-zuo-shi-yi-zhang
 author: 朱景陽
 authorPinyin: zhu1 jing3 yang2
 authorSlug: zhu-jing-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

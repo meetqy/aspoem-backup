@@ -6,25 +6,25 @@ titleSlug: wan-si
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落日下平蕪，回照東湖尾。
-- 牛從何處歸，相隨渡湖水。
-- 幽人倚欄意，得月猶未已。
-- 白鷺知何爲，欲下還復起。
+- 灘沙露尾江水乾，江洪束峽江流湍。
+- 千山落木風轉急，萬里飛鴻天更寒。
+- 暮雲政擁蒼玉玦，落日忽下丹砂盤。
+- 他鄉久客去未得，悠然東望心悲酸。
 
 ## 拼音
 
-- luo4 ri4 xia4 ping2 wu2 ， hui2 zhao4 dong1 hu2 wei3 。
-- niu2 cong2 he2 chu3 gui1 ， xiang1 sui2 du4 hu2 shui3 。
-- you1 ren2 yi3 lan2 yi4 ， de2 yue4 you2 wei4 yi3 。
-- bai2 lu4 zhi1 he2 wei2 ， yu4 xia4 huan2 fu4 qi3 。
+- tan1 sha1 lu4 wei3 jiang1 shui3 qian2 ， jiang1 hong2 shu4 xia2 jiang1 liu2 tuan1 。
+- qian1 shan1 luo4 mu4 feng1 zhuan3 ji2 ， wan4 li3 fei1 hong2 tian1 geng4 han2 。
+- mu4 yun2 zheng4 yong1 cang1 yu4 jue2 ， luo4 ri4 hu1 xia4 dan1 sha1 pan2 。
+- ta1 xiang1 jiu3 ke4 qu4 wei4 de2 ， you1 ran2 dong1 wang4 xin1 bei1 suan1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: he-lin-si-zhu-yuan
 author: 朱省齋
 authorPinyin: zhu1 sheng3 zhai1
 authorSlug: zhu-sheng-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

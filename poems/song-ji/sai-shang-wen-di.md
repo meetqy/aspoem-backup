@@ -9,17 +9,17 @@ authorSlug: song-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 胡兒吹笛戍樓間，樓上蕭條海月閑。
+- 雪淨遥天牧馬還，月明羌笛戍樓閑。
 - 借問梅花何處落，風吹一夜滿關山。
 
 ## 拼音
 
-- hu2 er2 chui1 di2 shu4 lou2 jian4 ， lou2 shang4 xiao1 tiao2 hai3 yue4 xian2 。
+- xue3 jing4 yao2 tian1 mu4 ma3 huan2 ， yue4 ming2 qiang1 di2 shu4 lou2 xian2 。
 - jie4 wen4 mei2 hua1 he2 chu3 luo4 ， feng1 chui1 yi2 ye4 man3 guan1 shan1 。
 
 ## 注释

@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-cao-si-xiao-hong-cui-ting-qi-yi
 author: 劉士季
 authorPinyin: liu2 shi4 ji4
 authorSlug: liu-shi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

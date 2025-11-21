@@ -6,10 +6,10 @@ titleSlug: wan-xu-heng
 author: 李伯玉
 authorPinyin: li3 bo2 yu4
 authorSlug: li-bo-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

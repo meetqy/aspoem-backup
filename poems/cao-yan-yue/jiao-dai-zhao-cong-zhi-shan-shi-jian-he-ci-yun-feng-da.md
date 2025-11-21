@@ -6,10 +6,10 @@ titleSlug: jiao-dai-zhao-cong-zhi-shan-shi-jian-he-ci-yun-feng-da
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

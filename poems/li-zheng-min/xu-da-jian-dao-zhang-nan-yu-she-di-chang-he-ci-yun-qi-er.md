@@ -6,10 +6,10 @@ titleSlug: xu-da-jian-dao-zhang-nan-yu-she-di-chang-he-ci-yun-qi-er
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

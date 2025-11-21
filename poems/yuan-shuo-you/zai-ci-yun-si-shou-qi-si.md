@@ -6,21 +6,21 @@ titleSlug: zai-ci-yun-si-shou-qi-si
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山色陰晴遠更青，誰教睥睨枕巖扃。
-- 詩翁意欲移千步，安得朱符祝巨靈。
+- 詩愁磨盡鬢邊青，玄鑰無施閉理扃。
+- 牛渚錦官祠廟古，瓣香儻格在天靈。
 
 ## 拼音
 
-- shan1 se4 yin1 qing2 yuan3 geng4 qing1 ， shui2 jiao4 pi4 ni4 zhen3 yan2 jiong1 。
-- shi1 weng1 yi4 yu4 yi2 qian1 bu4 ， an1 de2 zhu1 fu2 zhu4 ju4 ling2 。
+- shi1 chou2 mo2 jin4 bin4 bian1 qing1 ， xuan2 yue4 wu2 shi1 bi4 li3 jiong1 。
+- niu2 zhu3 jin3 guan1 ci2 miao4 gu3 ， ban4 xiang1 tang3 ge2 zai4 tian1 ling2 。
 
 ## 注释
 

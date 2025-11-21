@@ -1,26 +1,26 @@
 ---
 id: shi-hui-hui-ji-song-si-shi-yi-shou-qi-si
-title: 偈頌四十一首  其四
-titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 si4
+title: 偈頌四十一首  其四○
+titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 si4 ○
 titleSlug: ji-song-si-shi-yi-shou-qi-si
 author: 釋慧暉
 authorPinyin: shi4 hui4 hui1
 authorSlug: shi-hui-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 竺土之大仙，今日告涅槃。
-- 鶴林之米子，當下得枯偏。
+- 今宵分歲限陰陽，賓主交和曾不藏。
+- 寒雪苦辛霜後路，明朝明旭露春芳。
 
 ## 拼音
 
-- zhu2 tu3 zhi1 da4 xian1 ， jin1 ri4 gao4 nie4 pan2 。
-- he4 lin2 zhi1 mi3 zi3 ， dang1 xia4 de2 ku1 pian1 。
+- jin1 xiao1 fen1 sui4 xian4 yin1 yang2 ， bin1 zhu3 jiao1 he2 ceng2 bu4 cang2 。
+- han2 xue3 ku3 xin1 shuang1 hou4 lu4 ， ming2 chao2 ming2 xu4 lu4 chun1 fang1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: shu-yi-zi-san-gui-wu-tong-fu-zhu-an-li-zi-zhi-ji-er-shou-qi-er
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

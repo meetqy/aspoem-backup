@@ -6,25 +6,21 @@ titleSlug: ji-cheng-cang-zhou
 author: 趙汝騰
 authorPinyin: zhao4 ru3 teng2
 authorSlug: zhao-ru-teng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山間藜杖看初春，忽報滄洲除命新。
-- 今日昌黎司憲部，幾年陸贄任詞臣。
-- 扶持世道豈無策，宗主時賢今有人。
-- 老懶貴遊書盡絕，一詩隃寄霅江濱。
+- 身是金華舊使君，聞公新渥倍懽忻。
+- 朱轓暫爲東萊起，收拾乾淳未墜文。
 
 ## 拼音
 
-- shan1 jian4 li2 zhang4 kan4 chu1 chun1 ， hu1 bao4 cang1 zhou1 chu2 ming4 xin1 。
-- jin1 ri4 chang1 li2 si1 xian4 bu4 ， ji1 nian2 lu4 zhi4 ren4 ci2 chen2 。
-- fu2 chi2 shi4 dao4 qi3 wu2 ce4 ， zong1 zhu3 shi2 xian2 jin1 you3 ren2 。
-- lao3 lan3 gui4 you2 shu1 jin4 jue2 ， yi4 shi1 yu2 ji4 zha4 jiang1 bin1 。
+- shen1 shi4 jin1 hua2 jiu4 shi3 jun1 ， wen2 gong1 xin1 wo4 bei4 huan1 xin1 。
+- zhu1 fan1 zan4 wei2 dong1 lai2 qi3 ， shou1 shi0 qian2 chun2 wei4 zhui4 wen2 。
 
 ## 注释
 

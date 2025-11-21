@@ -6,29 +6,25 @@ titleSlug: you-yong-qian-yun
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道人息以踵，氣馬自調伏。
-- 神爐造化馳，不畏寒暑酷。
-- 雖同一世塵，超然立於獨。
-- 飛泉上崑山，赫日升暘谷。
-- 我今涉津涯，宴坐成休復。
-- 不材終天年，庶比山中木。
+- 春事關心曲，無人晝款扉。
+- 鶯猶求友囀，燕亦認巢歸。
+- 物色濃如酒，風光駛若飛。
+- 幽齋誰與伴，窗外柳依依。
 
 ## 拼音
 
-- dao4 ren2 xi1 yi3 zhong3 ， qi4 ma3 zi4 diao4 fu2 。
-- shen2 lu2 zao4 hua4 chi2 ， bu2 wei4 han2 shu3 ku4 。
-- sui1 tong2 yi2 shi4 chen2 ， chao1 ran2 li4 wu1 du2 。
-- fei1 quan2 shang4 kun1 shan1 ， he4 ri4 sheng1 yang2 gu3 。
-- wo3 jin1 she4 jin1 ya2 ， yan4 zuo4 cheng2 xiu1 fu4 。
-- bu4 cai2 zhong1 tian1 nian2 ， shu4 bi3 shan1 zhong1 mu4 。
+- chun1 shi4 guan1 xin1 qu3 ， wu2 ren2 zhou4 kuan3 fei1 。
+- ying1 you2 qiu2 you3 zhuan4 ， yan4 yi4 ren4 chao2 gui1 。
+- wu4 se4 nong2 ru2 jiu3 ， feng1 guang1 shi3 ruo4 fei1 。
+- you1 zhai1 shui2 yu3 ban4 ， chuang1 wai4 liu3 yi1 yi1 。
 
 ## 注释
 

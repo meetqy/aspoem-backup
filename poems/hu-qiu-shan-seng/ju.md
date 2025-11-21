@@ -6,10 +6,10 @@ titleSlug: ju
 author: 虎丘山僧
 authorPinyin: hu3 qiu1 shan1 seng1
 authorSlug: hu-qiu-shan-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ku-mei-zhen-niang-jie-lie
 author: 鄭君老
 authorPinyin: zheng4 jun1 lao3
 authorSlug: zheng-jun-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

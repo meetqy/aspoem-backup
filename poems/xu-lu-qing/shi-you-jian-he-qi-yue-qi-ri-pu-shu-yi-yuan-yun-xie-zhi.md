@@ -6,10 +6,10 @@ titleSlug: shi-you-jian-he-qi-yue-qi-ri-pu-shu-yi-yuan-yun-xie-zhi
 author: 徐鹿卿
 authorPinyin: xu2 lu4 qing1
 authorSlug: xu-lu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

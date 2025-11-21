@@ -6,25 +6,25 @@ titleSlug: xi-shang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 散髮倚胡床，風生水面凉。
-- 單衣縫白紵，雙屨織青芒。
-- 荷葉猶微赤，藤花已半黄。
-- 歸來村路晚，漁火耿蒼茫。
+- 溪上秋來風露清，蕭然浴罷葛衣輕。
+- 看雲舒卷了窮達，見月虧盈知死生。
+- 老去關心惟藥裹，閑中消日付棋枰。
+- 故人書札頻相問，何日芒鞋上赤城。
 
 ## 拼音
 
-- san4 fa4 yi3 hu2 chuang2 ， feng1 sheng1 shui3 mian4 liang2 。
-- dan1 yi1 feng2 bai2 zhu4 ， shuang1 ju4 zhi1 qing1 mang2 。
-- he2 ye4 you2 wei1 chi4 ， teng2 hua1 yi3 ban4 huang2 。
-- gui1 lai2 cun1 lu4 wan3 ， yu2 huo3 geng3 cang1 mang2 。
+- xi1 shang4 qiu1 lai2 feng1 lu4 qing1 ， xiao1 ran2 yu4 ba4 ge3 yi1 qing1 。
+- kan4 yun2 shu1 juan3 le0 qiong2 da2 ， jian4 yue4 kui1 ying2 zhi1 si3 sheng1 。
+- lao3 qu4 guan1 xin1 wei2 yao4 guo3 ， xian2 zhong1 xiao1 ri4 fu4 qi2 ping2 。
+- gu4 ren2 shu1 zha2 bin1 xiang1 wen4 ， he2 ri4 mang2 xie2 shang4 chi4 cheng2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: sun-xi-ji-chu-shi-suo-he-du-yun-di-er-shi-yin-ci-yun-bing-ji-yun-di-y
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: yu-wang-si
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉策烏藤上育王，入山隨處得徜徉。
-- 碑頭龍護先皇字，塔下魚懸外國香。
-- 徧謁禪房嘗苦茗，閑聽社媼說豪光。
-- 山深日短行難盡，僧遣頭陀辦客牀。
+- 精藍遊歷地，景物自情親。
+- 鶴引登山客，僧迎禮塔人。
+- 名花千佛供，喬木萬夫身。
+- 碑刻東坡作，重來爲拂塵。
 
 ## 拼音
 
-- xiao3 ce4 wu1 teng2 shang4 yu4 wang2 ， ru4 shan1 sui2 chu3 de2 chang2 yang2 。
-- bei1 tou2 long2 hu4 xian1 huang2 zi4 ， ta3 xia4 yu2 xuan2 wai4 guo2 xiang1 。
-- bian4 ye4 shan4 fang2 chang2 ku3 ming2 ， xian2 ting1 she4 ao3 shuo1 hao2 guang1 。
-- shan1 shen1 ri4 duan3 xing2 nan2 jin4 ， seng1 qian3 tou2 tuo2 ban4 ke4 chuang2 。
+- jing1 lan2 you2 li4 di4 ， jing3 wu4 zi4 qing2 qin1 。
+- he4 yin3 deng1 shan1 ke4 ， seng1 ying2 li3 ta3 ren2 。
+- ming2 hua1 qian1 fo2 gong4 ， qiao2 mu4 wan4 fu1 shen1 。
+- bei1 ke4 dong1 po1 zuo4 ， zhong4 lai2 wei2 fu2 chen2 。
 
 ## 注释
 

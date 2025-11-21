@@ -6,10 +6,10 @@ titleSlug: shi-er-yue-chu-liu-ri-di-yi-zhen-xie-she-ci-ri-ji-chu-hu-shi-ke-tian-
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

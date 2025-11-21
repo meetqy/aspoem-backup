@@ -6,25 +6,25 @@ titleSlug: qiu-ye
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 城上調秋角，煙間發暝鐘。
-- 風枝搖宿鳥，霜草覆寒蛬。
-- 久負觀書樂，端愁束带恭。
-- 暫因羣吏散，還得遂幽慵。
+- 浮雲一消散，星斗粲長天。
+- 浩露灑翠柏，清香生白蓮。
+- 體涼猶衣葛，耳静已無蟬。
+- 坐久羣動息，秋空唯寂然。
 
 ## 拼音
 
-- cheng2 shang4 diao4 qiu1 jiao3 ， yan1 jian4 fa1 ming2 zhong1 。
-- feng1 zhi1 yao2 su4 niao3 ， shuang1 cao3 fu4 han2 qiong2 。
-- jiu3 fu4 guan1 shu1 le4 ， duan1 chou2 shu4 dai4 gong1 。
-- zan4 yin1 qun2 li4 san4 ， huan2 de2 sui4 you1 yong1 。
+- fu2 yun2 yi4 xiao1 san4 ， xing1 dou3 can4 chang2 tian1 。
+- hao4 lu4 sa3 cui4 bai3 ， qing1 xiang1 sheng1 bai2 lian2 。
+- ti3 liang2 you2 yi1 ge3 ， er3 jing4 yi3 wu2 chan2 。
+- zuo4 jiu3 qun2 dong4 xi1 ， qiu1 kong1 wei2 ji4 ran2 。
 
 ## 注释
 

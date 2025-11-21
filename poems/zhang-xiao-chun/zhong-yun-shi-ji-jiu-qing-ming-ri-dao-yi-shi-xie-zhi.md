@@ -6,10 +6,10 @@ titleSlug: zhong-yun-shi-ji-jiu-qing-ming-ri-dao-yi-shi-xie-zhi
 author: 張孝純
 authorPinyin: zhang1 xiao4 chun2
 authorSlug: zhang-xiao-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

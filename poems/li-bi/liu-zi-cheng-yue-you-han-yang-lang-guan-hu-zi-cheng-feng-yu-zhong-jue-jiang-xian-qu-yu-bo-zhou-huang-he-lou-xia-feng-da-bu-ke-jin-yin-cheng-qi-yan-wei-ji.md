@@ -6,10 +6,10 @@ titleSlug: liu-zi-cheng-yue-you-han-yang-lang-guan-hu-zi-cheng-feng-yu-zhong-jue
 author: 李壁
 authorPinyin: li3 bi4
 authorSlug: li-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

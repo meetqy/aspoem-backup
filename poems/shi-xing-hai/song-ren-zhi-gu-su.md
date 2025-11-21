@@ -6,25 +6,25 @@ titleSlug: song-ren-zhi-gu-su
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 片帆歸去百花洲，今日因君憶舊遊。
-- 澤國風烟多好景，洞庭林壑最宜秋。
-- 垂虹未霽難收影，頑石如今不點頭。
-- 記得一番吟最苦，翻然惆悵爲吳鈎。
+- 楓落吳江歸興濃，不知何日定相逢。
+- 山中獨對三生石，城外誰聽半夜鐘。
+- 金井露凉鳴蟋蟀，石池霜早歇芙蓉。
+- 新詩別後須相寄，只在雲深第一峰。
 
 ## 拼音
 
-- pian4 fan1 gui1 qu4 bai3 hua1 zhou1 ， jin1 ri4 yin1 jun1 yi4 jiu4 you2 。
-- ze2 guo2 feng1 yan1 duo1 hao3 jing3 ， dong4 ting2 lin2 he4 zui4 yi2 qiu1 。
-- chui2 hong2 wei4 ji4 nan2 shou1 ying3 ， wan2 shi2 ru2 jin1 bu4 dian3 tou2 。
-- ji4 de2 yi4 fan1 yin2 zui4 ku3 ， fan1 ran2 chou2 chang4 wei2 wu2 gou1 。
+- feng1 luo4 wu2 jiang1 gui1 xing1 nong2 ， bu4 zhi1 he2 ri4 ding4 xiang1 feng2 。
+- shan1 zhong1 du2 dui4 san1 sheng1 shi2 ， cheng2 wai4 shui2 ting1 ban4 ye4 zhong1 。
+- jin1 jing3 lu4 liang2 ming2 xi1 shuai4 ， shi2 chi2 shuang1 zao3 xie1 fu2 rong2 。
+- xin1 shi1 bie2 hou4 xu1 xiang1 ji4 ， zhi1 zai4 yun2 shen1 di4 yi1 feng1 。
 
 ## 注释
 

@@ -3,28 +3,24 @@ id: wu-ji-qiu-xing
 title: 秋興
 titlePinyin: qiu1 xing1
 titleSlug: qiu-xing
-author: 吳濟
-authorPinyin: wu2 ji4
+author: 吳激
+authorPinyin: wu2 ji1
 authorSlug: wu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傷秋愁不斷，鄰杵已鳴霜。
-- 寶扇鸞收影，篘蟻带香疏。
-- 花停懶蝶細，草庇寒螿蟲。
-- 落葉無人掃，庭空下夕陽。
+- 後園雜樹入雲高，萬里長風夜怒號。
+- 憶向錢塘江上寺，松窗竹閣瞰秋濤。
 
 ## 拼音
 
-- shang1 qiu1 chou2 bu2 duan4 ， lin2 chu3 yi3 ming2 shuang1 。
-- bao3 shan4 luan2 shou1 ying3 ， chou1 yi3 dai4 xiang1 shu1 。
-- hua1 ting2 lan3 die2 xi4 ， cao3 bi4 han2 jiang1 chong2 。
-- luo4 ye4 wu2 ren2 sao3 ， ting2 kong1 xia4 xi1 yang2 。
+- hou4 yuan2 za2 shu4 ru4 yun2 gao1 ， wan4 li3 chang2 feng1 ye4 nu4 hao4 。
+- yi4 xiang4 qian2 tang2 jiang1 shang4 si4 ， song1 chuang1 zhu2 ge2 kan4 qiu1 tao1 。
 
 ## 注释
 

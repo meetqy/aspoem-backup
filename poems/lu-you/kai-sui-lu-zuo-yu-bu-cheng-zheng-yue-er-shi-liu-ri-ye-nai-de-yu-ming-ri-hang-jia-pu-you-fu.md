@@ -6,10 +6,10 @@ titleSlug: kai-sui-lu-zuo-yu-bu-cheng-zheng-yue-er-shi-liu-ri-ye-nai-de-yu-ming-
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

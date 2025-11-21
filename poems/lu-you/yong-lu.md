@@ -6,25 +6,25 @@ titleSlug: yong-lu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 睡少人人笑老生，擁爐孤坐欲三更。
-- 月移西去失花影，風自北来傳漏聲。
-- 鳬鼎煎茶非俗物，雁燈開卷愜幽情。
-- 興来自喜猶彊健，一紙清詩取次成。
+- 急雨狂風暮不收，燎爐薪暖復何憂。
+- 如傾瀲灧鵝黄酒，似擁蒙茸狐白裘。
+- 大澤羈鴻來萬里，高城傳漏過三籌。
+- 明朝會看稽山雪，莫爲衝寒怯上樓。
 
 ## 拼音
 
-- shui4 shao3 ren2 ren2 xiao4 lao3 sheng1 ， yong1 lu2 gu1 zuo4 yu4 san1 geng1 。
-- yue4 yi2 xi1 qu4 shi1 hua1 ying3 ， feng1 zi4 bei3 lai2 chuan2 lou4 sheng1 。
-- fu2 ding3 jian1 cha2 fei1 su2 wu4 ， yan4 deng1 kai1 juan4 qie4 you1 qing2 。
-- xing1 lai2 zi4 xi3 you2 qiang2 jian4 ， yi4 zhi3 qing1 shi1 qu3 ci4 cheng2 。
+- ji2 yu3 kuang2 feng1 mu4 bu4 shou1 ， liao2 lu2 xin1 nuan3 fu4 he2 you1 。
+- ru2 qing1 lian4 yan4 e2 huang2 jiu3 ， si4 yong1 meng2 rong2 hu2 bai2 qiu2 。
+- da4 ze2 ji1 hong2 lai2 wan4 li3 ， gao1 cheng2 chuan2 lou4 guo4 san1 chou2 。
+- ming2 chao2 hui4 kan4 ji1 shan1 xue3 ， mo4 wei2 chong1 han2 qie4 shang4 lou2 。
 
 ## 注释
 

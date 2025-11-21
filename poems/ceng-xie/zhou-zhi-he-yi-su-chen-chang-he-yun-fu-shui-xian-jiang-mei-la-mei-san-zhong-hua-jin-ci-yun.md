@@ -6,10 +6,10 @@ titleSlug: zhou-zhi-he-yi-su-chen-chang-he-yun-fu-shui-xian-jiang-mei-la-mei-san
 author: 曾協
 authorPinyin: ceng2 xie2
 authorSlug: ceng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

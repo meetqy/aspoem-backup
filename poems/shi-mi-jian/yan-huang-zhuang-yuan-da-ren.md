@@ -6,10 +6,10 @@ titleSlug: yan-huang-zhuang-yuan-da-ren
 author: 史彌堅
 authorPinyin: shi3 mi2 jian1
 authorSlug: shi-mi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

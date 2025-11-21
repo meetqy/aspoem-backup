@@ -6,21 +6,21 @@ titleSlug: zao-qi
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 市廛無計避風埃，反閉柴門懶自開。
-- 春夢恰同簷雨斷，俗氛已逐鳥聲來。
+- 三年飽識溪山面，未省煙雲際曉生。
+- 閣迥樓長正相映，桃源圖上有人行。
 
 ## 拼音
 
-- shi4 chan2 wu2 ji4 bi4 feng1 ai1 ， fan3 bi4 chai2 men2 lan3 zi4 kai1 。
-- chun1 meng4 qia4 tong2 yan2 yu3 duan4 ， su2 fen1 yi3 zhu2 niao3 sheng1 lai2 。
+- san1 nian2 bao3 shi2 xi1 shan1 mian4 ， wei4 sheng3 yan1 yun2 ji4 xiao3 sheng1 。
+- ge2 jiong3 lou2 chang2 zheng4 xiang1 ying4 ， tao2 yuan2 tu2 shang4 you3 ren2 hang2 。
 
 ## 注释
 

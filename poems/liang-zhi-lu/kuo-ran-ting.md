@@ -6,10 +6,10 @@ titleSlug: kuo-ran-ting
 author: 梁知錄
 authorPinyin: liang2 zhi1 lu4
 authorSlug: liang-zhi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

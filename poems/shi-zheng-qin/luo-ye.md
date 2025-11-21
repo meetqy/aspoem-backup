@@ -6,10 +6,10 @@ titleSlug: luo-ye
 author: 釋正勤
 authorPinyin: shi4 zheng4 qin2
 authorSlug: shi-zheng-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

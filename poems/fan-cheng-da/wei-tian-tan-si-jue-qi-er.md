@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-wei-tian-tan-si-jue-qi-er
-title: 圍田歎四絕・其二
-titlePinyin: wei2 tian2 tan4 si4 jue2・qi2 er4
+title: 圍田歎四絕  其二
+titlePinyin: wei2 tian2 tan4 si4 jue2     qi2 er4
 titleSlug: wei-tian-tan-si-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

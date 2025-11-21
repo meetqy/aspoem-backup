@@ -6,21 +6,21 @@ titleSlug: ci-yun-yu-tui-fu-chu-xi-qi-jue-ju-qi-liu
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 又嘆崇寧宣政年，無端亡虜誤開邊。
-- 誰能爲我懲前轍，早挈江山入舜甄。
+- 人道渠陽爾嶮囏，嶮囏在彼我何關。
+- 却從楚澤寬平後，彫盡從前鏡裏顔。
 
 ## 拼音
 
-- you4 tan4 chong2 ning2 xuan1 zheng4 nian2 ， wu2 duan1 wang2 lu3 wu4 kai1 bian1 。
-- shui2 neng2 wei2 wo3 cheng2 qian2 zhe2 ， zao3 qie4 jiang1 shan1 ru4 shun4 zhen1 。
+- ren2 dao4 qu2 yang2 er3 xian3 jian1 ， xian3 jian1 zai4 bi3 wo3 he2 guan1 。
+- que4 cong2 chu3 ze2 kuan1 ping2 hou4 ， diao1 jin4 cong2 qian2 jing4 li3 yan2 。
 
 ## 注释
 

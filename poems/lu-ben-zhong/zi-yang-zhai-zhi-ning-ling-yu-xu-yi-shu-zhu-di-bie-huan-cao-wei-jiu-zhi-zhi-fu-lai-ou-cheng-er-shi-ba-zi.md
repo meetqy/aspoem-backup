@@ -6,10 +6,10 @@ titleSlug: zi-yang-zhai-zhi-ning-ling-yu-xu-yi-shu-zhu-di-bie-huan-cao-wei-jiu-z
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xia-ye-zuo-you-li-zuo-cang-yuan-chang-fu-zi-jun-ming-shu-yi-fu-yuan-z
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

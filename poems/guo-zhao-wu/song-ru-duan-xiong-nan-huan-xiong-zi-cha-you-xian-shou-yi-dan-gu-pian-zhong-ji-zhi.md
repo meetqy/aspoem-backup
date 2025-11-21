@@ -6,10 +6,10 @@ titleSlug: song-ru-duan-xiong-nan-huan-xiong-zi-cha-you-xian-shou-yi-dan-gu-pian
 author: 郭昭務
 authorPinyin: guo1 zhao1 wu4
 authorSlug: guo-zhao-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

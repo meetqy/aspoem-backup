@@ -6,10 +6,10 @@ titleSlug: shi-shao-ne-jian-xu-jiang-tun-wei-de-yi-shi-xi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

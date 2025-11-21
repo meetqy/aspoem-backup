@@ -6,10 +6,10 @@ titleSlug: kun-xiang-ke-weng-xian-sheng-xie-wang-ren-you-hu-shan-you-huo-shi-zuo
 author: 豐茝
 authorPinyin: feng1 chai3
 authorSlug: feng-chai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

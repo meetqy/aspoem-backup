@@ -1,24 +1,26 @@
 ---
 id: chen-hu-ju-qi-yi-qi
-title: 句  其一七
-titlePinyin: ju4     qi2 yi1 qi1
+title: 句  其一○七
+titlePinyin: ju4     qi2 yi1 ○ qi1
 titleSlug: ju-qi-yi-qi
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中原一髮天涯夢，元祐孤臣海外歸。
+- 東郊獨行冰玉時，江左諸賢王謝起。
+- 若以比花花或宜，自不矜持花亦恥。
 
 ## 拼音
 
-- zhong1 yuan2 yi2 fa4 tian1 ya2 meng4 ， yuan2 you4 gu1 chen2 hai3 wai4 gui1 。
+- dong1 jiao1 du2 xing2 bing1 yu4 shi2 ， jiang1 zuo3 zhu1 xian2 wang2 xie4 qi3 。
+- ruo4 yi3 bi3 hua1 hua1 huo4 yi2 ， zi4 bu4 jin1 chi2 hua1 yi4 chi3 。
 
 ## 注释
 

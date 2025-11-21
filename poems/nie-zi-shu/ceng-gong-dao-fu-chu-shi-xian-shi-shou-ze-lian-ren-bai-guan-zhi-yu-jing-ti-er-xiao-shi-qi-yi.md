@@ -6,10 +6,10 @@ titleSlug: ceng-gong-dao-fu-chu-shi-xian-shi-shou-ze-lian-ren-bai-guan-zhi-yu-ji
 author: 聶子述
 authorPinyin: nie4 zi3 shu4
 authorSlug: nie-zi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

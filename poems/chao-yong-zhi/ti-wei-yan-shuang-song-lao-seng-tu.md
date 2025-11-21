@@ -6,10 +6,10 @@ titleSlug: ti-wei-yan-shuang-song-lao-seng-tu
 author: 晁詠之
 authorPinyin: chao2 yong3 zhi1
 authorSlug: chao-yong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

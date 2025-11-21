@@ -6,10 +6,10 @@ titleSlug: he-lin-ai-xuan-cheng-shan-guo-qing-tang-yun
 author: 陳士楚
 authorPinyin: chen2 shi4 chu3
 authorSlug: chen-shi-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

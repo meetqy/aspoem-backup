@@ -6,9 +6,9 @@ titleSlug: dao-jun-hou-ji-xi-chuan-cong-di-she-ren-you-si-yan-lang-zhong-qi-dian
 author: 劉兼
 authorPinyin: liu2 jian1
 authorSlug: liu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

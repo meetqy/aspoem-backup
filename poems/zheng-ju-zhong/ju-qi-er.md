@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 鄭居中
 authorPinyin: zheng4 ju1 zhong1
 authorSlug: zheng-ju-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

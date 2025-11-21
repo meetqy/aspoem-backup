@@ -6,10 +6,10 @@ titleSlug: song-fan-cai-shang-ren-gui-tian-tai
 author: 楊侃
 authorPinyin: yang2 kan3
 authorSlug: yang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

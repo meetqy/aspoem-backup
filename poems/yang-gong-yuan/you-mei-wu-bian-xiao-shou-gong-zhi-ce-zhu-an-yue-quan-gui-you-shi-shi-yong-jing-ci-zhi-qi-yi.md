@@ -1,26 +1,26 @@
 ---
 id: yang-gong-yuan-you-mei-wu-bian-xiao-shou-gong-zhi-ce-zhu-an-yue-quan-gui-you-shi-shi-yong-jing-ci-zhi-qi-yi
-title: 友梅吳編校壽宮之側築庵曰全歸有詩十詠敬次之  其一
-titlePinyin: you3 mei2 wu2 bian1 xiao4 shou4 gong1 zhi1 ce4 zhu4 an1 yue1 quan2 gui1 you3 shi1 shi2 yong3 jing4 ci4 zhi1     qi2 yi1
+title: 友梅吳編校壽宮之側築庵曰全歸有詩十詠敬次之  其一○
+titlePinyin: you3 mei2 wu2 bian1 xiao4 shou4 gong1 zhi1 ce4 zhu4 an1 yue1 quan2 gui1 you3 shi1 shi2 yong3 jing4 ci4 zhi1     qi2 yi1 ○
 titleSlug: you-mei-wu-bian-xiao-shou-gong-zhi-ce-zhu-an-yue-quan-gui-you-shi-shi-yong-jing-ci-zhi-qi-yi
 author: 楊公遠
 authorPinyin: yang2 gong1 yuan3
 authorSlug: yang-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 達人謀事豈躊躇，壽域天開不費鉏。
-- 結得庵成無點俗，栽梅蒔竹當幽居。
+- 竹滿長洲蔬滿畦，四時豐富足豚雞。
+- 况君賸有羊腔祿，笑我猶餘幾甕虀。
 
 ## 拼音
 
-- da2 ren2 mou2 shi4 qi3 chou2 chu2 ， shou4 yu4 tian1 kai1 bu2 fei4 chu2 。
-- jie2 de2 an1 cheng2 wu2 dian3 su2 ， zai1 mei2 shi4 zhu2 dang1 you1 ju1 。
+- zhu2 man3 chang2 zhou1 shu1 man3 qi2 ， si4 shi2 feng1 fu4 zu2 tun2 ji1 。
+- kuang4 jun1 sheng4 you3 yang2 qiang1 lu4 ， xiao4 wo3 you2 yu2 ji1 weng4 ji1 。
 
 ## 注释
 

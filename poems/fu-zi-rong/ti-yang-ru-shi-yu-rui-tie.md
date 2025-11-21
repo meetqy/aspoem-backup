@@ -6,10 +6,10 @@ titleSlug: ti-yang-ru-shi-yu-rui-tie
 author: 傅子容
 authorPinyin: fu4 zi3 rong2
 authorSlug: fu-zi-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

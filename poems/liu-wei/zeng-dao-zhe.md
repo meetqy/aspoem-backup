@@ -9,22 +9,22 @@ authorSlug: liu-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 五雲深處有真仙，歲月催多却少年。
-- 入郭不知今世事，賣丹猶覓古時錢。
-- 閑尋白鹿眠瑤草，暗摘紅桃去洞天。
-- 時向人間深夜坐，鬼神長在藥囊邊。
+- 道帔輕裾三島雲，綠髯長占鏡中春。
+- 高風已駕祥鸞馭，浮世休驚野馬塵。
+- 過海獨辭王母面，度關誰識老聃身。
+- 儒生也愛長生術，不見人間大笑人。
 
 ## 拼音
 
-- wu3 yun2 shen1 chu3 you3 zhen1 xian1 ， sui4 yue4 cui1 duo1 que4 shao4 nian2 。
-- ru4 guo1 bu4 zhi1 jin1 shi4 shi4 ， mai4 dan1 you2 mi4 gu3 shi2 qian2 。
-- xian2 xun2 bai2 lu4 mian2 yao2 cao3 ， an4 zhai1 hong2 tao2 qu4 dong4 tian1 。
-- shi2 xiang4 ren2 jian4 shen1 ye4 zuo4 ， gui3 shen2 chang2 zai4 yao4 nang2 bian1 。
+- dao4 pei4 qing1 ju1 san1 dao3 yun2 ， lü4 ran2 chang2 zhan4 jing4 zhong1 chun1 。
+- gao1 feng1 yi3 jia4 xiang2 luan2 yu4 ， fu2 shi4 xiu1 jing1 ye3 ma3 chen2 。
+- guo4 hai3 du2 ci2 wang2 mu3 mian4 ， du4 guan1 shui2 shi2 lao3 dan1 shen1 。
+- ru2 sheng1 ye3 ai4 chang2 sheng1 shu4 ， bu2 jian4 ren2 jian4 da4 xiao4 ren2 。
 
 ## 注释
 

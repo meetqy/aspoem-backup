@@ -9,22 +9,26 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 下浸與高盤，不爲行路難。
-- 是非真險惡，翻覆作峯巒。
-- 漆媿同時黑，朱慙巧處丹。
-- 令人畏相識，欲畫白雲看。
+- 行路難，君好看。
+- 驚波不在黤黮間，小人心裏藏崩湍。
+- 七盤九折寒𡺚崒，翻車倒蓋猶堪出。
+- 未似是非脣舌危，闇中潛毀平人骨。
+- 君不見楚靈均，千古沉冤湘水濱。
+- 又不見李太白，一朝却作江南客。
 
 ## 拼音
 
-- xia4 jin4 yu3 gao1 pan2 ， bu4 wei2 xing2 lu4 nan2 。
-- shi4 fei1 zhen1 xian3 e4 ， fan1 fu4 zuo4 feng1 luan2 。
-- qi1 kui4 tong2 shi2 hei1 ， zhu1 can2 qiao3 chu3 dan1 。
-- ling4 ren2 wei4 xiang1 shi2 ， yu4 hua4 bai2 yun2 kan4 。
+- xing2 lu4 nan2 ， jun1 hao3 kan4 。
+- jing1 bo1 bu2 zai4 yan3 dan4 jian4 ， xiao3 ren2 xin1 li3 cang2 beng1 tuan1 。
+- qi1 pan2 jiu3 zhe2 han2 𡺚 zu2 ， fan1 ju1 dao3 gai4 you2 kan1 chu1 。
+- wei4 si4 shi4 fei1 chun2 she2 wei1 ， an4 zhong1 qian2 hui3 ping2 ren2 gu3 。
+- jun1 bu2 jian4 chu3 ling2 jun1 ， qian1 gu3 chen2 yuan1 xiang1 shui3 bin1 。
+- you4 bu2 jian4 li3 tai4 bai2 ， yi4 zhao1 que4 zuo4 jiang1 nan2 ke4 。
 
 ## 注释
 

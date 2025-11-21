@@ -6,25 +6,25 @@ titleSlug: shan-yuan-wan-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傳杯誰與豁幽悰，霜晚黄花未滿叢。
-- 過雁一聲寒靄外，短籬數掩夕陽中。
-- 易雖病裏猶能讀，詩到愁邊始欲工。
-- 惟有功名真已矣，懶將華髮對青銅。
+- 病骨初輕野興濃，閑扶拄杖夕陽中。
+- 草枯陂澤涓涓水，木落園林淅淅風。
+- 楊子凄凉老天祿，馬周憔悴客新豐。
+- 壯心未與朱顔改，一笑憑高送斷鴻。
 
 ## 拼音
 
-- chuan2 bei1 shui2 yu3 huo1 you1 cong2 ， shuang1 wan3 huang2 hua1 wei4 man3 cong2 。
-- guo4 yan4 yi4 sheng1 han2 ai3 wai4 ， duan3 li2 shu4 yan3 xi1 yang2 zhong1 。
-- yi4 sui1 bing4 li3 you2 neng2 du2 ， shi1 dao4 chou2 bian1 shi3 yu4 gong1 。
-- wei2 you3 gong1 ming2 zhen1 yi3 yi3 ， lan3 jiang1 hua2 fa4 dui4 qing1 tong2 。
+- bing4 gu3 chu1 qing1 ye3 xing1 nong2 ， xian2 fu2 zhu3 zhang4 xi1 yang2 zhong1 。
+- cao3 ku1 bei1 ze2 juan1 juan1 shui3 ， mu4 luo4 yuan2 lin2 xi1 xi1 feng1 。
+- yang2 zi3 qi1 liang2 lao3 tian1 lu4 ， ma3 zhou1 qiao2 cui4 ke4 xin1 feng1 。
+- zhuang4 xin1 wei4 yu3 zhu1 yan2 gai3 ， yi2 xiao4 ping2 gao1 song4 duan4 hong2 。
 
 ## 注释
 

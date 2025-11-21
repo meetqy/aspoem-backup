@@ -6,10 +6,10 @@ titleSlug: song-shi-she-ren-ru-xi-ge-jian-zi-wei-hua-sheng-kai
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

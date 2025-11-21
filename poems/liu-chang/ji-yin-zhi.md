@@ -6,29 +6,25 @@ titleSlug: ji-yin-zhi
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 會短别日長，愁多歡情少。
-- 古來人間世，于道同擾擾。
-- 我髪日已蒼，我顔日已槁。
-- 離憂固如此，四十未應老。
-- 誰能跨浮雲，相與成莽眇。
-- 吾子心莫逆，庶當悟意表。
+- 江漢相思山萬里，君家少室定西東。
+- 年華過去如流水，心事差池似老翁。
+- 一世共爭蝸角上，微生多付酒杯中。
+- 窮途何必多垂涕，吾更冥冥笑阮公。
 
 ## 拼音
 
-- hui4 duan3 bie2 ri4 chang2 ， chou2 duo1 huan1 qing2 shao3 。
-- gu3 lai2 ren2 jian4 shi4 ， yu2 dao4 tong2 rao3 rao3 。
-- wo3 fa4 ri4 yi3 cang1 ， wo3 yan2 ri4 yi3 gao3 。
-- li2 you1 gu4 ru2 ci3 ， si4 shi2 wei4 ying1 lao3 。
-- shui2 neng2 kua4 fu2 yun2 ， xiang1 yu3 cheng2 mang3 miao3 。
-- wu2 zi3 xin1 mo4 ni4 ， shu4 dang1 wu4 yi4 biao3 。
+- jiang1 han4 xiang1 si1 shan1 wan4 li3 ， jun1 jia1 shao3 shi4 ding4 xi1 dong1 。
+- nian2 hua2 guo4 qu4 ru2 liu2 shui3 ， xin1 shi4 cha1 chi2 si4 lao3 weng1 。
+- yi2 shi4 gong4 zheng1 wo1 jiao3 shang4 ， wei1 sheng1 duo1 fu4 jiu3 bei1 zhong1 。
+- qiong2 tu2 he2 bi4 duo1 chui2 ti4 ， wu2 geng4 ming2 ming2 xiao4 ruan3 gong1 。
 
 ## 注释
 

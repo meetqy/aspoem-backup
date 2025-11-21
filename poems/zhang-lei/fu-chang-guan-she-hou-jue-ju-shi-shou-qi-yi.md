@@ -1,26 +1,26 @@
 ---
 id: zhang-lei-fu-chang-guan-she-hou-jue-ju-shi-shou-qi-yi
-title: 福昌官舍後絕句十首  其一
-titlePinyin: fu2 chang1 guan1 she4 hou4 jue2 ju4 shi2 shou3     qi2 yi1
+title: 福昌官舍後絕句十首  其一○
+titlePinyin: fu2 chang1 guan1 she4 hou4 jue2 ju4 shi2 shou3     qi2 yi1 ○
 titleSlug: fu-chang-guan-she-hou-jue-ju-shi-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淮南梅柳想春還，怯見西州歲暮寒。
-- 惟有看山心未厭，晴明終日在闌干。
+- 清明山色到前簷，汩汩溪流聚小潭。
+- 一榻竹窗晴晝睡，依依春夢入江南。
 
 ## 拼音
 
-- huai2 nan2 mei2 liu3 xiang3 chun1 huan2 ， qie4 jian4 xi1 zhou1 sui4 mu4 han2 。
-- wei2 you3 kan4 shan1 xin1 wei4 yan4 ， qing2 ming2 zhong1 ri4 zai4 lan2 gan1 。
+- qing1 ming2 shan1 se4 dao4 qian2 yan2 ， gu3 gu3 xi1 liu2 ju4 xiao3 tan2 。
+- yi2 ta4 zhu2 chuang1 qing2 zhou4 shui4 ， yi1 yi1 chun1 meng4 ru4 jiang1 nan2 。
 
 ## 注释
 

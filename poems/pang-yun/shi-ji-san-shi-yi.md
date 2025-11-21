@@ -9,26 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自恨己身癡，有事無人知。
-- 橫展兩脚睡，至曉不尋思。
-- 諸佛爲我爺，我是世尊兒。
-- 兒今已長大，替父爲導師。
-- 父子同宅住，寸步不相離。
-- 法身無相貌，世人那得知。
+- 有男不肯婚，有女不肯嫁（《景德傳燈錄》卷八錄二句皆無「肯」字）。
+- 父子自團欒（《景德傳燈錄》作「大家團欒頭」），共說無生話。
 
 ## 拼音
 
-- zi4 hen4 ji3 shen1 chi1 ， you3 shi4 wu2 ren2 zhi1 。
-- heng2 zhan3 liang3 jiao3 shui4 ， zhi4 xiao3 bu4 xun2 si1 。
-- zhu1 fo2 wei2 wo3 ye2 ， wo3 shi4 shi4 zun1 er2 。
-- er2 jin1 yi3 chang2 da4 ， ti4 fu4 wei2 dao3 shi1 。
-- fu4 zi3 tong2 zhai2 zhu4 ， cun4 bu4 bu4 xiang1 li2 。
-- fa3 shen1 wu2 xiang4 mao4 ， shi4 ren2 na4 de2 zhi1 。
+- you3 nan2 bu4 ken3 hun1 ， you3 nü3 bu4 ken3 jia4 （《 jing3 de2 chuan2 deng1 lu4 》 juan4 ba1 lu4 er4 ju4 jie1 wu2 「 ken3 」 zi4 ）。
+- fu4 zi3 zi4 tuan2 luan2 （《 jing3 de2 chuan2 deng1 lu4 》 zuo4 「 da4 jia1 tuan2 luan2 tou2 」）， gong4 shuo1 wu2 sheng1 hua4 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-shang-qing-le-qi-yi
-title: 上清樂  其一
-titlePinyin: shang4 qing1 le4     qi2 yi1
+title: 上清樂  其一○
+titlePinyin: shang4 qing1 le4     qi2 yi1 ○
 titleSlug: shang-qing-le-qi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紫清天上育華林，絳實朱柯竹葉深。
-- 咀嚼繁英身不老，下觀鳥兔換光陰。
+- 萬仞霞山峙玉虛，四司冠劍護靈都。
+- 眾真稽首持天禁，腰佩仙皇逸錄符。
 
 ## 拼音
 
-- zi3 qing1 tian1 shang4 yu4 hua2 lin2 ， jiang4 shi2 zhu1 ke1 zhu2 ye4 shen1 。
-- ju3 jue2 fan2 ying1 shen1 bu4 lao3 ， xia4 guan1 niao3 tu4 huan4 guang1 yin1 。
+- wan4 ren4 xia2 shan1 zhi4 yu4 xu1 ， si4 si1 guan1 jian4 hu4 ling2 dou1 。
+- zhong4 zhen1 qi3 shou3 chi2 tian1 jin4 ， yao1 pei4 xian1 huang2 yi4 lu4 fu2 。
 
 ## 注释
 

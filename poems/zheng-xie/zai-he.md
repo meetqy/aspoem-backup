@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海棠亂插滿琱盤，爲愛繁梢更繞欄。
-- 顧我有情還惜別，聞君未去且留歡。
-- 錦裀只就花邊卧，細袖偏宜燭下看。
-- 若背荆州容易去，故人於義未爲安。
+- 使君携酒送餘春，縹緲高懷倚白雲。
+- 新曲旋教花下按，好題只就席間分。
+- 阮公醉帽玉山倒，謝女舞衣沈水薰。
+- 自笑塵埃滿朱紱，良辰樂事兩輸君。
 
 ## 拼音
 
-- hai3 tang2 luan4 cha1 man3 diao1 pan2 ， wei2 ai4 fan2 shao1 geng4 rao4 lan2 。
-- gu4 wo3 you3 qing2 huan2 xi1 bie2 ， wen2 jun1 wei4 qu4 qie3 liu2 huan1 。
-- jin3 yin1 zhi1 jiu4 hua1 bian1 wo4 ， xi4 xiu4 pian1 yi2 zhu2 xia4 kan4 。
-- ruo4 bei4 jing1 zhou1 rong2 yi4 qu4 ， gu4 ren2 wu1 yi4 wei4 wei2 an1 。
+- shi3 jun1 xie2 jiu3 song4 yu2 chun1 ， piao3 miao3 gao1 huai2 yi3 bai2 yun2 。
+- xin1 qu3 xuan2 jiao4 hua1 xia4 an4 ， hao3 ti2 zhi1 jiu4 xi2 jian4 fen1 。
+- ruan3 gong1 zui4 mao4 yu4 shan1 dao3 ， xie4 nü3 wu3 yi1 shen3 shui3 xun1 。
+- zi4 xiao4 chen2 ai1 man3 zhu1 fu2 ， liang2 chen2 le4 shi4 liang3 shu1 jun1 。
 
 ## 注释
 

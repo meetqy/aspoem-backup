@@ -6,10 +6,10 @@ titleSlug: yun-feng-si
 author: 樂黄庭
 authorPinyin: le4 huang2 ting2
 authorSlug: le-huang-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

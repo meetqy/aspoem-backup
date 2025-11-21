@@ -6,10 +6,10 @@ titleSlug: song-ang-wei-na-chu-ling-jian-cheng-ying-an-qi-er
 author: 釋咸傑
 authorPinyin: shi4 xian2 jie2
 authorSlug: shi-xian-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

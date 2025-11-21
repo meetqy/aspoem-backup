@@ -6,10 +6,10 @@ titleSlug: chong-xiu-chao-zong-men-lou-ji-ju-cheng-wang-zai
 author: 余壹
 authorPinyin: yu2 yi1
 authorSlug: yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

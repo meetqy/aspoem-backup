@@ -6,25 +6,25 @@ titleSlug: ye-xing-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘水涓涓入野塘，菊花猶放數枝黄。
-- 悶思野步便晴日，病怯冬温喜薄霜。
-- 湯餅鬻成新兔美，膾韲擣罷綠橙香。
-- 人間富貴知何得，商略山林却味長。
+- 山豁逢孤寺，林窮渡小溝。
+- 松聲亂僧梵，雨點雜魚遊。
+- 皂纛三軍帥，金章萬戶侯。
+- 人生各有願，未肯換扁舟。
 
 ## 拼音
 
-- can2 shui3 juan1 juan1 ru4 ye3 tang2 ， ju2 hua1 you2 fang4 shu4 zhi1 huang2 。
-- men4 si1 ye3 bu4 bian4 qing2 ri4 ， bing4 qie4 dong1 wen1 xi3 bao2 shuang1 。
-- tang1 bing3 yu4 cheng2 xin1 tu4 mei3 ， kuai4 ji1 dao3 ba4 lü4 cheng2 xiang1 。
-- ren2 jian4 fu4 gui4 zhi1 he2 de2 ， shang1 lüe4 shan1 lin2 que4 wei4 chang2 。
+- shan1 huo1 feng2 gu1 si4 ， lin2 qiong2 du4 xiao3 gou1 。
+- song1 sheng1 luan4 seng1 fan4 ， yu3 dian3 za2 yu2 you2 。
+- zao4 dao4 san1 jun1 shuai4 ， jin1 zhang1 wan4 hu4 hou2 。
+- ren2 sheng1 ge4 you3 yuan4 ， wei4 ken3 huan4 pian1 zhou1 。
 
 ## 注释
 

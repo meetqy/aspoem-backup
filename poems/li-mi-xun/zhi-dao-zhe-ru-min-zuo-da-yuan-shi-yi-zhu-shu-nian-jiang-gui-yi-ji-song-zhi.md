@@ -6,10 +6,10 @@ titleSlug: zhi-dao-zhe-ru-min-zuo-da-yuan-shi-yi-zhu-shu-nian-jiang-gui-yi-ji-so
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

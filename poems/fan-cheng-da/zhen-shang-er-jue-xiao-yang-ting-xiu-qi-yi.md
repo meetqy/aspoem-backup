@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zhen-shang-er-jue-xiao-yang-ting-xiu-qi-yi
-title: 枕上二絕效楊廷秀・其一
-titlePinyin: zhen3 shang4 er4 jue2 xiao4 yang2 ting2 xiu4・qi2 yi1
+title: 枕上二絕效楊廷秀  其一
+titlePinyin: zhen3 shang4 er4 jue2 xiao4 yang2 ting2 xiu4     qi2 yi1
 titleSlug: zhen-shang-er-jue-xiao-yang-ting-xiu-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

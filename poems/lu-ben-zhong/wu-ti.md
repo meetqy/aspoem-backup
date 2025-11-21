@@ -6,21 +6,25 @@ titleSlug: wu-ti
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 胡虜安知鼎重輕，禍胎元是漢公卿。
-- 襄陽耆舊唯龐老，受禪碑中無姓名。
+- 學詩漸老轉銷聲，末路蒙山此日情。
+- 尚有文章能起疾，豈惟田里解蚩甿。
+- 近郊秔稻成秋熟，繞郭溪山入晚晴。
+- 剩繞長廊和新句，不知庭下薄寒生。
 
 ## 拼音
 
-- hu2 lu3 an1 zhi1 ding3 zhong4 qing1 ， huo4 tai1 yuan2 shi4 han4 gong1 qing1 。
-- xiang1 yang2 qi2 jiu4 wei2 pang2 lao3 ， shou4 shan4 bei1 zhong1 wu2 xing4 ming2 。
+- xue2 shi1 jian4 lao3 zhuan3 xiao1 sheng1 ， mo4 lu4 meng2 shan1 ci3 ri4 qing2 。
+- shang4 you3 wen2 zhang1 neng2 qi3 ji2 ， qi3 wei2 tian2 li3 jie3 chi1 meng2 。
+- jin4 jiao1 jing1 dao4 cheng2 qiu1 shu2 ， rao4 guo1 xi1 shan1 ru4 wan3 qing2 。
+- sheng4 rao4 chang2 lang2 he2 xin1 ju4 ， bu4 zhi1 ting2 xia4 bao2 han2 sheng1 。
 
 ## 注释
 

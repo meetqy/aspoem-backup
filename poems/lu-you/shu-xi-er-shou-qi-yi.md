@@ -6,25 +6,25 @@ titleSlug: shu-xi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乞得身歸鏡水濱，此生真作葛天民。
-- 眼明身健何妨老，飯白茶甘不覺貧。
-- 甕酒又篘三斗熟，園花時報一枝新。
-- 挂冠更作黄冠計，多事常嫌賀季真。
+- 寵辱元知不足驚，退居兀兀餞餘生。
+- 冰魚可釣羹材足，霜稻方登糴價平。
+- 鄰媼已安諸子養，園丁初葺數椽成。
+- 鄰閭喜事吾曹共，一醉寧辭洗破觥。
 
 ## 拼音
 
-- qi3 de2 shen1 gui1 jing4 shui3 bin1 ， ci3 sheng1 zhen1 zuo4 ge3 tian1 min2 。
-- yan3 ming2 shen1 jian4 he2 fang2 lao3 ， fan4 bai2 cha2 gan1 bu4 jue2 pin2 。
-- weng4 jiu3 you4 chou1 san1 dou3 shu2 ， yuan2 hua1 shi2 bao4 yi4 zhi1 xin1 。
-- gua4 guan1 geng4 zuo4 huang2 guan1 ji4 ， duo1 shi4 chang2 xian2 he4 ji4 zhen1 。
+- chong3 ru3 yuan2 zhi1 bu4 zu2 jing1 ， tui4 ju1 wu4 wu4 jian4 yu2 sheng1 。
+- bing1 yu2 ke3 diao4 geng1 cai2 zu2 ， shuang1 dao4 fang1 deng1 di2 jia4 ping2 。
+- lin2 ao3 yi3 an1 zhu1 zi3 yang3 ， yuan2 ding1 chu1 qi4 shu4 chuan2 cheng2 。
+- lin2 lü2 xi3 shi4 wu2 cao2 gong4 ， yi2 zui4 ning2 ci2 xi3 po4 gong1 。
 
 ## 注释
 

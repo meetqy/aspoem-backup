@@ -6,10 +6,10 @@ titleSlug: qian-yi-shi-da-han-san-zi-hua-hou-de-qi-jian-yin-xu-xia-qing
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

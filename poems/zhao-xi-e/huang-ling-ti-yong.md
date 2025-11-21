@@ -6,10 +6,10 @@ titleSlug: huang-ling-ti-yong
 author: 趙希鄂
 authorPinyin: zhao4 xi1 e4
 authorSlug: zhao-xi-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: shuang-qiao
 author: 劉摰
 authorPinyin: liu2 nie4
 authorSlug: liu-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 危橋相向翼高堂，步步行空跨石矼。
-- 漢外夜驚靈鵲度，雨中秋臥綵虹雙。
-- 烟開從此瞻瀛島，路遠何時過楚江。
-- 記得扁舟綠楊岸，畫欄朱柱對篷窗。
+- 雙橋十里跨虚明，波面無風兩足輕。
+- 雨歇烟收人不見，路岐依約是蓬瀛。
 
 ## 拼音
 
-- wei1 qiao2 xiang1 xiang4 yi4 gao1 tang2 ， bu4 bu4 xing2 kong1 kua4 shi2 gang1 。
-- han4 wai4 ye4 jing1 ling2 que4 du4 ， yu3 zhong1 qiu1 wo4 cai3 hong2 shuang1 。
-- yan1 kai1 cong2 ci3 zhan1 ying2 dao3 ， lu4 yuan3 he2 shi2 guo4 chu3 jiang1 。
-- ji4 de2 pian1 zhou1 lü4 yang2 an4 ， hua4 lan2 zhu1 zhu4 dui4 peng2 chuang1 。
+- shuang1 qiao2 shi2 li3 kua4 xu1 ming2 ， bo1 mian4 wu2 feng1 liang3 zu2 qing1 。
+- yu3 xie1 yan1 shou1 ren2 bu2 jian4 ， lu4 qi2 yi1 yue1 shi4 peng2 ying2 。
 
 ## 注释
 

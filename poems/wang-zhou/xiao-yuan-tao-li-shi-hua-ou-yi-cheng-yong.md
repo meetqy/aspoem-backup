@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 桃李栽成豔格新，數枝留得小園春。
-- 半紅半白無風雨，随分夭容解笑人。
+- 半紅半白無風雨，隨分夭容解笑人。
 
 ## 拼音
 

@@ -6,25 +6,25 @@ titleSlug: cun-she
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 空谷人稀到，新寒病頓輕。
-- 晨霜催小獵，宿雨潤新耕。
-- 草莽秦馳道，雲烟越故城。
-- 千年不磨滅，惟有暮山横。
+- 剝啄敲村舍，丫叉揖主人。
+- 新牆拆龜兆，疏瓦斷魚鱗。
+- 紅粒炊畬粟，青烟鬰澗薪。
+- 得床思熟睡，寒犬苦狺狺。
 
 ## 拼音
 
-- kong1 gu3 ren2 xi1 dao4 ， xin1 han2 bing4 dun4 qing1 。
-- chen2 shuang1 cui1 xiao3 lie4 ， su4 yu3 run4 xin1 geng1 。
-- cao3 mang3 qin2 chi2 dao4 ， yun2 yan1 yue4 gu4 cheng2 。
-- qian1 nian2 bu4 mo2 mie4 ， wei2 you3 mu4 shan1 heng2 。
+- bao1 zhuo2 qiao1 cun1 she4 ， ya1 cha1 yi1 zhu3 ren2 。
+- xin1 qiang2 chai1 gui1 zhao4 ， shu1 wa3 duan4 yu2 lin2 。
+- hong2 li4 chui1 she1 su4 ， qing1 yan1 yu4 jian4 xin1 。
+- de2 chuang2 si1 shu2 shui4 ， han2 quan3 ku3 yin2 yin2 。
 
 ## 注释
 

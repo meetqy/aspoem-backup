@@ -6,25 +6,21 @@ titleSlug: cheng-yue-ru-cheng
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水落千原浄，天高七澤空。
-- 征人秋色裏，騎馬月明中。
-- 故國山川在，承平氣象雄。
-- 西風多感慨，敲損玉玲瓏。
+- 秋天無雲凈玉色，水風带月摇金光。
+- 此中三十六萬里，容我緩轡歌清商。
 
 ## 拼音
 
-- shui3 luo4 qian1 yuan2 jing4 ， tian1 gao1 qi1 ze2 kong1 。
-- zheng1 ren2 qiu1 se4 li3 ， qi2 ma3 yue4 ming2 zhong1 。
-- gu4 guo2 shan1 chuan1 zai4 ， cheng2 ping2 qi4 xiang4 xiong2 。
-- xi1 feng1 duo1 gan3 kai3 ， qiao1 sun3 yu4 ling2 long2 。
+- qiu1 tian1 wu2 yun2 jing4 yu4 se4 ， shui3 feng1 dai4 yue4 yao2 jin1 guang1 。
+- ci3 zhong1 san1 shi2 liu4 wan4 li3 ， rong2 wo3 huan3 pei4 ge1 qing1 shang1 。
 
 ## 注释
 

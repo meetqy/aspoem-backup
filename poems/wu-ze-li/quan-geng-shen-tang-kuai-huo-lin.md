@@ -6,25 +6,25 @@ titleSlug: quan-geng-shen-tang-kuai-huo-lin
 author: 吳則禮
 authorPinyin: wu2 ze2 li3
 authorSlug: wu-ze-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 凝笳作悲壯，細馬載嬋娟。
-- 可是杏花晚，只教楊柳眠。
-- 酒醆漢旌底，清歌春雁邊。
-- 不須催部曲，聊欲酌寒泉。
+- 小雨尚復連清明，晴鳩撩我争喚晴。
+- 餘寒不奈殘春酒，遲日初斜細柳營。
+- 黑貂强脱行作吏，白髪渾生來勸耕。
+- 樹底樹頭牽老眼，幾時喬木有鶯鳴。
 
 ## 拼音
 
-- ning2 jia1 zuo4 bei1 zhuang4 ， xi4 ma3 zai4 chan2 juan1 。
-- ke3 shi4 xing4 hua1 wan3 ， zhi1 jiao4 yang2 liu3 mian2 。
-- jiu3 zhan3 han4 jing1 di3 ， qing1 ge1 chun1 yan4 bian1 。
-- bu4 xu1 cui1 bu4 qu3 ， liao2 yu4 zhuo2 han2 quan2 。
+- xiao3 yu3 shang4 fu4 lian2 qing1 ming2 ， qing2 jiu1 liao2 wo3 zheng1 huan4 qing2 。
+- yu2 han2 bu2 nai4 can2 chun1 jiu3 ， chi2 ri4 chu1 xie2 xi4 liu3 ying2 。
+- hei1 diao1 qiang2 tuo1 xing2 zuo4 li4 ， bai2 fa4 hun2 sheng1 lai2 quan4 geng1 。
+- shu4 di3 shu4 tou2 qian1 lao3 yan3 ， ji1 shi2 qiao2 mu4 you3 ying1 ming2 。
 
 ## 注释
 

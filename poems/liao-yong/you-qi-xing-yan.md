@@ -6,10 +6,10 @@ titleSlug: you-qi-xing-yan
 author: 廖顒
 authorPinyin: liao4 yong2
 authorSlug: liao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

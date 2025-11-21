@@ -6,21 +6,21 @@ titleSlug: hui-wen-qi-san
 author: 無名氏
 authorPinyin: wu2 ming2 shi4
 authorSlug: wu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒信風飄霜葉黄，冷燈殘月照空牀。
-- 看君寄憶回文錦，字字縈愁寫斷腸。
+- 羞看一首回文錦，錦似文君別恨深。
+- 頭白自吟悲賦客，斷腸愁是斷弦琴。
 
 ## 拼音
 
-- han2 xin4 feng1 piao1 shuang1 ye4 huang2 ， leng3 deng1 can2 yue4 zhao4 kong1 chuang2 。
-- kan4 jun1 ji4 yi4 hui2 wen2 jin3 ， zi4 zi4 ying2 chou2 xie3 duan4 chang2 。
+- xiu1 kan4 yi4 shou3 hui2 wen2 jin3 ， jin3 si4 wen2 jun1 bie2 hen4 shen1 。
+- tou2 bai2 zi4 yin2 bei1 fu4 ke4 ， duan4 chang2 chou2 shi4 duan4 xian2 qin2 。
 
 ## 注释
 

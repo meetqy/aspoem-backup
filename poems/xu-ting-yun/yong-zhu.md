@@ -6,9 +6,9 @@ titleSlug: yong-zhu
 author: 徐庭筠
 authorPinyin: xu2 ting2 yun2
 authorSlug: xu-ting-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

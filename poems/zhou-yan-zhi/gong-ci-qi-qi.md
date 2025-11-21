@@ -1,26 +1,26 @@
 ---
 id: zhou-yan-zhi-gong-ci-qi-qi
-title: 宮詞  其七
-titlePinyin: gong1 ci2     qi2 qi1
+title: 宮詞  其七○
+titlePinyin: gong1 ci2     qi2 qi1 ○
 titleSlug: gong-ci-qi-qi
 author: 周彥質
 authorPinyin: zhou1 yan4 zhi4
 authorSlug: zhou-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖主詞源湧巨瀾，恤民手詔月常頒。
-- 一回傳出驚新麗，多少詞臣愧汗顔。
+- 地衣紅錦蹙盤鵰，羅袖飄香轉舞腰。
+- 清暇君王休務日，宣和深殿按仙韶。
 
 ## 拼音
 
-- sheng4 zhu3 ci2 yuan2 yong3 ju4 lan2 ， xu4 min2 shou3 zhao4 yue4 chang2 ban1 。
-- yi4 hui2 chuan2 chu1 jing1 xin1 li2 ， duo1 shao3 ci2 chen2 kui4 han4 yan2 。
+- di4 yi1 hong2 jin3 cu4 pan2 diao1 ， luo2 xiu4 piao1 xiang1 zhuan3 wu3 yao1 。
+- qing1 xia2 jun1 wang2 xiu1 wu4 ri4 ， xuan1 he2 shen1 dian4 an4 xian1 shao2 。
 
 ## 注释
 

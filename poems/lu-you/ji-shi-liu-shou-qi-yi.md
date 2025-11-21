@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲起山容改，潮生浦面寬。
-- 寒鴉先雁到，烏桕後楓丹。
-- 年邁狐裝帽，時新豆搗糰。
-- 非關嗜溫飽，更事耐悲歡。
+- 老來百事似嬰兒，美睡甘餐只自知。
+- 陋屋略如營窟世，淳風不減結繩時。
 
 ## 拼音
 
-- yun2 qi3 shan1 rong2 gai3 ， chao2 sheng1 pu3 mian4 kuan1 。
-- han2 ya1 xian1 yan4 dao4 ， wu1 jiu4 hou4 feng1 dan1 。
-- nian2 mai4 hu2 zhuang1 mao4 ， shi2 xin1 dou4 dao3 tuan2 。
-- fei1 guan1 shi4 wen1 bao3 ， geng1 shi4 nai4 bei1 huan1 。
+- lao3 lai2 bai3 shi4 si4 ying1 er2 ， mei3 shui4 gan1 can1 zhi1 zi4 zhi1 。
+- lou4 wu1 lüe4 ru2 ying2 ku1 shi4 ， chun2 feng1 bu4 jian3 jie2 sheng2 shi2 。
 
 ## 注释
 

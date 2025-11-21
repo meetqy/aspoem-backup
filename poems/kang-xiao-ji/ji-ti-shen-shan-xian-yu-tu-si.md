@@ -6,10 +6,10 @@ titleSlug: ji-ti-shen-shan-xian-yu-tu-si
 author: 康孝基
 authorPinyin: kang1 xiao4 ji1
 authorSlug: kang-xiao-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

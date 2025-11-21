@@ -6,10 +6,10 @@ titleSlug: you-qi-zhen-dong-gui-zhou-dai-yue-bo-shi-qiao-qi-er
 author: 章桂發
 authorPinyin: zhang1 gui4 fa1
 authorSlug: zhang-gui-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

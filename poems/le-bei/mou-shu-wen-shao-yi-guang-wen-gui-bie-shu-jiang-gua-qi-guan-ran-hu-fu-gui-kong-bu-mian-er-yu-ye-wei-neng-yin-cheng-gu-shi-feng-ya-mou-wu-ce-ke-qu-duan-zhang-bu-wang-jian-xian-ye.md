@@ -6,10 +6,10 @@ titleSlug: mou-shu-wen-shao-yi-guang-wen-gui-bie-shu-jiang-gua-qi-guan-ran-hu-fu
 author: 樂備
 authorPinyin: le4 bei4
 authorSlug: le-bei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

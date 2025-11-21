@@ -6,25 +6,25 @@ titleSlug: yin-shi-shi-zhong
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石本落落，玉自碌碌。
-- 古之今之，一何𧬊速。
-- 師子不咬麒麟，猛虎不食伏肉。
-- 君不見洞庭孤島煙浪深，木馬追風有人識。
+- 客從遠方來，遺我徑寸璧。
+- 中有四箇字，字字無人識。
+- 清涵鯨海寛，冷射蟾輪窄。
+- 今朝呈似看，請道末後句。
 
 ## 拼音
 
-- shi2 ben3 luo4 luo4 ， yu4 zi4 lu4 lu4 。
-- gu3 zhi1 jin1 zhi1 ， yi4 he2 𧬊 su4 。
-- shi1 zi3 bu4 yao3 qi2 lin2 ， meng3 hu3 bu4 shi2 fu2 rou4 。
-- jun1 bu2 jian4 dong4 ting2 gu1 dao3 yan1 lang4 shen1 ， mu4 ma3 zhui1 feng1 you3 ren2 shi2 。
+- ke4 cong2 yuan3 fang1 lai2 ， yi2 wo3 jing4 cun4 bi4 。
+- zhong1 you3 si4 ge4 zi4 ， zi4 zi4 wu2 ren2 shi2 。
+- qing1 han2 jing1 hai3 kuan1 ， leng3 she4 chan2 lun2 zhai3 。
+- jin1 zhao1 cheng2 si4 kan4 ， qing3 dao4 mo4 hou4 ju4 。
 
 ## 注释
 

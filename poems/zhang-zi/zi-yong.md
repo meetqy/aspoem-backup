@@ -6,25 +6,25 @@ titleSlug: zi-yong
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 事業新來別，賢愚久自知。
-- 作文時似呪，寫字忽如錐。
-- 賣屋因爲宅，謀官本近醫。
-- 有來評世務，好好只相隨。
+- 南湖老子太汗漫，第一生來懶做官。
+- 錢物用多常是解，權門路便不曾鑽。
+- 紅裙遣去如僧榻，白髮梳來稱道冠。
+- 若沒祖財教飯飽，定應餓作壁魚乾。
 
 ## 拼音
 
-- shi4 ye4 xin1 lai2 bie2 ， xian2 yu2 jiu3 zi4 zhi1 。
-- zuo4 wen2 shi2 si4 zhou4 ， xie3 zi4 hu1 ru2 zhui1 。
-- mai4 wu1 yin1 wei2 zhai2 ， mou2 guan1 ben3 jin4 yi1 。
-- you3 lai2 ping2 shi4 wu4 ， hao3 hao3 zhi1 xiang1 sui2 。
+- nan2 hu2 lao3 zi3 tai4 han4 man4 ， di4 yi1 sheng1 lai2 lan3 zuo4 guan1 。
+- qian2 wu4 yong4 duo1 chang2 shi4 jie3 ， quan2 men2 lu4 bian4 bu4 ceng2 zuan1 。
+- hong2 qun2 qian3 qu4 ru2 seng1 ta4 ， bai2 fa4 shu1 lai2 cheng1 dao4 guan1 。
+- ruo4 mei2 zu3 cai2 jiao4 fan4 bao3 ， ding4 ying1 e4 zuo4 bi4 yu2 qian2 。
 
 ## 注释
 

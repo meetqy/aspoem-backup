@@ -18,38 +18,38 @@ tags: []
 - 摶風乍息三千里，感舊重懷四十年。
 - 西掖新官同賈馬，南朝興運似開天。
 - 文辭職業分工拙，流輩班資讓後先。
-- 每愧陋容勞刻畫，長慚頑石費雕鎸。
+- 每愧陋容勞刻畫，長慙頑石費彫鐫。
 - 晨趨綸掖吟春永，夕會精廬待月圓。
-- 立馬有時同草詔，聯鑣幾處共成篇。
+- 立馬有時同草昭，聯鑣幾處共成篇。
 - 閑歌柳葉翻新曲，醉詠桃花促綺筵。
 - 少壯況逢時世好，經過寧慮歲華遷。
 - 雲龍得路須騰躍，社櫟非材合棄捐。
 - 再謁湘江猶是幸，兩還宣室竟何緣。
-- 已知瑕玷勞磨瑩，又得官司重接連。
+- 已知瑕玷勞磨瑩，又有官司重接連。
 - 聽漏分宵趨建禮，從遊同召赴甘泉。
 - 雲開閶闔分臺殿，風過華林度管弦。
-- 行止不離宮仗影，衣裾嘗惹御爐烟。
+- 行止不離宮仗影，衣裾嘗惹御爐煙。
 - 師資稷契論中禮，依止山公典小銓。
-- 多謝天波垂赤管，敢教晨景過華磚。
+- 多謝天波垂赤管，敢教晨景過華塼。
 - 翾飛附驥方經遠，巨楫垂風遂濟川。
 - 玉燭調時鈞軸正，台階平處德星懸。
 - 巖廊禮絕威容肅，布素情深友好偏。
-- 長擬營巢安大厦，忽經操鉞領中權。
+- 長擬營巢安大廈，忽驚操鉞領中權。
 - 吳門日麗龍銜節，京口沙晴鷁畫船。
 - 蓋代名高方赫赫，戀恩心切更乾乾。
 - 袁安辭氣忠仍懇，吳漢精誠直且專。
-- 却許丘明師紀傳，更容疏廣奉周旋。
+- 却許丘明師紀傳，更容疎廣奉周旋。
 - 朱門自得施行馬，厚祿何妨食萬錢。
 - 密疏尚應勞獻替，清談唯見論空玄。
-- 東山妓樂供閑步，北牖風凉足晏眠。
-- 玄武湖邊林隠見，五城橋下棹洄沿。
+- 東山妓樂供閑步，北牖風涼足晏眠。
+- 玄武湖邊林隱見，五城橋下櫂洄沿。
 - 曾移苑樹開紅藥，新鑿家池種白蓮。
 - 不遣前騶妨野逸，別尋逋客互招延。
-- 棋枰寂靜陳虛閣，詩筆沉吟劈彩牋。
-- 往事偶來春夢裏，閒愁因動落花前。
+- 棊枰寂靜陳虛閣，詩筆沉吟劈彩牋。
+- 往事偶來春夢裏，閑愁因動落花前。
 - 青雲舊侶嗟誰在，白首親情倍見憐。
 - 盡日凝思殊悵望，一章追敘信精研。
-- 韶顔莫與年爭競，世慮須憑道節宣。
+- 韶顏莫與年爭競，世慮須憑道節宣。
 - 幸喜書生爲將相，定由陰德致神仙。
 - 羊公剩有登臨興，尚子都無嫁娶牽。
 - 退象天山鎮浮競，起爲霖雨潤原田。
@@ -63,12 +63,12 @@ tags: []
 - wen2 ci2 zhi2 ye4 fen1 gong1 zhuo1 ， liu2 bei4 ban1 zi1 rang4 hou4 xian1 。
 - mei3 kui4 lou4 rong2 lao2 ke4 hua4 ， chang2 can2 wan2 shi2 fei4 diao1 juan1 。
 - chen2 qu1 lun2 ye4 yin2 chun1 yong3 ， xi1 hui4 jing1 lu2 dai4 yue4 yuan2 。
-- li4 ma3 you3 shi2 tong2 cao3 zhao4 ， lian2 biao1 ji1 chu3 gong4 cheng2 pian1 。
+- li4 ma3 you3 shi2 tong2 cao3 zhao1 ， lian2 biao1 ji1 chu3 gong4 cheng2 pian1 。
 - xian2 ge1 liu3 ye4 fan1 xin1 qu3 ， zui4 yong3 tao2 hua1 cu4 qi3 yan2 。
 - shao3 zhuang4 kuang4 feng2 shi2 shi4 hao3 ， jing1 guo4 ning2 lü4 sui4 hua2 qian1 。
 - yun2 long2 de2 lu4 xu1 teng2 yue4 ， she4 li4 fei1 cai2 he2 qi4 juan1 。
 - zai4 ye4 xiang1 jiang1 you2 shi4 xing4 ， liang3 huan2 xuan1 shi4 jing4 he2 yuan2 。
-- yi3 zhi1 xia2 dian4 lao2 mo2 ying2 ， you4 de2 guan1 si0 zhong4 jie1 lian2 。
+- yi3 zhi1 xia2 dian4 lao2 mo2 ying2 ， you4 you3 guan1 si0 zhong4 jie1 lian2 。
 - ting1 lou4 fen1 xiao1 qu1 jian4 li3 ， cong2 you2 tong2 zhao4 fu4 gan1 quan2 。
 - yun2 kai1 chang1 he2 fen1 tai2 dian4 ， feng1 guo4 hua2 lin2 du4 guan3 xian2 。
 - xing2 zhi3 bu4 li2 gong1 zhang4 ying3 ， yi1 ju1 chang2 re3 yu4 lu2 yan1 。

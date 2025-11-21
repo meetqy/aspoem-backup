@@ -6,25 +6,25 @@ titleSlug: shuang-xi-ji-shi
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹底開幽徑，山根結小樓。
-- 誰知多病苦，自判一生休。
-- 舟著平沙尾，橋橫古渡頭。
-- 往來皆物役，却掃獨無求。
+- 築室依林麓，開門向水涯。
+- 經過無俗駕，附近少人家。
+- 洄洑潭成沫，嵌空石有漥。
+- 幽居誰是伴，鳬雁聚平沙。
 
 ## 拼音
 
-- zhu2 di3 kai1 you1 jing4 ， shan1 gen1 jie2 xiao3 lou2 。
-- shui2 zhi1 duo1 bing4 ku3 ， zi4 pan4 yi4 sheng1 xiu1 。
-- zhou1 zhu4 ping2 sha1 wei3 ， qiao2 heng2 gu3 du4 tou2 。
-- wang3 lai2 jie1 wu4 yi4 ， que4 sao3 du2 wu2 qiu2 。
+- zhu4 shi4 yi1 lin2 lu4 ， kai1 men2 xiang4 shui3 ya2 。
+- jing1 guo4 wu2 su2 jia4 ， fu4 jin4 shao3 ren2 jia1 。
+- hui2 fu2 tan2 cheng2 mo4 ， qian4 kong1 shi2 you3 wa1 。
+- you1 ju1 shui2 shi4 ban4 ， fu2 yan4 ju4 ping2 sha1 。
 
 ## 注释
 

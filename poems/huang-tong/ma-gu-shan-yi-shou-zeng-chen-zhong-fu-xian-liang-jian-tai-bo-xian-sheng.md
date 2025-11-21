@@ -6,10 +6,10 @@ titleSlug: ma-gu-shan-yi-shou-zeng-chen-zhong-fu-xian-liang-jian-tai-bo-xian-she
 author: 黄通
 authorPinyin: huang2 tong1
 authorSlug: huang-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

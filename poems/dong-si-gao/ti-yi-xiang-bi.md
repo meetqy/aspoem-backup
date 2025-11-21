@@ -6,25 +6,25 @@ titleSlug: ti-yi-xiang-bi
 author: 董嗣杲
 authorPinyin: dong3 si4 gao3
 authorSlug: dong-si-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朱户編簾掩，花顛覽鏡羞。
-- 酒多無客過，茶盡有僧留。
-- 世慮經心久，花時撚指休。
-- 悅生憐濁骨，愧死混清流。
+- 養生肯羡葛洪砂，醒困還評陸羽茶。
+- 溪上攬雲歸酒屋，雨中看瀑憶樵家。
+- 時時禽鳥嗚心曲，歲歲風霜趲鬢華。
+- 窗户生香還有意，夕陽紅皺石榴花。
 
 ## 拼音
 
-- zhu1 hu4 bian1 lian2 yan3 ， hua1 dian1 lan3 jing4 xiu1 。
-- jiu3 duo1 wu2 ke4 guo4 ， cha2 jin4 you3 seng1 liu2 。
-- shi4 lü4 jing1 xin1 jiu3 ， hua1 shi2 nian3 zhi3 xiu1 。
-- yue4 sheng1 lian2 zhuo2 gu3 ， kui4 si3 hun4 qing1 liu2 。
+- yang3 sheng1 ken3 xian4 ge3 hong2 sha1 ， xing3 kun4 huan2 ping2 lu4 yu3 cha2 。
+- xi1 shang4 lan3 yun2 gui1 jiu3 wu1 ， yu3 zhong1 kan4 pu4 yi4 qiao2 jia1 。
+- shi2 shi2 qin2 niao3 wu1 xin1 qu3 ， sui4 sui4 feng1 shuang1 zan3 bin4 hua2 。
+- chuang1 hu0 sheng1 xiang1 huan2 you3 yi4 ， xi1 yang2 hong2 zhou4 shi2 liu0 hua1 。
 
 ## 注释
 

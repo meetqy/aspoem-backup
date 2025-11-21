@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 台山穴三獸，樵者不得薪。
-- 忽是食人虎，便有射虎人。
-- 善惡必對待，禍福常相鄰。
-- 冞月寢三皮，居山聊一欣。
+- 墐戶喜冬序，秋容換霜風。
+- 可歎景物移，只在笑談中。
+- 菊茂遠先見，蓼疏寒更紅。
+- 老懷欣自愜，漸享愛日功。
 
 ## 拼音
 
-- tai2 shan1 xue2 san1 shou4 ， qiao2 zhe3 bu4 de2 xin1 。
-- hu1 shi4 shi2 ren2 hu3 ， bian4 you3 she4 hu3 ren2 。
-- shan4 e4 bi4 dui4 dai4 ， huo4 fu2 chang2 xiang1 lin2 。
-- mi2 yue4 qin3 san1 pi2 ， ju1 shan1 liao2 yi4 xin1 。
+- jin4 hu4 xi3 dong1 xu4 ， qiu1 rong2 huan4 shuang1 feng1 。
+- ke3 tan4 jing3 wu4 yi2 ， zhi1 zai4 xiao4 tan2 zhong1 。
+- ju2 mao4 yuan3 xian1 jian4 ， liao3 shu1 han2 geng4 hong2 。
+- lao3 huai2 xin1 zi4 qie4 ， jian4 xiang3 ai4 ri4 gong1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chi-bi-guan-quan
 author: 朱慶朝
 authorPinyin: zhu1 qing4 chao2
 authorSlug: zhu-qing-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

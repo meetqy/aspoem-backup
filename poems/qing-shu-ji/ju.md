@@ -6,10 +6,10 @@ titleSlug: ju
 author: 慶書記
 authorPinyin: qing4 shu1 ji4
 authorSlug: qing-shu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

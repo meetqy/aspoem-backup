@@ -6,10 +6,10 @@ titleSlug: zi-tong-ling-xing-si-shi-li-feng-fu-zuo-bo-jiang-bei-an-di-ming-san-t
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: san-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少年已遂遯山林，何况霜毛兩鬢侵。
-- 習氣尚存詩入夢，病根未去藥關心。
-- 猿知秋近啼先苦，鶴閱年多頂漸深。
-- 不忍頓疏風月在，粗能扶杖即登臨。
+- 小疾便幽翳，孤懷抱鬰陶。
+- 遺文誦史漢，奇思探莊騷。
+- 談笑寬吟苦，經行慰作勞。
+- 東岡聊一往，突兀古臺高。
 
 ## 拼音
 
-- shao4 nian2 yi3 sui4 dun4 shan1 lin2 ， he2 kuang4 shuang1 mao2 liang3 bin4 qin1 。
-- xi2 qi4 shang4 cun2 shi1 ru4 meng4 ， bing4 gen1 wei4 qu4 yao4 guan1 xin1 。
-- yuan2 zhi1 qiu1 jin4 ti2 xian1 ku3 ， he4 yue4 nian2 duo1 ding3 jian4 shen1 。
-- bu4 ren3 dun4 shu1 feng1 yue4 zai4 ， cu1 neng2 fu2 zhang4 ji2 deng1 lin2 。
+- xiao3 ji2 bian4 you1 yi4 ， gu1 huai2 bao4 yu4 tao2 。
+- yi2 wen2 song4 shi3 han4 ， qi2 si1 tan4 zhuang1 sao1 。
+- tan2 xiao4 kuan1 yin2 ku3 ， jing1 xing2 wei4 zuo4 lao2 。
+- dong1 gang1 liao2 yi4 wang3 ， tu1 wu4 gu3 tai2 gao1 。
 
 ## 注释
 

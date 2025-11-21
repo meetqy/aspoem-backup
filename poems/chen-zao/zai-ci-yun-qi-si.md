@@ -1,30 +1,30 @@
 ---
 id: chen-zao-zai-ci-yun-qi-si
-title: 再次韵  其四
+title: 再次韻  其四
 titlePinyin: zai4 ci4 yun4     qi2 si4
 titleSlug: zai-ci-yun-qi-si
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平日四方念，見謂石作腸。
-- 即今還家夢，絆驥首屢驤。
-- 不作垂橐嘆，藏書頗青箱。
-- 此燈可無傳，兒孫共翁長。
+- 因詩衰病顧徒然，鑿井今猶未及泉。
+- 藥幻霜鬚端有待，囊緘玉唾愧無傳。
+- 冥心擬學無言子，授訣今猶不老仙。
+- 探妙衛生俄兩得，信知穮蔉解逢年。
 
 ## 拼音
 
-- ping2 ri4 si4 fang1 nian4 ， jian4 wei4 shi2 zuo4 chang2 。
-- ji2 jin1 huan2 jia1 meng4 ， ban4 ji4 shou3 lü3 xiang1 。
-- bu2 zuo4 chui2 tuo2 tan4 ， cang2 shu1 po1 qing1 xiang1 。
-- ci3 deng1 ke3 wu2 chuan2 ， er2 sun1 gong4 weng1 chang2 。
+- yin1 shi1 shuai1 bing4 gu4 tu2 ran2 ， zao2 jing3 jin1 you2 wei4 ji2 quan2 。
+- yao4 huan4 shuang1 xu1 duan1 you3 dai4 ， nang2 jian1 yu4 tuo4 kui4 wu2 chuan2 。
+- ming2 xin1 ni3 xue2 wu2 yan2 zi3 ， shou4 jue2 jin1 you2 bu4 lao3 xian1 。
+- tan4 miao4 wei4 sheng1 e2 liang3 de2 ， xin4 zhi1 biao1 gun3 jie3 feng2 nian2 。
 
 ## 注释
 

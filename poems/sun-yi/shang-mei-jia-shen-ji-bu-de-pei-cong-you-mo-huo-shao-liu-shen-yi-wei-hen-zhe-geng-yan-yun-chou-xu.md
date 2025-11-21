@@ -6,10 +6,10 @@ titleSlug: shang-mei-jia-shen-ji-bu-de-pei-cong-you-mo-huo-shao-liu-shen-yi-wei-
 author: 孫逸
 authorPinyin: sun1 yi4
 authorSlug: sun-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

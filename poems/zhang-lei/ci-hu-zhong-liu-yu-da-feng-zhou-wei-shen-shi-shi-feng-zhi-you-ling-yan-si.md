@@ -6,10 +6,10 @@ titleSlug: ci-hu-zhong-liu-yu-da-feng-zhou-wei-shen-shi-shi-feng-zhi-you-ling-ya
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

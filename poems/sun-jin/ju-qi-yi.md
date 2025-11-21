@@ -1,24 +1,24 @@
 ---
 id: sun-jin-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 孫僅
 authorPinyin: sun1 jin3
 authorSlug: sun-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 刑人一旦起幽深，功業煌煌照古今。
+- 庭梧影薄晨霜落，籬菊香寒晚吹生。
 
 ## 拼音
 
-- xing2 ren2 yi2 dan4 qi3 you1 shen1 ， gong1 ye4 huang2 huang2 zhao4 gu3 jin1 。
+- ting2 wu2 ying3 bao2 chen2 shuang1 luo4 ， li2 ju2 xiang1 han2 wan3 chui1 sheng1 。
 
 ## 注释
 

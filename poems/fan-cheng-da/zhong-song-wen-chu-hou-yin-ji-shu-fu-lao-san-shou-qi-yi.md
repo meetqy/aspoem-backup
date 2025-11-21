@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zhong-song-wen-chu-hou-yin-ji-shu-fu-lao-san-shou-qi-yi
-title: 重送文處厚因寄蜀父老三首・其一
-titlePinyin: zhong4 song4 wen2 chu3 hou4 yin1 ji4 shu3 fu4 lao3 san1 shou3・qi2 yi1
+title: 重送文處厚因寄蜀父老三首  其一
+titlePinyin: zhong4 song4 wen2 chu3 hou4 yin1 ji4 shu3 fu4 lao3 san1 shou3     qi2 yi1
 titleSlug: zhong-song-wen-chu-hou-yin-ji-shu-fu-lao-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

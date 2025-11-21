@@ -6,10 +6,10 @@ titleSlug: ci-yun-jie-fu-huai-shu-zhou-shan-shui-jian-shi-zhi-shen
 author: 朱明之
 authorPinyin: zhu1 ming2 zhi1
 authorSlug: zhu-ming-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

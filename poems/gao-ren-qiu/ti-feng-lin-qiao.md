@@ -6,10 +6,10 @@ titleSlug: ti-feng-lin-qiao
 author: 高仁邱
 authorPinyin: gao1 ren2 qiu1
 authorSlug: gao-ren-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

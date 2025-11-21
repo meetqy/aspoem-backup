@@ -6,25 +6,21 @@ titleSlug: bo-yi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 士如圭璋，自然廉隅。
-- 一日無恥，不可以居。
-- 上帝降衷，毀敗是虞。
-- 遷史作傳，爰首餓夫。
+- 四海歸周莫不臣，首陽山下餓夫身。
+- 清風萬古何曾死，愧死當時食粟人。
 
 ## 拼音
 
-- shi4 ru2 gui1 zhang1 ， zi4 ran2 lian2 yu2 。
-- yi2 ri4 wu2 chi3 ， bu4 ke3 yi3 ju1 。
-- shang4 di4 jiang4 zhong1 ， hui3 bai4 shi4 yu2 。
-- qian1 shi3 zuo4 chuan2 ， yuan2 shou3 e4 fu1 。
+- si4 hai3 gui1 zhou1 mo4 bu4 chen2 ， shou3 yang2 shan1 xia4 e4 fu1 shen1 。
+- qing1 feng1 wan4 gu3 he2 ceng2 si3 ， kui4 si3 dang1 shi2 shi2 su4 ren2 。
 
 ## 注释
 

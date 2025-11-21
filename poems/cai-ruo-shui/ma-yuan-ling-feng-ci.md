@@ -6,10 +6,10 @@ titleSlug: ma-yuan-ling-feng-ci
 author: 蔡若水
 authorPinyin: cai4 ruo4 shui3
 authorSlug: cai-ruo-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

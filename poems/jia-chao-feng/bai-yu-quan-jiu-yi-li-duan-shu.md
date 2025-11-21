@@ -6,10 +6,10 @@ titleSlug: bai-yu-quan-jiu-yi-li-duan-shu
 author: 賈朝奉
 authorPinyin: jia3 chao2 feng4
 authorSlug: jia-chao-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: nan-kan-shan
 author: 鄭之才
 authorPinyin: zheng4 zhi1 cai2
 authorSlug: zheng-zhi-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 利州路運判
 authorPinyin: li4 zhou1 lu4 yun4 pan4
 authorSlug: li-zhou-lu-yun-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

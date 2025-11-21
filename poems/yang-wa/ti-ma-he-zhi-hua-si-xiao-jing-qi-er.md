@@ -6,10 +6,10 @@ titleSlug: ti-ma-he-zhi-hua-si-xiao-jing-qi-er
 author: 楊娃
 authorPinyin: yang2 wa2
 authorSlug: yang-wa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

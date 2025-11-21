@@ -9,16 +9,16 @@ authorSlug: zhu-chang-wen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 孤館閉塞水，大江生夜風。
+- 夜靜忽疑身是夢，更聞寒雨滴芭蕉。
 
 ## 拼音
 
-- gu1 guan3 bi4 sai1 shui3 ， da4 jiang1 sheng1 ye4 feng1 。
+- ye4 jing4 hu1 yi2 shen1 shi4 meng4 ， geng4 wen2 han2 yu3 di1 ba1 jiao1 。
 
 ## 注释
 

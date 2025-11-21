@@ -6,10 +6,10 @@ titleSlug: huai-gao-lu-chang
 author: 倪槐坡
 authorPinyin: ni2 huai2 po1
 authorSlug: ni-huai-po
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

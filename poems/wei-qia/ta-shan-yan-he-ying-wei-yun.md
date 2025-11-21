@@ -6,10 +6,10 @@ titleSlug: ta-shan-yan-he-ying-wei-yun
 author: 魏洽
 authorPinyin: wei4 qia4
 authorSlug: wei-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

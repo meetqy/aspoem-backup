@@ -6,29 +6,25 @@ titleSlug: ci-yun-wang-jiao-shou
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 悠悠城下水，又與日平西。
-- 漫移脚步高，忘却所歷低。
-- 奔忙小聚邑，乃有一大溪。
-- 欄干莫浪拍，事物久難齊。
-- 望舒生絕巘，我醉馬未嘶。
-- 停驂且莫上，狹路多塗泥。
+- 春殘物物尚堪書，捉筆尋詩獨遶廬。
+- 不特唱酬渾老也，未知交往盡歡歟。
+- 怕將笑口荒忙合，欲待愁眉款曲舒。
+- 忽爾流風萍是絮，宜乎化氣鼠爲鴽。
 
 ## 拼音
 
-- you1 you1 cheng2 xia4 shui3 ， you4 yu3 ri4 ping2 xi1 。
-- man4 yi2 jiao3 bu4 gao1 ， wang4 que4 suo3 li4 di1 。
-- ben1 mang2 xiao3 ju4 yi4 ， nai3 you3 yi2 da4 xi1 。
-- lan2 gan1 mo4 lang4 pai1 ， shi4 wu4 jiu3 nan2 qi2 。
-- wang4 shu1 sheng1 jue2 yan3 ， wo3 zui4 ma3 wei4 si1 。
-- ting2 can1 qie3 mo4 shang4 ， xia2 lu4 duo1 tu2 ni2 。
+- chun1 can2 wu4 wu4 shang4 kan1 shu1 ， zhuo1 bi3 xun2 shi1 du2 rao4 lu2 。
+- bu2 te4 chang4 chou2 hun2 lao3 ye3 ， wei4 zhi1 jiao1 wang3 jin4 huan1 yu2 。
+- pa4 jiang1 xiao4 kou3 huang1 mang2 he2 ， yu4 dai4 chou2 mei2 kuan3 qu1 shu1 。
+- hu1 er3 liu2 feng1 ping2 shi4 xu4 ， yi2 hu1 hua4 qi4 shu3 wei2 ru2 。
 
 ## 注释
 

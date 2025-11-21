@@ -9,22 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 才兼文武播雄名，遺愛芳塵滿洛城。
-- 身在行臺爲僕射，書來甪里訪先生。
-- 閑遊占得嵩山色，醉臥高聽洛水聲。
-- 千里相思難命駕，七言詩裏寄深情。
+- 羣玉山頭住四年，每聞笙鶴看諸仙。
+- 何時得把浮丘袖，白日將昇第九天。
 
 ## 拼音
 
-- cai2 jian1 wen2 wu3 bo1 xiong2 ming2 ， yi2 ai4 fang1 chen2 man3 luo4 cheng2 。
-- shen1 zai4 hang2 tai2 wei2 pu2 she4 ， shu1 lai2 lu4 li3 fang3 xian1 sheng0 。
-- xian2 you2 zhan4 de2 song1 shan1 se4 ， zui4 wo4 gao1 ting1 luo4 shui3 sheng1 。
-- qian1 li3 xiang1 si1 nan2 ming4 jia4 ， qi1 yan2 shi1 li3 ji4 shen1 qing2 。
+- qun2 yu4 shan1 tou2 zhu4 si4 nian2 ， mei3 wen2 sheng1 he4 kan4 zhu1 xian1 。
+- he2 shi2 de2 ba3 fu2 qiu1 xiu4 ， bai2 ri4 jiang1 sheng1 di4 jiu3 tian1 。
 
 ## 注释
 

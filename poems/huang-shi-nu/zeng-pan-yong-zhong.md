@@ -6,10 +6,10 @@ titleSlug: zeng-pan-yong-zhong
 author: 黄氏女
 authorPinyin: huang2 shi4 nü3
 authorSlug: huang-shi-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

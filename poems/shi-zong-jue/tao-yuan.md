@@ -6,9 +6,9 @@ titleSlug: tao-yuan
 author: 釋宗覺
 authorPinyin: shi4 zong1 jue2
 authorSlug: shi-zong-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

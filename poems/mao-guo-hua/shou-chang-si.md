@@ -6,10 +6,10 @@ titleSlug: shou-chang-si
 author: 毛國華
 authorPinyin: mao2 guo2 hua2
 authorSlug: mao-guo-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

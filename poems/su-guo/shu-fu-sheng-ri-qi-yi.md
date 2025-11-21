@@ -6,41 +6,25 @@ titleSlug: shu-fu-sheng-ri-qi-yi
 author: 蘇過
 authorPinyin: su1 guo4
 authorSlug: su-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百川赴東海，如走萬國朝。
-- 橫岫列嵩岱，衆山失岧嶢。
-- 吾道豈不尊，凜然干雲霄。
-- 斯文有盟主，坐制狂瀾漂。
-- 天實相我公，高臥不知招。
-- 手持文章柄，爛若北斗標。
-- 末學病多歧，寢令世俗澆。
-- 申商日充塞，仁義愈寂寥。
-- 造物真有意，俾公以後凋。
-- 羣邪終放鄭，正始會聞韻。
-- 過也匪私祝，彼蒼自昭昭。
-- 後生方有託，未用憂簞瓢。
+- 重耳飄流十九年，我公涉世屢艱難。
+- 笑看禮至爭銘鼎，便學陶宏欲掛冠。
+- 枕上軒裳何足夢，壺中天地本來寬。
+- 幅巾從此追巢許，永愧蒼生起謝安。
 
 ## 拼音
 
-- bai3 chuan1 fu4 dong1 hai3 ， ru2 zou3 wan4 guo2 chao2 。
-- heng2 xiu4 lie4 song1 dai4 ， zhong4 shan1 shi1 tiao2 yao2 。
-- wu2 dao4 qi3 bu4 zun1 ， lin3 ran2 gan1 yun2 xiao1 。
-- si1 wen2 you3 meng2 zhu3 ， zuo4 zhi4 kuang2 lan2 piao1 。
-- tian1 shi2 xiang1 wo3 gong1 ， gao1 wo4 bu4 zhi1 zhao1 。
-- shou3 chi2 wen2 zhang1 bing3 ， lan4 ruo4 bei3 dou3 biao1 。
-- mo4 xue2 bing4 duo1 qi2 ， qin3 ling4 shi4 su2 jiao1 。
-- shen1 shang1 ri4 chong1 se4 ， ren2 yi4 yu4 ji4 liao2 。
-- zao4 wu4 zhen1 you3 yi4 ， bi3 gong1 yi3 hou4 diao1 。
-- qun2 xie2 zhong1 fang4 zheng4 ， zheng4 shi3 hui4 wen2 yun4 。
-- guo4 ye3 fei3 si1 zhu4 ， bi3 cang1 zi4 zhao1 zhao1 。
-- hou4 sheng1 fang1 you3 tuo1 ， wei4 yong4 you1 dan1 piao2 。
+- chong2 er3 piao1 liu2 shi2 jiu3 nian2 ， wo3 gong1 she4 shi4 lü3 jian1 nan2 。
+- xiao4 kan4 li3 zhi4 zheng1 ming2 ding3 ， bian4 xue2 tao2 hong2 yu4 gua4 guan1 。
+- zhen3 shang4 xuan1 shang0 he2 zu2 meng4 ， hu2 zhong1 tian1 di4 ben3 lai2 kuan1 。
+- fu2 jin1 cong2 ci3 zhui1 chao2 xu1 ， yong3 kui4 cang1 sheng1 qi3 xie4 an1 。
 
 ## 注释
 

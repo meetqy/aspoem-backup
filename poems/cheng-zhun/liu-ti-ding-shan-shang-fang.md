@@ -6,10 +6,10 @@ titleSlug: liu-ti-ding-shan-shang-fang
 author: 程準
 authorPinyin: cheng2 zhun3
 authorSlug: cheng-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

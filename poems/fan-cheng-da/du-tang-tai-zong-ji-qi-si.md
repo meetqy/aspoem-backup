@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-du-tang-tai-zong-ji-qi-si
-title: 讀唐太宗紀・其四
-titlePinyin: du2 tang2 tai4 zong1 ji4・qi2 si4
+title: 讀唐太宗紀  其四
+titlePinyin: du2 tang2 tai4 zong1 ji4     qi2 si4
 titleSlug: du-tang-tai-zong-ji-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

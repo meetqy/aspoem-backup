@@ -9,18 +9,18 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 爣爣皎日，歘麗於天。
-- 厥明御舒，如王出焉。
+- 桓桓其珪，衮衮其衣。
+- 出作二伯，天子是毗。
 
 ## 拼音
 
-- tang3 tang3 jiao3 ri4 ， xu1 li2 wu1 tian1 。
-- jue2 ming2 yu4 shu1 ， ru2 wang2 chu1 yan1 。
+- huan2 huan2 qi2 gui1 ， gun3 gun3 qi2 yi1 。
+- chu1 zuo4 er4 bo2 ， tian1 zi3 shi4 pi2 。
 
 ## 注释
 

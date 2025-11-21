@@ -6,25 +6,25 @@ titleSlug: xia-ye-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 螢火喜暗庭，桐葉矜冷雨。
-- 幽人悄不寐，獨夜誰與處。
-- 乾坤信無情，歲月遽如許。
-- 明發視鏡中，鬢絲添幾縷。
+- 山崦風生鵩嘯悲，柴門月上樹陰移。
+- 熏衣汗雨初乾後，把卷蚊雷不動時。
+- 孤悶難禁終歲病，浮生易滿百年期。
+- 釣竿只待清秋近，一棹烟波信所之。
 
 ## 拼音
 
-- ying2 huo3 xi3 an4 ting2 ， tong2 ye4 jin1 leng3 yu3 。
-- you1 ren2 qiao1 bu2 mei4 ， du2 ye4 shui2 yu3 chu3 。
-- qian2 kun1 xin4 wu2 qing2 ， sui4 yue4 ju4 ru2 xu1 。
-- ming2 fa1 shi4 jing4 zhong1 ， bin4 si1 tian1 ji1 lü3 。
+- shan1 yan1 feng1 sheng1 fu2 xiao4 bei1 ， chai2 men2 yue4 shang4 shu4 yin1 yi2 。
+- xun1 yi1 han4 yu3 chu1 qian2 hou4 ， ba3 juan4 wen2 lei2 bu2 dong4 shi2 。
+- gu1 men4 nan2 jin4 zhong1 sui4 bing4 ， fu2 sheng1 yi4 man3 bai3 nian2 qi1 。
+- diao4 gan1 zhi1 dai4 qing1 qiu1 jin4 ， yi2 zhao4 yan1 bo1 xin4 suo3 zhi1 。
 
 ## 注释
 

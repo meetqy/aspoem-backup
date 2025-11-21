@@ -9,18 +9,18 @@ authorSlug: zhou-tan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 北伐匈奴事可悲，當時將相是其誰。
-- 君臣束手平城裏，三十萬兵能忍飢。
+- 重賦嚴刑作禍胎，豈知由此亂離媒。
+- 家傳揖讓亦難濟，況是身從傾篡來。
 
 ## 拼音
 
-- bei3 fa2 xiong1 nu2 shi4 ke3 bei1 ， dang1 shi2 jiang1 xiang1 shi4 qi2 shui2 。
-- jun1 chen2 shu4 shou3 ping2 cheng2 li3 ， san1 shi2 wan4 bing1 neng2 ren3 ji1 。
+- zhong4 fu4 yan2 xing2 zuo4 huo4 tai1 ， qi3 zhi1 you2 ci3 luan4 li2 mei2 。
+- jia1 chuan2 yi1 rang4 yi4 nan2 ji4 ， kuang4 shi4 shen1 cong2 qing1 cuan4 lai2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ju-qi-er
 author: 石仲元
 authorPinyin: shi2 zhong4 yuan2
 authorSlug: shi-zhong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

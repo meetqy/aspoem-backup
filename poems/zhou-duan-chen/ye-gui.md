@@ -6,10 +6,10 @@ titleSlug: ye-gui
 author: 周端臣
 authorPinyin: zhou1 duan1 chen2
 authorSlug: zhou-duan-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

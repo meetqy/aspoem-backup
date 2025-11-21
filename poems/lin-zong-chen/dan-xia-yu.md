@@ -6,10 +6,10 @@ titleSlug: dan-xia-yu
 author: 林宗臣
 authorPinyin: lin2 zong1 chen2
 authorSlug: lin-zong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

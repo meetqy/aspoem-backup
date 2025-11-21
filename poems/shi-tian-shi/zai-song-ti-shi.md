@@ -6,10 +6,10 @@ titleSlug: zai-song-ti-shi
 author: 釋天石
 authorPinyin: shi4 tian1 shi2
 authorSlug: shi-tian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

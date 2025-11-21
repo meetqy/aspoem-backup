@@ -1,30 +1,30 @@
 ---
 id: ye-yin-zi-shi
-title: 自適
+title: 自釋
 titlePinyin: zi4 shi4
 titleSlug: zi-shi
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 澹薄野人心，難教著利名。
-- 重農田舍熟，省事世情生。
-- 石老旗槍葉，池喧鼓吹聲。
-- 東風知此樂，飛絮蕩新晴。
+- 繁紅妒紫絢前林，杖策來棲花下陰。
+- 休道游情難似昔，可能他日尚如今。
+- 乍晴澗曲縈流水，未曉庭臯調野禽。
+- 畢竟老天憐老子，幽閒斷送一生心。
 
 ## 拼音
 
-- dan4 bao2 ye3 ren2 xin1 ， nan2 jiao4 zhu4 li4 ming2 。
-- zhong4 nong2 tian2 she4 shu2 ， sheng3 shi4 shi4 qing2 sheng1 。
-- shi2 lao3 qi2 qiang1 ye4 ， chi2 xuan1 gu3 chui1 sheng1 。
-- dong1 feng1 zhi1 ci3 le4 ， fei1 xu4 dang4 xin1 qing2 。
+- fan2 hong2 du4 zi3 xuan4 qian2 lin2 ， zhang4 ce4 lai2 qi1 hua1 xia4 yin1 。
+- xiu1 dao4 you2 qing2 nan2 si4 xi1 ， ke3 neng2 ta1 ri4 shang4 ru2 jin1 。
+- zha4 qing2 jian4 qu3 ying2 liu2 shui3 ， wei4 xiao3 ting2 gao1 diao4 ye3 qin2 。
+- bi4 jing4 lao3 tian1 lian2 lao3 zi3 ， you1 xian2 duan4 song4 yi4 sheng1 xin1 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-qiu-ri-za-xing-liu-shou-qi-san
-title: 秋日雜興六首・其三
-titlePinyin: qiu1 ri4 za2 xing1 liu4 shou3・qi2 san1
+title: 秋日雜興六首  其三
+titlePinyin: qiu1 ri4 za2 xing1 liu4 shou3     qi2 san1
 titleSlug: qiu-ri-za-xing-liu-shou-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

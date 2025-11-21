@@ -6,10 +6,10 @@ titleSlug: sui-han-ting-cheng-ti-zhu-zi-jing
 author: 王名遂
 authorPinyin: wang2 ming2 sui4
 authorSlug: wang-ming-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: qing-nan-lou-ju-shi-qi-si
 author: 周應合
 authorPinyin: zhou1 ying1 he2
 authorSlug: zhou-ying-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

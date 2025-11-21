@@ -6,10 +6,10 @@ titleSlug: ye-su-wu-yi-gong
 author: 彥修
 authorPinyin: yan4 xiu1
 authorSlug: yan-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

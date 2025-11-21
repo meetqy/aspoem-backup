@@ -6,10 +6,10 @@ titleSlug: nan-shan-shi-yuan-ji-ri-ji-er-shou-qi-yi
 author: 釋祖心
 authorPinyin: shi4 zu3 xin1
 authorSlug: shi-zu-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

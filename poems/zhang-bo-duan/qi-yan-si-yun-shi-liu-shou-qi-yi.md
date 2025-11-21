@@ -1,30 +1,30 @@
 ---
 id: zhang-bo-duan-qi-yan-si-yun-shi-liu-shou-qi-yi
-title: 七言四韵十六首  其一
-titlePinyin: qi1 yan2 si4 yun4 shi2 liu4 shou3     qi2 yi1
+title: 七言四韵十六首  其一○
+titlePinyin: qi1 yan2 si4 yun4 shi2 liu4 shou3     qi2 yi1 ○
 titleSlug: qi-yan-si-yun-shi-liu-shou-qi-yi
 author: 張伯端
 authorPinyin: zhang1 bo2 duan1
 authorSlug: zhang-bo-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不求大道出迷塗，縱負賢才豈丈夫。
-- 百歲光陰石火爍，一生身世水泡浮。
-- 只貪利祿求榮顯，不顧形容暗悴枯。
-- 試問堆金等山嶽，無常買得不來無。
+- 好把真鉛著意尋，莫教容易度光陰。
+- 但將地魄擒朱汞，自有天魂制水金。
+- 可謂道高龍虎伏，堪言德重鬼神欽。
+- 已知永壽齊天地，煩惱無由更上心。
 
 ## 拼音
 
-- bu4 qiu2 da4 dao4 chu1 mi2 tu2 ， zong4 fu4 xian2 cai2 qi3 zhang4 fu1 。
-- bai3 sui4 guang1 yin1 shi2 huo3 shuo4 ， yi4 sheng1 shen1 shi4 shui3 pao4 fu2 。
-- zhi1 tan1 li4 lu4 qiu2 rong2 xian3 ， bu2 gu4 xing2 rong2 an4 cui4 ku1 。
-- shi4 wen4 dui1 jin1 deng3 shan1 yue4 ， wu2 chang2 mai3 de2 bu4 lai2 wu2 。
+- hao3 ba3 zhen1 qian1 zhu4 yi4 xun2 ， mo4 jiao4 rong2 yi4 du4 guang1 yin1 。
+- dan4 jiang1 di4 po4 qin2 zhu1 gong3 ， zi4 you3 tian1 hun2 zhi4 shui3 jin1 。
+- ke3 wei4 dao4 gao1 long2 hu3 fu2 ， kan1 yan2 de2 zhong4 gui3 shen2 qin1 。
+- yi3 zhi1 yong3 shou4 qi2 tian1 di4 ， fan2 nao3 wu2 you2 geng4 shang4 xin1 。
 
 ## 注释
 

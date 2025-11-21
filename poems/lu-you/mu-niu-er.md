@@ -6,25 +6,25 @@ titleSlug: mu-niu-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南村牧牛兒，赤脚踏牛立。
-- 衣穿江風冷，笠敗山雨急。
-- 長陂望若遠，隘巷忽相及。
-- 兒歸牛入欄，烟火茆簷濕。
+- 溪深不須憂，吳牛自能浮。
+- 童兒踏牛背，安穩如乘舟。
+- 寒雨山陂遠，參差烟樹晚。
+- 聞笛翁出迎，兒歸牛入圈。
 
 ## 拼音
 
-- nan2 cun1 mu4 niu2 er2 ， chi4 jiao3 ta4 niu2 li4 。
-- yi1 chuan1 jiang1 feng1 leng3 ， li4 bai4 shan1 yu3 ji2 。
-- chang2 bei1 wang4 ruo4 yuan3 ， ai4 xiang4 hu1 xiang1 ji2 。
-- er2 gui1 niu2 ru4 lan2 ， yan1 huo3 mao2 yan2 shi1 。
+- xi1 shen1 bu4 xu1 you1 ， wu2 niu2 zi4 neng2 fu2 。
+- tong2 er2 ta4 niu2 bei4 ， an1 wen3 ru2 cheng2 zhou1 。
+- han2 yu3 shan1 bei1 yuan3 ， can1 cha4 yan1 shu4 wan3 。
+- wen2 di2 weng1 chu1 ying2 ， er2 gui1 niu2 ru4 quan1 。
 
 ## 注释
 

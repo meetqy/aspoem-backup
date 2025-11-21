@@ -6,10 +6,10 @@ titleSlug: cheng-feng-ji-ju-shi-hui-yao-shan-wen-shi-tou-jian-xing-cheng-fo-gong
 author: 釋宗杲
 authorPinyin: shi4 zong1 gao3
 authorSlug: shi-zong-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

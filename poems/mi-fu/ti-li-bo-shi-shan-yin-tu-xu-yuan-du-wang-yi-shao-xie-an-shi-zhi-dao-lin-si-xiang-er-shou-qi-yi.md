@@ -6,10 +6,10 @@ titleSlug: ti-li-bo-shi-shan-yin-tu-xu-yuan-du-wang-yi-shao-xie-an-shi-zhi-dao-l
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

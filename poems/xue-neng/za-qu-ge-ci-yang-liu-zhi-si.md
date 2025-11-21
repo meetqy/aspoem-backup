@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 暖風晴日斷浮埃，廢路新條發釣臺。
-- 處處輕輕可惆悵，後人攀處古人栽。
+- 狂似纖腰軟勝綿，自多情態更誰憐。
+- 遊人不折還堪恨，拋向橋邊與路邊。
 
 ## 拼音
 
-- nuan3 feng1 qing2 ri4 duan4 fu2 ai1 ， fei4 lu4 xin1 tiao2 fa1 diao4 tai2 。
-- chu3 chu3 qing1 qing1 ke3 chou2 chang4 ， hou4 ren2 pan1 chu3 gu3 ren2 zai1 。
+- kuang2 si4 xian1 yao1 ruan3 sheng4 mian2 ， zi4 duo1 qing2 tai4 geng4 shui2 lian2 。
+- you2 ren2 bu4 zhe2 huan2 kan1 hen4 ， pao1 xiang4 qiao2 bian1 yu3 lu4 bian1 。
 
 ## 注释
 

@@ -6,25 +6,29 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-jiu-qi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鉢飯糝桃花，釜羹烹野菜。
-- 喫了日烘烘，曝背茅簷下。
-- 佛法身心爛似泥，千聖眼覷無縫罅。
-- 吽吽，伎死禪和，喚起來打。
+- 覿體全彰，曾無覆藏。
+- 蟬聲集古寺，鳥影度寒塘。
+- 眼裏無筋，偷觀即瞎，耳中有竅，絕聽何傷。
+- 堪笑勤川孟八郎，不知諸佛出身處，錯摶量。
+- 薰風自南來，殿閣生微凉。
+- 引得傍人鬭熱荒，鵲石何曾解放光。
 
 ## 拼音
 
-- bo1 fan4 san3 tao2 hua1 ， fu3 geng1 peng1 ye3 cai4 。
-- chi1 le0 ri4 hong1 hong1 ， pu4 bei4 mao2 yan2 xia4 。
-- fo2 fa3 shen1 xin1 lan4 si4 ni2 ， qian1 sheng4 yan3 qu4 wu2 feng2 xia4 。
-- hong1 hong1 ， ji4 si3 shan4 he2 ， huan4 qi3 lai2 da3 。
+- di2 ti3 quan2 zhang1 ， ceng2 wu2 fu4 cang2 。
+- chan2 sheng1 ji2 gu3 si4 ， niao3 ying3 du4 han2 tang2 。
+- yan3 li3 wu2 jin1 ， tou1 guan1 ji2 xia1 ， er3 zhong1 you3 qiao4 ， jue2 ting1 he2 shang1 。
+- kan1 xiao4 qin2 chuan1 meng4 ba1 lang2 ， bu4 zhi1 zhu1 fo2 chu1 shen1 chu3 ， cuo4 tuan2 liang2 。
+- xun1 feng1 zi4 nan2 lai2 ， dian4 ge2 sheng1 wei1 liang2 。
+- yin3 de2 bang4 ren2 dou4 re4 huang1 ， que4 shi2 he2 ceng2 jie3 fang4 guang1 。
 
 ## 注释
 

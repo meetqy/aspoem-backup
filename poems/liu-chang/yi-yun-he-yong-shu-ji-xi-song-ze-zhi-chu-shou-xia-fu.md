@@ -6,10 +6,10 @@ titleSlug: yi-yun-he-yong-shu-ji-xi-song-ze-zhi-chu-shou-xia-fu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

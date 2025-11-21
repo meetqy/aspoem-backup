@@ -6,10 +6,10 @@ titleSlug: ba-shan-gu-shu-fan-pang-chuan-tie
 author: 柴中守
 authorPinyin: chai2 zhong1 shou3
 authorSlug: chai-zhong-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

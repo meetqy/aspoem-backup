@@ -1,26 +1,26 @@
 ---
 id: li-mi-xun-ci-yun-lang-zhong-di-jian-ji-qi-yi
-title: 次韻郎中弟見寄  其一
-titlePinyin: ci4 yun4 lang2 zhong1 di4 jian4 ji4     qi2 yi1
+title: 次韻郎中弟見寄  其一○
+titlePinyin: ci4 yun4 lang2 zhong1 di4 jian4 ji4     qi2 yi1 ○
 titleSlug: ci-yun-lang-zhong-di-jian-ji-qi-yi
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 筠溪岸上千竿竹，夢想猶疑玉笋斑。
-- 只欠吾家小居士，杖藜風雨亦來還。
+- 季子論才到履駒，十年不調可憐渠。
+- 自聞馬祖今非佛，不似潛夫但著書。
 
 ## 拼音
 
-- yun2 xi1 an4 shang4 qian1 gan1 zhu2 ， meng4 xiang3 you2 yi2 yu4 sun3 ban1 。
-- zhi1 qian4 wu2 jia1 xiao3 ju1 shi4 ， zhang4 li2 feng1 yu3 yi4 lai2 huan2 。
+- ji4 zi0 lun4 cai2 dao4 lü3 ju1 ， shi2 nian2 bu2 diao4 ke3 lian2 qu2 。
+- zi4 wen2 ma3 zu3 jin1 fei1 fo2 ， bu2 si4 qian2 fu1 dan4 zhu4 shu1 。
 
 ## 注释
 

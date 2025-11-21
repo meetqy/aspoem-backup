@@ -6,9 +6,9 @@ titleSlug: ti-shu-shan
 author: 周之翰
 authorPinyin: zhou1 zhi1 han4
 authorSlug: zhou-zhi-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

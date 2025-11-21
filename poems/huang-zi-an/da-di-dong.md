@@ -6,10 +6,10 @@ titleSlug: da-di-dong
 author: 黄子安
 authorPinyin: huang2 zi3 an1
 authorSlug: huang-zi-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

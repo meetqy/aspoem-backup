@@ -6,10 +6,10 @@ titleSlug: wang-yue-huai-yuan
 author: 張九齡
 authorPinyin: zhang1 jiu3 ling2
 authorSlug: zhang-jiu-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

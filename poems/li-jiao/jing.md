@@ -1,7 +1,7 @@
 ---
 id: li-jiao-jing
-title: 井
-titlePinyin: jing3
+title: 旌
+titlePinyin: jing1
 titleSlug: jing
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 玉甃談仙客，銅臺賞魏君。
-- 蜀都宵映火，杞國旦生雲。
-- 向日蓮花淨，含風李樹薰。
-- 已開千里國，還聚五星文。
+- 告善康莊側，求賢市肆中。
+- 擁麾分彩雉，持節曳丹虹。
+- 影麗天山雪，光搖朔塞風。
+- 方知美周政，抗斾賦車攻。
 
 ## 拼音
 
-- yu4 zhou4 tan2 xian1 ke4 ， tong2 tai2 shang3 wei4 jun1 。
-- shu3 du1 xiao1 ying4 huo3 ， qi3 guo2 dan4 sheng1 yun2 。
-- xiang4 ri4 lian2 hua1 jing4 ， han2 feng1 li3 shu4 xun1 。
-- yi3 kai1 qian1 li3 guo2 ， huan2 ju4 wu3 xing1 wen2 。
+- gao4 shan4 kang1 zhuang1 ce4 ， qiu2 xian2 shi4 si4 zhong1 。
+- yong1 hui1 fen1 cai3 zhi4 ， chi2 jie2 ye4 dan1 hong2 。
+- ying3 li2 tian1 shan1 xue3 ， guang1 yao2 shuo4 sai1 feng1 。
+- fang1 zhi1 mei3 zhou1 zheng4 ， kang4 pei4 fu4 ju1 gong1 。
 
 ## 注释
 

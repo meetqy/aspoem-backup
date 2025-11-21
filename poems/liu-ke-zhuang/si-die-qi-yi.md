@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-si-die-qi-yi
-title: 四疊  其一
-titlePinyin: si4 die2     qi2 yi1
+title: 四疊  其一○
+titlePinyin: si4 die2     qi2 yi1 ○
 titleSlug: si-die-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 帝恐先生歲晚貧，清晨頒瑞到幽人。
-- 巡簷已覺成銀屋，糝地猶堪作玉塵。
+- 典刑堪受百花朝，風致宜爲萬世標。
+- 齧雪節剛難屈膝，拈花妙法願埋腰。
 
 ## 拼音
 
-- di4 kong3 xian1 sheng1 sui4 wan3 pin2 ， qing1 chen2 ban1 rui4 dao4 you1 ren2 。
-- xun2 yan2 yi3 jue2 cheng2 yin2 wu1 ， san3 di4 you2 kan1 zuo4 yu4 chen2 。
+- dian3 xing2 kan1 shou4 bai3 hua1 chao2 ， feng1 zhi4 yi2 wei2 wan4 shi4 biao1 。
+- nie4 xue3 jie2 gang1 nan2 qu1 xi1 ， nian1 hua1 miao4 fa3 yuan4 mai2 yao1 。
 
 ## 注释
 

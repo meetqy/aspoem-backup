@@ -6,10 +6,10 @@ titleSlug: ti-qing-fen-ge
 author: 魯君貺
 authorPinyin: lu3 jun1 kuang4
 authorSlug: lu-jun-kuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

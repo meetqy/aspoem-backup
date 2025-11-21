@@ -6,10 +6,10 @@ titleSlug: wen-xiong-dao-cuan-zuo-shi-ji-zhi
 author: 張磻
 authorPinyin: zhang1 pan2
 authorSlug: zhang-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

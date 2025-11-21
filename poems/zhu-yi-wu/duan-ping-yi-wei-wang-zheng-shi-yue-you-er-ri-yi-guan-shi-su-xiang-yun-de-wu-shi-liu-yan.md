@@ -6,10 +6,10 @@ titleSlug: duan-ping-yi-wei-wang-zheng-shi-yue-you-er-ri-yi-guan-shi-su-xiang-yu
 author: 朱乙午
 authorPinyin: zhu1 yi3 wu3
 authorSlug: zhu-yi-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

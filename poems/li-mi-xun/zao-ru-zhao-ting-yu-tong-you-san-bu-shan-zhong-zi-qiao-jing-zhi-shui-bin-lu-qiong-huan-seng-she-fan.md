@@ -6,10 +6,10 @@ titleSlug: zao-ru-zhao-ting-yu-tong-you-san-bu-shan-zhong-zi-qiao-jing-zhi-shui-
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

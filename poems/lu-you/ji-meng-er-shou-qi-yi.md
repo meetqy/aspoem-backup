@@ -6,21 +6,21 @@ titleSlug: ji-meng-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 烏巾白紵憶當年，抵死尋春不自憐。
-- 憔悴劍南雙鬢改，夢中猶上暗門船。
+- 少日飛揚翰墨場，憶曾上疏動高皇。
+- 寧知老作功名夢，十萬全裝入晉陽。
 
 ## 拼音
 
-- wu1 jin1 bai2 zhu4 yi4 dang1 nian2 ， di3 si3 xun2 chun1 bu2 zi4 lian2 。
-- qiao2 cui4 jian4 nan2 shuang1 bin4 gai3 ， meng4 zhong1 you2 shang4 an4 men2 chuan2 。
+- shao3 ri4 fei1 yang2 han4 mo4 chang3 ， yi4 ceng2 shang4 shu1 dong4 gao1 huang2 。
+- ning2 zhi1 lao3 zuo4 gong1 ming2 meng4 ， shi2 wan4 quan2 zhuang1 ru4 jin4 yang2 。
 
 ## 注释
 

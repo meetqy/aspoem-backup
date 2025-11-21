@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-guo-bao-ying-xian-xin-kai-hu-shi-shou-qi-yi
-title: 過寶應縣新開湖十首  其一
-titlePinyin: guo4 bao3 ying1 xian4 xin1 kai1 hu2 shi2 shou3     qi2 yi1
+title: 過寶應縣新開湖十首  其一○
+titlePinyin: guo4 bao3 ying1 xian4 xin1 kai1 hu2 shi2 shou3     qi2 yi1 ○
 titleSlug: guo-bao-ying-xian-xin-kai-hu-shi-shou-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒裏船門不可開，試開一望興悠哉。
-- 空濛煙雨微茫樹，都向湖光外面來。
+- 五湖佳處是荒寒，却爲無山水更寬。
+- 歸去江南無此景，未須喫飯且來看。
 
 ## 拼音
 
-- han2 li3 chuan2 men2 bu4 ke3 kai1 ， shi4 kai1 yi2 wang4 xing1 you1 zai1 。
-- kong1 meng2 yan1 yu3 wei1 mang2 shu4 ， dou1 xiang4 hu2 guang1 wai4 mian4 lai2 。
+- wu3 hu2 jia1 chu3 shi4 huang1 han2 ， que4 wei2 wu2 shan1 shui3 geng4 kuan1 。
+- gui1 qu4 jiang1 nan2 wu2 ci3 jing3 ， wei4 xu1 chi1 fan4 qie3 lai2 kan4 。
 
 ## 注释
 

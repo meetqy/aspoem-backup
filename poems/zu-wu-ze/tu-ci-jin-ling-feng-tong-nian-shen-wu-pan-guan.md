@@ -6,10 +6,10 @@ titleSlug: tu-ci-jin-ling-feng-tong-nian-shen-wu-pan-guan
 author: 祖無擇
 authorPinyin: zu3 wu2 ze2
 authorSlug: zu-wu-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

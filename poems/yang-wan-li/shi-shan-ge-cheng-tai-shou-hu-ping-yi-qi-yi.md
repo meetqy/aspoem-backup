@@ -1,26 +1,26 @@
 ---
 id: yang-wan-li-shi-shan-ge-cheng-tai-shou-hu-ping-yi-qi-yi
-title: 十山歌呈太守胡平一  其一
-titlePinyin: shi2 shan1 ge1 cheng2 tai4 shou3 hu2 ping2 yi1     qi2 yi1
+title: 十山歌呈太守胡平一  其一○
+titlePinyin: shi2 shan1 ge1 cheng2 tai4 shou3 hu2 ping2 yi1     qi2 yi1 ○
 titleSlug: shi-shan-ge-cheng-tai-shou-hu-ping-yi-qi-yi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 豺虎深交雁鶩行，到官管取汝無妨。
-- 只將剽劫爲喧閙，喝放歸來儘陸梁。
+- 行人滿路喜歌呼，小盜何須辱廟謨。
+- 早箇使君歸鼎軸，爲禽頡利繫單于。
 
 ## 拼音
 
-- chai2 hu3 shen1 jiao1 yan4 wu4 xing2 ， dao4 guan1 guan3 qu3 ru3 wu2 fang2 。
-- zhi1 jiang1 piao1 jie2 wei2 xuan1 nao4 ， he1 fang4 gui1 lai2 jin3 lu4 liang2 。
+- xing2 ren2 man3 lu4 xi3 ge1 hu1 ， xiao3 dao4 he2 xu1 ru3 miao4 mo2 。
+- zao3 ge4 shi3 jun1 gui1 ding3 zhou2 ， wei2 qin2 jie2 li4 xi4 dan1 yu2 。
 
 ## 注释
 

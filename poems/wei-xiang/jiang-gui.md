@@ -6,25 +6,25 @@ titleSlug: jiang-gui
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 代期漸可數光陰，掉鞅歸時秋已深。
-- 籬菊正牽元亮眼，江鱸還動季鷹心。
-- 迎新送故人徒擾，興利除殘我不任。
-- 唯有溪山不辜方，未嘗曠日廢清吟。
+- 他鄉蔽訟改新年，事竟歸心頓釋然。
+- 坐厭簾間窺晝景，行將馬上看春天。
+- 無窮芳草含朝霧，幾許初花倚暮烟。
+- 長陌風光應漸好，覊懷朝夕付金鞭。
 
 ## 拼音
 
-- dai4 qi1 jian4 ke3 shu4 guang1 yin1 ， diao4 yang1 gui1 shi2 qiu1 yi3 shen1 。
-- li2 ju2 zheng4 qian1 yuan2 liang4 yan3 ， jiang1 lu2 huan2 dong4 ji4 ying1 xin1 。
-- ying2 xin1 song4 gu4 ren2 tu2 rao3 ， xing1 li4 chu2 can2 wo3 bu2 ren4 。
-- wei2 you3 xi1 shan1 bu4 gu1 fang1 ， wei4 chang2 kuang4 ri4 fei4 qing1 yin2 。
+- ta1 xiang1 bi4 song4 gai3 xin1 nian2 ， shi4 jing4 gui1 xin1 dun4 shi4 ran2 。
+- zuo4 yan4 lian2 jian4 kui1 zhou4 jing3 ， xing2 jiang1 ma3 shang4 kan4 chun1 tian1 。
+- wu2 qiong2 fang1 cao3 han2 chao2 wu4 ， ji1 xu1 chu1 hua1 yi3 mu4 yan1 。
+- chang2 mo4 feng1 guang1 ying1 jian4 hao3 ， ji1 huai2 zhao1 xi1 fu4 jin1 bian1 。
 
 ## 注释
 

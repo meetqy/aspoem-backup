@@ -6,9 +6,9 @@ titleSlug: luo-jiao-shou-bu-fu-zhen-sou-guan-li-hua-zhi-yue-yi-er-you-shi-ci-qi-
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

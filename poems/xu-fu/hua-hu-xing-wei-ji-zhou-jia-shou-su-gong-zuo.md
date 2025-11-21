@@ -6,10 +6,10 @@ titleSlug: hua-hu-xing-wei-ji-zhou-jia-shou-su-gong-zuo
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

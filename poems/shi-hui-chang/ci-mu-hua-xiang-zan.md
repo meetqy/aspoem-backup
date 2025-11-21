@@ -6,10 +6,10 @@ titleSlug: ci-mu-hua-xiang-zan
 author: 釋慧昌
 authorPinyin: shi4 hui4 chang1
 authorSlug: shi-hui-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

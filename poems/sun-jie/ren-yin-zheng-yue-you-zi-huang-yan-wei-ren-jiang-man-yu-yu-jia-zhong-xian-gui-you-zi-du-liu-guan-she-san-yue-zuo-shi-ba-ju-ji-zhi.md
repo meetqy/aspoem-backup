@@ -6,10 +6,10 @@ titleSlug: ren-yin-zheng-yue-you-zi-huang-yan-wei-ren-jiang-man-yu-yu-jia-zhong-
 author: 孫介
 authorPinyin: sun1 jie4
 authorSlug: sun-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

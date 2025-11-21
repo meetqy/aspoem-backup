@@ -6,9 +6,9 @@ titleSlug: lin-zhong-ji
 author: 釋淵
 authorPinyin: shi4 yuan1
 authorSlug: shi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

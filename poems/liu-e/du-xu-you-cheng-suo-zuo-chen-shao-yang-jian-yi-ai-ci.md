@@ -6,10 +6,10 @@ titleSlug: du-xu-you-cheng-suo-zuo-chen-shao-yang-jian-yi-ai-ci
 author: 劉鄂
 authorPinyin: liu2 e4
 authorSlug: liu-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

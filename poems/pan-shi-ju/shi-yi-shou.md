@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 潘時舉
 authorPinyin: pan1 shi2 ju3
 authorSlug: pan-shi-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

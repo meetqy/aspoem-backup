@@ -6,10 +6,10 @@ titleSlug: jia-xing-tai-xue
 author: 梁燾
 authorPinyin: liang2 dao4
 authorSlug: liang-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: xin-yue
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 臨風摇白羽，揖月問仙娥。
-- 底事偏懷恨，于人故歛蛾。
-- 眉頭已如此，眼底奈渠何。
-- 料得中秋夜，動人應更多。
+- 窺人半面出脩眉，斜傍船窗作意低。
+- 已被江妃偷畫得，一灣清影卧寒溪。
 
 ## 拼音
 
-- lin2 feng1 yao2 bai2 yu3 ， yi1 yue4 wen4 xian1 e2 。
-- di3 shi4 pian1 huai2 hen4 ， yu2 ren2 gu4 lian3 e2 。
-- mei2 tou2 yi3 ru2 ci3 ， yan3 di3 nai4 qu2 he2 。
-- liao4 de2 zhong1 qiu1 ye4 ， dong4 ren2 ying1 geng4 duo1 。
+- kui1 ren2 ban4 mian4 chu1 xiu1 mei2 ， xie2 bang4 chuan2 chuang1 zuo4 yi4 di1 。
+- yi3 bei4 jiang1 fei1 tou1 hua4 de2 ， yi4 wan1 qing1 ying3 wo4 han2 xi1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: yun-ji-ling
 author: 鄧肅
 authorPinyin: deng4 su4
 authorSlug: deng-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 狂直初無涉世才，雷公斥下九天來。
-- 面衝風雪吹三月，馬避干戈易四迴。
-- 带雪燒柴平體粟，瀝槽沽酒慰饑雷。
-- 如聞明日登閩嶺，茅舍春風夜滿懷。
+- 蒼蒼九萬里，拍塞雨天葩。
+- 雲際在天上，我去更携家。
+- 不知山高低，晶熒浩無涯。
+- 迴頭見侍香，濛濛隔瓊花。
 
 ## 拼音
 
-- kuang2 zhi2 chu1 wu2 she4 shi4 cai2 ， lei2 gong1 chi4 xia4 jiu3 tian1 lai2 。
-- mian4 chong1 feng1 xue3 chui1 san1 yue4 ， ma3 bi4 gan1 ge1 yi4 si4 hui2 。
-- dai4 xue3 shao1 chai2 ping2 ti3 su4 ， li4 cao2 gu1 jiu3 wei4 ji1 lei2 。
-- ru2 wen2 ming2 ri4 deng1 min3 ling3 ， mao2 she4 chun1 feng1 ye4 man3 huai2 。
+- cang1 cang1 jiu3 wan4 li3 ， pai1 sai1 yu3 tian1 pa1 。
+- yun2 ji4 zai4 tian1 shang4 ， wo3 qu4 geng4 xie2 jia1 。
+- bu4 zhi1 shan1 gao1 di1 ， jing1 ying2 hao4 wu2 ya2 。
+- hui2 tou2 jian4 shi4 xiang1 ， meng2 meng2 ge2 qiong2 hua1 。
 
 ## 注释
 

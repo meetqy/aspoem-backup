@@ -6,10 +6,10 @@ titleSlug: ou-de-jia-jiu-huai-yin-shao-ji-wen-qi-lian-ri-zhi-zhai-zai-tai-zuo-ch
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

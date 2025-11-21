@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 燈影看鬚黑，墻陰惜草青。
-- 歲闌悲物我，同是冒霜螢。
+- 國事皆須救未然，漢家高閣漫凌煙。
+- 功臣盡遣詞人贊，不省滄洲畫魯連。
 
 ## 拼音
 
-- deng1 ying3 kan4 xu1 hei1 ， qiang2 yin1 xi1 cao3 qing1 。
-- sui4 lan2 bei1 wu4 wo3 ， tong2 shi4 mao4 shuang1 ying2 。
+- guo2 shi4 jie1 xu1 jiu4 wei4 ran2 ， han4 jia1 gao1 ge2 man4 ling2 yan1 。
+- gong1 chen2 jin4 qian3 ci2 ren2 zan4 ， bu4 sheng3 cang1 zhou1 hua4 lu3 lian2 。
 
 ## 注释
 

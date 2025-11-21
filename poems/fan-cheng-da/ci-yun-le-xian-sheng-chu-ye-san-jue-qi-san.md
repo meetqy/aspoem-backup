@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-le-xian-sheng-chu-ye-san-jue-qi-san
-title: 次韻樂先生除夜三絕・其三
-titlePinyin: ci4 yun4 le4 xian1 sheng0 chu2 ye4 san1 jue2・qi2 san1
+title: 次韻樂先生除夜三絕  其三
+titlePinyin: ci4 yun4 le4 xian1 sheng0 chu2 ye4 san1 jue2     qi2 san1
 titleSlug: ci-yun-le-xian-sheng-chu-ye-san-jue-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

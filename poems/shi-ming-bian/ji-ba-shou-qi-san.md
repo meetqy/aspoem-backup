@@ -6,10 +6,10 @@ titleSlug: ji-ba-shou-qi-san
 author: 釋明辯
 authorPinyin: shi4 ming2 bian4
 authorSlug: shi-ming-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

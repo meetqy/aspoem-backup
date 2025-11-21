@@ -6,10 +6,10 @@ titleSlug: hua-guang-ren-shan-shi-yi-mo-xi-jian-ji-yi-xiao-shi-zhi-xie
 author: 陳瓘
 authorPinyin: chen2 guan4
 authorSlug: chen-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-yu-qian-zhong
 author: 吳江女子
 authorPinyin: wu2 jiang1 nü3 zi3
 authorSlug: wu-jiang-nu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: feng-huang-tai-qi-er
 author: 徐棫翁
 authorPinyin: xu2 yu4 weng1
 authorSlug: xu-yu-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

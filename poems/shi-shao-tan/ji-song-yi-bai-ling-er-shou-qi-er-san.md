@@ -6,25 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-er-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春日打春牛，一擊百雜碎。
-- 黄梅石女暗驚胎，生下無名物一塊。
-- 問四聖四聖不知，問六凡六凡不會。
-- 風前散作萬家春，賤似黄金貴似塵。
+- 出佛身血，破和合僧。
+- 馿腮馬頷，逞技矜能。
+- 堪笑靈山兒戲劇，聚頭爭看蠟人冰。
 
 ## 拼音
 
-- chun1 ri4 da3 chun1 niu2 ， yi4 ji1 bai3 za2 sui4 。
-- huang2 mei2 shi2 nü3 an4 jing1 tai1 ， sheng1 xia4 wu2 ming2 wu4 yi2 kuai4 。
-- wen4 si4 sheng4 si4 sheng4 bu4 zhi1 ， wen4 liu4 fan2 liu4 fan2 bu2 hui4 。
-- feng1 qian2 san4 zuo4 wan4 jia1 chun1 ， jian4 si4 huang2 jin1 gui4 si4 chen2 。
+- chu1 fo2 shen1 xue4 ， po4 he2 he2 seng1 。
+- lu2 sai1 ma3 han4 ， cheng3 ji4 jin1 neng2 。
+- kan1 xiao4 ling2 shan1 er2 xi4 ju4 ， ju4 tou2 zheng1 kan4 la4 ren2 bing1 。
 
 ## 注释
 

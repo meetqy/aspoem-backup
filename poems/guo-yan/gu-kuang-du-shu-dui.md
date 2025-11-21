@@ -6,10 +6,10 @@ titleSlug: gu-kuang-du-shu-dui
 author: 郭巖
 authorPinyin: guo1 yan2
 authorSlug: guo-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

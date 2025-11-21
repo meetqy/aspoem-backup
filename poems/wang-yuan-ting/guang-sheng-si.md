@@ -6,10 +6,10 @@ titleSlug: guang-sheng-si
 author: 王淵亭
 authorPinyin: wang2 yuan1 ting2
 authorSlug: wang-yuan-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

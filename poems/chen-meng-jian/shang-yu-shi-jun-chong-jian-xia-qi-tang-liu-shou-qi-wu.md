@@ -6,10 +6,10 @@ titleSlug: shang-yu-shi-jun-chong-jian-xia-qi-tang-liu-shou-qi-wu
 author: 陳夢建
 authorPinyin: chen2 meng4 jian4
 authorSlug: chen-meng-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

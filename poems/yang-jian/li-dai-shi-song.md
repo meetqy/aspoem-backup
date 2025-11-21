@@ -6,25 +6,27 @@ titleSlug: li-dai-shi-song
 author: 楊簡
 authorPinyin: yang2 jian3
 authorSlug: yang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宋武是劉裕，傳位從東晉。
-- 滎陽與文帝，遂傳武帝駿。
-- 前廢乃有明，後廢乃立順。
-- 八主六十年，蕭齊因繼運。
+- 太祖太宗兄授弟，兩派天源稱善繼。
+- 真宗嗣位及仁宗，以子傳孫皆聖裔。
+- 英宗有詔嗣濮王，次及神宗哲宗世。
+- 徽宗行道付欽宗，高宗南渡中興帝。
+- 孝宗之末嗣秀王，揖遜而朝誠鮮儼。
 
 ## 拼音
 
-- song4 wu3 shi4 liu2 yu4 ， chuan2 wei4 cong2 dong1 jin4 。
-- xing2 yang2 yu3 wen2 di4 ， sui4 chuan2 wu3 di4 jun4 。
-- qian2 fei4 nai3 you3 ming2 ， hou4 fei4 nai3 li4 shun4 。
-- ba1 zhu3 liu4 shi2 nian2 ， xiao1 qi2 yin1 ji4 yun4 。
+- tai4 zu3 tai4 zong1 xiong1 shou4 di4 ， liang3 pai4 tian1 yuan2 cheng1 shan4 ji4 。
+- zhen1 zong1 si4 wei4 ji2 ren2 zong1 ， yi3 zi3 chuan2 sun1 jie1 sheng4 yi4 。
+- ying1 zong1 you3 zhao4 si4 pu2 wang2 ， ci4 ji2 shen2 zong1 zhe2 zong1 shi4 。
+- hui1 zong1 xing2 dao4 fu4 qin1 zong1 ， gao1 zong1 nan2 du4 zhong1 xing1 di4 。
+- xiao4 zong1 zhi1 mo4 si4 xiu4 wang2 ， yi1 xun4 er2 chao2 cheng2 xian1 yan3 。
 
 ## 注释
 

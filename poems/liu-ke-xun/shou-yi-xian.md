@@ -6,10 +6,10 @@ titleSlug: shou-yi-xian
 author: 劉克遜
 authorPinyin: liu2 ke4 xun4
 authorSlug: liu-ke-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

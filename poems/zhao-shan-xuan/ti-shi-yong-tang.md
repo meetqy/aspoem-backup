@@ -6,10 +6,10 @@ titleSlug: ti-shi-yong-tang
 author: 趙善宣
 authorPinyin: zhao4 shan4 xuan1
 authorSlug: zhao-shan-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

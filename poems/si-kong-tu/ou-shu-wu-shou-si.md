@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 獨步荒郊暮，沉思遠墅幽。
-- 平生多少事，彈指一時休。
+- 上谷何曾解有情，有情人自惜君行。
+- 證因池上今生願，的的他生作化生。
 
 ## 拼音
 
-- du2 bu4 huang1 jiao1 mu4 ， chen2 si1 yuan3 shu4 you1 。
-- ping2 sheng1 duo1 shao3 shi4 ， dan4 zhi3 yi4 shi2 xiu1 。
+- shang4 gu3 he2 ceng2 jie3 you3 qing2 ， you3 qing2 ren2 zi4 xi1 jun1 xing2 。
+- zheng4 yin1 chi2 shang4 jin1 sheng1 yuan4 ， de0 de0 ta1 sheng1 zuo4 hua4 sheng1 。
 
 ## 注释
 

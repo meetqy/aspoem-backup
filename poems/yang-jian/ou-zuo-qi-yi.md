@@ -1,26 +1,26 @@
 ---
 id: yang-jian-ou-zuo-qi-yi
-title: 偶作  其一
-titlePinyin: ou3 zuo4     qi2 yi1
+title: 偶作  其一○
+titlePinyin: ou3 zuo4     qi2 yi1 ○
 titleSlug: ou-zuo-qi-yi
 author: 楊簡
 authorPinyin: yang2 jian3
 authorSlug: yang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此道元來即是心，人人拋去却求深。
-- 不知求却翻成外，若是吾心底用尋。
+- 囘心三月不違仁，已後元曾小失真。
+- 一片雪花輕著水，冥冥不復省漓醇。
 
 ## 拼音
 
-- ci3 dao4 yuan2 lai2 ji2 shi4 xin1 ， ren2 ren2 pao1 qu4 que4 qiu2 shen1 。
-- bu4 zhi1 qiu2 que4 fan1 cheng2 wai4 ， ruo4 shi4 wu2 xin1 di3 yong4 xun2 。
+- hui2 xin1 san1 yue4 bu4 wei2 ren2 ， yi3 hou4 yuan2 ceng2 xiao3 shi1 zhen1 。
+- yi2 pian4 xue3 hua1 qing1 zhu4 shui3 ， ming2 ming2 bu2 fu4 sheng3 li2 chun2 。
 
 ## 注释
 

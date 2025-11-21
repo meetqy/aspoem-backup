@@ -3,28 +3,32 @@ id: liu-zhi-guo-peng-ze
 title: 過彭澤
 titlePinyin: guo4 peng2 ze2
 titleSlug: guo-peng-ze
-author: 劉植
-authorPinyin: liu2 zhi2
+author: 劉摯
+authorPinyin: liu2 zhi4
 authorSlug: liu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 井邑已非舊，柴桑里尚存。
-- 春風三畝宅，落日數家村。
-- 隔樹聞鷄犬，編氓半子孫。
-- 頹然孤壠在，寒菊繞松根。
+- 孤舟倚彭澤，髙節懷淵明。
+- 缾粟曾幾許，忽歸無留情。
+- 士生于內外，貴識所重輕。
+- 山高暮寒聳，江闊春風平。
+- 弦歌絕遺響，秫田今誰耕。
+- 我方事奔走，嗚呼愧先生。
 
 ## 拼音
 
-- jing3 yi4 yi3 fei1 jiu4 ， chai2 sang1 li3 shang4 cun2 。
-- chun1 feng1 san1 mu3 zhai2 ， luo4 ri4 shu4 jia1 cun1 。
-- ge2 shu4 wen2 ji1 quan3 ， bian1 mang2 ban4 zi3 sun1 。
-- tui2 ran2 gu1 long3 zai4 ， han2 ju2 rao4 song1 gen1 。
+- gu1 zhou1 yi3 peng2 ze2 ， gao1 jie2 huai2 yuan1 ming2 。
+- ping2 su4 ceng2 ji1 xu1 ， hu1 gui1 wu2 liu2 qing2 。
+- shi4 sheng1 yu2 nei4 wai4 ， gui4 shi2 suo3 zhong4 qing1 。
+- shan1 gao1 mu4 han2 song3 ， jiang1 kuo4 chun1 feng1 ping2 。
+- xian2 ge1 jue2 yi2 xiang3 ， shu2 tian2 jin1 shui2 geng1 。
+- wo3 fang1 shi4 ben1 zou3 ， wu1 hu1 kui4 xian1 sheng0 。
 
 ## 注释
 

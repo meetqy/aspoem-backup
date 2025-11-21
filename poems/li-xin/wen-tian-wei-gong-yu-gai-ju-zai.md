@@ -6,25 +6,21 @@ titleSlug: wen-tian-wei-gong-yu-gai-ju-zai
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冷官廳外病陰陰，猶向西風擁鼻吟。
-- 梅福儘藏雲外宅，陶潛難老菊邊心。
-- 許因秋社前頭雨，分與東籬匝後金。
-- 待到重陽不開放，却收樽酒去相尋。
+- 曾泛黄花竹葉輕，更循籬下數繁英。
+- 主人已後荒三徑，狂客從前號四明。
 
 ## 拼音
 
-- leng3 guan1 ting1 wai4 bing4 yin1 yin1 ， you2 xiang4 xi1 feng1 yong1 bi2 yin2 。
-- mei2 fu2 jin3 cang2 yun2 wai4 zhai2 ， tao2 qian2 nan2 lao3 ju2 bian1 xin1 。
-- xu1 yin1 qiu1 she4 qian2 tou2 yu3 ， fen1 yu3 dong1 li2 za1 hou4 jin1 。
-- dai4 dao4 zhong4 yang2 bu4 kai1 fang4 ， que4 shou1 zun1 jiu3 qu4 xiang1 xun2 。
+- ceng2 fan4 huang2 hua1 zhu2 ye4 qing1 ， geng4 xun2 li2 xia4 shu4 fan2 ying1 。
+- zhu3 ren2 yi3 hou4 huang1 san1 jing4 ， kuang2 ke4 cong2 qian2 hao4 si4 ming2 。
 
 ## 注释
 

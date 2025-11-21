@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 周行獨力出群倫，默默昏昏亙古存。
-- 無象無形潛造化，有門有戶在乾坤。
-- 色非色際誰窮處，空不空中自得根。
-- 此道非從它外得，千言萬語謾評論。
+- 金丹一粒定長生，須得真鉛煉甲庚。
+- 火取南方赤鳳髓，水求北海黑龜精。
+- 鼎追四季中央合，藥遣三元八卦行。
+- 齋戒興功成九轉，定應入口鬼神驚。
 
 ## 拼音
 
-- zhou1 xing2 du2 li4 chu1 qun2 lun2 ， mo4 mo4 hun1 hun1 gen4 gu3 cun2 。
-- wu2 xiang4 wu2 xing2 qian2 zao4 hua4 ， you3 men2 you3 hu4 zai4 qian2 kun1 。
-- se4 fei1 se4 ji4 shui2 qiong2 chu3 ， kong1 bu0 kong1 zhong1 zi4 de2 gen1 。
-- ci3 dao4 fei1 cong2 ta1 wai4 de2 ， qian1 yan2 wan4 yu3 man2 ping2 lun4 。
+- jin1 dan1 yi2 li4 ding4 chang2 sheng1 ， xu1 de2 zhen1 qian1 lian4 jia3 geng1 。
+- huo3 qu3 nan2 fang1 chi4 feng4 sui3 ， shui3 qiu2 bei3 hai3 hei1 gui1 jing1 。
+- ding3 zhui1 si4 ji4 zhong1 yang1 he2 ， yao4 qian3 san1 yuan2 ba1 gua4 xing2 。
+- zhai1 jie4 xing1 gong1 cheng2 jiu3 zhuan3 ， ding4 ying1 ru4 kou3 gui3 shen2 jing1 。
 
 ## 注释
 

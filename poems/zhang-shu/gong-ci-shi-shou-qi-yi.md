@@ -1,26 +1,26 @@
 ---
 id: zhang-shu-gong-ci-shi-shou-qi-yi
-title: 宮詞十首  其一
-titlePinyin: gong1 ci2 shi2 shou3     qi2 yi1
+title: 宮詞十首  其一○
+titlePinyin: gong1 ci2 shi2 shou3     qi2 yi1 ○
 titleSlug: gong-ci-shi-shou-qi-yi
 author: 張樞
 authorPinyin: zhang1 shu1
 authorSlug: zhang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堯殿融春大宴開，山呼纔了樂聲催。
-- 侍臣宣勸君恩重，宰相親王對舉杯。
+- 紫閣深嚴邃殿西，書林飛白揭宸奎。
+- 黄封繳進昇平奏，直筆夫人看內批。
 
 ## 拼音
 
-- yao2 dian4 rong2 chun1 da4 yan4 kai1 ， shan1 hu1 cai2 le0 le4 sheng1 cui1 。
-- shi4 chen2 xuan1 quan4 jun1 en1 zhong4 ， zai3 xiang4 qin1 wang2 dui4 ju3 bei1 。
+- zi3 ge2 shen1 yan2 sui4 dian4 xi1 ， shu1 lin2 fei1 bai2 jie1 chen2 kui2 。
+- huang2 feng1 jiao3 jin4 sheng1 ping2 zou4 ， zhi2 bi3 fu1 ren2 kan4 nei4 pi1 。
 
 ## 注释
 

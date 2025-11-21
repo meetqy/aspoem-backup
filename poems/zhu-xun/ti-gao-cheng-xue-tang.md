@@ -6,10 +6,10 @@ titleSlug: ti-gao-cheng-xue-tang
 author: 祝勛
 authorPinyin: zhu4 xun1
 authorSlug: zhu-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

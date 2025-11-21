@@ -9,7 +9,7 @@ authorSlug: chen-cong-dao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

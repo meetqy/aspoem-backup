@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-dong-ye-du-ji-an-jian-za-shu-de-liu-yan-er-shi-shou-qi-er
-title: 冬夜讀几案間雜書得六言二十首  其二
-titlePinyin: dong1 ye4 du2 ji1 an4 jian4 za2 shu1 de2 liu4 yan2 er4 shi2 shou3     qi2 er4
+title: 冬夜讀几案間雜書得六言二十首  其二○
+titlePinyin: dong1 ye4 du2 ji1 an4 jian4 za2 shu1 de2 liu4 yan2 er4 shi2 shou3     qi2 er4 ○
 titleSlug: dong-ye-du-ji-an-jian-za-shu-de-liu-yan-er-shi-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 盤龍恨庾長史，太宰哀李崖州。
-- 達人能和大怨，壯士不報細讎。
+- 南朝有脂粉氣，李唐誇錦繡堆。
+- 接休文聲響去，夢太白脚板來。
 
 ## 拼音
 
-- pan2 long2 hen4 yu3 chang2 shi3 ， tai4 zai3 ai1 li3 ya2 zhou1 。
-- da2 ren2 neng2 he2 da4 yuan4 ， zhuang4 shi4 bu2 bao4 xi4 chou2 。
+- nan2 chao2 you3 zhi1 fen3 qi4 ， li3 tang2 kua1 jin3 xiu4 dui1 。
+- jie1 xiu1 wen2 sheng1 xiang3 qu4 ， meng4 tai4 bai2 jiao3 ban3 lai2 。
 
 ## 注释
 

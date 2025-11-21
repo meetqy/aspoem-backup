@@ -9,24 +9,18 @@ authorSlug: fu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 清淨明珠戒，莊嚴佛道塲。
-- 身作如來相，心爲般若王。
-- 願早登蓮座，口放大圓光。
-- 廣照無邊界，爲佛作橋梁。
-- 開大毘尼藏，名傳戒定香。
+- 凡地修聖道，果地習凡因。
+- 恒行無所踐，常度無度人。
 
 ## 拼音
 
-- qing1 jing4 ming2 zhu1 jie4 ， zhuang1 yan2 fo2 dao4 chang3 。
-- shen1 zuo4 ru2 lai2 xiang1 ， xin1 wei2 bo1 re3 wang2 。
-- yuan4 zao3 deng1 lian2 zuo4 ， kou3 fang4 da4 yuan2 guang1 。
-- guang3 zhao4 wu2 bian1 jie4 ， wei2 fo2 zuo4 qiao2 liang2 。
-- kai1 da4 pi2 ni2 cang2 ， ming2 chuan2 jie4 ding4 xiang1 。
+- fan2 di4 xiu1 sheng4 dao4 ， guo3 di4 xi2 fan2 yin1 。
+- heng2 xing2 wu2 suo3 jian4 ， chang2 du4 wu2 du4 ren2 。
 
 ## 注释
 

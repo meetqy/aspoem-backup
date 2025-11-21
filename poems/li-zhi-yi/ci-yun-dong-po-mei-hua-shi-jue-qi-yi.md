@@ -1,26 +1,26 @@
 ---
 id: li-zhi-yi-ci-yun-dong-po-mei-hua-shi-jue-qi-yi
-title: 次韵東坡梅花十絕  其一
-titlePinyin: ci4 yun4 dong1 po1 mei2 hua1 shi2 jue2     qi2 yi1
+title: 次韵東坡梅花十絕  其一○
+titlePinyin: ci4 yun4 dong1 po1 mei2 hua1 shi2 jue2     qi2 yi1 ○
 titleSlug: ci-yun-dong-po-mei-hua-shi-jue-qi-yi
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰人月下奏雲和，一夜繁枝向北多。
-- 長笛未須論舊恨，且留幽思待陰何。
+- 姑射山前舊卜家，天香真色倚風斜。
+- 不須薝蔔分高下，要是東皇第一花。
 
 ## 拼音
 
-- shui2 ren2 yue4 xia4 zou4 yun2 he2 ， yi2 ye4 fan2 zhi1 xiang4 bei3 duo1 。
-- chang2 di2 wei4 xu1 lun4 jiu4 hen4 ， qie3 liu2 you1 si1 dai4 yin1 he2 。
+- gu1 she4 shan1 qian2 jiu4 bu3 jia1 ， tian1 xiang1 zhen1 se4 yi3 feng1 xie2 。
+- bu4 xu1 zhan1 bo0 fen1 gao1 xia4 ， yao4 shi0 dong1 huang2 di4 yi1 hua1 。
 
 ## 注释
 

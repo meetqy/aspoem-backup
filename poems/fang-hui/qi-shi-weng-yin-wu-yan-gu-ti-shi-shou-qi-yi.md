@@ -1,38 +1,38 @@
 ---
 id: fang-hui-qi-shi-weng-yin-wu-yan-gu-ti-shi-shou-qi-yi
-title: 七十翁吟五言古體十首  其一
-titlePinyin: qi1 shi2 weng1 yin2 wu3 yan2 gu3 ti3 shi2 shou3     qi2 yi1
+title: 七十翁吟五言古體十首  其一○
+titlePinyin: qi1 shi2 weng1 yin2 wu3 yan2 gu3 ti3 shi2 shou3     qi2 yi1 ○
 titleSlug: qi-shi-weng-yin-wu-yan-gu-ti-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無妻牧犢子，带索榮啟期。
-- 予亦年七十，幸猶未至茲。
-- 頗亦似陶翁，粗有五男兒。
-- 乃父休官早，致汝恒苦饑。
-- 掛冠六七閏，方當掛冠時。
-- 治生了無策，惟耽酒與詩。
-- 室人愧交讁，雖壽夫奚爲。
-- 後死信無益，固窮諒何悲。
+- 世短心徒長，日暮道更遠。
+- 偶榮匪運泰，驟落非命蹇。
+- 王侯死無葬，將相謫不返。
+- 賤窮齒禿缺，尚許噉糲飯。
+- 配享宣尼廟，文學可商偃。
+- 云何從祀廡，傳註王鄭混。
+- 平生三萬卷，晚節葉糞本。
+- 外華已焉哉，襏襫謝公衮。
 
 ## 拼音
 
-- wu2 qi1 mu4 du2 zi3 ， dai4 suo3 rong2 qi3 qi1 。
-- yu3 yi4 nian2 qi1 shi2 ， xing4 you2 wei4 zhi4 zi1 。
-- po1 yi4 si4 tao2 weng1 ， cu1 you3 wu3 nan2 er2 。
-- nai3 fu4 xiu1 guan1 zao3 ， zhi4 ru3 heng2 ku3 ji1 。
-- gua4 guan1 liu4 qi1 run4 ， fang1 dang1 gua4 guan1 shi2 。
-- zhi4 sheng1 le0 wu2 ce4 ， wei2 dan1 jiu3 yu3 shi1 。
-- shi4 ren2 kui4 jiao1 zhe2 ， sui1 shou4 fu1 xi1 wei2 。
-- hou4 si3 xin4 wu2 yi4 ， gu4 qiong2 liang4 he2 bei1 。
+- shi4 duan3 xin1 tu2 chang2 ， ri4 mu4 dao4 geng4 yuan3 。
+- ou3 rong2 fei3 yun4 tai4 ， zhou4 luo4 fei1 ming4 jian3 。
+- wang2 hou2 si3 wu2 zang4 ， jiang1 xiang1 zhe2 bu4 fan3 。
+- jian4 qiong2 chi3 tu1 que1 ， shang4 xu1 dan4 li4 fan4 。
+- pei4 xiang3 xuan1 ni2 miao4 ， wen2 xue2 ke3 shang1 yan3 。
+- yun2 he2 cong2 si4 wu3 ， chuan2 zhu4 wang2 zheng4 hun4 。
+- ping2 sheng1 san1 wan4 juan4 ， wan3 jie2 ye4 fen4 ben3 。
+- wai4 hua2 yi3 yan1 zai1 ， bo2 shi4 xie4 gong1 gun3 。
 
 ## 注释
 

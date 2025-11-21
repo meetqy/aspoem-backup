@@ -6,10 +6,10 @@ titleSlug: jia-ding-jia-shen-yi-li-bu-shang-shu-de-qing-bian-dao-huan-jia-zuo-ci
 author: 崔與之
 authorPinyin: cui1 yu3 zhi1
 authorSlug: cui-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

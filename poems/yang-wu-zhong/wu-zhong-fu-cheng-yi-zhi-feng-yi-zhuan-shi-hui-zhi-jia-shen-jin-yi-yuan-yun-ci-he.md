@@ -6,10 +6,10 @@ titleSlug: wu-zhong-fu-cheng-yi-zhi-feng-yi-zhuan-shi-hui-zhi-jia-shen-jin-yi-yu
 author: 楊武仲
 authorPinyin: yang2 wu3 zhong4
 authorSlug: yang-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

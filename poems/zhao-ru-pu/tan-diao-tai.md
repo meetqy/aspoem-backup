@@ -6,10 +6,10 @@ titleSlug: tan-diao-tai
 author: 趙汝普
 authorPinyin: zhao4 ru3 pu3
 authorSlug: zhao-ru-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

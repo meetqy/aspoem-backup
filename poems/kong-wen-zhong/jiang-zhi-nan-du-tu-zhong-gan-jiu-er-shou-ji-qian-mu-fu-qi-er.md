@@ -6,10 +6,10 @@ titleSlug: jiang-zhi-nan-du-tu-zhong-gan-jiu-er-shou-ji-qian-mu-fu-qi-er
 author: 孔文仲
 authorPinyin: kong3 wen2 zhong4
 authorSlug: kong-wen-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

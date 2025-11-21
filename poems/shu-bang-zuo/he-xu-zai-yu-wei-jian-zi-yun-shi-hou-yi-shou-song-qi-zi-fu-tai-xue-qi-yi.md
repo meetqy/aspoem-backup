@@ -6,10 +6,10 @@ titleSlug: he-xu-zai-yu-wei-jian-zi-yun-shi-hou-yi-shou-song-qi-zi-fu-tai-xue-qi
 author: 舒邦佐
 authorPinyin: shu1 bang1 zuo3
 authorSlug: shu-bang-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

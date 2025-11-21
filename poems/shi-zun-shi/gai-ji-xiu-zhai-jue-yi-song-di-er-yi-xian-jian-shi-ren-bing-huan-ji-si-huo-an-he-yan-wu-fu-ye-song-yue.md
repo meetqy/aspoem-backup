@@ -6,10 +6,10 @@ titleSlug: gai-ji-xiu-zhai-jue-yi-song-di-er-yi-xian-jian-shi-ren-bing-huan-ji-s
 author: 釋遵式
 authorPinyin: shi4 zun1 shi4
 authorSlug: shi-zun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

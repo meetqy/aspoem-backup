@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-tian-ning-wan-nian-shan-yuan
 author: 孫旦
 authorPinyin: sun1 dan4
 authorSlug: sun-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

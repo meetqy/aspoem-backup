@@ -6,25 +6,25 @@ titleSlug: ye-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 齒牙摇動鬢毛疏，四壁蕭然卧草廬。
-- 急雨聲酣戰叢竹，孤燈焰短伴殘書。
-- 壯心未減從戎日，苦學猶如覓舉初。
-- 自笑堅頑誰得似，同儕太半已丘墟。
+- 正看飛雪暗江天，不覺新春已粲然。
+- 花氣襲人娛獨夜，雨聲繞舍送豐年。
+- 樵風未改山川舊，禊事空悲歲月遷。
+- 一榼可營身尚健，故應先治下湖船。
 
 ## 拼音
 
-- chi3 ya2 yao2 dong4 bin4 mao2 shu1 ， si4 bi4 xiao1 ran2 wo4 cao3 lu2 。
-- ji2 yu3 sheng1 han1 zhan4 cong2 zhu2 ， gu1 deng1 yan4 duan3 ban4 can2 shu1 。
-- zhuang4 xin1 wei4 jian3 cong2 rong2 ri4 ， ku3 xue2 you2 ru2 mi4 ju3 chu1 。
-- zi4 xiao4 jian1 wan2 shui2 de2 si4 ， tong2 chai2 tai4 ban4 yi3 qiu1 xu1 。
+- zheng4 kan4 fei1 xue3 an4 jiang1 tian1 ， bu4 jue2 xin1 chun1 yi3 can4 ran2 。
+- hua1 qi4 xi2 ren2 yu2 du2 ye4 ， yu3 sheng1 rao4 she4 song4 feng1 nian2 。
+- qiao2 feng1 wei4 gai3 shan1 chuan1 jiu4 ， xi4 shi4 kong1 bei1 sui4 yue4 qian1 。
+- yi4 ke1 ke3 ying2 shen1 shang4 jian4 ， gu4 ying1 xian1 zhi4 xia4 hu2 chuan2 。
 
 ## 注释
 

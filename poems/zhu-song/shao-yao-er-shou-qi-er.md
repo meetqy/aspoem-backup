@@ -6,21 +6,21 @@ titleSlug: shao-yao-er-shou-qi-er
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 舞困春風睡思深，東君更與纏腰金。
-- 頹簷醉尉花應笑，那有當年幕客心。
+- 已分春光冉冉過，奇葩好在奈愁何。
+- 誰令玉頰紅成點，如意痕深琥珀多。
 
 ## 拼音
 
-- wu3 kun4 chun1 feng1 shui4 si1 shen1 ， dong1 jun1 geng4 yu3 chan2 yao1 jin1 。
-- tui2 yan2 zui4 wei4 hua1 ying1 xiao4 ， na4 you3 dang1 nian2 mu4 ke4 xin1 。
+- yi3 fen1 chun1 guang1 ran3 ran3 guo4 ， qi2 pa1 hao3 zai4 nai4 chou2 he2 。
+- shui2 ling4 yu4 jia2 hong2 cheng2 dian3 ， ru2 yi4 hen2 shen1 hu3 po4 duo1 。
 
 ## 注释
 

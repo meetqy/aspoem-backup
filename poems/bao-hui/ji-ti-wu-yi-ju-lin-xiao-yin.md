@@ -6,10 +6,10 @@ titleSlug: ji-ti-wu-yi-ju-lin-xiao-yin
 author: 包恢
 authorPinyin: bao1 hui1
 authorSlug: bao-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

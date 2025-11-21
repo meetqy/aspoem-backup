@@ -6,10 +6,10 @@ titleSlug: ku-zhao-mao-fa
 author: 池州府學生
 authorPinyin: chi2 zhou1 fu3 xue2 sheng1
 authorSlug: chi-zhou-fu-xue-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,33 +6,25 @@ titleSlug: song-shi-dao-di-diao-xuan
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人生重五馬，亦須在中州。
-- 若弟虛慕名，不憚南荒陬。
-- 何如貳近郡，責輕俸仍優。
-- 親老可近侍，取廉不嫌求。
-- 勿信他人語，只足企前脩。
-- 我衰又多病，卧家將四秋。
-- 小池有芰荷，遲子來共遊。
-- 作詩送行李，勇返勿悠悠。
+- 三年試邑似從軍，救過何心望策勳。
+- 但得當時無愧怍，便知後日有芳芬。
+- 身名莫嘆行將老，學業由來進在勤。
+- 子到長安謹交友，杜門切勿混蕕薰。
 
 ## 拼音
 
-- ren2 sheng1 zhong4 wu3 ma3 ， yi4 xu1 zai4 zhong1 zhou1 。
-- ruo4 di4 xu1 mu4 ming2 ， bu2 dan4 nan2 huang1 zou1 。
-- he2 ru2 er4 jin4 jun4 ， ze2 qing1 feng4 reng2 you1 。
-- qin1 lao3 ke3 jin4 shi4 ， qu3 lian2 bu4 xian2 qiu2 。
-- wu4 xin4 ta1 ren2 yu3 ， zhi1 zu2 qi3 qian2 xiu1 。
-- wo3 shuai1 you4 duo1 bing4 ， wo4 jia1 jiang1 si4 qiu1 。
-- xiao3 chi2 you3 ji4 he2 ， chi2 zi3 lai2 gong4 you2 。
-- zuo4 shi1 song4 xing2 li0 ， yong3 fan3 wu4 you1 you1 。
+- san1 nian2 shi4 yi4 si4 cong2 jun1 ， jiu4 guo4 he2 xin1 wang4 ce4 xun1 。
+- dan4 de2 dang1 shi2 wu2 kui4 zuo4 ， bian4 zhi1 hou4 ri4 you3 fang1 fen1 。
+- shen1 ming2 mo4 tan4 xing2 jiang1 lao3 ， xue2 ye4 you2 lai2 jin4 zai4 qin2 。
+- zi3 dao4 chang2 an1 jin3 jiao1 you3 ， du4 men2 qie4 wu4 hun4 you2 xun1 。
 
 ## 注释
 

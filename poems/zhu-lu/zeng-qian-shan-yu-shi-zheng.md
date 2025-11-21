@@ -6,10 +6,10 @@ titleSlug: zeng-qian-shan-yu-shi-zheng
 author: 朱履
 authorPinyin: zhu1 lü3
 authorSlug: zhu-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

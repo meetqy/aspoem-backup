@@ -6,10 +6,10 @@ titleSlug: ti-wang-shi-xiao-yuan
 author: 唐從龍
 authorPinyin: tang2 cong2 long2
 authorSlug: tang-cong-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

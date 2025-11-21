@@ -6,10 +6,10 @@ titleSlug: di-yi-shan
 author: 顔師魯
 authorPinyin: yan2 shi1 lu3
 authorSlug: yan-shi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

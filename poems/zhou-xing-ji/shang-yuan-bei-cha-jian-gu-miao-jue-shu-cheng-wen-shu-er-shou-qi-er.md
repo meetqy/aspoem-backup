@@ -6,10 +6,10 @@ titleSlug: shang-yuan-bei-cha-jian-gu-miao-jue-shu-cheng-wen-shu-er-shou-qi-er
 author: 周行己
 authorPinyin: zhou1 xing2 ji3
 authorSlug: zhou-xing-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

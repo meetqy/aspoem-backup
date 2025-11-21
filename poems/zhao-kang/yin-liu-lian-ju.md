@@ -6,10 +6,10 @@ titleSlug: yin-liu-lian-ju
 author: 趙抗
 authorPinyin: zhao4 kang4
 authorSlug: zhao-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

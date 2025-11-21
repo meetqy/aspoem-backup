@@ -6,10 +6,10 @@ titleSlug: ti-jiu-xian-gong
 author: 龔伯摴
 authorPinyin: gong1 bo2 chu1
 authorSlug: gong-bo-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

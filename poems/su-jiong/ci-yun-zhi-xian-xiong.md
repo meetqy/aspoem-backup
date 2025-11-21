@@ -6,25 +6,21 @@ titleSlug: ci-yun-zhi-xian-xiong
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋聲物物類歌豳，旋轉天機屬大鈞。
-- 一雨薦凉全却暑，兩湖添綠不生塵。
-- 黄花又近重陽酒，白髮長思五柳人。
-- 急喚西風與湔洗，恨無好句逐時新。
+- 露坐僊人餐沆瀣，水行漁父燭鬚眉。
+- 民間闔戶紛紛是，如此清凉睡不知。
 
 ## 拼音
 
-- qiu1 sheng1 wu4 wu4 lei4 ge1 bin1 ， xuan2 zhuan3 tian1 ji1 shu3 da4 jun1 。
-- yi4 yu3 jian4 liang2 quan2 que4 shu3 ， liang3 hu2 tian1 lü4 bu4 sheng1 chen2 。
-- huang2 hua1 you4 jin4 zhong4 yang2 jiu3 ， bai2 fa4 chang2 si1 wu3 liu3 ren2 。
-- ji2 huan4 xi1 feng1 yu3 jian1 xi3 ， hen4 wu2 hao3 ju4 zhu2 shi2 xin1 。
+- lu4 zuo4 xian1 ren2 can1 hang4 xie4 ， shui3 xing2 yu2 fu4 zhu2 xu1 mei2 。
+- min2 jian4 he2 hu4 fen1 fen1 shi4 ， ru2 ci3 qing1 liang2 shui4 bu4 zhi1 。
 
 ## 注释
 

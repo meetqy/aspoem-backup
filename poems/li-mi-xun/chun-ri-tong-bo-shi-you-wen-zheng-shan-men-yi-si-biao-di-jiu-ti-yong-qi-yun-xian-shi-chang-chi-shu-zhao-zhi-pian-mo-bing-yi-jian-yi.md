@@ -6,10 +6,10 @@ titleSlug: chun-ri-tong-bo-shi-you-wen-zheng-shan-men-yi-si-biao-di-jiu-ti-yong-
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

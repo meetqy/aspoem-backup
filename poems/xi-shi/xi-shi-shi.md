@@ -9,18 +9,18 @@ authorSlug: xi-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 高花巖外曉相鮮，幽鳥雨中啼不歇。
-- 紅雲飛過大江西，從此人間怨風月。
+- 雲霞出沒羣峰外，鷗鳥浮沈一水間。
+- 一自越兵齊振地，夢魂不到虎丘山。
 
 ## 拼音
 
-- gao1 hua1 yan2 wai4 xiao3 xiang1 xian1 ， you1 niao3 yu3 zhong1 ti2 bu4 xie1 。
-- hong2 yun2 fei1 guo4 da4 jiang1 xi1 ， cong2 ci3 ren2 jian4 yuan4 feng1 yue4 。
+- yun2 xia2 chu1 mei2 qun2 feng1 wai4 ， ou1 niao3 fu2 shen3 yi4 shui3 jian4 。
+- yi2 zi4 yue4 bing1 qi2 zhen4 di4 ， meng4 hun2 bu2 dao4 hu3 qiu1 shan1 。
 
 ## 注释
 

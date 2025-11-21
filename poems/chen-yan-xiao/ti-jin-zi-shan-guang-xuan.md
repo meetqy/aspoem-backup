@@ -6,10 +6,10 @@ titleSlug: ti-jin-zi-shan-guang-xuan
 author: 陳巖肖
 authorPinyin: chen2 yan2 xiao4
 authorSlug: chen-yan-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,25 @@ titleSlug: wu-ti
 author: 許景衡
 authorPinyin: xu1 jing3 heng2
 authorSlug: xu-jing-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 功名等戯劇，俗眼自驚詫。
-- 詩酒有真味，多應知者寡。
-- 甞聞歐陽子，風月本無價。
-- 今我貧到骨，懸磬比居舍。
-- 就使一錢直，在我已不暇。
-- 故知造化意，特用相慰藉。
+- 台奴初學語，丹子已能行。
+- 問叔今何處，嗔爺太懶生。
+- 會令主門户，豈復意功名。
+- 坐對江湖晚，横塘舟自横。
 
 ## 拼音
 
-- gong1 ming2 deng3 xi4 ju4 ， su2 yan3 zi4 jing1 cha4 。
-- shi1 jiu3 you3 zhen1 wei4 ， duo1 ying1 zhi1 zhe3 gua3 。
-- chang2 wen2 ou1 yang2 zi3 ， feng1 yue4 ben3 wu2 jia4 。
-- jin1 wo3 pin2 dao4 gu3 ， xuan2 qing4 bi3 ju1 she4 。
-- jiu4 shi3 yi4 qian2 zhi2 ， zai4 wo3 yi3 bu4 xia2 。
-- gu4 zhi1 zao4 hua4 yi4 ， te4 yong4 xiang1 wei4 jie4 。
+- tai2 nu2 chu1 xue2 yu3 ， dan1 zi3 yi3 neng2 xing2 。
+- wen4 shu1 jin1 he2 chu3 ， chen1 ye2 tai4 lan3 sheng1 。
+- hui4 ling4 zhu3 men2 hu4 ， qi3 fu4 yi4 gong1 ming2 。
+- zuo4 dui4 jiang1 hu2 wan3 ， heng2 tang2 zhou1 zi4 heng2 。
 
 ## 注释
 

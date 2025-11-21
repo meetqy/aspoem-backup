@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-gong-ci-qi-er
-title: 宮詞  其二
-titlePinyin: gong1 ci2     qi2 er4
+title: 宮詞  其二○
+titlePinyin: gong1 ci2     qi2 er4 ○
 titleSlug: gong-ci-qi-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 御溝春水綠濺濺，曲沼迴波四接連。
-- 環碧下臨方鑑靜，遊魚跳躍浪痕圓。
+- 初夏圓荷點翠錢，螭頭清溜玉濺濺。
+- 惜芳歸處隨雕輦，半醉嬪嬙墮珥鈿。
 
 ## 拼音
 
-- yu4 gou1 chun1 shui3 lü4 jian4 jian4 ， qu3 zhao3 hui2 bo1 si4 jie1 lian2 。
-- huan2 bi4 xia4 lin2 fang1 jian4 jing4 ， you2 yu2 tiao4 yue4 lang4 hen2 yuan2 。
+- chu1 xia4 yuan2 he2 dian3 cui4 qian2 ， chi1 tou2 qing1 liu1 yu4 jian4 jian4 。
+- xi1 fang1 gui1 chu3 sui2 diao1 nian3 ， ban4 zui4 pin2 qiang2 duo4 er3 dian4 。
 
 ## 注释
 

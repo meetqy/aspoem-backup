@@ -15,12 +15,10 @@ tags: []
 ## 正文
 
 - 今朝湖上送春歸，萬頃澄波照白髭。
-- 笑折殘花勸君酒，金丹成熟是何時。
 
 ## 拼音
 
-- jin1 chao2 hu2 shang4 song4 chun1 gui1 ， wan4 qing3 cheng2 bo1 zhao4 bai2 zi1 。
-- xiao4 zhe2 can2 hua1 quan4 jun1 jiu3 ， jin1 dan1 cheng2 shu2 shi4 he2 shi2 。
+- jin1 zhao1 hu2 shang4 song4 chun1 gui1 ， wan4 qing3 cheng2 bo1 zhao4 bai2 zi1 。
 
 ## 注释
 

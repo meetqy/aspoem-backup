@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-si
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蹴踘鞵尖塵不涴，臂鷹袖窄樣新裁。
-- 社中年少相容否，也待鮮衣染鬢來。
+- 事國嘗陳力，明農晚乞骸。
+- 擊鮮兒勿費，執醤老難偕。
+- 僅可從沮溺，安能望賜回。
+- 幾曾識奇字，門外客休來。
 
 ## 拼音
 
-- cu4 ju1 xie2 jian1 chen2 bu2 wo4 ， bi4 ying1 xiu4 zhai3 yang4 xin1 cai2 。
-- she4 zhong1 nian2 shao4 xiang1 rong2 fou3 ， ye3 dai4 xian1 yi1 ran3 bin4 lai2 。
+- shi4 guo2 chang2 chen2 li4 ， ming2 nong2 wan3 qi3 hai2 。
+- ji1 xian1 er2 wu4 fei4 ， zhi2 jiang4 lao3 nan2 xie2 。
+- jin3 ke3 cong2 ju3 ni4 ， an1 neng2 wang4 ci4 hui2 。
+- ji1 ceng2 shi2 qi2 zi4 ， men2 wai4 ke4 xiu1 lai2 。
 
 ## 注释
 

@@ -1,28 +1,26 @@
 ---
 id: shi-zhi-yu-song-gu-yi-bai-shou-qi-ba
-title: 頌古一百首  其八
-titlePinyin: song4 gu3 yi4 bai3 shou3     qi2 ba1
+title: 頌古一百首  其八○
+titlePinyin: song4 gu3 yi4 bai3 shou3     qi2 ba1 ○
 titleSlug: song-gu-yi-bai-shou-qi-ba
 author: 釋智愚
 authorPinyin: shi4 zhi4 yu2
 authorSlug: shi-zhi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石潤非玉，水麗非金。
-- 大禹决而西泝，卞和泣而陸沈。
-- 美兮渺兮，錯古礱今。
+- 望見剎竿回首去，脚跟三十謾輕酬。
+- 人言閬苑花千樹，不直仙家十二樓。
 
 ## 拼音
 
-- shi2 run4 fei1 yu4 ， shui3 li2 fei1 jin1 。
-- da4 yu3 jue2 er2 xi1 su4 ， bian4 he2 qi4 er2 lu4 shen3 。
-- mei3 xi1 miao3 xi1 ， cuo4 gu3 long2 jin1 。
+- wang4 jian4 cha4 gan1 hui2 shou3 qu4 ， jiao3 gen1 san1 shi2 man2 qing1 chou2 。
+- ren2 yan2 lang4 yuan4 hua1 qian1 shu4 ， bu4 zhi2 xian1 jia1 shi2 er4 lou2 。
 
 ## 注释
 

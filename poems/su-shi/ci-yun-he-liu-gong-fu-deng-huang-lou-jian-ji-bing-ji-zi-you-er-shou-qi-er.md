@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-liu-gong-fu-deng-huang-lou-jian-ji-bing-ji-zi-you-er-shou-q
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

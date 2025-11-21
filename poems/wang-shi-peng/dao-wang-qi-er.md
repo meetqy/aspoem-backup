@@ -6,21 +6,21 @@ titleSlug: dao-wang-qi-er
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不見音容忽三月，無從涕泗已千行。
-- 家山準擬欲歸隠，堪嘆相隨無孟光。
+- 相勉惟清白，囊如四壁空。
+- 難忘將絕語，勸我莫言窮。
 
 ## 拼音
 
-- bu2 jian4 yin1 rong2 hu1 san1 yue4 ， wu2 cong2 ti4 si4 yi3 qian1 xing2 。
-- jia1 shan1 zhun3 ni3 yu4 gui1 yin3 ， kan1 tan4 xiang1 sui2 wu2 meng4 guang1 。
+- xiang1 mian3 wei2 qing1 bai2 ， nang2 ru2 si4 bi4 kong1 。
+- nan2 wang4 jiang1 jue2 yu3 ， quan4 wo3 mo4 yan2 qiong2 。
 
 ## 注释
 

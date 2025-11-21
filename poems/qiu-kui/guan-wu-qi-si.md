@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-guan-wu-qi-si
-title: 觀物・其四
-titlePinyin: guan1 wu4・qi2 si4
+title: 觀物  其四
+titlePinyin: guan1 wu4     qi2 si4
 titleSlug: guan-wu-qi-si
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

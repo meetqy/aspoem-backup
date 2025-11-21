@@ -6,10 +6,10 @@ titleSlug: yang-gong-yi-de-ying-ren-hui-zao-bo-fen-xiang-bing-yi-yang-shu-tian
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fu-meng-er-shi-er-shu-fu-he-qin-zi-yun-shi-bu-sheng-qin-tan-zhe-fu-yo
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

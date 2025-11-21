@@ -6,9 +6,9 @@ titleSlug: huang-bo-lan-xiu-ge-he-yun
 author: 黄祖舜
 authorPinyin: huang2 zu3 shun4
 authorSlug: huang-zu-shun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

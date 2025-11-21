@@ -6,25 +6,25 @@ titleSlug: zai-fu
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不雜寒枝冰雪光，蜜脾初點一分黄。
-- 裁時巧借韓湘手，到處濃薫荀令香。
-- 東閣斂藏羞太白，游蜂邂逅恍如狂。
-- 艶陽時節閒桃李，任學風流時世粧。
+- 破臘開花苦恨遲，雪中辜負賞心期。
+- 鉛黄猶見塗嬌額，獺髓應難補病肌。
+- 淚滴玉容空寂寞，粧成半面已離披。
+- 莫教點綴蒼苔地，要對殘芳釂屈巵。
 
 ## 拼音
 
-- bu4 za2 han2 zhi1 bing1 xue3 guang1 ， mi4 pi2 chu1 dian3 yi4 fen1 huang2 。
-- cai2 shi2 qiao3 jie4 han2 xiang1 shou3 ， dao4 chu3 nong2 xun1 xun2 ling4 xiang1 。
-- dong1 ge2 lian3 cang2 xiu1 tai4 bai2 ， you2 feng1 xie4 hou4 huang3 ru2 kuang2 。
-- yan4 yang2 shi2 jie2 xian2 tao2 li3 ， ren4 xue2 feng1 liu2 shi2 shi4 zhuang1 。
+- po4 la4 kai1 hua1 ku3 hen4 chi2 ， xue3 zhong1 gu1 fu4 shang3 xin1 qi1 。
+- qian1 huang2 you2 jian4 tu2 jiao1 e2 ， ta3 sui3 ying1 nan2 bu3 bing4 ji1 。
+- lei4 di1 yu4 rong2 kong1 ji4 mo4 ， zhuang1 cheng2 ban4 mian4 yi3 li2 pi1 。
+- mo4 jiao4 dian3 zhui4 cang1 tai2 di4 ， yao4 dui4 can2 fang1 jiao4 qu1 zhi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ji-dao-you
 author: 趙子甄
 authorPinyin: zhao4 zi3 zhen1
 authorSlug: zhao-zi-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

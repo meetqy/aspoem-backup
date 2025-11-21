@@ -6,10 +6,10 @@ titleSlug: xian-cao-nan-yuan
 author: 曹瑋幕客
 authorPinyin: cao2 wei3 mu4 ke4
 authorSlug: cao-wei-mu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

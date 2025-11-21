@@ -6,10 +6,10 @@ titleSlug: wu-shan-miao-shang-xia-shu-shi-li-you-wu-yuan-wu-shu-qu-shi-wu-xing-z
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

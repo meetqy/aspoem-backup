@@ -6,9 +6,9 @@ titleSlug: huang-he-lou
 author: 盧郢
 authorPinyin: lu2 ying3
 authorSlug: lu-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

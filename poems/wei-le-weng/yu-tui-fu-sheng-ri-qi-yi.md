@@ -6,21 +6,21 @@ titleSlug: yu-tui-fu-sheng-ri-qi-yi
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 尚記扁舟下古渝，蘭芽秀茁媚庭除。
-- 跕鳶聲裏驚重見，玉粹揚休偉丈夫。
+- 人情處約久斯渝，子把膏腴氣習除。
+- 肯向縑緗迂事業，要尋屋漏實工夫。
 
 ## 拼音
 
-- shang4 ji4 pian1 zhou1 xia4 gu3 yu2 ， lan2 ya2 xiu4 zhuo2 mei4 ting2 chu2 。
-- dian3 yuan1 sheng1 li3 jing1 zhong4 jian4 ， yu4 cui4 yang2 xiu1 wei3 zhang4 fu0 。
+- ren2 qing2 chu3 yue1 jiu3 si1 yu2 ， zi3 ba3 gao1 yu2 qi4 xi2 chu2 。
+- ken3 xiang4 jian1 xiang1 yu1 shi4 ye4 ， yao4 xun2 wu1 lou4 shi2 gong1 fu0 。
 
 ## 注释
 

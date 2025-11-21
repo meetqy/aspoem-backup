@@ -6,10 +6,10 @@ titleSlug: song-zu-long-xue-fu-shan-fu-zhuo-yin-zeng-bie-ci-ou-yang-yong-shu-yun
 author: 江休復
 authorPinyin: jiang1 xiu1 fu4
 authorSlug: jiang-xiu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

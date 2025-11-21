@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 纔吞一粒便安然，十二重樓九曲連。
-- 庚虎循環餐絳雪，甲龍夭喬迸靈泉。
-- 三三上應三千日，九九中延九萬年。
-- 須得有緣方可授，未曾輕泄與人傳。
+- 六龍齊駕得昇乾，須覺潛通造化權。
+- 真道每吟秋月澹，至言長運碧波寒。
+- 晝乘白虎遊三島，夜頂金冠立古壇。
+- 一載已成千歲藥，誰人將袖染塵寰。
 
 ## 拼音
 
-- cai2 tun1 yi2 li4 bian4 an1 ran2 ， shi2 er4 zhong4 lou2 jiu3 qu1 lian2 。
-- geng1 hu3 xun2 huan2 can1 jiang4 xue3 ， jia3 long2 yao1 qiao2 beng4 ling2 quan2 。
-- san1 san1 shang4 ying1 san1 qian1 ri4 ， jiu3 jiu3 zhong1 yan2 jiu3 wan4 nian2 。
-- xu1 dei3 you3 yuan2 fang1 ke3 shou4 ， wei4 ceng2 qing1 xie4 yu3 ren2 chuan2 。
+- liu4 long2 qi2 jia4 de2 sheng1 qian2 ， xu1 jue2 qian2 tong1 zao4 hua4 quan2 。
+- zhen1 dao4 mei3 yin2 qiu1 yue4 dan4 ， zhi4 yan2 chang2 yun4 bi4 bo1 han2 。
+- zhou4 cheng2 bai2 hu3 you2 san1 dao3 ， ye4 ding3 jin1 guan4 li4 gu3 tan2 。
+- yi2 zai4 yi3 cheng2 qian1 sui4 yao4 ， shui2 ren2 jiang1 xiu4 ran3 chen2 huan2 。
 
 ## 注释
 

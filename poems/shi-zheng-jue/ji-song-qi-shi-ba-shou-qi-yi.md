@@ -1,26 +1,32 @@
 ---
 id: shi-zheng-jue-ji-song-qi-shi-ba-shou-qi-yi
-title: 偈頌七十八首  其一
-titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 yi1
+title: 偈頌七十八首  其一○
+titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 yi1 ○
 titleSlug: ji-song-qi-shi-ba-shou-qi-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 易外家風未兆時，三更黑馬上烏雞。
-- 而今撥轉機輪也，剎剎塵塵更是誰。
+- 一不是，二不成。
+- 介然獨立，法爾雙行。
+- 柳線漸摇風力嫩，草針齊上燒痕青。
+- 一點靈光普天地，更嫌何處不分明。
+- 閒裏摸著鼻孔，忙時換却眼睛。
 
 ## 拼音
 
-- yi4 wai4 jia1 feng1 wei4 zhao4 shi2 ， san1 geng1 hei1 ma3 shang4 wu1 ji1 。
-- er2 jin1 bo1 zhuan3 ji1 lun2 ye3 ， cha4 cha4 chen2 chen2 geng4 shi4 shui2 。
+- yi2 bu2 shi4 ， er4 bu4 cheng2 。
+- jie4 ran2 du2 li4 ， fa3 er3 shuang1 xing2 。
+- liu3 xian4 jian4 yao2 feng1 li4 nen4 ， cao3 zhen1 qi2 shang4 shao1 hen2 qing1 。
+- yi4 dian3 ling2 guang1 pu3 tian1 di4 ， geng4 xian2 he2 chu3 bu4 fen1 ming2 。
+- xian2 li3 mo1 zhu4 bi2 kong3 ， mang2 shi2 huan4 que4 yan3 jing0 。
 
 ## 注释
 

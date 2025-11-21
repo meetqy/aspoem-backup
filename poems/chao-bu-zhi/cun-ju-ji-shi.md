@@ -6,21 +6,21 @@ titleSlug: cun-ju-ji-shi
 author: 晁補之
 authorPinyin: chao2 bu3 zhi1
 authorSlug: chao-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小麥青青大麥稀，蠶娘拾繭盈筐歸。
-- 放牛薄暮古堤角，三四黄鶑相趁飛。
+- 十載京塵化客衣，故園榆柳識春歸。
+- 深村芳物無由覓，蝴蝶雙尋麥隴飛。
 
 ## 拼音
 
-- xiao3 mai4 qing1 qing1 da4 mai4 xi1 ， can2 niang2 shi2 jian3 ying2 kuang1 gui1 。
-- fang4 niu2 bo2 mu4 gu3 di1 jiao3 ， san1 si4 huang2 ying1 xiang1 chen4 fei1 。
+- shi2 zai4 jing1 chen2 hua4 ke4 yi1 ， gu4 yuan2 yu2 liu3 shi2 chun1 gui1 。
+- shen1 cun1 fang1 wu4 wu2 you2 mi4 ， hu2 die2 shuang1 xun2 mai4 long3 fei1 。
 
 ## 注释
 

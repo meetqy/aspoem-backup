@@ -6,10 +6,10 @@ titleSlug: liang-xuan
 author: 王辟疆
 authorPinyin: wang2 pi4 jiang1
 authorSlug: wang-pi-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

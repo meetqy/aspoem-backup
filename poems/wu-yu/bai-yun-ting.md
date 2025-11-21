@@ -6,10 +6,10 @@ titleSlug: bai-yun-ting
 author: 吳與
 authorPinyin: wu2 yu3
 authorSlug: wu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: guo-lin-jia
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今日病良已，笻枝發興新。
-- 高居遺世事，一笑過吾鄰。
-- 夕照明丹葉，秋風老白蘋。
-- 素衣雖化盡，不爲犯京塵。
+- 病去詩情動，寒深酒戒開。
+- 兒孫扶每出，鄰里喚還來。
+- 雲重時飛雪，春遲未見梅。
+- 山園多芋栗，夜話且燔煨。
 
 ## 拼音
 
-- jin1 ri4 bing4 liang2 yi3 ， qiong2 zhi1 fa1 xing1 xin1 。
-- gao1 ju1 yi2 shi4 shi4 ， yi2 xiao4 guo4 wu2 lin2 。
-- xi1 zhao4 ming2 dan1 ye4 ， qiu1 feng1 lao3 bai2 pin2 。
-- su4 yi1 sui1 hua4 jin4 ， bu4 wei2 fan4 jing1 chen2 。
+- bing4 qu4 shi1 qing2 dong4 ， han2 shen1 jiu3 jie4 kai1 。
+- er2 sun1 fu2 mei3 chu1 ， lin2 li3 huan4 huan2 lai2 。
+- yun2 zhong4 shi2 fei1 xue3 ， chun1 chi2 wei4 jian4 mei2 。
+- shan1 yuan2 duo1 yu4 li4 ， ye4 hua4 qie3 fan2 wei1 。
 
 ## 注释
 

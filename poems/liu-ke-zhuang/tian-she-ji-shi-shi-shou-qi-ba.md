@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-ba
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 草草衣裝挈自隨，壻貧畢竟與齊眉。
-- 絕勝京洛傾城色，鏁向侯門作侍兒。
+- 淺甽須穿浚，荒畦要糞除。
+- 何嘗舍耒出，亦或带經鋤。
+- 古有神農學，今傳氾勝書。
+- 野儒曾涉獵，未可議空疎。
 
 ## 拼音
 
-- cao3 cao3 yi1 zhuang1 qie4 zi4 sui2 ， xu4 pin2 bi4 jing4 yu3 qi2 mei2 。
-- jue2 sheng4 jing1 luo4 qing1 cheng2 se4 ， suo3 xiang4 hou2 men2 zuo4 shi4 er2 。
+- qian3 zhen4 xu1 chuan1 jun4 ， huang1 qi2 yao4 fen4 chu2 。
+- he2 chang2 she4 lei3 chu1 ， yi4 huo4 dai4 jing1 chu2 。
+- gu3 you3 shen2 nong2 xue2 ， jin1 chuan2 fan2 sheng4 shu1 。
+- ye3 ru2 ceng2 she4 lie4 ， wei4 ke3 yi4 kong1 shu1 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: yin-zhu-huang-ya-shi-shou-qi-san
-title: 皇雅十首  其三
-titlePinyin: huang2 ya3 shi2 shou3     qi2 san1
+title: 皇雅十首  其三○
+titlePinyin: huang2 ya3 shi2 shou3     qi2 san1 ○
 titleSlug: huang-ya-shi-shou-qi-san
 author: 尹洙
 authorPinyin: yin3 zhu1
 authorSlug: yin-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淮潞弗虔，卒汙叛迹。
-- 戎輅戒嚴，皇威有赫。
-- 彼寇詿民，吾勇其百。
-- 殄厥渠魁，貸其反側。
+- 皇德在仁，寖而成風。
+- 公侯卿士，靡不率從。
+- 麛卵萌生，咸保厥終。
+- 不鄙不夭，樂哉融融。
 
 ## 拼音
 
-- huai2 lu4 fu2 qian2 ， zu2 wu1 pan4 ji4 。
-- rong2 lu4 jie4 yan2 ， huang2 wei1 you3 he4 。
-- bi3 kou4 gua4 min2 ， wu2 yong3 qi2 bai3 。
-- tian3 jue2 qu2 kui2 ， dai4 qi2 fan3 ce4 。
+- huang2 de2 zai4 ren2 ， jin4 er2 cheng2 feng1 。
+- gong1 hou2 qing1 shi4 ， mi2 bu2 lü4 cong2 。
+- mi2 luan3 meng2 sheng1 ， xian2 bao3 jue2 zhong1 。
+- bu4 bi3 bu4 yao1 ， le4 zai1 rong2 rong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-qing-fen-ge-er-shou-qi-er
 author: 陶遷
 authorPinyin: tao2 qian1
 authorSlug: tao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

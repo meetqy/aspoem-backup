@@ -6,10 +6,10 @@ titleSlug: zhao-rong-zhou-xin-ju
 author: 趙崇滋
 authorPinyin: zhao4 chong2 zi1
 authorSlug: zhao-chong-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

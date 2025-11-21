@@ -6,10 +6,10 @@ titleSlug: you-chao-yang-yan-sui-deng-xi-ting
 author: 蔣之奇
 authorPinyin: jiang3 zhi1 qi2
 authorSlug: jiang-zhi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

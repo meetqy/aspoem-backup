@@ -6,10 +6,10 @@ titleSlug: qi-xing-yan
 author: 孔延之
 authorPinyin: kong3 yan2 zhi1
 authorSlug: kong-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

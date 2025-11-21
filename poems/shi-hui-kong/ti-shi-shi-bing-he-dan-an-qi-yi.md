@@ -1,26 +1,26 @@
 ---
 id: shi-hui-kong-ti-shi-shi-bing-he-dan-an-qi-yi
-title: 題石室並和澹庵  其一
-titlePinyin: ti2 shi2 shi4 bing4 he2 dan4 an1     qi2 yi1
+title: 題石室並和澹庵  其一○
+titlePinyin: ti2 shi2 shi4 bing4 he2 dan4 an1     qi2 yi1 ○
 titleSlug: ti-shi-shi-bing-he-dan-an-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 野桃欹岸竹連雲，石徑縈紆到洞門。
-- 花落莫隨流水去，恐人認此是桃源。
+- 來年四色更多方，憂水憂風憂夏糧。
+- 未必澹庵能快活，隨身干木便逢場。
 
 ## 拼音
 
-- ye3 tao2 qi1 an4 zhu2 lian2 yun2 ， shi2 jing4 ying2 yu1 dao4 dong4 men2 。
-- hua1 luo4 mo4 sui2 liu2 shui3 qu4 ， kong3 ren2 ren4 ci3 shi4 tao2 yuan2 。
+- lai2 nian2 si4 se4 geng4 duo1 fang1 ， you1 shui3 you1 feng1 you1 xia4 liang2 。
+- wei4 bi4 dan4 an1 neng2 kuai4 huo0 ， sui2 shen1 gan1 mu4 bian4 feng2 chang3 。
 
 ## 注释
 

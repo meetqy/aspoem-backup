@@ -6,9 +6,9 @@ titleSlug: tang-shi-lin-ting
 author: 孫邦
 authorPinyin: sun1 bang1
 authorSlug: sun-bang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

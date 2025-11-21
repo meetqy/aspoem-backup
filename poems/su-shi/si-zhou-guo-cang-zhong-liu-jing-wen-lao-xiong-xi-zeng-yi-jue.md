@@ -6,10 +6,10 @@ titleSlug: si-zhou-guo-cang-zhong-liu-jing-wen-lao-xiong-xi-zeng-yi-jue
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yi-hai-ji-wen
 author: 彭秋宇
 authorPinyin: peng2 qiu1 yu3
 authorSlug: peng-qiu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

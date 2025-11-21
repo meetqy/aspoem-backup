@@ -6,10 +6,10 @@ titleSlug: tong-he-shu-xin-fu-zai-bo-zhi-ji-zui-shen-ji-gui-de-er-jue-ju-bing-ch
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

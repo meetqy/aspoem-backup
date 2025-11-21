@@ -6,9 +6,9 @@ titleSlug: zheng-yuan-ya-xin-ju-mian-mei-kai-xuan-zhu-zi-du-shu-qi-jian-ming-yue
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -3,26 +3,24 @@ id: shi-hui-yuan-ji
 title: 偈
 titlePinyin: ji4
 titleSlug: ji
-author: 釋慧遠
-authorPinyin: shi4 hui4 yuan3
+author: 釋慧圓
+authorPinyin: shi4 hui4 yuan2
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 至道無難，唯嫌揀擇。
-- 但莫憎愛，洞然明白。
-- 毫釐有差，天地懸隔。
+- 這一交，這一交，萬兩黄金也合消。
+- 頭上笠，腰下包，清風明月杖頭挑。
 
 ## 拼音
 
-- zhi4 dao4 wu2 nan2 ， wei2 xian2 jian3 ze2 。
-- dan4 mo4 zeng1 ai4 ， dong4 ran2 ming2 bai0 。
-- hao2 li2 you3 cha4 ， tian1 di4 xuan2 ge2 。
+- zhe4 yi4 jiao1 ， zhe4 yi4 jiao1 ， wan4 liang3 huang2 jin1 ye3 he2 xiao1 。
+- tou2 shang4 li4 ， yao1 xia4 bao1 ， qing1 feng1 ming2 yue4 zhang4 tou2 tiao1 。
 
 ## 注释
 

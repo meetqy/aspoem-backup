@@ -3,22 +3,22 @@ id: wang-qi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王祈
+author: 王奇
 authorPinyin: wang2 qi2
 authorSlug: wang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 葉垂千口劍，幹聳萬條鎗。
+- 不拜春官爲座主，親逢天子作門生。
 
 ## 拼音
 
-- ye4 chui2 qian1 kou3 jian4 ， gan4 song3 wan4 tiao2 qiang1 。
+- bu2 bai4 chun1 guan1 wei2 zuo4 zhu3 ， qin1 feng2 tian1 zi3 zuo4 men2 sheng1 。
 
 ## 注释
 

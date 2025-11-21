@@ -6,21 +6,21 @@ titleSlug: you-zhong-shan
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 終日看山不厭山，買山終待老山間。
-- 山花落盡山長在，山水空流山自閑。
+- 兩山松櫟暗朱藤，一水中間勝武陵。
+- 午梵隔雲知有寺，夕陽歸去不逢僧。
 
 ## 拼音
 
-- zhong1 ri4 kan4 shan1 bu2 yan4 shan1 ， mai3 shan1 zhong1 dai4 lao3 shan1 jian4 。
-- shan1 hua1 luo4 jin4 shan1 chang2 zai4 ， shan1 shui3 kong1 liu2 shan1 zi4 xian2 。
+- liang3 shan1 song1 li4 an4 zhu1 teng2 ， yi4 shui3 zhong1 jian4 sheng4 wu3 ling2 。
+- wu3 fan4 ge2 yun2 zhi1 you3 si4 ， xi1 yang2 gui1 qu4 bu4 feng2 seng1 。
 
 ## 注释
 

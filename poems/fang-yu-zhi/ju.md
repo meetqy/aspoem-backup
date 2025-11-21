@@ -6,9 +6,9 @@ titleSlug: ju
 author: 房與之
 authorPinyin: fang2 yu3 zhi1
 authorSlug: fang-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

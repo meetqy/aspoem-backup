@@ -6,10 +6,10 @@ titleSlug: wang-shi-jian-fu-xiao-you-dong-tian-zhi-shi-shao-qing-xi-he-zhi-zhe-c
 author: 何夢桂
 authorPinyin: he2 meng4 gui4
 authorSlug: he-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

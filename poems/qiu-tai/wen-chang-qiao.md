@@ -6,10 +6,10 @@ titleSlug: wen-chang-qiao
 author: 邱泰
 authorPinyin: qiu1 tai4
 authorSlug: qiu-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

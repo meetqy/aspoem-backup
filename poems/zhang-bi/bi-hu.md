@@ -6,9 +6,9 @@ titleSlug: bi-hu
 author: 張佖
 authorPinyin: zhang1 bi4
 authorSlug: zhang-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

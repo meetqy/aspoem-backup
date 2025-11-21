@@ -9,16 +9,18 @@ authorSlug: teng-mai
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 陶令門前罥接䍦，亞夫營裏拂朱旗。
+- 多少千條拂地垂。
+- （《江湖小集》卷七紹嵩《江浙紀行集句詩》引）。
 
 ## 拼音
 
-- tao2 ling4 men2 qian2 juan4 jie1 䍦， ya1 fu1 ying2 li3 fu2 zhu1 qi2 。
+- duo1 shao3 qian1 tiao2 fu2 di4 chui2 。
+- （《 jiang1 hu2 xiao3 ji2 》 juan4 qi1 shao4 song1 《 jiang1 zhe4 ji4 xing2 ji2 ju4 shi1 》 yin3 ）。
 
 ## 注释
 

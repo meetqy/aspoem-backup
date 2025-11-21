@@ -6,16 +6,16 @@ titleSlug: fang-shan-jia
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
 - 山翁居處僻，野屋蓋茅新。
-- 自得烟霞趣，應無車馬塵。
+- 自得煙霞趣，應無車馬塵。
 - 怪禽啼似鬼，古木變爲人。
 - 不是忘緣者，誰能與子親。
 

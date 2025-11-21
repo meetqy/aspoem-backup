@@ -6,10 +6,10 @@ titleSlug: xi-tong-fei-jun-chang-guan-you
 author: 周敦頤
 authorPinyin: zhou1 dun1 yi2
 authorSlug: zhou-dun-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xi-ning-qi-nian-ba-yue-wang-ri-zi-hang-zhi-song-guo-yong-le-yuan-guan
 author: 陳襄
 authorPinyin: chen2 xiang1
 authorSlug: chen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

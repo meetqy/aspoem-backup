@@ -1,24 +1,24 @@
 ---
 id: xu-fu-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
 author: 徐俯
 authorPinyin: xu2 fu3
 authorSlug: xu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰家竹可款，何處酒難忘。
+- 虎頭玉照南北嶺，麟角石盆三兩峰。
 
 ## 拼音
 
-- shui2 jia1 zhu2 ke3 kuan3 ， he2 chu3 jiu3 nan2 wang4 。
+- hu3 tou2 yu4 zhao4 nan2 bei3 ling3 ， lin2 jiao3 shi2 pen2 san1 liang3 feng1 。
 
 ## 注释
 

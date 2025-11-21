@@ -1,26 +1,26 @@
 ---
 id: fang-meng-zhong-he-liu-hou-cun-mei-hua-bai-yong-qi-san
-title: 和劉後村梅花百詠  其三
-titlePinyin: he2 liu2 hou4 cun1 mei2 hua1 bai3 yong3     qi2 san1
+title: 和劉後村梅花百詠  其三○
+titlePinyin: he2 liu2 hou4 cun1 mei2 hua1 bai3 yong3     qi2 san1 ○
 titleSlug: he-liu-hou-cun-mei-hua-bai-yong-qi-san
 author: 方蒙仲
 authorPinyin: fang1 meng2 zhong4
 authorSlug: fang-meng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紫府仙人水月英，絕嫌臭穢溷真清。
-- 玉塵月賦三千斛，一洗人間死鬼兄。
+- 綵葉如雲觀瑒蘂，金盆照日品桃花。
+- 安知尤物真瓌特，落在西湖處士家。
 
 ## 拼音
 
-- zi3 fu3 xian1 ren2 shui3 yue4 ying1 ， jue2 xian2 chou4 hui4 hun4 zhen1 qing1 。
-- yu4 chen2 yue4 fu4 san1 qian1 hu2 ， yi4 xi3 ren2 jian4 si3 gui3 xiong1 。
+- cai3 ye4 ru2 yun2 guan1 chang4 rui3 ， jin1 pen2 zhao4 ri4 pin3 tao2 hua1 。
+- an1 zhi1 you2 wu4 zhen1 gui1 te4 ， luo4 zai4 xi1 hu2 chu3 shi4 jia1 。
 
 ## 注释
 

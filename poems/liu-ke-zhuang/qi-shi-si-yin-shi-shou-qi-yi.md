@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-qi-shi-si-yin-shi-shou-qi-yi
-title: 七十四吟十首  其一
-titlePinyin: qi1 shi2 si4 yin2 shi2 shou3     qi2 yi1
+title: 七十四吟十首  其一○
+titlePinyin: qi1 shi2 si4 yin2 shi2 shou3     qi2 yi1 ○
 titleSlug: qi-shi-si-yin-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早衰安敢望年高，鏡裏雙眉有白毫。
-- 消夜賭棋張畫燭，怯寒添絮入綈袍。
-- 百骸受病惟詩健，萬事輸人獨飲豪。
-- 梨栗滿山皆碩果，何須海上訪蟠桃。
+- 提鼇批鳳霎時榮，身與浮名孰重輕。
+- 摩詰已爲病居士，伯倫終是大先生。
+- 彼拳雞肋恃朝氣，此把蟹螯猶宿酲。
+- 未必頹然真茗艼，老人羞共少年爭。
 
 ## 拼音
 
-- zao3 shuai1 an1 gan3 wang4 nian2 gao1 ， jing4 li3 shuang1 mei2 you3 bai2 hao2 。
-- xiao1 ye4 du3 qi2 zhang1 hua4 zhu2 ， qie4 han2 tian1 xu4 ru4 ti4 pao2 。
-- bai3 hai2 shou4 bing4 wei2 shi1 jian4 ， wan4 shi4 shu1 ren2 du2 yin3 hao2 。
-- li2 li4 man3 shan1 jie1 shuo4 guo3 ， he2 xu1 hai3 shang4 fang3 pan2 tao2 。
+- ti2 ao2 pi1 feng4 sha4 shi2 rong2 ， shen1 yu3 fu2 ming2 shu2 zhong4 qing1 。
+- mo2 jie2 yi3 wei2 bing4 ju1 shi4 ， bo2 lun2 zhong1 shi4 da4 xian1 sheng0 。
+- bi3 quan2 ji1 lei4 shi4 chao2 qi4 ， ci3 ba3 xie4 ao2 you2 su4 cheng2 。
+- wei4 bi4 tui2 ran2 zhen1 ming2 ding3 ， lao3 ren2 xiu1 gong4 shao4 nian2 zheng1 。
 
 ## 注释
 

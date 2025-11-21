@@ -6,10 +6,10 @@ titleSlug: dong-zhi
 author: 程大昌
 authorPinyin: cheng2 da4 chang1
 authorSlug: cheng-da-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yi-long-di-fu-kui-lei-shi-zuo-ting-qi-yin-ping-weng-ming-yue-ye-ting-
 author: 戴昺
 authorPinyin: dai4 bing3
 authorSlug: dai-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

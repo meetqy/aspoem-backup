@@ -6,10 +6,10 @@ titleSlug: bie-xin-zhou-xi-shang-zuo
 author: 楊察
 authorPinyin: yang2 cha2
 authorSlug: yang-cha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

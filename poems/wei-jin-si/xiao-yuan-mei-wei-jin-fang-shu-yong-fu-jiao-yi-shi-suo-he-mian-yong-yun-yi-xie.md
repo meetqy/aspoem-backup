@@ -6,10 +6,10 @@ titleSlug: xiao-yuan-mei-wei-jin-fang-shu-yong-fu-jiao-yi-shi-suo-he-mian-yong-y
 author: 魏近思
 authorPinyin: wei4 jin4 si1
 authorSlug: wei-jin-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: jing-de-yi-hou-si-wu-fang-di-shi-liu-shou-dian-yu-bi-zhuo-xian-yong-j
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 象分離位，德配炎精。
-- 景風協律，化神含生。
-- 百嘉茂育，乃順高明。
-- 神無常享，享于克誠。
+- 大儀斡運，星紀環周。
+- 三時不害，黍稷盈疇。
+- 克誠致享，品物咸羞。
+- 禮成樂變，錫祚貽休。
 
 ## 拼音
 
-- xiang4 fen1 li2 wei4 ， de2 pei4 yan2 jing1 。
-- jing3 feng1 xie2 lü4 ， hua4 shen2 han2 sheng1 。
-- bai3 jia1 mao4 yu4 ， nai3 shun4 gao1 ming2 。
-- shen2 wu2 chang2 xiang3 ， xiang3 yu2 ke4 cheng2 。
+- da4 yi2 wo4 yun4 ， xing1 ji4 huan2 zhou1 。
+- san1 shi2 bu2 hai4 ， shu3 ji4 ying2 chou2 。
+- ke4 cheng2 zhi4 xiang3 ， pin3 wu4 xian2 xiu1 。
+- li3 cheng2 le4 bian4 ， xi1 zuo4 yi2 xiu1 。
 
 ## 注释
 

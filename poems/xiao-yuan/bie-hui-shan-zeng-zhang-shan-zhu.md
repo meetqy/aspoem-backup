@@ -6,10 +6,10 @@ titleSlug: bie-hui-shan-zeng-zhang-shan-zhu
 author: 蕭淵
 authorPinyin: xiao1 yuan1
 authorSlug: xiao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

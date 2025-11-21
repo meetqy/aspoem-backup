@@ -6,10 +6,10 @@ titleSlug: he-shi-yang-xiu-hai-tang
 author: 李定
 authorPinyin: li3 ding4
 authorSlug: li-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

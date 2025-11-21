@@ -6,25 +6,25 @@ titleSlug: ci-yun-zhao-shuai-si-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 腹裏羣經笥，毫端五字城。
-- 少陵寧漫興，侯喜欲無聲。
-- 竊聽鏘金奏，仍聞破竹成。
-- 君知盥手處，毛骨爲誰清。
+- 北歸客子謾貪忙，河欲生冰野覆霜。
+- 他日鸛鵝常避敵，即今竿木又逢場。
+- 思遲正坐相如渴，文好知熏武仲香。
+- 妙語鼎來吾拜手，乳泉更用汲銀床。
 
 ## 拼音
 
-- fu4 li3 qun2 jing1 si4 ， hao2 duan1 wu3 zi4 cheng2 。
-- shao3 ling2 ning2 man4 xing1 ， hou2 xi3 yu4 wu2 sheng1 。
-- qie4 ting1 qiang1 jin1 zou4 ， reng2 wen2 po4 zhu2 cheng2 。
-- jun1 zhi1 guan4 shou3 chu3 ， mao2 gu3 wei2 shui2 qing1 。
+- bei3 gui1 ke4 zi3 man2 tan1 mang2 ， he2 yu4 sheng1 bing1 ye3 fu4 shuang1 。
+- ta1 ri4 guan4 e2 chang2 bi4 di2 ， ji2 jin1 gan1 mu4 you4 feng2 chang3 。
+- si1 chi2 zheng4 zuo4 xiang1 ru2 ke3 ， wen2 hao3 zhi1 xun1 wu3 zhong4 xiang1 。
+- miao4 yu3 ding3 lai2 wu2 bai4 shou3 ， ru3 quan2 geng4 yong4 ji2 yin2 chuang2 。
 
 ## 注释
 

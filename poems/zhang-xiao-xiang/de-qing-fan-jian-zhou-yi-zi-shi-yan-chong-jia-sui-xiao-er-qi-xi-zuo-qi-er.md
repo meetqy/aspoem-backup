@@ -6,10 +6,10 @@ titleSlug: de-qing-fan-jian-zhou-yi-zi-shi-yan-chong-jia-sui-xiao-er-qi-xi-zuo-q
 author: 張孝祥
 authorPinyin: zhang1 xiao4 xiang2
 authorSlug: zhang-xiao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

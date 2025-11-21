@@ -6,25 +6,21 @@ titleSlug: ou-shu
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閒看是斯文，無秦擬自焚。
-- 病來兼萬事，休去負深雲。
-- 直語時多忌，幽腸俗不分。
-- 如何麋與鹿，猶此傍人羣。
+- 一任塵欺古鹿盧，聖經窮爛更何圖。
+- 磻溪老叟能閑氣，八十封侯不似無。
 
 ## 拼音
 
-- xian2 kan4 shi4 si1 wen2 ， wu2 qin2 ni3 zi4 fen2 。
-- bing4 lai2 jian1 wan4 shi4 ， xiu1 qu4 fu4 shen1 yun2 。
-- zhi2 yu3 shi2 duo1 ji4 ， you1 chang2 su2 bu4 fen1 。
-- ru2 he2 mi2 yu3 lu4 ， you2 ci3 bang4 ren2 qun2 。
+- yi2 ren4 chen2 qi1 gu3 lu4 lu2 ， sheng4 jing1 qiong2 lan4 geng4 he2 tu2 。
+- pan2 xi1 lao3 sou3 neng2 xian2 qi4 ， ba1 shi2 feng1 hou2 bu2 si4 wu2 。
 
 ## 注释
 

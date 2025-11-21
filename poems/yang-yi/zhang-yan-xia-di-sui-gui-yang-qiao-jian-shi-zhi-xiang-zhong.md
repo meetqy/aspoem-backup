@@ -6,10 +6,10 @@ titleSlug: zhang-yan-xia-di-sui-gui-yang-qiao-jian-shi-zhi-xiang-zhong
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

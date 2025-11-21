@@ -6,10 +6,10 @@ titleSlug: lu-xi-tian-she-shi-yu-sun-xiao-shi-er-shi-si-shou-qi-er-er
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

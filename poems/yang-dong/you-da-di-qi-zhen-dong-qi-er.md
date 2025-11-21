@@ -6,10 +6,10 @@ titleSlug: you-da-di-qi-zhen-dong-qi-er
 author: 楊棟
 authorPinyin: yang2 dong4
 authorSlug: yang-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

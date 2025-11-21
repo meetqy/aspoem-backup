@@ -6,25 +6,25 @@ titleSlug: yun-men-dao-zhong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 度嶺穿林一徑斜，旋篝新火試新茶。
-- 箬包粉餌祠寒食，雨溼青鞋上若耶。
-- 石罅微泉來滴瀝，溪涯老木卧槎牙。
-- 不須苦覓東柯谷，是處雲山可寄家。
+- 川靄林霏翠欲浮，散人心事寄沙鷗。
+- 暮投野店孤烟起，曉涉清溪小蹇愁。
+- 嶺路窮時縈細棧，山形缺處起重樓。
+- 釣游陳迹渾如昨，一念凄然不自由。
 
 ## 拼音
 
-- du4 ling3 chuan1 lin2 yi2 jing4 xie2 ， xuan2 gou1 xin1 huo3 shi4 xin1 cha2 。
-- ruo4 bao1 fen3 er3 ci2 han2 shi2 ， yu3 shi1 qing1 xie2 shang4 ruo4 ye1 。
-- shi2 xia4 wei1 quan2 lai2 di1 li4 ， xi1 ya2 lao3 mu4 wo4 cha2 ya2 。
-- bu4 xu1 ku3 mi4 dong1 ke1 gu3 ， shi4 chu3 yun2 shan1 ke3 ji4 jia1 。
+- chuan1 ai3 lin2 fei1 cui4 yu4 fu2 ， san4 ren2 xin1 shi4 ji4 sha1 ou1 。
+- mu4 tou2 ye3 dian4 gu1 yan1 qi3 ， xiao3 she4 qing1 xi1 xiao3 jian3 chou2 。
+- ling3 lu4 qiong2 shi2 ying2 xi4 zhan4 ， shan1 xing2 que1 chu3 qi3 zhong4 lou2 。
+- diao4 you2 chen2 ji4 hun2 ru2 zuo2 ， yi2 nian4 qi1 ran2 bu2 zi4 you2 。
 
 ## 注释
 

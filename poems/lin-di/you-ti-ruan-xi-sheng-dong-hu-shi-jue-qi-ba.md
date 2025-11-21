@@ -6,10 +6,10 @@ titleSlug: you-ti-ruan-xi-sheng-dong-hu-shi-jue-qi-ba
 author: 林迪
 authorPinyin: lin2 di2
 authorSlug: lin-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

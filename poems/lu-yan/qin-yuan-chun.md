@@ -9,32 +9,36 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 昨日南京，今朝天岳，倐焉忽焉。
-- 指洞庭爲酒，渴時浩飲，君山件枕，醉後高眠。
-- 談笑自如，往來無礙，半是風狂半是仙。
-- 隨身在，有一襟風月，兩袖雲煙。
-- 人間，放浪多年，又排辨東華第二筵。
-- 把珊瑚砍倒，栽吾琪樹，天河放淺，種我金蓮。
-- 搥碎王京，踢翻蓬島，稽首虛皇玉案前。
-- 無難事，信功成八百，行滿三千。
-- （隆慶《岳州府志》十八）。
+- 琳館清標，瓊臺麗質，何年天上飛來。
+- 揚州暫倚，后土爲深栽。
+- 獨立乾坤一樹，春風占，萬朵齊開。
+- 天然巧，蕊珠圓簇，玉瓣輕裁。
+- 見一花九朵，類玲瓏玉斝，錯落瓊盃。
+- 得滿盛香露，洗蕩塵埃。
+- 是真元孕育，有仙風道骨，豈是凡胎。
+- 問真宰，難留下土，攜爾上蓬萊。
+- （《揚州瓊花集》）（〖1〗此詞調幷非《沁園春》，原書誤題。
+- 趙遂之謂當作《滿庭芳》。
+- ）。
 
 ## 拼音
 
-- zuo2 ri4 nan2 jing1 ， jin1 zhao1 tian1 yue4 ， shu1 yan1 hu1 yan1 。
-- zhi3 dong4 ting2 wei2 jiu3 ， ke3 shi2 hao4 yin3 ， jun1 shan1 jian4 zhen3 ， zui4 hou4 gao1 mian2 。
-- tan2 xiao4 zi4 ru2 ， wang3 lai2 wu2 ai4 ， ban4 shi4 feng1 kuang2 ban4 shi4 xian1 。
-- sui2 shen1 zai4 ， you3 yi4 jin1 feng1 yue4 ， liang3 xiu4 yun2 yan1 。
-- ren2 jian4 ， fang4 lang4 duo1 nian2 ， you4 pai2 bian4 dong1 hua2 di4 er4 yan2 。
-- ba3 shan1 hu2 kan3 dao3 ， zai1 wu2 qi2 shu4 ， tian1 he2 fang4 qian3 ， zhong3 wo3 jin1 lian2 。
-- chui2 sui4 wang2 jing1 ， ti1 fan1 peng2 dao3 ， qi3 shou3 xu1 huang2 yu4 an4 qian2 。
-- wu2 nan2 shi4 ， xin4 gong1 cheng2 ba1 bai3 ， xing2 man3 san1 qian1 。
-- （ long2 qing4 《 yue4 zhou1 fu3 zhi4 》 shi2 ba1 ）。
+- lin2 guan3 qing1 biao1 ， qiong2 tai2 li2 zhi4 ， he2 nian2 tian1 shang4 fei1 lai2 。
+- yang2 zhou1 zan4 yi3 ， hou4 tu3 wei2 shen1 zai1 。
+- du2 li4 qian2 kun1 yi2 shu4 ， chun1 feng1 zhan4 ， wan4 duo3 qi2 kai1 。
+- tian1 ran2 qiao3 ， rui3 zhu1 yuan2 cu4 ， yu4 ban4 qing1 cai2 。
+- jian4 yi4 hua1 jiu3 duo3 ， lei4 ling2 long2 yu4 jia3 ， cuo4 luo4 qiong2 bei1 。
+- de2 man3 sheng4 xiang1 lu4 ， xi3 dang4 chen2 ai1 。
+- shi4 zhen1 yuan2 yun4 yu4 ， you3 xian1 feng1 dao4 gu3 ， qi3 shi4 fan2 tai1 。
+- wen4 zhen1 zai3 ， nan2 liu2 xia4 tu3 ， xie2 er3 shang4 peng2 lai2 。
+- （《 yang2 zhou1 qiong2 hua1 ji2 》）（〖1〗 ci3 ci2 diao4 bing4 fei1 《 qin4 yuan2 chun1 》， yuan2 shu1 wu4 ti2 。
+- zhao4 sui4 zhi1 wei4 dang1 zuo4 《 man3 ting2 fang1 》。
+- ）。
 
 ## 注释
 

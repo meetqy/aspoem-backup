@@ -1,26 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-liu
-title: 偈頌二百零五首  其六
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 liu4
+title: 偈頌二百零五首  其六○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 liu4 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-liu
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 溶溶曳曳山上雲，潺潺湲湲山下水。
-- 試問其間雲水人，更於何處求諸己。
+- 雲開青山橫屋頭，雨住流水漲門底。
+- 南無家家觀世音，迴避不及鼻相抵。
+- 非唯鼻相抵，亦乃同見同聞，同齅同舐，同身同意，同得同智。
+- 果滿菩提圓，華開世界起。
 
 ## 拼音
 
-- rong2 rong2 ye4 ye4 shan1 shang4 yun2 ， chan2 chan2 yuan2 yuan2 shan1 xia4 shui3 。
-- shi4 wen4 qi2 jian4 yun2 shui3 ren2 ， geng4 wu1 he2 chu3 qiu2 zhu1 ji3 。
+- yun2 kai1 qing1 shan1 heng2 wu1 tou2 ， yu3 zhu4 liu2 shui3 zhang3 men2 di3 。
+- nan2 wu2 jia1 jia1 guan1 shi4 yin1 ， hui2 bi4 bu4 ji2 bi2 xiang1 di3 。
+- fei1 wei2 bi2 xiang1 di3 ， yi4 nai3 tong2 jian4 tong2 wen2 ， tong2 xiu4 tong2 shi4 ， tong2 shen1 tong2 yi4 ， tong2 de2 tong2 zhi4 。
+- guo3 man3 pu2 ti2 yuan2 ， hua2 kai1 shi4 jie4 qi3 。
 
 ## 注释
 

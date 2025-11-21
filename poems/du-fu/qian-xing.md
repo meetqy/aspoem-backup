@@ -9,26 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 驥子好男兒，前年學語時。
-- 問知人客姓，誦得老夫詩。
-- 世亂憐渠小，家貧仰母慈。
-- 鹿門攜不遂，雁足繫難期。
-- 天地軍麾滿，山河戰角悲。
-- 儻歸免相失，見日敢辭遲。
+- 干戈猶未定，弟妹各何之。
+- 拭淚霑襟血，梳頭滿面絲。
+- 地卑荒野大，天遠暮江遲。
+- 衰疾那能久，應無見汝時。
 
 ## 拼音
 
-- ji4 zi3 hao3 nan2 er2 ， qian2 nian2 xue2 yu3 shi2 。
-- wen4 zhi1 ren2 ke4 xing4 ， song4 de2 lao3 fu1 shi1 。
-- shi4 luan4 lian2 qu2 xiao3 ， jia1 pin2 yang3 mu3 ci2 。
-- lu4 men2 xie2 bu2 sui4 ， yan4 zu2 xi4 nan2 qi1 。
-- tian1 di4 jun1 hui1 man3 ， shan1 he2 zhan4 jiao3 bei1 。
-- tang3 gui1 mian3 xiang1 shi1 ， jian4 ri4 gan3 ci2 chi2 。
+- gan1 ge1 you2 wei4 ding4 ， di4 mei4 ge4 he2 zhi1 。
+- shi4 lei4 zhan1 jin1 xue4 ， shu1 tou2 man3 mian4 si1 。
+- di4 bei1 huang1 ye3 da4 ， tian1 yuan3 mu4 jiang1 chi2 。
+- shuai1 ji2 na4 neng2 jiu3 ， ying1 wu2 jian4 ru3 shi2 。
 
 ## 注释
 

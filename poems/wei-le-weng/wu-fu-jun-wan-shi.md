@@ -6,25 +6,25 @@ titleSlug: wu-fu-jun-wan-shi
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人誇駡賊與尊君，我看閑家與事兄。
-- 更識爲人謀質實，便知處己事分明。
-- 夜窗殘夢鸞離照，風壑哀號烏失聲。
-- 從此長寧鄉下路，兩山明月一般情。
+- 篤信寧違俗，徐行不競時。
+- 與人交樂易，處世事平夷。
+- 甚矣古常者，傷哉今已而。
+- 龍山春夜月，長照鳳皇枝。
 
 ## 拼音
 
-- ren2 kua1 ma4 zei2 yu3 zun1 jun1 ， wo3 kan4 xian2 jia1 yu3 shi4 xiong1 。
-- geng4 shi2 wei2 ren2 mou2 zhi4 shi2 ， bian4 zhi1 chu3 ji3 shi4 fen1 ming2 。
-- ye4 chuang1 can2 meng4 luan2 li2 zhao4 ， feng1 he4 ai1 hao4 wu1 shi1 sheng1 。
-- cong2 ci3 chang2 ning2 xiang1 xia4 lu4 ， liang3 shan1 ming2 yue4 yi4 ban1 qing2 。
+- du3 xin4 ning2 wei2 su2 ， xu2 hang2 bu2 jing4 shi2 。
+- yu3 ren2 jiao1 le4 yi4 ， chu3 shi4 shi4 ping2 yi2 。
+- shen4 yi3 gu3 chang2 zhe3 ， shang1 zai1 jin1 yi3 er2 。
+- long2 shan1 chun1 ye4 yue4 ， chang2 zhao4 feng4 huang2 zhi1 。
 
 ## 注释
 

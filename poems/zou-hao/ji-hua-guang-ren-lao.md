@@ -1,26 +1,30 @@
 ---
 id: zou-hao-ji-hua-guang-ren-lao
-title: 寄花光仁老
-titlePinyin: ji4 hua1 guang1 ren2 lao3
+title: 寄華光仁老
+titlePinyin: ji4 hua2 guang1 ren2 lao3
 titleSlug: ji-hua-guang-ren-lao
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行盡江湖見盡山，無窮氣象杳難攀。
-- 知師筆有維摩力，爲我移來助解顔。
+- 越州刺史越州僧，曾是龍華同會人。
+- 偶向祝融峰下過，便從香積鉢中親。
+- 毫端寶刹重重現，句裏藏機一一新。
+- 正是連天鴈回日，此心先已到江濱。
 
 ## 拼音
 
-- xing2 jin4 jiang1 hu2 jian4 jin4 shan1 ， wu2 qiong2 qi4 xiang4 yao3 nan2 pan1 。
-- zhi1 shi1 bi3 you3 wei2 mo2 li4 ， wei2 wo3 yi2 lai2 zhu4 jie3 yan2 。
+- yue4 zhou1 ci4 shi3 yue4 zhou1 seng1 ， ceng2 shi4 long2 hua2 tong2 hui4 ren2 。
+- ou3 xiang4 zhu4 rong2 feng1 xia4 guo4 ， bian4 cong2 xiang1 ji1 bo1 zhong1 qin1 。
+- hao2 duan1 bao3 cha4 chong2 chong2 xian4 ， ju4 li3 cang2 ji1 yi1 yi1 xin1 。
+- zheng4 shi4 lian2 tian1 yan4 hui2 ri4 ， ci3 xin1 xian1 yi3 dao4 jiang1 bin1 。
 
 ## 注释
 

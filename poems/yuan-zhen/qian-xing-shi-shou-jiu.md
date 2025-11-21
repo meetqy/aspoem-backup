@@ -1,7 +1,7 @@
 ---
 id: yuan-zhen-qian-xing-shi-shou-jiu
-title: 遣興十首 九
-titlePinyin: qian3 xing1 shi2 shou3   jiu3
+title: 遣行十首 九
+titlePinyin: qian3 xing2 shi2 shou3   jiu3
 titleSlug: qian-xing-shi-shou-jiu
 author: 元稹
 authorPinyin: yuan2 zhen3
@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 團團規內星，未必明如月。
-- 託迹近北辰，周天無淪沒。
-- 老人在南極，地遠光不發。
-- 見則壽聖明，願照高高闕。
+- 見說巴風俗，都無漢性情。
+- 猿聲蘆管調，羌笛竹雞聲。
+- 迎候人應少，平安火莫驚。
+- 每逢危棧處，須作貫魚行。
 
 ## 拼音
 
-- tuan2 tuan2 gui1 nei4 xing1 ， wei4 bi4 ming2 ru2 yue4 。
-- tuo1 ji4 jin4 bei3 chen2 ， zhou1 tian1 wu2 lun2 mei2 。
-- lao3 ren2 zai4 nan2 ji2 ， di4 yuan3 guang1 bu4 fa1 。
-- jian4 ze2 shou4 sheng4 ming2 ， yuan4 zhao4 gao1 gao1 que4 。
+- jian4 shuo1 ba1 feng1 su2 ， dou1 wu2 han4 xing4 qing2 。
+- yuan2 sheng1 lu2 guan3 diao4 ， qiang1 di2 zhu2 ji1 sheng1 。
+- ying2 hou4 ren2 ying1 shao3 ， ping2 an1 huo3 mo4 jing1 。
+- mei3 feng2 wei1 zhan4 chu3 ， xu1 zuo4 guan4 yu2 xing2 。
 
 ## 注释
 

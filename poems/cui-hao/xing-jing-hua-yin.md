@@ -6,10 +6,10 @@ titleSlug: xing-jing-hua-yin
 author: 崔顥
 authorPinyin: cui1 hao4
 authorSlug: cui-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xian-ju-si
 author: 毛沂
 authorPinyin: mao2 yi2
 authorSlug: mao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

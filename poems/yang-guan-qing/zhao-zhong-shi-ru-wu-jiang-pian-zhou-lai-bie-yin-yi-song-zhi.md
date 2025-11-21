@@ -6,10 +6,10 @@ titleSlug: zhao-zhong-shi-ru-wu-jiang-pian-zhou-lai-bie-yin-yi-song-zhi
 author: 楊冠卿
 authorPinyin: yang2 guan1 qing1
 authorSlug: yang-guan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

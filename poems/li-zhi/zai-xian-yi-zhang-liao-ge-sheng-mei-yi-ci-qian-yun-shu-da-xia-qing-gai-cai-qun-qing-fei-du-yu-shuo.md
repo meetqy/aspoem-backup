@@ -6,10 +6,10 @@ titleSlug: zai-xian-yi-zhang-liao-ge-sheng-mei-yi-ci-qian-yun-shu-da-xia-qing-ga
 author: 李至
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

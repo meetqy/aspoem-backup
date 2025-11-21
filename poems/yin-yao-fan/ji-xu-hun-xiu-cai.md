@@ -9,22 +9,22 @@ authorSlug: yin-yao-fan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 文字飢難煮，爲農策最良。
-- 興來鉏曉月，倦後臥斜陽。
-- 秋稼連千頃，春花醉幾場。
-- 任他名利客，車馬鬧康莊。
+- 萬木驚秋葉漸稀，靜探造化見玄機。
+- 眼前誰悟先天理，去後還知今日非。
+- 樹擁秣陵千嶂合，雲開蕭寺一僧歸。
+- 漢廷累下徵賢詔，未許嚴陵老釣磯。
 
 ## 拼音
 
-- wen2 zi4 ji1 nan2 zhu3 ， wei2 nong2 ce4 zui4 liang2 。
-- xing1 lai2 chu2 xiao3 yue4 ， juan4 hou4 wo4 xie2 yang2 。
-- qiu1 jia4 lian2 qian1 qing3 ， chun1 hua1 zui4 ji1 chang3 。
-- ren4 ta1 ming2 li4 ke4 ， ju1 ma3 nao4 kang1 zhuang1 。
+- wan4 mu4 jing1 qiu1 ye4 jian4 xi1 ， jing4 tan4 zao4 hua4 jian4 xuan2 ji1 。
+- yan3 qian2 shui2 wu4 xian1 tian1 li3 ， qu4 hou4 huan2 zhi1 jin1 ri4 fei1 。
+- shu4 yong1 mo4 ling2 qian1 zhang4 he2 ， yun2 kai1 xiao1 si4 yi4 seng1 gui1 。
+- han4 ting2 lei4 xia4 zhi3 xian2 zhao4 ， wei4 xu1 yan2 ling2 lao3 diao4 ji1 。
 
 ## 注释
 

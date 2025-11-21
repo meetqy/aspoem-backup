@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 古今機要甚分明，自是衆生力量輕。
-- 盡向有中尋有質，誰能無裏見無形。
-- 真鉛聖汞徒虛費，玉室金關不解扃。
-- 本色丹瓢推倒後，却吞丸藥待延齡。
+- 莫怪愛吟天上詩，蓋緣吟得世間稀。
+- 慣餐玉帝宮中飯，曾著蓬萊洞裏衣。
+- 馬踏日輪紅露捲，鳳銜月角擘雲飛。
+- 何時再控青絲轡，又掉金鞭入紫微。
 
 ## 拼音
 
-- gu3 jin1 ji1 yao4 shen4 fen1 ming2 ， zi4 shi4 zhong4 sheng1 li4 liang2 qing1 。
-- jin4 xiang4 you3 zhong1 xun2 you3 zhi4 ， shui2 neng2 wu2 li3 jian4 wu2 xing2 。
-- zhen1 qian1 sheng4 gong3 tu2 xu1 fei4 ， yu4 shi4 jin1 guan1 bu4 jie3 jiong1 。
-- ben3 se4 dan1 piao2 tui1 dao3 hou4 ， que4 tun1 wan2 yao4 dai4 yan2 ling2 。
+- mo4 guai4 ai4 yin2 tian1 shang4 shi1 ， gai4 yuan2 yin2 de2 shi4 jian4 xi1 。
+- guan4 can1 yu4 di4 gong1 zhong1 fan4 ， ceng2 zhu4 peng2 lai2 dong4 li3 yi1 。
+- ma3 ta4 ri4 lun2 hong2 lu4 juan3 ， feng4 xian2 yue4 jiao3 bo4 yun2 fei1 。
+- he2 shi2 zai4 kong4 qing1 si1 pei4 ， you4 diao4 jin1 bian1 ru4 zi3 wei1 。
 
 ## 注释
 

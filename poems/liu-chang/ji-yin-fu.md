@@ -6,25 +6,25 @@ titleSlug: ji-yin-fu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君雖委計吏，官似宣尼公。
-- 貧賤更何恨，優游聊與同。
-- 忘懷鴟夷酒，乘興松江風。
-- 此亦隱柱下，何用臥隆中。
+- 昔别大梁下，至今三歲餘。
+- 豈無萬里使，不寄一行書。
+- 風俗與時薄，交游于義疏。
+- 知君淡如水，非是故忘予。
 
 ## 拼音
 
-- jun1 sui1 wei3 ji4 li4 ， guan1 si4 xuan1 ni2 gong1 。
-- pin2 jian4 geng4 he2 hen4 ， you1 you2 liao2 yu3 tong2 。
-- wang4 huai2 chi1 yi2 jiu3 ， cheng2 xing1 song1 jiang1 feng1 。
-- ci3 yi4 yin3 zhu4 xia4 ， he2 yong4 wo4 long2 zhong1 。
+- xi1 bie2 da4 liang2 xia4 ， zhi4 jin1 san1 sui4 yu2 。
+- qi3 wu2 wan4 li3 shi3 ， bu2 ji4 yi4 xing2 shu1 。
+- feng1 su2 yu3 shi2 bao2 ， jiao1 you2 yu2 yi4 shu1 。
+- zhi1 jun1 dan4 ru2 shui3 ， fei1 shi4 gu4 wang4 yu3 。
 
 ## 注释
 

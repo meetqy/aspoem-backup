@@ -6,10 +6,10 @@ titleSlug: lu-gang
 author: 柯茂謙
 authorPinyin: ke1 mao4 qian1
 authorSlug: ke-mao-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

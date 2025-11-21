@@ -6,10 +6,10 @@ titleSlug: ju
 author: 歐陽識
 authorPinyin: ou1 yang2 shi2
 authorSlug: ou-yang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

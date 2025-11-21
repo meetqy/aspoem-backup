@@ -6,9 +6,9 @@ titleSlug: zeng-wang-zheng-ji
 author: 廖融
 authorPinyin: liao4 rong2
 authorSlug: liao-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: zhui-liang-wan-bu-xie-hou-zhang-yun-qing-wang-wen-fu-wang-zi-zheng-sa
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

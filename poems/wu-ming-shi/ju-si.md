@@ -9,16 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 上有千年樹，下有百年人。
+- 隱隱山分地，滄滄海接天。
+- （此爲直置體）。
 
 ## 拼音
 
-- shang4 you3 qian1 nian2 shu4 ， xia4 you3 bai3 nian2 ren2 。
+- yin3 yin3 shan1 fen1 di4 ， cang1 cang1 hai3 jie1 tian1 。
+- （ ci3 wei2 zhi2 zhi4 ti3 ）。
 
 ## 注释
 

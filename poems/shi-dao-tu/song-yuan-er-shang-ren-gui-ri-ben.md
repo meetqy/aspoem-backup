@@ -6,10 +6,10 @@ titleSlug: song-yuan-er-shang-ren-gui-ri-ben
 author: 釋道㻬
 authorPinyin: shi4 dao4 tu1
 authorSlug: shi-dao-tu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

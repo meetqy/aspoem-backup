@@ -6,10 +6,10 @@ titleSlug: liu-pi-ti-bi-qi-er
 author: 孫子光
 authorPinyin: sun1 zi3 guang1
 authorSlug: sun-zi-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-she-jin-ri-shao-shao-fu-zhen-er-gu-zi-mei-jian-bi-ji-jiu-bo-chu-y
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

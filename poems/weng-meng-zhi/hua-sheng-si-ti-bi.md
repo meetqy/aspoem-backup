@@ -6,10 +6,10 @@ titleSlug: hua-sheng-si-ti-bi
 author: 翁蒙之
 authorPinyin: weng1 meng2 zhi1
 authorSlug: weng-meng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

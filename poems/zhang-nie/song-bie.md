@@ -6,33 +6,25 @@ titleSlug: song-bie
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 歲晚多烈風，鴻雁號廣澤。
-- 寒日行天邊，及兹送歸客。
-- 余生足暌異，不作兒女色。
-- 此夕復何夕，傷離重悽惻。
-- 子櫂既云西，余行亦將北。
-- 豈但今日别，方異平生跡。
-- 千里即寄書，萬里空歎息。
-- 朝市與山林，從茲恐乖隔。
+- 十年漂轉鬢成絲，細話平生萬事非。
+- 卻憶青燈初罷酒，俄聞鐡騎已成圍。
+- 當時痛飲今誰在，從此覊遊與願違。
+- 客裏别君還歲晚，江湖寥廓淚堪揮。
 
 ## 拼音
 
-- sui4 wan3 duo1 lie4 feng1 ， hong2 yan4 hao4 guang3 ze2 。
-- han2 ri4 xing2 tian1 bian1 ， ji2 zi1 song4 gui1 ke4 。
-- yu2 sheng1 zu2 kui2 yi4 ， bu2 zuo4 er2 nü3 se4 。
-- ci3 xi1 fu4 he2 xi1 ， shang1 li2 zhong4 qi1 ce4 。
-- zi3 zhao4 ji4 yun2 xi1 ， yu2 xing2 yi4 jiang1 bei3 。
-- qi3 dan4 jin1 ri4 bie2 ， fang1 yi4 ping2 sheng1 ji4 。
-- qian1 li3 ji2 ji4 shu1 ， wan4 li3 kong1 tan4 xi1 。
-- chao2 shi4 yu3 shan1 lin2 ， cong2 zi1 kong3 guai1 ge2 。
+- shi2 nian2 piao1 zhuan3 bin4 cheng2 si1 ， xi4 hua4 ping2 sheng1 wan4 shi4 fei1 。
+- que4 yi4 qing1 deng1 chu1 ba4 jiu3 ， e2 wen2 tie3 qi2 yi3 cheng2 wei2 。
+- dang1 shi2 tong4 yin3 jin1 shui2 zai4 ， cong2 ci3 ji1 you2 yu3 yuan4 wei2 。
+- ke4 li3 bie2 jun1 huan2 sui4 wan3 ， jiang1 hu2 liao2 kuo4 lei4 kan1 hui1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: le-xi-ju-wan-juan-lou-san-shou-qi-yi
 author: 蔣重珍
 authorPinyin: jiang3 zhong4 zhen1
 authorSlug: jiang-zhong-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

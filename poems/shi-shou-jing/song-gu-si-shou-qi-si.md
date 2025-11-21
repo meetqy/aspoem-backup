@@ -6,9 +6,9 @@ titleSlug: song-gu-si-shou-qi-si
 author: 釋守浄
 authorPinyin: shi4 shou3 jing4
 authorSlug: shi-shou-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

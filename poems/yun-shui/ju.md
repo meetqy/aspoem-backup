@@ -6,10 +6,10 @@ titleSlug: ju
 author: 雲水
 authorPinyin: yun2 shui3
 authorSlug: yun-shui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

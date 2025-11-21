@@ -6,10 +6,10 @@ titleSlug: han-yan-jiang-jun-miao
 author: 聞肇瑝
 authorPinyin: wen2 zhao4 huang2
 authorSlug: wen-zhao-huang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

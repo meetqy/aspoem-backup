@@ -6,10 +6,10 @@ titleSlug: song-lin-an-nan-dang-chong-jue-kong-shan-shi-ji
 author: 釋善清
 authorPinyin: shi4 shan4 qing1
 authorSlug: shi-shan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

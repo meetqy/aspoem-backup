@@ -6,10 +6,10 @@ titleSlug: zai-yong-yun-feng-xie-de-sheng-shang-shu-jian-he-qie-yi-jie-chao
 author: 綦崇禮
 authorPinyin: qi2 chong2 li3
 authorSlug: qi-chong-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

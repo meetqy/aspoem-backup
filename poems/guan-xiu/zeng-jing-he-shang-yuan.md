@@ -9,22 +9,22 @@ authorSlug: guan-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 藏經看幾徧，眉有數條霜。
-- 萬境心都泯，深冬日亦長。
-- 窗虛花木氣，衲挂水雲鄉。
-- 時說秋歸夢，峰頭雪滿牀。
+- 貌古眉如雪，看經二十霜。
+- 尋常對詩客，祗勸療心瘡。
+- 炭火邕湖瀅，山晴紫竹涼。
+- 怡然無一事，流水自湯湯。
 
 ## 拼音
 
-- cang2 jing1 kan4 ji1 bian4 ， mei2 you3 shu4 tiao2 shuang1 。
-- wan4 jing4 xin1 dou1 min3 ， shen1 dong1 ri4 yi4 chang2 。
-- chuang1 xu1 hua1 mu4 qi4 ， na4 gua4 shui3 yun2 xiang1 。
-- shi2 shuo1 qiu1 gui1 meng4 ， feng1 tou2 xue3 man3 chuang2 。
+- mao4 gu3 mei2 ru2 xue3 ， kan4 jing1 er4 shi2 shuang1 。
+- xun2 chang2 dui4 shi1 ke4 ， zhi1 quan4 liao2 xin1 chuang1 。
+- tan4 huo3 yong1 hu2 ying2 ， shan1 qing2 zi3 zhu2 liang2 。
+- yi2 ran2 wu2 yi2 shi4 ， liu2 shui3 zi4 tang1 tang1 。
 
 ## 注释
 

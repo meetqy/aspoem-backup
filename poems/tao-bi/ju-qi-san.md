@@ -1,24 +1,24 @@
 ---
 id: tao-bi-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
 author: 陶弼
 authorPinyin: tao2 bi4
 authorSlug: tao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 劍待張華時已晚，榻延徐孺禮應疏。
+- 峽猿朝夕聽，此地類巴黔。
 
 ## 拼音
 
-- jian4 dai4 zhang1 hua2 shi2 yi3 wan3 ， ta4 yan2 xu2 ru2 li3 ying1 shu1 。
+- xia2 yuan2 zhao1 xi1 ting1 ， ci3 di4 lei4 ba1 qian2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: dong-ye-du-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 茂陵病後非平昔，瘦骨竛竮短髮疏。
-- 紅燭悔從長夜飲，青燈喜對少年書。
-- 聖賢親見生非晚，忿慾俱空死有餘。
-- 破屋頺垣君勿笑，更闌弦誦滿吾廬。
+- 霜雪紛紛滿鬢毛，凋年懷抱獨蕭騷。
+- 房櫳夜悄孤燈暗，原野風悲萬木號。
+- 病卧極知趨死近，老勤猶欲與書鏖。
+- 小兒可付巾箱業，未用逢人嘆不遭。
 
 ## 拼音
 
-- mao4 ling2 bing4 hou4 fei1 ping2 xi1 ， shou4 gu3 ling2 ping2 duan3 fa4 shu1 。
-- hong2 zhu2 hui3 cong2 chang2 ye4 yin3 ， qing1 deng1 xi3 dui4 shao4 nian2 shu1 。
-- sheng4 xian2 qin1 jian4 sheng1 fei1 wan3 ， fen4 yu4 ju4 kong1 si3 you3 yu2 。
-- po4 wu1 tui2 yuan2 jun1 wu4 xiao4 ， geng4 lan2 xian2 song4 man3 wu2 lu2 。
+- shuang1 xue3 fen1 fen1 man3 bin4 mao2 ， diao1 nian2 huai2 bao4 du2 xiao1 sao1 。
+- fang2 long2 ye4 qiao1 gu1 deng1 an4 ， yuan2 ye3 feng1 bei1 wan4 mu4 hao4 。
+- bing4 wo4 ji2 zhi1 qu1 si3 jin4 ， lao3 qin2 you2 yu4 yu3 shu1 ao2 。
+- xiao3 er2 ke3 fu4 jin1 xiang1 ye4 ， wei4 yong4 feng2 ren2 tan4 bu4 zao1 。
 
 ## 注释
 

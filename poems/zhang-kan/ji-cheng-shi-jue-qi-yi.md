@@ -1,26 +1,26 @@
 ---
 id: zhang-kan-ji-cheng-shi-jue-qi-yi
-title: 紀程十絕  其一
-titlePinyin: ji4 cheng2 shi2 jue2     qi2 yi1
+title: 紀程十絕  其一○
+titlePinyin: ji4 cheng2 shi2 jue2     qi2 yi1 ○
 titleSlug: ji-cheng-shi-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半夜燃萁車堰歸，縣街燈火已稀微。
-- 路人莫笑奔波甚，領略江山暫解圍。
+- 冬晴全未見梅花，籬角黄花尚綴葩。
+- 賸喜交情真耐事，風流不到五侯家。
 
 ## 拼音
 
-- ban4 ye4 ran2 qi2 ju1 yan4 gui1 ， xian4 jie1 deng1 huo3 yi3 xi1 wei1 。
-- lu4 ren2 mo4 xiao4 ben1 bo1 shen4 ， ling3 lüe4 jiang1 shan1 zan4 jie3 wei2 。
+- dong1 qing2 quan2 wei4 jian4 mei2 hua1 ， li2 jiao3 huang2 hua1 shang4 zhui4 pa1 。
+- sheng4 xi3 jiao1 qing0 zhen1 nai4 shi4 ， feng1 liu2 bu2 dao4 wu3 hou2 jia1 。
 
 ## 注释
 

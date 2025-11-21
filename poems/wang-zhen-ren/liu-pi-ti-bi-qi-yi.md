@@ -6,10 +6,10 @@ titleSlug: liu-pi-ti-bi-qi-yi
 author: 王真人
 authorPinyin: wang2 zhen1 ren2
 authorSlug: wang-zhen-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: you-qi-shan-si-xun-chen-hong-duan-bei
 author: 孫邁
 authorPinyin: sun1 mai4
 authorSlug: sun-mai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

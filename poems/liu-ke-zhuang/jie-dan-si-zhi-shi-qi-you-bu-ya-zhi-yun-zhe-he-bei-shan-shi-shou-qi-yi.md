@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-jie-dan-si-zhi-shi-qi-you-bu-ya-zhi-yun-zhe-he-bei-shan-shi-shou-qi-yi
-title: 詰旦思之世豈有不押之韵輒和北山十首  其一
-titlePinyin: jie2 dan4 si1 zhi1 shi4 qi3 you3 bu4 ya1 zhi1 yun4 zhe2 he2 bei3 shan1 shi2 shou3     qi2 yi1
+title: 詰旦思之世豈有不押之韵輒和北山十首  其一○
+titlePinyin: jie2 dan4 si1 zhi1 shi4 qi3 you3 bu4 ya1 zhi1 yun4 zhe2 he2 bei3 shan1 shi2 shou3     qi2 yi1 ○
 titleSlug: jie-dan-si-zhi-shi-qi-you-bu-ya-zhi-yun-zhe-he-bei-shan-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 細比蠅鬚類，凶加豹脚名。
-- 飛颺新得勢，么喝遠聞聲。
-- 抱怨芳筋露，驚眠玉頰頳。
-- 天公許姑息，長養更生成。
+- 未必靈於己，徒令厭我龜。
+- 元君虛見夢，太卜不能知。
+- 偶活因塗尾，寧饑勿朵頤。
+- 會携渠與鶴，海上訪安期。
 
 ## 拼音
 
-- xi4 bi3 ying2 xu1 lei4 ， xiong1 jia1 bao4 jiao3 ming2 。
-- fei1 yang2 xin1 de2 shi4 ， me0 he1 yuan3 wen2 sheng1 。
-- bao4 yuan4 fang1 jin1 lu4 ， jing1 mian2 yu4 jia2 cheng1 。
-- tian1 gong1 xu1 gu1 xi1 ， chang2 yang3 geng1 sheng1 cheng2 。
+- wei4 bi4 ling2 wu1 ji3 ， tu2 ling4 yan4 wo3 gui1 。
+- yuan2 jun1 xu1 jian4 meng4 ， tai4 bu3 bu4 neng2 zhi1 。
+- ou3 huo2 yin1 tu2 wei3 ， ning2 ji1 wu4 duo3 yi2 。
+- hui4 xie2 qu2 yu3 he4 ， hai3 shang4 fang3 an1 qi1 。
 
 ## 注释
 

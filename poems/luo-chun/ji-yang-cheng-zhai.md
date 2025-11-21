@@ -6,10 +6,10 @@ titleSlug: ji-yang-cheng-zhai
 author: 羅椿
 authorPinyin: luo2 chun1
 authorSlug: luo-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

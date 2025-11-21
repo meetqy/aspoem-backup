@@ -6,9 +6,9 @@ titleSlug: liu-yue-chu-qi-ri-yu-xiao-zhi-you-pu-xi-lin-du-mu-qiao-er-huan
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

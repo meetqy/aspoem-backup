@@ -1,26 +1,26 @@
 ---
 id: wang-gui-gong-ci-qi-qi
-title: 宮詞  其七
-titlePinyin: gong1 ci2     qi2 qi1
+title: 宮詞  其七○
+titlePinyin: gong1 ci2     qi2 qi1 ○
 titleSlug: gong-ci-qi-qi
 author: 王珪
 authorPinyin: wang2 gui1
 authorSlug: wang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑤臺夜滴金莖露，水殿凉生玉枕風。
-- 卧看星河歸閣晚，月斜疏影轉梧桐。
+- 鑾輿昨夜宿郊壇，月淡風低綵內寒。
+- 密寫銷金紅榜字，宮中日日報平安。
 
 ## 拼音
 
-- yao2 tai2 ye4 di1 jin1 jing4 lu4 ， shui3 dian4 liang2 sheng1 yu4 zhen3 feng1 。
-- wo4 kan4 xing1 he2 gui1 ge2 wan3 ， yue4 xie2 shu1 ying3 zhuan3 wu2 tong2 。
+- luan2 yu2 zuo2 ye4 su4 jiao1 tan2 ， yue4 dan4 feng1 di1 cai3 nei4 han2 。
+- mi4 xie3 xiao1 jin1 hong2 bang3 zi4 ， gong1 zhong1 ri4 ri4 bao4 ping2 an1 。
 
 ## 注释
 

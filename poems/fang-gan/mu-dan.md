@@ -9,22 +9,22 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 借問庭芳早晚栽，座中疑展畫屏開。
-- 花分淺淺臙脂臉，葉墮殷殷膩粉腮。
-- 紅砌不須誇芍藥，白蘋何用逞重臺。
-- 慇懃爲報看花客，莫學遊蜂日日來。
+- 不逢盛暑不衝寒，種子成叢用法難。
+- 醉眼若爲拋去得，狂心更擬折來看。
+- 凌霜烈火吹無豔，裛露陰霞曬不乾。
+- 莫道嬌紅怕風雨，經時猶自未凋殘。
 
 ## 拼音
 
-- jie4 wen4 ting2 fang1 zao3 wan3 zai1 ， zuo4 zhong1 yi2 zhan3 hua4 ping2 kai1 。
-- hua1 fen1 qian3 qian3 yan1 zhi1 lian3 ， ye4 duo4 yin1 yin1 ni4 fen3 sai1 。
-- hong2 qi4 bu4 xu1 kua1 shao2 yao4 ， bai2 pin2 he2 yong4 cheng3 zhong4 tai2 。
-- yin1 qin2 wei2 bao4 kan4 hua1 ke4 ， mo4 xue2 you2 feng1 ri4 ri4 lai2 。
+- bu4 feng2 sheng4 shu3 bu4 chong1 han2 ， zhong3 zi3 cheng2 cong2 yong4 fa3 nan2 。
+- zui4 yan3 ruo4 wei2 pao1 qu4 de2 ， kuang2 xin1 geng4 ni3 zhe2 lai2 kan4 。
+- ling2 shuang1 lie4 huo3 chui1 wu2 yan4 ， yi4 lu4 yin1 xia2 shai4 bu4 qian2 。
+- mo4 dao4 jiao1 hong2 pa4 feng1 yu3 ， jing1 shi2 you2 zi4 wei4 diao1 can2 。
 
 ## 注释
 

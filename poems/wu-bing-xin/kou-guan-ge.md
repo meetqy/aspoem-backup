@@ -6,9 +6,9 @@ titleSlug: kou-guan-ge
 author: 吳秉信
 authorPinyin: wu2 bing3 xin4
 authorSlug: wu-bing-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

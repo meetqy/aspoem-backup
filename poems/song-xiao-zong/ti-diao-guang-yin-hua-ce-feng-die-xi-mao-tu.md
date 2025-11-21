@@ -6,10 +6,10 @@ titleSlug: ti-diao-guang-yin-hua-ce-feng-die-xi-mao-tu
 author: 宋孝宗
 authorPinyin: song4 xiao4 zong1
 authorSlug: song-xiao-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

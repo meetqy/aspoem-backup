@@ -6,10 +6,10 @@ titleSlug: ji-fan-ji-sui
 author: 范季隨父
 authorPinyin: fan4 ji4 sui2 fu4
 authorSlug: fan-ji-sui-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

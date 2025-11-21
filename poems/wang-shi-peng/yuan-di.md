@@ -6,21 +6,21 @@ titleSlug: yuan-di
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 德化欲遵周軌轍，刑名思革漢規模。
-- 更生踈斥蕭生戮，元帝何曾善用儒。
+- 金陵王氣爲誰鍾，五馬南浮一化龍。
+- 四海民心共思晉，江東何事却從容。
 
 ## 拼音
 
-- de2 hua4 yu4 zun1 zhou1 gui3 zhe2 ， xing2 ming2 si1 ge2 han4 gui1 mo2 。
-- geng1 sheng1 shu1 chi4 xiao1 sheng1 lu4 ， yuan2 di4 he2 ceng2 shan4 yong4 ru2 。
+- jin1 ling2 wang2 qi4 wei2 shui2 zhong1 ， wu3 ma3 nan2 fu2 yi2 hua4 long2 。
+- si4 hai3 min2 xin1 gong4 si1 jin4 ， jiang1 dong1 he2 shi4 que4 cong2 rong2 。
 
 ## 注释
 

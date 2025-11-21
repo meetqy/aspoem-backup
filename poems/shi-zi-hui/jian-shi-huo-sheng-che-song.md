@@ -6,10 +6,10 @@ titleSlug: jian-shi-huo-sheng-che-song
 author: 釋自回
 authorPinyin: shi4 zi4 hui2
 authorSlug: shi-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

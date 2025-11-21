@@ -6,10 +6,10 @@ titleSlug: tong-you-ren-fang-shi-shi
 author: 趙彥鈕
 authorPinyin: zhao4 yan4 niu3
 authorSlug: zhao-yan-niu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

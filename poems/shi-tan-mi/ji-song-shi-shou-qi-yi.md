@@ -1,30 +1,28 @@
 ---
 id: shi-tan-mi-ji-song-shi-shou-qi-yi
-title: 偈頌十首  其一
-titlePinyin: ji4 song4 shi2 shou3     qi2 yi1
+title: 偈頌十首  其一○
+titlePinyin: ji4 song4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-shou-qi-yi
 author: 釋曇密
 authorPinyin: shi4 tan2 mi4
 authorSlug: shi-tan-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一二三四五，金木水火土。
-- 拾得語寒山，豐干騎老虎。
-- 報君知，莫莽鹵。
-- 從來保福四謾人，不似禾山解打鼓。
+- 湖山疊亂青，湖水漾虛碧。
+- 斷岸蓼花紅，疎林秋露滴。
+- 良哉觀世音，處處失彌勒。
 
 ## 拼音
 
-- yi1 er4 san1 si4 wu3 ， jin1 mu4 shui3 huo3 tu3 。
-- shi2 de2 yu3 han2 shan1 ， feng1 gan1 qi2 lao3 hu3 。
-- bao4 jun1 zhi1 ， mo4 mang3 lu3 。
-- cong2 lai2 bao3 fu2 si4 man2 ren2 ， bu2 si4 he2 shan1 jie3 da3 gu3 。
+- hu2 shan1 die2 luan4 qing1 ， hu2 shui3 yang4 xu1 bi4 。
+- duan4 an4 liao3 hua1 hong2 ， shu1 lin2 qiu1 lu4 di1 。
+- liang2 zai1 guan1 shi4 yin1 ， chu3 chu3 shi1 mi2 le4 。
 
 ## 注释
 

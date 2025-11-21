@@ -6,9 +6,9 @@ titleSlug: cheng-gao-an-ji
 author: 釋自圓
 authorPinyin: shi4 zi4 yuan2
 authorSlug: shi-zi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

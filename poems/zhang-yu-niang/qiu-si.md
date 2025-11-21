@@ -6,21 +6,23 @@ titleSlug: qiu-si
 author: 張玉孃
 authorPinyin: zhang1 yu4 niang2
 authorSlug: zhang-yu-niang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋入銀牀老井梧，能言鸚鵡日相呼。
-- 蘭閨半月閒鍼線，學得崔徽一鏡圖。
+- 爽籟生靈逕，清秋澹碧空。
+- 乘凉賒月色，問夜出簾櫳。
+- 獨坐憐團扇，羅衣吹暗風。
 
 ## 拼音
 
-- qiu1 ru4 yin2 chuang2 lao3 jing3 wu2 ， neng2 yan2 ying1 wu3 ri4 xiang1 hu1 。
-- lan2 gui1 ban4 yue4 xian2 zhen1 xian4 ， xue2 de2 cui1 hui1 yi2 jing4 tu2 。
+- shuang3 lai4 sheng1 ling2 jing4 ， qing1 qiu1 dan4 bi4 kong1 。
+- cheng2 liang2 she1 yue4 se4 ， wen4 ye4 chu1 lian2 long2 。
+- du2 zuo4 lian2 tuan2 shan4 ， luo2 yi1 chui1 an4 feng1 。
 
 ## 注释
 

@@ -3,22 +3,22 @@ id: wang-shen-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王伸
+author: 王詵
 authorPinyin: wang2 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 聲聲相勸教歸去，莫是陶潜化作君。
+- 佳人已屬沙吒利，義士今無古押衙。
 
 ## 拼音
 
-- sheng1 sheng1 xiang1 quan4 jiao4 gui1 qu4 ， mo4 shi4 tao2 qian2 hua4 zuo4 jun1 。
+- jia1 ren2 yi3 shu3 sha1 zha4 li4 ， yi4 shi4 jin1 wu2 gu3 ya1 ya2 。
 
 ## 注释
 

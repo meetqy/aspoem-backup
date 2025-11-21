@@ -6,10 +6,10 @@ titleSlug: he-yan-shi-yu-nan-mu-shi
 author: 楊虞仲
 authorPinyin: yang2 yu2 zhong4
 authorSlug: yang-yu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

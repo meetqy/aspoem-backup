@@ -6,25 +6,25 @@ titleSlug: lang-shan
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寺因先幻有，仙跡本虞君。
-- 渡口幾點屋，山腰一抹雲。
-- 長江浮地軸，孤塔煥天文。
-- 欲問秦皇事，高崖迥不聞。
+- 仙子飛昇歲月閒，游人猶向此躋攀。
+- 五峯寺踞葱蘢處，孤塔雲撐杳靄間。
+- 波渺渺邊來漢水，望青青際是吳山。
+- 風帆沙鳥無今古，潮落潮生自往還。
 
 ## 拼音
 
-- si4 yin1 xian1 huan4 you3 ， xian1 ji4 ben3 yu2 jun1 。
-- du4 kou3 ji1 dian3 wu1 ， shan1 yao1 yi4 mo3 yun2 。
-- chang2 jiang1 fu2 di4 zhou2 ， gu1 ta3 huan4 tian1 wen2 。
-- yu4 wen4 qin2 huang2 shi4 ， gao1 ya2 jiong3 bu4 wen2 。
+- xian1 zi3 fei1 sheng1 sui4 yue4 xian2 ， you2 ren2 you2 xiang4 ci3 ji1 pan1 。
+- wu3 feng1 si4 ju4 cong1 long2 chu3 ， gu1 ta3 yun2 cheng1 yao3 ai3 jian4 。
+- bo1 miao3 miao3 bian1 lai2 han4 shui3 ， wang4 qing1 qing1 ji4 shi4 wu2 shan1 。
+- feng1 fan1 sha1 niao3 wu2 jin1 gu3 ， chao2 luo4 chao2 sheng1 zi4 wang3 huan2 。
 
 ## 注释
 

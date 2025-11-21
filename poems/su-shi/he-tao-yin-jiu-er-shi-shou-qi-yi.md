@@ -1,32 +1,32 @@
 ---
 id: su-shi-he-tao-yin-jiu-er-shi-shou-qi-yi
-title: 和陶飲酒二十首  其一
-titlePinyin: he2 tao2 yin3 jiu3 er4 shi2 shou3     qi2 yi1
+title: 和陶飲酒二十首  其一○
+titlePinyin: he2 tao2 yin3 jiu3 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: he-tao-yin-jiu-er-shi-shou-qi-yi
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我不如陶生，世事纏綿之。
-- 云何得一適，亦有如生時。
-- 寸田無荆棘，佳處正在茲。
-- 縱心與事往，所遇無復疑。
-- 偶得酒中趣，空杯亦常持。
+- 籃輿兀醉守，路轉古城隅。
+- 酒力如過雨，清風消半途。
+- 前山正可數，後騎且勿驅。
+- 我緣在東南，往寄白髮餘。
+- 遥知萬松嶺，下有三畝居。
 
 ## 拼音
 
-- wo3 bu4 ru2 tao2 sheng1 ， shi4 shi4 chan2 mian2 zhi1 。
-- yun2 he2 de2 yi2 shi4 ， yi4 you3 ru2 sheng1 shi2 。
-- cun4 tian2 wu2 jing1 ji2 ， jia1 chu3 zheng4 zai4 zi1 。
-- zong4 xin1 yu3 shi4 wang3 ， suo3 yu4 wu2 fu4 yi2 。
-- ou3 de2 jiu3 zhong1 qu4 ， kong1 bei1 yi4 chang2 chi2 。
+- lan2 yu2 wu4 zui4 shou3 ， lu4 zhuan3 gu3 cheng2 yu2 。
+- jiu3 li4 ru2 guo4 yu3 ， qing1 feng1 xiao1 ban4 tu2 。
+- qian2 shan1 zheng4 ke3 shu4 ， hou4 qi2 qie3 wu4 qu1 。
+- wo3 yuan2 zai4 dong1 nan2 ， wang3 ji4 bai2 fa4 yu2 。
+- yao2 zhi1 wan4 song1 ling3 ， xia4 you3 san1 mu3 ju1 。
 
 ## 注释
 

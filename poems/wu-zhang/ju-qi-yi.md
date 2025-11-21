@@ -1,24 +1,24 @@
 ---
 id: wu-zhang-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 吳璋
 authorPinyin: wu2 zhang1
 authorSlug: wu-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 各自芬芳花默默，兩相呼喚鳥津津。
+- 衣無錦繡勞心織，味乏膏粱困舌耕。
 
 ## 拼音
 
-- ge4 zi4 fen1 fang1 hua1 mo4 mo4 ， liang3 xiang1 hu1 huan4 niao3 jin1 jin1 。
+- yi1 wu2 jin3 xiu4 lao2 xin1 zhi1 ， wei4 fa2 gao1 liang2 kun4 she2 geng1 。
 
 ## 注释
 

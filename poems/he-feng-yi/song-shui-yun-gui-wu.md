@@ -6,10 +6,10 @@ titleSlug: song-shui-yun-gui-wu
 author: 何鳳儀
 authorPinyin: he2 feng4 yi2
 authorSlug: he-feng-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

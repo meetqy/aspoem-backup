@@ -6,10 +6,10 @@ titleSlug: zhou-ci-nan-hua-si
 author: 李喬木
 authorPinyin: li3 qiao2 mu4
 authorSlug: li-qiao-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

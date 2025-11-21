@@ -6,10 +6,10 @@ titleSlug: bai-zhu-ci
 author: 郭晞宗
 authorPinyin: guo1 xi1 zong1
 authorSlug: guo-xi-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

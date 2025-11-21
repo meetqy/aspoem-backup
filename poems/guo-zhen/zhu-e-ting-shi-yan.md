@@ -6,10 +6,10 @@ titleSlug: zhu-e-ting-shi-yan
 author: 郭稹
 authorPinyin: guo1 zhen3
 authorSlug: guo-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

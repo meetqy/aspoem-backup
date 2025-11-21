@@ -6,10 +6,10 @@ titleSlug: guo-cheng-nan-mei-an-zhui-yi-hu-shou-song-shi-jun-shu-hui
 author: 鄭玠
 authorPinyin: zheng4 jie4
 authorSlug: zheng-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: lin-zhong-shi
 author: 釋有規
 authorPinyin: shi4 you3 gui1
 authorSlug: shi-you-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: zhu-guan-shi-cheng-yin-shu-er-yun-wu-hou
 author: 蒋堂
 authorPinyin: jiang3 tang2
 authorSlug: jiang-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

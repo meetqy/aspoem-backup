@@ -6,10 +6,10 @@ titleSlug: he-tai-fu-ping-zhang-wei-gong-xian-chun-geng-wu-dong-da-xue-yi-an-fu-
 author: 盧鉞
 authorPinyin: lu2 yue4
 authorSlug: lu-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

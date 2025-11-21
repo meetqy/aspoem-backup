@@ -6,10 +6,10 @@ titleSlug: he-wang-chun-chen-qi-zhi-da-zhai-wen-qin-gui-zhang-jie-shu-shang-zou-
 author: 劉禹卿
 authorPinyin: liu2 yu3 qing1
 authorSlug: liu-yu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

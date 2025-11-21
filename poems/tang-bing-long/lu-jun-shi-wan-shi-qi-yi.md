@@ -6,10 +6,10 @@ titleSlug: lu-jun-shi-wan-shi-qi-yi
 author: 湯炳龍
 authorPinyin: tang1 bing3 long2
 authorSlug: tang-bing-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

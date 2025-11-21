@@ -6,10 +6,10 @@ titleSlug: wen-wang-shi-ru-yan
 author: 趙良嗣
 authorPinyin: zhao4 liang2 si4
 authorSlug: zhao-liang-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

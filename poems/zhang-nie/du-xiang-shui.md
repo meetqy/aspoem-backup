@@ -6,21 +6,21 @@ titleSlug: du-xiang-shui
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 昔讀此離騷，今朝渡湘水。
-- 荒草滿秋原，何處尋芳芷。
+- 悠悠寒日傍城闉，風蹙微波作細鱗。
+- 莫怪此江清見底，屈平曾向此投身。
 
 ## 拼音
 
-- xi1 du2 ci3 li2 sao1 ， jin1 zhao1 du4 xiang1 shui3 。
-- huang1 cao3 man3 qiu1 yuan2 ， he2 chu3 xun2 fang1 zhi3 。
+- you1 you1 han2 ri4 bang4 cheng2 yin1 ， feng1 cu4 wei1 bo1 zuo4 xi4 lin2 。
+- mo4 guai4 ci3 jiang1 qing1 jian4 di3 ， qu1 ping2 ceng2 xiang4 ci3 tou2 shen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-li-yu-shan
 author: 艾丑
 authorPinyin: ai4 chou3
 authorSlug: ai-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

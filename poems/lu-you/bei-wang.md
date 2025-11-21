@@ -6,21 +6,25 @@ titleSlug: bei-wang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北望中原泪滿巾，黄旗空想渡河津。
-- 丈夫窮死由来事，要是江南有此人。
+- 昔我初生歲，中原失太平。
+- 寧知墓木拱，不見塞塵清。
+- 京洛無來信，江淮尚宿兵。
+- 何時青海月，重照漢家營。
 
 ## 拼音
 
-- bei3 wang4 zhong1 yuan2 lei4 man3 jin1 ， huang2 qi2 kong1 xiang3 du4 he2 jin1 。
-- zhang4 fu0 qiong2 si3 you2 lai2 shi4 ， yao4 shi0 jiang1 nan2 you3 ci3 ren2 。
+- xi1 wo3 chu1 sheng1 sui4 ， zhong1 yuan2 shi1 tai4 ping2 。
+- ning2 zhi1 mu4 mu4 gong3 ， bu2 jian4 sai1 chen2 qing1 。
+- jing1 luo4 wu2 lai2 xin4 ， jiang1 huai2 shang4 su4 bing1 。
+- he2 shi2 qing1 hai3 yue4 ， zhong4 zhao4 han4 jia1 ying2 。
 
 ## 注释
 

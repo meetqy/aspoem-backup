@@ -6,29 +6,25 @@ titleSlug: shang-hua-diao-yu-ying-zhi
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 平圃回天仗，昆池降帝輿。
-- 晨葩纔隠蝶，新藻復藏魚。
-- 露重香英濕，風長釣綫舒。
-- 乳鶑遷谷近，朱鮪躍淵初。
-- 禹律鏗金奏，堯樽遍石渠。
-- 乘時覃惠宴，不是樂觀魚。
+- 球檻靈芳濯露開，瑶津朱鮪復新來。
+- 三竿御水承垂釣，萬蕊晨葩奉賜杯。
+- 春暖僊蓂初靃靡，日斜芝蓋尚徘徊。
+- 柏梁聖作星躔麗，累氣蕪音愧仰陪。
 
 ## 拼音
 
-- ping2 pu3 hui2 tian1 zhang4 ， kun1 chi2 jiang4 di4 yu2 。
-- chen2 pa1 cai2 yin3 die2 ， xin1 zao3 fu4 cang2 yu2 。
-- lu4 zhong4 xiang1 ying1 shi1 ， feng1 chang2 diao4 xian4 shu1 。
-- ru3 ying1 qian1 gu3 jin4 ， zhu1 wei3 yue4 yuan1 chu1 。
-- yu3 lü4 keng1 jin1 zou4 ， yao2 zun1 bian4 shi2 qu2 。
-- cheng2 shi2 qin2 hui4 yan4 ， bu2 shi4 le4 guan1 yu2 。
+- qiu2 jian4 ling2 fang1 zhuo2 lu4 kai1 ， yao2 jin1 zhu1 wei3 fu4 xin1 lai2 。
+- san1 gan1 yu4 shui3 cheng2 chui2 diao4 ， wan4 rui3 chen2 pa1 feng4 ci4 bei1 。
+- chun1 nuan3 xian1 mi4 chu1 huo4 mi2 ， ri4 xie2 zhi1 gai4 shang4 pai2 huai2 。
+- bai3 liang2 sheng4 zuo4 xing1 chan2 li2 ， lei4 qi4 wu2 yin1 kui4 yang3 pei2 。
 
 ## 注释
 

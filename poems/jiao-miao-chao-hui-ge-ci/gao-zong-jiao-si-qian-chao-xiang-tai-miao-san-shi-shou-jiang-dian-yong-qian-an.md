@@ -6,25 +6,25 @@ titleSlug: gao-zong-jiao-si-qian-chao-xiang-tai-miao-san-shi-shou-jiang-dian-yon
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 明德惟馨，進止回復。
-- 裼襲安恭，嚴若惟谷。
-- 誠意昭融，羣工袂屬。
-- 成此祲容，生乎齊肅。
+- 於皇上天，欽哉成命。
+- 集于沖人，丕承列聖。
+- 爰熙紫壇，于廟告慶。
+- 肸蠁潜通，休祥荐應。
 
 ## 拼音
 
-- ming2 de2 wei2 xin1 ， jin4 zhi3 hui2 fu4 。
-- ti4 xi2 an1 gong1 ， yan2 ruo4 wei2 gu3 。
-- cheng2 yi4 zhao1 rong2 ， qun2 gong1 mei4 shu3 。
-- cheng2 ci3 jin4 rong2 ， sheng1 hu1 qi2 su4 。
+- wu1 huang2 shang0 tian1 ， qin1 zai1 cheng2 ming4 。
+- ji2 yu2 chong1 ren2 ， pi1 cheng2 lie4 sheng4 。
+- yuan2 xi1 zi3 tan2 ， yu2 miao4 gao4 qing4 。
+- xi1 xiang3 qian2 tong1 ， xiu1 xiang2 jian4 ying1 。
 
 ## 注释
 

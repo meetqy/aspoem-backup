@@ -6,9 +6,9 @@ titleSlug: xi-ti-he-tun
 author: 嚴有翼
 authorPinyin: yan2 you3 yi4
 authorSlug: yan-you-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

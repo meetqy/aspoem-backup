@@ -6,10 +6,10 @@ titleSlug: wan-bo
 author: 蔡幼學
 authorPinyin: cai4 you4 xue2
 authorSlug: cai-you-xue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ju
 author: 聶崇義
 authorPinyin: nie4 chong2 yi4
 authorSlug: nie-chong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

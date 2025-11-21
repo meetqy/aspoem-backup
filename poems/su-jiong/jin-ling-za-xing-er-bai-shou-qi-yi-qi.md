@@ -1,26 +1,26 @@
 ---
 id: su-jiong-jin-ling-za-xing-er-bai-shou-qi-yi-qi
-title: 金陵雜興二百首  其一七
-titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 yi1 qi1
+title: 金陵雜興二百首  其一七○
+titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 yi1 qi1 ○
 titleSlug: jin-ling-za-xing-er-bai-shou-qi-yi-qi
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五陵歌舞換埃塵，地下黄金出尚新。
-- 碑字已漫青草死，酸風吹殺石麒麟。
+- 似玉如酥最有情，一香熏徹萬愁醒。
+- 多應無奈花相惱，故遶荼䕷架底行。
 
 ## 拼音
 
-- wu3 ling2 ge1 wu3 huan4 ai1 chen2 ， di4 xia4 huang2 jin1 chu1 shang4 xin1 。
-- bei1 zi4 yi3 man4 qing1 cao3 si3 ， suan1 feng1 chui1 sha1 shi2 qi2 lin2 。
+- si4 yu4 ru2 su1 zui4 you3 qing2 ， yi4 xiang1 xun1 che4 wan4 chou2 xing3 。
+- duo1 ying1 wu2 nai4 hua1 xiang1 nao3 ， gu4 rao4 tu2 䕷 jia4 di3 xing2 。
 
 ## 注释
 

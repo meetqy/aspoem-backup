@@ -6,10 +6,10 @@ titleSlug: gui-mao-yu-song-yao-fu-ji-yu-yu-zhang-zhi-gong-yuan-ji-bie-yao-fu-jiu
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

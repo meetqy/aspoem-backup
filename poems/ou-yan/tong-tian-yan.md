@@ -6,10 +6,10 @@ titleSlug: tong-tian-yan
 author: 歐演
 authorPinyin: ou1 yan3
 authorSlug: ou-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

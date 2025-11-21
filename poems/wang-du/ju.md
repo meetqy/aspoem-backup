@@ -3,22 +3,22 @@ id: wang-du-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王度
-authorPinyin: wang2 du4
+author: 王瀆
+authorPinyin: wang2 du2
 authorSlug: wang-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風摧秀林木，色變附藍絲。
+- 東湖富泉石。
 
 ## 拼音
 
-- feng1 cui1 xiu4 lin2 mu4 ， se4 bian4 fu4 lan2 si1 。
+- dong1 hu2 fu4 quan2 shi2 。
 
 ## 注释
 

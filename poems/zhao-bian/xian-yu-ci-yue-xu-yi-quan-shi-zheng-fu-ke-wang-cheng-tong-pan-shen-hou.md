@@ -6,10 +6,10 @@ titleSlug: xian-yu-ci-yue-xu-yi-quan-shi-zheng-fu-ke-wang-cheng-tong-pan-shen-ho
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

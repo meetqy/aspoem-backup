@@ -6,10 +6,10 @@ titleSlug: dong-jian-yi-qie-jing-zuo-san-zi-zeng-pu-yang-guo-tang-chang-yang-yan
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: de-an-dao-zhong
 author: 趙師秀
 authorPinyin: zhao4 shi1 xiu4
 authorSlug: zhao-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 餐餘行數步，稍覺一身和。
-- 蠶月人家閉，春山瀑布多。
-- 鶑啼聲出樹，花落片隨波。
-- 前路東林近，慚因捧檄過。
+- 峰頭不住起雲煙，野水縱橫盡入田。
+- 定是人家蠶事末，道傍桑葉小如錢。
 
 ## 拼音
 
-- can1 yu2 xing2 shu4 bu4 ， shao1 jue2 yi4 shen1 he2 。
-- can2 yue4 ren2 jia1 bi4 ， chun1 shan1 pu4 bu4 duo1 。
-- ying1 ti2 sheng1 chu1 shu4 ， hua1 luo4 pian4 sui2 bo1 。
-- qian2 lu4 dong1 lin2 jin4 ， can2 yin1 peng3 xi2 guo4 。
+- feng1 tou2 bu2 zhu4 qi3 yun2 yan1 ， ye3 shui3 zong4 heng2 jin4 ru4 tian2 。
+- ding4 shi4 ren2 jia1 can2 shi4 mo4 ， dao4 bang4 sang1 ye4 xiao3 ru2 qian2 。
 
 ## 注释
 

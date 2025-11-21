@@ -6,10 +6,10 @@ titleSlug: tu-weng-gua-pu-chu-gu-huai-dong-shi-zhe-fang-shi-jing-suo-cang-yang-b
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

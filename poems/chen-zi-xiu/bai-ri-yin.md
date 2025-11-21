@@ -6,10 +6,10 @@ titleSlug: bai-ri-yin
 author: 陳自修
 authorPinyin: chen2 zi4 xiu1
 authorSlug: chen-zi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

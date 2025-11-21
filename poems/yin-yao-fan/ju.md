@@ -9,18 +9,16 @@ authorSlug: yin-yao-fan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 瘴雨出虹蝀，蠻煙渡江急。
-- 嘗聞島夷俗，犀象滿城邑。
+- 雲收碧海連天水，風動紅蕉滴露光。
 
 ## 拼音
 
-- zhang4 yu3 chu1 hong2 dong1 ， man2 yan1 du4 jiang1 ji2 。
-- chang2 wen2 dao3 yi2 su2 ， xi1 xiang4 man3 cheng2 yi4 。
+- yun2 shou1 bi4 hai3 lian2 tian1 shui3 ， feng1 dong4 hong2 jiao1 di1 lu4 guang1 。
 
 ## 注释
 

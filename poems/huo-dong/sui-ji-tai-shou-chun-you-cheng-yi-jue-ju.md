@@ -6,9 +6,9 @@ titleSlug: sui-ji-tai-shou-chun-you-cheng-yi-jue-ju
 author: 霍洞
 authorPinyin: huo4 dong4
 authorSlug: huo-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

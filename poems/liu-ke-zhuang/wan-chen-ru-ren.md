@@ -6,25 +6,25 @@ titleSlug: wan-chen-ru-ren
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨吊空閨涕未收，忍聞紼翣向斯丘。
-- 不爲尚子了家事，似與龐公圓話頭。
-- 天下斷無膠可續，人間最有劍難求。
-- 潘郎文筆尤宜誄，想見新碑字字愁。
+- 鄉井公評推內則，掖垣銘筆寫徽音。
+- 不煩陶子羞蚶鮓，肯與黔婁共布衾。
+- 三語未酬將母志，九原無負托孫心。
+- 樗翁閲世頭如雪，二紀前曾挽藁砧。
 
 ## 拼音
 
-- zuo2 diao4 kong1 gui1 ti4 wei4 shou1 ， ren3 wen2 fu2 sha4 xiang4 si1 qiu1 。
-- bu4 wei2 shang4 zi3 le0 jia1 shi4 ， si4 yu3 pang2 gong1 yuan2 hua4 tou2 。
-- tian1 xia4 duan4 wu2 jiao1 ke3 xu4 ， ren2 jian4 zui4 you3 jian4 nan2 qiu2 。
-- pan1 lang2 wen2 bi3 you2 yi2 lei3 ， xiang3 jian4 xin1 bei1 zi4 zi4 chou2 。
+- xiang1 jing3 gong1 ping2 tui1 nei4 ze2 ， ye4 yuan2 ming2 bi3 xie3 hui1 yin1 。
+- bu4 fan2 tao2 zi0 xiu1 han1 zha3 ， ken3 yu3 qian2 lou2 gong4 bu4 qin1 。
+- san1 yu3 wei4 chou2 jiang1 mu3 zhi4 ， jiu3 yuan2 wu2 fu4 tuo1 sun1 xin1 。
+- chu1 weng1 yue4 shi4 tou2 ru2 xue3 ， er4 ji4 qian2 ceng2 wan3 gao3 zhen1 。
 
 ## 注释
 

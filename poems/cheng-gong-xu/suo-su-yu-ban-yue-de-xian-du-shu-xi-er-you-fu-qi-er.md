@@ -6,10 +6,10 @@ titleSlug: suo-su-yu-ban-yue-de-xian-du-shu-xi-er-you-fu-qi-er
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

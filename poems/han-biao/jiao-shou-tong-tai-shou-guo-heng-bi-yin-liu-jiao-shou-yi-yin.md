@@ -6,10 +6,10 @@ titleSlug: jiao-shou-tong-tai-shou-guo-heng-bi-yin-liu-jiao-shou-yi-yin
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

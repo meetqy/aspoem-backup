@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋可封
 authorPinyin: shi4 ke3 feng1
 authorSlug: shi-ke-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

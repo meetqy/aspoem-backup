@@ -6,10 +6,10 @@ titleSlug: ye-fang-kan-zhi-weng
 author: 劉瀾
 authorPinyin: liu2 lan2
 authorSlug: liu-lan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

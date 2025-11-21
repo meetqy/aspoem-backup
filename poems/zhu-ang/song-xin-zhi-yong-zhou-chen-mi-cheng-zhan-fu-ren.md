@@ -6,9 +6,9 @@ titleSlug: song-xin-zhi-yong-zhou-chen-mi-cheng-zhan-fu-ren
 author: 朱昂
 authorPinyin: zhu1 ang2
 authorSlug: zhu-ang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

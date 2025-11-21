@@ -9,20 +9,18 @@ authorSlug: bao-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 御街多行客，行客悲春風。
-- 楚老幾代人，種田煬帝宮。
-- 零落池臺勢，高低禾黍中。
+- 柳塘煙起日西斜，竹浦風迴鴈弄沙。
+- 煬帝春遊古城在，壞宮芳草滿人家。
 
 ## 拼音
 
-- yu4 jie1 duo1 xing2 ke4 ， xing2 ke4 bei1 chun1 feng1 。
-- chu3 lao3 ji1 dai4 ren2 ， zhong3 tian2 yang2 di4 gong1 。
-- ling2 luo4 chi2 tai2 shi4 ， gao1 di1 he2 shu3 zhong1 。
+- liu3 tang2 yan1 qi3 ri4 xi1 xie2 ， zhu2 pu3 feng1 hui2 yan4 nong4 sha1 。
+- yang2 di4 chun1 you2 gu3 cheng2 zai4 ， huai4 gong1 fang1 cao3 man3 ren2 jia1 。
 
 ## 注释
 

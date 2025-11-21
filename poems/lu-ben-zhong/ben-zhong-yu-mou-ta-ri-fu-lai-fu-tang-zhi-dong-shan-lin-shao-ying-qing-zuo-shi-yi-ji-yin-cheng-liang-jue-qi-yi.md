@@ -6,10 +6,10 @@ titleSlug: ben-zhong-yu-mou-ta-ri-fu-lai-fu-tang-zhi-dong-shan-lin-shao-ying-qin
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: liu-ti-tai-shan
 author: 倪適
 authorPinyin: ni2 shi4
 authorSlug: ni-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

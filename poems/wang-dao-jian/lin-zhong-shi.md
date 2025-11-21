@@ -6,10 +6,10 @@ titleSlug: lin-zhong-shi
 author: 王道堅
 authorPinyin: wang2 dao4 jian1
 authorSlug: wang-dao-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

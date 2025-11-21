@@ -9,18 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 聖水出溫泉，新陽萬里傳。
-- 常居安樂國，多報未來緣。
+- 日紅衫子合羅裙，盡日看花不厭春。
+- 更向妝臺重注口，無那蕭郎恍煞人。
 
 ## 拼音
 
-- sheng4 shui3 chu1 wen1 quan2 ， xin1 yang2 wan4 li3 chuan2 。
-- chang2 ju1 an1 le4 guo2 ， duo1 bao4 wei4 lai2 yuan2 。
+- ri4 hong2 shan1 zi3 he2 luo2 qun2 ， jin4 ri4 kan4 hua1 bu2 yan4 chun1 。
+- geng4 xiang4 zhuang1 tai2 zhong4 zhu4 kou3 ， wu2 na4 xiao1 lang2 huang3 sha4 ren2 。
 
 ## 注释
 

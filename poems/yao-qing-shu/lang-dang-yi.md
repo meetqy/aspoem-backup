@@ -6,10 +6,10 @@ titleSlug: lang-dang-yi
 author: 姚清叔
 authorPinyin: yao2 qing1 shu1
 authorSlug: yao-qing-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

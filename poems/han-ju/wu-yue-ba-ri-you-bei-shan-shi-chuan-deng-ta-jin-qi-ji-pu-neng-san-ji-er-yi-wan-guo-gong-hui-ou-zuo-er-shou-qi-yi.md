@@ -6,10 +6,10 @@ titleSlug: wu-yue-ba-ri-you-bei-shan-shi-chuan-deng-ta-jin-qi-ji-pu-neng-san-ji-
 author: 韓駒
 authorPinyin: han2 ju1
 authorSlug: han-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

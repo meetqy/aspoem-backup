@@ -6,10 +6,10 @@ titleSlug: zhi-tuo-yan
 author: 盧方春
 authorPinyin: lu2 fang1 chun1
 authorSlug: lu-fang-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: chong-xiu-sheng-ji-yuan
 author: 陳有聲
 authorPinyin: chen2 you3 sheng1
 authorSlug: chen-you-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

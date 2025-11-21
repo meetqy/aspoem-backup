@@ -6,10 +6,10 @@ titleSlug: cun-mu-qi-er
 author: 李維
 authorPinyin: li3 wei2
 authorSlug: li-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

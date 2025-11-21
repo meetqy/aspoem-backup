@@ -6,10 +6,10 @@ titleSlug: chou-da-zhang-an-fu-bo-yu-xian-sheng
 author: 薛師點
 authorPinyin: xue1 shi1 dian3
 authorSlug: xue-shi-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

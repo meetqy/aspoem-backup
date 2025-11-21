@@ -6,25 +6,25 @@ titleSlug: ling-jiu-dao-zhong
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜林落衰草，遊子歎道途。
-- 豈不念急景，冉冉塵務俱。
-- 閑寫僧寺幽，髣髴摩詰圖。
-- 風前鴻鴈來，日下鶬鴰呼。
+- 歷歷山川舊，輿籃我爲遲。
+- 偶同三友去，又作一篇詩。
+- 懷德樟丘遠，閶門玉片思。
+- 僧窗欹夢枕，休問夜何其。
 
 ## 拼音
 
-- shuang1 lin2 luo4 shuai1 cao3 ， you2 zi3 tan4 dao4 tu2 。
-- qi3 bu2 nian4 ji2 jing3 ， ran3 ran3 chen2 wu4 ju4 。
-- xian2 xie3 seng1 si4 you1 ， fang3 fu2 mo2 jie2 tu2 。
-- feng1 qian2 hong2 yan4 lai2 ， ri4 xia4 cang1 gua1 hu1 。
+- li4 li4 shan1 chuan1 jiu4 ， yu2 lan2 wo3 wei2 chi2 。
+- ou3 tong2 san1 you3 qu4 ， you4 zuo4 yi4 pian1 shi1 。
+- huai2 de2 zhang1 qiu1 yuan3 ， chang1 men2 yu4 pian4 si1 。
+- seng1 chuang1 qi1 meng4 zhen3 ， xiu1 wen4 ye4 he2 qi2 。
 
 ## 注释
 

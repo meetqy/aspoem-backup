@@ -1,24 +1,24 @@
 ---
 id: li-bing-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 李邴
 authorPinyin: li3 bing3
 authorSlug: li-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 柳老拋綿後，梅酸著骨時。
+- 故斸雲根带蘚移。
 
 ## 拼音
 
-- liu3 lao3 pao1 mian2 hou4 ， mei2 suan1 zhu4 gu3 shi2 。
+- gu4 zhu2 yun2 gen1 dai4 xian3 yi2 。
 
 ## 注释
 

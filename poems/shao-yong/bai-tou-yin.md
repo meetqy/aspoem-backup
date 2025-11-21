@@ -6,21 +6,25 @@ titleSlug: bai-tou-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五福雖難備，三殤却不逢。
-- 太平無事日，得作白頭翁。
+- 何人頭不白，我白不因愁。
+- 只被人多欲，其如我不憂。
+- 不憂緣不動，多欲爲多求。
+- 年老人常事，如何不白頭。
 
 ## 拼音
 
-- wu3 fu2 sui1 nan2 bei4 ， san1 shang1 que4 bu4 feng2 。
-- tai4 ping2 wu2 shi4 ri4 ， de2 zuo4 bai2 tou2 weng1 。
+- he2 ren2 tou2 bu4 bai2 ， wo3 bai2 bu4 yin1 chou2 。
+- zhi1 bei4 ren2 duo1 yu4 ， qi2 ru2 wo3 bu4 you1 。
+- bu4 you1 yuan2 bu2 dong4 ， duo1 yu4 wei2 duo1 qiu2 。
+- nian2 lao3 ren2 chang2 shi4 ， ru2 he2 bu4 bai2 tou2 。
 
 ## 注释
 

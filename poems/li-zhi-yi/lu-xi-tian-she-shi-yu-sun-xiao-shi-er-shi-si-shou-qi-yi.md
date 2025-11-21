@@ -1,26 +1,26 @@
 ---
 id: li-zhi-yi-lu-xi-tian-she-shi-yu-sun-xiao-shi-er-shi-si-shou-qi-yi
-title: 路西田舍示虞孫小詩二十四首  其一
-titlePinyin: lu4 xi1 tian2 she4 shi4 yu2 sun1 xiao3 shi1 er4 shi2 si4 shou3     qi2 yi1
+title: 路西田舍示虞孫小詩二十四首  其一○
+titlePinyin: lu4 xi1 tian2 she4 shi4 yu2 sun1 xiao3 shi1 er4 shi2 si4 shou3     qi2 yi1 ○
 titleSlug: lu-xi-tian-she-shi-yu-sun-xiao-shi-er-shi-si-shou-qi-yi
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霅上歸來過了春，枝頭杏子可嘗新。
-- 旋追老酒醫佳况，更謝提壺解勸人。
+- 鵝兒成隊草成茵，來往馴鴉喜趁人。
+- 却恐城中無此况，莫辭辛苦且逡巡。
 
 ## 拼音
 
-- zha4 shang4 gui1 lai2 guo4 le0 chun1 ， zhi1 tou2 xing4 zi0 ke3 chang2 xin1 。
-- xuan2 zhui1 lao3 jiu3 yi1 jia1 kuang4 ， geng4 xie4 ti2 hu2 jie3 quan4 ren2 。
+- e2 er2 cheng2 dui4 cao3 cheng2 yin1 ， lai2 wang3 xun4 ya1 xi3 chen4 ren2 。
+- que4 kong3 cheng2 zhong1 wu2 ci3 kuang4 ， mo4 ci2 xin1 ku3 qie3 qun1 xun2 。
 
 ## 注释
 

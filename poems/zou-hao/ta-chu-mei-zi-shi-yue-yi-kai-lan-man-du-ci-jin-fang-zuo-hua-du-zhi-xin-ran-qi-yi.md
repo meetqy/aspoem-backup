@@ -6,10 +6,10 @@ titleSlug: ta-chu-mei-zi-shi-yue-yi-kai-lan-man-du-ci-jin-fang-zuo-hua-du-zhi-xi
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

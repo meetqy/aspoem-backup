@@ -6,10 +6,10 @@ titleSlug: nan-chang-lou-zeng-fu-zi-wei
 author: 李自中
 authorPinyin: li3 zi4 zhong1
 authorSlug: li-zi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 韓琦友
 authorPinyin: han2 qi2 you3
 authorSlug: han-qi-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

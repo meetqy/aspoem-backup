@@ -6,25 +6,21 @@ titleSlug: su-tong-ji-kou
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千里長江險，舟行夢亦驚。
-- 轉磯憂浪急，入沌喜波平。
-- 秋老天猶燠，宵長月自明。
-- 洋洋通濟水，何日得歸程。
+- 沌水從茲入，中藏寂寞鄉。
+- 相逢如故舊，爲我濟歸航。
 
 ## 拼音
 
-- qian1 li3 chang2 jiang1 xian3 ， zhou1 xing2 meng4 yi4 jing1 。
-- zhuan3 ji1 you1 lang4 ji2 ， ru4 dun4 xi3 bo1 ping2 。
-- qiu1 lao3 tian1 you2 yu4 ， xiao1 chang2 yue4 zi4 ming2 。
-- yang2 yang2 tong1 ji4 shui3 ， he2 ri4 de2 gui1 cheng2 。
+- dun4 shui3 cong2 zi1 ru4 ， zhong1 cang2 ji4 mo4 xiang1 。
+- xiang1 feng2 ru2 gu4 jiu4 ， wei2 wo3 ji4 gui1 hang2 。
 
 ## 注释
 

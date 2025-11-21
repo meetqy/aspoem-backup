@@ -6,10 +6,10 @@ titleSlug: bei-zhi-kou-zhan
 author: 朱光
 authorPinyin: zhu1 guang1
 authorSlug: zhu-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

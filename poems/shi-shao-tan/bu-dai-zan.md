@@ -6,23 +6,23 @@ titleSlug: bu-dai-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 破布囊，無一窖。
-- 靠著便憨眠，全不知天曉。
-- 若言彌勒分身，你且莫來謼我。
+- 馱布袋，握藤枝。
+- 一肚皮惡毒，好使你門知。
+- 轉腦回頭望阿誰，髯公知此意，冷笑賊風吹。
 
 ## 拼音
 
-- po4 bu4 nang2 ， wu2 yi2 jiao4 。
-- kao4 zhu4 bian4 han1 mian2 ， quan2 bu4 zhi1 tian1 xiao3 。
-- ruo4 yan2 mi2 le4 fen1 shen1 ， ni3 qie3 mo4 lai2 hu1 wo3 。
+- tuo2 bu4 dai4 ， wo4 teng2 zhi1 。
+- yi2 du4 pi2 e4 du2 ， hao3 shi3 ni3 men2 zhi1 。
+- zhuan3 nao3 hui2 tou2 wang4 a1 shui2 ， ran2 gong1 zhi1 ci3 yi4 ， leng3 xiao4 zei2 feng1 chui1 。
 
 ## 注释
 

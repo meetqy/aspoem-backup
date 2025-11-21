@@ -6,21 +6,21 @@ titleSlug: liu-di-si-hu-sheng-ri
 author: 趙抃
 authorPinyin: zhao4 bian4
 authorSlug: zhao-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祖教雙修日用間，芳醪不飲自朱顔。
-- 欲知難老真消息，曾餌融峯九轉丹。
+- 我竹林翁所得奇，心傳佛要面仙姿。
+- 年年六月十二日，觀取高齋祝壽詩。
 
 ## 拼音
 
-- zu3 jiao4 shuang1 xiu1 ri4 yong4 jian4 ， fang1 lao2 bu4 yin3 zi4 zhu1 yan2 。
-- yu4 zhi1 nan2 lao3 zhen1 xiao1 xi0 ， ceng2 er3 rong2 feng1 jiu3 zhuan3 dan1 。
+- wo3 zhu2 lin2 weng1 suo3 de2 qi2 ， xin1 chuan2 fo2 yao4 mian4 xian1 zi1 。
+- nian2 nian2 liu4 yue4 shi2 er4 ri4 ， guan1 qu3 gao1 zhai1 zhu4 shou4 shi1 。
 
 ## 注释
 

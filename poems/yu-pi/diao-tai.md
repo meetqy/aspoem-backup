@@ -6,10 +6,10 @@ titleSlug: diao-tai
 author: 余闢
 authorPinyin: yu2 pi4
 authorSlug: yu-pi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

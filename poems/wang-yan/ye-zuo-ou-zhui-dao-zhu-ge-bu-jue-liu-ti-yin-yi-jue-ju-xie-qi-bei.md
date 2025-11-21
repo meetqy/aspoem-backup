@@ -6,10 +6,10 @@ titleSlug: ye-zuo-ou-zhui-dao-zhu-ge-bu-jue-liu-ti-yin-yi-jue-ju-xie-qi-bei
 author: 王炎
 authorPinyin: wang2 yan2
 authorSlug: wang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

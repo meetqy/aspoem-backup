@@ -6,10 +6,10 @@ titleSlug: dong-xuan-qian-tian-se-mu-dan-yi-zhu-kai-er-shi-si-zhi-cheng-liang-ju
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 風吹紫荆樹，色與春庭暮。
-- 花落辭故枝，風回返無處。
-- 骨肉恩書重，漂泊難相遇。
-- 猶有淚成河，經天復東注。
+- 亂後誰歸得，他鄉勝故鄉。
+- 直爲心厄苦，久念與存亡。
+- 汝書猶在壁，汝妾已辭房。
+- 舊犬知愁恨，垂頭傍我牀。
 
 ## 拼音
 
-- feng1 chui1 zi3 jing1 shu4 ， se4 yu3 chun1 ting2 mu4 。
-- hua1 luo4 ci2 gu4 zhi1 ， feng1 hui2 fan3 wu2 chu3 。
-- gu3 rou4 en1 shu1 zhong4 ， piao1 bo2 nan2 xiang1 yu4 。
-- you2 you3 lei4 cheng2 he2 ， jing1 tian1 fu4 dong1 zhu4 。
+- luan4 hou4 shui2 gui1 de2 ， ta1 xiang1 sheng4 gu4 xiang1 。
+- zhi2 wei2 xin1 e4 ku3 ， jiu3 nian4 yu3 cun2 wang2 。
+- ru3 shu1 you2 zai4 bi4 ， ru3 qie4 yi3 ci2 fang2 。
+- jiu4 quan3 zhi1 chou2 hen4 ， chui2 tou2 bang4 wo3 chuang2 。
 
 ## 注释
 

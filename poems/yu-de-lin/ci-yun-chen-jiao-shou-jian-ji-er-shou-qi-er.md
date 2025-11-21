@@ -6,25 +6,25 @@ titleSlug: ci-yun-chen-jiao-shou-jian-ji-er-shou-qi-er
 author: 俞德鄰
 authorPinyin: yu2 de2 lin2
 authorSlug: yu-de-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江城吾舊隠，今歲喜秋穰。
-- 一頃南山豆，千畦負郭薑。
-- 看雲扃戶晚，對月引杯長。
-- 他日憑魚鴈，猶堪話楚狂。
+- 朝暮何人肯拔尤，周民何友亦何讎。
+- 還家久類蘇耽鶴，溷世聊歌甯戚牛。
+- 筆在不妨書甲子，詩亡誰爲作春秋。
+- 百年修短終歸盡，倚杖看山任白頭。
 
 ## 拼音
 
-- jiang1 cheng2 wu2 jiu4 yin3 ， jin1 sui4 xi3 qiu1 rang2 。
-- yi4 qing3 nan2 shan1 dou4 ， qian1 qi2 fu4 guo1 jiang1 。
-- kan4 yun2 jiong1 hu4 wan3 ， dui4 yue4 yin3 bei1 chang2 。
-- ta1 ri4 ping2 yu2 yan4 ， you2 kan1 hua4 chu3 kuang2 。
+- zhao1 mu4 he2 ren2 ken3 ba2 you2 ， zhou1 min2 he2 you3 yi4 he2 chou2 。
+- huan2 jia1 jiu3 lei4 su1 dan1 he4 ， hun4 shi4 liao2 ge1 ning2 qi1 niu2 。
+- bi3 zai4 bu4 fang2 shu1 jia3 zi3 ， shi1 wang2 shui2 wei2 zuo4 chun1 qiu1 。
+- bai3 nian2 xiu1 duan3 zhong1 gui1 jin4 ， yi3 zhang4 kan4 shan1 ren4 bai2 tou2 。
 
 ## 注释
 

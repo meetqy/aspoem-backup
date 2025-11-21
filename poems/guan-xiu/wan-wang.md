@@ -9,22 +9,18 @@ authorSlug: guan-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 曠望危橋上，微吟落照前。
-- 煙霞濃浸海，川岳闊連天。
-- 白鳥格不俗，孤雲態可憐。
-- 終期將爾輩，歸去舊江邊。
+- 落日碧江靜，蓮唱清且閑。
+- 更尋花發處，借月過前灣。
 
 ## 拼音
 
-- kuang4 wang4 wei1 qiao2 shang4 ， wei1 yin2 luo4 zhao4 qian2 。
-- yan1 xia2 nong2 jin4 hai3 ， chuan1 yue4 kuo4 lian2 tian1 。
-- bai2 niao3 ge2 bu4 su2 ， gu1 yun2 tai4 ke3 lian2 。
-- zhong1 qi1 jiang1 er3 bei4 ， gui1 qu4 jiu4 jiang1 bian1 。
+- luo4 ri4 bi4 jiang1 jing4 ， lian2 chang4 qing1 qie3 xian2 。
+- geng4 xun2 hua1 fa1 chu3 ， jie4 yue4 guo4 qian2 wan1 。
 
 ## 注释
 

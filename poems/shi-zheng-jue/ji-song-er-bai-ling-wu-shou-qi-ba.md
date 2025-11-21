@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-ba
-title: 偈頌二百零五首  其八
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 ba1
+title: 偈頌二百零五首  其八○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 ba1 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 孤筇長作水雲遊，底事而今放下休。
-- 一點破幽明歷歷，十分合體冷湫湫。
-- 暗中須透金針穴，轉處還藏玉線頭。
-- 劫外家風茲日辨，渠儂真與我儂儔。
+- 十方法侶共安居，雲月身心照處虛。
+- 轉側蘆汀飛鶴鷺，亡機林壑混樵漁。
+- 瘢痕若盡光無際，絲糝纔萌念有餘。
+- 廊下相逢休放喝，且容興化撒珍珠。
 
 ## 拼音
 
-- gu1 qiong2 chang2 zuo4 shui3 yun2 you2 ， di3 shi4 er2 jin1 fang4 xia4 xiu1 。
-- yi4 dian3 po4 you1 ming2 li4 li4 ， shi2 fen1 he2 ti3 leng3 qiu1 qiu1 。
-- an4 zhong1 xu1 tou4 jin1 zhen1 xue2 ， zhuan3 chu3 huan2 cang2 yu4 xian4 tou2 。
-- jie2 wai4 jia1 feng1 zi1 ri4 bian4 ， qu2 nong2 zhen1 yu3 wo3 nong2 chou2 。
+- shi2 fang1 fa3 lü3 gong4 an1 ju1 ， yun2 yue4 shen1 xin1 zhao4 chu3 xu1 。
+- zhuan3 ce4 lu2 ting1 fei1 he4 lu4 ， wang2 ji1 lin2 he4 hun4 qiao2 yu2 。
+- ban1 hen2 ruo4 jin4 guang1 wu2 ji4 ， si1 san3 cai2 meng2 nian4 you3 yu2 。
+- lang2 xia4 xiang1 feng2 xiu1 fang4 he1 ， qie3 rong2 xing1 hua4 sa1 zhen1 zhu1 。
 
 ## 注释
 

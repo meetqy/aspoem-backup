@@ -6,10 +6,10 @@ titleSlug: qian-gong-song
 author: 周無所住
 authorPinyin: zhou1 wu2 suo3 zhu4
 authorSlug: zhou-wu-suo-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

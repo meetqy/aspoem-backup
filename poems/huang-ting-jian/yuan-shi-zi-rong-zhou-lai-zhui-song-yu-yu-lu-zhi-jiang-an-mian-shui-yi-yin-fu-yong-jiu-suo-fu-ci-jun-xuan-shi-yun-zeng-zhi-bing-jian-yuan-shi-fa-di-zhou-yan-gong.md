@@ -6,10 +6,10 @@ titleSlug: yuan-shi-zi-rong-zhou-lai-zhui-song-yu-yu-lu-zhi-jiang-an-mian-shui-y
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

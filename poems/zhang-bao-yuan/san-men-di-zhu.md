@@ -6,10 +6,10 @@ titleSlug: san-men-di-zhu
 author: 張保源
 authorPinyin: zhang1 bao3 yuan2
 authorSlug: zhang-bao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

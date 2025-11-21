@@ -6,29 +6,25 @@ titleSlug: dui-jiu-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羨門安期何在哉，河流上泝崑崙開。
-- 白雲不與隱居老，孤鶴自下遼天來。
-- 春江風物正閑美，綠浦潮平柁初起。
-- 暮吹長笛發巴陵，曉挂高帆渡湘水。
-- 世間萬變更故新，會當太息摩銅人。
-- 脫裘取酒藉芳草，與子共醉壺中春。
+- 飲酒豪如卷白波，遣愁難似塞黄河。
+- 多聞只解爲身累，後死空令見事多。
+- 未試神仙餐玉法，且賡壯士入關歌。
+- 此心不道無人識，雪鬢蕭蕭奈老何。
 
 ## 拼音
 
-- xian4 men2 an1 qi1 he2 zai4 zai1 ， he2 liu2 shang4 su4 kun1 lun2 kai1 。
-- bai2 yun2 bu4 yu3 yin3 ju1 lao3 ， gu1 he4 zi4 xia4 liao2 tian1 lai2 。
-- chun1 jiang1 feng1 wu4 zheng4 xian2 mei3 ， lü4 pu3 chao2 ping2 tuo2 chu1 qi3 。
-- mu4 chui1 chang2 di2 fa1 ba1 ling2 ， xiao3 gua4 gao1 fan1 du4 xiang1 shui3 。
-- shi4 jian4 wan4 bian4 geng4 gu4 xin1 ， hui4 dang1 tai4 xi1 mo2 tong2 ren2 。
-- tuo1 qiu2 qu3 jiu3 jie4 fang1 cao3 ， yu3 zi3 gong4 zui4 hu2 zhong1 chun1 。
+- yin3 jiu3 hao2 ru2 juan4 bai2 bo1 ， qian3 chou2 nan2 si4 sai1 huang2 he2 。
+- duo1 wen2 zhi1 jie3 wei2 shen1 lei4 ， hou4 si3 kong1 ling4 jian4 shi4 duo1 。
+- wei4 shi4 shen2 xian1 can1 yu4 fa3 ， qie3 geng1 zhuang4 shi4 ru4 guan1 ge1 。
+- ci3 xin1 bu2 dao4 wu2 ren2 shi2 ， xue3 bin4 xiao1 xiao1 nai4 lao3 he2 。
 
 ## 注释
 

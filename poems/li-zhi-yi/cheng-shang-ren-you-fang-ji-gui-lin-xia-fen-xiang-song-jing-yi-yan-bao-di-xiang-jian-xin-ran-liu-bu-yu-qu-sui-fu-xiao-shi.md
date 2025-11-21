@@ -6,10 +6,10 @@ titleSlug: cheng-shang-ren-you-fang-ji-gui-lin-xia-fen-xiang-song-jing-yi-yan-ba
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

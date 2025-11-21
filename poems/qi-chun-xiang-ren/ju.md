@@ -6,9 +6,9 @@ titleSlug: ju
 author: 蘄春鄉人
 authorPinyin: qi2 chun1 xiang1 ren2
 authorSlug: qi-chun-xiang-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-song-jian-fu-tong-nian-qi-si
-title: 送堅甫同年・其四
-titlePinyin: song4 jian1 fu3 tong2 nian2・qi2 si4
+title: 送堅甫同年  其四
+titlePinyin: song4 jian1 fu3 tong2 nian2     qi2 si4
 titleSlug: song-jian-fu-tong-nian-qi-si
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

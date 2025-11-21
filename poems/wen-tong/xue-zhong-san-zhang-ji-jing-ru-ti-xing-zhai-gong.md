@@ -1,14 +1,14 @@
 ---
 id: wen-tong-xue-zhong-san-zhang-ji-jing-ru-ti-xing-zhai-gong
-title: 雪中三章寄景孺提刑・齋宮
-titlePinyin: xue3 zhong1 san1 zhang1 ji4 jing3 ru2 ti2 xing2・zhai1 gong1
+title: 雪中三章寄景孺提刑 齋宮
+titlePinyin: xue3 zhong1 san1 zhang1 ji4 jing3 ru2 ti2 xing2   zhai1 gong1
 titleSlug: xue-zhong-san-zhang-ji-jing-ru-ti-xing-zhai-gong
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

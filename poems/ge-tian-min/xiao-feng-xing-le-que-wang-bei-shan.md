@@ -6,10 +6,10 @@ titleSlug: xiao-feng-xing-le-que-wang-bei-shan
 author: 葛天民
 authorPinyin: ge3 tian1 min2
 authorSlug: ge-tian-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

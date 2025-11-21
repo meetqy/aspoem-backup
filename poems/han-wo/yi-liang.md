@@ -6,21 +6,21 @@ titleSlug: yi-liang
 author: 韓偓
 authorPinyin: han2 wo4
 authorSlug: han-wo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 愁多却訝天涼早，思倦飜嫌夜漏遲。
-- 何處山川孤館裏，向燈彎盡一雙眉。
+- 碧闌干外繡簾垂，猩血屏風畫折枝。
+- 八尺龍鬚方錦褥，已涼天氣未寒時。
 
 ## 拼音
 
-- chou2 duo1 que4 ya4 tian1 liang2 zao3 ， si1 juan4 fan1 xian2 ye4 lou4 chi2 。
-- he2 chu3 shan1 chuan1 gu1 guan3 li3 ， xiang4 deng1 wan1 jin4 yi4 shuang1 mei2 。
+- bi4 lan2 gan1 wai4 xiu4 lian2 chui2 ， xing1 xue4 ping2 feng1 hua4 zhe2 zhi1 。
+- ba1 chi3 long2 xu1 fang1 jin3 ru4 ， yi3 liang2 tian1 qi4 wei4 han2 shi2 。
 
 ## 注释
 

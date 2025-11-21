@@ -6,10 +6,10 @@ titleSlug: ju
 author: 胡泳
 authorPinyin: hu2 yong3
 authorSlug: hu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

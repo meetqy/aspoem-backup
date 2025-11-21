@@ -6,10 +6,10 @@ titleSlug: ti-ma-yuan-si-jing-tu-qi-san
 author: 內院官
 authorPinyin: nei4 yuan4 guan1
 authorSlug: nei-yuan-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

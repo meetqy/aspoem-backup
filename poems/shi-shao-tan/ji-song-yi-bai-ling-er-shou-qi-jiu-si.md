@@ -6,25 +6,27 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-jiu-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蔓草繫羅裙，山雲籠蓆帽。
-- 皷舞賀元正，石女呵呵笑。
-- 喚作新年頭佛法，賺度人不少。
-- 不喚作新年頭佛法，賺度人不少。
+- 南宕湖邊，天台山上。
+- 踏斷石橋，絕人來往，難透無過者。
+- 一關望崖，多少空惆悵。
+- 握不成拳，伸不成掌。
+- 活語翻成死款招，謾說藕絲牽玉象。
 
 ## 拼音
 
-- man4 cao3 xi4 luo2 qun2 ， shan1 yun2 long2 xi2 mao4 。
-- gu3 wu3 he4 yuan2 zheng4 ， shi2 nü3 he1 he1 xiao4 。
-- huan4 zuo4 xin1 nian2 tou2 fo2 fa3 ， zhuan4 du4 ren2 bu4 shao3 。
-- bu2 huan4 zuo4 xin1 nian2 tou2 fo2 fa3 ， zhuan4 du4 ren2 bu4 shao3 。
+- nan2 dang4 hu2 bian1 ， tian1 tai1 shan1 shang4 。
+- ta4 duan4 shi2 qiao2 ， jue2 ren2 lai2 wang3 ， nan2 tou4 wu2 guo4 zhe3 。
+- yi4 guan1 wang4 ya2 ， duo1 shao3 kong1 chou2 chang4 。
+- wo4 bu4 cheng2 quan2 ， shen1 bu4 cheng2 zhang3 。
+- huo2 yu3 fan1 cheng2 si3 kuan3 zhao1 ， man2 shuo1 ou3 si1 qian1 yu4 xiang4 。
 
 ## 注释
 

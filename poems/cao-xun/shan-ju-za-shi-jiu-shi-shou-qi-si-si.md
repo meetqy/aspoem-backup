@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-si
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒲桃天下冠，太原與全邠。
-- 邠故近西凉，種植紛士民。
-- 豈但馬乳堆，殆若荔子春。
-- 爲膏爲酒醴，香味有此珍。
+- 僕以義制心，自謂頗忠赤。
+- 保國不保身，用忠豈用力。
+- 所以四將命，悉能全趙璧。
+- 未當引年歸，痛定思政剌。
 
 ## 拼音
 
-- pu2 tao2 tian1 xia4 guan1 ， tai4 yuan2 yu3 quan2 bin1 。
-- bin1 gu4 jin4 xi1 liang2 ， zhong3 zhi2 fen1 shi4 min2 。
-- qi3 dan4 ma3 ru3 dui1 ， dai4 ruo4 li4 zi3 chun1 。
-- wei2 gao1 wei2 jiu3 li3 ， xiang1 wei4 you3 ci3 zhen1 。
+- pu2 yi3 yi4 zhi4 xin1 ， zi4 wei4 po1 zhong1 chi4 。
+- bao3 guo2 bu4 bao3 shen1 ， yong4 zhong1 qi3 yong4 li4 。
+- suo3 yi3 si4 jiang1 ming4 ， xi1 neng2 quan2 zhao4 bi4 。
+- wei4 dang1 yin3 nian2 gui1 ， tong4 ding4 si1 zheng4 la4 。
 
 ## 注释
 

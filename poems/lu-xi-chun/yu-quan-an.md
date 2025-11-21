@@ -6,10 +6,10 @@ titleSlug: yu-quan-an
 author: 呂希純
 authorPinyin: lü3 xi1 chun2
 authorSlug: lu-xi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

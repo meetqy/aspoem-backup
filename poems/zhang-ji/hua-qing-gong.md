@@ -3,28 +3,24 @@ id: zhang-ji-hua-qing-gong
 title: 華清宮
 titlePinyin: hua2 qing1 gong1
 titleSlug: hua-qing-gong
-author: 張繼
-authorPinyin: zhang1 ji4
+author: 張籍
+authorPinyin: zhang1 ji2
 authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 天寶承平奈樂何，華清宮殿鬱嵯峩。
-- 朝元閣峻臨秦嶺，羯鼓樓高俯渭河。
-- 玉樹長飄雲外曲，霓裳閑舞月中歌。
-- 只今惟有溫泉水，嗚咽聲中感慨多。
+- 溫泉流入漢離宮，宮樹行行浴殿空。
+- 武帝時人今欲盡，青山空閉御墻中。
 
 ## 拼音
 
-- tian1 bao3 cheng2 ping2 nai4 le4 he2 ， hua2 qing1 gong1 dian4 yu4 cuo2 e2 。
-- chao2 yuan2 ge2 jun4 lin2 qin2 ling3 ， jie2 gu3 lou2 gao1 fu3 wei4 he2 。
-- yu4 shu4 chang2 piao1 yun2 wai4 qu3 ， ni2 chang2 xian2 wu3 yue4 zhong1 ge1 。
-- zhi1 jin1 wei2 you3 wen1 quan2 shui3 ， wu1 yan4 sheng1 zhong1 gan3 kai3 duo1 。
+- wen1 quan2 liu2 ru4 han4 li2 gong1 ， gong1 shu4 hang2 hang2 yu4 dian4 kong1 。
+- wu3 di4 shi2 ren2 jin1 yu4 jin4 ， qing1 shan1 kong1 bi4 yu4 qiang2 zhong1 。
 
 ## 注释
 

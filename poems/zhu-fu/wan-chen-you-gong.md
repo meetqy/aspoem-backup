@@ -6,10 +6,10 @@ titleSlug: wan-chen-you-gong
 author: 朱黼
 authorPinyin: zhu1 fu3
 authorSlug: zhu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: lou-xi-shu-chu-fu-guan-xia-zheng-heng-zhong-yi-mi-jian-chong-can-mou-
 author: 張擴
 authorPinyin: zhang1 kuo4
 authorSlug: zhang-kuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

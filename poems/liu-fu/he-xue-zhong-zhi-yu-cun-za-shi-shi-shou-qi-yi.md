@@ -1,26 +1,26 @@
 ---
 id: liu-fu-he-xue-zhong-zhi-yu-cun-za-shi-shi-shou-qi-yi
-title: 和薛仲止漁村雜詩十首  其一
-titlePinyin: he2 xue1 zhong4 zhi3 yu2 cun1 za2 shi1 shi2 shou3     qi2 yi1
+title: 和薛仲止漁村雜詩十首  其一○
+titlePinyin: he2 xue1 zhong4 zhi3 yu2 cun1 za2 shi1 shi2 shou3     qi2 yi1 ○
 titleSlug: he-xue-zhong-zhi-yu-cun-za-shi-shi-shou-qi-yi
 author: 劉黻
 authorPinyin: liu2 fu2
 authorSlug: liu-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 料理楚辭甘冷闃，卜鄰惟喜近漁家。
-- 昨宵雨過平湖闊，閒看菰蒲添幾花。
+- 白髮疏疏青道衣，苦吟應有鬼神知。
+- 篇章但可陶情性，羞殺唐人自獻詩。
 
 ## 拼音
 
-- liao4 li3 chu3 ci2 gan1 leng3 qu4 ， bu3 lin2 wei2 xi3 jin4 yu2 jia1 。
-- zuo2 xiao1 yu3 guo4 ping2 hu2 kuo4 ， xian2 kan4 gu1 pu2 tian1 ji1 hua1 。
+- bai2 fa4 shu1 shu1 qing1 dao4 yi1 ， ku3 yin2 ying1 you3 gui3 shen2 zhi1 。
+- pian1 zhang1 dan4 ke3 tao2 qing2 xing4 ， xiu1 sha1 tang2 ren2 zi4 xian4 shi1 。
 
 ## 注释
 

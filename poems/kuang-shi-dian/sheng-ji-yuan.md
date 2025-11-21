@@ -6,10 +6,10 @@ titleSlug: sheng-ji-yuan
 author: 況師點
 authorPinyin: kuang4 shi1 dian3
 authorSlug: kuang-shi-dian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

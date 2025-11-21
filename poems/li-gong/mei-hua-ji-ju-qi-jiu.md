@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-jiu
-title: 梅花集句  其九
-titlePinyin: mei2 hua1 ji2 ju4     qi2 jiu3
+title: 梅花集句  其九○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 jiu3 ○
 titleSlug: mei-hua-ji-ju-qi-jiu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冰壺骨相自清臞，流落荒郊道轉孤。
-- 正是花中巢許輩，風標高古漢唐無。
+- 水邊遥見久停橈，似與詩人破寂寥。
+- 兩岸嚴風吹玉樹，莫教虛度可憐宵。
 
 ## 拼音
 
-- bing1 hu2 gu3 xiang4 zi4 qing1 qu2 ， liu2 luo4 huang1 jiao1 dao4 zhuan3 gu1 。
-- zheng4 shi4 hua1 zhong1 chao2 xu1 bei4 ， feng1 biao1 gao1 gu3 han4 tang2 wu2 。
+- shui3 bian1 yao2 jian4 jiu3 ting2 rao2 ， si4 yu3 shi1 ren2 po4 ji4 liao2 。
+- liang3 an4 yan2 feng1 chui1 yu4 shu4 ， mo4 jiao4 xu1 du4 ke3 lian2 xiao1 。
 
 ## 注释
 

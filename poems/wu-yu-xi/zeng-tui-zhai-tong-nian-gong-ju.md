@@ -6,10 +6,10 @@ titleSlug: zeng-tui-zhai-tong-nian-gong-ju
 author: 吳語溪
 authorPinyin: wu2 yu3 xi1
 authorSlug: wu-yu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

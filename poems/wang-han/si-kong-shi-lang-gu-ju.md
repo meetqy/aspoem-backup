@@ -6,10 +6,10 @@ titleSlug: si-kong-shi-lang-gu-ju
 author: 王翰
 authorPinyin: wang2 han4
 authorSlug: wang-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

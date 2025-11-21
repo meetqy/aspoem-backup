@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-feng-shan
 author: 釋師瑞
 authorPinyin: shi4 shi1 rui4
 authorSlug: shi-shi-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

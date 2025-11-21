@@ -1,26 +1,26 @@
 ---
 id: mei-yao-chen-za-shi-jue-ju-shi-qi-shou-qi-yi
-title: 雜詩絕句十七首  其一
-titlePinyin: za2 shi1 jue2 ju4 shi2 qi1 shou3     qi2 yi1
+title: 雜詩絕句十七首  其一○
+titlePinyin: za2 shi1 jue2 ju4 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: za-shi-jue-ju-shi-qi-shou-qi-yi
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蛙行動萍葉，誤觀作游魚。
-- 稍稍引兩股，已變科斗書。
+- 買魚問水客，始得鯽與魴。
+- 操刀欲割鱗，跳怒鬐鬛張。
 
 ## 拼音
 
-- wa1 xing2 dong4 ping2 ye4 ， wu4 guan1 zuo4 you2 yu2 。
-- shao1 shao1 yin3 liang3 gu3 ， yi3 bian4 ke1 dou4 shu1 。
+- mai3 yu2 wen4 shui3 ke4 ， shi3 de2 ji4 yu3 fang2 。
+- cao1 dao1 yu4 ge1 lin2 ， tiao4 nu4 qi2 lie4 zhang1 。
 
 ## 注释
 

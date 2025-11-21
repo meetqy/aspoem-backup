@@ -6,10 +6,10 @@ titleSlug: bei-ren-yi-song-pi-wei-cai-yu-chu-bu-zhi-wei-yu-shi-lang-fen-xiang-yi
 author: 朱弁
 authorPinyin: zhu1 bian4
 authorSlug: zhu-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

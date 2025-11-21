@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋思徹
 authorPinyin: shi4 si1 che4
 authorSlug: shi-si-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

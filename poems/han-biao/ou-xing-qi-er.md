@@ -6,25 +6,21 @@ titleSlug: ou-xing-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 輕風度林杪，亂山啼子規。
-- 流水去無迹，茅簷雨霏微。
-- 乍暖復薄寒，時時整巾衣。
-- 炊烟晚色起，呼童掩柴扉。
+- 膠膠擾擾復悠悠，多少迷情不掉頭。
+- 利者笑名名笑利，日前身後欲何謀。
 
 ## 拼音
 
-- qing1 feng1 du4 lin2 miao3 ， luan4 shan1 ti2 zi3 gui1 。
-- liu2 shui3 qu4 wu2 ji4 ， mao2 yan2 yu3 fei1 wei1 。
-- zha4 nuan3 fu4 bao2 han2 ， shi2 shi2 zheng3 jin1 yi1 。
-- chui1 yan1 wan3 se4 qi3 ， hu1 tong2 yan3 chai2 fei1 。
+- jiao1 jiao1 rao3 rao3 fu4 you1 you1 ， duo1 shao3 mi2 qing2 bu2 diao4 tou2 。
+- li4 zhe3 xiao4 ming2 ming2 xiao4 li4 ， ri4 qian2 shen1 hou4 yu4 he2 mou2 。
 
 ## 注释
 

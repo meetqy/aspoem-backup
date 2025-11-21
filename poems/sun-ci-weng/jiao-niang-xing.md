@@ -6,10 +6,10 @@ titleSlug: jiao-niang-xing
 author: 孫次翁
 authorPinyin: sun1 ci4 weng1
 authorSlug: sun-ci-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

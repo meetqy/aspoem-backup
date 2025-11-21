@@ -6,10 +6,10 @@ titleSlug: ji
 author: 尼凈智
 authorPinyin: ni2 jing4 zhi4
 authorSlug: ni-jing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

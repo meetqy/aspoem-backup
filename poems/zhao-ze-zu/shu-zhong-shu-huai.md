@@ -6,10 +6,10 @@ titleSlug: shu-zhong-shu-huai
 author: 趙澤祖
 authorPinyin: zhao4 ze2 zu3
 authorSlug: zhao-ze-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

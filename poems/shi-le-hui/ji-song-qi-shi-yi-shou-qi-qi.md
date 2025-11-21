@@ -1,28 +1,28 @@
 ---
 id: shi-le-hui-ji-song-qi-shi-yi-shou-qi-qi
-title: 偈頌七十一首  其七
-titlePinyin: ji4 song4 qi1 shi2 yi4 shou3     qi2 qi1
+title: 偈頌七十一首  其七○
+titlePinyin: ji4 song4 qi1 shi2 yi4 shou3     qi2 qi1 ○
 titleSlug: ji-song-qi-shi-yi-shou-qi-qi
 author: 釋了惠
 authorPinyin: shi4 le0 hui4
 authorSlug: shi-le-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山空木落，秋清露寒。
-- 釋迦鹵莽，達磨顢頇。
-- 唯有陶靖節，東籬採黄菊，爛醉夕陽殘。
+- 生於穢土，不受點污。
+- 目顧四方，周行七步。
+- 看來步步討便宜，落水也要占乾處。
 
 ## 拼音
 
-- shan1 kong1 mu4 luo4 ， qiu1 qing1 lu4 han2 。
-- shi4 jia1 lu3 mang3 ， da2 mo2 man1 han1 。
-- wei2 you3 tao2 jing4 jie2 ， dong1 li2 cai3 huang2 ju2 ， lan4 zui4 xi1 yang2 can2 。
+- sheng1 wu1 hui4 tu3 ， bu2 shou4 dian3 wu1 。
+- mu4 gu4 si4 fang1 ， zhou1 xing2 qi1 bu4 。
+- kan4 lai2 bu4 bu4 tao3 pian2 yi0 ， luo4 shui3 ye3 yao4 zhan4 qian2 chu3 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: du-yan-lian
-title: 蓮
+title: 簾
 titlePinyin: lian2
 titleSlug: lian
 author: 杜衍
 authorPinyin: du4 yan3
 authorSlug: du-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰種幽花傍淺清，含紅怨綠影亭亭。
-- 雲歸巫女粧猶潤，浴出楊妃困未醒。
-- 好把芳楊臨晚岸，莫教飛片逐浮萍。
-- 相看最憶吳船路，萬里芙蓉水滿涇。
+- 編竹狀玲瓏，庭闈盡處中。
+- 不由經緯力，安有卷舒功。
+- 春晝曾妨燕，寒宵豈隔風。
+- 都堂重獻賦，明處憶牢籠。
 
 ## 拼音
 
-- shui2 zhong3 you1 hua1 bang4 qian3 qing1 ， han2 hong2 yuan4 lü4 ying3 ting2 ting2 。
-- yun2 gui1 wu1 nü3 zhuang1 you2 run4 ， yu4 chu1 yang2 fei1 kun4 wei4 xing3 。
-- hao3 ba3 fang1 yang2 lin2 wan3 an4 ， mo4 jiao4 fei1 pian4 zhu2 fu2 ping2 。
-- xiang1 kan4 zui4 yi4 wu2 chuan2 lu4 ， wan4 li3 fu2 rong2 shui3 man3 jing1 。
+- bian1 zhu2 zhuang4 ling2 long2 ， ting2 wei2 jin4 chu3 zhong1 。
+- bu4 you2 jing1 wei3 li4 ， an1 you3 juan3 shu1 gong1 。
+- chun1 zhou4 ceng2 fang2 yan4 ， han2 xiao1 qi3 ge2 feng1 。
+- dou1 tang2 zhong4 xian4 fu4 ， ming2 chu3 yi4 lao2 long2 。
 
 ## 注释
 

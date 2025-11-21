@@ -6,10 +6,10 @@ titleSlug: fei-qi-qiao
 author: 李育
 authorPinyin: li3 yu4
 authorSlug: li-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

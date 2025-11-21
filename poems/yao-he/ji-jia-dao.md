@@ -9,22 +9,22 @@ authorSlug: yao-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漫向城中住，兒童不識錢。
-- 甕頭寒絕酒，竈額曉無煙。
-- 狂發吟如哭，愁來坐似禪。
-- 新詩有幾首，旋被世人傳。
+- 疎拙祗如此，此身誰與同。
+- 高情向酒上，無事在山中。
+- 漸老病難理，久貧吟益空。
+- 賴君時訪宿，不避北齋風。
 
 ## 拼音
 
-- man4 xiang4 cheng2 zhong1 zhu4 ， er2 tong2 bu4 shi2 qian2 。
-- weng4 tou2 han2 jue2 jiu3 ， zao4 e2 xiao3 wu2 yan1 。
-- kuang2 fa1 yin2 ru2 ku1 ， chou2 lai2 zuo4 si4 shan4 。
-- xin1 shi1 you3 ji1 shou3 ， xuan2 bei4 shi4 ren2 chuan2 。
+- shu1 zhuo1 zhi1 ru2 ci3 ， ci3 shen1 shui2 yu3 tong2 。
+- gao1 qing2 xiang4 jiu3 shang4 ， wu2 shi4 zai4 shan1 zhong1 。
+- jian4 lao3 bing4 nan2 li3 ， jiu3 pin2 yin2 yi4 kong1 。
+- lai4 jun1 shi2 fang3 su4 ， bu2 bi4 bei3 zhai1 feng1 。
 
 ## 注释
 

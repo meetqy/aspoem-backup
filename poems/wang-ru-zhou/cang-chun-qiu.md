@@ -6,10 +6,10 @@ titleSlug: cang-chun-qiu
 author: 王汝舟
 authorPinyin: wang2 ru3 zhou1
 authorSlug: wang-ru-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

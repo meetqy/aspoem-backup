@@ -6,10 +6,10 @@ titleSlug: ye-dui-jin-shan-ti-ke-lou
 author: 丁可
 authorPinyin: ding1 ke3
 authorSlug: ding-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

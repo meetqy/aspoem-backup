@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-li
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 神化妙無方，巍巍邁百王。
-- 鶴書搜隠逸，龍陛策賢良。
-- 拱揖朝羣后，賓筵闢四方。
-- 洪圖基億載，淳曜德彌光。
+- 銳旅慶回旋，邊防盡晏然。
+- 鍵櫜方偃武，飛將亦韜弦。
+- 震曜資平壘，文明協麗天。
+- 洸洸成大業，赫奕在青編。
 
 ## 拼音
 
-- shen2 hua4 miao4 wu2 fang1 ， wei1 wei1 mai4 bai3 wang2 。
-- he4 shu1 sou1 yin3 yi4 ， long2 bi4 ce4 xian2 liang2 。
-- gong3 yi1 chao2 qun2 hou4 ， bin1 yan2 pi4 si4 fang1 。
-- hong2 tu2 ji1 yi4 zai4 ， chun2 yao4 de2 mi2 guang1 。
+- rui4 lü3 qing4 hui2 xuan2 ， bian1 fang2 jin4 yan4 ran2 。
+- jian4 gao1 fang1 yan3 wu3 ， fei1 jiang1 yi4 tao1 xian2 。
+- zhen4 yao4 zi1 ping2 lei3 ， wen2 ming2 xie2 li2 tian1 。
+- guang1 guang1 cheng2 da4 ye4 ， he4 yi4 zai4 qing1 bian1 。
 
 ## 注释
 

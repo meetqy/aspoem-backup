@@ -6,10 +6,10 @@ titleSlug: ti-yuan-ming-ai-ju-tu
 author: 吳梅卿
 authorPinyin: wu2 mei2 qing1
 authorSlug: wu-mei-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

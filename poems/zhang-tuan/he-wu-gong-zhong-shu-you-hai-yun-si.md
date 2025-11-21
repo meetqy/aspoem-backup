@@ -6,10 +6,10 @@ titleSlug: he-wu-gong-zhong-shu-you-hai-yun-si
 author: 張湍
 authorPinyin: zhang1 tuan1
 authorSlug: zhang-tuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

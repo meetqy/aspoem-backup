@@ -6,25 +6,25 @@ titleSlug: ci-huang-zhong-zhen-xia-zhong-yun
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 峽水清一線，峽山赭千層。
-- 禹力不到處，蜀靈用功深。
-- 蛟龍改窟穴，日暮聞微吟。
-- 遥想風雨夕，扁舟繫楓林。
+- 九江度盡惡風波，峽口窺天一握多。
+- 亦愛吾廬覺歸好，數乘此險奈親何。
+- 響迎濤瀨將愁上，青惜峯巒等夢過。
+- 不管行人聽不得，暝猿和雨嘯雲蘿。
 
 ## 拼音
 
-- xia2 shui3 qing1 yi2 xian4 ， xia2 shan1 zhe3 qian1 ceng2 。
-- yu3 li4 bu2 dao4 chu3 ， shu3 ling2 yong4 gong1 shen1 。
-- jiao1 long2 gai3 ku1 xue2 ， ri4 mu4 wen2 wei1 yin2 。
-- yao2 xiang3 feng1 yu3 xi1 ， pian1 zhou1 xi4 feng1 lin2 。
+- jiu3 jiang1 du4 jin4 e4 feng1 bo1 ， xia2 kou3 kui1 tian1 yi2 wo4 duo1 。
+- yi4 ai4 wu2 lu2 jue2 gui1 hao3 ， shu4 cheng2 ci3 xian3 nai4 qin1 he2 。
+- xiang3 ying2 tao1 lai4 jiang1 chou2 shang4 ， qing1 xi1 feng1 luan2 deng3 meng4 guo4 。
+- bu4 guan3 xing2 ren2 ting1 bu4 de2 ， ming2 yuan2 he2 yu3 xiao4 yun2 luo2 。
 
 ## 注释
 

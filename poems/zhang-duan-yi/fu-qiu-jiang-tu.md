@@ -6,10 +6,10 @@ titleSlug: fu-qiu-jiang-tu
 author: 張端義
 authorPinyin: zhang1 duan1 yi4
 authorSlug: zhang-duan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

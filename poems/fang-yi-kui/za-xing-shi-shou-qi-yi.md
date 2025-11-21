@@ -1,30 +1,30 @@
 ---
 id: fang-yi-kui-za-xing-shi-shou-qi-yi
-title: 雜興十首  其一
-titlePinyin: za2 xing1 shi2 shou3     qi2 yi1
+title: 雜興十首  其一○
+titlePinyin: za2 xing1 shi2 shou3     qi2 yi1 ○
 titleSlug: za-xing-shi-shou-qi-yi
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 前程在處暗危機，脫跡紅塵入翠微。
-- 清水一竿張釣具，白雲四壁掛樵衣。
-- 馬惟畫骨空嗟瘦，龍不點睛那解飛。
-- 差有陳編相伴住，時將詩句洗前非。
+- 生平繆計百無成，衰白如期入鏡明。
+- 鳥不驚猜無忤物，人多怒駡漸逃名。
+- 襟懷落落憐孤影，歲月悠悠過半生。
+- 老去自知無處用，只留雙眼待昇平。
 
 ## 拼音
 
-- qian2 cheng2 zai4 chu3 an4 wei1 ji1 ， tuo1 ji4 hong2 chen2 ru4 cui4 wei1 。
-- qing1 shui3 yi4 gan1 zhang1 diao4 ju4 ， bai2 yun2 si4 bi4 gua4 qiao2 yi1 。
-- ma3 wei2 hua4 gu3 kong1 jie1 shou4 ， long2 bu4 dian3 jing1 na4 jie3 fei1 。
-- cha4 you3 chen2 bian1 xiang1 ban4 zhu4 ， shi2 jiang1 shi1 ju4 xi3 qian2 fei1 。
+- sheng1 ping2 mou2 ji4 bai3 wu2 cheng2 ， shuai1 bai2 ru2 qi1 ru4 jing4 ming2 。
+- niao3 bu4 jing1 cai1 wu2 wu3 wu4 ， ren2 duo1 nu4 ma4 jian4 tao2 ming2 。
+- jin1 huai2 luo4 luo4 lian2 gu1 ying3 ， sui4 yue4 you1 you1 guo4 ban4 sheng1 。
+- lao3 qu4 zi4 zhi1 wu2 chu3 yong4 ， zhi1 liu2 shuang1 yan3 dai4 sheng1 ping2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: hun-lun-an-cheng-xiao-ran-zi-qin-qing-yin-yi-he-zi-wei-yun-gong-zhuo-
 author: 石元規
 authorPinyin: shi2 yuan2 gui1
 authorSlug: shi-yuan-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

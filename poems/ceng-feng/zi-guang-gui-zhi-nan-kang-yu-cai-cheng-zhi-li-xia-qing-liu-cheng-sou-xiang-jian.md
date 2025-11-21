@@ -6,10 +6,10 @@ titleSlug: zi-guang-gui-zhi-nan-kang-yu-cai-cheng-zhi-li-xia-qing-liu-cheng-sou-
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

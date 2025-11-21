@@ -1,30 +1,30 @@
 ---
 id: fang-yue-gan-huai-qi-yi
-title: 感懷  其一
-titlePinyin: gan3 huai2     qi2 yi1
+title: 感懷  其一○
+titlePinyin: gan3 huai2     qi2 yi1 ○
 titleSlug: gan-huai-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨擅松風一壑哀，竹門雖設爲誰開。
-- 宦情已矣隨流去，老色蒼然上面來。
-- 已慣山居無曆日，不知人世有公台。
-- 天生此手終何用，只解持杯亦快哉。
+- 曩昔行藏已熟籌，最爲上策是無求。
+- 看人面孔有何好，如此頭顱只麽休。
+- 草草園廬山北住，匆匆歲月水東流。
+- 莫因一片梧桐葉，瘦損能詩沈隠侯。
 
 ## 拼音
 
-- du2 shan4 song1 feng1 yi2 he4 ai1 ， zhu2 men2 sui1 she4 wei2 shui2 kai1 。
-- huan4 qing2 yi3 yi3 sui2 liu2 qu4 ， lao3 se4 cang1 ran2 shang4 mian4 lai2 。
-- yi3 guan4 shan1 ju1 wu2 li4 ri4 ， bu4 zhi1 ren2 shi4 you3 gong1 tai2 。
-- tian1 sheng1 ci3 shou3 zhong1 he2 yong4 ， zhi1 jie3 chi2 bei1 yi4 kuai4 zai1 。
+- nang3 xi1 xing2 cang2 yi3 shu2 chou2 ， zui4 wei2 shang4 ce4 shi4 wu2 qiu2 。
+- kan4 ren2 mian4 kong3 you3 he2 hao3 ， ru2 ci3 tou2 lu2 zhi1 mo2 xiu1 。
+- cao3 cao3 yuan2 lu2 shan1 bei3 zhu4 ， cong1 cong1 sui4 yue4 shui3 dong1 liu2 。
+- mo4 yin1 yi2 pian4 wu2 tong2 ye4 ， shou4 sun3 neng2 shi1 shen3 yin3 hou2 。
 
 ## 注释
 

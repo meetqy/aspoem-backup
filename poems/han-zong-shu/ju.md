@@ -6,10 +6,10 @@ titleSlug: ju
 author: 韓宗恕
 authorPinyin: han2 zong1 shu4
 authorSlug: han-zong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

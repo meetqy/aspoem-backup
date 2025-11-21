@@ -1,30 +1,30 @@
 ---
 id: chen-zao-xie-cheng-shuai-yuan-zhi-shi-qi-yi
-title: 謝程帥袁制使  其一
-titlePinyin: xie4 cheng2 shuai4 yuan2 zhi4 shi3     qi2 yi1
+title: 謝程帥袁制使  其一○
+titlePinyin: xie4 cheng2 shuai4 yuan2 zhi4 shi3     qi2 yi1 ○
 titleSlug: xie-cheng-shuai-yuan-zhi-shi-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔人道與俱，物外一不假。
-- 而我同是見，兼取及土苴。
-- 虛心超萬境，詩筆時一把。
-- 造詣豈二機，此秘知者寡。
+- 一編用劉漢，誰似進履生。
+- 高吟謝世書，我嘗羨彌明。
+- 昭文倦袖手，此曲寧虧成。
+- 屠龍與澼洸，付渠自重輕。
 
 ## 拼音
 
-- xi1 ren2 dao4 yu3 ju4 ， wu4 wai4 yi2 bu4 jia3 。
-- er2 wo3 tong2 shi4 jian4 ， jian1 qu3 ji2 tu3 ju1 。
-- xu1 xin1 chao1 wan4 jing4 ， shi1 bi3 shi2 yi4 ba3 。
-- zao4 yi4 qi3 er4 ji1 ， ci3 mi4 zhi1 zhe3 gua3 。
+- yi4 bian1 yong4 liu2 han4 ， shui2 si4 jin4 lü3 sheng1 。
+- gao1 yin2 xie4 shi4 shu1 ， wo3 chang2 xian4 mi2 ming2 。
+- zhao1 wen2 juan4 xiu4 shou3 ， ci3 qu3 ning2 kui1 cheng2 。
+- tu2 long2 yu3 pi4 guang1 ， fu4 qu2 zi4 zhong4 qing1 。
 
 ## 注释
 

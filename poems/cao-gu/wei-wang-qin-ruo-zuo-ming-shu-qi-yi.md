@@ -6,10 +6,10 @@ titleSlug: wei-wang-qin-ruo-zuo-ming-shu-qi-yi
 author: 曹谷
 authorPinyin: cao2 gu3
 authorSlug: cao-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

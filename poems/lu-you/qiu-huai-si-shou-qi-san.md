@@ -6,21 +6,25 @@ titleSlug: qiu-huai-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迢迢枕上望明河，帳薄簾疏奈冷何。
-- 不惜衣篝重換火，却緣微潤得香多。
+- 獨立離人境，幽居察物情。
+- 蟻知軍陣法，蟲作緯車聲。
+- 身老惟貪睡，兒癡亦惰耕。
+- 騰騰復兀兀，何以報時平。
 
 ## 拼音
 
-- tiao2 tiao2 zhen3 shang4 wang4 ming2 he2 ， zhang4 bao2 lian2 shu1 nai4 leng3 he2 。
-- bu4 xi1 yi1 gou1 zhong4 huan4 huo3 ， que4 yuan2 wei1 run4 de2 xiang1 duo1 。
+- du2 li4 li2 ren2 jing4 ， you1 ju1 cha2 wu4 qing2 。
+- yi3 zhi1 jun1 zhen4 fa3 ， chong2 zuo4 wei3 ju1 sheng1 。
+- shen1 lao3 wei2 tan1 shui4 ， er2 chi1 yi4 duo4 geng1 。
+- teng2 teng2 fu4 wu4 wu4 ， he2 yi3 bao4 shi2 ping2 。
 
 ## 注释
 

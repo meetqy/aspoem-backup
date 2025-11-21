@@ -15,9 +15,11 @@ tags: []
 ## 正文
 
 - 松蘿深處住，閑野不生愁。
-- 鳥語烟嵐靜，水聲門戶秋。
+- 鳥語煙嵐靜，水聲門戶秋。
 - 花間歸洞路，山下釣魚舟。
 - 沐浴聖王化，自憐絲滿頭。
+- （影印本《詩淵》第一冊第四九一頁。
+- ）。
 
 ## 拼音
 
@@ -25,6 +27,8 @@ tags: []
 - niao3 yu3 yan1 lan2 jing4 ， shui3 sheng1 men2 hu4 qiu1 。
 - hua1 jian4 gui1 dong4 lu4 ， shan1 xia4 diao4 yu2 zhou1 。
 - mu4 yu4 sheng4 wang2 hua4 ， zi4 lian2 si1 man3 tou2 。
+- （ ying3 yin4 ben3 《 shi1 yuan1 》 di4 yi1 ce4 di4 si4 jiu3 yi1 ye4 。
+- ）。
 
 ## 注释
 

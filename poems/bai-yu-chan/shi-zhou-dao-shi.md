@@ -6,21 +6,21 @@ titleSlug: shi-zhou-dao-shi
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人行秋色裏，詩入畫圖中。
-- 笑指白雲頂，猿啼第一峰。
+- 前山隠隠起雷聲，細雨絲絲濯旱氛。
+- 何處飛來松上鶴，晚風唳斷九天雲。
 
 ## 拼音
 
-- ren2 hang2 qiu1 se4 li3 ， shi1 ru4 hua4 tu2 zhong1 。
-- xiao4 zhi3 bai2 yun2 ding3 ， yuan2 ti2 di4 yi1 feng1 。
+- qian2 shan1 yin3 yin3 qi3 lei2 sheng1 ， xi4 yu3 si1 si1 zhuo2 han4 fen1 。
+- he2 chu3 fei1 lai2 song1 shang4 he4 ， wan3 feng1 li4 duan4 jiu3 tian1 yun2 。
 
 ## 注释
 

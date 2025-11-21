@@ -1,28 +1,34 @@
 ---
 id: shi-zheng-jue-shan-ren-xie-zhen-qiu-zan-qi-si
-title: 禪人寫真求贊  其四
-titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 si4
+title: 禪人寫真求贊  其四○
+titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 si4 ○
 titleSlug: shan-ren-xie-zhen-qiu-zan-qi-si
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 情閒口快，眼深鼻隆。
-- 有時對雲水，無可展家風。
-- 夢鶴卧寒兮月魂泣露，冥鴻望斷兮秋色摩空。
+- 風日面皮，秋山眉目。
+- 閑情肖水雲，野性從麋鹿。
+- 憨憨少室九年，草草曹溪一宿。
+- 窮根徹源，出髓敲骨。
+- 明回老兔宮，冷下蒼龍窟。
+- 諸人名邈兮摇手未然，萬象森羅兮點頭具足。
 
 ## 拼音
 
-- qing2 xian2 kou3 kuai4 ， yan3 shen1 bi2 long2 。
-- you3 shi2 dui4 yun2 shui3 ， wu2 ke3 zhan3 jia1 feng1 。
-- meng4 he4 wo4 han2 xi1 yue4 hun2 qi4 lu4 ， ming2 hong2 wang4 duan4 xi1 qiu1 se4 mo2 kong1 。
+- feng1 ri4 mian4 pi2 ， qiu1 shan1 mei2 mu4 。
+- xian2 qing2 xiao4 shui3 yun2 ， ye3 xing4 cong2 mi2 lu4 。
+- han1 han1 shao3 shi4 jiu3 nian2 ， cao3 cao3 cao2 xi1 yi2 su4 。
+- qiong2 gen1 che4 yuan2 ， chu1 sui3 qiao1 gu3 。
+- ming2 hui2 lao3 tu4 gong1 ， leng3 xia4 cang1 long2 ku1 。
+- zhu1 ren2 ming2 miao3 xi1 yao2 shou3 wei4 ran2 ， wan4 xiang4 sen1 luo2 xi1 dian3 tou2 ju4 zu2 。
 
 ## 注释
 

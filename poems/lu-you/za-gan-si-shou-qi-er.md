@@ -6,21 +6,21 @@ titleSlug: za-gan-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古言忍字似而非，獨有癡頑二字奇。
-- 此是龜堂安樂法，大書銘座更何疑。
+- 天際晴雲舒復卷，庭中風絮去還來。
+- 人生自在常如此，何事能妨笑口開。
 
 ## 拼音
 
-- gu3 yan2 ren3 zi4 si4 er2 fei1 ， du2 you3 chi1 wan2 er4 zi4 qi2 。
-- ci3 shi4 gui1 tang2 an1 le4 fa3 ， da4 shu1 ming2 zuo4 geng4 he2 yi2 。
+- tian1 ji4 qing2 yun2 shu1 fu4 juan4 ， ting2 zhong1 feng1 xu4 qu4 huan2 lai2 。
+- ren2 sheng1 zi4 zai4 chang2 ru2 ci3 ， he2 shi4 neng2 fang2 xiao4 kou3 kai1 。
 
 ## 注释
 

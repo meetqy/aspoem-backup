@@ -6,10 +6,10 @@ titleSlug: yu-si-shan
 author: 徐得之
 authorPinyin: xu2 de2 zhi1
 authorSlug: xu-de-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

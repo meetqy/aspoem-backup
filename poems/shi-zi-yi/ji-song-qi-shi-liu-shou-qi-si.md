@@ -1,26 +1,28 @@
 ---
 id: shi-zi-yi-ji-song-qi-shi-liu-shou-qi-si
-title: 偈頌七十六首  其四
-titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 si4
+title: 偈頌七十六首  其四○
+titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 si4 ○
 titleSlug: ji-song-qi-shi-liu-shou-qi-si
 author: 釋子益
 authorPinyin: shi4 zi3 yi4
 authorSlug: shi-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行不到處行一步，說不到處道一句。
-- 徑山諸公見義勇爲，靈隠師伯拔劍相助。
+- 是句亦剗，非句亦剗。
+- 德山焚疏鈔，臨濟燒禪板。
+- 堪悲堪笑，一對無孔鐵鎚，馿年夢見正法眼。
 
 ## 拼音
 
-- xing2 bu2 dao4 chu3 xing2 yi2 bu4 ， shuo1 bu2 dao4 chu3 dao4 yi2 ju4 。
-- jing4 shan1 zhu1 gong1 jian4 yi4 yong3 wei2 ， ling2 yin3 shi1 bo2 ba2 jian4 xiang1 zhu4 。
+- shi4 ju4 yi4 chan3 ， fei1 ju4 yi4 chan3 。
+- de2 shan1 fen2 shu1 chao1 ， lin2 ji4 shao1 shan4 ban3 。
+- kan1 bei1 kan1 xiao4 ， yi2 dui4 wu2 kong3 tie3 chui2 ， lu2 nian2 meng4 jian4 zheng4 fa3 yan3 。
 
 ## 注释
 

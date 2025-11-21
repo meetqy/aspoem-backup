@@ -6,10 +6,10 @@ titleSlug: ji-su-xiao-juan
 author: 趙院判
 authorPinyin: zhao4 yuan4 pan4
 authorSlug: zhao-yuan-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

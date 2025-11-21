@@ -6,25 +6,25 @@ titleSlug: zao-qi
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平時懶惰只隨緣，日照堂東尚栩然。
-- 華藏欲遊須勇猛，繐帷雖好莫留連。
-- 收將枕上黄粱夢，印取心中大覺仙。
-- 從此寓軒須早作，魔軍未破可安眠。
+- 秋曉凄然枕簟凉，小窗殘月尚臨牀。
+- 追尋夢境烟雲散，起傍荷花風露香。
+- 慨念關河心黯黯，諦觀身世意茫茫。
+- 樽中有酒聊須醉，造物於人自叵量。
 
 ## 拼音
 
-- ping2 shi2 lan3 duo4 zhi1 sui2 yuan2 ， ri4 zhao4 tang2 dong1 shang4 xu3 ran2 。
-- hua2 cang2 yu4 you2 xu1 yong3 meng3 ， sui4 wei2 sui1 hao3 mo4 liu2 lian2 。
-- shou1 jiang1 zhen3 shang4 huang2 liang2 meng4 ， yin4 qu3 xin1 zhong1 da4 jue2 xian1 。
-- cong2 ci3 yu4 xuan1 xu1 zao3 zuo4 ， mo2 jun1 wei4 po4 ke3 an1 mian2 。
+- qiu1 xiao3 qi1 ran2 zhen3 dian4 liang2 ， xiao3 chuang1 can2 yue4 shang4 lin2 chuang2 。
+- zhui1 xun2 meng4 jing4 yan1 yun2 san4 ， qi3 bang4 he2 hua1 feng1 lu4 xiang1 。
+- kai3 nian4 guan1 he2 xin1 an4 an4 ， di4 guan1 shen1 shi4 yi4 mang2 mang2 。
+- zun1 zhong1 you3 jiu3 liao2 xu1 zui4 ， zao4 wu4 wu1 ren2 zi4 po3 liang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yu-wu-di-ji-liu-yi-ji-rao-ci-shou-tong-ji-jiu-han-ti-bi-xian-gui
 author: 洪朋
 authorPinyin: hong2 peng2
 authorSlug: hong-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

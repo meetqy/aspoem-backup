@@ -6,10 +6,10 @@ titleSlug: tong-xuan
 author: 滿維端
 authorPinyin: man3 wei2 duan1
 authorSlug: man-wei-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

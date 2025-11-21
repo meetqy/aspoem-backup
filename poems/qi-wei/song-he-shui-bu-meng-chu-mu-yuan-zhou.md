@@ -6,9 +6,9 @@ titleSlug: song-he-shui-bu-meng-chu-mu-yuan-zhou
 author: 戚維
 authorPinyin: qi1 wei2
 authorSlug: qi-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

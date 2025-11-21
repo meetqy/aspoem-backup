@@ -6,10 +6,10 @@ titleSlug: yu-nu-feng
 author: 周載
 authorPinyin: zhou1 zai4
 authorSlug: zhou-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

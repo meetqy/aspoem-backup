@@ -6,10 +6,10 @@ titleSlug: shang-yuan-ri-jia-xing-tai-yi-gong-shao-xiang
 author: 孫固
 authorPinyin: sun1 gu4
 authorSlug: sun-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

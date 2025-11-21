@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畫工作江梅，粉繪良自誇。
-- 吾儕暈澹墨，一枝纔數花。
-- 風情意自足，橫斜不可加。
-- 須知自古來，畫家須詩家。
+- 幽居歲屢換，豪舉欲誰作。
+- 閑情寡賦詠，舊句漫筆削。
+- 草茅晦小隠，筍蕨供大嚼。
+- 不時有佳處，悠然動春酌。
 
 ## 拼音
 
-- hua4 gong1 zuo4 jiang1 mei2 ， fen3 hui4 liang2 zi4 kua1 。
-- wu2 chai2 yun4 dan4 mo4 ， yi4 zhi1 cai2 shu4 hua1 。
-- feng1 qing2 yi4 zi4 zu2 ， heng2 xie2 bu4 ke3 jia1 。
-- xu1 zhi1 zi4 gu3 lai2 ， hua4 jia1 xu1 shi1 jia1 。
+- you1 ju1 sui4 lü3 huan4 ， hao2 ju3 yu4 shui2 zuo4 。
+- xian2 qing2 gua3 fu4 yong3 ， jiu4 ju4 man4 bi3 xiao1 。
+- cao3 mao2 hui4 xiao3 yin3 ， sun3 jue2 gong4 da4 jiao2 。
+- bu4 shi2 you3 jia1 chu3 ， you1 ran2 dong4 chun1 zhuo2 。
 
 ## 注释
 

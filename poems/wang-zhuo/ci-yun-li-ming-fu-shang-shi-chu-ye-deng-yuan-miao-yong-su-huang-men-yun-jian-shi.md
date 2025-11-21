@@ -6,10 +6,10 @@ titleSlug: ci-yun-li-ming-fu-shang-shi-chu-ye-deng-yuan-miao-yong-su-huang-men-y
 author: 汪晫
 authorPinyin: wang1 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

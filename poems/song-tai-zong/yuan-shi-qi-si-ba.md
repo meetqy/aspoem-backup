@@ -6,25 +6,25 @@ titleSlug: yuan-shi-qi-si-ba
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 人本心田靜，機關買是非。
-- 聰明存節操，曲直自相依。
-- 思寂知玄奧，區分有順違。
-- 精通含識性，理義愷然希。
+- 上元時節皆相慕，皇都城裏萬家燈。
+- 笙歌有處共誇稱，架肩疊足幾許層。
+- 輕塵霧斂月明中，車騎雲軿五夜風。
+- 意氣盡隨年少得，九衢填咽樂聲同。
 
 ## 拼音
 
-- ren2 ben3 xin1 tian2 jing4 ， ji1 guan1 mai3 shi4 fei1 。
-- cong1 ming2 cun2 jie2 cao1 ， qu1 zhi2 zi4 xiang1 yi1 。
-- si1 ji4 zhi1 xuan2 ao4 ， qu1 fen1 you3 shun4 wei2 。
-- jing1 tong1 han2 shi2 xing4 ， li3 yi4 kai3 ran2 xi1 。
+- shang4 yuan2 shi2 jie2 jie1 xiang1 mu4 ， huang2 du1 cheng2 li3 wan4 jia1 deng1 。
+- sheng1 ge1 you3 chu3 gong4 kua1 cheng1 ， jia4 jian1 die2 zu2 ji1 xu1 ceng2 。
+- qing1 chen2 wu4 lian3 yue4 ming2 zhong1 ， ju1 qi2 yun2 ping2 wu3 ye4 feng1 。
+- yi4 qi4 jin4 sui2 nian2 shao4 de2 ， jiu3 qu2 tian2 yan4 le4 sheng1 tong2 。
 
 ## 注释
 

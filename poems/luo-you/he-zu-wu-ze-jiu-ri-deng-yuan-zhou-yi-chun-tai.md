@@ -6,10 +6,10 @@ titleSlug: he-zu-wu-ze-jiu-ri-deng-yuan-zhou-yi-chun-tai
 author: 羅誘
 authorPinyin: luo2 you4
 authorSlug: luo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

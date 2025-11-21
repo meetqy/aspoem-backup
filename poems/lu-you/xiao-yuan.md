@@ -6,25 +6,25 @@ titleSlug: xiao-yuan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松菊僅三畝，作園真強名。
-- 馴禽驚不去，熟果墜無聲。
-- 倦就盤陀坐，閑拈楖栗行。
-- 茅亭亦疏豁，憑檻看春耕。
+- 小園草木手栽培，袤丈清池數尺臺。
+- 拄杖倦時閑倚壁，芳醪熟後喜傳杯。
+- 春蕪滿地鹿忘去，夏木成陰鶑自來。
+- 堪笑山童慚飽食，時時走報一花開。
 
 ## 拼音
 
-- song1 ju2 jin3 san1 mu3 ， zuo4 yuan2 zhen1 qiang2 ming2 。
-- xun4 qin2 jing1 bu2 qu4 ， shu2 guo3 zhui4 wu2 sheng1 。
-- juan4 jiu4 pan2 tuo2 zuo4 ， xian2 nian1 ji2 li4 xing2 。
-- mao2 ting2 yi4 shu1 huo1 ， ping2 jian4 kan4 chun1 geng1 。
+- xiao3 yuan2 cao3 mu4 shou3 zai1 pei2 ， mao4 zhang4 qing1 chi2 shu4 chi3 tai2 。
+- zhu3 zhang4 juan4 shi2 xian2 yi3 bi4 ， fang1 lao2 shu2 hou4 xi3 chuan2 bei1 。
+- chun1 wu2 man3 di4 lu4 wang4 qu4 ， xia4 mu4 cheng2 yin1 ying1 zi4 lai2 。
+- kan1 xiao4 shan1 tong2 can2 bao3 shi2 ， shi2 shi2 zou3 bao4 yi4 hua1 kai1 。
 
 ## 注释
 

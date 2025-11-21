@@ -6,10 +6,10 @@ titleSlug: shang-yuan-zhu-zhi-ge-he-ceng-da-qing-qi-yi
 author: 冉居常
 authorPinyin: ran3 ju1 chang2
 authorSlug: ran-ju-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

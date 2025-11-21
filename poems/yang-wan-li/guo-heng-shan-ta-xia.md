@@ -6,21 +6,25 @@ titleSlug: guo-heng-shan-ta-xia
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六年三度過蘭溪，總是殘春首夏時。
-- 最感橫山山上塔，迎人東去送人西。
+- 隔岸山迎我，沿江柳拜人。
+- 日摇秋水面，波閃白龍鱗。
+- 不遣船迷路，俱從塔問津。
+- 一生將玉鏡，千古照金身。
 
 ## 拼音
 
-- liu4 nian2 san1 du4 guo4 lan2 xi1 ， zong3 shi4 can2 chun1 shou3 xia4 shi2 。
-- zui4 gan3 heng2 shan1 shan1 shang4 ta3 ， ying2 ren2 dong1 qu4 song4 ren2 xi1 。
+- ge2 an4 shan1 ying2 wo3 ， yan2 jiang1 liu3 bai4 ren2 。
+- ri4 yao2 qiu1 shui3 mian4 ， bo1 shan3 bai2 long2 lin2 。
+- bu4 qian3 chuan2 mi2 lu4 ， ju4 cong2 ta3 wen4 jin1 。
+- yi4 sheng1 jiang1 yu4 jing4 ， qian1 gu3 zhao4 jin1 shen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zeng-an-yi-bo-wu-bin-gui-yin
 author: 路振
 authorPinyin: lu4 zhen4
 authorSlug: lu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 濟州太守
 authorPinyin: ji4 zhou1 tai4 shou3
 authorSlug: ji-zhou-tai-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

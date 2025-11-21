@@ -9,18 +9,18 @@ authorSlug: zhang-zhuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 夢中疑是實，覺後忽非真。
-- 誠知腸欲繼，窮鬼故調人。
+- 自隱風流到，人前法用多。
+- 計時應拒得，佯作不禁他。
 
 ## 拼音
 
-- meng4 zhong1 yi2 shi4 shi2 ， jue2 hou4 hu1 fei1 zhen1 。
-- cheng2 zhi1 chang2 yu4 ji4 ， qiong2 gui3 gu4 diao4 ren2 。
+- zi4 yin3 feng1 liu2 dao4 ， ren2 qian2 fa3 yong4 duo1 。
+- ji4 shi2 ying1 ju4 de2 ， yang2 zuo4 bu4 jin1 ta1 。
 
 ## 注释
 

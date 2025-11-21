@@ -6,10 +6,10 @@ titleSlug: ren-chen-san-yue-er-shi-yi-ri-du-li-han-lin-mu-ming-yun-shao-yi-ren-x
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

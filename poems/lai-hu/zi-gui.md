@@ -9,18 +9,18 @@ authorSlug: lai-hu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雨恨花愁同此冤，啼時聞處正春繁。
-- 千聲萬血誰哀爾，爭得如花笑不言。
+- 月落空山聞數聲，此時孤館酒初醒。
+- 投人語若似伊淚，口畔血流應始聽。
 
 ## 拼音
 
-- yu3 hen4 hua1 chou2 tong2 ci3 yuan1 ， ti2 shi2 wen2 chu3 zheng4 chun1 fan2 。
-- qian1 sheng1 wan4 xue4 shui2 ai1 er3 ， zheng1 de2 ru2 hua1 xiao4 bu4 yan2 。
+- yue4 luo4 kong1 shan1 wen2 shu4 sheng1 ， ci3 shi2 gu1 guan3 jiu3 chu1 xing3 。
+- tou2 ren2 yu3 ruo4 si4 yi1 lei4 ， kou3 pan4 xue4 liu2 ying1 shi3 ting1 。
 
 ## 注释
 

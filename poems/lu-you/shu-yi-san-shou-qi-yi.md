@@ -6,29 +6,25 @@ titleSlug: shu-yi-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 飲酒以散愁，服藥以去病。
-- 區區賴外物，豈足語性命。
-- 清晨坐堂上，萬事一袖手。
-- 愁病初無根，孰謂藥與酒。
-- 掀髯笑嵇阮，舉袂謝和緩。
-- 氣住則神住，時至骨自換。
+- 策蹇若華駟，啜漓如上尊。
+- 人皆可堯舜，身自有乾坤。
+- 逢客亦共語，無人還閉門。
+- 千年道術裂，誰復見全渾。
 
 ## 拼音
 
-- yin3 jiu3 yi3 san4 chou2 ， fu2 yao4 yi3 qu4 bing4 。
-- qu1 qu1 lai4 wai4 wu4 ， qi3 zu2 yu3 xing4 ming4 。
-- qing1 chen2 zuo4 tang2 shang4 ， wan4 shi4 yi2 xiu4 shou3 。
-- chou2 bing4 chu1 wu2 gen1 ， shu2 wei4 yao4 yu3 jiu3 。
-- xian1 ran2 xiao4 ji1 ruan3 ， ju3 mei4 xie4 he2 huan3 。
-- qi4 zhu4 ze2 shen2 zhu4 ， shi2 zhi4 gu3 zi4 huan4 。
+- ce4 jian3 ruo4 hua2 si4 ， chuo4 li2 ru2 shang4 zun1 。
+- ren2 jie1 ke3 yao2 shun4 ， shen1 zi4 you3 qian2 kun1 。
+- feng2 ke4 yi4 gong4 yu3 ， wu2 ren2 huan2 bi4 men2 。
+- qian1 nian2 dao4 shu4 lie4 ， shui2 fu4 jian4 quan2 hun2 。
 
 ## 注释
 

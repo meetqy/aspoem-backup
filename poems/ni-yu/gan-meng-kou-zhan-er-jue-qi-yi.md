@@ -6,10 +6,10 @@ titleSlug: gan-meng-kou-zhan-er-jue-qi-yi
 author: 倪昱
 authorPinyin: ni2 yu4
 authorSlug: ni-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

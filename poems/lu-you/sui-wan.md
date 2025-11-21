@@ -6,25 +6,25 @@ titleSlug: sui-wan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲晚城隅車馬稀，偷閑聊得掩荆扉。
-- 征蓬滿野風霜苦，多稼連雲雁鶩肥。
-- 報國有心空自信，結茅無地竟安歸。
-- 浣花道上人誰識，華表千年老令威。
+- 日月忽其逝，吾生猶幾何。
+- 不從屠狗醉，即和飯牛歌。
+- 斧鉞稽天討，金繒約虜和。
+- 無情恨荆棘，歲晚暗銅駝。
 
 ## 拼音
 
-- sui4 wan3 cheng2 yu2 ju1 ma3 xi1 ， tou1 xian2 liao2 de2 yan3 jing1 fei1 。
-- zheng1 peng2 man3 ye3 feng1 shuang1 ku3 ， duo1 jia4 lian2 yun2 yan4 wu4 fei2 。
-- bao4 guo2 you3 xin1 kong1 zi4 xin4 ， jie2 mao2 wu2 di4 jing4 an1 gui1 。
-- huan4 hua1 dao4 shang4 ren2 shui2 shi2 ， hua2 biao3 qian1 nian2 lao3 ling4 wei1 。
+- ri4 yue4 hu1 qi2 shi4 ， wu2 sheng1 you2 ji1 he2 。
+- bu4 cong2 tu2 gou3 zui4 ， ji2 he2 fan4 niu2 ge1 。
+- fu3 yue4 ji1 tian1 tao3 ， jin1 zeng1 yue1 lu3 he2 。
+- wu2 qing2 hen4 jing1 ji2 ， sui4 wan3 an4 tong2 tuo2 。
 
 ## 注释
 

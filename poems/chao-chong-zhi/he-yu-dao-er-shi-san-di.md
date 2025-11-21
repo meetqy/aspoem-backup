@@ -6,21 +6,25 @@ titleSlug: he-yu-dao-er-shi-san-di
 author: 晁沖之
 authorPinyin: chao2 chong1 zhi1
 authorSlug: chao-chong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千載風流賀秘書，也知今有此人無。
-- 吾家父子真相似，不愧朝廷乞鑑湖。
+- 向别已復久，此懷誰與明。
+- 書來慰吾意，詩重識君情。
+- 放鶴惜未到，飛鴻今尚横。
+- 何由一隨汝，端爲薄浮名。
 
 ## 拼音
 
-- qian1 zai4 feng1 liu2 he4 mi4 shu1 ， ye3 zhi1 jin1 you3 ci3 ren2 wu2 。
-- wu2 jia1 fu4 zi3 zhen1 xiang4 si4 ， bu2 kui4 chao2 ting2 qi3 jian4 hu2 。
+- xiang4 bie2 yi3 fu4 jiu3 ， ci3 huai2 shui2 yu3 ming2 。
+- shu1 lai2 wei4 wu2 yi4 ， shi1 zhong4 shi2 jun1 qing2 。
+- fang4 he4 xi1 wei4 dao4 ， fei1 hong2 jin1 shang4 heng2 。
+- he2 you2 yi4 sui2 ru3 ， duan1 wei2 bao2 fu2 ming2 。
 
 ## 注释
 

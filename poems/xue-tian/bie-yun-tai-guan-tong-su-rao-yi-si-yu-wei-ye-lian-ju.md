@@ -6,10 +6,10 @@ titleSlug: bie-yun-tai-guan-tong-su-rao-yi-si-yu-wei-ye-lian-ju
 author: 薛田
 authorPinyin: xue1 tian2
 authorSlug: xue-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

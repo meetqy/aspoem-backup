@@ -6,10 +6,10 @@ titleSlug: ci-shi-ji
 author: 清溪沅禪師
 authorPinyin: qing1 xi1 yuan2 shan4 shi1
 authorSlug: qing-xi-yuan-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

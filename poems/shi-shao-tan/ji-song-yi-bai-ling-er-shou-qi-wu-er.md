@@ -6,23 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-er
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一宿覺，三擔土。
-- 脚未跨門，丰骨已露。
-- 等閑舉一步，危徑結寒花，信彩示一機，斷崖飛瀑布。
+- 智與理冥，神與境會。
+- 碎維摩床，斷毗盧髻。
+- 碧眼黄頭著眼覷，百雜碎。
 
 ## 拼音
 
-- yi2 su4 jue2 ， san1 dan1 tu3 。
-- jiao3 wei4 kua4 men2 ， feng1 gu3 yi3 lu4 。
-- deng3 xian2 ju3 yi2 bu4 ， wei1 jing4 jie2 han2 hua1 ， xin4 cai3 shi4 yi4 ji1 ， duan4 ya2 fei1 pu4 bu4 。
+- zhi4 yu3 li3 ming2 ， shen2 yu3 jing4 hui4 。
+- sui4 wei2 mo2 chuang2 ， duan4 pi2 lu2 ji4 。
+- bi4 yan3 huang2 tou2 zhu4 yan3 qu4 ， bai3 za2 sui4 。
 
 ## 注释
 

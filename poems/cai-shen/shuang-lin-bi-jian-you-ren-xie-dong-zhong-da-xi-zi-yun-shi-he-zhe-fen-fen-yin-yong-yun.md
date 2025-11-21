@@ -6,10 +6,10 @@ titleSlug: shuang-lin-bi-jian-you-ren-xie-dong-zhong-da-xi-zi-yun-shi-he-zhe-fen
 author: 蔡沈
 authorPinyin: cai4 shen3
 authorSlug: cai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

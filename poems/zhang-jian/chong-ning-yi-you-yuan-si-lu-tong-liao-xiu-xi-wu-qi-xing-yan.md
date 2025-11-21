@@ -6,10 +6,10 @@ titleSlug: chong-ning-yi-you-yuan-si-lu-tong-liao-xiu-xi-wu-qi-xing-yan
 author: 張漸
 authorPinyin: zhang1 jian4
 authorSlug: zhang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

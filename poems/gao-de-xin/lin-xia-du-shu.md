@@ -6,10 +6,10 @@ titleSlug: lin-xia-du-shu
 author: 高得心
 authorPinyin: gao1 de2 xin1
 authorSlug: gao-de-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

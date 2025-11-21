@@ -6,25 +6,25 @@ titleSlug: zi-ai
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衣裳唯毳衲，飲啄祇簞瓢。
-- 翻爲生涯薄，能令世慮消。
-- 寒花香不遠，病木葉先凋。
-- 自愛秋風裏，雲山共寂寥。
+- 自愛予生愛性真，真存渾不管渠嗔。
+- 從來有水有山處，著得無名無利人。
+- 騰踏豈須誇駔駿，幽潛端可養精神。
+- 盡向雲邊尋隠迹，誰知雲是老夫身。
 
 ## 拼音
 
-- yi1 shang0 wei2 cui4 na4 ， yin3 zhuo2 qi2 dan1 piao2 。
-- fan1 wei2 sheng1 ya2 bao2 ， neng2 ling4 shi4 lü4 xiao1 。
-- han2 hua1 xiang1 bu4 yuan3 ， bing4 mu4 ye4 xian1 diao1 。
-- zi4 ai4 qiu1 feng1 li3 ， yun2 shan1 gong4 ji4 liao2 。
+- zi4 ai4 yu3 sheng1 ai4 xing4 zhen1 ， zhen1 cun2 hun2 bu4 guan3 qu2 chen1 。
+- cong2 lai2 you3 shui3 you3 shan1 chu3 ， zhu4 de2 wu2 ming2 wu2 li4 ren2 。
+- teng2 ta4 qi3 xu1 kua1 zang3 jun4 ， you1 qian2 duan1 ke3 yang3 jing1 shen2 。
+- jin4 xiang4 yun2 bian1 xun2 yin3 ji4 ， shui2 zhi1 yun2 shi4 lao3 fu1 shen1 。
 
 ## 注释
 

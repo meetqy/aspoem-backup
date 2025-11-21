@@ -1,26 +1,26 @@
 ---
 id: shi-zi-chun-song-gu-yi-yi-shou-qi-san
-title: 頌古一○一首  其三
-titlePinyin: song4 gu3 yi1 ○ yi4 shou3     qi2 san1
+title: 頌古一○一首  其三○
+titlePinyin: song4 gu3 yi1 ○ yi4 shou3     qi2 san1 ○
 titleSlug: song-gu-yi-yi-shou-qi-san
 author: 釋子淳
 authorPinyin: shi4 zi3 chun2
 authorSlug: shi-zi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卓爾難將正眼窺，迴超今古類難齊。
-- 苔封古殿無人侍，月鎖蒼梧鳳不棲。
+- 月篩松影高低樹，日照池心上下天。
+- 赫赫炎空非卓午，團團秋夜不知圓。
 
 ## 拼音
 
-- zhuo2 er3 nan2 jiang1 zheng4 yan3 kui1 ， hui2 chao1 jin1 gu3 lei4 nan2 qi2 。
-- tai2 feng1 gu3 dian4 wu2 ren2 shi4 ， yue4 suo3 cang1 wu2 feng4 bu4 qi1 。
+- yue4 shai1 song1 ying3 gao1 di1 shu4 ， ri4 zhao4 chi2 xin1 shang4 xia4 tian1 。
+- he4 he4 yan2 kong1 fei1 zhuo2 wu3 ， tuan2 tuan2 qiu1 ye4 bu4 zhi1 yuan2 。
 
 ## 注释
 

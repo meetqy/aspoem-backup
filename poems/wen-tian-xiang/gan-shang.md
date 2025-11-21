@@ -6,25 +6,25 @@ titleSlug: gan-shang
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地維傾渤澥，天柱折崑崙。
-- 清夜爲揮淚，白雲空斷魂。
-- 死生蘇子節，貴賤翟公門。
-- 高廟神靈在，乾坤付不言。
+- 家國傷冰泮，妻孥歎陸沉。
+- 半生遭萬劫，一落下千尋。
+- 各任汝曹命，那知吾輩心。
+- 人誰無骨肉，恨與海俱深。
 
 ## 拼音
 
-- di4 wei2 qing1 bo2 xie4 ， tian1 zhu4 zhe2 kun1 lun2 。
-- qing1 ye4 wei2 hui1 lei4 ， bai2 yun2 kong1 duan4 hun2 。
-- si3 sheng1 su1 zi3 jie2 ， gui4 jian4 zhai2 gong1 men2 。
-- gao1 miao4 shen2 ling2 zai4 ， qian2 kun1 fu4 bu4 yan2 。
+- jia1 guo2 shang1 bing1 pan4 ， qi1 nu2 tan4 lu4 chen2 。
+- ban4 sheng1 zao1 wan4 jie2 ， yi2 luo4 xia4 qian1 xun2 。
+- ge4 ren4 ru3 cao2 ming4 ， na4 zhi1 wu2 bei4 xin1 。
+- ren2 shui2 wu2 gu3 rou4 ， hen4 yu3 hai3 ju4 shen1 。
 
 ## 注释
 

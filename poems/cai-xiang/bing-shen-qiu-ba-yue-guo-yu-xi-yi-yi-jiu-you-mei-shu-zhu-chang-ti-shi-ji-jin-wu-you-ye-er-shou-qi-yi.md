@@ -6,10 +6,10 @@ titleSlug: bing-shen-qiu-ba-yue-guo-yu-xi-yi-yi-jiu-you-mei-shu-zhu-chang-ti-shi
 author: 蔡襄
 authorPinyin: cai4 xiang1
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

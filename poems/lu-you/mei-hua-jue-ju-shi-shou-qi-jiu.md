@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-jiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 池館登臨雪半消，梅花與我兩無聊。
-- 青羊宮裏應如舊，腸斷春風萬里橋。
+- 南村花己繁，北塢殊未動。
+- 更賖一月期，待我醉春甕。
 
 ## 拼音
 
-- chi2 guan3 deng1 lin2 xue3 ban4 xiao1 ， mei2 hua1 yu3 wo3 liang3 wu2 liao2 。
-- qing1 yang2 gong1 li3 ying1 ru2 jiu4 ， chang2 duan4 chun1 feng1 wan4 li3 qiao2 。
+- nan2 cun1 hua1 ji3 fan2 ， bei3 wu4 shu1 wei4 dong4 。
+- geng4 she1 yi1 yue4 qi1 ， dai4 wo3 zui4 chun1 weng4 。
 
 ## 注释
 

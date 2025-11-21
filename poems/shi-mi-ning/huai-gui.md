@@ -6,21 +6,21 @@ titleSlug: huai-gui
 author: 史彌寧
 authorPinyin: shi3 mi2 ning2
 authorSlug: shi-mi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 全家索米又邊頭，冷落南湖一鏡秋。
-- 了却眼前兒女債，買蓑烟際伴閑鷗。
+- 倚閣南湖一釣舟，西風將夢到鄉州。
+- 蛙蠅名利苦多事，薄有田園歸去休。
 
 ## 拼音
 
-- quan2 jia1 suo3 mi3 you4 bian1 tou2 ， leng3 luo4 nan2 hu2 yi2 jing4 qiu1 。
-- liao3 que4 yan3 qian2 er2 nü3 zhai4 ， mai3 suo1 yan1 ji4 ban4 xian2 ou1 。
+- yi3 ge2 nan2 hu2 yi2 diao4 zhou1 ， xi1 feng1 jiang1 meng4 dao4 xiang1 zhou1 。
+- wa1 ying2 ming2 li4 ku3 duo1 shi4 ， bao2 you3 tian2 yuan2 gui1 qu4 xiu1 。
 
 ## 注释
 

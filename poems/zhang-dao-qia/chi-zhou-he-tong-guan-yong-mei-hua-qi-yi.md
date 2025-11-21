@@ -1,30 +1,30 @@
 ---
 id: zhang-dao-qia-chi-zhou-he-tong-guan-yong-mei-hua-qi-yi
-title: 池州和同官詠梅花  其一
-titlePinyin: chi2 zhou1 he2 tong2 guan1 yong3 mei2 hua1     qi2 yi1
+title: 池州和同官詠梅花  其一○
+titlePinyin: chi2 zhou1 he2 tong2 guan1 yong3 mei2 hua1     qi2 yi1 ○
 titleSlug: chi-zhou-he-tong-guan-yong-mei-hua-qi-yi
 author: 張道洽
 authorPinyin: zhang1 dao4 qia4
 authorSlug: zhang-dao-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朔風吹石裂，寒谷自春生。
-- 根老香全古，花疏格轉清。
-- 園林千樹禿，籬落一枝橫。
-- 佩芷兼懷玉，悠然見此兄。
+- 雪後半橫枝，溪邊一带籬。
+- 春從窮臘透，香報老夫知。
+- 淡月弄疎影，嫩寒含令姿。
+- 天涯值西子，牢落慰吾思。
 
 ## 拼音
 
-- shuo4 feng1 chui1 shi2 lie4 ， han2 gu3 zi4 chun1 sheng1 。
-- gen1 lao3 xiang1 quan2 gu3 ， hua1 shu1 ge2 zhuan3 qing1 。
-- yuan2 lin2 qian1 shu4 tu1 ， li2 luo4 yi4 zhi1 heng2 。
-- pei4 zhi3 jian1 huai2 yu4 ， you1 ran2 jian4 ci3 xiong1 。
+- xue3 hou4 ban4 heng2 zhi1 ， xi1 bian1 yi2 dai4 li2 。
+- chun1 cong2 qiong2 la4 tou4 ， xiang1 bao4 lao3 fu1 zhi1 。
+- dan4 yue4 nong4 shu1 ying3 ， nen4 han2 han2 ling4 zi1 。
+- tian1 ya2 zhi2 xi1 zi3 ， lao2 luo4 wei4 wu2 si1 。
 
 ## 注释
 

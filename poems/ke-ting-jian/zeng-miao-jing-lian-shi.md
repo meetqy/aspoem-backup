@@ -6,10 +6,10 @@ titleSlug: zeng-miao-jing-lian-shi
 author: 柯庭堅
 authorPinyin: ke1 ting2 jian1
 authorSlug: ke-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

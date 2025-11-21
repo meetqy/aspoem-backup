@@ -6,10 +6,10 @@ titleSlug: chun-san-yue-guo-wang-shi-cun-you-gan
 author: 周宗溥
 authorPinyin: zhou1 zong1 pu3
 authorSlug: zhou-zong-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

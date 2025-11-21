@@ -6,10 +6,10 @@ titleSlug: bao-yan-si
 author: 姚愈
 authorPinyin: yao2 yu4
 authorSlug: yao-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

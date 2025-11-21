@@ -1,26 +1,26 @@
 ---
 id: wu-yong-pi-xian-chun-ri-yin-qi-yi
-title: 郫縣春日吟  其一
-titlePinyin: pi2 xian4 chun1 ri4 yin2     qi2 yi1
+title: 郫縣春日吟  其一○
+titlePinyin: pi2 xian4 chun1 ri4 yin2     qi2 yi1 ○
 titleSlug: pi-xian-chun-ri-yin-qi-yi
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 去年春日百花斑，今歲逢春萬竹間。
-- 花靚竹香宜細看，春風不會一朝閒。
+- 舊穀纔登幼婦場，新蠶復出小姑忙。
+- 書生却弄閒針線，枉學明河織女襄。
 
 ## 拼音
 
-- qu4 nian2 chun1 ri4 bai3 hua1 ban1 ， jin1 sui4 feng2 chun1 wan4 zhu2 jian4 。
-- hua1 jing4 zhu2 xiang1 yi2 xi4 kan4 ， chun1 feng1 bu2 hui4 yi4 zhao1 xian2 。
+- jiu4 gu3 cai2 deng1 you4 fu4 chang3 ， xin1 can2 fu4 chu1 xiao3 gu1 mang2 。
+- shu1 sheng1 que4 nong4 xian2 zhen1 xian4 ， wang3 xue2 ming2 he2 zhi1 nü3 xiang1 。
 
 ## 注释
 

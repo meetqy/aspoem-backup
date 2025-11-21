@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-si
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 我達逍遥理，陰陽運五行。
-- 道從初一變，德合混三清。
-- 聖境堪依仗，狐疑事不成。
-- 異端違雅淡，返禍自輕生。
+- 人心多是少相投，非識塵中上品流。
+- 不見真宗歸物理，難知妙道後先休。
+- 生前內鼎宜烹鍊，殊勝華池好漸修。
+- 但見完全憑土德，能調火候藥皆秋。
 
 ## 拼音
 
-- wo3 da2 xiao1 yao2 li3 ， yin1 yang2 yun4 wu3 xing2 。
-- dao4 cong2 chu1 yi1 bian4 ， de2 he2 hun4 san1 qing1 。
-- sheng4 jing4 kan1 yi1 zhang4 ， hu2 yi2 shi4 bu4 cheng2 。
-- yi4 duan1 wei2 ya3 dan4 ， fan3 huo4 zi4 qing1 sheng1 。
+- ren2 xin1 duo1 shi4 shao3 xiang1 tou2 ， fei1 shi2 chen2 zhong1 shang4 pin3 liu2 。
+- bu2 jian4 zhen1 zong1 gui1 wu4 li3 ， nan2 zhi1 miao4 dao4 hou4 xian1 xiu1 。
+- sheng1 qian2 nei4 ding3 yi2 peng1 lian4 ， shu1 sheng4 hua2 chi2 hao3 jian4 xiu1 。
+- dan4 jian4 wan2 quan2 ping2 tu3 de2 ， neng2 diao4 huo3 hou0 yao4 jie1 qiu1 。
 
 ## 注释
 

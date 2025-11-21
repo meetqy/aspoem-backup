@@ -6,25 +6,29 @@ titleSlug: wu-lu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾廬雖小亦佳哉，新作柴門斸緑苔。
-- 拄杖每闌歸鶴入，釣船時帯夕陽來。
-- 墟烟隔水霏霏合，籬菊凌霜續續開。
-- 千里安期那可得，笑呼鄰父共傳杯。
+- 吾廬鏡湖上，傍水開雲扃。
+- 秋淺葉未丹，日落山更青。
+- 孤鶴從西来，長鳴掠沙汀。
+- 亦知常苦饑，未忍吞羶腥。
+- 我食雖不肉，匕箸窮芳馨。
+- 幽窗燈火冷，濁酒倒殘瓶。
 
 ## 拼音
 
-- wu2 lu2 sui1 xiao3 yi4 jia1 zai1 ， xin1 zuo4 chai2 men2 zhu2 lü4 tai2 。
-- zhu3 zhang4 mei3 lan2 gui1 he4 ru4 ， diao4 chuan2 shi2 dai4 xi1 yang2 lai2 。
-- xu1 yan1 ge2 shui3 fei1 fei1 he2 ， li2 ju2 ling2 shuang1 xu4 xu4 kai1 。
-- qian1 li3 an1 qi1 na4 ke3 de2 ， xiao4 hu1 lin2 fu4 gong4 chuan2 bei1 。
+- wu2 lu2 jing4 hu2 shang4 ， bang4 shui3 kai1 yun2 jiong1 。
+- qiu1 qian3 ye4 wei4 dan1 ， ri4 luo4 shan1 geng4 qing1 。
+- gu1 he4 cong2 xi1 lai2 ， chang2 ming2 lüe4 sha1 ting1 。
+- yi4 zhi1 chang2 ku3 ji1 ， wei4 ren3 tun1 shan1 xing1 。
+- wo3 shi2 sui1 bu2 rou4 ， bi3 zhu4 qiong2 fang1 xin1 。
+- you1 chuang1 deng1 huo3 leng3 ， zhuo2 jiu3 dao3 can2 ping2 。
 
 ## 注释
 

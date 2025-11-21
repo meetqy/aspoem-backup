@@ -6,10 +6,10 @@ titleSlug: bei-dou-qi-shan
 author: 陳次升
 authorPinyin: chen2 ci4 sheng1
 authorSlug: chen-ci-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

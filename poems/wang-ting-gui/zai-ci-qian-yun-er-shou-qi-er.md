@@ -6,25 +6,25 @@ titleSlug: zai-ci-qian-yun-er-shou-qi-er
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天公剪水落空虛，似借東風暖力驅。
-- 未用春禽催脱袴，寧聞沽酒勸提壺。
-- 歌樓人唱郢中曲，野寺烟生香積廚。
-- 何必萬錢方辦酒，一杯隨分豈難圖。
+- 毛公過我竹間堂，贈我新詩敵夜光。
+- 盛德自爲南土秀，清風何羨北窗凉。
+- 漳江日落人爭渡，古寺僧歸月上廊。
+- 揮麈細談家世事，時材無復數真長。
 
 ## 拼音
 
-- tian1 gong1 jian3 shui3 luo4 kong1 xu1 ， si4 jie4 dong1 feng1 nuan3 li4 qu1 。
-- wei4 yong4 chun1 qin2 cui1 tuo1 ku4 ， ning2 wen2 gu1 jiu3 quan4 ti2 hu2 。
-- ge1 lou2 ren2 chang4 ying3 zhong1 qu3 ， ye3 si4 yan1 sheng1 xiang1 ji1 chu2 。
-- he2 bi4 wan4 qian2 fang1 ban4 jiu3 ， yi4 bei1 sui2 fen1 qi3 nan2 tu2 。
+- mao2 gong1 guo4 wo3 zhu2 jian4 tang2 ， zeng4 wo3 xin1 shi1 di2 ye4 guang1 。
+- sheng4 de2 zi4 wei2 nan2 tu3 xiu4 ， qing1 feng1 he2 xian4 bei3 chuang1 liang2 。
+- zhang1 jiang1 ri4 luo4 ren2 zheng1 du4 ， gu3 si4 seng1 gui1 yue4 shang4 lang2 。
+- hui1 zhu3 xi4 tan2 jia1 shi4 shi4 ， shi2 cai2 wu2 fu4 shu4 zhen1 chang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jing-kou
 author: 熊遹
 authorPinyin: xiong2 yu4
 authorSlug: xiong-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: si-wei-lu
 author: 張世美
 authorPinyin: zhang1 shi4 mei3
 authorSlug: zhang-shi-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

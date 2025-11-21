@@ -6,10 +6,10 @@ titleSlug: qiu-ri-ye-qing-chen-zong-shu-ji-dong-xiao-jing-er-shou-qi-yi
 author: 趙汝普
 authorPinyin: zhao4 ru3 pu3
 authorSlug: zhao-ru-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

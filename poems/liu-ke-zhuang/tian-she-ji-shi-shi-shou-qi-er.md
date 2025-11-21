@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 村落爭看烏角巾，略談北事向南人。
-- 百年只有中州樂，世世無爲塞下民。
+- 場圃先修築，囷倉次補完。
+- 坐居鄰叟下，身雜役夫間。
+- 荷蓧侵星出，肩禾束藴還。
+- 小窗殘卷在，未敢便偷閑。
 
 ## 拼音
 
-- cun1 luo4 zheng1 kan4 wu1 jiao3 jin1 ， lüe4 tan2 bei3 shi4 xiang4 nan2 ren2 。
-- bai3 nian2 zhi3 you3 zhong1 zhou1 le4 ， shi4 shi4 wu2 wei2 sai1 xia4 min2 。
+- chang3 pu3 xian1 xiu1 zhu4 ， qun1 cang1 ci4 bu3 wan2 。
+- zuo4 ju1 lin2 sou3 xia4 ， shen1 za2 yi4 fu1 jian4 。
+- he2 diao4 qin1 xing1 chu1 ， jian1 he2 shu4 yun4 huan2 。
+- xiao3 chuang1 can2 juan4 zai4 ， wei4 gan3 bian4 tou1 xian2 。
 
 ## 注释
 

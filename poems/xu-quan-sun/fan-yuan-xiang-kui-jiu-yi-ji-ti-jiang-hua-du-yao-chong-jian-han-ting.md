@@ -6,10 +6,10 @@ titleSlug: fan-yuan-xiang-kui-jiu-yi-ji-ti-jiang-hua-du-yao-chong-jian-han-ting
 author: 徐銓孫
 authorPinyin: xu2 quan2 sun1
 authorSlug: xu-quan-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

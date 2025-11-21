@@ -6,25 +6,25 @@ titleSlug: xue-zhong-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹折松僵鳥雀愁，閉門我亦擁貂裘。
-- 已忘作賦遊梁苑，但憶衘枚入蔡州。
-- 屬國餐氊真強項，翰林煮茗自風流。
-- 明朝日暖君須記，更看青鴛玉半溝。
+- 鬢毛無奈歲華催，一笑登臨亦樂哉。
+- 平地忽成三尺雪，繞湖何啻萬株梅。
+- 雲山疊疊朝憑閣，簾幕沉沉夜舉杯。
+- 節物鼎來方自此，酥花綵勝待春回。
 
 ## 拼音
 
-- zhu2 zhe2 song1 jiang1 niao3 que4 chou2 ， bi4 men2 wo3 yi4 yong1 diao1 qiu2 。
-- yi3 wang4 zuo4 fu4 you2 liang2 yuan4 ， dan4 yi4 xian2 mei2 ru4 cai4 zhou1 。
-- shu3 guo2 can1 zhan1 zhen1 qiang2 xiang4 ， han4 lin2 zhu3 ming2 zi4 feng1 liu2 。
-- ming2 chao2 ri4 nuan3 jun1 xu1 ji4 ， geng4 kan4 qing1 yuan1 yu4 ban4 gou1 。
+- bin4 mao2 wu2 nai4 sui4 hua2 cui1 ， yi2 xiao4 deng1 lin2 yi4 le4 zai1 。
+- ping2 di4 hu1 cheng2 san1 chi3 xue3 ， rao4 hu2 he2 chi4 wan4 zhu1 mei2 。
+- yun2 shan1 die2 die2 chao2 ping2 ge2 ， lian2 mu4 chen2 chen2 ye4 ju3 bei1 。
+- jie2 wu4 ding3 lai2 fang1 zi4 ci3 ， su1 hua1 cai3 sheng4 dai4 chun1 hui2 。
 
 ## 注释
 

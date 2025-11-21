@@ -6,21 +6,21 @@ titleSlug: za-ti-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松肪釀酒石根醉，槲葉作衣雲外行。
-- 指點人間一長嘆，秋風又到洛陽城。
+- 少談王霸謀身拙，晚好詩騷學道疏。
+- 賴有一籌差自慰，閉門不作子公書。
 
 ## 拼音
 
-- song1 fang2 niang4 jiu3 shi2 gen1 zui4 ， hu2 ye4 zuo4 yi1 yun2 wai4 hang2 。
-- zhi3 dian3 ren2 jian4 yi4 chang2 tan4 ， qiu1 feng1 you4 dao4 luo4 yang2 cheng2 。
+- shao3 tan2 wang2 ba4 mou2 shen1 zhuo1 ， wan3 hao3 shi1 sao1 xue2 dao4 shu1 。
+- lai4 you3 yi4 chou2 cha4 zi4 wei4 ， bi4 men2 bu2 zuo4 zi3 gong1 shu1 。
 
 ## 注释
 

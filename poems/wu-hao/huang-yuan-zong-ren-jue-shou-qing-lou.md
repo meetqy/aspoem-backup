@@ -6,10 +6,10 @@ titleSlug: huang-yuan-zong-ren-jue-shou-qing-lou
 author: 吳浩
 authorPinyin: wu2 hao4
 authorSlug: wu-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

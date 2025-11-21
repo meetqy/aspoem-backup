@@ -6,21 +6,21 @@ titleSlug: chun-tie-zi-fei-pin-he
 author: 王安中
 authorPinyin: wang2 an1 zhong1
 authorSlug: wang-an-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉燕翩翩入鬢雲，花風初掠縷金裙。
-- 神霄宮裏驂鸞侶，來侍長生大帝君。
+- 曈曨曉日上金鋪，的皪春冰泮玉壺。
+- 繡戶綠窗塵不到，凝酥點就輞川圖。
 
 ## 拼音
 
-- yu4 yan4 pian1 pian1 ru4 bin4 yun2 ， hua1 feng1 chu1 lüe4 lü3 jin1 qun2 。
-- shen2 xiao1 gong1 li3 can1 luan2 lü3 ， lai2 shi4 chang2 sheng1 da4 di4 jun1 。
+- tong2 long2 xiao3 ri4 shang4 jin1 pu1 ， de0 li4 chun1 bing1 pan4 yu4 hu2 。
+- xiu4 hu4 lü4 chuang1 chen2 bu2 dao4 ， ning2 su1 dian3 jiu4 wang3 chuan1 tu2 。
 
 ## 注释
 

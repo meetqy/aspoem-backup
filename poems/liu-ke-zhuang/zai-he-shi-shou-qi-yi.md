@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-zai-he-shi-shou-qi-yi
-title: 再和十首  其一
-titlePinyin: zai4 he2 shi2 shou3     qi2 yi1
+title: 再和十首  其一○
+titlePinyin: zai4 he2 shi2 shou3     qi2 yi1 ○
 titleSlug: zai-he-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 色深乍擣守宮紅，片細俄隨蛺蝶風。
-- 到得離披無意緒，精神全在半開中。
+- 君憶東湖不久歸，我思陳迹恍難追。
+- 殷勤爲報鶑花說，止有詩情似舊時。
 
 ## 拼音
 
-- se4 shen1 zha4 dao3 shou3 gong1 hong2 ， pian4 xi4 e2 sui2 jia2 die2 feng1 。
-- dao4 de2 li2 pi1 wu2 yi4 xu4 ， jing1 shen2 quan2 zai4 ban4 kai1 zhong1 。
+- jun1 yi4 dong1 hu2 bu4 jiu3 gui1 ， wo3 si1 chen2 ji4 huang3 nan2 zhui1 。
+- yin1 qin2 wei2 bao4 ying1 hua1 shuo1 ， zhi3 you3 shi1 qing2 si4 jiu4 shi2 。
 
 ## 注释
 

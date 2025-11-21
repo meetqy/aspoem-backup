@@ -6,25 +6,27 @@ titleSlug: yuan-shi-qi-si-qi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 遁跡深巖谷，身閑未是閑。
-- 研窮堪語默，寂靜杳冥間。
-- 祕密逢邪見，難開大道關。
-- 金丹無效用，弗可返童顔。
+- 承平無事上元節，絲竹歌聲更互發。
+- 自從雨後最晴明，不似往年今歲別。
+- 死來無意在遨遊，常愧三光明皎潔。
+- 千門萬戶樂喧喧，就中年少無蹔歇。
+- 天街紅燄布羣星，晃煬人間闘明月。
 
 ## 拼音
 
-- dun4 ji4 shen1 yan2 gu3 ， shen1 xian2 wei4 shi4 xian2 。
-- yan2 qiong2 kan1 yu3 mo4 ， ji4 jing4 yao3 ming2 jian4 。
-- bi4 mi4 feng2 xie2 jian4 ， nan2 kai1 da4 dao4 guan1 。
-- jin1 dan1 wu2 xiao4 yong4 ， fu2 ke3 fan3 tong2 yan2 。
+- cheng2 ping2 wu2 shi4 shang4 yuan2 jie2 ， si1 zhu2 ge1 sheng1 geng4 hu4 fa1 。
+- zi4 cong2 yu3 hou4 zui4 qing2 ming2 ， bu2 si4 wang3 nian2 jin1 sui4 bie2 。
+- si3 lai2 wu2 yi4 zai4 ao2 you2 ， chang2 kui4 san1 guang1 ming2 jiao3 jie2 。
+- qian1 men2 wan4 hu4 le4 xuan1 xuan1 ， jiu4 zhong1 nian2 shao4 wu2 zan4 xie1 。
+- tian1 jie1 hong2 yan4 bu4 qun2 xing1 ， huang4 yang2 ren2 jian4 dou4 ming2 yue4 。
 
 ## 注释
 

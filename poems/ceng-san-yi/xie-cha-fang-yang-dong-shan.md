@@ -6,10 +6,10 @@ titleSlug: xie-cha-fang-yang-dong-shan
 author: 曾三異
 authorPinyin: ceng2 san1 yi4
 authorSlug: ceng-san-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

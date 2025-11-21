@@ -1,26 +1,26 @@
 ---
 id: shi-pu-ji-song-gu-shi-yi-shou-qi-yi
-title: 頌古十一首  其一
-titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1
+title: 頌古十一首  其一○
+titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-yi-shou-qi-yi
 author: 釋普濟
 authorPinyin: shi4 pu3 ji4
 authorSlug: shi-pu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一片爺爺古化基，又逢寒食拜標時。
-- 滿前骨肉俱承蔭，一個無聊乞養兒。
+- 光境俱忘與未忘，殺人利劍活人鎗。
+- 太平時節渾無用，夜夜神光射斗旁。
 
 ## 拼音
 
-- yi2 pian4 ye2 ye2 gu3 hua4 ji1 ， you4 feng2 han2 shi2 bai4 biao1 shi2 。
-- man3 qian2 gu3 rou4 ju4 cheng2 yin1 ， yi2 ge4 wu2 liao2 qi3 yang3 er2 。
+- guang1 jing4 ju4 wang4 yu3 wei4 wang4 ， sha1 ren2 li4 jian4 huo2 ren2 qiang1 。
+- tai4 ping2 shi2 jie2 hun2 wu2 yong4 ， ye4 ye4 shen2 guang1 she4 dou4 pang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: di-ba-shi-ba-da-ma-san-jin-song
 author: 釋義青
 authorPinyin: shi4 yi4 qing1
 authorSlug: shi-yi-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

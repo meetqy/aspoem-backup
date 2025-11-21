@@ -6,10 +6,10 @@ titleSlug: cao-meng-liang-jiao-shou-ji-gan-yi-bai-ke-bao-yi-qian-li-zhi-xi-cheng
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: cao-xun-gong-ci-san-shi-san-shou-qi-er
-title: 宮詞三十三首  其二
-titlePinyin: gong1 ci2 san1 shi2 san1 shou3     qi2 er4
+title: 宮詞三十三首  其二○
+titlePinyin: gong1 ci2 san1 shi2 san1 shou3     qi2 er4 ○
 titleSlug: gong-ci-san-shi-san-shou-qi-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南山迎座曉雲開，閶闔風遲絕點埃。
-- 受職百神知有象，會稽春色過江來。
+- 溥綏聖澤浙江湄，風轉行宮赤羽旗。
+- 責己但書農本詔，乘春豈有宴游詩。
 
 ## 拼音
 
-- nan2 shan1 ying2 zuo4 xiao3 yun2 kai1 ， chang1 he2 feng1 chi2 jue2 dian3 ai1 。
-- shou4 zhi2 bai3 shen2 zhi1 you3 xiang4 ， hui4 ji1 chun1 se4 guo4 jiang1 lai2 。
+- pu3 sui2 sheng4 ze2 zhe4 jiang1 mei2 ， feng1 zhuan3 xing2 gong1 chi4 yu3 qi2 。
+- ze2 ji3 dan4 shu1 nong2 ben3 zhao4 ， cheng2 chun1 qi3 you3 yan4 you2 shi1 。
 
 ## 注释
 

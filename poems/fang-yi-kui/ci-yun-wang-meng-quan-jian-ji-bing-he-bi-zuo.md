@@ -6,35 +6,25 @@ titleSlug: ci-yun-wang-meng-quan-jian-ji-bing-he-bi-zuo
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君譜猗蘭操，曲度得碩師。
-- 孤唱絕衆和，不與淫聲比。
-- 難逢拊石盛，終作蹈海衰。
-- 近傳貧作祟，疽疣等駢枝。
-- 西風幾揮淚，徙倚哀吾私。
-- 好音忽西墮，竹下哦君詩。
-- 翛然落月色，融融伴君疑。
-- 慇懃告司鼎，君側要子思。
-- 試歸扣小有，坐待天定時。
+- 夜雨連床憶舊時，鱗鴻難寄故人詩。
+- 憐君不察抱心久，寫我何如問信遲。
+- 兩地雲萍無定跡，一庭風月不分岐。
+- 寸衣換得天吳錦，豈是騷盟一字師。
 
 ## 拼音
 
-- jun1 pu3 yi1 lan2 cao1 ， qu3 du4 de2 shuo4 shi1 。
-- gu1 chang4 jue2 zhong4 he2 ， bu4 yu3 yin2 sheng1 bi3 。
-- nan2 feng2 fu3 shi2 sheng4 ， zhong1 zuo4 dao3 hai3 shuai1 。
-- jin4 chuan2 pin2 zuo4 sui4 ， ju1 you2 deng3 pian2 zhi1 。
-- xi1 feng1 ji1 hui1 lei4 ， xi3 yi3 ai1 wu2 si1 。
-- hao3 yin1 hu1 xi1 duo4 ， zhu2 xia4 o4 jun1 shi1 。
-- xiao1 ran2 luo4 yue4 se4 ， rong2 rong2 ban4 jun1 yi2 。
-- yin1 qin2 gao4 si1 ding3 ， jun1 ce4 yao4 zi0 si1 。
-- shi4 gui1 kou4 xiao3 you3 ， zuo4 dai4 tian1 ding4 shi2 。
+- ye4 yu3 lian2 chuang2 yi4 jiu4 shi2 ， lin2 hong2 nan2 ji4 gu4 ren2 shi1 。
+- lian2 jun1 bu4 cha2 bao4 xin1 jiu3 ， xie3 wo3 he2 ru2 wen4 xin4 chi2 。
+- liang3 di4 yun2 ping2 wu2 ding4 ji4 ， yi4 ting2 feng1 yue4 bu4 fen1 qi2 。
+- cun4 yi1 huan4 de2 tian1 wu2 jin3 ， qi3 shi4 sao1 meng2 yi2 zi4 shi1 。
 
 ## 注释
 

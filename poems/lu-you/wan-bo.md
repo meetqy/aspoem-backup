@@ -6,25 +6,25 @@ titleSlug: wan-bo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半世無歸似轉蓬，今年作夢到巴東。
-- 身遊萬死一生地，路入千峰百嶂中。
-- 鄰舫有時來乞火，樷祠無處不祈風。
-- 晚潮又泊淮南岸，落日啼鴉戍堞空。
+- 樓上嗚嗚角，橋邊點點燈。
+- 聚沙新到雁，趁渡獨歸僧。
+- 日隱山光暗，天低海氣蒸。
+- 居人笑老子，醉髮亂鬅鬙）。
 
 ## 拼音
 
-- ban4 shi4 wu2 gui1 si4 zhuan3 peng2 ， jin1 nian2 zuo4 meng4 dao4 ba1 dong1 。
-- shen1 you2 wan4 si3 yi4 sheng1 di4 ， lu4 ru4 qian1 feng1 bai3 zhang4 zhong1 。
-- lin2 fang3 you3 shi2 lai2 qi3 huo3 ， cong2 ci2 wu2 chu3 bu4 qi2 feng1 。
-- wan3 chao2 you4 bo2 huai2 nan2 an4 ， luo4 ri4 ti2 ya1 shu4 die2 kong1 。
+- lou2 shang4 wu1 wu1 jiao3 ， qiao2 bian1 dian3 dian3 deng1 。
+- ju4 sha1 xin1 dao4 yan4 ， chen4 du4 du2 gui1 seng1 。
+- ri4 yin3 shan1 guang1 an4 ， tian1 di1 hai3 qi4 zheng1 。
+- ju1 ren2 xiao4 lao3 zi3 ， zui4 fa4 luan4 peng2 seng1 ）。
 
 ## 注释
 

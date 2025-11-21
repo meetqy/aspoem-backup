@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙成伯
 authorPinyin: zhao4 cheng2 bo2
 authorSlug: zhao-cheng-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

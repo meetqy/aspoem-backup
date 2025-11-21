@@ -6,10 +6,10 @@ titleSlug: yu-fu
 author: 游次公
 authorPinyin: you2 ci4 gong1
 authorSlug: you-ci-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

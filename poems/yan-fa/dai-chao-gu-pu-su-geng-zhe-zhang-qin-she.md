@@ -6,10 +6,10 @@ titleSlug: dai-chao-gu-pu-su-geng-zhe-zhang-qin-she
 author: 顔發
 authorPinyin: yan2 fa1
 authorSlug: yan-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

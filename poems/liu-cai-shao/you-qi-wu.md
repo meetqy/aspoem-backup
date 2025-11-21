@@ -6,21 +6,21 @@ titleSlug: you-qi-wu
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海國占風慕聖明，先春入貢竭丹誠。
-- 梯航萬里不辭遠，要趁新年賀太平。
+- 絳闕清都境異常，况當聖世物皆昌。
+- 風催柘館桑枝秀，冰滿龍池荇带長。
 
 ## 拼音
 
-- hai3 guo2 zhan4 feng1 mu4 sheng4 ming2 ， xian1 chun1 ru4 gong4 jie2 dan1 cheng2 。
-- ti1 hang2 wan4 li3 bu4 ci2 yuan3 ， yao4 chen4 xin1 nian2 he4 tai4 ping2 。
+- jiang4 que4 qing1 dou1 jing4 yi4 chang2 ， kuang4 dang1 sheng4 shi4 wu4 jie1 chang1 。
+- feng1 cui1 zhe4 guan3 sang1 zhi1 xiu4 ， bing1 man3 long2 chi2 xing4 dai4 chang2 。
 
 ## 注释
 

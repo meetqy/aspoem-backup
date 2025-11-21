@@ -6,25 +6,25 @@ titleSlug: he-wan-sheng-zi
 author: 李劉
 authorPinyin: li3 liu2
 authorSlug: li-liu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 商瞿五十子何遲，佳氣充閭慶可知。
-- 喜溢麟生天上日，夢回虎墮月中時。
-- 犀錢賸送沾佳客，麝顆輕塗付侍兒。
-- 英物從來聲自別，試啼容我一聽之。
+- 蘭玉森森天下奇，靈椿猶自長新枝。
+- 從來老蚌珠生晚，豈是長庚夢到遲。
+- 標格銀蟾光皎潔，精神秋水碧漣漪。
+- 玉皇案吏家聲近，佇看追蹤入鳳池。
 
 ## 拼音
 
-- shang1 qu2 wu3 shi2 zi3 he2 chi2 ， jia1 qi4 chong1 lü2 qing4 ke3 zhi1 。
-- xi3 yi4 lin2 sheng1 tian1 shang4 ri4 ， meng4 hui2 hu3 duo4 yue4 zhong1 shi2 。
-- xi1 qian2 sheng4 song4 zhan1 jia1 ke4 ， she4 ke1 qing1 tu2 fu4 shi4 er2 。
-- ying1 wu4 cong2 lai2 sheng1 zi4 bie2 ， shi4 ti2 rong2 wo3 yi4 ting1 zhi1 。
+- lan2 yu4 sen1 sen1 tian1 xia4 qi2 ， ling2 chun1 you2 zi4 chang2 xin1 zhi1 。
+- cong2 lai2 lao3 bang4 zhu1 sheng1 wan3 ， qi3 shi4 chang2 geng1 meng4 dao4 chi2 。
+- biao1 ge2 yin2 chan2 guang1 jiao3 jie2 ， jing1 shen2 qiu1 shui3 bi4 lian2 yi1 。
+- yu4 huang2 an4 li4 jia1 sheng1 jin4 ， zhu4 kan4 zhui1 zong1 ru4 feng4 chi2 。
 
 ## 注释
 

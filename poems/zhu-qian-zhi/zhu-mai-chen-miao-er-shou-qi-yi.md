@@ -6,10 +6,10 @@ titleSlug: zhu-mai-chen-miao-er-shou-qi-yi
 author: 朱謙之
 authorPinyin: zhu1 qian1 zhi1
 authorSlug: zhu-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

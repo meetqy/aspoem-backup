@@ -6,10 +6,10 @@ titleSlug: shou-zhu-bo
 author: 吳申甫
 authorPinyin: wu2 shen1 fu3
 authorSlug: wu-shen-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

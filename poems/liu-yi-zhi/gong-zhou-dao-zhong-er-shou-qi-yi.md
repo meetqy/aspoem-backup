@@ -6,10 +6,10 @@ titleSlug: gong-zhou-dao-zhong-er-shou-qi-yi
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

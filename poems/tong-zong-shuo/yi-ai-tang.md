@@ -6,10 +6,10 @@ titleSlug: yi-ai-tang
 author: 童宗說
 authorPinyin: tong2 zong1 shuo1
 authorSlug: tong-zong-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

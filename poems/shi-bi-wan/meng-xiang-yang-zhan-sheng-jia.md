@@ -6,10 +6,10 @@ titleSlug: meng-xiang-yang-zhan-sheng-jia
 author: 釋必萬
 authorPinyin: shi4 bi4 wan4
 authorSlug: shi-bi-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一入吳王殿，無人覩翠娥。
-- 樓高時見舞，宮靜夜聞歌。
-- 半露胷如雪，斜迴臉似波。
-- 妍媸各有分，誰敢妬恩多。
+- 淡紅花帔淺檀蛾，睡臉初開似剪波。
+- 坐對珠籠閑理曲，琵琶鸚鵡語相和。
 
 ## 拼音
 
-- yi2 ru4 wu2 wang2 dian4 ， wu2 ren2 du3 cui4 e2 。
-- lou2 gao1 shi2 jian4 wu3 ， gong1 jing4 ye4 wen2 ge1 。
-- ban4 lu4 xiong1 ru2 xue3 ， xie2 hui2 lian3 si4 bo1 。
-- yan2 chi1 ge4 you3 fen1 ， shui2 gan3 du4 en1 duo1 。
+- dan4 hong2 hua1 pei4 qian3 tan2 e2 ， shui4 lian3 chu1 kai1 si4 jian3 bo1 。
+- zuo4 dui4 zhu1 long2 xian2 li3 qu1 ， pi2 pa0 ying1 wu3 yu3 xiang1 he2 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: wang-ling-shou-gui-hua-mi-zi-kan-di-yi-san-yue-qi-zhi-ru-xin
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: han-shi
 author: 蔣夢炎
 authorPinyin: jiang3 meng4 yan2
 authorSlug: jiang-meng-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

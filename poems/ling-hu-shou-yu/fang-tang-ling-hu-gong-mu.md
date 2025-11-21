@@ -6,10 +6,10 @@ titleSlug: fang-tang-ling-hu-gong-mu
 author: 令狐壽域
 authorPinyin: ling2 hu2 shou4 yu4
 authorSlug: ling-hu-shou-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

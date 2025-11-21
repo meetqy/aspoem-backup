@@ -6,25 +6,25 @@ titleSlug: you-dai-zuo
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 絳帷犀鎮繡簾低，翠竹龍香錦帕齊。
-- 百柂瓊艘傾竹醖，千年眉壽輯萱閨。
-- 堂東已見床堆笏，庭下行看玉滿畦。
-- 歲晚逢春知有意，天教齯齒受新褆。
+- 新年輪遍列星名，却到龍頭第一星。
+- 夢澤東風吹麗曲，錦江春浪漲芳醽。
+- 月鸞雲鳳揮才藻，日鶴天龜與壽齡。
+- 此會明年應更好，長安花裏醉還醒。
 
 ## 拼音
 
-- jiang4 wei2 xi1 zhen4 xiu4 lian2 di1 ， cui4 zhu2 long2 xiang1 jin3 pa4 qi2 。
-- bai3 yi2 qiong2 sou1 qing1 zhu2 yun4 ， qian1 nian2 mei2 shou4 ji2 xuan1 gui1 。
-- tang2 dong1 yi3 jian4 chuang2 dui1 hu4 ， ting2 xia4 xing2 kan4 yu4 man3 qi2 。
-- sui4 wan3 feng2 chun1 zhi1 you3 yi4 ， tian1 jiao4 ni2 chi3 shou4 xin1 ti2 。
+- xin1 nian2 lun2 bian4 lie4 xing1 ming2 ， que4 dao4 long2 tou2 di4 yi1 xing1 。
+- meng4 ze2 dong1 feng1 chui1 li2 qu3 ， jin3 jiang1 chun1 lang4 zhang3 fang1 ling2 。
+- yue4 luan2 yun2 feng4 hui1 cai2 zao3 ， ri4 he4 tian1 gui1 yu3 shou4 ling2 。
+- ci3 hui4 ming2 nian2 ying1 geng4 hao3 ， chang2 an1 hua1 li3 zui4 huan2 xing3 。
 
 ## 注释
 

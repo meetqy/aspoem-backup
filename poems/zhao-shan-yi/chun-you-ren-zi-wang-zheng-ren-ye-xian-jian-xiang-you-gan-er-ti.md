@@ -6,10 +6,10 @@ titleSlug: chun-you-ren-zi-wang-zheng-ren-ye-xian-jian-xiang-you-gan-er-ti
 author: 趙善浥
 authorPinyin: zhao4 shan4 yi4
 authorSlug: zhao-shan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: chun-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春愁無處避，春雨幾時晴。
-- 黯黯陰連月，蕭蕭滴到明。
-- 窗昏減書課，弦緩咽琴聲。
-- 何以娱幽獨，新醅手自傾。
+- 湖上新春柳，摇摇欲喚人。
+- 多情今夜雨，先洗馬蹄塵。
 
 ## 拼音
 
-- chun1 chou2 wu2 chu3 bi4 ， chun1 yu3 ji1 shi2 qing2 。
-- an4 an4 yin1 lian2 yue4 ， xiao1 xiao1 di1 dao4 ming2 。
-- chuang1 hun1 jian3 shu1 ke4 ， xian2 huan3 yan4 qin2 sheng1 。
-- he2 yi3 yu2 you1 du2 ， xin1 pei1 shou3 zi4 qing1 。
+- hu2 shang4 xin1 chun1 liu3 ， yao2 yao2 yu4 huan4 ren2 。
+- duo1 qing2 jin1 ye4 yu3 ， xian1 xi3 ma3 ti2 chen2 。
 
 ## 注释
 

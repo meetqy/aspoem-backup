@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 釋方會
 authorPinyin: shi4 fang1 hui4
 authorSlug: shi-fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

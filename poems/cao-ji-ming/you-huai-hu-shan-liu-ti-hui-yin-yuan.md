@@ -6,10 +6,10 @@ titleSlug: you-huai-hu-shan-liu-ti-hui-yin-yuan
 author: 曹既明
 authorPinyin: cao2 ji4 ming2
 authorSlug: cao-ji-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

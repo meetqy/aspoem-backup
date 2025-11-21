@@ -6,9 +6,9 @@ titleSlug: feng-nian-yu-de-can-tong-zhi-wen-ling-ye-da-zhi-shan-shi-yi-zuo-si-xi
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

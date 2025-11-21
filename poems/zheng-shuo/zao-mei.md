@@ -6,10 +6,10 @@ titleSlug: zao-mei
 author: 鄭碩
 authorPinyin: zheng4 shuo4
 authorSlug: zheng-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

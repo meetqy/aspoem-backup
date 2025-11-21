@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhu-tong-ren-xie-ji-jian-fang-liu-ti
 author: 汪晫
 authorPinyin: wang1 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

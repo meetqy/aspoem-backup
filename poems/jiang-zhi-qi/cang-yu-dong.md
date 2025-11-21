@@ -6,21 +6,21 @@ titleSlug: cang-yu-dong
 author: 蔣之奇
 authorPinyin: jiang3 zhi1 qi2
 authorSlug: jiang-zhi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蒼玉門徑濶，白雲庭院深。
-- 鄞江一丈水，清可照人心。
+- 全閩形勢屬臨汀，贛嶺連疆似井陘。
+- 江匯里淵銷地脈，山橫華蓋應天星。
 
 ## 拼音
 
-- cang1 yu4 men2 jing4 kuo4 ， bai2 yun2 ting2 yuan4 shen1 。
-- yin2 jiang1 yi2 zhang4 shui3 ， qing1 ke3 zhao4 ren2 xin1 。
+- quan2 min3 xing2 shi4 shu3 lin2 ting1 ， gan4 ling3 lian2 jiang1 si4 jing3 xing2 。
+- jiang1 hui4 li3 yuan1 xiao1 di4 mai4 ， shan1 heng2 hua2 gai4 ying1 tian1 xing1 。
 
 ## 注释
 

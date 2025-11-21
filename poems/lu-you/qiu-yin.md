@@ -6,25 +6,25 @@ titleSlug: qiu-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陂澤秋容淡，郊原曉氣清。
-- 雨來鳩有語，社近燕無情。
-- 拄杖扶腰痛，漁舟照眼明。
-- 苦吟緣病輟，隨意或詩成。
+- 淡日披朝霧，輕雲結暮陰。
+- 菰蒲溪路暗，松竹草堂深。
+- 妙墨雙鈎帖，奇聲百衲琴。
+- 古人端未遠，一笑會吾心。
 
 ## 拼音
 
-- bei1 ze2 qiu1 rong2 dan4 ， jiao1 yuan2 xiao3 qi4 qing1 。
-- yu3 lai2 jiu1 you3 yu3 ， she4 jin4 yan4 wu2 qing2 。
-- zhu3 zhang4 fu2 yao1 tong4 ， yu2 zhou1 zhao4 yan3 ming2 。
-- ku3 yin2 yuan2 bing4 chuo4 ， sui2 yi4 huo4 shi1 cheng2 。
+- dan4 ri4 pi1 chao2 wu4 ， qing1 yun2 jie2 mu4 yin1 。
+- gu1 pu2 xi1 lu4 an4 ， song1 zhu2 cao3 tang2 shen1 。
+- miao4 mo4 shuang1 gou1 tie1 ， qi2 sheng1 bai3 na4 qin2 。
+- gu3 ren2 duan1 wei4 yuan3 ， yi2 xiao4 hui4 wu2 xin1 。
 
 ## 注释
 

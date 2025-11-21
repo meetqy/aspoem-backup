@@ -6,25 +6,25 @@ titleSlug: chao-yang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 縮宿沈榆彩，滄溟轉若華。
-- 纔晞漢盤露，便映洛神霞。
-- 鳴鳳梧岡迥，桑柔桂籠斜。
-- 照梁休自許，城上已啼鴉。
+- 腷膊雞聲夜向晨，東方飛景到雲林。
+- 簾幃已是曈曈曉，庭戶全無曀曀陰。
+- 可是梧桐長得地，也應葵藿久傾心。
+- 日邊早晚來環賜，見說清光注意深。
 
 ## 拼音
 
-- suo1 su4 shen3 yu2 cai3 ， cang1 ming2 zhuan3 ruo4 hua2 。
-- cai2 xi1 han4 pan2 lu4 ， bian4 ying4 luo4 shen2 xia2 。
-- ming2 feng4 wu2 gang1 jiong3 ， sang1 rou2 gui4 long2 xie2 。
-- zhao4 liang2 xiu1 zi4 xu1 ， cheng2 shang4 yi3 ti2 ya1 。
+- bi4 bo2 ji1 sheng1 ye4 xiang4 chen2 ， dong1 fang1 fei1 jing3 dao4 yun2 lin2 。
+- lian2 wei2 yi3 shi4 tong2 tong2 xiao3 ， ting2 hu4 quan2 wu2 yi4 yi4 yin1 。
+- ke3 shi4 wu2 tong2 chang2 de2 di4 ， ye3 ying1 kui2 huo4 jiu3 qing1 xin1 。
+- ri4 bian1 zao3 wan3 lai2 huan2 ci4 ， jian4 shuo1 qing1 guang1 zhu4 yi4 shen1 。
 
 ## 注释
 

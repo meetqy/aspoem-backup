@@ -6,10 +6,10 @@ titleSlug: cheng-an-fu-shi-zhao-duan-ming
 author: 釋凈真
 authorPinyin: shi4 jing4 zhen1
 authorSlug: shi-jing-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

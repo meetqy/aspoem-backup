@@ -6,21 +6,21 @@ titleSlug: da-feng
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 颶母從來海若家，青天白地忽飛沙。
-- 煩將殘暑驅除盡，只莫顛狂損稻花。
+- 春晴雖好恨多風，到眼花枝轉眼空。
+- 晴不與花爲道地，爭如雲淡雨濛濛。
 
 ## 拼音
 
-- ju4 mu3 cong2 lai2 hai3 ruo4 jia1 ， qing1 tian1 bai2 di4 hu1 fei1 sha1 。
-- fan2 jiang1 can2 shu3 qu1 chu2 jin4 ， zhi1 mo4 dian1 kuang2 sun3 dao4 hua1 。
+- chun1 qing2 sui1 hao3 hen4 duo1 feng1 ， dao4 yan3 hua1 zhi1 zhuan3 yan3 kong1 。
+- qing2 bu4 yu3 hua1 wei2 dao4 di4 ， zheng1 ru2 yun2 dan4 yu3 meng2 meng2 。
 
 ## 注释
 

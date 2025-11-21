@@ -6,10 +6,10 @@ titleSlug: ti-yong-tai-xian-shang-ren-ge-zhong-an-qi-yi
 author: 滕岑
 authorPinyin: teng2 cen2
 authorSlug: teng-cen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

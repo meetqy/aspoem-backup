@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 頼仙翁
 authorPinyin: lai4 xian1 weng1
 authorSlug: lai-xian-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiang-shan
 author: 任三傑
 authorPinyin: ren4 san1 jie2
 authorSlug: ren-san-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

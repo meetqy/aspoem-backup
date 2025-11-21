@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 巫峽中心郡，巴城四面春。
-- 草青臨水地，頭白見花人。
-- 憂喜皆心火，榮枯是眼塵。
-- 除非一杯酒，何物更關身。
+- 老思不禁春，風光照眼新。
+- 花房紅鳥觜，池浪碧魚鱗。
+- 倚櫂誰爲伴，持杯自問身。
+- 心情多少在，六十二三人。
 
 ## 拼音
 
-- wu1 xia2 zhong1 xin1 jun4 ， ba1 cheng2 si4 mian4 chun1 。
-- cao3 qing1 lin2 shui3 di4 ， tou2 bai2 jian4 hua1 ren2 。
-- you1 xi3 jie1 xin1 huo3 ， rong2 ku1 shi4 yan3 chen2 。
-- chu2 fei1 yi4 bei1 jiu3 ， he2 wu4 geng4 guan1 shen1 。
+- lao3 si1 bu4 jin1 chun1 ， feng1 guang1 zhao4 yan3 xin1 。
+- hua1 fang2 hong2 niao3 zi1 ， chi2 lang4 bi4 yu2 lin2 。
+- yi3 zhao4 shui2 wei2 ban4 ， chi2 bei1 zi4 wen4 shen1 。
+- xin1 qing2 duo1 shao3 zai4 ， liu4 shi2 er4 san1 ren2 。
 
 ## 注释
 

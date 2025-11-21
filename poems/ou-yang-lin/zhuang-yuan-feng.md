@@ -6,10 +6,10 @@ titleSlug: zhuang-yuan-feng
 author: 歐陽麟
 authorPinyin: ou1 yang2 lin2
 authorSlug: ou-yang-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

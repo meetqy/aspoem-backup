@@ -6,10 +6,10 @@ titleSlug: fan-lao-qian-sui-xiang-bie-yue-gui-kuo-cang-bian-you-si-ming-jin-bu-z
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

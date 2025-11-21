@@ -6,10 +6,10 @@ titleSlug: wen-ping-hu-seng-shao-yi-zi-ling-gui-you-ru-zhe
 author: 周暕
 authorPinyin: zhou1 jian3
 authorSlug: zhou-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

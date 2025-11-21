@@ -1,30 +1,30 @@
 ---
 id: dong-si-gao-ju-hua
-title: 菊花
+title: 橘花
 titlePinyin: ju2 hua1
 titleSlug: ju-hua
 author: 董嗣杲
 authorPinyin: dong3 si4 gao3
 authorSlug: dong-si-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 籬東佳友手曾刪，莫把南山提眼看。
-- 荒徑可供元亮采，落英惟許屈平餐。
-- 艷鍾金氣中分晚，香裊清霜獨傲寒。
-- 誰插滿頭開笑口，翠微亭北倚闌干。
+- 對花懷母望雲心，不見圍棋隱者尋。
+- 晚徑風清香更醉，小亭月滿艷能侵。
+- 千林翠幄千英雪，一點瓊苞一顆金。
+- 莫問封侯惟問酒，泛盃摘蘂寄情深。
 
 ## 拼音
 
-- li2 dong1 jia1 you3 shou3 ceng2 shan1 ， mo4 ba3 nan2 shan1 ti2 yan3 kan4 。
-- huang1 jing4 ke3 gong1 yuan2 liang4 cai3 ， luo4 ying1 wei2 xu1 qu1 ping2 can1 。
-- yan4 zhong1 jin1 qi4 zhong1 fen1 wan3 ， xiang1 niao3 qing1 shuang1 du2 ao4 han2 。
-- shui2 cha1 man3 tou2 kai1 xiao4 kou3 ， cui4 wei1 ting2 bei3 yi3 lan2 gan1 。
+- dui4 hua1 huai2 mu3 wang4 yun2 xin1 ， bu2 jian4 wei2 qi2 yin3 zhe3 xun2 。
+- wan3 jing4 feng1 qing1 xiang1 geng4 zui4 ， xiao3 ting2 yue4 man3 yan4 neng2 qin1 。
+- qian1 lin2 cui4 wo4 qian1 ying1 xue3 ， yi4 dian3 qiong2 bao1 yi4 ke1 jin1 。
+- mo4 wen4 feng1 hou2 wei2 wen4 jiu3 ， fan4 bei1 zhai1 rui3 ji4 qing2 shen1 。
 
 ## 注释
 

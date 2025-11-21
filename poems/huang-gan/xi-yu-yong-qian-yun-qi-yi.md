@@ -6,10 +6,10 @@ titleSlug: xi-yu-yong-qian-yun-qi-yi
 author: 黄榦
 authorPinyin: huang2 gan4
 authorSlug: huang-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

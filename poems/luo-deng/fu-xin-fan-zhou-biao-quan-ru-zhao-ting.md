@@ -6,10 +6,10 @@ titleSlug: fu-xin-fan-zhou-biao-quan-ru-zhao-ting
 author: 羅登
 authorPinyin: luo2 deng1
 authorSlug: luo-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

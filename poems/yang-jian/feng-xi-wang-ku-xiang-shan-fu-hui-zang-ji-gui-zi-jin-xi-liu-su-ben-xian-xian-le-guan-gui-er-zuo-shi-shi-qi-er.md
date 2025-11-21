@@ -6,10 +6,10 @@ titleSlug: feng-xi-wang-ku-xiang-shan-fu-hui-zang-ji-gui-zi-jin-xi-liu-su-ben-xi
 author: 楊簡
 authorPinyin: yang2 jian3
 authorSlug: yang-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

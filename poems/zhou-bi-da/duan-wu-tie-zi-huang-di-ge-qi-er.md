@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-er
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 赫日中天正，清風養物深。
-- 葵傾多士志，草偃萬方心。
+- 民壽休頒朮，人淳罷賜梟。
+- 堯賢不遺野，楚些豈勞招。
 
 ## 拼音
 
-- he4 ri4 zhong1 tian1 zheng4 ， qing1 feng1 yang3 wu4 shen1 。
-- kui2 qing1 duo1 shi4 zhi4 ， cao3 yan3 wan4 fang1 xin1 。
+- min2 shou4 xiu1 ban1 zhu2 ， ren2 chun2 ba4 ci4 xiao1 。
+- yao2 xian2 bu4 yi2 ye3 ， chu3 xie1 qi3 lao2 zhao1 。
 
 ## 注释
 

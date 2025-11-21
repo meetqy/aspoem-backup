@@ -6,10 +6,10 @@ titleSlug: san-ri-tong-jing-ren-lin-ji-ji-chuan-hui-shu-jing-lu-mi-xiao-liu-pan-
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

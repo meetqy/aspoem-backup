@@ -14,14 +14,14 @@ tags: []
 
 ## 正文
 
-- 憶共庭蘭倚砌栽，柔條輕吹獨依隈。
+- 憶共庭蘭倚砌裁，柔條輕吹獨依隈。
 - 自知佳節終堪賞，爲惜流光未忍開。
-- 采擷也須盈掌握，馨香還解滿罇罍。
-- 今朝旬假猶無事，更好登臨汎一杯。
+- 采擷也須盈掌握，馨香還解滿尊罍。
+- 今朝旬假猶無事，更好登臨汎一盃。
 
 ## 拼音
 
-- yi4 gong4 ting2 lan2 yi3 qi4 zai1 ， rou2 tiao2 qing1 chui1 du2 yi1 wei1 。
+- yi4 gong4 ting2 lan2 yi3 qi4 cai2 ， rou2 tiao2 qing1 chui1 du2 yi1 wei1 。
 - zi4 zhi1 jia1 jie2 zhong1 kan1 shang3 ， wei2 xi1 liu2 guang1 wei4 ren3 kai1 。
 - cai3 xie2 ye3 xu1 ying2 zhang3 wo4 ， xin1 xiang1 huan2 jie3 man3 zun1 lei2 。
 - jin1 zhao1 xun2 jia3 you2 wu2 shi4 ， geng4 hao3 deng1 lin2 fan4 yi4 bei1 。

@@ -6,10 +6,10 @@ titleSlug: qi-zhong-de-hua-di-er-zhuan-yu-jie-you-zhi-qu-zhi-zhong-nai-wei-pu-ca
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

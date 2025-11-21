@@ -9,22 +9,22 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 箭飛峡中水，鋸立峡中石。
-- 峡與水爲隘，水與石相擊。
+- 箭飛峽中水，鋸立峽中石。
+- 峽與水爲隘，水與石相擊。
 - 濆爲生險艱，聲發甚霹靂。
 - 三老航一葉，百丈空千尺。
-- 蒼黄徒爾爲，倐忽何可測。
+- 蒼黃徒爾爲，倏忽何可測。
 - 篙之小難制，戙之獨有力。
 - 猗嗟戙之爲，彬彬堅且直。
 - 有如用武人，森森矗戈戟。
 - 有如敢言士，落落吐胸臆。
-- 拯危居坦夷，濟險免兢愓。
-- 誌彼哲匠心，俾其来者識。
+- 拯危居坦夷，濟險免兢惕。
+- 誌彼哲匠心，俾其來者識。
 
 ## 拼音
 
@@ -37,7 +37,7 @@ tags: []
 - yi1 jie1 dong4 zhi1 wei2 ， bin1 bin1 jian1 qie3 zhi2 。
 - you3 ru2 yong4 wu3 ren2 ， sen1 sen1 chu4 ge1 ji3 。
 - you3 ru2 gan3 yan2 shi4 ， luo4 luo4 tu3 xiong1 yi4 。
-- zheng3 wei1 ju1 tan3 yi2 ， ji4 xian3 mian3 jing1 dang4 。
+- zheng3 wei1 ju1 tan3 yi2 ， ji4 xian3 mian3 jing1 ti4 。
 - zhi4 bi3 zhe2 jiang4 xin1 ， bi3 qi2 lai2 zhe3 shi2 。
 
 ## 注释

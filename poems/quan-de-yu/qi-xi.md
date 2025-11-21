@@ -9,22 +9,18 @@ authorSlug: quan-de-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 佳期人不見，天上喜新秋。
-- 玉珮霑新露，香車渡淺流。
-- 東西一水隔，迢遰兩年愁。
-- 別有穿針處，微明月暎樓。
+- 今日雲軿渡鵲橋，應非脈脈與迢迢。
+- 家人競喜開妝鏡，月下穿針拜九霄。
 
 ## 拼音
 
-- jia1 qi1 ren2 bu2 jian4 ， tian1 shang4 xi3 xin1 qiu1 。
-- yu4 pei4 zhan1 xin1 lu4 ， xiang1 ju1 du4 qian3 liu2 。
-- dong1 xi1 yi4 shui3 ge2 ， tiao2 di4 liang3 nian2 chou2 。
-- bie2 you3 chuan1 zhen1 chu3 ， wei1 ming2 yue4 ying4 lou2 。
+- jin1 ri4 yun2 ping2 du4 que4 qiao2 ， ying1 fei1 mai4 mai4 yu3 tiao2 tiao2 。
+- jia1 ren2 jing4 xi3 kai1 zhuang1 jing4 ， yue4 xia4 chuan1 zhen1 bai4 jiu3 xiao1 。
 
 ## 注释
 

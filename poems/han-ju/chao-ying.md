@@ -1,26 +1,26 @@
 ---
 id: han-ju-chao-ying
-title: 嘲螢
+title: 嘲蠅
 titlePinyin: chao2 ying2
 titleSlug: chao-ying
 author: 韓駒
 authorPinyin: han2 ju1
 authorSlug: han-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孤光辭腐草，強擬帖天飛。
-- 中路霜風急，還尋腐草歸。
+- 憶昔趨閶闔，朝雞促曉聲。
+- 何關蠅輩事，也復強飛鳴。
 
 ## 拼音
 
-- gu1 guang1 ci2 fu3 cao3 ， qiang2 ni3 tie1 tian1 fei1 。
-- zhong1 lu4 shuang1 feng1 ji2 ， huan2 xun2 fu3 cao3 gui1 。
+- yi4 xi1 qu1 chang1 he2 ， chao2 ji1 cu4 xiao3 sheng1 。
+- he2 guan1 ying2 bei4 shi4 ， ye3 fu4 qiang2 fei1 ming2 。
 
 ## 注释
 

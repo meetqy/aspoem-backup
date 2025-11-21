@@ -9,22 +9,22 @@ authorSlug: han-wo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春風狂似虎，春浪白於鵝。
-- 柳密藏煙易，松長見日多。
-- 石崖采芝叟，鄉俗摘茶歌。
-- 道在無伊鬱，天將奈爾何。
+- 睡髻休頻攏，春眉忍更長。
+- 整釵梔子重，泛酒菊花香。
+- 繡疊昏金色，羅揉損砑光。
+- 有時閑弄筆，亦畫兩鴛鴦。
 
 ## 拼音
 
-- chun1 feng1 kuang2 si4 hu3 ， chun1 lang4 bai2 wu1 e2 。
-- liu3 mi4 cang2 yan1 yi4 ， song1 chang2 jian4 ri4 duo1 。
-- shi2 ya2 cai3 zhi1 sou3 ， xiang1 su2 zhai1 cha2 ge1 。
-- dao4 zai4 wu2 yi1 yu4 ， tian1 jiang1 nai4 er3 he2 。
+- shui4 ji4 xiu1 bin1 long3 ， chun1 mei2 ren3 geng4 chang2 。
+- zheng3 chai1 zhi1 zi3 zhong4 ， fan4 jiu3 ju2 hua1 xiang1 。
+- xiu4 die2 hun1 jin1 se4 ， luo2 rou2 sun3 ya4 guang1 。
+- you3 shi2 xian2 nong4 bi3 ， yi4 hua4 liang3 yuan1 yang1 。
 
 ## 注释
 

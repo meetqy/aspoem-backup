@@ -6,10 +6,10 @@ titleSlug: jia-yu-chi
 author: 甯某
 authorPinyin: ning2 mou3
 authorSlug: ning-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: peng-cheng-shan
 author: 徐兢
 authorPinyin: xu2 jing1
 authorSlug: xu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

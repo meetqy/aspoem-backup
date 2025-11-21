@@ -6,10 +6,10 @@ titleSlug: hu-ji-xiu-cai-xiao-ou-yang-gong-ji-gu-zuo-wan-yan-tang
 author: 晁補之
 authorPinyin: chao2 bu3 zhi1
 authorSlug: chao-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

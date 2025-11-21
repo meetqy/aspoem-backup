@@ -1,26 +1,26 @@
 ---
 id: li-long-gao-xiao-mei
-title: 小梅
-titlePinyin: xiao3 mei2
+title: 消梅
+titlePinyin: xiao1 mei2
 titleSlug: xiao-mei
 author: 李龍高
 authorPinyin: li3 long2 gao1
 authorSlug: li-long-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小杜文章小李歌，詩名還有小東坡。
-- 莫欺一點丰姿瘦，著得清香儘自多。
+- 冰融雪化一須臾，清脆圓鬆壓塞酥。
+- 我有牢愁三萬斛，問君消得幾分無。
 
 ## 拼音
 
-- xiao3 du4 wen2 zhang1 xiao3 li3 ge1 ， shi1 ming2 huan2 you3 xiao3 dong1 po1 。
-- mo4 qi1 yi4 dian3 feng1 zi1 shou4 ， zhu4 de2 qing1 xiang1 jin3 zi4 duo1 。
+- bing1 rong2 xue3 hua4 yi4 xu1 yu2 ， qing1 cui4 yuan2 song1 ya1 sai1 su1 。
+- wo3 you3 lao2 chou2 san1 wan4 hu2 ， wen4 jun1 xiao1 de2 ji1 fen1 wu2 。
 
 ## 注释
 

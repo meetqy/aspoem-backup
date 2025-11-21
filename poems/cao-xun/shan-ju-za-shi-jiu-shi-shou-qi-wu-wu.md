@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-wu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 從昔漫浪心，家居意不適。
-- 晨朝香火餘，飯了辦游歷。
-- 或訪僧掇齋，或隠者對奕。
-- 歸來任侵燈，龍吟噴霜笛。
+- 小圃養春色，乘時不可緩。
+- 翌鋤常于于，成趣須旦旦。
+- 花摘去年種，喜供一時翫。
+- 舉杯付歌兒，野服更蕭散。
 
 ## 拼音
 
-- cong2 xi1 man4 lang4 xin1 ， jia1 ju1 yi4 bu2 shi4 。
-- chen2 chao2 xiang1 huo3 yu2 ， fan4 le0 ban4 you2 li4 。
-- huo4 fang3 seng1 duo1 zhai1 ， huo4 yin3 zhe3 dui4 yi4 。
-- gui1 lai2 ren4 qin1 deng1 ， long2 yin2 pen1 shuang1 di2 。
+- xiao3 pu3 yang3 chun1 se4 ， cheng2 shi2 bu4 ke3 huan3 。
+- yi4 chu2 chang2 yu2 yu2 ， cheng2 qu4 xu1 dan4 dan4 。
+- hua1 zhai1 qu4 nian2 zhong3 ， xi3 gong4 yi4 shi2 wan2 。
+- ju3 bei1 fu4 ge1 er2 ， ye3 fu2 geng4 xiao1 san4 。
 
 ## 注释
 

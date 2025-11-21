@@ -6,10 +6,10 @@ titleSlug: huang-yan-shan
 author: 楊琛
 authorPinyin: yang2 chen1
 authorSlug: yang-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

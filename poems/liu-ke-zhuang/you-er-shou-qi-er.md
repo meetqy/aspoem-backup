@@ -6,25 +6,25 @@ titleSlug: you-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不謂斯人夭，堂堂在目中。
-- 曾參黄面老，肯戀黑頭公。
-- 性理天淵徹，榮華露電空。
-- 獨餘章奏在，聖主記遺忠。
+- 詩家事業可憐生，骨朽人間有集行。
+- 鍛鍊鬼猶驚險語，折磨天亦妬虛名。
+- 長騎馿背嫌肩聳，欲拔鯨牙恨力輕。
+- 吟得擅場成底事，不如黄策挹浮榮。
 
 ## 拼音
 
-- bu2 wei4 si1 ren2 yao1 ， tang2 tang2 zai4 mu4 zhong1 。
-- ceng2 can1 huang2 mian4 lao3 ， ken3 lian4 hei1 tou2 gong1 。
-- xing4 li3 tian1 yuan1 che4 ， rong2 hua2 lu4 dian4 kong1 。
-- du2 yu2 zhang1 zou4 zai4 ， sheng4 zhu3 ji4 yi2 zhong1 。
+- shi1 jia1 shi4 ye4 ke3 lian2 sheng1 ， gu3 xiu3 ren2 jian4 you3 ji2 xing2 。
+- duan4 lian4 gui3 you2 jing1 xian3 yu3 ， zhe2 mo2 tian1 yi4 du4 xu1 ming2 。
+- chang2 qi2 lu2 bei4 xian2 jian1 song3 ， yu4 ba2 jing1 ya2 hen4 li4 qing1 。
+- yin2 de2 shan4 chang3 cheng2 di3 shi4 ， bu4 ru2 huang2 ce4 yi4 fu2 rong2 。
 
 ## 注释
 

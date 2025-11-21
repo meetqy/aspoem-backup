@@ -6,10 +6,10 @@ titleSlug: xin-sui-wu-shi-shi-jue-shuai-cui-yin-shu-chang-ju-feng-cheng-zhong-xu
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

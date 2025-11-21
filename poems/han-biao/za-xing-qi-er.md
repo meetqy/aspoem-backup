@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翾翾蝶粉白，氣化隨所之。
-- 人生事物間，自役應自知。
-- 賞心有餘樂，即目無足悲。
-- 天運非偶然，神釋形已疲。
+- 書帙侵窗竹數竿，晚留晴影上青攢。
+- 不禁滴盡瀟瀟葉，時拂疎風雨未乾。
 
 ## 拼音
 
-- xuan1 xuan1 die2 fen3 bai2 ， qi4 hua4 sui2 suo3 zhi1 。
-- ren2 sheng1 shi4 wu4 jian4 ， zi4 yi4 ying1 zi4 zhi1 。
-- shang3 xin1 you3 yu2 le4 ， ji2 mu4 wu2 zu2 bei1 。
-- tian1 yun4 fei1 ou3 ran2 ， shen2 shi4 xing2 yi3 pi2 。
+- shu1 zhi4 qin1 chuang1 zhu2 shu4 gan1 ， wan3 liu2 qing2 ying3 shang4 qing1 zan3 。
+- bu4 jin1 di1 jin4 xiao1 xiao1 ye4 ， shi2 fu2 shu1 feng1 yu3 wei4 qian2 。
 
 ## 注释
 

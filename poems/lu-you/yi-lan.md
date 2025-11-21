@@ -6,21 +6,21 @@ titleSlug: yi-lan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 故山未敢說歸期，十口相隨又别離。
-- 小雨初收殘照晚，闌干西角立多時。
+- 滿庭晴日破朝寒，粥罷披裘小倚欄。
+- 殘菊抱叢香欲盡，一株南燭獨如丹。
 
 ## 拼音
 
-- gu4 shan1 wei4 gan3 shuo1 gui1 qi1 ， shi2 kou3 xiang1 sui2 you4 bie2 li2 。
-- xiao3 yu3 chu1 shou1 can2 zhao4 wan3 ， lan2 gan1 xi1 jiao3 li4 duo1 shi2 。
+- man3 ting2 qing2 ri4 po4 chao2 han2 ， zhou1 ba4 pi1 qiu2 xiao3 yi3 lan2 。
+- can2 ju2 bao4 cong2 xiang1 yu4 jin4 ， yi4 zhu1 nan2 zhu2 du2 ru2 dan1 。
 
 ## 注释
 

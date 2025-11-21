@@ -6,9 +6,9 @@ titleSlug: chu-kang-lu-du-jiang-huai-shan-bai-zhu-zu-ta-dao-zhong-zuo
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: wen-xiu-shi-gui-zi-lin-an-you-xin-zuo-xi-yi-xiao-shi-ji-zhi-si-shou-q
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

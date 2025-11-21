@@ -6,10 +6,10 @@ titleSlug: long-xing-ren-wang-fo-she-na-liang-lian-ju-shi-liu-yun
 author: 謝公定
 authorPinyin: xie4 gong1 ding4
 authorSlug: xie-gong-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

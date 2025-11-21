@@ -1,30 +1,30 @@
 ---
 id: lu-you-ji-huai
-title: 紀懷
-titlePinyin: ji4 huai2
+title: 羈懷
+titlePinyin: ji1 huai2
 titleSlug: ji-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 未斸要離冢畔雲，儈牛得食寄鄉枌。
-- 修身本欲善吾死，臨事豈忘尊所聞。
-- 時序管寧親饋奠，江山龐老上丘墳。
-- 飾巾家簀從來事，萬種悠悠莫苦分。
+- 羈懷不復耐悲歡，清鏡朝朝雪鬢繁。
+- 謝傅畏逢親友別，龐公思遺子孫安。
+- 殘骸累歲歸民伍，半俸今春上縣官。
+- 閉戶惟須學堅坐，不知更敗幾蒲團。
 
 ## 拼音
 
-- wei4 zhu2 yao4 li2 zhong3 pan4 yun2 ， kuai4 niu2 de2 shi2 ji4 xiang1 fen2 。
-- xiu1 shen1 ben3 yu4 shan4 wu2 si3 ， lin2 shi4 qi3 wang4 zun1 suo3 wen2 。
-- shi2 xu4 guan3 ning2 qin1 kui4 dian4 ， jiang1 shan1 pang2 lao3 shang4 qiu1 fen2 。
-- shi4 jin1 jia1 ze2 cong2 lai2 shi4 ， wan4 zhong3 you1 you1 mo4 ku3 fen1 。
+- ji1 huai2 bu2 fu4 nai4 bei1 huan1 ， qing1 jing4 zhao1 zhao1 xue3 bin4 fan2 。
+- xie4 fu4 wei4 feng2 qin1 you3 bie2 ， pang2 gong1 si1 yi2 zi3 sun1 an1 。
+- can2 hai2 lei4 sui4 gui1 min2 wu3 ， ban4 feng4 jin1 chun1 shang4 xian4 guan1 。
+- bi4 hu4 wei2 xu1 xue2 jian1 zuo4 ， bu4 zhi1 geng4 bai4 ji1 pu2 tuan2 。
 
 ## 注释
 

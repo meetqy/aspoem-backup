@@ -6,10 +6,10 @@ titleSlug: guo-lin-ping
 author: 張良臣
 authorPinyin: zhang1 liang2 chen2
 authorSlug: zhang-liang-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

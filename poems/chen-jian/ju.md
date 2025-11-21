@@ -3,22 +3,22 @@ id: chen-jian-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳薦
-authorPinyin: chen2 jian4
+author: 陳瑊
+authorPinyin: chen2 jian1
 authorSlug: chen-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵靜山川狂鹿死，雷驚天地老龍飛。
+- 自是古今無變異，豈因霜雪有枯榮。
 
 ## 拼音
 
-- chen2 jing4 shan1 chuan1 kuang2 lu4 si3 ， lei2 jing1 tian1 di4 lao3 long2 fei1 。
+- zi4 shi4 gu3 jin1 wu2 bian4 yi4 ， qi3 yin1 shuang1 xue3 you3 ku1 rong2 。
 
 ## 注释
 

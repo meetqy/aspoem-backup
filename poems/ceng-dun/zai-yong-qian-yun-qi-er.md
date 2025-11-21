@@ -6,10 +6,10 @@ titleSlug: zai-yong-qian-yun-qi-er
 author: 曾惇
 authorPinyin: ceng2 dun1
 authorSlug: ceng-dun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

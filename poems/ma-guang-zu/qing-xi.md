@@ -6,10 +6,10 @@ titleSlug: qing-xi
 author: 馬光祖
 authorPinyin: ma3 guang1 zu3
 authorSlug: ma-guang-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

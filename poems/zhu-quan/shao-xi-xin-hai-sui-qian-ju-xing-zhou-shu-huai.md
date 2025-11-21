@@ -6,10 +6,10 @@ titleSlug: shao-xi-xin-hai-sui-qian-ju-xing-zhou-shu-huai
 author: 朱權
 authorPinyin: zhu1 quan2
 authorSlug: zhu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

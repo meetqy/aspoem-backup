@@ -6,25 +6,25 @@ titleSlug: ji-you
 author: 陳深
 authorPinyin: chen2 shen1
 authorSlug: chen-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山中太玉子，比日復何如。
-- 自恨數年別，無因一寄書。
-- 江湖驚老大，日月暗銷除。
-- 會晤無期在，憑詩問起居。
+- 海內皆兄弟，情深莫若君。
+- 那知經亂後，翻作久離群。
+- 皎皎雲中月，悠悠巖上雲。
+- 相思不可見，清夢遶江濆。
 
 ## 拼音
 
-- shan1 zhong1 tai4 yu4 zi3 ， bi3 ri4 fu4 he2 ru2 。
-- zi4 hen4 shu4 nian2 bie2 ， wu2 yin1 yi2 ji4 shu1 。
-- jiang1 hu2 jing1 lao3 da4 ， ri4 yue4 an4 xiao1 chu2 。
-- hui4 wu4 wu2 qi1 zai4 ， ping2 shi1 wen4 qi3 ju1 。
+- hai3 nei4 jie1 xiong1 di4 ， qing2 shen1 mo4 ruo4 jun1 。
+- na4 zhi1 jing1 luan4 hou4 ， fan1 zuo4 jiu3 li2 qun2 。
+- jiao3 jiao3 yun2 zhong1 yue4 ， you1 you1 yan2 shang4 yun2 。
+- xiang1 si1 bu4 ke3 jian4 ， qing1 meng4 rao4 jiang1 pen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zeng-jia-si-jiao
 author: 柯岳
 authorPinyin: ke1 yue4
 authorSlug: ke-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

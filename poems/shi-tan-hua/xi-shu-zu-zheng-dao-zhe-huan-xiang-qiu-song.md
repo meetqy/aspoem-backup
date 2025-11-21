@@ -6,10 +6,10 @@ titleSlug: xi-shu-zu-zheng-dao-zhe-huan-xiang-qiu-song
 author: 釋曇華
 authorPinyin: shi4 tan2 hua2
 authorSlug: shi-tan-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

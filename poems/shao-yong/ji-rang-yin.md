@@ -6,25 +6,25 @@ titleSlug: ji-rang-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人言別有洞中仙，洞裏神仙恐妄傳。
-- 若俟靈丹須九轉，必求朱頂更千年。
-- 長年國裏花千樹，安樂窩中樂滿懸。
-- 有樂有花仍有酒，却疑身是洞中仙。
+- 擊壤三千首，行窩二十家。
+- 樂天爲事業，養志是生涯。
+- 出入將如意，過從用小車。
+- 人能知此樂，何必待紛華。
 
 ## 拼音
 
-- ren2 yan2 bie2 you3 dong4 zhong1 xian1 ， dong4 li3 shen2 xian1 kong3 wang4 chuan2 。
-- ruo4 si4 ling2 dan1 xu1 jiu3 zhuan3 ， bi4 qiu2 zhu1 ding3 geng4 qian1 nian2 。
-- chang2 nian2 guo2 li3 hua1 qian1 shu4 ， an1 le4 wo1 zhong1 le4 man3 xuan2 。
-- you3 le4 you3 hua1 reng2 you3 jiu3 ， que4 yi2 shen1 shi4 dong4 zhong1 xian1 。
+- ji1 rang3 san1 qian1 shou3 ， xing2 wo1 er4 shi2 jia1 。
+- le4 tian1 wei2 shi4 ye4 ， yang3 zhi4 shi4 sheng1 ya2 。
+- chu1 ru4 jiang1 ru2 yi4 ， guo4 cong2 yong4 xiao3 ju1 。
+- ren2 neng2 zhi1 ci3 le4 ， he2 bi4 dai4 fen1 hua2 。
 
 ## 注释
 

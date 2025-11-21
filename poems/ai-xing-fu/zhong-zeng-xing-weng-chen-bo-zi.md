@@ -6,10 +6,10 @@ titleSlug: zhong-zeng-xing-weng-chen-bo-zi
 author: 艾性夫
 authorPinyin: ai4 xing4 fu1
 authorSlug: ai-xing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

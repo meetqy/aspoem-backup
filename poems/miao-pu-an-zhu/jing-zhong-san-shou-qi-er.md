@@ -6,10 +6,10 @@ titleSlug: jing-zhong-san-shou-qi-er
 author: 妙普庵主
 authorPinyin: miao4 pu3 an1 zhu3
 authorSlug: miao-pu-an-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

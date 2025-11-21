@@ -6,25 +6,25 @@ titleSlug: zhou-zhong
 author: 劉過
 authorPinyin: liu2 guo4
 authorSlug: liu-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 扁舟去時風怒惡，舟入深溪雪花落。
-- 我行無事有底忙，且向荻花深處著。
-- 鄰船乞火炮蛤蜊，樽中濁醪把一巵。
-- 陶陶萬事不復理，凍口且吐寒酸時。
+- 下水南風未覺難，我舟不動穩如山。
+- 東西日月尋常事，變化烟雲頃刻間。
+- 沙鳥似驚皆退避，林巒如畫亦渾閒。
+- 歸期只欲長安近，屈指何時到北關。
 
 ## 拼音
 
-- pian1 zhou1 qu4 shi2 feng1 nu4 e4 ， zhou1 ru4 shen1 xi1 xue3 hua1 luo4 。
-- wo3 xing2 wu2 shi4 you3 di3 mang2 ， qie3 xiang4 di2 hua1 shen1 chu3 zhu4 。
-- lin2 chuan2 qi3 huo3 pao4 ge2 li2 ， zun1 zhong1 zhuo2 lao2 ba3 yi4 zhi1 。
-- tao2 tao2 wan4 shi4 bu2 fu4 li3 ， dong4 kou3 qie3 tu3 han2 suan1 shi2 。
+- xia4 shui3 nan2 feng1 wei4 jue2 nan2 ， wo3 zhou1 bu2 dong4 wen3 ru2 shan1 。
+- dong1 xi1 ri4 yue4 xun2 chang2 shi4 ， bian4 hua4 yan1 yun2 qing3 ke4 jian4 。
+- sha1 niao3 si4 jing1 jie1 tui4 bi4 ， lin2 luan2 ru2 hua4 yi4 hun2 xian2 。
+- gui1 qi1 zhi1 yu4 chang2 an1 jin4 ， qu1 zhi3 he2 shi2 dao4 bei3 guan1 。
 
 ## 注释
 

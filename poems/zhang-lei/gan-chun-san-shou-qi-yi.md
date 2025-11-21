@@ -6,25 +6,21 @@ titleSlug: gan-chun-san-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東風吹桃李，花落已滿地。
-- 摇摇新柳枝，薄蔭纔可芘。
-- 誰云同一時，榮謝兩異意。
-- 由來何足較，要之歸一致。
+- 日長殘雪滴高簷，院靜人閒風度簾。
+- 可是歲華隨日好，故應愁恨逐春添。
 
 ## 拼音
 
-- dong1 feng1 chui1 tao2 li3 ， hua1 luo4 yi3 man3 di4 。
-- yao2 yao2 xin1 liu3 zhi1 ， bao2 yin1 cai2 ke3 pi2 。
-- shui2 yun2 tong2 yi4 shi2 ， rong2 xie4 liang3 yi4 yi4 。
-- you2 lai2 he2 zu2 jiao4 ， yao4 zhi1 gui1 yi2 zhi4 。
+- ri4 chang2 can2 xue3 di1 gao1 yan2 ， yuan4 jing4 ren2 xian2 feng1 du4 lian2 。
+- ke3 shi4 sui4 hua2 sui2 ri4 hao3 ， gu4 ying1 chou2 hen4 zhu2 chun1 tian1 。
 
 ## 注释
 

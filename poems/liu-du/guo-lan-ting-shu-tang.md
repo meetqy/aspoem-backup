@@ -6,10 +6,10 @@ titleSlug: guo-lan-ting-shu-tang
 author: 劉度
 authorPinyin: liu2 du4
 authorSlug: liu-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

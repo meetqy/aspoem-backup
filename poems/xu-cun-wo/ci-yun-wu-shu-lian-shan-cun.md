@@ -6,10 +6,10 @@ titleSlug: ci-yun-wu-shu-lian-shan-cun
 author: 許存我
 authorPinyin: xu1 cun2 wo3
 authorSlug: xu-cun-wo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: shi-zhi-zuo-shan-zhe
 author: 釋省澄
 authorPinyin: shi4 sheng3 cheng2
 authorSlug: shi-sheng-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

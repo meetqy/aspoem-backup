@@ -6,10 +6,10 @@ titleSlug: you-yu-yan-qi-yi
 author: 陳謹
 authorPinyin: chen2 jin3
 authorSlug: chen-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

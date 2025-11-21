@@ -6,10 +6,10 @@ titleSlug: you-jin-jing-ci-xie-dong-ye-yun
 author: 廖斯任
 authorPinyin: liao4 si1 ren4
 authorSlug: liao-si-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

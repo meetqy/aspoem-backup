@@ -6,10 +6,10 @@ titleSlug: chong-xiu-long-tang-shi
 author: 鄭漻
 authorPinyin: zheng4 liao2
 authorSlug: zheng-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

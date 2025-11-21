@@ -6,10 +6,10 @@ titleSlug: da-di-dong
 author: 徐安國
 authorPinyin: xu2 an1 guo2
 authorSlug: xu-an-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

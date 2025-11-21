@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十里香街沸管絃，金明回馭夕陽天。
-- 風輕芝蓋搖霞浪，裊裊龍盤七寶鞭。
+- 寒食風光淑景時，宮娥裝束鬭珠璣。
+- 呼盧盡日隨朋侶，將掩嚴閨始欲歸。
 
 ## 拼音
 
-- shi2 li3 xiang1 jie1 fei4 guan3 xian2 ， jin1 ming2 hui2 yu4 xi1 yang2 tian1 。
-- feng1 qing1 zhi1 gai4 yao2 xia2 lang4 ， niao3 niao3 long2 pan2 qi1 bao3 bian1 。
+- han2 shi2 feng1 guang1 shu1 jing3 shi2 ， gong1 e2 zhuang1 shu4 dou4 zhu1 ji1 。
+- hu1 lu2 jin4 ri4 sui2 peng2 lü3 ， jiang1 yan3 yan2 gui1 shi3 yu4 gui1 。
 
 ## 注释
 

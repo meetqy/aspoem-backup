@@ -1,26 +1,26 @@
 ---
 id: yue-ke-gong-ci-yi-bai-shou-qi-liu
-title: 宮詞一百首  其六
-titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 liu4
+title: 宮詞一百首  其六○
+titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 liu4 ○
 titleSlug: gong-ci-yi-bai-shou-qi-liu
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 內省催班立御廊，紫宸朝退侍君王。
-- 尚宮直筆呈章奏，一縷金猊繞殿香。
+- 道山雲氣隔塵埃，制詔中書選茂才。
+- 藜照何須煩太一，要觀數世育臺萊。
 
 ## 拼音
 
-- nei4 sheng3 cui1 ban1 li4 yu4 lang2 ， zi3 chen2 chao2 tui4 shi4 jun1 wang2 。
-- shang4 gong1 zhi2 bi3 cheng2 zhang1 zou4 ， yi4 lü3 jin1 ni2 rao4 dian4 xiang1 。
+- dao4 shan1 yun2 qi4 ge2 chen2 ai1 ， zhi4 zhao4 zhong1 shu1 xuan3 mao4 cai2 。
+- li2 zhao4 he2 xu1 fan2 tai4 yi1 ， yao4 guan1 shu4 shi4 yu4 tai2 lai2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jiu-ri-shan-song-ke-ci-zhao-xun-zhou-yun
 author: 趙崇皦
 authorPinyin: zhao4 chong2 jiao3
 authorSlug: zhao-chong-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

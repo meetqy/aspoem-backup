@@ -1,14 +1,14 @@
 ---
 id: wen-tong-he-wu-long-tu-yun-wu-shou-ming-tang-si-she-bu-de-yu-guan-gan-er-cheng-shi
-title: 和吳龍圖韵五首・明堂肆赦不得預觀感而成詩
-titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3・ming2 tang2 si4 she4 bu4 de2 yu4 guan1 gan3 er2 cheng2 shi1
+title: 和吳龍圖韵五首 明堂肆赦不得預觀感而成詩
+titlePinyin: he2 wu2 long2 tu2 yun4 wu3 shou3   ming2 tang2 si4 she4 bu4 de2 yu4 guan1 gan3 er2 cheng2 shi1
 titleSlug: he-wu-long-tu-yun-wu-shou-ming-tang-si-she-bu-de-yu-guan-gan-er-cheng-shi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

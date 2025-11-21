@@ -6,10 +6,10 @@ titleSlug: deng-shang-qing-ge-er-shou-qi-er
 author: 宋京
 authorPinyin: song4 jing1
 authorSlug: song-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

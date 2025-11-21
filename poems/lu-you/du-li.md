@@ -6,25 +6,21 @@ titleSlug: du-li
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨立柴荆外，頽然一秃翁。
-- 亂山吞落日，野水倒寒空。
-- 憂患工催老，飄零敢諱窮。
-- 漁歌亦何恨，悽斷滿西風。
+- 上書不上登封書，乘車但乘下澤車。
+- 夕陽獨立衡門外，閑看村童學釣魚。
 
 ## 拼音
 
-- du2 li4 chai2 jing1 wai4 ， tui2 ran2 yi4 tu1 weng1 。
-- luan4 shan1 tun1 luo4 ri4 ， ye3 shui3 dao3 han2 kong1 。
-- you1 huan4 gong1 cui1 lao3 ， piao1 ling2 gan3 hui4 qiong2 。
-- yu2 ge1 yi4 he2 hen4 ， qi1 duan4 man3 xi1 feng1 。
+- shang4 shu1 bu2 shang4 deng1 feng1 shu1 ， cheng2 ju1 dan4 cheng2 xia4 ze2 ju1 。
+- xi1 yang2 du2 li4 heng2 men2 wai4 ， xian2 kan4 cun1 tong2 xue2 diao4 yu2 。
 
 ## 注释
 

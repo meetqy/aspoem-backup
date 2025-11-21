@@ -6,10 +6,10 @@ titleSlug: liu-nian-ju-wu-zi-yi-ri-wen-zhai-gu-you-sheng
 author: 釋慧開
 authorPinyin: shi4 hui4 kai1
 authorSlug: shi-hui-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

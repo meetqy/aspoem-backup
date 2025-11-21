@@ -1,30 +1,30 @@
 ---
 id: lu-you-zhong-shu
-title: 種秫
-titlePinyin: zhong3 shu2
+title: 種蔬
+titlePinyin: zhong3 shu1
 titleSlug: zhong-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 種秫供留客，移花待探春。
-- 愁邊開樂國，鬧裏作閑身。
-- 鬢髮今如此，頭顱莫問人。
-- 白鷗非避俗，野性自難馴。
+- 老翁老去尚何言，除却翻書即灌園。
+- 處處移蔬乘小雨，時時拾礫繞頹垣。
+- 江鄉地暖根常茂，旱歲蟲生葉未繁。
+- 四壁愈空冬祭近，更催稚子牧雞豚。
 
 ## 拼音
 
-- zhong3 shu2 gong4 liu2 ke4 ， yi2 hua1 dai4 tan4 chun1 。
-- chou2 bian1 kai1 le4 guo2 ， nao4 li3 zuo4 xian2 shen1 。
-- bin4 fa4 jin1 ru2 ci3 ， tou2 lu2 mo4 wen4 ren2 。
-- bai2 ou1 fei1 bi4 su2 ， ye3 xing4 zi4 nan2 xun4 。
+- lao3 weng1 lao3 qu4 shang4 he2 yan2 ， chu2 que4 fan1 shu1 ji2 guan4 yuan2 。
+- chu3 chu3 yi2 shu1 cheng2 xiao3 yu3 ， shi2 shi2 shi2 li4 rao4 tui2 yuan2 。
+- jiang1 xiang1 di4 nuan3 gen1 chang2 mao4 ， han4 sui4 chong2 sheng1 ye4 wei4 fan2 。
+- si4 bi4 yu4 kong1 dong1 ji4 jin4 ， geng4 cui1 zhi4 zi3 mu4 ji1 tun2 。
 
 ## 注释
 

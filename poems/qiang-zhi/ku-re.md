@@ -6,25 +6,25 @@ titleSlug: ku-re
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 群鳥無聲抱翠條，乾坤雖廣絕微飆。
-- 魚龍尚懼滄溟沸，草木甘從赤日焦。
-- 只與火雲張氣勢，未容霖雨解炎歊。
-- 經時未雨猶閑事，莫放晴虹作旱妖。
+- 天上扶桑樹合枯，火雲四起抱陽烏。
+- 誰能赤脚渡銀漢，直欲跳身藏玉壺。
+- 河朔飲杯空酩酊，臨淄汗雨自沾濡。
+- 井深水遠渴心劇，百丈無繩轉轆轤。
 
 ## 拼音
 
-- qun2 niao3 wu2 sheng1 bao4 cui4 tiao2 ， qian2 kun1 sui1 guang3 jue2 wei1 biao1 。
-- yu2 long2 shang4 ju4 cang1 ming2 fei4 ， cao3 mu4 gan1 cong2 chi4 ri4 jiao1 。
-- zhi1 yu3 huo3 yun2 zhang1 qi4 shi4 ， wei4 rong2 lin2 yu3 jie3 yan2 xiao1 。
-- jing1 shi2 wei4 yu3 you2 xian2 shi4 ， mo4 fang4 qing2 hong2 zuo4 han4 yao1 。
+- tian1 shang4 fu2 sang1 shu4 he2 ku1 ， huo3 yun2 si4 qi3 bao4 yang2 wu1 。
+- shui2 neng2 chi4 jiao3 du4 yin2 han4 ， zhi2 yu4 tiao4 shen1 cang2 yu4 hu2 。
+- he2 shuo4 yin3 bei1 kong1 ming3 ding3 ， lin2 zi1 han4 yu3 zi4 zhan1 ru2 。
+- jing3 shen1 shui3 yuan3 ke3 xin1 ju4 ， bai3 zhang4 wu2 sheng2 zhuan3 lu4 lu2 。
 
 ## 注释
 

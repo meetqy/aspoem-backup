@@ -6,25 +6,25 @@ titleSlug: qiu-feng
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚來雨霽秋風顛，驚我枕上清晝眠。
-- 四林荒凉好景氣，萬里晻靄皆雲烟。
-- 乳鳩深藏叫苦竹，蒼鶻欻起摩青天。
-- 花枝柳葉便凋隕，山上松筠徑儼然。
+- 風戰江湖飛斷梗，露零霄漢聽征鴻。
+- 身雖流俗志萬里，昔是少年今老翁。
+- 雙眼久因塵事黑，病顔今爲酒樽紅。
+- 夜深胡蝶歸魂夢，飛盡蓬瀛島嶼中。
 
 ## 拼音
 
-- wan3 lai2 yu3 ji4 qiu1 feng1 dian1 ， jing1 wo3 zhen3 shang4 qing1 zhou4 mian2 。
-- si4 lin2 huang1 liang2 hao3 jing3 qi4 ， wan4 li3 an3 ai3 jie1 yun2 yan1 。
-- ru3 jiu1 shen1 cang2 jiao4 ku3 zhu2 ， cang1 gu3 chua1 qi3 mo2 qing1 tian1 。
-- hua1 zhi1 liu3 ye4 bian4 diao1 yun3 ， shan1 shang4 song1 yun2 jing4 yan3 ran2 。
+- feng1 zhan4 jiang1 hu2 fei1 duan4 geng3 ， lu4 ling2 xiao1 han4 ting1 zheng1 hong2 。
+- shen1 sui1 liu2 su2 zhi4 wan4 li3 ， xi1 shi4 shao4 nian2 jin1 lao3 weng1 。
+- shuang1 yan3 jiu3 yin1 chen2 shi4 hei1 ， bing4 yan2 jin1 wei2 jiu3 zun1 hong2 。
+- ye4 shen1 hu2 die2 gui1 hun2 meng4 ， fei1 jin4 peng2 ying2 dao3 yu3 zhong1 。
 
 ## 注释
 

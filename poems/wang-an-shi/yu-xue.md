@@ -1,26 +1,26 @@
 ---
 id: wang-an-shi-yu-xue
-title: 遇雪
+title: 欲雪
 titlePinyin: yu4 xue3
 titleSlug: yu-xue
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 定知花發是歸期，不奈歸心日日歸。
-- 風雪豈知行客恨，向人更作落花飛。
+- 天上雲驕未肯同，晚來雪意已填空。
+- 欲開新酒邀嘉客，更待天花落坐中。
 
 ## 拼音
 
-- ding4 zhi1 hua1 fa1 shi4 gui1 qi1 ， bu2 nai4 gui1 xin1 ri4 ri4 gui1 。
-- feng1 xue3 qi3 zhi1 xing2 ke4 hen4 ， xiang4 ren2 geng4 zuo4 luo4 hua1 fei1 。
+- tian1 shang4 yun2 jiao1 wei4 ken3 tong2 ， wan3 lai2 xue3 yi4 yi3 tian2 kong4 。
+- yu4 kai1 xin1 jiu3 yao1 jia1 ke4 ， geng4 dai4 tian1 hua1 luo4 zuo4 zhong1 。
 
 ## 注释
 

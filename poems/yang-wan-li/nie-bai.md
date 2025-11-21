@@ -6,21 +6,21 @@ titleSlug: nie-bai
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五十如何是後生，呼兒拔白未忘情。
-- 新年只道無功業，也有霜髭六十莖。
+- 止酒愁無那，哦詩意已闌。
+- 鑷髭非急務，也遣半時閑。
 
 ## 拼音
 
-- wu3 shi2 ru2 he2 shi4 hou4 sheng1 ， hu1 er2 ba2 bai2 wei4 wang4 qing2 。
-- xin1 nian2 zhi1 dao4 wu2 gong1 ye4 ， ye3 you3 shuang1 zi1 liu4 shi2 jing4 。
+- zhi3 jiu3 chou2 wu2 na4 ， o4 shi1 yi4 yi3 lan2 。
+- nie4 zi1 fei1 ji2 wu4 ， ye3 qian3 ban4 shi2 xian2 。
 
 ## 注释
 

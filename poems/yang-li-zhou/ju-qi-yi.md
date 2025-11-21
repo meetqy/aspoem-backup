@@ -1,24 +1,24 @@
 ---
 id: yang-li-zhou-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 楊黎州
 authorPinyin: yang2 li2 zhou1
 authorSlug: yang-li-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山川百蠻國，雨露九天書。
+- 人歸漢后黄金屋，燕在盧家白玉堂。
 
 ## 拼音
 
-- shan1 chuan1 bai3 man2 guo2 ， yu3 lu4 jiu3 tian1 shu1 。
+- ren2 gui1 han4 hou4 huang2 jin1 wu1 ， yan4 zai4 lu2 jia1 bai2 yu4 tang2 。
 
 ## 注释
 

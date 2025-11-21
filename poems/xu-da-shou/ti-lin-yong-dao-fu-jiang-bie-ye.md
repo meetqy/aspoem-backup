@@ -6,10 +6,10 @@ titleSlug: ti-lin-yong-dao-fu-jiang-bie-ye
 author: 徐大受
 authorPinyin: xu2 da4 shou4
 authorSlug: xu-da-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: lu-qu-dong-zhou-xing-shi-yi-bian-cheng-chen-cheng-bing-zuo-si-shi-zi-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

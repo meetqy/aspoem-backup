@@ -6,10 +6,10 @@ titleSlug: yan-zhi-ji-shi-mi-dao-yuan-ji-qian-qi-song-cheng-he-yun-xie-zhi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

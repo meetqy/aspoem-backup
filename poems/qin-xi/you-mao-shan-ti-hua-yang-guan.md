@@ -6,10 +6,10 @@ titleSlug: you-mao-shan-ti-hua-yang-guan
 author: 秦熺
 authorPinyin: qin2 xi1
 authorSlug: qin-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

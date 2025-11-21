@@ -6,25 +6,25 @@ titleSlug: yu-tan-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心已忘斯世，天猶活此翁。
-- 嫩湯茶乳白，軟火地爐紅。
-- 課婢耘蔬甲，呼兒下釣筒。
-- 生涯君勿笑，聊足慰塗窮。
+- 日夕羊牛下，月明烏鵲飛。
+- 林林皆有託，貿貿獨安歸。
+- 疾痼方求藥，秋高未製衣。
+- 岷峨不遂隠，更恨昔謀非。
 
 ## 拼音
 
-- xin1 yi3 wang4 si1 shi4 ， tian1 you2 huo2 ci3 weng1 。
-- nen4 tang1 cha2 ru3 bai2 ， ruan3 huo3 di4 lu2 hong2 。
-- ke4 bi4 yun2 shu1 jia3 ， hu1 er2 xia4 diao4 tong3 。
-- sheng1 ya2 jun1 wu4 xiao4 ， liao2 zu2 wei4 tu2 qiong2 。
+- ri4 xi1 yang2 niu2 xia4 ， yue4 ming2 wu1 que4 fei1 。
+- lin2 lin2 jie1 you3 tuo1 ， mao4 mao4 du2 an1 gui1 。
+- ji2 gu4 fang1 qiu2 yao4 ， qiu1 gao1 wei4 zhi4 yi1 。
+- min2 e2 bu2 sui4 yin3 ， geng4 hen4 xi1 mou2 fei1 。
 
 ## 注释
 

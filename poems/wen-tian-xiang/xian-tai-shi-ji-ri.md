@@ -6,25 +6,25 @@ titleSlug: xian-tai-shi-ji-ri
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬里先人忌，呼號痛不天。
-- 遺孤餘二紀，曠祀忽三年。
-- 永恨丘園隔，遥憐弟妹圓。
-- 義方如昨日，地下想欣然。
+- 太師忌汗漫，二紀似跳丸。
+- 弟妹俱成立，家鄉忍破殘。
+- 衣冠晨月暗，墳墓夜風寒。
+- 萬里逢先忌，無言把淚彈。
 
 ## 拼音
 
-- wan4 li3 xian1 ren2 ji4 ， hu1 hao4 tong4 bu4 tian1 。
-- yi2 gu1 yu2 er4 ji4 ， kuang4 si4 hu1 san1 nian2 。
-- yong3 hen4 qiu1 yuan2 ge2 ， yao2 lian2 di4 mei4 yuan2 。
-- yi4 fang1 ru2 zuo2 ri4 ， di4 xia4 xiang3 xin1 ran2 。
+- tai4 shi1 ji4 han4 man4 ， er4 ji4 si4 tiao4 wan2 。
+- di4 mei4 ju4 cheng2 li4 ， jia1 xiang1 ren3 po4 can2 。
+- yi1 guan1 chen2 yue4 an4 ， fen2 mu4 ye4 feng1 han2 。
+- wan4 li3 feng2 xian1 ji4 ， wu2 yan2 ba3 lei4 dan4 。
 
 ## 注释
 

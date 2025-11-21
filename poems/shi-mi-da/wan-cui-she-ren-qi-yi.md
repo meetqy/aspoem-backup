@@ -6,10 +6,10 @@ titleSlug: wan-cui-she-ren-qi-yi
 author: 史彌大
 authorPinyin: shi3 mi2 da4
 authorSlug: shi-mi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: li-shang-yin-ju
-title: 菊
-titlePinyin: ju2
+title: 句
+titlePinyin: ju4
 titleSlug: ju
 author: 李商隱
 authorPinyin: li3 shang1 yin3
@@ -9,22 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 暗暗淡淡紫，融融冶冶黃。
-- 陶令籬邊色，羅含宅裏香。
-- 幾時禁重露，實是怯殘陽。
-- 願泛金鸚鵡，升君白玉堂。
+- 斜倚綠窗□□□。
+- （見李壁《王荆文公詩箋注》卷三五《金陵懷古》注引）。
 
 ## 拼音
 
-- an4 an4 dan4 dan4 zi3 ， rong2 rong2 ye3 ye3 huang2 。
-- tao2 ling4 li2 bian1 se4 ， luo2 han2 zhai2 li3 xiang1 。
-- ji1 shi2 jin4 zhong4 lu4 ， shi2 shi4 qie4 can2 yang2 。
-- yuan4 fan4 jin1 ying1 wu3 ， sheng1 jun1 bai2 yu4 tang2 。
+- xie2 yi3 lü4 chuang1 □□□。
+- （ jian4 li3 bi4 《 wang2 jing1 wen2 gong1 shi1 jian1 zhu4 》 juan4 san1 wu3 《 jin1 ling2 huai2 gu3 》 zhu4 yin3 ）。
 
 ## 注释
 

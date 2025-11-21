@@ -9,22 +9,18 @@ authorSlug: du-mu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 因思上黨三年戰，閑詠周公七月詩。
-- 竹帛未聞書死節，丹青空見畫靈旗。
-- 蕭條井邑如魚尾，早晚干戈識虎皮。
-- 莫笑一麾東下計，滿江秋浪碧參差。
+- 小院無人雨長苔，滿庭修竹間疎槐。
+- 春愁兀兀成幽夢，又被流鶯喚醒來。
 
 ## 拼音
 
-- yin1 si1 shang4 dang3 san1 nian2 zhan4 ， xian2 yong3 zhou1 gong1 qi1 yue4 shi1 。
-- zhu2 bo2 wei4 wen2 shu1 si3 jie2 ， dan1 qing1 kong1 jian4 hua4 ling2 qi2 。
-- xiao1 tiao2 jing3 yi4 ru2 yu2 wei3 ， zao3 wan3 gan1 ge1 shi2 hu3 pi2 。
-- mo4 xiao4 yi4 hui1 dong1 xia4 ji4 ， man3 jiang1 qiu1 lang4 bi4 can1 cha4 。
+- xiao3 yuan4 wu2 ren2 yu3 chang2 tai2 ， man3 ting2 xiu1 zhu2 jian4 shu1 huai2 。
+- chun1 chou2 wu4 wu4 cheng2 you1 meng4 ， you4 bei4 liu2 ying1 huan4 xing3 lai2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: za-yong-qi-yi
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 得官塵土古揚州，好客常稀俗客稠。
-- 掩簿叱胥無慁我，冒風踏雪作清遊。
+- 水月光華動不風，寒增綠柳露滋松。
+- 西山夜色無人喚，直透疏簾翠一重。
 
 ## 拼音
 
-- de2 guan1 chen2 tu3 gu3 yang2 zhou1 ， hao4 ke4 chang2 xi1 su2 ke4 chou2 。
-- yan3 bo2 chi4 xu1 wu2 hun4 wo3 ， mao4 feng1 ta4 xue3 zuo4 qing1 you2 。
+- shui3 yue4 guang1 hua2 dong4 bu4 feng1 ， han2 zeng1 lü4 liu3 lu4 zi1 song1 。
+- xi1 shan1 ye4 se4 wu2 ren2 huan4 ， zhi2 tou4 shu1 lian2 cui4 yi4 chong2 。
 
 ## 注释
 

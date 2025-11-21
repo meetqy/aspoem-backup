@@ -6,10 +6,10 @@ titleSlug: zeng-huang-sun-er-chu-shi
 author: 張及
 authorPinyin: zhang1 ji2
 authorSlug: zhang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

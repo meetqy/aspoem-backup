@@ -1,26 +1,26 @@
 ---
 id: shi-ding-xu-ji-er-shi-shou-qi-yi
-title: 偈二十首  其一
-titlePinyin: ji4 er4 shi2 shou3     qi2 yi1
+title: 偈二十首  其一○
+titlePinyin: ji4 er4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-er-shi-shou-qi-yi
 author: 釋鼎需
 authorPinyin: shi4 ding3 xu1
 authorSlug: shi-ding-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 隈嚴遁谷，敗種焦牙。
-- 應物隨形，拖泥带水。
+- 行亦禪，坐亦禪，語默動靜體安然。
+- 江上晚來堪畫處，一葉扁舟破遠煙。
 
 ## 拼音
 
-- wei1 yan2 dun4 gu3 ， bai4 zhong3 jiao1 ya2 。
-- ying1 wu4 sui2 xing2 ， tuo1 ni2 dai4 shui3 。
+- xing2 yi4 shan4 ， zuo4 yi4 shan4 ， yu3 mo4 dong4 jing4 ti3 an1 ran2 。
+- jiang1 shang4 wan3 lai2 kan1 hua4 chu3 ， yi2 ye4 pian1 zhou1 po4 yuan3 yan1 。
 
 ## 注释
 

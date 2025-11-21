@@ -6,25 +6,25 @@ titleSlug: shu-gan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 髧髦馳逐少年場，晚向深山學老莊。
-- 名以馬牛猶不校，嘲爲豚犬極何妨。
-- 性疎熟客來難記，意懶生書讀易忘。
-- 却笑癡人誤標榜，賢愚千古共茫茫。
+- 恩賜殘骸得返耕，孤臣安敢厭承明。
+- 羊腸曾有單車覆，牛背那無一笛橫。
+- 俗子休疑眉宇異，癡人錯望耳毫生。
+- 老身雖厄心常泰，聽取商歌遶屋聲。
 
 ## 拼音
 
-- dan4 mao2 chi2 zhu2 shao4 nian2 chang3 ， wan3 xiang4 shen1 shan1 xue2 lao3 zhuang1 。
-- ming2 yi3 ma3 niu2 you2 bu2 xiao4 ， chao2 wei2 tun2 quan3 ji2 he2 fang2 。
-- xing4 shu1 shu2 ke4 lai2 nan2 ji4 ， yi4 lan3 sheng1 shu1 du2 yi4 wang4 。
-- que4 xiao4 chi1 ren2 wu4 biao1 bang3 ， xian2 yu2 qian1 gu3 gong4 mang2 mang2 。
+- en1 ci4 can2 hai2 de2 fan3 geng1 ， gu1 chen2 an1 gan3 yan4 cheng2 ming2 。
+- yang2 chang2 ceng2 you3 dan1 ju1 fu4 ， niu2 bei4 na4 wu2 yi4 di2 heng2 。
+- su2 zi3 xiu1 yi2 mei2 yu3 yi4 ， chi1 ren2 cuo4 wang4 er3 hao2 sheng1 。
+- lao3 shen1 sui1 e4 xin1 chang2 tai4 ， ting1 qu3 shang1 ge1 rao4 wu1 sheng1 。
 
 ## 注释
 

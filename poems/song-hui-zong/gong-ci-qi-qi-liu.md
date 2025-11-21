@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-liu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鈿筝百寶間生輝，玉柱成行雁自飛。
-- 對酒僊姿時一按，十三絃上迸珠璣。
+- 酒入金鍾灔灔平，暗偷全在夾盤盛。
+- 宮嬪捧勸知分别，相顧潛聞笑語聲。
 
 ## 拼音
 
-- dian4 zheng1 bai3 bao3 jian4 sheng1 hui1 ， yu4 zhu4 cheng2 xing2 yan4 zi4 fei1 。
-- dui4 jiu3 xian1 zi1 shi2 yi2 an4 ， shi2 san1 xian2 shang4 beng4 zhu1 ji1 。
+- jiu3 ru4 jin1 zhong1 yan4 yan4 ping2 ， an4 tou1 quan2 zai4 jia1 pan2 sheng4 。
+- gong1 pin2 peng3 quan4 zhi1 fen1 bie2 ， xiang1 gu4 qian2 wen2 xiao4 yu3 sheng1 。
 
 ## 注释
 

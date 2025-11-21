@@ -6,25 +6,25 @@ titleSlug: chun-ri-hu-shang
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乘興行新路，凝情獨老翁。
-- 馬蹄春草上，人影夕陽中。
-- 飛絮沿湖白，殘花染浪紅。
-- 晚歸雲氣合，雙槳破空濛。
+- 清波門外放船時，盡日輕寒戀客衣。
+- 花下笑聲人共語，柳邊檣影燕初飛。
+- 曉風不定棠梨瘦，夜雨相連薺麥肥。
+- 最憶故山春更好，夜來先遣夢魂歸。
 
 ## 拼音
 
-- cheng2 xing1 xing2 xin1 lu4 ， ning2 qing2 du2 lao3 weng1 。
-- ma3 ti2 chun1 cao3 shang4 ， ren2 ying3 xi1 yang2 zhong1 。
-- fei1 xu4 yan2 hu2 bai2 ， can2 hua1 ran3 lang4 hong2 。
-- wan3 gui1 yun2 qi4 he2 ， shuang1 jiang3 po4 kong1 meng2 。
+- qing1 bo1 men2 wai4 fang4 chuan2 shi2 ， jin4 ri4 qing1 han2 lian4 ke4 yi1 。
+- hua1 xia4 xiao4 sheng1 ren2 gong4 yu3 ， liu3 bian1 qiang2 ying3 yan4 chu1 fei1 。
+- xiao3 feng1 bu2 ding4 tang2 li2 shou4 ， ye4 yu3 xiang1 lian2 ji4 mai4 fei2 。
+- zui4 yi4 gu4 shan1 chun1 geng4 hao3 ， ye4 lai2 xian1 qian3 meng4 hun2 gui1 。
 
 ## 注释
 

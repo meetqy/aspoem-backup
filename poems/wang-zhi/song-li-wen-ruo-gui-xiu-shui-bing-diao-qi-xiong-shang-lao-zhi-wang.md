@@ -6,10 +6,10 @@ titleSlug: song-li-wen-ruo-gui-xiu-shui-bing-diao-qi-xiong-shang-lao-zhi-wang
 author: 王銍
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

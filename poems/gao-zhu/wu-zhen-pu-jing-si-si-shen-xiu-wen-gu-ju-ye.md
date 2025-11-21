@@ -6,10 +6,10 @@ titleSlug: wu-zhen-pu-jing-si-si-shen-xiu-wen-gu-ju-ye
 author: 高翥
 authorPinyin: gao1 zhu4
 authorSlug: gao-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

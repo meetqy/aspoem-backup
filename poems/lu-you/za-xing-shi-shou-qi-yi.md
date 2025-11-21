@@ -1,26 +1,26 @@
 ---
 id: lu-you-za-xing-shi-shou-qi-yi
-title: 雜興十首  其一
-titlePinyin: za2 xing1 shi2 shou3     qi2 yi1
+title: 雜興十首  其一○
+titlePinyin: za2 xing1 shi2 shou3     qi2 yi1 ○
 titleSlug: za-xing-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早遇齊侯遊柏寢，晚從漢帝祀甘泉。
-- 不須苦學飛騰術，更看泥金檢玉年。
+- 瞿聃楊墨寧非學，治獄行兵亦有師。
+- 惟是儒生知擇術，百年窮達守書詩。
 
 ## 拼音
 
-- zao3 yu4 qi2 hou2 you2 bai3 qin3 ， wan3 cong2 han4 di4 si4 gan1 quan2 。
-- bu4 xu1 ku3 xue2 fei1 teng2 shu4 ， geng4 kan4 ni2 jin1 jian3 yu4 nian2 。
+- qu2 dan1 yang2 mo4 ning2 fei1 xue2 ， zhi4 yu4 xing2 bing1 yi4 you3 shi1 。
+- wei2 shi4 ru2 sheng1 zhi1 ze2 shu4 ， bai3 nian2 qiong2 da2 shou3 shu1 shi1 。
 
 ## 注释
 

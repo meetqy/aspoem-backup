@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 二浙枇杷得地榮，移來丹宇倍生成。
-- 天心賦與偏繁盛，珍物由來出太平。
+- 對御分排紫錦班，內家新様挽雲鬟。
+- 中官宣試霓裳舞，紅袖翩翩飛燕般。
 
 ## 拼音
 
-- er4 zhe4 pi2 pa0 de2 di4 rong2 ， yi2 lai2 dan1 yu3 bei4 sheng1 cheng2 。
-- tian1 xin1 fu4 yu3 pian1 fan2 sheng4 ， zhen1 wu4 you2 lai2 chu1 tai4 ping2 。
+- dui4 yu4 fen1 pai2 zi3 jin3 ban1 ， nei4 jia1 xin1 yang4 wan3 yun2 huan2 。
+- zhong1 guan1 xuan1 shi4 ni2 chang2 wu3 ， hong2 xiu4 pian1 pian1 fei1 yan4 ban1 。
 
 ## 注释
 

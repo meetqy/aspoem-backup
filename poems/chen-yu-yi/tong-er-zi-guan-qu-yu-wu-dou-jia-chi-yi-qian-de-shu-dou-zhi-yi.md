@@ -6,9 +6,9 @@ titleSlug: tong-er-zi-guan-qu-yu-wu-dou-jia-chi-yi-qian-de-shu-dou-zhi-yi
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,29 +6,29 @@ titleSlug: feng-nian-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風蕭蕭秋日薄，築場穫稻方竭作。
-- 志士雖懷晚歲悲，農家自足豐年樂。
-- 撥醅白酒喚鄰曲，啄黍黄雞初束縳。
-- 長魚出網健欲飛，新兔臥盤肥可𦞦。
-- 躬耕辛苦四十年，一飽豈非天所酢。
-- 書生識字亦聊爾，莫作揚雄老投閣。
+- 南村北村春雨晴，東家西家地碓聲。
+- 稻陂正滿綠針密，麥隴無際黄雲平。
+- 前年穀與金同價，家家涕泣伐桑柘。
+- 豈知還復有今年，酒肉如山賽春社。
+- 吏不到門人晝眠，老稚安樂如登仙。
+- 縣前歸來傳好語，黄紙續放身丁錢。
 
 ## 拼音
 
-- qiu1 feng1 xiao1 xiao1 qiu1 ri4 bao2 ， zhu4 chang3 huo4 dao4 fang1 jie2 zuo4 。
-- zhi4 shi4 sui1 huai2 wan3 sui4 bei1 ， nong2 jia1 zi4 zu2 feng1 nian2 le4 。
-- bo1 pei1 bai2 jiu3 huan4 lin2 qu3 ， zhuo2 shu3 huang2 ji1 chu1 shu4 zhuan4 。
-- chang2 yu2 chu1 wang3 jian4 yu4 fei1 ， xin1 tu4 wo4 pan2 fei2 ke3 𦞦。
-- gong1 geng1 xin1 ku3 si4 shi2 nian2 ， yi4 bao3 qi3 fei1 tian1 suo3 cu4 。
-- shu1 sheng1 shi2 zi4 yi4 liao2 er3 ， mo4 zuo4 yang2 xiong2 lao3 tou2 ge2 。
+- nan2 cun1 bei3 cun1 chun1 yu3 qing2 ， dong1 jia1 xi1 jia1 di4 dui4 sheng1 。
+- dao4 bei1 zheng4 man3 lü4 zhen1 mi4 ， mai4 long3 wu2 ji4 huang2 yun2 ping2 。
+- qian2 nian2 gu3 yu3 jin1 tong2 jia4 ， jia1 jia1 ti4 qi4 fa2 sang1 zhe4 。
+- qi3 zhi1 huan2 fu4 you3 jin1 nian2 ， jiu3 rou4 ru2 shan1 sai4 chun1 she4 。
+- li4 bu2 dao4 men2 ren2 zhou4 mian2 ， lao3 zhi4 an1 le4 ru2 deng1 xian1 。
+- xian4 qian2 gui1 lai2 chuan2 hao3 yu3 ， huang2 zhi3 xu4 fang4 shen1 ding1 qian2 。
 
 ## 注释
 

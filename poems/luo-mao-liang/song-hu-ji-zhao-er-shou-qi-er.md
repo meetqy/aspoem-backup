@@ -6,10 +6,10 @@ titleSlug: song-hu-ji-zhao-er-shou-qi-er
 author: 羅茂良
 authorPinyin: luo2 mao4 liang2
 authorSlug: luo-mao-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

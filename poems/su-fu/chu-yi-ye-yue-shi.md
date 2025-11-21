@@ -6,10 +6,10 @@ titleSlug: chu-yi-ye-yue-shi
 author: 蘇福
 authorPinyin: su1 fu2
 authorSlug: su-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

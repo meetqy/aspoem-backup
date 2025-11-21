@@ -6,10 +6,10 @@ titleSlug: wan-li-zhong-tong
 author: 古田里人
 authorPinyin: gu3 tian2 li3 ren2
 authorSlug: gu-tian-li-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

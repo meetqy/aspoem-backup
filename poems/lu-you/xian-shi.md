@@ -6,25 +6,25 @@ titleSlug: xian-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝讀易一卦，時鈔史數行。
-- 花開聊把酒，睡起獨焚香。
-- 寂寂市聲遠，悠悠村日長。
-- 吾衰尚何恨，兒女解耕桑。
+- 閉門萬事不相關，飽受人間一味閑。
+- 琴薦潤生諳雨至，衣篝香冷嘆春殘。
+- 早曾寄傲風烟表，晚尚鍾情水石間。
+- 小市酒旗能喚客，試尋鄰曲共開顔。
 
 ## 拼音
 
-- chao2 du2 yi4 yi2 gua4 ， shi2 chao1 shi3 shu4 xing2 。
-- hua1 kai1 liao2 ba3 jiu3 ， shui4 qi3 du2 fen2 xiang1 。
-- ji4 ji4 shi4 sheng1 yuan3 ， you1 you1 cun1 ri4 chang2 。
-- wu2 shuai1 shang4 he2 hen4 ， er2 nü3 jie3 geng1 sang1 。
+- bi4 men2 wan4 shi4 bu4 xiang1 guan1 ， bao3 shou4 ren2 jian4 yi2 wei4 xian2 。
+- qin2 jian4 run4 sheng1 an1 yu3 zhi4 ， yi1 gou1 xiang1 leng3 tan4 chun1 can2 。
+- zao3 ceng2 ji4 ao4 feng1 yan1 biao3 ， wan3 shang4 zhong1 qing2 shui3 shi2 jian4 。
+- xiao3 shi4 jiu3 qi2 neng2 huan4 ke4 ， shi4 xun2 lin2 qu3 gong4 kai1 yan2 。
 
 ## 注释
 

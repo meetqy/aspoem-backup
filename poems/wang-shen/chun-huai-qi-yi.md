@@ -1,38 +1,38 @@
 ---
 id: wang-shen-chun-huai-qi-yi
-title: 春懷  其一
-titlePinyin: chun1 huai2     qi2 yi1
+title: 春懷  其一○
+titlePinyin: chun1 huai2     qi2 yi1 ○
 titleSlug: chun-huai-qi-yi
 author: 汪莘
 authorPinyin: wang1 shen1
 authorSlug: wang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太皡涵帝德，勾芒播皇仁。
-- 群龍服蒼駕，靈雨冒南岑。
-- 淵魚自暖躍，谷鳥相和吟。
-- 桃花既夾道，麥苗亦成林。
-- 竹籬带夕陽，茅舍含清陰。
-- 白蘋空騁望，青楓第傷心。
-- 况值聖明代，聊以陶吾真。
-- 寄言同懷子，芳醪期共斟。
+- 曳杖登春臺，萬物含光輝。
+- 天地豈不大，孤雲獨無依。
+- 我友在東海，古屋弦湘妃。
+- 昔醉芙蓉浦，今掩桃李扉。
+- 不見已三年，何由會王畿。
+- 贈子青玉案，報我紫金鞿。
+- 日暗牛羊下，月明烏鵲飛。
+- 有生共如此，擾擾徒增欷。
 
 ## 拼音
 
-- tai4 hao4 han2 di4 de2 ， gou1 mang2 bo1 huang2 ren2 。
-- qun2 long2 fu2 cang1 jia4 ， ling2 yu3 mao4 nan2 cen2 。
-- yuan1 yu2 zi4 nuan3 yue4 ， gu3 niao3 xiang1 he2 yin2 。
-- tao2 hua1 ji4 jia1 dao4 ， mai4 miao2 yi4 cheng2 lin2 。
-- zhu2 li2 dai4 xi1 yang2 ， mao2 she4 han2 qing1 yin1 。
-- bai2 pin2 kong1 cheng3 wang4 ， qing1 feng1 di4 shang1 xin1 。
-- kuang4 zhi2 sheng4 ming2 dai4 ， liao2 yi3 tao2 wu2 zhen1 。
-- ji4 yan2 tong2 huai2 zi3 ， fang1 lao2 qi1 gong4 zhen1 。
+- ye4 zhang4 deng1 chun1 tai2 ， wan4 wu4 han2 guang1 hui1 。
+- tian1 di4 qi3 bu2 da4 ， gu1 yun2 du2 wu2 yi1 。
+- wo3 you3 zai4 dong1 hai3 ， gu3 wu1 xian2 xiang1 fei1 。
+- xi1 zui4 fu2 rong2 pu3 ， jin1 yan3 tao2 li3 fei1 。
+- bu2 jian4 yi3 san1 nian2 ， he2 you2 hui4 wang2 ji1 。
+- zeng4 zi3 qing1 yu4 an4 ， bao4 wo3 zi3 jin1 ji1 。
+- ri4 an4 niu2 yang2 xia4 ， yue4 ming2 wu1 que4 fei1 。
+- you3 sheng1 gong4 ru2 ci3 ， rao3 rao3 tu2 zeng1 xi1 。
 
 ## 注释
 

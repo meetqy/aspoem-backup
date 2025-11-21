@@ -1,28 +1,28 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-yi
-title: 偈頌一百六十九首  其一一
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 yi1
+title: 偈頌一百六十九首  其一一○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 yi1 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-yi
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 伶利衲僧，動無思算。
-- 合水和泥，田頭地畔。
-- 搆得完全，只得一半，窮坑難滿。
+- 伶俐衲僧，討甚巴鼻。
+- 著脚處寸草不生，著眼時佛祖掃地。
+- 且道以何爲據，不愛南山愛鱉鼻。
 
 ## 拼音
 
-- ling2 li4 na4 seng1 ， dong4 wu2 si1 suan4 。
-- he2 shui3 he2 ni2 ， tian2 tou2 di4 pan4 。
-- gou4 de2 wan2 quan2 ， zhi3 de2 yi2 ban4 ， qiong2 keng1 nan2 man3 。
+- ling2 li4 na4 seng1 ， tao3 shen4 ba1 bi2 。
+- zhu4 jiao3 chu3 cun4 cao3 bu4 sheng1 ， zhu4 yan3 shi2 fo2 zu3 sao3 di4 。
+- qie3 dao4 yi3 he2 wei2 ju4 ， bu2 ai4 nan2 shan1 ai4 bie1 bi2 。
 
 ## 注释
 

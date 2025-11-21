@@ -1,24 +1,24 @@
 ---
 id: wang-sui-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 王隨
 authorPinyin: wang2 sui2
 authorSlug: wang-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客館月斜寒夢斷，仙舟風穩去帆飛。
+- 漢月夜如晝，松風凉似秋。
 
 ## 拼音
 
-- ke4 guan3 yue4 xie2 han2 meng4 duan4 ， xian1 zhou1 feng1 wen3 qu4 fan1 fei1 。
+- han4 yue4 ye4 ru2 zhou4 ， song1 feng1 liang2 si4 qiu1 。
 
 ## 注释
 

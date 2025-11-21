@@ -6,10 +6,10 @@ titleSlug: he-deng-shen-si-qiu-ri-tong-wen-guan-shi-san-shou-qi-san
 author: 李公麟
 authorPinyin: li3 gong1 lin2
 authorSlug: li-gong-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

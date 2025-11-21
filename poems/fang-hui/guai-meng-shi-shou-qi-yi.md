@@ -1,30 +1,30 @@
 ---
 id: fang-hui-guai-meng-shi-shou-qi-yi
-title: 怪夢十首  其一
-titlePinyin: guai4 meng4 shi2 shou3     qi2 yi1
+title: 怪夢十首  其一○
+titlePinyin: guai4 meng4 shi2 shou3     qi2 yi1 ○
 titleSlug: guai-meng-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 高枕非難就，深杯未易謀。
-- 可須疑噩夢，久已慣窮愁。
-- 老矣何嫌死，歸歟豈願留。
-- 曉梁數聲燕，搔首倚吾樓。
+- 昔日顓朝柄，何人誤廟謀。
+- 漸驚吾輩盡，誰識向來愁。
+- 忠鯁芳香在，姦邪臭穢留。
+- 一時窮富貴，蜃氣結成樓。
 
 ## 拼音
 
-- gao1 zhen3 fei1 nan2 jiu4 ， shen1 bei1 wei4 yi4 mou2 。
-- ke3 xu1 yi2 e4 meng4 ， jiu3 yi3 guan4 qiong2 chou2 。
-- lao3 yi3 he2 xian2 si3 ， gui1 yu2 qi3 yuan4 liu2 。
-- xiao3 liang2 shu4 sheng1 yan4 ， sao1 shou3 yi3 wu2 lou2 。
+- xi1 ri4 zhuan1 chao2 bing3 ， he2 ren2 wu4 miao4 mou2 。
+- jian4 jing1 wu2 bei4 jin4 ， shui2 shi2 xiang4 lai2 chou2 。
+- zhong1 geng3 fang1 xiang1 zai4 ， jian1 xie2 chou4 hui4 liu2 。
+- yi4 shi2 qiong2 fu4 gui4 ， shen4 qi4 jie2 cheng2 lou2 。
 
 ## 注释
 

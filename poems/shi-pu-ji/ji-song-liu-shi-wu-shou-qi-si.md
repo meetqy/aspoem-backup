@@ -1,26 +1,28 @@
 ---
 id: shi-pu-ji-ji-song-liu-shi-wu-shou-qi-si
-title: 偈頌六十五首  其四
-titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 si4
+title: 偈頌六十五首  其四○
+titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 si4 ○
 titleSlug: ji-song-liu-shi-wu-shou-qi-si
 author: 釋普濟
 authorPinyin: shi4 pu3 ji4
 authorSlug: shi-pu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翳盡還明極，家鄉萬八千。
-- 懸崖重撒手，古劍髑髏前。
+- 旱地一聲雷，青天撒白雨。
+- 不是諾佛說底法，不是祖師傳底心，不是衲僧參底句。
+- 日月輪邊氣象高，魚龍穴下蟠根固。
 
 ## 拼音
 
-- yi4 jin4 huan2 ming2 ji2 ， jia1 xiang1 wan4 ba1 qian1 。
-- xuan2 ya2 zhong4 sa1 shou3 ， gu3 jian4 du2 lou2 qian2 。
+- han4 di4 yi4 sheng1 lei2 ， qing1 tian1 sa1 bai2 yu3 。
+- bu2 shi4 nuo4 fo2 shuo1 di3 fa3 ， bu2 shi4 zu3 shi1 chuan2 di3 xin1 ， bu2 shi4 na4 seng1 can1 di3 ju4 。
+- ri4 yue4 lun2 bian1 qi4 xiang4 gao1 ， yu2 long2 xue2 xia4 pan2 gen1 gu4 。
 
 ## 注释
 

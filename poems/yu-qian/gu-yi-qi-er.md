@@ -6,10 +6,10 @@ titleSlug: gu-yi-qi-er
 author: 魚潜
 authorPinyin: yu2 qian2
 authorSlug: yu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

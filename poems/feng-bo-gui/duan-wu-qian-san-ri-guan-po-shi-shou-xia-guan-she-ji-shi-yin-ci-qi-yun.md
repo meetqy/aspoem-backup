@@ -6,10 +6,10 @@ titleSlug: duan-wu-qian-san-ri-guan-po-shi-shou-xia-guan-she-ji-shi-yin-ci-qi-yu
 author: 馮伯規
 authorPinyin: feng2 bo2 gui1
 authorSlug: feng-bo-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

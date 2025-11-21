@@ -6,21 +6,21 @@ titleSlug: hao-shang
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莊生坐濠上，下玩戲魚躍。
-- 魚固不知人，人奚謂魚樂。
+- 惠非蒙叟叟非魚，濠上全知魚樂無。
+- 春水未深魚易樂，要須真樂是江湖。
 
 ## 拼音
 
-- zhuang1 sheng1 zuo4 hao2 shang4 ， xia4 wan2 xi4 yu2 yue4 。
-- yu2 gu4 bu4 zhi1 ren2 ， ren2 xi1 wei4 yu2 le4 。
+- hui4 fei1 meng2 sou3 sou3 fei1 yu2 ， hao2 shang4 quan2 zhi1 yu2 le4 wu2 。
+- chun1 shui3 wei4 shen1 yu2 yi4 le4 ， yao4 xu1 zhen1 le4 shi4 jiang1 hu2 。
 
 ## 注释
 

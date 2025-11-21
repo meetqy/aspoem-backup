@@ -6,25 +6,25 @@ titleSlug: huai-dian-nan-you
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幾許摇鞭興，淮天晚景中。
-- 樹林兼雨黑，草實著霜紅。
-- 膽氣誰憐俠，衣裝自笑戎。
-- 寒威敢相掉，獵獵酒旗風。
+- 幽勝程程擬徧尋，不妨淮楚入搜吟。
+- 蘚莎籬落谿莊靜，松竹樓臺塢寺深。
+- 數抹晚霞憐野笛，一篩寒水羨沙禽。
+- 腰間組綬誰能愛，時得閑遊是此心。
 
 ## 拼音
 
-- ji1 xu1 yao2 bian1 xing1 ， huai2 tian1 wan3 jing3 zhong1 。
-- shu4 lin2 jian1 yu3 hei1 ， cao3 shi2 zhu4 shuang1 hong2 。
-- dan3 qi4 shui2 lian2 xia2 ， yi1 zhuang1 zi4 xiao4 rong2 。
-- han2 wei1 gan3 xiang1 diao4 ， lie4 lie4 jiu3 qi2 feng1 。
+- you1 sheng4 cheng2 cheng2 ni3 bian4 xun2 ， bu4 fang2 huai2 chu3 ru4 sou1 yin2 。
+- xian3 sha1 li2 luo4 xi1 zhuang1 jing4 ， song1 zhu2 lou2 tai2 wu4 si4 shen1 。
+- shu4 mo3 wan3 xia2 lian2 ye3 di2 ， yi4 shai1 han2 shui3 xian4 sha1 qin2 。
+- yao1 jian4 zu3 shou4 shui2 neng2 ai4 ， shi2 de2 xian2 you2 shi4 ci3 xin1 。
 
 ## 注释
 

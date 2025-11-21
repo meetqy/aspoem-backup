@@ -6,10 +6,10 @@ titleSlug: song-zhu-xiang-shi-zhu-wen-zhao-zu-sun-yun-de-liu-bi-yun-xiang-fa
 author: 葉適
 authorPinyin: ye4 shi4
 authorSlug: ye-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

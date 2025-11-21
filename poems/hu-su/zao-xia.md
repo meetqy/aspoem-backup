@@ -9,14 +9,14 @@ authorSlug: hu-su
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 井轄投多思不禁，密垂珠箔晝沈沈。
 - 睡驚燕語頻移枕，病起蛛絲半在琴。
-- 雨徑亂花埋宿艷，月軒脩竹轉凉陰。
+- 雨徑亂花埋宿豔，月軒修竹轉涼陰。
 - 一春酒費知多少，探盡囊中換賦金。
 
 ## 拼音

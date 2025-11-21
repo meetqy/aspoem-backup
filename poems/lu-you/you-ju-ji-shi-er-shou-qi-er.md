@@ -6,25 +6,29 @@ titleSlug: you-ju-ji-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晚日照茅茨，西風吹接䍦。
-- 貧思止酒易，老悔養丹遲。
-- 斸地秋畦藥，焚香夜揲蓍。
-- 呼兒具舟檝，吾欲上湘灕。
+- 書几積流塵，硯池漬淺墨。
+- 老夫自省事，童子豈不力。
+- 人生適可爾，過計亦何得。
+- 胡爲棄梨棗，日夜長荆棘。
+- 洗汝侈汰心，去汝驕吝色。
+- 一菜飽有餘，奚取萬錢食。
 
 ## 拼音
 
-- wan3 ri4 zhao4 mao2 ci2 ， xi1 feng1 chui1 jie1 䍦。
-- pin2 si1 zhi3 jiu3 yi4 ， lao3 hui3 yang3 dan1 chi2 。
-- zhu2 di4 qiu1 qi2 yao4 ， fen2 xiang1 ye4 die2 shi1 。
-- hu1 er2 ju4 zhou1 ji2 ， wu2 yu4 shang4 xiang1 li2 。
+- shu1 ji3 ji1 liu2 chen2 ， yan4 chi2 zi4 qian3 mo4 。
+- lao3 fu1 zi4 xing3 shi4 ， tong2 zi3 qi3 bu2 li4 。
+- ren2 sheng1 shi4 ke3 er3 ， guo4 ji4 yi4 he2 de2 。
+- hu2 wei2 qi4 li2 zao3 ， ri4 ye4 chang2 jing1 ji2 。
+- xi3 ru3 chi3 tai4 xin1 ， qu4 ru3 jiao1 lin4 se4 。
+- yi2 cai4 bao3 you3 yu2 ， xi1 qu3 wan4 qian2 shi2 。
 
 ## 注释
 

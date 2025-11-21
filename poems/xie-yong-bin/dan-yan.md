@@ -6,10 +6,10 @@ titleSlug: dan-yan
 author: 謝用賓
 authorPinyin: xie4 yong4 bin1
 authorSlug: xie-yong-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

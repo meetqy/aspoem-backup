@@ -6,10 +6,10 @@ titleSlug: ti-xian-ren-dong-bing-xie-cao-tang-fang-gong-suo-zeng-shi-xia-qi-er
 author: 葛慶龍
 authorPinyin: ge3 qing4 long2
 authorSlug: ge-qing-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

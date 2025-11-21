@@ -6,10 +6,10 @@ titleSlug: ying-chuan-jiu-xian
 author: 陸律
 authorPinyin: lu4 lü4
 authorSlug: lu-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

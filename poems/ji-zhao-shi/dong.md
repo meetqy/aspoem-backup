@@ -6,10 +6,10 @@ titleSlug: dong
 author: 季昭史
 authorPinyin: ji4 zhao1 shi3
 authorSlug: ji-zhao-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

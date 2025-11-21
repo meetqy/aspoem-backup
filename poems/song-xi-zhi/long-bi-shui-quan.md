@@ -6,10 +6,10 @@ titleSlug: long-bi-shui-quan
 author: 宋習之
 authorPinyin: song4 xi2 zhi1
 authorSlug: song-xi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

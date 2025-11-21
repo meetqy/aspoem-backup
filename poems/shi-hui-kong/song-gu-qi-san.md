@@ -6,21 +6,21 @@ titleSlug: song-gu-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 楚王城畔水東流，淮海維揚是九州。
-- 蘆管一聲春夢破，斜陽還在樹梢頭。
+- 廬陵米價忽相酬，巨宋山河四百州。
+- 青草渡頭韓幹馬，綠楊陰裏戴嵩牛。
 
 ## 拼音
 
-- chu3 wang2 cheng2 pan4 shui3 dong1 liu2 ， huai2 hai3 wei2 yang2 shi4 jiu3 zhou1 。
-- lu2 guan3 yi4 sheng1 chun1 meng4 po4 ， xie2 yang2 huan2 zai4 shu4 shao1 tou2 。
+- lu2 ling2 mi3 jia4 hu1 xiang1 chou2 ， ju4 song4 shan1 he2 si4 bai3 zhou1 。
+- qing1 cao3 du4 tou2 han2 gan4 ma3 ， lü4 yang2 yin1 li3 dai4 song1 niu2 。
 
 ## 注释
 

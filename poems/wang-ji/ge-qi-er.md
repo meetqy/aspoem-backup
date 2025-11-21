@@ -6,10 +6,10 @@ titleSlug: ge-qi-er
 author: 王寂
 authorPinyin: wang2 ji4
 authorSlug: wang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: ni-bai-le-tian-shi
 author: 晁逈
 authorPinyin: chao2 jiong3
 authorSlug: chao-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 權要亦有苦，苦在當憂責。
-- 閑慢亦有樂，樂在無縈迫。
+- 多圖果何益，只自勞奔競。
+- 不如收身心，凝然成靜定。
 
 ## 拼音
 
-- quan2 yao4 yi4 you3 ku3 ， ku3 zai4 dang1 you1 ze2 。
-- xian2 man4 yi4 you3 le4 ， le4 zai4 wu2 ying2 po4 。
+- duo1 tu2 guo3 he2 yi4 ， zhi1 zi4 lao2 ben1 jing4 。
+- bu4 ru2 shou1 shen1 xin1 ， ning2 ran2 cheng2 jing4 ding4 。
 
 ## 注释
 

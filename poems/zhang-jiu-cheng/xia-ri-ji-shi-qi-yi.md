@@ -6,21 +6,21 @@ titleSlug: xia-ri-ji-shi-qi-yi
 author: 張九成
 authorPinyin: zhang1 jiu3 cheng2
 authorSlug: zhang-jiu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 寂寂柴門可設羅，唯餘柳色許相過。
-- 重簾半卷鳥聲樂，閒看爐烟篆髻螺。
+- 陰陰庭院靜無聲，只有黄鸝繞樹鳴。
+- 午睡覺來何所見，玉爐風細碧烟橫。
 
 ## 拼音
 
-- ji4 ji4 chai2 men2 ke3 she4 luo2 ， wei2 yu2 liu3 se4 xu1 xiang1 guo4 。
-- zhong4 lian2 ban4 juan4 niao3 sheng1 le4 ， xian2 kan4 lu2 yan1 zhuan4 ji4 luo2 。
+- yin1 yin1 ting2 yuan4 jing4 wu2 sheng1 ， zhi3 you3 huang2 li2 rao4 shu4 ming2 。
+- wu3 shui4 jue2 lai2 he2 suo3 jian4 ， yu4 lu2 feng1 xi4 bi4 yan1 heng2 。
 
 ## 注释
 

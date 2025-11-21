@@ -6,10 +6,10 @@ titleSlug: ji-jin-shi-xiong-tui-zhai-qi-yi
 author: 李謹思
 authorPinyin: li3 jin3 si1
 authorSlug: li-jin-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

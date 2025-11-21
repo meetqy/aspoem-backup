@@ -1,30 +1,30 @@
 ---
 id: cao-xun-shan-ju-za-shi-jiu-shi-shou-qi-san
-title: 山居雜詩九十首  其三
-titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 san1
+title: 山居雜詩九十首  其三○
+titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 san1 ○
 titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孟夏物物茂，瓜瓠先置架。
-- 引苗上扶疏，鬚蔓競纏挂。
-- 白花亦已出，青實旋造化。
-- 會喜園枯時，匕筯不增價。
+- 西山隠道室，山光鎖葱蒨。
+- 松竹意可揖，芳潤欲入饌。
+- 扳携一二友，香火共昏旦。
+- 天台坐忘身，笑領吾所眷。
 
 ## 拼音
 
-- meng4 xia4 wu4 wu4 mao4 ， gua1 hu4 xian1 zhi4 jia4 。
-- yin3 miao2 shang4 fu2 shu1 ， xu1 man4 jing4 chan2 gua4 。
-- bai2 hua1 yi4 yi3 chu1 ， qing1 shi2 xuan2 zao4 hua4 。
-- hui4 xi3 yuan2 ku1 shi2 ， bi3 zhu4 bu4 zeng1 jia4 。
+- xi1 shan1 yin3 dao4 shi4 ， shan1 guang1 suo3 cong1 qian4 。
+- song1 zhu2 yi4 ke3 yi1 ， fang1 run4 yu4 ru4 zhuan4 。
+- ban1 xie2 yi1 er4 you3 ， xiang1 huo3 gong4 hun1 dan4 。
+- tian1 tai2 zuo4 wang4 shen1 ， xiao4 ling3 wu2 suo3 juan4 。
 
 ## 注释
 

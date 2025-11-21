@@ -9,18 +9,18 @@ authorSlug: wei-zhuang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 和煙和露雪離披，金蘂紅鬚尚滿枝。
-- 十日笙歌一宵夢，苧蘿因雨失西施。
+- 江頭沈醉泥斜暉，却向花前慟哭歸。
+- 惆悵一年春又去，碧雲芳草兩依依。
 
 ## 拼音
 
-- he2 yan1 he2 lu4 xue3 li2 pi1 ， jin1 rui3 hong2 xu1 shang4 man3 zhi1 。
-- shi2 ri4 sheng1 ge1 yi4 xiao1 meng4 ， zhu4 luo2 yin1 yu3 shi1 xi1 shi1 。
+- jiang1 tou2 shen3 zui4 ni2 xie2 hui1 ， que4 xiang4 hua1 qian2 tong4 ku1 gui1 。
+- chou2 chang4 yi4 nian2 chun1 you4 qu4 ， bi4 yun2 fang1 cao3 liang3 yi1 yi1 。
 
 ## 注释
 

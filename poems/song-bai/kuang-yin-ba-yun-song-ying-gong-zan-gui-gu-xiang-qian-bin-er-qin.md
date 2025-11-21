@@ -6,9 +6,9 @@ titleSlug: kuang-yin-ba-yun-song-ying-gong-zan-gui-gu-xiang-qian-bin-er-qin
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

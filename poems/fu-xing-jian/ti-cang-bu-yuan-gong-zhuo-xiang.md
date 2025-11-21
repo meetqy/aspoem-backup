@@ -6,10 +6,10 @@ titleSlug: ti-cang-bu-yuan-gong-zhuo-xiang
 author: 傅行簡
 authorPinyin: fu4 xing2 jian3
 authorSlug: fu-xing-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wu-xia-tong-nian-hui-shi
 author: 陳德明
 authorPinyin: chen2 de2 ming2
 authorSlug: chen-de-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: he-ruan-cui-zheng-ming-jiu-xian
 author: 黄朝散
 authorPinyin: huang2 chao2 san4
 authorSlug: huang-chao-san
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

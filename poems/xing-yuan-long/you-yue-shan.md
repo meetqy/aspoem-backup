@@ -6,10 +6,10 @@ titleSlug: you-yue-shan
 author: 幸元龍
 authorPinyin: xing4 yuan2 long2
 authorSlug: xing-yuan-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

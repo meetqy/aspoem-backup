@@ -6,10 +6,10 @@ titleSlug: zi-yi-shi-lang-yu-xie-jia-fan-hu-bu-ji-jian-xun-xiu-zhi-yue-zai-ci-yu
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

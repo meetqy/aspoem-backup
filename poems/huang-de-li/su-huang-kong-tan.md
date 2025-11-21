@@ -6,10 +6,10 @@ titleSlug: su-huang-kong-tan
 author: 黄得禮
 authorPinyin: huang2 de2 li3
 authorSlug: huang-de-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

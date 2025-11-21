@@ -6,9 +6,9 @@ titleSlug: long-zi-ci-nong-ren-xiang-shen
 author: 王士元
 authorPinyin: wang2 shi4 yuan2
 authorSlug: wang-shi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

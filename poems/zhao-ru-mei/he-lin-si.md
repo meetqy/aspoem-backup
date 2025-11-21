@@ -6,10 +6,10 @@ titleSlug: he-lin-si
 author: 趙汝楳
 authorPinyin: zhao4 ru3 mei2
 authorSlug: zhao-ru-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

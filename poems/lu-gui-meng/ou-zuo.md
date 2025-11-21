@@ -9,18 +9,18 @@ authorSlug: lu-gui-meng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 雙眉初出繭，兩鬢正藏鴉。
-- 自有王昌在，何勞近宋家。
+- 酒信巧爲繰病緒，花音長作嫁愁媒。
+- 也知愁病堪回避，爭奈流鶯喚起來。
 
 ## 拼音
 
-- shuang1 mei2 chu1 chu1 jian3 ， liang3 bin4 zheng4 cang2 ya1 。
-- zi4 you3 wang2 chang1 zai4 ， he2 lao2 jin4 song4 jia1 。
+- jiu3 xin4 qiao3 wei2 qiao1 bing4 xu4 ， hua1 yin1 chang2 zuo4 jia4 chou2 mei2 。
+- ye3 zhi1 chou2 bing4 kan1 hui2 bi4 ， zheng1 nai4 liu2 ying1 huan4 qi3 lai2 。
 
 ## 注释
 

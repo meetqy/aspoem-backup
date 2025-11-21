@@ -6,10 +6,10 @@ titleSlug: zai-yan-jing-zuo
 author: 宋恭宗
 authorPinyin: song4 gong1 zong1
 authorSlug: song-gong-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

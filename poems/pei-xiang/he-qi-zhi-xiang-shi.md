@@ -6,10 +6,10 @@ titleSlug: he-qi-zhi-xiang-shi
 author: 裴湘
 authorPinyin: pei2 xiang1
 authorSlug: pei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

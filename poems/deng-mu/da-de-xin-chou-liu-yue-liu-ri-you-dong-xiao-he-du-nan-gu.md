@@ -6,10 +6,10 @@ titleSlug: da-de-xin-chou-liu-yue-liu-ri-you-dong-xiao-he-du-nan-gu
 author: 鄧牧
 authorPinyin: deng4 mu4
 authorSlug: deng-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

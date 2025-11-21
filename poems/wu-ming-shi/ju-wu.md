@@ -9,16 +9,16 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 流水何年盡，青山卷幾□。
+- 侵雲蹀征騎，帶月倚雕弓。
 
 ## 拼音
 
-- liu2 shui3 he2 nian2 jin4 ， qing1 shan1 juan4 ji1 □。
+- qin1 yun2 die2 zheng1 qi2 ， dai4 yue4 yi3 diao1 gong1 。
 
 ## 注释
 

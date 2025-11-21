@@ -9,26 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 此箇一羣賊，生生欺主人。
-- 即今識汝也，不共汝相親。
-- 你若不伏我，我則處處說。
-- 教人總識汝，遣汝行路絕。
-- 你若能伏我，我亦不分別。
-- 共汝同一身，永離於生滅。
+- 四性同一舍，三身同一室。
+- 一切惡知識，總見彌陀佛。
 
 ## 拼音
 
-- ci3 ge4 yi4 qun2 zei2 ， sheng1 sheng1 qi1 zhu3 ren2 。
-- ji2 jin1 shi2 ru3 ye3 ， bu2 gong4 ru3 xiang1 qin1 。
-- ni3 ruo4 bu4 fu2 wo3 ， wo3 ze2 chu3 chu3 shuo1 。
-- jiao1 ren2 zong3 shi2 ru3 ， qian3 ru3 xing2 lu4 jue2 。
-- ni3 ruo4 neng2 fu2 wo3 ， wo3 yi4 bu4 fen1 bie2 。
-- gong4 ru3 tong2 yi4 shen1 ， yong3 li2 wu1 sheng1 mie4 。
+- si4 xing4 tong2 yi2 she4 ， san1 shen1 tong2 yi2 shi4 。
+- yi2 qie4 e4 zhi1 shi2 ， zong3 jian4 mi2 tuo2 fo2 。
 
 ## 注释
 

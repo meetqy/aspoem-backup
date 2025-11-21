@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-qiu-ye-qi-er
-title: 秋夜・其二
-titlePinyin: qiu1 ye4・qi2 er4
+title: 秋夜  其二
+titlePinyin: qiu1 ye4     qi2 er4
 titleSlug: qiu-ye-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

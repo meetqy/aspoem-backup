@@ -6,21 +6,21 @@ titleSlug: xi-hu-ye-jing
 author: 曾由基
 authorPinyin: ceng2 you2 ji1
 authorSlug: ceng-you-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閒窗放入四山青，古篆無烟氣自清。
-- 風不鳴條花著露，一湖春月萬蛙聲。
+- 處處芙蕖處處堂，閑行何地不清香。
+- 歸舟又趁晚凉急，十里湖光蘸夕陽。
 
 ## 拼音
 
-- xian2 chuang1 fang4 ru4 si4 shan1 qing1 ， gu3 zhuan4 wu2 yan1 qi4 zi4 qing1 。
-- feng1 bu4 ming2 tiao2 hua1 zhu4 lu4 ， yi4 hu2 chun1 yue4 wan4 wa1 sheng1 。
+- chu3 chu3 fu2 qu2 chu3 chu3 tang2 ， xian2 xing2 he2 di4 bu4 qing1 xiang1 。
+- gui1 zhou1 you4 chen4 wan3 liang2 ji2 ， shi2 li3 hu2 guang1 zhan4 xi1 yang2 。
 
 ## 注释
 

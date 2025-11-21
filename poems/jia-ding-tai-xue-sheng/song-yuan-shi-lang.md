@@ -6,10 +6,10 @@ titleSlug: song-yuan-shi-lang
 author: 嘉定太學生
 authorPinyin: jia1 ding4 tai4 xue2 sheng1
 authorSlug: jia-ding-tai-xue-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

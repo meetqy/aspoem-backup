@@ -6,10 +6,10 @@ titleSlug: you-ceng-yan
 author: 練潜夫
 authorPinyin: lian4 qian2 fu1
 authorSlug: lian-qian-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

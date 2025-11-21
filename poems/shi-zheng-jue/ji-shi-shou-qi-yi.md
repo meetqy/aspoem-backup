@@ -1,26 +1,30 @@
 ---
 id: shi-zheng-jue-ji-shi-shou-qi-yi
-title: 偈十首  其一
-titlePinyin: ji4 shi2 shou3     qi2 yi1
+title: 偈十首  其一○
+titlePinyin: ji4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-shi-shou-qi-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 即此見聞非見聞，更無聲色可呈君。
-- 箇中若了全無事，體用何妨分不分。
+- 衲僧巴鼻，圓明絕纇。
+- 直須推倒，却要扶起。
+- 玉馬飲乾明月泉，泥牛耕破玻璃地。
+- 披毛戴角異中來，天上人間能幾幾。
 
 ## 拼音
 
-- ji2 ci3 jian4 wen2 fei1 jian4 wen2 ， geng4 wu2 sheng1 se4 ke3 cheng2 jun1 。
-- ge4 zhong1 ruo4 le0 quan2 wu2 shi4 ， ti3 yong4 he2 fang2 fen1 bu4 fen1 。
+- na4 seng1 ba1 bi2 ， yuan2 ming2 jue2 lei4 。
+- zhi2 xu1 tui1 dao3 ， que4 yao4 fu2 qi3 。
+- yu4 ma3 yin3 qian2 ming2 yue4 quan2 ， ni2 niu2 geng1 po4 bo1 li0 di4 。
+- pi1 mao2 dai4 jiao3 yi4 zhong1 lai2 ， tian1 shang4 ren2 jian4 neng2 ji1 ji1 。
 
 ## 注释
 

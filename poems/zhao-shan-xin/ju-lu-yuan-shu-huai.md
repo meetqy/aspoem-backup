@@ -6,10 +6,10 @@ titleSlug: ju-lu-yuan-shu-huai
 author: 趙善信
 authorPinyin: zhao4 shan4 xin4
 authorSlug: zhao-shan-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

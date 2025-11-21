@@ -1,26 +1,26 @@
 ---
 id: zhu-chang-wen-hua-ting-wu-jiang-dao-zhong-ou-zuo-shi-jue-qi-yi
-title: 華亭吳江道中偶作十絕  其一
-titlePinyin: hua2 ting2 wu2 jiang1 dao4 zhong1 ou3 zuo4 shi2 jue2     qi2 yi1
+title: 華亭吳江道中偶作十絕  其一○
+titlePinyin: hua2 ting2 wu2 jiang1 dao4 zhong1 ou3 zuo4 shi2 jue2     qi2 yi1 ○
 titleSlug: hua-ting-wu-jiang-dao-zhong-ou-zuo-shi-jue-qi-yi
 author: 朱長文
 authorPinyin: zhu1 chang2 wen2
 authorSlug: zhu-chang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人間出鶴只雲間，相合仙經得亦難。
-- 塵外應多隨羽客，未教流俗等閑看。
+- 獨當家責性難堪，五女同孤已嫁三。
+- 更待人間了塵事，別尋雲外結茅菴。
 
 ## 拼音
 
-- ren2 jian4 chu1 he4 zhi1 yun2 jian4 ， xiang1 he2 xian1 jing1 de2 yi4 nan2 。
-- chen2 wai4 ying1 duo1 sui2 yu3 ke4 ， wei4 jiao4 liu2 su2 deng3 xian2 kan4 。
+- du2 dang1 jia1 ze2 xing4 nan2 kan1 ， wu3 nü3 tong2 gu1 yi3 jia4 san1 。
+- geng4 dai4 ren2 jian4 le0 chen2 shi4 ， bie2 xun2 yun2 wai4 jie2 mao2 an1 。
 
 ## 注释
 

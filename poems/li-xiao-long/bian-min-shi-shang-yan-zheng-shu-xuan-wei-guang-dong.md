@@ -6,10 +6,10 @@ titleSlug: bian-min-shi-shang-yan-zheng-shu-xuan-wei-guang-dong
 author: 李肖龍
 authorPinyin: li3 xiao4 long2
 authorSlug: li-xiao-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

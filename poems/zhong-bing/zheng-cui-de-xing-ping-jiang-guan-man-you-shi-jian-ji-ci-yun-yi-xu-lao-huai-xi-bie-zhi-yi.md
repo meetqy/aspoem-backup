@@ -6,10 +6,10 @@ titleSlug: zheng-cui-de-xing-ping-jiang-guan-man-you-shi-jian-ji-ci-yun-yi-xu-la
 author: 仲并
 authorPinyin: zhong4 bing4
 authorSlug: zhong-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

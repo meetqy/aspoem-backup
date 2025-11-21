@@ -9,28 +9,20 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 十方同一等，此是真如寺。
-- 裏有無量壽，本來無名字。
-- 凡夫不入理，心緣世上事。
-- 乞錢買瓦木，蓋他虛空地。
-- 却被六賊驅，背却真如智。
-- 終日受艱辛，妄想圖名利。
-- 如此學道人，累劫終不至。
+- 無事被他駡，佯佯耳不聞。
+- 舌亦不須動，心亦不須瞋。
+- 關津無障礙，即是出纏人。
 
 ## 拼音
 
-- shi2 fang1 tong2 yi1 deng3 ， ci3 shi4 zhen1 ru2 si4 。
-- li3 you3 wu2 liang2 shou4 ， ben3 lai2 wu2 ming2 zi4 。
-- fan2 fu1 bu2 ru4 li3 ， xin1 yuan2 shi4 shang4 shi4 。
-- qi3 qian2 mai3 wa3 mu4 ， gai4 ta1 xu1 kong4 di4 。
-- que4 bei4 liu4 zei2 qu1 ， bei4 que4 zhen1 ru2 zhi4 。
-- zhong1 ri4 shou4 jian1 xin1 ， wang4 xiang3 tu2 ming2 li4 。
-- ru2 ci3 xue2 dao4 ren2 ， lei4 jie2 zhong1 bu2 zhi4 。
+- wu2 shi4 bei4 ta1 ma4 ， yang2 yang2 er3 bu4 wen2 。
+- she2 yi4 bu4 xu1 dong4 ， xin1 yi4 bu4 xu1 chen1 。
+- guan1 jin1 wu2 zhang4 ai4 ， ji2 shi4 chu1 chan2 ren2 。
 
 ## 注释
 

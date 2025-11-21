@@ -6,10 +6,10 @@ titleSlug: chong-jian-yang-hou-ci-he-wang-yuan-shu-ju
 author: 賈黯
 authorPinyin: jia3 an4
 authorSlug: jia-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

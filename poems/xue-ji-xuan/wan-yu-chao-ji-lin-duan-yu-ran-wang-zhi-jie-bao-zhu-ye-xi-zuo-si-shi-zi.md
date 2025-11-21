@@ -6,10 +6,10 @@ titleSlug: wan-yu-chao-ji-lin-duan-yu-ran-wang-zhi-jie-bao-zhu-ye-xi-zuo-si-shi-
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

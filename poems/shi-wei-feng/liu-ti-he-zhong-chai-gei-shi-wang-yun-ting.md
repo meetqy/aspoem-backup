@@ -6,10 +6,10 @@ titleSlug: liu-ti-he-zhong-chai-gei-shi-wang-yun-ting
 author: 釋惟鳳
 authorPinyin: shi4 wei2 feng4
 authorSlug: shi-wei-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

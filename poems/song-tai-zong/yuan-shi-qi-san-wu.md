@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-san-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 紫陌紅塵裏，貪名利好爭。
-- 世情皆擾攘，大道甚縱橫。
-- 弦直終無曲，心邪自不平。
-- 若能如遂意，復學法先生。
+- 患脚法師不解走，少年心盡愛花柳。
+- 爭知道味却無言，時得茶香全勝酒。
 
 ## 拼音
 
-- zi3 mo4 hong2 chen2 li3 ， tan1 ming2 li4 hao3 zheng1 。
-- shi4 qing2 jie1 rao3 rang3 ， da4 dao4 shen4 zong4 heng2 。
-- xian2 zhi2 zhong1 wu2 qu3 ， xin1 xie2 zi4 bu4 ping2 。
-- ruo4 neng2 ru2 sui4 yi4 ， fu4 xue2 fa3 xian1 sheng0 。
+- huan4 jiao3 fa3 shi1 bu4 jie3 zou3 ， shao4 nian2 xin1 jin4 ai4 hua1 liu3 。
+- zheng1 zhi1 dao4 wei4 que4 wu2 yan2 ， shi2 de2 cha2 xiang1 quan2 sheng4 jiu3 。
 
 ## 注释
 

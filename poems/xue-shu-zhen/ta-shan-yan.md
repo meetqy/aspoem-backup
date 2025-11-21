@@ -6,10 +6,10 @@ titleSlug: ta-shan-yan
 author: 薛叔振
 authorPinyin: xue1 shu1 zhen4
 authorSlug: xue-shu-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

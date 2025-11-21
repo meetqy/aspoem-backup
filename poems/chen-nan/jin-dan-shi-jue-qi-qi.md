@@ -1,26 +1,26 @@
 ---
 id: chen-nan-jin-dan-shi-jue-qi-qi
-title: 金丹詩訣  其七
-titlePinyin: jin1 dan1 shi1 jue2     qi2 qi1
+title: 金丹詩訣  其七○
+titlePinyin: jin1 dan1 shi1 jue2     qi2 qi1 ○
 titleSlug: jin-dan-shi-jue-qi-qi
 author: 陳楠
 authorPinyin: chen2 nan2
 authorSlug: chen-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鍊成玉液玉神丹，擒制龜蛇頃刻間。
-- 已是中成消息處，玉爐養火莫教寒。
+- 男兒懷孕是胎仙，只爲蟾光夜夜圓。
+- 奪得天機真造化，身中自有玉清天。
 
 ## 拼音
 
-- lian4 cheng2 yu4 ye4 yu4 shen2 dan1 ， qin2 zhi4 gui1 she2 qing3 ke4 jian4 。
-- yi3 shi4 zhong1 cheng2 xiao1 xi0 chu3 ， yu4 lu2 yang3 huo3 mo4 jiao4 han2 。
+- nan2 er2 huai2 yun4 shi4 tai1 xian1 ， zhi1 wei2 chan2 guang1 ye4 ye4 yuan2 。
+- duo2 de2 tian1 ji1 zhen1 zao4 hua4 ， shen1 zhong1 zi4 you3 yu4 qing1 tian1 。
 
 ## 注释
 

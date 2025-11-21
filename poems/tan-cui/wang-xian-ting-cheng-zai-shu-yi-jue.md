@@ -6,10 +6,10 @@ titleSlug: wang-xian-ting-cheng-zai-shu-yi-jue
 author: 譚粹
 authorPinyin: tan2 cui4
 authorSlug: tan-cui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

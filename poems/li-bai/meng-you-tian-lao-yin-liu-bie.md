@@ -6,10 +6,10 @@ titleSlug: meng-you-tian-lao-yin-liu-bie
 author: 李白
 authorPinyin: li3 bai2
 authorSlug: li-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
@@ -35,8 +35,7 @@ tags: []
 - 惟覺時之枕席，失向來之煙霞。
 - 世間行樂亦如此，古來萬事東流水。
 - 別君去時何時還，且放白鹿青崖間，須行即騎訪名山。
-- 安能摧眉折腰事權貴？
-- 使我不得開心顏。
+- 安能摧眉折腰事權貴？使我不得開心顏。
 
 ## 拼音
 
@@ -61,8 +60,7 @@ tags: []
 - wei2 jue2 shi2 zhi1 zhen3 xi2 ， shi1 xiang4 lai2 zhi1 yan1 xia2 。
 - shi4 jian4 xing2 le4 yi4 ru2 ci3 ， gu3 lai2 wan4 shi4 dong1 liu2 shui3 。
 - bie2 jun1 qu4 shi2 he2 shi2 huan2 ， qie3 fang4 bai2 lu4 qing1 ya2 jian4 ， xu1 xing2 ji2 qi2 fang3 ming2 shan1 。
-- an1 neng2 cui1 mei2 zhe2 yao1 shi4 quan2 gui4 ？
-- shi3 wo3 bu4 de2 kai1 xin1 yan2 。
+- an1 neng2 cui1 mei2 zhe2 yao1 shi4 quan2 gui4 ？ shi3 wo3 bu4 de2 kai1 xin1 yan2 。
 
 ## 注释
 

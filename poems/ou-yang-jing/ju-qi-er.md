@@ -3,22 +3,22 @@ id: ou-yang-jing-ju-qi-er
 title: 句  其二
 titlePinyin: ju4     qi2 er4
 titleSlug: ju-qi-er
-author: 歐陽景
-authorPinyin: ou1 yang2 jing3
+author: 歐陽經
+authorPinyin: ou1 yang2 jing1
 authorSlug: ou-yang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 最是風流堪賞處，美人收作裛衣香。
+- 峰頭華創占瓌奇，下視湖山迤邐卑。
 
 ## 拼音
 
-- zui4 shi4 feng1 liu2 kan1 shang3 chu3 ， mei3 ren2 shou1 zuo4 yi4 yi1 xiang1 。
+- feng1 tou2 hua2 chuang4 zhan4 gui1 qi2 ， xia4 shi4 hu2 shan1 yi3 li3 bei1 。
 
 ## 注释
 

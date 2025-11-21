@@ -6,10 +6,10 @@ titleSlug: guo-lian-hu
 author: 顧松年
 authorPinyin: gu4 song1 nian2
 authorSlug: gu-song-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

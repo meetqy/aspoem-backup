@@ -6,25 +6,25 @@ titleSlug: gan-shi-qi-er
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青春住莫過，伴我恨無窮。
-- 家在風塵裏，客來兵刃中。
-- 小人真樂禍，大吏競興戎。
-- 暫適义魚市，長慚斬将功。
+- 人心端可見，戎馬幾時休。
+- 往哲真能恨，來賢更用愁。
+- 只應當日淚，常共大江流。
+- 漢縣寥寥甚，今爲輔帝州。
 
 ## 拼音
 
-- qing1 chun1 zhu4 mo4 guo4 ， ban4 wo3 hen4 wu2 qiong2 。
-- jia1 zai4 feng1 chen2 li3 ， ke4 lai2 bing1 ren4 zhong1 。
-- xiao3 ren2 zhen1 le4 huo4 ， da4 li4 jing4 xing1 rong2 。
-- zan4 shi4 yi4 yu2 shi4 ， chang2 can2 zhan3 jiang1 gong1 。
+- ren2 xin1 duan1 ke3 jian4 ， rong2 ma3 ji1 shi2 xiu1 。
+- wang3 zhe2 zhen1 neng2 hen4 ， lai2 xian2 geng4 yong4 chou2 。
+- zhi1 ying1 dang1 ri4 lei4 ， chang2 gong4 da4 jiang1 liu2 。
+- han4 xian4 liao2 liao2 shen4 ， jin1 wei2 fu3 di4 zhou1 。
 
 ## 注释
 

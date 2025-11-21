@@ -6,25 +6,25 @@ titleSlug: zai-he-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 借屋城中又一春，桃符萬口說清新。
-- 向來曾上慶曆頌，老去甘爲元祐人。
-- 健論真堪驚諂子，固窮不肯媚錢神。
-- 吾評此士西塘比，後進紛紛謾效顰。
+- 包羞羊借臯比蓋，飾貌狙將衮服披。
+- 妾去綠衣裳以麴，佗乘黄屋髻猶椎。
+- 方開元際唐風盛，自建安來漢道衰。
+- 舉世紛紛學姚賈，老夫持此欲安之。
 
 ## 拼音
 
-- jie4 wu1 cheng2 zhong1 you4 yi4 chun1 ， tao2 fu2 wan4 kou3 shuo1 qing1 xin1 。
-- xiang4 lai2 ceng2 shang4 qing4 li4 song4 ， lao3 qu4 gan1 wei2 yuan2 you4 ren2 。
-- jian4 lun4 zhen1 kan1 jing1 chan3 zi3 ， gu4 qiong2 bu4 ken3 mei4 qian2 shen2 。
-- wu2 ping2 ci3 shi4 xi1 tang2 bi3 ， hou4 jin4 fen1 fen1 man2 xiao4 pin2 。
+- bao1 xiu1 yang2 jie4 gao1 bi3 gai4 ， shi4 mao4 ju1 jiang1 gun3 fu2 pi1 。
+- qie4 qu4 lü4 yi1 shang0 yi3 qu1 ， tuo2 cheng2 huang2 wu1 ji4 you2 zhui1 。
+- fang1 kai1 yuan2 ji4 tang2 feng1 sheng4 ， zi4 jian4 an1 lai2 han4 dao4 shuai1 。
+- ju3 shi4 fen1 fen1 xue2 yao2 jia3 ， lao3 fu1 chi2 ci3 yu4 an1 zhi1 。
 
 ## 注释
 

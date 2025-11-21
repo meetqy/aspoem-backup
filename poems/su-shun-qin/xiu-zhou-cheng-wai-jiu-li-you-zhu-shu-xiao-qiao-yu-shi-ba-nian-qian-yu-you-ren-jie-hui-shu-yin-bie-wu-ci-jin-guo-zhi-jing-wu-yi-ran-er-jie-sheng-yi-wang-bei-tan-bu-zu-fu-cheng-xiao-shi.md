@@ -6,10 +6,10 @@ titleSlug: xiu-zhou-cheng-wai-jiu-li-you-zhu-shu-xiao-qiao-yu-shi-ba-nian-qian-y
 author: 蘇舜欽
 authorPinyin: su1 shun4 qin1
 authorSlug: su-shun-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shen-jing-tang-qi-yi
 author: 莊珙
 authorPinyin: zhuang1 gong3
 authorSlug: zhuang-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

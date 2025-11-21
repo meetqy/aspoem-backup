@@ -9,42 +9,31 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: 怀古,悼亡,七绝,咏史
+tags: []
 ---
 
 ## 正文
 
-- 采石江边李白坟，遶田无限草连云。
-- 可怜荒垄穷泉骨，曾有惊天动地文。
-- 但是诗人多薄命，就中沦落不过君。
-- 渚苹溪草犹堪荐，大雅遗风不可闻。
+- 采石江邊李白墳，遶田無限草連雲。
+- 可憐荒壠泉骨，曾有驚天動地文。
+- 但是詩人多薄命，就中淪落不過君。
+- 渚蘋溪草猶堪薦，大雅遺風不可聞。
+- （見《采石志》，轉錄自《李白在安徽》）（按：《全唐詩》卷四四○收本詩，缺末二句，今重錄。
+- 今人或謂末二句係人僞託。
+- ）。
 
 ## 拼音
 
 - cai3 shi2 jiang1 bian1 li3 bai2 fen2 ， rao4 tian2 wu2 xian4 cao3 lian2 yun2 。
-- ke3 lian2 huang1 long3 qiong2 quan2 gu3 ， ceng2 you3 jing1 tian1 dong4 di4 wen2 。
+- ke3 lian2 huang1 long3 quan2 gu3 ， ceng2 you3 jing1 tian1 dong4 di4 wen2 。
 - dan4 shi4 shi1 ren2 duo1 bo2 ming4 ， jiu4 zhong1 lun2 luo4 bu2 guo4 jun1 。
-- zhu3 ping2 xi1 cao3 you2 kan1 jian4 ， da4 ya3 yi2 feng1 bu4 ke3 wen2 。
-
-## 译文
-
-采石江边李白的坟茔，四周田野荒草绵延接云。
-可怜这荒坟深处的遗骨，曾写出惊天动地的诗文。
-但凡诗人大多命运坎坷，其中最为沦落的莫过于君。
-水边苹草溪畔野草尚可祭奠，而大雅遗风再也无从听闻。
+- zhu3 pin2 xi1 cao3 you2 kan1 jian4 ， da4 ya3 yi2 feng1 bu4 ke3 wen2 。
+- （ jian4 《 cai3 shi2 zhi4 》， zhuan3 lu4 zi4 《 li3 bai2 zai4 an1 hui1 》）（ an4 ：《 quan2 tang2 shi1 》 juan4 si4 si4 ○ shou1 ben3 shi1 ， que1 mo4 er4 ju4 ， jin1 zhong4 lu4 。
+- jin1 ren2 huo4 wei4 mo4 er4 ju4 xi4 ren2 wei3 tuo1 。
+- ）。
 
 ## 注释
 
-- 采石：采石矶，李白墓所在地
-- 遶田：环绕田亩
-- 荒垄：荒坟
-- 穷泉：九泉之下
-- 但是：凡是
-- 就中：其中
-- 沦落：落魄失意
-- 荐：祭奠
-- 大雅：《诗经》中的雅正之音
+## 译文
 
 ## 赏析
-
-这首七绝以李白墓前的荒凉景象起兴，抒发对诗人坎坷命运的深切同情。前两句"绕田无限草连云"的描写，既写实景又暗喻文坛荒芜。第三句"可怜荒垄穷泉骨"的直白表述，与"曾有惊天动地文"的辉煌形成强烈反差，揭示天才与命运的永恒矛盾。后四句拓展至诗人群体的共同命运，"但是诗人多薄命"的概括充满悲悯，"大雅遗风不可闻"的感慨更将个人悲剧升华为文化断层之忧。全诗语言质朴而情感深沉，在平实的叙述中蕴含对文学命运的历史思考。

@@ -6,10 +6,10 @@ titleSlug: sun-pu-yi-ping-chi-ji-yin-he-qu-sui-shi-wei-yi-xiao-chun-sun-wei-shen
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

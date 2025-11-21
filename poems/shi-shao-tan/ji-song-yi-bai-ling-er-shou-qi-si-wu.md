@@ -6,21 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-si-wu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬戟森嚴細柳營，信威獨許漢將軍。
-- 誰知袖隠屠龍手，却把蒿枝箭策勳。
+- 四十九年，欺胡謾漢。
+- 疾入涅槃，救得一半。
+- 諦觀紫磨金色身，涴却娘生眼。
 
 ## 拼音
 
-- wan4 ji3 sen1 yan2 xi4 liu3 ying2 ， xin4 wei1 du2 xu1 han4 jiang1 jun1 。
-- shui2 zhi1 xiu4 yin3 tu2 long2 shou3 ， que4 ba3 hao1 zhi1 jian4 ce4 xun1 。
+- si4 shi2 jiu3 nian2 ， qi1 hu2 man2 han4 。
+- ji2 ru4 nie4 pan2 ， jiu4 de2 yi2 ban4 。
+- di4 guan1 zi3 mo2 jin1 se4 shen1 ， wo4 que4 niang2 sheng1 yan3 。
 
 ## 注释
 

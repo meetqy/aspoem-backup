@@ -6,9 +6,9 @@ titleSlug: jiang-ci-zhong-xiang-xian-ji-chu-hou-tang-zhang
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

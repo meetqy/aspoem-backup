@@ -6,10 +6,10 @@ titleSlug: mu-ping-si-long-ting-ci-yun-fang-ju-shan
 author: 熊與龢
 authorPinyin: xiong2 yu3 he2
 authorSlug: xiong-yu-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

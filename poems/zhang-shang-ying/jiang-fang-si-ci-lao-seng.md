@@ -6,10 +6,10 @@ titleSlug: jiang-fang-si-ci-lao-seng
 author: 張商英
 authorPinyin: zhang1 shang1 ying1
 authorSlug: zhang-shang-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

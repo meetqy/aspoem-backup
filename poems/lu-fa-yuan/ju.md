@@ -6,10 +6,10 @@ titleSlug: ju
 author: 盧法原
 authorPinyin: lu2 fa3 yuan2
 authorSlug: lu-fa-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

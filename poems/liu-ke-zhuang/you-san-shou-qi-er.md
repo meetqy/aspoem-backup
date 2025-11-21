@@ -6,25 +6,21 @@ titleSlug: you-san-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫惜傾囊更典衣，繁華尤詫送神時。
-- 不惟寶髻脩容出，亦有銀釵跣足嬉。
-- 但見春城催畫角，何曾夜市擁牙旗。
-- 遨頭清儉君毋怪，疇昔書囊在殿帷。
+- 雪平腰各立師邊，半夜輸君得密傳。
+- 伴後村翁成二老，比絳縣人多一年。
 
 ## 拼音
 
-- mo4 xi1 qing1 nang2 geng4 dian3 yi1 ， fan2 hua2 you2 cha4 song4 shen2 shi2 。
-- bu4 wei2 bao3 ji4 xiu1 rong2 chu1 ， yi4 you3 yin2 chai1 xian3 zu2 xi1 。
-- dan4 jian4 chun1 cheng2 cui1 hua4 jiao3 ， he2 ceng2 ye4 shi4 yong1 ya2 qi2 。
-- ao2 tou2 qing1 jian3 jun1 wu2 guai4 ， chou2 xi1 shu1 nang2 zai4 dian4 wei2 。
+- xue3 ping2 yao1 ge4 li4 shi1 bian1 ， ban4 ye4 shu1 jun1 de2 mi4 chuan2 。
+- ban4 hou4 cun1 weng1 cheng2 er4 lao3 ， bi3 jiang4 xian4 ren2 duo1 yi4 nian2 。
 
 ## 注释
 

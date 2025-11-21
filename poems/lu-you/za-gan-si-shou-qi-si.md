@@ -6,21 +6,21 @@ titleSlug: za-gan-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羲皇一畫開百聖，學者即今誰造微。
-- 文詞害道第一事，子能去之其庶幾。
+- 禍福雖云不可猜，人生要豈願爲才。
+- 髑髏正使非王樂，犧象何疑是木災。
 
 ## 拼音
 
-- xi1 huang2 yi2 hua4 kai1 bai3 sheng4 ， xue2 zhe3 ji2 jin1 shui2 zao4 wei1 。
-- wen2 ci2 hai4 dao4 di4 yi1 shi4 ， zi3 neng2 qu4 zhi1 qi2 shu4 ji1 。
+- huo4 fu2 sui1 yun2 bu4 ke3 cai1 ， ren2 sheng1 yao4 qi3 yuan4 wei2 cai2 。
+- du2 lou2 zheng4 shi3 fei1 wang2 le4 ， xi1 xiang4 he2 yi2 shi4 mu4 zai1 。
 
 ## 注释
 

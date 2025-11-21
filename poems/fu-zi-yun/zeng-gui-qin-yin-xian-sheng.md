@@ -6,10 +6,10 @@ titleSlug: zeng-gui-qin-yin-xian-sheng
 author: 傅子雲
 authorPinyin: fu4 zi3 yun2
 authorSlug: fu-zi-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

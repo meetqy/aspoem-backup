@@ -6,25 +6,25 @@ titleSlug: shan-ju
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 松韵笙竽徑，雲容水墨天。
-- 人行春色裏，鶑語落花邊。
-- 脩竹三間屋，清泉二頃田。
-- 了無官府事，雞犬莫登仙。
+- 老矣求田魚稻鄉，兒孫常要在余旁。
+- 提籃買菜須靈照，舉案齊眉只孟光。
+- 醫國有方三折臂，扣關無路九回腸。
+- 紫芝白髮秋風裏，悵望商山綺與黄。
 
 ## 拼音
 
-- song1 yun4 sheng1 yu2 jing4 ， yun2 rong2 shui3 mo4 tian1 。
-- ren2 hang2 chun1 se4 li3 ， ying1 yu3 luo4 hua1 bian1 。
-- xiu1 zhu2 san1 jian4 wu1 ， qing1 quan2 er4 qing3 tian2 。
-- liao3 wu2 guan1 fu3 shi4 ， ji1 quan3 mo4 deng1 xian1 。
+- lao3 yi3 qiu2 tian2 yu2 dao4 xiang1 ， er2 sun1 chang2 yao4 zai4 yu2 pang2 。
+- ti2 lan2 mai3 cai4 xu1 ling2 zhao4 ， ju3 an4 qi2 mei2 zhi1 meng4 guang1 。
+- yi1 guo2 you3 fang1 san1 zhe2 bi4 ， kou4 guan1 wu2 lu4 jiu3 hui2 chang2 。
+- zi3 zhi1 bai2 fa4 qiu1 feng1 li3 ， chang4 wang4 shang1 shan1 qi3 yu3 huang2 。
 
 ## 注释
 

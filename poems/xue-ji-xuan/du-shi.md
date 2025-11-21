@@ -6,25 +6,25 @@ titleSlug: du-shi
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 信乃噲等伍，宏與滔比肩。
-- 饗士未爲過，出跨真能賢。
-- 物外體三極，環中無二天。
-- 傷哉千古恨，顰蹙翫陳編。
+- 閑是等閑非，沈迷不自知。
+- 黄粱一夜夢，白雪數人詩。
+- 身後輸杯酒，生前對局棋。
+- 幾多亡國恨，窗几靜搘頤。
 
 ## 拼音
 
-- xin4 nai3 kuai4 deng3 wu3 ， hong2 yu3 tao1 bi3 jian1 。
-- xiang3 shi4 wei4 wei2 guo4 ， chu1 kua4 zhen1 neng2 xian2 。
-- wu4 wai4 ti3 san1 ji2 ， huan2 zhong1 wu2 er4 tian1 。
-- shang1 zai1 qian1 gu3 hen4 ， pin2 cu4 wan2 chen2 bian1 。
+- xian2 shi4 deng3 xian2 fei1 ， shen3 mi2 bu2 zi4 zhi1 。
+- huang2 liang2 yi2 ye4 meng4 ， bai2 xue3 shu4 ren2 shi1 。
+- shen1 hou4 shu1 bei1 jiu3 ， sheng1 qian2 dui4 ju2 qi2 。
+- ji1 duo1 wang2 guo2 hen4 ， chuang1 ji3 jing4 zhi1 yi2 。
 
 ## 注释
 

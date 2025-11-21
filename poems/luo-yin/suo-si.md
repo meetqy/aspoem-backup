@@ -9,22 +9,22 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 梁王兔苑荆榛裏，煬帝雞臺夢想中。
-- 只覺惘然悲謝傅，未知何以報文翁。
-- 生靈不幸台星拆，造化無情世界空。
-- 劃盡寒灰始堪歎，滿庭霜葉一窗風。
+- 西上青雲未有期，東歸滄海一何遲。
+- 酒闌夢覺不稱意，花落月明空所思。
+- 長恐病侵多事日，可堪貧過少年時。
+- 鬬雞走狗五陵道，惆悵輸他輕薄兒。
 
 ## 拼音
 
-- liang2 wang2 tu4 yuan4 jing1 zhen1 li3 ， yang2 di4 ji1 tai2 meng4 xiang3 zhong1 。
-- zhi1 jue2 wang3 ran2 bei1 xie4 fu4 ， wei4 zhi1 he2 yi3 bao4 wen2 weng1 。
-- sheng1 ling2 bu2 xing4 tai2 xing1 chai1 ， zao4 hua4 wu2 qing2 shi4 jie4 kong1 。
-- hua2 jin4 han2 hui1 shi3 kan1 tan4 ， man3 ting2 shuang1 ye4 yi4 chuang1 feng1 。
+- xi1 shang4 qing1 yun2 wei4 you3 qi1 ， dong1 gui1 cang1 hai3 yi4 he2 chi2 。
+- jiu3 lan2 meng4 jue2 bu4 cheng1 yi4 ， hua1 luo4 yue4 ming2 kong1 suo3 si1 。
+- chang2 kong3 bing4 qin1 duo1 shi4 ri4 ， ke3 kan1 pin2 guo4 shao4 nian2 shi2 。
+- dou4 ji1 zou3 gou3 wu3 ling2 dao4 ， chou2 chang4 shu1 ta1 qing1 bao2 er2 。
 
 ## 注释
 

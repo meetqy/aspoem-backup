@@ -6,10 +6,10 @@ titleSlug: wan-dun-fu
 author: 蔡光啟
 authorPinyin: cai4 guang1 qi3
 authorSlug: cai-guang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

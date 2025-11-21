@@ -6,10 +6,10 @@ titleSlug: su-cai-shi-zhui-huai-shen-qiu-shu-fu-tong-ying-zhao-du-ci-jin-er-shi-
 author: 晁補之
 authorPinyin: chao2 bu3 zhi1
 authorSlug: chao-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

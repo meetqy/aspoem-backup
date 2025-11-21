@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-yi-fang-tang-zhan-xian-xian-yi-xiang-qi-liu
-title: 義方堂瞻先賢遺像・其六
-titlePinyin: yi4 fang1 tang2 zhan1 xian1 xian2 yi2 xiang4・qi2 liu4
+title: 義方堂瞻先賢遺像  其六
+titlePinyin: yi4 fang1 tang2 zhan1 xian1 xian2 yi2 xiang4     qi2 liu4
 titleSlug: yi-fang-tang-zhan-xian-xian-yi-xiang-qi-liu
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

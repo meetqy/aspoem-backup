@@ -6,9 +6,9 @@ titleSlug: liu-ti-shi-zhai-mei-shou-tang
 author: 辛次膺
 authorPinyin: xin1 ci4 ying1
 authorSlug: xin-ci-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -9,24 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 蟄龍三冬臥，老鶴萬里心。
-- 昔時賢俊人，未遇猶視今。
-- 嵇康不得死，孔明有知音。
-- 又如壠底松，用舍在所尋。
-- 大哉霜雪榦，歲久爲枯林。
+- 天用莫如龍，有時繫扶桑。
+- 頓轡海徒涌，神人身更長。
+- 性命苟不存，英雄徒自強。
+- 吞聲勿復道，真宰意茫茫。
 
 ## 拼音
 
-- zhe2 long2 san1 dong1 wo4 ， lao3 he4 wan4 li3 xin1 。
-- xi1 shi2 xian2 jun4 ren2 ， wei4 yu4 you2 shi4 jin1 。
-- ji1 kang1 bu4 de2 si3 ， kong3 ming2 you3 zhi1 yin1 。
-- you4 ru2 long3 di3 song1 ， yong4 she4 zai4 suo3 xun2 。
-- da4 zai1 shuang1 xue3 gan4 ， sui4 jiu3 wei2 ku1 lin2 。
+- tian1 yong4 mo4 ru2 long2 ， you3 shi2 xi4 fu2 sang1 。
+- dun4 pei4 hai3 tu2 yong3 ， shen2 ren2 shen1 geng4 chang2 。
+- xing4 ming4 gou3 bu4 cun2 ， ying1 xiong2 tu2 zi4 qiang2 。
+- tun1 sheng1 wu4 fu4 dao4 ， zhen1 zai3 yi4 mang2 mang2 。
 
 ## 注释
 

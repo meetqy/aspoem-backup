@@ -6,10 +6,10 @@ titleSlug: wan-ji-du-zuo-xi-cheng-zhou-yuan-ju-liu-xi-fan-xu-shao-yi-tong-she-zh
 author: 張守
 authorPinyin: zhang1 shou3
 authorSlug: zhang-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

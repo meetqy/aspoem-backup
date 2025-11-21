@@ -6,21 +6,25 @@ titleSlug: tian-she-ji-shi-shi-shou-qi-liu
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 田舍諸雛各雅馴，男兒盍有藝資身。
-- 古來醫卜多名世，莫學文章點涴人。
+- 疇昔元疎懶，如今轉耄荒。
+- 都忘高士傳，僅記庶人章。
+- 棲畝牛羊飽，開囷雀鼠忙。
+- 老農識慙愧，先議道官倉。
 
 ## 拼音
 
-- tian2 she4 zhu1 chu2 ge4 ya3 xun4 ， nan2 er2 he2 you3 yi4 zi1 shen1 。
-- gu3 lai2 yi1 bu3 duo1 ming2 shi4 ， mo4 xue2 wen2 zhang1 dian3 wo4 ren2 。
+- chou2 xi1 yuan2 shu1 lan3 ， ru2 jin1 zhuan3 mao4 huang1 。
+- dou1 wang4 gao1 shi4 chuan2 ， jin3 ji4 shu4 ren2 zhang1 。
+- qi1 mu3 niu2 yang2 bao3 ， kai1 qun1 que4 shu3 mang2 。
+- lao3 nong2 shi2 can2 kui4 ， xian1 yi4 dao4 guan1 cang1 。
 
 ## 注释
 

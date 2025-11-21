@@ -1,26 +1,26 @@
 ---
 id: shi-shao-tan-song-gu-wu-shi-wu-shou-qi-er
-title: 頌古五十五首  其二
-titlePinyin: song4 gu3 wu3 shi2 wu3 shou3     qi2 er4
+title: 頌古五十五首  其二○
+titlePinyin: song4 gu3 wu3 shi2 wu3 shou3     qi2 er4 ○
 titleSlug: song-gu-wu-shi-wu-shou-qi-er
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 田庫翁翁兩鬢霜，苦貪濁酒弄觥觴。
-- 兒孫步步相隨逐，扶得歸家又發狂。
+- 學得陶朱小術些，當場撮弄數般花。
+- 雖然過得常人眼，到底難瞞是作家。
 
 ## 拼音
 
-- tian2 ku4 weng1 weng1 liang3 bin4 shuang1 ， ku3 tan1 zhuo2 jiu3 nong4 gong1 shang1 。
-- er2 sun1 bu4 bu4 xiang1 sui2 zhu2 ， fu2 de2 gui1 jia1 you4 fa1 kuang2 。
+- xue2 de2 tao2 zhu1 xiao3 shu4 xie1 ， dang1 chang3 cuo1 nong4 shu4 ban1 hua1 。
+- sui1 ran2 guo4 de2 chang2 ren2 yan3 ， dao4 di3 nan2 man2 shi4 zuo4 jia1 。
 
 ## 注释
 

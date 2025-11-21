@@ -6,10 +6,10 @@ titleSlug: ji-wai
 author: 丁渥妻
 authorPinyin: ding1 wo4 qi1
 authorSlug: ding-wo-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

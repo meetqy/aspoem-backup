@@ -6,10 +6,10 @@ titleSlug: da-ren-an-bu-guo-yun-an-xia-yan-liu-xiao-shi-ming-tong-fu
 author: 郭明復
 authorPinyin: guo1 ming2 fu4
 authorSlug: guo-ming-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-hui-an-xian-sheng-tong-su-qing-xu-an
 author: 梁平叔
 authorPinyin: liang2 ping2 shu1
 authorSlug: liang-ping-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

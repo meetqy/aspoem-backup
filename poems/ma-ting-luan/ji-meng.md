@@ -6,21 +6,21 @@ titleSlug: ji-meng
 author: 馬廷鸞
 authorPinyin: ma3 ting2 luan2
 authorSlug: ma-ting-luan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白日青天一鉅儒，清宵入夢忽蘧蘧。
-- 覺來猛省戊申疏，曾說中原亂易除。
+- 夜夢嬉遊到古陂，翻菱剝芡不知歸。
+- 野田沒膝泥三尺，拔足汙渠自一奇。
 
 ## 拼音
 
-- bai2 ri4 qing1 tian1 yi2 ju4 ru2 ， qing1 xiao1 ru4 meng4 hu1 qu2 qu2 。
-- jue2 lai2 meng3 xing3 wu4 shen1 shu1 ， ceng2 shuo1 zhong1 yuan2 luan4 yi4 chu2 。
+- ye4 meng4 xi1 you2 dao4 gu3 bei1 ， fan1 ling2 bao1 qian4 bu4 zhi1 gui1 。
+- ye3 tian2 mei2 xi1 ni2 san1 chi3 ， ba2 zu2 wu1 qu2 zi4 yi4 qi2 。
 
 ## 注释
 

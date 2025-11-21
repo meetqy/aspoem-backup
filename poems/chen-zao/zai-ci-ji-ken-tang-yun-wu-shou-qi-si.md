@@ -6,21 +6,21 @@ titleSlug: zai-ci-ji-ken-tang-yun-wu-shou-qi-si
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 眼向朱門每嬾擡，今朝笑口爲君開。
-- 別來却喜人爭席，浪遣長鬚掃徑苔。
+- 倦遊祇有囊詩錦，試爲高人一笑開。
+- 當日留題海山寺，旋聞石刻暗莓苔。
 
 ## 拼音
 
-- yan3 xiang4 zhu1 men2 mei3 lan3 tai2 ， jin1 zhao1 xiao4 kou3 wei2 jun1 kai1 。
-- bie2 lai2 que4 xi3 ren2 zheng1 xi2 ， lang4 qian3 chang2 xu1 sao3 jing4 tai2 。
+- juan4 you2 qi2 you3 nang2 shi1 jin3 ， shi4 wei2 gao1 ren2 yi2 xiao4 kai1 。
+- dang1 ri4 liu2 ti2 hai3 shan1 si4 ， xuan2 wen2 shi2 ke4 an4 mei2 tai2 。
 
 ## 注释
 

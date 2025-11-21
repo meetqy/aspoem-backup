@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 南陌東城春早時，相逢何處不依依。
-- 桃紅李白皆誇好，須得垂楊相發輝。
+- 迎得春光先到來，淺黃輕綠映樓臺。
+- 只緣嫋娜多情思，便被春風長請挼。
 
 ## 拼音
 
-- nan2 mo4 dong1 cheng2 chun1 zao3 shi2 ， xiang1 feng2 he2 chu3 bu4 yi1 yi1 。
-- tao2 hong2 li3 bai2 jie1 kua1 hao3 ， xu1 de2 chui2 yang2 xiang1 fa1 hui1 。
+- ying2 de2 chun1 guang1 xian1 dao4 lai2 ， qian3 huang2 qing1 lü4 ying4 lou2 tai2 。
+- zhi1 yuan2 niao3 na4 duo1 qing2 si1 ， bian4 bei4 chun1 feng1 chang2 qing3 ruo2 。
 
 ## 注释
 

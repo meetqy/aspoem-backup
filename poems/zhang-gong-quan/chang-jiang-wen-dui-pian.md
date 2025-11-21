@@ -6,10 +6,10 @@ titleSlug: chang-jiang-wen-dui-pian
 author: 章公權
 authorPinyin: zhang1 gong1 quan2
 authorSlug: zhang-gong-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

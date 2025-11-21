@@ -6,21 +6,21 @@ titleSlug: shi-yi-shou
 author: 楊蟠
 authorPinyin: yang2 pan2
 authorSlug: yang-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰與畫圖傳勝跡，忽從詩字得清暉。
-- 江山歷歷皆堪數，不記當年幾醉歸。
+- 詩魂躔斗壁，醉力撼蓬萊。
+- 剖山無鵲印，傾廄盡龍媒。
 
 ## 拼音
 
-- shui2 yu3 hua4 tu2 chuan2 sheng4 ji4 ， hu1 cong2 shi1 zi4 de2 qing1 hui1 。
-- jiang1 shan1 li4 li4 jie1 kan1 shu4 ， bu2 ji4 dang1 nian2 ji1 zui4 gui1 。
+- shi1 hun2 chan2 dou4 bi4 ， zui4 li4 han4 peng2 lai2 。
+- pou1 shan1 wu2 que4 yin4 ， qing1 jiu4 jin4 long2 mei2 。
 
 ## 注释
 

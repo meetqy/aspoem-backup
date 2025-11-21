@@ -1,14 +1,14 @@
 ---
 id: wen-tong-he-zi-shan-chun-ri-yu-zhong-shu-shi-jian-ji-qi-er
-title: 和子山春日雨中書事見寄・其二
-titlePinyin: he2 zi3 shan1 chun1 ri4 yu3 zhong1 shu1 shi4 jian4 ji4・qi2 er4
+title: 和子山春日雨中書事見寄  其二
+titlePinyin: he2 zi3 shan1 chun1 ri4 yu3 zhong1 shu1 shi4 jian4 ji4     qi2 er4
 titleSlug: he-zi-shan-chun-ri-yu-zhong-shu-shi-jian-ji-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

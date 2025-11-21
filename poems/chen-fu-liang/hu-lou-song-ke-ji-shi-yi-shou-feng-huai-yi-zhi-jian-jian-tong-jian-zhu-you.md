@@ -6,10 +6,10 @@ titleSlug: hu-lou-song-ke-ji-shi-yi-shou-feng-huai-yi-zhi-jian-jian-tong-jian-zh
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

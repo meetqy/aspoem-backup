@@ -6,10 +6,10 @@ titleSlug: huang-shan-zuo
 author: 杜叔元
 authorPinyin: du4 shu1 yuan2
 authorSlug: du-shu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

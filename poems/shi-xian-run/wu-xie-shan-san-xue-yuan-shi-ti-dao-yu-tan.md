@@ -6,10 +6,10 @@ titleSlug: wu-xie-shan-san-xue-yuan-shi-ti-dao-yu-tan
 author: 釋咸潤
 authorPinyin: shi4 xian2 run4
 authorSlug: shi-xian-run
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

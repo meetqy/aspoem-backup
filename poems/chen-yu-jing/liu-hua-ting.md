@@ -6,10 +6,10 @@ titleSlug: liu-hua-ting
 author: 陳與京
 authorPinyin: chen2 yu3 jing1
 authorSlug: chen-yu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

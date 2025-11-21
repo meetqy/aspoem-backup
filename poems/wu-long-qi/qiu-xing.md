@@ -6,10 +6,10 @@ titleSlug: qiu-xing
 author: 吳龍起
 authorPinyin: wu2 long2 qi3
 authorSlug: wu-long-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

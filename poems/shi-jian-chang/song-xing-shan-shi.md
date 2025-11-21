@@ -6,10 +6,10 @@ titleSlug: song-xing-shan-shi
 author: 釋簡長
 authorPinyin: shi4 jian3 chang2
 authorSlug: shi-jian-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

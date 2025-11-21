@@ -6,10 +6,10 @@ titleSlug: shang-fang-wan-yue
 author: 蔣晞顔
 authorPinyin: jiang3 xi1 yan2
 authorSlug: jiang-xi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: mo-shan-xiao-tan
 author: 胡楚材
 authorPinyin: hu2 chu3 cai2
 authorSlug: hu-chu-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

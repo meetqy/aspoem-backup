@@ -9,18 +9,18 @@ authorSlug: han-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 孟郊死葬北邙山，從此風雲得暫閑。
-- 天恐文章渾斷絕，更生賈島着人間。
+- 世上不教才子絶，更生賈島着人間。
 
 ## 拼音
 
 - meng4 jiao1 si3 zang4 bei3 mang1 shan1 ， cong2 ci3 feng1 yun2 de2 zan4 xian2 。
-- tian1 kong3 wen2 zhang1 hun2 duan4 jue2 ， geng1 sheng1 jia3 dao3 zhe0 ren2 jian4 。
+- shi4 shang4 bu2 jiao4 cai2 zi3 jue2 ， geng1 sheng1 jia3 dao3 zhe0 ren2 jian4 。
 
 ## 注释
 

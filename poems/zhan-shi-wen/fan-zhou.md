@@ -6,10 +6,10 @@ titleSlug: fan-zhou
 author: 詹師文
 authorPinyin: zhan1 shi1 wen2
 authorSlug: zhan-shi-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

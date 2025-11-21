@@ -6,25 +6,21 @@ titleSlug: ye-zuo
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬籟聲久寂，三更霜已寒。
-- 老人袖手坐，一氣中自存。
-- 自得此中趣，不與兒曹論。
-- 但有老孟光，相對亦無言。
+- 庭戶無人秋月明，夜霜欲落氣先清。
+- 梧桐直不甘衰謝，數葉迎風尚有聲。
 
 ## 拼音
 
-- wan4 lai4 sheng1 jiu3 ji4 ， san1 geng1 shuang1 yi3 han2 。
-- lao3 ren2 xiu4 shou3 zuo4 ， yi2 qi4 zhong1 zi4 cun2 。
-- zi4 de2 ci3 zhong1 qu4 ， bu4 yu3 er2 cao2 lun4 。
-- dan4 you3 lao3 meng4 guang1 ， xiang1 dui4 yi4 wu2 yan2 。
+- ting2 hu4 wu2 ren2 qiu1 yue4 ming2 ， ye4 shuang1 yu4 luo4 qi4 xian1 qing1 。
+- wu2 tong2 zhi2 bu4 gan1 shuai1 xie4 ， shu4 ye4 ying2 feng1 shang4 you3 sheng1 。
 
 ## 注释
 

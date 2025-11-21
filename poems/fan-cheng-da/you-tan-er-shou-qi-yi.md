@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-you-tan-er-shou-qi-yi
-title: 有歎二首・其一
-titlePinyin: you3 tan4 er4 shou3・qi2 yi1
+title: 有歎二首  其一
+titlePinyin: you3 tan4 er4 shou3     qi2 yi1
 titleSlug: you-tan-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

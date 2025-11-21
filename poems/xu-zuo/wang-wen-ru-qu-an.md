@@ -6,10 +6,10 @@ titleSlug: wang-wen-ru-qu-an
 author: 徐作
 authorPinyin: xu2 zuo4
 authorSlug: xu-zuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

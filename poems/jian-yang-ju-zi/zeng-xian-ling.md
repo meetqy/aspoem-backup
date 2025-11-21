@@ -6,10 +6,10 @@ titleSlug: zeng-xian-ling
 author: 建陽舉子
 authorPinyin: jian4 yang2 ju3 zi3
 authorSlug: jian-yang-ju-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bie-pu-qi-xu-cheng-yu-jin-ji-yi-ci-li-he-qing-yun
 author: 廖行之
 authorPinyin: liao4 xing2 zhi1
 authorSlug: liao-xing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

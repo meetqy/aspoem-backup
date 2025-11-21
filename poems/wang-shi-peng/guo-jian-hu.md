@@ -6,21 +6,21 @@ titleSlug: guo-jian-hu
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朔風吹水鑑湖寒，千里扁舟赴幕官。
-- 路入蓬萊天尺五，眼中見日與長安。
+- 閣下平湖湖外山，陰晴氣象日千般。
+- 主人便是神仙侶，莫作尋常太守看。
 
 ## 拼音
 
-- shuo4 feng1 chui1 shui3 jian4 hu2 han2 ， qian1 li3 pian1 zhou1 fu4 mu4 guan1 。
-- lu4 ru4 peng2 lai2 tian1 chi3 wu3 ， yan3 zhong1 jian4 ri4 yu3 chang2 an1 。
+- ge2 xia4 ping2 hu2 hu2 wai4 shan1 ， yin1 qing2 qi4 xiang4 ri4 qian1 ban1 。
+- zhu3 ren2 bian4 shi4 shen2 xian1 lü3 ， mo4 zuo4 xun2 chang2 tai4 shou3 kan4 。
 
 ## 注释
 

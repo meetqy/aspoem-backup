@@ -6,10 +6,10 @@ titleSlug: ling-yun-li-sheng-ke-xi-jiao-bie-shu-chuang-xiao-ting-shu-yu-zuo-feng
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

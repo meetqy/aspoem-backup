@@ -6,10 +6,10 @@ titleSlug: shao-xing-xin-si-qiu-guo-wu-xi-song-jian-zhai-shi-yin-yong-qi-yun
 author: 陳從古
 authorPinyin: chen2 cong2 gu3
 authorSlug: chen-cong-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

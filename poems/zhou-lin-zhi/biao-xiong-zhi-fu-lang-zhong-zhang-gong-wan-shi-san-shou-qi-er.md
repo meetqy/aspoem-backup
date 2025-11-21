@@ -6,10 +6,10 @@ titleSlug: biao-xiong-zhi-fu-lang-zhong-zhang-gong-wan-shi-san-shou-qi-er
 author: 周麟之
 authorPinyin: zhou1 lin2 zhi1
 authorSlug: zhou-lin-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: zhou-yin-qian-yi-pu-you-ying-zhou-zhi-ming-zuo-shi-jian-zeng-you-heng
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

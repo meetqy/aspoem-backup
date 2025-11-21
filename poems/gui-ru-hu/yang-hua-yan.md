@@ -6,10 +6,10 @@ titleSlug: yang-hua-yan
 author: 桂如虎
 authorPinyin: gui4 ru2 hu3
 authorSlug: gui-ru-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

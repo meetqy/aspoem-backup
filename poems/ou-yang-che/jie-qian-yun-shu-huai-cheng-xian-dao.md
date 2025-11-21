@@ -6,9 +6,9 @@ titleSlug: jie-qian-yun-shu-huai-cheng-xian-dao
 author: 歐陽澈
 authorPinyin: ou1 yang2 che4
 authorSlug: ou-yang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 施元長
 authorPinyin: shi1 yuan2 chang2
 authorSlug: shi-yuan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

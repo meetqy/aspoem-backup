@@ -6,10 +6,10 @@ titleSlug: ti-tie-zuo-chi-shang-ting
 author: 歐陽程
 authorPinyin: ou1 yang2 cheng2
 authorSlug: ou-yang-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

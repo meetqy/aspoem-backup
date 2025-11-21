@@ -6,21 +6,25 @@ titleSlug: zi-yong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 忽忽殘年及耄期，清晨對鏡不須悲。
-- 遠行久立雖差倦，未到人扶見客時。
+- 道本治吾身，緒餘方及人。
+- 神清緣食少，事簡爲家貧。
+- 薄酒如重醖，寒蔬抵八珍。
+- 村村花柳動，且復岸綸巾。
 
 ## 拼音
 
-- hu1 hu1 can2 nian2 ji2 mao4 qi1 ， qing1 chen2 dui4 jing4 bu4 xu1 bei1 。
-- yuan3 xing2 jiu3 li4 sui1 cha4 juan4 ， wei4 dao4 ren2 fu2 jian4 ke4 shi2 。
+- dao4 ben3 zhi4 wu2 shen1 ， xu4 yu2 fang1 ji2 ren2 。
+- shen2 qing1 yuan2 shi2 shao3 ， shi4 jian3 wei2 jia1 pin2 。
+- bo2 jiu3 ru2 zhong4 yun4 ， han2 shu1 di3 ba1 zhen1 。
+- cun1 cun1 hua1 liu3 dong4 ， qie3 fu4 an4 lun2 jin1 。
 
 ## 注释
 

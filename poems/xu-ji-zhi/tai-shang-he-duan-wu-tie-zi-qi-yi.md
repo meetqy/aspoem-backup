@@ -6,21 +6,21 @@ titleSlug: tai-shang-he-duan-wu-tie-zi-qi-yi
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自得廣成道，長居不老天。
-- 底須桃辟惡，何用木延年。
+- 久瞻黄屋見堯心，盡把薰風入舜琴。
+- 至樂殿中香一炷，靜看周易對槐陰。
 
 ## 拼音
 
-- zi4 de2 guang3 cheng2 dao4 ， chang2 ju1 bu4 lao3 tian1 。
-- di3 xu1 tao2 pi4 e4 ， he2 yong4 mu4 yan2 nian2 。
+- jiu3 zhan1 huang2 wu1 jian4 yao2 xin1 ， jin4 ba3 xun1 feng1 ru4 shun4 qin2 。
+- zhi4 le4 dian4 zhong1 xiang1 yi2 zhu4 ， jing4 kan4 zhou1 yi4 dui4 huai2 yin1 。
 
 ## 注释
 

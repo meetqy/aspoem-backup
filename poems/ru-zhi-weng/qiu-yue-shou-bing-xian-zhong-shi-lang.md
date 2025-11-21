@@ -6,10 +6,10 @@ titleSlug: qiu-yue-shou-bing-xian-zhong-shi-lang
 author: 茹芝翁
 authorPinyin: ru2 zhi1 weng1
 authorSlug: ru-zhi-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

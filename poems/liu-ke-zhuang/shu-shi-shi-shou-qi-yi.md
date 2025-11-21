@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-shu-shi-shi-shou-qi-yi
-title: 書事十首  其一
-titlePinyin: shu1 shi4 shi2 shou3     qi2 yi1
+title: 書事十首  其一○
+titlePinyin: shu1 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: shu-shi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幼作淳熙版籍民，老逢景定改元新。
-- 殘年且盡杯中物，他日誰澆柏下人。
-- 長鑱谷中忙斸雪，小車花外徧尋春。
-- 吾評子美饑寒態，不似堯夫快活身。
+- 漢重貂璫鼎軸輕，力扶弱勢頼公卿。
+- 劾侯常侍如張□，訟石中書有更生。
+- 伺夜九頭猶作祟，過時百舌未收聲。
+- 虞廷可是無儀鳳，底事相看噤不鳴。
 
 ## 拼音
 
-- you4 zuo4 chun2 xi1 ban3 ji2 min2 ， lao3 feng2 jing3 ding4 gai3 yuan2 xin1 。
-- can2 nian2 qie3 jin4 bei1 zhong1 wu4 ， ta1 ri4 shui2 jiao1 bai3 xia4 ren2 。
-- chang2 chan2 gu3 zhong1 mang2 zhu2 xue3 ， xiao3 ju1 hua1 wai4 bian4 xun2 chun1 。
-- wu2 ping2 zi3 mei3 ji1 han2 tai4 ， bu2 si4 yao2 fu1 kuai4 huo0 shen1 。
+- han4 zhong4 diao1 dang1 ding3 zhou2 qing1 ， li4 fu2 ruo4 shi4 lai4 gong1 qing1 。
+- he2 hou2 chang2 shi4 ru2 zhang1 □， song4 shi2 zhong1 shu1 you3 geng1 sheng1 。
+- si4 ye4 jiu3 tou2 you2 zuo4 sui4 ， guo4 shi2 bai3 she2 wei4 shou1 sheng1 。
+- yu2 ting2 ke3 shi4 wu2 yi2 feng4 ， di3 shi4 xiang1 kan4 jin4 bu4 ming2 。
 
 ## 注释
 

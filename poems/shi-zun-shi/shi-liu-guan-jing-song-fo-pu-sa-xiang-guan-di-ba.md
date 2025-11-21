@@ -6,10 +6,10 @@ titleSlug: shi-liu-guan-jing-song-fo-pu-sa-xiang-guan-di-ba
 author: 釋遵式
 authorPinyin: shi4 zun1 shi4
 authorSlug: shi-zun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

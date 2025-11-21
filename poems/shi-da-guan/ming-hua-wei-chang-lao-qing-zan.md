@@ -6,10 +6,10 @@ titleSlug: ming-hua-wei-chang-lao-qing-zan
 author: 釋大觀
 authorPinyin: shi4 da4 guan1
 authorSlug: shi-da-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bing-hu-xing
 author: 劉大方
 authorPinyin: liu2 da4 fang1
 authorSlug: liu-da-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

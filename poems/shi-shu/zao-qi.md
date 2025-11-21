@@ -6,25 +6,21 @@ titleSlug: zao-qi
 author: 施樞
 authorPinyin: shi1 shu1
 authorSlug: shi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早起看花露，西風把鬢欺。
-- 心清多在道，夢好亦成詩。
-- 過但思求己，生無事皺眉。
-- 功名緣底事，到手却如遲。
+- 簷前鳴玉響丁東，清夢初迴鶴帳中。
+- 早起井梧飄一葉，方知昨夜是秋風。
 
 ## 拼音
 
-- zao3 qi3 kan4 hua1 lu4 ， xi1 feng1 ba3 bin4 qi1 。
-- xin1 qing1 duo1 zai4 dao4 ， meng4 hao3 yi4 cheng2 shi1 。
-- guo4 dan4 si1 qiu2 ji3 ， sheng1 wu2 shi4 zhou4 mei2 。
-- gong1 ming2 yuan2 di3 shi4 ， dao4 shou3 que4 ru2 chi2 。
+- yan2 qian2 ming2 yu4 xiang3 ding1 dong1 ， qing1 meng4 chu1 hui2 he4 zhang4 zhong1 。
+- zao3 qi3 jing3 wu2 piao1 yi2 ye4 ， fang1 zhi1 zuo2 ye4 shi4 qiu1 feng1 。
 
 ## 注释
 

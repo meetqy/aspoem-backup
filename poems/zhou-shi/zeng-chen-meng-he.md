@@ -6,10 +6,10 @@ titleSlug: zeng-chen-meng-he
 author: 周氏
 authorPinyin: zhou1 shi4
 authorSlug: zhou-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

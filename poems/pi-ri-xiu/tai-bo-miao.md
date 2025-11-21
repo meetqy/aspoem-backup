@@ -9,18 +9,18 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一廟爭祠兩讓君，幾千年後轉清【芬】。
-- 當時盡解稱高義，誰敢教他莽卓聞。
+- 蠻荆古服屬南荒，大聖開基闢草堂。
+- 載造文明追二帝，尚餘揖讓補三王。
 
 ## 拼音
 
-- yi2 miao4 zheng1 ci2 liang3 rang4 jun1 ， ji1 qian1 nian2 hou4 zhuan3 qing1 【 fen1 】。
-- dang1 shi2 jin4 jie3 cheng1 gao1 yi4 ， shui2 gan3 jiao4 ta1 mang3 zhuo2 wen2 。
+- man2 jing1 gu3 fu2 shu3 nan2 huang1 ， da4 sheng4 kai1 ji1 pi4 cao3 tang2 。
+- zai4 zao4 wen2 ming2 zhui1 er4 di4 ， shang4 yu2 yi1 rang4 bu3 san1 wang2 。
 
 ## 注释
 

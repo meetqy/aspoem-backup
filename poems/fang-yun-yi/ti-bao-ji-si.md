@@ -6,9 +6,9 @@ titleSlug: ti-bao-ji-si
 author: 方雲翼
 authorPinyin: fang1 yun2 yi4
 authorSlug: fang-yun-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

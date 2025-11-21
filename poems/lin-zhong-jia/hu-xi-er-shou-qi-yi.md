@@ -6,10 +6,10 @@ titleSlug: hu-xi-er-shou-qi-yi
 author: 林仲嘉
 authorPinyin: lin2 zhong4 jia1
 authorSlug: lin-zhong-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

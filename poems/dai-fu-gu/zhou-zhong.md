@@ -6,25 +6,25 @@ titleSlug: zhou-zhong
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 檥棹河梁畔，推篷得句新。
-- 雲爲山態度，水借月精神。
-- 密樹藏飛翮，平波見躍鱗。
-- 饑年村落底，也有醉歸人。
+- 扁舟何處泊，沙渚夕陽邊。
+- 遠浦橫魚網，高山起燒烟。
+- 客行今老矣，秋思日凄然。
+- 且復開懷抱，囊中有酒錢。
 
 ## 拼音
 
-- yi3 zhao4 he2 liang2 pan4 ， tui1 peng2 de2 ju4 xin1 。
-- yun2 wei2 shan1 tai4 du4 ， shui3 jie4 yue4 jing1 shen2 。
-- mi4 shu4 cang2 fei1 he2 ， ping2 bo1 jian4 yue4 lin2 。
-- ji1 nian2 cun1 luo4 di3 ， ye3 you3 zui4 gui1 ren2 。
+- pian1 zhou1 he2 chu3 bo2 ， sha1 zhu3 xi1 yang2 bian1 。
+- yuan3 pu3 heng2 yu2 wang3 ， gao1 shan1 qi3 shao1 yan1 。
+- ke4 xing2 jin1 lao3 yi3 ， qiu1 si1 ri4 qi1 ran2 。
+- qie3 fu4 kai1 huai2 bao4 ， nang2 zhong1 you3 jiu3 qian2 。
 
 ## 注释
 

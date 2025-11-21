@@ -6,29 +6,25 @@ titleSlug: jiu-ri
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 帝京蒙福近，相國偃藩初。
-- 甕熟中齋酒，厨鮮上客魚。
-- 高懷日蕭散，外物久驅除。
-- 犀首無妨飲，宣尼或飯疏。
-- 林凋疑野闊，荷罷似池虛。
-- 此樂憑誰辨，須煩藻思餘。
+- 商館馮高爽氣濃，露萸千穗亞枝紅。
+- 餠餐交遺嘉籩上，蕊菊爭吹壽斝中。
+- 擊隼厲威平隰闊，戲驂沈響故臺空。
+- 何人盛繼龍山集，醉帽須防穀鬰風。
 
 ## 拼音
 
-- di4 jing1 meng2 fu2 jin4 ， xiang1 guo2 yan3 fan1 chu1 。
-- weng4 shu2 zhong1 zhai1 jiu3 ， chu2 xian1 shang4 ke4 yu2 。
-- gao1 huai2 ri4 xiao1 san4 ， wai4 wu4 jiu3 qu1 chu2 。
-- xi1 shou3 wu2 fang2 yin3 ， xuan1 ni2 huo4 fan4 shu1 。
-- lin2 diao1 yi2 ye3 kuo4 ， he2 ba4 si4 chi2 xu1 。
-- ci3 le4 ping2 shui2 bian4 ， xu1 fan2 zao3 si1 yu2 。
+- shang1 guan3 feng2 gao1 shuang3 qi4 nong2 ， lu4 yu2 qian1 sui4 ya1 zhi1 hong2 。
+- bing3 can1 jiao1 yi2 jia1 bian1 shang4 ， rui3 ju2 zheng1 chui1 shou4 jia3 zhong1 。
+- ji1 sun3 li4 wei1 ping2 xi2 kuo4 ， xi4 can1 shen3 xiang3 gu4 tai2 kong1 。
+- he2 ren2 sheng4 ji4 long2 shan1 ji2 ， zui4 mao4 xu1 fang2 gu3 yu4 feng1 。
 
 ## 注释
 

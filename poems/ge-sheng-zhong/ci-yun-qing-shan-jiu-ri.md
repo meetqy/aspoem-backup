@@ -6,25 +6,25 @@ titleSlug: ci-yun-qing-shan-jiu-ri
 author: 葛勝仲
 authorPinyin: ge3 sheng4 zhong4
 authorSlug: ge-sheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舍南自灌五畝園，滿種黄花待親識。
-- 明朝酒熟當壽君，卷白不許餘涓滴。
-- 湖海浮家作寓公，醉醒幸與騷人同。
-- 一座盡傾塵表物，不須舉扇障西風。
+- 二九依辰至，追歡付麴生。
+- 竹根拚醉卧，菊蘂正牽情。
+- 杜曲酬佳節，陶翁愛此名。
+- 吹花更吹帽，相值得豪英。
 
 ## 拼音
 
-- she4 nan2 zi4 guan4 wu3 mu3 yuan2 ， man3 zhong3 huang2 hua1 dai4 qin1 shi2 。
-- ming2 chao2 jiu3 shu2 dang1 shou4 jun1 ， juan4 bai2 bu4 xu1 yu2 juan1 di1 。
-- hu2 hai3 fu2 jia1 zuo4 yu4 gong1 ， zui4 xing3 xing4 yu3 sao1 ren2 tong2 。
-- yi2 zuo4 jin4 qing1 chen2 biao3 wu4 ， bu4 xu1 ju3 shan4 zhang4 xi1 feng1 。
+- er4 jiu3 yi1 chen2 zhi4 ， zhui1 huan1 fu4 qu1 sheng1 。
+- zhu2 gen1 pin1 zui4 wo4 ， ju2 rui3 zheng4 qian1 qing2 。
+- du4 qu3 chou2 jia1 jie2 ， tao2 weng1 ai4 ci3 ming2 。
+- chui1 hua1 geng4 chui1 mao4 ， xiang1 zhi2 de2 hao2 ying1 。
 
 ## 注释
 

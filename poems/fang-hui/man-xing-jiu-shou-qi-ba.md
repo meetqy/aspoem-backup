@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-ba
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淡虀淘大麥，甘酪薦含桃。
-- 風調誰優劣，田家似頗高。
+- 興賦雍容誦麥陂，徐徐別頤用金椎。
+- 通身都是藏污罪，揖讓如儀解說詩。
 
 ## 拼音
 
-- dan4 ji1 tao2 da4 mai4 ， gan1 lao4 jian4 han2 tao2 。
-- feng1 diao4 shui2 you1 lie4 ， tian2 jia1 si4 po1 gao1 。
+- xing1 fu4 yong1 rong2 song4 mai4 bei1 ， xu2 xu2 bie2 yi2 yong4 jin1 zhui1 。
+- tong1 shen1 dou1 shi4 cang2 wu1 zui4 ， yi1 rang4 ru2 yi2 jie3 shuo1 shi1 。
 
 ## 注释
 

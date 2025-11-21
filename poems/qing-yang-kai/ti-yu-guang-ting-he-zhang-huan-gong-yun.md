@@ -6,10 +6,10 @@ titleSlug: ti-yu-guang-ting-he-zhang-huan-gong-yun
 author: 青陽楷
 authorPinyin: qing1 yang2 kai3
 authorSlug: qing-yang-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

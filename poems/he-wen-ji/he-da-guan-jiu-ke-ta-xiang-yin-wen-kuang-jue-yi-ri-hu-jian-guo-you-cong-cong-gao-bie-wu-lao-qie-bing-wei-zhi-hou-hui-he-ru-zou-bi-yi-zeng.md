@@ -6,10 +6,10 @@ titleSlug: he-da-guan-jiu-ke-ta-xiang-yin-wen-kuang-jue-yi-ri-hu-jian-guo-you-co
 author: 何文季
 authorPinyin: he2 wen2 ji4
 authorSlug: he-wen-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

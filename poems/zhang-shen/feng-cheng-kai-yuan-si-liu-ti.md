@@ -6,9 +6,9 @@ titleSlug: feng-cheng-kai-yuan-si-liu-ti
 author: 張深
 authorPinyin: zhang1 shen1
 authorSlug: zhang-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

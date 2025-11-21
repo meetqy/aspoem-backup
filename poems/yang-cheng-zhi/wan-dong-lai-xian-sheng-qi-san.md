@@ -6,10 +6,10 @@ titleSlug: wan-dong-lai-xian-sheng-qi-san
 author: 楊誠之
 authorPinyin: yang2 cheng2 zhi1
 authorSlug: yang-cheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: za-xing-shi-shou-qi-si
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 旋插疎籬設矮扉，僅容老子自娛嬉。
-- 國蝸角上何嫌小，巢鳥窠邊不覺危。
-- 石槨無陳雞絮者，朱門有設雀羅時。
-- 平泉花木奇樟檜，辛苦栽培竟屬誰。
+- 不肯彈冠起，俄從折簡招。
+- 雖然舐丹藥，未免悔青苗。
 
 ## 拼音
 
-- xuan2 cha1 shu1 li2 she4 ai3 fei1 ， jin3 rong2 lao3 zi3 zi4 yu2 xi1 。
-- guo2 wo1 jiao3 shang4 he2 xian2 xiao3 ， chao2 niao3 ke1 bian1 bu4 jue2 wei1 。
-- shi2 guo3 wu2 chen2 ji1 xu4 zhe3 ， zhu1 men2 you3 she4 que4 luo2 shi2 。
-- ping2 quan2 hua1 mu4 qi2 zhang1 gui4 ， xin1 ku3 zai1 pei2 jing4 shu3 shui2 。
+- bu4 ken3 dan4 guan1 qi3 ， e2 cong2 zhe2 jian3 zhao1 。
+- sui1 ran2 shi4 dan1 yao4 ， wei4 mian3 hui3 qing1 miao2 。
 
 ## 注释
 

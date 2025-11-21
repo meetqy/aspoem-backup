@@ -6,10 +6,10 @@ titleSlug: ti-ma-fu-bo-xiang
 author: 董烈
 authorPinyin: dong3 lie4
 authorSlug: dong-lie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

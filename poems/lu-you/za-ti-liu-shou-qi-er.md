@@ -6,21 +6,21 @@ titleSlug: za-ti-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山家貧甚亦支撐，時撫桐孫一再行。
-- 朝甑米空烹芋粥，夜缸油盡點松明。
+- 莫笑花前白髮新，宣和人醉慶元春。
+- 何時道路平如砥，却就清伊整幅巾。
 
 ## 拼音
 
-- shan1 jia1 pin2 shen4 yi4 zhi1 cheng1 ， shi2 fu3 tong2 sun1 yi2 zai4 xing2 。
-- chao2 zeng4 mi3 kong1 peng1 yu4 zhou1 ， ye4 gang1 you2 jin4 dian3 song1 ming2 。
+- mo4 xiao4 hua1 qian2 bai2 fa4 xin1 ， xuan1 he2 ren2 zui4 qing4 yuan2 chun1 。
+- he2 shi2 dao4 lu4 ping2 ru2 di3 ， que4 jiu4 qing1 yi1 zheng3 fu2 jin1 。
 
 ## 注释
 

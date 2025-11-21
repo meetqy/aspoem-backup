@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-di-ge-qi-san
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 俗阜登臺樂，農祥擊壤謠。
-- 何人知帝力，爾極聽垂髫。
+- 手把蟠桃植，何勞羯鼓催。
+- 從今三萬歲，十度看花開。
 
 ## 拼音
 
-- su2 fu4 deng1 tai2 le4 ， nong2 xiang2 ji1 rang3 yao2 。
-- he2 ren2 zhi1 di4 li4 ， er3 ji2 ting1 chui2 tiao2 。
+- shou3 ba3 pan2 tao2 zhi2 ， he2 lao2 jie2 gu3 cui1 。
+- cong2 jin1 san1 wan4 sui4 ， shi2 du4 kan4 hua1 kai1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jun-hou-fang-yu-yu-cang-lang-ting-yin-er-gao-hui-yi-ri-yi-yi-zhang-xi
 author: 蘇舜欽
 authorPinyin: su1 shun4 qin1
 authorSlug: su-shun-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

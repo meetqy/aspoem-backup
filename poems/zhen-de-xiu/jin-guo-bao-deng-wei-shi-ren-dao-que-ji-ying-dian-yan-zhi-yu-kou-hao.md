@@ -6,10 +6,10 @@ titleSlug: jin-guo-bao-deng-wei-shi-ren-dao-que-ji-ying-dian-yan-zhi-yu-kou-hao
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

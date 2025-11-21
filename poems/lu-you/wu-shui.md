@@ -6,29 +6,25 @@ titleSlug: wu-shui
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風霜踐殘歲，我乃羈旅人。
-- 如何得一室，床敷暖如春。
-- 午枕挾小醉，鼻息撼四鄰。
-- 心安了無夢，一掃想與因。
-- 逡巡起頮面，覽鏡正幅巾。
-- 聊呼蟹眼湯，瀹我玉色塵。
+- 梅黄雨足喜初晴，投枕華胥夢已成。
+- 帳底香雲凝未散，手中書卷墮無聲。
+- 簟紋似水飛蠅避，鼻息如雷稚子驚。
+- 癡腹便便竟何有，已將嘲弄付諸生。
 
 ## 拼音
 
-- feng1 shuang1 jian4 can2 sui4 ， wo3 nai3 ji1 lü3 ren2 。
-- ru2 he2 de2 yi2 shi4 ， chuang2 fu1 nuan3 ru2 chun1 。
-- wu3 zhen3 xie2 xiao3 zui4 ， bi2 xi1 han4 si4 lin2 。
-- xin1 an1 le0 wu2 meng4 ， yi4 sao3 xiang3 yu3 yin1 。
-- qun1 xun2 qi3 hui4 mian4 ， lan3 jing4 zheng4 fu2 jin1 。
-- liao2 hu1 xie4 yan3 tang1 ， yue4 wo3 yu4 se4 chen2 。
+- mei2 huang2 yu3 zu2 xi3 chu1 qing2 ， tou2 zhen3 hua2 xu1 meng4 yi3 cheng2 。
+- zhang4 di3 xiang1 yun2 ning2 wei4 san4 ， shou3 zhong1 shu1 juan4 duo4 wu2 sheng1 。
+- dian4 wen2 si4 shui3 fei1 ying2 bi4 ， bi2 xi1 ru2 lei2 zhi4 zi3 jing1 。
+- chi1 fu4 bian4 bian4 jing4 he2 you3 ， yi3 jiang1 chao2 nong4 fu4 zhu1 sheng1 。
 
 ## 注释
 

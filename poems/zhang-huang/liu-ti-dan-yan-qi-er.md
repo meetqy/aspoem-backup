@@ -6,9 +6,9 @@ titleSlug: liu-ti-dan-yan-qi-er
 author: 張滉
 authorPinyin: zhang1 huang4
 authorSlug: zhang-huang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,30 +1,30 @@
 ---
 id: huang-ting-jian-ji-chao-yuan-zhong-shi-shou-qi-yi
-title: 寄晁元忠十首  其一
-titlePinyin: ji4 chao2 yuan2 zhong1 shi2 shou3     qi2 yi1
+title: 寄晁元忠十首  其一○
+titlePinyin: ji4 chao2 yuan2 zhong1 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-chao-yuan-zhong-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 國工裁白璧，巧冶鑄干將。
-- 成爲萬乘器，貫日吐寒光。
-- 其誰湔拂汝，歲月海生桑。
-- 蛛網連城玉，苔生百鍊剛。
+- 臨川往長懷，神交可心晤。
+- 文章不經世，風期南山霧。
+- 化蟲哦四時，悲喜各有故。
+- 吾獨無間然，子規勸歸去。
 
 ## 拼音
 
-- guo2 gong1 cai2 bai2 bi4 ， qiao3 ye3 zhu4 gan1 jiang1 。
-- cheng2 wei2 wan4 cheng2 qi4 ， guan4 ri4 tu3 han2 guang1 。
-- qi2 shui2 jian1 fu2 ru3 ， sui4 yue4 hai3 sheng1 sang1 。
-- zhu1 wang3 lian2 cheng2 yu4 ， tai2 sheng1 bai3 lian4 gang1 。
+- lin2 chuan1 wang3 chang2 huai2 ， shen2 jiao1 ke3 xin1 wu4 。
+- wen2 zhang1 bu4 jing1 shi4 ， feng1 qi1 nan2 shan1 wu4 。
+- hua4 chong2 o4 si4 shi2 ， bei1 xi3 ge4 you3 gu4 。
+- wu2 du2 wu2 jian4 ran2 ， zi3 gui1 quan4 gui1 qu4 。
 
 ## 注释
 

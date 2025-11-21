@@ -6,9 +6,9 @@ titleSlug: yun-xue-shan-ju
 author: 閻彥昭
 authorPinyin: yan2 yan4 zhao1
 authorSlug: yan-yan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

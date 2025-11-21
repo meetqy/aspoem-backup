@@ -6,10 +6,10 @@ titleSlug: liu-hua-dong
 author: 魏萬
 authorPinyin: wei4 wan4
 authorSlug: wei-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-xian-jing-shi-er-shi-qi-yi
-title: 十二時  其一
-titlePinyin: shi2 er4 shi2     qi2 yi1
+title: 十二時  其一○
+titlePinyin: shi2 er4 shi2     qi2 yi1 ○
 titleSlug: shi-er-shi-qi-yi
 author: 釋咸靜
 authorPinyin: shi4 xian2 jing4
 authorSlug: shi-xian-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半夜子，心境俱忘正莽鹵。
-- 撚轉天關萬象移，泥牛入海誰親睹。
+- 日入酉，殘霞返照門前柳。
+- 無聲一曲牧童歸，背跨牛兒師子吼。
 
 ## 拼音
 
-- ban4 ye4 zi3 ， xin1 jing4 ju4 wang4 zheng4 mang3 lu3 。
-- nian3 zhuan3 tian1 guan1 wan4 xiang4 yi2 ， ni2 niu2 ru4 hai3 shui2 qin1 du3 。
+- ri4 ru4 you3 ， can2 xia2 fan3 zhao4 men2 qian2 liu3 。
+- wu2 sheng1 yi4 qu3 mu4 tong2 gui1 ， bei4 kua4 niu2 er2 shi1 zi3 hou3 。
 
 ## 注释
 

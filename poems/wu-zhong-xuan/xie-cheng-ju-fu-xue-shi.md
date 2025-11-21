@@ -6,10 +6,10 @@ titleSlug: xie-cheng-ju-fu-xue-shi
 author: 吳仲軒
 authorPinyin: wu2 zhong4 xuan1
 authorSlug: wu-zhong-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 外事因慵廢，中懷與靜期。
-- 尋泉上山遠，看筍出林遲。
-- 白石磨樵斧，青竿理釣絲。
-- 澄清深淺好，最愛夕陽時。
+- 欲笑隨情酒逐身，此身雖老未辜春。
+- 春來點檢閑遊數，猶自多於年少人。
 
 ## 拼音
 
-- wai4 shi4 yin1 yong1 fei4 ， zhong1 huai2 yu3 jing4 qi1 。
-- xun2 quan2 shang4 shan1 yuan3 ， kan4 sun3 chu1 lin2 chi2 。
-- bai2 shi2 mo4 qiao2 fu3 ， qing1 gan1 li3 diao4 si1 。
-- cheng2 qing1 shen1 qian3 hao3 ， zui4 ai4 xi1 yang2 shi2 。
+- yu4 xiao4 sui2 qing2 jiu3 zhu2 shen1 ， ci3 shen1 sui1 lao3 wei4 gu1 chun1 。
+- chun1 lai2 dian3 jian3 xian2 you2 shu4 ， you2 zi4 duo1 wu1 nian2 shao4 ren2 。
 
 ## 注释
 

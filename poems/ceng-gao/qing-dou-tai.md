@@ -6,10 +6,10 @@ titleSlug: qing-dou-tai
 author: 曾鎬
 authorPinyin: ceng2 gao3
 authorSlug: ceng-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

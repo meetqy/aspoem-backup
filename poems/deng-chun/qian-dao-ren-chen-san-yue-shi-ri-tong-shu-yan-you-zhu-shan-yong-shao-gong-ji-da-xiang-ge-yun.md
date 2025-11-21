@@ -6,10 +6,10 @@ titleSlug: qian-dao-ren-chen-san-yue-shi-ri-tong-shu-yan-you-zhu-shan-yong-shao-
 author: 鄧椿
 authorPinyin: deng4 chun1
 authorSlug: deng-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

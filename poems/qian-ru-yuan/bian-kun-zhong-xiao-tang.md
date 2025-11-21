@@ -6,10 +6,10 @@ titleSlug: bian-kun-zhong-xiao-tang
 author: 錢汝元
 authorPinyin: qian2 ru3 yuan2
 authorSlug: qian-ru-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

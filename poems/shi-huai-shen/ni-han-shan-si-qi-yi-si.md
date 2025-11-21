@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-yi-si
-title: 擬寒山寺  其一四
-titlePinyin: ni3 han2 shan1 si4     qi2 yi1 si4
+title: 擬寒山寺  其一四○
+titlePinyin: ni3 han2 shan1 si4     qi2 yi1 si4 ○
 titleSlug: ni-han-shan-si-qi-yi-si
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 祝壽作生日，親朋互相慶。
-- 未燒一爐香，且殺百個命。
-- 奴僕各醉飽，歌舞亂觀聽。
-- 如此望長年，爲汝慚諸聖。
+- 人生不滿百，常懷千歲憂。
+- 猶嫌金玉少，更爲子孫求。
+- 白日曉還黑，綠楊春復秋。
+- 無過富與貴，不奈水東流。
 
 ## 拼音
 
-- zhu4 shou4 zuo4 sheng1 ri4 ， qin1 peng2 hu4 xiang1 qing4 。
-- wei4 shao1 yi4 lu2 xiang1 ， qie3 sha1 bai3 ge4 ming4 。
-- nu2 pu2 ge4 zui4 bao3 ， ge1 wu3 luan4 guan1 ting1 。
-- ru2 ci3 wang4 chang2 nian2 ， wei2 ru3 can2 zhu1 sheng4 。
+- ren2 sheng1 bu4 man3 bai3 ， chang2 huai2 qian1 sui4 you1 。
+- you2 xian2 jin1 yu4 shao3 ， geng4 wei2 zi3 sun1 qiu2 。
+- bai2 ri4 xiao3 huan2 hei1 ， lü4 yang2 chun1 fu4 qiu1 。
+- wu2 guo4 fu4 yu3 gui4 ， bu2 nai4 shui3 dong1 liu2 。
 
 ## 注释
 

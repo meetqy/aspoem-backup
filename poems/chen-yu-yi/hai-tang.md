@@ -6,29 +6,21 @@ titleSlug: hai-tang
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 春雨夜有聲，連林杏花落。
-- 海棠已復動，寒食豈寂寞。
-- 人間有此麗，赴我隔年約。
-- 花葉兩分明，春陰耿簾幙。
-- 東風吹不斷，日暮臙脂薄。
-- 何可無我吟，三叫恨詩惡。
+- 紅粧翠袖一番新，人向園林作好春。
+- 却笑華清誇睡足，只今羅襪久無塵。
 
 ## 拼音
 
-- chun1 yu3 ye4 you3 sheng1 ， lian2 lin2 xing4 hua1 luo4 。
-- hai3 tang2 yi3 fu4 dong4 ， han2 shi2 qi3 ji4 mo4 。
-- ren2 jian4 you3 ci3 li2 ， fu4 wo3 ge2 nian2 yue1 。
-- hua1 ye4 liang3 fen1 ming2 ， chun1 yin1 geng3 lian2 mu4 。
-- dong1 feng1 chui1 bu2 duan4 ， ri4 mu4 yan1 zhi1 bao2 。
-- he2 ke3 wu2 wo3 yin2 ， san1 jiao4 hen4 shi1 e4 。
+- hong2 zhuang1 cui4 xiu4 yi4 fan1 xin1 ， ren2 xiang4 yuan2 lin2 zuo4 hao3 chun1 。
+- que4 xiao4 hua2 qing1 kua1 shui4 zu2 ， zhi1 jin1 luo2 wa4 jiu3 wu2 chen2 。
 
 ## 注释
 

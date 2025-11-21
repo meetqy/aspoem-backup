@@ -6,10 +6,10 @@ titleSlug: que-ti
 author: 劉眘虛
 authorPinyin: liu2 shen4 xu1
 authorSlug: liu-shen-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

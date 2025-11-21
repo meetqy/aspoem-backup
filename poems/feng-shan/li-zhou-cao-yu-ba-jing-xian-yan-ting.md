@@ -6,10 +6,10 @@ titleSlug: li-zhou-cao-yu-ba-jing-xian-yan-ting
 author: 馮山
 authorPinyin: feng2 shan1
 authorSlug: feng-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

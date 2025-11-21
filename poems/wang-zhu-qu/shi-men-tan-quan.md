@@ -6,10 +6,10 @@ titleSlug: shi-men-tan-quan
 author: 王竹臞
 authorPinyin: wang2 zhu2 qu2
 authorSlug: wang-zhu-qu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

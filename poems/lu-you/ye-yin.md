@@ -1,30 +1,34 @@
 ---
 id: lu-you-ye-yin
-title: 夜飲
-titlePinyin: ye4 yin3
+title: 野飲
+titlePinyin: ye3 yin3
 titleSlug: ye-yin
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 引劍酣歌亦壯哉，要君共覆手中杯。
-- 秋鴻陣密横江去，暮角聲酣戰雨來。
-- 莫恨皇天無老眼，請看白骨有青苔。
-- 中年倍覺流光速，行矣西郊又見梅。
+- 農事未興思一笑，春薺可采魚可釣。
+- 霏霏小雨忽已晴，堤上相携踏殘照。
+- 村場酒薄亦有力，把盞相娛不辭釂。
+- 眼花耳熱言語多，霍然已醒如過燒。
+- 人生百年會有盡，世事萬變誰能料。
+- 酒空人散寂無聲，爲君試作蘇門嘯。
 
 ## 拼音
 
-- yin3 jian4 han1 ge1 yi4 zhuang4 zai1 ， yao4 jun1 gong4 fu4 shou3 zhong1 bei1 。
-- qiu1 hong2 zhen4 mi4 heng2 jiang1 qu4 ， mu4 jiao3 sheng1 han1 zhan4 yu3 lai2 。
-- mo4 hen4 huang2 tian1 wu2 lao3 yan3 ， qing3 kan4 bai2 gu3 you3 qing1 tai2 。
-- zhong1 nian2 bei4 jue2 liu2 guang1 su4 ， xing2 yi3 xi1 jiao1 you4 jian4 mei2 。
+- nong2 shi4 wei4 xing1 si1 yi2 xiao4 ， chun1 ji4 ke3 cai3 yu2 ke3 diao4 。
+- fei1 fei1 xiao3 yu3 hu1 yi3 qing2 ， di1 shang4 xiang1 xie2 ta4 can2 zhao4 。
+- cun1 chang3 jiu3 bao2 yi4 you3 li4 ， ba3 zhan3 xiang1 yu2 bu4 ci2 jiao4 。
+- yan3 hua1 er3 re4 yan2 yu3 duo1 ， huo4 ran2 yi3 xing3 ru2 guo4 shao1 。
+- ren2 sheng1 bai3 nian2 hui4 you3 jin4 ， shi4 shi4 wan4 bian4 shui2 neng2 liao4 。
+- jiu3 kong1 ren2 san4 ji4 wu2 sheng1 ， wei2 jun1 shi4 zuo4 su1 men2 xiao4 。
 
 ## 注释
 

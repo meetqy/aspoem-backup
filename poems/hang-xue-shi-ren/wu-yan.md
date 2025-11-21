@@ -6,10 +6,10 @@ titleSlug: wu-yan
 author: 杭學士人
 authorPinyin: hang2 xue2 shi4 ren2
 authorSlug: hang-xue-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

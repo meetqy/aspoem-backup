@@ -6,10 +6,10 @@ titleSlug: jiao-si-le-zhang-huang-di-ru-xiao-ci-gong-jia-zou-huang-zhong-gong-yi
 author: 崔敦詩
 authorPinyin: cui1 dun1 shi1
 authorSlug: cui-dun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

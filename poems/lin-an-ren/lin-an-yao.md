@@ -6,10 +6,10 @@ titleSlug: lin-an-yao
 author: 臨安人
 authorPinyin: lin2 an1 ren2
 authorSlug: lin-an-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

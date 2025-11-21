@@ -6,10 +6,10 @@ titleSlug: pi-pa-ting
 author: 葉桂女
 authorPinyin: ye4 gui4 nü3
 authorSlug: ye-gui-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

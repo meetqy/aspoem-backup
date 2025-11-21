@@ -6,10 +6,10 @@ titleSlug: ye-wo-zhou-zhong-wen-you-chang-shan-ge-zhe-yi-qi-sheng-zuo-er-shou-qi
 author: 王道父
 authorPinyin: wang2 dao4 fu4
 authorSlug: wang-dao-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

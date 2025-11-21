@@ -1,26 +1,26 @@
 ---
 id: li-lian-ti-jin-ling-za-xing-shi-hou-shi-ba-shou-qi-yi
-title: 題金陵雜興詩後十八首  其一
-titlePinyin: ti2 jin1 ling2 za2 xing1 shi1 hou4 shi2 ba1 shou3     qi2 yi1
+title: 題金陵雜興詩後十八首  其一○
+titlePinyin: ti2 jin1 ling2 za2 xing1 shi1 hou4 shi2 ba1 shou3     qi2 yi1 ○
 titleSlug: ti-jin-ling-za-xing-shi-hou-shi-ba-shou-qi-yi
 author: 李璉
 authorPinyin: li3 lian3
 authorSlug: li-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梁家天子抱琵琶，淚灑華林御苑花。
-- 今日聞韶無處所，鴈煙蛩雨屬他家。
+- 江水無情碧草春，北朝留住老詞臣。
+- 子規啼上青楓樹，爲爾離鄉去國人。
 
 ## 拼音
 
-- liang2 jia1 tian1 zi3 bao4 pi2 pa0 ， lei4 sa3 hua2 lin2 yu4 yuan4 hua1 。
-- jin1 ri4 wen2 shao2 wu2 chu3 suo3 ， yan4 yan1 qiong2 yu3 shu3 ta1 jia1 。
+- jiang1 shui3 wu2 qing2 bi4 cao3 chun1 ， bei3 chao2 liu2 zhu4 lao3 ci2 chen2 。
+- zi3 gui1 ti2 shang4 qing1 feng1 shu4 ， wei2 er3 li2 xiang1 qu4 guo2 ren2 。
 
 ## 注释
 

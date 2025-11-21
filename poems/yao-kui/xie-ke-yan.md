@@ -9,20 +9,26 @@ authorSlug: yao-kui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 不見古君子，空餘舊林巒。
 - 翠色媚車馬，爽氣嚴衣冠。
-- 天水交影碧，松竹聲相寒。
+- 水天（《同治志》作「天水」）影交碧，松竹聲相寒。
+- （見上海圖書館據天一閣藏本所攝膠卷弘治《溫州府志》卷二十二、同治五年刊齊召南纂《溫州府志》卷四。
+- ）（按：陸心源《宋詩紀事補遺》卷八十八收姚揆此詩。
+- ）。
 
 ## 拼音
 
 - bu2 jian4 gu3 jun1 zi3 ， kong1 yu2 jiu4 lin2 luan2 。
 - cui4 se4 mei4 ju1 ma3 ， shuang3 qi4 yan2 yi1 guan1 。
-- tian1 shui3 jiao1 ying3 bi4 ， song1 zhu2 sheng1 xiang1 han2 。
+- shui3 tian1 （《 tong2 zhi4 zhi4 》 zuo4 「 tian1 shui3 」） ying3 jiao1 bi4 ， song1 zhu2 sheng1 xiang1 han2 。
+- （ jian4 shang4 hai3 tu2 shu1 guan3 ju4 tian1 yi4 ge2 cang2 ben3 suo3 she4 jiao1 juan4 hong2 zhi4 《 wen1 zhou1 fu3 zhi4 》 juan4 er4 shi2 er4 、 tong2 zhi4 wu3 nian2 kan1 qi2 zhao4 nan2 zuan3 《 wen1 zhou1 fu3 zhi4 》 juan4 si4 。
+- ）（ an4 ： lu4 xin1 yuan2 《 song4 shi1 ji4 shi4 bu3 yi2 》 juan4 ba1 shi2 ba1 shou1 yao2 kui2 ci3 shi1 。
+- ）。
 
 ## 注释
 

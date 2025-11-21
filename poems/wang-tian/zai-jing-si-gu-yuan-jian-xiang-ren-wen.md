@@ -6,10 +6,10 @@ titleSlug: zai-jing-si-gu-yuan-jian-xiang-ren-wen
 author: 王闐
 authorPinyin: wang2 tian2
 authorSlug: wang-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

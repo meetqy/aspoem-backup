@@ -6,10 +6,10 @@ titleSlug: wu-tai-shan-he-yun
 author: 史監
 authorPinyin: shi3 jian1
 authorSlug: shi-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

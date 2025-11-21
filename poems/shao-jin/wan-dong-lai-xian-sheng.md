@@ -6,10 +6,10 @@ titleSlug: wan-dong-lai-xian-sheng
 author: 邵津
 authorPinyin: shao4 jin1
 authorSlug: shao-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

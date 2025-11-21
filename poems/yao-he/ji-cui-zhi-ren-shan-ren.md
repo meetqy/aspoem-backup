@@ -9,22 +9,22 @@ authorSlug: yao-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 百門坡上住，石屋兩三間。
-- 日月難教老，妻兒乞與閑。
-- 仙經揀客問，藥債煮金還。
-- 何計能相訪，終身得在山。
+- 不得之仁消息久，秋來體色復何如。
+- 苦將杯酒判身病，狂作文章信手書。
+- 官職卑微從客笑，性靈閑野向錢疎。
+- 幾時身計渾無事，揀取深山一處居。
 
 ## 拼音
 
-- bai3 men2 po1 shang4 zhu4 ， shi2 wu1 liang3 san1 jian4 。
-- ri4 yue4 nan2 jiao4 lao3 ， qi1 er2 qi3 yu3 xian2 。
-- xian1 jing1 jian3 ke4 wen4 ， yao4 zhai4 zhu3 jin1 huan2 。
-- he2 ji4 neng2 xiang1 fang3 ， zhong1 shen1 de2 zai4 shan1 。
+- bu4 de2 zhi1 ren2 xiao1 xi0 jiu3 ， qiu1 lai2 ti3 se4 fu4 he2 ru2 。
+- ku3 jiang1 bei1 jiu3 pan4 shen1 bing4 ， kuang2 zuo4 wen2 zhang1 xin4 shou3 shu1 。
+- guan1 zhi2 bei1 wei1 cong2 ke4 xiao4 ， xing4 ling2 xian2 ye3 xiang4 qian2 shu1 。
+- ji1 shi2 shen1 ji4 hun2 wu2 shi4 ， jian3 qu3 shen1 shan1 yi4 chu3 ju1 。
 
 ## 注释
 

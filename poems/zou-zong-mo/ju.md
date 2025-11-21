@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄒宗謨
 authorPinyin: zou1 zong1 mo2
 authorSlug: zou-zong-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

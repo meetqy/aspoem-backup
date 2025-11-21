@@ -1,36 +1,40 @@
 ---
 id: xie-ao-song-nao-ge-gu-chui-qu-qi-yi
-title: 宋鐃歌鼓吹曲  其一
-titlePinyin: song4 nao2 ge1 gu3 chui1 qu3     qi2 yi1
+title: 宋鐃歌鼓吹曲  其一○
+titlePinyin: song4 nao2 ge1 gu3 chui1 qu3     qi2 yi1 ○
 titleSlug: song-nao-ge-gu-chui-qu-qi-yi
 author: 謝翱
 authorPinyin: xie4 ao2
 authorSlug: xie-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日離海，青曈曨。
-- 沃以積水，涵蒼穹。
-- 神光隠，豹霧空。
-- 氣呼吸，爲蛇龍。
-- 赤雲衣，紫霓從。
-- 吹白衆宿，歌大風。
-- 天吳遁，清海宮。
+- 版圖歸，歸職方。
+- 昔服跗注，備戎行。
+- 帝錫之斾，龍鳥章。
+- 酬獻命與胥，今上及秦王。
+- 外臣拜稽首，笑頷帝色康。
+- 畢同軌，來於梁。
+- 曄靈奕奕，敷重光。
+- 願止劍履，覲带裳。
+- 四海臣妾，配虞唐。
 
 ## 拼音
 
-- ri4 li2 hai3 ， qing1 tong2 long2 。
-- wo4 yi3 ji1 shui3 ， han2 cang1 qiong2 。
-- shen2 guang1 yin3 ， bao4 wu4 kong1 。
-- qi4 hu1 xi1 ， wei2 she2 long2 。
-- chi4 yun2 yi1 ， zi3 ni2 cong2 。
-- chui1 bai2 zhong4 su4 ， ge1 da4 feng1 。
-- tian1 wu2 dun4 ， qing1 hai3 gong1 。
+- ban3 tu2 gui1 ， gui1 zhi2 fang1 。
+- xi1 fu2 fu1 zhu4 ， bei4 rong2 xing2 。
+- di4 xi1 zhi1 pei4 ， long2 niao3 zhang1 。
+- chou2 xian4 ming4 yu3 xu1 ， jin1 shang4 ji2 qin2 wang2 。
+- wai4 chen2 bai4 qi3 shou3 ， xiao4 han4 di4 se4 kang1 。
+- bi4 tong2 gui3 ， lai2 wu1 liang2 。
+- ye4 ling2 yi4 yi4 ， fu1 chong2 guang1 。
+- yuan4 zhi3 jian4 lü3 ， jin4 dai4 shang0 。
+- si4 hai3 chen2 qie4 ， pei4 yu2 tang2 。
 
 ## 注释
 

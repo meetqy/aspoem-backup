@@ -6,25 +6,25 @@ titleSlug: ci-yun-shao-zi-wen-gan-chun-zhi-shen
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海內風塵漲，人間日月忙。
-- 鬢霜催晚景，盃蟻負春光。
-- 聞道花成錦，空憐鳥似簧。
-- 眼前朱墨亂，無處話愁腸。
+- 池塘不似昔年春，蝶亂蜂狂更惱人。
+- 莫傍花叢看婉娩，且懷詩卷誦清新。
+- 山林祗管縈魂夢，寰宇無端變刼塵。
+- 遥想江東憂未歇，可能熟醉巧謀身。
 
 ## 拼音
 
-- hai3 nei4 feng1 chen2 zhang3 ， ren2 jian4 ri4 yue4 mang2 。
-- bin4 shuang1 cui1 wan3 jing3 ， bei1 yi3 fu4 chun1 guang1 。
-- wen2 dao4 hua1 cheng2 jin3 ， kong1 lian2 niao3 si4 huang2 。
-- yan3 qian2 zhu1 mo4 luan4 ， wu2 chu3 hua4 chou2 chang2 。
+- chi2 tang2 bu2 si4 xi1 nian2 chun1 ， die2 luan4 feng1 kuang2 geng4 nao3 ren2 。
+- mo4 bang4 hua1 cong2 kan4 wan3 mian3 ， qie3 huai2 shi1 juan4 song4 qing1 xin1 。
+- shan1 lin2 zhi1 guan3 ying2 hun2 meng4 ， huan2 yu3 wu2 duan1 bian4 jie2 chen2 。
+- yao2 xiang3 jiang1 dong1 you1 wei4 xie1 ， ke3 neng2 shu2 zui4 qiao3 mou2 shen1 。
 
 ## 注释
 

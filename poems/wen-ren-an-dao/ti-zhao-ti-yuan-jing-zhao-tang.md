@@ -6,10 +6,10 @@ titleSlug: ti-zhao-ti-yuan-jing-zhao-tang
 author: 聞人安道
 authorPinyin: wen2 ren2 an1 dao4
 authorSlug: wen-ren-an-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

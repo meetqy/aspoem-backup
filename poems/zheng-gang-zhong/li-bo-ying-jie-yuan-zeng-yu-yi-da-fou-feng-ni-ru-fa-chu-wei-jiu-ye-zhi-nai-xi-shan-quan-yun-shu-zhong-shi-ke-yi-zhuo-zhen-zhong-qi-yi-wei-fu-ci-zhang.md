@@ -6,10 +6,10 @@ titleSlug: li-bo-ying-jie-yuan-zeng-yu-yi-da-fou-feng-ni-ru-fa-chu-wei-jiu-ye-zh
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

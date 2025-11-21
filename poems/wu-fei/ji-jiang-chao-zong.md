@@ -6,25 +6,25 @@ titleSlug: ji-jiang-chao-zong
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 藕花爽約約寒梅，開遍南枝尚未來。
-- 今日有人傳尺素，却云直待海棠開。
-- 若賞海棠猶未晚，回頭便見春風轉。
-- 只恐君無必信言，守到此時還更展。
+- 碧雲暮合首重回，正擬前村共探梅。
+- 耐久直須看歲晚，追歡何必待春來。
+- 山中縱有詩千首，花下誰同酒一杯。
+- 顧我與君非面友，願言命駕莫徘徊。
 
 ## 拼音
 
-- ou3 hua1 shuang3 yue1 yue1 han2 mei2 ， kai1 bian4 nan2 zhi1 shang4 wei4 lai2 。
-- jin1 ri4 you3 ren2 chuan2 chi3 su4 ， que4 yun2 zhi2 dai4 hai3 tang2 kai1 。
-- ruo4 shang3 hai3 tang2 you2 wei4 wan3 ， hui2 tou2 bian4 jian4 chun1 feng1 zhuan3 。
-- zhi3 kong3 jun1 wu2 bi4 xin4 yan2 ， shou3 dao4 ci3 shi2 huan2 geng4 zhan3 。
+- bi4 yun2 mu4 he2 shou3 chong2 hui2 ， zheng4 ni3 qian2 cun1 gong4 tan4 mei2 。
+- nai4 jiu3 zhi2 xu1 kan4 sui4 wan3 ， zhui1 huan1 he2 bi4 dai4 chun1 lai2 。
+- shan1 zhong1 zong4 you3 shi1 qian1 shou3 ， hua1 xia4 shui2 tong2 jiu3 yi4 bei1 。
+- gu4 wo3 yu3 jun1 fei1 mian4 you3 ， yuan4 yan2 ming4 jia4 mo4 pai2 huai2 。
 
 ## 注释
 

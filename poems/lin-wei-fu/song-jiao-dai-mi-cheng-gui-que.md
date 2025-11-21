@@ -6,10 +6,10 @@ titleSlug: song-jiao-dai-mi-cheng-gui-que
 author: 林渭夫
 authorPinyin: lin2 wei4 fu1
 authorSlug: lin-wei-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

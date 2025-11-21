@@ -1,30 +1,28 @@
 ---
 id: shi-zheng-jue-shan-ren-xie-zhen-qiu-zan-qi-yi
-title: 禪人寫真求贊  其一
-titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 yi1
+title: 禪人寫真求贊  其一○
+titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 yi1 ○
 titleSlug: shan-ren-xie-zhen-qiu-zan-qi-yi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 默默傳真，如何指陳。
-- 性月不夜，心華長春。
-- 凈有容兮海印，應無爽兮谷神。
-- 覿面相呈諱不得，煩君爲我洗清貧。
+- 貌古骨癯，雲閒月孤。
+- 相隨似有，認著還無。
+- 三千界內誰相外，雙六盤中不到輸。
 
 ## 拼音
 
-- mo4 mo4 chuan2 zhen1 ， ru2 he2 zhi3 chen2 。
-- xing4 yue4 bu2 ye4 ， xin1 hua2 chang2 chun1 。
-- jing4 you3 rong2 xi1 hai3 yin4 ， ying1 wu2 shuang3 xi1 gu3 shen2 。
-- di2 mian4 xiang4 cheng2 hui4 bu4 de2 ， fan2 jun1 wei2 wo3 xi3 qing1 pin2 。
+- mao4 gu3 gu3 qu2 ， yun2 xian2 yue4 gu1 。
+- xiang1 sui2 si4 you3 ， ren4 zhu4 huan2 wu2 。
+- san1 qian1 jie4 nei4 shui2 xiang1 wai4 ， shuang1 liu4 pan2 zhong1 bu2 dao4 shu1 。
 
 ## 注释
 

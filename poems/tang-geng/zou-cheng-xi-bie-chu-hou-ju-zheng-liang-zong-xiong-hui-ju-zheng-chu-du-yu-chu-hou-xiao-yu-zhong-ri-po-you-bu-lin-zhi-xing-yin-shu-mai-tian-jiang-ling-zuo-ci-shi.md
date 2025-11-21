@@ -6,10 +6,10 @@ titleSlug: zou-cheng-xi-bie-chu-hou-ju-zheng-liang-zong-xiong-hui-ju-zheng-chu-d
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

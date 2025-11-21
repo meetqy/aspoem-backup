@@ -6,10 +6,10 @@ titleSlug: feng-pei-mu-fu-shang-shu-zhong-zhi-shi-lang-de-he-li-bu-zhi-qi-sheng-
 author: 蔣之奇
 authorPinyin: jiang3 zhi1 qi2
 authorSlug: jiang-zhi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,24 @@ authorSlug: zhang-hu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 古來名下豈虛爲，李白顛狂自稱時。
-- 唯恨世間無賀老，謫仙長在沒人知。
+- 微風和暖日鮮明，草色迷人向渭城。
+- 越客捲簾閑不語，楚娥攀樹獨含情。
+- 紅垂菓蔕櫻珠重，黃點花鬢粉蝶輕。
+- （「鬢」，嚴疑「鬚」之誤。
+- ）自是青樓無近信，莫將心事問卿卿。
 
 ## 拼音
 
-- gu3 lai2 ming2 xia4 qi3 xu1 wei2 ， li3 bai2 dian1 kuang2 zi4 cheng1 shi2 。
-- wei2 hen4 shi4 jian4 wu2 he4 lao3 ， zhe2 xian1 chang2 zai4 mei2 ren2 zhi1 。
+- wei1 feng1 he2 nuan3 ri4 xian1 ming2 ， cao3 se4 mi2 ren2 xiang4 wei4 cheng2 。
+- yue4 ke4 juan3 lian2 xian2 bu4 yu3 ， chu3 e2 pan1 shu4 du2 han2 qing2 。
+- hong2 chui2 guo3 di4 ying1 zhu1 zhong4 ， huang2 dian3 hua1 bin4 fen3 die2 qing1 。
+- （「 bin4 」， yan2 yi2 「 xu1 」 zhi1 wu4 。
+- ） zi4 shi4 qing1 lou2 wu2 jin4 xin4 ， mo4 jiang1 xin1 shi4 wen4 qing1 qing1 。
 
 ## 注释
 

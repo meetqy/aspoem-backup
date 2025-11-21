@@ -6,10 +6,10 @@ titleSlug: dao-gu-jing-guo-fo-hui-fa-shi
 author: 儲泳
 authorPinyin: chu3 yong3
 authorSlug: chu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

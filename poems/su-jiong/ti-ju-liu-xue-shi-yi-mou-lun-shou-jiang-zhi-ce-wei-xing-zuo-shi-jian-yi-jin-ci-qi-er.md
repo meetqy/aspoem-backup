@@ -6,10 +6,10 @@ titleSlug: ti-ju-liu-xue-shi-yi-mou-lun-shou-jiang-zhi-ce-wei-xing-zuo-shi-jian-
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ding-guang-mei-kai-pu-yi-bing-wei-neng-wang-guan-yi-yuan-ci-ci-lu-qiu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

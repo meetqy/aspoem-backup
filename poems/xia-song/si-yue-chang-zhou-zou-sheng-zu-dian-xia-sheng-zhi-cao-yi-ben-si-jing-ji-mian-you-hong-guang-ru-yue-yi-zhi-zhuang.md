@@ -6,10 +6,10 @@ titleSlug: si-yue-chang-zhou-zou-sheng-zu-dian-xia-sheng-zhi-cao-yi-ben-si-jing-
 author: 夏竦
 authorPinyin: xia4 song3
 authorSlug: xia-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

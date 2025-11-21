@@ -14,8 +14,8 @@ tags: []
 
 ## 正文
 
-- 天上軒星正，雲開湛露垂。
-- 禮容過渭水，宴喜勝瑶池。
+- 天上軒星正，雲間湛露垂。
+- 禮容過渭水，宴喜勝瑤池。
 - 彩霧籠花燭，升龍肅羽儀。
 - 君臣歡樂日，文物盛明時。
 - 簾捲銀河轉，香凝玉漏遲。
@@ -23,7 +23,7 @@ tags: []
 
 ## 拼音
 
-- tian1 shang4 xuan1 xing1 zheng4 ， yun2 kai1 zhan4 lu4 chui2 。
+- tian1 shang4 xuan1 xing1 zheng4 ， yun2 jian4 zhan4 lu4 chui2 。
 - li3 rong2 guo4 wei4 shui3 ， yan4 xi3 sheng4 yao2 chi2 。
 - cai3 wu4 long2 hua1 zhu2 ， sheng1 long2 su4 yu3 yi2 。
 - jun1 chen2 huan1 le4 ri4 ， wen2 wu4 sheng4 ming2 shi2 。

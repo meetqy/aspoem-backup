@@ -6,10 +6,10 @@ titleSlug: wen-chong-an-xian-xue-li-bei
 author: 熊禾
 authorPinyin: xiong2 he2
 authorSlug: xiong-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

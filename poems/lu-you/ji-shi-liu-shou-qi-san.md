@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日上小窗東，禽鳴高樹中。
-- 樂哉容膝地，著此曲肱翁。
-- 香迮常遲散，兒來亦旋通。
-- 所慚貪坐睡，鉛槧少新功。
+- 閑行靜坐樂誰知，紅飯青蔬美有餘。
+- 常笑癡人不更事，時時愁嘆欲何須。
 
 ## 拼音
 
-- ri4 shang4 xiao3 chuang1 dong1 ， qin2 ming2 gao1 shu4 zhong1 。
-- le4 zai1 rong2 xi1 di4 ， zhu4 ci3 qu1 gong1 weng1 。
-- xiang1 ze2 chang2 chi2 san4 ， er2 lai2 yi4 xuan2 tong1 。
-- suo3 can2 tan1 zuo4 shui4 ， qian1 qian4 shao3 xin1 gong1 。
+- xian2 xing2 jing4 zuo4 le4 shui2 zhi1 ， hong2 fan4 qing1 shu1 mei3 you3 yu2 。
+- chang2 xiao4 chi1 ren2 bu4 geng1 shi4 ， shi2 shi2 chou2 tan4 yu4 he2 xu1 。
 
 ## 注释
 

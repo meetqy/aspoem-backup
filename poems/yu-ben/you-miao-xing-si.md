@@ -6,10 +6,10 @@ titleSlug: you-miao-xing-si
 author: 俞本
 authorPinyin: yu2 ben3
 authorSlug: yu-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

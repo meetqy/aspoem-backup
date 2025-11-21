@@ -6,10 +6,10 @@ titleSlug: jiang-ci-shi-zhou-xian-ji-zhang-shi-jiu-shi-jun-san-shou-qi-er
 author: 黄叔達
 authorPinyin: huang2 shu1 da2
 authorSlug: huang-shu-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wang-zi-zhi-qu-sui-song-zi-you-bei-gui-wang-fan-bai-she-jin-you-xiang
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

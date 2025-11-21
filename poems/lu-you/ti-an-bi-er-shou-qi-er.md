@@ -6,25 +6,25 @@ titleSlug: ti-an-bi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身似蝸牛粗有廬，却緣無用得安居。
-- 地爐封火欺寒雨，紙閣油窗見細書。
-- 蕎熟山僧分餺飥，船來溪友餉薪樗。
-- 閉門莫笑衰頹甚，讀易論詩亦未疏。
+- 衰髮蕭疏雪滿巾，君恩乞與自由身。
+- 身并猿鶴爲三友，家託烟波作四鄰。
+- 十日風號未成雪，一年梅發又催春。
+- 漁舟底用勤相覓，本避浮名不避人。
 
 ## 拼音
 
-- shen1 si4 wo1 niu2 cu1 you3 lu2 ， que4 yuan2 wu2 yong4 de2 an1 ju1 。
-- di4 lu2 feng1 huo3 qi1 han2 yu3 ， zhi3 ge2 you2 chuang1 jian4 xi4 shu1 。
-- qiao2 shu2 shan1 seng1 fen1 bo2 tuo1 ， chuan2 lai2 xi1 you3 xiang3 xin1 chu1 。
-- bi4 men2 mo4 xiao4 shuai1 tui2 shen4 ， du2 yi4 lun4 shi1 yi4 wei4 shu1 。
+- shuai1 fa4 xiao1 shu1 xue3 man3 jin1 ， jun1 en1 qi3 yu3 zi4 you2 shen1 。
+- shen1 bing4 yuan2 he4 wei2 san1 you3 ， jia1 tuo1 yan1 bo1 zuo4 si4 lin2 。
+- shi2 ri4 feng1 hao4 wei4 cheng2 xue3 ， yi4 nian2 mei2 fa1 you4 cui1 chun1 。
+- yu2 zhou1 di3 yong4 qin2 xiang1 mi4 ， ben3 bi4 fu2 ming2 bu2 bi4 ren2 。
 
 ## 注释
 

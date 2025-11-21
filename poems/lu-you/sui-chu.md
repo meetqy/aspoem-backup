@@ -6,25 +6,25 @@ titleSlug: sui-chu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貧士善用短，屏居常自如。
-- 出尋鄰叟語，歸讀古人書。
-- 過店亦沽酒，登山時跨驢。
-- 非關傲塵世，聊欲遂吾初。
+- 狂本類三閭，歸仍慕二疏。
+- 何由滿人笑，但可遂吾初。
+- 奕奕沙堤馬，栖栖下澤車。
+- 細看俱外物，俯首老犁鋤。
 
 ## 拼音
 
-- pin2 shi4 shan4 yong4 duan3 ， ping2 ju1 chang2 zi4 ru2 。
-- chu1 xun2 lin2 sou3 yu3 ， gui1 du2 gu3 ren2 shu1 。
-- guo4 dian4 yi4 gu1 jiu3 ， deng1 shan1 shi2 kua4 lü2 。
-- fei1 guan1 ao4 chen2 shi4 ， liao2 yu4 sui4 wu2 chu1 。
+- kuang2 ben3 lei4 san1 lü2 ， gui1 reng2 mu4 er4 shu1 。
+- he2 you2 man3 ren2 xiao4 ， dan4 ke3 sui4 wu2 chu1 。
+- yi4 yi4 sha1 di1 ma3 ， qi1 qi1 xia4 ze2 ju1 。
+- xi4 kan4 ju4 wai4 wu4 ， fu3 shou3 lao3 li2 chu2 。
 
 ## 注释
 

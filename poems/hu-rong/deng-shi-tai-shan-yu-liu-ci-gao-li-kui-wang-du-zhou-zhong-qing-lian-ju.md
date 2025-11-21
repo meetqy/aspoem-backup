@@ -6,10 +6,10 @@ titleSlug: deng-shi-tai-shan-yu-liu-ci-gao-li-kui-wang-du-zhou-zhong-qing-lian-j
 author: 胡融
 authorPinyin: hu2 rong2
 authorSlug: hu-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

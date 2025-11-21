@@ -6,25 +6,25 @@ titleSlug: ye-zuo-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世法人情已盡拋，深林自占一枝巢。
-- 病來不飲疎歡伯，老去惟書作淡交。
-- 馬尾動煩刊筆誤，蠅頭尚可就燈抄。
-- 山空月落商歌起，不管秋風捲屋茅。
+- 併擁三重絮，猶新二尺檠。
+- 屋高先見月，城遠忽聞更。
+- 藜杖光芒歇，茅柴力量輕。
+- 若非簷鐵響，淡殺老書生。
 
 ## 拼音
 
-- shi4 fa3 ren2 qing2 yi3 jin4 pao1 ， shen1 lin2 zi4 zhan4 yi4 zhi1 chao2 。
-- bing4 lai2 bu4 yin3 shu1 huan1 bo2 ， lao3 qu4 wei2 shu1 zuo4 dan4 jiao1 。
-- ma3 wei3 dong4 fan2 kan1 bi3 wu4 ， ying2 tou2 shang4 ke3 jiu4 deng1 chao1 。
-- shan1 kong1 yue4 luo4 shang1 ge1 qi3 ， bu4 guan3 qiu1 feng1 juan3 wu1 mao2 。
+- bing4 yong1 san1 chong2 xu4 ， you2 xin1 er4 chi3 qing2 。
+- wu1 gao1 xian1 jian4 yue4 ， cheng2 yuan3 hu1 wen2 geng4 。
+- li2 zhang4 guang1 mang2 xie1 ， mao2 chai2 li4 liang4 qing1 。
+- ruo4 fei1 yan2 tie3 xiang3 ， dan4 sha1 lao3 shu1 sheng1 。
 
 ## 注释
 

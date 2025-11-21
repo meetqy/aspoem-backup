@@ -6,45 +6,49 @@ titleSlug: ci-yun-yu-si-li
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 名分屬我輩，那容狥多可。
-- 勢由服勞屈，享以綦貴夥。
-- 積水須固防，易溢不難破。
-- 勸沮自有機，懲一警千箇。
-- 世儒略其本，顧詳獄犴課。
-- 彼頑工抵巇，未可援宥過。
-- 奸名犯具分，論罪不在大。
-- 吏姦易爲熾，士氣寧受挫。
-- 漏網容汝輩，厚顔向此座。
-- 新詩驚老眼，唱高信難和。
-- 向來搏虎手，老去但慵懦。
-- 近者勞阿買，金薤編玉唾。
-- 此詩尤傑出，氣有江山佐。
-- 揆予收新得，比君倍當賀。
+- 一從荆楚役，八數昏旦星。
+- 剸裁有瑣碎，觴詠無頻仍。
+- 世故未焚券，官曹方治經。
+- 客或嗤臞儒，下亦安聾丞。
+- 過日念知己，遠方空舊朋。
+- 持斧迺宗匠，歃血主文盟。
+- 天瓢賸挹注，風翼困凌乘。
+- 袖憐醉墨淄，眼爲故交青。
+- 招此窮鄉吏，闖彼小玉京。
+- 樽罍容吟噱，粉黛羅娉盈。
+- 理窟領新得，詩瓢傾舊盛。
+- 風前雕虎嘯，秋後寒蛩鳴。
+- 六花嚴堅陣，尺箠鏖罷兵。
+- 是翁信奇偉，小子慚奉承。
+- 攘善悖古訓，躗言防天刑。
+- 見推無異辭，君語吾未憑。
 
 ## 拼音
 
-- ming2 fen4 shu3 wo3 bei4 ， na4 rong2 xun4 duo1 ke3 。
-- shi4 you2 fu2 lao2 qu1 ， xiang3 yi3 qi2 gui4 huo3 。
-- ji1 shui3 xu1 gu4 fang2 ， yi4 yi4 bu4 nan2 po4 。
-- quan4 ju3 zi4 you3 ji1 ， cheng2 yi4 jing3 qian1 ge4 。
-- shi4 ru2 lüe4 qi2 ben3 ， gu4 xiang2 yu4 an4 ke4 。
-- bi3 wan2 gong1 di3 xi1 ， wei4 ke3 yuan2 you4 guo4 。
-- jian1 ming2 fan4 ju4 fen1 ， lun4 zui4 bu2 zai4 da4 。
-- li4 jian1 yi4 wei2 chi4 ， shi4 qi4 ning2 shou4 cuo4 。
-- lou4 wang3 rong2 ru3 bei4 ， hou4 yan2 xiang4 ci3 zuo4 。
-- xin1 shi1 jing1 lao3 yan3 ， chang4 gao1 xin4 nan2 he2 。
-- xiang4 lai2 bo2 hu3 shou3 ， lao3 qu4 dan4 yong1 nuo4 。
-- jin4 zhe3 lao2 a1 mai3 ， jin1 xie4 bian1 yu4 tuo4 。
-- ci3 shi1 you2 jie2 chu1 ， qi4 you3 jiang1 shan1 zuo3 。
-- kui2 yu3 shou1 xin1 de2 ， bi3 jun1 bei4 dang1 he4 。
+- yi4 cong2 jing1 chu3 yi4 ， ba1 shu4 hun1 dan4 xing1 。
+- tuan2 cai2 you3 suo3 sui4 ， shang1 yong3 wu2 bin1 reng2 。
+- shi4 gu4 wei4 fen2 quan4 ， guan1 cao2 fang1 zhi4 jing1 。
+- ke4 huo4 chi1 qu2 ru2 ， xia4 yi4 an1 long2 cheng2 。
+- guo4 ri4 nian4 zhi1 ji3 ， yuan3 fang1 kong1 jiu4 peng2 。
+- chi2 fu3 nai3 zong1 jiang4 ， sha4 xue4 zhu3 wen2 meng2 。
+- tian1 piao2 sheng4 yi4 zhu4 ， feng1 yi4 kun4 ling2 cheng2 。
+- xiu4 lian2 zui4 mo4 zi1 ， yan3 wei2 gu4 jiao1 qing1 。
+- zhao1 ci3 qiong2 xiang1 li4 ， chuang3 bi3 xiao3 yu4 jing1 。
+- zun1 lei2 rong2 yin2 jue2 ， fen3 dai4 luo2 ping1 ying2 。
+- li3 ku1 ling3 xin1 de2 ， shi1 piao2 qing1 jiu4 sheng4 。
+- feng1 qian2 diao1 hu3 xiao4 ， qiu1 hou4 han2 qiong2 ming2 。
+- liu4 hua1 yan2 jian1 zhen4 ， chi3 chui2 ao2 ba4 bing1 。
+- shi4 weng1 xin4 qi2 wei3 ， xiao3 zi0 can2 feng4 cheng0 。
+- rang3 shan4 bei4 gu3 xun4 ， wei4 yan2 fang2 tian1 xing2 。
+- jian4 tui1 wu2 yi4 ci2 ， jun1 yu3 wu2 wei4 ping2 。
 
 ## 注释
 

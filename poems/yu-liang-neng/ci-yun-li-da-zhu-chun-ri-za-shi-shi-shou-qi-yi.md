@@ -1,30 +1,30 @@
 ---
 id: yu-liang-neng-ci-yun-li-da-zhu-chun-ri-za-shi-shi-shou-qi-yi
-title: 次韻李大著春日雜詩十首  其一
-titlePinyin: ci4 yun4 li3 da4 zhu4 chun1 ri4 za2 shi1 shi2 shou3     qi2 yi1
+title: 次韻李大著春日雜詩十首  其一○
+titlePinyin: ci4 yun4 li3 da4 zhu4 chun1 ri4 za2 shi1 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-li-da-zhu-chun-ri-za-shi-shi-shou-qi-yi
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春晚饒芳景，官閒得細看。
-- 隔窗黄鳥並，開卷壁魚乾。
-- 過雨蒼苔濕，迎風翠竹寒。
-- 髮華搔更短，斗酒自相寬。
+- 二載違枌社，全家客帝都。
+- 濁醪充上頓，清俸付中厨。
+- 親老唯須養，皇恩詎敢孤。
+- 逍遥處山澤，未忍學仙臞。
 
 ## 拼音
 
-- chun1 wan3 rao2 fang1 jing3 ， guan1 xian2 de2 xi4 kan4 。
-- ge2 chuang1 huang2 niao3 bing4 ， kai1 juan4 bi4 yu2 qian2 。
-- guo4 yu3 cang1 tai2 shi1 ， ying2 feng1 cui4 zhu2 han2 。
-- fa4 hua2 sao1 geng4 duan3 ， dou4 jiu3 zi4 xiang1 kuan1 。
+- er4 zai4 wei2 fen2 she4 ， quan2 jia1 ke4 di4 du1 。
+- zhuo2 lao2 chong1 shang4 dun4 ， qing1 feng4 fu4 zhong1 chu2 。
+- qin1 lao3 wei2 xu1 yang3 ， huang2 en1 ju4 gan3 gu1 。
+- xiao1 yao2 chu3 shan1 ze2 ， wei4 ren3 xue2 xian1 qu2 。
 
 ## 注释
 

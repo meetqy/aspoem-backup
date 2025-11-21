@@ -14,11 +14,11 @@ tags: []
 
 ## 正文
 
-- 萬國未得雨，孤雲猶在山。
+- 萬國不得雨，孤雲猶在山。
 
 ## 拼音
 
-- wan4 guo2 wei4 de2 yu3 ， gu1 yun2 you2 zai4 shan1 。
+- wan4 guo2 bu4 de2 yu3 ， gu1 yun2 you2 zai4 shan1 。
 
 ## 注释
 

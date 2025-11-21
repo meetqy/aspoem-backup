@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ji-ti-lu-bo-ke-jian-yi-tang-qi-san
-title: 寄題鹿伯可見一堂・其三
-titlePinyin: ji4 ti2 lu4 bo2 ke3 jian4 yi4 tang2・qi2 san1
+title: 寄題鹿伯可見一堂  其三
+titlePinyin: ji4 ti2 lu4 bo2 ke3 jian4 yi4 tang2     qi2 san1
 titleSlug: ji-ti-lu-bo-ke-jian-yi-tang-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

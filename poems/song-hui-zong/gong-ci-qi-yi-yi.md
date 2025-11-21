@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲臺呈瑞出坤珍，龍角層芝玉色新。
-- 從此九莖何足尚，圖書麟閣永無倫。
+- 資善堂中几席開，詞臣都是棟梁材。
+- 專求近密同參輔，皇嗣初看聽讀來。
 
 ## 拼音
 
-- yun2 tai2 cheng2 rui4 chu1 kun1 zhen1 ， long2 jiao3 ceng2 zhi1 yu4 se4 xin1 。
-- cong2 ci3 jiu3 jing4 he2 zu2 shang4 ， tu2 shu1 lin2 ge2 yong3 wu2 lun2 。
+- zi1 shan4 tang2 zhong1 ji3 xi2 kai1 ， ci2 chen2 dou1 shi4 dong4 liang2 cai2 。
+- zhuan1 qiu2 jin4 mi4 tong2 can1 fu3 ， huang2 si4 chu1 kan4 ting1 du2 lai2 。
 
 ## 注释
 

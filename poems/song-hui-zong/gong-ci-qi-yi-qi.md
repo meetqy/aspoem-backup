@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠芳庭宇疊山圍，路轉龍盤燦陸離。
-- 響石因風飄冷韻，小碑刊勒祖宗詩。
+- 翠蓮秋盛覆池塘，綠柄風搖一派香。
+- 欲結珍苞供勝賞，隨時均錫到蘭房。
 
 ## 拼音
 
-- cui4 fang1 ting2 yu3 die2 shan1 wei2 ， lu4 zhuan3 long2 pan2 can4 lu4 li2 。
-- xiang3 shi2 yin1 feng1 piao1 leng3 yun4 ， xiao3 bei1 kan1 le4 zu3 zong0 shi1 。
+- cui4 lian2 qiu1 sheng4 fu4 chi2 tang2 ， lü4 bing3 feng1 yao2 yi2 pai4 xiang1 。
+- yu4 jie2 zhen1 bao1 gong4 sheng4 shang3 ， sui2 shi2 jun1 xi1 dao4 lan2 fang2 。
 
 ## 注释
 

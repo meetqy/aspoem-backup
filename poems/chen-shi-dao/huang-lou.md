@@ -6,21 +6,25 @@ titleSlug: huang-lou
 author: 陳師道
 authorPinyin: chen2 shi1 dao4
 authorSlug: chen-shi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 樓上當當徹夜聲，與人何事有枯榮。
-- 已傳紙貴咸陽市，更恐書留後世名。
+- 樓以風流勝，情緣貴賤移。
+- 屏亡老畢篆，市發大蘇碑。
+- 更覺江山好，難忘父老思。
+- 只應千載後，覽古勝當時。
 
 ## 拼音
 
-- lou2 shang4 dang1 dang1 che4 ye4 sheng1 ， yu3 ren2 he2 shi4 you3 ku1 rong2 。
-- yi3 chuan2 zhi3 gui4 xian2 yang2 shi4 ， geng4 kong3 shu1 liu2 hou4 shi4 ming2 。
+- lou2 yi3 feng1 liu2 sheng4 ， qing2 yuan2 gui4 jian4 yi2 。
+- ping2 wang2 lao3 bi4 zhuan4 ， shi4 fa1 da4 su1 bei1 。
+- geng4 jue2 jiang1 shan1 hao3 ， nan2 wang4 fu4 lao3 si1 。
+- zhi1 ying1 qian1 zai4 hou4 ， lan3 gu3 sheng4 dang1 shi2 。
 
 ## 注释
 

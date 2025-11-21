@@ -6,10 +6,10 @@ titleSlug: song-zhao-hou-zhi-ren
 author: 戴雨耕
 authorPinyin: dai4 yu3 geng1
 authorSlug: dai-yu-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

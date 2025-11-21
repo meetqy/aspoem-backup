@@ -6,10 +6,10 @@ titleSlug: jiu-yue-er-shi-wu-ri-zhong-zhi-xie-jiu-yu-ke-xiang-guo-yin-wei-zuo-sh
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ling-yan-shan-si
 author: 王大寶
 authorPinyin: wang2 da4 bao3
 authorSlug: wang-da-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

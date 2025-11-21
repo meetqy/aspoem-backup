@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 袁君儒
 authorPinyin: yuan2 jun1 ru2
 authorSlug: yuan-jun-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

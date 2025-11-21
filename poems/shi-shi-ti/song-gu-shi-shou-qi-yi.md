@@ -1,26 +1,26 @@
 ---
 id: shi-shi-ti-song-gu-shi-shou-qi-yi
-title: 頌古十首  其一
-titlePinyin: song4 gu3 shi2 shou3     qi2 yi1
+title: 頌古十首  其一○
+titlePinyin: song4 gu3 shi2 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-shou-qi-yi
 author: 釋師體
 authorPinyin: shi4 shi1 ti3
 authorSlug: shi-shi-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三清道士無仙骨，八教闍梨毀梵書。
-- 黑添崑崙舞華鼓，天親無著暗嗟吁。
+- 男兒脚底透長安，得坐披衣肯自謾。
+- 三尺冷光輝夜月，一條秋水迸人寒。
 
 ## 拼音
 
-- san1 qing1 dao4 shi0 wu2 xian1 gu3 ， ba1 jiao4 du1 li2 hui3 fan4 shu1 。
-- hei1 tian1 kun1 lun2 wu3 hua2 gu3 ， tian1 qin1 wu2 zhu4 an4 jie1 xu1 。
+- nan2 er2 jiao3 di3 tou4 chang2 an1 ， de2 zuo4 pi1 yi1 ken3 zi4 man2 。
+- san1 chi3 leng3 guang1 hui1 ye4 yue4 ， yi4 tiao2 qiu1 shui3 beng4 ren2 han2 。
 
 ## 注释
 

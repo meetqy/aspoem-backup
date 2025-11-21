@@ -6,10 +6,10 @@ titleSlug: huang-di-dong-zhi-yu-da-qing-dian-ju-di-er-zhan-jiu-zou-jia-he-zhi-qu
 author: 王珪
 authorPinyin: wang2 gui1
 authorSlug: wang-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-song-ju-qing-yun-ji-ti-ling-yan
 author: 劉公度
 authorPinyin: liu2 gong1 du4
 authorSlug: liu-gong-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

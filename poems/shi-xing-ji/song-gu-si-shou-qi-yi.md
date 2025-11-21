@@ -6,10 +6,10 @@ titleSlug: song-gu-si-shou-qi-yi
 author: 釋行機
 authorPinyin: shi4 xing2 ji1
 authorSlug: shi-xing-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: tai-qian
 author: 趙福元
 authorPinyin: zhao4 fu2 yuan2
 authorSlug: zhao-fu-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

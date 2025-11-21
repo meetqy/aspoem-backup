@@ -6,10 +6,10 @@ titleSlug: la-mei
 author: 吳永濟
 authorPinyin: wu2 yong3 ji4
 authorSlug: wu-yong-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

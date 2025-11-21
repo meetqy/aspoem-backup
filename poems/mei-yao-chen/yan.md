@@ -6,25 +6,25 @@ titleSlug: yan
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 涎涎隻來燕，飛飛自舞空。
-- 輕如漢家后，斜避楚臺風。
-- 斗折撩沙觜，相高接草蟲。
-- 向人全不畏，切莫入吳宮。
+- 一避吳宮火，千年楚屋春。
+- 翅迎風雨健，聲入戶庭頻。
+- 掠水過長渚，銜蟲落覆塵。
+- 休將漢皇后，故故比輕身。
 
 ## 拼音
 
-- xian2 xian2 zhi1 lai2 yan4 ， fei1 fei1 zi4 wu3 kong1 。
-- qing1 ru2 han4 jia1 hou4 ， xie2 bi4 chu3 tai2 feng1 。
-- dou4 zhe2 liao2 sha1 zi1 ， xiang1 gao1 jie1 cao3 chong2 。
-- xiang4 ren2 quan2 bu2 wei4 ， qie4 mo4 ru4 wu2 gong1 。
+- yi2 bi4 wu2 gong1 huo3 ， qian1 nian2 chu3 wu1 chun1 。
+- chi4 ying2 feng1 yu3 jian4 ， sheng1 ru4 hu4 ting2 bin1 。
+- lüe4 shui3 guo4 chang2 zhu3 ， xian2 chong2 luo4 fu4 chen2 。
+- xiu1 jiang1 han4 huang2 hou4 ， gu4 gu4 bi3 qing1 shen1 。
 
 ## 注释
 

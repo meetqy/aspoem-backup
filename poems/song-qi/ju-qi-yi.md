@@ -1,24 +1,24 @@
 ---
 id: song-qi-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 色映堋雲爛，聲迎羽月遲。
+- 碧雲謾有三年信，明月空爲兩地愁。
 
 ## 拼音
 
-- se4 ying4 peng2 yun2 lan4 ， sheng1 ying2 yu3 yue4 chi2 。
+- bi4 yun2 man2 you3 san1 nian2 xin4 ， ming2 yue4 kong1 wei2 liang3 di4 chou2 。
 
 ## 注释
 

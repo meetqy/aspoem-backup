@@ -6,25 +6,25 @@ titleSlug: xue
 author: 洪芻
 authorPinyin: hong2 chu2
 authorSlug: hong-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 越犬舊聞冬吠雪，閩天今見雪中梅。
-- 朔風掃蕩宿霾盡，苦霧驅除霽色開。
-- 情共酒盃渾欲淺，心隨爐炭欲成灰。
-- 我來正落黄茅後，茅未黄時儻得回。
+- 撩人縢六索題詩，頼有支郎爲解圍。
+- 永夜祇宜燋兔好，彤雲不見織烏飛。
+- 少林未許齊腰立，青女無端接手歸。
+- 想得廬山幽絕處，洒林壓竹更增輝。
 
 ## 拼音
 
-- yue4 quan3 jiu4 wen2 dong1 fei4 xue3 ， min3 tian1 jin1 jian4 xue3 zhong1 mei2 。
-- shuo4 feng1 sao3 dang4 su4 mai2 jin4 ， ku3 wu4 qu1 chu2 ji4 se4 kai1 。
-- qing2 gong4 jiu3 bei1 hun2 yu4 qian3 ， xin1 sui2 lu2 tan4 yu4 cheng2 hui1 。
-- wo3 lai2 zheng4 luo4 huang2 mao2 hou4 ， mao2 wei4 huang2 shi2 tang3 de2 hui2 。
+- liao2 ren2 teng2 liu4 suo3 ti2 shi1 ， lai4 you3 zhi1 lang2 wei2 jie3 wei2 。
+- yong3 ye4 qi2 yi2 jiao1 tu4 hao3 ， tong2 yun2 bu2 jian4 zhi1 wu1 fei1 。
+- shao4 lin2 wei4 xu1 qi2 yao1 li4 ， qing1 nü3 wu2 duan1 jie1 shou3 gui1 。
+- xiang3 de2 lu2 shan1 you1 jue2 chu3 ， sa3 lin2 ya1 zhu2 geng4 zeng1 hui1 。
 
 ## 注释
 

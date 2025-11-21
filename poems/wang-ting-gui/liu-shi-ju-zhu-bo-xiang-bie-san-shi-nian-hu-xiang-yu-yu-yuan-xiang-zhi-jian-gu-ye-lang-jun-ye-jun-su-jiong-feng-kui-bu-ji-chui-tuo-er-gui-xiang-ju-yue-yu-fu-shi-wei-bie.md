@@ -6,10 +6,10 @@ titleSlug: liu-shi-ju-zhu-bo-xiang-bie-san-shi-nian-hu-xiang-yu-yu-yuan-xiang-zh
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

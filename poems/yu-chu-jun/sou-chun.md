@@ -6,10 +6,10 @@ titleSlug: sou-chun
 author: 俞處俊
 authorPinyin: yu2 chu3 jun4
 authorSlug: yu-chu-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

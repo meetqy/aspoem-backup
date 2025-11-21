@@ -6,10 +6,10 @@ titleSlug: liu-shou-tai-wei-xiang-gong-jiu-ju-wei-qi-nian-zhi-hui-cheng-ming-fu-
 author: 富弼
 authorPinyin: fu4 bi4
 authorSlug: fu-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

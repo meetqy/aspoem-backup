@@ -6,25 +6,21 @@ titleSlug: shu-tan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 尺椽不改結茅初，薄粥猶艱卒歲儲。
-- 猧子解迎門外客，狸奴知護案間書。
-- 深林閑數新添筍，小沼時觀舊放魚。
-- 自笑從來徒步慣，歸休枉道是懸車。
+- 雨夜孤舟宿鏡湖，秋聲蕭瑟滿菰蒲。
+- 書生有泪無揮處，尋見祥符九域圖。
 
 ## 拼音
 
-- chi3 chuan2 bu4 gai3 jie2 mao2 chu1 ， bao2 zhou1 you2 jian1 zu2 sui4 chu3 。
-- wo1 zi3 jie3 ying2 men2 wai4 ke4 ， li2 nu2 zhi1 hu4 an4 jian4 shu1 。
-- shen1 lin2 xian2 shu4 xin1 tian1 sun3 ， xiao3 zhao3 shi2 guan1 jiu4 fang4 yu2 。
-- zi4 xiao4 cong2 lai2 tu2 bu4 guan4 ， gui1 xiu1 wang3 dao4 shi4 xuan2 ju1 。
+- yu3 ye4 gu1 zhou1 su4 jing4 hu2 ， qiu1 sheng1 xiao1 se4 man3 gu1 pu2 。
+- shu1 sheng1 you3 lei4 wu2 hui1 chu3 ， xun2 jian4 xiang2 fu2 jiu3 yu4 tu2 。
 
 ## 注释
 

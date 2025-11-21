@@ -6,10 +6,10 @@ titleSlug: shi-zi
 author: 侯友彰
 authorPinyin: hou2 you3 zhang1
 authorSlug: hou-you-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

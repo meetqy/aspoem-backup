@@ -6,10 +6,10 @@ titleSlug: wan-li-bo-guang-wai-gu-cheng-nan-ji-xi
 author: 李時亮
 authorPinyin: li3 shi2 liang4
 authorSlug: li-shi-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

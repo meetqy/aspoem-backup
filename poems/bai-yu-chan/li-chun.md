@@ -6,21 +6,21 @@ titleSlug: li-chun
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 顓帝位方禪，勾芒印已交。
-- 芭蕉有封事，黄鳥莫譊譊。
+- 東風吹散梅梢雪，一夜挽回天下春。
+- 從此陽春應有脚，百花富貴草精神。
 
 ## 拼音
 
-- zhuan1 di4 wei4 fang1 shan4 ， gou1 mang2 yin4 yi3 jiao1 。
-- ba1 jiao1 you3 feng1 shi4 ， huang2 niao3 mo4 nao2 nao2 。
+- dong1 feng1 chui1 san4 mei2 shao1 xue3 ， yi2 ye4 wan3 hui2 tian1 xia4 chun1 。
+- cong2 ci3 yang2 chun1 ying1 you3 jiao3 ， bai3 hua1 fu4 gui4 cao3 jing1 shen2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: qu-guo
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 馬劍何妨壯，琴書半不輕。
-- 心通平野闊，眼接衆山明。
-- 老大空行李，疏慵豈利名。
-- 夏侯知苦學，殊未勸歸耕。
+- 年來去國故遲遲，坂上長鳴老益悲。
+- 不作居山慚捷逕，彊須了事學癡兒。
+- 風霜冷面何能笑，藜藿空腸未厭饑。
+- 里巷定無楊得意，朝廷合有鄭當時。
 
 ## 拼音
 
-- ma3 jian4 he2 fang2 zhuang4 ， qin2 shu1 ban4 bu4 qing1 。
-- xin1 tong1 ping2 ye3 kuo4 ， yan3 jie1 zhong4 shan1 ming2 。
-- lao3 da4 kong1 xing2 li0 ， shu1 yong1 qi3 li4 ming2 。
-- xia4 hou2 zhi1 ku3 xue2 ， shu1 wei4 quan4 gui1 geng1 。
+- nian2 lai2 qu4 guo2 gu4 chi2 chi2 ， ban3 shang4 chang2 ming2 lao3 yi4 bei1 。
+- bu2 zuo4 ju1 shan1 can2 jie2 jing4 ， qiang2 xu1 liao3 shi4 xue2 chi1 er2 。
+- feng1 shuang1 leng3 mian4 he2 neng2 xiao4 ， li2 huo4 kong1 chang2 wei4 yan4 ji1 。
+- li3 xiang4 ding4 wu2 yang2 de2 yi4 ， chao2 ting2 he2 you3 zheng4 dang1 shi2 。
 
 ## 注释
 

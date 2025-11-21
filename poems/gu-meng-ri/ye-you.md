@@ -6,10 +6,10 @@ titleSlug: ye-you
 author: 顧夢日
 authorPinyin: gu4 meng4 ri4
 authorSlug: gu-meng-ri
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

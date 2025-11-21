@@ -6,9 +6,9 @@ titleSlug: shu-shi-shu-huai-feng-ji-min-biao-xiong-shi-ri-de-min-biao-shu
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

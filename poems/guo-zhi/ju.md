@@ -6,9 +6,9 @@ titleSlug: ju
 author: 郭贄
 authorPinyin: guo1 zhi4
 authorSlug: guo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

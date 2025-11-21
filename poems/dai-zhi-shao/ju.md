@@ -6,10 +6,10 @@ titleSlug: ju
 author: 戴之邵
 authorPinyin: dai4 zhi1 shao4
 authorSlug: dai-zhi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

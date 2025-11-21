@@ -6,25 +6,25 @@ titleSlug: he-ren-yun
 author: 辛棄疾
 authorPinyin: xin1 qi4 ji2
 authorSlug: xin-qi-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老奴權至使將軍，非所宜蒙定可黥。
-- 嫫母侏儒曾一笑，瓠壺藤蔓便相縈。
-- 解紛已見立談頃，漏網從今太橫生。
-- 豈是人間重生女，只應詩老例多情。
+- 老來筋力上山遲，過眼風光自崛奇。
+- 擬放狂歌花已笑，正羞短髮雪偏垂。
+- 谿山能破幾緉屐，風雨連催十二時。
+- 且鎖君詩怕飛去，從人喚我虎頭癡。
 
 ## 拼音
 
-- lao3 nu2 quan2 zhi4 shi3 jiang1 jun1 ， fei1 suo3 yi2 meng2 ding4 ke3 qing2 。
-- mo2 mu3 zhu1 ru2 ceng2 yi2 xiao4 ， hu4 hu2 teng2 wan4 bian4 xiang1 ying2 。
-- jie3 fen1 yi3 jian4 li4 tan2 qing3 ， lou4 wang3 cong2 jin1 tai4 heng2 sheng1 。
-- qi3 shi4 ren2 jian4 chong2 sheng1 nü3 ， zhi1 ying1 shi1 lao3 li4 duo1 qing2 。
+- lao3 lai2 jin1 li4 shang4 shan1 chi2 ， guo4 yan3 feng1 guang1 zi4 jue2 qi2 。
+- ni3 fang4 kuang2 ge1 hua1 yi3 xiao4 ， zheng4 xiu1 duan3 fa4 xue3 pian1 chui2 。
+- xi1 shan1 neng2 po4 ji1 liang3 ji1 ， feng1 yu3 lian2 cui1 shi2 er4 shi2 。
+- qie3 suo3 jun1 shi1 pa4 fei1 qu4 ， cong2 ren2 huan4 wo3 hu3 tou2 chi1 。
 
 ## 注释
 

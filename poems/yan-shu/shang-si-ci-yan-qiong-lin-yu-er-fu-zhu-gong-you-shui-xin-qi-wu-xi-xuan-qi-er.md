@@ -6,10 +6,10 @@ titleSlug: shang-si-ci-yan-qiong-lin-yu-er-fu-zhu-gong-you-shui-xin-qi-wu-xi-xua
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

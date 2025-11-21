@@ -1,24 +1,24 @@
 ---
 id: chen-ya-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 陳亞
 authorPinyin: chen2 ya1
 authorSlug: chen-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 若是道人頭不白，老人當日合烏頭。
+- 浪平山接影，山盡樹回根。
 
 ## 拼音
 
-- ruo4 shi4 dao4 ren2 tou2 bu4 bai2 ， lao3 ren2 dang1 ri4 he2 wu1 tou2 。
+- lang4 ping2 shan1 jie1 ying3 ， shan1 jin4 shu4 hui2 gen1 。
 
 ## 注释
 

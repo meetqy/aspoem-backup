@@ -6,10 +6,10 @@ titleSlug: ceng-xiong-hui-ran-jian-lin-du-xu-shi-qi-shi-yi-xian-zhe-yi-mo-qi-sho
 author: 李大異
 authorPinyin: li3 da4 yi4
 authorSlug: li-da-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋彥岑
 authorPinyin: shi4 yan4 cen2
 authorSlug: shi-yan-cen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: dao-liang-gong
 author: 趙汝諤
 authorPinyin: zhao4 ru3 e4
 authorSlug: zhao-ru-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

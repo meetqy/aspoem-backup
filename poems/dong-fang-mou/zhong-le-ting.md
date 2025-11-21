@@ -6,10 +6,10 @@ titleSlug: zhong-le-ting
 author: 東方某
 authorPinyin: dong1 fang1 mou3
 authorSlug: dong-fang-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

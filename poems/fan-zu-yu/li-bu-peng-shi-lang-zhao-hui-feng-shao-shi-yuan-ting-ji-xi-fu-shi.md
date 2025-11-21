@@ -6,10 +6,10 @@ titleSlug: li-bu-peng-shi-lang-zhao-hui-feng-shao-shi-yuan-ting-ji-xi-fu-shi
 author: 范祖禹
 authorPinyin: fan4 zu3 yu3
 authorSlug: fan-zu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

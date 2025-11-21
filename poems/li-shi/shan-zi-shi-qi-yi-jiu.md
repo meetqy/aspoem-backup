@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-yi-jiu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 負笈無他奇貨，筆端有力躬耕。
-- 僰道頗思山谷，蘭陵一變荀卿。
+- 桃花流水神仙地，枯木寒巖自在春。
+- 錯上磨成白玉質，礦中仍現紫金身。
 
 ## 拼音
 
-- fu4 ji2 wu2 ta1 qi2 huo4 ， bi3 duan1 you3 li4 gong1 geng1 。
-- bo2 dao4 po1 si1 shan1 gu3 ， lan2 ling2 yi2 bian4 xun2 qing1 。
+- tao2 hua1 liu2 shui3 shen2 xian1 di4 ， ku1 mu4 han2 yan2 zi4 zai4 chun1 。
+- cuo4 shang4 mo2 cheng2 bai2 yu4 zhi4 ， kuang4 zhong1 reng2 xian4 zi3 jin1 shen1 。
 
 ## 注释
 

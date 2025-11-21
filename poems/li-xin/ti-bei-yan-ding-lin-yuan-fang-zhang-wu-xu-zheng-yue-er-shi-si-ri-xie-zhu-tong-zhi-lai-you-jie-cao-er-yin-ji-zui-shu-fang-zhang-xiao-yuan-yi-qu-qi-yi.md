@@ -6,10 +6,10 @@ titleSlug: ti-bei-yan-ding-lin-yuan-fang-zhang-wu-xu-zheng-yue-er-shi-si-ri-xie-
 author: 李新
 authorPinyin: li3 xin1
 authorSlug: li-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bai-long-dong-mo-ya
 author: 史少南
 authorPinyin: shi3 shao3 nan2
 authorSlug: shi-shao-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

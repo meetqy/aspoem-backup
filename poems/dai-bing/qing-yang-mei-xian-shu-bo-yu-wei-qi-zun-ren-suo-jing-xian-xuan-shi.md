@@ -6,10 +6,10 @@ titleSlug: qing-yang-mei-xian-shu-bo-yu-wei-qi-zun-ren-suo-jing-xian-xuan-shi
 author: 戴昺
 authorPinyin: dai4 bing3
 authorSlug: dai-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

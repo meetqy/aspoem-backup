@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-jun-pu-you-guan-zhe-ru-zhi-yu-yi-zhao-yuan-zhi-yue-zhi-x
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

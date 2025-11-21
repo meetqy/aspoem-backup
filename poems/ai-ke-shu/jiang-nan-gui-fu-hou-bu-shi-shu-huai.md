@@ -6,10 +6,10 @@ titleSlug: jiang-nan-gui-fu-hou-bu-shi-shu-huai
 author: 艾可叔
 authorPinyin: ai4 ke3 shu1
 authorSlug: ai-ke-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

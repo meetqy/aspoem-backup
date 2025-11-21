@@ -6,10 +6,10 @@ titleSlug: dao-kun-shan
 author: 奚商衡
 authorPinyin: xi1 shang1 heng2
 authorSlug: xi-shang-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

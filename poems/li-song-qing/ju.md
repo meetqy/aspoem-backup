@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李宋卿
 authorPinyin: li3 song4 qing1
 authorSlug: li-song-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: wang-bai-chou-yi-qi-er
-title: 疇依  其二
-titlePinyin: chou2 yi1     qi2 er4
+title: 疇依  其二○
+titlePinyin: chou2 yi1     qi2 er4 ○
 titleSlug: chou-yi-qi-er
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 巍乎大哉，堯之爲君。
-- 其仁如天，其知如神。
-- 鑿井耕田，出作入息。
-- 擊壤而歌，不知帝力。
+- 迪予朱子，理一分殊。
+- 汛掃淫詖，煌煌四書。
+- 有析其精，一字萬鈞。
+- 有會于極，萬古作程。
 
 ## 拼音
 
-- wei1 hu1 da4 zai1 ， yao2 zhi1 wei2 jun1 。
-- qi2 ren2 ru2 tian1 ， qi2 zhi1 ru2 shen2 。
-- zao2 jing3 geng1 tian2 ， chu1 zuo4 ru4 xi1 。
-- ji1 rang3 er2 ge1 ， bu4 zhi1 di4 li4 。
+- di2 yu3 zhu1 zi3 ， li3 yi4 fen1 shu1 。
+- xun4 sao3 yin2 bi4 ， huang2 huang2 si4 shu1 。
+- you3 xi1 qi2 jing1 ， yi2 zi4 wan4 jun1 。
+- you3 hui4 yu2 ji2 ， wan4 gu3 zuo4 cheng2 。
 
 ## 注释
 

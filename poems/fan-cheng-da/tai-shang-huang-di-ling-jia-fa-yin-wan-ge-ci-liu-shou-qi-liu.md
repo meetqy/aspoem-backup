@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-tai-shang-huang-di-ling-jia-fa-yin-wan-ge-ci-liu-shou-qi-liu
-title: 太上皇帝靈駕發引輓歌詞六首・其六
-titlePinyin: tai4 shang4 huang2 di4 ling2 jia4 fa1 yin3 wan3 ge1 ci2 liu4 shou3・qi2 liu4
+title: 太上皇帝靈駕發引輓歌詞六首  其六
+titlePinyin: tai4 shang4 huang2 di4 ling2 jia4 fa1 yin3 wan3 ge1 ci2 liu4 shou3     qi2 liu4
 titleSlug: tai-shang-huang-di-ling-jia-fa-yin-wan-ge-ci-liu-shou-qi-liu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

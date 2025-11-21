@@ -6,10 +6,10 @@ titleSlug: feng-fu-de-xiu-xi-chong-dai-fu-cheng-du-xin-yuan-yong-gui-tang-er-sho
 author: 葉適
 authorPinyin: ye4 shi4
 authorSlug: ye-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

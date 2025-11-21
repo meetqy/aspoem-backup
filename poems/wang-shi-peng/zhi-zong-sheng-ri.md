@@ -6,25 +6,29 @@ titleSlug: zhi-zong-sheng-ri
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天工未放二陽生，留得堯階一莢蓂。
-- 慶誕仙源貴公子，祥開南極老人星。
-- 日垂宮線添無盡，貌比莊椿看更清。
-- 歲歲華堂祝眉壽，笙歌聲裏雪梅馨。
+- 昔年游越絕，首識南枝梅。
+- 一麾守清源，再見梅英開。
+- 顔色宛如故，風霜不能摧。
+- 玉質長仙葩，芳姿醖詩才。
+- 其侶乃蟠桃，其根出蓬萊。
+- 花開三十年，壽薦三千杯。
 
 ## 拼音
 
-- tian1 gong1 wei4 fang4 er4 yang2 sheng1 ， liu2 de2 yao2 jie1 yi4 jia2 mi4 。
-- qing4 dan4 xian1 yuan2 gui4 gong1 zi3 ， xiang2 kai1 nan2 ji2 lao3 ren2 xing1 。
-- ri4 chui2 gong1 xian4 tian1 wu2 jin4 ， mao4 bi3 zhuang1 chun1 kan4 geng4 qing1 。
-- sui4 sui4 hua2 tang2 zhu4 mei2 shou4 ， sheng1 ge1 sheng1 li3 xue3 mei2 xin1 。
+- xi1 nian2 you2 yue4 jue2 ， shou3 shi2 nan2 zhi1 mei2 。
+- yi4 hui1 shou3 qing1 yuan2 ， zai4 jian4 mei2 ying1 kai1 。
+- yan2 se4 wan3 ru2 gu4 ， feng1 shuang1 bu4 neng2 cui1 。
+- yu4 zhi4 chang2 xian1 pa1 ， fang1 zi1 yun4 shi1 cai2 。
+- qi2 lü3 nai3 pan2 tao2 ， qi2 gen1 chu1 peng2 lai2 。
+- hua1 kai1 san1 shi2 nian2 ， shou4 jian4 san1 qian1 bei1 。
 
 ## 注释
 

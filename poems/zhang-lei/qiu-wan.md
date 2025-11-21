@@ -6,21 +6,25 @@ titleSlug: qiu-wan
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日轉秋庭樹影斜，風來粉蝶勝悲笳。
-- 祇應宋玉秋來夢，常在牆東阿子家。
+- 鳥栖林已靜，門掩吏家歸。
+- 黄葉雨中盡，鳴蟲霜後微。
+- 塵凝經暑扇，貂敝早寒衣。
+- 頼有清尊酒，山爐徹夜圍。
 
 ## 拼音
 
-- ri4 zhuan3 qiu1 ting2 shu4 ying3 xie2 ， feng1 lai2 fen3 die2 sheng4 bei1 jia1 。
-- qi2 ying1 song4 yu4 qiu1 lai2 meng4 ， chang2 zai4 qiang2 dong1 a1 zi3 jia1 。
+- niao3 qi1 lin2 yi3 jing4 ， men2 yan3 li4 jia1 gui1 。
+- huang2 ye4 yu3 zhong1 jin4 ， ming2 chong2 shuang1 hou4 wei1 。
+- chen2 ning2 jing1 shu3 shan4 ， diao1 bi4 zao3 han2 yi1 。
+- lai4 you3 qing1 zun1 jiu3 ， shan1 lu2 che4 ye4 wei2 。
 
 ## 注释
 

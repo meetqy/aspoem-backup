@@ -6,25 +6,25 @@ titleSlug: za-xing-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 造物乘除理固然，許將窮悴博頑堅。
-- 驥衰伏櫪心千里，龜冷搘床壽百年。
-- 好事時供沽酒費，擁途爭笑插花顛。
-- 漁村宿願雖償盡，猶恨僧房欠晝眠。
+- 陋巷無心長草萊，柴門偶自不曾開。
+- 餘齡漸迫諸孫長，徂歲將窮積雪來。
+- 旦欲燎衣無宿燼，暮思頳頰但空罍。
+- 孰知自有忘憂處，繞坐新書正作堆。
 
 ## 拼音
 
-- zao4 wu4 cheng2 chu2 li3 gu4 ran2 ， xu1 jiang1 qiong2 cui4 bo2 wan2 jian1 。
-- ji4 shuai1 fu2 li4 xin1 qian1 li3 ， gui1 leng3 zhi1 chuang2 shou4 bai3 nian2 。
-- hao3 shi4 shi2 gong4 gu1 jiu3 fei4 ， yong1 tu2 zheng1 xiao4 cha1 hua1 dian1 。
-- yu2 cun1 su4 yuan4 sui1 chang2 jin4 ， you2 hen4 seng1 fang2 qian4 zhou4 mian2 。
+- lou4 xiang4 wu2 xin1 chang2 cao3 lai2 ， chai2 men2 ou3 zi4 bu4 ceng2 kai1 。
+- yu2 ling2 jian4 po4 zhu1 sun1 chang2 ， cu2 sui4 jiang1 qiong2 ji1 xue3 lai2 。
+- dan4 yu4 liao2 yi1 wu2 su4 jin4 ， mu4 si1 cheng1 jia2 dan4 kong1 lei2 。
+- shu2 zhi1 zi4 you3 wang4 you1 chu3 ， rao4 zuo4 xin1 shu1 zheng4 zuo4 dui1 。
 
 ## 注释
 

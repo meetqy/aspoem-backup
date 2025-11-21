@@ -6,10 +6,10 @@ titleSlug: ao-shu-qi-xia-dong
 author: 李彥弼
 authorPinyin: li3 yan4 bi4
 authorSlug: li-yan-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

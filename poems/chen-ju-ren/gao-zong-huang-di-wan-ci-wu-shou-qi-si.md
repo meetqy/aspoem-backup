@@ -6,10 +6,10 @@ titleSlug: gao-zong-huang-di-wan-ci-wu-shou-qi-si
 author: 陳居仁
 authorPinyin: chen2 ju1 ren2
 authorSlug: chen-ju-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

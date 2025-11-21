@@ -6,10 +6,10 @@ titleSlug: shi-wu-ri-kan-mei-hua-shang-xue-xiao-yi-jin-qi-er
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: zhong-wu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鬢花臂絲盤艾虎，佳人競云作重午。
-- 菖蒲細縷來泛巵，快意酒行何用數。
-- 忽憶當年楚三閭，他愁我樂意何如。
-- 不識好惡類如此，世間俗物爭奈渠。
+- 年年重午泛菖蒲，兒女搔頭亦篆符。
+- 忍復研朱如羽客，懶能切玉醉狂夫。
+- 長歌楚些冤何有，却憶山人諷已無。
+- 田里蕭蕭方渴雨，小軒清望老懷孤。
 
 ## 拼音
 
-- bin4 hua1 bi4 si1 pan2 ai4 hu3 ， jia1 ren2 jing4 yun2 zuo4 zhong4 wu3 。
-- chang1 pu2 xi4 lü3 lai2 fan4 zhi1 ， kuai4 yi4 jiu3 xing2 he2 yong4 shu4 。
-- hu1 yi4 dang1 nian2 chu3 san1 lü2 ， ta1 chou2 wo3 le4 yi4 he2 ru2 。
-- bu4 shi2 hao3 e4 lei4 ru2 ci3 ， shi4 jian4 su2 wu4 zheng1 nai4 qu2 。
+- nian2 nian2 zhong4 wu3 fan4 chang1 pu2 ， er2 nü3 sao1 tou2 yi4 zhuan4 fu2 。
+- ren3 fu4 yan2 zhu1 ru2 yu3 ke4 ， lan3 neng2 qie4 yu4 zui4 kuang2 fu1 。
+- chang2 ge1 chu3 xie1 yuan1 he2 you3 ， que4 yi4 shan1 ren2 feng3 yi3 wu2 。
+- tian2 li3 xiao1 xiao1 fang1 ke3 yu3 ， xiao3 xuan1 qing1 wang4 lao3 huai2 gu1 。
 
 ## 注释
 

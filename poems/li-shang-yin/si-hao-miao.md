@@ -9,18 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 羽翼殊勳棄若遺，皇天有運我無時。
-- 廟前便接山門路，不長青松長紫芝。
+- 本爲留侯慕赤松，漢庭方識紫芝翁。
+- 蕭何只解追韓信，豈得虛當第一功。
 
 ## 拼音
 
-- yu3 yi4 shu1 xun1 qi4 ruo4 yi2 ， huang2 tian1 you3 yun4 wo3 wu2 shi2 。
-- miao4 qian2 bian4 jie1 shan1 men2 lu4 ， bu4 chang2 qing1 song1 chang2 zi3 zhi1 。
+- ben3 wei2 liu2 hou2 mu4 chi4 song1 ， han4 ting2 fang1 shi2 zi3 zhi1 weng1 。
+- xiao1 he2 zhi1 jie3 zhui1 han2 xin4 ， qi3 de2 xu1 dang1 di4 yi1 gong1 。
 
 ## 注释
 

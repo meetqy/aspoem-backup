@@ -6,10 +6,10 @@ titleSlug: wen-ding-yong-an-wu-xia-die-shan-shen-you-jia-qu-hen-wei-zhi-jian-zuo
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

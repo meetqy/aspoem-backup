@@ -6,21 +6,25 @@ titleSlug: he-ze-zhi-yun
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山中好景年年在，人事多端日日新。
-- 不向青山生戀著，祇緣身世總非真。
+- 舊說峯頭寺，真成杖屨來。
+- 却尋泥路滑，更喜野雲堆。
+- 寒積三冬雪，陽生九地雷。
+- 城中幾親友，爲說看山回。
 
 ## 拼音
 
-- shan1 zhong1 hao3 jing3 nian2 nian2 zai4 ， ren2 shi4 duo1 duan1 ri4 ri4 xin1 。
-- bu2 xiang4 qing1 shan1 sheng1 lian4 zhu4 ， qi2 yuan2 shen1 shi4 zong3 fei1 zhen1 。
+- jiu4 shuo1 feng1 tou2 si4 ， zhen1 cheng2 zhang4 ju4 lai2 。
+- que4 xun2 ni2 lu4 hua2 ， geng4 xi3 ye3 yun2 dui1 。
+- han2 ji1 san1 dong1 xue3 ， yang2 sheng1 jiu3 di4 lei2 。
+- cheng2 zhong1 ji1 qin1 you3 ， wei2 shuo1 kan4 shan1 hui2 。
 
 ## 注释
 

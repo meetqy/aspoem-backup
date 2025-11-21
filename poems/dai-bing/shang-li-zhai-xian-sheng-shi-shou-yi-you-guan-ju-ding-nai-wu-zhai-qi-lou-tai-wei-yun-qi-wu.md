@@ -6,10 +6,10 @@ titleSlug: shang-li-zhai-xian-sheng-shi-shou-yi-you-guan-ju-ding-nai-wu-zhai-qi-
 author: 戴昺
 authorPinyin: dai4 bing3
 authorSlug: dai-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

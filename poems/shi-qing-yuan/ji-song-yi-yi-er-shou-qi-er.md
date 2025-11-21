@@ -1,26 +1,26 @@
 ---
 id: shi-qing-yuan-ji-song-yi-yi-er-shou-qi-er
-title: 偈頌一一二首  其二
-titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 er4
+title: 偈頌一一二首  其二○
+titlePinyin: ji4 song4 yi1 yi1 er4 shou3     qi2 er4 ○
 titleSlug: ji-song-yi-yi-er-shou-qi-er
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩岸蘆花一葉舟，凉風深夜月如鈎。
-- 絲綸千尺慵拋放，歸到家山即便休。
+- 龍門結夏勝諸方，大地山河爲舉揚。
+- 若向九旬參得透，更無佛法可商量。
 
 ## 拼音
 
-- liang3 an4 lu2 hua1 yi2 ye4 zhou1 ， liang2 feng1 shen1 ye4 yue4 ru2 gou1 。
-- si1 lun2 qian1 chi3 yong1 pao1 fang4 ， gui1 dao4 jia1 shan1 ji2 bian4 xiu1 。
+- long2 men2 jie2 xia4 sheng4 zhu1 fang1 ， da4 di4 shan1 he2 wei2 ju3 yang2 。
+- ruo4 xiang4 jiu3 xun2 can1 de2 tou4 ， geng4 wu2 fo2 fa3 ke3 shang1 liang0 。
 
 ## 注释
 

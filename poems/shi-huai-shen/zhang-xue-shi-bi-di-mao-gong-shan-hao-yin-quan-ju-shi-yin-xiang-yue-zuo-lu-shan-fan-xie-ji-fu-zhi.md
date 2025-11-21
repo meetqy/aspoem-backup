@@ -6,10 +6,10 @@ titleSlug: zhang-xue-shi-bi-di-mao-gong-shan-hao-yin-quan-ju-shi-yin-xiang-yue-z
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

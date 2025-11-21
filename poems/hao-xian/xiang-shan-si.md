@@ -6,10 +6,10 @@ titleSlug: xiang-shan-si
 author: 郝顯
 authorPinyin: hao3 xian3
 authorSlug: hao-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,28 @@
 ---
 id: shi-xin-yue-ji-song-yi-bai-wu-shi-shou-qi-yi-yi
-title: 偈頌一百五十首  其一一
-titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 yi1
+title: 偈頌一百五十首  其一一○
+titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 yi1 ○
 titleSlug: ji-song-yi-bai-wu-shi-shou-qi-yi-yi
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一即三，三即一。
-- 剩則不足，少則有餘。
-- 相續得去底，道將一句來。
-- 七十三，八十四。
+- 虎丘家風，內空外空。
+- 十分富貴，十分貧窮。
+- 有時揚聲止響，有時詐啞佯聾，猶是平常小脫空。
 
 ## 拼音
 
-- yi4 ji2 san1 ， san1 ji2 yi1 。
-- sheng4 ze2 bu4 zu2 ， shao3 ze2 you3 yu2 。
-- xiang1 xu4 de2 qu4 di3 ， dao4 jiang1 yi2 ju4 lai2 。
-- qi1 shi2 san1 ， ba1 shi2 si4 。
+- hu3 qiu1 jia1 feng1 ， nei4 kong1 wai4 kong1 。
+- shi2 fen1 fu4 gui4 ， shi2 fen1 pin2 qiong2 。
+- you3 shi2 yang2 sheng1 zhi3 xiang3 ， you3 shi2 zha4 ya3 yang2 long2 ， you2 shi4 ping2 chang2 xiao3 tuo1 kong1 。
 
 ## 注释
 

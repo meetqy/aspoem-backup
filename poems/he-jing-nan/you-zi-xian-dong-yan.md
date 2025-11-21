@@ -6,10 +6,10 @@ titleSlug: you-zi-xian-dong-yan
 author: 何景南
 authorPinyin: he2 jing3 nan2
 authorSlug: he-jing-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

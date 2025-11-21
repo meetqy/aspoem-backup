@@ -6,25 +6,25 @@ titleSlug: tian-ji-jie-te-qing
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東風特地奇，閣雨放朝曦。
-- 歷數歸仁壽，乾坤表誕彌。
-- 願敷皇極福，重立太平基。
-- 忠愛無疎賤，新年第一詩。
+- 王春又數五堯蓂，先自春來半月贏。
+- 天上聖功調玉燭，雲問暖律寫莖英。
+- 蒼生正頼吾君福，每歲長占此日晴。
+- 三祝莫嫌言語朴，時和年熟早休兵。
 
 ## 拼音
 
-- dong1 feng1 te4 di4 qi2 ， ge2 yu3 fang4 chao2 xi1 。
-- li4 shu4 gui1 ren2 shou4 ， qian2 kun1 biao3 dan4 mi2 。
-- yuan4 fu1 huang2 ji2 fu2 ， zhong4 li4 tai4 ping2 ji1 。
-- zhong1 ai4 wu2 shu1 jian4 ， xin1 nian2 di4 yi1 shi1 。
+- wang2 chun1 you4 shu4 wu3 yao2 mi4 ， xian1 zi4 chun1 lai2 ban4 yue4 ying2 。
+- tian1 shang4 sheng4 gong1 diao4 yu4 zhu2 ， yun2 wen4 nuan3 lü4 xie3 jing4 ying1 。
+- cang1 sheng1 zheng4 lai4 wu2 jun1 fu2 ， mei3 sui4 chang2 zhan4 ci3 ri4 qing2 。
+- san1 zhu4 mo4 xian2 yan2 yu3 pu3 ， shi2 he2 nian2 shu2 zao3 xiu1 bing1 。
 
 ## 注释
 

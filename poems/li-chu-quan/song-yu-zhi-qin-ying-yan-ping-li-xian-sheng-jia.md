@@ -6,9 +6,9 @@ titleSlug: song-yu-zhi-qin-ying-yan-ping-li-xian-sheng-jia
 author: 李處權
 authorPinyin: li3 chu3 quan2
 authorSlug: li-chu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

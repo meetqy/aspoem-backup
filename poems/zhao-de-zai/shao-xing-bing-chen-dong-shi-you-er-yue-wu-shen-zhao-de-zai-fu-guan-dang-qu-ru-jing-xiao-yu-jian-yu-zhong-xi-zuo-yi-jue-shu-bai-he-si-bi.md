@@ -6,9 +6,9 @@ titleSlug: shao-xing-bing-chen-dong-shi-you-er-yue-wu-shen-zhao-de-zai-fu-guan-d
 author: 趙德載
 authorPinyin: zhao4 de2 zai4
 authorSlug: zhao-de-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

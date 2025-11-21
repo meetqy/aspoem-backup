@@ -1,26 +1,26 @@
 ---
 id: shi-zong-gao-song-gu-yi-bai-er-shi-yi-shou-qi-yi-qi
-title: 頌古一百二十一首  其一七
-titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 yi1 qi1
+title: 頌古一百二十一首  其一○七
+titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 yi1 ○ qi1
 titleSlug: song-gu-yi-bai-er-shi-yi-shou-qi-yi-qi
 author: 釋宗杲
 authorPinyin: shi4 zong1 gao3
 authorSlug: shi-zong-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昧卻當陽箇一著，牽來拽去互施呈。
-- 不知除卻王維手，更有何人畫得成。
+- 春至自開華，秋來還落葉。
+- 黄面老瞿曇，休搖三寸舌。
 
 ## 拼音
 
-- mei4 que4 dang1 yang2 ge4 yi2 zhu4 ， qian1 lai2 zhuai4 qu4 hu4 shi1 cheng2 。
-- bu4 zhi1 chu2 que4 wang2 wei2 shou3 ， geng4 you3 he2 ren2 hua4 de2 cheng2 。
+- chun1 zhi4 zi4 kai1 hua2 ， qiu1 lai2 huan2 luo4 ye4 。
+- huang2 mian4 lao3 qu2 tan2 ， xiu1 yao2 san1 cun4 she2 。
 
 ## 注释
 

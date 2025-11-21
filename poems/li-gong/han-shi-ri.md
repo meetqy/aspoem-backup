@@ -6,25 +6,21 @@ titleSlug: han-shi-ri
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歌哭相喧熟食邊，野原花柳盡生煙。
-- 身如厄木猶多病，心似寒灰豈欲然。
-- 鷗鷺乾坤知有我，燕鶑日月認誰憐。
-- 溪城半掩斜陽暝，落得閒愁幾畫船。
+- 讀盡唐人寒食詩，人於此日重傷悲。
+- 如今裹飯吳中俗，可是相沿爲子推。
 
 ## 拼音
 
-- ge1 ku1 xiang1 xuan1 shu2 shi2 bian1 ， ye3 yuan2 hua1 liu3 jin4 sheng1 yan1 。
-- shen1 ru2 e4 mu4 you2 duo1 bing4 ， xin1 si4 han2 hui1 qi3 yu4 ran2 。
-- ou1 lu4 qian2 kun1 zhi1 you3 wo3 ， yan4 ying1 ri4 yue4 ren4 shui2 lian2 。
-- xi1 cheng2 ban4 yan3 xie2 yang2 ming2 ， luo4 de0 xian2 chou2 ji1 hua4 chuan2 。
+- du2 jin4 tang2 ren2 han2 shi2 shi1 ， ren2 wu1 ci3 ri4 zhong4 shang1 bei1 。
+- ru2 jin1 guo3 fan4 wu2 zhong1 su2 ， ke3 shi4 xiang1 yan2 wei2 zi3 tui1 。
 
 ## 注释
 

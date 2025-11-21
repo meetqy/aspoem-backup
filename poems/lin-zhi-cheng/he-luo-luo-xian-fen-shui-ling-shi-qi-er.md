@@ -6,10 +6,10 @@ titleSlug: he-luo-luo-xian-fen-shui-ling-shi-qi-er
 author: 林致誠
 authorPinyin: lin2 zhi4 cheng2
 authorSlug: lin-zhi-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

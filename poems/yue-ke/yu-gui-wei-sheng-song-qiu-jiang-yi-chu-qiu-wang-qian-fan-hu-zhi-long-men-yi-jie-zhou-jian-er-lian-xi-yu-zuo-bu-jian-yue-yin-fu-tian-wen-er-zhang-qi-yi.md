@@ -6,10 +6,10 @@ titleSlug: yu-gui-wei-sheng-song-qiu-jiang-yi-chu-qiu-wang-qian-fan-hu-zhi-long-
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

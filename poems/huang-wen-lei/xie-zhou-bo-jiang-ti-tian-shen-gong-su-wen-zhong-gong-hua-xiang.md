@@ -6,10 +6,10 @@ titleSlug: xie-zhou-bo-jiang-ti-tian-shen-gong-su-wen-zhong-gong-hua-xiang
 author: 黄文雷
 authorPinyin: huang2 wen2 lei2
 authorSlug: huang-wen-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: hou-cun-zai-he-tang-zi-er-shou-qie-yun-yu-xie-qian-gu-yue-yi-yi-qi-ti
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

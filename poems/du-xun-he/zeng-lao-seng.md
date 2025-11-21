@@ -9,22 +9,18 @@ authorSlug: du-xun-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 衆僧尊夏臘，靈嶽遍曾登。
-- 度水手中杖，行山溪畔藤。
-- 心空默是印，眉白雪爲稜。
-- 自得巡方道，棲禪老未能。
+- 童子爲僧今白首，暗鋤心地種閑情。
+- 時將舊衲添新線，披坐披行過一生。
 
 ## 拼音
 
-- zhong4 seng1 zun1 xia4 la4 ， ling2 yue4 bian4 ceng2 deng1 。
-- du4 shui3 shou3 zhong1 zhang4 ， xing2 shan1 xi1 pan4 teng2 。
-- xin1 kong1 mo4 shi4 yin4 ， mei2 bai2 xue3 wei2 leng2 。
-- zi4 de2 xun2 fang1 dao4 ， qi1 shan4 lao3 wei4 neng2 。
+- tong2 zi3 wei2 seng1 jin1 bai2 shou3 ， an4 chu2 xin1 di4 zhong3 xian2 qing2 。
+- shi2 jiang1 jiu4 na4 tian1 xin1 xian4 ， pi1 zuo4 pi1 xing2 guo4 yi4 sheng1 。
 
 ## 注释
 

@@ -6,21 +6,25 @@ titleSlug: mo-li
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 真香入玉初無信，香欲尋人玉始開。
-- 不是滿枝生綠葉，端須認作嶺頭梅。
+- 小鍤移根带蘚苔，暑中相對亦佳哉。
+- 素英吐處祗如玉，清思牽人全似梅。
+- 淺綠翦羅和葉看，真香擣麝逐風来。
+- 觀君可與酴醿並，髙士寧容俗子陪。
 
 ## 拼音
 
-- zhen1 xiang1 ru4 yu4 chu1 wu2 xin4 ， xiang1 yu4 xun2 ren2 yu4 shi3 kai1 。
-- bu2 shi4 man3 zhi1 sheng1 lü4 ye4 ， duan1 xu1 ren4 zuo4 ling3 tou2 mei2 。
+- xiao3 cha1 yi2 gen1 dai4 xian3 tai2 ， shu3 zhong1 xiang1 dui4 yi4 jia1 zai1 。
+- su4 ying1 tu3 chu3 zhi1 ru2 yu4 ， qing1 si1 qian1 ren2 quan2 si4 mei2 。
+- qian3 lü4 jian3 luo2 he2 ye4 kan4 ， zhen1 xiang1 dao3 she4 zhu2 feng1 lai2 。
+- guan1 jun1 ke3 yu3 tu2 mi2 bing4 ， gao1 shi4 ning2 rong2 su2 zi3 pei2 。
 
 ## 注释
 

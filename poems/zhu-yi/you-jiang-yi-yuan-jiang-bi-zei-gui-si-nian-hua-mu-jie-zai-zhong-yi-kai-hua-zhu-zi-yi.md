@@ -6,9 +6,9 @@ titleSlug: you-jiang-yi-yuan-jiang-bi-zei-gui-si-nian-hua-mu-jie-zai-zhong-yi-ka
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

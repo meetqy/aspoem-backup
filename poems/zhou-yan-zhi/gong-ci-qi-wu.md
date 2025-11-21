@@ -1,26 +1,26 @@
 ---
 id: zhou-yan-zhi-gong-ci-qi-wu
-title: 宮詞  其五
-titlePinyin: gong1 ci2     qi2 wu3
+title: 宮詞  其五○
+titlePinyin: gong1 ci2     qi2 wu3 ○
 titleSlug: gong-ci-qi-wu
 author: 周彥質
 authorPinyin: zhou1 yan4 zhi4
 authorSlug: zhou-yan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 主上慈仁篤友于，二王恩眷古無如。
-- 外朝迥與班聯別，玉带仍令佩玉魚。
+- 君王錫慶自高天，禖燕宮庭每每傳。
+- 老㜮寶箱珠遍蹙，別收諸閣洗兒錢。
 
 ## 拼音
 
-- zhu3 shang4 ci2 ren2 du3 you3 yu2 ， er4 wang2 en1 juan4 gu3 wu2 ru2 。
-- wai4 chao2 jiong3 yu3 ban1 lian2 bie2 ， yu4 dai4 reng2 ling4 pei4 yu4 yu2 。
+- jun1 wang2 xi1 qing4 zi4 gao1 tian1 ， mei2 yan4 gong1 ting2 mei3 mei3 chuan2 。
+- lao3 㜮 bao3 xiang1 zhu1 bian4 cu4 ， bie2 shou1 zhu1 ge2 xi3 er2 qian2 。
 
 ## 注释
 

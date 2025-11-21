@@ -6,10 +6,10 @@ titleSlug: gao-you-lu-bo-shu-huai-ji-huai-dong-ti-ju-cai-cheng-fu-guan-jian-chen
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

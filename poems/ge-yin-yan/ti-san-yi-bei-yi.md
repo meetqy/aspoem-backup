@@ -6,10 +6,10 @@ titleSlug: ti-san-yi-bei-yi
 author: 葛寅炎
 authorPinyin: ge3 yin2 yan2
 authorSlug: ge-yin-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: dui-xue
 author: 施樞
 authorPinyin: shi1 shu1
 authorSlug: shi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 怪得連陰不放晴，直教飛雪試輕盈。
-- 風回冉冉霓裳舞，雲暗紛紛鶴羽明。
-- 大似梅花饒一出，薄於柳絮更多情。
-- 披衣端爲詩催起，吟得詩成分外清。
+- 誰使霓裳逞細腰，隨風盡日袂飄颻。
+- 飛花却訝春將遍，舞片還驚凍易銷。
+- 看熟似同鷗過渚，興仙剛道鶴沖霄。
+- 吟成誰與相酬酢，頼有疏梅伴寂寥。
 
 ## 拼音
 
-- guai4 de2 lian2 yin1 bu2 fang4 qing2 ， zhi2 jiao4 fei1 xue3 shi4 qing1 ying2 。
-- feng1 hui2 ran3 ran3 ni2 chang2 wu3 ， yun2 an4 fen1 fen1 he4 yu3 ming2 。
-- da4 si4 mei2 hua1 rao2 yi4 chu1 ， bao2 wu1 liu3 xu4 geng4 duo1 qing2 。
-- pi1 yi1 duan1 wei2 shi1 cui1 qi3 ， yin2 de2 shi1 cheng2 fen4 wai4 qing1 。
+- shui2 shi3 ni2 chang2 cheng3 xi4 yao1 ， sui2 feng1 jin4 ri4 mei4 piao1 yao2 。
+- fei1 hua1 que4 ya4 chun1 jiang1 bian4 ， wu3 pian4 huan2 jing1 dong4 yi4 xiao1 。
+- kan4 shu2 si4 tong2 ou1 guo4 zhu3 ， xing1 xian1 gang1 dao4 he4 chong1 xiao1 。
+- yin2 cheng2 shui2 yu3 xiang1 chou2 zuo4 ， lai4 you3 shu1 mei2 ban4 ji4 liao2 。
 
 ## 注释
 

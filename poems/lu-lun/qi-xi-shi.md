@@ -9,22 +9,22 @@ authorSlug: lu-lun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 祥光若可求，閨女夜登樓。
-- 月露浩方下，河雲凝不流。
-- 鉛華潛警曙，機杼暗傳秋。
-- 迴想歛餘睠，人天俱是愁。
+- 涼風吹玉露，河漢有幽期。
+- 星彩光仍隱，雲容掩復離。
+- 良宵驚曙早，閏歲怨秋遲。
+- 何事金閨子，空傳得網絲。
 
 ## 拼音
 
-- xiang2 guang1 ruo4 ke3 qiu2 ， gui1 nü3 ye4 deng1 lou2 。
-- yue4 lu4 hao4 fang1 xia4 ， he2 yun2 ning2 bu4 liu2 。
-- qian1 hua2 qian2 jing3 shu3 ， ji1 zhu4 an4 chuan2 qiu1 。
-- hui2 xiang3 lian3 yu2 juan4 ， ren2 tian1 ju4 shi4 chou2 。
+- liang2 feng1 chui1 yu4 lu4 ， he2 han4 you3 you1 qi1 。
+- xing1 cai3 guang1 reng2 yin3 ， yun2 rong2 yan3 fu4 li2 。
+- liang2 xiao1 jing1 shu3 zao3 ， run4 sui4 yuan4 qiu1 chi2 。
+- he2 shi4 jin1 gui1 zi3 ， kong1 chuan2 de2 wang3 si1 。
 
 ## 注释
 

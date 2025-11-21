@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-er-jiu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 表裏分明說，深窮妙更玄。
-- 愚迷行不到，聖事法中傳。
-- 欲界情無定，真空本自然。
-- 今生隨曩劫，清浄照三天。
+- 常思清凈世情閑，遥認天平我扣關。
+- 莫道玄談些子是，鳳飛鶴宿九疑山。
 
 ## 拼音
 
-- biao3 li3 fen1 ming2 shuo1 ， shen1 qiong2 miao4 geng4 xuan2 。
-- yu2 mi2 xing2 bu2 dao4 ， sheng4 shi4 fa3 zhong1 chuan2 。
-- yu4 jie4 qing2 wu2 ding4 ， zhen1 kong1 ben3 zi4 ran2 。
-- jin1 sheng1 sui2 nang3 jie2 ， qing1 jing4 zhao4 san1 tian1 。
+- chang2 si1 qing1 jing4 shi4 qing2 xian2 ， yao2 ren4 tian1 ping2 wo3 kou4 guan1 。
+- mo4 dao4 xuan2 tan2 xie1 zi3 shi4 ， feng4 fei1 he4 su4 jiu3 yi2 shan1 。
 
 ## 注释
 

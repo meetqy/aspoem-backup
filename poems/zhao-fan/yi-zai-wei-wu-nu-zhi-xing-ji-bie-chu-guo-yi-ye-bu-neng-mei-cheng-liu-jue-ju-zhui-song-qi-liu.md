@@ -6,10 +6,10 @@ titleSlug: yi-zai-wei-wu-nu-zhi-xing-ji-bie-chu-guo-yi-ye-bu-neng-mei-cheng-liu-
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

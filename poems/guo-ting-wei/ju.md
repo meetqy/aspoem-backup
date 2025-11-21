@@ -14,11 +14,11 @@ tags: []
 
 ## 正文
 
-- 魄逐東流水，墳依獨坐山。
+- 魂逐東流水，墳依獨坐山。
 
 ## 拼音
 
-- po4 zhu2 dong1 liu2 shui3 ， fen2 yi1 du2 zuo4 shan1 。
+- hun2 zhu2 dong1 liu2 shui3 ， fen2 yi1 du2 zuo4 shan1 。
 
 ## 注释
 

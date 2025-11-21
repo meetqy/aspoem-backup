@@ -6,10 +6,10 @@ titleSlug: cheng-ji-yi-shen-jian-fu-xie-jiu-jian-jian-wu-xiang-zhong-guan-jie-yo
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

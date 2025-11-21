@@ -6,21 +6,21 @@ titleSlug: liu-shou-xiang-gong
 author: 文彥博
 authorPinyin: wen2 yan4 bo2
 authorSlug: wen-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荐捧佳章頻歎服，洋洋盈耳類鏘金。
-- 老昏拙滯無才思，勉强難爲繼大音。
+- 中和堂飲夜厭厭，逸客峨冠欲墮簪。
+- 深荷相君憐老意，改題氈幄醉眠庵。
 
 ## 拼音
 
-- jian4 peng3 jia1 zhang1 bin1 tan4 fu2 ， yang2 yang2 ying2 er3 lei4 qiang1 jin1 。
-- lao3 hun1 zhuo1 zhi4 wu2 cai2 si1 ， mian3 qiang3 nan2 wei2 ji4 da4 yin1 。
+- zhong1 he2 tang2 yin3 ye4 yan4 yan4 ， yi4 ke4 e2 guan1 yu4 duo4 zan1 。
+- shen1 he2 xiang1 jun1 lian2 lao3 yi4 ， gai3 ti2 zhan1 wo4 zui4 mian2 an1 。
 
 ## 注释
 

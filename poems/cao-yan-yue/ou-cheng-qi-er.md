@@ -1,30 +1,26 @@
 ---
 id: cao-yan-yue-ou-cheng-qi-er
-title: 偶成  其二
-titlePinyin: ou3 cheng2     qi2 er4
+title: 偶成  其二○
+titlePinyin: ou3 cheng2     qi2 er4 ○
 titleSlug: ou-cheng-qi-er
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 脚踏和風步步春，石魚樓上等閒人。
-- 興來衝口都成句，老去遊山不動塵。
-- 李白誰知他意思，桃紅漏洩我精神。
-- 忽逢借問難酬對，只恐流鶑說得真。
+- 回心三月不違仁，已後元曾小失真。
+- 一片雲花輕著水，冥冥不復省漓醇。
 
 ## 拼音
 
-- jiao3 ta4 he2 feng1 bu4 bu4 chun1 ， shi2 yu2 lou2 shang4 deng3 xian2 ren2 。
-- xing1 lai2 chong1 kou3 dou1 cheng2 ju4 ， lao3 qu4 you2 shan1 bu2 dong4 chen2 。
-- li3 bai2 shui2 zhi1 ta1 yi4 si0 ， tao2 hong2 lou4 xie4 wo3 jing1 shen2 。
-- hu1 feng2 jie4 wen4 nan2 chou2 dui4 ， zhi3 kong3 liu2 ying1 shuo1 de2 zhen1 。
+- hui2 xin1 san1 yue4 bu4 wei2 ren2 ， yi3 hou4 yuan2 ceng2 xiao3 shi1 zhen1 。
+- yi2 pian4 yun2 hua1 qing1 zhu4 shui3 ， ming2 ming2 bu2 fu4 sheng3 li2 chun2 。
 
 ## 注释
 

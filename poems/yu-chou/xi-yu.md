@@ -6,25 +6,25 @@ titleSlug: xi-yu
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲釀南山雨，風勾北牖凉。
-- 綠蒲澄水石，丹藕浄池塘。
-- 冷客頻牽興，炎官罷鬭强。
-- 無波真古井，此味淡中長。
+- 鼎來雨喜動吟牋，頓遣醯雞舞甕天。
+- 傅野要觀新事業，巫山莫學短因緣。
+- 碧筩便好浮家釀，紅粉還羞著老年。
+- 此意自佳君自會，將詩不必衆人傳。
 
 ## 拼音
 
-- yun2 niang4 nan2 shan1 yu3 ， feng1 gou1 bei3 you3 liang2 。
-- lü4 pu2 cheng2 shui3 shi2 ， dan1 ou3 jing4 chi2 tang2 。
-- leng3 ke4 bin1 qian1 xing1 ， yan2 guan1 ba4 dou4 qiang2 。
-- wu2 bo1 zhen1 gu3 jing3 ， ci3 wei4 dan4 zhong1 chang2 。
+- ding3 lai2 yu3 xi3 dong4 yin2 jian1 ， dun4 qian3 xi1 ji1 wu3 weng4 tian1 。
+- fu4 ye3 yao4 guan1 xin1 shi4 ye4 ， wu1 shan1 mo4 xue2 duan3 yin1 yuan2 。
+- bi4 tong3 bian4 hao3 fu2 jia1 niang4 ， hong2 fen3 huan2 xiu1 zhu4 lao3 nian2 。
+- ci3 yi4 zi4 jia1 jun1 zi4 hui4 ， jiang1 shi1 bu2 bi4 zhong4 ren2 chuan2 。
 
 ## 注释
 

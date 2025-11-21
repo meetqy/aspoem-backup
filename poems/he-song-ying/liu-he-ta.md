@@ -6,10 +6,10 @@ titleSlug: liu-he-ta
 author: 何宋英
 authorPinyin: he2 song4 ying1
 authorSlug: he-song-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

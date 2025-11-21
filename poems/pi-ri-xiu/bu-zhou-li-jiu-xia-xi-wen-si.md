@@ -9,18 +9,18 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 出有嘉謀，入有內則。
-- 繄彼臣庶，欽王之式。
+- 何以樂之，金石九奏。
+- 何以錫之，龍旂九旒。
 
 ## 拼音
 
-- chu1 you3 jia1 mou2 ， ru4 you3 nei4 ze2 。
-- yi1 bi3 chen2 shu4 ， qin1 wang2 zhi1 shi4 。
+- he2 yi3 le4 zhi1 ， jin1 shi2 jiu3 zou4 。
+- he2 yi3 xi1 zhi1 ， long2 qi2 jiu3 liu2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: li-chun-ri
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江花江水每年同，春日春盤放手空。
-- 天地無私生萬物，山林有處著衰翁。
-- 牛趨死地身無罪，梅發京華信不通。
-- 數片飛飛猶臘雪，村鄰相喚賀年豐。
+- 日出風和宿醉醒，山家樂事滿餘齡。
+- 年豐臘雪經三白，地暖春郊已遍青。
+- 菜細簇花宜薄餅，酒香浮螘瀉長瓶。
+- 湖村好景吟難盡，乞與侯家作畫屏。
 
 ## 拼音
 
-- jiang1 hua1 jiang1 shui3 mei3 nian2 tong2 ， chun1 ri4 chun1 pan2 fang4 shou3 kong1 。
-- tian1 di4 wu2 si1 sheng1 wan4 wu4 ， shan1 lin2 you3 chu3 zhu4 shuai1 weng1 。
-- niu2 qu1 si3 di4 shen1 wu2 zui4 ， mei2 fa1 jing1 hua2 xin4 bu4 tong1 。
-- shu4 pian4 fei1 fei1 you2 la4 xue3 ， cun1 lin2 xiang1 huan4 he4 nian2 feng1 。
+- ri4 chu1 feng1 he2 su4 zui4 xing3 ， shan1 jia1 le4 shi4 man3 yu2 ling2 。
+- nian2 feng1 la4 xue3 jing1 san1 bai2 ， di4 nuan3 chun1 jiao1 yi3 bian4 qing1 。
+- cai4 xi4 cu4 hua1 yi2 bao2 bing3 ， jiu3 xiang1 fu2 yi3 xie4 chang2 ping2 。
+- hu2 cun1 hao3 jing3 yin2 nan2 jin4 ， qi3 yu3 hou2 jia1 zuo4 hua4 ping2 。
 
 ## 注释
 

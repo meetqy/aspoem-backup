@@ -6,21 +6,21 @@ titleSlug: hui-wen-qi-er
 author: 無名氏
 authorPinyin: wu2 ming2 shi4
 authorSlug: wu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 同誰更倚閑窗繡，落日紅扉小院深。
-- 東復西流分水嶺，恨兼愁續斷弦琴。
+- 紅手素絲千字錦，故人新曲九迴腸。
+- 風吹絮雪愁縈骨，淚灑縑書恨見郎。
 
 ## 拼音
 
-- tong2 shui2 geng4 yi3 xian2 chuang1 xiu4 ， luo4 ri4 hong2 fei1 xiao3 yuan4 shen1 。
-- dong1 fu4 xi1 liu2 fen1 shui3 ling3 ， hen4 jian1 chou2 xu4 duan4 xian2 qin2 。
+- hong2 shou3 su4 si1 qian1 zi4 jin3 ， gu4 ren2 xin1 qu3 jiu3 hui2 chang2 。
+- feng1 chui1 xu4 xue3 chou2 ying2 gu3 ， lei4 sa3 jian1 shu1 hen4 jian4 lang2 。
 
 ## 注释
 

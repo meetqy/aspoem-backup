@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 暖擁紅爐火，閑搔白髮頭。
-- 百年慵裏過，萬事醉中休。
-- 有室同摩詰，無兒比鄧攸。
-- 莫論身在日，身後亦無憂。
+- 婆娑放雞犬，嬉戲任兒童。
+- 閑坐槐陰下，開襟向晚風。
+- 漚麻池水裏，曬棗日陽中。
+- 人物何相稱，居然田舍翁。
 
 ## 拼音
 
-- nuan3 yong1 hong2 lu2 huo3 ， xian2 sao1 bai2 fa4 tou2 。
-- bai3 nian2 yong1 li3 guo4 ， wan4 shi4 zui4 zhong1 xiu1 。
-- you3 shi4 tong2 mo2 jie2 ， wu2 er2 bi3 deng4 you1 。
-- mo4 lun4 shen1 zai4 ri4 ， shen1 hou4 yi4 wu2 you1 。
+- po2 suo1 fang4 ji1 quan3 ， xi1 xi4 ren4 er2 tong2 。
+- xian2 zuo4 huai2 yin1 xia4 ， kai1 jin1 xiang4 wan3 feng1 。
+- ou1 ma2 chi2 shui3 li3 ， shai4 zao3 ri4 yang2 zhong1 。
+- ren2 wu4 he2 xiang1 cheng1 ， ju1 ran2 tian2 she4 weng1 。
 
 ## 注释
 

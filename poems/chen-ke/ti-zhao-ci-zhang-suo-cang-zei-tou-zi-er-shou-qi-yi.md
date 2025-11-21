@@ -6,10 +6,10 @@ titleSlug: ti-zhao-ci-zhang-suo-cang-zei-tou-zi-er-shou-qi-yi
 author: 陳克
 authorPinyin: chen2 ke4
 authorSlug: chen-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

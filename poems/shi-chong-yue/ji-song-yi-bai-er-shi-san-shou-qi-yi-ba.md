@@ -1,34 +1,28 @@
 ---
 id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-qi-yi-ba
-title: 偈頌一百二十三首  其一八
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ba1
+title: 偈頌一百二十三首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-ba
 author: 釋崇嶽
 authorPinyin: shi4 chong2 yue4
 authorSlug: shi-chong-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 元正改旦，事事成現。
-- 有時放行，有時坐斷。
-- 不惜兩莖眉，和坐盤掇轉。
-- 佛法世法，都盧一片。
-- 既是佛法世法，如何得成一片。
-- 但辨肯心，必不相賺。
+- 諸佛降生，鼻直眼橫。
+- 打與狗喫，據令而行。
+- 流通正法眼，日午打三更。
 
 ## 拼音
 
-- yuan2 zheng4 gai3 dan4 ， shi4 shi4 cheng2 xian4 。
-- you3 shi2 fang4 xing2 ， you3 shi2 zuo4 duan4 。
-- bu4 xi1 liang3 jing4 mei2 ， he2 zuo4 pan2 duo1 zhuan3 。
-- fo2 fa3 shi4 fa3 ， dou1 lu2 yi2 pian4 。
-- ji4 shi4 fo2 fa3 shi4 fa3 ， ru2 he2 de2 cheng2 yi2 pian4 。
-- dan4 bian4 ken3 xin1 ， bi4 bu4 xiang1 zhuan4 。
+- zhu1 fo2 jiang4 sheng1 ， bi2 zhi2 yan3 heng2 。
+- da3 yu3 gou3 chi1 ， ju4 ling4 er2 xing2 。
+- liu2 tong1 zheng4 fa3 yan3 ， ri4 wu3 da3 san1 geng1 。
 
 ## 注释
 

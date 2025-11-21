@@ -9,24 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 中人樂寂靜，下士好威儀。
-- 菩薩心無礙，同凡凡不知。
-- 佛是無相體，何須有相持。
-- 但令心了事，遮莫外人疑。
-- 如人渴飲水，冷暖心自知。
+- 真爲家貧無一物，此語總是空裏出。
+- 出語還須歸本源，不敢違他過去佛。
 
 ## 拼音
 
-- zhong1 ren2 le4 ji4 jing4 ， xia4 shi4 hao3 wei1 yi2 。
-- pu2 sa4 xin1 wu2 ai4 ， tong2 fan2 fan2 bu4 zhi1 。
-- fo2 shi4 wu2 xiang1 ti3 ， he2 xu1 you3 xiang1 chi2 。
-- dan4 ling4 xin1 liao3 shi4 ， zhe1 mo4 wai4 ren2 yi2 。
-- ru2 ren2 ke3 yin3 shui3 ， leng3 nuan3 xin1 zi4 zhi1 。
+- zhen1 wei2 jia1 pin2 wu2 yi2 wu4 ， ci3 yu3 zong3 shi4 kong1 li3 chu1 。
+- chu1 yu3 huan2 xu1 gui1 ben3 yuan2 ， bu4 gan3 wei2 ta1 guo4 qu4 fo2 。
 
 ## 注释
 

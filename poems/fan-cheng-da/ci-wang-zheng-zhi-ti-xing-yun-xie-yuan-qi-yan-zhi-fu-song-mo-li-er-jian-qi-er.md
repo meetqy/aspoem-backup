@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-wang-zheng-zhi-ti-xing-yun-xie-yuan-qi-yan-zhi-fu-song-mo-li-er-jian-qi-er
-title: 次王正之提刑韻謝袁起巖知府送末利二檻・其二
-titlePinyin: ci4 wang2 zheng4 zhi1 ti2 xing2 yun4 xie4 yuan2 qi3 yan2 zhi1 fu3 song4 mo4 li4 er4 jian4・qi2 er4
+title: 次王正之提刑韻謝袁起巖知府送末利二檻  其二
+titlePinyin: ci4 wang2 zheng4 zhi1 ti2 xing2 yun4 xie4 yuan2 qi3 yan2 zhi1 fu3 song4 mo4 li4 er4 jian4     qi2 er4
 titleSlug: ci-wang-zheng-zhi-ti-xing-yun-xie-yuan-qi-yan-zhi-fu-song-mo-li-er-jian-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

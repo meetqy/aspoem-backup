@@ -6,10 +6,10 @@ titleSlug: wan-zuo
 author: 丁伯桂
 authorPinyin: ding1 bo2 gui4
 authorSlug: ding-bo-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

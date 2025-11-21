@@ -6,10 +6,10 @@ titleSlug: zhou-xing-fan-gang-wang-zhu-jian-shi-shang-li-hua-sheng-kai
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

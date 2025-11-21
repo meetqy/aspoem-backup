@@ -6,10 +6,10 @@ titleSlug: yu-ma-shan
 author: 朱克家
 authorPinyin: zhu1 ke4 jia1
 authorSlug: zhu-ke-jia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

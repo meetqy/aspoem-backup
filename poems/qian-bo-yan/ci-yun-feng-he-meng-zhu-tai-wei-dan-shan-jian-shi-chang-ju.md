@@ -6,10 +6,10 @@ titleSlug: ci-yun-feng-he-meng-zhu-tai-wei-dan-shan-jian-shi-chang-ju
 author: 錢伯言
 authorPinyin: qian2 bo2 yan2
 authorSlug: qian-bo-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

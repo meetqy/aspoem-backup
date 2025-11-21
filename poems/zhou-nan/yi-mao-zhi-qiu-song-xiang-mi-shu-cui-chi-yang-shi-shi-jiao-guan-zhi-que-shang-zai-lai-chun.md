@@ -6,10 +6,10 @@ titleSlug: yi-mao-zhi-qiu-song-xiang-mi-shu-cui-chi-yang-shi-shi-jiao-guan-zhi-q
 author: 周南
 authorPinyin: zhou1 nan2
 authorSlug: zhou-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

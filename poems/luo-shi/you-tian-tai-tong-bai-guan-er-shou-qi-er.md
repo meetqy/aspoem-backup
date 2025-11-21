@@ -6,10 +6,10 @@ titleSlug: you-tian-tai-tong-bai-guan-er-shou-qi-er
 author: 羅適
 authorPinyin: luo2 shi4
 authorSlug: luo-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-qi
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉甃蘭封麝，瑤池柳養金。
-- 宸章先造化，摛藻自春林。
+- 靧面桃花有意開，光風轉蕙日徘徊。
+- 昭陽天近知春早，玉琯東風破雪來。
 
 ## 拼音
 
-- yu4 zhou4 lan2 feng1 she4 ， yao2 chi2 liu3 yang3 jin1 。
-- chen2 zhang1 xian1 zao4 hua4 ， chi1 zao3 zi4 chun1 lin2 。
+- hui4 mian4 tao2 hua1 you3 yi4 kai1 ， guang1 feng1 zhuan3 hui4 ri4 pai2 huai2 。
+- zhao1 yang2 tian1 jin4 zhi1 chun1 zao3 ， yu4 guan3 dong1 feng1 po4 xue3 lai2 。
 
 ## 注释
 

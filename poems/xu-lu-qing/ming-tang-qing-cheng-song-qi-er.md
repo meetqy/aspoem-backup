@@ -1,26 +1,26 @@
 ---
 id: xu-lu-qing-ming-tang-qing-cheng-song-qi-er
-title: 明堂慶成頌  其二
-titlePinyin: ming2 tang2 qing4 cheng2 song4     qi2 er4
+title: 明堂慶成頌  其二○
+titlePinyin: ming2 tang2 qing4 cheng2 song4     qi2 er4 ○
 titleSlug: ming-tang-qing-cheng-song-qi-er
 author: 徐鹿卿
 authorPinyin: xu2 lu4 qing1
 authorSlug: xu-lu-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大祀有彝，親享凡七。
-- 嚴父配天，昉自今日。
+- 流民可綏，夷狄可滅。
+- 天且弗違，人誰敢越。
 
 ## 拼音
 
-- da4 si4 you3 yi2 ， qin1 xiang3 fan2 qi1 。
-- yan2 fu4 pei4 tian1 ， fang3 zi4 jin1 ri4 。
+- liu2 min2 ke3 sui2 ， yi2 di2 ke3 mie4 。
+- tian1 qie3 fu2 wei2 ， ren2 shui2 gan3 yue4 。
 
 ## 注释
 

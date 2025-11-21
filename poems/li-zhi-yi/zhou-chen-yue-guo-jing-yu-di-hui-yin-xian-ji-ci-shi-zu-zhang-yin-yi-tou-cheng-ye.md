@@ -6,10 +6,10 @@ titleSlug: zhou-chen-yue-guo-jing-yu-di-hui-yin-xian-ji-ci-shi-zu-zhang-yin-yi-t
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

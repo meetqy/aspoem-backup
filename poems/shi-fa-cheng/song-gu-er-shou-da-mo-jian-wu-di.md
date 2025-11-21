@@ -6,10 +6,10 @@ titleSlug: song-gu-er-shou-da-mo-jian-wu-di
 author: 釋法成
 authorPinyin: shi4 fa3 cheng2
 authorSlug: shi-fa-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

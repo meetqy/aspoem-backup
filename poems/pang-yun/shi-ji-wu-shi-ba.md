@@ -9,24 +9,18 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 五藴若實有，則合有色形。
-- 五藴若實無，則合無形聲。
-- 祇爲假名字，所以妄來停。
-- 若了名相空，事盡總惺惺。
-- 心王無障礙，擺撥三界行。
+- 十方國土皆吾宅，長者大門常日開。
+- 有識名人守院外，無心入理見如來。
 
 ## 拼音
 
-- wu3 yun4 ruo4 shi2 you3 ， ze2 he2 you3 se4 xing2 。
-- wu3 yun4 ruo4 shi2 wu2 ， ze2 he2 wu2 xing2 sheng1 。
-- qi2 wei2 jia3 ming2 zi4 ， suo3 yi3 wang4 lai2 ting2 。
-- ruo4 le0 ming2 xiang4 kong1 ， shi4 jin4 zong3 xing1 xing1 。
-- xin1 wang2 wu2 zhang4 ai4 ， bai3 bo1 san1 jie4 xing2 。
+- shi2 fang1 guo2 tu3 jie1 wu2 zhai2 ， chang2 zhe3 da4 men2 chang2 ri4 kai1 。
+- you3 shi2 ming2 ren2 shou3 yuan4 wai4 ， wu2 xin1 ru4 li3 jian4 ru2 lai2 。
 
 ## 注释
 

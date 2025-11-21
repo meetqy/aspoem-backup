@@ -6,25 +6,21 @@ titleSlug: ai-shan
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 公子漫誇金谷富，先生祇愛玉川貧。
-- 山中矯矯七君子，堂上皤皤四老人。
-- 時引壺觴聊自醉，肯教鵝鴨惱比隣。
-- 深紅淺白兼穠紫，看取林園十畝春。
+- 柳絲稀處見前山，半在雲間半霧間。
+- 回首亂紅濃翠裏，春風啼鳥更綿蠻。
 
 ## 拼音
 
-- gong1 zi3 man4 kua1 jin1 gu3 fu4 ， xian1 sheng0 qi2 ai4 yu4 chuan1 pin2 。
-- shan1 zhong1 jiao3 jiao3 qi1 jun1 zi3 ， tang2 shang4 po2 po2 si4 lao3 ren2 。
-- shi2 yin3 hu2 shang1 liao2 zi4 zui4 ， ken3 jiao4 e2 ya1 nao3 bi3 lin2 。
-- shen1 hong2 qian3 bai2 jian1 nong2 zi3 ， kan4 qu3 lin2 yuan2 shi2 mu3 chun1 。
+- liu3 si1 xi1 chu3 jian4 qian2 shan1 ， ban4 zai4 yun2 jian4 ban4 wu4 jian4 。
+- hui2 shou3 luan4 hong2 nong2 cui4 li3 ， chun1 feng1 ti2 niao3 geng4 mian2 man2 。
 
 ## 注释
 

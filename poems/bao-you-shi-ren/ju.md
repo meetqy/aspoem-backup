@@ -3,13 +3,13 @@ id: bao-you-shi-ren-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 寶祐時人
-authorPinyin: bao3 you4 shi2 ren2
+author: 寶祐士人
+authorPinyin: bao3 you4 shi4 ren2
 authorSlug: bao-you-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

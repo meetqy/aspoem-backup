@@ -1,26 +1,26 @@
 ---
 id: shi-ju-jian-ji-song-yi-bai-san-shi-san-shou-qi-yi-ba
-title: 偈頌一百三十三首  其一八
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 ba1
+title: 偈頌一百三十三首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-yi-ba
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六年勤苦竟何如，爲問君王記得無。
-- 直下雖知難抵諱，到頭終不受塗糊。
+- 誤將螢火作明星，發得些兒鬼眼睛。
+- 末代只看王勃記，何殊瘞鶴紫陽銘。
 
 ## 拼音
 
-- liu4 nian2 qin2 ku3 jing4 he2 ru2 ， wei2 wen4 jun1 wang2 ji4 de2 wu2 。
-- zhi2 xia4 sui1 zhi1 nan2 di3 hui4 ， dao4 tou2 zhong1 bu2 shou4 tu2 hu2 。
+- wu4 jiang1 ying2 huo3 zuo4 ming2 xing1 ， fa1 de2 xie1 er2 gui3 yan3 jing0 。
+- mo4 dai4 zhi1 kan4 wang2 bo2 ji4 ， he2 shu1 yi4 he4 zi3 yang2 ming2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-zai-xue-lu
 author: 蕭介父
 authorPinyin: xiao1 jie4 fu4
 authorSlug: xiao-jie-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

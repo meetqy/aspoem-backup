@@ -6,10 +6,10 @@ titleSlug: yong-xi-xin-tang-de-niao-ming-shan-geng-you-qi-si
 author: 呂天策
 authorPinyin: lü3 tian1 ce4
 authorSlug: lu-tian-ce
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

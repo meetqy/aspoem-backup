@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zheng-yue-jiu-ri-xue-xian-hou-da-yu-er-shou-qi-yi
-title: 正月九日雪霰後大雨二首・其一
-titlePinyin: zheng1 yue4 jiu3 ri4 xue3 xian4 hou4 da4 yu3 er4 shou3・qi2 yi1
+title: 正月九日雪霰後大雨二首  其一
+titlePinyin: zheng1 yue4 jiu3 ri4 xue3 xian4 hou4 da4 yu3 er4 shou3     qi2 yi1
 titleSlug: zheng-yue-jiu-ri-xue-xian-hou-da-yu-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

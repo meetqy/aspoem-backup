@@ -6,25 +6,25 @@ titleSlug: you-qi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閑人了無事，地僻稱幽棲。
-- {臼市} 米留雞食，移琴避燕泥。
-- 桐生窗欲暗，筍長徑還迷。
-- 不作容車計，門閭儘放低。
+- 幽棲少人客，積病得衰殘。
+- 身納分司祿，兒須遠次官。
+- 新寒換衣典，閑日借書觀。
+- 更嘆秋來瘦，晨興覺帽寬。
 
 ## 拼音
 
-- xian2 ren2 le0 wu2 shi4 ， di4 pi4 cheng1 you1 qi1 。
-- { jiu4 shi4 }  mi3 liu2 ji1 shi2 ， yi2 qin2 bi4 yan4 ni2 。
-- tong2 sheng1 chuang1 yu4 an4 ， sun3 chang2 jing4 huan2 mi2 。
-- bu2 zuo4 rong2 ju1 ji4 ， men2 lü2 jin3 fang4 di1 。
+- you1 qi1 shao3 ren2 ke4 ， ji1 bing4 de2 shuai1 can2 。
+- shen1 na4 fen1 si1 lu4 ， er2 xu1 yuan3 ci4 guan1 。
+- xin1 han2 huan4 yi1 dian3 ， xian2 ri4 jie4 shu1 guan1 。
+- geng4 tan4 qiu1 lai2 shou4 ， chen2 xing1 jue2 mao4 kuan1 。
 
 ## 注释
 

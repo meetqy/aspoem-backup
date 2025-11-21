@@ -6,10 +6,10 @@ titleSlug: yu-ji-wan-lang-zhong-pei-jing-si-shao-qing-you-hu-qiu-jing-si-ji-wan-
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,28 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-yi-ba
-title: 偈頌二百零五首  其一八
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 ba1
+title: 偈頌二百零五首  其一八○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 ba1 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-yi-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 劫火炎炎是事灰，劫空空處有靈臺。
-- 更無妍醜成痕垢，妍醜俱從箇裏來。
+- 一色是須轉，大功不我居，珠走碧盤盤走珠。
+- 直下滄溟取明月，吾家自有崑崙奴。
+- 天宇豁空雲卷雨，溪容澄澈水懷秋。
 
 ## 拼音
 
-- jie2 huo3 yan2 yan2 shi4 shi4 hui1 ， jie2 kong1 kong1 chu3 you3 ling2 tai2 。
-- geng4 wu2 yan2 chou3 cheng2 hen2 gou4 ， yan2 chou3 ju4 cong2 ge4 li3 lai2 。
+- yi2 se4 shi4 xu1 zhuan3 ， da4 gong1 bu4 wo3 ju1 ， zhu1 zou3 bi4 pan2 pan2 zou3 zhu1 。
+- zhi2 xia4 cang1 ming2 qu3 ming2 yue4 ， wu2 jia1 zi4 you3 kun1 lun2 nu2 。
+- tian1 yu3 huo1 kong1 yun2 juan4 yu3 ， xi1 rong2 cheng2 che4 shui3 huai2 qiu1 。
 
 ## 注释
 

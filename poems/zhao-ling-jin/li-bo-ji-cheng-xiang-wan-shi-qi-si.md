@@ -6,9 +6,9 @@ titleSlug: li-bo-ji-cheng-xiang-wan-shi-qi-si
 author: 趙令衿
 authorPinyin: zhao4 ling4 jin1
 authorSlug: zhao-ling-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: xin-ying-ge
 author: 釋瑩徹
 authorPinyin: shi4 ying2 che4
 authorSlug: shi-ying-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

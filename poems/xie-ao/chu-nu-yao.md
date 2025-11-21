@@ -6,10 +6,10 @@ titleSlug: chu-nu-yao
 author: 謝翱
 authorPinyin: xie4 ao2
 authorSlug: xie-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

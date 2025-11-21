@@ -1,26 +1,26 @@
 ---
 id: shi-qing-yuan-song-gu-liu-shi-er-shou-qi-er
-title: 頌古六十二首  其二
-titlePinyin: song4 gu3 liu4 shi2 er4 shou3     qi2 er4
+title: 頌古六十二首  其二○
+titlePinyin: song4 gu3 liu4 shi2 er4 shou3     qi2 er4 ○
 titleSlug: song-gu-liu-shi-er-shou-qi-er
 author: 釋清遠
 authorPinyin: shi4 qing1 yuan3
 authorSlug: shi-qing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 法王法令若爲酬，潦倒文殊强出頭。
-- 負累釋迦猶可事，至今千古鬧啾啾。
+- 八面當風祇這是，拂袖之談動天地。
+- 堪愛賣身王老師，不作賤兮不作貴。
 
 ## 拼音
 
-- fa3 wang2 fa3 ling4 ruo4 wei2 chou2 ， liao2 dao3 wen2 shu1 qiang2 chu1 tou2 。
-- fu4 lei4 shi4 jia1 you2 ke3 shi4 ， zhi4 jin1 qian1 gu3 nao4 jiu1 jiu1 。
+- ba1 mian4 dang1 feng1 qi2 zhe4 shi4 ， fu2 xiu4 zhi1 tan2 dong4 tian1 di4 。
+- kan1 ai4 mai4 shen1 wang2 lao3 shi1 ， bu2 zuo4 jian4 xi1 bu2 zuo4 gui4 。
 
 ## 注释
 

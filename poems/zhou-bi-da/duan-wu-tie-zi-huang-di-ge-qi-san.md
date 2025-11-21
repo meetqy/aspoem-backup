@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-san
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殿閣南薰細，宮壺晝漏遲。
-- 皇恩隆宰輔，賜扇御書詩。
+- 薰殿午風清，金盤滿貯冰。
+- 願言均此施，四海滌煩蒸。
 
 ## 拼音
 
-- dian4 ge2 nan2 xun1 xi4 ， gong1 hu2 zhou4 lou4 chi2 。
-- huang2 en1 long2 zai3 fu3 ， ci4 shan4 yu4 shu1 shi1 。
+- xun1 dian4 wu3 feng1 qing1 ， jin1 pan2 man3 zhu4 bing1 。
+- yuan4 yan2 jun1 ci3 shi1 ， si4 hai3 di2 fan2 zheng1 。
 
 ## 注释
 

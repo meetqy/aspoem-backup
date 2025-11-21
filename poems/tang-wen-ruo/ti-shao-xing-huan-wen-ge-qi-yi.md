@@ -6,10 +6,10 @@ titleSlug: ti-shao-xing-huan-wen-ge-qi-yi
 author: 唐文若
 authorPinyin: tang2 wen2 ruo4
 authorSlug: tang-wen-ruo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

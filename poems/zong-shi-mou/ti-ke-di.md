@@ -6,10 +6,10 @@ titleSlug: ti-ke-di
 author: 宗室某
 authorPinyin: zong1 shi4 mou3
 authorSlug: zong-shi-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: shi-yi-shou
 author: 釋遇賢
 authorPinyin: shi4 yu4 xian2
 authorSlug: shi-yu-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

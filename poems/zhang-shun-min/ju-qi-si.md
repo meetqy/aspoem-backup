@@ -1,24 +1,24 @@
 ---
 id: zhang-shun-min-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山長水遠連三楚，物態人情又一州。
+- 黄雀知時節，清江足稻粱。
 
 ## 拼音
 
-- shan1 chang2 shui3 yuan3 lian2 san1 chu3 ， wu4 tai4 ren2 qing2 you4 yi4 zhou1 。
+- huang2 que4 zhi1 shi2 jie2 ， qing1 jiang1 zu2 dao4 liang2 。
 
 ## 注释
 

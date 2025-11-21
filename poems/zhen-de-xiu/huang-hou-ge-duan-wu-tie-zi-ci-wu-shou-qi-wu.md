@@ -6,21 +6,21 @@ titleSlug: huang-hou-ge-duan-wu-tie-zi-ci-wu-shou-qi-wu
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 纔過端辰又誕辰，天家風物鎮長新。
-- 六宮競獻長生縷，一縷應期一萬春。
+- 瑶池十丈藕花香，清賞尤便水殿凉。
+- 聞說內家多樂事，前星親自捧霞觴。
 
 ## 拼音
 
-- cai2 guo4 duan1 chen2 you4 dan4 chen2 ， tian1 jia1 feng1 wu4 zhen4 chang2 xin1 。
-- liu4 gong1 jing4 xian4 chang2 sheng1 lü3 ， yi4 lü3 ying1 qi1 yi2 wan4 chun1 。
+- yao2 chi2 shi2 zhang4 ou3 hua1 xiang1 ， qing1 shang3 you2 bian4 shui3 dian4 liang2 。
+- wen2 shuo1 nei4 jia1 duo1 le4 shi4 ， qian2 xing1 qin1 zi4 peng3 xia2 shang1 。
 
 ## 注释
 

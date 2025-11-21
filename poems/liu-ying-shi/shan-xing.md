@@ -6,25 +6,25 @@ titleSlug: shan-xing
 author: 劉應時
 authorPinyin: liu2 ying1 shi2
 authorSlug: liu-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春光淡心目，乘興聊躋攀。
-- 頗識造物意，長容我輩閒。
-- 橫拖拄杖去，笑折梅花還。
-- 彼哉鐘鼎樂，不在山林間。
+- 瘦藤慚愧肯相携，不怕微茫雪意低。
+- 晚照荒荒迷遠岫，濕雲漠漠度前溪。
+- 雖無酒力禦寒色，且向梅花覓舊題。
+- 漫說玉堂多勝事，何如丘壑卜幽棲。
 
 ## 拼音
 
-- chun1 guang1 dan4 xin1 mu4 ， cheng2 xing1 liao2 ji1 pan1 。
-- po1 shi2 zao4 wu4 yi4 ， chang2 rong2 wo3 bei4 xian2 。
-- heng2 tuo1 zhu3 zhang4 qu4 ， xiao4 zhe2 mei2 hua1 huan2 。
-- bi3 zai1 zhong1 ding3 le4 ， bu2 zai4 shan1 lin2 jian4 。
+- shou4 teng2 can2 kui4 ken3 xiang1 xie2 ， bu2 pa4 wei1 mang2 xue3 yi4 di1 。
+- wan3 zhao4 huang1 huang1 mi2 yuan3 xiu4 ， shi1 yun2 mo4 mo4 du4 qian2 xi1 。
+- sui1 wu2 jiu3 li4 yu4 han2 se4 ， qie3 xiang4 mei2 hua1 mi4 jiu4 ti2 。
+- man4 shuo1 yu4 tang2 duo1 sheng4 shi4 ， he2 ru2 qiu1 he4 bu3 you1 qi1 。
 
 ## 注释
 

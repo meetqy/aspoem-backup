@@ -1,30 +1,30 @@
 ---
 id: li-zheng-min-za-shi-qi-yi
-title: 雜詩  其一
-titlePinyin: za2 shi1     qi2 yi1
+title: 雜詩  其一○
+titlePinyin: za2 shi1     qi2 yi1 ○
 titleSlug: za-shi-qi-yi
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海岸收殘雨，西風放晚晴。
-- 霜林紅未脫，寒草綠猶生。
-- 老覺光陰速，閑觀世累輕。
-- 端憂多暇日，憔悴庾蘭成。
+- 汲汲謀三徑，區區卜一廛。
+- 艱難歸舊隱，荏苒嘆流年。
+- 欲設維摩榻，重尋子敬氈。
+- 飄零來海角，華髪已盈顛。
 
 ## 拼音
 
-- hai3 an4 shou1 can2 yu3 ， xi1 feng1 fang4 wan3 qing2 。
-- shuang1 lin2 hong2 wei4 tuo1 ， han2 cao3 lü4 you2 sheng1 。
-- lao3 jue2 guang1 yin1 su4 ， xian2 guan1 shi4 lei4 qing1 。
-- duan1 you1 duo1 xia2 ri4 ， qiao2 cui4 yu3 lan2 cheng2 。
+- ji2 ji2 mou2 san1 jing4 ， qu1 qu1 bu3 yi4 chan2 。
+- jian1 nan2 gui1 jiu4 yin3 ， ren3 ran3 tan4 liu2 nian2 。
+- yu4 she4 wei2 mo2 ta4 ， zhong4 xun2 zi3 jing4 zhan1 。
+- piao1 ling2 lai2 hai3 jiao3 ， hua2 fa4 yi3 ying2 dian1 。
 
 ## 注释
 

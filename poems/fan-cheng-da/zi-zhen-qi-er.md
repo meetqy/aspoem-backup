@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zi-zhen-qi-er
-title: 自箴・其二
-titlePinyin: zi4 zhen1・qi2 er4
+title: 自箴  其二
+titlePinyin: zi4 zhen1     qi2 er4
 titleSlug: zi-zhen-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

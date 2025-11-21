@@ -1,26 +1,30 @@
 ---
 id: shi-ru-jing-ji-song-san-shi-si-shou-qi-san
-title: 偈頌三十四首  其三
-titlePinyin: ji4 song4 san1 shi2 si4 shou3     qi2 san1
+title: 偈頌三十四首  其三○
+titlePinyin: ji4 song4 san1 shi2 si4 shou3     qi2 san1 ○
 titleSlug: ji-song-san-shi-si-shou-qi-san
 author: 釋如淨
 authorPinyin: shi4 ru2 jing4
 authorSlug: shi-ru-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 抉出達磨眼睛，作泥彈子打人。
-- 海枯徹過底，波浪拍天高。
+- 大地平沈，側布黄金。
+- 虛空透闊，高架栴檀。
+- 依稀馬廐，彷彿牛欄。
+- 鶻眼鷹睛不許看。
 
 ## 拼音
 
-- jue2 chu1 da2 mo2 yan3 jing0 ， zuo4 ni2 dan4 zi3 da3 ren2 。
-- hai3 ku1 che4 guo4 di3 ， bo1 lang4 pai1 tian1 gao1 。
+- da4 di4 ping2 shen3 ， ce4 bu4 huang2 jin1 。
+- xu1 kong1 tou4 kuo4 ， gao1 jia4 zhan1 tan2 。
+- yi1 xi1 ma3 jiu4 ， pang2 fu2 niu2 lan2 。
+- gu3 yan3 ying1 jing1 bu4 xu1 kan4 。
 
 ## 注释
 

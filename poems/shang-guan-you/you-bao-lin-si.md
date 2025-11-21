@@ -6,10 +6,10 @@ titleSlug: you-bao-lin-si
 author: 上官祐
 authorPinyin: shang4 guan1 you4
 authorSlug: shang-guan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

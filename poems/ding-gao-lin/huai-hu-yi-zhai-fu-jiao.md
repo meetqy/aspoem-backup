@@ -6,10 +6,10 @@ titleSlug: huai-hu-yi-zhai-fu-jiao
 author: 丁高林
 authorPinyin: ding1 gao1 lin2
 authorSlug: ding-gao-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

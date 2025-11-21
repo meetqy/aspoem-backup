@@ -6,10 +6,10 @@ titleSlug: guang-run-si-xin-liao
 author: 釋自南
 authorPinyin: shi4 zi4 nan2
 authorSlug: shi-zi-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

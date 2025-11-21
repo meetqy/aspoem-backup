@@ -6,10 +6,10 @@ titleSlug: you-ling-yan
 author: 王龍學
 authorPinyin: wang2 long2 xue2
 authorSlug: wang-long-xue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

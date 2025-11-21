@@ -6,10 +6,10 @@ titleSlug: jian-mi-shu-lang-liu-hou-chu-shou-long-shu-fen-yun-de-ting-zi
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

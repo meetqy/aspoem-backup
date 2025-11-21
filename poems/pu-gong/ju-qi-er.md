@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 蒲公
 authorPinyin: pu2 gong1
 authorSlug: pu-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

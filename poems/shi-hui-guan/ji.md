@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋慧觀
 authorPinyin: shi4 hui4 guan1
 authorSlug: shi-hui-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

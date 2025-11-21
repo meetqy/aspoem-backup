@@ -6,9 +6,9 @@ titleSlug: ti-bi
 author: 賈舍人
 authorPinyin: jia3 she4 ren2
 authorSlug: jia-she-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

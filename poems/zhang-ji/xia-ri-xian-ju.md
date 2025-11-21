@@ -9,22 +9,22 @@ authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 無事門多閉，偏知夏日長。
-- 早蟬聲寂寞，新竹氣清涼。
-- 閑對臨書案，看移曬藥牀。
-- 自憐歸未得，猶寄在班行。
+- 多病逢迎少，閑居又一年。
+- 藥看辰日合，茶過卯時煎。
+- 草長晴來地，蟲飛晚後天。
+- 此時幽夢遠，不覺到山邊。
 
 ## 拼音
 
-- wu2 shi4 men2 duo1 bi4 ， pian1 zhi1 xia4 ri4 chang2 。
-- zao3 chan2 sheng1 ji4 mo4 ， xin1 zhu2 qi4 qing1 liang2 。
-- xian2 dui4 lin2 shu1 an4 ， kan4 yi2 shai4 yao4 chuang2 。
-- zi4 lian2 gui1 wei4 de2 ， you2 ji4 zai4 ban1 xing2 。
+- duo1 bing4 feng2 ying2 shao3 ， xian2 ju1 you4 yi4 nian2 。
+- yao4 kan4 chen2 ri4 he2 ， cha2 guo4 mao3 shi2 jian1 。
+- cao3 chang2 qing2 lai2 di4 ， chong2 fei1 wan3 hou4 tian1 。
+- ci3 shi2 you1 meng4 yuan3 ， bu4 jue2 dao4 shan1 bian1 。
 
 ## 注释
 

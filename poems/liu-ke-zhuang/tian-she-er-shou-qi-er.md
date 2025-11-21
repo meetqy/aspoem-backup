@@ -6,25 +6,21 @@ titleSlug: tian-she-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白布衫寬烏角巾，誰知曾扈屬車塵。
-- 行婆內翰共鄰曲，田父拾遺相主賓。
-- 設苜蓿盤殊菲薄，沽茅柴酒半漓淳。
-- 直令爵齒如荀爽，晚節依然愧逸民。
+- 桀溺長沮振古豪，不能歷聘遂深逃。
+- 貛郎一肚皮周禮，浪說求田意最高。
 
 ## 拼音
 
-- bai2 bu4 shan1 kuan1 wu1 jiao3 jin1 ， shui2 zhi1 ceng2 hu4 shu3 ju1 chen2 。
-- xing2 po2 nei4 han4 gong4 lin2 qu3 ， tian2 fu4 shi2 yi2 xiang1 zhu3 bin1 。
-- she4 mu4 xu0 pan2 shu1 fei3 bo2 ， gu1 mao2 chai2 jiu3 ban4 li2 chun2 。
-- zhi2 ling4 jue2 chi3 ru2 xun2 shuang3 ， wan3 jie2 yi1 ran2 kui4 yi4 min2 。
+- jie2 ni4 chang2 ju3 zhen4 gu3 hao2 ， bu4 neng2 li4 pin4 sui4 shen1 tao2 。
+- huan1 lang2 yi2 du4 pi2 zhou1 li3 ， lang4 shuo1 qiu2 tian2 yi4 zui4 gao1 。
 
 ## 注释
 

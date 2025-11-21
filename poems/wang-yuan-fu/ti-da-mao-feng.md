@@ -6,10 +6,10 @@ titleSlug: ti-da-mao-feng
 author: 王元復
 authorPinyin: wang2 yuan2 fu4
 authorSlug: wang-yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

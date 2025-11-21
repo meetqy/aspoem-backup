@@ -6,21 +6,25 @@ titleSlug: shang-chun
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浮雲冉冉送春華，怯見春寒日欲斜。
-- 一夜雨聲能幾許，曉來落盡一城花。
+- 山城夜來雨，卧病惜殘春。
+- 暗暗鳥啼樹，飄飄花去人。
+- 地偏佳客斷，官冷酒錢貧。
+- 乘興還騎馬，田家樂更真。
 
 ## 拼音
 
-- fu2 yun2 ran3 ran3 song4 chun1 hua2 ， qie4 jian4 chun1 han2 ri4 yu4 xie2 。
-- yi2 ye4 yu3 sheng1 neng2 ji1 xu1 ， xiao3 lai2 luo4 jin4 yi4 cheng2 hua1 。
+- shan1 cheng2 ye4 lai2 yu3 ， wo4 bing4 xi1 can2 chun1 。
+- an4 an4 niao3 ti2 shu4 ， piao1 piao1 hua1 qu4 ren2 。
+- di4 pian1 jia1 ke4 duan4 ， guan1 leng3 jiu3 qian2 pin2 。
+- cheng2 xing1 huan2 qi2 ma3 ， tian2 jia1 le4 geng4 zhen1 。
 
 ## 注释
 

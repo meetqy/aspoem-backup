@@ -6,10 +6,10 @@ titleSlug: chu-dao-chi-zhou-yan-xi-zu-feng-ma-bu-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2
 authorSlug: huang-yan-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

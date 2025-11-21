@@ -6,10 +6,10 @@ titleSlug: guan-luo-cheng-hua-cheng-yao-fu-xian-sheng
 author: 張㟭
 authorPinyin: zhang1 㟭
 authorSlug: zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-tai-yang-qi-wu
-title: 太陽・其五
-titlePinyin: tai4 yang2・qi2 wu3
+title: 太陽  其五
+titlePinyin: tai4 yang2     qi2 wu3
 titleSlug: tai-yang-qi-wu
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: song-qian-xia-guan-shi-wang-gong
 author: 黄垍
 authorPinyin: huang2 ji4
 authorSlug: huang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

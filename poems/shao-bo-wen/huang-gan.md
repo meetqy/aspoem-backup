@@ -6,10 +6,10 @@ titleSlug: huang-gan
 author: 邵伯溫
 authorPinyin: shao4 bo2 wen1
 authorSlug: shao-bo-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

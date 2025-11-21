@@ -6,10 +6,10 @@ titleSlug: lin-zhan-chu-shi-he-jing-xian-sheng-zhi-sun-ye-yu-yu-hou-shan-jin-si-
 author: 李彭
 authorPinyin: li3 peng2
 authorSlug: li-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

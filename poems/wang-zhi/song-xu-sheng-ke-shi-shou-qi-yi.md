@@ -1,26 +1,26 @@
 ---
 id: wang-zhi-song-xu-sheng-ke-shi-shou-qi-yi
-title: 送徐聖可十首  其一
-titlePinyin: song4 xu2 sheng4 ke3 shi2 shou3     qi2 yi1
+title: 送徐聖可十首  其一○
+titlePinyin: song4 xu2 sheng4 ke3 shi2 shou3     qi2 yi1 ○
 titleSlug: song-xu-sheng-ke-shi-shou-qi-yi
 author: 王質
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此州斗大故爲慳，金印如之足解顔。
-- 他日低頭看屈肘，亦思王老住胡灣。
+- 卷雪樓前欲放船，滄浪亭上且扶肩。
+- 他時一月同千里，江漢吳淞共拍天。
 
 ## 拼音
 
-- ci3 zhou1 dou4 da4 gu4 wei2 qian1 ， jin1 yin4 ru2 zhi1 zu2 jie3 yan2 。
-- ta1 ri4 di1 tou2 kan4 qu1 zhou3 ， yi4 si1 wang2 lao3 zhu4 hu2 wan1 。
+- juan4 xue3 lou2 qian2 yu4 fang4 chuan2 ， cang1 lang4 ting2 shang4 qie3 fu2 jian1 。
+- ta1 shi2 yi1 yue4 tong2 qian1 li3 ， jiang1 han4 wu2 song1 gong4 pai1 tian1 。
 
 ## 注释
 

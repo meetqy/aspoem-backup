@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 聞道花門破，和親事却非。
-- 人憐漢公主，生得渡河歸。
-- 秋思拋雲髻，腰支勝寶衣。
-- 羣兇猶索戰，回首意多違。
+- 天畔羣山孤草亭，江中風浪雨冥冥。
+- 一雙白魚不受釣，三寸黃甘猶自青。
+- 多病馬卿無日起，窮途阮籍幾時醒。
+- 未聞細柳散金甲，腸斷秦川流濁涇。
 
 ## 拼音
 
-- wen2 dao4 hua1 men2 po4 ， he2 qin1 shi4 que4 fei1 。
-- ren2 lian2 han4 gong1 zhu3 ， sheng1 de2 du4 he2 gui1 。
-- qiu1 si1 pao1 yun2 ji4 ， yao1 zhi1 sheng4 bao3 yi1 。
-- qun2 xiong1 you2 suo3 zhan4 ， hui2 shou3 yi4 duo1 wei2 。
+- tian1 pan4 qun2 shan1 gu1 cao3 ting2 ， jiang1 zhong1 feng1 lang4 yu3 ming2 ming2 。
+- yi4 shuang1 bai2 yu2 bu2 shou4 diao4 ， san1 cun4 huang2 gan1 you2 zi4 qing1 。
+- duo1 bing4 ma3 qing1 wu2 ri4 qi3 ， qiong2 tu2 ruan3 ji2 ji1 shi2 xing3 。
+- wei4 wen2 xi4 liu3 san4 jin1 jia3 ， chang2 duan4 qin2 chuan1 liu2 zhuo2 jing1 。
 
 ## 注释
 

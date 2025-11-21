@@ -6,25 +6,29 @@ titleSlug: qiu-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漫道秋來雨，那無一日晴。
-- 只供高枕臥，不放小窗明。
-- 書冊頻開闔，山瓢任濁清。
-- 長年諳世味，不是故逃名。
+- 山深草木久已荒，晝昏風雨殊未止。
+- 看書不覺向壁卧，煎茶欲罷推枕起。
+- 清心正付竹罏香，漱齒每挹巖泉水。
+- 與世不諧元有命，閉門自適差可喜。
+- 少年癡絕晚乃悟，束縛珠襦均一死。
+- 悠然袖手倚蒲團，洗盡玉關心萬里。
 
 ## 拼音
 
-- man4 dao4 qiu1 lai2 yu3 ， na4 wu2 yi2 ri4 qing2 。
-- zhi1 gong4 gao1 zhen3 wo4 ， bu2 fang4 xiao3 chuang1 ming2 。
-- shu1 ce4 bin1 kai1 he2 ， shan1 piao2 ren4 zhuo2 qing1 。
-- chang2 nian2 an1 shi4 wei4 ， bu2 shi4 gu4 tao2 ming2 。
+- shan1 shen1 cao3 mu4 jiu3 yi3 huang1 ， zhou4 hun1 feng1 yu3 shu1 wei4 zhi3 。
+- kan4 shu1 bu4 jue2 xiang4 bi4 wo4 ， jian1 cha2 yu4 ba4 tui1 zhen3 qi3 。
+- qing1 xin1 zheng4 fu4 zhu2 lu2 xiang1 ， shu4 chi3 mei3 yi4 yan2 quan2 shui3 。
+- yu3 shi4 bu4 xie2 yuan2 you3 ming4 ， bi4 men2 zi4 shi4 cha4 ke3 xi3 。
+- shao4 nian2 chi1 jue2 wan3 nai3 wu4 ， shu4 fu4 zhu1 ru2 jun1 yi4 si3 。
+- you1 ran2 xiu4 shou3 yi3 pu2 tuan2 ， xi3 jin4 yu4 guan1 xin1 wan4 li3 。
 
 ## 注释
 

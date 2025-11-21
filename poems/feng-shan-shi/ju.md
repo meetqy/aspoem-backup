@@ -6,9 +6,9 @@ titleSlug: ju
 author: 豐禪師
 authorPinyin: feng1 shan4 shi1
 authorSlug: feng-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

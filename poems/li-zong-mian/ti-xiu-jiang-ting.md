@@ -6,10 +6,10 @@ titleSlug: ti-xiu-jiang-ting
 author: 李宗勉
 authorPinyin: li3 zong1 mian3
 authorSlug: li-zong-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

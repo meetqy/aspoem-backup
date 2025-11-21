@@ -6,10 +6,10 @@ titleSlug: xi-chi-qing-hui-ting
 author: 許抗
 authorPinyin: xu1 kang4
 authorSlug: xu-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

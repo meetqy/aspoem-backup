@@ -1,28 +1,26 @@
 ---
 id: shi-pu-ji-ji-song-liu-shi-wu-shou-qi-san
-title: 偈頌六十五首  其三
-titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 san1
+title: 偈頌六十五首  其三○
+titlePinyin: ji4 song4 liu4 shi2 wu3 shou3     qi2 san1 ○
 titleSlug: ji-song-liu-shi-wu-shou-qi-san
 author: 釋普濟
 authorPinyin: shi4 pu3 ji4
 authorSlug: shi-pu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十日雨，今日晴。
-- 一則多年公案，明明舉似諸人。
-- 若是覆盆之下，又爭怪得老僧。
+- 一天星斗大家看，獨有渠儂見處偏。
+- 打失眼睛拈得口，至今脚下黑漫漫。
 
 ## 拼音
 
-- shi2 ri4 yu3 ， jin1 ri4 qing2 。
-- yi4 ze2 duo1 nian2 gong1 an4 ， ming2 ming2 ju3 si4 zhu1 ren2 。
-- ruo4 shi4 fu4 pen2 zhi1 xia4 ， you4 zheng1 guai4 de2 lao3 seng1 。
+- yi4 tian1 xing1 dou3 da4 jia1 kan4 ， du2 you3 qu2 nong2 jian4 chu3 pian1 。
+- da3 shi1 yan3 jing0 nian1 de2 kou3 ， zhi4 jin1 jiao3 xia4 hei1 man4 man4 。
 
 ## 注释
 

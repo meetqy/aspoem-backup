@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 英華相背露臺高，夾道雙亭氣象饒。
-- 每待中秋開夕宴，月輪平處奏簫韶。
+- 新様梳粧巧畫眉，窄衣纖體最相宜。
+- 一時趨向多情逸，小閣幽窗静奕棋。
 
 ## 拼音
 
-- ying1 hua2 xiang1 bei4 lu4 tai2 gao1 ， jia1 dao4 shuang1 ting2 qi4 xiang4 rao2 。
-- mei3 dai4 zhong1 qiu1 kai1 xi1 yan4 ， yue4 lun2 ping2 chu3 zou4 xiao1 shao2 。
+- xin1 yang4 shu1 zhuang1 qiao3 hua4 mei2 ， zhai3 yi1 xian1 ti3 zui4 xiang1 yi2 。
+- yi4 shi2 qu1 xiang4 duo1 qing2 yi4 ， xiao3 ge2 you1 chuang1 jing4 yi4 qi2 。
 
 ## 注释
 

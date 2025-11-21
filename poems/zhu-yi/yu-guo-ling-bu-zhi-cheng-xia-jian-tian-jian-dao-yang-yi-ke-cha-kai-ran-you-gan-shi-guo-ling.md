@@ -6,9 +6,9 @@ titleSlug: yu-guo-ling-bu-zhi-cheng-xia-jian-tian-jian-dao-yang-yi-ke-cha-kai-ra
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

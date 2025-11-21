@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-hou-ge-qi-er
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 池藥風烟凈，壺天日月長。
-- 寶書繙蕊笈，碧穗裊爐香。
+- 積雨收梅夏，清風度麥秋。
+- 六宮爭獻壽，不覺月沉鈎。
 
 ## 拼音
 
-- chi2 yao4 feng1 yan1 jing4 ， hu2 tian1 ri4 yue4 chang2 。
-- bao3 shu1 fan1 rui3 ji2 ， bi4 sui4 niao3 lu2 xiang1 。
+- ji1 yu3 shou1 mei2 xia4 ， qing1 feng1 du4 mai4 qiu1 。
+- liu4 gong1 zheng1 xian4 shou4 ， bu4 jue2 yue4 chen2 gou1 。
 
 ## 注释
 

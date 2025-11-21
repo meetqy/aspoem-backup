@@ -6,10 +6,10 @@ titleSlug: huang-ya-shi-shou-qi-yi-si
 author: 尹洙
 authorPinyin: yin3 zhu1
 authorSlug: yin-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

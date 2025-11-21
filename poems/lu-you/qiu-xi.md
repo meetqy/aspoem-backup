@@ -6,25 +6,25 @@ titleSlug: qiu-xi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 羈魂虚仗些詞招，病骨那禁積毁消。
-- 亂葉打窗寒有信，昏燈照幔夢無聊。
-- 棧邊老驥心空在，爨下殘桐尾半焦。
-- 百感忽生推枕起，碧霄銀漢正迢迢。
+- 浴罷紗巾出草堂，一枝瘦杖倚桄榔。
+- 蟬吟古柳聲相續，月入幽扉影正方。
+- 頻約僧棋秋漸健，稍增書課夜初長。
+- 亦知桑落宜篘酒，太息何時辦一觴。
 
 ## 拼音
 
-- ji1 hun2 xu1 zhang4 xie1 ci2 zhao1 ， bing4 gu3 na4 jin4 ji1 hui3 xiao1 。
-- luan4 ye4 da3 chuang1 han2 you3 xin4 ， hun1 deng1 zhao4 man4 meng4 wu2 liao2 。
-- zhan4 bian1 lao3 ji4 xin1 kong1 zai4 ， cuan4 xia4 can2 tong2 wei3 ban4 jiao1 。
-- bai3 gan3 hu1 sheng1 tui1 zhen3 qi3 ， bi4 xiao1 yin2 han4 zheng4 tiao2 tiao2 。
+- yu4 ba4 sha1 jin1 chu1 cao3 tang2 ， yi4 zhi1 shou4 zhang4 yi3 guang4 lang2 。
+- chan2 yin2 gu3 liu3 sheng1 xiang1 xu4 ， yue4 ru4 you1 fei1 ying3 zheng4 fang1 。
+- bin1 yue1 seng1 qi2 qiu1 jian4 jian4 ， shao1 zeng1 shu1 ke4 ye4 chu1 chang2 。
+- yi4 zhi1 sang1 luo4 yi2 chou1 jiu3 ， tai4 xi1 he2 shi2 ban4 yi4 shang1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-zhang-zhi-fang-chu-shou-gao-an
 author: 李大臨
 authorPinyin: li3 da4 lin2
 authorSlug: li-da-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

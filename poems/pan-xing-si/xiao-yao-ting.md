@@ -6,10 +6,10 @@ titleSlug: xiao-yao-ting
 author: 潘興嗣
 authorPinyin: pan1 xing1 si4
 authorSlug: pan-xing-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

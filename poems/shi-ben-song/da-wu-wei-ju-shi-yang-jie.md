@@ -6,10 +6,10 @@ titleSlug: da-wu-wei-ju-shi-yang-jie
 author: 釋本嵩
 authorPinyin: shi4 ben3 song1
 authorSlug: shi-ben-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

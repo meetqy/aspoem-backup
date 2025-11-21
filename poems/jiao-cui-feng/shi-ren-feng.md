@@ -6,10 +6,10 @@ titleSlug: shi-ren-feng
 author: 焦翠峰
 authorPinyin: jiao1 cui4 feng1
 authorSlug: jiao-cui-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

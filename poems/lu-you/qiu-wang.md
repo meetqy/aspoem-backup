@@ -6,25 +6,25 @@ titleSlug: qiu-wang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 快哉一雨洗浮塵，却喜郊原霽色勻。
-- 野火已亡秦相篆，江濤猶託伍胥神。
-- 登臨頓覺清秋早，流落空悲白髮新。
-- 東望思陵鬰葱裏，老民猶及見時巡。
+- 千里郊原俯莽蒼，三江烟水接微茫。
+- 橫林蟲鏤無全葉，新雁風驚有斷行。
+- 神禹祠庭遺劍佩，先秦金石古文章。
+- 一尊莫恨盤餐薄，終勝登樓憶故鄉。
 
 ## 拼音
 
-- kuai4 zai1 yi4 yu3 xi3 fu2 chen2 ， que4 xi3 jiao1 yuan2 ji4 se4 yun2 。
-- ye3 huo3 yi3 wang2 qin2 xiang1 zhuan4 ， jiang1 tao1 you2 tuo1 wu3 xu1 shen2 。
-- deng1 lin2 dun4 jue2 qing1 qiu1 zao3 ， liu2 luo4 kong1 bei1 bai2 fa4 xin1 。
-- dong1 wang4 si1 ling2 yu4 cong1 li3 ， lao3 min2 you2 ji2 jian4 shi2 xun2 。
+- qian1 li3 jiao1 yuan2 fu3 mang3 cang1 ， san1 jiang1 yan1 shui3 jie1 wei1 mang2 。
+- heng2 lin2 chong2 lou4 wu2 quan2 ye4 ， xin1 yan4 feng1 jing1 you3 duan4 xing2 。
+- shen2 yu3 ci2 ting2 yi2 jian4 pei4 ， xian1 qin2 jin1 shi2 gu3 wen2 zhang1 。
+- yi4 zun1 mo4 hen4 pan2 can1 bao2 ， zhong1 sheng4 deng1 lou2 yi4 gu4 xiang1 。
 
 ## 注释
 

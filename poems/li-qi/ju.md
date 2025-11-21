@@ -9,16 +9,16 @@ authorSlug: li-qi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 但看青玉五枝燈，蟠螭火盡光欲然。
+- 巴路千山秋水上，江村獨樹夕陽時。
 
 ## 拼音
 
-- dan4 kan4 qing1 yu4 wu3 zhi1 deng1 ， pan2 chi1 huo3 jin4 guang1 yu4 ran2 。
+- ba1 lu4 qian1 shan1 qiu1 shui3 shang4 ， jiang1 cun1 du2 shu4 xi1 yang2 shi2 。
 
 ## 注释
 

@@ -9,18 +9,18 @@ authorSlug: cui-dao-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 長安牡丹開，繡轂輾晴雷。
-- 若使花長在，人應看不回。
+- 珠箔映高柳，美人紅袖垂。
+- 忽聞半天語，不見上樓時。
 
 ## 拼音
 
-- chang2 an1 mu3 dan1 kai1 ， xiu4 gu3 zhan3 qing2 lei2 。
-- ruo4 shi3 hua1 chang2 zai4 ， ren2 ying1 kan4 bu4 hui2 。
+- zhu1 bo2 ying4 gao1 liu3 ， mei3 ren2 hong2 xiu4 chui2 。
+- hu1 wen2 ban4 tian1 yu3 ， bu2 jian4 shang4 lou2 shi2 。
 
 ## 注释
 

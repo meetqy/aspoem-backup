@@ -6,10 +6,10 @@ titleSlug: san-jing-tan-bao-yu
 author: 唐仲溫
 authorPinyin: tang2 zhong4 wen1
 authorSlug: tang-zhong-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

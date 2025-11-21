@@ -9,22 +9,22 @@ authorSlug: li-duan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 遊童蘇合彈，倡女蒲葵扇。
-- 初日映城時，相思忽相見。
-- 褰裳蹋路草，理鬢回花面。
-- 薄暮不同歸，留情此芳甸。
+- 柘彈連錢馬，銀鉤妥墮鬟。
+- 摘桑春陌上，踏草夕陽間。
+- 意合辭先露，心誠貌却閒。
+- 明朝若相憶，雲雨出巫山。
 
 ## 拼音
 
-- you2 tong2 su1 he2 dan4 ， chang4 nü3 pu2 kui2 shan1 。
-- chu1 ri4 ying4 cheng2 shi2 ， xiang1 si1 hu1 xiang1 jian4 。
-- qian1 shang0 ta4 lu4 cao3 ， li3 bin4 hui2 hua1 mian4 。
-- bo2 mu4 bu4 tong2 gui1 ， liu2 qing2 ci3 fang1 dian4 。
+- zhe4 dan4 lian2 qian2 ma3 ， yin2 gou1 tuo3 duo4 huan2 。
+- zhai1 sang1 chun1 mo4 shang4 ， ta4 cao3 xi1 yang2 jian4 。
+- yi4 he2 ci2 xian1 lu4 ， xin1 cheng2 mao4 que4 xian2 。
+- ming2 chao2 ruo4 xiang1 yi4 ， yun2 yu3 chu1 wu1 shan1 。
 
 ## 注释
 

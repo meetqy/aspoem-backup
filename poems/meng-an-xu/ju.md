@@ -6,10 +6,10 @@ titleSlug: ju
 author: 孟安序
 authorPinyin: meng4 an1 xu4
 authorSlug: meng-an-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

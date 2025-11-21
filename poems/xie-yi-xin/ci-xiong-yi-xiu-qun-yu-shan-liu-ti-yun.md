@@ -6,10 +6,10 @@ titleSlug: ci-xiong-yi-xiu-qun-yu-shan-liu-ti-yun
 author: 謝奕信
 authorPinyin: xie4 yi4 xin4
 authorSlug: xie-yi-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: tan-ze-qi-yi
 author: 程垣
 authorPinyin: cheng2 yuan2
 authorSlug: cheng-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: liang-xuan
 author: 李古
 authorPinyin: li3 gu3
 authorSlug: li-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

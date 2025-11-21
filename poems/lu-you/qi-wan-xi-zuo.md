@@ -6,29 +6,25 @@ titleSlug: qi-wan-xi-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 地偏身飽閑，秋爽睡殊美。
-- 老雞每愧渠，三唱呼未起。
-- 厨人罷晨汲，童子愁屣履。
-- 惰慵雖可嘲，安靜良足喜。
-- 心空夢亦少，酣枕甘若醴。
-- 不學多事人，南柯豪衆蟻。
+- 睡到僧廊響木魚，莊周蝴蝶兩蘧蘧。
+- 數聲林下華亭鶴，一卷床頭笠澤書。
+- 雲子甑香炊熟後，露芽甌淺點嘗初。
+- 若論身逸心無事，臺省諸公恐不如。
 
 ## 拼音
 
-- di4 pian1 shen1 bao3 xian2 ， qiu1 shuang3 shui4 shu1 mei3 。
-- lao3 ji1 mei3 kui4 qu2 ， san1 chang4 hu1 wei4 qi3 。
-- chu2 ren2 ba4 chen2 ji2 ， tong2 zi3 chou2 xi3 lü3 。
-- duo4 yong1 sui1 ke3 chao2 ， an1 jing4 liang2 zu2 xi3 。
-- xin1 kong1 meng4 yi4 shao3 ， han1 zhen3 gan1 ruo4 li3 。
-- bu4 xue2 duo1 shi4 ren2 ， nan2 ke1 hao2 zhong4 yi3 。
+- shui4 dao4 seng1 lang2 xiang3 mu4 yu2 ， zhuang1 zhou1 hu2 die2 liang3 qu2 qu2 。
+- shu4 sheng1 lin2 xia4 hua2 ting2 he4 ， yi2 juan4 chuang2 tou2 li4 ze2 shu1 。
+- yun2 zi3 zeng4 xiang1 chui1 shu2 hou4 ， lu4 ya2 ou1 qian3 dian3 chang2 chu1 。
+- ruo4 lun4 shen1 yi4 xin1 wu2 shi4 ， tai2 sheng3 zhu1 gong1 kong3 bu4 ru2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: tian-tai-chen-shi-ju-chu-shi-nai-zu-mei-yin-xian-sheng-yi-gao-qi-xu-z
 author: 呂勝之
 authorPinyin: lü3 sheng4 zhi1
 authorSlug: lu-sheng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

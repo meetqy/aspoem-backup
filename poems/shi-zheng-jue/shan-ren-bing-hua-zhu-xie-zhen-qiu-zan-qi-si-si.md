@@ -1,32 +1,40 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-si
-title: 禪人并化主寫真求贊  其四四
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 si4
+title: 禪人并化主寫真求贊  其四○四
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 ○ si4
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-si
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 這箇儀形，叢林飯丁。
-- 春山有雪髮衰白，秋水無風眼冷青。
-- 妙明田地，浄潔門庭。
-- 萬緣不倚活卓卓，一事不著空靈靈。
-- 把手與藥兮誰尋本草，問津指源兮自得圖經。
+- 像取模畫，人成幻化。
+- 得失一鬮，是非一馬。
+- 建立摐摐，權行且且。
+- 平貼而安，放蕩而野。
+- 科臼弗存，軌儀何暇。
+- 饑則餐，飽則罷。
+- 硬而枕，軟而藉。
+- 出世間於世間，藏天下於天下。
+- 更問如何，之乎者也。
 
 ## 拼音
 
-- zhe4 ge4 yi2 xing2 ， cong2 lin2 fan4 ding1 。
-- chun1 shan1 you3 xue3 fa4 shuai1 bai2 ， qiu1 shui3 wu2 feng1 yan3 leng3 qing1 。
-- miao4 ming2 tian2 di4 ， jing4 jie2 men2 ting2 。
-- wan4 yuan2 bu4 yi3 huo2 zhuo2 zhuo2 ， yi2 shi4 bu2 zhu4 kong1 ling2 ling2 。
-- ba3 shou3 yu3 yao4 xi1 shui2 xun2 ben3 cao3 ， wen4 jin1 zhi3 yuan2 xi1 zi4 de2 tu2 jing1 。
+- xiang4 qu3 mo2 hua4 ， ren2 cheng2 huan4 hua4 。
+- de2 shi1 yi4 jiu1 ， shi4 fei1 yi4 ma3 。
+- jian4 li4 chuang1 chuang1 ， quan2 xing2 qie3 qie3 。
+- ping2 tie1 er2 an1 ， fang4 dang4 er2 ye3 。
+- ke1 jiu4 fu2 cun2 ， gui3 yi2 he2 xia2 。
+- ji1 ze2 can1 ， bao3 ze2 ba4 。
+- ying4 er2 zhen3 ， ruan3 er2 jie4 。
+- chu1 shi4 jian4 wu1 shi4 jian4 ， cang2 tian1 xia4 wu1 tian1 xia4 。
+- geng4 wen4 ru2 he2 ， zhi1 hu1 zhe3 ye3 。
 
 ## 注释
 

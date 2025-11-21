@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi-er
 author: 王安國
 authorPinyin: wang2 an1 guo2
 authorSlug: wang-an-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

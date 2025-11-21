@@ -1,30 +1,30 @@
 ---
 id: liu-ke-zhuang-bing-qi-shi-shou-qi-yi
-title: 病起十首  其一
-titlePinyin: bing4 qi3 shi2 shou3     qi2 yi1
+title: 病起十首  其一○
+titlePinyin: bing4 qi3 shi2 shou3     qi2 yi1 ○
 titleSlug: bing-qi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 架帙縱橫硯有埃，先生久不至山齋。
-- 散花魔已降摩詰，裹飯人誰訪子來。
-- 又與杜康絕交矣，併疎毛穎少恩哉。
-- 幾時真得金篦力，書債重償酒禁開。
+- 有粟二囷書數厨，一生受用小規模。
+- 要令後裔師吾儉，不願多財使爾愚。
+- 旋作續書傳福畤，偶成小楷付官奴。
+- 自慙未至韓公地，老語諄譫謾勸符。
 
 ## 拼音
 
-- jia4 zhi4 zong4 heng2 yan4 you3 ai1 ， xian1 sheng0 jiu3 bu2 zhi4 shan1 zhai1 。
-- san4 hua1 mo2 yi3 jiang4 mo2 jie2 ， guo3 fan4 ren2 shui2 fang3 zi3 lai2 。
-- you4 yu3 du4 kang1 jue2 jiao1 yi3 ， bing4 shu1 mao2 ying3 shao3 en1 zai1 。
-- ji1 shi2 zhen1 de2 jin1 bi4 li4 ， shu1 zhai4 zhong4 chang2 jiu3 jin4 kai1 。
+- you3 su4 er4 qun1 shu1 shu4 chu2 ， yi4 sheng1 shou4 yong4 xiao3 gui1 mo2 。
+- yao4 ling4 hou4 yi4 shi1 wu2 jian3 ， bu2 yuan4 duo1 cai2 shi3 er3 yu2 。
+- xuan2 zuo4 xu4 shu1 chuan2 fu2 zhi4 ， ou3 cheng2 xiao3 kai3 fu4 guan1 nu2 。
+- zi4 can2 wei4 zhi4 han2 gong1 di4 ， lao3 yu3 zhun1 zhan1 man2 quan4 fu2 。
 
 ## 注释
 

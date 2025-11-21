@@ -6,10 +6,10 @@ titleSlug: jiu-ri-fan-zhou-tong-zhu-yuan-hui
 author: 傅自得
 authorPinyin: fu4 zi4 de2
 authorSlug: fu-zi-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: bi-yun-ji-shi
 author: 劉宰
 authorPinyin: liu2 zai3
 authorSlug: liu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 唧唧秋蛩鳴，耿耿秋夜長。
-- 簡編負初心，枕簟怯新涼。
-- 朝曦入疎牖，宿雲散前岡。
-- 歸歟一葉舟，浩歌聽滄浪。
+- 塊坐經年不入山，山僮拍手笑衰顔。
+- 登高猶喜心期在，望遠還驚目力慳。
+- 雲氣蒼茫自羈旅，煙波飄蕩幾惸鰥。
+- 朝來舊雨添新雨，誰識安危指顧間。
 
 ## 拼音
 
-- ji1 ji1 qiu1 qiong2 ming2 ， geng3 geng3 qiu1 ye4 chang2 。
-- jian3 bian1 fu4 chu1 xin1 ， zhen3 dian4 qie4 xin1 liang2 。
-- chao2 xi1 ru4 shu1 you3 ， su4 yun2 san4 qian2 gang1 。
-- gui1 yu2 yi2 ye4 zhou1 ， hao4 ge1 ting1 cang1 lang4 。
+- kuai4 zuo4 jing1 nian2 bu2 ru4 shan1 ， shan1 tong2 pai1 shou3 xiao4 shuai1 yan2 。
+- deng1 gao1 you2 xi3 xin1 qi1 zai4 ， wang4 yuan3 huan2 jing1 mu4 li4 qian1 。
+- yun2 qi4 cang1 mang2 zi4 ji1 lü3 ， yan1 bo1 piao1 dang4 ji1 qiong2 guan1 。
+- chao2 lai2 jiu4 yu3 tian1 xin1 yu3 ， shui2 shi2 an1 wei1 zhi3 gu4 jian4 。
 
 ## 注释
 

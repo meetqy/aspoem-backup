@@ -9,26 +9,22 @@ authorSlug: han-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 秋之水兮，其色幽幽。
-- 我將濟兮，不得其由。
-- 涉其淺兮，石齧我足。
-- 乘其深兮，龍入我舟。
-- 我濟而悔兮，將安歸尤。
-- 歸兮歸兮，無與石鬬兮，無應龍求。
+- 有獸維貍兮，我夢得之。
+- 其身孔明兮，而頭不知。
+- 吉凶何爲兮，覺坐而思。
+- 巫咸上天兮，識者其誰。
 
 ## 拼音
 
-- qiu1 zhi1 shui3 xi1 ， qi2 se4 you1 you1 。
-- wo3 jiang1 ji4 xi1 ， bu4 de2 qi2 you2 。
-- she4 qi2 qian3 xi1 ， shi2 nie4 wo3 zu2 。
-- cheng2 qi2 shen1 xi1 ， long2 ru4 wo3 zhou1 。
-- wo3 ji4 er2 hui3 xi1 ， jiang1 an1 gui1 you2 。
-- gui1 xi1 gui1 xi1 ， wu2 yu3 shi2 dou4 xi1 ， wu2 ying1 long2 qiu2 。
+- you3 shou4 wei2 li2 xi1 ， wo3 meng4 de2 zhi1 。
+- qi2 shen1 kong3 ming2 xi1 ， er2 tou2 bu4 zhi1 。
+- ji2 xiong1 he2 wei2 xi1 ， jue2 zuo4 er2 si1 。
+- wu1 xian2 shang4 tian1 xi1 ， shi2 zhe3 qi2 shui2 。
 
 ## 注释
 

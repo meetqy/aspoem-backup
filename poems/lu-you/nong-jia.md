@@ -6,25 +6,25 @@ titleSlug: nong-jia
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南畝勤菑穫，西城謹蓋藏。
-- 種蕎乘霽日，斫荻待微霜。
-- 谿碓新舂白，山厨野簌香。
-- 何須北窗卧，始得傲羲皇。
+- 寂寂江村數掩籬，吾廬又及素秋時。
+- 橫林未脫色已盡，孤鳥欲棲鳴更悲。
+- 小釜蓴羹初下豉，矮瓶豆粉正燃萁。
+- 爲農幸有家風在，百世相傳更勿疑。
 
 ## 拼音
 
-- nan2 mu3 qin2 zi1 huo4 ， xi1 cheng2 jin3 gai4 cang2 。
-- zhong3 qiao2 cheng2 ji4 ri4 ， zhuo2 di2 dai4 wei1 shuang1 。
-- xi1 dui4 xin1 chong1 bai2 ， shan1 chu2 ye3 su4 xiang1 。
-- he2 xu1 bei3 chuang1 wo4 ， shi3 de2 ao4 xi1 huang2 。
+- ji4 ji4 jiang1 cun1 shu4 yan3 li2 ， wu2 lu2 you4 ji2 su4 qiu1 shi2 。
+- heng2 lin2 wei4 tuo1 se4 yi3 jin4 ， gu1 niao3 yu4 qi1 ming2 geng4 bei1 。
+- xiao3 fu3 chun2 geng1 chu1 xia4 chi3 ， ai3 ping2 dou4 fen3 zheng4 ran2 qi2 。
+- wei2 nong2 xing4 you3 jia1 feng1 zai4 ， bai3 shi4 xiang1 chuan2 geng4 wu4 yi2 。
 
 ## 注释
 

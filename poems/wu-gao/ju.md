@@ -6,10 +6,10 @@ titleSlug: ju
 author: 伍誥
 authorPinyin: wu3 gao4
 authorSlug: wu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-xia-xiu-cai-jiang-ju-wu-ti-tian-yin-dong
-title: 夏秀才江居五題・天隠洞
-titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2・tian1 yin3 dong4
+title: 夏秀才江居五題 天隠洞
+titlePinyin: xia4 xiu4 cai0 jiang1 ju1 wu3 ti2   tian1 yin3 dong4
 titleSlug: xia-xiu-cai-jiang-ju-wu-ti-tian-yin-dong
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

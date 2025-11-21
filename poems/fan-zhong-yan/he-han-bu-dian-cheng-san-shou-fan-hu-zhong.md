@@ -6,10 +6,10 @@ titleSlug: he-han-bu-dian-cheng-san-shou-fan-hu-zhong
 author: 范仲淹
 authorPinyin: fan4 zhong4 yan1
 authorSlug: fan-zhong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

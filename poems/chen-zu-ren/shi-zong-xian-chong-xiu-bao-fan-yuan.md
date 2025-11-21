@@ -6,10 +6,10 @@ titleSlug: shi-zong-xian-chong-xiu-bao-fan-yuan
 author: 陳祖仁
 authorPinyin: chen2 zu3 ren2
 authorSlug: chen-zu-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,28 +1,24 @@
 ---
 id: xu-ji-sun-ju
-title: 菊
-titlePinyin: ju2
+title: 句
+titlePinyin: ju4
 titleSlug: ju
 author: 徐集孫
 authorPinyin: xu2 ji2 sun1
 authorSlug: xu-ji-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寂東籬姿，淒彼霜露濕。
-- 不肯出春風，俗眼豈相入。
-- 世無陶靖節，此趣誰收拾。
+- 莫言滿眼無知己，耐久黄花是故人。
 
 ## 拼音
 
-- ji4 ji4 dong1 li2 zi1 ， qi1 bi3 shuang1 lu4 shi1 。
-- bu4 ken3 chu1 chun1 feng1 ， su2 yan3 qi3 xiang1 ru4 。
-- shi4 wu2 tao2 jing4 jie2 ， ci3 qu4 shui2 shou1 shi0 。
+- mo4 yan2 man3 yan3 wu2 zhi1 ji3 ， nai4 jiu3 huang2 hua1 shi4 gu4 ren2 。
 
 ## 注释
 

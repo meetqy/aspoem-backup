@@ -6,10 +6,10 @@ titleSlug: shu-zhong-shan-yi-bi
 author: 番陽布衣
 authorPinyin: fan1 yang2 bu4 yi1
 authorSlug: fan-yang-bu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

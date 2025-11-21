@@ -6,10 +6,10 @@ titleSlug: qing-ming-hou-tong-qin-shuai-duan-ming-hui-yin-wu-li-shi-yuan-chi-ou-
 author: 文彥博
 authorPinyin: wen2 yan4 bo2
 authorSlug: wen-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

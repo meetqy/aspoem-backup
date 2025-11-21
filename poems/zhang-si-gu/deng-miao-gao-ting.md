@@ -6,10 +6,10 @@ titleSlug: deng-miao-gao-ting
 author: 張嗣古
 authorPinyin: zhang1 si4 gu3
 authorSlug: zhang-si-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

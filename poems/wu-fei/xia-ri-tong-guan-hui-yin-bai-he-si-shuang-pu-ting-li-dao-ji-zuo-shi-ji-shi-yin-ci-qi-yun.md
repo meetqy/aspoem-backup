@@ -6,10 +6,10 @@ titleSlug: xia-ri-tong-guan-hui-yin-bai-he-si-shuang-pu-ting-li-dao-ji-zuo-shi-j
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

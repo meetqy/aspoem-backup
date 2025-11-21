@@ -6,9 +6,9 @@ titleSlug: ci-yun-wang-de-zhi-you-jing-ming-ti-yi-an-er-jue-qi-yi
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

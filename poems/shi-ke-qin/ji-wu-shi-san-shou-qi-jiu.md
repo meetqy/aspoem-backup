@@ -6,10 +6,10 @@ titleSlug: ji-wu-shi-san-shou-qi-jiu
 author: 釋克勤
 authorPinyin: shi4 ke4 qin2
 authorSlug: shi-ke-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

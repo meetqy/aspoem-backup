@@ -1,26 +1,26 @@
 ---
 id: shi-ju-jian-song-gu-er-shi-yi-shou-qi-er
-title: 頌古二十一首  其二
-titlePinyin: song4 gu3 er4 shi2 yi1 shou3     qi2 er4
+title: 頌古二十一首  其二○
+titlePinyin: song4 gu3 er4 shi2 yi1 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-yi-shou-qi-er
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 適我昔所願，今者已滿足。
-- 是玉也大奇，只恐不是玉。
+- 總欠韋郎一夜霜，諸方拈出半青黄。
+- 碧雲更不上盤飣，舉似諸方笑一場。
 
 ## 拼音
 
-- shi4 wo3 xi1 suo3 yuan4 ， jin1 zhe3 yi3 man3 zu2 。
-- shi4 yu4 ye3 da4 qi2 ， zhi3 kong3 bu2 shi4 yu4 。
+- zong3 qian4 wei2 lang2 yi2 ye4 shuang1 ， zhu1 fang1 nian1 chu1 ban4 qing1 huang2 。
+- bi4 yun2 geng4 bu2 shang4 pan2 ding4 ， ju3 si4 zhu1 fang1 xiao4 yi4 chang3 。
 
 ## 注释
 

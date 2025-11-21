@@ -6,10 +6,10 @@ titleSlug: ju
 author: 林震
 authorPinyin: lin2 zhen4
 authorSlug: lin-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

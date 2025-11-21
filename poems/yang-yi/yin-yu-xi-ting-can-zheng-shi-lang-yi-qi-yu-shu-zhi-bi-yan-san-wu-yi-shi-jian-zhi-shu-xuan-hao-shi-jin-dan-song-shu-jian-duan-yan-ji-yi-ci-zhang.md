@@ -6,10 +6,10 @@ titleSlug: yin-yu-xi-ting-can-zheng-shi-lang-yi-qi-yu-shu-zhi-bi-yan-san-wu-yi-s
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

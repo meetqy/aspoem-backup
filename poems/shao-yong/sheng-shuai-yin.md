@@ -6,21 +6,23 @@ titleSlug: sheng-shuai-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 勢盛舉頭方偃蹇，氣衰旋踵却嗟吁。
-- 厚誣天下稱賢者，天下何嘗可厚誣。
+- 克肖子孫，振起家門。
+- 不肖子孫，破敗家門。
+- 猗嗟子孫，盛衰之根。
 
 ## 拼音
 
-- shi4 sheng4 ju3 tou2 fang1 yan3 jian3 ， qi4 shuai1 xuan2 zhong3 que4 jie1 xu1 。
-- hou4 wu1 tian1 xia4 cheng1 xian2 zhe3 ， tian1 xia4 he2 chang2 ke3 hou4 wu1 。
+- ke4 xiao4 zi3 sun1 ， zhen4 qi3 jia1 men2 。
+- bu2 xiao4 zi3 sun1 ， po4 bai4 jia1 men2 。
+- yi1 jie1 zi3 sun1 ， sheng4 shuai1 zhi1 gen1 。
 
 ## 注释
 

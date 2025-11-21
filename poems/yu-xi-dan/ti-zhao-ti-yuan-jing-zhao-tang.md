@@ -6,10 +6,10 @@ titleSlug: ti-zhao-ti-yuan-jing-zhao-tang
 author: 俞希旦
 authorPinyin: yu2 xi1 dan4
 authorSlug: yu-xi-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

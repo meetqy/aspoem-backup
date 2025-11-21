@@ -6,25 +6,21 @@ titleSlug: diao-yun-cen
 author: 鄭清之
 authorPinyin: zheng4 qing1 zhi1
 authorSlug: zheng-qing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 戲將鶡弁博緇衣，般若叢中賸作癡。
-- 鵝頸肯爲羅隠笑，鷄林能辨樂天詩。
-- 好從休處求安逸，莫向閒中覓住持。
-- 覺際湖山最佳趣，藕花洲渚菊東籬。
+- 佛法方當惡劇時，偃溪笑裏袖鉗鎚。
+- 不教管領千雲衲，打徹頭關更問誰。
 
 ## 拼音
 
-- xi4 jiang1 he2 bian4 bo2 zi1 yi1 ， bo1 re3 cong2 zhong1 sheng4 zuo4 chi1 。
-- e2 jing3 ken3 wei2 luo2 yin3 xiao4 ， ji1 lin2 neng2 bian4 le4 tian1 shi1 。
-- hao3 cong2 xiu1 chu3 qiu2 an1 yi4 ， mo4 xiang4 xian2 zhong1 mi4 zhu4 chi2 。
-- jue2 ji4 hu2 shan1 zui4 jia1 qu4 ， ou3 hua1 zhou1 zhu3 ju2 dong1 li2 。
+- fo2 fa3 fang1 dang1 e4 ju4 shi2 ， yan3 xi1 xiao4 li3 xiu4 qian2 chui2 。
+- bu2 jiao4 guan3 ling3 qian1 yun2 na4 ， da3 che4 tou2 guan1 geng4 wen4 shui2 。
 
 ## 注释
 

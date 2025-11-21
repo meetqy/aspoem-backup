@@ -6,10 +6,10 @@ titleSlug: ju-ku
 author: 趙汝唫
 authorPinyin: zhao4 ru3 yin2
 authorSlug: zhao-ru-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

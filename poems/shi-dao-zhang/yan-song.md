@@ -6,10 +6,10 @@ titleSlug: yan-song
 author: 釋道章
 authorPinyin: shi4 dao4 zhang1
 authorSlug: shi-dao-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

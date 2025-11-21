@@ -6,10 +6,10 @@ titleSlug: du-han-jiang
 author: 宋之問
 authorPinyin: song4 zhi1 wen4
 authorSlug: song-zhi-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

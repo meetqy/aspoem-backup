@@ -6,9 +6,9 @@ titleSlug: qi-xing-yan
 author: 葉南仲
 authorPinyin: ye4 nan2 zhong4
 authorSlug: ye-nan-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

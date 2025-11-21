@@ -1,26 +1,26 @@
 ---
 id: li-shi-shan-zi-shi-qi-wu
-title: 扇子詩  其五
-titlePinyin: shan4 zi0 shi1     qi2 wu3
+title: 扇子詩  其五○
+titlePinyin: shan4 zi0 shi1     qi2 wu3 ○
 titleSlug: shan-zi-shi-qi-wu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 火老不知秋，螢飛風露下。
-- 和月立梧桐，幽人宜獨夜。
+- 薰絃早已迓秋鴻，歲事先生逆料中。
+- 前密後疎隨處改，枉教楊柳怨西風。
 
 ## 拼音
 
-- huo3 lao3 bu4 zhi1 qiu1 ， ying2 fei1 feng1 lu4 xia4 。
-- he2 yue4 li4 wu2 tong2 ， you1 ren2 yi2 du2 ye4 。
+- xun1 xian2 zao3 yi3 ya4 qiu1 hong2 ， sui4 shi4 xian1 sheng0 ni4 liao4 zhong1 。
+- qian2 mi4 hou4 shu1 sui2 chu3 gai3 ， wang3 jiao4 yang2 liu3 yuan4 xi1 feng1 。
 
 ## 注释
 

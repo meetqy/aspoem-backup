@@ -1,30 +1,30 @@
 ---
 id: zhang-lei-dong-ri-fang-yan-er-shi-yi-shou-qi-er
-title: 冬日放言二十一首  其二
-titlePinyin: dong1 ri4 fang4 yan2 er4 shi2 yi1 shou3     qi2 er4
+title: 冬日放言二十一首  其二○
+titlePinyin: dong1 ri4 fang4 yan2 er4 shi2 yi1 shou3     qi2 er4 ○
 titleSlug: dong-ri-fang-yan-er-shi-yi-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湯餠慰朝餒，三杯澆旦寒。
-- 醉飽外何欲，昏然宵就眠。
-- 幽通夢有告，默存神自全。
-- 蕭蕭松竹舍，歲暮聊盤桓。
+- 元子本豪爽，頗復有俗氣。
+- 孟嘉亦可人，乃與較權勢。
+- 崛强盡百年，究竟成何事。
+- 江左無英雄，汝得免徒隸。
 
 ## 拼音
 
-- tang1 bing3 wei4 chao2 nei3 ， san1 bei1 jiao1 dan4 han2 。
-- zui4 bao3 wai4 he2 yu4 ， hun1 ran2 xiao1 jiu4 mian2 。
-- you1 tong1 meng4 you3 gao4 ， mo4 cun2 shen2 zi4 quan2 。
-- xiao1 xiao1 song1 zhu2 she4 ， sui4 mu4 liao2 pan2 huan2 。
+- yuan2 zi3 ben3 hao2 shuang3 ， po1 fu4 you3 su2 qi4 。
+- meng4 jia1 yi4 ke3 ren2 ， nai3 yu3 jiao4 quan2 shi4 。
+- jue2 qiang2 jin4 bai3 nian2 ， jiu1 jing4 cheng2 he2 shi4 。
+- jiang1 zuo3 wu2 ying1 xiong2 ， ru3 de2 mian3 tu2 li4 。
 
 ## 注释
 

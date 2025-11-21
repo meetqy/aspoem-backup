@@ -3,22 +3,24 @@ id: chen-yan-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 陳延
+author: 陳巖
 authorPinyin: chen2 yan2
 authorSlug: chen-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 水泛榴花來洞口，鹿迎樵客到仙家。
+- 金甲終不卸，將分理立憂。
+- （見《吟窗雜錄》卷四一《閩川〖原誤作「山」〗名士傳》）。
 
 ## 拼音
 
-- shui3 fan4 liu2 hua1 lai2 dong4 kou3 ， lu4 ying2 qiao2 ke4 dao4 xian1 jia1 。
+- jin1 jia3 zhong1 bu2 xie4 ， jiang1 fen1 li3 li4 you1 。
+- （ jian4 《 yin2 chuang1 za2 lu4 》 juan4 si4 yi1 《 min3 chuan1 〖 yuan2 wu4 zuo4 「 shan1 」〗 ming2 shi4 chuan2 》）。
 
 ## 注释
 

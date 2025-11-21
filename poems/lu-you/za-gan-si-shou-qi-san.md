@@ -6,21 +6,21 @@ titleSlug: za-gan-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生所聞宋華子，病忘乃與知道鄰。
-- 老夫歷盡世間事，始覺此公真可人。
+- 射的山前花柳新，典衣買酒過殘春。
+- 但甘身作噲等伍，莫信人間髯絕倫。
 
 ## 拼音
 
-- ping2 sheng1 suo3 wen2 song4 hua2 zi3 ， bing4 wang4 nai3 yu3 zhi1 dao4 lin2 。
-- lao3 fu1 li4 jin4 shi4 jian4 shi4 ， shi3 jue2 ci3 gong1 zhen1 ke3 ren2 。
+- she4 de0 shan1 qian2 hua1 liu3 xin1 ， dian3 yi1 mai3 jiu3 guo4 can2 chun1 。
+- dan4 gan1 shen1 zuo4 kuai4 deng3 wu3 ， mo4 xin4 ren2 jian4 ran2 jue2 lun2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: da-da-tong-ji
 author: 釋慈辯
 authorPinyin: shi4 ci2 bian4
 authorSlug: shi-ci-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

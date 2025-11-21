@@ -6,10 +6,10 @@ titleSlug: yan-ji-feng-xi-gui-sheng-shi-ji-jia-pian-ci-yun-feng-chou-cheng-zhu-x
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: hong-gou-he-lu-sheng-gong-yun
 author: 曾璉
 authorPinyin: ceng2 lian3
 authorSlug: ceng-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: miao-xiang-tang
 author: 鄭敦芳
 authorPinyin: zheng4 dun1 fang1
 authorSlug: zheng-dun-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

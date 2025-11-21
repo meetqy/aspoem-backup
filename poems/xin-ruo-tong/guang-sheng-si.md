@@ -6,10 +6,10 @@ titleSlug: guang-sheng-si
 author: 新若通
 authorPinyin: xin1 ruo4 tong1
 authorSlug: xin-ruo-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

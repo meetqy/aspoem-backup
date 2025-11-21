@@ -6,10 +6,10 @@ titleSlug: chen-jun-mei-xu-zhong-he-fu-sheng-bing-bu-neng-chu-jian-yi-er-jue-ju-
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: lu-you-xia-ri-shi-er-shou-qi-yi
-title: 夏日十二首  其一
-titlePinyin: xia4 ri4 shi2 er4 shou3     qi2 yi1
+title: 夏日十二首  其一○
+titlePinyin: xia4 ri4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: xia-ri-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暑雨初晴晝漏遲，江鄉樂事有誰知。
-- 村村壟麥登場後，戶戶吳蠶坼簇時。
+- 側卧橫眠百不知，軒窗寂寂雨絲絲。
+- 豈無布襪青鞋興，過却梅天出未遲。
 
 ## 拼音
 
-- shu3 yu3 chu1 qing2 zhou4 lou4 chi2 ， jiang1 xiang1 le4 shi4 you3 shui2 zhi1 。
-- cun1 cun1 long3 mai4 deng1 chang3 hou4 ， hu4 hu4 wu2 can2 che4 cu4 shi2 。
+- ce4 wo4 heng2 mian2 bai3 bu4 zhi1 ， xuan1 chuang1 ji4 ji4 yu3 si1 si1 。
+- qi3 wu2 bu4 wa4 qing1 xie2 xing1 ， guo4 que4 mei2 tian1 chu1 wei4 chi2 。
 
 ## 注释
 

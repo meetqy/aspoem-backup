@@ -9,22 +9,22 @@ authorSlug: guan-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 藤屨兼閩竹，吟行一水傍。
-- 樹涼蟬不少，溪斷路多荒。
-- 燒岳陰風起，田家濁酒香。
-- 登高吟更苦，微月出蒼茫。
+- 閑步不覺遠，蕭蕭木落初。
+- 詩情拋閫閾，江影動襟裾。
+- 閣北鴻行出，霞西雨脚疎。
+- 金峰秋更好，乞取又何如。
 
 ## 拼音
 
-- teng2 ju4 jian1 min3 zhu2 ， yin2 xing2 yi4 shui3 bang4 。
-- shu4 liang2 chan2 bu4 shao3 ， xi1 duan4 lu4 duo1 huang1 。
-- shao1 yue4 yin1 feng1 qi3 ， tian2 jia1 zhuo2 jiu3 xiang1 。
-- deng1 gao1 yin2 geng4 ku3 ， wei1 yue4 chu1 cang1 mang2 。
+- xian2 bu4 bu4 jue2 yuan3 ， xiao1 xiao1 mu4 luo4 chu1 。
+- shi1 qing2 pao1 kun3 yu4 ， jiang1 ying3 dong4 jin1 ju1 。
+- ge2 bei3 hong2 xing2 chu1 ， xia2 xi1 yu3 jiao3 shu1 。
+- jin1 feng1 qiu1 geng4 hao3 ， qi3 qu3 you4 he2 ru2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 酒闌人寂暗銀缸，淡月輕風透碧窗。
-- 宮女欲歌初製曲，旋將絃管按新腔。
+- 集英金屋起清秋，式宴千官拜賜優。
+- 宴罷瑤仙迎翠輦，霞衣嬝娜逐風柔。
 
 ## 拼音
 
-- jiu3 lan2 ren2 ji4 an4 yin2 gang1 ， dan4 yue4 qing1 feng1 tou4 bi4 chuang1 。
-- gong1 nü3 yu4 ge1 chu1 zhi4 qu3 ， xuan2 jiang1 xian2 guan3 an4 xin1 qiang1 。
+- ji2 ying1 jin1 wu1 qi3 qing1 qiu1 ， shi4 yan4 qian1 guan1 bai4 ci4 you1 。
+- yan4 ba4 yao2 xian1 ying2 cui4 nian3 ， xia2 yi1 niao3 na4 zhu2 feng1 rou2 。
 
 ## 注释
 

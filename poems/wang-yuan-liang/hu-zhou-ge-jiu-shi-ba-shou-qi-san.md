@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-hu-zhou-ge-jiu-shi-ba-shou-qi-san
-title: 湖州歌九十八首  其三
-titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 san1
+title: 湖州歌九十八首  其三○
+titlePinyin: hu2 zhou1 ge1 jiu3 shi2 ba1 shou3     qi2 san1 ○
 titleSlug: hu-zhou-ge-jiu-shi-ba-shou-qi-san
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殿上羣臣默不言，伯顔丞相趣降箋。
-- 三宮共在珠簾下，萬騎虬鬚遶殿前。
+- 太皇太后過江都，遥指淮山似畫圖。
+- 拋却故家風雨外，夜來歸夢繞西湖。
 
 ## 拼音
 
-- dian4 shang4 qun2 chen2 mo4 bu4 yan2 ， bo2 yan2 cheng2 xiang4 qu4 jiang4 jian1 。
-- san1 gong1 gong4 zai4 zhu1 lian2 xia4 ， wan4 qi2 qiu2 xu1 rao4 dian4 qian2 。
+- tai4 huang2 tai4 hou4 guo4 jiang1 du1 ， yao2 zhi3 huai2 shan1 si4 hua4 tu2 。
+- pao1 que4 gu4 jia1 feng1 yu3 wai4 ， ye4 lai2 gui1 meng4 rao4 xi1 hu2 。
 
 ## 注释
 

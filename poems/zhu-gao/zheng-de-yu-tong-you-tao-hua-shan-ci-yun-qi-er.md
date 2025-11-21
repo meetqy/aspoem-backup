@@ -6,9 +6,9 @@ titleSlug: zheng-de-yu-tong-you-tao-hua-shan-ci-yun-qi-er
 author: 朱槔
 authorPinyin: zhu1 gao1
 authorSlug: zhu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

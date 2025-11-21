@@ -9,22 +9,18 @@ authorSlug: yang-ning
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 樽酒郵亭暮，雲帆驛使歸。
-- 野鷗寒不起，川雨凍難飛。
-- 吳會家移遍，軒轅夢去稀。
-- 姓楊皆足淚，非是強沾衣。
+- 仙花笑盡石門中，石室重重掩綠空。
+- 蹔下雲峰能幾日，却迴煙駕馭春風。
 
 ## 拼音
 
-- zun1 jiu3 you2 ting2 mu4 ， yun2 fan1 yi4 shi3 gui1 。
-- ye3 ou1 han2 bu4 qi3 ， chuan1 yu3 dong4 nan2 fei1 。
-- wu2 hui4 jia1 yi2 bian4 ， xuan1 yuan2 meng4 qu4 xi1 。
-- xing4 yang2 jie1 zu2 lei4 ， fei1 shi4 qiang2 zhan1 yi1 。
+- xian1 hua1 xiao4 jin4 shi2 men2 zhong1 ， shi2 shi4 chong2 chong2 yan3 lü4 kong1 。
+- zan4 xia4 yun2 feng1 neng2 ji1 ri4 ， que4 hui2 yan1 jia4 yu4 chun1 feng1 。
 
 ## 注释
 

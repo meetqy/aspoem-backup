@@ -9,30 +9,30 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 水石引我去，南湖復東壑。
-- 不厭隨竹陰，來登石上閣。
-- 磴道通石門，欹崖斷如鑿。
-- 飛梁架峯頭，夭矯虹霓若。
-- 下視竹木杪，仰見懸泉落。
-- 水聲兼松吹，音響參衆樂。
-- 時時爲霧雨，飄灑溼簾箔。
-- 吾欲棄簪纓，於茲守寂寞。
+- 石上搆層閣，便以石爲柱。
+- 千載□棟梁，豈有□危懼。
+- 苔壁絕人蹤，虹橋橫鳥路。
+- 攀涉愜所懷，幽奇未嘗遇。
+- 迥然半空裏，物象競相助。
+- 雲外見孤峯，林端懸瀑布。
+- 引望無不通，茲焉倍多趣。
+- 徒□欲忘歸，衣裳溼煙霧。
 
 ## 拼音
 
-- shui3 shi2 yin3 wo3 qu4 ， nan2 hu2 fu4 dong1 he4 。
-- bu2 yan4 sui2 zhu2 yin1 ， lai2 deng1 shi2 shang4 ge2 。
-- deng4 dao4 tong1 shi2 men2 ， qi1 ya2 duan4 ru2 zao2 。
-- fei1 liang2 jia4 feng1 tou2 ， yao1 jiao3 hong2 ni2 ruo4 。
-- xia4 shi4 zhu2 mu4 miao3 ， yang3 jian4 xuan2 quan2 luo4 。
-- shui3 sheng1 jian1 song1 chui1 ， yin1 xiang3 can1 zhong4 le4 。
-- shi2 shi2 wei2 wu4 yu3 ， piao1 sa3 shi1 lian2 bo2 。
-- wu2 yu4 qi4 zan1 ying1 ， wu1 zi1 shou3 ji4 mo4 。
+- shi2 shang4 gou4 ceng2 ge2 ， bian4 yi3 shi2 wei2 zhu4 。
+- qian1 zai4 □ dong4 liang2 ， qi3 you3 □ wei1 ju4 。
+- tai2 bi4 jue2 ren2 zong1 ， hong2 qiao2 heng2 niao3 lu4 。
+- pan1 she4 qie4 suo3 huai2 ， you1 qi2 wei4 chang2 yu4 。
+- jiong3 ran2 ban4 kong1 li3 ， wu4 xiang4 jing4 xiang1 zhu4 。
+- yun2 wai4 jian4 gu1 feng1 ， lin2 duan1 xuan2 pu4 bu4 。
+- yin3 wang4 wu2 bu4 tong1 ， zi1 yan1 bei4 duo1 qu4 。
+- tu2 □ yu4 wang4 gui1 ， yi1 shang0 shi1 yan1 wu4 。
 
 ## 注释
 

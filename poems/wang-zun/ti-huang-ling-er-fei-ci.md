@@ -6,10 +6,10 @@ titleSlug: ti-huang-ling-er-fei-ci
 author: 王遵
 authorPinyin: wang2 zun1
 authorSlug: wang-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

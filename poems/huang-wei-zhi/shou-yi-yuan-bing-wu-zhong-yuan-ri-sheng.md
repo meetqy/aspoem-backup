@@ -6,10 +6,10 @@ titleSlug: shou-yi-yuan-bing-wu-zhong-yuan-ri-sheng
 author: 黄維之
 authorPinyin: huang2 wei2 zhi1
 authorSlug: huang-wei-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

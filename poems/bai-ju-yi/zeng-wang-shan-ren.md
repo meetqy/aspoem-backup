@@ -9,30 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 聞君減寢食，日聽神仙說。
-- 闇待非常人，潛求長生訣。
-- 言長本對短，未離生死轍。
-- 假使得長生，才能勝夭折。
-- 松樹千年朽，槿花一日歇。
-- 畢竟共虛空，何須誇歲月。
-- 彭殤徒自異，生死終無別。
-- 不如學無生，無生即無滅。
+- 玉芝觀裏王居士，服氣餐霞善養身。
+- 夜後不聞龜喘息，秋來唯長鶴精神。
+- 容顏盡怪長如故，名姓多疑不是真。
+- 貴重榮華輕壽命，知君悶見世間人。
 
 ## 拼音
 
-- wen2 jun1 jian3 qin3 shi2 ， ri4 ting1 shen2 xian1 shuo1 。
-- an4 dai4 fei1 chang2 ren2 ， qian2 qiu2 chang2 sheng1 jue2 。
-- yan2 chang2 ben3 dui4 duan3 ， wei4 li2 sheng1 si3 zhe2 。
-- jia3 shi3 de0 chang2 sheng1 ， cai2 neng2 sheng4 yao1 zhe2 。
-- song1 shu4 qian1 nian2 xiu3 ， jin3 hua1 yi2 ri4 xie1 。
-- bi4 jing4 gong4 xu1 kong1 ， he2 xu1 kua1 sui4 yue4 。
-- peng2 shang1 tu2 zi4 yi4 ， sheng1 si3 zhong1 wu2 bie2 。
-- bu4 ru2 xue2 wu2 sheng1 ， wu2 sheng1 ji2 wu2 mie4 。
+- yu4 zhi1 guan1 li3 wang2 ju1 shi4 ， fu2 qi4 can1 xia2 shan4 yang3 shen1 。
+- ye4 hou4 bu4 wen2 gui1 chuan3 xi1 ， qiu1 lai2 wei2 chang2 he4 jing1 shen2 。
+- rong2 yan2 jin4 guai4 chang2 ru2 gu4 ， ming2 xing4 duo1 yi2 bu2 shi4 zhen1 。
+- gui4 zhong4 rong2 hua2 qing1 shou4 ming4 ， zhi1 jun1 men4 jian4 shi4 jian4 ren2 。
 
 ## 注释
 

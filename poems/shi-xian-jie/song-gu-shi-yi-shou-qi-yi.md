@@ -1,26 +1,26 @@
 ---
 id: shi-xian-jie-song-gu-shi-yi-shou-qi-yi
-title: 頌古十一首  其一
-titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1
+title: 頌古十一首  其一○
+titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-yi-shou-qi-yi
 author: 釋咸傑
 authorPinyin: shi4 xian2 jie2
 authorSlug: shi-xian-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斫却月中桂，清光轉更多。
-- 狐狸俱屏迹，獅子奮金毛。
+- 百戰場中舞纛旗，將軍立處十分危。
+- 游人只看錐頭利，失却吹毛總不知。
 
 ## 拼音
 
-- zhuo2 que4 yue4 zhong1 gui4 ， qing1 guang1 zhuan3 geng4 duo1 。
-- hu2 li0 ju4 ping2 ji4 ， shi1 zi3 fen4 jin1 mao2 。
+- bai3 zhan4 chang3 zhong1 wu3 dao4 qi2 ， jiang1 jun1 li4 chu3 shi2 fen1 wei1 。
+- you2 ren2 zhi1 kan4 zhui1 tou2 li4 ， shi1 que4 chui1 mao2 zong3 bu4 zhi1 。
 
 ## 注释
 

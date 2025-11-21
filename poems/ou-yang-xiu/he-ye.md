@@ -6,25 +6,21 @@ titleSlug: he-ye
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 採掇本芳陂，移根向玉池。
-- 晴香滋白露，翠色弄清漪。
-- 雨歇涼飚起，煙明夕照移。
-- 如何江上思，偏動越人悲。
+- 池面風來波瀲瀲，波間露下葉田田。
+- 誰於水上張青蓋，罩却紅粧唱採蓮。
 
 ## 拼音
 
-- cai3 duo1 ben3 fang1 bei1 ， yi2 gen1 xiang4 yu4 chi2 。
-- qing2 xiang1 zi1 bai2 lu4 ， cui4 se4 nong4 qing1 yi1 。
-- yu3 xie1 liang2 biao1 qi3 ， yan1 ming2 xi1 zhao4 yi2 。
-- ru2 he2 jiang1 shang4 si1 ， pian1 dong4 yue4 ren2 bei1 。
+- chi2 mian4 feng1 lai2 bo1 lian4 lian4 ， bo1 jian4 lu4 xia4 ye4 tian2 tian2 。
+- shui2 wu1 shui3 shang4 zhang1 qing1 gai4 ， zhao4 que4 hong2 zhuang1 chang4 cai3 lian2 。
 
 ## 注释
 

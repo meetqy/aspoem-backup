@@ -6,10 +6,10 @@ titleSlug: xi-ying-gong-da-shi-xiang-fang
 author: 趙昌言
 authorPinyin: zhao4 chang1 yan2
 authorSlug: zhao-chang-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

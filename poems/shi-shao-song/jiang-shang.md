@@ -6,25 +6,21 @@ titleSlug: jiang-shang
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 弱柳垂江翠，驚湍拍岸浮。
-- 煙生山欲盡，春半水爭流。
-- 棹倚袁宏渚，雲凝庾信愁。
-- 艱難念時事，衰謝不能休。
+- 春岸波平汀草深，江雲黯黯作愁陰。
+- 詩材眼界知多少，欲罷不能聊一吟。
 
 ## 拼音
 
-- ruo4 liu3 chui2 jiang1 cui4 ， jing1 tuan1 pai1 an4 fu2 。
-- yan1 sheng1 shan1 yu4 jin4 ， chun1 ban4 shui3 zheng1 liu2 。
-- zhao4 yi3 yuan2 hong2 zhu3 ， yun2 ning2 yu3 xin4 chou2 。
-- jian1 nan2 nian4 shi2 shi4 ， shuai1 xie4 bu4 neng2 xiu1 。
+- chun1 an4 bo1 ping2 ting1 cao3 shen1 ， jiang1 yun2 an4 an4 zuo4 chou2 yin1 。
+- shi1 cai2 yan3 jie4 zhi1 duo1 shao3 ， yu4 ba4 bu4 neng2 liao2 yi4 yin2 。
 
 ## 注释
 

@@ -6,21 +6,25 @@ titleSlug: chun-ri-ji-shi
 author: 姚勉
 authorPinyin: yao2 mian3
 authorSlug: yao-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梁燕無聲半掩關，晝長人靜覺春閒。
-- 閒中却有農歌起，聲在晴煙綠處山。
+- 行野醒春困，看山立晝晴。
+- 鳩啼青樾破，鷺匝綠秧行。
+- 物到忘機樂，人因遠俗清。
+- 覓詩無斷句，敲板午茶聲。
 
 ## 拼音
 
-- liang2 yan4 wu2 sheng1 ban4 yan3 guan1 ， zhou4 chang2 ren2 jing4 jue2 chun1 xian2 。
-- xian2 zhong1 que4 you3 nong2 ge1 qi3 ， sheng1 zai4 qing2 yan1 lü4 chu3 shan1 。
+- xing2 ye3 xing3 chun1 kun4 ， kan4 shan1 li4 zhou4 qing2 。
+- jiu1 ti2 qing1 yue4 po4 ， lu4 za1 lü4 yang1 xing2 。
+- wu4 dao4 wang4 ji1 le4 ， ren2 yin1 yuan3 su2 qing1 。
+- mi4 shi1 wu2 duan4 ju4 ， qiao1 ban3 wu3 cha2 sheng1 。
 
 ## 注释
 

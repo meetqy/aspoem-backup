@@ -6,10 +6,10 @@ titleSlug: dai-shu-ji-hou-mao-bo-ming-li-shu-qi-kang-shu-lin-zhang-wang-chen
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

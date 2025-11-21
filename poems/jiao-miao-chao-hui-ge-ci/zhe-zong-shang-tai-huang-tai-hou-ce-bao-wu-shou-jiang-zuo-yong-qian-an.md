@@ -6,25 +6,25 @@ titleSlug: zhe-zong-shang-tai-huang-tai-hou-ce-bao-wu-shou-jiang-zuo-yong-qian-a
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 皇帝仁孝，總臨萬方。
-- 褒顯其親，日嚴以莊。
-- 龍衮翼翼，玉書煌煌。
-- 傳之億世，休有烈光。
+- 塗山之德，渭涘之祥。
+- 圖徽寶冊，玉色金相。
+- 管弦燁煜，鐘鼓喤喤。
+- 天之所啟，既壽而昌。
 
 ## 拼音
 
-- huang2 di4 ren2 xiao4 ， zong3 lin2 wan4 fang1 。
-- bao1 xian3 qi2 qin1 ， ri4 yan2 yi3 zhuang1 。
-- long2 gun3 yi4 yi4 ， yu4 shu1 huang2 huang2 。
-- chuan2 zhi1 yi4 shi4 ， xiu1 you3 lie4 guang1 。
+- tu2 shan1 zhi1 de2 ， wei4 si4 zhi1 xiang2 。
+- tu2 hui1 bao3 ce4 ， yu4 se4 jin1 xiang4 。
+- guan3 xian2 ye4 yu4 ， zhong1 gu3 huang2 huang2 。
+- tian1 zhi1 suo3 qi3 ， ji4 shou4 er2 chang1 。
 
 ## 注释
 

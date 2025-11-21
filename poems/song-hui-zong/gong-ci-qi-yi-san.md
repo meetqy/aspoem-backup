@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 元宵三五競芳年，十二都門沸管絃。
-- 鼇負繒山輝絳闕，龍銜寶炬撒金蓮。
+- 金井高梧舞戲圭，露盤承潤曉淒淒。
+- 深宮不是清秋景，昨夜寒蛩漸漸啼。
 
 ## 拼音
 
-- yuan2 xiao1 san1 wu3 jing4 fang1 nian2 ， shi2 er4 dou1 men2 fei4 guan3 xian2 。
-- ao2 fu4 zeng1 shan1 hui1 jiang4 que4 ， long2 xian2 bao3 ju4 sa1 jin1 lian2 。
+- jin1 jing3 gao1 wu2 wu3 xi4 gui1 ， lu4 pan2 cheng2 run4 xiao3 qi1 qi1 。
+- shen1 gong1 bu2 shi4 qing1 qiu1 jing3 ， zuo2 ye4 han2 qiong2 jian4 jian4 ti2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-feng-pang-guo-bo-nian-san-shi-ba-zi-yun-yu-qi-guan-yin-song-shan
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

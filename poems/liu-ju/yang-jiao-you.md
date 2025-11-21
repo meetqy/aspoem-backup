@@ -6,10 +6,10 @@ titleSlug: yang-jiao-you
 author: 劉榘
 authorPinyin: liu2 ju3
 authorSlug: liu-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

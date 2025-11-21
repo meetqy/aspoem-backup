@@ -6,10 +6,10 @@ titleSlug: zai-fu-er-zhang-yi-yi-song-gao-ren-zhi-feng-yi-yi-shen-su-li-zhi-yi-q
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

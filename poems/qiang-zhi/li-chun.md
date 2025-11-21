@@ -6,25 +6,25 @@ titleSlug: li-chun
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宿凍歸何處，池塘漲暖波。
-- 日盤花面永，風入鳥聲和。
-- 俎菜堆生葉，閨裳剪薄羅。
-- 獨憐詩酒興，早較昨宵多。
+- 殘臘新春判此朝，斗寒猶未動寅杓。
+- 白催曉色融冰片，綠轉風光入柳條。
+- 絲菜落盤隨玉手，鏤花垂勝壓金翹。
+- 六年不見江梅影，長覺歸心似旆摇。
 
 ## 拼音
 
-- su4 dong4 gui1 he2 chu3 ， chi2 tang2 zhang3 nuan3 bo1 。
-- ri4 pan2 hua1 mian4 yong3 ， feng1 ru4 niao3 sheng1 he2 。
-- zu3 cai4 dui1 sheng1 ye4 ， gui1 shang0 jian3 bao2 luo2 。
-- du2 lian2 shi1 jiu3 xing1 ， zao3 jiao4 zuo2 xiao1 duo1 。
+- can2 la4 xin1 chun1 pan4 ci3 chao2 ， dou4 han2 you2 wei4 dong4 yin2 shao2 。
+- bai2 cui1 xiao3 se4 rong2 bing1 pian4 ， lü4 zhuan3 feng1 guang1 ru4 liu3 tiao2 。
+- si1 cai4 luo4 pan2 sui2 yu4 shou3 ， lou4 hua1 chui2 sheng4 ya1 jin1 qiao2 。
+- liu4 nian2 bu2 jian4 jiang1 mei2 ying3 ， chang2 jue2 gui1 xin1 si4 pei4 yao2 。
 
 ## 注释
 

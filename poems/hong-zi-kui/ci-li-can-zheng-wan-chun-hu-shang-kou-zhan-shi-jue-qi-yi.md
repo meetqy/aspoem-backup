@@ -1,26 +1,26 @@
 ---
 id: hong-zi-kui-ci-li-can-zheng-wan-chun-hu-shang-kou-zhan-shi-jue-qi-yi
-title: 次李參政晚春湖上口占十絕  其一
-titlePinyin: ci4 li3 can1 zheng4 wan3 chun1 hu2 shang4 kou3 zhan4 shi2 jue2     qi2 yi1
+title: 次李參政晚春湖上口占十絕  其一○
+titlePinyin: ci4 li3 can1 zheng4 wan3 chun1 hu2 shang4 kou3 zhan4 shi2 jue2     qi2 yi1 ○
 titleSlug: ci-li-can-zheng-wan-chun-hu-shang-kou-zhan-shi-jue-qi-yi
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 褵褷瘦鶴耻乘軒，踏遍莓苔十畝園。
-- 欲下橫塘還決去，漲痕一尺晚來渾。
+- 潼關殺氣渺春陰，渭水泱泱柳色深。
+- 爲問草廬人起否，漢家遺老尚謳吟。
 
 ## 拼音
 
-- li2 shi1 shou4 he4 chi3 cheng2 xuan1 ， ta4 bian4 mei2 tai2 shi2 mu3 yuan2 。
-- yu4 xia4 heng2 tang2 huan2 jue2 qu4 ， zhang3 hen2 yi4 chi3 wan3 lai2 hun2 。
+- tong2 guan1 sha1 qi4 miao3 chun1 yin1 ， wei4 shui3 yang1 yang1 liu3 se4 shen1 。
+- wei2 wen4 cao3 lu2 ren2 qi3 fou3 ， han4 jia1 yi2 lao3 shang4 ou1 yin2 。
 
 ## 注释
 

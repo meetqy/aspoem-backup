@@ -6,10 +6,10 @@ titleSlug: wu-min-nu
 author: 陳潤道
 authorPinyin: chen2 run4 dao4
 authorSlug: chen-run-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

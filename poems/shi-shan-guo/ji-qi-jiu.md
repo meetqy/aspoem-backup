@@ -6,10 +6,10 @@ titleSlug: ji-qi-jiu
 author: 釋善果
 authorPinyin: shi4 shan4 guo3
 authorSlug: shi-shan-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zi-chang-men-qi-ma-ru-yue-cheng-qi-er
-title: 自閶門騎馬入越城・其二
-titlePinyin: zi4 chang1 men2 qi2 ma3 ru4 yue4 cheng2・qi2 er4
+title: 自閶門騎馬入越城  其二
+titlePinyin: zi4 chang1 men2 qi2 ma3 ru4 yue4 cheng2     qi2 er4
 titleSlug: zi-chang-men-qi-ma-ru-yue-cheng-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

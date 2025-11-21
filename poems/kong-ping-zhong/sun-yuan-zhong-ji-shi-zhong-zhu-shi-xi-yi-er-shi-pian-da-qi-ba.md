@@ -6,10 +6,10 @@ titleSlug: sun-yuan-zhong-ji-shi-zhong-zhu-shi-xi-yi-er-shi-pian-da-qi-ba
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: cheng-bei-lan-yun-xian-sheng
 author: 程浚
 authorPinyin: cheng2 jun4
 authorSlug: cheng-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

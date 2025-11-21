@@ -6,10 +6,10 @@ titleSlug: wu-xie-shan-si
 author: 廖虞弼
 authorPinyin: liao4 yu2 bi4
 authorSlug: liao-yu-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: qiu-wan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 木落寺樓出，江平沙渚生。
-- 牛羊下殘照，鼓角動高城。
-- 寒至衣猶質，憂多夢自驚。
-- 群胡方鬭穴，河渭幾時清。
+- 身世呻吟裏，園廬寂寞中。
+- 家貧憂酒券，才盡畏詩筒。
+- 陂水潴猶滿，山苗穫欲空。
+- 兒孫更力作，勿愧禹遺風。
 
 ## 拼音
 
-- mu4 luo4 si4 lou2 chu1 ， jiang1 ping2 sha1 zhu3 sheng1 。
-- niu2 yang2 xia4 can2 zhao4 ， gu3 jiao3 dong4 gao1 cheng2 。
-- han2 zhi4 yi1 you2 zhi4 ， you1 duo1 meng4 zi4 jing1 。
-- qun2 hu2 fang1 dou4 xue2 ， he2 wei4 ji1 shi2 qing1 。
+- shen1 shi4 shen1 yin2 li3 ， yuan2 lu2 ji4 mo4 zhong1 。
+- jia1 pin2 you1 jiu3 quan4 ， cai2 jin4 wei4 shi1 tong3 。
+- bei1 shui3 zhu1 you2 man3 ， shan1 miao2 huo4 yu4 kong1 。
+- er2 sun1 geng4 li4 zuo4 ， wu4 kui4 yu3 yi2 feng1 。
 
 ## 注释
 

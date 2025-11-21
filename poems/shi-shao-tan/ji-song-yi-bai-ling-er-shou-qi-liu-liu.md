@@ -6,21 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-liu-liu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花禁冷葉紅，草敵虛嵐翠。
-- 清浄盧舍那，全身荆棘裏。
+- 落寞山家，忙如火急。
+- 趁晴刈茆，带霜收橘。
+- 山僧冷地思量，盡把家私狼籍。
+- 日日日東上，日日日西沒。
 
 ## 拼音
 
-- hua1 jin4 leng3 ye4 hong2 ， cao3 di2 xu1 lan2 cui4 。
-- qing1 jing4 lu2 she4 na4 ， quan2 shen1 jing1 ji2 li3 。
+- luo4 mo4 shan1 jia1 ， mang2 ru2 huo3 ji2 。
+- chen4 qing2 yi4 mao2 ， dai4 shuang1 shou1 ju2 。
+- shan1 seng1 leng3 di4 si1 liang0 ， jin4 ba3 jia1 si1 lang2 ji2 。
+- ri4 ri4 ri4 dong1 shang4 ， ri4 ri4 ri4 xi1 mei2 。
 
 ## 注释
 

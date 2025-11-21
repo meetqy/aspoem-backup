@@ -6,21 +6,25 @@ titleSlug: ou-ti
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竇姬欲趙誤至代，昭君色妍還作醜。
-- 信知天命不可移，舉世奔趨果何有。
+- 三麾一節已難堪，更蒙天恩舘職忝。
+- 居士本來還舊服，叢祠猶復戴華簪。
+- 身微國效將安用，家竊官供祇自慙。
+- 料得清時耕𤱶畝，未應朝夕缺瓶甔。
 
 ## 拼音
 
-- dou4 ji1 yu4 zhao4 wu4 zhi4 dai4 ， zhao1 jun1 se4 yan2 huan2 zuo4 chou3 。
-- xin4 zhi1 tian1 ming4 bu4 ke3 yi2 ， ju3 shi4 ben1 qu1 guo3 he2 you3 。
+- san1 hui1 yi4 jie2 yi3 nan2 kan1 ， geng4 meng2 tian1 en1 guan3 zhi2 tian3 。
+- ju1 shi4 ben3 lai2 huan2 jiu4 fu2 ， cong2 ci2 you2 fu4 dai4 hua2 zan1 。
+- shen1 wei1 guo2 xiao4 jiang1 an1 yong4 ， jia1 qie4 guan1 gong4 qi2 zi4 can2 。
+- liao4 de2 qing1 shi2 geng1 𤱶 mu3 ， wei4 ying1 zhao1 xi1 que1 ping2 dan1 。
 
 ## 注释
 

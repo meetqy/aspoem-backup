@@ -6,10 +6,10 @@ titleSlug: he-liang-qian-pan-ying-zhou-xi-hu-shi-san-ti-nu-lang-tai
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

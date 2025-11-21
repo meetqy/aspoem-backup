@@ -1,26 +1,32 @@
 ---
 id: shi-zheng-jue-ji-song-qi-shi-ba-shou-qi-qi
-title: 偈頌七十八首  其七
-titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 qi1
+title: 偈頌七十八首  其七○
+titlePinyin: ji4 song4 qi1 shi2 ba1 shou3     qi2 qi1 ○
 titleSlug: ji-song-qi-shi-ba-shou-qi-qi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 明明百草頭，明明祖師意。
-- 於佗未嘗一，於我未嘗異。
+- 芝麻壓得油，秔米炊得飯，還我叢林飽參漢。
+- 衲僧履道貴平懷，何必臨機爭轉換。
+- 活計自然，家風成現。
+- 順水便風，歸舟到岸。
+- 寒山拾得笑呵呵，此心分付知音辨。
 
 ## 拼音
 
-- ming2 ming2 bai3 cao3 tou2 ， ming2 ming2 zu3 shi1 yi4 。
-- wu1 tuo2 wei4 chang2 yi1 ， wu1 wo3 wei4 chang2 yi4 。
+- zhi1 ma0 ya1 de2 you2 ， jing1 mi3 chui1 de2 fan4 ， huan2 wo3 cong2 lin2 bao3 can1 han4 。
+- na4 seng1 lü3 dao4 gui4 ping2 huai2 ， he2 bi4 lin2 ji1 zheng1 zhuan3 huan4 。
+- huo2 ji4 zi4 ran2 ， jia1 feng1 cheng2 xian4 。
+- shun4 shui3 bian4 feng1 ， gui1 zhou1 dao4 an4 。
+- han2 shan1 shi2 de2 xiao4 he1 he1 ， ci3 xin1 fen1 fu4 zhi1 yin1 bian4 。
 
 ## 注释
 

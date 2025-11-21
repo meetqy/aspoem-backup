@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-wang-xi-wu-tong-pan-wan-ci-er-shou-qi-er
-title: 王希武通判挽詞二首・其二
-titlePinyin: wang2 xi1 wu3 tong1 pan4 wan3 ci2 er4 shou3・qi2 er4
+title: 王希武通判挽詞二首  其二
+titlePinyin: wang2 xi1 wu3 tong1 pan4 wan3 ci2 er4 shou3     qi2 er4
 titleSlug: wang-xi-wu-tong-pan-wan-ci-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

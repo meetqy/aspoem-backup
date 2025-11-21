@@ -6,25 +6,25 @@ titleSlug: ji-huai-wei-zhi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 共旅長安暑未徂，到家忽已秋風初。
-- 十詩道別心期遠，千里相望魂夢疎。
-- 驛使梅來應寄我，衡陽鴈渺更愁予。
-- 如君乃作諸侯客，顧使誰讎東觀書。
+- 馳檄傳聞思一來，溪頭幾立望檣桅。
+- 黄花又作霜前槁，白酒空留秋後醅。
+- 早歲交遊今孰在，暮年林壑要深陪。
+- 世間名宦豈不好，只恐勢移成溺灰。
 
 ## 拼音
 
-- gong4 lü3 chang2 an1 shu3 wei4 cu2 ， dao4 jia1 hu1 yi3 qiu1 feng1 chu1 。
-- shi2 shi1 dao4 bie2 xin1 qi1 yuan3 ， qian1 li3 xiang1 wang4 hun2 meng4 shu1 。
-- yi4 shi3 mei2 lai2 ying1 ji4 wo3 ， heng2 yang2 yan4 miao3 geng4 chou2 yu3 。
-- ru2 jun1 nai3 zuo4 zhu1 hou2 ke4 ， gu4 shi3 shui2 chou2 dong1 guan1 shu1 。
+- chi2 xi2 chuan2 wen2 si1 yi4 lai2 ， xi1 tou2 ji1 li4 wang4 qiang2 wei2 。
+- huang2 hua1 you4 zuo4 shuang1 qian2 gao3 ， bai2 jiu3 kong1 liu2 qiu1 hou4 pei1 。
+- zao3 sui4 jiao1 you2 jin1 shu2 zai4 ， mu4 nian2 lin2 he4 yao4 shen1 pei2 。
+- shi4 jian4 ming2 huan4 qi3 bu4 hao3 ， zhi3 kong3 shi4 yi2 cheng2 ni4 hui1 。
 
 ## 注释
 

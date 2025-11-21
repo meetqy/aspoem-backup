@@ -6,21 +6,21 @@ titleSlug: ci-yun-qi-si
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小軒何物伴吾幽，老眼粗官畏得秋。
-- 片段白雲吹作雨，又看新葉上牽牛。
+- 青入靈山玉削成，羣峰羅列有心情。
+- 眼明忽卷孤城雨，風定白雲濃淡生。
 
 ## 拼音
 
-- xiao3 xuan1 he2 wu4 ban4 wu2 you1 ， lao3 yan3 cu1 guan1 wei4 de2 qiu1 。
-- pian4 duan4 bai2 yun2 chui1 zuo4 yu3 ， you4 kan4 xin1 ye4 shang4 qian1 niu2 。
+- qing1 ru4 ling2 shan1 yu4 xiao1 cheng2 ， qun2 feng1 luo2 lie4 you3 xin1 qing2 。
+- yan3 ming2 hu1 juan4 gu1 cheng2 yu3 ， feng1 ding4 bai2 yun2 nong2 dan4 sheng1 。
 
 ## 注释
 

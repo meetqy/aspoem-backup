@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti-qi-san
 author: 謝岳甫
 authorPinyin: xie4 yue4 fu3
 authorSlug: xie-yue-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

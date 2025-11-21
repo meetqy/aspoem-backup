@@ -6,10 +6,10 @@ titleSlug: jun-fu-chu-shi-qi-da-shi-su-you-wan-yue-fan-hu-zhi-yue-yu-yi-wo-bing-
 author: 釋智圓
 authorPinyin: shi4 zhi4 yuan2
 authorSlug: shi-zhi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

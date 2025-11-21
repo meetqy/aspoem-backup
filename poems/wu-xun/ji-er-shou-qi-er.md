@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-er
 author: 吳恂
 authorPinyin: wu2 xun2
 authorSlug: wu-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

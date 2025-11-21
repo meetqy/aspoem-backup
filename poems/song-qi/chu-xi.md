@@ -6,21 +6,21 @@ titleSlug: chu-xi
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歷尾無餘日，更籌促曙躔。
-- 持愁賸殘歲，將老入新年。
+- 一杯芳酒夜分天，萬慮勞勞耿不眠。
+- 明日新春到何處，菱花影裏二毛邊。
 
 ## 拼音
 
-- li4 wei3 wu2 yu2 ri4 ， geng4 chou2 cu4 shu3 chan2 。
-- chi2 chou2 sheng4 can2 sui4 ， jiang1 lao3 ru4 xin1 nian2 。
+- yi4 bei1 fang1 jiu3 ye4 fen1 tian1 ， wan4 lü4 lao2 lao2 geng3 bu4 mian2 。
+- ming2 ri4 xin1 chun1 dao4 he2 chu3 ， ling2 hua1 ying3 li3 er4 mao2 bian1 。
 
 ## 注释
 

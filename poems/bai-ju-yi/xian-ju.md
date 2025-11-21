@@ -9,32 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 空腹一醆粥，飢食有餘味。
-- 南檐半牀日，暖臥因成睡。
-- 緜袍擁兩膝，竹几支雙臂。
-- 從旦直至昏，身心一無事。
-- 心足即爲富，身閑乃當貴。
-- 富貴在此中，何必居高位。
-- 君看裴相國，金紫光照地。
-- 心苦頭盡白，纔年四十四。
-- 乃知高蓋車，乘者多憂畏。
+- 風雨蕭條秋少客，門庭冷靜晝多關。
+- 金羈駱馬近賣却，羅袖柳枝尋放還。
+- 書卷略尋聊取睡，酒杯淺把麤開顏。
+- 眼昏入夜休看月，脚重經春不上山。
+- 心靜無妨喧處寂，機忘兼覺夢中閑。
+- 是非愛惡銷停盡，唯寄空身在世間。
 
 ## 拼音
 
-- kong1 fu4 yi4 zhan3 zhou1 ， ji1 shi2 you3 yu2 wei4 。
-- nan2 yan2 ban4 chuang2 ri4 ， nuan3 wo4 yin1 cheng2 shui4 。
-- mian2 pao2 yong1 liang3 xi1 ， zhu2 ji3 zhi1 shuang1 bi4 。
-- cong2 dan4 zhi2 zhi4 hun1 ， shen1 xin1 yi4 wu2 shi4 。
-- xin1 zu2 ji2 wei2 fu4 ， shen1 xian2 nai3 dang1 gui4 。
-- fu4 gui4 zai4 ci3 zhong1 ， he2 bi4 ju1 gao1 wei4 。
-- jun1 kan4 pei2 xiang1 guo2 ， jin1 zi3 guang1 zhao4 di4 。
-- xin1 ku3 tou2 jin4 bai2 ， cai2 nian2 si4 shi2 si4 。
-- nai3 zhi1 gao1 gai4 ju1 ， cheng2 zhe3 duo1 you1 wei4 。
+- feng1 yu3 xiao1 tiao2 qiu1 shao3 ke4 ， men2 ting2 leng3 jing4 zhou4 duo1 guan1 。
+- jin1 ji1 luo4 ma3 jin4 mai4 que4 ， luo2 xiu4 liu3 zhi1 xun2 fang4 huan2 。
+- shu1 juan4 lüe4 xun2 liao2 qu3 shui4 ， jiu3 bei1 qian3 ba3 cu1 kai1 yan2 。
+- yan3 hun1 ru4 ye4 xiu1 kan4 yue4 ， jiao3 zhong4 jing1 chun1 bu2 shang4 shan1 。
+- xin1 jing4 wu2 fang2 xuan1 chu3 ji4 ， ji1 wang4 jian1 jue2 meng4 zhong1 xian2 。
+- shi4 fei1 ai4 e4 xiao1 ting2 jin4 ， wei2 ji4 kong1 shen1 zai4 shi4 jian4 。
 
 ## 注释
 

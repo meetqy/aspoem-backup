@@ -6,10 +6,10 @@ titleSlug: wei-zhi-chi-yang-wu-li-you-qi-shan-si-si-hou-yan-shi-chan-ran-yuan-ya
 author: 楊冠卿
 authorPinyin: yang2 guan1 qing1
 authorSlug: yang-guan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

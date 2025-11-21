@@ -6,25 +6,25 @@ titleSlug: ye-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曲几蒲團夜過分，頹然半脫鹿皮巾。
-- 驚鴻避弋鳴煙渚，斷角凌風上雪雲。
-- 仕宦愈知林下貴，窮愁方策酒中勛。
-- 扁舟東去何時辦，昔向金丹幸有聞。
+- 餠餌支遥夜，薪烝禦早寒。
+- 卧聞風浩蕩，起視斗闌干。
+- 鷄怯飛霜重，鴉驚出月殘。
+- 挑燈搔短髮，顧影發吾嘆。
 
 ## 拼音
 
-- qu3 ji3 pu2 tuan2 ye4 guo4 fen1 ， tui2 ran2 ban4 tuo1 lu4 pi2 jin1 。
-- jing1 hong2 bi4 yi4 ming2 yan1 zhu3 ， duan4 jiao3 ling2 feng1 shang4 xue3 yun2 。
-- shi4 huan4 yu4 zhi1 lin2 xia4 gui4 ， qiong2 chou2 fang1 ce4 jiu3 zhong1 xun1 。
-- pian1 zhou1 dong1 qu4 he2 shi2 ban4 ， xi1 xiang4 jin1 dan1 xing4 you3 wen2 。
+- bing3 er3 zhi1 yao2 ye4 ， xin1 zheng1 yu4 zao3 han2 。
+- wo4 wen2 feng1 hao4 dang4 ， qi3 shi4 dou4 lan2 gan1 。
+- ji1 qie4 fei1 shuang1 zhong4 ， ya1 jing1 chu1 yue4 can2 。
+- tiao1 deng1 sao1 duan3 fa4 ， gu4 ying3 fa1 wu2 tan4 。
 
 ## 注释
 

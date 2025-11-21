@@ -6,23 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-wu-ba
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天寒人寒，滴水滴凍。
-- 赤脚走冰稜，力負千鈞重。
-- 堪笑霜趺擁葉人，漆桶漆桶。
+- 尊貴中來，報土無差。
+- 瓊琚庭院，錦綉樓臺。
+- 何似靈山聽法華，聯鑣穩駕白牛車。
 
 ## 拼音
 
-- tian1 han2 ren2 han2 ， di1 shui3 di1 dong4 。
-- chi4 jiao3 zou3 bing1 leng2 ， li4 fu4 qian1 jun1 zhong4 。
-- kan1 xiao4 shuang1 fu1 yong1 ye4 ren2 ， qi1 tong3 qi1 tong3 。
+- zun1 gui4 zhong1 lai2 ， bao4 tu3 wu2 cha4 。
+- qiong2 ju1 ting2 yuan4 ， jin3 xiu4 lou2 tai2 。
+- he2 si4 ling2 shan1 ting1 fa3 hua2 ， lian2 biao1 wen3 jia4 bai2 niu2 ju1 。
 
 ## 注释
 

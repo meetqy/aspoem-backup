@@ -6,10 +6,10 @@ titleSlug: shi-dong-men-qi-yi
 author: 劉涇
 authorPinyin: liu2 jing1
 authorSlug: liu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

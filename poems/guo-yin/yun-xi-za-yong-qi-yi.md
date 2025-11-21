@@ -1,30 +1,30 @@
 ---
 id: guo-yin-yun-xi-za-yong-qi-yi
-title: 雲溪雜詠  其一
-titlePinyin: yun2 xi1 za2 yong3     qi2 yi1
+title: 雲溪雜詠  其一○
+titlePinyin: yun2 xi1 za2 yong3     qi2 yi1 ○
 titleSlug: yun-xi-za-yong-qi-yi
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 入門何所有，彌望祇林泉。
-- 塵垢人間世，雲霞洞裏天。
-- 閑亭藏復見，小徑絕仍連。
-- 勿說桃源地，幽深自一川。
+- 一到平橋上，蕭然浄客心。
+- 兩邊風細細，四面竹森森。
+- 更喜清流駛，寧容畏暑侵。
+- 我來歸不去，日永鎮長陰。
 
 ## 拼音
 
-- ru4 men2 he2 suo3 you3 ， mi2 wang4 qi2 lin2 quan2 。
-- chen2 gou4 ren2 jian4 shi4 ， yun2 xia2 dong4 li3 tian1 。
-- xian2 ting2 cang2 fu4 jian4 ， xiao3 jing4 jue2 reng2 lian2 。
-- wu4 shuo1 tao2 yuan2 di4 ， you1 shen1 zi4 yi4 chuan1 。
+- yi2 dao4 ping2 qiao2 shang4 ， xiao1 ran2 jing4 ke4 xin1 。
+- liang3 bian1 feng1 xi4 xi4 ， si4 mian4 zhu2 sen1 sen1 。
+- geng4 xi3 qing1 liu2 shi3 ， ning2 rong2 wei4 shu3 qin1 。
+- wo3 lai2 gui1 bu2 qu4 ， ri4 yong3 zhen4 chang2 yin1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: cheng-zhu-hui-weng
 author: 余大雅
 authorPinyin: yu2 da4 ya3
 authorSlug: yu-da-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 大梁白雲起，氛氳殊未歇。
-- 錦文觸石來，蓋影凌天發。
-- 煙煴萬年樹，掩映三秋月。
-- 會入大風歌，從龍赴圓闕。
+- 英英大梁國，郁郁秘書臺。
+- 碧落從龍起，青山觸石來。
+- 官名光邃古，蓋影耿輕埃。
+- 飛感高歌發，威加四海回。
 
 ## 拼音
 
-- da4 liang2 bai2 yun2 qi3 ， fen1 yun1 shu1 wei4 xie1 。
-- jin3 wen2 chu4 shi2 lai2 ， gai4 ying3 ling2 tian1 fa1 。
-- yan1 yun1 wan4 nian2 shu4 ， yan3 ying4 san1 qiu1 yue4 。
-- hui4 ru4 da4 feng1 ge1 ， cong2 long2 fu4 yuan2 que4 。
+- ying1 ying1 da4 liang2 guo2 ， yu4 yu4 mi4 shu1 tai2 。
+- bi4 luo4 cong2 long2 qi3 ， qing1 shan1 chu4 shi2 lai2 。
+- guan1 ming2 guang1 sui4 gu3 ， gai4 ying3 geng3 qing1 ai1 。
+- fei1 gan3 gao1 ge1 fa1 ， wei1 jia1 si4 hai3 hui2 。
 
 ## 注释
 

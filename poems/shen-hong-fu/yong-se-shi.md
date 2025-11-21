@@ -6,10 +6,10 @@ titleSlug: yong-se-shi
 author: 沈宏甫
 authorPinyin: shen3 hong2 fu3
 authorSlug: shen-hong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

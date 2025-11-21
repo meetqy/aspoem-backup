@@ -6,25 +6,25 @@ titleSlug: ji-zhong-feng
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 府掾西曹貴，星華使節雄。
-- 我行千里鎬，即敘百餘戎。
-- 王略持籌內，邊山聚米中。
-- 因成率然勢，不陳取奇功。
+- 終南秋雨色如新，舊國登臨易思人。
+- 廢塞池臺餘氣象，埋藏金玉見精神。
+- 三公七相空丘壠，萬戶千門盡棘薪。
+- 安得身隨飛鳥翼，相從談笑折西賓。
 
 ## 拼音
 
-- fu3 yuan4 xi1 cao2 gui4 ， xing1 hua2 shi3 jie2 xiong2 。
-- wo3 xing2 qian1 li3 gao3 ， ji2 xu4 bai3 yu2 rong2 。
-- wang2 lüe4 chi2 chou2 nei4 ， bian1 shan1 ju4 mi3 zhong1 。
-- yin1 cheng2 shuai4 ran2 shi4 ， bu4 chen2 qu3 qi2 gong1 。
+- zhong1 nan2 qiu1 yu3 se4 ru2 xin1 ， jiu4 guo2 deng1 lin2 yi4 si1 ren2 。
+- fei4 sai1 chi2 tai2 yu2 qi4 xiang4 ， mai2 cang2 jin1 yu4 jian4 jing1 shen2 。
+- san1 gong1 qi1 xiang1 kong1 qiu1 long3 ， wan4 hu4 qian1 men2 jin4 ji2 xin1 。
+- an1 de2 shen1 sui2 fei1 niao3 yi4 ， xiang1 cong2 tan2 xiao4 zhe2 xi1 bin1 。
 
 ## 注释
 

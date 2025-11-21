@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 索文僧送紙，賭酒客爭棋。
-- 定要全無事，何由更有詩。
+- 吐納誰能較故新，更須大藥鍛金銀。
+- 有詩傳世書傳子，自是人間不死人。
 
 ## 拼音
 
-- suo3 wen2 seng1 song4 zhi3 ， du3 jiu3 ke4 zheng1 qi2 。
-- ding4 yao4 quan2 wu2 shi4 ， he2 you2 geng4 you3 shi1 。
+- tu3 na4 shui2 neng2 jiao4 gu4 xin1 ， geng4 xu1 da4 yao4 duan4 jin1 yin2 。
+- you3 shi1 chuan2 shi4 shu1 chuan2 zi3 ， zi4 shi4 ren2 jian4 bu4 si3 ren2 。
 
 ## 注释
 

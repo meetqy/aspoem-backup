@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-er-liu
-title: 梅花集句  其二六
-titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 liu4
+title: 梅花集句  其二○六
+titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 ○ liu4
 titleSlug: mei-hua-ji-ju-qi-er-liu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一方明月可中庭，坐見年芳憶帝京。
-- 宿客盡眠眠不得，半山寒色與春爭。
+- 旅望因高盡，江春入舊年。
+- 紛紛對寂寞，花隔杜陵煙。
 
 ## 拼音
 
-- yi4 fang1 ming2 yue4 ke3 zhong1 ting2 ， zuo4 jian4 nian2 fang1 yi4 di4 jing1 。
-- su4 ke4 jin4 mian2 mian2 bu4 de2 ， ban4 shan1 han2 se4 yu3 chun1 zheng1 。
+- lü3 wang4 yin1 gao1 jin4 ， jiang1 chun1 ru4 jiu4 nian2 。
+- fen1 fen1 dui4 ji4 mo4 ， hua1 ge2 du4 ling2 yan1 。
 
 ## 注释
 

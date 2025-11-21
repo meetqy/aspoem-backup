@@ -6,10 +6,10 @@ titleSlug: shan-zhai-ye-zuo
 author: 平天祐
 authorPinyin: ping2 tian1 you4
 authorSlug: ping-tian-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-zong-gao-song-gu-yi-bai-er-shi-yi-shou-qi-si
-title: 頌古一百二十一首  其四
-titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 si4
+title: 頌古一百二十一首  其四○
+titlePinyin: song4 gu3 yi4 bai3 er4 shi2 yi4 shou3     qi2 si4 ○
 titleSlug: song-gu-yi-bai-er-shi-yi-shou-qi-si
 author: 釋宗杲
 authorPinyin: shi4 zong1 gao3
 authorSlug: shi-zong-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩處牢關擊不通，纖塵不動自乖宗。
-- 忽然業鏡使雜碎，黄面矍曇失卻蹤。
+- 出門握手話分攜，古路迢迢去莫追。
+- 卻笑波心遺劍者，區區空記刻舟時。
 
 ## 拼音
 
-- liang3 chu3 lao2 guan1 ji1 bu4 tong1 ， xian1 chen2 bu2 dong4 zi4 guai1 zong1 。
-- hu1 ran2 ye4 jing4 shi3 za2 sui4 ， huang2 mian4 jue2 tan2 shi1 que4 zong1 。
+- chu1 men2 wo4 shou3 hua4 fen1 xie2 ， gu3 lu4 tiao2 tiao2 qu4 mo4 zhui1 。
+- que4 xiao4 bo1 xin1 yi2 jian4 zhe3 ， qu1 qu1 kong1 ji4 ke4 zhou1 shi2 。
 
 ## 注释
 

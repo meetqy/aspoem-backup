@@ -6,10 +6,10 @@ titleSlug: ti-he-lin-gong
 author: 江南劍客
 authorPinyin: jiang1 nan2 jian4 ke4
 authorSlug: jiang-nan-jian-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

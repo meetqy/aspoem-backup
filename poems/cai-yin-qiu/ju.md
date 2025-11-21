@@ -9,16 +9,18 @@ authorSlug: cai-yin-qiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 整巾千嶂聳，曳履百泉鳴。
+- 草徑不聞金馬詔，松門唯見石人看。
+- （見《吟窗雜錄》卷二六《歷代吟譜》）。
 
 ## 拼音
 
-- zheng3 jin1 qian1 zhang4 song3 ， ye4 lü3 bai3 quan2 ming2 。
+- cao3 jing4 bu4 wen2 jin1 ma3 zhao4 ， song1 men2 wei2 jian4 shi2 ren2 kan4 。
+- （ jian4 《 yin2 chuang1 za2 lu4 》 juan4 er4 liu4 《 li4 dai4 yin2 pu3 》）。
 
 ## 注释
 

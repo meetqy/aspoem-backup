@@ -6,10 +6,10 @@ titleSlug: jue-ming-ji
 author: 張宗旦
 authorPinyin: zhang1 zong1 dan4
 authorSlug: zhang-zong-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

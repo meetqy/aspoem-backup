@@ -6,10 +6,10 @@ titleSlug: ji-shi-jiao-gu-mei-shan
 author: 楊鎮
 authorPinyin: yang2 zhen4
 authorSlug: yang-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

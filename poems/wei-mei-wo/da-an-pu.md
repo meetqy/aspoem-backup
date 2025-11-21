@@ -6,10 +6,10 @@ titleSlug: da-an-pu
 author: 魏梅我
 authorPinyin: wei4 mei2 wo3
 authorSlug: wei-mei-wo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: huang-di-he-chun-tie-zi-qi-yi
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 和氣生金殿，微風轉畫旗。
-- 年年好春色，先是帝先知。
+- 晴日漸消宮瓦雪，和風微散御爐烟。
+- 千官拜舞皇恩罷，綵勝金幡下九天。
 
 ## 拼音
 
-- he2 qi4 sheng1 jin1 dian4 ， wei1 feng1 zhuan3 hua4 qi2 。
-- nian2 nian2 hao3 chun1 se4 ， xian1 shi4 di4 xian1 zhi1 。
+- qing2 ri4 jian4 xiao1 gong1 wa3 xue3 ， he2 feng1 wei1 san4 yu4 lu2 yan1 。
+- qian1 guan1 bai4 wu3 huang2 en1 ba4 ， cai3 sheng4 jin1 fan1 xia4 jiu3 tian1 。
 
 ## 注释
 

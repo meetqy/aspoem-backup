@@ -1,28 +1,26 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-er
-title: 偈頌一百六十九首  其一二
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 er4
+title: 偈頌一百六十九首  其一二○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 yi1 er4 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-yi-er
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 楖𣗖木卷而曲，回天關轉地軸。
-- 群陰時時剝盡，一陽日日來復。
-- 爲甚羅漢山中冷門難向，不是苦心人不知。
+- 象王行處，狐兔絕蹤。
+- 水月現時，風雲自異。
 
 ## 拼音
 
-- ji2 𣗖 mu4 juan4 er2 qu3 ， hui2 tian1 guan1 zhuan3 di4 zhou2 。
-- qun2 yin1 shi2 shi2 bao1 jin4 ， yi4 yang2 ri4 ri4 lai2 fu4 。
-- wei2 shen4 luo2 han4 shan1 zhong1 leng3 men2 nan2 xiang4 ， bu2 shi4 ku3 xin1 ren2 bu4 zhi1 。
+- xiang4 wang2 xing2 chu3 ， hu2 tu4 jue2 zong1 。
+- shui3 yue4 xian4 shi2 ， feng1 yun2 zi4 yi4 。
 
 ## 注释
 

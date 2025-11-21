@@ -6,10 +6,10 @@ titleSlug: fu-jiang-xi-li-shang-ren-zhong-yan
 author: 李功父
 authorPinyin: li3 gong1 fu4
 authorSlug: li-gong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

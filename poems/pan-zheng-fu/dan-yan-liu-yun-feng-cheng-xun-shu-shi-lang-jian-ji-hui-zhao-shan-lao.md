@@ -6,9 +6,9 @@ titleSlug: dan-yan-liu-yun-feng-cheng-xun-shu-shi-lang-jian-ji-hui-zhao-shan-lao
 author: 潘正夫
 authorPinyin: pan1 zheng4 fu1
 authorSlug: pan-zheng-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

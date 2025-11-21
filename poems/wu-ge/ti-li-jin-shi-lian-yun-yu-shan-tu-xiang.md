@@ -6,10 +6,10 @@ titleSlug: ti-li-jin-shi-lian-yun-yu-shan-tu-xiang
 author: 吳革
 authorPinyin: wu2 ge2
 authorSlug: wu-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

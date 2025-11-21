@@ -6,10 +6,10 @@ titleSlug: song-shi-xue-zhe
 author: 釋居靜
 authorPinyin: shi4 ju1 jing4
 authorSlug: shi-ju-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

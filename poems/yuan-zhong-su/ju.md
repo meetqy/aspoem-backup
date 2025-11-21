@@ -6,10 +6,10 @@ titleSlug: ju
 author: 袁仲素
 authorPinyin: yuan2 zhong4 su4
 authorSlug: yuan-zhong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wen-kao-ting-xian-shi-zhi-fu-shi-dang-jin-fang-yan
 author: 程永奇
 authorPinyin: cheng2 yong3 qi2
 authorSlug: cheng-yong-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

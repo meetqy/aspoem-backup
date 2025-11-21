@@ -3,22 +3,22 @@ id: wu-yu-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 吳育
+author: 吳棫
 authorPinyin: wu2 yu4
 authorSlug: wu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 石存裴令老臣心。
+- 春風藜杖起詩豪。
 
 ## 拼音
 
-- shi2 cun2 pei2 ling4 lao3 chen2 xin1 。
+- chun1 feng1 li2 zhang4 qi3 shi1 hao2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: qiong-ju
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半世倀倀信所之，窮居仍抱暮年悲。
-- 燒金術誤囊衣薄，種黍年兇酒味醨。
-- 大厦萬間空有志，後車千乘更無期。
-- 掩書常笑城南杜，麻屨還朝授拾遺。
+- 仕宦初何得，窮居半士農。
+- 清宵叔夜鍛，平旦伯鸞舂。
+- 馬磨猶支日，牛衣亦過冬。
+- 湖中有嘯父，何計得相從。
 
 ## 拼音
 
-- ban4 shi4 chang1 chang1 xin4 suo3 zhi1 ， qiong2 ju1 reng2 bao4 mu4 nian2 bei1 。
-- shao1 jin1 shu4 wu4 nang2 yi1 bao2 ， zhong3 shu3 nian2 xiong1 jiu3 wei4 li2 。
-- da4 sha4 wan4 jian4 kong1 you3 zhi4 ， hou4 ju1 qian1 cheng2 geng4 wu2 qi1 。
-- yan3 shu1 chang2 xiao4 cheng2 nan2 du4 ， ma2 ju4 huan2 chao2 shou4 shi2 yi2 。
+- shi4 huan4 chu1 he2 de2 ， qiong2 ju1 ban4 shi4 nong2 。
+- qing1 xiao1 shu1 ye4 duan4 ， ping2 dan4 bo2 luan2 chong1 。
+- ma3 mo2 you2 zhi1 ri4 ， niu2 yi1 yi4 guo4 dong1 。
+- hu2 zhong1 you3 xiao4 fu4 ， he2 ji4 de2 xiang1 cong2 。
 
 ## 注释
 

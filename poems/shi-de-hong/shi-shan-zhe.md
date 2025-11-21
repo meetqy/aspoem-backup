@@ -6,21 +6,25 @@ titleSlug: shi-shan-zhe
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 能回箭鋒射自己，方肯竿頭進步行。
-- 道得未生前一句，始信虚空解講經。
+- 庵內不知庵外事，坐看来者墮鋒機。
+- 忽思良遂參麻谷，大類清平見翠微。
+- 黄蘗棒頭寧有法，惠超言下便知非。
+- 意根欲立無存處，萬象同時把手歸。
 
 ## 拼音
 
-- neng2 hui2 jian4 feng1 she4 zi4 ji3 ， fang1 ken3 gan1 tou2 jin4 bu4 xing2 。
-- dao4 de2 wei4 sheng1 qian2 yi2 ju4 ， shi3 xin4 xu1 kong1 jie3 jiang3 jing1 。
+- an1 nei4 bu4 zhi1 an1 wai4 shi4 ， zuo4 kan4 lai2 zhe3 duo4 feng1 ji1 。
+- hu1 si1 liang2 sui4 can1 ma2 gu3 ， da4 lei4 qing1 ping2 jian4 cui4 wei1 。
+- huang2 bo4 bang4 tou2 ning2 you3 fa3 ， hui4 chao1 yan2 xia4 bian4 zhi1 fei1 。
+- yi4 gen1 yu4 li4 wu2 cun2 chu3 ， wan4 xiang4 tong2 shi2 ba3 shou3 gui1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: lian-ri-yin-yu-wei-ji-yi-dao-jin-jiao-er-shan-bing-zhong-de-liang-wen
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

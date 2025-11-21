@@ -6,10 +6,10 @@ titleSlug: yun-gen-feng
 author: 何炳然
 authorPinyin: he2 bing3 ran2
 authorSlug: he-bing-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-bi-yu-qian-feng-shi
 author: 顔頤仲
 authorPinyin: yan2 yi2 zhong4
 authorSlug: yan-yi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

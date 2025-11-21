@@ -6,25 +6,21 @@ titleSlug: zao-ti
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜雨曉猶濕，曉天晴未分。
-- 澄波靜如練，秀野綠於雲。
-- 禽語無殊聽，鄉音有異聞。
-- 要知皆可隠，鳥獸詎同羣。
+- 欲雨雨似止，爲霜霜不成。
+- 山雲解衣带，曉日掛銅鉦。
 
 ## 拼音
 
-- ye4 yu3 xiao3 you2 shi1 ， xiao3 tian1 qing2 wei4 fen1 。
-- cheng2 bo1 jing4 ru2 lian4 ， xiu4 ye3 lü4 wu1 yun2 。
-- qin2 yu3 wu2 shu1 ting1 ， xiang1 yin1 you3 yi4 wen2 。
-- yao4 zhi1 jie1 ke3 yin3 ， niao3 shou4 ju4 tong2 qun2 。
+- yu4 yu3 yu3 si4 zhi3 ， wei2 shuang1 shuang1 bu4 cheng2 。
+- shan1 yun2 jie3 yi1 dai4 ， xiao3 ri4 gua4 tong2 zheng1 。
 
 ## 注释
 

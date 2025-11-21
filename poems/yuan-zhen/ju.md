@@ -9,20 +9,20 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 兒歌楊柳葉，妾拂石榴花。
-- 松門待制應全遠，藥樹監搜可得知。
-- 髻鬟峨峨高一尺，門前立地看春風。
+- 無妙思帝里，不合厭杭州。
+- （俞文豹《吹劍三錄》。
+- 此則亦從冀勤同志說）。
 
 ## 拼音
 
-- er2 ge1 yang2 liu3 ye4 ， qie4 fu2 shi2 liu0 hua1 。
-- song1 men2 dai4 zhi4 ying1 quan2 yuan3 ， yao4 shu4 jian1 sou1 ke3 de2 zhi1 。
-- ji4 huan2 e2 e2 gao1 yi4 chi3 ， men2 qian2 li4 di4 kan4 chun1 feng1 。
+- wu2 miao4 si1 di4 li3 ， bu4 he2 yan4 hang2 zhou1 。
+- （ yu2 wen2 bao4 《 chui1 jian4 san1 lu4 》。
+- ci3 ze2 yi4 cong2 ji4 qin2 tong2 zhi4 shuo1 ）。
 
 ## 注释
 

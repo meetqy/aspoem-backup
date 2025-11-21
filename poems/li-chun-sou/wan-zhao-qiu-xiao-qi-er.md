@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao-qi-er
 author: 李春叟
 authorPinyin: li3 chun1 sou3
 authorSlug: li-chun-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

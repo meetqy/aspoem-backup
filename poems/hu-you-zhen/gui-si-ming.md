@@ -9,13 +9,13 @@ authorSlug: hu-you-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 海色連四明，仙舟去容易。
-- 天籍豈輒問，不是卑朝士。
+- 天籍豈輙問，不是卑朝士。
 
 ## 拼音
 

@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhao-duan-zhi-yi-he-zi-chu-bu-ju-shan-jian-er-jue-ju-qi-er
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

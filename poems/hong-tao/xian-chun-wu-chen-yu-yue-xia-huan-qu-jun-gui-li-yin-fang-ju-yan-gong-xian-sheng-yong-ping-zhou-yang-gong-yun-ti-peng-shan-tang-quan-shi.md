@@ -6,10 +6,10 @@ titleSlug: xian-chun-wu-chen-yu-yue-xia-huan-qu-jun-gui-li-yin-fang-ju-yan-gong-
 author: 洪濤
 authorPinyin: hong2 tao1
 authorSlug: hong-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

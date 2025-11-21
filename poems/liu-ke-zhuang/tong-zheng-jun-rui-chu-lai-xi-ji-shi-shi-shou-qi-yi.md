@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-tong-zheng-jun-rui-chu-lai-xi-ji-shi-shi-shou-qi-yi
-title: 同鄭君瑞出瀨溪即事十首  其一
-titlePinyin: tong2 zheng4 jun1 rui4 chu1 lai4 xi1 ji2 shi4 shi2 shou3     qi2 yi1
+title: 同鄭君瑞出瀨溪即事十首  其一○
+titlePinyin: tong2 zheng4 jun1 rui4 chu1 lai4 xi1 ji2 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: tong-zheng-jun-rui-chu-lai-xi-ji-shi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 汗血名駒白玉鞭，本初父子喜華鮮。
-- 只今無復狂遊侶，自卸馿鞍古店前。
+- 老奴昔逐我西東，捷似猿猱跳絕峯。
+- 今日道旁扶一拐，汝公安得不龍鍾。
 
 ## 拼音
 
-- han4 xue4 ming2 ju1 bai2 yu4 bian1 ， ben3 chu1 fu4 zi3 xi3 hua2 xian1 。
-- zhi1 jin1 wu2 fu4 kuang2 you2 lü3 ， zi4 xie4 lu2 an1 gu3 dian4 qian2 。
+- lao3 nu2 xi1 zhu2 wo3 xi1 dong1 ， jie2 si4 yuan2 nao2 tiao4 jue2 feng1 。
+- jin1 ri4 dao4 pang2 fu2 yi4 guai3 ， ru3 gong1 an1 de2 bu4 long2 zhong1 。
 
 ## 注释
 

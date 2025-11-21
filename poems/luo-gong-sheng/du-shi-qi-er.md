@@ -6,21 +6,25 @@ titleSlug: du-shi-qi-er
 author: 羅公升
 authorPinyin: luo2 gong1 sheng1
 authorSlug: luo-gong-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太初結繩制自好，庖犧倉頡計益疏。
-- 拓跋小羌行國字，鍾山丞相著新書。
+- 季龍紾兄臂，晚以兵自强。
+- 笑看華林花，謂與天地長。
+- 豈知肘腋間，豚犬皆豺狼。
+- 多鬚既濫死，朽骨污清漳。
 
 ## 拼音
 
-- tai4 chu1 jie2 sheng2 zhi4 zi4 hao4 ， pao2 xi1 cang1 jie2 ji4 yi4 shu1 。
-- tuo4 ba2 xiao3 qiang1 xing2 guo2 zi4 ， zhong1 shan1 cheng2 xiang4 zhu4 xin1 shu1 。
+- ji4 long2 tian3 xiong1 bi4 ， wan3 yi3 bing1 zi4 qiang2 。
+- xiao4 kan4 hua2 lin2 hua1 ， wei4 yu3 tian1 di4 chang2 。
+- qi3 zhi1 zhou3 ye4 jian4 ， tun2 quan3 jie1 chai2 lang2 。
+- duo1 xu1 ji4 lan4 si3 ， xiu3 gu3 wu1 qing1 zhang1 。
 
 ## 注释
 

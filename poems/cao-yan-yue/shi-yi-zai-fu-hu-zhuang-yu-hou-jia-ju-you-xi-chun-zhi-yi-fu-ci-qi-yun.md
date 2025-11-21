@@ -6,10 +6,10 @@ titleSlug: shi-yi-zai-fu-hu-zhuang-yu-hou-jia-ju-you-xi-chun-zhi-yi-fu-ci-qi-yun
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

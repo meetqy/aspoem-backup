@@ -6,10 +6,10 @@ titleSlug: ming-shu-yong-da-zi-yun-zuo-shi-jian-ji-fu-yong-yun-zuo-qi-yan-yi-sho
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

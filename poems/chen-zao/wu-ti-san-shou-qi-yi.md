@@ -6,25 +6,21 @@ titleSlug: wu-ti-san-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 薄宦受風梗，還家歸岫雲。
-- 行人與喬木，老色竟平分。
-- 末路慙周朴，窮交有墨君。
-- 看渠綬若若，千騎詫鄉枌。
+- 酒鴟車後無何飲，易卷床頭脫復看。
+- 豈謂浮生須此具，世紛方解不相干。
 
 ## 拼音
 
-- bao2 huan4 shou4 feng1 geng3 ， huan2 jia1 gui1 xiu4 yun2 。
-- xing2 ren2 yu3 qiao2 mu4 ， lao3 se4 jing4 ping2 fen1 。
-- mo4 lu4 can2 zhou1 pu3 ， qiong2 jiao1 you3 mo4 jun1 。
-- kan4 qu2 shou4 ruo4 ruo4 ， qian1 qi2 cha4 xiang1 fen2 。
+- jiu3 chi1 ju1 hou4 wu2 he2 yin3 ， yi4 juan4 chuang2 tou2 tuo1 fu4 kan4 。
+- qi3 wei4 fu2 sheng1 xu1 ci3 ju4 ， shi4 fen1 fang1 jie3 bu4 xiang1 gan1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: shu-yi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病眼猶堪閱世人，難將雪鬢著烏巾。
-- 囊中錢盡罷沽酒，澗底雨寒愁束薪。
-- 老子那辭徙牛屋，癡人自喜拜車塵。
-- 窮通要是兒嬉事，懶就山僧講宿因。
+- 物我年來已兩忘，蕭然湖曲一茆堂。
+- 身閑自與俗子遠，睡美不知秋夜長。
+- 餘祿正應齏甕在，宿酲時卧酒壚傍。
+- 老人肘後長生藥，檢盡千金無此方。
 
 ## 拼音
 
-- bing4 yan3 you2 kan1 yue4 shi4 ren2 ， nan2 jiang1 xue3 bin4 zhu4 wu1 jin1 。
-- nang2 zhong1 qian2 jin4 ba4 gu1 jiu3 ， jian4 di3 yu3 han2 chou2 shu4 xin1 。
-- lao3 zi3 na4 ci2 xi3 niu2 wu1 ， chi1 ren2 zi4 xi3 bai4 ju1 chen2 。
-- qiong2 tong1 yao4 shi0 er2 xi1 shi4 ， lan3 jiu4 shan1 seng1 jiang3 su4 yin1 。
+- wu4 wo3 nian2 lai2 yi3 liang3 wang4 ， xiao1 ran2 hu2 qu3 yi4 mao2 tang2 。
+- shen1 xian2 zi4 yu3 su2 zi3 yuan3 ， shui4 mei3 bu4 zhi1 qiu1 ye4 chang2 。
+- yu2 lu4 zheng4 ying1 ji1 weng4 zai4 ， su4 cheng2 shi2 wo4 jiu3 lu2 bang4 。
+- lao3 ren2 zhou3 hou4 chang2 sheng1 yao4 ， jian3 jin4 qian1 jin1 wu2 ci3 fang1 。
 
 ## 注释
 

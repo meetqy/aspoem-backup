@@ -6,10 +6,10 @@ titleSlug: he-sun-dai-fu-zeng-kai-jiang-shen-cha-pan
 author: 鄭億年
 authorPinyin: zheng4 yi4 nian2
 authorSlug: zheng-yi-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

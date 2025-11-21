@@ -9,26 +9,20 @@ authorSlug: li-bai
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 勸君莫拒杯，春風笑人來。
-- 桃李如舊識，傾花向我開。
-- 流鶯啼碧樹，明月窺金罍。
-- 昨日朱顏子，今日白髮催。
-- 棘生石虎殿，鹿走姑蘇臺。
-- 自古帝王宅，城闕閉黃埃。
+- 蒲萄酒，金叵羅，吳姬十五細馬馱。
+- 青黛畫眉紅錦靴，道字不正嬌唱歌。
+- 玳瑁筵中懷裏醉，芙蓉帳底奈君何。
 
 ## 拼音
 
-- quan4 jun1 mo4 ju4 bei1 ， chun1 feng1 xiao4 ren2 lai2 。
-- tao2 li3 ru2 jiu4 shi2 ， qing1 hua1 xiang4 wo3 kai1 。
-- liu2 ying1 ti2 bi4 shu4 ， ming2 yue4 kui1 jin1 lei2 。
-- zuo2 ri4 zhu1 yan2 zi3 ， jin1 ri4 bai2 fa4 cui1 。
-- ji2 sheng1 shi2 hu3 dian4 ， lu4 zou3 gu1 su1 tai2 。
-- zi4 gu3 di4 wang2 zhai2 ， cheng2 que4 bi4 huang2 ai1 。
+- pu2 tao2 jiu3 ， jin1 po3 luo2 ， wu2 ji1 shi2 wu3 xi4 ma3 tuo2 。
+- qing1 dai4 hua4 mei2 hong2 jin3 xue1 ， dao4 zi4 bu2 zheng4 jiao1 chang4 ge1 。
+- dai4 mao4 yan2 zhong1 huai2 li3 zui4 ， fu2 rong2 zhang4 di3 nai4 jun1 he2 。
 
 ## 注释
 

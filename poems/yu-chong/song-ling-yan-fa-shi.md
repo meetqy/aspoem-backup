@@ -6,10 +6,10 @@ titleSlug: song-ling-yan-fa-shi
 author: 俞充
 authorPinyin: yu2 chong1
 authorSlug: yu-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

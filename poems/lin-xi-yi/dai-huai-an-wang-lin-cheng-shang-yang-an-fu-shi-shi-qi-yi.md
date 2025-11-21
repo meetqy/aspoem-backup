@@ -1,26 +1,26 @@
 ---
 id: lin-xi-yi-dai-huai-an-wang-lin-cheng-shang-yang-an-fu-shi-shi-qi-yi
-title: 代懷安王林丞上楊安撫十詩  其一
-titlePinyin: dai4 huai2 an1 wang2 lin2 cheng2 shang4 yang2 an1 fu3 shi2 shi1     qi2 yi1
+title: 代懷安王林丞上楊安撫十詩  其一○
+titlePinyin: dai4 huai2 an1 wang2 lin2 cheng2 shang4 yang2 an1 fu3 shi2 shi1     qi2 yi1 ○
 titleSlug: dai-huai-an-wang-lin-cheng-shang-yang-an-fu-shi-shi-qi-yi
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 止戈堂外戟森森，畫鼓無聲晝漏沈。
-- 好是風流賢太守，空齋一片讀書心。
+- 一持使節兩持麾，五嶺依然雙鶴歸。
+- 見說只今楊子宅，庭容旋馬地生衣。
 
 ## 拼音
 
-- zhi3 ge1 tang2 wai4 ji3 sen1 sen1 ， hua4 gu3 wu2 sheng1 zhou4 lou4 shen3 。
-- hao3 shi4 feng1 liu2 xian2 tai4 shou3 ， kong1 zhai1 yi2 pian4 du2 shu1 xin1 。
+- yi4 chi2 shi3 jie2 liang3 chi2 hui1 ， wu3 ling3 yi1 ran2 shuang1 he4 gui1 。
+- jian4 shuo1 zhi1 jin1 yang2 zi3 zhai2 ， ting2 rong2 xuan2 ma3 di4 sheng1 yi1 。
 
 ## 注释
 

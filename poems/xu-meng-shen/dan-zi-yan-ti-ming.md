@@ -6,10 +6,10 @@ titleSlug: dan-zi-yan-ti-ming
 author: 徐夢莘
 authorPinyin: xu2 meng4 shen1
 authorSlug: xu-meng-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

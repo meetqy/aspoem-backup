@@ -6,10 +6,10 @@ titleSlug: zhi-ri-jian-zhong-ci-ji-zhen-yun
 author: 胡一桂
 authorPinyin: hu2 yi2 gui4
 authorSlug: hu-yi-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

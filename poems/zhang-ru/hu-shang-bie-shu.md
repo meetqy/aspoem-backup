@@ -6,10 +6,10 @@ titleSlug: hu-shang-bie-shu
 author: 張濡
 authorPinyin: zhang1 ru2
 authorSlug: zhang-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

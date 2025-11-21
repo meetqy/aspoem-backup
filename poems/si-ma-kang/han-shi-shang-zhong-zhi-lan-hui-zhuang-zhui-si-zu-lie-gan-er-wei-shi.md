@@ -6,10 +6,10 @@ titleSlug: han-shi-shang-zhong-zhi-lan-hui-zhuang-zhui-si-zu-lie-gan-er-wei-shi
 author: 司馬康
 authorPinyin: si1 ma3 kang1
 authorSlug: si-ma-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

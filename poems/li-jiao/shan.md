@@ -1,7 +1,7 @@
 ---
 id: li-jiao-shan
-title: 山
-titlePinyin: shan1
+title: 扇
+titlePinyin: shan4
 titleSlug: shan
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 地鎮標神秀，峩峩上翠氛。
-- 泉飛一道帶，峰出半天雲。
-- 古壁丹青色，新花綺繡紋。
-- 已開封禪所，希謁聖明君。
+- 翟羽舊傳名，蒲葵價不輕。
+- 花芳不滿面，羅薄詎障聲。
+- 禦熱含風細，臨秋帶月明。
+- 同心如可贈，持表合歡情。
 
 ## 拼音
 
-- di4 zhen4 biao1 shen2 xiu4 ， e2 e2 shang4 cui4 fen1 。
-- quan2 fei1 yi2 dao4 dai4 ， feng1 chu1 ban4 tian1 yun2 。
-- gu3 bi4 dan1 qing1 se4 ， xin1 hua1 qi3 xiu4 wen2 。
-- yi3 kai1 feng1 shan4 suo3 ， xi1 ye4 sheng4 ming2 jun1 。
+- zhai2 yu3 jiu4 chuan2 ming2 ， pu2 kui2 jia4 bu4 qing1 。
+- hua1 fang1 bu4 man3 mian4 ， luo2 bao2 ju4 zhang4 sheng1 。
+- yu4 re4 han2 feng1 xi4 ， lin2 qiu1 dai4 yue4 ming2 。
+- tong2 xin1 ru2 ke3 zeng4 ， chi2 biao3 he2 huan1 qing2 。
 
 ## 注释
 

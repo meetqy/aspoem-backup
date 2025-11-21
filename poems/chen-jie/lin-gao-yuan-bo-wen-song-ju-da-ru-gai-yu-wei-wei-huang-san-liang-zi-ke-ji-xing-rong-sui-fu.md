@@ -6,10 +6,10 @@ titleSlug: lin-gao-yuan-bo-wen-song-ju-da-ru-gai-yu-wei-wei-huang-san-liang-zi-k
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

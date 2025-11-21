@@ -1,30 +1,30 @@
 ---
 id: fang-hui-qi-shi-weng-yin-qi-yan-shi-shou-qi-yi
-title: 七十翁吟七言十首  其一
-titlePinyin: qi1 shi2 weng1 yin2 qi1 yan2 shi2 shou3     qi2 yi1
+title: 七十翁吟七言十首  其一○
+titlePinyin: qi1 shi2 weng1 yin2 qi1 yan2 shi2 shou3     qi2 yi1 ○
 titleSlug: qi-shi-weng-yin-qi-yan-shi-shou-qi-yi
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫笑衰頹七十翁，老來柔外尚剛中。
-- 評詩青眼時雖白，借酒蒼顔也自紅。
-- 輕薄交遊翻手雨，艱難仕宦打頭風。
-- 休官至此六逢閏，能忍窮人不送窮。
+- 頹齡僥倖古來稀，休致多年但欠歸。
+- 决不再思龜左顧，幸猶免賦雉朝飛。
+- 江山如舊幾寒暑，天地無情多是非。
+- 能辦東籬一杯酒，可須疏傅有金揮。
 
 ## 拼音
 
-- mo4 xiao4 shuai1 tui2 qi1 shi2 weng1 ， lao3 lai2 rou2 wai4 shang4 gang1 zhong1 。
-- ping2 shi1 qing1 yan3 shi2 sui1 bai2 ， jie4 jiu3 cang1 yan2 ye3 zi4 hong2 。
-- qing1 bao2 jiao1 you2 fan1 shou3 yu3 ， jian1 nan2 shi4 huan4 da3 tou2 feng1 。
-- xiu1 guan1 zhi4 ci3 liu4 feng2 run4 ， neng2 ren3 qiong2 ren2 bu2 song4 qiong2 。
+- tui2 ling2 jiao3 xing4 gu3 lai2 xi1 ， xiu1 zhi4 duo1 nian2 dan4 qian4 gui1 。
+- jue2 bu2 zai4 si1 gui1 zuo3 gu4 ， xing4 you2 mian3 fu4 zhi4 chao2 fei1 。
+- jiang1 shan1 ru2 jiu4 ji1 han2 shu3 ， tian1 di4 wu2 qing2 duo1 shi4 fei1 。
+- neng2 ban4 dong1 li2 yi4 bei1 jiu3 ， ke3 xu1 shu1 fu4 you3 jin1 hui1 。
 
 ## 注释
 

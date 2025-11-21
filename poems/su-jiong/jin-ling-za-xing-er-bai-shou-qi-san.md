@@ -1,26 +1,26 @@
 ---
 id: su-jiong-jin-ling-za-xing-er-bai-shou-qi-san
-title: 金陵雜興二百首  其三
-titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 san1
+title: 金陵雜興二百首  其三○
+titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 san1 ○
 titleSlug: jin-ling-za-xing-er-bai-shou-qi-san
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 浪說思家不我聽，蕭齋閑對竹青青。
-- 若爲解釋妻兒念，讀盡欒城道德經。
+- 二月風和日暖時，淡黄楊柳一絲絲。
+- 向人無限隋唐意，猶是橋南楊柳枝。
 
 ## 拼音
 
-- lang4 shuo1 si1 jia1 bu4 wo3 ting1 ， xiao1 zhai1 xian2 dui4 zhu2 qing1 qing1 。
-- ruo4 wei2 jie3 shi4 qi1 er2 nian4 ， du2 jin4 luan2 cheng2 dao4 de2 jing1 。
+- er4 yue4 feng1 he2 ri4 nuan3 shi2 ， dan4 huang2 yang2 liu3 yi4 si1 si1 。
+- xiang4 ren2 wu2 xian4 sui2 tang2 yi4 ， you2 shi4 qiao2 nan2 yang2 liu3 zhi1 。
 
 ## 注释
 

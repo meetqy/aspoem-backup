@@ -9,18 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 清風吹枕席，白露濕衣裳。
-- 好是相親夜，漏遲天氣涼。
+- 念別感時節，早蛩聞一聲。
+- 風簾夜涼入，露簟秋意生。
+- 燈盡夢初罷，月斜天未明。
+- 闇凝無限思，起傍藥闌行。
 
 ## 拼音
 
-- qing1 feng1 chui1 zhen3 xi2 ， bai2 lu4 shi1 yi1 shang0 。
-- hao3 shi4 xiang1 qin1 ye4 ， lou4 chi2 tian1 qi4 liang2 。
+- nian4 bie2 gan3 shi2 jie2 ， zao3 qiong2 wen2 yi4 sheng1 。
+- feng1 lian2 ye4 liang2 ru4 ， lu4 dian4 qiu1 yi4 sheng1 。
+- deng1 jin4 meng4 chu1 ba4 ， yue4 xie2 tian1 wei4 ming2 。
+- an4 ning2 wu2 xian4 si1 ， qi3 bang4 yao4 lan2 xing2 。
 
 ## 注释
 

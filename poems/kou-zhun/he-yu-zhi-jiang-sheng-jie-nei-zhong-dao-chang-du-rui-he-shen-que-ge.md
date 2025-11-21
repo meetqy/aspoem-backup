@@ -6,10 +6,10 @@ titleSlug: he-yu-zhi-jiang-sheng-jie-nei-zhong-dao-chang-du-rui-he-shen-que-ge
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

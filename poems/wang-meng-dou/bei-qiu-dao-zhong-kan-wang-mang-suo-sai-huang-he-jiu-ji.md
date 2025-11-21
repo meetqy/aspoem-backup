@@ -6,10 +6,10 @@ titleSlug: bei-qiu-dao-zhong-kan-wang-mang-suo-sai-huang-he-jiu-ji
 author: 汪夢斗
 authorPinyin: wang1 meng4 dou4
 authorSlug: wang-meng-dou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

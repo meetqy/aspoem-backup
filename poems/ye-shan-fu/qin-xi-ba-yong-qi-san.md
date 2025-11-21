@@ -6,10 +6,10 @@ titleSlug: qin-xi-ba-yong-qi-san
 author: 葉善夫
 authorPinyin: ye4 shan4 fu1
 authorSlug: ye-shan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

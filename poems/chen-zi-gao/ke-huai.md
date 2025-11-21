@@ -6,10 +6,10 @@ titleSlug: ke-huai
 author: 陳子高
 authorPinyin: chen2 zi3 gao1
 authorSlug: chen-zi-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

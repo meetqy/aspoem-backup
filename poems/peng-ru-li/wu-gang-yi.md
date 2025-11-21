@@ -6,25 +6,25 @@ titleSlug: wu-gang-yi
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行路蕭條傷客心，黄雲不動祇陰陰。
-- 天寒獨鶴飛平澤，日暮慈鴉歸故林。
-- 鱗翼不將一字至，雪霜莫怪二毛侵。
-- 擁爐更飲鍾陵酒，抱膝漫爲梁甫吟。
+- 破屋山間驛，窮閻溪上村。
+- 雲山能近郭，池水故當門。
+- 氣象生詩筆，波瀾動酒樽。
+- 夜長歸夢遠，憑爾與招魂。
 
 ## 拼音
 
-- xing2 lu4 xiao1 tiao2 shang1 ke4 xin1 ， huang2 yun2 bu2 dong4 qi2 yin1 yin1 。
-- tian1 han2 du2 he4 fei1 ping2 ze2 ， ri4 mu4 ci2 ya1 gui1 gu4 lin2 。
-- lin2 yi4 bu4 jiang1 yi2 zi4 zhi4 ， xue3 shuang1 mo4 guai4 er4 mao2 qin1 。
-- yong1 lu2 geng4 yin3 zhong1 ling2 jiu3 ， bao4 xi1 man4 wei2 liang2 fu3 yin2 。
+- po4 wu1 shan1 jian4 yi4 ， qiong2 yan2 xi1 shang4 cun1 。
+- yun2 shan1 neng2 jin4 guo1 ， chi2 shui3 gu4 dang1 men2 。
+- qi4 xiang4 sheng1 shi1 bi3 ， bo1 lan2 dong4 jiu3 zun1 。
+- ye4 chang2 gui1 meng4 yuan3 ， ping2 er3 yu3 zhao1 hun2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 秦觀女
 authorPinyin: qin2 guan1 nü3
 authorSlug: qin-guan-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

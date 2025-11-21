@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-qi
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑞日暉暉上，非煙冉冉收。
-- 晴川蠶可浴，翠瀲荇初流。
+- 誕敷文德金鈴振，盡納熙河玉律諧。
+- 御柳宮梅動春意，朝來黄鳥亦喈喈。
 
 ## 拼音
 
-- rui4 ri4 hui1 hui1 shang4 ， fei1 yan1 ran3 ran3 shou1 。
-- qing2 chuan1 can2 ke3 yu4 ， cui4 lian4 xing4 chu1 liu2 。
+- dan4 fu1 wen2 de2 jin1 ling2 zhen4 ， jin4 na4 xi1 he2 yu4 lü4 xie2 。
+- yu4 liu3 gong1 mei2 dong4 chun1 yi4 ， chao2 lai2 huang2 niao3 yi4 jie1 jie1 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: ti-chen-gong-yuan
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 岡陵來勢遠，幽處更依山。
-- 一片湖景內，千家市井間。
+- 春池水暖魚自樂，翠嶺竹靜鳥知還。
+- 莫言疊石小風景，捲簾看盡銅官山。
 
 ## 拼音
 
-- gang1 ling2 lai2 shi4 yuan3 ， you1 chu3 geng4 yi1 shan1 。
-- yi2 pian4 hu2 jing3 nei4 ， qian1 jia1 shi4 jing3 jian4 。
+- chun1 chi2 shui3 nuan3 yu2 zi4 le4 ， cui4 ling3 zhu2 jing4 niao3 zhi1 huan2 。
+- mo4 yan2 die2 shi2 xiao3 feng1 jing3 ， juan3 lian2 kan4 jin4 tong2 guan1 shan1 。
 
 ## 注释
 

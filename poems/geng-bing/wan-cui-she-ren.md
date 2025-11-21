@@ -6,10 +6,10 @@ titleSlug: wan-cui-she-ren
 author: 耿秉
 authorPinyin: geng3 bing3
 authorSlug: geng-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

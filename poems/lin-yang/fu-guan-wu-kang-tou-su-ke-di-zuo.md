@@ -6,10 +6,10 @@ titleSlug: fu-guan-wu-kang-tou-su-ke-di-zuo
 author: 林仰
 authorPinyin: lin2 yang3
 authorSlug: lin-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

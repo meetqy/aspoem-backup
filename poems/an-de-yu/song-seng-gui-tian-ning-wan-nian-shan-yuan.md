@@ -6,10 +6,10 @@ titleSlug: song-seng-gui-tian-ning-wan-nian-shan-yuan
 author: 安德裕
 authorPinyin: an1 de2 yu4
 authorSlug: an-de-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

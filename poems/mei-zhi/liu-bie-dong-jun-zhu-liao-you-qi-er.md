@@ -6,10 +6,10 @@ titleSlug: liu-bie-dong-jun-zhu-liao-you-qi-er
 author: 梅摯
 authorPinyin: mei2 zhi4
 authorSlug: mei-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

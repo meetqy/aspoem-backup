@@ -6,10 +6,10 @@ titleSlug: nan-shan-liu-ti-he-lu-yuan-xi-yun
 author: 某府判
 authorPinyin: mou3 fu3 pan4
 authorSlug: mou-fu-pan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

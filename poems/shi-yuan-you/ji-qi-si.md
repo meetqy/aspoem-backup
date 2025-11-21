@@ -6,10 +6,10 @@ titleSlug: ji-qi-si
 author: 釋元祐
 authorPinyin: shi4 yuan2 you4
 authorSlug: shi-yuan-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

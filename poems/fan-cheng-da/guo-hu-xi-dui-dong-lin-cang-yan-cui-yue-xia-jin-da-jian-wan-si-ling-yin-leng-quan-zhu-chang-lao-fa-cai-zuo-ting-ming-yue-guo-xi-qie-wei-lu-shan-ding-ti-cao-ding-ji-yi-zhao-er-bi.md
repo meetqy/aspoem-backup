@@ -6,10 +6,10 @@ titleSlug: guo-hu-xi-dui-dong-lin-cang-yan-cui-yue-xia-jin-da-jian-wan-si-ling-y
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

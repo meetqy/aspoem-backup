@@ -6,10 +6,10 @@ titleSlug: sheng-xiang-lin-dong
 author: 黄初庵
 authorPinyin: huang2 chu1 an1
 authorSlug: huang-chu-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

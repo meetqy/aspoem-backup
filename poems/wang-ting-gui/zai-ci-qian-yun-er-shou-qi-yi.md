@@ -6,25 +6,25 @@ titleSlug: zai-ci-qian-yun-er-shou-qi-yi
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 馬上吟詩雪滿鬚，垂鞭信馬不須驅。
-- 病餘消渇澆茶枕，醉後狂歌打唾壺。
-- 坐見詞鋒森武庫，還如禁臠出天廚。
-- 筆間能作有聲畫，似看輞川摩詰圖。
+- 邂逅忽登君子堂，眼明初識斗間光。
+- 如窺銀漢纖塵靜，更酌金盤曉露凉。
+- 玉座正臨天北極，蓬山歸直殿西廊。
+- 野人不識昇平事，但覺江邊白日長。
 
 ## 拼音
 
-- ma3 shang4 yin2 shi1 xue3 man3 xu1 ， chui2 bian1 xin4 ma3 bu4 xu1 qu1 。
-- bing4 yu2 xiao1 ke3 jiao1 cha2 zhen3 ， zui4 hou4 kuang2 ge1 da3 tuo4 hu2 。
-- zuo4 jian4 ci2 feng1 sen1 wu3 ku4 ， huan2 ru2 jin4 luan2 chu1 tian1 chu2 。
-- bi3 jian4 neng2 zuo4 you3 sheng1 hua4 ， si4 kan4 wang3 chuan1 mo2 jie2 tu2 。
+- xie4 hou4 hu1 deng1 jun1 zi3 tang2 ， yan3 ming2 chu1 shi2 dou4 jian4 guang1 。
+- ru2 kui1 yin2 han4 xian1 chen2 jing4 ， geng4 zhuo2 jin1 pan2 xiao3 lu4 liang2 。
+- yu4 zuo4 zheng4 lin2 tian1 bei3 ji2 ， peng2 shan1 gui1 zhi2 dian4 xi1 lang2 。
+- ye3 ren2 bu4 shi2 sheng1 ping2 shi4 ， dan4 jue2 jiang1 bian1 bai2 ri4 chang2 。
 
 ## 注释
 

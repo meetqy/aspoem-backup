@@ -6,10 +6,10 @@ titleSlug: liu-ti-lou-guan
 author: 薛周
 authorPinyin: xue1 zhou1
 authorSlug: xue-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

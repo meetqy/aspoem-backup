@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三月西城淑景多，羽林旌旆擁鳴珂。
-- 珠鞍玉鐙龍驤進，寶苑珍亭喜一過。
+- 送臘自然時序應，頒春常與邇遐同。
+- 福隨新歲知陽德，慶協斯男誕禁中。
 
 ## 拼音
 
-- san1 yue4 xi1 cheng2 shu1 jing3 duo1 ， yu3 lin2 jing1 pei4 yong1 ming2 ke1 。
-- zhu1 an1 yu4 deng1 long2 xiang1 jin4 ， bao3 yuan4 zhen1 ting2 xi3 yi2 guo4 。
+- song4 la4 zi4 ran2 shi2 xu4 ying1 ， ban1 chun1 chang2 yu3 er3 xia2 tong2 。
+- fu2 sui2 xin1 sui4 zhi1 yang2 de2 ， qing4 xie2 si1 nan2 dan4 jin4 zhong1 。
 
 ## 注释
 

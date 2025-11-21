@@ -6,10 +6,10 @@ titleSlug: ju
 author: 齊賢良
 authorPinyin: qi2 xian2 liang2
 authorSlug: qi-xian-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

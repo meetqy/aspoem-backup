@@ -6,10 +6,10 @@ titleSlug: huang-ting-pu
 author: 翁汝正
 authorPinyin: weng1 ru3 zheng4
 authorSlug: weng-ru-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

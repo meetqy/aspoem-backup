@@ -6,10 +6,10 @@ titleSlug: si-niu-tu-song-qi-yi
 author: 釋元凈
 authorPinyin: shi4 yuan2 jing4
 authorSlug: shi-yuan-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

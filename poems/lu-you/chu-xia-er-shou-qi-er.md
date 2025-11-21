@@ -6,25 +6,25 @@ titleSlug: chu-xia-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 梅子生仁已带酸，楝花墮地尚微寒。
-- 室無長物惟空榻，頭不加巾但小冠。
-- 蠶簇倚牆絲盎起，稻秧經雨水陂寬。
-- 郊原清潤身差健，剩欲閑遊一跨鞍。
+- 江鄉初夏暑猶輕，霽日園林有晚鶑。
+- 聊置尊罍師北海，盡除屏障學東平。
+- 綠槐露溼單衣爽，紅藥風翻病眼明。
+- 每感流年成絕嘆，白頭自笑未忘情。
 
 ## 拼音
 
-- mei2 zi0 sheng1 ren2 yi3 dai4 suan1 ， lian4 hua1 duo4 di4 shang4 wei1 han2 。
-- shi4 wu2 chang2 wu4 wei2 kong1 ta4 ， tou2 bu4 jia1 jin1 dan4 xiao3 guan1 。
-- can2 cu4 yi3 qiang2 si1 ang4 qi3 ， dao4 yang1 jing1 yu3 shui3 bei1 kuan1 。
-- jiao1 yuan2 qing1 run4 shen1 cha4 jian4 ， sheng4 yu4 xian2 you2 yi2 kua4 an1 。
+- jiang1 xiang1 chu1 xia4 shu3 you2 qing1 ， ji4 ri4 yuan2 lin2 you3 wan3 ying1 。
+- liao2 zhi4 zun1 lei2 shi1 bei3 hai3 ， jin4 chu2 ping2 zhang4 xue2 dong1 ping2 。
+- lü4 huai2 lu4 shi1 dan1 yi1 shuang3 ， hong2 yao4 feng1 fan1 bing4 yan3 ming2 。
+- mei3 gan3 liu2 nian2 cheng2 jue2 tan4 ， bai2 tou2 zi4 xiao4 wei4 wang4 qing2 。
 
 ## 注释
 

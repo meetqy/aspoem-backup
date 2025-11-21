@@ -6,10 +6,10 @@ titleSlug: song-ling
 author: 丁大容
 authorPinyin: ding1 da4 rong2
 authorSlug: ding-da-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

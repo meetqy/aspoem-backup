@@ -6,10 +6,10 @@ titleSlug: zi-pan-ci-sheng-fei-zui-sha-ze-shui-sha-er-wei-zhi-tian-gong-ken-jian
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

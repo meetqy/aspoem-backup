@@ -6,25 +6,25 @@ titleSlug: zhu-ge-gong-ze-yan-deng-shu-ge-chu-shi-jiao-zhang-tong-zhi-ji-zhu-gon
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落泊粗官冷，婆娑小閣深。
-- 身勞常簿領，興在即山林。
-- 幽砌封苔暈，虛櫺過竹陰。
-- 眼前無限意，清賞得知心。
+- 諸城葛氏久湮沈，清尚知君獨遠尋。
+- 席卷承家猗頓術，日明好古子雲心。
+- 珍藏高閣輕三篋，善購多門小萬金。
+- 曾見墨莊耕穫利，行看杞梓秀家林。
 
 ## 拼音
 
-- luo4 bo2 cu1 guan1 leng3 ， po2 suo1 xiao3 ge2 shen1 。
-- shen1 lao2 chang2 bo2 ling3 ， xing1 zai4 ji2 shan1 lin2 。
-- you1 qi4 feng1 tai2 yun4 ， xu1 ling2 guo4 zhu2 yin1 。
-- yan3 qian2 wu2 xian4 yi4 ， qing1 shang3 de2 zhi1 xin1 。
+- zhu1 cheng2 ge3 shi4 jiu3 yan1 shen3 ， qing1 shang4 zhi1 jun1 du2 yuan3 xun2 。
+- xi2 juan3 cheng2 jia1 yi1 dun4 shu4 ， ri4 ming2 hao3 gu3 zi3 yun2 xin1 。
+- zhen1 cang2 gao1 ge2 qing1 san1 qie4 ， shan4 gou4 duo1 men2 xiao3 wan4 jin1 。
+- ceng2 jian4 mo4 zhuang1 geng1 huo4 li4 ， xing2 kan4 qi3 zi3 xiu4 jia1 lin2 。
 
 ## 注释
 

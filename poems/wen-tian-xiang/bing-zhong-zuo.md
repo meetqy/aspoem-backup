@@ -6,25 +6,25 @@ titleSlug: bing-zhong-zuo
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲月侵尋見二毛，劍花冷落鸊鵜膏。
-- 睡餘吸海龍身瘦，渴裏奔雲馬骨高。
-- 百忌不容親酒具，千愁那解減詩豪。
-- 起來大作屠門嚼，自笑我非兒女曹。
+- 六月廿四夜，人間熱欲炊。
+- 病懷如酒困，倦睫似書癡。
+- 夢與千年接，心隨萬里馳。
+- 客來相問訊，寄語有新詩。
 
 ## 拼音
 
-- sui4 yue4 qin1 xun2 jian4 er4 mao2 ， jian4 hua1 leng3 luo4 pi4 ti2 gao1 。
-- shui4 yu2 xi1 hai3 long2 shen1 shou4 ， ke3 li3 ben1 yun2 ma3 gu3 gao1 。
-- bai3 ji4 bu4 rong2 qin1 jiu3 ju4 ， qian1 chou2 na4 jie3 jian3 shi1 hao2 。
-- qi3 lai2 da4 zuo4 tu2 men2 jiao2 ， zi4 xiao4 wo3 fei1 er2 nü3 cao2 。
+- liu4 yue4 nian4 si4 ye4 ， ren2 jian4 re4 yu4 chui1 。
+- bing4 huai2 ru2 jiu3 kun4 ， juan4 jie2 si4 shu1 chi1 。
+- meng4 yu3 qian1 nian2 jie1 ， xin1 sui2 wan4 li3 chi2 。
+- ke4 lai2 xiang1 wen4 xun4 ， ji4 yu3 you3 xin1 shi1 。
 
 ## 注释
 

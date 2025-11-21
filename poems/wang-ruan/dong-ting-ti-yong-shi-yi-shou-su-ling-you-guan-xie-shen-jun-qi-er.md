@@ -6,10 +6,10 @@ titleSlug: dong-ting-ti-yong-shi-yi-shou-su-ling-you-guan-xie-shen-jun-qi-er
 author: 王阮
 authorPinyin: wang2 ruan3
 authorSlug: wang-ruan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

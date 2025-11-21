@@ -6,10 +6,10 @@ titleSlug: zeng-cai-ji-tong
 author: 蔡元定鄉人
 authorPinyin: cai4 yuan2 ding4 xiang1 ren2
 authorSlug: cai-yuan-ding-xiang-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

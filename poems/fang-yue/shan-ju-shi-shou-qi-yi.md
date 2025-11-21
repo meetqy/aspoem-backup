@@ -1,30 +1,30 @@
 ---
 id: fang-yue-shan-ju-shi-shou-qi-yi
-title: 山居十首  其一
-titlePinyin: shan1 ju1 shi2 shou3     qi2 yi1
+title: 山居十首  其一○
+titlePinyin: shan1 ju1 shi2 shou3     qi2 yi1 ○
 titleSlug: shan-ju-shi-shou-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我愛山居好，林梢一片晴。
-- 野烟禽誶語，春水柳閒情。
-- 蘚石隨行枕，藤花醒酒羹。
-- 吾詩不堪煮，亦足了吾生。
+- 我愛山居好，畦蔬手自耘。
+- 鳥聲穿戶過，鶴唳隔村聞。
+- 石溜渾如雨，溪船盡是雲。
+- 煩君謝逋客，不用北山文。
 
 ## 拼音
 
-- wo3 ai4 shan1 ju1 hao3 ， lin2 shao1 yi2 pian4 qing2 。
-- ye3 yan1 qin2 sui4 yu3 ， chun1 shui3 liu3 xian2 qing2 。
-- xian3 shi2 sui2 xing2 zhen3 ， teng2 hua1 xing3 jiu3 geng1 。
-- wu2 shi1 bu4 kan1 zhu3 ， yi4 zu2 le0 wu2 sheng1 。
+- wo3 ai4 shan1 ju1 hao3 ， qi2 shu1 shou3 zi4 yun2 。
+- niao3 sheng1 chuan1 hu4 guo4 ， he4 li4 ge2 cun1 wen2 。
+- shi2 liu1 hun2 ru2 yu3 ， xi1 chuan2 jin4 shi4 yun2 。
+- fan2 jun1 xie4 bu1 ke4 ， bu2 yong4 bei3 shan1 wen2 。
 
 ## 注释
 

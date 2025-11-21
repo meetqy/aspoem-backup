@@ -6,10 +6,10 @@ titleSlug: da-ze-shan
 author: 秦元似
 authorPinyin: qin2 yuan2 si4
 authorSlug: qin-yuan-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

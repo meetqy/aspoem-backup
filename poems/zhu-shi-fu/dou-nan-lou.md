@@ -6,10 +6,10 @@ titleSlug: dou-nan-lou
 author: 朱師服
 authorPinyin: zhu1 shi1 fu2
 authorSlug: zhu-shi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: li-chun-qi-er
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綵燕雙簪翡翠翹，巧裁銀勝試春韶。
-- 東風已到闌干北，看見嬌黄上柳條。
+- 詩儻窮人莫送窮，但窮詩亦不須工。
+- 銀幡雪柳人何似，翠縷瓊絲菜則同。
+- 百事到頭惟早白，一年彈指又春紅。
+- 漁溪亦喜溪冰冸，新綠生肥撼釣筒。
 
 ## 拼音
 
-- cai3 yan4 shuang1 zan1 fei3 cui4 qiao2 ， qiao3 cai2 yin2 sheng4 shi4 chun1 shao2 。
-- dong1 feng1 yi3 dao4 lan2 gan1 bei3 ， kan4 jian4 jiao1 huang2 shang4 liu3 tiao2 。
+- shi1 tang3 qiong2 ren2 mo4 song4 qiong2 ， dan4 qiong2 shi1 yi4 bu4 xu1 gong1 。
+- yin2 fan1 xue3 liu3 ren2 he2 si4 ， cui4 lü3 qiong2 si1 cai4 ze2 tong2 。
+- bai3 shi4 dao4 tou2 wei2 zao3 bai2 ， yi4 nian2 dan4 zhi3 you4 chun1 hong2 。
+- yu2 xi1 yi4 xi3 xi1 bing1 pan4 ， xin1 lü4 sheng1 fei2 han4 diao4 tong3 。
 
 ## 注释
 

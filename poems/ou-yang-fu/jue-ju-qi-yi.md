@@ -6,10 +6,10 @@ titleSlug: jue-ju-qi-yi
 author: 歐陽鈇
 authorPinyin: ou1 yang2 fu1
 authorSlug: ou-yang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

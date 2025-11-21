@@ -6,10 +6,10 @@ titleSlug: zeng-shan-fang-xian-sheng-de-xuan-ming
 author: 何昭德
 authorPinyin: he2 zhao1 de2
 authorSlug: he-zhao-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

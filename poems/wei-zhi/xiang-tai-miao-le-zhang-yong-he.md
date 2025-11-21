@@ -9,22 +9,22 @@ authorSlug: wei-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 於穆烈祖，弘此丕基。
-- 永言配命，子孫保之。
-- 百神既洽，萬國在茲。
-- 是用孝享，神其格思。
+- 肅肅清祀，烝烝孝思。
+- 薦享昭備，虔恭在茲。
+- 雍歌撤俎，祝嘏陳辭。
+- 用光武志，永固鴻基。
 
 ## 拼音
 
-- wu1 mu4 lie4 zu3 ， hong2 ci3 pi1 ji1 。
-- yong3 yan2 pei4 ming4 ， zi3 sun1 bao3 zhi1 。
-- bai3 shen2 ji4 qia4 ， wan4 guo2 zai4 zi1 。
-- shi4 yong4 xiao4 xiang3 ， shen2 qi2 ge2 si1 。
+- su4 su4 qing1 si4 ， zheng1 zheng1 xiao4 si1 。
+- jian4 xiang3 zhao1 bei4 ， qian2 gong1 zai4 zi1 。
+- yong1 ge1 che4 zu3 ， zhu4 gu3 chen2 ci2 。
+- yong4 guang1 wu3 zhi4 ， yong3 gu4 hong2 ji1 。
 
 ## 注释
 

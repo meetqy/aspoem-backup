@@ -6,10 +6,10 @@ titleSlug: xin-kai-hu-shi-yu-zhen-he-er-jun-wu-nan-hu-zhu-ting-zhu-gu-yu
 author: 蒲宗孟
 authorPinyin: pu2 zong1 meng4
 authorSlug: pu-zong-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

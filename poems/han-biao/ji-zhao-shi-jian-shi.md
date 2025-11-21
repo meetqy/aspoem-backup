@@ -6,25 +6,25 @@ titleSlug: ji-zhao-shi-jian-shi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 先朝重詞賦，人道小賢良。
-- 善記推才博，雕章驗識長。
-- 宗英龍首盛，名字鴈行香。
-- 王舍城中試，月華仙桂芳。
+- 夜凉月裏話東征，傾耳呼猿洞水聲。
+- 玉室金堂元避世，鱸魚蓴菜豈懲羹。
+- 舉圍箇箇三年試，雲路家家萬里程。
+- 在我能爲古之制，裕陵圖治重宗盟。
 
 ## 拼音
 
-- xian1 chao2 zhong4 ci2 fu4 ， ren2 dao4 xiao3 xian2 liang2 。
-- shan4 ji4 tui1 cai2 bo2 ， diao1 zhang1 yan4 shi2 chang2 。
-- zong1 ying1 long2 shou3 sheng4 ， ming2 zi4 yan4 xing2 xiang1 。
-- wang2 she4 cheng2 zhong1 shi4 ， yue4 hua2 xian1 gui4 fang1 。
+- ye4 liang2 yue4 li3 hua4 dong1 zheng1 ， qing1 er3 hu1 yuan2 dong4 shui3 sheng1 。
+- yu4 shi4 jin1 tang2 yuan2 bi4 shi4 ， lu2 yu2 chun2 cai4 qi3 cheng2 geng1 。
+- ju3 wei2 ge4 ge4 san1 nian2 shi4 ， yun2 lu4 jia1 jia1 wan4 li3 cheng2 。
+- zai4 wo3 neng2 wei2 gu3 zhi1 zhi4 ， yu4 ling2 tu2 zhi4 zhong4 zong1 meng2 。
 
 ## 注释
 

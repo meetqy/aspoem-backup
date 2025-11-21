@@ -6,10 +6,10 @@ titleSlug: wei-yu-wu-qin-meng-qi-dao-bang-yi-she-ruo-zai-qin-shu-jian-kai-ran-yo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

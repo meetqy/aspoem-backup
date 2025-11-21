@@ -6,10 +6,10 @@ titleSlug: jue-ju
 author: 趙占龜
 authorPinyin: zhao4 zhan4 gui1
 authorSlug: zhao-zhan-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

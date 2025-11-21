@@ -6,25 +6,25 @@ titleSlug: he-dan-ling
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 炎州暑令比烝炊，茅屋深更未掩扉。
-- 倦鵲繞林飛又上，流螢照水亂還稀。
-- 寡尤正爾三緘口，新浴又思一振衣。
-- 獨怯詩壇把麾將，欲摩堅壘費攻圍。
+- 曾步雩風詠晚春，肯教清鏡受纖塵。
+- 詩書漸與心爲一，文字終慚筆有神。
+- 弈局不爭先後手，醉鄉常值聖賢人。
+- 得時花卉千千狀，須倩能詩爲寫真。
 
 ## 拼音
 
-- yan2 zhou1 shu3 ling4 bi3 zheng1 chui1 ， mao2 wu1 shen1 geng4 wei4 yan3 fei1 。
-- juan4 que4 rao4 lin2 fei1 you4 shang4 ， liu2 ying2 zhao4 shui3 luan4 huan2 xi1 。
-- gua3 you2 zheng4 er3 san1 jian1 kou3 ， xin1 yu4 you4 si1 yi2 zhen4 yi1 。
-- du2 qie4 shi1 tan2 ba3 hui1 jiang1 ， yu4 mo2 jian1 lei3 fei4 gong1 wei2 。
+- ceng2 bu4 yu2 feng1 yong3 wan3 chun1 ， ken3 jiao4 qing1 jing4 shou4 xian1 chen2 。
+- shi1 shu1 jian4 yu3 xin1 wei2 yi1 ， wen2 zi4 zhong1 can2 bi3 you3 shen2 。
+- yi4 ju2 bu4 zheng1 xian1 hou4 shou3 ， zui4 xiang1 chang2 zhi2 sheng4 xian2 ren2 。
+- de2 shi2 hua1 hui4 qian1 qian1 zhuang4 ， xu1 qian4 neng2 shi1 wei2 xie3 zhen1 。
 
 ## 注释
 

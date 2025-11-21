@@ -6,10 +6,10 @@ titleSlug: ling-ji-an-zhu-seng-quan-meng-shan-zhao-yin-ou-cheng
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

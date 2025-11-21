@@ -6,10 +6,10 @@ titleSlug: liu-yue-chu-ba-yi-rong-si-jian-zi-fu-qing-shan-jian-guo-feng-pei-you-
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shen-song-ling-ji-yue-shen-wei-gui-shan-shi-yi-xi-zi-bei-ling-yi-zhe
 author: 李廌
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

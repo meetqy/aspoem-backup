@@ -6,25 +6,25 @@ titleSlug: shi-xi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 本自怕沾京洛塵，固應不吐相君茵。
-- 偶逃鼉作鯨吞地，幸保詩狂酒病身。
-- 傲世曾歌楚人鳳，著書久絕魯郊麟。
-- 山村且試筇枝興，風月秋來正一新。
+- 齒搖徐自定，髮脫却重生。
+- 意適簪花舞，身輕捨杖行。
+- 僧招决棋戰，客讓主詩盟。
+- 尚欲瀟湘去，烟帆不計程。
 
 ## 拼音
 
-- ben3 zi4 pa4 zhan1 jing1 luo4 chen2 ， gu4 ying1 bu4 tu3 xiang1 jun1 yin1 。
-- ou3 tao2 tuo2 zuo4 jing1 tun1 di4 ， xing4 bao3 shi1 kuang2 jiu3 bing4 shen1 。
-- ao4 shi4 ceng2 ge1 chu3 ren2 feng4 ， zhu4 shu1 jiu3 jue2 lu3 jiao1 lin2 。
-- shan1 cun1 qie3 shi4 qiong2 zhi1 xing1 ， feng1 yue4 qiu1 lai2 zheng4 yi4 xin1 。
+- chi3 yao2 xu2 zi4 ding4 ， fa4 tuo1 que4 chong2 sheng1 。
+- yi4 shi4 zan1 hua1 wu3 ， shen1 qing1 she3 zhang4 xing2 。
+- seng1 zhao1 jue2 qi2 zhan4 ， ke4 rang4 zhu3 shi1 meng2 。
+- shang4 yu4 xiao1 xiang1 qu4 ， yan1 fan1 bu2 ji4 cheng2 。
 
 ## 注释
 

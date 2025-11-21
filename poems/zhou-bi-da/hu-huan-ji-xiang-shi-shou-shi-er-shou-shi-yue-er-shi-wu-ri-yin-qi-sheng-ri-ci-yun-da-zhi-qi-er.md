@@ -6,10 +6,10 @@ titleSlug: hu-huan-ji-xiang-shi-shou-shi-er-shou-shi-yue-er-shi-wu-ri-yin-qi-she
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

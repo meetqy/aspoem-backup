@@ -6,10 +6,10 @@ titleSlug: xin-xi-ge
 author: 胡器之
 authorPinyin: hu2 qi4 zhi1
 authorSlug: hu-qi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

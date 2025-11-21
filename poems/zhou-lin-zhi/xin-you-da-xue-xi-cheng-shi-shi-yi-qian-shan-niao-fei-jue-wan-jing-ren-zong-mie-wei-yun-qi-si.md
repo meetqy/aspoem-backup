@@ -6,10 +6,10 @@ titleSlug: xin-you-da-xue-xi-cheng-shi-shi-yi-qian-shan-niao-fei-jue-wan-jing-re
 author: 周麟之
 authorPinyin: zhou1 lin2 zhi1
 authorSlug: zhou-lin-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

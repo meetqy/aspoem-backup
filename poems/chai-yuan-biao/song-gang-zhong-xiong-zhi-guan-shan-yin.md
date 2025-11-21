@@ -6,10 +6,10 @@ titleSlug: song-gang-zhong-xiong-zhi-guan-shan-yin
 author: 柴元彪
 authorPinyin: chai2 yuan2 biao1
 authorSlug: chai-yuan-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

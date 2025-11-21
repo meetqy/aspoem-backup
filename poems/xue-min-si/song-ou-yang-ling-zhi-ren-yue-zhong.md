@@ -6,10 +6,10 @@ titleSlug: song-ou-yang-ling-zhi-ren-yue-zhong
 author: 薛敏思
 authorPinyin: xue1 min3 si1
 authorSlug: xue-min-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

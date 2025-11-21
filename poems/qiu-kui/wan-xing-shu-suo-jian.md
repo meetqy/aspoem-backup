@@ -6,25 +6,21 @@ titleSlug: wan-xing-shu-suo-jian
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夕陽半落紅猶在，寒月初升白未勻。
-- 流水孤村天欲暮，頹簷敗壁野無人。
-- 雀啣遺芥營巢急，蛛繹新絲織網頻。
-- 欲問前朝無故老，髑髏落地路荆榛。
+- 山澗雨初收，涓涓水亂流。
+- 樹根一片石，童子坐牽牛。
 
 ## 拼音
 
-- xi1 yang2 ban4 luo4 hong2 you2 zai4 ， han2 yue4 chu1 sheng1 bai2 wei4 yun2 。
-- liu2 shui3 gu1 cun1 tian1 yu4 mu4 ， tui2 yan2 bai4 bi4 ye3 wu2 ren2 。
-- que4 xian2 yi2 jie4 ying2 chao2 ji2 ， zhu1 yi4 xin1 si1 zhi1 wang3 bin1 。
-- yu4 wen4 qian2 chao2 wu2 gu4 lao3 ， du2 lou2 luo4 di4 lu4 jing1 zhen1 。
+- shan1 jian4 yu3 chu1 shou1 ， juan1 juan1 shui3 luan4 liu2 。
+- shu4 gen1 yi2 pian4 shi2 ， tong2 zi3 zuo4 qian1 niu2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: man-xing-jiu-shou-qi-jiu
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲跨羸驂去，江村訪酒家。
-- 杖頭無阿堵，肯聽錦囊賒。
+- 新莽窮姦卓極凶，姦人更有阿瞞雄。
+- 紛紛豎子成何事，野火山林一燒空。
 
 ## 拼音
 
-- yu4 kua4 lei2 can1 qu4 ， jiang1 cun1 fang3 jiu3 jia1 。
-- zhang4 tou2 wu2 a1 du3 ， ken3 ting1 jin3 nang2 she1 。
+- xin1 mang3 qiong2 jian1 zhuo2 ji2 xiong1 ， jian1 ren2 geng4 you3 a1 man2 xiong2 。
+- fen1 fen1 shu4 zi3 cheng2 he2 shi4 ， ye3 huo3 shan1 lin2 yi4 shao1 kong1 。
 
 ## 注释
 

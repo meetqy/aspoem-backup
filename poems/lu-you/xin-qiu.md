@@ -6,25 +6,25 @@ titleSlug: xin-qiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天河漸近鵲橋時，一夜風吹斗柄移。
-- 金井梧桐元未覺，畫廊蟋蟀已先知。
-- 青燈耿耿還相伴，白髮蕭蕭只自悲。
-- 猶勝玉門關外客，臥聽沙雁數歸期。
+- 衰髮成絲奈若何，更堪日月疾飛梭。
+- 梧桐敗葉飄猶少，蟋蟀雕籠賣已多。
+- 歲樂喧呼沽酒市，夜凉凄斷采菱歌。
+- 老夫亦動秋風興，欲倩鄰翁買釣蓑。
 
 ## 拼音
 
-- tian1 he2 jian4 jin4 que4 qiao2 shi2 ， yi2 ye4 feng1 chui1 dou3 bing3 yi2 。
-- jin1 jing3 wu2 tong2 yuan2 wei4 jue2 ， hua4 lang2 xi1 shuai4 yi3 xian1 zhi1 。
-- qing1 deng1 geng3 geng3 huan2 xiang1 ban4 ， bai2 fa4 xiao1 xiao1 zhi1 zi4 bei1 。
-- you2 sheng4 yu4 men2 guan1 wai4 ke4 ， wo4 ting1 sha1 yan4 shu4 gui1 qi1 。
+- shuai1 fa4 cheng2 si1 nai4 ruo4 he2 ， geng4 kan1 ri4 yue4 ji2 fei1 suo1 。
+- wu2 tong2 bai4 ye4 piao1 you2 shao3 ， xi1 shuai4 diao1 long2 mai4 yi3 duo1 。
+- sui4 le4 xuan1 hu1 gu1 jiu3 shi4 ， ye4 liang2 qi1 duan4 cai3 ling2 ge1 。
+- lao3 fu1 yi4 dong4 qiu1 feng1 xing1 ， yu4 qian4 lin2 weng1 mai3 diao4 suo1 。
 
 ## 注释
 

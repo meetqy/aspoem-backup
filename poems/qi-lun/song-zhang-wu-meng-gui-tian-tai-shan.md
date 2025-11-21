@@ -6,10 +6,10 @@ titleSlug: song-zhang-wu-meng-gui-tian-tai-shan
 author: 戚綸
 authorPinyin: qi1 lun2
 authorSlug: qi-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

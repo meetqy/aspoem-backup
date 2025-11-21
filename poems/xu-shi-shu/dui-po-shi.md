@@ -6,10 +6,10 @@ titleSlug: dui-po-shi
 author: 許仕叔
 authorPinyin: xu1 shi4 shu1
 authorSlug: xu-shi-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

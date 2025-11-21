@@ -6,10 +6,10 @@ titleSlug: he-fan-gong-xi-wen-huai-qing-shuo-tang
 author: 畢京
 authorPinyin: bi4 jing1
 authorSlug: bi-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

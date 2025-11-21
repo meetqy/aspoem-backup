@@ -6,10 +6,10 @@ titleSlug: ti-wen-zhou-jiang-xin-si
 author: 程嘉量
 authorPinyin: cheng2 jia1 liang2
 authorSlug: cheng-jia-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

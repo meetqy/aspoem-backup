@@ -6,10 +6,10 @@ titleSlug: tang-ming-huang-you-yue-gong
 author: 葛秋崖
 authorPinyin: ge3 qiu1 ya2
 authorSlug: ge-qiu-ya
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

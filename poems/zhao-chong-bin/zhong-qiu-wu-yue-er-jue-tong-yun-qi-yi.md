@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-wu-yue-er-jue-tong-yun-qi-yi
 author: 趙崇檳
 authorPinyin: zhao4 chong2 bin1
 authorSlug: zhao-chong-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

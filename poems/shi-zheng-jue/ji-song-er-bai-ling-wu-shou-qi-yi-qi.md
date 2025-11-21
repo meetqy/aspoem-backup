@@ -1,32 +1,26 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-yi-qi
-title: 偈頌二百零五首  其一七
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 qi1
+title: 偈頌二百零五首  其一七○
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 yi1 qi1 ○
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-yi-qi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 肉團無主，空劫有家。
-- 清白十分活計，丕平一段生涯。
-- 月戶風高兮雲凝古路，星河浪靜兮夜泛靈槎。
-- 唯心成萬法，化佛現千華。
-- 快須拽鼻回香象，切忌當頭觸死蛇。
+- 三寸舌，兩片唇，無始時來賺殺人。
+- 解弄不教圭角露，阿誰參見跛雲門。
 
 ## 拼音
 
-- rou4 tuan2 wu2 zhu3 ， kong1 jie2 you3 jia1 。
-- qing1 bai2 shi2 fen1 huo2 ji4 ， pi1 ping2 yi2 duan4 sheng1 ya2 。
-- yue4 hu4 feng1 gao1 xi1 yun2 ning2 gu3 lu4 ， xing1 he2 lang4 jing4 xi1 ye4 fan4 ling2 cha2 。
-- wei2 xin1 cheng2 wan4 fa3 ， hua4 fo2 xian4 qian1 hua2 。
-- kuai4 xu1 zhuai4 bi2 hui2 xiang1 xiang4 ， qie4 ji4 dang1 tou2 chu4 si3 she2 。
+- san1 cun4 she2 ， liang3 pian4 chun2 ， wu2 shi3 shi2 lai2 zhuan4 sha1 ren2 。
+- jie3 nong4 bu2 jiao4 gui1 jiao3 lu4 ， a1 shui2 can1 jian4 bo3 yun2 men2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: kong-lin
 author: 范正民
 authorPinyin: fan4 zheng4 min2
 authorSlug: fan-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

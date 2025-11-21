@@ -6,10 +6,10 @@ titleSlug: de-zi-yun-he-pian-yue-yuan-xiao-jian-fang-zai-yong-qian-yun-yi-su-zhi
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

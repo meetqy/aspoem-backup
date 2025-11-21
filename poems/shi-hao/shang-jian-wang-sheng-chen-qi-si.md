@@ -6,25 +6,25 @@ titleSlug: shang-jian-wang-sheng-chen-qi-si
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 下客曳長裾，薄技奚所奏。
-- 唯有六經腴，王心本研究。
-- 方瞳秋月明，綠髮寒松茂。
-- 天子歷無疆，王亦千萬壽。
+- 炎圖亙無極，吾王今中興。
+- 銀潢注瀰漫，及是歌繩繩。
+- 金龜曜玉砌，芝蘭香始升。
+- 願言千萬壽，頷首觀雲仍。
 
 ## 拼音
 
-- xia4 ke4 ye4 chang2 ju1 ， bo2 ji4 xi1 suo3 zou4 。
-- wei2 you3 liu4 jing1 yu2 ， wang2 xin1 ben3 yan2 jiu1 。
-- fang1 tong2 qiu1 yue4 ming2 ， lü4 fa4 han2 song1 mao4 。
-- tian1 zi3 li4 wu2 jiang1 ， wang2 yi4 qian1 wan4 shou4 。
+- yan2 tu2 gen4 wu2 ji2 ， wu2 wang2 jin1 zhong1 xing1 。
+- yin2 huang2 zhu4 mi2 man4 ， ji2 shi4 ge1 sheng2 sheng2 。
+- jin1 gui1 yao4 yu4 qi4 ， zhi1 lan2 xiang1 shi3 sheng1 。
+- yuan4 yan2 qian1 wan4 shou4 ， han4 shou3 guan1 yun2 reng2 。
 
 ## 注释
 

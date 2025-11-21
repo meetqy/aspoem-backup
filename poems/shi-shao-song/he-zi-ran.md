@@ -6,25 +6,25 @@ titleSlug: he-zi-ran
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南北三年一解携，曾書蕉葉寄新題。
-- 知渠已富江山句，英譽自成桃李蹊。
-- 坡底詩人梅底醉，雲間秋鴈水間棲。
-- 千巖萬壑時相憶，迢遞尋君夢不迷。
+- 客裏唯君數往還，笑談終日盡君歡。
+- 敢將古道爲吾事，已作歸心即自寬。
+- 露草欲隨霜草盡，泉聲長带珮聲寒。
+- 月生更愛欄干影，未厭慇懃達曙看。
 
 ## 拼音
 
-- nan2 bei3 san1 nian2 yi4 jie3 xie2 ， ceng2 shu1 jiao1 ye4 ji4 xin1 ti2 。
-- zhi1 qu2 yi3 fu4 jiang1 shan1 ju4 ， ying1 yu4 zi4 cheng2 tao2 li3 qi1 。
-- po1 di3 shi1 ren2 mei2 di3 zui4 ， yun2 jian4 qiu1 yan4 shui3 jian4 qi1 。
-- qian1 yan2 wan4 he4 shi2 xiang1 yi4 ， tiao2 di4 xun2 jun1 meng4 bu4 mi2 。
+- ke4 li3 wei2 jun1 shu4 wang3 huan2 ， xiao4 tan2 zhong1 ri4 jin4 jun1 huan1 。
+- gan3 jiang1 gu3 dao4 wei2 wu2 shi4 ， yi3 zuo4 gui1 xin1 ji2 zi4 kuan1 。
+- lu4 cao3 yu4 sui2 shuang1 cao3 jin4 ， quan2 sheng1 chang2 dai4 pei4 sheng1 han2 。
+- yue4 sheng1 geng4 ai4 lan2 gan1 ying3 ， wei4 yan4 yin1 qin2 da2 shu3 kan4 。
 
 ## 注释
 

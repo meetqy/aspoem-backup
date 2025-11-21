@@ -6,10 +6,10 @@ titleSlug: deng-xi-duo-wei-cheng-zhong-zhi-yue-yin-fu-ci-pian
 author: 徐恢
 authorPinyin: xu2 hui1
 authorSlug: xu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,41 +6,33 @@ titleSlug: chun-yu
 author: 薛季宣
 authorPinyin: xue1 ji4 xuan1
 authorSlug: xue-ji-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春雨不知止，新晴旋復陰。
-- 霏霺散秋毫，虛簷水鳴琴。
-- 琤瑽響疏窗，庭除有餘音。
-- 跬步莫可縱，蒼苔看侵淫。
-- 縣齋知幾秋，中堂漏相尋。
-- 涓涓濺人衣，黯黯乏勝襟。
-- 發策漫如漬，明眸暗沈吟。
-- 翛然薄雲開，風聲到園林。
-- 坐覺筠筀芽，羅鞭粲修森。
-- 巾車過坊市，溝渠漲江潯。
-- 言歸轉通渠，舉頭見西岑。
-- 峰青霧銜白，何堪送迎心。
+- 春光不滿百，霧雨六旬强。
+- 眠蠶老脫殻，壠麥青已黄。
+- 愁雲密可厭，慘澹空滄茫。
+- 銅盤旦日出，障彼天一方。
+- 寒簇歎巧婦，麰蛾會飛虻。
+- 豐隆況忱祠，離畢占是常。
+- 庚午直及申，此意未遽央。
+- 使客困羈役，行留兩亡羊。
 
 ## 拼音
 
-- chun1 yu3 bu4 zhi1 zhi3 ， xin1 qing2 xuan2 fu4 yin1 。
-- fei1 wei1 san4 qiu1 hao2 ， xu1 yan2 shui3 ming2 qin2 。
-- cheng1 cong1 xiang3 shu1 chuang1 ， ting2 chu2 you3 yu2 yin1 。
-- kui3 bu4 mo4 ke3 zong4 ， cang1 tai2 kan4 qin1 yin2 。
-- xian4 zhai1 zhi1 ji1 qiu1 ， zhong1 tang2 lou4 xiang1 xun2 。
-- juan1 juan1 jian4 ren2 yi1 ， an4 an4 fa2 sheng4 jin1 。
-- fa1 ce4 man4 ru2 zi4 ， ming2 mou2 an4 shen3 yin2 。
-- xiao1 ran2 bao2 yun2 kai1 ， feng1 sheng1 dao4 yuan2 lin2 。
-- zuo4 jue2 yun2 gui4 ya2 ， luo2 bian1 can4 xiu1 sen1 。
-- jin1 ju1 guo4 fang1 shi4 ， gou1 qu2 zhang3 jiang1 xun2 。
-- yan2 gui1 zhuan3 tong1 qu2 ， ju3 tou2 jian4 xi1 cen2 。
-- feng1 qing1 wu4 xian2 bai2 ， he2 kan1 song4 ying2 xin1 。
+- chun1 guang1 bu4 man3 bai3 ， wu4 yu3 liu4 xun2 qiang2 。
+- mian2 can2 lao3 tuo1 qiao4 ， long3 mai4 qing1 yi3 huang2 。
+- chou2 yun2 mi4 ke3 yan4 ， can3 dan4 kong1 cang1 mang2 。
+- tong2 pan2 dan4 ri4 chu1 ， zhang4 bi3 tian1 yi4 fang1 。
+- han2 cu4 tan4 qiao3 fu4 ， mou2 e2 hui4 fei1 meng2 。
+- feng1 long2 kuang4 chen2 ci2 ， li2 bi4 zhan4 shi4 chang2 。
+- geng1 wu3 zhi2 ji2 shen1 ， ci3 yi4 wei4 ju4 yang1 。
+- shi3 ke4 kun4 ji1 yi4 ， xing2 liu2 liang3 wang2 yang2 。
 
 ## 注释
 

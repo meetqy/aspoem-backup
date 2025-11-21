@@ -6,10 +6,10 @@ titleSlug: ti-mei-shan-yun-yue-lou
 author: 崔次周
 authorPinyin: cui1 ci4 zhou1
 authorSlug: cui-ci-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

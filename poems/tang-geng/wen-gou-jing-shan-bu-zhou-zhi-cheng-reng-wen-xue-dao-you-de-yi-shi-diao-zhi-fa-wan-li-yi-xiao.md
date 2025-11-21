@@ -6,10 +6,10 @@ titleSlug: wen-gou-jing-shan-bu-zhou-zhi-cheng-reng-wen-xue-dao-you-de-yi-shi-di
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

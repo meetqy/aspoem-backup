@@ -6,10 +6,10 @@ titleSlug: gui-chou-san-yue-shi-ri-zi-yong-quan-si-guo-wu-wen-sou-shan-ju-lin-xi
 author: 胡世將
 authorPinyin: hu2 shi4 jiang1
 authorSlug: hu-shi-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

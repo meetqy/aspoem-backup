@@ -6,25 +6,21 @@ titleSlug: wan-chun
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花事匆匆了，人家割麥初。
-- 雨多田有鸛，潮小市無魚。
-- 禿筆回僧簡，褒衣看古書。
-- 經年稀見客，磬折轉生疎。
+- 書幌泠泠子夜風，杜鵑啼月小牆東。
+- 江南詞客惜春老，清曉披衣拾墮紅。
 
 ## 拼音
 
-- hua1 shi4 cong1 cong1 le0 ， ren2 jia1 ge1 mai4 chu1 。
-- yu3 duo1 tian2 you3 guan4 ， chao2 xiao3 shi4 wu2 yu2 。
-- tu1 bi3 hui2 seng1 jian3 ， bao1 yi1 kan4 gu3 shu1 。
-- jing1 nian2 xi1 jian4 ke4 ， qing4 zhe2 zhuan3 sheng1 shu1 。
+- shu1 huang3 ling2 ling2 zi3 ye4 feng1 ， du4 jian1 ti2 yue4 xiao3 qiang2 dong1 。
+- jiang1 nan2 ci2 ke4 xi1 chun1 lao3 ， qing1 xiao3 pi1 yi1 shi2 duo4 hong2 。
 
 ## 注释
 

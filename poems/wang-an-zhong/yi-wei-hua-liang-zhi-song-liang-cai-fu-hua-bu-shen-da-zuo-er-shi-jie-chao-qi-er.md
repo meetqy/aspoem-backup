@@ -6,10 +6,10 @@ titleSlug: yi-wei-hua-liang-zhi-song-liang-cai-fu-hua-bu-shen-da-zuo-er-shi-jie-
 author: 王安中
 authorPinyin: wang2 an1 zhong1
 authorSlug: wang-an-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: ou-ti
 author: 徐瑞
 authorPinyin: xu2 rui4
 authorSlug: xu-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾駐金華傲紫烟，偶來此地了塵緣。
-- 春風白石岡頭路，虛老松花過一年。
+- 陶公恒得法外意，張顛獨悟書中神。
+- 口耳不到方是妙，言動可擬皆非真。
+- 寒泉泠泠出空谷，幽鳥亹亹鳴陽春。
+- 政索解人不可得，舉似俗子翻成嗔。
 
 ## 拼音
 
-- ceng2 zhu4 jin1 hua2 ao4 zi3 yan1 ， ou3 lai2 ci3 di4 le0 chen2 yuan2 。
-- chun1 feng1 bai2 shi2 gang1 tou2 lu4 ， xu1 lao3 song1 hua1 guo4 yi4 nian2 。
+- tao2 gong1 heng2 de2 fa3 wai4 yi4 ， zhang1 dian1 du2 wu4 shu1 zhong1 shen2 。
+- kou3 er3 bu2 dao4 fang1 shi4 miao4 ， yan2 dong4 ke3 ni3 jie1 fei1 zhen1 。
+- han2 quan2 ling2 ling2 chu1 kong1 gu3 ， you1 niao3 wei3 wei3 ming2 yang2 chun1 。
+- zheng4 suo3 jie3 ren2 bu4 ke3 de2 ， ju3 si4 su2 zi3 fan1 cheng2 chen1 。
 
 ## 注释
 

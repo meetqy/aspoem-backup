@@ -6,10 +6,10 @@ titleSlug: song-zhu-shu-ci-fu-min-zhong-mu-fu-er-shou-qi-yi
 author: 呂祖謙
 authorPinyin: lü3 zu3 qian1
 authorSlug: lu-zu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -14,16 +14,16 @@ tags: []
 
 ## 正文
 
-- 移檜托禪子，携家上赤城。
+- 移檜托禪子，攜家上赤城。
 - 拂琴天籟寂，欹枕海濤生。
-- 雪白寒峰晚，鳥歌春谷晴。
-- 又聞求桂楫，載月十洲行。
+- 雲白寒峰晚，鳥歌春谷晴。
+- 又聞求桂檝，載月十洲行。
 
 ## 拼音
 
 - yi2 gui4 tuo1 shan4 zi3 ， xie2 jia1 shang4 chi4 cheng2 。
 - fu2 qin2 tian1 lai4 ji4 ， qi1 zhen3 hai3 tao1 sheng1 。
-- xue3 bai2 han2 feng1 wan3 ， niao3 ge1 chun1 gu3 qing2 。
+- yun2 bai2 han2 feng1 wan3 ， niao3 ge1 chun1 gu3 qing2 。
 - you4 wen2 qiu2 gui4 ji2 ， zai4 yue4 shi2 zhou1 xing2 。
 
 ## 注释

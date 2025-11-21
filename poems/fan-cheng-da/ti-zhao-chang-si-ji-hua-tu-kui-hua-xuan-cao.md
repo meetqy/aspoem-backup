@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-zhao-chang-si-ji-hua-tu-kui-hua-xuan-cao
-title: 題趙昌四季花圖・葵花萱草
-titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2・kui2 hua1 xuan1 cao3
+title: 題趙昌四季花圖 葵花萱草
+titlePinyin: ti2 zhao4 chang1 si4 ji4 hua1 tu2   kui2 hua1 xuan1 cao3
 titleSlug: ti-zhao-chang-si-ji-hua-tu-kui-hua-xuan-cao
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

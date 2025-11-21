@@ -6,10 +6,10 @@ titleSlug: yu-you-ren-zhong-yuan-zuo-bie-jiu-yue-shi-ri-fu-hui-zhong-jian-jie-wu
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

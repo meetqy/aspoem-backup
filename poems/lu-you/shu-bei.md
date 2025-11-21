@@ -1,40 +1,34 @@
 ---
 id: lu-you-shu-bei
-title: 舒悲
-titlePinyin: shu1 bei1
+title: 述悲
+titlePinyin: shu4 bei1
 titleSlug: shu-bei
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嗜酒苦猖狂，畏人還齷齪。
-- 老病始悔嘆，天下無此錯。
-- 管葛逝已久，千古困俗學。
-- 捫蝨論大計，使我思景略。
-- 中原失枝梧，烟塵暗河洛。
-- 天道遠莫測，士氣伏不作。
-- 煌煌東觀書，無乃太寂寞。
-- 丈夫不徒死，可作一丘壑。
-- 歲晚計愈疏，撫事涙零落。
+- 屏居不出門，終歲袖手坐。
+- 但怪意氣衰，那覺日月過。
+- 故人爲冢丘，老伴餘幾箇。
+- 天高鬼神惡，回夭夷齊餓。
+- 遺魂一零落，豈復聞楚些。
+- 且當醉濁醪，吾夢行亦破。
 
 ## 拼音
 
-- shi4 jiu3 ku3 chang1 kuang2 ， wei4 ren2 huan2 wo4 chuo4 。
-- lao3 bing4 shi3 hui3 tan4 ， tian1 xia4 wu2 ci3 cuo4 。
-- guan3 ge3 shi4 yi3 jiu3 ， qian1 gu3 kun4 su2 xue2 。
-- men2 shi1 lun4 da4 ji4 ， shi3 wo3 si1 jing3 lüe4 。
-- zhong1 yuan2 shi1 zhi1 wu2 ， yan1 chen2 an4 he2 luo4 。
-- tian1 dao4 yuan3 mo4 ce4 ， shi4 qi4 fu2 bu2 zuo4 。
-- huang2 huang2 dong1 guan1 shu1 ， wu2 nai3 tai4 ji4 mo4 。
-- zhang4 fu0 bu4 tu2 si3 ， ke3 zuo4 yi4 qiu1 he4 。
-- sui4 wan3 ji4 yu4 shu1 ， fu3 shi4 lei4 ling2 luo4 。
+- ping2 ju1 bu4 chu1 men2 ， zhong1 sui4 xiu4 shou3 zuo4 。
+- dan4 guai4 yi4 qi4 shuai1 ， na4 jue2 ri4 yue4 guo4 。
+- gu4 ren2 wei2 zhong3 qiu1 ， lao3 ban4 yu2 ji1 ge4 。
+- tian1 gao1 gui3 shen2 e4 ， hui2 yao1 yi2 qi2 e4 。
+- yi2 hun2 yi1 ling2 luo4 ， qi3 fu4 wen2 chu3 xie1 。
+- qie3 dang1 zui4 zhuo2 lao2 ， wu2 meng4 xing2 yi4 po4 。
 
 ## 注释
 

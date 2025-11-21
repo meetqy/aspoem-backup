@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-wu
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖皇臨大寶，八表湊才賢。
-- 經緯文天賦，剛柔德日宣。
-- 建邦隆柱石，造物運陶甄。
-- 共致升平業，綿長保億年。
+- 席卷定巴邛，西遐盡率從。
+- 岷峨難負阻，江漢自朝宗。
+- 述職方舟集，驅車九折通。
+- 粲然書國史，冠古耀豐功。
 
 ## 拼音
 
-- sheng4 huang2 lin2 da4 bao3 ， ba1 biao3 cou4 cai2 xian2 。
-- jing1 wei3 wen2 tian1 fu4 ， gang1 rou2 de2 ri4 xuan1 。
-- jian4 bang1 long2 zhu4 shi2 ， zao4 wu4 yun4 tao2 zhen1 。
-- gong4 zhi4 sheng1 ping2 ye4 ， mian2 chang2 bao3 yi4 nian2 。
+- xi2 juan3 ding4 ba1 qiong2 ， xi1 xia2 jin4 lü4 cong2 。
+- min2 e2 nan2 fu4 zu3 ， jiang1 han4 zi4 chao2 zong1 。
+- shu4 zhi2 fang1 zhou1 ji2 ， qu1 ju1 jiu3 zhe2 tong1 。
+- can4 ran2 shu1 guo2 shi3 ， guan1 gu3 yao4 feng1 gong1 。
 
 ## 注释
 

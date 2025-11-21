@@ -6,10 +6,10 @@ titleSlug: lu-mu-you-gan
 author: 李景文
 authorPinyin: li3 jing3 wen2
 authorSlug: li-jing-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

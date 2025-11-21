@@ -1,7 +1,7 @@
 ---
 id: teng-bai-ti-wen-chuan-cun-ju
-title: 題汶川村居
-titlePinyin: ti2 wen4 chuan1 cun1 ju1
+title: 題文川村居
+titlePinyin: ti2 wen2 chuan1 cun1 ju1
 titleSlug: ti-wen-chuan-cun-ju
 author: 滕白
 authorPinyin: teng2 bai2

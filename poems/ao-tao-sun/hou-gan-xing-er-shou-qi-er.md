@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-hou-gan-xing-er-shou-qi-er
-title: 後感興二首・其二
-titlePinyin: hou4 gan3 xing1 er4 shou3・qi2 er4
+title: 後感興二首  其二
+titlePinyin: hou4 gan3 xing1 er4 shou3     qi2 er4
 titleSlug: hou-gan-xing-er-shou-qi-er
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

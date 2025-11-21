@@ -6,10 +6,10 @@ titleSlug: yan-hu
 author: 史公亮
 authorPinyin: shi3 gong1 liang4
 authorSlug: shi-gong-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-jing-lue-zhi-ge-si-cheng-zeng-liu-sheng-zhi-zhe-long-yan-er-shou-q
 author: 唐弼
 authorPinyin: tang2 bi4
 authorSlug: tang-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

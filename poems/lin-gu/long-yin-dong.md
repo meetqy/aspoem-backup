@@ -6,10 +6,10 @@ titleSlug: long-yin-dong
 author: 林穀
 authorPinyin: lin2 gu3
 authorSlug: lin-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: bang-shu-xuan-yue-jing-bai-yi-lu-xiang-shi-le-tian-xiang-yin-ti-lu-sh
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

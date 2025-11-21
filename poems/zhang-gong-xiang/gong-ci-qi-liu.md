@@ -1,26 +1,26 @@
 ---
 id: zhang-gong-xiang-gong-ci-qi-liu
-title: 宮詞  其六
-titlePinyin: gong1 ci2     qi2 liu4
+title: 宮詞  其六○
+titlePinyin: gong1 ci2     qi2 liu4 ○
 titleSlug: gong-ci-qi-liu
 author: 張公庠
 authorPinyin: zhang1 gong1 xiang2
 authorSlug: zhang-gong-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 八月金莖露有華，晨曦纔上散餘霞。
-- 朱書十字黄封酒，先賜王公執政家。
+- 曉漏初傳第一籌，碧霄零露滴清秋。
+- 常娥收拾金波盡，不向鴛鴦瓦上流。
 
 ## 拼音
 
-- ba1 yue4 jin1 jing4 lu4 you3 hua2 ， chen2 xi1 cai2 shang4 san4 yu2 xia2 。
-- zhu1 shu1 shi2 zi4 huang2 feng1 jiu3 ， xian1 ci4 wang2 gong1 zhi2 zheng4 jia1 。
+- xiao3 lou4 chu1 chuan2 di4 yi1 chou2 ， bi4 xiao1 ling2 lu4 di1 qing1 qiu1 。
+- chang2 e2 shou1 shi0 jin1 bo1 jin4 ， bu2 xiang4 yuan1 yang1 wa3 shang4 liu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 楊遂
 authorPinyin: yang2 sui4
 authorSlug: yang-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

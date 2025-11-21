@@ -6,10 +6,10 @@ titleSlug: qing-jiang-dao-zhong
 author: 胡琴窗
 authorPinyin: hu2 qin2 chuang1
 authorSlug: hu-qin-chuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

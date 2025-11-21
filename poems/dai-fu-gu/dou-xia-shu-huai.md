@@ -6,25 +6,25 @@ titleSlug: dou-xia-shu-huai
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半月不把鏡，羞看兩鬢塵。
-- 讀書增意氣，携刺減精神。
-- 道路誰推轂，江湖賦采蘋。
-- 從來麋鹿性，那作帝鄉人。
+- 京華作夢十年餘，不道南山有弊廬。
+- 白髮生來美人笑，黄金散盡故交疎。
+- 明知弄巧翻成拙，除却謀歸總是虛。
+- 出處古人都說盡，功名未必勝鱸魚。
 
 ## 拼音
 
-- ban4 yue4 bu4 ba3 jing4 ， xiu1 kan4 liang3 bin4 chen2 。
-- du2 shu1 zeng1 yi4 qi4 ， xie2 ci4 jian3 jing1 shen2 。
-- dao4 lu4 shui2 tui1 gu3 ， jiang1 hu2 fu4 cai3 pin2 。
-- cong2 lai2 mi2 lu4 xing4 ， na4 zuo4 di4 xiang1 ren2 。
+- jing1 hua2 zuo4 meng4 shi2 nian2 yu2 ， bu2 dao4 nan2 shan1 you3 bi4 lu2 。
+- bai2 fa4 sheng1 lai2 mei3 ren2 xiao4 ， huang2 jin1 san4 jin4 gu4 jiao1 shu1 。
+- ming2 zhi1 nong4 qiao3 fan1 cheng2 zhuo1 ， chu2 que4 mou2 gui1 zong3 shi4 xu1 。
+- chu1 chu3 gu3 ren2 dou1 shuo1 jin4 ， gong1 ming2 wei4 bi4 sheng4 lu2 yu2 。
 
 ## 注释
 

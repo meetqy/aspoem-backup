@@ -6,10 +6,10 @@ titleSlug: da-di-dong-qi-yi
 author: 顧然
 authorPinyin: gu4 ran2
 authorSlug: gu-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

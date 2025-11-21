@@ -6,10 +6,10 @@ titleSlug: liu-ti-jiu-long-yan
 author: 劉溫
 authorPinyin: liu2 wen1
 authorSlug: liu-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

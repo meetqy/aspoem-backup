@@ -9,7 +9,7 @@ authorSlug: qu-long-shan-xian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

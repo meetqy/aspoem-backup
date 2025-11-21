@@ -6,9 +6,9 @@ titleSlug: gui-kun-shan-sheng-qin-bie-tai-xue-tong-she-qi-er
 author: 郭章
 authorPinyin: guo1 zhang1
 authorSlug: guo-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

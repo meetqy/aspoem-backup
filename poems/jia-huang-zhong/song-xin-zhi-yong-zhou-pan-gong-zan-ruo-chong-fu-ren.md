@@ -6,10 +6,10 @@ titleSlug: song-xin-zhi-yong-zhou-pan-gong-zan-ruo-chong-fu-ren
 author: 賈黄中
 authorPinyin: jia3 huang2 zhong1
 authorSlug: jia-huang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

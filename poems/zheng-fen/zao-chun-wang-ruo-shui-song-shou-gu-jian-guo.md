@@ -6,10 +6,10 @@ titleSlug: zao-chun-wang-ruo-shui-song-shou-gu-jian-guo
 author: 鄭芬
 authorPinyin: zheng4 fen1
 authorSlug: zheng-fen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

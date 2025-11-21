@@ -6,10 +6,10 @@ titleSlug: xi-yang-ling
 author: 葉維瞻
 authorPinyin: ye4 wei2 zhan1
 authorSlug: ye-wei-zhan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jun-zi-yan
 author: 林應隆
 authorPinyin: lin2 ying1 long2
 authorSlug: lin-ying-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

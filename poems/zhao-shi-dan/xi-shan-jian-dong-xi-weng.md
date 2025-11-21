@@ -6,10 +6,10 @@ titleSlug: xi-shan-jian-dong-xi-weng
 author: 趙時儋
 authorPinyin: zhao4 shi2 dan1
 authorSlug: zhao-shi-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

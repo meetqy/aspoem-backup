@@ -6,25 +6,21 @@ titleSlug: ci-yun-guo-jiao-shou-xue-er-shou-qi-er
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩力駸駸雅頌同，人言平處逼熙豐。
-- 清篇自昔傳平水，妙曲何人和郢中。
-- 頗怪鯨牙須手攬，懸知鼠技笑吾窮。
-- 衰慵合袖推敲手，且可旁觀斲鼻工。
+- 世紛長作眼中塵，酒力能回物外春。
+- 清論挾霜詩映雪，即今超俗頼斯人。
 
 ## 拼音
 
-- shi1 li4 qin1 qin1 ya3 song4 tong2 ， ren2 yan2 ping2 chu3 bi1 xi1 feng1 。
-- qing1 pian1 zi4 xi1 chuan2 ping2 shui3 ， miao4 qu3 he2 ren2 he2 ying3 zhong1 。
-- po1 guai4 jing1 ya2 xu1 shou3 lan3 ， xuan2 zhi1 shu3 ji4 xiao4 wu2 qiong2 。
-- shuai1 yong1 he2 xiu4 tui1 qiao1 shou3 ， qie3 ke3 pang2 guan1 zhuo2 bi2 gong1 。
+- shi4 fen1 chang2 zuo4 yan3 zhong1 chen2 ， jiu3 li4 neng2 hui2 wu4 wai4 chun1 。
+- qing1 lun4 xie2 shuang1 shi1 ying4 xue3 ， ji2 jin1 chao1 su2 lai4 si1 ren2 。
 
 ## 注释
 

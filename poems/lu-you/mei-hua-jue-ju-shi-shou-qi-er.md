@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 月中疏影雪中香，只爲無言更斷腸。
-- 曾與詩翁定花品，一丘一壑過姚黄。
+- 憶昔西戍日，夜宿僊人原。
+- 風吹野梅香，夢繞江南村。
 
 ## 拼音
 
-- yue4 zhong1 shu1 ying3 xue3 zhong1 xiang1 ， zhi1 wei2 wu2 yan2 geng4 duan4 chang2 。
-- ceng2 yu3 shi1 weng1 ding4 hua1 pin3 ， yi4 qiu1 yi2 he4 guo4 yao2 huang2 。
+- yi4 xi1 xi1 shu4 ri4 ， ye4 su4 xian1 ren2 yuan2 。
+- feng1 chui1 ye3 mei2 xiang1 ， meng4 rao4 jiang1 nan2 cun1 。
 
 ## 注释
 

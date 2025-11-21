@@ -6,25 +6,21 @@ titleSlug: wu-ti-san-shou-qi-san
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卧病十四五，秋來身自輕。
-- 已拚不籍在，寧復可憐生。
-- 每笑隠者傳，尚存身後名。
-- 灌園聊日力，分藥且交情。
+- 居爲耕叟出爲官，出處人將二致看。
+- 朝市山林俱樂地，却須神武掛衣冠。
 
 ## 拼音
 
-- wo4 bing4 shi2 si4 wu3 ， qiu1 lai2 shen1 zi4 qing1 。
-- yi3 pin1 bu4 ji2 zai4 ， ning2 fu4 ke3 lian2 sheng1 。
-- mei3 xiao4 yin3 zhe3 chuan2 ， shang4 cun2 shen1 hou4 ming2 。
-- guan4 yuan2 liao2 ri4 li4 ， fen1 yao4 qie3 jiao1 qing0 。
+- ju1 wei2 geng1 sou3 chu1 wei2 guan1 ， chu1 chu3 ren2 jiang1 er4 zhi4 kan4 。
+- chao2 shi4 shan1 lin2 ju4 le4 di4 ， que4 xu1 shen2 wu3 gua4 yi1 guan1 。
 
 ## 注释
 

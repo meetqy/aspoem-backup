@@ -6,21 +6,21 @@ titleSlug: yu-tai-ti-qi-yi
 author: 利登
 authorPinyin: li4 deng1
 authorSlug: li-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩彎弓月眉端照，一朶鬆雲鬢畔歸。
-- 欲默不能言不可，嬌心無著凭青衣。
+- 羸馬前山東復東，沈沈窗戶鎖愁紅。
+- 春風一把相思骨，又落江南煙雨中。
 
 ## 拼音
 
-- liang3 wan1 gong1 yue4 mei2 duan1 zhao4 ， yi4 duo3 song1 yun2 bin4 pan4 gui1 。
-- yu4 mo4 bu4 neng2 yan2 bu4 ke3 ， jiao1 xin1 wu2 zhu4 ping2 qing1 yi1 。
+- lei2 ma3 qian2 shan1 dong1 fu4 dong1 ， shen3 shen3 chuang1 hu4 suo3 chou2 hong2 。
+- chun1 feng1 yi4 ba3 xiang1 si1 gu3 ， you4 luo4 jiang1 nan2 yan1 yu3 zhong1 。
 
 ## 注释
 

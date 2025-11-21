@@ -6,25 +6,21 @@ titleSlug: ju-shui-xi-hu
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昔在延平郡，泉聲日夜聞。
-- 六年歸故里，一縷憶晴雲。
-- 儋石終宵足，瓶罍竟日分。
-- 山中有飛瀑，未必愜朝曛。
+- 白鑞鎔成滴水池，新荷初展濺珠璣。
+- 一絲晝夜無時息，勝似甘霖六月飛。
 
 ## 拼音
 
-- xi1 zai4 yan2 ping2 jun4 ， quan2 sheng1 ri4 ye4 wen2 。
-- liu4 nian2 gui1 gu4 li3 ， yi4 lü3 yi4 qing2 yun2 。
-- dan1 shi2 zhong1 xiao1 zu2 ， ping2 lei2 jing4 ri4 fen1 。
-- shan1 zhong1 you3 fei1 pu4 ， wei4 bi4 qie4 chao2 xun1 。
+- bai2 la4 rong2 cheng2 di1 shui3 chi2 ， xin1 he2 chu1 zhan3 jian4 zhu1 ji1 。
+- yi4 si1 zhou4 ye4 wu2 shi2 xi1 ， sheng4 si4 gan1 lin2 liu4 yue4 fei1 。
 
 ## 注释
 

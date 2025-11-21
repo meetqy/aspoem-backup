@@ -6,10 +6,10 @@ titleSlug: ji-si-shi-er-yue-nian-jiu-ri-tong-zhi-duan-chen-duan-gao-guan-wang-yo
 author: 范浚
 authorPinyin: fan4 jun4
 authorSlug: fan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: pu-zhong-ci-yun-ti-ju-zhao-zheng-zhi-qin-ting-chang-he-wu-shou-qi-yi
 author: 趙鼎
 authorPinyin: zhao4 ding3
 authorSlug: zhao-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

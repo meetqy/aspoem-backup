@@ -6,10 +6,10 @@ titleSlug: xian-ren-shi
 author: 徐圓老
 authorPinyin: xu2 yuan2 lao3
 authorSlug: xu-yuan-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

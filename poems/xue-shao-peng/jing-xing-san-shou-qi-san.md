@@ -6,10 +6,10 @@ titleSlug: jing-xing-san-shou-qi-san
 author: 薛紹彭
 authorPinyin: xue1 shao4 peng2
 authorSlug: xue-shao-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: shao-yong-xun-shi-xiao-di-shi-qi-yi
-title: 訓世孝弟詩  其一
-titlePinyin: xun4 shi4 xiao4 di4 shi1     qi2 yi1
+title: 訓世孝弟詩  其一○
+titlePinyin: xun4 shi4 xiao4 di4 shi1     qi2 yi1 ○
 titleSlug: xun-shi-xiao-di-shi-qi-yi
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 子孝親兮弟敬哥，休殘骨肉起風波。
-- 劬勞恩重須當報，手足情深要取和。
-- 公藝同居今古罕，田真共處子孫多。
-- 如斯遐邇皆稱美，子孝親兮弟敬哥。
+- 子孝親兮并敬哥，吁嗟分拆聽搬唆。
+- 囊中財物他嫌少，祖上田園你要多。
+- 夫婦眼前雖快樂，兒孫日後恐消磨。
+- 何如孝弟親鄉黨，子孝親兮弟敬哥。
 
 ## 拼音
 
-- zi3 xiao4 qin1 xi1 di4 jing4 ge1 ， xiu1 can2 gu3 rou4 qi3 feng1 bo1 。
-- qu2 lao2 en1 zhong4 xu1 dang1 bao4 ， shou3 zu2 qing2 shen1 yao4 qu3 he2 。
-- gong1 yi4 tong2 ju1 jin1 gu3 han3 ， tian2 zhen1 gong4 chu3 zi3 sun1 duo1 。
-- ru2 si1 xia2 er3 jie1 cheng1 mei3 ， zi3 xiao4 qin1 xi1 di4 jing4 ge1 。
+- zi3 xiao4 qin1 xi1 bing4 jing4 ge1 ， xu1 jie1 fen1 chai1 ting1 ban1 suo1 。
+- nang2 zhong1 cai2 wu4 ta1 xian2 shao3 ， zu3 shang4 tian2 yuan2 ni3 yao4 duo1 。
+- fu1 fu4 yan3 qian2 sui1 kuai4 le4 ， er2 sun1 ri4 hou4 kong3 xiao1 mo2 。
+- he2 ru2 xiao4 di4 qin1 xiang1 dang3 ， zi3 xiao4 qin1 xi1 di4 jing4 ge1 。
 
 ## 注释
 

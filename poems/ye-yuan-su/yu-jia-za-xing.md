@@ -6,10 +6,10 @@ titleSlug: yu-jia-za-xing
 author: 葉元素
 authorPinyin: ye4 yuan2 su4
 authorSlug: ye-yuan-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

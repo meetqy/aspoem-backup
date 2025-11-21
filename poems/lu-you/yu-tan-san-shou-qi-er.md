@@ -6,25 +6,25 @@ titleSlug: yu-tan-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久矣門無客，高齋獨掩扉。
-- 敢言消壮志，要是息危機。
-- 清露夜自滴，孤雲寒不歸。
-- 晨炊勿關念，更典箧中衣。
+- 交世非初志，謀生又絕疏。
+- 家貧思辟穀，人忌悔知書。
+- 門異回軒巷，乘無禿尾馿。
+- 老頑君勿怪，萬事有乘除。
 
 ## 拼音
 
-- jiu3 yi3 men2 wu2 ke4 ， gao1 zhai1 du2 yan3 fei1 。
-- gan3 yan2 xiao1 zhuang4 zhi4 ， yao4 shi0 xi1 wei1 ji1 。
-- qing1 lu4 ye4 zi4 di1 ， gu1 yun2 han2 bu4 gui1 。
-- chen2 chui1 wu4 guan1 nian4 ， geng4 dian3 qie4 zhong1 yi1 。
+- jiao1 shi4 fei1 chu1 zhi4 ， mou2 sheng1 you4 jue2 shu1 。
+- jia1 pin2 si1 pi4 gu3 ， ren2 ji4 hui3 zhi1 shu1 。
+- men2 yi4 hui2 xuan1 xiang4 ， cheng2 wu2 tu1 wei3 lu2 。
+- lao3 wan2 jun1 wu4 guai4 ， wan4 shi4 you3 cheng2 chu2 。
 
 ## 注释
 

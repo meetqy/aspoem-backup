@@ -6,10 +6,10 @@ titleSlug: you-wu-yi-shan-dong-tian
 author: 孟晉
 authorPinyin: meng4 jin4
 authorSlug: meng-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

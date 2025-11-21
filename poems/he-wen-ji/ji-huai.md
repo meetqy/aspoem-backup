@@ -6,25 +6,25 @@ titleSlug: ji-huai
 author: 何文季
 authorPinyin: he2 wen2 ji4
 authorSlug: he-wen-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衣冠不忍墜家聲，風雨瀟瀟鷄自鳴。
-- 身似孤蓬隨地轉，家無長物带書行。
-- 荒涼松竹鄉心外，淡薄虀鹽世味輕。
-- 幸有田疇堪料理，何如買犢且歸耕。
+- 白髮蕭蕭壯氣衰，垂頭兀兀董生帷。
+- 饑難煮字將焚硯，語不驚人懶作詩。
+- 昔日卞和常泣玉，今時墨子更悲絲。
+- 自從夢筆風流後，枯朽那能出菌芝。
 
 ## 拼音
 
-- yi1 guan1 bu4 ren3 zhui4 jia1 sheng1 ， feng1 yu3 xiao1 xiao1 ji1 zi4 ming2 。
-- shen1 si4 gu1 peng2 sui2 di4 zhuan3 ， jia1 wu2 chang2 wu4 dai4 shu1 xing2 。
-- huang1 liang2 song1 zhu2 xiang1 xin1 wai4 ， dan4 bo2 ji1 yan2 shi4 wei4 qing1 。
-- xing4 you3 tian2 chou2 kan1 liao4 li3 ， he2 ru2 mai3 du2 qie3 gui1 geng1 。
+- bai2 fa4 xiao1 xiao1 zhuang4 qi4 shuai1 ， chui2 tou2 wu4 wu4 dong3 sheng1 wei2 。
+- ji1 nan2 zhu3 zi4 jiang1 fen2 yan4 ， yu3 bu4 jing1 ren2 lan3 zuo4 shi1 。
+- xi1 ri4 bian4 he2 chang2 qi4 yu4 ， jin1 shi2 mo4 zi3 geng4 bei1 si1 。
+- zi4 cong2 meng4 bi3 feng1 liu2 hou4 ， ku1 xiu3 na4 neng2 chu1 jun1 zhi1 。
 
 ## 注释
 

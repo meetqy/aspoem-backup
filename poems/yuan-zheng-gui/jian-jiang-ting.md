@@ -6,10 +6,10 @@ titleSlug: jian-jiang-ting
 author: 袁正規
 authorPinyin: yuan2 zheng4 gui1
 authorSlug: yuan-zheng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

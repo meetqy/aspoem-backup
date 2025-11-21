@@ -6,10 +6,10 @@ titleSlug: yu-jiu
 author: 向雪湖
 authorPinyin: xiang4 xue3 hu2
 authorSlug: xiang-xue-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

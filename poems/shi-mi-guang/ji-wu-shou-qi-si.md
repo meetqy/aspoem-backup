@@ -6,9 +6,9 @@ titleSlug: ji-wu-shou-qi-si
 author: 釋彌光
 authorPinyin: shi4 mi2 guang1
 authorSlug: shi-mi-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

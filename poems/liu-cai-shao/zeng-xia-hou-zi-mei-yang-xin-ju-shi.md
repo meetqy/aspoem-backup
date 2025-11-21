@@ -6,10 +6,10 @@ titleSlug: zeng-xia-hou-zi-mei-yang-xin-ju-shi
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

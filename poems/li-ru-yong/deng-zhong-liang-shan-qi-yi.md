@@ -6,10 +6,10 @@ titleSlug: deng-zhong-liang-shan-qi-yi
 author: 李儒用
 authorPinyin: li3 ru2 yong4
 authorSlug: li-ru-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

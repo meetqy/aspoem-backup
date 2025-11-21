@@ -6,25 +6,21 @@ titleSlug: jiu-yu-qi-yi
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩肩不柰曉風酸，后土何時得暫乾。
-- 石鼎飯餘茶乳細，竹爐經罷柏烟殘。
-- 龍游未歇千山暗，豹隱方深一塢寒。
-- 白髪飄零江海上，朔雲收恨赴長安。
+- 夜雨翻盆曉未停，看山兩眼幾時青。
+- 不知溪面添多少，水滿方池漲綠萍。
 
 ## 拼音
 
-- shi1 jian1 bu2 nai4 xiao3 feng1 suan1 ， hou4 tu3 he2 shi2 de2 zan4 qian2 。
-- shi2 ding3 fan4 yu2 cha2 ru3 xi4 ， zhu2 lu2 jing1 ba4 bai3 yan1 can2 。
-- long2 you2 wei4 xie1 qian1 shan1 an4 ， bao4 yin3 fang1 shen1 yi2 wu4 han2 。
-- bai2 fa4 piao1 ling2 jiang1 hai3 shang4 ， shuo4 yun2 shou1 hen4 fu4 chang2 an1 。
+- ye4 yu3 fan1 pen2 xiao3 wei4 ting2 ， kan4 shan1 liang3 yan3 ji1 shi2 qing1 。
+- bu4 zhi1 xi1 mian4 tian1 duo1 shao3 ， shui3 man3 fang1 chi2 zhang3 lü4 ping2 。
 
 ## 注释
 

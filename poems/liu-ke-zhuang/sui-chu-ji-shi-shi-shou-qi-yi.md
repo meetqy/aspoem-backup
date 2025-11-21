@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-sui-chu-ji-shi-shi-shou-qi-yi
-title: 歲除即事十首  其一
-titlePinyin: sui4 chu2 ji2 shi4 shi2 shou3     qi2 yi1
+title: 歲除即事十首  其一○
+titlePinyin: sui4 chu2 ji2 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: sui-chu-ji-shi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聽得先生去，拋書喜欲顛。
-- 吾聞渥洼種，墮地不須鞭。
+- 瘦骨春衫薄，華顛綵勝垂。
+- 菱花應竊笑，粧束不相宜。
 
 ## 拼音
 
-- ting1 de2 xian1 sheng0 qu4 ， pao1 shu1 xi3 yu4 dian1 。
-- wu2 wen2 wo4 wa1 zhong3 ， duo4 di4 bu4 xu1 bian1 。
+- shou4 gu3 chun1 shan1 bao2 ， hua2 dian1 cai3 sheng4 chui2 。
+- ling2 hua1 ying1 qie4 xiao4 ， zhuang1 shu4 bu4 xiang1 yi2 。
 
 ## 注释
 

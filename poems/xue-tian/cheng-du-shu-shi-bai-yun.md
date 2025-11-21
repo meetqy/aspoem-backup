@@ -6,10 +6,10 @@ titleSlug: cheng-du-shu-shi-bai-yun
 author: 薛田
 authorPinyin: xue1 tian2
 authorSlug: xue-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

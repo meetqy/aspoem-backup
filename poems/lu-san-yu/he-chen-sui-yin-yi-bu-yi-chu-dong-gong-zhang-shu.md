@@ -6,10 +6,10 @@ titleSlug: he-chen-sui-yin-yi-bu-yi-chu-dong-gong-zhang-shu
 author: 呂三餘
 authorPinyin: lü3 san1 yu2
 authorSlug: lu-san-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

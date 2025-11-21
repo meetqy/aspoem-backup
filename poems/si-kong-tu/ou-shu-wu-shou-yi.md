@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 衰榭當何懺，惟應悔壯圖。
-- 磬聲花外遠，人影塔前孤。
+- 情知了得未如僧，客處高樓莫強登。
+- 鶯也解啼花也發，不關心事最堪憎。
 
 ## 拼音
 
-- shuai1 xie4 dang1 he2 chan4 ， wei2 ying1 hui3 zhuang4 tu2 。
-- qing4 sheng1 hua1 wai4 yuan3 ， ren2 ying3 ta3 qian2 gu1 。
+- qing2 zhi1 liao3 de2 wei4 ru2 seng1 ， ke4 chu3 gao1 lou2 mo4 qiang2 deng1 。
+- ying1 ye3 jie3 ti2 hua1 ye3 fa1 ， bu4 guan1 xin1 shi4 zui4 kan1 zeng1 。
 
 ## 注释
 

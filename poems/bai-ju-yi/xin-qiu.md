@@ -9,20 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 西風飄一葉，庭前颯已涼。
-- 風池明月水，衰蓮白露房。
-- 其奈江南夜，緜緜自此長。
+- 二毛生鏡日，一葉落庭時。
+- 老去爭由我，愁來欲泥誰。
+- 空銷閑歲月，不見舊親知。
+- 唯弄扶牀女，時時強展眉。
 
 ## 拼音
 
-- xi1 feng1 piao1 yi2 ye4 ， ting2 qian2 sa4 yi3 liang2 。
-- feng1 chi2 ming2 yue4 shui3 ， shuai1 lian2 bai2 lu4 fang2 。
-- qi2 nai4 jiang1 nan2 ye4 ， mian2 mian2 zi4 ci3 chang2 。
+- er4 mao2 sheng1 jing4 ri4 ， yi2 ye4 luo4 ting2 shi2 。
+- lao3 qu4 zheng1 you2 wo3 ， chou2 lai2 yu4 ni2 shui2 。
+- kong1 xiao1 xian2 sui4 yue4 ， bu2 jian4 jiu4 qin1 zhi1 。
+- wei2 nong4 fu2 chuang2 nü3 ， shi2 shi2 qiang2 zhan3 mei2 。
 
 ## 注释
 

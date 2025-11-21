@@ -6,10 +6,10 @@ titleSlug: he-wu-xuan-hui-shan-lou-wan-wang-you-huai-jiu-you
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

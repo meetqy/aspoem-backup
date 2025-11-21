@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-jiu
-title: 句  其九
-titlePinyin: ju4     qi2 jiu3
+title: 句  其九○
+titlePinyin: ju4     qi2 jiu3 ○
 titleSlug: ju-qi-jiu
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩水夾城飄近遠，萬山擁翠綠參差。
+- 白髮風前酒，黄花雨後鐙。
 
 ## 拼音
 
-- liang3 shui3 jia1 cheng2 piao1 jin4 yuan3 ， wan4 shan1 yong1 cui4 lü4 can1 cha4 。
+- bai2 fa4 feng1 qian2 jiu3 ， huang2 hua1 yu3 hou4 deng1 。
 
 ## 注释
 

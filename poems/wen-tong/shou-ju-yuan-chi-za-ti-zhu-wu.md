@@ -1,14 +1,14 @@
 ---
 id: wen-tong-shou-ju-yuan-chi-za-ti-zhu-wu
-title: 守居園池雜題・竹塢
-titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2・zhu2 wu4
+title: 守居園池雜題 竹塢
+titlePinyin: shou3 ju1 yuan2 chi2 za2 ti2   zhu2 wu4
 titleSlug: shou-ju-yuan-chi-za-ti-zhu-wu
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

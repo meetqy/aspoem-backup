@@ -6,10 +6,10 @@ titleSlug: fu-xin-fan-zhou-biao-quan-ru-zhao-ting
 author: 李慎修
 authorPinyin: li3 shen4 xiu1
 authorSlug: li-shen-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

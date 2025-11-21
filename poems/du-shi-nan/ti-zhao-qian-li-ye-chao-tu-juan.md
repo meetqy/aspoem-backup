@@ -6,10 +6,10 @@ titleSlug: ti-zhao-qian-li-ye-chao-tu-juan
 author: 篤世南
 authorPinyin: du3 shi4 nan2
 authorSlug: du-shi-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

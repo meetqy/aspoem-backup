@@ -6,10 +6,10 @@ titleSlug: ti-mei-tan
 author: 王伯範
 authorPinyin: wang2 bo2 fan4
 authorSlug: wang-bo-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

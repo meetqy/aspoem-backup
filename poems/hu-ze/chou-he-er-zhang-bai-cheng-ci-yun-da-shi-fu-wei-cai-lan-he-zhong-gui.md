@@ -6,10 +6,10 @@ titleSlug: chou-he-er-zhang-bai-cheng-ci-yun-da-shi-fu-wei-cai-lan-he-zhong-gui
 author: 胡則
 authorPinyin: hu2 ze2
 authorSlug: hu-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

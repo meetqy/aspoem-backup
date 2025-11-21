@@ -6,25 +6,21 @@ titleSlug: shi-si-di
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十日一洗沐，諸生各歸休。
-- 虛齋息羣響，兀坐心悠悠。
-- 雨久苔徑荒，林深鳥啼幽。
-- 階前樹萱草，與子俱忘憂。
+- 務學脩身要及時，競辰須念隙駒馳。
+- 清宵白日供遊蕩，愁殺堂前老古錐。
 
 ## 拼音
 
-- shi2 ri4 yi4 xi3 mu4 ， zhu1 sheng1 ge4 gui1 xiu1 。
-- xu1 zhai1 xi1 qun2 xiang3 ， wu4 zuo4 xin1 you1 you1 。
-- yu3 jiu3 tai2 jing4 huang1 ， lin2 shen1 niao3 ti2 you1 。
-- jie1 qian2 shu4 xuan1 cao3 ， yu3 zi3 ju4 wang4 you1 。
+- wu4 xue2 xiu1 shen1 yao4 ji2 shi2 ， jing4 chen2 xu1 nian4 xi4 ju1 chi2 。
+- qing1 xiao1 bai2 ri4 gong4 you2 dang4 ， chou2 sha1 tang2 qian2 lao3 gu3 zhui1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ying-xiang-song-shen-ge
 author: 趙希鵠
 authorPinyin: zhao4 xi1 hu2
 authorSlug: zhao-xi-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

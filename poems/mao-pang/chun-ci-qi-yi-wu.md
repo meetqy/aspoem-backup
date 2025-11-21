@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-yi-wu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寶曆垂無極，璿璣轉未央。
-- 繡楹膏露潤，玉殿紫芝香。
+- 雕雲燎馥沉香暖，綵勝風翩玉燕寒。
+- 天上春光來咫尺，瓊花瑤草徧闌干。
 
 ## 拼音
 
-- bao3 li4 chui2 wu2 ji2 ， xuan2 ji1 zhuan3 wei4 yang1 。
-- xiu4 ying2 gao1 lu4 run4 ， yu4 dian4 zi3 zhi1 xiang1 。
+- diao1 yun2 liao2 fu4 chen2 xiang1 nuan3 ， cai3 sheng4 feng1 pian1 yu4 yan4 han2 。
+- tian1 shang4 chun1 guang1 lai2 zhi3 chi3 ， qiong2 hua1 yao2 cao3 bian4 lan2 gan1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: zui-zhong-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宦遊三十載，舉步亦看人。
-- 愛酒官長罵，近花丞相嗔。
-- 湖山今入手，風月始關身。
-- 少吐胸中氣，從教白髮新。
+- 名醞羔兒拆密封，香粳玉粒出新舂。
+- 披綿珍𩺃經旬熟，斫雪雙螯洗手供。
+- 吟罷欲沉江渚月，夢回初動寺樓鐘。
+- 爐烟裊裊衣篝暖，未覺家風是老農。
 
 ## 拼音
 
-- huan4 you2 san1 shi2 zai4 ， ju3 bu4 yi4 kan4 ren2 。
-- ai4 jiu3 guan1 chang2 ma4 ， jin4 hua1 cheng2 xiang4 chen1 。
-- hu2 shan1 jin1 ru4 shou3 ， feng1 yue4 shi3 guan1 shen1 。
-- shao3 tu3 xiong1 zhong1 qi4 ， cong2 jiao4 bai2 fa4 xin1 。
+- ming2 yun4 gao1 er2 chai1 mi4 feng1 ， xiang1 jing1 yu4 li4 chu1 xin1 chong1 。
+- pi1 mian2 zhen1 𩺃 jing1 xun2 shu2 ， zhuo2 xue3 shuang1 ao2 xi3 shou3 gong4 。
+- yin2 ba4 yu4 chen2 jiang1 zhu3 yue4 ， meng4 hui2 chu1 dong4 si4 lou2 zhong1 。
+- lu2 yan1 niao3 niao3 yi1 gou1 nuan3 ， wei4 jue2 jia1 feng1 shi4 lao3 nong2 。
 
 ## 注释
 

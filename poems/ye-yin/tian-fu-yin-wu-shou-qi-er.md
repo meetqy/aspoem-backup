@@ -6,21 +6,21 @@ titleSlug: tian-fu-yin-wu-shou-qi-er
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜登車桁晝耘秧，怕說風傷與水傷。
-- 歷盡艱辛雙鬢白，今秋方覺稻花香。
+- 家家柳色染輕黄，柳外歸鴉噪夕陽。
+- 屋角有煙青不斷，粞兒飯熟淡齏香。
 
 ## 拼音
 
-- ye4 deng1 ju1 heng2 zhou4 yun2 yang1 ， pa4 shuo1 feng1 shang1 yu3 shui3 shang1 。
-- li4 jin4 jian1 xin1 shuang1 bin4 bai2 ， jin1 qiu1 fang1 jue2 dao4 hua1 xiang1 。
+- jia1 jia1 liu3 se4 ran3 qing1 huang2 ， liu3 wai4 gui1 ya1 zao4 xi1 yang2 。
+- wu1 jiao3 you3 yan1 qing1 bu2 duan4 ， xi1 er2 fan4 shu2 dan4 ji1 xiang1 。
 
 ## 注释
 

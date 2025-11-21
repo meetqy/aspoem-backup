@@ -6,10 +6,10 @@ titleSlug: li-zhi-er-shou-qi-er
 author: 鄭思肖
 authorPinyin: zheng4 si1 xiao4
 authorSlug: zheng-si-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

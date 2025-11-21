@@ -6,10 +6,10 @@ titleSlug: he-yang-bai-zi
 author: 左次魏
 authorPinyin: zuo3 ci4 wei4
 authorSlug: zuo-ci-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

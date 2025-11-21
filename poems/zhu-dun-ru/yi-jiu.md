@@ -6,10 +6,10 @@ titleSlug: yi-jiu
 author: 朱敦儒
 authorPinyin: zhu1 dun1 ru2
 authorSlug: zhu-dun-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

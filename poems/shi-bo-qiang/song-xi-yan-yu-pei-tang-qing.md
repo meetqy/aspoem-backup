@@ -6,10 +6,10 @@ titleSlug: song-xi-yan-yu-pei-tang-qing
 author: 史伯强
 authorPinyin: shi3 bo2 qiang2
 authorSlug: shi-bo-qiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

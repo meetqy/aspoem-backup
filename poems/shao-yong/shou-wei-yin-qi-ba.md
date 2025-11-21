@@ -1,30 +1,30 @@
 ---
 id: shao-yong-shou-wei-yin-qi-ba
-title: 首尾吟  其八
-titlePinyin: shou3 wei3 yin2     qi2 ba1
+title: 首尾吟  其八○
+titlePinyin: shou3 wei3 yin2     qi2 ba1 ○
 titleSlug: shou-wei-yin-qi-ba
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 堯夫非是愛吟詩，詩到忘言是盡時。
-- 雖則借言通要妙，又須從物見幾微。
-- 羹因不和方知淡，樂爲無聲始識希。
-- 多少風花待除改，堯夫非是愛吟詩。
+- 堯夫非是愛吟詩，詩是堯夫歡喜時。
+- 歡喜焉能便休得，語言須且畧形之。
+- 胸中所有事既說，天下固無人數殊。
+- 更不防閑尋罅漏，堯夫非是愛吟詩。
 
 ## 拼音
 
-- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， shi1 dao4 wang4 yan2 shi4 jin4 shi2 。
-- sui1 ze2 jie4 yan2 tong1 yao4 miao4 ， you4 xu1 cong2 wu4 jian4 ji1 wei1 。
-- geng1 yin1 bu4 he2 fang1 zhi1 dan4 ， le4 wei2 wu2 sheng1 shi3 shi2 xi1 。
-- duo1 shao3 feng1 hua1 dai4 chu2 gai3 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
+- yao2 fu1 fei1 shi4 ai4 yin2 shi1 ， shi1 shi4 yao2 fu1 huan1 xi3 shi2 。
+- huan1 xi3 yan1 neng2 bian4 xiu1 de2 ， yu3 yan2 xu1 qie3 lüe4 xing2 zhi1 。
+- xiong1 zhong1 suo3 you3 shi4 ji4 shuo1 ， tian1 xia4 gu4 wu2 ren2 shu4 shu1 。
+- geng4 bu4 fang2 xian2 xun2 xia4 lou4 ， yao2 fu1 fei1 shi4 ai4 yin2 shi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-yuan-shi-di-yao-shan-bie-ye
 author: 孫炳炎
 authorPinyin: sun1 bing3 yan2
 authorSlug: sun-bing-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

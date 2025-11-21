@@ -1,26 +1,26 @@
 ---
 id: shi-shao-song-yong-mei-wu-shi-shou-cheng-shi-shang-shu-qi-er
-title: 詠梅五十首呈史尚書  其二
-titlePinyin: yong3 mei2 wu3 shi2 shou3 cheng2 shi3 shang4 shu1     qi2 er4
+title: 詠梅五十首呈史尚書  其二○
+titlePinyin: yong3 mei2 wu3 shi2 shou3 cheng2 shi3 shang4 shu1     qi2 er4 ○
 titleSlug: yong-mei-wu-shi-shou-cheng-shi-shang-shu-qi-er
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白玉花頭碧玉枝，茅簷竹塢兩幽奇。
-- 從今日日須來看，看盡將開欲落時。
+- 夜起荆扉趁暗香，林間梅下卜齋房。
+- 寒窗安著清相向，清殺東坡錦綉腸。
 
 ## 拼音
 
-- bai2 yu4 hua1 tou2 bi4 yu4 zhi1 ， mao2 yan2 zhu2 wu4 liang3 you1 qi2 。
-- cong2 jin1 ri4 ri4 xu1 lai2 kan4 ， kan4 jin4 jiang1 kai1 yu4 luo4 shi2 。
+- ye4 qi3 jing1 fei1 chen4 an4 xiang1 ， lin2 jian4 mei2 xia4 bu3 zhai1 fang2 。
+- han2 chuang1 an1 zhu4 qing1 xiang1 xiang4 ， qing1 sha1 dong1 po1 jin3 xiu4 chang2 。
 
 ## 注释
 

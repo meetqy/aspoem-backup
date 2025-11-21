@@ -6,10 +6,10 @@ titleSlug: yi-ye-guang-ci-yuan-lin-bie-liu-yi-jue
 author: 陳公輔
 authorPinyin: chen2 gong1 fu3
 authorSlug: chen-gong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

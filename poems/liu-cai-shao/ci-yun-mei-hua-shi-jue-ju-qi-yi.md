@@ -1,26 +1,26 @@
 ---
 id: liu-cai-shao-ci-yun-mei-hua-shi-jue-ju-qi-yi
-title: 次韻梅花十絕句  其一
-titlePinyin: ci4 yun4 mei2 hua1 shi2 jue2 ju4     qi2 yi1
+title: 次韻梅花十絕句  其一○
+titlePinyin: ci4 yun4 mei2 hua1 shi2 jue2 ju4     qi2 yi1 ○
 titleSlug: ci-yun-mei-hua-shi-jue-ju-qi-yi
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪水溶溶影動搖，盈盈仙子近星橋。
-- 箇中著句須清絕，莫道經春雪未消。
+- 洗盡殘粧倚玉樓，世間脂粉且休休。
+- 芳心未必傷幽獨，冷雨疏烟與替愁。
 
 ## 拼音
 
-- xi1 shui3 rong2 rong2 ying3 dong4 yao2 ， ying2 ying2 xian1 zi3 jin4 xing1 qiao2 。
-- ge4 zhong1 zhu4 ju4 xu1 qing1 jue2 ， mo4 dao4 jing1 chun1 xue3 wei4 xiao1 。
+- xi3 jin4 can2 zhuang1 yi3 yu4 lou2 ， shi4 jian4 zhi1 fen3 qie3 xiu1 xiu1 。
+- fang1 xin1 wei4 bi4 shang1 you1 du2 ， leng3 yu3 shu1 yan1 yu3 ti4 chou2 。
 
 ## 注释
 

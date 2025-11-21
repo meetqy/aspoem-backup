@@ -6,10 +6,10 @@ titleSlug: zeng-yang-su-xian-sheng
 author: 龐昌
 authorPinyin: pang2 chang1
 authorSlug: pang-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

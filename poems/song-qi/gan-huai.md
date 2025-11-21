@@ -6,29 +6,29 @@ titleSlug: gan-huai
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 夕風搜前林，墜葉快如剪。
-- 老月扣戶低，傾河去人遠。
-- 吉士感物化，勞勞意不展。
-- 輟飲屏樽杓，留釭討墳典。
-- 觸事孟軻迂，臨途安國蹇。
-- 不歎歲月遒，所悼功名晚。
+- 天與疏慵地，人無榮進心。
+- 死灰差免溺，棄杖即成林。
+- 主諾固多暇，避賢懷所欽。
+- 難邀潁川鳳，敢望漢臺金。
+- 倚酒狂雖在，荷蓑歲已侵。
+- 恭聞容考績，緣此未投簪。
 
 ## 拼音
 
-- xi1 feng1 sou1 qian2 lin2 ， zhui4 ye4 kuai4 ru2 jian3 。
-- lao3 yue4 kou4 hu4 di1 ， qing1 he2 qu4 ren2 yuan3 。
-- ji2 shi4 gan3 wu4 hua4 ， lao2 lao2 yi4 bu4 zhan3 。
-- chuo4 yin3 ping2 zun1 shao2 ， liu2 gang1 tao3 fen2 dian3 。
-- chu4 shi4 meng4 ke1 yu1 ， lin2 tu2 an1 guo2 jian3 。
-- bu2 tan4 sui4 yue4 qiu2 ， suo3 dao4 gong1 ming2 wan3 。
+- tian1 yu3 shu1 yong1 di4 ， ren2 wu2 rong2 jin4 xin1 。
+- si3 hui1 cha4 mian3 ni4 ， qi4 zhang4 ji2 cheng2 lin2 。
+- zhu3 nuo4 gu4 duo1 xia2 ， bi4 xian2 huai2 suo3 qin1 。
+- nan2 yao1 ying3 chuan1 feng4 ， gan3 wang4 han4 tai2 jin1 。
+- yi3 jiu3 kuang2 sui1 zai4 ， he2 suo1 sui4 yi3 qin1 。
+- gong1 wen2 rong2 kao3 ji4 ， yuan2 ci3 wei4 tou2 zan1 。
 
 ## 注释
 

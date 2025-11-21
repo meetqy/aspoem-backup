@@ -6,10 +6,10 @@ titleSlug: wen-shu-zhe-jian-kua-qi-ye-su-hu-xin-wu-deng-nan-ping-shi-dong-na-lia
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-wu-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄昏人寂漏初稀，嬪御相從奉直歸。
-- 慵困尚尋嬉戲事，競將雙陸且忘機。
+- 白檀象戲小盤平，牙子金書字更明。
+- 夜静綺窗輝絳蠟，玉容相對煖移聲。
 
 ## 拼音
 
-- huang2 hun1 ren2 ji4 lou4 chu1 xi1 ， pin2 yu4 xiang1 cong2 feng4 zhi2 gui1 。
-- yong1 kun4 shang4 xun2 xi1 xi4 shi4 ， jing4 jiang1 shuang1 lu4 qie3 wang4 ji1 。
+- bai2 tan2 xiang4 xi4 xiao3 pan2 ping2 ， ya2 zi0 jin1 shu1 zi4 geng4 ming2 。
+- ye4 jing4 qi3 chuang1 hui1 jiang4 la4 ， yu4 rong2 xiang1 dui4 xuan1 yi2 sheng1 。
 
 ## 注释
 

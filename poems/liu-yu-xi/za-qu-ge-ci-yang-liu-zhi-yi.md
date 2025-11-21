@@ -9,18 +9,18 @@ authorSlug: liu-yu-xi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 塞北梅花羌笛吹，淮南桂樹小山詞。
-- 請君莫奏前朝曲，聽唱新翻楊柳枝。
+- 【揚】子江頭煙景迷，隋家宮樹拂金堤。
+- 嵯峨猶有當時色，半蘸波中水鳥棲。
 
 ## 拼音
 
-- sai4 bei3 mei2 hua1 qiang1 di2 chui1 ， huai2 nan2 gui4 shu4 xiao3 shan1 ci2 。
-- qing3 jun1 mo4 zou4 qian2 chao2 qu3 ， ting1 chang4 xin1 fan1 yang2 liu3 zhi1 。
+- 【 yang2 】 zi3 jiang1 tou2 yan1 jing3 mi2 ， sui2 jia1 gong1 shu4 fu2 jin1 di1 。
+- cuo2 e2 you2 you3 dang1 shi2 se4 ， ban4 zhan4 bo1 zhong1 shui3 niao3 qi1 。
 
 ## 注释
 

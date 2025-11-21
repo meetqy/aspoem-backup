@@ -6,10 +6,10 @@ titleSlug: ye-tao-yin-ju-ci-cheng-lang-zhong-zhang-sheng-hua
 author: 陳庚生
 authorPinyin: chen2 geng1 sheng1
 authorSlug: chen-geng-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

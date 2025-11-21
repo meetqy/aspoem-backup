@@ -6,10 +6,10 @@ titleSlug: liu-zong-yuan-suo-yu-fu-yu-gu-gu-ren-yi-yu-zi-ming-ji-ming-ren-zhe-du
 author: 彭龜年
 authorPinyin: peng2 gui1 nian2
 authorSlug: peng-gui-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

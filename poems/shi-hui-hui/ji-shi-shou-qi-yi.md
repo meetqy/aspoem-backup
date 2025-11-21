@@ -1,26 +1,30 @@
 ---
 id: shi-hui-hui-ji-shi-shou-qi-yi
-title: 偈十首  其一
-titlePinyin: ji4 shi2 shou3     qi2 yi1
+title: 偈十首  其一○
+titlePinyin: ji4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-shi-shou-qi-yi
 author: 釋慧暉
 authorPinyin: shi4 hui4 hui1
 authorSlug: shi-hui-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 外罷諸緣絕言語，內無喘息合幽玄。
-- 心如牆壁忘功處，以入道源空劫前。
+- 皎皎而月澄，嶺上之孤松。
+- 凄凄而風渡，半夜之空中。
+- 深深也妙訣，自坐少林之峯。
+- 了了也真氣，元居虛谷之功。
 
 ## 拼音
 
-- wai4 ba4 zhu1 yuan2 jue2 yan2 yu3 ， nei4 wu2 chuan3 xi1 he2 you1 xuan2 。
-- xin1 ru2 qiang2 bi4 wang4 gong1 chu3 ， yi3 ru4 dao4 yuan2 kong1 jie2 qian2 。
+- jiao3 jiao3 er2 yue4 cheng2 ， ling3 shang4 zhi1 gu1 song1 。
+- qi1 qi1 er2 feng1 du4 ， ban4 ye4 zhi1 kong1 zhong1 。
+- shen1 shen1 ye3 miao4 jue2 ， zi4 zuo4 shao4 lin2 zhi1 feng1 。
+- liao3 liao3 ye3 zhen1 qi4 ， yuan2 ju1 xu1 gu3 zhi1 gong1 。
 
 ## 注释
 

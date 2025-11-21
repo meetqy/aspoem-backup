@@ -6,10 +6,10 @@ titleSlug: gui-ji-wei-cheng-bu-sheng-jia-shan-zhi-si-yong-yuan-ming-shan-gu-chan
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

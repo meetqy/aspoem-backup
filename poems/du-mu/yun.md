@@ -9,18 +9,22 @@ authorSlug: du-mu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 盡日看雲首不回，無心都大似無才。
-- 可憐光彩一片玉，萬里晴天何處來。
+- 東西那有礙，出處豈虛心。
+- 曉入洞庭闊，暮歸巫峽深。
+- 渡江隨鳥影，擁樹隔猿吟。
+- 莫隱高唐去，枯苗待作霖。
 
 ## 拼音
 
-- jin4 ri4 kan4 yun2 shou3 bu4 hui2 ， wu2 xin1 dou1 da4 si4 wu2 cai2 。
-- ke3 lian2 guang1 cai3 yi2 pian4 yu4 ， wan4 li3 qing2 tian1 he2 chu3 lai2 。
+- dong1 xi1 na4 you3 ai4 ， chu1 chu3 qi3 xu1 xin1 。
+- xiao3 ru4 dong4 ting2 kuo4 ， mu4 gui1 wu1 xia2 shen1 。
+- du4 jiang1 sui2 niao3 ying3 ， yong1 shu4 ge2 yuan2 yin2 。
+- mo4 yin3 gao1 tang2 qu4 ， ku1 miao2 dai4 zuo4 lin2 。
 
 ## 注释
 

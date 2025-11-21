@@ -6,21 +6,21 @@ titleSlug: huang-hou-ge-duan-wu-tie-zi-ci-wu-shou-qi-er
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日永坤寧殿，時將萬卷看。
-- 從容聊灑翰，寶扇舞龍鸞。
+- 讀罷懷沙賦，重哦卷耳篇。
+- 殷勤勸明主，屬意在求賢。
 
 ## 拼音
 
-- ri4 yong3 kun1 ning2 dian4 ， shi2 jiang1 wan4 juan4 kan4 。
-- cong2 rong2 liao2 sa3 han4 ， bao3 shan4 wu3 long2 luan2 。
+- du2 ba4 huai2 sha1 fu4 ， zhong4 o4 juan4 er3 pian1 。
+- yin1 qin2 quan4 ming2 zhu3 ， shu3 yi4 zai4 qiu2 xian2 。
 
 ## 注释
 

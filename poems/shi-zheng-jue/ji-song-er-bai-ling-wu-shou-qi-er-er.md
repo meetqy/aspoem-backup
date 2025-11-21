@@ -1,26 +1,26 @@
 ---
 id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-qi-er-er
-title: 偈頌二百零五首  其二二
-titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 er4
+title: 偈頌二百零五首  其二○二
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3     qi2 er4 ○ er4
 titleSlug: ji-song-er-bai-ling-wu-shou-qi-er-er
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 柳線垂金鶯語滑，華棚張錦蝶飛忙。
-- 見聞裏許通消息，誰得先生點鐵方。
+- 演出一大藏，明明超過諸緣上。
+- 隨曲隨直也流水轉山，隨高隨下也虛舟駕浪。
 
 ## 拼音
 
-- liu3 xian4 chui2 jin1 ying1 yu3 hua2 ， hua2 peng2 zhang1 jin3 die2 fei1 mang2 。
-- jian4 wen2 li3 xu1 tong1 xiao1 xi0 ， shui2 de2 xian1 sheng0 dian3 tie3 fang1 。
+- yan3 chu1 yi2 da4 cang2 ， ming2 ming2 chao1 guo4 zhu1 yuan2 shang4 。
+- sui2 qu3 sui2 zhi2 ye3 liu2 shui3 zhuan3 shan1 ， sui2 gao1 sui2 xia4 ye3 xu1 zhou1 jia4 lang4 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: chun-ri-dao-zhong
 author: 白玉蟾
 authorPinyin: bai2 yu4 chan2
 authorSlug: bai-yu-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春光入萬象，天意開百花。
-- 鶑雛戲雲錦，鳩婦絡雨紗。
-- 曉日晴弄柳，夜雷暗驚茶。
-- 溪带縛洞口，醉歸蜂正衙。
+- 洞口鳥呼鳥，山頭花戴花。
+- 風篁蒼韻玉，煙樹晚籠紗。
+- 懷白一樽酒，邀盧七椀茶。
+- 春光索彈壓，萬象曉排衙。
 
 ## 拼音
 
-- chun1 guang1 ru4 wan4 xiang4 ， tian1 yi4 kai1 bai3 hua1 。
-- ying1 chu2 xi4 yun2 jin3 ， jiu1 fu4 luo4 yu3 sha1 。
-- xiao3 ri4 qing2 nong4 liu3 ， ye4 lei2 an4 jing1 cha2 。
-- xi1 dai4 fu4 dong4 kou3 ， zui4 gui1 feng1 zheng4 ya2 。
+- dong4 kou3 niao3 hu1 niao3 ， shan1 tou2 hua1 dai4 hua1 。
+- feng1 huang2 cang1 yun4 yu4 ， yan1 shu4 wan3 long2 sha1 。
+- huai2 bai2 yi4 zun1 jiu3 ， yao1 lu2 qi1 wan3 cha2 。
+- chun1 guang1 suo3 dan4 ya1 ， wan4 xiang4 xiao3 pai2 ya2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: di-shang
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落花吹盡不堪憂，只見河堤水漫流。
-- 晚日强穿城北市，春風猶駐驛南樓。
-- 妻孥轉覺爲身累，歲月終難望汝留。
-- 萬里長江一樽酒，故人何處倚扁舟。
+- 水上人家各繫船，畫旗何處插鞦韆。
+- 長堤繚繞人行外，古木槎牙鳥宿邊。
+- 敢爲簿書嫌蹭蹬，卻因升斗致留連。
+- 何時更鼓江南棹，一住越中三十年。
 
 ## 拼音
 
-- luo4 hua1 chui1 jin4 bu4 kan1 you1 ， zhi1 jian4 he2 di1 shui3 man4 liu2 。
-- wan3 ri4 qiang2 chuan1 cheng2 bei3 shi4 ， chun1 feng1 you2 zhu4 yi4 nan2 lou2 。
-- qi1 nu2 zhuan3 jue2 wei2 shen1 lei4 ， sui4 yue4 zhong1 nan2 wang4 ru3 liu2 。
-- wan4 li3 chang2 jiang1 yi4 zun1 jiu3 ， gu4 ren2 he2 chu3 yi3 pian1 zhou1 。
+- shui3 shang4 ren2 jia1 ge4 xi4 chuan2 ， hua4 qi2 he2 chu3 cha1 qiu1 qian1 。
+- chang2 di1 liao2 rao4 ren2 hang2 wai4 ， gu3 mu4 cha2 ya2 niao3 su4 bian1 。
+- gan3 wei2 bo2 shu1 xian2 ceng4 deng4 ， que4 yin1 sheng1 dou3 zhi4 liu2 lian2 。
+- he2 shi2 geng1 gu3 jiang1 nan2 zhao4 ， yi2 zhu4 yue4 zhong1 san1 shi2 nian2 。
 
 ## 注释
 

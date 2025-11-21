@@ -6,10 +6,10 @@ titleSlug: guo-wang-chu-shi-zhu-zhuang
 author: 薛師魯
 authorPinyin: xue1 shi1 lu3
 authorSlug: xue-shi-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

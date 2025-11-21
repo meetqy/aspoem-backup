@@ -14,17 +14,21 @@ tags: []
 
 ## 正文
 
-- 佛法詩名誰更繼，未聞隨分謁侯王。
+- 佛法詩名更誰繼，未聞隨分謁侯王。
 - 洗盂秋澗日華動，搗藥夜堂雲氣香。
 - 苔蘚亂青封疊石，杉松濃影過空牆。
-- 若非火嶽□□地，那得吾師住久長。
+- 若非火岳□□地，那得吾師住久長。
+- （周本淳校點本《詩話總龜》卷二八引《雅言系述》。
+- ）。
 
 ## 拼音
 
-- fo2 fa3 shi1 ming2 shui2 geng4 ji4 ， wei4 wen2 sui2 fen1 ye4 hou2 wang2 。
+- fo2 fa3 shi1 ming2 geng4 shui2 ji4 ， wei4 wen2 sui2 fen1 ye4 hou2 wang2 。
 - xi3 yu2 qiu1 jian4 ri4 hua2 dong4 ， dao3 yao4 ye4 tang2 yun2 qi4 xiang1 。
 - tai2 xian3 luan4 qing1 feng1 die2 shi2 ， shan1 song1 nong2 ying3 guo4 kong1 qiang2 。
 - ruo4 fei1 huo3 yue4 □□ di4 ， na4 de2 wu2 shi1 zhu4 jiu3 chang2 。
+- （ zhou1 ben3 chun2 xiao4 dian3 ben3 《 shi1 hua4 zong3 gui1 》 juan4 er4 ba1 yin3 《 ya3 yan2 xi4 shu4 》。
+- ）。
 
 ## 注释
 

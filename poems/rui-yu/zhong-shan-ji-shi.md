@@ -6,9 +6,9 @@ titleSlug: zhong-shan-ji-shi
 author: 芮毓
 authorPinyin: rui4 yu4
 authorSlug: rui-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

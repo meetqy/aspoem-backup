@@ -6,10 +6,10 @@ titleSlug: ti-zhao-ti-yuan-jing-zhao-tang
 author: 馮浩
 authorPinyin: feng2 hao4
 authorSlug: feng-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

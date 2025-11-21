@@ -6,10 +6,10 @@ titleSlug: qi-yan-si
 author: 薛嗣昌
 authorPinyin: xue1 si4 chang1
 authorSlug: xue-si-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

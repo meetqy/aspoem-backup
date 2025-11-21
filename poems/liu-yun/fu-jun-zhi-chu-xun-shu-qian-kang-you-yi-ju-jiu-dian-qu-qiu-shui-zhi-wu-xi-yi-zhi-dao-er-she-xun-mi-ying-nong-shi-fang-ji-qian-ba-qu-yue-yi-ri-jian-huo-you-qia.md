@@ -6,10 +6,10 @@ titleSlug: fu-jun-zhi-chu-xun-shu-qian-kang-you-yi-ju-jiu-dian-qu-qiu-shui-zhi-w
 author: 劉筠
 authorPinyin: liu2 yun2
 authorSlug: liu-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

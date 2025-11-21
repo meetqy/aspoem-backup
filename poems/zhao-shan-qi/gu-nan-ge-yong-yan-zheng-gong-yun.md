@@ -6,10 +6,10 @@ titleSlug: gu-nan-ge-yong-yan-zheng-gong-yun
 author: 趙善期
 authorPinyin: zhao4 shan4 qi1
 authorSlug: zhao-shan-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

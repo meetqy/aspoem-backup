@@ -6,10 +6,10 @@ titleSlug: ti-ying-xun-ge
 author: 張杲之
 authorPinyin: zhang1 gao3 zhi1
 authorSlug: zhang-gao-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

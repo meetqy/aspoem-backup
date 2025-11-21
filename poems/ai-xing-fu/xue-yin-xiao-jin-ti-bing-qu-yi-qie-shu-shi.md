@@ -6,10 +6,10 @@ titleSlug: xue-yin-xiao-jin-ti-bing-qu-yi-qie-shu-shi
 author: 艾性夫
 authorPinyin: ai4 xing4 fu1
 authorSlug: ai-xing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,36 +1,36 @@
 ---
 id: jiang-kui-xi-you-shi-qi-yi
-title: 昔遊詩  其一
-titlePinyin: xi1 you2 shi1     qi2 yi1
+title: 昔遊詩  其一○
+titlePinyin: xi1 you2 shi1     qi2 yi1 ○
 titleSlug: xi-you-shi-qi-yi
 author: 姜夔
 authorPinyin: jiang1 kui2
 authorSlug: jiang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 洞庭八百里，玉盤盛水銀。
-- 長虹忽照影，大哉五色輪。
-- 我舟渡其中，晁晁驚我神。
-- 朝發黄陵祠，暮至赤沙曲。
-- 借問此何處，滄灣三十六。
-- 青蘆望不盡，明月耿如燭。
-- 灣灣無人家，只就蘆邊宿。
+- 昔遊衡山下，看水入朱陵。
+- 半空掃積雪，萬萬玉花凝。
+- 或如生綃掛，或作薄霧橫。
+- 紛紛虎豹吼，往往蛟龍驚。
+- 人語不相聞，濺雹漂我纓。
+- 有魚緣峭壁，上上終不停。
+- 此中有神物，雷雨周八紘。
 
 ## 拼音
 
-- dong4 ting2 ba1 bai3 li3 ， yu4 pan2 sheng4 shui3 yin2 。
-- chang2 hong2 hu1 zhao4 ying3 ， da4 zai1 wu3 se4 lun2 。
-- wo3 zhou1 du4 qi2 zhong1 ， chao2 chao2 jing1 wo3 shen2 。
-- chao2 fa1 huang2 ling2 ci2 ， mu4 zhi4 chi4 sha1 qu3 。
-- jie4 wen4 ci3 he2 chu3 ， cang1 wan1 san1 shi2 liu4 。
-- qing1 lu2 wang4 bu2 jin4 ， ming2 yue4 geng3 ru2 zhu2 。
-- wan1 wan1 wu2 ren2 jia1 ， zhi1 jiu4 lu2 bian1 su4 。
+- xi1 you2 heng2 shan1 xia4 ， kan4 shui3 ru4 zhu1 ling2 。
+- ban4 kong1 sao3 ji1 xue3 ， wan4 wan4 yu4 hua1 ning2 。
+- huo4 ru2 sheng1 xiao1 gua4 ， huo4 zuo4 bao2 wu4 heng2 。
+- fen1 fen1 hu3 bao4 hou3 ， wang3 wang3 jiao1 long2 jing1 。
+- ren2 yu3 bu4 xiang1 wen2 ， jian4 bao2 piao1 wo3 ying1 。
+- you3 yu2 yuan2 qiao4 bi4 ， shang4 shang4 zhong1 bu4 ting2 。
+- ci3 zhong1 you3 shen2 wu4 ， lei2 yu3 zhou1 ba1 hong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: qian-bei-huai-san-shou-er
 author: 元稹
 authorPinyin: yuan2 zhen3
 authorSlug: yuan-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

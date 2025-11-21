@@ -6,10 +6,10 @@ titleSlug: si-yue-shi-liu-ri-tong-di-zhi-xiao-li-chang-ji-ti-fen-yun-de-shou-zi
 author: 范浚
 authorPinyin: fan4 jun4
 authorSlug: fan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

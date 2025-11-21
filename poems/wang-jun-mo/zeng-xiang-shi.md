@@ -6,10 +6,10 @@ titleSlug: zeng-xiang-shi
 author: 王君謨
 authorPinyin: wang2 jun1 mo2
 authorSlug: wang-jun-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

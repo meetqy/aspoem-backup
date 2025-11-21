@@ -6,21 +6,29 @@ titleSlug: yuan-shi-qi-wu-qi
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 一莖枯竹作漁竿，同畏蛟螭坐釣灘。
-- 若獲得魚舡許大，應想恐悚不心安。
+- 牡丹花，深紅淺，忍把金刀枝上剪。
+- 侵晨含露萬苞香，見者無非情展轉。
+- 繁華影裏皆柔弱，密葉交加開閃爍。
+- 朱欄別是一般春，蛺蝶悠颺閑自樂。
+- 麗天和日景遲遲，思量往事不堪追。
+- 風送園中來又去，豁然興感競移時。
 
 ## 拼音
 
-- yi2 jing4 ku1 zhu2 zuo4 yu2 gan1 ， tong2 wei4 jiao1 chi1 zuo4 diao4 tan1 。
-- ruo4 huo4 de2 yu2 chuan2 xu1 da4 ， ying1 xiang3 kong3 song3 bu4 xin1 an1 。
+- mu3 dan1 hua1 ， shen1 hong2 qian3 ， ren3 ba3 jin1 dao1 zhi1 shang4 jian3 。
+- qin1 chen2 han2 lu4 wan4 bao1 xiang1 ， jian4 zhe3 wu2 fei1 qing2 zhan3 zhuan3 。
+- fan2 hua2 ying3 li3 jie1 rou2 ruo4 ， mi4 ye4 jiao1 jia1 kai1 shan3 shuo4 。
+- zhu1 lan2 bie2 shi4 yi4 ban1 chun1 ， jia2 die2 you1 yang2 xian2 zi4 le4 。
+- li2 tian1 he2 ri4 jing3 chi2 chi2 ， si1 liang0 wang3 shi4 bu4 kan1 zhui1 。
+- feng1 song4 yuan2 zhong1 lai2 you4 qu4 ， huo4 ran2 xing1 gan3 jing4 yi2 shi2 。
 
 ## 注释
 

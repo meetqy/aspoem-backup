@@ -6,10 +6,10 @@ titleSlug: cui-jiu-yu-wang-nan-shan-ma-shang-kou-hao-yu-bie
 author: 裴迪
 authorPinyin: pei2 di2
 authorSlug: pei-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: song-wang-de-ming-shu-mi-zhi-dai-zhou
 author: 郭守文
 authorPinyin: guo1 shou3 wen2
 authorSlug: guo-shou-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

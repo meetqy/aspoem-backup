@@ -6,10 +6,10 @@ titleSlug: dao-ai-tang
 author: 孫夢觀
 authorPinyin: sun1 meng4 guan1
 authorSlug: sun-meng-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

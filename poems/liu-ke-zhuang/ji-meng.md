@@ -6,21 +6,25 @@ titleSlug: ji-meng
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 父兄誨我髧髦初，老不成名鬢髮疎。
-- 紙帳鐵檠風雪夜，夢中猶誦小時書。
+- 昔夢趨旃厦，巍冠預講論。
+- 孤忠鄙張禹，薄命類虞翻。
+- 稍覺芻言戇，徐瞻玉色溫。
+- 放臣絕朝謁，無路可酬恩。
 
 ## 拼音
 
-- fu4 xiong1 hui4 wo3 dan4 mao2 chu1 ， lao3 bu4 cheng2 ming2 bin4 fa4 shu1 。
-- zhi3 zhang4 tie3 qing2 feng1 xue3 ye4 ， meng4 zhong1 you2 song4 xiao3 shi2 shu1 。
+- xi1 meng4 qu1 zhan1 sha4 ， wei1 guan1 yu4 jiang3 lun4 。
+- gu1 zhong1 bi3 zhang1 yu3 ， bo2 ming4 lei4 yu2 fan1 。
+- shao1 jue2 chu2 yan2 zhuang4 ， xu2 zhan1 yu4 se4 wen1 。
+- fang4 chen2 jue2 chao2 ye4 ， wu2 lu4 ke3 chou2 en1 。
 
 ## 注释
 

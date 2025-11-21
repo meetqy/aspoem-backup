@@ -3,21 +3,21 @@ id: li-jing-chu-ye-chang-an-zuo
 title: 除夜長安作
 titlePinyin: chu2 ye4 chang2 an1 zuo4
 titleSlug: chu-ye-chang-an-zuo
-author: 李景
-authorPinyin: li3 jing3
+author: 李京
+authorPinyin: li3 jing1
 authorSlug: li-jing
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 長安朔風起，窮巷掩雙扉。
 - 新歲明朝是，故鄉何路歸。
-- 鬢絲饒鏡色，隟雪奪燈輝。
-- 却羨秦州鴈，逢春盡北飛。
+- 鬢絲饒鏡色，隙雪奪燈輝。
+- 却羨秦州雁，逢春盡北飛。
 
 ## 拼音
 

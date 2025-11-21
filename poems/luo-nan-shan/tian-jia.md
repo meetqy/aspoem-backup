@@ -6,10 +6,10 @@ titleSlug: tian-jia
 author: 羅南山
 authorPinyin: luo2 nan2 shan1
 authorSlug: luo-nan-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

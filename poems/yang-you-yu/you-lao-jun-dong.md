@@ -6,10 +6,10 @@ titleSlug: you-lao-jun-dong
 author: 楊幼輿
 authorPinyin: yang2 you4 yu2
 authorSlug: yang-you-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

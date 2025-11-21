@@ -1,26 +1,26 @@
 ---
 id: shi-zhi-peng-ji-song-yi-bai-liu-shi-jiu-shou-qi-ba
-title: 偈頌一百六十九首  其八
-titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 ba1
+title: 偈頌一百六十九首  其八○
+titlePinyin: ji4 song4 yi4 bai3 liu4 shi2 jiu3 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-liu-shi-jiu-shou-qi-ba
 author: 釋智朋
 authorPinyin: shi4 zhi4 peng2
 authorSlug: shi-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋雨凄凄，秋雲黯黯。
-- 修成八萬四千斧，不比尋常三五圓。
+- 杓柄人人入手來，莫隨顛倒自沉埋。
+- 普天匝地無回互，黄面瞿曇出母胎。
 
 ## 拼音
 
-- qiu1 yu3 qi1 qi1 ， qiu1 yun2 an4 an4 。
-- xiu1 cheng2 ba1 wan4 si4 qian1 fu3 ， bu4 bi3 xun2 chang2 san1 wu3 yuan2 。
+- shao2 bing3 ren2 ren2 ru4 shou3 lai2 ， mo4 sui2 dian1 dao3 zi4 chen2 mai2 。
+- pu3 tian1 za1 di4 wu2 hui2 hu4 ， huang2 mian4 qu2 tan2 chu1 mu3 tai1 。
 
 ## 注释
 

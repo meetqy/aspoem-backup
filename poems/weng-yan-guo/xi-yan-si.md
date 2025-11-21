@@ -6,10 +6,10 @@ titleSlug: xi-yan-si
 author: 翁彥國
 authorPinyin: weng1 yan4 guo2
 authorSlug: weng-yan-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

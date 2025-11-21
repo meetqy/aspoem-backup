@@ -6,10 +6,10 @@ titleSlug: bian-feng-ji-xi-se-shi-gao-deng-ge-yi-wu-shi-liu-zi-yong-he-ji-rang
 author: 武衍
 authorPinyin: wu3 yan3
 authorSlug: wu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

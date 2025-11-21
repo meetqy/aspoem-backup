@@ -6,10 +6,10 @@ titleSlug: xi-lou
 author: 王亙
 authorPinyin: wang2 gen4
 authorSlug: wang-gen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

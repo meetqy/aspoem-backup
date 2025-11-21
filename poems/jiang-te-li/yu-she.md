@@ -6,21 +6,25 @@ titleSlug: yu-she
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漁舍時時須一到，水光山色浄相親。
-- 玉肌花貌不須替，自有陽臺行雨人。
+- 漁舍枕滄灣，如游赤壁間。
+- 羨魚雖迹似，匪釣却心閒。
+- 松古龍千尺，溪清玉一環。
+- 無人相伴醉，沙觜弄潺湲。
 
 ## 拼音
 
-- yu2 she4 shi2 shi2 xu1 yi2 dao4 ， shui3 guang1 shan1 se4 jing4 xiang1 qin1 。
-- yu4 ji1 hua1 mao4 bu4 xu1 ti4 ， zi4 you3 yang2 tai2 xing2 yu3 ren2 。
+- yu2 she4 zhen3 cang1 wan1 ， ru2 you2 chi4 bi4 jian4 。
+- xian4 yu2 sui1 ji4 si4 ， fei3 diao4 que4 xin1 xian2 。
+- song1 gu3 long2 qian1 chi3 ， xi1 qing1 yu4 yi4 huan2 。
+- wu2 ren2 xiang1 ban4 zui4 ， sha1 zi1 nong4 chan2 yuan2 。
 
 ## 注释
 

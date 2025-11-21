@@ -6,10 +6,10 @@ titleSlug: ying-cui-lou-zi-fu
 author: 梁文奎
 authorPinyin: liang2 wen2 kui2
 authorSlug: liang-wen-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -15,16 +15,16 @@ tags: []
 ## 正文
 
 - 舊眷終無替，流光自足悲。
-- 攀條感花萼，和曲許塤箎。
-- 前會成春夢，何人更己知。
-- 緣情聊借喻，爭敢道言詩。
+- 攀條感花萼，和曲許塤篪。
+- 前會成春夢，和人更己知。
+- 緣情聊借喻，爭取道言詩。
 
 ## 拼音
 
 - jiu4 juan4 zhong1 wu2 ti4 ， liu2 guang1 zi4 zu2 bei1 。
 - pan1 tiao2 gan3 hua1 e4 ， he2 qu3 xu1 xun1 chi2 。
 - qian2 hui4 cheng2 chun1 meng4 ， he2 ren2 geng4 ji3 zhi1 。
-- yuan2 qing2 liao2 jie4 yu4 ， zheng1 gan3 dao4 yan2 shi1 。
+- yuan2 qing2 liao2 jie4 yu4 ， zheng1 qu3 dao4 yan2 shi1 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: shi-shao-song-shan-ju-ji-shi-qi-yi
-title: 山居即事  其一
-titlePinyin: shan1 ju1 ji2 shi4     qi2 yi1
+title: 山居即事  其一○
+titlePinyin: shan1 ju1 ji2 shi4     qi2 yi1 ○
 titleSlug: shan-ju-ji-shi-qi-yi
 author: 釋紹嵩
 authorPinyin: shi4 shao4 song1
 authorSlug: shi-shao-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何處成吾道，深居絕送迎。
-- 竹扉常晝掩，野徑得閑行。
-- 萬壑樹聲滿，千巖暑氣清。
-- 相看兩不厭，天際一山橫。
+- 老罷休無頼，吟詩報答閑。
+- 圓扉長寂寂，騰口任 {口顔}{口顔}。
+- 護塔雲偏重，棲林鳥自還。
+- 榮枯不經意，何用密防姦。
 
 ## 拼音
 
-- he2 chu3 cheng2 wu2 dao4 ， shen1 ju1 jue2 song4 ying2 。
-- zhu2 fei1 chang2 zhou4 yan3 ， ye3 jing4 de2 xian2 xing2 。
-- wan4 he4 shu4 sheng1 man3 ， qian1 yan2 shu3 qi4 qing1 。
-- xiang1 kan4 liang3 bu2 yan4 ， tian1 ji4 yi4 shan1 heng2 。
+- lao3 ba4 xiu1 wu2 lai4 ， yin2 shi1 bao4 da2 xian2 。
+- yuan2 fei1 chang2 ji4 ji4 ， teng2 kou3 ren4  { kou3 yan2 }{ kou3 yan2 }。
+- hu4 ta3 yun2 pian1 zhong4 ， qi1 lin2 niao3 zi4 huan2 。
+- rong2 ku1 bu4 jing1 yi4 ， he2 yong4 mi4 fang2 jian1 。
 
 ## 注释
 

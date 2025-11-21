@@ -6,10 +6,10 @@ titleSlug: you-bao-gai-yan
 author: 鄒應龍
 authorPinyin: zou1 ying1 long2
 authorSlug: zou-ying-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

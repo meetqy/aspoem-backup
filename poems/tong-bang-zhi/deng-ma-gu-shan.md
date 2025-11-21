@@ -6,10 +6,10 @@ titleSlug: deng-ma-gu-shan
 author: 童邦直
 authorPinyin: tong2 bang1 zhi2
 authorSlug: tong-bang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

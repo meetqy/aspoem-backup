@@ -6,10 +6,10 @@ titleSlug: wen-lin-lao-yu-ru-shan-jin-shao-yu-xiang-wei-cheng-xing-feng-ji-yi-ju
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

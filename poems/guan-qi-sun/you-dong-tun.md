@@ -6,10 +6,10 @@ titleSlug: you-dong-tun
 author: 關耆孫
 authorPinyin: guan1 qi2 sun1
 authorSlug: guan-qi-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

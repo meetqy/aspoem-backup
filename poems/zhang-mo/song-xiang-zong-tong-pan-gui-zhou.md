@@ -6,10 +6,10 @@ titleSlug: song-xiang-zong-tong-pan-gui-zhou
 author: 張鏌
 authorPinyin: zhang1 mo4
 authorSlug: zhang-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

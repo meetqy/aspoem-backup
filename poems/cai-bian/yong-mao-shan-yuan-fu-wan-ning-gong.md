@@ -6,10 +6,10 @@ titleSlug: yong-mao-shan-yuan-fu-wan-ning-gong
 author: 蔡卞
 authorPinyin: cai4 bian4
 authorSlug: cai-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

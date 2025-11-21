@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠徑平平擺地尖，花毬亭下總相兼。
-- 時來奮撃争多勝，格令輸贏不畏嚴。
+- 鳳口金爐鏤葉華，高低曲折勢交加。
+- 新春品制名三傑，四和濃熏不足誇。
 
 ## 拼音
 
-- lü4 jing4 ping2 ping2 bai3 di4 jian1 ， hua1 qiu2 ting2 xia4 zong3 xiang1 jian1 。
-- shi2 lai2 fen4 ji1 zheng1 duo1 sheng4 ， ge2 ling4 shu1 ying2 bu2 wei4 yan2 。
+- feng4 kou3 jin1 lu2 lou4 ye4 hua2 ， gao1 di1 qu1 zhe2 shi4 jiao1 jia1 。
+- xin1 chun1 pin3 zhi4 ming2 san1 jie2 ， si4 he2 nong2 xun1 bu4 zu2 kua1 。
 
 ## 注释
 

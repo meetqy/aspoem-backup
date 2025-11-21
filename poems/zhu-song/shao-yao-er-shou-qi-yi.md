@@ -6,21 +6,21 @@ titleSlug: shao-yao-er-shou-qi-yi
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 紅顔素臉出春殘，裊裊傳傳態自完。
-- 聞道揚州冠天下，何年跨鶴往吟看。
+- 露壓珍叢粉自勻，日欹蔫萼態殊真。
+- 未成跨鶴腰金去，先醉揚州十里春。
 
 ## 拼音
 
-- hong2 yan2 su4 lian3 chu1 chun1 can2 ， niao3 niao3 chuan2 chuan2 tai4 zi4 wan2 。
-- wen2 dao4 yang2 zhou1 guan1 tian1 xia4 ， he2 nian2 kua4 he4 wang3 yin2 kan4 。
+- lu4 ya1 zhen1 cong2 fen3 zi4 yun2 ， ri4 qi1 nian1 e4 tai4 shu1 zhen1 。
+- wei4 cheng2 kua4 he4 yao1 jin1 qu4 ， xian1 zui4 yang2 zhou1 shi2 li3 chun1 。
 
 ## 注释
 

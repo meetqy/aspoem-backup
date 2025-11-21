@@ -6,10 +6,10 @@ titleSlug: zui-mian-ting
 author: 李行中
 authorPinyin: li3 xing2 zhong1
 authorSlug: li-xing-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

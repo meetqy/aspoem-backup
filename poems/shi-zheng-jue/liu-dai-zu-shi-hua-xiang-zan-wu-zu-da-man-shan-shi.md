@@ -6,9 +6,9 @@ titleSlug: liu-dai-zu-shi-hua-xiang-zan-wu-zu-da-man-shan-shi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

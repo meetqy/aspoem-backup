@@ -6,10 +6,10 @@ titleSlug: tong-lin-jie-fu-you-mei-yu-tan-he-yun
 author: 李鈞
 authorPinyin: li3 jun1
 authorSlug: li-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: guo-xiang-zheng-you-xian-yi-shi-jiu-shou-qi-yi
-title: 游仙一十九首  其一
-titlePinyin: you2 xian1 yi4 shi2 jiu3 shou3     qi2 yi1
+title: 游仙一十九首  其一○
+titlePinyin: you2 xian1 yi4 shi2 jiu3 shou3     qi2 yi1 ○
 titleSlug: you-xian-yi-shi-jiu-shou-qi-yi
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漠漠出寒霧，悠悠趨太清。
-- 珠樓被重綃，靈花紛素馨。
-- 青衣捧綠章，磨丹書姓名。
-- 爲我横玉笛，一奏雌龍聲。
+- 峨峨金精巾，飄飄清霞裙。
+- 手持紫毛節，身乘三素雲。
+- 駕言欲何適，上朝玉宸君。
+- 隱書謝所賜，洞明道之根。
 
 ## 拼音
 
-- mo4 mo4 chu1 han2 wu4 ， you1 you1 qu1 tai4 qing1 。
-- zhu1 lou2 bei4 zhong4 xiao1 ， ling2 hua1 fen1 su4 xin1 。
-- qing1 yi1 peng3 lü4 zhang1 ， mo2 dan1 shu1 xing4 ming2 。
-- wei2 wo3 heng2 yu4 di2 ， yi2 zou4 ci2 long2 sheng1 。
+- e2 e2 jin1 jing1 jin1 ， piao1 piao1 qing1 xia2 qun2 。
+- shou3 chi2 zi3 mao2 jie2 ， shen1 cheng2 san1 su4 yun2 。
+- jia4 yan2 yu4 he2 shi4 ， shang4 chao2 yu4 chen2 jun1 。
+- yin3 shu1 xie4 suo3 ci4 ， dong4 ming2 dao4 zhi1 gen1 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: ou-cheng-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淫淫梅子雨，靡靡上郭山。
-- 山既遶籬外，雨復濕窗間。
-- 林深葉葱蒨，地偏水潺湲。
-- 鵲噪雞鳴午，風定白雲還。
+- 連陰却喜社能晴，雨淡桃花滿澗生。
+- 幾樹正依流水上，曉風吹動日華明。
 
 ## 拼音
 
-- yin2 yin2 mei2 zi0 yu3 ， mi2 mi2 shang4 guo1 shan1 。
-- shan1 ji4 rao4 li2 wai4 ， yu3 fu4 shi1 chuang1 jian4 。
-- lin2 shen1 ye4 cong1 qian4 ， di4 pian1 shui3 chan2 yuan2 。
-- que4 zao4 ji1 ming2 wu3 ， feng1 ding4 bai2 yun2 huan2 。
+- lian2 yin1 que4 xi3 she4 neng2 qing2 ， yu3 dan4 tao2 hua1 man3 jian4 sheng1 。
+- ji1 shu4 zheng4 yi1 liu2 shui3 shang4 ， xiao3 feng1 chui1 dong4 ri4 hua2 ming2 。
 
 ## 注释
 

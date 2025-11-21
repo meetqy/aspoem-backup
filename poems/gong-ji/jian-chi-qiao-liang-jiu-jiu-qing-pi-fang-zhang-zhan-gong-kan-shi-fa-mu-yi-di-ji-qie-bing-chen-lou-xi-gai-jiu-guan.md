@@ -6,10 +6,10 @@ titleSlug: jian-chi-qiao-liang-jiu-jiu-qing-pi-fang-zhang-zhan-gong-kan-shi-fa-m
 author: 龔潗
 authorPinyin: gong1 ji2
 authorSlug: gong-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

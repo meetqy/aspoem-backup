@@ -6,10 +6,10 @@ titleSlug: er-zi-xian-hua-yan-lao-ren-zuo-jiang-tian-reng-zuo-shi-ming-xian-shu-
 author: 龔開
 authorPinyin: gong1 kai1
 authorSlug: gong-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

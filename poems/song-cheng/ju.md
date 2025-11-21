@@ -6,10 +6,10 @@ titleSlug: ju
 author: 宋成
 authorPinyin: song4 cheng2
 authorSlug: song-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

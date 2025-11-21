@@ -6,25 +6,25 @@ titleSlug: ji-chen-zheng-ji
 author: 曾極
 authorPinyin: ceng2 ji2
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 扊扅深閉斷經過，倒摺塵編且卧痾。
-- 九十日春晴景少，一千年事亂時多。
-- 吟成楚些翻愁絕，鬢染吳霜奈老何。
-- 心鐵正堅思急試，憶君中夜起悲歌。
+- 十載憂迫髮半華，東山有意凈胡沙。
+- 公車戰策三千牘，腹笥兵書五十家。
+- 好佩青萍光奪月，莫驚赤羽氣成霞。
+- 嗟予本亦輕生者，欲渡黄海擲馬撾。
 
 ## 拼音
 
-- yan3 yi2 shen1 bi4 duan4 jing1 guo4 ， dao3 zhe2 chen2 bian1 qie3 wo4 ke1 。
-- jiu3 shi2 ri4 chun1 qing2 jing3 shao3 ， yi4 qian1 nian2 shi4 luan4 shi2 duo1 。
-- yin2 cheng2 chu3 xie1 fan1 chou2 jue2 ， bin4 ran3 wu2 shuang1 nai4 lao3 he2 。
-- xin1 tie3 zheng4 jian1 si1 ji2 shi4 ， yi4 jun1 zhong1 ye4 qi3 bei1 ge1 。
+- shi2 zai4 you1 po4 fa4 ban4 hua2 ， dong1 shan1 you3 yi4 jing4 hu2 sha1 。
+- gong1 ju1 zhan4 ce4 san1 qian1 du2 ， fu4 si4 bing1 shu1 wu3 shi2 jia1 。
+- hao3 pei4 qing1 ping2 guang1 duo2 yue4 ， mo4 jing1 chi4 yu3 qi4 cheng2 xia2 。
+- jie1 yu3 ben3 yi4 qing1 sheng1 zhe3 ， yu4 du4 huang2 hai3 zhi4 ma3 zhua1 。
 
 ## 注释
 

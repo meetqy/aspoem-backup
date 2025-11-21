@@ -6,10 +6,10 @@ titleSlug: ji-san-shou-qi-san
 author: 釋本逸
 authorPinyin: shi4 ben3 yi4
 authorSlug: shi-ben-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

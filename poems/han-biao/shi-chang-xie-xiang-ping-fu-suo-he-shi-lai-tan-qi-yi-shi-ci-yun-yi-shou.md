@@ -6,10 +6,10 @@ titleSlug: shi-chang-xie-xiang-ping-fu-suo-he-shi-lai-tan-qi-yi-shi-ci-yun-yi-sh
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

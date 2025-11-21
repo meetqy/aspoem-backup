@@ -6,10 +6,10 @@ titleSlug: chong-jiu-qian-yi-ri-yu-he-hui-qing-zhu-you-fen-yun-de-ri-zi-jin-ti-y
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

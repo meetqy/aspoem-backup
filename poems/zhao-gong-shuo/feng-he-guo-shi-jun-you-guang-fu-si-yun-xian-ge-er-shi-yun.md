@@ -6,10 +6,10 @@ titleSlug: feng-he-guo-shi-jun-you-guang-fu-si-yun-xian-ge-er-shi-yun
 author: 趙公碩
 authorPinyin: zhao4 gong1 shuo4
 authorSlug: zhao-gong-shuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

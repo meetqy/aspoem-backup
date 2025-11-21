@@ -1,30 +1,30 @@
 ---
 id: zhang-yuan-gan-shang-zhang-cheng-xiang-shi-shou-qi-yi
-title: 上張丞相十首  其一
-titlePinyin: shang4 zhang1 cheng2 xiang4 shi2 shou3     qi2 yi1
+title: 上張丞相十首  其一○
+titlePinyin: shang4 zhang1 cheng2 xiang4 shi2 shou3     qi2 yi1 ○
 titleSlug: shang-zhang-cheng-xiang-shi-shou-qi-yi
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 閩粵諸侯地，春風盡去思。
-- 三年歌德政，萬戶繪生祠。
-- 位極聊方伯，謀深必帝師。
-- 待公安社稷，四海被恩私。
+- 簪紱久已棄，行裝今甚疲。
+- 買山如畧辦，畢娶更奚爲。
+- 小築開三徑，躬耕趁一犁。
+- 賴公霖雨手，忍賦語離詩。
 
 ## 拼音
 
-- min3 yue4 zhu1 hou2 di4 ， chun1 feng1 jin4 qu4 si1 。
-- san1 nian2 ge1 de2 zheng4 ， wan4 hu4 hui4 sheng1 ci2 。
-- wei4 ji2 liao2 fang1 bo2 ， mou2 shen1 bi4 di4 shi1 。
-- dai4 gong1 an1 she4 ji4 ， si4 hai3 bei4 en1 si1 。
+- zan1 fu2 jiu3 yi3 qi4 ， xing2 zhuang1 jin1 shen4 pi2 。
+- mai3 shan1 ru2 lüe4 ban4 ， bi4 qu3 geng4 xi1 wei2 。
+- xiao3 zhu4 kai1 san1 jing4 ， gong1 geng1 chen4 yi4 li2 。
+- lai4 gong1 lin2 yu3 shou3 ， ren3 fu4 yu3 li2 shi1 。
 
 ## 注释
 

@@ -3,22 +3,22 @@ id: wang-fu-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王復
-authorPinyin: wang2 fu4
+author: 王鈇
+authorPinyin: wang2 fu1
 authorSlug: wang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早秋蟬有信，多雨暑無權。
+- 誰言淹泊意，無酒爲澆胸。
 
 ## 拼音
 
-- zao3 qiu1 chan2 you3 xin4 ， duo1 yu3 shu3 wu2 quan2 。
+- shui2 yan2 yan1 bo2 yi4 ， wu2 jiu3 wei2 jiao1 xiong1 。
 
 ## 注释
 

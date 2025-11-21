@@ -9,22 +9,22 @@ authorSlug: du-mu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 故交相見稀，相見倍依依。
-- 塵路事不盡，雲巖閑好歸。
-- 投人銷壯志，徇俗變真機。
-- 又落他鄉淚，風前一滿衣。
+- 年年不相見，相見却成悲。
+- 教我淚如霰，嗟君髪似絲。
+- 正傷攜手處，況值落花時。
+- 莫惜今宵醉，人間忽忽期。
 
 ## 拼音
 
-- gu4 jiao1 xiang4 jian4 xi1 ， xiang1 jian4 bei4 yi1 yi1 。
-- chen2 lu4 shi4 bu2 jin4 ， yun2 yan2 xian2 hao3 gui1 。
-- tou2 ren2 xiao1 zhuang4 zhi4 ， xun4 su2 bian4 zhen1 ji1 。
-- you4 luo4 ta1 xiang1 lei4 ， feng1 qian2 yi4 man3 yi1 。
+- nian2 nian2 bu4 xiang1 jian4 ， xiang1 jian4 que4 cheng2 bei1 。
+- jiao4 wo3 lei4 ru2 xian4 ， jie1 jun1 fa4 si4 si1 。
+- zheng4 shang1 xie2 shou3 chu3 ， kuang4 zhi2 luo4 hua1 shi2 。
+- mo4 xi1 jin1 xiao1 zui4 ， ren2 jian4 hu1 hu1 qi1 。
 
 ## 注释
 

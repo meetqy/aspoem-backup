@@ -6,10 +6,10 @@ titleSlug: song-gu-san-shou-qi-er
 author: 釋宗印
 authorPinyin: shi4 zong1 yin4
 authorSlug: shi-zong-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

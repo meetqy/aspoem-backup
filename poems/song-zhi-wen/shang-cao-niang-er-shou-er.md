@@ -9,18 +9,18 @@ authorSlug: song-zhi-wen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 河伯憐嬌態，馮夷要姝妓。
-- 寄言遊戲人，莫弄黃河水。
+- 前溪妙舞今應盡，子夜新歌遂不傳。
+- 無復綺羅嬌白日，直將珠玉閉黃泉。
 
 ## 拼音
 
-- he2 bo2 lian2 jiao1 tai4 ， feng2 yi2 yao4 shu1 ji4 。
-- ji4 yan2 you2 xi4 ren2 ， mo4 nong4 huang2 he2 shui3 。
+- qian2 xi1 miao4 wu3 jin1 ying1 jin4 ， zi3 ye4 xin1 ge1 sui4 bu4 chuan2 。
+- wu2 fu4 qi3 luo2 jiao1 bai2 ri4 ， zhi2 jiang1 zhu1 yu4 bi4 huang2 quan2 。
 
 ## 注释
 

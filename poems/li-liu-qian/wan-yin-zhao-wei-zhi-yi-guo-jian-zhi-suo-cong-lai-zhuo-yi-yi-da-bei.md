@@ -6,10 +6,10 @@ titleSlug: wan-yin-zhao-wei-zhi-yi-guo-jian-zhi-suo-cong-lai-zhuo-yi-yi-da-bei
 author: 李流謙
 authorPinyin: li3 liu2 qian1
 authorSlug: li-liu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

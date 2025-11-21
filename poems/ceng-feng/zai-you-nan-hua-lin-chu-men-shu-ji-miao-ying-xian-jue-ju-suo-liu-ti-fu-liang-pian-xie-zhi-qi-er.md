@@ -6,10 +6,10 @@ titleSlug: zai-you-nan-hua-lin-chu-men-shu-ji-miao-ying-xian-jue-ju-suo-liu-ti-f
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

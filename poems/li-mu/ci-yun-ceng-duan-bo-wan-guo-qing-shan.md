@@ -6,9 +6,9 @@ titleSlug: ci-yun-ceng-duan-bo-wan-guo-qing-shan
 author: 李牧
 authorPinyin: li3 mu4
 authorSlug: li-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,25 +6,25 @@ titleSlug: shu-tan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 早得虚名翰墨林，謝歸忽已歲時侵。
-- 春郊射雉朝盤馬，秋院焚香夜弄琴。
-- 病酒閉門常兀兀，哦詩袖手久愔愔。
-- 浮沉不是忘經世，後有仁人識此心。
+- 髧髦承學紹興前，歷看人間七十年。
+- 撲滿終歸棄道側，鴟夷猶得載車邊。
+- 釣船夜泛吳江月，醉眼秋看楚澤天。
+- 造物未容書鬼錄，殘春又藉落花眠。
 
 ## 拼音
 
-- zao3 de2 xu1 ming2 han4 mo4 lin2 ， xie4 gui1 hu1 yi3 sui4 shi2 qin1 。
-- chun1 jiao1 she4 zhi4 chao2 pan2 ma3 ， qiu1 yuan4 fen2 xiang1 ye4 nong4 qin2 。
-- bing4 jiu3 bi4 men2 chang2 wu4 wu4 ， o4 shi1 xiu4 shou3 jiu3 yin1 yin1 。
-- fu2 chen2 bu2 shi4 wang4 jing1 shi4 ， hou4 you3 ren2 ren2 shi2 ci3 xin1 。
+- dan4 mao2 cheng2 xue2 shao4 xing1 qian2 ， li4 kan4 ren2 jian4 qi1 shi2 nian2 。
+- pu1 man3 zhong1 gui1 qi4 dao4 ce4 ， chi1 yi2 you2 de2 zai4 ju1 bian1 。
+- diao4 chuan2 ye4 fan4 wu2 jiang1 yue4 ， zui4 yan3 qiu1 kan4 chu3 ze2 tian1 。
+- zao4 wu4 wei4 rong2 shu1 gui3 lu4 ， can2 chun1 you4 jie4 luo4 hua1 mian2 。
 
 ## 注释
 

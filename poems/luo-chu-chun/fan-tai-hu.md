@@ -6,10 +6,10 @@ titleSlug: fan-tai-hu
 author: 羅處純
 authorPinyin: luo2 chu3 chun2
 authorSlug: luo-chu-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

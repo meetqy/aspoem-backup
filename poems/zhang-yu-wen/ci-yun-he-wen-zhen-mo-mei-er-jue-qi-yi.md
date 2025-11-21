@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-wen-zhen-mo-mei-er-jue-qi-yi
 author: 張于文
 authorPinyin: zhang1 yu2 wen2
 authorSlug: zhang-yu-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

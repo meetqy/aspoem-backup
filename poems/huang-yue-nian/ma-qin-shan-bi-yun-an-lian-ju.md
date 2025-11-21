@@ -6,10 +6,10 @@ titleSlug: ma-qin-shan-bi-yun-an-lian-ju
 author: 黄岳年
 authorPinyin: huang2 yue4 nian2
 authorSlug: huang-yue-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

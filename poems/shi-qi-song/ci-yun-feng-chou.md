@@ -6,25 +6,25 @@ titleSlug: ci-yun-feng-chou
 author: 釋契嵩
 authorPinyin: shi4 qi4 song1
 authorSlug: shi-qi-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君事逍遥入亂雲，與君躡屐遍溪鄰。
-- 林間聽鳥聞偏好，烟際觀山見匪真。
-- 澗水只能忙送客，岩花不解久留人。
-- 樂天更有龍門約，勝會應須趁早春。
+- 暝色陰森雪和雲，故人當此動吟魂。
+- 烟凝火冷萬家靜，水色山光竟夜昏。
+- 興發晉賢前古遠，詩傳蕭寺邇今存。
+- 春歸嵓壑多芳樹，漫欲邀君同聽猿。
 
 ## 拼音
 
-- jun1 shi4 xiao1 yao2 ru4 luan4 yun2 ， yu3 jun1 nie4 ji1 bian4 xi1 lin2 。
-- lin2 jian4 ting1 niao3 wen2 pian1 hao4 ， yan1 ji4 guan1 shan1 jian4 fei3 zhen1 。
-- jian4 shui3 zhi3 neng2 mang2 song4 ke4 ， yan2 hua1 bu4 jie3 jiu3 liu2 ren2 。
-- le4 tian1 geng4 you3 long2 men2 yue1 ， sheng4 hui4 ying1 xu1 chen4 zao3 chun1 。
+- ming2 se4 yin1 sen1 xue3 he2 yun2 ， gu4 ren2 dang1 ci3 dong4 yin2 hun2 。
+- yan1 ning2 huo3 leng3 wan4 jia1 jing4 ， shui3 se4 shan1 guang1 jing4 ye4 hun1 。
+- xing1 fa1 jin4 xian2 qian2 gu3 yuan3 ， shi1 chuan2 xiao1 si4 er3 jin1 cun2 。
+- chun1 gui1 yan2 he4 duo1 fang1 shu4 ， man4 yu4 yao1 jun1 tong2 ting1 yuan2 。
 
 ## 注释
 

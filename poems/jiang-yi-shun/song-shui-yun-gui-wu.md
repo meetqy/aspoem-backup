@@ -6,10 +6,10 @@ titleSlug: song-shui-yun-gui-wu
 author: 蔣懿順
 authorPinyin: jiang3 yi4 shun4
 authorSlug: jiang-yi-shun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

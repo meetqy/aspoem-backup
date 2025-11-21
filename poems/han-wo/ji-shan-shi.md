@@ -9,22 +9,18 @@ authorSlug: han-wo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 他心明與此心同，妙用忘言理暗通。
-- 氣運陰陽成世界，水浮天地寄虛空。
-- 劫灰聚散銖錙黑，日御奔馳繭栗紅。
-- 萬物盡遭風鼓動，唯應禪室靜無風。
+- 從無入有雲峰聚，已有還無電火銷。
+- 銷聚本來皆是幻，世間閑口漫囂囂。
 
 ## 拼音
 
-- ta1 xin1 ming2 yu3 ci3 xin1 tong2 ， miao4 yong4 wang4 yan2 li3 an4 tong1 。
-- qi4 yun4 yin1 yang2 cheng2 shi4 jie4 ， shui3 fu2 tian1 di4 ji4 xu1 kong1 。
-- jie2 hui1 ju4 san4 zhu1 zi1 hei1 ， ri4 yu4 ben1 chi2 jian3 li4 hong2 。
-- wan4 wu4 jin4 zao1 feng1 gu3 dong4 ， wei2 ying1 shan4 shi4 jing4 wu2 feng1 。
+- cong2 wu2 ru4 you3 yun2 feng1 ju4 ， yi3 you3 huan2 wu2 dian4 huo3 xiao1 。
+- xiao1 ju4 ben3 lai2 jie1 shi4 huan4 ， shi4 jian4 xian2 kou3 man4 xiao1 xiao1 。
 
 ## 注释
 

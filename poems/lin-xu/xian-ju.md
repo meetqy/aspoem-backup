@@ -6,10 +6,10 @@ titleSlug: xian-ju
 author: 林緒
 authorPinyin: lin2 xu4
 authorSlug: lin-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

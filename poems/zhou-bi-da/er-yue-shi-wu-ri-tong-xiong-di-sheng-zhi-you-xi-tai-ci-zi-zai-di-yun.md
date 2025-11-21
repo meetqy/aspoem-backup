@@ -6,10 +6,10 @@ titleSlug: er-yue-shi-wu-ri-tong-xiong-di-sheng-zhi-you-xi-tai-ci-zi-zai-di-yun
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

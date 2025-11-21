@@ -6,10 +6,10 @@ titleSlug: chen-jun-yu-yi-xiao-ji-jian-gui-yong-yu-huan-cheng-zhai-chao-tian-xu-
 author: 姜夔
 authorPinyin: jiang1 kui2
 authorSlug: jiang-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

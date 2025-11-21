@@ -6,25 +6,29 @@ titleSlug: he-wei-zhi
 author: 韓維
 authorPinyin: han2 wei2
 authorSlug: han-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 庭訟蕭然晝景清，每因閑暇接耆英。
-- 言詩屢奉從容論，對酒常懷淡泊情。
-- 解秩尚思嵩嶠色，入朝還聽禁鐘聲。
-- 憐君壯歲多留滯，不盡鵬摶九萬程。
+- 早接忠賢論，常欽古學風。
+- 何期華髪後，更得綠樽同。
+- 遠水秋光外，高亭夕照中。
+- 芡盤凋晚翠，菊艷奪春紅。
+- 歌放聊娛老，談精本代工。
+- 歡餘笑張翰，迢遞想江東。
 
 ## 拼音
 
-- ting2 song4 xiao1 ran2 zhou4 jing3 qing1 ， mei3 yin1 xian2 xia2 jie1 qi2 ying1 。
-- yan2 shi1 lü3 feng4 cong2 rong2 lun4 ， dui4 jiu3 chang2 huai2 dan4 bo2 qing2 。
-- jie3 zhi4 shang4 si1 song1 jiao4 se4 ， ru4 chao2 huan2 ting1 jin4 zhong1 sheng1 。
-- lian2 jun1 zhuang4 sui4 duo1 liu2 zhi4 ， bu2 jin4 peng2 tuan2 jiu3 wan4 cheng2 。
+- zao3 jie1 zhong1 xian2 lun4 ， chang2 qin1 gu3 xue2 feng1 。
+- he2 qi1 hua2 fa4 hou4 ， geng4 de2 lü4 zun1 tong2 。
+- yuan3 shui3 qiu1 guang1 wai4 ， gao1 ting2 xi1 zhao4 zhong1 。
+- qian4 pan2 diao1 wan3 cui4 ， ju2 yan4 duo2 chun1 hong2 。
+- ge1 fang4 liao2 yu2 lao3 ， tan2 jing1 ben3 dai4 gong1 。
+- huan1 yu2 xiao4 zhang1 han4 ， tiao2 di4 xiang3 jiang1 dong1 。
 
 ## 注释
 

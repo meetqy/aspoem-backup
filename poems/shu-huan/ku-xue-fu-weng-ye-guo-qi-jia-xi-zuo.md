@@ -6,10 +6,10 @@ titleSlug: ku-xue-fu-weng-ye-guo-qi-jia-xi-zuo
 author: 舒煥
 authorPinyin: shu1 huan4
 authorSlug: shu-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

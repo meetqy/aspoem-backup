@@ -6,10 +6,10 @@ titleSlug: chang-jiao-yu-yu-yuan-shu-jian-cui-xin-chan-hu-ming-ji-er-liao-li-jiu
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

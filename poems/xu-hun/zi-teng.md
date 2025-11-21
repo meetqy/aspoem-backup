@@ -9,22 +9,18 @@ authorSlug: xu-hun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 綠蘿縈數匝，本在草堂間。
-- 秋色寄高樹，晝陰籠遠山。
-- 移花疎處種，劚藥困時攀。
-- 日暮微風起，難尋舊徑還。
+- 綠蔓穠陰紫袖低，客來留坐小堂西。
+- 醉中掩瑟無人會，家近江南罨畫溪。
 
 ## 拼音
 
-- lü4 luo2 ying2 shu4 za1 ， ben3 zai4 cao3 tang2 jian4 。
-- qiu1 se4 ji4 gao1 shu4 ， zhou4 yin1 long2 yuan3 shan1 。
-- yi2 hua1 shu1 chu3 zhong3 ， zhu2 yao4 kun4 shi2 pan1 。
-- ri4 mu4 wei1 feng1 qi3 ， nan2 xun2 jiu4 jing4 huan2 。
+- lü4 man4 nong2 yin1 zi3 xiu4 di1 ， ke4 lai2 liu2 zuo4 xiao3 tang2 xi1 。
+- zui4 zhong1 yan3 se4 wu2 ren2 hui4 ， jia1 jin4 jiang1 nan2 yan3 hua4 xi1 。
 
 ## 注释
 

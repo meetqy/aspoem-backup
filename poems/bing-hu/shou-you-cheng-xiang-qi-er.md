@@ -6,10 +6,10 @@ titleSlug: shou-you-cheng-xiang-qi-er
 author: 冰壺
 authorPinyin: bing1 hu2
 authorSlug: bing-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

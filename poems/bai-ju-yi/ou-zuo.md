@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紅杏初生葉，青梅已綴枝。
-- 闌珊花落後，寂寞酒醒時。
-- 坐悶低眉久，行慵舉足遲。
-- 少年君莫怪，頭白自應知。
+- 籃舁出即忘歸舍，柴戶昏猶未掩關。
+- 聞客病時慙體健，見人忙處覺心閑。
+- 清涼秋寺行香去，和暖春城拜表還。
+- 木雁一篇須記取，致身才與不才間。
 
 ## 拼音
 
-- hong2 xing4 chu1 sheng1 ye4 ， qing1 mei2 yi3 zhui4 zhi1 。
-- lan2 shan1 hua1 luo4 hou4 ， ji4 mo4 jiu3 xing3 shi2 。
-- zuo4 men4 di1 mei2 jiu3 ， xing2 yong1 ju3 zu2 chi2 。
-- shao4 nian2 jun1 mo4 guai4 ， tou2 bai2 zi4 ying1 zhi1 。
+- lan2 yu2 chu1 ji2 wang4 gui1 she4 ， chai2 hu4 hun1 you2 wei4 yan3 guan1 。
+- wen2 ke4 bing4 shi2 can2 ti3 jian4 ， jian4 ren2 mang2 chu3 jue2 xin1 xian2 。
+- qing1 liang2 qiu1 si4 xing2 xiang1 qu4 ， he2 nuan3 chun1 cheng2 bai4 biao3 huan2 。
+- mu4 yan4 yi4 pian1 xu1 ji4 qu3 ， zhi4 shen1 cai2 yu3 bu4 cai2 jian4 。
 
 ## 注释
 

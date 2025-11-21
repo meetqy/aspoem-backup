@@ -6,10 +6,10 @@ titleSlug: yan-gui-hua
 author: 鄭仲熊
 authorPinyin: zheng4 zhong4 xiong2
 authorSlug: zheng-zhong-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

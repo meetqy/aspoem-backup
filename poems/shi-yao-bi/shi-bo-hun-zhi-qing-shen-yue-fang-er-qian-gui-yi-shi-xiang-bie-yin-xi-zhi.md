@@ -6,10 +6,10 @@ titleSlug: shi-bo-hun-zhi-qing-shen-yue-fang-er-qian-gui-yi-shi-xiang-bie-yin-xi
 author: 史堯弼
 authorPinyin: shi3 yao2 bi4
 authorSlug: shi-yao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

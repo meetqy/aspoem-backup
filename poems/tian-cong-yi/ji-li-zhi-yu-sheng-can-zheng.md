@@ -6,10 +6,10 @@ titleSlug: ji-li-zhi-yu-sheng-can-zheng
 author: 田從易
 authorPinyin: tian2 cong2 yi4
 authorSlug: tian-cong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-ru-gu-ma-shang-qi-san
-title: 入谷馬上・其三
-titlePinyin: ru4 gu3 ma3 shang4・qi2 san1
+title: 入谷馬上  其三
+titlePinyin: ru4 gu3 ma3 shang4     qi2 san1
 titleSlug: ru-gu-ma-shang-qi-san
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

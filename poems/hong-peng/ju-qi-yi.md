@@ -1,24 +1,24 @@
 ---
 id: hong-peng-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 洪朋
 authorPinyin: hong2 peng2
 authorSlug: hong-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好在龍沙黄，俄入鸞江碧。
+- 官梅一樹小池頭。
 
 ## 拼音
 
-- hao3 zai4 long2 sha1 huang2 ， e2 ru4 luan2 jiang1 bi4 。
+- guan1 mei2 yi2 shu4 xiao3 chi2 tou2 。
 
 ## 注释
 

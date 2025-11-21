@@ -6,21 +6,21 @@ titleSlug: ti-ji-shi-ce
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 劃破虛空一劍間，六根同轉上頭關。
-- 如今宴坐菴中事，政在凡夫道法間。
+- 北山山下小菴居，佛劫仙塵只故吾。
+- 八萬四千空色界，不離一法認毘盧。
 
 ## 拼音
 
-- hua2 po4 xu1 kong1 yi2 jian4 jian4 ， liu4 gen1 tong2 zhuan3 shang4 tou2 guan1 。
-- ru2 jin1 yan4 zuo4 an1 zhong1 shi4 ， zheng4 zai4 fan2 fu1 dao4 fa3 jian4 。
+- bei3 shan1 shan1 xia4 xiao3 an1 ju1 ， fo2 jie2 xian1 chen2 zhi1 gu4 wu2 。
+- ba1 wan4 si4 qian1 kong1 se4 jie4 ， bu4 li2 yi4 fa3 ren4 pi2 lu2 。
 
 ## 注释
 

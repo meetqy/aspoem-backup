@@ -6,10 +6,10 @@ titleSlug: he-ren-sheng-nu
 author: 卓田
 authorPinyin: zhuo2 tian2
 authorSlug: zhuo-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

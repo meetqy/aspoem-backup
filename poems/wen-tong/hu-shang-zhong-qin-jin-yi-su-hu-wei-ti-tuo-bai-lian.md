@@ -1,14 +1,14 @@
 ---
 id: wen-tong-hu-shang-zhong-qin-jin-yi-su-hu-wei-ti-tuo-bai-lian
-title: 湖上衆禽盡以俗呼爲題・拖白練
-titlePinyin: hu2 shang4 zhong4 qin2 jin4 yi3 su2 hu1 wei2 ti2・tuo1 bai2 lian4
+title: 湖上衆禽盡以俗呼爲題 拖白練
+titlePinyin: hu2 shang4 zhong4 qin2 jin4 yi3 su2 hu1 wei2 ti2   tuo1 bai2 lian4
 titleSlug: hu-shang-zhong-qin-jin-yi-su-hu-wei-ti-tuo-bai-lian
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

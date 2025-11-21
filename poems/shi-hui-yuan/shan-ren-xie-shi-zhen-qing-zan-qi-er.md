@@ -1,34 +1,30 @@
 ---
 id: shi-hui-yuan-shan-ren-xie-shi-zhen-qing-zan-qi-er
-title: 禪人寫師真請讚  其二
-titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 er4
+title: 禪人寫師真請讚  其二○
+titlePinyin: shan4 ren2 xie3 shi1 zhen1 qing3 zan4     qi2 er4 ○
 titleSlug: shan-ren-xie-shi-zhen-qing-zan-qi-er
 author: 釋慧遠
 authorPinyin: shi4 hui4 yuan3
 authorSlug: shi-hui-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨步邪見林，高據魔王殿。
-- 說欺凡罔聖禪，現夜叉羅剎面。
-- 掀翻巨嶽，徹底放憨。
-- 打破牢關，突出難辨。
-- 阿呵呵，見也麽。
-- 到江吳地盡，隔岸越山多。
+- 面目可憎，語言無味。
+- 放箸忘恩，停杯斷義。
+- 參得些兒小玉禪，幾回賣弄帝王前。
+- 圓悟室中遭毒手，爲人揮起迸心拳。
 
 ## 拼音
 
-- du2 bu4 xie2 jian4 lin2 ， gao1 ju4 mo2 wang2 dian4 。
-- shuo1 qi1 fan2 wang3 sheng4 shan4 ， xian4 ye4 cha1 luo2 cha4 mian4 。
-- xian1 fan1 ju4 yue4 ， che4 di3 fang4 han1 。
-- da3 po4 lao2 guan1 ， tu1 chu1 nan2 bian4 。
-- a1 he1 he1 ， jian4 ye3 mo2 。
-- dao4 jiang1 wu2 di4 jin4 ， ge2 an4 yue4 shan1 duo1 。
+- mian4 mu4 ke3 zeng1 ， yu3 yan2 wu2 wei4 。
+- fang4 zhu4 wang4 en1 ， ting2 bei1 duan4 yi4 。
+- can1 de2 xie1 er2 xiao3 yu4 shan4 ， ji1 hui2 mai4 nong4 di4 wang2 qian2 。
+- yuan2 wu4 shi4 zhong1 zao1 du2 shou3 ， wei2 ren2 hui1 qi3 beng4 xin1 quan2 。
 
 ## 注释
 

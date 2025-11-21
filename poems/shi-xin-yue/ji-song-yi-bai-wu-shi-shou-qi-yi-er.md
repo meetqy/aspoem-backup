@@ -1,26 +1,26 @@
 ---
 id: shi-xin-yue-ji-song-yi-bai-wu-shi-shou-qi-yi-er
-title: 偈頌一百五十首  其一二
-titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 er4
+title: 偈頌一百五十首  其一二○
+titlePinyin: ji4 song4 yi4 bai3 wu3 shi2 shou3     qi2 yi1 er4 ○
 titleSlug: ji-song-yi-bai-wu-shi-shou-qi-yi-er
 author: 釋心月
 authorPinyin: shi4 xin1 yue4
 authorSlug: shi-xin-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一葉落，天下秋，布袋今朝又解頭。
-- 古路不曾生寸草，慈明何事過汾州。
+- 眼中物，物中眼。
+- 雪峰輥三箇毯，睦州擔一片板。
 
 ## 拼音
 
-- yi2 ye4 luo4 ， tian1 xia4 qiu1 ， bu4 dai4 jin1 zhao1 you4 jie3 tou2 。
-- gu3 lu4 bu4 ceng2 sheng1 cun4 cao3 ， ci2 ming2 he2 shi4 guo4 fen2 zhou1 。
+- yan3 zhong1 wu4 ， wu4 zhong1 yan3 。
+- xue3 feng1 gun3 san1 ge4 tan3 ， mu4 zhou1 dan1 yi2 pian4 ban3 。
 
 ## 注释
 

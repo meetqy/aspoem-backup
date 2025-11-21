@@ -9,18 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 庭前盡日立到夜，燈下有時坐徹明。
-- 此情不語何人會，時復長吁一兩聲。
+- 斜月入前楹，迢迢夜坐情。
+- 梧桐上階影，蟋蟀近牀聲。
+- 曙傍窗間至，秋從簟上生。
+- 感時因憶事，不寢到雞鳴。
 
 ## 拼音
 
-- ting2 qian2 jin4 ri4 li4 dao4 ye4 ， deng1 xia4 you3 shi2 zuo4 che4 ming2 。
-- ci3 qing2 bu4 yu3 he2 ren2 hui4 ， shi2 fu4 chang2 xu1 yi4 liang3 sheng1 。
+- xie2 yue4 ru4 qian2 ying2 ， tiao2 tiao2 ye4 zuo4 qing2 。
+- wu2 tong2 shang4 jie1 ying3 ， xi1 shuai4 jin4 chuang2 sheng1 。
+- shu3 bang4 chuang1 jian4 zhi4 ， qiu1 cong2 dian4 shang4 sheng1 。
+- gan3 shi2 yin1 yi4 shi4 ， bu4 qin3 dao4 ji1 ming2 。
 
 ## 注释
 

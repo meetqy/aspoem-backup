@@ -6,10 +6,10 @@ titleSlug: qing-ming-qian-yi-ri-you-ren-zhao-fan-dong-hu-qi-er
 author: 陳宗仁
 authorPinyin: chen2 zong1 ren2
 authorSlug: chen-zong-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

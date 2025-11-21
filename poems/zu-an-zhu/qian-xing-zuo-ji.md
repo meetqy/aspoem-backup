@@ -6,10 +6,10 @@ titleSlug: qian-xing-zuo-ji
 author: 祖庵主
 authorPinyin: zu3 an1 zhu3
 authorSlug: zu-an-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

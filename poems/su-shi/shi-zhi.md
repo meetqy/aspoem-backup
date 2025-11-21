@@ -1,34 +1,38 @@
 ---
 id: su-shi-shi-zhi
-title: 食雉
-titlePinyin: shi2 zhi4
+title: 石芝
+titlePinyin: shi2 zhi1
 titleSlug: shi-zhi
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雄雉曳修尾，驚飛向日斜。
-- 空中紛格鬬，綵羽落如花。
-- 喧呼勇不顧，投網誰復嗟。
-- 百錢得一雙，新味時所佳。
-- 烹煎雜鷄鶩，爪距漫槎牙。
-- 誰知化爲蜃，海上落飛鴉。
+- 土中一掌嬰兒新，爪指良是肌骨勻。
+- 見之怖走誰敢食，天賜我爾不及賓。
+- 旌陽遠遊同一許，長史玉斧皆門戶。
+- 我家韋布三百年，祇有陰功不知數。
+- 跪陳八簋加六瑚，化人視之真塊蘇。
+- 肉芝烹熟石芝老，笑唾熊掌嚬雕胡。
+- 老蠶作繭何時脫，夢想至人空激烈。
+- 古來大藥不可求，真契當如磁石鐵。
 
 ## 拼音
 
-- xiong2 zhi4 ye4 xiu1 wei3 ， jing1 fei1 xiang4 ri4 xie2 。
-- kong1 zhong1 fen1 ge2 dou4 ， cai3 yu3 luo4 ru2 hua1 。
-- xuan1 hu1 yong3 bu2 gu4 ， tou2 wang3 shui2 fu4 jie1 。
-- bai3 qian2 de2 yi4 shuang1 ， xin1 wei4 shi2 suo3 jia1 。
-- peng1 jian1 za2 ji1 wu4 ， zhua3 ju4 man4 cha2 ya2 。
-- shui2 zhi1 hua4 wei2 shen4 ， hai3 shang4 luo4 fei1 ya1 。
+- tu3 zhong1 yi4 zhang3 ying1 er2 xin1 ， zhua3 zhi3 liang2 shi4 ji1 gu3 yun2 。
+- jian4 zhi1 bu4 zou3 shui2 gan3 shi2 ， tian1 ci4 wo3 er3 bu4 ji2 bin1 。
+- jing1 yang2 yuan3 you2 tong2 yi4 xu1 ， chang2 shi3 yu4 fu3 jie1 men2 hu4 。
+- wo3 jia1 wei2 bu4 san1 bai3 nian2 ， qi2 you3 yin1 gong1 bu4 zhi1 shu4 。
+- gui4 chen2 ba1 gui3 jia1 liu4 hu2 ， hua4 ren2 shi4 zhi1 zhen1 kuai4 su1 。
+- rou4 zhi1 peng1 shu2 shi2 zhi1 lao3 ， xiao4 tuo4 xiong2 zhang3 pin2 diao1 hu2 。
+- lao3 can2 zuo4 jian3 he2 shi2 tuo1 ， meng4 xiang3 zhi4 ren2 kong1 ji1 lie4 。
+- gu3 lai2 da4 yao4 bu4 ke3 qiu2 ， zhen1 qi4 dang1 ru2 ci2 shi2 tie3 。
 
 ## 注释
 

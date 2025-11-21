@@ -6,25 +6,25 @@ titleSlug: qiu-ji
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 灝氣明山川，霽色滿天地。
-- 西風吹我衣，忽有萬里意。
-- 中原運當平，所要在得士。
-- 餘年猶幾何，棄置復棄置。
+- 驅除雲霧極知難，敢意天公不作慳。
+- 汛掃中庭待明月，攀躋危榭望青山。
+- 取琴理曲茶烟畔，看鶴梳翎竹影間。
+- 不爲新晴宜著句，擬將幽事破除閑。
 
 ## 拼音
 
-- hao4 qi4 ming2 shan1 chuan1 ， ji4 se4 man3 tian1 di4 。
-- xi1 feng1 chui1 wo3 yi1 ， hu1 you3 wan4 li3 yi4 。
-- zhong1 yuan2 yun4 dang1 ping2 ， suo3 yao4 zai4 de2 shi4 。
-- yu2 nian2 you2 ji1 he2 ， qi4 zhi4 fu4 qi4 zhi4 。
+- qu1 chu2 yun2 wu4 ji2 zhi1 nan2 ， gan3 yi4 tian1 gong1 bu2 zuo4 qian1 。
+- xun4 sao3 zhong1 ting2 dai4 ming2 yue4 ， pan1 ji1 wei1 xie4 wang4 qing1 shan1 。
+- qu3 qin2 li3 qu3 cha2 yan1 pan4 ， kan4 he4 shu1 ling2 zhu2 ying3 jian4 。
+- bu4 wei2 xin1 qing2 yi2 zhu4 ju4 ， ni3 jiang1 you1 shi4 po4 chu2 xian2 。
 
 ## 注释
 

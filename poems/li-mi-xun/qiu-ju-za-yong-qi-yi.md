@@ -1,34 +1,34 @@
 ---
 id: li-mi-xun-qiu-ju-za-yong-qi-yi
-title: 秋居雜詠  其一
-titlePinyin: qiu1 ju1 za2 yong3     qi2 yi1
+title: 秋居雜詠  其一○
+titlePinyin: qiu1 ju1 za2 yong3     qi2 yi1 ○
 titleSlug: qiu-ju-za-yong-qi-yi
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 久懷簡書畏，幸解紳笏束。
-- 忘年効兒女，適意揮僮僕。
-- 植杖理新蕉，埋盆養寒菊。
-- 前除馴鵲烏，近檻遊麋鹿。
-- 遐觀時倚楹，瞑坐或忘燭。
-- 門闌迹如掃，我亦甘幽獨。
+- 凝雲吐秋曦，翳目眩晴晝。
+- 扶行憩高堂，恍若歷辰宿。
+- 清涵城角池，碧聳林端岫。
+- 微茫縱遐瞻，佳處時一覯。
+- 冷風生襟裾，俯仰小宇宙。
+- 何必如雲翮，超然追禦寇。
 
 ## 拼音
 
-- jiu3 huai2 jian3 shu1 wei4 ， xing4 jie3 shen1 hu4 shu4 。
-- wang4 nian2 xiao4 er2 nü3 ， shi4 yi4 hui1 tong2 pu2 。
-- zhi2 zhang4 li3 xin1 jiao1 ， mai2 pen2 yang3 han2 ju2 。
-- qian2 chu2 xun4 que4 wu1 ， jin4 jian4 you2 mi2 lu4 。
-- xia2 guan1 shi2 yi3 ying2 ， ming2 zuo4 huo4 wang4 zhu2 。
-- men2 lan2 ji4 ru2 sao3 ， wo3 yi4 gan1 you1 du2 。
+- ning2 yun2 tu3 qiu1 xi1 ， yi4 mu4 xuan4 qing2 zhou4 。
+- fu2 xing2 qi4 gao1 tang2 ， huang3 ruo4 li4 chen2 su4 。
+- qing1 han2 cheng2 jiao3 chi2 ， bi4 song3 lin2 duan1 xiu4 。
+- wei1 mang2 zong4 xia2 zhan1 ， jia1 chu3 shi2 yi2 gou4 。
+- leng3 feng1 sheng1 jin1 ju1 ， fu3 yang3 xiao3 yu3 zhou4 。
+- he2 bi4 ru2 yun2 he2 ， chao1 ran2 zhui1 yu4 kou4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: da-chen-tuan
 author: 葛守忠
 authorPinyin: ge3 shou3 zhong1
 authorSlug: ge-shou-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

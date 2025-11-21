@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 送客蒼溪縣，山寒雨不開。
-- 直愁騎馬滑，故作泛舟迴。
-- 青惜峰巒過，黃知橘柚來。
-- 江流大自在，坐穩興悠哉。
+- 收帆下急水，卷幔逐回灘。
+- 江市戎戎暗，山雲淰淰寒。
+- 村荒無徑入，獨鳥怪人看。
+- 已泊城樓底，何曾夜色闌。
 
 ## 拼音
 
-- song4 ke4 cang1 xi1 xian4 ， shan1 han2 yu3 bu4 kai1 。
-- zhi2 chou2 qi2 ma3 hua2 ， gu4 zuo4 fan4 zhou1 hui2 。
-- qing1 xi1 feng1 luan2 guo4 ， huang2 zhi1 ju2 you4 lai2 。
-- jiang1 liu2 da4 zi4 zai4 ， zuo4 wen3 xing1 you1 zai1 。
+- shou1 fan1 xia4 ji2 shui3 ， juan4 man4 zhu2 hui2 tan1 。
+- jiang1 shi4 rong2 rong2 an4 ， shan1 yun2 nian3 nian3 han2 。
+- cun1 huang1 wu2 jing4 ru4 ， du2 niao3 guai4 ren2 kan4 。
+- yi3 bo2 cheng2 lou2 di3 ， he2 ceng2 ye4 se4 lan2 。
 
 ## 注释
 

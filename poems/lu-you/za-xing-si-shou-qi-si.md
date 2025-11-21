@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清霜染丹葉，秋晚粲如春。
-- 回首風吹盡，天公解戲人。
+- 鏗爾捨瑟作，嚗然放杖笑。
+- 浩浩太古音，與俗不同調。
 
 ## 拼音
 
-- qing1 shuang1 ran3 dan1 ye4 ， qiu1 wan3 can4 ru2 chun1 。
-- hui2 shou3 feng1 chui1 jin4 ， tian1 gong1 jie3 xi4 ren2 。
+- keng1 er3 she3 se4 zuo4 ， bo2 ran2 fang4 zhang4 xiao4 。
+- hao4 hao4 tai4 gu3 yin1 ， yu3 su2 bu4 tong2 diao4 。
 
 ## 注释
 

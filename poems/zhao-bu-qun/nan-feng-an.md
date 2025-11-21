@@ -6,9 +6,9 @@ titleSlug: nan-feng-an
 author: 趙不群
 authorPinyin: zhao4 bu4 qun2
 authorSlug: zhao-bu-qun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

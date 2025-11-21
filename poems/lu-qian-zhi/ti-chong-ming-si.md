@@ -6,10 +6,10 @@ titleSlug: ti-chong-ming-si
 author: 魯千之
 authorPinyin: lu3 qian1 zhi1
 authorSlug: lu-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

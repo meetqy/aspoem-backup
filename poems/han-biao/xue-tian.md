@@ -6,25 +6,25 @@ titleSlug: xue-tian
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒色摇窗紙，瓶梅靜吐香。
-- 小樓深坐穩，矮屋欠伸長。
-- 雪意垂垂白，雲容淡淡黄。
-- 西湖林處士，侑食水仙王。
+- 雲意昏明欲雪天，冷風吹葉滿流泉。
+- 短簷半影荒荒日，曲逕微籠冉冉烟。
+- 山色不嫌靈運屐，溪光先上子猷船。
+- 林邊喜有春消息，梅點長梢已粲然。
 
 ## 拼音
 
-- han2 se4 yao2 chuang1 zhi3 ， ping2 mei2 jing4 tu3 xiang1 。
-- xiao3 lou2 shen1 zuo4 wen3 ， ai3 wu1 qian4 shen1 chang2 。
-- xue3 yi4 chui2 chui2 bai2 ， yun2 rong2 dan4 dan4 huang2 。
-- xi1 hu2 lin2 chu3 shi4 ， you4 shi2 shui3 xian1 wang2 。
+- yun2 yi4 hun1 ming2 yu4 xue3 tian1 ， leng3 feng1 chui1 ye4 man3 liu2 quan2 。
+- duan3 yan2 ban4 ying3 huang1 huang1 ri4 ， qu3 jing4 wei1 long2 ran3 ran3 yan1 。
+- shan1 se4 bu4 xian2 ling2 yun4 ji1 ， xi1 guang1 xian1 shang4 zi3 you2 chuan2 。
+- lin2 bian1 xi3 you3 chun1 xiao1 xi0 ， mei2 dian3 chang2 shao1 yi3 can4 ran2 。
 
 ## 注释
 

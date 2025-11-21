@@ -6,10 +6,10 @@ titleSlug: ti-lu-ling-yi-shi-chuan
 author: 郭彥章
 authorPinyin: guo1 yan4 zhang1
 authorSlug: guo-yan-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

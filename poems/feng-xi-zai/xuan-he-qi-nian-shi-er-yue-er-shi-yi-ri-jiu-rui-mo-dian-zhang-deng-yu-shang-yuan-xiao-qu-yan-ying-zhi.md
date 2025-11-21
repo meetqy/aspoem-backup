@@ -6,10 +6,10 @@ titleSlug: xuan-he-qi-nian-shi-er-yue-er-shi-yi-ri-jiu-rui-mo-dian-zhang-deng-yu
 author: 馮熙載
 authorPinyin: feng2 xi1 zai4
 authorSlug: feng-xi-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

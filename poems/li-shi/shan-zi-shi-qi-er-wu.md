@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-wu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春煖錦棠覆徑，夏凉紅藕盈池。
-- 九蘂東籬綻菊，一花南岸梅枝。
+- 芒鞋踏破江頭路，日渴檀心猶未吐。
+- 渾教開盡不成梅，定應化作相思樹。
 
 ## 拼音
 
-- chun1 xuan1 jin3 tang2 fu4 jing4 ， xia4 liang2 hong2 ou3 ying2 chi2 。
-- jiu3 rui3 dong1 li2 zhan4 ju2 ， yi4 hua1 nan2 an4 mei2 zhi1 。
+- mang2 xie2 ta4 po4 jiang1 tou2 lu4 ， ri4 ke3 tan2 xin1 you2 wei4 tu3 。
+- hun2 jiao4 kai1 jin4 bu4 cheng2 mei2 ， ding4 ying1 hua4 zuo4 xiang1 si1 shu4 。
 
 ## 注释
 

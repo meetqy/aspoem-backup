@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨麥渾漫壠，風梅已退粧。
-- 高鴻望燕塞，飛疾不成行。
+- 亭亭畫舸繫春潭，直待行人酒半酣。
+- 不管烟波與風雨，載將離恨過江南。
 
 ## 拼音
 
-- yu3 mai4 hun2 man4 long3 ， feng1 mei2 yi3 tui4 zhuang1 。
-- gao1 hong2 wang4 yan4 sai1 ， fei1 ji2 bu4 cheng2 xing2 。
+- ting2 ting2 hua4 ge3 xi4 chun1 tan2 ， zhi2 dai4 xing2 ren2 jiu3 ban4 han1 。
+- bu4 guan3 yan1 bo1 yu3 feng1 yu3 ， zai4 jiang1 li2 hen4 guo4 jiang1 nan2 。
 
 ## 注释
 

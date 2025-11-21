@@ -6,25 +6,25 @@ titleSlug: yi-chuan-du-you
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東郊漸微綠，驅馬忻獨往。
-- 梅繁野渡晴，泉落春山響。
-- 身閑愛物外，趣遠諧心賞。
-- 歸路逐樵歌，落日寒川上。
+- 綠樹遶伊川，人行亂石間。
+- 寒雲依曉日，白鳥向青山。
+- 路轉香林出，僧歸野渡閑。
+- 巖阿誰可訪，興盡復空還。
 
 ## 拼音
 
-- dong1 jiao1 jian4 wei1 lü4 ， qu1 ma3 xin1 du2 wang3 。
-- mei2 fan2 ye3 du4 qing2 ， quan2 luo4 chun1 shan1 xiang3 。
-- shen1 xian2 ai4 wu4 wai4 ， qu4 yuan3 xie2 xin1 shang3 。
-- gui1 lu4 zhu2 qiao2 ge1 ， luo4 ri4 han2 chuan1 shang4 。
+- lü4 shu4 rao4 yi1 chuan1 ， ren2 hang2 luan4 shi2 jian4 。
+- han2 yun2 yi1 xiao3 ri4 ， bai2 niao3 xiang4 qing1 shan1 。
+- lu4 zhuan3 xiang1 lin2 chu1 ， seng1 gui1 ye3 du4 xian2 。
+- yan2 a1 shui2 ke3 fang3 ， xing1 jin4 fu4 kong1 huan2 。
 
 ## 注释
 

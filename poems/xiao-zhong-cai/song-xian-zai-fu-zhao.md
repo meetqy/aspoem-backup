@@ -6,10 +6,10 @@ titleSlug: song-xian-zai-fu-zhao
 author: 蕭仲才
 authorPinyin: xiao1 zhong4 cai2
 authorSlug: xiao-zhong-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

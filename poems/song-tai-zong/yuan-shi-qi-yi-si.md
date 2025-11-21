@@ -6,25 +6,33 @@ titleSlug: yuan-shi-qi-yi-si
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 無窮思廣大，幽隠便知深。
-- 智達千經論，方關一寸心。
-- 總明懷往古，曩劫順從今。
-- 此理人須信，周旋子細尋。
+- 酒一杯，深深情不足，倚檻迢迢青草綠。
+- 舉目煙飛勻灼灼，柳摇似舞春風曲。
+- 葉嫩舒張芽徧拆，觸處芳菲尋未得。
+- 妖妍艷艷爲誰流，鶑銜花墜落人頭。
+- 世間萬事難裁剪，樂送樓臺聲遠遠。
+- 斷續高低去復來，稀疏霧郁松枝偃。
+- 暄和思滿郊，燕拂綠楊梢。
+- 暖日倍添紅杏密，從容閑被野禽嘲。
 
 ## 拼音
 
-- wu2 qiong2 si1 guang3 da4 ， you1 yin3 bian4 zhi1 shen1 。
-- zhi4 da2 qian1 jing1 lun4 ， fang1 guan1 yi2 cun4 xin1 。
-- zong3 ming2 huai2 wang3 gu3 ， nang3 jie2 shun4 cong2 jin1 。
-- ci3 li3 ren2 xu1 xin4 ， zhou1 xuan2 zi3 xi4 xun2 。
+- jiu3 yi4 bei1 ， shen1 shen1 qing2 bu4 zu2 ， yi3 jian4 tiao2 tiao2 qing1 cao3 lü4 。
+- ju3 mu4 yan1 fei1 yun2 zhuo2 zhuo2 ， liu3 yao2 si4 wu3 chun1 feng1 qu3 。
+- ye4 nen4 shu1 zhang1 ya2 bian4 chai1 ， chu4 chu3 fang1 fei1 xun2 wei4 de2 。
+- yao1 yan2 yan4 yan4 wei2 shui2 liu2 ， ying1 xian2 hua1 zhui4 luo4 ren2 tou2 。
+- shi4 jian4 wan4 shi4 nan2 cai2 jian3 ， le4 song4 lou2 tai2 sheng1 yuan3 yuan3 。
+- duan4 xu4 gao1 di1 qu4 fu4 lai2 ， xi1 shu1 wu4 yu4 song1 zhi1 yan3 。
+- xuan1 he2 si1 man3 jiao1 ， yan4 fu2 lü4 yang2 shao1 。
+- nuan3 ri4 bei4 tian1 hong2 xing4 mi4 ， cong2 rong2 xian2 bei4 ye3 qin2 chao2 。
 
 ## 注释
 

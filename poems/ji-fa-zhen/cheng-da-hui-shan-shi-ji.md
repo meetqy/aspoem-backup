@@ -6,10 +6,10 @@ titleSlug: cheng-da-hui-shan-shi-ji
 author: 計法真
 authorPinyin: ji4 fa3 zhen1
 authorSlug: ji-fa-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

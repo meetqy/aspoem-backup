@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-xu-xi-feng-mu-dan-er-shou-bai-hua
-title: 題徐熙風牡丹二首・白花
-titlePinyin: ti2 xu2 xi1 feng1 mu3 dan1 er4 shou3・bai2 hua1
+title: 題徐熙風牡丹二首 白花
+titlePinyin: ti2 xu2 xi1 feng1 mu3 dan1 er4 shou3   bai2 hua1
 titleSlug: ti-xu-xi-feng-mu-dan-er-shou-bai-hua
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

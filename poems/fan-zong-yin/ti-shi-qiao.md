@@ -6,9 +6,9 @@ titleSlug: ti-shi-qiao
 author: 范宗尹
 authorPinyin: fan4 zong1 yin3
 authorSlug: fan-zong-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

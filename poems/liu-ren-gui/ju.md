@@ -9,7 +9,7 @@ authorSlug: liu-ren-gui
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhu-cang-yi-chu-xiao-shu-zuo-bie-zhu-shi-ci-qi-yun-yu-cang-yi-zhi-she
 author: 廖剛
 authorPinyin: liao4 gang1
 authorSlug: liao-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

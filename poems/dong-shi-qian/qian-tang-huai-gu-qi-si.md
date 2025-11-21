@@ -6,10 +6,10 @@ titleSlug: qian-tang-huai-gu-qi-si
 author: 董師謙
 authorPinyin: dong3 shi1 qian1
 authorSlug: dong-shi-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

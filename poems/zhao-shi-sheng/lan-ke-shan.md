@@ -6,9 +6,9 @@ titleSlug: lan-ke-shan
 author: 趙師聖
 authorPinyin: zhao4 shi1 sheng4
 authorSlug: zhao-shi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

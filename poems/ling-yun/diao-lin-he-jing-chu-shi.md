@@ -6,10 +6,10 @@ titleSlug: diao-lin-he-jing-chu-shi
 author: 凌雲
 authorPinyin: ling2 yun2
 authorSlug: ling-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

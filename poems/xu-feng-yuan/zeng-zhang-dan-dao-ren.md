@@ -6,9 +6,9 @@ titleSlug: zeng-zhang-dan-dao-ren
 author: 徐逢原
 authorPinyin: xu2 feng2 yuan2
 authorSlug: xu-feng-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

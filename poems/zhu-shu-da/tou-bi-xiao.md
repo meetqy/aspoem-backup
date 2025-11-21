@@ -6,10 +6,10 @@ titleSlug: tou-bi-xiao
 author: 朱叔大
 authorPinyin: zhu1 shu1 da4
 authorSlug: zhu-shu-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,41 +6,25 @@ titleSlug: ju
 author: 鄭獬
 authorPinyin: zheng4 xie4
 authorSlug: zheng-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 菊花初抱葉，始見春光來。
-- 綠蓓今著花，又見秋風回。
-- 高天不容土，白日安可栽。
-- 一世如大瘧，寒暑還相催。
-- 使我明鏡匣，羞爲蒼顔開。
-- 流年可奈何，獨有金螺杯。
-- 閒秋無丈尺，付與令翦裁。
-- 况茲佳節近，秋日宜樓臺。
-- 菊花又密鬧，爛若金縷堆。
-- 如何不自樂，行繞空徘徊。
-- 秋風不惜花，即見飛蒼苔。
-- 惟此一樽酒，萬事皆塵埃。
+- 寶釘萬數擁寒枝，寂寞幽香蝶亦稀。
+- 未把玉欄移得去，直須翠帽插將歸。
+- 定逢野客尋常折，忍逐秋風取次飛。
+- 好備一尊相就飲，醉來從遣露霑衣。
 
 ## 拼音
 
-- ju2 hua1 chu1 bao4 ye4 ， shi3 jian4 chun1 guang1 lai2 。
-- lü4 bei4 jin1 zhu4 hua1 ， you4 jian4 qiu1 feng1 hui2 。
-- gao1 tian1 bu4 rong2 tu3 ， bai2 ri4 an1 ke3 zai1 。
-- yi2 shi4 ru2 da4 nüe4 ， han2 shu3 huan2 xiang1 cui1 。
-- shi3 wo3 ming2 jing4 xia2 ， xiu1 wei2 cang1 yan2 kai1 。
-- liu2 nian2 ke3 nai4 he2 ， du2 you3 jin1 luo2 bei1 。
-- xian2 qiu1 wu2 zhang4 chi3 ， fu4 yu3 ling4 jian3 cai2 。
-- kuang4 zi1 jia1 jie2 jin4 ， qiu1 ri4 yi2 lou2 tai2 。
-- ju2 hua1 you4 mi4 nao4 ， lan4 ruo4 jin1 lü3 dui1 。
-- ru2 he2 bu2 zi4 le4 ， xing2 rao4 kong1 pai2 huai2 。
-- qiu1 feng1 bu4 xi1 hua1 ， ji2 jian4 fei1 cang1 tai2 。
-- wei2 ci3 yi4 zun1 jiu3 ， wan4 shi4 jie1 chen2 ai1 。
+- bao3 ding1 wan4 shu4 yong1 han2 zhi1 ， ji4 mo4 you1 xiang1 die2 yi4 xi1 。
+- wei4 ba3 yu4 lan2 yi2 de2 qu4 ， zhi2 xu1 cui4 mao4 cha1 jiang1 gui1 。
+- ding4 feng2 ye3 ke4 xun2 chang2 zhe2 ， ren3 zhu2 qiu1 feng1 qu3 ci4 fei1 。
+- hao3 bei4 yi4 zun1 xiang1 jiu4 yin3 ， zui4 lai2 cong2 qian3 lu4 zhan1 yi1 。
 
 ## 注释
 

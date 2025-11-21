@@ -9,18 +9,18 @@ authorSlug: yong-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 日過千萬家，一家非所依。
-- 不及行塵影，猶隨馬蹄歸。
+- 客淚如危葉，長懸零落心。
+- 況是悲秋日，臨風制不禁。
 
 ## 拼音
 
-- ri4 guo4 qian1 wan4 jia1 ， yi4 jia1 fei1 suo3 yi1 。
-- bu4 ji2 xing2 chen2 ying3 ， you2 sui2 ma3 ti2 gui1 。
+- ke4 lei4 ru2 wei1 ye4 ， chang2 xuan2 ling2 luo4 xin1 。
+- kuang4 shi4 bei1 qiu1 ri4 ， lin2 feng1 zhi4 bu4 jin1 。
 
 ## 注释
 

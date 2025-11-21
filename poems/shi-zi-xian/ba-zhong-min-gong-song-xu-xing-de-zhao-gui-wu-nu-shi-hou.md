@@ -6,10 +6,10 @@ titleSlug: ba-zhong-min-gong-song-xu-xing-de-zhao-gui-wu-nu-shi-hou
 author: 釋自閑
 authorPinyin: shi4 zi4 xian2
 authorSlug: shi-zi-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

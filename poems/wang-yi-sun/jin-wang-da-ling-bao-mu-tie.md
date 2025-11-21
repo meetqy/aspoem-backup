@@ -6,10 +6,10 @@ titleSlug: jin-wang-da-ling-bao-mu-tie
 author: 王沂孫
 authorPinyin: wang2 yi2 sun1
 authorSlug: wang-yi-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

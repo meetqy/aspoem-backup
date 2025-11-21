@@ -6,25 +6,25 @@ titleSlug: za-xing-san-shou-qi-yi
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自合林泉着散仙，虎蛟在處卧山淵。
-- 未秋已擬償新穀，計月先愁欠子錢。
-- 冷眼慣看平地險，薄情誰念死灰然。
-- 人生還有相逢處，昨日淮陰召少年。
+- 老去時光漸不禁，那堪風景入秋深。
+- 文章何啻建安骨，議論能無元祐心。
+- 舊日交遊誰可托，中年憂患苦相尋。
+- 致身稷契非輕許，末路無成學苦吟。
 
 ## 拼音
 
-- zi4 he2 lin2 quan2 zhe0 san4 xian1 ， hu3 jiao1 zai4 chu3 wo4 shan1 yuan1 。
-- wei4 qiu1 yi3 ni3 chang2 xin1 gu3 ， ji4 yue4 xian1 chou2 qian4 zi3 qian2 。
-- leng3 yan3 guan4 kan4 ping2 di4 xian3 ， bo2 qing2 shui2 nian4 si3 hui1 ran2 。
-- ren2 sheng1 huan2 you3 xiang1 feng2 chu3 ， zuo2 ri4 huai2 yin1 zhao4 shao4 nian2 。
+- lao3 qu4 shi2 guang1 jian4 bu4 jin1 ， na4 kan1 feng1 jing3 ru4 qiu1 shen1 。
+- wen2 zhang1 he2 chi4 jian4 an1 gu3 ， yi4 lun4 neng2 wu2 yuan2 you4 xin1 。
+- jiu4 ri4 jiao1 you2 shui2 ke3 tuo1 ， zhong1 nian2 you1 huan4 ku3 xiang1 xun2 。
+- zhi4 shen1 ji4 qi4 fei1 qing1 xu1 ， mo4 lu4 wu2 cheng2 xue2 ku3 yin2 。
 
 ## 注释
 

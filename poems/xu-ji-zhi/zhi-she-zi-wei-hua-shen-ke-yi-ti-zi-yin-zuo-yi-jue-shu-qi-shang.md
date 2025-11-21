@@ -6,10 +6,10 @@ titleSlug: zhi-she-zi-wei-hua-shen-ke-yi-ti-zi-yin-zuo-yi-jue-shu-qi-shang
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

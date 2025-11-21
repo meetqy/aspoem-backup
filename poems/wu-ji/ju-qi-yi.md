@@ -1,24 +1,24 @@
 ---
 id: wu-ji-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 吳激
 authorPinyin: wu2 ji1
 authorSlug: wu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春風蜀棧青山盡，曉日秦川綠樹平。
+- 海東絕域皇華使，天上仙官碧落卿。
 
 ## 拼音
 
-- chun1 feng1 shu3 zhan4 qing1 shan1 jin4 ， xiao3 ri4 qin2 chuan1 lü4 shu4 ping2 。
+- hai3 dong1 jue2 yu4 huang2 hua2 shi3 ， tian1 shang4 xian1 guan1 bi4 luo4 qing1 。
 
 ## 注释
 

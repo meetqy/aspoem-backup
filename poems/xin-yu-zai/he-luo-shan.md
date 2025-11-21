@@ -6,10 +6,10 @@ titleSlug: he-luo-shan
 author: 新喻宰
 authorPinyin: xin1 yu4 zai3
 authorSlug: xin-yu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,23 +6,21 @@ titleSlug: tao-hua
 author: 崔鶠
 authorPinyin: cui1 yan3
 authorSlug: cui-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 如何一朽株，孕此千億花。
-- 雖云行且闌，明歲亦再華。
-- 豈如世上人，一老不復佳。
+- 殘月迷春曉，桃花怯夜寒。
+- 何人未粧洗，先傍玉闌干。
 
 ## 拼音
 
-- ru2 he2 yi4 xiu3 zhu1 ， yun4 ci3 qian1 yi4 hua1 。
-- sui1 yun2 xing2 qie3 lan2 ， ming2 sui4 yi4 zai4 hua2 。
-- qi3 ru2 shi4 shang4 ren2 ， yi4 lao3 bu2 fu4 jia1 。
+- can2 yue4 mi2 chun1 xiao3 ， tao2 hua1 qie4 ye4 han2 。
+- he2 ren2 wei4 zhuang1 xi3 ， xian1 bang4 yu4 lan2 gan1 。
 
 ## 注释
 

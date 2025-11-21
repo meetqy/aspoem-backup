@@ -6,10 +6,10 @@ titleSlug: dong-shan-bie-xin-zi-guan-ling-rong-an-zhong-zou-bi-ci-yun
 author: 王灼
 authorPinyin: wang2 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

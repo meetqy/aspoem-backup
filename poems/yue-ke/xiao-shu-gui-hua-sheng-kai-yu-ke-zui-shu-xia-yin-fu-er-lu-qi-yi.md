@@ -6,10 +6,10 @@ titleSlug: xiao-shu-gui-hua-sheng-kai-yu-ke-zui-shu-xia-yin-fu-er-lu-qi-yi
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

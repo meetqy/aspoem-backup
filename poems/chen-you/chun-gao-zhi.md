@@ -6,10 +6,10 @@ titleSlug: chun-gao-zhi
 author: 陳槱
 authorPinyin: chen2 you3
 authorSlug: chen-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

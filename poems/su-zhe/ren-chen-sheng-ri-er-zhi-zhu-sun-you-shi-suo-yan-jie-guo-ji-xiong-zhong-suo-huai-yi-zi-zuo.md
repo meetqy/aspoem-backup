@@ -6,10 +6,10 @@ titleSlug: ren-chen-sheng-ri-er-zhi-zhu-sun-you-shi-suo-yan-jie-guo-ji-xiong-zho
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

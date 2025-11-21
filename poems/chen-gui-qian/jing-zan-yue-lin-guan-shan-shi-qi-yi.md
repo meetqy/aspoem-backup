@@ -6,10 +6,10 @@ titleSlug: jing-zan-yue-lin-guan-shan-shi-qi-yi
 author: 陳貴謙
 authorPinyin: chen2 gui4 qian1
 authorSlug: chen-gui-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

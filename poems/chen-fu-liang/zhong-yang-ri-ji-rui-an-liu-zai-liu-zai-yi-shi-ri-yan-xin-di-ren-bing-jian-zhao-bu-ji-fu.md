@@ -6,10 +6,10 @@ titleSlug: zhong-yang-ri-ji-rui-an-liu-zai-liu-zai-yi-shi-ri-yan-xin-di-ren-bing
 author: 陳傅良
 authorPinyin: chen2 fu4 liang2
 authorSlug: chen-fu-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

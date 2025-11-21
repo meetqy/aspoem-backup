@@ -6,33 +6,25 @@ titleSlug: he-shang-guan-you-shi-yun
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夫子作春秋，大義明素王。
-- 至于游夏輩，一字不敢當。
-- 文風下秦漢，詩體更晉唐。
-- 世道有隆替，人才隨翕張。
-- 致君與澤民，夷險公備嘗。
-- 山川尋謝屐，風月歸奚囊。
-- 滿城風雨朝，采采籬下黄。
-- 臨風懷美人，在彼天一方。
+- 雖然身世兩相違，不以無爲礙有爲。
+- 偶被閑名難免俗，因將黄葉强題詩。
+- 一年好是中秋節，萬事能如采菊時。
+- 自古聖賢觀出處，只今誰解帝王師。
 
 ## 拼音
 
-- fu1 zi3 zuo4 chun1 qiu1 ， da4 yi4 ming2 su4 wang2 。
-- zhi4 yu2 you2 xia4 bei4 ， yi2 zi4 bu4 gan3 dang1 。
-- wen2 feng1 xia4 qin2 han4 ， shi1 ti3 geng4 jin4 tang2 。
-- shi4 dao4 you3 long2 ti4 ， ren2 cai2 sui2 xi1 zhang1 。
-- zhi4 jun1 yu3 ze2 min2 ， yi2 xian3 gong1 bei4 chang2 。
-- shan1 chuan1 xun2 xie4 ji1 ， feng1 yue4 gui1 xi1 nang2 。
-- man3 cheng2 feng1 yu3 chao2 ， cai3 cai3 li2 xia4 huang2 。
-- lin2 feng1 huai2 mei3 ren2 ， zai4 bi3 tian1 yi4 fang1 。
+- sui1 ran2 shen1 shi4 liang3 xiang1 wei2 ， bu4 yi3 wu2 wei2 ai4 you3 wei2 。
+- ou3 bei4 xian2 ming2 nan2 mian3 su2 ， yin1 jiang1 huang2 ye4 qiang2 ti2 shi1 。
+- yi4 nian2 hao3 shi4 zhong1 qiu1 jie2 ， wan4 shi4 neng2 ru2 cai3 ju2 shi2 。
+- zi4 gu3 sheng4 xian2 guan1 chu1 chu3 ， zhi1 jin1 shui2 jie3 di4 wang2 shi1 。
 
 ## 注释
 

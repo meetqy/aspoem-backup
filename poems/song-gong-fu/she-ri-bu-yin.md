@@ -6,10 +6,10 @@ titleSlug: she-ri-bu-yin
 author: 宋恭甫
 authorPinyin: song4 gong1 fu3
 authorSlug: song-gong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

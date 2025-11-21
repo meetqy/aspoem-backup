@@ -6,10 +6,10 @@ titleSlug: qing-yuan-gai-yuan-han-shi-ri-pei-du-yun-si-cheng-you-bai-long-dong-s
 author: 朱晞顔
 authorPinyin: zhu1 xi1 yan2
 authorSlug: zhu-xi-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

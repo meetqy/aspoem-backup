@@ -9,22 +9,22 @@ authorSlug: huang-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 妾家五嶺南，君戍三城北。
-- 雁來雖有書，衡陽越不得。
-- 別久情易料，豈在窺翰墨。
-- 塞上無煙花，寧思妾顏色。
+- 寸心杳與馬蹄隨，如蛻形容在錦帷。
+- 江上月明船發後，花間日暮信迴時。
+- 五陵夜作酬恩計，四塞秋爲破虜期。
+- 待到乘軺入門處，淚珠流盡玉顏衰。
 
 ## 拼音
 
-- qie4 jia1 wu3 ling3 nan2 ， jun1 shu4 san1 cheng2 bei3 。
-- yan4 lai2 sui1 you3 shu1 ， heng2 yang2 yue4 bu4 de2 。
-- bie2 jiu3 qing2 yi4 liao4 ， qi3 zai4 kui1 han4 mo4 。
-- sai4 shang4 wu2 yan1 hua1 ， ning2 si1 qie4 yan2 se4 。
+- cun4 xin1 yao3 yu3 ma3 ti2 sui2 ， ru2 tui4 xing2 rong2 zai4 jin3 wei2 。
+- jiang1 shang4 yue4 ming2 chuan2 fa1 hou4 ， hua1 jian4 ri4 mu4 xin4 hui2 shi2 。
+- wu3 ling2 ye4 zuo4 chou2 en1 ji4 ， si4 sai1 qiu1 wei2 po4 lu3 qi1 。
+- dai4 dao4 cheng2 yao2 ru4 men2 chu3 ， lei4 zhu1 liu2 jin4 yu4 yan2 shuai1 。
 
 ## 注释
 

@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-song-huang-xiu-cai-gu-shu-pi-ming
-title: 送黄秀才姑熟辟命
+title: 送黃秀才姑孰辟命
 titlePinyin: song4 huang2 xiu4 cai0 gu1 shu2 pi4 ming4
 titleSlug: song-huang-xiu-cai-gu-shu-pi-ming
 author: 徐鉉
@@ -15,7 +15,7 @@ tags: []
 ## 正文
 
 - 世亂離情苦，家貧色養難。
-- 水雲孤棹去，風雨暮春寒。
+- 水雲孤櫂去，風雨暮春寒。
 - 幕府才方急，騷人淚未乾。
 - 何時王道泰，萬里看鵬摶。
 

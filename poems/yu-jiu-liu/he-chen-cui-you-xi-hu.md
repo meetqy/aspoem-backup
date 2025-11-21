@@ -6,10 +6,10 @@ titleSlug: he-chen-cui-you-xi-hu
 author: 于九流
 authorPinyin: yu2 jiu3 liu2
 authorSlug: yu-jiu-liu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

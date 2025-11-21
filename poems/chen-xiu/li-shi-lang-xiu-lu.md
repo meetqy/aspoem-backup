@@ -6,10 +6,10 @@ titleSlug: li-shi-lang-xiu-lu
 author: 陳褎
 authorPinyin: chen2 xiu4
 authorSlug: chen-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

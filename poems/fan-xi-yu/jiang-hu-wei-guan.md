@@ -6,10 +6,10 @@ titleSlug: jiang-hu-wei-guan
 author: 范希禹
 authorPinyin: fan4 xi1 yu3
 authorSlug: fan-xi-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

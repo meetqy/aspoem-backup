@@ -6,10 +6,10 @@ titleSlug: ti-fan-tian-si
 author: 釋守詮
 authorPinyin: shi4 shou3 quan2
 authorSlug: shi-shou-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

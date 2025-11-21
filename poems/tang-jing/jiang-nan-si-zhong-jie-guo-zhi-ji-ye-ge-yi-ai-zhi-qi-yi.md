@@ -6,10 +6,10 @@ titleSlug: jiang-nan-si-zhong-jie-guo-zhi-ji-ye-ge-yi-ai-zhi-qi-yi
 author: 唐涇
 authorPinyin: tang2 jing1
 authorSlug: tang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

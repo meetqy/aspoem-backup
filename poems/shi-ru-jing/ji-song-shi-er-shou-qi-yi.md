@@ -1,26 +1,26 @@
 ---
 id: shi-ru-jing-ji-song-shi-er-shou-qi-yi
-title: 偈頌十二首  其一
-titlePinyin: ji4 song4 shi2 er4 shou3     qi2 yi1
+title: 偈頌十二首  其一○
+titlePinyin: ji4 song4 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: ji-song-shi-er-shou-qi-yi
 author: 釋如淨
 authorPinyin: shi4 ru2 jing4
 authorSlug: shi-ru-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不曾動步上天台，金鎖玄關盡豁開。
-- 坐斷鞔峰第一句，萬機俱透起風雷。
+- 元正啟祚，萬物咸新。
+- 伏惟大衆，梅開早春。
 
 ## 拼音
 
-- bu4 ceng2 dong4 bu4 shang4 tian1 tai2 ， jin1 suo3 xuan2 guan1 jin4 huo1 kai1 。
-- zuo4 duan4 man2 feng1 di4 yi1 ju4 ， wan4 ji1 ju4 tou4 qi3 feng1 lei2 。
+- yuan2 zheng4 qi3 zuo4 ， wan4 wu4 xian2 xin1 。
+- fu2 wei2 da4 zhong4 ， mei2 kai1 zao3 chun1 。
 
 ## 注释
 

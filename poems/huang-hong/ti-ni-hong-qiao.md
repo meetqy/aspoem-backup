@@ -6,10 +6,10 @@ titleSlug: ti-ni-hong-qiao
 author: 黄宏
 authorPinyin: huang2 hong2
 authorSlug: huang-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

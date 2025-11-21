@@ -6,10 +6,10 @@ titleSlug: ci-yun-da-bing-shuai-wang-zhong-yi-duan-ming-yi-shi-jian-ji
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

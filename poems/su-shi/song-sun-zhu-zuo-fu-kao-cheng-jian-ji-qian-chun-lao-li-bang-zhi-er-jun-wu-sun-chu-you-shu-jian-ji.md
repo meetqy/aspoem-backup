@@ -6,10 +6,10 @@ titleSlug: song-sun-zhu-zuo-fu-kao-cheng-jian-ji-qian-chun-lao-li-bang-zhi-er-ju
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

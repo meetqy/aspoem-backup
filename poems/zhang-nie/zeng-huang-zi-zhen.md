@@ -6,31 +6,25 @@ titleSlug: zeng-huang-zi-zhen
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 再来居檇李，又枉故人車。
-- 故人固是客，我居豈吾廬。
-- 共在天之涯，猶如水中鳬。
-- 細話漢傍事，想見江紆餘。
-- 死者不可作，生者多離居。
-- 無輕今日别，與子皆白鬚。
-- 臨分尚何言，早寄江陰書。
+- 江漢知名士，石城黄子真。
+- 殷勤能過我，坎壈歎斯人。
+- 此去仍爲客，舟行任過春。
+- 無資振遊舊，懷抱不能伸。
 
 ## 拼音
 
-- zai4 lai2 ju1 zui4 li3 ， you4 wang3 gu4 ren2 ju1 。
-- gu4 ren2 gu4 shi4 ke4 ， wo3 ju1 qi3 wu2 lu2 。
-- gong4 zai4 tian1 zhi1 ya2 ， you2 ru2 shui3 zhong1 fu2 。
-- xi4 hua4 han4 bang4 shi4 ， xiang3 jian4 jiang1 yu1 yu2 。
-- si3 zhe3 bu4 ke3 zuo4 ， sheng1 zhe3 duo1 li2 ju1 。
-- wu2 qing1 jin1 ri4 bie2 ， yu3 zi3 jie1 bai2 xu1 。
-- lin2 fen1 shang4 he2 yan2 ， zao3 ji4 jiang1 yin1 shu1 。
+- jiang1 han4 zhi1 ming2 shi4 ， shi2 cheng2 huang2 zi3 zhen1 。
+- yin1 qin2 neng2 guo4 wo3 ， kan3 lan3 tan4 si1 ren2 。
+- ci3 qu4 reng2 wei2 ke4 ， zhou1 xing2 ren4 guo4 chun1 。
+- wu2 zi1 zhen4 you2 jiu4 ， huai2 bao4 bu4 neng2 shen1 。
 
 ## 注释
 

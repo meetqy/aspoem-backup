@@ -6,10 +6,10 @@ titleSlug: wei-zi-zhi-ru-zong-xue-fu-er-shou-zhi-xi-qi-yi
 author: 趙必蒸
 authorPinyin: zhao4 bi4 zheng1
 authorSlug: zhao-bi-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

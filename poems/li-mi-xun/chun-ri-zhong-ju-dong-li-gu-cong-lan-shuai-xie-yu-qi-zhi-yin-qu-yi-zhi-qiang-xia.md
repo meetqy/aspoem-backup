@@ -6,10 +6,10 @@ titleSlug: chun-ri-zhong-ju-dong-li-gu-cong-lan-shuai-xie-yu-qi-zhi-yin-qu-yi-zh
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

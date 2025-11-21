@@ -6,10 +6,10 @@ titleSlug: lei-shi-yuan-kao-jiao-jiu-yue-shi-ri-ta-zhi-ba-ji-zhong-xian-bao-guan
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: jiu-jia
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風颭青帘出杏林，行人未醉甕頭春。
-- 安知滌器茅簷者，不是相如行輩人。
+- 風颭青簾掛杏村，田家新釀甕頭春。
+- 今年米貴無錢糴，買醉銜杯能幾人。
 
 ## 拼音
 
-- feng1 zhan3 qing1 lian2 chu1 xing4 lin2 ， xing2 ren2 wei4 zui4 weng4 tou2 chun1 。
-- an1 zhi1 di2 qi4 mao2 yan2 zhe3 ， bu2 shi4 xiang1 ru2 xing2 bei4 ren2 。
+- feng1 zhan3 qing1 lian2 gua4 xing4 cun1 ， tian2 jia1 xin1 niang4 weng4 tou2 chun1 。
+- jin1 nian2 mi3 gui4 wu2 qian2 di2 ， mai3 zui4 xian2 bei1 neng2 ji1 ren2 。
 
 ## 注释
 

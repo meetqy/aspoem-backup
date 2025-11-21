@@ -6,10 +6,10 @@ titleSlug: you-cheng-wu-yan-lu-shi-san-shou-qi-san
 author: 蔣祺
 authorPinyin: jiang3 qi2
 authorSlug: jiang-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

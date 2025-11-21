@@ -6,10 +6,10 @@ titleSlug: he-zhi-xuan-zhao-shi-jun-wu-ri-du-sao
 author: 釋道璨
 authorPinyin: shi4 dao4 can4
 authorSlug: shi-dao-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

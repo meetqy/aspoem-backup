@@ -6,25 +6,25 @@ titleSlug: ci-hu-wei-hang-yun
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曾識清明上巳時，嬾能游冶步芳菲。
-- 梨花半落雨初過，杜宇不鳴春自歸。
-- 雙冢年深人祭少，孤山日晚客來稀。
-- 江南尚有餘寒在，莫倚東風褪絮衣。
+- 連作湖山五日游，沙鷗慣識木蘭舟。
+- 清風寒日荒城晚，燕子梨花細雨愁。
+- 賜火恩榮皆舊夢，禁烟風景似初秋。
+- 鳳絲龍竹繁華意，猶爲西林落日留。
 
 ## 拼音
 
-- ceng2 shi2 qing1 ming2 shang4 si4 shi2 ， lan3 neng2 you2 ye3 bu4 fang1 fei1 。
-- li2 hua1 ban4 luo4 yu3 chu1 guo4 ， du4 yu3 bu4 ming2 chun1 zi4 gui1 。
-- shuang1 zhong3 nian2 shen1 ren2 ji4 shao3 ， gu1 shan1 ri4 wan3 ke4 lai2 xi1 。
-- jiang1 nan2 shang4 you3 yu2 han2 zai4 ， mo4 yi3 dong1 feng1 tui4 xu4 yi1 。
+- lian2 zuo4 hu2 shan1 wu3 ri4 you2 ， sha1 ou1 guan4 shi2 mu4 lan2 zhou1 。
+- qing1 feng1 han2 ri4 huang1 cheng2 wan3 ， yan4 zi0 li2 hua1 xi4 yu3 chou2 。
+- ci4 huo3 en1 rong2 jie1 jiu4 meng4 ， jin4 yan1 feng1 jing3 si4 chu1 qiu1 。
+- feng4 si1 long2 zhu2 fan2 hua2 yi4 ， you2 wei2 xi1 lin2 luo4 ri4 liu2 。
 
 ## 注释
 

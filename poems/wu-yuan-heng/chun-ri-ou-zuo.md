@@ -9,18 +9,18 @@ authorSlug: wu-yuan-heng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 縱橫桃李枝，淡蕩春風吹。
-- 美人歌白苧，萬恨在蛾眉。
+- 飛花寂寂燕雙雙，南客衡門對楚江。
+- 惆悵管弦何處發，春風吹到讀書窗。
 
 ## 拼音
 
-- zong4 heng2 tao2 li3 zhi1 ， dan4 dang4 chun1 feng1 chui1 。
-- mei3 ren2 ge1 bai2 zhu4 ， wan4 hen4 zai4 e2 mei2 。
+- fei1 hua1 ji4 ji4 yan4 shuang1 shuang1 ， nan2 ke4 heng2 men2 dui4 chu3 jiang1 。
+- chou2 chang4 guan3 xian2 he2 chu3 fa1 ， chun1 feng1 chui1 dao4 du2 shu1 chuang1 。
 
 ## 注释
 

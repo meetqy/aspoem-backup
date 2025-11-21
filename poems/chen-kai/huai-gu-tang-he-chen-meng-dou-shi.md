@@ -6,10 +6,10 @@ titleSlug: huai-gu-tang-he-chen-meng-dou-shi
 author: 陳塏
 authorPinyin: chen2 kai3
 authorSlug: chen-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

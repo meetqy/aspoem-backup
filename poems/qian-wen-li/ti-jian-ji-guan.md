@@ -6,10 +6,10 @@ titleSlug: ti-jian-ji-guan
 author: 錢聞禮
 authorPinyin: qian2 wen2 li3
 authorSlug: qian-wen-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

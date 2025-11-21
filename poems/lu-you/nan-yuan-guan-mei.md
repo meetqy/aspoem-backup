@@ -6,25 +6,25 @@ titleSlug: nan-yuan-guan-mei
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小嶺清陂寂寞中，綠樽歲晚與君同。
-- 高標賴有詩人識，絕艷真窮造物工。
-- 正喜參差橫夜月，又驚零落付春風。
-- 老諳世事寧多嘆，身自人間一轉蓬。
+- 幽徑疏籬洗世塵，眼明見此數枝新。
+- 橫斜恰受三更月，璀璨先回萬物春。
+- 洛浦凌波矜絕態，緱山騎鶴想前身。
+- 放翁著句煩君記，畫在生綃却未真。
 
 ## 拼音
 
-- xiao3 ling3 qing1 bei1 ji4 mo4 zhong1 ， lü4 zun1 sui4 wan3 yu3 jun1 tong2 。
-- gao1 biao1 lai4 you3 shi1 ren2 shi2 ， jue2 yan4 zhen1 qiong2 zao4 wu4 gong1 。
-- zheng4 xi3 can1 cha4 heng2 ye4 yue4 ， you4 jing1 ling2 luo4 fu4 chun1 feng1 。
-- lao3 an1 shi4 shi4 ning2 duo1 tan4 ， shen1 zi4 ren2 jian4 yi4 zhuan3 peng2 。
+- you1 jing4 shu1 li2 xi3 shi4 chen2 ， yan3 ming2 jian4 ci3 shu4 zhi1 xin1 。
+- heng2 xie2 qia4 shou4 san1 geng1 yue4 ， cui3 can4 xian1 hui2 wan4 wu4 chun1 。
+- luo4 pu3 ling2 bo1 jin1 jue2 tai4 ， gou1 shan1 qi2 he4 xiang3 qian2 shen1 。
+- fang4 weng1 zhu4 ju4 fan2 jun1 ji4 ， hua4 zai4 sheng1 xiao1 que4 wei4 zhen1 。
 
 ## 注释
 

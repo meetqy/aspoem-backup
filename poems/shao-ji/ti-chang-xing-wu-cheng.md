@@ -6,9 +6,9 @@ titleSlug: ti-chang-xing-wu-cheng
 author: 邵緝
 authorPinyin: shao4 ji2
 authorSlug: shao-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

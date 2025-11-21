@@ -6,10 +6,10 @@ titleSlug: ci-yun-hui-zhi-xue-shi-ma-shang-kou-zhan
 author: 王安禮
 authorPinyin: wang2 an1 li3
 authorSlug: wang-an-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

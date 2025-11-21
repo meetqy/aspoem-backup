@@ -6,10 +6,10 @@ titleSlug: xiao-shu-zhu-jun-shi-ji-yuan-ju-sheng-gai-xin-pian-yi-zhou-jie-you-bi
 author: 盧革
 authorPinyin: lu2 ge2
 authorSlug: lu-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

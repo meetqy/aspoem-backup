@@ -6,10 +6,10 @@ titleSlug: run-zhou
 author: 楊模
 authorPinyin: yang2 mo2
 authorSlug: yang-mo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shui-xian-hua-er-shou-qi-yi
 author: 徐似道
 authorPinyin: xu2 si4 dao4
 authorSlug: xu-si-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

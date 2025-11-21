@@ -6,21 +6,21 @@ titleSlug: ci-yun-bie-you
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長汀草色恨連天，一片飛紅漲綠川。
-- 寒入湘簾君又去，只隨燕子過年年。
+- 硯香不肯與山留，雨浥寒花斷送秋。
+- 後夜酒醒詩更好，淡烟荒草並漁舟。
 
 ## 拼音
 
-- chang2 ting1 cao3 se4 hen4 lian2 tian1 ， yi2 pian4 fei1 hong2 zhang3 lü4 chuan1 。
-- han2 ru4 xiang1 lian2 jun1 you4 qu4 ， zhi1 sui2 yan4 zi0 guo4 nian2 nian2 。
+- yan4 xiang1 bu4 ken3 yu3 shan1 liu2 ， yu3 yi4 han2 hua1 duan4 song4 qiu1 。
+- hou4 ye4 jiu3 xing3 shi1 geng4 hao3 ， dan4 yan1 huang1 cao3 bing4 yu2 zhou1 。
 
 ## 注释
 

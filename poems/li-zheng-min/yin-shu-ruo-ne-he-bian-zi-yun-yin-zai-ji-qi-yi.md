@@ -6,10 +6,10 @@ titleSlug: yin-shu-ruo-ne-he-bian-zi-yun-yin-zai-ji-qi-yi
 author: 李正民
 authorPinyin: li3 zheng4 min2
 authorSlug: li-zheng-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

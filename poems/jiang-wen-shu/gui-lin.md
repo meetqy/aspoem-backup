@@ -6,10 +6,10 @@ titleSlug: gui-lin
 author: 江文叔
 authorPinyin: jiang1 wen2 shu1
 authorSlug: jiang-wen-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

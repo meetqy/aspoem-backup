@@ -6,10 +6,10 @@ titleSlug: tai-wei-wu-tai-jie-du-shou-chang-hou-wan-ci-qi-san
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

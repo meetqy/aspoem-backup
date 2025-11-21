@@ -1,26 +1,30 @@
 ---
 id: shi-pu-ning-ji-song-si-shi-yi-shou-qi-er
-title: 偈頌四十一首  其二
-titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 er4
+title: 偈頌四十一首  其二○
+titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 er4 ○
 titleSlug: ji-song-si-shi-yi-shou-qi-er
 author: 釋普寧
 authorPinyin: shi4 pu3 ning2
 authorSlug: shi-pu-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 坐斷千差，當陽烜赫。
-- 任是須彌燈王，也須望空斫額。
+- 折脚鐺，破木杓。
+- 無柄霸，難摸索。
+- 橫拈倒用，破二作三。
+- 正按傍提，七穿八穴。
 
 ## 拼音
 
-- zuo4 duan4 qian1 cha4 ， dang1 yang2 xuan1 he4 。
-- ren4 shi4 xu1 mi2 deng1 wang2 ， ye3 xu1 wang4 kong1 zhuo2 e2 。
+- zhe2 jiao3 dang1 ， po4 mu4 shao2 。
+- wu2 bing3 ba4 ， nan2 mo1 suo3 。
+- heng2 nian1 dao3 yong4 ， po4 er4 zuo4 san1 。
+- zheng4 an4 bang4 ti2 ， qi1 chuan1 ba1 xue2 。
 
 ## 注释
 

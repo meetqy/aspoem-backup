@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-han-qing-jiu-la-mei-er-shou-qi-yi
-title: 次韻漢卿舅臘梅二首・其一
-titlePinyin: ci4 yun4 han4 qing1 jiu4 la4 mei2 er4 shou3・qi2 yi1
+title: 次韻漢卿舅臘梅二首  其一
+titlePinyin: ci4 yun4 han4 qing1 jiu4 la4 mei2 er4 shou3     qi2 yi1
 titleSlug: ci-yun-han-qing-jiu-la-mei-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

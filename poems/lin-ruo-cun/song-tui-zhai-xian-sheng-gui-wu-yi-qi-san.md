@@ -6,10 +6,10 @@ titleSlug: song-tui-zhai-xian-sheng-gui-wu-yi-qi-san
 author: 林若存
 authorPinyin: lin2 ruo4 cun2
 authorSlug: lin-ruo-cun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

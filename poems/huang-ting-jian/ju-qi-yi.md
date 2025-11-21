@@ -1,24 +1,24 @@
 ---
 id: huang-ting-jian-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百家傳本略相似，如月行天見諸水。
+- 春將國艷熏花骨，日借黄金縷水紋。
 
 ## 拼音
 
-- bai3 jia1 chuan2 ben3 lüe4 xiang1 si4 ， ru2 yue4 xing2 tian1 jian4 zhu1 shui3 。
+- chun1 jiang1 guo2 yan4 xun1 hua1 gu3 ， ri4 jie4 huang2 jin1 lü3 shui3 wen2 。
 
 ## 注释
 

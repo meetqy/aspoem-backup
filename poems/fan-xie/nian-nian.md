@@ -6,10 +6,10 @@ titleSlug: nian-nian
 author: 范協
 authorPinyin: fan4 xie2
 authorSlug: fan-xie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

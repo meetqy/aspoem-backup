@@ -6,10 +6,10 @@ titleSlug: yong-bo-re-tai-yi-shou-zeng-yuan-chang
 author: 錢端禮
 authorPinyin: qian2 duan1 li3
 authorSlug: qian-duan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

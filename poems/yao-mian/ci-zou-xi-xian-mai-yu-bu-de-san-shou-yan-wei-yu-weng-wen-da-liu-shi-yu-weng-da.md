@@ -6,21 +6,21 @@ titleSlug: ci-zou-xi-xian-mai-yu-bu-de-san-shou-yan-wei-yu-weng-wen-da-liu-shi-y
 author: 姚勉
 authorPinyin: yao2 mian3
 authorSlug: yao-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 游魚驚餌總沉淵，一任携竿晚立船。
-- 今世有錢人總愛，漁翁豈獨不貪錢。
+- 渺渺澄江湛碧虛，風帆一幅掛輕蒲。
+- 吾鈎豈直魚蝦設，入釣文王未解無。
 
 ## 拼音
 
-- you2 yu2 jing1 er3 zong3 chen2 yuan1 ， yi2 ren4 xie2 gan1 wan3 li4 chuan2 。
-- jin1 shi4 you3 qian2 ren2 zong3 ai4 ， yu2 weng1 qi3 du2 bu4 tan1 qian2 。
+- miao3 miao3 cheng2 jiang1 zhan4 bi4 xu1 ， feng1 fan1 yi4 fu2 gua4 qing1 pu2 。
+- wu2 gou1 qi3 zhi2 yu2 xia1 she4 ， ru4 diao4 wen2 wang2 wei4 jie3 wu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: yu-quan-shan
 author: 楊叔蘭
 authorPinyin: yang2 shu1 lan2
 authorSlug: yang-shu-lan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

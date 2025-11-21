@@ -6,10 +6,10 @@ titleSlug: ti-jiu-xian-ge
 author: 康鼎成
 authorPinyin: kang1 ding3 cheng2
 authorSlug: kang-ding-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

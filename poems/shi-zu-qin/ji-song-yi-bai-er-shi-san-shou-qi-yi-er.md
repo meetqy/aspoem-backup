@@ -1,26 +1,32 @@
 ---
 id: shi-zu-qin-ji-song-yi-bai-er-shi-san-shou-qi-yi-er
-title: 偈頌一百二十三首  其一二
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 er4
+title: 偈頌一百二十三首  其一二○
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 er4 ○
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-er
 author: 釋祖欽
 authorPinyin: shi4 zu3 qin1
 authorSlug: shi-zu-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 撮土成金古趙州，據人來問直相酬。
-- 聲前有意今誰委，門外一江春水流。
+- 久雨忽晴，心光發明。
+- 團團紅日，寥寥太清。
+- 非特好曬㫰，亦乃好經營。
+- 下秧種粟，桑麻漸青，綠楊枝上曉鶑鳴。
+- 長連牀上，開單展鉢，可煞現成。
 
 ## 拼音
 
-- cuo1 tu3 cheng2 jin1 gu3 zhao4 zhou1 ， ju4 ren2 lai2 wen4 zhi2 xiang1 chou2 。
-- sheng1 qian2 you3 yi4 jin1 shui2 wei3 ， men2 wai4 yi4 jiang1 chun1 shui3 liu2 。
+- jiu3 yu3 hu1 qing2 ， xin1 guang1 fa1 ming2 。
+- tuan2 tuan2 hong2 ri4 ， liao2 liao2 tai4 qing1 。
+- fei1 te4 hao3 shai4 lang4 ， yi4 nai3 hao3 jing1 ying2 。
+- xia4 yang1 zhong3 su4 ， sang1 ma2 jian4 qing1 ， lü4 yang2 zhi1 shang4 xiao3 ying1 ming2 。
+- chang2 lian2 chuang2 shang4 ， kai1 dan1 zhan3 bo1 ， ke3 sha4 xian4 cheng2 。
 
 ## 注释
 

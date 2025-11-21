@@ -3,22 +3,22 @@ id: zhang-shi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 張湜
-authorPinyin: zhang1 shi2
+author: 張栻
+authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吳山空對越山明。
+- 郴山足奇變，其水復清美。
 
 ## 拼音
 
-- wu2 shan1 kong1 dui4 yue4 shan1 ming2 。
+- chen1 shan1 zu2 qi2 bian4 ， qi2 shui3 fu4 qing1 mei3 。
 
 ## 注释
 

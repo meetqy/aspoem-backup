@@ -6,25 +6,29 @@ titleSlug: dong-yuan
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 荒園何所有，落葉與衰叢。
-- 含芳未肯吐，惟有木芙蓉。
-- 黄菊如佳人，綠萼包金茸。
-- 牀隨重陽酒，娛此憔悴翁。
+- 浮雲蔽亭午，白日成蕭森。
+- 餘凉入坐隅，萧洒散煩襟。
+- 孟夏愛吾屋，秀木成佳陰。
+- 衆果頗已成，永日鳴山禽。
+- 杖履時亦到，逍遙忘滯淫。
+- 舉頭天雨霽，落日低遙岑。
 
 ## 拼音
 
-- huang1 yuan2 he2 suo3 you3 ， luo4 ye4 yu3 shuai1 cong2 。
-- han2 fang1 wei4 ken3 tu3 ， wei2 you3 mu4 fu2 rong2 。
-- huang2 ju2 ru2 jia1 ren2 ， lü4 e4 bao1 jin1 rong2 。
-- chuang2 sui2 zhong4 yang2 jiu3 ， yu2 ci3 qiao2 cui4 weng1 。
+- fu2 yun2 bi4 ting2 wu3 ， bai2 ri4 cheng2 xiao1 sen1 。
+- yu2 liang2 ru4 zuo4 yu2 ， xiao1 sa3 san4 fan2 jin1 。
+- meng4 xia4 ai4 wu2 wu1 ， xiu4 mu4 cheng2 jia1 yin1 。
+- zhong4 guo3 po1 yi3 cheng2 ， yong3 ri4 ming2 shan1 qin2 。
+- zhang4 lü3 shi2 yi4 dao4 ， xiao1 yao2 wang4 zhi4 yin2 。
+- ju3 tou2 tian1 yu3 ji4 ， luo4 ri4 di1 yao2 cen2 。
 
 ## 注释
 

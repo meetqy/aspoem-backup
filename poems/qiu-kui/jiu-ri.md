@@ -6,25 +6,25 @@ titleSlug: jiu-ri
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 海山秋索莫，不見菊花開。
-- 節與貧相棄，年將老共催。
-- 艱難思故里，牢落對殘盃。
-- 舊日登高伴，今無一個來。
+- 亂後黄花空滿籬，驚心節序屢推移。
+- 微吟聊續潘邠老，一笑難逢杜牧之。
+- 浮蟻共伴今日醉，食糕空憶太平時。
+- 牛山淚落龍山宴，付與西風一樣吹。
 
 ## 拼音
 
-- hai3 shan1 qiu1 suo3 mo4 ， bu2 jian4 ju2 hua1 kai1 。
-- jie2 yu3 pin2 xiang1 qi4 ， nian2 jiang1 lao3 gong4 cui1 。
-- jian1 nan2 si1 gu4 li3 ， lao2 luo4 dui4 can2 bei1 。
-- jiu4 ri4 deng1 gao1 ban4 ， jin1 wu2 yi2 ge4 lai2 。
+- luan4 hou4 huang2 hua1 kong1 man3 li2 ， jing1 xin1 jie2 xu4 lü3 tui1 yi2 。
+- wei1 yin2 liao2 xu4 pan1 bin1 lao3 ， yi2 xiao4 nan2 feng2 du4 mu4 zhi1 。
+- fu2 yi3 gong4 ban4 jin1 ri4 zui4 ， shi2 gao1 kong1 yi4 tai4 ping2 shi2 。
+- niu2 shan1 lei4 luo4 long2 shan1 yan4 ， fu4 yu3 xi1 feng1 yi2 yang4 chui1 。
 
 ## 注释
 

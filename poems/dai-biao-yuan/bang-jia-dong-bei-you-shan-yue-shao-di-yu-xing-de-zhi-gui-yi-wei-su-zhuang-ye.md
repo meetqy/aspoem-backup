@@ -6,10 +6,10 @@ titleSlug: bang-jia-dong-bei-you-shan-yue-shao-di-yu-xing-de-zhi-gui-yi-wei-su-z
 author: 戴表元
 authorPinyin: dai4 biao3 yuan2
 authorSlug: dai-biao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

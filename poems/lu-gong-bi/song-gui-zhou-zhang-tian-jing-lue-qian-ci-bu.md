@@ -6,10 +6,10 @@ titleSlug: song-gui-zhou-zhang-tian-jing-lue-qian-ci-bu
 author: 呂公弼
 authorPinyin: lü3 gong1 bi4
 authorSlug: lu-gong-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-he-shui-bu-meng-chu-mu-yuan-zhou
 author: 孫元方
 authorPinyin: sun1 yuan2 fang1
 authorSlug: sun-yuan-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

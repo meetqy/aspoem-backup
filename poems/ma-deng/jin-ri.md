@@ -6,10 +6,10 @@ titleSlug: jin-ri
 author: 馬登
 authorPinyin: ma3 deng1
 authorSlug: ma-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

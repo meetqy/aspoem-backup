@@ -1,14 +1,14 @@
 ---
 id: wen-tong-han-zhong-cheng-lou-qi-yi
-title: 漢中城樓・其一
-titlePinyin: han4 zhong1 cheng2 lou2・qi2 yi1
+title: 漢中城樓  其一
+titlePinyin: han4 zhong1 cheng2 lou2     qi2 yi1
 titleSlug: han-zhong-cheng-lou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

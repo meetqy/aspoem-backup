@@ -6,25 +6,25 @@ titleSlug: yue-shan-ren-chu-gai-qiu-song
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 踏雪到人家，投機的不差。
-- 月魂通水脈，春信入梅華。
-- 去覓炊香許，來寬束篾些。
-- 上方分佛事，先我過毗耶。
+- 一月在諸水，動隨來去舟。
+- 分身能恁麽，到處恰相投。
+- 湖海墮全璧，魚龍吞曲鈎。
+- 歸來端可慶，俱得飽參休。
 
 ## 拼音
 
-- ta4 xue3 dao4 ren2 jia1 ， tou2 ji1 de0 bu2 cha4 。
-- yue4 hun2 tong1 shui3 mai4 ， chun1 xin4 ru4 mei2 hua2 。
-- qu4 mi4 chui1 xiang1 xu1 ， lai2 kuan1 shu4 mie4 xie1 。
-- shang4 fang1 fen1 fo2 shi4 ， xian1 wo3 guo4 pi2 ye1 。
+- yi1 yue4 zai4 zhu1 shui3 ， dong4 sui2 lai2 qu4 zhou1 。
+- fen1 shen1 neng2 nen4 mo2 ， dao4 chu3 qia4 xiang1 tou2 。
+- hu2 hai3 duo4 quan2 bi4 ， yu2 long2 tun1 qu3 gou1 。
+- gui1 lai2 duan1 ke3 qing4 ， ju4 de2 bao3 can1 xiu1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju-qi-ba
 author: 孫僅
 authorPinyin: sun1 jin3
 authorSlug: sun-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

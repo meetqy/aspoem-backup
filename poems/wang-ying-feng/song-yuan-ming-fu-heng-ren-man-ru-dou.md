@@ -6,10 +6,10 @@ titleSlug: song-yuan-ming-fu-heng-ren-man-ru-dou
 author: 王應鳳
 authorPinyin: wang2 ying1 feng4
 authorSlug: wang-ying-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

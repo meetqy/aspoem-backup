@@ -6,10 +6,10 @@ titleSlug: tou-yue-hou
 author: 毛國英
 authorPinyin: mao2 guo2 ying1
 authorSlug: mao-guo-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

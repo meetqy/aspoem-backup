@@ -6,10 +6,10 @@ titleSlug: wu-yi-jing-she-shi-yong-yin-ping-jing-she
 author: 袁樞
 authorPinyin: yuan2 shu1
 authorSlug: yuan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

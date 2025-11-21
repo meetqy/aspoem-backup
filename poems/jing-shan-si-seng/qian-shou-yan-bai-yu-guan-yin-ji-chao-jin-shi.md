@@ -6,10 +6,10 @@ titleSlug: qian-shou-yan-bai-yu-guan-yin-ji-chao-jin-shi
 author: 徑山寺僧
 authorPinyin: jing4 shan1 si4 seng1
 authorSlug: jing-shan-si-seng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

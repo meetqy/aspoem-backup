@@ -6,25 +6,25 @@ titleSlug: yi-yun-feng-he-lai-pian
 author: 李至
 authorPinyin: li3 zhi4
 authorSlug: li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紅塵赤日欲相燃，頼向蓬丘少事牽。
-- 明月動摇紈扇室，亂雲重疊火□天。
-- 幽屏看雪思寒景，小簟橫風戀畫眠。
-- 安得心源凉似水，虎溪遥羨老僧禪。
+- 閑書閑畫滿芸香，卧讀行看固是常。
+- 天爲苦吟終借□，帝憐多病不教忙。
+- 泥封法醖醅猶嫩，茶煮頒冰味更長。
+- 一榻清風兼好獻，可能來此就儂嘗。
 
 ## 拼音
 
-- hong2 chen2 chi4 ri4 yu4 xiang1 ran2 ， lai4 xiang4 peng2 qiu1 shao3 shi4 qian1 。
-- ming2 yue4 dong4 yao2 wan2 shan4 shi4 ， luan4 yun2 zhong4 die2 huo3 □ tian1 。
-- you1 ping2 kan4 xue3 si1 han2 jing3 ， xiao3 dian4 heng2 feng1 lian4 hua4 mian2 。
-- an1 de2 xin1 yuan2 liang2 si4 shui3 ， hu3 xi1 yao2 xian4 lao3 seng1 shan4 。
+- xian2 shu1 xian2 hua4 man3 yun2 xiang1 ， wo4 du2 xing2 kan4 gu4 shi4 chang2 。
+- tian1 wei2 ku3 yin2 zhong1 jie4 □， di4 lian2 duo1 bing4 bu2 jiao4 mang2 。
+- ni2 feng1 fa3 yun4 pei1 you2 nen4 ， cha2 zhu3 ban1 bing1 wei4 geng4 chang2 。
+- yi2 ta4 qing1 feng1 jian1 hao3 xian4 ， ke3 neng2 lai2 ci3 jiu4 nong2 chang2 。
 
 ## 注释
 

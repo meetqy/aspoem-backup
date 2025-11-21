@@ -6,10 +6,10 @@ titleSlug: peng-lai-xing
 author: 錢公輔
 authorPinyin: qian2 gong1 fu3
 authorSlug: qian-gong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

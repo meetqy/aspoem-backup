@@ -6,10 +6,10 @@ titleSlug: ti-guan-yin-shi-bi
 author: 紹興卜者
 authorPinyin: shao4 xing1 bu3 zhe3
 authorSlug: shao-xing-bu-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

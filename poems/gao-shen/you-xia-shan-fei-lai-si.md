@@ -6,10 +6,10 @@ titleSlug: you-xia-shan-fei-lai-si
 author: 高紳
 authorPinyin: gao1 shen1
 authorSlug: gao-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

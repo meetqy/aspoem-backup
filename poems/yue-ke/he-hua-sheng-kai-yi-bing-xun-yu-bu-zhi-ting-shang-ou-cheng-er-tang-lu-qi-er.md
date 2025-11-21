@@ -6,10 +6,10 @@ titleSlug: he-hua-sheng-kai-yi-bing-xun-yu-bu-zhi-ting-shang-ou-cheng-er-tang-lu
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

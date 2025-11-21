@@ -6,10 +6,10 @@ titleSlug: ju
 author: 唐人機軸
 authorPinyin: tang2 ren2 ji1 zhou2
 authorSlug: tang-ren-ji-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

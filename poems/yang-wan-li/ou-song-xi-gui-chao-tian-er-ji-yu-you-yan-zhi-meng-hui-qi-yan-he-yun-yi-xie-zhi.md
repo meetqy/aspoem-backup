@@ -6,10 +6,10 @@ titleSlug: ou-song-xi-gui-chao-tian-er-ji-yu-you-yan-zhi-meng-hui-qi-yan-he-yun-
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

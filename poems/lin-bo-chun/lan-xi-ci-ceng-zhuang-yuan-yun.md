@@ -6,10 +6,10 @@ titleSlug: lan-xi-ci-ceng-zhuang-yuan-yun
 author: 林伯春
 authorPinyin: lin2 bo2 chun1
 authorSlug: lin-bo-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

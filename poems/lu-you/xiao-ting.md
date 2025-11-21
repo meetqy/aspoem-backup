@@ -1,30 +1,26 @@
 ---
 id: lu-you-xiao-ting
-title: 小亭
-titlePinyin: xiao3 ting2
+title: 小艇
+titlePinyin: xiao3 ting3
 titleSlug: xiao-ting
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 除地編茅作小亭，一川風露對青冥。
-- 殘螢欲盡猶穿戶，落葉初飛已滿庭。
-- 櫟老無心求匠石，鬼靈有說拒奴星。
-- 餘年默數能多少，盡付黄庭兩卷經。
+- 放翁小艇輕如葉，只載蓑衣不載家。
+- 清曉長歌何處去，武陵溪上看桃花。
 
 ## 拼音
 
-- chu2 di4 bian1 mao2 zuo4 xiao3 ting2 ， yi4 chuan1 feng1 lu4 dui4 qing1 ming2 。
-- can2 ying2 yu4 jin4 you2 chuan1 hu4 ， luo4 ye4 chu1 fei1 yi3 man3 ting2 。
-- li4 lao3 wu2 xin1 qiu2 jiang4 shi2 ， gui3 ling2 you3 shuo1 ju4 nu2 xing1 。
-- yu2 nian2 mo4 shu4 neng2 duo1 shao3 ， jin4 fu4 huang2 ting2 liang3 juan4 jing1 。
+- fang4 weng1 xiao3 ting3 qing1 ru2 ye4 ， zhi1 zai4 suo1 yi1 bu2 zai4 jia1 。
+- qing1 xiao3 chang2 ge1 he2 chu3 qu4 ， wu3 ling2 xi1 shang4 kan4 tao2 hua1 。
 
 ## 注释
 

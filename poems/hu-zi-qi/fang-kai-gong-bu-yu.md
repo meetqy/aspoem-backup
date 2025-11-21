@@ -6,10 +6,10 @@ titleSlug: fang-kai-gong-bu-yu
 author: 胡子期
 authorPinyin: hu2 zi0 qi1
 authorSlug: hu-zi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

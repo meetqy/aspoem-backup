@@ -1,24 +1,24 @@
 ---
 id: zhang-fu-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
-author: 章甫
+author: 張釜
 authorPinyin: zhang1 fu3
 authorSlug: zhang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 藉糟行萬里，醉死甘爲戮。
+- 遐想星軺思惘然。
 
 ## 拼音
 
-- jie4 zao1 hang2 wan4 li3 ， zui4 si3 gan1 wei2 lu4 。
+- xia2 xiang3 xing1 yao2 si1 wang3 ran2 。
 
 ## 注释
 

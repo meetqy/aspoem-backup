@@ -6,10 +6,10 @@ titleSlug: ye-feng-shi-yu-qi-yi
 author: 馬永卿
 authorPinyin: ma3 yong3 qing1
 authorSlug: ma-yong-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

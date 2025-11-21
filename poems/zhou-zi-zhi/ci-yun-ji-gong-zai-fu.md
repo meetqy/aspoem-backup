@@ -6,61 +6,61 @@ titleSlug: ci-yun-ji-gong-zai-fu
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒深方閉門，雪重忽滿屋。
-- 誰能起僵臥，賴此陽春曲。
-- 曲高雖和寡，喜甚得所欲。
-- 心知夜光珠，大勝煖花玉。
-- 歌君窈窕詞，侑我荔枝綠。
-- 頗疑蝸牛廬，忽作駝裘燠。
-- 窮兒偶作富，貧固不待逐。
-- 我老况才盡，文字羞二陸。
-- 上水船苦遲，脱手彈驚速。
-- 寒如蝟張毛，癡類烏棲木。
-- 兒時弄筆手，老欲袖間縮。
-- 打窗聽悉窣，坐睡便清熟。
-- 瞑想西湖雪，已没孤山麓。
-- 那知公是時，洗鉢飯僧粥。
-- 灞橋風雪驢，並酌不相屬。
-- 政如冠上貂，難使狗尾續。
-- 病骨尚畏寒，少待吹嶰竹。
-- 春山走倭遲，呼客慰窮獨。
-- 新游亦不惡，舊觀疑可復。
-- 歡知當有餘，飲豈歎不足。
-- 述作付陶謝，囊囊歸自束。
-- 相從笑癡兒，日暮方生局。
+- 住作山中居，懶甚不出屋。
+- 誰知五斗腰，須用作鈎曲。
+- 索米無如何，問舍豈不欲。
+- 空懷西谿魚，紅鱗膾寒玉。
+- 不知坐中山，修眉爲誰綠。
+- 敝裘裹粗繒，隨分了寒燠。
+- 儻忍作海夫，雖臭亦可逐。
+- 如其不能然，未可歎沉陸。
+- 此事誰當論，唾面恐自速。
+- 如君秀芝蘭，非世閑草木。
+- 交蓋久已傾，談舌未易縮。
+- 不知人謂何，此念吾已熟。
+- 年來有新遊，妙語敵嶽麓。
+- 縣知南屏謙，頗爲調茗粥。
+- 何人餘羊羔，金帳意有屬。
+- 淺斟醉糢糊，低唱聲斷續。
+- 誰同白傅春，樓下雪中竹。
+- 更題竹上詩，傷神想幽獨。
+- 但恐世間求，此樂未容復。
+- 况乃籋雲姿，自是千里足。
+- 行看鏘八鸞，何止芻一束。
+- 應憐老病翁，短髪悲曲局。
 
 ## 拼音
 
-- han2 shen1 fang1 bi4 men2 ， xue3 zhong4 hu1 man3 wu1 。
-- shui2 neng2 qi3 jiang1 wo4 ， lai4 ci3 yang2 chun1 qu3 。
-- qu3 gao1 sui1 he2 gua3 ， xi3 shen4 de2 suo3 yu4 。
-- xin1 zhi1 ye4 guang1 zhu1 ， da4 sheng4 xuan1 hua1 yu4 。
-- ge1 jun1 yao3 tiao3 ci2 ， you4 wo3 li4 zhi1 lü4 。
-- po1 yi2 wo1 niu2 lu2 ， hu1 zuo4 tuo2 qiu2 yu4 。
-- qiong2 er2 ou3 zuo4 fu4 ， pin2 gu4 bu2 dai4 zhu2 。
-- wo3 lao3 kuang4 cai2 jin4 ， wen2 zi4 xiu1 er4 lu4 。
-- shang4 shui3 chuan2 ku3 chi2 ， tuo1 shou3 dan4 jing1 su4 。
-- han2 ru2 wei4 zhang1 mao2 ， chi1 lei4 wu1 qi1 mu4 。
-- er2 shi2 nong4 bi3 shou3 ， lao3 yu4 xiu4 jian4 suo1 。
-- da3 chuang1 ting1 xi1 su1 ， zuo4 shui4 bian4 qing1 shu2 。
-- ming2 xiang3 xi1 hu2 xue3 ， yi3 mei2 gu1 shan1 lu4 。
-- na4 zhi1 gong1 shi4 shi2 ， xi3 bo1 fan4 seng1 zhou1 。
-- ba4 qiao2 feng1 xue3 lü2 ， bing4 zhuo2 bu4 xiang1 shu3 。
-- zheng4 ru2 guan1 shang4 diao1 ， nan2 shi3 gou3 wei3 xu4 。
-- bing4 gu3 shang4 wei4 han2 ， shao3 dai1 chui1 xie4 zhu2 。
-- chun1 shan1 zou3 wo1 chi2 ， hu1 ke4 wei4 qiong2 du2 。
-- xin1 you2 yi4 bu2 e4 ， jiu4 guan1 yi2 ke3 fu4 。
-- huan1 zhi1 dang1 you3 yu2 ， yin3 qi3 tan4 bu4 zu2 。
-- shu4 zuo4 fu4 tao2 xie4 ， nang2 nang2 gui1 zi4 shu4 。
-- xiang1 cong2 xiao4 chi1 er2 ， ri4 mu4 fang1 sheng1 ju2 。
+- zhu4 zuo4 shan1 zhong1 ju1 ， lan3 shen4 bu4 chu1 wu1 。
+- shui2 zhi1 wu3 dou3 yao1 ， xu1 yong4 zuo4 gou1 qu3 。
+- suo3 mi3 wu2 ru2 he2 ， wen4 she4 qi3 bu2 yu4 。
+- kong1 huai2 xi1 xi1 yu2 ， hong2 lin2 kuai4 han2 yu4 。
+- bu4 zhi1 zuo4 zhong1 shan1 ， xiu1 mei2 wei2 shui2 lü4 。
+- bi4 qiu2 guo3 cu1 zeng1 ， sui2 fen1 le0 han2 yu4 。
+- tang3 ren3 zuo4 hai3 fu1 ， sui1 chou4 yi4 ke3 zhu2 。
+- ru2 qi2 bu4 neng2 ran2 ， wei4 ke3 tan4 chen2 lu4 。
+- ci3 shi4 shui2 dang1 lun4 ， tuo4 mian4 kong3 zi4 su4 。
+- ru2 jun1 xiu4 zhi1 lan2 ， fei1 shi4 xian2 cao3 mu4 。
+- jiao1 gai4 jiu3 yi3 qing1 ， tan2 she2 wei4 yi4 suo1 。
+- bu4 zhi1 ren2 wei4 he2 ， ci3 nian4 wu2 yi3 shu2 。
+- nian2 lai2 you3 xin1 you2 ， miao4 yu3 di2 yue4 lu4 。
+- xian4 zhi1 nan2 ping2 qian1 ， po1 wei2 diao4 ming2 zhou1 。
+- he2 ren2 yu2 yang2 gao1 ， jin1 zhang4 yi4 you3 shu3 。
+- qian3 zhen1 zui4 mo2 hu2 ， di1 chang4 sheng1 duan4 xu4 。
+- shui2 tong2 bai2 fu4 chun1 ， lou2 xia4 xue3 zhong1 zhu2 。
+- geng4 ti2 zhu2 shang4 shi1 ， shang1 shen2 xiang3 you1 du2 。
+- dan4 kong3 shi4 jian4 qiu2 ， ci3 le4 wei4 rong2 fu4 。
+- kuang4 nai3 nie4 yun2 zi1 ， zi4 shi4 qian1 li3 zu2 。
+- xing2 kan4 qiang1 ba1 luan2 ， he2 zhi3 chu2 yi2 shu4 。
+- ying1 lian2 lao3 bing4 weng1 ， duan3 fa4 bei1 qu3 ju2 。
 
 ## 注释
 

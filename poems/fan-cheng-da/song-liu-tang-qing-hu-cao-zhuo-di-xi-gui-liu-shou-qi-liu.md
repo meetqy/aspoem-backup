@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-song-liu-tang-qing-hu-cao-zhuo-di-xi-gui-liu-shou-qi-liu
-title: 送劉唐卿戶曹擢第西歸六首・其六
-titlePinyin: song4 liu2 tang2 qing1 hu4 cao2 zhuo2 di4 xi1 gui1 liu4 shou3・qi2 liu4
+title: 送劉唐卿戶曹擢第西歸六首  其六
+titlePinyin: song4 liu2 tang2 qing1 hu4 cao2 zhuo2 di4 xi1 gui1 liu4 shou3     qi2 liu4
 titleSlug: song-liu-tang-qing-hu-cao-zhuo-di-xi-gui-liu-shou-qi-liu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

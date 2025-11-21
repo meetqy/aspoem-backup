@@ -6,25 +6,25 @@ titleSlug: xi-shan-dao-zhong
 author: 蘇頌
 authorPinyin: su1 song4
 authorSlug: su-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山路縈回極險難，才經深澗又高原。
-- 順風衝激還吹面，灧水堅凝幾敗轅。
-- 巖下有時逢虎迹，馬前頻聽異華言。
-- 使行勞苦誠無憚，所喜殊方識漢恩。
+- 擁傳經過白霫東，依稀村落有華風。
+- 食飴宛類吹簫市，逆旅時逢煬竈翁。
+- 漸使犬羊歸畎畝，方知雨露遍華戎。
+- 朝廷涵養恩多少，歲歲軺車萬里通。
 
 ## 拼音
 
-- shan1 lu4 ying2 hui2 ji2 xian3 nan2 ， cai2 jing1 shen1 jian4 you4 gao1 yuan2 。
-- shun4 feng1 chong1 ji1 huan2 chui1 mian4 ， yan4 shui3 jian1 ning2 ji1 bai4 yuan2 。
-- yan2 xia4 you3 shi2 feng2 hu3 ji4 ， ma3 qian2 bin1 ting1 yi4 hua2 yan2 。
-- shi3 xing2 lao2 ku3 cheng2 wu2 dan4 ， suo3 xi3 shu1 fang1 shi2 han4 en1 。
+- yong1 chuan2 jing1 guo4 bai2 xi2 dong1 ， yi1 xi1 cun1 luo4 you3 hua2 feng1 。
+- shi2 yi2 wan3 lei4 chui1 xiao1 shi4 ， ni4 lü3 shi2 feng2 yang2 zao4 weng1 。
+- jian4 shi3 quan3 yang2 gui1 quan3 mu3 ， fang1 zhi1 yu3 lu4 bian4 hua2 rong2 。
+- chao2 ting2 han2 yang3 en1 duo1 shao3 ， sui4 sui4 yao2 ju1 wan4 li3 tong1 。
 
 ## 注释
 

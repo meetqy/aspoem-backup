@@ -6,10 +6,10 @@ titleSlug: ye-gan-shang-dong-jiang-ci-qi-yu-you-zuo
 author: 孔宗翰
 authorPinyin: kong3 zong1 han4
 authorSlug: kong-zong-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

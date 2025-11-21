@@ -6,25 +6,25 @@ titleSlug: xia-ri
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 病退身初健，時清吏更休。
-- 渴蜂窺硯水，慵燕息簾鈎。
-- 碁局每坐隱，屏山時臥遊。
-- 真成愛長日，未用憶新秋。
+- 例謝門前客，深藏篋裏書。
+- 衣穿但重補，飯足不求餘。
+- 山溜鳴庭際，藤陰接屋除。
+- 何勞厭三伏，俯仰即秋初。
 
 ## 拼音
 
-- bing4 tui4 shen1 chu1 jian4 ， shi2 qing1 li4 geng4 xiu1 。
-- ke3 feng1 kui1 yan4 shui3 ， yong1 yan4 xi1 lian2 gou1 。
-- qi2 ju2 mei3 zuo4 yin3 ， ping2 shan1 shi2 wo4 you2 。
-- zhen1 cheng2 ai4 chang2 ri4 ， wei4 yong4 yi4 xin1 qiu1 。
+- li4 xie4 men2 qian2 ke4 ， shen1 cang2 qie4 li3 shu1 。
+- yi1 chuan1 dan4 zhong4 bu3 ， fan4 zu2 bu4 qiu2 yu2 。
+- shan1 liu1 ming2 ting2 ji4 ， teng2 yin1 jie1 wu1 chu2 。
+- he2 lao2 yan4 san1 fu2 ， fu3 yang3 ji2 qiu1 chu1 。
 
 ## 注释
 

@@ -9,18 +9,18 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 窗外齊垂旭日初，樓邊輕好暖風徐。
-- 遊人莫道栽無益，桃李清陰却不如。
+- 西園高樹後庭根，處處尋芳有折痕。
+- 終憶舊遊桃葉舍，一株斜映竹籬門。
 
 ## 拼音
 
-- chuang1 wai4 qi2 chui2 xu4 ri4 chu1 ， lou2 bian1 qing1 hao3 nuan3 feng1 xu2 。
-- you2 ren2 mo4 dao4 zai1 wu2 yi4 ， tao2 li3 qing1 yin1 que4 bu4 ru2 。
+- xi1 yuan2 gao1 shu4 hou4 ting2 gen1 ， chu3 chu3 xun2 fang1 you3 zhe2 hen2 。
+- zhong1 yi4 jiu4 you2 tao2 ye4 she4 ， yi4 zhu1 xie2 ying4 zhu2 li2 men2 。
 
 ## 注释
 

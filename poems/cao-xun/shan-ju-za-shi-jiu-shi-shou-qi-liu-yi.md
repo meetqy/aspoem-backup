@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古鐵如鈎戟，歲久鋼斷綻。
-- 久爲土氣蝕，皆成豌豆𤂳。
-- 銖兩每不多，積之可精煉。
-- 爲劍或爲刀，花賓劣于滇。
+- 澤國經炎夏，常厭日晷永。
+- 既乏枕簟凉，亦欠冰雪冷。
+- 北窗但倦卧，閑人遠造請。
+- 時濯醒心泉，柳下汲深井。
 
 ## 拼音
 
-- gu3 tie3 ru2 gou1 ji3 ， sui4 jiu3 gang1 duan4 zhan4 。
-- jiu3 wei2 tu3 qi4 shi2 ， jie1 cheng2 wan1 dou4 𤂳。
-- zhu1 liang3 mei3 bu4 duo1 ， ji1 zhi1 ke3 jing1 lian4 。
-- wei2 jian4 huo4 wei2 dao1 ， hua1 bin1 lie4 yu2 dian1 。
+- ze2 guo2 jing1 yan2 xia4 ， chang2 yan4 ri4 gui3 yong3 。
+- ji4 fa2 zhen3 dian4 liang2 ， yi4 qian4 bing1 xue3 leng3 。
+- bei3 chuang1 dan4 juan4 wo4 ， xian2 ren2 yuan3 zao4 qing3 。
+- shi2 zhuo2 xing3 xin1 quan2 ， liu3 xia4 ji2 shen1 jing3 。
 
 ## 注释
 

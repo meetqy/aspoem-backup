@@ -6,10 +6,10 @@ titleSlug: geng-chen-jiu-ri-chen-shi-chong-lai-fang-shuo-ji
 author: 釋珍南州
 authorPinyin: shi4 zhen1 nan2 zhou1
 authorSlug: shi-zhen-nan-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

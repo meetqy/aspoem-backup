@@ -6,10 +6,10 @@ titleSlug: he-feng-ji-chuan-ti-ku-lou-tu
 author: 釋妙喜
 authorPinyin: shi4 miao4 xi3
 authorSlug: shi-miao-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

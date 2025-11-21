@@ -6,10 +6,10 @@ titleSlug: meng-yang-ting-xiu-song-xi-gui-chao-tian-er-ji-zeng-yi-qi-yan
 author: 尤袤
 authorPinyin: you2 mao4
 authorSlug: you-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

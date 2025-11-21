@@ -6,10 +6,10 @@ titleSlug: shi-men-dong
 author: 王開平
 authorPinyin: wang2 kai1 ping2
 authorSlug: wang-kai-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

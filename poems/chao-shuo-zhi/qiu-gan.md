@@ -6,39 +6,25 @@ titleSlug: qiu-gan
 author: 晁說之
 authorPinyin: chao2 shuo1 zhi1
 authorSlug: chao-shuo-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鄰雞鳴已過，吾雞一何懶。
-- 要穩土人眠，高視清秋晏。
-- 惜哉清秋時，留客久異縣。
-- 莫謂兹荒陬，千令洿畿甸。
-- 黄屋在揚州，江山被恩幸。
-- 肥羜翻吳羮，宮粧驚楚練。
-- 雖云胡馬陣，敢敵水龍鑑。
-- 有事郊三年，神降樂六變。
-- 萬國走玉帛，兩京鎖宮殿。
-- 明發迎歸路，兹夕淚如霰。
-- 孤旅愁思絕，一身幾憂患。
+- 又作此秋飄泊客，茫茫誰是北歸人。
+- 庭前雨過鵝羣浴，池上風來螢火新。
+- 戰馬不肥淮甸草，屬車思輾洛陽塵。
+- 如聞胡虜渡河去，緱月箕雲待老身。
 
 ## 拼音
 
-- lin2 ji1 ming2 yi3 guo4 ， wu2 ji1 yi4 he2 lan3 。
-- yao4 wen3 tu3 ren2 mian2 ， gao1 shi4 qing1 qiu1 yan4 。
-- xi1 zai1 qing1 qiu1 shi2 ， liu2 ke4 jiu3 yi4 xian4 。
-- mo4 wei4 zi1 huang1 zou1 ， qian1 ling4 wu1 ji1 dian4 。
-- huang2 wu1 zai4 yang2 zhou1 ， jiang1 shan1 bei4 en1 xing4 。
-- fei2 zhu4 fan1 wu2 geng1 ， gong1 zhuang1 jing1 chu3 lian4 。
-- sui1 yun2 hu2 ma3 zhen4 ， gan3 di2 shui3 long2 jian4 。
-- you3 shi4 jiao1 san1 nian2 ， shen2 jiang4 le4 liu4 bian4 。
-- wan4 guo2 zou3 yu4 bo2 ， liang3 jing1 suo3 gong1 dian4 。
-- ming2 fa1 ying2 gui1 lu4 ， zi1 xi1 lei4 ru2 xian4 。
-- gu1 lü3 chou2 si1 jue2 ， yi4 shen1 ji1 you1 huan4 。
+- you4 zuo4 ci3 qiu1 piao1 bo2 ke4 ， mang2 mang2 shui2 shi4 bei3 gui1 ren2 。
+- ting2 qian2 yu3 guo4 e2 qun2 yu4 ， chi2 shang4 feng1 lai2 ying2 huo3 xin1 。
+- zhan4 ma3 bu4 fei2 huai2 dian4 cao3 ， shu3 ju1 si1 zhan3 luo4 yang2 chen2 。
+- ru2 wen2 hu2 lu3 du4 he2 qu4 ， gou1 yue4 ji1 yun2 dai4 lao3 shen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: mei-hua
 author: 盧梅坡
 authorPinyin: lu2 mei2 po1
 authorSlug: lu-mei-po
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

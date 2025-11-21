@@ -1,30 +1,30 @@
 ---
 id: song-gao-zong-wen-xuan-wang-ji-qi-di-zi-zan-qi-er
-title: 文宣王及其弟子贊  其二
-titlePinyin: wen2 xuan1 wang2 ji2 qi2 di4 zi3 zan4     qi2 er4
+title: 文宣王及其弟子贊  其二○
+titlePinyin: wen2 xuan1 wang2 ji2 qi2 di4 zi3 zan4     qi2 er4 ○
 titleSlug: wen-xuan-wang-ji-qi-di-zi-zan-qi-er
 author: 宋高宗
 authorPinyin: song4 gao1 zong1
 authorSlug: song-gao-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 德行首科，顯冠學徒。
-- 不遷不貳，樂道以居。
-- 食埃甚忠，在陋自如。
-- 宜稱賢哉，豈止不愚。
+- 伯夫滎陽，實惟令德。
+- 優入聖門，過不留跡。
+- 道以目傳，妙則心識。
+- 倚歟偉歟，後代之則。
 
 ## 拼音
 
-- de2 hang2 shou3 ke1 ， xian3 guan1 xue2 tu2 。
-- bu4 qian1 bu2 er4 ， le4 dao4 yi3 ju1 。
-- shi2 ai1 shen4 zhong1 ， zai4 lou4 zi4 ru2 。
-- yi2 cheng1 xian2 zai1 ， qi3 zhi3 bu4 yu2 。
+- bo2 fu1 xing2 yang2 ， shi2 wei2 ling4 de2 。
+- you1 ru4 sheng4 men2 ， guo4 bu4 liu2 ji4 。
+- dao4 yi3 mu4 chuan2 ， miao4 ze2 xin1 shi2 。
+- yi3 yu2 wei3 yu2 ， hou4 dai4 zhi1 ze2 。
 
 ## 注释
 

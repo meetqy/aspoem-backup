@@ -6,10 +6,10 @@ titleSlug: zhuan-shu-zui-weng-ting-ji-shi-ke
 author: 邵忱
 authorPinyin: shao4 chen2
 authorSlug: shao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

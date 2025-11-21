@@ -6,10 +6,10 @@ titleSlug: you-huan-shan-hui-zhe-shi-ren-yi-chun-shui-man-si-ze-xia-yun-duo-qi-f
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

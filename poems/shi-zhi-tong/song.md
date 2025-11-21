@@ -6,9 +6,9 @@ titleSlug: song
 author: 釋智同
 authorPinyin: shi4 zhi4 tong2
 authorSlug: shi-zhi-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

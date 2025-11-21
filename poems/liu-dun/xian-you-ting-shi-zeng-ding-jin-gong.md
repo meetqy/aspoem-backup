@@ -6,10 +6,10 @@ titleSlug: xian-you-ting-shi-zeng-ding-jin-gong
 author: 劉遁
 authorPinyin: liu2 dun4
 authorSlug: liu-dun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,30 +1,30 @@
 ---
 id: li-gang-long-mian-ju-shi-hua-shi-liu-da-a-luo-han-zan-qi-yi
-title: 龍眠居士畫十六大阿羅漢贊  其一
-titlePinyin: long2 mian2 ju1 shi4 hua4 shi2 liu4 da4 a1 luo2 han4 zan4     qi2 yi1
+title: 龍眠居士畫十六大阿羅漢贊  其一○
+titlePinyin: long2 mian2 ju1 shi4 hua4 shi2 liu4 da4 a1 luo2 han4 zan4     qi2 yi1 ○
 titleSlug: long-mian-ju-shi-hua-shi-liu-da-a-luo-han-zan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 佛所印可，大阿闍黎。
-- 隱几合爪，泊然無爲。
-- 懇請何人，投地作禮。
-- 不起于坐，應供千里。
+- 長松森然，虬枝拂天。
+- 支頤據木，仰睇玄猿。
+- 竹樹之間，方虛禪座。
+- 我欲攝衣，往補其處。
 
 ## 拼音
 
-- fo2 suo3 yin4 ke3 ， da4 a1 du1 li2 。
-- yin3 ji3 he2 zhua3 ， bo2 ran2 wu2 wei2 。
-- ken3 qing3 he2 ren2 ， tou2 di4 zuo4 li3 。
-- bu4 qi3 yu2 zuo4 ， ying1 gong4 qian1 li3 。
+- chang2 song1 sen1 ran2 ， qiu2 zhi1 fu2 tian1 。
+- zhi1 yi2 ju4 mu4 ， yang3 di4 xuan2 yuan2 。
+- zhu2 shu4 zhi1 jian4 ， fang1 xu1 shan4 zuo4 。
+- wo3 yu4 she4 yi1 ， wang3 bu3 qi2 chu3 。
 
 ## 注释
 

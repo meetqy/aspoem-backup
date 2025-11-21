@@ -6,25 +6,25 @@ titleSlug: shui-qi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 深閉重門謝簿書，日長添得睡工夫。
-- 水紋笛簟涼如洗，雲碧紗幮薄欲無。
-- 半吐山榴看著子，新來梁燕見將雛。
-- 夢回茗椀聊須把，自掃桐陰置瓦爐。
+- 不恨無人到野堂，惟將美睡答年光。
+- 風經荷葉翻翻綠，雨溼松枝細細香。
+- 薄俗空成士龍笑，長歌未盡接輿狂。
+- 掬泉弄石翛然晚，又得今年一夏凉。
 
 ## 拼音
 
-- shen1 bi4 zhong4 men2 xie4 bo2 shu1 ， ri4 chang2 tian1 de2 shui4 gong1 fu0 。
-- shui3 wen2 di2 dian4 liang2 ru2 xi3 ， yun2 bi4 sha1 chu2 bao2 yu4 wu2 。
-- ban4 tu3 shan1 liu2 kan4 zhu4 zi3 ， xin1 lai2 liang2 yan4 jian4 jiang1 chu2 。
-- meng4 hui2 ming2 wan3 liao2 xu1 ba3 ， zi4 sao3 tong2 yin1 zhi4 wa3 lu2 。
+- bu2 hen4 wu2 ren2 dao4 ye3 tang2 ， wei2 jiang1 mei3 shui4 da2 nian2 guang1 。
+- feng1 jing1 he2 ye4 fan1 fan1 lü4 ， yu3 shi1 song1 zhi1 xi4 xi4 xiang1 。
+- bao2 su2 kong1 cheng2 shi4 long2 xiao4 ， chang2 ge1 wei4 jin4 jie1 yu2 kuang2 。
+- ju1 quan2 nong4 shi2 xiao1 ran2 wan3 ， you4 de2 jin1 nian2 yi2 xia4 liang2 。
 
 ## 注释
 

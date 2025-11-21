@@ -6,25 +6,25 @@ titleSlug: ji-shi-qi-er
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 問訊鶑猶懶，尋芳花較遲。
-- 忽驚雷送雨，漸喜水平池。
-- 竊祿慙無補，歸耕未有期。
-- 春工誰道巧，不染鬢成絲。
+- 光陰老去漫匆匆，千騎南來歲又窮。
+- 竹瘦固應留晚節，梅開寧亦待春風。
+- 青冥蹭蹬何關我，白髮飄蕭恐未翁。
+- 畢竟田園歸去好，暮雲回首自江東。
 
 ## 拼音
 
-- wen4 xun4 ying1 you2 lan3 ， xun2 fang1 hua1 jiao4 chi2 。
-- hu1 jing1 lei2 song4 yu3 ， jian4 xi3 shui3 ping2 chi2 。
-- qie4 lu4 can2 wu2 bu3 ， gui1 geng1 wei4 you3 qi1 。
-- chun1 gong1 shui2 dao4 qiao3 ， bu4 ran3 bin4 cheng2 si1 。
+- guang1 yin1 lao3 qu4 man4 cong1 cong1 ， qian1 qi2 nan2 lai2 sui4 you4 qiong2 。
+- zhu2 shou4 gu4 ying1 liu2 wan3 jie2 ， mei2 kai1 ning2 yi4 dai4 chun1 feng1 。
+- qing1 ming2 ceng4 deng1 he2 guan1 wo3 ， bai2 fa4 piao1 xiao1 kong3 wei4 weng1 。
+- bi4 jing4 tian2 yuan2 gui1 qu4 hao3 ， mu4 yun2 hui2 shou3 zi4 jiang1 dong1 。
 
 ## 注释
 

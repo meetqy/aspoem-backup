@@ -6,10 +6,10 @@ titleSlug: deng-hu-qiu-si
 author: 趙善俊
 authorPinyin: zhao4 shan4 jun4
 authorSlug: zhao-shan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

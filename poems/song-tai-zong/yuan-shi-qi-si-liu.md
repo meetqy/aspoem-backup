@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-si-liu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 君子懷幽趣，謙恭禮樂才。
-- 經心皆識見，書史盡通該。
-- 有德馨還遠，清虛道亦開。
-- 先生宜法則，宿習自將來。
+- 道經念誦信無爲，清靜玄言好自持。
+- 苦行精修心不倦，嚥津往往過齋時。
 
 ## 拼音
 
-- jun1 zi3 huai2 you1 qu4 ， qian1 gong1 li3 le4 cai2 。
-- jing1 xin1 jie1 shi2 jian4 ， shu1 shi3 jin4 tong1 gai1 。
-- you3 de2 xin1 huan2 yuan3 ， qing1 xu1 dao4 yi4 kai1 。
-- xian1 sheng0 yi2 fa3 ze2 ， su4 xi2 zi4 jiang1 lai2 。
+- dao4 jing1 nian4 song4 xin4 wu2 wei2 ， qing1 jing4 xuan2 yan2 hao3 zi4 chi2 。
+- ku3 xing2 jing1 xiu1 xin1 bu2 juan4 ， yan4 jin1 wang3 wang3 guo4 zhai1 shi2 。
 
 ## 注释
 

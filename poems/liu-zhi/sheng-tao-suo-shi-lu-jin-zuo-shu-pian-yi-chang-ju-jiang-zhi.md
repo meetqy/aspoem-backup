@@ -6,10 +6,10 @@ titleSlug: sheng-tao-suo-shi-lu-jin-zuo-shu-pian-yi-chang-ju-jiang-zhi
 author: 劉摯
 authorPinyin: liu2 zhi4
 authorSlug: liu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

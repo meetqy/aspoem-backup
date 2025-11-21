@@ -6,10 +6,10 @@ titleSlug: he-lou-shou-fu-yuan-tang-liu-ti
 author: 王寧
 authorPinyin: wang2 ning2
 authorSlug: wang-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

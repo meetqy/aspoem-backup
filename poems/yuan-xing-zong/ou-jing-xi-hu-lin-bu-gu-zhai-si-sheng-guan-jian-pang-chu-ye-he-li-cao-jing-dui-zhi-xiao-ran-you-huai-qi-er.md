@@ -6,10 +6,10 @@ titleSlug: ou-jing-xi-hu-lin-bu-gu-zhai-si-sheng-guan-jian-pang-chu-ye-he-li-cao
 author: 員興宗
 authorPinyin: yuan2 xing1 zong1
 authorSlug: yuan-xing-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

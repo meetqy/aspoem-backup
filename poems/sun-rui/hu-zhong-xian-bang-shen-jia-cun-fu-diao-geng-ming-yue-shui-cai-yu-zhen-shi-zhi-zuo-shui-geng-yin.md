@@ -6,10 +6,10 @@ titleSlug: hu-zhong-xian-bang-shen-jia-cun-fu-diao-geng-ming-yue-shui-cai-yu-zhe
 author: 孫銳
 authorPinyin: sun1 rui4
 authorSlug: sun-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

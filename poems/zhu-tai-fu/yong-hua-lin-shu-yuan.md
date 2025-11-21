@@ -6,10 +6,10 @@ titleSlug: yong-hua-lin-shu-yuan
 author: 朱台符
 authorPinyin: zhu1 tai2 fu2
 authorSlug: zhu-tai-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ji-tang-chao-mei
 author: 周孚
 authorPinyin: zhou1 fu2
 authorSlug: zhou-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 綠樹陰陰噪莫蟬，雀羅門戶更蕭然。
-- 平生流輩今誰在，鄉里衣冠子最賢。
-- 老境幸逢傾蓋語，畏途當記說車篇。
-- 荷鋤端欲相隨去，却恨初無二頃田。
+- 君家堂下錦千堆，老眼春風亦快哉。
+- 勝日久孤三徑約，浹辰深愧兩書來。
+- 公租已辦應多暇，家釀重開定幾回。
+- 會挽蜀狂成一醉，莫嗔屐齒破蒼苔。
 
 ## 拼音
 
-- lü4 shu4 yin1 yin1 zao4 mo4 chan2 ， que4 luo2 men2 hu4 geng4 xiao1 ran2 。
-- ping2 sheng1 liu2 bei4 jin1 shui2 zai4 ， xiang1 li3 yi1 guan1 zi3 zui4 xian2 。
-- lao3 jing4 xing4 feng2 qing1 gai4 yu3 ， wei4 tu2 dang1 ji4 shuo1 ju1 pian1 。
-- he2 chu2 duan1 yu4 xiang1 sui2 qu4 ， que4 hen4 chu1 wu2 er4 qing3 tian2 。
+- jun1 jia1 tang2 xia4 jin3 qian1 dui1 ， lao3 yan3 chun1 feng1 yi4 kuai4 zai1 。
+- sheng4 ri4 jiu3 gu1 san1 jing4 yue1 ， jia1 chen2 shen1 kui4 liang3 shu1 lai2 。
+- gong1 zu1 yi3 ban4 ying1 duo1 xia2 ， jia1 niang4 zhong4 kai1 ding4 ji1 hui2 。
+- hui4 wan3 shu3 kuang2 cheng2 yi2 zui4 ， mo4 chen1 ji1 chi3 po4 cang1 tai2 。
 
 ## 注释
 

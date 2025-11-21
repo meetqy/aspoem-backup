@@ -6,10 +6,10 @@ titleSlug: ji-ba-shou-qi-si
 author: 釋思慧
 authorPinyin: shi4 si1 hui4
 authorSlug: shi-si-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

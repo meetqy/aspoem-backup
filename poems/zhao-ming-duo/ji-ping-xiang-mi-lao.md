@@ -6,10 +6,10 @@ titleSlug: ji-ping-xiang-mi-lao
 author: 趙鳴鐸
 authorPinyin: zhao4 ming2 duo2
 authorSlug: zhao-ming-duo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

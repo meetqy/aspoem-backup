@@ -6,10 +6,10 @@ titleSlug: song-jing-wen-gong-zhi-sun-jing-yun-de-yu-gui-yin-you-zhong-xiao-hou-
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

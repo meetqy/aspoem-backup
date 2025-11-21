@@ -6,9 +6,9 @@ titleSlug: ju
 author: 葉宗諤
 authorPinyin: ye4 zong1 e4
 authorSlug: ye-zong-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

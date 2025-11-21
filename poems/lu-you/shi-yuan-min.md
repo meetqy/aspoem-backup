@@ -6,25 +6,25 @@ titleSlug: shi-yuan-min
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 學問參千古，工夫始一經。
-- 寧論綬若若，且喜佩青青。
-- 汝業方當進，吾言要細聽。
-- 仍須知稼穡，勉爲國添丁。
+- 學貴身行道，儒當世守經。
+- 心心慕繩檢，字字講聲形。
+- 吾已鬢眉白，汝方衿佩青。
+- 良時不可失，苦語直須聽。
 
 ## 拼音
 
-- xue2 wen4 can1 qian1 gu3 ， gong1 fu0 shi3 yi4 jing1 。
-- ning2 lun4 shou4 ruo4 ruo4 ， qie3 xi3 pei4 qing1 qing1 。
-- ru3 ye4 fang1 dang1 jin4 ， wu2 yan2 yao4 xi4 ting1 。
-- reng2 xu1 zhi1 jia4 se4 ， mian3 wei2 guo2 tian1 ding1 。
+- xue2 gui4 shen1 hang2 dao4 ， ru2 dang1 shi4 shou3 jing1 。
+- xin1 xin1 mu4 sheng2 jian3 ， zi4 zi4 jiang3 sheng1 xing2 。
+- wu2 yi3 bin4 mei2 bai2 ， ru3 fang1 jin1 pei4 qing1 。
+- liang2 shi2 bu4 ke3 shi1 ， ku3 yu3 zhi2 xu1 ting1 。
 
 ## 注释
 

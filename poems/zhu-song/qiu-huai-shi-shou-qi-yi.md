@@ -1,30 +1,30 @@
 ---
 id: zhu-song-qiu-huai-shi-shou-qi-yi
-title: 秋懷十首  其一
-titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1
+title: 秋懷十首  其一○
+titlePinyin: qiu1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: qiu-huai-shi-shou-qi-yi
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 秋風來幾日，我髮白已多。
-- 千林了未覺，奈此一葉何。
-- 宴坐閲流光，一盼寄庭柯。
-- 寒蟲獨何者，唧唧夜自歌。
+- 江海有一士，補衮抱經緯。
+- 帝衣日月明，袖手久不試。
+- 九關隔雲雨，誰肯借一臂。
+- 絃急而調卑，此歎同萬世。
 
 ## 拼音
 
-- qiu1 feng1 lai2 ji1 ri4 ， wo3 fa4 bai2 yi3 duo1 。
-- qian1 lin2 le0 wei4 jue2 ， nai4 ci3 yi2 ye4 he2 。
-- yan4 zuo4 yue4 liu2 guang1 ， yi2 pan4 ji4 ting2 ke1 。
-- han2 chong2 du2 he2 zhe3 ， ji1 ji1 ye4 zi4 ge1 。
+- jiang1 hai3 you3 yi2 shi4 ， bu3 gun3 bao4 jing1 wei3 。
+- di4 yi1 ri4 yue4 ming2 ， xiu4 shou3 jiu3 bu2 shi4 。
+- jiu3 guan1 ge2 yun2 yu3 ， shui2 ken3 jie4 yi2 bi4 。
+- xian2 ji2 er2 diao4 bei1 ， ci3 tan4 tong2 wan4 shi4 。
 
 ## 注释
 

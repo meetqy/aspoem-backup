@@ -6,25 +6,25 @@ titleSlug: chen-qi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 布衾失餘溫，紙窗啟微明。
-- 霜粲萬瓦白，江可一葦橫。
-- 故園菊應荒，郢岸梅且榮。
-- 客遊胡滯留，歲事行崢嶸。
+- 人語村村好，雞聲處處聞。
+- 樹猶埋宿雨，山未釋停雲。
+- 俯仰夏已度，屈伸秋又分。
+- 平生燈火念，牢落嘆離羣。
 
 ## 拼音
 
-- bu4 qin1 shi1 yu2 wen1 ， zhi3 chuang1 qi3 wei1 ming2 。
-- shuang1 can4 wan4 wa3 bai2 ， jiang1 ke3 yi4 wei3 heng2 。
-- gu4 yuan2 ju2 ying1 huang1 ， ying3 an4 mei2 qie3 rong2 。
-- ke4 you2 hu2 zhi4 liu2 ， sui4 shi4 xing2 zheng1 rong2 。
+- ren2 yu3 cun1 cun1 hao3 ， ji1 sheng1 chu3 chu3 wen2 。
+- shu4 you2 mai2 su4 yu3 ， shan1 wei4 shi4 ting2 yun2 。
+- fu3 yang3 xia4 yi3 du4 ， qu1 shen1 qiu1 you4 fen1 。
+- ping2 sheng1 deng1 huo3 nian4 ， lao2 luo4 tan4 li2 qun2 。
 
 ## 注释
 

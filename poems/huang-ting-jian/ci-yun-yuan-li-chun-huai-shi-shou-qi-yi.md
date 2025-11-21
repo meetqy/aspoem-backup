@@ -1,26 +1,26 @@
 ---
 id: huang-ting-jian-ci-yun-yuan-li-chun-huai-shi-shou-qi-yi
-title: 次韵元禮春懷十首  其一
-titlePinyin: ci4 yun4 yuan2 li3 chun1 huai2 shi2 shou3     qi2 yi1
+title: 次韵元禮春懷十首  其一○
+titlePinyin: ci4 yun4 yuan2 li3 chun1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-yuan-li-chun-huai-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漸老春心不可言，亦如琴意在無絃。
-- 新花準擬千場醉，美酒經營一百船。
+- 聞道鄰家有酒缾，三更不卧叩柴扃。
+- 我身便是鴟夷榼，肯學離騷要獨醒。
 
 ## 拼音
 
-- jian4 lao3 chun1 xin1 bu4 ke3 yan2 ， yi4 ru2 qin2 yi4 zai4 wu2 xian2 。
-- xin1 hua1 zhun3 ni3 qian1 chang3 zui4 ， mei3 jiu3 jing1 ying2 yi4 bai3 chuan2 。
+- wen2 dao4 lin2 jia1 you3 jiu3 ping2 ， san1 geng1 bu2 wo4 kou4 chai2 jiong1 。
+- wo3 shen1 bian4 shi4 chi1 yi2 ke1 ， ken3 xue2 li2 sao1 yao4 du2 xing3 。
 
 ## 注释
 

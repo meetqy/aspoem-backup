@@ -6,10 +6,10 @@ titleSlug: huai-jin-chang-san-shou-qi-san
 author: 吳則禮
 authorPinyin: wu2 ze2 li3
 authorSlug: wu-ze-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

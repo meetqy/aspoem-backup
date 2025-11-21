@@ -6,21 +6,21 @@ titleSlug: song-wai
 author: 龍輔
 authorPinyin: long2 fu3
 authorSlug: long-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 榜人㰕舟待，催飯送郎行。
-- 獨諳郎食性，厨下自調羹。
+- 綠柳千條映遠空，郎君欲別思忡忡。
+- 願得化爲江上水，與郎直到赤門東。
 
 ## 拼音
 
-- bang3 ren2 㰕 zhou1 dai4 ， cui1 fan4 song4 lang2 xing2 。
-- du2 an1 lang2 shi2 xing4 ， chu2 xia4 zi4 diao4 geng1 。
+- lü4 liu3 qian1 tiao2 ying4 yuan3 kong1 ， lang2 jun1 yu4 bie2 si1 chong1 chong1 。
+- yuan4 de2 hua4 wei2 jiang1 shang4 shui3 ， yu3 lang2 zhi2 dao4 chi4 men2 dong1 。
 
 ## 注释
 

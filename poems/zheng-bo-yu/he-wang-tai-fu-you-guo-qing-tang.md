@@ -6,10 +6,10 @@ titleSlug: he-wang-tai-fu-you-guo-qing-tang
 author: 鄭伯玉
 authorPinyin: zheng4 bo2 yu4
 authorSlug: zheng-bo-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

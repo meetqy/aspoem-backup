@@ -9,16 +9,16 @@ authorSlug: xu-rong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 淮船分蟻點，江市聚蠅聲。
+- 淮船分蟻隊，江市聚蠅聲。
 
 ## 拼音
 
-- huai2 chuan2 fen1 yi3 dian3 ， jiang1 shi4 ju4 ying2 sheng1 。
+- huai2 chuan2 fen1 yi3 dui4 ， jiang1 shi4 ju4 ying2 sheng1 。
 
 ## 注释
 

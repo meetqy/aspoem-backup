@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閑時謁墳山，小築真隠麓。
-- 怪來少清景，頗似闕脩竹。
-- 荷鋤斸雲烟，移種扶疏綠。
-- 亭亭纔數根，一掃羣樸樕。
+- 日鑄得新茗，色味建水空。
+- 未論七碗足，先借兩腋風。
+- 烹在擊拂外，香泛齒頰中。
+- 若論破睡魔，自可書元功。
 
 ## 拼音
 
-- xian2 shi2 ye4 fen2 shan1 ， xiao3 zhu4 zhen1 yin3 lu4 。
-- guai4 lai2 shao3 qing1 jing3 ， po1 si4 que4 xiu1 zhu2 。
-- he2 chu2 zhu2 yun2 yan1 ， yi2 zhong3 fu2 shu1 lü4 。
-- ting2 ting2 cai2 shu4 gen1 ， yi4 sao3 qun2 pu3 su4 。
+- ri4 zhu4 de2 xin1 ming2 ， se4 wei4 jian4 shui3 kong1 。
+- wei4 lun4 qi1 wan3 zu2 ， xian1 jie4 liang3 ye4 feng1 。
+- peng1 zai4 ji1 fu2 wai4 ， xiang1 fan4 chi3 jia2 zhong1 。
+- ruo4 lun4 po4 shui4 mo2 ， zi4 ke3 shu1 yuan2 gong1 。
 
 ## 注释
 

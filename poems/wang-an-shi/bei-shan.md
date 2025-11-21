@@ -6,21 +6,21 @@ titleSlug: bei-shan
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北山輸綠漲橫陂，直壍回塘灧灧時。
-- 細數落花因坐久，緩尋芳草得歸遲。
+- 刳木爲舟數丈餘，卧看風月映芙蕖。
+- 清香一陣渾無暑，時有驚榔躍出魚。
 
 ## 拼音
 
-- bei3 shan1 shu1 lü4 zhang3 heng2 bei1 ， zhi2 qian4 hui2 tang2 yan4 yan4 shi2 。
-- xi4 shu4 luo4 hua1 yin1 zuo4 jiu3 ， huan3 xun2 fang1 cao3 de2 gui1 chi2 。
+- ku1 mu4 wei2 zhou1 shu4 zhang4 yu2 ， wo4 kan4 feng1 yue4 ying4 fu2 qu2 。
+- qing1 xiang1 yi2 zhen4 hun2 wu2 shu3 ， shi2 you3 jing1 lang2 yue4 chu1 yu2 。
 
 ## 注释
 

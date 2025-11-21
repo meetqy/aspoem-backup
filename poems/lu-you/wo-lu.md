@@ -6,25 +6,25 @@ titleSlug: wo-lu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小葺蝸廬便著家，槿籬莎徑任欹斜。
-- 爲生草草僧行脚，到處悠悠客泛槎。
-- 孤蝶惜衣晴曝粉，穉蜂貪蜜晚爭花。
-- 有書懶讀吾堪愧，睡起何妨自磑茶。
+- 蝸廬四壁空，也過百年中。
+- 葑火朝供爨，蘆綿夕禦風。
+- 不憎窮有祟，自以放名翁。
+- 但恨村醪薄，衰顔只暫紅。
 
 ## 拼音
 
-- xiao3 qi4 wo1 lu2 bian4 zhu4 jia1 ， jin3 li2 sha1 jing4 ren4 qi1 xie2 。
-- wei2 sheng1 cao3 cao3 seng1 xing2 jiao3 ， dao4 chu3 you1 you1 ke4 fan4 cha2 。
-- gu1 die2 xi1 yi1 qing2 pu4 fen3 ， zhi4 feng1 tan1 mi4 wan3 zheng1 hua1 。
-- you3 shu1 lan3 du2 wu2 kan1 kui4 ， shui4 qi3 he2 fang2 zi4 wei4 cha2 。
+- wo1 lu2 si4 bi4 kong1 ， ye3 guo4 bai3 nian2 zhong1 。
+- feng1 huo3 chao2 gong4 cuan4 ， lu2 mian2 xi1 yu4 feng1 。
+- bu4 zeng1 qiong2 you3 sui4 ， zi4 yi3 fang4 ming2 weng1 。
+- dan4 hen4 cun1 lao2 bao2 ， shuai1 yan2 zhi1 zan4 hong2 。
 
 ## 注释
 

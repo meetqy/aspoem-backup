@@ -6,10 +6,10 @@ titleSlug: quan-shi-ji-xian-yin
 author: 李宗諤
 authorPinyin: li3 zong1 e4
 authorSlug: li-zong-e
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

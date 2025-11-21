@@ -6,9 +6,9 @@ titleSlug: ci-chen-yan-yu-you-zhong-shan-yun
 author: 周邦
 authorPinyin: zhou1 bang1
 authorSlug: zhou-bang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

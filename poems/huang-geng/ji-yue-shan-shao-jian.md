@@ -6,25 +6,25 @@ titleSlug: ji-yue-shan-shao-jian
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一片襟懷海樣寬，眉頭肯爲別離攢。
-- 臂鷹慣識從君樂，汗馬寧辭行路難。
-- 角带邊聲關月冷，雁傳鄉信塞雲寒。
-- 歸來未許東山卧，見說蒼生望謝安。
+- 南北相望各一天，江湖久別思凄然。
+- 迢遥道路三千里，倏忽光陰五六年。
+- 清節立朝君可羨，白頭爲客我堪憐。
+- 折梅難寄江南信，惟有新詩數十篇。
 
 ## 拼音
 
-- yi2 pian4 jin1 huai2 hai3 yang4 kuan1 ， mei2 tou2 ken3 wei2 bie2 li2 zan3 。
-- bi4 ying1 guan4 shi2 cong2 jun1 le4 ， han4 ma3 ning2 ci2 xing2 lu4 nan2 。
-- jiao3 dai4 bian1 sheng1 guan1 yue4 leng3 ， yan4 chuan2 xiang1 xin4 sai1 yun2 han2 。
-- gui1 lai2 wei4 xu1 dong1 shan1 wo4 ， jian4 shuo1 cang1 sheng1 wang4 xie4 an1 。
+- nan2 bei3 xiang1 wang4 ge4 yi4 tian1 ， jiang1 hu2 jiu3 bie2 si1 qi1 ran2 。
+- tiao2 yao2 dao4 lu4 san1 qian1 li3 ， shu1 hu1 guang1 yin1 wu3 liu4 nian2 。
+- qing1 jie2 li4 chao2 jun1 ke3 xian4 ， bai2 tou2 wei2 ke4 wo3 kan1 lian2 。
+- zhe2 mei2 nan2 ji4 jiang1 nan2 xin4 ， wei2 you3 xin1 shi1 shu4 shi2 pian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-qian-zhi-jian-dong-gao-bie-ye
 author: 封萬里
 authorPinyin: feng1 wan4 li3
 authorSlug: feng-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

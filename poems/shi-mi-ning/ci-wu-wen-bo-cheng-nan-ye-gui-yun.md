@@ -6,10 +6,10 @@ titleSlug: ci-wu-wen-bo-cheng-nan-ye-gui-yun
 author: 史彌寧
 authorPinyin: shi3 mi2 ning2
 authorSlug: shi-mi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

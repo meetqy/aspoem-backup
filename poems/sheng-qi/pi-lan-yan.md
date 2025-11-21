@@ -6,9 +6,9 @@ titleSlug: pi-lan-yan
 author: 盛奇
 authorPinyin: sheng4 qi2
 authorSlug: sheng-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

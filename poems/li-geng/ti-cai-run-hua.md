@@ -6,10 +6,10 @@ titleSlug: ti-cai-run-hua
 author: 李耕
 authorPinyin: li3 geng1
 authorSlug: li-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

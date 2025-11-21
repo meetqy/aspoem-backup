@@ -6,25 +6,21 @@ titleSlug: za-xing-qi-yi
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 聖學律萬世，玉振仍金聲。
-- 大賢務矯俗，始以和自名。
-- 智者稽所終，流弊固難行。
-- 求圓能捨規，魯男烏可輕。
+- 迢遥秦隴舊家山，百萬貔貅擁節還。
+- 讀盡一編時自許，西風吹夢玉門關。
 
 ## 拼音
 
-- sheng4 xue2 lü4 wan4 shi4 ， yu4 zhen4 reng2 jin1 sheng1 。
-- da4 xian2 wu4 jiao3 su2 ， shi3 yi3 he2 zi4 ming2 。
-- zhi4 zhe3 ji1 suo3 zhong1 ， liu2 bi4 gu4 nan2 xing2 。
-- qiu2 yuan2 neng2 she3 gui1 ， lu3 nan2 wu1 ke3 qing1 。
+- tiao2 yao2 qin2 long3 jiu4 jia1 shan1 ， bai3 wan4 pi2 xiu1 yong1 jie2 huan2 。
+- du2 jin4 yi4 bian1 shi2 zi4 xu1 ， xi1 feng1 chui1 meng4 yu4 men2 guan1 。
 
 ## 注释
 

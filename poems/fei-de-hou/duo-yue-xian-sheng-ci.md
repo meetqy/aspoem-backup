@@ -6,10 +6,10 @@ titleSlug: duo-yue-xian-sheng-ci
 author: 費德厚
 authorPinyin: fei4 de2 hou4
 authorSlug: fei-de-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

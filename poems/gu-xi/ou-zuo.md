@@ -6,25 +6,25 @@ titleSlug: ou-zuo
 author: 顧禧
 authorPinyin: gu4 xi3
 authorSlug: gu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 彈鋏復爾爾，登樓向落曛。
-- 烟深橫白鷺，楓老宿彤雲。
-- 松牖寒威入，琳宮遠磬聞。
-- 自然能遠俗，無復賦離群。
+- 日暮悲笳起，孤衾入夢寒。
+- 沙飛桐鵲隱，草蔓石鯨殘。
+- 龍戰知何極，烏栖轉未安。
+- 幽燕多老將，壯氣滿桑乾。
 
 ## 拼音
 
-- dan4 jia2 fu4 er3 er3 ， deng1 lou2 xiang4 luo4 xun1 。
-- yan1 shen1 heng2 bai2 lu4 ， feng1 lao3 su4 tong2 yun2 。
-- song1 you3 han2 wei1 ru4 ， lin2 gong1 yuan3 qing4 wen2 。
-- zi4 ran2 neng2 yuan3 su2 ， wu2 fu4 fu4 li2 qun2 。
+- ri4 mu4 bei1 jia1 qi3 ， gu1 qin1 ru4 meng4 han2 。
+- sha1 fei1 tong2 que4 yin3 ， cao3 man4 shi2 jing1 can2 。
+- long2 zhan4 zhi1 he2 ji2 ， wu1 qi1 zhuan3 wei4 an1 。
+- you1 yan1 duo1 lao3 jiang1 ， zhuang4 qi4 man3 sang1 qian2 。
 
 ## 注释
 

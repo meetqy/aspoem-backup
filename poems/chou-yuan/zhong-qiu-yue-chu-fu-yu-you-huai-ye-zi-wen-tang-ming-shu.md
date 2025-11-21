@@ -6,25 +6,25 @@ titleSlug: zhong-qiu-yue-chu-fu-yu-you-huai-ye-zi-wen-tang-ming-shu
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溧濱三度見中秋，感歎光陰逐水流。
-- 常是浮雲妬佳月，不容老子醉高樓。
-- 鱸香易動張翰興，鯨背難追李白游。
-- 遥憶詩人豪氣在，湖天空闊放扁舟。
+- 三秋此夕恰平分，城市人家半閉門。
+- 正憶紫雲吹玉笛，忽驚皓月照金樽。
+- 宦情素薄鴻初到，詩興方濃雨又昏。
+- 不是桂花香自慰，倚欄無語易銷魂。
 
 ## 拼音
 
-- li4 bin1 san1 du4 jian4 zhong1 qiu1 ， gan3 tan4 guang1 yin1 zhu2 shui3 liu2 。
-- chang2 shi4 fu2 yun2 du4 jia1 yue4 ， bu4 rong2 lao3 zi3 zui4 gao1 lou2 。
-- lu2 xiang1 yi4 dong4 zhang1 han4 xing1 ， jing1 bei4 nan2 zhui1 li3 bai2 you2 。
-- yao2 yi4 shi1 ren2 hao2 qi4 zai4 ， hu2 tian1 kong1 kuo4 fang4 pian1 zhou1 。
+- san1 qiu1 ci3 xi1 qia4 ping2 fen1 ， cheng2 shi4 ren2 jia1 ban4 bi4 men2 。
+- zheng4 yi4 zi3 yun2 chui1 yu4 di2 ， hu1 jing1 hao4 yue4 zhao4 jin1 zun1 。
+- huan4 qing2 su4 bao2 hong2 chu1 dao4 ， shi1 xing1 fang1 nong2 yu3 you4 hun1 。
+- bu2 shi4 gui4 hua1 xiang1 zi4 wei4 ， yi3 lan2 wu2 yu3 yi4 xiao1 hun2 。
 
 ## 注释
 

@@ -6,21 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-ba-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉欄花藥鬭春工，雨濕胭脂臉暈紅。
-- 絲管紛紛來賞翫，可憐吹落五更風。
+- 觸翻茶瓢，眉毛掛劍。
+- 殺活不分，邪正難辨。
+- 古今同轍不同途，妙悟玄機轆轆轉。
 
 ## 拼音
 
-- yu4 lan2 hua1 yao4 dou4 chun1 gong1 ， yu3 shi1 yan1 zhi0 lian3 yun4 hong2 。
-- si1 guan3 fen1 fen1 lai2 shang3 wan2 ， ke3 lian2 chui1 luo4 wu3 geng1 feng1 。
+- chu4 fan1 cha2 piao2 ， mei2 mao0 gua4 jian4 。
+- sha1 huo2 bu4 fen1 ， xie2 zheng4 nan2 bian4 。
+- gu3 jin1 tong2 zhe2 bu4 tong2 tu2 ， miao4 wu4 xuan2 ji1 lu4 lu4 zhuan3 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-ba-shi-yin-shi-jue-qi-yi
-title: 八十吟十絕  其一
-titlePinyin: ba1 shi2 yin2 shi2 jue2     qi2 yi1
+title: 八十吟十絕  其一○
+titlePinyin: ba1 shi2 yin2 shi2 jue2     qi2 yi1 ○
 titleSlug: ba-shi-yin-shi-jue-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 就莆食菜國恩優，晝錦全勝萬里侯。
-- 却笑向來師尚父，磻溪不老老營丘。
+- 伯倫酒頌老叉詩，腹憤胸奇畧洩之。
+- 別著潜書并悔藁，後千百載有人知。
 
 ## 拼音
 
-- jiu4 pu2 shi2 cai4 guo2 en1 you1 ， zhou4 jin3 quan2 sheng4 wan4 li3 hou2 。
-- que4 xiao4 xiang4 lai2 shi1 shang4 fu4 ， pan2 xi1 bu4 lao3 lao3 ying2 qiu1 。
+- bo2 lun2 jiu3 song4 lao3 cha1 shi1 ， fu4 fen4 xiong1 qi2 lüe4 xie4 zhi1 。
+- bie2 zhu4 qian2 shu1 bing4 hui3 gao3 ， hou4 qian1 bai3 zai4 you3 ren2 zhi1 。
 
 ## 注释
 

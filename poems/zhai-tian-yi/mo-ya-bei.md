@@ -6,10 +6,10 @@ titleSlug: mo-ya-bei
 author: 翟天翼
 authorPinyin: zhai2 tian1 yi4
 authorSlug: zhai-tian-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

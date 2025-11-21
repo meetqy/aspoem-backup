@@ -6,10 +6,10 @@ titleSlug: chun-ci
 author: 趙若槸
 authorPinyin: zhao4 ruo4 yi4
 authorSlug: zhao-ruo-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

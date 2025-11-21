@@ -9,7 +9,7 @@ authorSlug: xuan-bao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

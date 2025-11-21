@@ -1,26 +1,26 @@
 ---
 id: zhou-wen-pu-shan-hang-hang-ge-shi-shou-qi-yi
-title: 山行行歌十首  其一
-titlePinyin: shan1 hang2 hang2 ge1 shi2 shou3     qi2 yi1
+title: 山行行歌十首  其一○
+titlePinyin: shan1 hang2 hang2 ge1 shi2 shou3     qi2 yi1 ○
 titleSlug: shan-hang-hang-ge-shi-shou-qi-yi
 author: 周文璞
 authorPinyin: zhou1 wen2 pu2
 authorSlug: zhou-wen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 受籙壇前雲更長，春風漠漠杏花香。
-- 峰回路轉無人處，恰見天書字數行。
+- 砌穴蕭森隔土橋，項梁城頌最蕭條。
+- 羽衣歌此招魂魄，直送旛旗上九霄。
 
 ## 拼音
 
-- shou4 lu4 tan2 qian2 yun2 geng4 chang2 ， chun1 feng1 mo4 mo4 xing4 hua1 xiang1 。
-- feng1 hui2 lu4 zhuan3 wu2 ren2 chu3 ， qia4 jian4 tian1 shu1 zi4 shu4 xing2 。
+- qi4 xue2 xiao1 sen1 ge2 tu3 qiao2 ， xiang4 liang2 cheng2 song4 zui4 xiao1 tiao2 。
+- yu3 yi1 ge1 ci3 zhao1 hun2 po4 ， zhi2 song4 fan1 qi2 shang4 jiu3 xiao1 。
 
 ## 注释
 

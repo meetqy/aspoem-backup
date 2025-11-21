@@ -6,25 +6,21 @@ titleSlug: xiao-ju-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自從三度絕韋編，不讀書來十二年。
-- 大𤮕子中消白日，小車兒上看青天。
-- 閑爲水竹雲山主，靜得風花雪月權。
-- 俯仰之間無所愧，任他人謗似神仙。
+- 春暖未苦熱，秋涼未甚寒。
+- 小車隨意出，所到即成歡。
 
 ## 拼音
 
-- zi4 cong2 san1 du4 jue2 wei2 bian1 ， bu4 du2 shu1 lai2 shi2 er4 nian2 。
-- da4 𤮕 zi3 zhong1 xiao1 bai2 ri4 ， xiao3 ju1 er2 shang4 kan4 qing1 tian1 。
-- xian2 wei2 shui3 zhu2 yun2 shan1 zhu3 ， jing4 de2 feng1 hua1 xue3 yue4 quan2 。
-- fu3 yang3 zhi1 jian4 wu2 suo3 kui4 ， ren4 ta1 ren2 bang4 si4 shen2 xian1 。
+- chun1 nuan3 wei4 ku3 re4 ， qiu1 liang2 wei4 shen4 han2 。
+- xiao3 ju1 sui2 yi4 chu1 ， suo3 dao4 ji2 cheng2 huan1 。
 
 ## 注释
 

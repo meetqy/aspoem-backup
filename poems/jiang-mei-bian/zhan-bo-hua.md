@@ -6,10 +6,10 @@ titleSlug: zhan-bo-hua
 author: 蔣梅邊
 authorPinyin: jiang3 mei2 bian1
 authorSlug: jiang-mei-bian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

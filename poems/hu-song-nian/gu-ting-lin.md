@@ -6,10 +6,10 @@ titleSlug: gu-ting-lin
 author: 胡松年
 authorPinyin: hu2 song1 nian2
 authorSlug: hu-song-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

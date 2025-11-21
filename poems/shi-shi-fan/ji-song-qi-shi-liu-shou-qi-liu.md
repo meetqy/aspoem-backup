@@ -1,26 +1,26 @@
 ---
 id: shi-shi-fan-ji-song-qi-shi-liu-shou-qi-liu
-title: 偈頌七十六首  其六
-titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 liu4
+title: 偈頌七十六首  其六○
+titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 liu4 ○
 titleSlug: ji-song-qi-shi-liu-shou-qi-liu
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 赤手空拳下山去，滿船和月載歸來。
-- 五峰可煞無慚愧，面面相看眼未開。
+- 徑山不敢相謾，開口便見心肝。
+- 今朝十月十五，下元解厄水官。
 
 ## 拼音
 
-- chi4 shou3 kong1 quan2 xia4 shan1 qu4 ， man3 chuan2 he2 yue4 zai4 gui1 lai2 。
-- wu3 feng1 ke3 sha4 wu2 can2 kui4 ， mian4 mian4 xiang1 kan4 yan3 wei4 kai1 。
+- jing4 shan1 bu4 gan3 xiang1 man2 ， kai1 kou3 bian4 jian4 xin1 gan1 。
+- jin1 zhao1 shi2 yue4 shi2 wu3 ， xia4 yuan2 jie3 e4 shui3 guan1 。
 
 ## 注释
 

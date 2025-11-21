@@ -1,26 +1,26 @@
 ---
 id: shi-huai-shen-tui-bu-qi-yi
-title: 退步  其一
-titlePinyin: tui4 bu4     qi2 yi1
+title: 退步  其一○
+titlePinyin: tui4 bu4     qi2 yi1 ○
 titleSlug: tui-bu-qi-yi
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬事無如退步人，摩頭至踵自觀身。
-- 只因吹滅心頭火，不見從前肚裏瞋。
+- 萬事無如退步僧，髪長懶剃貌稜層。
+- 出言吐氣多山野，逆耳之談誰肯聽。
 
 ## 拼音
 
-- wan4 shi4 wu2 ru2 tui4 bu4 ren2 ， mo2 tou2 zhi4 zhong3 zi4 guan1 shen1 。
-- zhi3 yin1 chui1 mie4 xin1 tou2 huo3 ， bu2 jian4 cong2 qian2 du4 li3 chen1 。
+- wan4 shi4 wu2 ru2 tui4 bu4 seng1 ， fa4 chang2 lan3 ti4 mao4 leng2 ceng2 。
+- chu1 yan2 tu3 qi4 duo1 shan1 ye3 ， ni4 er3 zhi1 tan2 shui2 ken3 ting1 。
 
 ## 注释
 

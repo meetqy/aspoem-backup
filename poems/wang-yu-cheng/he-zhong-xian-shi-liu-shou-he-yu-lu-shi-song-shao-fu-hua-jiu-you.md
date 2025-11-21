@@ -6,10 +6,10 @@ titleSlug: he-zhong-xian-shi-liu-shou-he-yu-lu-shi-song-shao-fu-hua-jiu-you
 author: 王禹偁
 authorPinyin: wang2 yu3 cheng1
 authorSlug: wang-yu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

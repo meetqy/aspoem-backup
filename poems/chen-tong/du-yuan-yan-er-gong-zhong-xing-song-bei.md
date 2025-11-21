@@ -6,10 +6,10 @@ titleSlug: du-yuan-yan-er-gong-zhong-xing-song-bei
 author: 陳統
 authorPinyin: chen2 tong3
 authorSlug: chen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

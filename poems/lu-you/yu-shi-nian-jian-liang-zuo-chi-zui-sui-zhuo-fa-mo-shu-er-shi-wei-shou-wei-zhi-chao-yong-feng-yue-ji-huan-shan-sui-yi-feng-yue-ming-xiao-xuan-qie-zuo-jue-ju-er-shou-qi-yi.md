@@ -6,10 +6,10 @@ titleSlug: yu-shi-nian-jian-liang-zuo-chi-zui-sui-zhuo-fa-mo-shu-er-shi-wei-shou
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

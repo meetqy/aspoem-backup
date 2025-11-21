@@ -1,30 +1,30 @@
 ---
 id: xiong-he-shang-yan-lian-fang-shi-shou-qi-yi
-title: 上嚴廉訪十首  其一
-titlePinyin: shang4 yan2 lian2 fang3 shi2 shou3     qi2 yi1
+title: 上嚴廉訪十首  其一○
+titlePinyin: shang4 yan2 lian2 fang3 shi2 shou3     qi2 yi1 ○
 titleSlug: shang-yan-lian-fang-shi-shou-qi-yi
 author: 熊禾
 authorPinyin: xiong2 he2
 authorSlug: xiong-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 七閩天南陬，實惟文明方。
-- 風氣一以開，文治何其昌。
-- 我思常公化，迪我真無疆。
-- 開端固匪易，再造伊誰當。
+- 斯文迓續交，天意豈無擬。
+- 猗歟恪齋翁，雅意敦典禮。
+- 推行大經綸，宣風自茲始。
+- 百世常公祠，罔俾獨專美。
 
 ## 拼音
 
-- qi1 min3 tian1 nan2 zou1 ， shi2 wei2 wen2 ming2 fang1 。
-- feng1 qi4 yi4 yi3 kai1 ， wen2 zhi4 he2 qi2 chang1 。
-- wo3 si1 chang2 gong1 hua4 ， di2 wo3 zhen1 wu2 jiang1 。
-- kai1 duan1 gu4 fei3 yi4 ， zai4 zao4 yi1 shui2 dang1 。
+- si1 wen2 ya4 xu4 jiao1 ， tian1 yi4 qi3 wu2 ni3 。
+- yi1 yu2 ke4 zhai1 weng1 ， ya3 yi4 dun1 dian3 li3 。
+- tui1 xing2 da4 jing1 lun2 ， xuan1 feng1 zi4 zi1 shi3 。
+- bai3 shi4 chang2 gong1 ci2 ， wang3 bi3 du2 zhuan1 mei3 。
 
 ## 注释
 

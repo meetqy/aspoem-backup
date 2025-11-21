@@ -6,25 +6,25 @@ titleSlug: jiu-ri
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 逢人提菊賣，方省是重陽。
-- 山曉雨初霽，江秋樹亦凉。
-- 年華猶故我，烽火更殊鄉。
-- 有客那無酒，令人憶草堂。
+- 把住秋雲繞菊籬，野情未覺老垂垂。
+- 古今不遇豈惟我，風雨相過莫問誰。
+- 未郭索前空有酒，自陶潜後久無詩。
+- 底須計較明年健，只麽悠然自一奇。
 
 ## 拼音
 
-- feng2 ren2 ti2 ju2 mai4 ， fang1 sheng3 shi4 zhong4 yang2 。
-- shan1 xiao3 yu3 chu1 ji4 ， jiang1 qiu1 shu4 yi4 liang2 。
-- nian2 hua2 you2 gu4 wo3 ， feng1 huo3 geng4 shu1 xiang1 。
-- you3 ke4 na4 wu2 jiu3 ， ling4 ren2 yi4 cao3 tang2 。
+- ba3 zhu4 qiu1 yun2 rao4 ju2 li2 ， ye3 qing2 wei4 jue2 lao3 chui2 chui2 。
+- gu3 jin1 bu2 yu4 qi3 wei2 wo3 ， feng1 yu3 xiang1 guo4 mo4 wen4 shui2 。
+- wei4 guo1 suo3 qian2 kong1 you3 jiu3 ， zi4 tao2 qian2 hou4 jiu3 wu2 shi1 。
+- di3 xu1 ji4 jiao4 ming2 nian2 jian4 ， zhi1 mo2 you1 ran2 zi4 yi4 qi2 。
 
 ## 注释
 

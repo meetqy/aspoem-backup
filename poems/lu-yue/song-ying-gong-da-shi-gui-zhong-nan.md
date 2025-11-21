@@ -6,9 +6,9 @@ titleSlug: song-ying-gong-da-shi-gui-zhong-nan
 author: 盧岳
 authorPinyin: lu2 yue4
 authorSlug: lu-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

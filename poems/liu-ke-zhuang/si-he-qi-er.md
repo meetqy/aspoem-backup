@@ -6,25 +6,25 @@ titleSlug: si-he-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰謂斯文無定價，獨憐之子坐虛名。
-- 主司頭與筆俱點，宰物心如秤樣平。
-- 駿馬却還國西域，病鴟墮落屋東坑。
-- 老夫謝絕人間事，亦爲諸賢喜且驚。
+- 刪後元來儘有詩，此言莫遣邵程知。
+- 匹如東土生三葉，橫向西江出一枝。
+- 俚曲俗方尊郢市，古音今少奏咸池。
+- 誰云老子無呵導，塘上蛙聲鼓吹隨。
 
 ## 拼音
 
-- shui2 wei4 si1 wen2 wu2 ding4 jia4 ， du2 lian2 zhi1 zi3 zuo4 xu1 ming2 。
-- zhu3 si1 tou2 yu3 bi3 ju4 dian3 ， zai3 wu4 xin1 ru2 cheng4 yang4 ping2 。
-- jun4 ma3 que4 huan2 guo2 xi1 yu4 ， bing4 chi1 duo4 luo4 wu1 dong1 keng1 。
-- lao3 fu1 xie4 jue2 ren2 jian4 shi4 ， yi4 wei2 zhu1 xian2 xi3 qie3 jing1 。
+- shan1 hou4 yuan2 lai2 jin3 you3 shi1 ， ci3 yan2 mo4 qian3 shao4 cheng2 zhi1 。
+- pi3 ru2 dong1 tu3 sheng1 san1 ye4 ， heng2 xiang4 xi1 jiang1 chu1 yi4 zhi1 。
+- li3 qu3 su2 fang1 zun1 ying3 shi4 ， gu3 yin1 jin1 shao3 zou4 xian2 chi2 。
+- shui2 yun2 lao3 zi3 wu2 he1 dao3 ， tang2 shang4 wa1 sheng1 gu3 chui1 sui2 。
 
 ## 注释
 

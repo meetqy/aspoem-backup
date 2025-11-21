@@ -3,28 +3,28 @@ id: chen-zao-hu-qiu
 title: 虎丘
 titlePinyin: hu3 qiu1
 titleSlug: hu-qiu
-author: 陳造
-authorPinyin: chen2 zao4
+author: 陳藻
+authorPinyin: chen2 zao3
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長日蕭齋類蠹魚，出門春事半銷除。
-- 快舒中散飛鴻眼，穩憩文公卧虎廬。
-- 塵外風光詩筆底，竹梢禪榻茗甌餘。
-- 歸塗定有行人問，底許空青潤客裾。
+- 竹瘦門逾靜，樓高山太低。
+- 白煙青樹走，細雨大江迷。
+- 野水東西渡，園蔬上下畦。
+- 僧無城市去，岩有鬼神棲。
 
 ## 拼音
 
-- chang2 ri4 xiao1 zhai1 lei4 du4 yu2 ， chu1 men2 chun1 shi4 ban4 xiao1 chu2 。
-- kuai4 shu1 zhong1 san4 fei1 hong2 yan3 ， wen3 qi4 wen2 gong1 wo4 hu3 lu2 。
-- chen2 wai4 feng1 guang1 shi1 bi3 di3 ， zhu2 shao1 shan4 ta4 ming2 ou1 yu2 。
-- gui1 tu2 ding4 you3 xing2 ren2 wen4 ， di3 xu1 kong1 qing1 run4 ke4 ju1 。
+- zhu2 shou4 men2 yu2 jing4 ， lou2 gao1 shan1 tai4 di1 。
+- bai2 yan1 qing1 shu4 zou3 ， xi4 yu3 da4 jiang1 mi2 。
+- ye3 shui3 dong1 xi1 du4 ， yuan2 shu1 shang4 xia4 qi2 。
+- seng1 wu2 cheng2 shi4 qu4 ， yan2 you3 gui3 shen2 qi1 。
 
 ## 注释
 

@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 四六關頭路坦平，行人到此不須驚。
-- 從教犢駕轟轟轉，儘使羊車軋軋鳴。
-- 渡海經河稀阻滯，上天入地絕欹傾。
-- 功成直入長生殿，袖出神珠徹夜明。
+- 火種丹田金自生，重重樓閣自分明。
+- 三千功行百旬見，萬里蓬萊一日程。
+- 羽化自應無鬼錄，玉都長是有仙名。
+- 今朝得赴瑤池會，九節幢幡洞裏迎。
 
 ## 拼音
 
-- si4 liu4 guan1 tou2 lu4 tan3 ping2 ， xing2 ren2 dao4 ci3 bu4 xu1 jing1 。
-- cong2 jiao4 du2 jia4 hong1 hong1 zhuan3 ， jin3 shi3 yang2 ju1 ya4 ya4 ming2 。
-- du4 hai3 jing1 he2 xi1 zu3 zhi4 ， shang4 tian1 ru4 di4 jue2 qi1 qing1 。
-- gong1 cheng2 zhi2 ru4 chang2 sheng1 dian4 ， xiu4 chu1 shen2 zhu1 che4 ye4 ming2 。
+- huo3 zhong3 dan1 tian2 jin1 zi4 sheng1 ， zhong4 zhong4 lou2 ge2 zi4 fen1 ming2 。
+- san1 qian1 gong1 xing2 bai3 xun2 jian4 ， wan4 li3 peng2 lai2 yi2 ri4 cheng2 。
+- yu3 hua4 zi4 ying1 wu2 gui3 lu4 ， yu4 dou1 chang2 shi4 you3 xian1 ming2 。
+- jin1 zhao1 de2 fu4 yao2 chi2 hui4 ， jiu3 jie2 zhuang4 fan1 dong4 li3 ying2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xian-mu-tang
 author: 朱萬年
 authorPinyin: zhu1 wan4 nian2
 authorSlug: zhu-wan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

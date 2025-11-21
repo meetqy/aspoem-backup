@@ -6,10 +6,10 @@ titleSlug: ti-jian-jiang-yao-shu-hong-yin-juan-san-shou-qi-san
 author: 蕭立之
 authorPinyin: xiao1 li4 zhi1
 authorSlug: xiao-li-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

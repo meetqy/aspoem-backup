@@ -6,10 +6,10 @@ titleSlug: chong-shang-ren-xie-yu-wang-shu-gui-xing-hua-yin-yi-shan-ji-mian-zhi
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

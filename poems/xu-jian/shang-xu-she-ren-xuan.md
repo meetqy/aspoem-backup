@@ -14,12 +14,12 @@ tags: []
 
 ## 正文
 
-- 幾宵烟日鎖樓臺，欲寄侯門薦禰才。
+- 幾宵煙月鎖樓臺，欲寄侯門薦禰才。
 - 滿面塵埃人不識，謾隨流水出山來。
 
 ## 拼音
 
-- ji1 xiao1 yan1 ri4 suo3 lou2 tai2 ， yu4 ji4 hou2 men2 jian4 mi2 cai2 。
+- ji1 xiao1 yan1 yue4 suo3 lou2 tai2 ， yu4 ji4 hou2 men2 jian4 mi2 cai2 。
 - man3 mian4 chen2 ai1 ren2 bu4 shi2 ， man2 sui2 liu2 shui3 chu1 shan1 lai2 。
 
 ## 注释

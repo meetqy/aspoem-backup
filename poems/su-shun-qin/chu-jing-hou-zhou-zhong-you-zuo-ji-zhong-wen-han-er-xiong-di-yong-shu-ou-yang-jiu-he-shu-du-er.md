@@ -6,10 +6,10 @@ titleSlug: chu-jing-hou-zhou-zhong-you-zuo-ji-zhong-wen-han-er-xiong-di-yong-shu
 author: 蘇舜欽
 authorPinyin: su1 shun4 qin1
 authorSlug: su-shun-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

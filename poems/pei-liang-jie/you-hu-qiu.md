@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu
 author: 裴良傑
 authorPinyin: pei2 liang2 jie2
 authorSlug: pei-liang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

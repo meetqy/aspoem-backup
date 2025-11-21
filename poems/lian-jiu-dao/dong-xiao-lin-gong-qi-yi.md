@@ -6,10 +6,10 @@ titleSlug: dong-xiao-lin-gong-qi-yi
 author: 連久道
 authorPinyin: lian2 jiu3 dao4
 authorSlug: lian-jiu-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

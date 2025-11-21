@@ -6,10 +6,10 @@ titleSlug: yong-shi-er-shou-qi-yi
 author: 吳名揚
 authorPinyin: wu2 ming2 yang2
 authorSlug: wu-ming-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

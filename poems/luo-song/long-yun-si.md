@@ -6,10 +6,10 @@ titleSlug: long-yun-si
 author: 羅竦
 authorPinyin: luo2 song3
 authorSlug: luo-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

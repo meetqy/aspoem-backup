@@ -6,10 +6,10 @@ titleSlug: wu-xi
 author: 莊崇節
 authorPinyin: zhuang1 chong2 jie2
 authorSlug: zhuang-chong-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

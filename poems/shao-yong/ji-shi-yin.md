@@ -6,25 +6,25 @@ titleSlug: ji-shi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 事到患來頻，何由得任真。
-- 就新須果敢，從善莫因循。
-- 盜亦自有道，人而或不仁。
-- 義緣無定體，安處是行身。
+- 生求媚于人，死求媚于鬼。
+- 媚人幸富貴，媚鬼免罪戾。
+- 生死雖殊途，人鬼豈異理。
+- 哀哉過用心，妄意何時已。
 
 ## 拼音
 
-- shi4 dao4 huan4 lai2 bin1 ， he2 you2 de2 ren4 zhen1 。
-- jiu4 xin1 xu1 guo3 gan3 ， cong2 shan4 mo4 yin1 xun2 。
-- dao4 yi4 zi4 you3 dao4 ， ren2 er2 huo4 bu4 ren2 。
-- yi4 yuan2 wu2 ding4 ti3 ， an1 chu3 shi4 xing2 shen1 。
+- sheng1 qiu2 mei4 yu2 ren2 ， si3 qiu2 mei4 yu2 gui3 。
+- mei4 ren2 xing4 fu4 gui4 ， mei4 gui3 mian3 zui4 li4 。
+- sheng1 si3 sui1 shu1 tu2 ， ren2 gui3 qi3 yi4 li3 。
+- ai1 zai1 guo4 yong4 xin1 ， wang4 yi4 he2 shi2 yi3 。
 
 ## 注释
 

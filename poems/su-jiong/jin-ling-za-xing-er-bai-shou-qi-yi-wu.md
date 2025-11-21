@@ -1,26 +1,26 @@
 ---
 id: su-jiong-jin-ling-za-xing-er-bai-shou-qi-yi-wu
-title: 金陵雜興二百首  其一五
-titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 yi1 wu3
+title: 金陵雜興二百首  其一五○
+titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 yi1 wu3 ○
 titleSlug: jin-ling-za-xing-er-bai-shou-qi-yi-wu
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小小規模似禁中，分明夏禹欲卑宮。
-- 白頭官吏知年幾，猶指屏風說孝宗。
+- 柳思花情分外嬌，青樓消息夜迢迢。
+- 金陵看得新歌舞，不數吳音共楚腰。
 
 ## 拼音
 
-- xiao3 xiao3 gui1 mo2 si4 jin4 zhong1 ， fen1 ming2 xia4 yu3 yu4 bei1 gong1 。
-- bai2 tou2 guan1 li4 zhi1 nian2 ji1 ， you2 zhi3 ping2 feng1 shuo1 xiao4 zong1 。
+- liu3 si1 hua1 qing2 fen4 wai4 jiao1 ， qing1 lou2 xiao1 xi0 ye4 tiao2 tiao2 。
+- jin1 ling2 kan4 de2 xin1 ge1 wu3 ， bu2 shu4 wu2 yin1 gong4 chu3 yao1 。
 
 ## 注释
 

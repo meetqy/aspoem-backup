@@ -6,21 +6,23 @@ titleSlug: dui-yue-le-can-jing-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五教三乘，之遶葛藤。
-- 一言道盡，玉兔東昇。
+- 是甚經，欠翻譯。
+- 用盡心，看不出。
+- 看得出，月掛松梢，煙籠蘚石。
 
 ## 拼音
 
-- wu3 jiao4 san1 cheng2 ， zhi1 rao4 ge2 teng2 。
-- yi4 yan2 dao4 jin4 ， yu4 tu4 dong1 sheng1 。
+- shi4 shen4 jing1 ， qian4 fan1 yi4 。
+- yong4 jin4 xin1 ， kan4 bu4 chu1 。
+- kan4 de0 chu1 ， yue4 gua4 song1 shao1 ， yan1 long2 xian3 shi2 。
 
 ## 注释
 

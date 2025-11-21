@@ -6,9 +6,9 @@ titleSlug: fan-cai-yuan-can-yi-qiu-jiu-wu-yan-ping-shi-jun-yao-yu-tong-fu-jin-ci
 author: 張元幹
 authorPinyin: zhang1 yuan2 gan4
 authorSlug: zhang-yuan-gan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

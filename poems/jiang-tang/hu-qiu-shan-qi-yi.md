@@ -6,10 +6,10 @@ titleSlug: hu-qiu-shan-qi-yi
 author: 蔣堂
 authorPinyin: jiang3 tang2
 authorSlug: jiang-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

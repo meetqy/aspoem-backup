@@ -1,26 +1,26 @@
 ---
 id: peng-gui-nian-shou-zhang-jing-yin-shi-shou-qi-yi
-title: 壽張京尹十首  其一
-titlePinyin: shou4 zhang1 jing1 yin3 shi2 shou3     qi2 yi1
+title: 壽張京尹十首  其一○
+titlePinyin: shou4 zhang1 jing1 yin3 shi2 shou3     qi2 yi1 ○
 titleSlug: shou-zhang-jing-yin-shi-shou-qi-yi
 author: 彭龜年
 authorPinyin: peng2 gui1 nian2
 authorSlug: peng-gui-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 岷山斗險介巴江，天地精神此晦藏。
-- 已發峨眉清一段，公家父子又相望。
+- 欲頌公侯學魯人，怕衝大尹罷長吟。
+- 亦知已有長生訣，四益齋中四益箴。
 
 ## 拼音
 
-- min2 shan1 dou4 xian3 jie4 ba1 jiang1 ， tian1 di4 jing1 shen2 ci3 hui4 cang2 。
-- yi3 fa1 e2 mei2 qing1 yi2 duan4 ， gong1 jia0 fu4 zi3 you4 xiang1 wang4 。
+- yu4 song4 gong1 hou2 xue2 lu3 ren2 ， pa4 chong1 da4 yin3 ba4 chang2 yin2 。
+- yi4 zhi1 yi3 you3 chang2 sheng1 jue2 ， si4 yi4 zhai1 zhong1 si4 yi4 zhen1 。
 
 ## 注释
 

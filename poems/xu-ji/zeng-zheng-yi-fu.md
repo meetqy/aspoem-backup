@@ -6,21 +6,21 @@ titleSlug: zeng-zheng-yi-fu
 author: 徐積
 authorPinyin: xu2 ji1
 authorSlug: xu-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 摩天羽翮森森齊，胸中壯氣蟠虹霓。
-- 區區世俗誰相知，青雲歧路看如泥。
+- 致主躋民道未完，白衣卿相且盤桓。
+- 龍頭已是輸君早，更向麒麟閣上看。
 
 ## 拼音
 
-- mo2 tian1 yu3 he2 sen1 sen1 qi2 ， xiong1 zhong1 zhuang4 qi4 pan2 hong2 ni2 。
-- qu1 qu1 shi4 su2 shui2 xiang1 zhi1 ， qing1 yun2 qi2 lu4 kan4 ru2 ni2 。
+- zhi4 zhu3 ji1 min2 dao4 wei4 wan2 ， bai2 yi1 qing1 xiang4 qie3 pan2 huan2 。
+- long2 tou2 yi3 shi4 shu1 jun1 zao3 ， geng4 xiang4 qi2 lin2 ge2 shang4 kan4 。
 
 ## 注释
 

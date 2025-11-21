@@ -6,10 +6,10 @@ titleSlug: si-hu-she-chun-an-cheng-tong-guan-song-zhi-xi-hu-zhi-shi-you-shi-yin-
 author: 徐僑
 authorPinyin: xu2 qiao2
 authorSlug: xu-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: jian-long-qian-de-chao-hui-le-zhang-er-shi-ba-shou-you-liu-bian-qi-si
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 接聖宅神都，方來五達區。
-- 國賢熙帝載，靈命握乾符。
-- 至化當純被，斯文益誕敷。
-- 車書今混一，聖治奉三無。
+- 上游荆楚要，澤國洞庭深。
+- 自識同文世，皆迴拱極心。
+- 一戎聊杖鉞，九土盡輸金。
+- 大定功成後，薰風入舜琴。
 
 ## 拼音
 
-- jie1 sheng4 zhai2 shen2 dou1 ， fang1 lai2 wu3 da2 qu1 。
-- guo2 xian2 xi1 di4 zai4 ， ling2 ming4 wo4 qian2 fu2 。
-- zhi4 hua4 dang1 chun2 bei4 ， si1 wen2 yi4 dan4 fu1 。
-- ju1 shu1 jin1 hun4 yi1 ， sheng4 zhi4 feng4 san1 wu2 。
+- shang4 you2 jing1 chu3 yao4 ， ze2 guo2 dong4 ting2 shen1 。
+- zi4 shi2 tong2 wen2 shi4 ， jie1 hui2 gong3 ji2 xin1 。
+- yi4 rong2 liao2 zhang4 yue4 ， jiu3 tu3 jin4 shu1 jin1 。
+- da4 ding4 gong1 cheng2 hou4 ， xun1 feng1 ru4 shun4 qin2 。
 
 ## 注释
 

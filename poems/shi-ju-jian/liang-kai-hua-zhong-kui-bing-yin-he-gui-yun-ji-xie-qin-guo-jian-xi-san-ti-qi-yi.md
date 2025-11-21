@@ -6,10 +6,10 @@ titleSlug: liang-kai-hua-zhong-kui-bing-yin-he-gui-yun-ji-xie-qin-guo-jian-xi-sa
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

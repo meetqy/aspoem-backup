@@ -1,28 +1,30 @@
 ---
 id: shi-ke-xiang-ji-song-yi-bai-ling-jiu-shou-qi-ba
-title: 偈頌一百零九首  其八
-titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 ba1
+title: 偈頌一百零九首  其八○
+titlePinyin: ji4 song4 yi4 bai3 ling2 jiu3 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-ling-jiu-shou-qi-ba
 author: 釋可湘
 authorPinyin: shi4 ke3 xiang1
 authorSlug: shi-ke-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風不來，樹不動。
-- 溈仰父子，互呈體用。
-- 三十烏藤話已行，萬牛回首丘山重。
+- 九日正當期，登高報衆知。
+- 黄花到處有，豈獨在東籬。
+- 難逢美景，採出一枝。
+- 觸目無人明此意，何妨自插滿頭歸。
 
 ## 拼音
 
-- feng1 bu4 lai2 ， shu4 bu2 dong4 。
-- wei2 yang3 fu4 zi3 ， hu4 cheng2 ti3 yong4 。
-- san1 shi2 wu1 teng2 hua4 yi3 xing2 ， wan4 niu2 hui2 shou3 qiu1 shan1 zhong4 。
+- jiu3 ri4 zheng4 dang1 qi1 ， deng1 gao1 bao4 zhong4 zhi1 。
+- huang2 hua1 dao4 chu3 you3 ， qi3 du2 zai4 dong1 li2 。
+- nan2 feng2 mei3 jing3 ， cai3 chu1 yi4 zhi1 。
+- chu4 mu4 wu2 ren2 ming2 ci3 yi4 ， he2 fang2 zi4 cha1 man3 tou2 gui1 。
 
 ## 注释
 

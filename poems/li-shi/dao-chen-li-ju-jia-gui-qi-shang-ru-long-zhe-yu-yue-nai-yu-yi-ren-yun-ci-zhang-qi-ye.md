@@ -6,10 +6,10 @@ titleSlug: dao-chen-li-ju-jia-gui-qi-shang-ru-long-zhe-yu-yue-nai-yu-yi-ren-yun-
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

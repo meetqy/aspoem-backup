@@ -6,25 +6,25 @@ titleSlug: chao-hui-qi-yi
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湛湛露斯，其甘如飴。
-- 清寧鑒德，和氣應之。
-- 神雲播液，冰玉凝姿。
-- 是爲仁瑞，萬壽維祺。
+- 華滋凝氣，靈粹發祥。
+- 紫蓋輪囷，金跗煒煌。
+- 陽蓼三秀，甘泉九房。
+- 瑞圖休證，君王壽昌。
 
 ## 拼音
 
-- zhan4 zhan4 lu4 si1 ， qi2 gan1 ru2 yi2 。
-- qing1 ning2 jian4 de2 ， he2 qi4 ying1 zhi1 。
-- shen2 yun2 bo1 ye4 ， bing1 yu4 ning2 zi1 。
-- shi4 wei2 ren2 rui4 ， wan4 shou4 wei2 qi2 。
+- hua2 zi1 ning2 qi4 ， ling2 cui4 fa1 xiang2 。
+- zi3 gai4 lun2 qun1 ， jin1 fu1 wei3 huang2 。
+- yang2 liao3 san1 xiu4 ， gan1 quan2 jiu3 fang2 。
+- rui4 tu2 xiu1 zheng4 ， jun1 wang2 shou4 chang1 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: jin-guo-he-zheng-dan-shi-fu-dao-que-zi-chen-dian-yan-zhi-yu-kou-hao
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北斗回杓恰指寅，東皇御極蚤施仁。
-- 光風麗日依稀轉，御柳宮花次第新。
-- 魚藻有頒安萬物，鹿苹式燕樂嘉賓。
-- 小臣請祝君王壽，乾道宜過一萬春。
+- 淳熙紀號過千齡，玉曆今開第五春。
+- 北極天高乾象正，東郊風暖物華新。
+- 漏添化國融和日，律饗熙臺鼓舞人。
+- 願挹滄溟供壽酒，無躬無盡奉嚴宸。
 
 ## 拼音
 
-- bei3 dou3 hui2 shao2 qia4 zhi3 yin2 ， dong1 huang2 yu4 ji2 zao3 shi1 ren2 。
-- guang1 feng1 li2 ri4 yi1 xi1 zhuan3 ， yu4 liu3 gong1 hua1 ci4 di4 xin1 。
-- yu2 zao3 you3 ban1 an1 wan4 wu4 ， lu4 ping2 shi4 yan4 le4 jia1 bin1 。
-- xiao3 chen2 qing3 zhu4 jun1 wang2 shou4 ， qian2 dao4 yi2 guo4 yi2 wan4 chun1 。
+- chun2 xi1 ji4 hao4 guo4 qian1 ling2 ， yu4 li4 jin1 kai1 di4 wu3 chun1 。
+- bei3 ji2 tian1 gao1 qian2 xiang4 zheng4 ， dong1 jiao1 feng1 nuan3 wu4 hua2 xin1 。
+- lou4 tian1 hua4 guo2 rong2 he2 ri4 ， lü4 xiang3 xi1 tai2 gu3 wu3 ren2 。
+- yuan4 yi4 cang1 ming2 gong4 shou4 jiu3 ， wu2 gong1 wu2 jin4 feng4 yan2 chen2 。
 
 ## 注释
 

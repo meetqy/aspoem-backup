@@ -6,10 +6,10 @@ titleSlug: zheng-yue-hui-xi-meng-zhong-zuo-ji-jue-dan-ji-qi-shou-liang-ju-sui-wu
 author: 鄭清之
 authorPinyin: zheng4 qing1 zhi1
 authorSlug: zheng-qing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

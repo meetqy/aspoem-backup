@@ -6,10 +6,10 @@ titleSlug: yi-ren-zhang-xiao-you-qin-mo-lu-mu-liu-nian-you-wu-se-niao-ji-mu-long
 author: 徐洪
 authorPinyin: xu2 hong2
 authorSlug: xu-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

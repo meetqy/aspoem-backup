@@ -9,18 +9,16 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 汴水高懸百萬條，風清兩岸一時搖。
-- 隋家力盡虛栽得，無限春風屬聖朝。
+- 晴垂芳態吐牙新，雨擺輕條濕面春。
 
 ## 拼音
 
-- bian4 shui3 gao1 xuan2 bai3 wan4 tiao2 ， feng1 qing1 liang3 an4 yi4 shi2 yao2 。
-- sui2 jia1 li4 jin4 xu1 zai1 de2 ， wu2 xian4 chun1 feng1 shu3 sheng4 chao2 。
+- qing2 chui2 fang1 tai4 tu3 ya2 xin1 ， yu3 bai3 qing1 tiao2 shi1 mian4 chun1 。
 
 ## 注释
 

@@ -9,22 +9,18 @@ authorSlug: wang-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我年一何長，鬢髪日已白。
-- 俛仰天地間，能爲幾時客。
-- 惆悵故山雲，俳徊空日夕。
-- 何事與時人，東城復南陌。
+- 宿昔朱顏成暮齒，須臾白髮變垂髫。
+- 一生幾許傷心事，不向空門何處銷。
 
 ## 拼音
 
-- wo3 nian2 yi4 he2 chang2 ， bin4 fa4 ri4 yi3 bai2 。
-- fu3 yang3 tian1 di4 jian4 ， neng2 wei2 ji1 shi2 ke4 。
-- chou2 chang4 gu4 shan1 yun2 ， pai2 huai2 kong1 ri4 xi1 。
-- he2 shi4 yu3 shi2 ren2 ， dong1 cheng2 fu4 nan2 mo4 。
+- su4 xi1 zhu1 yan2 cheng2 mu4 chi3 ， xu1 yu2 bai2 fa4 bian4 chui2 tiao2 。
+- yi4 sheng1 ji1 xu1 shang1 xin1 shi4 ， bu2 xiang4 kong1 men2 he2 chu3 xiao1 。
 
 ## 注释
 

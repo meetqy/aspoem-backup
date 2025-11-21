@@ -6,21 +6,25 @@ titleSlug: zao-chun
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪水覺暖微函碧，山杏經春半吐紅。
-- 不向此時拚一醉，到頭無計奈春風。
+- 星紀周天運，微陽氣候新。
+- 郊原初度臘，梅柳暗驚春。
+- 故國無書久，孤峰入夢頻。
+- 年加自多感，況復送歸人。
 
 ## 拼音
 
-- xi1 shui3 jue2 nuan3 wei1 han2 bi4 ， shan1 xing4 jing1 chun1 ban4 tu3 hong2 。
-- bu2 xiang4 ci3 shi2 pin1 yi2 zui4 ， dao4 tou2 wu2 ji4 nai4 chun1 feng1 。
+- xing1 ji4 zhou1 tian1 yun4 ， wei1 yang2 qi4 hou4 xin1 。
+- jiao1 yuan2 chu1 du4 la4 ， mei2 liu3 an4 jing1 chun1 。
+- gu4 guo2 wu2 shu1 jiu3 ， gu1 feng1 ru4 meng4 bin1 。
+- nian2 jia1 zi4 duo1 gan3 ， kuang4 fu4 song4 gui1 ren2 。
 
 ## 注释
 

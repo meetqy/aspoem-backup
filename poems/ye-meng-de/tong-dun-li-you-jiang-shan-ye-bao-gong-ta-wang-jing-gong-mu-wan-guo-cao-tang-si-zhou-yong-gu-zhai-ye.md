@@ -6,10 +6,10 @@ titleSlug: tong-dun-li-you-jiang-shan-ye-bao-gong-ta-wang-jing-gong-mu-wan-guo-c
 author: 葉夢得
 authorPinyin: ye4 meng4 de2
 authorSlug: ye-meng-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

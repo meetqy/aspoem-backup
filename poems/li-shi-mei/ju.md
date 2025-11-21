@@ -6,9 +6,9 @@ titleSlug: ju
 author: 李士美
 authorPinyin: li3 shi4 mei3
 authorSlug: li-shi-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

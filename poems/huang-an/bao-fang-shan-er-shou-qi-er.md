@@ -6,10 +6,10 @@ titleSlug: bao-fang-shan-er-shou-qi-er
 author: 黄葊
 authorPinyin: huang2 an1
 authorSlug: huang-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百年窗下棋千著，萬事燈前酒一斟。
+- 蜀天過雨浮嵐翠，漢地連雲小麥黄。
 
 ## 拼音
 
-- bai3 nian2 chuang1 xia4 qi2 qian1 zhu4 ， wan4 shi4 deng1 qian2 jiu3 yi4 zhen1 。
+- shu3 tian1 guo4 yu3 fu2 lan2 cui4 ， han4 di4 lian2 yun2 xiao3 mai4 huang2 。
 
 ## 注释
 

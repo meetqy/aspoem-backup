@@ -6,10 +6,10 @@ titleSlug: he-shen-si-man-xing-cheng-zhang-lu-meng-zi-fang-chong-he-geng-ru-zeng
 author: 蔡肇
 authorPinyin: cai4 zhao4
 authorSlug: cai-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

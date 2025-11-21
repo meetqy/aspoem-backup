@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我雖巖谷豈其卿，多壘于郊亦可驚。
-- 徒有丹心思報國，無因緩頰得論兵。
-- 跳梁狐怪今方逞，奮角狼星久未平。
-- 盍亦付之公子繡，慨然持斧爲澄清。
+- 曩會今千日，光陰趁水流。
+- 楚囚聊寓目，古佛不擡頭。
+- 鳥避人聲雜，雲藏洞穴幽。
+- 一舟横晚渡，回首興悠悠。
 
 ## 拼音
 
-- wo3 sui1 yan2 gu3 qi3 qi2 qing1 ， duo1 lei3 yu2 jiao1 yi4 ke3 jing1 。
-- tu2 you3 dan1 xin1 si0 bao4 guo2 ， wu2 yin1 huan3 jia2 de2 lun4 bing1 。
-- tiao4 liang2 hu2 guai4 jin1 fang1 cheng3 ， fen4 jiao3 lang2 xing1 jiu3 wei4 ping2 。
-- he2 yi4 fu4 zhi1 gong1 zi3 xiu4 ， kai3 ran2 chi2 fu3 wei2 cheng2 qing1 。
+- nang3 hui4 jin1 qian1 ri4 ， guang1 yin1 chen4 shui3 liu2 。
+- chu3 qiu2 liao2 yu4 mu4 ， gu3 fo2 bu4 tai2 tou2 。
+- niao3 bi4 ren2 sheng1 za2 ， yun2 cang2 dong4 xue2 you1 。
+- yi4 zhou1 heng2 wan3 du4 ， hui2 shou3 xing1 you1 you1 。
 
 ## 注释
 

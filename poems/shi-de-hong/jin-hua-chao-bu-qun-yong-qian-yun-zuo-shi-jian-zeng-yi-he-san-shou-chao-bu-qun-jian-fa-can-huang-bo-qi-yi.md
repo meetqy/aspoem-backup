@@ -6,10 +6,10 @@ titleSlug: jin-hua-chao-bu-qun-yong-qian-yun-zuo-shi-jian-zeng-yi-he-san-shou-ch
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: ai-guo-xian-ling-you-zi-bi-qi-yi
 author: 張舜民
 authorPinyin: zhang1 shun4 min2
 authorSlug: zhang-shun-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 匍匐岐山下，三呼已過時。
-- 臧孫雖有後，伯道竟無兒。
-- 自是終身痛，空留一縣悲。
-- 老人休雨淚，轉面即逢伊。
+- 種瓜再摘覺瓜稀，不爲衰年骨肉離。
+- 何事一哀還不哭，老人相別不多時。
 
 ## 拼音
 
-- pu2 fu2 qi2 shan1 xia4 ， san1 hu1 yi3 guo4 shi2 。
-- zang1 sun1 sui1 you3 hou4 ， bo2 dao4 jing4 wu2 er2 。
-- zi4 shi4 zhong1 shen1 tong4 ， kong1 liu2 yi2 xian4 bei1 。
-- lao3 ren2 xiu1 yu3 lei4 ， zhuan3 mian4 ji2 feng2 yi1 。
+- zhong3 gua1 zai4 zhai1 jue2 gua1 xi1 ， bu4 wei2 shuai1 nian2 gu3 rou4 li2 。
+- he2 shi4 yi4 ai1 huan2 bu4 ku1 ， lao3 ren2 xiang1 bie2 bu4 duo1 shi2 。
 
 ## 注释
 

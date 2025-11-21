@@ -6,10 +6,10 @@ titleSlug: wen-zheng-gong-zhu-an-jiang-cheng-zhe-yi-zhi-mo-ming-zhi-bing-ji-jue-
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

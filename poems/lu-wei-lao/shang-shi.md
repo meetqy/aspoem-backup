@@ -6,9 +6,9 @@ titleSlug: shang-shi
 author: 呂渭老
 authorPinyin: lü3 wei4 lao3
 authorSlug: lu-wei-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,9 +6,9 @@ titleSlug: ye-bo-dui-yue-you-gan
 author: 周莘
 authorPinyin: zhou1 shen1
 authorSlug: zhou-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

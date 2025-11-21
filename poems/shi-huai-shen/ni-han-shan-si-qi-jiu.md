@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-jiu
-title: 擬寒山寺  其九
-titlePinyin: ni3 han2 shan1 si4     qi2 jiu3
+title: 擬寒山寺  其九○
+titlePinyin: ni3 han2 shan1 si4     qi2 jiu3 ○
 titleSlug: ni-han-shan-si-qi-jiu
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何曾食萬錢，顔子飲一瓢。
-- 賢者心念道，愚人志在庖。
-- 賢愚趣不同，何啻雲泥遙。
-- 豢養恐非福，可信如昭昭。
+- 可畏是輪迴，念念無停住。
+- 纔見出頭來，又見翻然去。
+- 換面與改頭，爲男或作女。
+- 不識主人翁，來去多辛苦。
 
 ## 拼音
 
-- he2 ceng2 shi2 wan4 qian2 ， yan2 zi3 yin3 yi4 piao2 。
-- xian2 zhe3 xin1 nian4 dao4 ， yu2 ren2 zhi4 zai4 pao2 。
-- xian2 yu2 qu4 bu4 tong2 ， he2 chi4 yun2 ni2 yao2 。
-- huan4 yang3 kong3 fei1 fu2 ， ke3 xin4 ru2 zhao1 zhao1 。
+- ke3 wei4 shi4 lun2 hui2 ， nian4 nian4 wu2 ting2 zhu4 。
+- cai2 jian4 chu1 tou2 lai2 ， you4 jian4 fan1 ran2 qu4 。
+- huan4 mian4 yu3 gai3 tou2 ， wei2 nan2 huo4 zuo4 nü3 。
+- bu4 shi2 zhu3 ren2 weng1 ， lai2 qu4 duo1 xin1 ku3 。
 
 ## 注释
 

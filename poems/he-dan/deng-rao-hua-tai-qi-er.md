@@ -6,10 +6,10 @@ titleSlug: deng-rao-hua-tai-qi-er
 author: 何澹
 authorPinyin: he2 dan4
 authorSlug: he-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

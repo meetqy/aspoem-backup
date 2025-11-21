@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao-gong
 author: 盧正中
 authorPinyin: lu2 zheng4 zhong1
 authorSlug: lu-zheng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

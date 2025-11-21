@@ -6,9 +6,9 @@ titleSlug: zheng-tun
 author: 紫衣師
 authorPinyin: zi3 yi1 shi1
 authorSlug: zi-yi-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

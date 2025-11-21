@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 王拱辰
 authorPinyin: wang2 gong3 chen2
 authorSlug: wang-gong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

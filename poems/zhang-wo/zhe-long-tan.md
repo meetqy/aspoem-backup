@@ -6,10 +6,10 @@ titleSlug: zhe-long-tan
 author: 張沃
 authorPinyin: zhang1 wo4
 authorSlug: zhang-wo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

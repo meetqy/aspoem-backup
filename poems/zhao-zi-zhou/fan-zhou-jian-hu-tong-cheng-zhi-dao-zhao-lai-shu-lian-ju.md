@@ -6,10 +6,10 @@ titleSlug: fan-zhou-jian-hu-tong-cheng-zhi-dao-zhao-lai-shu-lian-ju
 author: 趙子晝
 authorPinyin: zhao4 zi3 zhou4
 authorSlug: zhao-zi-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

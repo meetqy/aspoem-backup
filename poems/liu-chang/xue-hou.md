@@ -6,25 +6,25 @@ titleSlug: xue-hou
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日出桑柘巔，鶴鳴風景和。
-- 縱心適田野，顧覺春意多。
-- 欣欣林間叟，負薪行且歌。
-- 此中有真樂，富貴如余何。
+- 飛塵暫消凍，春意亦冲融。
+- 野水涓涓綠，林梢靡靡紅。
+- 躍魚輕泮凍，鳴鶴舞和風。
+- 出處驚時節，悠悠看歲窮。
 
 ## 拼音
 
-- ri4 chu1 sang1 zhe4 dian1 ， he4 ming2 feng1 jing3 he2 。
-- zong4 xin1 shi4 tian2 ye3 ， gu4 jue2 chun1 yi4 duo1 。
-- xin1 xin1 lin2 jian4 sou3 ， fu4 xin1 xing2 qie3 ge1 。
-- ci3 zhong1 you3 zhen1 le4 ， fu4 gui4 ru2 yu2 he2 。
+- fei1 chen2 zan4 xiao1 dong4 ， chun1 yi4 yi4 chong1 rong2 。
+- ye3 shui3 juan1 juan1 lü4 ， lin2 shao1 mi2 mi2 hong2 。
+- yue4 yu2 qing1 pan4 dong4 ， ming2 he4 wu3 he2 feng1 。
+- chu1 chu3 jing1 shi2 jie2 ， you1 you1 kan4 sui4 qiong2 。
 
 ## 注释
 

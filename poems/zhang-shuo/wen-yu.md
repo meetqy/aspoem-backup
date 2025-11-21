@@ -9,28 +9,24 @@ authorSlug: zhang-shuo
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 多雨絕塵事，寥寥入太玄。
-- 城陰疎復合，簷滴斷還連。
-- 念我勞造化，從來五十年。
-- 誤將心徇物，近得還自然。
-- 閑居草木侍，虛室鬼神憐。
-- 有時進美酒，有時泛清絃。
-- 聲真不世識，心醉豈言詮。
+- 窮冬萬花匝，永夜百憂攢。
+- 危戍臨江火，空齋入雨寒。
+- 斷猿知屢別，嘶鴈覺虛彈。
+- 心對爐灰死，顏隨庭樹殘。
+- 舊恩懷未報，傾膽鏡中看。
 
 ## 拼音
 
-- duo1 yu3 jue2 chen2 shi4 ， liao2 liao2 ru4 tai4 xuan2 。
-- cheng2 yin1 shu1 fu4 he2 ， yan2 di1 duan4 huan2 lian2 。
-- nian4 wo3 lao2 zao4 hua4 ， cong2 lai2 wu3 shi2 nian2 。
-- wu4 jiang1 xin1 xun4 wu4 ， jin4 de2 huan2 zi4 ran2 。
-- xian2 ju1 cao3 mu4 shi4 ， xu1 shi4 gui3 shen2 lian2 。
-- you3 shi2 jin4 mei3 jiu3 ， you3 shi2 fan4 qing1 xian2 。
-- sheng1 zhen1 bu2 shi4 shi2 ， xin1 zui4 qi3 yan2 quan2 。
+- qiong2 dong1 wan4 hua1 za1 ， yong3 ye4 bai3 you1 zan3 。
+- wei1 shu4 lin2 jiang1 huo3 ， kong1 zhai1 ru4 yu3 han2 。
+- duan4 yuan2 zhi1 lü3 bie2 ， si1 yan4 jue2 xu1 dan4 。
+- xin1 dui4 lu2 hui1 si3 ， yan2 sui2 ting2 shu4 can2 。
+- jiu4 en1 huai2 wei4 bao4 ， qing1 dan3 jing4 zhong1 kan4 。
 
 ## 注释
 

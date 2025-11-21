@@ -6,10 +6,10 @@ titleSlug: guo-zhou-dun-bao
 author: 陳裔長
 authorPinyin: chen2 yi4 chang2
 authorSlug: chen-yi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

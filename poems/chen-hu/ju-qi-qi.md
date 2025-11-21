@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-qi
-title: 句  其七
-titlePinyin: ju4     qi2 qi1
+title: 句  其七○
+titlePinyin: ju4     qi2 qi1 ○
 titleSlug: ju-qi-qi
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 陶寫有時欣律熟，去來無著證鑪芬。
+- 昨朝骨肉關情大，今日平安過望多。
 
 ## 拼音
 
-- tao2 xie3 you3 shi2 xin1 lü4 shu2 ， qu4 lai2 wu2 zhu4 zheng4 lu2 fen1 。
+- zuo2 chao2 gu3 rou4 guan1 qing2 da4 ， jin1 ri4 ping2 an1 guo4 wang4 duo1 。
 
 ## 注释
 

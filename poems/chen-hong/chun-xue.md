@@ -6,10 +6,10 @@ titleSlug: chun-xue
 author: 陳洪
 authorPinyin: chen2 hong2
 authorSlug: chen-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

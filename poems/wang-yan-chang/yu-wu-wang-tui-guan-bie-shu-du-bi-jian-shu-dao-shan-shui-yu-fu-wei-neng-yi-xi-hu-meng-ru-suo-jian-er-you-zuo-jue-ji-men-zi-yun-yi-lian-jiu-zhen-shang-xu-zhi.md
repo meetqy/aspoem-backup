@@ -6,10 +6,10 @@ titleSlug: yu-wu-wang-tui-guan-bie-shu-du-bi-jian-shu-dao-shan-shui-yu-fu-wei-ne
 author: 汪炎昶
 authorPinyin: wang1 yan2 chang3
 authorSlug: wang-yan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

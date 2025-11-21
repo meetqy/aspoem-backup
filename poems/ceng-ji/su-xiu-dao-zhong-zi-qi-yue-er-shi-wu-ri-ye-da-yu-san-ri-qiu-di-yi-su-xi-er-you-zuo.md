@@ -6,10 +6,10 @@ titleSlug: su-xiu-dao-zhong-zi-qi-yue-er-shi-wu-ri-ye-da-yu-san-ri-qiu-di-yi-su-
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

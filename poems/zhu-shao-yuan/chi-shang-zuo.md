@@ -6,10 +6,10 @@ titleSlug: chi-shang-zuo
 author: 朱紹遠
 authorPinyin: zhu1 shao4 yuan3
 authorSlug: zhu-shao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

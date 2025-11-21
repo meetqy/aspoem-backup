@@ -6,25 +6,25 @@ titleSlug: hai-tang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰道名花獨故宫，東城盛麗足爭雄。
-- 横陳錦障闌干外，盡吸紅雲酒醆中。
-- 貪看不辭持夜燭，倚狂直欲擅春風。
-- 拾遺舊詠悲零落，瘦損腰圍擬未工。
+- 月下看荼䕷，燭下看海棠。
+- 此是看花法，不可輕傳揚。
+- 荼䕷暗處看，紛紛滿架雪。
+- 海棠明處看，滴滴萬點血。
 
 ## 拼音
 
-- shui2 dao4 ming2 hua1 du2 gu4 gong1 ， dong1 cheng2 sheng4 li2 zu2 zheng1 xiong2 。
-- heng2 chen2 jin3 zhang4 lan2 gan1 wai4 ， jin4 xi1 hong2 yun2 jiu3 zhan3 zhong1 。
-- tan1 kan4 bu4 ci2 chi2 ye4 zhu2 ， yi3 kuang2 zhi2 yu4 shan4 chun1 feng1 。
-- shi2 yi2 jiu4 yong3 bei1 ling2 luo4 ， shou4 sun3 yao1 wei2 ni3 wei4 gong1 。
+- yue4 xia4 kan4 tu2 䕷， zhu2 xia4 kan4 hai3 tang2 。
+- ci3 shi4 kan4 hua1 fa3 ， bu4 ke3 qing1 chuan2 yang2 。
+- tu2 䕷 an4 chu3 kan4 ， fen1 fen1 man3 jia4 xue3 。
+- hai3 tang2 ming2 chu3 kan4 ， di1 di1 wan4 dian3 xue4 。
 
 ## 注释
 

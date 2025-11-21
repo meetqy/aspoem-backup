@@ -6,10 +6,10 @@ titleSlug: xin-fan-xian-dong-hu-rui-lian-ge
 author: 王益
 authorPinyin: wang2 yi4
 authorSlug: wang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

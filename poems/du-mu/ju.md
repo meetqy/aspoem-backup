@@ -9,32 +9,20 @@ authorSlug: du-mu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 幽人聽達曙，聊罷蘇牀琴。
-- 魚多知海熟，藥少覺山貧。
-- 土控吳兼越，州連歙與池。
-- 山河地襟帶，軍鎮國藩維。
-- 綠水櫂雲月，洞庭歸路長。
-- 春橋垂酒幔，夜柵集茶檣。
-- 箬影沈溪暖，蘋花遶郭香。
-- 經冬野菜青青色，未臘山梅樹樹花。
-- 半破前峰月。
+- 閉門客到常疑（一作「如」）病，滿院花開不似（一作「未是」）貧。
+- （以上《雲谿友議》上《馮生佞》。
+- 又《唐詩紀事》五六、《詩話總龜》三《知遇門》、《詩人玉屑》十《知音》、《唐才子傳》七）。
 
 ## 拼音
 
-- you1 ren2 ting1 da2 shu3 ， liao2 ba4 su1 chuang2 qin2 。
-- yu2 duo1 zhi1 hai3 shu2 ， yao4 shao3 jue2 shan1 pin2 。
-- tu3 kong4 wu2 jian1 yue4 ， zhou1 lian2 xi1 yu3 chi2 。
-- shan1 he2 di4 jin1 dai4 ， jun1 zhen4 guo2 fan1 wei2 。
-- lü4 shui3 zhao4 yun2 yue4 ， dong4 ting2 gui1 lu4 chang2 。
-- chun1 qiao2 chui2 jiu3 man4 ， ye4 shan1 ji2 cha2 qiang2 。
-- ruo4 ying3 shen3 xi1 nuan3 ， pin2 hua1 rao4 guo1 xiang1 。
-- jing1 dong1 ye3 cai4 qing1 qing1 se4 ， wei4 la4 shan1 mei2 shu4 shu4 hua1 。
-- ban4 po4 qian2 feng1 yue4 。
+- bi4 men2 ke4 dao4 chang2 yi2 （ yi2 zuo4 「 ru2 」） bing4 ， man3 yuan4 hua1 kai1 bu2 si4 （ yi2 zuo4 「 wei4 shi4 」） pin2 。
+- （ yi3 shang4 《 yun2 xi1 you3 yi4 》 shang4 《 feng2 sheng1 ning4 》。
+- you4 《 tang2 shi1 ji4 shi4 》 wu3 liu4 、《 shi1 hua4 zong3 gui1 》 san1 《 zhi1 yu4 men2 》、《 shi1 ren2 yu4 xie4 》 shi2 《 zhi1 yin1 》、《 tang2 cai2 zi3 chuan2 》 qi1 ）。
 
 ## 注释
 

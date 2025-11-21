@@ -6,10 +6,10 @@ titleSlug: jiu-long-yan
 author: 王觀
 authorPinyin: wang2 guan1
 authorSlug: wang-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

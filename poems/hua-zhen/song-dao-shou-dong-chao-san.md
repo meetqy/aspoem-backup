@@ -6,25 +6,25 @@ titleSlug: song-dao-shou-dong-chao-san
 author: 華鎮
 authorPinyin: hua2 zhen4
 authorSlug: hua-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 史筆傳遺直，經帷起世家。
-- 一麾分郡寄，千里藹春華。
-- 鳴阪方睎驥，言時已及瓜。
-- 車塵杳難逐，飛夢遶天涯。
+- 香穗氤氳雜瑞烟，條風新轉早春天。
+- 桑蓬慶集侯門日，銅竹榮居郡閤年。
+- 清曉十分圓玉兔，寒宵萬斛照金蓮。
+- 祝詩聊致官曹意，上古靈椿自八千。
 
 ## 拼音
 
-- shi3 bi3 chuan2 yi2 zhi2 ， jing1 wei2 qi3 shi4 jia1 。
-- yi4 hui1 fen1 jun4 ji4 ， qian1 li3 ai3 chun1 hua2 。
-- ming2 ban3 fang1 xi1 ji4 ， yan2 shi2 yi3 ji2 gua1 。
-- ju1 chen2 yao3 nan2 zhu2 ， fei1 meng4 rao4 tian1 ya2 。
+- xiang1 sui4 yin1 yun1 za2 rui4 yan1 ， tiao2 feng1 xin1 zhuan3 zao3 chun1 tian1 。
+- sang1 peng2 qing4 ji2 hou2 men2 ri4 ， tong2 zhu2 rong2 ju1 jun4 he2 nian2 。
+- qing1 xiao3 shi2 fen1 yuan2 yu4 tu4 ， han2 xiao1 wan4 hu2 zhao4 jin1 lian2 。
+- zhu4 shi1 liao2 zhi4 guan1 cao2 yi4 ， shang4 gu3 ling2 chun1 zi4 ba1 qian1 。
 
 ## 注释
 

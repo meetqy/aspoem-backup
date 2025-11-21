@@ -6,10 +6,10 @@ titleSlug: zhong-shan
 author: 劉有慶
 authorPinyin: liu2 you3 qing4
 authorSlug: liu-you-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

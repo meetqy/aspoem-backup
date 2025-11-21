@@ -6,10 +6,10 @@ titleSlug: song-lin-gong-liao-gui-min-sheng-jin-zhu-xi-zhong-shu-wang-fu-an-xi-x
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

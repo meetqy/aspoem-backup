@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 故交零落形吊影，陳迹凄凉口語心。
-- 辛苦一生成底事，祈招空解誦愔愔。
+- 澤居憂下溼，老病覺中乾。
+- 違俗恐不免，倚天聊自寬。
+- 受規如獲藥，喜退甚彈冠。
+- 不是憎勳業，心知骨相寒。
 
 ## 拼音
 
-- gu4 jiao1 ling2 luo4 xing2 diao4 ying3 ， chen2 ji4 qi1 liang2 kou3 yu3 xin1 。
-- xin1 ku3 yi4 sheng1 cheng2 di3 shi4 ， qi2 zhao1 kong1 jie3 song4 yin1 yin1 。
+- ze2 ju1 you1 xia4 shi1 ， lao3 bing4 jue2 zhong1 qian2 。
+- wei2 su2 kong3 bu4 mian3 ， yi3 tian1 liao2 zi4 kuan1 。
+- shou4 gui1 ru2 huo4 yao4 ， xi3 tui4 shen4 dan4 guan1 。
+- bu2 shi4 zeng1 xun1 ye4 ， xin1 zhi1 gu3 xiang4 han2 。
 
 ## 注释
 

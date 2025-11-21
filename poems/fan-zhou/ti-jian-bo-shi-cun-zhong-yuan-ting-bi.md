@@ -6,10 +6,10 @@ titleSlug: ti-jian-bo-shi-cun-zhong-yuan-ting-bi
 author: 范周
 authorPinyin: fan4 zhou1
 authorSlug: fan-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

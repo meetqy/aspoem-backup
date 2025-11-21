@@ -6,10 +6,10 @@ titleSlug: mao-zhai-cheng-qian-yuan-gui-lao-yi-zhu-zhang-mao-niu-fu-jian-yi-chen
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

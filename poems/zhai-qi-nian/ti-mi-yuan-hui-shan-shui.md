@@ -6,9 +6,9 @@ titleSlug: ti-mi-yuan-hui-shan-shui
 author: 翟耆年
 authorPinyin: zhai2 qi2 nian2
 authorSlug: zhai-qi-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

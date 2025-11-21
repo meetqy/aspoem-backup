@@ -6,9 +6,9 @@ titleSlug: cun-mu
 author: 阮逸
 authorPinyin: ruan3 yi4
 authorSlug: ruan-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

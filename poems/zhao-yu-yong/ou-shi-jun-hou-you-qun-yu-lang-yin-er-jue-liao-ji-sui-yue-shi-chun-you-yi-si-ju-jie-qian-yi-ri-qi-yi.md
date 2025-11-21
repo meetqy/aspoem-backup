@@ -6,10 +6,10 @@ titleSlug: ou-shi-jun-hou-you-qun-yu-lang-yin-er-jue-liao-ji-sui-yue-shi-chun-yo
 author: 趙與泳
 authorPinyin: zhao4 yu3 yong3
 authorSlug: zhao-yu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

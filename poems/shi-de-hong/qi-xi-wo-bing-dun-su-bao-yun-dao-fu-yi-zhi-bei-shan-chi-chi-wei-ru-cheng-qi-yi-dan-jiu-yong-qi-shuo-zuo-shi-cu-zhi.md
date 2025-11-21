@@ -6,10 +6,10 @@ titleSlug: qi-xi-wo-bing-dun-su-bao-yun-dao-fu-yi-zhi-bei-shan-chi-chi-wei-ru-ch
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shi-jing-quan-ci-shen-tai-shou-yun-qi-yi
 author: 尤懋
 authorPinyin: you2 mao4
 authorSlug: you-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

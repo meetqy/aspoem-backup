@@ -6,10 +6,10 @@ titleSlug: wu-fo-jian-wen-ling-zhi-shu-ji
 author: 釋清海
 authorPinyin: shi4 qing1 hai3
 authorSlug: shi-qing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

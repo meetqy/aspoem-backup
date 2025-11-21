@@ -6,37 +6,25 @@ titleSlug: shu-zhi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 往年出都門，誓墓志已决。
-- 况今蒲柳姿，俛仰及大耋。
-- 妻孥厭寒餓，鄰里笑迂拙。
-- 悲歌行拾穗，幽憤卧齧雪。
-- 千歲埋松根，陰風蕩空穴。
-- 肝心獨不化，凝結變金鐵。
-- 鑄爲上方劍，釁以佞臣血。
-- 匣藏武庫中，出參髦頭列。
-- 三尺粲星辰，萬里靜妖孽。
-- 君看此神奇，醜虜何足滅。
+- 蓬矢桑弧射四方，豈知垂老卧江鄉。
+- 讀書雖復具隻眼，貯酒其如無別腸。
+- 疋馬揚鞭遊鄠杜，扁舟捩柁上瀟湘。
+- 自悲此志俱難豁，且復狂歌破夜長。
 
 ## 拼音
 
-- wang3 nian2 chu1 dou1 men2 ， shi4 mu4 zhi4 yi3 jue2 。
-- kuang4 jin1 pu2 liu3 zi1 ， fu3 yang3 ji2 da4 die2 。
-- qi1 nu2 yan4 han2 e4 ， lin2 li3 xiao4 yu1 zhuo1 。
-- bei1 ge1 xing2 shi2 sui4 ， you1 fen4 wo4 nie4 xue3 。
-- qian1 sui4 mai2 song1 gen1 ， yin1 feng1 dang4 kong1 xue2 。
-- gan1 xin1 du2 bu2 hua4 ， ning2 jie2 bian4 jin1 tie3 。
-- zhu4 wei2 shang4 fang1 jian4 ， xin4 yi3 ning4 chen2 xue4 。
-- xia2 cang2 wu3 ku4 zhong1 ， chu1 can1 mao2 tou2 lie4 。
-- san1 chi3 can4 xing1 chen2 ， wan4 li3 jing4 yao1 nie4 。
-- jun1 kan4 ci3 shen2 qi2 ， chou3 lu3 he2 zu2 mie4 。
+- peng2 shi3 sang1 hu2 she4 si4 fang1 ， qi3 zhi1 chui2 lao3 wo4 jiang1 xiang1 。
+- du2 shu1 sui1 fu4 ju4 zhi1 yan3 ， zhu4 jiu3 qi2 ru2 wu2 bie2 chang2 。
+- pi3 ma3 yang2 bian1 you2 hu4 du4 ， pian1 zhou1 lie4 tuo2 shang4 xiao1 xiang1 。
+- zi4 bei1 ci3 zhi4 ju4 nan2 huo1 ， qie3 fu4 kuang2 ge1 po4 ye4 chang2 。
 
 ## 注释
 

@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 滿城士女鬭鮮粧，無藥能醫一國狂。
-- 猶有當年舊旗鼓，溪頭讓與少年郎。
+- 梁松帝壻拜堂下，伏波將軍坐受之。
+- 汝雖自詫樊川姪，吾未嘗聞蔡克兒。
 
 ## 拼音
 
-- man3 cheng2 shi4 nü3 dou4 xian1 zhuang1 ， wu2 yao4 neng2 yi1 yi4 guo2 kuang2 。
-- you2 you3 dang1 nian2 jiu4 qi2 gu3 ， xi1 tou2 rang4 yu3 shao4 nian2 lang2 。
+- liang2 song1 di4 xu4 bai4 tang2 xia4 ， fu2 bo1 jiang1 jun1 zuo4 shou4 zhi1 。
+- ru3 sui1 zi4 cha4 fan2 chuan1 zhi2 ， wu2 wei4 chang2 wen2 cai4 ke4 er2 。
 
 ## 注释
 

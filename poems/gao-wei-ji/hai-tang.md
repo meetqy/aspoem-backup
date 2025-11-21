@@ -6,10 +6,10 @@ titleSlug: hai-tang
 author: 高惟幾
 authorPinyin: gao1 wei2 ji1
 authorSlug: gao-wei-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

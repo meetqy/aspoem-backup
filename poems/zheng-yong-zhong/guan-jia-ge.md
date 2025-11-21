@@ -6,10 +6,10 @@ titleSlug: guan-jia-ge
 author: 鄭永中
 authorPinyin: zheng4 yong3 zhong1
 authorSlug: zheng-yong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: gong-ci-qi-yi-si
 author: 楊皇后
 authorPinyin: yang2 huang2 hou4
 authorSlug: yang-huang-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

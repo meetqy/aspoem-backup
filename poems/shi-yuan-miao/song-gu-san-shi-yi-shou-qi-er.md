@@ -1,26 +1,26 @@
 ---
 id: shi-yuan-miao-song-gu-san-shi-yi-shou-qi-er
-title: 頌古三十一首  其二
-titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 er4
+title: 頌古三十一首  其二○
+titlePinyin: song4 gu3 san1 shi2 yi4 shou3     qi2 er4 ○
 titleSlug: song-gu-san-shi-yi-shou-qi-er
 author: 釋原妙
 authorPinyin: shi4 yuan2 miao4
 authorSlug: shi-yuan-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩兩成羣罪莫窮，謾將鼠伎逞英雄。
-- 當時若作今時世，縱使瞿曇也不中。
+- 饑火炎炎燒斷腸，親逢王膳不能嘗。
+- 可憐併逐溪流去，百億滄溟透底香。
 
 ## 拼音
 
-- liang3 liang3 cheng2 qun2 zui4 mo4 qiong2 ， man2 jiang1 shu3 ji4 cheng3 ying1 xiong2 。
-- dang1 shi2 ruo4 zuo4 jin1 shi2 shi4 ， zong4 shi3 qu2 tan2 ye3 bu4 zhong1 。
+- ji1 huo3 yan2 yan2 shao1 duan4 chang2 ， qin1 feng2 wang2 shan4 bu4 neng2 chang2 。
+- ke3 lian2 bing4 zhu2 xi1 liu2 qu4 ， bai3 yi4 cang1 ming2 tou4 di3 xiang1 。
 
 ## 注释
 

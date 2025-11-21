@@ -6,25 +6,21 @@ titleSlug: ji-shi-liu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紙潔晴窗暖，粳新午飯香。
-- 嗜眠爲至樂，省事是奇方。
-- 孤蝶弄秋色，亂鴉啼夕陽。
-- 詩情隨處有，信筆自成章。
+- 有人叩戶皆吾友，得屋施床即我家。
+- 緩步東西行飯耳，元非看竹探梅花。
 
 ## 拼音
 
-- zhi3 jie2 qing2 chuang1 nuan3 ， jing1 xin1 wu3 fan4 xiang1 。
-- shi4 mian2 wei2 zhi4 le4 ， sheng3 shi4 shi4 qi2 fang1 。
-- gu1 die2 nong4 qiu1 se4 ， luan4 ya1 ti2 xi1 yang2 。
-- shi1 qing2 sui2 chu3 you3 ， xin4 bi3 zi4 cheng2 zhang1 。
+- you3 ren2 kou4 hu4 jie1 wu2 you3 ， de2 wu1 shi1 chuang2 ji2 wo3 jia1 。
+- huan3 bu4 dong1 xi1 xing2 fan4 er3 ， yuan2 fei1 kan4 zhu2 tan4 mei2 hua1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: chu-jiang-huai-gu-san-shou-yi
 author: 馬戴
 authorPinyin: ma3 dai4
 authorSlug: ma-dai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

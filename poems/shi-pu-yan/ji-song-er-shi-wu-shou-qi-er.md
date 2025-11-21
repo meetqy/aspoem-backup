@@ -1,26 +1,30 @@
 ---
 id: shi-pu-yan-ji-song-er-shi-wu-shou-qi-er
-title: 偈頌二十五首  其二
-titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 er4
+title: 偈頌二十五首  其二○
+titlePinyin: ji4 song4 er4 shi2 wu3 shou3     qi2 er4 ○
 titleSlug: ji-song-er-shi-wu-shou-qi-er
 author: 釋普巖
 authorPinyin: shi4 pu3 yan2
 authorSlug: shi-pu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 出現楊州，坐斷壽丘。
-- 脚跟不點地，贏得一身愁，不是冤家不聚頭。
+- 顯慈鼻祖，諾庵法兄。
+- 機如電掣，辯似河傾。
+- 無心相撞著，分外得人憎。
+- 彼此不堪爲種草，先師之道轉竛竮。
 
 ## 拼音
 
-- chu1 xian4 yang2 zhou1 ， zuo4 duan4 shou4 qiu1 。
-- jiao3 gen1 bu4 dian3 di4 ， ying2 de2 yi4 shen1 chou2 ， bu2 shi4 yuan1 jia0 bu2 ju4 tou2 。
+- xian3 ci2 bi2 zu3 ， nuo4 an1 fa3 xiong1 。
+- ji1 ru2 dian4 che4 ， bian4 si4 he2 qing1 。
+- wu2 xin1 xiang1 zhuang4 zhu4 ， fen4 wai4 de2 ren2 zeng1 。
+- bi3 ci3 bu4 kan1 wei2 zhong3 cao3 ， xian1 shi1 zhi1 dao4 zhuan3 ling2 ping2 。
 
 ## 注释
 

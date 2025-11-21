@@ -6,25 +6,25 @@ titleSlug: ji-zhang-liu
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 十里一反顧，去君垂五千。
-- 遠身卑濕地，歸意泬寥天。
-- 南極多來雁，秋陰減跕鳶。
-- 寄書江漢水，好送北歸船。
+- 君爲棄官去，豪氣故風流。
+- 無復池中物，真能方外遊。
+- 浮生都物變，衰俗使人愁。
+- 聞有桃源路，歸來試力求。
 
 ## 拼音
 
-- shi2 li3 yi4 fan3 gu4 ， qu4 jun1 chui2 wu3 qian1 。
-- yuan3 shen1 bei1 shi1 di4 ， gui1 yi4 jue2 liao2 tian1 。
-- nan2 ji2 duo1 lai2 yan4 ， qiu1 yin1 jian3 dian3 yuan1 。
-- ji4 shu1 jiang1 han4 shui3 ， hao3 song4 bei3 gui1 chuan2 。
+- jun1 wei2 qi4 guan1 qu4 ， hao2 qi4 gu4 feng1 liu2 。
+- wu2 fu4 chi2 zhong1 wu4 ， zhen1 neng2 fang1 wai4 you2 。
+- fu2 sheng1 dou1 wu4 bian4 ， shuai1 su2 shi3 ren2 chou2 。
+- wen2 you3 tao2 yuan2 lu4 ， gui1 lai2 shi4 li4 qiu2 。
 
 ## 注释
 

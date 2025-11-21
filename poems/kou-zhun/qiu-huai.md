@@ -6,25 +6,21 @@ titleSlug: qiu-huai
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落日留不住，默然空淚零。
-- 敗莎侵陋巷，疏葉滿閑庭。
-- 有趣窮風雅，無機敵杳冥。
-- 浮榮安足戀，歸去亂山青。
+- 輕雲不動日微陰，高樹無風秋色深。
+- 獨聽暮蟬臨水坐，十年林壑阻歸心。
 
 ## 拼音
 
-- luo4 ri4 liu2 bu2 zhu4 ， mo4 ran2 kong1 lei4 ling2 。
-- bai4 sha1 qin1 lou4 xiang4 ， shu1 ye4 man3 xian2 ting2 。
-- you3 qu4 qiong2 feng1 ya3 ， wu2 ji1 di2 yao3 ming2 。
-- fu2 rong2 an1 zu2 lian4 ， gui1 qu4 luan4 shan1 qing1 。
+- qing1 yun2 bu2 dong4 ri4 wei1 yin1 ， gao1 shu4 wu2 feng1 qiu1 se4 shen1 。
+- du2 ting1 mu4 chan2 lin2 shui3 zuo4 ， shi2 nian2 lin2 he4 zu3 gui1 xin1 。
 
 ## 注释
 

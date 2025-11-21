@@ -6,10 +6,10 @@ titleSlug: jing-zhao-hu-fang-gan-jiu-ju
 author: 吳遵路
 authorPinyin: wu2 zun1 lu4
 authorSlug: wu-zun-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

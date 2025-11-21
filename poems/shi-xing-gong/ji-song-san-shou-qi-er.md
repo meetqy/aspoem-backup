@@ -6,10 +6,10 @@ titleSlug: ji-song-san-shou-qi-er
 author: 釋行鞏
 authorPinyin: shi4 xing2 gong3
 authorSlug: shi-xing-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: ci-yun
 author: 廉布
 authorPinyin: lian2 bu4
 authorSlug: lian-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 避地來何所，窮山滄海邊。
-- 雄圖今寂寞，吾道昔迍邅。
-- 宴食甘粗飯，偷生忍擊鮮。
-- 鄉閭重回首，揮淚入淮天。
+- 當年對元夕，載酒向淮灣。
+- 寶瑟榮珠袖，青藜照玉山。
+- 蠻村當此夜，璧月獨臨關。
+- 尚憶追遊勝，蕭蕭雙鬢斑。
 
 ## 拼音
 
-- bi4 di4 lai2 he2 suo3 ， qiong2 shan1 cang1 hai3 bian1 。
-- xiong2 tu2 jin1 ji4 mo4 ， wu2 dao4 xi1 zhun1 zhan1 。
-- yan4 shi2 gan1 cu1 fan4 ， tou1 sheng1 ren3 ji1 xian1 。
-- xiang1 lü2 zhong4 hui2 shou3 ， hui1 lei4 ru4 huai2 tian1 。
+- dang1 nian2 dui4 yuan2 xi1 ， zai4 jiu3 xiang4 huai2 wan1 。
+- bao3 se4 rong2 zhu1 xiu4 ， qing1 li2 zhao4 yu4 shan1 。
+- man2 cun1 dang1 ci3 ye4 ， bi4 yue4 du2 lin2 guan1 。
+- shang4 yi4 zhui1 you2 sheng4 ， xiao1 xiao1 shuang1 bin4 ban1 。
 
 ## 注释
 

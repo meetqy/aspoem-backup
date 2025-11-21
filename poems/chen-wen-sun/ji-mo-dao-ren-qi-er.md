@@ -6,10 +6,10 @@ titleSlug: ji-mo-dao-ren-qi-er
 author: 陳文孫
 authorPinyin: chen2 wen2 sun1
 authorSlug: chen-wen-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

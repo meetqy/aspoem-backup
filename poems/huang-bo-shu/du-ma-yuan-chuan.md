@@ -6,10 +6,10 @@ titleSlug: du-ma-yuan-chuan
 author: 黄伯樞
 authorPinyin: huang2 bo2 shu1
 authorSlug: huang-bo-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

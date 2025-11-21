@@ -9,7 +9,7 @@ authorSlug: wu-yue-wang-qian-liu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

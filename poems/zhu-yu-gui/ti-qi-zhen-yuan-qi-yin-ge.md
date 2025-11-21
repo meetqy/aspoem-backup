@@ -6,10 +6,10 @@ titleSlug: ti-qi-zhen-yuan-qi-yin-ge
 author: 祝禹圭
 authorPinyin: zhu4 yu3 gui1
 authorSlug: zhu-yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

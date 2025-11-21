@@ -6,21 +6,21 @@ titleSlug: song-ren
 author: 釋堅璧
 authorPinyin: shi4 jian1 bi4
 authorSlug: shi-jian-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千尋老幹無寒暑，百鍊精金有變遷。
-- 脫盡皮毛空索索，不妨重結弟兄緣。
+- 六窗不著閒光景，七處休尋古佛心。
+- 放下不行凡聖路，敢將黄葉當黄金。
 
 ## 拼音
 
-- qian1 xun2 lao3 gan4 wu2 han2 shu3 ， bai3 lian4 jing1 jin1 you3 bian4 qian1 。
-- tuo1 jin4 pi2 mao2 kong1 suo3 suo3 ， bu4 fang2 zhong4 jie2 di4 xiong0 yuan2 。
+- liu4 chuang1 bu2 zhu4 xian2 guang1 jing3 ， qi1 chu3 xiu1 xun2 gu3 fo2 xin1 。
+- fang4 xia4 bu4 xing2 fan2 sheng4 lu4 ， gan3 jiang1 huang2 ye4 dang1 huang2 jin1 。
 
 ## 注释
 

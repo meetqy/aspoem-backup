@@ -6,21 +6,25 @@ titleSlug: chu-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 守歲全家夜不眠，杯盤狼藉向燈前。
-- 相看更覺光陰速，笑語逡巡即隔年。
+- 野水楓林屋數椽，寒爐無火坐無氈。
+- 殘燈耿耿愁孤影，小雪霏霏送舊年。
+- 椒酒辟瘟傾瀲灧，藍袍俘鬼舞跰躚。
+- 從今供養惟春薺，莫羨愚公日萬錢。
 
 ## 拼音
 
-- shou3 sui4 quan2 jia1 ye4 bu4 mian2 ， bei1 pan2 lang2 ji2 xiang4 deng1 qian2 。
-- xiang1 kan4 geng4 jue2 guang1 yin1 su4 ， xiao4 yu3 qun1 xun2 ji2 ge2 nian2 。
+- ye3 shui3 feng1 lin2 wu1 shu4 chuan2 ， han2 lu2 wu2 huo3 zuo4 wu2 zhan1 。
+- can2 deng1 geng3 geng3 chou2 gu1 ying3 ， xiao3 xue3 fei1 fei1 song4 jiu4 nian2 。
+- jiao1 jiu3 pi4 wen1 qing1 lian4 yan4 ， lan2 pao2 fu2 gui3 wu3 beng4 xian1 。
+- cong2 jin1 gong4 yang3 wei2 chun1 ji4 ， mo4 xian4 yu2 gong1 ri4 wan4 qian2 。
 
 ## 注释
 

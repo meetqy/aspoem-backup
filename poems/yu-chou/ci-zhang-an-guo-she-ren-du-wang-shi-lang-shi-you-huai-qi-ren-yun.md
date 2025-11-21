@@ -6,10 +6,10 @@ titleSlug: ci-zhang-an-guo-she-ren-du-wang-shi-lang-shi-you-huai-qi-ren-yun
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

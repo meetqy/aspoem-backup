@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu-qi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 台山邑萬戶，戶以酒爲天。
-- 不憚甑生塵，所願酒如泉。
-- 多疾自麴糵，致夭非天年。
-- 因思禁酒法，積粟民沛然。
+- 葉落復葉落，衝飈黯寥廓。
+- 重疊響瑟縮，翩翻下紛泊。
+- 倦客行脩塗，幽人倚高閣。
+- 歸來故山休，冰霜欲蕭索。
 
 ## 拼音
 
-- tai2 shan1 yi4 wan4 hu4 ， hu4 yi3 jiu3 wei2 tian1 。
-- bu2 dan4 zeng4 sheng1 chen2 ， suo3 yuan4 jiu3 ru2 quan2 。
-- duo1 ji2 zi4 qu1 nie4 ， zhi4 yao1 fei1 tian1 nian2 。
-- yin1 si1 jin4 jiu3 fa3 ， ji1 su4 min2 pei4 ran2 。
+- ye4 luo4 fu4 ye4 luo4 ， chong1 biao1 an4 liao2 kuo4 。
+- zhong4 die2 xiang3 se4 suo1 ， pian1 fan1 xia4 fen1 bo2 。
+- juan4 ke4 xing2 xiu1 tu2 ， you1 ren2 yi3 gao1 ge2 。
+- gui1 lai2 gu4 shan1 xiu1 ， bing1 shuang1 yu4 xiao1 suo3 。
 
 ## 注释
 

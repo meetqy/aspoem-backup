@@ -6,10 +6,10 @@ titleSlug: ju-qi-qi
 author: 張潞
 authorPinyin: zhang1 lu4
 authorSlug: zhang-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

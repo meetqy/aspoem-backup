@@ -6,10 +6,10 @@ titleSlug: cheng-dong-lin-dao-yan-shan-shi-song
 author: 釋彥充
 authorPinyin: shi4 yan4 chong1
 authorSlug: shi-yan-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

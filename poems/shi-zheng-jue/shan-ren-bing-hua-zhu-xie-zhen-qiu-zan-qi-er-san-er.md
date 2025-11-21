@@ -6,9 +6,9 @@ titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-er-san-er
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

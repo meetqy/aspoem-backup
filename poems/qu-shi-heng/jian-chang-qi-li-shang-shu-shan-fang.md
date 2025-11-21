@@ -6,10 +6,10 @@ titleSlug: jian-chang-qi-li-shang-shu-shan-fang
 author: 區仕衡
 authorPinyin: qu1 shi4 heng2
 authorSlug: qu-shi-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

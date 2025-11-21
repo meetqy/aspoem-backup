@@ -1,6 +1,6 @@
 ---
 id: du-fu-zeng-li-bai
-title: 贈李白
+title: 赠李白
 titlePinyin: zeng4 li3 bai2
 titleSlug: zeng-li-bai
 author: 杜甫
@@ -9,26 +9,18 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 二年客東都，所歷厭機巧。
-- 野人對羶腥，蔬食常不飽。
-- 豈無青精飯，使我顏色好。
-- 苦乏大藥資，山林迹如掃。
-- 李侯金閨彥，脫身事幽討。
-- 亦有梁宋遊，方期拾瑤草。
+- 秋來相顧尚飄蓬，未就丹砂媿葛洪。
+- 痛飲狂歌空度日，飛揚跋扈爲誰雄。
 
 ## 拼音
 
-- er4 nian2 ke4 dong1 dou1 ， suo3 li4 yan4 ji1 qiao3 。
-- ye3 ren2 dui4 shan1 xing1 ， shu1 shi2 chang2 bu4 bao3 。
-- qi3 wu2 qing1 jing1 fan4 ， shi3 wo3 yan2 se4 hao3 。
-- ku3 fa2 da4 yao4 zi1 ， shan1 lin2 ji4 ru2 sao3 。
-- li3 hou2 jin1 gui1 yan4 ， tuo1 shen1 shi4 you1 tao3 。
-- yi4 you3 liang2 song4 you2 ， fang1 qi1 shi2 yao2 cao3 。
+- qiu1 lai2 xiang1 gu4 shang4 piao1 peng2 ， wei4 jiu4 dan1 sha1 kui4 ge3 hong2 。
+- tong4 yin3 kuang2 ge1 kong1 du4 ri4 ， fei1 yang2 ba2 hu4 wei2 shui2 xiong2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-chun
 author: 曹文姬
 authorPinyin: cao2 wen2 ji1
 authorSlug: cao-wen-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

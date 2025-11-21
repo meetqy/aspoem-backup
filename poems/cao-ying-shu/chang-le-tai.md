@@ -6,10 +6,10 @@ titleSlug: chang-le-tai
 author: 曹穎叔
 authorPinyin: cao2 ying3 shu1
 authorSlug: cao-ying-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

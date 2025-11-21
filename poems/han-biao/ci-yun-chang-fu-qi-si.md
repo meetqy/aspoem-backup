@@ -6,25 +6,25 @@ titleSlug: ci-yun-chang-fu-qi-si
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 別後忽逢雪，歲寒殊惘然。
-- 自憐疎酒盞，誰識寄詩編。
-- 老矣思離闊，遐哉漫屬聯。
-- 金仙玉田路，來往記今年。
+- 秋來風葉已紛披，景到懷人意可知。
+- 時泰果能同道泰，行危何必更身危。
+- 獨憐水後渾休說，相與山間是寄詩。
+- 空眄庭柯又如許，彼陶終是得顔怡。
 
 ## 拼音
 
-- bie2 hou4 hu1 feng2 xue3 ， sui4 han2 shu1 wang3 ran2 。
-- zi4 lian2 shu1 jiu3 zhan3 ， shui2 shi2 ji4 shi1 bian1 。
-- lao3 yi3 si1 li2 kuo4 ， xia2 zai1 man4 shu3 lian2 。
-- jin1 xian1 yu4 tian2 lu4 ， lai2 wang3 ji4 jin1 nian2 。
+- qiu1 lai2 feng1 ye4 yi3 fen1 pi1 ， jing3 dao4 huai2 ren2 yi4 ke3 zhi1 。
+- shi2 tai4 guo3 neng2 tong2 dao4 tai4 ， xing2 wei1 he2 bi4 geng4 shen1 wei1 。
+- du2 lian2 shui3 hou4 hun2 xiu1 shuo1 ， xiang1 yu3 shan1 jian4 shi4 ji4 shi1 。
+- kong1 mian3 ting2 ke1 you4 ru2 xu1 ， bi3 tao2 zhong1 shi4 de2 yan2 yi2 。
 
 ## 注释
 

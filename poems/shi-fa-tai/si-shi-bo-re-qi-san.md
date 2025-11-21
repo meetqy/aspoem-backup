@@ -6,10 +6,10 @@ titleSlug: si-shi-bo-re-qi-san
 author: 釋法泰
 authorPinyin: shi4 fa3 tai4
 authorSlug: shi-fa-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

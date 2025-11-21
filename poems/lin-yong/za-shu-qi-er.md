@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-er
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 書生鑽故紙裏，衲子轉法華時。
-- 易有九事未解，禪無一句可疑。
+- 棄稿謾浮瓢裏去，愛詩曾入藏中來。
+- 護持不信無神物，磨滅應難入劫灰。
 
 ## 拼音
 
-- shu1 sheng1 zuan1 gu4 zhi3 li3 ， na4 zi0 zhuan3 fa3 hua2 shi2 。
-- yi4 you3 jiu3 shi4 wei4 jie3 ， shan4 wu2 yi2 ju4 ke3 yi2 。
+- qi4 gao3 man2 fu2 piao2 li3 qu4 ， ai4 shi1 ceng2 ru4 cang2 zhong1 lai2 。
+- hu4 chi2 bu2 xin4 wu2 shen2 wu4 ， mo2 mie4 ying1 nan2 ru4 jie2 hui1 。
 
 ## 注释
 

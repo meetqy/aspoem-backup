@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳伯震
 authorPinyin: chen2 bo2 zhen4
 authorSlug: chen-bo-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: shou-fan-cao-qi-si
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鷹鸇好彈擊，自謂居使之。
-- 鳳凰不鷙搏，羣狡亦莫欺。
-- 但使德意多，何用風采爲。
-- 西臺十六州，人自春熙熙。
+- 福星一點夜堂深，藻泮花泉共照臨。
+- 歌詠春風曾點瑟，體當生意宓君琴。
+- 喬松已作參天色，寸草猶持報主心。
+- 但翼斯文扶壽脈，年年一穗爇犀沉。
 
 ## 拼音
 
-- ying1 zhan1 hao3 dan4 ji1 ， zi4 wei4 ju1 shi3 zhi1 。
-- feng4 huang2 bu2 zhi4 bo2 ， qun2 jiao3 yi4 mo4 qi1 。
-- dan4 shi3 de2 yi4 duo1 ， he2 yong4 feng1 cai3 wei2 。
-- xi1 tai2 shi2 liu4 zhou1 ， ren2 zi4 chun1 xi1 xi1 。
+- fu2 xing1 yi4 dian3 ye4 tang2 shen1 ， zao3 pan4 hua1 quan2 gong4 zhao4 lin2 。
+- ge1 yong3 chun1 feng1 ceng2 dian3 se4 ， ti3 dang1 sheng1 yi4 mi4 jun1 qin2 。
+- qiao2 song1 yi3 zuo4 can1 tian1 se4 ， cun4 cao3 you2 chi2 bao4 zhu3 xin1 。
+- dan4 yi4 si1 wen2 fu2 shou4 mai4 ， nian2 nian2 yi2 sui4 ruo4 xi1 chen2 。
 
 ## 注释
 

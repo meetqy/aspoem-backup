@@ -6,10 +6,10 @@ titleSlug: shi-yue-shi-qi-ri-da-feng-yue-ke-deng-hu-du-ting-guan-lang-ren-yan-ji
 author: 周紫芝
 authorPinyin: zhou1 zi3 zhi1
 authorSlug: zhou-zi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

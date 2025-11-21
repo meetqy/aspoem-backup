@@ -6,25 +6,25 @@ titleSlug: gong-zi
 author: 文彥博
 authorPinyin: wen2 yan4 bo2
 authorSlug: wen-yan-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 甲第峨峨爵觀前，對回微岸鵕鸃冠。
-- 錦韉飛鞚丹砂埒，蜜炬流膏紫玉槃。
-- 狐尾單衣常裛麝，虎頭雙綬鎮薰蘭。
-- 閑馳便面章臺陌，里巷兒童逐彈丸。
+- 朝罷章台陌，追隨紫燕光。
+- 鴈陂冠綠幘，洛浦授明璫。
+- 下士營三窟，名姬號四香。
+- 十千沽斗酒，結客少年場。
 
 ## 拼音
 
-- jia3 di4 e2 e2 jue2 guan1 qian2 ， dui4 hui2 wei1 an4 jun4 yi4 guan1 。
-- jin3 jian1 fei1 kong4 dan1 sha1 lie4 ， mi4 ju4 liu2 gao1 zi3 yu4 pan2 。
-- hu2 wei3 dan1 yi1 chang2 yi4 she4 ， hu3 tou2 shuang1 shou4 zhen4 xun1 lan2 。
-- xian2 chi2 bian4 mian4 zhang1 tai2 mo4 ， li3 xiang4 er2 tong2 zhu2 dan4 wan2 。
+- chao2 ba4 zhang1 tai2 mo4 ， zhui1 sui2 zi3 yan4 guang1 。
+- yan4 bei1 guan1 lü4 ze2 ， luo4 pu3 shou4 ming2 dang1 。
+- xia4 shi4 ying2 san1 ku1 ， ming2 ji1 hao4 si4 xiang1 。
+- shi2 qian1 gu1 dou4 jiu3 ， jie2 ke4 shao4 nian2 chang3 。
 
 ## 注释
 

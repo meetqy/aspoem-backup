@@ -6,10 +6,10 @@ titleSlug: fu-le-shan-qi-yi
 author: 雍有容
 authorPinyin: yong1 you3 rong2
 authorSlug: yong-you-rong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

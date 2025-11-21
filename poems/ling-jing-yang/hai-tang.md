@@ -6,10 +6,10 @@ titleSlug: hai-tang
 author: 凌景陽
 authorPinyin: ling2 jing3 yang2
 authorSlug: ling-jing-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: ou-shu-er-shou-qi-yi
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閉門只欲渾無事，門外何嘗有事來。
-- 生計不須憂水旱，仕途休更問梯媒。
-- 身安種種皆三樂，客到時時共一杯。
-- 此外華巖是歸處，眼前樓閣竟誰開。
+- 元宵燈火鬧遊人，偶向忙中得此身。
+- 浄几明窗塵不到，弄黄先見一枝春。
 
 ## 拼音
 
-- bi4 men2 zhi1 yu4 hun2 wu2 shi4 ， men2 wai4 he2 chang2 you3 shi4 lai2 。
-- sheng1 ji4 bu4 xu1 you1 shui3 han4 ， shi4 tu2 xiu1 geng4 wen4 ti1 mei2 。
-- shen1 an1 zhong3 zhong3 jie1 san1 le4 ， ke4 dao4 shi2 shi2 gong4 yi4 bei1 。
-- ci3 wai4 hua2 yan2 shi4 gui1 chu3 ， yan3 qian2 lou2 ge2 jing4 shui2 kai1 。
+- yuan2 xiao1 deng1 huo3 nao4 you2 ren2 ， ou3 xiang4 mang2 zhong1 de2 ci3 shen1 。
+- jing4 ji3 ming2 chuang1 chen2 bu2 dao4 ， nong4 huang2 xian1 jian4 yi4 zhi1 chun1 。
 
 ## 注释
 

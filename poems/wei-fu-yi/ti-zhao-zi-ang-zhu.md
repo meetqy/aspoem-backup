@@ -6,10 +6,10 @@ titleSlug: ti-zhao-zi-ang-zhu
 author: 衛富益
 authorPinyin: wei4 fu4 yi4
 authorSlug: wei-fu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

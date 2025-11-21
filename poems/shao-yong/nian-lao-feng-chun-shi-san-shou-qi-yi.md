@@ -1,30 +1,30 @@
 ---
 id: shao-yong-nian-lao-feng-chun-shi-san-shou-qi-yi
-title: 年老逢春十三首  其一
-titlePinyin: nian2 lao3 feng2 chun1 shi2 san1 shou3     qi2 yi1
+title: 年老逢春十三首  其一○
+titlePinyin: nian2 lao3 feng2 chun1 shi2 san1 shou3     qi2 yi1 ○
 titleSlug: nian-lao-feng-chun-shi-san-shou-qi-yi
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 年老逢春春莫猜，老年方自少年迴。
-- 人情少悅酒不解，天氣却寒花未開。
-- 堤外有風斜送柳，牆陰經雨半生苔。
-- 去年波水東流去，舊淥柰何新又來。
+- 年老逢春興未收，願春慈造少遲留。
+- 既稱好事愁花老，須與多情秉燭遊。
+- 酒裏功勞閑汗馬，詩中罪過靜風流。
+- 東君不柰人嘲戲，僝僽花枝惡未休。
 
 ## 拼音
 
-- nian2 lao3 feng2 chun1 chun1 mo4 cai1 ， lao3 nian2 fang1 zi4 shao4 nian2 hui2 。
-- ren2 qing2 shao3 yue4 jiu3 bu4 jie3 ， tian1 qi4 que4 han2 hua1 wei4 kai1 。
-- di1 wai4 you3 feng1 xie2 song4 liu3 ， qiang2 yin1 jing1 yu3 ban4 sheng1 tai2 。
-- qu4 nian2 bo1 shui3 dong1 liu2 qu4 ， jiu4 lu4 nai4 he2 xin1 you4 lai2 。
+- nian2 lao3 feng2 chun1 xing1 wei4 shou1 ， yuan4 chun1 ci2 zao4 shao3 chi2 liu2 。
+- ji4 cheng1 hao3 shi4 chou2 hua1 lao3 ， xu1 yu3 duo1 qing2 bing3 zhu2 you2 。
+- jiu3 li3 gong1 lao2 xian2 han4 ma3 ， shi1 zhong1 zui4 guo4 jing4 feng1 liu2 。
+- dong1 jun1 bu2 nai4 ren2 chao2 xi4 ， chan2 zhou4 hua1 zhi1 e4 wei4 xiu1 。
 
 ## 注释
 

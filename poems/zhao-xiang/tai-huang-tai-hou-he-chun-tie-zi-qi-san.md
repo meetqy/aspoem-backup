@@ -6,21 +6,21 @@ titleSlug: tai-huang-tai-hou-he-chun-tie-zi-qi-san
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 視膳回天仗，含飴樂聖辰。
-- 定應彤管筆，書美繫王春。
+- 殘冰未放溝聲滑，小雨頻催柳色新。
+- 晝漏漸長無一字，坐披黄老味天真。
 
 ## 拼音
 
-- shi4 shan4 hui2 tian1 zhang4 ， han2 yi2 le4 sheng4 chen2 。
-- ding4 ying1 tong2 guan3 bi3 ， shu1 mei3 xi4 wang2 chun1 。
+- can2 bing1 wei4 fang4 gou1 sheng1 hua2 ， xiao3 yu3 bin1 cui1 liu3 se4 xin1 。
+- zhou4 lou4 jian4 chang2 wu2 yi2 zi4 ， zuo4 pi1 huang2 lao3 wei4 tian1 zhen1 。
 
 ## 注释
 

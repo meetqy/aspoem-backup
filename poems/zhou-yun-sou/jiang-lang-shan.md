@@ -6,10 +6,10 @@ titleSlug: jiang-lang-shan
 author: 周雲叟
 authorPinyin: zhou1 yun2 sou3
 authorSlug: zhou-yun-sou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-yuan-xing-si
 author: 馬南寶
 authorPinyin: ma3 nan2 bao3
 authorSlug: ma-nan-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

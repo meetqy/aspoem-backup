@@ -6,10 +6,10 @@ titleSlug: yang-qiu-ren-lu-jiao-you-he-dao-shan-zhi-ming-ri-yu-shi-zi-dong-ting-
 author: 牟巘
 authorPinyin: mu4 yan3
 authorSlug: mu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

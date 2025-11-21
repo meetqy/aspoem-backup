@@ -6,10 +6,10 @@ titleSlug: wan-feng-an
 author: 黄登
 authorPinyin: huang2 deng1
 authorSlug: huang-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

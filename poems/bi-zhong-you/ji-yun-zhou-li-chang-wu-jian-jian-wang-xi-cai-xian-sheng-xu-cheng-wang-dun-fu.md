@@ -6,10 +6,10 @@ titleSlug: ji-yun-zhou-li-chang-wu-jian-jian-wang-xi-cai-xian-sheng-xu-cheng-wan
 author: 畢仲游
 authorPinyin: bi4 zhong4 you2
 authorSlug: bi-zhong-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

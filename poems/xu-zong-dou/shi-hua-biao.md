@@ -6,10 +6,10 @@ titleSlug: shi-hua-biao
 author: 徐宗斗
 authorPinyin: xu2 zong1 dou4
 authorSlug: xu-zong-dou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

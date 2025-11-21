@@ -6,21 +6,25 @@ titleSlug: suo-huai
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 英英香蕙瑩朝華，收拾東風作一家。
-- 燕語鶑啼春又夏，燈花剔盡暗窗斜。
+- 萬里青山兩鬢華，老臣無國又無家。
+- 乾坤局促籠中鳥，風雪飄零糞上花。
+- 歲晚江空人已逝，天寒日短路何賒。
+- 書生不作綱常計，聞是東門已種瓜。
 
 ## 拼音
 
-- ying1 ying1 xiang1 hui4 ying2 chao2 hua2 ， shou1 shi0 dong1 feng1 zuo4 yi4 jia1 。
-- yan4 yu3 ying1 ti2 chun1 you4 xia4 ， deng1 hua1 ti1 jin4 an4 chuang1 xie2 。
+- wan4 li3 qing1 shan1 liang3 bin4 hua2 ， lao3 chen2 wu2 guo2 you4 wu2 jia1 。
+- qian2 kun1 ju2 cu4 long2 zhong1 niao3 ， feng1 xue3 piao1 ling2 fen4 shang4 hua1 。
+- sui4 wan3 jiang1 kong1 ren2 yi3 shi4 ， tian1 han2 ri4 duan3 lu4 he2 she1 。
+- shu1 sheng1 bu2 zuo4 gang1 chang2 ji4 ， wen2 shi4 dong1 men2 yi3 zhong3 gua1 。
 
 ## 注释
 

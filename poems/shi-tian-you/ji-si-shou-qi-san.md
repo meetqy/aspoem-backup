@@ -6,10 +6,10 @@ titleSlug: ji-si-shou-qi-san
 author: 釋天游
 authorPinyin: shi4 tian1 you2
 authorSlug: shi-tian-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: li-can-zheng-sheng-ri-qi-liu
 author: 魏了翁
 authorPinyin: wei4 le0 weng1
 authorSlug: wei-le-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 絕嗤梁夢誤金甌，又嘆祁征困木牛。
-- 只藉人才作元氣，聞公安健百無憂。
+- 分付諸兒自致身，朝陽閣上看長春。
+- 梅邊認得真消息，往古來今一屈伸。
 
 ## 拼音
 
-- jue2 chi1 liang2 meng4 wu4 jin1 ou1 ， you4 tan4 qi2 zheng1 kun4 mu4 niu2 。
-- zhi1 jie4 ren2 cai2 zuo4 yuan2 qi4 ， wen2 gong1 an1 jian4 bai3 wu2 you1 。
+- fen1 fu4 zhu1 er2 zi4 zhi4 shen1 ， chao2 yang2 ge2 shang4 kan4 chang2 chun1 。
+- mei2 bian1 ren4 de2 zhen1 xiao1 xi0 ， wang3 gu3 lai2 jin1 yi4 qu1 shen1 。
 
 ## 注释
 

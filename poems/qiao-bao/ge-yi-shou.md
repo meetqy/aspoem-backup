@@ -6,10 +6,10 @@ titleSlug: ge-yi-shou
 author: 譙寶
 authorPinyin: qiao2 bao3
 authorSlug: qiao-bao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

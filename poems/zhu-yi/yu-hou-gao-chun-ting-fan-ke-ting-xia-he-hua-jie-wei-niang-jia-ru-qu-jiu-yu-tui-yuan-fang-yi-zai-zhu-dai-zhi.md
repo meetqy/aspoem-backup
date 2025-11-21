@@ -6,9 +6,9 @@ titleSlug: yu-hou-gao-chun-ting-fan-ke-ting-xia-he-hua-jie-wei-niang-jia-ru-qu-j
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

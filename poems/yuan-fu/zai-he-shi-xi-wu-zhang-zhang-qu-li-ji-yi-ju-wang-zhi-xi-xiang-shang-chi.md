@@ -6,10 +6,10 @@ titleSlug: zai-he-shi-xi-wu-zhang-zhang-qu-li-ji-yi-ju-wang-zhi-xi-xiang-shang-c
 author: 袁甫
 authorPinyin: yuan2 fu3
 authorSlug: yuan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

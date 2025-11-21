@@ -6,25 +6,25 @@ titleSlug: xue
 author: 釋元肇
 authorPinyin: shi4 yuan2 zhao4
 authorSlug: shi-yuan-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風回急有聲，欲住更娉婷。
-- 頃刻增奇觀，依稀得細聽。
-- 空庭禽啄樹，吟屋凍生瓶。
-- 多是鄰僧愛，柴扉晚不扃。
+- 鬭舞爭飛住復飄，寒林開盡玉枝條。
+- 清緣煮茗開蓬戶，冷爲尋梅過野橋。
+- 髣髴村前出圖畫，依稀江上見漁樵。
+- 牆根屋角且寧耐，留與詩人款寂寥。
 
 ## 拼音
 
-- feng1 hui2 ji2 you3 sheng1 ， yu4 zhu4 geng4 ping1 ting2 。
-- qing3 ke4 zeng1 qi2 guan1 ， yi1 xi1 de2 xi4 ting1 。
-- kong1 ting2 qin2 zhuo2 shu4 ， yin2 wu1 dong4 sheng1 ping2 。
-- duo1 shi4 lin2 seng1 ai4 ， chai2 fei1 wan3 bu4 jiong1 。
+- dou4 wu3 zheng1 fei1 zhu4 fu4 piao1 ， han2 lin2 kai1 jin4 yu4 zhi1 tiao2 。
+- qing1 yuan2 zhu3 ming2 kai1 peng2 hu4 ， leng3 wei2 xun2 mei2 guo4 ye3 qiao2 。
+- fang3 fu2 cun1 qian2 chu1 tu2 hua4 ， yi1 xi1 jiang1 shang4 jian4 yu2 qiao2 。
+- qiang2 gen1 wu1 jiao3 qie3 ning2 nai4 ， liu2 yu3 shi1 ren2 kuan3 ji4 liao2 。
 
 ## 注释
 

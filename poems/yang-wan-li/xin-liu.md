@@ -6,21 +6,21 @@ titleSlug: xin-liu
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 輦路金絲半欲垂，外間玉爪未渠開。
-- 上林柳色休多憶，更趁春風看一回。
+- 柳條百尺拂銀塘，且莫深青只淺黄。
+- 未必柳條能蘸水，水中柳影引它長。
 
 ## 拼音
 
-- nian3 lu4 jin1 si1 ban4 yu4 chui2 ， wai4 jian4 yu4 zhua3 wei4 qu2 kai1 。
-- shang4 lin2 liu3 se4 xiu1 duo1 yi4 ， geng4 chen4 chun1 feng1 kan4 yi4 hui2 。
+- liu3 tiao2 bai3 chi3 fu2 yin2 tang2 ， qie3 mo4 shen1 qing1 zhi1 qian3 huang2 。
+- wei4 bi4 liu3 tiao2 neng2 zhan4 shui3 ， shui3 zhong1 liu3 ying3 yin3 ta1 chang2 。
 
 ## 注释
 

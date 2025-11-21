@@ -6,10 +6,10 @@ titleSlug: zhu-jing-bu-yue
 author: 饒良輔
 authorPinyin: rao2 liang2 fu3
 authorSlug: rao-liang-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

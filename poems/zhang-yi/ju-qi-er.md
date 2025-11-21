@@ -3,22 +3,22 @@ id: zhang-yi-ju-qi-er
 title: 句  其二
 titlePinyin: ju4     qi2 er4
 titleSlug: ju-qi-er
-author: 張鎰
+author: 張逸
 authorPinyin: zhang1 yi4
 authorSlug: zhang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老龍拏空欲輕舉，山靈地衹挽之住。
+- 遙看山水有雲處，便是人心無事鄉。
 
 ## 拼音
 
-- lao3 long2 na2 kong1 yu4 qing1 ju3 ， shan1 ling2 di4 zhi3 wan3 zhi1 zhu4 。
+- yao2 kan4 shan1 shui3 you3 yun2 chu3 ， bian4 shi4 ren2 xin1 wu2 shi4 xiang1 。
 
 ## 注释
 

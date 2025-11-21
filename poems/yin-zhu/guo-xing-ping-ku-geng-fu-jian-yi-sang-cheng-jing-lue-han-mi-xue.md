@@ -6,10 +6,10 @@ titleSlug: guo-xing-ping-ku-geng-fu-jian-yi-sang-cheng-jing-lue-han-mi-xue
 author: 尹洙
 authorPinyin: yin3 zhu1
 authorSlug: yin-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: dong-chi
 author: 趙丙
 authorPinyin: zhao4 bing3
 authorSlug: zhao-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

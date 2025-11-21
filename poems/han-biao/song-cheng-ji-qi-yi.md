@@ -6,25 +6,21 @@ titleSlug: song-cheng-ji-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 經月紅塵共小樓，西風吹夢遶湖流。
-- 文場兩地還趨走，客路他鄉有去留。
-- 壯日功名看輦路，老年心緒喜滄洲。
-- 北關門外一杯酒，潮水廟山灘上舟。
+- 纔見西來又見歸，子陵臺下水煙霏。
+- 停橈應爲一回首，笑殺京塵滿客衣。
 
 ## 拼音
 
-- jing1 yue4 hong2 chen2 gong4 xiao3 lou2 ， xi1 feng1 chui1 meng4 rao4 hu2 liu2 。
-- wen2 chang3 liang3 di4 huan2 qu1 zou3 ， ke4 lu4 ta1 xiang1 you3 qu4 liu2 。
-- zhuang4 ri4 gong1 ming2 kan4 nian3 lu4 ， lao3 nian2 xin1 xu4 xi3 cang1 zhou1 。
-- bei3 guan1 men2 wai4 yi4 bei1 jiu3 ， chao2 shui3 miao4 shan1 tan1 shang4 zhou1 。
+- cai2 jian4 xi1 lai2 you4 jian4 gui1 ， zi3 ling2 tai2 xia4 shui3 yan1 fei1 。
+- ting2 rao2 ying1 wei2 yi4 hui2 shou3 ， xiao4 sha1 jing1 chen2 man3 ke4 yi1 。
 
 ## 注释
 

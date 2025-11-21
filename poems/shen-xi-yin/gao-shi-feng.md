@@ -6,10 +6,10 @@ titleSlug: gao-shi-feng
 author: 沈希尹
 authorPinyin: shen3 xi1 yin3
 authorSlug: shen-xi-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

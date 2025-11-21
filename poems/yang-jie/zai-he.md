@@ -6,25 +6,25 @@ titleSlug: zai-he
 author: 楊傑
 authorPinyin: yang2 jie2
 authorSlug: yang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 詩將曾持造化權，何須功業勒燕然。
-- 生涯書外都無物，興味壺中别有天。
-- 君解扁舟帆五兩，我慚佳客履三千。
-- 吾皇貴老多優賜，好乞湖山不計年。
+- 君賦江山數十篇，人疑吟苦鬢皤然。
+- 洞庭有浪寒欺晝，太華無雲翠插天。
+- 鷙鳥懦飛徒累百，疲兵重戰必當千。
+- 席間莫訝賡酬速，詩債從来笑隔年。
 
 ## 拼音
 
-- shi1 jiang1 ceng2 chi2 zao4 hua4 quan2 ， he2 xu1 gong1 ye4 le4 yan4 ran2 。
-- sheng1 ya2 shu1 wai4 dou1 wu2 wu4 ， xing1 wei4 hu2 zhong1 bie2 you3 tian1 。
-- jun1 jie3 bian3 zhou1 fan1 wu3 liang3 ， wo3 can2 jia1 ke4 lü3 san1 qian1 。
-- wu2 huang2 gui4 lao3 duo1 you1 ci4 ， hao3 qi3 hu2 shan1 bu2 ji4 nian2 。
+- jun1 fu4 jiang1 shan1 shu4 shi2 pian1 ， ren2 yi2 yin2 ku3 bin4 po2 ran2 。
+- dong4 ting2 you3 lang4 han2 qi1 zhou4 ， tai4 hua2 wu2 yun2 cui4 cha1 tian1 。
+- zhi4 niao3 nuo4 fei1 tu2 lei4 bai3 ， pi2 bing1 zhong4 zhan4 bi4 dang1 qian1 。
+- xi2 jian4 mo4 ya4 geng1 chou2 su4 ， shi1 zhai4 cong2 lai2 xiao4 ge2 nian2 。
 
 ## 注释
 

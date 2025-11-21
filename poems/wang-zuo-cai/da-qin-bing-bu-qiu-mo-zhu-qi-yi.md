@@ -6,10 +6,10 @@ titleSlug: da-qin-bing-bu-qiu-mo-zhu-qi-yi
 author: 王佐才
 authorPinyin: wang2 zuo3 cai2
 authorSlug: wang-zuo-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,9 +6,9 @@ titleSlug: zhou-yin-qian-xue-zhong-guo-men-bu-wo-gu-sui-deng-xi-lou-zuo-shi-jian
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

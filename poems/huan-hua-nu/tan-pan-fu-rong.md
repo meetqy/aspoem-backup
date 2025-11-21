@@ -6,10 +6,10 @@ titleSlug: tan-pan-fu-rong
 author: 浣花女
 authorPinyin: huan4 hua1 nü3
 authorSlug: huan-hua-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

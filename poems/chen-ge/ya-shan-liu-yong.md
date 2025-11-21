@@ -6,10 +6,10 @@ titleSlug: ya-shan-liu-yong
 author: 陳格
 authorPinyin: chen2 ge2
 authorSlug: chen-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

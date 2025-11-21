@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 大晟重均律吕全，樂章諧協盡成編。
-- 宮中嬪御皆能按，欲顯儀刑內治先。
+- 池面冰開漾綠波，枝頭花朵蹙紅羅。
+- 東風信有芳菲意，應爲今年樂事多。
 
 ## 拼音
 
-- da4 sheng4 zhong4 jun1 lü4 lü3 quan2 ， le4 zhang1 xie2 xie2 jin4 cheng2 bian1 。
-- gong1 zhong1 pin2 yu4 jie1 neng2 an4 ， yu4 xian3 yi2 xing2 nei4 zhi4 xian1 。
+- chi2 mian4 bing1 kai1 yang4 lü4 bo1 ， zhi1 tou2 hua1 duo3 cu4 hong2 luo2 。
+- dong1 feng1 xin4 you3 fang1 fei1 yi4 ， ying1 wei2 jin1 nian2 le4 shi4 duo1 。
 
 ## 注释
 

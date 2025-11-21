@@ -6,10 +6,10 @@ titleSlug: zhui-he-peng-cheng-tai-wei-xia-yue-ji-ti-hu-shang-zhan-yuan-da-shi-fa
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

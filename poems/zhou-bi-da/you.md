@@ -6,25 +6,25 @@ titleSlug: you
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 絳闕嵯峨映五雲，華簪合遝會芳宸。
-- 盡收殘臘嚴凝氣，散作新年浩蕩春。
-- 盞斝頻宣恩意重，金絲徐韵樂聲純。
-- 欲知朝野歡娛處，聽取三呼萬歲人。
+- 九陛天高輦下琱，千官雲集履鳴潮。
+- 霜迎愛日融城濕，香带祥風合殿飄。
+- 周宴恩濃魚在藻，舜廷化洽鳳儀簫。
+- 清臺夜夜占南極，常有華星炳絳霄。
 
 ## 拼音
 
-- jiang4 que4 cuo2 e2 ying4 wu3 yun2 ， hua2 zan1 he2 ta4 hui4 fang1 chen2 。
-- jin4 shou1 can2 la4 yan2 ning2 qi4 ， san4 zuo4 xin1 nian2 hao4 dang4 chun1 。
-- zhan3 jia3 bin1 xuan1 en1 yi4 zhong4 ， jin1 si1 xu2 yun4 le4 sheng1 chun2 。
-- yu4 zhi1 chao2 ye3 huan1 yu2 chu3 ， ting1 qu3 san1 hu1 wan4 sui4 ren2 。
+- jiu3 bi4 tian1 gao1 nian3 xia4 diao1 ， qian1 guan1 yun2 ji2 lü3 ming2 chao2 。
+- shuang1 ying2 ai4 ri4 rong2 cheng2 shi1 ， xiang1 dai4 xiang2 feng1 he2 dian4 piao1 。
+- zhou1 yan4 en1 nong2 yu2 zai4 zao3 ， shun4 ting2 hua4 qia4 feng4 yi2 xiao1 。
+- qing1 tai2 ye4 ye4 zhan4 nan2 ji2 ， chang2 you3 hua2 xing1 bing3 jiang4 xiao1 。
 
 ## 注释
 

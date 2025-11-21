@@ -6,10 +6,10 @@ titleSlug: tao-yuan-xing
 author: 王景月
 authorPinyin: wang2 jing3 yue4
 authorSlug: wang-jing-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: zhu-qing-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自識來清瘦，尋常語論真。
-- 藥成休伏火，符驗不傳人。
-- 獨有年過鶴，曾無病到身。
-- 潛教問弟子，居處與誰鄰。
+- 獨住神仙境，門當瀑布開。
+- 地多臨水石，行不惹塵埃。
+- 風起松花散，琴鳴鶴翅回。
+- 還歸九天上，時有故人來。
 
 ## 拼音
 
-- zi4 shi2 lai2 qing1 shou4 ， xun2 chang2 yu3 lun4 zhen1 。
-- yao4 cheng2 xiu1 fu2 huo3 ， fu2 yan4 bu4 chuan2 ren2 。
-- du2 you3 nian2 guo4 he4 ， ceng2 wu2 bing4 dao4 shen1 。
-- qian2 jiao4 wen4 di4 zi3 ， ju1 chu3 yu3 shui2 lin2 。
+- du2 zhu4 shen2 xian1 jing4 ， men2 dang1 pu4 bu4 kai1 。
+- di4 duo1 lin2 shui3 shi2 ， xing2 bu4 re3 chen2 ai1 。
+- feng1 qi3 song1 hua1 san4 ， qin2 ming2 he4 chi4 hui2 。
+- huan2 gui1 jiu3 tian1 shang4 ， shi2 you3 gu4 ren2 lai2 。
 
 ## 注释
 

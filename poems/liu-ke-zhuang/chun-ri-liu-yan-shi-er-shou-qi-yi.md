@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-chun-ri-liu-yan-shi-er-shou-qi-yi
-title: 春日六言十二首  其一
-titlePinyin: chun1 ri4 liu4 yan2 shi2 er4 shou3     qi2 yi1
+title: 春日六言十二首  其一○
+titlePinyin: chun1 ri4 liu4 yan2 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: chun-ri-liu-yan-shi-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 䙰褷病鶴翅短，虺隤老馬力疲。
-- 不知大朝會事，且吟小家數詩。
+- 不肯肩隨諂子，幸留面見嚴君。
+- 晚駕笨車還里，歲將麥飯澆墳。
 
 ## 拼音
 
-- 䙰 shi1 bing4 he4 chi4 duan3 ， hui1 tui2 lao3 ma3 li4 pi2 。
-- bu4 zhi1 da4 chao2 hui4 shi4 ， qie3 yin2 xiao3 jia1 shu4 shi1 。
+- bu4 ken3 jian1 sui2 chan3 zi3 ， xing4 liu2 mian4 jian4 yan2 jun1 。
+- wan3 jia4 ben4 ju1 huan2 li3 ， sui4 jiang1 mai4 fan4 jiao1 fen2 。
 
 ## 注释
 

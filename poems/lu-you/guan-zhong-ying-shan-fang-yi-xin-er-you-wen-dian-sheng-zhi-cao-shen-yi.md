@@ -6,10 +6,10 @@ titleSlug: guan-zhong-ying-shan-fang-yi-xin-er-you-wen-dian-sheng-zhi-cao-shen-y
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: wan-qing
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 前山收苦霧，宿鳥有新聲。
-- 萬里南天客，三冬此日晴。
+- 繁香苦愛飄岐路，風雨何須送晚春。
+- 坐久綺霞明落照，屏雷亦解慰遊人。
 
 ## 拼音
 
-- qian2 shan1 shou1 ku3 wu4 ， su4 niao3 you3 xin1 sheng1 。
-- wan4 li3 nan2 tian1 ke4 ， san1 dong1 ci3 ri4 qing2 。
+- fan2 xiang1 ku3 ai4 piao1 qi2 lu4 ， feng1 yu3 he2 xu1 song4 wan3 chun1 。
+- zuo4 jiu3 qi3 xia2 ming2 luo4 zhao4 ， ping2 lei2 yi4 jie3 wei4 you2 ren2 。
 
 ## 注释
 

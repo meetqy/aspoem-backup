@@ -1,6 +1,6 @@
 ---
 id: wang-zun-sheng-xian-qiao
-title: 昇仙橋
+title: 升仙橋
 titlePinyin: sheng1 xian1 qiao2
 titleSlug: sheng-xian-qiao
 author: 汪遵
@@ -9,18 +9,18 @@ authorSlug: wang-zun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 題橋貴欲露先誠，此日人皆笑率情。
-- 應訝臨邛沽酒客，逢時還作漢公卿。
+- 漢朝卿相盡風雲，司馬題橋衆又聞。
+- 何事不如楊得意，解搜賢哲薦明君。
 
 ## 拼音
 
-- ti2 qiao2 gui4 yu4 lu4 xian1 cheng2 ， ci3 ri4 ren2 jie1 xiao4 lü4 qing2 。
-- ying1 ya4 lin2 qiong2 gu1 jiu3 ke4 ， feng2 shi2 huan2 zuo4 han4 gong1 qing1 。
+- han4 chao2 qing1 xiang1 jin4 feng1 yun2 ， si1 ma3 ti2 qiao2 zhong4 you4 wen2 。
+- he2 shi4 bu4 ru2 yang2 de2 yi4 ， jie3 sou1 xian2 zhe2 jian4 ming2 jun1 。
 
 ## 注释
 

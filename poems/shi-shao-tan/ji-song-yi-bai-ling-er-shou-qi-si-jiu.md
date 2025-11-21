@@ -6,25 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-si-jiu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 洞庭七十二峰，飛雪一千餘丈。
-- 晨昏說法琅琅，誰謂盧公已往。
-- 元不往，在這裏。
-- 優曇火裏開，嗅著無香氣。
+- 三十二相，八十種好。
+- 馬頷馿腮，彌天羅過。
+- 新法華，因甚刺腦入膠盆。
+- 過在你，殃及我。
 
 ## 拼音
 
-- dong4 ting2 qi1 shi2 er4 feng1 ， fei1 xue3 yi4 qian1 yu2 zhang4 。
-- chen2 hun1 shuo1 fa3 lang2 lang2 ， shui2 wei4 lu2 gong1 yi3 wang3 。
-- yuan2 bu4 wang3 ， zai4 zhe4 li3 。
-- you1 tan2 huo3 li3 kai1 ， xiu4 zhu4 wu2 xiang1 qi4 。
+- san1 shi2 er4 xiang1 ， ba1 shi2 zhong3 hao3 。
+- ma3 han4 lu2 sai1 ， mi2 tian1 luo2 guo4 。
+- xin1 fa3 hua2 ， yin1 shen4 ci4 nao3 ru4 jiao1 pen2 。
+- guo4 zai4 ni3 ， yang1 ji2 wo3 。
 
 ## 注释
 

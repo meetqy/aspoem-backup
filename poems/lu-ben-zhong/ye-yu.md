@@ -6,21 +6,25 @@ titleSlug: ye-yu
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夢短添惆悵，更深轉寂寥。
-- 如何今夜雨，只是滴芭蕉。
+- 吟魂不飲覺惺惺，那更宵眠得雨晴。
+- 遍地亂沾霜葉碎，隨風斜上紙窗明。
+- 暗欣石罅添泉脈，幾回簷牙認雪聲。
+- 明日梅邊曾有約，西郊泥濘未堪行。
 
 ## 拼音
 
-- meng4 duan3 tian1 chou2 chang4 ， geng4 shen1 zhuan3 ji4 liao2 。
-- ru2 he2 jin1 ye4 yu3 ， zhi3 shi4 di1 ba1 jiao1 。
+- yin2 hun2 bu4 yin3 jue2 xing1 xing1 ， na4 geng4 xiao1 mian2 de2 yu3 qing2 。
+- bian4 di4 luan4 zhan1 shuang1 ye4 sui4 ， sui2 feng1 xie2 shang4 zhi3 chuang1 ming2 。
+- an4 xin1 shi2 xia4 tian1 quan2 mai4 ， ji1 hui2 yan2 ya2 ren4 xue3 sheng1 。
+- ming2 ri4 mei2 bian1 ceng2 you3 yue1 ， xi1 jiao1 ni2 ning4 wei4 kan1 xing2 。
 
 ## 注释
 

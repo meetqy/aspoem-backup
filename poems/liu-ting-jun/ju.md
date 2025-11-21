@@ -6,10 +6,10 @@ titleSlug: ju
 author: 柳庭俊
 authorPinyin: liu3 ting2 jun4
 authorSlug: liu-ting-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

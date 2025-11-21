@@ -6,10 +6,10 @@ titleSlug: sheng-ye-guan-wen-zhi-ying-liu-ti-qi-yi
 author: 范公
 authorPinyin: fan4 gong1
 authorSlug: fan-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-hua-juan-wu-shou-qi-er
-title: 題畫卷五首・其二
-titlePinyin: ti2 hua4 juan4 wu3 shou3・qi2 er4
+title: 題畫卷五首  其二
+titlePinyin: ti2 hua4 juan4 wu3 shou3     qi2 er4
 titleSlug: ti-hua-juan-wu-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

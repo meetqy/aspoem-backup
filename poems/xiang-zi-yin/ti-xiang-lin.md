@@ -6,10 +6,10 @@ titleSlug: ti-xiang-lin
 author: 向子諲
 authorPinyin: xiang4 zi3 yin1
 authorSlug: xiang-zi-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

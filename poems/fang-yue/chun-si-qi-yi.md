@@ -6,21 +6,21 @@ titleSlug: chun-si-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 楊柳生寒莫上樓，夕陽芳草泥人愁。
-- 情知社近迎新燕，盡捲湘簾不下鈎。
+- 無何桃李又成蔭，水抱孤村岸岸深。
+- 逕草不鋤隨意綠，要觀天地發生心。
 
 ## 拼音
 
-- yang2 liu3 sheng1 han2 mo4 shang4 lou2 ， xi1 yang2 fang1 cao3 ni2 ren2 chou2 。
-- qing2 zhi1 she4 jin4 ying2 xin1 yan4 ， jin4 juan3 xiang1 lian2 bu2 xia4 gou1 。
+- wu2 he2 tao2 li3 you4 cheng2 yin1 ， shui3 bao4 gu1 cun1 an4 an4 shen1 。
+- jing4 cao3 bu4 chu2 sui2 yi4 lü4 ， yao4 guan1 tian1 di4 fa1 sheng1 xin1 。
 
 ## 注释
 

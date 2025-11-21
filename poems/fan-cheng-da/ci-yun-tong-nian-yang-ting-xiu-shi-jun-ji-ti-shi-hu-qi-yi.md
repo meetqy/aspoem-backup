@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-tong-nian-yang-ting-xiu-shi-jun-ji-ti-shi-hu-qi-yi
-title: 次韻同年楊廷秀使君寄題石湖・其一
-titlePinyin: ci4 yun4 tong2 nian2 yang2 ting2 xiu4 shi3 jun1 ji4 ti2 shi2 hu2・qi2 yi1
+title: 次韻同年楊廷秀使君寄題石湖  其一
+titlePinyin: ci4 yun4 tong2 nian2 yang2 ting2 xiu4 shi3 jun1 ji4 ti2 shi2 hu2     qi2 yi1
 titleSlug: ci-yun-tong-nian-yang-ting-xiu-shi-jun-ji-ti-shi-hu-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

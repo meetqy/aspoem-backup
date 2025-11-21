@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-qi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 初意得閑適，處處期登臨。
-- 豈謂病見拘，未能攄靈衿。
-- 小滯廣莫願，恐辜雲水心。
-- 强半人事爾，無令成侵尋。
+- 飯了縱閑適，杖屨涉晴晝。
+- 時物破百感，環山獻明秀。
+- 承宇茂芳桂，追凉風細逗。
+- 摘果靡憚勞，聊用引稚幼。
 
 ## 拼音
 
-- chu1 yi4 de2 xian2 shi4 ， chu3 chu3 qi1 deng1 lin2 。
-- qi3 wei4 bing4 jian4 ju1 ， wei4 neng2 shu1 ling2 jin1 。
-- xiao3 zhi4 guang3 mo4 yuan4 ， kong3 gu1 yun2 shui3 xin1 。
-- qiang2 ban4 ren2 shi4 er3 ， wu2 ling4 cheng2 qin1 xun2 。
+- fan4 le0 zong4 xian2 shi4 ， zhang4 ju4 she4 qing2 zhou4 。
+- shi2 wu4 po4 bai3 gan3 ， huan2 shan1 xian4 ming2 xiu4 。
+- cheng2 yu3 mao4 fang1 gui4 ， zhui1 liang2 feng1 xi4 dou4 。
+- zhai1 guo3 mi2 dan4 lao2 ， liao2 yong4 yin3 zhi4 you4 。
 
 ## 注释
 

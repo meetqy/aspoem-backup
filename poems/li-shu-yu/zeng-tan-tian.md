@@ -6,10 +6,10 @@ titleSlug: zeng-tan-tian
 author: 李叔與
 authorPinyin: li3 shu1 yu3
 authorSlug: li-shu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

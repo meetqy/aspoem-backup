@@ -6,10 +6,10 @@ titleSlug: xin-wei-sui-dan-yong-su-zi-you-yun-cheng-liang-shi-ji-zhu-zi-zhi-qi-e
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

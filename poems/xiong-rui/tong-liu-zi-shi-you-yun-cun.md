@@ -6,10 +6,10 @@ titleSlug: tong-liu-zi-shi-you-yun-cun
 author: 熊瑞
 authorPinyin: xiong2 rui4
 authorSlug: xiong-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

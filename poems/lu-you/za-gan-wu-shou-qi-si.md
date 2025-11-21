@@ -6,21 +6,25 @@ titleSlug: za-gan-wu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自洗銅壺試玉醅，小軒風月爲徘徊。
-- 此心未與年俱老，猶解逢花眼暫開。
+- 一氣不遽變，雨霽皆有符。
+- 死非一旦至，小疾爲前驅。
+- 人能謹察之，豈有倉卒虞。
+- 哀哉不知此，雖悔良難圖。
 
 ## 拼音
 
-- zi4 xi3 tong2 hu2 shi4 yu4 pei1 ， xiao3 xuan1 feng1 yue4 wei2 pai2 huai2 。
-- ci3 xin1 wei4 yu3 nian2 ju4 lao3 ， you2 jie3 feng2 hua1 yan3 zan4 kai1 。
+- yi2 qi4 bu2 ju4 bian4 ， yu3 ji4 jie1 you3 fu2 。
+- si3 fei1 yi2 dan4 zhi4 ， xiao3 ji2 wei2 qian2 qu1 。
+- ren2 neng2 jin3 cha2 zhi1 ， qi3 you3 cang1 zu2 yu2 。
+- ai1 zai1 bu4 zhi1 ci3 ， sui1 hui3 liang2 nan2 tu2 。
 
 ## 注释
 

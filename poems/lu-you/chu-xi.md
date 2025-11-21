@@ -6,21 +6,21 @@ titleSlug: chu-xi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六聖涵濡作幸民，明朝七十八年身。
-- 門前西走都城道，卧看無窮來往人。
+- 熾炭爐中百藥香，屠蘇煎酒代椒觴。
+- 明朝頼是無來客，雪後泥深一尺强。
 
 ## 拼音
 
-- liu4 sheng4 han2 ru2 zuo4 xing4 min2 ， ming2 chao2 qi1 shi2 ba1 nian2 shen1 。
-- men2 qian2 xi1 zou3 du1 cheng2 dao4 ， wo4 kan4 wu2 qiong2 lai2 wang3 ren2 。
+- chi4 tan4 lu2 zhong1 bai3 yao4 xiang1 ， tu2 su1 jian1 jiu3 dai4 jiao1 shang1 。
+- ming2 chao2 lai4 shi4 wu2 lai2 ke4 ， xue3 hou4 ni2 shen1 yi4 chi3 qiang2 。
 
 ## 注释
 

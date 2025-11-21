@@ -6,21 +6,21 @@ titleSlug: wu-ti-qi-si
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清江似酒能迷客，綠酒如江不醉人。
-- 似酒似江俱莫問，傷心最是艷陽春。
+- 欲問醉鄉過睡鄉，兩鄉相接兩相忘。
+- 海棠應是此鄉物，醉暈深如午睡長。
 
 ## 拼音
 
-- qing1 jiang1 si4 jiu3 neng2 mi2 ke4 ， lü4 jiu3 ru2 jiang1 bu2 zui4 ren2 。
-- si4 jiu3 si4 jiang1 ju4 mo4 wen4 ， shang1 xin1 zui4 shi4 yan4 yang2 chun1 。
+- yu4 wen4 zui4 xiang1 guo4 shui4 xiang1 ， liang3 xiang1 xiang1 jie1 liang3 xiang1 wang4 。
+- hai3 tang2 ying1 shi4 ci3 xiang1 wu4 ， zui4 yun4 shen1 ru2 wu3 shui4 chang2 。
 
 ## 注释
 

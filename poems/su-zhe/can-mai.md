@@ -6,33 +6,25 @@ titleSlug: can-mai
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春寒風雨淫，蠶麥止半熟。
-- 耕桑未嘗親，有獲敢求足。
-- 鄰田老翁嫗，囊空庾無粟。
-- 機張久乏緯，食晏惟薄粥。
-- 熟耕種未下，屢禱雲不族。
-- 私憂止寒餓，王事念鞭扑。
-- 爲農良未易，爲吏畏簡牘。
-- 閉門差似可，忍饑有餘福。
+- 春旱麥半熟，蠶收僅十分。
+- 不憂無餠餌，已幸有襦裙。
+- 造化真憐汝，耕桑不謾勤。
+- 經過話關陝，貧病不堪聞。
 
 ## 拼音
 
-- chun1 han2 feng1 yu3 yin2 ， can2 mai4 zhi3 ban4 shu2 。
-- geng1 sang1 wei4 chang2 qin1 ， you3 huo4 gan3 qiu2 zu2 。
-- lin2 tian2 lao3 weng1 yu4 ， nang2 kong1 yu3 wu2 su4 。
-- ji1 zhang1 jiu3 fa2 wei3 ， shi2 yan4 wei2 bao2 zhou1 。
-- shu2 geng1 zhong3 wei4 xia4 ， lü3 dao3 yun2 bu4 zu2 。
-- si1 you1 zhi3 han2 e4 ， wang2 shi4 nian4 bian1 pu1 。
-- wei2 nong2 liang2 wei4 yi4 ， wei2 li4 wei4 jian3 du2 。
-- bi4 men2 cha4 si4 ke3 ， ren3 ji1 you3 yu2 fu2 。
+- chun1 han4 mai4 ban4 shu2 ， can2 shou1 jin3 shi2 fen1 。
+- bu4 you1 wu2 bing3 er3 ， yi3 xing4 you3 ru2 qun2 。
+- zao4 hua4 zhen1 lian2 ru3 ， geng1 sang1 bu4 man2 qin2 。
+- jing1 guo4 hua4 guan1 shan3 ， pin2 bing4 bu4 kan1 wen2 。
 
 ## 注释
 

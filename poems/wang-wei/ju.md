@@ -9,16 +9,16 @@ authorSlug: wang-wei
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自恨開遲還落早，縱橫只是怨春風。
+- 人家在仙掌，雲氣欲生衣。
 
 ## 拼音
 
-- zi4 hen4 kai1 chi2 huan2 luo4 zao3 ， zong4 heng2 zhi3 shi4 yuan4 chun1 feng1 。
+- ren2 jia1 zai4 xian1 zhang3 ， yun2 qi4 yu4 sheng1 yi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhen-zhu-lian
 author: 陳祥道
 authorPinyin: chen2 xiang2 dao4
 authorSlug: chen-xiang-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

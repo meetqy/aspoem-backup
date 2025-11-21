@@ -6,25 +6,25 @@ titleSlug: gan-shi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 清班曾見六龍飛，晚落天涯遠日畿。
-- 邊月空悲新雪鬢，京塵猶染舊朝衣。
-- 江山壯麗詩難敵，風物蕭條醉絕稀。
-- 賴有東湖堪吏隠，寄聲籬菊待吾歸。
+- 今古成何事，興亡迹已陳。
+- 干時無上策，避世且全真。
+- 就日思明主，看雲憶老親。
+- 到頭垂白早，徑醉曲生春。
 
 ## 拼音
 
-- qing1 ban1 ceng2 jian4 liu4 long2 fei1 ， wan3 luo4 tian1 ya2 yuan3 ri4 ji1 。
-- bian1 yue4 kong1 bei1 xin1 xue3 bin4 ， jing1 chen2 you2 ran3 jiu4 chao2 yi1 。
-- jiang1 shan1 zhuang4 li2 shi1 nan2 di2 ， feng1 wu4 xiao1 tiao2 zui4 jue2 xi1 。
-- lai4 you3 dong1 hu2 kan1 li4 yin3 ， ji4 sheng1 li2 ju2 dai4 wu2 gui1 。
+- jin1 gu3 cheng2 he2 shi4 ， xing1 wang2 ji4 yi3 chen2 。
+- gan1 shi2 wu2 shang4 ce4 ， bi4 shi4 qie3 quan2 zhen1 。
+- jiu4 ri4 si1 ming2 zhu3 ， kan4 yun2 yi4 lao3 qin1 。
+- dao4 tou2 chui2 bai2 zao3 ， jing4 zui4 qu3 sheng1 chun1 。
 
 ## 注释
 

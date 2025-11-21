@@ -6,10 +6,10 @@ titleSlug: yu-jia-chu-li-hua-er-mao-yi-ri-li-zhe-huo-shu-wei-shi-er-hua-zhe-si-q
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

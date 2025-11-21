@@ -6,25 +6,25 @@ titleSlug: shou-li-yan-hu-qi-er
 author: 吳泳
 authorPinyin: wu2 yong3
 authorSlug: wu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 往在黄樞府，璇題護兩扉。
-- 剪除當路棘，紉補坐朝衣。
-- 風急操舟濟，江空擲釣歸。
-- 年年湖上雁，旭旦望南飛。
+- 自卷朝衣濯雁湖，勳名籍籍在黄樞。
+- 時聞走卒稱司馬，猶有羣兒問大蘇。
+- 赴隴尺書馳鶴板，起家萬石綰麟符。
+- 宵衣炯炯思黄髮，正藉元勳出手扶。
 
 ## 拼音
 
-- wang3 zai4 huang2 shu1 fu3 ， xuan2 ti2 hu4 liang3 fei1 。
-- jian3 chu2 dang1 lu4 ji2 ， ren4 bu3 zuo4 chao2 yi1 。
-- feng1 ji2 cao1 zhou1 ji4 ， jiang1 kong1 zhi4 diao4 gui1 。
-- nian2 nian2 hu2 shang4 yan4 ， xu4 dan4 wang4 nan2 fei1 。
+- zi4 juan4 chao2 yi1 zhuo2 yan4 hu2 ， xun1 ming2 ji2 ji2 zai4 huang2 shu1 。
+- shi2 wen2 zou3 zu2 cheng1 si1 ma3 ， you2 you3 qun2 er2 wen4 da4 su1 。
+- fu4 long3 chi3 shu1 chi2 he4 ban3 ， qi3 jia1 wan4 shi2 wan3 lin2 fu2 。
+- xiao1 yi1 jiong3 jiong3 si1 huang2 fa4 ， zheng4 jie4 yuan2 xun1 chu1 shou3 fu2 。
 
 ## 注释
 

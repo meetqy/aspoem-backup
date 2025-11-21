@@ -6,21 +6,25 @@ titleSlug: qian-xing-er-shou-qi-yi
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 僧寺借經便大字，鄰墻喚酒及新篘。
-- 三年於此得其理，一飽已還非所求。
+- 南来不覺兩秋砧，覽照驚呼雪滿簪。
+- 平日不堪文館冷，暮年更賦武溪深。
+- 敢緣三已有愠色，自笑一生能苦心。
+- 安得袁絲随里閈，闘雞走狗任浮沉。
 
 ## 拼音
 
-- seng1 si4 jie4 jing1 bian4 da4 zi4 ， lin2 qiang2 huan4 jiu3 ji2 xin1 chou1 。
-- san1 nian2 wu1 ci3 de2 qi2 li3 ， yi4 bao3 yi3 huan2 fei1 suo3 qiu2 。
+- nan2 lai2 bu4 jue2 liang3 qiu1 zhen1 ， lan3 zhao4 jing1 hu1 xue3 man3 zan1 。
+- ping2 ri4 bu4 kan1 wen2 guan3 leng3 ， mu4 nian2 geng4 fu4 wu3 xi1 shen1 。
+- gan3 yuan2 san1 yi3 you3 yun4 se4 ， zi4 xiao4 yi4 sheng1 neng2 ku3 xin1 。
+- an1 de2 yuan2 si1 sui2 li3 han4 ， dou4 ji1 zou3 gou3 ren4 fu2 chen2 。
 
 ## 注释
 

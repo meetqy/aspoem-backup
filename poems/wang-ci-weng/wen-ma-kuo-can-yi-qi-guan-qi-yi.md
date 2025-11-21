@@ -6,10 +6,10 @@ titleSlug: wen-ma-kuo-can-yi-qi-guan-qi-yi
 author: 王次翁
 authorPinyin: wang2 ci4 weng1
 authorSlug: wang-ci-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

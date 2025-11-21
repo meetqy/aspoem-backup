@@ -6,25 +6,25 @@ titleSlug: san-shi-nian-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三十年間更一世，其間堪笑復堪愁。
-- 天生天殺何嘗盡，人是人非殊未休。
-- 善偶鴛鴦頭早白，能啼杜宇血先流。
-- 須知却被才爲害，及至無才又却憂。
+- 比三十年前，今日爲艱難。
+- 比三十年後，今日爲安閑。
+- 治久人思亂，亂久人思安。
+- 安得千年鶴，乘去遊仙山。
 
 ## 拼音
 
-- san1 shi2 nian2 jian4 geng4 yi2 shi4 ， qi2 jian4 kan1 xiao4 fu4 kan1 chou2 。
-- tian1 sheng1 tian1 sha1 he2 chang2 jin4 ， ren2 shi4 ren2 fei1 shu1 wei4 xiu1 。
-- shan4 ou3 yuan1 yang1 tou2 zao3 bai2 ， neng2 ti2 du4 yu3 xue4 xian1 liu2 。
-- xu1 zhi1 que4 bei4 cai2 wei2 hai4 ， ji2 zhi4 wu2 cai2 you4 que4 you1 。
+- bi3 san1 shi2 nian2 qian2 ， jin1 ri4 wei2 jian1 nan2 。
+- bi3 san1 shi2 nian2 hou4 ， jin1 ri4 wei2 an1 xian2 。
+- zhi4 jiu3 ren2 si1 luan4 ， luan4 jiu3 ren2 si1 an1 。
+- an1 de2 qian1 nian2 he4 ， cheng2 qu4 you2 xian1 shan1 。
 
 ## 注释
 

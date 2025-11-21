@@ -6,10 +6,10 @@ titleSlug: ji-zi-miao
 author: 曹確
 authorPinyin: cao2 que4
 authorSlug: cao-que
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

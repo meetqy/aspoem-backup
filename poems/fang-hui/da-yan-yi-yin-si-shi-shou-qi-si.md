@@ -1,26 +1,26 @@
 ---
 id: fang-hui-da-yan-yi-yin-si-shi-shou-qi-si
-title: 大衍易吟四十首  其四
-titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 si4
+title: 大衍易吟四十首  其四○
+titlePinyin: da4 yan3 yi4 yin2 si4 shi2 shou3     qi2 si4 ○
 titleSlug: da-yan-yi-yin-si-shi-shou-qi-si
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 乾坤用九六，義例析爲三。
-- 朱子申歐說，開編請細探。
+- 凶人凶其吉，吉人吉其凶。
+- 曳輪能自信，揲策勿求通。
 
 ## 拼音
 
-- qian2 kun1 yong4 jiu3 liu4 ， yi4 li4 xi1 wei2 san1 。
-- zhu1 zi3 shen1 ou1 shuo1 ， kai1 bian1 qing3 xi4 tan4 。
+- xiong1 ren2 xiong1 qi2 ji2 ， ji2 ren2 ji2 qi2 xiong1 。
+- ye4 lun2 neng2 zi4 xin4 ， die2 ce4 wu4 qiu2 tong1 。
 
 ## 注释
 

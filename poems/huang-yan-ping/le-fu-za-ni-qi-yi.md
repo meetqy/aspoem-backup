@@ -1,34 +1,34 @@
 ---
 id: huang-yan-ping-le-fu-za-ni-qi-yi
-title: 樂府雜擬  其一
-titlePinyin: le4 fu3 za2 ni3     qi2 yi1
+title: 樂府雜擬  其一○
+titlePinyin: le4 fu3 za2 ni3     qi2 yi1 ○
 titleSlug: le-fu-za-ni-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2
 authorSlug: huang-yan-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 驚風吹鴻鵠，一舉儀天衢。
-- 勁翮自肅肅，弱羽猶區區。
-- 時於蒿艾間，得粒鳴相呼。
-- 永愧燕雀情，我豈不足歟。
-- 鵬運與鷗沒，遠近各有圖。
-- 方當絕四海，安敢懷此都。
+- 遺堞感至今，平生行樂處。
+- 英雄除霸王，俯仰成今古。
+- 昔日城中居，此日城邊墓。
+- 魚龍與爵馬，共盡誰能數。
+- 悲風天末起，陌上行人去。
+- 凄凉王仲宣，獨詠登樓賦。
 
 ## 拼音
 
-- jing1 feng1 chui1 hong2 hu2 ， yi4 ju3 yi2 tian1 qu2 。
-- jin4 he2 zi4 su4 su4 ， ruo4 yu3 you2 qu1 qu1 。
-- shi2 wu1 hao1 ai4 jian4 ， de2 li4 ming2 xiang1 hu1 。
-- yong3 kui4 yan4 que4 qing2 ， wo3 qi3 bu4 zu2 yu2 。
-- peng2 yun4 yu3 ou1 mei2 ， yuan3 jin4 ge4 you3 tu2 。
-- fang1 dang1 jue2 si4 hai3 ， an1 gan3 huai2 ci3 dou1 。
+- yi2 die2 gan3 zhi4 jin1 ， ping2 sheng1 xing2 le4 chu3 。
+- ying1 xiong2 chu2 ba4 wang2 ， fu3 yang3 cheng2 jin1 gu3 。
+- xi1 ri4 cheng2 zhong1 ju1 ， ci3 ri4 cheng2 bian1 mu4 。
+- yu2 long2 yu3 jue2 ma3 ， gong4 jin4 shui2 neng2 shu4 。
+- bei1 feng1 tian1 mo4 qi3 ， mo4 shang4 xing2 ren2 qu4 。
+- qi1 liang2 wang2 zhong4 xuan1 ， du2 yong3 deng1 lou2 fu4 。
 
 ## 注释
 

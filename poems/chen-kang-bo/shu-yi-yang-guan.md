@@ -6,9 +6,9 @@ titleSlug: shu-yi-yang-guan
 author: 陳康伯
 authorPinyin: chen2 kang1 bo2
 authorSlug: chen-kang-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,30 +1,30 @@
 ---
 id: fang-yue-tang-lu-shi-shou-qi-yi
-title: 唐律十首  其一
-titlePinyin: tang2 lü4 shi2 shou3     qi2 yi1
+title: 唐律十首  其一○
+titlePinyin: tang2 lü4 shi2 shou3     qi2 yi1 ○
 titleSlug: tang-lu-shi-shou-qi-yi
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲木上蒼冥，行藏只草亭。
-- 雁隨秋到早，山入市來青。
-- 投老餘漁具，能詩例鶴形。
-- 髮根風露入，肺渴喜初醒。
+- 吾亦愛吾貧，樵山採墮薪。
+- 百年雙短鬢，九職一閒民。
+- 秋蔓茶僧老，春泓酒母淳。
+- 兩生誰可致，此外不關身。
 
 ## 拼音
 
-- yun2 mu4 shang4 cang1 ming2 ， xing2 cang2 zhi1 cao3 ting2 。
-- yan4 sui2 qiu1 dao4 zao3 ， shan1 ru4 shi4 lai2 qing1 。
-- tou2 lao3 yu2 yu2 ju4 ， neng2 shi1 li4 he4 xing2 。
-- fa4 gen1 feng1 lu4 ru4 ， fei4 ke3 xi3 chu1 xing3 。
+- wu2 yi4 ai4 wu2 pin2 ， qiao2 shan1 cai3 duo4 xin1 。
+- bai3 nian2 shuang1 duan3 bin4 ， jiu3 zhi2 yi4 xian2 min2 。
+- qiu1 man4 cha2 seng1 lao3 ， chun1 hong2 jiu3 mu3 chun2 。
+- liang3 sheng1 shui2 ke3 zhi4 ， ci3 wai4 bu4 guan1 shen1 。
 
 ## 注释
 

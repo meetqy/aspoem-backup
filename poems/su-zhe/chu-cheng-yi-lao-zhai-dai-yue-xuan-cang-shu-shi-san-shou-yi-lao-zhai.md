@@ -6,10 +6,10 @@ titleSlug: chu-cheng-yi-lao-zhai-dai-yue-xuan-cang-shu-shi-san-shou-yi-lao-zhai
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-qi-yi
 author: 釋守芝
 authorPinyin: shi4 shou3 zhi1
 authorSlug: shi-shou-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

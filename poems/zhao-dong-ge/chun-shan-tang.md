@@ -6,10 +6,10 @@ titleSlug: chun-shan-tang
 author: 趙東閣
 authorPinyin: zhao4 dong1 ge2
 authorSlug: zhao-dong-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

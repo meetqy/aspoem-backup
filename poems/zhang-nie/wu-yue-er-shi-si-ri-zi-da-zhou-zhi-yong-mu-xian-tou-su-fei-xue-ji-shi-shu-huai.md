@@ -6,9 +6,9 @@ titleSlug: wu-yue-er-shi-si-ri-zi-da-zhou-zhi-yong-mu-xian-tou-su-fei-xue-ji-shi
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

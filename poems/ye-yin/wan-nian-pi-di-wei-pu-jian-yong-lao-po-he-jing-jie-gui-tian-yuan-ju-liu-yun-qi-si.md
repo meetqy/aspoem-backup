@@ -6,10 +6,10 @@ titleSlug: wan-nian-pi-di-wei-pu-jian-yong-lao-po-he-jing-jie-gui-tian-yuan-ju-l
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

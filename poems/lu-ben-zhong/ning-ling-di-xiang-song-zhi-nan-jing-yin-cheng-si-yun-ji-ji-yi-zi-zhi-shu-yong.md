@@ -6,10 +6,10 @@ titleSlug: ning-ling-di-xiang-song-zhi-nan-jing-yin-cheng-si-yun-ji-ji-yi-zi-zhi
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-shan-gu-ti-li-liang-gong-jia-zhou-fang-hua-mei-ren-qin-ruan-tu
 author: 高荷
 authorPinyin: gao1 he2
 authorSlug: gao-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

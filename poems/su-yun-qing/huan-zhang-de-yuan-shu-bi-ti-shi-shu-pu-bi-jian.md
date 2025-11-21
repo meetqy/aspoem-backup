@@ -6,9 +6,9 @@ titleSlug: huan-zhang-de-yuan-shu-bi-ti-shi-shu-pu-bi-jian
 author: 蘇雲卿
 authorPinyin: su1 yun2 qing1
 authorSlug: su-yun-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

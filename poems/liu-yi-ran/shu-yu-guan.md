@@ -6,10 +6,10 @@ titleSlug: shu-yu-guan
 author: 留怡然
 authorPinyin: liu2 yi2 ran2
 authorSlug: liu-yi-ran
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-yun-jin-yuan
 author: 庾卜禮
 authorPinyin: yu3 bu3 li3
 authorSlug: yu-bu-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

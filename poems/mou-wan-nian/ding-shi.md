@@ -6,10 +6,10 @@ titleSlug: ding-shi
 author: 繆萬年
 authorPinyin: mou2 wan4 nian2
 authorSlug: mou-wan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

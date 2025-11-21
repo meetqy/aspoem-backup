@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 病眠夜少夢，閑立秋多思。
-- 寂寞餘雨晴，蕭條早寒至。
-- 鳥棲紅葉樹，月照青苔地。
-- 何況鏡中年，又過三十二。
+- 夕照紅於燒，晴空碧勝藍。
+- 獸形雲不一，弓勢月初三。
+- 雁思來天北，砧愁滿水南。
+- 蕭條秋氣味，未老已深諳。
 
 ## 拼音
 
-- bing4 mian2 ye4 shao3 meng4 ， xian2 li4 qiu1 duo1 si1 。
-- ji4 mo4 yu2 yu3 qing2 ， xiao1 tiao2 zao3 han2 zhi4 。
-- niao3 qi1 hong2 ye4 shu4 ， yue4 zhao4 qing1 tai2 di4 。
-- he2 kuang4 jing4 zhong1 nian2 ， you4 guo4 san1 shi2 er4 。
+- xi1 zhao4 hong2 wu1 shao1 ， qing2 kong1 bi4 sheng4 lan2 。
+- shou4 xing2 yun2 bu4 yi1 ， gong1 shi4 yue4 chu1 san1 。
+- yan4 si1 lai2 tian1 bei3 ， zhen1 chou2 man3 shui3 nan2 。
+- xiao1 tiao2 qiu1 qi4 wei4 ， wei4 lao3 yi3 shen1 an1 。
 
 ## 注释
 

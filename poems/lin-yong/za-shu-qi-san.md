@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-san
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 諂道正爲著相，謗禪未許知音。
-- 人無第一等眼，佛具若干種心。
+- 壞事曾聞嗔怪鬼，捉囚可不畏天公。
+- 撫床衛瓘寧非醉，對策劉蕡恐是風。
 
 ## 拼音
 
-- chan3 dao4 zheng4 wei2 zhu4 xiang1 ， bang4 shan4 wei4 xu1 zhi1 yin1 。
-- ren2 wu2 di4 yi1 deng3 yan3 ， fo2 ju4 ruo4 gan1 zhong3 xin1 。
+- huai4 shi4 ceng2 wen2 chen1 guai4 gui3 ， zhuo1 qiu2 ke3 bu2 wei4 tian1 gong1 。
+- fu3 chuang2 wei4 guan4 ning2 fei1 zui4 ， dui4 ce4 liu2 fen2 kong3 shi4 feng1 。
 
 ## 注释
 

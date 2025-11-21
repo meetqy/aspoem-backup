@@ -6,25 +6,21 @@ titleSlug: ou-cheng
 author: 石延年
 authorPinyin: shi2 yan2 nian2
 authorSlug: shi-yan-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 力振前文覺道孤，恥同流輩論榮枯。
-- 動非仁義何如静，得見機關不似無。
-- 孔孟也應輕管晏，臯夔未必失唐虞。
-- 侯王重問吾何有，且自低心混世儒。
+- 年去年來來去忙，爲他人作嫁衣裳。
+- 仰天大笑出門去，獨對春風舞一場。
 
 ## 拼音
 
-- li4 zhen4 qian2 wen2 jue2 dao4 gu1 ， chi3 tong2 liu2 bei4 lun4 rong2 ku1 。
-- dong4 fei1 ren2 yi4 he2 ru2 jing4 ， de2 jian4 ji1 guan1 bu2 si4 wu2 。
-- kong3 meng4 ye3 ying1 qing1 guan3 yan4 ， gao1 kui2 wei4 bi4 shi1 tang2 yu2 。
-- hou2 wang2 zhong4 wen4 wu2 he2 you3 ， qie3 zi4 di1 xin1 hun4 shi4 ru2 。
+- nian2 qu4 nian2 lai2 lai2 qu4 mang2 ， wei2 ta1 ren2 zuo4 jia4 yi1 shang0 。
+- yang3 tian1 da4 xiao4 chu1 men2 qu4 ， du2 dui4 chun1 feng1 wu3 yi4 chang3 。
 
 ## 注释
 

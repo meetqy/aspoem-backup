@@ -6,10 +6,10 @@ titleSlug: ju
 author: 釋文或
 authorPinyin: shi4 wen2 huo4
 authorSlug: shi-wen-huo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

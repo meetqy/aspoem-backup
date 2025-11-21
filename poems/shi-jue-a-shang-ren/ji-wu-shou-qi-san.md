@@ -6,10 +6,10 @@ titleSlug: ji-wu-shou-qi-san
 author: 釋覺阿上人
 authorPinyin: shi4 jue2 a1 shang4 ren2
 authorSlug: shi-jue-a-shang-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

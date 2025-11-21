@@ -6,10 +6,10 @@ titleSlug: jia-chen-nian-wu-yue-shi-wu-ri-ye-li-yang-guan-yue
 author: 沈遼
 authorPinyin: shen3 liao2
 authorSlug: shen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

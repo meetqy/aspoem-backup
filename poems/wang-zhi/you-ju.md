@@ -3,28 +3,28 @@ id: wang-zhi-you-ju
 title: 幽居
 titlePinyin: you1 ju1
 titleSlug: you-ju
-author: 王銍
+author: 王質
 authorPinyin: wang2 zhi4
 authorSlug: wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽居寂無事，晨起伴僧禪。
-- 曉澹巖前月，秋明水底天。
-- 望鄉書斷雁，問路客回船。
-- 阻絕平生友，清遊有夢傳。
+- 春跗秋萼以時開，爾自野生吾懶栽。
+- 有飯故須間菘韭，無羹安用著鹽梅。
+- 雲蒼雲白變復變，雨舊雨今來不來。
+- 杉露松霜皆我酒，竹根木癭盡吾杯。
 
 ## 拼音
 
-- you1 ju1 ji4 wu2 shi4 ， chen2 qi3 ban4 seng1 shan4 。
-- xiao3 dan4 yan2 qian2 yue4 ， qiu1 ming2 shui3 di3 tian1 。
-- wang4 xiang1 shu1 duan4 yan4 ， wen4 lu4 ke4 hui2 chuan2 。
-- zu3 jue2 ping2 sheng1 you3 ， qing1 you2 you3 meng4 chuan2 。
+- chun1 fu1 qiu1 e4 yi3 shi2 kai1 ， er3 zi4 ye3 sheng1 wu2 lan3 zai1 。
+- you3 fan4 gu4 xu1 jian4 song1 jiu3 ， wu2 geng1 an1 yong4 zhu4 yan2 mei2 。
+- yun2 cang1 yun2 bai2 bian4 fu4 bian4 ， yu3 jiu4 yu3 jin1 lai2 bu0 lai2 。
+- shan1 lu4 song1 shuang1 jie1 wo3 jiu3 ， zhu2 gen1 mu4 ying3 jin4 wu2 bei1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: bin-ye-meng-zhi-nan-zheng-xiao-yi-zhi-jian-kai-ran-gan-huai-er-shou-q
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

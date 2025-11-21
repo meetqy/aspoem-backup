@@ -6,10 +6,10 @@ titleSlug: er-zhu-zhen-ren-yao-zao
 author: 雍沿
 authorPinyin: yong1 yan2
 authorSlug: yong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

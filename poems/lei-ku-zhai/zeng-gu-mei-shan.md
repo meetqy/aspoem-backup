@@ -6,10 +6,10 @@ titleSlug: zeng-gu-mei-shan
 author: 雷苦齋
 authorPinyin: lei2 ku3 zhai1
 authorSlug: lei-ku-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

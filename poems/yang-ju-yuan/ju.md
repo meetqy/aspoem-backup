@@ -9,18 +9,18 @@ authorSlug: yang-ju-yuan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 三刀夢益州，一箭取遼城。
-- 伊陟無聞祖，韋賢不到孫。
+- 思出秦雲外，恩生漢水東。
+- （《輿地紀勝》卷八二《襄陽府》）。
 
 ## 拼音
 
-- san1 dao1 meng4 yi4 zhou1 ， yi2 jian4 qu3 liao2 cheng2 。
-- yi1 zhi4 wu2 wen2 zu3 ， wei2 xian2 bu2 dao4 sun1 。
+- si1 chu1 qin2 yun2 wai4 ， en1 sheng1 han4 shui3 dong1 。
+- （《 yu2 di4 ji4 sheng4 》 juan4 ba1 er4 《 xiang1 yang2 fu3 》）。
 
 ## 注释
 

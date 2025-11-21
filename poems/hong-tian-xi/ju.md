@@ -6,10 +6,10 @@ titleSlug: ju
 author: 洪天錫
 authorPinyin: hong2 tian1 xi1
 authorSlug: hong-tian-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

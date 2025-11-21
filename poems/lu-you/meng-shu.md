@@ -6,25 +6,25 @@ titleSlug: meng-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夢飲成都好事家，新妝執樂雁行斜。
-- 赬肩郫縣千筒酒，照眼彭州百馱花。
-- 醉帽傾欹歌未闋，罰觥瀲灧笑方譁。
-- 霜鐘喚覺晨窗白，自怪無端一念差。
+- 自計前生定蜀人，錦官來往九經春。
+- 堆盤丙穴魚腴美，下箸峨眉栮脯珍。
+- 聯騎雋遊非復昔，數編殘稿尚如新。
+- 最憐栩栩西窗夢，路入青衣不問津。
 
 ## 拼音
 
-- meng4 yin3 cheng2 du1 hao3 shi4 jia1 ， xin1 zhuang1 zhi2 le4 yan4 hang2 xie2 。
-- cheng1 jian1 pi2 xian4 qian1 tong3 jiu3 ， zhao4 yan3 peng2 zhou1 bai3 tuo2 hua1 。
-- zui4 mao4 qing1 qi1 ge1 wei4 que4 ， fa2 gong1 lian4 yan4 xiao4 fang1 hua2 。
-- shuang1 zhong1 huan4 jue2 chen2 chuang1 bai2 ， zi4 guai4 wu2 duan1 yi2 nian4 cha4 。
+- zi4 ji4 qian2 sheng1 ding4 shu3 ren2 ， jin3 guan1 lai2 wang3 jiu3 jing1 chun1 。
+- dui1 pan2 bing3 xue2 yu2 yu2 mei3 ， xia4 zhu4 e2 mei2 er3 pu2 zhen1 。
+- lian2 qi2 jun4 you2 fei1 fu4 xi1 ， shu4 bian1 can2 gao3 shang4 ru2 xin1 。
+- zui4 lian2 xu3 xu3 xi1 chuang1 meng4 ， lu4 ru4 qing1 yi1 bu2 wen4 jin1 。
 
 ## 注释
 

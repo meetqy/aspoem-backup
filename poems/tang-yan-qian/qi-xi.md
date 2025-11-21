@@ -9,18 +9,22 @@ authorSlug: tang-yan-qian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 會合無由歎久違，一年一度是緣非。
-- 而予願乞天孫巧，五色紉針補袞衣。
+- 露白風清夜向晨，小星垂佩月埋輪。
+- 絳河浪淺休相隔，滄海波深尚作塵。
+- 天外鳳皇何寂寞，世間烏鵲漫辛勤。
+- 倚闌殿北斜樓上，多少通宵不寐人。
 
 ## 拼音
 
-- hui4 he2 wu2 you2 tan4 jiu3 wei2 ， yi4 nian2 yi2 du4 shi4 yuan2 fei1 。
-- er2 yu3 yuan4 qi3 tian1 sun1 qiao3 ， wu3 se4 ren4 zhen1 bu3 gun3 yi1 。
+- lou4 bai2 feng1 qing1 ye4 xiang4 chen2 ， xiao3 xing1 chui2 pei4 yue4 mai2 lun2 。
+- jiang4 he2 lang4 qian3 xiu1 xiang1 ge2 ， cang1 hai3 bo1 shen1 shang4 zuo4 chen2 。
+- tian1 wai4 feng4 huang2 he2 ji4 mo4 ， shi4 jian4 wu1 que4 man4 xin1 qin2 。
+- yi3 lan2 dian4 bei3 xie2 lou2 shang4 ， duo1 shao3 tong1 xiao1 bu2 mei4 ren2 。
 
 ## 注释
 

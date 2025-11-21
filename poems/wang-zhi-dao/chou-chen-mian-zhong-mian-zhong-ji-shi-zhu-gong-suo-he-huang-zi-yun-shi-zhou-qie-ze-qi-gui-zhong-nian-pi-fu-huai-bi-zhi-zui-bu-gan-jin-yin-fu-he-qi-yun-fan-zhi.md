@@ -6,9 +6,9 @@ titleSlug: chou-chen-mian-zhong-mian-zhong-ji-shi-zhu-gong-suo-he-huang-zi-yun-s
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

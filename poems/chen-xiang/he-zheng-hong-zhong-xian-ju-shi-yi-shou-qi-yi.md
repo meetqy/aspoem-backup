@@ -1,30 +1,30 @@
 ---
 id: chen-xiang-he-zheng-hong-zhong-xian-ju-shi-yi-shou-qi-yi
-title: 和鄭閎中仙居十一首  其一
-titlePinyin: he2 zheng4 hong2 zhong1 xian1 ju1 shi2 yi1 shou3     qi2 yi1
+title: 和鄭閎中仙居十一首  其一○
+titlePinyin: he2 zheng4 hong2 zhong1 xian1 ju1 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: he-zheng-hong-zhong-xian-ju-shi-yi-shou-qi-yi
 author: 陳襄
 authorPinyin: chen2 xiang1
 authorSlug: chen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我愛仙居好，臨民必以誠。
-- 簿書無日暇，獄訟積年生。
-- 百疾求箴補，千鈞待準平。
-- 嗟予不如古，斯道未能宏。
+- 我愛仙居好，三年理尚寬。
+- 民雖離網罟，政未息風瀾。
+- 憫物刑多省，勞心席少安。
+- 祗慚無惠術，求配古人難。
 
 ## 拼音
 
-- wo3 ai4 xian1 ju1 hao3 ， lin2 min2 bi4 yi3 cheng2 。
-- bo2 shu1 wu2 ri4 xia2 ， yu4 song4 ji1 nian2 sheng1 。
-- bai3 ji2 qiu2 zhen1 bu3 ， qian1 jun1 dai4 zhun3 ping2 。
-- jie1 yu3 bu4 ru2 gu3 ， si1 dao4 wei4 neng2 hong2 。
+- wo3 ai4 xian1 ju1 hao3 ， san1 nian2 li3 shang4 kuan1 。
+- min2 sui1 li2 wang3 gu3 ， zheng4 wei4 xi1 feng1 lan2 。
+- min3 wu4 xing2 duo1 sheng3 ， lao2 xin1 xi2 shao3 an1 。
+- zhi1 can2 wu2 hui4 shu4 ， qiu2 pei4 gu3 ren2 nan2 。
 
 ## 注释
 

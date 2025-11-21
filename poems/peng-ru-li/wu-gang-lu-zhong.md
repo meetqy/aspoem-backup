@@ -6,25 +6,25 @@ titleSlug: wu-gang-lu-zhong
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝行黄茅岡，暮宿黄茅驛。
-- 一岡復一岡，岡岡如絡繹。
-- 一驛復一驛，思親頭易白。
-- 何時自此還，行李兼晨夕。
+- 複嶺重岡烟靄深，晚年多病覺難任。
+- 他鄉一日如三歲，遠路家書抵萬金。
+- 流水可憐君未息，白雲誰似爾無心。
+- 天寒日暮雙飛鳥，寂寂歸棲只舊林。
 
 ## 拼音
 
-- chao2 xing2 huang2 mao2 gang1 ， mu4 su4 huang2 mao2 yi4 。
-- yi4 gang1 fu4 yi4 gang1 ， gang1 gang1 ru2 luo4 yi4 。
-- yi2 yi4 fu4 yi2 yi4 ， si1 qin1 tou2 yi4 bai2 。
-- he2 shi2 zi4 ci3 huan2 ， xing2 li0 jian1 chen2 xi1 。
+- fu4 ling3 zhong4 gang1 yan1 ai3 shen1 ， wan3 nian2 duo1 bing4 jue2 nan2 ren4 。
+- ta1 xiang1 yi2 ri4 ru2 san1 sui4 ， yuan3 lu4 jia1 shu1 di3 wan4 jin1 。
+- liu2 shui3 ke3 lian2 jun1 wei4 xi1 ， bai2 yun2 shui2 si4 er3 wu2 xin1 。
+- tian1 han2 ri4 mu4 shuang1 fei1 niao3 ， ji4 ji4 gui1 qi1 zhi1 jiu4 lin2 。
 
 ## 注释
 

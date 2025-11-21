@@ -6,10 +6,10 @@ titleSlug: jun-pu-hong-bai-lian-jing-fang-fei-ran-duan-ge-cheng-si-xi-jian-zhu-z
 author: 史彌寧
 authorPinyin: shi3 mi2 ning2
 authorSlug: shi-mi-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

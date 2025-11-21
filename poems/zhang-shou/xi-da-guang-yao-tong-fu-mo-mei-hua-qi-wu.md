@@ -6,10 +6,10 @@ titleSlug: xi-da-guang-yao-tong-fu-mo-mei-hua-qi-wu
 author: 張守
 authorPinyin: zhang1 shou3
 authorSlug: zhang-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

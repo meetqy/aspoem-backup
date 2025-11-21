@@ -6,25 +6,21 @@ titleSlug: yu-liang
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春泥滑滑雨絲絲，一路陰寒少霽時。
-- 水入陂渠喧似瀑，雲從山崦上如炊。
-- 燎衣去傍田家火，炙燭來看野店詩。
-- 落盡梅花心事惡，獨搔蓬鬢遶殘枝。
+- 淺溪忽漲尋常水，朽樹猶開千百花。
+- 有酒可沽魚可買，造門莫問是誰家。
 
 ## 拼音
 
-- chun1 ni2 hua2 hua2 yu3 si1 si1 ， yi2 lu4 yin1 han2 shao3 ji4 shi2 。
-- shui3 ru4 bei1 qu2 xuan1 si4 pu4 ， yun2 cong2 shan1 yan1 shang4 ru2 chui1 。
-- liao2 yi1 qu4 bang4 tian2 jia1 huo3 ， zhi4 zhu2 lai2 kan4 ye3 dian4 shi1 。
-- luo4 jin4 mei2 hua1 xin1 shi4 e4 ， du2 sao1 peng2 bin4 rao4 can2 zhi1 。
+- qian3 xi1 hu1 zhang3 xun2 chang2 shui3 ， xiu3 shu4 you2 kai1 qian1 bai3 hua1 。
+- you3 jiu3 ke3 gu1 yu2 ke3 mai3 ， zao4 men2 mo4 wen4 shi4 shui2 jia1 。
 
 ## 注释
 

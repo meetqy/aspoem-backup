@@ -6,10 +6,10 @@ titleSlug: dong-feng-shan
 author: 陳師韓
 authorPinyin: chen2 shi1 han2
 authorSlug: chen-shi-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

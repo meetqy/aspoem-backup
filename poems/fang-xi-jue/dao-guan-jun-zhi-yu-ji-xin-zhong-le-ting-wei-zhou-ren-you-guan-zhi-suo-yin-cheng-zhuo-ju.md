@@ -6,10 +6,10 @@ titleSlug: dao-guan-jun-zhi-yu-ji-xin-zhong-le-ting-wei-zhou-ren-you-guan-zhi-su
 author: 方希覺
 authorPinyin: fang1 xi1 jue2
 authorSlug: fang-xi-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

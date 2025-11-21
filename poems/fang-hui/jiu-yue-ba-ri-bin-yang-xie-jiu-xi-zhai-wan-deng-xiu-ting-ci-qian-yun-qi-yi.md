@@ -6,10 +6,10 @@ titleSlug: jiu-yue-ba-ri-bin-yang-xie-jiu-xi-zhai-wan-deng-xiu-ting-ci-qian-yun-
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: geng-wu-dong-zhi-ye
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 旋尋村酒不須濃，飲少愁多酒易供。
-- 燈下一身家萬里，今年恰好是三冬。
+- 今夜雲開北陸風，丈三將到土圭中。
+- 剝窮誰見陰陽妙，来復方知天地功。
+- 孤坐看燈渾是夢，蒼顔被酒不生紅。
+- 卻憐土俗追時節，言語雖殊意亦同。
 
 ## 拼音
 
-- xuan2 xun2 cun1 jiu3 bu4 xu1 nong2 ， yin3 shao3 chou2 duo1 jiu3 yi4 gong4 。
-- deng1 xia4 yi4 shen1 jia1 wan4 li3 ， jin1 nian2 qia4 hao3 shi4 san1 dong1 。
+- jin1 ye4 yun2 kai1 bei3 lu4 feng1 ， zhang4 san1 jiang1 dao4 tu3 gui1 zhong1 。
+- bao1 qiong2 shui2 jian4 yin1 yang2 miao4 ， lai2 fu4 fang1 zhi1 tian1 di4 gong1 。
+- gu1 zuo4 kan4 deng1 hun2 shi4 meng4 ， cang1 yan2 bei4 jiu3 bu4 sheng1 hong2 。
+- que4 lian2 tu3 su2 zhui1 shi2 jie2 ， yan2 yu3 sui1 shu1 yi4 yi4 tong2 。
 
 ## 注释
 

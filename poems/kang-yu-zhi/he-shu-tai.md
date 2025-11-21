@@ -6,9 +6,9 @@ titleSlug: he-shu-tai
 author: 康與之
 authorPinyin: kang1 yu3 zhi1
 authorSlug: kang-yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

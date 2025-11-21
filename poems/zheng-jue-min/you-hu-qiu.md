@@ -6,10 +6,10 @@ titleSlug: you-hu-qiu
 author: 鄭覺民
 authorPinyin: zheng4 jue2 min2
 authorSlug: zheng-jue-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

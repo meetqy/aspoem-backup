@@ -6,9 +6,9 @@ titleSlug: jiao-shan
 author: 范同
 authorPinyin: fan4 tong2
 authorSlug: fan-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

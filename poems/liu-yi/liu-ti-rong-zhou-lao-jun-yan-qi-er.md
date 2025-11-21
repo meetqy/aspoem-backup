@@ -6,10 +6,10 @@ titleSlug: liu-ti-rong-zhou-lao-jun-yan-qi-er
 author: 劉誼
 authorPinyin: liu2 yi4
 authorSlug: liu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

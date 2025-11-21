@@ -6,25 +6,21 @@ titleSlug: feng-yu
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 園林自有主，風雨苦無情。
-- 密葉枝枝綠，飛花片片輕。
-- 眼看春不住，醉任酒頻傾。
-- 何處鶯求友，時聞囀一聲。
+- 人生老去自多憂，索索逢春卻似秋。
+- 過盡百花初不省，何須風雨更添愁。
 
 ## 拼音
 
-- yuan2 lin2 zi4 you3 zhu3 ， feng1 yu3 ku3 wu2 qing2 。
-- mi4 ye4 zhi1 zhi1 lü4 ， fei1 hua1 pian4 pian4 qing1 。
-- yan3 kan4 chun1 bu2 zhu4 ， zui4 ren4 jiu3 bin1 qing1 。
-- he2 chu3 ying1 qiu2 you3 ， shi2 wen2 zhuan4 yi4 sheng1 。
+- ren2 sheng1 lao3 qu4 zi4 duo1 you1 ， suo3 suo3 feng2 chun1 que4 si4 qiu1 。
+- guo4 jin4 bai3 hua1 chu1 bu4 sheng3 ， he2 xu1 feng1 yu3 geng4 tian1 chou2 。
 
 ## 注释
 

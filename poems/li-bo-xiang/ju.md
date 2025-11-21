@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李伯祥
 authorPinyin: li3 bo2 xiang2
 authorSlug: li-bo-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-ceng-yuan-bo-ji-chao-hua-ju-chang-lao
 author: 高文虎
 authorPinyin: gao1 wen2 hu3
 authorSlug: gao-wen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

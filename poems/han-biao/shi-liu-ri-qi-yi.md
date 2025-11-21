@@ -6,25 +6,21 @@ titleSlug: shi-liu-ri-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不恨常疎隔，何疑欠討論。
-- 同心惟設飯，盡興亦空罇。
-- 日與樵爭席，時看子候門。
-- 山場風莽廣，溪港雨沉昏。
+- 紙上閑看舊談語，尊前試舉近歌詞。
+- 夜冷小窗欣我獨，歲殘深谷待他誰。
 
 ## 拼音
 
-- bu2 hen4 chang2 shu1 ge2 ， he2 yi2 qian4 tao3 lun4 。
-- tong2 xin1 wei2 she4 fan4 ， jin4 xing1 yi4 kong1 zun1 。
-- ri4 yu3 qiao2 zheng1 xi2 ， shi2 kan4 zi3 hou4 men2 。
-- shan1 chang3 feng1 mang3 guang3 ， xi1 gang3 yu3 chen2 hun1 。
+- zhi3 shang4 xian2 kan4 jiu4 tan2 yu3 ， zun1 qian2 shi4 ju3 jin4 ge1 ci2 。
+- ye4 leng3 xiao3 chuang1 xin1 wo3 du2 ， sui4 can2 shen1 gu3 dai4 ta1 shui2 。
 
 ## 注释
 

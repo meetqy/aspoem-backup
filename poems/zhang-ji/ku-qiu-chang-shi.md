@@ -9,22 +9,18 @@ authorSlug: zhang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 曾是先皇殿上臣，丹砂久服不成真。
-- 常騎馬在嘶空櫪，自作書留別故人。
-- 詩句徧傳天下口，朝衣偏送地中身。
-- 最悲昨日同遊處，看却春風樹樹新。
+- 丘公已歿故人稀，欲過街西更訪誰。
+- 每到子城東路上，憶君相逐入朝時。
 
 ## 拼音
 
-- ceng2 shi4 xian1 huang2 dian4 shang4 chen2 ， dan1 sha1 jiu3 fu2 bu4 cheng2 zhen1 。
-- chang2 qi2 ma3 zai4 si1 kong1 li4 ， zi4 zuo4 shu1 liu2 bie2 gu4 ren2 。
-- shi1 ju4 bian4 chuan2 tian1 xia4 kou3 ， chao2 yi1 pian1 song4 di4 zhong1 shen1 。
-- zui4 bei1 zuo2 ri4 tong2 you2 chu3 ， kan4 que4 chun1 feng1 shu4 shu4 xin1 。
+- qiu1 gong1 yi3 mo4 gu4 ren2 xi1 ， yu4 guo4 jie1 xi1 geng4 fang3 shui2 。
+- mei3 dao4 zi3 cheng2 dong1 lu4 shang0 ， yi4 jun1 xiang1 zhu2 ru4 chao2 shi2 。
 
 ## 注释
 

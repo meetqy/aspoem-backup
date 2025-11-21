@@ -6,10 +6,10 @@ titleSlug: xin-si-xia-si-yue-xing-xi-shan-yu-fu-wei-neng-ye-de-cao-lu-nan-ren-wu
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: chu-mu
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無我那虞物所侵，從教物與我相尋。
-- 雲頭翻墨任濃淡，山頂潑藍隨淺深。
-- 春色若空疑有著，天工雖巧實無心。
-- 可憐杜宇空多淚，更笑黄鸝强好音。
+- 筆頭紙上兩無功，擁被開篷眼自空。
+- 石脈直尋江脈去，山光元與水光同。
+- 春隨草木高低到，氣併乾坤裏外通。
+- 反顧有吾即無物，卓然獨立太虛中。
 
 ## 拼音
 
-- wu2 wo3 na4 yu2 wu4 suo3 qin1 ， cong2 jiao4 wu4 yu3 wo3 xiang1 xun2 。
-- yun2 tou2 fan1 mo4 ren4 nong2 dan4 ， shan1 ding3 po1 lan2 sui2 qian3 shen1 。
-- chun1 se4 ruo4 kong1 yi2 you3 zhu4 ， tian1 gong1 sui1 qiao3 shi2 wu2 xin1 。
-- ke3 lian2 du4 yu3 kong1 duo1 lei4 ， geng4 xiao4 huang2 li2 qiang2 hao3 yin1 。
+- bi3 tou2 zhi3 shang4 liang3 wu2 gong1 ， yong1 bei4 kai1 peng2 yan3 zi4 kong1 。
+- shi2 mai4 zhi2 xun2 jiang1 mai4 qu4 ， shan1 guang1 yuan2 yu3 shui3 guang1 tong2 。
+- chun1 sui2 cao3 mu4 gao1 di1 dao4 ， qi4 bing4 qian2 kun1 li3 wai4 tong1 。
+- fan3 gu4 you3 wu2 ji2 wu2 wu4 ， zhuo2 ran2 du2 li4 tai4 xu1 zhong1 。
 
 ## 注释
 

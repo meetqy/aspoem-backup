@@ -9,22 +9,22 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 錦幃初卷衛夫人，繡被猶堆越鄂君。
-- 垂手亂翻雕玉佩，招腰爭舞鬱金帬。
-- 石家蠟燭何曾剪，荀令香爐可待熏。
-- 我是夢中傳彩筆，欲書花葉寄朝雲。
+- 壓逕復緣溝，當窗又映樓。
+- 終銷一國破，不啻萬金求。
+- 鸞鳳戲三島，神仙居十洲。
+- 應憐萱草淡，却得號忘憂。
 
 ## 拼音
 
-- jin3 wei2 chu1 juan4 wei4 fu1 ren2 ， xiu4 bei4 you2 dui1 yue4 e4 jun1 。
-- chui2 shou3 luan4 fan1 diao1 yu4 pei4 ， zhao1 yao1 zheng1 wu3 yu4 jin1 qun2 。
-- shi2 jia1 la4 zhu2 he2 ceng2 jian3 ， xun2 ling4 xiang1 lu2 ke3 dai4 xun1 。
-- wo3 shi4 meng4 zhong1 chuan2 cai3 bi3 ， yu4 shu1 hua1 ye4 ji4 chao2 yun2 。
+- ya1 jing4 fu4 yuan2 gou1 ， dang1 chuang1 you4 ying4 lou2 。
+- zhong1 xiao1 yi4 guo2 po4 ， bu2 chi4 wan4 jin1 qiu2 。
+- luan2 feng4 xi4 san1 dao3 ， shen2 xian1 ju1 shi2 zhou1 。
+- ying1 lian2 xuan1 cao3 dan4 ， que4 de2 hao4 wang4 you1 。
 
 ## 注释
 

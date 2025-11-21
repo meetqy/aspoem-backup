@@ -6,10 +6,10 @@ titleSlug: song-gu-er-shou-bao-shou-kai-tang-san-sheng-tui-chu-yi-seng
 author: 釋本才
 authorPinyin: shi4 ben3 cai2
 authorSlug: shi-ben-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

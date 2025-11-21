@@ -6,10 +6,10 @@ titleSlug: you-jin-jing-shan
 author: 胡平仲
 authorPinyin: hu2 ping2 zhong4
 authorSlug: hu-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

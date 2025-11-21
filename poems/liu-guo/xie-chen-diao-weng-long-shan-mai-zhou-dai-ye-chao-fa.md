@@ -6,10 +6,10 @@ titleSlug: xie-chen-diao-weng-long-shan-mai-zhou-dai-ye-chao-fa
 author: 劉過
 authorPinyin: liu2 guo4
 authorSlug: liu-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

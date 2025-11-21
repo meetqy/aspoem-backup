@@ -6,21 +6,21 @@ titleSlug: shi-seng
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 白鶴山前是汝家，小時曾此採蘭芽。
-- 伊蘭勿作㫋檀樹，喚起凄凉五葉花。
+- 近時直指似蘭亭，棗木梅花總不真。
+- 哮本不逃蕭翼眼，諸方亦有姓蕭人。
 
 ## 拼音
 
-- bai2 he4 shan1 qian2 shi4 ru3 jia1 ， xiao3 shi2 ceng2 ci3 cai3 lan2 ya2 。
-- yi1 lan2 wu4 zuo4 㫋 tan2 shu4 ， huan4 qi3 qi1 liang2 wu3 ye4 hua1 。
+- jin4 shi2 zhi2 zhi3 si4 lan2 ting2 ， zao3 mu4 mei2 hua1 zong3 bu4 zhen1 。
+- xiao4 ben3 bu4 tao2 xiao1 yi4 yan3 ， zhu1 fang1 yi4 you3 xing4 xiao1 ren2 。
 
 ## 注释
 

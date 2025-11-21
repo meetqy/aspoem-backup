@@ -6,10 +6,10 @@ titleSlug: shi-yi-shou
 author: 張定千
 authorPinyin: zhang1 ding4 qian1
 authorSlug: zhang-ding-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

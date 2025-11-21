@@ -9,18 +9,18 @@ authorSlug: yuan-jie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾人苦兮，水深深。
-- 網罟設兮，水不深。
+- 萬姓苦兮，怨且哭。
+- 不有聖人兮，誰護育。
 
 ## 拼音
 
-- wu2 ren2 ku3 xi1 ， shui3 shen1 shen1 。
-- wang3 gu3 she4 xi1 ， shui3 bu4 shen1 。
+- wan4 xing4 ku3 xi1 ， yuan4 qie3 ku1 。
+- bu4 you3 sheng4 ren2 xi1 ， shui2 hu4 yu4 。
 
 ## 注释
 

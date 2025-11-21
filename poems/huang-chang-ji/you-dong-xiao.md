@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao
 author: 黄常吉
 authorPinyin: huang2 chang2 ji2
 authorSlug: huang-chang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

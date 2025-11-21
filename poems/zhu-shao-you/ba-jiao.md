@@ -6,10 +6,10 @@ titleSlug: ba-jiao
 author: 朱少游
 authorPinyin: zhu1 shao3 you2
 authorSlug: zhu-shao-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

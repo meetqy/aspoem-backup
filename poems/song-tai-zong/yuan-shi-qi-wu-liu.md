@@ -6,21 +6,21 @@ titleSlug: yuan-shi-qi-wu-liu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 崑崙山上玉樓前，五色祥光混紫煙。
-- 景物不同人世界，羣仙時醉卧花眠。
+- 玄元一氣不相監，清靜如存意馬銜。
+- 大隠居鄽迷小道，絕巔頂上白雲巖。
 
 ## 拼音
 
-- kun1 lun2 shan1 shang4 yu4 lou2 qian2 ， wu3 se4 xiang2 guang1 hun4 zi3 yan1 。
-- jing3 wu4 bu4 tong2 ren2 shi4 jie4 ， qun2 xian1 shi2 zui4 wo4 hua1 mian2 。
+- xuan2 yuan2 yi2 qi4 bu4 xiang1 jian1 ， qing1 jing4 ru2 cun2 yi4 ma3 xian2 。
+- da4 yin3 ju1 chan2 mi2 xiao3 dao4 ， jue2 dian1 ding3 shang4 bai2 yun2 yan2 。
 
 ## 注释
 

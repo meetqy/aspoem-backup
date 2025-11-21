@@ -6,25 +6,25 @@ titleSlug: pin-bing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行年七十尚携鉏，貧悴還如白紵初。
-- 好事鄰僧勤送米，過門谿友强留魚。
-- 客來旋過牆頭酒，睡起閑抽架上書。
-- 要信榮枯元不動，胸中浩浩著空虛。
+- 貧至今年劇，真無地置錐。
+- 判愁停貰酒，忍病罷迎醫。
+- 性懶非關老，天窮豈坐詩。
+- 秋風還欲到，便可數期頤。
 
 ## 拼音
 
-- xing2 nian2 qi1 shi2 shang4 xie2 chu2 ， pin2 cui4 huan2 ru2 bai2 zhu4 chu1 。
-- hao3 shi4 lin2 seng1 qin2 song4 mi3 ， guo4 men2 xi1 you3 qiang2 liu2 yu2 。
-- ke4 lai2 xuan2 guo4 qiang2 tou2 jiu3 ， shui4 qi3 xian2 chou1 jia4 shang4 shu1 。
-- yao4 xin4 rong2 ku1 yuan2 bu2 dong4 ， xiong1 zhong1 hao4 hao4 zhu4 kong1 xu1 。
+- pin2 zhi4 jin1 nian2 ju4 ， zhen1 wu2 di4 zhi4 zhui1 。
+- pan4 chou2 ting2 shi4 jiu3 ， ren3 bing4 ba4 ying2 yi1 。
+- xing4 lan3 fei1 guan1 lao3 ， tian1 qiong2 qi3 zuo4 shi1 。
+- qiu1 feng1 huan2 yu4 dao4 ， bian4 ke3 shu4 qi1 yi2 。
 
 ## 注释
 

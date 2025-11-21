@@ -6,10 +6,10 @@ titleSlug: wang-jia-ge-su-you-qi-pi-chang-wu-he-pian-zhong-ji-qi-bu-gong-jia-ge-
 author: 危稹
 authorPinyin: wei1 zhen3
 authorSlug: wei-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

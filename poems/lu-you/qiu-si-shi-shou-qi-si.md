@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 村南村北鵓鴣鳴，小雨霏霏又作晴。
-- 拂枕欹眠不成夢，却拖藤杖出門行。
+- 才不才間未必全，胸中元自要超然。
+- 黄金不博身强健，且醉江湖萬里天。
 
 ## 拼音
 
-- cun1 nan2 cun1 bei3 bo2 gu1 ming2 ， xiao3 yu3 fei1 fei1 you4 zuo4 qing2 。
-- fu2 zhen3 qi1 mian2 bu4 cheng2 meng4 ， que4 tuo1 teng2 zhang4 chu1 men2 xing2 。
+- cai2 bu0 cai2 jian4 wei4 bi4 quan2 ， xiong1 zhong1 yuan2 zi4 yao4 chao1 ran2 。
+- huang2 jin1 bu4 bo2 shen1 qiang2 jian4 ， qie3 zui4 jiang1 hu2 wan4 li3 tian1 。
 
 ## 注释
 

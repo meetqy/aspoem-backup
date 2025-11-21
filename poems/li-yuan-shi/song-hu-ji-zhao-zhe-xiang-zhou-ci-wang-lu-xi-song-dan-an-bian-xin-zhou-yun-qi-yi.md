@@ -6,10 +6,10 @@ titleSlug: song-hu-ji-zhao-zhe-xiang-zhou-ci-wang-lu-xi-song-dan-an-bian-xin-zho
 author: 李元實
 authorPinyin: li3 yuan2 shi2
 authorSlug: li-yuan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

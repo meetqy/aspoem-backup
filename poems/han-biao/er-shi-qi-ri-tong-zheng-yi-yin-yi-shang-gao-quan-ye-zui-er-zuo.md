@@ -6,10 +6,10 @@ titleSlug: er-shi-qi-ri-tong-zheng-yi-yin-yi-shang-gao-quan-ye-zui-er-zuo
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

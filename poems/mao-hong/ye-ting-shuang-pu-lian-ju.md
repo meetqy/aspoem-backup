@@ -6,10 +6,10 @@ titleSlug: ye-ting-shuang-pu-lian-ju
 author: 毛宏
 authorPinyin: mao2 hong2
 authorSlug: mao-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

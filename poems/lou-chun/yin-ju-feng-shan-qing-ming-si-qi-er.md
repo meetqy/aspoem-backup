@@ -6,10 +6,10 @@ titleSlug: yin-ju-feng-shan-qing-ming-si-qi-er
 author: 樓淳
 authorPinyin: lou2 chun2
 authorSlug: lou-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

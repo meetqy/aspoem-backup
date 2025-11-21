@@ -6,10 +6,10 @@ titleSlug: jing-shan-ke-di-ti-bi
 author: 范萬頃
 authorPinyin: fan4 wan4 qing3
 authorSlug: fan-wan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

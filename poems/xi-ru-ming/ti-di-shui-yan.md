@@ -6,10 +6,10 @@ titleSlug: ti-di-shui-yan
 author: 席汝明
 authorPinyin: xi2 ru3 ming2
 authorSlug: xi-ru-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

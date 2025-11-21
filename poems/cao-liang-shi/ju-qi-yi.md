@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 曹良史
 authorPinyin: cao2 liang2 shi3
 authorSlug: cao-liang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

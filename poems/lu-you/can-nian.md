@@ -6,25 +6,25 @@ titleSlug: can-nian
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘年迫鍾漏，病骨怯風霜。
-- 投幘早當去，強顔徒自傷。
-- 文符紛似雨，訟訴進如牆。
-- 笑殺滄浪客，微官有許忙。
+- 殘年光景易駸駸，屏迹江村不厭深。
+- 新麥熟時蠶上簇，晚鶑啼處柳成陰。
+- 短檠已負觀書眼，孤劍空懷許國心。
+- 惟有雲山差可樂，杖藜誰與伴幽尋。
 
 ## 拼音
 
-- can2 nian2 po4 zhong1 lou4 ， bing4 gu3 qie4 feng1 shuang1 。
-- tou2 ze2 zao3 dang1 qu4 ， qiang2 yan2 tu2 zi4 shang1 。
-- wen2 fu2 fen1 si4 yu3 ， song4 su4 jin4 ru2 qiang2 。
-- xiao4 sha1 cang1 lang4 ke4 ， wei1 guan1 you3 xu1 mang2 。
+- can2 nian2 guang1 jing3 yi4 qin1 qin1 ， ping2 ji4 jiang1 cun1 bu2 yan4 shen1 。
+- xin1 mai4 shu2 shi2 can2 shang4 cu4 ， wan3 ying1 ti2 chu3 liu3 cheng2 yin1 。
+- duan3 qing2 yi3 fu4 guan1 shu1 yan3 ， gu1 jian4 kong1 huai2 xu1 guo2 xin1 。
+- wei2 you3 yun2 shan1 cha1 ke3 le4 ， zhang4 li2 shui2 yu3 ban4 you1 xun2 。
 
 ## 注释
 

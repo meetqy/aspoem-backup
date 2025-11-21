@@ -6,25 +6,25 @@ titleSlug: jiu-yu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昏昏風雨暗東湖，恰似梅黄四月初。
-- 高樹送聲驚客枕，小池分溜入清渠。
-- 飛蚊屏迹知何在，團扇生塵已暗疏。
-- 須信西遊有奇事，今年三伏夜觀書。
+- 風雨連旬日，屢空猶晏如。
+- 敢言苔及榻，僅免釜生魚。
+- 薺糝朝供鉢，松肪夜照書。
+- 百年如此過，作計未全疏。
 
 ## 拼音
 
-- hun1 hun1 feng1 yu3 an4 dong1 hu2 ， qia4 si4 mei2 huang2 si4 yue4 chu1 。
-- gao1 shu4 song4 sheng1 jing1 ke4 zhen3 ， xiao3 chi2 fen1 liu1 ru4 qing1 qu2 。
-- fei1 wen2 ping2 ji4 zhi1 he2 zai4 ， tuan2 shan4 sheng1 chen2 yi3 an4 shu1 。
-- xu1 xin4 xi1 you2 you3 qi2 shi4 ， jin1 nian2 san1 fu2 ye4 guan1 shu1 。
+- feng1 yu3 lian2 xun2 ri4 ， lü3 kong1 you2 yan4 ru2 。
+- gan3 yan2 tai2 ji2 ta4 ， jin3 mian3 fu3 sheng1 yu2 。
+- ji4 san3 chao2 gong4 bo1 ， song1 fang2 ye4 zhao4 shu1 。
+- bai3 nian2 ru2 ci3 guo4 ， zuo4 ji4 wei4 quan2 shu1 。
 
 ## 注释
 

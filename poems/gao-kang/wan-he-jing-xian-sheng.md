@@ -6,9 +6,9 @@ titleSlug: wan-he-jing-xian-sheng
 author: 高閌
 authorPinyin: gao1 kang1
 authorSlug: gao-kang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

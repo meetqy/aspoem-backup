@@ -6,10 +6,10 @@ titleSlug: hu-ju-za-xing-ba-shou-qi-si
 author: 白珽
 authorPinyin: bai2 ting3
 authorSlug: bai-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

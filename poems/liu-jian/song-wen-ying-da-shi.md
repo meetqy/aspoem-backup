@@ -16,15 +16,15 @@ tags: []
 
 - 屈指平陽別社蓮，蟾光一百度曾圓。
 - 孤雲自在知何處，薄宦參差亦信緣。
-- 山郡披風方穆若，花時分袂更凄然。
-- 摇鞭相送嘉陵岸，迴首羣峰隔囊邊。
+- 山郡披風方穆若，花時分袂更淒然。
+- 搖鞭相送嘉陵岸，回首羣峰隔翠煙。
 
 ## 拼音
 
 - qu1 zhi3 ping2 yang2 bie2 she4 lian2 ， chan2 guang1 yi4 bai3 du4 ceng2 yuan2 。
 - gu1 yun2 zi4 zai4 zhi1 he2 chu3 ， bao2 huan4 can1 cha4 yi4 xin4 yuan2 。
 - shan1 jun4 pi1 feng1 fang1 mu4 ruo4 ， hua1 shi2 fen1 mei4 geng4 qi1 ran2 。
-- yao2 bian1 xiang1 song4 jia1 ling2 an4 ， hui2 shou3 qun2 feng1 ge2 nang2 bian1 。
+- yao2 bian1 xiang1 song4 jia1 ling2 an4 ， hui2 shou3 qun2 feng1 ge2 cui4 yan1 。
 
 ## 注释
 

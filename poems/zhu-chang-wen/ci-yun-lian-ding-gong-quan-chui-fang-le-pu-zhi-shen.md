@@ -6,10 +6,10 @@ titleSlug: ci-yun-lian-ding-gong-quan-chui-fang-le-pu-zhi-shen
 author: 朱長文
 authorPinyin: zhu1 chang2 wen2
 authorSlug: zhu-chang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

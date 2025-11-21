@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋道完
 authorPinyin: shi4 dao4 wan2
 authorSlug: shi-dao-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

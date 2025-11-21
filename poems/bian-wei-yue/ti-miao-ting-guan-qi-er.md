@@ -6,10 +6,10 @@ titleSlug: ti-miao-ting-guan-qi-er
 author: 邊維嶽
 authorPinyin: bian1 wei2 yue4
 authorSlug: bian-wei-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

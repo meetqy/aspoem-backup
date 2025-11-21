@@ -6,10 +6,10 @@ titleSlug: wu-yin-la-yue-er-shi-ri-kong-keng-bai-bei-zhi-yu-jin-er-zhou-nian-yi-
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

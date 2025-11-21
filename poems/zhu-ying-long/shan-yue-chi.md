@@ -6,10 +6,10 @@ titleSlug: shan-yue-chi
 author: 朱應龍
 authorPinyin: zhu1 ying1 long2
 authorSlug: zhu-ying-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

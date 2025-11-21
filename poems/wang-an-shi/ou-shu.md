@@ -6,21 +6,21 @@ titleSlug: ou-shu
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 惠施說萬物，槃特忘一句。
-- 寄語讀書人，呶呶非勝處。
+- 穰侯老擅關中事，長恐諸侯客子來。
+- 我亦暮年專一壑，每逢車馬便驚猜。
 
 ## 拼音
 
-- hui4 shi1 shuo1 wan4 wu4 ， pan2 te4 wang4 yi2 ju4 。
-- ji4 yu3 du2 shu1 ren2 ， nao2 nao2 fei1 sheng4 chu3 。
+- rang2 hou2 lao3 shan4 guan1 zhong1 shi4 ， chang2 kong3 zhu1 hou2 ke4 zi3 lai2 。
+- wo3 yi4 mu4 nian2 zhuan1 yi2 he4 ， mei3 feng2 ju1 ma3 bian4 jing1 cai1 。
 
 ## 注释
 

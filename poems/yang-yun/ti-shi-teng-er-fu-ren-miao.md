@@ -6,10 +6,10 @@ titleSlug: ti-shi-teng-er-fu-ren-miao
 author: 楊筠
 authorPinyin: yang2 yun2
 authorSlug: yang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

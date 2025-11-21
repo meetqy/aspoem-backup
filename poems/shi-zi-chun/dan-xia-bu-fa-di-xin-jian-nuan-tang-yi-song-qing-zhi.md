@@ -6,10 +6,10 @@ titleSlug: dan-xia-bu-fa-di-xin-jian-nuan-tang-yi-song-qing-zhi
 author: 釋子淳
 authorPinyin: shi4 zi3 chun2
 authorSlug: shi-zi-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

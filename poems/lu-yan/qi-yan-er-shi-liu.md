@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 閉目存神玉戶觀，時來火候遞相傳。
-- 雲飛海面龍吞汞，風擊巖巔虎伏鉛。
-- 一旦煉成身內寶，等閑探得道中玄。
-- 刀圭餌了丹書降，跳出塵籠上九天。
+- 天生不散自然心，成敗從來古與今。
+- 得路應知能出世，迷途終是任埋沈。
+- 身邊至藥堪攻煉，物外丹砂且細尋。
+- 咫尺洞房仙景在，莫隨波浪沒光陰。
 
 ## 拼音
 
-- bi4 mu4 cun2 shen2 yu4 hu4 guan1 ， shi2 lai2 huo3 hou4 di4 xiang1 chuan2 。
-- yun2 fei1 hai3 mian4 long2 tun1 gong3 ， feng1 ji1 yan2 dian1 hu3 fu2 qian1 。
-- yi2 dan4 lian4 cheng2 shen1 nei4 bao3 ， deng3 xian2 tan4 de2 dao4 zhong1 xuan2 。
-- dao1 gui1 er3 le0 dan1 shu1 jiang4 ， tiao4 chu1 chen2 long2 shang4 jiu3 tian1 。
+- tian1 sheng1 bu2 san4 zi4 ran2 xin1 ， cheng2 bai4 cong2 lai2 gu3 yu3 jin1 。
+- de2 lu4 ying1 zhi1 neng2 chu1 shi4 ， mi2 tu2 zhong1 shi4 ren4 mai2 shen3 。
+- shen1 bian1 zhi4 yao4 kan1 gong1 lian4 ， wu4 wai4 dan1 sha1 qie3 xi4 xun2 。
+- zhi3 chi3 dong4 fang2 xian1 jing3 zai4 ， mo4 sui2 bo1 lang4 mei2 guang1 yin1 。
 
 ## 注释
 

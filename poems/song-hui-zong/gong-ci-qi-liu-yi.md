@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 杏梢梅蘂遍飄香，藻荇縈紆滿碧塘。
-- 嬌怯畫船推俯岸，閑看風力蹙波光。
+- 宴殿勻將蜀錦鋪，花明金赫麗簪裾。
+- 舞茵全似朝霞散，十二金鸞面玉除。
 
 ## 拼音
 
-- xing4 shao1 mei2 rui3 bian4 piao1 xiang1 ， zao3 xing4 ying2 yu1 man3 bi4 tang2 。
-- jiao1 qie4 hua4 chuan2 tui1 fu3 an4 ， xian2 kan4 feng1 li4 cu4 bo1 guang1 。
+- yan4 dian4 yun2 jiang1 shu3 jin3 pu1 ， hua1 ming2 jin1 he4 li2 zan1 ju1 。
+- wu3 yin1 quan2 si4 zhao1 xia2 san4 ， shi2 er4 jin1 luan2 mian4 yu4 chu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: bi-quan-jiu-ri-you-gan-qi-er
 author: 胡宏
 authorPinyin: hu2 hong2
 authorSlug: hu-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

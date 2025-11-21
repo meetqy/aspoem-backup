@@ -1,26 +1,26 @@
 ---
 id: wang-yuan-liang-xi-hu-jiu-meng-qi-yi
-title: 西湖舊夢  其一
-titlePinyin: xi1 hu2 jiu4 meng4     qi2 yi1
+title: 西湖舊夢  其一○
+titlePinyin: xi1 hu2 jiu4 meng4     qi2 yi1 ○
 titleSlug: xi-hu-jiu-meng-qi-yi
 author: 汪元量
 authorPinyin: wang1 yuan2 liang4
 authorSlug: wang-yuan-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南高峰對北高峰，十里荷花九里松。
-- 煙雨樓臺僧占了，西湖風月屬吾儂。
+- 六花飛舞似鵝毛，丞相身穿御賜袍。
+- 不念長安有貧者，下湖打鼓飲羊羔。
 
 ## 拼音
 
-- nan2 gao1 feng1 dui4 bei3 gao1 feng1 ， shi2 li3 he2 hua1 jiu3 li3 song1 。
-- yan1 yu3 lou2 tai2 seng1 zhan4 le0 ， xi1 hu2 feng1 yue4 shu3 wu2 nong2 。
+- liu4 hua1 fei1 wu3 si4 e2 mao2 ， cheng2 xiang4 shen1 chuan1 yu4 ci4 pao2 。
+- bu2 nian4 chang2 an1 you3 pin2 zhe3 ， xia4 hu2 da3 gu3 yin3 yang2 gao1 。
 
 ## 注释
 

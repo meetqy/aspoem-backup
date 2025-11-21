@@ -6,10 +6,10 @@ titleSlug: ti-mei-ling-fo-ci-bi
 author: 英州司寇女
 authorPinyin: ying1 zhou1 si1 kou4 nü3
 authorSlug: ying-zhou-si-kou-nu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

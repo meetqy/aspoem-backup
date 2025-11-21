@@ -6,10 +6,10 @@ titleSlug: you-ma-ping-xian-yi-dong
 author: 趙與霦
 authorPinyin: zhao4 yu3 bin1
 authorSlug: zhao-yu-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

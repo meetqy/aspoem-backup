@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-ba
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 寂靜人歌詠，愚情豈易知。
-- 但求心自樂，不怕面相欺。
-- 枉直回邪滅，顛狂道德持。
-- 高明常鑒照，方寸欲何之。
+- 花間春鳥語喈喈，道在其中動我懷。
+- 紅艷幾時長久住，年年依舊看相挨。
 
 ## 拼音
 
-- ji4 jing4 ren2 ge1 yong3 ， yu2 qing2 qi3 yi4 zhi1 。
-- dan4 qiu2 xin1 zi4 le4 ， bu2 pa4 mian4 xiang1 qi1 。
-- wang3 zhi2 hui2 xie2 mie4 ， dian1 kuang2 dao4 de2 chi2 。
-- gao1 ming2 chang2 jian4 zhao4 ， fang1 cun4 yu4 he2 zhi1 。
+- hua1 jian4 chun1 niao3 yu3 jie1 jie1 ， dao4 zai4 qi2 zhong1 dong4 wo3 huai2 。
+- hong2 yan4 ji1 shi2 chang2 jiu3 zhu4 ， nian2 nian2 yi1 jiu4 kan4 xiang4 ai1 。
 
 ## 注释
 

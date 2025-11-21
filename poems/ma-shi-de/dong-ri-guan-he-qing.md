@@ -6,10 +6,10 @@ titleSlug: dong-ri-guan-he-qing
 author: 馬世德
 authorPinyin: ma3 shi4 de2
 authorSlug: ma-shi-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

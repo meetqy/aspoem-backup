@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-le-xian-sheng-wu-zhong-jian-ji-ba-shou-qi-ba
-title: 次韻樂先生吳中見寄八首・其八
-titlePinyin: ci4 yun4 le4 xian1 sheng0 wu2 zhong1 jian4 ji4 ba1 shou3・qi2 ba1
+title: 次韻樂先生吳中見寄八首  其八
+titlePinyin: ci4 yun4 le4 xian1 sheng0 wu2 zhong1 jian4 ji4 ba1 shou3     qi2 ba1
 titleSlug: ci-yun-le-xian-sheng-wu-zhong-jian-ji-ba-shou-qi-ba
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

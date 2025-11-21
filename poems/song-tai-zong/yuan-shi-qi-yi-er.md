@@ -6,25 +6,29 @@ titleSlug: yuan-shi-qi-yi-er
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 謙遜明然得，滋章道理疏。
-- 榮枯皆定分，巧拙亦何如。
-- 撫俗從仁感，臨民用教敷。
-- 高明歸輔德，建立紀功書。
+- 我曾聞昆吾有鐵，九鍊方成冰似雪。
+- 玉彩精晶耀日月，風霜凜凜甚威烈。
+- 新磨刃上七星文，誰敢鋒前布陳雲。
+- 黯黯凌空魑魅怕，銷盡邪魔并詭詐。
+- 寒光到處鬼神愁，哮吼乾坤一片秋。
+- 龍泉劍，龍泉劍，我用似波流，昇平無事匣中收。
 
 ## 拼音
 
-- qian1 xun4 ming2 ran2 de2 ， zi1 zhang1 dao4 li3 shu1 。
-- rong2 ku1 jie1 ding4 fen1 ， qiao3 zhuo1 yi4 he2 ru2 。
-- fu3 su2 cong2 ren2 gan3 ， lin2 min2 yong4 jiao4 fu1 。
-- gao1 ming2 gui1 fu3 de2 ， jian4 li4 ji4 gong1 shu1 。
+- wo3 ceng2 wen2 kun1 wu2 you3 tie3 ， jiu3 lian4 fang1 cheng2 bing1 si4 xue3 。
+- yu4 cai3 jing1 jing1 yao4 ri4 yue4 ， feng1 shuang1 lin3 lin3 shen4 wei1 lie4 。
+- xin1 mo2 ren4 shang4 qi1 xing1 wen2 ， shui2 gan3 feng1 qian2 bu4 chen2 yun2 。
+- an4 an4 ling2 kong1 chi1 mei4 pa4 ， xiao1 jin4 xie2 mo2 bing4 gui3 zha4 。
+- han2 guang1 dao4 chu3 gui3 shen2 chou2 ， xiao4 hou3 qian2 kun1 yi2 pian4 qiu1 。
+- long2 quan2 jian4 ， long2 quan2 jian4 ， wo3 yong4 si4 bo1 liu2 ， sheng1 ping2 wu2 shi4 xia2 zhong1 shou1 。
 
 ## 注释
 

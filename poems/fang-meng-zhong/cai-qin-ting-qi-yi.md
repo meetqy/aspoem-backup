@@ -1,26 +1,26 @@
 ---
 id: fang-meng-zhong-cai-qin-ting-qi-yi
-title: 采芹亭  其一
-titlePinyin: cai3 qin2 ting2     qi2 yi1
+title: 采芹亭  其一○
+titlePinyin: cai3 qin2 ting2     qi2 yi1 ○
 titleSlug: cai-qin-ting-qi-yi
 author: 方蒙仲
 authorPinyin: fang1 meng2 zhong4
 authorSlug: fang-meng-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百年亭子一朝新，三舍先生遇拂塵。
-- 城裏看花多處所，此中只待采芹人。
+- 眼中光景幾回新，無限英雄一窖塵。
+- 但說百年亭已老，不知曾有百年人。
 
 ## 拼音
 
-- bai3 nian2 ting2 zi0 yi4 zhao1 xin1 ， san1 she4 xian1 sheng0 yu4 fu2 chen2 。
-- cheng2 li3 kan4 hua1 duo1 chu3 suo3 ， ci3 zhong1 zhi1 dai4 cai3 qin2 ren2 。
+- yan3 zhong1 guang1 jing3 ji1 hui2 xin1 ， wu2 xian4 ying1 xiong2 yi2 jiao4 chen2 。
+- dan4 shuo1 bai3 nian2 ting2 yi3 lao3 ， bu4 zhi1 ceng2 you3 bai3 nian2 ren2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xuan-he-si-nian-wu-yue-xin-hai-zhao-yi-shen-zong-huang-di-suo-shu-din
 author: 趙鼎臣
 authorPinyin: zhao4 ding3 chen2
 authorSlug: zhao-ding-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

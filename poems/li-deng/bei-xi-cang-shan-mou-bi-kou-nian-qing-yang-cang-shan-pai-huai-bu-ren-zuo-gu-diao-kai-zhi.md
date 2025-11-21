@@ -6,10 +6,10 @@ titleSlug: bei-xi-cang-shan-mou-bi-kou-nian-qing-yang-cang-shan-pai-huai-bu-ren-
 author: 利登
 authorPinyin: li4 deng1
 authorSlug: li-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

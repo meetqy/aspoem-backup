@@ -6,10 +6,10 @@ titleSlug: ju
 author: 張縝
 authorPinyin: zhang1 zhen3
 authorSlug: zhang-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

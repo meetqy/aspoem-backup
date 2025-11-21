@@ -6,10 +6,10 @@ titleSlug: ti-weng-yan
 author: 張綬
 authorPinyin: zhang1 shou4
 authorSlug: zhang-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

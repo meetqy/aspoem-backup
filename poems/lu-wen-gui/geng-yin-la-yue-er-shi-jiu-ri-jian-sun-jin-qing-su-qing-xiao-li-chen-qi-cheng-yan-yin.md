@@ -6,10 +6,10 @@ titleSlug: geng-yin-la-yue-er-shi-jiu-ri-jian-sun-jin-qing-su-qing-xiao-li-chen-
 author: 陸文圭
 authorPinyin: lu4 wen2 gui1
 authorSlug: lu-wen-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

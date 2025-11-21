@@ -6,10 +6,10 @@ titleSlug: jiang-deng-nan-yue-jue-ding-er-zhi-shang-ren-yi-xiao-tuan-dou-kua-jia
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

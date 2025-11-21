@@ -6,25 +6,25 @@ titleSlug: wan-qiao-min-zhan
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 世德書青史，榮名在本朝。
-- 如何元士葬，不得大夫招。
-- 惆悵空蕭瑟，秋風正泬寥。
-- 搖看古原上，松柏暮蕭蕭。
+- 楚鄉槐市憶當年，錦繡文章六藝先。
+- 朱紱哀憐應有在，白頭故舊各淒然。
+- 修文地下埋英骨，遺愛江城付綵編。
+- 造化於公意良厚，不教丹旐涉長川。
 
 ## 拼音
 
-- shi4 de2 shu1 qing1 shi3 ， rong2 ming2 zai4 ben3 chao2 。
-- ru2 he2 yuan2 shi4 zang4 ， bu4 de2 dai4 fu0 zhao1 。
-- chou2 chang4 kong1 xiao1 se4 ， qiu1 feng1 zheng4 jue2 liao2 。
-- yao2 kan4 gu3 yuan2 shang4 ， song1 bai3 mu4 xiao1 xiao1 。
+- chu3 xiang1 huai2 shi4 yi4 dang1 nian2 ， jin3 xiu4 wen2 zhang1 liu4 yi4 xian1 。
+- zhu1 fu2 ai1 lian2 ying1 you3 zai4 ， bai2 tou2 gu4 jiu4 ge4 qi1 ran2 。
+- xiu1 wen2 di4 xia4 mai2 ying1 gu3 ， yi2 ai4 jiang1 cheng2 fu4 cai3 bian1 。
+- zao4 hua4 wu1 gong1 yi4 liang2 hou4 ， bu2 jiao4 dan1 zhao4 she4 chang2 chuan1 。
 
 ## 注释
 

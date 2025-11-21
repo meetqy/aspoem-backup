@@ -6,10 +6,10 @@ titleSlug: hua-qing-gong
 author: 楊正倫
 authorPinyin: yang2 zheng4 lun2
 authorSlug: yang-zheng-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

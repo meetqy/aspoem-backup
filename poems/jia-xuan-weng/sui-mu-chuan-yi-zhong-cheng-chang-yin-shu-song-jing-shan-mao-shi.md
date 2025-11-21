@@ -6,10 +6,10 @@ titleSlug: sui-mu-chuan-yi-zhong-cheng-chang-yin-shu-song-jing-shan-mao-shi
 author: 家鉉翁
 authorPinyin: jia1 xuan4 weng1
 authorSlug: jia-xuan-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

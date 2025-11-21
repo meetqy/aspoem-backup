@@ -6,10 +6,10 @@ titleSlug: qing-shi-lang-qi-er
 author: 趙孟僖
 authorPinyin: zhao4 meng4 xi1
 authorSlug: zhao-meng-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

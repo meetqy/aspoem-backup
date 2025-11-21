@@ -6,9 +6,9 @@ titleSlug: chun-jian-xiao-shi-shu-zhao-yuan-bi-zhui-lu-zhi-qi-yi
 author: 朱槔
 authorPinyin: zhu1 gao1
 authorSlug: zhu-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

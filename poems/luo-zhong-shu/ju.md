@@ -15,10 +15,14 @@ tags: []
 ## 正文
 
 - 張鴻詩在楞伽峽，韓愈碑留燕喜亭。
+- （《輿地紀勝》卷九二《連州》。
+- ）。
 
 ## 拼音
 
 - zhang1 hong2 shi1 zai4 leng2 qie2 xia2 ， han2 yu4 bei1 liu2 yan4 xi3 ting2 。
+- （《 yu2 di4 ji4 sheng4 》 juan4 jiu3 er4 《 lian2 zhou1 》。
+- ）。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-mei-tan-mao-qing-fu-yun-yue-lou-er-shou-qi-yi
 author: 蕭泰來
 authorPinyin: xiao1 tai4 lai2
 authorSlug: xiao-tai-lai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

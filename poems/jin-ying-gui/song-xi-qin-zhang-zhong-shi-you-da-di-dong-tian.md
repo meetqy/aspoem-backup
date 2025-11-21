@@ -6,10 +6,10 @@ titleSlug: song-xi-qin-zhang-zhong-shi-you-da-di-dong-tian
 author: 金應桂
 authorPinyin: jin1 ying1 gui4
 authorSlug: jin-ying-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

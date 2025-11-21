@@ -6,25 +6,21 @@ titleSlug: bing-qi-er-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吏民兩兩議公癡，簿領空勤笑語稀。
-- 元亮有詩新止酒，休文多病不勝衣。
-- 飛塵嬾拂孤三絕，止水初澄悟百非。
-- 窗度凉颸殘午夢，閑聽喜鵲啅斜暉。
+- 老去難堪痼疾纏，支離甘受衆人憐。
+- 出門定被將迎困，緊閉風窗聽雨眠。
 
 ## 拼音
 
-- li4 min2 liang3 liang3 yi4 gong1 chi1 ， bo2 ling3 kong1 qin2 xiao4 yu3 xi1 。
-- yuan2 liang4 you3 shi1 xin1 zhi3 jiu3 ， xiu1 wen2 duo1 bing4 bu2 sheng4 yi1 。
-- fei1 chen2 lan3 fu2 gu1 san1 jue2 ， zhi3 shui3 chu1 cheng2 wu4 bai3 fei1 。
-- chuang1 du4 liang2 si1 can2 wu3 meng4 ， xian2 ting1 xi3 que4 zhuo2 xie2 hui1 。
+- lao3 qu4 nan2 kan1 gu4 ji2 chan2 ， zhi1 li2 gan1 shou4 zhong4 ren2 lian2 。
+- chu1 men2 ding4 bei4 jiang1 ying2 kun4 ， jin3 bi4 feng1 chuang1 ting1 yu3 mian2 。
 
 ## 注释
 

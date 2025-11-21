@@ -6,10 +6,10 @@ titleSlug: ti-you-shi
 author: 太史章
 authorPinyin: tai4 shi3 zhang1
 authorSlug: tai-shi-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: zai-yong-qian-yun-qi-yi
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東君作意欲先春，故放千林火速新。
-- 風急亂飄初眩眼，地空遠望忽迷神。
-- 簷楹不動垂冰柱，庭戶無聲糝玉塵。
-- 留取寒光待元夕，一時燈月付遊人。
+- 秋著寒花取次生，千叢向曉露珠盈。
+- 根靈不止芝房秀，香遠仍分桂子清。
+- 弄雪飄颻疑玉女，迎風綽約認瑶英。
+- 品題自是推詞伯，誰道詩中只庶兄。
 
 ## 拼音
 
-- dong1 jun1 zuo4 yi4 yu4 xian1 chun1 ， gu4 fang4 qian1 lin2 huo3 su4 xin1 。
-- feng1 ji2 luan4 piao1 chu1 xuan4 yan3 ， di4 kong1 yuan3 wang4 hu1 mi2 shen2 。
-- yan2 ying2 bu2 dong4 chui2 bing1 zhu4 ， ting2 hu4 wu2 sheng1 san3 yu4 chen2 。
-- liu2 qu3 han2 guang1 dai4 yuan2 xi1 ， yi4 shi2 deng1 yue4 fu4 you2 ren2 。
+- qiu1 zhu4 han2 hua1 qu3 ci4 sheng1 ， qian1 cong2 xiang4 xiao3 lu4 zhu1 ying2 。
+- gen1 ling2 bu4 zhi3 zhi1 fang2 xiu4 ， xiang1 yuan3 reng2 fen1 gui4 zi3 qing1 。
+- nong4 xue3 piao1 yao2 yi2 yu4 nü3 ， ying2 feng1 chuo4 yue1 ren4 yao2 ying1 。
+- pin3 ti2 zi4 shi4 tui1 ci2 bo2 ， shui2 dao4 shi1 zhong1 zhi1 shu4 xiong1 。
 
 ## 注释
 

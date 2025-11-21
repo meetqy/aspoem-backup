@@ -6,9 +6,9 @@ titleSlug: dong-qian-xue-zhu-ye-xia-zao-wen-yuan-shan-jie-bai
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

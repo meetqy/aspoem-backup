@@ -6,10 +6,10 @@ titleSlug: yu-hang-fa-xi-yuan-jing-wen-gong-shu-tang-wen-gong-kang-ding-zhong-du
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

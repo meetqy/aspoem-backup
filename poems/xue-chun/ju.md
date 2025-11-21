@@ -6,10 +6,10 @@ titleSlug: ju
 author: 薛純
 authorPinyin: xue1 chun2
 authorSlug: xue-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

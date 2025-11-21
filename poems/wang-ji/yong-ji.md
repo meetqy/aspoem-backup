@@ -3,13 +3,13 @@ id: wang-ji-yong-ji
 title: 詠妓
 titlePinyin: yong3 ji4
 titleSlug: yong-ji
-author: 王績
+author: 王勣
 authorPinyin: wang2 ji4
 authorSlug: wang-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

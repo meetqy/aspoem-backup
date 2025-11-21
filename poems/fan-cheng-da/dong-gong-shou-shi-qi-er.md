@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-dong-gong-shou-shi-qi-er
-title: 東宮壽詩・其二
-titlePinyin: dong1 gong1 shou4 shi1・qi2 er4
+title: 東宮壽詩  其二
+titlePinyin: dong1 gong1 shou4 shi1     qi2 er4
 titleSlug: dong-gong-shou-shi-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

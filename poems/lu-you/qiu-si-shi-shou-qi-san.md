@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一篇舊草天台賦，六幅新傳太華圖。
-- 占盡人間清絕事，紫藤香起竹根爐。
+- 臨海銅燈喜夜長，蘄春笛簟怨秋凉。
+- 世間生滅無窮境，盡付山房一炷香。
 
 ## 拼音
 
-- yi4 pian1 jiu4 cao3 tian1 tai2 fu4 ， liu4 fu2 xin1 chuan2 tai4 hua2 tu2 。
-- zhan4 jin4 ren2 jian4 qing1 jue2 shi4 ， zi3 teng2 xiang1 qi3 zhu2 gen1 lu2 。
+- lin2 hai3 tong2 deng1 xi3 ye4 chang2 ， qi2 chun1 di2 dian4 yuan4 qiu1 liang2 。
+- shi4 jian4 sheng1 mie4 wu2 qiong2 jing4 ， jin4 fu4 shan1 fang2 yi2 zhu4 xiang1 。
 
 ## 注释
 

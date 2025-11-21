@@ -1,26 +1,26 @@
 ---
 id: lu-you-chun-ri-za-xing-shi-er-shou-qi-yi
-title: 春日雜興十二首  其一
-titlePinyin: chun1 ri4 za2 xing1 shi2 er4 shou3     qi2 yi1
+title: 春日雜興十二首  其一○
+titlePinyin: chun1 ri4 za2 xing1 shi2 er4 shou3     qi2 yi1 ○
 titleSlug: chun-ri-za-xing-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 方塘盎盎带泥渾，遠草青青沒燒痕。
-- 只道雨晴春晝永，歸時不覺已黄昏。
+- 陰晴不定春猶淺，困健相兼病未蘇。
+- 見說市樓新酒美，杖頭今日一錢無。
 
 ## 拼音
 
-- fang1 tang2 ang4 ang4 dai4 ni2 hun2 ， yuan3 cao3 qing1 qing1 mei2 shao1 hen2 。
-- zhi1 dao4 yu3 qing2 chun1 zhou4 yong3 ， gui1 shi2 bu4 jue2 yi3 huang2 hun1 。
+- yin1 qing2 bu2 ding4 chun1 you2 qian3 ， kun4 jian4 xiang1 jian1 bing4 wei4 su1 。
+- jian4 shuo1 shi4 lou2 xin1 jiu3 mei3 ， zhang4 tou2 jin1 ri4 yi4 qian2 wu2 。
 
 ## 注释
 

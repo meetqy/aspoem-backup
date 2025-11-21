@@ -6,10 +6,10 @@ titleSlug: chi-jian-hu
 author: 留祐
 authorPinyin: liu2 you4
 authorSlug: liu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

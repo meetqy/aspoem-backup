@@ -6,10 +6,10 @@ titleSlug: ye-guo-bai-yun-hua-bie-qi-si
 author: 張鎮孫
 authorPinyin: zhang1 zhen4 sun1
 authorSlug: zhang-zhen-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

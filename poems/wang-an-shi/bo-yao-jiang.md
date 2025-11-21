@@ -6,21 +6,21 @@ titleSlug: bo-yao-jiang
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 軋軋櫓聲急，蒼蒼江日低。
-- 吾行有定止，潮汐自東西。
+- 山如碧浪翻江去，水似青天照眼明。
+- 喚取仙人來住此，莫教辛苦上層城。
 
 ## 拼音
 
-- ya4 ya4 lu3 sheng1 ji2 ， cang1 cang1 jiang1 ri4 di1 。
-- wu2 xing2 you3 ding4 zhi3 ， chao2 xi1 zi4 dong1 xi1 。
+- shan1 ru2 bi4 lang4 fan1 jiang1 qu4 ， shui3 si4 qing1 tian1 zhao4 yan3 ming2 。
+- huan4 qu3 xian1 ren2 lai2 zhu4 ci3 ， mo4 jiao4 xin1 ku3 shang4 ceng2 cheng2 。
 
 ## 注释
 

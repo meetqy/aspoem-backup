@@ -6,21 +6,33 @@ titleSlug: gan-wu
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今年葉底已藏花，來歲還抽後歲芽。
-- 代謝乘除無了日，須將定力看浮華。
+- 四時有代謝，卉物互相踰。
+- 紅者方蕊萼，白者已芬敷。
+- 人生一氣中，不出造化爐。
+- 乘除無了時，逝者如斯夫。
+- 願作澗松老，莫作朝菌枯。
+- 壽夭又在天，顔跖歸一途。
+- 爲顔不爲跖，趣向各異殊。
+- 已矣勿復言，有酒且驩娛。
 
 ## 拼音
 
-- jin1 nian2 ye4 di3 yi3 cang2 hua1 ， lai2 sui4 huan2 chou1 hou4 sui4 ya2 。
-- dai4 xie4 cheng2 chu2 wu2 le0 ri4 ， xu1 jiang1 ding4 li4 kan4 fu2 hua2 。
+- si4 shi2 you3 dai4 xie4 ， hui4 wu4 hu4 xiang1 yu2 。
+- hong2 zhe3 fang1 rui3 e4 ， bai2 zhe3 yi3 fen1 fu1 。
+- ren2 sheng1 yi2 qi4 zhong1 ， bu4 chu1 zao4 hua4 lu2 。
+- cheng2 chu2 wu2 le0 shi2 ， shi4 zhe3 ru2 si1 fu1 。
+- yuan4 zuo4 jian4 song1 lao3 ， mo4 zuo4 chao2 jun1 ku1 。
+- shou4 yao1 you4 zai4 tian1 ， yan2 zhi2 gui1 yi4 tu2 。
+- wei2 yan2 bu4 wei2 zhi2 ， qu4 xiang4 ge4 yi4 shu1 。
+- yi3 yi3 wu4 fu4 yan2 ， you3 jiu3 qie3 huan1 yu2 。
 
 ## 注释
 

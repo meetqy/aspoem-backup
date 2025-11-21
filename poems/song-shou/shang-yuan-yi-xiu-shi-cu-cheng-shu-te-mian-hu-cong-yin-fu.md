@@ -6,10 +6,10 @@ titleSlug: shang-yuan-yi-xiu-shi-cu-cheng-shu-te-mian-hu-cong-yin-fu
 author: 宋綬
 authorPinyin: song4 shou4
 authorSlug: song-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

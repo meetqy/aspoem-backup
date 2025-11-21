@@ -6,21 +6,21 @@ titleSlug: huang-hou-ge-duan-wu-tie-zi-ci-wu-shou-qi-si
 author: 真德秀
 authorPinyin: zhen1 de2 xiu4
 authorSlug: zhen-de-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水晶簾捲午風輕，萬壑清寒凌室冰。
-- 閒奏薰絃思解慍，肯教人世獨炎蒸。
+- 貝葉新傳寶藏經，聖心端爲福群生。
+- 從今物自無疵癘，安用桐君紀藥名。
 
 ## 拼音
 
-- shui3 jing1 lian2 juan3 wu3 feng1 qing1 ， wan4 he4 qing1 han2 ling2 shi4 bing1 。
-- xian2 zou4 xun1 xian2 si1 jie3 yun4 ， ken3 jiao4 ren2 shi4 du2 yan2 zheng1 。
+- bei4 ye4 xin1 chuan2 bao3 cang2 jing1 ， sheng4 xin1 duan1 wei2 fu2 qun2 sheng1 。
+- cong2 jin1 wu4 zi4 wu2 ci1 li4 ， an1 yong4 tong2 jun1 ji4 yao4 ming2 。
 
 ## 注释
 

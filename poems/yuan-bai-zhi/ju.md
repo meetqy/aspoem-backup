@@ -6,10 +6,10 @@ titleSlug: ju
 author: 袁百之
 authorPinyin: yuan2 bai3 zhi1
 authorSlug: yuan-bai-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

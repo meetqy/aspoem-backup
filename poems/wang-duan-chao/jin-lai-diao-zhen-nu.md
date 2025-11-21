@@ -6,10 +6,10 @@ titleSlug: jin-lai-diao-zhen-nu
 author: 王端朝
 authorPinyin: wang2 duan1 chao2
 authorSlug: wang-duan-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

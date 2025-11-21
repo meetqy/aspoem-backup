@@ -6,25 +6,25 @@ titleSlug: ci-yun-shi-bo-hun-jian-ji
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 眉山漢嘉東西州，估船日日到津頭。
-- 不得講書一行字，倚遍臨江百尺樓。
-- 黄鐘大吕忽復見，繡叚英瑶何足酬。
-- 願約青神王夫子，來醉萬景作中秋。
+- 窮鄉久客易消魂，短髮秋來白幾分。
+- 夢泛扁舟鏡湖月，身騎瘦馬劍關雲。
+- 萬釘寶带知何用，九轉金丹幸有聞。
+- 欲與先生同此計，會營茅舍近江濱。
 
 ## 拼音
 
-- mei2 shan1 han4 jia1 dong1 xi1 zhou1 ， gu1 chuan2 ri4 ri4 dao4 jin1 tou2 。
-- bu4 de2 jiang3 shu1 yi4 hang2 zi4 ， yi3 bian4 lin2 jiang1 bai3 chi3 lou2 。
-- huang2 zhong1 da4 lü3 hu1 fu4 jian4 ， xiu4 jia3 ying1 yao2 he2 zu2 chou2 。
-- yuan4 yue1 qing1 shen2 wang2 fu1 zi3 ， lai2 zui4 wan4 jing3 zuo4 zhong1 qiu1 。
+- qiong2 xiang1 jiu3 ke4 yi4 xiao1 hun2 ， duan3 fa4 qiu1 lai2 bai2 ji1 fen1 。
+- meng4 fan4 pian1 zhou1 jing4 hu2 yue4 ， shen1 qi2 shou4 ma3 jian4 guan1 yun2 。
+- wan4 ding1 bao3 dai4 zhi1 he2 yong4 ， jiu3 zhuan3 jin1 dan1 xing4 you3 wen2 。
+- yu4 yu3 xian1 sheng0 tong2 ci3 ji4 ， hui4 ying2 mao2 she4 jin4 jiang1 bin1 。
 
 ## 注释
 

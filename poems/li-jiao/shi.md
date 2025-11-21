@@ -1,7 +1,7 @@
 ---
 id: li-jiao-shi
-title: 石
-titlePinyin: shi2
+title: 詩
+titlePinyin: shi1
 titleSlug: shi
 author: 李嶠
 authorPinyin: li3 jiao4
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 宗子維城固，將軍飲羽威。
-- 巖花鑑裏發，雲葉錦中飛。
-- 入宋星初隕，過湘燕早歸。
-- 倘因持補極，寧復想支機。
+- 都尉仙鳧遠，梁王駟馬來。
+- 扇中紈素製，機上錦紋回。
+- 天子三章傳，陳王七步才。
+- 緇衣久擅美，祖德信悠哉。
 
 ## 拼音
 
-- zong1 zi3 wei2 cheng2 gu4 ， jiang1 jun1 yin3 yu3 wei1 。
-- yan2 hua1 jian4 li3 fa1 ， yun2 ye4 jin3 zhong1 fei1 。
-- ru4 song4 xing1 chu1 yun3 ， guo4 xiang1 yan4 zao3 gui1 。
-- tang3 yin1 chi2 bu3 ji2 ， ning2 fu4 xiang3 zhi1 ji1 。
+- du1 wei4 xian1 fu2 yuan3 ， liang2 wang2 si4 ma3 lai2 。
+- shan4 zhong1 wan2 su4 zhi4 ， ji1 shang4 jin3 wen2 hui2 。
+- tian1 zi3 san1 zhang1 chuan2 ， chen2 wang2 qi1 bu4 cai2 。
+- zi1 yi1 jiu3 shan4 mei3 ， zu3 de2 xin4 you1 zai1 。
 
 ## 注释
 

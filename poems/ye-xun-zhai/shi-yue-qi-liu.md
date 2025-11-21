@@ -6,10 +6,10 @@ titleSlug: shi-yue-qi-liu
 author: 葉巽齋
 authorPinyin: ye4 xun4 zhai1
 authorSlug: ye-xun-zhai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

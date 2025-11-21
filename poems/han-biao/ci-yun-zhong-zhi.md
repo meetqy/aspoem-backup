@@ -6,25 +6,21 @@ titleSlug: ci-yun-zhong-zhi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 能道意中事，詩來看復嗟。
-- 春風殊作惡，春雪固能佳。
-- 引玉下梅萼，輸金上柳芽。
-- 睡翁山水縣，隔竹定敲茶。
+- 怕向帝城尋子公，官餘且自策閒功。
+- 若論杜集黄陳事，我愛東平鞏睡翁。
 
 ## 拼音
 
-- neng2 dao4 yi4 zhong1 shi4 ， shi1 lai2 kan4 fu4 jie1 。
-- chun1 feng1 shu1 zuo4 e4 ， chun1 xue3 gu4 neng2 jia1 。
-- yin3 yu4 xia4 mei2 e4 ， shu1 jin1 shang4 liu3 ya2 。
-- shui4 weng1 shan1 shui3 xian4 ， ge2 zhu2 ding4 qiao1 cha2 。
+- pa4 xiang4 di4 cheng2 xun2 zi3 gong1 ， guan1 yu2 qie3 zi4 ce4 xian2 gong1 。
+- ruo4 lun4 du4 ji2 huang2 chen2 shi4 ， wo3 ai4 dong1 ping2 gong3 shui4 weng1 。
 
 ## 注释
 

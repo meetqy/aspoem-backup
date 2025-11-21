@@ -6,10 +6,10 @@ titleSlug: ye-su-fang-guang-wen-chang-lao-shou-rong-hua-qu-jing-fu-gan-er-fu-shi
 author: 林用中
 authorPinyin: lin2 yong4 zhong1
 authorSlug: lin-yong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

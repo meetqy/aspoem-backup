@@ -6,21 +6,21 @@ titleSlug: he-chang-fu-qi-er
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 澗曲山隈借竹軒，軒雖非舊有前言。
-- 斷碑零落猶能打，此意微茫僅復存。
+- 雲遶蹊間水滿豅，豅中來往少能同。
+- 溪頭繫得扁舟在，更約乘流載短篷。
 
 ## 拼音
 
-- jian4 qu3 shan1 wei1 jie4 zhu2 xuan1 ， xuan1 sui1 fei1 jiu4 you3 qian2 yan2 。
-- duan4 bei1 ling2 luo4 you2 neng2 da3 ， ci3 yi4 wei1 mang2 jin3 fu4 cun2 。
+- yun2 rao4 qi1 jian4 shui3 man3 long2 ， long2 zhong1 lai2 wang3 shao3 neng2 tong2 。
+- xi1 tou2 xi4 de2 pian1 zhou1 zai4 ， geng4 yue1 cheng2 liu2 zai4 duan3 peng2 。
 
 ## 注释
 

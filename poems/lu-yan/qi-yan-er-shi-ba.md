@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 解匹真陰與正陽，三年功滿結成霜。
-- 神龜出入庚辛位，丹鳳翺翔甲乙方。
-- 九鼎先輝雙瑞氣，三元中換五毫光。
-- 塵中若有同機者，共住煙霄不死鄉。
+- 北帝南辰掌內觀，潛通造化暗相傳。
+- 金槌袖裏居元宅，玉戶星宮降上玄。
+- 舉世盡皆尋此道，誰人空裏得玄關。
+- 明明道在堪消息，日月灘頭去又還。
 
 ## 拼音
 
-- jie3 pi3 zhen1 yin1 yu3 zheng4 yang2 ， san1 nian2 gong1 man3 jie2 cheng2 shuang1 。
-- shen2 gui1 chu1 ru4 geng1 xin1 wei4 ， dan1 feng4 ao2 xiang2 jia3 yi3 fang1 。
-- jiu3 ding3 xian1 hui1 shuang1 rui4 qi4 ， san1 yuan2 zhong1 huan4 wu3 hao2 guang1 。
-- chen2 zhong1 ruo4 you3 tong2 ji1 zhe3 ， gong4 zhu4 yan1 xiao1 bu4 si3 xiang1 。
+- bei3 di4 nan2 chen2 zhang3 nei4 guan1 ， qian2 tong1 zao4 hua4 an4 xiang1 chuan2 。
+- jin1 chui2 xiu4 li3 ju1 yuan2 zhai2 ， yu4 hu4 xing1 gong1 jiang4 shang4 xuan2 。
+- ju3 shi4 jin4 jie1 xun2 ci3 dao4 ， shui2 ren2 kong1 li3 de2 xuan2 guan1 。
+- ming2 ming2 dao4 zai4 kan1 xiao1 xi0 ， ri4 yue4 tan1 tou2 qu4 you4 huan2 。
 
 ## 注释
 

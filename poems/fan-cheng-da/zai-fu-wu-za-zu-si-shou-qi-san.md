@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zai-fu-wu-za-zu-si-shou-qi-san
-title: 再賦五雜組四首・其三
-titlePinyin: zai4 fu4 wu3 za2 zu3 si4 shou3・qi2 san1
+title: 再賦五雜組四首  其三
+titlePinyin: zai4 fu4 wu3 za2 zu3 si4 shou3     qi2 san1
 titleSlug: zai-fu-wu-za-zu-si-shou-qi-san
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

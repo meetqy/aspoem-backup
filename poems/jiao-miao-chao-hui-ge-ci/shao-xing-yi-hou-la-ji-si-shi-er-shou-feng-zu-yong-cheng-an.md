@@ -6,25 +6,25 @@ titleSlug: shao-xing-yi-hou-la-ji-si-shi-er-shou-feng-zu-yong-cheng-an
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 享以精禋，馨非稷黍。
-- 工祝致告，孔碩爲俎。
-- 執事駿奔，繩繩具舉。
-- 神之嘉虞，介福是與。
+- 時和歲登，物亡疾瘯。
+- 實俎間膏，報神之福。
+- 匪神福之，曷成且豐。
+- 肥腯咸有，惟神之功。
 
 ## 拼音
 
-- xiang3 yi3 jing1 yin1 ， xin1 fei1 ji4 shu3 。
-- gong1 zhu4 zhi4 gao4 ， kong3 shuo4 wei2 zu3 。
-- zhi2 shi4 jun4 ben1 ， sheng2 sheng2 ju4 ju3 。
-- shen2 zhi1 jia1 yu2 ， jie4 fu2 shi4 yu3 。
+- shi2 he2 sui4 deng1 ， wu4 wang2 ji2 cu4 。
+- shi2 zu3 jian4 gao1 ， bao4 shen2 zhi1 fu2 。
+- fei3 shen2 fu2 zhi1 ， he2 cheng2 qie3 feng1 。
+- fei2 tu2 xian2 you3 ， wei2 shen2 zhi1 gong1 。
 
 ## 注释
 

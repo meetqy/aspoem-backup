@@ -6,25 +6,25 @@ titleSlug: qiu-ri-shu-huai
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 秋旻蕩喧濁，茂宰屬高情。
-- 水遶溪初浪，林乾籟自聲。
-- 醉茵留剩暖，歡瑟泛餘清。
-- 尚念江湖守，其如華髮生。
+- 風頭日蕭索，爽氣自西岑。
+- 暝戍有傳鼓，寒城無罷砧。
+- 未論鄉思苦，且念歲華侵。
+- 目羨高高雁，先時到上林。
 
 ## 拼音
 
-- qiu1 min2 dang4 xuan1 zhuo2 ， mao4 zai3 shu3 gao1 qing2 。
-- shui3 rao4 xi1 chu1 lang4 ， lin2 qian2 lai4 zi4 sheng1 。
-- zui4 yin1 liu2 sheng4 nuan3 ， huan1 se4 fan4 yu2 qing1 。
-- shang4 nian4 jiang1 hu2 shou3 ， qi2 ru2 hua2 fa4 sheng1 。
+- feng1 tou2 ri4 xiao1 suo3 ， shuang3 qi4 zi4 xi1 cen2 。
+- ming2 shu4 you3 chuan2 gu3 ， han2 cheng2 wu2 ba4 zhen1 。
+- wei4 lun4 xiang1 si1 ku3 ， qie3 nian4 sui4 hua2 qin1 。
+- mu4 xian4 gao1 gao1 yan4 ， xian1 shi2 dao4 shang4 lin2 。
 
 ## 注释
 

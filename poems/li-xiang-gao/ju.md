@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李翔高
 authorPinyin: li3 xiang2 gao1
 authorSlug: li-xiang-gao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

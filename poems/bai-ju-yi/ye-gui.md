@@ -9,22 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 半醉閑行湖岸東，馬鞭敲鐙轡瓏璁。
-- 萬株松樹青山上，十里沙堤明月中。
-- 樓角漸移當路影，潮頭欲過滿江風。
-- 歸來未放笙歌散，畫戟門開蠟燭紅。
+- 逐勝移朝宴，留歡放晚衙。
+- 賓寮多謝客，騎從半吳娃。
+- 到處銷春景，歸時及月華。
+- 城陰一道直，燭焰兩行斜。
+- 東吹先催柳，南霜不殺花。
+- 臯橋夜沽酒，燈火是誰家。
 
 ## 拼音
 
-- ban4 zui4 xian2 xing2 hu2 an4 dong1 ， ma3 bian1 qiao1 deng1 pei4 long2 cong1 。
-- wan4 zhu1 song1 shu4 qing1 shan1 shang4 ， shi2 li3 sha1 di1 ming2 yue4 zhong1 。
-- lou2 jiao3 jian4 yi2 dang1 lu4 ying3 ， chao2 tou2 yu4 guo4 man3 jiang1 feng1 。
-- gui1 lai2 wei4 fang4 sheng1 ge1 san4 ， hua4 ji3 men2 kai1 la4 zhu2 hong2 。
+- zhu2 sheng4 yi2 chao2 yan4 ， liu2 huan1 fang4 wan3 ya2 。
+- bin1 liao2 duo1 xie4 ke4 ， qi2 cong2 ban4 wu2 wa2 。
+- dao4 chu3 xiao1 chun1 jing3 ， gui1 shi2 ji2 yue4 hua2 。
+- cheng2 yin1 yi2 dao4 zhi2 ， zhu2 yan4 liang3 xing2 xie2 。
+- dong1 chui1 xian1 cui1 liu3 ， nan2 shuang1 bu4 sha1 hua1 。
+- gao1 qiao2 ye4 gu1 jiu3 ， deng1 huo3 shi4 shui2 jia1 。
 
 ## 注释
 

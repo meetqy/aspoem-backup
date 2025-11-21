@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-qi-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 花洞連延一架平，文鴛雙砌接珍亭。
-- 明暉北望垂楊岸，滿目煙波上下青。
+- 翰林文府擇良工，心畫諸家一一通。
+- 無逸孝經書座右，邇英到徹畫屏風。
 
 ## 拼音
 
-- hua1 dong4 lian2 yan2 yi2 jia4 ping2 ， wen2 yuan1 shuang1 qi4 jie1 zhen1 ting2 。
-- ming2 hui1 bei3 wang4 chui2 yang2 an4 ， man3 mu4 yan1 bo1 shang4 xia4 qing1 。
+- han4 lin2 wen2 fu3 ze2 liang2 gong1 ， xin1 hua4 zhu1 jia1 yi1 yi1 tong1 。
+- wu2 yi4 xiao4 jing1 shu1 zuo4 you4 ， er3 ying1 dao4 che4 hua4 ping2 feng1 。
 
 ## 注释
 

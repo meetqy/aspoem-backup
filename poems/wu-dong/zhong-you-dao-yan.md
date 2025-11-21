@@ -6,10 +6,10 @@ titleSlug: zhong-you-dao-yan
 author: 吳棟
 authorPinyin: wu2 dong4
 authorSlug: wu-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

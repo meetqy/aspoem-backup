@@ -6,10 +6,10 @@ titleSlug: he-guang-dao-yuan-ri-shu-shi-er-shou-qi-yi
 author: 華鎮
 authorPinyin: hua2 zhen4
 authorSlug: hua-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

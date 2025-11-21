@@ -6,10 +6,10 @@ titleSlug: ling-xiao-hua-wei-fu-shang-ren-zuo
 author: 趙汝回
 authorPinyin: zhao4 ru3 hui2
 authorSlug: zhao-ru-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

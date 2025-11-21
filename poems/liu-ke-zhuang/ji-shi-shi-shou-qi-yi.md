@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-ji-shi-shi-shou-qi-yi
-title: 即事十首  其一
-titlePinyin: ji2 shi4 shi2 shou3     qi2 yi1
+title: 即事十首  其一○
+titlePinyin: ji2 shi4 shi2 shou3     qi2 yi1 ○
 titleSlug: ji-shi-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 香火萬家市，煙花二月時。
-- 居人空巷出，去賽海神祠。
+- 沐髮眠常晏，濡脣飲不多。
+- 誰云五瘴毒，常備四時和。
 
 ## 拼音
 
-- xiang1 huo3 wan4 jia1 shi4 ， yan1 hua1 er4 yue4 shi2 。
-- ju1 ren2 kong1 xiang4 chu1 ， qu4 sai4 hai3 shen2 ci2 。
+- mu4 fa4 mian2 chang2 yan4 ， ru2 chun2 yin3 bu4 duo1 。
+- shui2 yun2 wu3 zhang4 du2 ， chang2 bei4 si4 shi2 he2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: miao-ting-guan
 author: 曾表勳
 authorPinyin: ceng2 biao3 xun1
 authorSlug: ceng-biao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

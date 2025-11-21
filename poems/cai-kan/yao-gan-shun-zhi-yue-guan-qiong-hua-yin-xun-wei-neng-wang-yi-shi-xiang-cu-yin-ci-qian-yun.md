@@ -6,10 +6,10 @@ titleSlug: yao-gan-shun-zhi-yue-guan-qiong-hua-yin-xun-wei-neng-wang-yi-shi-xian
 author: 蔡戡
 authorPinyin: cai4 kan1
 authorSlug: cai-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

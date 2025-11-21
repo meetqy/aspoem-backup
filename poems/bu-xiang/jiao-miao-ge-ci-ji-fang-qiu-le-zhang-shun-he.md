@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 坤厚載物，德柔垂祉。
-- 九域咸雍，四溟爲紀。
-- 敬因良節，虔修陰祀。
-- 廣樂式張，靈其降止。
+- 樂備金石，禮光尊俎。
+- 大享爰終，洪休是舉。
+- 雨零感節，雲飛應序。
+- 纓紱載辭，皇靈具舉。
 
 ## 拼音
 
-- kun1 hou4 zai4 wu4 ， de2 rou2 chui2 zhi3 。
-- jiu3 yu4 xian2 yong1 ， si4 ming2 wei2 ji4 。
-- jing4 yin1 liang2 jie2 ， qian2 xiu1 yin1 si4 。
-- guang3 le4 shi4 zhang1 ， ling2 qi2 jiang4 zhi3 。
+- le4 bei4 jin1 shi2 ， li3 guang1 zun1 zu3 。
+- da4 xiang3 yuan2 zhong1 ， hong2 xiu1 shi4 ju3 。
+- yu3 ling2 gan3 jie2 ， yun2 fei1 ying1 xu4 。
+- ying1 fu2 zai4 ci2 ， huang2 ling2 ju4 ju3 。
 
 ## 注释
 

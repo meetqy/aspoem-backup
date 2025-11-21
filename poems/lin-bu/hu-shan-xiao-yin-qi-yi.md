@@ -6,25 +6,25 @@ titleSlug: hu-shan-xiao-yin-qi-yi
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 猿鳥清絕，林蘿擁翠微。
-- 步穿僧徑出，肩搭道衣歸。
-- 水墅香菰熟，烟崖早笋肥。
-- 功名無一點，何要更忘機。
+- 道著權名便絕交，一峰春翠濕衡茅。
+- 莊生已憤鴟鳶赫，楊子休譏蝘蜓嘲。
+- 潏潏藥泉來石竇，霏霏茶藹出松梢。
+- 琴僧近借南薰譜，且併閑工子細抄。
 
 ## 拼音
 
-- yuan2 niao3 qing1 jue2 ， lin2 luo2 yong1 cui4 wei1 。
-- bu4 chuan1 seng1 jing4 chu1 ， jian1 da1 dao4 yi1 gui1 。
-- shui3 shu4 xiang1 gu1 shu2 ， yan1 ya2 zao3 sun3 fei2 。
-- gong1 ming2 wu2 yi4 dian3 ， he2 yao4 geng4 wang4 ji1 。
+- dao4 zhu4 quan2 ming2 bian4 jue2 jiao1 ， yi4 feng1 chun1 cui4 shi1 heng2 mao2 。
+- zhuang1 sheng1 yi3 fen4 chi1 yuan1 he4 ， yang2 zi3 xiu1 ji1 yan3 ting2 chao2 。
+- yu4 yu4 yao4 quan2 lai2 shi2 dou4 ， fei1 fei1 cha2 ai3 chu1 song1 shao1 。
+- qin2 seng1 jin4 jie4 nan2 xun1 pu3 ， qie3 bing4 xian2 gong1 zi3 xi4 chao1 。
 
 ## 注释
 

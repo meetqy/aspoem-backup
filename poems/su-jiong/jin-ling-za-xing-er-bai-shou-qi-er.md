@@ -1,26 +1,26 @@
 ---
 id: su-jiong-jin-ling-za-xing-er-bai-shou-qi-er
-title: 金陵雜興二百首  其二
-titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 er4
+title: 金陵雜興二百首  其二○
+titlePinyin: jin1 ling2 za2 xing1 er4 bai3 shou3     qi2 er4 ○
 titleSlug: jin-ling-za-xing-er-bai-shou-qi-er
 author: 蘇泂
 authorPinyin: su1 jiong3
 authorSlug: su-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朱雀街頭觀闕紅，角門東畔好春風。
-- 人家一樣垂楊柳，種入宮牆自不同。
+- 兵戈啑血只空回，天意人情未可猜。
+- 堪笑當時誰督府，卷旂夜半渡長淮。
 
 ## 拼音
 
-- zhu1 que4 jie1 tou2 guan1 que4 hong2 ， jiao3 men2 dong1 pan4 hao3 chun1 feng1 。
-- ren2 jia1 yi2 yang4 chui2 yang2 liu3 ， zhong3 ru4 gong1 qiang2 zi4 bu4 tong2 。
+- bing1 ge1 die2 xue4 zhi1 kong1 hui2 ， tian1 yi4 ren2 qing2 wei4 ke3 cai1 。
+- kan1 xiao4 dang1 shi2 shui2 du1 fu3 ， juan4 qi2 ye4 ban4 du4 chang2 huai2 。
 
 ## 注释
 

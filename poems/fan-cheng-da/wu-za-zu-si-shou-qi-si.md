@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-wu-za-zu-si-shou-qi-si
-title: 五雜組四首・其四
-titlePinyin: wu3 za2 zu3 si4 shou3・qi2 si4
+title: 五雜組四首  其四
+titlePinyin: wu3 za2 zu3 si4 shou3     qi2 si4
 titleSlug: wu-za-zu-si-shou-qi-si
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

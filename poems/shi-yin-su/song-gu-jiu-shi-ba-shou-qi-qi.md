@@ -1,26 +1,30 @@
 ---
 id: shi-yin-su-song-gu-jiu-shi-ba-shou-qi-qi
-title: 頌古九十八首  其七
-titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 qi1
+title: 頌古九十八首  其七○
+titlePinyin: song4 gu3 jiu3 shi2 ba1 shou3     qi2 qi1 ○
 titleSlug: song-gu-jiu-shi-ba-shou-qi-qi
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 潦倒禪和足指天，被玄懸得到連顛。
-- 隨聲逐色非明眼，覿面全包更沒言。
+- 萬里草不生，三昧號無諍。
+- 夢游觀玉境，畢竟是誰行。
+- 在處曼曼地，只道無兩般。
+- 法門非出入，學者莫顢頇。
 
 ## 拼音
 
-- liao2 dao3 shan4 he2 zu2 zhi3 tian1 ， bei4 xuan2 xuan2 de2 dao4 lian2 dian1 。
-- sui2 sheng1 zhu2 se4 fei1 ming2 yan3 ， di2 mian4 quan2 bao1 geng4 mei2 yan2 。
+- wan4 li3 cao3 bu4 sheng1 ， san1 mei4 hao4 wu2 zheng4 。
+- meng4 you2 guan1 yu4 jing4 ， bi4 jing4 shi4 shui2 xing2 。
+- zai4 chu3 man4 man4 di4 ， zhi1 dao4 wu2 liang3 ban1 。
+- fa3 men2 fei1 chu1 ru4 ， xue2 zhe3 mo4 man1 han1 。
 
 ## 注释
 

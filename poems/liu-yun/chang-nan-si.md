@@ -6,10 +6,10 @@ titleSlug: chang-nan-si
 author: 劉韞
 authorPinyin: liu2 yun4
 authorSlug: liu-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

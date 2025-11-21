@@ -6,21 +6,21 @@ titleSlug: song-gu
 author: 釋曇密
 authorPinyin: shi4 tan2 mi4
 authorSlug: shi-tan-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平地摝魚蝦，遼天射飛鶚。
-- 跛脚老雲門，千錯與萬錯。
+- 崔顥曾題黄鶴樓，長沙拈起當風流。
+- 大千國土俱家業，諸佛何曾有地頭。
 
 ## 拼音
 
-- ping2 di4 lu4 yu2 xia1 ， liao2 tian1 she4 fei1 e4 。
-- bo3 jiao3 lao3 yun2 men2 ， qian1 cuo4 yu3 wan4 cuo4 。
+- cui1 hao4 ceng2 ti2 huang2 he4 lou2 ， chang2 sha1 nian1 qi3 dang1 feng1 liu2 。
+- da4 qian1 guo2 tu3 ju4 jia1 ye4 ， zhu1 fo2 he2 ceng2 you3 di4 tou2 。
 
 ## 注释
 

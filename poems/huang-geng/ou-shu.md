@@ -1,30 +1,30 @@
 ---
 id: huang-geng-ou-shu
-title: 偶書
-titlePinyin: ou3 shu1
+title: 偶述
+titlePinyin: ou3 shu4
 titleSlug: ou-shu
 author: 黄庚
 authorPinyin: huang2 geng1
 authorSlug: huang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 豪氣消磨盡，携書客海濱。
-- 文章難遇主，天地不憐貧。
-- 家累依劉表，妻兒笑買臣。
-- 彼蒼還可問，吾道幾時春。
+- 漂泊江湖祇自憐，人生窮達信關天。
+- 老來干祿心灰矣，貧不求人氣浩然。
+- 五斗豈能留靖節，一瓢亦足樂顔淵。
+- 客來問我生涯事，閉戶開書對聖賢。
 
 ## 拼音
 
-- hao2 qi4 xiao1 mo2 jin4 ， xie2 shu1 ke4 hai3 bin1 。
-- wen2 zhang1 nan2 yu4 zhu3 ， tian1 di4 bu4 lian2 pin2 。
-- jia1 lei3 yi1 liu2 biao3 ， qi1 er2 xiao4 mai3 chen2 。
-- bi3 cang1 huan2 ke3 wen4 ， wu2 dao4 ji1 shi2 chun1 。
+- piao1 bo2 jiang1 hu2 qi2 zi4 lian2 ， ren2 sheng1 qiong2 da2 xin4 guan1 tian1 。
+- lao3 lai2 gan1 lu4 xin1 hui1 yi3 ， pin2 bu4 qiu2 ren2 qi4 hao4 ran2 。
+- wu3 dou3 qi3 neng2 liu2 jing4 jie2 ， yi4 piao2 yi4 zu2 le4 yan2 yuan1 。
+- ke4 lai2 wen4 wo3 sheng1 ya2 shi4 ， bi4 hu4 kai1 shu1 dui4 sheng4 xian2 。
 
 ## 注释
 

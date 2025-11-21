@@ -6,10 +6,10 @@ titleSlug: zhong-zong-fang-wo-yun-xi-chu-pei-fu-wen-cui-zhi-you-tian-gong-shi-ji
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

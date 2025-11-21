@@ -6,25 +6,21 @@ titleSlug: ji-song-shi-er-shou-qi-yi-yi
 author: 釋道璨
 authorPinyin: shi4 dao4 can4
 authorSlug: shi-dao-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一冬不雨，一春不雨。
-- 九土皆焦枯，天高叫無路。
-- 開先拄杖子忽然變作空行龍王，油然起雲霈然洪澍。
-- 直得枯者榮甲者拆萌者吐，發機須是千鈞弩。
+- 捏不成團撥不開，衲僧一見莫輕猜。
+- 今朝爲汝明明說，花奴花奴喫飯來。
 
 ## 拼音
 
-- yi4 dong1 bu4 yu3 ， yi4 chun1 bu4 yu3 。
-- jiu3 tu3 jie1 jiao1 ku1 ， tian1 gao1 jiao4 wu2 lu4 。
-- kai1 xian1 zhu3 zhang4 zi3 hu1 ran2 bian4 zuo4 kong1 xing2 long2 wang2 ， you2 ran2 qi3 yun2 pei4 ran2 hong2 shu4 。
-- zhi2 de2 ku1 zhe3 rong2 jia3 zhe3 chai1 meng2 zhe3 tu3 ， fa1 ji1 xu1 shi4 qian1 jun1 nu3 。
+- nie1 bu4 cheng2 tuan2 bo1 bu4 kai1 ， na4 seng1 yi2 jian4 mo4 qing1 cai1 。
+- jin1 zhao1 wei2 ru3 ming2 ming2 shuo1 ， hua1 nu2 hua1 nu2 chi1 fan4 lai2 。
 
 ## 注释
 

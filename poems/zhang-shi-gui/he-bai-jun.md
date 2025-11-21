@@ -6,10 +6,10 @@ titleSlug: he-bai-jun
 author: 張士瓌
 authorPinyin: zhang1 shi4 gui1
 authorSlug: zhang-shi-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

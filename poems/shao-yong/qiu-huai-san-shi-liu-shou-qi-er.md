@@ -1,30 +1,30 @@
 ---
 id: shao-yong-qiu-huai-san-shi-liu-shou-qi-er
-title: 秋懷三十六首  其二
-titlePinyin: qiu1 huai2 san1 shi2 liu4 shou3     qi2 er4
+title: 秋懷三十六首  其二○
+titlePinyin: qiu1 huai2 san1 shi2 liu4 shou3     qi2 er4 ○
 titleSlug: qiu-huai-san-shi-liu-shou-qi-er
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晴窗日初曛，幽庭雨乍洗。
-- 紅蘭靜自披，綠竹閑相倚。
-- 榮利若浮雲，情懷淡如水。
-- 身非天外人，意從天外起。
+- 良月滿高樓，高樓仍中秋。
+- 午夜冷露下，千里寒光流。
+- 何人將此鑑，拂拭新磨休。
+- 照破萬古心，白盡萬古頭。
 
 ## 拼音
 
-- qing2 chuang1 ri4 chu1 xun1 ， you1 ting2 yu3 zha4 xi3 。
-- hong2 lan2 jing4 zi4 pi1 ， lü4 zhu2 xian2 xiang1 yi3 。
-- rong2 li4 ruo4 fu2 yun2 ， qing2 huai2 dan4 ru2 shui3 。
-- shen1 fei1 tian1 wai4 ren2 ， yi4 cong2 tian1 wai4 qi3 。
+- liang2 yue4 man3 gao1 lou2 ， gao1 lou2 reng2 zhong1 qiu1 。
+- wu3 ye4 leng3 lu4 xia4 ， qian1 li3 han2 guang1 liu2 。
+- he2 ren2 jiang1 ci3 jian4 ， fu2 shi4 xin1 mo2 xiu1 。
+- zhao4 po4 wan4 gu3 xin1 ， bai2 jin4 wan4 gu3 tou2 。
 
 ## 注释
 

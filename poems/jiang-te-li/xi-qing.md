@@ -6,25 +6,25 @@ titleSlug: xi-qing
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晴日曬江臯，人心散鬰陶。
-- 天地忽開泰，萬象分秋毫。
-- 瀉我竹葉青，烹我翠雲濤。
-- 勿與俗士對，且讀楚人騷。
+- 日出天開眼，雲收見物華。
+- 不餐還自飽，無酒却須賒。
+- 綠遍千絲柳，紅添幾樹花。
+- 如何酬造物，爛醉是生涯。
 
 ## 拼音
 
-- qing2 ri4 shai4 jiang1 gao1 ， ren2 xin1 san4 yu4 tao2 。
-- tian1 di4 hu1 kai1 tai4 ， wan4 xiang4 fen1 qiu1 hao2 。
-- xie4 wo3 zhu2 ye4 qing1 ， peng1 wo3 cui4 yun2 tao1 。
-- wu4 yu3 su2 shi4 dui4 ， qie3 du2 chu3 ren2 sao1 。
+- ri4 chu1 tian1 kai1 yan3 ， yun2 shou1 jian4 wu4 hua2 。
+- bu4 can1 huan2 zi4 bao3 ， wu2 jiu3 que4 xu1 she1 。
+- lü4 bian4 qian1 si1 liu3 ， hong2 tian1 ji1 shu4 hua1 。
+- ru2 he2 chou2 zao4 wu4 ， lan4 zui4 shi4 sheng1 ya2 。
 
 ## 注释
 

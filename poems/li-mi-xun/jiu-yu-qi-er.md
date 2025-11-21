@@ -6,25 +6,21 @@ titleSlug: jiu-yu-qi-er
 author: 李彌遜
 authorPinyin: li3 mi2 xun4
 authorSlug: li-mi-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 榕根敗屋兩三椽，客徑無人老更便。
-- 地近東南多澤國，雨逢甲子少豐年。
-- 徑須酣飲六十日，安用取禾三百廛。
-- 待得風頭風力□，梅花如雪月初圓。
+- 带雨山雲不肯明，草泥封徑斷人行。
+- 竹林縱有鳥飛路，十日不聞鶗鴂聲。
 
 ## 拼音
 
-- rong2 gen1 bai4 wu1 liang3 san1 chuan2 ， ke4 jing4 wu2 ren2 lao3 geng4 bian4 。
-- di4 jin4 dong1 nan2 duo1 ze2 guo2 ， yu3 feng2 jia3 zi3 shao3 feng1 nian2 。
-- jing4 xu1 han1 yin3 liu4 shi2 ri4 ， an1 yong4 qu3 he2 san1 bai3 chan2 。
-- dai4 de2 feng1 tou2 feng1 li4 □， mei2 hua1 ru2 xue3 yue4 chu1 yuan2 。
+- dai4 yu3 shan1 yun2 bu4 ken3 ming2 ， cao3 ni2 feng1 jing4 duan4 ren2 hang2 。
+- zhu2 lin2 zong4 you3 niao3 fei1 lu4 ， shi2 ri4 bu4 wen2 ti2 jue2 sheng1 。
 
 ## 注释
 

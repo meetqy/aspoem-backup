@@ -6,9 +6,9 @@ titleSlug: yue-yang
 author: 沈大廉
 authorPinyin: shen3 da4 lian2
 authorSlug: shen-da-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

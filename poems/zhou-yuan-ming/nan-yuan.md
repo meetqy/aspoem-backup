@@ -6,9 +6,9 @@ titleSlug: nan-yuan
 author: 周元明
 authorPinyin: zhou1 yuan2 ming2
 authorSlug: zhou-yuan-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

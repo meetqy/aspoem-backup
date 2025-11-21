@@ -6,10 +6,10 @@ titleSlug: ti-jin-ao-shan-ru-hua-xuan-qi-san
 author: 潘朝英
 authorPinyin: pan1 chao2 ying1
 authorSlug: pan-chao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

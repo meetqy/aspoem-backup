@@ -6,9 +6,9 @@ titleSlug: he-bei-dou-zhuan-yun-shi-wang-gong
 author: 《靖康小雅》作者
 authorPinyin: 《 jing4 kang1 xiao3 ya3 》 zuo4 zhe3
 authorSlug: jing-kang-xiao-ya-zuo-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

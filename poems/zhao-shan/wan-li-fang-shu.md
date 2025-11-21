@@ -6,10 +6,10 @@ titleSlug: wan-li-fang-shu
 author: 趙善𡨢
 authorPinyin: zhao4 shan4 𡨢
 authorSlug: zhao-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

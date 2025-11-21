@@ -6,10 +6,10 @@ titleSlug: tong-pan-qian-chang-wu-dai-gui-yi-shi-jian-bie-ci-yun-wei-da
 author: 韓琦
 authorPinyin: han2 qi2
 authorSlug: han-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

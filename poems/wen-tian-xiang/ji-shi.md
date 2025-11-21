@@ -1,26 +1,30 @@
 ---
 id: wen-tian-xiang-ji-shi
-title: 紀事
-titlePinyin: ji4 shi4
+title: 即事
+titlePinyin: ji2 shi4
 titleSlug: ji-shi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 狼心那顧歃銅盤，舌在縱橫擊可汗。
-- 自分身爲虀粉碎，虜中方作丈夫看。
+- 去年傷北使，今日嘆南馳。
+- 雲濕山如動，天低雨欲垂。
+- 征夫行未已，游子去何之。
+- 正好王師出，崆峒麥熟時。
 
 ## 拼音
 
-- lang2 xin1 na4 gu4 sha4 tong2 pan2 ， she2 zai4 zong4 heng2 ji1 ke4 han2 。
-- zi4 fen1 shen1 wei2 ji1 fen3 sui4 ， lu3 zhong1 fang1 zuo4 zhang4 fu0 kan4 。
+- qu4 nian2 shang1 bei3 shi3 ， jin1 ri4 tan4 nan2 chi2 。
+- yun2 shi1 shan1 ru2 dong4 ， tian1 di1 yu3 yu4 chui2 。
+- zheng1 fu1 xing2 wei4 yi3 ， you2 zi3 qu4 he2 zhi1 。
+- zheng4 hao3 wang2 shi1 chu1 ， kong1 tong2 mai4 shu2 shi2 。
 
 ## 注释
 

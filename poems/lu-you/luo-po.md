@@ -6,25 +6,25 @@ titleSlug: luo-po
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落魄東吳莫笑儂，今年要不負春風。
-- 閑愁擲向乾坤外，永日移来歌吹中。
-- 酒浪欲爭湖水綠，花光却妒舞衫紅。
-- 公卿憂責如山重，肻信人間有放翁。
+- 落魄江湖七十翁，欲持一笑與誰同。
+- 蕭蕭雪鬢難藏老，寂寂蓬門可諱窮。
+- 好句尚來欹枕處，壯心時在倚樓中。
+- 無涯毁譽何勞詰，骨朽人間論自公。
 
 ## 拼音
 
-- luo4 po4 dong1 wu2 mo4 xiao4 nong2 ， jin1 nian2 yao4 bu2 fu4 chun1 feng1 。
-- xian2 chou2 zhi4 xiang4 qian2 kun1 wai4 ， yong3 ri4 yi2 lai2 ge1 chui1 zhong1 。
-- jiu3 lang4 yu4 zheng1 hu2 shui3 lü4 ， hua1 guang1 que4 du4 wu3 shan1 hong2 。
-- gong1 qing1 you1 ze2 ru2 shan1 zhong4 ， ken3 xin4 ren2 jian4 you3 fang4 weng1 。
+- luo4 po4 jiang1 hu2 qi1 shi2 weng1 ， yu4 chi2 yi2 xiao4 yu3 shui2 tong2 。
+- xiao1 xiao1 xue3 bin4 nan2 cang2 lao3 ， ji4 ji4 peng2 men2 ke3 hui4 qiong2 。
+- hao3 ju4 shang4 lai2 qi1 zhen3 chu3 ， zhuang4 xin1 shi2 zai4 yi3 lou2 zhong1 。
+- wu2 ya2 hui3 yu4 he2 lao2 jie2 ， gu3 xiu3 ren2 jian4 lun4 zi4 gong1 。
 
 ## 注释
 

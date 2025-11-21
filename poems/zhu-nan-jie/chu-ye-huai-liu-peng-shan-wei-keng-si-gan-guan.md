@@ -6,10 +6,10 @@ titleSlug: chu-ye-huai-liu-peng-shan-wei-keng-si-gan-guan
 author: 朱南杰
 authorPinyin: zhu1 nan2 jie2
 authorSlug: zhu-nan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

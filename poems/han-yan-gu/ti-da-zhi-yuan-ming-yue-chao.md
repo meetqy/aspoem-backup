@@ -6,10 +6,10 @@ titleSlug: ti-da-zhi-yuan-ming-yue-chao
 author: 韓彥古
 authorPinyin: han2 yan4 gu3
 authorSlug: han-yan-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

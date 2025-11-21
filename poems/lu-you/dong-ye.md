@@ -6,25 +6,29 @@ titleSlug: dong-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮巷蕭條早閉門，北窗燈火夜昏昏。
-- 老于俗事不挂眼，愁憶故人空斷魂。
-- 急雪打窗飛礫細，狂風卷野怒濤翻。
-- 土床紙帳寒無寐，彊把村醅不厭渾。
+- 我生何多艱，塌地皆九折。
+- 君恩許歸休，幸與世俗絕。
+- 幽居鄰不覿，奚止掃車轍。
+- 地爐清夜中，危坐燈欲滅。
+- 開門月滿庭，皓皓如積雪。
+- 隔溪聞鶴鳴，靈府爲澄澈。
 
 ## 拼音
 
-- qiong2 xiang4 xiao1 tiao2 zao3 bi4 men2 ， bei3 chuang1 deng1 huo3 ye4 hun1 hun1 。
-- lao3 yu2 su2 shi4 bu2 gua4 yan3 ， chou2 yi4 gu4 ren2 kong1 duan4 hun2 。
-- ji2 xue3 da3 chuang1 fei1 li4 xi4 ， kuang2 feng1 juan4 ye3 nu4 tao1 fan1 。
-- tu3 chuang2 zhi3 zhang4 han2 wu2 mei4 ， qiang2 ba3 cun1 pei1 bu2 yan4 hun2 。
+- wo3 sheng1 he2 duo1 jian1 ， ta1 di4 jie1 jiu3 zhe2 。
+- jun1 en1 xu1 gui1 xiu1 ， xing4 yu3 shi4 su2 jue2 。
+- you1 ju1 lin2 bu4 di2 ， xi1 zhi3 sao3 ju1 zhe2 。
+- di4 lu2 qing1 ye4 zhong1 ， wei1 zuo4 deng1 yu4 mie4 。
+- kai1 men2 yue4 man3 ting2 ， hao4 hao4 ru2 ji1 xue3 。
+- ge2 xi1 wen2 he4 ming2 ， ling2 fu3 wei2 cheng2 che4 。
 
 ## 注释
 

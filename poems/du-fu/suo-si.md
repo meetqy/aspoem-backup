@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 苦憶荆州醉司馬，謫官樽俎定常開。
-- 九江日落醒何處，一柱觀頭眠幾回。
-- 可憐懷抱向人盡，欲問平安無使來。
-- 故憑錦水將雙淚，好過瞿塘灧澦堆。
+- 鄭老身仍竄，台州信所傳。
+- 爲農山澗曲，臥病海雲邊。
+- 世已疎儒素，人猶乞酒錢。
+- 徒勞望牛斗，無計劚龍泉。
 
 ## 拼音
 
-- ku3 yi4 jing1 zhou1 zui4 si1 ma3 ， zhe2 guan1 zun1 zu3 ding4 chang2 kai1 。
-- jiu3 jiang1 ri4 luo4 xing3 he2 chu3 ， yi2 zhu4 guan1 tou2 mian2 ji1 hui2 。
-- ke3 lian2 huai2 bao4 xiang4 ren2 jin4 ， yu4 wen4 ping2 an1 wu2 shi3 lai2 。
-- gu4 ping2 jin3 shui3 jiang1 shuang1 lei4 ， hao3 guo4 qu2 tang2 yan4 yu4 dui1 。
+- zheng4 lao3 shen1 reng2 cuan4 ， tai1 zhou1 xin4 suo3 chuan2 。
+- wei2 nong2 shan1 jian4 qu3 ， wo4 bing4 hai3 yun2 bian1 。
+- shi4 yi3 shu1 ru2 su4 ， ren2 you2 qi3 jiu3 qian2 。
+- tu2 lao2 wang4 niu2 dou4 ， wu2 ji4 zhu2 long2 quan2 。
 
 ## 注释
 

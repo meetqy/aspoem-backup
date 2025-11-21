@@ -6,25 +6,21 @@ titleSlug: za-shi-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 獨居無與往，况此陰雨天。
-- 起來復何有，詩書散我前。
-- 偃卧一榻上，讀書疲復眠。
-- 經綸負夙志，跌蕩窮吾年。
+- 邾城山下梅花樹，臘月江風好在無。
+- 爭似姑山尋綽約，四時長見雪肌膚。
 
 ## 拼音
 
-- du2 ju1 wu2 yu3 wang3 ， kuang4 ci3 yin1 yu3 tian1 。
-- qi3 lai2 fu4 he2 you3 ， shi1 shu1 san4 wo3 qian2 。
-- yan3 wo4 yi2 ta4 shang4 ， du2 shu1 pi2 fu4 mian2 。
-- jing1 lun2 fu4 su4 zhi4 ， die1 dang4 qiong2 wu2 nian2 。
+- zhu1 cheng2 shan1 xia4 mei2 hua1 shu4 ， la4 yue4 jiang1 feng1 hao3 zai4 wu2 。
+- zheng1 si4 gu1 shan1 xun2 chuo4 yue1 ， si4 shi2 chang2 jian4 xue3 ji1 fu1 。
 
 ## 注释
 

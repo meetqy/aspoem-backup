@@ -6,10 +6,10 @@ titleSlug: zhong-le-ting-qi-er
 author: 陳汝羲
 authorPinyin: chen2 ru3 xi1
 authorSlug: chen-ru-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

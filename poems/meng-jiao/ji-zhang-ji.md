@@ -9,32 +9,34 @@ authorSlug: meng-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 夜鏡不照物，朝光何時升。
-- 黯然秋思來，走入志士膺。
-- 志士惜時逝，一宵三四興。
-- 清漢徒自朗，濁河終無澄。
-- 舊愛忽已遠，新愁坐相凌。
-- 君其隱壯懷，我亦逃名稱。
-- 古人貴從晦，君子忌黨朋。
-- 傾敗生所競，保全歸懵懵。
-- 浮雲何當來，潛虯會飛騰。
+- 未見天子面，不如雙盲人。
+- 賈生對文帝，終日猶悲辛。
+- 夫子亦如盲，所以空泣麟。
+- 有時獨齋心，髣髴夢稱臣。
+- 夢中稱臣言，覺後真埃塵。
+- 東京有眼富不如，西京無眼貧西京。
+- 無眼猶有耳隔牆，時聞天子車轔轔。
+- 轔轔車聲輾冰玉，南郊壇上禮百神。
+- 西明寺後窮瞎張太祝，縱爾有眼誰爾珍。
+- 天子咫尺不得見，不如閉眼且養真。
 
 ## 拼音
 
-- ye4 jing4 bu2 zhao4 wu4 ， chao2 guang1 he2 shi2 sheng1 。
-- an4 ran2 qiu1 si1 lai2 ， zou3 ru4 zhi4 shi4 ying1 。
-- zhi4 shi4 xi1 shi2 shi4 ， yi4 xiao1 san1 si4 xing1 。
-- qing1 han4 tu2 zi4 lang3 ， zhuo2 he2 zhong1 wu2 cheng2 。
-- jiu4 ai4 hu1 yi3 yuan3 ， xin1 chou2 zuo4 xiang1 ling2 。
-- jun1 qi2 yin3 zhuang4 huai2 ， wo3 yi4 tao2 ming2 cheng1 。
-- gu3 ren2 gui4 cong2 hui4 ， jun1 zi3 ji4 dang3 peng2 。
-- qing1 bai4 sheng1 suo3 jing4 ， bao3 quan2 gui1 meng3 meng3 。
-- fu2 yun2 he2 dang1 lai2 ， qian2 qiu2 hui4 fei1 teng2 。
+- wei4 jian4 tian1 zi3 mian4 ， bu4 ru2 shuang1 mang2 ren2 。
+- jia3 sheng1 dui4 wen2 di4 ， zhong1 ri4 you2 bei1 xin1 。
+- fu1 zi3 yi4 ru2 mang2 ， suo3 yi3 kong1 qi4 lin2 。
+- you3 shi2 du2 zhai1 xin1 ， fang3 fu2 meng4 cheng1 chen2 。
+- meng4 zhong1 cheng1 chen2 yan2 ， jue2 hou4 zhen1 ai1 chen2 。
+- dong1 jing1 you3 yan3 fu4 bu4 ru2 ， xi1 jing1 wu2 yan3 pin2 xi1 jing1 。
+- wu2 yan3 you2 you3 er3 ge2 qiang2 ， shi2 wen2 tian1 zi3 ju1 lin2 lin2 。
+- lin2 lin2 ju1 sheng1 zhan3 bing1 yu4 ， nan2 jiao1 tan2 shang4 li3 bai3 shen2 。
+- xi1 ming2 si4 hou4 qiong2 xia1 zhang1 tai4 zhu4 ， zong4 er3 you3 yan3 shui2 er3 zhen1 。
+- tian1 zi3 zhi3 chi3 bu4 de2 jian4 ， bu4 ru2 bi4 yan3 qie3 yang3 zhen1 。
 
 ## 注释
 

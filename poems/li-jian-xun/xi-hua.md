@@ -9,22 +9,22 @@ authorSlug: li-jian-xun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 白髮今如此，紅芳莫更催。
-- 預愁多日謝，翻怕十分開。
-- 點滴無時雨，荒涼滿地苔。
-- 閑堦一桮酒，惟待故人來。
+- 淡淡西園日又垂，一尊何忍負芳枝。
+- 莫言風雨長相促，直是晴明得幾時。
+- 心破只愁鶯踐落，眼穿唯怕客來遲。
+- 年年使我成狂叟，腸斷紅牋幾首詩。
 
 ## 拼音
 
-- bai2 fa4 jin1 ru2 ci3 ， hong2 fang1 mo4 geng4 cui1 。
-- yu4 chou2 duo1 ri4 xie4 ， fan1 pa4 shi2 fen1 kai1 。
-- dian3 di1 wu2 shi2 yu3 ， huang1 liang2 man3 di4 tai2 。
-- xian2 jie1 yi4 bei1 jiu3 ， wei2 dai4 gu4 ren2 lai2 。
+- dan4 dan4 xi1 yuan2 ri4 you4 chui2 ， yi4 zun1 he2 ren3 fu4 fang1 zhi1 。
+- mo4 yan2 feng1 yu3 chang2 xiang1 cu4 ， zhi2 shi4 qing2 ming2 de2 ji1 shi2 。
+- xin1 po4 zhi1 chou2 ying1 jian4 luo4 ， yan3 chuan1 wei2 pa4 ke4 lai2 chi2 。
+- nian2 nian2 shi3 wo3 cheng2 kuang2 sou3 ， chang2 duan4 hong2 jian1 ji1 shou3 shi1 。
 
 ## 注释
 

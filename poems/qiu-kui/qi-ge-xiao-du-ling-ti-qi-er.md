@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-qi-ge-xiao-du-ling-ti-qi-er
-title: 七歌效杜陵體・其二
-titlePinyin: qi1 ge1 xiao4 du4 ling2 ti3・qi2 er4
+title: 七歌效杜陵體  其二
+titlePinyin: qi1 ge1 xiao4 du4 ling2 ti3     qi2 er4
 titleSlug: qi-ge-xiao-du-ling-ti-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

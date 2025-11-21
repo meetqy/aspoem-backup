@@ -6,25 +6,25 @@ titleSlug: chu-xia-ji-shi
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今日風光定自佳，不寒不熱恰清和。
-- 百年人世行樂耳，一歲春歸奈老何。
-- 芍藥晚花終是小，戎葵新莟許來多。
-- 俸錢自笑渾無用，祗合文江買釣蓑。
+- 旋作東陂已水聲，纔經急雨恰新晴。
+- 提壺醒眼看人醉，布穀催農不自耕。
+- 一似老夫堪笑死，萬方口業拙謀生。
+- 嘲紅侮綠成何事，自古詩人沒十成。
 
 ## 拼音
 
-- jin1 ri4 feng1 guang1 ding4 zi4 jia1 ， bu4 han2 bu2 re4 qia4 qing1 he2 。
-- bai3 nian2 ren2 shi4 hang2 le4 er3 ， yi2 sui4 chun1 gui1 nai4 lao3 he2 。
-- shao2 yao4 wan3 hua1 zhong1 shi4 xiao3 ， rong2 kui2 xin1 han4 xu1 lai2 duo1 。
-- feng4 qian2 zi4 xiao4 hun2 wu2 yong4 ， zhi1 he2 wen2 jiang1 mai3 diao4 suo1 。
+- xuan2 zuo4 dong1 bei1 yi3 shui3 sheng1 ， cai2 jing1 ji2 yu3 qia4 xin1 qing2 。
+- ti2 hu2 xing3 yan3 kan4 ren2 zui4 ， bu4 gu3 cui1 nong2 bu2 zi4 geng1 。
+- yi2 si4 lao3 fu1 kan1 xiao4 si3 ， wan4 fang1 kou3 ye4 zhuo1 mou2 sheng1 。
+- chao2 hong2 wu3 lü4 cheng2 he2 shi4 ， zi4 gu3 shi1 ren2 mei2 shi2 cheng2 。
 
 ## 注释
 

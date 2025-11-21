@@ -6,10 +6,10 @@ titleSlug: hong-jun-ran-tai-bo-yi-yuan-ri-ci-zi-jiao-chi-zu-bu-yi-jian-zuo-shi-x
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

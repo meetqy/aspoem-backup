@@ -6,10 +6,10 @@ titleSlug: xie-zhan-huan-zhong
 author: 祖逢清
 authorPinyin: zu3 feng2 qing1
 authorSlug: zu-feng-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

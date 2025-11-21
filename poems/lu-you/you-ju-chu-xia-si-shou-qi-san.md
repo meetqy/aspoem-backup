@@ -6,25 +6,25 @@ titleSlug: you-ju-chu-xia-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 長歌嫋嫋插秧天，小繖翻翻入市船。
-- 高棟巢乾初乳燕，綠槐陰密已鳴蟬。
-- 只言末俗人情惡，未廢先生日晏眠。
-- 推枕起來閑弄筆，銅蟾手自挹寒泉。
+- 詰曲穿桑徑，謳啞響竹門。
+- 疏泉灌藜莧，倚杖牧雞豚。
+- 江步橫新舸，茅簷弄幼孫。
+- 太平端有象，誰與畫吾村。
 
 ## 拼音
 
-- chang2 ge1 niao3 niao3 cha1 yang1 tian1 ， xiao3 san3 fan1 fan1 ru4 shi4 chuan2 。
-- gao1 dong4 chao2 qian2 chu1 ru3 yan4 ， lü4 huai2 yin1 mi4 yi3 ming2 chan2 。
-- zhi1 yan2 mo4 su2 ren2 qing2 e4 ， wei4 fei4 xian1 sheng0 ri4 yan4 mian2 。
-- tui1 zhen3 qi3 lai2 xian2 nong4 bi3 ， tong2 chan2 shou3 zi4 yi4 han2 quan2 。
+- jie2 qu3 chuan1 sang1 jing4 ， ou1 ya3 xiang3 zhu2 men2 。
+- shu1 quan2 guan4 li2 xian4 ， yi3 zhang4 mu4 ji1 tun2 。
+- jiang1 bu4 heng2 xin1 ge3 ， mao2 yan2 nong4 you4 sun1 。
+- tai4 ping2 duan1 you3 xiang4 ， shui2 yu3 hua4 wu2 cun1 。
 
 ## 注释
 

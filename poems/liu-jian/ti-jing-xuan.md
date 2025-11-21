@@ -6,10 +6,10 @@ titleSlug: ti-jing-xuan
 author: 劉鑑
 authorPinyin: liu2 jian4
 authorSlug: liu-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

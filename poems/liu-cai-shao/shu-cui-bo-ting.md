@@ -6,27 +6,27 @@ titleSlug: shu-cui-bo-ting
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲谿瀉寒液，活碧瑠璃軟。
-- 山如物外人，排空勢偃蹇。
-- 溪山兩奇絕，倒影蘸清淺。
-- 驚風起蘋末，萬竅助號喘。
-- 誰鋪翠織成，一展不容卷。
+- 人言止水燭鬢眉，便向靜處淘真機。
+- 那知怒濤恣澎湃，中有未嘗搖動時。
+- 虛亭恰當隱貼處，不愁景物驕莫隨。
+- 晴嵐迷空香霧重，不論朝暮都相宜。
+- 直須會取箇中意，閑看溪邊鷗鷺飛。
 
 ## 拼音
 
-- yun2 xi1 xie4 han2 ye4 ， huo2 bi4 liu2 li2 ruan3 。
-- shan1 ru2 wu4 wai4 ren2 ， pai2 kong1 shi4 yan3 jian3 。
-- xi1 shan1 liang3 qi2 jue2 ， dao4 ying3 zhan4 qing1 qian3 。
-- jing1 feng1 qi3 pin2 mo4 ， wan4 qiao4 zhu4 hao4 chuan3 。
-- shui2 pu1 cui4 zhi1 cheng2 ， yi4 zhan3 bu4 rong2 juan4 。
+- ren2 yan2 zhi3 shui3 zhu2 bin4 mei2 ， bian4 xiang4 jing4 chu3 tao2 zhen1 ji1 。
+- na4 zhi1 nu4 tao1 zi4 peng2 pai4 ， zhong1 you3 wei4 chang2 yao2 dong4 shi2 。
+- xu1 ting2 qia4 dang1 yin3 tie1 chu3 ， bu4 chou2 jing3 wu4 jiao1 mo4 sui2 。
+- qing2 lan2 mi2 kong1 xiang1 wu4 zhong4 ， bu2 lun4 zhao1 mu4 dou1 xiang1 yi2 。
+- zhi2 xu1 hui4 qu3 ge4 zhong4 yi4 ， xian2 kan4 xi1 bian1 ou1 lu4 fei1 。
 
 ## 注释
 

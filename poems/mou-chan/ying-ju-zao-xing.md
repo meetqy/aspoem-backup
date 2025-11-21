@@ -6,10 +6,10 @@ titleSlug: ying-ju-zao-xing
 author: 繆蟾
 authorPinyin: mou2 chan2
 authorSlug: mou-chan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

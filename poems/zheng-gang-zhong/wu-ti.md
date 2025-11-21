@@ -6,21 +6,21 @@ titleSlug: wu-ti
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雨出筍尖髙玳瑁，風開花蕾入臙脂。
-- 恐須費盡東君力，造化無心本不知。
+- 柳色幾番隨雨暗，蕉心閑處向人開。
+- 箇中豈得無詩句，滯思如膠索不来。
 
 ## 拼音
 
-- yu3 chu1 sun3 jian1 gao1 dai4 mao4 ， feng1 kai1 hua1 lei3 ru4 yan1 zhi1 。
-- kong3 xu1 fei4 jin4 dong1 jun1 li4 ， zao4 hua4 wu2 xin1 ben3 bu4 zhi1 。
+- liu3 se4 ji1 fan1 sui2 yu3 an4 ， jiao1 xin1 xian2 chu3 xiang4 ren2 kai1 。
+- ge4 zhong1 qi3 de2 wu2 shi1 ju4 ， zhi4 si1 ru2 jiao1 suo3 bu4 lai2 。
 
 ## 注释
 

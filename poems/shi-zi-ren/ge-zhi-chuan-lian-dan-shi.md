@@ -6,10 +6,10 @@ titleSlug: ge-zhi-chuan-lian-dan-shi
 author: 施梓人
 authorPinyin: shi1 zi3 ren2
 authorSlug: shi-zi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: hong-mei
 author: 釋璉
 authorPinyin: shi4 lian3
 authorSlug: shi-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

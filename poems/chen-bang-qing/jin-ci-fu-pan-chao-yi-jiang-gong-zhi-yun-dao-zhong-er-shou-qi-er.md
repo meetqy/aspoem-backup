@@ -6,10 +6,10 @@ titleSlug: jin-ci-fu-pan-chao-yi-jiang-gong-zhi-yun-dao-zhong-er-shou-qi-er
 author: 陳邦慶
 authorPinyin: chen2 bang1 qing4
 authorSlug: chen-bang-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

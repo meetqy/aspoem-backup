@@ -9,34 +9,34 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 富兒空毛行，貧兒把他物。
-- 被物牽入廛，買賣不得出。
-- 覺暮便歸舍，黃昏黑漆漆。
-- 所求不稱意，合家加啾唧。
-- 自無般若性，乏欠波羅蜜。
-- 把繩入草裏，自繫百年畢。
-- 實是可憐許，冥冥不見日。
-- 富兒雖空手，家中甚富溢。
-- 自有無盡藏，不假外緣物。
-- 周流用不窮，要者從理出。
+- 窮廝煎，餓廝吵，父子不同途，大家相脫卯。
+- 萬頃湘江洗不清，無生曲調何時了。
+- （見《大正新修大藏經》四七冊宋《虛堂和尚語錄》卷十引）（按：《祖堂集》卷十五《龐居士傳》云：「平生樂道偈頌，可三百餘首，廣行於世。
+- 皆以言符至理，句闡玄猷，爲儒彥之珠金，乃緇流之篋寶。
+- 」）（〖1〗《景德傳燈錄》卷八本傳云：「有詩偈三百餘篇傳於世。
+- 」〖2〗《新唐書》卷五九《藝文志》三著錄龐藴《詩偈》三卷，注云：「字道玄，衡州衡陽人，貞元初人。
+- 三百餘篇。
+- 」〖3〗無名子《龐居士語錄詩頌序》云：「其餘玄談道頌，流傳人間，頗多散軼。
+- 今姑以所聞成編，釐爲二卷，永示將來，庶警後學。
+- 」）。
 
 ## 拼音
 
-- fu4 er2 kong1 mao2 xing2 ， pin2 er2 ba3 ta1 wu4 。
-- bei4 wu4 qian1 ru4 chan2 ， mai3 mai4 bu4 de2 chu1 。
-- jue2 mu4 bian4 gui1 she4 ， huang2 hun1 hei1 qi1 qi1 。
-- suo3 qiu2 bu4 cheng1 yi4 ， he2 jia1 jia1 jiu1 ji1 。
-- zi4 wu2 bo1 re3 xing4 ， fa2 qian4 bo1 luo2 mi4 。
-- ba3 sheng2 ru4 cao3 li3 ， zi4 xi4 bai3 nian2 bi4 。
-- shi2 shi4 ke3 lian2 xu1 ， ming2 ming2 bu2 jian4 ri4 。
-- fu4 er2 sui1 kong1 shou3 ， jia1 zhong1 shen4 fu4 yi4 。
-- zi4 you3 wu2 jin4 cang2 ， bu4 jia3 wai4 yuan2 wu4 。
-- zhou1 liu2 yong4 bu4 qiong2 ， yao4 zhe3 cong2 li3 chu1 。
+- qiong2 si1 jian1 ， e4 si1 chao3 ， fu4 zi3 bu4 tong2 tu2 ， da4 jia1 xiang1 tuo1 mao3 。
+- wan4 qing3 xiang1 jiang1 xi3 bu4 qing1 ， wu2 sheng1 qu3 diao4 he2 shi2 le0 。
+- （ jian4 《 da4 zheng4 xin1 xiu1 da4 zang4 jing1 》 si4 qi1 ce4 song4 《 xu1 tang2 he2 shang4 yu3 lu4 》 juan4 shi2 yin3 ）（ an4 ：《 zu3 tang2 ji2 》 juan4 shi2 wu3 《 pang2 ju1 shi4 chuan2 》 yun2 ：「 ping2 sheng1 le4 dao4 ji4 song4 ， ke3 san1 bai3 yu2 shou3 ， guang3 xing2 wu1 shi4 。
+- jie1 yi3 yan2 fu2 zhi4 li3 ， ju4 chan3 xuan2 you2 ， wei2 ru2 yan4 zhi1 zhu1 jin1 ， nai3 zi1 liu2 zhi1 qie4 bao3 。
+- 」）（〖1〗《 jing3 de2 chuan2 deng1 lu4 》 juan4 ba1 ben3 chuan2 yun2 ：「 you3 shi1 ji4 san1 bai3 yu2 pian1 chuan2 wu1 shi4 。
+- 」〖2〗《 xin1 tang2 shu1 》 juan4 wu3 jiu3 《 yi4 wen2 zhi4 》 san1 zhu4 lu4 pang2 yun4 《 shi1 ji4 》 san1 juan4 ， zhu4 yun2 ：「 zi4 dao4 xuan2 ， heng2 zhou1 heng2 yang2 ren2 ， zhen1 yuan2 chu1 ren2 。
+- san1 bai3 yu2 pian1 。
+- 」〖3〗 wu2 ming2 zi0 《 pang2 ju1 shi4 yu3 lu4 shi1 song4 xu4 》 yun2 ：「 qi2 yu2 xuan2 tan2 dao4 song4 ， liu2 chuan2 ren2 jian4 ， po1 duo1 san4 yi4 。
+- jin1 gu1 yi3 suo3 wen2 cheng2 bian1 ， li2 wei2 er4 juan4 ， yong3 shi4 jiang1 lai2 ， shu4 jing3 hou4 xue2 。
+- 」）。
 
 ## 注释
 

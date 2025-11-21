@@ -6,25 +6,25 @@ titleSlug: zai-yong-yun
 author: 程洵
 authorPinyin: cheng2 xun2
 authorSlug: cheng-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 斯文從昔患多方，今日因公晦復光。
-- 心法祇傳書一卷，文華那用紙千張。
-- 窗前草色沿階翠，川上波流極目長。
-- 此意更須公指示，後來□□月無忘。
+- 聖主如天與物春，四方委質願爲臣。
+- 設科取士制雖舊，側席求賢意自新。
+- 揚子詞高非篆刻，井春學富獨紛綸。
+- 行行好上江都策，莫厭京華沒馬塵。
 
 ## 拼音
 
-- si1 wen2 cong2 xi1 huan4 duo1 fang1 ， jin1 ri4 yin1 gong1 hui4 fu4 guang1 。
-- xin1 fa3 qi2 chuan2 shu1 yi2 juan4 ， wen2 hua2 na4 yong4 zhi3 qian1 zhang1 。
-- chuang1 qian2 cao3 se4 yan2 jie1 cui4 ， chuan1 shang4 bo1 liu2 ji2 mu4 chang2 。
-- ci3 yi4 geng4 xu1 gong1 zhi3 shi4 ， hou4 lai2 □□ yue4 wu2 wang4 。
+- sheng4 zhu3 ru2 tian1 yu3 wu4 chun1 ， si4 fang1 wei3 zhi4 yuan4 wei2 chen2 。
+- she4 ke1 qu3 shi4 zhi4 sui1 jiu4 ， ce4 xi2 qiu2 xian2 yi4 zi4 xin1 。
+- yang2 zi3 ci2 gao1 fei1 zhuan4 ke4 ， jing3 chun1 xue2 fu4 du2 fen1 lun2 。
+- xing2 xing2 hao3 shang4 jiang1 du1 ce4 ， mo4 yan4 jing1 hua2 mei2 ma3 chen2 。
 
 ## 注释
 

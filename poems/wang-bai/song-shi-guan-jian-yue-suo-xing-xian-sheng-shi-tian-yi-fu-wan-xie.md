@@ -6,10 +6,10 @@ titleSlug: song-shi-guan-jian-yue-suo-xing-xian-sheng-shi-tian-yi-fu-wan-xie
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

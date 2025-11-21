@@ -6,10 +6,10 @@ titleSlug: fu-zhou-hui-quan-fu-zhao-ti-xing-zhi-yu-kou-hao
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

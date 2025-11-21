@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 曾紆
 authorPinyin: ceng2 yu1
 authorSlug: ceng-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

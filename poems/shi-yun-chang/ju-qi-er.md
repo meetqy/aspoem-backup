@@ -1,24 +1,24 @@
 ---
 id: shi-yun-chang-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 釋藴常
 authorPinyin: shi4 yun4 chang2
 authorSlug: shi-yun-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 塵埃自衮衮。
+- 全是蓬萊十月天。
 
 ## 拼音
 
-- chen2 ai1 zi4 gun3 gun3 。
+- quan2 shi4 peng2 lai2 shi2 yue4 tian1 。
 
 ## 注释
 

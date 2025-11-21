@@ -6,10 +6,10 @@ titleSlug: ke-ye-yu-gu-ren-ou-ji
 author: 戴叔倫
 authorPinyin: dai4 shu1 lun2
 authorSlug: dai-shu-lun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

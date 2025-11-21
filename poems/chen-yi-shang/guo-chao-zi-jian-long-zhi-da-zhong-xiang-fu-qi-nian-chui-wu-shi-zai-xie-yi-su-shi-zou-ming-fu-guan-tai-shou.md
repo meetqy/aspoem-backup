@@ -6,10 +6,10 @@ titleSlug: guo-chao-zi-jian-long-zhi-da-zhong-xiang-fu-qi-nian-chui-wu-shi-zai-x
 author: 陳逸賞
 authorPinyin: chen2 yi4 shang3
 authorSlug: chen-yi-shang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

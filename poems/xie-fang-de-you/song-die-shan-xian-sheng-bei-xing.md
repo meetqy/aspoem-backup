@@ -6,10 +6,10 @@ titleSlug: song-die-shan-xian-sheng-bei-xing
 author: 謝枋得友
 authorPinyin: xie4 fang1 de2 you3
 authorSlug: xie-fang-de-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

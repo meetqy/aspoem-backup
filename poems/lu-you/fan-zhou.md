@@ -6,25 +6,25 @@ titleSlug: fan-zhou
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 女牆齾齾带斜暉，短棹還從剡曲歸。
-- 木葉經霜渾欲盡，人家近水自相依。
-- 逢迎俗客言多忤，顛沛窮途計易非。
-- 雪裏閉門殊不惡，故貂雖弊勝無衣。
+- 水長芳洲沒，風生釣艇橫。
+- 偶尋東埭去，却作北村行。
+- 宿鳥昏方定，流螢雨更明。
+- 歸來未覺晚，傳漏下重城。
 
 ## 拼音
 
-- nü3 qiang2 ya4 ya4 dai4 xie2 hui1 ， duan3 zhao4 huan2 cong2 yan3 qu3 gui1 。
-- mu4 ye4 jing1 shuang1 hun2 yu4 jin4 ， ren2 jia1 jin4 shui3 zi4 xiang1 yi1 。
-- feng2 ying2 su2 ke4 yan2 duo1 wu3 ， dian1 pei4 qiong2 tu2 ji4 yi4 fei1 。
-- xue3 li3 bi4 men2 shu1 bu2 e4 ， gu4 diao1 sui1 bi4 sheng4 wu2 yi1 。
+- shui3 chang2 fang1 zhou1 mei2 ， feng1 sheng1 diao4 ting3 heng2 。
+- ou3 xun2 dong1 dai4 qu4 ， que4 zuo4 bei3 cun1 xing2 。
+- su4 niao3 hun1 fang1 ding4 ， liu2 ying2 yu3 geng4 ming2 。
+- gui1 lai2 wei4 jue2 wan3 ， chuan2 lou4 xia4 zhong4 cheng2 。
 
 ## 注释
 

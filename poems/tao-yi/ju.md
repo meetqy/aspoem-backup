@@ -6,9 +6,9 @@ titleSlug: ju
 author: 陶彝
 authorPinyin: tao2 yi2
 authorSlug: tao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

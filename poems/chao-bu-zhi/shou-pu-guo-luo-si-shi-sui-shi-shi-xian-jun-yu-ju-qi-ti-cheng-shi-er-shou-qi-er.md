@@ -6,10 +6,10 @@ titleSlug: shou-pu-guo-luo-si-shi-sui-shi-shi-xian-jun-yu-ju-qi-ti-cheng-shi-er-
 author: 晁補之
 authorPinyin: chao2 bu3 zhi1
 authorSlug: chao-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-yuan-xiang-qing
 author: 朱逸仙
 authorPinyin: zhu1 yi4 xian1
 authorSlug: zhu-yi-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

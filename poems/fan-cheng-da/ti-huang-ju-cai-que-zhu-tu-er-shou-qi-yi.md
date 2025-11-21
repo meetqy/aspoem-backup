@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ti-huang-ju-cai-que-zhu-tu-er-shou-qi-yi
-title: 題黄居寀雀竹圖二首・其一
-titlePinyin: ti2 huang2 ju1 cai3 que4 zhu2 tu2 er4 shou3・qi2 yi1
+title: 題黄居寀雀竹圖二首  其一
+titlePinyin: ti2 huang2 ju1 cai3 que4 zhu2 tu2 er4 shou3     qi2 yi1
 titleSlug: ti-huang-ju-cai-que-zhu-tu-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

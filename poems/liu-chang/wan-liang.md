@@ -1,30 +1,30 @@
 ---
 id: liu-chang-wan-liang
-title: 晚凉
+title: 晚涼
 titlePinyin: wan3 liang2
 titleSlug: wan-liang
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落日蔽崑崙，微風起閶闔。
-- 蟲聲語悽惻，樹影翻離合。
-- 蚤露結明珠，圓蟾瑩塵匣。
-- 浩歌始自放，喟此區中狹。
+- 楚山何處雨，天氣晚來涼。
+- 返照原野靜，清風松桂香。
+- 高樓半雲霧，遠水入滄浪。
+- 幽意驚飛動，真憑酒散狂。
 
 ## 拼音
 
-- luo4 ri4 bi4 kun1 lun2 ， wei1 feng1 qi3 chang1 he2 。
-- chong2 sheng1 yu3 qi1 ce4 ， shu4 ying3 fan1 li2 he2 。
-- zao3 lu4 jie2 ming2 zhu1 ， yuan2 chan2 ying2 chen2 xia2 。
-- hao4 ge1 shi3 zi4 fang4 ， kui4 ci3 qu1 zhong1 xia2 。
+- chu3 shan1 he2 chu3 yu3 ， tian1 qi4 wan3 lai2 liang2 。
+- fan3 zhao4 yuan2 ye3 jing4 ， qing1 feng1 song1 gui4 xiang1 。
+- gao1 lou2 ban4 yun2 wu4 ， yuan3 shui3 ru4 cang1 lang4 。
+- you1 yi4 jing1 fei1 dong4 ， zhen1 ping2 jiu3 san4 kuang2 。
 
 ## 注释
 

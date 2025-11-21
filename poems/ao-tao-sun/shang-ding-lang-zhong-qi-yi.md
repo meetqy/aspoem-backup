@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-shang-ding-lang-zhong-qi-yi
-title: 上丁郎中・其一
-titlePinyin: shang4 ding1 lang2 zhong1・qi2 yi1
+title: 上丁郎中  其一
+titlePinyin: shang4 ding1 lang2 zhong1     qi2 yi1
 titleSlug: shang-ding-lang-zhong-qi-yi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

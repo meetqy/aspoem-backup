@@ -6,10 +6,10 @@ titleSlug: xiao-shui
 author: 郭儼
 authorPinyin: guo1 yan3
 authorSlug: guo-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

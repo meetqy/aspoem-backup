@@ -6,10 +6,10 @@ titleSlug: you-tai-gan-xing-gu-feng
 author: 李師聖
 authorPinyin: li3 shi1 sheng4
 authorSlug: li-shi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

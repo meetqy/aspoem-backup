@@ -6,10 +6,10 @@ titleSlug: niu-shui-di
 author: 邵清甫
 authorPinyin: shao4 qing1 fu3
 authorSlug: shao-qing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢帝斬蛇劒，晉時燒上天。
-- 自茲繁巨蟒，往往壽千年。
-- 白晝遮長道，青溪蒸毒煙。
-- 戰龍蒼海外，平地血浮船。
+- 辛螫終非久，炎涼本遞興。
+- 秋風自天落，夏蘖與霜澄。
+- 一鏡開潭面，千鋒露石稜。
+- 氣平蟲豸死，雲路好攀登。
 
 ## 拼音
 
-- han4 di4 zhan3 she2 jian4 ， jin4 shi2 shao1 shang4 tian1 。
-- zi4 zi1 fan2 ju4 mang3 ， wang3 wang3 shou4 qian1 nian2 。
-- bai2 zhou4 zhe1 chang2 dao4 ， qing1 xi1 zheng1 du2 yan1 。
-- zhan4 long2 cang1 hai3 wai4 ， ping2 di4 xue4 fu2 chuan2 。
+- xin1 shi4 zhong1 fei1 jiu3 ， yan2 liang2 ben3 di4 xing1 。
+- qiu1 feng1 zi4 tian1 luo4 ， xia4 nie4 yu3 shuang1 cheng2 。
+- yi2 jing4 kai1 tan2 mian4 ， qian1 feng1 lu4 shi2 leng2 。
+- qi4 ping2 chong2 zhi4 si3 ， yun2 lu4 hao3 pan1 deng1 。
 
 ## 注释
 

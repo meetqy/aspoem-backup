@@ -6,10 +6,10 @@ titleSlug: diao-tai-er-shou-qi-yi
 author: 陳必敬
 authorPinyin: chen2 bi4 jing4
 authorSlug: chen-bi-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

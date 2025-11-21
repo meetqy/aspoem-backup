@@ -6,10 +6,10 @@ titleSlug: pan-shu-si-qin
 author: 黄由
 authorPinyin: huang2 you2
 authorSlug: huang-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

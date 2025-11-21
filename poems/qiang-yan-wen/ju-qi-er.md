@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 强彥文
 authorPinyin: qiang2 yan4 wen2
 authorSlug: qiang-yan-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

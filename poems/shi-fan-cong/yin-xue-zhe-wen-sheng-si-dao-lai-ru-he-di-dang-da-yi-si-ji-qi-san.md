@@ -6,10 +6,10 @@ titleSlug: yin-xue-zhe-wen-sheng-si-dao-lai-ru-he-di-dang-da-yi-si-ji-qi-san
 author: 釋梵琮
 authorPinyin: shi4 fan4 cong2
 authorSlug: shi-fan-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

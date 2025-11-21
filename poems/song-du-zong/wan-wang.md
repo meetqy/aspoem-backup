@@ -6,10 +6,10 @@ titleSlug: wan-wang
 author: 宋度宗
 authorPinyin: song4 du4 zong1
 authorSlug: song-du-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

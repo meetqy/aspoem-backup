@@ -6,9 +6,9 @@ titleSlug: ci-yun-wang-zi-shen-yu-tian-dao-zhong-yi-shou-jian-cheng-han-gong-mei
 author: 劉著
 authorPinyin: liu2 zhu4
 authorSlug: liu-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

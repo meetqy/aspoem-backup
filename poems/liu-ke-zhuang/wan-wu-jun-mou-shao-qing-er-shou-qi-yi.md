@@ -6,25 +6,25 @@ titleSlug: wan-wu-jun-mou-shao-qing-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 重瞳親簡擢，華髮困招麾。
-- 汶上吾行矣，膠西等棄之。
-- 翟門羅爵靜，魯地泣麟悲。
-- 意一奇風骨，如何不論思。
+- 昔爲樞掾侍延英，驀聽臚傳第一聲。
+- 仙籍香浮廣寒殿，奏篇紙貴洛陽城。
+- 親逢明主真千載，曾謂斯人止九卿。
+- 惟有一端差慰意，鶴山大字扁堂名。
 
 ## 拼音
 
-- zhong4 tong2 qin1 jian3 zhuo2 ， hua2 fa4 kun4 zhao1 hui1 。
-- wen4 shang4 wu2 xing2 yi3 ， jiao1 xi1 deng3 qi4 zhi1 。
-- zhai2 men2 luo2 jue2 jing4 ， lu3 di4 qi4 lin2 bei1 。
-- yi4 yi4 qi2 feng1 gu3 ， ru2 he2 bu2 lun4 si1 。
+- xi1 wei2 shu1 yuan4 shi4 yan2 ying1 ， mo4 ting1 lu2 chuan2 di4 yi1 sheng1 。
+- xian1 ji2 xiang1 fu2 guang3 han2 dian4 ， zou4 pian1 zhi3 gui4 luo4 yang2 cheng2 。
+- qin1 feng2 ming2 zhu3 zhen1 qian1 zai4 ， ceng2 wei4 si1 ren2 zhi3 jiu3 qing1 。
+- wei2 you3 yi4 duan1 cha4 wei4 yi4 ， he4 shan1 da4 zi4 bian3 tang2 ming2 。
 
 ## 注释
 

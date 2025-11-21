@@ -1,24 +1,24 @@
 ---
 id: sun-sheng-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句  其一○
+titlePinyin: ju4     qi2 yi1 ○
 titleSlug: ju-qi-yi
 author: 孫升
 authorPinyin: sun1 sheng1
 authorSlug: sun-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漏殘餘一榻，曾不爲黄金。
+- 慈竹笋抽疑夏籜，木犀花發認春香。
 
 ## 拼音
 
-- lou4 can2 yu2 yi2 ta4 ， ceng2 bu4 wei2 huang2 jin1 。
+- ci2 zhu2 sun3 chou1 yi2 xia4 tuo4 ， mu4 xi1 hua1 fa1 ren4 chun1 xiang1 。
 
 ## 注释
 

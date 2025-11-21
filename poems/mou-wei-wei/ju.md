@@ -6,10 +6,10 @@ titleSlug: ju
 author: 某衛尉
 authorPinyin: mou3 wei4 wei4
 authorSlug: mou-wei-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,19 +6,19 @@ titleSlug: ju-qi-er
 author: 無名氏
 authorPinyin: wu2 ming2 shi4
 authorSlug: wu-ming-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雞足斜分三道水，蛇腰慢轉一條街。
+- 地下若逢秦相國，也應不說到沅湘。
 
 ## 拼音
 
-- ji1 zu2 xie2 fen1 san1 dao4 shui3 ， she2 yao1 man4 zhuan3 yi4 tiao2 jie1 。
+- di4 xia4 ruo4 feng2 qin2 xiang1 guo2 ， ye3 ying1 bu4 shuo1 dao4 yuan2 xiang1 。
 
 ## 注释
 

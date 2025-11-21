@@ -6,10 +6,10 @@ titleSlug: tong-yuan-si-zheng-zhu-gong-deng-chu-zhou-dong-yuan-lou
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

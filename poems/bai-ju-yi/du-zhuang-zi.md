@@ -9,18 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 去國辭家謫異方，中心自怪少憂傷。
-- 爲尋莊子知歸處，認得無何是本鄉。
+- 莊生齊物同歸一，我道同中有不同。
+- 遂性逍遙雖一致，鶯凰終挍勝蛇蟲。
 
 ## 拼音
 
-- qu4 guo2 ci2 jia1 zhe2 yi4 fang1 ， zhong1 xin1 zi4 guai4 shao3 you1 shang1 。
-- wei2 xun2 zhuang1 zi3 zhi1 gui1 chu3 ， ren4 de2 wu2 he2 shi4 ben3 xiang1 。
+- zhuang1 sheng1 qi2 wu4 tong2 gui1 yi1 ， wo3 dao4 tong2 zhong1 you3 bu4 tong2 。
+- sui4 xing4 xiao1 yao2 sui1 yi2 zhi4 ， ying1 huang2 zhong1 jiao4 sheng4 she2 chong2 。
 
 ## 注释
 

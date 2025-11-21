@@ -6,10 +6,10 @@ titleSlug: he-he-zhong-sun-jian-yi-jian-song-tong-xue-tian-cha-yuan-zhi-long-men
 author: 魏野
 authorPinyin: wei4 ye3
 authorSlug: wei-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

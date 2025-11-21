@@ -6,9 +6,9 @@ titleSlug: wen-xian-tai-zi-wan-ge-ci-wu-shou-qi-wu
 author: 徐鉉
 authorPinyin: xu2 xuan4
 authorSlug: xu-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

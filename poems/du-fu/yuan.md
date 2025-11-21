@@ -1,6 +1,6 @@
 ---
 id: du-fu-yuan
-title: 園
+title: 猨
 titlePinyin: yuan2
 titleSlug: yuan
 author: 杜甫
@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 仲夏流多水，清晨向小園。
-- 碧溪搖艇闊，朱果爛枝繁。
-- 始爲江山靜，終防市井喧。
-- 畦蔬繞茅屋，自足媚盤餐。
+- 褭褭啼虛壁，蕭蕭挂冷枝。
+- 艱難人不見，隱見爾如知。
+- 慣習元從衆，全生或用奇。
+- 前林騰每及，父子莫相離。
 
 ## 拼音
 
-- zhong4 xia4 liu2 duo1 shui3 ， qing1 chen2 xiang4 xiao3 yuan2 。
-- bi4 xi1 yao2 ting3 kuo4 ， zhu1 guo3 lan4 zhi1 fan2 。
-- shi3 wei2 jiang1 shan1 jing4 ， zhong1 fang2 shi4 jing3 xuan1 。
-- qi2 shu1 rao4 mao2 wu1 ， zi4 zu2 mei4 pan2 can1 。
+- niao3 niao3 ti2 xu1 bi4 ， xiao1 xiao1 gua4 leng3 zhi1 。
+- jian1 nan2 ren2 bu2 jian4 ， yin3 jian4 er3 ru2 zhi1 。
+- guan4 xi2 yuan2 cong2 zhong4 ， quan2 sheng1 huo4 yong4 qi2 。
+- qian2 lin2 teng2 mei3 ji2 ， fu4 zi3 mo4 xiang1 li2 。
 
 ## 注释
 

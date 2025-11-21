@@ -6,9 +6,9 @@ titleSlug: yan-xia-guan-pu-dan-wan-yi-zhuang-zi-wen-you-shi-zhe-ci-qi-yun
 author: 何麒
 authorPinyin: he2 qi2
 authorSlug: he-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

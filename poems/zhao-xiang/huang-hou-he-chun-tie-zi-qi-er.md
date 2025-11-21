@@ -6,21 +6,21 @@ titleSlug: huang-hou-he-chun-tie-zi-qi-er
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春色平明到，微風弄綵幡。
-- 稍回宮柳弱，更助壁椒溫。
+- 葭灰已逐陽和動，繡鏤初隨日景加。
+- 欲助君王修儉德，不將宮樣織新花。
 
 ## 拼音
 
-- chun1 se4 ping2 ming2 dao4 ， wei1 feng1 nong4 cai3 fan1 。
-- shao1 hui2 gong1 liu3 ruo4 ， geng4 zhu4 bi4 jiao1 wen1 。
+- jia1 hui1 yi3 zhu2 yang2 he2 dong4 ， xiu4 lou4 chu1 sui2 ri4 jing3 jia1 。
+- yu4 zhu4 jun1 wang2 xiu1 jian3 de2 ， bu4 jiang1 gong1 yang4 zhi1 xin1 hua1 。
 
 ## 注释
 

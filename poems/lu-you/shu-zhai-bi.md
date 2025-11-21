@@ -6,25 +6,25 @@ titleSlug: shu-zhai-bi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 平生憂患苦縈纏，菱刺磨成芡實圜。
-- 天下不知誰竟是，古來惟有醉差賢。
-- 過堂未悟鐘將釁，睨柱寧知璧偶全。
-- 自笑爲農行沒世，尚如驚雁落空弦。
+- 幅巾短褐野人裝，洗盡黄塵早暮忙。
+- 地僻漁扉常隠翳，身閑靈府自清凉。
+- 雨中鬰鬰垣衣綠，澗底纖纖石髮長。
+- 老憊只思眠蹋壁，一尊到手又成狂。
 
 ## 拼音
 
-- ping2 sheng1 you1 huan4 ku3 ying2 chan2 ， ling2 ci4 mo2 cheng2 qian4 shi2 huan2 。
-- tian1 xia4 bu4 zhi1 shui2 jing4 shi4 ， gu3 lai2 wei2 you3 zui4 cha4 xian2 。
-- guo4 tang2 wei4 wu4 zhong1 jiang1 xin4 ， ni4 zhu4 ning2 zhi1 bi4 ou3 quan2 。
-- zi4 xiao4 wei2 nong2 xing2 mei2 shi4 ， shang4 ru2 jing1 yan4 luo4 kong1 xian2 。
+- fu2 jin1 duan3 he4 ye3 ren2 zhuang1 ， xi3 jin4 huang2 chen2 zao3 mu4 mang2 。
+- di4 pi4 yu2 fei1 chang2 yin3 yi4 ， shen1 xian2 ling2 fu3 zi4 qing1 liang2 。
+- yu3 zhong1 yu4 yu4 yuan2 yi1 lü4 ， jian4 di3 xian1 xian1 shi2 fa4 chang2 。
+- lao3 bei4 zhi1 si1 mian2 ta4 bi4 ， yi4 zun1 dao4 shou3 you4 cheng2 kuang2 。
 
 ## 注释
 

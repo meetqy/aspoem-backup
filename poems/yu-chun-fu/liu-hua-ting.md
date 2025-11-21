@@ -6,10 +6,10 @@ titleSlug: liu-hua-ting
 author: 俞純父
 authorPinyin: yu2 chun2 fu4
 authorSlug: yu-chun-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

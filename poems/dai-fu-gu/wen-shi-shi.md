@@ -6,25 +6,25 @@ titleSlug: wen-shi-shi
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鴈豈關兵氣，魚常被火災。
-- 御軍先擇將，立國可無財。
-- 濟世須人物，忠言是福媒。
-- 西山今已往，更待鶴山來。
+- 昨報西師奏凱還，近聞北顧一時寬。
+- 淮西勳業歸裴度，江右聲名屬謝安。
+- 夜雨忽晴看月好，春風漸老惜花殘。
+- 事關氣數君知否，麥到秋時天又寒。
 
 ## 拼音
 
-- yan4 qi3 guan1 bing1 qi4 ， yu2 chang2 bei4 huo3 zai1 。
-- yu4 jun1 xian1 ze2 jiang1 ， li4 guo2 ke3 wu2 cai2 。
-- ji4 shi4 xu1 ren2 wu4 ， zhong1 yan2 shi4 fu2 mei2 。
-- xi1 shan1 jin1 yi3 wang3 ， geng4 dai4 he4 shan1 lai2 。
+- zuo2 bao4 xi1 shi1 zou4 kai3 huan2 ， jin4 wen2 bei3 gu4 yi4 shi2 kuan1 。
+- huai2 xi1 xun1 ye4 gui1 pei2 du4 ， jiang1 you4 sheng1 ming2 shu3 xie4 an1 。
+- ye4 yu3 hu1 qing2 kan4 yue4 hao3 ， chun1 feng1 jian4 lao3 xi1 hua1 can2 。
+- shi4 guan1 qi4 shu4 jun1 zhi1 fou3 ， mai4 dao4 qiu1 shi2 tian1 you4 han2 。
 
 ## 注释
 

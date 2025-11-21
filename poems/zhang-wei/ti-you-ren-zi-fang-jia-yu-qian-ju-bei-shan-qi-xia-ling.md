@@ -6,9 +6,9 @@ titleSlug: ti-you-ren-zi-fang-jia-yu-qian-ju-bei-shan-qi-xia-ling
 author: 張煒
 authorPinyin: zhang1 wei3
 authorSlug: zhang-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

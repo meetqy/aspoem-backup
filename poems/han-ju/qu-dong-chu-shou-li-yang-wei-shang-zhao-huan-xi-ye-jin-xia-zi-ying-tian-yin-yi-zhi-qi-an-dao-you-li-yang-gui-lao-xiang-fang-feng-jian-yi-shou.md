@@ -6,10 +6,10 @@ titleSlug: qu-dong-chu-shou-li-yang-wei-shang-zhao-huan-xi-ye-jin-xia-zi-ying-ti
 author: 韓駒
 authorPinyin: han2 ju1
 authorSlug: han-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-huai-cao-hong-jian-yi-jie-jiang-dong-zan-hui-tian-mu
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

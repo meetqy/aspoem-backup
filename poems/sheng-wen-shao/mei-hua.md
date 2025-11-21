@@ -6,10 +6,10 @@ titleSlug: mei-hua
 author: 盛文韶
 authorPinyin: sheng4 wen2 shao2
 authorSlug: sheng-wen-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

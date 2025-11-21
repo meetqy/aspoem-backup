@@ -6,10 +6,10 @@ titleSlug: jian-shan-lou-xia-zhi-mei-bai-ben-jiu-yue-jian-hua
 author: 董居誼
 authorPinyin: dong3 ju1 yi4
 authorSlug: dong-ju-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shuang-xi-ge
 author: 鄭錦溪
 authorPinyin: zheng4 jin3 xi1
 authorSlug: zheng-jin-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

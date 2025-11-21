@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-yi
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑞香本廬阜，瑞昌最爲冠。
-- 以此得瑞名，昧者强臆斷。
-- 種法避寒暑，錦籠不足纂。
-- 欲披紫雲裘，時分建溪椀。
+- 雨急怨春晚，花殘獨稔香。
+- 燕巢方穩密，蝶翅覺凄凉。
+- 引睡漫支枕，銷閑時炷香。
+- 新晴故晚照，芳草留斜陽。
 
 ## 拼音
 
-- rui4 xiang1 ben3 lu2 fu4 ， rui4 chang1 zui4 wei2 guan1 。
-- yi3 ci3 de2 rui4 ming2 ， mei4 zhe3 qiang2 yi4 duan4 。
-- zhong3 fa3 bi4 han2 shu3 ， jin3 long2 bu4 zu2 zuan3 。
-- yu4 pi1 zi3 yun2 qiu2 ， shi2 fen1 jian4 xi1 wan3 。
+- yu3 ji2 yuan4 chun1 wan3 ， hua1 can2 du2 ren3 xiang1 。
+- yan4 chao2 fang1 wen3 mi4 ， die2 chi4 jue2 qi1 liang2 。
+- yin3 shui4 man4 zhi1 zhen3 ， xiao1 xian2 shi2 zhu4 xiang1 。
+- xin1 qing2 gu4 wan3 zhao4 ， fang1 cao3 liu2 xie2 yang2 。
 
 ## 注释
 

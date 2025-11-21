@@ -6,10 +6,10 @@ titleSlug: jin-fang-dao-jian-jie-la-mei-ju-ren-qu-yi-wei-xin-zhou-wu-ben-xi-wei-
 author: 鄭剛中
 authorPinyin: zheng4 gang1 zhong1
 authorSlug: zheng-gang-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,24 +9,22 @@ authorSlug: li-bai
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 冬夜夜寒覺夜長，沈吟久坐坐北堂。
-- 冰合井泉月入閨，青缸凝明照悲嗁。
-- 青缸滅，嗁轉多，掩妾淚，聽君歌。
-- 歌有聲，妾有情，情聲合，兩無違。
-- 一語不入意，從君萬曲梁塵飛。
+- 踏踏馬頭誰見過，眼看北斗直天河。
+- 西風羅幕生翠波，鉛華笑妾顰青蛾。
+- 爲君起唱長相思，簾外嚴霜皆倒飛。
+- 明星爛爛東方陲，紅霞稍出東南涯，陸郎去矣乘斑騅。
 
 ## 拼音
 
-- dong1 ye4 ye4 han2 jue2 ye4 chang2 ， shen3 yin2 jiu3 zuo4 zuo4 bei3 tang2 。
-- bing1 he2 jing3 quan2 yue4 ru4 gui1 ， qing1 gang1 ning2 ming2 zhao4 bei1 ti2 。
-- qing1 gang1 mie4 ， ti2 zhuan3 duo1 ， yan3 qie4 lei4 ， ting1 jun1 ge1 。
-- ge1 you3 sheng1 ， qie4 you3 qing2 ， qing2 sheng1 he2 ， liang3 wu2 wei2 。
-- yi4 yu3 bu2 ru4 yi4 ， cong2 jun1 wan4 qu3 liang2 chen2 fei1 。
+- ta4 ta4 ma3 tou2 shui2 jian4 guo4 ， yan3 kan4 bei3 dou3 zhi2 tian1 he2 。
+- xi1 feng1 luo2 mu4 sheng1 cui4 bo1 ， qian1 hua2 xiao4 qie4 pin2 qing1 e2 。
+- wei2 jun1 qi3 chang4 chang2 xiang1 si1 ， lian2 wai4 yan2 shuang1 jie1 dao3 fei1 。
+- ming2 xing1 lan4 lan4 dong1 fang1 chui2 ， hong2 xia2 shao1 chu1 dong1 nan2 ya2 ， lu4 lang2 qu4 yi3 cheng2 ban1 zhui1 。
 
 ## 注释
 

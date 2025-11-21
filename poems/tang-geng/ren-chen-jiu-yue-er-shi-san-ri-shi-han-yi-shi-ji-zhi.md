@@ -6,10 +6,10 @@ titleSlug: ren-chen-jiu-yue-er-shi-san-ri-shi-han-yi-shi-ji-zhi
 author: 唐庚
 authorPinyin: tang2 geng1
 authorSlug: tang-geng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

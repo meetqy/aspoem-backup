@@ -6,47 +6,59 @@ titleSlug: shan-zhong-le
 author: 郭祥正
 authorPinyin: guo1 xiang2 zheng4
 authorSlug: guo-xiang-zheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 尋山佳興發，一夜渡江月。
-- 首到廬江元放家，水洞清光數毫髮。
-- 愛之便欲久棲息，又聞靈仙之境敞金闕。
-- 清風吹我衣，不覺過皖溪。
-- 危梁千步玉虹卧，松行十里青龍歸。
-- 烟霞繞脚變明晦，忽見殿閣鋪琉璃。
-- 重簷却在迥漢上，倚欄俯視白日低。
-- 虚庭自作簫籟響，屋角更無飛鳥飛。
-- 霓幡重重蔽真御，彷彿遙見星文垂。
-- 長廊紗籠絕筆畫，老龜穩載青瑤碑。
-- 更逢逍遙不死客，齒清髪翠桃花肌。
-- 簫臺可到亦非遠，雲間况有白鹿騎。
-- 細窺絕景輒大笑，吾曹何事塵中爲。
-- 安得良田三百畝，可以飽我妻與兒。
-- 長年只在名山裏，萬事紛紛都不知。
+- 歸乎樂哉，山中之樂兮，其樂無窮。
+- 藹葱蒼而杳巑叢兮，眷青瑤之諸峰。
+- 琉璃一碧兮，湖波止而溶溶。
+- 層樓相望，曲徑相通。
+- 魚龍轉影于汀瀾之際，鐘梵答響于烟雲之中。
+- 鳥嚶日暖兮，花氣濛濛。
+- 搴密葉而成幄兮，風颯颯而吹松。
+- 巖谷玲瓏，霜木落也。
+- 玉宇浮空，冰澌凝也。
+- 天高月朗兮，定省乎華嚴之境。
+- 雷奔雨驟兮，作新乎水墨之宮。
+- 達僧擬王孫之葬，逸士躡淵明之蹤。
+- 方爾祖之得名兮，考其言于廬陵之醉翁。
+- 曰嗟世之人兮，曷不歸來乎山中。
+- 山中之樂不可見，今予其往兮誰逢。
+- 後四十年，爾復好吟。
+- 遠遊不返，求我之從。
+- 勸爾之歸兮，栖老乎山中。
+- 爾之材兮甚良，當自適其無庸之庸。
+- 違世絕俗，黜明塞聰。
+- 山中之樂兮乃可以久，非我與爾兮誰同。
 
 ## 拼音
 
-- xun2 shan1 jia1 xing1 fa1 ， yi2 ye4 du4 jiang1 yue4 。
-- shou3 dao4 lu2 jiang1 yuan2 fang4 jia1 ， shui3 dong4 qing1 guang1 shu4 hao2 fa4 。
-- ai4 zhi1 bian4 yu4 jiu3 qi1 xi1 ， you4 wen2 ling2 xian1 zhi1 jing4 chang3 jin1 que4 。
-- qing1 feng1 chui1 wo3 yi1 ， bu4 jue2 guo4 wan3 xi1 。
-- wei1 liang2 qian1 bu4 yu4 hong2 wo4 ， song1 xing2 shi2 li3 qing1 long2 gui1 。
-- yan1 xia2 rao4 jiao3 bian4 ming2 hui4 ， hu1 jian4 dian4 ge2 pu1 liu2 li2 。
-- zhong4 yan2 que4 zai4 jiong3 han4 shang4 ， yi3 lan2 fu3 shi4 bai2 ri4 di1 。
-- xu1 ting2 zi4 zuo4 xiao1 lai4 xiang3 ， wu1 jiao3 geng4 wu2 fei1 niao3 fei1 。
-- ni2 fan1 chong2 chong2 bi4 zhen1 yu4 ， pang2 fu2 yao2 jian4 xing1 wen2 chui2 。
-- chang2 lang2 sha1 long2 jue2 bi3 hua4 ， lao3 gui1 wen3 zai4 qing1 yao2 bei1 。
-- geng4 feng2 xiao1 yao2 bu4 si3 ke4 ， chi3 qing1 fa4 cui4 tao2 hua1 ji1 。
-- xiao1 tai2 ke3 dao4 yi4 fei1 yuan3 ， yun2 jian4 kuang4 you3 bai2 lu4 qi2 。
-- xi4 kui1 jue2 jing3 zhe2 da4 xiao4 ， wu2 cao2 he2 shi4 chen2 zhong1 wei2 。
-- an1 de2 liang2 tian2 san1 bai3 mu3 ， ke3 yi3 bao3 wo3 qi1 yu3 er2 。
-- chang2 nian2 zhi1 zai4 ming2 shan1 li3 ， wan4 shi4 fen1 fen1 dou1 bu4 zhi1 。
+- gui1 hu1 le4 zai1 ， shan1 zhong1 zhi1 le4 xi1 ， qi2 le4 wu2 qiong2 。
+- ai3 cong1 cang1 er2 yao3 cuan2 cong2 xi1 ， juan4 qing1 yao2 zhi1 zhu1 feng1 。
+- liu2 li2 yi2 bi4 xi1 ， hu2 bo1 zhi3 er2 rong2 rong2 。
+- ceng2 lou2 xiang1 wang4 ， qu3 jing4 xiang1 tong1 。
+- yu2 long2 zhuan3 ying3 yu2 ting1 lan2 zhi1 ji4 ， zhong1 fan4 da2 xiang3 yu2 yan1 yun2 zhi1 zhong1 。
+- niao3 ying1 ri4 nuan3 xi1 ， hua1 qi4 meng2 meng2 。
+- qian1 mi4 ye4 er2 cheng2 wo4 xi1 ， feng1 sa4 sa4 er2 chui1 song1 。
+- yan2 gu3 ling2 long2 ， shuang1 mu4 luo4 ye3 。
+- yu4 yu3 fu2 kong1 ， bing1 si1 ning2 ye3 。
+- tian1 gao1 yue4 lang3 xi1 ， ding4 sheng3 hu1 hua2 yan2 zhi1 jing4 。
+- lei2 ben1 yu3 zhou4 xi1 ， zuo4 xin1 hu1 shui3 mo4 zhi1 gong1 。
+- da2 seng1 ni3 wang2 sun1 zhi1 zang4 ， yi4 shi4 nie4 yuan1 ming2 zhi1 zong1 。
+- fang1 er3 zu3 zhi1 de2 ming2 xi1 ， kao3 qi2 yan2 yu2 lu2 ling2 zhi1 zui4 weng1 。
+- yue1 jie1 shi4 zhi1 ren2 xi1 ， he2 bu4 gui1 lai2 hu1 shan1 zhong1 。
+- shan1 zhong1 zhi1 le4 bu4 ke3 jian4 ， jin1 yu3 qi2 wang3 xi1 shui2 feng2 。
+- hou4 si4 shi2 nian2 ， er3 fu4 hao3 yin2 。
+- yuan3 you2 bu4 fan3 ， qiu2 wo3 zhi1 cong2 。
+- quan4 er3 zhi1 gui1 xi1 ， qi1 lao3 hu1 shan1 zhong1 。
+- er3 zhi1 cai2 xi1 shen4 liang2 ， dang1 zi4 shi4 qi2 wu2 yong1 zhi1 yong1 。
+- wei2 shi4 jue2 su2 ， chu4 ming2 sai1 cong1 。
+- shan1 zhong1 zhi1 le4 xi1 nai3 ke3 yi3 jiu3 ， fei1 wo3 yu3 er3 xi1 shui2 tong2 。
 
 ## 注释
 

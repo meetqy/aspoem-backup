@@ -6,10 +6,10 @@ titleSlug: yi-yun-feng-he-si-tu-shi-zhong-xin-hai-san-yue-shi-ba-ri-you-yu-he-er
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

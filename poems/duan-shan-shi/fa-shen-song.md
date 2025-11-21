@@ -6,10 +6,10 @@ titleSlug: fa-shen-song
 author: 端禪師
 authorPinyin: duan1 shan4 shi1
 authorSlug: duan-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: feng-ci-dong-tai-yi-gong-qi-shou-qi-yan-bu-xu-ci-er-shou-qi-er
 author: 沈遘
 authorPinyin: shen3 gou4
 authorSlug: shen-gou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ge
 author: 莎衣道人
 authorPinyin: sha1 yi1 dao4 ren2
 authorSlug: sha-yi-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

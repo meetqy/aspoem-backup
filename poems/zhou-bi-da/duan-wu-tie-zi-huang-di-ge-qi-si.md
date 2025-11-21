@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-huang-di-ge-qi-si
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 縷繒採藥謾區區，誰似君王用意殊。
-- 仁政便爲醫國艾，德威那假辟兵符。
+- 日長珠箔漏聲疎，案上蘇文恣卷舒。
+- 時有佳篇符睿思，便將團扇作行書。
 
 ## 拼音
 
-- lü3 zeng1 cai3 yao4 man2 qu1 qu1 ， shui2 si4 jun1 wang2 yong4 yi4 shu1 。
-- ren2 zheng4 bian4 wei2 yi1 guo2 ai4 ， de2 wei1 na4 jia3 pi4 bing1 fu2 。
+- ri4 chang2 zhu1 bo2 lou4 sheng1 shu1 ， an4 shang4 su1 wen2 zi4 juan3 shu1 。
+- shi2 you3 jia1 pian1 fu2 rui4 si1 ， bian4 jiang1 tuan2 shan4 zuo4 xing2 shu1 。
 
 ## 注释
 

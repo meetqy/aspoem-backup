@@ -6,10 +6,10 @@ titleSlug: shu-mu-pai-qi-yi
 author: 釋無夢
 authorPinyin: shi4 wu2 meng4
 authorSlug: shi-wu-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

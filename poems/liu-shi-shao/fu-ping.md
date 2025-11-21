@@ -6,10 +6,10 @@ titleSlug: fu-ping
 author: 劉師邵
 authorPinyin: liu2 shi1 shao4
 authorSlug: liu-shi-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-zhang-zhong-yun-xian-sheng-wan-shi-san-shou-qi-er
-title: 張中允先生挽詩三首・其二
-titlePinyin: zhang1 zhong1 yun3 xian1 sheng0 wan3 shi1 san1 shou3・qi2 er4
+title: 張中允先生挽詩三首  其二
+titlePinyin: zhang1 zhong1 yun3 xian1 sheng0 wan3 shi1 san1 shou3     qi2 er4
 titleSlug: zhang-zhong-yun-xian-sheng-wan-shi-san-shou-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

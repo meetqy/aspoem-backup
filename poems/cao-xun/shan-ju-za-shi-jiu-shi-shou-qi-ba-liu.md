@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晨粥山中行，落葉響步武。
-- 委曲訪隠逸，清談銷百慮。
-- 老湯瀹苦茗，宿火煨山芋。
-- 却照夕陽歸，家人不知處。
+- 素願游匡廬，夢寐不可易。
+- 棄官竟一往，不以歸意迫。
+- 屢扣清虛仙，杯酒話疇昔。
+- 永懷撥雲峰，西麈每相憶。
 
 ## 拼音
 
-- chen2 zhou1 shan1 zhong1 hang2 ， luo4 ye4 xiang3 bu4 wu3 。
-- wei3 qu1 fang3 yin3 yi4 ， qing1 tan2 xiao1 bai3 lü4 。
-- lao3 tang1 yue4 ku3 ming2 ， su4 huo3 wei1 shan1 yu4 。
-- que4 zhao4 xi1 yang2 gui1 ， jia1 ren2 bu4 zhi1 chu3 。
+- su4 yuan4 you2 kuang1 lu2 ， meng4 mei4 bu4 ke3 yi4 。
+- qi4 guan1 jing4 yi4 wang3 ， bu4 yi3 gui1 yi4 po4 。
+- lü3 kou4 qing1 xu1 xian1 ， bei1 jiu3 hua4 chou2 xi1 。
+- yong3 huai2 bo1 yun2 feng1 ， xi1 zhu3 mei3 xiang1 yi4 。
 
 ## 注释
 

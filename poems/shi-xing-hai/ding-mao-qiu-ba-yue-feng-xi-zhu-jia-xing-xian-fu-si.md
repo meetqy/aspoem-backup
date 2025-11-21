@@ -6,10 +6,10 @@ titleSlug: ding-mao-qiu-ba-yue-feng-xi-zhu-jia-xing-xian-fu-si
 author: 釋行海
 authorPinyin: shi4 xing2 hai3
 authorSlug: shi-xing-hai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

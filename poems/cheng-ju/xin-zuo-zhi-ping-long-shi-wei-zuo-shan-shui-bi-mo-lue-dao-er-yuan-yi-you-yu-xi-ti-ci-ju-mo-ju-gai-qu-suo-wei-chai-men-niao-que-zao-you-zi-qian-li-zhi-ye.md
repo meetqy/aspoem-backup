@@ -6,10 +6,10 @@ titleSlug: xin-zuo-zhi-ping-long-shi-wei-zuo-shan-shui-bi-mo-lue-dao-er-yuan-yi-
 author: 程俱
 authorPinyin: cheng2 ju4
 authorSlug: cheng-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,28 +1,30 @@
 ---
 id: shi-shao-long-ji-er-shi-qi-shou-qi-yi
-title: 偈二十七首  其一
-titlePinyin: ji4 er4 shi2 qi1 shou3     qi2 yi1
+title: 偈二十七首  其一○
+titlePinyin: ji4 er4 shi2 qi1 shou3     qi2 yi1 ○
 titleSlug: ji-er-shi-qi-shou-qi-yi
 author: 釋紹隆
 authorPinyin: shi4 shao4 long2
 authorSlug: shi-shao-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮諸玄辯，竭世樞機。
-- 百千法門，無量妙義。
-- 總在箇裏，不隔一絲。
+- 一滴水，一滴凍，喝下風雷彰大用。
+- 棒頭點出眼睛來，照了諸相悉空洞。
+- 出門撞著須菩提，拶破虛空全體露。
+- 一片虛凝絕謂情，萬里清光飛玉兔。
 
 ## 拼音
 
-- qiong2 zhu1 xuan2 bian4 ， jie2 shi4 shu1 ji1 。
-- bai3 qian1 fa3 men2 ， wu2 liang2 miao4 yi4 。
-- zong3 zai4 ge4 li3 ， bu4 ge2 yi4 si1 。
+- yi4 di1 shui3 ， yi4 di1 dong4 ， he1 xia4 feng1 lei2 zhang1 da4 yong4 。
+- bang4 tou2 dian3 chu1 yan3 jing0 lai2 ， zhao4 le0 zhu1 xiang1 xi1 kong1 dong4 。
+- chu1 men2 zhuang4 zhu4 xu1 pu2 ti2 ， za1 po4 xu1 kong1 quan2 ti3 lu4 。
+- yi2 pian4 xu1 ning2 jue2 wei4 qing2 ， wan4 li3 qing1 guang1 fei1 yu4 tu4 。
 
 ## 注释
 

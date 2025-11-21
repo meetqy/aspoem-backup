@@ -6,10 +6,10 @@ titleSlug: qi-xiu
 author: 鮑彪
 authorPinyin: bao4 biao1
 authorSlug: bao-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

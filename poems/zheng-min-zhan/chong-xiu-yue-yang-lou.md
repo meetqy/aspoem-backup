@@ -6,10 +6,10 @@ titleSlug: chong-xiu-yue-yang-lou
 author: 鄭民瞻
 authorPinyin: zheng4 min2 zhan1
 authorSlug: zheng-min-zhan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

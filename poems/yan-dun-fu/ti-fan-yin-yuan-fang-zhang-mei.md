@@ -6,10 +6,10 @@ titleSlug: ti-fan-yin-yuan-fang-zhang-mei
 author: 晏敦復
 authorPinyin: yan4 dun1 fu4
 authorSlug: yan-dun-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

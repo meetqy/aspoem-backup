@@ -6,10 +6,10 @@ titleSlug: bi-jia-shan
 author: 辛好禮
 authorPinyin: xin1 hao3 li3
 authorSlug: xin-hao-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

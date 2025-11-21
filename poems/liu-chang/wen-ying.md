@@ -6,25 +6,25 @@ titleSlug: wen-ying
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舍南舍北柳陰陰，竟日啼鶯不自禁。
-- 羈旅可憐還擇木，間關似欲向知音。
-- 鴂鶗無事催芳草，燕雀相喧守舊林。
-- 幽獨閉門驚歲晚，固煩求友慰愁心。
+- 陰陰老樹連村路，羃羃輕烟過雨天。
+- 長愛禽聲能永日，似于鶯友欲忘年。
+- 朱纓紫椹看齊熟，深巷荒城得屢遷。
+- 朗詠謝公池上作，勿驚春物變熏絃。
 
 ## 拼音
 
-- she4 nan2 she4 bei3 liu3 yin1 yin1 ， jing4 ri4 ti2 ying1 bu2 zi4 jin4 。
-- ji1 lü3 ke3 lian2 huan2 ze2 mu4 ， jian4 guan1 si4 yu4 xiang4 zhi1 yin1 。
-- jue2 ti2 wu2 shi4 cui1 fang1 cao3 ， yan4 que4 xiang1 xuan1 shou3 jiu4 lin2 。
-- you1 du2 bi4 men2 jing1 sui4 wan3 ， gu4 fan2 qiu2 you3 wei4 chou2 xin1 。
+- yin1 yin1 lao3 shu4 lian2 cun1 lu4 ， mi4 mi4 qing1 yan1 guo4 yu3 tian1 。
+- chang2 ai4 qin2 sheng1 neng2 yong3 ri4 ， si4 yu2 ying1 you3 yu4 wang4 nian2 。
+- zhu1 ying1 zi3 shen4 kan4 qi2 shu2 ， shen1 xiang4 huang1 cheng2 de2 lü3 qian1 。
+- lang3 yong3 xie4 gong1 chi2 shang4 zuo4 ， wu4 jing1 chun1 wu4 bian4 xun1 xian2 。
 
 ## 注释
 

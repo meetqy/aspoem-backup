@@ -9,22 +9,20 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 漢日五銖建，姬年九府流。
-- 天龍帶泉寶，地馬列金溝。
-- 趙壹囊初乏，何曾箸欲收。
-- 金門應入論，玉井冀來求。
+- 九府五銖世上珍，魯襃曾詠道通神。
+- 勸君覔得須知足，雖解榮人也辱人。
+- （《古今圖書集成・食貨典》三五八《錢鈔部》）。
 
 ## 拼音
 
-- han4 ri4 wu3 zhu1 jian4 ， ji1 nian2 jiu3 fu3 liu2 。
-- tian1 long2 dai4 quan2 bao3 ， di4 ma3 lie4 jin1 gou1 。
-- zhao4 yi1 nang2 chu1 fa2 ， he2 ceng2 zhu4 yu4 shou1 。
-- jin1 men2 ying1 ru4 lun4 ， yu4 jing3 ji4 lai2 qiu2 。
+- jiu3 fu3 wu3 zhu1 shi4 shang4 zhen1 ， lu3 bao1 ceng2 yong3 dao4 tong1 shen2 。
+- quan4 jun1 mi4 de2 xu1 zhi1 zu2 ， sui1 jie3 rong2 ren2 ye3 ru3 ren2 。
+- （《 gu3 jin1 tu2 shu1 ji2 cheng2 ・ shi2 huo4 dian3 》 san1 wu3 ba1 《 qian2 chao1 bu4 》）。
 
 ## 注释
 

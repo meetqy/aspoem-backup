@@ -6,10 +6,10 @@ titleSlug: fang-shu-yu-long-xing-ren-wang-fo-she-yu-gong-ding-dao-fu-zhong-bao-x
 author: 趙令畤
 authorPinyin: zhao4 ling4 zhi4
 authorSlug: zhao-ling-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: diao-tai
 author: 于石
 authorPinyin: yu2 shi2
 authorSlug: yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傲睨羣雄百戰來，獨全高節老蒿萊。
-- 三公不任雲臺將，物色何須及釣臺。
+- 拋却羊裘入漢庭，偶然偃卧兩忘形。
+- 先生無處可伸足，太史何煩奏客星。
 
 ## 拼音
 
-- ao4 ni4 qun2 xiong2 bai3 zhan4 lai2 ， du2 quan2 gao1 jie2 lao3 hao1 lai2 。
-- san1 gong1 bu2 ren4 yun2 tai2 jiang1 ， wu4 se4 he2 xu1 ji2 diao4 tai2 。
+- pao1 que4 yang2 qiu2 ru4 han4 ting2 ， ou3 ran2 yan3 wo4 liang3 wang4 xing2 。
+- xian1 sheng0 wu2 chu3 ke3 shen1 zu2 ， tai4 shi3 he2 fan2 zou4 ke4 xing1 。
 
 ## 注释
 

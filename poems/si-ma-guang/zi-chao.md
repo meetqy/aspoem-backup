@@ -6,25 +6,25 @@ titleSlug: zi-chao
 author: 司馬光
 authorPinyin: si1 ma3 guang1
 authorSlug: si-ma-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 盤飱羅新蔬，充腹不求餘。
-- 窮巷晝扃戶，閑軒卧讀書。
-- 有心齊塞馬，無意羡川魚。
-- 世道方邀逐，如君術已疏。
+- 英名愧終賈，高節謝巢由。
+- 直取雲山笑，空爲簪組羞。
+- 浮沈乖俗好，隱顯拙身謀。
+- 惆悵臨清鑑，霜毛不待秋。
 
 ## 拼音
 
-- pan2 sun1 luo2 xin1 shu1 ， chong1 fu4 bu4 qiu2 yu2 。
-- qiong2 xiang4 zhou4 jiong1 hu4 ， xian2 xuan1 wo4 du2 shu1 。
-- you3 xin1 qi2 sai1 ma3 ， wu2 yi4 xian4 chuan1 yu2 。
-- shi4 dao4 fang1 yao1 zhu2 ， ru2 jun1 shu4 yi3 shu1 。
+- ying1 ming2 kui4 zhong1 jia3 ， gao1 jie2 xie4 chao2 you2 。
+- zhi2 qu3 yun2 shan1 xiao4 ， kong1 wei2 zan1 zu3 xiu1 。
+- fu2 shen3 guai1 su2 hao3 ， yin3 xian3 zhuo1 shen1 mou2 。
+- chou2 chang4 lin2 qing1 jian4 ， shuang1 mao2 bu2 dai4 qiu1 。
 
 ## 注释
 

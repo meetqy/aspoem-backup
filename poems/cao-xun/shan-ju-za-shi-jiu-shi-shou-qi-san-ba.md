@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-san-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 英石多斧鑿，司石殊怯脆。
-- 拳然太湖出，始有巖壑意。
-- 彈窩數峰綠，欲與仇池對。
-- 永念靈壁巧，嵌空勞夢寐。
+- 平生有知舊，相望頓以疏。
+- 卧念十日雨，誰寄一行書。
+- 景已來白雁，詩漫如黄初。
+- 不忘剡溪棹，且策雪中馿。
 
 ## 拼音
 
-- ying1 shi2 duo1 fu3 zao2 ， si1 shi2 shu1 qie4 cui4 。
-- quan2 ran2 tai4 hu2 chu1 ， shi3 you3 yan2 he4 yi4 。
-- dan4 wo1 shu4 feng1 lü4 ， yu4 yu3 qiu2 chi2 dui4 。
-- yong3 nian4 ling2 bi4 qiao3 ， qian4 kong1 lao2 meng4 mei4 。
+- ping2 sheng1 you3 zhi1 jiu4 ， xiang1 wang4 dun4 yi3 shu1 。
+- wo4 nian4 shi2 ri4 yu3 ， shui2 ji4 yi4 hang2 shu1 。
+- jing3 yi3 lai2 bai2 yan4 ， shi1 man4 ru2 huang2 chu1 。
+- bu2 wang4 shan4 xi1 zhao4 ， qie3 ce4 xue3 zhong1 lu2 。
 
 ## 注释
 

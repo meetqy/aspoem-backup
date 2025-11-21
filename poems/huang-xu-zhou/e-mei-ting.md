@@ -6,10 +6,10 @@ titleSlug: e-mei-ting
 author: 黄虛舟
 authorPinyin: huang2 xu1 zhou1
 authorSlug: huang-xu-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

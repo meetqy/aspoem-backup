@@ -6,9 +6,9 @@ titleSlug: song-gu-jiu-shou-qi-er
 author: 釋思岳
 authorPinyin: shi4 si1 yue4
 authorSlug: shi-si-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

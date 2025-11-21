@@ -6,21 +6,21 @@ titleSlug: za-ti-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半飽半饑窮境界，知晴知雨病形骸。
-- 軒昂似鶴那求料，枯槁如僧不赴齋。
+- 茆屋三間已太奢，柴乾米白喜無涯。
+- 非賢敢竊優賢祿，願折蓴絲與蕨芽。
 
 ## 拼音
 
-- ban4 bao3 ban4 ji1 qiong2 jing4 jie4 ， zhi1 qing2 zhi1 yu3 bing4 xing2 hai2 。
-- xuan1 ang2 si4 he4 na4 qiu2 liao4 ， ku1 gao3 ru2 seng1 bu2 fu4 zhai1 。
+- mao2 wu1 san1 jian4 yi3 tai4 she1 ， chai2 qian2 mi3 bai2 xi3 wu2 ya2 。
+- fei1 xian2 gan3 qie4 you1 xian2 lu4 ， yuan4 zhe2 chun2 si1 yu3 jue2 ya2 。
 
 ## 注释
 

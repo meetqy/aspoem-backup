@@ -6,21 +6,21 @@ titleSlug: song-seng
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六鐶一振下玲瓏，文入千巖萬壑中。
-- 百鳥不來春又去，善才何處覓行蹤。
+- 萬里南詢覓送行，恰如日午打三更。
+- 莫將始到牢關句，喚作陽關第一聲。
 
 ## 拼音
 
-- liu4 huan2 yi2 zhen4 xia4 ling2 long2 ， wen2 ru4 qian1 yan2 wan4 he4 zhong1 。
-- bai3 niao3 bu4 lai2 chun1 you4 qu4 ， shan4 cai2 he2 chu3 mi4 xing2 zong1 。
+- wan4 li3 nan2 xun2 mi4 song4 xing2 ， qia4 ru2 ri4 wu3 da3 san1 geng1 。
+- mo4 jiang1 shi3 dao4 lao2 guan1 ju4 ， huan4 zuo4 yang2 guan1 di4 yi1 sheng1 。
 
 ## 注释
 

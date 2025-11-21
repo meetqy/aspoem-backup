@@ -1,26 +1,28 @@
 ---
 id: shi-zi-yi-song-gu-shi-yi-shou-qi-yi
-title: 頌古十一首  其一
-titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1
+title: 頌古十一首  其一○
+titlePinyin: song4 gu3 shi2 yi1 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-yi-shou-qi-yi
 author: 釋子益
 authorPinyin: shi4 zi3 yi4
 authorSlug: shi-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心手相忘，二俱得妙，箭箭中的。
-- 未脫窠臼脫窠臼，好手手中呈好手。
+- 地藏栽田博飯，大似饑過心荒。
+- 聽它三三兩兩，佛法浩浩商量。
+- 杓柄那知有短長。
 
 ## 拼音
 
-- xin1 shou3 xiang1 wang4 ， er4 ju4 de2 miao4 ， jian4 jian4 zhong1 de0 。
-- wei4 tuo1 ke1 jiu4 tuo1 ke1 jiu4 ， hao3 shou3 shou3 zhong1 cheng2 hao3 shou3 。
+- di4 cang2 zai1 tian2 bo2 fan4 ， da4 si4 ji1 guo4 xin1 huang1 。
+- ting1 ta1 san1 san1 liang3 liang3 ， fo2 fa3 hao4 hao4 shang1 liang0 。
+- shao2 bing3 na4 zhi1 you3 duan3 chang2 。
 
 ## 注释
 

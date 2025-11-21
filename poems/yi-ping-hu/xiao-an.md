@@ -6,10 +6,10 @@ titleSlug: xiao-an
 author: 易平湖
 authorPinyin: yi4 ping2 hu2
 authorSlug: yi-ping-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

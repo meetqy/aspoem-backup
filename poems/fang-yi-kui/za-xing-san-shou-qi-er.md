@@ -6,25 +6,25 @@ titleSlug: za-xing-san-shou-qi-er
 author: 方一夔
 authorPinyin: fang1 yi4 kui2
 authorSlug: fang-yi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漫向松邊倚瘦筇，一生襟抱與誰同。
-- 照人不老古今月，送客多情南北風。
-- 才盡懸知詩作祟，數奇莫與命爭窮。
-- 冶金百煉今無幾，休向人前說事功。
+- 做事英雄竟不成，飛鴻何處避弓矰。
+- 杲卿有舌駡阿犖，叔夜無頭傳廣陵。
+- 禍福難知隨命值，才名太盛取天憎。
+- 江流渺渺無回勢，獨向西風倚瘦藤。
 
 ## 拼音
 
-- man4 xiang4 song1 bian1 yi3 shou4 qiong2 ， yi4 sheng1 jin1 bao4 yu3 shui2 tong2 。
-- zhao4 ren2 bu4 lao3 gu3 jin1 yue4 ， song4 ke4 duo1 qing2 nan2 bei3 feng1 。
-- cai2 jin4 xuan2 zhi1 shi1 zuo4 sui4 ， shu4 qi2 mo4 yu3 ming4 zheng1 qiong2 。
-- ye3 jin1 bai3 lian4 jin1 wu2 ji1 ， xiu1 xiang4 ren2 qian2 shuo1 shi4 gong1 。
+- zuo4 shi4 ying1 xiong2 jing4 bu4 cheng2 ， fei1 hong2 he2 chu3 bi4 gong1 zeng1 。
+- gao3 qing1 you3 she2 ma4 a1 luo4 ， shu1 ye4 wu2 tou2 chuan2 guang3 ling2 。
+- huo4 fu2 nan2 zhi1 sui2 ming4 zhi2 ， cai2 ming2 tai4 sheng4 qu3 tian1 zeng1 。
+- jiang1 liu2 miao3 miao3 wu2 hui2 shi4 ， du2 xiang4 xi1 feng1 yi3 shou4 teng2 。
 
 ## 注释
 

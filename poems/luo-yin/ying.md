@@ -1,7 +1,7 @@
 ---
 id: luo-yin-ying
-title: 鷹
-titlePinyin: ying1
+title: 螢
+titlePinyin: ying2
 titleSlug: ying
 author: 羅隱
 authorPinyin: luo2 yin3
@@ -9,22 +9,22 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 越海霜天暮，辭韜野草乾。
-- 俊通司隸職，嚴奉武夫官。
-- 眼惡藏蜂在，心麤逐物殫。
-- 近來脂膩足，驅遣不妨難。
+- 空庭夜未央，點點度西牆。
+- 抱影何微細，乘時忽發揚。
+- 不思因腐草，便擬倚孤光。
+- 若道能通照，車公業肯長。
 
 ## 拼音
 
-- yue4 hai3 shuang1 tian1 mu4 ， ci2 tao1 ye3 cao3 qian2 。
-- jun4 tong1 si1 li4 zhi2 ， yan2 feng4 wu3 fu1 guan1 。
-- yan3 e4 cang2 feng1 zai4 ， xin1 cu1 zhu2 wu4 dan1 。
-- jin4 lai2 zhi1 ni4 zu2 ， qu1 qian3 bu4 fang2 nan2 。
+- kong1 ting2 ye4 wei4 yang1 ， dian3 dian3 du4 xi1 qiang2 。
+- bao4 ying3 he2 wei1 xi4 ， cheng2 shi2 hu1 fa1 yang2 。
+- bu4 si1 yin1 fu3 cao3 ， bian4 ni3 yi3 gu1 guang1 。
+- ruo4 dao4 neng2 tong1 zhao4 ， ju1 gong1 ye4 ken3 chang2 。
 
 ## 注释
 

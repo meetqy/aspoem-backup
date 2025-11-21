@@ -6,21 +6,21 @@ titleSlug: si-huan-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 僕奴凌主人，夷狄犯中國。
-- 自古知不平，無由能絕得。
+- 緣飾近虛襟，虛襟後患深。
+- 療饑當用食，救旱必須霖。
 
 ## 拼音
 
-- pu2 nu2 ling2 zhu3 ren2 ， yi2 di2 fan4 zhong1 guo2 。
-- zi4 gu3 zhi1 bu4 ping2 ， wu2 you2 neng2 jue2 de2 。
+- yuan2 shi4 jin4 xu1 jin1 ， xu1 jin1 hou4 huan4 shen1 。
+- liao2 ji1 dang1 yong4 shi2 ， jiu4 han4 bi4 xu1 lin2 。
 
 ## 注释
 

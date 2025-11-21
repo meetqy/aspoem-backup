@@ -6,10 +6,10 @@ titleSlug: you-xiao-zhong-mi-shu-shou-hui-cui-dao-chu-jin-ling-tou-liu-shou-wu-g
 author: 高似孫
 authorPinyin: gao1 si4 sun1
 authorSlug: gao-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: zhong-yang-shu-huai
 author: 蘇元老
 authorPinyin: su1 yuan2 lao3
 authorSlug: su-yuan-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

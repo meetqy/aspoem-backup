@@ -6,10 +6,10 @@ titleSlug: han-jin-nan-fa
 author: 呂之鵬
 authorPinyin: lü3 zhi1 peng2
 authorSlug: lu-zhi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

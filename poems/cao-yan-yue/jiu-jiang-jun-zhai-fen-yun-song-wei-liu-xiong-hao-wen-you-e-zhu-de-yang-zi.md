@@ -6,10 +6,10 @@ titleSlug: jiu-jiang-jun-zhai-fen-yun-song-wei-liu-xiong-hao-wen-you-e-zhu-de-ya
 author: 曹彥約
 authorPinyin: cao2 yan4 yue1
 authorSlug: cao-yan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

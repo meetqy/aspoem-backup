@@ -6,10 +6,10 @@ titleSlug: yue-ke-chun-bo-du-can-liu-lang-zhong-fang-fu-gao-zi-wei-zhi-ji-dao-ji
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

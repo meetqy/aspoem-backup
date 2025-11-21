@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-er-er
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 碧紗窗薄晃朝曦，睡起心情不自持。
-- 糚飾尚慵臨曲檻，却敎鸚鵡念新詩。
+- 清晨簾捲碧堂前，淡薄梳粧結道緣。
+- 漸染化風忘外欲，觀聲頻送葛覃篇。
 
 ## 拼音
 
-- bi4 sha1 chuang1 bao2 huang4 chao2 xi1 ， shui4 qi3 xin1 qing2 bu2 zi4 chi2 。
-- zhuang1 shi4 shang4 yong1 lin2 qu3 jian4 ， que4 jiao4 ying1 wu3 nian4 xin1 shi1 。
+- qing1 chen2 lian2 juan3 bi4 tang2 qian2 ， dan4 bo2 shu1 zhuang1 jie2 dao4 yuan2 。
+- jian4 ran3 hua4 feng1 wang4 wai4 yu4 ， guan1 sheng1 bin1 song4 ge3 qin2 pian1 。
 
 ## 注释
 

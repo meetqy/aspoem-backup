@@ -6,10 +6,10 @@ titleSlug: ti-zhong-min-gong-song-xu-xing-de-zhao-gui-wu-nu-shi-hou
 author: 潘霆孫
 authorPinyin: pan1 ting2 sun1
 authorSlug: pan-ting-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: jian-shi-zi-you-zhu-bo
 author: 釋寶曇
 authorPinyin: shi4 bao3 tan2
 authorSlug: shi-bao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君歸意定氣逾平，莫學秋蟲泣露聲。
-- 少日斲凋須妙指，莫年深穩見真情。
-- 爲鄰古井無波日，試挈銅瓶待月明。
-- 獨抱斯文慰幽寂，莫辭萬象與逢迎。
+- 曉行雲海意蒼茫，畫入王維鴻雁行。
+- 煙樹屏山分遠近，風帆沙鳥認微芒。
+- 筆端應有鮫人淚，句法仍搜墨客腸。
+- 日暮歸來欣有得，眼空當不數瀟湘。
 
 ## 拼音
 
-- jun1 gui1 yi4 ding4 qi4 yu2 ping2 ， mo4 xue2 qiu1 chong2 qi4 lu4 sheng1 。
-- shao3 ri4 zhuo2 diao1 xu1 miao4 zhi3 ， mo4 nian2 shen1 wen3 jian4 zhen1 qing2 。
-- wei2 lin2 gu3 jing3 wu2 bo1 ri4 ， shi4 qie4 tong2 ping2 dai4 yue4 ming2 。
-- du2 bao4 si1 wen2 wei4 you1 ji4 ， mo4 ci2 wan4 xiang4 yu3 feng2 ying2 。
+- xiao3 xing2 yun2 hai3 yi4 cang1 mang2 ， hua4 ru4 wang2 wei2 hong2 yan4 xing2 。
+- yan1 shu4 ping2 shan1 fen1 yuan3 jin4 ， feng1 fan1 sha1 niao3 ren4 wei1 mang2 。
+- bi3 duan1 ying1 you3 jiao1 ren2 lei4 ， ju4 fa3 reng2 sou1 mo4 ke4 chang2 。
+- ri4 mu4 gui1 lai2 xin1 you3 de2 ， yan3 kong1 dang1 bu2 shu4 xiao1 xiang1 。
 
 ## 注释
 

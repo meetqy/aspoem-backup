@@ -1,26 +1,26 @@
 ---
 id: wang-ruan-song-hui-weng-shi-shou-qi-yi
-title: 送晦翁十首  其一
-titlePinyin: song4 hui4 weng1 shi2 shou3     qi2 yi1
+title: 送晦翁十首  其一○
+titlePinyin: song4 hui4 weng1 shi2 shou3     qi2 yi1 ○
 titleSlug: song-hui-weng-shi-shou-qi-yi
 author: 王阮
 authorPinyin: wang2 ruan3
 authorSlug: wang-ruan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 精微元不在河汾，原道詞雄亦淺聞。
-- 自得正心誠意論，始知天未喪斯文。
+- 平生自謂此心剛，不信離樽可斷腸。
+- 今日江邊兩行淚，更無情緒折垂楊。
 
 ## 拼音
 
-- jing1 wei1 yuan2 bu2 zai4 he2 fen2 ， yuan2 dao4 ci2 xiong2 yi4 qian3 wen2 。
-- zi4 de2 zheng4 xin1 cheng2 yi4 lun4 ， shi3 zhi1 tian1 wei4 sang1 si1 wen2 。
+- ping2 sheng1 zi4 wei4 ci3 xin1 gang1 ， bu2 xin4 li2 zun1 ke3 duan4 chang2 。
+- jin1 ri4 jiang1 bian1 liang3 xing2 lei4 ， geng4 wu2 qing2 xu4 zhe2 chui2 yang2 。
 
 ## 注释
 

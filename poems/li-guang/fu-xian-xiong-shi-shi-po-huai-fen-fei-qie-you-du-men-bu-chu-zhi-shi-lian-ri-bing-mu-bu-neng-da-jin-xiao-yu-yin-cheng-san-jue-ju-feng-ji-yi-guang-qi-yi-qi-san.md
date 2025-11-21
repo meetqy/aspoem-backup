@@ -6,10 +6,10 @@ titleSlug: fu-xian-xiong-shi-shi-po-huai-fen-fei-qie-you-du-men-bu-chu-zhi-shi-l
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

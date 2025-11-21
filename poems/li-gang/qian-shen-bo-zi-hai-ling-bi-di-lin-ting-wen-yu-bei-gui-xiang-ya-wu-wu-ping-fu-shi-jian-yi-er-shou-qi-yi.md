@@ -6,10 +6,10 @@ titleSlug: qian-shen-bo-zi-hai-ling-bi-di-lin-ting-wen-yu-bei-gui-xiang-ya-wu-wu
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

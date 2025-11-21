@@ -6,10 +6,10 @@ titleSlug: you-dan-shan-yan-qi-er
 author: 尚用之
 authorPinyin: shang4 yong4 zhi1
 authorSlug: shang-yong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

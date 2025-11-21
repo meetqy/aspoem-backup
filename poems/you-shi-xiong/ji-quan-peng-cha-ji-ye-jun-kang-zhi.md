@@ -6,10 +6,10 @@ titleSlug: ji-quan-peng-cha-ji-ye-jun-kang-zhi
 author: 游師雄
 authorPinyin: you2 shi1 xiong2
 authorSlug: you-shi-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

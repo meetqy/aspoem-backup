@@ -6,21 +6,25 @@ titleSlug: ye-bu
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江山客思滿，雲水稻田空。
-- 日塢懸秋實，霜林墜晚紅。
+- 晚來行野色，晴意滿江山。
+- 舊得貧中樂，今於老後閒。
+- 淵明五柳下，顔子一瓢間。
+- 此道如能會，孤標不可攀。
 
 ## 拼音
 
-- jiang1 shan1 ke4 si1 man3 ， yun2 shui3 dao4 tian2 kong1 。
-- ri4 wu4 xuan2 qiu1 shi2 ， shuang1 lin2 zhui4 wan3 hong2 。
+- wan3 lai2 xing2 ye3 se4 ， qing2 yi4 man3 jiang1 shan1 。
+- jiu4 de2 pin2 zhong1 le4 ， jin1 wu1 lao3 hou4 xian2 。
+- yuan1 ming2 wu3 liu3 xia4 ， yan2 zi3 yi4 piao2 jian4 。
+- ci3 dao4 ru2 neng2 hui4 ， gu1 biao1 bu4 ke3 pan1 。
 
 ## 注释
 

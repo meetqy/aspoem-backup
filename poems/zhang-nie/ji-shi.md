@@ -6,25 +6,21 @@ titleSlug: ji-shi
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 落日邊書急，秋風戰鼓多。
-- 私憂真過計，長算合如何。
-- 盡欲清淮戍，仍收瀚海波。
-- 棲遲一尊酒，幽恨滿關河。
+- 屐齒休令破紫苔，柴門無客不須開。
+- 雨餘籬菊埋光去，木落前山獻體來。
 
 ## 拼音
 
-- luo4 ri4 bian1 shu1 ji2 ， qiu1 feng1 zhan4 gu3 duo1 。
-- si1 you1 zhen1 guo4 ji4 ， chang2 suan4 he2 ru2 he2 。
-- jin4 yu4 qing1 huai2 shu4 ， reng2 shou1 han4 hai3 bo1 。
-- qi1 chi2 yi4 zun1 jiu3 ， you1 hen4 man3 guan1 he2 。
+- ji1 chi3 xiu1 ling4 po4 zi3 tai2 ， chai2 men2 wu2 ke4 bu4 xu1 kai1 。
+- yu3 yu2 li2 ju2 mai2 guang1 qu4 ， mu4 luo4 qian2 shan1 xian4 ti3 lai2 。
 
 ## 注释
 

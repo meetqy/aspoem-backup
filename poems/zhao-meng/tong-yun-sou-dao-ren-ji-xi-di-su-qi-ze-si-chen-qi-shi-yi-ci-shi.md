@@ -6,10 +6,10 @@ titleSlug: tong-yun-sou-dao-ren-ji-xi-di-su-qi-ze-si-chen-qi-shi-yi-ci-shi
 author: 趙㠓
 authorPinyin: zhao4 meng2
 authorSlug: zhao-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

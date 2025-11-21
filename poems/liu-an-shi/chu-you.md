@@ -6,10 +6,10 @@ titleSlug: chu-you
 author: 劉安世
 authorPinyin: liu2 an1 shi4
 authorSlug: liu-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

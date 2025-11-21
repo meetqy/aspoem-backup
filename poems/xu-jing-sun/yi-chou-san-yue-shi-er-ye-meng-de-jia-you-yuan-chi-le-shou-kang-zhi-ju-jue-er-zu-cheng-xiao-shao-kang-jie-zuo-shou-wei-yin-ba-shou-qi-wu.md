@@ -6,10 +6,10 @@ titleSlug: yi-chou-san-yue-shi-er-ye-meng-de-jia-you-yuan-chi-le-shou-kang-zhi-j
 author: 徐經孫
 authorPinyin: xu2 jing1 sun1
 authorSlug: xu-jing-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

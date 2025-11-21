@@ -6,10 +6,10 @@ titleSlug: dai-shuai-chu-jiu-ri-wu-liao-yi-man-cheng-feng-yu-jin-zhong-yang-wei-
 author: 陳著
 authorPinyin: chen2 zhu4
 authorSlug: chen-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

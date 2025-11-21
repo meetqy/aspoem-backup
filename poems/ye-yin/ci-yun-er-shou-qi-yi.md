@@ -6,25 +6,25 @@ titleSlug: ci-yun-er-shou-qi-yi
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幾載江湖兄弟心，老夫吟了聽君吟。
-- 休論聚散時難易，要識推敲意淺深。
-- 晝靜牀頭便竹簡，風清牆角度松琴。
-- 山靈應是馳山檄，知向孤山何處尋。
+- 過牆新竹粉痕黏，蛙閙池塘燕掠簷。
+- 自喜江鄉成懶散，從教世界要莊嚴。
+- 稻秧井井畦千緯，荷葉田田水一匳。
+- 心事太平風物好，與人無愛亦無嫌。
 
 ## 拼音
 
-- ji1 zai4 jiang1 hu2 xiong1 di4 xin1 ， lao3 fu1 yin2 le0 ting1 jun1 yin2 。
-- xiu1 lun4 ju4 san4 shi2 nan2 yi4 ， yao4 shi2 tui1 qiao1 yi4 qian3 shen1 。
-- zhou4 jing4 chuang2 tou2 bian4 zhu2 jian3 ， feng1 qing1 qiang2 jiao3 du4 song1 qin2 。
-- shan1 ling2 ying1 shi4 chi2 shan1 xi2 ， zhi1 xiang4 gu1 shan1 he2 chu3 xun2 。
+- guo4 qiang2 xin1 zhu2 fen3 hen2 nian2 ， wa1 nao4 chi2 tang2 yan4 lüe4 yan2 。
+- zi4 xi3 jiang1 xiang1 cheng2 lan3 san4 ， cong2 jiao4 shi4 jie4 yao4 zhuang1 yan2 。
+- dao4 yang1 jing3 jing3 qi2 qian1 wei3 ， he2 ye4 tian2 tian2 shui3 yi4 lian2 。
+- xin1 shi4 tai4 ping2 feng1 wu4 hao3 ， yu3 ren2 wu2 ai4 yi4 wu2 xian2 。
 
 ## 注释
 

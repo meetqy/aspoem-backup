@@ -6,10 +6,10 @@ titleSlug: song-ma-jing-shan-ji-lin-xiao-shan-xiong-di
 author: 林千之
 authorPinyin: lin2 qian1 zhi1
 authorSlug: lin-qian-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

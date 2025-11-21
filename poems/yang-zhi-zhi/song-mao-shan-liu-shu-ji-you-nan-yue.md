@@ -6,10 +6,10 @@ titleSlug: song-mao-shan-liu-shu-ji-you-nan-yue
 author: 楊至質
 authorPinyin: yang2 zhi4 zhi4
 authorSlug: yang-zhi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

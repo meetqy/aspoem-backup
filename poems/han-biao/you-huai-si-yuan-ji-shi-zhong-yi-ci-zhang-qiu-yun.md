@@ -6,29 +6,21 @@ titleSlug: you-huai-si-yuan-ji-shi-zhong-yi-ci-zhang-qiu-yun
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 後湖有徐舅，永豐有施甥。
-- 英英懷玉山，方來孰爭衡。
-- 世豈無甥舅，人豈無友生。
-- 二士真可人，得之於我榮。
-- 跖壽回也短，司命如不平。
-- 已乎係時數，感焉涕泗并。
+- 其後凄然忍寄詩，寄之誰復讀於斯。
+- 章丘木落風月冷，手澤應須留與兒。
 
 ## 拼音
 
-- hou4 hu2 you3 xu2 jiu4 ， yong3 feng1 you3 shi1 sheng1 。
-- ying1 ying1 huai2 yu4 shan1 ， fang1 lai2 shu2 zheng1 heng2 。
-- shi4 qi3 wu2 sheng1 jiu4 ， ren2 qi3 wu2 you3 sheng1 。
-- er4 shi4 zhen1 ke3 ren2 ， de2 zhi1 wu1 wo3 rong2 。
-- zhi2 shou4 hui2 ye3 duan3 ， si1 ming4 ru2 bu4 ping2 。
-- yi3 hu1 xi4 shi2 shu4 ， gan3 yan1 ti4 si4 bing4 。
+- qi2 hou4 qi1 ran2 ren3 ji4 shi1 ， ji4 zhi1 shui2 fu4 du2 wu1 si1 。
+- zhang1 qiu1 mu4 luo4 feng1 yue4 leng3 ， shou3 ze2 ying1 xu1 liu2 yu3 er2 。
 
 ## 注释
 

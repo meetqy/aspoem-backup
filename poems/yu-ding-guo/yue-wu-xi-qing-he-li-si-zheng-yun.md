@@ -6,10 +6,10 @@ titleSlug: yue-wu-xi-qing-he-li-si-zheng-yun
 author: 于定國
 authorPinyin: yu2 ding4 guo2
 authorSlug: yu-ding-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

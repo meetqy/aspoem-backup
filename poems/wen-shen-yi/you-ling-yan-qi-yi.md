@@ -6,10 +6,10 @@ titleSlug: you-ling-yan-qi-yi
 author: 文紳儀
 authorPinyin: wen2 shen1 yi2
 authorSlug: wen-shen-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

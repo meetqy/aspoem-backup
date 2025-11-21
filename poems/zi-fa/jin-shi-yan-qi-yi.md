@@ -6,10 +6,10 @@ titleSlug: jin-shi-yan-qi-yi
 author: □子發
 authorPinyin: □ zi3 fa1
 authorSlug: zi-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

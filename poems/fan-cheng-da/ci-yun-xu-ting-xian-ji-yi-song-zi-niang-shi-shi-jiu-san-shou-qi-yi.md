@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-xu-ting-xian-ji-yi-song-zi-niang-shi-shi-jiu-san-shou-qi-yi
-title: 次韻徐廷獻機宜送自釀石室酒三首・其一
-titlePinyin: ci4 yun4 xu2 ting2 xian4 ji1 yi2 song4 zi4 niang4 shi2 shi4 jiu3 san1 shou3・qi2 yi1
+title: 次韻徐廷獻機宜送自釀石室酒三首  其一
+titlePinyin: ci4 yun4 xu2 ting2 xian4 ji1 yi2 song4 zi4 niang4 shi2 shi4 jiu3 san1 shou3     qi2 yi1
 titleSlug: ci-yun-xu-ting-xian-ji-yi-song-zi-niang-shi-shi-jiu-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

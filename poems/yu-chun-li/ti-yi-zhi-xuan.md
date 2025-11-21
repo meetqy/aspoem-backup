@@ -6,9 +6,9 @@ titleSlug: ti-yi-zhi-xuan
 author: 余淳禮
 authorPinyin: yu2 chun2 li3
 authorSlug: yu-chun-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,21 +6,25 @@ titleSlug: dao-zhong
 author: 晁沖之
 authorPinyin: chao2 chong1 zhi1
 authorSlug: chao-chong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北風吹雨不能晴，羸病人騎瘦馬行。
-- 鬚髪向來渾白盡，半緣憂患半多情。
+- 雨子收還急，溪流直又斜。
+- 迢迢旁山路，漠漠滿林花。
+- 破水雙鷗影，掀泥百草芽。
+- 川原有高下，隨處着人家。
 
 ## 拼音
 
-- bei3 feng1 chui1 yu3 bu4 neng2 qing2 ， lei2 bing4 ren2 qi2 shou4 ma3 xing2 。
-- xu1 fa4 xiang4 lai2 hun2 bai2 jin4 ， ban4 yuan2 you1 huan4 ban4 duo1 qing2 。
+- yu3 zi0 shou1 huan2 ji2 ， xi1 liu2 zhi2 you4 xie2 。
+- tiao2 tiao2 pang2 shan1 lu4 ， mo4 mo4 man3 lin2 hua1 。
+- po4 shui3 shuang1 ou1 ying3 ， xian1 ni2 bai3 cao3 ya2 。
+- chuan1 yuan2 you3 gao1 xia4 ， sui2 chu3 zhe0 ren2 jia1 。
 
 ## 注释
 

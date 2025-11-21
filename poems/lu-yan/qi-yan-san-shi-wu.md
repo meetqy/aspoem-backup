@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 誰識寰中達者人，生平解法水中銀。
-- 一條拄杖撐天地，三尺昆吾斬鬼神。
-- 大醉醉來眠月洞，高吟吟去傲紅塵。
-- 自從悟裏終身後，贏得蓬壺永劫春。
+- 當年詩價滿皇都，掉臂西歸是丈夫。
+- 萬頃白雲獨自有，一枝丹桂阿誰無。
+- 閑尋渭曲漁翁引，醉上蓮峰道士扶。
+- 他日與君重際會，竹溪茅舍夜相呼。
 
 ## 拼音
 
-- shui2 shi2 huan2 zhong1 da2 zhe3 ren2 ， sheng1 ping2 jie3 fa3 shui3 zhong1 yin2 。
-- yi4 tiao2 zhu3 zhang4 cheng1 tian1 di4 ， san1 chi3 kun1 wu2 zhan3 gui3 shen2 。
-- da4 zui4 zui4 lai2 mian2 yue4 dong4 ， gao1 yin2 yin2 qu4 ao4 hong2 chen2 。
-- zi4 cong2 wu4 li3 zhong1 shen1 hou4 ， ying2 de2 peng2 hu2 yong3 jie2 chun1 。
+- dang1 nian2 shi1 jia4 man3 huang2 dou1 ， diao4 bi4 xi1 gui1 shi4 zhang4 fu0 。
+- wan4 qing3 bai2 yun2 du2 zi4 you3 ， yi4 zhi1 dan1 gui4 a1 shui2 wu2 。
+- xian2 xun2 wei4 qu3 yu2 weng1 yin3 ， zui4 shang4 lian2 feng1 dao4 shi0 fu2 。
+- ta1 ri4 yu3 jun1 zhong4 ji4 hui4 ， zhu2 xi1 mao2 she4 ye4 xiang1 hu1 。
 
 ## 注释
 

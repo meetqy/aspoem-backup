@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-huai-gu-yu-xiong-qi-er
-title: 懷古愚兄・其二
-titlePinyin: huai2 gu3 yu2 xiong1・qi2 er4
+title: 懷古愚兄  其二
+titlePinyin: huai2 gu3 yu2 xiong1     qi2 er4
 titleSlug: huai-gu-yu-xiong-qi-er
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

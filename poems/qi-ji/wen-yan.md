@@ -9,22 +9,18 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 何處人驚起，飛來過草堂。
-- 丹心勞避弋，萬里念隨陽。
-- 影斷風天月，聲孤荻岸霜。
-- 明年趁春去，江上別鴛鴦。
+- 瀟湘浦暖全迷鶴，邏逤川寒只有鵰。
+- 誰向孤舟憶兄弟，坐看連鴈度橫橋。
 
 ## 拼音
 
-- he2 chu3 ren2 jing1 qi3 ， fei1 lai2 guo4 cao3 tang2 。
-- dan1 xin1 lao2 bi4 yi4 ， wan4 li3 nian4 sui2 yang2 。
-- ying3 duan4 feng1 tian1 yue4 ， sheng1 gu1 di2 an4 shuang1 。
-- ming2 nian2 chen4 chun1 qu4 ， jiang1 shang4 bie2 yuan1 yang1 。
+- xiao1 xiang1 pu3 nuan3 quan2 mi2 he4 ， luo2 suo4 chuan1 han2 zhi3 you3 diao1 。
+- shui2 xiang4 gu1 zhou1 yi4 xiong1 di4 ， zuo4 kan4 lian2 yan4 du4 heng2 qiao2 。
 
 ## 注释
 

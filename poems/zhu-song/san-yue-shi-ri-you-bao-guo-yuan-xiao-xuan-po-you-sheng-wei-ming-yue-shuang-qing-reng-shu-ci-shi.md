@@ -6,9 +6,9 @@ titleSlug: san-yue-shi-ri-you-bao-guo-yuan-xiao-xuan-po-you-sheng-wei-ming-yue-s
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

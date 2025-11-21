@@ -6,10 +6,10 @@ titleSlug: an-shi-xuan
 author: 唐最
 authorPinyin: tang2 zui4
 authorSlug: tang-zui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-kong-dao-shi-yun-an
 author: 趙庚夫
 authorPinyin: zhao4 geng1 fu1
 authorSlug: zhao-geng-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

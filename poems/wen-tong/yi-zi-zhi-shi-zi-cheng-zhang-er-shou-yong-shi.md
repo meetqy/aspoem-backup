@@ -1,14 +1,14 @@
 ---
 id: wen-tong-yi-zi-zhi-shi-zi-cheng-zhang-er-shou-yong-shi
-title: 一字至十字成章二首・詠石
-titlePinyin: yi2 zi4 zhi4 shi2 zi4 cheng2 zhang1 er4 shou3・yong3 shi2
+title: 一字至十字成章二首 詠石
+titlePinyin: yi2 zi4 zhi4 shi2 zi4 cheng2 zhang1 er4 shou3   yong3 shi2
 titleSlug: yi-zi-zhi-shi-zi-cheng-zhang-er-shou-yong-shi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

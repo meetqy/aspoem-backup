@@ -6,10 +6,10 @@ titleSlug: ti-lan-ting-tie
 author: 晁子綺
 authorPinyin: chao2 zi3 qi3
 authorSlug: chao-zi-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

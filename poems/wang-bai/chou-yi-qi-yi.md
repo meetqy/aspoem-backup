@@ -1,30 +1,30 @@
 ---
 id: wang-bai-chou-yi-qi-yi
-title: 疇依  其一
-titlePinyin: chou2 yi1     qi2 yi1
+title: 疇依  其一○
+titlePinyin: chou2 yi1     qi2 yi1 ○
 titleSlug: chou-yi-qi-yi
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 元會開物，風氣渾龐。
-- 聿生神聖，惟包羲皇。
-- 始畫八卦，人文炳煌。
-- 大道之書，誰云已亡。
+- 生民以來，未有孔子。
+- 金聲玉振，始終條理。
+- 五經之道，天地同流。
+- 立此人極，萬世東周。
 
 ## 拼音
 
-- yuan2 hui4 kai1 wu4 ， feng1 qi4 hun2 pang2 。
-- yu4 sheng1 shen2 sheng4 ， wei2 bao1 xi1 huang2 。
-- shi3 hua4 ba1 gua4 ， ren2 wen2 bing3 huang2 。
-- da4 dao4 zhi1 shu1 ， shui2 yun2 yi3 wang2 。
+- sheng1 min2 yi3 lai2 ， wei4 you3 kong3 zi3 。
+- jin1 sheng1 yu4 zhen4 ， shi3 zhong1 tiao2 li3 。
+- wu3 jing1 zhi1 dao4 ， tian1 di4 tong2 liu2 。
+- li4 ci3 ren2 ji2 ， wan4 shi4 dong1 zhou1 。
 
 ## 注释
 

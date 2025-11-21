@@ -6,10 +6,10 @@ titleSlug: you-ju
 author: 王先莘
 authorPinyin: wang2 xian1 shen1
 authorSlug: wang-xian-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

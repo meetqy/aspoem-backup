@@ -1,30 +1,30 @@
 ---
 id: wang-ling-za-shi-qi-er
-title: 襍詩  其二
+title: 雜詩  其二
 titlePinyin: za2 shi1     qi2 er4
 titleSlug: za-shi-qi-er
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一日不爲田，百草已有根。
-- 况復閑三時，其穢何待論。
-- 豈不有錢鎛，徒羞慵借勤。
-- 歲晚憂不耕，何獨議鋤耘。
+- 召公方伯尊，材亦聖人亞。
+- 農時憚煩民，聽訟小棠下。
+- 嗟今千里長，已恥問耕稼。
+- 彈琴髙堂上，欲以無爲化。
 
 ## 拼音
 
-- yi2 ri4 bu4 wei2 tian2 ， bai3 cao3 yi3 you3 gen1 。
-- kuang4 fu4 xian2 san1 shi2 ， qi2 hui4 he2 dai4 lun4 。
-- qi3 bu4 you3 qian2 bo2 ， tu2 xiu1 yong1 jie4 qin2 。
-- sui4 wan3 you1 bu4 geng1 ， he2 du2 yi4 chu2 yun2 。
+- zhao4 gong1 fang1 bo2 zun1 ， cai2 yi4 sheng4 ren2 ya1 。
+- nong2 shi2 dan4 fan2 min2 ， ting1 song4 xiao3 tang2 xia4 。
+- jie1 jin1 qian1 li3 chang2 ， yi3 chi3 wen4 geng1 jia4 。
+- dan4 qin2 gao1 tang2 shang4 ， yu4 yi3 wu2 wei2 hua4 。
 
 ## 注释
 

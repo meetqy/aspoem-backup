@@ -6,10 +6,10 @@ titleSlug: cheng-du-ao-le-shi-er-shi-yi-shou-dong-zhi-chao-bai-tian-qing-guan-hu
 author: 田況
 authorPinyin: tian2 kuang4
 authorSlug: tian-kuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

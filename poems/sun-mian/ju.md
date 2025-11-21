@@ -6,9 +6,9 @@ titleSlug: ju
 author: 孫沔
 authorPinyin: sun1 mian3
 authorSlug: sun-mian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

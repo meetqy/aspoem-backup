@@ -6,10 +6,10 @@ titleSlug: xiang-cheng-si
 author: 劉元剛
 authorPinyin: liu2 yuan2 gang1
 authorSlug: liu-yuan-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

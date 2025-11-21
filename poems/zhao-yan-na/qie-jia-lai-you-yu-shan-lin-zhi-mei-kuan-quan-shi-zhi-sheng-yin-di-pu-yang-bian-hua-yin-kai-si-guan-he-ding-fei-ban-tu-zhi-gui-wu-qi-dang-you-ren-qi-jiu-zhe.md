@@ -6,10 +6,10 @@ titleSlug: qie-jia-lai-you-yu-shan-lin-zhi-mei-kuan-quan-shi-zhi-sheng-yin-di-pu
 author: 趙彥吶
 authorPinyin: zhao4 yan4 na4
 authorSlug: zhao-yan-na
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

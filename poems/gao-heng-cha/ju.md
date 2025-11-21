@@ -6,10 +6,10 @@ titleSlug: ju
 author: 高橫槎
 authorPinyin: gao1 heng2 cha2
 authorSlug: gao-heng-cha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: song-yong-jia-zhang-de-zai-gui
 author: 李誨言
 authorPinyin: li3 hui4 yan2
 authorSlug: li-hui-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

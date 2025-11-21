@@ -6,10 +6,10 @@ titleSlug: zong-yu
 author: 胡從義
 authorPinyin: hu2 cong2 yi4
 authorSlug: hu-cong-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,14 +1,14 @@
 ---
 id: qiu-kui-jin-ying-zi-qi-yi
-title: 金櫻子・其一
-titlePinyin: jin1 ying1 zi3・qi2 yi1
+title: 金櫻子  其一
+titlePinyin: jin1 ying1 zi3     qi2 yi1
 titleSlug: jin-ying-zi-qi-yi
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

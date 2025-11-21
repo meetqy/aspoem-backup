@@ -6,10 +6,10 @@ titleSlug: du-mu
 author: 田晝
 authorPinyin: tian2 zhou4
 authorSlug: tian-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

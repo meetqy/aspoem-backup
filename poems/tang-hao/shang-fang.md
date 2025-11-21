@@ -6,10 +6,10 @@ titleSlug: shang-fang
 author: 唐皞
 authorPinyin: tang2 hao4
 authorSlug: tang-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

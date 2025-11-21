@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-qian-yi-ri-zhu-sheng-xie-jiu-jian-guo-dui-yue-tong-fu
 author: 呂江
 authorPinyin: lü3 jiang1
 authorSlug: lu-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

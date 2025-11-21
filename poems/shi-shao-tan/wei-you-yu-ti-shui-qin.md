@@ -6,21 +6,21 @@ titleSlug: wei-you-yu-ti-shui-qin
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衰草汀烟寂寞秋，忍寒孤立懶盟鷗。
-- 江湖風味駸駸惡，得縮頭時且縮頭。
+- 淅淅西風肅殺時，枯荷餘得折殘枝。
+- 疾風凌雨多翻覆，只處姑姑立處危。
 
 ## 拼音
 
-- shuai1 cao3 ting1 yan1 ji4 mo4 qiu1 ， ren3 han2 gu1 li4 lan3 meng2 ou1 。
-- jiang1 hu2 feng1 wei4 qin1 qin1 e4 ， de2 suo1 tou2 shi2 qie3 suo1 tou2 。
+- xi1 xi1 xi1 feng1 su4 sha1 shi2 ， ku1 he2 yu2 de2 zhe2 can2 zhi1 。
+- ji2 feng1 ling2 yu3 duo1 fan1 fu4 ， zhi1 chu3 gu1 gu0 li4 chu3 wei1 。
 
 ## 注释
 

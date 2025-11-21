@@ -6,25 +6,25 @@ titleSlug: ci-yun-wang-xuan-fu-cui-mei
 author: 許及之
 authorPinyin: xu1 ji2 zhi1
 authorSlug: xu-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 摇落驅馳自歲年，今年慙愧得身安。
-- 小園亦有先春意，短思惟知著句難。
-- 看水看山從昔好，愛風愛雪待今寒。
-- 故人遠寄催梅作，喚起新愁有萬端。
+- 犯寒時訪歲寒姿，經閏何緣却後期。
+- 珍重故人勤問訊，剪裁新意作催詩。
+- 一陽潛與飛灰動，九奏深憑畫角吹。
+- 莫遣詩筩成斷絕，日來頻爲起愁思。
 
 ## 拼音
 
-- yao2 luo4 qu1 chi2 zi4 sui4 nian2 ， jin1 nian2 can2 kui4 de2 shen1 an1 。
-- xiao3 yuan2 yi4 you3 xian1 chun1 yi4 ， duan3 si1 wei2 zhi1 zhu4 ju4 nan2 。
-- kan4 shui3 kan4 shan1 cong2 xi1 hao3 ， ai4 feng1 ai4 xue3 dai4 jin1 han2 。
-- gu4 ren2 yuan3 ji4 cui1 mei2 zuo4 ， huan4 qi3 xin1 chou2 you3 wan4 duan1 。
+- fan4 han2 shi2 fang3 sui4 han2 zi1 ， jing1 run4 he2 yuan2 que4 hou4 qi1 。
+- zhen1 zhong4 gu4 ren2 qin2 wen4 xun4 ， jian3 cai2 xin1 yi4 zuo4 cui1 shi1 。
+- yi4 yang2 qian2 yu3 fei1 hui1 dong4 ， jiu3 zou4 shen1 ping2 hua4 jiao3 chui1 。
+- mo4 qian3 shi1 tong3 cheng2 duan4 jue2 ， ri4 lai2 bin1 wei2 qi3 chou2 si1 。
 
 ## 注释
 

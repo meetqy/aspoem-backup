@@ -1,26 +1,28 @@
 ---
 id: shi-pu-ning-ji-song-si-shi-yi-shou-qi-yi
-title: 偈頌四十一首  其一
-titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 yi1
+title: 偈頌四十一首  其一○
+titlePinyin: ji4 song4 si4 shi2 yi4 shou3     qi2 yi1 ○
 titleSlug: ji-song-si-shi-yi-shou-qi-yi
 author: 釋普寧
 authorPinyin: shi4 pu3 ning2
 authorSlug: shi-pu-ning
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迷悟兩門，聖凡二路。
-- 總與諸人開闢了也，普請一時證入。
+- 諸方安居結制，靈巖結制安居。
+- 雖是一般規矩，於中大有差殊。
+- 趙州東壁掛葫蘆。
 
 ## 拼音
 
-- mi2 wu4 liang3 men2 ， sheng4 fan2 er4 lu4 。
-- zong3 yu3 zhu1 ren2 kai1 pi4 le0 ye3 ， pu3 qing3 yi4 shi2 zheng4 ru4 。
+- zhu1 fang1 an1 ju1 jie2 zhi4 ， ling2 yan2 jie2 zhi4 an1 ju1 。
+- sui1 shi4 yi4 ban1 gui1 ju3 ， wu1 zhong1 da4 you3 cha4 shu1 。
+- zhao4 zhou1 dong1 bi4 gua4 hu2 lu2 。
 
 ## 注释
 

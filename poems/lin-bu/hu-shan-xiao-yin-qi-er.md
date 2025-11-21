@@ -6,25 +6,25 @@ titleSlug: hu-shan-xiao-yin-qi-er
 author: 林逋
 authorPinyin: lin2 bu1
 authorSlug: lin-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 園井夾蕭森，紅芳墮翠陰。
-- 晝岩松鼠靜，春塹竹鷄深。
-- 歲課非無秫，家藏獨有琴。
-- 顔原遺事在，千古壯閑心。
+- 閑搭綸巾擁縹囊，此心隨分識興亡。
+- 黑頭爲相雖無謂，白眼看人亦未妨。
+- 雲噴石花生劍壁，雨敲松子落琴牀。
+- 清猿幽鳥遥相叫，數筆湖山又夕陽。
 
 ## 拼音
 
-- yuan2 jing3 jia1 xiao1 sen1 ， hong2 fang1 duo4 cui4 yin1 。
-- zhou4 yan2 song1 shu3 jing4 ， chun1 qian4 zhu2 ji1 shen1 。
-- sui4 ke4 fei1 wu2 shu2 ， jia1 cang2 du2 you3 qin2 。
-- yan2 yuan2 yi2 shi4 zai4 ， qian1 gu3 zhuang4 xian2 xin1 。
+- xian2 da1 lun2 jin1 yong1 piao3 nang2 ， ci3 xin1 sui2 fen1 shi2 xing1 wang2 。
+- hei1 tou2 wei2 xiang1 sui1 wu2 wei4 ， bai2 yan3 kan4 ren2 yi4 wei4 fang2 。
+- yun2 pen1 shi2 hua1 sheng1 jian4 bi4 ， yu3 qiao1 song1 zi3 luo4 qin2 chuang2 。
+- qing1 yuan2 you1 niao3 yao2 xiang4 jiao4 ， shu4 bi3 hu2 shan1 you4 xi1 yang2 。
 
 ## 注释
 

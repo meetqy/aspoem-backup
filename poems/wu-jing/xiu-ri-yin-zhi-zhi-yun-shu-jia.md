@@ -6,10 +6,10 @@ titleSlug: xiu-ri-yin-zhi-zhi-yun-shu-jia
 author: 吳儆
 authorPinyin: wu2 jing3
 authorSlug: wu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

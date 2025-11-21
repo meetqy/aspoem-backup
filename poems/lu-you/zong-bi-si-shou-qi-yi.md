@@ -6,21 +6,25 @@ titleSlug: zong-bi-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 文叔一人知此翁，洛陽城裏又東風。
-- 譲他綠髮好年少，二十四歲作三公。
+- 兀兀一無爲，冥冥百不知。
+- 倦多惟嗜睡，食晚遂忘饑。
+- 開卷渾如夢，逢人不省誰。
+- 何須覓知識，木石即吾師。
 
 ## 拼音
 
-- wen2 shu1 yi4 ren2 zhi1 ci3 weng1 ， luo4 yang2 cheng2 li3 you4 dong1 feng1 。
-- rang4 ta1 lü4 fa4 hao3 nian2 shao4 ， er4 shi2 si4 sui4 zuo4 san1 gong1 。
+- wu4 wu4 yi4 wu2 wei2 ， ming2 ming2 bai3 bu4 zhi1 。
+- juan4 duo1 wei2 shi4 shui4 ， shi2 wan3 sui4 wang4 ji1 。
+- kai1 juan4 hun2 ru2 meng4 ， feng2 ren2 bu4 sheng3 shui2 。
+- he2 xu1 mi4 zhi1 shi2 ， mu4 shi2 ji2 wu2 shi1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao
 author: 張震龍
 authorPinyin: zhang1 zhen4 long2
 authorSlug: zhang-zhen-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

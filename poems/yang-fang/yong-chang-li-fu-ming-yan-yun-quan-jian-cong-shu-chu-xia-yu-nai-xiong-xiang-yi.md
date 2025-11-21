@@ -6,10 +6,10 @@ titleSlug: yong-chang-li-fu-ming-yan-yun-quan-jian-cong-shu-chu-xia-yu-nai-xiong
 author: 陽枋
 authorPinyin: yang2 fang1
 authorSlug: yang-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

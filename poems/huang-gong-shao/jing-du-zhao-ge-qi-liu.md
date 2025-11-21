@@ -6,10 +6,10 @@ titleSlug: jing-du-zhao-ge-qi-liu
 author: 黄公紹
 authorPinyin: huang2 gong1 shao4
 authorSlug: huang-gong-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

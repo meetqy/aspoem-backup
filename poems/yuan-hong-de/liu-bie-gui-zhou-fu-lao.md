@@ -6,10 +6,10 @@ titleSlug: liu-bie-gui-zhou-fu-lao
 author: 袁宏德
 authorPinyin: yuan2 hong2 de2
 authorSlug: yuan-hong-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

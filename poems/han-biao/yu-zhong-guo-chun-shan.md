@@ -6,25 +6,21 @@ titleSlug: yu-zhong-guo-chun-shan
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪南上下郭，得得過春山。
-- 自嘆欲何往，相從非等閑。
-- 波深魚潑潑，竹靜鳥關關。
-- 若箇漁舟晚，延緣見葦間。
+- 春風春雨滿春山，桃李梨花草樹間。
+- 時有片煙收不起，淡隨飛鳥去而還。
 
 ## 拼音
 
-- xi1 nan2 shang4 xia4 guo1 ， de2 de2 guo4 chun1 shan1 。
-- zi4 tan4 yu4 he2 wang3 ， xiang1 cong2 fei1 deng3 xian2 。
-- bo1 shen1 yu2 po1 po1 ， zhu2 jing4 niao3 guan1 guan1 。
-- ruo4 ge4 yu2 zhou1 wan3 ， yan2 yuan2 jian4 wei3 jian4 。
+- chun1 feng1 chun1 yu3 man3 chun1 shan1 ， tao2 li3 li2 hua1 cao3 shu4 jian4 。
+- shi2 you3 pian4 yan1 shou1 bu4 qi3 ， dan4 sui2 fei1 niao3 qu4 er2 huan2 。
 
 ## 注释
 

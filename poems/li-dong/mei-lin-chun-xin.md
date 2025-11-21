@@ -6,9 +6,9 @@ titleSlug: mei-lin-chun-xin
 author: 李侗
 authorPinyin: li3 dong4
 authorSlug: li-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

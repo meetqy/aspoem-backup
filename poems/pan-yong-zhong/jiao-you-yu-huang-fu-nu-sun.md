@@ -6,10 +6,10 @@ titleSlug: jiao-you-yu-huang-fu-nu-sun
 author: 潘用中
 authorPinyin: pan1 yong4 zhong1
 authorSlug: pan-yong-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: you-wu-yan-yi-shou
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 累疏皆中寢，孤忠奈衆咻。
-- 人方袖瓦送，君獨舉幡留。
-- 不記邯鄲夢，猶貪洛社遊。
-- 而今都已矣，慟哭過西州。
+- 甫白不可作，千年有廢壇。
+- 虛逢右文主，難獻采詩官。
+- 與子擘麟脯，從渠切蟣肝。
+- 後生多美秀，未可便麤瞞。
 
 ## 拼音
 
-- lei4 shu1 jie1 zhong1 qin3 ， gu1 zhong1 nai4 zhong4 xiu1 。
-- ren2 fang1 xiu4 wa3 song4 ， jun1 du2 ju3 fan1 liu2 。
-- bu2 ji4 han2 dan1 meng4 ， you2 tan1 luo4 she4 you2 。
-- er2 jin1 dou1 yi3 yi3 ， tong4 ku1 guo4 xi1 zhou1 。
+- fu3 bai2 bu4 ke3 zuo4 ， qian1 nian2 you3 fei4 tan2 。
+- xu1 feng2 you4 wen2 zhu3 ， nan2 xian4 cai3 shi1 guan1 。
+- yu3 zi3 bo4 lin2 pu2 ， cong2 qu2 qie4 ji3 gan1 。
+- hou4 sheng1 duo1 mei3 xiu4 ， wei4 ke3 bian4 cu1 man2 。
 
 ## 注释
 

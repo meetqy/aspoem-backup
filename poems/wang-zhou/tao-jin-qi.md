@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 畫船晚過淘金磧，不見黄金惟見石。
-- 猶恐黄金價未高，見得錙銖幾多力。
+- 畫船晚過淘金磧，不見黃金惟見石。
+- 猶恐黃金價未高，見得錙銖幾多力。
 
 ## 拼音
 

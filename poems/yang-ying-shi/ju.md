@@ -6,10 +6,10 @@ titleSlug: ju
 author: 楊穎士
 authorPinyin: yang2 ying3 shi4
 authorSlug: yang-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

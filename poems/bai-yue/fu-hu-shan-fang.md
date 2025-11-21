@@ -6,10 +6,10 @@ titleSlug: fu-hu-shan-fang
 author: 白約
 authorPinyin: bai2 yue1
 authorSlug: bai-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何待頡羹方引退，暫忘設醴可覘終。
-- 申公見事差傷晚，直待髠鉗八十翁。
+- 尚記青燈同講貫，安知白首始遭逢。
+- 向來衆論稱雛鳳，歲晚同時拜老龍。
 
 ## 拼音
 
-- he2 dai4 jie2 geng1 fang1 yin3 tui4 ， zan4 wang4 she4 li3 ke3 chan1 zhong1 。
-- shen1 gong1 jian4 shi4 cha4 shang1 wan3 ， zhi2 dai4 kun1 qian2 ba1 shi2 weng1 。
+- shang4 ji4 qing1 deng1 tong2 jiang3 guan4 ， an1 zhi1 bai2 shou3 shi3 zao1 feng2 。
+- xiang4 lai2 zhong4 lun4 cheng1 chu2 feng4 ， sui4 wan3 tong2 shi2 bai4 lao3 long2 。
 
 ## 注释
 

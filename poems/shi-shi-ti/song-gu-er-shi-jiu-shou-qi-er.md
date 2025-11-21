@@ -1,26 +1,30 @@
 ---
 id: shi-shi-ti-song-gu-er-shi-jiu-shou-qi-er
-title: 頌古二十九首  其二
-titlePinyin: song4 gu3 er4 shi2 jiu3 shou3     qi2 er4
+title: 頌古二十九首  其二○
+titlePinyin: song4 gu3 er4 shi2 jiu3 shou3     qi2 er4 ○
 titleSlug: song-gu-er-shi-jiu-shou-qi-er
 author: 釋師體
 authorPinyin: shi4 shi1 ti3
 authorSlug: shi-shi-ti
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 肌骨當初赫赤窮，面皮今日厚千重。
-- 撩頭搭尾應更點，嬴賽闍黎齋後鍾。
+- 投子下繩床，終非孟八郎。
+- 不摇三寸舌，未免鬼分贓。
+- 眼底欲條直，臨機爭探囊。
+- 裂破古今無面目，縱橫何處有關防。
 
 ## 拼音
 
-- ji1 gu3 dang1 chu1 he4 chi4 qiong2 ， mian4 pi2 jin1 ri4 hou4 qian1 chong2 。
-- liao2 tou2 da1 wei3 ying1 geng4 dian3 ， ying2 sai4 du1 li2 zhai1 hou4 zhong1 。
+- tou2 zi3 xia4 sheng2 chuang2 ， zhong1 fei1 meng4 ba1 lang2 。
+- bu4 yao2 san1 cun4 she2 ， wei4 mian3 gui3 fen1 zang1 。
+- yan3 di3 yu4 tiao2 zhi2 ， lin2 ji1 zheng1 tan4 nang2 。
+- lie4 po4 gu3 jin1 wu2 mian4 mu4 ， zong4 heng2 he2 chu3 you3 guan1 fang2 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: mei
 author: 王洋
 authorPinyin: wang2 yang2
 authorSlug: wang-yang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心妙意難到，理淺語易俗。
-- 惟此公共美，路坦行自跼。
-- 彊勉思攀陪，雖懇不見錄。
-- 料想何水曹，平生一夔足。
+- 凍思嚼蘂嗅寒芳，隔月春非道路長。
+- 作意開籬通野岸，等閑尋步到池塘。
 
 ## 拼音
 
-- xin1 miao4 yi4 nan2 dao4 ， li3 qian3 yu3 yi4 su2 。
-- wei2 ci3 gong1 gong4 mei3 ， lu4 tan3 xing2 zi4 ju2 。
-- qiang2 mian3 si1 pan1 pei2 ， sui1 ken3 bu2 jian4 lu4 。
-- liao4 xiang3 he2 shui3 cao2 ， ping2 sheng1 yi4 kui2 zu2 。
+- dong4 si1 jiao2 rui3 xiu4 han2 fang1 ， ge2 yue4 chun1 fei1 dao4 lu4 chang2 。
+- zuo4 yi4 kai1 li2 tong1 ye3 an4 ， deng3 xian2 xun2 bu4 dao4 chi2 tang2 。
 
 ## 注释
 

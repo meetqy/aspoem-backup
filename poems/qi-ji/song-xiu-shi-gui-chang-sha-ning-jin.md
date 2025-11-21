@@ -9,22 +9,22 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾子此歸寧，風煙是舊經。
-- 無窮芳草色，何處故山青？
-- 偶泊鳴蟬島，難眠好月汀。
-- 殷勤問安外，湘岸採詩靈。
+- 高堂親老本師存，多難長懸兩處魂。
+- 已說戰塵消漢口，便隨征櫂別荆門。
+- 晴吟野闊無耕地，晚宿灣深有釣村。
+- 他日更思衰老否，七年相伴琢詩言。
 
 ## 拼音
 
-- wu2 zi3 ci3 gui1 ning2 ， feng1 yan1 shi4 jiu4 jing1 。
-- wu2 qiong2 fang1 cao3 se4 ， he2 chu3 gu4 shan1 qing1 ？
-- ou3 bo2 ming2 chan2 dao3 ， nan2 mian2 hao3 yue4 ting1 。
-- yin1 qin2 wen4 an1 wai4 ， xiang1 an4 cai3 shi1 ling2 。
+- gao1 tang2 qin1 lao3 ben3 shi1 cun2 ， duo1 nan2 chang2 xuan2 liang3 chu3 hun2 。
+- yi3 shuo1 zhan4 chen2 xiao1 han4 kou3 ， bian4 sui2 zheng1 zhao4 bie2 jing1 men2 。
+- qing2 yin2 ye3 kuo4 wu2 geng1 di4 ， wan3 su4 wan1 shen1 you3 diao4 cun1 。
+- ta1 ri4 geng4 si1 shuai1 lao3 fou3 ， qi1 nian2 xiang1 ban4 zhuo2 shi1 yan2 。
 
 ## 注释
 

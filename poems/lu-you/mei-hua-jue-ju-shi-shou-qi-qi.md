@@ -6,21 +6,21 @@ titleSlug: mei-hua-jue-ju-shi-shou-qi-qi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾州古梅舊得名，雲蒸雨漬緑苔生。
-- 一枝只好儈窗看，莫售千金入鳯城。
+- 清霜徹花骨，霜重花欲折。
+- 我知造物意，遣子世味絕。
 
 ## 拼音
 
-- wu2 zhou1 gu3 mei2 jiu4 de2 ming2 ， yun2 zheng1 yu3 zi4 lü4 tai2 sheng1 。
-- yi4 zhi1 zhi3 hao3 kuai4 chuang1 kan4 ， mo4 shou4 qian1 jin1 ru4 feng4 cheng2 。
+- qing1 shuang1 che4 hua1 gu3 ， shuang1 zhong4 hua1 yu4 zhe2 。
+- wo3 zhi1 zao4 wu4 yi4 ， qian3 zi3 shi4 wei4 jue2 。
 
 ## 注释
 

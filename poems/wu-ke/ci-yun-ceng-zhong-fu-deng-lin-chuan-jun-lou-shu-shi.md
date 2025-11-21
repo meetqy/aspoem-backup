@@ -6,10 +6,10 @@ titleSlug: ci-yun-ceng-zhong-fu-deng-lin-chuan-jun-lou-shu-shi
 author: 吳可
 authorPinyin: wu2 ke3
 authorSlug: wu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

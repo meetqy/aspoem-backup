@@ -1,26 +1,26 @@
 ---
 id: chen-zao-tong-shen-shou-quan-nong-shi-shou-qi-yi
-title: 同沈守勸農十首  其一
-titlePinyin: tong2 shen3 shou3 quan4 nong2 shi2 shou3     qi2 yi1
+title: 同沈守勸農十首  其一○
+titlePinyin: tong2 shen3 shou3 quan4 nong2 shi2 shou3     qi2 yi1 ○
 titleSlug: tong-shen-shou-quan-nong-shi-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 誰似青君用歲華，遍分春色到幽遐。
-- 房陵遠近山千疊，到處東風到處花。
+- 露粉煙香細孰何，荆扉竹徑喜經過。
+- 陽和若作留連計，誰遣飛紅掃更多。
 
 ## 拼音
 
-- shui2 si4 qing1 jun1 yong4 sui4 hua2 ， bian4 fen1 chun1 se4 dao4 you1 xia2 。
-- fang2 ling2 yuan3 jin4 shan1 qian1 die2 ， dao4 chu3 dong1 feng1 dao4 chu3 hua1 。
+- lu4 fen3 yan1 xiang1 xi4 shu2 he2 ， jing1 fei1 zhu2 jing4 xi3 jing1 guo4 。
+- yang2 he2 ruo4 zuo4 liu2 lian2 ji4 ， shui2 qian3 fei1 hong2 sao3 geng4 duo1 。
 
 ## 注释
 

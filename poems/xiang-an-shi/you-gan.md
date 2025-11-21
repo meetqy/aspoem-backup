@@ -6,25 +6,29 @@ titleSlug: you-gan
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幾許心期百未償，更將疏髮對蒼茫。
-- 江聲直上鯨波去，山色回看虎踞長。
-- 亂後碧蕪荒楚甸，雲間孤塔見維揚。
-- 承平舊事無人說，閑倚欄干送夕陽。
+- 大江千里從西來，憑陵三峽喧如雷。
+- 自矜萬頃臨一杯，湧起雪浪吞崔嵬。
+- 一過荆門楚天闊，七澤茫茫如滅沒。
+- 波神潜聲不敢發，汩汩安流到吳越。
+- 世間驕吝亦等耳，未見大方俱有已。
+- 藩籬决破定無他，令人爲賦江之水。
 
 ## 拼音
 
-- ji1 xu1 xin1 qi1 bai3 wei4 chang2 ， geng4 jiang1 shu1 fa4 dui4 cang1 mang2 。
-- jiang1 sheng1 zhi2 shang4 jing1 bo1 qu4 ， shan1 se4 hui2 kan4 hu3 ju4 chang2 。
-- luan4 hou4 bi4 wu2 huang1 chu3 dian4 ， yun2 jian4 gu1 ta3 jian4 wei2 yang2 。
-- cheng2 ping2 jiu4 shi4 wu2 ren2 shuo1 ， xian2 yi3 lan2 gan1 song4 xi1 yang2 。
+- da4 jiang1 qian1 li3 cong2 xi1 lai2 ， ping2 ling2 san1 xia2 xuan1 ru2 lei2 。
+- zi4 jin1 wan4 qing3 lin2 yi4 bei1 ， yong3 qi3 xue3 lang4 tun1 cui1 wei2 。
+- yi2 guo4 jing1 men2 chu3 tian1 kuo4 ， qi1 ze2 mang2 mang2 ru2 mie4 mei2 。
+- bo1 shen2 qian2 sheng1 bu4 gan3 fa1 ， gu3 gu3 an1 liu2 dao4 wu2 yue4 。
+- shi4 jian4 jiao1 lin4 yi4 deng3 er3 ， wei4 jian4 da4 fang1 ju4 you3 yi3 。
+- fan1 li2 jue2 po4 ding4 wu2 ta1 ， ling4 ren2 wei2 fu4 jiang1 zhi1 shui3 。
 
 ## 注释
 

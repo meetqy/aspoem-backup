@@ -6,25 +6,21 @@ titleSlug: yuan-shi-qi-si-jiu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 行止由修鍊，輝光朗自然。
-- 深山藏虎豹，大海隠龍泉。
-- 鶴唳沖霄漢，龜生得壽年。
-- 怡情含道識，浩渺九重天。
+- 木人莫把石牛騎，海變桑田故不知。
+- 耕地種禾終是妄，真空相偶更無疑。
 
 ## 拼音
 
-- xing2 zhi3 you2 xiu1 lian4 ， hui1 guang1 lang3 zi4 ran2 。
-- shen1 shan1 cang2 hu3 bao4 ， da4 hai3 yin3 long2 quan2 。
-- he4 li4 chong1 xiao1 han4 ， gui1 sheng1 de2 shou4 nian2 。
-- yi2 qing2 han2 dao4 shi2 ， hao4 miao3 jiu3 chong2 tian1 。
+- mu4 ren2 mo4 ba3 shi2 niu2 qi2 ， hai3 bian4 sang1 tian2 gu4 bu4 zhi1 。
+- geng1 di4 zhong3 he2 zhong1 shi4 wang4 ， zhen1 kong1 xiang1 ou3 geng4 wu2 yi2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-qian-shou-li-gong-ting
 author: 鮑粹
 authorPinyin: bao4 cui4
 authorSlug: bao-cui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

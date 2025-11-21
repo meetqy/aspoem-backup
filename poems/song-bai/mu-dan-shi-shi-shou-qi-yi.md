@@ -1,30 +1,30 @@
 ---
 id: song-bai-mu-dan-shi-shi-shou-qi-yi
-title: 牡丹詩十首  其一
-titlePinyin: mu3 dan1 shi1 shi2 shou3     qi2 yi1
+title: 牡丹詩十首  其一○
+titlePinyin: mu3 dan1 shi1 shi2 shou3     qi2 yi1 ○
 titleSlug: mu-dan-shi-shi-shou-qi-yi
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- □應春處即□春，粉面□相□番新。
-- 語得必傳天上事，摘來真是掌中身。
-- 百花推戴教爲主，□日妖□欲□人。
-- 無可奈何□愛惜，少偷金蘂咽芳津。
+- 許多顔色泥春嬌，就裏輕紅最□饒。
+- 生處地須名紫府，落時魂想返青霄。
+- 霞英散焰燒纖手，藥粉飄香著步摇。
+- 輕剪自憐支節痛，倚烟啼露一無憀。
 
 ## 拼音
 
-- □ ying1 chun1 chu3 ji2 □ chun1 ， fen3 mian4 □ xiang1 □ fan1 xin1 。
-- yu3 de2 bi4 chuan2 tian1 shang4 shi4 ， zhai1 lai2 zhen1 shi4 zhang3 zhong1 shen1 。
-- bai3 hua1 tui1 dai4 jiao4 wei2 zhu3 ，□ ri4 yao1 □ yu4 □ ren2 。
-- wu2 ke3 nai4 he2 □ ai4 xi1 ， shao3 tou1 jin1 rui3 yan4 fang1 jin1 。
+- xu1 duo1 yan2 se4 ni2 chun1 jiao1 ， jiu4 li3 qing1 hong2 zui4 □ rao2 。
+- sheng1 chu3 di4 xu1 ming2 zi3 fu3 ， luo4 shi2 hun2 xiang3 fan3 qing1 xiao1 。
+- xia2 ying1 san4 yan4 shao1 xian1 shou3 ， yao4 fen3 piao1 xiang1 zhu4 bu4 yao2 。
+- qing1 jian3 zi4 lian2 zhi1 jie2 tong4 ， yi3 yan1 ti2 lu4 yi4 wu2 liao2 。
 
 ## 注释
 

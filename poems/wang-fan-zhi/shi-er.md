@@ -1,7 +1,7 @@
 ---
 id: wang-fan-zhi-shi-er
-title: 十二
-titlePinyin: shi2 er4
+title: 詩 二
+titlePinyin: shi1   er4
 titleSlug: shi-er
 author: 王梵志
 authorPinyin: wang2 fan4 zhi4
@@ -9,22 +9,22 @@ authorSlug: wang-fan-zhi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 耶孃行不正，不事任依從。
-- （「不事」，伯三七一六、斯三三九三卷作「萬事」。
-- ）打駡但知默，（「默」，伯二八四二卷作「恩」。
-- ）無應即是能。
+- 生亦只物生，死亦只物□（任、陳皆補「死」字）。
+- □□□（項補「來去不」）相知，苦樂何處是？
+- 唯見生人悲，未聞啼哭鬼。
+- 以此好□（任、陳皆補「思」字）量，未必生勝死。
 
 ## 拼音
 
-- ye1 niang2 xing2 bu2 zheng4 ， bu2 shi4 ren4 yi1 cong2 。
-- （「 bu2 shi4 」， bo2 san1 qi1 yi1 liu4 、 si1 san1 san1 jiu3 san1 juan4 zuo4 「 wan4 shi4 」。
-- ） da3 ma4 dan4 zhi1 mo4 ，（「 mo4 」， bo2 er4 ba1 si4 er4 juan4 zuo4 「 en1 」。
-- ） wu2 ying1 ji2 shi4 neng2 。
+- sheng1 yi4 zhi1 wu4 sheng1 ， si3 yi4 zhi1 wu4 □（ ren4 、 chen2 jie1 bu3 「 si3 」 zi4 ）。
+- □□□（ xiang4 bu3 「 lai2 qu4 bu4 」） xiang1 zhi1 ， ku3 le4 he2 chu3 shi4 ？
+- wei2 jian4 sheng1 ren2 bei1 ， wei4 wen2 ti2 ku1 gui3 。
+- yi3 ci3 hao3 □（ ren4 、 chen2 jie1 bu3 「 si1 」 zi4 ） liang2 ， wei4 bi4 sheng1 sheng4 si3 。
 
 ## 注释
 

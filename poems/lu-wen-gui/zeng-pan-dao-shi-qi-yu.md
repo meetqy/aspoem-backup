@@ -6,25 +6,25 @@ titleSlug: zeng-pan-dao-shi-qi-yu
 author: 陸文圭
 authorPinyin: lu4 wen2 gui1
 authorSlug: lu-wen-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 人天相距尺有咫，雷電六丁繞吾指。
-- 藥師馬上寄小瓢，夜半一滴灑千里。
-- 古湫源竭老蛟泣，新秧秀濯田畯喜。
-- 匣收寶劍捲陰符，師歸宴坐茅峰裏。
+- 日者旱太甚，天乎禱有諸。
+- 震雷驚破柱，驟雨喜隨車。
+- 精意通無間，神功斂不居。
+- 魯侯明德頌，好接有年書。
 
 ## 拼音
 
-- ren2 tian1 xiang1 ju4 chi3 you3 zhi3 ， lei2 dian4 liu4 ding1 rao4 wu2 zhi3 。
-- yao4 shi1 ma3 shang4 ji4 xiao3 piao2 ， ye4 ban4 yi4 di1 sa3 qian1 li3 。
-- gu3 qiu1 yuan2 jie2 lao3 jiao1 qi4 ， xin1 yang1 xiu4 zhuo2 tian2 jun4 xi3 。
-- xia2 shou1 bao3 jian4 juan3 yin1 fu2 ， shi1 gui1 yan4 zuo4 mao2 feng1 li3 。
+- ri4 zhe3 han4 tai4 shen4 ， tian1 hu1 dao3 you3 zhu1 。
+- zhen4 lei2 jing1 po4 zhu4 ， zhou4 yu3 xi3 sui2 ju1 。
+- jing1 yi4 tong1 wu2 jian4 ， shen2 gong1 lian3 bu4 ju1 。
+- lu3 hou2 ming2 de2 song4 ， hao3 jie1 you3 nian2 shu1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: cao-shi-jun-she-ye-yin-gui-bu-yue-chu-cheng-shan-se-ru-hua-zuo-shi-yi
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

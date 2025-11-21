@@ -6,25 +6,21 @@ titleSlug: shan-yue-tai-qi-yi
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 渺渺凉風起，木犀相次開。
-- 舉家空自住，過客有誰來。
-- 已是冰溪棹，更尋禪月臺。
-- 鬰乎湖海氣，鷗鳥莫驚猜。
+- 貫休一去二百載，猶得靈山照玉溪。
+- 不是臺高可留客，秋來人要覓詩題。
 
 ## 拼音
 
-- miao3 miao3 liang2 feng1 qi3 ， mu4 xi1 xiang1 ci4 kai1 。
-- ju3 jia1 kong1 zi4 zhu4 ， guo4 ke4 you3 shui2 lai2 。
-- yi3 shi4 bing1 xi1 zhao4 ， geng4 xun2 shan4 yue4 tai2 。
-- yu4 hu1 hu2 hai3 qi4 ， ou1 niao3 mo4 jing1 cai1 。
+- guan4 xiu1 yi2 qu4 er4 bai3 zai4 ， you2 de2 ling2 shan1 zhao4 yu4 xi1 。
+- bu2 shi4 tai2 gao1 ke3 liu2 ke4 ， qiu1 lai2 ren2 yao4 mi4 shi1 ti2 。
 
 ## 注释
 

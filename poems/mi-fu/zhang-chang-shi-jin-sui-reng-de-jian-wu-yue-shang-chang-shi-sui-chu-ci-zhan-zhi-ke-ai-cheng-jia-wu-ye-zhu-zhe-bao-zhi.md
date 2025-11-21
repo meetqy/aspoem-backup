@@ -6,10 +6,10 @@ titleSlug: zhang-chang-shi-jin-sui-reng-de-jian-wu-yue-shang-chang-shi-sui-chu-c
 author: 米芾
 authorPinyin: mi3 fu2
 authorSlug: mi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

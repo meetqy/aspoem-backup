@@ -6,10 +6,10 @@ titleSlug: shu-mo-ya-bei
 author: 李徽卿
 authorPinyin: li3 hui1 qing1
 authorSlug: li-hui-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

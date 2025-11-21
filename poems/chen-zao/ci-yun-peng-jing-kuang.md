@@ -6,25 +6,25 @@ titleSlug: ci-yun-peng-jing-kuang
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鳩杖隨身去，鄉園得自娛。
-- 紅鮮終日有，俗物向來無。
-- 酒所揮椽筆，風前據槁梧。
-- 逢人休舉似，兒輩笑吾徒。
+- 紫燕穿簾若有求，爲人端作置書郵。
+- 詩翁別後猶能酒，妄尉歸來亦未侯。
+- 江閤香溫留語笑，花樓月好記從游。
+- 即今滿眼悲凉意，投老寧禁此段愁。
 
 ## 拼音
 
-- jiu1 zhang4 sui2 shen1 qu4 ， xiang1 yuan2 de2 zi4 yu2 。
-- hong2 xian1 zhong1 ri4 you3 ， su2 wu4 xiang4 lai2 wu2 。
-- jiu3 suo3 hui1 chuan2 bi3 ， feng1 qian2 ju4 gao3 wu2 。
-- feng2 ren2 xiu1 ju3 si4 ， er2 bei4 xiao4 wu2 tu2 。
+- zi3 yan4 chuan1 lian2 ruo4 you3 qiu2 ， wei2 ren2 duan1 zuo4 zhi4 shu1 you2 。
+- shi1 weng1 bie2 hou4 you2 neng2 jiu3 ， wang4 wei4 gui1 lai2 yi4 wei4 hou2 。
+- jiang1 he2 xiang1 wen1 liu2 yu3 xiao4 ， hua1 lou2 yue4 hao3 ji4 cong2 you2 。
+- ji2 jin1 man3 yan3 bei1 liang2 yi4 ， tou2 lao3 ning2 jin4 ci3 duan4 chou2 。
 
 ## 注释
 

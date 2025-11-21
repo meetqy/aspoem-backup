@@ -6,10 +6,10 @@ titleSlug: you-song-shan-jun-ji-zhong-yuan-zuo
 author: 王寀
 authorPinyin: wang2 cai3
 authorSlug: wang-cai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

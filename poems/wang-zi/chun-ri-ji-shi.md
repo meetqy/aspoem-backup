@@ -6,25 +6,21 @@ titleSlug: chun-ri-ji-shi
 author: 王鎡
 authorPinyin: wang2 zi1
 authorSlug: wang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄金揮盡見空囊，肯把愁眉惱曲腸。
-- 三月時光鶑世界，一年春夢蝶家鄉。
-- 教成舞妓看楊柳，嬌語眠姬惜海棠。
-- 昨日醉遊歸路晚，落花飛趁馬蹄香。
+- 清齋飯罷一甌茶，靜聽山蜂報早衙。
+- 日色弄陰雲去住，楮窗香潤落藤花。
 
 ## 拼音
 
-- huang2 jin1 hui1 jin4 jian4 kong1 nang2 ， ken3 ba3 chou2 mei2 nao3 qu3 chang2 。
-- san1 yue4 shi2 guang1 ying1 shi4 jie4 ， yi4 nian2 chun1 meng4 die2 jia1 xiang1 。
-- jiao4 cheng2 wu3 ji4 kan4 yang2 liu3 ， jiao1 yu3 mian2 ji1 xi1 hai3 tang2 。
-- zuo2 ri4 zui4 you2 gui1 lu4 wan3 ， luo4 hua1 fei1 chen4 ma3 ti2 xiang1 。
+- qing1 zhai1 fan4 ba4 yi4 ou1 cha2 ， jing4 ting1 shan1 feng1 bao4 zao3 ya2 。
+- ri4 se4 nong4 yin1 yun2 qu4 zhu4 ， chu3 chuang1 xiang1 run4 luo4 teng2 hua1 。
 
 ## 注释
 

@@ -6,21 +6,23 @@ titleSlug: shan-lu-huai-weng-juan
 author: 趙師秀
 authorPinyin: zhao4 shi1 xiu4
 authorSlug: zhao-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 困嘗苦茗不論杯，天氣纔晴又有雷。
-- 寂寞小亭看草坐，晚風時復墮青梅。
+- 幽溪曉無雨，野竹葉自濕。
+- 涓涓北流泉，風吹落花入。
+- 不見苦吟人，芳思將誰拾。
 
 ## 拼音
 
-- kun4 chang2 ku3 ming2 bu2 lun4 bei1 ， tian1 qi4 cai2 qing2 you4 you3 lei2 。
-- ji4 mo4 xiao3 ting2 kan4 cao3 zuo4 ， wan3 feng1 shi2 fu4 duo4 qing1 mei2 。
+- you1 xi1 xiao3 wu2 yu3 ， ye3 zhu2 ye4 zi4 shi1 。
+- juan1 juan1 bei3 liu2 quan2 ， feng1 chui1 luo4 hua1 ru4 。
+- bu2 jian4 ku3 yin2 ren2 ， fang1 si1 jiang1 shui2 shi2 。
 
 ## 注释
 

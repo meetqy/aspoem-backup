@@ -6,25 +6,21 @@ titleSlug: qing-xuan
 author: 楊傑
 authorPinyin: yang2 jie2
 authorSlug: yang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湖水山一色，湖山屏四圍。
-- 無風自瀟洒，有月更光輝。
-- 洗滌塵埃静，消磨暑氣微。
-- 平生方外樂，到此欲忘歸。
+- 清軒直下壓秦淮，淮是秦皇厭勝開。
+- 千古興亡無問處，好風惟共月明來。
 
 ## 拼音
 
-- hu2 shui3 shan1 yi2 se4 ， hu2 shan1 ping2 si4 wei2 。
-- wu2 feng1 zi4 xiao1 sa3 ， you3 yue4 geng4 guang1 hui1 。
-- xi3 di2 chen2 ai1 jing4 ， xiao1 mo2 shu3 qi4 wei1 。
-- ping2 sheng1 fang1 wai4 le4 ， dao4 ci3 yu4 wang4 gui1 。
+- qing1 xuan1 zhi2 xia4 ya1 qin2 huai2 ， huai2 shi4 qin2 huang2 yan4 sheng4 kai1 。
+- qian1 gu3 xing1 wang2 wu2 wen4 chu3 ， hao3 feng1 wei2 gong4 yue4 ming2 lai2 。
 
 ## 注释
 

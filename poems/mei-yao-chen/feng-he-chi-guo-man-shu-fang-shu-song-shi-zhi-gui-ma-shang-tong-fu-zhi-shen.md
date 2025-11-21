@@ -6,10 +6,10 @@ titleSlug: feng-he-chi-guo-man-shu-fang-shu-song-shi-zhi-gui-ma-shang-tong-fu-zh
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

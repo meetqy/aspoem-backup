@@ -6,9 +6,9 @@ titleSlug: bo-luo-miao
 author: 魏良臣
 authorPinyin: wei4 liang2 chen2
 authorSlug: wei-liang-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

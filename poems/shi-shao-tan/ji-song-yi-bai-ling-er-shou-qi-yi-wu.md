@@ -6,25 +6,21 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-wu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 佛壟山上雲，一片三四片。
-- 忽遇客推門，零亂舒還卷。
-- 有蹤由却沒蹤由，通身是眼尋難見。
-- 尋得見，木落千林，光浮碧巘。
+- 祖翁田地絕邊垠，契券分明孰敢侵。
+- 削盡春風閑草木，松濤翻月竹篩金。
 
 ## 拼音
 
-- fo2 long3 shan1 shang4 yun2 ， yi2 pian4 san1 si4 pian4 。
-- hu1 yu4 ke4 tui1 men2 ， ling2 luan4 shu1 huan2 juan4 。
-- you3 zong1 you2 que4 mei2 zong1 you2 ， tong1 shen1 shi4 yan3 xun2 nan2 jian4 。
-- xun2 de2 jian4 ， mu4 luo4 qian1 lin2 ， guang1 fu2 bi4 yan3 。
+- zu3 weng1 tian2 di4 jue2 bian1 yin2 ， qi4 quan4 fen1 ming2 shu2 gan3 qin1 。
+- xiao1 jin4 chun1 feng1 xian2 cao3 mu4 ， song1 tao1 fan1 yue4 zhu2 shai1 jin1 。
 
 ## 注释
 

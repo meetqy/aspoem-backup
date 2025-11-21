@@ -9,18 +9,18 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 爣爣皎日，歘入於地。
-- 厥晦厥貞，如王入焉。
+- 桓桓其珪，衮衮其服。
+- 入作三孤，國人是福。
 
 ## 拼音
 
-- tang3 tang3 jiao3 ri4 ， xu1 ru4 wu1 di4 。
-- jue2 hui4 jue2 zhen1 ， ru2 wang2 ru4 yan1 。
+- huan2 huan2 qi2 gui1 ， gun3 gun3 qi2 fu2 。
+- ru4 zuo4 san1 gu1 ， guo2 ren2 shi4 fu2 。
 
 ## 注释
 

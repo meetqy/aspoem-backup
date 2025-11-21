@@ -6,25 +6,25 @@ titleSlug: guo-deng-yuan-ying-ji-miao-qi-yu
 author: 虞儔
 authorPinyin: yu2 chou2
 authorSlug: yu-chou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古廟出靈響，吾儕非過求。
-- 山田雖欠雨，陂水尚通溝。
-- 出郭漸無日，祈年望有秋。
-- 豚蹄真狹甚，明信或堪羞。
+- 連年因旱禱叢祠，未免斯民有怨咨。
+- 擬學催科今晚矣，不能引去更何之。
+- 下田敢有百車望，好雨猶寬三日期。
+- 慚愧農家私水利，桔槔雖巧不容施。
 
 ## 拼音
 
-- gu3 miao4 chu1 ling2 xiang3 ， wu2 chai2 fei1 guo4 qiu2 。
-- shan1 tian2 sui1 qian4 yu3 ， bei1 shui3 shang4 tong1 gou1 。
-- chu1 guo1 jian4 wu2 ri4 ， qi2 nian2 wang4 you3 qiu1 。
-- tun2 ti2 zhen1 xia2 shen4 ， ming2 xin4 huo4 kan1 xiu1 。
+- lian2 nian2 yin1 han4 dao3 cong2 ci2 ， wei4 mian3 si1 min2 you3 yuan4 zi1 。
+- ni3 xue2 cui1 ke1 jin1 wan3 yi3 ， bu4 neng2 yin3 qu4 geng4 he2 zhi1 。
+- xia4 tian2 gan3 you3 bai3 ju1 wang4 ， hao3 yu3 you2 kuan1 san1 ri4 qi1 。
+- can2 kui4 nong2 jia1 si1 shui3 li4 ， ju2 gao1 sui1 qiao3 bu4 rong2 shi1 。
 
 ## 注释
 

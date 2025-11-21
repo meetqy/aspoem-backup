@@ -9,18 +9,18 @@ authorSlug: xu-jing-zong
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 本逐征鴻去，還隨落葉來。
-- 菊花應未滿，請待詩人開。
+- 遊人倦蓬轉，鄉思逐雁來。
+- 偏想臨潭菊，芳蘂對誰開。
 
 ## 拼音
 
-- ben3 zhu2 zheng1 hong2 qu4 ， huan2 sui2 luo4 ye4 lai2 。
-- ju2 hua1 ying1 wei4 man3 ， qing3 dai4 shi1 ren2 kai1 。
+- you2 ren2 juan4 peng2 zhuan3 ， xiang1 si1 zhu2 yan4 lai2 。
+- pian1 xiang3 lin2 tan2 ju2 ， fang1 rui3 dui4 shui2 kai1 。
 
 ## 注释
 

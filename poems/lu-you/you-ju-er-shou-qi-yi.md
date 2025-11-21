@@ -6,25 +6,25 @@ titleSlug: you-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殊方飄泊向誰論，小住僧廬亦所欣。
-- 得飽罷揮求米帖，爱眠新著毁茶文。
-- 摘蔬籃小霑清露，斸藥鉏輕带濕雲。
-- 從此生涯足幽事，宦逰虚用半生勤。
+- 策府還家又五年，心常無事氣常全。
+- 平生本不營三窟，此日何須直一錢。
+- 雨霽桑麻皆沃若，地偏鷄犬亦翛然。
+- 閉門便造桃源境，不必秦人始是仙。
 
 ## 拼音
 
-- shu1 fang1 piao1 bo2 xiang4 shui2 lun4 ， xiao3 zhu4 seng1 lu2 yi4 suo3 xin1 。
-- de2 bao3 ba4 hui1 qiu2 mi3 tie1 ， ai4 mian2 xin1 zhu4 hui3 cha2 wen2 。
-- zhai1 shu1 lan2 xiao3 zhan1 qing1 lu4 ， zhu2 yao4 chu2 qing1 dai4 shi1 yun2 。
-- cong2 ci3 sheng1 ya2 zu2 you1 shi4 ， huan4 you2 xu1 yong4 ban4 sheng1 qin2 。
+- ce4 fu3 huan2 jia1 you4 wu3 nian2 ， xin1 chang2 wu2 shi4 qi4 chang2 quan2 。
+- ping2 sheng1 ben3 bu4 ying2 san1 ku1 ， ci3 ri4 he2 xu1 zhi2 yi4 qian2 。
+- yu3 ji4 sang1 ma2 jie1 wo4 ruo4 ， di4 pian1 ji1 quan3 yi4 xiao1 ran2 。
+- bi4 men2 bian4 zao4 tao2 yuan2 jing4 ， bu2 bi4 qin2 ren2 shi3 shi4 xian1 。
 
 ## 注释
 

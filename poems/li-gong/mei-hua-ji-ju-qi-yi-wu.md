@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-wu
-title: 梅花集句  其一五
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 wu3
+title: 梅花集句  其一五○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 wu3 ○
 titleSlug: mei-hua-ji-ju-qi-yi-wu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 傾國傾城豈在人，人間只有此花新。
-- 冰霜過了翩然去，萬紫千紅各占春。
+- 素面凝香雪，孤根尚惹苔。
+- 春風有餘力，一一爲愁開。
 
 ## 拼音
 
-- qing1 guo2 qing1 cheng2 qi3 zai4 ren2 ， ren2 jian4 zhi3 you3 ci3 hua1 xin1 。
-- bing1 shuang1 guo4 le0 pian1 ran2 qu4 ， wan4 zi3 qian1 hong2 ge4 zhan4 chun1 。
+- su4 mian4 ning2 xiang1 xue3 ， gu1 gen1 shang4 re3 tai2 。
+- chun1 feng1 you3 yu2 li4 ， yi1 yi1 wei2 chou2 kai1 。
 
 ## 注释
 

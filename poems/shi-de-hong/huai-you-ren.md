@@ -6,25 +6,25 @@ titleSlug: huai-you-ren
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不見鄰峰友，還同楚越遙。
-- 毎勞孤枕夢，時過小溪橋。
-- 憑檻疏簾卷，臨風細雨飄。
-- 何當奉一笑，令我此情消。
+- 尋常輕别尚消魂，何況交情過弟昆。
+- 孰謂此身閑日月，自慚疏跡信乾坤。
+- 泠泠小雨江邊路，薄薄浮煙竹外村。
+- 回首舊游方契闊，孤舟何處宿黄昏。
 
 ## 拼音
 
-- bu2 jian4 lin2 feng1 you3 ， huan2 tong2 chu3 yue4 yao2 。
-- mei3 lao2 gu1 zhen3 meng4 ， shi2 guo4 xiao3 xi1 qiao2 。
-- ping2 jian4 shu1 lian2 juan4 ， lin2 feng1 xi4 yu3 piao1 。
-- he2 dang1 feng4 yi2 xiao4 ， ling4 wo3 ci3 qing2 xiao1 。
+- xun2 chang2 qing1 bie2 shang4 xiao1 hun2 ， he2 kuang4 jiao1 qing0 guo4 di4 kun1 。
+- shu2 wei4 ci3 shen1 xian2 ri4 yue4 ， zi4 can2 shu1 ji4 xin4 qian2 kun1 。
+- ling2 ling2 xiao3 yu3 jiang1 bian1 lu4 ， bao2 bao2 fu2 yan1 zhu2 wai4 cun1 。
+- hui2 shou3 jiu4 you2 fang1 qi4 kuo4 ， gu1 zhou1 he2 chu3 su4 huang2 hun1 。
 
 ## 注释
 

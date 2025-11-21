@@ -6,25 +6,25 @@ titleSlug: song-he-zhong
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 心因行已老，事更與心違。
-- 惡景多離合，浮生半是非。
-- 愁聞南浦雁，夢采北山薇。
-- 昨日見之子，問予胡不歸。
+- 遠宦無情思，君來慰病容。
+- 棣華開韡韡，鳴雁去雝雝。
+- 天上張公子，雲間陸士龍。
+- 聖門多閫奧，更願與君從。
 
 ## 拼音
 
-- xin1 yin1 xing2 yi3 lao3 ， shi4 geng4 yu3 xin1 wei2 。
-- e4 jing3 duo1 li2 he2 ， fu2 sheng1 ban4 shi4 fei1 。
-- chou2 wen2 nan2 pu3 yan4 ， meng4 cai3 bei3 shan1 wei1 。
-- zuo2 ri4 jian4 zhi1 zi3 ， wen4 yu3 hu2 bu4 gui1 。
+- yuan3 huan4 wu2 qing2 si1 ， jun1 lai2 wei4 bing4 rong2 。
+- di4 hua2 kai1 wei3 wei3 ， ming2 yan4 qu4 yong1 yong1 。
+- tian1 shang4 zhang1 gong1 zi3 ， yun2 jian4 lu4 shi4 long2 。
+- sheng4 men2 duo1 kun3 ao4 ， geng4 yuan4 yu3 jun1 cong2 。
 
 ## 注释
 

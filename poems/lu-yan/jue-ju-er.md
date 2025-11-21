@@ -9,18 +9,18 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 莫怪瑤池消息稀，只緣塵事隔天機。
-- 若人尋得水中火，有一黃童上太微。
+- 斗笠爲帆扇作舟，五湖四海任遨遊。
+- 大千沙界須臾至，石爛松枯經幾秋。
 
 ## 拼音
 
-- mo4 guai4 yao2 chi2 xiao1 xi0 xi1 ， zhi1 yuan2 chen2 shi4 ge2 tian1 ji1 。
-- ruo4 ren2 xun2 de2 shui3 zhong1 huo3 ， you3 yi4 huang2 tong2 shang4 tai4 wei1 。
+- dou4 li4 wei2 fan1 shan4 zuo4 zhou1 ， wu3 hu2 si4 hai3 ren4 ao2 you2 。
+- da4 qian1 sha1 jie4 xu1 yu2 zhi4 ， shi2 lan4 song1 ku1 jing1 ji1 qiu1 。
 
 ## 注释
 

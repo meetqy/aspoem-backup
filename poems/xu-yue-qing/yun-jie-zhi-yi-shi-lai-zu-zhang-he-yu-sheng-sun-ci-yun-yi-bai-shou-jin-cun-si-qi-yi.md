@@ -6,10 +6,10 @@ titleSlug: yun-jie-zhi-yi-shi-lai-zu-zhang-he-yu-sheng-sun-ci-yun-yi-bai-shou-ji
 author: 許月卿
 authorPinyin: xu1 yue4 qing1
 authorSlug: xu-yue-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

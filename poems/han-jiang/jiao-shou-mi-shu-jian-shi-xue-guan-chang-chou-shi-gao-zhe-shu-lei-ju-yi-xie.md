@@ -6,10 +6,10 @@ titleSlug: jiao-shou-mi-shu-jian-shi-xue-guan-chang-chou-shi-gao-zhe-shu-lei-ju-
 author: 韓絳
 authorPinyin: han2 jiang4
 authorSlug: han-jiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

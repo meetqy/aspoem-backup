@@ -6,9 +6,9 @@ titleSlug: ge
 author: 南昌老翁媼
 authorPinyin: nan2 chang1 lao3 weng1 ao3
 authorSlug: nan-chang-lao-weng-ao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

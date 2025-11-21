@@ -6,10 +6,10 @@ titleSlug: du-tong-jian-ji-shi-ben-mo-yong-wu-yi-chang-he-yuan-yun-ji-ji-zhong
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

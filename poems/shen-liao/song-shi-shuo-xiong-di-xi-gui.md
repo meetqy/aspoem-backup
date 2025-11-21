@@ -6,10 +6,10 @@ titleSlug: song-shi-shuo-xiong-di-xi-gui
 author: 沈遼
 authorPinyin: shen3 liao2
 authorSlug: shen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

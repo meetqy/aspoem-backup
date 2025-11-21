@@ -1,6 +1,6 @@
 ---
 id: meng-bin-yu-pan-xi-huai-gu
-title: 磻溪懷古
+title: 蟠溪懷古
 titlePinyin: pan2 xi1 huai2 gu3
 titleSlug: pan-xi-huai-gu
 author: 孟賓于
@@ -14,9 +14,9 @@ tags: []
 
 ## 正文
 
-- 良哉呂尚父，深隠始歸周。
+- 良哉呂尚父，深隱始歸周。
 - 釣石千年在，春風一水流。
-- 松根盤蘚石，花影卧沙鷗。
+- 松根盤蘚石，花影臥沙鷗。
 - 誰更懷韜術，追思古渡頭。
 
 ## 拼音

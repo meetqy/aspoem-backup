@@ -6,10 +6,10 @@ titleSlug: yong-feng-jian-shui-huang-si-yi-xie-yu-zhen-yu-da-chun-zhi-xia-xi-ti
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

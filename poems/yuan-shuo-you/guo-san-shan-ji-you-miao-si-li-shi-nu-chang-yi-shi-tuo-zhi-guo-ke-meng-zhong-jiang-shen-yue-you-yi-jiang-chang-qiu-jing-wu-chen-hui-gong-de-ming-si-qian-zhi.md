@@ -6,10 +6,10 @@ titleSlug: guo-san-shan-ji-you-miao-si-li-shi-nu-chang-yi-shi-tuo-zhi-guo-ke-men
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

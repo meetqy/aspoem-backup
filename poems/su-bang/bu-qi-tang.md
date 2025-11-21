@@ -6,10 +6,10 @@ titleSlug: bu-qi-tang
 author: 蘇邦
 authorPinyin: su1 bang1
 authorSlug: su-bang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

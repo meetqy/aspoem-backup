@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 方豐之
 authorPinyin: fang1 feng1 zhi1
 authorSlug: fang-feng-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

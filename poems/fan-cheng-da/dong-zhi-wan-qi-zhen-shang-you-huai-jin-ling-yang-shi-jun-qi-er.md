@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-dong-zhi-wan-qi-zhen-shang-you-huai-jin-ling-yang-shi-jun-qi-er
-title: 冬至晚起枕上有懷晉陵楊使君・其二
-titlePinyin: dong1 zhi4 wan3 qi3 zhen3 shang4 you3 huai2 jin4 ling2 yang2 shi3 jun1・qi2 er4
+title: 冬至晚起枕上有懷晉陵楊使君  其二
+titlePinyin: dong1 zhi4 wan3 qi3 zhen3 shang4 you3 huai2 jin4 ling2 yang2 shi3 jun1     qi2 er4
 titleSlug: dong-zhi-wan-qi-zhen-shang-you-huai-jin-ling-yang-shi-jun-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

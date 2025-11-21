@@ -6,25 +6,25 @@ titleSlug: da-liu-zhong-mei
 author: 王令
 authorPinyin: wang2 ling4
 authorSlug: wang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 多謝劉夫子，殷懃寄我編。
-- 何時共杯酒，一笑似當年。
-- 歲月回霜雪，生涯廢簡編。
-- 終期收晚學，茅屋送歸田。
+- 莽莽晴川水，寥寥病客舟。
+- 來随風浩蕩，去逐雨淹留。
+- 生計梁邊燕，歸心海上鷗。
+- 多慚故人句，欹卧一長謳。
 
 ## 拼音
 
-- duo1 xie4 liu2 fu1 zi3 ， yin1 qin2 ji4 wo3 bian1 。
-- he2 shi2 gong4 bei1 jiu3 ， yi2 xiao4 si4 dang1 nian2 。
-- sui4 yue4 hui2 shuang1 xue3 ， sheng1 ya2 fei4 jian3 bian1 。
-- zhong1 qi1 shou1 wan3 xue2 ， mao2 wu1 song4 gui1 tian2 。
+- mang3 mang3 qing2 chuan1 shui3 ， liao2 liao2 bing4 ke4 zhou1 。
+- lai2 sui2 feng1 hao4 dang4 ， qu4 zhu2 yu3 yan1 liu2 。
+- sheng1 ji4 liang2 bian1 yan4 ， gui1 xin1 hai3 shang4 ou1 。
+- duo1 can2 gu4 ren2 ju4 ， qi1 wo4 yi4 chang2 ou1 。
 
 ## 注释
 

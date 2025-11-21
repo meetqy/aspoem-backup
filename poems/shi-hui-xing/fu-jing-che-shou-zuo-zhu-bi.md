@@ -6,10 +6,10 @@ titleSlug: fu-jing-che-shou-zuo-zhu-bi
 author: 釋慧性
 authorPinyin: shi4 hui4 xing4
 authorSlug: shi-hui-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

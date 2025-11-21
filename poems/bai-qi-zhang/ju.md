@@ -6,10 +6,10 @@ titleSlug: ju
 author: 百七丈
 authorPinyin: bai3 qi1 zhang4
 authorSlug: bai-qi-zhang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

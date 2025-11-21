@@ -6,10 +6,10 @@ titleSlug: gong-yuan-suo-su-wen-lu-yuan-wai-shi-gao-li-zeng-xu-qi-sheng
 author: 李沆
 authorPinyin: li3 hang4
 authorSlug: li-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: mai-chuan-zhi-yan-ping-bai-jian-kang-liu-gong-mu-xia-sui-ru-cheng-jia
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: ti-qiu-tang-si-lan-qi-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幽石封白，深林掩芳。
-- 隠德不耀，何矜色香。
+- 大雪申威，萬木摧拉，獨能擢芳於凝沍中，雖百折不委。
+- 非素有所養，寧不爲外侮憑凌者歟。
 
 ## 拼音
 
-- you1 shi2 feng1 bai2 ， shen1 lin2 yan3 fang1 。
-- yin3 de2 bu2 yao4 ， he2 jin1 se4 xiang1 。
+- da4 xue3 shen1 wei1 ， wan4 mu4 cui1 la1 ， du2 neng2 zhuo2 fang1 wu1 ning2 hu4 zhong1 ， sui1 bai3 zhe2 bu4 wei3 。
+- fei1 su4 you3 suo3 yang3 ， ning2 bu4 wei2 wai4 wu3 ping2 ling2 zhe3 yu2 。
 
 ## 注释
 

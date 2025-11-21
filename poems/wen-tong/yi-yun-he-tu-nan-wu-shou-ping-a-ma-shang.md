@@ -1,14 +1,14 @@
 ---
 id: wen-tong-yi-yun-he-tu-nan-wu-shou-ping-a-ma-shang
-title: 依韵和圖南五首・平阿馬上
-titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3・ping2 a1 ma3 shang4
+title: 依韵和圖南五首 平阿馬上
+titlePinyin: yi1 yun4 he2 tu2 nan2 wu3 shou3   ping2 a1 ma3 shang4
 titleSlug: yi-yun-he-tu-nan-wu-shou-ping-a-ma-shang
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

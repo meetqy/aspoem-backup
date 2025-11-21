@@ -6,25 +6,25 @@ titleSlug: chun-hua-zhong-chao-hui-er-shi-san-shou-you-liu-bian-qi-si
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 禮樂昭王業，寰區致太平。
-- 革車停北狩，雲稼屢西成。
-- 國有詳延詔，鄉聞講誦聲。
-- 日華融五色，遐邇仰文明。
+- 遺俗續陶唐，來蘇徯聖皇。
+- 布昭湯弔伐，恢復漢封疆。
+- 金鉞申戡剪，朱干示發揚。
+- 宜哉七德頌，千載播洋洋。
 
 ## 拼音
 
-- li3 le4 zhao1 wang2 ye4 ， huan2 qu1 zhi4 tai4 ping2 。
-- ge2 ju1 ting2 bei3 shou4 ， yun2 jia4 lü3 xi1 cheng2 。
-- guo2 you3 xiang2 yan2 zhao4 ， xiang1 wen2 jiang3 song4 sheng1 。
-- ri4 hua2 rong2 wu3 se4 ， xia2 er3 yang3 wen2 ming2 。
+- yi2 su2 xu4 tao2 tang2 ， lai2 su1 xi1 sheng4 huang2 。
+- bu4 zhao1 tang1 diao4 fa2 ， hui1 fu4 han4 feng1 jiang1 。
+- jin1 yue4 shen1 kan1 jian3 ， zhu1 gan1 shi4 fa1 yang2 。
+- yi2 zai1 qi1 de2 song4 ， qian1 zai4 bo1 yang2 yang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: bai-he-yan
 author: 趙與檳
 authorPinyin: zhao4 yu3 bin1
 authorSlug: zhao-yu-bin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

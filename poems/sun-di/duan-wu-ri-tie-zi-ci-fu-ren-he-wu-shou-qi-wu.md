@@ -6,10 +6,10 @@ titleSlug: duan-wu-ri-tie-zi-ci-fu-ren-he-wu-shou-qi-wu
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

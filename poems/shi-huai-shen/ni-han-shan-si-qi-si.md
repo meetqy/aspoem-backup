@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-si
-title: 擬寒山寺  其四
-titlePinyin: ni3 han2 shan1 si4     qi2 si4
+title: 擬寒山寺  其四○
+titlePinyin: ni3 han2 shan1 si4     qi2 si4 ○
 titleSlug: ni-han-shan-si-qi-si
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吾詩少風騷，急欲治人病。
-- 譬如萬靈丸，服者無不應。
-- 良藥多苦口，忠言須逆聽。
-- 勸君勉強服，生死殊不定。
+- 君看砧上魚，忍痛不能語。
+- 身雖遭斬斫，心猶念男女。
+- 人既有妻兒，魚豈無子母。
+- 若懷這個心，如何可下筯。
 
 ## 拼音
 
-- wu2 shi1 shao3 feng1 sao1 ， ji2 yu4 zhi4 ren2 bing4 。
-- pi4 ru2 wan4 ling2 wan2 ， fu2 zhe3 wu2 bu4 ying1 。
-- liang2 yao4 duo1 ku3 kou3 ， zhong1 yan2 xu1 ni4 ting1 。
-- quan4 jun1 mian3 qiang2 fu2 ， sheng1 si3 shu1 bu2 ding4 。
+- jun1 kan4 zhen1 shang4 yu2 ， ren3 tong4 bu4 neng2 yu3 。
+- shen1 sui1 zao1 zhan3 zhuo2 ， xin1 you2 nian4 nan2 nü3 。
+- ren2 ji4 you3 qi1 er2 ， yu2 qi3 wu2 zi3 mu3 。
+- ruo4 huai2 zhe4 ge4 xin1 ， ru2 he2 ke3 xia4 zhu4 。
 
 ## 注释
 

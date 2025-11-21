@@ -1,30 +1,30 @@
 ---
 id: hu-zhong-gong-he-liu-hou-cun-za-xing-qi-yi
-title: 和劉後村雜興  其一
-titlePinyin: he2 liu2 hou4 cun1 za2 xing1     qi2 yi1
+title: 和劉後村雜興  其一○
+titlePinyin: he2 liu2 hou4 cun1 za2 xing1     qi2 yi1 ○
 titleSlug: he-liu-hou-cun-za-xing-qi-yi
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冬深差喜病根除，藥裹猶親酒盞疎。
-- 門對好山純種竹，園通活水可澆蔬。
-- 簷牙带濕霜晴後，簾額移陰日出初。
-- 時有郵筒遞詩至，吟餘便擬借牛車。
+- 當日曾彈貢禹冠，懸知出處獨今難。
+- 寧將退翮翔千仞，誰肯模棱持兩端。
+- 風雨筆頭猶老健，江湖吟鬢未凋殘。
+- 十篇話破平生事，留與時人作樣看。
 
 ## 拼音
 
-- dong1 shen1 cha4 xi3 bing4 gen1 chu2 ， yao4 guo3 you2 qin1 jiu3 zhan3 shu1 。
-- men2 dui4 hao3 shan1 chun2 zhong3 zhu2 ， yuan2 tong1 huo2 shui3 ke3 jiao1 shu1 。
-- yan2 ya2 dai4 shi1 shuang1 qing2 hou4 ， lian2 e2 yi2 yin1 ri4 chu1 chu1 。
-- shi2 you3 you2 tong3 di4 shi1 zhi4 ， yin2 yu2 bian4 ni3 jie4 niu2 ju1 。
+- dang1 ri4 ceng2 dan4 gong4 yu3 guan1 ， xuan2 zhi1 chu1 chu3 du2 jin1 nan2 。
+- ning2 jiang1 tui4 he2 xiang2 qian1 ren4 ， shui2 ken3 mo2 leng2 chi2 liang3 duan1 。
+- feng1 yu3 bi3 tou2 you2 lao3 jian4 ， jiang1 hu2 yin2 bin4 wei4 diao1 can2 。
+- shi2 pian1 hua4 po4 ping2 sheng1 shi4 ， liu2 yu3 shi2 ren2 zuo4 yang4 kan4 。
 
 ## 注释
 

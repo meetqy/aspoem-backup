@@ -6,10 +6,10 @@ titleSlug: gu-ren-lai-zi-chong-ling-chu-shi-chu-liao-han-mo-gan-shi-huai-jiu-zhe
 author: 吳可
 authorPinyin: wu2 ke3
 authorSlug: wu-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

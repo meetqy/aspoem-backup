@@ -6,10 +6,10 @@ titleSlug: he-dong-po-song-zhong-tian-kuang-wang-yuan-zhi-liu-yan-yun-wu-shou-qi
 author: 劉季孫
 authorPinyin: liu2 ji4 sun1
 authorSlug: liu-ji-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

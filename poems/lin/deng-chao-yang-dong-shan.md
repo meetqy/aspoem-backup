@@ -6,10 +6,10 @@ titleSlug: deng-chao-yang-dong-shan
 author: 林㟽
 authorPinyin: lin2 㟽
 authorSlug: lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

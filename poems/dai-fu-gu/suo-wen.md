@@ -6,25 +6,25 @@ titleSlug: suo-wen
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 北風如許急，亦使客心寒。
-- 近得襄陽報，仍聞蜀道難。
-- 三杯中夜酒，一枕幾時安。
-- 江上兩都督，何人上將壇。
+- 今虜既亡後，中間消息稀。
+- 山河誰是主，豪傑故乘機。
+- 喜報三京復，旋聞二趙歸。
+- 此行關大義，天意忍相違。
 
 ## 拼音
 
-- bei3 feng1 ru2 xu1 ji2 ， yi4 shi3 ke4 xin1 han2 。
-- jin4 de2 xiang1 yang2 bao4 ， reng2 wen2 shu3 dao4 nan2 。
-- san1 bei1 zhong1 ye4 jiu3 ， yi4 zhen3 ji1 shi2 an1 。
-- jiang1 shang4 liang3 du1 du0 ， he2 ren2 shang4 jiang1 tan2 。
+- jin1 lu3 ji4 wang2 hou4 ， zhong1 jian4 xiao1 xi0 xi1 。
+- shan1 he2 shui2 shi4 zhu3 ， hao2 jie2 gu4 cheng2 ji1 。
+- xi3 bao4 san1 jing1 fu4 ， xuan2 wen2 er4 zhao4 gui1 。
+- ci3 xing2 guan1 da4 yi4 ， tian1 yi4 ren3 xiang1 wei2 。
 
 ## 注释
 

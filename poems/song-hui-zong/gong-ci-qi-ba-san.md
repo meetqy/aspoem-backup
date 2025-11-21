@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-ba-san
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 煙斂林梢掛晚虹，登臨吟望興無窮。
-- 秦娥越豔新粧飾，小約同來寶苑中。
+- 玉關馳奏捷章來，鄯部洮湟萬里開。
+- 閶闔通衢人意樂，爭看宣舞凱歌迴。
 
 ## 拼音
 
-- yan1 lian3 lin2 shao1 gua4 wan3 hong2 ， deng1 lin2 yin2 wang4 xing1 wu2 qiong2 。
-- qin2 e2 yue4 yan4 xin1 zhuang1 shi4 ， xiao3 yue1 tong2 lai2 bao3 yuan4 zhong1 。
+- yu4 guan1 chi2 zou4 jie2 zhang1 lai2 ， shan4 bu4 tao2 huang2 wan4 li3 kai1 。
+- chang1 he2 tong1 qu2 ren2 yi4 le4 ， zheng1 kan4 xuan1 wu3 kai3 ge1 hui2 。
 
 ## 注释
 

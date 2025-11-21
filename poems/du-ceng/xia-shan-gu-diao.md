@@ -6,10 +6,10 @@ titleSlug: xia-shan-gu-diao
 author: 杜曾
 authorPinyin: du4 ceng2
 authorSlug: du-ceng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

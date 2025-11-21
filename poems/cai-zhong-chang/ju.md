@@ -6,10 +6,10 @@ titleSlug: ju
 author: 蔡仲昌
 authorPinyin: cai4 zhong4 chang1
 authorSlug: cai-zhong-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

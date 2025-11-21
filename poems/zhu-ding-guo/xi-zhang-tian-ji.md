@@ -6,10 +6,10 @@ titleSlug: xi-zhang-tian-ji
 author: 朱定國
 authorPinyin: zhu1 ding4 guo2
 authorSlug: zhu-ding-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

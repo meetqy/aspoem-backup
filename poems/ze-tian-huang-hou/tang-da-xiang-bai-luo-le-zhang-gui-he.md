@@ -9,18 +9,18 @@ authorSlug: ze-tian-huang-hou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 言旋雲洞兮躡煙塗，永寧中宇兮安下都。
-- 包涵動植兮順榮枯，長貽寶貺兮贊璇圖。
+- 調雲闋兮神座興，驂雲駕兮儼將升。
+- 騰絳霄兮垂景祜，翹丹懇兮荷休徵。
 
 ## 拼音
 
-- yan2 xuan2 yun2 dong4 xi1 nie4 yan1 tu2 ， yong3 ning2 zhong1 yu3 xi1 an1 xia4 dou1 。
-- bao1 han0 dong4 zhi2 xi1 shun4 rong2 ku1 ， chang2 yi2 bao3 kuang4 xi1 zan4 xuan2 tu2 。
+- diao4 yun2 que4 xi1 shen2 zuo4 xing1 ， can1 yun2 jia4 xi1 yan3 jiang1 sheng1 。
+- teng2 jiang4 xiao1 xi1 chui2 jing3 hu4 ， qiao2 dan1 ken3 xi1 he2 xiu1 zhi3 。
 
 ## 注释
 

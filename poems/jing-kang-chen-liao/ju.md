@@ -6,9 +6,9 @@ titleSlug: ju
 author: 靖康臣僚
 authorPinyin: jing4 kang1 chen2 liao2
 authorSlug: jing-kang-chen-liao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

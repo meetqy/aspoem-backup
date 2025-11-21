@@ -6,10 +6,10 @@ titleSlug: fu-mei
 author: 彭巖肖
 authorPinyin: peng2 yan2 xiao4
 authorSlug: peng-yan-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

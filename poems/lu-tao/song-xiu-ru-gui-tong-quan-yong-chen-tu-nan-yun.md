@@ -6,10 +6,10 @@ titleSlug: song-xiu-ru-gui-tong-quan-yong-chen-tu-nan-yun
 author: 呂陶
 authorPinyin: lü3 tao2
 authorSlug: lu-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

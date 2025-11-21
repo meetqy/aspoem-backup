@@ -6,21 +6,29 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-qi-qi
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 讀破燈窗萬卷書，經綸勛業付洪儒。
-- 古今鼎鼐調羹手，幼學誰人不順朱。
+- 百鳥啼春風，村村自花柳。
+- 揭示目前機，大地人知有。
+- 隨聲逐色，活陷重圍。
+- 蓋色騎聲，翻成窠臼。
+- 牢關擊碎，海岳平沈。
+- 山鳥自啼花自笑，到頭一點不關心。
 
 ## 拼音
 
-- du2 po4 deng1 chuang1 wan4 juan4 shu1 ， jing1 lun2 xun1 ye4 fu4 hong2 ru2 。
-- gu3 jin1 ding3 nai4 diao4 geng1 shou3 ， you4 xue2 shui2 ren2 bu2 shun4 zhu1 。
+- bai3 niao3 ti2 chun1 feng1 ， cun1 cun1 zi4 hua1 liu3 。
+- jie1 shi4 mu4 qian2 ji1 ， da4 di4 ren2 zhi1 you3 。
+- sui2 sheng1 zhu2 se4 ， huo2 xian4 zhong4 wei2 。
+- gai4 se4 qi2 sheng1 ， fan1 cheng2 ke1 jiu4 。
+- lao2 guan1 ji1 sui4 ， hai3 yue4 ping2 shen3 。
+- shan1 niao3 zi4 ti2 hua1 zi4 xiao4 ， dao4 tou2 yi4 dian3 bu4 guan1 xin1 。
 
 ## 注释
 

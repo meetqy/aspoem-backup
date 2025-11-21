@@ -6,25 +6,25 @@ titleSlug: jiao-xing
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一雨餞殘熱，忻然思杖藜。
-- 野田沙鸛立，古木廟鴉啼。
-- 失僕行迷路，逢樵負過溪。
-- 獨遊吾有趣，何必問栖栖。
+- 薄有西風意，郊行得自娛。
+- 山晴全體出，樹老半身枯。
+- 林轉亭方見，江侵路欲無。
+- 何妨橋纜斷，小𦩘故堪呼。
 
 ## 拼音
 
-- yi4 yu3 jian4 can2 re4 ， xin1 ran2 si1 zhang4 li2 。
-- ye3 tian2 sha1 guan4 li4 ， gu3 mu4 miao4 ya1 ti2 。
-- shi1 pu2 xing2 mi2 lu4 ， feng2 qiao2 fu4 guo4 xi1 。
-- du2 you2 wu2 you3 qu4 ， he2 bi4 wen4 qi1 qi1 。
+- bao2 you3 xi1 feng1 yi4 ， jiao1 xing2 de2 zi4 yu2 。
+- shan1 qing2 quan2 ti3 chu1 ， shu4 lao3 ban4 shen1 ku1 。
+- lin2 zhuan3 ting2 fang1 jian4 ， jiang1 qin1 lu4 yu4 wu2 。
+- he2 fang2 qiao2 lan3 duan4 ， xiao3 𦩘 gu4 kan1 hu1 。
 
 ## 注释
 

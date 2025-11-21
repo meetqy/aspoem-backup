@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-zhang-xiu-cai-bei-cheng-xin-pu-qi-er
-title: 次韻章秀才北城新圃・其二
-titlePinyin: ci4 yun4 zhang1 xiu4 cai0 bei3 cheng2 xin1 pu3・qi2 er4
+title: 次韻章秀才北城新圃  其二
+titlePinyin: ci4 yun4 zhang1 xiu4 cai0 bei3 cheng2 xin1 pu3     qi2 er4
 titleSlug: ci-yun-zhang-xiu-cai-bei-cheng-xin-pu-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

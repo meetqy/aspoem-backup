@@ -1,14 +1,14 @@
 ---
 id: wen-tong-jun-zhai-shui-ge-xian-shu-ju-xuan
-title: 郡齋水閣閑書・車軒
-titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1・ju1 xuan1
+title: 郡齋水閣閑書 車軒
+titlePinyin: jun4 zhai1 shui3 ge2 xian2 shu1   ju1 xuan1
 titleSlug: jun-zhai-shui-ge-xian-shu-ju-xuan
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

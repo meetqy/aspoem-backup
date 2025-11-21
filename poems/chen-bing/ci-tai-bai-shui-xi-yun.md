@@ -6,10 +6,10 @@ titleSlug: ci-tai-bai-shui-xi-yun
 author: 陳柄
 authorPinyin: chen2 bing3
 authorSlug: chen-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

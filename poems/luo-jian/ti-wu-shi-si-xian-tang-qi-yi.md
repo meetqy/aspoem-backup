@@ -6,10 +6,10 @@ titleSlug: ti-wu-shi-si-xian-tang-qi-yi
 author: 羅鑑
 authorPinyin: luo2 jian4
 authorSlug: luo-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

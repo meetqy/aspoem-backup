@@ -6,10 +6,10 @@ titleSlug: ci-yun-sun-ju-yuan-ji-lian-shui-li-sheng-er-zhu-zuo-bing-yi-jian-ji-w
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

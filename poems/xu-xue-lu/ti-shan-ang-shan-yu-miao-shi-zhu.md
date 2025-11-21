@@ -6,10 +6,10 @@ titleSlug: ti-shan-ang-shan-yu-miao-shi-zhu
 author: 徐雪廬
 authorPinyin: xu2 xue3 lu2
 authorSlug: xu-xue-lu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

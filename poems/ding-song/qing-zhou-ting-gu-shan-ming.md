@@ -6,10 +6,10 @@ titleSlug: qing-zhou-ting-gu-shan-ming
 author: 丁竦
 authorPinyin: ding1 song3
 authorSlug: ding-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

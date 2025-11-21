@@ -6,9 +6,9 @@ titleSlug: ju-qi-qi
 author: 曹緯
 authorPinyin: cao2 wei3
 authorSlug: cao-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

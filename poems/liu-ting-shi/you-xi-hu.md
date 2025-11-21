@@ -6,10 +6,10 @@ titleSlug: you-xi-hu
 author: 劉庭式
 authorPinyin: liu2 ting2 shi4
 authorSlug: liu-ting-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

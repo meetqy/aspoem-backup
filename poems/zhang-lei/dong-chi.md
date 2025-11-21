@@ -6,25 +6,25 @@ titleSlug: dong-chi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 東池暮春風景妍，汩汩淺渠鳴細泉。
-- 菖蒲遶堤青似劍，荷葉出水大如錢。
-- 薔薇著花方未已，楊柳飛絮任飄然。
-- 鄰翁芍藥正足雨，預計開時須醉眠。
+- 東池久不到，摇落過秋中。
+- 萬竹蕭蕭雨，孤荷嫋嫋風。
+- 遣秋詩酒在，久客歲時窮。
+- 唯有思鄉夢，長隨洛水東。
 
 ## 拼音
 
-- dong1 chi2 mu4 chun1 feng1 jing3 yan2 ， gu3 gu3 qian3 qu2 ming2 xi4 quan2 。
-- chang1 pu2 rao4 di1 qing1 si4 jian4 ， he2 ye4 chu1 shui3 da4 ru2 qian2 。
-- qiang2 wei1 zhu4 hua1 fang1 wei4 yi3 ， yang2 liu3 fei1 xu4 ren4 piao1 ran2 。
-- lin2 weng1 shao2 yao4 zheng4 zu2 yu3 ， yu4 ji4 kai1 shi2 xu1 zui4 mian2 。
+- dong1 chi2 jiu3 bu2 dao4 ， yao2 luo4 guo4 qiu1 zhong1 。
+- wan4 zhu2 xiao1 xiao1 yu3 ， gu1 he2 niao3 niao3 feng1 。
+- qian3 qiu1 shi1 jiu3 zai4 ， jiu3 ke4 sui4 shi2 qiong2 。
+- wei2 you3 si1 xiang1 meng4 ， chang2 sui2 luo4 shui3 dong1 。
 
 ## 注释
 

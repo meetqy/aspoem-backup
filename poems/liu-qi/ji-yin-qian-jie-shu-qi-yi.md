@@ -1,30 +1,30 @@
 ---
 id: liu-qi-ji-yin-qian-jie-shu-qi-yi
-title: 寄尹遷介叔  其一
-titlePinyin: ji4 yin3 qian1 jie4 shu1     qi2 yi1
+title: 寄尹遷介叔  其一○
+titlePinyin: ji4 yin3 qian1 jie4 shu1     qi2 yi1 ○
 titleSlug: ji-yin-qian-jie-shu-qi-yi
 author: 劉跂
 authorPinyin: liu2 qi2
 authorSlug: liu-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我生非良材，頑礦不受礪。
-- 讀書但漁獵，初不名一藝。
-- 形骸弱如柳，暑雨更疲曳。
-- 清風何時生，一掃去酷吏。
+- 吏隠非山林，州府爲道院。
+- 莫夸非食肉，虎頭頷如燕。
+- 公田亦種秫，瞥去飛鳥倦。
+- 何用蕭德施，先生自爲傳。
 
 ## 拼音
 
-- wo3 sheng1 fei1 liang2 cai2 ， wan2 kuang4 bu2 shou4 li4 。
-- du2 shu1 dan4 yu2 lie4 ， chu1 bu4 ming2 yi2 yi4 。
-- xing2 hai2 ruo4 ru2 liu3 ， shu3 yu3 geng4 pi2 ye4 。
-- qing1 feng1 he2 shi2 sheng1 ， yi4 sao3 qu4 ku4 li4 。
+- li4 yin3 fei1 shan1 lin2 ， zhou1 fu3 wei2 dao4 yuan4 。
+- mo4 kua1 fei1 shi2 rou4 ， hu3 tou2 han4 ru2 yan4 。
+- gong1 tian2 yi4 zhong3 shu2 ， pie1 qu4 fei1 niao3 juan4 。
+- he2 yong4 xiao1 de2 shi1 ， xian1 sheng0 zi4 wei2 chuan2 。
 
 ## 注释
 

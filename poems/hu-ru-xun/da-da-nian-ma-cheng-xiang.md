@@ -6,9 +6,9 @@ titleSlug: da-da-nian-ma-cheng-xiang
 author: 胡如壎
 authorPinyin: hu2 ru2 xun1
 authorSlug: hu-ru-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

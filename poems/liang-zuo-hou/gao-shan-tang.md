@@ -6,10 +6,10 @@ titleSlug: gao-shan-tang
 author: 梁佐厚
 authorPinyin: liang2 zuo3 hou4
 authorSlug: liang-zuo-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

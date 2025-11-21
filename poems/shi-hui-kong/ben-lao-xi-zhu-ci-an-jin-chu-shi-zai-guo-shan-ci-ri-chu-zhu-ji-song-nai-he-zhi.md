@@ -6,9 +6,9 @@ titleSlug: ben-lao-xi-zhu-ci-an-jin-chu-shi-zai-guo-shan-ci-ri-chu-zhu-ji-song-n
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
 authorSlug: shi-hui-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

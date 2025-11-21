@@ -6,9 +6,9 @@ titleSlug: shang-yuan-xing
 author: 胡處晦
 authorPinyin: hu2 chu3 hui4
 authorSlug: hu-chu-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

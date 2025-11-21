@@ -6,10 +6,10 @@ titleSlug: jian-chi
 author: 徐忻
 authorPinyin: xu2 xin1
 authorSlug: xu-xin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

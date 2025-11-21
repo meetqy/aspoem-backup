@@ -1,32 +1,30 @@
 ---
 id: shi-zhong-xian-song-yi-bai-ze-qi-yi-er
-title: 頌一百則  其一二
-titlePinyin: song4 yi4 bai3 ze2     qi2 yi1 er4
+title: 頌一百則  其一○二
+titlePinyin: song4 yi4 bai3 ze2     qi2 yi1 ○ er4
 titleSlug: song-yi-bai-ze-qi-yi-er
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 金烏急，玉兔速，善應何曾有輕觸。
-- 展事投機見洞山，跛鼇盲龜入空谷。
-- 花簇簇，錦簇簇，南地竹兮北地木。
-- 因思長慶陸大夫，解道合笑不合哭。
-- 咦。
+- 要平不平，大巧若拙。
+- 或指或掌，倚天照雪。
+- 大冶兮磨礱不下，良工兮拂拭未歇。
+- 別別，珊瑚枝枝撐著月。
 
 ## 拼音
 
-- jin1 wu1 ji2 ， yu4 tu4 su4 ， shan4 ying1 he2 ceng2 you3 qing1 chu4 。
-- zhan3 shi4 tou2 ji1 jian4 dong4 shan1 ， bo3 ao2 mang2 gui1 ru4 kong1 gu3 。
-- hua1 cu4 cu4 ， jin3 cu4 cu4 ， nan2 di4 zhu2 xi1 bei3 di4 mu4 。
-- yin1 si1 chang2 qing4 lu4 dai4 fu0 ， jie3 dao4 he2 xiao4 bu4 he2 ku1 。
-- yi2 。
+- yao4 ping2 bu4 ping2 ， da4 qiao3 ruo4 zhuo1 。
+- huo4 zhi3 huo4 zhang3 ， yi3 tian1 zhao4 xue3 。
+- da4 ye3 xi1 mo2 long2 bu2 xia4 ， liang2 gong1 xi1 fu2 shi4 wei4 xie1 。
+- bie2 bie2 ， shan1 hu2 zhi1 zhi1 cheng1 zhu4 yue4 。
 
 ## 注释
 

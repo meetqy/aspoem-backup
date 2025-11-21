@@ -6,25 +6,25 @@ titleSlug: shu-huai-ji-liu-wu
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風波名路壮心殘，三逕荒凉未得還。
-- 病起東陽衣带緩，愁多騎省髩毛斑。
-- 五年書命塵西閣，千古移文愧北山。
-- 獨憶瓊枝苦霜霰，清罇歲晏强酡顔。
+- 世事悠悠未遽央，虛名真意兩相忘。
+- 休誇失馬曾歸塞，未省牽牛解服箱。
+- 四客高風驚楚漢，五君新詠棄山王。
+- 秋來安有漁樵夢，多在箕峰潁水傍。
 
 ## 拼音
 
-- feng1 bo1 ming2 lu4 zhuang4 xin1 can2 ， san1 jing4 huang1 liang2 wei4 de2 huan2 。
-- bing4 qi3 dong1 yang2 yi1 dai4 huan3 ， chou2 duo1 qi2 sheng3 bin4 mao2 ban1 。
-- wu3 nian2 shu1 ming4 chen2 xi1 ge2 ， qian1 gu3 yi2 wen2 kui4 bei3 shan1 。
-- du2 yi4 qiong2 zhi1 ku3 shuang1 xian4 ， qing1 zun1 sui4 yan4 qiang2 tuo2 yan2 。
+- shi4 shi4 you1 you1 wei4 ju4 yang1 ， xu1 ming2 zhen1 yi4 liang3 xiang1 wang4 。
+- xiu1 kua1 shi1 ma3 ceng2 gui1 sai1 ， wei4 sheng3 qian1 niu2 jie3 fu2 xiang1 。
+- si4 ke4 gao1 feng1 jing1 chu3 han4 ， wu3 jun1 xin1 yong3 qi4 shan1 wang2 。
+- qiu1 lai2 an1 you3 yu2 qiao2 meng4 ， duo1 zai4 ji1 feng1 ying3 shui3 bang4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhi-yuan-si
 author: 倪祖常
 authorPinyin: ni2 zu3 chang2
 authorSlug: ni-zu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

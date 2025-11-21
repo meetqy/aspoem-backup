@@ -6,21 +6,21 @@ titleSlug: huang-di-he-chun-tie-zi-qi-er
 author: 趙湘
 authorPinyin: zhao4 xiang1
 authorSlug: zhao-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迎氣來歸祚，宜春祝降祥。
-- 皇心勤治切，應喜寸陰長。
+- 早鶑啼滑知寒薄，午馬休遲覺晝長。
+- 四海歡康幾務暇，簫韶時奉萬年觴。
 
 ## 拼音
 
-- ying2 qi4 lai2 gui1 zuo4 ， yi2 chun1 zhu4 jiang4 xiang2 。
-- huang2 xin1 qin2 zhi4 qie4 ， ying1 xi3 cun4 yin1 chang2 。
+- zao3 ying1 ti2 hua2 zhi1 han2 bao2 ， wu3 ma3 xiu1 chi2 jue2 zhou4 chang2 。
+- si4 hai3 huan1 kang1 ji1 wu4 xia2 ， xiao1 shao2 shi2 feng4 wan4 nian2 shang1 。
 
 ## 注释
 

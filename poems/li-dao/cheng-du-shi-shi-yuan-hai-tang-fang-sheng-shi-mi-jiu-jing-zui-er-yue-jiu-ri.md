@@ -6,10 +6,10 @@ titleSlug: cheng-du-shi-shi-yuan-hai-tang-fang-sheng-shi-mi-jiu-jing-zui-er-yue-
 author: 李燾
 authorPinyin: li3 dao4
 authorSlug: li-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

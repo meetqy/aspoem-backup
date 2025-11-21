@@ -6,10 +6,10 @@ titleSlug: ju
 author: 商侑
 authorPinyin: shang1 you4
 authorSlug: shang-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

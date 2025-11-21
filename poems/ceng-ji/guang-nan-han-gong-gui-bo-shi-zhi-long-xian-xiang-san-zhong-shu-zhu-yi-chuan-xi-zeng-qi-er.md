@@ -6,10 +6,10 @@ titleSlug: guang-nan-han-gong-gui-bo-shi-zhi-long-xian-xiang-san-zhong-shu-zhu-y
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

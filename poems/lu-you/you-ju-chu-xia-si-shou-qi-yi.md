@@ -6,25 +6,25 @@ titleSlug: you-ju-chu-xia-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湖山勝處放翁家，槐柳陰中野徑斜。
-- 水滿有時觀下鷺，草深無處不鳴蛙。
-- 籜龍已過頭番筍，木筆猶開第一花。
-- 嘆息老來交舊盡，睡餘誰共午甌茶。
+- 路繚長堤北，家居小市西。
+- 陂塘晨飲犢，門巷午鳴雞。
+- 婦喜蠶三幼，兒誇雨一犁。
+- 衰翁亦放浪，未怕屐霑泥。
 
 ## 拼音
 
-- hu2 shan1 sheng4 chu3 fang4 weng1 jia1 ， huai2 liu3 yin1 zhong1 ye3 jing4 xie2 。
-- shui3 man3 you3 shi2 guan1 xia4 lu4 ， cao3 shen1 wu2 chu3 bu4 ming2 wa1 。
-- tuo4 long2 yi3 guo4 tou2 fan1 sun3 ， mu4 bi3 you2 kai1 di4 yi1 hua1 。
-- tan4 xi1 lao3 lai2 jiao1 jiu4 jin4 ， shui4 yu2 shui2 gong4 wu3 ou1 cha2 。
+- lu4 liao2 chang2 di1 bei3 ， jia1 ju1 xiao3 shi4 xi1 。
+- bei1 tang2 chen2 yin3 du2 ， men2 xiang4 wu3 ming2 ji1 。
+- fu4 xi3 can2 san1 you4 ， er2 kua1 yu3 yi4 li2 。
+- shuai1 weng1 yi4 fang4 lang4 ， wei4 pa4 ji1 zhan1 ni2 。
 
 ## 注释
 

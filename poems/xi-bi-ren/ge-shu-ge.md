@@ -6,10 +6,10 @@ titleSlug: ge-shu-ge
 author: 西鄙人
 authorPinyin: xi1 bi3 ren2
 authorSlug: xi-bi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

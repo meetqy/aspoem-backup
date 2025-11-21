@@ -6,10 +6,10 @@ titleSlug: zhang-jun-yi-liu-shi-jiu-zuo-shi-zi-dao-qi-kang-ning-yu-shi-nian-wu-s
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-pan-liang-gui-ti-san-jiang-ting-yun
 author: 王伯庠
 authorPinyin: wang2 bo2 xiang2
 authorSlug: wang-bo-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

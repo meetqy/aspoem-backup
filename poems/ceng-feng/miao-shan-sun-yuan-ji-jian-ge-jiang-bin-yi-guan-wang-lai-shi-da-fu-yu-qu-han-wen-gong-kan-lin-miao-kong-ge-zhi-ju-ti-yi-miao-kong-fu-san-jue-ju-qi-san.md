@@ -6,10 +6,10 @@ titleSlug: miao-shan-sun-yuan-ji-jian-ge-jiang-bin-yi-guan-wang-lai-shi-da-fu-yu
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

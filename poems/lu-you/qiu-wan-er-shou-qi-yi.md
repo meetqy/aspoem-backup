@@ -6,25 +6,25 @@ titleSlug: qiu-wan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 門巷清如水，情懷淡似秋。
-- 詩吟唐近體，談慕晉高流。
-- 託命須長鑱，浮家只小舟。
-- 江南烟雨岸，何處不堪留。
+- 梧桐落井床，蟋蟀在書堂。
+- 徂歲聿云暮，攬衣慨以慷。
+- 一生常蹭蹬，萬事略更嘗。
+- 賴有銘心語，南華論坐忘。
 
 ## 拼音
 
-- men2 xiang4 qing1 ru2 shui3 ， qing2 huai2 dan4 si4 qiu1 。
-- shi1 yin2 tang2 jin4 ti3 ， tan2 mu4 jin4 gao1 liu2 。
-- tuo1 ming4 xu1 chang2 chan2 ， fu2 jia1 zhi1 xiao3 zhou1 。
-- jiang1 nan2 yan1 yu3 an4 ， he2 chu3 bu4 kan1 liu2 。
+- wu2 tong2 luo4 jing3 chuang2 ， xi1 shuai4 zai4 shu1 tang2 。
+- cu2 sui4 yu4 yun2 mu4 ， lan3 yi1 kai3 yi3 kang1 。
+- yi4 sheng1 chang2 ceng4 deng4 ， wan4 shi4 lüe4 geng4 chang2 。
+- lai4 you3 ming2 xin1 yu3 ， nan2 hua2 lun4 zuo4 wang4 。
 
 ## 注释
 

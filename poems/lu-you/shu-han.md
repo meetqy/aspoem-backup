@@ -6,25 +6,25 @@ titleSlug: shu-han
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蜀漢崎嶇外，江湖莽蒼中。
-- 冷官家世事，獨立古人風。
-- 已老學猶力，久窮詩未工。
-- 悠悠千載後，此意與誰同。
+- 憶昔遨遊蜀漢間，駸駸五十尚朱顔。
+- 呼鷹雪暗天回路，采藥雲迷御愛山。
+- 舊事已無人共說，征途猶與夢相關。
+- 夕陽不覺憑闌久，待得林鴉接翅還。
 
 ## 拼音
 
-- shu3 han4 qi2 qu1 wai4 ， jiang1 hu2 mang3 cang1 zhong1 。
-- leng3 guan1 jia1 shi4 shi4 ， du2 li4 gu3 ren2 feng1 。
-- yi3 lao3 xue2 you2 li4 ， jiu3 qiong2 shi1 wei4 gong1 。
-- you1 you1 qian1 zai4 hou4 ， ci3 yi4 yu3 shui2 tong2 。
+- yi4 xi1 ao2 you2 shu3 han4 jian4 ， qin1 qin1 wu3 shi2 shang4 zhu1 yan2 。
+- hu1 ying1 xue3 an4 tian1 hui2 lu4 ， cai3 yao4 yun2 mi2 yu4 ai4 shan1 。
+- jiu4 shi4 yi3 wu2 ren2 gong4 shuo1 ， zheng1 tu2 you2 yu3 meng4 xiang1 guan1 。
+- xi1 yang2 bu4 jue2 ping2 lan2 jiu3 ， dai4 de2 lin2 ya1 jie1 chi4 huan2 。
 
 ## 注释
 

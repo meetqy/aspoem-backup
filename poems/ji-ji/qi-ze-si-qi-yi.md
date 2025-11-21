@@ -6,10 +6,10 @@ titleSlug: qi-ze-si-qi-yi
 author: 季季
 authorPinyin: ji4 ji4
 authorSlug: ji-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

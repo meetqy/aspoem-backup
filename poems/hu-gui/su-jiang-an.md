@@ -6,10 +6,10 @@ titleSlug: su-jiang-an
 author: 胡圭
 authorPinyin: hu2 gui1
 authorSlug: hu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

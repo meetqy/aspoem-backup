@@ -9,7 +9,7 @@ authorSlug: hu-su
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
@@ -17,7 +17,7 @@ tags: []
 - 屏翳驅雲結夜陰，素花飄墜惡氛沈。
 - 色欺曹國麻衣淺，寒入荆王翠被深。
 - 天上明河銀作水，海中仙樹玉爲林。
-- 日高獨擁鸘裘卧，誰乞長安取酒金。
+- 日高獨擁鸘裘臥，誰乞長安取酒金。
 
 ## 拼音
 

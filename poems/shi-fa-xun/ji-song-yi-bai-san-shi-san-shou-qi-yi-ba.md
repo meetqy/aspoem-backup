@@ -1,26 +1,26 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-yi-ba
-title: 偈頌一百三十三首  其一八
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 ba1
+title: 偈頌一百三十三首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-yi-ba
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 庭開金菊宿根生，來雁新聞一兩聲。
-- 猶握金鞭問歸客，夜深誰共御街行。
+- 三通皷罷，簇簇上來。
+- 諸人減却多少威光，南山入地三尺。
 
 ## 拼音
 
-- ting2 kai1 jin1 ju2 su4 gen1 sheng1 ， lai2 yan4 xin1 wen2 yi4 liang3 sheng1 。
-- you2 wo4 jin1 bian1 wen4 gui1 ke4 ， ye4 shen1 shui2 gong4 yu4 jie1 xing2 。
+- san1 tong1 gu3 ba4 ， cu4 cu4 shang4 lai2 。
+- zhu1 ren2 jian3 que4 duo1 shao3 wei1 guang1 ， nan2 shan1 ru4 di4 san1 chi3 。
 
 ## 注释
 

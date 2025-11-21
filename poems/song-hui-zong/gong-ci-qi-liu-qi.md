@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-liu-qi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 翠石岧嶤競巧形，無雙惟是碧雲屏。
-- 坤輿秀氣全融結，尤比三峰色更青。
+- 朝來和氣巳氤氲，碧瓦朱甍照眼新。
+- 永晝更添蓮漏水，晴曦容與蘂宮春。
 
 ## 拼音
 
-- cui4 shi2 tiao2 yao2 jing4 qiao3 xing2 ， wu2 shuang1 wei2 shi4 bi4 yun2 ping2 。
-- kun1 yu2 xiu4 qi4 quan2 rong2 jie2 ， you2 bi3 san1 feng1 se4 geng4 qing1 。
+- chao2 lai2 he2 qi4 si4 yin1 yun1 ， bi4 wa3 zhu1 meng2 zhao4 yan3 xin1 。
+- yong3 zhou4 geng4 tian1 lian2 lou4 shui3 ， qing2 xi1 rong2 yu3 rui3 gong1 chun1 。
 
 ## 注释
 

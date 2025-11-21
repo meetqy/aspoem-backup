@@ -1,26 +1,26 @@
 ---
 id: shi-pu-yan-song-gu-shi-shou-qi-yi
-title: 頌古十首  其一
-titlePinyin: song4 gu3 shi2 shou3     qi2 yi1
+title: 頌古十首  其一○
+titlePinyin: song4 gu3 shi2 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-shou-qi-yi
 author: 釋普巖
 authorPinyin: shi4 pu3 yan2
 authorSlug: shi-pu-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 自謂五更侵早起，誰知更有夜行人。
-- 條風塊雨今非昔，堯舜垂衣萬國賓。
+- 如是如何正法眼，驀然突出破沙盆。
+- 依稀渭北春天樹，彷彿江東日暮雲。
 
 ## 拼音
 
-- zi4 wei4 wu3 geng4 qin1 zao3 qi3 ， shui2 zhi1 geng4 you3 ye4 xing2 ren2 。
-- tiao2 feng1 kuai4 yu3 jin1 fei1 xi1 ， yao2 shun4 chui2 yi1 wan4 guo2 bin1 。
+- ru2 shi4 ru2 he2 zheng4 fa3 yan3 ， mo4 ran2 tu1 chu1 po4 sha1 pen2 。
+- yi1 xi1 wei4 bei3 chun1 tian1 shu4 ， pang2 fu2 jiang1 dong1 ri4 mu4 yun2 。
 
 ## 注释
 

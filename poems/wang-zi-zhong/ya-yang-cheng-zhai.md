@@ -6,10 +6,10 @@ titleSlug: ya-yang-cheng-zhai
 author: 王自中
 authorPinyin: wang2 zi4 zhong1
 authorSlug: wang-zi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

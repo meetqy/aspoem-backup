@@ -6,10 +6,10 @@ titleSlug: tong-she-di-fan-zhou-xi-hu-deng-zhou-jin-tang-bu-zhi-zi-cui-ting-wang
 author: 王庭秀
 authorPinyin: wang2 ting2 xiu4
 authorSlug: wang-ting-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

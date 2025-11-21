@@ -6,10 +6,10 @@ titleSlug: xia-ri-guo-zhuang-yan-si-seng-suo-shi-wei-liu-san-jue-qi-er
 author: 晁公武
 authorPinyin: chao2 gong1 wu3
 authorSlug: chao-gong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

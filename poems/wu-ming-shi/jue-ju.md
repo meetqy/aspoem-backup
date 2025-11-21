@@ -9,18 +9,18 @@ authorSlug: wu-ming-shi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 石沈遼海闊，劒別楚山長。
-- 會合知無日，離心滿夕陽。
+- 綠楊陰轉畫橋斜，舟有笙歌岸有花。
+- 盡日會稽山色裏，蓬萊清淺水仙家。
 
 ## 拼音
 
-- shi2 shen3 liao2 hai3 kuo4 ， jian4 bie2 chu3 shan1 chang2 。
-- hui4 he2 zhi1 wu2 ri4 ， li2 xin1 man3 xi1 yang2 。
+- lü4 yang2 yin1 zhuan3 hua4 qiao2 xie2 ， zhou1 you3 sheng1 ge1 an4 you3 hua1 。
+- jin4 ri4 hui4 ji1 shan1 se4 li3 ， peng2 lai2 qing1 qian3 shui3 xian1 jia1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: you-shan-tang-wei-zhang-yi-dao-ti
 author: 沈繼祖
 authorPinyin: shen3 ji4 zu3
 authorSlug: shen-ji-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ci-yun-liu-he-ta-xiu-jiang-ting-bi-xian-liu-ti
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

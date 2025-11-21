@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhe-zhong-gu-an-fu-duan-ming-shi-li-zi-gan-huai-shu-shi-zhi-zu
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

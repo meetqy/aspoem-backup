@@ -6,10 +6,10 @@ titleSlug: ju
 author: 傅宣山
 authorPinyin: fu4 xuan1 shan1
 authorSlug: fu-xuan-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

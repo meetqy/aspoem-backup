@@ -1,30 +1,30 @@
 ---
 id: zhang-dao-qia-mei-hua-qi-lu-qi-er
-title: 梅花七律  其二
-titlePinyin: mei2 hua1 qi1 lü4     qi2 er4
+title: 梅花七律  其二○
+titlePinyin: mei2 hua1 qi1 lü4     qi2 er4 ○
 titleSlug: mei-hua-qi-lu-qi-er
 author: 張道洽
 authorPinyin: zhang1 dao4 qia4
 authorSlug: zhang-dao-qia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南堂深處向陽身，第一東風信息真。
-- 樹冷花清無俗韻，天寒日暮有佳人。
-- 林逋眼目纔能識，何遜心情獨見親。
-- 養就枝頭金鼎實，千花陌上已成塵。
+- 花中氣節老逾剛，萬木摧殘獨自芳。
+- 天女不生凡意想，月娥偏尚澹梳妝。
+- 精神冰玉前生瘦，骨髓栴檀抵死香。
+- 說到調和天下口，輕輕桃杏敢承當。
 
 ## 拼音
 
-- nan2 tang2 shen1 chu3 xiang4 yang2 shen1 ， di4 yi4 dong1 feng1 xin4 xi1 zhen1 。
-- shu4 leng3 hua1 qing1 wu2 su2 yun4 ， tian1 han2 ri4 mu4 you3 jia1 ren2 。
-- lin2 bu1 yan3 mu4 cai2 neng2 shi2 ， he2 xun4 xin1 qing2 du2 jian4 qin1 。
-- yang3 jiu4 zhi1 tou2 jin1 ding3 shi2 ， qian1 hua1 mo4 shang4 yi3 cheng2 chen2 。
+- hua1 zhong1 qi4 jie2 lao3 yu2 gang1 ， wan4 mu4 cui1 can2 du2 zi4 fang1 。
+- tian1 nü3 bu4 sheng1 fan2 yi4 xiang3 ， yue4 e2 pian1 shang4 dan4 shu1 zhuang1 。
+- jing1 shen2 bing1 yu4 qian2 sheng1 shou4 ， gu3 sui3 zhan1 tan2 di3 si3 xiang1 。
+- shuo1 dao4 diao4 he2 tian1 xia4 kou3 ， qing1 qing1 tao2 xing4 gan3 cheng2 dang1 。
 
 ## 注释
 

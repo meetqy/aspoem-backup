@@ -6,10 +6,10 @@ titleSlug: ping-lu-xuan-qi-yi
 author: 王用亨
 authorPinyin: wang2 yong4 heng1
 authorSlug: wang-yong-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

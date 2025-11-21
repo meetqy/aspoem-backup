@@ -6,10 +6,10 @@ titleSlug: dong-po-xian-sheng-yi-shou-guang-ling-yi-shi-wang-ying-xian-sheng-yi-
 author: 晁補之
 authorPinyin: chao2 bu3 zhi1
 authorSlug: chao-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

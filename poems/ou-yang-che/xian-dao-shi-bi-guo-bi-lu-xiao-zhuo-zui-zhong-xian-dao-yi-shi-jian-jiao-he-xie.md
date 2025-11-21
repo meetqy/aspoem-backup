@@ -6,9 +6,9 @@ titleSlug: xian-dao-shi-bi-guo-bi-lu-xiao-zhuo-zui-zhong-xian-dao-yi-shi-jian-ji
 author: 歐陽澈
 authorPinyin: ou1 yang2 che4
 authorSlug: ou-yang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

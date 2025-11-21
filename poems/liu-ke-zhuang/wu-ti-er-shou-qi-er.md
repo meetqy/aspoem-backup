@@ -6,21 +6,21 @@ titleSlug: wu-ti-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 頂垂翅短立䙰褷，孤淚誰聽祇自悲。
-- 寧瘞焦山山下土，不將身托上林枝。
+- 季世讎相復，先賢量有餘。
+- 潞還子方謫，坡答致中書。
 
 ## 拼音
 
-- ding3 chui2 chi4 duan3 li4 䙰 shi1 ， gu1 lei4 shui2 ting1 qi2 zi4 bei1 。
-- ning2 yi4 jiao1 shan1 shan1 xia4 tu3 ， bu4 jiang1 shen1 tuo1 shang4 lin2 zhi1 。
+- ji4 shi4 chou2 xiang1 fu4 ， xian1 xian2 liang2 you3 yu2 。
+- lu4 huan2 zi3 fang1 zhe2 ， po1 da2 zhi4 zhong1 shu1 。
 
 ## 注释
 

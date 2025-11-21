@@ -6,10 +6,10 @@ titleSlug: ti-ling-long-shan
 author: 章良能
 authorPinyin: zhang1 liang2 neng2
 authorSlug: zhang-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

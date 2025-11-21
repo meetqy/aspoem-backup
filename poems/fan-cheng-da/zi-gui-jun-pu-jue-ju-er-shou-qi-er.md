@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zi-gui-jun-pu-jue-ju-er-shou-qi-er
-title: 秭歸郡圃絕句二首・其二
-titlePinyin: zi3 gui1 jun4 pu3 jue2 ju4 er4 shou3・qi2 er4
+title: 秭歸郡圃絕句二首  其二
+titlePinyin: zi3 gui1 jun4 pu3 jue2 ju4 er4 shou3     qi2 er4
 titleSlug: zi-gui-jun-pu-jue-ju-er-shou-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

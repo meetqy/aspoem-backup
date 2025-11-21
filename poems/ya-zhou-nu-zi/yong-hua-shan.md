@@ -6,10 +6,10 @@ titleSlug: yong-hua-shan
 author: 崖州女子
 authorPinyin: ya2 zhou1 nü3 zi3
 authorSlug: ya-zhou-nu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

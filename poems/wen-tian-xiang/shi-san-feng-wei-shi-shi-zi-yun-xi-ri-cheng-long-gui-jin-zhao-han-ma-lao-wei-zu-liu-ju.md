@@ -6,10 +6,10 @@ titleSlug: shi-san-feng-wei-shi-shi-zi-yun-xi-ri-cheng-long-gui-jin-zhao-han-ma-
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

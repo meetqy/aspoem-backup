@@ -6,10 +6,10 @@ titleSlug: xie-wang-xiu-shi-tong-er-jiao-ju-chong-jiang-bin
 author: 王翊龍
 authorPinyin: wang2 yi4 long2
 authorSlug: wang-yi-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

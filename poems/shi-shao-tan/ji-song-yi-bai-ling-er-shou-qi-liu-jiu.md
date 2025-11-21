@@ -6,21 +6,25 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-liu-jiu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桑疇雨過羅紈膩，麥隴風來餠餌香。
-- 揭示西來端的意，好商量處錯商量。
+- 西風簇浪花，太湖連底凍。
+- 冷照玉奩清，一片無瑕縫。
+- 面目分明，眼睛定動。
+- 不墯虛凝裂萬差，漆桶漆桶。
 
 ## 拼音
 
-- sang1 chou2 yu3 guo4 luo2 wan2 ni4 ， mai4 long3 feng1 lai2 bing3 er3 xiang1 。
-- jie1 shi4 xi1 lai2 duan1 di4 yi4 ， hao3 shang1 liang0 chu3 cuo4 shang1 liang0 。
+- xi1 feng1 cu4 lang4 hua1 ， tai4 hu2 lian2 di3 dong4 。
+- leng3 zhao4 yu4 lian2 qing1 ， yi2 pian4 wu2 xia2 feng2 。
+- mian4 mu4 fen1 ming2 ， yan3 jing0 ding4 dong4 。
+- bu2 duo4 xu1 ning2 lie4 wan4 cha4 ， qi1 tong3 qi1 tong3 。
 
 ## 注释
 

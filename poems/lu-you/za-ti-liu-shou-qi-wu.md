@@ -6,21 +6,21 @@ titleSlug: za-ti-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 釣魚吹笛本閑身，正坐微官白髮新。
-- 著屐此生猶幾緉，可令復踏九衢塵。
+- 年華偃蹇留不住，鬢雪縱橫耘更多。
+- 樂天不生夢得死，恨無人續竹枝歌。
 
 ## 拼音
 
-- diao4 yu2 chui1 di2 ben3 xian2 shen1 ， zheng4 zuo4 wei1 guan1 bai2 fa4 xin1 。
-- zhu4 ji1 ci3 sheng1 you2 ji1 liang3 ， ke3 ling4 fu4 ta4 jiu3 qu2 chen2 。
+- nian2 hua2 yan3 jian3 liu2 bu2 zhu4 ， bin4 xue3 zong4 heng2 yun2 geng4 duo1 。
+- le4 tian1 bu4 sheng1 meng4 de2 si3 ， hen4 wu2 ren2 xu4 zhu2 zhi1 ge1 。
 
 ## 注释
 

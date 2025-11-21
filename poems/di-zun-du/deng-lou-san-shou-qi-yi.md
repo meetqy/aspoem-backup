@@ -6,9 +6,9 @@ titleSlug: deng-lou-san-shou-qi-yi
 author: 狄遵度
 authorPinyin: di2 zun1 du4
 authorSlug: di-zun-du
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: san-yan-shi-dan-shan-yan
 author: 盧臧
 authorPinyin: lu2 zang1
 authorSlug: lu-zang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

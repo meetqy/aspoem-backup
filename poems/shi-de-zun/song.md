@@ -6,10 +6,10 @@ titleSlug: song
 author: 釋德遵
 authorPinyin: shi4 de2 zun1
 authorSlug: shi-de-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

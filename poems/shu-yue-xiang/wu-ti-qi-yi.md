@@ -6,21 +6,21 @@ titleSlug: wu-ti-qi-yi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 墮馬烏雲懶畫眉，博山宿火翠烟微。
-- 綠窗不掃香塵護，暖日青蟲化蝶飛。
+- 江山有恨非吾土，花鳥相逢故惱翁。
+- 百歲唯餘二十五，一春强半又成空。
 
 ## 拼音
 
-- duo4 ma3 wu1 yun2 lan3 hua4 mei2 ， bo2 shan1 su4 huo3 cui4 yan1 wei1 。
-- lü4 chuang1 bu4 sao3 xiang1 chen2 hu4 ， nuan3 ri4 qing1 chong2 hua4 die2 fei1 。
+- jiang1 shan1 you3 hen4 fei1 wu2 tu3 ， hua1 niao3 xiang1 feng2 gu4 nao3 weng1 。
+- bai3 sui4 wei2 yu2 er4 shi2 wu3 ， yi4 chun1 qiang2 ban4 you4 cheng2 kong1 。
 
 ## 注释
 

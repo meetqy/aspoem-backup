@@ -6,25 +6,25 @@ titleSlug: sui-wan-shu-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殘歲堂堂去，新春鼎鼎來。
-- 夢移鄉國近，酒挽壯心回。
-- 暖律初催柳，晴光併上梅。
-- 東湖有歸日，衰抱得頻開。
+- 早見龍翔上太清，即今孤宦老山城。
+- 靈丹不解換凡骨，薄命枉教生太平。
+- 積雪樓臺增壯觀，近春鳥雀有和聲。
+- 如山吏牘何時了，惆悵西窗晚照明。
 
 ## 拼音
 
-- can2 sui4 tang2 tang2 qu4 ， xin1 chun1 ding3 ding3 lai2 。
-- meng4 yi2 xiang1 guo2 jin4 ， jiu3 wan3 zhuang4 xin1 hui2 。
-- nuan3 lü4 chu1 cui1 liu3 ， qing2 guang1 bing4 shang4 mei2 。
-- dong1 hu2 you3 gui1 ri4 ， shuai1 bao4 de2 bin1 kai1 。
+- zao3 jian4 long2 xiang2 shang4 tai4 qing1 ， ji2 jin1 gu1 huan4 lao3 shan1 cheng2 。
+- ling2 dan1 bu4 jie3 huan4 fan2 gu3 ， bo2 ming4 wang3 jiao4 sheng1 tai4 ping2 。
+- ji1 xue3 lou2 tai2 zeng1 zhuang4 guan1 ， jin4 chun1 niao3 que4 you3 he2 sheng1 。
+- ru2 shan1 li4 du2 he2 shi2 le0 ， chou2 chang4 xi1 chuang1 wan3 zhao4 ming2 。
 
 ## 注释
 

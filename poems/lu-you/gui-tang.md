@@ -6,25 +6,25 @@ titleSlug: gui-tang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 莫笑龜堂老，殘年所得多。
-- 賦詩傳海估，說法度天魔。
-- 夭矯竹如意，鱗皴松養和。
-- 拈來示諸子，無事數相過。
+- 障日松棚正策功，幅巾聊得受微風。
+- 蟬聲不斷草堂靜，潦水已歸村路通。
+- 拄杖閑行穿犖确，孤雲時見起巃嵸。
+- 東陽醇酎無由到，知負今年幾碧筩。
 
 ## 拼音
 
-- mo4 xiao4 gui1 tang2 lao3 ， can2 nian2 suo3 de2 duo1 。
-- fu4 shi1 chuan2 hai3 gu1 ， shuo1 fa3 du4 tian1 mo2 。
-- yao1 jiao3 zhu2 ru2 yi4 ， lin2 cun1 song1 yang3 he2 。
-- nian1 lai2 shi4 zhu1 zi3 ， wu2 shi4 shu4 xiang1 guo4 。
+- zhang4 ri4 song1 peng2 zheng4 ce4 gong1 ， fu2 jin1 liao2 de2 shou4 wei1 feng1 。
+- chan2 sheng1 bu2 duan4 cao3 tang2 jing4 ， liao2 shui3 yi3 gui1 cun1 lu4 tong1 。
+- zhu3 zhang4 xian2 xing2 chuan1 luo4 que4 ， gu1 yun2 shi2 jian4 qi3 long2 zong3 。
+- dong1 yang2 chun2 zhou4 wu2 you2 dao4 ， zhi1 fu4 jin1 nian2 ji1 bi4 tong3 。
 
 ## 注释
 

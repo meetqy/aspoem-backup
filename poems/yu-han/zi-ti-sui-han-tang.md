@@ -6,10 +6,10 @@ titleSlug: zi-ti-sui-han-tang
 author: 余瀚
 authorPinyin: yu2 han4
 authorSlug: yu-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ru-shan-cai-yao-yu-yi-ren
 author: 朱真靜
 authorPinyin: zhu1 zhen1 jing4
 authorSlug: zhu-zhen-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

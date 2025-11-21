@@ -6,9 +6,9 @@ titleSlug: cheng-shao-guo-shi-ji
 author: 釋遇安
 authorPinyin: shi4 yu4 an1
 authorSlug: shi-yu-an
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: bei-shan-zhi-gao-shou-bei-shan-he-xian-sheng-qi-wu
 author: 金履詳
 authorPinyin: jin1 lü3 xiang2
 authorSlug: jin-lu-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

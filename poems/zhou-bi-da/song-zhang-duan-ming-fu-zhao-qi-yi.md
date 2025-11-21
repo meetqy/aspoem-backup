@@ -1,26 +1,26 @@
 ---
 id: zhou-bi-da-song-zhang-duan-ming-fu-zhao-qi-yi
-title: 送張端明赴召  其一
-titlePinyin: song4 zhang1 duan1 ming2 fu4 zhao4     qi2 yi1
+title: 送張端明赴召  其一○
+titlePinyin: song4 zhang1 duan1 ming2 fu4 zhao4     qi2 yi1 ○
 titleSlug: song-zhang-duan-ming-fu-zhao-qi-yi
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春殿曾收最上科，甘泉扈駕早鳴珂。
-- 金陵已奏三年課，玉燭宜調四氣和。
+- 欲驅羸馬從金鞍，顧藉微官進自難。
+- 但願斯民均暖律，小儒不歎廣文寒。
 
 ## 拼音
 
-- chun1 dian4 ceng2 shou1 zui4 shang4 ke1 ， gan1 quan2 hu4 jia4 zao3 ming2 ke1 。
-- jin1 ling2 yi3 zou4 san1 nian2 ke4 ， yu4 zhu2 yi2 diao4 si4 qi4 he2 。
+- yu4 qu1 lei2 ma3 cong2 jin1 an1 ， gu4 jie4 wei1 guan1 jin4 zi4 nan2 。
+- dan4 yuan4 si1 min2 jun1 nuan3 lü4 ， xiao3 ru2 bu2 tan4 guang3 wen2 han2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: song-gu-wu-wei-qi-san
 author: 釋慧蘭
 authorPinyin: shi4 hui4 lan2
 authorSlug: shi-hui-lan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

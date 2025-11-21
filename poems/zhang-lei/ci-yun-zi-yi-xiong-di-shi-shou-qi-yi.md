@@ -1,30 +1,30 @@
 ---
 id: zhang-lei-ci-yun-zi-yi-xiong-di-shi-shou-qi-yi
-title: 次韵子夷兄弟十首  其一
-titlePinyin: ci4 yun4 zi3 yi2 xiong1 di4 shi2 shou3     qi2 yi1
+title: 次韵子夷兄弟十首  其一○
+titlePinyin: ci4 yun4 zi3 yi2 xiong1 di4 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-zi-yi-xiong-di-shi-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暑雨衆物成，園林粲垂實。
-- 官閒縻歲月，裨補百無一。
-- 委身作書蠹，檢性就僧律。
-- 古味雖未亡，塵埃滿琴瑟。
+- 昔有獨醒士，絕口避醁醽。
+- 折楊得衆笑，無地至秦青。
+- 周詩念忠嘉，所貴食野苹。
+- 良時不可再，佳人難合并。
 
 ## 拼音
 
-- shu3 yu3 zhong4 wu4 cheng2 ， yuan2 lin2 can4 chui2 shi2 。
-- guan1 xian2 mi2 sui4 yue4 ， bi4 bu3 bai3 wu2 yi1 。
-- wei3 shen1 zuo4 shu1 du4 ， jian3 xing4 jiu4 seng1 lü4 。
-- gu3 wei4 sui1 wei4 wang2 ， chen2 ai1 man3 qin2 se4 。
+- xi1 you3 du2 xing3 shi4 ， jue2 kou3 bi4 lu4 ling2 。
+- zhe2 yang2 de2 zhong4 xiao4 ， wu2 di4 zhi4 qin2 qing1 。
+- zhou1 shi1 nian4 zhong1 jia1 ， suo3 gui4 shi2 ye3 ping2 。
+- liang2 shi2 bu4 ke3 zai4 ， jia1 ren2 nan2 he2 bing4 。
 
 ## 注释
 

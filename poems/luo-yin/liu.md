@@ -9,18 +9,18 @@ authorSlug: luo-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 灞岸晴來送別頻，相偎相倚不勝春。
-- 自家飛絮猶無定，爭解垂絲絆路人。
+- 一簇青煙鎖玉樓，半垂闌畔半垂溝。
+- 明年更有新條在，繞亂春風卒未休。
 
 ## 拼音
 
-- ba4 an4 qing2 lai2 song4 bie2 bin1 ， xiang1 wei1 xiang1 yi3 bu2 sheng4 chun1 。
-- zi4 jia1 fei1 xu4 you2 wu2 ding4 ， zheng1 jie3 chui2 si1 ban4 lu4 ren2 。
+- yi2 cu4 qing1 yan1 suo3 yu4 lou2 ， ban4 chui2 lan2 pan4 ban4 chui2 gou1 。
+- ming2 nian2 geng4 you3 xin1 tiao2 zai4 ， rao4 luan4 chun1 feng1 zu2 wei4 xiu1 。
 
 ## 注释
 

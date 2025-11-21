@@ -1,26 +1,26 @@
 ---
 id: yue-ke-gong-ci-yi-bai-shou-qi-si
-title: 宮詞一百首  其四
-titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 si4
+title: 宮詞一百首  其四○
+titlePinyin: gong1 ci2 yi4 bai3 shou3     qi2 si4 ○
 titleSlug: gong-ci-yi-bai-shou-qi-si
 author: 岳珂
 authorPinyin: yue4 ke1
 authorSlug: yue-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五夜鍾聲上直時，焚香重熨早朝衣。
-- 裹頭殿直催排立，等候君王出木圍。
+- 東華銀榜麗卿雲，資善新開列近臣。
+- 昨夜清臺占上瑞，樂章已奏月重輪。
 
 ## 拼音
 
-- wu3 ye4 zhong1 sheng1 shang4 zhi2 shi2 ， fen2 xiang1 zhong4 yun4 zao3 chao2 yi1 。
-- guo3 tou2 dian4 zhi2 cui1 pai2 li4 ， deng3 hou4 jun1 wang2 chu1 mu4 wei2 。
+- dong1 hua2 yin2 bang3 li2 qing1 yun2 ， zi1 shan4 xin1 kai1 lie4 jin4 chen2 。
+- zuo2 ye4 qing1 tai2 zhan4 shang4 rui4 ， le4 zhang1 yi3 zou4 yue4 zhong4 lun2 。
 
 ## 注释
 

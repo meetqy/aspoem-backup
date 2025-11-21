@@ -6,10 +6,10 @@ titleSlug: zhang-zhou-bai-lian-seng-zong-yao-jian-yi-zhi-shan-mei-shan-ge-shu-yi
 author: 蔡襄
 authorPinyin: cai4 xiang1
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

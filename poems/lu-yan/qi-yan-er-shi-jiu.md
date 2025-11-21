@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 修生一路就中難，迷者徒將萬卷看。
-- 水火均平方是藥，陰陽差互不成丹。
-- 守雌勿失雄方住，在黑無虧白自乾。
-- 認得此般真妙訣，何憂風雨妒衰殘。
+- 日影元中合自然，奔雷走電入中原。
+- 長驅赤馬居東殿，大啓朱門泛碧泉。
+- 怒拔昆吾歌聖化，喜陪孤月賀新年。
+- 方知此是生生物，得在仁人始受傳。
 
 ## 拼音
 
-- xiu1 sheng1 yi2 lu4 jiu4 zhong1 nan2 ， mi2 zhe3 tu2 jiang1 wan4 juan4 kan4 。
-- shui3 huo3 jun1 ping2 fang1 shi4 yao4 ， yin1 yang2 cha4 hu4 bu4 cheng2 dan1 。
-- shou3 ci2 wu4 shi1 xiong2 fang1 zhu4 ， zai4 hei1 wu2 kui1 bai2 zi4 qian2 。
-- ren4 de2 ci3 ban1 zhen1 miao4 jue2 ， he2 you1 feng1 yu3 du4 shuai1 can2 。
+- ri4 ying3 yuan2 zhong1 he2 zi4 ran2 ， ben1 lei2 zou3 dian4 ru4 zhong1 yuan2 。
+- chang2 qu1 chi4 ma3 ju1 dong1 dian4 ， da4 qi3 zhu1 men2 fan4 bi4 quan2 。
+- nu4 ba2 kun1 wu2 ge1 sheng4 hua4 ， xi3 pei2 gu1 yue4 he4 xin1 nian2 。
+- fang1 zhi1 ci3 shi4 sheng1 sheng1 wu4 ， de2 zai4 ren2 ren2 shi3 shou4 chuan2 。
 
 ## 注释
 

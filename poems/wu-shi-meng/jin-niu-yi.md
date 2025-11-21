@@ -6,10 +6,10 @@ titleSlug: jin-niu-yi
 author: 吳師孟
 authorPinyin: wu2 shi1 meng4
 authorSlug: wu-shi-meng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

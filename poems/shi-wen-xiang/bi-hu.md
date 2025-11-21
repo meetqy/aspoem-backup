@@ -6,25 +6,25 @@ titleSlug: bi-hu
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閉戶日無事，山光滿盈几。
-- 飯餘曲肱睡，一覺頗酣美。
-- 心平不作夢，境寂如止水。
-- 山童爲煎茶，茶熟我當起。
+- 閉戶秋風裏，寥寥絕往還。
+- 菊開無俗豔，木落見真山。
+- 心比孤蟾浄，身同野鹿閒。
+- 困來雖就枕，無夢到人間。
 
 ## 拼音
 
-- bi4 hu4 ri4 wu2 shi4 ， shan1 guang1 man3 ying2 ji3 。
-- fan4 yu2 qu1 gong1 shui4 ， yi4 jue2 po1 han1 mei3 。
-- xin1 ping2 bu2 zuo4 meng4 ， jing4 ji4 ru2 zhi3 shui3 。
-- shan1 tong2 wei2 jian1 cha2 ， cha2 shu2 wo3 dang1 qi3 。
+- bi4 hu4 qiu1 feng1 li3 ， liao2 liao2 jue2 wang3 huan2 。
+- ju2 kai1 wu2 su2 yan4 ， mu4 luo4 jian4 zhen1 shan1 。
+- xin1 bi3 gu1 chan2 jing4 ， shen1 tong2 ye3 lu4 xian2 。
+- kun4 lai2 sui1 jiu4 zhen3 ， wu2 meng4 dao4 ren2 jian4 。
 
 ## 注释
 

@@ -6,16 +6,16 @@ titleSlug: jue-ju
 author: 黄春伯
 authorPinyin: huang2 chun1 bo2
 authorSlug: huang-chun-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
 - 半篙春水一蓑烟，抱月懷中枕斗眠。
-- 說與時人休問我，英雄迴首即神仙。
+- 說與時人休問我，英雄回首即神仙。
 
 ## 拼音
 

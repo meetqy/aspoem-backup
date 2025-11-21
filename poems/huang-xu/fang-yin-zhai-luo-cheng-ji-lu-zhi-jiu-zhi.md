@@ -6,10 +6,10 @@ titleSlug: fang-yin-zhai-luo-cheng-ji-lu-zhi-jiu-zhi
 author: 黄序
 authorPinyin: huang2 xu4
 authorSlug: huang-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

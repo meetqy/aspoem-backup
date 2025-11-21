@@ -6,9 +6,9 @@ titleSlug: meng-zai-shi-shu-ci-san-tan-zhi-yu-zan-ju-li-wu-di-tuo-yan-zhe-yi-yua
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

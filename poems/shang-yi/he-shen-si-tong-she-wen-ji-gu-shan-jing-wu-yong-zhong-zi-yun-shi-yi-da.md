@@ -6,10 +6,10 @@ titleSlug: he-shen-si-tong-she-wen-ji-gu-shan-jing-wu-yong-zhong-zi-yun-shi-yi-d
 author: 商倚
 authorPinyin: shang1 yi3
 authorSlug: shang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

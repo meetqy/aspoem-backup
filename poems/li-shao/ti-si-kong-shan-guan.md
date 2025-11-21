@@ -15,12 +15,12 @@ tags: []
 ## 正文
 
 - 梁代真人上紫微，水盤山脚五雲飛。
-- 杉松老盡無消息，猶得千一年度歸。
+- 松杉老盡無消息，猶得千年一度歸。
 
 ## 拼音
 
 - liang2 dai4 zhen1 ren2 shang4 zi3 wei1 ， shui3 pan2 shan1 jiao3 wu3 yun2 fei1 。
-- shan1 song1 lao3 jin4 wu2 xiao1 xi0 ， you2 de2 qian1 yi4 nian2 du4 gui1 。
+- song1 shan1 lao3 jin4 wu2 xiao1 xi0 ， you2 de2 qian1 nian2 yi2 du4 gui1 。
 
 ## 注释
 

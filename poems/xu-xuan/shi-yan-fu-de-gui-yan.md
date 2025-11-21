@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-shi-yan-fu-de-gui-yan
-title: 侍宴賦得歸雁
+title: 侍宴賦得歸鴈
 titlePinyin: shi4 yan4 fu4 de2 gui1 yan4
 titleSlug: shi-yan-fu-de-gui-yan
 author: 徐鉉
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 夜靜羣動息，翩翩一雁歸。
+- 夜靜羣動息，翩翩一鴈歸。
 - 清音天際遠，寒影月中微。
 - 何處雲同宿，長空雪共飛。
 - 陽和常借便，免與素心違。

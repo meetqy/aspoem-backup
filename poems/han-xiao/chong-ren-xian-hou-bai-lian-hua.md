@@ -6,10 +6,10 @@ titleSlug: chong-ren-xian-hou-bai-lian-hua
 author: 韓曉
 authorPinyin: han2 xiao3
 authorSlug: han-xiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

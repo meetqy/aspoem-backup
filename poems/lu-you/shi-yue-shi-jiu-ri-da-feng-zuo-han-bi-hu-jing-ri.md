@@ -6,10 +6,10 @@ titleSlug: shi-yue-shi-jiu-ri-da-feng-zuo-han-bi-hu-jing-ri
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

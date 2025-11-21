@@ -6,10 +6,10 @@ titleSlug: xing-qiong-dan-jian-jian-yu-zuo-shui-meng-zhong-de-ju-yun-qian-shan-d
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: zong-bi-er-shou-qi-er
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風月佳時一放懷，幸無章綬束筋骸。
-- 眵昏端以親燈故，憂患皆從識字來。
-- 受業門人留不住，載醪客子儘教迴。
-- 閉門自了身心事，寄語時賢莫浪猜。
+- 髮似秋霜身槁枝，相逢驚怪此翁誰。
+- 能啖范丈韲鹽日，曾識荆公疥癬時。
+- 不待姓名尊德齒，要知戒臘□鬚眉。
+- 融修漢士中翹楚，商略總堪大小兒。
 
 ## 拼音
 
-- feng1 yue4 jia1 shi2 yi2 fang4 huai2 ， xing4 wu2 zhang1 shou4 shu4 jin1 hai2 。
-- chi1 hun1 duan1 yi3 qin1 deng1 gu4 ， you1 huan4 jie1 cong2 shi2 zi4 lai2 。
-- shou4 ye4 men2 ren2 liu2 bu2 zhu4 ， zai4 lao2 ke4 zi3 jin3 jiao4 hui2 。
-- bi4 men2 zi4 le0 shen1 xin1 shi4 ， ji4 yu3 shi2 xian2 mo4 lang4 cai1 。
+- fa4 si4 qiu1 shuang1 shen1 gao3 zhi1 ， xiang1 feng2 jing1 guai4 ci3 weng1 shui2 。
+- neng2 dan4 fan4 zhang4 ji1 yan2 ri4 ， ceng2 shi2 jing1 gong1 jie4 xuan3 shi2 。
+- bu2 dai4 xing4 ming2 zun1 de2 chi3 ， yao4 zhi1 jie4 la4 □ xu1 mei2 。
+- rong2 xiu1 han4 shi4 zhong1 qiao2 chu3 ， shang1 lüe4 zong3 kan1 da4 xiao3 er2 。
 
 ## 注释
 

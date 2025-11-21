@@ -6,10 +6,10 @@ titleSlug: shu-meng
 author: 王欽臣
 authorPinyin: wang2 qin1 chen2
 authorSlug: wang-qin-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

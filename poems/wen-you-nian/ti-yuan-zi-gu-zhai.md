@@ -6,10 +6,10 @@ titleSlug: ti-yuan-zi-gu-zhai
 author: 文有年
 authorPinyin: wen2 you3 nian2
 authorSlug: wen-you-nian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

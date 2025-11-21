@@ -6,10 +6,10 @@ titleSlug: ye-bo-wu-xi-qi-er
 author: 董鴻道
 authorPinyin: dong3 hong2 dao4
 authorSlug: dong-hong-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

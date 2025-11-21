@@ -3,22 +3,22 @@ id: zhang-xie-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 章澥
+author: 章嶰
 authorPinyin: zhang1 xie4
 authorSlug: zhang-xie
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 度險聊憑九節杖，凌虛來謁三花巖。
+- 聞說靜中偏愛竹，自看疎密種秋煙。
 
 ## 拼音
 
-- du4 xian3 liao2 ping2 jiu3 jie2 zhang4 ， ling2 xu1 lai2 ye4 san1 hua1 yan2 。
+- wen2 shuo1 jing4 zhong1 pian1 ai4 zhu2 ， zi4 kan4 shu1 mi4 zhong3 qiu1 yan1 。
 
 ## 注释
 

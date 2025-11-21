@@ -6,10 +6,10 @@ titleSlug: cao-e-jiang
 author: 邵梅溪
 authorPinyin: shao4 mei2 xi1
 authorSlug: shao-mei-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

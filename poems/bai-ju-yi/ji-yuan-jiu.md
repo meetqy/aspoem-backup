@@ -9,34 +9,38 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 身爲近密拘，心爲名檢縛。
-- 月夜與花時，少逢杯酒樂。
-- 唯有元夫子，閑來同一酌。
-- 把手或酣歌，展眉時笑謔。
-- 今春除御史，前月之東洛。
-- 別來未開顏，塵埃滿尊杓。
-- 蕙風晚香盡，槐雨餘花落。
-- 秋意一蕭條，離容兩寂莫。
-- 況隨白日老，共負青山約。
-- 誰識相念心，韝鷹與籠鶴。
+- 一病經四年，親朋書信斷。
+- 窮通合易交，自笑知何晚。
+- 元君在荆楚，去日唯云遠。
+- 彼獨是何人，心如石不轉。
+- 憂我貧病身，書來唯勸勉。
+- 上言少愁苦，下道加餐飯。
+- 憐君爲謫吏，窮薄家貧褊。
+- 三寄衣食資，數盈二十萬。
+- 豈是貪衣食，感君心繾綣。
+- 念我口中食，分君身上暖。
+- 不因身病久，不因命多蹇。
+- 平生親友心，豈得知深淺。
 
 ## 拼音
 
-- shen1 wei2 jin4 mi4 ju1 ， xin1 wei2 ming2 jian3 fu4 。
-- yue4 ye4 yu3 hua1 shi2 ， shao3 feng2 bei1 jiu3 le4 。
-- wei2 you3 yuan2 fu1 zi3 ， xian2 lai2 tong2 yi4 zhuo2 。
-- ba3 shou3 huo4 han1 ge1 ， zhan3 mei2 shi2 xiao4 xue4 。
-- jin1 chun1 chu2 yu4 shi3 ， qian2 yue4 zhi1 dong1 luo4 。
-- bie2 lai2 wei4 kai1 yan2 ， chen2 ai1 man3 zun1 shao2 。
-- hui4 feng1 wan3 xiang1 jin4 ， huai2 yu3 yu2 hua1 luo4 。
-- qiu1 yi4 yi4 xiao1 tiao2 ， li2 rong2 liang3 ji4 mo4 。
-- kuang4 sui2 bai2 ri4 lao3 ， gong4 fu4 qing1 shan1 yue1 。
-- shui2 shi2 xiang1 nian4 xin1 ， gou1 ying1 yu3 long2 he4 。
+- yi2 bing4 jing1 si4 nian2 ， qin1 peng2 shu1 xin4 duan4 。
+- qiong2 tong1 he2 yi4 jiao1 ， zi4 xiao4 zhi1 he2 wan3 。
+- yuan2 jun1 zai4 jing1 chu3 ， qu4 ri4 wei2 yun2 yuan3 。
+- bi3 du2 shi4 he2 ren2 ， xin1 ru2 shi2 bu4 zhuan3 。
+- you1 wo3 pin2 bing4 shen1 ， shu1 lai2 wei2 quan4 mian3 。
+- shang4 yan2 shao3 chou2 ku3 ， xia4 dao4 jia1 can1 fan4 。
+- lian2 jun1 wei2 zhe2 li4 ， qiong2 bao2 jia1 pin2 bian3 。
+- san1 ji4 yi1 shi2 zi1 ， shu4 ying2 er4 shi2 wan4 。
+- qi3 shi4 tan1 yi1 shi2 ， gan3 jun1 xin1 qian3 quan3 。
+- nian4 wo3 kou3 zhong1 shi2 ， fen1 jun1 shen1 shang4 nuan3 。
+- bu4 yin1 shen1 bing4 jiu3 ， bu4 yin1 ming4 duo1 jian3 。
+- ping2 sheng1 qin1 you3 xin1 ， qi3 de2 zhi1 shen1 qian3 。
 
 ## 注释
 

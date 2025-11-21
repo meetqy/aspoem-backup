@@ -9,24 +9,22 @@ authorSlug: guan-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 君子稱一善，馨香遍九垓。
-- 小人妬一善，處處生嫌猜。
-- 口如暴死人，鐵尺抝不開。
-- 稂莠蝕田髓，積陰成冬雷。
-- 因知咋舌人，千古空悠哉。
+- 無端爲五字，字字鬢星星。
+- 祗覺人情薄，空餘鶴眼青。
+- 砌莎藏墜果，窗雪浸殘經。
+- 祗有歸山計，茫茫何所營。
 
 ## 拼音
 
-- jun1 zi3 cheng1 yi2 shan4 ， xin1 xiang1 bian4 jiu3 gai1 。
-- xiao3 ren2 du4 yi2 shan4 ， chu3 chu3 sheng1 xian2 cai1 。
-- kou3 ru2 bao4 si3 ren2 ， tie3 chi3 ao3 bu4 kai1 。
-- lang2 you3 shi2 tian2 sui3 ， ji1 yin1 cheng2 dong1 lei2 。
-- yin1 zhi1 ze2 she2 ren2 ， qian1 gu3 kong1 you1 zai1 。
+- wu2 duan1 wei2 wu3 zi4 ， zi4 zi4 bin4 xing1 xing0 。
+- zhi1 jue2 ren2 qing2 bao2 ， kong1 yu2 he4 yan3 qing1 。
+- qi4 sha1 cang2 zhui4 guo3 ， chuang1 xue3 jin4 can2 jing1 。
+- zhi1 you3 gui1 shan1 ji4 ， mang2 mang2 he2 suo3 ying2 。
 
 ## 注释
 

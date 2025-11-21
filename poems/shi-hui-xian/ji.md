@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋慧憲
 authorPinyin: shi4 hui4 xian4
 authorSlug: shi-hui-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,12 +9,12 @@ authorSlug: chen-yu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吳王舊國水烟空，香徑無人蘭葉紅。
+- 吳王舊國水煙空，香徑無人蘭葉紅。
 - 春色似憐歌舞地，年年先發館娃宮。
 
 ## 拼音

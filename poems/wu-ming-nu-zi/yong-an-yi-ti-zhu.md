@@ -6,10 +6,10 @@ titleSlug: yong-an-yi-ti-zhu
 author: 無名女子
 authorPinyin: wu2 ming2 nü3 zi3
 authorSlug: wu-ming-nu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

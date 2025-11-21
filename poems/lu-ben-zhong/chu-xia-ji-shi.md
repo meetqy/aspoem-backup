@@ -6,25 +6,25 @@ titleSlug: chu-xia-ji-shi
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歌呼連牆亦任渠，移門賓從又何如。
-- 晴階仰日卧紅藥，野水趁船跳白魚。
-- 多病且参篐桶話，得閑時近養生書。
-- 平生不盡幽居興，付與長江拯釣車。
+- 但見溪山如畫裏，不知風景是它鄉。
+- 苦遭毒暑三年旱，預喜西風一榻涼。
+- 俗事不須頻到口，舊書何苦要撐腸。
+- 雨聲只在芭蕉上，正與愁人作夜長。
 
 ## 拼音
 
-- ge1 hu1 lian2 qiang2 yi4 ren4 qu2 ， yi2 men2 bin1 cong2 you4 he2 ru2 。
-- qing2 jie1 yang3 ri4 wo4 hong2 yao4 ， ye3 shui3 chen4 chuan2 tiao4 bai2 yu2 。
-- duo1 bing4 qie3 can1 gu1 tong3 hua4 ， de2 xian2 shi2 jin4 yang3 sheng1 shu1 。
-- ping2 sheng1 bu2 jin4 you1 ju1 xing1 ， fu4 yu3 chang2 jiang1 zheng3 diao4 ju1 。
+- dan4 jian4 xi1 shan1 ru2 hua4 li3 ， bu4 zhi1 feng1 jing3 shi4 ta1 xiang1 。
+- ku3 zao1 du2 shu3 san1 nian2 han4 ， yu4 xi3 xi1 feng1 yi2 ta4 liang2 。
+- su2 shi4 bu4 xu1 bin1 dao4 kou3 ， jiu4 shu1 he2 ku3 yao4 cheng1 chang2 。
+- yu3 sheng1 zhi1 zai4 ba1 jiao1 shang4 ， zheng4 yu3 chou2 ren2 zuo4 ye4 chang2 。
 
 ## 注释
 

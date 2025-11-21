@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-jiu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 先睡也須先覺，多文也須多學。
-- 如此沒量大人，不知可畏可藐。
+- 山陰五月雪芬芳，猛火叢中雪放光。
+- 比似瑞花成六出，夜深更與佛燒香。
 
 ## 拼音
 
-- xian1 shui4 ye3 xu1 xian1 jue2 ， duo1 wen2 ye3 xu1 duo1 xue2 。
-- ru2 ci3 mei2 liang2 da4 ren2 ， bu4 zhi1 ke3 wei4 ke3 miao3 。
+- shan1 yin1 wu3 yue4 xue3 fen1 fang1 ， meng3 huo3 cong2 zhong1 xue3 fang4 guang1 。
+- bi3 si4 rui4 hua1 cheng2 liu4 chu1 ， ye4 shen1 geng4 yu3 fo2 shao1 xiang1 。
 
 ## 注释
 

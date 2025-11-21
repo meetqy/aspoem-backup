@@ -6,10 +6,10 @@ titleSlug: liu-zhi-gao-an-si-nian-you-yu-hu-de-xin-wen-dang-chu-guan-zhen-yang-j
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: en-xu-feng-ci-zi-zhong-xiong-zhong-ji-chen-zi-yun-shi-zai-ci-yun
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

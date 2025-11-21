@@ -9,18 +9,18 @@ authorSlug: shen-quan-qi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 周原五稼起，雲海百川歸。
-- 願此零陵燕，長隨征斾飛。
+- 先朝六駕日，遠虞附已深。
+- （見《海錄碎事》卷十）。
 
 ## 拼音
 
-- zhou1 yuan2 wu3 jia4 qi3 ， yun2 hai3 bai3 chuan1 gui1 。
-- yuan4 ci3 ling2 ling2 yan4 ， chang2 sui2 zheng1 pei4 fei1 。
+- xian1 chao2 liu4 jia4 ri4 ， yuan3 yu2 fu4 yi3 shen1 。
+- （ jian4 《 hai3 lu4 sui4 shi4 》 juan4 shi2 ）。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ye-bo
 author: 翁孟寅
 authorPinyin: weng1 meng4 yin2
 authorSlug: weng-meng-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

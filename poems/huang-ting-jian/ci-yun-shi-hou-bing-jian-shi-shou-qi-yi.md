@@ -1,30 +1,30 @@
 ---
 id: huang-ting-jian-ci-yun-shi-hou-bing-jian-shi-shou-qi-yi
-title: 次韵師厚病間十首  其一
-titlePinyin: ci4 yun4 shi1 hou4 bing4 jian4 shi2 shou3     qi2 yi1
+title: 次韵師厚病間十首  其一○
+titlePinyin: ci4 yun4 shi1 hou4 bing4 jian4 shi2 shou3     qi2 yi1 ○
 titleSlug: ci-yun-shi-hou-bing-jian-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貝錦不足歌，請陳江漢詩。
-- 美人出江漢，窈窕世未窺。
-- 折蘭不肯佩，告我以蠶饑。
-- 獨歸豈憚遠，三危露如飴。
+- 身病心輕安，道肥體癯瘦。
+- 好懷當告誰，四牆棗紅皺。
+- 負暄不可獻，捫蝨坐清晝。
+- 端有真富貴，千秋萬年後。
 
 ## 拼音
 
-- bei4 jin3 bu4 zu2 ge1 ， qing3 chen2 jiang1 han4 shi1 。
-- mei3 ren2 chu1 jiang1 han4 ， yao3 tiao3 shi4 wei4 kui1 。
-- zhe2 lan2 bu4 ken3 pei4 ， gao4 wo3 yi3 can2 ji1 。
-- du2 gui1 qi3 dan4 yuan3 ， san1 wei1 lu4 ru2 yi2 。
+- shen1 bing4 xin1 qing1 an1 ， dao4 fei2 ti3 qu2 shou4 。
+- hao3 huai2 dang1 gao4 shui2 ， si4 qiang2 zao3 hong2 zhou4 。
+- fu4 xuan1 bu4 ke3 xian4 ， men2 shi1 zuo4 qing1 zhou4 。
+- duan1 you3 zhen1 fu4 gui4 ， qian1 qiu1 wan4 nian2 hou4 。
 
 ## 注释
 

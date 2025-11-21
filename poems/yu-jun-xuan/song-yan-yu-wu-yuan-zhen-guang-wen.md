@@ -6,10 +6,10 @@ titleSlug: song-yan-yu-wu-yuan-zhen-guang-wen
 author: 俞君選
 authorPinyin: yu2 jun1 xuan3
 authorSlug: yu-jun-xuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

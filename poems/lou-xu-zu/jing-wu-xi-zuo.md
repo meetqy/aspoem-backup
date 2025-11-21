@@ -6,10 +6,10 @@ titleSlug: jing-wu-xi-zuo
 author: 婁續祖
 authorPinyin: lou2 xu4 zu3
 authorSlug: lou-xu-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

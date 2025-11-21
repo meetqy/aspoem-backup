@@ -1,30 +1,30 @@
 ---
 id: shu-dan-he-ma-cui-lao-si-ming-za-shi-liao-ji-li-su-er-shi-shou-qi-yi
-title: 和馬粹老四明雜詩聊紀里俗耳十首  其一
-titlePinyin: he2 ma3 cui4 lao3 si4 ming2 za2 shi1 liao2 ji4 li3 su2 er3 shi2 shou3     qi2 yi1
+title: 和馬粹老四明雜詩聊紀里俗耳十首  其一○
+titlePinyin: he2 ma3 cui4 lao3 si4 ming2 za2 shi1 liao2 ji4 li3 su2 er3 shi2 shou3     qi2 yi1 ○
 titleSlug: he-ma-cui-lao-si-ming-za-shi-liao-ji-li-su-er-shi-shou-qi-yi
 author: 舒亶
 authorPinyin: shu1 dan3
 authorSlug: shu-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百粤喧譁外，三江指顧中。
-- 耕桑遺俗在，草木故城空。
-- 近澤知田美，多魚驗海豐。
-- 由來形勢地，越絕控遼東。
+- 蓮閣紅堪掣，蘭池靜不流。
+- 梯航紛絕徼，冠蓋錯中州。
+- 草市朝朝合，沙城歲歲脩。
+- 兩前茶更好，半属賈船收。
 
 ## 拼音
 
-- bai3 yue4 xuan1 hua2 wai4 ， san1 jiang1 zhi3 gu4 zhong1 。
-- geng1 sang1 yi2 su2 zai4 ， cao3 mu4 gu4 cheng2 kong1 。
-- jin4 ze2 zhi1 tian2 mei3 ， duo1 yu2 yan4 hai3 feng1 。
-- you2 lai2 xing2 shi4 di4 ， yue4 jue2 kong4 liao2 dong1 。
+- lian2 ge2 hong2 kan1 che4 ， lan2 chi2 jing4 bu4 liu2 。
+- ti1 hang2 fen1 jue2 jiao3 ， guan1 gai4 cuo4 zhong1 zhou1 。
+- cao3 shi4 zhao1 zhao1 he2 ， sha1 cheng2 sui4 sui4 xiu1 。
+- liang3 qian2 cha2 geng4 hao3 ， ban4 shu3 jia3 chuan2 shou1 。
 
 ## 注释
 

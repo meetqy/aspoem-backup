@@ -6,21 +6,21 @@ titleSlug: qiu-si-shi-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三三兩兩戲魚行，香餌纔投去若驚。
-- 寄與扁舟五湖客，只當遠引過平生。
+- 山步溪橋入早秋，飄然無處不堪遊。
+- 僧廊偶爲題詩入，魚市常因施藥留。
 
 ## 拼音
 
-- san1 san1 liang3 liang3 xi4 yu2 xing2 ， xiang1 er3 cai2 tou2 qu4 ruo4 jing1 。
-- ji4 yu3 pian1 zhou1 wu3 hu2 ke4 ， zhi1 dang1 yuan3 yin3 guo4 ping2 sheng1 。
+- shan1 bu4 xi1 qiao2 ru4 zao3 qiu1 ， piao1 ran2 wu2 chu3 bu4 kan1 you2 。
+- seng1 lang2 ou3 wei2 ti2 shi1 ru4 ， yu2 shi4 chang2 yin1 shi1 yao4 liu2 。
 
 ## 注释
 

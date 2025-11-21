@@ -6,25 +6,25 @@ titleSlug: zeng-dao-liu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 烟雲深處作生涯，回首人間歲月賒。
-- 留得朱顔憑綠酒，掃空白髮賴丹砂。
-- 七弦指下泠泠久，雙袖風中獵獵斜。
-- 他日相尋不知處，會從漁父問桃花。
+- 羽人邂逅飲旗亭，自說經年醉不醒。
+- 曾伴翰林遊赤壁，仍邀內史寫黄庭。
+- 古琴蛇蚹評無價，寶劍魚腸託有靈。
+- 太華何時尋此約，九霄風露宿青冥。
 
 ## 拼音
 
-- yan1 yun2 shen1 chu3 zuo4 sheng1 ya2 ， hui2 shou3 ren2 jian4 sui4 yue4 she1 。
-- liu2 de2 zhu1 yan2 ping2 lü4 jiu3 ， sao3 kong4 bai2 fa4 lai4 dan1 sha1 。
-- qi1 xian2 zhi3 xia4 ling2 ling2 jiu3 ， shuang1 xiu4 feng1 zhong1 lie4 lie4 xie2 。
-- ta1 ri4 xiang1 xun2 bu4 zhi1 chu3 ， hui4 cong2 yu2 fu4 wen4 tao2 hua1 。
+- yu3 ren2 xie4 hou4 yin3 qi2 ting2 ， zi4 shuo1 jing1 nian2 zui4 bu4 xing3 。
+- ceng2 ban4 han4 lin2 you2 chi4 bi4 ， reng2 yao1 nei4 shi3 xie3 huang2 ting2 。
+- gu3 qin2 she2 fu4 ping2 wu2 jia4 ， bao3 jian4 yu2 chang2 tuo1 you3 ling2 。
+- tai4 hua2 he2 shi2 xun2 ci3 yue1 ， jiu3 xiao1 feng1 lu4 su4 qing1 ming2 。
 
 ## 注释
 

@@ -9,54 +9,58 @@ authorSlug: pi-ri-xiu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 吾聞古君子，介介勵其節。
-- 入門疑儲宮，撫己思鈇鉞。
-- 志者若不退，佞者何由達。
-- 君臣一殽膳，家國共殘殺。
-- 此道見於今，永思心若裂。
-- 王臣方謇謇，佐我無玷缺。
-- 如何以謀計，中道生芽蘗。
-- 憲司遵故典，分道播南越。
-- 蒼惶出班行，家室不容別。
-- 玄鬢行爲霜，清淚立成血。
-- 乘遽劇飛鳥，就傳過風發。
-- 嗟吾何爲者，叨在造士列。
-- 獻文不上第，歸于淮之汭。
-- 蹇蹄可再犇，退羽可後歇。
-- 利則侶軒裳，塞則友松月。
-- 而於方寸內，未有是愁結。
-- 未爲祿食仕，俯不媿粱糲。
-- 未爲冠冕人，死不慙忠烈。
-- 如何有是心，不能叩丹闕。
-- 赫赫負君歸，南山采芝蕨。
+- 天子丙戌年，淮右民多飢。
+- 就中潁之汭，轉徙何纍纍。
+- 夫婦相顧亡，棄却抱中兒。
+- 兄弟各自散，出門如大癡。
+- 一金易蘆蔔，一縑換鳧茈。
+- 荒村墓鳥樹，空屋野花籬。
+- 兒童齧草根，倚桑空羸羸。
+- 斑白死路傍，枕土皆離離。
+- 方知聖人教，於民良在斯。
+- 厲能去人愛，荒能奪人慈。
+- 如何司牧者，有術皆在茲。
+- 粵吾何爲人，數畝清溪湄。
+- 一寫落第文，一家歡復嬉。
+- 朝食有麥饘，晨起有布衣。
+- 一身既飽暖，一家無怨咨。
+- 家雖有畎畝，手不秉鎡基。
+- 歲雖有札瘥，庖不廢晨炊。
+- 何道以致是，我有明公知。
+- 食之以侯食，衣之以侯衣。
+- 歸時卹金帛，使我奉庭闈。
+- 撫己媿潁民，奚不進德爲。
+- 因茲感知己，盡日空涕洟。
 
 ## 拼音
 
-- wu2 wen2 gu3 jun1 zi3 ， jie4 jie4 li4 qi2 jie2 。
-- ru4 men2 yi2 chu3 gong1 ， fu3 ji3 si1 fu1 yue4 。
-- zhi4 zhe3 ruo4 bu2 tui4 ， ning4 zhe3 he2 you2 da2 。
-- jun1 chen2 yi4 yao2 shan4 ， jia1 guo2 gong4 can2 sha1 。
-- ci3 dao4 jian4 wu1 jin1 ， yong3 si1 xin1 ruo4 lie4 。
-- wang2 chen2 fang1 jian3 jian3 ， zuo3 wo3 wu2 dian4 que1 。
-- ru2 he2 yi3 mou2 ji4 ， zhong1 dao4 sheng1 ya2 bo4 。
-- xian4 si1 zun1 gu4 dian3 ， fen1 dao4 bo1 nan2 yue4 。
-- cang1 huang2 chu1 ban1 xing2 ， jia1 shi4 bu4 rong2 bie2 。
-- xuan2 bin4 xing2 wei2 shuang1 ， qing1 lei4 li4 cheng2 xue4 。
-- cheng2 ju4 ju4 fei1 niao3 ， jiu4 chuan2 guo4 feng1 fa1 。
-- jie1 wu2 he2 wei2 zhe3 ， dao1 zai4 zao4 shi4 lie4 。
-- xian4 wen2 bu2 shang4 di4 ， gui1 yu2 huai2 zhi1 rui4 。
-- jian3 ti2 ke3 zai4 ben1 ， tui4 yu3 ke3 hou4 xie1 。
-- li4 ze2 lü3 xuan1 shang0 ， sai1 ze2 you3 song1 yue4 。
-- er2 wu1 fang1 cun4 nei4 ， wei4 you3 shi4 chou2 jie2 。
-- wei4 wei2 lu4 shi2 shi4 ， fu3 bu2 kui4 liang2 li4 。
-- wei4 wei2 guan1 mian3 ren2 ， si3 bu4 can2 zhong1 lie4 。
-- ru2 he2 you3 shi4 xin1 ， bu4 neng2 kou4 dan1 que4 。
-- he4 he4 fu4 jun1 gui1 ， nan2 shan1 cai3 zhi1 jue2 。
+- tian1 zi3 bing3 xu1 nian2 ， huai2 you4 min2 duo1 ji1 。
+- jiu4 zhong1 ying3 zhi1 rui4 ， zhuan3 xi3 he2 lei2 lei2 。
+- fu1 fu4 xiang1 gu4 wang2 ， qi4 que4 bao4 zhong1 er2 。
+- xiong1 di4 ge4 zi4 san4 ， chu1 men2 ru2 da4 chi1 。
+- yi4 jin1 yi4 lu2 bo0 ， yi4 jian1 huan4 fu2 zi3 。
+- huang1 cun1 mu4 niao3 shu4 ， kong1 wu1 ye3 hua1 li2 。
+- er2 tong2 nie4 cao3 gen1 ， yi3 sang1 kong1 lei2 lei2 。
+- ban1 bai2 si3 lu4 bang4 ， zhen3 tu3 jie1 li2 li2 。
+- fang1 zhi1 sheng4 ren2 jiao4 ， wu1 min2 liang2 zai4 si1 。
+- li4 neng2 qu4 ren2 ai4 ， huang1 neng2 duo2 ren2 ci2 。
+- ru2 he2 si1 mu4 zhe3 ， you3 shu4 jie1 zai4 zi1 。
+- yue4 wu2 he2 wei2 ren2 ， shu4 mu3 qing1 xi1 mei2 。
+- yi4 xie3 luo4 di4 wen2 ， yi4 jia1 huan1 fu4 xi1 。
+- chao2 shi2 you3 mai4 zhan1 ， chen2 qi3 you3 bu4 yi1 。
+- yi4 shen1 ji4 bao3 nuan3 ， yi4 jia1 wu2 yuan4 zi1 。
+- jia1 sui1 you3 quan3 mu3 ， shou3 bu4 bing3 zi1 ji1 。
+- sui4 sui1 you3 zha2 chai4 ， pao2 bu2 fei4 chen2 chui1 。
+- he2 dao4 yi3 zhi4 shi4 ， wo3 you3 ming2 gong1 zhi1 。
+- shi2 zhi1 yi3 hou2 shi2 ， yi1 zhi1 yi3 hou2 yi1 。
+- gui1 shi2 xu4 jin1 bo2 ， shi3 wo3 feng4 ting2 wei2 。
+- fu3 ji3 kui4 ying3 min2 ， xi1 bu2 jin4 de2 wei2 。
+- yin1 zi1 gan3 zhi1 ji3 ， jin4 ri4 kong1 ti4 yi2 。
 
 ## 注释
 

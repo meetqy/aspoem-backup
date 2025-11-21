@@ -6,10 +6,10 @@ titleSlug: jian-suo-sheng-mu-li-shi-an-ren-wan-ci-wu-shou-qi-san
 author: 張綱
 authorPinyin: zhang1 gang1
 authorSlug: zhang-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

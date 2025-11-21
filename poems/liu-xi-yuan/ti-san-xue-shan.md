@@ -6,10 +6,10 @@ titleSlug: ti-san-xue-shan
 author: 劉西園
 authorPinyin: liu2 xi1 yuan2
 authorSlug: liu-xi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

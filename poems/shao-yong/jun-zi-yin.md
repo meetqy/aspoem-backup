@@ -6,21 +6,25 @@ titleSlug: jun-zi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君子存大體，小人無常心。
-- 於人不求備，受恩唯恐深。
+- 君子之去，亦如其來。
+- 小人之來，亦如其去。
+- 既有恩情，且無怨怒。
+- 既有憎嫌，且無思慕。
 
 ## 拼音
 
-- jun1 zi3 cun2 da4 ti3 ， xiao3 ren2 wu2 chang2 xin1 。
-- wu1 ren2 bu4 qiu2 bei4 ， shou4 en1 wei2 kong3 shen1 。
+- jun1 zi3 zhi1 qu4 ， yi4 ru2 qi2 lai2 。
+- xiao3 ren2 zhi1 lai2 ， yi4 ru2 qi2 qu4 。
+- ji4 you3 en1 qing2 ， qie3 wu2 yuan4 nu4 。
+- ji4 you3 zeng1 xian2 ， qie3 wu2 si1 mu4 。
 
 ## 注释
 

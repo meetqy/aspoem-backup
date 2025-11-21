@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-ba-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲華念將晚，寒色慘中抱。
-- 昔年困虀鹽，撥灰吟苦調。
-- 老來適其適，所樂在燕笑。
-- 招賓共一醉，圍爐不妨小。
+- 吾家遠城市，四圍縈疊嶂。
+- 意尋烟霞游，喜逐樵牧上。
+- 松間憩兩足，論高等四暢。
+- 或時戴月歸，山花記心想。
 
 ## 拼音
 
-- sui4 hua2 nian4 jiang1 wan3 ， han2 se4 can3 zhong1 bao4 。
-- xi1 nian2 kun4 ji1 yan2 ， bo1 hui1 yin2 ku3 diao4 。
-- lao3 lai2 shi4 qi2 shi4 ， suo3 le4 zai4 yan4 xiao4 。
-- zhao1 bin1 gong4 yi2 zui4 ， wei2 lu2 bu4 fang2 xiao3 。
+- wu2 jia1 yuan3 cheng2 shi4 ， si4 wei2 ying2 die2 zhang4 。
+- yi4 xun2 yan1 xia2 you2 ， xi3 zhu2 qiao2 mu4 shang4 。
+- song1 jian4 qi4 liang3 zu2 ， lun4 gao1 deng3 si4 chang4 。
+- huo4 shi2 dai4 yue4 gui1 ， shan1 hua1 ji4 xin1 xiang3 。
 
 ## 注释
 

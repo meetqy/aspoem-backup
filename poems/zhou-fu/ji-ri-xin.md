@@ -6,21 +6,25 @@ titleSlug: ji-ri-xin
 author: 周孚
 authorPinyin: zhou1 fu2
 authorSlug: zhou-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 楚水茫茫覿面難，燕鴻冉冉寄書還。
-- 自知荒澤誰爲雨，却怪孤雲未出山。
+- 好在東吳客，歸期尚未聞。
+- 已看梅里月，可憶蒜山雲。
+- 仕路雖投劍，詩壇定策勳。
+- 他年一盂飯，扶耒待君分。
 
 ## 拼音
 
-- chu3 shui3 mang2 mang2 di2 mian4 nan2 ， yan4 hong2 ran3 ran3 ji4 shu1 huan2 。
-- zi4 zhi1 huang1 ze2 shui2 wei2 yu3 ， que4 guai4 gu1 yun2 wei4 chu1 shan1 。
+- hao3 zai4 dong1 wu2 ke4 ， gui1 qi1 shang4 wei4 wen2 。
+- yi3 kan4 mei2 li3 yue4 ， ke3 yi4 suan4 shan1 yun2 。
+- shi4 lu4 sui1 tou2 jian4 ， shi1 tan2 ding4 ce4 xun1 。
+- ta1 nian2 yi4 yu2 fan4 ， fu2 lei3 dai4 jun1 fen1 。
 
 ## 注释
 

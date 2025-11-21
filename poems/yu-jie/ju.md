@@ -6,10 +6,10 @@ titleSlug: ju
 author: 余玠
 authorPinyin: yu2 jie4
 authorSlug: yu-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

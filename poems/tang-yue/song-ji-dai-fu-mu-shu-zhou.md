@@ -16,11 +16,13 @@ tags: []
 
 - 却下烏臺建隼旟，侯封歸去襲龍舒。
 - 嚴霜尚滿辭天闕，甘雨看隨入境車。
+- （《輿地紀勝》四六《安慶府》）。
 
 ## 拼音
 
 - que4 xia4 wu1 tai2 jian4 sun3 yu2 ， hou2 feng1 gui1 qu4 xi2 long2 shu1 。
 - yan2 shuang1 shang4 man3 ci2 tian1 que4 ， gan1 yu3 kan4 sui2 ru4 jing4 ju1 。
+- （《 yu2 di4 ji4 sheng4 》 si4 liu4 《 an1 qing4 fu3 》）。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: song-bai-gong-ci-qi-liu
-title: 宮詞  其六
-titlePinyin: gong1 ci2     qi2 liu4
+title: 宮詞  其六○
+titlePinyin: gong1 ci2     qi2 liu4 ○
 titleSlug: gong-ci-qi-liu
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 樓前宣赦掣金雞，大禮新成彩仗歸。
-- 萬歲聲高天地喜，慶雲飛上衮龍衣。
+- 紅牋一幅捲明霞，纖手題詩寄大家。
+- 檀口微吟遶廊柱，濛濛春雨濕梨花。
 
 ## 拼音
 
-- lou2 qian2 xuan1 she4 che4 jin1 ji1 ， da4 li3 xin1 cheng2 cai3 zhang4 gui1 。
-- wan4 sui4 sheng1 gao1 tian1 di4 xi3 ， qing4 yun2 fei1 shang4 gun3 long2 yi1 。
+- hong2 jian1 yi4 fu2 juan3 ming2 xia2 ， xian1 shou3 ti2 shi1 ji4 da4 jia1 。
+- tan2 kou3 wei1 yin2 rao4 lang2 zhu4 ， meng2 meng2 chun1 yu3 shi1 li2 hua1 。
 
 ## 注释
 

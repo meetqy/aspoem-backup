@@ -6,10 +6,10 @@ titleSlug: bo-zhong-shi-de-sheng-yong-jun-fu-yun-song-de-fu-shou-zi-chuan-yao-yu
 author: 傅察
 authorPinyin: fu4 cha2
 authorSlug: fu-cha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-chong-miao-cui-wei-shan-ju-shi-qi-yi
-title: 翠微山居詩  其一
-titlePinyin: cui4 wei1 shan1 ju1 shi1     qi2 yi1
+title: 翠微山居詩  其一○
+titlePinyin: cui4 wei1 shan1 ju1 shi1     qi2 yi1 ○
 titleSlug: cui-wei-shan-ju-shi-qi-yi
 author: 釋沖邈
 authorPinyin: shi4 chong1 miao3
 authorSlug: shi-chong-miao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山水煎茶拗柳枝，禪衣百結任風吹。
-- 看經只在明窗下，得失榮枯總不知。
+- 百計千般只爲身，不知身是冢中塵。
+- 莫欺白髮無言語，此是黄泉寄信人。
 
 ## 拼音
 
-- shan1 shui3 jian1 cha2 ao4 liu3 zhi1 ， shan4 yi1 bai3 jie2 ren4 feng1 chui1 。
-- kan4 jing1 zhi1 zai4 ming2 chuang1 xia4 ， de2 shi1 rong2 ku1 zong3 bu4 zhi1 。
+- bai3 ji4 qian1 ban1 zhi1 wei2 shen1 ， bu4 zhi1 shen1 shi4 zhong3 zhong1 chen2 。
+- mo4 qi1 bai2 fa4 wu2 yan2 yu3 ， ci3 shi4 huang2 quan2 ji4 xin4 ren2 。
 
 ## 注释
 

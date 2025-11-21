@@ -6,10 +6,10 @@ titleSlug: ju
 author: 彭天益
 authorPinyin: peng2 tian1 yi4
 authorSlug: peng-tian-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

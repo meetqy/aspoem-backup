@@ -6,10 +6,10 @@ titleSlug: zai-ru-tai-zuo
 author: 馬遵
 authorPinyin: ma3 zun1
 authorSlug: ma-zun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

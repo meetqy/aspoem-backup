@@ -9,34 +9,24 @@ authorSlug: li-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 將進酒，將進酒。
-- 酒中有毒酖主父，言之主父傷主母。
-- 母爲妾地父妾天，仰天俯地不忍言。
-- 佯爲僵踣主父前，主父不知加妾鞭。
-- 旁人知妾爲主說，主將淚洗鞭頭血。
-- 推摧主母牽下堂，扶妾遣升堂上牀。
-- 將進酒，酒中無毒令主壽。
-- 願主回思歸主母，遣妾如此事主父。
-- 妾爲此事人偶知，自慙不密方自悲。
-- 主今顛倒安置妾，貪天僭地誰不爲。
+- 瑠璃鍾，琥珀濃，小槽酒滴真珠紅。
+- 烹龍炮鳳玉脂泣，羅屏繡幕圍香風。
+- 吹龍笛，擊鼉鼓，皓齒歌，細腰舞。
+- 況是青春日將暮，桃花亂落如紅雨。
+- 勸君終日酩酊醉，酒不到劉伶墳上土。
 
 ## 拼音
 
-- jiang1 jin4 jiu3 ， jiang1 jin4 jiu3 。
-- jiu3 zhong1 you3 du2 dan1 zhu3 fu4 ， yan2 zhi1 zhu3 fu4 shang1 zhu3 mu3 。
-- mu3 wei2 qie4 di4 fu4 qie4 tian1 ， yang3 tian1 fu3 di4 bu4 ren3 yan2 。
-- yang2 wei2 jiang1 bo2 zhu3 fu4 qian2 ， zhu3 fu4 bu4 zhi1 jia1 qie4 bian1 。
-- pang2 ren2 zhi1 qie4 wei2 zhu3 shuo1 ， zhu3 jiang1 lei4 xi3 bian1 tou2 xue4 。
-- tui1 cui1 zhu3 mu3 qian1 xia4 tang2 ， fu2 qie4 qian3 sheng1 tang2 shang4 chuang2 。
-- jiang1 jin4 jiu3 ， jiu3 zhong1 wu2 du2 ling4 zhu3 shou4 。
-- yuan4 zhu3 hui2 si1 gui1 zhu3 mu3 ， qian3 qie4 ru2 ci3 shi4 zhu3 fu4 。
-- qie4 wei2 ci3 shi4 ren2 ou3 zhi1 ， zi4 can2 bu2 mi4 fang1 zi4 bei1 。
-- zhu3 jin1 dian1 dao3 an1 zhi4 qie4 ， tan1 tian1 jian4 di4 shui2 bu4 wei2 。
+- liu2 li2 zhong1 ， hu3 po4 nong2 ， xiao3 cao2 jiu3 di1 zhen1 zhu1 hong2 。
+- peng1 long2 pao4 feng4 yu4 zhi1 qi4 ， luo2 ping2 xiu4 mu4 wei2 xiang1 feng1 。
+- chui1 long2 di2 ， ji1 tuo2 gu3 ， hao4 chi3 ge1 ， xi4 yao1 wu3 。
+- kuang4 shi4 qing1 chun1 ri4 jiang1 mu4 ， tao2 hua1 luan4 luo4 ru2 hong2 yu3 。
+- quan4 jun1 zhong1 ri4 ming3 ding3 zui4 ， jiu3 bu2 dao4 liu2 ling2 fen2 shang4 tu3 。
 
 ## 注释
 

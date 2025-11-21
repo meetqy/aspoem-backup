@@ -6,25 +6,25 @@ titleSlug: tai-chang-le-zhang-san-shi-shou-huang-di-yin-fu-jiu-zou-xi-an-zhi-qu
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 嘉栗旨酒，博腯牲牷。
-- 神鍳孔昭，享兹吉蠲。
-- 夙夜毖祀，孝以奉先。
-- 永錫純嘏，功格于天。
+- 祀帝圓丘，九州獻力。
+- 禮行于郊，百神受職。
+- 靈祗格思，享我明德。
+- 天鍳孔彰，玄祉昭錫。
 
 ## 拼音
 
-- jia1 li4 zhi3 jiu3 ， bo2 tu2 sheng1 quan2 。
-- shen2 jian4 kong3 zhao1 ， xiang3 zi1 ji2 juan1 。
-- su4 ye4 bi4 si4 ， xiao4 yi3 feng4 xian1 。
-- yong3 xi1 chun2 gu3 ， gong1 ge2 yu2 tian1 。
+- si4 di4 yuan2 qiu1 ， jiu3 zhou1 xian4 li4 。
+- li3 xing2 yu2 jiao1 ， bai3 shen2 shou4 zhi2 。
+- ling2 zhi1 ge2 si1 ， xiang3 wo3 ming2 de2 。
+- tian1 jian4 kong3 zhang1 ， xuan2 zhi3 zhao1 xi1 。
 
 ## 注释
 

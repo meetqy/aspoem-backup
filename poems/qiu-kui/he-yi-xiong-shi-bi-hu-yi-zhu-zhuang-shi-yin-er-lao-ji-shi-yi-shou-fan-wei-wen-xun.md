@@ -6,10 +6,10 @@ titleSlug: he-yi-xiong-shi-bi-hu-yi-zhu-zhuang-shi-yin-er-lao-ji-shi-yi-shou-fan
 author: 丘葵
 authorPinyin: qiu1 kui2
 authorSlug: qiu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

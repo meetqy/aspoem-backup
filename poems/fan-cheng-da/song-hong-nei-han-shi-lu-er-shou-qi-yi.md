@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-song-hong-nei-han-shi-lu-er-shou-qi-yi
-title: 送洪內翰使虜二首・其一
-titlePinyin: song4 hong2 nei4 han4 shi3 lu3 er4 shou3・qi2 yi1
+title: 送洪內翰使虜二首  其一
+titlePinyin: song4 hong2 nei4 han4 shi3 lu3 er4 shou3     qi2 yi1
 titleSlug: song-hong-nei-han-shi-lu-er-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

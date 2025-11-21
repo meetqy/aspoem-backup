@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-san-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 齊警開場設鼓鉦，雷霆凜凜奏嚴聲。
-- 通宵環衛無譁語，惟聽雞人巧唱更。
+- 上元芳景自煕怡，暇日因成數句詩。
+- 特賜府中看不泯，嬉遊均及庶民知。
 
 ## 拼音
 
-- qi2 jing3 kai1 chang3 she4 gu3 zheng1 ， lei2 ting2 lin3 lin3 zou4 yan2 sheng1 。
-- tong1 xiao1 huan2 wei4 wu2 hua2 yu3 ， wei2 ting1 ji1 ren2 qiao3 chang4 geng4 。
+- shang4 yuan2 fang1 jing3 zi4 xi1 yi2 ， xia2 ri4 yin1 cheng2 shu4 ju4 shi1 。
+- te4 ci4 fu3 zhong1 kan4 bu4 min3 ， xi1 you2 jun1 ji2 shu4 min2 zhi1 。
 
 ## 注释
 

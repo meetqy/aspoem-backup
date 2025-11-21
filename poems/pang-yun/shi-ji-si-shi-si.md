@@ -9,24 +9,22 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 大乘一等義，本自無遮閉。
-- 凡夫著相求，心生有執滯。
-- 無心爲真宗，空寂爲本體。
-- 無問亦無說，常照勿使廢。
-- 佛子行道已，更莫愁來去。
+- 但自無心於萬物，何妨萬物常圍遶。
+- 鐵牛不怕師子吼，恰似木人見花鳥。
+- 木人本體自無情，花鳥逢人亦不驚。
+- 心境如如祇箇（《緇門警訓》卷九作「遮」）是，何慮菩提道不成。
 
 ## 拼音
 
-- da4 cheng2 yi1 deng3 yi4 ， ben3 zi4 wu2 zhe1 bi4 。
-- fan2 fu1 zhu4 xiang1 qiu2 ， xin1 sheng1 you3 zhi2 zhi4 。
-- wu2 xin1 wei2 zhen1 zong1 ， kong1 ji4 wei2 ben3 ti3 。
-- wu2 wen4 yi4 wu2 shuo1 ， chang2 zhao4 wu4 shi3 fei4 。
-- fo2 zi3 hang2 dao4 yi3 ， geng4 mo4 chou2 lai2 qu4 。
+- dan4 zi4 wu2 xin1 wu1 wan4 wu4 ， he2 fang2 wan4 wu4 chang2 wei2 rao4 。
+- tie3 niu2 bu2 pa4 shi1 zi3 hou3 ， qia4 si4 mu4 ren2 jian4 hua1 niao3 。
+- mu4 ren2 ben3 ti3 zi4 wu2 qing2 ， hua1 niao3 feng2 ren2 yi4 bu4 jing1 。
+- xin1 jing4 ru2 ru2 qi2 ge4 （《 zi1 men2 jing3 xun4 》 juan4 jiu3 zuo4 「 zhe1 」） shi4 ， he2 lü4 pu2 ti2 dao4 bu4 cheng2 。
 
 ## 注释
 

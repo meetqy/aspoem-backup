@@ -9,22 +9,22 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 一歲林花即日休，江間亭下悵淹留。
-- 重吟細把真無奈，已落猶開未放愁。
-- 山色正來銜小苑，春陰只欲傍高樓。
-- 金鞍忽散銀壺漏，更醉誰家白玉鉤。
+- 桂林聞舊說，曾不異炎方。
+- 山響匡牀語，花飄度臘香。
+- 幾時逢雁足，著處斷猿腸。
+- 獨撫青青桂，臨城憶雪霜。
 
 ## 拼音
 
-- yi2 sui4 lin2 hua1 ji2 ri4 xiu1 ， jiang1 jian4 ting2 xia4 chang4 yan1 liu2 。
-- zhong4 yin2 xi4 ba3 zhen1 wu2 nai4 ， yi3 luo4 you2 kai1 wei4 fang4 chou2 。
-- shan1 se4 zheng4 lai2 xian2 xiao3 yuan4 ， chun1 yin1 zhi1 yu4 bang4 gao1 lou2 。
-- jin1 an1 hu1 san4 yin2 hu2 lou4 ， geng4 zui4 shui2 jia1 bai2 yu4 gou1 。
+- gui4 lin2 wen2 jiu4 shuo1 ， ceng2 bu2 yi4 yan2 fang1 。
+- shan1 xiang3 kuang1 chuang2 yu3 ， hua1 piao1 du4 la4 xiang1 。
+- ji1 shi2 feng2 yan4 zu2 ， zhu4 chu3 duan4 yuan2 chang2 。
+- du2 fu3 qing1 qing1 gui4 ， lin2 cheng2 yi4 xue3 shuang1 。
 
 ## 注释
 

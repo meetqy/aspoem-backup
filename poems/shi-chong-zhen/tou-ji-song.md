@@ -6,10 +6,10 @@ titleSlug: tou-ji-song
 author: 釋崇真
 authorPinyin: shi4 chong2 zhen1
 authorSlug: shi-chong-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

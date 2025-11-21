@@ -6,10 +6,10 @@ titleSlug: ju
 author: 聞人武子
 authorPinyin: wen2 ren2 wu3 zi3
 authorSlug: wen-ren-wu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

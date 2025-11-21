@@ -6,10 +6,10 @@ titleSlug: zeng-jiang-xi-shi-ke
 author: 吳晦之
 authorPinyin: wu2 hui4 zhi1
 authorSlug: wu-hui-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-yu-shi-yuan-gong-xiang
 author: 豐芑
 authorPinyin: feng1 qi3
 authorSlug: feng-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

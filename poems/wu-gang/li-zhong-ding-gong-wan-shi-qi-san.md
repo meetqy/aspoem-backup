@@ -6,10 +6,10 @@ titleSlug: li-zhong-ding-gong-wan-shi-qi-san
 author: 吳岡
 authorPinyin: wu2 gang1
 authorSlug: wu-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

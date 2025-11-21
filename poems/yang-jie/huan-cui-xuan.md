@@ -6,10 +6,10 @@ titleSlug: huan-cui-xuan
 author: 楊介
 authorPinyin: yang2 jie4
 authorSlug: yang-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

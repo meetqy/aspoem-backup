@@ -6,10 +6,10 @@ titleSlug: ci-yun-he-yi-zhi-han-shi-qi-er
 author: 白子儀
 authorPinyin: bai2 zi0 yi2
 authorSlug: bai-zi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

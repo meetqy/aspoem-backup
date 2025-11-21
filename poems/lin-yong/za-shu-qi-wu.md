@@ -6,21 +6,21 @@ titleSlug: za-shu-qi-wu
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 畢方鶴而一足，鬼車鵂而九頭。
-- 物怪不知誰使，人身又復何求。
+- 興亡豈料秦爲晉，廣莫寧知魏有梁。
+- 萬歲是非同變滅，四維上下可思量。
 
 ## 拼音
 
-- bi4 fang1 he4 er2 yi4 zu2 ， gui3 ju1 xiu1 er2 jiu3 tou2 。
-- wu4 guai4 bu4 zhi1 shui2 shi3 ， ren2 shen1 you4 fu4 he2 qiu2 。
+- xing1 wang2 qi3 liao4 qin2 wei2 jin4 ， guang3 mo4 ning2 zhi1 wei4 you3 liang2 。
+- wan4 sui4 shi4 fei1 tong2 bian4 mie4 ， si4 wei2 shang4 xia4 ke3 si1 liang0 。
 
 ## 注释
 

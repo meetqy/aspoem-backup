@@ -6,10 +6,10 @@ titleSlug: da-yu-shui-you-san-yan-jue-huai-qie-nian-wu-ting-zhi-zai-bing-wu-yu-g
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

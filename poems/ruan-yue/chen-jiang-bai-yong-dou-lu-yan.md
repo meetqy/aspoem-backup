@@ -6,10 +6,10 @@ titleSlug: chen-jiang-bai-yong-dou-lu-yan
 author: 阮閱
 authorPinyin: ruan3 yue4
 authorSlug: ruan-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

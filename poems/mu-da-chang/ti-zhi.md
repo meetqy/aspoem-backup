@@ -6,10 +6,10 @@ titleSlug: ti-zhi
 author: 牟大昌
 authorPinyin: mu4 da4 chang1
 authorSlug: mu-da-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

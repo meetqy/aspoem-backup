@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-si-jiu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 僧相同剃除，其門則異竇。
-- 律儀尚講論，枯禪則烏有。
-- 悟去此大魁，窮說則學究。
-- 與語判此科，是非免紛糅。
+- 鑿池固不廣，納納隘所居。
+- 苟無水光寒，便覺非吾廬。
+- 漪漣漾芳渚，澄影浮晴虛。
+- 樂哉濠梁心，已復游嘉魚。
 
 ## 拼音
 
-- seng1 xiang1 tong2 ti4 chu2 ， qi2 men2 ze2 yi4 dou4 。
-- lü4 yi2 shang4 jiang3 lun4 ， ku1 shan4 ze2 wu1 you3 。
-- wu4 qu4 ci3 da4 kui2 ， qiong2 shuo1 ze2 xue2 jiu1 。
-- yu3 yu3 pan4 ci3 ke1 ， shi4 fei1 mian3 fen1 rou2 。
+- zao2 chi2 gu4 bu4 guang3 ， na4 na4 ai4 suo3 ju1 。
+- gou3 wu2 shui3 guang1 han2 ， bian4 jue2 fei1 wu2 lu2 。
+- yi1 lian2 yang4 fang1 zhu3 ， cheng2 ying3 fu2 qing2 xu1 。
+- le4 zai1 hao2 liang2 xin1 ， yi3 fu4 you2 jia1 yu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ti-ji-pa
 author: 李回
 authorPinyin: li3 hui2
 authorSlug: li-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

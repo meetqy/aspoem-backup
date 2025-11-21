@@ -6,10 +6,10 @@ titleSlug: qi-xi
 author: 薛秉
 authorPinyin: xue1 bing3
 authorSlug: xue-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-jun-ci-tang
 author: 高祖之
 authorPinyin: gao1 zu3 zhi1
 authorSlug: gao-zu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

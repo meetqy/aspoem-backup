@@ -6,10 +6,10 @@ titleSlug: wu-yi-gu-lou-yan
 author: 葉夢鼎
 authorPinyin: ye4 meng4 ding3
 authorSlug: ye-meng-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

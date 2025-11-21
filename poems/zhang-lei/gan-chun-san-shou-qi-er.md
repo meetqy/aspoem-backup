@@ -6,25 +6,21 @@ titleSlug: gan-chun-san-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 默坐不復出，浮雲作朝陰。
-- 離離簷間花，隨雨下故林。
-- 物色一如此，朱顔坐凋侵。
-- 自歌陽春曲，吾不待知音。
+- 冰消水面波光動，日暖樹梢花意歸。
+- 世上繁華隨日好，却應春淺勝芳菲。
 
 ## 拼音
 
-- mo4 zuo4 bu2 fu4 chu1 ， fu2 yun2 zuo4 chao2 yin1 。
-- li2 li2 yan2 jian4 hua1 ， sui2 yu3 xia4 gu4 lin2 。
-- wu4 se4 yi4 ru2 ci3 ， zhu1 yan2 zuo4 diao1 qin1 。
-- zi4 ge1 yang2 chun1 qu3 ， wu2 bu2 dai4 zhi1 yin1 。
+- bing1 xiao1 shui3 mian4 bo1 guang1 dong4 ， ri4 nuan3 shu4 shao1 hua1 yi4 gui1 。
+- shi4 shang4 fan2 hua2 sui2 ri4 hao3 ， que4 ying1 chun1 qian3 sheng4 fang1 fei1 。
 
 ## 注释
 

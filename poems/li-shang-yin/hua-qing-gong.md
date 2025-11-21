@@ -9,18 +9,18 @@ authorSlug: li-shang-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 華清恩幸古無倫，猶恐蛾眉不勝人。
-- 未免被他褒女笑，只教天子暫蒙塵。
+- 朝元閣迥羽衣新，首按昭陽第一人。
+- 當日不來高處舞，可能天下有胡塵。
 
 ## 拼音
 
-- hua2 qing1 en1 xing4 gu3 wu2 lun2 ， you2 kong3 e2 mei2 bu2 sheng4 ren2 。
-- wei4 mian3 bei4 ta1 bao1 nü3 xiao4 ， zhi1 jiao4 tian1 zi3 zan4 meng2 chen2 。
+- chao2 yuan2 ge2 jiong3 yu3 yi1 xin1 ， shou3 an4 zhao1 yang2 di4 yi1 ren2 。
+- dang1 ri4 bu4 lai2 gao1 chu3 wu3 ， ke3 neng2 tian1 xia4 you3 hu2 chen2 。
 
 ## 注释
 

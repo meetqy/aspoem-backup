@@ -6,10 +6,10 @@ titleSlug: song-li-dao-fu-pi-da-ming-ming-si-lu-qi-yi
 author: 葉集之
 authorPinyin: ye4 ji2 zhi1
 authorSlug: ye-ji-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

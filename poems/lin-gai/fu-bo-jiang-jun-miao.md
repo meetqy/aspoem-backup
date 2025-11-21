@@ -6,10 +6,10 @@ titleSlug: fu-bo-jiang-jun-miao
 author: 林槩
 authorPinyin: lin2 gai4
 authorSlug: lin-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

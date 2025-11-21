@@ -6,10 +6,10 @@ titleSlug: ji-xia-yu-zhong-wan-you-qiu-se-si-wang-zhi-ji-bai-gan-sheng-yan-yin-t
 author: 李覯
 authorPinyin: li3 gou4
 authorSlug: li-gou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

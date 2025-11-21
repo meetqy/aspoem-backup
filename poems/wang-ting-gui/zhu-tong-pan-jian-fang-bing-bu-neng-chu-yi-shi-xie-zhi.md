@@ -6,10 +6,10 @@ titleSlug: zhu-tong-pan-jian-fang-bing-bu-neng-chu-yi-shi-xie-zhi
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

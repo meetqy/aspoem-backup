@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 虎將龍軍氣宇雄，佩符持甲去悤悤。
-- 鋪排劒戟奔如電，羅列旌旗疾似風。
-- 活捉三尸焚鬼窟，生禽六賊破魔宮。
-- 河清海晏乾坤淨，世世安居道德中。
+- 玄門玄理又玄玄，不死根元在汞鉛。
+- 知是一般真箇術，調和六一也同天。
+- 玉京山上羊兒鬧，金水河中石虎眠。
+- 妙要能生覺本體，勤心到處自如然。
 
 ## 拼音
 
-- hu3 jiang1 long2 jun1 qi4 yu3 xiong2 ， pei4 fu2 chi2 jia3 qu4 cong1 cong1 。
-- pu1 pai2 jian4 ji3 ben1 ru2 dian4 ， luo2 lie4 jing1 qi2 ji2 si4 feng1 。
-- huo2 zhuo1 san1 shi1 fen2 gui3 ku1 ， sheng1 qin2 liu4 zei2 po4 mo2 gong1 。
-- he2 qing1 hai3 yan4 qian2 kun1 jing4 ， shi4 shi4 an1 ju1 dao4 de2 zhong1 。
+- xuan2 men2 xuan2 li3 you4 xuan2 xuan2 ， bu4 si3 gen1 yuan2 zai4 gong3 qian1 。
+- zhi1 shi4 yi4 ban1 zhen1 ge4 shu4 ， diao4 he2 liu4 yi1 ye3 tong2 tian1 。
+- yu4 jing1 shan1 shang4 yang2 er2 nao4 ， jin1 shui3 he2 zhong1 shi2 hu3 mian2 。
+- miao4 yao4 neng2 sheng1 jue2 ben3 ti3 ， qin2 xin1 dao4 chu3 zi4 ru2 ran2 。
 
 ## 注释
 

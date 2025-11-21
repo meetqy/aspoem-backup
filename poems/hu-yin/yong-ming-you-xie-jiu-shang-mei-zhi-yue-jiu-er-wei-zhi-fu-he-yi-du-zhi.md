@@ -6,9 +6,9 @@ titleSlug: yong-ming-you-xie-jiu-shang-mei-zhi-yue-jiu-er-wei-zhi-fu-he-yi-du-zh
 author: 胡寅
 authorPinyin: hu2 yin2
 authorSlug: hu-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

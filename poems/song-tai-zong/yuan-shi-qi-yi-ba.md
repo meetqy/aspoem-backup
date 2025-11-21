@@ -6,25 +6,23 @@ titleSlug: yuan-shi-qi-yi-ba
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 庶事情多感，光陰自古長。
-- 貪癡何意遣，愚輩爲誰忙。
-- 紅葉隨時變，白頭最易傷。
-- 世途能及物，善德遠馨香。
+- 大矣哉文，道合南薰。
+- 包含六義，洞究三墳，傍通造化，察變聲聞。
+- 垂其懿範，萬一之分。
 
 ## 拼音
 
-- shu4 shi4 qing0 duo1 gan3 ， guang1 yin1 zi4 gu3 chang2 。
-- tan1 chi1 he2 yi4 qian3 ， yu2 bei4 wei2 shui2 mang2 。
-- hong2 ye4 sui2 shi2 bian4 ， bai2 tou2 zui4 yi4 shang1 。
-- shi4 tu2 neng2 ji2 wu4 ， shan4 de2 yuan3 xin1 xiang1 。
+- da4 yi3 zai1 wen2 ， dao4 he2 nan2 xun1 。
+- bao1 han2 liu4 yi4 ， dong4 jiu1 san1 fen2 ， bang4 tong1 zao4 hua4 ， cha2 bian4 sheng1 wen2 。
+- chui2 qi2 yi4 fan4 ， wan4 yi1 zhi1 fen1 。
 
 ## 注释
 

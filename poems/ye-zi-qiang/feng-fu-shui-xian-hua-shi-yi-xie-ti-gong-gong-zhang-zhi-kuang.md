@@ -6,10 +6,10 @@ titleSlug: feng-fu-shui-xian-hua-shi-yi-xie-ti-gong-gong-zhang-zhi-kuang
 author: 葉子强
 authorPinyin: ye4 zi3 qiang2
 authorSlug: ye-zi-qiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

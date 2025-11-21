@@ -6,9 +6,9 @@ titleSlug: zhu-xi-wei-jing-cheng-wang-bo-zhen-fu
 author: 程介
 authorPinyin: cheng2 jie4
 authorSlug: cheng-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

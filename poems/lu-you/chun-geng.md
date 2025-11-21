@@ -6,21 +6,25 @@ titleSlug: chun-geng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今年液水滿西疇，父老人人卜有秋。
-- 只要耕犁及時節，裹茶買餅去租牛。
+- 去蜀歸吳會，真成萬里行。
+- 窮通竟安在，恩怨兩皆平。
+- 文字妨求道，杯觴害養生。
+- 餘年猶有幾，買犢事春耕。
 
 ## 拼音
 
-- jin1 nian2 ye4 shui3 man3 xi1 chou2 ， fu4 lao3 ren2 ren2 bu3 you3 qiu1 。
-- zhi3 yao4 geng1 li2 ji2 shi2 jie2 ， guo3 cha2 mai3 bing3 qu4 zu1 niu2 。
+- qu4 shu3 gui1 wu2 hui4 ， zhen1 cheng2 wan4 li3 xing2 。
+- qiong2 tong1 jing4 an1 zai4 ， en1 yuan4 liang3 jie1 ping2 。
+- wen2 zi4 fang2 qiu2 dao4 ， bei1 shang1 hai4 yang3 sheng1 。
+- yu2 nian2 you2 you3 ji1 ， mai3 du2 shi4 chun1 geng1 。
 
 ## 注释
 

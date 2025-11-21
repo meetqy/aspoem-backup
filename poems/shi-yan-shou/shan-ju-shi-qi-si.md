@@ -1,30 +1,30 @@
 ---
 id: shi-yan-shou-shan-ju-shi-qi-si
-title: 山居詩  其四
-titlePinyin: shan1 ju1 shi1     qi2 si4
+title: 山居詩  其四○
+titlePinyin: shan1 ju1 shi1     qi2 si4 ○
 titleSlug: shan-ju-shi-qi-si
 author: 釋延壽
 authorPinyin: shi4 yan2 shou4
 authorSlug: shi-yan-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 貪生養命事皆同，獨坐閒居意頗慵。
-- 入夏驅馳巢樹鵲，經春勞役探花蜂。
-- 石爐香盡寒灰薄，鐵磬聲微古鏽濃。
-- 寂寂虛懷無一念，任從蒼蘚沒行蹤。
+- 遁迹無圖匿姓名，萬重山後葺茅亭。
+- 隨情因事搜新偈，探妙窮微閱古經。
+- 與道交時心絕念，從緣感處物通靈。
+- 應須長遠存高節，屹屹喬松老更青。
 
 ## 拼音
 
-- tan1 sheng1 yang3 ming4 shi4 jie1 tong2 ， du2 zuo4 xian2 ju1 yi4 po1 yong1 。
-- ru4 xia4 qu1 chi2 chao2 shu4 que4 ， jing1 chun1 lao2 yi4 tan4 hua1 feng1 。
-- shi2 lu2 xiang1 jin4 han2 hui1 bao2 ， tie3 qing4 sheng1 wei1 gu3 xiu4 nong2 。
-- ji4 ji4 xu1 huai2 wu2 yi2 nian4 ， ren4 cong2 cang1 xian3 mei2 xing2 zong1 。
+- dun4 ji4 wu2 tu2 ni4 xing4 ming2 ， wan4 chong2 shan1 hou4 qi4 mao2 ting2 。
+- sui2 qing2 yin1 shi4 sou1 xin1 ji4 ， tan4 miao4 qiong2 wei1 yue4 gu3 jing1 。
+- yu3 dao4 jiao1 shi2 xin1 jue2 nian4 ， cong2 yuan2 gan3 chu3 wu4 tong1 ling2 。
+- ying1 xu1 chang2 yuan3 cun2 gao1 jie2 ， yi4 yi4 qiao2 song1 lao3 geng4 qing1 。
 
 ## 注释
 

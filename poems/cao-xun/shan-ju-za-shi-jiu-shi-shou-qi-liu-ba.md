@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬花烘天容，粉色騰雲氣。
-- 花雲覆臺榭，疑若天亦醉。
-- 杯盤多歡賞，供帳亦明麗。
-- 游人侵宵歸，風雨恐踵至。
+- 商飈忽在序，候蟲凄以鳴。
+- 歲律念向晚，崦嵫逼于征。
+- 已歎日月疾，但覺須鬢獰。
+- 搔首欲何爲，松篁助秋聲。
 
 ## 拼音
 
-- wan4 hua1 hong1 tian1 rong2 ， fen3 se4 teng2 yun2 qi4 。
-- hua1 yun2 fu4 tai2 xie4 ， yi2 ruo4 tian1 yi4 zui4 。
-- bei1 pan2 duo1 huan1 shang3 ， gong4 zhang4 yi4 ming2 li2 。
-- you2 ren2 qin1 xiao1 gui1 ， feng1 yu3 kong3 zhong3 zhi4 。
+- shang1 biao1 hu1 zai4 xu4 ， hou4 chong2 qi1 yi3 ming2 。
+- sui4 lü4 nian4 xiang4 wan3 ， yan1 zi1 bi1 yu2 zheng1 。
+- yi3 tan4 ri4 yue4 ji2 ， dan4 jue2 xu1 bin4 ning2 。
+- sao1 shou3 yu4 he2 wei2 ， song1 huang2 zhu4 qiu1 sheng1 。
 
 ## 注释
 

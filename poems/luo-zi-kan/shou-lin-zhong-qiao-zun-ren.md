@@ -6,10 +6,10 @@ titleSlug: shou-lin-zhong-qiao-zun-ren
 author: 羅子衎
 authorPinyin: luo2 zi3 kan4
 authorSlug: luo-zi-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

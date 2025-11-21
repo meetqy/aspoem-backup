@@ -6,10 +6,10 @@ titleSlug: dai-wu-er-zuo-xiao-zhi-hou-jiu-jiu-shi-ba-jie-qi-qi
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

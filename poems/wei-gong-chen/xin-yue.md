@@ -6,10 +6,10 @@ titleSlug: xin-yue
 author: 危拱辰
 authorPinyin: wei1 gong3 chen2
 authorSlug: wei-gong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

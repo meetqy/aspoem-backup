@@ -6,10 +6,10 @@ titleSlug: ou-cheng
 author: 陳雲龍
 authorPinyin: chen2 yun2 long2
 authorSlug: chen-yun-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

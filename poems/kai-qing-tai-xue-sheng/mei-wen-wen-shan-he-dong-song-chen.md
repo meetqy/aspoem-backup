@@ -6,10 +6,10 @@ titleSlug: mei-wen-wen-shan-he-dong-song-chen
 author: 開慶太學生
 authorPinyin: kai1 qing4 tai4 xue2 sheng1
 authorSlug: kai-qing-tai-xue-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

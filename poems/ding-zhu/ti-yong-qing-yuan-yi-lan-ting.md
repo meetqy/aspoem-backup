@@ -6,10 +6,10 @@ titleSlug: ti-yong-qing-yuan-yi-lan-ting
 author: 丁注
 authorPinyin: ding1 zhu4
 authorSlug: ding-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

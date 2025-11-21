@@ -6,10 +6,10 @@ titleSlug: ju-qi-liu
 author: 王從
 authorPinyin: wang2 cong2
 authorSlug: wang-cong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

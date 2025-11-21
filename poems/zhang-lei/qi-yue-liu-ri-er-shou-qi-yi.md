@@ -6,21 +6,21 @@ titleSlug: qi-yue-liu-ri-er-shou-qi-yi
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 月落暗蟲啼不休，五更白露曉悠悠。
-- 西風是處將摇落，可但梧桐獨報秋。
+- 雨洗秋城碧玉天，暮雲吹盡月娟娟。
+- 寂寥誰是清宵伴，只有姮娥最可憐。
 
 ## 拼音
 
-- yue4 luo4 an4 chong2 ti2 bu4 xiu1 ， wu3 geng1 bai2 lu4 xiao3 you1 you1 。
-- xi1 feng1 shi4 chu3 jiang1 yao2 luo4 ， ke3 dan4 wu2 tong2 du2 bao4 qiu1 。
+- yu3 xi3 qiu1 cheng2 bi4 yu4 tian1 ， mu4 yun2 chui1 jin4 yue4 juan1 juan1 。
+- ji4 liao2 shui2 shi4 qing1 xiao1 ban4 ， zhi3 you3 heng2 e2 zui4 ke3 lian2 。
 
 ## 注释
 

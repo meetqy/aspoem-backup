@@ -6,25 +6,21 @@ titleSlug: ye-zuo
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 積雨凝凉氣，疏林滴露華。
-- 流星占使者，斜漢挹浮槎。
-- 喜近天流火，回看斗轉車。
-- 秋風下閶闔，消散萬人家。
+- 獨坐吟詩到四更，牆根蟋蟀近床鳴。
+- 凉風閃閃吹燈滅，默從無言直到明。
 
 ## 拼音
 
-- ji1 yu3 ning2 liang2 qi4 ， shu1 lin2 di1 lu4 hua2 。
-- liu2 xing1 zhan4 shi3 zhe3 ， xie2 han4 yi4 fu2 cha2 。
-- xi3 jin4 tian1 liu2 huo3 ， hui2 kan4 dou4 zhuan3 ju1 。
-- qiu1 feng1 xia4 chang1 he2 ， xiao1 san4 wan4 ren2 jia1 。
+- du2 zuo4 yin2 shi1 dao4 si4 geng1 ， qiang2 gen1 xi1 shuai4 jin4 chuang2 ming2 。
+- liang2 feng1 shan3 shan3 chui1 deng1 mie4 ， mo4 cong2 wu2 yan2 zhi2 dao4 ming2 。
 
 ## 注释
 

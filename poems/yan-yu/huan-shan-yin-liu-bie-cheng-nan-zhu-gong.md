@@ -6,10 +6,10 @@ titleSlug: huan-shan-yin-liu-bie-cheng-nan-zhu-gong
 author: 嚴羽
 authorPinyin: yan2 yu3
 authorSlug: yan-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

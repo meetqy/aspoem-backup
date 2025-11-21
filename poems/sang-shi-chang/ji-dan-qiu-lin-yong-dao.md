@@ -6,10 +6,10 @@ titleSlug: ji-dan-qiu-lin-yong-dao
 author: 桑世昌
 authorPinyin: sang1 shi4 chang1
 authorSlug: sang-shi-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

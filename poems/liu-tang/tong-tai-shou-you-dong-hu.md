@@ -6,10 +6,10 @@ titleSlug: tong-tai-shou-you-dong-hu
 author: 劉棠
 authorPinyin: liu2 tang2
 authorSlug: liu-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

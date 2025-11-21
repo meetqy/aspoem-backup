@@ -6,10 +6,10 @@ titleSlug: bo-ya-tang
 author: 楊醮
 authorPinyin: yang2 jiao4
 authorSlug: yang-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

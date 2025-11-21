@@ -6,10 +6,10 @@ titleSlug: wu-xi-tu
 author: 釋德止
 authorPinyin: shi4 de2 zhi3
 authorSlug: shi-de-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

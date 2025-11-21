@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 風雨雞喔喔，雪霜柏森森。
-- 獨居雖無友，二物感我深。
+- 灰中火如螢，燎原從此始。
+- 元氣一點存，危疾亦不死。
 
 ## 拼音
 
-- feng1 yu3 ji1 wo1 wo1 ， xue3 shuang1 bai3 sen1 sen1 。
-- du2 ju1 sui1 wu2 you3 ， er4 wu4 gan3 wo3 shen1 。
+- hui1 zhong1 huo3 ru2 ying2 ， liao2 yuan2 cong2 ci3 shi3 。
+- yuan2 qi4 yi4 dian3 cun2 ， wei1 ji2 yi4 bu4 si3 。
 
 ## 注释
 

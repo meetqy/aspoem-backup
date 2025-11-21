@@ -9,12 +9,12 @@ authorSlug: wang-chu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 日落風回卷碧霓，方蓬一夜拆龍泥。
+- 日落風回卷碧霓，芳蓬一夜拆龍泥。
 - 銀臺級級連清漢，桂子香濃月杵低。
 
 ## 拼音

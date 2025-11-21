@@ -6,10 +6,10 @@ titleSlug: he-zhi-ping-wei-xiao-ge-hua-wo-yuan-fang-dai-qi-shang-ming-zhi-yue-ti
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

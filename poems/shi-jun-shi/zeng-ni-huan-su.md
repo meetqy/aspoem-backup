@@ -6,10 +6,10 @@ titleSlug: zeng-ni-huan-su
 author: 史君實
 authorPinyin: shi3 jun1 shi2
 authorSlug: shi-jun-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

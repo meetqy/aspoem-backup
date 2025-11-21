@@ -6,10 +6,10 @@ titleSlug: feng-zhao-tao-fan-ru-wei-guo-ning-de-xi-bei-fang-ruan-da-cheng
 author: 韓世忠
 authorPinyin: han2 shi4 zhong1
 authorSlug: han-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

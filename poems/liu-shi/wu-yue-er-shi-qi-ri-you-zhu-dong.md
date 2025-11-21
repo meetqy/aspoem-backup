@@ -6,10 +6,10 @@ titleSlug: wu-yue-er-shi-qi-ri-you-zhu-dong
 author: 劉氏
 authorPinyin: liu2 shi4
 authorSlug: liu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

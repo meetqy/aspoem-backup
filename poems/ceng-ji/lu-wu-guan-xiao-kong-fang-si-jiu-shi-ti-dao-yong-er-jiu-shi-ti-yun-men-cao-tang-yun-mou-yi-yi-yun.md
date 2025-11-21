@@ -6,10 +6,10 @@ titleSlug: lu-wu-guan-xiao-kong-fang-si-jiu-shi-ti-dao-yong-er-jiu-shi-ti-yun-me
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

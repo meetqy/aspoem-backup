@@ -6,9 +6,9 @@ titleSlug: deng-rui-yan-shan
 author: 徐師仁
 authorPinyin: xu2 shi1 ren2
 authorSlug: xu-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

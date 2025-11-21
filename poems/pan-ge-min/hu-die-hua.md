@@ -6,10 +6,10 @@ titleSlug: hu-die-hua
 author: 潘葛民
 authorPinyin: pan1 ge3 min2
 authorSlug: pan-ge-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

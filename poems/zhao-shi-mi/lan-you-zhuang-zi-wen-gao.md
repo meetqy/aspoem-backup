@@ -6,10 +6,10 @@ titleSlug: lan-you-zhuang-zi-wen-gao
 author: 趙時彌
 authorPinyin: zhao4 shi2 mi2
 authorSlug: zhao-shi-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

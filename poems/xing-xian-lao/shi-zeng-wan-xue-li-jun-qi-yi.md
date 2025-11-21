@@ -1,30 +1,30 @@
 ---
 id: xing-xian-lao-shi-zeng-wan-xue-li-jun-qi-yi
-title: 詩贈晚學李君  其一
-titlePinyin: shi1 zeng4 wan3 xue2 li3 jun1     qi2 yi1
+title: 詩贈晚學李君  其一○
+titlePinyin: shi1 zeng4 wan3 xue2 li3 jun1     qi2 yi1 ○
 titleSlug: shi-zeng-wan-xue-li-jun-qi-yi
 author: 邢仙老
 authorPinyin: xing2 xian1 lao3
 authorSlug: xing-xian-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 虚皇天詔下仙家，不久星横借客槎。
-- 壁上風雲三尺劍，林前龍虎一爐砂。
-- 行乘海嶼千年鶴，坐折壺中四季花。
-- 爲愛陰符問玄義，更隨驪海入烟霞。
+- 無言隱几閉松扃，萬古襟懷獨自靈。
+- 點筆時研三卷篆，彈冠嘗動一簪星。
+- 青童去撅南山木，野客來尋北帝經。
+- 天道不須窺牖見，滿門山岳自青青。
 
 ## 拼音
 
-- xu1 huang2 tian1 zhao4 xia4 xian1 jia1 ， bu4 jiu3 xing1 heng2 jie4 ke4 cha2 。
-- bi4 shang4 feng1 yun2 san1 chi3 jian4 ， lin2 qian2 long2 hu3 yi4 lu2 sha1 。
-- xing2 cheng2 hai3 yu3 qian1 nian2 he4 ， zuo4 zhe2 hu2 zhong1 si4 ji4 hua1 。
-- wei2 ai4 yin1 fu2 wen4 xuan2 yi4 ， geng4 sui2 li2 hai3 ru4 yan1 xia2 。
+- wu2 yan2 yin3 ji3 bi4 song1 jiong1 ， wan4 gu3 jin1 huai2 du2 zi4 ling2 。
+- dian3 bi3 shi2 yan2 san1 juan4 zhuan4 ， dan4 guan1 chang2 dong4 yi4 zan1 xing1 。
+- qing1 tong2 qu4 jue1 nan2 shan1 mu4 ， ye3 ke4 lai2 xun2 bei3 di4 jing1 。
+- tian1 dao4 bu4 xu1 kui1 you3 jian4 ， man3 men2 shan1 yue4 zi4 qing1 qing1 。
 
 ## 注释
 

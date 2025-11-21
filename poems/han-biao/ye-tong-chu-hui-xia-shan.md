@@ -6,25 +6,21 @@ titleSlug: ye-tong-chu-hui-xia-shan
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 燈影山窗淡，盃寒道院深。
-- 世塵心力弱，時俗鬢毛侵。
-- 煙莽開幽逕，霜枝墮遠林。
-- 地偏愁獨往，鄰近喜相尋。
+- 道家山頂中秋月，照我溪南野外心。
+- 莫把蕭閒作兒戲，爲君清汎酒盃深。
 
 ## 拼音
 
-- deng1 ying3 shan1 chuang1 dan4 ， bei1 han2 dao4 yuan4 shen1 。
-- shi4 chen2 xin1 li4 ruo4 ， shi2 su2 bin4 mao2 qin1 。
-- yan1 mang3 kai1 you1 jing4 ， shuang1 zhi1 duo4 yuan3 lin2 。
-- di4 pian1 chou2 du2 wang3 ， lin2 jin4 xi3 xiang1 xun2 。
+- dao4 jia1 shan1 ding3 zhong1 qiu1 yue4 ， zhao4 wo3 xi1 nan2 ye3 wai4 xin1 。
+- mo4 ba3 xiao1 xian2 zuo4 er2 xi4 ， wei2 jun1 qing1 fan4 jiu3 bei1 shen1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: li-shan-ren-suo-ju
 author: 申屠月巖
 authorPinyin: shen1 tu2 yue4 yan2
 authorSlug: shen-tu-yue-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

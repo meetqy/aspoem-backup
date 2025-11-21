@@ -6,10 +6,10 @@ titleSlug: ti-fu-ren-shi
 author: 單庚金
 authorPinyin: dan1 geng1 jin1
 authorSlug: dan-geng-jin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

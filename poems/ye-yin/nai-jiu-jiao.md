@@ -6,21 +6,21 @@ titleSlug: nai-jiu-jiao
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 彼哉市道交，出語指天日。
-- 未逢魏與裴，三歎扁斯石。
+- 魚水時暫歡，芝蘭近同臭。
+- 惟有石丈人，萬古情如舊。
 
 ## 拼音
 
-- bi3 zai1 shi4 dao4 jiao1 ， chu1 yu3 zhi3 tian1 ri4 。
-- wei4 feng2 wei4 yu3 pei2 ， san1 tan4 bian3 si1 shi2 。
+- yu2 shui3 shi2 zan4 huan1 ， zhi1 lan2 jin4 tong2 chou4 。
+- wei2 you3 shi2 zhang4 ren2 ， wan4 gu3 qing2 ru2 jiu4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: fu-tang-yuan-xi-san-shou-qi-yi
 author: 方孝能
 authorPinyin: fang1 xiao4 neng2
 authorSlug: fang-xiao-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

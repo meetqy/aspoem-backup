@@ -6,10 +6,10 @@ titleSlug: liu-ti-shou-shang-ren-qu-gong-zhai
 author: 汪澈
 authorPinyin: wang1 che4
 authorSlug: wang-che
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

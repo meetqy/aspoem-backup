@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-yi
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 栢樹庭前度夏，荷花池上經秋。
-- 若問西來拄杖，何如南去輕舟。
+- 春來誰不看花忙，裓上仙風散佛香。
+- 人面何如花面好，贈君一點下禪床。
 
 ## 拼音
 
-- bai3 shu4 ting2 qian2 du4 xia4 ， he2 hua1 chi2 shang4 jing1 qiu1 。
-- ruo4 wen4 xi1 lai2 zhu3 zhang4 ， he2 ru2 nan2 qu4 qing1 zhou1 。
+- chun1 lai2 shui2 bu2 kan4 hua1 mang2 ， jie1 shang4 xian1 feng1 san4 fo2 xiang1 。
+- ren2 mian4 he2 ru2 hua1 mian4 hao3 ， zeng4 jun1 yi4 dian3 xia4 shan4 chuang2 。
 
 ## 注释
 

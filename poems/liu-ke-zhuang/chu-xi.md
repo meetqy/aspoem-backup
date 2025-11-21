@@ -6,25 +6,25 @@ titleSlug: chu-xi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 憶昔都城值歲除，高樓張燭戲呼盧。
-- 久依凈社參尊宿，難向新豐認酒徒。
-- 天子未知工草賦，鄰人或倩寫桃符。
-- 夜寒別有窮生活，點勘離騷擁地爐。
+- 除夕陰寒怕卷簾，雨聲斷續下疎簷。
+- 壁穿自和乾泥補，窗損教尋廢紙粘。
+- 祇有青燈相守定，縱無白髮亦生添。
+- 更殘自算明年事，不就君平卦肆占。
 
 ## 拼音
 
-- yi4 xi1 du1 cheng2 zhi2 sui4 chu2 ， gao1 lou2 zhang1 zhu2 xi4 hu1 lu2 。
-- jiu3 yi1 jing4 she4 can1 zun1 su4 ， nan2 xiang4 xin1 feng1 ren4 jiu3 tu2 。
-- tian1 zi3 wei4 zhi1 gong1 cao3 fu4 ， lin2 ren2 huo4 qian4 xie3 tao2 fu2 。
-- ye4 han2 bie2 you3 qiong2 sheng1 huo2 ， dian3 kan1 li2 sao1 yong1 di4 lu2 。
+- chu2 xi1 yin1 han2 pa4 juan4 lian2 ， yu3 sheng1 duan4 xu4 xia4 shu1 yan2 。
+- bi4 chuan1 zi4 he2 qian2 ni2 bu3 ， chuang1 sun3 jiao4 xun2 fei4 zhi3 nian2 。
+- qi2 you3 qing1 deng1 xiang1 shou3 ding4 ， zong4 wu2 bai2 fa4 yi4 sheng1 tian1 。
+- geng4 can2 zi4 suan4 ming2 nian2 shi4 ， bu2 jiu4 jun1 ping2 gua4 si4 zhan4 。
 
 ## 注释
 

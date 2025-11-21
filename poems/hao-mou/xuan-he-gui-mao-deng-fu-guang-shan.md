@@ -6,9 +6,9 @@ titleSlug: xuan-he-gui-mao-deng-fu-guang-shan
 author: 郝某
 authorPinyin: hao3 mou3
 authorSlug: hao-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

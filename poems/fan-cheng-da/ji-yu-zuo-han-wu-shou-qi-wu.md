@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ji-yu-zuo-han-wu-shou-qi-wu
-title: 積雨作寒五首・其五
-titlePinyin: ji1 yu3 zuo4 han2 wu3 shou3・qi2 wu3
+title: 積雨作寒五首  其五
+titlePinyin: ji1 yu3 zuo4 han2 wu3 shou3     qi2 wu3
 titleSlug: ji-yu-zuo-han-wu-shou-qi-wu
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

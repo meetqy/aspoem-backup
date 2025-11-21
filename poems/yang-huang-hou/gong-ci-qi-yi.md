@@ -1,26 +1,26 @@
 ---
 id: yang-huang-hou-gong-ci-qi-yi
-title: 宮詞  其一
-titlePinyin: gong1 ci2     qi2 yi1
+title: 宮詞  其一○
+titlePinyin: gong1 ci2     qi2 yi1 ○
 titleSlug: gong-ci-qi-yi
 author: 楊皇后
 authorPinyin: yang2 huang2 hou4
 authorSlug: yang-huang-hou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瑞日曈矓散曉紅，乾元萬國珮丁東。
-- 紫宸北使班纔退，百辟同趨德壽宮。
+- 海棠花裏奏琵琶，沉碧池邊醉九霞。
+- 禁禦融融春日靜，五雲深護帝王家。
 
 ## 拼音
 
-- rui4 ri4 tong2 long2 san4 xiao3 hong2 ， qian2 yuan2 wan4 guo2 pei4 ding1 dong1 。
-- zi3 chen2 bei3 shi3 ban1 cai2 tui4 ， bai3 pi4 tong2 qu1 de2 shou4 gong1 。
+- hai3 tang2 hua1 li3 zou4 pi2 pa0 ， chen2 bi4 chi2 bian1 zui4 jiu3 xia2 。
+- jin4 yu4 rong2 rong2 chun1 ri4 jing4 ， wu3 yun2 shen1 hu4 di4 wang2 jia1 。
 
 ## 注释
 

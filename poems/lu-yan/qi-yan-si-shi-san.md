@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 還丹功滿未朝天，且向人間度有緣。
-- 拄杖兩頭擔日月，葫蘆一箇隱山川。
-- 詩吟自得閑中句，酒飲多遺醉後錢。
-- 若問我修何妙法，不離身內汞和鉛。
+- 紫極宮中我自知，親磨神劍劍還飛。
+- 先差玉子開南殿，後遣青龍入紫微。
+- 九鼎黃芽棲瑞鳳，一軀仙骨養靈芝。
+- 蓬萊不是凡人處，只怕愚人泄世機。
 
 ## 拼音
 
-- huan2 dan1 gong1 man3 wei4 chao2 tian1 ， qie3 xiang4 ren2 jian4 du4 you3 yuan2 。
-- zhu3 zhang4 liang3 tou2 dan1 ri4 yue4 ， hu2 lu2 yi2 ge4 yin3 shan1 chuan1 。
-- shi1 yin2 zi4 de2 xian2 zhong1 ju4 ， jiu3 yin3 duo1 yi2 zui4 hou4 qian2 。
-- ruo4 wen4 wo3 xiu1 he2 miao4 fa3 ， bu4 li2 shen1 nei4 gong3 he2 qian1 。
+- zi3 ji2 gong1 zhong1 wo3 zi4 zhi1 ， qin1 mo2 shen2 jian4 jian4 huan2 fei1 。
+- xian1 cha4 yu4 zi3 kai1 nan2 dian4 ， hou4 qian3 qing1 long2 ru4 zi3 wei1 。
+- jiu3 ding3 huang2 ya2 qi1 rui4 feng4 ， yi4 qu1 xian1 gu3 yang3 ling2 zhi1 。
+- peng2 lai2 bu2 shi4 fan2 ren2 chu3 ， zhi3 pa4 yu2 ren2 xie4 shi4 ji1 。
 
 ## 注释
 

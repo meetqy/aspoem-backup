@@ -6,9 +6,9 @@ titleSlug: cui-weng-yong-qi-fu-yun-fu-jiu-ri-yu-yi-tong-fu-jian-cheng-qi-fu
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

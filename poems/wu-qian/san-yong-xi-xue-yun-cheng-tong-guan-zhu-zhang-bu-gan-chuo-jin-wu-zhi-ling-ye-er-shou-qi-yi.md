@@ -6,10 +6,10 @@ titleSlug: san-yong-xi-xue-yun-cheng-tong-guan-zhu-zhang-bu-gan-chuo-jin-wu-zhi-
 author: 吳潛
 authorPinyin: wu2 qian2
 authorSlug: wu-qian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

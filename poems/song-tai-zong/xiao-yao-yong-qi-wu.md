@@ -6,25 +6,25 @@ titleSlug: xiao-yao-yong-qi-wu
 author: 宋太宗
 authorPinyin: song4 tai4 zong1
 authorSlug: song-tai-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 逍遥人控鶴，碧落壓天津。
-- 達理通含識，虛無即是真。
-- 河車誰肯信，鉛汞本相親。
-- 造化皆如此，今緣論宿因。
+- 玄之玄又見真空，巧拙臨時要妙中。
+- 大智伏藏知遠近，纖微盡達了然通。
+- 周旋物性誰區別，坦蕩由來是且同。
+- 境致三才隨有位，神光照室瑩西東。
 
 ## 拼音
 
-- xiao1 yao2 ren2 kong4 he4 ， bi4 luo4 ya1 tian1 jin1 。
-- da2 li3 tong1 han2 shi2 ， xu1 wu2 ji2 shi4 zhen1 。
-- he2 ju1 shui2 ken3 xin4 ， qian1 gong3 ben3 xiang4 qin1 。
-- zao4 hua4 jie1 ru2 ci3 ， jin1 yuan2 lun4 su4 yin1 。
+- xuan2 zhi1 xuan2 you4 jian4 zhen1 kong1 ， qiao3 zhuo1 lin2 shi2 yao4 miao4 zhong1 。
+- da4 zhi4 fu2 cang2 zhi1 yuan3 jin4 ， xian1 wei1 jin4 da2 liao3 ran2 tong1 。
+- zhou1 xuan2 wu4 xing4 shui2 qu1 bie2 ， tan3 dang4 you2 lai2 shi4 qie3 tong2 。
+- jing4 zhi4 san1 cai2 sui2 you3 wei4 ， shen2 guang1 zhao4 shi4 ying2 xi1 dong1 。
 
 ## 注释
 

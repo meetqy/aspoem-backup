@@ -6,25 +6,25 @@ titleSlug: shui-qi-zhi-yuan-zhong
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 欲挂衣冠萬事輕，不妨小住向山城。
-- 緑尊耐久常相伴，雪鬢纔生便放行。
-- 拂枕時時覓幽夢，倚闌日日聽新鶯。
-- 夕陽更有欣然處，来看青郊雨後耕。
+- 春風忽已遍天涯，老子猶能領物華。
+- 淺碧細傾家釀酒，小紅初試手栽花。
+- 野人易與輸肝肺，俗語誰能挂齒牙。
+- 更欲世間同省事，勾回蟻戰放蜂衙。
 
 ## 拼音
 
-- yu4 gua4 yi1 guan1 wan4 shi4 qing1 ， bu4 fang2 xiao3 zhu4 xiang4 shan1 cheng2 。
-- lü4 zun1 nai4 jiu3 chang2 xiang1 ban4 ， xue3 bin4 cai2 sheng1 bian4 fang4 xing2 。
-- fu2 zhen3 shi2 shi2 mi4 you1 meng4 ， yi3 lan2 ri4 ri4 ting1 xin1 ying1 。
-- xi1 yang2 geng4 you3 xin1 ran2 chu3 ， lai2 kan4 qing1 jiao1 yu3 hou4 geng1 。
+- chun1 feng1 hu1 yi3 bian4 tian1 ya2 ， lao3 zi3 you2 neng2 ling3 wu4 hua2 。
+- qian3 bi4 xi4 qing1 jia1 niang4 jiu3 ， xiao3 hong2 chu1 shi4 shou3 zai1 hua1 。
+- ye3 ren2 yi4 yu3 shu1 gan1 fei4 ， su2 yu3 shui2 neng2 gua4 chi3 ya2 。
+- geng4 yu4 shi4 jian4 tong2 sheng3 shi4 ， gou1 hui2 yi3 zhan4 fang4 feng1 ya2 。
 
 ## 注释
 

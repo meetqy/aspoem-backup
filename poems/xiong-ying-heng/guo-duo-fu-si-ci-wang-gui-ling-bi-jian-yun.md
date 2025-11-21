@@ -6,10 +6,10 @@ titleSlug: guo-duo-fu-si-ci-wang-gui-ling-bi-jian-yun
 author: 熊應亨
 authorPinyin: xiong2 ying1 heng1
 authorSlug: xiong-ying-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

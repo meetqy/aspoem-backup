@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti
 author: 何洞清
 authorPinyin: he2 dong4 qing1
 authorSlug: he-dong-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: chun-chou
 author: 張元道
 authorPinyin: zhang1 yuan2 dao4
 authorSlug: zhang-yuan-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

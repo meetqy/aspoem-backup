@@ -9,22 +9,22 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 惡憐風景極交親，每恨年年作瘦人。
-- 臥晚不曾拋好夜，情多唯欲哭殘春。
-- 陰成杏葉纔通日，雨著楊花已汙塵。
-- 無限後期知有在，只愁煩作總戎身。
+- 征東留滯一年年，又向軍前遇火前。
+- 畫出鷁舟宜祓禊，鏤成雞卵有鞦韆。
+- 澄明煙水孤城立，狼藉風花落日眠。
+- 賴指清和櫻筍熟，不然愁殺暮春天。
 
 ## 拼音
 
-- e4 lian2 feng1 jing3 ji2 jiao1 qin1 ， mei3 hen4 nian2 nian2 zuo4 shou4 ren2 。
-- wo4 wan3 bu4 ceng2 pao1 hao3 ye4 ， qing2 duo1 wei2 yu4 ku1 can2 chun1 。
-- yin1 cheng2 xing4 ye4 cai2 tong1 ri4 ， yu3 zhu4 yang2 hua1 yi3 wu1 chen2 。
-- wu2 xian4 hou4 qi1 zhi1 you3 zai4 ， zhi1 chou2 fan2 zuo4 zong3 rong2 shen1 。
+- zheng1 dong1 liu2 zhi4 yi4 nian2 nian2 ， you4 xiang4 jun1 qian2 yu4 huo3 qian2 。
+- hua4 chu1 yi4 zhou1 yi2 fu2 xi4 ， lou4 cheng2 ji1 luan3 you3 qiu1 qian1 。
+- cheng2 ming2 yan1 shui3 gu1 cheng2 li4 ， lang2 ji2 feng1 hua1 luo4 ri4 mian2 。
+- lai4 zhi3 qing1 he2 ying1 sun3 shu2 ， bu4 ran2 chou2 sha1 mu4 chun1 tian1 。
 
 ## 注释
 

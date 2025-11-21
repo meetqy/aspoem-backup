@@ -6,9 +6,9 @@ titleSlug: cheng-xia-lu-liao-you-fang-dan-shan-qi-yue-yu-shu-qing-tan-jiu-zhi-ou
 author: 黄同
 authorPinyin: huang2 tong2
 authorSlug: huang-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

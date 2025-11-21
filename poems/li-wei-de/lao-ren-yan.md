@@ -6,10 +6,10 @@ titleSlug: lao-ren-yan
 author: 李惟德
 authorPinyin: li3 wei2 de2
 authorSlug: li-wei-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

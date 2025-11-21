@@ -6,10 +6,10 @@ titleSlug: geng-yin-yuan-xi-yue-dang-shi-yu-zuo-bu-jian-ming-ri-xi-xiang-shi-suo
 author: 黎廷瑞
 authorPinyin: li2 ting2 rui4
 authorSlug: li-ting-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

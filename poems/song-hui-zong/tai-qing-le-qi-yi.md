@@ -1,26 +1,26 @@
 ---
 id: song-hui-zong-tai-qing-le-qi-yi
-title: 太清樂  其一
-titlePinyin: tai4 qing1 le4     qi2 yi1
+title: 太清樂  其一○
+titlePinyin: tai4 qing1 le4     qi2 yi1 ○
 titleSlug: tai-qing-le-qi-yi
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太一元君掌列仙，彤暉絳彩射芝田。
-- 功圓會遇刊名籍，可但洪崖笑拍肩。
+- 左右靈飛運甲庚，琳房八景鍊華精。
+- 常陽宴罷歸何處，擲火流金事尅成。
 
 ## 拼音
 
-- tai4 yi4 yuan2 jun1 zhang3 lie4 xian1 ， tong2 hui1 jiang4 cai3 she4 zhi1 tian2 。
-- gong1 yuan2 hui4 yu4 kan1 ming2 ji2 ， ke3 dan4 hong2 ya2 xiao4 pai1 jian1 。
+- zuo3 you4 ling2 fei1 yun4 jia3 geng1 ， lin2 fang2 ba1 jing3 lian4 hua2 jing1 。
+- chang2 yang2 yan4 ba4 gui1 he2 chu3 ， zhi4 huo3 liu2 jin1 shi4 kei1 cheng2 。
 
 ## 注释
 

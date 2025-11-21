@@ -6,10 +6,10 @@ titleSlug: song-hu-ji-zhao-zhe-xiang-jun
 author: 杜豐
 authorPinyin: du4 feng1
 authorSlug: du-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

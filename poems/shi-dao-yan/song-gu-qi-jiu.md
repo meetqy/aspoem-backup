@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-qi-jiu
-title: 頌古  其九
-titlePinyin: song4 gu3     qi2 jiu3
+title: 頌古  其九○
+titlePinyin: song4 gu3     qi2 jiu3 ○
 titleSlug: song-gu-qi-jiu
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 江西一喝動乾坤，大用全機是滅門。
-- 三日耳聾風過樹，累他黄檗喪兒孫。
+- 楊岐老人瑣口訣，萬里長城一條鐵。
+- 斫牌禪客如到來，不動金槌腦門裂。
 
 ## 拼音
 
-- jiang1 xi1 yi4 he1 dong4 qian2 kun1 ， da4 yong4 quan2 ji1 shi4 mie4 men2 。
-- san1 ri4 er3 long2 feng1 guo4 shu4 ， lei4 ta1 huang2 bo4 sang1 er2 sun1 。
+- yang2 qi2 lao3 ren2 suo3 kou3 jue2 ， wan4 li3 chang2 cheng2 yi4 tiao2 tie3 。
+- zhuo2 pai2 shan4 ke4 ru2 dao4 lai2 ， bu2 dong4 jin1 chui2 nao3 men2 lie4 。
 
 ## 注释
 

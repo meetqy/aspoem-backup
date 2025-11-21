@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 穆清廟，薦嚴禋。
-- 昭禮備，和樂新。
-- 望靈光，集元辰。
-- 祚無極，享萬春。
+- 昭事終，幽享餘。
+- 移月御，返仙居。
+- 璇庭寂，靈幄虛。
+- 顧裴回，感皇儲。
 
 ## 拼音
 
-- mu4 qing1 miao4 ， jian4 yan2 yin1 。
-- zhao1 li3 bei4 ， he2 le4 xin1 。
-- wang4 ling2 guang1 ， ji2 yuan2 chen2 。
-- zuo4 wu2 ji2 ， xiang3 wan4 chun1 。
+- zhao1 shi4 zhong1 ， you1 xiang3 yu2 。
+- yi2 yue4 yu4 ， fan3 xian1 ju1 。
+- xuan2 ting2 ji4 ， ling2 wo4 xu1 。
+- gu4 pei2 hui2 ， gan3 huang2 chu3 。
 
 ## 注释
 

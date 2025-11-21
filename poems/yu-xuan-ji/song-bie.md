@@ -9,18 +9,18 @@ authorSlug: yu-xuan-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 秦樓幾夜愜心期，不料仙郎有別離。
-- 睡覺莫言雲去處，殘燈一醆野蛾飛。
+- 水柔逐器知難定，雲出無心肯再歸。
+- 惆悵春風楚江暮，鴛鴦一隻失羣飛。
 
 ## 拼音
 
-- qin2 lou2 ji1 ye4 qie4 xin1 qi1 ， bu2 liao4 xian1 lang2 you3 bie2 li2 。
-- shui4 jue2 mo4 yan2 yun2 qu4 chu3 ， can2 deng1 yi4 zhan3 ye3 e2 fei1 。
+- shui3 rou2 zhu2 qi4 zhi1 nan2 ding4 ， yun2 chu1 wu2 xin1 ken3 zai4 gui1 。
+- chou2 chang4 chun1 feng1 chu3 jiang1 mu4 ， yuan1 yang1 yi4 zhi1 shi1 qun2 fei1 。
 
 ## 注释
 

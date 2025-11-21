@@ -6,21 +6,21 @@ titleSlug: mu-dan-duo-bu-kai-hua
 author: 方岳
 authorPinyin: fang1 yue4
 authorSlug: fang-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少作花頭多作叢，十分能有幾分紅。
-- 春工自不容人力，抱甕窮年笑此翁。
+- 韶風萬物照我廬，昨歲駢頭今併疎。
+- 自是愛花心不足，何知物物有乘除。
 
 ## 拼音
 
-- shao3 zuo4 hua1 tou2 duo1 zuo4 cong2 ， shi2 fen1 neng2 you3 ji1 fen1 hong2 。
-- chun1 gong1 zi4 bu4 rong2 ren2 li4 ， bao4 weng4 qiong2 nian2 xiao4 ci3 weng1 。
+- shao2 feng1 wan4 wu4 zhao4 wo3 lu2 ， zuo2 sui4 pian2 tou2 jin1 bing4 shu1 。
+- zi4 shi4 ai4 hua1 xin1 bu4 zu2 ， he2 zhi1 wu4 wu4 you3 cheng2 chu2 。
 
 ## 注释
 

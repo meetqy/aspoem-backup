@@ -6,9 +6,9 @@ titleSlug: you-qi-xing-yan
 author: 張去華
 authorPinyin: zhang1 qu4 hua2
 authorSlug: zhang-qu-hua
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

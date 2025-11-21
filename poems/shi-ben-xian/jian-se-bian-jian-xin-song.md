@@ -6,10 +6,10 @@ titleSlug: jian-se-bian-jian-xin-song
 author: 釋本先
 authorPinyin: shi4 ben3 xian1
 authorSlug: shi-ben-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

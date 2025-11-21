@@ -1,24 +1,24 @@
 ---
 id: gao-si-sun-ju-qi-er
-title: 句  其二
-titlePinyin: ju4     qi2 er4
+title: 句  其二○
+titlePinyin: ju4     qi2 er4 ○
 titleSlug: ju-qi-er
 author: 高似孫
 authorPinyin: gao1 si4 sun1
 authorSlug: gao-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 魚带淞江月盈缶，雋處依稀開蟹斗。
+- 相次西風吹蟹老，眼前且作鱠殘圖。
 
 ## 拼音
 
-- yu2 dai4 song1 jiang1 yue4 ying2 fou3 ， jun4 chu3 yi1 xi1 kai1 xie4 dou4 。
+- xiang1 ci4 xi1 feng1 chui1 xie4 lao3 ， yan3 qian2 qie3 zuo4 kuai4 can2 tu2 。
 
 ## 注释
 

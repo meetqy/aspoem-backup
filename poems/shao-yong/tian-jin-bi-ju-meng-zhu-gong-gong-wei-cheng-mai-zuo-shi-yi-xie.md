@@ -6,10 +6,10 @@ titleSlug: tian-jin-bi-ju-meng-zhu-gong-gong-wei-cheng-mai-zuo-shi-yi-xie
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: xue-gua-lu-wu-zong-ren-ye-wu-bu-de-er-jian-zhi-de-jian-qi-shi-si-ke-y
 author: 薛美
 authorPinyin: xue1 mei3
 authorSlug: xue-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

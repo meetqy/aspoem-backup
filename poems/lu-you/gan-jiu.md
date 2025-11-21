@@ -6,25 +6,25 @@ titleSlug: gan-jiu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 醉眼常輕兒女曹，西遊對客尚能豪。
-- 縷金羯鼓龜兹樂，鏤玉琵琶邏逤槽。
-- 巫峽已回行雨夢，錦江空憶浣花遨。
-- 閑情何計都除盡，爲覓并州快剪刀。
+- 早參太史筆，晚典石渠書。
+- 孤立如羈雁，微生等蠹魚。
+- 虛名真忝竊，定理有乘除。
+- 九十稽山下，荒畦日荷鋤。
 
 ## 拼音
 
-- zui4 yan3 chang2 qing1 er2 nü3 cao2 ， xi1 you2 dui4 ke4 shang4 neng2 hao2 。
-- lü3 jin1 jie2 gu3 gui1 zi1 le4 ， lou4 yu4 pi2 pa0 luo2 suo4 cao2 。
-- wu1 xia2 yi3 hui2 xing2 yu3 meng4 ， jin3 jiang1 kong1 yi4 huan4 hua1 ao2 。
-- xian2 qing2 he2 ji4 dou1 chu2 jin4 ， wei2 mi4 bing1 zhou1 kuai4 jian3 dao1 。
+- zao3 can1 tai4 shi3 bi3 ， wan3 dian3 shi2 qu2 shu1 。
+- gu1 li4 ru2 ji1 yan4 ， wei1 sheng1 deng3 du4 yu2 。
+- xu1 ming2 zhen1 tian3 qie4 ， ding4 li3 you3 cheng2 chu2 。
+- jiu3 shi2 ji1 shan1 xia4 ， huang1 qi2 ri4 he2 chu2 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: cao-xun-shan-ju-za-shi-jiu-shi-shou-qi-liu
-title: 山居雜詩九十首  其六
-titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 liu4
+title: 山居雜詩九十首  其六○
+titlePinyin: shan1 ju1 za2 shi1 jiu3 shi2 shou3     qi2 liu4 ○
 titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 伏日更酷暑，當午劇炎烈。
-- 火雲凝不動，勢欲終歲熱。
-- 天公蘇赤子，雨隨震霆發。
-- 一掃回清凉，庭筠助騷屑。
+- 春深多夜雨，倦卧得飽聽。
+- 穿林乍依微，滴簷已紛競。
+- 衾寒似落莫，人寂眷閑靜。
+- 怡然遂高眠，枕上頗適性。
 
 ## 拼音
 
-- fu2 ri4 geng4 ku4 shu3 ， dang1 wu3 ju4 yan2 lie4 。
-- huo3 yun2 ning2 bu2 dong4 ， shi4 yu4 zhong1 sui4 re4 。
-- tian1 gong1 su1 chi4 zi3 ， yu3 sui2 zhen4 ting2 fa1 。
-- yi4 sao3 hui2 qing1 liang2 ， ting2 yun2 zhu4 sao1 xie4 。
+- chun1 shen1 duo1 ye4 yu3 ， juan4 wo4 de2 bao3 ting1 。
+- chuan1 lin2 zha4 yi1 wei1 ， di1 yan2 yi3 fen1 jing4 。
+- qin1 han2 si4 luo4 mo4 ， ren2 ji4 juan4 xian2 jing4 。
+- yi2 ran2 sui4 gao1 mian2 ， zhen3 shang4 po1 shi4 xing4 。
 
 ## 注释
 

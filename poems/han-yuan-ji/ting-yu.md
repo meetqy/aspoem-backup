@@ -6,25 +6,21 @@ titleSlug: ting-yu
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨夜燈花暗，今晨雨意深。
-- 殘花惟有葉，新笋已成林。
-- 未辦扶頭飲，聊爲擁鼻吟。
-- 興闌幽夢斷，簷際足清音。
+- 吚軋籃輿不計肩，五更殘夢尚悠然。
+- 紅油蓋重聽朝雨，却似西江坐釣船。
 
 ## 拼音
 
-- zuo2 ye4 deng1 hua1 an4 ， jin1 chen2 yu3 yi4 shen1 。
-- can2 hua1 wei2 you3 ye4 ， xin1 sun3 yi3 cheng2 lin2 。
-- wei4 ban4 fu2 tou2 yin3 ， liao2 wei2 yong1 bi2 yin2 。
-- xing1 lan2 you1 meng4 duan4 ， yan2 ji4 zu2 qing1 yin1 。
+- yi1 ya4 lan2 yu2 bu2 ji4 jian1 ， wu3 geng1 can2 meng4 shang4 you1 ran2 。
+- hong2 you2 gai4 zhong4 ting1 chao2 yu3 ， que4 si4 xi1 jiang1 zuo4 diao4 chuan2 。
 
 ## 注释
 

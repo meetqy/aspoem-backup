@@ -6,10 +6,10 @@ titleSlug: xie-ren-lao-ji-suo-hua-li-chang-zhe-chu-shan-xiang-wu-shou-qi-wu
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

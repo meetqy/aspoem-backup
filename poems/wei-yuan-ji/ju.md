@@ -6,9 +6,9 @@ titleSlug: ju
 author: 魏元吉
 authorPinyin: wei4 yuan2 ji2
 authorSlug: wei-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

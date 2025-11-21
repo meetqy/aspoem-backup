@@ -6,10 +6,10 @@ titleSlug: shu-gan-qi-er
 author: 楊再十一君
 authorPinyin: yang2 zai4 shi2 yi1 jun1
 authorSlug: yang-zai-shi-yi-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

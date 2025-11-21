@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zhan-xing-zhe-wei-ming-gong-yue-bei-du-xing-wu-hai-dan-qu-nian-fu-zhao-zuo-zai-jin-nian-zheng-yue-yi-ri-yi-chu-er-sui-xing-zuo-fu-xi-shu-er-jue-qi-er
-title: 占星者謂命宮月孛獨行無害但去年復照作災今年正月一日已出而歲星作福戲書二絕・其二
-titlePinyin: zhan1 xing1 zhe3 wei4 ming4 gong1 yue4 bei4 du2 xing2 wu2 hai4 dan4 qu4 nian2 fu4 zhao4 zuo4 zai1 jin1 nian2 zheng1 yue4 yi2 ri4 yi3 chu1 er2 sui4 xing1 zuo4 fu2 xi4 shu1 er4 jue2・qi2 er4
+title: 占星者謂命宮月孛獨行無害但去年復照作災今年正月一日已出而歲星作福戲書二絕  其二
+titlePinyin: zhan1 xing1 zhe3 wei4 ming4 gong1 yue4 bei4 du2 xing2 wu2 hai4 dan4 qu4 nian2 fu4 zhao4 zuo4 zai1 jin1 nian2 zheng1 yue4 yi2 ri4 yi3 chu1 er2 sui4 xing1 zuo4 fu2 xi4 shu1 er4 jue2     qi2 er4
 titleSlug: zhan-xing-zhe-wei-ming-gong-yue-bei-du-xing-wu-hai-dan-qu-nian-fu-zhao-zuo-zai-jin-nian-zheng-yue-yi-ri-yi-chu-er-sui-xing-zuo-fu-xi-shu-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

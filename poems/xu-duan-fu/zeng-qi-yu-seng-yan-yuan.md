@@ -6,10 +6,10 @@ titleSlug: zeng-qi-yu-seng-yan-yuan
 author: 許端夫
 authorPinyin: xu1 duan1 fu1
 authorSlug: xu-duan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

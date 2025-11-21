@@ -6,10 +6,10 @@ titleSlug: lin-jiang-tai-shou-sheng-ri
 author: 李季可
 authorPinyin: li3 ji4 ke3
 authorSlug: li-ji-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

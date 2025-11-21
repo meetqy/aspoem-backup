@@ -6,10 +6,10 @@ titleSlug: bing-wu-qi-xi-hou-yi-ri-wan-di-song-jiang-ta-xia-qi-er
 author: 俞桂
 authorPinyin: yu2 gui4
 authorSlug: yu-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

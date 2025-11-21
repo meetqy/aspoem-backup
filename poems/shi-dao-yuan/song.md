@@ -6,10 +6,10 @@ titleSlug: song
 author: 釋道圓
 authorPinyin: shi4 dao4 yuan2
 authorSlug: shi-dao-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

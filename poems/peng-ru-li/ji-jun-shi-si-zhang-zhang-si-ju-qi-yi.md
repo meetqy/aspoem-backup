@@ -6,21 +6,21 @@ titleSlug: ji-jun-shi-si-zhang-zhang-si-ju-qi-yi
 author: 彭汝礪
 authorPinyin: peng2 ru3 li4
 authorSlug: peng-ru-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我脂我車，陟彼高岡。
-- 母也吾懷，匪居或忘。
+- 我灌我園，有采之心。
+- 于以擷之，既有且多。
 
 ## 拼音
 
-- wo3 zhi1 wo3 ju1 ， zhi4 bi3 gao1 gang1 。
-- mu3 ye3 wu2 huai2 ， fei3 ju1 huo4 wang4 。
+- wo3 guan4 wo3 yuan2 ， you3 cai3 zhi1 xin1 。
+- yu2 yi3 xie2 zhi1 ， ji4 you3 qie3 duo1 。
 
 ## 注释
 

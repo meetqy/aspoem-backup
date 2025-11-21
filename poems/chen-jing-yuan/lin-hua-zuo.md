@@ -6,10 +6,10 @@ titleSlug: lin-hua-zuo
 author: 陳景元
 authorPinyin: chen2 jing3 yuan2
 authorSlug: chen-jing-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

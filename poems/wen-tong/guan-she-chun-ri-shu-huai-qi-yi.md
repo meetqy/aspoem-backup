@@ -1,14 +1,14 @@
 ---
 id: wen-tong-guan-she-chun-ri-shu-huai-qi-yi
-title: 官舍春日書懷・其一
-titlePinyin: guan1 she4 chun1 ri4 shu1 huai2・qi2 yi1
+title: 官舍春日書懷  其一
+titlePinyin: guan1 she4 chun1 ri4 shu1 huai2     qi2 yi1
 titleSlug: guan-she-chun-ri-shu-huai-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,26 +1,26 @@
 ---
 id: chen-zao-fang-ling-shi-shou-qi-yi
-title: 房陵十首  其一
-titlePinyin: fang2 ling2 shi2 shou3     qi2 yi1
+title: 房陵十首  其一○
+titlePinyin: fang2 ling2 shi2 shou3     qi2 yi1 ○
 titleSlug: fang-ling-shi-shou-qi-yi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 似聞僊伯厭乘龍，常混紅塵市井中。
-- 覿面未須趄避我，褰衣無計 {⻊叉} 尋公。
+- 翁媼同圍老瓦盆，倒篘新酒雜清渾。
+- 枧南枧北皆春社，且放烏犍卧晏溫。
 
 ## 拼音
 
-- si4 wen2 xian1 bo2 yan4 cheng2 long2 ， chang2 hun4 hong2 chen2 shi4 jing3 zhong1 。
-- di2 mian4 wei4 xu1 ju1 bi4 wo3 ， qian1 yi1 wu2 ji4  {⻊ cha1 }  xun2 gong1 。
+- weng1 ao3 tong2 wei2 lao3 wa3 pen2 ， dao3 chou1 xin1 jiu3 za2 qing1 hun2 。
+- jian3 nan2 jian3 bei3 jie1 chun1 she4 ， qie3 fang4 wu1 jian1 wo4 yan4 wen1 。
 
 ## 注释
 

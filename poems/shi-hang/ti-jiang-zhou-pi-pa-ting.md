@@ -6,10 +6,10 @@ titleSlug: ti-jiang-zhou-pi-pa-ting
 author: 史沆
 authorPinyin: shi3 hang4
 authorSlug: shi-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

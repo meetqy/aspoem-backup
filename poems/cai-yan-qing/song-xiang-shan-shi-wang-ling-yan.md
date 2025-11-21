@@ -6,10 +6,10 @@ titleSlug: song-xiang-shan-shi-wang-ling-yan
 author: 蔡延慶
 authorPinyin: cai4 yan2 qing4
 authorSlug: cai-yan-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

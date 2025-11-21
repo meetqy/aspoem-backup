@@ -6,9 +6,9 @@ titleSlug: wen-you-you-cai-shi-yuan-kan-mu-dan-shi-xi-zuo-yi-jue-cheng-ji-chang
 author: 傅察
 authorPinyin: fu4 cha2
 authorSlug: fu-cha
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

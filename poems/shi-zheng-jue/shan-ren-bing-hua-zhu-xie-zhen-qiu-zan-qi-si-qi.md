@@ -1,32 +1,32 @@
 ---
 id: shi-zheng-jue-shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-qi
-title: 禪人并化主寫真求贊  其四七
-titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 qi1
+title: 禪人并化主寫真求贊  其四○七
+titlePinyin: shan4 ren2 bing4 hua4 zhu3 xie3 zhen1 qiu2 zan4     qi2 si4 ○ qi1
 titleSlug: shan-ren-bing-hua-zhu-xie-zhen-qiu-zan-qi-si-qi
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 似則不是，是則不似。
-- 動兮行雲，靜兮止水。
-- 能隨緣，不墮類。
-- 百草頭上老僧，二儀已前自己。
-- 莫將此箇形骸，枉挂他人唇齒。
+- 湛乎性源，遊乎度門。
+- 動靜出礙，方圓不痕。
+- 寒木得春晚，雪窗亡夜昏。
+- 通塞也虛離實坎，變化也連乾斷坤。
+- 六和合而無功兮脫略三千之界，萬差別而有據兮齊承一點之恩。
 
 ## 拼音
 
-- si4 ze2 bu2 shi4 ， shi4 ze2 bu2 si4 。
-- dong4 xi1 xing2 yun2 ， jing4 xi1 zhi3 shui3 。
-- neng2 sui2 yuan2 ， bu2 duo4 lei4 。
-- bai3 cao3 tou2 shang4 lao3 seng1 ， er4 yi2 yi3 qian2 zi4 ji3 。
-- mo4 jiang1 ci3 ge4 xing2 hai2 ， wang3 gua4 ta1 ren2 chun2 chi3 。
+- zhan4 hu1 xing4 yuan2 ， you2 hu1 du4 men2 。
+- dong4 jing4 chu1 ai4 ， fang1 yuan2 bu4 hen2 。
+- han2 mu4 de2 chun1 wan3 ， xue3 chuang1 wang2 ye4 hun1 。
+- tong1 sai1 ye3 xu1 li2 shi2 kan3 ， bian4 hua4 ye3 lian2 qian2 duan4 kun1 。
+- liu4 he2 he2 er2 wu2 gong1 xi1 tuo1 lüe4 san1 qian1 zhi1 jie4 ， wan4 cha4 bie2 er2 you3 ju4 xi1 qi2 cheng2 yi4 dian3 zhi1 en1 。
 
 ## 注释
 

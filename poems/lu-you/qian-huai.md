@@ -6,25 +6,25 @@ titleSlug: qian-huai
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 許國區區不自勝，秋風空羨下鞲鷹。
-- 青雲夜嘆初心誤，白髮朝看一倍增。
-- 積憤有時歌易水，孤忠無路哭昭陵。
-- 頭顱自揣今如此，尚欲閑尋紫閣僧。
+- 寬袂新裁大布裘，低篷初買小漁舟。
+- 舊交只有青山在，壯志皆因白髮休。
+- 漫道卧羆吞貉子，安能淅米向矛頭。
+- 山園芋栗秋方熟，一飽今知本易謀。
 
 ## 拼音
 
-- xu1 guo2 qu1 qu1 bu2 zi4 sheng4 ， qiu1 feng1 kong1 xian4 xia4 gou1 ying1 。
-- qing1 yun2 ye4 tan4 chu1 xin1 wu4 ， bai2 fa4 chao2 kan4 yi2 bei4 zeng1 。
-- ji1 fen4 you3 shi2 ge1 yi4 shui3 ， gu1 zhong1 wu2 lu4 ku1 zhao1 ling2 。
-- tou2 lu2 zi4 chuai1 jin1 ru2 ci3 ， shang4 yu4 xian2 xun2 zi3 ge2 seng1 。
+- kuan1 mei4 xin1 cai2 da4 bu4 qiu2 ， di1 peng2 chu1 mai3 xiao3 yu2 zhou1 。
+- jiu4 jiao1 zhi3 you3 qing1 shan1 zai4 ， zhuang4 zhi4 jie1 yin1 bai2 fa4 xiu1 。
+- man4 dao4 wo4 pi2 tun1 hao2 zi0 ， an1 neng2 xi1 mi3 xiang4 mao2 tou2 。
+- shan1 yuan2 yu4 li4 qiu1 fang1 shu2 ， yi4 bao3 jin1 zhi1 ben3 yi4 mou2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: tang-shi-chi-shang-yu-cui-sheng-chen-tang-lu-shi-zhang-qi-yi
-title: 上余倅生辰唐律十章  其一
-titlePinyin: shang4 yu2 cui4 sheng1 chen2 tang2 lü4 shi2 zhang1     qi2 yi1
+title: 上余倅生辰唐律十章  其一○
+titlePinyin: shang4 yu2 cui4 sheng1 chen2 tang2 lü4 shi2 zhang1     qi2 yi1 ○
 titleSlug: shang-yu-cui-sheng-chen-tang-lu-shi-zhang-qi-yi
 author: 唐士恥
 authorPinyin: tang2 shi4 chi3
 authorSlug: tang-shi-chi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暫握侯章乘五馬，馬頭秋色轉分明。
-- 麻源起應精純禱，一雨增添玉宇清。
+- 亭亭采棒足流傳，太末官勳壓此年。
+- 感德銜恩知有自，定應亦致爛柯僊。
 
 ## 拼音
 
-- zan4 wo4 hou2 zhang1 cheng2 wu3 ma3 ， ma3 tou2 qiu1 se4 zhuan3 fen1 ming2 。
-- ma2 yuan2 qi3 ying1 jing1 chun2 dao3 ， yi4 yu3 zeng1 tian1 yu4 yu3 qing1 。
+- ting2 ting2 cai3 bang4 zu2 liu2 chuan2 ， tai4 mo4 guan1 xun1 ya1 ci3 nian2 。
+- gan3 de2 xian2 en1 zhi1 you3 zi4 ， ding4 ying1 yi4 zhi4 lan4 ke1 xian1 。
 
 ## 注释
 

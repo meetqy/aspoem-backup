@@ -6,10 +6,10 @@ titleSlug: ti-lan-ting-tie
 author: 趙彥衛
 authorPinyin: zhao4 yan4 wei4
 authorSlug: zhao-yan-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

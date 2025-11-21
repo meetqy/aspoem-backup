@@ -6,10 +6,10 @@ titleSlug: ti-ming-fu-fa-tang-bi
 author: 雲章真人
 authorPinyin: yun2 zhang1 zhen1 ren2
 authorSlug: yun-zhang-zhen-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

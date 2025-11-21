@@ -6,25 +6,21 @@ titleSlug: xin-qing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 宿雨解殘雪，新春侵故年。
-- 和風拆冰罅，淡日弄窗妍。
-- 心事綠尊裏，歲華烏帽邊。
-- 今朝我病减，隨處一欣然。
+- 雨葉玲瓏曉日明，經旬風雨得初晴。
+- 欹眠歇盡人間念，時聽幽禽一兩聲。
 
 ## 拼音
 
-- su4 yu3 jie3 can2 xue3 ， xin1 chun1 qin1 gu4 nian2 。
-- he2 feng1 chai1 bing1 xia4 ， dan4 ri4 nong4 chuang1 yan2 。
-- xin1 shi4 lü4 zun1 li3 ， sui4 hua2 wu1 mao4 bian1 。
-- jin1 zhao1 wo3 bing4 jian3 ， sui2 chu3 yi4 xin1 ran2 。
+- yu3 ye4 ling2 long2 xiao3 ri4 ming2 ， jing1 xun2 feng1 yu3 de2 chu1 qing2 。
+- qi1 mian2 xie1 jin4 ren2 jian4 nian4 ， shi2 ting1 you1 qin2 yi4 liang3 sheng1 。
 
 ## 注释
 

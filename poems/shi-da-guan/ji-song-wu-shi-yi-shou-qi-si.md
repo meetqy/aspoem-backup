@@ -1,28 +1,28 @@
 ---
 id: shi-da-guan-ji-song-wu-shi-yi-shou-qi-si
-title: 偈頌五十一首  其四
-titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 si4
+title: 偈頌五十一首  其四○
+titlePinyin: ji4 song4 wu3 shi2 yi4 shou3     qi2 si4 ○
 titleSlug: ji-song-wu-shi-yi-shou-qi-si
 author: 釋大觀
 authorPinyin: shi4 da4 guan1
 authorSlug: shi-da-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 覓之不得，不覓奚彰。
-- 戳瞎頂門，煒煒煌煌。
-- 桑疇雨過羅紈膩，麥壟風來餠餌香。
+- 衆毛成毬，衆水成流。
+- 衆人成市，衆土成丘。
+- 育王聚衆作夏，今夏東州，明夏西州。
 
 ## 拼音
 
-- mi4 zhi1 bu4 de2 ， bu2 mi4 xi1 zhang1 。
-- chuo1 xia1 ding3 men2 ， wei3 wei3 huang2 huang2 。
-- sang1 chou2 yu3 guo4 luo2 wan2 ni4 ， mai4 long3 feng1 lai2 bing3 er3 xiang1 。
+- zhong4 mao2 cheng2 qiu2 ， zhong4 shui3 cheng2 liu2 。
+- zhong4 ren2 cheng2 shi4 ， zhong4 tu3 cheng2 qiu1 。
+- yu4 wang2 ju4 zhong4 zuo4 xia4 ， jin1 xia4 dong1 zhou1 ， ming2 xia4 xi1 zhou1 。
 
 ## 注释
 

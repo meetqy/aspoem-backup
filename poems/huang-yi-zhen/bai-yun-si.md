@@ -6,10 +6,10 @@ titleSlug: bai-yun-si
 author: 黄義貞
 authorPinyin: huang2 yi4 zhen1
 authorSlug: huang-yi-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

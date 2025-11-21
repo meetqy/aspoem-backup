@@ -6,10 +6,10 @@ titleSlug: deng-fu-feng-wang-zong-yuan-shan-ting
 author: 黄庶
 authorPinyin: huang2 shu4
 authorSlug: huang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

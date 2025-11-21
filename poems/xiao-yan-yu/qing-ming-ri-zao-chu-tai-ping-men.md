@@ -6,10 +6,10 @@ titleSlug: qing-ming-ri-zao-chu-tai-ping-men
 author: 蕭彥毓
 authorPinyin: xiao1 yan4 yu4
 authorSlug: xiao-yan-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

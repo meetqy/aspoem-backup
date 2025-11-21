@@ -6,10 +6,10 @@ titleSlug: ci-yun-mu-fu-xiong-jian-ji
 author: 錢龢
 authorPinyin: qian2 he2
 authorSlug: qian-he
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

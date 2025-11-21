@@ -6,10 +6,10 @@ titleSlug: liu-pi-ti-bi
 author: 葉三英
 authorPinyin: ye4 san1 ying1
 authorSlug: ye-san-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

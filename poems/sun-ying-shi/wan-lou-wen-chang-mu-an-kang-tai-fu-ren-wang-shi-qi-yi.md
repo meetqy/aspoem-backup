@@ -6,10 +6,10 @@ titleSlug: wan-lou-wen-chang-mu-an-kang-tai-fu-ren-wang-shi-qi-yi
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

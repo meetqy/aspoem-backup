@@ -6,10 +6,10 @@ titleSlug: diao-yu-hu-mu-zai-mo-ling
 author: 沈端節
 authorPinyin: shen3 duan1 jie2
 authorSlug: shen-duan-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

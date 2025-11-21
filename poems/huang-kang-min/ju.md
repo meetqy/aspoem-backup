@@ -6,10 +6,10 @@ titleSlug: ju
 author: 黄康民
 authorPinyin: huang2 kang1 min2
 authorSlug: huang-kang-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

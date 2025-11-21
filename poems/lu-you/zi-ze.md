@@ -6,25 +6,25 @@ titleSlug: zi-ze
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 窮途敢恃舌猶存，小築城西十里村。
-- 未挂衣冠慚士節，免輸薪粲荷君恩。
-- 文章跌宕忘繩墨，學問荒唐失本原。
-- 仕宦一生成底事，子孫世世記吾言。
+- 晨起登堂正幅巾，蕭然聊欲養吾神。
+- 凡心未免更詩字，習氣猶思議古人。
+- 買屩爲登山寺去，徹燈緣愛月窗新。
+- 何時一切消除盡，終作無懷上古民。
 
 ## 拼音
 
-- qiong2 tu2 gan3 shi4 she2 you2 cun2 ， xiao3 zhu4 cheng2 xi1 shi2 li3 cun1 。
-- wei4 gua4 yi1 guan1 can2 shi4 jie2 ， mian3 shu1 xin1 can4 he2 jun1 en1 。
-- wen2 zhang1 die1 dang4 wang4 sheng2 mo4 ， xue2 wen4 huang1 tang2 shi1 ben3 yuan2 。
-- shi4 huan4 yi4 sheng1 cheng2 di3 shi4 ， zi3 sun1 shi4 shi4 ji4 wu2 yan2 。
+- chen2 qi3 deng1 tang2 zheng4 fu2 jin1 ， xiao1 ran2 liao2 yu4 yang3 wu2 shen2 。
+- fan2 xin1 wei4 mian3 geng4 shi1 zi4 ， xi2 qi4 you2 si1 yi4 gu3 ren2 。
+- mai3 jue1 wei2 deng1 shan1 si4 qu4 ， che4 deng1 yuan2 ai4 yue4 chuang1 xin1 。
+- he2 shi2 yi2 qie4 xiao1 chu2 jin4 ， zhong1 zuo4 wu2 huai2 shang4 gu3 min2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: cha-ling
 author: 陳中孚
 authorPinyin: chen2 zhong1 fu2
 authorSlug: chen-zhong-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

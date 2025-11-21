@@ -6,9 +6,9 @@ titleSlug: you-jian-hu-ren-shu-wei-li-yang-ling-zhe-ren-shu-yi-shi-song-zhi-ji-x
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 賤子何人記，迷芳著處家。
-- 竹風連野色，江沫擁春沙。
-- 種藥扶衰病，吟詩解歎嗟。
-- 似聞胡騎走，失喜問京華。
+- 江闊浮高棟，雲長出斷山。
+- 塵沙連越巂，風雨暗荆蠻。
+- 雁矯銜蘆內，猨啼失木間。
+- 弊裘蘇季子，歷國未知還。
 
 ## 拼音
 
-- jian4 zi3 he2 ren2 ji4 ， mi2 fang1 zhu4 chu3 jia1 。
-- zhu2 feng1 lian2 ye3 se4 ， jiang1 mo4 yong1 chun1 sha1 。
-- zhong3 yao4 fu2 shuai1 bing4 ， yin2 shi1 jie3 tan4 jie1 。
-- si4 wen2 hu2 qi2 zou3 ， shi1 xi3 wen4 jing1 hua2 。
+- jiang1 kuo4 fu2 gao1 dong4 ， yun2 chang2 chu1 duan4 shan1 。
+- chen2 sha1 lian2 yue4 xi1 ， feng1 yu3 an4 jing1 man2 。
+- yan4 jiao3 xian2 lu2 nei4 ， yuan2 ti2 shi1 mu4 jian4 。
+- bi4 qiu2 su1 ji4 zi0 ， li4 guo2 wei4 zhi1 huan2 。
 
 ## 注释
 

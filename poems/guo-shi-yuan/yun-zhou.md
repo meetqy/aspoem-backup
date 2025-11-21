@@ -6,10 +6,10 @@ titleSlug: yun-zhou
 author: 郭師元
 authorPinyin: guo1 shi1 yuan2
 authorSlug: guo-shi-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

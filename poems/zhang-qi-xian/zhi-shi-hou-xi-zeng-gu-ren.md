@@ -6,10 +6,10 @@ titleSlug: zhi-shi-hou-xi-zeng-gu-ren
 author: 張齊賢
 authorPinyin: zhang1 qi2 xian2
 authorSlug: zhang-qi-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: zhou-juan
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 愛日曛人欲睡昏，自勻嫩火炷爐薰。
-- 蜘蛛已去惟存網，猶罥窗間一隻蚊。
+- 睡眼䰒鬆倦日長，却拋詩卷步回廊。
+- 貍奴幸自雙雙戲，忽見人來走似獐。
 
 ## 拼音
 
-- ai4 ri4 xun1 ren2 yu4 shui4 hun1 ， zi4 yun2 nen4 huo3 zhu4 lu2 xun1 。
-- zhi1 zhu1 yi3 qu4 wei2 cun2 wang3 ， you2 juan4 chuang1 jian4 yi4 zhi1 wen2 。
+- shui4 yan3 䰒 song1 juan4 ri4 chang2 ， que4 pao1 shi1 juan4 bu4 hui2 lang2 。
+- li2 nu2 xing4 zi4 shuang1 shuang1 xi4 ， hu1 jian4 ren2 lai2 zou3 si4 zhang1 。
 
 ## 注释
 

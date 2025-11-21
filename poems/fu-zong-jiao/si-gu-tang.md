@@ -6,10 +6,10 @@ titleSlug: si-gu-tang
 author: 傅宗教
 authorPinyin: fu4 zong1 jiao4
 authorSlug: fu-zong-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

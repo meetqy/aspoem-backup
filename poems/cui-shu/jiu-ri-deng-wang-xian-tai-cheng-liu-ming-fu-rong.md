@@ -6,10 +6,10 @@ titleSlug: jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu-rong
 author: 崔曙
 authorPinyin: cui1 shu3
 authorSlug: cui-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

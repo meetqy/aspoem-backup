@@ -6,10 +6,10 @@ titleSlug: mu-chun-you-huo-xing-yan-tong-yin-zhan-lian-ju
 author: 柳拱辰
 authorPinyin: liu3 gong3 chen2
 authorSlug: liu-gong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

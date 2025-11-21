@@ -6,10 +6,10 @@ titleSlug: gong-jin-du-zong-huang-di-wan-ci-qi-er
 author: 馬廷鸞
 authorPinyin: ma3 ting2 luan2
 authorSlug: ma-ting-luan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

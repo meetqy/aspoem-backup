@@ -6,10 +6,10 @@ titleSlug: ju
 author: 邊惇德
 authorPinyin: bian1 dun1 de2
 authorSlug: bian-dun-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

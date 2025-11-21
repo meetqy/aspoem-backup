@@ -6,9 +6,9 @@ titleSlug: jin-lin-yan-hui-zhi-shen
 author: 潘慎修
 authorPinyin: pan1 shen4 xiu1
 authorSlug: pan-shen-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: li-jiao-lu
-title: 露
+title: 鹿
 titlePinyin: lu4
 titleSlug: lu
 author: 李嶠
@@ -9,22 +9,22 @@ authorSlug: li-jiao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 滴瀝明花苑，葳蕤泫竹叢。
-- 玉垂丹棘上，珠湛綠荷中。
-- 夜警千年鶴，朝零七月風。
-- 願凝仙掌內，長奉未央宮。
+- 涿鹿聞中冀，秦原闢帝畿。
+- 柰花開舊苑，萍葉藹前詩。
+- 道士乘仙日，先生折角時。
+- 方懷丈夫志，抗首別心期。
 
 ## 拼音
 
-- di1 li4 ming2 hua1 yuan4 ， wei1 rui2 xuan4 zhu2 cong2 。
-- yu4 chui2 dan1 ji2 shang4 ， zhu1 zhan4 lü4 he2 zhong1 。
-- ye4 jing3 qian1 nian2 he4 ， chao2 ling2 qi1 yue4 feng1 。
-- yuan4 ning2 xian1 zhang3 nei4 ， chang2 feng4 wei4 yang1 gong1 。
+- zhuo1 lu4 wen2 zhong1 ji4 ， qin2 yuan2 pi4 di4 ji1 。
+- nai4 hua1 kai1 jiu4 yuan4 ， ping2 ye4 ai3 qian2 shi1 。
+- dao4 shi0 cheng2 xian1 ri4 ， xian1 sheng0 zhe2 jiao3 shi2 。
+- fang1 huai2 zhang4 fu0 zhi4 ， kang4 shou3 bie2 xin1 qi1 。
 
 ## 注释
 

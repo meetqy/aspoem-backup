@@ -6,10 +6,10 @@ titleSlug: ju
 author: 時定欽
 authorPinyin: shi2 ding4 qin1
 authorSlug: shi-ding-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

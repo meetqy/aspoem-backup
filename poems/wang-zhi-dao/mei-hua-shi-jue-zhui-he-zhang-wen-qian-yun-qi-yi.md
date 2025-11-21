@@ -1,26 +1,26 @@
 ---
 id: wang-zhi-dao-mei-hua-shi-jue-zhui-he-zhang-wen-qian-yun-qi-yi
-title: 梅花十絕追和張文潛韵  其一
-titlePinyin: mei2 hua1 shi2 jue2 zhui1 he2 zhang1 wen2 qian2 yun4     qi2 yi1
+title: 梅花十絕追和張文潛韵  其一○
+titlePinyin: mei2 hua1 shi2 jue2 zhui1 he2 zhang1 wen2 qian2 yun4     qi2 yi1 ○
 titleSlug: mei-hua-shi-jue-zhui-he-zhang-wen-qian-yun-qi-yi
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 額黄肌粉鬬新粧，春入園林度暗香。
-- 留滯江南歸未得，一枝聊復沃愁腸。
+- 花前傾步濺狂瀾，花外扶疏竹數竿。
+- 带雪精神清更好，冰肌元慣朔風寒。
 
 ## 拼音
 
-- e2 huang2 ji1 fen3 dou4 xin1 zhuang1 ， chun1 ru4 yuan2 lin2 du4 an4 xiang1 。
-- liu2 zhi4 jiang1 nan2 gui1 wei4 de2 ， yi4 zhi1 liao2 fu4 wo4 chou2 chang2 。
+- hua1 qian2 qing1 bu4 jian4 kuang2 lan2 ， hua1 wai4 fu2 shu1 zhu2 shu4 gan1 。
+- dai4 xue3 jing1 shen2 qing1 geng4 hao3 ， bing1 ji1 yuan2 guan4 shuo4 feng1 han2 。
 
 ## 注释
 

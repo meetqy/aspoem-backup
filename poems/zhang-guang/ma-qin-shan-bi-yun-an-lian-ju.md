@@ -6,10 +6,10 @@ titleSlug: ma-qin-shan-bi-yun-an-lian-ju
 author: 張光
 authorPinyin: zhang1 guang1
 authorSlug: zhang-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

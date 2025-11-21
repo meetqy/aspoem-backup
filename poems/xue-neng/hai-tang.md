@@ -9,34 +9,24 @@ authorSlug: xue-neng
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 酷烈復離披，玄功莫我知。
-- 青苔浮落處，暮柳間開時。
-- 帶醉遊人插，連陰被叟移。
-- 晨前清露濕，晏後惡風吹。
-- 香少傳何許，妍多畫半遺。
-- 島蘇漣水脉，庭綻粒松枝。
-- 偶汎因沈硯，閑飄欲亂碁。
-- 遶山生玉壘，和郡徧坤維。
-- 負賞慙休飲，牽吟分失飢。
-- 明年應不見，留此贈巴兒。
+- 四海應無蜀海棠，一時開處一城香。
+- 晴來使府低臨檻，雨後人家散出墻。
+- 閑地細飄浮淨蘚，短亭深綻隔垂楊。
+- 從來看盡詩誰苦，不及歡遊與畫將。
+- （同前）。
 
 ## 拼音
 
-- ku4 lie4 fu4 li2 pi1 ， xuan2 gong1 mo4 wo3 zhi1 。
-- qing1 tai2 fu2 luo4 chu3 ， mu4 liu3 jian4 kai1 shi2 。
-- dai4 zui4 you2 ren2 cha1 ， lian2 yin1 bei4 sou3 yi2 。
-- chen2 qian2 qing1 lu4 shi1 ， yan4 hou4 e4 feng1 chui1 。
-- xiang1 shao3 chuan2 he2 xu1 ， yan2 duo1 hua4 ban4 yi2 。
-- dao3 su1 lian2 shui3 mai4 ， ting2 zhan4 li4 song1 zhi1 。
-- ou3 fan4 yin1 shen3 yan4 ， xian2 piao1 yu4 luan4 qi2 。
-- rao4 shan1 sheng1 yu4 lei3 ， he2 jun4 bian4 kun1 wei2 。
-- fu4 shang3 can2 xiu1 yin3 ， qian1 yin2 fen1 shi1 ji1 。
-- ming2 nian2 ying1 bu2 jian4 ， liu2 ci3 zeng4 ba1 er2 。
+- si4 hai3 ying1 wu2 shu3 hai3 tang2 ， yi4 shi2 kai1 chu3 yi4 cheng2 xiang1 。
+- qing2 lai2 shi3 fu3 di1 lin2 jian4 ， yu3 hou4 ren2 jia1 san4 chu1 qiang2 。
+- xian2 di4 xi4 piao1 fu2 jing4 xian3 ， duan3 ting2 shen1 zhan4 ge2 chui2 yang2 。
+- cong2 lai2 kan4 jin4 shi1 shui2 ku3 ， bu4 ji2 huan1 you2 yu3 hua4 jiang1 。
+- （ tong2 qian2 ）。
 
 ## 注释
 

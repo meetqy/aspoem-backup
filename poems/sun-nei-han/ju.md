@@ -6,10 +6,10 @@ titleSlug: ju
 author: 孫內翰
 authorPinyin: sun1 nei4 han4
 authorSlug: sun-nei-han
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

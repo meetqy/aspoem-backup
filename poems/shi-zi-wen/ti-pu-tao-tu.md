@@ -6,10 +6,10 @@ titleSlug: ti-pu-tao-tu
 author: 釋子溫
 authorPinyin: shi4 zi3 wen1
 authorSlug: shi-zi-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

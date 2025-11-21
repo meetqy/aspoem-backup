@@ -6,21 +6,21 @@ titleSlug: tong-guan-xu-zhi-zhang-she-ba-pian-qi-qi
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少時常是出無輿，徒步徐行亦當車。
-- 近日堪嗟隨俗變，便無人與也騎馿。
+- 絹帛鮮華由染工，紅花紫草遂收功。
+- 若教明眼人猜破，始信浮生色是空。
 
 ## 拼音
 
-- shao3 shi2 chang2 shi4 chu1 wu2 yu2 ， tu2 bu4 xu2 hang2 yi4 dang1 ju1 。
-- jin4 ri4 kan1 jie1 sui2 su2 bian4 ， bian4 wu2 ren2 yu3 ye3 qi2 lu2 。
+- juan4 bo2 xian1 hua2 you2 ran3 gong1 ， hong2 hua1 zi3 cao3 sui4 shou1 gong1 。
+- ruo4 jiao4 ming2 yan3 ren2 cai1 po4 ， shi3 xin4 fu2 sheng1 se4 shi4 kong1 。
 
 ## 注释
 

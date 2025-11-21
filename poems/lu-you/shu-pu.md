@@ -6,33 +6,25 @@ titleSlug: shu-pu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山翁老學圃，自笑一何愚。
-- 磽瘠財三畝，勤劬賴兩奴。
-- 正方畦畫局，微潤土融酥。
-- 翦闢荆榛盡，鉏犁磊塊無。
-- 過溝横略彴，聚甓起浮屠。
-- 隙地成瓜援，餘功及芋區。
-- 如絲細生菜，似鴨爛蒸壺。
-- 此事今真辦，東歸不爲鱸。
+- 蔬圃依山脚，漁扉竝水涯。
+- 卧枝開野菊，殘枿出秋茶。
+- 病骨知天色，羈懷感物華。
+- 餘年有幾許，且灌邵平瓜。
 
 ## 拼音
 
-- shan1 weng1 lao3 xue2 pu3 ， zi4 xiao4 yi4 he2 yu2 。
-- qiao1 ji2 cai2 san1 mu3 ， qin2 qu2 lai4 liang3 nu2 。
-- zheng4 fang1 qi2 hua4 ju2 ， wei1 run4 tu3 rong2 su1 。
-- jian3 pi4 jing1 zhen1 jin4 ， chu2 li2 lei3 kuai4 wu2 。
-- guo4 gou1 heng2 lüe4 zhuo2 ， ju4 pi4 qi3 fu2 tu2 。
-- xi4 di4 cheng2 gua1 yuan2 ， yu2 gong1 ji2 yu4 qu1 。
-- ru2 si1 xi4 sheng1 cai4 ， si4 ya1 lan4 zheng1 hu2 。
-- ci3 shi4 jin1 zhen1 ban4 ， dong1 gui1 bu4 wei2 lu2 。
+- shu1 pu3 yi1 shan1 jiao3 ， yu2 fei1 bing4 shui3 ya2 。
+- wo4 zhi1 kai1 ye3 ju2 ， can2 nie4 chu1 qiu1 cha2 。
+- bing4 gu3 zhi1 tian1 se4 ， ji1 huai2 gan3 wu4 hua2 。
+- yu2 nian2 you3 ji1 xu1 ， qie3 guan4 shao4 ping2 gua1 。
 
 ## 注释
 

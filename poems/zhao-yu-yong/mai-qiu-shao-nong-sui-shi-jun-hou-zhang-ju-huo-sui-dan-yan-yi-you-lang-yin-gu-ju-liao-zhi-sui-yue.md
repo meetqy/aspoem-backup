@@ -6,10 +6,10 @@ titleSlug: mai-qiu-shao-nong-sui-shi-jun-hou-zhang-ju-huo-sui-dan-yan-yi-you-lan
 author: 趙與泳
 authorPinyin: zhao4 yu3 yong3
 authorSlug: zhao-yu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

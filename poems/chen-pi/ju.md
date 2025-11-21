@@ -6,10 +6,10 @@ titleSlug: ju
 author: 陳丕
 authorPinyin: chen2 pi1
 authorSlug: chen-pi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

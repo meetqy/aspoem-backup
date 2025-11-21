@@ -6,25 +6,25 @@ titleSlug: zi-shu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 藜藿安貧陋，柴荆俯莽蒼。
-- 露蓍朝筮易，掃地晝焚香。
-- 美睡天教懶，長歌客恕狂。
-- 歡然送餘日，醉死亦何傷。
+- 勃落爲衣隱薜蘿，掃空塵抱養天和。
+- 過期未死更强健，與世不諧猶嘯歌。
+- 野市蕭條殘葉滿，酒家零落廢壚多。
+- 石帆山下孤舟雨，借問君如此老何。
 
 ## 拼音
 
-- li2 huo4 an1 pin2 lou4 ， chai2 jing1 fu3 mang3 cang1 。
-- lu4 shi1 chao2 shi4 yi4 ， sao3 di4 zhou4 fen2 xiang1 。
-- mei3 shui4 tian1 jiao4 lan3 ， chang2 ge1 ke4 shu4 kuang2 。
-- huan1 ran2 song4 yu2 ri4 ， zui4 si3 yi4 he2 shang1 。
+- bo2 luo4 wei2 yi1 yin3 bi4 luo2 ， sao3 kong1 chen2 bao4 yang3 tian1 he2 。
+- guo4 qi1 wei4 si3 geng4 qiang2 jian4 ， yu3 shi4 bu4 xie2 you2 xiao4 ge1 。
+- ye3 shi4 xiao1 tiao2 can2 ye4 man3 ， jiu3 jia1 ling2 luo4 fei4 lu2 duo1 。
+- shi2 fan1 shan1 xia4 gu1 zhou1 yu3 ， jie4 wen4 jun1 ru2 ci3 lao3 he2 。
 
 ## 注释
 

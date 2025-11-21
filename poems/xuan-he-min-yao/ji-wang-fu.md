@@ -6,10 +6,10 @@ titleSlug: ji-wang-fu
 author: 宣和民謠
 authorPinyin: xuan1 he2 min2 yao2
 authorSlug: xuan-he-min-yao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

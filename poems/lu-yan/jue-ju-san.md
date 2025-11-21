@@ -9,18 +9,18 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 混元海底隱生倫，內有黃童玉帝名。
-- 白虎神符潛姹女，靈元鎮在七元君。
+- 或爲道士或爲僧，混俗和光別有能。
+- 苦海翻成天上路，毘盧常照百千燈。
 
 ## 拼音
 
-- hun4 yuan2 hai3 di3 yin3 sheng1 lun2 ， nei4 you3 huang2 tong2 yu4 di4 ming2 。
-- bai2 hu3 shen2 fu2 qian2 cha4 nü3 ， ling2 yuan2 zhen4 zai4 qi1 yuan2 jun1 。
+- huo4 wei2 dao4 shi0 huo4 wei2 seng1 ， hun4 su2 he2 guang1 bie2 you3 neng2 。
+- ku3 hai3 fan1 cheng2 tian1 shang4 lu4 ， pi2 lu2 chang2 zhao4 bai3 qian1 deng1 。
 
 ## 注释
 

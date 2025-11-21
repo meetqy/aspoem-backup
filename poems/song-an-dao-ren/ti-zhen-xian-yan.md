@@ -6,10 +6,10 @@ titleSlug: ti-zhen-xian-yan
 author: 松庵道人
 authorPinyin: song1 an1 dao4 ren2
 authorSlug: song-an-dao-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

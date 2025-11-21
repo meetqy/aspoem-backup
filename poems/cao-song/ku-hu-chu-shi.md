@@ -9,22 +9,22 @@ authorSlug: cao-song
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 故人江閣在，重到事悠悠。
-- 無爾向潭上，爲吾傾甕頭。
-- 空餘赤楓葉，墮落釣魚舟。
-- 疑是沖虛去，不爲天地囚。
+- 丘中久不起，將謂詔書來。
+- 及見凌雲說，方知掩夜臺。
+- 白衣歸北路，玄造亦遺才。
+- 世上亡君後，詩聲更大哉。
 
 ## 拼音
 
-- gu4 ren2 jiang1 ge2 zai4 ， zhong4 dao4 shi4 you1 you1 。
-- wu2 er3 xiang4 tan2 shang4 ， wei2 wu2 qing1 weng4 tou2 。
-- kong1 yu2 chi4 feng1 ye4 ， duo4 luo4 diao4 yu2 zhou1 。
-- yi2 shi4 chong1 xu1 qu4 ， bu4 wei2 tian1 di4 qiu2 。
+- qiu1 zhong1 jiu3 bu4 qi3 ， jiang1 wei4 zhao4 shu1 lai2 。
+- ji2 jian4 ling2 yun2 shuo1 ， fang1 zhi1 yan3 ye4 tai2 。
+- bai2 yi1 gui1 bei3 lu4 ， xuan2 zao4 yi4 yi2 cai2 。
+- shi4 shang4 wang2 jun1 hou4 ， shi1 sheng1 geng4 da4 zai1 。
 
 ## 注释
 

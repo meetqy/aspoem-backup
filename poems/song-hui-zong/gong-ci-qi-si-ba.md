@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-si-ba
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 水晶新製寶巵成，冰潔無瑕瑩玉明。
-- 醉捧纖纖飛大白，是娥端望月輪平。
+- 雲華重輯疊層峰，寶構高驤萃彩虹。
+- 環碧對池臨翠圃，一溝春水遠相通。
 
 ## 拼音
 
-- shui3 jing1 xin1 zhi4 bao3 zhi1 cheng2 ， bing1 jie2 wu2 xia2 ying2 yu4 ming2 。
-- zui4 peng3 xian1 xian1 fei1 da4 bai2 ， shi4 e2 duan1 wang4 yue4 lun2 ping2 。
+- yun2 hua2 zhong4 ji2 die2 ceng2 feng1 ， bao3 gou4 gao1 xiang1 cui4 cai3 hong2 。
+- huan2 bi4 dui4 chi2 lin2 cui4 pu3 ， yi4 gou1 chun1 shui3 yuan3 xiang1 tong1 。
 
 ## 注释
 

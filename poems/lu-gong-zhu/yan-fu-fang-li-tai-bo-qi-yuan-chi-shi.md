@@ -6,10 +6,10 @@ titleSlug: yan-fu-fang-li-tai-bo-qi-yuan-chi-shi
 author: 呂公著
 authorPinyin: lü3 gong1 zhu4
 authorSlug: lu-gong-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

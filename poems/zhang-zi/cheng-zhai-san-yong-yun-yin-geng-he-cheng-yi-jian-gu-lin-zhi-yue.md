@@ -6,10 +6,10 @@ titleSlug: cheng-zhai-san-yong-yun-yin-geng-he-cheng-yi-jian-gu-lin-zhi-yue
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

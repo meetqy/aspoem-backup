@@ -6,21 +6,21 @@ titleSlug: jue-ju
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 日炙櫻桃已半紅，更薰花氣滿襟風。
-- 路傍謁舍蹲遺獸，應有荒墳在麥中。
+- 犖確南山路，叢筠冒水生。
+- 寒梅銷落盡，猶有數花明。
 
 ## 拼音
 
-- ri4 zhi4 ying1 tao2 yi3 ban4 hong2 ， geng4 xun1 hua1 qi4 man3 jin1 feng1 。
-- lu4 bang4 ye4 she4 dun1 yi2 shou4 ， ying1 you3 huang1 fen2 zai4 mai4 zhong1 。
+- luo4 que4 nan2 shan1 lu4 ， cong2 yun2 mao4 shui3 sheng1 。
+- han2 mei2 xiao1 luo4 jin4 ， you2 you3 shu4 hua1 ming2 。
 
 ## 注释
 

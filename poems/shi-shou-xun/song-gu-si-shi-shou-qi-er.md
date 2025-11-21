@@ -1,30 +1,30 @@
 ---
 id: shi-shou-xun-song-gu-si-shi-shou-qi-er
-title: 頌古四十首  其二
-titlePinyin: song4 gu3 si4 shi2 shou3     qi2 er4
+title: 頌古四十首  其二○
+titlePinyin: song4 gu3 si4 shi2 shou3     qi2 er4 ○
 titleSlug: song-gu-si-shi-shou-qi-er
 author: 釋守珣
 authorPinyin: shi4 shou3 xun2
 authorSlug: shi-shou-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 瞿罷身心如泥，女子肝腸似鐵。
-- 文殊貪尋鍋子，罔明由來著楔。
-- 歷觀大地衆生，不解閉門作活。
-- 不動干戈建太平，雨過青山如黛潑。
+- 紅輪決定沉西去，未委魂靈往那方。
+- 踏得故鄉田地穩，本來面目露堂堂。
+- 人只在，不曾亡。
+- 率陀天上非人世，須知別有好商量。
 
 ## 拼音
 
-- qu2 ba4 shen1 xin1 ru2 ni2 ， nü3 zi3 gan1 chang2 si4 tie3 。
-- wen2 shu1 tan1 xun2 guo1 zi3 ， wang3 ming2 you2 lai2 zhu4 xie1 。
-- li4 guan1 da4 di4 zhong4 sheng1 ， bu4 jie3 bi4 men2 zuo4 huo2 。
-- bu2 dong4 gan1 ge1 jian4 tai4 ping2 ， yu3 guo4 qing1 shan1 ru2 dai4 po1 。
+- hong2 lun2 jue2 ding4 chen2 xi1 qu4 ， wei4 wei3 hun2 ling2 wang3 na4 fang1 。
+- ta4 de2 gu4 xiang1 tian2 di4 wen3 ， ben3 lai2 mian4 mu4 lu4 tang2 tang2 。
+- ren2 zhi1 zai4 ， bu4 ceng2 wang2 。
+- lü4 tuo2 tian1 shang4 fei1 ren2 shi4 ， xu1 zhi1 bie2 you3 hao3 shang1 liang0 。
 
 ## 注释
 

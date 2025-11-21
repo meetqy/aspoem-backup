@@ -6,10 +6,10 @@ titleSlug: wang-nian-yin-du-yue-wang-chuan-chang-wei-zhi-fu-jin-guo-dong-lin-du-
 author: 黄文雷
 authorPinyin: huang2 wen2 lei2
 authorSlug: huang-wen-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

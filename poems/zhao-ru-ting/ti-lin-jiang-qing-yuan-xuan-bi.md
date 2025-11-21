@@ -6,10 +6,10 @@ titleSlug: ti-lin-jiang-qing-yuan-xuan-bi
 author: 趙汝鋌
 authorPinyin: zhao4 ru3 ting3
 authorSlug: zhao-ru-ting
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

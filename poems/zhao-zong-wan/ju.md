@@ -6,10 +6,10 @@ titleSlug: ju
 author: 趙宗萬
 authorPinyin: zhao4 zong1 wan4
 authorSlug: zhao-zong-wan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

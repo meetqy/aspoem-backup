@@ -6,10 +6,10 @@ titleSlug: wan-he-jing-xian-sheng-shi-san-shou-qi-yi
 author: 呂稽中
 authorPinyin: lü3 ji1 zhong1
 authorSlug: lu-ji-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,32 +1,30 @@
 ---
 id: shi-zheng-jue-song-gu-yi-bai-ze-qi-er
-title: 頌古一百則  其二
-titlePinyin: song4 gu3 yi4 bai3 ze2     qi2 er4
+title: 頌古一百則  其二○
+titlePinyin: song4 gu3 yi4 bai3 ze2     qi2 er4 ○
 titleSlug: song-gu-yi-bai-ze-qi-er
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 廓然無聖，來機徑挺。
-- 得非犯鼻而揮斤，失不回頭而墮甑。
-- 寥寥冷坐少林，默默全提正令。
-- 秋清月轉霜輪，河淡斗垂夜柄。
-- 繩繩衣鉢付兒孫，從此人天成藥病。
+- 而今參飽似當時，脫盡廉纖到不知。
+- 任短任長休剪綴，隨高隨下自平持。
+- 家門豐儉臨時用，田地優遊信步移。
+- 三十年前行脚事，分明辜負一雙眉。
 
 ## 拼音
 
-- kuo4 ran2 wu2 sheng4 ， lai2 ji1 jing4 ting3 。
-- de2 fei1 fan4 bi2 er2 hui1 jin1 ， shi1 bu4 hui2 tou2 er2 duo4 zeng4 。
-- liao2 liao2 leng3 zuo4 shao4 lin2 ， mo4 mo4 quan2 ti2 zheng4 ling4 。
-- qiu1 qing1 yue4 zhuan3 shuang1 lun2 ， he2 dan4 dou4 chui2 ye4 bing3 。
-- sheng2 sheng2 yi1 bo1 fu4 er2 sun1 ， cong2 ci3 ren2 tian1 cheng2 yao4 bing4 。
+- er2 jin1 can1 bao3 si4 dang1 shi2 ， tuo1 jin4 lian2 xian1 dao4 bu4 zhi1 。
+- ren4 duan3 ren4 chang2 xiu1 jian3 zhui4 ， sui2 gao1 sui2 xia4 zi4 ping2 chi2 。
+- jia1 men2 feng1 jian3 lin2 shi2 yong4 ， tian2 di4 you1 you2 xin4 bu4 yi2 。
+- san1 shi2 nian2 qian2 xing2 jiao3 shi4 ， fen1 ming2 gu1 fu4 yi4 shuang1 mei2 。
 
 ## 注释
 

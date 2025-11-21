@@ -6,10 +6,10 @@ titleSlug: ji-chen-pin-jun-ti-chang
 author: 釋有需
 authorPinyin: shi4 you3 xu1
 authorSlug: shi-you-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

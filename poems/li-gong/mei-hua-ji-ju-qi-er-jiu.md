@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-er-jiu
-title: 梅花集句  其二九
-titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 jiu3
+title: 梅花集句  其二○九
+titlePinyin: mei2 hua1 ji2 ju4     qi2 er4 ○ jiu3
 titleSlug: mei-hua-ji-ju-qi-er-jiu
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不論朝暮带輕煙，錯向春風恨杜鵑。
-- 楊柳枝頭風料峭，爲君醉倒燭花前。
+- 雪消春力展，林雪似芳菲。
+- 獨映孤松色，煩君問是非。
 
 ## 拼音
 
-- bu2 lun4 chao2 mu4 dai4 qing1 yan1 ， cuo4 xiang4 chun1 feng1 hen4 du4 jian1 。
-- yang2 liu3 zhi1 tou2 feng1 liao4 qiao4 ， wei2 jun1 zui4 dao3 zhu2 hua1 qian2 。
+- xue3 xiao1 chun1 li4 zhan3 ， lin2 xue3 si4 fang1 fei1 。
+- du2 ying4 gu1 song1 se4 ， fan2 jun1 wen4 shi4 fei1 。
 
 ## 注释
 

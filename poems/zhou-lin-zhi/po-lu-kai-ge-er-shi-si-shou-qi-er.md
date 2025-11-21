@@ -1,26 +1,26 @@
 ---
 id: zhou-lin-zhi-po-lu-kai-ge-er-shi-si-shou-qi-er
-title: 破虜凱歌二十四首  其二
-titlePinyin: po4 lu3 kai3 ge1 er4 shi2 si4 shou3     qi2 er4
+title: 破虜凱歌二十四首  其二○
+titlePinyin: po4 lu3 kai3 ge1 er4 shi2 si4 shou3     qi2 er4 ○
 titleSlug: po-lu-kai-ge-er-shi-si-shou-qi-er
 author: 周麟之
 authorPinyin: zhou1 lin2 zhi1
 authorSlug: zhou-lin-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 采石江頭萬鼓鼙，祭天臺上手揮旗。
-- 坐驅朔馬爲魚鼈，笑殺江南踏浪兒。
+- 昨從北邙山下過，旋移狼纛駐雞籠。
+- 此身已是鄰尸冢，又欲飛投鼎鑊中。
 
 ## 拼音
 
-- cai3 shi2 jiang1 tou2 wan4 gu3 pi2 ， ji4 tian1 tai2 shang4 shou3 hui1 qi2 。
-- zuo4 qu1 shuo4 ma3 wei2 yu2 bie1 ， xiao4 sha1 jiang1 nan2 ta4 lang4 er2 。
+- zuo2 cong2 bei3 mang2 shan1 xia4 guo4 ， xuan2 yi2 lang2 dao4 zhu4 ji1 long2 。
+- ci3 shen1 yi3 shi4 lin2 shi1 zhong3 ， you4 yu4 fei1 tou2 ding3 huo4 zhong1 。
 
 ## 注释
 

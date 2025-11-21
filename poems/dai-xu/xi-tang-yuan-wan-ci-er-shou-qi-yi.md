@@ -6,10 +6,10 @@ titleSlug: xi-tang-yuan-wan-ci-er-shou-qi-yi
 author: 戴栩
 authorPinyin: dai4 xu3
 authorSlug: dai-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

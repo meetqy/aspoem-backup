@@ -6,10 +6,10 @@ titleSlug: chong-xu-guan
 author: 單縣君
 authorPinyin: dan1 xian4 jun1
 authorSlug: dan-xian-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

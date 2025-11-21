@@ -6,10 +6,10 @@ titleSlug: you-bao-ying-si-fen-yong-gu-ji-tan-de-yan-lu-gong-jie-tan-bei-yi-tan-
 author: 謝逸
 authorPinyin: xie4 yi4
 authorSlug: xie-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

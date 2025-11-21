@@ -6,9 +6,9 @@ titleSlug: xuan-he-wu-nian-er-yue-chu-jiu-ri-ou-shu-cheng-ru-gong-miao-kong-shan
 author: 朱濟道
 authorPinyin: zhu1 ji4 dao4
 authorSlug: zhu-ji-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

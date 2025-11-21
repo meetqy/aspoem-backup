@@ -1,26 +1,26 @@
 ---
 id: zhang-gong-xiang-gong-ci-qi-yi
-title: 宮詞  其一
-titlePinyin: gong1 ci2     qi2 yi1
+title: 宮詞  其一○○
+titlePinyin: gong1 ci2     qi2 yi1 ○ ○
 titleSlug: gong-ci-qi-yi
 author: 張公庠
 authorPinyin: zhang1 gong1 xiang2
 authorSlug: zhang-gong-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 學士經筵論古今，花塼日上兩三尋。
-- 天顔有喜人知否，認得唐虞用意深。
+- 朝退人歸亞禁扃，金吾收仗暫縱橫。
+- 諸郎入省鳴騶鬧，低帽揚鞭一字行。
 
 ## 拼音
 
-- xue2 shi4 jing1 yan2 lun4 gu3 jin1 ， hua1 zhuan1 ri4 shang4 liang3 san1 xun2 。
-- tian1 yan2 you3 xi3 ren2 zhi1 fou3 ， ren4 de2 tang2 yu2 yong4 yi4 shen1 。
+- chao2 tui4 ren2 gui1 ya1 jin4 jiong1 ， jin1 wu2 shou1 zhang4 zan4 zong4 heng2 。
+- zhu1 lang2 ru4 sheng3 ming2 zou1 nao4 ， di1 mao4 yang2 bian1 yi2 zi4 xing2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju-qi-er
 author: 鞏豐
 authorPinyin: gong3 feng1
 authorSlug: gong-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

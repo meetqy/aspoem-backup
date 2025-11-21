@@ -1,26 +1,26 @@
 ---
 id: lu-you-gui-tang-za-xing-shi-shou-qi-yi
-title: 龜堂雜興十首  其一
-titlePinyin: gui1 tang2 za2 xing1 shi2 shou3     qi2 yi1
+title: 龜堂雜興十首  其一○
+titlePinyin: gui1 tang2 za2 xing1 shi2 shou3     qi2 yi1 ○
 titleSlug: gui-tang-za-xing-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝來地碓玉新舂，雞蹠豚肩異味重。
-- 便腹摩挲更無事，老人又過一年冬。
+- 散樸澆淳萬事新，腐儒空有涕沾巾。
+- 唐虞不是終難致，自欠皋夔一輩人。
 
 ## 拼音
 
-- chao2 lai2 di4 dui4 yu4 xin1 chong1 ， ji1 zhi2 tun2 jian1 yi4 wei4 zhong4 。
-- bian4 fu4 mo2 suo1 geng4 wu2 shi4 ， lao3 ren2 you4 guo4 yi4 nian2 dong1 。
+- san4 pu3 jiao1 chun2 wan4 shi4 xin1 ， fu3 ru2 kong1 you3 ti4 zhan1 jin1 。
+- tang2 yu2 bu2 shi4 zhong1 nan2 zhi4 ， zi4 qian4 gao1 kui2 yi2 bei4 ren2 。
 
 ## 注释
 

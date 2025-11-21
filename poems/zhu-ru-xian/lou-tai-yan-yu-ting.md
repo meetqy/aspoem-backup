@@ -6,10 +6,10 @@ titleSlug: lou-tai-yan-yu-ting
 author: 朱汝賢
 authorPinyin: zhu1 ru3 xian2
 authorSlug: zhu-ru-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

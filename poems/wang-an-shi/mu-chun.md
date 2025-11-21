@@ -6,25 +6,21 @@ titleSlug: mu-chun
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春期行晼晚，春意剩芳菲。
-- 曲水應修禊，披香未試衣。
-- 雨花紅半墮，煙樹碧相依。
-- 悵望夢中地，王孫底不歸。
+- 芙蕖的歷抽新葉，苜蓿闌干放晚花。
+- 白下門東春已老，莫嗔楊柳可藏鴉。
 
 ## 拼音
 
-- chun1 qi1 xing2 wan3 wan3 ， chun1 yi4 sheng4 fang1 fei1 。
-- qu1 shui3 ying1 xiu1 xi4 ， pi1 xiang1 wei4 shi4 yi1 。
-- yu3 hua1 hong2 ban4 duo4 ， yan1 shu4 bi4 xiang1 yi1 。
-- chang4 wang4 meng4 zhong1 di4 ， wang2 sun1 di3 bu4 gui1 。
+- fu2 qu2 de0 li4 chou1 xin1 ye4 ， mu4 xu0 lan2 gan1 fang4 wan3 hua1 。
+- bai2 xia4 men2 dong1 chun1 yi3 lao3 ， mo4 chen1 yang2 liu3 ke3 cang2 ya1 。
 
 ## 注释
 

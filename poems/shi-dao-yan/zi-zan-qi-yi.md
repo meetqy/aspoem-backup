@@ -6,9 +6,9 @@ titleSlug: zi-zan-qi-yi
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

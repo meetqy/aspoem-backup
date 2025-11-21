@@ -1,26 +1,26 @@
 ---
 id: zheng-xia-man-cheng
-title: 謾成
-titlePinyin: man2 cheng2
+title: 漫成
+titlePinyin: man4 cheng2
 titleSlug: man-cheng
 author: 鄭俠
 authorPinyin: zheng4 xia2
 authorSlug: zheng-xia
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 琴雖古意元無取，詩近虗名亦懶吟。
-- 不是將心就無事，都緣無事可關心。
+- 風送微涼來小戶，月回清影向疏窗。
+- 不知人世何珍麗，可與詩書氣味雙。
 
 ## 拼音
 
-- qin2 sui1 gu3 yi4 yuan2 wu2 qu3 ， shi1 jin4 xu1 ming2 yi4 lan3 yin2 。
-- bu2 shi4 jiang1 xin1 jiu4 wu2 shi4 ， dou1 yuan2 wu2 shi4 ke3 guan1 xin1 。
+- feng1 song4 wei1 liang2 lai2 xiao3 hu4 ， yue4 hui2 qing1 ying3 xiang4 shu1 chuang1 。
+- bu4 zhi1 ren2 shi4 he2 zhen1 li2 ， ke3 yu3 shi1 shu1 qi4 wei4 shuang1 。
 
 ## 注释
 

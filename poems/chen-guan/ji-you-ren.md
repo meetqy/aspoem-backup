@@ -3,28 +3,28 @@ id: chen-guan-ji-you-ren
 title: 寄友人
 titlePinyin: ji4 you3 ren2
 titleSlug: ji-you-ren
-author: 陳觀
-authorPinyin: chen2 guan1
+author: 陳瓘
+authorPinyin: chen2 guan4
 authorSlug: chen-guan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 廢書開復卷，寧與世浮沉。
-- 萬事自有分，一生閑用心。
-- 天寒快征馬，日暮急歸禽。
-- 多少隆中客，空爲抱膝吟。
+- 行人征轡路西東，霜葉翩翩舞亂紅。
+- 曉色冥朦溪浸月，陰容黯澹馬嘶風。
+- 浮生信若萍隨浪，遠意徒驚鳥在籠。
+- 萬事欲窮須握手，尺書相問愧匆匆。
 
 ## 拼音
 
-- fei4 shu1 kai1 fu4 juan4 ， ning2 yu3 shi4 fu2 chen2 。
-- wan4 shi4 zi4 you3 fen1 ， yi4 sheng1 xian2 yong4 xin1 。
-- tian1 han2 kuai4 zheng1 ma3 ， ri4 mu4 ji2 gui1 qin2 。
-- duo1 shao3 long2 zhong1 ke4 ， kong1 wei2 bao4 xi1 yin2 。
+- xing2 ren2 zheng1 pei4 lu4 xi1 dong1 ， shuang1 ye4 pian1 pian1 wu3 luan4 hong2 。
+- xiao3 se4 ming2 meng2 xi1 jin4 yue4 ， yin1 rong2 an4 dan4 ma3 si1 feng1 。
+- fu2 sheng1 xin4 ruo4 ping2 sui2 lang4 ， yuan3 yi4 tu2 jing1 niao3 zai4 long2 。
+- wan4 shi4 yu4 qiong2 xu1 wo4 shou3 ， chi3 shu1 xiang1 wen4 kui4 cong1 cong1 。
 
 ## 注释
 

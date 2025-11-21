@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-su-miao-ting-guan-ci-dong-po-jiu-yun-qi-yi
-title: 宿妙庭觀次東坡舊韻・其一
-titlePinyin: su4 miao4 ting2 guan1 ci4 dong1 po1 jiu4 yun4・qi2 yi1
+title: 宿妙庭觀次東坡舊韻  其一
+titlePinyin: su4 miao4 ting2 guan1 ci4 dong1 po1 jiu4 yun4     qi2 yi1
 titleSlug: su-miao-ting-guan-ci-dong-po-jiu-yun-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

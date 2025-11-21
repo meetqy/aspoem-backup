@@ -1,26 +1,26 @@
 ---
 id: liu-ke-zhuang-za-ti-shi-shou-qi-yi
-title: 雜題十首  其一
-titlePinyin: za2 ti2 shi2 shou3     qi2 yi1
+title: 雜題十首  其一○
+titlePinyin: za2 ti2 shi2 shou3     qi2 yi1 ○
 titleSlug: za-ti-shi-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雞絮交懽遠，琵琶寄恨深。
-- 早知胡地冷，永巷亦甘心。
+- 劉季開基主，周昌託子臣。
+- 不能活如意，何况戚夫人。
 
 ## 拼音
 
-- ji1 xu4 jiao1 huan1 yuan3 ， pi2 pa0 ji4 hen4 shen1 。
-- zao3 zhi1 hu2 di4 leng3 ， yong3 xiang4 yi4 gan1 xin1 。
+- liu2 ji4 kai1 ji1 zhu3 ， zhou1 chang1 tuo1 zi3 chen2 。
+- bu4 neng2 huo2 ru2 yi4 ， he2 kuang4 qi1 fu1 ren2 。
 
 ## 注释
 

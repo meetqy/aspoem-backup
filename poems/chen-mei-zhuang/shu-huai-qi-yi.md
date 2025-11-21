@@ -6,10 +6,10 @@ titleSlug: shu-huai-qi-yi
 author: 陳梅莊
 authorPinyin: chen2 mei2 zhuang1
 authorSlug: chen-mei-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

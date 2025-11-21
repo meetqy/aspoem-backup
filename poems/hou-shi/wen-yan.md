@@ -6,10 +6,10 @@ titleSlug: wen-yan
 author: 侯氏
 authorPinyin: hou2 shi4
 authorSlug: hou-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

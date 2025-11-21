@@ -6,10 +6,10 @@ titleSlug: yi-kuang-shan
 author: 俞躍龍
 authorPinyin: yu2 yue4 long2
 authorSlug: yu-yue-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

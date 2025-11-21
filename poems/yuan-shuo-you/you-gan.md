@@ -6,25 +6,21 @@ titleSlug: you-gan
 author: 袁說友
 authorPinyin: yuan2 shuo1 you3
 authorSlug: yuan-shuo-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萬事緣憎愛，孤衷只惷愚。
-- 歸與乖俗好，老矣誤時須。
-- 舉世沖霄鵠，何人濫吹竽。
-- 窮通一不問，無復鬼揶揄。
+- 半生宦海幾途窮，歲晚扁舟繫此中。
+- 料得江神知我意，明朝好贈一帆風。
 
 ## 拼音
 
-- wan4 shi4 yuan2 zeng1 ai4 ， gu1 zhong1 zhi1 chun3 yu2 。
-- gui1 yu3 guai1 su2 hao3 ， lao3 yi3 wu4 shi2 xu1 。
-- ju3 shi4 chong1 xiao1 hu2 ， he2 ren2 lan4 chui1 yu2 。
-- qiong2 tong1 yi2 bu2 wen4 ， wu2 fu4 gui3 ye2 yu2 。
+- ban4 sheng1 huan4 hai3 ji1 tu2 qiong2 ， sui4 wan3 pian1 zhou1 xi4 ci3 zhong1 。
+- liao4 de2 jiang1 shen2 zhi1 wo3 yi4 ， ming2 chao2 hao3 zeng4 yi4 fan1 feng1 。
 
 ## 注释
 

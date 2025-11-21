@@ -6,25 +6,25 @@ titleSlug: fang-yin-zhe
 author: 葉紹翁
 authorPinyin: ye4 shao4 weng1
 authorSlug: ye-shao-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不作王門夢，來敲隠者關。
-- 童先孤鶴化，雲伴一身閑。
-- 礙笋新移路，低牆爲看山。
-- 幾回松下去，鋤得茯苓還。
+- 開門迎客着山袍，井畔獼猴一樹桃。
+- 兒向草間尋落果，妻從牆角過香醪。
+- 舊栽松子今能大，新起茅堂不甚高。
+- 歷遍貴遊無此味，韭和春雨笋和糟。
 
 ## 拼音
 
-- bu2 zuo4 wang2 men2 meng4 ， lai2 qiao1 yin3 zhe3 guan1 。
-- tong2 xian1 gu1 he4 hua4 ， yun2 ban4 yi4 shen1 xian2 。
-- ai4 sun3 xin1 yi2 lu4 ， di1 qiang2 wei2 kan4 shan1 。
-- ji1 hui2 song1 xia4 qu4 ， chu2 de2 fu2 ling2 huan2 。
+- kai1 men2 ying2 ke4 zhe0 shan1 pao2 ， jing3 pan4 mi2 hou2 yi2 shu4 tao2 。
+- er2 xiang4 cao3 jian4 xun2 luo4 guo3 ， qi1 cong2 qiang2 jiao3 guo4 xiang1 lao2 。
+- jiu4 zai1 song1 zi3 jin1 neng2 da4 ， xin1 qi3 mao2 tang2 bu2 shen4 gao1 。
+- li4 bian4 gui4 you2 wu2 ci3 wei4 ， jiu3 he2 chun1 yu3 sun3 he2 zao1 。
 
 ## 注释
 

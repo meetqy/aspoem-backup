@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-jiu-wu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 殿省爰新六尚名，攸司遵職贊隆平。
-- 屢頒衎宴豐碑立，官屬同刊琬琰榮。
+- 夏日龍池小宴開，輕綃霧縠試新裁。
+- 酒闌齊逐採蓮去，隔浦鴛鴦箇箇猜。
 
 ## 拼音
 
-- dian4 sheng3 yuan2 xin1 liu4 shang4 ming2 ， you1 si1 zun1 zhi2 zan4 long2 ping2 。
-- lü3 ban1 kan4 yan4 feng1 bei1 li4 ， guan1 shu3 tong2 kan1 wan3 yan3 rong2 。
+- xia4 ri4 long2 chi2 xiao3 yan4 kai1 ， qing1 xiao1 wu4 hu2 shi4 xin1 cai2 。
+- jiu3 lan2 qi2 zhu2 cai3 lian2 qu4 ， ge2 pu3 yuan1 yang1 ge4 ge4 cai1 。
 
 ## 注释
 

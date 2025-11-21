@@ -6,23 +6,23 @@ titleSlug: bu-dai-zan-qi-san
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 杖挑布袋，冷笑誾誾。
-- 肚皮無窖，眼裏無筋，走長汀等個人。
-- 敗闕了也，賊精賊精。
+- 赤脚走紅塵，道是真彌勒。
+- 買弄臭皮囊，大地無人識。
+- 無人識，急急回頭，已遲八刻。
 
 ## 拼音
 
-- zhang4 tiao1 bu4 dai4 ， leng3 xiao4 yin2 yin2 。
-- du4 pi2 wu2 jiao4 ， yan3 li3 wu2 jin1 ， zou3 chang2 ting1 deng3 ge4 ren2 。
-- bai4 que4 le0 ye3 ， zei2 jing1 zei2 jing1 。
+- chi4 jiao3 zou3 hong2 chen2 ， dao4 shi4 zhen1 mi2 le4 。
+- mai3 nong4 chou4 pi2 nang2 ， da4 di4 wu2 ren2 shi2 。
+- wu2 ren2 shi2 ， ji2 ji2 hui2 tou2 ， yi3 chi2 ba1 ke4 。
 
 ## 注释
 

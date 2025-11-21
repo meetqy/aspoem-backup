@@ -1,26 +1,26 @@
 ---
 id: shi-sheng-song-gu-er-shi-si-shou-qi-yi
-title: 頌古二十四首  其一
-titlePinyin: song4 gu3 er4 shi2 si4 shou3     qi2 yi1
+title: 頌古二十四首  其一○
+titlePinyin: song4 gu3 er4 shi2 si4 shou3     qi2 yi1 ○
 titleSlug: song-gu-er-shi-si-shou-qi-yi
 author: 釋勝
 authorPinyin: shi4 sheng4
 authorSlug: shi-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 摩天鴆鳥九頭毒，護世那吒八臂長。
-- 水自竹邊流出冷，風從花裏過來香。
+- 問端如箭透垣牆，賴值靈雲手段長。
+- 駿馬蹇驢皆控勒，鞭教戰勝出沙場。
 
 ## 拼音
 
-- mo2 tian1 zhen4 niao3 jiu3 tou2 du2 ， hu4 shi4 na4 zha4 ba1 bi4 chang2 。
-- shui3 zi4 zhu2 bian1 liu2 chu1 leng3 ， feng1 cong2 hua1 li3 guo4 lai2 xiang1 。
+- wen4 duan1 ru2 jian4 tou4 yuan2 qiang2 ， lai4 zhi2 ling2 yun2 shou3 duan4 chang2 。
+- jun4 ma3 jian3 lü2 jie1 kong4 le4 ， bian1 jiao4 zhan4 sheng4 chu1 sha1 chang3 。
 
 ## 注释
 

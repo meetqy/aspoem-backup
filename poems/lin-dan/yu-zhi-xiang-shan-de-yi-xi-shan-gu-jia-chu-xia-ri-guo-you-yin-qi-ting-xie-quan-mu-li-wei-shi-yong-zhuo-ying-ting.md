@@ -6,10 +6,10 @@ titleSlug: yu-zhi-xiang-shan-de-yi-xi-shan-gu-jia-chu-xia-ri-guo-you-yin-qi-ting
 author: 林旦
 authorPinyin: lin2 dan4
 authorSlug: lin-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: dong-hu
 author: 李澤民
 authorPinyin: li3 ze2 min2
 authorSlug: li-ze-min
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

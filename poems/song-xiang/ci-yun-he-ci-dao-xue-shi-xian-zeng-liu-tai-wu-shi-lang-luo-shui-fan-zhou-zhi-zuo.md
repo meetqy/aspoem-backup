@@ -6,9 +6,9 @@ titleSlug: ci-yun-he-ci-dao-xue-shi-xian-zeng-liu-tai-wu-shi-lang-luo-shui-fan-z
 author: 宋庠
 authorPinyin: song4 xiang2
 authorSlug: song-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

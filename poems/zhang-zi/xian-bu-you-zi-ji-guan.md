@@ -6,25 +6,21 @@ titleSlug: xian-bu-you-zi-ji-guan
 author: 張鎡
 authorPinyin: zhang1 zi1
 authorSlug: zhang-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 青惜高杉覓望寬，仙廬幽占路紆盤。
-- 邊花製古裝門榜，老桂枝拳倚醮壇。
-- 顔色不同輕紫綬，精神常在慕黄冠。
-- 蜂巢蟻垤非吾樂，終買雲扃種朮餐。
+- 孤榜前春冰雪清，山祠閒步意無營。
+- 曾耽幽槩穿廊曲，猶記筠冠問客生。
 
 ## 拼音
 
-- qing1 xi1 gao1 shan1 mi4 wang4 kuan1 ， xian1 lu2 you1 zhan4 lu4 yu1 pan2 。
-- bian1 hua1 zhi4 gu3 zhuang1 men2 bang3 ， lao3 gui4 zhi1 quan2 yi3 jiao4 tan2 。
-- yan2 se4 bu4 tong2 qing1 zi3 shou4 ， jing1 shen2 chang2 zai4 mu4 huang2 guan1 。
-- feng1 chao2 yi3 die2 fei1 wu2 le4 ， zhong1 mai3 yun2 jiong1 zhong3 zhu2 can1 。
+- gu1 bang3 qian2 chun1 bing1 xue3 qing1 ， shan1 ci2 xian2 bu4 yi4 wu2 ying2 。
+- ceng2 dan1 you1 gai4 chuan1 lang2 qu3 ， you2 ji4 yun2 guan1 wen4 ke4 sheng1 。
 
 ## 注释
 

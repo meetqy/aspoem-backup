@@ -6,10 +6,10 @@ titleSlug: zhuo-ying-shi
 author: 吳朝奉
 authorPinyin: wu2 chao2 feng4
 authorSlug: wu-chao-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

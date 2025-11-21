@@ -6,10 +6,10 @@ titleSlug: song-wei-shan-xian-hua-shi-wang-yin-jing
 author: 韓駒
 authorPinyin: han2 ju1
 authorSlug: han-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

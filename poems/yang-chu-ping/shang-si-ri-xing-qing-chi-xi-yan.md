@@ -6,10 +6,10 @@ titleSlug: shang-si-ri-xing-qing-chi-xi-yan
 author: 楊初平
 authorPinyin: yang2 chu1 ping2
 authorSlug: yang-chu-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

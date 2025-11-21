@@ -6,10 +6,10 @@ titleSlug: xie-yi-zhong-hui-huang-ji-ku-sun-xin-cha-san-wu-shu-yi-qin-qu-yu-suo-
 author: 馮時行
 authorPinyin: feng2 shi2 xing2
 authorSlug: feng-shi-xing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

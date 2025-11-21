@@ -6,10 +6,10 @@ titleSlug: ji-ti-shou-shi-ta-nan-xuan
 author: 何昌弼
 authorPinyin: he2 chang1 bi4
 authorSlug: he-chang-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

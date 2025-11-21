@@ -9,24 +9,22 @@ authorSlug: pang-yun
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 身現凡夫事，內照自分明。
-- 三千大千界，滿中諸衆生。
-- 剎那造有業，了了總知情。
-- 納安芥子裏，稱爲無相經。
-- 常持人不識，念時無色聲。
+- 貝多葉裏優曇華，萬象皆如同一家。
+- 歡喜摘花不見菓，吉祥採菓不觀華。
+- 緣之本來元不識，法王呵之如稻麻。
+- 。
 
 ## 拼音
 
-- shen1 xian4 fan2 fu1 shi4 ， nei4 zhao4 zi4 fen1 ming2 。
-- san1 qian1 da4 qian1 jie4 ， man3 zhong1 zhu1 zhong4 sheng1 。
-- cha4 na4 zao4 you3 ye4 ， liao3 liao3 zong3 zhi1 qing2 。
-- na4 an1 jie4 zi3 li3 ， cheng1 wei2 wu2 xiang1 jing1 。
-- chang2 chi2 ren2 bu4 shi2 ， nian4 shi2 wu2 se4 sheng1 。
+- bei4 duo1 ye4 li3 you1 tan2 hua2 ， wan4 xiang4 jie1 ru2 tong2 yi4 jia1 。
+- huan1 xi3 zhai1 hua1 bu2 jian4 guo3 ， ji2 xiang2 cai3 guo3 bu4 guan1 hua2 。
+- yuan2 zhi1 ben3 lai2 yuan2 bu4 shi2 ， fa3 wang2 he1 zhi1 ru2 dao4 ma2 。
+- 。
 
 ## 注释
 

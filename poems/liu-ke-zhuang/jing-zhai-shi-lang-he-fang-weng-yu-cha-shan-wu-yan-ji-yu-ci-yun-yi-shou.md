@@ -6,10 +6,10 @@ titleSlug: jing-zhai-shi-lang-he-fang-weng-yu-cha-shan-wu-yan-ji-yu-ci-yun-yi-sh
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

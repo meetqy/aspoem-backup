@@ -6,10 +6,10 @@ titleSlug: gan-lu-yan
 author: 鄒恕
 authorPinyin: zou1 shu4
 authorSlug: zou-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

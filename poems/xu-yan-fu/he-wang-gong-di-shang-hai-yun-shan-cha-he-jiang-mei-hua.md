@@ -6,10 +6,10 @@ titleSlug: he-wang-gong-di-shang-hai-yun-shan-cha-he-jiang-mei-hua
 author: 徐彥孚
 authorPinyin: xu2 yan4 fu2
 authorSlug: xu-yan-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

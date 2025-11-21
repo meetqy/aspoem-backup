@@ -6,10 +6,10 @@ titleSlug: zhi-jian-hong-shi
 author: 黄鑄
 authorPinyin: huang2 zhu4
 authorSlug: huang-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: fu-du-you-mei-xuan-shi-juan-jin-fu-yi-pian-ji-cheng-bo-shi-ji-lu-er-x
 author: 朱熹
 authorPinyin: zhu1 xi1
 authorSlug: zhu-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

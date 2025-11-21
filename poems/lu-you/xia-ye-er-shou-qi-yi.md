@@ -6,25 +6,25 @@ titleSlug: xia-ye-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 露溼芙蕖冷，月明薝蔔香。
-- 殘醉吹欲無，颼颼髮根凉。
-- 豈惟棄世事，形影亦相忘。
-- 空憶南山下，新秋射虎場。
+- 鳴蜩斷復續，宿鳥久始安。
+- 觸熱汗沾衣，暮夜猶未乾。
+- 梧桐獨知秋，一葉墮井闌。
+- 行矣戒碪杵，四序環無端。
 
 ## 拼音
 
-- lu4 shi1 fu2 qu2 leng3 ， yue4 ming2 zhan1 bo0 xiang1 。
-- can2 zui4 chui1 yu4 wu2 ， sou1 sou1 fa4 gen1 liang2 。
-- qi3 wei2 qi4 shi4 shi4 ， xing2 ying3 yi4 xiang1 wang4 。
-- kong1 yi4 nan2 shan1 xia4 ， xin1 qiu1 she4 hu3 chang3 。
+- ming2 tiao2 duan4 fu4 xu4 ， su4 niao3 jiu3 shi3 an1 。
+- chu4 re4 han4 zhan1 yi1 ， mu4 ye4 you2 wei4 qian2 。
+- wu2 tong2 du2 zhi1 qiu1 ， yi2 ye4 duo4 jing3 lan2 。
+- xing2 yi3 jie4 zhen1 chu3 ， si4 xu4 huan2 wu2 duan1 。
 
 ## 注释
 

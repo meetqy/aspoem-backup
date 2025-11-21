@@ -6,9 +6,9 @@ titleSlug: jiao-nan-yuan-xi-shi-tao-li-jin-hua-jin-sui-you-ren-shen-sheng-shi-wa
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 張固
 authorPinyin: zhang1 gu4
 authorSlug: zhang-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

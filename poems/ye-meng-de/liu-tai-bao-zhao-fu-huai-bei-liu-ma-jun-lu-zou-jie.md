@@ -6,10 +6,10 @@ titleSlug: liu-tai-bao-zhao-fu-huai-bei-liu-ma-jun-lu-zou-jie
 author: 葉夢得
 authorPinyin: ye4 meng4 de2
 authorSlug: ye-meng-de
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-zhou-kai-zu-fu-hui-you-mei-tang-cheng-quan-fu-cha-yuan
 author: 韋驤
 authorPinyin: wei2 xiang1
 authorSlug: wei-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 先知左袒始同行，須待龍樓羽翼成。
-- 若使只憑三傑力，猶應漢鼎一毫輕。
+- 棋局長攜上釣船，殺中棋殺勝絲牽。
+- 洪鑪任鑄千鈞鼎，只在磻溪一縷懸。
 
 ## 拼音
 
-- xian1 zhi1 zuo3 tan3 shi3 tong2 hang2 ， xu1 dai4 long2 lou2 yu3 yi4 cheng2 。
-- ruo4 shi3 zhi1 ping2 san1 jie2 li4 ， you2 ying1 han4 ding3 yi4 hao2 qing1 。
+- qi2 ju2 chang2 xie2 shang4 diao4 chuan2 ， sha1 zhong1 qi2 sha1 sheng4 si1 qian1 。
+- hong2 lu2 ren4 zhu4 qian1 jun1 ding3 ， zhi1 zai4 pan2 xi1 yi4 lü3 xuan2 。
 
 ## 注释
 

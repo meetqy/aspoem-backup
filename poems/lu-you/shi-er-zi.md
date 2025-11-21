@@ -1,30 +1,30 @@
 ---
 id: lu-you-shi-er-zi
-title: 示兒子
-titlePinyin: shi4 er2 zi3
+title: 示二子
+titlePinyin: shi4 er4 zi3
 titleSlug: shi-er-zi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 父子扶攜返故鄉，欣然擊壤詠陶唐。
-- 墓前自誓寜非隘，澤畔行吟未免狂。
-- 雨潤北窗看洗竹，霜清南陌課剶桑。
-- 秋毫何者非君賜，回首修門敢遽忘。
+- 豈不懷榮畏友朋，一生凜凜蹈春冰。
+- 任真雖笑拘邊幅，達節寧容出準繩。
+- 自喜殘年如白傅，更憐諸子慕崔丞。
+- 耄期尚有江湖興，頑健人言見未曾。
 
 ## 拼音
 
-- fu4 zi3 fu2 xie2 fan3 gu4 xiang1 ， xin1 ran2 ji1 rang3 yong3 tao2 tang2 。
-- mu4 qian2 zi4 shi4 ning2 fei1 ai4 ， ze2 pan4 xing2 yin2 wei4 mian3 kuang2 。
-- yu3 run4 bei3 chuang1 kan4 xi3 zhu2 ， shuang1 qing1 nan2 mo4 ke4 chuan2 sang1 。
-- qiu1 hao2 he2 zhe3 fei1 jun1 ci4 ， hui2 shou3 xiu1 men2 gan3 ju4 wang4 。
+- qi3 bu4 huai2 rong2 wei4 you3 peng2 ， yi4 sheng1 lin3 lin3 dao3 chun1 bing1 。
+- ren4 zhen1 sui1 xiao4 ju1 bian1 fu2 ， da2 jie2 ning2 rong2 chu1 zhun3 sheng2 。
+- zi4 xi3 can2 nian2 ru2 bai2 fu4 ， geng4 lian2 zhu1 zi3 mu4 cui1 cheng2 。
+- mao4 qi1 shang4 you3 jiang1 hu2 xing1 ， wan2 jian4 ren2 yan2 jian4 wei4 ceng2 。
 
 ## 注释
 

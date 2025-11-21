@@ -6,21 +6,21 @@ titleSlug: ji-zhou-ji-qing-qi-er
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 四壁寒蛩已可憐，一庭風露轉凄然。
-- 杜陵便是歸來早，也有荒閒負郭田。
+- 懷土懷居小丈夫，首丘祇覺老心孤。
+- 須營浙右歸耕地，五福星明正照吳。
 
 ## 拼音
 
-- si4 bi4 han2 qiong2 yi3 ke3 lian2 ， yi4 ting2 feng1 lu4 zhuan3 qi1 ran2 。
-- du4 ling2 bian4 shi4 gui1 lai2 zao3 ， ye3 you3 huang1 xian2 fu4 guo1 tian2 。
+- huai2 tu3 huai2 ju1 xiao3 zhang4 fu0 ， shou3 qiu1 qi2 jue2 lao3 xin1 gu1 。
+- xu1 ying2 zhe4 you4 gui1 geng1 di4 ， wu3 fu2 xing1 ming2 zheng4 zhao4 wu2 。
 
 ## 注释
 

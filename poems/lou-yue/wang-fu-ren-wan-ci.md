@@ -6,25 +6,25 @@ titleSlug: wang-fu-ren-wan-ci
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 淑質依名士，身期百不憂。
-- 藁砧家萬里，蓬首日三秋。
-- 隨母傳遺業，嵇孤託舊游。
-- 幽原誦詩傳，無媿柏爲舟。
+- 婦德勝賢士，嫠居成大家。
+- 陰功宜有後，餘慶尚無涯。
+- 楊惲出司馬，陶潜傳孟嘉。
+- 文昌紀遺範，外氏倍增華。
 
 ## 拼音
 
-- shu1 zhi4 yi1 ming2 shi4 ， shen1 qi1 bai3 bu4 you1 。
-- gao3 zhen1 jia1 wan4 li3 ， peng2 shou3 ri4 san1 qiu1 。
-- sui2 mu3 chuan2 yi2 ye4 ， ji1 gu1 tuo1 jiu4 you2 。
-- you1 yuan2 song4 shi1 chuan2 ， wu2 kui4 bai3 wei2 zhou1 。
+- fu4 de2 sheng4 xian2 shi4 ， li2 ju1 cheng2 da4 jia1 。
+- yin1 gong1 yi2 you3 hou4 ， yu2 qing4 shang4 wu2 ya2 。
+- yang2 yun4 chu1 si1 ma3 ， tao2 qian2 chuan2 meng4 jia1 。
+- wen2 chang1 ji4 yi2 fan4 ， wai4 shi4 bei4 zeng1 hua2 。
 
 ## 注释
 

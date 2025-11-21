@@ -6,10 +6,10 @@ titleSlug: qing-yuan-san-nian-yi-zhi-shi-zhi-ling-ling-fang-dan-yan
 author: 俞徵
 authorPinyin: yu2 zhi3
 authorSlug: yu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

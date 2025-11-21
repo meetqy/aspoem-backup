@@ -6,10 +6,10 @@ titleSlug: he-yao-fu-xian-sheng-an-le-wo-zhong-hao-da-guai-yin
 author: 王拱辰
 authorPinyin: wang2 gong3 chen2
 authorSlug: wang-gong-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

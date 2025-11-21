@@ -1,28 +1,28 @@
 ---
 id: shi-zu-qin-ji-song-yi-bai-er-shi-san-shou-qi-yi-ba
-title: 偈頌一百二十三首  其一八
-titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ba1
+title: 偈頌一百二十三首  其一○八
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 yi1 ○ ba1
 titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-yi-ba
 author: 釋祖欽
 authorPinyin: shi4 zu3 qin1
 authorSlug: shi-zu-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秋風蕭蕭，夜雨飄飄。
-- 孤峰絕頂，轉見寂寥。
-- 曠劫前頭時節，看來不異今朝。
+- 動絃別曲，葉落知秋。
+- 大千沙界，一舉全收。
+- 一毛頭上師子，示現百億毛頭。
 
 ## 拼音
 
-- qiu1 feng1 xiao1 xiao1 ， ye4 yu3 piao1 piao1 。
-- gu1 feng1 jue2 ding3 ， zhuan3 jian4 ji4 liao2 。
-- kuang4 jie2 qian2 tou2 shi2 jie2 ， kan4 lai2 bu2 yi4 jin1 zhao1 。
+- dong4 xian2 bie2 qu3 ， ye4 luo4 zhi1 qiu1 。
+- da4 qian1 sha1 jie4 ， yi4 ju3 quan2 shou1 。
+- yi4 mao2 tou2 shang4 shi1 zi3 ， shi4 xian4 bai3 yi4 mao2 tou2 。
 
 ## 注释
 

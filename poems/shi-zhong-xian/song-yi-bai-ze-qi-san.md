@@ -1,28 +1,26 @@
 ---
 id: shi-zhong-xian-song-yi-bai-ze-qi-san
-title: 頌一百則  其三
-titlePinyin: song4 yi4 bai3 ze2     qi2 san1
+title: 頌一百則  其三○
+titlePinyin: song4 yi4 bai3 ze2     qi2 san1 ○
 titleSlug: song-yi-bai-ze-qi-san
 author: 釋重顯
 authorPinyin: shi4 zhong4 xian3
 authorSlug: shi-zhong-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 日面佛，月面佛，五帝三皇是何物。
-- 二十年來曾苦辛，爲君幾下蒼龍窟。
-- 屈堪述明眼，衲僧莫輕忽。
+- 劫火光中立問端，衲僧猶滯兩重關。
+- 可憐一句隨他語，萬里區區獨往還。
 
 ## 拼音
 
-- ri4 mian4 fo2 ， yue4 mian4 fo2 ， wu3 di4 san1 huang2 shi4 he2 wu4 。
-- er4 shi2 nian2 lai2 ceng2 ku3 xin1 ， wei2 jun1 ji1 xia4 cang1 long2 ku1 。
-- qu1 kan1 shu4 ming2 yan3 ， na4 seng1 mo4 qing1 hu1 。
+- jie2 huo3 guang1 zhong1 li4 wen4 duan1 ， na4 seng1 you2 zhi4 liang3 zhong4 guan1 。
+- ke3 lian2 yi2 ju4 sui2 ta1 yu3 ， wan4 li3 qu1 qu1 du2 wang3 huan2 。
 
 ## 注释
 

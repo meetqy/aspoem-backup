@@ -6,10 +6,10 @@ titleSlug: mi-chuang
 author: 周獻甫
 authorPinyin: zhou1 xian4 fu3
 authorSlug: zhou-xian-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,6 +1,6 @@
 ---
 id: liu-jian-zhong-xia-zhou-wo
-title: 中夏晝卧
+title: 中夏晝臥
 titlePinyin: zhong1 xia4 zhou4 wo4
 titleSlug: zhong-xia-zhou-wo
 author: 劉兼
@@ -14,8 +14,8 @@ tags: []
 
 ## 正文
 
-- 寂寂無憀九夏中，傍簷依壁待清風。
-- 壯圖奇策無人問，不及南陽一卧龍。
+- 寂寂無聊九夏中，傍簷依壁待清風。
+- 壯圖奇策無人問，不及南陽一臥龍。
 
 ## 拼音
 

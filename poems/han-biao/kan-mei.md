@@ -6,25 +6,21 @@ titleSlug: kan-mei
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小園春早喜梅開，煙斂風回月色來。
-- 香細靜知宜竹樹，影孤清與散莓苔。
-- 幽幽山嘴疎鐘韵，耿耿樓頭畫角哀。
-- 自笑年年被花惱，十分情味爲銜盃。
+- 竹籬圍著一株梅，不道青春昨夜回。
+- 繁蘂嫩條花萼底，也須知我有詩來。
 
 ## 拼音
 
-- xiao3 yuan2 chun1 zao3 xi3 mei2 kai1 ， yan1 lian3 feng1 hui2 yue4 se4 lai2 。
-- xiang1 xi4 jing4 zhi1 yi2 zhu2 shu4 ， ying3 gu1 qing1 yu3 san4 mei2 tai2 。
-- you1 you1 shan1 zui3 shu1 zhong1 yun4 ， geng3 geng3 lou2 tou2 hua4 jiao3 ai1 。
-- zi4 xiao4 nian2 nian2 bei4 hua1 nao3 ， shi2 fen1 qing2 wei4 wei2 xian2 bei1 。
+- zhu2 li2 wei2 zhu4 yi4 zhu1 mei2 ， bu2 dao4 qing1 chun1 zuo2 ye4 hui2 。
+- fan2 rui3 nen4 tiao2 hua1 e4 di3 ， ye3 xu1 zhi1 wo3 you3 shi1 lai2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: ai-xing-fu-zhui-he-hui-an-xian-sheng-shi-mei-yun-qi-yi
-title: 追和晦庵先生十梅韻  其一
-titlePinyin: zhui1 he2 hui4 an1 xian1 sheng0 shi2 mei2 yun4     qi2 yi1
+title: 追和晦庵先生十梅韻  其一○
+titlePinyin: zhui1 he2 hui4 an1 xian1 sheng0 shi2 mei2 yun4     qi2 yi1 ○
 titleSlug: zhui-he-hui-an-xian-sheng-shi-mei-yun-qi-yi
 author: 艾性夫
 authorPinyin: ai4 xing4 fu1
 authorSlug: ai-xing-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 貞姿抱冰雪，粲粲楚江濱。
-- 照水淡寒影，寄人生遠春。
+- 東風捲晴雪，山意頗空寂。
+- 掃花歸作飯，豫當調鼎實。
 
 ## 拼音
 
-- zhen1 zi1 bao4 bing1 xue3 ， can4 can4 chu3 jiang1 bin1 。
-- zhao4 shui3 dan4 han2 ying3 ， ji4 ren2 sheng1 yuan3 chun1 。
+- dong1 feng1 juan3 qing2 xue3 ， shan1 yi4 po1 kong1 ji4 。
+- sao3 hua1 gui1 zuo4 fan4 ， yu4 dang1 diao4 ding3 shi2 。
 
 ## 注释
 

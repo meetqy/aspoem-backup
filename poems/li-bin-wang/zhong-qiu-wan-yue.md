@@ -6,10 +6,10 @@ titleSlug: zhong-qiu-wan-yue
 author: 李賓王
 authorPinyin: li3 bin1 wang2
 authorSlug: li-bin-wang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

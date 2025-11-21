@@ -6,21 +6,21 @@ titleSlug: ji-shi-qi-si
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 百色無厭不可支，甘心賣國問爲誰。
-- 豺狼尚畏忠臣在，相戒勿令丞相知。
+- 麟筆嚴於首惡書，我將口舌擊奸諛。
+- 雖非周勃安劉手，不愧當年産祿誅。
 
 ## 拼音
 
-- bai3 se4 wu2 yan4 bu4 ke3 zhi1 ， gan1 xin1 mai4 guo2 wen4 wei2 shui2 。
-- chai2 lang2 shang4 wei4 zhong1 chen2 zai4 ， xiang1 jie4 wu4 ling4 cheng2 xiang4 zhi1 。
+- lin2 bi3 yan2 wu1 shou3 e4 shu1 ， wo3 jiang1 kou3 she2 ji1 jian1 yu2 。
+- sui1 fei1 zhou1 bo2 an1 liu2 shou3 ， bu2 kui4 dang1 nian2 chan3 lu4 zhu1 。
 
 ## 注释
 

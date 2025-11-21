@@ -6,10 +6,10 @@ titleSlug: luo-han-si-qi-er
 author: 韓舜卿
 authorPinyin: han2 shun4 qing1
 authorSlug: han-shun-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

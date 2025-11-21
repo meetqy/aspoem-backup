@@ -6,10 +6,10 @@ titleSlug: ji-zhang-chi
 author: 紹聖時人
 authorPinyin: shao4 sheng4 shi2 ren2
 authorSlug: shao-sheng-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

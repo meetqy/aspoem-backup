@@ -6,10 +6,10 @@ titleSlug: bang-jie-hui-yan-zhi-mo-san-wu-jin-cheng-gu-ti-shi-yi-shou-shang-xie
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

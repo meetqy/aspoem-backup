@@ -16,11 +16,15 @@ tags: []
 
 - 紀南南望水城寬，水色天光混一般。
 - 大抵江鄉足詩景，詠吟如把畫圖看。
+- （見《輿地紀勝》卷六五《江陵府》。
+- ）。
 
 ## 拼音
 
 - ji4 nan2 nan2 wang4 shui3 cheng2 kuan1 ， shui3 se4 tian1 guang1 hun4 yi4 ban1 。
 - da4 di3 jiang1 xiang1 zu2 shi1 jing3 ， yong3 yin2 ru2 ba3 hua4 tu2 kan4 。
+- （ jian4 《 yu2 di4 ji4 sheng4 》 juan4 liu4 wu3 《 jiang1 ling2 fu3 》。
+- ）。
 
 ## 注释
 

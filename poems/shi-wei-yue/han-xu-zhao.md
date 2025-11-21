@@ -6,10 +6,10 @@ titleSlug: han-xu-zhao
 author: 釋惟嶽
 authorPinyin: shi4 wei2 yue4
 authorSlug: shi-wei-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

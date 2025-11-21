@@ -6,10 +6,10 @@ titleSlug: da-zhao-sheng-hong-li-hua-shi
 author: 謝金蓮
 authorPinyin: xie4 jin1 lian2
 authorSlug: xie-jin-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

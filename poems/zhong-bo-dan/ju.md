@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鍾伯澹
 authorPinyin: zhong1 bo2 dan4
 authorSlug: zhong-bo-dan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

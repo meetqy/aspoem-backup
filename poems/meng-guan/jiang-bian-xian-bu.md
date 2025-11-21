@@ -1,6 +1,6 @@
 ---
 id: meng-guan-jiang-bian-xian-bu
-title: 江邊閒步
+title: 江邊閑步
 titlePinyin: jiang1 bian1 xian2 bu4
 titleSlug: jiang-bian-xian-bu
 author: 孟貫
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 閒來南渡口，迤邐看江楓。
+- 閑來南渡口，迤邐看江楓。
 - 一路波濤畔，數家蘆葦中。
 - 遠汀排晚樹，深浦漾寒鴻。
 - 吟罷慵回首，此情誰與同。

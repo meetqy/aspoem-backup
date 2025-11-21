@@ -6,10 +6,10 @@ titleSlug: liu-dai-zhao-lao-zi-chu-guan-tu-juan
 author: 劉意
 authorPinyin: liu2 yi4
 authorSlug: liu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

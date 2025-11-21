@@ -6,21 +6,21 @@ titleSlug: tai-ping-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 天下太平日，人生安樂時。
-- 更逢花爛漫，爭忍不開眉。
+- 太平時世園亭內，豐稔歲年村落間。
+- 情味一般難狀處，風煙草木盡閑閑。
 
 ## 拼音
 
-- tian1 xia4 tai4 ping2 ri4 ， ren2 sheng1 an1 le4 shi2 。
-- geng4 feng2 hua1 lan4 man4 ， zheng1 ren3 bu4 kai1 mei2 。
+- tai4 ping2 shi2 shi4 yuan2 ting2 nei4 ， feng1 ren3 sui4 nian2 cun1 luo4 jian4 。
+- qing2 wei4 yi4 ban1 nan2 zhuang4 chu3 ， feng1 yan1 cao3 mu4 jin4 xian2 xian2 。
 
 ## 注释
 

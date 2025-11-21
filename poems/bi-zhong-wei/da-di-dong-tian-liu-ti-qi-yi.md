@@ -6,10 +6,10 @@ titleSlug: da-di-dong-tian-liu-ti-qi-yi
 author: 祕仲威
 authorPinyin: bi4 zhong4 wei1
 authorSlug: bi-zhong-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

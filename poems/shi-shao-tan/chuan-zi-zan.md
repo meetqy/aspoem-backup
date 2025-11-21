@@ -6,21 +6,21 @@ titleSlug: chuan-zi-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 千鈞重寄一絲輪，三寸離鈎抑逼人。
-- 莫道踏翻船便了，夾山未必是金鱗。
+- 心含惡毒氣炎炎，倒捉麤橈管甚天。
+- 打得夾山攛入水，趁無入見急翻船。
 
 ## 拼音
 
-- qian1 jun1 zhong4 ji4 yi4 si1 lun2 ， san1 cun4 li2 gou1 yi4 bi1 ren2 。
-- mo4 dao4 ta4 fan1 chuan2 bian4 le0 ， jia1 shan1 wei4 bi4 shi4 jin1 lin2 。
+- xin1 han2 e4 du2 qi4 yan2 yan2 ， dao3 zhuo1 cu1 rao2 guan3 shen4 tian1 。
+- da3 de2 jia1 shan1 cuan1 ru4 shui3 ， chen4 wu2 ru4 jian4 ji2 fan1 chuan2 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: zai-fu-qi-yi
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 楚澤蘭紉佩，廉泉水洗心。
-- 荷鋤通草徑，戴笠鉤藤陰。
-- 欲蚤休陳事，須甘遂陸沈。
-- 謾呈詩藁本，李杜若知音。
+- 百草霜雪死，半天河漢斜。
+- 竹含輕紫粉，梅發淡紅花。
+- 蘸甲香醪釅，搔頭垢髮華。
+- 北亭歡宴罷，燈燭夜明沙。
 
 ## 拼音
 
-- chu3 ze2 lan2 ren4 pei4 ， lian2 quan2 shui3 xi3 xin1 。
-- he2 chu2 tong1 cao3 jing4 ， dai4 li4 gou1 teng2 yin1 。
-- yu4 zao3 xiu1 chen2 shi4 ， xu1 gan1 sui4 lu4 shen3 。
-- man2 cheng2 shi1 gao3 ben3 ， li3 du4 ruo4 zhi1 yin1 。
+- bai3 cao3 shuang1 xue3 si3 ， ban4 tian1 he2 han4 xie2 。
+- zhu2 han2 qing1 zi3 fen3 ， mei2 fa1 dan4 hong2 hua1 。
+- zhan4 jia3 xiang1 lao2 yan4 ， sao1 tou2 gou4 fa4 hua2 。
+- bei3 ting2 huan1 yan4 ba4 ， deng1 zhu2 ye4 ming2 sha1 。
 
 ## 注释
 

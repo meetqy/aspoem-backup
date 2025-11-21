@@ -6,10 +6,10 @@ titleSlug: fan-zhou-song-jiang
 author: 葉時亨
 authorPinyin: ye4 shi2 heng1
 authorSlug: ye-shi-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

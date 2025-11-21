@@ -6,10 +6,10 @@ titleSlug: zeng-ou-yang
 author: 劉文毅
 authorPinyin: liu2 wen2 yi4
 authorSlug: liu-wen-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

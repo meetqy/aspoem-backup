@@ -6,10 +6,10 @@ titleSlug: you-yin-ping
 author: 蔡杭
 authorPinyin: cai4 hang2
 authorSlug: cai-hang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

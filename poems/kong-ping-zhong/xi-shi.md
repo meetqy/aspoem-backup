@@ -1,26 +1,26 @@
 ---
 id: kong-ping-zhong-xi-shi
-title: 西施
-titlePinyin: xi1 shi1
+title: 昔時
+titlePinyin: xi1 shi2
 titleSlug: xi-shi
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 邀出苧羅山，送上姑蘇臺。
-- 果迷吳主意，都忘越兵來。
+- 昔時過此心何如，今時過此心何須。
+- 回波爲我將雙淚，逆上三江轉五湖。
 
 ## 拼音
 
-- yao1 chu1 zhu4 luo2 shan1 ， song4 shang4 gu1 su1 tai2 。
-- guo3 mi2 wu2 zhu3 yi4 ， dou1 wang4 yue4 bing1 lai2 。
+- xi1 shi2 guo4 ci3 xin1 he2 ru2 ， jin1 shi2 guo4 ci3 xin1 he2 xu1 。
+- hui2 bo1 wei2 wo3 jiang1 shuang1 lei4 ， ni4 shang4 san1 jiang1 zhuan3 wu3 hu2 。
 
 ## 注释
 

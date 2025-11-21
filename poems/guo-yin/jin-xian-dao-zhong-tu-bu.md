@@ -6,21 +6,21 @@ titleSlug: jin-xian-dao-zhong-tu-bu
 author: 郭印
 authorPinyin: guo1 yin4
 authorSlug: guo-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 路經新雨滑，山带宿雲昏。
-- 草履吾家物，相将過别村。
+- 欲稅肩輿未得休，且憑竹杖到山頭。
+- 疏林向晚投歸翼，滿目寒煙醖客愁。
 
 ## 拼音
 
-- lu4 jing1 xin1 yu3 hua2 ， shan1 dai4 su4 yun2 hun1 。
-- cao3 lü3 wu2 jia1 wu4 ， xiang1 jiang1 guo4 bie2 cun1 。
+- yu4 shui4 jian1 yu2 wei4 de2 xiu1 ， qie3 ping2 zhu2 zhang4 dao4 shan1 tou2 。
+- shu1 lin2 xiang4 wan3 tou2 gui1 yi4 ， man3 mu4 han2 yan1 yun4 ke4 chou2 。
 
 ## 注释
 

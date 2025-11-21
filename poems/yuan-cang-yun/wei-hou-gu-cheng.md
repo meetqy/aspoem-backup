@@ -6,10 +6,10 @@ titleSlug: wei-hou-gu-cheng
 author: 袁藏雲
 authorPinyin: yuan2 cang2 yun2
 authorSlug: yuan-cang-yun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

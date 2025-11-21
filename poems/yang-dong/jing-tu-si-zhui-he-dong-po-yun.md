@@ -6,10 +6,10 @@ titleSlug: jing-tu-si-zhui-he-dong-po-yun
 author: 楊棟
 authorPinyin: yang2 dong4
 authorSlug: yang-dong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ru-yin-ou-shu-cheng-yi-er-zhi-ji
 author: 穆脩
 authorPinyin: mu4 xiu1
 authorSlug: mu-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

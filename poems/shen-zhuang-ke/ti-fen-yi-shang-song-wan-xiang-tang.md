@@ -6,9 +6,9 @@ titleSlug: ti-fen-yi-shang-song-wan-xiang-tang
 author: 沈莊可
 authorPinyin: shen3 zhuang1 ke3
 authorSlug: shen-zhuang-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

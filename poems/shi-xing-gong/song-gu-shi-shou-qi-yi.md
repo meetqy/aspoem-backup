@@ -1,26 +1,26 @@
 ---
 id: shi-xing-gong-song-gu-shi-shou-qi-yi
-title: 頌古十首  其一
-titlePinyin: song4 gu3 shi2 shou3     qi2 yi1
+title: 頌古十首  其一○
+titlePinyin: song4 gu3 shi2 shou3     qi2 yi1 ○
 titleSlug: song-gu-shi-shou-qi-yi
 author: 釋行鞏
 authorPinyin: shi4 xing2 gong3
 authorSlug: shi-xing-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉殿苔生正不居，四臣無路納嘉謨。
-- 老農知是承誰力，風暖歌聲落野鉏。
+- 恰好被人借去了，莫言鄰舍不通容。
+- 團圞無縫難安筆，只抹烟雲一兩重。
 
 ## 拼音
 
-- yu4 dian4 tai2 sheng1 zheng4 bu4 ju1 ， si4 chen2 wu2 lu4 na4 jia1 mo2 。
-- lao3 nong2 zhi1 shi4 cheng2 shui2 li4 ， feng1 nuan3 ge1 sheng1 luo4 ye3 chu2 。
+- qia4 hao3 bei4 ren2 jie4 qu4 le0 ， mo4 yan2 lin2 she4 bu4 tong1 rong2 。
+- tuan2 luan2 wu2 feng2 nan2 an1 bi3 ， zhi1 mo3 yan1 yun2 yi4 liang3 zhong4 。
 
 ## 注释
 

@@ -6,25 +6,25 @@ titleSlug: nan-chuang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 流落逢知少，疏慵迕俗多。
-- 悶拈如意舞，狂叩唾壺歌。
-- 巴酒禁愁得，金丹奈老何。
-- 南窗好風月，聊復此婆娑。
+- 暄妍一窗日，的礫數枝梅。
+- 小鼎煎茶熟，幽人作夢回。
+- 新春又將近，晚景但堪哀。
+- 用底舒懷抱，殘書闔復開。
 
 ## 拼音
 
-- liu2 luo4 feng2 zhi1 shao3 ， shu1 yong1 wu3 su2 duo1 。
-- men4 nian1 ru2 yi4 wu3 ， kuang2 kou4 tuo4 hu2 ge1 。
-- ba1 jiu3 jin4 chou2 de2 ， jin1 dan1 nai4 lao3 he2 。
-- nan2 chuang1 hao3 feng1 yue4 ， liao2 fu4 ci3 po2 suo1 。
+- xuan1 yan2 yi4 chuang1 ri4 ， de0 li4 shu4 zhi1 mei2 。
+- xiao3 ding3 jian1 cha2 shu2 ， you1 ren2 zuo4 meng4 hui2 。
+- xin1 chun1 you4 jiang1 jin4 ， wan3 jing3 dan4 kan1 ai1 。
+- yong4 di3 shu1 huai2 bao4 ， can2 shu1 he2 fu4 kai1 。
 
 ## 注释
 

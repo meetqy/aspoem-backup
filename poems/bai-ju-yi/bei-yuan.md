@@ -1,7 +1,7 @@
 ---
 id: bai-ju-yi-bei-yuan
-title: 北園
-titlePinyin: bei3 yuan2
+title: 北院
+titlePinyin: bei3 yuan4
 titleSlug: bei-yuan
 author: 白居易
 authorPinyin: bai2 ju1 yi4
@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 北園東風起，雜花次第開。
-- 心知須臾落，一日三四來。
-- 花下豈無酒，欲酌復遲迴。
-- 所思眇千里，誰勸我一杯。
+- 北院人稀到，東窗事最偏。
+- 竹煙行竈上，石壁臥房前。
+- 性拙身多暇，心慵事少緣。
+- 還如病居士，唯置一牀眠。
 
 ## 拼音
 
-- bei3 yuan2 dong1 feng1 qi3 ， za2 hua1 ci4 di4 kai1 。
-- xin1 zhi1 xu1 yu2 luo4 ， yi2 ri4 san1 si4 lai2 。
-- hua1 xia4 qi3 wu2 jiu3 ， yu4 zhuo2 fu4 chi2 hui2 。
-- suo3 si1 miao3 qian1 li3 ， shui2 quan4 wo3 yi4 bei1 。
+- bei3 yuan4 ren2 xi1 dao4 ， dong1 chuang1 shi4 zui4 pian1 。
+- zhu2 yan1 xing2 zao4 shang4 ， shi2 bi4 wo4 fang2 qian2 。
+- xing4 zhuo1 shen1 duo1 xia2 ， xin1 yong1 shi4 shao3 yuan2 。
+- huan2 ru2 bing4 ju1 shi4 ， wei2 zhi4 yi4 chuang2 mian2 。
 
 ## 注释
 

@@ -1,30 +1,30 @@
 ---
 id: hua-zhen-shen-gong-sheng-de-shi-qi-er
-title: 神功盛德詩  其二
-titlePinyin: shen2 gong1 sheng4 de2 shi1     qi2 er4
+title: 神功盛德詩  其二○
+titlePinyin: shen2 gong1 sheng4 de2 shi1     qi2 er4 ○
 titleSlug: shen-gong-sheng-de-shi-qi-er
 author: 華鎮
 authorPinyin: hua2 zhen4
 authorSlug: hua-zhen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 道有倫極，克建克敘。
-- 不喪厥猷，物有其紀。
-- 既汙者隆，何千萬年。
-- 施于孫子，惟宣祖所畀。
+- 天命靡常，惟德惟功。
+- 神聖有作，曆數在躬。
+- 正位東朝，遂成大宗。
+- 協和萬邦，萬邦以雍。
 
 ## 拼音
 
-- dao4 you3 lun2 ji2 ， ke4 jian4 ke4 xu4 。
-- bu4 sang1 jue2 you2 ， wu4 you3 qi2 ji4 。
-- ji4 wu1 zhe3 long2 ， he2 qian1 wan4 nian2 。
-- shi1 yu2 sun1 zi3 ， wei2 xuan1 zu3 suo3 bi4 。
+- tian1 ming4 mi2 chang2 ， wei2 de2 wei2 gong1 。
+- shen2 sheng4 you3 zuo4 ， li4 shu4 zai4 gong1 。
+- zheng4 wei4 dong1 chao2 ， sui4 cheng2 da4 zong1 。
+- xie2 he2 wan4 bang1 ， wan4 bang1 yi3 yong1 。
 
 ## 注释
 

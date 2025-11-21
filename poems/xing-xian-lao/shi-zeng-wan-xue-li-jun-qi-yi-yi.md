@@ -6,10 +6,10 @@ titleSlug: shi-zeng-wan-xue-li-jun-qi-yi-yi
 author: 邢仙老
 authorPinyin: xing2 xian1 lao3
 authorSlug: xing-xian-lao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -9,22 +9,22 @@ authorSlug: bu-xiang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 春末冬暮，徂夏杪秋。
-- 土王四月，時季一周。
-- 黍稷已享，籩豆宜收。
-- 送神有樂，神其賜休。
+- 北郊時冽，南陸輝處。
+- 奠本虔誠，獻彌恭慮。
+- 上延祉福，下承歡豫。
+- 廣樂送神，神其整馭。
 
 ## 拼音
 
-- chun1 mo4 dong1 mu4 ， cu2 xia4 miao3 qiu1 。
-- tu3 wang2 si4 yue4 ， shi2 ji4 yi4 zhou1 。
-- shu3 ji4 yi3 xiang3 ， bian1 dou4 yi2 shou1 。
-- song4 shen2 you3 le4 ， shen2 qi2 ci4 xiu1 。
+- bei3 jiao1 shi2 lie4 ， nan2 lu4 hui1 chu3 。
+- dian4 ben3 qian2 cheng2 ， xian4 mi2 gong1 lü4 。
+- shang4 yan2 zhi3 fu2 ， xia4 cheng2 huan1 yu4 。
+- guang3 le4 song4 shen2 ， shen2 qi2 zheng3 yu4 。
 
 ## 注释
 

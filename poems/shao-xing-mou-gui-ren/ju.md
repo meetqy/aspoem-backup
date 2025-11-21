@@ -6,10 +6,10 @@ titleSlug: ju
 author: 紹興某貴人
 authorPinyin: shao4 xing1 mou3 gui4 ren2
 authorSlug: shao-xing-mou-gui-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

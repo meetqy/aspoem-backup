@@ -6,25 +6,25 @@ titleSlug: shang-jian-wang-sheng-chen-qi-san
 author: 史浩
 authorPinyin: shi3 hao4
 authorSlug: shi-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 中使曉飛鞚，下拜金屈巵。
-- 門既却賀賓，宴不侈曲眉。
-- 玉爐浄棐几，但誦天保詩。
-- 在我有古制，在彼俱弗爲。
+- 太史仰乾象，光芒見前星。
+- 森然拱帝所，無乃趨過庭。
+- 道德粹金玉，詞華渺滄溟。
+- 願言千萬壽，聲聞炳丹青。
 
 ## 拼音
 
-- zhong1 shi3 xiao3 fei1 kong4 ， xia4 bai4 jin1 qu1 zhi1 。
-- men2 ji4 que4 he4 bin1 ， yan4 bu4 chi3 qu3 mei2 。
-- yu4 lu2 jing4 fei3 ji3 ， dan4 song4 tian1 bao3 shi1 。
-- zai4 wo3 you3 gu3 zhi4 ， zai4 bi3 ju4 fu2 wei2 。
+- tai4 shi3 yang3 qian2 xiang4 ， guang1 mang2 jian4 qian2 xing1 。
+- sen1 ran2 gong3 di4 suo3 ， wu2 nai3 qu1 guo4 ting2 。
+- dao4 de2 cui4 jin1 yu4 ， ci2 hua2 miao3 cang1 ming2 。
+- yuan4 yan2 qian1 wan4 shou4 ， sheng1 wen2 bing3 dan1 qing1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: wan-lu-jun-shi-qi-er
 author: 尹應許
 authorPinyin: yin3 ying1 xu1
 authorSlug: yin-ying-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

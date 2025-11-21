@@ -6,10 +6,10 @@ titleSlug: mao-xi-yuan-yin-ju-lu-shan-wo-long-pu
 author: 葉述
 authorPinyin: ye4 shu4
 authorSlug: ye-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

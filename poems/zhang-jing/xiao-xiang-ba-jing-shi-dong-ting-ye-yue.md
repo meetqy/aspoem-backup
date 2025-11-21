@@ -6,10 +6,10 @@ titleSlug: xiao-xiang-ba-jing-shi-dong-ting-ye-yue
 author: 張經
 authorPinyin: zhang1 jing1
 authorSlug: zhang-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

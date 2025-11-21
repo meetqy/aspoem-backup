@@ -6,10 +6,10 @@ titleSlug: bo-shi-dao-ji-nan-ji-shi-po-yan-tai-shou-ju-you-hu-shan-zhi-sheng-ton
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

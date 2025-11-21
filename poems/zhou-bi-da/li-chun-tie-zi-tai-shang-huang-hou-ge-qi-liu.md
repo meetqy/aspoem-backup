@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-liu
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 湧金門外風舒柳，師子園中日放花。
-- 何事東皇催暖律，似迎西母探春車。
+- 早正中闈婦道成，曾裨內禪母儀新。
+- 如今永與勛華主，共享千春及萬春。
 
 ## 拼音
 
-- yong3 jin1 men2 wai4 feng1 shu1 liu3 ， shi1 zi3 yuan2 zhong1 ri4 fang4 hua1 。
-- he2 shi4 dong1 huang2 cui1 nuan3 lü4 ， si4 ying2 xi1 mu3 tan4 chun1 ju1 。
+- zao3 zheng4 zhong1 wei2 fu4 dao4 cheng2 ， ceng2 bi4 nei4 shan4 mu3 yi2 xin1 。
+- ru2 jin1 yong3 yu3 xun1 hua2 zhu3 ， gong4 xiang3 qian1 chun1 ji2 wan4 chun1 。
 
 ## 注释
 

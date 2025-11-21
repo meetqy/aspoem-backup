@@ -6,10 +6,10 @@ titleSlug: xian-shan
 author: 裴煜
 authorPinyin: pei2 yu4
 authorSlug: pei-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

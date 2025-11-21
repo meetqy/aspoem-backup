@@ -6,21 +6,21 @@ titleSlug: xing-zhe-qiu-song
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好將長劍割髭鬚，頭上蓬蓬亦剗除。
-- 辦取一生都弗會，聽佗會底費分疎。
+- 曩時隨我起鄞江，望我山靈與徑雙。
+- 狡兔有時平地起，莫於舊處守枯樁。
 
 ## 拼音
 
-- hao3 jiang1 chang2 jian4 ge1 zi1 xu1 ， tou2 shang4 peng2 peng2 yi4 chan3 chu2 。
-- ban4 qu3 yi4 sheng1 dou1 fu2 hui4 ， ting1 tuo2 hui4 di3 fei4 fen1 shu1 。
+- nang3 shi2 sui2 wo3 qi3 yin2 jiang1 ， wang4 wo3 shan1 ling2 yu3 jing4 shuang1 。
+- jiao3 tu4 you3 shi2 ping2 di4 qi3 ， mo4 wu1 jiu4 chu3 shou3 ku1 zhuang1 。
 
 ## 注释
 

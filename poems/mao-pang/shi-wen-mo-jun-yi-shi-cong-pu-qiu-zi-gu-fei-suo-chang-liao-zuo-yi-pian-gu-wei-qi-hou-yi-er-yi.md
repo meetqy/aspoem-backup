@@ -6,10 +6,10 @@ titleSlug: shi-wen-mo-jun-yi-shi-cong-pu-qiu-zi-gu-fei-suo-chang-liao-zuo-yi-pia
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

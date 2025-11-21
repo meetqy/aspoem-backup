@@ -1,26 +1,26 @@
 ---
 id: wen-tian-xiang-zhi-yang-zhou-qi-yi
-title: 至揚州  其一
-titlePinyin: zhi4 yang2 zhou1     qi2 yi1
+title: 至揚州  其一○
+titlePinyin: zhi4 yang2 zhou1     qi2 yi1 ○
 titleSlug: zhi-yang-zhou-qi-yi
 author: 文天祥
 authorPinyin: wen2 tian1 xiang2
 authorSlug: wen-tian-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 此廟何神三十郎，問郎行客忒琅璫。
-- 荒階枕籍無人問，風露滿堂清夜長。
+- 顛崖一陷落千尋，奴僕偏生負主心。
+- 饑火相煎疲欲絕，滿山荒草曉沉沉。
 
 ## 拼音
 
-- ci3 miao4 he2 shen2 san1 shi2 lang2 ， wen4 lang2 xing2 ke4 te4 lang2 dang1 。
-- huang1 jie1 zhen3 ji2 wu2 ren2 wen4 ， feng1 lu4 man3 tang2 qing1 ye4 chang2 。
+- dian1 ya2 yi2 xian4 luo4 qian1 xun2 ， nu2 pu2 pian1 sheng1 fu4 zhu3 xin1 。
+- ji1 huo3 xiang1 jian1 pi2 yu4 jue2 ， man3 shan1 huang1 cao3 xiao3 chen2 chen2 。
 
 ## 注释
 

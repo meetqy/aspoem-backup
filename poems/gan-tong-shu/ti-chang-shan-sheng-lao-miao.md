@@ -6,10 +6,10 @@ titleSlug: ti-chang-shan-sheng-lao-miao
 author: 甘同叔
 authorPinyin: gan1 tong2 shu1
 authorSlug: gan-tong-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: he-liu-mei-zhong-shang-shu-ting-bao-yue-dan-tao-yuan-chun-xiao
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

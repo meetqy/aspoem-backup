@@ -6,10 +6,10 @@ titleSlug: ping-yuan-qu-ji-er-di-zhi-yu-ge
 author: 陳碧娘
 authorPinyin: chen2 bi4 niang2
 authorSlug: chen-bi-niang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-dong-xiao-gong
 author: 王與能
 authorPinyin: wang2 yu3 neng2
 authorSlug: wang-yu-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

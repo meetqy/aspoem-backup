@@ -6,10 +6,10 @@ titleSlug: yuan-xiao-lin-li-xie-ju-jiu-bi-lu-zhang-deng-ci-zhi-bu-huo-yin-cheng-
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

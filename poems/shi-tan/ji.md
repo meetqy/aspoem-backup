@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋坦
 authorPinyin: shi4 tan3
 authorSlug: shi-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

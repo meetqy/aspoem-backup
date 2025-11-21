@@ -6,25 +6,25 @@ titleSlug: ti-zhai-bi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 葺得湖邊屋數椽，茅齋低小竹窗妍。
-- 墟烟寂歴歸村路，山色蒼寒釀雪天。
-- 性懶杯盤常偶爾，地偏雞犬亦翛然。
-- 早知栗里多幽事，虚走人間四十年。
+- 門前枯葉滿荒街，堂下殘蕪擁土階。
+- 蓬蓽蕭條如旅店，豆蔬淡薄學僧齋。
+- 晝存真火溫枵腹，夜挽黄流灌病骸。
+- 喚取鄰翁同結社，它年仙去與君偕。
 
 ## 拼音
 
-- qi4 de2 hu2 bian1 wu1 shu4 chuan2 ， mao2 zhai1 di1 xiao3 zhu2 chuang1 yan2 。
-- xu1 yan1 ji4 li4 gui1 cun1 lu4 ， shan1 se4 cang1 han2 niang4 xue3 tian1 。
-- xing4 lan3 bei1 pan2 chang2 ou3 er3 ， di4 pian1 ji1 quan3 yi4 xiao1 ran2 。
-- zao3 zhi1 li4 li3 duo1 you1 shi4 ， xu1 zou3 ren2 jian4 si4 shi2 nian2 。
+- men2 qian2 ku1 ye4 man3 huang1 jie1 ， tang2 xia4 can2 wu2 yong1 tu3 jie1 。
+- peng2 bi4 xiao1 tiao2 ru2 lü3 dian4 ， dou4 shu1 dan4 bo2 xue2 seng1 zhai1 。
+- zhou4 cun2 zhen1 huo3 wen1 xiao1 fu4 ， ye4 wan3 huang2 liu2 guan4 bing4 hai2 。
+- huan4 qu3 lin2 weng1 tong2 jie2 she4 ， ta1 nian2 xian1 qu4 yu3 jun1 xie2 。
 
 ## 注释
 

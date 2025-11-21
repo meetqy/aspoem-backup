@@ -1,7 +1,7 @@
 ---
 id: xu-yin-ying
-title: 鷹
-titlePinyin: ying1
+title: 螢
+titlePinyin: ying2
 titleSlug: ying
 author: 徐夤
 authorPinyin: xu2 yin2
@@ -9,22 +9,22 @@ authorSlug: xu-yin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 害物傷生性豈馴，且宜籠罩待知人。
-- 惟擒燕雀啗腥血，却笑鸞皇啄翠筠。
-- 狡兔穴多非爾識，鳴鳩脰短罰君身。
-- 豪門不讀詩書者，走馬平原放翫頻。
+- 月墜西樓夜影空，透簾穿幕達房櫳。
+- 流光堪在珠璣列，爲火不生榆柳中。
+- 一一照通黃卷字，輕輕化出綠蕪叢。
+- 欲知應候何時節，六月初迎大暑風。
 
 ## 拼音
 
-- hai4 wu4 shang1 sheng1 xing4 qi3 xun4 ， qie3 yi2 long2 zhao4 dai4 zhi1 ren2 。
-- wei2 qin2 yan4 que4 dan4 xing1 xue4 ， que4 xiao4 luan2 huang2 zhuo2 cui4 yun2 。
-- jiao3 tu4 xue2 duo1 fei1 er3 shi2 ， ming2 jiu1 dou4 duan3 fa2 jun1 shen1 。
-- hao2 men2 bu4 du2 shi1 shu1 zhe3 ， zou3 ma3 ping2 yuan2 fang4 wan2 bin1 。
+- yue4 zhui4 xi1 lou2 ye4 ying3 kong1 ， tou4 lian2 chuan1 mu4 da2 fang2 long2 。
+- liu2 guang1 kan1 zai4 zhu1 ji1 lie4 ， wei2 huo3 bu4 sheng1 yu2 liu3 zhong1 。
+- yi1 yi1 zhao4 tong1 huang2 juan4 zi4 ， qing1 qing1 hua4 chu1 lü4 wu2 cong2 。
+- yu4 zhi1 ying1 hou4 he2 shi2 jie2 ， liu4 yue4 chu1 ying2 da4 shu3 feng1 。
 
 ## 注释
 

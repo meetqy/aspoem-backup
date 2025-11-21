@@ -6,10 +6,10 @@ titleSlug: jiang-shan-jing-yi-yuan-tie-qing-lao-shi-tong-gong-zhen-zan
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

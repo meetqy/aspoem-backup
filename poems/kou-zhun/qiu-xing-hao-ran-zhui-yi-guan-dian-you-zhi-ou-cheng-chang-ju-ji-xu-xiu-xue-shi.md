@@ -6,10 +6,10 @@ titleSlug: qiu-xing-hao-ran-zhui-yi-guan-dian-you-zhi-ou-cheng-chang-ju-ji-xu-xi
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

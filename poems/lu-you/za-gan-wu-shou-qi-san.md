@@ -6,21 +6,25 @@ titleSlug: za-gan-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 少年意氣與春爭，朱彈金鞭處處行。
-- 誰信即今空谷裏，旋租黄犢學躬耕。
+- 肉食養老人，古雖有是說。
+- 修身以待終，何至陷饕餮。
+- 晨烹山蔬美，午漱石泉潔。
+- 豈役七尺軀，事此膚寸舌。
 
 ## 拼音
 
-- shao4 nian2 yi4 qi4 yu3 chun1 zheng1 ， zhu1 dan4 jin1 bian1 chu3 chu3 xing2 。
-- shui2 xin4 ji2 jin1 kong1 gu3 li3 ， xuan2 zu1 huang2 du2 xue2 gong1 geng1 。
+- rou4 shi2 yang3 lao3 ren2 ， gu3 sui1 you3 shi4 shuo1 。
+- xiu1 shen1 yi3 dai4 zhong1 ， he2 zhi4 xian4 tao1 tie4 。
+- chen2 peng1 shan1 shu1 mei3 ， wu3 shu4 shi2 quan2 jie2 。
+- qi3 yi4 qi1 chi3 qu1 ， shi4 ci3 fu1 cun4 she2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: xu-chang-gong-yu-shu-huai-cheng-ou-yang-yong-shu-han-zi-hua-wang-jie-
 author: 謝伯初
 authorPinyin: xie4 bo2 chu1
 authorSlug: xie-bo-chu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

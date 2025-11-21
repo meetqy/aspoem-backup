@@ -6,25 +6,25 @@ titleSlug: wan-chen-cheng-xiang
 author: 曾幾
 authorPinyin: ceng2 ji1
 authorSlug: ceng-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 身已棲巖壑，公初冠廟堂。
-- 奉祠方德庇，次對復恩光。
-- 政爾爲舟楫，如何壞棟梁。
-- 紼謳爭點筆，衰謝獨難忘。
+- 中興論相得耆英，進退能爲國重輕。
+- 有望臨人山泰華，無私待物器權衡。
+- 兩朝禮貌緣同德，多士憑依爲至誠。
+- 自古元臣薨位少，一時生死極哀榮。
 
 ## 拼音
 
-- shen1 yi3 qi1 yan2 he4 ， gong1 chu1 guan1 miao4 tang2 。
-- feng4 ci2 fang1 de2 bi4 ， ci4 dui4 fu4 en1 guang1 。
-- zheng4 er3 wei2 zhou1 ji2 ， ru2 he2 huai4 dong4 liang2 。
-- fu2 ou1 zheng1 dian3 bi3 ， shuai1 xie4 du2 nan2 wang4 。
+- zhong1 xing1 lun4 xiang1 de2 qi2 ying1 ， jin4 tui4 neng2 wei2 guo2 zhong4 qing1 。
+- you3 wang4 lin2 ren2 shan1 tai4 hua2 ， wu2 si1 dai4 wu4 qi4 quan2 heng2 。
+- liang3 chao2 li3 mao4 yuan2 tong2 de2 ， duo1 shi4 ping2 yi1 wei2 zhi4 cheng2 。
+- zi4 gu3 yuan2 chen2 hong1 wei4 shao3 ， yi4 shi2 sheng1 si3 ji2 ai1 rong2 。
 
 ## 注释
 

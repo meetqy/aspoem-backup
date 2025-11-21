@@ -6,10 +6,10 @@ titleSlug: ti-kao-gong-yin-zhi
 author: 曾如驥
 authorPinyin: ceng2 ru2 ji4
 authorSlug: ceng-ru-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

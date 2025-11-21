@@ -6,10 +6,10 @@ titleSlug: zi-dong-men-fan-zhou-zhi-zhu-xi-ting-deng-kun-qiu-ru-meng-gu-xi-ti-er
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

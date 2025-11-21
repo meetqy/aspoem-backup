@@ -6,25 +6,21 @@ titleSlug: zheng-yue-er-shi-qi-ri
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 晨興啟蓬門，綠樹有啼鶑。
-- 山風遠遠來，墟煙低低橫。
-- 水寫蔽芾影，岸束湍瀨聲。
-- 春事曾幾何，孤花尚含情。
+- 去年除夜吹山雨，濕盡梅花冷打門。
+- 朝市如今小樓屋，只揩睡眼望前村。
 
 ## 拼音
 
-- chen2 xing1 qi3 peng2 men2 ， lü4 shu4 you3 ti2 ying1 。
-- shan1 feng1 yuan3 yuan3 lai2 ， xu1 yan1 di1 di1 heng2 。
-- shui3 xie3 bi4 fei4 ying3 ， an4 shu4 tuan1 lai4 sheng1 。
-- chun1 shi4 ceng2 ji1 he2 ， gu1 hua1 shang4 han2 qing2 。
+- qu4 nian2 chu2 ye4 chui1 shan1 yu3 ， shi1 jin4 mei2 hua1 leng3 da3 men2 。
+- chao2 shi4 ru2 jin1 xiao3 lou2 wu1 ， zhi1 kai1 shui4 yan3 wang4 qian2 cun1 。
 
 ## 注释
 

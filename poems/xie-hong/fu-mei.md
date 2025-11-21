@@ -6,10 +6,10 @@ titleSlug: fu-mei
 author: 謝洪
 authorPinyin: xie4 hong2
 authorSlug: xie-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

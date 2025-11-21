@@ -6,21 +6,21 @@ titleSlug: zao-chao
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 迷曉逆風飄漏遠，驚秋堕葉響廊深。
-- 五更又上籃輿去，忘却當年調笑吟。
+- 欹眠側耳數寒更，欲起未起心不平。
+- 何似山間渾睡足，卧看紅日上窗明。
 
 ## 拼音
 
-- mi2 xiao3 ni4 feng1 piao1 lou4 yuan3 ， jing1 qiu1 duo4 ye4 xiang3 lang2 shen1 。
-- wu3 geng1 you4 shang4 lan2 yu2 qu4 ， wang4 que4 dang1 nian2 diao4 xiao4 yin2 。
+- qi1 mian2 ce4 er3 shu4 han2 geng4 ， yu4 qi3 wei4 qi3 xin1 bu4 ping2 。
+- he2 si4 shan1 jian4 hun2 shui4 zu2 ， wo4 kan4 hong2 ri4 shang4 chuang1 ming2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shang-zhong-guan
 author: 鄭廣
 authorPinyin: zheng4 guang3
 authorSlug: zheng-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

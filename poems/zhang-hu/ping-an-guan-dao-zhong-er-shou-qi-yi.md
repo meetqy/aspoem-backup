@@ -6,10 +6,10 @@ titleSlug: ping-an-guan-dao-zhong-er-shou-qi-yi
 author: 張斛
 authorPinyin: zhang1 hu2
 authorSlug: zhang-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

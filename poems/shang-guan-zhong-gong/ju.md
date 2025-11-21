@@ -6,10 +6,10 @@ titleSlug: ju
 author: 上官仲恭
 authorPinyin: shang4 guan1 zhong4 gong1
 authorSlug: shang-guan-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

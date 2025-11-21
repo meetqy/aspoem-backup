@@ -9,22 +9,22 @@ authorSlug: yao-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 不自識疎鄙，終年住在城。
-- 過門無馬跡，滿宅是蟬聲。
-- 帶病吟雖苦，休官夢已清。
-- 何當學禪觀，依止古先生。
+- 日日門長閉，隣家亦懶過。
+- 頭風春飲苦，眼暈夜書多。
+- 幽鳥偏栖竹，凡人笑種莎。
+- 近來難得酒，無計奈愁何。
 
 ## 拼音
 
-- bu2 zi4 shi2 shu1 bi3 ， zhong1 nian2 zhu4 zai4 cheng2 。
-- guo4 men2 wu2 ma3 ji4 ， man3 zhai2 shi4 chan2 sheng1 。
-- dai4 bing4 yin2 sui1 ku3 ， xiu1 guan1 meng4 yi3 qing1 。
-- he2 dang1 xue2 shan4 guan1 ， yi1 zhi3 gu3 xian1 sheng0 。
+- ri4 ri4 men2 chang2 bi4 ， lin2 jia1 yi4 lan3 guo4 。
+- tou2 feng1 chun1 yin3 ku3 ， yan3 yun4 ye4 shu1 duo1 。
+- you1 niao3 pian1 qi1 zhu2 ， fan2 ren2 xiao4 zhong3 sha1 。
+- jin4 lai2 nan2 de2 jiu3 ， wu2 ji4 nai4 chou2 he2 。
 
 ## 注释
 

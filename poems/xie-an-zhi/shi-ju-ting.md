@@ -6,10 +6,10 @@ titleSlug: shi-ju-ting
 author: 謝安之
 authorPinyin: xie4 an1 zhi1
 authorSlug: xie-an-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

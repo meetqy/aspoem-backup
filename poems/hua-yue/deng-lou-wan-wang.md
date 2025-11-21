@@ -6,25 +6,25 @@ titleSlug: deng-lou-wan-wang
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 六曲朱闌瞰碧虛，淡煙秋水接平蕪。
-- 展開風月添詩料，裝點江山歸畫圖。
-- 舉足便堪馳駟馬，折腰何必問雙鳬。
-- 當年庾亮今還在，定約樓前醉一壺。
+- 疎雨洗空碧，晚晴人倚樓。
+- 稻花千頃浪，楓葉一簾秋。
+- 遠岸明殘日，孤村認小舟。
+- 溪山如愛我，相見亦回頭。
 
 ## 拼音
 
-- liu4 qu3 zhu1 lan2 kan4 bi4 xu1 ， dan4 yan1 qiu1 shui3 jie1 ping2 wu2 。
-- zhan3 kai1 feng1 yue4 tian1 shi1 liao4 ， zhuang1 dian3 jiang1 shan1 gui1 hua4 tu2 。
-- ju3 zu2 bian4 kan1 chi2 si4 ma3 ， zhe2 yao1 he2 bi4 wen4 shuang1 fu2 。
-- dang1 nian2 yu3 liang4 jin1 huan2 zai4 ， ding4 yue1 lou2 qian2 zui4 yi4 hu2 。
+- shu1 yu3 xi3 kong1 bi4 ， wan3 qing2 ren2 yi3 lou2 。
+- dao4 hua1 qian1 qing3 lang4 ， feng1 ye4 yi4 lian2 qiu1 。
+- yuan3 an4 ming2 can2 ri4 ， gu1 cun1 ren4 xiao3 zhou1 。
+- xi1 shan1 ru2 ai4 wo3 ， xiang1 jian4 yi4 hui2 tou2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: jing-you-tian-tai-liu-ruan-dong-yi-yu-zuo-bu-ji-you
 author: 顧士龍
 authorPinyin: gu4 shi4 long2
 authorSlug: gu-shi-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

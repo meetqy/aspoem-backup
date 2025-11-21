@@ -6,21 +6,21 @@ titleSlug: shu-shi-yin-he-yuan-zhong-shi-juan
 author: 廖行之
 authorPinyin: liao4 xing2 zhi1
 authorSlug: liao-xing-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歌舞純周雅，風流見夏時。
-- 可能供痛飲，無畏誤雌霓。
+- 相馬玄黄牝牡，斲輪甘苦疾徐。
+- 元亮得琴中趣，彌明非世間書。
 
 ## 拼音
 
-- ge1 wu3 chun2 zhou1 ya3 ， feng1 liu2 jian4 xia4 shi2 。
-- ke3 neng2 gong4 tong4 yin3 ， wu2 wei4 wu4 ci2 ni2 。
+- xiang1 ma3 xuan2 huang2 pin4 mu3 ， zhuo2 lun2 gan1 ku3 ji2 xu2 。
+- yuan2 liang4 de2 qin2 zhong1 qu4 ， mi2 ming2 fei1 shi4 jian4 shu1 。
 
 ## 注释
 

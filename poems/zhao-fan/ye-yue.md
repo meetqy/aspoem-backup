@@ -6,25 +6,25 @@ titleSlug: ye-yue
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉枕厭蠅聲，昏蟬復亂鳴。
-- 耳根喧自合，心地寂常生。
-- 習氣存詩句，平生愛月明。
-- 鍾情在我輩，安得到無情。
+- 昨宵一雨暑全袪，月與新涼入坐居。
+- 喧寂不隨羣動役，形骸肯效俗人拘。
+- 江湖萬里風爲御，枕簟高秋肺合蘇。
+- 三五縱圓晴未決，爲渠吟絕攬霜鬚。
 
 ## 拼音
 
-- xiao3 zhen3 yan4 ying2 sheng1 ， hun1 chan2 fu4 luan4 ming2 。
-- er3 gen1 xuan1 zi4 he2 ， xin1 di4 ji4 chang2 sheng1 。
-- xi2 qi4 cun2 shi1 ju4 ， ping2 sheng1 ai4 yue4 ming2 。
-- zhong1 qing2 zai4 wo3 bei4 ， an1 de2 dao4 wu2 qing2 。
+- zuo2 xiao1 yi4 yu3 shu3 quan2 qu1 ， yue4 yu3 xin1 liang2 ru4 zuo4 ju1 。
+- xuan1 ji4 bu4 sui2 qun2 dong4 yi4 ， xing2 hai2 ken3 xiao4 su2 ren2 ju1 。
+- jiang1 hu2 wan4 li3 feng1 wei2 yu4 ， zhen3 dian4 gao1 qiu1 fei4 he2 su1 。
+- san1 wu3 zong4 yuan2 qing2 wei4 jue2 ， wei2 qu2 yin2 jue2 lan3 shuang1 xu1 。
 
 ## 注释
 

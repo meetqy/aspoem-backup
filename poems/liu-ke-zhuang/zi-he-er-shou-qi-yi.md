@@ -6,25 +6,25 @@ titleSlug: zi-he-er-shou-qi-yi
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 橫身久塞楊朱路，灑泣俄悲墨子岐。
-- 陋矣射鉤而中者，壯哉鳴鼓以攻之。
-- 侍讀自無遷府分，中丞還有僦船時。
-- 八風舞罷君恩歇，贏得閑愁上兩眉。
+- □□□間不知裁，老思安能更奪胎。
+- 九制一揮嗟事在，重□雙導繫時來。
+- 擬營草具留連賞，莫放花神取次開。
+- 堪歎吾門今寂寂，過江曾有兩掄魁。
 
 ## 拼音
 
-- heng2 shen1 jiu3 sai1 yang2 zhu1 lu4 ， sa3 qi4 e2 bei1 mo4 zi3 qi2 。
-- lou4 yi3 she4 gou1 er2 zhong1 zhe3 ， zhuang4 zai1 ming2 gu3 yi3 gong1 zhi1 。
-- shi4 du2 zi4 wu2 qian1 fu3 fen1 ， zhong1 cheng2 huan2 you3 jiu4 chuan2 shi2 。
-- ba1 feng1 wu3 ba4 jun1 en1 xie1 ， ying2 de2 xian2 chou2 shang4 liang3 mei2 。
+- □□□ jian4 bu4 zhi1 cai2 ， lao3 si1 an1 neng2 geng4 duo2 tai1 。
+- jiu3 zhi4 yi4 hui1 jie1 shi4 zai4 ， zhong4 □ shuang1 dao3 xi4 shi2 lai2 。
+- ni3 ying2 cao3 ju4 liu2 lian2 shang3 ， mo4 fang4 hua1 shen2 qu3 ci4 kai1 。
+- kan1 tan4 wu2 men2 jin1 ji4 ji4 ， guo4 jiang1 ceng2 you3 liang3 lun1 kui2 。
 
 ## 注释
 

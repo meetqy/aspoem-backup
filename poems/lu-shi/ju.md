@@ -3,22 +3,22 @@ id: lu-shi-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 呂氏
+author: 呂拭
 authorPinyin: lü3 shi4
 authorSlug: lu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 前身當是陶淵明，愛酒不入遠公社。
+- 松竹初栽未靚深。
 
 ## 拼音
 
-- qian2 shen1 dang1 shi4 tao2 yuan1 ming2 ， ai4 jiu3 bu2 ru4 yuan3 gong1 she4 。
+- song1 zhu2 chu1 zai1 wei4 jing4 shen1 。
 
 ## 注释
 

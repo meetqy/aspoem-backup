@@ -6,25 +6,21 @@ titleSlug: feng-gan-zan
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 加紗挂頭何規矩，眼要看經不識字。
-- 差般差樣掣風顛，硬作斑貓騎作虎。
-- 道是彌陀，有何本據。
-- 閭丘太守，似蘇州子。
+- 冷坐松陰指顧誰，說無義語放憨癡。
+- 多方引得閭丘笑，彩好斑斑睡不知。
 
 ## 拼音
 
-- jia1 sha1 gua4 tou2 he2 gui1 ju3 ， yan3 yao4 kan4 jing1 bu4 shi2 zi4 。
-- cha4 ban1 cha4 yang4 che4 feng1 dian1 ， ying4 zuo4 ban1 mao1 qi2 zuo4 hu3 。
-- dao4 shi4 mi2 tuo2 ， you3 he2 ben3 ju4 。
-- lü2 qiu1 tai4 shou3 ， si4 su1 zhou1 zi3 。
+- leng3 zuo4 song1 yin1 zhi3 gu4 shui2 ， shuo1 wu2 yi4 yu3 fang4 han1 chi1 。
+- duo1 fang1 yin3 de2 lü2 qiu1 xiao4 ， cai3 hao3 ban1 ban1 shui4 bu4 zhi1 。
 
 ## 注释
 

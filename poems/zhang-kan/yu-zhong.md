@@ -6,21 +6,21 @@ titleSlug: yu-zhong
 author: 張侃
 authorPinyin: zhang1 kan3
 authorSlug: zhang-kan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寒山草木疎，蒼翠因雨濕。
-- 日暮來不來，前溪借蓑笠。
+- 風清園蝶粉猶輕，雨冷吳蠶繭未成。
+- 盡說溪村年事好，又添漁子笑浮生。
 
 ## 拼音
 
-- han2 shan1 cao3 mu4 shu1 ， cang1 cui4 yin1 yu3 shi1 。
-- ri4 mu4 lai2 bu0 lai2 ， qian2 xi1 jie4 suo1 li4 。
+- feng1 qing1 yuan2 die2 fen3 you2 qing1 ， yu3 leng3 wu2 can2 jian3 wei4 cheng2 。
+- jin4 shuo1 xi1 cun1 nian2 shi4 hao3 ， you4 tian1 yu2 zi3 xiao4 fu2 sheng1 。
 
 ## 注释
 

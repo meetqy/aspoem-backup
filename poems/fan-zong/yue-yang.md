@@ -6,10 +6,10 @@ titleSlug: yue-yang
 author: 范綜
 authorPinyin: fan4 zong1
 authorSlug: fan-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

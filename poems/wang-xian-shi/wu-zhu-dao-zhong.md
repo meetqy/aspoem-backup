@@ -6,10 +6,10 @@ titleSlug: wu-zhu-dao-zhong
 author: 王顯世
 authorPinyin: wang2 xian3 shi4
 authorSlug: wang-xian-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

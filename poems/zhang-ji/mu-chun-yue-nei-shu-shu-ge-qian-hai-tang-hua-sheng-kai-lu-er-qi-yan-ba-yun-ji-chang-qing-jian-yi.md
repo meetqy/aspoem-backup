@@ -6,9 +6,9 @@ titleSlug: mu-chun-yue-nei-shu-shu-ge-qian-hai-tang-hua-sheng-kai-lu-er-qi-yan-b
 author: 張洎
 authorPinyin: zhang1 ji4
 authorSlug: zhang-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

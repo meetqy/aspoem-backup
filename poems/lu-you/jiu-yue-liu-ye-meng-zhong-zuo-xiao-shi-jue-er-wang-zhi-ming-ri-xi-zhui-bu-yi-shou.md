@@ -6,10 +6,10 @@ titleSlug: jiu-yue-liu-ye-meng-zhong-zuo-xiao-shi-jue-er-wang-zhi-ming-ri-xi-zhu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

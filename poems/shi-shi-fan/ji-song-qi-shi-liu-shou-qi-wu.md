@@ -1,32 +1,28 @@
 ---
 id: shi-shi-fan-ji-song-qi-shi-liu-shou-qi-wu
-title: 偈頌七十六首  其五
-titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 wu3
+title: 偈頌七十六首  其五○
+titlePinyin: ji4 song4 qi1 shi2 liu4 shou3     qi2 wu3 ○
 titleSlug: ji-song-qi-shi-liu-shou-qi-wu
 author: 釋師範
 authorPinyin: shi4 shi1 fan4
 authorSlug: shi-shi-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五峰門下，三箇五箇。
-- 衲被幪頭，圍爐打坐。
-- 鼻笑瞿曇，平欺達磨。
-- 又誰管你，張三李六。
-- 諸方爐鞴正炎炎，何似徑山文武火。
+- 一年十二月，月月有月半。
+- 何獨喜中秋，一時爭賞玩。
+- 人人盡道十分圓，我道依前缺一半。
 
 ## 拼音
 
-- wu3 feng1 men2 xia4 ， san1 ge4 wu3 ge4 。
-- na4 bei4 meng2 tou2 ， wei2 lu2 da3 zuo4 。
-- bi2 xiao4 qu2 tan2 ， ping2 qi1 da2 mo2 。
-- you4 shui2 guan3 ni3 ， zhang1 san1 li3 liu4 。
-- zhu1 fang1 lu2 bei4 zheng4 yan2 yan2 ， he2 si4 jing4 shan1 wen2 wu3 huo3 。
+- yi4 nian2 shi2 er4 yue4 ， yue4 yue4 you3 yue4 ban4 。
+- he2 du2 xi3 zhong1 qiu1 ， yi4 shi2 zheng1 shang3 wan2 。
+- ren2 ren2 jin4 dao4 shi2 fen1 yuan2 ， wo3 dao4 yi1 qian2 que1 yi2 ban4 。
 
 ## 注释
 

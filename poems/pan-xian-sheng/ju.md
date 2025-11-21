@@ -6,9 +6,9 @@ titleSlug: ju
 author: 潘先生
 authorPinyin: pan1 xian1 sheng0
 authorSlug: pan-xian-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

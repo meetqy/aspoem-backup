@@ -6,21 +6,21 @@ titleSlug: tian-fu-yin-wu-shou-qi-si
 author: 葉茵
 authorPinyin: ye4 yin1
 authorSlug: ye-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 記得年時竈不煙，土倉今番遶門邊。
-- 已占此後無憂色，綠遍村前菜麥田。
+- 未曉催車水滿溝，男兒鬼面婦蓬頭。
+- 但求一熟償逋債，留得糠粞便不憂。
 
 ## 拼音
 
-- ji4 de2 nian2 shi2 zao4 bu4 yan1 ， tu3 cang1 jin1 fan1 rao4 men2 bian1 。
-- yi3 zhan4 ci3 hou4 wu2 you1 se4 ， lü4 bian4 cun1 qian2 cai4 mai4 tian2 。
+- wei4 xiao3 cui1 ju1 shui3 man3 gou1 ， nan2 er2 gui3 mian4 fu4 peng2 tou2 。
+- dan4 qiu2 yi4 shu2 chang2 bu1 zhai4 ， liu2 de2 kang1 xi1 bian4 bu4 you1 。
 
 ## 注释
 

@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋可勳
 authorPinyin: shi4 ke3 xun1
 authorSlug: shi-ke-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

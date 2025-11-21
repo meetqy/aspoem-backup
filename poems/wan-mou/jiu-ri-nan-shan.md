@@ -6,10 +6,10 @@ titleSlug: jiu-ri-nan-shan
 author: 萬某
 authorPinyin: wan4 mou3
 authorSlug: wan-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

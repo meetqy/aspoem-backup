@@ -6,10 +6,10 @@ titleSlug: bai-gui-quan
 author: 皇甫渙
 authorPinyin: huang2 fu3 huan4
 authorSlug: huang-fu-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

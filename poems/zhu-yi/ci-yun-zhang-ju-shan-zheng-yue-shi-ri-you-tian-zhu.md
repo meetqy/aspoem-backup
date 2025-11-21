@@ -6,9 +6,9 @@ titleSlug: ci-yun-zhang-ju-shan-zheng-yue-shi-ri-you-tian-zhu
 author: 朱翌
 authorPinyin: zhu1 yi4
 authorSlug: zhu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

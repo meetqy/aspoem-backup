@@ -6,10 +6,10 @@ titleSlug: lu-ling-liu-shi-yi-zhong-li-wu-zhen-shang-he-yu-yun-ye-ban-de-shi-ju-
 author: 徐文卿
 authorPinyin: xu2 wen2 qing1
 authorSlug: xu-wen-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

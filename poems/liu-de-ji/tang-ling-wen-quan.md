@@ -6,10 +6,10 @@ titleSlug: tang-ling-wen-quan
 author: 柳德驥
 authorPinyin: liu3 de2 ji4
 authorSlug: liu-de-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

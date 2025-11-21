@@ -6,9 +6,9 @@ titleSlug: ping-shan-ye-xue
 author: 熊彥詩
 authorPinyin: xiong2 yan4 shi1
 authorSlug: xiong-yan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

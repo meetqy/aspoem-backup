@@ -1,24 +1,24 @@
 ---
 id: chen-hu-ju-qi-san
-title: 句  其三
-titlePinyin: ju4     qi2 san1
+title: 句  其三○
+titlePinyin: ju4     qi2 san1 ○
 titleSlug: ju-qi-san
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 動地百年無桀跖，後天一壽有顔曾。
+- 千帆過眼人何在，一笛穿雲水自橫。
 
 ## 拼音
 
-- dong4 di4 bai3 nian2 wu2 jie2 zhi2 ， hou4 tian1 yi2 shou4 you3 yan2 ceng2 。
+- qian1 fan1 guo4 yan3 ren2 he2 zai4 ， yi4 di2 chuan1 yun2 shui3 zi4 heng2 。
 
 ## 注释
 

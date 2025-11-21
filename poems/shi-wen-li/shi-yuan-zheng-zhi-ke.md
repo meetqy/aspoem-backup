@@ -6,10 +6,10 @@ titleSlug: shi-yuan-zheng-zhi-ke
 author: 釋文禮
 authorPinyin: shi4 wen2 li3
 authorSlug: shi-wen-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

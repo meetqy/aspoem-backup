@@ -6,10 +6,10 @@ titleSlug: ci-jia-qiu-he-shi-qi-er
 author: 咸淳士人
 authorPinyin: xian2 chun2 shi4 ren2
 authorSlug: xian-chun-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

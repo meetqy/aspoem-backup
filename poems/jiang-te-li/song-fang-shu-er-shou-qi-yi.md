@@ -6,21 +6,21 @@ titleSlug: song-fang-shu-er-shou-qi-yi
 author: 姜特立
 authorPinyin: jiang1 te4 li4
 authorSlug: jiang-te-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我走塵埃君入山，須知靜躁不相關。
-- 何時賓主俱無事，雅志堂前一解顔。
+- 管絃韵勝堪娛客，山水音清好賦詩。
+- 底事翩然欲歸去，尊前風月又相思。
 
 ## 拼音
 
-- wo3 zou3 chen2 ai1 jun1 ru4 shan1 ， xu1 zhi1 jing4 zao4 bu4 xiang1 guan1 。
-- he2 shi2 bin1 zhu3 ju4 wu2 shi4 ， ya3 zhi4 tang2 qian2 yi4 jie3 yan2 。
+- guan3 xian2 yun4 sheng4 kan1 yu2 ke4 ， shan1 shui3 yin1 qing1 hao3 fu4 shi1 。
+- di3 shi4 pian1 ran2 yu4 gui1 qu4 ， zun1 qian2 feng1 yue4 you4 xiang1 si1 。
 
 ## 注释
 

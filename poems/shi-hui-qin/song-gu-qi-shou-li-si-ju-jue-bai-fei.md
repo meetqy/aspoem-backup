@@ -6,10 +6,10 @@ titleSlug: song-gu-qi-shou-li-si-ju-jue-bai-fei
 author: 釋慧懃
 authorPinyin: shi4 hui4 qin2
 authorSlug: shi-hui-qin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

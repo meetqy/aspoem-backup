@@ -6,25 +6,21 @@ titleSlug: huan-xi-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行年六十一，筋骸未甚老。
-- 已爲兩世人，便化豈爲夭。
-- 況且粗康强，又復無憂撓。
-- 如何不喜歡，佳辰自不少。
+- 揚善不揚惡，記恩不記讎。
+- 人人自歡喜，何患少交遊。
 
 ## 拼音
 
-- xing2 nian2 liu4 shi2 yi1 ， jin1 hai2 wei4 shen4 lao3 。
-- yi3 wei2 liang3 shi4 ren2 ， bian4 hua4 qi3 wei2 yao1 。
-- kuang4 qie3 cu1 kang1 qiang2 ， you4 fu4 wu2 you1 nao2 。
-- ru2 he2 bu4 xi3 huan1 ， jia1 chen2 zi4 bu4 shao3 。
+- yang2 shan4 bu4 yang2 e4 ， ji4 en1 bu2 ji4 chou2 。
+- ren2 ren2 zi4 huan1 xi3 ， he2 huan4 shao3 jiao1 you2 。
 
 ## 注释
 

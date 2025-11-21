@@ -6,25 +6,21 @@ titleSlug: fa-jin-ling-zhe-liu-ting-er-shou-qi-er
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桃李蕃晴日，江山秀晚春。
-- 孤舟多病客，長道未歸人。
-- 豪俗競行樂，倦遊慵問津。
-- 南山還暮雨，疑有楚臺神。
+- 瞿曇昔教我，林下一宵行。
+- 何事春江上，依依作俗情。
 
 ## 拼音
 
-- tao2 li3 fan1 qing2 ri4 ， jiang1 shan1 xiu4 wan3 chun1 。
-- gu1 zhou1 duo1 bing4 ke4 ， chang2 dao4 wei4 gui1 ren2 。
-- hao2 su2 jing4 xing2 le4 ， juan4 you2 yong1 wen4 jin1 。
-- nan2 shan1 huan2 mu4 yu3 ， yi2 you3 chu3 tai2 shen2 。
+- qu2 tan2 xi1 jiao4 wo3 ， lin2 xia4 yi4 xiao1 xing2 。
+- he2 shi4 chun1 jiang1 shang4 ， yi1 yi1 zuo4 su2 qing2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shou-tai-shi-qi-si
 author: 吳順之
 authorPinyin: wu2 shun4 zhi1
 authorSlug: wu-shun-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

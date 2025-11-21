@@ -6,10 +6,10 @@ titleSlug: he-zhong-cheng-xu-rong-zhai-guan-hu-wei-yang
 author: 王奕
 authorPinyin: wang2 yi4
 authorSlug: wang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -3,22 +3,24 @@ id: xue-ying-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 薛映
-authorPinyin: xue1 ying4
+author: 薛瑩
+authorPinyin: xue1 ying2
 authorSlug: xue-ying
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 黄鵠晨霞傍樓起，頭陀秋草繞碑荒。
+- 單棹橫疎雨，江灘秋泊時。
+- 花留身住越，月遞夢還秦。
 
 ## 拼音
 
-- huang2 hu2 chen2 xia2 bang4 lou2 qi3 ， tou2 tuo2 qiu1 cao3 rao4 bei1 huang1 。
+- dan1 zhao4 heng2 shu1 yu3 ， jiang1 tan1 qiu1 bo2 shi2 。
+- hua1 liu2 shen1 zhu4 yue4 ， yue4 di4 meng4 huan2 qin2 。
 
 ## 注释
 

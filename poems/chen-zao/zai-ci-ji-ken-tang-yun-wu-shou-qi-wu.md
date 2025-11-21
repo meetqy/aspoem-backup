@@ -6,21 +6,21 @@ titleSlug: zai-ci-ji-ken-tang-yun-wu-shou-qi-wu
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 好在新居勝舊居，右連靈隠面西湖。
-- 東南勝境誰同領，我亦閑官一事無。
+- 精藍端未下雲居，况復僧中有後湖。
+- 理障禪那俱坐斷，頗嘗遊戲到詩無。
 
 ## 拼音
 
-- hao3 zai4 xin1 ju1 sheng4 jiu4 ju1 ， you4 lian2 ling2 yin3 mian4 xi1 hu2 。
-- dong1 nan2 sheng4 jing4 shui2 tong2 ling3 ， wo3 yi4 xian2 guan1 yi2 shi4 wu2 。
+- jing1 lan2 duan1 wei4 xia4 yun2 ju1 ， kuang4 fu4 seng1 zhong1 you3 hou4 hu2 。
+- li3 zhang4 shan4 na4 ju4 zuo4 duan4 ， po1 chang2 you2 xi4 dao4 shi1 wu2 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: wen-tong-song-pan-si-li-mi-xiao-qi-er
-title: 送潘司理秘校・其二
-titlePinyin: song4 pan1 si1 li3 mi4 xiao4・qi2 er4
+title: 送潘司理秘校  其二
+titlePinyin: song4 pan1 si1 li3 mi4 xiao4     qi2 er4
 titleSlug: song-pan-si-li-mi-xiao-qi-er
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

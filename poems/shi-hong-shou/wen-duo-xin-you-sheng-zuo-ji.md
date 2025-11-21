@@ -6,10 +6,10 @@ titleSlug: wen-duo-xin-you-sheng-zuo-ji
 author: 釋洪壽
 authorPinyin: shi4 hong2 shou4
 authorSlug: shi-hong-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

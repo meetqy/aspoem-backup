@@ -6,10 +6,10 @@ titleSlug: yong-he-qing-dou-guan-xie-dao-shi-tong-yan-zhen-fa-wen-qi-nian-sheng-
 author: 蘇軾
 authorPinyin: su1 shi4
 authorSlug: su-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

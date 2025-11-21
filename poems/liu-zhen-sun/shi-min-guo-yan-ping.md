@@ -6,10 +6,10 @@ titleSlug: shi-min-guo-yan-ping
 author: 劉震孫
 authorPinyin: liu2 zhen4 sun1
 authorSlug: liu-zhen-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

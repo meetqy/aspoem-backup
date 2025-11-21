@@ -6,10 +6,10 @@ titleSlug: he-ding-zu-shun-lu-sun-zhi-yun
 author: 陳淳
 authorPinyin: chen2 chun2
 authorSlug: chen-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

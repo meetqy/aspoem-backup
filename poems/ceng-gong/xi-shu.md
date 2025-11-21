@@ -6,25 +6,25 @@ titleSlug: xi-shu
 author: 曾鞏
 authorPinyin: ceng2 gong3
 authorSlug: ceng-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 家貧故不用籌算，官冷又能無外憂。
-- 交遊斷絕正當爾，眠飯安穩餘何求。
-- 君不見黄金滿籝要心計，大印如斗爲身讎。
-- 妻孥意氣賓客附，往往主人先白頭。
+- 集賢自笑文章少，爲郡誰言樂事多。
+- 報答書題親筆硯，逢迎使客聽笙歌。
+- 一心了了無人語，兩鬢蕭蕭奈老何。
+- 還有不隨流俗處，秋毫無累損天和。
 
 ## 拼音
 
-- jia1 pin2 gu4 bu2 yong4 chou2 suan4 ， guan1 leng3 you4 neng2 wu2 wai4 you1 。
-- jiao1 you2 duan4 jue2 zheng4 dang1 er3 ， mian2 fan4 an1 wen3 yu2 he2 qiu2 。
-- jun1 bu2 jian4 huang2 jin1 man3 ying2 yao4 xin1 ji4 ， da4 yin4 ru2 dou4 wei2 shen1 chou2 。
-- qi1 nu2 yi4 qi4 bin1 ke4 fu4 ， wang3 wang3 zhu3 ren2 xian1 bai2 tou2 。
+- ji2 xian2 zi4 xiao4 wen2 zhang1 shao3 ， wei2 jun4 shui2 yan2 le4 shi4 duo1 。
+- bao4 da2 shu1 ti2 qin1 bi3 yan4 ， feng2 ying2 shi3 ke4 ting1 sheng1 ge1 。
+- yi4 xin1 liao3 liao3 wu2 ren2 yu3 ， liang3 bin4 xiao1 xiao1 nai4 lao3 he2 。
+- huan2 you3 bu4 sui2 liu2 su2 chu3 ， qiu1 hao2 wu2 lei4 sun3 tian1 he2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: meng-xiang-yang-zhan-sheng-jia
 author: 鄧克中
 authorPinyin: deng4 ke4 zhong1
 authorSlug: deng-ke-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

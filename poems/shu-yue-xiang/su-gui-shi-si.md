@@ -6,25 +6,21 @@ titleSlug: su-gui-shi-si
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朅來誰主我，野寺得閑行。
-- 借屋安書庋，就巖搘飯鐺。
-- 山晴分鴈轉，水煖見魚生。
-- 無事人情好，相逢總笑迎。
+- 山深無橫吏，客至氣和平。
+- 野寺鳴鐘罷，安眠到五更。
 
 ## 拼音
 
-- qie4 lai2 shui2 zhu3 wo3 ， ye3 si4 de2 xian2 xing2 。
-- jie4 wu1 an1 shu1 gui3 ， jiu4 yan2 zhi1 fan4 dang1 。
-- shan1 qing2 fen1 yan4 zhuan3 ， shui3 xuan1 jian4 yu2 sheng1 。
-- wu2 shi4 ren2 qing2 hao3 ， xiang1 feng2 zong3 xiao4 ying2 。
+- shan1 shen1 wu2 heng2 li4 ， ke4 zhi4 qi4 he2 ping2 。
+- ye3 si4 ming2 zhong1 ba4 ， an1 mian2 dao4 wu3 geng1 。
 
 ## 注释
 

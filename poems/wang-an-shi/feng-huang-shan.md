@@ -6,25 +6,25 @@ titleSlug: feng-huang-shan
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 驅馬信所適，落日望九州。
-- 青山滿天地，何往爲吾丘。
-- 貧賤身秖辱，富貴道足羞。
-- 涉世諒如此，惜哉去無由。
+- 歡樂欲與少年期，人生百年常苦遲。
+- 白頭富貴何所用，氣力但爲憂勤衰。
+- 願爲五陵輕薄兒，生在貞觀開元時。
+- 鬥鷄走犬過一生，天地安危兩不知。
 
 ## 拼音
 
-- qu1 ma3 xin4 suo3 shi4 ， luo4 ri4 wang4 jiu3 zhou1 。
-- qing1 shan1 man3 tian1 di4 ， he2 wang3 wei2 wu2 qiu1 。
-- pin2 jian4 shen1 zhi3 ru3 ， fu4 gui4 dao4 zu2 xiu1 。
-- she4 shi4 liang4 ru2 ci3 ， xi1 zai1 qu4 wu2 you2 。
+- huan1 le4 yu4 yu3 shao4 nian2 qi1 ， ren2 sheng1 bai3 nian2 chang2 ku3 chi2 。
+- bai2 tou2 fu4 gui4 he2 suo3 yong4 ， qi4 li4 dan4 wei2 you1 qin2 shuai1 。
+- yuan4 wei2 wu3 ling2 qing1 bao2 er2 ， sheng1 zai4 zhen1 guan1 kai1 yuan2 shi2 。
+- dou4 ji1 zou3 quan3 guo4 yi4 sheng1 ， tian1 di4 an1 wei1 liang3 bu4 zhi1 。
 
 ## 注释
 

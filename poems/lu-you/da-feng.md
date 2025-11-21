@@ -6,25 +6,25 @@ titleSlug: da-feng
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今年毒熱不可支，白汗如雨愁纖絺。
-- 皇天悔禍爲一洗，秋風作意来如期。
-- 聲如怒濤撼坤軸，夜半折我南齋竹。
-- 幽人晨起得奇觀，鳳尾襳襹一窗緑。
+- 風大連三夕，衰翁不出門。
+- 兒言卷茅屋，奴報徹蘆藩。
+- 狼藉鴉擠壑，縱橫葉滿園。
+- 乘除有今旦，紅日上車軒。
 
 ## 拼音
 
-- jin1 nian2 du2 re4 bu4 ke3 zhi1 ， bai2 han4 ru2 yu3 chou2 xian1 chi1 。
-- huang2 tian1 hui3 huo4 wei2 yi4 xi3 ， qiu1 feng1 zuo4 yi4 lai2 ru2 qi1 。
-- sheng1 ru2 nu4 tao1 han4 kun1 zhou2 ， ye4 ban4 zhe2 wo3 nan2 zhai1 zhu2 。
-- you1 ren2 chen2 qi3 de2 qi2 guan1 ， feng4 wei3 xian1 shi1 yi4 chuang1 lü4 。
+- feng1 da4 lian2 san1 xi1 ， shuai1 weng1 bu4 chu1 men2 。
+- er2 yan2 juan4 mao2 wu1 ， nu2 bao4 che4 lu2 fan1 。
+- lang2 ji2 ya1 ji3 he4 ， zong4 heng2 ye4 man3 yuan2 。
+- cheng2 chu2 you3 jin1 dan4 ， hong2 ri4 shang4 ju1 xuan1 。
 
 ## 注释
 

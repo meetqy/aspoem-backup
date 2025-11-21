@@ -6,25 +6,25 @@ titleSlug: chun-hua-zhong-chao-hui-er-shi-san-shou-you-liu-bian-qi-er
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鴻範合彝倫，調元四序均。
-- 歲功天吏正，御苑物華新。
-- 底貢陳方物，來賓列遠人。
-- 奉常呈九奏，嘉貺動穹旻。
+- 聲教方柔遠，甌閩禮可招。
+- 獻圖連日際，歸國象江潮。
+- 撫運重熙盛，提封萬里遥。
+- 還同有虞氏，文德格三苗。
 
 ## 拼音
 
-- hong2 fan4 he2 yi2 lun2 ， diao4 yuan2 si4 xu4 jun1 。
-- sui4 gong1 tian1 li4 zheng4 ， yu4 yuan4 wu4 hua2 xin1 。
-- di3 gong4 chen2 fang1 wu4 ， lai2 bin1 lie4 yuan3 ren2 。
-- feng4 chang2 cheng2 jiu3 zou4 ， jia1 kuang4 dong4 qiong2 min2 。
+- sheng1 jiao4 fang1 rou2 yuan3 ， ou1 min3 li3 ke3 zhao1 。
+- xian4 tu2 lian2 ri4 ji4 ， gui1 guo2 xiang4 jiang1 chao2 。
+- fu3 yun4 zhong4 xi1 sheng4 ， ti2 feng1 wan4 li3 yao2 。
+- huan2 tong2 you3 yu2 shi4 ， wen2 de2 ge2 san1 miao2 。
 
 ## 注释
 

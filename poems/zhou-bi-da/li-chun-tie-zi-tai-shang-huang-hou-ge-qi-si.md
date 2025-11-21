@@ -6,21 +6,21 @@ titleSlug: li-chun-tie-zi-tai-shang-huang-hou-ge-qi-si
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 徽音有永坤寧殿，內助無勞德壽宮。
-- 未問夭桃與穠李，先須歌詠二南功。
+- 郁郁紛紛三素雲，元君朝帝慶新春。
+- 瓊樓玉女爭迎拜，應許雙成侍給輪。
 
 ## 拼音
 
-- hui1 yin1 you3 yong3 kun1 ning2 dian4 ， nei4 zhu4 wu2 lao2 de2 shou4 gong1 。
-- wei4 wen4 yao1 tao2 yu3 nong2 li3 ， xian1 xu1 ge1 yong3 er4 nan2 gong1 。
+- yu4 yu4 fen1 fen1 san1 su4 yun2 ， yuan2 jun1 chao2 di4 qing4 xin1 chun1 。
+- qiong2 lou2 yu4 nü3 zheng1 ying2 bai4 ， ying1 xu1 shuang1 cheng2 shi4 gei3 lun2 。
 
 ## 注释
 

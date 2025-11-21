@@ -6,10 +6,10 @@ titleSlug: bi-luo-dong
 author: 陳煥子弟
 authorPinyin: chen2 huan4 zi3 di4
 authorSlug: chen-huan-zi-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

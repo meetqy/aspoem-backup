@@ -6,10 +6,10 @@ titleSlug: wu-jiang-huai-gu
 author: 胡元質
 authorPinyin: hu2 yuan2 zhi4
 authorSlug: hu-yuan-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-li-shan
 author: 孫漸
 authorPinyin: sun1 jian4
 authorSlug: sun-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ke-tan-ju-shan-da-zi-jin-shi-jin-shi-ji-xin-xiang-ma-yun-yu-fu-hai-yi
 author: 陳杰
 authorPinyin: chen2 jie2
 authorSlug: chen-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

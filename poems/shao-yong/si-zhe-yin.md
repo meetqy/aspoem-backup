@@ -6,25 +6,21 @@ titleSlug: si-zhe-yin
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 目時然後視，耳時然後聽。
-- 口時然後言，身時然後行。
-- 前不見厚祿，後不見重兵。
-- 惟其義所在，安知利與名。
+- 財色名勢，爲世所親。
+- 四者不動，然後見人。
 
 ## 拼音
 
-- mu4 shi2 ran2 hou4 shi4 ， er3 shi2 ran2 hou4 ting1 。
-- kou3 shi2 ran2 hou4 yan2 ， shen1 shi2 ran2 hou4 xing2 。
-- qian2 bu2 jian4 hou4 lu4 ， hou4 bu2 jian4 zhong4 bing1 。
-- wei2 qi2 yi4 suo3 zai4 ， an1 zhi1 li4 yu3 ming2 。
+- cai2 se4 ming2 shi4 ， wei2 shi4 suo3 qin1 。
+- si4 zhe3 bu2 dong4 ， ran2 hou4 jian4 ren2 。
 
 ## 注释
 

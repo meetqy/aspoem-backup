@@ -6,10 +6,10 @@ titleSlug: ti-yuan-lin-bei-lou
 author: 鄭隼
 authorPinyin: zheng4 sun3
 authorSlug: zheng-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

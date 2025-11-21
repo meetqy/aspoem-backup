@@ -6,21 +6,21 @@ titleSlug: ji-zhou-ji-qing-qi-yi
 author: 仇遠
 authorPinyin: chou2 yuan3
 authorSlug: chou-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 采菊籬根蘂尚青，開門稚子喜新晴。
-- 笑翁錯料人間事，風雨如何不滿城。
+- 閒居偏愛十日菊，歸計何資三月糧。
+- 肉食不煩憂菜色，田家粳稻已炊香。
 
 ## 拼音
 
-- cai3 ju2 li2 gen1 rui3 shang4 qing1 ， kai1 men2 zhi4 zi3 xi3 xin1 qing2 。
-- xiao4 weng1 cuo4 liao4 ren2 jian4 shi4 ， feng1 yu3 ru2 he2 bu4 man3 cheng2 。
+- xian2 ju1 pian1 ai4 shi2 ri4 ju2 ， gui1 ji4 he2 zi1 san1 yue4 liang2 。
+- rou4 shi2 bu4 fan2 you1 cai4 se4 ， tian2 jia1 jing1 dao4 yi3 chui1 xiang1 。
 
 ## 注释
 

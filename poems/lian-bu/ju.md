@@ -6,9 +6,9 @@ titleSlug: ju
 author: 廉布
 authorPinyin: lian2 bu4
 authorSlug: lian-bu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

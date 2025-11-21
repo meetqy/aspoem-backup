@@ -6,10 +6,10 @@ titleSlug: yi-dong-wu-xue-he-lu-fang-weng-mei-shi-lu-ju-hao-kua-yu-ju-qing-ku-ya
 author: 程公許
 authorPinyin: cheng2 gong1 xu1
 authorSlug: cheng-gong-xu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

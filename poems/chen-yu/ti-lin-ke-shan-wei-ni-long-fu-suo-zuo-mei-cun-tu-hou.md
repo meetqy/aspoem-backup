@@ -6,10 +6,10 @@ titleSlug: ti-lin-ke-shan-wei-ni-long-fu-suo-zuo-mei-cun-tu-hou
 author: 陳郁
 authorPinyin: chen2 yu4
 authorSlug: chen-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

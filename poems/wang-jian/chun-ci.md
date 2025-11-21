@@ -9,20 +9,18 @@ authorSlug: wang-jian
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紅煙滿戶日照梁，天絲軟弱蟲飛揚。
-- 菱花霍霍繞帷光，美人對鏡著衣裳。
-- 庭中並種相思樹，夜夜還棲雙鳳凰。
+- 良人朝早半夜起，櫻桃如珠露如水。
+- 下堂把火送郎回，移枕重眠曉窗裏。
 
 ## 拼音
 
-- hong2 yan1 man3 hu4 ri4 zhao4 liang2 ， tian1 si1 ruan3 ruo4 chong2 fei1 yang2 。
-- ling2 hua1 huo4 huo4 rao4 wei2 guang1 ， mei3 ren2 dui4 jing4 zhu4 yi1 shang0 。
-- ting2 zhong1 bing4 zhong3 xiang1 si1 shu4 ， ye4 ye4 huan2 qi1 shuang1 feng4 huang2 。
+- liang2 ren2 chao2 zao3 ban4 ye4 qi3 ， ying1 tao2 ru2 zhu1 lu4 ru2 shui3 。
+- xia4 tang2 ba3 huo3 song4 lang2 hui2 ， yi2 zhen3 zhong4 mian2 xiao3 chuang1 li3 。
 
 ## 注释
 

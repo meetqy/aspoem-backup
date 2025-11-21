@@ -1,30 +1,30 @@
 ---
 id: zhao-fan-ji-qiu-huai-qi-yi
-title: 寄秋懷  其一
-titlePinyin: ji4 qiu1 huai2     qi2 yi1
+title: 寄秋懷  其一○
+titlePinyin: ji4 qiu1 huai2     qi2 yi1 ○
 titleSlug: ji-qiu-huai-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 兩月巴陵郡，搜詩朝暮間。
-- 空能飲江水，恨不上君山。
-- 昔者聞何至，今焉興盡還。
-- 才名或遭駡，坎軻分低顔。
+- 兩載沅湘役，雖勞何所爲。
+- 蝦行仍蛭渡，猶豫復狐疑。
+- 孰念鉏犁把，殊勝手板持。
+- 山南與山北，舍子更從誰。
 
 ## 拼音
 
-- liang3 yue4 ba1 ling2 jun4 ， sou1 shi1 zhao1 mu4 jian4 。
-- kong1 neng2 yin3 jiang1 shui3 ， hen4 bu2 shang4 jun1 shan1 。
-- xi1 zhe3 wen2 he2 zhi4 ， jin1 yan1 xing1 jin4 huan2 。
-- cai2 ming2 huo4 zao1 ma4 ， kan3 ke1 fen1 di1 yan2 。
+- liang3 zai4 yuan2 xiang1 yi4 ， sui1 lao2 he2 suo3 wei2 。
+- xia1 xing2 reng2 zhi4 du4 ， you2 yu4 fu4 hu2 yi2 。
+- shu2 nian4 chu2 li2 ba3 ， shu1 sheng4 shou3 ban3 chi2 。
+- shan1 nan2 yu3 shan1 bei3 ， she4 zi3 geng4 cong2 shui2 。
 
 ## 注释
 

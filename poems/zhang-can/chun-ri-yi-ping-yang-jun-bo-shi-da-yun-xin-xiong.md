@@ -6,10 +6,10 @@ titleSlug: chun-ri-yi-ping-yang-jun-bo-shi-da-yun-xin-xiong
 author: 章粲
 authorPinyin: zhang1 can4
 authorSlug: zhang-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

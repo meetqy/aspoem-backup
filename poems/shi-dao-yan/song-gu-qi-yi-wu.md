@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-qi-yi-wu
-title: 頌古  其一五
-titlePinyin: song4 gu3     qi2 yi1 wu3
+title: 頌古  其一○五
+titlePinyin: song4 gu3     qi2 yi1 ○ wu3
 titleSlug: song-gu-qi-yi-wu
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 大唐國內無禪師，禮拜歸堂更不疑。
-- 堪笑河陽新婦子，不如臨濟小廝兒。
+- 入林不動草，入水不動波。
+- 鑊湯無冷處，合眼跳黄河。
 
 ## 拼音
 
-- da4 tang2 guo2 nei4 wu2 shan4 shi1 ， li3 bai4 gui1 tang2 geng4 bu4 yi2 。
-- kan1 xiao4 he2 yang2 xin1 fu4 zi3 ， bu4 ru2 lin2 ji4 xiao3 si1 er2 。
+- ru4 lin2 bu2 dong4 cao3 ， ru4 shui3 bu2 dong4 bo1 。
+- huo4 tang1 wu2 leng3 chu3 ， he2 yan3 tiao4 huang2 he2 。
 
 ## 注释
 

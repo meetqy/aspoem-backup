@@ -6,10 +6,10 @@ titleSlug: fen-ju
 author: 郭仁
 authorPinyin: guo1 ren2
 authorSlug: guo-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

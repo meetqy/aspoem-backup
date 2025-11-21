@@ -6,10 +6,10 @@ titleSlug: qiang-wei-shi-yi-shou-shi-ba-yun-cheng-dong-hai-shi-lang-xu-xuan
 author: 李從善
 authorPinyin: li3 cong2 shan4
 authorSlug: li-cong-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shu-luo-gong-bei-yin
 author: 艾可翁
 authorPinyin: ai4 ke3 weng1
 authorSlug: ai-ke-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

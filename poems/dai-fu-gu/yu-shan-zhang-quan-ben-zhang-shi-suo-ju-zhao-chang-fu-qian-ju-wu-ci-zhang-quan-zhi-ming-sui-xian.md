@@ -6,10 +6,10 @@ titleSlug: yu-shan-zhang-quan-ben-zhang-shi-suo-ju-zhao-chang-fu-qian-ju-wu-ci-z
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

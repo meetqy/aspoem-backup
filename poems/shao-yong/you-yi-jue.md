@@ -6,21 +6,21 @@ titleSlug: you-yi-jue
 author: 邵雍
 authorPinyin: shao4 yong1
 authorSlug: shao-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 正當老輩過從日，況值高秋摇落天。
-- 一把黄花一樽酒，故人西去又經年。
+- 手足恩情重，塤篪歡樂長。
+- 要知能忘處，墳草兩荒凉。
 
 ## 拼音
 
-- zheng4 dang1 lao3 bei4 guo4 cong2 ri4 ， kuang4 zhi2 gao1 qiu1 yao2 luo4 tian1 。
-- yi4 ba3 huang2 hua1 yi4 zun1 jiu3 ， gu4 ren2 xi1 qu4 you4 jing1 nian2 。
+- shou3 zu2 en1 qing2 zhong4 ， xun1 chi2 huan1 le4 chang2 。
+- yao4 zhi1 neng2 wang4 chu3 ， fen2 cao3 liang3 huang1 liang2 。
 
 ## 注释
 

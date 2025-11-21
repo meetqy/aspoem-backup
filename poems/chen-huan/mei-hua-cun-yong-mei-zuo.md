@@ -6,10 +6,10 @@ titleSlug: mei-hua-cun-yong-mei-zuo
 author: 陳煥
 authorPinyin: chen2 huan4
 authorSlug: chen-huan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: wang-da-ling-yi-xu-yan-wang-yin-ju-shou-zhi-mu-xi-wu-jun-ting-fu-shi-
 author: 方蘋
 authorPinyin: fang1 pin2
 authorSlug: fang-pin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

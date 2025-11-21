@@ -1,26 +1,26 @@
 ---
 id: huang-ting-jian-zai-he-yuan-li-chun-huai-shi-shou-qi-yi
-title: 再和元禮春懷十首  其一
-titlePinyin: zai4 he2 yuan2 li3 chun1 huai2 shi2 shou3     qi2 yi1
+title: 再和元禮春懷十首  其一○
+titlePinyin: zai4 he2 yuan2 li3 chun1 huai2 shi2 shou3     qi2 yi1 ○
 titleSlug: zai-he-yuan-li-chun-huai-shi-shou-qi-yi
 author: 黄庭堅
 authorPinyin: huang2 ting2 jian1
 authorSlug: huang-ting-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 回腸無奈別愁煎，待得鸞膠續斷絃。
-- 最憶錢塘風物苦，西湖月落採菱船。
+- 滯夢停愁亂性靈，安眠滅念閉幽扃。
+- 體中忽覺有佳處，讀易一篇如酒醒。
 
 ## 拼音
 
-- hui2 chang2 wu2 nai4 bie2 chou2 jian1 ， dai4 de2 luan2 jiao1 xu4 duan4 xian2 。
-- zui4 yi4 qian2 tang2 feng1 wu4 ku3 ， xi1 hu2 yue4 luo4 cai3 ling2 chuan2 。
+- zhi4 meng4 ting2 chou2 luan4 xing4 ling2 ， an1 mian2 mie4 nian4 bi4 you1 jiong1 。
+- ti3 zhong1 hu1 jue2 you3 jia1 chu3 ， du2 yi4 yi4 pian1 ru2 jiu3 xing3 。
 
 ## 注释
 

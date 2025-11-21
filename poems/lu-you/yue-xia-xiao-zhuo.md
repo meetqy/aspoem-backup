@@ -6,33 +6,25 @@ titleSlug: yue-xia-xiao-zhuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 昨日雨遶簷，孤燈對搔首。
-- 今夜月滿庭，長歌倚衰柳。
-- 世變浩無窮，成敗翻覆手。
-- 人生最樂事，臥聽壓新酒。
-- 我歸自梁益，零落愴親友。
-- 紛紛墮鬼録，何人得長久。
-- 後生多不識，詎肯顧衰朽。
-- 一杯無與同，敲門喚鄰叟。
+- 草樹已秋聲，郊原喜晚晴。
+- 風生雲盡散，天濶月徐行。
+- 下箸槎頭美，傳杯甕面清。
+- 追歡猶可勉，徂歲不須驚。
 
 ## 拼音
 
-- zuo2 ri4 yu3 rao4 yan2 ， gu1 deng1 dui4 sao1 shou3 。
-- jin1 ye4 yue4 man3 ting2 ， chang2 ge1 yi3 shuai1 liu3 。
-- shi4 bian4 hao4 wu2 qiong2 ， cheng2 bai4 fan1 fu4 shou3 。
-- ren2 sheng1 zui4 le4 shi4 ， wo4 ting1 ya1 xin1 jiu3 。
-- wo3 gui1 zi4 liang2 yi4 ， ling2 luo4 chuang4 qin1 you3 。
-- fen1 fen1 duo4 gui3 lu4 ， he2 ren2 de2 chang2 jiu3 。
-- hou4 sheng1 duo1 bu4 shi2 ， ju4 ken3 gu4 shuai1 xiu3 。
-- yi4 bei1 wu2 yu3 tong2 ， qiao1 men2 huan4 lin2 sou3 。
+- cao3 shu4 yi3 qiu1 sheng1 ， jiao1 yuan2 xi3 wan3 qing2 。
+- feng1 sheng1 yun2 jin4 san4 ， tian1 kuo4 yue4 xu2 hang2 。
+- xia4 zhu4 cha2 tou2 mei3 ， chuan2 bei1 weng4 mian4 qing1 。
+- zhui1 huan1 you2 ke3 mian3 ， cu2 sui4 bu4 xu1 jing1 。
 
 ## 注释
 

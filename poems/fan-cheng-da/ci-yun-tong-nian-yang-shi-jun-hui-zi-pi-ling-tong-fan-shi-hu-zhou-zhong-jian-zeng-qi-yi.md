@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-ci-yun-tong-nian-yang-shi-jun-hui-zi-pi-ling-tong-fan-shi-hu-zhou-zhong-jian-zeng-qi-yi
-title: 次韻同年楊使君回自毘陵同泛石湖舟中見贈・其一
-titlePinyin: ci4 yun4 tong2 nian2 yang2 shi3 jun1 hui2 zi4 pi2 ling2 tong2 fan4 shi2 hu2 zhou1 zhong1 jian4 zeng4・qi2 yi1
+title: 次韻同年楊使君回自毘陵同泛石湖舟中見贈  其一
+titlePinyin: ci4 yun4 tong2 nian2 yang2 shi3 jun1 hui2 zi4 pi2 ling2 tong2 fan4 shi2 hu2 zhou1 zhong1 jian4 zeng4     qi2 yi1
 titleSlug: ci-yun-tong-nian-yang-shi-jun-hui-zi-pi-ling-tong-fan-shi-hu-zhou-zhong-jian-zeng-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

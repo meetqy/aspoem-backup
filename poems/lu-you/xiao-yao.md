@@ -1,30 +1,30 @@
 ---
 id: lu-you-xiao-yao
-title: 逍遥
+title: 消搖
 titlePinyin: xiao1 yao2
 titleSlug: xiao-yao
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 臺省諸公日造朝，放慵别駕愧逍遥。
-- 州如斗大真無事，日抵年長未易消。
-- 午坐焚香常寂寂，晨興署字亦寥寥。
-- 時平更喜戈船靜，閑看城邊帯雨潮。
+- 莫笑茆簷陋，消搖遂野情。
+- 遇魔增道力，因病悟浮生。
+- 謀食憑長鑱，論交得短檠。
+- 不知從此去，幾見雁南征。
 
 ## 拼音
 
-- tai2 sheng3 zhu1 gong1 ri4 zao4 chao2 ， fang4 yong1 bie2 jia4 kui4 xiao1 yao2 。
-- zhou1 ru2 dou4 da4 zhen1 wu2 shi4 ， ri4 di3 nian2 chang2 wei4 yi4 xiao1 。
-- wu3 zuo4 fen2 xiang1 chang2 ji4 ji4 ， chen2 xing1 shu3 zi4 yi4 liao2 liao2 。
-- shi2 ping2 geng4 xi3 ge1 chuan2 jing4 ， xian2 kan4 cheng2 bian1 dai4 yu3 chao2 。
+- mo4 xiao4 mao2 yan2 lou4 ， xiao1 yao2 sui4 ye3 qing2 。
+- yu4 mo2 zeng1 dao4 li4 ， yin1 bing4 wu4 fu2 sheng1 。
+- mou2 shi2 ping2 chang2 chan2 ， lun4 jiao1 de2 duan3 qing2 。
+- bu4 zhi1 cong2 ci3 qu4 ， ji1 jian4 yan4 nan2 zheng1 。
 
 ## 注释
 

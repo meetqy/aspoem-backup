@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-liu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君恩破寒色，天笑覺春回。
-- 先暖延和柳，曾無羯鼓催。
+- 冰開御水龍鱗細，日照宮梅麝炷烘。
+- 欲看人間花灼灼，不妨葛藟共春風。
 
 ## 拼音
 
-- jun1 en1 po4 han2 se4 ， tian1 xiao4 jue2 chun1 hui2 。
-- xian1 nuan3 yan2 he2 liu3 ， ceng2 wu2 jie2 gu3 cui1 。
+- bing1 kai1 yu4 shui3 long2 lin2 xi4 ， ri4 zhao4 gong1 mei2 she4 zhu4 hong1 。
+- yu4 kan4 ren2 jian4 hua1 zhuo2 zhuo2 ， bu4 fang2 ge3 lei3 gong4 chun1 feng1 。
 
 ## 注释
 

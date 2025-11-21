@@ -6,10 +6,10 @@ titleSlug: xian-yu-yi
 author: 李處訥
 authorPinyin: li3 chu3 ne4
 authorSlug: li-chu-ne
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

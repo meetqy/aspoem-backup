@@ -6,25 +6,25 @@ titleSlug: shao-xing-shi-nian-fa-huang-tai-hou-ce-bao-ba-shou-tai-fu-feng-ce-sho
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 孝奉天儀，信維休德。
-- 發越徽音，禮文靡忒。
-- 永保嘉祥，時萬時億。
-- 歸于東朝，含飴燕息。
+- 肅雍長樂，克篤其慶。
+- 河洲茂德，沙麓啟聖。
+- 是生睿哲，蚤隆丕運。
+- 欽稱鴻寶，永膺天命。
 
 ## 拼音
 
-- xiao4 feng4 tian1 yi2 ， xin4 wei2 xiu1 de2 。
-- fa1 yue4 hui1 yin1 ， li3 wen2 mi2 te4 。
-- yong3 bao3 jia1 xiang2 ， shi2 wan4 shi2 yi4 。
-- gui1 yu2 dong1 chao2 ， han2 yi2 yan4 xi1 。
+- su4 yong1 chang2 le4 ， ke4 du3 qi2 qing4 。
+- he2 zhou1 mao4 de2 ， sha1 lu4 qi3 sheng4 。
+- shi4 sheng1 rui4 zhe2 ， zao3 long2 pi1 yun4 。
+- qin1 cheng1 hong2 bao3 ， yong3 ying1 tian1 ming4 。
 
 ## 注释
 

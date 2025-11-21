@@ -9,20 +9,26 @@ authorSlug: du-xun-he
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 聖主每嬌奢，朝庭事可嗟。
-- 不取前殿諫，唯愛《後【庭】（停）花》。
-- 爲進中書策，飜餘逐浪沙。
+- 一乍出皇都，時登日月餘。
+- 遙看山（何）近遠，店舍路崎嶇。
+- 想料天子女，翻華（疑）草外夫。
+- 然雖朋流下，榮辱□□□。
+- （〖1〗以上三首均見伯四九八五卷。
+- ）。
 
 ## 拼音
 
-- sheng4 zhu3 mei3 jiao1 she1 ， chao2 ting2 shi4 ke3 jie1 。
-- bu4 qu3 qian2 dian4 jian4 ， wei2 ai4 《 hou4 【 ting2 】（ ting2 ） hua1 》。
-- wei2 jin4 zhong1 shu1 ce4 ， fan1 yu2 zhu2 lang4 sha1 。
+- yi2 zha4 chu1 huang2 dou1 ， shi2 deng1 ri4 yue4 yu2 。
+- yao2 kan4 shan1 （ he2 ） jin4 yuan3 ， dian4 she4 lu4 qi2 qu1 。
+- xiang3 liao4 tian1 zi3 nü3 ， fan1 hua2 （ yi2 ） cao3 wai4 fu1 。
+- ran2 sui1 peng2 liu2 xia4 ， rong2 ru3 □□□。
+- （〖1〗 yi3 shang4 san1 shou3 jun1 jian4 bo2 si4 jiu3 ba1 wu3 juan4 。
+- ）。
 
 ## 注释
 

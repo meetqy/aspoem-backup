@@ -6,9 +6,9 @@ titleSlug: hua-ting-shan-fang-xiang-shan
 author: 黄大輿
 authorPinyin: huang2 da4 yu2
 authorSlug: huang-da-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

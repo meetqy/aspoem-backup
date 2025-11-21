@@ -6,10 +6,10 @@ titleSlug: pao-qiu-qu-san-shou-qi-er
 author: 李慎言
 authorPinyin: li3 shen4 yan2
 authorSlug: li-shen-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

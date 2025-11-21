@@ -6,23 +6,23 @@ titleSlug: ji-song-yi-bai-ling-er-shou-qi-yi-si
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 撞烟樓，不知羞。
-- 闢蟭螟眼，輥百花毬。
-- 四七二三阿轆轆，不思萬里有崖州。
+- 撼茶樹，偷筍去。
+- 角虎出林，鐵蛇橫路，毒氣炎炎如火聚。
+- 眨上眉毛見得親，靈跡不在猿啼處。
 
 ## 拼音
 
-- zhuang4 yan1 lou2 ， bu4 zhi1 xiu1 。
-- pi4 jiao1 ming2 yan3 ， gun3 bai3 hua1 qiu2 。
-- si4 qi1 er4 san1 a1 lu4 lu4 ， bu4 si1 wan4 li3 you3 ya2 zhou1 。
+- han4 cha2 shu4 ， tou1 sun3 qu4 。
+- jiao3 hu3 chu1 lin2 ， tie3 she2 heng2 lu4 ， du2 qi4 yan2 yan2 ru2 huo3 ju4 。
+- zha3 shang4 mei2 mao0 jian4 de2 qin1 ， ling2 ji4 bu2 zai4 yuan2 ti2 chu3 。
 
 ## 注释
 

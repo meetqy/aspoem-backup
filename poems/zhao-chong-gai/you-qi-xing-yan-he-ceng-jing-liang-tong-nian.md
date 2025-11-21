@@ -6,10 +6,10 @@ titleSlug: you-qi-xing-yan-he-ceng-jing-liang-tong-nian
 author: 趙崇垓
 authorPinyin: zhao4 chong2 gai1
 authorSlug: zhao-chong-gai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

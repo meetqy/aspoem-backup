@@ -6,9 +6,9 @@ titleSlug: qiu-re-ci-gao-zhong-yi-yun-qi-yi
 author: 林季仲
 authorPinyin: lin2 ji4 zhong4
 authorSlug: lin-ji-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
@@ -43,7 +43,7 @@ tags: []
 
 - cheng2 shi2 huo3 chu1 liu2 ， zhi2 re4 bing4 wei4 tuo1 。
 - ta4 bing1 si1 shao3 su1 ， zuo4 zeng4 ai1 gou3 huo2 。
-- yun2 yi4 duan4 yan3 yan3 ， yu3 sheng1 bi4 { er3 she2 }{ er3 she2 }。
+- yun2 yi4 duan4 yan3 yan3 ， yu3 sheng1 bi4  { er3 she2 }{ er3 she2 }。
 - an1 yong4 tian1 guan1 wei2 ， bu2 wu4 qiu1 xu4 duo2 。
 - wu1 wang1 bao4 he2 gu1 ， kua1 fu4 jiang1 qie3 ke3 。
 - xi4 shan1 jiang1 fen2 shao1 ， fan1 hai3 yu4 sa3 po1 。

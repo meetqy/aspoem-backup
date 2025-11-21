@@ -3,24 +3,28 @@ id: wang-zhuo-wu-ti
 title: 無題
 titlePinyin: wu2 ti2
 titleSlug: wu-ti
-author: 王灼
-authorPinyin: wang2 zhuo2
+author: 汪晫
+authorPinyin: wang1 zhuo2
 authorSlug: wang-zhuo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 桐孫枝有海潮音，玉指初調萬籟沉。
-- 燭影熒熒鎖窗底，此時端欲見琴心。
+- 農夫只合老山林，辜負時卿一寸心。
+- 老矣不堪持手板，死時何用覆斜衾。
+- 有人稱善名非細，對客無慚樂最深。
+- 回首暮雲天黯淡，誰能更聽伯牙琴。
 
 ## 拼音
 
-- tong2 sun1 zhi1 you3 hai3 chao2 yin1 ， yu4 zhi3 chu1 diao4 wan4 lai4 chen2 。
-- zhu2 ying3 ying2 ying2 suo3 chuang1 di3 ， ci3 shi2 duan1 yu4 jian4 qin2 xin1 。
+- nong2 fu1 zhi1 he2 lao3 shan1 lin2 ， gu1 fu4 shi2 qing1 yi2 cun4 xin1 。
+- lao3 yi3 bu4 kan1 chi2 shou3 ban3 ， si3 shi2 he2 yong4 fu4 xie2 qin1 。
+- you3 ren2 cheng1 shan4 ming2 fei1 xi4 ， dui4 ke4 wu2 can2 le4 zui4 shen1 。
+- hui2 shou3 mu4 yun2 tian1 an4 dan4 ， shui2 neng2 geng4 ting1 bo2 ya2 qin2 。
 
 ## 注释
 

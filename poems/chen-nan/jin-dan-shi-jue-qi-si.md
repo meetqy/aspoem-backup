@@ -1,26 +1,26 @@
 ---
 id: chen-nan-jin-dan-shi-jue-qi-si
-title: 金丹詩訣  其四
-titlePinyin: jin1 dan1 shi1 jue2     qi2 si4
+title: 金丹詩訣  其四○
+titlePinyin: jin1 dan1 shi1 jue2     qi2 si4 ○
 titleSlug: jin-dan-shi-jue-qi-si
 author: 陳楠
 authorPinyin: chen2 nan2
 authorSlug: chen-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 玉爐三轉見黄芽，火裏紅蓮解發花。
-- 人在絳宮貪夜月，一杯美酒餌丹砂。
+- 紅鉛黑汞大丹基，紅黑相投世罕知。
+- 兩物若還成戊己，仙家故曰一刀圭。
 
 ## 拼音
 
-- yu4 lu2 san1 zhuan3 jian4 huang2 ya2 ， huo3 li3 hong2 lian2 jie3 fa1 hua1 。
-- ren2 zai4 jiang4 gong1 tan1 ye4 yue4 ， yi4 bei1 mei3 jiu3 er3 dan1 sha1 。
+- hong2 qian1 hei1 gong3 da4 dan1 ji1 ， hong2 hei1 xiang1 tou2 shi4 han3 zhi1 。
+- liang3 wu4 ruo4 huan2 cheng2 wu4 ji3 ， xian1 jia1 gu4 yue1 yi4 dao1 gui1 。
 
 ## 注释
 

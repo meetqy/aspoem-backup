@@ -6,10 +6,10 @@ titleSlug: zhang-zi-jing-shi-suo-de-hou-hu-ju-shi-shi-ji-shu-zha-xiang-jian-qi-r
 author: 范浚
 authorPinyin: fan4 jun4
 authorSlug: fan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

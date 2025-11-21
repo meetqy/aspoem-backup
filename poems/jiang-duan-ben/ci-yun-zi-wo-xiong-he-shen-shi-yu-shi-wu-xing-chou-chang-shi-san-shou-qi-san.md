@@ -6,10 +6,10 @@ titleSlug: ci-yun-zi-wo-xiong-he-shen-shi-yu-shi-wu-xing-chou-chang-shi-san-shou
 author: 江端本
 authorPinyin: jiang1 duan1 ben3
 authorSlug: jiang-duan-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

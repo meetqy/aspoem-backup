@@ -6,9 +6,9 @@ titleSlug: he-dao-qing-she-ren-feng-ci-tai-yi-zhai-gong-qi-san
 author: 宋祁
 authorPinyin: song4 qi2
 authorSlug: song-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

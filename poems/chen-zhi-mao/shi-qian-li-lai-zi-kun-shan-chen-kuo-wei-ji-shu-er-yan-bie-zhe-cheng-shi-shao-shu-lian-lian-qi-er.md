@@ -6,10 +6,10 @@ titleSlug: shi-qian-li-lai-zi-kun-shan-chen-kuo-wei-ji-shu-er-yan-bie-zhe-cheng-
 author: 陳之茂
 authorPinyin: chen2 zhi1 mao4
 authorSlug: chen-zhi-mao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ye-he-jing-xian-sheng-hu-qiu-ci-tang
 author: 李道傳
 authorPinyin: li3 dao4 chuan2
 authorSlug: li-dao-chuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

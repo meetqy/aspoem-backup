@@ -6,10 +6,10 @@ titleSlug: wang-yuan-zuo-wang-ju-si-ku-ben-gai-you-huang-fu-min-wang-wan-ci-qi-e
 author: 鄒浩
 authorPinyin: zou1 hao4
 authorSlug: zou-hao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

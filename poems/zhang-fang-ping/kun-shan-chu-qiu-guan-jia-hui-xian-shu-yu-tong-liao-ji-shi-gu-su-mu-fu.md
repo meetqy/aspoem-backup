@@ -6,10 +6,10 @@ titleSlug: kun-shan-chu-qiu-guan-jia-hui-xian-shu-yu-tong-liao-ji-shi-gu-su-mu-f
 author: 張方平
 authorPinyin: zhang1 fang1 ping2
 authorSlug: zhang-fang-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

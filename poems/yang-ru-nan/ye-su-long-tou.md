@@ -6,10 +6,10 @@ titleSlug: ye-su-long-tou
 author: 楊汝南
 authorPinyin: yang2 ru3 nan2
 authorSlug: yang-ru-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

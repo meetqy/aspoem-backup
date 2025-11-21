@@ -6,10 +6,10 @@ titleSlug: du-wang-feng-yuan-wen-qi-qi-cai-ze-shen-jing-zhe-lu-wei-yi-bian
 author: 孔武仲
 authorPinyin: kong3 wu3 zhong4
 authorSlug: kong-wu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

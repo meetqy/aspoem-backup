@@ -6,10 +6,10 @@ titleSlug: xian-du-shan
 author: 劉參
 authorPinyin: liu2 can1
 authorSlug: liu-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

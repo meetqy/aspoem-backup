@@ -6,9 +6,9 @@ titleSlug: ren-yin-qi-yue-er-shi-er-ri-yu-yin-guo-dong-shao-xiu-shou-sheng-shi-q
 author: 曹省
 authorPinyin: cao2 sheng3
 authorSlug: cao-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

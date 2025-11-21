@@ -6,10 +6,10 @@ titleSlug: rui-lian-qiao-ji-jiu-qu-chi-he-wang-gong-yuan-yun
 author: 周公弼
 authorPinyin: zhou1 gong1 bi4
 authorSlug: zhou-gong-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

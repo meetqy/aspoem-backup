@@ -9,18 +9,18 @@ authorSlug: si-kong-tu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 掩謗知迎吠，欺心見強顏。
-- 有名人易困，無契債難還。
+- 新店南原後夜程，黃河風浪信難平。
+- 渡頭楊柳知人意，爲惹官船莫放行。
 
 ## 拼音
 
-- yan3 bang4 zhi1 ying2 fei4 ， qi1 xin1 jian4 qiang2 yan2 。
-- you3 ming2 ren2 yi4 kun4 ， wu2 qi4 zhai4 nan2 huan2 。
+- xin1 dian4 nan2 yuan2 hou4 ye4 cheng2 ， huang2 he2 feng1 lang4 xin4 nan2 ping2 。
+- du4 tou2 yang2 liu3 zhi1 ren2 yi4 ， wei2 re3 guan1 chuan2 mo4 fang4 xing2 。
 
 ## 注释
 

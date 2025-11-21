@@ -6,9 +6,9 @@ titleSlug: yan
 author: 朱乘
 authorPinyin: zhu1 cheng2
 authorSlug: zhu-cheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

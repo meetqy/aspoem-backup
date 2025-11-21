@@ -6,9 +6,9 @@ titleSlug: shan-ju-shi-qi-liu-si
 author: 釋延壽
 authorPinyin: shi4 yan2 shou4
 authorSlug: shi-yan-shou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

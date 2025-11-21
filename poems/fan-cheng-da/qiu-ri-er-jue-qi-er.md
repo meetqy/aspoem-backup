@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-qiu-ri-er-jue-qi-er
-title: 秋日二絕・其二
-titlePinyin: qiu1 ri4 er4 jue2・qi2 er4
+title: 秋日二絕  其二
+titlePinyin: qiu1 ri4 er4 jue2     qi2 er4
 titleSlug: qiu-ri-er-jue-qi-er
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

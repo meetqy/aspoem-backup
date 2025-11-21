@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-qi-liu
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 八月河漢近，凉蟾輝太清。
-- 窗戶紗已薄，草木風有聲。
-- 所喜暑云退，不憚歲徂征。
-- 招客對晚色，酒與月同傾。
+- 林泉久自得，窗戶向深幽。
+- 不復嫌村酒，何能有客愁。
+- 夕陽烘遠水，飛絮挾輕鷗。
+- 杖屨歸從晚，柴門月一鈎。
 
 ## 拼音
 
-- ba1 yue4 he2 han4 jin4 ， liang2 chan2 hui1 tai4 qing1 。
-- chuang1 hu4 sha1 yi3 bao2 ， cao3 mu4 feng1 you3 sheng1 。
-- suo3 xi3 shu3 yun2 tui4 ， bu2 dan4 sui4 cu2 zheng1 。
-- zhao1 ke4 dui4 wan3 se4 ， jiu3 yu3 yue4 tong2 qing1 。
+- lin2 quan2 jiu3 zi4 de2 ， chuang1 hu4 xiang4 shen1 you1 。
+- bu2 fu4 xian2 cun1 jiu3 ， he2 neng2 you3 ke4 chou2 。
+- xi1 yang2 hong1 yuan3 shui3 ， fei1 xu4 xie2 qing1 ou1 。
+- zhang4 ju4 gui1 cong2 wan3 ， chai2 men2 yue4 yi1 gou1 。
 
 ## 注释
 

@@ -9,18 +9,20 @@ authorSlug: cui-jin
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 寥寥官舍靜於僧，雖有園亭亦倦登。
-- 桃李光陰流似水，圖書滋味冷如冰。
+- 地形連楚濶，山勢入秦豪。
+- 平外斜通駱，深中遠認褒。
+- 圖經何壯觀，故事有蕭曹。
 
 ## 拼音
 
-- liao2 liao2 guan1 she4 jing4 wu1 seng1 ， sui1 you3 yuan2 ting2 yi4 juan4 deng1 。
-- tao2 li3 guang1 yin1 liu2 si4 shui3 ， tu2 shu1 zi1 wei4 leng3 ru2 bing1 。
+- di4 xing2 lian2 chu3 kuo4 ， shan1 shi4 ru4 qin2 hao2 。
+- ping2 wai4 xie2 tong1 luo4 ， shen1 zhong1 yuan3 ren4 bao1 。
+- tu2 jing1 he2 zhuang4 guan1 ， gu4 shi0 you3 xiao1 cao2 。
 
 ## 注释
 

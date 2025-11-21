@@ -6,10 +6,10 @@ titleSlug: ti-zi-fu-yuan-ping-lu-xuan
 author: 江表祖
 authorPinyin: jiang1 biao3 zu3
 authorSlug: jiang-biao-zu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: you-qi-er
 author: 劉才邵
 authorPinyin: liu2 cai2 shao4
 authorSlug: liu-cai-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 行仁隆治道，偃武爲生靈。
-- 恩施周遐邇，熙熙萬國寧。
+- 瓊斚深浮柏，金牋巧頌椒。
+- 宮嬪隨鳯輦，萬壽本東朝。
 
 ## 拼音
 
-- xing2 ren2 long2 zhi4 dao4 ， yan3 wu3 wei2 sheng1 ling2 。
-- en1 shi1 zhou1 xia2 er3 ， xi1 xi1 wan4 guo2 ning2 。
+- qiong2 jia3 shen1 fu2 bai3 ， jin1 jian1 qiao3 song4 jiao1 。
+- gong1 pin2 sui2 feng4 nian3 ， wan4 shou4 ben3 dong1 chao2 。
 
 ## 注释
 

@@ -6,25 +6,21 @@ titleSlug: du-shi
 author: 陳宓
 authorPinyin: chen2 mi4
 authorSlug: chen-mi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 巧哉呂相國，千金買名姬。
-- 設計售子楚，自詫居貨奇。
-- 一死博富貴，大黠寧非癡。
-- 人力信莫及，天道吾不欺。
+- 一嘿盡知天下事，片言常得古人心。
+- 千年成敗興衰迹，祇向忠邪兩路尋。
 
 ## 拼音
 
-- qiao3 zai1 lü3 xiang1 guo2 ， qian1 jin1 mai3 ming2 ji1 。
-- she4 ji4 shou4 zi3 chu3 ， zi4 cha4 ju1 huo4 qi2 。
-- yi4 si3 bo2 fu4 gui4 ， da4 xia2 ning2 fei1 chi1 。
-- ren2 li4 xin4 mo4 ji2 ， tian1 dao4 wu2 bu4 qi1 。
+- yi4 hei1 jin4 zhi1 tian1 xia4 shi4 ， pian4 yan2 chang2 de2 gu3 ren2 xin1 。
+- qian1 nian2 cheng2 bai4 xing1 shuai1 ji4 ， qi2 xiang4 zhong1 xie2 liang3 lu4 xun2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ya-tou-yan
 author: 彭仲衡
 authorPinyin: peng2 zhong4 heng2
 authorSlug: peng-zhong-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

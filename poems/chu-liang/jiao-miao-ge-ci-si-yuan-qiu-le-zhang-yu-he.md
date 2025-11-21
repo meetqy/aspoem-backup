@@ -9,18 +9,18 @@ authorSlug: chu-liang
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 上靈睠命膺會昌，盛德殷薦叶辰良。
-- 景福降兮聖德遠，玄化穆兮天曆長。
+- 歌奏畢兮禮獻終，六龍馭兮神將昇。
+- 明德感兮非黍稷，降福簡兮祚休徵。
 
 ## 拼音
 
-- shang4 ling2 juan4 ming4 ying1 hui4 chang1 ， sheng4 de2 yin1 jian4 ye4 chen2 liang2 。
-- jing3 fu2 jiang4 xi1 sheng4 de2 yuan3 ， xuan2 hua4 mu4 xi1 tian1 li4 chang2 。
+- ge1 zou4 bi4 xi1 li3 xian4 zhong1 ， liu4 long2 yu4 xi1 shen2 jiang1 sheng1 。
+- ming2 de2 gan3 xi1 fei1 shu3 ji4 ， jiang4 fu2 jian3 xi1 zuo4 xiu1 zhi3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: san-gao-ci
 author: 袁聘儒
 authorPinyin: yuan2 pin4 ru2
 authorSlug: yuan-pin-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

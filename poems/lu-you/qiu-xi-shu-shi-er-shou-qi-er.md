@@ -6,25 +6,25 @@ titleSlug: qiu-xi-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寂青楓岸，蕭蕭白版扉。
-- 端居常懶動，偶出却忘歸。
-- 時泰徵科簡，師還驛置稀。
-- 江村日無事，烟火自相依。
+- 點點秋燈晚，翻翻宿鳥還。
+- 雨添羈枕睡，書伴小窗閑。
+- 僧閣荒寒外，漁村縹緲間。
+- 畫工今代少，誰爲寫家山。
 
 ## 拼音
 
-- ji4 ji4 qing1 feng1 an4 ， xiao1 xiao1 bai2 ban3 fei1 。
-- duan1 ju1 chang2 lan3 dong4 ， ou3 chu1 que4 wang4 gui1 。
-- shi2 tai4 zhi3 ke1 jian3 ， shi1 huan2 yi4 zhi4 xi1 。
-- jiang1 cun1 ri4 wu2 shi4 ， yan1 huo3 zi4 xiang1 yi1 。
+- dian3 dian3 qiu1 deng1 wan3 ， fan1 fan1 su4 niao3 huan2 。
+- yu3 tian1 ji1 zhen3 shui4 ， shu1 ban4 xiao3 chuang1 xian2 。
+- seng1 ge2 huang1 han2 wai4 ， yu2 cun1 piao3 miao3 jian4 。
+- hua4 gong1 jin1 dai4 shao3 ， shui2 wei2 xie3 jia1 shan1 。
 
 ## 注释
 

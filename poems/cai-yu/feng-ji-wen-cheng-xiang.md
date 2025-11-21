@@ -6,10 +6,10 @@ titleSlug: feng-ji-wen-cheng-xiang
 author: 蔡郁
 authorPinyin: cai4 yu4
 authorSlug: cai-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

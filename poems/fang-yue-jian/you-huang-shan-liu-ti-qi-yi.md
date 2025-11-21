@@ -6,10 +6,10 @@ titleSlug: you-huang-shan-liu-ti-qi-yi
 author: 方月澗
 authorPinyin: fang1 yue4 jian4
 authorSlug: fang-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

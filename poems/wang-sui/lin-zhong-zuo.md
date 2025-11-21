@@ -6,10 +6,10 @@ titleSlug: lin-zhong-zuo
 author: 王隨
 authorPinyin: wang2 sui2
 authorSlug: wang-sui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

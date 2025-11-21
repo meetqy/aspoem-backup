@@ -6,9 +6,9 @@ titleSlug: tai-shou-wang-gong-zhi-song-yin-fu
 author: 舒雄
 authorPinyin: shu1 xiong2
 authorSlug: shu-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

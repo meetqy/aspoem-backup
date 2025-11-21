@@ -6,10 +6,10 @@ titleSlug: ju-qi-ba
 author: 楊黎州
 authorPinyin: yang2 li2 zhou1
 authorSlug: yang-li-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

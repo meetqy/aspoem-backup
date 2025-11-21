@@ -6,10 +6,10 @@ titleSlug: he-chen-zi-hua-wu-yi-zhu-jing-she
 author: 葉明
 authorPinyin: ye4 ming2
 authorSlug: ye-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

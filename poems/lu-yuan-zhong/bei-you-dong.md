@@ -6,10 +6,10 @@ titleSlug: bei-you-dong
 author: 呂愿中
 authorPinyin: lü3 yuan4 zhong1
 authorSlug: lu-yuan-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

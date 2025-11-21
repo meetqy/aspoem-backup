@@ -1,26 +1,26 @@
 ---
 id: shi-dao-yan-song-gu-qi-ba
-title: 頌古  其八
-titlePinyin: song4 gu3     qi2 ba1
+title: 頌古  其八○
+titlePinyin: song4 gu3     qi2 ba1 ○
 titleSlug: song-gu-qi-ba
 author: 釋道顔
 authorPinyin: shi4 dao4 yan2
 authorSlug: shi-dao-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 胡亂三十年，不少鹽與醤。
-- 江西馬大師，南嶽讓和尚。
+- 稽首兩足尊，瞻仰不暫捨。
+- 眉間白毫光，照耀大千界。
 
 ## 拼音
 
-- hu2 luan4 san1 shi2 nian2 ， bu4 shao3 yan2 yu3 jiang4 。
-- jiang1 xi1 ma3 da4 shi1 ， nan2 yue4 rang4 he2 shang4 。
+- qi3 shou3 liang3 zu2 zun1 ， zhan1 yang3 bu2 zan4 she3 。
+- mei2 jian4 bai2 hao2 guang1 ， zhao4 yao4 da4 qian1 jie4 。
 
 ## 注释
 

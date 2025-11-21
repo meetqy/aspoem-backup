@@ -6,10 +6,10 @@ titleSlug: tian-yi-gu-si
 author: 宗瑩
 authorPinyin: zong1 ying2
 authorSlug: zong-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

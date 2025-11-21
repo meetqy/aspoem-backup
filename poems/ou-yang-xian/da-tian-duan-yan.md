@@ -6,10 +6,10 @@ titleSlug: da-tian-duan-yan
 author: 歐陽獻
 authorPinyin: ou1 yang2 xian4
 authorSlug: ou-yang-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

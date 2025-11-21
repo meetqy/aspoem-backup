@@ -6,25 +6,25 @@ titleSlug: tai-chang-le-zhang-san-shi-shou-di-er
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 閶闔天開，羣后在位。
-- 設業設虡，庭燎晰晰。
-- 斧扆當陽，虎賁夾陛。
-- 舞之蹈之，四隩來暨。
+- 偃伯靈臺，功成作樂。
+- 以昭德容，以清戎索。
+- 萬邦會同，羣慝簫勺。
+- 盡善盡美，侔彼韶箾。
 
 ## 拼音
 
-- chang1 he2 tian1 kai1 ， qun2 hou4 zai4 wei4 。
-- she4 ye4 she4 ju4 ， ting2 liao2 xi1 xi1 。
-- fu3 yi3 dang1 yang2 ， hu3 bi4 jia1 bi4 。
-- wu3 zhi1 dao3 zhi1 ， si4 yu4 lai2 ji4 。
+- yan3 bo2 ling2 tai2 ， gong1 cheng2 zuo4 le4 。
+- yi3 zhao1 de2 rong2 ， yi3 qing1 rong2 suo3 。
+- wan4 bang1 hui4 tong2 ， qun2 te4 xiao1 shao2 。
+- jin4 shan4 jin4 mei3 ， mou2 bi3 shao2 xiao1 。
 
 ## 注释
 

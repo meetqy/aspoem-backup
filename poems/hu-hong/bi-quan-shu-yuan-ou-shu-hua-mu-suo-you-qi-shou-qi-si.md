@@ -6,10 +6,10 @@ titleSlug: bi-quan-shu-yuan-ou-shu-hua-mu-suo-you-qi-shou-qi-si
 author: 胡宏
 authorPinyin: hu2 hong2
 authorSlug: hu-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

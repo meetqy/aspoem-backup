@@ -6,25 +6,25 @@ titleSlug: qian-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 遠簷新葉著啼鶯，睡起東窗一榻横。
-- 愁衮衮来疑有約，春堂堂去恨無情。
-- 鶻飛局上新棋勢，龍吼床頭古劍聲。
-- 莫嘆柴荆無客到，緑尊還對莫山傾。
+- 我是仙蓬舊主人，一生常得自由身。
+- 退歸自合稱山長，變化猶應侍帝晨。
+- 得酒不妨開口笑，學人難作捧心顰。
+- 塵中且復隨緣住，又見湖邊草木新。
 
 ## 拼音
 
-- yuan3 yan2 xin1 ye4 zhu4 ti2 ying1 ， shui4 qi3 dong1 chuang1 yi2 ta4 heng2 。
-- chou2 gun3 gun3 lai2 yi2 you3 yue1 ， chun1 tang2 tang2 qu4 hen4 wu2 qing2 。
-- gu3 fei1 ju2 shang4 xin1 qi2 shi4 ， long2 hou3 chuang2 tou2 gu3 jian4 sheng1 。
-- mo4 tan4 chai2 jing1 wu2 ke4 dao4 ， lü4 zun1 huan2 dui4 mo4 shan1 qing1 。
+- wo3 shi4 xian1 peng2 jiu4 zhu3 ren2 ， yi4 sheng1 chang2 de2 zi4 you2 shen1 。
+- tui4 gui1 zi4 he2 cheng1 shan1 chang2 ， bian4 hua4 you2 ying1 shi4 di4 chen2 。
+- de2 jiu3 bu4 fang2 kai1 kou3 xiao4 ， xue2 ren2 nan2 zuo4 peng3 xin1 pin2 。
+- chen2 zhong1 qie3 fu4 sui2 yuan2 zhu4 ， you4 jian4 hu2 bian1 cao3 mu4 xin1 。
 
 ## 注释
 

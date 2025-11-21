@@ -6,33 +6,25 @@ titleSlug: xue
 author: 陳與義
 authorPinyin: chen2 yu3 yi4
 authorSlug: chen-yu-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 窮臘見三白，江南無舊聞。
-- 天上春已暮，盡日花繽紛。
-- 平生雖畏寒，遇雪心所欣。
-- 擁裘未敢出，投隙致殷勤。
-- 窗戶忽相照，川陵已難分。
-- 二儀有巨麗，老我不能文。
-- 高吟黄竹詩，薄暮心無垠。
-- 浮屠似玉筍，突兀倚重雲。
+- 仙人手持白鸞尾，夜半朝元明月裏。
+- 羽衣三振風不斷，下視銀潢一千里。
+- 玉軑載花分後前，欲落未落天恍然。
+- 餘標從向人間去，乞與袁安破曉眠。
 
 ## 拼音
 
-- qiong2 la4 jian4 san1 bai2 ， jiang1 nan2 wu2 jiu4 wen2 。
-- tian1 shang4 chun1 yi3 mu4 ， jin4 ri4 hua1 bin1 fen1 。
-- ping2 sheng1 sui1 wei4 han2 ， yu4 xue3 xin1 suo3 xin1 。
-- yong1 qiu2 wei4 gan3 chu1 ， tou2 xi4 zhi4 yin1 qin2 。
-- chuang1 hu4 hu1 xiang1 zhao4 ， chuan1 ling2 yi3 nan2 fen1 。
-- er4 yi2 you3 ju4 li2 ， lao3 wo3 bu4 neng2 wen2 。
-- gao1 yin2 huang2 zhu2 shi1 ， bo2 mu4 xin1 wu2 yin2 。
-- fu2 tu2 si4 yu4 sun3 ， tu1 wu4 yi3 zhong4 yun2 。
+- xian1 ren2 shou3 chi2 bai2 luan2 wei3 ， ye4 ban4 chao2 yuan2 ming2 yue4 li3 。
+- yu3 yi1 san1 zhen4 feng1 bu2 duan4 ， xia4 shi4 yin2 huang2 yi4 qian1 li3 。
+- yu4 dai4 zai4 hua1 fen1 hou4 qian2 ， yu4 luo4 wei4 luo4 tian1 huang3 ran2 。
+- yu2 biao1 cong2 xiang4 ren2 jian4 qu4 ， qi3 yu3 yuan2 an1 po4 xiao3 mian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: zhang-ren-guan
 author: 師渾甫
 authorPinyin: shi1 hun2 fu3
 authorSlug: shi-hun-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

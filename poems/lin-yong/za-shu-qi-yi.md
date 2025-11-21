@@ -1,26 +1,26 @@
 ---
 id: lin-yong-za-shu-qi-yi
-title: 雜述  其一
-titlePinyin: za2 shu4     qi2 yi1
+title: 雜述  其一○
+titlePinyin: za2 shu4     qi2 yi1 ○
 titleSlug: za-shu-qi-yi
 author: 林泳
 authorPinyin: lin2 yong3
 authorSlug: lin-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 關令著黄帝曰，柱史稱聖人云。
-- 俗學謾誇臆說，仙書猶述舊聞。
+- 人生作計蛇添足，世事難知卵有毛。
+- 養得元身差快樂，具他法眼始孤高。
 
 ## 拼音
 
-- guan1 ling4 zhu4 huang2 di4 yue1 ， zhu4 shi3 cheng1 sheng4 ren2 yun2 。
-- su2 xue2 man2 kua1 yi4 shuo1 ， xian1 shu1 you2 shu4 jiu4 wen2 。
+- ren2 sheng1 zuo4 ji4 she2 tian1 zu2 ， shi4 shi4 nan2 zhi1 luan3 you3 mao2 。
+- yang3 de2 yuan2 shen1 cha4 kuai4 le4 ， ju4 ta1 fa3 yan3 shi3 gu1 gao1 。
 
 ## 注释
 

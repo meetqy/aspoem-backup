@@ -6,10 +6,10 @@ titleSlug: zeng-xie-yu-zhen-li-chang-shi
 author: 李遠
 authorPinyin: li3 yuan3
 authorSlug: li-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

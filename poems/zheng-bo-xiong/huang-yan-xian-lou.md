@@ -6,10 +6,10 @@ titleSlug: huang-yan-xian-lou
 author: 鄭伯熊
 authorPinyin: zheng4 bo2 xiong2
 authorSlug: zheng-bo-xiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

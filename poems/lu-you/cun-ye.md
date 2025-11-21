@@ -6,25 +6,25 @@ titleSlug: cun-ye
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 寂寂山村夜，悠然醉倚門。
-- 月昏天有暈，風軟水無痕。
-- 迹爲遭讒遠，身由不仕尊。
-- 敢嗟車馬絕，同社自雞豚。
+- 入春雨雪無休日，雨止猶陰未快晴。
+- 萬竅怒號風不定，半輪斜照月微明。
+- 百年辛苦農桑業，五處睽離父子情。
+- 但得平安已爲幸，孤燈殘火過三更。
 
 ## 拼音
 
-- ji4 ji4 shan1 cun1 ye4 ， you1 ran2 zui4 yi3 men2 。
-- yue4 hun1 tian1 you3 yun4 ， feng1 ruan3 shui3 wu2 hen2 。
-- ji4 wei2 zao1 chan2 yuan3 ， shen1 you2 bu2 shi4 zun1 。
-- gan3 jie1 ju1 ma3 jue2 ， tong2 she4 zi4 ji1 tun2 。
+- ru4 chun1 yu3 xue3 wu2 xiu1 ri4 ， yu3 zhi3 you2 yin1 wei4 kuai4 qing2 。
+- wan4 qiao4 nu4 hao4 feng1 bu2 ding4 ， ban4 lun2 xie2 zhao4 yue4 wei1 ming2 。
+- bai3 nian2 xin1 ku3 nong2 sang1 ye4 ， wu3 chu3 kui2 li2 fu4 zi3 qing2 。
+- dan4 de2 ping2 an1 yi3 wei2 xing4 ， gu1 deng1 can2 huo3 guo4 san1 geng1 。
 
 ## 注释
 

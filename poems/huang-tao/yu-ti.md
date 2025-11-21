@@ -9,22 +9,18 @@ authorSlug: huang-tao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 紛紛墨勅除官日，處處紅旗打賊時。
-- 竿底得璜猶未用，夢中吞鳥擬何爲。
-- 損生莫若攀丹桂，免俗無過詠紫芝。
-- 兩岸蘆花一江水，依前且把釣魚絲。
+- 吳中煙水越中山，莫把漁樵謾自寬。
+- 歸泛扁舟可容易，五湖高士是拋官。
 
 ## 拼音
 
-- fen1 fen1 mo4 chi4 chu2 guan1 ri4 ， chu3 chu3 hong2 qi2 da3 zei2 shi2 。
-- gan1 di3 de2 huang2 you2 wei4 yong4 ， meng4 zhong1 tun1 niao3 ni3 he2 wei2 。
-- sun3 sheng1 mo4 ruo4 pan1 dan1 gui4 ， mian3 su2 wu2 guo4 yong3 zi3 zhi1 。
-- liang3 an4 lu2 hua1 yi4 jiang1 shui3 ， yi1 qian2 qie3 ba3 diao4 yu2 si1 。
+- wu2 zhong1 yan1 shui3 yue4 zhong1 shan1 ， mo4 ba3 yu2 qiao2 man2 zi4 kuan1 。
+- gui1 fan4 pian1 zhou1 ke3 rong2 yi4 ， wu3 hu2 gao1 shi4 shi4 pao1 guan1 。
 
 ## 注释
 

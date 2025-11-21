@@ -6,10 +6,10 @@ titleSlug: qian-huai-wu-shou-ji-zhi-dao-qi-yi
 author: 謝直
 authorPinyin: xie4 zhi2
 authorSlug: xie-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

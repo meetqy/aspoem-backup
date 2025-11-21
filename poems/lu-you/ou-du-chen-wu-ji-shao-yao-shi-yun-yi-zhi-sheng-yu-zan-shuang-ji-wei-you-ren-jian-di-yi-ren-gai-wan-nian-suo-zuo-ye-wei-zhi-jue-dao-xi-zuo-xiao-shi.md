@@ -6,10 +6,10 @@ titleSlug: ou-du-chen-wu-ji-shao-yao-shi-yun-yi-zhi-sheng-yu-zan-shuang-ji-wei-y
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

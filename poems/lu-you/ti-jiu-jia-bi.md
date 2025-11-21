@@ -6,25 +6,25 @@ titleSlug: ti-jiu-jia-bi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 明主何曾棄不才，書生飄泊自堪哀。
-- 烟波東盡江湖遠，雲棧西從隴蜀回。
-- 宿雨送寒秋欲晚，積衰成病老初来。
-- 酒香菰脆丹楓岸，強遣樽前笑口開。
+- 智若禹行水，道如丁解牛。
+- 蘧蘧幾春夢，泛泛一虛舟。
+- 事定憂何益，狂來醉始休。
+- 青帘誇酒美，且復共登樓。
 
 ## 拼音
 
-- ming2 zhu3 he2 ceng2 qi4 bu4 cai2 ， shu1 sheng1 piao1 bo2 zi4 kan1 ai1 。
-- yan1 bo1 dong1 jin4 jiang1 hu2 yuan3 ， yun2 zhan4 xi1 cong2 long3 shu3 hui2 。
-- su4 yu3 song4 han2 qiu1 yu4 wan3 ， ji1 shuai1 cheng2 bing4 lao3 chu1 lai2 。
-- jiu3 xiang1 gu1 cui4 dan1 feng1 an4 ， qiang2 qian3 zun1 qian2 xiao4 kou3 kai1 。
+- zhi4 ruo4 yu3 xing2 shui3 ， dao4 ru2 ding1 jie3 niu2 。
+- qu2 qu2 ji1 chun1 meng4 ， fan4 fan4 yi4 xu1 zhou1 。
+- shi4 ding4 you1 he2 yi4 ， kuang2 lai2 zui4 shi3 xiu1 。
+- qing1 lian2 kua1 jiu3 mei3 ， qie3 fu4 gong4 deng1 lou2 。
 
 ## 注释
 

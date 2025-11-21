@@ -6,10 +6,10 @@ titleSlug: xin-hai-chun-yu-chen-zhou-zuo-xian-cheng-hui-wu-rui-chuan-lu-di-cong-
 author: 陳文蔚
 authorPinyin: chen2 wen2 wei4
 authorSlug: chen-wen-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

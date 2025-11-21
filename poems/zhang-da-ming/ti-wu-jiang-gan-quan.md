@@ -6,10 +6,10 @@ titleSlug: ti-wu-jiang-gan-quan
 author: 張達明
 authorPinyin: zhang1 da2 ming2
 authorSlug: zhang-da-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

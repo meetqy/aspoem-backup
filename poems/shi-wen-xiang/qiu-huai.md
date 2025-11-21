@@ -6,25 +6,25 @@ titleSlug: qiu-huai
 author: 釋文珦
 authorPinyin: shi4 wen2 xiang4
 authorSlug: shi-wen-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 霜風吹槁梧，索索生秋聲。
-- 梁燕已無跡，哀鴻復南征。
-- 遊子當此時，轉覺難爲情。
-- 庭闈隔千里，日夜白髮生。
+- 寂寥誰共語，白髮對寒流。
+- 往事渾疑夢，餘生祇似浮。
+- 青蟲鳴向夕，玄鳥去因秋。
+- 故友滄江外，茫茫不可求。
 
 ## 拼音
 
-- shuang1 feng1 chui1 gao3 wu2 ， suo3 suo3 sheng1 qiu1 sheng1 。
-- liang2 yan4 yi3 wu2 ji4 ， ai1 hong2 fu4 nan2 zheng1 。
-- you2 zi3 dang1 ci3 shi2 ， zhuan3 jue2 nan2 wei2 qing2 。
-- ting2 wei2 ge2 qian1 li3 ， ri4 ye4 bai2 fa4 sheng1 。
+- ji4 liao2 shui2 gong4 yu3 ， bai2 fa4 dui4 han2 liu2 。
+- wang3 shi4 hun2 yi2 meng4 ， yu2 sheng1 qi2 si4 fu2 。
+- qing1 chong2 ming2 xiang4 xi1 ， xuan2 niao3 qu4 yin1 qiu1 。
+- gu4 you3 cang1 jiang1 wai4 ， mang2 mang2 bu4 ke3 qiu2 。
 
 ## 注释
 

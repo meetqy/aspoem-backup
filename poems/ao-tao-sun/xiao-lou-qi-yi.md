@@ -1,14 +1,14 @@
 ---
 id: ao-tao-sun-xiao-lou-qi-yi
-title: 小樓・其一
-titlePinyin: xiao3 lou2・qi2 yi1
+title: 小樓  其一
+titlePinyin: xiao3 lou2     qi2 yi1
 titleSlug: xiao-lou-qi-yi
 author: 敖陶孫
 authorPinyin: ao2 tao2 sun1
 authorSlug: ao-tao-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

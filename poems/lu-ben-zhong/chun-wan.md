@@ -6,25 +6,21 @@ titleSlug: chun-wan
 author: 呂本中
 authorPinyin: lü3 ben3 zhong1
 authorSlug: lu-ben-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春色忽已晚，悠悠留此心。
-- 深居有閑暇，令節廢追尋。
-- 更老愁何在，長貧病亦侵。
-- 一盃聊自勸，不爲落花斟。
+- 宴坐翛然萬慮忘，從他風雨送春忙。
+- 佛燈初上黄昏後，時炷郴州石乳香。
 
 ## 拼音
 
-- chun1 se4 hu1 yi3 wan3 ， you1 you1 liu2 ci3 xin1 。
-- shen1 ju1 you3 xian2 xia2 ， ling4 jie2 fei4 zhui1 xun2 。
-- geng4 lao3 chou2 he2 zai4 ， chang2 pin2 bing4 yi4 qin1 。
-- yi4 bei1 liao2 zi4 quan4 ， bu4 wei2 luo4 hua1 zhen1 。
+- yan4 zuo4 xiao1 ran2 wan4 lü4 wang4 ， cong2 ta1 feng1 yu3 song4 chun1 mang2 。
+- fo2 deng1 chu1 shang4 huang2 hun1 hou4 ， shi2 zhu4 chen1 zhou1 shi2 ru3 xiang1 。
 
 ## 注释
 

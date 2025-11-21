@@ -6,10 +6,10 @@ titleSlug: xi-xing-wan-wang
 author: 陳應祥
 authorPinyin: chen2 ying1 xiang2
 authorSlug: chen-ying-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

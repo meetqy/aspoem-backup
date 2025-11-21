@@ -6,10 +6,10 @@ titleSlug: shou-wang-tong-pan-wu-shou-qi-yi
 author: 吳勢卿
 authorPinyin: wu2 shi4 qing1
 authorSlug: wu-shi-qing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

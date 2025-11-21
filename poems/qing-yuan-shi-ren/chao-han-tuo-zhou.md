@@ -6,10 +6,10 @@ titleSlug: chao-han-tuo-zhou
 author: 慶元士人
 authorPinyin: qing4 yuan2 shi4 ren2
 authorSlug: qing-yuan-shi-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

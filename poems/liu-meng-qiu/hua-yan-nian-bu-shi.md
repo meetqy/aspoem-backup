@@ -6,10 +6,10 @@ titleSlug: hua-yan-nian-bu-shi
 author: 劉夢求
 authorPinyin: liu2 meng4 qiu2
 authorSlug: liu-meng-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

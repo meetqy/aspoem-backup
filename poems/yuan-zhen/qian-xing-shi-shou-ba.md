@@ -1,7 +1,7 @@
 ---
 id: yuan-zhen-qian-xing-shi-shou-ba
-title: 遣興十首 八
-titlePinyin: qian3 xing1 shi2 shou3   ba1
+title: 遣行十首 八
+titlePinyin: qian3 xing2 shi2 shou3   ba1
 titleSlug: qian-xing-shi-shou-ba
 author: 元稹
 authorPinyin: yuan2 zhen3
@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 㸌㸌刀刃光，彎彎弓面張。
-- 入水斬犀兕，上山椎虎狼。
-- 里中無老少，喚作癲兒郎。
-- 一日風雲會，橫行歸故鄉。
+- 襃縣驛前境，曲江池上情。
+- 南堤衰柳意，西寺晚鐘聲。
+- 雲水興方遠，風波心已驚。
+- 可憐皆老大，不得自由行。
 
 ## 拼音
 
-- huo4 huo4 dao1 ren4 guang1 ， wan1 wan1 gong1 mian4 zhang1 。
-- ru4 shui3 zhan3 xi1 si4 ， shang4 shan1 zhui1 hu3 lang2 。
-- li3 zhong1 wu2 lao3 shao4 ， huan4 zuo4 dian1 er2 lang2 。
-- yi2 ri4 feng1 yun2 hui4 ， heng2 xing2 gui1 gu4 xiang1 。
+- bao1 xian4 yi4 qian2 jing4 ， qu3 jiang1 chi2 shang4 qing2 。
+- nan2 di1 shuai1 liu3 yi4 ， xi1 si4 wan3 zhong1 sheng1 。
+- yun2 shui3 xing1 fang1 yuan3 ， feng1 bo1 xin1 yi3 jing1 。
+- ke3 lian2 jie1 lao3 da4 ， bu4 de2 zi4 you2 xing2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ren-cao-lu-cao-tong-ye-shi-fa-yun-wei-lu-fu-zhi-you-hen-bu-de-xie-xin
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

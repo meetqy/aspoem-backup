@@ -1,30 +1,30 @@
 ---
 id: shi-zheng-jue-shan-ren-xie-zhen-qiu-zan-qi-ba
-title: 禪人寫真求贊  其八
-titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 ba1
+title: 禪人寫真求贊  其八○
+titlePinyin: shan4 ren2 xie3 zhen1 qiu2 zan4     qi2 ba1 ○
 titleSlug: shan-ren-xie-zhen-qiu-zan-qi-ba
 author: 釋正覺
 authorPinyin: shi4 zheng4 jue2
 authorSlug: shi-zheng-jue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 身心廓如，手段卷舒。
-- 似華作蜜，如井覷驢。
-- 外不痕兮空印普應，中無象兮道環常虛。
-- 亡機孤坐兮自不爲礙，把臂同行兮誰敢相疏。
+- 家風貧自慚，面孔惡人嫌。
+- 點漆之眼有角，截筒之鼻無尖。
+- 顛毛寒覆雪，項癭暗消鹽。
+- 說妙談玄兮遲鈍口觜，呵佛罵祖兮誑嚇閭閻。
 
 ## 拼音
 
-- shen1 xin1 kuo4 ru2 ， shou3 duan4 juan3 shu1 。
-- si4 hua2 zuo4 mi4 ， ru2 jing3 qu4 lü2 。
-- wai4 bu4 hen2 xi1 kong1 yin4 pu3 ying1 ， zhong1 wu2 xiang4 xi1 dao4 huan2 chang2 xu1 。
-- wang2 ji1 gu1 zuo4 xi1 zi4 bu4 wei2 ai4 ， ba3 bi4 tong2 hang2 xi1 shui2 gan3 xiang1 shu1 。
+- jia1 feng1 pin2 zi4 can2 ， mian4 kong3 e4 ren2 xian2 。
+- dian3 qi1 zhi1 yan3 you3 jiao3 ， jie2 tong3 zhi1 bi2 wu2 jian1 。
+- dian1 mao2 han2 fu4 xue3 ， xiang4 ying3 an4 xiao1 yan2 。
+- shuo1 miao4 tan2 xuan2 xi1 chi2 dun4 kou3 zi1 ， he1 fo2 ma4 zu3 xi1 kuang2 he4 lü2 yan2 。
 
 ## 注释
 

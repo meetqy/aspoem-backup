@@ -6,10 +6,10 @@ titleSlug: song-hu-ji-zhao-cuan-xiang-jun-er-shou-qi-er
 author: 楊長孺
 authorPinyin: yang2 chang2 ru2
 authorSlug: yang-chang-ru
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

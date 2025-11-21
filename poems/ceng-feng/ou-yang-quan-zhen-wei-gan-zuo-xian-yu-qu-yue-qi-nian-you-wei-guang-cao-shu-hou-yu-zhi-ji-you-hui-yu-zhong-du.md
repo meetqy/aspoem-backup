@@ -6,10 +6,10 @@ titleSlug: ou-yang-quan-zhen-wei-gan-zuo-xian-yu-qu-yue-qi-nian-you-wei-guang-ca
 author: 曾丰
 authorPinyin: ceng2 feng1
 authorSlug: ceng-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

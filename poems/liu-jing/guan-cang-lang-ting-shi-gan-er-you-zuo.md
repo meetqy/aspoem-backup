@@ -6,10 +6,10 @@ titleSlug: guan-cang-lang-ting-shi-gan-er-you-zuo
 author: 劉敬
 authorPinyin: liu2 jing4
 authorSlug: liu-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

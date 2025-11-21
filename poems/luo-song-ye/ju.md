@@ -6,10 +6,10 @@ titleSlug: ju
 author: 羅松野
 authorPinyin: luo2 song1 ye3
 authorSlug: luo-song-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

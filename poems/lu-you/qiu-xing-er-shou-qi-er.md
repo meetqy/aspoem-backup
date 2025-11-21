@@ -6,25 +6,25 @@ titleSlug: qiu-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 暮境何堪與病遭，西風落葉擁亭皋。
-- 極知世上人情惡，且放江邊醉眼高。
-- 應俗紛紛何日了，詠詩混混寄吾豪。
-- 碧油金鎖平生意，未許人言學楚騷。
+- 八十仍當過二時，加餐安寢豈前知。
+- 晨梳脫髮雖無數，社甕新醅已有期。
+- 偶爲買花經廢圃，時因蹋藕下清池。
+- 尚餘一事終關念，安得兒孫少別離。
 
 ## 拼音
 
-- mu4 jing4 he2 kan1 yu3 bing4 zao1 ， xi1 feng1 luo4 ye4 yong1 ting2 gao1 。
-- ji2 zhi1 shi4 shang4 ren2 qing2 e4 ， qie3 fang4 jiang1 bian1 zui4 yan3 gao1 。
-- ying1 su2 fen1 fen1 he2 ri4 le0 ， yong3 shi1 hun4 hun0 ji4 wu2 hao2 。
-- bi4 you2 jin1 suo3 ping2 sheng1 yi4 ， wei4 xu1 ren2 yan2 xue2 chu3 sao1 。
+- ba1 shi2 reng2 dang1 guo4 er4 shi2 ， jia1 can1 an1 qin3 qi3 qian2 zhi1 。
+- chen2 shu1 tuo1 fa4 sui1 wu2 shu4 ， she4 weng4 xin1 pei1 yi3 you3 qi1 。
+- ou3 wei2 mai3 hua1 jing1 fei4 pu3 ， shi2 yin1 ta4 ou3 xia4 qing1 chi2 。
+- shang4 yu2 yi2 shi4 zhong1 guan1 nian4 ， an1 de2 er2 sun1 shao3 bie2 li2 。
 
 ## 注释
 

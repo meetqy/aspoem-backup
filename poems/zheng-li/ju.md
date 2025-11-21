@@ -6,10 +6,10 @@ titleSlug: ju
 author: 鄭立
 authorPinyin: zheng4 li4
 authorSlug: zheng-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

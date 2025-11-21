@@ -6,21 +6,21 @@ titleSlug: gong-ci-qi-yi-jiu
 author: 宋徽宗
 authorPinyin: song4 hui1 zong1
 authorSlug: song-hui-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 銷金花朵遍輕羅，剪作春衣錫賜多。
-- 鬬薄只貪腰細柳，夜闌無奈峭寒何。
+- 杏褪殘花點碧輕，融怡天氣雨初晴。
+- 仙姿鬭草春園裏，時聽妖嬈笑語聲。
 
 ## 拼音
 
-- xiao1 jin1 hua1 duo3 bian4 qing1 luo2 ， jian3 zuo4 chun1 yi1 xi1 ci4 duo1 。
-- dou4 bao2 zhi1 tan1 yao1 xi4 liu3 ， ye4 lan2 wu2 nai4 qiao4 han2 he2 。
+- xing4 tui4 can2 hua1 dian3 bi4 qing1 ， rong2 yi2 tian1 qi4 yu3 chu1 qing2 。
+- xian1 zi1 dou4 cao3 chun1 yuan2 li3 ， shi2 ting1 yao1 rao2 xiao4 yu3 sheng1 。
 
 ## 注释
 

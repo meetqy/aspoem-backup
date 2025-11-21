@@ -6,25 +6,31 @@ titleSlug: ni-gu
 author: 于石
 authorPinyin: yu2 shi2
 authorSlug: yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 君心如柳枝，春盡絮狂飛。
-- 妾心如古木，不受春風吹。
-- 古木寧槁死，可伐不可移。
-- 風絮飛不已，飄零將安歸。
+- 東籬有佳菊，埋沒野草傍。
+- 草蔓日以滋，菊苗日以荒。
+- 生意幾欲息，菊短草何長。
+- 深秋嚴霜下，百草不復芳。
+- 采采東籬花，澹然發幽香。
+- 萬物各有時，盛衰固其常。
+- 榮華不足恃，窮困果何傷。
 
 ## 拼音
 
-- jun1 xin1 ru2 liu3 zhi1 ， chun1 jin4 xu4 kuang2 fei1 。
-- qie4 xin1 ru2 gu3 mu4 ， bu2 shou4 chun1 feng1 chui1 。
-- gu3 mu4 ning2 gao3 si3 ， ke3 fa2 bu4 ke3 yi2 。
-- feng1 xu4 fei1 bu4 yi3 ， piao1 ling2 jiang1 an1 gui1 。
+- dong1 li2 you3 jia1 ju2 ， mai2 mei2 ye3 cao3 bang4 。
+- cao3 man4 ri4 yi3 zi1 ， ju2 miao2 ri4 yi3 huang1 。
+- sheng1 yi4 ji1 yu4 xi1 ， ju2 duan3 cao3 he2 chang2 。
+- shen1 qiu1 yan2 shuang1 xia4 ， bai3 cao3 bu2 fu4 fang1 。
+- cai3 cai3 dong1 li2 hua1 ， dan4 ran2 fa1 you1 xiang1 。
+- wan4 wu4 ge4 you3 shi2 ， sheng4 shuai1 gu4 qi2 chang2 。
+- rong2 hua2 bu4 zu2 shi4 ， qiong2 kun4 guo3 he2 shang1 。
 
 ## 注释
 

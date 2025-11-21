@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-wu-ba
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 不持月三長，不奉八關戒。
-- 久素則生疾，多肉亦思菜。
-- 齒决今莫遂，啜汁老所快。
-- 終當屏去葷，居山得自在。
+- 和靖骨已槁，後來欲無說。
+- 細雨斷魂句，妙處益清絕。
+- 朅來客異縣，籬落冷風月。
+- 吟哦一字難，愧此枝下雪。
 
 ## 拼音
 
-- bu4 chi2 yue4 san1 chang2 ， bu2 feng4 ba1 guan1 jie4 。
-- jiu3 su4 ze2 sheng1 ji2 ， duo1 rou4 yi4 si1 cai4 。
-- chi3 jue2 jin1 mo4 sui4 ， chuo4 zhi1 lao3 suo3 kuai4 。
-- zhong1 dang1 ping2 qu4 hun1 ， ju1 shan1 de2 zi4 zai4 。
+- he2 jing4 gu3 yi3 gao3 ， hou4 lai2 yu4 wu2 shuo1 。
+- xi4 yu3 duan4 hun2 ju4 ， miao4 chu3 yi4 qing1 jue2 。
+- qie4 lai2 ke4 yi4 xian4 ， li2 luo4 leng3 feng1 yue4 。
+- yin2 e2 yi2 zi4 nan2 ， kui4 ci3 zhi1 xia4 xue3 。
 
 ## 注释
 

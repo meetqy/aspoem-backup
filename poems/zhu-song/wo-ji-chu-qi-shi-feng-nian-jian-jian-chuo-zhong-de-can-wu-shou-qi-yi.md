@@ -6,9 +6,9 @@ titleSlug: wo-ji-chu-qi-shi-feng-nian-jian-jian-chuo-zhong-de-can-wu-shou-qi-yi
 author: 朱松
 authorPinyin: zhu1 song1
 authorSlug: zhu-song
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

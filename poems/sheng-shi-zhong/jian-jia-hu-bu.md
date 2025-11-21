@@ -6,10 +6,10 @@ titleSlug: jian-jia-hu-bu
 author: 盛世忠
 authorPinyin: sheng4 shi4 zhong1
 authorSlug: sheng-shi-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: mei-lin-fen-yun-de-jiu-zi
 author: 杜謹言
 authorPinyin: du4 jin3 yan2
 authorSlug: du-jin-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

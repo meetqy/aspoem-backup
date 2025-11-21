@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-yi-yi
-title: 梅花集句  其一一
-titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 yi1
+title: 梅花集句  其一一○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 yi1 yi1 ○
 titleSlug: mei-hua-ji-ju-qi-yi-yi
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無熱天中第一仙，幽姿高韻獨蕭然。
-- 畫圖省識春風面，莫遣孤芳老澗邊。
+- 閑踏宮花獨自行，飄廊點地色輕輕。
+- 臨風長作南枝想，欲化西園蝶未成。
 
 ## 拼音
 
-- wu2 re4 tian1 zhong1 di4 yi4 xian1 ， you1 zi1 gao1 yun4 du2 xiao1 ran2 。
-- hua4 tu2 sheng3 shi2 chun1 feng1 mian4 ， mo4 qian3 gu1 fang1 lao3 jian4 bian1 。
+- xian2 ta4 gong1 hua1 du2 zi4 xing2 ， piao1 lang2 dian3 di4 se4 qing1 qing1 。
+- lin2 feng1 chang2 zuo4 nan2 zhi1 xiang3 ， yu4 hua4 xi1 yuan2 die2 wei4 cheng2 。
 
 ## 注释
 

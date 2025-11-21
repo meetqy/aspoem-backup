@@ -1,26 +1,26 @@
 ---
 id: wang-yan-chang-feng-he-jiang-chong-tao-yin-ju-er-shi-yun-qi-yi
-title: 奉和江沖陶隠居二十韻  其一
-titlePinyin: feng4 he2 jiang1 chong1 tao2 yin3 ju1 er4 shi2 yun4     qi2 yi1
+title: 奉和江沖陶隠居二十韻  其一○
+titlePinyin: feng4 he2 jiang1 chong1 tao2 yin3 ju1 er4 shi2 yun4     qi2 yi1 ○
 titleSlug: feng-he-jiang-chong-tao-yin-ju-er-shi-yun-qi-yi
 author: 汪炎昶
 authorPinyin: wang1 yan2 chang3
 authorSlug: wang-yan-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 雲深行欲迷，但逐樵夫去。
-- 遥聞雞犬聲，人家在何處。
+- 前浮芙蓉翠，後汎石耳雲。
+- 君欲竟幽討，絕壁更一捫。
 
 ## 拼音
 
-- yun2 shen1 xing2 yu4 mi2 ， dan4 zhu2 qiao2 fu1 qu4 。
-- yao2 wen2 ji1 quan3 sheng1 ， ren2 jia1 zai4 he2 chu3 。
+- qian2 fu2 fu2 rong2 cui4 ， hou4 fan4 shi2 er3 yun2 。
+- jun1 yu4 jing4 you1 tao3 ， jue2 bi4 geng4 yi4 men2 。
 
 ## 注释
 

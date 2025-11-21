@@ -6,25 +6,29 @@ titleSlug: song-zhang-yi-xuan-zhou-fa-cao
 author: 劉攽
 authorPinyin: liu2 ban1
 authorSlug: liu-ban
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 謝守宣城句，偏矜呂法曹。
-- 郡齋應似舊，廷掾不徒勞。
-- 東北歸流駛，空虛去棹高。
-- 木瓜因贈客，并擇兔千毫。
+- 掾曹仁恕用，郎選孝廉爲。
+- 之子文無害，居廷敢决疑。
+- 一王除制作，三尺著毫釐。
+- 過眼皆成誦，讎書自所宜。
+- 察廉時爾貴，治道吏爲師。
+- 去去弦歌化，當如別後思。
 
 ## 拼音
 
-- xie4 shou3 xuan1 cheng2 ju4 ， pian1 jin1 lü3 fa3 cao2 。
-- jun4 zhai1 ying1 si4 jiu4 ， ting2 yuan4 bu4 tu2 lao2 。
-- dong1 bei3 gui1 liu2 shi3 ， kong1 xu1 qu4 zhao4 gao1 。
-- mu4 gua1 yin1 zeng4 ke4 ， bing4 ze2 tu4 qian1 hao2 。
+- yuan4 cao2 ren2 shu4 yong4 ， lang2 xuan3 xiao4 lian2 wei2 。
+- zhi1 zi3 wen2 wu2 hai4 ， ju1 ting2 gan3 jue2 yi2 。
+- yi4 wang2 chu2 zhi4 zuo4 ， san1 chi3 zhu4 hao2 li2 。
+- guo4 yan3 jie1 cheng2 song4 ， chou2 shu1 zi4 suo3 yi2 。
+- cha2 lian2 shi2 er3 gui4 ， zhi4 dao4 li4 wei2 shi1 。
+- qu4 qu4 xian2 ge1 hua4 ， dang1 ru2 bie2 hou4 si1 。
 
 ## 注释
 

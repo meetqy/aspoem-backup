@@ -6,10 +6,10 @@ titleSlug: fa-cheng-du-qi-san
 author: 劉望之
 authorPinyin: liu2 wang4 zhi1
 authorSlug: liu-wang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

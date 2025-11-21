@@ -9,24 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 昔者龐德公，未曾入州府。
-- 襄陽耆舊間，處士節獨苦。
-- 豈無濟時策，終竟畏羅罟。
-- 林茂鳥有歸，水深魚知聚。
-- 舉家依鹿門，劉表焉得取。
+- 地用莫如馬，無良復誰記。
+- 此日千里鳴，追風可君意。
+- 君看渥洼種，態與駑駘異。
+- 不雜蹄齧間，逍遙有能事。
 
 ## 拼音
 
-- xi1 zhe3 pang2 de2 gong1 ， wei4 ceng2 ru4 zhou1 fu3 。
-- xiang1 yang2 qi2 jiu4 jian4 ， chu3 shi4 jie2 du2 ku3 。
-- qi3 wu2 ji4 shi2 ce4 ， zhong1 jing4 wei4 luo2 gu3 。
-- lin2 mao4 niao3 you3 gui1 ， shui3 shen1 yu2 zhi1 ju4 。
-- ju3 jia1 yi1 lu4 men2 ， liu2 biao3 yan1 de2 qu3 。
+- di4 yong4 mo4 ru2 ma3 ， wu2 liang2 fu4 shui2 ji4 。
+- ci3 ri4 qian1 li3 ming2 ， zhui1 feng1 ke3 jun1 yi4 。
+- jun1 kan4 wo4 wa1 zhong3 ， tai4 yu3 nu2 tai2 yi4 。
+- bu4 za2 ti2 nie4 jian4 ， xiao1 yao2 you3 neng2 shi4 。
 
 ## 注释
 

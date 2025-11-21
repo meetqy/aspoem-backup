@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 千日功夫不暫閑，河車搬載上崑山。
-- 虎抽白汞安爐裏，龍發紅鉛向鼎間。
-- 仙府記名丹已熟，陰司除籍命應還。
-- 彩雲捧足歸何處，直入三清謝聖顏。
+- 自隱玄都不記春，幾回滄海變成塵。
+- 玉京殿裏朝元始，金闕宮中拜老君。
+- 悶即駕乘千歲鶴，閑來高臥九重雲。
+- 我今學得長生法，未肯輕傳與世人。
 
 ## 拼音
 
-- qian1 ri4 gong1 fu0 bu2 zan4 xian2 ， he2 ju1 ban1 zai4 shang4 kun1 shan1 。
-- hu3 chou1 bai2 gong3 an1 lu2 li3 ， long2 fa1 hong2 qian1 xiang4 ding3 jian4 。
-- xian1 fu3 ji4 ming2 dan1 yi3 shu2 ， yin1 si1 chu2 ji2 ming4 ying1 huan2 。
-- cai3 yun2 peng3 zu2 gui1 he2 chu3 ， zhi2 ru4 san1 qing1 xie4 sheng4 yan2 。
+- zi4 yin3 xuan2 dou1 bu2 ji4 chun1 ， ji1 hui2 cang1 hai3 bian4 cheng2 chen2 。
+- yu4 jing1 dian4 li3 chao2 yuan2 shi3 ， jin1 que4 gong1 zhong1 bai4 lao3 jun1 。
+- men4 ji2 jia4 cheng2 qian1 sui4 he4 ， xian2 lai2 gao1 wo4 jiu3 chong2 yun2 。
+- wo3 jin1 xue2 de2 chang2 sheng1 fa3 ， wei4 ken3 qing1 chuan2 yu3 shi4 ren2 。
 
 ## 注释
 

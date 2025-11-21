@@ -6,21 +6,21 @@ titleSlug: zai-ci-ji-ken-tang-yun-wu-shou-qi-san
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 共譚詩律更譚禪，人指昌黎接大顛。
-- 屏疊葛藤燒筆硯，息陰休影了殘年。
+- 枝筇過我海雲邊，空谷人聲喜欲顛。
+- 更喜重逢各强健，未須悽惋話彫年。
 
 ## 拼音
 
-- gong4 tan2 shi1 lü4 geng4 tan2 shan4 ， ren2 zhi3 chang1 li2 jie1 da4 dian1 。
-- ping2 die2 ge2 teng2 shao1 bi3 yan4 ， xi1 yin1 xiu1 ying3 le0 can2 nian2 。
+- zhi1 qiong2 guo4 wo3 hai3 yun2 bian1 ， kong1 gu3 ren2 sheng1 xi3 yu4 dian1 。
+- geng4 xi3 chong2 feng2 ge4 qiang2 jian4 ， wei4 xu1 qi1 wan3 hua4 diao1 nian2 。
 
 ## 注释
 

@@ -1,26 +1,26 @@
 ---
 id: hu-su-fu-ren-he-duan-wu-tie-zi-qi-yi
-title: 夫人閤端午帖子  其一
-titlePinyin: fu1 ren2 he2 duan1 wu3 tie3 zi0     qi2 yi1
+title: 夫人閤端午帖子  其一○
+titlePinyin: fu1 ren2 he2 duan1 wu3 tie3 zi0     qi2 yi1 ○
 titleSlug: fu-ren-he-duan-wu-tie-zi-qi-yi
 author: 胡宿
 authorPinyin: hu2 su4
 authorSlug: hu-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 五絲通遺問，百草鬭輸贏。
-- 神印能袪惡，靈符解辟兵。
+- 彩艾相傳禳故氣，香茅競愛結靈芳。
+- 炎洲正覺仙遊盛，化國偏知日景長。
 
 ## 拼音
 
-- wu3 si1 tong1 yi2 wen4 ， bai3 cao3 dou4 shu1 ying2 。
-- shen2 yin4 neng2 qu1 e4 ， ling2 fu2 jie3 pi4 bing1 。
+- cai3 ai4 xiang1 chuan2 rang2 gu4 qi4 ， xiang1 mao2 jing4 ai4 jie2 ling2 fang1 。
+- yan2 zhou1 zheng4 jue2 xian1 you2 sheng4 ， hua4 guo2 pian1 zhi1 ri4 jing3 chang2 。
 
 ## 注释
 

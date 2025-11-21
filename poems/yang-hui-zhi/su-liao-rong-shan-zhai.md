@@ -6,9 +6,9 @@ titleSlug: su-liao-rong-shan-zhai
 author: 楊徽之
 authorPinyin: yang2 hui1 zhi1
 authorSlug: yang-hui-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

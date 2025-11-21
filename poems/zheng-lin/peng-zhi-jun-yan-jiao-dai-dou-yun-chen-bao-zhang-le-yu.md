@@ -6,10 +6,10 @@ titleSlug: peng-zhi-jun-yan-jiao-dai-dou-yun-chen-bao-zhang-le-yu
 author: 鄭霖
 authorPinyin: zheng4 lin2
 authorSlug: zheng-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

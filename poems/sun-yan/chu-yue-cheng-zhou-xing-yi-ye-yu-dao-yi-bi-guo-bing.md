@@ -6,10 +6,10 @@ titleSlug: chu-yue-cheng-zhou-xing-yi-ye-yu-dao-yi-bi-guo-bing
 author: 孫巖
 authorPinyin: sun1 yan2
 authorSlug: sun-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

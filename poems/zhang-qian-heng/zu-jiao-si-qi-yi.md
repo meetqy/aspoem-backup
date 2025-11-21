@@ -6,10 +6,10 @@ titleSlug: zu-jiao-si-qi-yi
 author: 章謙亨
 authorPinyin: zhang1 qian1 heng1
 authorSlug: zhang-qian-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

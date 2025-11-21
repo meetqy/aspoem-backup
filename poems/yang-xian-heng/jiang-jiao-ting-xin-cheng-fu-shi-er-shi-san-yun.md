@@ -6,10 +6,10 @@ titleSlug: jiang-jiao-ting-xin-cheng-fu-shi-er-shi-san-yun
 author: 楊咸亨
 authorPinyin: yang2 xian2 heng1
 authorSlug: yang-xian-heng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

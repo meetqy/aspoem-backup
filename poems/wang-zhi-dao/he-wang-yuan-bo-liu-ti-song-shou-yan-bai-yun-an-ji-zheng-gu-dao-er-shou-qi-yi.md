@@ -6,9 +6,9 @@ titleSlug: he-wang-yuan-bo-liu-ti-song-shou-yan-bai-yun-an-ji-zheng-gu-dao-er-sh
 author: 王之道
 authorPinyin: wang2 zhi1 dao4
 authorSlug: wang-zhi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

@@ -6,10 +6,10 @@ titleSlug: fu-huang-xiang-mei-jue-ju-ba-shou-zheng-yue-er-shi-san-zuo-shi-zhu-lo
 author: 李壁
 authorPinyin: li3 bi4
 authorSlug: li-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: nan-zhong-ti-bi
 author: 方武子
 authorPinyin: fang1 wu3 zi3
 authorSlug: fang-wu-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

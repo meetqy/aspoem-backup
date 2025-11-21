@@ -6,25 +6,21 @@ titleSlug: yu-hou
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝來一雨灑炎光，陡覺園林處處凉。
-- 烟柳數行縈翠带，風荷十里擁紅妝。
-- 莫憂鏡裏朱顔改，且喜壺中白晝長。
-- 只恐吾衰無此福，不容終老水雲鄉。
+- 破雨衝風萬騎趨，人人輕捷過飛鳬。
+- 要須直擣天山去，趁取河冰塞槁枯。
 
 ## 拼音
 
-- chao2 lai2 yi4 yu3 sa3 yan2 guang1 ， dou3 jue2 yuan2 lin2 chu3 chu3 liang2 。
-- yan1 liu3 shu4 xing2 ying2 cui4 dai4 ， feng1 he2 shi2 li3 yong1 hong2 zhuang1 。
-- mo4 you1 jing4 li3 zhu1 yan2 gai3 ， qie3 xi3 hu2 zhong1 bai2 zhou4 chang2 。
-- zhi3 kong3 wu2 shuai1 wu2 ci3 fu2 ， bu4 rong2 zhong1 lao3 shui3 yun2 xiang1 。
+- po4 yu3 chong1 feng1 wan4 qi2 qu1 ， ren2 ren2 qing1 jie2 guo4 fei1 fu2 。
+- yao4 xu1 zhi2 dao3 tian1 shan1 qu4 ， chen4 qu3 he2 bing1 sai1 gao3 ku1 。
 
 ## 注释
 

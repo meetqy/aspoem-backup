@@ -6,10 +6,10 @@ titleSlug: ju
 author: 李秉彝
 authorPinyin: li3 bing3 yi2
 authorSlug: li-bing-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

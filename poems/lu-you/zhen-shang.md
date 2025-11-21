@@ -6,25 +6,25 @@ titleSlug: zhen-shang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 枕上三更雨，天涯萬里遊。
-- 蟲聲憎好夢，燈影伴孤愁。
-- 報國計安出，滅胡心未休。
-- 明年起飛將，更試北平秋。
+- 小疾知閑樂，微凉與睡宜。
+- 瞢騰如欲覺，展轉復多時。
+- 四壁人聲寂，疏簾日影移。
+- 詩囊與藥裹，一步不相離。
 
 ## 拼音
 
-- zhen3 shang4 san1 geng1 yu3 ， tian1 ya2 wan4 li3 you2 。
-- chong2 sheng1 zeng1 hao3 meng4 ， deng1 ying3 ban4 gu1 chou2 。
-- bao4 guo2 ji4 an1 chu1 ， mie4 hu2 xin1 wei4 xiu1 。
-- ming2 nian2 qi3 fei1 jiang1 ， geng4 shi4 bei3 ping2 qiu1 。
+- xiao3 ji2 zhi1 xian2 le4 ， wei1 liang2 yu3 shui4 yi2 。
+- meng2 teng2 ru2 yu4 jue2 ， zhan3 zhuan3 fu4 duo1 shi2 。
+- si4 bi4 ren2 sheng1 ji4 ， shu1 lian2 ri4 ying3 yi2 。
+- shi1 nang2 yu3 yao4 guo3 ， yi2 bu4 bu4 xiang1 li2 。
 
 ## 注释
 

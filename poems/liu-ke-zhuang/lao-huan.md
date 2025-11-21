@@ -6,25 +6,25 @@ titleSlug: lao-huan
 author: 劉克莊
 authorPinyin: liu2 ke4 zhuang1
 authorSlug: liu-ke-zhuang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 功名幻妄炊粱枕，歲月奔忙下坂輪。
-- 昔作時來木居士，今爲暑退竹夫人。
-- 白襦裙穩於歸衮，黄獨苗甘似食珍。
-- 老漢禿殘惟齒髮，不妨句子尚尖新。
+- 宿昔髫年忽旄期，登臨筋力尚支持。
+- 酒腸無恙重開禁，藥性皆諳懶問醫。
+- 夜漏猶披燈下卷，春風不染鏡中絲。
+- 銷磨未盡惟吟癖，鍛了新詩改舊詩。
 
 ## 拼音
 
-- gong1 ming2 huan4 wang4 chui1 liang2 zhen3 ， sui4 yue4 ben1 mang2 xia4 ban3 lun2 。
-- xi1 zuo4 shi2 lai2 mu4 ju1 shi4 ， jin1 wei2 shu3 tui4 zhu2 fu1 ren2 。
-- bai2 ru2 qun2 wen3 wu1 gui1 gun3 ， huang2 du2 miao2 gan1 si4 shi2 zhen1 。
-- lao3 han4 tu1 can2 wei2 chi3 fa4 ， bu4 fang2 ju4 zi0 shang4 jian1 xin1 。
+- su4 xi1 tiao2 nian2 hu1 mao2 qi1 ， deng1 lin2 jin1 li4 shang4 zhi1 chi2 。
+- jiu3 chang2 wu2 yang4 zhong4 kai1 jin4 ， yao4 xing4 jie1 an1 lan3 wen4 yi1 。
+- ye4 lou4 you2 pi1 deng1 xia4 juan4 ， chun1 feng1 bu4 ran3 jing4 zhong1 si1 。
+- xiao1 mo2 wei4 jin4 wei2 yin2 pi3 ， duan4 le0 xin1 shi1 gai3 jiu4 shi1 。
 
 ## 注释
 

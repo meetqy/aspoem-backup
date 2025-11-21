@@ -1,26 +1,30 @@
 ---
 id: shi-fa-xun-ji-song-yi-bai-san-shi-san-shou-qi-ba
-title: 偈頌一百三十三首  其八
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 ba1
+title: 偈頌一百三十三首  其八○
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-ba
 author: 釋法薰
 authorPinyin: shi4 fa3 xun1
 authorSlug: shi-fa-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 蓮花荷葉，意在言前。
-- 神僊妙訣，父子不傳。
+- 至道無難，惟嫌揀擇。
+- 山河大地，日月星辰。
+- 草木叢林，鳥獸人畜。
+- 不是龍門客，切忌遭點額。
 
 ## 拼音
 
-- lian2 hua1 he2 ye4 ， yi4 zai4 yan2 qian2 。
-- shen2 xian1 miao4 jue2 ， fu4 zi3 bu4 chuan2 。
+- zhi4 dao4 wu2 nan2 ， wei2 xian2 jian3 ze2 。
+- shan1 he2 da4 di4 ， ri4 yue4 xing1 chen2 。
+- cao3 mu4 cong2 lin2 ， niao3 shou4 ren2 chu4 。
+- bu2 shi4 long2 men2 ke4 ， qie4 ji4 zao1 dian3 e2 。
 
 ## 注释
 

@@ -1,6 +1,6 @@
 ---
 id: xu-xuan-you-fang-shan-su-li-dao-shi-fang
-title: 游方山宿李道士房
+title: 遊方山宿李道士房
 titlePinyin: you2 fang1 shan1 su4 li3 dao4 shi0 fang2
 titleSlug: you-fang-shan-su-li-dao-shi-fang
 author: 徐鉉
@@ -14,7 +14,7 @@ tags: []
 
 ## 正文
 
-- 從來未面李先生，借我西窗卧月明。
+- 從來未面李先生，借我西窗臥月明。
 - 二十三家同願識，素騾何日暫還城。
 
 ## 拼音

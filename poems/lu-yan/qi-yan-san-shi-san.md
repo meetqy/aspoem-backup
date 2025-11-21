@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 嬰兒迤邐降瑤階，手握玄珠直下來。
-- 半夜紫雲披素質，幾回赤氣掩桃顋。
-- 微微笑處機關轉，拂拂行時戶牖開。
-- 此是吾家真一子，庸愚誰敢等閑猜。
+- 四海皆忙幾箇閑，時人口內說塵緣。
+- 知君有道來山上，何似無名住世間。
+- 十二樓臺藏秘訣，五千言內隱玄關。
+- 方知鼎貯神仙藥，乞取刀圭一粒看。
 
 ## 拼音
 
-- ying1 er2 yi3 li3 jiang4 yao2 jie1 ， shou3 wo4 xuan2 zhu1 zhi2 xia4 lai2 。
-- ban4 ye4 zi3 yun2 pi1 su4 zhi4 ， ji1 hui2 chi4 qi4 yan3 tao2 sai1 。
-- wei1 wei1 xiao4 chu3 ji1 guan1 zhuan3 ， fu2 fu2 xing2 shi2 hu4 you3 kai1 。
-- ci3 shi4 wu2 jia1 zhen1 yi4 zi3 ， yong1 yu2 shui2 gan3 deng3 xian2 cai1 。
+- si4 hai3 jie1 mang2 ji1 ge4 xian2 ， shi2 ren2 kou3 nei4 shuo1 chen2 yuan2 。
+- zhi1 jun1 you3 dao4 lai2 shan1 shang4 ， he2 si4 wu2 ming2 zhu4 shi4 jian4 。
+- shi2 er4 lou2 tai2 cang2 mi4 jue2 ， wu3 qian1 yan2 nei4 yin3 xuan2 guan1 。
+- fang1 zhi1 ding3 zhu4 shen2 xian1 yao4 ， qi3 qu3 dao1 gui1 yi2 li4 kan4 。
 
 ## 注释
 

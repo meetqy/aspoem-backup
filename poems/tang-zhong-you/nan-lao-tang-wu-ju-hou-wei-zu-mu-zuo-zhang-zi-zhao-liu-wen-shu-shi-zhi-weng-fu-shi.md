@@ -6,10 +6,10 @@ titleSlug: nan-lao-tang-wu-ju-hou-wei-zu-mu-zuo-zhang-zi-zhao-liu-wen-shu-shi-zh
 author: 唐仲友
 authorPinyin: tang2 zhong4 you3
 authorSlug: tang-zhong-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

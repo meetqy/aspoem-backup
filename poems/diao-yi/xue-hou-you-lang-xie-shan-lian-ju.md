@@ -6,10 +6,10 @@ titleSlug: xue-hou-you-lang-xie-shan-lian-ju
 author: 刁繹
 authorPinyin: diao1 yi4
 authorSlug: diao-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

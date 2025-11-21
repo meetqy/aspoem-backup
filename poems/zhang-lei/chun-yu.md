@@ -6,37 +6,37 @@ titleSlug: chun-yu
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 南山多夕陰，夜雨復達旦。
-- 瀟瀟晚未已，零落雲物亂。
-- 陰沉晝生寒，閉戶守餘炭。
-- 官庭草木合，山吏午已散。
-- 悠悠對朝景，念此春已半。
-- 昨日櫻桃花，紛紛落如霰。
-- 天時不可駐，今古一嗟嘆。
-- 唯應痛行樂，此計乃最善。
-- 簪紳束我體，局促困游宦。
-- 何當有茅屋，放意行所願。
+- 浪浪簷前雨，晝夜來不極。
+- 青苔生空廊，蝸涎被四壁。
+- 出門無所往，端居守籠翮。
+- 鳴呼林中鳩，聒聒方自得。
+- 林花掃餘姿，高柳沐佳色。
+- 悠悠三月殘，春物行欲息。
+- 感之欲何奈，取醉遣朝夕。
+- 穿泥得新筍，紫籜裹新白。
+- 從容婦子語，草草田野食。
+- 明日還復然，慵頑已成癖。
 
 ## 拼音
 
-- nan2 shan1 duo1 xi1 yin1 ， ye4 yu3 fu4 da2 dan4 。
-- xiao1 xiao1 wan3 wei4 yi3 ， ling2 luo4 yun2 wu4 luan4 。
-- yin1 chen2 zhou4 sheng1 han2 ， bi4 hu4 shou3 yu2 tan4 。
-- guan1 ting2 cao3 mu4 he2 ， shan1 li4 wu3 yi3 san4 。
-- you1 you1 dui4 chao2 jing3 ， nian4 ci3 chun1 yi3 ban4 。
-- zuo2 ri4 ying1 tao2 hua1 ， fen1 fen1 luo4 ru2 xian4 。
-- tian1 shi2 bu4 ke3 zhu4 ， jin1 gu3 yi4 jie1 tan4 。
-- wei2 ying1 tong4 xing2 le4 ， ci3 ji4 nai3 zui4 shan4 。
-- zan1 shen1 shu4 wo3 ti3 ， ju2 cu4 kun4 you2 huan4 。
-- he2 dang1 you3 mao2 wu1 ， fang4 yi4 xing2 suo3 yuan4 。
+- lang4 lang4 yan2 qian2 yu3 ， zhou4 ye4 lai2 bu4 ji2 。
+- qing1 tai2 sheng1 kong1 lang2 ， wo1 xian2 bei4 si4 bi4 。
+- chu1 men2 wu2 suo3 wang3 ， duan1 ju1 shou3 long2 he2 。
+- ming2 hu1 lin2 zhong1 jiu1 ， guo1 guo1 fang1 zi4 de2 。
+- lin2 hua1 sao3 yu2 zi1 ， gao1 liu3 mu4 jia1 se4 。
+- you1 you1 san1 yue4 can2 ， chun1 wu4 xing2 yu4 xi1 。
+- gan3 zhi1 yu4 he2 nai4 ， qu3 zui4 qian3 zhao1 xi1 。
+- chuan1 ni2 de2 xin1 sun3 ， zi3 tuo4 guo3 xin1 bai2 。
+- cong2 rong2 fu4 zi3 yu3 ， cao3 cao3 tian2 ye3 shi2 。
+- ming2 ri4 huan2 fu4 ran2 ， yong1 wan2 yi3 cheng2 pi3 。
 
 ## 注释
 

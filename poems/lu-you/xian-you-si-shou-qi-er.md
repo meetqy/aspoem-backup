@@ -6,25 +6,25 @@ titleSlug: xian-you-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 剡縣有佳處，吾行無定期。
-- 橫塘供晚釣，孤店具晨炊。
-- 約客同看竹，留僧與對棋。
-- 人生得自在，更老未爲遲。
+- 高會揮金愧二疏，食貧只似布衣初。
+- 終年老健緣儲藥，隨分窮忙爲著書。
+- 弔古何時過梁宋，題詩且欲徧衡廬。
+- 不須更擬乘風去，水有烟帆陸筍輿。
 
 ## 拼音
 
-- yan3 xian4 you3 jia1 chu3 ， wu2 xing2 wu2 ding4 qi1 。
-- heng2 tang2 gong4 wan3 diao4 ， gu1 dian4 ju4 chen2 chui1 。
-- yue1 ke4 tong2 kan4 zhu2 ， liu2 seng1 yu3 dui4 qi2 。
-- ren2 sheng1 de2 zi4 zai4 ， geng4 lao3 wei4 wei2 chi2 。
+- gao1 hui4 hui1 jin1 kui4 er4 shu1 ， shi2 pin2 zhi1 si4 bu4 yi1 chu1 。
+- zhong1 nian2 lao3 jian4 yuan2 chu3 yao4 ， sui2 fen1 qiong2 mang2 wei2 zhu4 shu1 。
+- diao4 gu3 he2 shi2 guo4 liang2 song4 ， ti2 shi1 qie3 yu4 bian4 heng2 lu2 。
+- bu4 xu1 geng4 ni3 cheng2 feng1 qu4 ， shui3 you3 yan1 fan1 lu4 sun3 yu2 。
 
 ## 注释
 

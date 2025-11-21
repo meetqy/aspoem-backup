@@ -6,21 +6,21 @@ titleSlug: wan-bu
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半疋輕煙束翠山，一梳寒月印青天。
-- 生憎野燒無端甚，直上高林杳靄邊。
+- 清水芙蓉未肯開，暑天花草底差排。
+- 鹿葱金鳳何爲者，也得園亭護兩階。
 
 ## 拼音
 
-- ban4 pi3 qing1 yan1 shu4 cui4 shan1 ， yi4 shu1 han2 yue4 yin4 qing1 tian1 。
-- sheng1 zeng1 ye3 shao1 wu2 duan1 shen4 ， zhi2 shang4 gao1 lin2 yao3 ai3 bian1 。
+- qing1 shui3 fu2 rong2 wei4 ken3 kai1 ， shu3 tian1 hua1 cao3 di3 cha4 pai2 。
+- lu4 cong1 jin1 feng4 he2 wei2 zhe3 ， ye3 de2 yuan2 ting2 hu4 liang3 jie1 。
 
 ## 注释
 

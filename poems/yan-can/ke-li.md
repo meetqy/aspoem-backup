@@ -6,21 +6,25 @@ titleSlug: ke-li
 author: 嚴粲
 authorPinyin: yan2 can4
 authorSlug: yan-can
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客裏何知度歲華，春風香却一番花。
-- 山行轉處聞雞犬，楊柳陰陰賣酒家。
+- 客裏還來此，寒燈耿獨吟。
+- 一官江國夢，十載草堂心。
+- 木落秋聲小，蛩孤夜思深。
+- 驅馳空自許，冉冉鬢霜侵。
 
 ## 拼音
 
-- ke4 li3 he2 zhi1 du4 sui4 hua2 ， chun1 feng1 xiang1 que4 yi4 fan1 hua1 。
-- shan1 xing2 zhuan3 chu3 wen2 ji1 quan3 ， yang2 liu3 yin1 yin1 mai4 jiu3 jia1 。
+- ke4 li3 huan2 lai2 ci3 ， han2 deng1 geng3 du2 yin2 。
+- yi4 guan1 jiang1 guo2 meng4 ， shi2 zai4 cao3 tang2 xin1 。
+- mu4 luo4 qiu1 sheng1 xiao3 ， qiong2 gu1 ye4 si1 shen1 。
+- qu1 chi2 kong1 zi4 xu1 ， ran3 ran3 bin4 shuang1 qin1 。
 
 ## 注释
 

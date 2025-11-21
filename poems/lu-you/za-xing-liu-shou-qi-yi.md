@@ -6,21 +6,25 @@ titleSlug: za-xing-liu-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 秦漢區區了目前，周家風化遂無傳。
-- 君看八百年基業，盡在東山七月篇。
+- 散步持書卷，閑眠枕藥囊。
+- 馴麞隨几杖，癡蝶入衣裳。
+- 病起年光速，身閑日影長。
+- 爲憐紅樹好，久立向西廂。
 
 ## 拼音
 
-- qin2 han4 qu1 qu1 le0 mu4 qian2 ， zhou1 jia1 feng1 hua4 sui4 wu2 chuan2 。
-- jun1 kan4 ba1 bai3 nian2 ji1 ye4 ， jin4 zai4 dong1 shan1 qi1 yue4 pian1 。
+- san4 bu4 chi2 shu1 juan4 ， xian2 mian2 zhen3 yao4 nang2 。
+- xun4 zhang1 sui2 ji3 zhang4 ， chi1 die2 ru4 yi1 shang0 。
+- bing4 qi3 nian2 guang1 su4 ， shen1 xian2 ri4 ying3 chang2 。
+- wei2 lian2 hong2 shu4 hao3 ， jiu3 li4 xiang4 xi1 xiang1 。
 
 ## 注释
 

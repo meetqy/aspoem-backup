@@ -6,10 +6,10 @@ titleSlug: guo-dong-xiao-jun-ci
 author: 杜醇
 authorPinyin: du4 chun2
 authorSlug: du-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: shi-huai-shen-song-gu-san-shi-shou-qi-san
-title: 頌古三十首  其三
-titlePinyin: song4 gu3 san1 shi2 shou3     qi2 san1
+title: 頌古三十首  其三○
+titlePinyin: song4 gu3 san1 shi2 shou3     qi2 san1 ○
 titleSlug: song-gu-san-shi-shou-qi-san
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 移身換步老天衣，不惜眉毛月箇知。
-- 今日若明當日事，江南日暖鷓鴣啼。
+- 髑髏裏眼見猶在，枯木中龍聲更狂。
+- 打破虛空光境盡，箇中別有好商量。
 
 ## 拼音
 
-- yi2 shen1 huan4 bu4 lao3 tian1 yi1 ， bu4 xi1 mei2 mao0 yue4 ge4 zhi1 。
-- jin1 ri4 ruo4 ming2 dang1 ri4 shi4 ， jiang1 nan2 ri4 nuan3 zhe4 gu1 ti2 。
+- du2 lou2 li3 yan3 jian4 you2 zai4 ， ku1 mu4 zhong1 long2 sheng1 geng4 kuang2 。
+- da3 po4 xu1 kong1 guang1 jing4 jin4 ， ge4 zhong1 bie2 you3 hao3 shang1 liang0 。
 
 ## 注释
 

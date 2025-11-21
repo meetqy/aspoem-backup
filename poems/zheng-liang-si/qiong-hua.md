@@ -6,10 +6,10 @@ titleSlug: qiong-hua
 author: 鄭良嗣
 authorPinyin: zheng4 liang2 si4
 authorSlug: zheng-liang-si
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

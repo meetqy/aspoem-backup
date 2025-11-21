@@ -9,22 +9,18 @@ authorSlug: li-jia-you
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 水田飛白鷺，夏木囀黃鸝。
-- 白馬撼金珂，紛紛侍從多。
-- 身居驃騎幕，家住滹沱河。
-- 溪北映初星。
+- 巴峽猿聲催客淚，銅梁山翠入江樓。
+- 千峰鳥路含梅雨，五月蟬聲送麥秋。
 
 ## 拼音
 
-- shui3 tian2 fei1 bai2 lu4 ， xia4 mu4 zhuan4 huang2 li2 。
-- bai2 ma3 han4 jin1 ke1 ， fen1 fen1 shi4 cong2 duo1 。
-- shen1 ju1 piao4 qi2 mu4 ， jia1 zhu4 hu1 tuo2 he2 。
-- xi1 bei3 ying4 chu1 xing1 。
+- ba1 xia2 yuan2 sheng1 cui1 ke4 lei4 ， tong2 liang2 shan1 cui4 ru4 jiang1 lou2 。
+- qian1 feng1 niao3 lu4 han2 mei2 yu3 ， wu3 yue4 chan2 sheng1 song4 mai4 qiu1 。
 
 ## 注释
 

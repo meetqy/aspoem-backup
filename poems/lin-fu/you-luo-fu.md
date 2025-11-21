@@ -6,10 +6,10 @@ titleSlug: you-luo-fu
 author: 林俛
 authorPinyin: lin2 fu3
 authorSlug: lin-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

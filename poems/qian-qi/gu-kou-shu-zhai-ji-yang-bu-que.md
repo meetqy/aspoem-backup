@@ -6,10 +6,10 @@ titleSlug: gu-kou-shu-zhai-ji-yang-bu-que
 author: 錢起
 authorPinyin: qian2 qi3
 authorSlug: qian-qi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiu-ri-shan
 author: 趙崇源
 authorPinyin: zhao4 chong2 yuan2
 authorSlug: zhao-chong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: tai-chang-le-zhang-san-shi-shou-ying-zu-zou-feng-an-zhi-qu
 author: 楊億
 authorPinyin: yang2 yi4
 authorSlug: yang-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 麗碑割牲，以炰以烹。
-- 博碩肥腯，薦羞神明。
-- 祖考來格，享于克誠。
-- 如聞謦欬，式燕以寧。
+- 有牲斯純，有爼斯陳。
+- 柔嘉登薦，昭事惟寅。
 
 ## 拼音
 
-- li2 bei1 ge1 sheng1 ， yi3 pao2 yi3 peng1 。
-- bo2 shuo4 fei2 tu2 ， jian4 xiu1 shen2 ming2 。
-- zu3 kao3 lai2 ge2 ， xiang3 yu2 ke4 cheng2 。
-- ru2 wen2 qing3 kai4 ， shi4 yan4 yi3 ning2 。
+- you3 sheng1 si1 chun2 ， you3 zu3 si1 chen2 。
+- rou2 jia1 deng1 jian4 ， zhao1 shi4 wei2 yin2 。
 
 ## 注释
 

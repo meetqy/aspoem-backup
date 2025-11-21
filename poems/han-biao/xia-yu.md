@@ -6,27 +6,25 @@ titleSlug: xia-yu
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 已忻五月凉，連得六月雨。
-- 泉石養芝朮，甽澮長禾黍。
-- 病雖未能飲，起亦尚可句。
-- 凌晨百鳥啼，靜夜百蟲語。
-- 寺外鐘磬音，樵歌自來去。
+- 轉輸三伏雨，探借九秋風。
+- 沾灑蓮猶碧，飄摇葉未紅。
+- 荒凉甘退縮，清潤擬從容。
+- 在野農人喜，仍年禾黍豐。
 
 ## 拼音
 
-- yi3 xin1 wu3 yue4 liang2 ， lian2 de2 liu4 yue4 yu3 。
-- quan2 shi2 yang3 zhi1 zhu2 ， zhen4 kuai4 chang2 he2 shu3 。
-- bing4 sui1 wei4 neng2 yin3 ， qi3 yi4 shang4 ke3 ju4 。
-- ling2 chen2 bai3 niao3 ti2 ， jing4 ye4 bai3 chong2 yu3 。
-- si4 wai4 zhong1 qing4 yin1 ， qiao2 ge1 zi4 lai2 qu4 。
+- zhuan3 shu1 san1 fu2 yu3 ， tan4 jie4 jiu3 qiu1 feng1 。
+- zhan1 sa3 lian2 you2 bi4 ， piao1 yao2 ye4 wei4 hong2 。
+- huang1 liang2 gan1 tui4 suo1 ， qing1 run4 ni3 cong2 rong2 。
+- zai4 ye3 nong2 ren2 xi3 ， reng2 nian2 he2 shu3 feng1 。
 
 ## 注释
 

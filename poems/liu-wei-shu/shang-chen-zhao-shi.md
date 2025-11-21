@@ -6,10 +6,10 @@ titleSlug: shang-chen-zhao-shi
 author: 劉煒叔
 authorPinyin: liu2 wei3 shu1
 authorSlug: liu-wei-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

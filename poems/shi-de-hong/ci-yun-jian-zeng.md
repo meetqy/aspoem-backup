@@ -6,41 +6,45 @@ titleSlug: ci-yun-jian-zeng
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 樓鐘尚殷牀，密室僧定後。
-- 窗風鳴摵摵，黄落知榆柳。
-- 蜘蛛忽胎絲，燈花亦駢秀。
-- 人從城郭歸，村落聞夜嗾。
-- 讀詩映檐月，兩清俱頓有。
-- 斯人太白豪，醉裏詩千首。
-- 要宜萬丁带，肘合黄金斗。
-- 袖藏批誥手，却作僧扉扣。
-- 玉堂未放君，此物君家舊。
-- 飽永仍父職，人望亦天授。
-- 懸知夜直清，應念山中友。
-- 莫以腕脱後，嘲我飯山瘦。
+- 已甘老死長松下，賞音乃有如公者。
+- 謬當大匠許才能，名器從來豈容假。
+- 但欣一笑說江鄉，意氣平生要傾瀉。
+- 先生之詩自豪放，寒陋心知鄙東野。
+- 此篇粹然有精思，百鍛良金方出冶。
+- 汗顔縮手置袖間，對公誰敢言騷雅。
+- 自憐華髪住江村，地偏心遠過從寡。
+- 茆簷捫虱鳥聲寂，故絮懸鶉成磊苴。
+- 右耳已從前月聾，更欲忘言到瘖啞。
+- 多生垢習磨未盡，公詩又欲臨窗寫。
+- 何當看公醉岸幘，約束萬象閑揮灑。
+- 眼寒獨立梁宋郊，一尾追風睇犇馬。
+- 讀罷新詩發長歎，春色驚回阿練若。
+- 浪秃宣毫和不成，自笑才慳真注瓦。
 
 ## 拼音
 
-- lou2 zhong1 shang4 yin1 chuang2 ， mi4 shi4 seng1 ding4 hou4 。
-- chuang1 feng1 ming2 se4 se4 ， huang2 luo4 zhi1 yu2 liu3 。
-- zhi1 zhu1 hu1 tai1 si1 ， deng1 hua1 yi4 pian2 xiu4 。
-- ren2 cong2 cheng2 guo1 gui1 ， cun1 luo4 wen2 ye4 sou3 。
-- du2 shi1 ying4 yan2 yue4 ， liang3 qing1 ju4 dun4 you3 。
-- si1 ren2 tai4 bai2 hao2 ， zui4 li3 shi1 qian1 shou3 。
-- yao4 yi2 wan4 ding1 dai4 ， zhou3 he2 huang2 jin1 dou4 。
-- xiu4 cang2 pi1 gao4 shou3 ， que4 zuo4 seng1 fei1 kou4 。
-- yu4 tang2 wei4 fang4 jun1 ， ci3 wu4 jun1 jia1 jiu4 。
-- bao3 yong3 reng2 fu4 zhi2 ， ren2 wang4 yi4 tian1 shou4 。
-- xuan2 zhi1 ye4 zhi2 qing1 ， ying1 nian4 shan1 zhong1 you3 。
-- mo4 yi3 wan4 tuo1 hou4 ， chao2 wo3 fan4 shan1 shou4 。
+- yi3 gan1 lao3 si3 chang2 song1 xia4 ， shang3 yin1 nai3 you3 ru2 gong1 zhe3 。
+- miu4 dang1 da4 jiang4 xu1 cai2 neng2 ， ming2 qi4 cong2 lai2 qi3 rong2 jia3 。
+- dan4 xin1 yi2 xiao4 shuo1 jiang1 xiang1 ， yi4 qi4 ping2 sheng1 yao4 qing1 xie4 。
+- xian1 sheng0 zhi1 shi1 zi4 hao2 fang4 ， han2 lou4 xin1 zhi1 bi3 dong1 ye3 。
+- ci3 pian1 cui4 ran2 you3 jing1 si1 ， bai3 duan4 liang2 jin1 fang1 chu1 ye3 。
+- han4 yan2 suo1 shou3 zhi4 xiu4 jian4 ， dui4 gong1 shui2 gan3 yan2 sao1 ya3 。
+- zi4 lian2 hua2 fa4 zhu4 jiang1 cun1 ， di4 pian1 xin1 yuan3 guo4 cong2 gua3 。
+- mao2 yan2 men2 shi1 niao3 sheng1 ji4 ， gu4 xu4 xuan2 chun2 cheng2 lei3 ju1 。
+- you4 er3 yi3 cong2 qian2 yue4 long2 ， geng4 yu4 wang4 yan2 dao4 yin1 ya3 。
+- duo1 sheng1 gou4 xi2 mo2 wei4 jin4 ， gong1 shi1 you4 yu4 lin2 chuang1 xie3 。
+- he2 dang1 kan4 gong1 zui4 an4 ze2 ， yue1 shu4 wan4 xiang4 xian2 hui1 sa3 。
+- yan3 han2 du2 li4 liang2 song4 jiao1 ， yi4 wei3 zhui1 feng1 di4 ben1 ma3 。
+- du2 ba4 xin1 shi1 fa1 chang2 tan4 ， chun1 se4 jing1 hui2 a1 lian4 ruo4 。
+- lang4 tu1 xuan1 hao2 he2 bu4 cheng2 ， zi4 xiao4 cai2 qian1 zhen1 zhu4 wa3 。
 
 ## 注释
 

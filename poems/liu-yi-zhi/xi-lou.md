@@ -6,10 +6,10 @@ titleSlug: xi-lou
 author: 劉翼之
 authorPinyin: liu2 yi4 zhi1
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

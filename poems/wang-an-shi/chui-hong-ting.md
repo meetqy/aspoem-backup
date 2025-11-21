@@ -6,45 +6,25 @@ titleSlug: chui-hong-ting
 author: 王安石
 authorPinyin: wang2 an1 shi2
 authorSlug: wang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 三江五湖口，地與天不隔。
-- 日月所蔽虧，東西渺然白。
-- 漫漫浸北斗，浩浩浮南極。
-- 誰投此虹蜺，欲濟兩間阨。
-- 中流雜蜃氣，欄楯相承翼。
-- 初疑神所爲，滅沒在頃刻。
-- 晨興坐其上，傲兀至中昃。
-- 猶憐變化功，不謂因人役。
-- 今君持酒漿，談笑顧賓客。
-- 頗誇九州物，壯麗此無敵。
-- 熒煌丹砂柱，璀璨黄金壁。
-- 中家不慮始，助我皆豪殖。
-- 喟予獨感此，剝爛有終極。
-- 改作不可無，還當采民力。
+- 坐覺塵襟一夕空，人間似得羽翰通。
+- 暮天窈窈山銜日，爽氣駸駸客御風。
+- 草木韵沉高下外，星河影落有無中。
+- 飄然更待乘桴伴，一到扶桑興未窮。
 
 ## 拼音
 
-- san1 jiang1 wu3 hu2 kou3 ， di4 yu3 tian1 bu4 ge2 。
-- ri4 yue4 suo3 bi4 kui1 ， dong1 xi1 miao3 ran2 bai2 。
-- man4 man4 jin4 bei3 dou3 ， hao4 hao4 fu2 nan2 ji2 。
-- shui2 tou2 ci3 hong2 ni2 ， yu4 ji4 liang3 jian4 e4 。
-- zhong1 liu2 za2 shen4 qi4 ， lan2 dun4 xiang1 cheng2 yi4 。
-- chu1 yi2 shen2 suo3 wei2 ， mie4 mei2 zai4 qing3 ke4 。
-- chen2 xing1 zuo4 qi2 shang4 ， ao4 wu4 zhi4 zhong1 ze4 。
-- you2 lian2 bian4 hua4 gong1 ， bu2 wei4 yin1 ren2 yi4 。
-- jin1 jun1 chi2 jiu3 jiang1 ， tan2 xiao4 gu4 bin1 ke4 。
-- po1 kua1 jiu3 zhou1 wu4 ， zhuang4 li2 ci3 wu2 di2 。
-- ying2 huang2 dan1 sha1 zhu4 ， cui3 can4 huang2 jin1 bi4 。
-- zhong1 jia1 bu2 lü4 shi3 ， zhu4 wo3 jie1 hao2 zhi2 。
-- kui4 yu3 du2 gan3 ci3 ， bao1 lan4 you3 zhong1 ji2 。
-- gai3 zuo4 bu4 ke3 wu2 ， huan2 dang1 cai3 min2 li4 。
+- zuo4 jue2 chen2 jin1 yi4 xi1 kong1 ， ren2 jian4 si4 de2 yu3 han4 tong1 。
+- mu4 tian1 yao3 yao3 shan1 xian2 ri4 ， shuang3 qi4 qin1 qin1 ke4 yu4 feng1 。
+- cao3 mu4 yun4 chen2 gao1 xia4 wai4 ， xing1 he2 ying3 luo4 you3 wu2 zhong1 。
+- piao1 ran2 geng4 dai4 cheng2 fu2 ban4 ， yi2 dao4 fu2 sang1 xing1 wei4 qiong2 。
 
 ## 注释
 

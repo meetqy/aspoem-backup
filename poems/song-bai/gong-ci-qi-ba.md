@@ -1,26 +1,26 @@
 ---
 id: song-bai-gong-ci-qi-ba
-title: 宮詞  其八
-titlePinyin: gong1 ci2     qi2 ba1
+title: 宮詞  其八○
+titlePinyin: gong1 ci2     qi2 ba1 ○
 titleSlug: gong-ci-qi-ba
 author: 宋白
 authorPinyin: song4 bai2
 authorSlug: song-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 掖庭宮女僅千人，有勅都教放出門。
-- 戀主頓忘幽憤意，促辭中使盡啼痕。
+- 繡衣宮女把宮門，不遣中人謁至尊。
+- 晚霽微行向何處，灞陵原接杏花村。
 
 ## 拼音
 
-- ye4 ting2 gong1 nü3 jin3 qian1 ren2 ， you3 chi4 dou1 jiao4 fang4 chu1 men2 。
-- lian4 zhu3 dun4 wang4 you1 fen4 yi4 ， cu4 ci2 zhong1 shi3 jin4 ti2 hen2 。
+- xiu4 yi1 gong1 nü3 ba3 gong1 men2 ， bu4 qian3 zhong1 ren2 ye4 zhi4 zun1 。
+- wan3 ji4 wei1 xing2 xiang4 he2 chu3 ， ba4 ling2 yuan2 jie1 xing4 hua1 cun1 。
 
 ## 注释
 

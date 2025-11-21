@@ -1,26 +1,26 @@
 ---
 id: lu-you-chu-xia-shi-shou-qi-yi
-title: 初夏十首  其一
-titlePinyin: chu1 xia4 shi2 shou3     qi2 yi1
+title: 初夏十首  其一○
+titlePinyin: chu1 xia4 shi2 shou3     qi2 yi1 ○
 titleSlug: chu-xia-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 紛紛紅紫已成塵，布穀聲中夏令新。
-- 夾路桑麻行不盡，始知身是太平人。
+- 老翁賣卜古城隅，兼寫宜蠶保麥符。
+- 日日得錢惟買酒，不愁醉倒有兒扶。
 
 ## 拼音
 
-- fen1 fen1 hong2 zi3 yi3 cheng2 chen2 ， bu4 gu3 sheng1 zhong1 xia4 ling4 xin1 。
-- jia1 lu4 sang1 ma2 xing2 bu2 jin4 ， shi3 zhi1 shen1 shi4 tai4 ping2 ren2 。
+- lao3 weng1 mai4 bu3 gu3 cheng2 yu2 ， jian1 xie3 yi2 can2 bao3 mai4 fu2 。
+- ri4 ri4 de2 qian2 wei2 mai3 jiu3 ， bu4 chou2 zui4 dao3 you3 er2 fu2 。
 
 ## 注释
 

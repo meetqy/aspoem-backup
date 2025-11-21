@@ -9,24 +9,18 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 碧浪金波三五初，秋風計會似空虛。
-- （同前書卷上《十五夜》）（〖1〗川口久雄校注云：「私注作『《月影滿秋池詩》發句，菅淳茂』。
-- 《文粹》八作『《八月十五夜侍亭子院同賦月影滿秋池應太上法皇製》，菅淳茂』。
-- …… 底本注作者『白』，似誤。
-- 」）。
+- 長生不似無生理，休向青山學煉丹。
+- （《唐詩紀事》卷三八引《詩人主客圖》）。
 
 ## 拼音
 
-- bi4 lang4 jin1 bo1 san1 wu3 chu1 ， qiu1 feng1 ji4 hui4 si4 kong1 xu1 。
-- （ tong2 qian2 shu1 juan3 shang4 《 shi2 wu3 ye4 》）（〖1〗 chuan1 kou3 jiu3 xiong2 jiao4 zhu4 yun2 ：「 si1 zhu4 zuo4 『《 yue4 ying3 man3 qiu1 chi2 shi1 》 fa1 ju4 ， jian1 chun2 mao4 』。
-- 《 wen2 cui4 》 ba1 zuo4 『《 ba1 yue4 shi2 wu3 ye4 shi4 ting2 zi0 yuan4 tong2 fu4 yue4 ying3 man3 qiu1 chi2 ying1 tai4 shang4 fa3 huang2 zhi4 》， jian1 chun2 mao4 』。
-- ……  di3 ben3 zhu4 zuo4 zhe3 『 bai2 』， si4 wu4 。
-- 」）。
+- chang2 sheng1 bu2 si4 wu2 sheng1 li3 ， xiu1 xiang4 qing1 shan1 xue2 lian4 dan1 。
+- （《 tang2 shi1 ji4 shi4 》 juan4 san1 ba1 yin3 《 shi1 ren2 zhu3 ke4 tu2 》）。
 
 ## 注释
 

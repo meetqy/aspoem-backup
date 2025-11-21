@@ -6,10 +6,10 @@ titleSlug: zou-bi-xie-wang-qu-fei-qian-kui-jiang-ji
 author: 劉宰
 authorPinyin: liu2 zai3
 authorSlug: liu-zai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

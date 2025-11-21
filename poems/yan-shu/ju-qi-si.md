@@ -1,24 +1,24 @@
 ---
 id: yan-shu-ju-qi-si
-title: 句  其四
-titlePinyin: ju4     qi2 si4
+title: 句  其四○
+titlePinyin: ju4     qi2 si4 ○
 titleSlug: ju-qi-si
 author: 晏殊
 authorPinyin: yan4 shu1
 authorSlug: yan-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 騷客登山知有助，秦源雞犬更相聞。
+- 君王特軫推溝念，詔截危竿橫賜錢。
 
 ## 拼音
 
-- sao1 ke4 deng1 shan1 zhi1 you3 zhu4 ， qin2 yuan2 ji1 quan3 geng4 xiang1 wen2 。
+- jun1 wang2 te4 zhen3 tui1 gou1 nian4 ， zhao4 jie2 wei1 gan1 heng2 ci4 qian2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: lian-xi-shi-xing
 author: 魏嗣孫
 authorPinyin: wei4 si4 sun1
 authorSlug: wei-si-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

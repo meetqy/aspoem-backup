@@ -6,10 +6,10 @@ titleSlug: chun-ri-jiao-shan-guan-yi-he-ming
 author: 吳琚
 authorPinyin: wu2 ju1
 authorSlug: wu-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

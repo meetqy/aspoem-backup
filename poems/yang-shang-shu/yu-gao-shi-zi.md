@@ -6,10 +6,10 @@ titleSlug: yu-gao-shi-zi
 author: 楊尚書
 authorPinyin: yang2 shang4 shu1
 authorSlug: yang-shang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

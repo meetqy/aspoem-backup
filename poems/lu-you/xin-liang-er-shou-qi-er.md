@@ -6,25 +6,25 @@ titleSlug: xin-liang-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 菰首初離水，薑芽淺漬糟。
-- 粳香等炊玉，韭美勝炮羔。
-- 露下殘蕪溼，風生萬木號。
-- 從今更何事，痛飲讀離騷。
+- 月入楸梧徑，風生蘆荻林。
+- 脫巾凉入髮，臨水爽披襟。
+- 寒暑推移久，江湖感慨深。
+- 功名雖已矣，猶得寓孤吟。
 
 ## 拼音
 
-- gu1 shou3 chu1 li2 shui3 ， jiang1 ya2 qian3 zi4 zao1 。
-- jing1 xiang1 deng3 chui1 yu4 ， jiu3 mei3 sheng4 pao4 gao1 。
-- lu4 xia4 can2 wu2 shi1 ， feng1 sheng1 wan4 mu4 hao4 。
-- cong2 jin1 geng4 he2 shi4 ， tong4 yin3 du2 li2 sao1 。
+- yue4 ru4 qiu1 wu2 jing4 ， feng1 sheng1 lu2 di2 lin2 。
+- tuo1 jin1 liang2 ru4 fa4 ， lin2 shui3 shuang3 pi1 jin1 。
+- han2 shu3 tui1 yi2 jiu3 ， jiang1 hu2 gan3 kai3 shen1 。
+- gong1 ming2 sui1 yi3 yi3 ， you2 de2 yu4 gu1 yin2 。
 
 ## 注释
 

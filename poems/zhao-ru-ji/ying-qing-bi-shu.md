@@ -6,10 +6,10 @@ titleSlug: ying-qing-bi-shu
 author: 趙汝績
 authorPinyin: zhao4 ru3 ji4
 authorSlug: zhao-ru-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

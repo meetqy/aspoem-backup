@@ -6,10 +6,10 @@ titleSlug: luo-yan-ting
 author: 張璪
 authorPinyin: zhang1 zao3
 authorSlug: zhang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

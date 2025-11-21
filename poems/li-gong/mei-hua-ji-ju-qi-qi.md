@@ -1,26 +1,26 @@
 ---
 id: li-gong-mei-hua-ji-ju-qi-qi
-title: 梅花集句  其七
-titlePinyin: mei2 hua1 ji2 ju4     qi2 qi1
+title: 梅花集句  其七○
+titlePinyin: mei2 hua1 ji2 ju4     qi2 qi1 ○
 titleSlug: mei-hua-ji-ju-qi-qi
 author: 李龏
 authorPinyin: li3 gong1
 authorSlug: li-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 本是離騷國裏人，更無人爲作招魂。
-- 誰家玉笛吹春怨，占斷孤山水月村。
+- 草爲床坐瓦爲杯，愛著幽香未擬回。
+- 醉到花殘呼馬去，姚黄魏紫莫相猜。
 
 ## 拼音
 
-- ben3 shi4 li2 sao1 guo2 li3 ren2 ， geng4 wu2 ren2 wei2 zuo4 zhao1 hun2 。
-- shui2 jia1 yu4 di2 chui1 chun1 yuan4 ， zhan4 duan4 gu1 shan1 shui3 yue4 cun1 。
+- cao3 wei2 chuang2 zuo4 wa3 wei2 bei1 ， ai4 zhu4 you1 xiang1 wei4 ni3 hui2 。
+- zui4 dao4 hua1 can2 hu1 ma3 qu4 ， yao2 huang2 wei4 zi3 mo4 xiang1 cai1 。
 
 ## 注释
 

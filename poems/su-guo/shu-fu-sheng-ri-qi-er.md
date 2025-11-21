@@ -6,49 +6,25 @@ titleSlug: shu-fu-sheng-ri-qi-er
 author: 蘇過
 authorPinyin: su1 guo4
 authorSlug: su-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溝瀆嗟尋常，固爲吞舟厄。
-- 風無九萬里，焉載垂天翼。
-- 老人臥箕潁，初非厭簪紱。
-- 時哉莫吾容，道大俗隘迫。
-- 虎兕歌曠野，鸞鳳棲枳棘。
-- 蒼生謾悵望，吾道何欣戚。
-- 卜筑殆將隱，門無翟公客。
-- 高蹤躡巢由，援手謝卨稷。
-- 我觀造物意，申甫爲時出。
-- 未應茲偉人，獨不裨衮職。
-- 功名世所趨，富貴亦過隙。
-- 豈知難老福，天以壽有德。
-- 亭亭南澗松，不羨棟梁索。
-- 方茲閱寒暑，寧欲顧匠石。
-- 世間出世間，此得無兩得。
-- 回首承明廬，摩挲看銅狄。
+- 山澤癯仙事渺茫，武陵之說亦荒唐。
+- 老聃及見東周晚，季子幾同魯史長。
+- 直以至仁符靜壽，固非吉卜予康強。
+- 漢庭已致商顔叟，寧似初平老牧羊。
 
 ## 拼音
 
-- gou1 du2 jie1 xun2 chang2 ， gu4 wei2 tun1 zhou1 e4 。
-- feng1 wu2 jiu3 wan4 li3 ， yan1 zai4 chui2 tian1 yi4 。
-- lao3 ren2 wo4 ji1 ying3 ， chu1 fei1 yan4 zan1 fu2 。
-- shi2 zai1 mo4 wu2 rong2 ， dao4 da4 su2 ai4 po4 。
-- hu3 si4 ge1 kuang4 ye3 ， luan2 feng4 qi1 zhi3 ji2 。
-- cang1 sheng1 man2 chang4 wang4 ， wu2 dao4 he2 xin1 qi1 。
-- bu3 zhu4 dai4 jiang1 yin3 ， men2 wu2 zhai2 gong1 ke4 。
-- gao1 zong1 nie4 chao2 you2 ， yuan2 shou3 xie4 xie4 ji4 。
-- wo3 guan1 zao4 wu4 yi4 ， shen1 fu3 wei2 shi2 chu1 。
-- wei4 ying1 zi1 wei3 ren2 ， du2 bu2 bi4 gun3 zhi2 。
-- gong1 ming2 shi4 suo3 qu1 ， fu4 gui4 yi4 guo4 xi4 。
-- qi3 zhi1 nan2 lao3 fu2 ， tian1 yi3 shou4 you3 de2 。
-- ting2 ting2 nan2 jian4 song1 ， bu2 xian4 dong4 liang2 suo3 。
-- fang1 zi1 yue4 han2 shu3 ， ning2 yu4 gu4 jiang4 shi2 。
-- shi4 jian4 chu1 shi4 jian4 ， ci3 de2 wu2 liang3 de2 。
-- hui2 shou3 cheng2 ming2 lu2 ， mo2 suo1 kan4 tong2 di2 。
+- shan1 ze2 qu2 xian1 shi4 miao3 mang2 ， wu3 ling2 zhi1 shuo1 yi4 huang1 tang2 。
+- lao3 dan1 ji2 jian4 dong1 zhou1 wan3 ， ji4 zi0 ji1 tong2 lu3 shi3 chang2 。
+- zhi2 yi3 zhi4 ren2 fu2 jing4 shou4 ， gu4 fei1 ji2 bu3 yu3 kang1 qiang2 。
+- han4 ting2 yi3 zhi4 shang1 yan2 sou3 ， ning2 si4 chu1 ping2 lao3 mu4 yang2 。
 
 ## 注释
 

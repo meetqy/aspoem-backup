@@ -6,10 +6,10 @@ titleSlug: zhui-he-dong-po-ci-cai-lang-zhong-you-hu-yun
 author: 于石
 authorPinyin: yu2 shi2
 authorSlug: yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

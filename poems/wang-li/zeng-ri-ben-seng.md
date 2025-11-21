@@ -6,10 +6,10 @@ titleSlug: zeng-ri-ben-seng
 author: 王礪
 authorPinyin: wang2 li4
 authorSlug: wang-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

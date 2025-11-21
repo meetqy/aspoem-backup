@@ -6,10 +6,10 @@ titleSlug: ti-hua-shan-shui-shan
 author: 明不虧
 authorPinyin: ming2 bu4 kui1
 authorSlug: ming-bu-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: jiu-li-hu
 author: 吳有定
 authorPinyin: wu2 you3 ding4
 authorSlug: wu-you-ding
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

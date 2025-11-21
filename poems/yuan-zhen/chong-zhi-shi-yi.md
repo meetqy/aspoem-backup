@@ -9,22 +9,22 @@ authorSlug: yuan-zhen
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 巴蛇千種毒，其最鼻褰蛇。
-- 掉舌翻紅燄，盤身蹙白花。
-- 噴人豎毛髮，飲浪沸泥沙。
-- 欲學叔敖瘞，其如多似麻。
+- 陰深山有瘴，溼墊草多蝱。
+- 衆噬錐刀毒，羣飛風雨聲。
+- 汗粘瘡痏痛，日曝苦辛行。
+- 飽爾蛆殘腹，安知天地情。
 
 ## 拼音
 
-- ba1 she2 qian1 zhong3 du2 ， qi2 zui4 bi2 qian1 she2 。
-- diao4 she2 fan1 hong2 yan4 ， pan2 shen1 cu4 bai2 hua1 。
-- pen1 ren2 shu4 mao2 fa4 ， yin3 lang4 fei4 ni2 sha1 。
-- yu4 xue2 shu1 ao2 yi4 ， qi2 ru2 duo1 si4 ma2 。
+- yin1 shen1 shan1 you3 zhang4 ， shi1 dian4 cao3 duo1 meng2 。
+- zhong4 shi4 zhui1 dao1 du2 ， qun2 fei1 feng1 yu3 sheng1 。
+- han4 nian2 chuang1 wei3 tong4 ， ri4 pu4 ku3 xin1 xing2 。
+- bao3 er3 qu1 can2 fu4 ， an1 zhi1 tian1 di4 qing2 。
 
 ## 注释
 

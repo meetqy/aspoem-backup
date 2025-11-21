@@ -6,10 +6,10 @@ titleSlug: ling-jian-yuan
 author: 陳郊
 authorPinyin: chen2 jiao1
 authorSlug: chen-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

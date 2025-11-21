@@ -6,21 +6,21 @@ titleSlug: ji
 author: 釋谷泉
 authorPinyin: shi4 gu3 quan2
 authorSlug: shi-gu-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 今期甚好雪，紛紛如秋月。
-- 文殊不出頭，普賢呈醜拙。
+- 今朝六月六，谷泉被氣𡎺。
+- 不是上天堂，便是入地獄。
 
 ## 拼音
 
-- jin1 qi1 shen4 hao3 xue3 ， fen1 fen1 ru2 qiu1 yue4 。
-- wen2 shu1 bu4 chu1 tou2 ， pu3 xian2 cheng2 chou3 zhuo1 。
+- jin1 zhao1 liu4 yue4 liu4 ， gu3 quan2 bei4 qi4 𡎺。
+- bu2 shi4 shang4 tian1 tang2 ， bian4 shi4 ru4 di4 yu4 。
 
 ## 注释
 

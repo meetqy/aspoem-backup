@@ -6,21 +6,25 @@ titleSlug: chun-xing
 author: 洪咨夔
 authorPinyin: hong2 zi1 kui2
 authorSlug: hong-zi-kui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 野荼䕷發牡丹開，蔌蔌楊花墮酒杯。
-- 過盡韶華纔一出，祗應喚作探春來。
+- 花信雨擔閣，睡魔茶破除。
+- 朗吟摇矮屋，徐步逸輕車。
+- 鳥語向人密，交情隨事疎。
+- 紛紛何足問，天地一蘧廬。
 
 ## 拼音
 
-- ye3 tu2 䕷 fa1 mu3 dan1 kai1 ， su4 su4 yang2 hua1 duo4 jiu3 bei1 。
-- guo4 jin4 shao2 hua2 cai2 yi4 chu1 ， zhi1 ying1 huan4 zuo4 tan4 chun1 lai2 。
+- hua1 xin4 yu3 dan1 ge2 ， shui4 mo2 cha2 po4 chu2 。
+- lang3 yin2 yao2 ai3 wu1 ， xu2 bu4 yi4 qing1 ju1 。
+- niao3 yu3 xiang4 ren2 mi4 ， jiao1 qing0 sui2 shi4 shu1 。
+- fen1 fen1 he2 zu2 wen4 ， tian1 di4 yi4 qu2 lu2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: teng-zhou-dao-shang
 author: 李孟博
 authorPinyin: li3 meng4 bo2
 authorSlug: li-meng-bo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

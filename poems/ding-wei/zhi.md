@@ -1,30 +1,30 @@
 ---
 id: ding-wei-zhi
-title: 紙
-titlePinyin: zhi3
+title: 雉
+titlePinyin: zhi4
 titleSlug: zhi
 author: 丁謂
 authorPinyin: ding1 wei4
 authorSlug: ding-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 妙製剡溪人，多名錦水春。
-- 卷疑方絮重，開覺露桃新。
-- 左氏三都貴，張芝徑寸珍。
-- 謝公如就乞，九萬一纖塵。
+- 雉操揚琴奏，名翬拂扇塵。
+- 其文伊洛地，厥貢越裳人。
+- 幾爲郎官集，還因今邑馴。
+- 山梁時飲啄，媒翳莫朝親。
 
 ## 拼音
 
-- miao4 zhi4 shan4 xi1 ren2 ， duo1 ming2 jin3 shui3 chun1 。
-- juan4 yi2 fang1 xu4 zhong4 ， kai1 jue2 lu4 tao2 xin1 。
-- zuo3 shi4 san1 dou1 gui4 ， zhang1 zhi1 jing4 cun4 zhen1 。
-- xie4 gong1 ru2 jiu4 qi3 ， jiu3 wan4 yi4 xian1 chen2 。
+- zhi4 cao1 yang2 qin2 zou4 ， ming2 hui1 fu2 shan4 chen2 。
+- qi2 wen2 yi1 luo4 di4 ， jue2 gong4 yue4 shang0 ren2 。
+- ji1 wei2 lang2 guan1 ji2 ， huan2 yin1 jin1 yi4 xun4 。
+- shan1 liang2 shi2 yin3 zhuo2 ， mei2 yi4 mo4 chao2 qin1 。
 
 ## 注释
 

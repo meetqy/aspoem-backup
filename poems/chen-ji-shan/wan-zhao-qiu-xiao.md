@@ -6,10 +6,10 @@ titleSlug: wan-zhao-qiu-xiao
 author: 陳繼善
 authorPinyin: chen2 ji4 shan4
 authorSlug: chen-ji-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,29 +6,25 @@ titleSlug: su-xing
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 客中睡眠少，常以雞鳴興。
-- 新炭熾宿火，膏油續殘燈。
-- 焚香倚蒲團，外靜中已凝。
-- 榮辱兩不到，淡如秋水澄。
-- 出定窗已白，炯炯寒日昇。
-- 厨人作芋糝，供此在家僧。
+- 夙興短蓬髮，幽步豁煩襟。
+- 翠碧停闌角，黧黄語柳陰。
+- 書殘頻補緝，琴廢細追尋。
+- 未是全無事，猶堪養道心。
 
 ## 拼音
 
-- ke4 zhong1 shui4 mian2 shao3 ， chang2 yi3 ji1 ming2 xing1 。
-- xin1 tan4 chi4 su4 huo3 ， gao4 you2 xu4 can2 deng1 。
-- fen2 xiang1 yi3 pu2 tuan2 ， wai4 jing4 zhong1 yi3 ning2 。
-- rong2 ru3 liang3 bu2 dao4 ， dan4 ru2 qiu1 shui3 cheng2 。
-- chu1 ding4 chuang1 yi3 bai2 ， jiong3 jiong3 han2 ri4 sheng1 。
-- chu2 ren2 zuo4 yu4 san3 ， gong4 ci3 zai4 jia1 seng1 。
+- su4 xing1 duan3 peng2 fa4 ， you1 bu4 huo1 fan2 jin1 。
+- cui4 bi4 ting2 lan2 jiao3 ， li2 huang2 yu3 liu3 yin1 。
+- shu1 can2 bin1 bu3 ji2 ， qin2 fei4 xi4 zhui1 xun2 。
+- wei4 shi4 quan2 wu2 shi4 ， you2 kan1 yang3 dao4 xin1 。
 
 ## 注释
 

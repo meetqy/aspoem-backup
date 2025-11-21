@@ -6,25 +6,25 @@ titleSlug: qiu-xi-shi-chao-ran
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夜色已可掬，林光翻欲流。
-- 一鈎窺隙月，數葉攪眠秋。
-- 清境扶歸夢，殘缸替客愁。
-- 搜詩時畫席，忽覺此生浮。
+- 殿閣知誰燒夜香，矮窗燈火試新凉。
+- 草蟲對語僧臨砌，露葉翻光月轉廊。
+- 補綴高風三襪綫，破除清夢一匡牀。
+- 與君遊徧人間世，折脚鐺中滋味長。
 
 ## 拼音
 
-- ye4 se4 yi3 ke3 ju1 ， lin2 guang1 fan1 yu4 liu2 。
-- yi4 gou1 kui1 xi4 yue4 ， shu4 ye4 jiao3 mian2 qiu1 。
-- qing1 jing4 fu2 gui1 meng4 ， can2 gang1 ti4 ke4 chou2 。
-- sou1 shi1 shi2 hua4 xi2 ， hu1 jue2 ci3 sheng1 fu2 。
+- dian4 ge2 zhi1 shui2 shao1 ye4 xiang1 ， ai3 chuang1 deng1 huo3 shi4 xin1 liang2 。
+- cao3 chong2 dui4 yu3 seng1 lin2 qi4 ， lu4 ye4 fan1 guang1 yue4 zhuan3 lang2 。
+- bu3 zhui4 gao1 feng1 san1 wa4 xian4 ， po4 chu2 qing1 meng4 yi4 kuang1 chuang2 。
+- yu3 jun1 you2 bian4 ren2 jian4 shi4 ， zhe2 jiao3 dang1 zhong1 zi1 wei4 chang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: mu-xian-zhi-ti-xing-lai-hang-na-xu-qing-yu-qi-shi-ci-yun-er-shou-qi-y
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

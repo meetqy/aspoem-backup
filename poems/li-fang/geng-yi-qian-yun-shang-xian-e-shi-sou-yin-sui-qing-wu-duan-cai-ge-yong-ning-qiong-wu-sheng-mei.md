@@ -6,9 +6,9 @@ titleSlug: geng-yi-qian-yun-shang-xian-e-shi-sou-yin-sui-qing-wu-duan-cai-ge-yon
 author: 李昉
 authorPinyin: li3 fang3
 authorSlug: li-fang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

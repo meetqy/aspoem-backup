@@ -1,24 +1,26 @@
 ---
 id: chen-hu-ju-qi-yi-ba
-title: 句  其一八
-titlePinyin: ju4     qi2 yi1 ba1
+title: 句  其一○八
+titlePinyin: ju4     qi2 yi1 ○ ba1
 titleSlug: ju-qi-yi-ba
 author: 諶祜
 authorPinyin: chen2 hu4
 authorSlug: chen-hu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 造物未嘗私化外，英雄何事老隆中。
+- 屈原離騷芳草徧，召南治世梅先見。
+- 皎如佩玉上清來，不敢班渠國風變。
 
 ## 拼音
 
-- zao4 wu4 wei4 chang2 si1 hua4 wai4 ， ying1 xiong2 he2 shi4 lao3 long2 zhong1 。
+- qu1 yuan2 li2 sao1 fang1 cao3 bian4 ， zhao4 nan2 zhi4 shi4 mei2 xian1 jian4 。
+- jiao3 ru2 pei4 yu4 shang4 qing1 lai2 ， bu4 gan3 ban1 qu2 guo2 feng1 bian4 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 郭汝賢
 authorPinyin: guo1 ru3 xian2
 authorSlug: guo-ru-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

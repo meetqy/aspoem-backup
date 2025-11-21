@@ -6,10 +6,10 @@ titleSlug: you-ren-yi-xiu-lian-you-fang-huo-chuan-qi-yi-ci-si-zhe-wei-fu-shi-shi
 author: 薛嵎
 authorPinyin: xue1 yu2
 authorSlug: xue-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

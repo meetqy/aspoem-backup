@@ -6,10 +6,10 @@ titleSlug: dao-jian-shi-de-fu-de-cheng
 author: 陸九齡
 authorPinyin: lu4 jiu3 ling2
 authorSlug: lu-jiu-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

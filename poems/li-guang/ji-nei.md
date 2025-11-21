@@ -6,25 +6,25 @@ titleSlug: ji-nei
 author: 李光
 authorPinyin: li3 guang1
 authorSlug: li-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 學道參禪久不成，惟將麴糵破愁城。
-- 三杯徑醉客已去，一枕未回天欲明。
-- 長羡籬邊元亮醉，誰憐澤畔屈原醒。
-- 甕頭濁酒須多釀，凖擬歸來細細傾。
+- 裊裊秋風度泬寥，卧聞微雨打芭蕉。
+- 黄花籬落重陽近，白髪江津客路遙。
+- 家信隔年新恨過，箧衣經暑舊香消。
+- 小槽正想珍珠滴，海舶來時寄一瓢。
 
 ## 拼音
 
-- xue2 dao4 can1 shan4 jiu3 bu4 cheng2 ， wei2 jiang1 qu1 nie4 po4 chou2 cheng2 。
-- san1 bei1 jing4 zui4 ke4 yi3 qu4 ， yi4 zhen3 wei4 hui2 tian1 yu4 ming2 。
-- chang2 xian4 li2 bian1 yuan2 liang4 zui4 ， shui2 lian2 ze2 pan4 qu1 yuan2 xing3 。
-- weng4 tou2 zhuo2 jiu3 xu1 duo1 niang4 ， zhun3 ni3 gui1 lai2 xi4 xi4 qing1 。
+- niao3 niao3 qiu1 feng1 du4 jue2 liao2 ， wo4 wen2 wei1 yu3 da3 ba1 jiao1 。
+- huang2 hua1 li2 luo4 zhong4 yang2 jin4 ， bai2 fa4 jiang1 jin1 ke4 lu4 yao2 。
+- jia1 xin4 ge2 nian2 xin1 hen4 guo4 ， qie4 yi1 jing1 shu3 jiu4 xiang1 xiao1 。
+- xiao3 cao2 zheng4 xiang3 zhen1 zhu1 di1 ， hai3 bo2 lai2 shi2 ji4 yi4 piao2 。
 
 ## 注释
 

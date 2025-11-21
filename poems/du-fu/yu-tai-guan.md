@@ -9,22 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 中天積翠玉臺遙，上帝高居絳節朝。
-- 遂有馮夷來擊鼓，始知嬴女善吹簫。
-- 江光隱見黿鼉窟，石勢參差烏鵲橋。
-- 更肯紅顏生羽翼，便應黃髮老漁樵。
+- 浩劫因王造，平臺訪古遊。
+- 綵雲蕭史駐，文字魯恭留。
+- 宮闕通羣帝，乾坤到十洲。
+- 人傳有笙鶴，時過此山頭。
 
 ## 拼音
 
-- zhong1 tian1 ji1 cui4 yu4 tai2 yao2 ， shang4 di4 gao1 ju1 jiang4 jie2 chao2 。
-- sui4 you3 feng2 yi2 lai2 ji1 gu3 ， shi3 zhi1 ying2 nü3 shan4 chui1 xiao1 。
-- jiang1 guang1 yin3 jian4 yuan2 tuo2 ku1 ， shi2 shi4 can1 cha4 wu1 que4 qiao2 。
-- geng4 ken3 hong2 yan2 sheng1 yu3 yi4 ， bian4 ying1 huang2 fa4 lao3 yu2 qiao2 。
+- hao4 jie2 yin1 wang2 zao4 ， ping2 tai2 fang3 gu3 you2 。
+- cai3 yun2 xiao1 shi3 zhu4 ， wen2 zi4 lu3 gong1 liu2 。
+- gong1 que4 tong1 qun2 di4 ， qian2 kun1 dao4 shi2 zhou1 。
+- ren2 chuan2 you3 sheng1 he4 ， shi2 guo4 ci3 shan1 tou2 。
 
 ## 注释
 

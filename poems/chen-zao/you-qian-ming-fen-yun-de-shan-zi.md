@@ -6,33 +6,25 @@ titleSlug: you-qian-ming-fen-yun-de-shan-zi
 author: 陳造
 authorPinyin: chen2 zao4
 authorSlug: chen-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 竹風清如水，浣我塵埃顔。
-- 老禪貧無錐，小破蔬筍慳。
-- 短轅下鴟夷，共此半日閑。
-- 住筆訊鶑燕，把盃屬江山。
-- 老夫病止飲，苦語澀莫刪。
-- 揆予郊島寒，著君季孟間。
-- 江柳未遽折，園花且同攀。
-- 後夜短亭夢，漫寄東風還。
+- 一從雋軌得追攀，日日江皋倒載還。
+- 貪向諸公論友義，未容老子憶家山。
+- 酒邊鯨吸仍疇昔，筆底羊腸出險艱。
+- 莫便樽前話分袂，此心不與石俱頑。
 
 ## 拼音
 
-- zhu2 feng1 qing1 ru2 shui3 ， huan4 wo3 chen2 ai1 yan2 。
-- lao3 shan4 pin2 wu2 zhui1 ， xiao3 po4 shu1 sun3 qian1 。
-- duan3 yuan2 xia4 chi1 yi2 ， gong4 ci3 ban4 ri4 xian2 。
-- zhu4 bi3 xun4 ying1 yan4 ， ba3 bei1 shu3 jiang1 shan1 。
-- lao3 fu1 bing4 zhi3 yin3 ， ku3 yu3 se4 mo4 shan1 。
-- kui2 yu3 jiao1 dao3 han2 ， zhu4 jun1 ji4 meng4 jian4 。
-- jiang1 liu3 wei4 ju4 zhe2 ， yuan2 hua1 qie3 tong2 pan1 。
-- hou4 ye4 duan3 ting2 meng4 ， man4 ji4 dong1 feng1 huan2 。
+- yi4 cong2 jun4 gui3 de2 zhui1 pan1 ， ri4 ri4 jiang1 gao1 dao3 zai4 huan2 。
+- tan1 xiang4 zhu1 gong1 lun4 you3 yi4 ， wei4 rong2 lao3 zi3 yi4 jia1 shan1 。
+- jiu3 bian1 jing1 xi1 reng2 chou2 xi1 ， bi3 di3 yang2 chang2 chu1 xian3 jian1 。
+- mo4 bian4 zun1 qian2 hua4 fen1 mei4 ， ci3 xin1 bu4 yu3 shi2 ju4 wan2 。
 
 ## 注释
 

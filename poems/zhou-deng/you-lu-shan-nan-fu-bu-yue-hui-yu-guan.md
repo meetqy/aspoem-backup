@@ -6,10 +6,10 @@ titleSlug: you-lu-shan-nan-fu-bu-yue-hui-yu-guan
 author: 周登
 authorPinyin: zhou1 deng1
 authorSlug: zhou-deng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

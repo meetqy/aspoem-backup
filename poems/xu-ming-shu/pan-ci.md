@@ -6,10 +6,10 @@ titleSlug: pan-ci
 author: 徐明叔
 authorPinyin: xu2 ming2 shu1
 authorSlug: xu-ming-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ju
 author: 藍元威
 authorPinyin: lan2 yuan2 wei1
 authorSlug: lan-yuan-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

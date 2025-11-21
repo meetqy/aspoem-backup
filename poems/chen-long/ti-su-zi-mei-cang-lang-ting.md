@@ -6,10 +6,10 @@ titleSlug: ti-su-zi-mei-cang-lang-ting
 author: 陳瀧
 authorPinyin: chen2 long2
 authorSlug: chen-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

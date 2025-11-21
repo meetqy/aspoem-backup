@@ -9,22 +9,22 @@ authorSlug: qi-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 褰簾聽秋信，晚傍竹聲歸。
-- 多故堪傷骨，孤峯好拂衣。
-- 梧桐凋綠盡，菡萏墮紅稀。
-- 却恐吾形影，嫌心與口違。
+- 曉窗驚覺向秋風，萬里心凝淡蕩中。
+- 池影碎飜紅菡萏，井聲乾落綠梧桐。
+- 破除閑事渾歸道，銷耗勞生旋逐空。
+- 妖殺九原狐兔意，豈知丘隴是英雄。
 
 ## 拼音
 
-- qian1 lian2 ting1 qiu1 xin4 ， wan3 bang4 zhu2 sheng1 gui1 。
-- duo1 gu4 kan1 shang1 gu3 ， gu1 feng1 hao3 fu2 yi1 。
-- wu2 tong2 diao1 lü4 jin4 ， han4 dan4 duo4 hong2 xi1 。
-- que4 kong3 wu2 xing2 ying3 ， xian2 xin1 yu3 kou3 wei2 。
+- xiao3 chuang1 jing1 jue2 xiang4 qiu1 feng1 ， wan4 li3 xin1 ning2 dan4 dang4 zhong1 。
+- chi2 ying3 sui4 fan1 hong2 han4 dan4 ， jing3 sheng1 qian2 luo4 lü4 wu2 tong2 。
+- po4 chu2 xian2 shi4 hun2 gui1 dao4 ， xiao1 hao4 lao2 sheng1 xuan2 zhu2 kong1 。
+- yao1 sha1 jiu3 yuan2 hu2 tu4 yi4 ， qi3 zhi1 qiu1 long3 shi4 ying1 xiong2 。
 
 ## 注释
 

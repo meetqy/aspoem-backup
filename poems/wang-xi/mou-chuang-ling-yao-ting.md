@@ -6,10 +6,10 @@ titleSlug: mou-chuang-ling-yao-ting
 author: 汪熙
 authorPinyin: wang1 xi1
 authorSlug: wang-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

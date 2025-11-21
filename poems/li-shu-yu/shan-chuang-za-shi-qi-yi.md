@@ -6,21 +6,21 @@ titleSlug: shan-chuang-za-shi-qi-yi
 author: 李叔與
 authorPinyin: li3 shu1 yu3
 authorSlug: li-shu-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 學把鉏頭蒔小畦，牡丹不種種荼縻。
-- 花開贏得年年看，棘蔓猶堪補敗籬。
+- 柳花收絮麥收芒，安石榴開日漸長。
+- 窗下小儒無一事，自携新水活菖陽。
 
 ## 拼音
 
-- xue2 ba3 chu2 tou2 shi4 xiao3 qi2 ， mu3 dan1 bu4 zhong3 zhong3 tu2 mi2 。
-- hua1 kai1 ying2 de2 nian2 nian2 kan4 ， ji2 man4 you2 kan1 bu3 bai4 li2 。
+- liu3 hua1 shou1 xu4 mai4 shou1 mang2 ， an1 shi2 liu0 kai1 ri4 jian4 chang2 。
+- chuang1 xia4 xiao3 ru2 wu2 yi2 shi4 ， zi4 xie2 xin1 shui3 huo2 chang1 yang2 。
 
 ## 注释
 

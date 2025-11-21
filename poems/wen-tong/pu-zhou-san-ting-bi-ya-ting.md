@@ -1,14 +1,14 @@
 ---
 id: wen-tong-pu-zhou-san-ting-bi-ya-ting
-title: 普州三亭・碧崖亭
-titlePinyin: pu3 zhou1 san1 ting2・bi4 ya2 ting2
+title: 普州三亭 碧崖亭
+titlePinyin: pu3 zhou1 san1 ting2   bi4 ya2 ting2
 titleSlug: pu-zhou-san-ting-bi-ya-ting
 author: 文同
 authorPinyin: wen2 tong2
 authorSlug: wen-tong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

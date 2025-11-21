@@ -6,10 +6,10 @@ titleSlug: shi-cong
 author: 張仲武
 authorPinyin: zhang1 zhong4 wu3
 authorSlug: zhang-zhong-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

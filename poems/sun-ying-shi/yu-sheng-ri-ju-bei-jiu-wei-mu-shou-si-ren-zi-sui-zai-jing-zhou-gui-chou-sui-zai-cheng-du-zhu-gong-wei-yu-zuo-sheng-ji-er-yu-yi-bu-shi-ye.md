@@ -6,10 +6,10 @@ titleSlug: yu-sheng-ri-ju-bei-jiu-wei-mu-shou-si-ren-zi-sui-zai-jing-zhou-gui-ch
 author: 孫應時
 authorPinyin: sun1 ying1 shi2
 authorSlug: sun-ying-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

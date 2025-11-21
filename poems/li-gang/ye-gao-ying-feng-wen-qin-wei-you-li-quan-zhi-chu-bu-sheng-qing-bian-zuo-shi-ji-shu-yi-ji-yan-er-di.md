@@ -6,10 +6,10 @@ titleSlug: ye-gao-ying-feng-wen-qin-wei-you-li-quan-zhi-chu-bu-sheng-qing-bian-z
 author: 李綱
 authorPinyin: li3 gang1
 authorSlug: li-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

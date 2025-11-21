@@ -6,10 +6,10 @@ titleSlug: ke-you-shan-hua-zhe-qu-yu-suo-he-gui-qu-lai-ci-tu-zhi-cheng-zhou-reng
 author: 吳芾
 authorPinyin: wu2 fei4
 authorSlug: wu-fei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

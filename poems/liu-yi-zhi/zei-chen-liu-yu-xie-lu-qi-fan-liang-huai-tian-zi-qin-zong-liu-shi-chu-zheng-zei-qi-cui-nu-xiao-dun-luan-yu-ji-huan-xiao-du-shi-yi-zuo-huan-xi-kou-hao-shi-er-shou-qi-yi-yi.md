@@ -6,10 +6,10 @@ titleSlug: zei-chen-liu-yu-xie-lu-qi-fan-liang-huai-tian-zi-qin-zong-liu-shi-chu
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

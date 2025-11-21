@@ -6,25 +6,21 @@ titleSlug: zhou-zhai
 author: 喻良能
 authorPinyin: yu4 liang2 neng2
 authorSlug: yu-liang-neng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古栝提封接日畿，專城皓首有光輝。
-- 全家飽煖君恩重，屬邑豐登公事稀。
-- 一簇樓臺居洞府，四時風景對屏幃。
-- 多慚郎省無裨補，丐外猶能占翠微。
+- 勢壓江巒棟宇雄，使君如在廣寒宮。
+- 微之政以江山助，千首詩成咳唾中。
 
 ## 拼音
 
-- gu3 gua1 ti2 feng1 jie1 ri4 ji1 ， zhuan1 cheng2 hao4 shou3 you3 guang1 hui1 。
-- quan2 jia1 bao3 xuan1 jun1 en1 zhong4 ， shu3 yi4 feng1 deng1 gong1 shi4 xi1 。
-- yi2 cu4 lou2 tai2 ju1 dong4 fu3 ， si4 shi2 feng1 jing3 dui4 ping2 wei2 。
-- duo1 can2 lang2 sheng3 wu2 bi4 bu3 ， gai4 wai4 you2 neng2 zhan4 cui4 wei1 。
+- shi4 ya1 jiang1 luan2 dong4 yu3 xiong2 ， shi3 jun1 ru2 zai4 guang3 han2 gong1 。
+- wei1 zhi1 zheng4 yi3 jiang1 shan1 zhu4 ， qian1 shou3 shi1 cheng2 hai1 tuo4 zhong1 。
 
 ## 注释
 

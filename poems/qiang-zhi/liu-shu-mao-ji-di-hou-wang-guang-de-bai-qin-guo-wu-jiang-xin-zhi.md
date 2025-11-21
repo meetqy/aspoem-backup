@@ -6,10 +6,10 @@ titleSlug: liu-shu-mao-ji-di-hou-wang-guang-de-bai-qin-guo-wu-jiang-xin-zhi
 author: 强至
 authorPinyin: qiang2 zhi4
 authorSlug: qiang-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

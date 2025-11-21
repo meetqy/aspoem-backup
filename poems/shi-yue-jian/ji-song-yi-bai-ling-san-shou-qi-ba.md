@@ -1,28 +1,30 @@
 ---
 id: shi-yue-jian-ji-song-yi-bai-ling-san-shou-qi-ba
-title: 偈頌一百零三首  其八
-titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 ba1
+title: 偈頌一百零三首  其八○
+titlePinyin: ji4 song4 yi4 bai3 ling2 san1 shou3     qi2 ba1 ○
 titleSlug: ji-song-yi-bai-ling-san-shou-qi-ba
 author: 釋月磵
 authorPinyin: shi4 yue4 jian4
 authorSlug: shi-yue-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 即心即佛，狐狸戀窟。
-- 非心非佛，當機放出遼天鶻。
-- 馬大師等閑向虛空裏拋箇題目，經今五七百年，更無一人描寫得著。
+- 昨日雨，今日雨。
+- 漁父謳歌，老農歡舞。
+- 堪笑蒲許林中，鄧師伯把不定，却向豆子山前打瓦皷。
+- 熟不熟，但看五月廿六。
 
 ## 拼音
 
-- ji2 xin1 ji2 fo2 ， hu2 li0 lian4 ku1 。
-- fei1 xin1 fei1 fo2 ， dang1 ji1 fang4 chu1 liao2 tian1 gu3 。
-- ma3 da4 shi1 deng3 xian2 xiang4 xu1 kong1 li3 pao1 ge4 ti2 mu4 ， jing1 jin1 wu3 qi1 bai3 nian2 ， geng4 wu2 yi4 ren2 miao2 xie3 de2 zhu4 。
+- zuo2 ri4 yu3 ， jin1 ri4 yu3 。
+- yu2 fu4 ou1 ge1 ， lao3 nong2 huan1 wu3 。
+- kan1 xiao4 pu2 xu1 lin2 zhong1 ， deng4 shi1 bo2 ba3 bu2 ding4 ， que4 xiang4 dou4 zi0 shan1 qian2 da3 wa3 gu3 。
+- shu2 bu4 shu2 ， dan4 kan4 wu3 yue4 nian4 liu4 。
 
 ## 注释
 

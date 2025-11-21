@@ -1,26 +1,30 @@
 ---
 id: shi-ju-jian-ji-song-yi-bai-san-shi-san-shou-qi-si
-title: 偈頌一百三十三首  其四
-titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 si4
+title: 偈頌一百三十三首  其四○
+titlePinyin: ji4 song4 yi4 bai3 san1 shi2 san1 shou3     qi2 si4 ○
 titleSlug: ji-song-yi-bai-san-shi-san-shou-qi-si
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無愧於心對聖僧，不圖人愛愛人憎。
-- 打刀不是并州鐵，誰與諸方剪葛藤。
+- 三分光陰二早過，向下文長。
+- 靈臺一點不揩磨，彼自無瘡。
+- 貪生逐日區區去，終日茫茫。
+- 喚不回頭爭奈何。
 
 ## 拼音
 
-- wu2 kui4 wu1 xin1 dui4 sheng4 seng1 ， bu4 tu2 ren2 ai4 ai4 ren2 zeng1 。
-- da3 dao1 bu2 shi4 bing1 zhou1 tie3 ， shui2 yu3 zhu1 fang1 jian3 ge2 teng2 。
+- san1 fen1 guang1 yin1 er4 zao3 guo4 ， xiang4 xia4 wen2 chang2 。
+- ling2 tai2 yi4 dian3 bu4 kai1 mo2 ， bi3 zi4 wu2 chuang1 。
+- tan1 sheng1 zhu2 ri4 qu1 qu1 qu4 ， zhong1 ri4 mang2 mang2 。
+- huan4 bu4 hui2 tou2 zheng1 nai4 he2 。
 
 ## 注释
 

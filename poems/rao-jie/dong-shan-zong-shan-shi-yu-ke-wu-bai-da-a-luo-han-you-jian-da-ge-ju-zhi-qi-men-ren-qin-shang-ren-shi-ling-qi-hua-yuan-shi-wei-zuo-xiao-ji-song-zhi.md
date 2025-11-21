@@ -6,10 +6,10 @@ titleSlug: dong-shan-zong-shan-shi-yu-ke-wu-bai-da-a-luo-han-you-jian-da-ge-ju-z
 author: 饒節
 authorPinyin: rao2 jie2
 authorSlug: rao-jie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

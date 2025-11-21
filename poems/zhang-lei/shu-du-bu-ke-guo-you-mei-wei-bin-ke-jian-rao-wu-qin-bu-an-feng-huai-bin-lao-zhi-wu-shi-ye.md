@@ -6,10 +6,10 @@ titleSlug: shu-du-bu-ke-guo-you-mei-wei-bin-ke-jian-rao-wu-qin-bu-an-feng-huai-b
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

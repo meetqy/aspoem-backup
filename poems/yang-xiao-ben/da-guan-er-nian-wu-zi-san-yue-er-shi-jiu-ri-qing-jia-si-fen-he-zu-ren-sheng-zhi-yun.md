@@ -6,10 +6,10 @@ titleSlug: da-guan-er-nian-wu-zi-san-yue-er-shi-jiu-ri-qing-jia-si-fen-he-zu-ren
 author: 陽孝本
 authorPinyin: yang2 xiao4 ben3
 authorSlug: yang-xiao-ben
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

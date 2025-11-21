@@ -6,25 +6,21 @@ titleSlug: qiu-ri
 author: 寇準
 authorPinyin: kou4 zhun3
 authorSlug: kou-zhun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 江天物候潛衰變，氣爽初疑夏景餘。
-- 雨漬亂苔侵古壁，風飄紅葉滿荒渠。
-- 晚雲連嶽幽藏寺，秋水澄江靜見魚。
-- 昔歲一鳴無所恨，綠槐金蕊任蕭疏。
+- 柳衰蟬噪寒煙淡，地迥山遥暮雨收。
+- 宛是昔年秋氣味，只添多病與離愁。
 
 ## 拼音
 
-- jiang1 tian1 wu4 hou4 qian2 shuai1 bian4 ， qi4 shuang3 chu1 yi2 xia4 jing3 yu2 。
-- yu3 zi4 luan4 tai2 qin1 gu3 bi4 ， feng1 piao1 hong2 ye4 man3 huang1 qu2 。
-- wan3 yun2 lian2 yue4 you1 cang2 si4 ， qiu1 shui3 cheng2 jiang1 jing4 jian4 yu2 。
-- xi1 sui4 yi4 ming2 wu2 suo3 hen4 ， lü4 huai2 jin1 rui3 ren4 xiao1 shu1 。
+- liu3 shuai1 chan2 zao4 han2 yan1 dan4 ， di4 jiong3 shan1 yao2 mu4 yu3 shou1 。
+- wan3 shi4 xi1 nian2 qiu1 qi4 wei4 ， zhi1 tian1 duo1 bing4 yu3 li2 chou2 。
 
 ## 注释
 

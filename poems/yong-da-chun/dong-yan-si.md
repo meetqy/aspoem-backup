@@ -6,10 +6,10 @@ titleSlug: dong-yan-si
 author: 雍大椿
 authorPinyin: yong1 da4 chun1
 authorSlug: yong-da-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

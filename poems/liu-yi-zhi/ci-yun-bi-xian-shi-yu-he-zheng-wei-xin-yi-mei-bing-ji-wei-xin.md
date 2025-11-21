@@ -6,10 +6,10 @@ titleSlug: ci-yun-bi-xian-shi-yu-he-zheng-wei-xin-yi-mei-bing-ji-wei-xin
 author: 劉一止
 authorPinyin: liu2 yi4 zhi3
 authorSlug: liu-yi-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

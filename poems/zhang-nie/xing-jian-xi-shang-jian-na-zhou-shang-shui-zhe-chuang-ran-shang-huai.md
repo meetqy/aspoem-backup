@@ -6,9 +6,9 @@ titleSlug: xing-jian-xi-shang-jian-na-zhou-shang-shui-zhe-chuang-ran-shang-huai
 author: 張嵲
 authorPinyin: zhang1 nie4
 authorSlug: zhang-nie
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

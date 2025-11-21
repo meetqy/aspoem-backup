@@ -6,10 +6,10 @@ titleSlug: ju-qi-yi
 author: 俞桂英
 authorPinyin: yu2 gui4 ying1
 authorSlug: yu-gui-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

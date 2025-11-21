@@ -6,10 +6,10 @@ titleSlug: xi-bie
 author: 趙晟母
 authorPinyin: zhao4 sheng4 mu3
 authorSlug: zhao-sheng-mu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

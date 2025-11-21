@@ -6,25 +6,39 @@ titleSlug: ku-yu
 author: 林希逸
 authorPinyin: lin2 xi1 yi4
 authorSlug: lin-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 半春常值雨，人嘆久難禁。
-- 橋斷溪仍漲，秧寒水更深。
-- 老天因底漏，無日不重陰。
-- 兀坐憑誰訴，愁多只自吟。
+- 一春苦淋漓，既晴差自喜。
+- 四郊遽如壑，晴日共能幾。
+- 人言山雨驟，每點大如指。
+- 新秧過半空，農泣向妻子。
+- 今年種如金，典質到衣被。
+- 忍饑事犂鋤，豈料今乃爾。
+- 一飽强營營，天公難指擬。
+- 先淫後必涸，我慮非止此。
+- 可奈漫空雲，如墨來未已。
+- 長宵欹枕聽，攬衣四五起。
+- 滴碎愁人心，不滴愁人耳。
 
 ## 拼音
 
-- ban4 chun1 chang2 zhi2 yu3 ， ren2 tan4 jiu3 nan2 jin4 。
-- qiao2 duan4 xi1 reng2 zhang3 ， yang1 han2 shui3 geng4 shen1 。
-- lao3 tian1 yin1 di3 lou4 ， wu2 ri4 bu2 zhong4 yin1 。
-- wu4 zuo4 ping2 shui2 su4 ， chou2 duo1 zhi1 zi4 yin2 。
+- yi4 chun1 ku3 lin2 li2 ， ji4 qing2 cha4 zi4 xi3 。
+- si4 jiao1 ju4 ru2 he4 ， qing2 ri4 gong4 neng2 ji1 。
+- ren2 yan2 shan1 yu3 zhou4 ， mei3 dian3 da4 ru2 zhi3 。
+- xin1 yang1 guo4 ban4 kong1 ， nong2 qi4 xiang4 qi1 zi0 。
+- jin1 nian2 zhong3 ru2 jin1 ， dian3 zhi4 dao4 yi1 bei4 。
+- ren3 ji1 shi4 li2 chu2 ， qi3 liao4 jin1 nai3 er3 。
+- yi4 bao3 qiang2 ying2 ying2 ， tian1 gong1 nan2 zhi3 ni3 。
+- xian1 yin2 hou4 bi4 he2 ， wo3 lü4 fei1 zhi3 ci3 。
+- ke3 nai4 man4 kong1 yun2 ， ru2 mo4 lai2 wei4 yi3 。
+- chang2 xiao1 qi1 zhen3 ting1 ， lan3 yi1 si4 wu3 qi3 。
+- di1 sui4 chou2 ren2 xin1 ， bu4 di1 chou2 ren2 er3 。
 
 ## 注释
 

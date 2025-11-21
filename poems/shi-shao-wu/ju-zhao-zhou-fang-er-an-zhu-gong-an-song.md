@@ -6,10 +6,10 @@ titleSlug: ju-zhao-zhou-fang-er-an-zhu-gong-an-song
 author: 釋紹悟
 authorPinyin: shi4 shao4 wu4
 authorSlug: shi-shao-wu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

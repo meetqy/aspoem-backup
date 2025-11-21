@@ -6,21 +6,21 @@ titleSlug: tai-shou-zhao-shan-fu-ming-liu-xiu-cai-xie-yu-lao-chou-suo-zan
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 香山有箇狂客，恣游三十六峰。
-- 不是河南賢尹，誰贈明月清風。
+- □□如斯兼兒醜，丹青寫出十分真。
+- 凌煙繪像吾無望，喜在山林老此身。
 
 ## 拼音
 
-- xiang1 shan1 you3 ge4 kuang2 ke4 ， zi4 you2 san1 shi2 liu4 feng1 。
-- bu2 shi4 he2 nan2 xian2 yin3 ， shui2 zeng4 ming2 yue4 qing1 feng1 。
+- □□ ru2 si1 jian1 er2 chou3 ， dan1 qing1 xie3 chu1 shi2 fen1 zhen1 。
+- ling2 yan1 hui4 xiang4 wu2 wu2 wang4 ， xi3 zai4 shan1 lin2 lao3 ci3 shen1 。
 
 ## 注释
 

@@ -9,13 +9,13 @@ authorSlug: wang-zhou
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
 - 公局長清淡，池亭晚景中。
-- 蔗竿閑倚碧，蓮朵静淹紅。
+- 蔗竿閑倚碧，蓮朵靜淹紅。
 - 半引彎彎月，微生飋飋風。
 - 無思復無慮，此味幾人同。
 

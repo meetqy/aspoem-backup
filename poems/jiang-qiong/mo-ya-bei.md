@@ -6,10 +6,10 @@ titleSlug: mo-ya-bei
 author: 江瓊
 authorPinyin: jiang1 qiong2
 authorSlug: jiang-qiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

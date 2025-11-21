@@ -6,10 +6,10 @@ titleSlug: ye-xing-tan-xi-shang-nian-zhong-yuan-zhi-zhong-qiao-nian-mao-yuan-bo-
 author: 劉子翬
 authorPinyin: liu2 zi3 hui1
 authorSlug: liu-zi-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

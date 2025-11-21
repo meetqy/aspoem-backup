@@ -6,10 +6,10 @@ titleSlug: ti-zhang-shi-shi-yong-tu
 author: 陳振孫
 authorPinyin: chen2 zhen4 sun1
 authorSlug: chen-zhen-sun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

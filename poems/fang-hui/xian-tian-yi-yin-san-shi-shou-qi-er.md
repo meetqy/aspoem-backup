@@ -1,26 +1,26 @@
 ---
 id: fang-hui-xian-tian-yi-yin-san-shi-shou-qi-er
-title: 先天易吟三十首  其二
-titlePinyin: xian1 tian1 yi4 yin2 san1 shi2 shou3     qi2 er4
+title: 先天易吟三十首  其二○
+titlePinyin: xian1 tian1 yi4 yin2 san1 shi2 shou3     qi2 er4 ○
 titleSlug: xian-tian-yi-yin-san-shi-shou-qi-er
 author: 方回
 authorPinyin: fang1 hui2
 authorSlug: fang-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 舜禹昔禪位，曾將易問蓍。
-- 即知重八卦，已自伏羲時。
+- 心法先天易，盍於離位求。
+- 儻非明出地，長夜使人愁。
 
 ## 拼音
 
-- shun4 yu3 xi1 shan4 wei4 ， ceng2 jiang1 yi4 wen4 shi1 。
-- ji2 zhi1 zhong4 ba1 gua4 ， yi3 zi4 fu2 xi1 shi2 。
+- xin1 fa3 xian1 tian1 yi4 ， he2 wu1 li2 wei4 qiu2 。
+- tang3 fei1 ming2 chu1 di4 ， chang2 ye4 shi3 ren2 chou2 。
 
 ## 注释
 

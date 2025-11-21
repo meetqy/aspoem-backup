@@ -6,10 +6,10 @@ titleSlug: xi-you-bu-shi-yan
 author: 戴泰
 authorPinyin: dai4 tai4
 authorSlug: dai-tai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

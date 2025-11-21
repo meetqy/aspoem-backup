@@ -6,10 +6,10 @@ titleSlug: ju
 author: 戴孚中
 authorPinyin: dai4 fu2 zhong1
 authorSlug: dai-fu-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

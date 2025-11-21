@@ -6,25 +6,25 @@ titleSlug: yuan-ri
 author: 胡仲弓
 authorPinyin: hu2 zhong4 gong1
 authorSlug: hu-zhong-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 元日復元日，吟邊閲歲華。
-- 淺斟浮柏葉，清坐對梅花。
-- 人事年年改，生涯步步差。
-- 詩情無厚薄，春意又萌芽。
+- 元日山堂羅俎豆，潛知木主亦悲辛。
+- 土瓜溪筍非鄉物，臠肉村醪擬降神。
+- 盡日閒門無賀客，侵晨官道有行人。
+- 喜將弟妹同漂梗，綵服團欒壽老親。
 
 ## 拼音
 
-- yuan2 ri4 fu4 yuan2 ri4 ， yin2 bian1 yue4 sui4 hua2 。
-- qian3 zhen1 fu2 bai3 ye4 ， qing1 zuo4 dui4 mei2 hua1 。
-- ren2 shi4 nian2 nian2 gai3 ， sheng1 ya2 bu4 bu4 cha4 。
-- shi1 qing2 wu2 hou4 bao2 ， chun1 yi4 you4 meng2 ya2 。
+- yuan2 ri4 shan1 tang2 luo2 zu3 dou4 ， qian2 zhi1 mu4 zhu3 yi4 bei1 xin1 。
+- tu3 gua1 xi1 sun3 fei1 xiang1 wu4 ， luan2 rou4 cun1 lao2 ni3 jiang4 shen2 。
+- jin4 ri4 xian2 men2 wu2 he4 ke4 ， qin1 chen2 guan1 dao4 you3 xing2 ren2 。
+- xi3 jiang1 di4 mei4 tong2 piao1 geng3 ， cai3 fu2 tuan2 luan2 shou4 lao3 qin1 。
 
 ## 注释
 

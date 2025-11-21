@@ -6,10 +6,10 @@ titleSlug: sheng-shi-xian-cui-xuan
 author: 葉三錫
 authorPinyin: ye4 san1 xi1
 authorSlug: ye-san-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

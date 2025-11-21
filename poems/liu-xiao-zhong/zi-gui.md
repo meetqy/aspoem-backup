@@ -6,10 +6,10 @@ titleSlug: zi-gui
 author: 劉蕭仲
 authorPinyin: liu2 xiao1 zhong4
 authorSlug: liu-xiao-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

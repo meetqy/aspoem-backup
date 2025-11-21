@@ -6,10 +6,10 @@ titleSlug: ju
 author: 包真人
 authorPinyin: bao1 zhen1 ren2
 authorSlug: bao-zhen-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

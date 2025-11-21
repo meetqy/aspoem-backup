@@ -6,10 +6,10 @@ titleSlug: si-yue-er-shi-ri-yu-ke-lai-cheng-nan-ji-liao-fang-sheng-hu-guang-tian
 author: 張栻
 authorPinyin: zhang1 shi4
 authorSlug: zhang-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

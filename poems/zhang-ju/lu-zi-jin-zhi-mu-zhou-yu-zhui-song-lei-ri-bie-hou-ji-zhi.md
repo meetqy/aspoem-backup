@@ -6,10 +6,10 @@ titleSlug: lu-zi-jin-zhi-mu-zhou-yu-zhui-song-lei-ri-bie-hou-ji-zhi
 author: 張舉
 authorPinyin: zhang1 ju3
 authorSlug: zhang-ju
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

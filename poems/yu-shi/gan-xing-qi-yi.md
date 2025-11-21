@@ -6,33 +6,31 @@ titleSlug: gan-xing-qi-yi
 author: 于石
 authorPinyin: yu2 shi2
 authorSlug: yu-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 愚公欲移山，精衛欲填海。
-- 嗟乎智力窮，山海元不改。
-- 春秋更戰國，仁義日荒怠。
-- 近趨管晏功，遠受儀秦詒。
-- 楊墨騁邪說，申韓禍無罪。
-- 孔孟生其間，迂闊誰復採。
-- 羣囂競紛紜，智力幾百倍。
-- 山崩海可竭，吾道固長在。
+- 吳起爲魯將，殺妻殊不仁。
+- 樂羊伐中山，食子太無情。
+- 功名苟爲重，骨肉無乃輕。
+- 以此謀富貴，何如甘賤貧。
+- 沛豐三尺劍，抵掌收楚秦。
+- 未央玉巵壽，以功驕父兄。
+- 惜哉一杯酒，終愧一杯羹。
 
 ## 拼音
 
-- yu2 gong1 yu4 yi2 shan1 ， jing1 wei4 yu4 tian2 hai3 。
-- jie1 hu1 zhi4 li4 qiong2 ， shan1 hai3 yuan2 bu4 gai3 。
-- chun1 qiu1 geng4 zhan4 guo2 ， ren2 yi4 ri4 huang1 dai4 。
-- jin4 qu1 guan3 yan4 gong1 ， yuan3 shou4 yi2 qin2 yi2 。
-- yang2 mo4 cheng3 xie2 shuo1 ， shen1 han2 huo4 wu2 zui4 。
-- kong3 meng4 sheng1 qi2 jian4 ， yu1 kuo4 shui2 fu4 cai3 。
-- qun2 xiao1 jing4 fen1 yun2 ， zhi4 li4 ji1 bai3 bei4 。
-- shan1 beng1 hai3 ke3 jie2 ， wu2 dao4 gu4 chang2 zai4 。
+- wu2 qi3 wei2 lu3 jiang1 ， sha1 qi1 shu1 bu4 ren2 。
+- le4 yang2 fa2 zhong1 shan1 ， shi2 zi3 tai4 wu2 qing2 。
+- gong1 ming2 gou3 wei2 zhong4 ， gu3 rou4 wu2 nai3 qing1 。
+- yi3 ci3 mou2 fu4 gui4 ， he2 ru2 gan1 jian4 pin2 。
+- pei4 feng1 san1 chi3 jian4 ， di3 zhang3 shou1 chu3 qin2 。
+- wei4 yang1 yu4 zhi1 shou4 ， yi3 gong1 jiao1 fu4 xiong1 。
+- xi1 zai1 yi4 bei1 jiu3 ， zhong1 kui4 yi4 bei1 geng1 。
 
 ## 注释
 

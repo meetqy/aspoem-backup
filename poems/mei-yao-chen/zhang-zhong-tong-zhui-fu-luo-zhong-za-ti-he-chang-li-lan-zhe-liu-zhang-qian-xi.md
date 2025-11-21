@@ -6,10 +6,10 @@ titleSlug: zhang-zhong-tong-zhui-fu-luo-zhong-za-ti-he-chang-li-lan-zhe-liu-zhan
 author: 梅堯臣
 authorPinyin: mei2 yao2 chen2
 authorSlug: mei-yao-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

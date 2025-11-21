@@ -6,10 +6,10 @@ titleSlug: song
 author: 魏二翁
 authorPinyin: wei4 er4 weng1
 authorSlug: wei-er-weng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

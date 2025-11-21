@@ -9,22 +9,22 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 自喜天教我少緣，家徒行計兩翩翩。
-- 身兼妻子都三口，鶴與琴書共一船。
-- 僮僕減來無冗食，資糧算外有餘錢。
-- 攜將貯作丘中費，猶免飢寒得數年。
+- 身慵難勉強，性拙易遲迴。
+- 布被辰時起，柴門午後開。
+- 忙驅能者去，閑逐鈍人來。
+- 自喜誰能會，無才勝有才。
 
 ## 拼音
 
-- zi4 xi3 tian1 jiao4 wo3 shao3 yuan2 ， jia1 tu2 xing2 ji4 liang3 pian1 pian1 。
-- shen1 jian1 qi1 zi0 dou1 san1 kou3 ， he4 yu3 qin2 shu1 gong4 yi4 chuan2 。
-- tong2 pu2 jian3 lai2 wu2 rong3 shi2 ， zi1 liang2 suan4 wai4 you3 yu2 qian2 。
-- xie2 jiang1 zhu4 zuo4 qiu1 zhong1 fei4 ， you2 mian3 ji1 han2 de2 shu4 nian2 。
+- shen1 yong1 nan2 mian3 qiang2 ， xing4 zhuo1 yi4 chi2 hui2 。
+- bu4 bei4 chen2 shi2 qi3 ， chai2 men2 wu3 hou4 kai1 。
+- mang2 qu1 neng2 zhe3 qu4 ， xian2 zhu2 dun4 ren2 lai2 。
+- zi4 xi3 shui2 neng2 hui4 ， wu2 cai2 sheng4 you3 cai2 。
 
 ## 注释
 

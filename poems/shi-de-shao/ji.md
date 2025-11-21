@@ -6,9 +6,9 @@ titleSlug: ji
 author: 釋德韶
 authorPinyin: shi4 de2 shao2
 authorSlug: shi-de-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

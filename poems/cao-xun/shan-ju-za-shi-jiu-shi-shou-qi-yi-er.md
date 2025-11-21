@@ -6,25 +6,25 @@ titleSlug: shan-ju-za-shi-jiu-shi-shou-qi-yi-er
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 卜居得幽勝，景物無升沉。
-- 峯巒環郛郭，松竹排園林。
-- 時時破寂寥，翛翛頼鳴禽。
-- 於焉自有得，天籟皆餘音。
+- 吾年踰七十，真欲願春遲。
+- 豈謂上元過，適丁多雨時。
+- 韶華荏苒半，清明旦夕期。
+- 流鶑與蜂蝶，冷落殊未知。
 
 ## 拼音
 
-- bu3 ju1 de2 you1 sheng4 ， jing3 wu4 wu2 sheng1 chen2 。
-- feng1 luan2 huan2 fu2 guo1 ， song1 zhu2 pai2 yuan2 lin2 。
-- shi2 shi2 po4 ji4 liao2 ， xiao1 xiao1 lai4 ming2 qin2 。
-- wu1 yan1 zi4 you3 de2 ， tian1 lai4 jie1 yu2 yin1 。
+- wu2 nian2 yu2 qi1 shi2 ， zhen1 yu4 yuan4 chun1 chi2 。
+- qi3 wei4 shang4 yuan2 guo4 ， shi4 ding1 duo1 yu3 shi2 。
+- shao2 hua2 ren3 ran3 ban4 ， qing1 ming2 dan4 xi1 qi1 。
+- liu2 ying1 yu3 feng1 die2 ， leng3 luo4 shu1 wei4 zhi1 。
 
 ## 注释
 

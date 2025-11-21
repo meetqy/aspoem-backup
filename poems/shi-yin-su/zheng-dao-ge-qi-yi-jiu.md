@@ -1,26 +1,26 @@
 ---
 id: shi-yin-su-zheng-dao-ge-qi-yi-jiu
-title: 證道歌  其一九
-titlePinyin: zheng4 dao4 ge1     qi2 yi1 jiu3
+title: 證道歌  其一九○
+titlePinyin: zheng4 dao4 ge1     qi2 yi1 jiu3 ○
 titleSlug: zheng-dao-ge-qi-yi-jiu
 author: 釋印肅
 authorPinyin: shi4 yin4 su4
 authorSlug: shi-yin-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 無罪福，無損益，不消更念波羅蜜。
-- 念來年久却成魔，返謗修行無聖力。
+- 恨不滅除令瓦碎，百計千方來逞怪。
+- 熙怡端坐古峰頭，設若歸依還自拜。
 
 ## 拼音
 
-- wu2 zui4 fu2 ， wu2 sun3 yi4 ， bu4 xiao1 geng4 nian4 bo1 luo2 mi4 。
-- nian4 lai2 nian2 jiu3 que4 cheng2 mo2 ， fan3 bang4 xiu1 xing2 wu2 sheng4 li4 。
+- hen4 bu2 mie4 chu2 ling4 wa3 sui4 ， bai3 ji4 qian1 fang1 lai2 cheng3 guai4 。
+- xi1 yi2 duan1 zuo4 gu3 feng1 tou2 ， she4 ruo4 gui1 yi1 huan2 zi4 bai4 。
 
 ## 注释
 

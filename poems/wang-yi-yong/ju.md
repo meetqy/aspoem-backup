@@ -3,22 +3,22 @@ id: wang-yi-yong-ju
 title: 句
 titlePinyin: ju4
 titleSlug: ju
-author: 王以詠
-authorPinyin: wang2 yi3 yong3
+author: 王貽永
+authorPinyin: wang2 yi2 yong3
 authorSlug: wang-yi-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 劍水落霞晴熨綠，衍峰新月夜梳鬟。
+- 河朔雪深思愛月，并門春暖詠甘棠。
 
 ## 拼音
 
-- jian4 shui3 luo4 xia2 qing2 yun4 lü4 ， yan3 feng1 xin1 yue4 ye4 shu1 huan2 。
+- he2 shuo4 xue3 shen1 si1 ai4 yue4 ， bing4 men2 chun1 nuan3 yong3 gan1 tang2 。
 
 ## 注释
 

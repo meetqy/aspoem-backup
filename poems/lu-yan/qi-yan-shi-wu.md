@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我家勤種我家田，內有靈苗活萬年。
-- 花似黃金苞不大，子如白玉顆皆圓。
-- 栽培全賴中宮土，灌溉須憑上谷泉。
-- 直候九年功滿日，和根拔入大羅天。
+- 公卿雖貴不曾酬，說著仙鄉便去遊。
+- 爲討石肝逢蜃海，因尋甜雪過瀛州。
+- 山川醉後壺中放，神鬼閑來匣裏收。
+- 據見目前無箇識，不如杯酒混凡流。
 
 ## 拼音
 
-- wo3 jia1 qin2 zhong3 wo3 jia1 tian2 ， nei4 you3 ling2 miao2 huo2 wan4 nian2 。
-- hua1 si4 huang2 jin1 bao1 bu2 da4 ， zi3 ru2 bai2 yu4 ke1 jie1 yuan2 。
-- zai1 pei2 quan2 lai4 zhong1 gong1 tu3 ， guan4 gai4 xu1 ping2 shang4 gu3 quan2 。
-- zhi2 hou4 jiu3 nian2 gong1 man3 ri4 ， he2 gen1 ba2 ru4 da4 luo2 tian1 。
+- gong1 qing1 sui1 gui4 bu4 ceng2 chou2 ， shuo1 zhu4 xian1 xiang1 bian4 qu4 you2 。
+- wei2 tao3 shi2 gan1 feng2 shen4 hai3 ， yin1 xun2 tian2 xue3 guo4 ying2 zhou1 。
+- shan1 chuan1 zui4 hou4 hu2 zhong1 fang4 ， shen2 gui3 xian2 lai2 xia2 li3 shou1 。
+- ju4 jian4 mu4 qian2 wu2 ge4 shi2 ， bu4 ru2 bei1 jiu3 hun4 fan2 liu2 。
 
 ## 注释
 

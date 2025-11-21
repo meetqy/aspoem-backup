@@ -6,10 +6,10 @@ titleSlug: ju
 author: 王叡
 authorPinyin: wang2 rui4
 authorSlug: wang-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

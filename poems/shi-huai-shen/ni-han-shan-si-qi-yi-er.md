@@ -1,30 +1,30 @@
 ---
 id: shi-huai-shen-ni-han-shan-si-qi-yi-er
-title: 擬寒山寺  其一二
-titlePinyin: ni3 han2 shan1 si4     qi2 yi1 er4
+title: 擬寒山寺  其一二○
+titlePinyin: ni3 han2 shan1 si4     qi2 yi1 er4 ○
 titleSlug: ni-han-shan-si-qi-yi-er
 author: 釋懷深
 authorPinyin: shi4 huai2 shen1
 authorSlug: shi-huai-shen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漁者不能獵，獵者不能漁。
-- 貴人錢爲網，水陸皆可圖。
-- 畜生肉嘗遍，諸佛心轉疏。
-- 黄泉途路滑，失脚恐難扶。
+- 僧家乃野人，何苦事迎迓。
+- 佛法變人情，真實成虛假。
+- 不見老趙州，禪床猶懶下。
+- 但願大王知，誰管都衙罵。
 
 ## 拼音
 
-- yu2 zhe3 bu4 neng2 lie4 ， lie4 zhe3 bu4 neng2 yu2 。
-- gui4 ren2 qian2 wei2 wang3 ， shui3 lu4 jie1 ke3 tu2 。
-- chu4 sheng0 rou4 chang2 bian4 ， zhu1 fo2 xin1 zhuan3 shu1 。
-- huang2 quan2 tu2 lu4 hua2 ， shi1 jiao3 kong3 nan2 fu2 。
+- seng1 jia1 nai3 ye3 ren2 ， he2 ku3 shi4 ying2 ya4 。
+- fo2 fa3 bian4 ren2 qing2 ， zhen1 shi2 cheng2 xu1 jia3 。
+- bu2 jian4 lao3 zhao4 zhou1 ， shan4 chuang2 you2 lan3 xia4 。
+- dan4 yuan4 da4 wang2 zhi1 ， shui2 guan3 dou1 ya2 ma4 。
 
 ## 注释
 

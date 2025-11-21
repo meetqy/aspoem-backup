@@ -6,25 +6,25 @@ titleSlug: sai-shen
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲熟鄉鄰樂，辰良祭賽多。
-- 荒園拋鬼飯，高机置神鵝。
-- 人散叢祠寂，巫歸醉臉酡。
-- 饑鴉更堪笑，鳴噪下庭柯。
+- 落日林間簫鼓聲，村村倒社祝西成。
+- 扶翁兒大兩髦髧，溉水渠成千耦耕。
+- 家受一廛修本業，鄉推三老主齊盟。
+- 日聞淮潁歸王化，要使新民識太平。
 
 ## 拼音
 
-- sui4 shu2 xiang1 lin2 le4 ， chen2 liang2 ji4 sai4 duo1 。
-- huang1 yuan2 pao1 gui3 fan4 ， gao1 ji1 zhi4 shen2 e2 。
-- ren2 san4 cong2 ci2 ji4 ， wu1 gui1 zui4 lian3 tuo2 。
-- ji1 ya1 geng4 kan1 xiao4 ， ming2 zao4 xia4 ting2 ke1 。
+- luo4 ri4 lin2 jian4 xiao1 gu3 sheng1 ， cun1 cun1 dao3 she4 zhu4 xi1 cheng2 。
+- fu2 weng1 er2 da4 liang3 mao2 dan4 ， gai4 shui3 qu2 cheng2 qian1 ou3 geng1 。
+- jia1 shou4 yi4 chan2 xiu1 ben3 ye4 ， xiang1 tui1 san1 lao3 zhu3 qi2 meng2 。
+- ri4 wen2 huai2 ying3 gui1 wang2 hua4 ， yao4 shi3 xin1 min2 shi2 tai4 ping2 。
 
 ## 注释
 

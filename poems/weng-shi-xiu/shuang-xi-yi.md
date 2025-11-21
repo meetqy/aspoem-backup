@@ -6,10 +6,10 @@ titleSlug: shuang-xi-yi
 author: 翁世修
 authorPinyin: weng1 shi4 xiu1
 authorSlug: weng-shi-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

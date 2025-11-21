@@ -6,10 +6,10 @@ titleSlug: zhong-lan-hua
 author: 趙時伐
 authorPinyin: zhao4 shi2 fa2
 authorSlug: zhao-shi-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

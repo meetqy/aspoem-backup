@@ -6,10 +6,10 @@ titleSlug: ju
 author: 石姥寄客
 authorPinyin: shi2 lao3 ji4 ke4
 authorSlug: shi-lao-ji-ke
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

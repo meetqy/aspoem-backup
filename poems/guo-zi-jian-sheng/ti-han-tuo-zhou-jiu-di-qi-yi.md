@@ -6,10 +6,10 @@ titleSlug: ti-han-tuo-zhou-jiu-di-qi-yi
 author: 國子監生
 authorPinyin: guo2 zi3 jian1 sheng1
 authorSlug: guo-zi-jian-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-she-you-shi-gao
 author: 鄧允端
 authorPinyin: deng4 yun3 duan1
 authorSlug: deng-yun-duan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

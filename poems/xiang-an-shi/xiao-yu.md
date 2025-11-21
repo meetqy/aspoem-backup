@@ -1,30 +1,30 @@
 ---
 id: xiang-an-shi-xiao-yu
-title: 小雨
-titlePinyin: xiao3 yu3
+title: 小潏
+titlePinyin: xiao3 yu4
 titleSlug: xiao-yu
 author: 項安世
 authorPinyin: xiang4 an1 shi4
 authorSlug: xiang-an-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 小雨散炎毒，微風生早秋。
-- 清凉人意足，厭浥草光浮。
-- 夜枕夢新熟，曉窗梳不收。
-- 茅欄聽好語，香稻起西疇。
+- 鑿苔欲爲沼，乃得數仞坻。
+- 盈虛有相乘，川實而邱夷。
+- 誰云人功爲，天理固有之。
+- 向來小學師，此道渠得知。
 
 ## 拼音
 
-- xiao3 yu3 san4 yan2 du2 ， wei1 feng1 sheng1 zao3 qiu1 。
-- qing1 liang2 ren2 yi4 zu2 ， yan4 yi4 cao3 guang1 fu2 。
-- ye4 zhen3 meng4 xin1 shu2 ， xiao3 chuang1 shu1 bu4 shou1 。
-- mao2 lan2 ting1 hao3 yu3 ， xiang1 dao4 qi3 xi1 chou2 。
+- zao2 tai2 yu4 wei2 zhao3 ， nai3 de2 shu4 ren4 di3 。
+- ying2 xu1 you3 xiang1 cheng2 ， chuan1 shi2 er2 qiu1 yi2 。
+- shui2 yun2 ren2 gong1 wei2 ， tian1 li3 gu4 you3 zhi1 。
+- xiang4 lai2 xiao3 xue2 shi1 ， ci3 dao4 qu2 de2 zhi1 。
 
 ## 注释
 

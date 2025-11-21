@@ -6,10 +6,10 @@ titleSlug: ba-yue-shi-wu-ri-dao-chu-nan-chang-ji-gong-shuai-shi-zhi-jian-cheng-c
 author: 林光朝
 authorPinyin: lin2 guang1 chao2
 authorSlug: lin-guang-chao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

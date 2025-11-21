@@ -6,21 +6,21 @@ titleSlug: zhu-zhang
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 放翁拄杖具神通，蜀棧吴山興未窮。
-- 昨夜夢中行萬里，蓮華峰上聽松風。
+- 吾嘗評拄杖，妙處在輕堅。
+- 何日提携汝，同登入峽船。
 
 ## 拼音
 
-- fang4 weng1 zhu3 zhang4 ju4 shen2 tong1 ， shu3 zhan4 wu2 shan1 xing1 wei4 qiong2 。
-- zuo2 ye4 meng4 zhong1 hang2 wan4 li3 ， lian2 hua2 feng1 shang4 ting1 song1 feng1 。
+- wu2 chang2 ping2 zhu3 zhang4 ， miao4 chu3 zai4 qing1 jian1 。
+- he2 ri4 ti2 xie2 ru3 ， tong2 deng1 ru4 xia2 chuan2 。
 
 ## 注释
 

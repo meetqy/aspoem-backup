@@ -6,21 +6,21 @@ titleSlug: he-qian-ren-yun-qi-yi
 author: 王柏
 authorPinyin: wang2 bai3
 authorSlug: wang-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 屢作家書欲寄人，姓名愁墮軟紅塵。
-- 眼邊忽見傷春句，屈指別來猶是春。
+- 名山終是欠徘徊，小隊輕車决意來。
+- 他日相思無覓處，殷勤先贈嶺頭梅。
 
 ## 拼音
 
-- lü3 zuo4 jia1 shu1 yu4 ji4 ren2 ， xing4 ming2 chou2 duo4 ruan3 hong2 chen2 。
-- yan3 bian1 hu1 jian4 shang1 chun1 ju4 ， qu1 zhi3 bie2 lai2 you2 shi4 chun1 。
+- ming2 shan1 zhong1 shi4 qian4 pai2 huai2 ， xiao3 dui4 qing1 ju1 jue2 yi4 lai2 。
+- ta1 ri4 xiang1 si1 wu2 mi4 chu3 ， yin1 qin2 xian1 zeng4 ling3 tou2 mei2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ye-zhen-ru-wu-fa-shu-ji
 author: 釋道平
 authorPinyin: shi4 dao4 ping2
 authorSlug: shi-dao-ping
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

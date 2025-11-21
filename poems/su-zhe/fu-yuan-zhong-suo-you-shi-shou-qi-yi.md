@@ -1,34 +1,34 @@
 ---
 id: su-zhe-fu-yuan-zhong-suo-you-shi-shou-qi-yi
-title: 賦園中所有十首  其一
-titlePinyin: fu4 yuan2 zhong1 suo3 you3 shi2 shou3     qi2 yi1
+title: 賦園中所有十首  其一○
+titlePinyin: fu4 yuan2 zhong1 suo3 you3 shi2 shou3     qi2 yi1 ○
 titleSlug: fu-yuan-zhong-suo-you-shi-shou-qi-yi
 author: 蘇轍
 authorPinyin: su1 zhe2
 authorSlug: su-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 萱草朝始開，呀然黄鵠觜。
-- 仰吸日出光，口中爛如綺。
-- 纖纖吐鬚鬣，冉冉隨風哆。
-- 朝陽未上軒，粲粲幽閑女。
-- 美女生山谷，不解歌與舞。
-- 君看野草花，可以解憂悴。
+- 葵花開已闌，結子壓枝重。
+- 長條困風雨，倒卧枕丘壟。
+- 憶初始放花，岌岌旌節聳。
+- 得時能幾時，狼籍成荒冗。
+- 浮根不任雪，採剝收遺種。
+- 未忍焚枯莖，積疊牆角擁。
 
 ## 拼音
 
-- xuan1 cao3 chao2 shi3 kai1 ， ya0 ran2 huang2 hu2 zi1 。
-- yang3 xi1 ri4 chu1 guang1 ， kou3 zhong1 lan4 ru2 qi3 。
-- xian1 xian1 tu3 xu1 lie4 ， ran3 ran3 sui2 feng1 duo1 。
-- chao2 yang2 wei4 shang4 xuan1 ， can4 can4 you1 xian2 nü3 。
-- mei3 nü3 sheng1 shan1 gu3 ， bu4 jie3 ge1 yu3 wu3 。
-- jun1 kan4 ye3 cao3 hua1 ， ke3 yi3 jie3 you1 cui4 。
+- kui2 hua1 kai1 yi3 lan2 ， jie2 zi3 ya1 zhi1 zhong4 。
+- chang2 tiao2 kun4 feng1 yu3 ， dao3 wo4 zhen3 qiu1 long3 。
+- yi4 chu1 shi3 fang4 hua1 ， ji2 ji2 jing1 jie2 song3 。
+- de2 shi2 neng2 ji1 shi2 ， lang2 ji2 cheng2 huang1 rong3 。
+- fu2 gen1 bu2 ren4 xue3 ， cai3 bao1 shou1 yi2 zhong3 。
+- wei4 ren3 fen2 ku1 jing4 ， ji1 die2 qiang2 jiao3 yong1 。
 
 ## 注释
 

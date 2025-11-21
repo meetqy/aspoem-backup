@@ -1,32 +1,30 @@
 ---
 id: shi-shao-tan-ji-song-yi-bai-yi-shi-qi-shou-qi-jiu
-title: 偈頌一百一十七首  其九
-titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 jiu3
+title: 偈頌一百一十七首  其九○
+titlePinyin: ji4 song4 yi4 bai3 yi1 shi2 qi1 shou3     qi2 jiu3 ○
 titleSlug: ji-song-yi-bai-yi-shi-qi-shou-qi-jiu
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 國有世臣，伊周是則。
-- 神政冰清，忠謨鯁直。
-- 存方寸地子孫耕，黍稷非馨深種德。
-- 美則美矣，這爭如何。
-- 巨闢十三華藏界，藏身無迹海騰波。
+- 今朝二月十五，黄面瞿曇滅度。
+- 諸方撾皷聲冤，盡是閑言長語。
+- 一點涅槃心，無人知落處。
+- 山花泪滴如紅雨。
 
 ## 拼音
 
-- guo2 you3 shi4 chen2 ， yi1 zhou1 shi4 ze2 。
-- shen2 zheng4 bing1 qing1 ， zhong1 mo2 geng3 zhi2 。
-- cun2 fang1 cun4 di4 zi3 sun1 geng1 ， shu3 ji4 fei1 xin1 shen1 zhong3 de2 。
-- mei3 ze2 mei3 yi3 ， zhe4 zheng1 ru2 he2 。
-- ju4 pi4 shi2 san1 hua2 cang2 jie4 ， cang2 shen1 wu2 ji4 hai3 teng2 bo1 。
+- jin1 zhao1 er4 yue4 shi2 wu3 ， huang2 mian4 qu2 tan2 mie4 du4 。
+- zhu1 fang1 zhua1 gu3 sheng1 yuan1 ， jin4 shi4 xian2 yan2 chang2 yu3 。
+- yi4 dian3 nie4 pan2 xin1 ， wu2 ren2 zhi1 luo4 chu3 。
+- shan1 hua1 lei4 di1 ru2 hong2 yu3 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: li-chun-ji-mei-tan-yang-yi-lao
 author: 范太中
 authorPinyin: fan4 tai4 zhong1
 authorSlug: fan-tai-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

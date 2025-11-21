@@ -6,10 +6,10 @@ titleSlug: you-tian-ping-shan-qi-er
 author: 王疏
 authorPinyin: wang2 shu1
 authorSlug: wang-shu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

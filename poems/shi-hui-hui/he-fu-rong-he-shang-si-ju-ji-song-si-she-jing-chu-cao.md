@@ -6,9 +6,9 @@ titleSlug: he-fu-rong-he-shang-si-ju-ji-song-si-she-jing-chu-cao
 author: 釋慧暉
 authorPinyin: shi4 hui4 hui1
 authorSlug: shi-hui-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

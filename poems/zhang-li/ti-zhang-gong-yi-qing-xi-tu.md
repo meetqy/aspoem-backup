@@ -6,10 +6,10 @@ titleSlug: ti-zhang-gong-yi-qing-xi-tu
 author: 張勵
 authorPinyin: zhang1 li4
 authorSlug: zhang-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

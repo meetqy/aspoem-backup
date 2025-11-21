@@ -6,10 +6,10 @@ titleSlug: yu-shu-hou-zong-gan-ji-shi-shen-fu
 author: 徐僑
 authorPinyin: xu2 qiao2
 authorSlug: xu-qiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: da-da-hui-ju-ling-yun-wu-tao-hua-song
 author: 釋浄全
 authorPinyin: shi4 jing4 quan2
 authorSlug: shi-jing-quan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

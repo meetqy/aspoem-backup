@@ -6,10 +6,10 @@ titleSlug: ju
 author: 三學諸生
 authorPinyin: san1 xue2 zhu1 sheng1
 authorSlug: san-xue-zhu-sheng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

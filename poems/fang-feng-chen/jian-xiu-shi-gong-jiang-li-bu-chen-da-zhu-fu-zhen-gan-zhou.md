@@ -6,10 +6,10 @@ titleSlug: jian-xiu-shi-gong-jiang-li-bu-chen-da-zhu-fu-zhen-gan-zhou
 author: 方逢辰
 authorPinyin: fang1 feng2 chen2
 authorSlug: fang-feng-chen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

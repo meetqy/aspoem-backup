@@ -6,10 +6,10 @@ titleSlug: xie-yang-meng-xi-xian-cheng-hui-yi-zhang-mo
 author: 樂雷發
 authorPinyin: le4 lei2 fa1
 authorSlug: le-lei-fa
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

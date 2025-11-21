@@ -6,10 +6,10 @@ titleSlug: zhi-hang-dou-you-hu-shang
 author: 方恬
 authorPinyin: fang1 tian2
 authorSlug: fang-tian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

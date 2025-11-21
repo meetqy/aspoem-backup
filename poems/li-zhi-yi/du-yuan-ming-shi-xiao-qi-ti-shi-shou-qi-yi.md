@@ -1,30 +1,30 @@
 ---
 id: li-zhi-yi-du-yuan-ming-shi-xiao-qi-ti-shi-shou-qi-yi
-title: 讀淵明詩效其體十首  其一
-titlePinyin: du2 yuan1 ming2 shi1 xiao4 qi2 ti3 shi2 shou3     qi2 yi1
+title: 讀淵明詩效其體十首  其一○
+titlePinyin: du2 yuan1 ming2 shi1 xiao4 qi2 ti3 shi2 shou3     qi2 yi1 ○
 titleSlug: du-yuan-ming-shi-xiao-qi-ti-shi-shou-qi-yi
 author: 李之儀
 authorPinyin: li3 zhi1 yi2
 authorSlug: li-zhi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 歲月忽云徂，人事只如此。
-- 胡不及此時，斗酒勞鄰里。
-- 有田半荒蕪，有屋亦傾圯。
-- 强顔賓客後，畢竟如何爾。
+- 吾友傅子淵，每見常熙熙。
+- 人固莫我高，我固不人低。
+- 問其何因爾，我蓋不自知。
+- 孰爲第一義，只此是菩提。
 
 ## 拼音
 
-- sui4 yue4 hu1 yun2 cu2 ， ren2 shi4 zhi1 ru2 ci3 。
-- hu2 bu4 ji2 ci3 shi2 ， dou4 jiu3 lao2 lin2 li3 。
-- you3 tian2 ban4 huang1 wu2 ， you3 wu1 yi4 qing1 yi2 。
-- qiang2 yan2 bin1 ke4 hou4 ， bi4 jing4 ru2 he2 er3 。
+- wu2 you3 fu4 zi3 yuan1 ， mei3 jian4 chang2 xi1 xi1 。
+- ren2 gu4 mo4 wo3 gao1 ， wo3 gu4 bu4 ren2 di1 。
+- wen4 qi2 he2 yin1 er3 ， wo3 gai4 bu2 zi4 zhi1 。
+- shu2 wei2 di4 yi1 yi4 ， zhi3 ci3 shi4 pu2 ti2 。
 
 ## 注释
 

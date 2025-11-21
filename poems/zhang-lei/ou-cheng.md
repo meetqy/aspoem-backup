@@ -6,21 +6,25 @@ titleSlug: ou-cheng
 author: 張耒
 authorPinyin: zhang1 lei3
 authorSlug: zhang-lei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 低雲著地曉悠悠，雨濕簾旌不上鈎。
-- 江北江南千萬里，年年長向此時愁。
+- 却掃客不至，端爲四國騷。
+- 杯寒薦園實，食儉煮溪毛。
+- 霜過橘柚熟，天晴鴻鵠高。
+- 幽齋高木近，不寢聽雞號。
 
 ## 拼音
 
-- di1 yun2 zhu4 di4 xiao3 you1 you1 ， yu3 shi1 lian2 jing1 bu2 shang4 gou1 。
-- jiang1 bei3 jiang1 nan2 qian1 wan4 li3 ， nian2 nian2 chang2 xiang4 ci3 shi2 chou2 。
+- que4 sao3 ke4 bu2 zhi4 ， duan1 wei2 si4 guo2 sao1 。
+- bei1 han2 jian4 yuan2 shi2 ， shi2 jian3 zhu3 xi1 mao2 。
+- shuang1 guo4 ju2 you4 shu2 ， tian1 qing2 hong2 hu2 gao1 。
+- you1 zhai1 gao1 mu4 jin4 ， bu4 qin3 ting1 ji1 hao4 。
 
 ## 注释
 

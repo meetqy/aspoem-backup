@@ -6,10 +6,10 @@ titleSlug: ti-qing-xin-tang
 author: 趙資道
 authorPinyin: zhao4 zi1 dao4
 authorSlug: zhao-zi-dao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

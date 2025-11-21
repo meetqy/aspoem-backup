@@ -6,10 +6,10 @@ titleSlug: heng-zhou
 author: 盧會龍
 authorPinyin: lu2 hui4 long2
 authorSlug: lu-hui-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

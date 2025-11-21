@@ -6,25 +6,25 @@ titleSlug: mei-hua
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 家是江南友是蘭，水邊月底怯新寒。
-- 畫圖省識驚春早，玉笛孤吹怨夜殘。
-- 冷淡合教閑處著，清臞難遣俗人看。
-- 相逢剩作樽前恨，索笑情懷老漸闌。
+- 我與梅花有舊盟，即今白髮未忘情。
+- 不愁索笑無多子，惟恨相思太瘦生。
+- 身世何曾怨空谷，風流正自合傾城。
+- 增冰積雪行人少，試倩羈鴻爲寄聲。
 
 ## 拼音
 
-- jia1 shi4 jiang1 nan2 you3 shi4 lan2 ， shui3 bian1 yue4 di3 qie4 xin1 han2 。
-- hua4 tu2 sheng3 shi2 jing1 chun1 zao3 ， yu4 di2 gu1 chui1 yuan4 ye4 can2 。
-- leng3 dan4 he2 jiao4 xian2 chu3 zhu4 ， qing1 qu2 nan2 qian3 su2 ren2 kan4 。
-- xiang1 feng2 sheng4 zuo4 zun1 qian2 hen4 ， suo3 xiao4 qing2 huai2 lao3 jian4 lan2 。
+- wo3 yu3 mei2 hua1 you3 jiu4 meng2 ， ji2 jin1 bai2 fa4 wei4 wang4 qing2 。
+- bu4 chou2 suo3 xiao4 wu2 duo1 zi3 ， wei2 hen4 xiang1 si1 tai4 shou4 sheng1 。
+- shen1 shi4 he2 ceng2 yuan4 kong1 gu3 ， feng1 liu2 zheng4 zi4 he2 qing1 cheng2 。
+- zeng1 bing1 ji1 xue3 xing2 ren2 shao3 ， shi4 qian4 ji1 hong2 wei2 ji4 sheng1 。
 
 ## 注释
 

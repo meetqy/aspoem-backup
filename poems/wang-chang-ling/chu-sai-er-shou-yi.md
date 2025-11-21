@@ -6,10 +6,10 @@ titleSlug: chu-sai-er-shou-yi
 author: 王昌齡
 authorPinyin: wang2 chang1 ling2
 authorSlug: wang-chang-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

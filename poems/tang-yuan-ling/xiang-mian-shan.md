@@ -6,10 +6,10 @@ titleSlug: xiang-mian-shan
 author: 唐元齡
 authorPinyin: tang2 yuan2 ling2
 authorSlug: tang-yuan-ling
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

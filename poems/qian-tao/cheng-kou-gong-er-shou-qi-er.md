@@ -6,10 +6,10 @@ titleSlug: cheng-kou-gong-er-shou-qi-er
 author: 蒨桃
 authorPinyin: qian4 tao2
 authorSlug: qian-tao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

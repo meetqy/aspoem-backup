@@ -6,10 +6,10 @@ titleSlug: shu-gu-de-yi-shi-zuo-yu-fu-ci-ba-shou-chuan-zi
 author: 釋德洪
 authorPinyin: shi4 de2 hong2
 authorSlug: shi-de-hong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: yu-ge
 author: 姚所韶
 authorPinyin: yao2 suo3 shao2
 authorSlug: yao-suo-shao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

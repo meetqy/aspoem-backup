@@ -6,10 +6,10 @@ titleSlug: ci-gong-man-zhi-lai-gui-ou-shang-si-han-shi-tong-ri-fu-zi-xiao-zhuo
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: you-tao-xian-guan-lin-gong-bian-shi-qi-er
 author: 任希夷
 authorPinyin: ren4 xi1 yi2
 authorSlug: ren-xi-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

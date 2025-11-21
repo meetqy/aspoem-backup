@@ -1,26 +1,26 @@
 ---
 id: zu-wu-ze-yuan-zhou-qing-feng-tang-shi-xian-yong-qi-yi
-title: 袁州慶豐堂十閑詠  其一
-titlePinyin: yuan2 zhou1 qing4 feng1 tang2 shi2 xian2 yong3     qi2 yi1
+title: 袁州慶豐堂十閑詠  其一○
+titlePinyin: yuan2 zhou1 qing4 feng1 tang2 shi2 xian2 yong3     qi2 yi1 ○
 titleSlug: yuan-zhou-qing-feng-tang-shi-xian-yong-qi-yi
 author: 祖無擇
 authorPinyin: zu3 wu2 ze2
 authorSlug: zu-wu-ze
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 吏散鈴齋掩，閑眠到日斜。
-- 無端是春夢，容易繞京華。
+- 晴軒足清趣，閑與鶴開籠。
+- 寄語北山侶，無驚蕙帳空。
 
 ## 拼音
 
-- li4 san4 ling2 zhai1 yan3 ， xian2 mian2 dao4 ri4 xie2 。
-- wu2 duan1 shi4 chun1 meng4 ， rong2 yi4 rao4 jing1 hua2 。
+- qing2 xuan1 zu2 qing1 qu4 ， xian2 yu3 he4 kai1 long2 。
+- ji4 yu3 bei3 shan1 lü3 ， wu2 jing1 hui4 zhang4 kong1 。
 
 ## 注释
 

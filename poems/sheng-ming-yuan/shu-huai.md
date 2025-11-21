@@ -6,10 +6,10 @@ titleSlug: shu-huai
 author: 盛明遠
 authorPinyin: sheng4 ming2 yuan3
 authorSlug: sheng-ming-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

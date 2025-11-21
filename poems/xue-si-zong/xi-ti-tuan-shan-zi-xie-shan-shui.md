@@ -6,10 +6,10 @@ titleSlug: xi-ti-tuan-shan-zi-xie-shan-shui
 author: 薛似宗
 authorPinyin: xue1 si4 zong1
 authorSlug: xue-si-zong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-ling-yan-si
 author: 趙善悉
 authorPinyin: zhao4 shan4 xi1
 authorSlug: zhao-shan-xi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji-song-shi-shou-qi-er
 author: 釋德光
 authorPinyin: shi4 de2 guang1
 authorSlug: shi-de-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

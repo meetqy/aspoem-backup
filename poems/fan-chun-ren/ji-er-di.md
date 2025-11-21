@@ -6,25 +6,25 @@ titleSlug: ji-er-di
 author: 范純仁
 authorPinyin: fan4 chun2 ren2
 authorSlug: fan-chun-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一日如三歲，離懷不可忘。
-- 宦遊難會合，衰老易悲傷。
-- 原上鴒飛急，天邊雁序長。
-- 如何名利役，白首遠相望。
+- 宦名驅役費光陰，寒暑憂勞晝夜侵。
+- 多病形骸衰易感，無涯思慮老難禁。
+- 離群終日嗟予季，聚首何時獲我心。
+- 精力已疲恩未報，懷歸體國念俱深。
 
 ## 拼音
 
-- yi2 ri4 ru2 san1 sui4 ， li2 huai2 bu4 ke3 wang4 。
-- huan4 you2 nan2 hui4 he2 ， shuai1 lao3 yi4 bei1 shang1 。
-- yuan2 shang4 ling2 fei1 ji2 ， tian1 bian1 yan4 xu4 chang2 。
-- ru2 he2 ming2 li4 yi4 ， bai2 shou3 yuan3 xiang1 wang4 。
+- huan4 ming2 qu1 yi4 fei4 guang1 yin1 ， han2 shu3 you1 lao2 zhou4 ye4 qin1 。
+- duo1 bing4 xing2 hai2 shuai1 yi4 gan3 ， wu2 ya2 si1 lü4 lao3 nan2 jin4 。
+- li2 qun2 zhong1 ri4 jie1 yu3 ji4 ， ju4 shou3 he2 shi2 huo4 wo3 xin1 。
+- jing1 li4 yi3 pi2 en1 wei4 bao4 ， huai2 gui1 ti3 guo2 nian4 ju4 shen1 。
 
 ## 注释
 

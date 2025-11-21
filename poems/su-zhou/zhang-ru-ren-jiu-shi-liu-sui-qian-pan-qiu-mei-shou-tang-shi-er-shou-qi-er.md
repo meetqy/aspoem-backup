@@ -6,9 +6,9 @@ titleSlug: zhang-ru-ren-jiu-shi-liu-sui-qian-pan-qiu-mei-shou-tang-shi-er-shou-q
 author: 蘇籀
 authorPinyin: su1 zhou4
 authorSlug: su-zhou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

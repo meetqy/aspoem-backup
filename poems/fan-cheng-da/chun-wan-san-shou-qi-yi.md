@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-chun-wan-san-shou-qi-yi
-title: 春晚三首・其一
-titlePinyin: chun1 wan3 san1 shou3・qi2 yi1
+title: 春晚三首  其一
+titlePinyin: chun1 wan3 san1 shou3     qi2 yi1
 titleSlug: chun-wan-san-shou-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

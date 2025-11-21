@@ -6,10 +6,10 @@ titleSlug: ju-qi-san
 author: 何麟
 authorPinyin: he2 lin2
 authorSlug: he-lin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

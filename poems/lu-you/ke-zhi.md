@@ -6,25 +6,25 @@ titleSlug: ke-zhi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 何處軒車客，能來桑麥村。
-- 一奴先入市，此老自應門。
-- 野果嘗皆澀，村醅壓尚渾。
-- 殘年亦何恨，治世作黎元。
+- 官閑身自得，客至眼殊明。
+- 靜算棋生死，閑分酒濁清。
+- 悠然劇談罷，偶爾小詩成。
+- 但恨桑麻事，無人與共評。
 
 ## 拼音
 
-- he2 chu3 xuan1 ju1 ke4 ， neng2 lai2 sang1 mai4 cun1 。
-- yi4 nu2 xian1 ru4 shi4 ， ci3 lao3 zi4 ying1 men2 。
-- ye3 guo3 chang2 jie1 se4 ， cun1 pei1 ya1 shang4 hun2 。
-- can2 nian2 yi4 he2 hen4 ， zhi4 shi4 zuo4 li2 yuan2 。
+- guan1 xian2 shen1 zi4 de2 ， ke4 zhi4 yan3 shu1 ming2 。
+- jing4 suan4 qi2 sheng1 si3 ， xian2 fen1 jiu3 zhuo2 qing1 。
+- you1 ran2 ju4 tan2 ba4 ， ou3 er3 xiao3 shi1 cheng2 。
+- dan4 hen4 sang1 ma2 shi4 ， wu2 ren2 yu3 gong4 ping2 。
 
 ## 注释
 

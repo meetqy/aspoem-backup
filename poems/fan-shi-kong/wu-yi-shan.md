@@ -6,10 +6,10 @@ titleSlug: wu-yi-shan
 author: 范師孔
 authorPinyin: fan4 shi1 kong3
 authorSlug: fan-shi-kong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

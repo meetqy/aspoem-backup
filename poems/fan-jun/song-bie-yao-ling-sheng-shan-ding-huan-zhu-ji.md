@@ -6,10 +6,10 @@ titleSlug: song-bie-yao-ling-sheng-shan-ding-huan-zhu-ji
 author: 范浚
 authorPinyin: fan4 jun4
 authorSlug: fan-jun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

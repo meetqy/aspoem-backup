@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 津能充渴氣充糧，家住三清玉帝鄉。
-- 金鼎煉來多外白，玉虛烹處徹中黃。
-- 始知青帝離宮住，方信金精水府藏。
-- 流俗要求玄妙理，參同契有兩三行。
+- 髮頭滴血眼如鐶，吐氣雲生怒世間。
+- 爭耐不平千古事，須期一訣蕩兇頑。
+- 蛟龍斬處翻滄海，暴虎除時拔遠山。
+- 爲滅世情兼負義，劍光腥染點痕斑。
 
 ## 拼音
 
-- jin1 neng2 chong1 ke3 qi4 chong1 liang2 ， jia1 zhu4 san1 qing1 yu4 di4 xiang1 。
-- jin1 ding3 lian4 lai2 duo1 wai4 bai2 ， yu4 xu1 peng1 chu3 che4 zhong1 huang2 。
-- shi3 zhi1 qing1 di4 li2 gong1 zhu4 ， fang1 xin4 jin1 jing1 shui3 fu3 cang2 。
-- liu2 su2 yao1 qiu2 xuan2 miao4 li3 ， can1 tong2 qi4 you3 liang3 san1 hang2 。
+- fa4 tou2 di1 xue4 yan3 ru2 huan2 ， tu3 qi4 yun2 sheng1 nu4 shi4 jian4 。
+- zheng1 nai4 bu4 ping2 qian1 gu3 shi4 ， xu1 qi1 yi4 jue2 dang4 xiong1 wan2 。
+- jiao1 long2 zhan3 chu3 fan1 cang1 hai3 ， bao4 hu3 chu2 shi2 ba2 yuan3 shan1 。
+- wei2 mie4 shi4 qing2 jian1 fu4 yi4 ， jian4 guang1 xing1 ran3 dian3 hen2 ban1 。
 
 ## 注释
 

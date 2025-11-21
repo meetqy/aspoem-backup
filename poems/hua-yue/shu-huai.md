@@ -6,25 +6,25 @@ titleSlug: shu-huai
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我生不解覓冠裳，滿目風波祇自傷。
-- 楮券不堪供虜幣，沙籌那解足軍糧。
-- 人情在我隨多寡，世態從他自短長。
-- 只告天公乞安樂，百年隨分老農桑。
+- 我生胸次不塵埃，不學兒曹剛自媒。
+- 詩料雖憑風月製，宦途還聽鬼神開。
+- 十年教養猷初壯，半世功名念已灰。
+- 安得金鑾有清問，賈生何事未歸來。
 
 ## 拼音
 
-- wo3 sheng1 bu4 jie3 mi4 guan1 shang0 ， man3 mu4 feng1 bo1 qi2 zi4 shang1 。
-- chu3 quan4 bu4 kan1 gong4 lu3 bi4 ， sha1 chou2 na4 jie3 zu2 jun1 liang2 。
-- ren2 qing2 zai4 wo3 sui2 duo1 gua3 ， shi4 tai4 cong2 ta1 zi4 duan3 chang2 。
-- zhi1 gao4 tian1 gong1 qi3 an1 le4 ， bai3 nian2 sui2 fen1 lao3 nong2 sang1 。
+- wo3 sheng1 xiong1 ci4 bu4 chen2 ai1 ， bu4 xue2 er2 cao2 gang1 zi4 mei2 。
+- shi1 liao4 sui1 ping2 feng1 yue4 zhi4 ， huan4 tu2 huan2 ting1 gui3 shen2 kai1 。
+- shi2 nian2 jiao4 yang3 you2 chu1 zhuang4 ， ban4 shi4 gong1 ming2 nian4 yi3 hui1 。
+- an1 de2 jin1 luan2 you3 qing1 wen4 ， jia3 sheng1 he2 shi4 wei4 gui1 lai2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: gong-ci
 author: 薛逢
 authorPinyin: xue1 feng2
 authorSlug: xue-feng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

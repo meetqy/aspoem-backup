@@ -6,21 +6,21 @@ titleSlug: shan-zi-shi-qi-er-liu
 author: 李石
 authorPinyin: li3 shi2
 authorSlug: li-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 功德海中遊戲，菩提樹下清凉。
-- 只有登山一醉，嘯聲分付孫郎。
+- 小小愚民豈易欺，士夫妄論似相知。
+- 業書若上天盤秤，當用崑崙作秤鎚。
 
 ## 拼音
 
-- gong1 de2 hai3 zhong1 you2 xi4 ， pu2 ti2 shu4 xia4 qing1 liang2 。
-- zhi3 you3 deng1 shan1 yi2 zui4 ， xiao4 sheng1 fen1 fu4 sun1 lang2 。
+- xiao3 xiao3 yu2 min2 qi3 yi4 qi1 ， shi4 fu1 wang4 lun4 si4 xiang1 zhi1 。
+- ye4 shu1 ruo4 shang4 tian1 pan2 cheng4 ， dang1 yong4 kun1 lun2 zuo4 cheng4 chui2 。
 
 ## 注释
 

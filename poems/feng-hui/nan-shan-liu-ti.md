@@ -6,10 +6,10 @@ titleSlug: nan-shan-liu-ti
 author: 馮晦
 authorPinyin: feng2 hui4
 authorSlug: feng-hui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

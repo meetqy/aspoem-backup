@@ -9,20 +9,16 @@ authorSlug: fang-gan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 弟子已攀桂，先生猶臥雲。
-- 把得新詩草裏論。
-- 枯井夜聞鄰果落，廢巢寒見別禽來。
+- 巖溜噴空晴似雨，林蘿礙日夏多寒。
 
 ## 拼音
 
-- di4 zi3 yi3 pan1 gui4 ， xian1 sheng0 you2 wo4 yun2 。
-- ba3 de2 xin1 shi1 cao3 li3 lun4 。
-- ku1 jing3 ye4 wen2 lin2 guo3 luo4 ， fei4 chao2 han2 jian4 bie2 qin2 lai2 。
+- yan2 liu1 pen1 kong1 qing2 si4 yu3 ， lin2 luo2 ai4 ri4 xia4 duo1 han2 。
 
 ## 注释
 

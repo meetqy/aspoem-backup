@@ -6,21 +6,21 @@ titleSlug: chun-ci-qi-jiu
 author: 毛滂
 authorPinyin: mao2 pang1
 authorSlug: mao-pang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 曉光開繡幄，晴色上金除。
-- 初進春衣窄，猶應澣濯餘。
+- 雪纔盈尺雲陰解，風不鳴條雨塊完。
+- 春力急催冬事退，君王寛政不恒寒。
 
 ## 拼音
 
-- xiao3 guang1 kai1 xiu4 wo4 ， qing2 se4 shang4 jin1 chu2 。
-- chu1 jin4 chun1 yi1 zhai3 ， you2 ying1 huan4 zhuo2 yu2 。
+- xue3 cai2 ying2 chi3 yun2 yin1 jie3 ， feng1 bu4 ming2 tiao2 yu3 kuai4 wan2 。
+- chun1 li4 ji2 cui1 dong1 shi4 tui4 ， jun1 wang2 kuan1 zheng4 bu4 heng2 han2 。
 
 ## 注释
 

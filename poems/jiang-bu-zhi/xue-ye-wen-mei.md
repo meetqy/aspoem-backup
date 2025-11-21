@@ -6,10 +6,10 @@ titleSlug: xue-ye-wen-mei
 author: 姜補之
 authorPinyin: jiang1 bu3 zhi1
 authorSlug: jiang-bu-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

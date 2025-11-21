@@ -6,10 +6,10 @@ titleSlug: you-wu-xi
 author: 徐自明
 authorPinyin: xu2 zi4 ming2
 authorSlug: xu-zi-ming
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: si-yue-shi-qi-ri-feng-an-ren-zong-huang-di-yu-rong-wu-jing-ling-xiao-
 author: 蔡襄
 authorPinyin: cai4 xiang1
 authorSlug: cai-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

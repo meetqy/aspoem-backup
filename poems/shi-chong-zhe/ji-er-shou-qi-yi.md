@@ -6,10 +6,10 @@ titleSlug: ji-er-shou-qi-yi
 author: 釋崇哲
 authorPinyin: shi4 chong2 zhe2
 authorSlug: shi-chong-zhe
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

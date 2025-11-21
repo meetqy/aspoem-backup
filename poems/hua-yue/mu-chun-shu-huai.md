@@ -6,25 +6,25 @@ titleSlug: mu-chun-shu-huai
 author: 華岳
 authorPinyin: hua2 yue4
 authorSlug: hua-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一年春事已差池，又見楊花貼水飛。
-- 梁燕不憂驚午枕，箔蠶生怕誤春衣。
-- 景逢佳處須行樂，事到難時且式微。
-- 幸有黄雞并濁酒，且和風月醉柴扉。
+- 買春無計托花神，費盡榆錢不計緡。
+- 風絮飛成三徑雪，雨犂翻動一園春。
+- 有心報國從招禍，無相封侯莫怨貧。
+- 試問專壇與分社，予何人彼亦何人。
 
 ## 拼音
 
-- yi4 nian2 chun1 shi4 yi3 cha1 chi2 ， you4 jian4 yang2 hua1 tie1 shui3 fei1 。
-- liang2 yan4 bu4 you1 jing1 wu3 zhen3 ， bo2 can2 sheng1 pa4 wu4 chun1 yi1 。
-- jing3 feng2 jia1 chu3 xu1 xing2 le4 ， shi4 dao4 nan2 shi2 qie3 shi4 wei1 。
-- xing4 you3 huang2 ji1 bing4 zhuo2 jiu3 ， qie3 he2 feng1 yue4 zui4 chai2 fei1 。
+- mai3 chun1 wu2 ji4 tuo1 hua1 shen2 ， fei4 jin4 yu2 qian2 bu2 ji4 min2 。
+- feng1 xu4 fei1 cheng2 san1 jing4 xue3 ， yu3 li2 fan1 dong4 yi4 yuan2 chun1 。
+- you3 xin1 bao4 guo2 cong2 zhao1 huo4 ， wu2 xiang1 feng1 hou2 mo4 yuan4 pin2 。
+- shi4 wen4 zhuan1 tan2 yu3 fen1 she4 ， yu3 he2 ren2 bi3 yi4 he2 ren2 。
 
 ## 注释
 

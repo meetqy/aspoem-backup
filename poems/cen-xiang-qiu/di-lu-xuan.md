@@ -6,10 +6,10 @@ titleSlug: di-lu-xuan
 author: 岑象求
 authorPinyin: cen2 xiang4 qiu2
 authorSlug: cen-xiang-qiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

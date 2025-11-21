@@ -6,10 +6,10 @@ titleSlug: ju
 author: 宋公愿
 authorPinyin: song4 gong1 yuan4
 authorSlug: song-gong-yuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

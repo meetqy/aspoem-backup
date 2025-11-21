@@ -6,25 +6,21 @@ titleSlug: ji-fu-yi-ren
 author: 張詠
 authorPinyin: zhang1 yong3
 authorSlug: zhang-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 鷗鷺憐疏野，朝昏繞戶飛。
-- 有誰知此意，獨立對斜暉。
-- 落葉堆荒徑，澄泉照白衣。
-- 聖郡方急善，應好下魚磯。
+- 當年失脚下魚磯，苦爲明朝未得歸。
+- 寄語巢由莫相笑，此心不是愛輕肥。
 
 ## 拼音
 
-- ou1 lu4 lian2 shu1 ye3 ， chao2 hun1 rao4 hu4 fei1 。
-- you3 shui2 zhi1 ci3 yi4 ， du2 li4 dui4 xie2 hui1 。
-- luo4 ye4 dui1 huang1 jing4 ， cheng2 quan2 zhao4 bai2 yi1 。
-- sheng4 jun4 fang1 ji2 shan4 ， ying1 hao3 xia4 yu2 ji1 。
+- dang1 nian2 shi1 jiao3 xia4 yu2 ji1 ， ku3 wei2 ming2 chao2 wei4 de2 gui1 。
+- ji4 yu3 chao2 you2 mo4 xiang1 xiao4 ， ci3 xin1 bu2 shi4 ai4 qing1 fei2 。
 
 ## 注释
 

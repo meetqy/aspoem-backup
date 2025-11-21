@@ -6,10 +6,10 @@ titleSlug: hai-chan
 author: 邵桂子
 authorPinyin: shao4 gui4 zi3
 authorSlug: shao-gui-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

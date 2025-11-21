@@ -6,25 +6,33 @@ titleSlug: hu-qiu
 author: 孫覿
 authorPinyin: sun1 di2
 authorSlug: sun-di
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 夢裏清游一瞬間，苔留屐齒尚班班。
-- 千章古木禿如赭，百尺老蛟寒跧。
-- 徑欲乘桴蹈東海，那能拄笏望西山。
-- 人間俯仰成今古，青冢累累鶴未還。
+- 冬溫陽久亢，一雪意頗快。
+- 乘興泛扁舟，出郭信如邁。
+- 放棹得虎丘，恍然銀色界。
+- 瑤山夾細徑，瓊樹偃曲蓋。
+- 引步到層樓，極目吳城隘。
+- 飛鸞翔空中，千峰冪天外。
+- 暗虛雲可凌，寒重酒易解。
+- 羣兒慶老翁，于此氣不憊。
 
 ## 拼音
 
-- meng4 li3 qing1 you2 yi2 shun4 jian4 ， tai2 liu2 ji1 chi3 shang4 ban1 ban1 。
-- qian1 zhang1 gu3 mu4 tu1 ru2 zhe3 ， bai3 chi3 lao3 jiao1 han2 quan2 。
-- jing4 yu4 cheng2 fu2 dao3 dong1 hai3 ， na4 neng2 zhu3 hu4 wang4 xi1 shan1 。
-- ren2 jian4 fu3 yang3 cheng2 jin1 gu3 ， qing1 zhong3 lei2 lei2 he4 wei4 huan2 。
+- dong1 wen1 yang2 jiu3 kang4 ， yi4 xue3 yi4 po1 kuai4 。
+- cheng2 xing1 fan4 pian1 zhou1 ， chu1 guo1 xin4 ru2 mai4 。
+- fang4 zhao4 de2 hu3 qiu1 ， huang3 ran2 yin2 se4 jie4 。
+- yao2 shan1 jia1 xi4 jing4 ， qiong2 shu4 yan3 qu3 gai4 。
+- yin3 bu4 dao4 ceng2 lou2 ， ji2 mu4 wu2 cheng2 ai4 。
+- fei1 luan2 xiang2 kong1 zhong1 ， qian1 feng1 mi4 tian1 wai4 。
+- an4 xu1 yun2 ke3 ling2 ， han2 zhong4 jiu3 yi4 jie3 。
+- qun2 er2 qing4 lao3 weng1 ， yu2 ci3 qi4 bu2 bei4 。
 
 ## 注释
 

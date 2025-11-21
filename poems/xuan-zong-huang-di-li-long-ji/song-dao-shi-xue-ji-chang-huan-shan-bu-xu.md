@@ -9,7 +9,7 @@ authorSlug: xuan-zong-huang-di-li-long-ji
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文

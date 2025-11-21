@@ -6,10 +6,10 @@ titleSlug: dang-yang-sheng-chu
 author: 趙夷夫
 authorPinyin: zhao4 yi2 fu1
 authorSlug: zhao-yi-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

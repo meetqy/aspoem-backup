@@ -6,9 +6,9 @@ titleSlug: tuo-su-gu-shan-dao-guan
 author: 邵棠
 authorPinyin: shao4 tang2
 authorSlug: shao-tang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

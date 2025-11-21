@@ -6,10 +6,10 @@ titleSlug: ci-jia-miao
 author: 趙淮
 authorPinyin: zhao4 huai2
 authorSlug: zhao-huai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,7 +1,7 @@
 ---
 id: bai-ju-yi-gan-shi
-title: 感時
-titlePinyin: gan3 shi2
+title: 感事
+titlePinyin: gan3 shi4
 titleSlug: gan-shi
 author: 白居易
 authorPinyin: bai2 ju1 yi4
@@ -9,40 +9,26 @@ authorSlug: bai-ju-yi
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 朝見日上天，暮見日入地。
-- 不覺明鏡中，忽年三十四。
-- 勿言身未老，冉冉行將至。
-- 白髮雖未生，朱顏已先悴。
-- 人生詎幾何，在世猶如寄。
-- 雖有七十期，十人無一二。
-- 今我猶未悟，往往不適意。
-- 胡爲方寸間，不貯浩然氣。
-- 貧賤非不惡，道在何足避。
-- 富貴非不愛，時來當自致。
-- 所以達人心，外物不能累。
-- 唯當飲美酒，終日陶陶醉。
-- 斯言勝金玉，佩服無失墜。
+- 服氣崔常侍，燒丹鄭舍人。
+- 常期生羽翼，那忽化灰塵。
+- 每遇淒涼事，還思潦倒身。
+- 唯知趂杯酒，不解鍊金銀。
+- 睡適三尸性，慵安五藏神。
+- 無憂亦無喜，六十六年春。
 
 ## 拼音
 
-- chao2 jian4 ri4 shang4 tian1 ， mu4 jian4 ri4 ru4 di4 。
-- bu4 jue2 ming2 jing4 zhong1 ， hu1 nian2 san1 shi2 si4 。
-- wu4 yan2 shen1 wei4 lao3 ， ran3 ran3 xing2 jiang1 zhi4 。
-- bai2 fa4 sui1 wei4 sheng1 ， zhu1 yan2 yi3 xian1 cui4 。
-- ren2 sheng1 ju4 ji1 he2 ， zai4 shi4 you2 ru2 ji4 。
-- sui1 you3 qi1 shi2 qi1 ， shi2 ren2 wu2 yi1 er4 。
-- jin1 wo3 you2 wei4 wu4 ， wang3 wang3 bu2 shi4 yi4 。
-- hu2 wei2 fang1 cun4 jian4 ， bu2 zhu4 hao4 ran2 qi4 。
-- pin2 jian4 fei1 bu2 e4 ， dao4 zai4 he2 zu2 bi4 。
-- fu4 gui4 fei1 bu2 ai4 ， shi2 lai2 dang1 zi4 zhi4 。
-- suo3 yi3 da2 ren2 xin1 ， wai4 wu4 bu4 neng2 lei4 。
-- wei2 dang1 yin3 mei3 jiu3 ， zhong1 ri4 tao2 tao2 zui4 。
-- si1 yan2 sheng4 jin1 yu4 ， pei4 fu2 wu2 shi1 zhui4 。
+- fu2 qi4 cui1 chang2 shi4 ， shao1 dan1 zheng4 she4 ren2 。
+- chang2 qi1 sheng1 yu3 yi4 ， na4 hu1 hua4 hui1 chen2 。
+- mei3 yu4 qi1 liang2 shi4 ， huan2 si1 liao2 dao3 shen1 。
+- wei2 zhi1 chen4 bei1 jiu3 ， bu4 jie3 lian4 jin1 yin2 。
+- shui4 shi4 san1 shi1 xing4 ， yong1 an1 wu3 cang2 shen2 。
+- wu2 you1 yi4 wu2 xi3 ， liu4 shi2 liu4 nian2 chun1 。
 
 ## 注释
 

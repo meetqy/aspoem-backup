@@ -6,10 +6,10 @@ titleSlug: lu-xiang-ting
 author: 林肇
 authorPinyin: lin2 zhao4
 authorSlug: lin-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

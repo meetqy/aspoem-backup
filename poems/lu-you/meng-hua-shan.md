@@ -6,21 +6,25 @@ titleSlug: meng-hua-shan
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 古松偃蹇谷谽谺，太華峰前野老家。
-- 久客未歸丹竈冷，碧桃八十一番花。
+- 路入河潼喜著鞭，華山忽到帽裙邊。
+- 洗頭盆上雲生壁，腰带鞓前月滿川。
+- 丹竈故基誰復識，白馿遺迹但相傳。
+- 夢魂妄想君無笑，尚擬今生得地仙。
 
 ## 拼音
 
-- gu3 song1 yan3 jian3 gu3 han1 xia1 ， tai4 hua2 feng1 qian2 ye3 lao3 jia1 。
-- jiu3 ke4 wei4 gui1 dan1 zao4 leng3 ， bi4 tao2 ba1 shi2 yi4 fan1 hua1 。
+- lu4 ru4 he2 tong2 xi3 zhu4 bian1 ， hua2 shan1 hu1 dao4 mao4 qun2 bian1 。
+- xi3 tou2 pen2 shang4 yun2 sheng1 bi4 ， yao1 dai4 ting1 qian2 yue4 man3 chuan1 。
+- dan1 zao4 gu4 ji1 shui2 fu4 shi2 ， bai2 lu2 yi2 ji4 dan4 xiang1 chuan2 。
+- meng4 hun2 wang4 xiang3 jun1 wu2 xiao4 ， shang4 ni3 jin1 sheng1 de2 di4 xian1 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: ci-yun-jia-zhong-yuan-huan-fu-xi-wei-gao-zhi-shen
 author: 汪藻
 authorPinyin: wang1 zao3
 authorSlug: wang-zao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

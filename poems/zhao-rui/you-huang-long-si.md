@@ -6,10 +6,10 @@ titleSlug: you-huang-long-si
 author: 趙瑞
 authorPinyin: zhao4 rui4
 authorSlug: zhao-rui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

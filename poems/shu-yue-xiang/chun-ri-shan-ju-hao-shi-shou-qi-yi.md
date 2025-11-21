@@ -1,30 +1,30 @@
 ---
 id: shu-yue-xiang-chun-ri-shan-ju-hao-shi-shou-qi-yi
-title: 春日山居好十首  其一
-titlePinyin: chun1 ri4 shan1 ju1 hao3 shi2 shou3     qi2 yi1
+title: 春日山居好十首  其一○
+titlePinyin: chun1 ri4 shan1 ju1 hao3 shi2 shou3     qi2 yi1 ○
 titleSlug: chun-ri-shan-ju-hao-shi-shou-qi-yi
 author: 舒岳祥
 authorPinyin: shu1 yue4 xiang2
 authorSlug: shu-yue-xiang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 春日山居好，初春草色回。
-- 小橋帘映柳，野店燭簪梅。
-- 箭茁穿沙出，蘭芽带雪開。
-- 從今排日去，連月覆樽罍。
+- 春日山居好，光風草上浮。
+- 溟濛晨靄散，澹蕩夕陽收。
+- 發軔梅花報，攀轅芍藥留。
+- 春來亦何好，惟有白添頭。
 
 ## 拼音
 
-- chun1 ri4 shan1 ju1 hao3 ， chu1 chun1 cao3 se4 hui2 。
-- xiao3 qiao2 lian2 ying4 liu3 ， ye3 dian4 zhu2 zan1 mei2 。
-- jian4 zhuo2 chuan1 sha1 chu1 ， lan2 ya2 dai4 xue3 kai1 。
-- cong2 jin1 pai2 ri4 qu4 ， lian2 yue4 fu4 zun1 lei2 。
+- chun1 ri4 shan1 ju1 hao3 ， guang1 feng1 cao3 shang4 fu2 。
+- ming2 meng2 chen2 ai3 san4 ， dan4 dang4 xi1 yang2 shou1 。
+- fa1 ren4 mei2 hua1 bao4 ， pan1 yuan2 shao2 yao4 liu2 。
+- chun1 lai2 yi4 he2 hao3 ， wei2 you3 bai2 tian1 tou2 。
 
 ## 注释
 

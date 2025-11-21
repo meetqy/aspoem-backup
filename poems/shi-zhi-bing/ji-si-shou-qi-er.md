@@ -6,10 +6,10 @@ titleSlug: ji-si-shou-qi-er
 author: 釋知昺
 authorPinyin: shi4 zhi1 bing3
 authorSlug: shi-zhi-bing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

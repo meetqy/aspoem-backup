@@ -1,7 +1,7 @@
 ---
 id: du-fu-ying-wu
-title: 營屋
-titlePinyin: ying2 wu1
+title: 鸚鵡
+titlePinyin: ying1 wu3
 titleSlug: ying-wu
 author: 杜甫
 authorPinyin: du4 fu3
@@ -9,34 +9,22 @@ authorSlug: du-fu
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 我有陰江竹，能令朱夏寒。
-- 陰通積水內，高入浮雲端。
-- 甚疑鬼物憑，不顧翦伐殘。
-- 東偏若面勢，戶牖永可安。
-- 愛惜已六載，茲晨去千竿。
-- 蕭蕭見白日，洶洶開奔湍。
-- 度堂匪華麗，養拙異考槃。
-- 草茅雖薙葺，衰疾方少寬。
-- 洗然順所適，此足代加餐。
-- 寂無斤斧響，庶遂憩息歡。
+- 鸚鵡含愁思，聰明憶別離。
+- 翠衿渾短盡，紅觜漫多知。
+- 未有開籠日，空殘舊宿枝。
+- 世人憐復損，何用羽毛奇。
 
 ## 拼音
 
-- wo3 you3 yin1 jiang1 zhu2 ， neng2 ling4 zhu1 xia4 han2 。
-- yin1 tong1 ji1 shui3 nei4 ， gao1 ru4 fu2 yun2 duan1 。
-- shen4 yi2 gui3 wu4 ping2 ， bu2 gu4 jian3 fa2 can2 。
-- dong1 pian1 ruo4 mian4 shi4 ， hu4 you3 yong3 ke3 an1 。
-- ai4 xi1 yi3 liu4 zai4 ， zi1 chen2 qu4 qian1 gan1 。
-- xiao1 xiao1 jian4 bai2 ri4 ， xiong1 xiong1 kai1 ben1 tuan1 。
-- du4 tang2 fei3 hua2 li2 ， yang3 zhuo1 yi4 kao3 pan2 。
-- cao3 mao2 sui1 ti4 qi4 ， shuai1 ji2 fang1 shao3 kuan1 。
-- xi3 ran2 shun4 suo3 shi4 ， ci3 zu2 dai4 jia1 can1 。
-- ji4 wu2 jin1 fu3 xiang3 ， shu4 sui4 qi4 xi1 huan1 。
+- ying1 wu3 han2 chou2 si1 ， cong1 ming2 yi4 bie2 li2 。
+- cui4 jin1 hun2 duan3 jin4 ， hong2 zi1 man4 duo1 zhi1 。
+- wei4 you3 kai1 long2 ri4 ， kong1 can2 jiu4 su4 zhi1 。
+- shi4 ren2 lian2 fu4 sun3 ， he2 yong4 yu3 mao2 qi2 。
 
 ## 注释
 

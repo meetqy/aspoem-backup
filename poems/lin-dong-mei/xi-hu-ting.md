@@ -6,10 +6,10 @@ titleSlug: xi-hu-ting
 author: 林東美
 authorPinyin: lin2 dong1 mei3
 authorSlug: lin-dong-mei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -1,26 +1,26 @@
 ---
 id: chen-nan-jin-dan-shi-jue-qi-liu
-title: 金丹詩訣  其六
-titlePinyin: jin1 dan1 shi1 jue2     qi2 liu4
+title: 金丹詩訣  其六○
+titlePinyin: jin1 dan1 shi1 jue2     qi2 liu4 ○
 titleSlug: jin-dan-shi-jue-qi-liu
 author: 陳楠
 authorPinyin: chen2 nan2
 authorSlug: chen-nan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 五轉方成白馬芽，卻教六賊運河車。
-- 五行俱備雷聲震，正好登樓看汞花。
+- 捉將百脈倒歸源，自會天然汞見鉛。
+- 大地山河皆至寶，誰知身裏覓先天。
 
 ## 拼音
 
-- wu3 zhuan3 fang1 cheng2 bai2 ma3 ya2 ， que4 jiao4 liu4 zei2 yun4 he2 ju1 。
-- wu3 xing2 ju4 bei4 lei2 sheng1 zhen4 ， zheng4 hao3 deng1 lou2 kan4 gong3 hua1 。
+- zhuo1 jiang1 bai3 mai4 dao3 gui1 yuan2 ， zi4 hui4 tian1 ran2 gong3 jian4 qian1 。
+- da4 di4 shan1 he2 jie1 zhi4 bao3 ， shui2 zhi1 shen1 li3 mi4 xian1 tian1 。
 
 ## 注释
 

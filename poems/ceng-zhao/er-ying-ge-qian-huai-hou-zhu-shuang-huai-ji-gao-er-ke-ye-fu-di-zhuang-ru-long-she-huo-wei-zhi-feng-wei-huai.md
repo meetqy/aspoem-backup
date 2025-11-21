@@ -6,10 +6,10 @@ titleSlug: er-ying-ge-qian-huai-hou-zhu-shuang-huai-ji-gao-er-ke-ye-fu-di-zhuang
 author: 曾肇
 authorPinyin: ceng2 zhao4
 authorSlug: ceng-zhao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,21 @@ titleSlug: tan-mei
 author: 楊萬里
 authorPinyin: yang2 wan4 li3
 authorSlug: yang-wan-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 山間幽步不勝奇，政是深寒淺暮時。
-- 一樹梅花開一朶，惱人偏在最高枝。
+- 春傍梅梢瘦處回，小花未忍折將來。
+- 却緣久住成幽事，剩看南枝一度開。
 
 ## 拼音
 
-- shan1 jian4 you1 bu4 bu2 sheng4 qi2 ， zheng4 shi4 shen1 han2 qian3 mu4 shi2 。
-- yi2 shu4 mei2 hua1 kai1 yi4 duo3 ， nao3 ren2 pian1 zai4 zui4 gao1 zhi1 。
+- chun1 bang4 mei2 shao1 shou4 chu3 hui2 ， xiao3 hua1 wei4 ren3 zhe2 jiang1 lai2 。
+- que4 yuan2 jiu3 zhu4 cheng2 you1 shi4 ， sheng4 kan4 nan2 zhi1 yi2 du4 kai1 。
 
 ## 注释
 

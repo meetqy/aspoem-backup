@@ -6,10 +6,10 @@ titleSlug: zheng-yue-wu-ri-cong-de-jian-dai-fu-you-lu-shan-sheng-jing-zuo-zhong-
 author: 守億
 authorPinyin: shou3 yi4
 authorSlug: shou-yi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,21 @@ titleSlug: qing-ming-gan-shang
 author: 戴復古
 authorPinyin: dai4 fu4 gu3
 authorSlug: dai-fu-gu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 一笠戴春雨，愁來不可遮。
-- 清明思上塚，昨夜夢還家。
-- 歸興隨流水，傷心對落花。
-- 晉原松下淚，沾洒楚天涯。
+- 客中今日最傷心，憶著家山松樹林。
+- 白石岡頭聞杜宇，對他人墓亦沾巾。
 
 ## 拼音
 
-- yi2 li4 dai4 chun1 yu3 ， chou2 lai2 bu4 ke3 zhe1 。
-- qing1 ming2 si1 shang4 zhong3 ， zuo2 ye4 meng4 huan2 jia1 。
-- gui1 xing1 sui2 liu2 shui3 ， shang1 xin1 dui4 luo4 hua1 。
-- jin4 yuan2 song1 xia4 lei4 ， zhan1 sa3 chu3 tian1 ya2 。
+- ke4 zhong1 jin1 ri4 zui4 shang1 xin1 ， yi4 zhu4 jia1 shan1 song1 shu4 lin2 。
+- bai2 shi2 gang1 tou2 wen2 du4 yu3 ， dui4 ta1 ren2 mu4 yi4 zhan1 jin1 。
 
 ## 注释
 

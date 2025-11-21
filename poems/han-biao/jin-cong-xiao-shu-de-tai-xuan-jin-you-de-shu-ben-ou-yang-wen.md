@@ -6,10 +6,10 @@ titleSlug: jin-cong-xiao-shu-de-tai-xuan-jin-you-de-shu-ben-ou-yang-wen
 author: 韓淲
 authorPinyin: han2 biao1
 authorSlug: han-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ti-hui-shan-si-zhen-shang-ting-liu-shang
 author: 施大任
 authorPinyin: shi1 da4 ren4
 authorSlug: shi-da-ren
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

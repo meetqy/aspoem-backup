@@ -6,10 +6,10 @@ titleSlug: xia-zhang-an-du-du-qi-shou-qi-liu
 author: 姚寬
 authorPinyin: yao2 kuan1
 authorSlug: yao-kuan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

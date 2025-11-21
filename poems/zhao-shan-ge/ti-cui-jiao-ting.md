@@ -6,10 +6,10 @@ titleSlug: ti-cui-jiao-ting
 author: 趙善革
 authorPinyin: zhao4 shan4 ge2
 authorSlug: zhao-shan-ge
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

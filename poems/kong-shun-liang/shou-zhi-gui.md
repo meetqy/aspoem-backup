@@ -6,10 +6,10 @@ titleSlug: shou-zhi-gui
 author: 孔舜亮
 authorPinyin: kong3 shun4 liang4
 authorSlug: kong-shun-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

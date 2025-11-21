@@ -6,25 +6,21 @@ titleSlug: xue
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 但苦奇寒惱病翁，豈知上瑞報年豐。
-- 一庭不掃待新月，萬壑盡平號斷鴻。
-- 繭紙欲書先研凍，羽觴纔舉已尊空。
-- 若耶溪上梅千樹，欠我今年繫短篷。
+- 一夕山陰道，真成白玉京。
+- 衰殘失壯觀，擁被聽窗聲。
 
 ## 拼音
 
-- dan4 ku3 qi2 han2 nao3 bing4 weng1 ， qi3 zhi1 shang4 rui4 bao4 nian2 feng1 。
-- yi4 ting2 bu4 sao3 dai4 xin1 yue4 ， wan4 he4 jin4 ping2 hao4 duan4 hong2 。
-- jian3 zhi3 yu4 shu1 xian1 yan2 dong4 ， yu3 shang1 cai2 ju3 yi3 zun1 kong1 。
-- ruo4 ye1 xi1 shang4 mei2 qian1 shu4 ， qian4 wo3 jin1 nian2 xi4 duan3 peng2 。
+- yi4 xi1 shan1 yin1 dao4 ， zhen1 cheng2 bai2 yu4 jing1 。
+- shuai1 can2 shi1 zhuang4 guan1 ， yong1 bei4 ting1 chuang1 sheng1 。
 
 ## 注释
 

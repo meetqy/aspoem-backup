@@ -6,10 +6,10 @@ titleSlug: he-song-si-zong-chu-yue-yang-shou-wu-jue-qi-si
 author: 史堯弼
 authorPinyin: shi3 yao2 bi4
 authorSlug: shi-yao-bi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

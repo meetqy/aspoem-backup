@@ -6,10 +6,10 @@ titleSlug: zhan-shi-xian-lao-zhang-chong-mi-wei-zeng-shi-you-zhang-lao-zhi-zi-xi
 author: 杜範
 authorPinyin: du4 fan4
 authorSlug: du-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

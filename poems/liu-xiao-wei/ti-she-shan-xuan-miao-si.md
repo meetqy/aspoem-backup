@@ -6,10 +6,10 @@ titleSlug: ti-she-shan-xuan-miao-si
 author: 劉孝韙
 authorPinyin: liu2 xiao4 wei3
 authorSlug: liu-xiao-wei
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: gao-zong-jiao-qian-chao-xian-jing-ling-gong-er-shi-yi-shou-huan-wei-y
 author: 郊廟朝會歌辭
 authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
 authorSlug: jiao-miao-chao-hui-ge-ci
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 我后臨饗，奠幣攸畢。
-- 式旋其趨，榘度有式。
-- 禮容齋莊，孝思純實。
-- 天休滋至，時萬時億。
+- 帝臨閟庭，逆釐上靈。
+- 神羯安坐，肅若有承。
+- 嘉觴既申，德聞惟馨。
+- 靈光留俞，祚我億齡。
 
 ## 拼音
 
-- wo3 hou4 lin2 xiang3 ， dian4 bi4 you1 bi4 。
-- shi4 xuan2 qi2 qu1 ， ju3 du4 you3 shi4 。
-- li3 rong2 zhai1 zhuang1 ， xiao4 si1 chun2 shi2 。
-- tian1 xiu1 zi1 zhi4 ， shi2 wan4 shi2 yi4 。
+- di4 lin2 bi4 ting2 ， ni4 li2 shang4 ling2 。
+- shen2 jie2 an1 zuo4 ， su4 ruo4 you3 cheng2 。
+- jia1 shang1 ji4 shen1 ， de2 wen2 wei2 xin1 。
+- ling2 guang1 liu2 yu2 ， zuo4 wo3 yi4 ling2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: deng-gao-liang-shan-ye-mu
 author: 陳廷光
 authorPinyin: chen2 ting2 guang1
 authorSlug: chen-ting-guang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

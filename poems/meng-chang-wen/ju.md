@@ -6,10 +6,10 @@ titleSlug: ju
 author: 孟長文
 authorPinyin: meng4 chang2 wen2
 authorSlug: meng-chang-wen
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

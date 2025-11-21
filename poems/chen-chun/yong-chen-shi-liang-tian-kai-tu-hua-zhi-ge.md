@@ -6,10 +6,10 @@ titleSlug: yong-chen-shi-liang-tian-kai-tu-hua-zhi-ge
 author: 陳淳
 authorPinyin: chen2 chun2
 authorSlug: chen-chun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,21 +6,25 @@ titleSlug: gan-xi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 常記東園按舞時，春風一架晚薔薇。
-- 尊前不展鴛鴦錦，只就殘紅作地衣。
+- 三著朝冠入上都，黄封頻醉渴相如。
+- 馬慵立仗寧辭斥，蘭偶當門敢怨鋤。
+- 富貴尚思還此笏，衰殘故合愛吾廬。
+- 燈前目力依然在，且盡山房萬卷書。
 
 ## 拼音
 
-- chang2 ji4 dong1 yuan2 an4 wu3 shi2 ， chun1 feng1 yi2 jia4 wan3 qiang2 wei1 。
-- zun1 qian2 bu4 zhan3 yuan1 yang1 jin3 ， zhi1 jiu4 can2 hong2 zuo4 di4 yi1 。
+- san1 zhu4 chao2 guan1 ru4 shang4 dou1 ， huang2 feng1 bin1 zui4 ke3 xiang1 ru2 。
+- ma3 yong1 li4 zhang4 ning2 ci2 chi4 ， lan2 ou3 dang1 men2 gan3 yuan4 chu2 。
+- fu4 gui4 shang4 si1 huan2 ci3 hu4 ， shuai1 can2 gu4 he2 ai4 wu2 lu2 。
+- deng1 qian2 mu4 li4 yi1 ran2 zai4 ， qie3 jin4 shan1 fang2 wan4 juan4 shu1 。
 
 ## 注释
 

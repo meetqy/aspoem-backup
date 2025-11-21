@@ -6,10 +6,10 @@ titleSlug: shui-xian-hua
 author: 許開
 authorPinyin: xu1 kai1
 authorSlug: xu-kai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

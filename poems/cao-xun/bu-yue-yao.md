@@ -6,27 +6,25 @@ titleSlug: bu-yue-yao
 author: 曹勛
 authorPinyin: cao2 xun1
 authorSlug: cao-xun
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 
 ## 正文
 
-- 太清天宇清且高，皎然冰鑑懸層霄。
-- 絳河水淺閬風息，蟾光度景摇金鰲。
-- 仙人縱駕游八極，鳳簫歌吹鳴嘈嘈。
-- 星宮月殿風馬遠，珠華露濕旌旄冷。
-- 還虛按轡窺塵寰，波裏三山銀浪卷。
+- 琅玕轉景蒼虯立，露脚斜飛冷光濕。
+- 人歸芳草恨苕苕，劍珮生寒秋水澀。
+- 離離箕斗正相望，交流帳合金波入。
+- 風前摇袂思沉沉，雷雲不動蛟龍蟄。
 
 ## 拼音
 
-- tai4 qing1 tian1 yu3 qing1 qie3 gao1 ， jiao3 ran2 bing1 jian4 xuan2 ceng2 xiao1 。
-- jiang4 he2 shui3 qian3 lang4 feng1 xi1 ， chan2 guang1 du4 jing3 yao2 jin1 ao2 。
-- xian1 ren2 zong4 jia4 you2 ba1 ji2 ， feng4 xiao1 ge1 chui1 ming2 cao2 cao2 。
-- xing1 gong1 yue4 dian4 feng1 ma3 yuan3 ， zhu1 hua2 lu4 shi1 jing1 mao2 leng3 。
-- huan2 xu1 an4 pei4 kui1 chen2 huan2 ， bo1 li3 san1 shan1 yin2 lang4 juan4 。
+- lang2 gan1 zhuan3 jing3 cang1 qiu2 li4 ， lu4 jiao3 xie2 fei1 leng3 guang1 shi1 。
+- ren2 gui1 fang1 cao3 hen4 tiao2 tiao2 ， jian4 pei4 sheng1 han2 qiu1 shui3 se4 。
+- li2 li2 ji1 dou3 zheng4 xiang1 wang4 ， jiao1 liu2 zhang4 he2 jin1 bo1 ru4 。
+- feng1 qian2 yao2 mei4 si1 chen2 chen2 ， lei2 yun2 bu2 dong4 jiao1 long2 zhe2 。
 
 ## 注释
 

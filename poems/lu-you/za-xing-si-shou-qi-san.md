@@ -6,21 +6,21 @@ titleSlug: za-xing-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 漲水入我廬，萍葉黏半扉。
-- 日出水返壑，念汝何由歸。
+- 庖丁悟養生，輪扁議讀書。
+- 彼特一技爾，聖智有不如。
 
 ## 拼音
 
-- zhang3 shui3 ru4 wo3 lu2 ， ping2 ye4 nian2 ban4 fei1 。
-- ri4 chu1 shui3 fan3 he4 ， nian4 ru3 he2 you2 gui1 。
+- pao2 ding1 wu4 yang3 sheng1 ， lun2 bian3 yi4 du2 shu1 。
+- bi3 te4 yi2 ji4 er3 ， sheng4 zhi4 you3 bu4 ru2 。
 
 ## 注释
 

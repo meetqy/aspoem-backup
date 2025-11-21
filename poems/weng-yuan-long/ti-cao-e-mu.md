@@ -6,10 +6,10 @@ titleSlug: ti-cao-e-mu
 author: 翁元龍
 authorPinyin: weng1 yuan2 long2
 authorSlug: weng-yuan-long
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

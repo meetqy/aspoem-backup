@@ -6,41 +6,31 @@ titleSlug: zhu-jian-ting
 author: 歐陽修
 authorPinyin: ou1 yang2 xiu1
 authorSlug: ou-yang-xiu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 啾啾竹間鳥，日夕相嚶鳴。
-- 悠悠水中魚，出入藻與萍。
-- 水竹魚鳥家，伊誰作斯亭。
-- 翁來無車馬，非與彈弋并。
-- 潛者入深淵，飛者散縱橫。
-- 奈何翁屢來，浪使飛走驚。
-- 忘爾榮與利，脫爾冠與纓。
-- 還來尋魚鳥，傍此水竹行。
-- 鳥語弄蒼翠，魚遊翫清澄。
-- 而翁仍何爲，獨醉還自醒。
-- 三者各自適，要歸亦同情。
-- 翁乎知此樂，無厭日來登。
+- 高亭照初日，竹影凉蕭森。
+- 新篁漸解籜，翠色日已深。
+- 雨多苔莓青，幽徑無人尋。
+- 靜趣久迺得，暫來聊解襟。
+- 清風颯然生，鳴鳥送好音。
+- 佳時不易得，濁酒聊自斟。
+- 興盡即言返，生來期抱琴。
 
 ## 拼音
 
-- jiu1 jiu1 zhu2 jian4 niao3 ， ri4 xi1 xiang1 ying1 ming2 。
-- you1 you1 shui3 zhong1 yu2 ， chu1 ru4 zao3 yu3 ping2 。
-- shui3 zhu2 yu2 niao3 jia1 ， yi1 shui2 zuo4 si1 ting2 。
-- weng1 lai2 wu2 ju1 ma3 ， fei1 yu3 dan4 yi4 bing4 。
-- qian2 zhe3 ru4 shen1 yuan1 ， fei1 zhe3 san4 zong4 heng2 。
-- nai4 he2 weng1 lü3 lai2 ， lang4 shi3 fei1 zou3 jing1 。
-- wang4 er3 rong2 yu3 li4 ， tuo1 er3 guan1 yu3 ying1 。
-- huan2 lai2 xun2 yu2 niao3 ， bang4 ci3 shui3 zhu2 xing2 。
-- niao3 yu3 nong4 cang1 cui4 ， yu2 you2 wan2 qing1 cheng2 。
-- er2 weng1 reng2 he2 wei2 ， du2 zui4 huan2 zi4 xing3 。
-- san1 zhe3 ge4 zi4 shi4 ， yao4 gui1 yi4 tong2 qing2 。
-- weng1 hu1 zhi1 ci3 le4 ， wu2 yan4 ri4 lai2 deng1 。
+- gao1 ting2 zhao4 chu1 ri4 ， zhu2 ying3 liang2 xiao1 sen1 。
+- xin1 huang2 jian4 jie3 tuo4 ， cui4 se4 ri4 yi3 shen1 。
+- yu3 duo1 tai2 mei2 qing1 ， you1 jing4 wu2 ren2 xun2 。
+- jing4 qu4 jiu3 nai3 de2 ， zan4 lai2 liao2 jie3 jin1 。
+- qing1 feng1 sa4 ran2 sheng1 ， ming2 niao3 song4 hao3 yin1 。
+- jia1 shi2 bu2 yi4 de2 ， zhuo2 jiu3 liao2 zi4 zhen1 。
+- xing1 jin4 ji2 yan2 fan3 ， sheng1 lai2 qi1 bao4 qin2 。
 
 ## 注释
 

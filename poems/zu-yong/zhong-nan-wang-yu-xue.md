@@ -6,10 +6,10 @@ titleSlug: zhong-nan-wang-yu-xue
 author: 祖詠
 authorPinyin: zu3 yong3
 authorSlug: zu-yong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

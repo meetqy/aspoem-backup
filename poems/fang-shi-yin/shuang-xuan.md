@@ -6,10 +6,10 @@ titleSlug: shuang-xuan
 author: 方師尹
 authorPinyin: fang1 shi1 yin3
 authorSlug: fang-shi-yin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

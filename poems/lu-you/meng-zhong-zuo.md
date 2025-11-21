@@ -6,25 +6,25 @@ titleSlug: meng-zhong-zuo
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 拓地移屯過酒泉，第功圖像上凌烟。
-- 事權皂纛兼黄鉞，冨貴金貂映玉蟬。
-- 油築毬場飛騕褭，錦裁步障貯嬋娟。
-- 擁塗士女千層看，應記新豐舊少年。
+- 久向人間隠姓名，看花幾到武昌城。
+- 一壺春色常供醉，萬里烟波懶問程。
+- 斜日挂帆堤外影，便風擊鼓驛前聲。
+- 丈夫入手皆勛業，廊廟江湖未易評。
 
 ## 拼音
 
-- tuo4 di4 yi2 tun2 guo4 jiu3 quan2 ， di4 gong1 tu2 xiang4 shang4 ling2 yan1 。
-- shi4 quan2 zao4 dao4 jian1 huang2 yue4 ， fu4 gui4 jin1 diao1 ying4 yu4 chan2 。
-- you2 zhu4 qiu2 chang3 fei1 yao3 niao3 ， jin3 cai2 bu4 zhang4 zhu4 chan2 juan1 。
-- yong1 tu2 shi4 nü3 qian1 ceng2 kan4 ， ying1 ji4 xin1 feng1 jiu4 shao4 nian2 。
+- jiu3 xiang4 ren2 jian4 yin3 xing4 ming2 ， kan4 hua1 ji1 dao4 wu3 chang1 cheng2 。
+- yi4 hu2 chun1 se4 chang2 gong4 zui4 ， wan4 li3 yan1 bo1 lan3 wen4 cheng2 。
+- xie2 ri4 gua4 fan1 di1 wai4 ying3 ， bian4 feng1 ji1 gu3 yi4 qian2 sheng1 。
+- zhang4 fu0 ru4 shou3 jie1 xun1 ye4 ， lang2 miao4 jiang1 hu2 wei4 yi4 ping2 。
 
 ## 注释
 

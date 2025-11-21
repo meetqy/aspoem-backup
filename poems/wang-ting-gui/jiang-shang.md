@@ -6,25 +6,21 @@ titleSlug: jiang-shang
 author: 王庭珪
 authorPinyin: wang2 ting2 gui1
 authorSlug: wang-ting-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 倚杖江風起，呼船水面開。
-- 人從州觜渡，帆破浪頭來。
-- 月色共千里，天恩徧九垓。
-- 當年送客處，待看赤車回。
+- 沅陵春盡草萋萋，忽見扁舟繫柳堤。
+- 誰寄愁心與明月，肯隨君到夜郎溪。
 
 ## 拼音
 
-- yi3 zhang4 jiang1 feng1 qi3 ， hu1 chuan2 shui3 mian4 kai1 。
-- ren2 cong2 zhou1 zi1 du4 ， fan1 po4 lang4 tou2 lai2 。
-- yue4 se4 gong4 qian1 li3 ， tian1 en1 bian4 jiu3 gai1 。
-- dang1 nian2 song4 ke4 chu3 ， dai4 kan4 chi4 ju1 hui2 。
+- yuan2 ling2 chun1 jin4 cao3 qi1 qi1 ， hu1 jian4 pian1 zhou1 xi4 liu3 di1 。
+- shui2 ji4 chou2 xin1 yu3 ming2 yue4 ， ken3 sui2 jun1 dao4 ye4 lang2 xi1 。
 
 ## 注释
 

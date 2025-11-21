@@ -6,25 +6,25 @@ titleSlug: jun-ju
 author: 孔平仲
 authorPinyin: kong3 ping2 zhong4
 authorSlug: kong-ping-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 幕府多閒暇，城臺避鬰蒸。
-- 金杯揮落日，銀椀嚼寒冰。
-- 老婦歌猶好，雙鬟舞最能。
-- 深宵紅燭短，坐客醉忘興。
+- 促坐留賓醉，傳呼放晚衙。
+- 門庭少公事，節物正秋華。
+- 齋釀新篘美，官奴遠囗佳。
+- 歸時雖落月，銀蠟照紅紗。
 
 ## 拼音
 
-- mu4 fu3 duo1 xian2 xia2 ， cheng2 tai2 bi4 yu4 zheng1 。
-- jin1 bei1 hui1 luo4 ri4 ， yin2 wan3 jiao2 han2 bing1 。
-- lao3 fu4 ge1 you2 hao3 ， shuang1 huan2 wu3 zui4 neng2 。
-- shen1 xiao1 hong2 zhu2 duan3 ， zuo4 ke4 zui4 wang4 xing1 。
+- cu4 zuo4 liu2 bin1 zui4 ， chuan2 hu1 fang4 wan3 ya2 。
+- men2 ting2 shao3 gong1 shi4 ， jie2 wu4 zheng4 qiu1 hua2 。
+- zhai1 niang4 xin1 chou1 mei3 ， guan1 nu2 yuan3 wei2 jia1 。
+- gui1 shi2 sui1 luo4 yue4 ， yin2 la4 zhao4 hong2 sha1 。
 
 ## 注释
 

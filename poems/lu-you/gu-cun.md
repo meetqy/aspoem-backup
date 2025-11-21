@@ -6,25 +6,25 @@ titleSlug: gu-cun
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 老寄孤村裏，悠然卧曲肱。
-- 算貧先放鶴，嫌鬧併疏僧。
-- 古戍高秋笛，寒窗半夜燈。
-- 平生羞詭遇，多獲豈吾能。
+- 少年誤計落人間，晚卧孤村日掩關。
+- 小室易溫爐火省，幽窗常暗架書閑。
+- 梅橫籬落春初動，雲鬧川原雪尚慳。
+- 欲喚一藤同勝踐，恨無傑句壓溪山。
 
 ## 拼音
 
-- lao3 ji4 gu1 cun1 li3 ， you1 ran2 wo4 qu1 gong1 。
-- suan4 pin2 xian1 fang4 he4 ， xian2 nao4 bing4 shu1 seng1 。
-- gu3 shu4 gao1 qiu1 di2 ， han2 chuang1 ban4 ye4 deng1 。
-- ping2 sheng1 xiu1 gui3 yu4 ， duo1 huo4 qi3 wu2 neng2 。
+- shao4 nian2 wu4 ji4 luo4 ren2 jian4 ， wan3 wo4 gu1 cun1 ri4 yan3 guan1 。
+- xiao3 shi4 yi4 wen1 lu2 huo3 sheng3 ， you1 chuang1 chang2 an4 jia4 shu1 xian2 。
+- mei2 heng2 li2 luo4 chun1 chu1 dong4 ， yun2 nao4 chuan1 yuan2 xue3 shang4 qian1 。
+- yu4 huan4 yi4 teng2 tong2 sheng4 jian4 ， hen4 wu2 jie2 ju4 ya1 xi1 shan1 。
 
 ## 注释
 

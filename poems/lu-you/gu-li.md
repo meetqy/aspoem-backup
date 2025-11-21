@@ -6,25 +6,25 @@ titleSlug: gu-li
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 故里淳風比結繩，歸耕况遇歲豐登。
-- 已侵鐘漏行安往，略有園廬退可憑。
-- 萬事寧容愧天地，一心常若蹈淵冰。
-- 區區僻見君無怪，人固終身有不能。
+- 漏盡鐘鳴有夜行，幾人故里得歸耕。
+- 摧傷自喜消前業，疾恙天教學養生。
+- 鄰曲新傳秧馬式，房櫳靜聽緯車聲。
+- 芋魁菰首君無笑，老子看來是大烹。
 
 ## 拼音
 
-- gu4 li3 chun2 feng1 bi3 jie2 sheng2 ， gui1 geng1 kuang4 yu4 sui4 feng1 deng1 。
-- yi3 qin1 zhong1 lou4 xing2 an1 wang3 ， lüe4 you3 yuan2 lu2 tui4 ke3 ping2 。
-- wan4 shi4 ning2 rong2 kui4 tian1 di4 ， yi4 xin1 chang2 ruo4 dao3 yuan1 bing1 。
-- qu1 qu1 pi4 jian4 jun1 wu2 guai4 ， ren2 gu4 zhong1 shen1 you3 bu4 neng2 。
+- lou4 jin4 zhong1 ming2 you3 ye4 xing2 ， ji1 ren2 gu4 li3 de2 gui1 geng1 。
+- cui1 shang1 zi4 xi3 xiao1 qian2 ye4 ， ji2 yang4 tian1 jiao4 xue2 yang3 sheng1 。
+- lin2 qu3 xin1 chuan2 yang1 ma3 shi4 ， fang2 long2 jing4 ting1 wei3 ju1 sheng1 。
+- yu4 kui2 gu1 shou3 jun1 wu2 xiao4 ， lao3 zi3 kan4 lai2 shi4 da4 peng1 。
 
 ## 注释
 

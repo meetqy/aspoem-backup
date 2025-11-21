@@ -6,21 +6,25 @@ titleSlug: liu-xu
 author: 釋居簡
 authorPinyin: shi4 ju1 jian3
 authorSlug: shi-ju-jian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 麻姑米白玉床丹，老去慵將狡獪看。
-- 却愛一川風絮好，就船做得雪團乾。
+- 滿城漠漠看飛揚，百鍊剛非賀老腸。
+- 褪雨不忺知醖藉，倚風無力信行藏。
+- 可曾著意隨流急，竟亦何心作許狂。
+- 酒似海留春不住，爲春回雪薦離觴。
 
 ## 拼音
 
-- ma2 gu1 mi3 bai2 yu4 chuang2 dan1 ， lao3 qu4 yong1 jiang1 jiao3 kuai4 kan4 。
-- que4 ai4 yi4 chuan1 feng1 xu4 hao3 ， jiu4 chuan2 zuo4 de2 xue3 tuan2 qian2 。
+- man3 cheng2 mo4 mo4 kan4 fei1 yang2 ， bai3 lian4 gang1 fei1 he4 lao3 chang2 。
+- tui4 yu3 bu4 xian1 zhi1 yun4 jie4 ， yi3 feng1 wu2 li4 xin4 xing2 cang2 。
+- ke3 ceng2 zhu4 yi4 sui2 liu2 ji2 ， jing4 yi4 he2 xin1 zuo4 xu1 kuang2 。
+- jiu3 si4 hai3 liu2 chun1 bu2 zhu4 ， wei2 chun1 hui2 xue3 jian4 li2 shang1 。
 
 ## 注释
 

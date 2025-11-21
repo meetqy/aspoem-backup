@@ -6,21 +6,21 @@ titleSlug: yong-shi-ming-di-qi-er
 author: 陳普
 authorPinyin: chen2 pu3
 authorSlug: chen-pu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 盤木白狼紛貢毛，龜茲侍子薦蒲萄。
-- 滿朝虎拜南山壽，無一人能作旅獒。
+- 大和空國逐浮虛，曾爲蒼生一掃除。
+- 曆數未容姦宄得，收曹卷馬二中書。
 
 ## 拼音
 
-- pan2 mu4 bai2 lang2 fen1 gong4 mao2 ， gui1 zi1 shi4 zi0 jian4 pu2 tao2 。
-- man3 chao2 hu3 bai4 nan2 shan1 shou4 ， wu2 yi4 ren2 neng2 zuo4 lü3 ao2 。
+- da4 he2 kong1 guo2 zhu2 fu2 xu1 ， ceng2 wei2 cang1 sheng1 yi4 sao3 chu2 。
+- li4 shu4 wei4 rong2 jian1 gui3 de2 ， shou1 cao2 juan4 ma3 er4 zhong1 shu1 。
 
 ## 注释
 

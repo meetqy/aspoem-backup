@@ -6,10 +6,10 @@ titleSlug: ci-yun-zhi-bo-ji-cha-bao-jiu-san-dou
 author: 謝安國
 authorPinyin: xie4 an1 guo2
 authorSlug: xie-an-guo
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

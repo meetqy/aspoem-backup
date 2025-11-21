@@ -6,10 +6,10 @@ titleSlug: chun-ri-jiao-ju
 author: 林沖之
 authorPinyin: lin2 chong1 zhi1
 authorSlug: lin-chong-zhi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

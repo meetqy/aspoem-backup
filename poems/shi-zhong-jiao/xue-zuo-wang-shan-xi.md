@@ -6,10 +6,10 @@ titleSlug: xue-zuo-wang-shan-xi
 author: 釋仲皎
 authorPinyin: shi4 zhong4 jiao3
 authorSlug: shi-zhong-jiao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

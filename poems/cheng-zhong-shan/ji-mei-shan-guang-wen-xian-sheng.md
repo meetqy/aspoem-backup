@@ -6,10 +6,10 @@ titleSlug: ji-mei-shan-guang-wen-xian-sheng
 author: 程中山
 authorPinyin: cheng2 zhong1 shan1
 authorSlug: cheng-zhong-shan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

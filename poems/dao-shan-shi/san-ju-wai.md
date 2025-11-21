@@ -6,9 +6,9 @@ titleSlug: san-ju-wai
 author: 道禪師
 authorPinyin: dao4 shan4 shi1
 authorSlug: dao-shan-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

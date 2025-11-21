@@ -6,25 +6,21 @@ titleSlug: man-xing
 author: 陶夢桂
 authorPinyin: tao2 meng4 gui4
 authorSlug: tao-meng-gui
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 溪山爭獻狀，易得小詩成。
-- 病骨如松瘦，清愁似草生。
-- 苦無人比飯，喜有弟分羹。
-- 下及長鬚輩，人言似顧榮。
+- 圖書叢裏清癯老，山水光中瀟灑家。
+- 除却栽花栽竹外，更將何事作生涯。
 
 ## 拼音
 
-- xi1 shan1 zheng1 xian4 zhuang4 ， yi4 de2 xiao3 shi1 cheng2 。
-- bing4 gu3 ru2 song1 shou4 ， qing1 chou2 si4 cao3 sheng1 。
-- ku3 wu2 ren2 bi3 fan4 ， xi3 you3 di4 fen1 geng1 。
-- xia4 ji2 chang2 xu1 bei4 ， ren2 yan2 si4 gu4 rong2 。
+- tu2 shu1 cong2 li3 qing1 qu2 lao3 ， shan1 shui3 guang1 zhong1 xiao1 sa3 jia1 。
+- chu2 que4 zai1 hua1 zai1 zhu2 wai4 ， geng4 jiang1 he2 shi4 zuo4 sheng1 ya2 。
 
 ## 注释
 

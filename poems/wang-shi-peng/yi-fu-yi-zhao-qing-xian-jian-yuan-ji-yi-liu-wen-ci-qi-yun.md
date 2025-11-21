@@ -6,10 +6,10 @@ titleSlug: yi-fu-yi-zhao-qing-xian-jian-yuan-ji-yi-liu-wen-ci-qi-yun
 author: 王十朋
 authorPinyin: wang2 shi2 peng2
 authorSlug: wang-shi-peng
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,25 +6,25 @@ titleSlug: xi-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 冒雨牽何急，爭風力不餘。
-- 逢人問虛市，計日買薪蔬。
-- 烟寺高旛出，山畬一老鋤。
-- 枕書醒醉裏，短髮不曾梳。
+- 疏鐘度莽蒼，遠火耿微茫。
+- 歲暮水歸壑，夜寒天霣霜。
+- 人生一蟲臂，世路幾羊腸。
+- 老大忘繩檢，狂歌盡意長。
 
 ## 拼音
 
-- mao4 yu3 qian1 he2 ji2 ， zheng1 feng1 li4 bu4 yu2 。
-- feng2 ren2 wen4 xu1 shi4 ， ji4 ri4 mai3 xin1 shu1 。
-- yan1 si4 gao1 fan1 chu1 ， shan1 she1 yi4 lao3 chu2 。
-- zhen3 shu1 xing3 zui4 li3 ， duan3 fa4 bu4 ceng2 shu1 。
+- shu1 zhong1 du4 mang3 cang1 ， yuan3 huo3 geng3 wei1 mang2 。
+- sui4 mu4 shui3 gui1 he4 ， ye4 han2 tian1 yun3 shuang1 。
+- ren2 sheng1 yi4 chong2 bi4 ， shi4 lu4 ji1 yang2 chang2 。
+- lao3 da4 wang4 sheng2 jian3 ， kuang2 ge1 jin4 yi4 chang2 。
 
 ## 注释
 

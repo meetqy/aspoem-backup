@@ -6,21 +6,21 @@ titleSlug: duan-wu-tie-zi-tai-shang-huang-di-ge-qi-san
 author: 周必大
 authorPinyin: zhou1 bi4 da4
 authorSlug: zhou-bi-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 衣進含風葛，觴稱垂露漿。
-- 更纏長命縷，仍泛引年菖。
+- 境勝日偏長，心清夏更凉。
+- 超然遠覽處，何止傲羲皇。
 
 ## 拼音
 
-- yi1 jin4 han2 feng1 ge3 ， shang1 cheng1 chui2 lu4 jiang1 。
-- geng4 chan2 chang2 ming4 lü3 ， reng2 fan4 yin3 nian2 chang1 。
+- jing4 sheng4 ri4 pian1 chang2 ， xin1 qing1 xia4 geng4 liang2 。
+- chao1 ran2 yuan3 lan3 chu3 ， he2 zhi3 ao4 xi1 huang2 。
 
 ## 注释
 

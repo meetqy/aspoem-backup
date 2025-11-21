@@ -6,10 +6,10 @@ titleSlug: dong-ting-wan-wang-qi-shou-qi-er
 author: 高善濂
 authorPinyin: gao1 shan4 lian2
 authorSlug: gao-shan-lian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

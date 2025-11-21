@@ -6,10 +6,10 @@ titleSlug: xiang-he-ge-ci-shu-dao-nan
 author: 李白
 authorPinyin: li3 bai2
 authorSlug: li-bai
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
@@ -27,8 +27,7 @@ tags: []
 - 又聞子規啼夜月，愁空山，蜀道之難難於上青天！使人聽此彫朱顏。
 - 連峰去天不盈尺，枯松倒挂倚絕壁。
 - 飛湍瀑流相喧豗，砅崖轉石萬壑雷。
-- 其嶮也若此，嗟爾遠道之人胡爲乎來哉？
-- 劒閣崢嶸而崔嵬，一夫當關，萬夫莫開。
+- 其嶮也若此，嗟爾遠道之人胡爲乎來哉？劒閣崢嶸而崔嵬，一夫當關，萬夫莫開。
 - 所守或匪親，化爲狼與豺。
 - 朝避猛虎，夕避長蛇。
 - 磨牙吮血，殺人如麻。
@@ -50,8 +49,7 @@ tags: []
 - you4 wen2 zi3 gui1 ti2 ye4 yue4 ， chou2 kong1 shan1 ， shu3 dao4 zhi1 nan2 nan2 wu1 shang4 qing1 tian1 ！ shi3 ren2 ting1 ci3 diao1 zhu1 yan2 。
 - lian2 feng1 qu4 tian1 bu4 ying2 chi3 ， ku1 song1 dao4 gua4 yi3 jue2 bi4 。
 - fei1 tuan1 pu4 liu2 xiang1 xuan1 hui1 ， li4 ya2 zhuan3 shi2 wan4 he4 lei2 。
-- qi2 xian3 ye3 ruo4 ci3 ， jie1 er3 yuan3 dao4 zhi1 ren2 hu2 wei2 hu1 lai2 zai1 ？
-- jian4 ge2 zheng1 rong2 er2 cui1 wei2 ， yi4 fu1 dang1 guan1 ， wan4 fu1 mo4 kai1 。
+- qi2 xian3 ye3 ruo4 ci3 ， jie1 er3 yuan3 dao4 zhi1 ren2 hu2 wei2 hu1 lai2 zai1 ？ jian4 ge2 zheng1 rong2 er2 cui1 wei2 ， yi4 fu1 dang1 guan1 ， wan4 fu1 mo4 kai1 。
 - suo3 shou3 huo4 fei3 qin1 ， hua4 wei2 lang2 yu3 chai2 。
 - chao2 bi4 meng3 hu3 ， xi1 bi4 chang2 she2 。
 - mo2 ya2 shun3 xue4 ， sha1 ren2 ru2 ma2 。

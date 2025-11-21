@@ -6,10 +6,10 @@ titleSlug: song-guang-shuai-zhao-ping-zhai-ru-ji-jie-yin-qu-chao
 author: 李昴英
 authorPinyin: li3 mao3 ying1
 authorSlug: li-mao-ying
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

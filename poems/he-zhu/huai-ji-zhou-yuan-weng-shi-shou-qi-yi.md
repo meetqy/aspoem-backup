@@ -1,34 +1,34 @@
 ---
 id: he-zhu-huai-ji-zhou-yuan-weng-shi-shou-qi-yi
-title: 懷寄周元翁十首  其一
-titlePinyin: huai2 ji4 zhou1 yuan2 weng1 shi2 shou3     qi2 yi1
+title: 懷寄周元翁十首  其一○
+titlePinyin: huai2 ji4 zhou1 yuan2 weng1 shi2 shou3     qi2 yi1 ○
 titleSlug: huai-ji-zhou-yuan-weng-shi-shou-qi-yi
 author: 賀鑄
 authorPinyin: he4 zhu4
 authorSlug: he-zhu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 周郎假沔官，我偶來沔居。
-- 得閑定相過，談笑沈痾袪。
-- 俄聞戍樓角，曉引吹咿嗚。
-- 自君居湓城，怳怳一夢餘。
-- 復求若輩人，陶竈搜璠璵。
-- 誠爲天下士，豈特江漢無。
+- 周郎貫江華，而復厭湖湘。
+- 我亦非樂此，西歸計茫茫。
+- 頹年抱沈痼，生理豈得長。
+- 後期真何時，存歿兩莫忘。
+- 懷君輒賦詩，落筆聯十章。
+- 它年一掩卷，爲我涕浪浪。
 
 ## 拼音
 
-- zhou1 lang2 jia3 mian3 guan1 ， wo3 ou3 lai2 mian3 ju1 。
-- de2 xian2 ding4 xiang4 guo4 ， tan2 xiao4 shen3 ke1 qu1 。
-- e2 wen2 shu4 lou2 jiao3 ， xiao3 yin3 chui1 yi1 wu1 。
-- zi4 jun1 ju1 pen2 cheng2 ， huang3 huang3 yi2 meng4 yu2 。
-- fu4 qiu2 ruo4 bei4 ren2 ， tao2 zao4 sou1 fan2 yu2 。
-- cheng2 wei2 tian1 xia4 shi4 ， qi3 te4 jiang1 han4 wu2 。
+- zhou1 lang2 guan4 jiang1 hua2 ， er2 fu4 yan4 hu2 xiang1 。
+- wo3 yi4 fei1 le4 ci3 ， xi1 gui1 ji4 mang2 mang2 。
+- tui2 nian2 bao4 shen3 gu4 ， sheng1 li3 qi3 de2 chang2 。
+- hou4 qi1 zhen1 he2 shi2 ， cun2 mo4 liang3 mo4 wang4 。
+- huai2 jun1 zhe2 fu4 shi1 ， luo4 bi3 lian2 shi2 zhang1 。
+- ta1 nian2 yi4 yan3 juan4 ， wei2 wo3 ti4 lang4 lang4 。
 
 ## 注释
 

@@ -1,14 +1,14 @@
 ---
 id: fan-cheng-da-zai-fu-mo-li-er-jue-qi-yi
-title: 再賦末利二絕・其一
-titlePinyin: zai4 fu4 mo4 li4 er4 jue2・qi2 yi1
+title: 再賦末利二絕  其一
+titlePinyin: zai4 fu4 mo4 li4 er4 jue2     qi2 yi1
 titleSlug: zai-fu-mo-li-er-jue-qi-yi
 author: 范成大
 authorPinyin: fan4 cheng2 da4
 authorSlug: fan-cheng-da
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

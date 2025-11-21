@@ -6,10 +6,10 @@ titleSlug: gu-cheng-xiang-gao-ping-fan-gong-wan-ge-ci-san-shou-qi-yi
 author: 綦崇禮
 authorPinyin: qi2 chong2 li3
 authorSlug: qi-chong-li
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

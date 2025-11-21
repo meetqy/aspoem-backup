@@ -1,26 +1,26 @@
 ---
 id: lou-yue-xie-pan-duan-shu-hui-hong-mei-qi-er
-title: 謝潘端叔惠紅梅  其二
-titlePinyin: xie4 pan1 duan1 shu1 hui4 hong2 mei2     qi2 er4
+title: 謝潘端叔惠紅梅  其二○
+titlePinyin: xie4 pan1 duan1 shu1 hui4 hong2 mei2     qi2 er4 ○
 titleSlug: xie-pan-duan-shu-hui-hong-mei-qi-er
 author: 樓鑰
 authorPinyin: lou2 yue4
 authorSlug: lou-yue
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 黄姑曾爲點冰肌，亦有緇塵染素衣。
-- 何似烟脂天賜與，暗香猶在是耶非。
+- 自昔梅花雪作團，紅梅晚出可人看。
+- 江梅不解追時好，祇守冰姿度歲寒。
 
 ## 拼音
 
-- huang2 gu1 ceng2 wei2 dian3 bing1 ji1 ， yi4 you3 zi1 chen2 ran3 su4 yi1 。
-- he2 si4 yan1 zhi1 tian1 ci4 yu3 ， an4 xiang1 you2 zai4 shi4 ye1 fei1 。
+- zi4 xi1 mei2 hua1 xue3 zuo4 tuan2 ， hong2 mei2 wan3 chu1 ke3 ren2 kan4 。
+- jiang1 mei2 bu4 jie3 zhui1 shi2 hao3 ， qi2 shou3 bing1 zi1 du4 sui4 han2 。
 
 ## 注释
 

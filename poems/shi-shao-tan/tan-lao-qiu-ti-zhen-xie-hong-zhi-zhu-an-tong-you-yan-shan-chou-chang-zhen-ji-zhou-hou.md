@@ -6,10 +6,10 @@ titleSlug: tan-lao-qiu-ti-zhen-xie-hong-zhi-zhu-an-tong-you-yan-shan-chou-chang-
 author: 釋紹曇
 authorPinyin: shi4 shao4 tan2
 authorSlug: shi-shao-tan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: ji
 author: 釋文準弟子
 authorPinyin: shi4 wen2 zhun3 di4 zi3
 authorSlug: shi-wen-zhun-di-zi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

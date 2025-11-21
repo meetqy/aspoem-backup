@@ -6,10 +6,10 @@ titleSlug: shou-ling-yuan-chun-zong-bo-liu-shi
 author: 郭仲敬
 authorPinyin: guo1 zhong4 jing4
 authorSlug: guo-zhong-jing
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

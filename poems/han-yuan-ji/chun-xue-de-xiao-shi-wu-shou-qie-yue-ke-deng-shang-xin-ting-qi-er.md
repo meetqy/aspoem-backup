@@ -6,10 +6,10 @@ titleSlug: chun-xue-de-xiao-shi-wu-shou-qie-yue-ke-deng-shang-xin-ting-qi-er
 author: 韓元吉
 authorPinyin: han2 yuan2 ji2
 authorSlug: han-yuan-ji
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

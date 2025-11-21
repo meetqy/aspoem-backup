@@ -6,21 +6,25 @@ titleSlug: ji-yu-tai-zhong-shan-ren
 author: 魏野
 authorPinyin: wei4 ye3
 authorSlug: wei-ye
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 太白空來數百年，貫之今稱隠其閒。
-- 靜應笑我藏名拙，惹得人多到竹關。
+- 相訪住三年，初終道一般。
+- 知心於我異，屈指似君難。
+- 有物皆同詠，無書不共看。
+- 草堂今獨處，寧免動長嘆。
 
 ## 拼音
 
-- tai4 bai2 kong1 lai2 shu4 bai3 nian2 ， guan4 zhi1 jin1 cheng1 yin3 qi2 xian2 。
-- jing4 ying1 xiao4 wo3 cang2 ming2 zhuo1 ， re3 de2 ren2 duo1 dao4 zhu2 guan1 。
+- xiang1 fang3 zhu4 san1 nian2 ， chu1 zhong1 dao4 yi4 ban1 。
+- zhi1 xin1 wu1 wo3 yi4 ， qu1 zhi3 si4 jun1 nan2 。
+- you3 wu4 jie1 tong2 yong3 ， wu2 shu1 bu2 gong4 kan4 。
+- cao3 tang2 jin1 du2 chu3 ， ning2 mian3 dong4 chang2 tan4 。
 
 ## 注释
 

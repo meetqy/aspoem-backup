@@ -6,10 +6,10 @@ titleSlug: lan-xian-qian-ren-wang-wu-men-yi-luo-hua-wei-zhi-er-qu-qi-yi
 author: 洪适
 authorPinyin: hong2 shi4
 authorSlug: hong-shi
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

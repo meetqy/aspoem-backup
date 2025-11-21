@@ -9,18 +9,18 @@ authorSlug: jia-dao
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 丈夫未得意，行行且低眉。
-- 素琴彈復彈，會有知音知。
+- 門外便伸千里別，無車不得到河梁。
+- 高樓直上百餘尺，今日爲君南望長。
 
 ## 拼音
 
-- zhang4 fu0 wei4 de2 yi4 ， hang2 hang2 qie3 di1 mei2 。
-- su4 qin2 dan4 fu4 dan4 ， hui4 you3 zhi1 yin1 zhi1 。
+- men2 wai4 bian4 shen1 qian1 li3 bie2 ， wu2 ju1 bu4 de2 dao4 he2 liang2 。
+- gao1 lou2 zhi2 shang4 bai3 yu2 chi3 ， jin1 ri4 wei2 jun1 nan2 wang4 chang2 。
 
 ## 注释
 

@@ -6,10 +6,10 @@ titleSlug: shao-xing-yi-zhong-qiu-hou-wu-ri-cheng-xiu-mu-zhi-zhou-jia-wei-cang-z
 author: 朱某
 authorPinyin: zhu1 mou3
 authorSlug: zhu-mou
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

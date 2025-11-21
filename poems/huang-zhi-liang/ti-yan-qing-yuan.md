@@ -6,10 +6,10 @@ titleSlug: ti-yan-qing-yuan
 author: 黄知良
 authorPinyin: huang2 zhi1 liang2
 authorSlug: huang-zhi-liang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

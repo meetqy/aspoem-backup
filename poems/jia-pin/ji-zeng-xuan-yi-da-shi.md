@@ -6,9 +6,9 @@ titleSlug: ji-zeng-xuan-yi-da-shi
 author: 賈玭
 authorPinyin: jia3 pin2
 authorSlug: jia-pin
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
 tags: []
 ---
 

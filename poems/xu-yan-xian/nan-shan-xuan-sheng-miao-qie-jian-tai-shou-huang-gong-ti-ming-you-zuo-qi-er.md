@@ -6,10 +6,10 @@ titleSlug: nan-shan-xuan-sheng-miao-qie-jian-tai-shou-huang-gong-ti-ming-you-zuo
 author: 許彥先
 authorPinyin: xu1 yan4 xian1
 authorSlug: xu-yan-xian
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

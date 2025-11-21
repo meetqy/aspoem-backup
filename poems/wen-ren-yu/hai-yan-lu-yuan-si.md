@@ -6,10 +6,10 @@ titleSlug: hai-yan-lu-yuan-si
 author: 聞人宇
 authorPinyin: wen2 ren2 yu3
 authorSlug: wen-ren-yu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: mian-li-yuan-zhong-wu-shou-qi-er
 author: 羅從彥
 authorPinyin: luo2 cong2 yan4
 authorSlug: luo-cong-yan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

@@ -6,10 +6,10 @@ titleSlug: shao-xi-geng-xu-zhong-qiu-hou-san-ri-bai-zhang-yu-hu-mu
 author: 董道輔
 authorPinyin: dong3 dao4 fu3
 authorSlug: dong-dao-fu
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

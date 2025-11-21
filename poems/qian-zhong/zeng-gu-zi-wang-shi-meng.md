@@ -6,10 +6,10 @@ titleSlug: zeng-gu-zi-wang-shi-meng
 author: 錢忠
 authorPinyin: qian2 zhong1
 authorSlug: qian-zhong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

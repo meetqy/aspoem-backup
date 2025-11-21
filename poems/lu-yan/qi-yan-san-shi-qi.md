@@ -9,22 +9,22 @@ authorSlug: lu-yan
 dynasty: 唐
 dynastyPinyin: tang2
 dynastySlug: tang
-tags: [] 
+tags: []
 ---
 
 ## 正文
 
-- 時人若要學長生，先是樞機晝夜行。
-- 恍惚中間專志氣，虛無裏面固元精。
-- 龍交虎戰三周畢，兔走烏飛九轉成。
-- 煉出一爐神聖藥，五雲歸去路分明。
+- 結交常與道情深，日日隨他出又沈。
+- 若要自通雲外鶴，直須勤煉水中金。
+- 丹成只恐乾坤窄，餌了寧憂疾患侵。
+- 未去瑤臺猶混世，不妨杯酒喜閑吟。
 
 ## 拼音
 
-- shi2 ren2 ruo4 yao4 xue2 chang2 sheng1 ， xian1 shi4 shu1 ji1 zhou4 ye4 xing2 。
-- huang3 hu1 zhong1 jian4 zhuan1 zhi4 qi4 ， xu1 wu2 li3 mian4 gu4 yuan2 jing1 。
-- long2 jiao1 hu3 zhan4 san1 zhou1 bi4 ， tu4 zou3 wu1 fei1 jiu3 zhuan3 cheng2 。
-- lian4 chu1 yi4 lu2 shen2 sheng4 yao4 ， wu3 yun2 gui1 qu4 lu4 fen1 ming2 。
+- jie2 jiao1 chang2 yu3 dao4 qing2 shen1 ， ri4 ri4 sui2 ta1 chu1 you4 shen3 。
+- ruo4 yao4 zi4 tong1 yun2 wai4 he4 ， zhi2 xu1 qin2 lian4 shui3 zhong1 jin1 。
+- dan1 cheng2 zhi3 kong3 qian2 kun1 zhai3 ， er3 le0 ning2 you1 ji2 huan4 qin1 。
+- wei4 qu4 yao2 tai2 you2 hun4 shi4 ， bu4 fang2 bei1 jiu3 xi3 xian2 yin2 。
 
 ## 注释
 

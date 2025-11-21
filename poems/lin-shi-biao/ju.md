@@ -6,10 +6,10 @@ titleSlug: ju
 author: 林士表
 authorPinyin: lin2 shi4 biao3
 authorSlug: lin-shi-biao
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

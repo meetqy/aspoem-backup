@@ -6,10 +6,10 @@ titleSlug: ta-shan-yan
 author: 陳坰
 authorPinyin: chen2 jiong1
 authorSlug: chen-jiong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

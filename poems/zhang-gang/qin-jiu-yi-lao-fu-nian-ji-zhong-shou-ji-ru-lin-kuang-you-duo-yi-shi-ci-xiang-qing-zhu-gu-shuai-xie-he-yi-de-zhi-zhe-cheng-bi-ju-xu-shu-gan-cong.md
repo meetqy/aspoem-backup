@@ -6,10 +6,10 @@ titleSlug: qin-jiu-yi-lao-fu-nian-ji-zhong-shou-ji-ru-lin-kuang-you-duo-yi-shi-c
 author: 張綱
 authorPinyin: zhang1 gang1
 authorSlug: zhang-gang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

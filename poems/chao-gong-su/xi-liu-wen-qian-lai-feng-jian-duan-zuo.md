@@ -6,10 +6,10 @@ titleSlug: xi-liu-wen-qian-lai-feng-jian-duan-zuo
 author: 晁公遡
 authorPinyin: chao2 gong1 su4
 authorSlug: chao-gong-su
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

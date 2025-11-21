@@ -6,25 +6,21 @@ titleSlug: wan-shu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
 authorSlug: zhao-fan
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 落月不可駐，落日不可揮。
-- 豈昧白晝長，畏此餘暑威。
-- 人生延促頃，光景變滅微。
-- 水霧已似合，山烟亦成霏。
+- 春晚苦多風，花殘不見紅。
+- 問花寧自覺，愁殺白頭翁。
 
 ## 拼音
 
-- luo4 yue4 bu4 ke3 zhu4 ， luo4 ri4 bu4 ke3 hui1 。
-- qi3 mei4 bai2 zhou4 chang2 ， wei4 ci3 yu2 shu3 wei1 。
-- ren2 sheng1 yan2 cu4 qing3 ， guang1 jing3 bian4 mie4 wei1 。
-- shui3 wu4 yi3 si4 he2 ， shan1 yan1 yi4 cheng2 fei1 。
+- chun1 wan3 ku3 duo1 feng1 ， hua1 can2 bu2 jian4 hong2 。
+- wen4 hua1 ning2 zi4 jue2 ， chou2 sha1 bai2 tou2 weng1 。
 
 ## 注释
 

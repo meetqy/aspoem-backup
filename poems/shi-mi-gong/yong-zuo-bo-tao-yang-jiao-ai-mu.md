@@ -6,10 +6,10 @@ titleSlug: yong-zuo-bo-tao-yang-jiao-ai-mu
 author: 史彌鞏
 authorPinyin: shi3 mi2 gong3
 authorSlug: shi-mi-gong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

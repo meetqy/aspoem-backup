@@ -6,25 +6,25 @@ titleSlug: chun-yin
 author: 劉敞
 authorPinyin: liu2 chang3
 authorSlug: liu-chang
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 朝日送風光，宿雲濃不卷。
-- 微陰助惆悵，旅思增婉婉。
-- 新花秀且含，芳草綠更遠。
-- 樂賞及融怡，春暉未應晚。
+- 江上浮雲聚，城中暮景兼。
+- 東風酒味溢，小雨客愁添。
+- 寒色端侵牖，斜陽不滿簾。
+- 滯留成楚老，卑濕意無嫌。
 
 ## 拼音
 
-- zhao1 ri4 song4 feng1 guang1 ， su4 yun2 nong2 bu2 juan4 。
-- wei1 yin1 zhu4 chou2 chang4 ， lü3 si1 zeng1 wan3 wan3 。
-- xin1 hua1 xiu4 qie3 han2 ， fang1 cao3 lü4 geng4 yuan3 。
-- le4 shang3 ji2 rong2 yi2 ， chun1 hui1 wei4 ying1 wan3 。
+- jiang1 shang4 fu2 yun2 ju4 ， cheng2 zhong1 mu4 jing3 jian1 。
+- dong1 feng1 jiu3 wei4 yi4 ， xiao3 yu3 ke4 chou2 tian1 。
+- han2 se4 duan1 qin1 you3 ， xie2 yang2 bu4 man3 lian2 。
+- zhi4 liu2 cheng2 chu3 lao3 ， bei1 shi1 yi4 wu2 xian2 。
 
 ## 注释
 

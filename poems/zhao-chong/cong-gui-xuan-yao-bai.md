@@ -6,10 +6,10 @@ titleSlug: cong-gui-xuan-yao-bai
 author: 趙崇㻱
 authorPinyin: zhao4 chong2 㻱
 authorSlug: zhao-chong
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文

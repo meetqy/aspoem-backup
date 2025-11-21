@@ -6,21 +6,25 @@ titleSlug: ke-qu
 author: 陸游
 authorPinyin: lu4 you2
 authorSlug: lu-you
-dynasty: 唐
-dynastyPinyin: tang2
-dynastySlug: tang
-tags: [] 
+dynasty: 宋
+dynastyPinyin: song4
+dynastySlug: song
+tags: []
 ---
 
 ## 正文
 
-- 相對蒲團睡味長，主人與客兩相忘。
-- 須臾客去主人覺，一半西窗無夕陽。
+- 客來拈麈尾，客去拂床眠。
+- 孤夢歸湖上，殘書墮枕邊。
+- 幽禽窺戶語，落日傍窗妍。
+- 暫爾名朝士，終然是地僊。
 
 ## 拼音
 
-- xiang1 dui4 pu2 tuan2 shui4 wei4 chang2 ， zhu3 ren2 yu3 ke4 liang3 xiang1 wang4 。
-- xu1 yu2 ke4 qu4 zhu3 ren2 jue2 ， yi2 ban4 xi1 chuang1 wu2 xi1 yang2 。
+- ke4 lai2 nian1 zhu3 wei3 ， ke4 qu4 fu2 chuang2 mian2 。
+- gu1 meng4 gui1 hu2 shang4 ， can2 shu1 duo4 zhen3 bian1 。
+- you1 qin2 kui1 hu4 yu3 ， luo4 ri4 bang4 chuang1 yan2 。
+- zan4 er3 ming2 chao2 shi4 ， zhong1 ran2 shi4 di4 xian1 。
 
 ## 注释
 
