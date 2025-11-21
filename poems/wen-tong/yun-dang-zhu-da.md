@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yun-dang-zhu-da
-title: 篔簹 竹答
-titlePinyin: yun2 dang1   zhu2 da2
+title: 篔簹・竹答
+titlePinyin: yun2 dang1・zhu2 da2
 titleSlug: yun-dang-zhu-da
 author: 文同
 authorPinyin: wen2 tong2

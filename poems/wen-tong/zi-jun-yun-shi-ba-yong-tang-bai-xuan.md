@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zi-jun-yun-shi-ba-yong-tang-bai-xuan
-title: 子駿運使八咏堂 柏軒
-titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2   bai3 xuan1
+title: 子駿運使八咏堂・柏軒
+titlePinyin: zi3 jun4 yun4 shi3 ba1 yong3 tang2・bai3 xuan1
 titleSlug: zi-jun-yun-shi-ba-yong-tang-bai-xuan
 author: 文同
 authorPinyin: wen2 tong2

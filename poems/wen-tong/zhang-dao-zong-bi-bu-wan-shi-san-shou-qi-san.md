@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhang-dao-zong-bi-bu-wan-shi-san-shou-qi-san
-title: 張道宗比部挽詩三首  其三
-titlePinyin: zhang1 dao4 zong1 bi3 bu4 wan3 shi1 san1 shou3     qi2 san1
+title: 張道宗比部挽詩三首・其三
+titlePinyin: zhang1 dao4 zong1 bi3 bu4 wan3 shi1 san1 shou3・qi2 san1
 titleSlug: zhang-dao-zong-bi-bu-wan-shi-san-shou-qi-san
 author: 文同
 authorPinyin: wen2 tong2

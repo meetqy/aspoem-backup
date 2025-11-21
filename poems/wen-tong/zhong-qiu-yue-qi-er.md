@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhong-qiu-yue-qi-er
-title: 中秋月  其二
-titlePinyin: zhong1 qiu1 yue4     qi2 er4
+title: 中秋月・其二
+titlePinyin: zhong1 qiu1 yue4・qi2 er4
 titleSlug: zhong-qiu-yue-qi-er
 author: 文同
 authorPinyin: wen2 tong2

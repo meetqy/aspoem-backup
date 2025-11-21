@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhang-lin-zong-si-xun-wan-shi-san-shou-qi-yi
-title: 張林宗司勳挽詩三首  其一
-titlePinyin: zhang1 lin2 zong1 si1 xun1 wan3 shi1 san1 shou3     qi2 yi1
+title: 張林宗司勳挽詩三首・其一
+titlePinyin: zhang1 lin2 zong1 si1 xun1 wan3 shi1 san1 shou3・qi2 yi1
 titleSlug: zhang-lin-zong-si-xun-wan-shi-san-shou-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

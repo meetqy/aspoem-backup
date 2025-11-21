@@ -1,7 +1,7 @@
 ---
 id: wen-tong-zhong-song-qi-yi
-title: 重送  其一
-titlePinyin: zhong4 song4     qi2 yi1
+title: 重送・其一
+titlePinyin: zhong4 song4・qi2 yi1
 titleSlug: zhong-song-qi-yi
 author: 文同
 authorPinyin: wen2 tong2

@@ -1,7 +1,7 @@
 ---
 id: wen-tong-yong-liu-qi-yi
-title: 咏柳  其一
-titlePinyin: yong3 liu3     qi2 yi1
+title: 咏柳・其一
+titlePinyin: yong3 liu3・qi2 yi1
 titleSlug: yong-liu-qi-yi
 author: 文同
 authorPinyin: wen2 tong2
