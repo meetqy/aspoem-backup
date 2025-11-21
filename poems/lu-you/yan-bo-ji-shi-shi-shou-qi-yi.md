@@ -1,7 +1,7 @@
 ---
 id: lu-you-yan-bo-ji-shi-shi-shou-qi-yi
-title: 烟波即事十首  其一○
-titlePinyin: yan1 bo1 ji2 shi4 shi2 shou3     qi2 yi1 ○
+title: 烟波即事十首・其一○
+titlePinyin: yan1 bo1 ji2 shi4 shi2 shou3・qi2 yi1 ○
 titleSlug: yan-bo-ji-shi-shi-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

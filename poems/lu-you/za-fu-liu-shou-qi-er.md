@@ -1,7 +1,7 @@
 ---
 id: lu-you-za-fu-liu-shou-qi-er
-title: 雜賦六首  其二
-titlePinyin: za2 fu4 liu4 shou3     qi2 er4
+title: 雜賦六首・其二
+titlePinyin: za2 fu4 liu4 shou3・qi2 er4
 titleSlug: za-fu-liu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

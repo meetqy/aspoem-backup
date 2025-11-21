@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-xi-pai-men-er-shou-qi-er
-title: 雨夕排悶二首  其二
-titlePinyin: yu3 xi1 pai2 men4 er4 shou3     qi2 er4
+title: 雨夕排悶二首・其二
+titlePinyin: yu3 xi1 pai2 men4 er4 shou3・qi2 er4
 titleSlug: yu-xi-pai-men-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

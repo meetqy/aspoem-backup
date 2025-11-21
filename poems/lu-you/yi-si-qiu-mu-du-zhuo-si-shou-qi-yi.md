@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-si-qiu-mu-du-zhuo-si-shou-qi-yi
-title: 乙巳秋暮獨酌四首  其一
-titlePinyin: yi3 si4 qiu1 mu4 du2 zhuo2 si4 shou3     qi2 yi1
+title: 乙巳秋暮獨酌四首・其一
+titlePinyin: yi3 si4 qiu1 mu4 du2 zhuo2 si4 shou3・qi2 yi1
 titleSlug: yi-si-qiu-mu-du-zhuo-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

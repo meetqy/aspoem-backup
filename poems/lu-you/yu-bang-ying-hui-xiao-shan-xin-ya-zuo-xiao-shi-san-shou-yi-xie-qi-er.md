@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-bang-ying-hui-xiao-shan-xin-ya-zuo-xiao-shi-san-shou-yi-xie-qi-er
-title: 余邦英惠小山新芽作小詩三首以謝  其二
-titlePinyin: yu2 bang1 ying1 hui4 xiao3 shan1 xin1 ya2 zuo4 xiao3 shi1 san1 shou3 yi3 xie4     qi2 er4
+title: 余邦英惠小山新芽作小詩三首以謝・其二
+titlePinyin: yu2 bang1 ying1 hui4 xiao3 shan1 xin1 ya2 zuo4 xiao3 shi1 san1 shou3 yi3 xie4・qi2 er4
 titleSlug: yu-bang-ying-hui-xiao-shan-xin-ya-zuo-xiao-shi-san-shou-yi-xie-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-ba-jiu-shi-lin-qu-er-shou-qi-yi
-title: 園中把酒示鄰曲二首  其一
-titlePinyin: yuan2 zhong1 ba3 jiu3 shi4 lin2 qu3 er4 shou3     qi2 yi1
+title: 園中把酒示鄰曲二首・其一
+titlePinyin: yuan2 zhong1 ba3 jiu3 shi4 lin2 qu3 er4 shou3・qi2 yi1
 titleSlug: yuan-zhong-ba-jiu-shi-lin-qu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

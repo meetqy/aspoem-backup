@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-tan-si-shou-qi-yi
-title: 寓嘆四首  其一
-titlePinyin: yu4 tan4 si4 shou3     qi2 yi1
+title: 寓嘆四首・其一
+titlePinyin: yu4 tan4 si4 shou3・qi2 yi1
 titleSlug: yu-tan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

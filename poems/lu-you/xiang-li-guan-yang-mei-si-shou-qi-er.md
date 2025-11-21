@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiang-li-guan-yang-mei-si-shou-qi-er
-title: 項里觀楊梅四首  其二
-titlePinyin: xiang4 li3 guan1 yang2 mei2 si4 shou3     qi2 er4
+title: 項里觀楊梅四首・其二
+titlePinyin: xiang4 li3 guan1 yang2 mei2 si4 shou3・qi2 er4
 titleSlug: xiang-li-guan-yang-mei-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

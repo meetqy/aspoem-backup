@@ -1,7 +1,7 @@
 ---
 id: lu-you-yan-zuo-er-shou-qi-er
-title: 宴坐二首  其二
-titlePinyin: yan4 zuo4 er4 shou3     qi2 er4
+title: 宴坐二首・其二
+titlePinyin: yan4 zuo4 er4 shou3・qi2 er4
 titleSlug: yan-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

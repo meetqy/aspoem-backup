@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-hou-er-shou-qi-yi
-title: 雨後二首  其一
-titlePinyin: yu3 hou4 er4 shou3     qi2 yi1
+title: 雨後二首・其一
+titlePinyin: yu3 hou4 er4 shou3・qi2 yi1
 titleSlug: yu-hou-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

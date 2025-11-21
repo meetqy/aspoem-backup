@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-qing-er-shou-qi-er
-title: 新晴二首  其二
-titlePinyin: xin1 qing2 er4 shou3     qi2 er4
+title: 新晴二首・其二
+titlePinyin: xin1 qing2 er4 shou3・qi2 er4
 titleSlug: xin-qing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

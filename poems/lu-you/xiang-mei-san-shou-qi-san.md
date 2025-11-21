@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiang-mei-san-shou-qi-san
-title: 緗梅三首  其三
-titlePinyin: xiang1 mei2 san1 shou3     qi2 san1
+title: 緗梅三首・其三
+titlePinyin: xiang1 mei2 san1 shou3・qi2 san1
 titleSlug: xiang-mei-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-yan-he-dian-tui-chao-kou-hao-er-shou-qi-er
-title: 延和殿退朝口號二首、  其二
-titlePinyin: yan2 he2 dian4 tui4 chao2 kou3 hao4 er4 shou3 、     qi2 er4
+title: 延和殿退朝口號二首、・其二
+titlePinyin: yan2 he2 dian4 tui4 chao2 kou3 hao4 er4 shou3 、・qi2 er4
 titleSlug: yan-he-dian-tui-chao-kou-hao-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

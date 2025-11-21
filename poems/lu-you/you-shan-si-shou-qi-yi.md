@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-shan-si-shou-qi-yi
-title: 遊山四首  其一
-titlePinyin: you2 shan1 si4 shou3     qi2 yi1
+title: 遊山四首・其一
+titlePinyin: you2 shan1 si4 shou3・qi2 yi1
 titleSlug: you-shan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

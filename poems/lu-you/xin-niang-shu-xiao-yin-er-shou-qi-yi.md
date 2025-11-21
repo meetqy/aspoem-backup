@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-niang-shu-xiao-yin-er-shou-qi-yi
-title: 新釀熟小飲二首  其一
-titlePinyin: xin1 niang4 shu2 xiao3 yin3 er4 shou3     qi2 yi1
+title: 新釀熟小飲二首・其一
+titlePinyin: xin1 niang4 shu2 xiao3 yin3 er4 shou3・qi2 yi1
 titleSlug: xin-niang-shu-xiao-yin-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

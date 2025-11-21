@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-chou-zhong-wu-er-shou-qi-er
-title: 乙丑重五二首  其二
-titlePinyin: yi3 chou3 zhong4 wu3 er4 shou3     qi2 er4
+title: 乙丑重五二首・其二
+titlePinyin: yi3 chou3 zhong4 wu3 er4 shou3・qi2 er4
 titleSlug: yi-chou-zhong-wu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

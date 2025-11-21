@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-zuo-er-shou-zi-jie-qi-er
-title: 又作二首自解  其二
-titlePinyin: you4 zuo4 er4 shou3 zi4 jie3     qi2 er4
+title: 又作二首自解・其二
+titlePinyin: you4 zuo4 er4 shou3 zi4 jie3・qi2 er4
 titleSlug: you-zuo-er-shou-zi-jie-qi-er
 author: 陸游
 authorPinyin: lu4 you2

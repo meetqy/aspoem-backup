@@ -1,7 +1,7 @@
 ---
 id: lu-you-xie-yan-shi-song-mei-er-shou-qi-er
-title: 謝演師送梅二首  其二
-titlePinyin: xie4 yan3 shi1 song4 mei2 er4 shou3     qi2 er4
+title: 謝演師送梅二首・其二
+titlePinyin: xie4 yan3 shi1 song4 mei2 er4 shou3・qi2 er4
 titleSlug: xie-yan-shi-song-mei-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

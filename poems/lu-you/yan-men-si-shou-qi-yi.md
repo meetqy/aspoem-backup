@@ -1,7 +1,7 @@
 ---
 id: lu-you-yan-men-si-shou-qi-yi
-title: 掩門四首  其一
-titlePinyin: yan3 men2 si4 shou3     qi2 yi1
+title: 掩門四首・其一
+titlePinyin: yan3 men2 si4 shou3・qi2 yi1
 titleSlug: yan-men-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

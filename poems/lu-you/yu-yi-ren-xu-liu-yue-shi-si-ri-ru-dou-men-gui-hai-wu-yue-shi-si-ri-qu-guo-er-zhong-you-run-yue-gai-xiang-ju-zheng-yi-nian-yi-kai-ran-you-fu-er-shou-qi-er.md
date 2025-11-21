@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-yi-ren-xu-liu-yue-shi-si-ri-ru-dou-men-gui-hai-wu-yue-shi-si-ri-qu-guo-er-zhong-you-run-yue-gai-xiang-ju-zheng-yi-nian-yi-kai-ran-you-fu-er-shou-qi-er
-title: 予以壬戌六月十四日入都門癸亥五月十四日去國而中有閏月蓋相距正一年矣慨然有賦二首  其二
-titlePinyin: yu3 yi3 ren2 xu1 liu4 yue4 shi2 si4 ri4 ru4 dou1 men2 gui3 hai4 wu3 yue4 shi2 si4 ri4 qu4 guo2 er2 zhong1 you3 run4 yue4 gai4 xiang1 ju4 zheng4 yi4 nian2 yi3 kai3 ran2 you3 fu4 er4 shou3     qi2 er4
+title: 予以壬戌六月十四日入都門癸亥五月十四日去國而中有閏月蓋相距正一年矣慨然有賦二首・其二
+titlePinyin: yu3 yi3 ren2 xu1 liu4 yue4 shi2 si4 ri4 ru4 dou1 men2 gui3 hai4 wu3 yue4 shi2 si4 ri4 qu4 guo2 er2 zhong1 you3 run4 yue4 gai4 xiang1 ju4 zheng4 yi4 nian2 yi3 kai3 ran2 you3 fu4 er4 shou3・qi2 er4
 titleSlug: yu-yi-ren-xu-liu-yue-shi-si-ri-ru-dou-men-gui-hai-wu-yue-shi-si-ri-qu-guo-er-zhong-you-run-yue-gai-xiang-ju-zheng-yi-nian-yi-kai-ran-you-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-shi-ke-er-shou-qi-yi
-title: 幽居示客二首  其一
-titlePinyin: you1 ju1 shi4 ke4 er4 shou3     qi2 yi1
+title: 幽居示客二首・其一
+titlePinyin: you1 ju1 shi4 ke4 er4 shou3・qi2 yi1
 titleSlug: you-ju-shi-ke-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

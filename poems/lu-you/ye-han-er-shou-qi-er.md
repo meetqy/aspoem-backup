@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-han-er-shou-qi-er
-title: 夜寒二首  其二
-titlePinyin: ye4 han2 er4 shou3     qi2 er4
+title: 夜寒二首・其二
+titlePinyin: ye4 han2 er4 shou3・qi2 er4
 titleSlug: ye-han-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-zhong-qi-du-shu-xi-zuo-er-shou-qi-yi
-title: 夜中起讀書戲作二首  其一
-titlePinyin: ye4 zhong1 qi3 du2 shu1 xi4 zuo4 er4 shou3     qi2 yi1
+title: 夜中起讀書戲作二首・其一
+titlePinyin: ye4 zhong1 qi3 du2 shu1 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: ye-zhong-qi-du-shu-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

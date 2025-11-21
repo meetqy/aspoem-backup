@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-zhong-hu-qi-cong-rong-zhi-xing-xi-zuo-si-shou-qi-er
-title: 雪中忽起從戎之興戲作四首  其二
-titlePinyin: xue3 zhong1 hu1 qi3 cong2 rong2 zhi1 xing1 xi4 zuo4 si4 shou3     qi2 er4
+title: 雪中忽起從戎之興戲作四首・其二
+titlePinyin: xue3 zhong1 hu1 qi3 cong2 rong2 zhi1 xing1 xi4 zuo4 si4 shou3・qi2 er4
 titleSlug: xue-zhong-hu-qi-cong-rong-zhi-xing-xi-zuo-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

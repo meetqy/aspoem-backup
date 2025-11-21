@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-bi-ou-ti-san-shou-qi-san
-title: 驛壁偶題三首  其三
-titlePinyin: yi4 bi4 ou3 ti2 san1 shou3     qi2 san1
+title: 驛壁偶題三首・其三
+titlePinyin: yi4 bi4 ou3 ti2 san1 shou3・qi2 san1
 titleSlug: yi-bi-ou-ti-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhong-xi-fu-cun-luo-jing-wu-er-shou-qi-yi
-title: 閑中戲賦村落景物二首  其一
-titlePinyin: xian2 zhong1 xi4 fu4 cun1 luo4 jing3 wu4 er4 shou3     qi2 yi1
+title: 閑中戲賦村落景物二首・其一
+titlePinyin: xian2 zhong1 xi4 fu4 cun1 luo4 jing3 wu4 er4 shou3・qi2 yi1
 titleSlug: xian-zhong-xi-fu-cun-luo-jing-wu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

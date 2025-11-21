@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-liang-shu-huai-si-shou-qi-er
-title: 新凉書懷四首  其二
-titlePinyin: xin1 liang2 shu1 huai2 si4 shou3     qi2 er4
+title: 新凉書懷四首・其二
+titlePinyin: xin1 liang2 shu1 huai2 si4 shou3・qi2 er4
 titleSlug: xin-liang-shu-huai-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

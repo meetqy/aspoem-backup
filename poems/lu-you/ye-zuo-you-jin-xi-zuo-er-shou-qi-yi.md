@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-zuo-you-jin-xi-zuo-er-shou-qi-yi
-title: 夜坐油盡戲作二首  其一
-titlePinyin: ye4 zuo4 you2 jin4 xi4 zuo4 er4 shou3     qi2 yi1
+title: 夜坐油盡戲作二首・其一
+titlePinyin: ye4 zuo4 you2 jin4 xi4 zuo4 er4 shou3・qi2 yi1
 titleSlug: ye-zuo-you-jin-xi-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

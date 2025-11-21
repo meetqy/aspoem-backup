@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-xi-shi-xi-zuo-san-shou-qi-er
-title: 雨中夕食戲作三首  其二
-titlePinyin: yu3 zhong1 xi1 shi2 xi4 zuo4 san1 shou3     qi2 er4
+title: 雨中夕食戲作三首・其二
+titlePinyin: yu3 zhong1 xi1 shi2 xi4 zuo4 san1 shou3・qi2 er4
 titleSlug: yu-zhong-xi-shi-xi-zuo-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

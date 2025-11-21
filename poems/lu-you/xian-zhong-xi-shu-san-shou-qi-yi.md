@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhong-xi-shu-san-shou-qi-yi
-title: 閑中戯書三首  其一
-titlePinyin: xian2 zhong1 xi4 shu1 san1 shou3     qi2 yi1
+title: 閑中戯書三首・其一
+titlePinyin: xian2 zhong1 xi4 shu1 san1 shou3・qi2 yi1
 titleSlug: xian-zhong-xi-shu-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

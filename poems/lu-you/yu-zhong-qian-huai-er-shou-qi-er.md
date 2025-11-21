@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-qian-huai-er-shou-qi-er
-title: 雨中遣懷二首  其二
-titlePinyin: yu3 zhong1 qian3 huai2 er4 shou3     qi2 er4
+title: 雨中遣懷二首・其二
+titlePinyin: yu3 zhong1 qian3 huai2 er4 shou3・qi2 er4
 titleSlug: yu-zhong-qian-huai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

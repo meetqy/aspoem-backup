@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-hou-xun-mei-ou-de-jue-ju-shi-shou-qi-si
-title: 雪後尋梅偶得絕句十首  其四
-titlePinyin: xue3 hou4 xun2 mei2 ou3 de2 jue2 ju4 shi2 shou3     qi2 si4
+title: 雪後尋梅偶得絕句十首・其四
+titlePinyin: xue3 hou4 xun2 mei2 ou3 de2 jue2 ju4 shi2 shou3・qi2 si4
 titleSlug: xue-hou-xun-mei-ou-de-jue-ju-shi-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

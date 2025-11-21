@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-ji-jin-xi-shi-shi-shou-yi-shi-shu-cong-su-hao-lin-yuan-wu-su-qing-wei-yun-qi-qi
-title: 幽居記今昔事十首以詩書從宿好林園無俗情爲韵  其七
-titlePinyin: you1 ju1 ji4 jin1 xi1 shi4 shi2 shou3 yi3 shi1 shu1 cong2 su4 hao3 lin2 yuan2 wu2 su2 qing2 wei2 yun4     qi2 qi1
+title: 幽居記今昔事十首以詩書從宿好林園無俗情爲韵・其七
+titlePinyin: you1 ju1 ji4 jin1 xi1 shi4 shi2 shou3 yi3 shi1 shu1 cong2 su4 hao3 lin2 yuan2 wu2 su2 qing2 wei2 yun4・qi2 qi1
 titleSlug: you-ju-ji-jin-xi-shi-shi-shou-yi-shi-shu-cong-su-hao-lin-yuan-wu-su-qing-wei-yun-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

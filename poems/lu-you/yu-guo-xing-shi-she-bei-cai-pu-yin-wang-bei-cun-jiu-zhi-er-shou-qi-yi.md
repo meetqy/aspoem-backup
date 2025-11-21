@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-guo-xing-shi-she-bei-cai-pu-yin-wang-bei-cun-jiu-zhi-er-shou-qi-yi
-title: 雨過行視舍北菜圃因望北村久之二首  其一
-titlePinyin: yu3 guo4 xing2 shi4 she4 bei3 cai4 pu3 yin1 wang4 bei3 cun1 jiu3 zhi1 er4 shou3     qi2 yi1
+title: 雨過行視舍北菜圃因望北村久之二首・其一
+titlePinyin: yu3 guo4 xing2 shi4 she4 bei3 cai4 pu3 yin1 wang4 bei3 cun1 jiu3 zhi1 er4 shou3・qi2 yi1
 titleSlug: yu-guo-xing-shi-she-bei-cai-pu-yin-wang-bei-cun-jiu-zhi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

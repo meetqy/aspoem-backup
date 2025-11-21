@@ -1,7 +1,7 @@
 ---
 id: lu-you-yan-qi-xing-er-shou-qi-er
-title: 焉耆行二首  其二
-titlePinyin: yan1 qi2 xing2 er4 shou3     qi2 er4
+title: 焉耆行二首・其二
+titlePinyin: yan1 qi2 xing2 er4 shou3・qi2 er4
 titleSlug: yan-qi-xing-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

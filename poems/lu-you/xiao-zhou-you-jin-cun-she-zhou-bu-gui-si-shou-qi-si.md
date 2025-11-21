@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhou-you-jin-cun-she-zhou-bu-gui-si-shou-qi-si
-title: 小舟遊近村捨舟步歸四首  其四
-titlePinyin: xiao3 zhou1 you2 jin4 cun1 she3 zhou1 bu4 gui1 si4 shou3     qi2 si4
+title: 小舟遊近村捨舟步歸四首・其四
+titlePinyin: xiao3 zhou1 you2 jin4 cun1 she3 zhou1 bu4 gui1 si4 shou3・qi2 si4
 titleSlug: xiao-zhou-you-jin-cun-she-zhou-bu-gui-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

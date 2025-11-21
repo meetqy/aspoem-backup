@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-qing-yu-chu-er-lu-ning-wei-tong-xi-zuo-er-shou-qi-er
-title: 雪晴欲出而路濘未通戲作二首  其二
-titlePinyin: xue3 qing2 yu4 chu1 er2 lu4 ning4 wei4 tong1 xi4 zuo4 er4 shou3     qi2 er4
+title: 雪晴欲出而路濘未通戲作二首・其二
+titlePinyin: xue3 qing2 yu4 chu1 er2 lu4 ning4 wei4 tong1 xi4 zuo4 er4 shou3・qi2 er4
 titleSlug: xue-qing-yu-chu-er-lu-ning-wei-tong-xi-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

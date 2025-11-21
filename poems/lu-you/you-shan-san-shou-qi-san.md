@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-shan-san-shou-qi-san
-title: 遊山三首  其三
-titlePinyin: you2 shan1 san1 shou3     qi2 san1
+title: 遊山三首・其三
+titlePinyin: you2 shan1 san1 shou3・qi2 san1
 titleSlug: you-shan-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

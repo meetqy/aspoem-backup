@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-zi-xiang-li-ye-zhi-xin-tang-she-zhou-bu-gui-er-shou-qi-er
-title: 雨中自項里夜至新塘捨舟步歸二首  其二
-titlePinyin: yu3 zhong1 zi4 xiang4 li3 ye4 zhi4 xin1 tang2 she3 zhou1 bu4 gui1 er4 shou3     qi2 er4
+title: 雨中自項里夜至新塘捨舟步歸二首・其二
+titlePinyin: yu3 zhong1 zi4 xiang4 li3 ye4 zhi4 xin1 tang2 she3 zhou1 bu4 gui1 er4 shou3・qi2 er4
 titleSlug: yu-zhong-zi-xiang-li-ye-zhi-xin-tang-she-zhou-bu-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

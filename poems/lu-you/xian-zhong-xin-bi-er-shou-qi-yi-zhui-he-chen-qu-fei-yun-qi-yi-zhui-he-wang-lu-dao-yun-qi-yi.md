@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhong-xin-bi-er-shou-qi-yi-zhui-he-chen-qu-fei-yun-qi-yi-zhui-he-wang-lu-dao-yun-qi-yi
-title: 閑中信筆二首其一追和陳去非韵其一追和王履道韵  其一
-titlePinyin: xian2 zhong1 xin4 bi3 er4 shou3 qi2 yi1 zhui1 he2 chen2 qu4 fei1 yun4 qi2 yi1 zhui1 he2 wang2 lü3 dao4 yun4     qi2 yi1
+title: 閑中信筆二首其一追和陳去非韵其一追和王履道韵・其一
+titlePinyin: xian2 zhong1 xin4 bi3 er4 shou3 qi2 yi1 zhui1 he2 chen2 qu4 fei1 yun4 qi2 yi1 zhui1 he2 wang2 lü3 dao4 yun4・qi2 yi1
 titleSlug: xian-zhong-xin-bi-er-shou-qi-yi-zhui-he-chen-qu-fei-yun-qi-yi-zhui-he-wang-lu-dao-yun-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

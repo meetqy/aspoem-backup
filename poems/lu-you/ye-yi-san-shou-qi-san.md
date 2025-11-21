@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-yi-san-shou-qi-san
-title: 夜意三首  其三
-titlePinyin: ye4 yi4 san1 shou3     qi2 san1
+title: 夜意三首・其三
+titlePinyin: ye4 yi4 san1 shou3・qi2 san1
 titleSlug: ye-yi-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

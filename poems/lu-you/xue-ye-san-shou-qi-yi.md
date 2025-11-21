@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-ye-san-shou-qi-yi
-title: 雪夜三首  其一
-titlePinyin: xue3 ye4 san1 shou3     qi2 yi1
+title: 雪夜三首・其一
+titlePinyin: xue3 ye4 san1 shou3・qi2 yi1
 titleSlug: xue-ye-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

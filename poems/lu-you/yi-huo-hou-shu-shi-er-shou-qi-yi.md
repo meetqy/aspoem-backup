@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-huo-hou-shu-shi-er-shou-qi-yi
-title: 刈穫後書事二首  其一
-titlePinyin: yi4 huo4 hou4 shu1 shi4 er4 shou3     qi2 yi1
+title: 刈穫後書事二首・其一
+titlePinyin: yi4 huo4 hou4 shu1 shi4 er4 shou3・qi2 yi1
 titleSlug: yi-huo-hou-shu-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

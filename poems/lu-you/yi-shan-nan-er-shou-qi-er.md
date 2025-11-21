@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-shan-nan-er-shou-qi-er
-title: 憶山南二首  其二
-titlePinyin: yi4 shan1 nan2 er4 shou3     qi2 er4
+title: 憶山南二首・其二
+titlePinyin: yi4 shan1 nan2 er4 shou3・qi2 er4
 titleSlug: yi-shan-nan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

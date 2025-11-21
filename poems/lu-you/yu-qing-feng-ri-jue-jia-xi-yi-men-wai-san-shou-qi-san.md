@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-qing-feng-ri-jue-jia-xi-yi-men-wai-san-shou-qi-san
-title: 雨晴風日絕佳徙倚門外三首  其三
-titlePinyin: yu3 qing2 feng1 ri4 jue2 jia1 xi3 yi3 men2 wai4 san1 shou3     qi2 san1
+title: 雨晴風日絕佳徙倚門外三首・其三
+titlePinyin: yu3 qing2 feng1 ri4 jue2 jia1 xi3 yi3 men2 wai4 san1 shou3・qi2 san1
 titleSlug: yu-qing-feng-ri-jue-jia-xi-yi-men-wai-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

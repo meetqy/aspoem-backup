@@ -1,7 +1,7 @@
 ---
 id: lu-you-yang-ting-xiu-ji-nan-hai-ji-er-shou-qi-er
-title: 楊庭秀寄南海集二首  其二
-titlePinyin: yang2 ting2 xiu4 ji4 nan2 hai3 ji2 er4 shou3     qi2 er4
+title: 楊庭秀寄南海集二首・其二
+titlePinyin: yang2 ting2 xiu4 ji4 nan2 hai3 ji2 er4 shou3・qi2 er4
 titleSlug: yang-ting-xiu-ji-nan-hai-ji-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

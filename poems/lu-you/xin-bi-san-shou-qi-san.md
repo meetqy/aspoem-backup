@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-bi-san-shou-qi-san
-title: 信筆三首  其三
-titlePinyin: xin4 bi3 san1 shou3     qi2 san1
+title: 信筆三首・其三
+titlePinyin: xin4 bi3 san1 shou3・qi2 san1
 titleSlug: xin-bi-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

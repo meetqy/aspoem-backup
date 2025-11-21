@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-ji-shi-jiu-shou-qi-si
-title: 幽居即事九首  其四
-titlePinyin: you1 ju1 ji2 shi4 jiu3 shou3     qi2 si4
+title: 幽居即事九首・其四
+titlePinyin: you1 ju1 ji2 shi4 jiu3 shou3・qi2 si4
 titleSlug: you-ju-ji-shi-jiu-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

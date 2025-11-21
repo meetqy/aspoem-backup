@@ -1,7 +1,7 @@
 ---
 id: lu-you-yue-wang-lou-er-shou-qi-yi
-title: 越王樓二首  其一
-titlePinyin: yue4 wang2 lou2 er4 shou3     qi2 yi1
+title: 越王樓二首・其一
+titlePinyin: yue4 wang2 lou2 er4 shou3・qi2 yi1
 titleSlug: yue-wang-lou-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

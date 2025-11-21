@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiang-zhong-mei-yi-han-shi-li-xia-zhi-jian-sheng-fen-ke-kui-shi-feng-ci-shi-qi-ran-gan-huai-er-shou-qi-yi
-title: 鄉中每以寒食立夏之間省墳客夔適逢此時悽然感懷二首  其一
-titlePinyin: xiang1 zhong1 mei3 yi3 han2 shi2 li4 xia4 zhi1 jian4 sheng3 fen2 ke4 kui2 shi4 feng2 ci3 shi2 qi1 ran2 gan3 huai2 er4 shou3     qi2 yi1
+title: 鄉中每以寒食立夏之間省墳客夔適逢此時悽然感懷二首・其一
+titlePinyin: xiang1 zhong1 mei3 yi3 han2 shi2 li4 xia4 zhi1 jian4 sheng3 fen2 ke4 kui2 shi4 feng2 ci3 shi2 qi1 ran2 gan3 huai2 er4 shou3・qi2 yi1
 titleSlug: xiang-zhong-mei-yi-han-shi-li-xia-zhi-jian-sheng-fen-ke-kui-shi-feng-ci-shi-qi-ran-gan-huai-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

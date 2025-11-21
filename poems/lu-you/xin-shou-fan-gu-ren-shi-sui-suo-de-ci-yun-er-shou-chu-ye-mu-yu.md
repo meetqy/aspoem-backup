@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-shou-fan-gu-ren-shi-sui-suo-de-ci-yun-er-shou-chu-ye-mu-yu
-title: 信手翻古人詩隨所得次韵二首 除夜沐浴
-titlePinyin: xin4 shou3 fan1 gu3 ren2 shi1 sui2 suo3 de2 ci4 yun4 er4 shou3   chu2 ye4 mu4 yu4
+title: 信手翻古人詩隨所得次韵二首・除夜沐浴
+titlePinyin: xin4 shou3 fan1 gu3 ren2 shi1 sui2 suo3 de2 ci4 yun4 er4 shou3・chu2 ye4 mu4 yu4
 titleSlug: xin-shou-fan-gu-ren-shi-sui-suo-de-ci-yun-er-shou-chu-ye-mu-yu
 author: 陸游
 authorPinyin: lu4 you2

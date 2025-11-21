@@ -1,7 +1,7 @@
 ---
 id: lu-you-xie-zhang-ting-lao-si-li-lu-shi-shan-ju-shi-er-shou-qi-yi
-title: 謝張廷老司理録示山居詩二首  其一
-titlePinyin: xie4 zhang1 ting2 lao3 si1 li3 lu4 shi4 shan1 ju1 shi1 er4 shou3     qi2 yi1
+title: 謝張廷老司理録示山居詩二首・其一
+titlePinyin: xie4 zhang1 ting2 lao3 si1 li3 lu4 shi4 shan1 ju1 shi1 er4 shou3・qi2 yi1
 titleSlug: xie-zhang-ting-lao-si-li-lu-shi-shan-ju-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

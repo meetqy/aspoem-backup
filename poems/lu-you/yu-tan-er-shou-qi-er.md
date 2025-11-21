@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-tan-er-shou-qi-er
-title: 寓嘆二首  其二
-titlePinyin: yu4 tan4 er4 shou3     qi2 er4
+title: 寓嘆二首・其二
+titlePinyin: yu4 tan4 er4 shou3・qi2 er4
 titleSlug: yu-tan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

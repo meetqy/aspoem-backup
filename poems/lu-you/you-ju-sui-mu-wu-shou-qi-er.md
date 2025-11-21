@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-sui-mu-wu-shou-qi-er
-title: 幽居歲暮五首  其二
-titlePinyin: you1 ju1 sui4 mu4 wu3 shou3     qi2 er4
+title: 幽居歲暮五首・其二
+titlePinyin: you1 ju1 sui4 mu4 wu3 shou3・qi2 er4
 titleSlug: you-ju-sui-mu-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

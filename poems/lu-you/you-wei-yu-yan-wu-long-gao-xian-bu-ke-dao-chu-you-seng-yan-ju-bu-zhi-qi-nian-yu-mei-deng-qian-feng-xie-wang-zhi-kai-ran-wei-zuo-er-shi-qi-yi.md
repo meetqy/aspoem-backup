@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-wei-yu-yan-wu-long-gao-xian-bu-ke-dao-chu-you-seng-yan-ju-bu-zhi-qi-nian-yu-mei-deng-qian-feng-xie-wang-zhi-kai-ran-wei-zuo-er-shi-qi-yi
-title: 有爲予言烏龍高嶮不可到處有僧巖居不知其年予每登千峰榭望之慨然爲作二詩  其一
-titlePinyin: you3 wei2 yu3 yan2 wu1 long2 gao1 xian3 bu4 ke3 dao4 chu3 you3 seng1 yan2 ju1 bu4 zhi1 qi2 nian2 yu3 mei3 deng1 qian1 feng1 xie4 wang4 zhi1 kai3 ran2 wei2 zuo4 er4 shi1     qi2 yi1
+title: 有爲予言烏龍高嶮不可到處有僧巖居不知其年予每登千峰榭望之慨然爲作二詩・其一
+titlePinyin: you3 wei2 yu3 yan2 wu1 long2 gao1 xian3 bu4 ke3 dao4 chu3 you3 seng1 yan2 ju1 bu4 zhi1 qi2 nian2 yu3 mei3 deng1 qian1 feng1 xie4 wang4 zhi1 kai3 ran2 wei2 zuo4 er4 shi1・qi2 yi1
 titleSlug: you-wei-yu-yan-wu-long-gao-xian-bu-ke-dao-chu-you-seng-yan-ju-bu-zhi-qi-nian-yu-mei-deng-qian-feng-xie-wang-zhi-kai-ran-wei-zuo-er-shi-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

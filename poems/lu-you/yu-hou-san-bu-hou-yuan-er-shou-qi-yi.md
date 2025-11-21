@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-hou-san-bu-hou-yuan-er-shou-qi-yi
-title: 雨後散步後園二首  其一
-titlePinyin: yu3 hou4 san4 bu4 hou4 yuan2 er4 shou3     qi2 yi1
+title: 雨後散步後園二首・其一
+titlePinyin: yu3 hou4 san4 bu4 hou4 yuan2 er4 shou3・qi2 yi1
 titleSlug: yu-hou-san-bu-hou-yuan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

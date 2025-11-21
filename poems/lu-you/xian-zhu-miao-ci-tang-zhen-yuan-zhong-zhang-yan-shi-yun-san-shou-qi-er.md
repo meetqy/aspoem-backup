@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhu-miao-ci-tang-zhen-yuan-zhong-zhang-yan-shi-yun-san-shou-qi-er
-title: 先主廟次唐貞元中張儼詩韵三首  其二
-titlePinyin: xian1 zhu3 miao4 ci4 tang2 zhen1 yuan2 zhong1 zhang1 yan3 shi1 yun4 san1 shou3     qi2 er4
+title: 先主廟次唐貞元中張儼詩韵三首・其二
+titlePinyin: xian1 zhu3 miao4 ci4 tang2 zhen1 yuan2 zhong1 zhang1 yan3 shi1 yun4 san1 shou3・qi2 er4
 titleSlug: xian-zhu-miao-ci-tang-zhen-yuan-zhong-zhang-yan-shi-yun-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

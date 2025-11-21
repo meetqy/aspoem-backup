@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-yan-san-shou-qi-yi
-title: 寓言三首  其一
-titlePinyin: yu4 yan2 san1 shou3     qi2 yi1
+title: 寓言三首・其一
+titlePinyin: yu4 yan2 san1 shou3・qi2 yi1
 titleSlug: yu-yan-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

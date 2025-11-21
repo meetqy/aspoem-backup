@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhou-zi-hong-qiao-zhi-nan-guo-ji-ze-gui-san-shan-er-shou-qi-yi
-title: 小舟自紅橋之南過吉澤歸三山二首  其一
-titlePinyin: xiao3 zhou1 zi4 hong2 qiao2 zhi1 nan2 guo4 ji2 ze2 gui1 san1 shan1 er4 shou3     qi2 yi1
+title: 小舟自紅橋之南過吉澤歸三山二首・其一
+titlePinyin: xiao3 zhou1 zi4 hong2 qiao2 zhi1 nan2 guo4 ji2 ze2 gui1 san1 shan1 er4 shou3・qi2 yi1
 titleSlug: xiao-zhou-zi-hong-qiao-zhi-nan-guo-ji-ze-gui-san-shan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

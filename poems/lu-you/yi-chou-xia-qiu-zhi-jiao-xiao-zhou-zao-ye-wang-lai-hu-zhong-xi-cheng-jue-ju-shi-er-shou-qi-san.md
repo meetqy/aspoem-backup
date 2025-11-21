@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-chou-xia-qiu-zhi-jiao-xiao-zhou-zao-ye-wang-lai-hu-zhong-xi-cheng-jue-ju-shi-er-shou-qi-san
-title: 乙丑夏秋之交小舟早夜往來湖中戲成絕句十二首  其三
-titlePinyin: yi3 chou3 xia4 qiu1 zhi1 jiao1 xiao3 zhou1 zao3 ye4 wang3 lai2 hu2 zhong1 xi4 cheng2 jue2 ju4 shi2 er4 shou3     qi2 san1
+title: 乙丑夏秋之交小舟早夜往來湖中戲成絕句十二首・其三
+titlePinyin: yi3 chou3 xia4 qiu1 zhi1 jiao1 xiao3 zhou1 zao3 ye4 wang3 lai2 hu2 zhong1 xi4 cheng2 jue2 ju4 shi2 er4 shou3・qi2 san1
 titleSlug: yi-chou-xia-qiu-zhi-jiao-xiao-zhou-zao-ye-wang-lai-hu-zhong-xi-cheng-jue-ju-shi-er-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

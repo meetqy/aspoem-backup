@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-xian-wu-shou-qi-er
-title: 遊僊五首  其二
-titlePinyin: you2 xian1 wu3 shou3     qi2 er4
+title: 遊僊五首・其二
+titlePinyin: you2 xian1 wu3 shou3・qi2 er4
 titleSlug: you-xian-wu-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

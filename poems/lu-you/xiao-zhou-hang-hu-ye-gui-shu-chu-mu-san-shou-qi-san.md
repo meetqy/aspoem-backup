@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhou-hang-hu-ye-gui-shu-chu-mu-san-shou-qi-san
-title: 小舟航湖夜歸書觸目三首  其三
-titlePinyin: xiao3 zhou1 hang2 hu2 ye4 gui1 shu1 chu4 mu4 san1 shou3     qi2 san1
+title: 小舟航湖夜歸書觸目三首・其三
+titlePinyin: xiao3 zhou1 hang2 hu2 ye4 gui1 shu1 chu4 mu4 san1 shou3・qi2 san1
 titleSlug: xiao-zhou-hang-hu-ye-gui-shu-chu-mu-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

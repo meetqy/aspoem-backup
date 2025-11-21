@@ -1,7 +1,7 @@
 ---
 id: lu-you-xie-jun-ji-yi-li-chun-yu-tu-qiu-shi-wei-zuo-jue-ju-er-shou-qi-er
-title: 謝君寄一犁春雨圖求詩爲作絕句二首  其二
-titlePinyin: xie4 jun1 ji4 yi4 li2 chun1 yu3 tu2 qiu2 shi1 wei2 zuo4 jue2 ju4 er4 shou3     qi2 er4
+title: 謝君寄一犁春雨圖求詩爲作絕句二首・其二
+titlePinyin: xie4 jun1 ji4 yi4 li2 chun1 yu3 tu2 qiu2 shi1 wei2 zuo4 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: xie-jun-ji-yi-li-chun-yu-tu-qiu-shi-wei-zuo-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

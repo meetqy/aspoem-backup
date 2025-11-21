@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-gui-er-shou-qi-yi
-title: 夜歸二首  其一
-titlePinyin: ye4 gui1 er4 shou3     qi2 yi1
+title: 夜歸二首・其一
+titlePinyin: ye4 gui1 er4 shou3・qi2 yi1
 titleSlug: ye-gui-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

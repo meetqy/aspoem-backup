@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-qian-huai-san-shou-qi-san
-title: 幽居遣懷三首  其三
-titlePinyin: you1 ju1 qian3 huai2 san1 shou3     qi2 san1
+title: 幽居遣懷三首・其三
+titlePinyin: you1 ju1 qian3 huai2 san1 shou3・qi2 san1
 titleSlug: you-ju-qian-huai-san-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

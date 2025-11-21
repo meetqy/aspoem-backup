@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-cun-lin-ju-yin-er-shou-qi-er
-title: 與村鄰聚飲二首  其二
-titlePinyin: yu3 cun1 lin2 ju4 yin3 er4 shou3     qi2 er4
+title: 與村鄰聚飲二首・其二
+titlePinyin: yu3 cun1 lin2 ju4 yin3 er4 shou3・qi2 er4
 titleSlug: yu-cun-lin-ju-yin-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

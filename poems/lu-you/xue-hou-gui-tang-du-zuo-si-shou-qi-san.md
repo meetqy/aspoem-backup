@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-hou-gui-tang-du-zuo-si-shou-qi-san
-title: 雪後龜堂獨坐四首  其三
-titlePinyin: xue3 hou4 gui1 tang2 du2 zuo4 si4 shou3     qi2 san1
+title: 雪後龜堂獨坐四首・其三
+titlePinyin: xue3 hou4 gui1 tang2 du2 zuo4 si4 shou3・qi2 san1
 titleSlug: xue-hou-gui-tang-du-zuo-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

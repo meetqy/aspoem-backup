@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-shi-jue-ju-liu-shou-qi-wu
-title: 幽事絕句六首  其五
-titlePinyin: you1 shi4 jue2 ju4 liu4 shou3     qi2 wu3
+title: 幽事絕句六首・其五
+titlePinyin: you1 shi4 jue2 ju4 liu4 shou3・qi2 wu3
 titleSlug: you-shi-jue-ju-liu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

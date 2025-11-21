@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-yuan-chun-si-er-shou-qi-yi
-title: 小園春思二首  其一
-titlePinyin: xiao3 yuan2 chun1 si1 er4 shou3     qi2 yi1
+title: 小園春思二首・其一
+titlePinyin: xiao3 yuan2 chun1 si1 er4 shou3・qi2 yi1
 titleSlug: xiao-yuan-chun-si-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

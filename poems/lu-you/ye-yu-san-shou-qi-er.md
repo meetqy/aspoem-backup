@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-yu-san-shou-qi-er
-title: 夜雨三首  其二
-titlePinyin: ye4 yu3 san1 shou3     qi2 er4
+title: 夜雨三首・其二
+titlePinyin: ye4 yu3 san1 shou3・qi2 er4
 titleSlug: ye-yu-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

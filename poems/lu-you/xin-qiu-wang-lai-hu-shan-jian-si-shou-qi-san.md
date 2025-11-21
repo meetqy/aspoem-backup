@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-qiu-wang-lai-hu-shan-jian-si-shou-qi-san
-title: 新秋往來湖山間四首  其三
-titlePinyin: xin1 qiu1 wang3 lai2 hu2 shan1 jian4 si4 shou3     qi2 san1
+title: 新秋往來湖山間四首・其三
+titlePinyin: xin1 qiu1 wang3 lai2 hu2 shan1 jian4 si4 shou3・qi2 san1
 titleSlug: xin-qiu-wang-lai-hu-shan-jian-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

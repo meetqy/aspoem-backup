@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhu-er-shou-qi-yi
-title: 小筑二首  其一
-titlePinyin: xiao3 zhu4 er4 shou3     qi2 yi1
+title: 小筑二首・其一
+titlePinyin: xiao3 zhu4 er4 shou3・qi2 yi1
 titleSlug: xiao-zhu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-tang-si-shou-qi-yi
-title: 野堂四首  其一
-titlePinyin: ye3 tang2 si4 shou3     qi2 yi1
+title: 野堂四首・其一
+titlePinyin: ye3 tang2 si4 shou3・qi2 yi1
 titleSlug: ye-tang-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

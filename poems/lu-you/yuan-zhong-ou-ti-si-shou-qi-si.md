@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-ou-ti-si-shou-qi-si
-title: 園中偶題四首  其四
-titlePinyin: yuan2 zhong1 ou3 ti2 si4 shou3     qi2 si4
+title: 園中偶題四首・其四
+titlePinyin: yuan2 zhong1 ou3 ti2 si4 shou3・qi2 si4
 titleSlug: yuan-zhong-ou-ti-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

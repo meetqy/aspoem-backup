@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhou-wan-gui-er-shou-qi-er
-title: 小舟晚歸二首  其二
-titlePinyin: xiao3 zhou1 wan3 gui1 er4 shou3     qi2 er4
+title: 小舟晚歸二首・其二
+titlePinyin: xiao3 zhou1 wan3 gui1 er4 shou3・qi2 er4
 titleSlug: xiao-zhou-wan-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

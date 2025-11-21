@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-jin-xiao-yan-zhi-ming-ri-yu-you-xiu-jue-si-yi-yu-bu-guo-cheng-fan-she-ren-er-shou-qi-er
-title: 新津小宴之明日欲逰修覺寺以雨不果呈范舍人二首  其二
-titlePinyin: xin1 jin1 xiao3 yan4 zhi1 ming2 ri4 yu4 you2 xiu1 jue2 si4 yi3 yu3 bu4 guo3 cheng2 fan4 she4 ren2 er4 shou3     qi2 er4
+title: 新津小宴之明日欲逰修覺寺以雨不果呈范舍人二首・其二
+titlePinyin: xin1 jin1 xiao3 yan4 zhi1 ming2 ri4 yu4 you2 xiu1 jue2 si4 yi3 yu3 bu4 guo3 cheng2 fan4 she4 ren2 er4 shou3・qi2 er4
 titleSlug: xin-jin-xiao-yan-zhi-ming-ri-yu-you-xiu-jue-si-yi-yu-bu-guo-cheng-fan-she-ren-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

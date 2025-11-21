@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-bu-er-shou-qi-er
-title: 野步二首  其二
-titlePinyin: ye3 bu4 er4 shou3     qi2 er4
+title: 野步二首・其二
+titlePinyin: ye3 bu4 er4 shou3・qi2 er4
 titleSlug: ye-bu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

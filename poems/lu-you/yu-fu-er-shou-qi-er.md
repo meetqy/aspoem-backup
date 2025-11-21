@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-fu-er-shou-qi-er
-title: 漁父二首  其二
-titlePinyin: yu2 fu4 er4 shou3     qi2 er4
+title: 漁父二首・其二
+titlePinyin: yu2 fu4 er4 shou3・qi2 er4
 titleSlug: yu-fu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

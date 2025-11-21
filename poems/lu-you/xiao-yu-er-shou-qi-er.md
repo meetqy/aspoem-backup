@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-yu-er-shou-qi-er
-title: 小雨二首  其二
-titlePinyin: xiao3 yu3 er4 shou3     qi2 er4
+title: 小雨二首・其二
+titlePinyin: xiao3 yu3 er4 shou3・qi2 er4
 titleSlug: xiao-yu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

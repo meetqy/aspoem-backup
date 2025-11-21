@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-ye-er-shou-qi-er
-title: 雪夜二首  其二
-titlePinyin: xue3 ye4 er4 shou3     qi2 er4
+title: 雪夜二首・其二
+titlePinyin: xue3 ye4 er4 shou3・qi2 er4
 titleSlug: xue-ye-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

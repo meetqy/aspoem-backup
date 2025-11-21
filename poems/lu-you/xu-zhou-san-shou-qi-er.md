@@ -1,7 +1,7 @@
 ---
 id: lu-you-xu-zhou-san-shou-qi-er
-title: 叙州三首  其二
-titlePinyin: xu4 zhou1 san1 shou3     qi2 er4
+title: 叙州三首・其二
+titlePinyin: xu4 zhou1 san1 shou3・qi2 er4
 titleSlug: xu-zhou-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

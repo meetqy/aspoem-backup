@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhong-ou-ti-er-shou-qi-yi
-title: 閑中偶題二首  其一
-titlePinyin: xian2 zhong1 ou3 ti2 er4 shou3     qi2 yi1
+title: 閑中偶題二首・其一
+titlePinyin: xian2 zhong1 ou3 ti2 er4 shou3・qi2 yi1
 titleSlug: xian-zhong-ou-ti-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

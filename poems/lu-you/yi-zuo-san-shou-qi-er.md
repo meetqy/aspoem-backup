@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-zuo-san-shou-qi-er
-title: 憶昨三首  其二
-titlePinyin: yi4 zuo2 san1 shou3     qi2 er4
+title: 憶昨三首・其二
+titlePinyin: yi4 zuo2 san1 shou3・qi2 er4
 titleSlug: yi-zuo-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

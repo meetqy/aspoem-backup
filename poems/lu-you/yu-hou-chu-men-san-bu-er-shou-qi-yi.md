@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-hou-chu-men-san-bu-er-shou-qi-yi
-title: 雨後出門散步二首  其一
-titlePinyin: yu3 hou4 chu1 men2 san4 bu4 er4 shou3     qi2 yi1
+title: 雨後出門散步二首・其一
+titlePinyin: yu3 hou4 chu1 men2 san4 bu4 er4 shou3・qi2 yi1
 titleSlug: yu-hou-chu-men-san-bu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

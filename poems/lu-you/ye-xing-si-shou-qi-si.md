@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-xing-si-shou-qi-si
-title: 野興四首  其四
-titlePinyin: ye3 xing1 si4 shou3     qi2 si4
+title: 野興四首・其四
+titlePinyin: ye3 xing1 si4 shou3・qi2 si4
 titleSlug: ye-xing-si-shou-qi-si
 author: 陸游
 authorPinyin: lu4 you2

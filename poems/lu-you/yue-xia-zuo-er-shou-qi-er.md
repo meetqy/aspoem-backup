@@ -1,7 +1,7 @@
 ---
 id: lu-you-yue-xia-zuo-er-shou-qi-er
-title: 月下作二首  其二
-titlePinyin: yue4 xia4 zuo4 er4 shou3     qi2 er4
+title: 月下作二首・其二
+titlePinyin: yue4 xia4 zuo4 er4 shou3・qi2 er4
 titleSlug: yue-xia-zuo-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

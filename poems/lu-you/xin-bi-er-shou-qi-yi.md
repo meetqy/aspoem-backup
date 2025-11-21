@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-bi-er-shou-qi-yi
-title: 信筆二首  其一
-titlePinyin: xin4 bi3 er4 shou3     qi2 yi1
+title: 信筆二首・其一
+titlePinyin: xin4 bi3 er4 shou3・qi2 yi1
 titleSlug: xin-bi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

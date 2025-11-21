@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zhou-guo-yu-yuan-er-shou-qi-er
-title: 小舟過御園二首  其二
-titlePinyin: xiao3 zhou1 guo4 yu4 yuan2 er4 shou3     qi2 er4
+title: 小舟過御園二首・其二
+titlePinyin: xiao3 zhou1 guo4 yu4 yuan2 er4 shou3・qi2 er4
 titleSlug: xiao-zhou-guo-yu-yuan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

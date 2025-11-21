@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-zuo-huo-ge-er-shou-qi-er
-title: 新作火閣二首  其二
-titlePinyin: xin1 zuo4 huo3 ge2 er4 shou3     qi2 er4
+title: 新作火閣二首・其二
+titlePinyin: xin1 zuo4 huo3 ge2 er4 shou3・qi2 er4
 titleSlug: xin-zuo-huo-ge-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

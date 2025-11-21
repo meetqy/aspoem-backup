@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-shan-bu-er-shou-qi-er
-title: 遊山步二首  其二
-titlePinyin: you2 shan1 bu4 er4 shou3     qi2 er4
+title: 遊山步二首・其二
+titlePinyin: you2 shan1 bu4 er4 shou3・qi2 er4
 titleSlug: you-shan-bu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

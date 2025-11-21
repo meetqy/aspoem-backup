@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-qiu-gan-shi-er-shou-qi-er
-title: 新秋感事二首  其二
-titlePinyin: xin1 qiu1 gan3 shi4 er4 shou3     qi2 er4
+title: 新秋感事二首・其二
+titlePinyin: xin1 qiu1 gan3 shi4 er4 shou3・qi2 er4
 titleSlug: xin-qiu-gan-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

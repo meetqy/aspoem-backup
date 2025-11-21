@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-hou-zhi-jin-cun-er-shou-qi-yi
-title: 雨後至近村二首  其一
-titlePinyin: yu3 hou4 zhi4 jin4 cun1 er4 shou3     qi2 yi1
+title: 雨後至近村二首・其一
+titlePinyin: yu3 hou4 zhi4 jin4 cun1 er4 shou3・qi2 yi1
 titleSlug: yu-hou-zhi-jin-cun-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

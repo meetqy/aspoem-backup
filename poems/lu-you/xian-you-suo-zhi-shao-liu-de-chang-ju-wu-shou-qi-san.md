@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-you-suo-zhi-shao-liu-de-chang-ju-wu-shou-qi-san
-title: 閑遊所至少留得長句五首  其三
-titlePinyin: xian2 you2 suo3 zhi4 shao3 liu2 de2 chang2 ju4 wu3 shou3     qi2 san1
+title: 閑遊所至少留得長句五首・其三
+titlePinyin: xian2 you2 suo3 zhi4 shao3 liu2 de2 chang2 ju4 wu3 shou3・qi2 san1
 titleSlug: xian-you-suo-zhi-shao-liu-de-chang-ju-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

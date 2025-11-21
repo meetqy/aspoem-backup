@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-ji-san-shou-qi-yi
-title: 小疾三首  其一
-titlePinyin: xiao3 ji2 san1 shou3     qi2 yi1
+title: 小疾三首・其一
+titlePinyin: xiao3 ji2 san1 shou3・qi2 yi1
 titleSlug: xiao-ji-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

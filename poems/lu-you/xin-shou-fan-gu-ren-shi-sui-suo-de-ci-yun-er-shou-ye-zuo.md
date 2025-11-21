@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-shou-fan-gu-ren-shi-sui-suo-de-ci-yun-er-shou-ye-zuo
-title: 信手翻古人詩隨所得次韵二首 夜坐
-titlePinyin: xin4 shou3 fan1 gu3 ren2 shi1 sui2 suo3 de2 ci4 yun4 er4 shou3   ye4 zuo4
+title: 信手翻古人詩隨所得次韵二首・夜坐
+titlePinyin: xin4 shou3 fan1 gu3 ren2 shi1 sui2 suo3 de2 ci4 yun4 er4 shou3・ye4 zuo4
 titleSlug: xin-shou-fan-gu-ren-shi-sui-suo-de-ci-yun-er-shou-ye-zuo
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-nian-er-shi-shi-chang-zuo-ju-zhen-shi-po-chuan-wu-ren-jin-qiu-ou-fu-cai-ju-feng-zhen-nang-qi-ran-you-gan-er-shou-qi-yi
-title: 余年二十時嘗作菊枕詩頗傳於人今秋偶復采菊縫枕囊悽然有感二首  其一
-titlePinyin: yu2 nian2 er4 shi2 shi2 chang2 zuo4 ju2 zhen3 shi1 po1 chuan2 wu1 ren2 jin1 qiu1 ou3 fu4 cai3 ju2 feng2 zhen3 nang2 qi1 ran2 you3 gan3 er4 shou3     qi2 yi1
+title: 余年二十時嘗作菊枕詩頗傳於人今秋偶復采菊縫枕囊悽然有感二首・其一
+titlePinyin: yu2 nian2 er4 shi2 shi2 chang2 zuo4 ju2 zhen3 shi1 po1 chuan2 wu1 ren2 jin1 qiu1 ou3 fu4 cai3 ju2 feng2 zhen3 nang2 qi1 ran2 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: yu-nian-er-shi-shi-chang-zuo-ju-zhen-shi-po-chuan-wu-ren-jin-qiu-ou-fu-cai-ju-feng-zhen-nang-qi-ran-you-gan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

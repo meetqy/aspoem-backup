@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-weng-er-shou-qi-er
-title: 漁翁二首  其二
-titlePinyin: yu2 weng1 er4 shou3     qi2 er4
+title: 漁翁二首・其二
+titlePinyin: yu2 weng1 er4 shou3・qi2 er4
 titleSlug: yu-weng-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

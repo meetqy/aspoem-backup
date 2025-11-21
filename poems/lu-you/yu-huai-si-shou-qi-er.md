@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-huai-si-shou-qi-er
-title: 寓懷四首  其二
-titlePinyin: yu4 huai2 si4 shou3     qi2 er4
+title: 寓懷四首・其二
+titlePinyin: yu4 huai2 si4 shou3・qi2 er4
 titleSlug: yu-huai-si-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

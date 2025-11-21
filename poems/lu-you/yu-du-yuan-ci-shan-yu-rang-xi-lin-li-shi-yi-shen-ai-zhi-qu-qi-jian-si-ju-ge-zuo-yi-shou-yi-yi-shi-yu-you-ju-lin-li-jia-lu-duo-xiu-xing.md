@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-du-yuan-ci-shan-yu-rang-xi-lin-li-shi-yi-shen-ai-zhi-qu-qi-jian-si-ju-ge-zuo-yi-shou-yi-yi-shi-yu-you-ju-lin-li-jia-lu-duo-xiu-xing
-title: 余讀元次山與瀼溪鄰里詩意甚愛之取其間四句各作一首亦以示予幽居鄰里 夾路多修行
-titlePinyin: yu2 du2 yuan2 ci4 shan1 yu3 rang2 xi1 lin2 li3 shi1 yi4 shen4 ai4 zhi1 qu3 qi2 jian4 si4 ju4 ge4 zuo4 yi4 shou3 yi4 yi3 shi4 yu3 you1 ju1 lin2 li3   jia1 lu4 duo1 xiu1 xing2
+title: 余讀元次山與瀼溪鄰里詩意甚愛之取其間四句各作一首亦以示予幽居鄰里・夾路多修行
+titlePinyin: yu2 du2 yuan2 ci4 shan1 yu3 rang2 xi1 lin2 li3 shi1 yi4 shen4 ai4 zhi1 qu3 qi2 jian4 si4 ju4 ge4 zuo4 yi4 shou3 yi4 yi3 shi4 yu3 you1 ju1 lin2 li3・jia1 lu4 duo1 xiu1 xing2
 titleSlug: yu-du-yuan-ci-shan-yu-rang-xi-lin-li-shi-yi-shen-ai-zhi-qu-qi-jian-si-ju-ge-zuo-yi-shou-yi-yi-shi-yu-you-ju-lin-li-jia-lu-duo-xiu-xing
 author: 陸游
 authorPinyin: lu4 you2

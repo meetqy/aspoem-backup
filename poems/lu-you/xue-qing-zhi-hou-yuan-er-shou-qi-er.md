@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-qing-zhi-hou-yuan-er-shou-qi-er
-title: 雪晴至後園二首  其二
-titlePinyin: xue3 qing2 zhi4 hou4 yuan2 er4 shou3     qi2 er4
+title: 雪晴至後園二首・其二
+titlePinyin: xue3 qing2 zhi4 hou4 yuan2 er4 shou3・qi2 er4
 titleSlug: xue-qing-zhi-hou-yuan-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

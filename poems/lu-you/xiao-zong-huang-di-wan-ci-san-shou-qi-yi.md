@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-zong-huang-di-wan-ci-san-shou-qi-yi
-title: 孝宗皇帝挽詞三首  其一
-titlePinyin: xiao4 zong1 huang2 di4 wan3 ci2 san1 shou3     qi2 yi1
+title: 孝宗皇帝挽詞三首・其一
+titlePinyin: xiao4 zong1 huang2 di4 wan3 ci2 san1 shou3・qi2 yi1
 titleSlug: xiao-zong-huang-di-wan-ci-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

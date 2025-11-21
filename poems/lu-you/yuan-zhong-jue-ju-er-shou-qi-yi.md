@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-jue-ju-er-shou-qi-yi
-title: 園中絕句二首  其一
-titlePinyin: yuan2 zhong1 jue2 ju4 er4 shou3     qi2 yi1
+title: 園中絕句二首・其一
+titlePinyin: yuan2 zhong1 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: yuan-zhong-jue-ju-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

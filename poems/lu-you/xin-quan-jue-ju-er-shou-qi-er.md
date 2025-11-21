@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-quan-jue-ju-er-shou-qi-er
-title: 新泉絕句二首  其二
-titlePinyin: xin1 quan2 jue2 ju4 er4 shou3     qi2 er4
+title: 新泉絕句二首・其二
+titlePinyin: xin1 quan2 jue2 ju4 er4 shou3・qi2 er4
 titleSlug: xin-quan-jue-ju-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

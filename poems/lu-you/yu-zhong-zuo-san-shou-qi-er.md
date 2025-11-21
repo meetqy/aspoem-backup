@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-zuo-san-shou-qi-er
-title: 雨中作三首  其二
-titlePinyin: yu3 zhong1 zuo4 san1 shou3     qi2 er4
+title: 雨中作三首・其二
+titlePinyin: yu3 zhong1 zuo4 san1 shou3・qi2 er4
 titleSlug: yu-zhong-zuo-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

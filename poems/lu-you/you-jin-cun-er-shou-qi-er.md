@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-jin-cun-er-shou-qi-er
-title: 遊近村二首  其二
-titlePinyin: you2 jin4 cun1 er4 shou3     qi2 er4
+title: 遊近村二首・其二
+titlePinyin: you2 jin4 cun1 er4 shou3・qi2 er4
 titleSlug: you-jin-cun-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

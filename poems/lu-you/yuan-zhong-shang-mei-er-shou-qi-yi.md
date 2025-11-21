@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-shang-mei-er-shou-qi-yi
-title: 園中賞梅二首  其一
-titlePinyin: yuan2 zhong1 shang3 mei2 er4 shou3     qi2 yi1
+title: 園中賞梅二首・其一
+titlePinyin: yuan2 zhong1 shang3 mei2 er4 shou3・qi2 yi1
 titleSlug: yuan-zhong-shang-mei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-yin-cun-dian-ye-gui-er-shou-qi-er
-title: 飲村店夜歸二首  其二
-titlePinyin: yin3 cun1 dian4 ye4 gui1 er4 shou3     qi2 er4
+title: 飲村店夜歸二首・其二
+titlePinyin: yin3 cun1 dian4 ye4 gui1 er4 shou3・qi2 er4
 titleSlug: yin-cun-dian-ye-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

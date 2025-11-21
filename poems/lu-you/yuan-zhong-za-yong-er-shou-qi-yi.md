@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-za-yong-er-shou-qi-yi
-title: 園中雜詠二首  其一
-titlePinyin: yuan2 zhong1 za2 yong3 er4 shou3     qi2 yi1
+title: 園中雜詠二首・其一
+titlePinyin: yuan2 zhong1 za2 yong3 er4 shou3・qi2 yi1
 titleSlug: yuan-zhong-za-yong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-han-er-shou-qi-er
-title: 新寒二首  其二
-titlePinyin: xin1 han2 er4 shou3     qi2 er4
+title: 新寒二首・其二
+titlePinyin: xin1 han2 er4 shou3・qi2 er4
 titleSlug: xin-han-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

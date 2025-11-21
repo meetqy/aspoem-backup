@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-peng-lai-guan-er-shou-qi-yi
-title: 寓蓬萊館二首  其一
-titlePinyin: yu4 peng2 lai2 guan3 er4 shou3     qi2 yi1
+title: 寓蓬萊館二首・其一
+titlePinyin: yu4 peng2 lai2 guan3 er4 shou3・qi2 yi1
 titleSlug: yu-peng-lai-guan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

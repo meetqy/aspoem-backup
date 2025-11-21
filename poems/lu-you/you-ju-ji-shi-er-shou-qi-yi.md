@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-ji-shi-er-shou-qi-yi
-title: 幽居即事二首  其一
-titlePinyin: you1 ju1 ji2 shi4 er4 shou3     qi2 yi1
+title: 幽居即事二首・其一
+titlePinyin: you1 ju1 ji2 shi4 er4 shou3・qi2 yi1
 titleSlug: you-ju-ji-shi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

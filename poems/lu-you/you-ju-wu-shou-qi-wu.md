@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-wu-shou-qi-wu
-title: 幽居五首  其五
-titlePinyin: you1 ju1 wu3 shou3     qi2 wu3
+title: 幽居五首・其五
+titlePinyin: you1 ju1 wu3 shou3・qi2 wu3
 titleSlug: you-ju-wu-shou-qi-wu
 author: 陸游
 authorPinyin: lu4 you2

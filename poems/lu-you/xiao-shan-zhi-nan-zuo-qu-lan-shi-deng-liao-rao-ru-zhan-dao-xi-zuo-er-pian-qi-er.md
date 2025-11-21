@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-shan-zhi-nan-zuo-qu-lan-shi-deng-liao-rao-ru-zhan-dao-xi-zuo-er-pian-qi-er
-title: 小山之南作曲欄石磴繚繞如棧道戲作二篇  其二
-titlePinyin: xiao3 shan1 zhi1 nan2 zuo4 qu3 lan2 shi2 deng4 liao2 rao4 ru2 zhan4 dao4 xi4 zuo4 er4 pian1     qi2 er4
+title: 小山之南作曲欄石磴繚繞如棧道戲作二篇・其二
+titlePinyin: xiao3 shan1 zhi1 nan2 zuo4 qu3 lan2 shi2 deng4 liao2 rao4 ru2 zhan4 dao4 xi4 zuo4 er4 pian1・qi2 er4
 titleSlug: xiao-shan-zhi-nan-zuo-qu-lan-shi-deng-liao-rao-ru-zhan-dao-xi-zuo-er-pian-qi-er
 author: 陸游
 authorPinyin: lu4 you2

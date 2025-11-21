@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-qi-er-shou-qi-yi
-title: 幽棲二首  其一
-titlePinyin: you1 qi1 er4 shou3     qi2 yi1
+title: 幽棲二首・其一
+titlePinyin: you1 qi1 er4 shou3・qi2 yi1
 titleSlug: you-qi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

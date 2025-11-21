@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-ji-zhi-yao-ou-shu-er-shou-qi-yi
-title: 小疾治藥偶書二首  其一
-titlePinyin: xiao3 ji2 zhi4 yao4 ou3 shu1 er4 shou3     qi2 yi1
+title: 小疾治藥偶書二首・其一
+titlePinyin: xiao3 ji2 zhi4 yao4 ou3 shu1 er4 shou3・qi2 yi1
 titleSlug: xiao-ji-zhi-yao-ou-shu-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

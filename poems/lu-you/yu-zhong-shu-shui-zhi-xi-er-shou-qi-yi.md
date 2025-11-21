@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-shu-shui-zhi-xi-er-shou-qi-yi
-title: 雨中熟睡至夕二首  其一
-titlePinyin: yu3 zhong1 shu2 shui4 zhi4 xi1 er4 shou3     qi2 yi1
+title: 雨中熟睡至夕二首・其一
+titlePinyin: yu3 zhong1 shu2 shui4 zhi4 xi1 er4 shou3・qi2 yi1
 titleSlug: yu-zhong-shu-shui-zhi-xi-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

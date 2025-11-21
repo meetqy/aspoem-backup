@@ -1,7 +1,7 @@
 ---
 id: lu-you-yun-xi-guan-zhu-xi-shu-er-jue-ju-qi-er
-title: 雲谿觀竹戲書二絕句  其二
-titlePinyin: yun2 xi1 guan1 zhu2 xi4 shu1 er4 jue2 ju4     qi2 er4
+title: 雲谿觀竹戲書二絕句・其二
+titlePinyin: yun2 xi1 guan1 zhu2 xi4 shu1 er4 jue2 ju4・qi2 er4
 titleSlug: yun-xi-guan-zhu-xi-shu-er-jue-ju-qi-er
 author: 陸游
 authorPinyin: lu4 you2

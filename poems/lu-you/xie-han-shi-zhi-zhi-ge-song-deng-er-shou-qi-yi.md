@@ -1,7 +1,7 @@
 ---
 id: lu-you-xie-han-shi-zhi-zhi-ge-song-deng-er-shou-qi-yi
-title: 謝韓實之直閣送燈二首  其一
-titlePinyin: xie4 han2 shi2 zhi1 zhi2 ge2 song4 deng1 er4 shou3     qi2 yi1
+title: 謝韓實之直閣送燈二首・其一
+titlePinyin: xie4 han2 shi2 zhi1 zhi2 ge2 song4 deng1 er4 shou3・qi2 yi1
 titleSlug: xie-han-shi-zhi-zhi-ge-song-deng-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

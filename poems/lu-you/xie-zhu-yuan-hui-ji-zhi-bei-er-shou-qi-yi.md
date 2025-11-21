@@ -1,7 +1,7 @@
 ---
 id: lu-you-xie-zhu-yuan-hui-ji-zhi-bei-er-shou-qi-yi
-title: 謝朱元晦寄紙被二首  其一
-titlePinyin: xie4 zhu1 yuan2 hui4 ji4 zhi3 bei4 er4 shou3     qi2 yi1
+title: 謝朱元晦寄紙被二首・其一
+titlePinyin: xie4 zhu1 yuan2 hui4 ji4 zhi3 bei4 er4 shou3・qi2 yi1
 titleSlug: xie-zhu-yuan-hui-ji-zhi-bei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

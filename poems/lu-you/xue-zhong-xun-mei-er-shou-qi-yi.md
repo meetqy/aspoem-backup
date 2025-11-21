@@ -1,7 +1,7 @@
 ---
 id: lu-you-xue-zhong-xun-mei-er-shou-qi-yi
-title: 雪中尋梅二首  其一
-titlePinyin: xue3 zhong1 xun2 mei2 er4 shou3     qi2 yi1
+title: 雪中尋梅二首・其一
+titlePinyin: xue3 zhong1 xun2 mei2 er4 shou3・qi2 yi1
 titleSlug: xue-zhong-xun-mei-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

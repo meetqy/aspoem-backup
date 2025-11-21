@@ -1,7 +1,7 @@
 ---
 id: lu-you-xian-zhong-fu-gui-er-shou-qi-er
-title: 閑中富貴二首  其二
-titlePinyin: xian2 zhong1 fu4 gui4 er4 shou3     qi2 er4
+title: 閑中富貴二首・其二
+titlePinyin: xian2 zhong1 fu4 gui4 er4 shou3・qi2 er4
 titleSlug: xian-zhong-fu-gui-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

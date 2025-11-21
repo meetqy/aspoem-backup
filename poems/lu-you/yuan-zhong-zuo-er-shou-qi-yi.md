@@ -1,7 +1,7 @@
 ---
 id: lu-you-yuan-zhong-zuo-er-shou-qi-yi
-title: 園中作二首  其一
-titlePinyin: yuan2 zhong1 zuo4 er4 shou3     qi2 yi1
+title: 園中作二首・其一
+titlePinyin: yuan2 zhong1 zuo4 er4 shou3・qi2 yi1
 titleSlug: yuan-zhong-zuo-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

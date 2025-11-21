@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-lin-ren-san-shou-qi-er
-title: 諭鄰人三首  其二
-titlePinyin: yu4 lin2 ren2 san1 shou3     qi2 er4
+title: 諭鄰人三首・其二
+titlePinyin: yu4 lin2 ren2 san1 shou3・qi2 er4
 titleSlug: yu-lin-ren-san-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

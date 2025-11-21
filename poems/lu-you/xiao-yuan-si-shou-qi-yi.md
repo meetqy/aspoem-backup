@@ -1,7 +1,7 @@
 ---
 id: lu-you-xiao-yuan-si-shou-qi-yi
-title: 小園四首  其一
-titlePinyin: xiao3 yuan2 si4 shou3     qi2 yi1
+title: 小園四首・其一
+titlePinyin: xiao3 yuan2 si4 shou3・qi2 yi1
 titleSlug: xiao-yuan-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-ye-shu-gan-er-shou-qi-yi
-title: 雨夜書感二首  其一
-titlePinyin: yu3 ye4 shu1 gan3 er4 shou3     qi2 yi1
+title: 雨夜書感二首・其一
+titlePinyin: yu3 ye4 shu1 gan3 er4 shou3・qi2 yi1
 titleSlug: yu-ye-shu-gan-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

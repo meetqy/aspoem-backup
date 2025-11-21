@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-tou-shan-jia-si-shou-qi-yi
-title: 夜投山家四首  其一
-titlePinyin: ye4 tou2 shan1 jia1 si4 shou3     qi2 yi1
+title: 夜投山家四首・其一
+titlePinyin: ye4 tou2 shan1 jia1 si4 shou3・qi2 yi1
 titleSlug: ye-tou-shan-jia-si-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

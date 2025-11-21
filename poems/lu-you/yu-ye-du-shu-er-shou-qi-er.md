@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-ye-du-shu-er-shou-qi-er
-title: 雨夜讀書二首  其二
-titlePinyin: yu3 ye4 du2 shu1 er4 shou3     qi2 er4
+title: 雨夜讀書二首・其二
+titlePinyin: yu3 ye4 du2 shu1 er4 shou3・qi2 er4
 titleSlug: yu-ye-du-shu-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

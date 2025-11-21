@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-chun-gan-shi-ba-shou-zhong-pian-yin-yi-zi-jie-qi-qi
-title: 新春感事八首終篇因以自解  其七
-titlePinyin: xin1 chun1 gan3 shi4 ba1 shou3 zhong1 pian1 yin1 yi3 zi4 jie3     qi2 qi1
+title: 新春感事八首終篇因以自解・其七
+titlePinyin: xin1 chun1 gan3 shi4 ba1 shou3 zhong1 pian1 yin1 yi3 zi4 jie3・qi2 qi1
 titleSlug: xin-chun-gan-shi-ba-shou-zhong-pian-yin-yi-zi-jie-qi-qi
 author: 陸游
 authorPinyin: lu4 you2

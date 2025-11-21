@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-ji-zhai-shu-shi-er-shou-qi-er
-title: 玉笈齋書事二首  其二
-titlePinyin: yu4 ji2 zhai1 shu1 shi4 er4 shou3     qi2 er4
+title: 玉笈齋書事二首・其二
+titlePinyin: yu4 ji2 zhai1 shu1 shi4 er4 shou3・qi2 er4
 titleSlug: yu-ji-zhai-shu-shi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

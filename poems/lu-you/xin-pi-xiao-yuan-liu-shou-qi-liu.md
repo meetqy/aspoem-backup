@@ -1,7 +1,7 @@
 ---
 id: lu-you-xin-pi-xiao-yuan-liu-shou-qi-liu
-title: 新闢小園六首  其六
-titlePinyin: xin1 pi4 xiao3 yuan2 liu4 shou3     qi2 liu4
+title: 新闢小園六首・其六
+titlePinyin: xin1 pi4 xiao3 yuan2 liu4 shou3・qi2 liu4
 titleSlug: xin-pi-xiao-yuan-liu-shou-qi-liu
 author: 陸游
 authorPinyin: lu4 you2

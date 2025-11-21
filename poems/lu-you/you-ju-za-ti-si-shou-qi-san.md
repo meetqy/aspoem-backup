@@ -1,7 +1,7 @@
 ---
 id: lu-you-you-ju-za-ti-si-shou-qi-san
-title: 幽居雜題四首  其三
-titlePinyin: you1 ju1 za2 ti2 si4 shou3     qi2 san1
+title: 幽居雜題四首・其三
+titlePinyin: you1 ju1 za2 ti2 si4 shou3・qi2 san1
 titleSlug: you-ju-za-ti-si-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

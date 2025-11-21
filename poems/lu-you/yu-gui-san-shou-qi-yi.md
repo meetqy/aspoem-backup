@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-gui-san-shou-qi-yi
-title: 寓規三首  其一
-titlePinyin: yu4 gui1 san1 shou3     qi2 yi1
+title: 寓規三首・其一
+titlePinyin: yu4 gui1 san1 shou3・qi2 yi1
 titleSlug: yu-gui-san-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2

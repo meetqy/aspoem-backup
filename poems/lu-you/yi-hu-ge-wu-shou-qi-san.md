@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-hu-ge-wu-shou-qi-san
-title: 一壺歌五首  其三
-titlePinyin: yi4 hu2 ge1 wu3 shou3     qi2 san1
+title: 一壺歌五首・其三
+titlePinyin: yi4 hu2 ge1 wu3 shou3・qi2 san1
 titleSlug: yi-hu-ge-wu-shou-qi-san
 author: 陸游
 authorPinyin: lu4 you2

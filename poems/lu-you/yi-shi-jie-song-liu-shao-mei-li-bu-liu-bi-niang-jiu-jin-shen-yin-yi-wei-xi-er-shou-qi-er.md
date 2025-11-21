@@ -1,7 +1,7 @@
 ---
 id: lu-you-yi-shi-jie-song-liu-shao-mei-li-bu-liu-bi-niang-jiu-jin-shen-yin-yi-wei-xi-er-shou-qi-er
-title: 以石芥送劉韶美禮部劉比釀酒勁甚因以爲戲二首  其二
-titlePinyin: yi3 shi2 jie4 song4 liu2 shao2 mei3 li3 bu4 liu2 bi3 niang4 jiu3 jin4 shen4 yin1 yi3 wei2 xi4 er4 shou3     qi2 er4
+title: 以石芥送劉韶美禮部劉比釀酒勁甚因以爲戲二首・其二
+titlePinyin: yi3 shi2 jie4 song4 liu2 shao2 mei3 li3 bu4 liu2 bi3 niang4 jiu3 jin4 shen4 yin1 yi3 wei2 xi4 er4 shou3・qi2 er4
 titleSlug: yi-shi-jie-song-liu-shao-mei-li-bu-liu-bi-niang-jiu-jin-shen-yin-yi-wei-xi-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

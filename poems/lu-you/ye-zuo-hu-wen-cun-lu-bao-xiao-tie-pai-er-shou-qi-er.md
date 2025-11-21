@@ -1,7 +1,7 @@
 ---
 id: lu-you-ye-zuo-hu-wen-cun-lu-bao-xiao-tie-pai-er-shou-qi-er
-title: 夜坐忽聞村路報曉鐵牌二首  其二
-titlePinyin: ye4 zuo4 hu1 wen2 cun1 lu4 bao4 xiao3 tie3 pai2 er4 shou3     qi2 er4
+title: 夜坐忽聞村路報曉鐵牌二首・其二
+titlePinyin: ye4 zuo4 hu1 wen2 cun1 lu4 bao4 xiao3 tie3 pai2 er4 shou3・qi2 er4
 titleSlug: ye-zuo-hu-wen-cun-lu-bao-xiao-tie-pai-er-shou-qi-er
 author: 陸游
 authorPinyin: lu4 you2

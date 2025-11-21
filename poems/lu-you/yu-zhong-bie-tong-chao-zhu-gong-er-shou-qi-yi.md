@@ -1,7 +1,7 @@
 ---
 id: lu-you-yu-zhong-bie-tong-chao-zhu-gong-er-shou-qi-yi
-title: 雨中別同朝諸公二首  其一
-titlePinyin: yu3 zhong1 bie2 tong2 chao2 zhu1 gong1 er4 shou3     qi2 yi1
+title: 雨中別同朝諸公二首・其一
+titlePinyin: yu3 zhong1 bie2 tong2 chao2 zhu1 gong1 er4 shou3・qi2 yi1
 titleSlug: yu-zhong-bie-tong-chao-zhu-gong-er-shou-qi-yi
 author: 陸游
 authorPinyin: lu4 you2
