@@ -1,7 +1,7 @@
 ---
 id: du-fu-man-cheng-er-shou-yi
-title: 漫成二首 一
-titlePinyin: man4 cheng2 er4 shou3   yi1
+title: 漫成二首・一
+titlePinyin: man4 cheng2 er4 shou3・yi1
 titleSlug: man-cheng-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

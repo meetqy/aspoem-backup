@@ -1,7 +1,7 @@
 ---
 id: du-fu-heng-chui-qu-ci-qian-chu-sai-jiu-shou-qi
-title: 橫吹曲辭 前出塞九首 七
-titlePinyin: heng2 chui1 qu3 ci2   qian2 chu1 sai4 jiu3 shou3   qi1
+title: 橫吹曲辭・前出塞九首・七
+titlePinyin: heng2 chui1 qu3 ci2・qian2 chu1 sai4 jiu3 shou3・qi1
 titleSlug: heng-chui-qu-ci-qian-chu-sai-jiu-shou-qi
 author: 杜甫
 authorPinyin: du4 fu3

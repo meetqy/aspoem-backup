@@ -1,7 +1,7 @@
 ---
 id: du-fu-jue-ju-si-shou-er
-title: 絕句四首 二
-titlePinyin: jue2 ju4 si4 shou3   er4
+title: 絕句四首・二
+titlePinyin: jue2 ju4 si4 shou3・er4
 titleSlug: jue-ju-si-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

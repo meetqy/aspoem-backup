@@ -1,7 +1,7 @@
 ---
 id: du-fu-huang-he-er-shou-yi
-title: 黃河二首 一
-titlePinyin: huang2 he2 er4 shou3   yi1
+title: 黃河二首・一
+titlePinyin: huang2 he2 er4 shou3・yi1
 titleSlug: huang-he-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

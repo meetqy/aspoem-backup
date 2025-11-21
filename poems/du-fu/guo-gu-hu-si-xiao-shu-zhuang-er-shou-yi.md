@@ -1,7 +1,7 @@
 ---
 id: du-fu-guo-gu-hu-si-xiao-shu-zhuang-er-shou-yi
-title: 過故斛斯校書莊二首 一
-titlePinyin: guo4 gu4 hu2 si1 xiao4 shu1 zhuang1 er4 shou3   yi1
+title: 過故斛斯校書莊二首・一
+titlePinyin: guo4 gu4 hu2 si1 xiao4 shu1 zhuang1 er4 shou3・yi1
 titleSlug: guo-gu-hu-si-xiao-shu-zhuang-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

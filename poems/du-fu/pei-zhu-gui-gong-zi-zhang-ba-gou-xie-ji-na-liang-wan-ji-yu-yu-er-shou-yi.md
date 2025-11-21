@@ -1,7 +1,7 @@
 ---
 id: du-fu-pei-zhu-gui-gong-zi-zhang-ba-gou-xie-ji-na-liang-wan-ji-yu-yu-er-shou-yi
-title: 陪諸貴公子丈八溝攜妓納涼晚際遇雨二首 一
-titlePinyin: pei2 zhu1 gui4 gong1 zi3 zhang4 ba1 gou1 xie2 ji4 na4 liang2 wan3 ji4 yu4 yu3 er4 shou3   yi1
+title: 陪諸貴公子丈八溝攜妓納涼晚際遇雨二首・一
+titlePinyin: pei2 zhu1 gui4 gong1 zi3 zhang4 ba1 gou1 xie2 ji4 na4 liang2 wan3 ji4 yu4 yu3 er4 shou3・yi1
 titleSlug: pei-zhu-gui-gong-zi-zhang-ba-gou-xie-ji-na-liang-wan-ji-yu-yu-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

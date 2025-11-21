@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-fu-cheng-du-cao-tang-tu-zhong-you-zuo-xian-ji-yan-zheng-gong-wu-shou-si
-title: 將赴成都草堂途中有作先寄嚴鄭公五首 四
-titlePinyin: jiang1 fu4 cheng2 du1 cao3 tang2 tu2 zhong1 you3 zuo4 xian1 ji4 yan2 zheng4 gong1 wu3 shou3   si4
+title: 將赴成都草堂途中有作先寄嚴鄭公五首・四
+titlePinyin: jiang1 fu4 cheng2 du1 cao3 tang2 tu2 zhong1 you3 zuo4 xian1 ji4 yan2 zheng4 gong1 wu3 shou3・si4
 titleSlug: jiang-fu-cheng-du-cao-tang-tu-zhong-you-zuo-xian-ji-yan-zheng-gong-wu-shou-si
 author: 杜甫
 authorPinyin: du4 fu3

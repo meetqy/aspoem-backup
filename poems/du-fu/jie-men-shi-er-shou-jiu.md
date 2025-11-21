@@ -1,7 +1,7 @@
 ---
 id: du-fu-jie-men-shi-er-shou-jiu
-title: 解悶十二首 九
-titlePinyin: jie3 men4 shi2 er4 shou3   jiu3
+title: 解悶十二首・九
+titlePinyin: jie3 men4 shi2 er4 shou3・jiu3
 titleSlug: jie-men-shi-er-shou-jiu
 author: 杜甫
 authorPinyin: du4 fu3

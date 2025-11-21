@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-zeng-si-kong-wang-gong-si-li
-title: 八哀詩 贈司空王公思禮
-titlePinyin: ba1 ai1 shi1   zeng4 si1 kong1 wang2 gong1 si1 li3
+title: 八哀詩・贈司空王公思禮
+titlePinyin: ba1 ai1 shi1・zeng4 si1 kong1 wang2 gong1 si1 li3
 titleSlug: ba-ai-shi-zeng-si-kong-wang-gong-si-li
 author: 杜甫
 authorPinyin: du4 fu3

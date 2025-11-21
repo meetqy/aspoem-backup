@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-yue-shi-wu-ye-yue-er-shou-yi
-title: 八月十五夜月二首 一
-titlePinyin: ba1 yue4 shi2 wu3 ye4 yue4 er4 shou3   yi1
+title: 八月十五夜月二首・一
+titlePinyin: ba1 yue4 shi2 wu3 ye4 yue4 er4 shou3・yi1
 titleSlug: ba-yue-shi-wu-ye-yue-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

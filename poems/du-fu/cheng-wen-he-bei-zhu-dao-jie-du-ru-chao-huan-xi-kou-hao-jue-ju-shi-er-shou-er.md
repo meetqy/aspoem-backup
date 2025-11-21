@@ -1,7 +1,7 @@
 ---
 id: du-fu-cheng-wen-he-bei-zhu-dao-jie-du-ru-chao-huan-xi-kou-hao-jue-ju-shi-er-shou-er
-title: 承聞河北諸道節度入朝歡喜口號絕句十二首 二
-titlePinyin: cheng2 wen2 he2 bei3 zhu1 dao4 jie2 du4 ru4 chao2 huan1 xi3 kou3 hao4 jue2 ju4 shi2 er4 shou3   er4
+title: 承聞河北諸道節度入朝歡喜口號絕句十二首・二
+titlePinyin: cheng2 wen2 he2 bei3 zhu1 dao4 jie2 du4 ru4 chao2 huan1 xi3 kou3 hao4 jue2 ju4 shi2 er4 shou3・er4
 titleSlug: cheng-wen-he-bei-zhu-dao-jie-du-ru-chao-huan-xi-kou-hao-jue-ju-shi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-gu-bi-shu-shao-jian-wu-gong-su-gong-yuan-ming
-title: 八哀詩 故祕書少監武功蘇公源明
-titlePinyin: ba1 ai1 shi1   gu4 bi4 shu1 shao3 jian1 wu3 gong1 su1 gong1 yuan2 ming2
+title: 八哀詩・故祕書少監武功蘇公源明
+titlePinyin: ba1 ai1 shi1・gu4 bi4 shu1 shao3 jian1 wu3 gong1 su1 gong1 yuan2 ming2
 titleSlug: ba-ai-shi-gu-bi-shu-shao-jian-wu-gong-su-gong-yuan-ming
 author: 杜甫
 authorPinyin: du4 fu3

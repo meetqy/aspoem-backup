@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-zeng-tai-zi-shi-ru-yang-jun-wang-jin
-title: 八哀詩 贈太子師汝陽郡王璡
-titlePinyin: ba1 ai1 shi1   zeng4 tai4 zi3 shi1 ru3 yang2 jun4 wang2 jin1
+title: 八哀詩・贈太子師汝陽郡王璡
+titlePinyin: ba1 ai1 shi1・zeng4 tai4 zi3 shi1 ru3 yang2 jun4 wang2 jin1
 titleSlug: ba-ai-shi-zeng-tai-zi-shi-ru-yang-jun-wang-jin
 author: 杜甫
 authorPinyin: du4 fu3

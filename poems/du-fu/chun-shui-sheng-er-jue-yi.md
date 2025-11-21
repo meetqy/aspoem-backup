@@ -1,7 +1,7 @@
 ---
 id: du-fu-chun-shui-sheng-er-jue-yi
-title: 春水生二絕 一
-titlePinyin: chun1 shui3 sheng1 er4 jue2   yi1
+title: 春水生二絕・一
+titlePinyin: chun1 shui3 sheng1 er4 jue2・yi1
 titleSlug: chun-shui-sheng-er-jue-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-chao-er-shou-er
-title: 朝二首 二
-titlePinyin: chao2 er4 shou3   er4
+title: 朝二首・二
+titlePinyin: chao2 er4 shou3・er4
 titleSlug: chao-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

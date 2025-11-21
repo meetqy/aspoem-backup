@@ -1,7 +1,7 @@
 ---
 id: du-fu-meng-li-bai-er-shou-yi
-title: 夢李白二首 一
-titlePinyin: meng4 li3 bai2 er4 shou3   yi1
+title: 夢李白二首・一
+titlePinyin: meng4 li3 bai2 er4 shou3・yi1
 titleSlug: meng-li-bai-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

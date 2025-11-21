@@ -1,7 +1,7 @@
 ---
 id: du-fu-di-wu-di-feng-du-zai-jiang-zuo-jin-san-si-zai-ji-wu-xiao-xi-mi-shi-ji-ci-er-shou-yi
-title: 第五弟豐獨在江左近三四載寂無消息覓使寄此二首 一
-titlePinyin: di4 wu3 di4 feng1 du2 zai4 jiang1 zuo3 jin4 san1 si4 zai4 ji4 wu2 xiao1 xi0 mi4 shi3 ji4 ci3 er4 shou3   yi1
+title: 第五弟豐獨在江左近三四載寂無消息覓使寄此二首・一
+titlePinyin: di4 wu3 di4 feng1 du2 zai4 jiang1 zuo3 jin4 san1 si4 zai4 ji4 wu2 xiao1 xi0 mi4 shi3 ji4 ci3 er4 shou3・yi1
 titleSlug: di-wu-di-feng-du-zai-jiang-zuo-jin-san-si-zai-ji-wu-xiao-xi-mi-shi-ji-ci-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-mu-chun-ti-rang-xi-xin-lin-cao-wu-wu-shou-yi
-title: 暮春題瀼西新賃草屋五首 一
-titlePinyin: mu4 chun1 ti2 rang2 xi1 xin1 lin4 cao3 wu1 wu3 shou3   yi1
+title: 暮春題瀼西新賃草屋五首・一
+titlePinyin: mu4 chun1 ti2 rang2 xi1 xin1 lin4 cao3 wu1 wu3 shou3・yi1
 titleSlug: mu-chun-ti-rang-xi-xin-lin-cao-wu-wu-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

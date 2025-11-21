@@ -1,7 +1,7 @@
 ---
 id: du-fu-fu-chou-shi-er-shou-yi
-title: 復愁十二首 一
-titlePinyin: fu4 chou2 shi2 er4 shou3   yi1
+title: 復愁十二首・一
+titlePinyin: fu4 chou2 shi2 er4 shou3・yi1
 titleSlug: fu-chou-shi-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

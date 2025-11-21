@@ -1,7 +1,7 @@
 ---
 id: du-fu-ku-li-chang-shi-yi-er-shou-er
-title: 哭李常侍嶧二首 二
-titlePinyin: ku1 li3 chang2 shi4 yi4 er4 shou3   er4
+title: 哭李常侍嶧二首・二
+titlePinyin: ku1 li3 chang2 shi4 yi4 er4 shou3・er4
 titleSlug: ku-li-chang-shi-yi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-guan-chi-chun-yan-er-shou-er
-title: 官池春鴈二首 二
-titlePinyin: guan1 chi2 chun1 yan4 er4 shou3   er4
+title: 官池春鴈二首・二
+titlePinyin: guan1 chi2 chun1 yan4 er4 shou3・er4
 titleSlug: guan-chi-chun-yan-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

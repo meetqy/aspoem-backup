@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-tou-si-yong-ding-xiang
-title: 江頭四詠 丁香
-titlePinyin: jiang1 tou2 si4 yong3   ding1 xiang1
+title: 江頭四詠・丁香
+titlePinyin: jiang1 tou2 si4 yong3・ding1 xiang1
 titleSlug: jiang-tou-si-yong-ding-xiang
 author: 杜甫
 authorPinyin: du4 fu3

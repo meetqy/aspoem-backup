@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-zeng-zuo-pu-she-zheng-guo-gong-yan-gong-wu
-title: 八哀詩 贈左僕射鄭國公嚴公武
-titlePinyin: ba1 ai1 shi1   zeng4 zuo3 pu2 she4 zheng4 guo2 gong1 yan2 gong1 wu3
+title: 八哀詩・贈左僕射鄭國公嚴公武
+titlePinyin: ba1 ai1 shi1・zeng4 zuo3 pu2 she4 zheng4 guo2 gong1 yan2 gong1 wu3
 titleSlug: ba-ai-shi-zeng-zuo-pu-she-zheng-guo-gong-yan-gong-wu
 author: 杜甫
 authorPinyin: du4 fu3

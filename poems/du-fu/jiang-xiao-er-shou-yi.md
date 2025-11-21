@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-xiao-er-shou-yi
-title: 將曉二首 一
-titlePinyin: jiang1 xiao3 er4 shou3   yi1
+title: 將曉二首・一
+titlePinyin: jiang1 xiao3 er4 shou3・yi1
 titleSlug: jiang-xiao-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

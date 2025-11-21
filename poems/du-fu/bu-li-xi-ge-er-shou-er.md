@@ -1,7 +1,7 @@
 ---
 id: du-fu-bu-li-xi-ge-er-shou-er
-title: 不離西閣二首 二
-titlePinyin: bu4 li2 xi1 ge2 er4 shou3   er4
+title: 不離西閣二首・二
+titlePinyin: bu4 li2 xi1 ge2 er4 shou3・er4
 titleSlug: bu-li-xi-ge-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-zeng-bi-shu-jian-jiang-xia-li-gong-yong
-title: 八哀詩 贈祕書監江夏李公邕
-titlePinyin: ba1 ai1 shi1   zeng4 bi4 shu1 jian1 jiang1 xia4 li3 gong1 yong1
+title: 八哀詩・贈祕書監江夏李公邕
+titlePinyin: ba1 ai1 shi1・zeng4 bi4 shu1 jian1 jiang1 xia4 li3 gong1 yong1
 titleSlug: ba-ai-shi-zeng-bi-shu-jian-jiang-xia-li-gong-yong
 author: 杜甫
 authorPinyin: du4 fu3
@@ -40,7 +40,7 @@ tags: []
 - 放逐早聯翩，低垂困炎厲。
 - 日斜鵩鳥入，魂斷蒼梧帝。
 - 榮枯走不暇，星駕無安稅。
-- 幾分漢廷竹，夙擁文侯【篲】。
+- 幾分漢廷竹，夙擁文侯篲。
 - 終悲洛陽獄，事近小臣敝。
 - 禍階初負謗，易力何深嚌。
 - 伊昔臨淄亭，酒酣託末契。
@@ -86,7 +86,7 @@ tags: []
 - fang4 zhu2 zao3 lian2 pian1 ， di1 chui2 kun4 yan2 li4 。
 - ri4 xie2 fu2 niao3 ru4 ， hun2 duan4 cang1 wu2 di4 。
 - rong2 ku1 zou3 bu4 xia2 ， xing1 jia4 wu2 an1 shui4 。
-- ji1 fen1 han4 ting2 zhu2 ， su4 yong1 wen2 hou2 【 hui4 】。
+- ji1 fen1 han4 ting2 zhu2 ， su4 yong1 wen2 hou2 hui4 。
 - zhong1 bei1 luo4 yang2 yu4 ， shi4 jin4 xiao3 chen2 bi4 。
 - huo4 jie1 chu1 fu4 bang4 ， yi4 li4 he2 shen1 ji4 。
 - yi1 xi1 lin2 zi1 ting2 ， jiu3 han1 tuo1 mo4 qi4 。

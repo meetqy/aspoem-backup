@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-gu-you-pu-she-xiang-guo-zhang-gong-jiu-ling
-title: 八哀詩 故右僕射相國張公九齢
-titlePinyin: ba1 ai1 shi1   gu4 you4 pu2 she4 xiang1 guo2 zhang1 gong1 jiu3 ling2
+title: 八哀詩・故右僕射相國張公九齢
+titlePinyin: ba1 ai1 shi1・gu4 you4 pu2 she4 xiang1 guo2 zhang1 gong1 jiu3 ling2
 titleSlug: ba-ai-shi-gu-you-pu-she-xiang-guo-zhang-gong-jiu-ling
 author: 杜甫
 authorPinyin: du4 fu3

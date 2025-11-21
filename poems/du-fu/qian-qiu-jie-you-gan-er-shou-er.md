@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-qiu-jie-you-gan-er-shou-er
-title: 千秋節有感二首 二
-titlePinyin: qian1 qiu1 jie2 you3 gan3 er4 shou3   er4
+title: 千秋節有感二首・二
+titlePinyin: qian1 qiu1 jie2 you3 gan3 er4 shou3・er4
 titleSlug: qian-qiu-jie-you-gan-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

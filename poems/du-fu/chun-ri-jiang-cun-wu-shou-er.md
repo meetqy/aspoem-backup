@@ -1,7 +1,7 @@
 ---
 id: du-fu-chun-ri-jiang-cun-wu-shou-er
-title: 春日江村五首 二
-titlePinyin: chun1 ri4 jiang1 cun1 wu3 shou3   er4
+title: 春日江村五首・二
+titlePinyin: chun1 ri4 jiang1 cun1 wu3 shou3・er4
 titleSlug: chun-ri-jiang-cun-wu-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

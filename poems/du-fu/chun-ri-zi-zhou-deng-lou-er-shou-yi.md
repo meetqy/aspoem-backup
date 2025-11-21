@@ -1,7 +1,7 @@
 ---
 id: du-fu-chun-ri-zi-zhou-deng-lou-er-shou-yi
-title: 春日梓州登樓二首 一
-titlePinyin: chun1 ri4 zi3 zhou1 deng1 lou2 er4 shou3   yi1
+title: 春日梓州登樓二首・一
+titlePinyin: chun1 ri4 zi3 zhou1 deng1 lou2 er4 shou3・yi1
 titleSlug: chun-ri-zi-zhou-deng-lou-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-chu-sai-jiu-shou-er
-title: 前出塞九首 二
-titlePinyin: qian2 chu1 sai4 jiu3 shou3   er4
+title: 前出塞九首・二
+titlePinyin: qian2 chu1 sai4 jiu3 shou3・er4
 titleSlug: qian-chu-sai-jiu-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-pei-bai-zhong-cheng-guan-yan-jiang-shi-er-shou-yi
-title: 陪柏中丞觀宴將士二首 一
-titlePinyin: pei2 bai3 zhong1 cheng2 guan1 yan4 jiang1 shi4 er4 shou3   yi1
+title: 陪柏中丞觀宴將士二首・一
+titlePinyin: pei2 bai3 zhong1 cheng2 guan1 yan4 jiang1 shi4 er4 shou3・yi1
 titleSlug: pei-bai-zhong-cheng-guan-yan-jiang-shi-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

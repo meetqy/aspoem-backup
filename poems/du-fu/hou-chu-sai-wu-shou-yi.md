@@ -1,7 +1,7 @@
 ---
 id: du-fu-hou-chu-sai-wu-shou-yi
-title: 後出塞五首 一
-titlePinyin: hou4 chu1 sai4 wu3 shou3   yi1
+title: 後出塞五首・一
+titlePinyin: hou4 chu1 sai4 wu3 shou3・yi1
 titleSlug: hou-chu-sai-wu-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

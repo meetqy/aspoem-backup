@@ -1,7 +1,7 @@
 ---
 id: du-fu-gui-yan-er-shou-er
-title: 歸雁二首 二
-titlePinyin: gui1 yan4 er4 shou3   er4
+title: 歸雁二首・二
+titlePinyin: gui1 yan4 er4 shou3・er4
 titleSlug: gui-yan-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

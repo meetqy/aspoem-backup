@@ -1,7 +1,7 @@
 ---
 id: du-fu-heng-chui-qu-ci-hou-chu-sai-wu-shou-wu
-title: 橫吹曲辭 後出塞五首 五
-titlePinyin: heng2 chui1 qu3 ci2   hou4 chu1 sai4 wu3 shou3   wu3
+title: 橫吹曲辭・後出塞五首・五
+titlePinyin: heng2 chui1 qu3 ci2・hou4 chu1 sai4 wu3 shou3・wu3
 titleSlug: heng-chui-qu-ci-hou-chu-sai-wu-shou-wu
 author: 杜甫
 authorPinyin: du4 fu3

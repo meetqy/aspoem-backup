@@ -1,7 +1,7 @@
 ---
 id: du-fu-feng-ji-li-shi-wu-bi-shu-er-shou-er
-title: 奉寄李十五祕書二首 二
-titlePinyin: feng4 ji4 li3 shi2 wu3 bi4 shu1 er4 shou3   er4
+title: 奉寄李十五祕書二首・二
+titlePinyin: feng4 ji4 li3 shi2 wu3 bi4 shu1 er4 shou3・er4
 titleSlug: feng-ji-li-shi-wu-bi-shu-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

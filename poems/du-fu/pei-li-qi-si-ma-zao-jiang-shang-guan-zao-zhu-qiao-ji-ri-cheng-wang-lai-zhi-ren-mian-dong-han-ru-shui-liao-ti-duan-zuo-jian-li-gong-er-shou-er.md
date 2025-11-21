@@ -1,7 +1,7 @@
 ---
 id: du-fu-pei-li-qi-si-ma-zao-jiang-shang-guan-zao-zhu-qiao-ji-ri-cheng-wang-lai-zhi-ren-mian-dong-han-ru-shui-liao-ti-duan-zuo-jian-li-gong-er-shou-er
-title: 陪李七司馬皂江上觀造竹橋即日成往來之人免冬寒入水聊題短作簡李公二首 二
-titlePinyin: pei2 li3 qi1 si1 ma3 zao4 jiang1 shang4 guan1 zao4 zhu2 qiao2 ji2 ri4 cheng2 wang3 lai2 zhi1 ren2 mian3 dong1 han2 ru4 shui3 liao2 ti2 duan3 zuo4 jian3 li3 gong1 er4 shou3   er4
+title: 陪李七司馬皂江上觀造竹橋即日成往來之人免冬寒入水聊題短作簡李公二首・二
+titlePinyin: pei2 li3 qi1 si1 ma3 zao4 jiang1 shang4 guan1 zao4 zhu2 qiao2 ji2 ri4 cheng2 wang3 lai2 zhi1 ren2 mian3 dong1 han2 ru4 shui3 liao2 ti2 duan3 zuo4 jian3 li3 gong1 er4 shou3・er4
 titleSlug: pei-li-qi-si-ma-zao-jiang-shang-guan-zao-zhu-qiao-ji-ri-cheng-wang-lai-zhi-ren-mian-dong-han-ru-shui-liao-ti-duan-zuo-jian-li-gong-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

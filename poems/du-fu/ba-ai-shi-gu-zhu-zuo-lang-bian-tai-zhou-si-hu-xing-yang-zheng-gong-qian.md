@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-gu-zhu-zuo-lang-bian-tai-zhou-si-hu-xing-yang-zheng-gong-qian
-title: 八哀詩 故著作郎貶台州司戶滎陽鄭公虔
-titlePinyin: ba1 ai1 shi1   gu4 zhu4 zuo4 lang2 bian3 tai1 zhou1 si1 hu4 xing2 yang2 zheng4 gong1 qian2
+title: 八哀詩・故著作郎貶台州司戶滎陽鄭公虔
+titlePinyin: ba1 ai1 shi1・gu4 zhu4 zuo4 lang2 bian3 tai1 zhou1 si1 hu4 xing2 yang2 zheng4 gong1 qian2
 titleSlug: ba-ai-shi-gu-zhu-zuo-lang-bian-tai-zhou-si-hu-xing-yang-zheng-gong-qian
 author: 杜甫
 authorPinyin: du4 fu3

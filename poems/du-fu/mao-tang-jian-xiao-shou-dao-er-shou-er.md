@@ -1,7 +1,7 @@
 ---
 id: du-fu-mao-tang-jian-xiao-shou-dao-er-shou-er
-title: 茅堂檢校收稻二首 二
-titlePinyin: mao2 tang2 jian3 xiao4 shou1 dao4 er4 shou3   er4
+title: 茅堂檢校收稻二首・二
+titlePinyin: mao2 tang2 jian3 xiao4 shou1 dao4 er4 shou3・er4
 titleSlug: mao-tang-jian-xiao-shou-dao-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

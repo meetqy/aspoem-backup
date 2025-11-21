@@ -1,7 +1,7 @@
 ---
 id: du-fu-jie-men-shi-er-shou-shi-yi
-title: 解悶十二首 十一
-titlePinyin: jie3 men4 shi2 er4 shou3   shi2 yi1
+title: 解悶十二首・十一
+titlePinyin: jie3 men4 shi2 er4 shou3・shi2 yi1
 titleSlug: jie-men-shi-er-shou-shi-yi
 author: 杜甫
 authorPinyin: du4 fu3

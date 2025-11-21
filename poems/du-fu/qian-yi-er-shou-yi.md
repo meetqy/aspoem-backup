@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-yi-er-shou-yi
-title: 遣意二首 一
-titlePinyin: qian3 yi4 er4 shou3   yi1
+title: 遣意二首・一
+titlePinyin: qian3 yi4 er4 shou3・yi1
 titleSlug: qian-yi-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

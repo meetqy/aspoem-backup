@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiu-ri-wu-shou-san
-title: 九日五首 三
-titlePinyin: jiu3 ri4 wu3 shou3   san1
+title: 九日五首・三
+titlePinyin: jiu3 ri4 wu3 shou3・san1
 titleSlug: jiu-ri-wu-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

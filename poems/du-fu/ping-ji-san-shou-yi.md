@@ -1,7 +1,7 @@
 ---
 id: du-fu-ping-ji-san-shou-yi
-title: 屏跡三首 一
-titlePinyin: ping2 ji4 san1 shou3   yi1
+title: 屏跡三首・一
+titlePinyin: ping2 ji4 san1 shou3・yi1
 titleSlug: ping-ji-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

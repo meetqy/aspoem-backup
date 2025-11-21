@@ -1,7 +1,7 @@
 ---
 id: du-fu-da-yun-si-zan-gong-fang-si-shou-san
-title: 大雲寺贊公房四首 三
-titlePinyin: da4 yun2 si4 zan4 gong1 fang2 si4 shou3   san1
+title: 大雲寺贊公房四首・三
+titlePinyin: da4 yun2 si4 zan4 gong1 fang2 si4 shou3・san1
 titleSlug: da-yun-si-zan-gong-fang-si-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

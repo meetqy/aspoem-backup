@@ -1,7 +1,7 @@
 ---
 id: du-fu-guan-li-gu-qing-si-ma-di-shan-shui-tu-san-shou-san
-title: 觀李固請司馬弟山水圖三首 三
-titlePinyin: guan1 li3 gu4 qing3 si1 ma3 di4 shan1 shui3 tu2 san1 shou3   san1
+title: 觀李固請司馬弟山水圖三首・三
+titlePinyin: guan1 li3 gu4 qing3 si1 ma3 di4 shan1 shui3 tu2 san1 shou3・san1
 titleSlug: guan-li-gu-qing-si-ma-di-shan-shui-tu-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

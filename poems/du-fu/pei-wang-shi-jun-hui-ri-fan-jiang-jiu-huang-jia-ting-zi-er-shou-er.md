@@ -1,7 +1,7 @@
 ---
 id: du-fu-pei-wang-shi-jun-hui-ri-fan-jiang-jiu-huang-jia-ting-zi-er-shou-er
-title: 陪王使君晦日泛江就黃家亭子二首 二
-titlePinyin: pei2 wang2 shi3 jun1 hui4 ri4 fan4 jiang1 jiu4 huang2 jia1 ting2 zi0 er4 shou3   er4
+title: 陪王使君晦日泛江就黃家亭子二首・二
+titlePinyin: pei2 wang2 shi3 jun1 hui4 ri4 fan4 jiang1 jiu4 huang2 jia1 ting2 zi0 er4 shou3・er4
 titleSlug: pei-wang-shi-jun-hui-ri-fan-jiang-jiu-huang-jia-ting-zi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

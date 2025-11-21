@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-xing-wu-shou-yi
-title: 遣興五首 一
-titlePinyin: qian3 xing1 wu3 shou3   yi1
+title: 遣興五首・一
+titlePinyin: qian3 xing1 wu3 shou3・yi1
 titleSlug: qian-xing-wu-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-xi-yi-ting-guan-jiang-zhang-cheng-dou-shi-jun-er-shou-er
-title: 巴西驛亭觀江漲呈竇使君二首 二
-titlePinyin: ba1 xi1 yi4 ting2 guan1 jiang1 zhang3 cheng2 dou4 shi3 jun1 er4 shou3   er4
+title: 巴西驛亭觀江漲呈竇使君二首・二
+titlePinyin: ba1 xi1 yi4 ting2 guan1 jiang1 zhang3 cheng2 dou4 shi3 jun1 er4 shou3・er4
 titleSlug: ba-xi-yi-ting-guan-jiang-zhang-cheng-dou-shi-jun-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

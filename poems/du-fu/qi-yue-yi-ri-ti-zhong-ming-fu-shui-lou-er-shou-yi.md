@@ -1,7 +1,7 @@
 ---
 id: du-fu-qi-yue-yi-ri-ti-zhong-ming-fu-shui-lou-er-shou-yi
-title: 七月一日題終明府水樓二首 一
-titlePinyin: qi1 yue4 yi2 ri4 ti2 zhong1 ming2 fu3 shui3 lou2 er4 shou3   yi1
+title: 七月一日題終明府水樓二首・一
+titlePinyin: qi1 yue4 yi2 ri4 ti2 zhong1 ming2 fu3 shui3 lou2 er4 shou3・yi1
 titleSlug: qi-yue-yi-ri-ti-zhong-ming-fu-shui-lou-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

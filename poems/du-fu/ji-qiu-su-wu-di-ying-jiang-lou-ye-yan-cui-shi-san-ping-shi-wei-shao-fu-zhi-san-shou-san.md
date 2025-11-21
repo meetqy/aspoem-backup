@@ -1,7 +1,7 @@
 ---
 id: du-fu-ji-qiu-su-wu-di-ying-jiang-lou-ye-yan-cui-shi-san-ping-shi-wei-shao-fu-zhi-san-shou-san
-title: 季秋蘇五弟纓江樓夜宴崔十三評事韋少府姪三首 三
-titlePinyin: ji4 qiu1 su1 wu3 di4 ying1 jiang1 lou2 ye4 yan4 cui1 shi2 san1 ping2 shi4 wei2 shao4 fu3 zhi2 san1 shou3   san1
+title: 季秋蘇五弟纓江樓夜宴崔十三評事韋少府姪三首・三
+titlePinyin: ji4 qiu1 su1 wu3 di4 ying1 jiang1 lou2 ye4 yan4 cui1 shi2 san1 ping2 shi4 wei2 shao4 fu3 zhi2 san1 shou3・san1
 titleSlug: ji-qiu-su-wu-di-ying-jiang-lou-ye-yan-cui-shi-san-ping-shi-wei-shao-fu-zhi-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

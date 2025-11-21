@@ -1,7 +1,7 @@
 ---
 id: du-fu-chang-jiang-er-shou-er
-title: 長江二首 二
-titlePinyin: chang2 jiang1 er4 shou3   er4
+title: 長江二首・二
+titlePinyin: chang2 jiang1 er4 shou3・er4
 titleSlug: chang-jiang-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

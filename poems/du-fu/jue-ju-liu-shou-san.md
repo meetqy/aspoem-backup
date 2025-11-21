@@ -1,7 +1,7 @@
 ---
 id: du-fu-jue-ju-liu-shou-san
-title: 絕句六首 三
-titlePinyin: jue2 ju4 liu4 shou3   san1
+title: 絕句六首・三
+titlePinyin: jue2 ju4 liu4 shou3・san1
 titleSlug: jue-ju-liu-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-cheng-wen-gu-fang-xiang-gong-ling-chen-zi-lang-zhou-qi-bin-gui-zang-dong-dou-you-zuo-er-shou-er
-title: 承聞故房相公靈櫬自閬州啓殯歸葬東都有作二首 二
-titlePinyin: cheng2 wen2 gu4 fang2 xiang4 gong0 ling2 chen4 zi4 lang4 zhou1 qi3 bin4 gui1 zang4 dong1 dou1 you3 zuo4 er4 shou3   er4
+title: 承聞故房相公靈櫬自閬州啓殯歸葬東都有作二首・二
+titlePinyin: cheng2 wen2 gu4 fang2 xiang4 gong0 ling2 chen4 zi4 lang4 zhou1 qi3 bin4 gui1 zang4 dong1 dou1 you3 zuo4 er4 shou3・er4
 titleSlug: cheng-wen-gu-fang-xiang-gong-ling-chen-zi-lang-zhou-qi-bin-gui-zang-dong-dou-you-zuo-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

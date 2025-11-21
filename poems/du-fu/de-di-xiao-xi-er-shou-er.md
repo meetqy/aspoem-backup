@@ -1,7 +1,7 @@
 ---
 id: du-fu-de-di-xiao-xi-er-shou-er
-title: 得弟消息二首 二
-titlePinyin: de2 di4 xiao1 xi0 er4 shou3   er4
+title: 得弟消息二首・二
+titlePinyin: de2 di4 xiao1 xi0 er4 shou3・er4
 titleSlug: de-di-xiao-xi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

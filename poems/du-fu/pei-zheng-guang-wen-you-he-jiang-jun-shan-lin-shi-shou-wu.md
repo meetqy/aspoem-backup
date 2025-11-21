@@ -1,7 +1,7 @@
 ---
 id: du-fu-pei-zheng-guang-wen-you-he-jiang-jun-shan-lin-shi-shou-wu
-title: 陪鄭廣文遊何將軍山林十首 五
-titlePinyin: pei2 zheng4 guang3 wen2 you2 he2 jiang1 jun1 shan1 lin2 shi2 shou3   wu3
+title: 陪鄭廣文遊何將軍山林十首・五
+titlePinyin: pei2 zheng4 guang3 wen2 you2 he2 jiang1 jun1 shan1 lin2 shi2 shou3・wu3
 titleSlug: pei-zheng-guang-wen-you-he-jiang-jun-shan-lin-shi-shou-wu
 author: 杜甫
 authorPinyin: du4 fu3

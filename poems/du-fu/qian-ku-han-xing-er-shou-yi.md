@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-ku-han-xing-er-shou-yi
-title: 前苦寒行二首 一
-titlePinyin: qian2 ku3 han2 xing2 er4 shou3   yi1
+title: 前苦寒行二首・一
+titlePinyin: qian2 ku3 han2 xing2 er4 shou3・yi1
 titleSlug: qian-ku-han-xing-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

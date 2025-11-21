@@ -1,7 +1,7 @@
 ---
 id: du-fu-fu-zhou-er-shou-yi
-title: 覆舟二首 一
-titlePinyin: fu4 zhou1 er4 shou3   yi1
+title: 覆舟二首・一
+titlePinyin: fu4 zhou1 er4 shou3・yi1
 titleSlug: fu-zhou-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

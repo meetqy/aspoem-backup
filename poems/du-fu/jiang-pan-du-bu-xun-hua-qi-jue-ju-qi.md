@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-pan-du-bu-xun-hua-qi-jue-ju-qi
-title: 江畔獨步尋花七絕句 七
-titlePinyin: jiang1 pan4 du2 bu4 xun2 hua1 qi1 jue2 ju4   qi1
+title: 江畔獨步尋花七絕句・七
+titlePinyin: jiang1 pan4 du2 bu4 xun2 hua1 qi1 jue2 ju4・qi1
 titleSlug: jiang-pan-du-bu-xun-hua-qi-jue-ju-qi
 author: 杜甫
 authorPinyin: du4 fu3

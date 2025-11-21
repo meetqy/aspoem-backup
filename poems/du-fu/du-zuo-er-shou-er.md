@@ -1,7 +1,7 @@
 ---
 id: du-fu-du-zuo-er-shou-er
-title: 獨坐二首 二
-titlePinyin: du2 zuo4 er4 shou3   er4
+title: 獨坐二首・二
+titlePinyin: du2 zuo4 er4 shou3・er4
 titleSlug: du-zuo-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

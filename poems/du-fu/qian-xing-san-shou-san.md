@@ -1,7 +1,7 @@
 ---
 id: du-fu-qian-xing-san-shou-san
-title: 遣興三首 三
-titlePinyin: qian3 xing1 san1 shou3   san1
+title: 遣興三首・三
+titlePinyin: qian3 xing1 san1 shou3・san1
 titleSlug: qian-xing-san-shou-san
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-ke-xiao-shu-chu-zhuo-she-bei-guo-lin-zhi-man-huang-hui-jing-qi-yi-chuang-san-shou-yi
-title: 課小豎鉏斫舍北果林枝蔓荒穢淨訖移牀三首 一
-titlePinyin: ke4 xiao3 shu4 chu2 zhuo2 she4 bei3 guo3 lin2 zhi1 man4 huang1 hui4 jing4 qi4 yi2 chuang2 san1 shou3   yi1
+title: 課小豎鉏斫舍北果林枝蔓荒穢淨訖移牀三首・一
+titlePinyin: ke4 xiao3 shu4 chu2 zhuo2 she4 bei3 guo3 lin2 zhi1 man4 huang1 hui4 jing4 qi4 yi2 chuang2 san1 shou3・yi1
 titleSlug: ke-xiao-shu-chu-zhuo-she-bei-guo-lin-zhi-man-huang-hui-jing-qi-yi-chuang-san-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

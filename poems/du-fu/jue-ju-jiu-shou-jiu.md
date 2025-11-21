@@ -1,7 +1,7 @@
 ---
 id: du-fu-jue-ju-jiu-shou-jiu
-title: 絕句九首 九
-titlePinyin: jue2 ju4 jiu3 shou3   jiu3
+title: 絕句九首・九
+titlePinyin: jue2 ju4 jiu3 shou3・jiu3
 titleSlug: jue-ju-jiu-shou-jiu
 author: 杜甫
 authorPinyin: du4 fu3

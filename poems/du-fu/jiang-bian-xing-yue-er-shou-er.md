@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-bian-xing-yue-er-shou-er
-title: 江邊星月二首 二
-titlePinyin: jiang1 bian1 xing1 yue4 er4 shou3   er4
+title: 江邊星月二首・二
+titlePinyin: jiang1 bian1 xing1 yue4 er4 shou3・er4
 titleSlug: jiang-bian-xing-yue-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

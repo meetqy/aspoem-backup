@@ -1,7 +1,7 @@
 ---
 id: du-fu-kui-zhou-ge-shi-jue-ju-er
-title: 夔州歌十絕句 二
-titlePinyin: kui2 zhou1 ge1 shi2 jue2 ju4   er4
+title: 夔州歌十絕句・二
+titlePinyin: kui2 zhou1 ge1 shi2 jue2 ju4・er4
 titleSlug: kui-zhou-ge-shi-jue-ju-er
 author: 杜甫
 authorPinyin: du4 fu3

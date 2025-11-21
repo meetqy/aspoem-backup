@@ -1,7 +1,7 @@
 ---
 id: du-fu-feng-pei-zheng-fu-ma-wei-qu-er-shou-yi
-title: 奉陪鄭駙馬韋曲二首 一
-titlePinyin: feng4 pei2 zheng4 fu4 ma3 wei2 qu3 er4 shou3   yi1
+title: 奉陪鄭駙馬韋曲二首・一
+titlePinyin: feng4 pei2 zheng4 fu4 ma3 wei2 qu3 er4 shou3・yi1
 titleSlug: feng-pei-zheng-fu-ma-wei-qu-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

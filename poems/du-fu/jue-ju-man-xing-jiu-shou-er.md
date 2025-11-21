@@ -1,7 +1,7 @@
 ---
 id: du-fu-jue-ju-man-xing-jiu-shou-er
-title: 絕句漫興九首 二
-titlePinyin: jue2 ju4 man4 xing1 jiu3 shou3   er4
+title: 絕句漫興九首・二
+titlePinyin: jue2 ju4 man4 xing1 jiu3 shou3・er4
 titleSlug: jue-ju-man-xing-jiu-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

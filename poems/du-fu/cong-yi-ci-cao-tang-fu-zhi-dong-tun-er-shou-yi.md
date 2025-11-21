@@ -1,7 +1,7 @@
 ---
 id: du-fu-cong-yi-ci-cao-tang-fu-zhi-dong-tun-er-shou-yi
-title: 從驛次草堂復至東屯二首 一
-titlePinyin: cong2 yi4 ci4 cao3 tang2 fu4 zhi4 dong1 tun2 er4 shou3   yi1
+title: 從驛次草堂復至東屯二首・一
+titlePinyin: cong2 yi4 ci4 cao3 tang2 fu4 zhi4 dong1 tun2 er4 shou3・yi1
 titleSlug: cong-yi-ci-cao-tang-fu-zhi-dong-tun-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-huai-jin-shui-ju-zhi-er-shou-er
-title: 懷錦水居止二首 二
-titlePinyin: huai2 jin3 shui3 ju1 zhi3 er4 shou3   er4
+title: 懷錦水居止二首・二
+titlePinyin: huai2 jin3 shui3 ju1 zhi3 er4 shou3・er4
 titleSlug: huai-jin-shui-ju-zhi-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

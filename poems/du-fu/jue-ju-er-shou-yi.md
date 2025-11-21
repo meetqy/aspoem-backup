@@ -1,7 +1,7 @@
 ---
 id: du-fu-jue-ju-er-shou-yi
-title: 絕句二首 一
-titlePinyin: jue2 ju4 er4 shou3   yi1
+title: 絕句二首・一
+titlePinyin: jue2 ju4 er4 shou3・yi1
 titleSlug: jue-ju-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-cun-mo-kou-hao-er-shou-er
-title: 存歿口號二首 二
-titlePinyin: cun2 mo4 kou3 hao4 er4 shou3   er4
+title: 存歿口號二首・二
+titlePinyin: cun2 mo4 kou3 hao4 er4 shou3・er4
 titleSlug: cun-mo-kou-hao-er-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

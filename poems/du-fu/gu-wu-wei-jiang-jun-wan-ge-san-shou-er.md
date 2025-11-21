@@ -1,7 +1,7 @@
 ---
 id: du-fu-gu-wu-wei-jiang-jun-wan-ge-san-shou-er
-title: 故武衛將軍輓歌三首 二
-titlePinyin: gu4 wu3 wei4 jiang1 jun1 wan3 ge1 san1 shou3   er4
+title: 故武衛將軍輓歌三首・二
+titlePinyin: gu4 wu3 wei4 jiang1 jun1 wan3 ge1 san1 shou3・er4
 titleSlug: gu-wu-wei-jiang-jun-wan-ge-san-shou-er
 author: 杜甫
 authorPinyin: du4 fu3

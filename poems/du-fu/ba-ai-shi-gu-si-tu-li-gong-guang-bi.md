@@ -1,7 +1,7 @@
 ---
 id: du-fu-ba-ai-shi-gu-si-tu-li-gong-guang-bi
-title: 八哀詩 故司徒李公光弼
-titlePinyin: ba1 ai1 shi1   gu4 si1 tu2 li3 gong1 guang1 bi4
+title: 八哀詩・故司徒李公光弼
+titlePinyin: ba1 ai1 shi1・gu4 si1 tu2 li3 gong1 guang1 bi4
 titleSlug: ba-ai-shi-gu-si-tu-li-gong-guang-bi
 author: 杜甫
 authorPinyin: du4 fu3
@@ -56,7 +56,7 @@ tags: []
 - zhi2 bi3 zai4 shi3 chen2 ， jiang1 lai2 xi3 xiang1 qie4 。
 - wu2 si1 ku1 gu1 zhong3 ， nan2 ji4 zu3 gui1 ji2 。
 - fu2 dian1 yong3 xiao1 tiao2 ， wei4 ji4 shi1 li4 she4 。
-- pi2  { ao3  /  er3 }  jing4 he2 ren2 ， sa3 ti4 ba1 dong1 xia2 。
+- pi2 { ao3 / er3 } jing4 he2 ren2 ， sa3 ti4 ba1 dong1 xia2 。
 
 ## 注释
 

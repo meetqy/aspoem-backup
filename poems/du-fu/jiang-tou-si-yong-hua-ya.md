@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-tou-si-yong-hua-ya
-title: 江頭四詠 花鴨
-titlePinyin: jiang1 tou2 si4 yong3   hua1 ya1
+title: 江頭四詠・花鴨
+titlePinyin: jiang1 tou2 si4 yong3・hua1 ya1
 titleSlug: jiang-tou-si-yong-hua-ya
 author: 杜甫
 authorPinyin: du4 fu3

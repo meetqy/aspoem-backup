@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-tou-si-yong-xi-chi
-title: 江頭四詠 鸂鶒
-titlePinyin: jiang1 tou2 si4 yong3   xi1 chi4
+title: 江頭四詠・鸂鶒
+titlePinyin: jiang1 tou2 si4 yong3・xi1 chi4
 titleSlug: jiang-tou-si-yong-xi-chi
 author: 杜甫
 authorPinyin: du4 fu3

@@ -1,7 +1,7 @@
 ---
 id: du-fu-jiang-tou-si-yong-zhi-zi
-title: 江頭四詠 梔子
-titlePinyin: jiang1 tou2 si4 yong3   zhi1 zi3
+title: 江頭四詠・梔子
+titlePinyin: jiang1 tou2 si4 yong3・zhi1 zi3
 titleSlug: jiang-tou-si-yong-zhi-zi
 author: 杜甫
 authorPinyin: du4 fu3

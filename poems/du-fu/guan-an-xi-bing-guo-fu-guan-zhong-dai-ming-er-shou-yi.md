@@ -1,7 +1,7 @@
 ---
 id: du-fu-guan-an-xi-bing-guo-fu-guan-zhong-dai-ming-er-shou-yi
-title: 觀安西兵過赴關中待命二首 一
-titlePinyin: guan1 an1 xi1 bing1 guo4 fu4 guan1 zhong1 dai4 ming4 er4 shou3   yi1
+title: 觀安西兵過赴關中待命二首・一
+titlePinyin: guan1 an1 xi1 bing1 guo4 fu4 guan1 zhong1 dai4 ming4 er4 shou3・yi1
 titleSlug: guan-an-xi-bing-guo-fu-guan-zhong-dai-ming-er-shou-yi
 author: 杜甫
 authorPinyin: du4 fu3
