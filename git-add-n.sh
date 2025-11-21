@@ -16,7 +16,8 @@ CURRENT_ADD_COUNT=0
 # M file_modified.txt
 # ?? file_untracked.txt
 # A  file_added_but_not_committed.txt (这已经被暂存了，我们不想要)
-# D  file_deleted.txt (这通常在 git status --porcelain 中显示为 D  file_deleted.txt, 但我们只关注 M 和 ??)
+# D  file_deleted.txt (已删除的文件)
+# ' D' file_deleted_unstaged.txt (未暂存的删除)
 
 echo "Executing: git status --porcelain"
 # 使用 process substitution 和 while read 确保正确处理文件名，即使包含空格或特殊字符
@@ -24,7 +25,7 @@ while IFS= read -r line; do
     # 调试：显示每一行
     # echo "  RAW LINE: '$line'"
 
-    # 检查行是否以 "M " (已修改但未暂存) 或 "??" (未跟踪) 开头
+    # 检查行是否以 " M " (已修改但未暂存)、"??" (未跟踪) 或 " D " (已删除但未暂存) 开头
     if [[ "$line" =~ ^' M ' ]]; then # 注意 ' M '，确保是修改状态
         # 提取文件名 (从第4个字符开始，移除前缀)
         filename="${line:3}"
@@ -35,6 +36,11 @@ while IFS= read -r line; do
         filename="${line:3}"
         UNSTAGED_FILES+=("$filename")
         # echo "  Found UNTRACKED file: '$filename'"
+    elif [[ "$line" =~ ^' D ' ]]; then # 注意 ' D '，未暂存的删除
+        # 提取文件名 (从第4个字符开始，移除前缀)
+        filename="${line:3}"
+        UNSTAGED_FILES+=("$filename")
+        # echo "  Found DELETED file: '$filename'"
     fi
 done < <(git status --porcelain)
 
@@ -43,13 +49,10 @@ echo "Detected ${#UNSTAGED_FILES[@]} unstaged files in total."
 # --- 步骤 2: 从未暂存文件中选择前 MAX_FILES_TO_ADD 个 ---
 for file in "${UNSTAGED_FILES[@]}"; do
     if (( CURRENT_ADD_COUNT < MAX_FILES_TO_ADD )); then
-        # 再次检查文件是否存在且可访问，以防 git status 报告了不存在的文件
-        if [[ -f "$file" || -d "$file" ]]; then
-            FILES_TO_ADD+=("$file")
-            CURRENT_ADD_COUNT=$((CURRENT_ADD_COUNT + 1))
-        # else
-            # echo "  Skipping '$file' as it does not exist or is not a file/directory."
-        fi
+        # 对于删除的文件，不需要检查文件是否存在
+        # 只要在 git status 中出现，就可以添加
+        FILES_TO_ADD+=("$file")
+        CURRENT_ADD_COUNT=$((CURRENT_ADD_COUNT + 1))
     else
         break # 达到文件数量限制
     fi
