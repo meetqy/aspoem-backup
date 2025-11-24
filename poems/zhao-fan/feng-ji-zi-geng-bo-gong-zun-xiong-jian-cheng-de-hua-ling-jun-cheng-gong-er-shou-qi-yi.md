@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-ji-zi-geng-bo-gong-zun-xiong-jian-cheng-de-hua-ling-jun-cheng-gong-er-shou-qi-yi
-title: 奉寄子耕簿公尊兄兼呈德化令君丞公二首  其一
-titlePinyin: feng4 ji4 zi3 geng1 bo2 gong1 zun1 xiong1 jian1 cheng2 de2 hua4 ling4 jun1 cheng2 gong1 er4 shou3     qi2 yi1
+title: 奉寄子耕簿公尊兄兼呈德化令君丞公二首・其一
+titlePinyin: feng4 ji4 zi3 geng1 bo2 gong1 zun1 xiong1 jian1 cheng2 de2 hua4 ling4 jun1 cheng2 gong1 er4 shou3・qi2 yi1
 titleSlug: feng-ji-zi-geng-bo-gong-zun-xiong-jian-cheng-de-hua-ling-jun-cheng-gong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

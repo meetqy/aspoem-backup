@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-lin-min-fu-er-shou-qi-yi
-title: 寄林敏夫二首  其一
-titlePinyin: ji4 lin2 min3 fu1 er4 shou3     qi2 yi1
+title: 寄林敏夫二首・其一
+titlePinyin: ji4 lin2 min3 fu1 er4 shou3・qi2 yi1
 titleSlug: ji-lin-min-fu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

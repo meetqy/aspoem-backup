@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-he-si-yuan-xi-xuan-zhu-er-shou-qi-er
-title: 和斯遠西軒竹二首  其二
-titlePinyin: he2 si1 yuan3 xi1 xuan1 zhu2 er4 shou3     qi2 er4
+title: 和斯遠西軒竹二首・其二
+titlePinyin: he2 si1 yuan3 xi1 xuan1 zhu2 er4 shou3・qi2 er4
 titleSlug: he-si-yuan-xi-xuan-zhu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

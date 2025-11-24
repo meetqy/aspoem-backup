@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-hu-zhou-zeng-liu-er-di-jian-cheng-bo-rui-kun-zhong-er-shou-qi-yi
-title: 湖州贈劉二弟兼呈伯瑞昆仲二首  其一
-titlePinyin: hu2 zhou1 zeng4 liu2 er4 di4 jian1 cheng2 bo2 rui4 kun1 zhong4 er4 shou3     qi2 yi1
+title: 湖州贈劉二弟兼呈伯瑞昆仲二首・其一
+titlePinyin: hu2 zhou1 zeng4 liu2 er4 di4 jian1 cheng2 bo2 rui4 kun1 zhong4 er4 shou3・qi2 yi1
 titleSlug: hu-zhou-zeng-liu-er-di-jian-cheng-bo-rui-kun-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

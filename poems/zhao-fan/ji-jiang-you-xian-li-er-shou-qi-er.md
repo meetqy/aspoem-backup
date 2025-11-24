@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-jiang-you-xian-li-er-shou-qi-er
-title: 寄蔣攸縣礪二首  其二
-titlePinyin: ji4 jiang3 you1 xian4 li4 er4 shou3     qi2 er4
+title: 寄蔣攸縣礪二首・其二
+titlePinyin: ji4 jiang3 you1 xian4 li4 er4 shou3・qi2 er4
 titleSlug: ji-jiang-you-xian-li-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

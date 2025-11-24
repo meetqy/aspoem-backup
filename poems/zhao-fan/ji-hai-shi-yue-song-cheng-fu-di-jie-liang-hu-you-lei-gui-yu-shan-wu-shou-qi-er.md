@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-hai-shi-yue-song-cheng-fu-di-jie-liang-hu-you-lei-gui-yu-shan-wu-shou-qi-er
-title: 己亥十月送成父弟絜兩戶幼累歸玉山五首  其二
-titlePinyin: ji3 hai4 shi2 yue4 song4 cheng2 fu4 di4 jie2 liang3 hu4 you4 lei4 gui1 yu4 shan1 wu3 shou3     qi2 er4
+title: 己亥十月送成父弟絜兩戶幼累歸玉山五首・其二
+titlePinyin: ji3 hai4 shi2 yue4 song4 cheng2 fu4 di4 jie2 liang3 hu4 you4 lei4 gui1 yu4 shan1 wu3 shou3・qi2 er4
 titleSlug: ji-hai-shi-yue-song-cheng-fu-di-jie-liang-hu-you-lei-gui-yu-shan-wu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

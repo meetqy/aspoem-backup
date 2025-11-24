@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-jian-ning-han-shang-shu-er-shou-qi-er
-title: 寄建寧韓尚書二首  其二
-titlePinyin: ji4 jian4 ning2 han2 shang4 shu1 er4 shou3     qi2 er4
+title: 寄建寧韓尚書二首・其二
+titlePinyin: ji4 jian4 ning2 han2 shang4 shu1 er4 shou3・qi2 er4
 titleSlug: ji-jian-ning-han-shang-shu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

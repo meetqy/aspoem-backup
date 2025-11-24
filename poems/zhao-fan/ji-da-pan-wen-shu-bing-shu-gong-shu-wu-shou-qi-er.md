@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-da-pan-wen-shu-bing-shu-gong-shu-wu-shou-qi-er
-title: 寄答潘文叔并屬恭叔五首  其二
-titlePinyin: ji4 da2 pan1 wen2 shu1 bing4 shu3 gong1 shu1 wu3 shou3     qi2 er4
+title: 寄答潘文叔并屬恭叔五首・其二
+titlePinyin: ji4 da2 pan1 wen2 shu1 bing4 shu3 gong1 shu1 wu3 shou3・qi2 er4
 titleSlug: ji-da-pan-wen-shu-bing-shu-gong-shu-wu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

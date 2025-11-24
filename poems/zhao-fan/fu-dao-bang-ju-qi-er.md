@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fu-dao-bang-ju-qi-er
-title: 賦道傍菊  其二
-titlePinyin: fu4 dao4 bang4 ju2     qi2 er4
+title: 賦道傍菊・其二
+titlePinyin: fu4 dao4 bang4 ju2・qi2 er4
 titleSlug: fu-dao-bang-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

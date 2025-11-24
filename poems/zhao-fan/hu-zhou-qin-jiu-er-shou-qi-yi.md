@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-hu-zhou-qin-jiu-er-shou-qi-yi
-title: 湖州親舊二首  其一
-titlePinyin: hu2 zhou1 qin1 jiu4 er4 shou3     qi2 yi1
+title: 湖州親舊二首・其一
+titlePinyin: hu2 zhou1 qin1 jiu4 er4 shou3・qi2 yi1
 titleSlug: hu-zhou-qin-jiu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

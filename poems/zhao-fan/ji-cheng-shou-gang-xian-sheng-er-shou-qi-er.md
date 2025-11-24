@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-cheng-shou-gang-xian-sheng-er-shou-qi-er
-title: 寄呈壽岡先生二首  其二
-titlePinyin: ji4 cheng2 shou4 gang1 xian1 sheng0 er4 shou3     qi2 er4
+title: 寄呈壽岡先生二首・其二
+titlePinyin: ji4 cheng2 shou4 gang1 xian1 sheng0 er4 shou3・qi2 er4
 titleSlug: ji-cheng-shou-gang-xian-sheng-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

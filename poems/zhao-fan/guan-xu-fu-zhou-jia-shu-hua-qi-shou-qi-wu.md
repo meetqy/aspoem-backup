@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guan-xu-fu-zhou-jia-shu-hua-qi-shou-qi-wu
-title: 觀徐復州家書畫七首  其五
-titlePinyin: guan1 xu2 fu4 zhou1 jia1 shu1 hua4 qi1 shou3     qi2 wu3
+title: 觀徐復州家書畫七首・其五
+titlePinyin: guan1 xu2 fu4 zhou1 jia1 shu1 hua4 qi1 shou3・qi2 wu3
 titleSlug: guan-xu-fu-zhou-jia-shu-hua-qi-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

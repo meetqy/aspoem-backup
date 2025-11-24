@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-ji-si-yuan-jian-shu-wen-ding-chu-zhou-zi-yong-ti-shu-wu-shou-qi-si
-title: 奉寄斯遠兼屬文鼎處州子永提屬五首  其四
-titlePinyin: feng4 ji4 si1 yuan3 jian1 shu3 wen2 ding3 chu3 zhou1 zi3 yong3 ti2 shu3 wu3 shou3     qi2 si4
+title: 奉寄斯遠兼屬文鼎處州子永提屬五首・其四
+titlePinyin: feng4 ji4 si1 yuan3 jian1 shu3 wen2 ding3 chu3 zhou1 zi3 yong3 ti2 shu3 wu3 shou3・qi2 si4
 titleSlug: feng-ji-si-yuan-jian-shu-wen-ding-chu-zhou-zi-yong-ti-shu-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

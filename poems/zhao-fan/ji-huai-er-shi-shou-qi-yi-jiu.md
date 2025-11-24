@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-huai-er-shi-shou-qi-yi-jiu
-title: 寄懷二十首  其一九
-titlePinyin: ji4 huai2 er4 shi2 shou3     qi2 yi1 jiu3
+title: 寄懷二十首・其一九
+titlePinyin: ji4 huai2 er4 shi2 shou3・qi2 yi1 jiu3
 titleSlug: ji-huai-er-shi-shou-qi-yi-jiu
 author: 趙蕃
 authorPinyin: zhao4 fan1

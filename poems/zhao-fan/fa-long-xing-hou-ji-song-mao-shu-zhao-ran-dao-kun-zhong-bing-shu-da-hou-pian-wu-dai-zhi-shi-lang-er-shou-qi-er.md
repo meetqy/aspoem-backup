@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fa-long-xing-hou-ji-song-mao-shu-zhao-ran-dao-kun-zhong-bing-shu-da-hou-pian-wu-dai-zhi-shi-lang-er-shou-qi-er
-title: 發隆興後寄宋茂叔趙然道昆仲併屬達後篇於待制侍郎二首  其二
-titlePinyin: fa1 long2 xing1 hou4 ji4 song4 mao4 shu1 zhao4 ran2 dao4 kun1 zhong4 bing4 shu3 da2 hou4 pian1 wu1 dai4 zhi4 shi4 lang2 er4 shou3     qi2 er4
+title: 發隆興後寄宋茂叔趙然道昆仲併屬達後篇於待制侍郎二首・其二
+titlePinyin: fa1 long2 xing1 hou4 ji4 song4 mao4 shu1 zhao4 ran2 dao4 kun1 zhong4 bing4 shu3 da2 hou4 pian1 wu1 dai4 zhi4 shi4 lang2 er4 shou3・qi2 er4
 titleSlug: fa-long-xing-hou-ji-song-mao-shu-zhao-ran-dao-kun-zhong-bing-shu-da-hou-pian-wu-dai-zhi-shi-lang-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

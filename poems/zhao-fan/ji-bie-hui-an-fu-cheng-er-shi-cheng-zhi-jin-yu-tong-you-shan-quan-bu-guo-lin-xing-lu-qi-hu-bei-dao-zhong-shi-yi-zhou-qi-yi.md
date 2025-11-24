@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-bie-hui-an-fu-cheng-er-shi-cheng-zhi-jin-yu-tong-you-shan-quan-bu-guo-lin-xing-lu-qi-hu-bei-dao-zhong-shi-yi-zhou-qi-yi
-title: 既別晦庵復成二詩呈之近欲同游善權不果臨行錄其湖北道中詩一軸  其一
-titlePinyin: ji4 bie2 hui4 an1 fu4 cheng2 er4 shi1 cheng2 zhi1 jin4 yu4 tong2 you2 shan4 quan2 bu4 guo3 lin2 xing2 lu4 qi2 hu2 bei3 dao4 zhong1 shi1 yi4 zhou2     qi2 yi1
+title: 既別晦庵復成二詩呈之近欲同游善權不果臨行錄其湖北道中詩一軸・其一
+titlePinyin: ji4 bie2 hui4 an1 fu4 cheng2 er4 shi1 cheng2 zhi1 jin4 yu4 tong2 you2 shan4 quan2 bu4 guo3 lin2 xing2 lu4 qi2 hu2 bei3 dao4 zhong1 shi1 yi4 zhou2・qi2 yi1
 titleSlug: ji-bie-hui-an-fu-cheng-er-shi-cheng-zhi-jin-yu-tong-you-shan-quan-bu-guo-lin-xing-lu-qi-hu-bei-dao-zhong-shi-yi-zhou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

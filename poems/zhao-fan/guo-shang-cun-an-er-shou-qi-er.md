@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guo-shang-cun-an-er-shou-qi-er
-title: 過上村菴二首  其二
-titlePinyin: guo4 shang4 cun1 an1 er4 shou3     qi2 er4
+title: 過上村菴二首・其二
+titlePinyin: guo4 shang4 cun1 an1 er4 shou3・qi2 er4
 titleSlug: guo-shang-cun-an-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

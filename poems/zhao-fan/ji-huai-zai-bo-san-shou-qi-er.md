@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-huai-zai-bo-san-shou-qi-er
-title: 寄懷在伯三首  其二
-titlePinyin: ji4 huai2 zai4 bo2 san1 shou3     qi2 er4
+title: 寄懷在伯三首・其二
+titlePinyin: ji4 huai2 zai4 bo2 san1 shou3・qi2 er4
 titleSlug: ji-huai-zai-bo-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gui-tu-ma-shang-er-shou-qi-er
-title: 歸途馬上二首  其二
-titlePinyin: gui1 tu2 ma3 shang4 er4 shou3     qi2 er4
+title: 歸途馬上二首・其二
+titlePinyin: gui1 tu2 ma3 shang4 er4 shou3・qi2 er4
 titleSlug: gui-tu-ma-shang-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

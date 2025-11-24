@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fan-qin-yan-er-shou-qi-yi
-title: 反禽言二首  其一
-titlePinyin: fan3 qin2 yan2 er4 shou3     qi2 yi1
+title: 反禽言二首・其一
+titlePinyin: fan3 qin2 yan2 er4 shou3・qi2 yi1
 titleSlug: fan-qin-yan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

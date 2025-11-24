@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-jian-zai-bo-si-shou-qi-er
-title: 奉簡在伯四首  其二
-titlePinyin: feng4 jian3 zai4 bo2 si4 shou3     qi2 er4
+title: 奉簡在伯四首・其二
+titlePinyin: feng4 jian3 zai4 bo2 si4 shou3・qi2 er4
 titleSlug: feng-jian-zai-bo-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

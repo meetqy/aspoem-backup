@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-yue-shi-jiu-ri-tong-liang-dou-jian-yuan-ling-ling-wei-jian-xu-pu-bo-gong-zi-xing-fu-qi-yi
-title: 二月十九日同兩都監沅陵令尉餞敘浦簿公子興福  其一
-titlePinyin: er4 yue4 shi2 jiu3 ri4 tong2 liang3 dou1 jian1 yuan2 ling2 ling4 wei4 jian4 xu4 pu3 bo2 gong1 zi3 xing1 fu2     qi2 yi1
+title: 二月十九日同兩都監沅陵令尉餞敘浦簿公子興福・其一
+titlePinyin: er4 yue4 shi2 jiu3 ri4 tong2 liang3 dou1 jian1 yuan2 ling2 ling4 wei4 jian4 xu4 pu3 bo2 gong1 zi3 xing1 fu2・qi2 yi1
 titleSlug: er-yue-shi-jiu-ri-tong-liang-dou-jian-yuan-ling-ling-wei-jian-xu-pu-bo-gong-zi-xing-fu-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

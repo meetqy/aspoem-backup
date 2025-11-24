@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gan-xian-dao-zhong-you-huai-hui-an-yong-jiang-dong-ri-mu-yun-wei-yun-zuo-wu-shi-ji-zhi-qi-san
-title: 贛縣道中有懷晦庵用江東日暮雲爲韻作五詩寄之  其三
-titlePinyin: gan4 xian4 dao4 zhong1 you3 huai2 hui4 an1 yong4 jiang1 dong1 ri4 mu4 yun2 wei2 yun4 zuo4 wu3 shi1 ji4 zhi1     qi2 san1
+title: 贛縣道中有懷晦庵用江東日暮雲爲韻作五詩寄之・其三
+titlePinyin: gan4 xian4 dao4 zhong1 you3 huai2 hui4 an1 yong4 jiang1 dong1 ri4 mu4 yun2 wei2 yun4 zuo4 wu3 shi1 ji4 zhi1・qi2 san1
 titleSlug: gan-xian-dao-zhong-you-huai-hui-an-yong-jiang-dong-ri-mu-yun-wei-yun-zuo-wu-shi-ji-zhi-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

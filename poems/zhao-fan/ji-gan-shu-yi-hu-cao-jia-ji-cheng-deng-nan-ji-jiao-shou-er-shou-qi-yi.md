@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-gan-shu-yi-hu-cao-jia-ji-cheng-deng-nan-ji-jiao-shou-er-shou-qi-yi
-title: 寄甘叔異戶曹賈季承鄧南季教授二首  其一
-titlePinyin: ji4 gan1 shu1 yi4 hu4 cao2 jia3 ji4 cheng2 deng4 nan2 ji4 jiao4 shou4 er4 shou3     qi2 yi1
+title: 寄甘叔異戶曹賈季承鄧南季教授二首・其一
+titlePinyin: ji4 gan1 shu1 yi4 hu4 cao2 jia3 ji4 cheng2 deng4 nan2 ji4 jiao4 shou4 er4 shou3・qi2 yi1
 titleSlug: ji-gan-shu-yi-hu-cao-jia-ji-cheng-deng-nan-ji-jiao-shou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

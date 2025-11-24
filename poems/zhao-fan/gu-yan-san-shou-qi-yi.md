@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gu-yan-san-shou-qi-yi
-title: 孤鴈三首  其一
-titlePinyin: gu1 yan4 san1 shou3     qi2 yi1
+title: 孤鴈三首・其一
+titlePinyin: gu1 yan4 san1 shou3・qi2 yi1
 titleSlug: gu-yan-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

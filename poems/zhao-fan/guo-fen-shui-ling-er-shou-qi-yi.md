@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guo-fen-shui-ling-er-shou-qi-yi
-title: 過分水嶺二首  其一
-titlePinyin: guo4 fen1 shui3 ling3 er4 shou3     qi2 yi1
+title: 過分水嶺二首・其一
+titlePinyin: guo4 fen1 shui3 ling3 er4 shou3・qi2 yi1
 titleSlug: guo-fen-shui-ling-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

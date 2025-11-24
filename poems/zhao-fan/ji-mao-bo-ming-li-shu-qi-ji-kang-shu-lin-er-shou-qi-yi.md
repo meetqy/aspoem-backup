@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-mao-bo-ming-li-shu-qi-ji-kang-shu-lin-er-shou-qi-yi
-title: 寄毛伯明李叔器及康叔臨二首  其一
-titlePinyin: ji4 mao2 bo2 ming2 li3 shu1 qi4 ji2 kang1 shu1 lin2 er4 shou3     qi2 yi1
+title: 寄毛伯明李叔器及康叔臨二首・其一
+titlePinyin: ji4 mao2 bo2 ming2 li3 shu1 qi4 ji2 kang1 shu1 lin2 er4 shou3・qi2 yi1
 titleSlug: ji-mao-bo-ming-li-shu-qi-ji-kang-shu-lin-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

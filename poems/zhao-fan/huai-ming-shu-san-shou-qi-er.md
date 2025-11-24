@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huai-ming-shu-san-shou-qi-er
-title: 懷明叔三首  其二
-titlePinyin: huai2 ming2 shu1 san1 shou3     qi2 er4
+title: 懷明叔三首・其二
+titlePinyin: huai2 ming2 shu1 san1 shou3・qi2 er4
 titleSlug: huai-ming-shu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

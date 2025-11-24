@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gui-yuan-si-shou-qi-si
-title: 閨怨四首  其四
-titlePinyin: gui1 yuan4 si4 shou3     qi2 si4
+title: 閨怨四首・其四
+titlePinyin: gui1 yuan4 si4 shou3・qi2 si4
 titleSlug: gui-yuan-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

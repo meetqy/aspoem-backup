@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-cheng-he-shu-xin-wei-zhao-fu-san-shou-qi-san
-title: 奉呈何叔信魏昭甫三首  其三
-titlePinyin: feng4 cheng2 he2 shu1 xin4 wei4 zhao1 fu3 san1 shou3     qi2 san1
+title: 奉呈何叔信魏昭甫三首・其三
+titlePinyin: feng4 cheng2 he2 shu1 xin4 wei4 zhao1 fu3 san1 shou3・qi2 san1
 titleSlug: feng-cheng-he-shu-xin-wei-zhao-fu-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

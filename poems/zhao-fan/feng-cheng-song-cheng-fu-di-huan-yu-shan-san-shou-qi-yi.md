@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-cheng-song-cheng-fu-di-huan-yu-shan-san-shou-qi-yi
-title: 豐城送成父弟還玉山三首  其一
-titlePinyin: feng1 cheng2 song4 cheng2 fu4 di4 huan2 yu4 shan1 san1 shou3     qi2 yi1
+title: 豐城送成父弟還玉山三首・其一
+titlePinyin: feng1 cheng2 song4 cheng2 fu4 di4 huan2 yu4 shan1 san1 shou3・qi2 yi1
 titleSlug: feng-cheng-song-cheng-fu-di-huan-yu-shan-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

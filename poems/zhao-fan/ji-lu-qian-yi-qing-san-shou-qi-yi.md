@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-lu-qian-yi-qing-san-shou-qi-yi
-title: 寄呂謙益卿三首  其一
-titlePinyin: ji4 lü3 qian1 yi4 qing1 san1 shou3     qi2 yi1
+title: 寄呂謙益卿三首・其一
+titlePinyin: ji4 lü3 qian1 yi4 qing1 san1 shou3・qi2 yi1
 titleSlug: ji-lu-qian-yi-qing-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

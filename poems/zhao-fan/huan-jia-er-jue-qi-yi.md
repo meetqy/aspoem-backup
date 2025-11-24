@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huan-jia-er-jue-qi-yi
-title: 還家二絕  其一
-titlePinyin: huan2 jia1 er4 jue2     qi2 yi1
+title: 還家二絕・其一
+titlePinyin: huan2 jia1 er4 jue2・qi2 yi1
 titleSlug: huan-jia-er-jue-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

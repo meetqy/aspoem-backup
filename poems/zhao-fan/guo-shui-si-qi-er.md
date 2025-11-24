@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guo-shui-si-qi-er
-title: 過水寺  其二
-titlePinyin: guo4 shui3 si4     qi2 er4
+title: 過水寺・其二
+titlePinyin: guo4 shui3 si4・qi2 er4
 titleSlug: guo-shui-si-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

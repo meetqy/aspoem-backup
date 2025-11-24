@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fan-hou-du-li-si-men-po-jian-yao-luo-zhi-jing-yu-shou-yi-shi-da-fei-dan-ya-jin-de-er-shou-qi-er
-title: 飯後獨立寺門頗見摇落之境欲收以詩大費彈壓僅得二首  其二
-titlePinyin: fan4 hou4 du2 li4 si4 men2 po1 jian4 yao2 luo4 zhi1 jing4 yu4 shou1 yi3 shi1 da4 fei4 dan4 ya1 jin3 de2 er4 shou3     qi2 er4
+title: 飯後獨立寺門頗見摇落之境欲收以詩大費彈壓僅得二首・其二
+titlePinyin: fan4 hou4 du2 li4 si4 men2 po1 jian4 yao2 luo4 zhi1 jing4 yu4 shou1 yi3 shi1 da4 fei4 dan4 ya1 jin3 de2 er4 shou3・qi2 er4
 titleSlug: fan-hou-du-li-si-men-po-jian-yao-luo-zhi-jing-yu-shou-yi-shi-da-fei-dan-ya-jin-de-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

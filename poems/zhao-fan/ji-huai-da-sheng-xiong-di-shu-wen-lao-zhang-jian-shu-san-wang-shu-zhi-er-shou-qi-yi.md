@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-huai-da-sheng-xiong-di-shu-wen-lao-zhang-jian-shu-san-wang-shu-zhi-er-shou-qi-yi
-title: 寄懷大聲兄弟叔文老丈兼屬三王叔姪二首  其一
-titlePinyin: ji4 huai2 da4 sheng1 xiong1 di4 shu1 wen2 lao3 zhang4 jian1 shu3 san1 wang2 shu1 zhi2 er4 shou3     qi2 yi1
+title: 寄懷大聲兄弟叔文老丈兼屬三王叔姪二首・其一
+titlePinyin: ji4 huai2 da4 sheng1 xiong1 di4 shu1 wen2 lao3 zhang4 jian1 shu3 san1 wang2 shu1 zhi2 er4 shou3・qi2 yi1
 titleSlug: ji-huai-da-sheng-xiong-di-shu-wen-lao-zhang-jian-shu-san-wang-shu-zhi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

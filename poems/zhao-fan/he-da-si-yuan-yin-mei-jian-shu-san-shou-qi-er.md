@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-he-da-si-yuan-yin-mei-jian-shu-san-shou-qi-er
-title: 和答斯遠因梅見屬三首  其二
-titlePinyin: he2 da2 si1 yuan3 yin1 mei2 jian4 shu3 san1 shou3     qi2 er4
+title: 和答斯遠因梅見屬三首・其二
+titlePinyin: he2 da2 si1 yuan3 yin1 mei2 jian4 shu3 san1 shou3・qi2 er4
 titleSlug: he-da-si-yuan-yin-mei-jian-shu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-gong-ze-jian-wen-xun-ji-yi-er-shou-qi-er
-title: 寄公擇兼問訊季益二首  其二
-titlePinyin: ji4 gong1 ze2 jian1 wen4 xun4 ji4 yi4 er4 shou3     qi2 er4
+title: 寄公擇兼問訊季益二首・其二
+titlePinyin: ji4 gong1 ze2 jian1 wen4 xun4 ji4 yi4 er4 shou3・qi2 er4
 titleSlug: ji-gong-ze-jian-wen-xun-ji-yi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huai-yuan-fu-si-yuan-cheng-fu-qi-yi
-title: 懷遠父斯遠成父  其一
-titlePinyin: huai2 yuan3 fu4 si1 yuan3 cheng2 fu4     qi2 yi1
+title: 懷遠父斯遠成父・其一
+titlePinyin: huai2 yuan3 fu4 si1 yuan3 cheng2 fu4・qi2 yi1
 titleSlug: huai-yuan-fu-si-yuan-cheng-fu-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

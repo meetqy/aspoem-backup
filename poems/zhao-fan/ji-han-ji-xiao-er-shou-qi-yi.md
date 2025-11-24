@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-han-ji-xiao-er-shou-qi-yi
-title: 寄韓季蕭二首  其一
-titlePinyin: ji4 han2 ji4 xiao1 er4 shou3     qi2 yi1
+title: 寄韓季蕭二首・其一
+titlePinyin: ji4 han2 ji4 xiao1 er4 shou3・qi2 yi1
 titleSlug: ji-han-ji-xiao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

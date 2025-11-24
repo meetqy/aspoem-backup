@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-lin-yun-shi-san-shou-qi-yi
-title: 寄林運使三首  其一
-titlePinyin: ji4 lin2 yun4 shi3 san1 shou3     qi2 yi1
+title: 寄林運使三首・其一
+titlePinyin: ji4 lin2 yun4 shi3 san1 shou3・qi2 yi1
 titleSlug: ji-lin-yun-shi-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

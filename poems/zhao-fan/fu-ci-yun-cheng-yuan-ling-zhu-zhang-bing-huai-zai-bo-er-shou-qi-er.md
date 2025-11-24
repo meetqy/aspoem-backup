@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fu-ci-yun-cheng-yuan-ling-zhu-zhang-bing-huai-zai-bo-er-shou-qi-er
-title: 復次韻呈沅陵諸丈并懷在伯二首  其二
-titlePinyin: fu4 ci4 yun4 cheng2 yuan2 ling2 zhu1 zhang4 bing4 huai2 zai4 bo2 er4 shou3     qi2 er4
+title: 復次韻呈沅陵諸丈并懷在伯二首・其二
+titlePinyin: fu4 ci4 yun4 cheng2 yuan2 ling2 zhu1 zhang4 bing4 huai2 zai4 bo2 er4 shou3・qi2 er4
 titleSlug: fu-ci-yun-cheng-yuan-ling-zhu-zhang-bing-huai-zai-bo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

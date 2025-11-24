@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gan-huai-wu-shou-qi-si
-title: 感懷五首  其四
-titlePinyin: gan3 huai2 wu3 shou3     qi2 si4
+title: 感懷五首・其四
+titlePinyin: gan3 huai2 wu3 shou3・qi2 si4
 titleSlug: gan-huai-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

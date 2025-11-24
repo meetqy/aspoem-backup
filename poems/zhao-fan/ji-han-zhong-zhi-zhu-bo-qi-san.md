@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-han-zhong-zhi-zhu-bo-qi-san
-title: 寄韓仲止主簿  其三
-titlePinyin: ji4 han2 zhong4 zhi3 zhu3 bo2     qi2 san1
+title: 寄韓仲止主簿・其三
+titlePinyin: ji4 han2 zhong4 zhi3 zhu3 bo2・qi2 san1
 titleSlug: ji-han-zhong-zhi-zhu-bo-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

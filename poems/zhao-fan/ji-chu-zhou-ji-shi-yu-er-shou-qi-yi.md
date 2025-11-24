@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-chu-zhou-ji-shi-yu-er-shou-qi-yi
-title: 寄處州季侍御二首  其一
-titlePinyin: ji4 chu3 zhou1 ji4 shi4 yu4 er4 shou3     qi2 yi1
+title: 寄處州季侍御二首・其一
+titlePinyin: ji4 chu3 zhou1 ji4 shi4 yu4 er4 shou3・qi2 yi1
 titleSlug: ji-chu-zhou-ji-shi-yu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

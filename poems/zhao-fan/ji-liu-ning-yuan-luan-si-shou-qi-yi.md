@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-liu-ning-yuan-luan-si-shou-qi-yi
-title: 寄劉凝遠巒四首  其一
-titlePinyin: ji4 liu2 ning2 yuan3 luan2 si4 shou3     qi2 yi1
+title: 寄劉凝遠巒四首・其一
+titlePinyin: ji4 liu2 ning2 yuan3 luan2 si4 shou3・qi2 yi1
 titleSlug: ji-liu-ning-yuan-luan-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

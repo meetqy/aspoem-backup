@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-han-yu-gan-huai-cheng-si-yuan-san-shou-qi-san
-title: 寒雨感懷呈斯遠三首  其三
-titlePinyin: han2 yu3 gan3 huai2 cheng2 si1 yuan3 san1 shou3     qi2 san1
+title: 寒雨感懷呈斯遠三首・其三
+titlePinyin: han2 yu3 gan3 huai2 cheng2 si1 yuan3 san1 shou3・qi2 san1
 titleSlug: han-yu-gan-huai-cheng-si-yuan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

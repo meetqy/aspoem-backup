@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-huai-wei-zhi-er-shou-qi-er
-title: 寄懷畏知二首  其二
-titlePinyin: ji4 huai2 wei4 zhi1 er4 shou3     qi2 er4
+title: 寄懷畏知二首・其二
+titlePinyin: ji4 huai2 wei4 zhi1 er4 shou3・qi2 er4
 titleSlug: ji-huai-wei-zhi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

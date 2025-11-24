@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guo-yu-shi-er-shou-qi-yi
-title: 過雨市二首  其一
-titlePinyin: guo4 yu3 shi4 er4 shou3     qi2 yi1
+title: 過雨市二首・其一
+titlePinyin: guo4 yu3 shi4 er4 shou3・qi2 yi1
 titleSlug: guo-yu-shi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

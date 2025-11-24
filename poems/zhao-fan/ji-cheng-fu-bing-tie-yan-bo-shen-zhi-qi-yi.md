@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-cheng-fu-bing-tie-yan-bo-shen-zhi-qi-yi
-title: 寄成父并帖彥博審知  其一
-titlePinyin: ji4 cheng2 fu4 bing4 tie1 yan4 bo2 shen3 zhi1     qi2 yi1
+title: 寄成父并帖彥博審知・其一
+titlePinyin: ji4 cheng2 fu4 bing4 tie1 yan4 bo2 shen3 zhi1・qi2 yi1
 titleSlug: ji-cheng-fu-bing-tie-yan-bo-shen-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

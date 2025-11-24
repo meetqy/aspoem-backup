@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guan-zhu-shao-lin-suo-cang-hua-san-shou-qi-er
-title: 觀祝少林所藏畫三首  其二
-titlePinyin: guan1 zhu4 shao4 lin2 suo3 cang2 hua4 san1 shou3     qi2 er4
+title: 觀祝少林所藏畫三首・其二
+titlePinyin: guan1 zhu4 shao4 lin2 suo3 cang2 hua4 san1 shou3・qi2 er4
 titleSlug: guan-zhu-shao-lin-suo-cang-hua-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

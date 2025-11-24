@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guan-wu-xing-yu-jun-xin-zhi-zuo-hua-yu-rui-zhu-yu-jun-suo-shi-man-xing-si-jue-ju-qi-er
-title: 觀吳興俞君新之作畫于瑞竹俞君索詩漫興四絕句  其二
-titlePinyin: guan1 wu2 xing1 yu2 jun1 xin1 zhi1 zuo4 hua4 yu2 rui4 zhu2 yu2 jun1 suo3 shi1 man4 xing1 si4 jue2 ju4     qi2 er4
+title: 觀吳興俞君新之作畫于瑞竹俞君索詩漫興四絕句・其二
+titlePinyin: guan1 wu2 xing1 yu2 jun1 xin1 zhi1 zuo4 hua4 yu2 rui4 zhu2 yu2 jun1 suo3 shi1 man4 xing1 si4 jue2 ju4・qi2 er4
 titleSlug: guan-wu-xing-yu-jun-xin-zhi-zuo-hua-yu-rui-zhu-yu-jun-suo-shi-man-xing-si-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

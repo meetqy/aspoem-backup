@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-jian-qin-zhi-jian-yi-si-yuan-qi-yi
-title: 奉簡欽止兼憶斯遠  其一
-titlePinyin: feng4 jian3 qin1 zhi3 jian1 yi4 si1 yuan3     qi2 yi1
+title: 奉簡欽止兼憶斯遠・其一
+titlePinyin: feng4 jian3 qin1 zhi3 jian1 yi4 si1 yuan3・qi2 yi1
 titleSlug: feng-jian-qin-zhi-jian-yi-si-yuan-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

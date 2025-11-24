@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-hang-qiao-dao-jian-er-shou-qi-er
-title: 杭橋道間二首  其二
-titlePinyin: hang2 qiao2 dao4 jian4 er4 shou3     qi2 er4
+title: 杭橋道間二首・其二
+titlePinyin: hang2 qiao2 dao4 jian4 er4 shou3・qi2 er4
 titleSlug: hang-qiao-dao-jian-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

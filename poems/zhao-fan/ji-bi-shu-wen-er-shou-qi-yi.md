@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-bi-shu-wen-er-shou-qi-yi
-title: 寄畢叔文二首  其一
-titlePinyin: ji4 bi4 shu1 wen2 er4 shou3     qi2 yi1
+title: 寄畢叔文二首・其一
+titlePinyin: ji4 bi4 shu1 wen2 er4 shou3・qi2 yi1
 titleSlug: ji-bi-shu-wen-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

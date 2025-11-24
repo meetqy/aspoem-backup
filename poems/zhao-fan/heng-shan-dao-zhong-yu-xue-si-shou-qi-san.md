@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-heng-shan-dao-zhong-yu-xue-si-shou-qi-san
-title: 衡山道中遇雪四首  其三
-titlePinyin: heng2 shan1 dao4 zhong1 yu4 xue3 si4 shou3     qi2 san1
+title: 衡山道中遇雪四首・其三
+titlePinyin: heng2 shan1 dao4 zhong1 yu4 xue3 si4 shou3・qi2 san1
 titleSlug: heng-shan-dao-zhong-yu-xue-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

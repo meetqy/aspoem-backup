@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-huai-zi-jin-kun-zhong-san-shou-qi-er
-title: 寄懷子進昆仲三首  其二
-titlePinyin: ji4 huai2 zi3 jin4 kun1 zhong4 san1 shou3     qi2 er4
+title: 寄懷子進昆仲三首・其二
+titlePinyin: ji4 huai2 zi3 jin4 kun1 zhong4 san1 shou3・qi2 er4
 titleSlug: ji-huai-zi-jin-kun-zhong-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

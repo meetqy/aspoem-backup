@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-li-shang-sou-er-shou-qi-er
-title: 寄李商叟二首  其二
-titlePinyin: ji4 li3 shang1 sou3 er4 shou3     qi2 er4
+title: 寄李商叟二首・其二
+titlePinyin: ji4 li3 shang1 sou3 er4 shou3・qi2 er4
 titleSlug: ji-li-shang-sou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-feng-shou-sheng-ri-qi-er
-title: 馮守生日  其二
-titlePinyin: feng2 shou3 sheng1 ri4     qi2 er4
+title: 馮守生日・其二
+titlePinyin: feng2 shou3 sheng1 ri4・qi2 er4
 titleSlug: feng-shou-sheng-ri-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

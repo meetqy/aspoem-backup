@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gui-yuan-er-shou-qi-er
-title: 閨怨二首  其二
-titlePinyin: gui1 yuan4 er4 shou3     qi2 er4
+title: 閨怨二首・其二
+titlePinyin: gui1 yuan4 er4 shou3・qi2 er4
 titleSlug: gui-yuan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

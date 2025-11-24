@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-guo-wang-zong-chen-yun-yuan-yuan-lu-san-shou-qi-er
-title: 過王宗臣允元園廬三首  其二
-titlePinyin: guo4 wang2 zong1 chen2 yun3 yuan2 yuan2 lu2 san1 shou3     qi2 er4
+title: 過王宗臣允元園廬三首・其二
+titlePinyin: guo4 wang2 zong1 chen2 yun3 yuan2 yuan2 lu2 san1 shou3・qi2 er4
 titleSlug: guo-wang-zong-chen-yun-yuan-yuan-lu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

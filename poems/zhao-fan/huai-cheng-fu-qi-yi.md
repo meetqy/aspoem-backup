@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huai-cheng-fu-qi-yi
-title: 懷成父  其一
-titlePinyin: huai2 cheng2 fu4     qi2 yi1
+title: 懷成父・其一
+titlePinyin: huai2 cheng2 fu4・qi2 yi1
 titleSlug: huai-cheng-fu-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

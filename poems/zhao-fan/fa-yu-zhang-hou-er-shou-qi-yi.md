@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fa-yu-zhang-hou-er-shou-qi-yi
-title: 發豫章後二首  其一
-titlePinyin: fa1 yu4 zhang1 hou4 er4 shou3     qi2 yi1
+title: 發豫章後二首・其一
+titlePinyin: fa1 yu4 zhang1 hou4 er4 shou3・qi2 yi1
 titleSlug: fa-yu-zhang-hou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

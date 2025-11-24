@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-li-shu-zhou-qi-yi
-title: 寄李舒州  其一
-titlePinyin: ji4 li3 shu1 zhou1     qi2 yi1
+title: 寄李舒州・其一
+titlePinyin: ji4 li3 shu1 zhou1・qi2 yi1
 titleSlug: ji-li-shu-zhou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

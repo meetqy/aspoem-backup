@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-gan-mei-shu-zhou-wen-xian-er-shou-qi-er
-title: 感梅屬周文顯二首  其二
-titlePinyin: gan3 mei2 shu3 zhou1 wen2 xian3 er4 shou3     qi2 er4
+title: 感梅屬周文顯二首・其二
+titlePinyin: gan3 mei2 shu3 zhou1 wen2 xian3 er4 shou3・qi2 er4
 titleSlug: gan-mei-shu-zhou-wen-xian-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

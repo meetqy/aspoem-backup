@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-he-zhe-zi-ming-zhang-xian-ju-za-xing-shi-shou-qi-san
-title: 和折子明丈閑居雜興十首  其三
-titlePinyin: he2 zhe2 zi0 ming2 zhang4 xian2 ju1 za2 xing1 shi2 shou3     qi2 san1
+title: 和折子明丈閑居雜興十首・其三
+titlePinyin: he2 zhe2 zi0 ming2 zhang4 xian2 ju1 za2 xing1 shi2 shou3・qi2 san1
 titleSlug: he-zhe-zi-ming-zhang-xian-ju-za-xing-shi-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

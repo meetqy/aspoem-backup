@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-fu-rong-dao-jian-er-shou-qi-er
-title: 芙蓉道間二首  其二
-titlePinyin: fu2 rong2 dao4 jian4 er4 shou3     qi2 er4
+title: 芙蓉道間二首・其二
+titlePinyin: fu2 rong2 dao4 jian4 er4 shou3・qi2 er4
 titleSlug: fu-rong-dao-jian-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-hu-da-xiao-er-shou-qi-yi
-title: 寄胡達孝二首  其一
-titlePinyin: ji4 hu2 da2 xiao4 er4 shou3     qi2 yi1
+title: 寄胡達孝二首・其一
+titlePinyin: ji4 hu2 da2 xiao4 er4 shou3・qi2 yi1
 titleSlug: ji-hu-da-xiao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

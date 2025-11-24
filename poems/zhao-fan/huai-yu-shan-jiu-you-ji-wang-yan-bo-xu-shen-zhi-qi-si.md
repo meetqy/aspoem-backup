@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huai-yu-shan-jiu-you-ji-wang-yan-bo-xu-shen-zhi-qi-si
-title: 懷玉山舊遊寄王彥博徐審知  其四
-titlePinyin: huai2 yu4 shan1 jiu4 you2 ji4 wang2 yan4 bo2 xu2 shen3 zhi1     qi2 si4
+title: 懷玉山舊遊寄王彥博徐審知・其四
+titlePinyin: huai2 yu4 shan1 jiu4 you2 ji4 wang2 yan4 bo2 xu2 shen3 zhi1・qi2 si4
 titleSlug: huai-yu-shan-jiu-you-ji-wang-yan-bo-xu-shen-zhi-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

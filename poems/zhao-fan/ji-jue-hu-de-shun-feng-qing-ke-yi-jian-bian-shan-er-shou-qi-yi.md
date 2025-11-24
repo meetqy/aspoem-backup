@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-jue-hu-de-shun-feng-qing-ke-yi-jian-bian-shan-er-shou-qi-yi
-title: 既絕湖得順風頃刻已見弁山二首  其一
-titlePinyin: ji4 jue2 hu2 de2 shun4 feng1 qing3 ke4 yi3 jian4 bian4 shan1 er4 shou3     qi2 yi1
+title: 既絕湖得順風頃刻已見弁山二首・其一
+titlePinyin: ji4 jue2 hu2 de2 shun4 feng1 qing3 ke4 yi3 jian4 bian4 shan1 er4 shou3・qi2 yi1
 titleSlug: ji-jue-hu-de-shun-feng-qing-ke-yi-jian-bian-shan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

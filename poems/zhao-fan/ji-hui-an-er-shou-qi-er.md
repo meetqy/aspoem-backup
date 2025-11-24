@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-hui-an-er-shou-qi-er
-title: 寄晦庵二首  其二
-titlePinyin: ji4 hui4 an1 er4 shou3     qi2 er4
+title: 寄晦庵二首・其二
+titlePinyin: ji4 hui4 an1 er4 shou3・qi2 er4
 titleSlug: ji-hui-an-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

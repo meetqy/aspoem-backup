@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-huai-li-shang-sou-qi-er
-title: 懷李商叟  其二
-titlePinyin: huai2 li3 shang1 sou3     qi2 er4
+title: 懷李商叟・其二
+titlePinyin: huai2 li3 shang1 sou3・qi2 er4
 titleSlug: huai-li-shang-sou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

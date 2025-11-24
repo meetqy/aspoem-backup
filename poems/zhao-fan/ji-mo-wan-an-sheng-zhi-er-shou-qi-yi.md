@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-mo-wan-an-sheng-zhi-er-shou-qi-yi
-title: 寄莫萬安升之二首  其一
-titlePinyin: ji4 mo4 wan4 an1 sheng1 zhi1 er4 shou3     qi2 yi1
+title: 寄莫萬安升之二首・其一
+titlePinyin: ji4 mo4 wan4 an1 sheng1 zhi1 er4 shou3・qi2 yi1
 titleSlug: ji-mo-wan-an-sheng-zhi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
