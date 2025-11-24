@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-yi-zhi-xiong-ba-shou-qi-si
-title: 呈宜之兄八首  其四
-titlePinyin: cheng2 yi2 zhi1 xiong1 ba1 shou3     qi2 si4
+title: 呈宜之兄八首・其四
+titlePinyin: cheng2 yi2 zhi1 xiong1 ba1 shou3・qi2 si4
 titleSlug: cheng-yi-zhi-xiong-ba-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

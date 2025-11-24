@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ba-yue-er-shi-si-ri-tong-shen-zhi-deng-ta-shan-yong-shen-zhi-qian-zai-jiu-ri-liu-ti-zhi-yun-zuo-er-shou-shi-yan-bo-gui-ji-chang-shan-qi-er
-title: 八月二十四日同審知登塔山用審知前載九日留題之韻作二首時彥博歸及常山  其二
-titlePinyin: ba1 yue4 er4 shi2 si4 ri4 tong2 shen3 zhi1 deng1 ta3 shan1 yong4 shen3 zhi1 qian2 zai4 jiu3 ri4 liu2 ti2 zhi1 yun4 zuo4 er4 shou3 shi2 yan4 bo2 gui1 ji2 chang2 shan1     qi2 er4
+title: 八月二十四日同審知登塔山用審知前載九日留題之韻作二首時彥博歸及常山・其二
+titlePinyin: ba1 yue4 er4 shi2 si4 ri4 tong2 shen3 zhi1 deng1 ta3 shan1 yong4 shen3 zhi1 qian2 zai4 jiu3 ri4 liu2 ti2 zhi1 yun4 zuo4 er4 shou3 shi2 yan4 bo2 gui1 ji2 chang2 shan1・qi2 er4
 titleSlug: ba-yue-er-shi-si-ri-tong-shen-zhi-deng-ta-shan-yong-shen-zhi-qian-zai-jiu-ri-liu-ti-zhi-yun-zuo-er-shou-shi-yan-bo-gui-ji-chang-shan-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

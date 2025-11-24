@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chang-shan-dao-zhong-qi-yi
-title: 常山道中  其一
-titlePinyin: chang2 shan1 dao4 zhong1     qi2 yi1
+title: 常山道中・其一
+titlePinyin: chang2 shan1 dao4 zhong1・qi2 yi1
 titleSlug: chang-shan-dao-zhong-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

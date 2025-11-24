@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-yu-qing-kun-zhong-er-shou-qi-er
-title: 呈愚卿昆仲二首  其二
-titlePinyin: cheng2 yu2 qing1 kun1 zhong4 er4 shou3     qi2 er4
+title: 呈愚卿昆仲二首・其二
+titlePinyin: cheng2 yu2 qing1 kun1 zhong4 er4 shou3・qi2 er4
 titleSlug: cheng-yu-qing-kun-zhong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

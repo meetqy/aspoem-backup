@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-ge-fu-zhou-er-shou-qi-er
-title: 呈葛撫州二首  其二
-titlePinyin: cheng2 ge3 fu3 zhou1 er4 shou3     qi2 er4
+title: 呈葛撫州二首・其二
+titlePinyin: cheng2 ge3 fu3 zhou1 er4 shou3・qi2 er4
 titleSlug: cheng-ge-fu-zhou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ba-qiu-yi-wan-ti-er-shou-qi-er
-title: 巴丘驛晚題二首  其二
-titlePinyin: ba1 qiu1 yi4 wan3 ti2 er4 shou3     qi2 er4
+title: 巴丘驛晚題二首・其二
+titlePinyin: ba1 qiu1 yi4 wan3 ti2 er4 shou3・qi2 er4
 titleSlug: ba-qiu-yi-wan-ti-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

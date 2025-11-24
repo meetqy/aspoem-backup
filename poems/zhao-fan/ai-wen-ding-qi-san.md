@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ai-wen-ding-qi-san
-title: 哀文鼎  其三
-titlePinyin: ai1 wen2 ding3     qi2 san1
+title: 哀文鼎・其三
+titlePinyin: ai1 wen2 ding3・qi2 san1
 titleSlug: ai-wen-ding-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-chen-shen-fu-er-shou-qi-er
-title: 呈陳深父二首  其二
-titlePinyin: cheng2 chen2 shen1 fu4 er4 shou3     qi2 er4
+title: 呈陳深父二首・其二
+titlePinyin: cheng2 chen2 shen1 fu4 er4 shou3・qi2 er4
 titleSlug: cheng-chen-shen-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

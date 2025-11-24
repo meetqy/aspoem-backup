@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ceng-qi-ying-jian-guo-ti-zeng-liu-yan-si-shou-qi-yi
-title: 曾耆英見過題贈六言四首  其一
-titlePinyin: ceng2 qi2 ying1 jian4 guo4 ti2 zeng4 liu4 yan2 si4 shou3     qi2 yi1
+title: 曾耆英見過題贈六言四首・其一
+titlePinyin: ceng2 qi2 ying1 jian4 guo4 ti2 zeng4 liu4 yan2 si4 shou3・qi2 yi1
 titleSlug: ceng-qi-ying-jian-guo-ti-zeng-liu-yan-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

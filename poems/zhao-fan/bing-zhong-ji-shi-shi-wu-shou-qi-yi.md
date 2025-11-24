@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bing-zhong-ji-shi-shi-wu-shou-qi-yi
-title: 病中即事十五首  其一○
-titlePinyin: bing4 zhong1 ji2 shi4 shi2 wu3 shou3     qi2 yi1 ○
+title: 病中即事十五首・其一○
+titlePinyin: bing4 zhong1 ji2 shi4 shi2 wu3 shou3・qi2 yi1 ○
 titleSlug: bing-zhong-ji-shi-shi-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-hui-an-er-shou-qi-yi
-title: 呈晦菴二首  其一
-titlePinyin: cheng2 hui4 an1 er4 shou3     qi2 yi1
+title: 呈晦菴二首・其一
+titlePinyin: cheng2 hui4 an1 er4 shou3・qi2 yi1
 titleSlug: cheng-hui-an-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

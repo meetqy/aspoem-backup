@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chong-yu-tou-su-shi-fo-yuan-ci-ji-cheng-liu-ti-yun-er-shou-qi-er
-title: 衝雨投宿石佛院次季承留題韻二首  其二
-titlePinyin: chong1 yu3 tou2 su4 shi2 fo2 yuan4 ci4 ji4 cheng2 liu2 ti2 yun4 er4 shou3     qi2 er4
+title: 衝雨投宿石佛院次季承留題韻二首・其二
+titlePinyin: chong1 yu3 tou2 su4 shi2 fo2 yuan4 ci4 ji4 cheng2 liu2 ti2 yun4 er4 shou3・qi2 er4
 titleSlug: chong-yu-tou-su-shi-fo-yuan-ci-ji-cheng-liu-ti-yun-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

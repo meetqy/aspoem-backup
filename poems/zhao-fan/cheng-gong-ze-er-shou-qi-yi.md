@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-gong-ze-er-shou-qi-yi
-title: 呈公擇二首  其一
-titlePinyin: cheng2 gong1 ze2 er4 shou3     qi2 yi1
+title: 呈公擇二首・其一
+titlePinyin: cheng2 gong1 ze2 er4 shou3・qi2 yi1
 titleSlug: cheng-gong-ze-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

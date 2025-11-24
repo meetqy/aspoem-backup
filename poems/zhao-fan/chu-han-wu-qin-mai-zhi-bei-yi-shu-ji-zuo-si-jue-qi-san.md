@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-han-wu-qin-mai-zhi-bei-yi-shu-ji-zuo-si-jue-qi-san
-title: 初寒無衾買紙被以紓急作四絕  其三
-titlePinyin: chu1 han2 wu2 qin1 mai3 zhi3 bei4 yi3 shu1 ji2 zuo4 si4 jue2     qi2 san1
+title: 初寒無衾買紙被以紓急作四絕・其三
+titlePinyin: chu1 han2 wu2 qin1 mai3 zhi3 bei4 yi3 shu1 ji2 zuo4 si4 jue2・qi2 san1
 titleSlug: chu-han-wu-qin-mai-zhi-bei-yi-shu-ji-zuo-si-jue-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

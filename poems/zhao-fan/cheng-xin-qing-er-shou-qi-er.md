@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-xin-qing-er-shou-qi-er
-title: 呈辛卿二首  其二
-titlePinyin: cheng2 xin1 qing1 er4 shou3     qi2 er4
+title: 呈辛卿二首・其二
+titlePinyin: cheng2 xin1 qing1 er4 shou3・qi2 er4
 titleSlug: cheng-xin-qing-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

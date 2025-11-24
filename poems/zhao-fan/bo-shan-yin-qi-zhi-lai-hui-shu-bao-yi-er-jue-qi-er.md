@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bo-shan-yin-qi-zhi-lai-hui-shu-bao-yi-er-jue-qi-er
-title: 伯山因其姪來惠書報以二絕  其二
-titlePinyin: bo2 shan1 yin1 qi2 zhi2 lai2 hui4 shu1 bao4 yi3 er4 jue2     qi2 er4
+title: 伯山因其姪來惠書報以二絕・其二
+titlePinyin: bo2 shan1 yin1 qi2 zhi2 lai2 hui4 shu1 bao4 yi3 er4 jue2・qi2 er4
 titleSlug: bo-shan-yin-qi-zhi-lai-hui-shu-bao-yi-er-jue-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

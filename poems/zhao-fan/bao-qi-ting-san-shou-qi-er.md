@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bao-qi-ting-san-shou-qi-er
-title: 寶氣亭三首  其二
-titlePinyin: bao3 qi4 ting2 san1 shou3     qi2 er4
+title: 寶氣亭三首・其二
+titlePinyin: bao3 qi4 ting2 san1 shou3・qi2 er4
 titleSlug: bao-qi-ting-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

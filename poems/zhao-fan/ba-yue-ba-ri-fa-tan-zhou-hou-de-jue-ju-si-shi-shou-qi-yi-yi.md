@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ba-yue-ba-ri-fa-tan-zhou-hou-de-jue-ju-si-shi-shou-qi-yi-yi
-title: 八月八日發潭州後得絕句四十首  其一一
-titlePinyin: ba1 yue4 ba1 ri4 fa1 tan2 zhou1 hou4 de2 jue2 ju4 si4 shi2 shou3     qi2 yi1 yi1
+title: 八月八日發潭州後得絕句四十首・其一一
+titlePinyin: ba1 yue4 ba1 ri4 fa1 tan2 zhou1 hou4 de2 jue2 ju4 si4 shi2 shou3・qi2 yi1 yi1
 titleSlug: ba-yue-ba-ri-fa-tan-zhou-hou-de-jue-ju-si-shi-shou-qi-yi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

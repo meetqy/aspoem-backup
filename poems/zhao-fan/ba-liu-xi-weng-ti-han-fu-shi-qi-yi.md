@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ba-liu-xi-weng-ti-han-fu-shi-qi-yi
-title: 跋劉溪翁題韓府詩  其一
-titlePinyin: ba2 liu2 xi1 weng1 ti2 han2 fu3 shi1     qi2 yi1
+title: 跋劉溪翁題韓府詩・其一
+titlePinyin: ba2 liu2 xi1 weng1 ti2 han2 fu3 shi1・qi2 yi1
 titleSlug: ba-liu-xi-weng-ti-han-fu-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-guo-xia-zhou-er-shou-qi-yi
-title: 呈郭峽州二首  其一
-titlePinyin: cheng2 guo1 xia2 zhou1 er4 shou3     qi2 yi1
+title: 呈郭峽州二首・其一
+titlePinyin: cheng2 guo1 xia2 zhou1 er4 shou3・qi2 yi1
 titleSlug: cheng-guo-xia-zhou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

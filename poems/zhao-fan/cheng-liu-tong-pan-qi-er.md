@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-liu-tong-pan-qi-er
-title: 呈劉通判  其二
-titlePinyin: cheng2 liu2 tong1 pan4     qi2 er4
+title: 呈劉通判・其二
+titlePinyin: cheng2 liu2 tong1 pan4・qi2 er4
 titleSlug: cheng-liu-tong-pan-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

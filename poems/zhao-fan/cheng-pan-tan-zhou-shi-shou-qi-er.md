@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-pan-tan-zhou-shi-shou-qi-er
-title: 呈潘潭州十首  其二
-titlePinyin: cheng2 pan1 tan2 zhou1 shi2 shou3     qi2 er4
+title: 呈潘潭州十首・其二
+titlePinyin: cheng2 pan1 tan2 zhou1 shi2 shou3・qi2 er4
 titleSlug: cheng-pan-tan-zhou-shi-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

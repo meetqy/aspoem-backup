@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-lu-yan-zhou-er-shou-qi-yi
-title: 呈陸嚴州二首  其一
-titlePinyin: cheng2 lu4 yan2 zhou1 er4 shou3     qi2 yi1
+title: 呈陸嚴州二首・其一
+titlePinyin: cheng2 lu4 yan2 zhou1 er4 shou3・qi2 yi1
 titleSlug: cheng-lu-yan-zhou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

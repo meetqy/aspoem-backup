@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-wang-ping-jiang-er-shou-qi-yi
-title: 呈王平江二首  其一
-titlePinyin: cheng2 wang2 ping2 jiang1 er4 shou3     qi2 yi1
+title: 呈王平江二首・其一
+titlePinyin: cheng2 wang2 ping2 jiang1 er4 shou3・qi2 yi1
 titleSlug: cheng-wang-ping-jiang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

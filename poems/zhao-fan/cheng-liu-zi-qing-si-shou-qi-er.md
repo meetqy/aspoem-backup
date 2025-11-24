@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-liu-zi-qing-si-shou-qi-er
-title: 呈劉子卿四首  其二
-titlePinyin: cheng2 liu2 zi3 qing1 si4 shou3     qi2 er4
+title: 呈劉子卿四首・其二
+titlePinyin: cheng2 liu2 zi3 qing1 si4 shou3・qi2 er4
 titleSlug: cheng-liu-zi-qing-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zhou-zhao-li-er-shou-qi-yi
-title: 呈周昭禮二首  其一
-titlePinyin: cheng2 zhou1 zhao1 li3 er4 shou3     qi2 yi1
+title: 呈周昭禮二首・其一
+titlePinyin: cheng2 zhou1 zhao1 li3 er4 shou3・qi2 yi1
 titleSlug: cheng-zhou-zhao-li-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

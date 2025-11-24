@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-jiu-ri-qi-er
-title: 初九日  其二
-titlePinyin: chu1 jiu3 ri4     qi2 er4
+title: 初九日・其二
+titlePinyin: chu1 jiu3 ri4・qi2 er4
 titleSlug: chu-jiu-ri-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

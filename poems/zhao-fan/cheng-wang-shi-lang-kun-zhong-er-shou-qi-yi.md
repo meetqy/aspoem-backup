@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-wang-shi-lang-kun-zhong-er-shou-qi-yi
-title: 呈王侍郎昆仲二首  其一
-titlePinyin: cheng2 wang2 shi4 lang2 kun1 zhong4 er4 shou3     qi2 yi1
+title: 呈王侍郎昆仲二首・其一
+titlePinyin: cheng2 wang2 shi4 lang2 kun1 zhong4 er4 shou3・qi2 yi1
 titleSlug: cheng-wang-shi-lang-kun-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

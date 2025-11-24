@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-qi-zhi-er-shou-qi-er
-title: 呈齊之二首  其二
-titlePinyin: cheng2 qi2 zhi1 er4 shou3     qi2 er4
+title: 呈齊之二首・其二
+titlePinyin: cheng2 qi2 zhi1 er4 shou3・qi2 er4
 titleSlug: cheng-qi-zhi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

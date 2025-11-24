@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-heng-zhou-shi-jun-xian-sheng-er-shou-qi-yi
-title: 呈衡州使君先生二首  其一
-titlePinyin: cheng2 heng2 zhou1 shi3 jun1 xian1 sheng0 er4 shou3     qi2 yi1
+title: 呈衡州使君先生二首・其一
+titlePinyin: cheng2 heng2 zhou1 shi3 jun1 xian1 sheng0 er4 shou3・qi2 yi1
 titleSlug: cheng-heng-zhou-shi-jun-xian-sheng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

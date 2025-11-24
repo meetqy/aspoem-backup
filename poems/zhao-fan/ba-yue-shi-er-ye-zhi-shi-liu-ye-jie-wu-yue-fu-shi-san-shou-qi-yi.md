@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ba-yue-shi-er-ye-zhi-shi-liu-ye-jie-wu-yue-fu-shi-san-shou-qi-yi
-title: 八月十二夜至十六夜皆無月賦詩三首  其一
-titlePinyin: ba1 yue4 shi2 er4 ye4 zhi4 shi2 liu4 ye4 jie1 wu2 yue4 fu4 shi1 san1 shou3     qi2 yi1
+title: 八月十二夜至十六夜皆無月賦詩三首・其一
+titlePinyin: ba1 yue4 shi2 er4 ye4 zhi4 shi2 liu4 ye4 jie1 wu2 yue4 fu4 shi1 san1 shou3・qi2 yi1
 titleSlug: ba-yue-shi-er-ye-zhi-shi-liu-ye-jie-wu-yue-fu-shi-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

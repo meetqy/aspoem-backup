@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zhao-chang-de-si-shou-qi-si
-title: 呈趙常德四首  其四
-titlePinyin: cheng2 zhao4 chang2 de2 si4 shou3     qi2 si4
+title: 呈趙常德四首・其四
+titlePinyin: cheng2 zhao4 chang2 de2 si4 shou3・qi2 si4
 titleSlug: cheng-zhao-chang-de-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

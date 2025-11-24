@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-you-zi-ming-er-shou-qi-er
-title: 呈游子明二首  其二
-titlePinyin: cheng2 you2 zi3 ming2 er4 shou3     qi2 er4
+title: 呈游子明二首・其二
+titlePinyin: cheng2 you2 zi3 ming2 er4 shou3・qi2 er4
 titleSlug: cheng-you-zi-ming-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

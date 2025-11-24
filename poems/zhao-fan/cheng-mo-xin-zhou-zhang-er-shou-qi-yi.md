@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-mo-xin-zhou-zhang-er-shou-qi-yi
-title: 呈莫信州障二首  其一
-titlePinyin: cheng2 mo4 xin4 zhou1 zhang4 er4 shou3     qi2 yi1
+title: 呈莫信州障二首・其一
+titlePinyin: cheng2 mo4 xin4 zhou1 zhang4 er4 shou3・qi2 yi1
 titleSlug: cheng-mo-xin-zhou-zhang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bao-ye-xu-da-ya-ren-yin-yi-ti-zeng-san-shou-qi-yi
-title: 報謁徐大雅仁因以題贈三首  其一
-titlePinyin: bao4 ye4 xu2 da4 ya3 ren2 yin1 yi3 ti2 zeng4 san1 shou3     qi2 yi1
+title: 報謁徐大雅仁因以題贈三首・其一
+titlePinyin: bao4 ye4 xu2 da4 ya3 ren2 yin1 yi3 ti2 zeng4 san1 shou3・qi2 yi1
 titleSlug: bao-ye-xu-da-ya-ren-yin-yi-ti-zeng-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

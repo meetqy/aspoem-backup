@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zhang-tai-ping-san-shou-qi-yi
-title: 呈張太平三首  其一
-titlePinyin: cheng2 zhang1 tai4 ping2 san1 shou3     qi2 yi1
+title: 呈張太平三首・其一
+titlePinyin: cheng2 zhang1 tai4 ping2 san1 shou3・qi2 yi1
 titleSlug: cheng-zhang-tai-ping-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

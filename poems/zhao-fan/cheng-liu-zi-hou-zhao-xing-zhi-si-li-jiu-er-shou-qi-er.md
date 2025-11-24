@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-liu-zi-hou-zhao-xing-zhi-si-li-jiu-er-shou-qi-er
-title: 呈劉子後趙行之司理舅二首  其二
-titlePinyin: cheng2 liu2 zi3 hou4 zhao4 xing2 zhi1 si1 li3 jiu4 er4 shou3     qi2 er4
+title: 呈劉子後趙行之司理舅二首・其二
+titlePinyin: cheng2 liu2 zi3 hou4 zhao4 xing2 zhi1 si1 li3 jiu4 er4 shou3・qi2 er4
 titleSlug: cheng-liu-zi-hou-zhao-xing-zhi-si-li-jiu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-lu-qiu-si-jiu-er-shou-qi-yi
-title: 呈閭丘四舅二首  其一
-titlePinyin: cheng2 lü2 qiu1 si4 jiu4 er4 shou3     qi2 yi1
+title: 呈閭丘四舅二首・其一
+titlePinyin: cheng2 lü2 qiu1 si4 jiu4 er4 shou3・qi2 yi1
 titleSlug: cheng-lu-qiu-si-jiu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

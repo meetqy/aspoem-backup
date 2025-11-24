@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-tang-de-yu-jian-ji-cheng-ke-jiu-san-shou-qi-yi
-title: 呈唐德輿兼寄呈可久三首  其一
-titlePinyin: cheng2 tang2 de2 yu2 jian1 ji4 cheng2 ke3 jiu3 san1 shou3     qi2 yi1
+title: 呈唐德輿兼寄呈可久三首・其一
+titlePinyin: cheng2 tang2 de2 yu2 jian1 ji4 cheng2 ke3 jiu3 san1 shou3・qi2 yi1
 titleSlug: cheng-tang-de-yu-jian-ji-cheng-ke-jiu-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

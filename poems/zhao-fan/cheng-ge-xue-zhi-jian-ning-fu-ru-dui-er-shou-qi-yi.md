@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-ge-xue-zhi-jian-ning-fu-ru-dui-er-shou-qi-yi
-title: 程閣學知建寧府入對二首  其一
-titlePinyin: cheng2 ge2 xue2 zhi1 jian4 ning2 fu3 ru4 dui4 er4 shou3     qi2 yi1
+title: 程閣學知建寧府入對二首・其一
+titlePinyin: cheng2 ge2 xue2 zhi1 jian4 ning2 fu3 ru4 dui4 er4 shou3・qi2 yi1
 titleSlug: cheng-ge-xue-zhi-jian-ning-fu-ru-dui-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

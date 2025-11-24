@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-yang-jin-zhong-jian-miao-san-shou-qi-yi
-title: 呈楊謹仲監廟三首  其一
-titlePinyin: cheng2 yang2 jin3 zhong4 jian1 miao4 san1 shou3     qi2 yi1
+title: 呈楊謹仲監廟三首・其一
+titlePinyin: cheng2 yang2 jin3 zhong4 jian1 miao4 san1 shou3・qi2 yi1
 titleSlug: cheng-yang-jin-zhong-jian-miao-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

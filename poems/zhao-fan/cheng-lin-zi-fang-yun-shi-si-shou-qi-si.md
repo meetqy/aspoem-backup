@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-lin-zi-fang-yun-shi-si-shou-qi-si
-title: 呈林子方運使四首  其四
-titlePinyin: cheng2 lin2 zi0 fang1 yun4 shi3 si4 shou3     qi2 si4
+title: 呈林子方運使四首・其四
+titlePinyin: cheng2 lin2 zi0 fang1 yun4 shi3 si4 shou3・qi2 si4
 titleSlug: cheng-lin-zi-fang-yun-shi-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

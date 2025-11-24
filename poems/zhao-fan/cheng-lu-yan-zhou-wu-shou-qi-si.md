@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-lu-yan-zhou-wu-shou-qi-si
-title: 呈陸嚴州五首  其四
-titlePinyin: cheng2 lu4 yan2 zhou1 wu3 shou3     qi2 si4
+title: 呈陸嚴州五首・其四
+titlePinyin: cheng2 lu4 yan2 zhou1 wu3 shou3・qi2 si4
 titleSlug: cheng-lu-yan-zhou-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

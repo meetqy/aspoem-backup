@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chang-zhou-xian-sheng-yi-tai-shou-ru-dui-wu-shou-qi-san
-title: 常州先生以太守入對五首  其三
-titlePinyin: chang2 zhou1 xian1 sheng0 yi3 tai4 shou3 ru4 dui4 wu3 shou3     qi2 san1
+title: 常州先生以太守入對五首・其三
+titlePinyin: chang2 zhou1 xian1 sheng0 yi3 tai4 shou3 ru4 dui4 wu3 shou3・qi2 san1
 titleSlug: chang-zhou-xian-sheng-yi-tai-shou-ru-dui-wu-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bi-yun-qi-san
-title: 碧雲  其三
-titlePinyin: bi4 yun2     qi2 san1
+title: 碧雲・其三
+titlePinyin: bi4 yun2・qi2 san1
 titleSlug: bi-yun-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

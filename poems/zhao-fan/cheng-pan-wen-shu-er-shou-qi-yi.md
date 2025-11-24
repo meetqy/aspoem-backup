@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-pan-wen-shu-er-shou-qi-yi
-title: 呈潘文叔二首  其一
-titlePinyin: cheng2 pan1 wen2 shu1 er4 shou3     qi2 yi1
+title: 呈潘文叔二首・其一
+titlePinyin: cheng2 pan1 wen2 shu1 er4 shou3・qi2 yi1
 titleSlug: cheng-pan-wen-shu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

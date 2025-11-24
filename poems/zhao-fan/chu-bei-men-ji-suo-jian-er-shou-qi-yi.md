@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-bei-men-ji-suo-jian-er-shou-qi-yi
-title: 出北門記所見二首  其一
-titlePinyin: chu1 bei3 men2 ji4 suo3 jian4 er4 shou3     qi2 yi1
+title: 出北門記所見二首・其一
+titlePinyin: chu1 bei3 men2 ji4 suo3 jian4 er4 shou3・qi2 yi1
 titleSlug: chu-bei-men-ji-suo-jian-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-qiu-yun-shi-san-shou-qi-er
-title: 呈丘運使三首  其二
-titlePinyin: cheng2 qiu1 yun4 shi3 san1 shou3     qi2 er4
+title: 呈丘運使三首・其二
+titlePinyin: cheng2 qiu1 yun4 shi3 san1 shou3・qi2 er4
 titleSlug: cheng-qiu-yun-shi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

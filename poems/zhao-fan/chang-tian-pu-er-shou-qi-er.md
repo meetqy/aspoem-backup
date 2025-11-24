@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chang-tian-pu-er-shou-qi-er
-title: 長田舖二首  其二
-titlePinyin: chang2 tian2 pu4 er4 shou3     qi2 er4
+title: 長田舖二首・其二
+titlePinyin: chang2 tian2 pu4 er4 shou3・qi2 er4
 titleSlug: chang-tian-pu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

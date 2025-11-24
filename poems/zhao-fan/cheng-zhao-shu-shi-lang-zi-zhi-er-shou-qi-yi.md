@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zhao-shu-shi-lang-zi-zhi-er-shou-qi-yi
-title: 呈趙叔侍郎子直二首  其一
-titlePinyin: cheng2 zhao4 shu1 shi4 lang2 zi3 zhi2 er4 shou3     qi2 yi1
+title: 呈趙叔侍郎子直二首・其一
+titlePinyin: cheng2 zhao4 shu1 shi4 lang2 zi3 zhi2 er4 shou3・qi2 yi1
 titleSlug: cheng-zhao-shu-shi-lang-zi-zhi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

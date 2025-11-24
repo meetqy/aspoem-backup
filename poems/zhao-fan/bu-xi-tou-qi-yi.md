@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bu-xi-tou-qi-yi
-title: 步溪頭  其一
-titlePinyin: bu4 xi1 tou2     qi2 yi1
+title: 步溪頭・其一
+titlePinyin: bu4 xi1 tou2・qi2 yi1
 titleSlug: bu-xi-tou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

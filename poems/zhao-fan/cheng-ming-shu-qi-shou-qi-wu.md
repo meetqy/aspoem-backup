@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-ming-shu-qi-shou-qi-wu
-title: 呈明叔七首  其五
-titlePinyin: cheng2 ming2 shu1 qi1 shou3     qi2 wu3
+title: 呈明叔七首・其五
+titlePinyin: cheng2 ming2 shu1 qi1 shou3・qi2 wu3
 titleSlug: cheng-ming-shu-qi-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-li-gan-zhou-si-shou-qi-er
-title: 呈李贛州四首  其二
-titlePinyin: cheng2 li3 gan4 zhou1 si4 shou3     qi2 er4
+title: 呈李贛州四首・其二
+titlePinyin: cheng2 li3 gan4 zhou1 si4 shou3・qi2 er4
 titleSlug: cheng-li-gan-zhou-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

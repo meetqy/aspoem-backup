@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-you-yun-shi-mao-yan-zhi-wu-shou-qi-wu
-title: 呈尤運使袤延之五首  其五
-titlePinyin: cheng2 you2 yun4 shi3 mao4 yan2 zhi1 wu3 shou3     qi2 wu3
+title: 呈尤運使袤延之五首・其五
+titlePinyin: cheng2 you2 yun4 shi3 mao4 yan2 zhi1 wu3 shou3・qi2 wu3
 titleSlug: cheng-you-yun-shi-mao-yan-zhi-wu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chen-cheng-yi-nan-an-zhai-shang-suo-de-er-shi-ji-dao-long-quan-wen-yu-shu-di-zui-yuan-jian-huai-er-shou-wei-ji-ci-yun-qi-si
-title: 陳丞以南安寨上所得二詩及到龍泉聞余戍地最遠見懷二首爲寄次韻  其四
-titlePinyin: chen2 cheng2 yi3 nan2 an1 zhai4 shang4 suo3 de2 er4 shi1 ji2 dao4 long2 quan2 wen2 yu2 shu4 di4 zui4 yuan3 jian4 huai2 er4 shou3 wei2 ji4 ci4 yun4     qi2 si4
+title: 陳丞以南安寨上所得二詩及到龍泉聞余戍地最遠見懷二首爲寄次韻・其四
+titlePinyin: chen2 cheng2 yi3 nan2 an1 zhai4 shang4 suo3 de2 er4 shi1 ji2 dao4 long2 quan2 wen2 yu2 shu4 di4 zui4 yuan3 jian4 huai2 er4 shou3 wei2 ji4 ci4 yun4・qi2 si4
 titleSlug: chen-cheng-yi-nan-an-zhai-shang-suo-de-er-shi-ji-dao-long-quan-wen-yu-shu-di-zui-yuan-jian-huai-er-shou-wei-ji-ci-yun-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

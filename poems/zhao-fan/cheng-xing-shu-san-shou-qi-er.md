@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-xing-shu-san-shou-qi-er
-title: 呈邢叔三首  其二
-titlePinyin: cheng2 xing2 shu1 san1 shou3     qi2 er4
+title: 呈邢叔三首・其二
+titlePinyin: cheng2 xing2 shu1 san1 shou3・qi2 er4
 titleSlug: cheng-xing-shu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

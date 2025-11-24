@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bai-fa-san-shou-qi-yi
-title: 白髮三首  其一
-titlePinyin: bai2 fa4 san1 shou3     qi2 yi1
+title: 白髮三首・其一
+titlePinyin: bai2 fa4 san1 shou3・qi2 yi1
 titleSlug: bai-fa-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

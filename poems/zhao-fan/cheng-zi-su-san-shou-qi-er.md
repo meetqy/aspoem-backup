@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zi-su-san-shou-qi-er
-title: 呈子肅三首  其二
-titlePinyin: cheng2 zi0 su4 san1 shou3     qi2 er4
+title: 呈子肅三首・其二
+titlePinyin: cheng2 zi0 su4 san1 shou3・qi2 er4
 titleSlug: cheng-zi-su-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-zhe-zi-ming-zhang-shi-shou-qi-ba
-title: 呈折子明丈十首  其八
-titlePinyin: cheng2 zhe2 zi0 ming2 zhang4 shi2 shou3     qi2 ba1
+title: 呈折子明丈十首・其八
+titlePinyin: cheng2 zhe2 zi0 ming2 zhang4 shi2 shou3・qi2 ba1
 titleSlug: cheng-zhe-zi-ming-zhang-shi-shou-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

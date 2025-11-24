@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-fu-di-zuo-shu-shi-wu-qian-shan-ju-yu-jiu-ming-tang-yue-qing-zhan-yi-bang-zhi-qi-pang-yi-chuang-zheng-zhi-rui-feng-qu-ceng-da-fu-liu-ti-zhi-ju-bang-yue-xia-you-fu-shi-er-shou-qi-yi
-title: 成父弟作書室於前山舉予舊名堂曰青氈以榜之其旁一窗政直瑞峰取曾大父留題之句榜曰霞牖賦詩二首  其一
-titlePinyin: cheng2 fu4 di4 zuo4 shu1 shi4 wu1 qian2 shan1 ju3 yu3 jiu4 ming2 tang0 yue1 qing1 zhan1 yi3 bang3 zhi1 qi2 pang2 yi4 chuang1 zheng4 zhi2 rui4 feng1 qu3 ceng2 da4 fu4 liu2 ti2 zhi1 ju4 bang3 yue1 xia2 you3 fu4 shi1 er4 shou3     qi2 yi1
+title: 成父弟作書室於前山舉予舊名堂曰青氈以榜之其旁一窗政直瑞峰取曾大父留題之句榜曰霞牖賦詩二首・其一
+titlePinyin: cheng2 fu4 di4 zuo4 shu1 shi4 wu1 qian2 shan1 ju3 yu3 jiu4 ming2 tang0 yue1 qing1 zhan1 yi3 bang3 zhi1 qi2 pang2 yi4 chuang1 zheng4 zhi2 rui4 feng1 qu3 ceng2 da4 fu4 liu2 ti2 zhi1 ju4 bang3 yue1 xia2 you3 fu4 shi1 er4 shou3・qi2 yi1
 titleSlug: cheng-fu-di-zuo-shu-shi-wu-qian-shan-ju-yu-jiu-ming-tang-yue-qing-zhan-yi-bang-zhi-qi-pang-yi-chuang-zheng-zhi-rui-feng-qu-ceng-da-fu-liu-ti-zhi-ju-bang-yue-xia-you-fu-shi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

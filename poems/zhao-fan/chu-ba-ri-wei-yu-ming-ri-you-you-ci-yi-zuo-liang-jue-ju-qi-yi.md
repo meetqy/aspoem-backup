@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-ba-ri-wei-yu-ming-ri-you-you-ci-yi-zuo-liang-jue-ju-qi-yi
-title: 初八日微雨明日猶有賜意作兩絕句  其一
-titlePinyin: chu1 ba1 ri4 wei1 yu3 ming2 ri4 you2 you3 ci4 yi4 zuo4 liang3 jue2 ju4     qi2 yi1
+title: 初八日微雨明日猶有賜意作兩絕句・其一
+titlePinyin: chu1 ba1 ri4 wei1 yu3 ming2 ri4 you2 you3 ci4 yi4 zuo4 liang3 jue2 ju4・qi2 yi1
 titleSlug: chu-ba-ri-wei-yu-ming-ri-you-you-ci-yi-zuo-liang-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

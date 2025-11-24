@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-bing-wen-yi-tian-shi-ru-cun-gui-er-ji-zhi-er-shou-qi-er
-title: 秉文以田事入村歸而寄之二首  其二
-titlePinyin: bing3 wen2 yi3 tian2 shi4 ru4 cun1 gui1 er2 ji4 zhi1 er4 shou3     qi2 er4
+title: 秉文以田事入村歸而寄之二首・其二
+titlePinyin: bing3 wen2 yi3 tian2 shi4 ru4 cun1 gui1 er2 ji4 zhi1 er4 shou3・qi2 er4
 titleSlug: bing-wen-yi-tian-shi-ru-cun-gui-er-ji-zhi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cheng-xia-dao-zhong-er-shou-qi-yi
-title: 城下道中二首  其一
-titlePinyin: cheng2 xia4 dao4 zhong1 er4 shou3     qi2 yi1
+title: 城下道中二首・其一
+titlePinyin: cheng2 xia4 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: cheng-xia-dao-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
