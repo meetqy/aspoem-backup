@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-gong-shu-fu-hai-men-wei-duan-shu-yue-tong-guo-xiang-xi-zhuo-bie-si-shou-qi-si
-title: 送恭叔赴海門尉端叔約同過湘西酌別四首  其四
-titlePinyin: song4 gong1 shu1 fu4 hai3 men2 wei4 duan1 shu1 yue1 tong2 guo4 xiang1 xi1 zhuo2 bie2 si4 shou3     qi2 si4
+title: 送恭叔赴海門尉端叔約同過湘西酌別四首・其四
+titlePinyin: song4 gong1 shu1 fu4 hai3 men2 wei4 duan1 shu1 yue1 tong2 guo4 xiang1 xi1 zhuo2 bie2 si4 shou3・qi2 si4
 titleSlug: song-gong-shu-fu-hai-men-wei-duan-shu-yue-tong-guo-xiang-xi-zhuo-bie-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

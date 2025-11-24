@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-san-yue-liu-ri-qi-yi
-title: 三月六日  其一
-titlePinyin: san1 yue4 liu4 ri4     qi2 yi1
+title: 三月六日・其一
+titlePinyin: san1 yue4 liu4 ri4・qi2 yi1
 titleSlug: san-yue-liu-ri-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liu-gong-qiu-huan-lu-ling-jian-shu-zhang-yuan-heng-wu-shou-qi-er
-title: 送劉公求還廬陵兼屬張元亨五首  其二
-titlePinyin: song4 liu2 gong1 qiu2 huan2 lu2 ling2 jian1 shu3 zhang1 yuan2 heng1 wu3 shou3     qi2 er4
+title: 送劉公求還廬陵兼屬張元亨五首・其二
+titlePinyin: song4 liu2 gong1 qiu2 huan2 lu2 ling2 jian1 shu3 zhang1 yuan2 heng1 wu3 shou3・qi2 er4
 titleSlug: song-liu-gong-qiu-huan-lu-ling-jian-shu-zhang-yuan-heng-wu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

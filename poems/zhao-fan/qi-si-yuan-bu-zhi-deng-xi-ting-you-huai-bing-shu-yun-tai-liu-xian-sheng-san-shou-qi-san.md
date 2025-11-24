@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qi-si-yuan-bu-zhi-deng-xi-ting-you-huai-bing-shu-yun-tai-liu-xian-sheng-san-shou-qi-san
-title: 期斯遠不至登谿亭有懷併屬雲臺劉先生三首  其三
-titlePinyin: qi1 si1 yuan3 bu2 zhi4 deng1 xi1 ting2 you3 huai2 bing4 shu3 yun2 tai2 liu2 xian1 sheng0 san1 shou3     qi2 san1
+title: 期斯遠不至登谿亭有懷併屬雲臺劉先生三首・其三
+titlePinyin: qi1 si1 yuan3 bu2 zhi4 deng1 xi1 ting2 you3 huai2 bing4 shu3 yun2 tai2 liu2 xian1 sheng0 san1 shou3・qi2 san1
 titleSlug: qi-si-yuan-bu-zhi-deng-xi-ting-you-huai-bing-shu-yun-tai-liu-xian-sheng-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shu-huai-er-shou-qi-er
-title: 書懷二首  其二
-titlePinyin: shu1 huai2 er4 shou3     qi2 er4
+title: 書懷二首・其二
+titlePinyin: shu1 huai2 er4 shou3・qi2 er4
 titleSlug: shu-huai-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

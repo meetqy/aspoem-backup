@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-chao-yuan-mo-zi-tan-huan-fu-er-shou-qi-er
-title: 送晁元默自潭還撫二首  其二
-titlePinyin: song4 chao2 yuan2 mo4 zi4 tan2 huan2 fu3 er4 shou3     qi2 er4
+title: 送晁元默自潭還撫二首・其二
+titlePinyin: song4 chao2 yuan2 mo4 zi4 tan2 huan2 fu3 er4 shou3・qi2 er4
 titleSlug: song-chao-yuan-mo-zi-tan-huan-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

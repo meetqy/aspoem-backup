@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-ding-huai-zhong-chao-zuo-fu-xiang-zhou-jiao-shou-er-shou-qi-er
-title: 送丁懷忠朝佐赴象州教授二首  其二
-titlePinyin: song4 ding1 huai2 zhong1 chao2 zuo3 fu4 xiang4 zhou1 jiao4 shou4 er4 shou3     qi2 er4
+title: 送丁懷忠朝佐赴象州教授二首・其二
+titlePinyin: song4 ding1 huai2 zhong1 chao2 zuo3 fu4 xiang4 zhou1 jiao4 shou4 er4 shou3・qi2 er4
 titleSlug: song-ding-huai-zhong-chao-zuo-fu-xiang-zhou-jiao-shou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-si-ye-yue-qi-yi
-title: 十四夜月  其一
-titlePinyin: shi2 si4 ye4 yue4     qi2 yi1
+title: 十四夜月・其一
+titlePinyin: shi2 si4 ye4 yue4・qi2 yi1
 titleSlug: shi-si-ye-yue-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

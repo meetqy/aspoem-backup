@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-yi-er-shou-qi-yi
-title: 示逸二首  其一
-titlePinyin: shi4 yi4 er4 shou3     qi2 yi1
+title: 示逸二首・其一
+titlePinyin: shi4 yi4 er4 shou3・qi2 yi1
 titleSlug: shi-yi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

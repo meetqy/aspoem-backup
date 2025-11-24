@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-yi-ri-qi-er
-title: 十一日  其二
-titlePinyin: shi2 yi1 ri4     qi2 er4
+title: 十一日・其二
+titlePinyin: shi2 yi1 ri4・qi2 er4
 titleSlug: shi-yi-ri-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

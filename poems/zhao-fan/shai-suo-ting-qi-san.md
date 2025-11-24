@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shai-suo-ting-qi-san
-title: 曬簑亭  其三
-titlePinyin: shai4 suo1 ting2     qi2 san1
+title: 曬簑亭・其三
+titlePinyin: shai4 suo1 ting2・qi2 san1
 titleSlug: shai-suo-ting-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

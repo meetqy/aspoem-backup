@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-qu-zhou-chu-zhe-xi-ti-xing-yi-shi-ji-jian-san-shou-qi-er
-title: 施衢州除浙西提刑以詩寄餞三首  其二
-titlePinyin: shi1 qu2 zhou1 chu2 zhe4 xi1 ti2 xing2 yi3 shi1 ji4 jian4 san1 shou3     qi2 er4
+title: 施衢州除浙西提刑以詩寄餞三首・其二
+titlePinyin: shi1 qu2 zhou1 chu2 zhe4 xi1 ti2 xing2 yi3 shi1 ji4 jian4 san1 shou3・qi2 er4
 titleSlug: shi-qu-zhou-chu-zhe-xi-ti-xing-yi-shi-ji-jian-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

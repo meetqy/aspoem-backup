@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qing-wan-li-tian-jian-er-shou-qi-er
-title: 晴晚立田間二首  其二
-titlePinyin: qing2 wan3 li4 tian2 jian4 er4 shou3     qi2 er4
+title: 晴晚立田間二首・其二
+titlePinyin: qing2 wan3 li4 tian2 jian4 er4 shou3・qi2 er4
 titleSlug: qing-wan-li-tian-jian-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

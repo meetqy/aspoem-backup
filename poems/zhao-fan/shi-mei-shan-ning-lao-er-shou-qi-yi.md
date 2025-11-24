@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-mei-shan-ning-lao-er-shou-qi-yi
-title: 示梅山寧老二首  其一
-titlePinyin: shi4 mei2 shan1 ning2 lao3 er4 shou3     qi2 yi1
+title: 示梅山寧老二首・其一
+titlePinyin: shi4 mei2 shan1 ning2 lao3 er4 shou3・qi2 yi1
 titleSlug: shi-mei-shan-ning-lao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shan-zhong-si-jue-ju-qi-san
-title: 山中四絕句  其三
-titlePinyin: shan1 zhong1 si4 jue2 ju4     qi2 san1
+title: 山中四絕句・其三
+titlePinyin: shan1 zhong1 si4 jue2 ju4・qi2 san1
 titleSlug: shan-zhong-si-jue-ju-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

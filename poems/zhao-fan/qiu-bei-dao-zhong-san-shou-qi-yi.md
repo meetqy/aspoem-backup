@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qiu-bei-dao-zhong-san-shou-qi-yi
-title: 秋陂道中三首  其一
-titlePinyin: qiu1 bei1 dao4 zhong1 san1 shou3     qi2 yi1
+title: 秋陂道中三首・其一
+titlePinyin: qiu1 bei1 dao4 zhong1 san1 shou3・qi2 yi1
 titleSlug: qiu-bei-dao-zhong-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

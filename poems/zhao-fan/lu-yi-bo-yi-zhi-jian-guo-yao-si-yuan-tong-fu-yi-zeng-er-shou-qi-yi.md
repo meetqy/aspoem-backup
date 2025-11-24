@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lu-yi-bo-yi-zhi-jian-guo-yao-si-yuan-tong-fu-yi-zeng-er-shou-qi-yi
-title: 盧誼伯宜之見過要斯遠同賦以贈二首  其一
-titlePinyin: lu2 yi4 bo2 yi2 zhi1 jian4 guo4 yao4 si1 yuan3 tong2 fu4 yi3 zeng4 er4 shou3     qi2 yi1
+title: 盧誼伯宜之見過要斯遠同賦以贈二首・其一
+titlePinyin: lu2 yi4 bo2 yi2 zhi1 jian4 guo4 yao4 si1 yuan3 tong2 fu4 yi3 zeng4 er4 shou3・qi2 yi1
 titleSlug: lu-yi-bo-yi-zhi-jian-guo-yao-si-yuan-tong-fu-yi-zeng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

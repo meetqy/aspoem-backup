@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-ceng-qi-ying-chi-hu-duan-dian-shu-ye-zhang-yuan-zhou-si-shou-qi-yi
-title: 送曾耆英持胡端殿書謁張袁州四首  其一
-titlePinyin: song4 ceng2 qi2 ying1 chi2 hu2 duan1 dian4 shu1 ye4 zhang1 yuan2 zhou1 si4 shou3     qi2 yi1
+title: 送曾耆英持胡端殿書謁張袁州四首・其一
+titlePinyin: song4 ceng2 qi2 ying1 chi2 hu2 duan1 dian4 shu1 ye4 zhang1 yuan2 zhou1 si4 shou3・qi2 yi1
 titleSlug: song-ceng-qi-ying-chi-hu-duan-dian-shu-ye-zhang-yuan-zhou-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

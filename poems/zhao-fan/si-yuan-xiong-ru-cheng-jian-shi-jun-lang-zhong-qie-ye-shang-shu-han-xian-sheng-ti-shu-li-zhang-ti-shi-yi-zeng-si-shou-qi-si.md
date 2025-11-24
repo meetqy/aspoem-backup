@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-si-yuan-xiong-ru-cheng-jian-shi-jun-lang-zhong-qie-ye-shang-shu-han-xian-sheng-ti-shu-li-zhang-ti-shi-yi-zeng-si-shou-qi-si
-title: 斯遠兄入城見使君郎中且謁尚書韓先生提屬李丈題詩以贈四首  其四
-titlePinyin: si1 yuan3 xiong1 ru4 cheng2 jian4 shi3 jun1 lang2 zhong1 qie3 ye4 shang4 shu1 han2 xian1 sheng0 ti2 shu3 li3 zhang4 ti2 shi1 yi3 zeng4 si4 shou3     qi2 si4
+title: 斯遠兄入城見使君郎中且謁尚書韓先生提屬李丈題詩以贈四首・其四
+titlePinyin: si1 yuan3 xiong1 ru4 cheng2 jian4 shi3 jun1 lang2 zhong1 qie3 ye4 shang4 shu1 han2 xian1 sheng0 ti2 shu3 li3 zhang4 ti2 shi1 yi3 zeng4 si4 shou3・qi2 si4
 titleSlug: si-yuan-xiong-ru-cheng-jian-shi-jun-lang-zhong-qie-ye-shang-shu-han-xian-sheng-ti-shu-li-zhang-ti-shi-yi-zeng-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

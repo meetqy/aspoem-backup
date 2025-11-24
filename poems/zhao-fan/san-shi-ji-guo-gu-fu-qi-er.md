@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-san-shi-ji-guo-gu-fu-qi-er
-title: 三詩寄郭古夫  其二
-titlePinyin: san1 shi1 ji4 guo1 gu3 fu1     qi2 er4
+title: 三詩寄郭古夫・其二
+titlePinyin: san1 shi1 ji4 guo1 gu3 fu1・qi2 er4
 titleSlug: san-shi-ji-guo-gu-fu-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

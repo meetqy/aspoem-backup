@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-mei-hua-er-shou-qi-yi
-title: 梅花二首  其一
-titlePinyin: mei2 hua1 er4 shou3     qi2 yi1
+title: 梅花二首・其一
+titlePinyin: mei2 hua1 er4 shou3・qi2 yi1
 titleSlug: mei-hua-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

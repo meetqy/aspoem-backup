@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-er-yue-er-shi-jiu-ri-xue-san-shou-qi-san
-title: 十二月二十九日雪三首  其三
-titlePinyin: shi2 er4 yue4 er4 shi2 jiu3 ri4 xue3 san1 shou3     qi2 san1
+title: 十二月二十九日雪三首・其三
+titlePinyin: shi2 er4 yue4 er4 shi2 jiu3 ri4 xue3 san1 shou3・qi2 san1
 titleSlug: shi-er-yue-er-shi-jiu-ri-xue-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

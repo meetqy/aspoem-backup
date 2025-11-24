@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shen-fu-zai-yong-qian-yun-zuo-shi-xie-yu-guo-qi-ju-fu-yong-yun-da-zhi-qi-yi
-title: 莘夫再用前韻作詩謝余過其居復用韻答之  其一
-titlePinyin: shen1 fu1 zai4 yong4 qian2 yun4 zuo4 shi1 xie4 yu2 guo4 qi2 ju1 fu4 yong4 yun4 da2 zhi1     qi2 yi1
+title: 莘夫再用前韻作詩謝余過其居復用韻答之・其一
+titlePinyin: shen1 fu1 zai4 yong4 qian2 yun4 zuo4 shi1 xie4 yu2 guo4 qi2 ju1 fu4 yong4 yun4 da2 zhi1・qi2 yi1
 titleSlug: shen-fu-zai-yong-qian-yun-zuo-shi-xie-yu-guo-qi-ju-fu-yong-yun-da-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

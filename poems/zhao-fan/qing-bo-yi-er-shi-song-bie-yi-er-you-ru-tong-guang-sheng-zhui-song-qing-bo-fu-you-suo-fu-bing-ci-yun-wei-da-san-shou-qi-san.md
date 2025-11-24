@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qing-bo-yi-er-shi-song-bie-yi-er-you-ru-tong-guang-sheng-zhui-song-qing-bo-fu-you-suo-fu-bing-ci-yun-wei-da-san-shou-qi-san
-title: 慶伯以二詩送別已而又辱同廣聲追送慶伯復有所賦併次韻爲答三首  其三
-titlePinyin: qing4 bo2 yi3 er4 shi1 song4 bie2 yi3 er2 you4 ru3 tong2 guang3 sheng1 zhui1 song4 qing4 bo2 fu4 you3 suo3 fu4 bing4 ci4 yun4 wei2 da2 san1 shou3     qi2 san1
+title: 慶伯以二詩送別已而又辱同廣聲追送慶伯復有所賦併次韻爲答三首・其三
+titlePinyin: qing4 bo2 yi3 er4 shi1 song4 bie2 yi3 er2 you4 ru3 tong2 guang3 sheng1 zhui1 song4 qing4 bo2 fu4 you3 suo3 fu4 bing4 ci4 yun4 wei2 da2 san1 shou3・qi2 san1
 titleSlug: qing-bo-yi-er-shi-song-bie-yi-er-you-ru-tong-guang-sheng-zhui-song-qing-bo-fu-you-suo-fu-bing-ci-yun-wei-da-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

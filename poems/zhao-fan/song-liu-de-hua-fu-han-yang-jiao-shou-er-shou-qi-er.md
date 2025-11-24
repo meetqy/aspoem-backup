@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liu-de-hua-fu-han-yang-jiao-shou-er-shou-qi-er
-title: 送劉得華赴漢陽教授二首  其二
-titlePinyin: song4 liu2 de2 hua2 fu4 han4 yang2 jiao4 shou4 er4 shou3     qi2 er4
+title: 送劉得華赴漢陽教授二首・其二
+titlePinyin: song4 liu2 de2 hua2 fu4 han4 yang2 jiao4 shou4 er4 shou3・qi2 er4
 titleSlug: song-liu-de-hua-fu-han-yang-jiao-shou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

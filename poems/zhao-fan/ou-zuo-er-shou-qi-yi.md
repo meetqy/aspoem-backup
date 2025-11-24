@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ou-zuo-er-shou-qi-yi
-title: 偶作二首  其一
-titlePinyin: ou3 zuo4 er4 shou3     qi2 yi1
+title: 偶作二首・其一
+titlePinyin: ou3 zuo4 er4 shou3・qi2 yi1
 titleSlug: ou-zuo-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

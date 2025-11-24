@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-yue-ba-ri-wen-ji-ming-ji-qi-an-shang-ou-you-tao-ji-fan-yue-shu-shi-you-huai-si-yuan-san-shou-qi-san
-title: 十月八日聞鷄鳴即起案上偶有陶集繙閱數詩有懷斯遠三首  其三
-titlePinyin: shi2 yue4 ba1 ri4 wen2 ji1 ming2 ji2 qi3 an4 shang4 ou3 you3 tao2 ji2 fan1 yue4 shu4 shi1 you3 huai2 si1 yuan3 san1 shou3     qi2 san1
+title: 十月八日聞鷄鳴即起案上偶有陶集繙閱數詩有懷斯遠三首・其三
+titlePinyin: shi2 yue4 ba1 ri4 wen2 ji1 ming2 ji2 qi3 an4 shang4 ou3 you3 tao2 ji2 fan1 yue4 shu4 shi1 you3 huai2 si1 yuan3 san1 shou3・qi2 san1
 titleSlug: shi-yue-ba-ri-wen-ji-ming-ji-qi-an-shang-ou-you-tao-ji-fan-yue-shu-shi-you-huai-si-yuan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

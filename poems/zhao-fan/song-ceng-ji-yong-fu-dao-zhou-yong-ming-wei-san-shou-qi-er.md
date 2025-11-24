@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-ceng-ji-yong-fu-dao-zhou-yong-ming-wei-san-shou-qi-er
-title: 送曾季永赴道州永明尉三首  其二
-titlePinyin: song4 ceng2 ji4 yong3 fu4 dao4 zhou1 yong3 ming2 wei4 san1 shou3     qi2 er4
+title: 送曾季永赴道州永明尉三首・其二
+titlePinyin: song4 ceng2 ji4 yong3 fu4 dao4 zhou1 yong3 ming2 wei4 san1 shou3・qi2 er4
 titleSlug: song-ceng-ji-yong-fu-dao-zhou-yong-ming-wei-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shu-an-shang-san-zhong-mei-san-shou-qi-er
-title: 書案上三種梅三首  其二
-titlePinyin: shu1 an4 shang4 san1 zhong3 mei2 san1 shou3     qi2 er4
+title: 書案上三種梅三首・其二
+titlePinyin: shu1 an4 shang4 san1 zhong3 mei2 san1 shou3・qi2 er4
 titleSlug: shu-an-shang-san-zhong-mei-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

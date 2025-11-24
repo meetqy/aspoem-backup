@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-chu-zhou-si-yuan-er-shou-qi-er
-title: 送處州斯遠二首  其二
-titlePinyin: song4 chu3 zhou1 si1 yuan3 er4 shou3     qi2 er4
+title: 送處州斯遠二首・其二
+titlePinyin: song4 chu3 zhou1 si1 yuan3 er4 shou3・qi2 er4
 titleSlug: song-chu-zhou-si-yuan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-si-ri-er-shou-qi-yi
-title: 十四日二首  其一
-titlePinyin: shi2 si4 ri4 er4 shou3     qi2 yi1
+title: 十四日二首・其一
+titlePinyin: shi2 si4 ri4 er4 shou3・qi2 yi1
 titleSlug: shi-si-ri-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

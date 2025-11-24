@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-mu-xi-si-shou-qi-yi
-title: 木犀四首  其一
-titlePinyin: mu4 xi1 si4 shou3     qi2 yi1
+title: 木犀四首・其一
+titlePinyin: mu4 xi1 si4 shou3・qi2 yi1
 titleSlug: mu-xi-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

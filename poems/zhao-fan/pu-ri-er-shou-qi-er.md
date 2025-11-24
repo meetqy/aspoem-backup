@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-pu-ri-er-shou-qi-er
-title: 曝日二首  其二
-titlePinyin: pu4 ri4 er4 shou3     qi2 er4
+title: 曝日二首・其二
+titlePinyin: pu4 ri4 er4 shou3・qi2 er4
 titleSlug: pu-ri-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

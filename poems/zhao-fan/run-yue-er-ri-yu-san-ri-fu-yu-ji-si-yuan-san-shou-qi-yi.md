@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-run-yue-er-ri-yu-san-ri-fu-yu-ji-si-yuan-san-shou-qi-yi
-title: 閏月二日雨三日復雨寄斯遠三首  其一
-titlePinyin: run4 yue4 er4 ri4 yu3 san1 ri4 fu4 yu3 ji4 si1 yuan3 san1 shou3     qi2 yi1
+title: 閏月二日雨三日復雨寄斯遠三首・其一
+titlePinyin: run4 yue4 er4 ri4 yu3 san1 ri4 fu4 yu3 ji4 si1 yuan3 san1 shou3・qi2 yi1
 titleSlug: run-yue-er-ri-yu-san-ri-fu-yu-ji-si-yuan-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

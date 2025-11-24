@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qiu-huai-shi-shou-qi-ba
-title: 秋懷十首  其八
-titlePinyin: qiu1 huai2 shi2 shou3     qi2 ba1
+title: 秋懷十首・其八
+titlePinyin: qiu1 huai2 shi2 shou3・qi2 ba1
 titleSlug: qiu-huai-shi-shou-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shan-xing-jian-yue-zuo-qi-yi
-title: 山行見月作  其一
-titlePinyin: shan1 xing2 jian4 yue4 zuo4     qi2 yi1
+title: 山行見月作・其一
+titlePinyin: shan1 xing2 jian4 yue4 zuo4・qi2 yi1
 titleSlug: shan-xing-jian-yue-zuo-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

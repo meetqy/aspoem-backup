@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-han-jian-ning-fu-zhao-er-shou-qi-yi
-title: 送韓建寧赴召二首  其一
-titlePinyin: song4 han2 jian4 ning2 fu4 zhao4 er4 shou3     qi2 yi1
+title: 送韓建寧赴召二首・其一
+titlePinyin: song4 han2 jian4 ning2 fu4 zhao4 er4 shou3・qi2 yi1
 titleSlug: song-han-jian-ning-fu-zhao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

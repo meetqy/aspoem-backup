@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-he-shu-xin-san-shou-qi-er
-title: 送何叔信三首  其二
-titlePinyin: song4 he2 shu1 xin4 san1 shou3     qi2 er4
+title: 送何叔信三首・其二
+titlePinyin: song4 he2 shu1 xin4 san1 shou3・qi2 er4
 titleSlug: song-he-shu-xin-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

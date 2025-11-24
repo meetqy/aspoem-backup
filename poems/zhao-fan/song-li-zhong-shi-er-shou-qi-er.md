@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-li-zhong-shi-er-shou-qi-er
-title: 送李仲詩二首  其二
-titlePinyin: song4 li3 zhong4 shi1 er4 shou3     qi2 er4
+title: 送李仲詩二首・其二
+titlePinyin: song4 li3 zhong4 shi1 er4 shou3・qi2 er4
 titleSlug: song-li-zhong-shi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

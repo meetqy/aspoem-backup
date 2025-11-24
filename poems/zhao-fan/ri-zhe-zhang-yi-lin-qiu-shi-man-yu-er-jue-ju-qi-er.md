@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ri-zhe-zhang-yi-lin-qiu-shi-man-yu-er-jue-ju-qi-er
-title: 日者張一麟求詩謾與二絕句  其二
-titlePinyin: ri4 zhe3 zhang1 yi4 lin2 qiu2 shi1 man2 yu3 er4 jue2 ju4     qi2 er4
+title: 日者張一麟求詩謾與二絕句・其二
+titlePinyin: ri4 zhe3 zhang1 yi4 lin2 qiu2 shi1 man2 yu3 er4 jue2 ju4・qi2 er4
 titleSlug: ri-zhe-zhang-yi-lin-qiu-shi-man-yu-er-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

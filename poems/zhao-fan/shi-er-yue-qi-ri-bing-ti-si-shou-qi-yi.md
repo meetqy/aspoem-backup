@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-er-yue-qi-ri-bing-ti-si-shou-qi-yi
-title: 十二月七日病題四首  其一
-titlePinyin: shi2 er4 yue4 qi1 ri4 bing4 ti2 si4 shou3     qi2 yi1
+title: 十二月七日病題四首・其一
+titlePinyin: shi2 er4 yue4 qi1 ri4 bing4 ti2 si4 shou3・qi2 yi1
 titleSlug: shi-er-yue-qi-ri-bing-ti-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

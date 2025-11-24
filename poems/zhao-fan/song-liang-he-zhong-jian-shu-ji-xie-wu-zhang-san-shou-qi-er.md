@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liang-he-zhong-jian-shu-ji-xie-wu-zhang-san-shou-qi-er
-title: 送梁和仲兼屬寄謝吳丈三首  其二
-titlePinyin: song4 liang2 he2 zhong4 jian1 shu3 ji4 xie4 wu2 zhang4 san1 shou3     qi2 er4
+title: 送梁和仲兼屬寄謝吳丈三首・其二
+titlePinyin: song4 liang2 he2 zhong4 jian1 shu3 ji4 xie4 wu2 zhang4 san1 shou3・qi2 er4
 titleSlug: song-liang-he-zhong-jian-shu-ji-xie-wu-zhang-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

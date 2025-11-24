@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-mei-hua-shi-jue-ju-qi-ba
-title: 梅花十絕句  其八
-titlePinyin: mei2 hua1 shi2 jue2 ju4     qi2 ba1
+title: 梅花十絕句・其八
+titlePinyin: mei2 hua1 shi2 jue2 ju4・qi2 ba1
 titleSlug: mei-hua-shi-jue-ju-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

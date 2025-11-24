@@ -77,6 +77,15 @@ if (( ${#FILES_TO_ADD[@]} > 0 )); then
     # 执行 git add 命令。使用数组来处理可能包含空格的文件名
     git add "${actual_files[@]}"
     echo "✅ Successfully added $CURRENT_ADD_COUNT files."
+    
+    # --- 步骤 4: 执行 git commit ---
+    echo ""
+    echo "Executing: git commit -m 'poems'"
+    if git commit -m "poems"; then
+        echo "✅ Successfully committed changes."
+    else
+        echo "❌ Commit failed. Please check the error message above."
+    fi
 else
     echo "❌ No unstaged files found that match the criteria to add."
     echo "Please ensure you have modified existing files or created new files that are not yet staged."

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-li-yuan-zao-ru-zhe-san-shou-qi-yi
-title: 送李元藻入浙三首  其一
-titlePinyin: song4 li3 yuan2 zao3 ru4 zhe4 san1 shou3     qi2 yi1
+title: 送李元藻入浙三首・其一
+titlePinyin: song4 li3 yuan2 zao3 ru4 zhe4 san1 shou3・qi2 yi1
 titleSlug: song-li-yuan-zao-ru-zhe-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

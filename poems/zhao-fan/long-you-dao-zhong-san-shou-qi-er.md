@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-long-you-dao-zhong-san-shou-qi-er
-title: 龍游道中三首  其二
-titlePinyin: long2 you2 dao4 zhong1 san1 shou3     qi2 er4
+title: 龍游道中三首・其二
+titlePinyin: long2 you2 dao4 zhong1 san1 shou3・qi2 er4
 titleSlug: long-you-dao-zhong-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

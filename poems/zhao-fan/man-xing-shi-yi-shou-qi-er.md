@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-man-xing-shi-yi-shou-qi-er
-title: 漫興十一首  其二
-titlePinyin: man4 xing1 shi2 yi1 shou3     qi2 er4
+title: 漫興十一首・其二
+titlePinyin: man4 xing1 shi2 yi1 shou3・qi2 er4
 titleSlug: man-xing-shi-yi-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

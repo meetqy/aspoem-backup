@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shang-yuan-kou-hao-cheng-mo-ling-san-shou-qi-er
-title: 上元口號呈莫令三首  其二
-titlePinyin: shang4 yuan2 kou3 hao4 cheng2 mo4 ling4 san1 shou3     qi2 er4
+title: 上元口號呈莫令三首・其二
+titlePinyin: shang4 yuan2 kou3 hao4 cheng2 mo4 ling4 san1 shou3・qi2 er4
 titleSlug: shang-yuan-kou-hao-cheng-mo-ling-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-run-yue-er-shi-ri-li-yu-shan-ba-yue-dao-yu-gan-yi-zhou-you-er-ri-di-po-yang-cheng-zhui-ji-tu-zhong-suo-zuo-de-shi-shi-you-er-shou-qi-ba
-title: 閏月二十日離玉山八月到餘干易舟又二日抵鄱陽城追集途中所作得詩十有二首  其八
-titlePinyin: run4 yue4 er4 shi2 ri4 li2 yu4 shan1 ba1 yue4 dao4 yu2 gan1 yi4 zhou1 you4 er4 ri4 di3 po2 yang2 cheng2 zhui1 ji2 tu2 zhong1 suo3 zuo4 de2 shi1 shi2 you3 er4 shou3     qi2 ba1
+title: 閏月二十日離玉山八月到餘干易舟又二日抵鄱陽城追集途中所作得詩十有二首・其八
+titlePinyin: run4 yue4 er4 shi2 ri4 li2 yu4 shan1 ba1 yue4 dao4 yu2 gan1 yi4 zhou1 you4 er4 ri4 di3 po2 yang2 cheng2 zhui1 ji2 tu2 zhong1 suo3 zuo4 de2 shi1 shi2 you3 er4 shou3・qi2 ba1
 titleSlug: run-yue-er-shi-ri-li-yu-shan-ba-yue-dao-yu-gan-yi-zhou-you-er-ri-di-po-yang-cheng-zhui-ji-tu-zhong-suo-zuo-de-shi-shi-you-er-shou-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

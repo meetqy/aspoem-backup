@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-jin-zhi-jian-guo-er-shou-qi-yi
-title: 施進之見過二首  其一
-titlePinyin: shi1 jin4 zhi1 jian4 guo4 er4 shou3     qi2 yi1
+title: 施進之見過二首・其一
+titlePinyin: shi1 jin4 zhi1 jian4 guo4 er4 shou3・qi2 yi1
 titleSlug: shi-jin-zhi-jian-guo-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-men-zuo-qi-yi
-title: 悶坐  其一
-titlePinyin: men4 zuo4     qi2 yi1
+title: 悶坐・其一
+titlePinyin: men4 zuo4・qi2 yi1
 titleSlug: men-zuo-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

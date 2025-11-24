@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shi-yue-jian-ju-er-shou-qi-er
-title: 十月見菊二首  其二
-titlePinyin: shi2 yue4 jian4 ju2 er4 shou3     qi2 er4
+title: 十月見菊二首・其二
+titlePinyin: shi2 yue4 jian4 ju2 er4 shou3・qi2 er4
 titleSlug: shi-yue-jian-ju-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

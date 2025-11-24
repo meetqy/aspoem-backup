@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ru-yan-zhou-jie-er-shou-qi-er
-title: 入嚴州界二首  其二
-titlePinyin: ru4 yan2 zhou1 jie4 er4 shou3     qi2 er4
+title: 入嚴州界二首・其二
+titlePinyin: ru4 yan2 zhou1 jie4 er4 shou3・qi2 er4
 titleSlug: ru-yan-zhou-jie-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

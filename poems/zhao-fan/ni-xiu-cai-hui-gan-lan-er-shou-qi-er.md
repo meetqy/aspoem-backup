@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ni-xiu-cai-hui-gan-lan-er-shou-qi-er
-title: 倪秀才惠橄欖二首  其二
-titlePinyin: ni2 xiu4 cai0 hui4 gan3 lan3 er4 shou3     qi2 er4
+title: 倪秀才惠橄欖二首・其二
+titlePinyin: ni2 xiu4 cai0 hui4 gan3 lan3 er4 shou3・qi2 er4
 titleSlug: ni-xiu-cai-hui-gan-lan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

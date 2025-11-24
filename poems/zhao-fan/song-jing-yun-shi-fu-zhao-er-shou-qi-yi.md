@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-jing-yun-shi-fu-zhao-er-shou-qi-yi
-title: 送京運使赴召二首  其一
-titlePinyin: song4 jing1 yun4 shi3 fu4 zhao4 er4 shou3     qi2 yi1
+title: 送京運使赴召二首・其一
+titlePinyin: song4 jing1 yun4 shi3 fu4 zhao4 er4 shou3・qi2 yi1
 titleSlug: song-jing-yun-shi-fu-zhao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

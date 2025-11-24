@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liu-bo-rui-si-shou-qi-san
-title: 送劉伯瑞四首  其三
-titlePinyin: song4 liu2 bo2 rui4 si4 shou3     qi2 san1
+title: 送劉伯瑞四首・其三
+titlePinyin: song4 liu2 bo2 rui4 si4 shou3・qi2 san1
 titleSlug: song-liu-bo-rui-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

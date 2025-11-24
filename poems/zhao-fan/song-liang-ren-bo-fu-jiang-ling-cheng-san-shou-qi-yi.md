@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liang-ren-bo-fu-jiang-ling-cheng-san-shou-qi-yi
-title: 送梁仁伯赴江陵丞三首  其一
-titlePinyin: song4 liang2 ren2 bo2 fu4 jiang1 ling2 cheng2 san1 shou3     qi2 yi1
+title: 送梁仁伯赴江陵丞三首・其一
+titlePinyin: song4 liang2 ren2 bo2 fu4 jiang1 ling2 cheng2 san1 shou3・qi2 yi1
 titleSlug: song-liang-ren-bo-fu-jiang-ling-cheng-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

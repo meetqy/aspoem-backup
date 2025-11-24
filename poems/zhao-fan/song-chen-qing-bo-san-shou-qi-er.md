@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-chen-qing-bo-san-shou-qi-er
-title: 送陳慶伯三首  其二
-titlePinyin: song4 chen2 qing4 bo2 san1 shou3     qi2 er4
+title: 送陳慶伯三首・其二
+titlePinyin: song4 chen2 qing4 bo2 san1 shou3・qi2 er4
 titleSlug: song-chen-qing-bo-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

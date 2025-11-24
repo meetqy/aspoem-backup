@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-shu-shi-qi-wu
-title: 書事  其五
-titlePinyin: shu1 shi4     qi2 wu3
+title: 書事・其五
+titlePinyin: shu1 shi4・qi2 wu3
 titleSlug: shu-shi-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

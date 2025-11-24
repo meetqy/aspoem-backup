@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lu-zhong-za-xing-wu-shou-qi-yi
-title: 旅中雜興五首  其一
-titlePinyin: lü3 zhong1 za2 xing1 wu3 shou3     qi2 yi1
+title: 旅中雜興五首・其一
+titlePinyin: lü3 zhong1 za2 xing1 wu3 shou3・qi2 yi1
 titleSlug: lu-zhong-za-xing-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

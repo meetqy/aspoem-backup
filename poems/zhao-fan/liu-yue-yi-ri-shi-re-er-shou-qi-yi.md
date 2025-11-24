@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-yue-yi-ri-shi-re-er-shou-qi-yi
-title: 六月一日始熱二首  其一
-titlePinyin: liu4 yue4 yi2 ri4 shi3 re4 er4 shou3     qi2 yi1
+title: 六月一日始熱二首・其一
+titlePinyin: liu4 yue4 yi2 ri4 shi3 re4 er4 shou3・qi2 yi1
 titleSlug: liu-yue-yi-ri-shi-re-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

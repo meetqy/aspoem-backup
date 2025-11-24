@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qu-jiang-dao-zhong-er-shou-qi-er
-title: 曲江道中二首  其二
-titlePinyin: qu3 jiang1 dao4 zhong1 er4 shou3     qi2 er4
+title: 曲江道中二首・其二
+titlePinyin: qu3 jiang1 dao4 zhong1 er4 shou3・qi2 er4
 titleSlug: qu-jiang-dao-zhong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

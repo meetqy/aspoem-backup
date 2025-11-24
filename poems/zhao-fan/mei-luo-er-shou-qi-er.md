@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-mei-luo-er-shou-qi-er
-title: 梅落二首  其二
-titlePinyin: mei2 luo4 er4 shou3     qi2 er4
+title: 梅落二首・其二
+titlePinyin: mei2 luo4 er4 shou3・qi2 er4
 titleSlug: mei-luo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

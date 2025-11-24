@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-quan-zhen-yi-si-yuan-suo-ji-wen-juan-hou-ye-fu-liang-jue-ju-yuan-yun-zuo-shi-ji-si-yuan-fan-tong-zhi-qi-yi
-title: 全真以斯遠所寄文卷後夜賦兩絕句元韻作詩寄斯遠蕃同之  其一
-titlePinyin: quan2 zhen1 yi3 si1 yuan3 suo3 ji4 wen2 juan4 hou4 ye4 fu4 liang3 jue2 ju4 yuan2 yun4 zuo4 shi1 ji4 si1 yuan3 fan1 tong2 zhi1     qi2 yi1
+title: 全真以斯遠所寄文卷後夜賦兩絕句元韻作詩寄斯遠蕃同之・其一
+titlePinyin: quan2 zhen1 yi3 si1 yuan3 suo3 ji4 wen2 juan4 hou4 ye4 fu4 liang3 jue2 ju4 yuan2 yun4 zuo4 shi1 ji4 si1 yuan3 fan1 tong2 zhi1・qi2 yi1
 titleSlug: quan-zhen-yi-si-yuan-suo-ji-wen-juan-hou-ye-fu-liang-jue-ju-yuan-yun-zuo-shi-ji-si-yuan-fan-tong-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

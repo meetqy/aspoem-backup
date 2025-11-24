@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-mei-hua-jue-ju-wu-shou-yao-ming-shu-zhong-wei-tong-zuo-qi-wu
-title: 梅花絕句五首要明叔仲威同作  其五
-titlePinyin: mei2 hua1 jue2 ju4 wu3 shou3 yao4 ming2 shu1 zhong4 wei1 tong2 zuo4     qi2 wu3
+title: 梅花絕句五首要明叔仲威同作・其五
+titlePinyin: mei2 hua1 jue2 ju4 wu3 shou3 yao4 ming2 shu1 zhong4 wei1 tong2 zuo4・qi2 wu3
 titleSlug: mei-hua-jue-ju-wu-shou-yao-ming-shu-zhong-wei-tong-zuo-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

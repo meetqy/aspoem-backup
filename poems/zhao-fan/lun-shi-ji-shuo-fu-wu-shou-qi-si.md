@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lun-shi-ji-shuo-fu-wu-shou-qi-si
-title: 論詩寄碩父五首  其四
-titlePinyin: lun4 shi1 ji4 shuo4 fu4 wu3 shou3     qi2 si4
+title: 論詩寄碩父五首・其四
+titlePinyin: lun4 shi1 ji4 shuo4 fu4 wu3 shou3・qi2 si4
 titleSlug: lun-shi-ji-shuo-fu-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

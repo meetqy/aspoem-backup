@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-qiu-ri-du-yin-er-shou-qi-er
-title: 秋日獨飲二首  其二
-titlePinyin: qiu1 ri4 du2 yin3 er4 shou3     qi2 er4
+title: 秋日獨飲二首・其二
+titlePinyin: qiu1 ri4 du2 yin3 er4 shou3・qi2 er4
 titleSlug: qiu-ri-du-yin-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1
