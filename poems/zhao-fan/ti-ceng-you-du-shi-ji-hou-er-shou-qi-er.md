@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-ceng-you-du-shi-ji-hou-er-shou-qi-er
-title: 題曾幼度詩集後二首  其二
-titlePinyin: ti2 ceng2 you4 du4 shi1 ji2 hou4 er4 shou3     qi2 er4
+title: 題曾幼度詩集後二首・其二
+titlePinyin: ti2 ceng2 you4 du4 shi1 ji2 hou4 er4 shou3・qi2 er4
 titleSlug: ti-ceng-you-du-shi-ji-hou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

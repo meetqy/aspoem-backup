@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tian-jia-ji-shi-ba-shou-qi-ba
-title: 田家即事八首  其八
-titlePinyin: tian2 jia1 ji2 shi4 ba1 shou3     qi2 ba1
+title: 田家即事八首・其八
+titlePinyin: tian2 jia1 ji2 shi4 ba1 shou3・qi2 ba1
 titleSlug: tian-jia-ji-shi-ba-shou-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-qian-shi-xing-xie-ling-er-shou-qi-er
-title: 送前始興謝令二首  其二
-titlePinyin: song4 qian2 shi3 xing1 xie4 ling4 er4 shou3     qi2 er4
+title: 送前始興謝令二首・其二
+titlePinyin: song4 qian2 shi3 xing1 xie4 ling4 er4 shou3・qi2 er4
 titleSlug: song-qian-shi-xing-xie-ling-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wang-fan-bo-yu-xie-shi-jian-guo-er-shou-qi-er
-title: 王璠伯玉携詩見過二首  其二
-titlePinyin: wang2 fan2 bo2 yu4 xie2 shi1 jian4 guo4 er4 shou3     qi2 er4
+title: 王璠伯玉携詩見過二首・其二
+titlePinyin: wang2 fan2 bo2 yu4 xie2 shi1 jian4 guo4 er4 shou3・qi2 er4
 titleSlug: wang-fan-bo-yu-xie-shi-jian-guo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

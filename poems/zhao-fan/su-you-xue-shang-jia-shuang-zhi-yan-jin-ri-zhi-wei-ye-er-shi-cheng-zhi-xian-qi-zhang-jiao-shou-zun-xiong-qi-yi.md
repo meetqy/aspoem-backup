@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-su-you-xue-shang-jia-shuang-zhi-yan-jin-ri-zhi-wei-ye-er-shi-cheng-zhi-xian-qi-zhang-jiao-shou-zun-xiong-qi-yi
-title: 俗有雪上加霜之諺今日之謂也二詩呈知縣契丈教授尊兄  其一
-titlePinyin: su2 you3 xue3 shang4 jia1 shuang1 zhi1 yan4 jin1 ri4 zhi1 wei4 ye3 er4 shi1 cheng2 zhi1 xian4 qi4 zhang4 jiao4 shou4 zun1 xiong1     qi2 yi1
+title: 俗有雪上加霜之諺今日之謂也二詩呈知縣契丈教授尊兄・其一
+titlePinyin: su2 you3 xue3 shang4 jia1 shuang1 zhi1 yan4 jin1 ri4 zhi1 wei4 ye3 er4 shi1 cheng2 zhi1 xian4 qi4 zhang4 jiao4 shou4 zun1 xiong1・qi2 yi1
 titleSlug: su-you-xue-shang-jia-shuang-zhi-yan-jin-ri-zhi-wei-ye-er-shi-cheng-zhi-xian-qi-zhang-jiao-shou-zun-xiong-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

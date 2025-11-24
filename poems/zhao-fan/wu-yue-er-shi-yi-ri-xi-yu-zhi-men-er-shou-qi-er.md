@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wu-yue-er-shi-yi-ri-xi-yu-zhi-men-er-shou-qi-er
-title: 五月二十一日徙寓智門二首  其二
-titlePinyin: wu3 yue4 er4 shi2 yi1 ri4 xi3 yu4 zhi4 men2 er4 shou3     qi2 er4
+title: 五月二十一日徙寓智門二首・其二
+titlePinyin: wu3 yue4 er4 shi2 yi1 ri4 xi3 yu4 zhi4 men2 er4 shou3・qi2 er4
 titleSlug: wu-yue-er-shi-yi-ri-xi-yu-zhi-men-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

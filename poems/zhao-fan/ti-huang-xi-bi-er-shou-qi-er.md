@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-huang-xi-bi-er-shou-qi-er
-title: 題黄溪壁二首  其二
-titlePinyin: ti2 huang2 xi1 bi4 er4 shou3     qi2 er4
+title: 題黄溪壁二首・其二
+titlePinyin: ti2 huang2 xi1 bi4 er4 shou3・qi2 er4
 titleSlug: ti-huang-xi-bi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

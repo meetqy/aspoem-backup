@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xi-xuan-za-ti-san-shou-qi-san
-title: 西軒雜題三首  其三
-titlePinyin: xi1 xuan1 za2 ti2 san1 shou3     qi2 san1
+title: 西軒雜題三首・其三
+titlePinyin: xi1 xuan1 za2 ti2 san1 shou3・qi2 san1
 titleSlug: xi-xuan-za-ti-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

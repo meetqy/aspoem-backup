@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-hu-dan-an-er-shou-qi-er
-title: 挽胡澹菴二首  其二
-titlePinyin: wan3 hu2 dan4 an1 er4 shou3     qi2 er4
+title: 挽胡澹菴二首・其二
+titlePinyin: wan3 hu2 dan4 an1 er4 shou3・qi2 er4
 titleSlug: wan-hu-dan-an-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

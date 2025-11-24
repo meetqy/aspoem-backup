@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wang-jin-hua-shan-jue-ju-si-shou-qi-er
-title: 望金華山絕句四首  其二
-titlePinyin: wang4 jin1 hua2 shan1 jue2 ju4 si4 shou3     qi2 er4
+title: 望金華山絕句四首・其二
+titlePinyin: wang4 jin1 hua2 shan1 jue2 ju4 si4 shou3・qi2 er4
 titleSlug: wang-jin-hua-shan-jue-ju-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

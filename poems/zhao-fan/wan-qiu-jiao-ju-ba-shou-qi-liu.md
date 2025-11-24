@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-qiu-jiao-ju-ba-shou-qi-liu
-title: 晚秋郊居八首  其六
-titlePinyin: wan3 qiu1 jiao1 ju1 ba1 shou3     qi2 liu4
+title: 晚秋郊居八首・其六
+titlePinyin: wan3 qiu1 jiao1 ju1 ba1 shou3・qi2 liu4
 titleSlug: wan-qiu-jiao-ju-ba-shou-qi-liu
 author: 趙蕃
 authorPinyin: zhao4 fan1

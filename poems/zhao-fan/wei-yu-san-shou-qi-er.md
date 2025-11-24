@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wei-yu-san-shou-qi-er
-title: 微雨三首  其二
-titlePinyin: wei1 yu3 san1 shou3     qi2 er4
+title: 微雨三首・其二
+titlePinyin: wei1 yu3 san1 shou3・qi2 er4
 titleSlug: wei-yu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

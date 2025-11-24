@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-qu-zhou-cheng-wai-bao-shi-shui-ge-shi-yuan-fu-cheng-fu-er-shou-qi-er
-title: 題衢州城外包氏水閣示遠父成父二首  其二
-titlePinyin: ti2 qu2 zhou1 cheng2 wai4 bao1 shi4 shui3 ge2 shi4 yuan3 fu4 cheng2 fu4 er4 shou3     qi2 er4
+title: 題衢州城外包氏水閣示遠父成父二首・其二
+titlePinyin: ti2 qu2 zhou1 cheng2 wai4 bao1 shi4 shui3 ge2 shi4 yuan3 fu4 cheng2 fu4 er4 shou3・qi2 er4
 titleSlug: ti-qu-zhou-cheng-wai-bao-shi-shui-ge-shi-yuan-fu-cheng-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

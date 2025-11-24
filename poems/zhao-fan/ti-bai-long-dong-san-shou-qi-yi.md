@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-bai-long-dong-san-shou-qi-yi
-title: 題白龍洞三首  其一
-titlePinyin: ti2 bai2 long2 dong4 san1 shou3     qi2 yi1
+title: 題白龍洞三首・其一
+titlePinyin: ti2 bai2 long2 dong4 san1 shou3・qi2 yi1
 titleSlug: ti-bai-long-dong-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-deng-wu-zi-ting-yong-bi-jian-yun-si-shou-qi-er
-title: 晚登鄔子亭用壁間韻四首  其二
-titlePinyin: wan3 deng1 wu1 zi3 ting2 yong4 bi4 jian4 yun4 si4 shou3     qi2 er4
+title: 晚登鄔子亭用壁間韻四首・其二
+titlePinyin: wan3 deng1 wu1 zi3 ting2 yong4 bi4 jian4 yun4 si4 shou3・qi2 er4
 titleSlug: wan-deng-wu-zi-ting-yong-bi-jian-yun-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

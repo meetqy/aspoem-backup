@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-wang-ru-zhi-jiang-xi-er-shou-qi-yi
-title: 送王汝之江西二首  其一
-titlePinyin: song4 wang2 ru3 zhi1 jiang1 xi1 er4 shou3     qi2 yi1
+title: 送王汝之江西二首・其一
+titlePinyin: song4 wang2 ru3 zhi1 jiang1 xi1 er4 shou3・qi2 yi1
 titleSlug: song-wang-ru-zhi-jiang-xi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

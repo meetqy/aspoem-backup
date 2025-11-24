@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhao-shu-zi-li-bu-zhi-fu-zhou-si-shou-qi-yi
-title: 送趙叔自吏部知福州四首  其一
-titlePinyin: song4 zhao4 shu1 zi4 li4 bu4 zhi1 fu2 zhou1 si4 shou3     qi2 yi1
+title: 送趙叔自吏部知福州四首・其一
+titlePinyin: song4 zhao4 shu1 zi4 li4 bu4 zhi1 fu2 zhou1 si4 shou3・qi2 yi1
 titleSlug: song-zhao-shu-zi-li-bu-zhi-fu-zhou-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

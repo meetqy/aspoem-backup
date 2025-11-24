@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhao-li-huan-jin-ling-si-shou-qi-si
-title: 送昭禮還金陵四首  其四
-titlePinyin: song4 zhao1 li3 huan2 jin1 ling2 si4 shou3     qi2 si4
+title: 送昭禮還金陵四首・其四
+titlePinyin: song4 zhao1 li3 huan2 jin1 ling2 si4 shou3・qi2 si4
 titleSlug: song-zhao-li-huan-jin-ling-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

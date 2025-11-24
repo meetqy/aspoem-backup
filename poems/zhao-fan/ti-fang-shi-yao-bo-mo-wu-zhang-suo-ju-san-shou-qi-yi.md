@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-fang-shi-yao-bo-mo-wu-zhang-suo-ju-san-shou-qi-yi
-title: 題方士繇伯謨五丈所居三首  其一
-titlePinyin: ti2 fang1 shi4 yao2 bo2 mo2 wu3 zhang4 suo3 ju1 san1 shou3     qi2 yi1
+title: 題方士繇伯謨五丈所居三首・其一
+titlePinyin: ti2 fang1 shi4 yao2 bo2 mo2 wu3 zhang4 suo3 ju1 san1 shou3・qi2 yi1
 titleSlug: ti-fang-shi-yao-bo-mo-wu-zhang-suo-ju-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

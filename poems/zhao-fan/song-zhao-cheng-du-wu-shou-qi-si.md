@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhao-cheng-du-wu-shou-qi-si
-title: 送趙成都五首  其四
-titlePinyin: song4 zhao4 cheng2 du1 wu3 shou3     qi2 si4
+title: 送趙成都五首・其四
+titlePinyin: song4 zhao4 cheng2 du1 wu3 shou3・qi2 si4
 titleSlug: song-zhao-cheng-du-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-wu-ti-xing-fu-zhao-san-shou-qi-san
-title: 送吳提刑赴召三首  其三
-titlePinyin: song4 wu2 ti2 xing2 fu4 zhao4 san1 shou3     qi2 san1
+title: 送吳提刑赴召三首・其三
+titlePinyin: song4 wu2 ti2 xing2 fu4 zhao4 san1 shou3・qi2 san1
 titleSlug: song-wu-ti-xing-fu-zhao-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

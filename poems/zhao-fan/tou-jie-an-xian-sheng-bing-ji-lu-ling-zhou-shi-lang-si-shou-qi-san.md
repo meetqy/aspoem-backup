@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tou-jie-an-xian-sheng-bing-ji-lu-ling-zhou-shi-lang-si-shou-qi-san
-title: 投介庵先生并寄廬陵周侍郎四首  其三
-titlePinyin: tou2 jie4 an1 xian1 sheng0 bing4 ji4 lu2 ling2 zhou1 shi4 lang2 si4 shou3     qi2 san1
+title: 投介庵先生并寄廬陵周侍郎四首・其三
+titlePinyin: tou2 jie4 an1 xian1 sheng0 bing4 ji4 lu2 ling2 zhou1 shi4 lang2 si4 shou3・qi2 san1
 titleSlug: tou-jie-an-xian-sheng-bing-ji-lu-ling-zhou-shi-lang-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

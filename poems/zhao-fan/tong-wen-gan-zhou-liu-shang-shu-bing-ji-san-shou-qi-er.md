@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-wen-gan-zhou-liu-shang-shu-bing-ji-san-shou-qi-er
-title: 通問贛州留尚書并寄三首  其二
-titlePinyin: tong1 wen4 gan4 zhou1 liu2 shang4 shu1 bing4 ji4 san1 shou3     qi2 er4
+title: 通問贛州留尚書并寄三首・其二
+titlePinyin: tong1 wen4 gan4 zhou1 liu2 shang4 shu1 bing4 ji4 san1 shou3・qi2 er4
 titleSlug: tong-wen-gan-zhou-liu-shang-shu-bing-ji-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

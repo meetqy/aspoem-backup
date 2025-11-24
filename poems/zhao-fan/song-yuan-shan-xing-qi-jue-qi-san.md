@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-yuan-shan-xing-qi-jue-qi-san
-title: 松原山行七絕  其三
-titlePinyin: song1 yuan2 shan1 xing2 qi1 jue2     qi2 san1
+title: 松原山行七絕・其三
+titlePinyin: song1 yuan2 shan1 xing2 qi1 jue2・qi2 san1
 titleSlug: song-yuan-shan-xing-qi-jue-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

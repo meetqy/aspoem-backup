@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wang-zhu-bo-yi-xiang-tan-jian-han-shi-juan-wei-shi-yong-qi-guang-hui-si-juan-fang-yun-xie-zhi-qi-er
-title: 王主簿以湘潭檢旱詩卷爲示用其廣惠寺蠲放韻謝之  其二
-titlePinyin: wang2 zhu3 bo2 yi3 xiang1 tan2 jian3 han4 shi1 juan4 wei2 shi4 yong4 qi2 guang3 hui4 si4 juan1 fang4 yun4 xie4 zhi1     qi2 er4
+title: 王主簿以湘潭檢旱詩卷爲示用其廣惠寺蠲放韻謝之・其二
+titlePinyin: wang2 zhu3 bo2 yi3 xiang1 tan2 jian3 han4 shi1 juan4 wei2 shi4 yong4 qi2 guang3 hui4 si4 juan1 fang4 yun4 xie4 zhi1・qi2 er4
 titleSlug: wang-zhu-bo-yi-xiang-tan-jian-han-shi-juan-wei-shi-yong-qi-guang-hui-si-juan-fang-yun-xie-zhi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

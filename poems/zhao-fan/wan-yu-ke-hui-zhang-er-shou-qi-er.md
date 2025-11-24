@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-yu-ke-hui-zhang-er-shou-qi-er
-title: 挽俞克晦丈二首  其二
-titlePinyin: wan3 yu2 ke4 hui4 zhang4 er4 shou3     qi2 er4
+title: 挽俞克晦丈二首・其二
+titlePinyin: wan3 yu2 ke4 hui4 zhang4 er4 shou3・qi2 er4
 titleSlug: wan-yu-ke-hui-zhang-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

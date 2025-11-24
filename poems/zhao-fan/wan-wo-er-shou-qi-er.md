@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-wo-er-shou-qi-er
-title: 晚卧二首  其二
-titlePinyin: wan3 wo4 er4 shou3     qi2 er4
+title: 晚卧二首・其二
+titlePinyin: wan3 wo4 er4 shou3・qi2 er4
 titleSlug: wan-wo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

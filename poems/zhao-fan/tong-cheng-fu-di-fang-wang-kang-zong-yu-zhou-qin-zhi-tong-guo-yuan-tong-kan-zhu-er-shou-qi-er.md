@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-cheng-fu-di-fang-wang-kang-zong-yu-zhou-qin-zhi-tong-guo-yuan-tong-kan-zhu-er-shou-qi-er
-title: 同成父弟訪王亢宗遇周欽止同過圓通看竹二首  其二
-titlePinyin: tong2 cheng2 fu4 di4 fang3 wang2 kang4 zong1 yu4 zhou1 qin1 zhi3 tong2 guo4 yuan2 tong1 kan4 zhu2 er4 shou3     qi2 er4
+title: 同成父弟訪王亢宗遇周欽止同過圓通看竹二首・其二
+titlePinyin: tong2 cheng2 fu4 di4 fang3 wang2 kang4 zong1 yu4 zhou1 qin1 zhi3 tong2 guo4 yuan2 tong1 kan4 zhu2 er4 shou3・qi2 er4
 titleSlug: tong-cheng-fu-di-fang-wang-kang-zong-yu-zhou-qin-zhi-tong-guo-yuan-tong-kan-zhu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

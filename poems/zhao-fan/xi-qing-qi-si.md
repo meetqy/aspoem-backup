@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xi-qing-qi-si
-title: 喜晴  其四
-titlePinyin: xi3 qing2     qi2 si4
+title: 喜晴・其四
+titlePinyin: xi3 qing2・qi2 si4
 titleSlug: xi-qing-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

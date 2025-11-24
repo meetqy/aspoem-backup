@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-liu-shu-ji-meng-you-chi-bi-fu-hou-er-shou-qi-er
-title: 題劉叔驥夢游赤壁賦後二首  其二
-titlePinyin: ti2 liu2 shu1 ji4 meng4 you2 chi4 bi4 fu4 hou4 er4 shou3     qi2 er4
+title: 題劉叔驥夢游赤壁賦後二首・其二
+titlePinyin: ti2 liu2 shu1 ji4 meng4 you2 chi4 bi4 fu4 hou4 er4 shou3・qi2 er4
 titleSlug: ti-liu-shu-ji-meng-you-chi-bi-fu-hou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

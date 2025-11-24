@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tou-ceng-yuan-bo-yun-shi-er-shou-qi-er
-title: 投曾原伯運使二首  其二
-titlePinyin: tou2 ceng2 yuan2 bo2 yun4 shi3 er4 shou3     qi2 er4
+title: 投曾原伯運使二首・其二
+titlePinyin: tou2 ceng2 yuan2 bo2 yun4 shi3 er4 shou3・qi2 er4
 titleSlug: tou-ceng-yuan-bo-yun-shi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

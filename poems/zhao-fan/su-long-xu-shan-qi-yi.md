@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-su-long-xu-shan-qi-yi
-title: 宿龍鬚山  其一
-titlePinyin: su4 long2 xu1 shan1     qi2 yi1
+title: 宿龍鬚山・其一
+titlePinyin: su4 long2 xu1 shan1・qi2 yi1
 titleSlug: su-long-xu-shan-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

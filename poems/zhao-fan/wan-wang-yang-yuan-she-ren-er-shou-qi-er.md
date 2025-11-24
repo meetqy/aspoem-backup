@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-wang-yang-yuan-she-ren-er-shou-qi-er
-title: 挽汪養源舍人二首  其二
-titlePinyin: wan3 wang1 yang3 yuan2 she4 ren2 er4 shou3     qi2 er4
+title: 挽汪養源舍人二首・其二
+titlePinyin: wan3 wang1 yang3 yuan2 she4 ren2 er4 shou3・qi2 er4
 titleSlug: wan-wang-yang-yuan-she-ren-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-xie-jing-ying-zhang-er-shou-qi-yi
-title: 挽謝景英丈二首  其一
-titlePinyin: wan3 xie4 jing3 ying1 zhang4 er4 shou3     qi2 yi1
+title: 挽謝景英丈二首・其一
+titlePinyin: wan3 xie4 jing3 ying1 zhang4 er4 shou3・qi2 yi1
 titleSlug: wan-xie-jing-ying-zhang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

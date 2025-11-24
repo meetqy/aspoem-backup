@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-zhao-lu-fen-shan-ying-san-shou-qi-er
-title: 挽趙路分善應三首  其二
-titlePinyin: wan3 zhao4 lu4 fen1 shan4 ying1 san1 shou3     qi2 er4
+title: 挽趙路分善應三首・其二
+titlePinyin: wan3 zhao4 lu4 fen1 shan4 ying1 san1 shou3・qi2 er4
 titleSlug: wan-zhao-lu-fen-shan-ying-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

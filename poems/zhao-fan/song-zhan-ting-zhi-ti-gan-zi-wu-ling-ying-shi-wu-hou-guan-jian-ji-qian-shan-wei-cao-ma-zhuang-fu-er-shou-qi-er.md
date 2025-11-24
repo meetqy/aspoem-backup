@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhan-ting-zhi-ti-gan-zi-wu-ling-ying-shi-wu-hou-guan-jian-ji-qian-shan-wei-cao-ma-zhuang-fu-er-shou-qi-er
-title: 送湛挺之提幹自武陵迎侍於侯官兼寄鉛山尉曹馬莊父二首  其二
-titlePinyin: song4 zhan4 ting3 zhi1 ti2 gan4 zi4 wu3 ling2 ying2 shi4 wu1 hou2 guan1 jian1 ji4 qian1 shan1 wei4 cao2 ma3 zhuang1 fu4 er4 shou3     qi2 er4
+title: 送湛挺之提幹自武陵迎侍於侯官兼寄鉛山尉曹馬莊父二首・其二
+titlePinyin: song4 zhan4 ting3 zhi1 ti2 gan4 zi4 wu3 ling2 ying2 shi4 wu1 hou2 guan1 jian1 ji4 qian1 shan1 wei4 cao2 ma3 zhuang1 fu4 er4 shou3・qi2 er4
 titleSlug: song-zhan-ting-zhi-ti-gan-zi-wu-ling-ying-shi-wu-hou-guan-jian-ji-qian-shan-wei-cao-ma-zhuang-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

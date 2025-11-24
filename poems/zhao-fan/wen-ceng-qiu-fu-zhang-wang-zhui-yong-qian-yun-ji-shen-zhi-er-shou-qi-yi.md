@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wen-ceng-qiu-fu-zhang-wang-zhui-yong-qian-yun-ji-shen-zhi-er-shou-qi-yi
-title: 聞曾裘父丈亡追用前韻寄審知二首  其一
-titlePinyin: wen2 ceng2 qiu2 fu4 zhang4 wang2 zhui1 yong4 qian2 yun4 ji4 shen3 zhi1 er4 shou3     qi2 yi1
+title: 聞曾裘父丈亡追用前韻寄審知二首・其一
+titlePinyin: wen2 ceng2 qiu2 fu4 zhang4 wang2 zhui1 yong4 qian2 yun4 ji4 shen3 zhi1 er4 shou3・qi2 yi1
 titleSlug: wen-ceng-qiu-fu-zhang-wang-zhui-yong-qian-yun-ji-shen-zhi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

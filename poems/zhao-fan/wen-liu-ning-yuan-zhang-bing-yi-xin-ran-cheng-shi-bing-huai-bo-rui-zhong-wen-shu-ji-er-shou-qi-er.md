@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wen-liu-ning-yuan-zhang-bing-yi-xin-ran-cheng-shi-bing-huai-bo-rui-zhong-wen-shu-ji-er-shou-qi-er
-title: 聞劉凝遠丈病已欣然成詩并懷伯瑞仲文叔驥二首  其二
-titlePinyin: wen2 liu2 ning2 yuan3 zhang4 bing4 yi3 xin1 ran2 cheng2 shi1 bing4 huai2 bo2 rui4 zhong4 wen2 shu1 ji4 er4 shou3     qi2 er4
+title: 聞劉凝遠丈病已欣然成詩并懷伯瑞仲文叔驥二首・其二
+titlePinyin: wen2 liu2 ning2 yuan3 zhang4 bing4 yi3 xin1 ran2 cheng2 shi1 bing4 huai2 bo2 rui4 zhong4 wen2 shu1 ji4 er4 shou3・qi2 er4
 titleSlug: wen-liu-ning-yuan-zhang-bing-yi-xin-ran-cheng-shi-bing-huai-bo-rui-zhong-wen-shu-ji-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

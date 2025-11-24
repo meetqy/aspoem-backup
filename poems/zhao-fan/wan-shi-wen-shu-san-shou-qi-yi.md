@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-shi-wen-shu-san-shou-qi-yi
-title: 挽施文叔三首  其一
-titlePinyin: wan3 shi1 wen2 shu1 san1 shou3     qi2 yi1
+title: 挽施文叔三首・其一
+titlePinyin: wan3 shi1 wen2 shu1 san1 shou3・qi2 yi1
 titleSlug: wan-shi-wen-shu-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

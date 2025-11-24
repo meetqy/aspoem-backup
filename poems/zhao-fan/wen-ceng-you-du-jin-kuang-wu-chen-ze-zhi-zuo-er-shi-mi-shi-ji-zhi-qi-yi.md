@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wen-ceng-you-du-jin-kuang-wu-chen-ze-zhi-zuo-er-shi-mi-shi-ji-zhi-qi-yi
-title: 聞曾幼度近况於陳擇之作二詩覓使寄之  其一
-titlePinyin: wen2 ceng2 you4 du4 jin4 kuang4 wu1 chen2 ze2 zhi1 zuo4 er4 shi1 mi4 shi3 ji4 zhi1     qi2 yi1
+title: 聞曾幼度近况於陳擇之作二詩覓使寄之・其一
+titlePinyin: wen2 ceng2 you4 du4 jin4 kuang4 wu1 chen2 ze2 zhi1 zuo4 er4 shi1 mi4 shi3 ji4 zhi1・qi2 yi1
 titleSlug: wen-ceng-you-du-jin-kuang-wu-chen-ze-zhi-zuo-er-shi-mi-shi-ji-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

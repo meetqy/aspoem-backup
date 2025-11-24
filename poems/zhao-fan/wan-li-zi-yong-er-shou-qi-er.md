@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-li-zi-yong-er-shou-qi-er
-title: 挽李子永二首  其二
-titlePinyin: wan3 li3 zi0 yong3 er4 shou3     qi2 er4
+title: 挽李子永二首・其二
+titlePinyin: wan3 li3 zi0 yong3 er4 shou3・qi2 er4
 titleSlug: wan-li-zi-yong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

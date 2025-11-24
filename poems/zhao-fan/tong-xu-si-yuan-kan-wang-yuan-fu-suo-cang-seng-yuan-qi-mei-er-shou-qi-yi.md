@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-xu-si-yuan-kan-wang-yuan-fu-suo-cang-seng-yuan-qi-mei-er-shou-qi-yi
-title: 同徐斯遠看王遠父所藏僧圓契梅二首  其一
-titlePinyin: tong2 xu2 si1 yuan3 kan4 wang2 yuan3 fu4 suo3 cang2 seng1 yuan2 qi4 mei2 er4 shou3     qi2 yi1
+title: 同徐斯遠看王遠父所藏僧圓契梅二首・其一
+titlePinyin: tong2 xu2 si1 yuan3 kan4 wang2 yuan3 fu4 suo3 cang2 seng1 yuan2 qi4 mei2 er4 shou3・qi2 yi1
 titleSlug: tong-xu-si-yuan-kan-wang-yuan-fu-suo-cang-seng-yuan-qi-mei-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

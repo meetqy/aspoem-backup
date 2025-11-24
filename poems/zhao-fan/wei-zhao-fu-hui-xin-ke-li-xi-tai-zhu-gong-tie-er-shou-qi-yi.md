@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wei-zhao-fu-hui-xin-ke-li-xi-tai-zhu-gong-tie-er-shou-qi-yi
-title: 魏昭父惠新刻李西臺諸公帖二首  其一
-titlePinyin: wei4 zhao1 fu4 hui4 xin1 ke4 li3 xi1 tai2 zhu1 gong1 tie1 er4 shou3     qi2 yi1
+title: 魏昭父惠新刻李西臺諸公帖二首・其一
+titlePinyin: wei4 zhao1 fu4 hui4 xin1 ke4 li3 xi1 tai2 zhu1 gong1 tie1 er4 shou3・qi2 yi1
 titleSlug: wei-zhao-fu-hui-xin-ke-li-xi-tai-zhu-gong-tie-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

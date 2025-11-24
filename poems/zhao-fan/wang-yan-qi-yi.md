@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wang-yan-qi-yi
-title: 王巖  其一
-titlePinyin: wang2 yan2     qi2 yi1
+title: 王巖・其一
+titlePinyin: wang2 yan2・qi2 yi1
 titleSlug: wang-yan-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

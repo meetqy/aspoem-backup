@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-guo-yan-zhen-shan-ting-bing-cheng-yun-sheng-ji-yi-jian-shu-zhao-lin-er-shou-qi-er
-title: 晚過彥真山亭並呈允升季儀兼屬照鄰二首  其二
-titlePinyin: wan3 guo4 yan4 zhen1 shan1 ting2 bing4 cheng2 yun3 sheng1 ji4 yi2 jian1 shu3 zhao4 lin2 er4 shou3     qi2 er4
+title: 晚過彥真山亭並呈允升季儀兼屬照鄰二首・其二
+titlePinyin: wan3 guo4 yan4 zhen1 shan1 ting2 bing4 cheng2 yun3 sheng1 ji4 yi2 jian1 shu3 zhao4 lin2 er4 shou3・qi2 er4
 titleSlug: wan-guo-yan-zhen-shan-ting-bing-cheng-yun-sheng-ji-yi-jian-shu-zhao-lin-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

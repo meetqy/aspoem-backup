@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wu-yue-shi-qi-ri-ye-fu-bo-miao-si-shou-qi-si
-title: 五月十七日謁伏波廟四首  其四
-titlePinyin: wu3 yue4 shi2 qi1 ri4 ye4 fu2 bo1 miao4 si4 shou3     qi2 si4
+title: 五月十七日謁伏波廟四首・其四
+titlePinyin: wu3 yue4 shi2 qi1 ri4 ye4 fu2 bo1 miao4 si4 shou3・qi2 si4
 titleSlug: wu-yue-shi-qi-ri-ye-fu-bo-miao-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

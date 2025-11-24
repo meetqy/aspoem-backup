@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-nan-jian-xian-sheng-san-shou-qi-er
-title: 挽南澗先生三首  其二
-titlePinyin: wan3 nan2 jian4 xian1 sheng0 san1 shou3     qi2 er4
+title: 挽南澗先生三首・其二
+titlePinyin: wan3 nan2 jian4 xian1 sheng0 san1 shou3・qi2 er4
 titleSlug: wan-nan-jian-xian-sheng-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

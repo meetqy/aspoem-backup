@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-qing-si-shou-qi-yi
-title: 晚晴四首  其一
-titlePinyin: wan3 qing2 si4 shou3     qi2 yi1
+title: 晚晴四首・其一
+titlePinyin: wan3 qing2 si4 shou3・qi2 yi1
 titleSlug: wan-qing-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

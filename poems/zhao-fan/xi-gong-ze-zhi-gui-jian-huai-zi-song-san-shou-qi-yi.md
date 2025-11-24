@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xi-gong-ze-zhi-gui-jian-huai-zi-song-san-shou-qi-yi
-title: 喜公擇之歸兼懷子崧三首  其一
-titlePinyin: xi3 gong1 ze2 zhi1 gui1 jian1 huai2 zi3 song1 san1 shou3     qi2 yi1
+title: 喜公擇之歸兼懷子崧三首・其一
+titlePinyin: xi3 gong1 ze2 zhi1 gui1 jian1 huai2 zi3 song1 san1 shou3・qi2 yi1
 titleSlug: xi-gong-ze-zhi-gui-jian-huai-zi-song-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

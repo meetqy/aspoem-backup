@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-xin-feng-zhan-cheng-bing-ji-gan-chen-cheng-er-shou-qi-yi
-title: 送信豐詹丞并寄贛陳丞二首  其一
-titlePinyin: song4 xin4 feng1 zhan1 cheng2 bing4 ji4 gan4 chen2 cheng2 er4 shou3     qi2 yi1
+title: 送信豐詹丞并寄贛陳丞二首・其一
+titlePinyin: song4 xin4 feng1 zhan1 cheng2 bing4 ji4 gan4 chen2 cheng2 er4 shou3・qi2 yi1
 titleSlug: song-xin-feng-zhan-cheng-bing-ji-gan-chen-cheng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

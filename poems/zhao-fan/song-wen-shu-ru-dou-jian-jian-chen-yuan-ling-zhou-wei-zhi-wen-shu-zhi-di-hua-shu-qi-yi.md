@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-wen-shu-ru-dou-jian-jian-chen-yuan-ling-zhou-wei-zhi-wen-shu-zhi-di-hua-shu-qi-yi
-title: 送文叔入都兼簡陳元齡周畏知文叔之弟華叔  其一
-titlePinyin: song4 wen2 shu1 ru4 dou1 jian1 jian3 chen2 yuan2 ling2 zhou1 wei4 zhi1 wen2 shu1 zhi1 di4 hua2 shu1     qi2 yi1
+title: 送文叔入都兼簡陳元齡周畏知文叔之弟華叔・其一
+titlePinyin: song4 wen2 shu1 ru4 dou1 jian1 jian3 chen2 yuan2 ling2 zhou1 wei4 zhi1 wen2 shu1 zhi1 di4 hua2 shu1・qi2 yi1
 titleSlug: song-wen-shu-ru-dou-jian-jian-chen-yuan-ling-zhou-wei-zhi-wen-shu-zhi-di-hua-shu-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

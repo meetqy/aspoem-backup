@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wei-shi-qu-zhou-zuo-chao-lan-tang-shi-san-shou-qi-san
-title: 爲施衢州作超覽堂詩三首  其三
-titlePinyin: wei2 shi1 qu2 zhou1 zuo4 chao1 lan3 tang2 shi1 san1 shou3     qi2 san1
+title: 爲施衢州作超覽堂詩三首・其三
+titlePinyin: wei2 shi1 qu2 zhou1 zuo4 chao1 lan3 tang2 shi1 san1 shou3・qi2 san1
 titleSlug: wei-shi-qu-zhou-zuo-chao-lan-tang-shi-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

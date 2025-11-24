@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhou-shou-er-shou-qi-yi
-title: 送周守二首  其一
-titlePinyin: song4 zhou1 shou3 er4 shou3     qi2 yi1
+title: 送周守二首・其一
+titlePinyin: song4 zhou1 shou3 er4 shou3・qi2 yi1
 titleSlug: song-zhou-shou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

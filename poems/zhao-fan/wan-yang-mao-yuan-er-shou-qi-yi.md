@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-yang-mao-yuan-er-shou-qi-yi
-title: 挽楊茂原二首  其一
-titlePinyin: wan3 yang2 mao4 yuan2 er4 shou3     qi2 yi1
+title: 挽楊茂原二首・其一
+titlePinyin: wan3 yang2 mao4 yuan2 er4 shou3・qi2 yi1
 titleSlug: wan-yang-mao-yuan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

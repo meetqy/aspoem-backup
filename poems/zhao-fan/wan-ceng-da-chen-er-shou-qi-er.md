@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-ceng-da-chen-er-shou-qi-er
-title: 挽曾達臣二首  其二
-titlePinyin: wan3 ceng2 da2 chen2 er4 shou3     qi2 er4
+title: 挽曾達臣二首・其二
+titlePinyin: wan3 ceng2 da2 chen2 er4 shou3・qi2 er4
 titleSlug: wan-ceng-da-chen-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

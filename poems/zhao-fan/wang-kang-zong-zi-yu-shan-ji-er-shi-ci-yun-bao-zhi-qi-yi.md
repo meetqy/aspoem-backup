@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wang-kang-zong-zi-yu-shan-ji-er-shi-ci-yun-bao-zhi-qi-yi
-title: 王亢宗自玉山寄二詩次韻報之  其一
-titlePinyin: wang2 kang4 zong1 zi4 yu4 shan1 ji4 er4 shi1 ci4 yun4 bao4 zhi1     qi2 yi1
+title: 王亢宗自玉山寄二詩次韻報之・其一
+titlePinyin: wang2 kang4 zong1 zi4 yu4 shan1 ji4 er4 shi1 ci4 yun4 bao4 zhi1・qi2 yi1
 titleSlug: wang-kang-zong-zi-yu-shan-ji-er-shi-ci-yun-bao-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

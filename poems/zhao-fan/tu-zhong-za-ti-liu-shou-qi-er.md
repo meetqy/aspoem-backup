@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tu-zhong-za-ti-liu-shou-qi-er
-title: 途中雜題六首  其二
-titlePinyin: tu2 zhong1 za2 ti2 liu4 shou3     qi2 er4
+title: 途中雜題六首・其二
+titlePinyin: tu2 zhong1 za2 ti2 liu4 shou3・qi2 er4
 titleSlug: tu-zhong-za-ti-liu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

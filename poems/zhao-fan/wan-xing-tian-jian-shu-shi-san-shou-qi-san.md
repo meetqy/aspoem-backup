@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-xing-tian-jian-shu-shi-san-shou-qi-san
-title: 晚行田間書事三首  其三
-titlePinyin: wan3 xing2 tian2 jian4 shu1 shi4 san1 shou3     qi2 san1
+title: 晚行田間書事三首・其三
+titlePinyin: wan3 xing2 tian2 jian4 shu1 shi4 san1 shou3・qi2 san1
 titleSlug: wan-xing-tian-jian-shu-shi-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

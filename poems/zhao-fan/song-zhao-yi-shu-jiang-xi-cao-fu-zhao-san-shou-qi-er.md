@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhao-yi-shu-jiang-xi-cao-fu-zhao-san-shou-qi-er
-title: 送趙一叔江西漕赴召三首  其二
-titlePinyin: song4 zhao4 yi4 shu1 jiang1 xi1 cao2 fu4 zhao4 san1 shou3     qi2 er4
+title: 送趙一叔江西漕赴召三首・其二
+titlePinyin: song4 zhao4 yi4 shu1 jiang1 xi1 cao2 fu4 zhao4 san1 shou3・qi2 er4
 titleSlug: song-zhao-yi-shu-jiang-xi-cao-fu-zhao-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

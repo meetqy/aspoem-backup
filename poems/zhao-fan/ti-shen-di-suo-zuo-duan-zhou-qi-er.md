@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-shen-di-suo-zuo-duan-zhou-qi-er
-title: 題沈弟所作短軸  其二
-titlePinyin: ti2 shen3 di4 suo3 zuo4 duan3 zhou2     qi2 er4
+title: 題沈弟所作短軸・其二
+titlePinyin: ti2 shen3 di4 suo3 zuo4 duan3 zhou2・qi2 er4
 titleSlug: ti-shen-di-suo-zuo-duan-zhou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

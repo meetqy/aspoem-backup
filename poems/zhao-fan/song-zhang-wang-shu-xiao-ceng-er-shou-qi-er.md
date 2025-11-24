@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhang-wang-shu-xiao-ceng-er-shou-qi-er
-title: 送張王叔孝曾二首  其二
-titlePinyin: song4 zhang1 wang2 shu1 xiao4 ceng2 er4 shou3     qi2 er4
+title: 送張王叔孝曾二首・其二
+titlePinyin: song4 zhang1 wang2 shu1 xiao4 ceng2 er4 shou3・qi2 er4
 titleSlug: song-zhang-wang-shu-xiao-ceng-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

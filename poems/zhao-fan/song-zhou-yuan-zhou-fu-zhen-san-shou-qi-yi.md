@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhou-yuan-zhou-fu-zhen-san-shou-qi-yi
-title: 送周袁州赴鎮三首  其一
-titlePinyin: song4 zhou1 yuan2 zhou1 fu4 zhen4 san1 shou3     qi2 yi1
+title: 送周袁州赴鎮三首・其一
+titlePinyin: song4 zhou1 yuan2 zhou1 fu4 zhen4 san1 shou3・qi2 yi1
 titleSlug: song-zhou-yuan-zhou-fu-zhen-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

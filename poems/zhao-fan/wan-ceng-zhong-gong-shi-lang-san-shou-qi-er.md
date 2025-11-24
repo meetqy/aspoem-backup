@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-ceng-zhong-gong-shi-lang-san-shou-qi-er
-title: 挽曾仲躬侍郎三首  其二
-titlePinyin: wan3 ceng2 zhong4 gong1 shi4 lang2 san1 shou3     qi2 er4
+title: 挽曾仲躬侍郎三首・其二
+titlePinyin: wan3 ceng2 zhong4 gong1 shi4 lang2 san1 shou3・qi2 er4
 titleSlug: wan-ceng-zhong-gong-shi-lang-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

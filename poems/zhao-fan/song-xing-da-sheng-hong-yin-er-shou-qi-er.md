@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-xing-da-sheng-hong-yin-er-shou-qi-er
-title: 送邢大聲宏音二首  其二
-titlePinyin: song4 xing2 da4 sheng1 hong2 yin1 er4 shou3     qi2 er4
+title: 送邢大聲宏音二首・其二
+titlePinyin: song4 xing2 da4 sheng1 hong2 yin1 er4 shou3・qi2 er4
 titleSlug: song-xing-da-sheng-hong-yin-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

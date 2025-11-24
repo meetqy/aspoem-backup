@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-liu-zheng-zhi-shao-ling-xiang-er-shou-qi-yi
-title: 題劉正之少陵像二首  其一
-titlePinyin: ti2 liu2 zheng4 zhi1 shao3 ling2 xiang4 er4 shou3     qi2 yi1
+title: 題劉正之少陵像二首・其一
+titlePinyin: ti2 liu2 zheng4 zhi1 shao3 ling2 xiang4 er4 shou3・qi2 yi1
 titleSlug: ti-liu-zheng-zhi-shao-ling-xiang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

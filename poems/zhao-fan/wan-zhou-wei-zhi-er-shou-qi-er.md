@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-zhou-wei-zhi-er-shou-qi-er
-title: 挽周畏知二首  其二
-titlePinyin: wan3 zhou1 wei4 zhi1 er4 shou3     qi2 er4
+title: 挽周畏知二首・其二
+titlePinyin: wan3 zhou1 wei4 zhi1 er4 shou3・qi2 er4
 titleSlug: wan-zhou-wei-zhi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

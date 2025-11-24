@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-sun-ji-zhang-wu-kui-zheng-ji-yi-xu-si-yuan-yi-pu-liu-zhi-men-zai-jiu-jian-guo-zuo-zhong-xue-zuo-san-shi-qi-san
-title: 孫季章無愧鄭季奕徐斯遠以僕留智門載酒見過坐中雪作三詩  其三
-titlePinyin: sun1 ji4 zhang1 wu2 kui4 zheng4 ji4 yi4 xu2 si1 yuan3 yi3 pu2 liu2 zhi4 men2 zai4 jiu3 jian4 guo4 zuo4 zhong1 xue3 zuo4 san1 shi1     qi2 san1
+title: 孫季章無愧鄭季奕徐斯遠以僕留智門載酒見過坐中雪作三詩・其三
+titlePinyin: sun1 ji4 zhang1 wu2 kui4 zheng4 ji4 yi4 xu2 si1 yuan3 yi3 pu2 liu2 zhi4 men2 zai4 jiu3 jian4 guo4 zuo4 zhong1 xue3 zuo4 san1 shi1・qi2 san1
 titleSlug: sun-ji-zhang-wu-kui-zheng-ji-yi-xu-si-yuan-yi-pu-liu-zhi-men-zai-jiu-jian-guo-zuo-zhong-xue-zuo-san-shi-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

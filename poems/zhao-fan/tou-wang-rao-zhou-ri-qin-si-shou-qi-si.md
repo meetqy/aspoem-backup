@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tou-wang-rao-zhou-ri-qin-si-shou-qi-si
-title: 投王饒州日勤四首  其四
-titlePinyin: tou2 wang2 rao2 zhou1 ri4 qin2 si4 shou3     qi2 si4
+title: 投王饒州日勤四首・其四
+titlePinyin: tou2 wang2 rao2 zhou1 ri4 qin2 si4 shou3・qi2 si4
 titleSlug: tou-wang-rao-zhou-ri-qin-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-cheng-fu-yi-yuan-zi-tao-hua-you-gui-feng-fu-hui-tao-hua-fu-shi-er-shou-qi-yi
-title: 同成父逸遠自桃花遊龜峰復回桃花賦詩二首  其一
-titlePinyin: tong2 cheng2 fu4 yi4 yuan3 zi4 tao2 hua1 you2 gui1 feng1 fu4 hui2 tao2 hua1 fu4 shi1 er4 shou3     qi2 yi1
+title: 同成父逸遠自桃花遊龜峰復回桃花賦詩二首・其一
+titlePinyin: tong2 cheng2 fu4 yi4 yuan3 zi4 tao2 hua1 you2 gui1 feng1 fu4 hui2 tao2 hua1 fu4 shi1 er4 shou3・qi2 yi1
 titleSlug: tong-cheng-fu-yi-yuan-zi-tao-hua-you-gui-feng-fu-hui-tao-hua-fu-shi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

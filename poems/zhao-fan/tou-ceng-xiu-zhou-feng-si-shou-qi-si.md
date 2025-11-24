@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tou-ceng-xiu-zhou-feng-si-shou-qi-si
-title: 投曾秀州逢四首  其四
-titlePinyin: tou2 ceng2 xiu4 zhou1 feng2 si4 shou3     qi2 si4
+title: 投曾秀州逢四首・其四
+titlePinyin: tou2 ceng2 xiu4 zhou1 feng2 si4 shou3・qi2 si4
 titleSlug: tou-ceng-xiu-zhou-feng-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

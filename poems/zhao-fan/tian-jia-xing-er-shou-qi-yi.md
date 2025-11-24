@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tian-jia-xing-er-shou-qi-yi
-title: 田家行二首  其一
-titlePinyin: tian2 jia1 xing2 er4 shou3     qi2 yi1
+title: 田家行二首・其一
+titlePinyin: tian2 jia1 xing2 er4 shou3・qi2 yi1
 titleSlug: tian-jia-xing-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

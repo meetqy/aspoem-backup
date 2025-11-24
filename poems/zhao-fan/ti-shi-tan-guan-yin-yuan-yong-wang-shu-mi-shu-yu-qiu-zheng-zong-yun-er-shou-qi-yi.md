@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-shi-tan-guan-yin-yuan-yong-wang-shu-mi-shu-yu-qiu-zheng-zong-yun-er-shou-qi-yi
-title: 題石潭觀音院用王樞密庶愚丘正宗韻二首  其一
-titlePinyin: ti2 shi2 tan2 guan1 yin1 yuan4 yong4 wang2 shu1 mi4 shu4 yu2 qiu1 zheng4 zong1 yun4 er4 shou3     qi2 yi1
+title: 題石潭觀音院用王樞密庶愚丘正宗韻二首・其一
+titlePinyin: ti2 shi2 tan2 guan1 yin1 yuan4 yong4 wang2 shu1 mi4 shu4 yu2 qiu1 zheng4 zong1 yun4 er4 shou3・qi2 yi1
 titleSlug: ti-shi-tan-guan-yin-yuan-yong-wang-shu-mi-shu-yu-qiu-zheng-zong-yun-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

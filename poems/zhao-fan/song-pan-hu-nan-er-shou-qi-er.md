@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-pan-hu-nan-er-shou-qi-er
-title: 送潘湖南二首  其二
-titlePinyin: song4 pan1 hu2 nan2 er4 shou3     qi2 er4
+title: 送潘湖南二首・其二
+titlePinyin: song4 pan1 hu2 nan2 er4 shou3・qi2 er4
 titleSlug: song-pan-hu-nan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

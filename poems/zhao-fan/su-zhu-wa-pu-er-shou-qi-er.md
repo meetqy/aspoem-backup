@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-su-zhu-wa-pu-er-shou-qi-er
-title: 宿竹瓦舖二首  其二
-titlePinyin: su4 zhu2 wa3 pu4 er4 shou3     qi2 er4
+title: 宿竹瓦舖二首・其二
+titlePinyin: su4 zhu2 wa3 pu4 er4 shou3・qi2 er4
 titleSlug: su-zhu-wa-pu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

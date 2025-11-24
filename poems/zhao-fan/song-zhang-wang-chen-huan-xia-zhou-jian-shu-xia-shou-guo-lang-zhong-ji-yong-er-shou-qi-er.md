@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-zhang-wang-chen-huan-xia-zhou-jian-shu-xia-shou-guo-lang-zhong-ji-yong-er-shou-qi-er
-title: 送張王臣還峽州兼屬峽守郭郎中季勇二首  其二
-titlePinyin: song4 zhang1 wang2 chen2 huan2 xia2 zhou1 jian1 shu3 xia2 shou3 guo1 lang2 zhong1 ji4 yong3 er4 shou3     qi2 er4
+title: 送張王臣還峽州兼屬峽守郭郎中季勇二首・其二
+titlePinyin: song4 zhang1 wang2 chen2 huan2 xia2 zhou1 jian1 shu3 xia2 shou3 guo1 lang2 zhong1 ji4 yong3 er4 shou3・qi2 er4
 titleSlug: song-zhang-wang-chen-huan-xia-zhou-jian-shu-xia-shou-guo-lang-zhong-ji-yong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

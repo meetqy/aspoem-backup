@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-zhou-wei-zhi-mu-yu-fu-ren-er-shou-qi-er
-title: 挽周畏知母俞夫人二首  其二
-titlePinyin: wan3 zhou1 wei4 zhi1 mu3 yu2 fu1 ren2 er4 shou3     qi2 er4
+title: 挽周畏知母俞夫人二首・其二
+titlePinyin: wan3 zhou1 wei4 zhi1 mu3 yu2 fu1 ren2 er4 shou3・qi2 er4
 titleSlug: wan-zhou-wei-zhi-mu-yu-fu-ren-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

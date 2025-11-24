@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-song-liu-tong-pan-er-shou-qi-er
-title: 送劉通判二首  其二
-titlePinyin: song4 liu2 tong1 pan4 er4 shou3     qi2 er4
+title: 送劉通判二首・其二
+titlePinyin: song4 liu2 tong1 pan4 er4 shou3・qi2 er4
 titleSlug: song-liu-tong-pan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

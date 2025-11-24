@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-zi-su-guo-yu-ru-yin-ti-yu-ru-bi-er-shou-qi-er
-title: 同子肅過玉汝飲題玉汝壁二首  其二
-titlePinyin: tong2 zi3 su4 guo4 yu4 ru3 yin3 ti2 yu4 ru3 bi4 er4 shou3     qi2 er4
+title: 同子肅過玉汝飲題玉汝壁二首・其二
+titlePinyin: tong2 zi3 su4 guo4 yu4 ru3 yin3 ti2 yu4 ru3 bi4 er4 shou3・qi2 er4
 titleSlug: tong-zi-su-guo-yu-ru-yin-ti-yu-ru-bi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

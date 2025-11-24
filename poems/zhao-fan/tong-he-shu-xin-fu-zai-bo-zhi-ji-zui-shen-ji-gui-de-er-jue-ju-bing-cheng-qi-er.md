@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-tong-he-shu-xin-fu-zai-bo-zhi-ji-zui-shen-ji-gui-de-er-jue-ju-bing-cheng-qi-er
-title: 同何叔信赴在伯之集醉甚既歸得二絕句併呈  其二
-titlePinyin: tong2 he2 shu1 xin4 fu4 zai4 bo2 zhi1 ji2 zui4 shen4 ji4 gui1 de2 er4 jue2 ju4 bing4 cheng2     qi2 er4
+title: 同何叔信赴在伯之集醉甚既歸得二絕句併呈・其二
+titlePinyin: tong2 he2 shu1 xin4 fu4 zai4 bo2 zhi1 ji2 zui4 shen4 ji4 gui1 de2 er4 jue2 ju4 bing4 cheng2・qi2 er4
 titleSlug: tong-he-shu-xin-fu-zai-bo-zhi-ji-zui-shen-ji-gui-de-er-jue-ju-bing-cheng-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

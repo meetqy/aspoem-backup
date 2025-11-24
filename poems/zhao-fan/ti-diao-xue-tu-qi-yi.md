@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ti-diao-xue-tu-qi-yi
-title: 題釣雪圖  其一
-titlePinyin: ti2 diao4 xue3 tu2     qi2 yi1
+title: 題釣雪圖・其一
+titlePinyin: ti2 diao4 xue3 tu2・qi2 yi1
 titleSlug: ti-diao-xue-tu-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

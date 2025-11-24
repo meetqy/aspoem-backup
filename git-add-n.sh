@@ -83,8 +83,19 @@ if (( ${#FILES_TO_ADD[@]} > 0 )); then
     echo "Executing: git commit -m 'poems'"
     if git commit -m "poems"; then
         echo "✅ Successfully committed changes."
+        
+        # --- 步骤 5: 执行 git push ---
+        echo ""
+        echo "Executing: git push"
+        if git push; then
+            echo "✅ Successfully pushed to remote repository."
+        else
+            echo "❌ Push failed. Please check the error message above."
+            echo "You may need to pull changes first or check your network connection."
+        fi
     else
         echo "❌ Commit failed. Please check the error message above."
+        echo "Skipping git push."
     fi
 else
     echo "❌ No unstaged files found that match the criteria to add."

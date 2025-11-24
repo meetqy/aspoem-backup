@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ting-wu-yu-guo-yi-fu-qi-ran-ou-yin-bei-jiu-er-yuan-ling-zhang-song-shi-shi-zhi-yin-zou-bi-cheng-liang-jue-bing-cheng-jiao-shou-xiong-qi-er
-title: 亭午欲過意復淒然偶引杯酒而沅陵丈送詩適至因走筆成兩絕併呈教授兄  其二
-titlePinyin: ting2 wu3 yu4 guo4 yi4 fu4 qi1 ran2 ou3 yin3 bei1 jiu3 er2 yuan2 ling2 zhang4 song4 shi1 shi4 zhi4 yin1 zou3 bi3 cheng2 liang3 jue2 bing4 cheng2 jiao4 shou4 xiong1     qi2 er4
+title: 亭午欲過意復淒然偶引杯酒而沅陵丈送詩適至因走筆成兩絕併呈教授兄・其二
+titlePinyin: ting2 wu3 yu4 guo4 yi4 fu4 qi1 ran2 ou3 yin3 bei1 jiu3 er2 yuan2 ling2 zhang4 song4 shi1 shi4 zhi4 yin1 zou3 bi3 cheng2 liang3 jue2 bing4 cheng2 jiao4 shou4 xiong1・qi2 er4
 titleSlug: ting-wu-yu-guo-yi-fu-qi-ran-ou-yin-bei-jiu-er-yuan-ling-zhang-song-shi-shi-zhi-yin-zou-bi-cheng-liang-jue-bing-cheng-jiao-shou-xiong-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

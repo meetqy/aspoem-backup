@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ting-yu-tang-er-shou-qi-yi
-title: 聽雨堂二首  其一
-titlePinyin: ting1 yu3 tang2 er4 shou3     qi2 yi1
+title: 聽雨堂二首・其一
+titlePinyin: ting1 yu3 tang2 er4 shou3・qi2 yi1
 titleSlug: ting-yu-tang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

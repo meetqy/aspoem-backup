@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-wan-an-dao-zhong-er-shou-qi-yi
-title: 萬安道中二首  其一
-titlePinyin: wan4 an1 dao4 zhong1 er4 shou3     qi2 yi1
+title: 萬安道中二首・其一
+titlePinyin: wan4 an1 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: wan-an-dao-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
