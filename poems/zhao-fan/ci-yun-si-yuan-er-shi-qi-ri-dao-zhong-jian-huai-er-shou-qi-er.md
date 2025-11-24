@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-er-shi-qi-ri-dao-zhong-jian-huai-er-shou-qi-er
-title: 次韻斯遠二十七日道中見懷二首  其二
-titlePinyin: ci4 yun4 si1 yuan3 er4 shi2 qi1 ri4 dao4 zhong1 jian4 huai2 er4 shou3     qi2 er4
+title: 次韻斯遠二十七日道中見懷二首・其二
+titlePinyin: ci4 yun4 si1 yuan3 er4 shi2 qi1 ri4 dao4 zhong1 jian4 huai2 er4 shou3・qi2 er4
 titleSlug: ci-yun-si-yuan-er-shi-qi-ri-dao-zhong-jian-huai-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

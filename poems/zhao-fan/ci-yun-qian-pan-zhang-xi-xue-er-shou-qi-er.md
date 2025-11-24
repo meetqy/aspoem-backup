@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-qian-pan-zhang-xi-xue-er-shou-qi-er
-title: 次韵簽判丈喜雪二首  其二
-titlePinyin: ci4 yun4 qian1 pan4 zhang4 xi3 xue3 er4 shou3     qi2 er4
+title: 次韵簽判丈喜雪二首・其二
+titlePinyin: ci4 yun4 qian1 pan4 zhang4 xi3 xue3 er4 shou3・qi2 er4
 titleSlug: ci-yun-qian-pan-zhang-xi-xue-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

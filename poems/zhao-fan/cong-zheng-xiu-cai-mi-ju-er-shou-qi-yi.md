@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-zheng-xiu-cai-mi-ju-er-shou-qi-yi
-title: 從鄭秀才覓菊二首  其一
-titlePinyin: cong2 zheng4 xiu4 cai0 mi4 ju2 er4 shou3     qi2 yi1
+title: 從鄭秀才覓菊二首・其一
+titlePinyin: cong2 zheng4 xiu4 cai0 mi4 ju2 er4 shou3・qi2 yi1
 titleSlug: cong-zheng-xiu-cai-mi-ju-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

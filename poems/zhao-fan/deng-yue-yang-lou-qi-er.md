@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-deng-yue-yang-lou-qi-er
-title: 登岳陽樓  其二
-titlePinyin: deng1 yue4 yang2 lou2     qi2 er4
+title: 登岳陽樓・其二
+titlePinyin: deng1 yue4 yang2 lou2・qi2 er4
 titleSlug: deng-yue-yang-lou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-xing-wu-shou-qi-yi
-title: 獨行五首  其一
-titlePinyin: du2 xing2 wu3 shou3     qi2 yi1
+title: 獨行五首・其一
+titlePinyin: du2 xing2 wu3 shou3・qi2 yi1
 titleSlug: du-xing-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-pan-zhang-qiu-zi-er-shou-qi-yi
-title: 從潘丈求字二首  其一
-titlePinyin: cong2 pan1 zhang4 qiu2 zi4 er4 shou3     qi2 yi1
+title: 從潘丈求字二首・其一
+titlePinyin: cong2 pan1 zhang4 qiu2 zi4 er4 shou3・qi2 yi1
 titleSlug: cong-pan-zhang-qiu-zi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

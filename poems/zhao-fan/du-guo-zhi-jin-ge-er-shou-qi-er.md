@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-guo-zhi-jin-ge-er-shou-qi-er
-title: 獨過知津閣二首  其二
-titlePinyin: du2 guo4 zhi1 jin1 ge2 er4 shou3     qi2 er4
+title: 獨過知津閣二首・其二
+titlePinyin: du2 guo4 zhi1 jin1 ge2 er4 shou3・qi2 er4
 titleSlug: du-guo-zhi-jin-ge-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

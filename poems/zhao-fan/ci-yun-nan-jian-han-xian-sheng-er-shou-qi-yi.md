@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-nan-jian-han-xian-sheng-er-shou-qi-yi
-title: 次韻南澗韓先生二首  其一
-titlePinyin: ci4 yun4 nan2 jian4 han2 xian1 sheng0 er4 shou3     qi2 yi1
+title: 次韻南澗韓先生二首・其一
+titlePinyin: ci4 yun4 nan2 jian4 han2 xian1 sheng0 er4 shou3・qi2 yi1
 titleSlug: ci-yun-nan-jian-han-xian-sheng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

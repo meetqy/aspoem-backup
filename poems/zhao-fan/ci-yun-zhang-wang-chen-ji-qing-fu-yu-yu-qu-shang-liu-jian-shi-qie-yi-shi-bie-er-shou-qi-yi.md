@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-zhang-wang-chen-ji-qing-fu-yu-yu-qu-shang-liu-jian-shi-qie-yi-shi-bie-er-shou-qi-yi
-title: 次韻張王臣既晴復雨欲去尚留見示且以識別二首  其一
-titlePinyin: ci4 yun4 zhang1 wang2 chen2 ji4 qing2 fu4 yu3 yu4 qu4 shang4 liu2 jian4 shi4 qie3 yi3 shi2 bie2 er4 shou3     qi2 yi1
+title: 次韻張王臣既晴復雨欲去尚留見示且以識別二首・其一
+titlePinyin: ci4 yun4 zhang1 wang2 chen2 ji4 qing2 fu4 yu3 yu4 qu4 shang4 liu2 jian4 shi4 qie3 yi3 shi2 bie2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-zhang-wang-chen-ji-qing-fu-yu-yu-qu-shang-liu-jian-shi-qie-yi-shi-bie-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dui-yue-zeng-da-er-shou-qi-yi
-title: 對月贈答二首  其一
-titlePinyin: dui4 yue4 zeng4 da2 er4 shou3     qi2 yi1
+title: 對月贈答二首・其一
+titlePinyin: dui4 yue4 zeng4 da2 er4 shou3・qi2 yi1
 titleSlug: dui-yue-zeng-da-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

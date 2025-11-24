@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chuang-qian-kui-xuan-jie-tu-hua-cheng-shi-er-shou-qi-yi
-title: 窗前葵萱皆吐花成詩二首  其一
-titlePinyin: chuang1 qian2 kui2 xuan1 jie1 tu3 hua1 cheng2 shi1 er4 shou3     qi2 yi1
+title: 窗前葵萱皆吐花成詩二首・其一
+titlePinyin: chuang1 qian2 kui2 xuan1 jie1 tu3 hua1 cheng2 shi1 er4 shou3・qi2 yi1
 titleSlug: chuang-qian-kui-xuan-jie-tu-hua-cheng-shi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

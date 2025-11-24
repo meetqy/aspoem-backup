@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-jian-ke-shu-shi-er-jue-bing-yi-song-xing-qi-yi
-title: 次韻見可書示二絕併以送行  其一
-titlePinyin: ci4 yun4 jian4 ke3 shu1 shi4 er4 jue2 bing4 yi3 song4 xing2     qi2 yi1
+title: 次韻見可書示二絕併以送行・其一
+titlePinyin: ci4 yun4 jian4 ke3 shu1 shi4 er4 jue2 bing4 yi3 song4 xing2・qi2 yi1
 titleSlug: ci-yun-jian-ke-shu-shi-er-jue-bing-yi-song-xing-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

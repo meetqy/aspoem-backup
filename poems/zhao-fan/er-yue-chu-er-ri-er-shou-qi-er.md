@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-yue-chu-er-ri-er-shou-qi-er
-title: 二月初二日二首  其二
-titlePinyin: er4 yue4 chu1 er4 ri4 er4 shou3     qi2 er4
+title: 二月初二日二首・其二
+titlePinyin: er4 yue4 chu1 er4 ri4 er4 shou3・qi2 er4
 titleSlug: er-yue-chu-er-ri-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

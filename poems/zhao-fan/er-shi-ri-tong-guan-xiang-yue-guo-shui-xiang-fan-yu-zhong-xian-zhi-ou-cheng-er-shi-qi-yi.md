@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-shi-ri-tong-guan-xiang-yue-guo-shui-xiang-fan-yu-zhong-xian-zhi-ou-cheng-er-shi-qi-yi
-title: 二十日同官相約過水鄉蕃雨中先至偶成二詩  其一
-titlePinyin: er4 shi2 ri4 tong2 guan1 xiang1 yue1 guo4 shui3 xiang1 fan1 yu3 zhong1 xian1 zhi4 ou3 cheng2 er4 shi1     qi2 yi1
+title: 二十日同官相約過水鄉蕃雨中先至偶成二詩・其一
+titlePinyin: er4 shi2 ri4 tong2 guan1 xiang1 yue1 guo4 shui3 xiang1 fan1 yu3 zhong1 xian1 zhi4 ou3 cheng2 er4 shi1・qi2 yi1
 titleSlug: er-shi-ri-tong-guan-xiang-yue-guo-shui-xiang-fan-yu-zhong-xian-zhi-ou-cheng-er-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

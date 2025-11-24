@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-zi-su-qiu-ri-gan-xing-jian-huai-gong-ze-er-shou-qi-yi
-title: 次韻子肅秋日感興兼懷公擇二首  其一
-titlePinyin: ci4 yun4 zi3 su4 qiu1 ri4 gan3 xing1 jian1 huai2 gong1 ze2 er4 shou3     qi2 yi1
+title: 次韻子肅秋日感興兼懷公擇二首・其一
+titlePinyin: ci4 yun4 zi3 su4 qiu1 ri4 gan3 xing1 jian1 huai2 gong1 ze2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-zi-su-qiu-ri-gan-xing-jian-huai-gong-ze-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

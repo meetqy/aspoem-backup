@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-deng-an-ren-yun-jin-yi-hou-yi-xian-ting-san-shou-qi-yi
-title: 登安仁雲錦驛後挹僊亭三首  其一
-titlePinyin: deng1 an1 ren2 yun2 jin3 yi4 hou4 yi4 xian1 ting2 san1 shou3     qi2 yi1
+title: 登安仁雲錦驛後挹僊亭三首・其一
+titlePinyin: deng1 an1 ren2 yun2 jin3 yi4 hou4 yi4 xian1 ting2 san1 shou3・qi2 yi1
 titleSlug: deng-an-ren-yun-jin-yi-hou-yi-xian-ting-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

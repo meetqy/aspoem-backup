@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-li-zai-jiu-yao-yu-ji-ming-shu-you-he-pu-liu-shou-qi-er
-title: 從禮載酒要余及明叔遊合普六首  其二
-titlePinyin: cong2 li3 zai4 jiu3 yao4 yu2 ji2 ming2 shu1 you2 he2 pu3 liu4 shou3     qi2 er4
+title: 從禮載酒要余及明叔遊合普六首・其二
+titlePinyin: cong2 li3 zai4 jiu3 yao4 yu2 ji2 ming2 shu1 you2 he2 pu3 liu4 shou3・qi2 er4
 titleSlug: cong-li-zai-jiu-yao-yu-ji-ming-shu-you-he-pu-liu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

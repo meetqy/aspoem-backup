@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dong-ri-za-xing-qi-ba
-title: 冬日雜興  其八
-titlePinyin: dong1 ri4 za2 xing1     qi2 ba1
+title: 冬日雜興・其八
+titlePinyin: dong1 ri4 za2 xing1・qi2 ba1
 titleSlug: dong-ri-za-xing-qi-ba
 author: 趙蕃
 authorPinyin: zhao4 fan1

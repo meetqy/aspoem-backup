@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chun-xue-si-shou-qi-yi
-title: 春雪四首  其一
-titlePinyin: chun1 xue3 si4 shou3     qi2 yi1
+title: 春雪四首・其一
+titlePinyin: chun1 xue3 si4 shou3・qi2 yi1
 titleSlug: chun-xue-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-bo-yuan-ji-yi-song-cheng-fu-yin-yi-jian-ji-wu-jue-ju-qi-er
-title: 次韻伯元季奕送成父因以見寄五絕句  其二
-titlePinyin: ci4 yun4 bo2 yuan2 ji4 yi4 song4 cheng2 fu4 yin1 yi3 jian4 ji4 wu3 jue2 ju4     qi2 er4
+title: 次韻伯元季奕送成父因以見寄五絕句・其二
+titlePinyin: ci4 yun4 bo2 yuan2 ji4 yi4 song4 cheng2 fu4 yin1 yi3 jian4 ji4 wu3 jue2 ju4・qi2 er4
 titleSlug: ci-yun-bo-yuan-ji-yi-song-cheng-fu-yin-yi-jian-ji-wu-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

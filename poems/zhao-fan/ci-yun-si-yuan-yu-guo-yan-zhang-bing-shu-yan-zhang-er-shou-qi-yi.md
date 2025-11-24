@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-yu-guo-yan-zhang-bing-shu-yan-zhang-er-shou-qi-yi
-title: 次韻斯遠雨過彥章併屬彥章二首  其一
-titlePinyin: ci4 yun4 si1 yuan3 yu3 guo4 yan4 zhang1 bing4 shu3 yan4 zhang1 er4 shou3     qi2 yi1
+title: 次韻斯遠雨過彥章併屬彥章二首・其一
+titlePinyin: ci4 yun4 si1 yuan3 yu3 guo4 yan4 zhang1 bing4 shu3 yan4 zhang1 er4 shou3・qi2 yi1
 titleSlug: ci-yun-si-yuan-yu-guo-yan-zhang-bing-shu-yan-zhang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

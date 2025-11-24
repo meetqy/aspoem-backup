@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-wang-zhao-lin-yun-er-shou-qi-er
-title: 次王照鄰韻二首  其二
-titlePinyin: ci4 wang2 zhao4 lin2 yun4 er4 shou3     qi2 er4
+title: 次王照鄰韻二首・其二
+titlePinyin: ci4 wang2 zhao4 lin2 yun4 er4 shou3・qi2 er4
 titleSlug: ci-wang-zhao-lin-yun-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

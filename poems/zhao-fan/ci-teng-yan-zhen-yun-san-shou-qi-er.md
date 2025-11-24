@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-teng-yan-zhen-yun-san-shou-qi-er
-title: 次滕彥真韻三首  其二
-titlePinyin: ci4 teng2 yan4 zhen1 yun4 san1 shou3     qi2 er4
+title: 次滕彥真韻三首・其二
+titlePinyin: ci4 teng2 yan4 zhen1 yun4 san1 shou3・qi2 er4
 titleSlug: ci-teng-yan-zhen-yun-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

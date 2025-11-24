@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-li-chong-dao-mi-pan-heng-mo-si-shou-qi-yi
-title: 從李崇道覓潘衡墨四首  其一
-titlePinyin: cong2 li3 chong2 dao4 mi4 pan1 heng2 mo4 si4 shou3     qi2 yi1
+title: 從李崇道覓潘衡墨四首・其一
+titlePinyin: cong2 li3 chong2 dao4 mi4 pan1 heng2 mo4 si4 shou3・qi2 yi1
 titleSlug: cong-li-chong-dao-mi-pan-heng-mo-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

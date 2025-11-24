@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-jian-guo-san-shou-qi-er
-title: 次韻斯遠見過三首  其二
-titlePinyin: ci4 yun4 si1 yuan3 jian4 guo4 san1 shou3     qi2 er4
+title: 次韻斯遠見過三首・其二
+titlePinyin: ci4 yun4 si1 yuan3 jian4 guo4 san1 shou3・qi2 er4
 titleSlug: ci-yun-si-yuan-jian-guo-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

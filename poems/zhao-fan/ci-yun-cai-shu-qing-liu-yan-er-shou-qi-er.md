@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-cai-shu-qing-liu-yan-er-shou-qi-er
-title: 次韻蔡叔清六言二首  其二
-titlePinyin: ci4 yun4 cai4 shu1 qing1 liu4 yan2 er4 shou3     qi2 er4
+title: 次韻蔡叔清六言二首・其二
+titlePinyin: ci4 yun4 cai4 shu1 qing1 liu4 yan2 er4 shou3・qi2 er4
 titleSlug: ci-yun-cai-shu-qing-liu-yan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

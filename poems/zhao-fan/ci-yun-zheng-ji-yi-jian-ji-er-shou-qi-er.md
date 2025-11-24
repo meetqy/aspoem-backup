@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-zheng-ji-yi-jian-ji-er-shou-qi-er
-title: 次韻鄭季奕見寄二首  其二
-titlePinyin: ci4 yun4 zheng4 ji4 yi4 jian4 ji4 er4 shou3     qi2 er4
+title: 次韻鄭季奕見寄二首・其二
+titlePinyin: ci4 yun4 zheng4 ji4 yi4 jian4 ji4 er4 shou3・qi2 er4
 titleSlug: ci-yun-zheng-ji-yi-jian-ji-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

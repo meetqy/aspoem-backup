@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-dong-hu-ji-er-shou-qi-er
-title: 讀東湖集二首  其二
-titlePinyin: du2 dong1 hu2 ji2 er4 shou3     qi2 er4
+title: 讀東湖集二首・其二
+titlePinyin: du2 dong1 hu2 ji2 er4 shou3・qi2 er4
 titleSlug: du-dong-hu-ji-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

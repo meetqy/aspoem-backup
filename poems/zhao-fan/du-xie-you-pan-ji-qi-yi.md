@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-xie-you-pan-ji-qi-yi
-title: 讀謝幼槃集  其一
-titlePinyin: du2 xie4 you4 pan2 ji2     qi2 yi1
+title: 讀謝幼槃集・其一
+titlePinyin: du2 xie4 you4 pan2 ji2・qi2 yi1
 titleSlug: du-xie-you-pan-ji-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

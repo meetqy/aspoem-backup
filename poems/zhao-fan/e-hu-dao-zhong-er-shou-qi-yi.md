@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-e-hu-dao-zhong-er-shou-qi-yi
-title: 鵝湖道中二首  其一
-titlePinyin: e2 hu2 dao4 zhong1 er4 shou3     qi2 yi1
+title: 鵝湖道中二首・其一
+titlePinyin: e2 hu2 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: e-hu-dao-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

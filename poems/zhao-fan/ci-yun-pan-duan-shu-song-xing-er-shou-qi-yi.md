@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-pan-duan-shu-song-xing-er-shou-qi-yi
-title: 次韻潘端叔送行二首  其一
-titlePinyin: ci4 yun4 pan1 duan1 shu1 song4 xing2 er4 shou3     qi2 yi1
+title: 次韻潘端叔送行二首・其一
+titlePinyin: ci4 yun4 pan1 duan1 shu1 song4 xing2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-pan-duan-shu-song-xing-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

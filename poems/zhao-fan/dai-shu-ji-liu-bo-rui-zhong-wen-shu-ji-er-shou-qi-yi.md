@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dai-shu-ji-liu-bo-rui-zhong-wen-shu-ji-er-shou-qi-yi
-title: 代書寄劉伯瑞仲文叔驥二首  其一
-titlePinyin: dai4 shu1 ji4 liu2 bo2 rui4 zhong4 wen2 shu1 ji4 er4 shou3     qi2 yi1
+title: 代書寄劉伯瑞仲文叔驥二首・其一
+titlePinyin: dai4 shu1 ji4 liu2 bo2 rui4 zhong4 wen2 shu1 ji4 er4 shou3・qi2 yi1
 titleSlug: dai-shu-ji-liu-bo-rui-zhong-wen-shu-ji-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dai-shu-ji-zhang-ci-lu-er-shou-qi-er
-title: 代書寄張次律二首  其二
-titlePinyin: dai4 shu1 ji4 zhang1 ci4 lü4 er4 shou3     qi2 er4
+title: 代書寄張次律二首・其二
+titlePinyin: dai4 shu1 ji4 zhang1 ci4 lü4 er4 shou3・qi2 er4
 titleSlug: dai-shu-ji-zhang-ci-lu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

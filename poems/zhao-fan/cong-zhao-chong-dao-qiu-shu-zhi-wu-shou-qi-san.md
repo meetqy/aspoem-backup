@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-zhao-chong-dao-qiu-shu-zhi-wu-shou-qi-san
-title: 從趙崇道求蜀紙五首  其三
-titlePinyin: cong2 zhao4 chong2 dao4 qiu2 shu3 zhi3 wu3 shou3     qi2 san1
+title: 從趙崇道求蜀紙五首・其三
+titlePinyin: cong2 zhao4 chong2 dao4 qiu2 shu3 zhi3 wu3 shou3・qi2 san1
 titleSlug: cong-zhao-chong-dao-qiu-shu-zhi-wu-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-li-yuan-zhou-jue-ju-qi-shou-qi-qi
-title: 次韻李袁州絕句七首  其七
-titlePinyin: ci4 yun4 li3 yuan2 zhou1 jue2 ju4 qi1 shou3     qi2 qi1
+title: 次韻李袁州絕句七首・其七
+titlePinyin: ci4 yun4 li3 yuan2 zhou1 jue2 ju4 qi1 shou3・qi2 qi1
 titleSlug: ci-yun-li-yuan-zhou-jue-ju-qi-shou-qi-qi
 author: 趙蕃
 authorPinyin: zhao4 fan1

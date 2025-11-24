@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-liu-ri-zu-feng-xin-gan-er-shou-qi-er
-title: 初六日阻風新淦二首  其二
-titlePinyin: chu1 liu4 ri4 zu3 feng1 xin1 gan4 er4 shou3     qi2 er4
+title: 初六日阻風新淦二首・其二
+titlePinyin: chu1 liu4 ri4 zu3 feng1 xin1 gan4 er4 shou3・qi2 er4
 titleSlug: chu-liu-ri-zu-feng-xin-gan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

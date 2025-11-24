@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-duan-wu-san-shou-qi-er
-title: 端午三首  其二
-titlePinyin: duan1 wu3 san1 shou3     qi2 er4
+title: 端午三首・其二
+titlePinyin: duan1 wu3 san1 shou3・qi2 er4
 titleSlug: duan-wu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

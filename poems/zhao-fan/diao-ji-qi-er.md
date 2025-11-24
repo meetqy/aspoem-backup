@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-diao-ji-qi-er
-title: 釣磯  其二
-titlePinyin: diao4 ji1     qi2 er4
+title: 釣磯・其二
+titlePinyin: diao4 ji1・qi2 er4
 titleSlug: diao-ji-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

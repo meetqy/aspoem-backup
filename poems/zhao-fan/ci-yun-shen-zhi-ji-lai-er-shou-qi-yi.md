@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-shen-zhi-ji-lai-er-shou-qi-yi
-title: 次韻審知寄來二首  其一
-titlePinyin: ci4 yun4 shen3 zhi1 ji4 lai2 er4 shou3     qi2 yi1
+title: 次韻審知寄來二首・其一
+titlePinyin: ci4 yun4 shen3 zhi1 ji4 lai2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-shen-zhi-ji-lai-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

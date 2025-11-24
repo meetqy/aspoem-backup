@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-shi-ye-qi-dui-yue-huai-si-yuan-cheng-fu-qi-san
-title: 二十夜起對月懷斯遠成父  其三
-titlePinyin: er4 shi2 ye4 qi3 dui4 yue4 huai2 si1 yuan3 cheng2 fu4     qi2 san1
+title: 二十夜起對月懷斯遠成父・其三
+titlePinyin: er4 shi2 ye4 qi3 dui4 yue4 huai2 si1 yuan3 cheng2 fu4・qi2 san1
 titleSlug: er-shi-ye-qi-dui-yue-huai-si-yuan-cheng-fu-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

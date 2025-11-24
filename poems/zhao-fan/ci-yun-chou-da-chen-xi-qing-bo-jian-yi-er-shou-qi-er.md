@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-chou-da-chen-xi-qing-bo-jian-yi-er-shou-qi-er
-title: 次韻酬答陳席慶伯見貽二首  其二
-titlePinyin: ci4 yun4 chou2 da2 chen2 xi2 qing4 bo2 jian4 yi2 er4 shou3     qi2 er4
+title: 次韻酬答陳席慶伯見貽二首・其二
+titlePinyin: ci4 yun4 chou2 da2 chen2 xi2 qing4 bo2 jian4 yi2 er4 shou3・qi2 er4
 titleSlug: ci-yun-chou-da-chen-xi-qing-bo-jian-yi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

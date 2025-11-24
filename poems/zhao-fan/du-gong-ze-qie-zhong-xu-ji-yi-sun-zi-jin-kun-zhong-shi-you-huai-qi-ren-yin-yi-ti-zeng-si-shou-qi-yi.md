@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-gong-ze-qie-zhong-xu-ji-yi-sun-zi-jin-kun-zhong-shi-you-huai-qi-ren-yin-yi-ti-zeng-si-shou-qi-yi
-title: 讀公擇篋中徐季益孫子進昆仲詩有懷其人因以題贈四首  其一
-titlePinyin: du2 gong1 ze2 qie4 zhong1 xu2 ji4 yi4 sun1 zi3 jin4 kun1 zhong4 shi1 you3 huai2 qi2 ren2 yin1 yi3 ti2 zeng4 si4 shou3     qi2 yi1
+title: 讀公擇篋中徐季益孫子進昆仲詩有懷其人因以題贈四首・其一
+titlePinyin: du2 gong1 ze2 qie4 zhong1 xu2 ji4 yi4 sun1 zi3 jin4 kun1 zhong4 shi1 you3 huai2 qi2 ren2 yin1 yi3 ti2 zeng4 si4 shou3・qi2 yi1
 titleSlug: du-gong-ze-qie-zhong-xu-ji-yi-sun-zi-jin-kun-zhong-shi-you-huai-qi-ren-yin-yi-ti-zeng-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

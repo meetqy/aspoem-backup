@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chu-xia-shan-ju-you-huai-chang-sha-cong-you-si-shou-qi-si
-title: 初夏山居有懷長沙從游四首  其四
-titlePinyin: chu1 xia4 shan1 ju1 you3 huai2 chang2 sha1 cong2 you2 si4 shou3     qi2 si4
+title: 初夏山居有懷長沙從游四首・其四
+titlePinyin: chu1 xia4 shan1 ju1 you3 huai2 chang2 sha1 cong2 you2 si4 shou3・qi2 si4
 titleSlug: chu-xia-shan-ju-you-huai-chang-sha-cong-you-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

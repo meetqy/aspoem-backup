@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-bie-hou-jian-ji-liu-yan-si-shou-qi-san
-title: 次韻斯遠別後見寄六言四首  其三
-titlePinyin: ci4 yun4 si1 yuan3 bie2 hou4 jian4 ji4 liu4 yan2 si4 shou3     qi2 san1
+title: 次韻斯遠別後見寄六言四首・其三
+titlePinyin: ci4 yun4 si1 yuan3 bie2 hou4 jian4 ji4 liu4 yan2 si4 shou3・qi2 san1
 titleSlug: ci-yun-si-yuan-bie-hou-jian-ji-liu-yan-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

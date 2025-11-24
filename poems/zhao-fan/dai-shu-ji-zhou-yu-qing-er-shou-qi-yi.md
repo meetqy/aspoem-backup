@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dai-shu-ji-zhou-yu-qing-er-shou-qi-yi
-title: 代書寄周愚卿二首  其一
-titlePinyin: dai4 shu1 ji4 zhou1 yu2 qing1 er4 shou3     qi2 yi1
+title: 代書寄周愚卿二首・其一
+titlePinyin: dai4 shu1 ji4 zhou1 yu2 qing1 er4 shou3・qi2 yi1
 titleSlug: dai-shu-ji-zhou-yu-qing-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

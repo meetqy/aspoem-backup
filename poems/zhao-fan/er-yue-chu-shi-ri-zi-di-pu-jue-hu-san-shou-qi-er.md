@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-yue-chu-shi-ri-zi-di-pu-jue-hu-san-shou-qi-er
-title: 二月初十日自荻浦絕湖三首  其二
-titlePinyin: er4 yue4 chu1 shi2 ri4 zi4 di2 pu3 jue2 hu2 san1 shou3     qi2 er4
+title: 二月初十日自荻浦絕湖三首・其二
+titlePinyin: er4 yue4 chu1 shi2 ri4 zi4 di2 pu3 jue2 hu2 san1 shou3・qi2 er4
 titleSlug: er-yue-chu-shi-ri-zi-di-pu-jue-hu-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

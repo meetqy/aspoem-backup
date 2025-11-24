@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-liu-si-bo-er-shou-qi-er
-title: 次韻劉寺簿二首  其二
-titlePinyin: ci4 yun4 liu2 si4 bo2 er4 shou3     qi2 er4
+title: 次韻劉寺簿二首・其二
+titlePinyin: ci4 yun4 liu2 si4 bo2 er4 shou3・qi2 er4
 titleSlug: ci-yun-liu-si-bo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

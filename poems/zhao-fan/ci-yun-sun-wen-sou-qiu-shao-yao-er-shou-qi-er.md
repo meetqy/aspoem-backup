@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-sun-wen-sou-qiu-shao-yao-er-shou-qi-er
-title: 次韻孫溫叟求芍藥二首  其二
-titlePinyin: ci4 yun4 sun1 wen1 sou3 qiu2 shao2 yao4 er4 shou3     qi2 er4
+title: 次韻孫溫叟求芍藥二首・其二
+titlePinyin: ci4 yun4 sun1 wen1 sou3 qiu2 shao2 yao4 er4 shou3・qi2 er4
 titleSlug: ci-yun-sun-wen-sou-qiu-shao-yao-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

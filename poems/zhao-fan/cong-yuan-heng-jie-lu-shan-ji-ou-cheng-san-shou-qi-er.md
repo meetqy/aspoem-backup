@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-yuan-heng-jie-lu-shan-ji-ou-cheng-san-shou-qi-er
-title: 從元衡借廬山記偶成三首  其二
-titlePinyin: cong2 yuan2 heng2 jie4 lu2 shan1 ji4 ou3 cheng2 san1 shou3     qi2 er4
+title: 從元衡借廬山記偶成三首・其二
+titlePinyin: cong2 yuan2 heng2 jie4 lu2 shan1 ji4 ou3 cheng2 san1 shou3・qi2 er4
 titleSlug: cong-yuan-heng-jie-lu-shan-ji-ou-cheng-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

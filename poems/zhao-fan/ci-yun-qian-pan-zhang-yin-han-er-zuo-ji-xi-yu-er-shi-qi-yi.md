@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-qian-pan-zhang-yin-han-er-zuo-ji-xi-yu-er-shi-qi-yi
-title: 次韻簽判丈因旱而作及喜雨二詩  其一
-titlePinyin: ci4 yun4 qian1 pan4 zhang4 yin1 han4 er2 zuo4 ji2 xi3 yu3 er4 shi1     qi2 yi1
+title: 次韻簽判丈因旱而作及喜雨二詩・其一
+titlePinyin: ci4 yun4 qian1 pan4 zhang4 yin1 han4 er2 zuo4 ji2 xi3 yu3 er4 shi1・qi2 yi1
 titleSlug: ci-yun-qian-pan-zhang-yin-han-er-zuo-ji-xi-yu-er-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

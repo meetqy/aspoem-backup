@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dai-shu-shi-yi-er-shou-qi-yi
-title: 代書示逸二首  其一
-titlePinyin: dai4 shu1 shi4 yi4 er4 shou3     qi2 yi1
+title: 代書示逸二首・其一
+titlePinyin: dai4 shu1 shi4 yi4 er4 shou3・qi2 yi1
 titleSlug: dai-shu-shi-yi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

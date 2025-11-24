@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-tang-yu-wen-yi-chi-dai-jian-er-jue-ju-qi-yi
-title: 次韻唐與文驛馳代簡二絕句  其一
-titlePinyin: ci4 yun4 tang2 yu3 wen2 yi4 chi2 dai4 jian3 er4 jue2 ju4     qi2 yi1
+title: 次韻唐與文驛馳代簡二絕句・其一
+titlePinyin: ci4 yun4 tang2 yu3 wen2 yi4 chi2 dai4 jian3 er4 jue2 ju4・qi2 yi1
 titleSlug: ci-yun-tang-yu-wen-yi-chi-dai-jian-er-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

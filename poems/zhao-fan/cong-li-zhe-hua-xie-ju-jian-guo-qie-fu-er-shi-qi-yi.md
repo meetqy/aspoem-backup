@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-li-zhe-hua-xie-ju-jian-guo-qie-fu-er-shi-qi-yi
-title: 從禮折花携具見過且賦二詩  其一
-titlePinyin: cong2 li3 zhe2 hua1 xie2 ju4 jian4 guo4 qie3 fu4 er4 shi1     qi2 yi1
+title: 從禮折花携具見過且賦二詩・其一
+titlePinyin: cong2 li3 zhe2 hua1 xie2 ju4 jian4 guo4 qie3 fu4 er4 shi1・qi2 yi1
 titleSlug: cong-li-zhe-hua-xie-ju-jian-guo-qie-fu-er-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

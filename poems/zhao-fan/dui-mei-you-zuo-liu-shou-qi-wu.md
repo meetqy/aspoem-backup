@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dui-mei-you-zuo-liu-shou-qi-wu
-title: 對梅有作六首  其五
-titlePinyin: dui4 mei2 you3 zuo4 liu4 shou3     qi2 wu3
+title: 對梅有作六首・其五
+titlePinyin: dui4 mei2 you3 zuo4 liu4 shou3・qi2 wu3
 titleSlug: dui-mei-you-zuo-liu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-xu-chu-shi-qi-mei-er-shou-qi-yi
-title: 從徐處士乞梅二首  其一
-titlePinyin: cong2 xu2 chu3 shi4 qi3 mei2 er4 shou3     qi2 yi1
+title: 從徐處士乞梅二首・其一
+titlePinyin: cong2 xu2 chu3 shi4 qi3 mei2 er4 shou3・qi2 yi1
 titleSlug: cong-xu-chu-shi-qi-mei-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-jian-meng-you-zuo-liu-yan-er-shou-qi-yi
-title: 次韻斯遠見夢有作六言二首  其一
-titlePinyin: ci4 yun4 si1 yuan3 jian4 meng4 you3 zuo4 liu4 yan2 er4 shou3     qi2 yi1
+title: 次韻斯遠見夢有作六言二首・其一
+titlePinyin: ci4 yun4 si1 yuan3 jian4 meng4 you3 zuo4 liu4 yan2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-si-yuan-jian-meng-you-zuo-liu-yan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

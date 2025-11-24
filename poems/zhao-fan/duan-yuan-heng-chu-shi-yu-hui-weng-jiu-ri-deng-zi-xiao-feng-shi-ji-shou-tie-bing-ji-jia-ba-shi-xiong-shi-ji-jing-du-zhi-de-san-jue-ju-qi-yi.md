@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-duan-yuan-heng-chu-shi-yu-hui-weng-jiu-ri-deng-zi-xiao-feng-shi-ji-shou-tie-bing-ji-jia-ba-shi-xiong-shi-ji-jing-du-zhi-de-san-jue-ju-qi-yi
-title: 段元衡出示與晦翁九日登紫霄峰詩及手帖并及賈八十兄詩既敬讀之得三絕句  其一
-titlePinyin: duan4 yuan2 heng2 chu1 shi4 yu3 hui4 weng1 jiu3 ri4 deng1 zi3 xiao1 feng1 shi1 ji2 shou3 tie1 bing4 ji2 jia3 ba1 shi2 xiong1 shi1 ji4 jing4 du2 zhi1 de2 san1 jue2 ju4     qi2 yi1
+title: 段元衡出示與晦翁九日登紫霄峰詩及手帖并及賈八十兄詩既敬讀之得三絕句・其一
+titlePinyin: duan4 yuan2 heng2 chu1 shi4 yu3 hui4 weng1 jiu3 ri4 deng1 zi3 xiao1 feng1 shi1 ji2 shou3 tie1 bing4 ji2 jia3 ba1 shi2 xiong1 shi1 ji4 jing4 du2 zhi1 de2 san1 jue2 ju4・qi2 yi1
 titleSlug: duan-yuan-heng-chu-shi-yu-hui-weng-jiu-ri-deng-zi-xiao-feng-shi-ji-shou-tie-bing-ji-jia-ba-shi-xiong-shi-ji-jing-du-zhi-de-san-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

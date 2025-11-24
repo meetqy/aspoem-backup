@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-tou-su-zhao-xian-dao-dian-dui-zhu-zai-yong-qian-yun-jian-huai-er-shou-qi-er
-title: 次韻斯遠投宿招賢道店對竹再用前韻見懷二首  其二
-titlePinyin: ci4 yun4 si1 yuan3 tou2 su4 zhao1 xian2 dao4 dian4 dui4 zhu2 zai4 yong4 qian2 yun4 jian4 huai2 er4 shou3     qi2 er4
+title: 次韻斯遠投宿招賢道店對竹再用前韻見懷二首・其二
+titlePinyin: ci4 yun4 si1 yuan3 tou2 su4 zhao1 xian2 dao4 dian4 dui4 zhu2 zai4 yong4 qian2 yun4 jian4 huai2 er4 shou3・qi2 er4
 titleSlug: ci-yun-si-yuan-tou-su-zhao-xian-dao-dian-dui-zhu-zai-yong-qian-yun-jian-huai-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

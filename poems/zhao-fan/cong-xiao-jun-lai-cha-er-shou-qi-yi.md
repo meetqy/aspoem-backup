@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-xiao-jun-lai-cha-er-shou-qi-yi
-title: 從蕭君來茶二首  其一
-titlePinyin: cong2 xiao1 jun1 lai2 cha2 er4 shou3     qi2 yi1
+title: 從蕭君來茶二首・其一
+titlePinyin: cong2 xiao1 jun1 lai2 cha2 er4 shou3・qi2 yi1
 titleSlug: cong-xiao-jun-lai-cha-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

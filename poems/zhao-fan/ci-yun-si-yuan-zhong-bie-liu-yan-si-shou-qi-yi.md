@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-zhong-bie-liu-yan-si-shou-qi-yi
-title: 次韻斯遠重別六言四首  其一
-titlePinyin: ci4 yun4 si1 yuan3 zhong4 bie2 liu4 yan2 si4 shou3     qi2 yi1
+title: 次韻斯遠重別六言四首・其一
+titlePinyin: ci4 yun4 si1 yuan3 zhong4 bie2 liu4 yan2 si4 shou3・qi2 yi1
 titleSlug: ci-yun-si-yuan-zhong-bie-liu-yan-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

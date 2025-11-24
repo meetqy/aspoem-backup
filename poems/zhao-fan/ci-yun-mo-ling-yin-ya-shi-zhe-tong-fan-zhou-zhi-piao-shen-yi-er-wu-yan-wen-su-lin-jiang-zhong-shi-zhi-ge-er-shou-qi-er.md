@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-mo-ling-yin-ya-shi-zhe-tong-fan-zhou-zhi-piao-shen-yi-er-wu-yan-wen-su-lin-jiang-zhong-shi-zhi-ge-er-shou-qi-er
-title: 次韻莫令因迓使者同泛舟至漂神已而誤焉問宿臨江鍾氏之閣二首  其二
-titlePinyin: ci4 yun4 mo4 ling4 yin1 ya4 shi3 zhe3 tong2 fan4 zhou1 zhi4 piao1 shen2 yi3 er2 wu4 yan1 wen4 su4 lin2 jiang1 zhong1 shi4 zhi1 ge2 er4 shou3     qi2 er4
+title: 次韻莫令因迓使者同泛舟至漂神已而誤焉問宿臨江鍾氏之閣二首・其二
+titlePinyin: ci4 yun4 mo4 ling4 yin1 ya4 shi3 zhe3 tong2 fan4 zhou1 zhi4 piao1 shen2 yi3 er2 wu4 yan1 wen4 su4 lin2 jiang1 zhong1 shi4 zhi1 ge2 er4 shou3・qi2 er4
 titleSlug: ci-yun-mo-ling-yin-ya-shi-zhe-tong-fan-zhou-zhi-piao-shen-yi-er-wu-yan-wen-su-lin-jiang-zhong-shi-zhi-ge-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

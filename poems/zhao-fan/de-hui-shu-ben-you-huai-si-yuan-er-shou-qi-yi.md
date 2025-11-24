@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-de-hui-shu-ben-you-huai-si-yuan-er-shou-qi-yi
-title: 得蕙數本有懷斯遠二首  其一
-titlePinyin: de2 hui4 shu4 ben3 you3 huai2 si1 yuan3 er4 shou3     qi2 yi1
+title: 得蕙數本有懷斯遠二首・其一
+titlePinyin: de2 hui4 shu4 ben3 you3 huai2 si1 yuan3 er4 shou3・qi2 yi1
 titleSlug: de-hui-shu-ben-you-huai-si-yuan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

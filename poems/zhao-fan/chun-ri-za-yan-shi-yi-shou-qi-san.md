@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-chun-ri-za-yan-shi-yi-shou-qi-san
-title: 春日雜言十一首  其三
-titlePinyin: chun1 ri4 za2 yan2 shi2 yi1 shou3     qi2 san1
+title: 春日雜言十一首・其三
+titlePinyin: chun1 ri4 za2 yan2 shi2 yi1 shou3・qi2 san1
 titleSlug: chun-ri-za-yan-shi-yi-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

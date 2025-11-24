@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-shi-ba-ri-tong-lin-xiang-wei-cao-lu-yi-qing-deng-yue-yang-lou-qi-yi
-title: 二十八日同臨湘尉曹呂益卿登岳陽樓  其一
-titlePinyin: er4 shi2 ba1 ri4 tong2 lin2 xiang1 wei4 cao2 lü3 yi4 qing1 deng1 yue4 yang2 lou2     qi2 yi1
+title: 二十八日同臨湘尉曹呂益卿登岳陽樓・其一
+titlePinyin: er4 shi2 ba1 ri4 tong2 lin2 xiang1 wei4 cao2 lü3 yi4 qing1 deng1 yue4 yang2 lou2・qi2 yi1
 titleSlug: er-shi-ba-ri-tong-lin-xiang-wei-cao-lu-yi-qing-deng-yue-yang-lou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

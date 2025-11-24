@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-he-da-si-yuan-ru-cheng-jian-ying-shi-qi-yi
-title: 次韻和答斯遠入城見迎詩  其一
-titlePinyin: ci4 yun4 he2 da2 si1 yuan3 ru4 cheng2 jian4 ying2 shi1     qi2 yi1
+title: 次韻和答斯遠入城見迎詩・其一
+titlePinyin: ci4 yun4 he2 da2 si1 yuan3 ru4 cheng2 jian4 ying2 shi1・qi2 yi1
 titleSlug: ci-yun-he-da-si-yuan-ru-cheng-jian-ying-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

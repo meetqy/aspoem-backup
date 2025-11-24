@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-bing-wen-chu-jiu-ri-guo-xian-long-qi-er
-title: 次韻秉文初九日過先壟  其二
-titlePinyin: ci4 yun4 bing3 wen2 chu1 jiu3 ri4 guo4 xian1 long3     qi2 er4
+title: 次韻秉文初九日過先壟・其二
+titlePinyin: ci4 yun4 bing3 wen2 chu1 jiu3 ri4 guo4 xian1 long3・qi2 er4
 titleSlug: ci-yun-bing-wen-chu-jiu-ri-guo-xian-long-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

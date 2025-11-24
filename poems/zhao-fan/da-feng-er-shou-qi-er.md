@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-da-feng-er-shou-qi-er
-title: 大風二首  其二
-titlePinyin: da4 feng1 er4 shou3     qi2 er4
+title: 大風二首・其二
+titlePinyin: da4 feng1 er4 shou3・qi2 er4
 titleSlug: da-feng-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

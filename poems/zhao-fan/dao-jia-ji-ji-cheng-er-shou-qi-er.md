@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dao-jia-ji-ji-cheng-er-shou-qi-er
-title: 到家寄季承二首  其二
-titlePinyin: dao4 jia1 ji4 ji4 cheng2 er4 shou3     qi2 er4
+title: 到家寄季承二首・其二
+titlePinyin: dao4 jia1 ji4 ji4 cheng2 er4 shou3・qi2 er4
 titleSlug: dao-jia-ji-ji-cheng-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

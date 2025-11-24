@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-cheng-fu-er-shou-qi-yi
-title: 次韻成父二首  其一
-titlePinyin: ci4 yun4 cheng2 fu4 er4 shou3     qi2 yi1
+title: 次韻成父二首・其一
+titlePinyin: ci4 yun4 cheng2 fu4 er4 shou3・qi2 yi1
 titleSlug: ci-yun-cheng-fu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

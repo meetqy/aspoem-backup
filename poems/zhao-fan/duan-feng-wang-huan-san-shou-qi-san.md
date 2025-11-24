@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-duan-feng-wang-huan-san-shou-qi-san
-title: 端峰往還三首  其三
-titlePinyin: duan1 feng1 wang3 huan2 san1 shou3     qi2 san1
+title: 端峰往還三首・其三
+titlePinyin: duan1 feng1 wang3 huan2 san1 shou3・qi2 san1
 titleSlug: duan-feng-wang-huan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

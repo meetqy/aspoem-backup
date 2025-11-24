@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dong-qing-san-shou-qi-yi
-title: 冬晴三首  其一
-titlePinyin: dong1 qing2 san1 shou3     qi2 yi1
+title: 冬晴三首・其一
+titlePinyin: dong1 qing2 san1 shou3・qi2 yi1
 titleSlug: dong-qing-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

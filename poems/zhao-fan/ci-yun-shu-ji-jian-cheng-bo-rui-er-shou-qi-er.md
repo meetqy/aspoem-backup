@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-shu-ji-jian-cheng-bo-rui-er-shou-qi-er
-title: 次韻叔驥兼呈伯瑞二首  其二
-titlePinyin: ci4 yun4 shu1 ji4 jian1 cheng2 bo2 rui4 er4 shou3     qi2 er4
+title: 次韻叔驥兼呈伯瑞二首・其二
+titlePinyin: ci4 yun4 shu1 ji4 jian1 cheng2 bo2 rui4 er4 shou3・qi2 er4
 titleSlug: ci-yun-shu-ji-jian-cheng-bo-rui-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

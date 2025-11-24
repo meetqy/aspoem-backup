@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-heng-zhou-xian-sheng-sui-chu-qian-san-ri-xi-shang-liang-jue-ju-qi-er
-title: 次韻衡州先生歲除前三日席上兩絕句  其二
-titlePinyin: ci4 yun4 heng2 zhou1 xian1 sheng0 sui4 chu2 qian2 san1 ri4 xi2 shang4 liang3 jue2 ju4     qi2 er4
+title: 次韻衡州先生歲除前三日席上兩絕句・其二
+titlePinyin: ci4 yun4 heng2 zhou1 xian1 sheng0 sui4 chu2 qian2 san1 ri4 xi2 shang4 liang3 jue2 ju4・qi2 er4
 titleSlug: ci-yun-heng-zhou-xian-sheng-sui-chu-qian-san-ri-xi-shang-liang-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

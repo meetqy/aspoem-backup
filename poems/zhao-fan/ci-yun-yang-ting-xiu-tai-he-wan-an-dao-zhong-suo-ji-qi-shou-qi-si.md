@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-yang-ting-xiu-tai-he-wan-an-dao-zhong-suo-ji-qi-shou-qi-si
-title: 次韻楊廷秀太和萬安道中所寄七首  其四
-titlePinyin: ci4 yun4 yang2 ting2 xiu4 tai4 he2 wan4 an1 dao4 zhong1 suo3 ji4 qi1 shou3     qi2 si4
+title: 次韻楊廷秀太和萬安道中所寄七首・其四
+titlePinyin: ci4 yun4 yang2 ting2 xiu4 tai4 he2 wan4 an1 dao4 zhong1 suo3 ji4 qi1 shou3・qi2 si4
 titleSlug: ci-yun-yang-ting-xiu-tai-he-wan-an-dao-zhong-suo-ji-qi-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

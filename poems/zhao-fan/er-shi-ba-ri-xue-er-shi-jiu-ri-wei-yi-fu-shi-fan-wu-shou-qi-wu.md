@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-shi-ba-ri-xue-er-shi-jiu-ri-wei-yi-fu-shi-fan-wu-shou-qi-wu
-title: 二十八日雪二十九日未已賦詩凡五首  其五
-titlePinyin: er4 shi2 ba1 ri4 xue3 er4 shi2 jiu3 ri4 wei4 yi3 fu4 shi1 fan2 wu3 shou3     qi2 wu3
+title: 二十八日雪二十九日未已賦詩凡五首・其五
+titlePinyin: er4 shi2 ba1 ri4 xue3 er4 shi2 jiu3 ri4 wei4 yi3 fu4 shi1 fan2 wu3 shou3・qi2 wu3
 titleSlug: er-shi-ba-ri-xue-er-shi-jiu-ri-wei-yi-fu-shi-fan-wu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

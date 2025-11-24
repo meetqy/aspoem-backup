@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-deng-xian-lou-you-gan-er-shou-qi-yi
-title: 登縣樓有感二首  其一
-titlePinyin: deng1 xian4 lou2 you3 gan3 er4 shou3     qi2 yi1
+title: 登縣樓有感二首・其一
+titlePinyin: deng1 xian4 lou2 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: deng-xian-lou-you-gan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

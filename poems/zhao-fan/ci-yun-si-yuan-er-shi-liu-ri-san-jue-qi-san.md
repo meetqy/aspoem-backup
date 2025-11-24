@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-er-shi-liu-ri-san-jue-qi-san
-title: 次韻斯遠二十六日三絕  其三
-titlePinyin: ci4 yun4 si1 yuan3 er4 shi2 liu4 ri4 san1 jue2     qi2 san1
+title: 次韻斯遠二十六日三絕・其三
+titlePinyin: ci4 yun4 si1 yuan3 er4 shi2 liu4 ri4 san1 jue2・qi2 san1
 titleSlug: ci-yun-si-yuan-er-shi-liu-ri-san-jue-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

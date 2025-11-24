@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-zi-jin-zhe-xing-shi-zhou-zhong-you-er-shi-jian-ji-ci-yun-bao-zhi-qi-yi
-title: 讀子進浙行詩軸中有二詩見寄次韻報之  其一
-titlePinyin: du2 zi3 jin4 zhe4 xing2 shi1 zhou2 zhong1 you3 er4 shi1 jian4 ji4 ci4 yun4 bao4 zhi1     qi2 yi1
+title: 讀子進浙行詩軸中有二詩見寄次韻報之・其一
+titlePinyin: du2 zi3 jin4 zhe4 xing2 shi1 zhou2 zhong1 you3 er4 shi1 jian4 ji4 ci4 yun4 bao4 zhi1・qi2 yi1
 titleSlug: du-zi-jin-zhe-xing-shi-zhou-zhong-you-er-shi-jian-ji-ci-yun-bao-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

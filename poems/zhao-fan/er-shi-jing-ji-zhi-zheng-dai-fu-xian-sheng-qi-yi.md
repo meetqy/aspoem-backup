@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-er-shi-jing-ji-zhi-zheng-dai-fu-xian-sheng-qi-yi
-title: 二詩敬寄致政大夫先生  其一
-titlePinyin: er4 shi1 jing4 ji4 zhi4 zheng4 dai4 fu0 xian1 sheng0     qi2 yi1
+title: 二詩敬寄致政大夫先生・其一
+titlePinyin: er4 shi1 jing4 ji4 zhi4 zheng4 dai4 fu0 xian1 sheng0・qi2 yi1
 titleSlug: er-shi-jing-ji-zhi-zheng-dai-fu-xian-sheng-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-wang-yan-bo-mi-dong-ting-gan-san-shou-qi-er
-title: 從王彥博覓洞庭柑三首  其二
-titlePinyin: cong2 wang2 yan4 bo2 mi4 dong4 ting2 gan1 san1 shou3     qi2 er4
+title: 從王彥博覓洞庭柑三首・其二
+titlePinyin: cong2 wang2 yan4 bo2 mi4 dong4 ting2 gan1 san1 shou3・qi2 er4
 titleSlug: cong-wang-yan-bo-mi-dong-ting-gan-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

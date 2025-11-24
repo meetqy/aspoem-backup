@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-cong-mo-wan-an-mi-gan-zi-bing-yi-yu-shan-sha-yao-he-ji-zhi-liu-yan-san-shou-qi-san
-title: 從莫萬安覓柑子并以玉山沙藥合寄之六言三首  其三
-titlePinyin: cong2 mo4 wan4 an1 mi4 gan1 zi0 bing4 yi3 yu4 shan1 sha1 yao4 he2 ji4 zhi1 liu4 yan2 san1 shou3     qi2 san1
+title: 從莫萬安覓柑子并以玉山沙藥合寄之六言三首・其三
+titlePinyin: cong2 mo4 wan4 an1 mi4 gan1 zi0 bing4 yi3 yu4 shan1 sha1 yao4 he2 ji4 zhi1 liu4 yan2 san1 shou3・qi2 san1
 titleSlug: cong-mo-wan-an-mi-gan-zi-bing-yi-yu-shan-sha-yao-he-ji-zhi-liu-yan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

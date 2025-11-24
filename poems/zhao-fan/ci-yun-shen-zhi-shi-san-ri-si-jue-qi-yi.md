@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-shen-zhi-shi-san-ri-si-jue-qi-yi
-title: 次韻審知十三日四絕  其一
-titlePinyin: ci4 yun4 shen3 zhi1 shi2 san1 ri4 si4 jue2     qi2 yi1
+title: 次韻審知十三日四絕・其一
+titlePinyin: ci4 yun4 shen3 zhi1 shi2 san1 ri4 si4 jue2・qi2 yi1
 titleSlug: ci-yun-shen-zhi-shi-san-ri-si-jue-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-yuan-heng-liang-jue-ju-qi-er
-title: 次韻元衡兩絕句  其二
-titlePinyin: ci4 yun4 yuan2 heng2 liang3 jue2 ju4     qi2 er4
+title: 次韻元衡兩絕句・其二
+titlePinyin: ci4 yun4 yuan2 heng2 liang3 jue2 ju4・qi2 er4
 titleSlug: ci-yun-yuan-heng-liang-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

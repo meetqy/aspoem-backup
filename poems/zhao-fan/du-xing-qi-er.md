@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-du-xing-qi-er
-title: 獨行  其二
-titlePinyin: du2 xing2     qi2 er4
+title: 獨行・其二
+titlePinyin: du2 xing2・qi2 er4
 titleSlug: du-xing-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

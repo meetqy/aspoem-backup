@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ci-yun-si-yuan-qu-qiu-ba-yue-shi-san-ri-wu-shui-ji-xing-deng-shan-yuan-wang-jian-huai-qi-yi
-title: 次韵斯遠去秋八月十三日午睡既醒登山遠望見懷  其一
-titlePinyin: ci4 yun4 si1 yuan3 qu4 qiu1 ba1 yue4 shi2 san1 ri4 wu3 shui4 ji4 xing3 deng1 shan1 yuan3 wang4 jian4 huai2     qi2 yi1
+title: 次韵斯遠去秋八月十三日午睡既醒登山遠望見懷・其一
+titlePinyin: ci4 yun4 si1 yuan3 qu4 qiu1 ba1 yue4 shi2 san1 ri4 wu3 shui4 ji4 xing3 deng1 shan1 yuan3 wang4 jian4 huai2・qi2 yi1
 titleSlug: ci-yun-si-yuan-qu-qiu-ba-yue-shi-san-ri-wu-shui-ji-xing-deng-shan-yuan-wang-jian-huai-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

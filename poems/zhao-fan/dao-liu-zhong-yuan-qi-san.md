@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-dao-liu-zhong-yuan-qi-san
-title: 悼劉仲遠  其三
-titlePinyin: dao4 liu2 zhong4 yuan3     qi2 san1
+title: 悼劉仲遠・其三
+titlePinyin: dao4 liu2 zhong4 yuan3・qi2 san1
 titleSlug: dao-liu-zhong-yuan-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1
