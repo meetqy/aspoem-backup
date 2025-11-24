@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-ti-song-shun-qing-jia-xiao-ge-jian-shu-li-yi-han-liang-jin-fu-er-shou-qi-er
-title: 寄題宋舜卿家小閣兼屬李亦韓梁進父二首  其二
-titlePinyin: ji4 ti2 song4 shun4 qing1 jia1 xiao3 ge2 jian1 shu3 li3 yi4 han2 liang2 jin4 fu4 er4 shou3     qi2 er4
+title: 寄題宋舜卿家小閣兼屬李亦韓梁進父二首・其二
+titlePinyin: ji4 ti2 song4 shun4 qing1 jia1 xiao3 ge2 jian1 shu3 li3 yi4 han2 liang2 jin4 fu4 er4 shou3・qi2 er4
 titleSlug: ji-ti-song-shun-qing-jia-xiao-ge-jian-shu-li-yi-han-liang-jin-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

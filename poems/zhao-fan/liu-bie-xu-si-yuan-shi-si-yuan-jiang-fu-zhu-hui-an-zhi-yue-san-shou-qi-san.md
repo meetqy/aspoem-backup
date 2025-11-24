@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-xu-si-yuan-shi-si-yuan-jiang-fu-zhu-hui-an-zhi-yue-san-shou-qi-san
-title: 留別徐斯遠時斯遠將赴朱晦菴之約三首  其三
-titlePinyin: liu2 bie2 xu2 si1 yuan3 shi2 si1 yuan3 jiang1 fu4 zhu1 hui4 an1 zhi1 yue1 san1 shou3     qi2 san1
+title: 留別徐斯遠時斯遠將赴朱晦菴之約三首・其三
+titlePinyin: liu2 bie2 xu2 si1 yuan3 shi2 si1 yuan3 jiang1 fu4 zhu1 hui4 an1 zhi1 yue1 san1 shou3・qi2 san1
 titleSlug: liu-bie-xu-si-yuan-shi-si-yuan-jiang-fu-zhu-hui-an-zhi-yue-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

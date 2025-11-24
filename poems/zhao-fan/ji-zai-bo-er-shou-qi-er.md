@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zai-bo-er-shou-qi-er
-title: 寄在伯二首  其二
-titlePinyin: ji4 zai4 bo2 er4 shou3     qi2 er4
+title: 寄在伯二首・其二
+titlePinyin: ji4 zai4 bo2 er4 shou3・qi2 er4
 titleSlug: ji-zai-bo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

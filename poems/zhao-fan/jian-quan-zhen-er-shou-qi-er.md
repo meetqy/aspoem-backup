@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-quan-zhen-er-shou-qi-er
-title: 簡全真二首  其二
-titlePinyin: jian3 quan2 zhen1 er4 shou3     qi2 er4
+title: 簡全真二首・其二
+titlePinyin: jian3 quan2 zhen1 er4 shou3・qi2 er4
 titleSlug: jian-quan-zhen-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

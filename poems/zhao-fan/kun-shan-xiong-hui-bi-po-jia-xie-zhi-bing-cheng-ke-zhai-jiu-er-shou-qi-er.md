@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-kun-shan-xiong-hui-bi-po-jia-xie-zhi-bing-cheng-ke-zhai-jiu-er-shou-qi-er
-title: 崑山兄惠筆頗佳謝之并呈克齋舅二首  其二
-titlePinyin: kun1 shan1 xiong1 hui4 bi3 po1 jia1 xie4 zhi1 bing4 cheng2 ke4 zhai1 jiu4 er4 shou3     qi2 er4
+title: 崑山兄惠筆頗佳謝之并呈克齋舅二首・其二
+titlePinyin: kun1 shan1 xiong1 hui4 bi3 po1 jia1 xie4 zhi1 bing4 cheng2 ke4 zhai1 jiu4 er4 shou3・qi2 er4
 titleSlug: kun-shan-xiong-hui-bi-po-jia-xie-zhi-bing-cheng-ke-zhai-jiu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

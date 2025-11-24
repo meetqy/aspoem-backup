@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zhao-xin-zhou-yi-shu-er-shou-qi-yi
-title: 寄趙信州一叔二首  其一
-titlePinyin: ji4 zhao4 xin4 zhou1 yi4 shu1 er4 shou3     qi2 yi1
+title: 寄趙信州一叔二首・其一
+titlePinyin: ji4 zhao4 xin4 zhou1 yi4 shu1 er4 shou3・qi2 yi1
 titleSlug: ji-zhao-xin-zhou-yi-shu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

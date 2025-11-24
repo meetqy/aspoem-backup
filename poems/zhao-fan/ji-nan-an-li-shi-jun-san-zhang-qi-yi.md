@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-nan-an-li-shi-jun-san-zhang-qi-yi
-title: 寄南安李使君三章  其一
-titlePinyin: ji4 nan2 an1 li3 shi3 jun1 san1 zhang1     qi2 yi1
+title: 寄南安李使君三章・其一
+titlePinyin: ji4 nan2 an1 li3 shi3 jun1 san1 zhang1・qi2 yi1
 titleSlug: ji-nan-an-li-shi-jun-san-zhang-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

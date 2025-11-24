@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-chen-ming-shu-jian-shu-hu-zhong-wei-wu-shou-qi-yi
-title: 留別陳明叔兼屬胡仲威五首  其一
-titlePinyin: liu2 bie2 chen2 ming2 shu1 jian1 shu3 hu2 zhong4 wei1 wu3 shou3     qi2 yi1
+title: 留別陳明叔兼屬胡仲威五首・其一
+titlePinyin: liu2 bie2 chen2 ming2 shu1 jian1 shu3 hu2 zhong4 wei1 wu3 shou3・qi2 yi1
 titleSlug: liu-bie-chen-ming-shu-jian-shu-hu-zhong-wei-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

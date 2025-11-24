@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-xia-zhou-shi-jun-guo-lang-zhong-san-shou-qi-er
-title: 寄峽州使君郭郎中三首  其二
-titlePinyin: ji4 xia2 zhou1 shi3 jun1 guo1 lang2 zhong1 san1 shou3     qi2 er4
+title: 寄峽州使君郭郎中三首・其二
+titlePinyin: ji4 xia2 zhou1 shi3 jun1 guo1 lang2 zhong1 san1 shou3・qi2 er4
 titleSlug: ji-xia-zhou-shi-jun-guo-lang-zhong-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

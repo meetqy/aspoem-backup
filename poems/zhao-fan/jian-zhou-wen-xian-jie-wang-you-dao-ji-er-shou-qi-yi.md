@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-zhou-wen-xian-jie-wang-you-dao-ji-er-shou-qi-yi
-title: 簡周文顯借王有道集二首  其一
-titlePinyin: jian3 zhou1 wen2 xian3 jie4 wang2 you3 dao4 ji2 er4 shou3     qi2 yi1
+title: 簡周文顯借王有道集二首・其一
+titlePinyin: jian3 zhou1 wen2 xian3 jie4 wang2 you3 dao4 ji2 er4 shou3・qi2 yi1
 titleSlug: jian-zhou-wen-xian-jie-wang-you-dao-ji-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

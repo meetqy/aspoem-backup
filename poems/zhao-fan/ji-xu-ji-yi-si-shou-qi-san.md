@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-xu-ji-yi-si-shou-qi-san
-title: 寄徐季益四首  其三
-titlePinyin: ji4 xu2 ji4 yi4 si4 shou3     qi2 san1
+title: 寄徐季益四首・其三
+titlePinyin: ji4 xu2 ji4 yi4 si4 shou3・qi2 san1
 titleSlug: ji-xu-ji-yi-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

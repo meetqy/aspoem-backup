@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiang-zhi-chen-zhou-zou-bi-ji-zai-bo-jiao-shou-er-shou-qi-er
-title: 將至辰州走筆寄在伯教授二首  其二
-titlePinyin: jiang1 zhi4 chen2 zhou1 zou3 bi3 ji4 zai4 bo2 jiao4 shou4 er4 shou3     qi2 er4
+title: 將至辰州走筆寄在伯教授二首・其二
+titlePinyin: jiang1 zhi4 chen2 zhou1 zou3 bi3 ji4 zai4 bo2 jiao4 shou4 er4 shou3・qi2 er4
 titleSlug: jiang-zhi-chen-zhou-zou-bi-ji-zai-bo-jiao-shou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

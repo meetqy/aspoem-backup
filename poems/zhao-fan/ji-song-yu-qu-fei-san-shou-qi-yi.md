@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-song-yu-qu-fei-san-shou-qi-yi
-title: 寄送于去非三首  其一
-titlePinyin: ji4 song4 yu2 qu4 fei1 san1 shou3     qi2 yi1
+title: 寄送于去非三首・其一
+titlePinyin: ji4 song4 yu2 qu4 fei1 san1 shou3・qi2 yi1
 titleSlug: ji-song-yu-qu-fei-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

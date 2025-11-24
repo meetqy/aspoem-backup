@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-chun-qian-san-ri-xue-ming-ri-you-wei-yi-shi-jian-zi-jin-yan-bo-kun-zhong-shi-cheng-fu-si-shou-qi-er
-title: 立春前三日雪明日猶未已詩簡子進彥博昆仲示成父四首  其二
-titlePinyin: li4 chun1 qian2 san1 ri4 xue3 ming2 ri4 you2 wei4 yi3 shi1 jian3 zi3 jin4 yan4 bo2 kun1 zhong4 shi4 cheng2 fu4 si4 shou3     qi2 er4
+title: 立春前三日雪明日猶未已詩簡子進彥博昆仲示成父四首・其二
+titlePinyin: li4 chun1 qian2 san1 ri4 xue3 ming2 ri4 you2 wei4 yi3 shi1 jian3 zi3 jin4 yan4 bo2 kun1 zhong4 shi4 cheng2 fu4 si4 shou3・qi2 er4
 titleSlug: li-chun-qian-san-ri-xue-ming-ri-you-wei-yi-shi-jian-zi-jin-yan-bo-kun-zhong-shi-cheng-fu-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lin-xiang-xiang-chu-qi-xian-ren-shi-juan-ti-qi-hou-er-shou-qi-er
-title: 林湘鄉出其先人詩卷題其後二首  其二
-titlePinyin: lin2 xiang1 xiang1 chu1 qi2 xian1 ren2 shi1 juan4 ti2 qi2 hou4 er4 shou3     qi2 er4
+title: 林湘鄉出其先人詩卷題其後二首・其二
+titlePinyin: lin2 xiang1 xiang1 chu1 qi2 xian1 ren2 shi1 juan4 ti2 qi2 hou4 er4 shou3・qi2 er4
 titleSlug: lin-xiang-xiang-chu-qi-xian-ren-shi-juan-ti-qi-hou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

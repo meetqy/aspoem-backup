@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-cheng-fu-di-yi-pin-jian-qin-qi-li-wei-yun-wu-shou-qi-yi
-title: 留別成父弟以貧賤親戚離爲韻五首  其一
-titlePinyin: liu2 bie2 cheng2 fu4 di4 yi3 pin2 jian4 qin1 qi1 li2 wei2 yun4 wu3 shou3     qi2 yi1
+title: 留別成父弟以貧賤親戚離爲韻五首・其一
+titlePinyin: liu2 bie2 cheng2 fu4 di4 yi3 pin2 jian4 qin1 qi1 li2 wei2 yun4 wu3 shou3・qi2 yi1
 titleSlug: liu-bie-cheng-fu-di-yi-pin-jian-qin-qi-li-wei-yun-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

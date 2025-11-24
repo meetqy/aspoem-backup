@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-zeng-ou-yang-bo-wei-er-jue-ju-qi-er
-title: 簡贈歐陽伯威二絕句  其二
-titlePinyin: jian3 zeng4 ou1 yang2 bo2 wei1 er4 jue2 ju4     qi2 er4
+title: 簡贈歐陽伯威二絕句・其二
+titlePinyin: jian3 zeng4 ou1 yang2 bo2 wei1 er4 jue2 ju4・qi2 er4
 titleSlug: jian-zeng-ou-yang-bo-wei-er-jue-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

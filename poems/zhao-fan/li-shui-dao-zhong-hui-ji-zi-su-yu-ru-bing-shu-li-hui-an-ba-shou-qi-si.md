@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-shui-dao-zhong-hui-ji-zi-su-yu-ru-bing-shu-li-hui-an-ba-shou-qi-si
-title: 溧水道中回寄子肅玉汝并屬李晦庵八首  其四
-titlePinyin: li4 shui3 dao4 zhong1 hui2 ji4 zi3 su4 yu4 ru3 bing4 shu3 li3 hui4 an1 ba1 shou3     qi2 si4
+title: 溧水道中回寄子肅玉汝并屬李晦庵八首・其四
+titlePinyin: li4 shui3 dao4 zhong1 hui2 ji4 zi3 su4 yu4 ru3 bing4 shu3 li3 hui4 an1 ba1 shou3・qi2 si4
 titleSlug: li-shui-dao-zhong-hui-ji-zi-su-yu-ru-bing-shu-li-hui-an-ba-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

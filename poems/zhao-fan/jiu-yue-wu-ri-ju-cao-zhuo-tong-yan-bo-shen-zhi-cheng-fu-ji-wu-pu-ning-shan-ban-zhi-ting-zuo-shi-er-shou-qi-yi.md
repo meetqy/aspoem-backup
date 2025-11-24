@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiu-yue-wu-ri-ju-cao-zhuo-tong-yan-bo-shen-zhi-cheng-fu-ji-wu-pu-ning-shan-ban-zhi-ting-zuo-shi-er-shou-qi-yi
-title: 九月五日具草酌同彥博審知成父集於普寧山半之亭作詩二首  其一
-titlePinyin: jiu3 yue4 wu3 ri4 ju4 cao3 zhuo2 tong2 yan4 bo2 shen3 zhi1 cheng2 fu4 ji2 wu1 pu3 ning2 shan1 ban4 zhi1 ting2 zuo4 shi1 er4 shou3     qi2 yi1
+title: 九月五日具草酌同彥博審知成父集於普寧山半之亭作詩二首・其一
+titlePinyin: jiu3 yue4 wu3 ri4 ju4 cao3 zhuo2 tong2 yan4 bo2 shen3 zhi1 cheng2 fu4 ji2 wu1 pu3 ning2 shan1 ban4 zhi1 ting2 zuo4 shi1 er4 shou3・qi2 yi1
 titleSlug: jiu-yue-wu-ri-ju-cao-zhuo-tong-yan-bo-shen-zhi-cheng-fu-ji-wu-pu-ning-shan-ban-zhi-ting-zuo-shi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

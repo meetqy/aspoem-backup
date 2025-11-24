@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-xiao-zhu-yin-zhu-shu-san-shou-qi-san
-title: 檢校竹隠竹數三首  其三
-titlePinyin: jian3 xiao4 zhu2 yin3 zhu2 shu4 san1 shou3     qi2 san1
+title: 檢校竹隠竹數三首・其三
+titlePinyin: jian3 xiao4 zhu2 yin3 zhu2 shu4 san1 shou3・qi2 san1
 titleSlug: jian-xiao-zhu-yin-zhu-shu-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

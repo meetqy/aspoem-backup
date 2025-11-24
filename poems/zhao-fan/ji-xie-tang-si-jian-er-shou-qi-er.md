@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-xie-tang-si-jian-er-shou-qi-er
-title: 寄謝湯司諫二首  其二
-titlePinyin: ji4 xie4 tang1 si1 jian4 er4 shou3     qi2 er4
+title: 寄謝湯司諫二首・其二
+titlePinyin: ji4 xie4 tang1 si1 jian4 er4 shou3・qi2 er4
 titleSlug: ji-xie-tang-si-jian-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

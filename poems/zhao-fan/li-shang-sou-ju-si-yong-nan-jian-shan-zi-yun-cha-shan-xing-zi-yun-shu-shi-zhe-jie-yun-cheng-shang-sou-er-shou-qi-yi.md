@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-shang-sou-ju-si-yong-nan-jian-shan-zi-yun-cha-shan-xing-zi-yun-shu-shi-zhe-jie-yun-cheng-shang-sou-er-shou-qi-yi
-title: 李商叟舉似用南澗山字韻茶山星字韻數詩輒借韻呈商叟二首  其一
-titlePinyin: li3 shang1 sou3 ju3 si4 yong4 nan2 jian4 shan1 zi4 yun4 cha2 shan1 xing1 zi4 yun4 shu4 shi1 zhe2 jie4 yun4 cheng2 shang1 sou3 er4 shou3     qi2 yi1
+title: 李商叟舉似用南澗山字韻茶山星字韻數詩輒借韻呈商叟二首・其一
+titlePinyin: li3 shang1 sou3 ju3 si4 yong4 nan2 jian4 shan1 zi4 yun4 cha2 shan1 xing1 zi4 yun4 shu4 shi1 zhe2 jie4 yun4 cheng2 shang1 sou3 er4 shou3・qi2 yi1
 titleSlug: li-shang-sou-ju-si-yong-nan-jian-shan-zi-yun-cha-shan-xing-zi-yun-shu-shi-zhe-jie-yun-cheng-shang-sou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

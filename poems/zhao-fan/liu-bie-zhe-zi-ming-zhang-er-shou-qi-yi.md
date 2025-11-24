@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-zhe-zi-ming-zhang-er-shou-qi-yi
-title: 留別折子明丈二首  其一
-titlePinyin: liu2 bie2 zhe2 zi0 ming2 zhang4 er4 shou3     qi2 yi1
+title: 留別折子明丈二首・其一
+titlePinyin: liu2 bie2 zhe2 zi0 ming2 zhang4 er4 shou3・qi2 yi1
 titleSlug: liu-bie-zhe-zi-ming-zhang-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

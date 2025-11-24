@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-chun-ri-xie-hou-zhou-wen-xian-yu-zi-chang-xiong-xu-yin-jiu-lun-wen-huan-you-yu-ye-cheng-er-shou-qi-yi
-title: 立春日邂逅周文顯于子暢兄許飲酒論文歡有餘也成二首  其一
-titlePinyin: li4 chun1 ri4 xie4 hou4 zhou1 wen2 xian3 yu2 zi3 chang4 xiong1 xu1 yin3 jiu3 lun4 wen2 huan1 you3 yu2 ye3 cheng2 er4 shou3     qi2 yi1
+title: 立春日邂逅周文顯于子暢兄許飲酒論文歡有餘也成二首・其一
+titlePinyin: li4 chun1 ri4 xie4 hou4 zhou1 wen2 xian3 yu2 zi3 chang4 xiong1 xu1 yin3 jiu3 lun4 wen2 huan1 you3 yu2 ye3 cheng2 er4 shou3・qi2 yi1
 titleSlug: li-chun-ri-xie-hou-zhou-wen-xian-yu-zi-chang-xiong-xu-yin-jiu-lun-wen-huan-you-yu-ye-cheng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

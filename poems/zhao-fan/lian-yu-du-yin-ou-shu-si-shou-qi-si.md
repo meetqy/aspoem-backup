@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lian-yu-du-yin-ou-shu-si-shou-qi-si
-title: 連雨獨飲偶書四首  其四
-titlePinyin: lian2 yu3 du2 yin3 ou3 shu1 si4 shou3     qi2 si4
+title: 連雨獨飲偶書四首・其四
+titlePinyin: lian2 yu3 du2 yin3 ou3 shu1 si4 shou3・qi2 si4
 titleSlug: lian-yu-du-yin-ou-shu-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

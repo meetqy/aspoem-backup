@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-wen-shu-qie-wen-wei-zhi-jin-xun-wu-shou-qi-wu
-title: 寄文叔且問畏知近訊五首  其五
-titlePinyin: ji4 wen2 shu1 qie3 wen4 wei4 zhi1 jin4 xun4 wu3 shou3     qi2 wu3
+title: 寄文叔且問畏知近訊五首・其五
+titlePinyin: ji4 wen2 shu1 qie3 wen4 wei4 zhi1 jin4 xun4 wu3 shou3・qi2 wu3
 titleSlug: ji-wen-shu-qie-wen-wei-zhi-jin-xun-wu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

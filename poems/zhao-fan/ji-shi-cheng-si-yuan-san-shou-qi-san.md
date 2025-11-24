@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-shi-cheng-si-yuan-san-shou-qi-san
-title: 即事呈斯遠三首  其三
-titlePinyin: ji2 shi4 cheng2 si1 yuan3 san1 shou3     qi2 san1
+title: 即事呈斯遠三首・其三
+titlePinyin: ji2 shi4 cheng2 si1 yuan3 san1 shou3・qi2 san1
 titleSlug: ji-shi-cheng-si-yuan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

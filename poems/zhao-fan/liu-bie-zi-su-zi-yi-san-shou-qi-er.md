@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-zi-su-zi-yi-san-shou-qi-er
-title: 留別子肅子儀三首  其二
-titlePinyin: liu2 bie2 zi3 su4 zi3 yi2 san1 shou3     qi2 er4
+title: 留別子肅子儀三首・其二
+titlePinyin: liu2 bie2 zi3 su4 zi3 yi2 san1 shou3・qi2 er4
 titleSlug: liu-bie-zi-su-zi-yi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

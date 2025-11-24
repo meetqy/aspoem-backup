@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-kou-zhan-san-shou-qi-san
-title: 口占三首  其三
-titlePinyin: kou3 zhan4 san1 shou3     qi2 san1
+title: 口占三首・其三
+titlePinyin: kou3 zhan4 san1 shou3・qi2 san1
 titleSlug: kou-zhan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

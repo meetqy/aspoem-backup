@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-shang-sou-chuan-lu-lin-chuan-yu-li-shi-hou-chang-chou-huai-ceng-wen-qing-gong-chang-ju-yong-yun-zuo-si-shou-qi-yi
-title: 李商叟傳錄臨川與黎師侯唱酬懷曾文清公長句用韻作四首  其一
-titlePinyin: li3 shang1 sou3 chuan2 lu4 lin2 chuan1 yu3 li2 shi1 hou2 chang4 chou2 huai2 ceng2 wen2 qing1 gong1 chang2 ju4 yong4 yun4 zuo4 si4 shou3     qi2 yi1
+title: 李商叟傳錄臨川與黎師侯唱酬懷曾文清公長句用韻作四首・其一
+titlePinyin: li3 shang1 sou3 chuan2 lu4 lin2 chuan1 yu3 li2 shi1 hou2 chang4 chou2 huai2 ceng2 wen2 qing1 gong1 chang2 ju4 yong4 yun4 zuo4 si4 shou3・qi2 yi1
 titleSlug: li-shang-sou-chuan-lu-lin-chuan-yu-li-shi-hou-chang-chou-huai-ceng-wen-qing-gong-chang-ju-yong-yun-zuo-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

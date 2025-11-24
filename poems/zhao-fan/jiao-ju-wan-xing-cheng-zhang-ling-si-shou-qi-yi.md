@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiao-ju-wan-xing-cheng-zhang-ling-si-shou-qi-yi
-title: 郊居晚行呈章令四首  其一
-titlePinyin: jiao1 ju1 wan3 xing2 cheng2 zhang1 ling4 si4 shou3     qi2 yi1
+title: 郊居晚行呈章令四首・其一
+titlePinyin: jiao1 ju1 wan3 xing2 cheng2 zhang1 ling4 si4 shou3・qi2 yi1
 titleSlug: jiao-ju-wan-xing-cheng-zhang-ling-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

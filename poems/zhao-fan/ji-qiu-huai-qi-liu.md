@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-qiu-huai-qi-liu
-title: 寄秋懷  其六
-titlePinyin: ji4 qiu1 huai2     qi2 liu4
+title: 寄秋懷・其六
+titlePinyin: ji4 qiu1 huai2・qi2 liu4
 titleSlug: ji-qiu-huai-qi-liu
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bo-shan-shu-lai-yun-you-shi-zhu-wei-zao-yi-ting-liu-zi-cheng-ming-yue-zhu-xi-suo-shi-wei-fu-er-shou-qi-er
-title: 劉伯山書來云有施主爲造一亭劉子澄名曰竹溪索詩爲賦二首  其二
-titlePinyin: liu2 bo2 shan1 shu1 lai2 yun2 you3 shi1 zhu3 wei2 zao4 yi4 ting2 liu2 zi3 cheng2 ming2 yue1 zhu2 xi1 suo3 shi1 wei2 fu4 er4 shou3     qi2 er4
+title: 劉伯山書來云有施主爲造一亭劉子澄名曰竹溪索詩爲賦二首・其二
+titlePinyin: liu2 bo2 shan1 shu1 lai2 yun2 you3 shi1 zhu3 wei2 zao4 yi4 ting2 liu2 zi3 cheng2 ming2 yue1 zhu2 xi1 suo3 shi1 wei2 fu4 er4 shou3・qi2 er4
 titleSlug: liu-bo-shan-shu-lai-yun-you-shi-zhu-wei-zao-yi-ting-liu-zi-cheng-ming-yue-zhu-xi-suo-shi-wei-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

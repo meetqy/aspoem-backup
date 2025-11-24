@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-pu-ling-dao-zhong-si-shou-qi-yi
-title: 澗舖嶺道中四首  其一
-titlePinyin: jian4 pu4 ling3 dao4 zhong1 si4 shou3     qi2 yi1
+title: 澗舖嶺道中四首・其一
+titlePinyin: jian4 pu4 ling3 dao4 zhong1 si4 shou3・qi2 yi1
 titleSlug: jian-pu-ling-dao-zhong-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

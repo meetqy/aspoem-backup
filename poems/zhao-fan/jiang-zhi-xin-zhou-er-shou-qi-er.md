@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiang-zhi-xin-zhou-er-shou-qi-er
-title: 將至信州二首  其二
-titlePinyin: jiang1 zhi4 xin4 zhou1 er4 shou3     qi2 er4
+title: 將至信州二首・其二
+titlePinyin: jiang1 zhi4 xin4 zhou1 er4 shou3・qi2 er4
 titleSlug: jiang-zhi-xin-zhou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

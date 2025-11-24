@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jin-zhi-fu-you-xiang-tan-zhi-yi-er-shi-jian-xi-bie-yi-qi-er
-title: 進之復有湘潭之役二詩見惜別意  其二
-titlePinyin: jin4 zhi1 fu4 you3 xiang1 tan2 zhi1 yi4 er4 shi1 jian4 xi1 bie2 yi4     qi2 er4
+title: 進之復有湘潭之役二詩見惜別意・其二
+titlePinyin: jin4 zhi1 fu4 you3 xiang1 tan2 zhi1 yi4 er4 shi1 jian4 xi1 bie2 yi4・qi2 er4
 titleSlug: jin-zhi-fu-you-xiang-tan-zhi-yi-er-shi-jian-xi-bie-yi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

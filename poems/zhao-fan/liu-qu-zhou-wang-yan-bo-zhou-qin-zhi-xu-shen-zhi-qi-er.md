@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-qu-zhou-wang-yan-bo-zhou-qin-zhi-xu-shen-zhi-qi-er
-title: 留衢州王彥博周欽止徐審知  其二
-titlePinyin: liu2 qu2 zhou1 wang2 yan4 bo2 zhou1 qin1 zhi3 xu2 shen3 zhi1     qi2 er4
+title: 留衢州王彥博周欽止徐審知・其二
+titlePinyin: liu2 qu2 zhou1 wang2 yan4 bo2 zhou1 qin1 zhi3 xu2 shen3 zhi1・qi2 er4
 titleSlug: liu-qu-zhou-wang-yan-bo-zhou-qin-zhi-xu-shen-zhi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

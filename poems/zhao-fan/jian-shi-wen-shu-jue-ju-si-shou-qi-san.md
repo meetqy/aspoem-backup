@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-shi-wen-shu-jue-ju-si-shou-qi-san
-title: 簡施文叔絕句四首  其三
-titlePinyin: jian3 shi1 wen2 shu1 jue2 ju4 si4 shou3     qi2 san1
+title: 簡施文叔絕句四首・其三
+titlePinyin: jian3 shi1 wen2 shu1 jue2 ju4 si4 shou3・qi2 san1
 titleSlug: jian-shi-wen-shu-jue-ju-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

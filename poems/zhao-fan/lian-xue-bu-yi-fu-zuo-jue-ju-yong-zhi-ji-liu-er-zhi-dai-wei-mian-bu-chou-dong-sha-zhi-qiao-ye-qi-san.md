@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lian-xue-bu-yi-fu-zuo-jue-ju-yong-zhi-ji-liu-er-zhi-dai-wei-mian-bu-chou-dong-sha-zhi-qiao-ye-qi-san
-title: 連雪不已復作絕句詠之及六而止殆未免不愁凍殺之誚也  其三
-titlePinyin: lian2 xue3 bu4 yi3 fu4 zuo4 jue2 ju4 yong3 zhi1 ji2 liu4 er2 zhi3 dai4 wei4 mian3 bu4 chou2 dong4 sha1 zhi1 qiao4 ye3     qi2 san1
+title: 連雪不已復作絕句詠之及六而止殆未免不愁凍殺之誚也・其三
+titlePinyin: lian2 xue3 bu4 yi3 fu4 zuo4 jue2 ju4 yong3 zhi1 ji2 liu4 er2 zhi3 dai4 wei4 mian3 bu4 chou2 dong4 sha1 zhi1 qiao4 ye3・qi2 san1
 titleSlug: lian-xue-bu-yi-fu-zuo-jue-ju-yong-zhi-ji-liu-er-zhi-dai-wei-mian-bu-chou-dong-sha-zhi-qiao-ye-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

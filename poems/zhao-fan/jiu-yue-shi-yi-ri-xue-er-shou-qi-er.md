@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiu-yue-shi-yi-ri-xue-er-shou-qi-er
-title: 九月十一日雪二首  其二
-titlePinyin: jiu3 yue4 shi2 yi1 ri4 xue3 er4 shou3     qi2 er4
+title: 九月十一日雪二首・其二
+titlePinyin: jiu3 yue4 shi2 yi1 ri4 xue3 er4 shou3・qi2 er4
 titleSlug: jiu-yue-shi-yi-ri-xue-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

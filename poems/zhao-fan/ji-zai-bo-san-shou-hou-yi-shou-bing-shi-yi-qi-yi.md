@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zai-bo-san-shou-hou-yi-shou-bing-shi-yi-qi-yi
-title: 寄在伯三首後一首併示逸  其一
-titlePinyin: ji4 zai4 bo2 san1 shou3 hou4 yi4 shou3 bing4 shi4 yi4     qi2 yi1
+title: 寄在伯三首後一首併示逸・其一
+titlePinyin: ji4 zai4 bo2 san1 shou3 hou4 yi4 shou3 bing4 shi4 yi4・qi2 yi1
 titleSlug: ji-zai-bo-san-shou-hou-yi-shou-bing-shi-yi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

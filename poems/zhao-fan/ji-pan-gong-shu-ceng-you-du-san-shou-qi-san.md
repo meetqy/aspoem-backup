@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-pan-gong-shu-ceng-you-du-san-shou-qi-san
-title: 寄潘恭叔曾幼度三首  其三
-titlePinyin: ji4 pan1 gong1 shu1 ceng2 you4 du4 san1 shou3     qi2 san1
+title: 寄潘恭叔曾幼度三首・其三
+titlePinyin: ji4 pan1 gong1 shu1 ceng2 you4 du4 san1 shou3・qi2 san1
 titleSlug: ji-pan-gong-shu-ceng-you-du-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-song-pan-wen-shu-gong-shu-er-shou-qi-er
-title: 寄送潘文叔恭叔二首  其二
-titlePinyin: ji4 song4 pan1 wen2 shu1 gong1 shu1 er4 shou3     qi2 er4
+title: 寄送潘文叔恭叔二首・其二
+titlePinyin: ji4 song4 pan1 wen2 shu1 gong1 shu1 er4 shou3・qi2 er4
 titleSlug: ji-song-pan-wen-shu-gong-shu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

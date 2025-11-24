@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zhou-wen-xian-er-shou-qi-yi
-title: 寄周文顯二首  其一
-titlePinyin: ji4 zhou1 wen2 xian3 er4 shou3     qi2 yi1
+title: 寄周文顯二首・其一
+titlePinyin: ji4 zhou1 wen2 xian3 er4 shou3・qi2 yi1
 titleSlug: ji-zhou-wen-xian-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jin-zhi-xue-zhong-jian-guo-ming-ri-gui-xiang-tan-zai-yong-qian-yun-er-shou-qi-yi
-title: 進之雪中見過明日歸湘潭再用前韵二首  其一
-titlePinyin: jin4 zhi1 xue3 zhong1 jian4 guo4 ming2 ri4 gui1 xiang1 tan2 zai4 yong4 qian2 yun4 er4 shou3     qi2 yi1
+title: 進之雪中見過明日歸湘潭再用前韵二首・其一
+titlePinyin: jin4 zhi1 xue3 zhong1 jian4 guo4 ming2 ri4 gui1 xiang1 tan2 zai4 yong4 qian2 yun4 er4 shou3・qi2 yi1
 titleSlug: jin-zhi-xue-zhong-jian-guo-ming-ri-gui-xiang-tan-zai-yong-qian-yun-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-mai-mei-hua-zhe-zuo-mai-hua-xing-qi-er
-title: 見賣梅花者作賣花行  其二
-titlePinyin: jian4 mai4 mei2 hua1 zhe3 zuo4 mai4 hua1 xing2     qi2 er4
+title: 見賣梅花者作賣花行・其二
+titlePinyin: jian4 mai4 mei2 hua1 zhe3 zuo4 mai4 hua1 xing2・qi2 er4
 titleSlug: jian-mai-mei-hua-zhe-zuo-mai-hua-xing-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

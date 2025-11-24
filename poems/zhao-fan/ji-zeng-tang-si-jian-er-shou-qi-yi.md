@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zeng-tang-si-jian-er-shou-qi-yi
-title: 寄贈湯司諫二首  其一
-titlePinyin: ji4 zeng4 tang1 si1 jian4 er4 shou3     qi2 yi1
+title: 寄贈湯司諫二首・其一
+titlePinyin: ji4 zeng4 tang1 si1 jian4 er4 shou3・qi2 yi1
 titleSlug: ji-zeng-tang-si-jian-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

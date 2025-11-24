@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lian-ri-yu-zuo-dun-you-qiu-yi-huai-gan-zhi-yu-de-shi-qi-shou-shu-cheng-jiao-shou-zhi-xian-qi-san
-title: 連日雨作頓有秋意懷感之餘得詩七首書呈教授知縣  其三
-titlePinyin: lian2 ri4 yu3 zuo4 dun4 you3 qiu1 yi4 huai2 gan3 zhi1 yu2 de2 shi1 qi1 shou3 shu1 cheng2 jiao4 shou4 zhi1 xian4     qi2 san1
+title: 連日雨作頓有秋意懷感之餘得詩七首書呈教授知縣・其三
+titlePinyin: lian2 ri4 yu3 zuo4 dun4 you3 qiu1 yi4 huai2 gan3 zhi1 yu2 de2 shi1 qi1 shou3 shu1 cheng2 jiao4 shou4 zhi1 xian4・qi2 san1
 titleSlug: lian-ri-yu-zuo-dun-you-qiu-yi-huai-gan-zhi-yu-de-shi-qi-shou-shu-cheng-jiao-shou-zhi-xian-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

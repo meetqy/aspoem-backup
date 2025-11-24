@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-yue-shi-wu-ri-shi-min-yu-shen-yi-san-shou-qi-er
-title: 六月十五日時閔雨甚矣三首  其二
-titlePinyin: liu4 yue4 shi2 wu3 ri4 shi2 min3 yu3 shen4 yi3 san1 shou3     qi2 er4
+title: 六月十五日時閔雨甚矣三首・其二
+titlePinyin: liu4 yue4 shi2 wu3 ri4 shi2 min3 yu3 shen4 yi3 san1 shou3・qi2 er4
 titleSlug: liu-yue-shi-wu-ri-shi-min-yu-shen-yi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

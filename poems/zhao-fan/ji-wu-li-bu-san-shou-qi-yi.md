@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-wu-li-bu-san-shou-qi-yi
-title: 寄吳吏部三首  其一
-titlePinyin: ji4 wu2 li4 bu4 san1 shou3     qi2 yi1
+title: 寄吳吏部三首・其一
+titlePinyin: ji4 wu2 li4 bu4 san1 shou3・qi2 yi1
 titleSlug: ji-wu-li-bu-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

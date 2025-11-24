@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-yu-shu-qi-zhang-er-shou-qi-er
-title: 寄喻叔奇丈二首  其二
-titlePinyin: ji4 yu4 shu1 qi2 zhang4 er4 shou3     qi2 er4
+title: 寄喻叔奇丈二首・其二
+titlePinyin: ji4 yu4 shu1 qi2 zhang4 er4 shou3・qi2 er4
 titleSlug: ji-yu-shu-qi-zhang-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-shi-er-shou-qi-er
-title: 即事二首  其二
-titlePinyin: ji2 shi4 er4 shou3     qi2 er4
+title: 即事二首・其二
+titlePinyin: ji2 shi4 er4 shou3・qi2 er4
 titleSlug: ji-shi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

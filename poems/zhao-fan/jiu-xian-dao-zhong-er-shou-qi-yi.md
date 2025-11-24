@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiu-xian-dao-zhong-er-shou-qi-yi
-title: 舊縣道中二首  其一
-titlePinyin: jiu4 xian4 dao4 zhong1 er4 shou3     qi2 yi1
+title: 舊縣道中二首・其一
+titlePinyin: jiu4 xian4 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: jiu-xian-dao-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

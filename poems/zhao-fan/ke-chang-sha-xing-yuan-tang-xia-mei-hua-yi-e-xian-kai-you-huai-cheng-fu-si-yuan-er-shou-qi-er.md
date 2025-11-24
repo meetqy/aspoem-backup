@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ke-chang-sha-xing-yuan-tang-xia-mei-hua-yi-e-xian-kai-you-huai-cheng-fu-si-yuan-er-shou-qi-er
-title: 客長沙邢園堂下梅花一萼先開有懷成父斯遠二首  其二
-titlePinyin: ke4 chang2 sha1 xing2 yuan2 tang2 xia4 mei2 hua1 yi2 e4 xian1 kai1 you3 huai2 cheng2 fu4 si1 yuan3 er4 shou3     qi2 er4
+title: 客長沙邢園堂下梅花一萼先開有懷成父斯遠二首・其二
+titlePinyin: ke4 chang2 sha1 xing2 yuan2 tang2 xia4 mei2 hua1 yi2 e4 xian1 kai1 you3 huai2 cheng2 fu4 si1 yuan3 er4 shou3・qi2 er4
 titleSlug: ke-chang-sha-xing-yuan-tang-xia-mei-hua-yi-e-xian-kai-you-huai-cheng-fu-si-yuan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-jian-ke-mi-hua-san-shou-qi-yi
-title: 簡見可覓畫三首  其一
-titlePinyin: jian3 jian4 ke3 mi4 hua4 san1 shou3     qi2 yi1
+title: 簡見可覓畫三首・其一
+titlePinyin: jian3 jian4 ke3 mi4 hua4 san1 shou3・qi2 yi1
 titleSlug: jian-jian-ke-mi-hua-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

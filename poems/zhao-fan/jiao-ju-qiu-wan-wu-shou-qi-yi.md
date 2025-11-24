@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiao-ju-qiu-wan-wu-shou-qi-yi
-title: 郊居秋晚五首  其一
-titlePinyin: jiao1 ju1 qiu1 wan3 wu3 shou3     qi2 yi1
+title: 郊居秋晚五首・其一
+titlePinyin: jiao1 ju1 qiu1 wan3 wu3 shou3・qi2 yi1
 titleSlug: jiao-ju-qiu-wan-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

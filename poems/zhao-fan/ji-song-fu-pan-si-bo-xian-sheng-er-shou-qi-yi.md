@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-song-fu-pan-si-bo-xian-sheng-er-shou-qi-yi
-title: 寄送府判寺簿先生二首  其一
-titlePinyin: ji4 song4 fu3 pan4 si4 bo2 xian1 sheng0 er4 shou3     qi2 yi1
+title: 寄送府判寺簿先生二首・其一
+titlePinyin: ji4 song4 fu3 pan4 si4 bo2 xian1 sheng0 er4 shou3・qi2 yi1
 titleSlug: ji-song-fu-pan-si-bo-xian-sheng-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

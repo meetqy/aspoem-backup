@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-chun-qi-yi
-title: 立春  其一
-titlePinyin: li4 chun1     qi2 yi1
+title: 立春・其一
+titlePinyin: li4 chun1・qi2 yi1
 titleSlug: li-chun-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

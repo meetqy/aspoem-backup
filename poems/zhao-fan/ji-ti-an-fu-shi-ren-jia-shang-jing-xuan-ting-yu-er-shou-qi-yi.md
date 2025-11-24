@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-ti-an-fu-shi-ren-jia-shang-jing-xuan-ting-yu-er-shou-qi-yi
-title: 寄題安福士人家賞靜軒聽雨二首  其一
-titlePinyin: ji4 ti2 an1 fu2 shi4 ren2 jia1 shang3 jing4 xuan1 ting1 yu3 er4 shou3     qi2 yi1
+title: 寄題安福士人家賞靜軒聽雨二首・其一
+titlePinyin: ji4 ti2 an1 fu2 shi4 ren2 jia1 shang3 jing4 xuan1 ting1 yu3 er4 shou3・qi2 yi1
 titleSlug: ji-ti-an-fu-shi-ren-jia-shang-jing-xuan-ting-yu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

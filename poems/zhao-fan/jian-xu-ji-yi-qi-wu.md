@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-xu-ji-yi-qi-wu
-title: 簡徐季益  其五
-titlePinyin: jian3 xu2 ji4 yi4     qi2 wu3
+title: 簡徐季益・其五
+titlePinyin: jian3 xu2 ji4 yi4・qi2 wu3
 titleSlug: jian-xu-ji-yi-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

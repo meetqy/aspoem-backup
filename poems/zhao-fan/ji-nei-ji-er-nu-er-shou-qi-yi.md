@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-nei-ji-er-nu-er-shou-qi-yi
-title: 寄內及兒女二首  其一
-titlePinyin: ji4 nei4 ji2 er2 nü3 er4 shou3     qi2 yi1
+title: 寄內及兒女二首・其一
+titlePinyin: ji4 nei4 ji2 er2 nü3 er4 shou3・qi2 yi1
 titleSlug: ji-nei-ji-er-nu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

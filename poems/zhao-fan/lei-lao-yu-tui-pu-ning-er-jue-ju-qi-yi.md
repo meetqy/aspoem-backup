@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-lei-lao-yu-tui-pu-ning-er-jue-ju-qi-yi
-title: 雷老欲退普寧二絕句  其一
-titlePinyin: lei2 lao3 yu4 tui4 pu3 ning2 er4 jue2 ju4     qi2 yi1
+title: 雷老欲退普寧二絕句・其一
+titlePinyin: lei2 lao3 yu4 tui4 pu3 ning2 er4 jue2 ju4・qi2 yi1
 titleSlug: lei-lao-yu-tui-pu-ning-er-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

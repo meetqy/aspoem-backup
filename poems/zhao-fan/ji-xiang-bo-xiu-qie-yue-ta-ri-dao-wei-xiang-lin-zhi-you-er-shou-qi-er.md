@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-xiang-bo-xiu-qie-yue-ta-ri-dao-wei-xiang-lin-zhi-you-er-shou-qi-er
-title: 寄向伯休且約他日道爲薌林之遊二首  其二
-titlePinyin: ji4 xiang4 bo2 xiu1 qie3 yue1 ta1 ri4 dao4 wei2 xiang1 lin2 zhi1 you2 er4 shou3     qi2 er4
+title: 寄向伯休且約他日道爲薌林之遊二首・其二
+titlePinyin: ji4 xiang4 bo2 xiu1 qie3 yue1 ta1 ri4 dao4 wei2 xiang1 lin2 zhi1 you2 er4 shou3・qi2 er4
 titleSlug: ji-xiang-bo-xiu-qie-yue-ta-ri-dao-wei-xiang-lin-zhi-you-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

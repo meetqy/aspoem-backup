@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-yong-he-shi-suo-jiu-yong-yun-song-jiu-er-shou-qi-er
-title: 季永和詩索酒用韻送酒二首  其二
-titlePinyin: ji4 yong3 he2 shi1 suo3 jiu3 yong4 yun4 song4 jiu3 er4 shou3     qi2 er4
+title: 季永和詩索酒用韻送酒二首・其二
+titlePinyin: ji4 yong3 he2 shi1 suo3 jiu3 yong4 yun4 song4 jiu3 er4 shou3・qi2 er4
 titleSlug: ji-yong-he-shi-suo-jiu-yong-yun-song-jiu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

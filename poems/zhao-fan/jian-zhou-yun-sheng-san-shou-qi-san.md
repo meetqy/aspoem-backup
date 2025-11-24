@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-zhou-yun-sheng-san-shou-qi-san
-title: 簡周允升三首  其三
-titlePinyin: jian3 zhou1 yun3 sheng1 san1 shou3     qi2 san1
+title: 簡周允升三首・其三
+titlePinyin: jian3 zhou1 yun3 sheng1 san1 shou3・qi2 san1
 titleSlug: jian-zhou-yun-sheng-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

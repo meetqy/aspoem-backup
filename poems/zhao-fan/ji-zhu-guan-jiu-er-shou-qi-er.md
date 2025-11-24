@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zhu-guan-jiu-er-shou-qi-er
-title: 寄主管舅二首  其二
-titlePinyin: ji4 zhu3 guan3 jiu4 er4 shou3     qi2 er4
+title: 寄主管舅二首・其二
+titlePinyin: ji4 zhu3 guan3 jiu4 er4 shou3・qi2 er4
 titleSlug: ji-zhu-guan-jiu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

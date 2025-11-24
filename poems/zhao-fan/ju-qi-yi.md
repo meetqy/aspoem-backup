@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ju-qi-yi
-title: 句  其一
-titlePinyin: ju4     qi2 yi1
+title: 句・其一
+titlePinyin: ju4・qi2 yi1
 titleSlug: ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-liang-jian-fa-shu-huai-ba-jue-ju-yu-guang-wen-wei-cao-chu-ci-yun-qi-liu
-title: 見梁檢法書懷八絕句于廣文尉曹處次韻  其六
-titlePinyin: jian4 liang2 jian3 fa3 shu1 huai2 ba1 jue2 ju4 yu2 guang3 wen2 wei4 cao2 chu3 ci4 yun4     qi2 liu4
+title: 見梁檢法書懷八絕句于廣文尉曹處次韻・其六
+titlePinyin: jian4 liang2 jian3 fa3 shu1 huai2 ba1 jue2 ju4 yu2 guang3 wen2 wei4 cao2 chu3 ci4 yun4・qi2 liu4
 titleSlug: jian-liang-jian-fa-shu-huai-ba-jue-ju-yu-guang-wen-wei-cao-chu-ci-yun-qi-liu
 author: 趙蕃
 authorPinyin: zhao4 fan1

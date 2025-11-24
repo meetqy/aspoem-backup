@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-zhao-yuan-gui-bing-shu-yuan-mo-san-shou-qi-er
-title: 寄趙元歸并屬元默三首  其二
-titlePinyin: ji4 zhao4 yuan2 gui1 bing4 shu3 yuan2 mo4 san1 shou3     qi2 er4
+title: 寄趙元歸并屬元默三首・其二
+titlePinyin: ji4 zhao4 yuan2 gui1 bing4 shu3 yuan2 mo4 san1 shou3・qi2 er4
 titleSlug: ji-zhao-yuan-gui-bing-shu-yuan-mo-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

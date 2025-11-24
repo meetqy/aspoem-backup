@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiu-yue-yi-ri-chen-qi-feng-wu-qi-ran-bu-sheng-huai-yuan-zhi-si-zuo-wu-shou-ji-he-fu-han-shen-bing-fan-zhuan-zhi-hu-chi-er-zhou-ye-qi-si
-title: 九月一日晨起風物凄然不勝懷遠之思作五首寄和父憨申併煩轉致湖池二州也  其四
-titlePinyin: jiu3 yue4 yi1 ri4 chen2 qi3 feng1 wu4 qi1 ran2 bu2 sheng4 huai2 yuan3 zhi1 si1 zuo4 wu3 shou3 ji4 he2 fu4 han1 shen1 bing4 fan2 zhuan3 zhi4 hu2 chi2 er4 zhou1 ye3     qi2 si4
+title: 九月一日晨起風物凄然不勝懷遠之思作五首寄和父憨申併煩轉致湖池二州也・其四
+titlePinyin: jiu3 yue4 yi1 ri4 chen2 qi3 feng1 wu4 qi1 ran2 bu2 sheng4 huai2 yuan3 zhi1 si1 zuo4 wu3 shou3 ji4 he2 fu4 han1 shen1 bing4 fan2 zhuan3 zhi4 hu2 chi2 er4 zhou1 ye3・qi2 si4
 titleSlug: jiu-yue-yi-ri-chen-qi-feng-wu-qi-ran-bu-sheng-huai-yuan-zhi-si-zuo-wu-shou-ji-he-fu-han-shen-bing-fan-zhuan-zhi-hu-chi-er-zhou-ye-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

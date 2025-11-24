@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-chun-qi-san
-title: 立春  其三
-titlePinyin: li4 chun1     qi2 san1
+title: 立春・其三
+titlePinyin: li4 chun1・qi2 san1
 titleSlug: li-chun-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

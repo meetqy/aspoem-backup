@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-liu-bie-zhou-can-zheng-shi-er-shou-qi-er
-title: 留別周參政詩二首  其二
-titlePinyin: liu2 bie2 zhou1 can1 zheng4 shi1 er4 shou3     qi2 er4
+title: 留別周參政詩二首・其二
+titlePinyin: liu2 bie2 zhou1 can1 zheng4 shi1 er4 shou3・qi2 er4
 titleSlug: liu-bie-zhou-can-zheng-shi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

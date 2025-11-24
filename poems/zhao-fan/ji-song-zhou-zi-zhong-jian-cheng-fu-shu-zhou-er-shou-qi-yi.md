@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ji-song-zhou-zi-zhong-jian-cheng-fu-shu-zhou-er-shou-qi-yi
-title: 寄送周子中監丞赴舒州二首  其一
-titlePinyin: ji4 song4 zhou1 zi3 zhong1 jian1 cheng2 fu4 shu1 zhou1 er4 shou3     qi2 yi1
+title: 寄送周子中監丞赴舒州二首・其一
+titlePinyin: ji4 song4 zhou1 zi3 zhong1 jian1 cheng2 fu4 shu1 zhou1 er4 shou3・qi2 yi1
 titleSlug: ji-song-zhou-zi-zhong-jian-cheng-fu-shu-zhou-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jian-yan-cheng-wu-er-shou-qi-er
-title: 簡嚴承務二首  其二
-titlePinyin: jian3 yan2 cheng2 wu4 er4 shou3     qi2 er4
+title: 簡嚴承務二首・其二
+titlePinyin: jian3 yan2 cheng2 wu4 er4 shou3・qi2 er4
 titleSlug: jian-yan-cheng-wu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

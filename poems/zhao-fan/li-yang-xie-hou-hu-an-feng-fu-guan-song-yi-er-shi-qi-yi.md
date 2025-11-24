@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-li-yang-xie-hou-hu-an-feng-fu-guan-song-yi-er-shi-qi-yi
-title: 溧陽邂逅胡安豐赴官送以二詩  其一
-titlePinyin: li4 yang2 xie4 hou4 hu2 an1 feng1 fu4 guan1 song4 yi3 er4 shi1     qi2 yi1
+title: 溧陽邂逅胡安豐赴官送以二詩・其一
+titlePinyin: li4 yang2 xie4 hou4 hu2 an1 feng1 fu4 guan1 song4 yi3 er4 shi1・qi2 yi1
 titleSlug: li-yang-xie-hou-hu-an-feng-fu-guan-song-yi-er-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

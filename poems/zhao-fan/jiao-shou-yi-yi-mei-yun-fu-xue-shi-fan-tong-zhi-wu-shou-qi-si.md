@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiao-shou-yi-yi-mei-yun-fu-xue-shi-fan-tong-zhi-wu-shou-qi-si
-title: 教授以憶梅韵賦雪詩蕃同之五首  其四
-titlePinyin: jiao4 shou4 yi3 yi4 mei2 yun4 fu4 xue3 shi1 fan1 tong2 zhi1 wu3 shou3     qi2 si4
+title: 教授以憶梅韵賦雪詩蕃同之五首・其四
+titlePinyin: jiao4 shou4 yi3 yi4 mei2 yun4 fu4 xue3 shi1 fan1 tong2 zhi1 wu3 shou3・qi2 si4
 titleSlug: jiao-shou-yi-yi-mei-yun-fu-xue-shi-fan-tong-zhi-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

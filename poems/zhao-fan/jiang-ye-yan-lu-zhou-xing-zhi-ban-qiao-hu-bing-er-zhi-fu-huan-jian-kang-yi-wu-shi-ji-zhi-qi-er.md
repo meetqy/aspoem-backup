@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-jiang-ye-yan-lu-zhou-xing-zhi-ban-qiao-hu-bing-er-zhi-fu-huan-jian-kang-yi-wu-shi-ji-zhi-qi-er
-title: 將謁延廬州行至板橋忽病而止復還建康以五詩寄之  其二
-titlePinyin: jiang1 ye4 yan2 lu2 zhou1 xing2 zhi4 ban3 qiao2 hu1 bing4 er2 zhi3 fu4 huan2 jian4 kang1 yi3 wu3 shi1 ji4 zhi1     qi2 er4
+title: 將謁延廬州行至板橋忽病而止復還建康以五詩寄之・其二
+titlePinyin: jiang1 ye4 yan2 lu2 zhou1 xing2 zhi4 ban3 qiao2 hu1 bing4 er2 zhi3 fu4 huan2 jian4 kang1 yi3 wu3 shi1 ji4 zhi1・qi2 er4
 titleSlug: jiang-ye-yan-lu-zhou-xing-zhi-ban-qiao-hu-bing-er-zhi-fu-huan-jian-kang-yi-wu-shi-ji-zhi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1
