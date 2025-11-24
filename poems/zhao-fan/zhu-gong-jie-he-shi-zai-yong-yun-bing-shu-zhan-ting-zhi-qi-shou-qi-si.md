@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhu-gong-jie-he-shi-zai-yong-yun-bing-shu-zhan-ting-zhi-qi-shou-qi-si
-title: 諸公皆和詩再用韻併屬湛挺之七首  其四
-titlePinyin: zhu1 gong1 jie1 he2 shi1 zai4 yong4 yun4 bing4 shu3 zhan4 ting3 zhi1 qi1 shou3     qi2 si4
+title: 諸公皆和詩再用韻併屬湛挺之七首・其四
+titlePinyin: zhu1 gong1 jie1 he2 shi1 zai4 yong4 yun4 bing4 shu3 zhan4 ting3 zhi1 qi1 shou3・qi2 si4
 titleSlug: zhu-gong-jie-he-shi-zai-yong-yun-bing-shu-zhan-ting-zhi-qi-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

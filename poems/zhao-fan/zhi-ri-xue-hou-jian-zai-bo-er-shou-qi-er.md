@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhi-ri-xue-hou-jian-zai-bo-er-shou-qi-er
-title: 至日雪後簡在伯二首  其二
-titlePinyin: zhi4 ri4 xue3 hou4 jian3 zai4 bo2 er4 shou3     qi2 er4
+title: 至日雪後簡在伯二首・其二
+titlePinyin: zhi4 ri4 xue3 hou4 jian3 zai4 bo2 er4 shou3・qi2 er4
 titleSlug: zhi-ri-xue-hou-jian-zai-bo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

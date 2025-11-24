@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-you-jian-zheng-si-shou-qi-yi
-title: 贈尤檢正四首  其一
-titlePinyin: zeng4 you2 jian3 zheng4 si4 shou3     qi2 yi1
+title: 贈尤檢正四首・其一
+titlePinyin: zeng4 you2 jian3 zheng4 si4 shou3・qi2 yi1
 titleSlug: zeng-you-jian-zheng-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

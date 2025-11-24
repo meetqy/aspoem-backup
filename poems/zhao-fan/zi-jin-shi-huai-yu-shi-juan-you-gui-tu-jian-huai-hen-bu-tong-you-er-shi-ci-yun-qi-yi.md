@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-jin-shi-huai-yu-shi-juan-you-gui-tu-jian-huai-hen-bu-tong-you-er-shi-ci-yun-qi-yi
-title: 子進示懷玉詩卷有歸途見懷恨不同遊二詩次韻  其一
-titlePinyin: zi3 jin4 shi4 huai2 yu4 shi1 juan4 you3 gui1 tu2 jian4 huai2 hen4 bu4 tong2 you2 er4 shi1 ci4 yun4     qi2 yi1
+title: 子進示懷玉詩卷有歸途見懷恨不同遊二詩次韻・其一
+titlePinyin: zi3 jin4 shi4 huai2 yu4 shi1 juan4 you3 gui1 tu2 jian4 huai2 hen4 bu4 tong2 you2 er4 shi1 ci4 yun4・qi2 yi1
 titleSlug: zi-jin-shi-huai-yu-shi-juan-you-gui-tu-jian-huai-hen-bu-tong-you-er-shi-ci-yun-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

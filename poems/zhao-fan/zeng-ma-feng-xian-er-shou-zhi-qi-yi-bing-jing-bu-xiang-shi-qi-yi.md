@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-ma-feng-xian-er-shou-zhi-qi-yi-bing-jing-bu-xiang-shi-qi-yi
-title: 贈馬奉先二首值其已病竟不相識  其一
-titlePinyin: zeng4 ma3 feng4 xian1 er4 shou3 zhi2 qi2 yi3 bing4 jing4 bu4 xiang1 shi2     qi2 yi1
+title: 贈馬奉先二首值其已病竟不相識・其一
+titlePinyin: zeng4 ma3 feng4 xian1 er4 shou3 zhi2 qi2 yi3 bing4 jing4 bu4 xiang1 shi2・qi2 yi1
 titleSlug: zeng-ma-feng-xian-er-shou-zhi-qi-yi-bing-jing-bu-xiang-shi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-bie-zhou-wen-xian-san-shou-qi-er
-title: 贈別周文顯三首  其二
-titlePinyin: zeng4 bie2 zhou1 wen2 xian3 san1 shou3     qi2 er4
+title: 贈別周文顯三首・其二
+titlePinyin: zeng4 bie2 zhou1 wen2 xian3 san1 shou3・qi2 er4
 titleSlug: zeng-bie-zhou-wen-xian-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

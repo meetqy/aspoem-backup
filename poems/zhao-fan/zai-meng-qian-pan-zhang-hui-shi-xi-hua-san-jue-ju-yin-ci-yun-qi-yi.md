@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-meng-qian-pan-zhang-hui-shi-xi-hua-san-jue-ju-yin-ci-yun-qi-yi
-title: 再蒙簽判丈惠示惜花三絕句因次韻  其一
-titlePinyin: zai4 meng2 qian1 pan4 zhang4 hui4 shi4 xi1 hua1 san1 jue2 ju4 yin1 ci4 yun4     qi2 yi1
+title: 再蒙簽判丈惠示惜花三絕句因次韻・其一
+titlePinyin: zai4 meng2 qian1 pan4 zhang4 hui4 shi4 xi1 hua1 san1 jue2 ju4 yin1 ci4 yun4・qi2 yi1
 titleSlug: zai-meng-qian-pan-zhang-hui-shi-xi-hua-san-jue-ju-yin-ci-yun-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

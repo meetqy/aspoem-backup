@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-bo-kao-shi-wei-gui-you-huai-qi-san
-title: 在伯考試未歸有懷  其三
-titlePinyin: zai4 bo2 kao3 shi4 wei4 gui1 you3 huai2     qi2 san1
+title: 在伯考試未歸有懷・其三
+titlePinyin: zai4 bo2 kao3 shi4 wei4 gui1 you3 huai2・qi2 san1
 titleSlug: zai-bo-kao-shi-wei-gui-you-huai-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

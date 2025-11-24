@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-xiao-can-yi-de-zao-er-shou-qi-er
-title: 贈蕭參議德藻二首  其二
-titlePinyin: zeng4 xiao1 can1 yi4 de2 zao3 er4 shou3     qi2 er4
+title: 贈蕭參議德藻二首・其二
+titlePinyin: zeng4 xiao1 can1 yi4 de2 zao3 er4 shou3・qi2 er4
 titleSlug: zeng-xiao-can-yi-de-zao-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

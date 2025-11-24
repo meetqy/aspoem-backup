@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yue-yan-qi-er
-title: 月巖  其二
-titlePinyin: yue4 yan2     qi2 er4
+title: 月巖・其二
+titlePinyin: yue4 yan2・qi2 er4
 titleSlug: yue-yan-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zuo-ri-jue-hu-po-wei-zhui-fu-er-shi-qi-er
-title: 昨日絕湖頗危追賦二詩  其二
-titlePinyin: zuo2 ri4 jue2 hu2 po1 wei1 zhui1 fu4 er4 shi1     qi2 er4
+title: 昨日絕湖頗危追賦二詩・其二
+titlePinyin: zuo2 ri4 jue2 hu2 po1 wei1 zhui1 fu4 er4 shi1・qi2 er4
 titleSlug: zuo-ri-jue-hu-po-wei-zhui-fu-er-shi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-za-yong-qi-er
-title: 雜詠  其二
-titlePinyin: za2 yong3     qi2 er4
+title: 雜詠・其二
+titlePinyin: za2 yong3・qi2 er4
 titleSlug: za-yong-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

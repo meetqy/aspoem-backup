@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-zhong-wan-zuo-er-jue-qi-er
-title: 舟中晚作二絕  其二
-titlePinyin: zhou1 zhong1 wan3 zuo4 er4 jue2     qi2 er4
+title: 舟中晚作二絕・其二
+titlePinyin: zhou1 zhong1 wan3 zuo4 er4 jue2・qi2 er4
 titleSlug: zhou-zhong-wan-zuo-er-jue-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

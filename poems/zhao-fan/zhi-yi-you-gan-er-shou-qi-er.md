@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhi-yi-you-gan-er-shou-qi-er
-title: 至邑有感二首  其二
-titlePinyin: zhi4 yi4 you3 gan3 er4 shou3     qi2 er4
+title: 至邑有感二首・其二
+titlePinyin: zhi4 yi4 you3 gan3 er4 shou3・qi2 er4
 titleSlug: zhi-yi-you-gan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

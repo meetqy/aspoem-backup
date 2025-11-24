@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhi-fu-ti-ju-fang-qiu-qian-shou-ling-gong-yi-ji-hu-wu-ting-wu-yu-ya-fu-bi-zhong-de-gong-suo-ti-shi-fu-liu-jue-ju-qi-wu
-title: 知府提舉訪求前守凌公遺跡忽於庭廡雨壓複壁中得公所題詩賦六絕句  其五
-titlePinyin: zhi1 fu3 ti2 ju3 fang3 qiu2 qian2 shou3 ling2 gong1 yi2 ji4 hu1 wu1 ting2 wu3 yu3 ya1 fu4 bi4 zhong1 de2 gong1 suo3 ti2 shi1 fu4 liu4 jue2 ju4     qi2 wu3
+title: 知府提舉訪求前守凌公遺跡忽於庭廡雨壓複壁中得公所題詩賦六絕句・其五
+titlePinyin: zhi1 fu3 ti2 ju3 fang3 qiu2 qian2 shou3 ling2 gong1 yi2 ji4 hu1 wu1 ting2 wu3 yu3 ya1 fu4 bi4 zhong1 de2 gong1 suo3 ti2 shi1 fu4 liu4 jue2 ju4・qi2 wu3
 titleSlug: zhi-fu-ti-ju-fang-qiu-qian-shou-ling-gong-yi-ji-hu-wu-ting-wu-yu-ya-fu-bi-zhong-de-gong-suo-ti-shi-fu-liu-jue-ju-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

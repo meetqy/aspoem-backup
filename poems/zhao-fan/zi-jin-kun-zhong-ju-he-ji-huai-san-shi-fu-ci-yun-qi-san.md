@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-jin-kun-zhong-ju-he-ji-huai-san-shi-fu-ci-yun-qi-san
-title: 子進昆仲俱和寄懷三詩復次韻  其三
-titlePinyin: zi3 jin4 kun1 zhong4 ju4 he2 ji4 huai2 san1 shi1 fu4 ci4 yun4     qi2 san1
+title: 子進昆仲俱和寄懷三詩復次韻・其三
+titlePinyin: zi3 jin4 kun1 zhong4 ju4 he2 ji4 huai2 san1 shi1 fu4 ci4 yun4・qi2 san1
 titleSlug: zi-jin-kun-zhong-ju-he-ji-huai-san-shi-fu-ci-yun-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

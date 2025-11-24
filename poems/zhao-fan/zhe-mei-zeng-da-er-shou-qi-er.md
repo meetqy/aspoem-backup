@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhe-mei-zeng-da-er-shou-qi-er
-title: 折梅贈答二首  其二
-titlePinyin: zhe2 mei2 zeng4 da2 er4 shou3     qi2 er4
+title: 折梅贈答二首・其二
+titlePinyin: zhe2 mei2 zeng4 da2 er4 shou3・qi2 er4
 titleSlug: zhe-mei-zeng-da-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

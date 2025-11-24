@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhen-you-mi-tang-de-yu-ti-shi-bu-jian-you-huai-qi-ren-ba-shou-qi-qi
-title: 真游覓唐德輿題詩不見有懷其人八首  其七
-titlePinyin: zhen1 you2 mi4 tang2 de2 yu2 ti2 shi1 bu2 jian4 you3 huai2 qi2 ren2 ba1 shou3     qi2 qi1
+title: 真游覓唐德輿題詩不見有懷其人八首・其七
+titlePinyin: zhen1 you2 mi4 tang2 de2 yu2 ti2 shi1 bu2 jian4 you3 huai2 qi2 ren2 ba1 shou3・qi2 qi1
 titleSlug: zhen-you-mi-tang-de-yu-ti-shi-bu-jian-you-huai-qi-ren-ba-shou-qi-qi
 author: 趙蕃
 authorPinyin: zhao4 fan1

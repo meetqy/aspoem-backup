@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhong-guo-dong-hu-er-shou-qi-yi
-title: 重過東湖二首  其一
-titlePinyin: zhong4 guo4 dong1 hu2 er4 shou3     qi2 yi1
+title: 重過東湖二首・其一
+titlePinyin: zhong4 guo4 dong1 hu2 er4 shou3・qi2 yi1
 titleSlug: zhong-guo-dong-hu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

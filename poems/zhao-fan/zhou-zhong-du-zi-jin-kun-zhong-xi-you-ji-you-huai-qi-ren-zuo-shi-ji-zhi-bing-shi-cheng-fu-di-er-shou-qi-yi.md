@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-zhong-du-zi-jin-kun-zhong-xi-you-ji-you-huai-qi-ren-zuo-shi-ji-zhi-bing-shi-cheng-fu-di-er-shou-qi-yi
-title: 舟中讀子進昆仲西遊集有懷其人作詩寄之并示成父弟二首  其一
-titlePinyin: zhou1 zhong1 du2 zi3 jin4 kun1 zhong4 xi1 you2 ji2 you3 huai2 qi2 ren2 zuo4 shi1 ji4 zhi1 bing4 shi4 cheng2 fu4 di4 er4 shou3     qi2 yi1
+title: 舟中讀子進昆仲西遊集有懷其人作詩寄之并示成父弟二首・其一
+titlePinyin: zhou1 zhong1 du2 zi3 jin4 kun1 zhong4 xi1 you2 ji2 you3 huai2 qi2 ren2 zuo4 shi1 ji4 zhi1 bing4 shi4 cheng2 fu4 di4 er4 shou3・qi2 yi1
 titleSlug: zhou-zhong-du-zi-jin-kun-zhong-xi-you-ji-you-huai-qi-ren-zuo-shi-ji-zhi-bing-shi-cheng-fu-di-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

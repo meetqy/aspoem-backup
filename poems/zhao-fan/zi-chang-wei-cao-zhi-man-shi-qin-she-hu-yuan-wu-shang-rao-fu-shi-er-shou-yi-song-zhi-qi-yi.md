@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-chang-wei-cao-zhi-man-shi-qin-she-hu-yuan-wu-shang-rao-fu-shi-er-shou-yi-song-zhi-qi-yi
-title: 子暢尉曹秩滿侍親攝戶掾於上饒賦詩二首以送之  其一
-titlePinyin: zi3 chang4 wei4 cao2 zhi4 man3 shi4 qin1 she4 hu4 yuan4 wu1 shang4 rao2 fu4 shi1 er4 shou3 yi3 song4 zhi1     qi2 yi1
+title: 子暢尉曹秩滿侍親攝戶掾於上饒賦詩二首以送之・其一
+titlePinyin: zi3 chang4 wei4 cao2 zhi4 man3 shi4 qin1 she4 hu4 yuan4 wu1 shang4 rao2 fu4 shi1 er4 shou3 yi3 song4 zhi1・qi2 yi1
 titleSlug: zi-chang-wei-cao-zhi-man-shi-qin-she-hu-yuan-wu-shang-rao-fu-shi-er-shou-yi-song-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

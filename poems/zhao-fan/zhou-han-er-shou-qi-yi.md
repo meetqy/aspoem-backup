@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-han-er-shou-qi-yi
-title: 驟寒二首  其一
-titlePinyin: zhou4 han2 er4 shou3     qi2 yi1
+title: 驟寒二首・其一
+titlePinyin: zhou4 han2 er4 shou3・qi2 yi1
 titleSlug: zhou-han-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

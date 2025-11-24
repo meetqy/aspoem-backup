@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhong-bie-cheng-fu-er-shou-qi-er
-title: 重別成父二首  其二
-titlePinyin: zhong4 bie2 cheng2 fu4 er4 shou3     qi2 er4
+title: 重別成父二首・其二
+titlePinyin: zhong4 bie2 cheng2 fu4 er4 shou3・qi2 er4
 titleSlug: zhong-bie-cheng-fu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

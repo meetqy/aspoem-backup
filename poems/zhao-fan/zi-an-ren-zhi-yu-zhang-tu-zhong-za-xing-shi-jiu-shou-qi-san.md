@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-an-ren-zhi-yu-zhang-tu-zhong-za-xing-shi-jiu-shou-qi-san
-title: 自安仁至豫章途中雜興十九首  其三
-titlePinyin: zi4 an1 ren2 zhi4 yu4 zhang1 tu2 zhong1 za2 xing1 shi2 jiu3 shou3     qi2 san1
+title: 自安仁至豫章途中雜興十九首・其三
+titlePinyin: zi4 an1 ren2 zhi4 yu4 zhang1 tu2 zhong1 za2 xing1 shi2 jiu3 shou3・qi2 san1
 titleSlug: zi-an-ren-zhi-yu-zhang-tu-zhong-za-xing-shi-jiu-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

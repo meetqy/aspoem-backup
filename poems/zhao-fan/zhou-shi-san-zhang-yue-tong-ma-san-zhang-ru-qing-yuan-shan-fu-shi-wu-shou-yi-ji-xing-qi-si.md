@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-shi-san-zhang-yue-tong-ma-san-zhang-ru-qing-yuan-shan-fu-shi-wu-shou-yi-ji-xing-qi-si
-title: 周十三丈約同馬三丈入青原山賦詩五首以記行  其四
-titlePinyin: zhou1 shi2 san1 zhang4 yue1 tong2 ma3 san1 zhang4 ru4 qing1 yuan2 shan1 fu4 shi1 wu3 shou3 yi3 ji4 xing2     qi2 si4
+title: 周十三丈約同馬三丈入青原山賦詩五首以記行・其四
+titlePinyin: zhou1 shi2 san1 zhang4 yue1 tong2 ma3 san1 zhang4 ru4 qing1 yuan2 shan1 fu4 shi1 wu3 shou3 yi3 ji4 xing2・qi2 si4
 titleSlug: zhou-shi-san-zhang-yue-tong-ma-san-zhang-ru-qing-yuan-shan-fu-shi-wu-shou-yi-ji-xing-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

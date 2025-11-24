@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zao-xing-wu-shou-qi-si
-title: 早行五首  其四
-titlePinyin: zao3 xing2 wu3 shou3     qi2 si4
+title: 早行五首・其四
+titlePinyin: zao3 xing2 wu3 shou3・qi2 si4
 titleSlug: zao-xing-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

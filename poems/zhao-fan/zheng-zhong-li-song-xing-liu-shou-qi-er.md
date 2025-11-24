@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zheng-zhong-li-song-xing-liu-shou-qi-er
-title: 鄭仲理送行六首  其二
-titlePinyin: zheng4 zhong4 li3 song4 xing2 liu4 shou3     qi2 er4
+title: 鄭仲理送行六首・其二
+titlePinyin: zheng4 zhong4 li3 song4 xing2 liu4 shou3・qi2 er4
 titleSlug: zheng-zhong-li-song-xing-liu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

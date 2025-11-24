@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhong-song-liu-bo-rui-er-shou-qi-er
-title: 重送劉伯瑞二首  其二
-titlePinyin: zhong4 song4 liu2 bo2 rui4 er4 shou3     qi2 er4
+title: 重送劉伯瑞二首・其二
+titlePinyin: zhong4 song4 liu2 bo2 rui4 er4 shou3・qi2 er4
 titleSlug: zhong-song-liu-bo-rui-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

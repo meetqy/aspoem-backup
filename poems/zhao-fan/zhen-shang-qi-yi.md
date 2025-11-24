@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhen-shang-qi-yi
-title: 枕上  其一
-titlePinyin: zhen3 shang4     qi2 yi1
+title: 枕上・其一
+titlePinyin: zhen3 shang4・qi2 yi1
 titleSlug: zhen-shang-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

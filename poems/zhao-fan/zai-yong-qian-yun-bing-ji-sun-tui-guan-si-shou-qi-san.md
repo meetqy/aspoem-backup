@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-yong-qian-yun-bing-ji-sun-tui-guan-si-shou-qi-san
-title: 再用前韻并寄孫推官四首  其三
-titlePinyin: zai4 yong4 qian2 yun4 bing4 ji4 sun1 tui1 guan1 si4 shou3     qi2 san1
+title: 再用前韻并寄孫推官四首・其三
+titlePinyin: zai4 yong4 qian2 yun4 bing4 ji4 sun1 tui1 guan1 si4 shou3・qi2 san1
 titleSlug: zai-yong-qian-yun-bing-ji-sun-tui-guan-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

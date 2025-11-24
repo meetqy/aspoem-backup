@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-bie-qi-ying-er-shou-qi-er
-title: 贈別耆英二首  其二
-titlePinyin: zeng4 bie2 qi2 ying1 er4 shou3     qi2 er4
+title: 贈別耆英二首・其二
+titlePinyin: zeng4 bie2 qi2 ying1 er4 shou3・qi2 er4
 titleSlug: zeng-bie-qi-ying-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

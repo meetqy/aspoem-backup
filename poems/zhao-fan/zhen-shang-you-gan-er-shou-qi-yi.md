@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhen-shang-you-gan-er-shou-qi-yi
-title: 枕上有感二首  其一
-titlePinyin: zhen3 shang4 you3 gan3 er4 shou3     qi2 yi1
+title: 枕上有感二首・其一
+titlePinyin: zhen3 shang4 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: zhen-shang-you-gan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

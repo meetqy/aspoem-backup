@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhong-song-chu-zhou-si-yuan-san-shou-qi-san
-title: 重送處州斯遠三首  其三
-titlePinyin: zhong4 song4 chu3 zhou1 si1 yuan3 san1 shou3     qi2 san1
+title: 重送處州斯遠三首・其三
+titlePinyin: zhong4 song4 chu3 zhou1 si1 yuan3 san1 shou3・qi2 san1
 titleSlug: zhong-song-chu-zhou-si-yuan-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-bo-yong-tong-zi-yun-zuo-shi-fu-ci-yun-er-shou-qi-er
-title: 在伯用銅字韻作詩復次韻二首  其二
-titlePinyin: zai4 bo2 yong4 tong2 zi4 yun4 zuo4 shi1 fu4 ci4 yun4 er4 shou3     qi2 er4
+title: 在伯用銅字韻作詩復次韻二首・其二
+titlePinyin: zai4 bo2 yong4 tong2 zi4 yun4 zuo4 shi1 fu4 ci4 yun4 er4 shou3・qi2 er4
 titleSlug: zai-bo-yong-tong-zi-yun-zuo-shi-fu-ci-yun-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

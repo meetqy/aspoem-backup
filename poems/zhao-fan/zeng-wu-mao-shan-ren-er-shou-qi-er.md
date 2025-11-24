@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-wu-mao-shan-ren-er-shou-qi-er
-title: 贈吳昴山人二首  其二
-titlePinyin: zeng4 wu2 mao3 shan1 ren2 er4 shou3     qi2 er4
+title: 贈吳昴山人二首・其二
+titlePinyin: zeng4 wu2 mao3 shan1 ren2 er4 shou3・qi2 er4
 titleSlug: zeng-wu-mao-shan-ren-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

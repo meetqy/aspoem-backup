@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-xing-yu-xue-er-shou-qi-yi
-title: 舟行遇雪二首  其一
-titlePinyin: zhou1 xing2 yu4 xue3 er4 shou3     qi2 yi1
+title: 舟行遇雪二首・其一
+titlePinyin: zhou1 xing2 yu4 xue3 er4 shou3・qi2 yi1
 titleSlug: zhou-xing-yu-xue-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

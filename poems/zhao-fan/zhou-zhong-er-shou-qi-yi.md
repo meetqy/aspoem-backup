@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-zhong-er-shou-qi-yi
-title: 舟中二首  其一
-titlePinyin: zhou1 zhong1 er4 shou3     qi2 yi1
+title: 舟中二首・其一
+titlePinyin: zhou1 zhong1 er4 shou3・qi2 yi1
 titleSlug: zhou-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

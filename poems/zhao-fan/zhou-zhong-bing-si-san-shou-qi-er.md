@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-zhong-bing-si-san-shou-qi-er
-title: 舟中病思三首  其二
-titlePinyin: zhou1 zhong1 bing4 si1 san1 shou3     qi2 er4
+title: 舟中病思三首・其二
+titlePinyin: zhou1 zhong1 bing4 si1 san1 shou3・qi2 er4
 titleSlug: zhou-zhong-bing-si-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

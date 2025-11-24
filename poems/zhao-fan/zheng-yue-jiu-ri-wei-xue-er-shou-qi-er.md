@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zheng-yue-jiu-ri-wei-xue-er-shou-qi-er
-title: 正月九日微雪二首  其二
-titlePinyin: zheng1 yue4 jiu3 ri4 wei1 xue3 er4 shou3     qi2 er4
+title: 正月九日微雪二首・其二
+titlePinyin: zheng1 yue4 jiu3 ri4 wei1 xue3 er4 shou3・qi2 er4
 titleSlug: zheng-yue-jiu-ri-wei-xue-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

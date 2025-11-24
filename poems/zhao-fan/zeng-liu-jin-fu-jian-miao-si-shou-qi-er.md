@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-liu-jin-fu-jian-miao-si-shou-qi-er
-title: 贈劉進父監廟四首  其二
-titlePinyin: zeng4 liu2 jin4 fu4 jian1 miao4 si4 shou3     qi2 er4
+title: 贈劉進父監廟四首・其二
+titlePinyin: zeng4 liu2 jin4 fu4 jian1 miao4 si4 shou3・qi2 er4
 titleSlug: zeng-liu-jin-fu-jian-miao-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

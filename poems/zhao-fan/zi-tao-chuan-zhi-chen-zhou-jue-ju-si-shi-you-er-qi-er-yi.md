@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-tao-chuan-zhi-chen-zhou-jue-ju-si-shi-you-er-qi-er-yi
-title: 自桃川至辰州絕句四十有二  其二一
-titlePinyin: zi4 tao2 chuan1 zhi4 chen2 zhou1 jue2 ju4 si4 shi2 you3 er4     qi2 er4 yi1
+title: 自桃川至辰州絕句四十有二・其二一
+titlePinyin: zi4 tao2 chuan1 zhi4 chen2 zhou1 jue2 ju4 si4 shi2 you3 er4・qi2 er4 yi1
 titleSlug: zi-tao-chuan-zhi-chen-zhou-jue-ju-si-shi-you-er-qi-er-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

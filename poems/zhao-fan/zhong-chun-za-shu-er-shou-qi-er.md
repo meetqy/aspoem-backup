@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhong-chun-za-shu-er-shou-qi-er
-title: 仲春雜書二首  其二
-titlePinyin: zhong4 chun1 za2 shu1 er4 shou3     qi2 er4
+title: 仲春雜書二首・其二
+titlePinyin: zhong4 chun1 za2 shu1 er4 shou3・qi2 er4
 titleSlug: zhong-chun-za-shu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

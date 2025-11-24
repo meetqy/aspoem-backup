@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-mo-er-shou-qi-yi
-title: 贈墨二首  其一
-titlePinyin: zeng4 mo4 er4 shou3     qi2 yi1
+title: 贈墨二首・其一
+titlePinyin: zeng4 mo4 er4 shou3・qi2 yi1
 titleSlug: zeng-mo-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

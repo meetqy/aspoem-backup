@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zi-chang-yu-zhong-jian-guo-qie-hui-yi-shi-nai-yong-fan-xie-wen-xian-zai-jiu-zhi-yun-fu-yong-yun-wei-da-bing-jian-wen-xian-qi-yi
-title: 子暢雨中見過且惠以詩乃用蕃謝文顯載酒之韻復用韻爲答併簡文顯  其一
-titlePinyin: zi3 chang4 yu3 zhong1 jian4 guo4 qie3 hui4 yi3 shi1 nai3 yong4 fan1 xie4 wen2 xian3 zai4 jiu3 zhi1 yun4 fu4 yong4 yun4 wei2 da2 bing4 jian3 wen2 xian3     qi2 yi1
+title: 子暢雨中見過且惠以詩乃用蕃謝文顯載酒之韻復用韻爲答併簡文顯・其一
+titlePinyin: zi3 chang4 yu3 zhong1 jian4 guo4 qie3 hui4 yi3 shi1 nai3 yong4 fan1 xie4 wen2 xian3 zai4 jiu3 zhi1 yun4 fu4 yong4 yun4 wei2 da2 bing4 jian3 wen2 xian3・qi2 yi1
 titleSlug: zi-chang-yu-zhong-jian-guo-qie-hui-yi-shi-nai-yong-fan-xie-wen-xian-zai-jiu-zhi-yun-fu-yong-yun-wei-da-bing-jian-wen-xian-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

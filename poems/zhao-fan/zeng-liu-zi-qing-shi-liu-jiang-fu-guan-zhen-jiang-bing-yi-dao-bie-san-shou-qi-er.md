@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-liu-zi-qing-shi-liu-jiang-fu-guan-zhen-jiang-bing-yi-dao-bie-san-shou-qi-er
-title: 贈劉子卿時劉將赴官鎮江併以道別三首  其二
-titlePinyin: zeng4 liu2 zi3 qing1 shi2 liu2 jiang1 fu4 guan1 zhen4 jiang1 bing4 yi3 dao4 bie2 san1 shou3     qi2 er4
+title: 贈劉子卿時劉將赴官鎮江併以道別三首・其二
+titlePinyin: zeng4 liu2 zi3 qing1 shi2 liu2 jiang1 fu4 guan1 zhen4 jiang1 bing4 yi3 dao4 bie2 san1 shou3・qi2 er4
 titleSlug: zeng-liu-zi-qing-shi-liu-jiang-fu-guan-zhen-jiang-bing-yi-dao-bie-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

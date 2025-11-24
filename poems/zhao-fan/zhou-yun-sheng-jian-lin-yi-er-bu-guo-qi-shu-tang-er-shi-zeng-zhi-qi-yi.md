@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zhou-yun-sheng-jian-lin-yi-er-bu-guo-qi-shu-tang-er-shi-zeng-zhi-qi-yi
-title: 周允升見臨已而步過其書堂二詩贈之  其一
-titlePinyin: zhou1 yun3 sheng1 jian4 lin2 yi3 er2 bu4 guo4 qi2 shu1 tang2 er4 shi1 zeng4 zhi1     qi2 yi1
+title: 周允升見臨已而步過其書堂二詩贈之・其一
+titlePinyin: zhou1 yun3 sheng1 jian4 lin2 yi3 er2 bu4 guo4 qi2 shu1 tang2 er4 shi1 zeng4 zhi1・qi2 yi1
 titleSlug: zhou-yun-sheng-jian-lin-yi-er-bu-guo-qi-shu-tang-er-shi-zeng-zhi-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

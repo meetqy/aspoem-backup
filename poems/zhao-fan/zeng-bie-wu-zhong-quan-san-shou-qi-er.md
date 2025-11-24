@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-bie-wu-zhong-quan-san-shou-qi-er
-title: 贈別吳仲權三首  其二
-titlePinyin: zeng4 bie2 wu2 zhong4 quan2 san1 shou3     qi2 er4
+title: 贈別吳仲權三首・其二
+titlePinyin: zeng4 bie2 wu2 zhong4 quan2 san1 shou3・qi2 er4
 titleSlug: zeng-bie-wu-zhong-quan-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

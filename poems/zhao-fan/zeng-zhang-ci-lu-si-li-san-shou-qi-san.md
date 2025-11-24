@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-zhang-ci-lu-si-li-san-shou-qi-san
-title: 贈張次律司理三首  其三
-titlePinyin: zeng4 zhang1 ci4 lü4 si1 li3 san1 shou3     qi2 san1
+title: 贈張次律司理三首・其三
+titlePinyin: zeng4 zhang1 ci4 lü4 si1 li3 san1 shou3・qi2 san1
 titleSlug: zeng-zhang-ci-lu-si-li-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

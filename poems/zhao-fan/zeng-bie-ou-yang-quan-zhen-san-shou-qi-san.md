@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-bie-ou-yang-quan-zhen-san-shou-qi-san
-title: 贈別歐陽全真三首  其三
-titlePinyin: zeng4 bie2 ou1 yang2 quan2 zhen1 san1 shou3     qi2 san1
+title: 贈別歐陽全真三首・其三
+titlePinyin: zeng4 bie2 ou1 yang2 quan2 zhen1 san1 shou3・qi2 san1
 titleSlug: zeng-bie-ou-yang-quan-zhen-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

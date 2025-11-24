@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yue-qi-yi
-title: 月  其一
-titlePinyin: yue4     qi2 yi1
+title: 月・其一
+titlePinyin: yue4・qi2 yi1
 titleSlug: yue-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

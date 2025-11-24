@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-jian-wang-jin-zhi-wu-tan-wang-ji-you-yue-e-zhi-xing-zeng-zhi-si-shou-qi-san
-title: 再見王進之於潭王即有岳鄂之行贈之四首  其三
-titlePinyin: zai4 jian4 wang2 jin4 zhi1 wu1 tan2 wang2 ji2 you3 yue4 e4 zhi1 xing2 zeng4 zhi1 si4 shou3     qi2 san1
+title: 再見王進之於潭王即有岳鄂之行贈之四首・其三
+titlePinyin: zai4 jian4 wang2 jin4 zhi1 wu1 tan2 wang2 ji2 you3 yue4 e4 zhi1 xing2 zeng4 zhi1 si4 shou3・qi2 san1
 titleSlug: zai-jian-wang-jin-zhi-wu-tan-wang-ji-you-yue-e-zhi-xing-zeng-zhi-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

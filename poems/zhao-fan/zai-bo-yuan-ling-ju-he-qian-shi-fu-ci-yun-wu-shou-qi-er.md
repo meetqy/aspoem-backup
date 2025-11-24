@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zai-bo-yuan-ling-ju-he-qian-shi-fu-ci-yun-wu-shou-qi-er
-title: 在伯沅陵俱和前詩復次韵五首  其二
-titlePinyin: zai4 bo2 yuan2 ling2 ju4 he2 qian2 shi1 fu4 ci4 yun4 wu3 shou3     qi2 er4
+title: 在伯沅陵俱和前詩復次韵五首・其二
+titlePinyin: zai4 bo2 yuan2 ling2 ju4 he2 qian2 shi1 fu4 ci4 yun4 wu3 shou3・qi2 er4
 titleSlug: zai-bo-yuan-ling-ju-he-qian-shi-fu-ci-yun-wu-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

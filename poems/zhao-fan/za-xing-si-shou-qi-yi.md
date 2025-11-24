@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-za-xing-si-shou-qi-yi
-title: 雜興四首  其一
-titlePinyin: za2 xing1 si4 shou3     qi2 yi1
+title: 雜興四首・其一
+titlePinyin: za2 xing1 si4 shou3・qi2 yi1
 titleSlug: za-xing-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

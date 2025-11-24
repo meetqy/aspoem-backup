@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-xu-ji-sheng-wu-shou-qi-yi
-title: 贈許季升五首  其一
-titlePinyin: zeng4 xu1 ji4 sheng1 wu3 shou3     qi2 yi1
+title: 贈許季升五首・其一
+titlePinyin: zeng4 xu1 ji4 sheng1 wu3 shou3・qi2 yi1
 titleSlug: zeng-xu-ji-sheng-wu-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

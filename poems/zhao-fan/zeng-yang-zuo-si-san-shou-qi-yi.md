@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-zeng-yang-zuo-si-san-shou-qi-yi
-title: 贈楊左司三首  其一
-titlePinyin: zeng4 yang2 zuo3 si1 san1 shou3     qi2 yi1
+title: 贈楊左司三首・其一
+titlePinyin: zeng4 yang2 zuo3 si1 san1 shou3・qi2 yi1
 titleSlug: zeng-yang-zuo-si-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1
