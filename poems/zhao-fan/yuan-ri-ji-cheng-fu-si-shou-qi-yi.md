@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-ri-ji-cheng-fu-si-shou-qi-yi
-title: 元日寄成父四首  其一
-titlePinyin: yuan2 ri4 ji4 cheng2 fu4 si4 shou3     qi2 yi1
+title: 元日寄成父四首・其一
+titlePinyin: yuan2 ri4 ji4 cheng2 fu4 si4 shou3・qi2 yi1
 titleSlug: yuan-ri-ji-cheng-fu-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

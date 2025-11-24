@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-zhou-bei-chong-sheng-si-er-shou-qi-yi
-title: 袁州北崇勝寺二首  其一
-titlePinyin: yuan2 zhou1 bei3 chong2 sheng4 si4 er4 shou3     qi2 yi1
+title: 袁州北崇勝寺二首・其一
+titlePinyin: yuan2 zhou1 bei3 chong2 sheng4 si4 er4 shou3・qi2 yi1
 titleSlug: yuan-zhou-bei-chong-sheng-si-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

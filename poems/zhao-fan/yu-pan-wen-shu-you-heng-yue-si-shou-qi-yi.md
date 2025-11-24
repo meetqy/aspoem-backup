@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-pan-wen-shu-you-heng-yue-si-shou-qi-yi
-title: 與潘文叔遊衡岳四首  其一
-titlePinyin: yu3 pan1 wen2 shu1 you2 heng2 yue4 si4 shou3     qi2 yi1
+title: 與潘文叔遊衡岳四首・其一
+titlePinyin: yu3 pan1 wen2 shu1 you2 heng2 yue4 si4 shou3・qi2 yi1
 titleSlug: yu-pan-wen-shu-you-heng-yue-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yang-jin-zhong-he-qing-zhe-san-shi-jian-yi-fu-ci-yun-liu-shou-qi-wu
-title: 楊謹仲和頃者三詩見貽復次韻六首  其五
-titlePinyin: yang2 jin3 zhong4 he2 qing3 zhe3 san1 shi1 jian4 yi2 fu4 ci4 yun4 liu4 shou3     qi2 wu3
+title: 楊謹仲和頃者三詩見貽復次韻六首・其五
+titlePinyin: yang2 jin3 zhong4 he2 qing3 zhe3 san1 shi1 jian4 yi2 fu4 ci4 yun4 liu4 shou3・qi2 wu3
 titleSlug: yang-jin-zhong-he-qing-zhe-san-shi-jian-yi-fu-ci-yun-liu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-zuo-du-shu-wen-ping-mei-zhi-xiang-kou-zhan-wu-jue-qi-wu
-title: 夜坐讀書聞瓶梅之香口占五絕  其五
-titlePinyin: ye4 zuo4 du2 shu1 wen2 ping2 mei2 zhi1 xiang1 kou3 zhan4 wu3 jue2     qi2 wu3
+title: 夜坐讀書聞瓶梅之香口占五絕・其五
+titlePinyin: ye4 zuo4 du2 shu1 wen2 ping2 mei2 zhi1 xiang1 kou3 zhan4 wu3 jue2・qi2 wu3
 titleSlug: ye-zuo-du-shu-wen-ping-mei-zhi-xiang-kou-zhan-wu-jue-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

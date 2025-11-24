@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-cha-ji-yang-pu-zhi-er-shou-qi-yi
-title: 以茶寄楊溥之二首  其一
-titlePinyin: yi3 cha2 ji4 yang2 pu3 zhi1 er4 shou3     qi2 yi1
+title: 以茶寄楊溥之二首・其一
+titlePinyin: yi3 cha2 ji4 yang2 pu3 zhi1 er4 shou3・qi2 yi1
 titleSlug: yi-cha-ji-yang-pu-zhi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

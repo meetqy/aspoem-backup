@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-hua-qi-er
-title: 野花  其二
-titlePinyin: ye3 hua1     qi2 er4
+title: 野花・其二
+titlePinyin: ye3 hua1・qi2 er4
 titleSlug: ye-hua-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

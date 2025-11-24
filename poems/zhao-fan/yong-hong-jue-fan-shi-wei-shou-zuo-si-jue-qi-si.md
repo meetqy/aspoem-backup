@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-hong-jue-fan-shi-wei-shou-zuo-si-jue-qi-si
-title: 用洪覺範詩爲首作四絕  其四
-titlePinyin: yong4 hong2 jue2 fan4 shi1 wei2 shou3 zuo4 si4 jue2     qi2 si4
+title: 用洪覺範詩爲首作四絕・其四
+titlePinyin: yong4 hong2 jue2 fan4 shi1 wei2 shou3 zuo4 si4 jue2・qi2 si4
 titleSlug: yong-hong-jue-fan-shi-wei-shou-zuo-si-jue-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

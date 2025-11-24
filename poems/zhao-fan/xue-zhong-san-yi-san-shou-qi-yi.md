@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xue-zhong-san-yi-san-shou-qi-yi
-title: 雪中三憶三首  其一
-titlePinyin: xue3 zhong1 san1 yi4 san1 shou3     qi2 yi1
+title: 雪中三憶三首・其一
+titlePinyin: xue3 zhong1 san1 yi4 san1 shou3・qi2 yi1
 titleSlug: xue-zhong-san-yi-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

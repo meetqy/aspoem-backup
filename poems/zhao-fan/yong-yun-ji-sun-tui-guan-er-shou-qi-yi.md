@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-yun-ji-sun-tui-guan-er-shou-qi-yi
-title: 用韻寄孫推官二首  其一
-titlePinyin: yong4 yun4 ji4 sun1 tui1 guan1 er4 shou3     qi2 yi1
+title: 用韻寄孫推官二首・其一
+titlePinyin: yong4 yun4 ji4 sun1 tui1 guan1 er4 shou3・qi2 yi1
 titleSlug: yong-yun-ji-sun-tui-guan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-hou-chen-qi-huai-si-yuan-qi-er
-title: 雨後晨起懷斯遠  其二
-titlePinyin: yu3 hou4 chen2 qi3 huai2 si1 yuan3     qi2 er4
+title: 雨後晨起懷斯遠・其二
+titlePinyin: yu3 hou4 chen2 qi3 huai2 si1 yuan3・qi2 er4
 titleSlug: yu-hou-chen-qi-huai-si-yuan-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

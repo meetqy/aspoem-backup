@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-mei-liu-shou-qi-san
-title: 咏梅六首  其三
-titlePinyin: yong3 mei2 liu4 shou3     qi2 san1
+title: 咏梅六首・其三
+titlePinyin: yong3 mei2 liu4 shou3・qi2 san1
 titleSlug: yong-mei-liu-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-zhong-ye-gui-wen-liang-er-song-shu-ou-cheng-er-jue-xing-ming-shu-xian-sheng-tong-fu-yi-shi-zhi-qi-er
-title: 雨中夜歸聞兩兒誦書偶成二絕幸明叔先生同賦以示之  其二
-titlePinyin: yu3 zhong1 ye4 gui1 wen2 liang3 er2 song4 shu1 ou3 cheng2 er4 jue2 xing4 ming2 shu1 xian1 sheng0 tong2 fu4 yi3 shi4 zhi1     qi2 er4
+title: 雨中夜歸聞兩兒誦書偶成二絕幸明叔先生同賦以示之・其二
+titlePinyin: yu3 zhong1 ye4 gui1 wen2 liang3 er2 song4 shu1 ou3 cheng2 er4 jue2 xing4 ming2 shu1 xian1 sheng0 tong2 fu4 yi3 shi4 zhi1・qi2 er4
 titleSlug: yu-zhong-ye-gui-wen-liang-er-song-shu-ou-cheng-er-jue-xing-ming-shu-xian-sheng-tong-fu-yi-shi-zhi-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

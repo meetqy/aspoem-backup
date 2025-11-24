@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-zhong-si-shou-qi-si
-title: 雨中四首  其四
-titlePinyin: yu3 zhong1 si4 shou3     qi2 si4
+title: 雨中四首・其四
+titlePinyin: yu3 zhong1 si4 shou3・qi2 si4
 titleSlug: yu-zhong-si-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

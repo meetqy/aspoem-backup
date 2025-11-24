@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-you-qing-yuan-shan-er-shou-qi-er
-title: 雨游青原山二首  其二
-titlePinyin: yu3 you2 qing1 yuan2 shan1 er4 shou3     qi2 er4
+title: 雨游青原山二首・其二
+titlePinyin: yu3 you2 qing1 yuan2 shan1 er4 shou3・qi2 er4
 titleSlug: yu-you-qing-yuan-shan-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-ru-zi-ci-qi-er
-title: 謁孺子祠  其二
-titlePinyin: ye4 ru2 zi3 ci2     qi2 er4
+title: 謁孺子祠・其二
+titlePinyin: ye4 ru2 zi3 ci2・qi2 er4
 titleSlug: ye-ru-zi-ci-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

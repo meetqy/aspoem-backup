@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-chun-dao-zhong-zeng-xing-gong-zhao-er-shou-qi-yi
-title: 宜春道中贈邢公昭二首  其一
-titlePinyin: yi2 chun1 dao4 zhong1 zeng4 xing2 gong1 zhao1 er4 shou3     qi2 yi1
+title: 宜春道中贈邢公昭二首・其一
+titlePinyin: yi2 chun1 dao4 zhong1 zeng4 xing2 gong1 zhao1 er4 shou3・qi2 yi1
 titleSlug: yi-chun-dao-zhong-zeng-xing-gong-zhao-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

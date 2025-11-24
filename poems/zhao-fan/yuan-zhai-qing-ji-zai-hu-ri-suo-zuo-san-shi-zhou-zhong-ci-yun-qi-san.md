@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-zhai-qing-ji-zai-hu-ri-suo-zuo-san-shi-zhou-zhong-ci-yun-qi-san
-title: 遠齋頃寄在湖日所作三詩舟中次韻  其三
-titlePinyin: yuan3 zhai1 qing3 ji4 zai4 hu2 ri4 suo3 zuo4 san1 shi1 zhou1 zhong1 ci4 yun4     qi2 san1
+title: 遠齋頃寄在湖日所作三詩舟中次韻・其三
+titlePinyin: yuan3 zhai1 qing3 ji4 zai4 hu2 ri4 suo3 zuo4 san1 shi1 zhou1 zhong1 ci4 yun4・qi2 san1
 titleSlug: yuan-zhai-qing-ji-zai-hu-ri-suo-zuo-san-shi-zhou-zhong-ci-yun-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

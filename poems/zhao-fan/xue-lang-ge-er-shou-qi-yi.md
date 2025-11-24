@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xue-lang-ge-er-shou-qi-yi
-title: 雪浪閣二首  其一
-titlePinyin: xue3 lang4 ge2 er4 shou3     qi2 yi1
+title: 雪浪閣二首・其一
+titlePinyin: xue3 lang4 ge2 er4 shou3・qi2 yi1
 titleSlug: xue-lang-ge-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

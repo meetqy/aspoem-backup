@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-ling-jian-zhao-shang-hai-tang-bing-bu-neng-wang-zhe-er-yan-xie-san-shou-qi-san
-title: 沅陵見招賞海棠病不能往輒爾言謝三首  其三
-titlePinyin: yuan2 ling2 jian4 zhao1 shang3 hai3 tang2 bing4 bu4 neng2 wang3 zhe2 er3 yan2 xie4 san1 shou3     qi2 san1
+title: 沅陵見招賞海棠病不能往輒爾言謝三首・其三
+titlePinyin: yuan2 ling2 jian4 zhao1 shang3 hai3 tang2 bing4 bu4 neng2 wang3 zhe2 er3 yan2 xie4 san1 shou3・qi2 san1
 titleSlug: yuan-ling-jian-zhao-shang-hai-tang-bing-bu-neng-wang-zhe-er-yan-xie-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

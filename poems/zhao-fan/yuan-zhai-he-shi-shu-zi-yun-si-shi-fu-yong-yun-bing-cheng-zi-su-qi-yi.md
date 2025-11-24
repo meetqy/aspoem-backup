@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-zhai-he-shi-shu-zi-yun-si-shi-fu-yong-yun-bing-cheng-zi-su-qi-yi
-title: 遠齋和示疏字韻四詩復用韻併呈子肅  其一
-titlePinyin: yuan3 zhai1 he2 shi4 shu1 zi4 yun4 si4 shi1 fu4 yong4 yun4 bing4 cheng2 zi0 su4     qi2 yi1
+title: 遠齋和示疏字韻四詩復用韻併呈子肅・其一
+titlePinyin: yuan3 zhai1 he2 shi4 shu1 zi4 yun4 si4 shi1 fu4 yong4 yun4 bing4 cheng2 zi0 su4・qi2 yi1
 titleSlug: yuan-zhai-he-shi-shu-zi-yun-si-shi-fu-yong-yun-bing-cheng-zi-su-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-ling-qi-zhang-yong-fan-jiang-zhi-chen-zhou-ji-zai-bo-xiong-yun-zuo-shi-jian-shu-yong-yun-feng-da-er-shou-qi-er
-title: 沅陵契丈用蕃將至辰州寄在伯兄韻作詩見屬用韻奉答二首  其二
-titlePinyin: yuan2 ling2 qi4 zhang4 yong4 fan1 jiang1 zhi4 chen2 zhou1 ji4 zai4 bo2 xiong1 yun4 zuo4 shi1 jian4 shu3 yong4 yun4 feng4 da2 er4 shou3     qi2 er4
+title: 沅陵契丈用蕃將至辰州寄在伯兄韻作詩見屬用韻奉答二首・其二
+titlePinyin: yuan2 ling2 qi4 zhang4 yong4 fan1 jiang1 zhi4 chen2 zhou1 ji4 zai4 bo2 xiong1 yun4 zuo4 shi1 jian4 shu3 yong4 yun4 feng4 da2 er4 shou3・qi2 er4
 titleSlug: yuan-ling-qi-zhang-yong-fan-jiang-zhi-chen-zhou-ji-zai-bo-xiong-yun-zuo-shi-jian-shu-yong-yun-feng-da-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

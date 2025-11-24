@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-fu-shi-si-shou-qi-er
-title: 漁父詩四首  其二
-titlePinyin: yu2 fu4 shi1 si4 shou3     qi2 er4
+title: 漁父詩四首・其二
+titlePinyin: yu2 fu4 shi1 si4 shou3・qi2 er4
 titleSlug: yu-fu-shi-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xiao-yang-cheng-fu-yue-xu-qing-jian-guo-er-shou-qi-er
-title: 孝揚成父約須晴見過二首  其二
-titlePinyin: xiao4 yang2 cheng2 fu4 yue1 xu1 qing2 jian4 guo4 er4 shou3     qi2 er4
+title: 孝揚成父約須晴見過二首・其二
+titlePinyin: xiao4 yang2 cheng2 fu4 yue1 xu1 qing2 jian4 guo4 er4 shou3・qi2 er4
 titleSlug: xiao-yang-cheng-fu-yue-xu-qing-jian-guo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

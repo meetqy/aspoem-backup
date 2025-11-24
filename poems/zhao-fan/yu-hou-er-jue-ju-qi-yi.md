@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-hou-er-jue-ju-qi-yi
-title: 雨後二絕句  其一
-titlePinyin: yu3 hou4 er4 jue2 ju4     qi2 yi1
+title: 雨後二絕句・其一
+titlePinyin: yu3 hou4 er4 jue2 ju4・qi2 yi1
 titleSlug: yu-hou-er-jue-ju-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

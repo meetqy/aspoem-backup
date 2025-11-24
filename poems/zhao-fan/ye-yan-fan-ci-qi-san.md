@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-yan-fan-ci-qi-san
-title: 謁顔范祠  其三
-titlePinyin: ye4 yan2 fan4 ci2     qi2 san1
+title: 謁顔范祠・其三
+titlePinyin: ye4 yan2 fan4 ci2・qi2 san1
 titleSlug: ye-yan-fan-ci-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

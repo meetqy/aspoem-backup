@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-zhong-bu-chu-cheng-si-yuan-jian-shi-cheng-fu-si-shou-qi-san
-title: 雨中不出呈斯遠兼示成父四首  其三
-titlePinyin: yu3 zhong1 bu4 chu1 cheng2 si1 yuan3 jian1 shi4 cheng2 fu4 si4 shou3     qi2 san1
+title: 雨中不出呈斯遠兼示成父四首・其三
+titlePinyin: yu3 zhong1 bu4 chu1 cheng2 si1 yuan3 jian1 shi4 cheng2 fu4 si4 shou3・qi2 san1
 titleSlug: yu-zhong-bu-chu-cheng-si-yuan-jian-shi-cheng-fu-si-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

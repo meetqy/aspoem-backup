@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xue-zhong-si-shi-qi-san
-title: 雪中四詩  其三
-titlePinyin: xue3 zhong1 si4 shi1     qi2 san1
+title: 雪中四詩・其三
+titlePinyin: xue3 zhong1 si4 shi1・qi2 san1
 titleSlug: xue-zhong-si-shi-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

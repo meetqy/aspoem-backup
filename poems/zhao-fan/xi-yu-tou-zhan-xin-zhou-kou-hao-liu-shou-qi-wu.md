@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xi-yu-tou-zhan-xin-zhou-kou-hao-liu-shou-qi-wu
-title: 喜雨投詹信州口號六首  其五
-titlePinyin: xi3 yu3 tou2 zhan1 xin4 zhou1 kou3 hao4 liu4 shou3     qi2 wu3
+title: 喜雨投詹信州口號六首・其五
+titlePinyin: xi3 yu3 tou2 zhan1 xin4 zhou1 kou3 hao4 liu4 shou3・qi2 wu3
 titleSlug: xi-yu-tou-zhan-xin-zhou-kou-hao-liu-shou-qi-wu
 author: 趙蕃
 authorPinyin: zhao4 fan1

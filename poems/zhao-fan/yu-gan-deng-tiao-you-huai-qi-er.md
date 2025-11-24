@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-gan-deng-tiao-you-huai-qi-er
-title: 餘干登眺有懷  其二
-titlePinyin: yu2 gan1 deng1 tiao4 you3 huai2     qi2 er4
+title: 餘干登眺有懷・其二
+titlePinyin: yu2 gan1 deng1 tiao4 you3 huai2・qi2 er4
 titleSlug: yu-gan-deng-tiao-you-huai-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

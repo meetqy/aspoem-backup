@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-zhong-tong-cao-wei-wang-biao-yan-er-shou-qi-yi
-title: 雨中同曹尉王儦巖二首  其一
-titlePinyin: yu3 zhong1 tong2 cao2 wei4 wang2 biao1 yan2 er4 shou3     qi2 yi1
+title: 雨中同曹尉王儦巖二首・其一
+titlePinyin: yu3 zhong1 tong2 cao2 wei4 wang2 biao1 yan2 er4 shou3・qi2 yi1
 titleSlug: yu-zhong-tong-cao-wei-wang-biao-yan-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

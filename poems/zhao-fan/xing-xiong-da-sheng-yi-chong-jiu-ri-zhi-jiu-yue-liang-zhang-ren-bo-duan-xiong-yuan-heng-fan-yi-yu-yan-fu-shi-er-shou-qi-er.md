@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xing-xiong-da-sheng-yi-chong-jiu-ri-zhi-jiu-yue-liang-zhang-ren-bo-duan-xiong-yuan-heng-fan-yi-yu-yan-fu-shi-er-shou-qi-er
-title: 邢兄大聲以重九日置酒約梁丈仁伯段兄元衡蕃亦與焉賦詩二首  其二
-titlePinyin: xing2 xiong1 da4 sheng1 yi3 chong2 jiu3 ri4 zhi4 jiu3 yue1 liang2 zhang4 ren2 bo2 duan4 xiong1 yuan2 heng2 fan1 yi4 yu3 yan1 fu4 shi1 er4 shou3     qi2 er4
+title: 邢兄大聲以重九日置酒約梁丈仁伯段兄元衡蕃亦與焉賦詩二首・其二
+titlePinyin: xing2 xiong1 da4 sheng1 yi3 chong2 jiu3 ri4 zhi4 jiu3 yue1 liang2 zhang4 ren2 bo2 duan4 xiong1 yuan2 heng2 fan1 yi4 yu3 yan1 fu4 shi1 er4 shou3・qi2 er4
 titleSlug: xing-xiong-da-sheng-yi-chong-jiu-ri-zhi-jiu-yue-liang-zhang-ren-bo-duan-xiong-yuan-heng-fan-yi-yu-yan-fu-shi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

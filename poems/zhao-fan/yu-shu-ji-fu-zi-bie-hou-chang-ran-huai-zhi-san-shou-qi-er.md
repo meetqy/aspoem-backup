@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-shu-ji-fu-zi-bie-hou-chang-ran-huai-zhi-san-shou-qi-er
-title: 與叔驥父子別後悵然懷之三首  其二
-titlePinyin: yu3 shu1 ji4 fu4 zi3 bie2 hou4 chang4 ran2 huai2 zhi1 san1 shou3     qi2 er4
+title: 與叔驥父子別後悵然懷之三首・其二
+titlePinyin: yu3 shu1 ji4 fu4 zi3 bie2 hou4 chang4 ran2 huai2 zhi1 san1 shou3・qi2 er4
 titleSlug: yu-shu-ji-fu-zi-bie-hou-chang-ran-huai-zhi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

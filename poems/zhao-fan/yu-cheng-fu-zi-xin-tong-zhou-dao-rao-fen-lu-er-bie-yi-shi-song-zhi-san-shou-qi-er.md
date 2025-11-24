@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-cheng-fu-zi-xin-tong-zhou-dao-rao-fen-lu-er-bie-yi-shi-song-zhi-san-shou-qi-er
-title: 與成父自信同舟到饒分路而別以詩送之三首  其二
-titlePinyin: yu3 cheng2 fu4 zi4 xin4 tong2 zhou1 dao4 rao2 fen1 lu4 er2 bie2 yi3 shi1 song4 zhi1 san1 shou3     qi2 er4
+title: 與成父自信同舟到饒分路而別以詩送之三首・其二
+titlePinyin: yu3 cheng2 fu4 zi4 xin4 tong2 zhou1 dao4 rao2 fen1 lu4 er2 bie2 yi3 shi1 song4 zhi1 san1 shou3・qi2 er4
 titleSlug: yu-cheng-fu-zi-xin-tong-zhou-dao-rao-fen-lu-er-bie-yi-shi-song-zhi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

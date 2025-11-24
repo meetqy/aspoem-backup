@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-su-yun-shi-xu-si-shou-qi-yi
-title: 與蘇運使詡四首  其一
-titlePinyin: yu3 su1 yun4 shi3 xu3 si4 shou3     qi2 yi1
+title: 與蘇運使詡四首・其一
+titlePinyin: yu3 su1 yun4 shi3 xu3 si4 shou3・qi2 yi1
 titleSlug: yu-su-yun-shi-xu-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yan-shan-qi-er
-title: 嚴山  其二
-titlePinyin: yan2 shan1     qi2 er4
+title: 嚴山・其二
+titlePinyin: yan2 shan1・qi2 er4
 titleSlug: yan-shan-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

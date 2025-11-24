@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-huai-er-shou-qi-yi
-title: 有懷二首  其一
-titlePinyin: you3 huai2 er4 shou3     qi2 yi1
+title: 有懷二首・其一
+titlePinyin: you3 huai2 er4 shou3・qi2 yi1
 titleSlug: you-huai-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

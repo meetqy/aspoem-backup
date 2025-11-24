@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-ju-ji-shi-ba-shou-qi-san
-title: 幽居即事八首  其三
-titlePinyin: you1 ju1 ji2 shi4 ba1 shou3     qi2 san1
+title: 幽居即事八首・其三
+titlePinyin: you1 ju1 ji2 shi4 ba1 shou3・qi2 san1
 titleSlug: you-ju-ji-shi-ba-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

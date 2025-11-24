@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yin-shu-ji-huang-zi-geng-liu-yan-san-shou-qi-yi
-title: 因書寄黄子耕六言三首  其一
-titlePinyin: yin1 shu1 ji4 huang2 zi3 geng1 liu4 yan2 san1 shou3     qi2 yi1
+title: 因書寄黄子耕六言三首・其一
+titlePinyin: yin1 shu1 ji4 huang2 zi3 geng1 liu4 yan2 san1 shou3・qi2 yi1
 titleSlug: yin-shu-ji-huang-zi-geng-liu-yan-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

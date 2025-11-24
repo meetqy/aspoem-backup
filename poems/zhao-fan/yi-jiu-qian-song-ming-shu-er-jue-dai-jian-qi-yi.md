@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-jiu-qian-song-ming-shu-er-jue-dai-jian-qi-yi
-title: 以酒錢送明叔二絕代簡  其一
-titlePinyin: yi3 jiu3 qian2 song4 ming2 shu1 er4 jue2 dai4 jian3     qi2 yi1
+title: 以酒錢送明叔二絕代簡・其一
+titlePinyin: yi3 jiu3 qian2 song4 ming2 shu1 er4 jue2 dai4 jian3・qi2 yi1
 titleSlug: yi-jiu-qian-song-ming-shu-er-jue-dai-jian-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xi-zuo-mei-hua-liu-yan-wei-jiu-er-de-lan-yi-pen-bing-song-zhi-san-shou-qi-er
-title: 戲作梅花六言未就而得蘭一盆并頌之三首  其二
-titlePinyin: xi4 zuo4 mei2 hua1 liu4 yan2 wei4 jiu4 er2 de2 lan2 yi4 pen2 bing4 song4 zhi1 san1 shou3     qi2 er4
+title: 戲作梅花六言未就而得蘭一盆并頌之三首・其二
+titlePinyin: xi4 zuo4 mei2 hua1 liu4 yan2 wei4 jiu4 er2 de2 lan2 yi4 pen2 bing4 song4 zhi1 san1 shou3・qi2 er4
 titleSlug: xi-zuo-mei-hua-liu-yan-wei-jiu-er-de-lan-yi-pen-bing-song-zhi-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

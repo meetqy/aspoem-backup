@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-la-mei-fen-gong-tang-tou-xi-lu-shou-zuo-chong-nan-shou-zuo-hui-jue-ju-ci-yun-bing-jian-tang-tou-er-shou-qi-er
-title: 以蠟梅分供堂頭希盧首座沖南首座惠絕句次韻併簡堂頭二首  其二
-titlePinyin: yi3 la4 mei2 fen1 gong1 tang2 tou2 xi1 lu2 shou3 zuo4 chong1 nan2 shou3 zuo4 hui4 jue2 ju4 ci4 yun4 bing4 jian3 tang2 tou2 er4 shou3     qi2 er4
+title: 以蠟梅分供堂頭希盧首座沖南首座惠絕句次韻併簡堂頭二首・其二
+titlePinyin: yi3 la4 mei2 fen1 gong1 tang2 tou2 xi1 lu2 shou3 zuo4 chong1 nan2 shou3 zuo4 hui4 jue2 ju4 ci4 yun4 bing4 jian3 tang2 tou2 er4 shou3・qi2 er4
 titleSlug: yi-la-mei-fen-gong-tang-tou-xi-lu-shou-zuo-chong-nan-shou-zuo-hui-jue-ju-ci-yun-bing-jian-tang-tou-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

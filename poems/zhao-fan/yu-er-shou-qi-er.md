@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-er-shou-qi-er
-title: 雨二首  其二
-titlePinyin: yu3 er4 shou3     qi2 er4
+title: 雨二首・其二
+titlePinyin: yu3 er4 shou3・qi2 er4
 titleSlug: yu-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

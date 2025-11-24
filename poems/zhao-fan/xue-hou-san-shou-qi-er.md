@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xue-hou-san-shou-qi-er
-title: 雪後三首  其二
-titlePinyin: xue3 hou4 san1 shou3     qi2 er4
+title: 雪後三首・其二
+titlePinyin: xue3 hou4 san1 shou3・qi2 er4
 titleSlug: xue-hou-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-fang-zuo-shu-zhao-cheng-fu-ru-shan-cheng-fu-yi-yi-shu-zhao-yu-chu-xian-bao-yi-liang-jue-qi-er
-title: 予方作書招成父入山成父亦移書招予出縣報以兩絕  其二
-titlePinyin: yu3 fang1 zuo4 shu1 zhao1 cheng2 fu4 ru4 shan1 cheng2 fu4 yi4 yi2 shu1 zhao1 yu3 chu1 xian4 bao4 yi3 liang3 jue2     qi2 er4
+title: 予方作書招成父入山成父亦移書招予出縣報以兩絕・其二
+titlePinyin: yu3 fang1 zuo4 shu1 zhao1 cheng2 fu4 ru4 shan1 cheng2 fu4 yi4 yi2 shu1 zhao1 yu3 chu1 xian4 bao4 yi3 liang3 jue2・qi2 er4
 titleSlug: yu-fang-zuo-shu-zhao-cheng-fu-ru-shan-cheng-fu-yi-yi-shu-zhao-yu-chu-xian-bao-yi-liang-jue-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-li-tan-zhou-chun-shou-weng-wu-shou-qi-si
-title: 與李潭州椿壽翁五首  其四
-titlePinyin: yu3 li3 tan2 zhou1 chun1 shou4 weng1 wu3 shou3     qi2 si4
+title: 與李潭州椿壽翁五首・其四
+titlePinyin: yu3 li3 tan2 zhou1 chun1 shou4 weng1 wu3 shou3・qi2 si4
 titleSlug: yu-li-tan-zhou-chun-shou-weng-wu-shou-qi-si
 author: 趙蕃
 authorPinyin: zhao4 fan1

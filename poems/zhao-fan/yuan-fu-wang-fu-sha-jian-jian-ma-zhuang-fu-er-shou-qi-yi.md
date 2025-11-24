@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yuan-fu-wang-fu-sha-jian-jian-ma-zhuang-fu-er-shou-qi-yi
-title: 遠父往富沙兼簡馬莊父二首  其一
-titlePinyin: yuan3 fu4 wang3 fu4 sha1 jian1 jian3 ma3 zhuang1 fu4 er4 shou3     qi2 yi1
+title: 遠父往富沙兼簡馬莊父二首・其一
+titlePinyin: yuan3 fu4 wang3 fu4 sha1 jian1 jian3 ma3 zhuang1 fu4 er4 shou3・qi2 yi1
 titleSlug: yuan-fu-wang-fu-sha-jian-jian-ma-zhuang-fu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

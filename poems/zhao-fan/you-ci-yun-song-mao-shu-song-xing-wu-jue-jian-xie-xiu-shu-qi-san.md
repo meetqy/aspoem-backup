@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-ci-yun-song-mao-shu-song-xing-wu-jue-jian-xie-xiu-shu-qi-san
-title: 又次韻宋茂叔送行五絕兼謝修叔  其三
-titlePinyin: you4 ci4 yun4 song4 mao4 shu1 song4 xing2 wu3 jue2 jian1 xie4 xiu1 shu1     qi2 san1
+title: 又次韻宋茂叔送行五絕兼謝修叔・其三
+titlePinyin: you4 ci4 yun4 song4 mao4 shu1 song4 xing2 wu3 jue2 jian1 xie4 xiu1 shu1・qi2 san1
 titleSlug: you-ci-yun-song-mao-shu-song-xing-wu-jue-jian-xie-xiu-shu-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

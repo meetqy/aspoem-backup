@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-si-yuan-yun-ji-zhao-hu-zhou-san-shou-qi-yi
-title: 用斯遠韻寄趙湖州三首  其一
-titlePinyin: yong4 si1 yuan3 yun4 ji4 zhao4 hu2 zhou1 san1 shou3     qi2 yi1
+title: 用斯遠韻寄趙湖州三首・其一
+titlePinyin: yong4 si1 yuan3 yun4 ji4 zhao4 hu2 zhou1 san1 shou3・qi2 yi1
 titleSlug: yong-si-yuan-yun-ji-zhao-hu-zhou-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yan-bo-shan-yi-meng-dong-ye-ji-jian-hui-er-shou-qi-yi
-title: 閻伯善以孟東野集見惠二首  其一
-titlePinyin: yan2 bo2 shan4 yi3 meng4 dong1 ye3 ji2 jian4 hui4 er4 shou3     qi2 yi1
+title: 閻伯善以孟東野集見惠二首・其一
+titlePinyin: yan2 bo2 shan4 yi3 meng4 dong1 ye3 ji2 jian4 hui4 er4 shou3・qi2 yi1
 titleSlug: yan-bo-shan-yi-meng-dong-ye-ji-jian-hui-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

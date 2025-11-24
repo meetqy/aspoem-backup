@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-zhong-yi-hua-ji-huai-ceng-ji-yong-yan-cong-li-er-shou-qi-yi
-title: 雨中憶花寄懷曾季永嚴從禮二首  其一
-titlePinyin: yu3 zhong1 yi4 hua1 ji4 huai2 ceng2 ji4 yong3 yan2 cong2 li3 er4 shou3     qi2 yi1
+title: 雨中憶花寄懷曾季永嚴從禮二首・其一
+titlePinyin: yu3 zhong1 yi4 hua1 ji4 huai2 ceng2 ji4 yong3 yan2 cong2 li3 er4 shou3・qi2 yi1
 titleSlug: yu-zhong-yi-hua-ji-huai-ceng-ji-yong-yan-cong-li-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-hua-qi-yi
-title: 野花  其一
-titlePinyin: ye3 hua1     qi2 yi1
+title: 野花・其一
+titlePinyin: ye3 hua1・qi2 yi1
 titleSlug: ye-hua-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

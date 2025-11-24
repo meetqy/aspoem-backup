@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yue-han-bo-xiu-ji-shi-qi-zi-er-shou-qi-yi
-title: 閲韓伯修集示其子二首  其一
-titlePinyin: yue4 han2 bo2 xiu1 ji2 shi4 qi2 zi3 er4 shou3     qi2 yi1
+title: 閲韓伯修集示其子二首・其一
+titlePinyin: yue4 han2 bo2 xiu1 ji2 shi4 qi2 zi3 er4 shou3・qi2 yi1
 titleSlug: yue-han-bo-xiu-ji-shi-qi-zi-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

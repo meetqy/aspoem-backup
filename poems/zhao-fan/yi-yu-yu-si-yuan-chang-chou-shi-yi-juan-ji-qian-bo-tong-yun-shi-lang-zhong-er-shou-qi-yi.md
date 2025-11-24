@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-yu-yu-si-yuan-chang-chou-shi-yi-juan-ji-qian-bo-tong-yun-shi-lang-zhong-er-shou-qi-yi
-title: 以予與斯遠倡酬詩一卷寄錢伯同運使郎中二首  其一
-titlePinyin: yi3 yu3 yu3 si1 yuan3 chang4 chou2 shi1 yi2 juan4 ji4 qian2 bo2 tong2 yun4 shi3 lang2 zhong1 er4 shou3     qi2 yi1
+title: 以予與斯遠倡酬詩一卷寄錢伯同運使郎中二首・其一
+titlePinyin: yi3 yu3 yu3 si1 yuan3 chang4 chou2 shi1 yi2 juan4 ji4 qian2 bo2 tong2 yun4 shi3 lang2 zhong1 er4 shou3・qi2 yi1
 titleSlug: yi-yu-yu-si-yuan-chang-chou-shi-yi-juan-ji-qian-bo-tong-yun-shi-lang-zhong-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

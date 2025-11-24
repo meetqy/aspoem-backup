@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-wen-ruo-guan-chui-zhe-yi-er-tong-wei-zhi-wen-zhi-nai-niao-you-ming-zhu-guan-zhe-qi-sheng-zheng-ru-shi-yun-zuo-san-jue-qi-er
-title: 有聞若管吹者意兒童爲之問之乃鳥有名竹管者其聲政如是云作三絕  其二
-titlePinyin: you3 wen2 ruo4 guan3 chui1 zhe3 yi4 er2 tong2 wei2 zhi1 wen4 zhi1 nai3 niao3 you3 ming2 zhu2 guan3 zhe3 qi2 sheng1 zheng4 ru2 shi4 yun2 zuo4 san1 jue2     qi2 er4
+title: 有聞若管吹者意兒童爲之問之乃鳥有名竹管者其聲政如是云作三絕・其二
+titlePinyin: you3 wen2 ruo4 guan3 chui1 zhe3 yi4 er2 tong2 wei2 zhi1 wen4 zhi1 nai3 niao3 you3 ming2 zhu2 guan3 zhe3 qi2 sheng1 zheng4 ru2 shi4 yun2 zuo4 san1 jue2・qi2 er4
 titleSlug: you-wen-ruo-guan-chui-zhe-yi-er-tong-wei-zhi-wen-zhi-nai-niao-you-ming-zhu-guan-zhe-qi-sheng-zheng-ru-shi-yun-zuo-san-jue-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-jiu-shi-ji-tou-xie-chang-guo-san-shou-qi-er
-title: 以舊詩寄投謝昌國三首  其二
-titlePinyin: yi3 jiu4 shi1 ji4 tou2 xie4 chang1 guo2 san1 shou3     qi2 er4
+title: 以舊詩寄投謝昌國三首・其二
+titlePinyin: yi3 jiu4 shi1 ji4 tou2 xie4 chang1 guo2 san1 shou3・qi2 er4
 titleSlug: yi-jiu-shi-ji-tou-xie-chang-guo-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

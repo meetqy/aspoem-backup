@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xiao-deng-kuai-ge-qi-er
-title: 曉登快閣  其二
-titlePinyin: xiao3 deng1 kuai4 ge2     qi2 er4
+title: 曉登快閣・其二
+titlePinyin: xiao3 deng1 kuai4 ge2・qi2 er4
 titleSlug: xiao-deng-kuai-ge-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

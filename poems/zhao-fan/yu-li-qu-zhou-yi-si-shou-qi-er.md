@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-li-qu-zhou-yi-si-shou-qi-er
-title: 與李衢州嶧四首  其二
-titlePinyin: yu3 li3 qu2 zhou1 yi4 si4 shou3     qi2 er4
+title: 與李衢州嶧四首・其二
+titlePinyin: yu3 li3 qu2 zhou1 yi4 si4 shou3・qi2 er4
 titleSlug: yu-li-qu-zhou-yi-si-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

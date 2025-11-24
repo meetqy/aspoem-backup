@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-hou-kou-zhan-jian-zai-bo-er-shou-qi-er
-title: 雨後口占簡在伯二首  其二
-titlePinyin: yu3 hou4 kou3 zhan4 jian3 zai4 bo2 er4 shou3     qi2 er4
+title: 雨後口占簡在伯二首・其二
+titlePinyin: yu3 hou4 kou3 zhan4 jian3 zai4 bo2 er4 shou3・qi2 er4
 titleSlug: yu-hou-kou-zhan-jian-zai-bo-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-ci-qian-pan-zhang-xi-hua-jue-ju-san-shou-qi-yi
-title: 又次簽判丈惜花絕句三首  其一
-titlePinyin: you4 ci4 qian1 pan4 zhang4 xi1 hua1 jue2 ju4 san1 shou3     qi2 yi1
+title: 又次簽判丈惜花絕句三首・其一
+titlePinyin: you4 ci4 qian1 pan4 zhang4 xi1 hua1 jue2 ju4 san1 shou3・qi2 yi1
 titleSlug: you-ci-qian-pan-zhang-xi-hua-jue-ju-san-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

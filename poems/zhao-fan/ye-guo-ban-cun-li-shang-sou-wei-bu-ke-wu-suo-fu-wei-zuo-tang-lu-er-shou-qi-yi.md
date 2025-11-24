@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-guo-ban-cun-li-shang-sou-wei-bu-ke-wu-suo-fu-wei-zuo-tang-lu-er-shou-qi-yi
-title: 夜過半村李商叟謂不可無所賦爲作唐律二首  其一
-titlePinyin: ye4 guo4 ban4 cun1 li3 shang1 sou3 wei4 bu4 ke3 wu2 suo3 fu4 wei2 zuo4 tang2 lü4 er4 shou3     qi2 yi1
+title: 夜過半村李商叟謂不可無所賦爲作唐律二首・其一
+titlePinyin: ye4 guo4 ban4 cun1 li3 shang1 sou3 wei4 bu4 ke3 wu2 suo3 fu4 wei2 zuo4 tang2 lü4 er4 shou3・qi2 yi1
 titleSlug: ye-guo-ban-cun-li-shang-sou-wei-bu-ke-wu-suo-fu-wei-zuo-tang-lu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-you-yang-shan-yu-you-lan-ruo-bu-guo-huai-hun-rong-er-shou-qi-er
-title: 遊仰山欲游蘭若不果懷混融二首  其二
-titlePinyin: you2 yang3 shan1 yu4 you2 lan2 ruo4 bu4 guo3 huai2 hun4 rong2 er4 shou3     qi2 er4
+title: 遊仰山欲游蘭若不果懷混融二首・其二
+titlePinyin: you2 yang3 shan1 yu4 you2 lan2 ruo4 bu4 guo3 huai2 hun4 rong2 er4 shou3・qi2 er4
 titleSlug: you-yang-shan-yu-you-lan-ruo-bu-guo-huai-hun-rong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

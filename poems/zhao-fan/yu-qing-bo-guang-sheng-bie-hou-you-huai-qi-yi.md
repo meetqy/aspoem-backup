@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-qing-bo-guang-sheng-bie-hou-you-huai-qi-yi
-title: 與慶伯廣聲別後有懷  其一
-titlePinyin: yu3 qing4 bo2 guang3 sheng1 bie2 hou4 you3 huai2     qi2 yi1
+title: 與慶伯廣聲別後有懷・其一
+titlePinyin: yu3 qing4 bo2 guang3 sheng1 bie2 hou4 you3 huai2・qi2 yi1
 titleSlug: yu-qing-bo-guang-sheng-bie-hou-you-huai-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

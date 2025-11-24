@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-meng-xia-chang-chou-chen-zi-gao-shi-ji-ji-cheng-bing-jie-qiong-chou-zhi-ji-qi-xiong-xing-hua-ji-si-shou-qi-yi
-title: 以孟夏唱酬陳子高詩寄季承并借窮愁志及其兄興化集四首  其一
-titlePinyin: yi3 meng4 xia4 chang4 chou2 chen2 zi3 gao1 shi1 ji4 ji4 cheng2 bing4 jie4 qiong2 chou2 zhi4 ji2 qi2 xiong1 xing1 hua4 ji2 si4 shou3     qi2 yi1
+title: 以孟夏唱酬陳子高詩寄季承并借窮愁志及其兄興化集四首・其一
+titlePinyin: yi3 meng4 xia4 chang4 chou2 chen2 zi3 gao1 shi1 ji4 ji4 cheng2 bing4 jie4 qiong2 chou2 zhi4 ji2 qi2 xiong1 xing1 hua4 ji2 si4 shou3・qi2 yi1
 titleSlug: yi-meng-xia-chang-chou-chen-zi-gao-shi-ji-ji-cheng-bing-jie-qiong-chou-zhi-ji-qi-xiong-xing-hua-ji-si-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-sun-song-zhu-gong-er-shou-qi-er
-title: 以筍送諸公二首  其二
-titlePinyin: yi3 sun3 song4 zhu1 gong1 er4 shou3     qi2 er4
+title: 以筍送諸公二首・其二
+titlePinyin: yi3 sun3 song4 zhu1 gong1 er4 shou3・qi2 er4
 titleSlug: yi-sun-song-zhu-gong-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

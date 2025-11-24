@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yi-hu-zhou-su-xiu-zhou-mu-xi-mian-you-tai-he-shi-ben-guan-yin-xiang-song-mo-wan-an-san-shou-qi-san
-title: 以湖州酥秀州木犀面油太和石本觀音像送莫萬安三首  其三
-titlePinyin: yi3 hu2 zhou1 su1 xiu4 zhou1 mu4 xi1 mian4 you2 tai4 he2 shi2 ben3 guan1 yin1 xiang4 song4 mo4 wan4 an1 san1 shou3     qi2 san1
+title: 以湖州酥秀州木犀面油太和石本觀音像送莫萬安三首・其三
+titlePinyin: yi3 hu2 zhou1 su1 xiu4 zhou1 mu4 xi1 mian4 you2 tai4 he2 shi2 ben3 guan1 yin1 xiang4 song4 mo4 wan4 an1 san1 shou3・qi2 san1
 titleSlug: yi-hu-zhou-su-xiu-zhou-mu-xi-mian-you-tai-he-shi-ben-guan-yin-xiang-song-mo-wan-an-san-shou-qi-san
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-xu-shen-zhi-zhi-jiu-hui-zhe-san-ren-yi-wei-ci-chun-jiu-yi-jie-mei-shou-fen-yun-zuo-shi-fan-de-jie-mei-zi-er-shou-qi-er
-title: 徐審知置酒會者三人以爲此春酒以介眉壽分韵作詩蕃得介眉字二首  其二
-titlePinyin: xu2 shen3 zhi1 zhi4 jiu3 hui4 zhe3 san1 ren2 yi3 wei2 ci3 chun1 jiu3 yi3 jie4 mei2 shou4 fen1 yun4 zuo4 shi1 fan1 de2 jie4 mei2 zi4 er4 shou3     qi2 er4
+title: 徐審知置酒會者三人以爲此春酒以介眉壽分韵作詩蕃得介眉字二首・其二
+titlePinyin: xu2 shen3 zhi1 zhi4 jiu3 hui4 zhe3 san1 ren2 yi3 wei2 ci3 chun1 jiu3 yi3 jie4 mei2 shou4 fen1 yun4 zuo4 shi1 fan1 de2 jie4 mei2 zi4 er4 shou3・qi2 er4
 titleSlug: xu-shen-zhi-zhi-jiu-hui-zhe-san-ren-yi-wei-ci-chun-jiu-yi-jie-mei-shou-fen-yun-zuo-shi-fan-de-jie-mei-zi-er-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-yi-dai-bu-shu-ren-bai-nian-neng-ji-jian-wei-yun-shi-fu-shi-zhang-cheng-chen-jun-ju-qi-er
-title: 用一代不數人百年能幾見爲韻詩賦十章呈陳君舉  其二
-titlePinyin: yong4 yi2 dai4 bu2 shu4 ren2 bai3 nian2 neng2 ji1 jian4 wei2 yun4 shi1 fu4 shi2 zhang1 cheng2 chen2 jun1 ju3     qi2 er4
+title: 用一代不數人百年能幾見爲韻詩賦十章呈陳君舉・其二
+titlePinyin: yong4 yi2 dai4 bu2 shu4 ren2 bai3 nian2 neng2 ji1 jian4 wei2 yun4 shi1 fu4 shi2 zhang1 cheng2 chen2 jun1 ju3・qi2 er4
 titleSlug: yong-yi-dai-bu-shu-ren-bai-nian-neng-ji-jian-wei-yun-shi-fu-shi-zhang-cheng-chen-jun-ju-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

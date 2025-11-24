@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-fu-er-shou-qi-yi
-title: 夜賦二首  其一
-titlePinyin: ye4 fu4 er4 shou3     qi2 yi1
+title: 夜賦二首・其一
+titlePinyin: ye4 fu4 er4 shou3・qi2 yi1
 titleSlug: ye-fu-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

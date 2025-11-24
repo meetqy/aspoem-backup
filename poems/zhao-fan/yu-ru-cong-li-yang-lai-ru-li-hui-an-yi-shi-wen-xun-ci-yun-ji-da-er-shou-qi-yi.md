@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yu-ru-cong-li-yang-lai-ru-li-hui-an-yi-shi-wen-xun-ci-yun-ji-da-er-shou-qi-yi
-title: 玉汝從溧陽來辱李晦菴以詩問訊次韻寄答二首  其一
-titlePinyin: yu4 ru3 cong2 li4 yang2 lai2 ru3 li3 hui4 an1 yi3 shi1 wen4 xun4 ci4 yun4 ji4 da2 er4 shou3     qi2 yi1
+title: 玉汝從溧陽來辱李晦菴以詩問訊次韻寄答二首・其一
+titlePinyin: yu4 ru3 cong2 li4 yang2 lai2 ru3 li3 hui4 an1 yi3 shi1 wen4 xun4 ci4 yun4 ji4 da2 er4 shou3・qi2 yi1
 titleSlug: yu-ru-cong-li-yang-lai-ru-li-hui-an-yi-shi-wen-xun-ci-yun-ji-da-er-shou-qi-yi
 author: 趙蕃
 authorPinyin: zhao4 fan1

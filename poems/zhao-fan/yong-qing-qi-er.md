@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-yong-qing-qi-er
-title: 詠晴  其二
-titlePinyin: yong3 qing2     qi2 er4
+title: 詠晴・其二
+titlePinyin: yong3 qing2・qi2 er4
 titleSlug: yong-qing-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1

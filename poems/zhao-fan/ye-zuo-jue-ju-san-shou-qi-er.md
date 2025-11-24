@@ -1,7 +1,7 @@
 ---
 id: zhao-fan-ye-zuo-jue-ju-san-shou-qi-er
-title: 夜作絕句三首  其二
-titlePinyin: ye4 zuo4 jue2 ju4 san1 shou3     qi2 er4
+title: 夜作絕句三首・其二
+titlePinyin: ye4 zuo4 jue2 ju4 san1 shou3・qi2 er4
 titleSlug: ye-zuo-jue-ju-san-shou-qi-er
 author: 趙蕃
 authorPinyin: zhao4 fan1
