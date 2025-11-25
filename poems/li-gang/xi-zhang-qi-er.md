@@ -1,7 +1,7 @@
 ---
 id: li-gang-xi-zhang-qi-er
-title: 溪漲  其二
-titlePinyin: xi1 zhang3     qi2 er4
+title: 溪漲・其二
+titlePinyin: xi1 zhang3・qi2 er4
 titleSlug: xi-zhang-qi-er
 author: 李綱
 authorPinyin: li3 gang1

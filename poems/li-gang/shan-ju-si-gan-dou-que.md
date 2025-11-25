@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-gan-dou-que
-title: 山居四感 鬬雀
-titlePinyin: shan1 ju1 si4 gan3   dou4 que4
+title: 山居四感・鬬雀
+titlePinyin: shan1 ju1 si4 gan3・dou4 que4
 titleSlug: shan-ju-si-gan-dou-que
 author: 李綱
 authorPinyin: li3 gang1

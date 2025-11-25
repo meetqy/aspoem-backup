@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-yue-liu-ri-lu-shi-li-chang-le-cheng-zhou-ru-shui-kou-er-shou-qi-yi
-title: 五月六日率師離長樂乘舟如水口二首  其一
-titlePinyin: wu3 yue4 liu4 ri4 lü4 shi1 li2 chang2 le4 cheng2 zhou1 ru2 shui3 kou3 er4 shou3     qi2 yi1
+title: 五月六日率師離長樂乘舟如水口二首・其一
+titlePinyin: wu3 yue4 liu4 ri4 lü4 shi1 li2 chang2 le4 cheng2 zhou1 ru2 shui3 kou3 er4 shou3・qi2 yi1
 titleSlug: wu-yue-liu-ri-lu-shi-li-chang-le-cheng-zhou-ru-shui-kou-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

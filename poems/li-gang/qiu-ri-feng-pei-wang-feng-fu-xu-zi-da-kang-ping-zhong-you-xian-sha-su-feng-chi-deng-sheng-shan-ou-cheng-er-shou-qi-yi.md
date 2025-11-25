@@ -1,7 +1,7 @@
 ---
 id: li-gang-qiu-ri-feng-pei-wang-feng-fu-xu-zi-da-kang-ping-zhong-you-xian-sha-su-feng-chi-deng-sheng-shan-ou-cheng-er-shou-qi-yi
-title: 秋日奉陪王豐甫許子大康平仲遊賢沙宿鳳池登昇山偶成二首  其一
-titlePinyin: qiu1 ri4 feng4 pei2 wang2 feng1 fu3 xu1 zi3 da4 kang1 ping2 zhong4 you2 xian2 sha1 su4 feng4 chi2 deng1 sheng1 shan1 ou3 cheng2 er4 shou3     qi2 yi1
+title: 秋日奉陪王豐甫許子大康平仲遊賢沙宿鳳池登昇山偶成二首・其一
+titlePinyin: qiu1 ri4 feng4 pei2 wang2 feng1 fu3 xu1 zi3 da4 kang1 ping2 zhong4 you2 xian2 sha1 su4 feng4 chi2 deng1 sheng1 shan1 ou3 cheng2 er4 shou3・qi2 yi1
 titleSlug: qiu-ri-feng-pei-wang-feng-fu-xu-zi-da-kang-ping-zhong-you-xian-sha-su-feng-chi-deng-sheng-shan-ou-cheng-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

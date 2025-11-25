@@ -1,7 +1,7 @@
 ---
 id: li-gang-nan-an-yan-gong-ye-ding-guang-yuan-ying-shan-shi-er-shou-qi-er
-title: 南安巖恭謁定光圓應禪師二首  其二
-titlePinyin: nan2 an1 yan2 gong1 ye4 ding4 guang1 yuan2 ying1 shan4 shi1 er4 shou3     qi2 er4
+title: 南安巖恭謁定光圓應禪師二首・其二
+titlePinyin: nan2 an1 yan2 gong1 ye4 ding4 guang1 yuan2 ying1 shan4 shi1 er4 shou3・qi2 er4
 titleSlug: nan-an-yan-gong-ye-ding-guang-yuan-ying-shan-shi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-yong-zhi-zhang
-title: 山居四詠 紙帳
-titlePinyin: shan1 ju1 si4 yong3   zhi3 zhang4
+title: 山居四詠・紙帳
+titlePinyin: shan1 ju1 si4 yong3・zhi3 zhang4
 titleSlug: shan-ju-si-yong-zhi-zhang
 author: 李綱
 authorPinyin: li3 gang1

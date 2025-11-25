@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-qin-ji-ci-zhen-xiang-lu-po-jia-yi-shi-da-zhi-ci-zhen
-title: 吴親寄甆枕香罏頗佳以詩答之 甆枕
-titlePinyin: wu2 qin1 ji4 ci2 zhen3 xiang1 lu2 po1 jia1 yi3 shi1 da2 zhi1   ci2 zhen3
+title: 吴親寄甆枕香罏頗佳以詩答之・甆枕
+titlePinyin: wu2 qin1 ji4 ci2 zhen3 xiang1 lu2 po1 jia1 yi3 shi1 da2 zhi1・ci2 zhen3
 titleSlug: wu-qin-ji-ci-zhen-xiang-lu-po-jia-yi-shi-da-zhi-ci-zhen
 author: 李綱
 authorPinyin: li3 gang1

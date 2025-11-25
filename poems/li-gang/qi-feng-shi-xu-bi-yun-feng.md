@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-bi-yun-feng
-title: 七峰詩序 碧雲峰
-titlePinyin: qi1 feng1 shi1 xu4   bi4 yun2 feng1
+title: 七峰詩序・碧雲峰
+titlePinyin: qi1 feng1 shi1 xu4・bi4 yun2 feng1
 titleSlug: qi-feng-shi-xu-bi-yun-feng
 author: 李綱
 authorPinyin: li3 gang1

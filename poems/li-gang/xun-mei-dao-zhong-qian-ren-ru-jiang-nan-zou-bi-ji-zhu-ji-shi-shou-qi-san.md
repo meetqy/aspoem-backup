@@ -1,7 +1,7 @@
 ---
 id: li-gang-xun-mei-dao-zhong-qian-ren-ru-jiang-nan-zou-bi-ji-zhu-ji-shi-shou-qi-san
-title: 循梅道中遣人如江南走筆寄諸季十首  其三
-titlePinyin: xun2 mei2 dao4 zhong1 qian3 ren2 ru2 jiang1 nan2 zou3 bi3 ji4 zhu1 ji4 shi2 shou3     qi2 san1
+title: 循梅道中遣人如江南走筆寄諸季十首・其三
+titlePinyin: xun2 mei2 dao4 zhong1 qian3 ren2 ru2 jiang1 nan2 zou3 bi3 ji4 zhu1 ji4 shi2 shou3・qi2 san1
 titleSlug: xun-mei-dao-zhong-qian-ren-ru-jiang-nan-zou-bi-ji-zhu-ji-shi-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

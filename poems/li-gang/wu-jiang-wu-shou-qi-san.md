@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-jiang-wu-shou-qi-san
-title: 吳江五首  其三
-titlePinyin: wu2 jiang1 wu3 shou3     qi2 san1
+title: 吳江五首・其三
+titlePinyin: wu2 jiang1 wu3 shou3・qi2 san1
 titleSlug: wu-jiang-wu-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

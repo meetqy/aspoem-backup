@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-yue-liu-ri-tong-xi-da-yu-he-jing-gao-zu-feng-nian-zhi-qing-zhen-shang-yong-qian-yun-zai-fu-liang-pian-cheng-quan-zhen-zhu-gong-qi-yi
-title: 七月六日通夕大雨闔境告足豐年之慶枕上用前韻再賦兩篇呈全真諸公  其一
-titlePinyin: qi1 yue4 liu4 ri4 tong1 xi1 da4 yu3 he2 jing4 gao4 zu2 feng1 nian2 zhi1 qing4 zhen3 shang4 yong4 qian2 yun4 zai4 fu4 liang3 pian1 cheng2 quan2 zhen1 zhu1 gong1     qi2 yi1
+title: 七月六日通夕大雨闔境告足豐年之慶枕上用前韻再賦兩篇呈全真諸公・其一
+titlePinyin: qi1 yue4 liu4 ri4 tong1 xi1 da4 yu3 he2 jing4 gao4 zu2 feng1 nian2 zhi1 qing4 zhen3 shang4 yong4 qian2 yun4 zai4 fu4 liang3 pian1 cheng2 quan2 zhen1 zhu1 gong1・qi2 yi1
 titleSlug: qi-yue-liu-ri-tong-xi-da-yu-he-jing-gao-zu-feng-nian-zhi-qing-zhen-shang-yong-qian-yun-zai-fu-liang-pian-cheng-quan-zhen-zhu-gong-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

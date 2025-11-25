@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-shi-zhuo-jiu
-title: 山居四適 酌酒
-titlePinyin: shan1 ju1 si4 shi4   zhuo2 jiu3
+title: 山居四適・酌酒
+titlePinyin: shan1 ju1 si4 shi4・zhuo2 jiu3
 titleSlug: shan-ju-si-shi-zhuo-jiu
 author: 李綱
 authorPinyin: li3 gang1

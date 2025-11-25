@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-xi-qi-yi
-title: 七夕  其一
-titlePinyin: qi1 xi1     qi2 yi1
+title: 七夕・其一
+titlePinyin: qi1 xi1・qi2 yi1
 titleSlug: qi-xi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

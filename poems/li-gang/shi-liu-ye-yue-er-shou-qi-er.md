@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-liu-ye-yue-er-shou-qi-er
-title: 十六夜月二首  其二
-titlePinyin: shi2 liu4 ye4 yue4 er4 shou3     qi2 er4
+title: 十六夜月二首・其二
+titlePinyin: shi2 liu4 ye4 yue4 er4 shou3・qi2 er4
 titleSlug: shi-liu-ye-yue-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

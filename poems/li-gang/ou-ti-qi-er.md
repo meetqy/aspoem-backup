@@ -1,7 +1,7 @@
 ---
 id: li-gang-ou-ti-qi-er
-title: 偶題  其二
-titlePinyin: ou3 ti2     qi2 er4
+title: 偶題・其二
+titlePinyin: ou3 ti2・qi2 er4
 titleSlug: ou-ti-qi-er
 author: 李綱
 authorPinyin: li3 gang1

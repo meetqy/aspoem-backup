@@ -1,7 +1,7 @@
 ---
 id: li-gang-song-ji-yan-di-huan-xi-shan-sheng-xian-long-si-shou-qi-san
-title: 送季言弟還錫山省先壠四首  其三
-titlePinyin: song4 ji4 yan2 di4 huan2 xi1 shan1 sheng3 xian1 long3 si4 shou3     qi2 san1
+title: 送季言弟還錫山省先壠四首・其三
+titlePinyin: song4 ji4 yan2 di4 huan2 xi1 shan1 sheng3 xian1 long3 si4 shou3・qi2 san1
 titleSlug: song-ji-yan-di-huan-xi-shan-sheng-xian-long-si-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

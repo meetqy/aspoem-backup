@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-xin-ye
-title: 墨戲六首 新葉
-titlePinyin: mo4 xi4 liu4 shou3   xin1 ye4
+title: 墨戲六首・新葉
+titlePinyin: mo4 xi4 liu4 shou3・xin1 ye4
 titleSlug: mo-xi-liu-shou-xin-ye
 author: 李綱
 authorPinyin: li3 gang1

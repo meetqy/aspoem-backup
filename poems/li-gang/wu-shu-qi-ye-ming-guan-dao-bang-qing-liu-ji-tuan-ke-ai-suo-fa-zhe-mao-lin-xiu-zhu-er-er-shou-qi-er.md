@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-shu-qi-ye-ming-guan-dao-bang-qing-liu-ji-tuan-ke-ai-suo-fa-zhe-mao-lin-xiu-zhu-er-er-shou-qi-er
-title: 午暑憇夜明館道傍清流激湍可愛所乏者茂林修竹耳二首  其二
-titlePinyin: wu3 shu3 qi4 ye4 ming2 guan3 dao4 bang4 qing1 liu2 ji1 tuan1 ke3 ai4 suo3 fa2 zhe3 mao4 lin2 xiu1 zhu2 er3 er4 shou3     qi2 er4
+title: 午暑憇夜明館道傍清流激湍可愛所乏者茂林修竹耳二首・其二
+titlePinyin: wu3 shu3 qi4 ye4 ming2 guan3 dao4 bang4 qing1 liu2 ji1 tuan1 ke3 ai4 suo3 fa2 zhe3 mao4 lin2 xiu1 zhu2 er3 er4 shou3・qi2 er4
 titleSlug: wu-shu-qi-ye-ming-guan-dao-bang-qing-liu-ji-tuan-ke-ai-suo-fa-zhe-mao-lin-xiu-zhu-er-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

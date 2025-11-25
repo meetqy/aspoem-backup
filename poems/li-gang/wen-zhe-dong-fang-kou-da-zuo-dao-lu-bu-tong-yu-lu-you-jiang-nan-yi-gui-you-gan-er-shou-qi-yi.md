@@ -1,7 +1,7 @@
 ---
 id: li-gang-wen-zhe-dong-fang-kou-da-zuo-dao-lu-bu-tong-yu-lu-you-jiang-nan-yi-gui-you-gan-er-shou-qi-yi
-title: 聞浙東方寇大作道路不通迂路由江南以歸有感二首  其一
-titlePinyin: wen2 zhe4 dong1 fang1 kou4 da4 zuo4 dao4 lu4 bu4 tong1 yu1 lu4 you2 jiang1 nan2 yi3 gui1 you3 gan3 er4 shou3     qi2 yi1
+title: 聞浙東方寇大作道路不通迂路由江南以歸有感二首・其一
+titlePinyin: wen2 zhe4 dong1 fang1 kou4 da4 zuo4 dao4 lu4 bu4 tong1 yu1 lu4 you2 jiang1 nan2 yi3 gui1 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: wen-zhe-dong-fang-kou-da-zuo-dao-lu-bu-tong-yu-lu-you-jiang-nan-yi-gui-you-gan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

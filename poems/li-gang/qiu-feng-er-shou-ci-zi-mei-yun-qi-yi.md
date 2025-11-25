@@ -1,7 +1,7 @@
 ---
 id: li-gang-qiu-feng-er-shou-ci-zi-mei-yun-qi-yi
-title: 秋風二首次子美韻  其一
-titlePinyin: qiu1 feng1 er4 shou3 ci4 zi3 mei3 yun4     qi2 yi1
+title: 秋風二首次子美韻・其一
+titlePinyin: qiu1 feng1 er4 shou3 ci4 zi3 mei3 yun4・qi2 yi1
 titleSlug: qiu-feng-er-shou-ci-zi-mei-yun-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

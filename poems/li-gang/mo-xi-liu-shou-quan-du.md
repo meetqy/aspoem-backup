@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-quan-du
-title: 墨戲六首 拳蠧
-titlePinyin: mo4 xi4 liu4 shou3   quan2 du4
+title: 墨戲六首・拳蠧
+titlePinyin: mo4 xi4 liu4 shou3・quan2 du4
 titleSlug: mo-xi-liu-shou-quan-du
 author: 李綱
 authorPinyin: li3 gang1

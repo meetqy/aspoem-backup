@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-gui-hua-feng
-title: 七峰詩序 桂華峰
-titlePinyin: qi1 feng1 shi1 xu4   gui4 hua2 feng1
+title: 七峰詩序・桂華峰
+titlePinyin: qi1 feng1 shi1 xu4・gui4 hua2 feng1
 titleSlug: qi-feng-shi-xu-gui-hua-feng
 author: 李綱
 authorPinyin: li3 gang1

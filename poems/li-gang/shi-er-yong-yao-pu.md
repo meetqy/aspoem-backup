@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-yao-pu
-title: 十二詠 藥圃
-titlePinyin: shi2 er4 yong3   yao4 pu3
+title: 十二詠・藥圃
+titlePinyin: shi2 er4 yong3・yao4 pu3
 titleSlug: shi-er-yong-yao-pu
 author: 李綱
 authorPinyin: li3 gang1

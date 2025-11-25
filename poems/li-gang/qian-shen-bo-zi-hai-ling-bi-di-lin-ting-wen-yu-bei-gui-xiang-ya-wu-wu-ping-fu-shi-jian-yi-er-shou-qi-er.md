@@ -1,7 +1,7 @@
 ---
 id: li-gang-qian-shen-bo-zi-hai-ling-bi-di-lin-ting-wen-yu-bei-gui-xiang-ya-wu-wu-ping-fu-shi-jian-yi-er-shou-qi-er
-title: 錢申伯自海陵避地臨汀聞余北歸相迓於武平賦詩見意二首  其二
-titlePinyin: qian2 shen1 bo2 zi4 hai3 ling2 bi4 di4 lin2 ting1 wen2 yu2 bei3 gui1 xiang1 ya4 wu1 wu3 ping2 fu4 shi1 jian4 yi4 er4 shou3     qi2 er4
+title: 錢申伯自海陵避地臨汀聞余北歸相迓於武平賦詩見意二首・其二
+titlePinyin: qian2 shen1 bo2 zi4 hai3 ling2 bi4 di4 lin2 ting1 wen2 yu2 bei3 gui1 xiang1 ya4 wu1 wu3 ping2 fu4 shi1 jian4 yi4 er4 shou3・qi2 er4
 titleSlug: qian-shen-bo-zi-hai-ling-bi-di-lin-ting-wen-yu-bei-gui-xiang-ya-wu-wu-ping-fu-shi-jian-yi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

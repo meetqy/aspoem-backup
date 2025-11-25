@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-qian-xing-si-shou-qi-yi
-title: 山居遣興四首  其一
-titlePinyin: shan1 ju1 qian3 xing1 si4 shou3     qi2 yi1
+title: 山居遣興四首・其一
+titlePinyin: shan1 ju1 qian3 xing1 si4 shou3・qi2 yi1
 titleSlug: shan-ju-qian-xing-si-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

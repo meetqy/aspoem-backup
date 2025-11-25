@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-hua-wu
-title: 十二詠 花塢
-titlePinyin: shi2 er4 yong3   hua1 wu4
+title: 十二詠・花塢
+titlePinyin: shi2 er4 yong3・hua1 wu4
 titleSlug: shi-er-yong-hua-wu
 author: 李綱
 authorPinyin: li3 gang1

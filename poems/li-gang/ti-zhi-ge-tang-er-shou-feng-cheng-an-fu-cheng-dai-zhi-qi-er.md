@@ -1,7 +1,7 @@
 ---
 id: li-gang-ti-zhi-ge-tang-er-shou-feng-cheng-an-fu-cheng-dai-zhi-qi-er
-title: 題止戈堂二首奉呈安撫程待制  其二
-titlePinyin: ti2 zhi3 ge1 tang2 er4 shou3 feng4 cheng2 an1 fu3 cheng2 dai4 zhi4     qi2 er4
+title: 題止戈堂二首奉呈安撫程待制・其二
+titlePinyin: ti2 zhi3 ge1 tang2 er4 shou3 feng4 cheng2 an1 fu3 cheng2 dai4 zhi4・qi2 er4
 titleSlug: ti-zhi-ge-tang-er-shou-feng-cheng-an-fu-cheng-dai-zhi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

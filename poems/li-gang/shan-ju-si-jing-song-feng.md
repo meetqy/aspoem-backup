@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-jing-song-feng
-title: 山居四景 松風
-titlePinyin: shan1 ju1 si4 jing3   song1 feng1
+title: 山居四景・松風
+titlePinyin: shan1 ju1 si4 jing3・song1 feng1
 titleSlug: shan-ju-si-jing-song-feng
 author: 李綱
 authorPinyin: li3 gang1

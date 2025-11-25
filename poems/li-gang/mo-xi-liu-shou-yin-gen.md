@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-yin-gen
-title: 墨戲六首 引根
-titlePinyin: mo4 xi4 liu4 shou3   yin3 gen1
+title: 墨戲六首・引根
+titlePinyin: mo4 xi4 liu4 shou3・yin3 gen1
 titleSlug: mo-xi-liu-shou-yin-gen
 author: 李綱
 authorPinyin: li3 gang1

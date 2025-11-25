@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-li-hua-er-shou-qi-er
-title: 茉莉花二首  其二
-titlePinyin: mo4 li4 hua1 er4 shou3     qi2 er4
+title: 茉莉花二首・其二
+titlePinyin: mo4 li4 hua1 er4 shou3・qi2 er4
 titleSlug: mo-li-hua-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

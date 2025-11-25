@@ -1,7 +1,7 @@
 ---
 id: li-gang-meng-en-chu-jing-hu-guang-nan-xuan-fu-jian-zhi-tan-zhou-ju-zou-ci-mian-qi-er
-title: 蒙恩除荆湖廣南宣撫兼知潭州具奏辭免  其二
-titlePinyin: meng2 en1 chu2 jing1 hu2 guang3 nan2 xuan1 fu3 jian1 zhi1 tan2 zhou1 ju4 zou4 ci2 mian3     qi2 er4
+title: 蒙恩除荆湖廣南宣撫兼知潭州具奏辭免・其二
+titlePinyin: meng2 en1 chu2 jing1 hu2 guang3 nan2 xuan1 fu3 jian1 zhi1 tan2 zhou1 ju4 zou4 ci2 mian3・qi2 er4
 titleSlug: meng-en-chu-jing-hu-guang-nan-xuan-fu-jian-zhi-tan-zhou-ju-zou-ci-mian-qi-er
 author: 李綱
 authorPinyin: li3 gang1

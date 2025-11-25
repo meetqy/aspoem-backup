@@ -1,7 +1,7 @@
 ---
 id: li-gang-yang-fu-ren-wan-zhang-er-shou-qi-er
-title: 楊夫人挽章二首  其二
-titlePinyin: yang2 fu1 ren2 wan3 zhang1 er4 shou3     qi2 er4
+title: 楊夫人挽章二首・其二
+titlePinyin: yang2 fu1 ren2 wan3 zhang1 er4 shou3・qi2 er4
 titleSlug: yang-fu-ren-wan-zhang-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

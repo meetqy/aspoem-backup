@@ -1,7 +1,7 @@
 ---
 id: li-gang-yan-ling-tan-xia-zuo-er-shou-qi-yi
-title: 嚴陵灘下作二首  其一
-titlePinyin: yan2 ling2 tan1 xia4 zuo4 er4 shou3     qi2 yi1
+title: 嚴陵灘下作二首・其一
+titlePinyin: yan2 ling2 tan1 xia4 zuo4 er4 shou3・qi2 yi1
 titleSlug: yan-ling-tan-xia-zuo-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

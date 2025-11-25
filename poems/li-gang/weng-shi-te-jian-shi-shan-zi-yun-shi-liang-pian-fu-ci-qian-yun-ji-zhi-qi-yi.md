@@ -1,7 +1,7 @@
 ---
 id: li-gang-weng-shi-te-jian-shi-shan-zi-yun-shi-liang-pian-fu-ci-qian-yun-ji-zhi-qi-yi
-title: 翁士特見示山字韻詩兩篇復次前韻寄之  其一
-titlePinyin: weng1 shi4 te4 jian4 shi4 shan1 zi4 yun4 shi1 liang3 pian1 fu4 ci4 qian2 yun4 ji4 zhi1     qi2 yi1
+title: 翁士特見示山字韻詩兩篇復次前韻寄之・其一
+titlePinyin: weng1 shi4 te4 jian4 shi4 shan1 zi4 yun4 shi1 liang3 pian1 fu4 ci4 qian2 yun4 ji4 zhi1・qi2 yi1
 titleSlug: weng-shi-te-jian-shi-shan-zi-yun-shi-liang-pian-fu-ci-qian-yun-ji-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

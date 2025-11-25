@@ -1,7 +1,7 @@
 ---
 id: li-gang-qing-xiu-si-zai-yi-yang-shu-shi-li-jian-hui-yuan-zhi-di-ju-zhi-shi-wei-zhi-xiao-lu-shan-er-shou-qi-yi
-title: 清修寺在益陽數十里間惠遠之弟居之世謂之小廬山二首  其一
-titlePinyin: qing1 xiu1 si4 zai4 yi4 yang2 shu4 shi2 li3 jian4 hui4 yuan3 zhi1 di4 ju1 zhi1 shi4 wei4 zhi1 xiao3 lu2 shan1 er4 shou3     qi2 yi1
+title: 清修寺在益陽數十里間惠遠之弟居之世謂之小廬山二首・其一
+titlePinyin: qing1 xiu1 si4 zai4 yi4 yang2 shu4 shi2 li3 jian4 hui4 yuan3 zhi1 di4 ju1 zhi1 shi4 wei4 zhi1 xiao3 lu2 shan1 er4 shou3・qi2 yi1
 titleSlug: qing-xiu-si-zai-yi-yang-shu-shi-li-jian-hui-yuan-zhi-di-ju-zhi-shi-wei-zhi-xiao-lu-shan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

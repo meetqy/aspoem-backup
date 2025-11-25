@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-shi-du-shu
-title: 山居四適 讀書
-titlePinyin: shan1 ju1 si4 shi4   du2 shu1
+title: 山居四適・讀書
+titlePinyin: shan1 ju1 si4 shi4・du2 shu1
 titleSlug: shan-ju-si-shi-du-shu
 author: 李綱
 authorPinyin: li3 gang1

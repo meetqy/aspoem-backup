@@ -1,7 +1,7 @@
 ---
 id: li-gang-xue-zhong-guo-fen-shui-ling-liu-shou-qi-liu
-title: 雪中過分水嶺六首  其六
-titlePinyin: xue3 zhong1 guo4 fen1 shui3 ling3 liu4 shou3     qi2 liu4
+title: 雪中過分水嶺六首・其六
+titlePinyin: xue3 zhong1 guo4 fen1 shui3 ling3 liu4 shou3・qi2 liu4
 titleSlug: xue-zhong-guo-fen-shui-ling-liu-shou-qi-liu
 author: 李綱
 authorPinyin: li3 gang1

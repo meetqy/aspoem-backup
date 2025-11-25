@@ -1,7 +1,7 @@
 ---
 id: li-gang-qian-ye-bi-tao-er-jue-ju-qi-yi
-title: 千葉碧桃二絕句  其一
-titlePinyin: qian1 ye4 bi4 tao2 er4 jue2 ju4     qi2 yi1
+title: 千葉碧桃二絕句・其一
+titlePinyin: qian1 ye4 bi4 tao2 er4 jue2 ju4・qi2 yi1
 titleSlug: qian-ye-bi-tao-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

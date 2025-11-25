@@ -1,7 +1,7 @@
 ---
 id: li-gang-nan-qian-dao-yu-lin-jun-shou-wang-jun-shi-gu-lu-shi-yi-pian-bei-gui-zhe-cheng-liang-pian-yi-da-qi-yi-qi-er
-title: 南遷道鬱林郡守王君示古律詩一篇北歸輙成兩篇以答其意  其二
-titlePinyin: nan2 qian1 dao4 yu4 lin2 jun4 shou3 wang2 jun1 shi4 gu3 lü4 shi1 yi4 pian1 bei3 gui1 zhe2 cheng2 liang3 pian1 yi3 da2 qi2 yi4     qi2 er4
+title: 南遷道鬱林郡守王君示古律詩一篇北歸輙成兩篇以答其意・其二
+titlePinyin: nan2 qian1 dao4 yu4 lin2 jun4 shou3 wang2 jun1 shi4 gu3 lü4 shi1 yi4 pian1 bei3 gui1 zhe2 cheng2 liang3 pian1 yi3 da2 qi2 yi4・qi2 er4
 titleSlug: nan-qian-dao-yu-lin-jun-shou-wang-jun-shi-gu-lu-shi-yi-pian-bei-gui-zhe-cheng-liang-pian-yi-da-qi-yi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

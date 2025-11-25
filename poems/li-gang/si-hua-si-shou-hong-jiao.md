@@ -1,7 +1,7 @@
 ---
 id: li-gang-si-hua-si-shou-hong-jiao
-title: 四花四首 紅蕉
-titlePinyin: si4 hua1 si4 shou3   hong2 jiao1
+title: 四花四首・紅蕉
+titlePinyin: si4 hua1 si4 shou3・hong2 jiao1
 titleSlug: si-hua-si-shou-hong-jiao
 author: 李綱
 authorPinyin: li3 gang1

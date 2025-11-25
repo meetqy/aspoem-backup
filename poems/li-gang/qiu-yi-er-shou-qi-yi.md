@@ -1,7 +1,7 @@
 ---
 id: li-gang-qiu-yi-er-shou-qi-yi
-title: 秋意二首  其一
-titlePinyin: qiu1 yi4 er4 shou3     qi2 yi1
+title: 秋意二首・其一
+titlePinyin: qiu1 yi4 er4 shou3・qi2 yi1
 titleSlug: qiu-yi-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-qu-sui-dao-ba-ling-deng-yue-yang-lou-yi-wang-dong-ting-zhen-tian-xia-zhi-zhuang-guan-ye-yin-song-meng-hao-ran-qi-zheng-yun-meng-ze-bo-han-yue-yang-cheng-zhi-ju-zhui-gu-jin-jue-chang-yong-yi-wei-yun-fu-shi-shi-pian-qi-yi
-title: 去歲道巴陵登岳陽樓以望洞庭真天下之壯觀也因誦孟浩然氣蒸雲夢澤波撼岳陽城之句追古今絕唱用以爲韻賦詩十篇  其一○
-titlePinyin: qu4 sui4 dao4 ba1 ling2 deng1 yue4 yang2 lou2 yi3 wang4 dong4 ting2 zhen1 tian1 xia4 zhi1 zhuang4 guan1 ye3 yin1 song4 meng4 hao4 ran2 qi4 zheng1 yun2 meng4 ze2 bo1 han4 yue4 yang2 cheng2 zhi1 ju4 zhui1 gu3 jin1 jue2 chang4 yong4 yi3 wei2 yun4 fu4 shi1 shi2 pian1     qi2 yi1 ○
+title: 去歲道巴陵登岳陽樓以望洞庭真天下之壯觀也因誦孟浩然氣蒸雲夢澤波撼岳陽城之句追古今絕唱用以爲韻賦詩十篇・其一○
+titlePinyin: qu4 sui4 dao4 ba1 ling2 deng1 yue4 yang2 lou2 yi3 wang4 dong4 ting2 zhen1 tian1 xia4 zhi1 zhuang4 guan1 ye3 yin1 song4 meng4 hao4 ran2 qi4 zheng1 yun2 meng4 ze2 bo1 han4 yue4 yang2 cheng2 zhi1 ju4 zhui1 gu3 jin1 jue2 chang4 yong4 yi3 wei2 yun4 fu4 shi1 shi2 pian1・qi2 yi1 ○
 titleSlug: qu-sui-dao-ba-ling-deng-yue-yang-lou-yi-wang-dong-ting-zhen-tian-xia-zhi-zhuang-guan-ye-yin-song-meng-hao-ran-qi-zheng-yun-meng-ze-bo-han-yue-yang-cheng-zhi-ju-zhui-gu-jin-jue-chang-yong-yi-wei-yun-fu-shi-shi-pian-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

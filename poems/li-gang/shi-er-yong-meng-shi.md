@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-meng-shi
-title: 十二詠 夢室
-titlePinyin: shi2 er4 yong3   meng4 shi4
+title: 十二詠・夢室
+titlePinyin: shi2 er4 yong3・meng4 shi4
 titleSlug: shi-er-yong-meng-shi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-wang-ting-jun-jian-shi-xi-yu-he-pian-ci-yun-da-zhi-er-shou-qi-er
-title: 汪廷俊見示喜雨和篇次韻答之二首  其二
-titlePinyin: wang1 ting2 jun4 jian4 shi4 xi3 yu3 he2 pian1 ci4 yun4 da2 zhi1 er4 shou3     qi2 er4
+title: 汪廷俊見示喜雨和篇次韻答之二首・其二
+titlePinyin: wang1 ting2 jun4 jian4 shi4 xi3 yu3 he2 pian1 ci4 yun4 da2 zhi1 er4 shou3・qi2 er4
 titleSlug: wang-ting-jun-jian-shi-xi-yu-he-pian-ci-yun-da-zhi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

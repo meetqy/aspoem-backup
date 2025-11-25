@@ -1,7 +1,7 @@
 ---
 id: li-gang-mei-hua-er-shou-qi-er
-title: 梅花二首  其二
-titlePinyin: mei2 hua1 er4 shou3     qi2 er4
+title: 梅花二首・其二
+titlePinyin: mei2 hua1 er4 shou3・qi2 er4
 titleSlug: mei-hua-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

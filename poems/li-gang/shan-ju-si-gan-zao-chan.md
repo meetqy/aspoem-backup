@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-gan-zao-chan
-title: 山居四感 噪蟬
-titlePinyin: shan1 ju1 si4 gan3   zao4 chan2
+title: 山居四感・噪蟬
+titlePinyin: shan1 ju1 si4 gan3・zao4 chan2
 titleSlug: shan-ju-si-gan-zao-chan
 author: 李綱
 authorPinyin: li3 gang1

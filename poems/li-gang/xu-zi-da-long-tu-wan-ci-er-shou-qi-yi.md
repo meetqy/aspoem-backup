@@ -1,7 +1,7 @@
 ---
 id: li-gang-xu-zi-da-long-tu-wan-ci-er-shou-qi-yi
-title: 許子大龍圖挽詞二首  其一
-titlePinyin: xu1 zi3 da4 long2 tu2 wan3 ci2 er4 shou3     qi2 yi1
+title: 許子大龍圖挽詞二首・其一
+titlePinyin: xu1 zi3 da4 long2 tu2 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: xu-zi-da-long-tu-wan-ci-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

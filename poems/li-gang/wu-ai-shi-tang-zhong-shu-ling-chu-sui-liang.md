@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-ai-shi-tang-zhong-shu-ling-chu-sui-liang
-title: 五哀詩 唐中書令禇遂良
-titlePinyin: wu3 ai1 shi1   tang2 zhong1 shu1 ling4 chu3 sui4 liang2
+title: 五哀詩・唐中書令禇遂良
+titlePinyin: wu3 ai1 shi1・tang2 zhong1 shu1 ling4 chu3 sui4 liang2
 titleSlug: wu-ai-shi-tang-zhong-shu-ling-chu-sui-liang
 author: 李綱
 authorPinyin: li3 gang1

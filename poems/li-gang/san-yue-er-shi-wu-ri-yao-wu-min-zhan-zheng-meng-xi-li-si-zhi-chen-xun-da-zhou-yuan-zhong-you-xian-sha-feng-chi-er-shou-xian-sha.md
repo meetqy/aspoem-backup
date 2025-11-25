@@ -1,7 +1,7 @@
 ---
 id: li-gang-san-yue-er-shi-wu-ri-yao-wu-min-zhan-zheng-meng-xi-li-si-zhi-chen-xun-da-zhou-yuan-zhong-you-xian-sha-feng-chi-er-shou-xian-sha
-title: 三月二十五日邀吳民瞻鄭夢錫李似之陳巽達周元仲遊賢沙鳳池二首 賢沙
-titlePinyin: san1 yue4 er4 shi2 wu3 ri4 yao1 wu2 min2 zhan1 zheng4 meng4 xi1 li3 si4 zhi1 chen2 xun4 da2 zhou1 yuan2 zhong4 you2 xian2 sha1 feng4 chi2 er4 shou3   xian2 sha1
+title: 三月二十五日邀吳民瞻鄭夢錫李似之陳巽達周元仲遊賢沙鳳池二首・賢沙
+titlePinyin: san1 yue4 er4 shi2 wu3 ri4 yao1 wu2 min2 zhan1 zheng4 meng4 xi1 li3 si4 zhi1 chen2 xun4 da2 zhou1 yuan2 zhong4 you2 xian2 sha1 feng4 chi2 er4 shou3・xian2 sha1
 titleSlug: san-yue-er-shi-wu-ri-yao-wu-min-zhan-zheng-meng-xi-li-si-zhi-chen-xun-da-zhou-yuan-zhong-you-xian-sha-feng-chi-er-shou-xian-sha
 author: 李綱
 authorPinyin: li3 gang1

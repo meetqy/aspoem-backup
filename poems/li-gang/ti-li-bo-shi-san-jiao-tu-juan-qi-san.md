@@ -1,7 +1,7 @@
 ---
 id: li-gang-ti-li-bo-shi-san-jiao-tu-juan-qi-san
-title: 題李伯時三教圖卷  其三
-titlePinyin: ti2 li3 bo2 shi2 san1 jiao4 tu2 juan4     qi2 san1
+title: 題李伯時三教圖卷・其三
+titlePinyin: ti2 li3 bo2 shi2 san1 jiao4 tu2 juan4・qi2 san1
 titleSlug: ti-li-bo-shi-san-jiao-tu-juan-qi-san
 author: 李綱
 authorPinyin: li3 gang1

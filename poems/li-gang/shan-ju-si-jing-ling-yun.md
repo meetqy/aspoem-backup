@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-jing-ling-yun
-title: 山居四景 嶺雲
-titlePinyin: shan1 ju1 si4 jing3   ling3 yun2
+title: 山居四景・嶺雲
+titlePinyin: shan1 ju1 si4 jing3・ling3 yun2
 titleSlug: shan-ju-si-jing-ling-yun
 author: 李綱
 authorPinyin: li3 gang1

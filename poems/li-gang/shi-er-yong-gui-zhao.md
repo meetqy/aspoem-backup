@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-gui-zhao
-title: 十二詠 圭沼
-titlePinyin: shi2 er4 yong3   gui1 zhao3
+title: 十二詠・圭沼
+titlePinyin: shi2 er4 yong3・gui1 zhao3
 titleSlug: shi-er-yong-gui-zhao
 author: 李綱
 authorPinyin: li3 gang1

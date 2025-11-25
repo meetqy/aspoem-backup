@@ -1,7 +1,7 @@
 ---
 id: li-gang-qian-xing-qi-san
-title: 遣興  其三
-titlePinyin: qian3 xing1     qi2 san1
+title: 遣興・其三
+titlePinyin: qian3 xing1・qi2 san1
 titleSlug: qian-xing-qi-san
 author: 李綱
 authorPinyin: li3 gang1

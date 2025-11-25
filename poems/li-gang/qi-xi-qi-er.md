@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-xi-qi-er
-title: 七夕  其二
-titlePinyin: qi1 xi1     qi2 er4
+title: 七夕・其二
+titlePinyin: qi1 xi1・qi2 er4
 titleSlug: qi-xi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

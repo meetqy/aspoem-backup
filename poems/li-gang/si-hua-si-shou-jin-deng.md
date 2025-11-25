@@ -1,7 +1,7 @@
 ---
 id: li-gang-si-hua-si-shou-jin-deng
-title: 四花四首 金燈
-titlePinyin: si4 hua1 si4 shou3   jin1 deng1
+title: 四花四首・金燈
+titlePinyin: si4 hua1 si4 shou3・jin1 deng1
 titleSlug: si-hua-si-shou-jin-deng
 author: 李綱
 authorPinyin: li3 gang1

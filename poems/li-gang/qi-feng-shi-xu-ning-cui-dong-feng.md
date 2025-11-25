@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-ning-cui-dong-feng
-title: 七峰詩序 凝翠東峰
-titlePinyin: qi1 feng1 shi1 xu4   ning2 cui4 dong1 feng1
+title: 七峰詩序・凝翠東峰
+titlePinyin: qi1 feng1 shi1 xu4・ning2 cui4 dong1 feng1
 titleSlug: qi-feng-shi-xu-ning-cui-dong-feng
 author: 李綱
 authorPinyin: li3 gang1

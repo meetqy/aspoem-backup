@@ -1,7 +1,7 @@
 ---
 id: li-gang-rong-nan-chu-shi-li-zhi-er-shou-qi-yi
-title: 容南初食荔枝二首  其一
-titlePinyin: rong2 nan2 chu1 shi2 li4 zhi1 er4 shou3     qi2 yi1
+title: 容南初食荔枝二首・其一
+titlePinyin: rong2 nan2 chu1 shi2 li4 zhi1 er4 shou3・qi2 yi1
 titleSlug: rong-nan-chu-shi-li-zhi-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-gan-zhan-yi
-title: 山居四感 戰蟻
-titlePinyin: shan1 ju1 si4 gan3   zhan4 yi3
+title: 山居四感・戰蟻
+titlePinyin: shan1 ju1 si4 gan3・zhan4 yi3
 titleSlug: shan-ju-si-gan-zhan-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-yong-zhu-zhen
-title: 山居四詠 竹枕
-titlePinyin: shan1 ju1 si4 yong3   zhu2 zhen3
+title: 山居四詠・竹枕
+titlePinyin: shan1 ju1 si4 yong3・zhu2 zhen3
 titleSlug: shan-ju-si-yong-zhu-zhen
 author: 李綱
 authorPinyin: li3 gang1

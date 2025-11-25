@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-tai-shi-xi
-title: 七峰詩序 太史溪
-titlePinyin: qi1 feng1 shi1 xu4   tai4 shi3 xi1
+title: 七峰詩序・太史溪
+titlePinyin: qi1 feng1 shi1 xu4・tai4 shi3 xi1
 titleSlug: qi-feng-shi-xu-tai-shi-xi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-ai-shi-han-chu-shi-mi-heng
-title: 五哀詩 漢處士禰衡
-titlePinyin: wu3 ai1 shi1   han4 chu3 shi4 mi2 heng2
+title: 五哀詩・漢處士禰衡
+titlePinyin: wu3 ai1 shi1・han4 chu3 shi4 mi2 heng2
 titleSlug: wu-ai-shi-han-chu-shi-mi-heng
 author: 李綱
 authorPinyin: li3 gang1
@@ -50,7 +50,7 @@ tags: []
 - guan1 qi2 wei4 ci2 jian4 ， qi4 shi2 qi3 yi4 liang2 。
 - ping2 sheng1 qing1 wei4 zu3 ， zong4 kou3 cheng2 fou3 zang1 。
 - zhao4 ling4 wei2 gu3 li4 ， yue4 shi4 dang1 gai3 zhuang1 。
-- die2  {⻊ xi2 }  chu1 san4 bu4 ， chan1 zhua1 zuo4 yu2 yang2 。
+- die2 {⻊ xi2 } chu1 san4 bu4 ， chan1 zhua1 zuo4 yu2 yang2 。
 - sheng1 jie2 ji4 bei1 zhuang4 ， rong2 tai4 sui2 di1 ang2 。
 - cen2 mu4 yu3 dan1 jiao3 ， luo3 tan3 yi4 gu4 shang0 。
 - que4 lai2 zuo4 jun1 men2 ， hua4 di4 sheng1 lang2 lang2 。

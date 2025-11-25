@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-qing-tang
-title: 十二詠 磬塘
-titlePinyin: shi2 er4 yong3   qing4 tang2
+title: 十二詠・磬塘
+titlePinyin: shi2 er4 yong3・qing4 tang2
 titleSlug: shi-er-yong-qing-tang
 author: 李綱
 authorPinyin: li3 gang1

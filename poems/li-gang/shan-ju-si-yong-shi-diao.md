@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-yong-shi-diao
-title: 山居四詠 石銚
-titlePinyin: shan1 ju1 si4 yong3   shi2 diao4
+title: 山居四詠・石銚
+titlePinyin: shan1 ju1 si4 yong3・shi2 diao4
 titleSlug: shan-ju-si-yong-shi-diao
 author: 李綱
 authorPinyin: li3 gang1

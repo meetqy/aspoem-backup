@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-su-zhi
-title: 墨戲六首 宿枝
-titlePinyin: mo4 xi4 liu4 shou3   su4 zhi1
+title: 墨戲六首・宿枝
+titlePinyin: mo4 xi4 liu4 shou3・su4 zhi1
 titleSlug: mo-xi-liu-shou-su-zhi
 author: 李綱
 authorPinyin: li3 gang1

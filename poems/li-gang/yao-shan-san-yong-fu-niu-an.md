@@ -1,7 +1,7 @@
 ---
 id: li-gang-yao-shan-san-yong-fu-niu-an
-title: 藥山三詠 伏牛菴
-titlePinyin: yao4 shan1 san1 yong3   fu2 niu2 an1
+title: 藥山三詠・伏牛菴
+titlePinyin: yao4 shan1 san1 yong3・fu2 niu2 an1
 titleSlug: yao-shan-san-yong-fu-niu-an
 author: 李綱
 authorPinyin: li3 gang1

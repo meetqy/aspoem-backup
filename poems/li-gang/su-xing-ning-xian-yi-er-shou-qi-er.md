@@ -1,7 +1,7 @@
 ---
 id: li-gang-su-xing-ning-xian-yi-er-shou-qi-er
-title: 宿興寧縣驛二首  其二
-titlePinyin: su4 xing1 ning2 xian4 yi4 er4 shou3     qi2 er4
+title: 宿興寧縣驛二首・其二
+titlePinyin: su4 xing1 ning2 xian4 yi4 er4 shou3・qi2 er4
 titleSlug: su-xing-ning-xian-yi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

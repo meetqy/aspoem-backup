@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-ju-ting
-title: 十二詠 橘亭
-titlePinyin: shi2 er4 yong3   ju2 ting2
+title: 十二詠・橘亭
+titlePinyin: shi2 er4 yong3・ju2 ting2
 titleSlug: shi-er-yong-ju-ting
 author: 李綱
 authorPinyin: li3 gang1

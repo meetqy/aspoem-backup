@@ -1,7 +1,7 @@
 ---
 id: li-gang-tong-qu-yi-ye-zuo-you-gan-er-shou-qi-yi
-title: 通衢驛夜坐有感二首  其一
-titlePinyin: tong1 qu2 yi4 ye4 zuo4 you3 gan3 er4 shou3     qi2 yi1
+title: 通衢驛夜坐有感二首・其一
+titlePinyin: tong1 qu2 yi4 ye4 zuo4 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: tong-qu-yi-ye-zuo-you-gan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

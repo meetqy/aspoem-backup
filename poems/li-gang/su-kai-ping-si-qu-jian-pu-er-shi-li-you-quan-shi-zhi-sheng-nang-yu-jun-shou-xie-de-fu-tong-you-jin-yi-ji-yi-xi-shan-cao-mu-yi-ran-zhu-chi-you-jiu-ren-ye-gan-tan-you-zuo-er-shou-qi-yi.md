@@ -1,7 +1,7 @@
 ---
 id: li-gang-su-kai-ping-si-qu-jian-pu-er-shi-li-you-quan-shi-zhi-sheng-nang-yu-jun-shou-xie-de-fu-tong-you-jin-yi-ji-yi-xi-shan-cao-mu-yi-ran-zhu-chi-you-jiu-ren-ye-gan-tan-you-zuo-er-shou-qi-yi
-title: 宿開平寺去劍浦二十里有泉石之勝曩與郡守謝德夫同遊今一紀矣溪山草木依然住持猶舊人也感嘆有作二首  其一
-titlePinyin: su4 kai1 ping2 si4 qu4 jian4 pu3 er4 shi2 li3 you3 quan2 shi2 zhi1 sheng4 nang3 yu3 jun4 shou3 xie4 de2 fu1 tong2 you2 jin1 yi2 ji4 yi3 xi1 shan1 cao3 mu4 yi1 ran2 zhu4 chi2 you2 jiu4 ren2 ye3 gan3 tan4 you3 zuo4 er4 shou3     qi2 yi1
+title: 宿開平寺去劍浦二十里有泉石之勝曩與郡守謝德夫同遊今一紀矣溪山草木依然住持猶舊人也感嘆有作二首・其一
+titlePinyin: su4 kai1 ping2 si4 qu4 jian4 pu3 er4 shi2 li3 you3 quan2 shi2 zhi1 sheng4 nang3 yu3 jun4 shou3 xie4 de2 fu1 tong2 you2 jin1 yi2 ji4 yi3 xi1 shan1 cao3 mu4 yi1 ran2 zhu4 chi2 you2 jiu4 ren2 ye3 gan3 tan4 you3 zuo4 er4 shou3・qi2 yi1
 titleSlug: su-kai-ping-si-qu-jian-pu-er-shi-li-you-quan-shi-zhi-sheng-nang-yu-jun-shou-xie-de-fu-tong-you-jin-yi-ji-yi-xi-shan-cao-mu-yi-ran-zhu-chi-you-jiu-ren-ye-gan-tan-you-zuo-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

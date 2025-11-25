@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-hui-ji-guan
-title: 山居四卉 雞冠
-titlePinyin: shan1 ju1 si4 hui4   ji1 guan1
+title: 山居四卉・雞冠
+titlePinyin: shan1 ju1 si4 hui4・ji1 guan1
 titleSlug: shan-ju-si-hui-ji-guan
 author: 李綱
 authorPinyin: li3 gang1

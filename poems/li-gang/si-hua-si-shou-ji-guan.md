@@ -1,7 +1,7 @@
 ---
 id: li-gang-si-hua-si-shou-ji-guan
-title: 四花四首 雞冠
-titlePinyin: si4 hua1 si4 shou3   ji1 guan1
+title: 四花四首・雞冠
+titlePinyin: si4 hua1 si4 shou3・ji1 guan1
 titleSlug: si-hua-si-shou-ji-guan
 author: 李綱
 authorPinyin: li3 gang1

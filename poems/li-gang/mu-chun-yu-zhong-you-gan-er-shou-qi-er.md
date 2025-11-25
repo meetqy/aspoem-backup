@@ -1,7 +1,7 @@
 ---
 id: li-gang-mu-chun-yu-zhong-you-gan-er-shou-qi-er
-title: 暮春雨中有感二首  其二
-titlePinyin: mu4 chun1 yu3 zhong1 you3 gan3 er4 shou3     qi2 er4
+title: 暮春雨中有感二首・其二
+titlePinyin: mu4 chun1 yu3 zhong1 you3 gan3 er4 shou3・qi2 er4
 titleSlug: mu-chun-yu-zhong-you-gan-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

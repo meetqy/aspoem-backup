@@ -1,7 +1,7 @@
 ---
 id: li-gang-qiu-ye-you-huai-er-shou-qi-yi
-title: 秋夜有懷二首  其一
-titlePinyin: qiu1 ye4 you3 huai2 er4 shou3     qi2 yi1
+title: 秋夜有懷二首・其一
+titlePinyin: qiu1 ye4 you3 huai2 er4 shou3・qi2 yi1
 titleSlug: qiu-ye-you-huai-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-chang-pu-jian
-title: 十二詠 菖蒲澗
-titlePinyin: shi2 er4 yong3   chang1 pu2 jian4
+title: 十二詠・菖蒲澗
+titlePinyin: shi2 er4 yong3・chang1 pu2 jian4
 titleSlug: shi-er-yong-chang-pu-jian
 author: 李綱
 authorPinyin: li3 gang1

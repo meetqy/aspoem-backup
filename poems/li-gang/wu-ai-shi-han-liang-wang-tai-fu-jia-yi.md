@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-ai-shi-han-liang-wang-tai-fu-jia-yi
-title: 五哀詩 漢梁王太傅賈誼
-titlePinyin: wu3 ai1 shi1   han4 liang2 wang2 tai4 fu4 jia3 yi4
+title: 五哀詩・漢梁王太傅賈誼
+titlePinyin: wu3 ai1 shi1・han4 liang2 wang2 tai4 fu4 jia3 yi4
 titleSlug: wu-ai-shi-han-liang-wang-tai-fu-jia-yi
 author: 李綱
 authorPinyin: li3 gang1

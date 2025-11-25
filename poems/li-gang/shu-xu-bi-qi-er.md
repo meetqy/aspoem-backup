@@ -1,7 +1,7 @@
 ---
 id: li-gang-shu-xu-bi-qi-er
-title: 鼠須筆  其二
-titlePinyin: shu3 xu1 bi3     qi2 er4
+title: 鼠須筆・其二
+titlePinyin: shu3 xu1 bi3・qi2 er4
 titleSlug: shu-xu-bi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-ai-shi-chu-san-lu-dai-fu-qu-yuan
-title: 五哀詩 楚三閭大夫屈原
-titlePinyin: wu3 ai1 shi1   chu3 san1 lü2 dai4 fu0 qu1 yuan2
+title: 五哀詩・楚三閭大夫屈原
+titlePinyin: wu3 ai1 shi1・chu3 san1 lü2 dai4 fu0 qu1 yuan2
 titleSlug: wu-ai-shi-chu-san-lu-dai-fu-qu-yuan
 author: 李綱
 authorPinyin: li3 gang1

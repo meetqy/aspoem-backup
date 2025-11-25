@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-zhu-ting
-title: 十二詠 竹亭
-titlePinyin: shi2 er4 yong3   zhu2 ting2
+title: 十二詠・竹亭
+titlePinyin: shi2 er4 yong3・zhu2 ting2
 titleSlug: shi-er-yong-zhu-ting
 author: 李綱
 authorPinyin: li3 gang1

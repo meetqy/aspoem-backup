@@ -1,7 +1,7 @@
 ---
 id: li-gang-xiao-mao-de-xiu-cai-zi-lin-jiang-qian-ren-zhi-shu-hai-shang-yu-wu-gui-tu-fu-shi-ji-zhi-er-shou-qi-yi
-title: 蕭懋德秀才自臨江遣人致書海上遇於歸途賦詩寄之二首  其一
-titlePinyin: xiao1 mao4 de2 xiu4 cai0 zi4 lin2 jiang1 qian3 ren2 zhi4 shu1 hai3 shang4 yu4 wu1 gui1 tu2 fu4 shi1 ji4 zhi1 er4 shou3     qi2 yi1
+title: 蕭懋德秀才自臨江遣人致書海上遇於歸途賦詩寄之二首・其一
+titlePinyin: xiao1 mao4 de2 xiu4 cai0 zi4 lin2 jiang1 qian3 ren2 zhi4 shu1 hai3 shang4 yu4 wu1 gui1 tu2 fu4 shi1 ji4 zhi1 er4 shou3・qi2 yi1
 titleSlug: xiao-mao-de-xiu-cai-zi-lin-jiang-qian-ren-zhi-shu-hai-shang-yu-wu-gui-tu-fu-shi-ji-zhi-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

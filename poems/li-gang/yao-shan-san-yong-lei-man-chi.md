@@ -1,7 +1,7 @@
 ---
 id: li-gang-yao-shan-san-yong-lei-man-chi
-title: 藥山三詠 雷滿池
-titlePinyin: yao4 shan1 san1 yong3   lei2 man3 chi2
+title: 藥山三詠・雷滿池
+titlePinyin: yao4 shan1 san1 yong3・lei2 man3 chi2
 titleSlug: yao-shan-san-yong-lei-man-chi
 author: 李綱
 authorPinyin: li3 gang1

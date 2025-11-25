@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-chao-yang-feng
-title: 七峰詩序 朝陽峰
-titlePinyin: qi1 feng1 shi1 xu4   chao2 yang2 feng1
+title: 七峰詩序・朝陽峰
+titlePinyin: qi1 feng1 shi1 xu4・chao2 yang2 feng1
 titleSlug: qi-feng-shi-xu-chao-yang-feng
 author: 李綱
 authorPinyin: li3 gang1

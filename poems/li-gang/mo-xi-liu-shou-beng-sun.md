@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-beng-sun
-title: 墨戲六首 迸筍
-titlePinyin: mo4 xi4 liu4 shou3   beng4 sun3
+title: 墨戲六首・迸筍
+titlePinyin: mo4 xi4 liu4 shou3・beng4 sun3
 titleSlug: mo-xi-liu-shou-beng-sun
 author: 李綱
 authorPinyin: li3 gang1

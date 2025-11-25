@@ -1,7 +1,7 @@
 ---
 id: li-gang-tang-zhi-fu-zuo-si-wan-ci-er-shou-qi-yi
-title: 唐植甫左司挽詞二首  其一
-titlePinyin: tang2 zhi2 fu3 zuo3 si1 wan3 ci2 er4 shou3     qi2 yi1
+title: 唐植甫左司挽詞二首・其一
+titlePinyin: tang2 zhi2 fu3 zuo3 si1 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: tang-zhi-fu-zuo-si-wan-ci-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

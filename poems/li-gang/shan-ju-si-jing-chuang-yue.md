@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-jing-chuang-yue
-title: 山居四景 窗月
-titlePinyin: shan1 ju1 si4 jing3   chuang1 yue4
+title: 山居四景・窗月
+titlePinyin: shan1 ju1 si4 jing3・chuang1 yue4
 titleSlug: shan-ju-si-jing-chuang-yue
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-wen-quan-er-jue-qi-yi
-title: 温泉二絕  其一
-titlePinyin: wen1 quan2 er4 jue2     qi2 yi1
+title: 温泉二絕・其一
+titlePinyin: wen1 quan2 er4 jue2・qi2 yi1
 titleSlug: wen-quan-er-jue-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

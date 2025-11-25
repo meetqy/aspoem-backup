@@ -1,7 +1,7 @@
 ---
 id: li-gang-ning-cui-wan-wang-wu-jue-ju-qi-si
-title: 凝翠晚望五絕句  其四
-titlePinyin: ning2 cui4 wan3 wang4 wu3 jue2 ju4     qi2 si4
+title: 凝翠晚望五絕句・其四
+titlePinyin: ning2 cui4 wan3 wang4 wu3 jue2 ju4・qi2 si4
 titleSlug: ning-cui-wan-wang-wu-jue-ju-qi-si
 author: 李綱
 authorPinyin: li3 gang1

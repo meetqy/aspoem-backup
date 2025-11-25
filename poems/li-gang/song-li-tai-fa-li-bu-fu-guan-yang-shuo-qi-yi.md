@@ -1,7 +1,7 @@
 ---
 id: li-gang-song-li-tai-fa-li-bu-fu-guan-yang-shuo-qi-yi
-title: 送李泰發吏部赴官陽朔  其一
-titlePinyin: song4 li3 tai4 fa1 li4 bu4 fu4 guan1 yang2 shuo4     qi2 yi1
+title: 送李泰發吏部赴官陽朔・其一
+titlePinyin: song4 li3 tai4 fa1 li4 bu4 fu4 guan1 yang2 shuo4・qi2 yi1
 titleSlug: song-li-tai-fa-li-bu-fu-guan-yang-shuo-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

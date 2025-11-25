@@ -1,7 +1,7 @@
 ---
 id: li-gang-qiu-si-shi-shou-qi-er
-title: 秋思十首  其二
-titlePinyin: qiu1 si1 shi2 shou3     qi2 er4
+title: 秋思十首・其二
+titlePinyin: qiu1 si1 shi2 shou3・qi2 er4
 titleSlug: qiu-si-shi-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

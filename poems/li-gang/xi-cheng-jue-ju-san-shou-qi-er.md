@@ -1,7 +1,7 @@
 ---
 id: li-gang-xi-cheng-jue-ju-san-shou-qi-er
-title: 戲成絕句三首  其二
-titlePinyin: xi4 cheng2 jue2 ju4 san1 shou3     qi2 er4
+title: 戲成絕句三首・其二
+titlePinyin: xi4 cheng2 jue2 ju4 san1 shou3・qi2 er4
 titleSlug: xi-cheng-jue-ju-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

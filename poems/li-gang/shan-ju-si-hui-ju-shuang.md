@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-hui-ju-shuang
-title: 山居四卉 拒霜
-titlePinyin: shan1 ju1 si4 hui4   ju4 shuang1
+title: 山居四卉・拒霜
+titlePinyin: shan1 ju1 si4 hui4・ju4 shuang1
 titleSlug: shan-ju-si-hui-ju-shuang
 author: 李綱
 authorPinyin: li3 gang1

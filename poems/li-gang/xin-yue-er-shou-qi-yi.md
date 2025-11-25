@@ -1,7 +1,7 @@
 ---
 id: li-gang-xin-yue-er-shou-qi-yi
-title: 新月二首  其一
-titlePinyin: xin1 yue4 er4 shou3     qi2 yi1
+title: 新月二首・其一
+titlePinyin: xin1 yue4 er4 shou3・qi2 yi1
 titleSlug: xin-yue-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

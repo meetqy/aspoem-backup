@@ -1,7 +1,7 @@
 ---
 id: li-gang-ru-jiang-xi-jing-xian-ji-zhu-ji-er-shou-qi-yi
-title: 入江西境先寄諸季二首  其一
-titlePinyin: ru4 jiang1 xi1 jing4 xian1 ji4 zhu1 ji4 er4 shou3     qi2 yi1
+title: 入江西境先寄諸季二首・其一
+titlePinyin: ru4 jiang1 xi1 jing4 xian1 ji4 zhu1 ji4 er4 shou3・qi2 yi1
 titleSlug: ru-jiang-xi-jing-xian-ji-zhu-ji-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-quan-ji-shi-shi-shou-qi-wu
-title: 善權即事十首  其五
-titlePinyin: shan4 quan2 ji2 shi4 shi2 shou3     qi2 wu3
+title: 善權即事十首・其五
+titlePinyin: shan4 quan2 ji2 shi4 shi2 shou3・qi2 wu3
 titleSlug: shan-quan-ji-shi-shi-shou-qi-wu
 author: 李綱
 authorPinyin: li3 gang1

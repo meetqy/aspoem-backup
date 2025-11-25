@@ -1,7 +1,7 @@
 ---
 id: li-gang-song-zhang-zi-gu-da-zi-zheng-fu-zhao-ming-er-shou-qi-er
-title: 送張子固大資政赴召命二首  其二
-titlePinyin: song4 zhang1 zi3 gu4 da4 zi1 zheng4 fu4 zhao4 ming4 er4 shou3     qi2 er4
+title: 送張子固大資政赴召命二首・其二
+titlePinyin: song4 zhang1 zi3 gu4 da4 zi1 zheng4 fu4 zhao4 ming4 er4 shou3・qi2 er4
 titleSlug: song-zhang-zi-gu-da-zi-zheng-fu-zhao-ming-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

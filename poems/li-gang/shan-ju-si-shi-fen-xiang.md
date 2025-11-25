@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-shi-fen-xiang
-title: 山居四適 焚香
-titlePinyin: shan1 ju1 si4 shi4   fen2 xiang1
+title: 山居四適・焚香
+titlePinyin: shan1 ju1 si4 shi4・fen2 xiang1
 titleSlug: shan-ju-si-shi-fen-xiang
 author: 李綱
 authorPinyin: li3 gang1

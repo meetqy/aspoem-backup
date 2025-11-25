@@ -1,7 +1,7 @@
 ---
 id: li-gang-xiao-pu-chu-cheng-qin-chu-cai-zhi-ge-you-shi-yin-ci-qi-yun-er-shou-qi-er
-title: 小圃初成秦楚材直閣有詩因次其韻二首  其二
-titlePinyin: xiao3 pu3 chu1 cheng2 qin2 chu3 cai2 zhi2 ge2 you3 shi1 yin1 ci4 qi2 yun4 er4 shou3     qi2 er4
+title: 小圃初成秦楚材直閣有詩因次其韻二首・其二
+titlePinyin: xiao3 pu3 chu1 cheng2 qin2 chu3 cai2 zhi2 ge2 you3 shi1 yin1 ci4 qi2 yun4 er4 shou3・qi2 er4
 titleSlug: xiao-pu-chu-cheng-qin-chu-cai-zhi-ge-you-shi-yin-ci-qi-yun-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

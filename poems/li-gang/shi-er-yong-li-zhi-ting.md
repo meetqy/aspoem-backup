@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-li-zhi-ting
-title: 十二詠 荔枝亭
-titlePinyin: shi2 er4 yong3   li4 zhi1 ting2
+title: 十二詠・荔枝亭
+titlePinyin: shi2 er4 yong3・li4 zhi1 ting2
 titleSlug: shi-er-yong-li-zhi-ting
 author: 李綱
 authorPinyin: li3 gang1

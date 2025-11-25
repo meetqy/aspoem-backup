@@ -1,7 +1,7 @@
 ---
 id: li-gang-xiang-zhou-dao-zhong-er-shou-qi-yi
-title: 象州道中二首  其一
-titlePinyin: xiang4 zhou1 dao4 zhong1 er4 shou3     qi2 yi1
+title: 象州道中二首・其一
+titlePinyin: xiang4 zhou1 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: xiang-zhou-dao-zhong-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-tong-zi-yi-jian-mei-hua-qi-yi
-title: 童子驛見梅花  其一
-titlePinyin: tong2 zi3 yi4 jian4 mei2 hua1     qi2 yi1
+title: 童子驛見梅花・其一
+titlePinyin: tong2 zi3 yi4 jian4 mei2 hua1・qi2 yi1
 titleSlug: tong-zi-yi-jian-mei-hua-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

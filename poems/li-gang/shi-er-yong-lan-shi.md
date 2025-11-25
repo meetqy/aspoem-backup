@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-lan-shi
-title: 十二詠 蘭室
-titlePinyin: shi2 er4 yong3   lan2 shi4
+title: 十二詠・蘭室
+titlePinyin: shi2 er4 yong3・lan2 shi4
 titleSlug: shi-er-yong-lan-shi
 author: 李綱
 authorPinyin: li3 gang1

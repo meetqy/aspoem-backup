@@ -1,7 +1,7 @@
 ---
 id: li-gang-wu-yuan-zhong-shu-yan-jin-bu-zuo-shi-yi-suo-zhu-bin-qi-yue-shi-yi-jian-shi-yin-cheng-san-pian-zeng-zhi-qi-san
-title: 吴元中書言近不作詩以所著豳七月詩義見示因成三篇贈之  其三
-titlePinyin: wu2 yuan2 zhong1 shu1 yan2 jin4 bu2 zuo4 shi1 yi3 suo3 zhu4 bin1 qi1 yue4 shi1 yi4 jian4 shi4 yin1 cheng2 san1 pian1 zeng4 zhi1     qi2 san1
+title: 吴元中書言近不作詩以所著豳七月詩義見示因成三篇贈之・其三
+titlePinyin: wu2 yuan2 zhong1 shu1 yan2 jin4 bu2 zuo4 shi1 yi3 suo3 zhu4 bin1 qi1 yue4 shi1 yi4 jian4 shi4 yin1 cheng2 san1 pian1 zeng4 zhi1・qi2 san1
 titleSlug: wu-yuan-zhong-shu-yan-jin-bu-zuo-shi-yi-suo-zhu-bin-qi-yue-shi-yi-jian-shi-yin-cheng-san-pian-zeng-zhi-qi-san
 author: 李綱
 authorPinyin: li3 gang1

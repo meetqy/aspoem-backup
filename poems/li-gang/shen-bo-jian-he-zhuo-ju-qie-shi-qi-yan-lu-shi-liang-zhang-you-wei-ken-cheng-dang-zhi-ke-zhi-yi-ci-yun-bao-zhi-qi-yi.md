@@ -1,7 +1,7 @@
 ---
 id: li-gang-shen-bo-jian-he-zhuo-ju-qie-shi-qi-yan-lu-shi-liang-zhang-you-wei-ken-cheng-dang-zhi-ke-zhi-yi-ci-yun-bao-zhi-qi-yi
-title: 申伯見和拙句且示七言律詩兩章有未肯承當制科之意次韻報之  其一
-titlePinyin: shen1 bo2 jian4 he2 zhuo1 ju4 qie3 shi4 qi1 yan2 lü4 shi1 liang3 zhang1 you3 wei4 ken3 cheng2 dang1 zhi4 ke1 zhi1 yi4 ci4 yun4 bao4 zhi1     qi2 yi1
+title: 申伯見和拙句且示七言律詩兩章有未肯承當制科之意次韻報之・其一
+titlePinyin: shen1 bo2 jian4 he2 zhuo1 ju4 qie3 shi4 qi1 yan2 lü4 shi1 liang3 zhang1 you3 wei4 ken3 cheng2 dang1 zhi4 ke1 zhi1 yi4 ci4 yun4 bao4 zhi1・qi2 yi1
 titleSlug: shen-bo-jian-he-zhuo-ju-qie-shi-qi-yan-lu-shi-liang-zhang-you-wei-ken-cheng-dang-zhi-ke-zhi-yi-ci-yun-bao-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

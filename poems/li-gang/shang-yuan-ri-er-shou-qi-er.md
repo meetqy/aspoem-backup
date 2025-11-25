@@ -1,7 +1,7 @@
 ---
 id: li-gang-shang-yuan-ri-er-shou-qi-er
-title: 上元日二首  其二
-titlePinyin: shang4 yuan2 ri4 er4 shou3     qi2 er4
+title: 上元日二首・其二
+titlePinyin: shang4 yuan2 ri4 er4 shou3・qi2 er4
 titleSlug: shang-yuan-ri-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

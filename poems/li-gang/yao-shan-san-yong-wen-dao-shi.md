@@ -1,7 +1,7 @@
 ---
 id: li-gang-yao-shan-san-yong-wen-dao-shi
-title: 藥山三詠 問道室
-titlePinyin: yao4 shan1 san1 yong3   wen4 dao4 shi4
+title: 藥山三詠・問道室
+titlePinyin: yao4 shan1 san1 yong3・wen4 dao4 shi4
 titleSlug: yao-shan-san-yong-wen-dao-shi
 author: 李綱
 authorPinyin: li3 gang1

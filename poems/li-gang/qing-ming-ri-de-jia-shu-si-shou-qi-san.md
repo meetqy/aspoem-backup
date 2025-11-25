@@ -1,7 +1,7 @@
 ---
 id: li-gang-qing-ming-ri-de-jia-shu-si-shou-qi-san
-title: 清明日得家書四首  其三
-titlePinyin: qing1 ming2 ri4 de2 jia1 shu1 si4 shou3     qi2 san1
+title: 清明日得家書四首・其三
+titlePinyin: qing1 ming2 ri4 de2 jia1 shu1 si4 shou3・qi2 san1
 titleSlug: qing-ming-ri-de-jia-shu-si-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

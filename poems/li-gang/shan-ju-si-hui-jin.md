@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-hui-jin
-title: 山居四卉 槿
-titlePinyin: shan1 ju1 si4 hui4   jin3
+title: 山居四卉・槿
+titlePinyin: shan1 ju1 si4 hui4・jin3
 titleSlug: shan-ju-si-hui-jin
 author: 李綱
 authorPinyin: li3 gang1

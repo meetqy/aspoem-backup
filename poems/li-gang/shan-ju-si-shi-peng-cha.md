@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-shi-peng-cha
-title: 山居四適 烹茶
-titlePinyin: shan1 ju1 si4 shi4   peng1 cha2
+title: 山居四適・烹茶
+titlePinyin: shan1 ju1 si4 shi4・peng1 cha2
 titleSlug: shan-ju-si-shi-peng-cha
 author: 李綱
 authorPinyin: li3 gang1

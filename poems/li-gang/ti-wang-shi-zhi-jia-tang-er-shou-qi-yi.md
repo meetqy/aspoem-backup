@@ -1,7 +1,7 @@
 ---
 id: li-gang-ti-wang-shi-zhi-jia-tang-er-shou-qi-yi
-title: 題王氏志嘉堂二首  其一
-titlePinyin: ti2 wang2 shi4 zhi4 jia1 tang2 er4 shou3     qi2 yi1
+title: 題王氏志嘉堂二首・其一
+titlePinyin: ti2 wang2 shi4 zhi4 jia1 tang2 er4 shou3・qi2 yi1
 titleSlug: ti-wang-shi-zhi-jia-tang-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

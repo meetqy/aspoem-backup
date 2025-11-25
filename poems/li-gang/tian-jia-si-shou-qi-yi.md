@@ -1,7 +1,7 @@
 ---
 id: li-gang-tian-jia-si-shou-qi-yi
-title: 田家四首  其一
-titlePinyin: tian2 jia1 si4 shou3     qi2 yi1
+title: 田家四首・其一
+titlePinyin: tian2 jia1 si4 shou3・qi2 yi1
 titleSlug: tian-jia-si-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-shi-er-yong-shuang-lian-ge
-title: 十二詠 雙蓮閣
-titlePinyin: shi2 er4 yong3   shuang1 lian2 ge2
+title: 十二詠・雙蓮閣
+titlePinyin: shi2 er4 yong3・shuang1 lian2 ge2
 titleSlug: shi-er-yong-shuang-lian-ge
 author: 李綱
 authorPinyin: li3 gang1

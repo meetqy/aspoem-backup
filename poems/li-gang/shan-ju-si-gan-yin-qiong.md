@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-gan-yin-qiong
-title: 山居四感 吟蛩
-titlePinyin: shan1 ju1 si4 gan3   yin2 qiong2
+title: 山居四感・吟蛩
+titlePinyin: shan1 ju1 si4 gan3・yin2 qiong2
 titleSlug: shan-ju-si-gan-yin-qiong
 author: 李綱
 authorPinyin: li3 gang1

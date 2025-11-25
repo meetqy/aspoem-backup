@@ -1,7 +1,7 @@
 ---
 id: li-gang-song-li-si-zhi-she-ren-gui-lian-jiang-jiu-yin-er-shou-qi-er
-title: 送李似之舍人歸連江舊隱二首  其二
-titlePinyin: song4 li3 si4 zhi1 she4 ren2 gui1 lian2 jiang1 jiu4 yin3 er4 shou3     qi2 er4
+title: 送李似之舍人歸連江舊隱二首・其二
+titlePinyin: song4 li3 si4 zhi1 she4 ren2 gui1 lian2 jiang1 jiu4 yin3 er4 shou3・qi2 er4
 titleSlug: song-li-si-zhi-she-ren-gui-lian-jiang-jiu-yin-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

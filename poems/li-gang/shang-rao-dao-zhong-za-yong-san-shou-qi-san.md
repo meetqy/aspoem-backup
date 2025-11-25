@@ -1,7 +1,7 @@
 ---
 id: li-gang-shang-rao-dao-zhong-za-yong-san-shou-qi-san
-title: 上饒道中雜詠三首  其三
-titlePinyin: shang4 rao2 dao4 zhong1 za2 yong3 san1 shou3     qi2 san1
+title: 上饒道中雜詠三首・其三
+titlePinyin: shang4 rao2 dao4 zhong1 za2 yong3 san1 shou3・qi2 san1
 titleSlug: shang-rao-dao-zhong-za-yong-san-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

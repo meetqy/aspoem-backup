@@ -1,7 +1,7 @@
 ---
 id: li-gang-shan-ju-si-yong-di-lu
-title: 山居四詠 地爐
-titlePinyin: shan1 ju1 si4 yong3   di4 lu2
+title: 山居四詠・地爐
+titlePinyin: shan1 ju1 si4 yong3・di4 lu2
 titleSlug: shan-ju-si-yong-di-lu
 author: 李綱
 authorPinyin: li3 gang1

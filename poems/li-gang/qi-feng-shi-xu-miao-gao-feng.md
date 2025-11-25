@@ -1,7 +1,7 @@
 ---
 id: li-gang-qi-feng-shi-xu-miao-gao-feng
-title: 七峰詩序 妙高峰
-titlePinyin: qi1 feng1 shi1 xu4   miao4 gao1 feng1
+title: 七峰詩序・妙高峰
+titlePinyin: qi1 feng1 shi1 xu4・miao4 gao1 feng1
 titleSlug: qi-feng-shi-xu-miao-gao-feng
 author: 李綱
 authorPinyin: li3 gang1

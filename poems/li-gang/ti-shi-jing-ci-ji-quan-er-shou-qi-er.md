@@ -1,7 +1,7 @@
 ---
 id: li-gang-ti-shi-jing-ci-ji-quan-er-shou-qi-er
-title: 題石井慈濟泉二首  其二
-titlePinyin: ti2 shi2 jing3 ci2 ji4 quan2 er4 shou3     qi2 er4
+title: 題石井慈濟泉二首・其二
+titlePinyin: ti2 shi2 jing3 ci2 ji4 quan2 er4 shou3・qi2 er4
 titleSlug: ti-shi-jing-ci-ji-quan-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-si-hua-si-shou-fu-rong
-title: 四花四首 芙蓉
-titlePinyin: si4 hua1 si4 shou3   fu2 rong2
+title: 四花四首・芙蓉
+titlePinyin: si4 hua1 si4 shou3・fu2 rong2
 titleSlug: si-hua-si-shou-fu-rong
 author: 李綱
 authorPinyin: li3 gang1

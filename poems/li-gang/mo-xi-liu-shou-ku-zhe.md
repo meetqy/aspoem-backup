@@ -1,7 +1,7 @@
 ---
 id: li-gang-mo-xi-liu-shou-ku-zhe
-title: 墨戲六首 枯折
-titlePinyin: mo4 xi4 liu4 shou3   ku1 zhe2
+title: 墨戲六首・枯折
+titlePinyin: mo4 xi4 liu4 shou3・ku1 zhe2
 titleSlug: mo-xi-liu-shou-ku-zhe
 author: 李綱
 authorPinyin: li3 gang1
