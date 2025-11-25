@@ -1,7 +1,7 @@
 ---
 id: li-gang-guo-ku-zhu-ling-er-shou-qi-er
-title: 過苦竹嶺二首  其二
-titlePinyin: guo4 ku3 zhu2 ling3 er4 shou3     qi2 er4
+title: 過苦竹嶺二首・其二
+titlePinyin: guo4 ku3 zhu2 ling3 er4 shou3・qi2 er4
 titleSlug: guo-ku-zhu-ling-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

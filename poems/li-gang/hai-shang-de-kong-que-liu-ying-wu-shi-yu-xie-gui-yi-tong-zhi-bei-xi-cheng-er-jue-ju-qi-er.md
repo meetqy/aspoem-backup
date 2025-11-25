@@ -1,7 +1,7 @@
 ---
 id: li-gang-hai-shang-de-kong-que-liu-ying-wu-shi-yu-xie-gui-yi-tong-zhi-bei-xi-cheng-er-jue-ju-qi-er
-title: 海上得孔雀六鸚鵡十餘攜歸遺童稚輩戲成二絕句  其二
-titlePinyin: hai3 shang4 de2 kong3 que4 liu4 ying1 wu3 shi2 yu2 xie2 gui1 yi2 tong2 zhi4 bei4 xi4 cheng2 er4 jue2 ju4     qi2 er4
+title: 海上得孔雀六鸚鵡十餘攜歸遺童稚輩戲成二絕句・其二
+titlePinyin: hai3 shang4 de2 kong3 que4 liu4 ying1 wu3 shi2 yu2 xie2 gui1 yi2 tong2 zhi4 bei4 xi4 cheng2 er4 jue2 ju4・qi2 er4
 titleSlug: hai-shang-de-kong-que-liu-ying-wu-shi-yu-xie-gui-yi-tong-zhi-bei-xi-cheng-er-jue-ju-qi-er
 author: 李綱
 authorPinyin: li3 gang1

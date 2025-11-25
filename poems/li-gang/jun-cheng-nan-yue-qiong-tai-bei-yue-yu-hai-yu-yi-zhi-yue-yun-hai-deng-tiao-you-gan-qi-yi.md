@@ -1,7 +1,7 @@
 ---
 id: li-gang-jun-cheng-nan-yue-qiong-tai-bei-yue-yu-hai-yu-yi-zhi-yue-yun-hai-deng-tiao-you-gan-qi-yi
-title: 郡城南曰瓊臺北曰語海余易之曰雲海登眺有感  其一
-titlePinyin: jun4 cheng2 nan2 yue1 qiong2 tai2 bei3 yue1 yu3 hai3 yu2 yi4 zhi1 yue1 yun2 hai3 deng1 tiao4 you3 gan3     qi2 yi1
+title: 郡城南曰瓊臺北曰語海余易之曰雲海登眺有感・其一
+titlePinyin: jun4 cheng2 nan2 yue1 qiong2 tai2 bei3 yue1 yu3 hai3 yu2 yi4 zhi1 yue1 yun2 hai3 deng1 tiao4 you3 gan3・qi2 yi1
 titleSlug: jun-cheng-nan-yue-qiong-tai-bei-yue-yu-hai-yu-yi-zhi-yue-yun-hai-deng-tiao-you-gan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

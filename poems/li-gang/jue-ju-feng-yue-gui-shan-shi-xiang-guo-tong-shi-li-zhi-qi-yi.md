@@ -1,7 +1,7 @@
 ---
 id: li-gang-jue-ju-feng-yue-gui-shan-shi-xiang-guo-tong-shi-li-zhi-qi-yi
-title: 絕句奉約珪禪師相過同食荔枝  其一
-titlePinyin: jue2 ju4 feng4 yue1 gui1 shan4 shi1 xiang1 guo4 tong2 shi2 li4 zhi1     qi2 yi1
+title: 絕句奉約珪禪師相過同食荔枝・其一
+titlePinyin: jue2 ju4 feng4 yue1 gui1 shan4 shi1 xiang1 guo4 tong2 shi2 li4 zhi1・qi2 yi1
 titleSlug: jue-ju-feng-yue-gui-shan-shi-xiang-guo-tong-shi-li-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

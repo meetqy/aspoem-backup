@@ -1,7 +1,7 @@
 ---
 id: li-gang-hu-jia-shi-ba-pai-di-shi-ru-pai
-title: 胡笳十八拍 第十入拍
-titlePinyin: hu2 jia1 shi2 ba1 pai1   di4 shi2 ru4 pai1
+title: 胡笳十八拍・第十入拍
+titlePinyin: hu2 jia1 shi2 ba1 pai1・di4 shi2 ru4 pai1
 titleSlug: hu-jia-shi-ba-pai-di-shi-ru-pai
 author: 李綱
 authorPinyin: li3 gang1

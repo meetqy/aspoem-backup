@@ -1,7 +1,7 @@
 ---
 id: li-gang-gu-yi-si-shou-qi-san
-title: 古意四首  其三
-titlePinyin: gu3 yi4 si4 shou3     qi2 san1
+title: 古意四首・其三
+titlePinyin: gu3 yi4 si4 shou3・qi2 san1
 titleSlug: gu-yi-si-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

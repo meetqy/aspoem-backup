@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-wang-zhou-shi-jue-ju-er-shou-qi-yi
-title: 寄王周士絕句二首  其一
-titlePinyin: ji4 wang2 zhou1 shi4 jue2 ju4 er4 shou3     qi2 yi1
+title: 寄王周士絕句二首・其一
+titlePinyin: ji4 wang2 zhou1 shi4 jue2 ju4 er4 shou3・qi2 yi1
 titleSlug: ji-wang-zhou-shi-jue-ju-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

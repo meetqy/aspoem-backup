@@ -1,7 +1,7 @@
 ---
 id: li-gang-huan-zi-gu-shan-guo-shan-xi-you-da-cheng-liu-hua-dong-zhan-li-wen-shu-sheng-xiang-man-cheng-san-shou-qi-er
-title: 還自鼓山過鱓溪遊大乘榴花洞瞻禮文殊聖像漫成三首  其二
-titlePinyin: huan2 zi4 gu3 shan1 guo4 shan4 xi1 you2 da4 cheng2 liu2 hua1 dong4 zhan1 li3 wen2 shu1 sheng4 xiang4 man4 cheng2 san1 shou3     qi2 er4
+title: 還自鼓山過鱓溪遊大乘榴花洞瞻禮文殊聖像漫成三首・其二
+titlePinyin: huan2 zi4 gu3 shan1 guo4 shan4 xi1 you2 da4 cheng2 liu2 hua1 dong4 zhan1 li3 wen2 shu1 sheng4 xiang4 man4 cheng2 san1 shou3・qi2 er4
 titleSlug: huan-zi-gu-shan-guo-shan-xi-you-da-cheng-liu-hua-dong-zhan-li-wen-shu-sheng-xiang-man-cheng-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

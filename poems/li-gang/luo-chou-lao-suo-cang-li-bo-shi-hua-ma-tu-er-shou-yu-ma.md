@@ -1,7 +1,7 @@
 ---
 id: li-gang-luo-chou-lao-suo-cang-li-bo-shi-hua-ma-tu-er-shou-yu-ma
-title: 羅疇老所藏李伯時畫馬圖二首 御馬
-titlePinyin: luo2 chou2 lao3 suo3 cang2 li3 bo2 shi2 hua4 ma3 tu2 er4 shou3   yu4 ma3
+title: 羅疇老所藏李伯時畫馬圖二首・御馬
+titlePinyin: luo2 chou2 lao3 suo3 cang2 li3 bo2 shi2 hua4 ma3 tu2 er4 shou3・yu4 ma3
 titleSlug: luo-chou-lao-suo-cang-li-bo-shi-hua-ma-tu-er-shou-yu-ma
 author: 李綱
 authorPinyin: li3 gang1

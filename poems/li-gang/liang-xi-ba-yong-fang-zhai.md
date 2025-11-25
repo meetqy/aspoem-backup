@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-fang-zhai
-title: 梁谿八詠 舫齋
-titlePinyin: liang2 xi1 ba1 yong3   fang3 zhai1
+title: 梁谿八詠・舫齋
+titlePinyin: liang2 xi1 ba1 yong3・fang3 zhai1
 titleSlug: liang-xi-ba-yong-fang-zhai
 author: 李綱
 authorPinyin: li3 gang1

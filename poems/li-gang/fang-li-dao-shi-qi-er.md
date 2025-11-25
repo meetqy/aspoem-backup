@@ -1,7 +1,7 @@
 ---
 id: li-gang-fang-li-dao-shi-qi-er
-title: 訪李道士  其二
-titlePinyin: fang3 li3 dao4 shi0     qi2 er4
+title: 訪李道士・其二
+titlePinyin: fang3 li3 dao4 shi0・qi2 er4
 titleSlug: fang-li-dao-shi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-si-you-zan-xu-can-hua-zan
-title: 梁谿四友贊序 粲華贊
-titlePinyin: liang2 xi1 si4 you3 zan4 xu4   can4 hua2 zan4
+title: 梁谿四友贊序・粲華贊
+titlePinyin: liang2 xi1 si4 you3 zan4 xu4・can4 hua2 zan4
 titleSlug: liang-xi-si-you-zan-xu-can-hua-zan
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-long-mian-ju-shi-hua-shi-liu-da-a-luo-han-zan-qi-san
-title: 龍眠居士畫十六大阿羅漢贊  其三
-titlePinyin: long2 mian2 ju1 shi4 hua4 shi2 liu4 da4 a1 luo2 han4 zan4     qi2 san1
+title: 龍眠居士畫十六大阿羅漢贊・其三
+titlePinyin: long2 mian2 ju1 shi4 hua4 shi2 liu4 da4 a1 luo2 han4 zan4・qi2 san1
 titleSlug: long-mian-ju-shi-hua-shi-liu-da-a-luo-han-zan-qi-san
 author: 李綱
 authorPinyin: li3 gang1

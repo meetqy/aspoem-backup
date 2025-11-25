@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-jiu-feng-ge
-title: 梁谿八詠 九峰閣
-titlePinyin: liang2 xi1 ba1 yong3   jiu3 feng1 ge2
+title: 梁谿八詠・九峰閣
+titlePinyin: liang2 xi1 ba1 yong3・jiu3 feng1 ge2
 titleSlug: liang-xi-ba-yong-jiu-feng-ge
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-gui-ci-hai-kang-deng-ping-xian-ting-ci-lai-gong-yun-lei-miao-du-ding-jin-gong-suo-zuo-bei
-title: 歸次海康登平仙亭次莱公韵 雷廟讀丁晉公所作碑
-titlePinyin: gui1 ci4 hai3 kang1 deng1 ping2 xian1 ting2 ci4 lai2 gong1 yun4   lei2 miao4 du2 ding1 jin4 gong1 suo3 zuo4 bei1
+title: 歸次海康登平仙亭次莱公韵・雷廟讀丁晉公所作碑
+titlePinyin: gui1 ci4 hai3 kang1 deng1 ping2 xian1 ting2 ci4 lai2 gong1 yun4・lei2 miao4 du2 ding1 jin4 gong1 suo3 zuo4 bei1
 titleSlug: gui-ci-hai-kang-deng-ping-xian-ting-ci-lai-gong-yun-lei-miao-du-ding-jin-gong-suo-zuo-bei
 author: 李綱
 authorPinyin: li3 gang1

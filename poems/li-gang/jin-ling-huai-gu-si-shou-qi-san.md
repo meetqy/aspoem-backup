@@ -1,7 +1,7 @@
 ---
 id: li-gang-jin-ling-huai-gu-si-shou-qi-san
-title: 金陵懷古四首  其三
-titlePinyin: jin1 ling2 huai2 gu3 si4 shou3     qi2 san1
+title: 金陵懷古四首・其三
+titlePinyin: jin1 ling2 huai2 gu3 si4 shou3・qi2 san1
 titleSlug: jin-ling-huai-gu-si-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

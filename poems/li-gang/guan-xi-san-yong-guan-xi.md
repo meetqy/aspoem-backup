@@ -1,7 +1,7 @@
 ---
 id: li-gang-guan-xi-san-yong-guan-xi
-title: 灌溪三詠 灌溪
-titlePinyin: guan4 xi1 san1 yong3   guan4 xi1
+title: 灌溪三詠・灌溪
+titlePinyin: guan4 xi1 san1 yong3・guan4 xi1
 titleSlug: guan-xi-san-yong-guan-xi
 author: 李綱
 authorPinyin: li3 gang1

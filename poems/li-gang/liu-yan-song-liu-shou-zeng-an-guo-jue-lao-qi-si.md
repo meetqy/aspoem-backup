@@ -1,7 +1,7 @@
 ---
 id: li-gang-liu-yan-song-liu-shou-zeng-an-guo-jue-lao-qi-si
-title: 六言頌六首贈安國覺老  其四
-titlePinyin: liu4 yan2 song4 liu4 shou3 zeng4 an1 guo2 jue2 lao3     qi2 si4
+title: 六言頌六首贈安國覺老・其四
+titlePinyin: liu4 yan2 song4 liu4 shou3 zeng4 an1 guo2 jue2 lao3・qi2 si4
 titleSlug: liu-yan-song-liu-shou-zeng-an-guo-jue-lao-qi-si
 author: 李綱
 authorPinyin: li3 gang1

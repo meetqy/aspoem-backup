@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-shang-wan-jing-er-shou-qi-er
-title: 江上晚景二首  其二
-titlePinyin: jiang1 shang4 wan3 jing3 er4 shou3     qi2 er4
+title: 江上晚景二首・其二
+titlePinyin: jiang1 shang4 wan3 jing3 er4 shou3・qi2 er4
 titleSlug: jiang-shang-wan-jing-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

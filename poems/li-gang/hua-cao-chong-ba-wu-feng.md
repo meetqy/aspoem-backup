@@ -1,7 +1,7 @@
 ---
 id: li-gang-hua-cao-chong-ba-wu-feng
-title: 畫草蟲八物 蜂
-titlePinyin: hua4 cao3 chong2 ba1 wu4   feng1
+title: 畫草蟲八物・蜂
+titlePinyin: hua4 cao3 chong2 ba1 wu4・feng1
 titleSlug: hua-cao-chong-ba-wu-feng
 author: 李綱
 authorPinyin: li3 gang1

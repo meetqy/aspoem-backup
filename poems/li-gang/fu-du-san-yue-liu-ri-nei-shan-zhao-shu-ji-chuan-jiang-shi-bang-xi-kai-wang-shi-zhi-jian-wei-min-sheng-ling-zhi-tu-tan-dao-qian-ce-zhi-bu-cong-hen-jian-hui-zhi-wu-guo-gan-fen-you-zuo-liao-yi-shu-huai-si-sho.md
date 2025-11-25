@@ -1,7 +1,7 @@
 ---
 id: li-gang-fu-du-san-yue-liu-ri-nei-shan-zhao-shu-ji-chuan-jiang-shi-bang-xi-kai-wang-shi-zhi-jian-wei-min-sheng-ling-zhi-tu-tan-dao-qian-ce-zhi-bu-cong-hen-jian-hui-zhi-wu-guo-gan-fen-you-zuo-liao-yi-shu-huai-si-shou-qi-si
-title: 伏讀三月六日內禪詔書及傳將士牓檄慨王室之艱危憫生靈之塗炭悼前策之不從恨姦回之誤國感憤有作聊以述懷四首  其四
-titlePinyin: fu2 du2 san1 yue4 liu4 ri4 nei4 shan4 zhao4 shu1 ji2 chuan2 jiang1 shi4 bang3 xi2 kai3 wang2 shi4 zhi1 jian1 wei1 min3 sheng1 ling2 zhi1 tu2 tan4 dao4 qian2 ce4 zhi1 bu4 cong2 hen4 jian1 hui2 zhi1 wu4 guo2 gan3 fen4 you3 zuo4 liao2 yi3 shu4 huai2 si4 shou3     qi2 si4
+title: 伏讀三月六日內禪詔書及傳將士牓檄慨王室之艱危憫生靈之塗炭悼前策之不從恨姦回之誤國感憤有作聊以述懷四首・其四
+titlePinyin: fu2 du2 san1 yue4 liu4 ri4 nei4 shan4 zhao4 shu1 ji2 chuan2 jiang1 shi4 bang3 xi2 kai3 wang2 shi4 zhi1 jian1 wei1 min3 sheng1 ling2 zhi1 tu2 tan4 dao4 qian2 ce4 zhi1 bu4 cong2 hen4 jian1 hui2 zhi1 wu4 guo2 gan3 fen4 you3 zuo4 liao2 yi3 shu4 huai2 si4 shou3・qi2 si4
 titleSlug: fu-du-san-yue-liu-ri-nei-shan-zhao-shu-ji-chuan-jiang-shi-bang-xi-kai-wang-shi-zhi-jian-wei-min-sheng-ling-zhi-tu-tan-dao-qian-ce-zhi-bu-cong-hen-jian-hui-zhi-wu-guo-gan-fen-you-zuo-liao-yi-shu-huai-si-shou-qi-si
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-fan-zhou-zhi-xi-zhen-guan-yu-xue-qi-er
-title: 泛舟至睎真館遇雪  其二
-titlePinyin: fan4 zhou1 zhi4 xi1 zhen1 guan3 yu4 xue3     qi2 er4
+title: 泛舟至睎真館遇雪・其二
+titlePinyin: fan4 zhou1 zhi4 xi1 zhen1 guan3 yu4 xue3・qi2 er4
 titleSlug: fan-zhou-zhi-xi-zhen-guan-yu-xue-qi-er
 author: 李綱
 authorPinyin: li3 gang1

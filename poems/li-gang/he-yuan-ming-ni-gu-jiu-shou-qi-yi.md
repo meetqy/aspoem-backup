@@ -1,7 +1,7 @@
 ---
 id: li-gang-he-yuan-ming-ni-gu-jiu-shou-qi-yi
-title: 和淵眀擬古九首  其一
-titlePinyin: he2 yuan1 ming2 ni3 gu3 jiu3 shou3     qi2 yi1
+title: 和淵眀擬古九首・其一
+titlePinyin: he2 yuan1 ming2 ni3 gu3 jiu3 shou3・qi2 yi1
 titleSlug: he-yuan-ming-ni-gu-jiu-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

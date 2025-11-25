@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-zhong-yin-tang
-title: 梁谿八詠 中隱堂
-titlePinyin: liang2 xi1 ba1 yong3   zhong1 yin3 tang2
+title: 梁谿八詠・中隱堂
+titlePinyin: liang2 xi1 ba1 yong3・zhong1 yin3 tang2
 titleSlug: liang-xi-ba-yong-zhong-yin-tang
 author: 李綱
 authorPinyin: li3 gang1

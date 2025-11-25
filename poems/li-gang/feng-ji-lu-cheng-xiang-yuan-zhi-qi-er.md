@@ -1,7 +1,7 @@
 ---
 id: li-gang-feng-ji-lu-cheng-xiang-yuan-zhi-qi-er
-title: 奉寄吕丞相元直  其二
-titlePinyin: feng4 ji4 lü3 cheng2 xiang4 yuan2 zhi2     qi2 er4
+title: 奉寄吕丞相元直・其二
+titlePinyin: feng4 ji4 lü3 cheng2 xiang4 yuan2 zhi2・qi2 er4
 titleSlug: feng-ji-lu-cheng-xiang-yuan-zhi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

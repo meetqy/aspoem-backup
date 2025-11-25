@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-xin-yuan-ting
-title: 梁谿八詠 心遠亭
-titlePinyin: liang2 xi1 ba1 yong3   xin1 yuan3 ting2
+title: 梁谿八詠・心遠亭
+titlePinyin: liang2 xi1 ba1 yong3・xin1 yuan3 ting2
 titleSlug: liang-xi-ba-yong-xin-yuan-ting
 author: 李綱
 authorPinyin: li3 gang1

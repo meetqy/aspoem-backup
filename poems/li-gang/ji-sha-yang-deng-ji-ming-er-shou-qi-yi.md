@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-sha-yang-deng-ji-ming-er-shou-qi-yi
-title: 寄沙陽鄧季明二首  其一
-titlePinyin: ji4 sha1 yang2 deng4 ji4 ming2 er4 shou3     qi2 yi1
+title: 寄沙陽鄧季明二首・其一
+titlePinyin: ji4 sha1 yang2 deng4 ji4 ming2 er4 shou3・qi2 yi1
 titleSlug: ji-sha-yang-deng-ji-ming-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

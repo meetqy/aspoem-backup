@@ -1,7 +1,7 @@
 ---
 id: li-gang-jian-pu-dao-zhong-er-shou-qi-yi
-title: 劍浦道中二首  其一
-titlePinyin: jian4 pu3 dao4 zhong1 er4 shou3     qi2 yi1
+title: 劍浦道中二首・其一
+titlePinyin: jian4 pu3 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: jian-pu-dao-zhong-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

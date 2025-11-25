@@ -1,7 +1,7 @@
 ---
 id: li-gang-gong-wen-zhao-shu-bao-dao-chen-shao-yang-zeng-guan-yu-yi-zi-en-ze-ci-min-qian-wu-shi-wan-gan-ti-si-shou-qi-san
-title: 恭聞詔書襃悼陳少陽贈官與一子恩澤賜緡錢五十萬感涕四首  其三
-titlePinyin: gong1 wen2 zhao4 shu1 bao1 dao4 chen2 shao3 yang2 zeng4 guan1 yu3 yi4 zi3 en1 ze2 ci4 min2 qian2 wu3 shi2 wan4 gan3 ti4 si4 shou3     qi2 san1
+title: 恭聞詔書襃悼陳少陽贈官與一子恩澤賜緡錢五十萬感涕四首・其三
+titlePinyin: gong1 wen2 zhao4 shu1 bao1 dao4 chen2 shao3 yang2 zeng4 guan1 yu3 yi4 zi3 en1 ze2 ci4 min2 qian2 wu3 shi2 wan4 gan3 ti4 si4 shou3・qi2 san1
 titleSlug: gong-wen-zhao-shu-bao-dao-chen-shao-yang-zeng-guan-yu-yi-zi-en-ze-ci-min-qian-wu-shi-wan-gan-ti-si-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

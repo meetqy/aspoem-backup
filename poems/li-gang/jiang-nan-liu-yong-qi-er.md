@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-nan-liu-yong-qi-er
-title: 江南六詠  其二
-titlePinyin: jiang1 nan2 liu4 yong3     qi2 er4
+title: 江南六詠・其二
+titlePinyin: jiang1 nan2 liu4 yong3・qi2 er4
 titleSlug: jiang-nan-liu-yong-qi-er
 author: 李綱
 authorPinyin: li3 gang1

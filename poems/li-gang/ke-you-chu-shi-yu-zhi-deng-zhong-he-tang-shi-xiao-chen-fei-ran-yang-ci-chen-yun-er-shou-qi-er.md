@@ -1,7 +1,7 @@
 ---
 id: li-gang-ke-you-chu-shi-yu-zhi-deng-zhong-he-tang-shi-xiao-chen-fei-ran-yang-ci-chen-yun-er-shou-qi-er
-title: 客有出示御製登中和堂詩小臣斐然仰次宸韻二首  其二
-titlePinyin: ke4 you3 chu1 shi4 yu4 zhi4 deng1 zhong1 he2 tang2 shi1 xiao3 chen2 fei3 ran2 yang3 ci4 chen2 yun4 er4 shou3     qi2 er4
+title: 客有出示御製登中和堂詩小臣斐然仰次宸韻二首・其二
+titlePinyin: ke4 you3 chu1 shi4 yu4 zhi4 deng1 zhong1 he2 tang2 shi1 xiao3 chen2 fei3 ran2 yang3 ci4 chen2 yun4 er4 shou3・qi2 er4
 titleSlug: ke-you-chu-shi-yu-zhi-deng-zhong-he-tang-shi-xiao-chen-fei-ran-yang-ci-chen-yun-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

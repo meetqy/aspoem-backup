@@ -1,7 +1,7 @@
 ---
 id: li-gang-ku-xu-song-lao-you-cheng-er-shou-qi-yi
-title: 哭許崧老右丞二首  其一
-titlePinyin: ku1 xu1 song1 lao3 you4 cheng2 er4 shou3     qi2 yi1
+title: 哭許崧老右丞二首・其一
+titlePinyin: ku1 xu1 song1 lao3 you4 cheng2 er4 shou3・qi2 yi1
 titleSlug: ku-xu-song-lao-you-cheng-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

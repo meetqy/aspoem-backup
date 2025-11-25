@@ -1,7 +1,7 @@
 ---
 id: li-gang-lu-yuan-zhi-de-shu-tian-tai-guo-wai-zhi-yuan-lin-zuo-tui-lao-tang-qiu-shi-wei-fu-liang-zhang-qi-er
-title: 吕元直得書天台郭外治園林作退老堂求詩爲賦兩章  其二
-titlePinyin: lü3 yuan2 zhi2 de2 shu1 tian1 tai2 guo1 wai4 zhi4 yuan2 lin2 zuo4 tui4 lao3 tang2 qiu2 shi1 wei2 fu4 liang3 zhang1     qi2 er4
+title: 吕元直得書天台郭外治園林作退老堂求詩爲賦兩章・其二
+titlePinyin: lü3 yuan2 zhi2 de2 shu1 tian1 tai2 guo1 wai4 zhi4 yuan2 lin2 zuo4 tui4 lao3 tang2 qiu2 shi1 wei2 fu4 liang3 zhang1・qi2 er4
 titleSlug: lu-yuan-zhi-de-shu-tian-tai-guo-wai-zhi-yuan-lin-zuo-tui-lao-tang-qiu-shi-wei-fu-liang-zhang-qi-er
 author: 李綱
 authorPinyin: li3 gang1

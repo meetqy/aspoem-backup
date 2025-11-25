@@ -1,7 +1,7 @@
 ---
 id: li-gang-li-chun-ri-long-hua-dao-zhong-de-jia-wen-zhu-ji-yi-qie-jia-du-zhe-jiang-ru-jian-chuan-you-wen-jiang-xi-po-you-qun-dao-xiao-ju-sui-jue-yi-you-wu-yang-qu-xun-hui-chao-yang-jia-dao-min-zhong-yi-gui-ou-cheng-san-pian-shi-shi-er-yue-shi-jiu-ri-qi-san
-title: 立春日龍化道中得家問諸季已挈家渡浙江如劍川又聞江西頗有羣盗嘯聚遂决意由五羊趨循惠潮陽假道閩中以歸偶成三篇時十二月十九日  其三
-titlePinyin: li4 chun1 ri4 long2 hua4 dao4 zhong1 de2 jia1 wen4 zhu1 ji4 yi3 qie4 jia1 du4 zhe4 jiang1 ru2 jian4 chuan1 you4 wen2 jiang1 xi1 po1 you3 qun2 dao4 xiao4 ju4 sui4 jue2 yi4 you2 wu3 yang2 qu1 xun2 hui4 chao2 yang2 jia3 dao4 min3 zhong1 yi3 gui1 ou3 cheng2 san1 pian1 shi2 shi2 er4 yue4 shi2 jiu3 ri4     qi2 san1
+title: 立春日龍化道中得家問諸季已挈家渡浙江如劍川又聞江西頗有羣盗嘯聚遂决意由五羊趨循惠潮陽假道閩中以歸偶成三篇時十二月十九日・其三
+titlePinyin: li4 chun1 ri4 long2 hua4 dao4 zhong1 de2 jia1 wen4 zhu1 ji4 yi3 qie4 jia1 du4 zhe4 jiang1 ru2 jian4 chuan1 you4 wen2 jiang1 xi1 po1 you3 qun2 dao4 xiao4 ju4 sui4 jue2 yi4 you2 wu3 yang2 qu1 xun2 hui4 chao2 yang2 jia3 dao4 min3 zhong1 yi3 gui1 ou3 cheng2 san1 pian1 shi2 shi2 er4 yue4 shi2 jiu3 ri4・qi2 san1
 titleSlug: li-chun-ri-long-hua-dao-zhong-de-jia-wen-zhu-ji-yi-qie-jia-du-zhe-jiang-ru-jian-chuan-you-wen-jiang-xi-po-you-qun-dao-xiao-ju-sui-jue-yi-you-wu-yang-qu-xun-hui-chao-yang-jia-dao-min-zhong-yi-gui-ou-cheng-san-pian-shi-shi-er-yue-shi-jiu-ri-qi-san
 author: 李綱
 authorPinyin: li3 gang1

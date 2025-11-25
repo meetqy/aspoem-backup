@@ -1,7 +1,7 @@
 ---
 id: li-gang-hua-cao-chong-ba-wu-luo-wei
-title: 畫草蟲八物 絡緯
-titlePinyin: hua4 cao3 chong2 ba1 wu4   luo4 wei3
+title: 畫草蟲八物・絡緯
+titlePinyin: hua4 cao3 chong2 ba1 wu4・luo4 wei3
 titleSlug: hua-cao-chong-ba-wu-luo-wei
 author: 李綱
 authorPinyin: li3 gang1

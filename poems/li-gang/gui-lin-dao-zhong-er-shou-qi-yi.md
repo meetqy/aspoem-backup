@@ -1,7 +1,7 @@
 ---
 id: li-gang-gui-lin-dao-zhong-er-shou-qi-yi
-title: 桂林道中二首  其一
-titlePinyin: gui4 lin2 dao4 zhong1 er4 shou3     qi2 yi1
+title: 桂林道中二首・其一
+titlePinyin: gui4 lin2 dao4 zhong1 er4 shou3・qi2 yi1
 titleSlug: gui-lin-dao-zhong-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

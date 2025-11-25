@@ -1,7 +1,7 @@
 ---
 id: li-gang-fan-zhou-xun-hui-jian-shan-shui-qing-jue-kou-hao-si-shou-qi-yi
-title: 泛舟循惠間山水清絕口號四首  其一
-titlePinyin: fan4 zhou1 xun2 hui4 jian4 shan1 shui3 qing1 jue2 kou3 hao4 si4 shou3     qi2 yi1
+title: 泛舟循惠間山水清絕口號四首・其一
+titlePinyin: fan4 zhou1 xun2 hui4 jian4 shan1 shui3 qing1 jue2 kou3 hao4 si4 shou3・qi2 yi1
 titleSlug: fan-zhou-xun-hui-jian-shan-shui-qing-jue-kou-hao-si-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

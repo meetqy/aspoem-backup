@@ -1,7 +1,7 @@
 ---
 id: li-gang-ju-hua-kai-ri-ji-zhong-yang-er-shou-qi-yi
-title: 菊花開日即重陽二首  其一
-titlePinyin: ju2 hua1 kai1 ri4 ji2 zhong4 yang2 er4 shou3     qi2 yi1
+title: 菊花開日即重陽二首・其一
+titlePinyin: ju2 hua1 kai1 ri4 ji2 zhong4 yang2 er4 shou3・qi2 yi1
 titleSlug: ju-hua-kai-ri-ji-zhong-yang-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

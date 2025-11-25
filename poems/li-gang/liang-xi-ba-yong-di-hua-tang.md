@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-di-hua-tang
-title: 梁谿八詠 棣華堂
-titlePinyin: liang2 xi1 ba1 yong3   di4 hua2 tang2
+title: 梁谿八詠・棣華堂
+titlePinyin: liang2 xi1 ba1 yong3・di4 hua2 tang2
 titleSlug: liang-xi-ba-yong-di-hua-tang
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiu-ri-zhu-ji-san-chu-chang-le-wai-yi-chang-ran-you-huai-er-shou-qi-yi
-title: 九日諸季散處長樂外邑悵然有懷二首  其一
-titlePinyin: jiu3 ri4 zhu1 ji4 san4 chu3 chang2 le4 wai4 yi4 chang4 ran2 you3 huai2 er4 shou3     qi2 yi1
+title: 九日諸季散處長樂外邑悵然有懷二首・其一
+titlePinyin: jiu3 ri4 zhu1 ji4 san4 chu3 chang2 le4 wai4 yi4 chang4 ran2 you3 huai2 er4 shou3・qi2 yi1
 titleSlug: jiu-ri-zhu-ji-san-chu-chang-le-wai-yi-chang-ran-you-huai-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

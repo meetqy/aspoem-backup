@@ -1,7 +1,7 @@
 ---
 id: li-gang-luo-chou-lao-lu-shi-he-dan-xia-jue-ju-wu-shou-ci-yun-qi-yi
-title: 羅疇老錄示和丹霞絕句五首次韻  其一
-titlePinyin: luo2 chou2 lao3 lu4 shi4 he2 dan1 xia2 jue2 ju4 wu3 shou3 ci4 yun4     qi2 yi1
+title: 羅疇老錄示和丹霞絕句五首次韻・其一
+titlePinyin: luo2 chou2 lao3 lu4 shi4 he2 dan1 xia2 jue2 ju4 wu3 shou3 ci4 yun4・qi2 yi1
 titleSlug: luo-chou-lao-lu-shi-he-dan-xia-jue-ju-wu-shou-ci-yun-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

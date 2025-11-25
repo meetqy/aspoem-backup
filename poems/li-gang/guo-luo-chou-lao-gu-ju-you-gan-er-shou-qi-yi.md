@@ -1,7 +1,7 @@
 ---
 id: li-gang-guo-luo-chou-lao-gu-ju-you-gan-er-shou-qi-yi
-title: 過羅疇老故居有感二首  其一
-titlePinyin: guo4 luo2 chou2 lao3 gu4 ju1 you3 gan3 er4 shou3     qi2 yi1
+title: 過羅疇老故居有感二首・其一
+titlePinyin: guo4 luo2 chou2 lao3 gu4 ju1 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: guo-luo-chou-lao-gu-ju-you-gan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

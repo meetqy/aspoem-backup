@@ -1,7 +1,7 @@
 ---
 id: li-gang-hua-cao-chong-ba-wu-die
-title: 畫草蟲八物 蝶
-titlePinyin: hua4 cao3 chong2 ba1 wu4   die2
+title: 畫草蟲八物・蝶
+titlePinyin: hua4 cao3 chong2 ba1 wu4・die2
 titleSlug: hua-cao-chong-ba-wu-die
 author: 李綱
 authorPinyin: li3 gang1

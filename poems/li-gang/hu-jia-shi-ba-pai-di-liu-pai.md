@@ -1,7 +1,7 @@
 ---
 id: li-gang-hu-jia-shi-ba-pai-di-liu-pai
-title: 胡笳十八拍 第六拍
-titlePinyin: hu2 jia1 shi2 ba1 pai1   di4 liu4 pai1
+title: 胡笳十八拍・第六拍
+titlePinyin: hu2 jia1 shi2 ba1 pai1・di4 liu4 pai1
 titleSlug: hu-jia-shi-ba-pai-di-liu-pai
 author: 李綱
 authorPinyin: li3 gang1

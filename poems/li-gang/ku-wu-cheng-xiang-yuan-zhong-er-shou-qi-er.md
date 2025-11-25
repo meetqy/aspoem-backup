@@ -1,7 +1,7 @@
 ---
 id: li-gang-ku-wu-cheng-xiang-yuan-zhong-er-shou-qi-er
-title: 哭吳丞相元中二首  其二
-titlePinyin: ku1 wu2 cheng2 xiang4 yuan2 zhong1 er4 shou3     qi2 er4
+title: 哭吳丞相元中二首・其二
+titlePinyin: ku1 wu2 cheng2 xiang4 yuan2 zhong1 er4 shou3・qi2 er4
 titleSlug: ku-wu-cheng-xiang-yuan-zhong-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

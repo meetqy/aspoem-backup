@@ -1,7 +1,7 @@
 ---
 id: li-gang-guan-xi-san-yong-qing-liang-jing-jie
-title: 灌溪三詠 清涼境界
-titlePinyin: guan4 xi1 san1 yong3   qing1 liang2 jing4 jie4
+title: 灌溪三詠・清涼境界
+titlePinyin: guan4 xi1 san1 yong3・qing1 liang2 jing4 jie4
 titleSlug: guan-xi-san-yong-qing-liang-jing-jie
 author: 李綱
 authorPinyin: li3 gang1

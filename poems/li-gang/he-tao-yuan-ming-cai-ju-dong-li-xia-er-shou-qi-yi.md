@@ -1,7 +1,7 @@
 ---
 id: li-gang-he-tao-yuan-ming-cai-ju-dong-li-xia-er-shou-qi-yi
-title: 和陶淵明採菊東籬下二首  其一
-titlePinyin: he2 tao2 yuan1 ming2 cai3 ju2 dong1 li2 xia4 er4 shou3     qi2 yi1
+title: 和陶淵明採菊東籬下二首・其一
+titlePinyin: he2 tao2 yuan1 ming2 cai3 ju2 dong1 li2 xia4 er4 shou3・qi2 yi1
 titleSlug: he-tao-yuan-ming-cai-ju-dong-li-xia-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

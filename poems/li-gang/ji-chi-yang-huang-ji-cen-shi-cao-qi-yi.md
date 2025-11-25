@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-chi-yang-huang-ji-cen-shi-cao-qi-yi
-title: 寄池陽黄季岑士曹  其一
-titlePinyin: ji4 chi2 yang2 huang2 ji4 cen2 shi4 cao2     qi2 yi1
+title: 寄池陽黄季岑士曹・其一
+titlePinyin: ji4 chi2 yang2 huang2 ji4 cen2 shi4 cao2・qi2 yi1
 titleSlug: ji-chi-yang-huang-ji-cen-shi-cao-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

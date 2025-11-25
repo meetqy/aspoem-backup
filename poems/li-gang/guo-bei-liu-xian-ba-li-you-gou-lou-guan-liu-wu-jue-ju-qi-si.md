@@ -1,7 +1,7 @@
 ---
 id: li-gang-guo-bei-liu-xian-ba-li-you-gou-lou-guan-liu-wu-jue-ju-qi-si
-title: 過北流縣八里遊勾漏觀留五絕句  其四
-titlePinyin: guo4 bei3 liu2 xian4 ba1 li3 you2 gou1 lou4 guan1 liu2 wu3 jue2 ju4     qi2 si4
+title: 過北流縣八里遊勾漏觀留五絕句・其四
+titlePinyin: guo4 bei3 liu2 xian4 ba1 li3 you2 gou1 lou4 guan1 liu2 wu3 jue2 ju4・qi2 si4
 titleSlug: guo-bei-liu-xian-ba-li-you-gou-lou-guan-liu-wu-jue-ju-qi-si
 author: 李綱
 authorPinyin: li3 gang1

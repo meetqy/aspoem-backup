@@ -1,7 +1,7 @@
 ---
 id: li-gang-hua-cao-chong-ba-wu-tang-lang
-title: 畫草蟲八物 螳螂
-titlePinyin: hua4 cao3 chong2 ba1 wu4   tang2 lang2
+title: 畫草蟲八物・螳螂
+titlePinyin: hua4 cao3 chong2 ba1 wu4・tang2 lang2
 titleSlug: hua-cao-chong-ba-wu-tang-lang
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-feng-zeng-xuan-fu-meng-can-zheng-er-shou-qi-yi
-title: 奉贈宣撫孟參政二首  其一
-titlePinyin: feng4 zeng4 xuan1 fu3 meng4 can1 zheng4 er4 shou3     qi2 yi1
+title: 奉贈宣撫孟參政二首・其一
+titlePinyin: feng4 zeng4 xuan1 fu3 meng4 can1 zheng4 er4 shou3・qi2 yi1
 titleSlug: feng-zeng-xuan-fu-meng-can-zheng-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

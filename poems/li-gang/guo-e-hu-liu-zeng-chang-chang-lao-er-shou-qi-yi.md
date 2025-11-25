@@ -1,7 +1,7 @@
 ---
 id: li-gang-guo-e-hu-liu-zeng-chang-chang-lao-er-shou-qi-yi
-title: 過鵝湖留贈昌長老二首  其一
-titlePinyin: guo4 e2 hu2 liu2 zeng4 chang1 chang2 lao3 er4 shou3     qi2 yi1
+title: 過鵝湖留贈昌長老二首・其一
+titlePinyin: guo4 e2 hu2 liu2 zeng4 chang1 chang2 lao3 er4 shou3・qi2 yi1
 titleSlug: guo-e-hu-liu-zeng-chang-chang-lao-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

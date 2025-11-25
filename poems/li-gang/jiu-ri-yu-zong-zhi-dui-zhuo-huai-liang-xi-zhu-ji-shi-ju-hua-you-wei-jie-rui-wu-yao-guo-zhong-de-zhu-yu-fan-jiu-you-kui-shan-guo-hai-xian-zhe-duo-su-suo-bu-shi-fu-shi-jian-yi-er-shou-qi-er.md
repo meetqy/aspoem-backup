@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiu-ri-yu-zong-zhi-dui-zhuo-huai-liang-xi-zhu-ji-shi-ju-hua-you-wei-jie-rui-wu-yao-guo-zhong-de-zhu-yu-fan-jiu-you-kui-shan-guo-hai-xian-zhe-duo-su-suo-bu-shi-fu-shi-jian-yi-er-shou-qi-er
-title: 九日與宗之對酌懷梁谿諸季時菊花猶未結蘂於藥菓中得茱萸泛酒有饋山果海鮮者多素所不識賦詩見意二首  其二
-titlePinyin: jiu3 ri4 yu3 zong1 zhi1 dui4 zhuo2 huai2 liang2 xi1 zhu1 ji4 shi2 ju2 hua1 you2 wei4 jie2 rui3 wu1 yao4 guo3 zhong1 de2 zhu1 yu2 fan4 jiu3 you3 kui4 shan1 guo3 hai3 xian1 zhe3 duo1 su4 suo3 bu4 shi2 fu4 shi1 jian4 yi4 er4 shou3     qi2 er4
+title: 九日與宗之對酌懷梁谿諸季時菊花猶未結蘂於藥菓中得茱萸泛酒有饋山果海鮮者多素所不識賦詩見意二首・其二
+titlePinyin: jiu3 ri4 yu3 zong1 zhi1 dui4 zhuo2 huai2 liang2 xi1 zhu1 ji4 shi2 ju2 hua1 you2 wei4 jie2 rui3 wu1 yao4 guo3 zhong1 de2 zhu1 yu2 fan4 jiu3 you3 kui4 shan1 guo3 hai3 xian1 zhe3 duo1 su4 suo3 bu4 shi2 fu4 shi1 jian4 yi4 er4 shou3・qi2 er4
 titleSlug: jiu-ri-yu-zong-zhi-dui-zhuo-huai-liang-xi-zhu-ji-shi-ju-hua-you-wei-jie-rui-wu-yao-guo-zhong-de-zhu-yu-fan-jiu-you-kui-shan-guo-hai-xian-zhe-duo-su-suo-bu-shi-fu-shi-jian-yi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

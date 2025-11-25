@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-yue-wu-shou-qi-si
-title: 江月五首  其四
-titlePinyin: jiang1 yue4 wu3 shou3     qi2 si4
+title: 江月五首・其四
+titlePinyin: jiang1 yue4 wu3 shou3・qi2 si4
 titleSlug: jiang-yue-wu-shou-qi-si
 author: 李綱
 authorPinyin: li3 gang1

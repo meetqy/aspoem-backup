@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-shi-san-shou-qi-er
-title: 即事三首  其二
-titlePinyin: ji2 shi4 san1 shou3     qi2 er4
+title: 即事三首・其二
+titlePinyin: ji2 shi4 san1 shou3・qi2 er4
 titleSlug: ji-shi-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

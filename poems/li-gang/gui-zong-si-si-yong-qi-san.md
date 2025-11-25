@@ -1,7 +1,7 @@
 ---
 id: li-gang-gui-zong-si-si-yong-qi-san
-title: 歸宗寺四詠  其三
-titlePinyin: gui1 zong1 si4 si4 yong3     qi2 san1
+title: 歸宗寺四詠・其三
+titlePinyin: gui1 zong1 si4 si4 yong3・qi2 san1
 titleSlug: gui-zong-si-si-yong-qi-san
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-ba-yong-wen-hui-tang
-title: 梁谿八詠 文會堂
-titlePinyin: liang2 xi1 ba1 yong3   wen2 hui4 tang2
+title: 梁谿八詠・文會堂
+titlePinyin: liang2 xi1 ba1 yong3・wen2 hui4 tang2
 titleSlug: liang-xi-ba-yong-wen-hui-tang
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-liu-ti-ning-cui-ge-er-jue-qi-er
-title: 留題凝翠閣二絕  其二
-titlePinyin: liu2 ti2 ning2 cui4 ge2 er4 jue2     qi2 er4
+title: 留題凝翠閣二絕・其二
+titlePinyin: liu2 ti2 ning2 cui4 ge2 er4 jue2・qi2 er4
 titleSlug: liu-ti-ning-cui-ge-er-jue-qi-er
 author: 李綱
 authorPinyin: li3 gang1

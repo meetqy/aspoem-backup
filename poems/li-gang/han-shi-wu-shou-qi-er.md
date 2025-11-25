@@ -1,7 +1,7 @@
 ---
 id: li-gang-han-shi-wu-shou-qi-er
-title: 寒食五首  其二
-titlePinyin: han2 shi2 wu3 shou3     qi2 er4
+title: 寒食五首・其二
+titlePinyin: han2 shi2 wu3 shou3・qi2 er4
 titleSlug: han-shi-wu-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

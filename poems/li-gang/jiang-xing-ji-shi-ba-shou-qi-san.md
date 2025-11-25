@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-xing-ji-shi-ba-shou-qi-san
-title: 江行即事八首  其三
-titlePinyin: jiang1 xing2 ji2 shi4 ba1 shou3     qi2 san1
+title: 江行即事八首・其三
+titlePinyin: jiang1 xing2 ji2 shi4 ba1 shou3・qi2 san1
 titleSlug: jiang-xing-ji-shi-ba-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

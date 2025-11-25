@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-ti-wai-shi-song-yuan-shao-zu-ting-qi-er
-title: 寄題外氏松源紹祖亭  其二
-titlePinyin: ji4 ti2 wai4 shi4 song1 yuan2 shao4 zu3 ting2     qi2 er4
+title: 寄題外氏松源紹祖亭・其二
+titlePinyin: ji4 ti2 wai4 shi4 song1 yuan2 shao4 zu3 ting2・qi2 er4
 titleSlug: ji-ti-wai-shi-song-yuan-shao-zu-ting-qi-er
 author: 李綱
 authorPinyin: li3 gang1

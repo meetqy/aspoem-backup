@@ -1,7 +1,7 @@
 ---
 id: li-gang-ju-feng-er-jue-ju-qi-yi
-title: 颶風二絕句  其一
-titlePinyin: ju4 feng1 er4 jue2 ju4     qi2 yi1
+title: 颶風二絕句・其一
+titlePinyin: ju4 feng1 er4 jue2 ju4・qi2 yi1
 titleSlug: ju-feng-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

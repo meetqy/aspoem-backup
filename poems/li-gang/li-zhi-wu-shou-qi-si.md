@@ -1,7 +1,7 @@
 ---
 id: li-gang-li-zhi-wu-shou-qi-si
-title: 荔枝五首  其四
-titlePinyin: li4 zhi1 wu3 shou3     qi2 si4
+title: 荔枝五首・其四
+titlePinyin: li4 zhi1 wu3 shou3・qi2 si4
 titleSlug: li-zhi-wu-shou-qi-si
 author: 李綱
 authorPinyin: li3 gang1

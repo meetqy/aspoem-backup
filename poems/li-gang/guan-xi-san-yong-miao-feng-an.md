@@ -1,7 +1,7 @@
 ---
 id: li-gang-guan-xi-san-yong-miao-feng-an
-title: 灌溪三詠 妙峰菴
-titlePinyin: guan4 xi1 san1 yong3   miao4 feng1 an1
+title: 灌溪三詠・妙峰菴
+titlePinyin: guan4 xi1 san1 yong3・miao4 feng1 an1
 titleSlug: guan-xi-san-yong-miao-feng-an
 author: 李綱
 authorPinyin: li3 gang1

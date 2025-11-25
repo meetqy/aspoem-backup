@@ -1,7 +1,7 @@
 ---
 id: li-gang-guo-huang-shi-yi-shi-xu-li-yan-shi-jian-xuan-pu-cong-she-sheng-yin-ran-zhen-xiao-san-xia-ye-ming-pu-fu-jian-ti-yi-hui-wei-xing-zhe-qing-xin-hai-mu-zhi-guan-xi-cheng-liang-jue-qi-er
-title: 過黄石驛十許里嚴石間懸瀑潨射聲隱然真小三峽也命僕夫剪剔翳薈爲行者清心駭目之觀戲成兩絕  其二
-titlePinyin: guo4 huang2 shi2 yi4 shi2 xu1 li3 yan2 shi2 jian4 xuan2 pu4 cong1 she4 sheng1 yin3 ran2 zhen1 xiao3 san1 xia2 ye3 ming4 pu2 fu1 jian3 ti1 yi4 hui4 wei2 xing2 zhe3 qing1 xin1 hai4 mu4 zhi1 guan1 xi4 cheng2 liang3 jue2     qi2 er4
+title: 過黄石驛十許里嚴石間懸瀑潨射聲隱然真小三峽也命僕夫剪剔翳薈爲行者清心駭目之觀戲成兩絕・其二
+titlePinyin: guo4 huang2 shi2 yi4 shi2 xu1 li3 yan2 shi2 jian4 xuan2 pu4 cong1 she4 sheng1 yin3 ran2 zhen1 xiao3 san1 xia2 ye3 ming4 pu2 fu1 jian3 ti1 yi4 hui4 wei2 xing2 zhe3 qing1 xin1 hai4 mu4 zhi1 guan1 xi4 cheng2 liang3 jue2・qi2 er4
 titleSlug: guo-huang-shi-yi-shi-xu-li-yan-shi-jian-xuan-pu-cong-she-sheng-yin-ran-zhen-xiao-san-xia-ye-ming-pu-fu-jian-ti-yi-hui-wei-xing-zhe-qing-xin-hai-mu-zhi-guan-xi-cheng-liang-jue-qi-er
 author: 李綱
 authorPinyin: li3 gang1

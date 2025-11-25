@@ -1,7 +1,7 @@
 ---
 id: li-gang-liang-xi-si-you-zan-xu-you-fang-zan
-title: 梁谿四友贊序 幽芳贊
-titlePinyin: liang2 xi1 si4 you3 zan4 xu4   you1 fang1 zan4
+title: 梁谿四友贊序・幽芳贊
+titlePinyin: liang2 xi1 si4 you3 zan4 xu4・you1 fang1 zan4
 titleSlug: liang-xi-si-you-zan-xu-you-fang-zan
 author: 李綱
 authorPinyin: li3 gang1

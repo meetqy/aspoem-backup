@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-xing-shi-shou-qi-yi
-title: 江行十首  其一○
-titlePinyin: jiang1 xing2 shi2 shou3     qi2 yi1 ○
+title: 江行十首・其一○
+titlePinyin: jiang1 xing2 shi2 shou3・qi2 yi1 ○
 titleSlug: jiang-xing-shi-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

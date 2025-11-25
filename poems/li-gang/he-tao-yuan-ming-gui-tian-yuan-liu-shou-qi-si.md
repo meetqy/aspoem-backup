@@ -1,7 +1,7 @@
 ---
 id: li-gang-he-tao-yuan-ming-gui-tian-yuan-liu-shou-qi-si
-title: 和陶淵明歸田園六首  其四
-titlePinyin: he2 tao2 yuan1 ming2 gui1 tian2 yuan2 liu4 shou3     qi2 si4
+title: 和陶淵明歸田園六首・其四
+titlePinyin: he2 tao2 yuan1 ming2 gui1 tian2 yuan2 liu4 shou3・qi2 si4
 titleSlug: he-tao-yuan-ming-gui-tian-yuan-liu-shou-qi-si
 author: 李綱
 authorPinyin: li3 gang1

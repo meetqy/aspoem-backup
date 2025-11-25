@@ -1,7 +1,7 @@
 ---
 id: li-gang-ji-mao-da-ke-nei-han-bing-lu-song-wei-gong-bie-lu-qi-yi
-title: 寄毛達可內翰并錄送魏公别錄  其一
-titlePinyin: ji4 mao2 da2 ke3 nei4 han4 bing4 lu4 song4 wei4 gong1 bie2 lu4     qi2 yi1
+title: 寄毛達可內翰并錄送魏公别錄・其一
+titlePinyin: ji4 mao2 da2 ke3 nei4 han4 bing4 lu4 song4 wei4 gong1 bie2 lu4・qi2 yi1
 titleSlug: ji-mao-da-ke-nei-han-bing-lu-song-wei-gong-bie-lu-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-jiang-you-bing-lu-er-shou-qi-yi
-title: 將遊栟櫚二首  其一
-titlePinyin: jiang1 you2 bing1 lü2 er4 shou3     qi2 yi1
+title: 將遊栟櫚二首・其一
+titlePinyin: jiang1 you2 bing1 lü2 er4 shou3・qi2 yi1
 titleSlug: jiang-you-bing-lu-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

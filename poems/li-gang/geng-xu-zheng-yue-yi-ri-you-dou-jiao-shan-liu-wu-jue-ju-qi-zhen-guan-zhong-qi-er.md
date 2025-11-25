@@ -1,7 +1,7 @@
 ---
 id: li-gang-geng-xu-zheng-yue-yi-ri-you-dou-jiao-shan-liu-wu-jue-ju-qi-zhen-guan-zhong-qi-er
-title: 庚戌正月一日遊都嶠山留五絕句栖真觀中  其二
-titlePinyin: geng1 xu1 zheng1 yue4 yi2 ri4 you2 dou1 jiao4 shan1 liu2 wu3 jue2 ju4 qi1 zhen1 guan1 zhong1     qi2 er4
+title: 庚戌正月一日遊都嶠山留五絕句栖真觀中・其二
+titlePinyin: geng1 xu1 zheng1 yue4 yi2 ri4 you2 dou1 jiao4 shan1 liu2 wu3 jue2 ju4 qi1 zhen1 guan1 zhong1・qi2 er4
 titleSlug: geng-xu-zheng-yue-yi-ri-you-dou-jiao-shan-liu-wu-jue-ju-qi-zhen-guan-zhong-qi-er
 author: 李綱
 authorPinyin: li3 gang1

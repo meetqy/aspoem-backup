@@ -1,7 +1,7 @@
 ---
 id: li-gang-han-xiao-hua-wu-shou-qi-yi
-title: 含笑花五首  其一
-titlePinyin: han2 xiao4 hua1 wu3 shou3     qi2 yi1
+title: 含笑花五首・其一
+titlePinyin: han2 xiao4 hua1 wu3 shou3・qi2 yi1
 titleSlug: han-xiao-hua-wu-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1
