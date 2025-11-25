@@ -1,7 +1,7 @@
 ---
 id: li-gang-yu-shan-dao-zhong-wu-shou-qi-wu
-title: 玉山道中五首  其五
-titlePinyin: yu4 shan1 dao4 zhong1 wu3 shou3     qi2 wu3
+title: 玉山道中五首・其五
+titlePinyin: yu4 shan1 dao4 zhong1 wu3 shou3・qi2 wu3
 titleSlug: yu-shan-dao-zhong-wu-shou-qi-wu
 author: 李綱
 authorPinyin: li3 gang1

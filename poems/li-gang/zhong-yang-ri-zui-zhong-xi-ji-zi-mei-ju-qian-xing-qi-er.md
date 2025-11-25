@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhong-yang-ri-zui-zhong-xi-ji-zi-mei-ju-qian-xing-qi-er
-title: 重陽日醉中戲集子美句遣興  其二
-titlePinyin: zhong4 yang2 ri4 zui4 zhong1 xi4 ji2 zi0 mei3 ju4 qian3 xing1     qi2 er4
+title: 重陽日醉中戲集子美句遣興・其二
+titlePinyin: zhong4 yang2 ri4 zui4 zhong1 xi4 ji2 zi0 mei3 ju4 qian3 xing1・qi2 er4
 titleSlug: zhong-yang-ri-zui-zhong-xi-ji-zi-mei-ju-qian-xing-qi-er
 author: 李綱
 authorPinyin: li3 gang1

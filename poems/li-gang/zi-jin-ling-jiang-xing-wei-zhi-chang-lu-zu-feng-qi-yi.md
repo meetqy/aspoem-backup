@@ -1,7 +1,7 @@
 ---
 id: li-gang-zi-jin-ling-jiang-xing-wei-zhi-chang-lu-zu-feng-qi-yi
-title: 自金陵江行未至長蘆阻風  其一
-titlePinyin: zi4 jin1 ling2 jiang1 xing2 wei4 zhi4 chang2 lu2 zu3 feng1     qi2 yi1
+title: 自金陵江行未至長蘆阻風・其一
+titlePinyin: zi4 jin1 ling2 jiang1 xing2 wei4 zhi4 chang2 lu2 zu3 feng1・qi2 yi1
 titleSlug: zi-jin-ling-jiang-xing-wei-zhi-chang-lu-zu-feng-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

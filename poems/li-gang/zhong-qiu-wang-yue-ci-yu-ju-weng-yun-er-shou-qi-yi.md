@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhong-qiu-wang-yue-ci-yu-ju-weng-yun-er-shou-qi-yi
-title: 中秋望月次玉局翁韻二首  其一
-titlePinyin: zhong1 qiu1 wang4 yue4 ci4 yu4 ju2 weng1 yun4 er4 shou3     qi2 yi1
+title: 中秋望月次玉局翁韻二首・其一
+titlePinyin: zhong1 qiu1 wang4 yue4 ci4 yu4 ju2 weng1 yun4 er4 shou3・qi2 yi1
 titleSlug: zhong-qiu-wang-yue-ci-yu-ju-weng-yun-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

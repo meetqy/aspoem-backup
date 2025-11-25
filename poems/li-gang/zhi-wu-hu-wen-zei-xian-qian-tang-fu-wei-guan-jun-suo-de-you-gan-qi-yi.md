@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-wu-hu-wen-zei-xian-qian-tang-fu-wei-guan-jun-suo-de-you-gan-qi-yi
-title: 至蕪湖聞賊陷錢塘復爲官軍所得有感  其一
-titlePinyin: zhi4 wu2 hu2 wen2 zei2 xian4 qian2 tang2 fu4 wei2 guan1 jun1 suo3 de2 you3 gan3     qi2 yi1
+title: 至蕪湖聞賊陷錢塘復爲官軍所得有感・其一
+titlePinyin: zhi4 wu2 hu2 wen2 zei2 xian4 qian2 tang2 fu4 wei2 guan1 jun1 suo3 de2 you3 gan3・qi2 yi1
 titleSlug: zhi-wu-hu-wen-zei-xian-qian-tang-fu-wei-guan-jun-suo-de-you-gan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

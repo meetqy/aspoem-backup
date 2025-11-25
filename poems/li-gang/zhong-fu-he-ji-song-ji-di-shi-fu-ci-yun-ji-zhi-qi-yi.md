@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhong-fu-he-ji-song-ji-di-shi-fu-ci-yun-ji-zhi-qi-yi
-title: 仲輔和寄送季弟詩復次韻寄之  其一
-titlePinyin: zhong4 fu3 he2 ji4 song4 ji4 di4 shi1 fu4 ci4 yun4 ji4 zhi1     qi2 yi1
+title: 仲輔和寄送季弟詩復次韻寄之・其一
+titlePinyin: zhong4 fu3 he2 ji4 song4 ji4 di4 shi1 fu4 ci4 yun4 ji4 zhi1・qi2 yi1
 titleSlug: zhong-fu-he-ji-song-ji-di-shi-fu-ci-yun-ji-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

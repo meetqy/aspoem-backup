@@ -1,7 +1,7 @@
 ---
 id: li-gang-zheng-zhi-fu-ci-qian-yun-zuo-si-pian-jian-shi-shi-ri-shi-deng-cheng-lou-yi-wang-jiang-shan-qie-yue-jie-bao-yin-fu-liu-zhang-yi-bao-zhi-qi-san
-title: 正之復次前韻作四篇見示是日適登城樓以望江山且閲捷報因賦六章以報之  其三
-titlePinyin: zheng4 zhi1 fu4 ci4 qian2 yun4 zuo4 si4 pian1 jian4 shi4 shi4 ri4 shi4 deng1 cheng2 lou2 yi3 wang4 jiang1 shan1 qie3 yue4 jie2 bao4 yin1 fu4 liu4 zhang1 yi3 bao4 zhi1     qi2 san1
+title: 正之復次前韻作四篇見示是日適登城樓以望江山且閲捷報因賦六章以報之・其三
+titlePinyin: zheng4 zhi1 fu4 ci4 qian2 yun4 zuo4 si4 pian1 jian4 shi4 shi4 ri4 shi4 deng1 cheng2 lou2 yi3 wang4 jiang1 shan1 qie3 yue4 jie2 bao4 yin1 fu4 liu4 zhang1 yi3 bao4 zhi1・qi2 san1
 titleSlug: zheng-zhi-fu-ci-qian-yun-zuo-si-pian-jian-shi-shi-ri-shi-deng-cheng-lou-yi-wang-jiang-shan-qie-yue-jie-bao-yin-fu-liu-zhang-yi-bao-zhi-qi-san
 author: 李綱
 authorPinyin: li3 gang1

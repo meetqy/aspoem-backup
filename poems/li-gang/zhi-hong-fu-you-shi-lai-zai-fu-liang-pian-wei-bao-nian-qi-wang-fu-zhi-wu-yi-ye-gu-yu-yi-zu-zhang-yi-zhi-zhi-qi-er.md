@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-hong-fu-you-shi-lai-zai-fu-liang-pian-wei-bao-nian-qi-wang-fu-zhi-wu-yi-ye-gu-yu-yi-zu-zhang-yi-zhi-zhi-qi-er
-title: 志宏復有詩來再賦兩篇爲報念其往復之無已也故寓意卒章以止之  其二
-titlePinyin: zhi4 hong2 fu4 you3 shi1 lai2 zai4 fu4 liang3 pian1 wei2 bao4 nian4 qi2 wang3 fu4 zhi1 wu2 yi3 ye3 gu4 yu4 yi4 zu2 zhang1 yi3 zhi3 zhi1     qi2 er4
+title: 志宏復有詩來再賦兩篇爲報念其往復之無已也故寓意卒章以止之・其二
+titlePinyin: zhi4 hong2 fu4 you3 shi1 lai2 zai4 fu4 liang3 pian1 wei2 bao4 nian4 qi2 wang3 fu4 zhi1 wu2 yi3 ye3 gu4 yu4 yi4 zu2 zhang1 yi3 zhi3 zhi1・qi2 er4
 titleSlug: zhi-hong-fu-you-shi-lai-zai-fu-liang-pian-wei-bao-nian-qi-wang-fu-zhi-wu-yi-ye-gu-yu-yi-zu-zhang-yi-zhi-zhi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

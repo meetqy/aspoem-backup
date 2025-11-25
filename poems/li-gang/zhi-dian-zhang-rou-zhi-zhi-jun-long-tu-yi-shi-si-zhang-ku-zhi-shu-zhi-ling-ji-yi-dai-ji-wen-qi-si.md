@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-dian-zhang-rou-zhi-zhi-jun-long-tu-yi-shi-si-zhang-ku-zhi-shu-zhi-ling-ji-yi-dai-ji-wen-qi-si
-title: 致奠張柔直知郡龍圖以詩四章哭之書置靈几以代祭文  其四
-titlePinyin: zhi4 dian4 zhang1 rou2 zhi2 zhi1 jun4 long2 tu2 yi3 shi1 si4 zhang1 ku1 zhi1 shu1 zhi4 ling2 ji3 yi3 dai4 ji4 wen2     qi2 si4
+title: 致奠張柔直知郡龍圖以詩四章哭之書置靈几以代祭文・其四
+titlePinyin: zhi4 dian4 zhang1 rou2 zhi2 zhi1 jun4 long2 tu2 yi3 shi1 si4 zhang1 ku1 zhi1 shu1 zhi4 ling2 ji3 yi3 dai4 ji4 wen2・qi2 si4
 titleSlug: zhi-dian-zhang-rou-zhi-zhi-jun-long-tu-yi-shi-si-zhang-ku-zhi-shu-zhi-ling-ji-yi-dai-ji-wen-qi-si
 author: 李綱
 authorPinyin: li3 gang1

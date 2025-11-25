@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-zuo-san-jue-ju-qi-yi
-title: 夜坐三絕句  其一
-titlePinyin: ye4 zuo4 san1 jue2 ju4     qi2 yi1
+title: 夜坐三絕句・其一
+titlePinyin: ye4 zuo4 san1 jue2 ju4・qi2 yi1
 titleSlug: ye-zuo-san-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

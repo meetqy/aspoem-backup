@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhao-shu-yun-pan-jian-shi-xuan-he-yu-hua-er-zhou-qi-yi-ma-ju-zu-fen-xun-jiang-qi-qi-yi-tu-zheng-mian-ju-di-nie-cao-jie-jue-qu-bi-mo-qi-jing-jian-yi-tai-ru-sheng-jing-miao-ru-shen-fu-guan-tan-xi-gan-kai-yin-fu-shi-er-pian-yi-zan-yang-chen-han-qie-xu-xiao-chen-qi-fen-zhi-qing-yun-tu
-title: 趙叔𩅿運判見示宣和御畫二軸其一馬舉足奮迅將起其一兔正面踞地齧草皆絕去筆墨畦徑間意態如生精妙入神伏觀歎息感慨因賦詩二篇以贊揚宸翰且叙小臣悽憤之情云 兔
-titlePinyin: zhao4 shu1 𩅿 yun4 pan4 jian4 shi4 xuan1 he2 yu4 hua4 er4 zhou2 qi2 yi1 ma3 ju3 zu2 fen4 xun4 jiang1 qi3 qi2 yi1 tu4 zheng4 mian4 ju4 di4 nie4 cao3 jie1 jue2 qu4 bi3 mo4 qi2 jing4 jian4 yi4 tai4 ru2 sheng1 jing1 miao4 ru4 shen2 fu2 guan1 tan4 xi1 gan3 kai3 yin1 fu4 shi1 er4 pian1 yi3 zan4 yang2 chen2 han4 qie3 xu4 xiao3 chen2 qi1 fen4 zhi1 qing2 yun2   tu4
+title: 趙叔𩅿運判見示宣和御畫二軸其一馬舉足奮迅將起其一兔正面踞地齧草皆絕去筆墨畦徑間意態如生精妙入神伏觀歎息感慨因賦詩二篇以贊揚宸翰且叙小臣悽憤之情云・兔
+titlePinyin: zhao4 shu1 𩅿 yun4 pan4 jian4 shi4 xuan1 he2 yu4 hua4 er4 zhou2 qi2 yi1 ma3 ju3 zu2 fen4 xun4 jiang1 qi3 qi2 yi1 tu4 zheng4 mian4 ju4 di4 nie4 cao3 jie1 jue2 qu4 bi3 mo4 qi2 jing4 jian4 yi4 tai4 ru2 sheng1 jing1 miao4 ru4 shen2 fu2 guan1 tan4 xi1 gan3 kai3 yin1 fu4 shi1 er4 pian1 yi3 zan4 yang2 chen2 han4 qie3 xu4 xiao3 chen2 qi1 fen4 zhi1 qing2 yun2・tu4
 titleSlug: zhao-shu-yun-pan-jian-shi-xuan-he-yu-hua-er-zhou-qi-yi-ma-ju-zu-fen-xun-jiang-qi-qi-yi-tu-zheng-mian-ju-di-nie-cao-jie-jue-qu-bi-mo-qi-jing-jian-yi-tai-ru-sheng-jing-miao-ru-shen-fu-guan-tan-xi-gan-kai-yin-fu-shi-er-pian-yi-zan-yang-chen-han-qie-xu-xiao-chen-qi-fen-zhi-qing-yun-tu
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-hong-yi-mu-dan-tu-mi-jian-yi-xi-hu-mu-dan-wei-dao-zhou-chang-qie-xu-shi-xiang-tu-mi-zuo-er-shi-yi-bao-zhi-mu-dan
-title: 志宏以牡丹酴醿見遺戲呼牡丹爲道州長且許時餉酴醿作二詩以報之 牡丹
-titlePinyin: zhi4 hong2 yi3 mu3 dan1 tu2 mi2 jian4 yi2 xi4 hu1 mu3 dan1 wei2 dao4 zhou1 chang2 qie3 xu1 shi2 xiang3 tu2 mi2 zuo4 er4 shi1 yi3 bao4 zhi1   mu3 dan1
+title: 志宏以牡丹酴醿見遺戲呼牡丹爲道州長且許時餉酴醿作二詩以報之・牡丹
+titlePinyin: zhi4 hong2 yi3 mu3 dan1 tu2 mi2 jian4 yi2 xi4 hu1 mu3 dan1 wei2 dao4 zhou1 chang2 qie3 xu1 shi2 xiang3 tu2 mi2 zuo4 er4 shi1 yi3 bao4 zhi1・mu3 dan1
 titleSlug: zhi-hong-yi-mu-dan-tu-mi-jian-yi-xi-hu-mu-dan-wei-dao-zhou-chang-qie-xu-shi-xiang-tu-mi-zuo-er-shi-yi-bao-zhi-mu-dan
 author: 李綱
 authorPinyin: li3 gang1

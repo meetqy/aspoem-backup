@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-hong-fu-shi-qiu-yi-wu-pian-ci-yun-he-zhi-qi-wu
-title: 志宏復示秋意五篇次韻和之  其五
-titlePinyin: zhi4 hong2 fu4 shi4 qiu1 yi4 wu3 pian1 ci4 yun4 he2 zhi1     qi2 wu3
+title: 志宏復示秋意五篇次韻和之・其五
+titlePinyin: zhi4 hong2 fu4 shi4 qiu1 yi4 wu3 pian1 ci4 yun4 he2 zhi1・qi2 wu3
 titleSlug: zhi-hong-fu-shi-qiu-yi-wu-pian-ci-yun-he-zhi-qi-wu
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-zi-pu-qi-lin-xiang-qu-yue-yang-dao-zhong-zuo-shi-shou-qi-qi
-title: 自蒲圻臨湘趨岳陽道中作十首  其七
-titlePinyin: zi4 pu2 qi2 lin2 xiang1 qu1 yue4 yang2 dao4 zhong1 zuo4 shi2 shou3     qi2 qi1
+title: 自蒲圻臨湘趨岳陽道中作十首・其七
+titlePinyin: zi4 pu2 qi2 lin2 xiang1 qu1 yue4 yang2 dao4 zhong1 zuo4 shi2 shou3・qi2 qi1
 titleSlug: zi-pu-qi-lin-xiang-qu-yue-yang-dao-zhong-zuo-shi-shou-qi-qi
 author: 李綱
 authorPinyin: li3 gang1

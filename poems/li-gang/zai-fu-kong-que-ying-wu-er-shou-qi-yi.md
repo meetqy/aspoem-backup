@@ -1,7 +1,7 @@
 ---
 id: li-gang-zai-fu-kong-que-ying-wu-er-shou-qi-yi
-title: 再賦孔雀鸚鵡二首  其一
-titlePinyin: zai4 fu4 kong3 que4 ying1 wu3 er4 shou3     qi2 yi1
+title: 再賦孔雀鸚鵡二首・其一
+titlePinyin: zai4 fu4 kong3 que4 ying1 wu3 er4 shou3・qi2 yi1
 titleSlug: zai-fu-kong-que-ying-wu-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

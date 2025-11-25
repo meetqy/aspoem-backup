@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-hong-jian-he-zai-ci-qian-yun-tu-mi
-title: 志宏見和再次前韻 酴醿
-titlePinyin: zhi4 hong2 jian4 he2 zai4 ci4 qian2 yun4   tu2 mi2
+title: 志宏見和再次前韻・酴醿
+titlePinyin: zhi4 hong2 jian4 he2 zai4 ci4 qian2 yun4・tu2 mi2
 titleSlug: zhi-hong-jian-he-zai-ci-qian-yun-tu-mi
 author: 李綱
 authorPinyin: li3 gang1

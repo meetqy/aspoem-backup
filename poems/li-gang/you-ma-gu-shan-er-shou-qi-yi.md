@@ -1,7 +1,7 @@
 ---
 id: li-gang-you-ma-gu-shan-er-shou-qi-yi
-title: 遊麻姑山二首  其一
-titlePinyin: you2 ma2 gu1 shan1 er4 shou3     qi2 yi1
+title: 遊麻姑山二首・其一
+titlePinyin: you2 ma2 gu1 shan1 er4 shou3・qi2 yi1
 titleSlug: you-ma-gu-shan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

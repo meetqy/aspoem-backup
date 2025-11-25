@@ -1,7 +1,7 @@
 ---
 id: li-gang-zi-xiang-xiang-qu-shao-yang-yi-bi-bang-bu-gan-qu-dao-heng-yue-you-gan-wu-shou-qi-si
-title: 自湘鄉趨邵陽以避謗不敢取道衡嶽有感五首  其四
-titlePinyin: zi4 xiang1 xiang1 qu1 shao4 yang2 yi3 bi4 bang4 bu4 gan3 qu3 dao4 heng2 yue4 you3 gan3 wu3 shou3     qi2 si4
+title: 自湘鄉趨邵陽以避謗不敢取道衡嶽有感五首・其四
+titlePinyin: zi4 xiang1 xiang1 qu1 shao4 yang2 yi3 bi4 bang4 bu4 gan3 qu3 dao4 heng2 yue4 you3 gan3 wu3 shou3・qi2 si4
 titleSlug: zi-xiang-xiang-qu-shao-yang-yi-bi-bang-bu-gan-qu-dao-heng-yue-you-gan-wu-shou-qi-si
 author: 李綱
 authorPinyin: li3 gang1

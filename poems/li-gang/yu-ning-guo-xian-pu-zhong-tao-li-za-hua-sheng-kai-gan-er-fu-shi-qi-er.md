@@ -1,7 +1,7 @@
 ---
 id: li-gang-yu-ning-guo-xian-pu-zhong-tao-li-za-hua-sheng-kai-gan-er-fu-shi-qi-er
-title: 寓寧國縣圃中桃李雜花盛開感而賦詩  其二
-titlePinyin: yu4 ning2 guo2 xian4 pu3 zhong1 tao2 li3 za2 hua1 sheng4 kai1 gan3 er2 fu4 shi1     qi2 er4
+title: 寓寧國縣圃中桃李雜花盛開感而賦詩・其二
+titlePinyin: yu4 ning2 guo2 xian4 pu3 zhong1 tao2 li3 za2 hua1 sheng4 kai1 gan3 er2 fu4 shi1・qi2 er4
 titleSlug: yu-ning-guo-xian-pu-zhong-tao-li-za-hua-sheng-kai-gan-er-fu-shi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

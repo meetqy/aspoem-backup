@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-kou-zhong-min-ci-tang-liu-shou-qi-yi
-title: 謁寇忠愍祠堂六首  其一
-titlePinyin: ye4 kou4 zhong1 min3 ci2 tang2 liu4 shou3     qi2 yi1
+title: 謁寇忠愍祠堂六首・其一
+titlePinyin: ye4 kou4 zhong1 min3 ci2 tang2 liu4 shou3・qi2 yi1
 titleSlug: ye-kou-zhong-min-ci-tang-liu-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-zai-ci-qian-yun-qi-yi
-title: 再次前韻  其一
-titlePinyin: zai4 ci4 qian2 yun4     qi2 yi1
+title: 再次前韻・其一
+titlePinyin: zai4 ci4 qian2 yun4・qi2 yi1
 titleSlug: zai-ci-qian-yun-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

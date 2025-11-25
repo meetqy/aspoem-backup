@@ -1,7 +1,7 @@
 ---
 id: li-gang-yu-you-chang-yi-dao-lu-shan-zai-you-yi-san-shi-nian-yi-gan-huai-er-shou-qi-er
-title: 余幼嘗一到廬山再遊已三十年矣感懷二首  其二
-titlePinyin: yu2 you4 chang2 yi2 dao4 lu2 shan1 zai4 you2 yi3 san1 shi2 nian2 yi3 gan3 huai2 er4 shou3     qi2 er4
+title: 余幼嘗一到廬山再遊已三十年矣感懷二首・其二
+titlePinyin: yu2 you4 chang2 yi2 dao4 lu2 shan1 zai4 you2 yi3 san1 shi2 nian2 yi3 gan3 huai2 er4 shou3・qi2 er4
 titleSlug: yu-you-chang-yi-dao-lu-shan-zai-you-yi-san-shi-nian-yi-gan-huai-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

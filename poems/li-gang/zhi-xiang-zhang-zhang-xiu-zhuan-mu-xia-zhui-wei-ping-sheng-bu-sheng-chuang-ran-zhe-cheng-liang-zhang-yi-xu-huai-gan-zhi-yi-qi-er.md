@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-xiang-zhang-zhang-xiu-zhuan-mu-xia-zhui-wei-ping-sheng-bu-sheng-chuang-ran-zhe-cheng-liang-zhang-yi-xu-huai-gan-zhi-yi-qi-er
-title: 致享張丈脩撰墓下追惟平生不勝愴然輒成兩章以叙懷感之意  其二
-titlePinyin: zhi4 xiang3 zhang1 zhang4 xiu1 zhuan4 mu4 xia4 zhui1 wei2 ping2 sheng1 bu2 sheng4 chuang4 ran2 zhe2 cheng2 liang3 zhang1 yi3 xu4 huai2 gan3 zhi1 yi4     qi2 er4
+title: 致享張丈脩撰墓下追惟平生不勝愴然輒成兩章以叙懷感之意・其二
+titlePinyin: zhi4 xiang3 zhang1 zhang4 xiu1 zhuan4 mu4 xia4 zhui1 wei2 ping2 sheng1 bu2 sheng4 chuang4 ran2 zhe2 cheng2 liang3 zhang1 yi3 xu4 huai2 gan3 zhi1 yi4・qi2 er4
 titleSlug: zhi-xiang-zhang-zhang-xiu-zhuan-mu-xia-zhui-wei-ping-sheng-bu-sheng-chuang-ran-zhe-cheng-liang-zhang-yi-xu-huai-gan-zhi-yi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

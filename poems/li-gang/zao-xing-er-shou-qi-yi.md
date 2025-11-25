@@ -1,7 +1,7 @@
 ---
 id: li-gang-zao-xing-er-shou-qi-yi
-title: 早行二首  其一
-titlePinyin: zao3 xing2 er4 shou3     qi2 yi1
+title: 早行二首・其一
+titlePinyin: zao3 xing2 er4 shou3・qi2 yi1
 titleSlug: zao-xing-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

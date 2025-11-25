@@ -1,7 +1,7 @@
 ---
 id: li-gang-zi-tong-ling-xing-si-shi-li-feng-fu-zuo-bo-jiang-bei-an-di-ming-san-tan-shu-huai-nan-qi-san
-title: 自銅陵行四十里風復作泊江北岸地名散潭屬淮南  其三
-titlePinyin: zi4 tong2 ling2 xing2 si4 shi2 li3 feng1 fu4 zuo4 bo2 jiang1 bei3 an4 di4 ming2 san4 tan2 shu3 huai2 nan2     qi2 san1
+title: 自銅陵行四十里風復作泊江北岸地名散潭屬淮南・其三
+titlePinyin: zi4 tong2 ling2 xing2 si4 shi2 li3 feng1 fu4 zuo4 bo2 jiang1 bei3 an4 di4 ming2 san4 tan2 shu3 huai2 nan2・qi2 san1
 titleSlug: zi-tong-ling-xing-si-shi-li-feng-fu-zuo-bo-jiang-bei-an-di-ming-san-tan-shu-huai-nan-qi-san
 author: 李綱
 authorPinyin: li3 gang1

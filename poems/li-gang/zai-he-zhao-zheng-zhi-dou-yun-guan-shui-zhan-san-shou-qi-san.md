@@ -1,7 +1,7 @@
 ---
 id: li-gang-zai-he-zhao-zheng-zhi-dou-yun-guan-shui-zhan-san-shou-qi-san
-title: 再和趙正之都運觀水戰三首  其三
-titlePinyin: zai4 he2 zhao4 zheng4 zhi1 dou1 yun4 guan1 shui3 zhan4 san1 shou3     qi2 san1
+title: 再和趙正之都運觀水戰三首・其三
+titlePinyin: zai4 he2 zhao4 zheng4 zhi1 dou1 yun4 guan1 shui3 zhan4 san1 shou3・qi2 san1
 titleSlug: zai-he-zhao-zheng-zhi-dou-yun-guan-shui-zhan-san-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

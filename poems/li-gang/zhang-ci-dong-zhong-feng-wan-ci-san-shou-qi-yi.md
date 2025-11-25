@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhang-ci-dong-zhong-feng-wan-ci-san-shou-qi-yi
-title: 張次東中奉挽詞三首  其一
-titlePinyin: zhang1 ci4 dong1 zhong1 feng4 wan3 ci2 san1 shou3     qi2 yi1
+title: 張次東中奉挽詞三首・其一
+titlePinyin: zhang1 ci4 dong1 zhong1 feng4 wan3 ci2 san1 shou3・qi2 yi1
 titleSlug: zhang-ci-dong-zhong-feng-wan-ci-san-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

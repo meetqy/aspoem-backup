@@ -1,7 +1,7 @@
 ---
 id: li-gang-yong-yun-fu-mei-hua-san-shou-qi-er
-title: 用韻賦梅花三首  其二
-titlePinyin: yong4 yun4 fu4 mei2 hua1 san1 shou3     qi2 er4
+title: 用韻賦梅花三首・其二
+titlePinyin: yong4 yun4 fu4 mei2 hua1 san1 shou3・qi2 er4
 titleSlug: yong-yun-fu-mei-hua-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

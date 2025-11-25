@@ -1,7 +1,7 @@
 ---
 id: li-gang-yu-chong-yang-xi-shan-ding-lin-yuan-you-gan-er-shou-qi-yi
-title: 寓崇陽西山定林院有感二首  其一
-titlePinyin: yu4 chong2 yang2 xi1 shan1 ding4 lin2 yuan4 you3 gan3 er4 shou3     qi2 yi1
+title: 寓崇陽西山定林院有感二首・其一
+titlePinyin: yu4 chong2 yang2 xi1 shan1 ding4 lin2 yuan4 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: yu-chong-yang-xi-shan-ding-lin-yuan-you-gan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

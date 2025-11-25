@@ -1,7 +1,7 @@
 ---
 id: li-gang-yi-jiu-ci-zhan-pao-deng-zeng-han-shao-shi-er-shou-qi-er
-title: 以舊賜戰袍等贈韓少師二首  其二
-titlePinyin: yi3 jiu4 ci4 zhan4 pao2 deng3 zeng4 han2 shao3 shi1 er4 shou3     qi2 er4
+title: 以舊賜戰袍等贈韓少師二首・其二
+titlePinyin: yi3 jiu4 ci4 zhan4 pao2 deng3 zeng4 han2 shao3 shi1 er4 shou3・qi2 er4
 titleSlug: yi-jiu-ci-zhan-pao-deng-zeng-han-shao-shi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

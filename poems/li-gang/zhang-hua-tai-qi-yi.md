@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhang-hua-tai-qi-yi
-title: 章華臺  其一
-titlePinyin: zhang1 hua2 tai2     qi2 yi1
+title: 章華臺・其一
+titlePinyin: zhang1 hua2 tai2・qi2 yi1
 titleSlug: zhang-hua-tai-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

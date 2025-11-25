@@ -1,7 +1,7 @@
 ---
 id: li-gang-yue-yang-lou-san-shou-qi-san
-title: 岳陽樓三首  其三
-titlePinyin: yue4 yang2 lou2 san1 shou3     qi2 san1
+title: 岳陽樓三首・其三
+titlePinyin: yue4 yang2 lou2 san1 shou3・qi2 san1
 titleSlug: yue-yang-lou-san-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

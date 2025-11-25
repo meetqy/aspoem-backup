@@ -1,7 +1,7 @@
 ---
 id: li-gang-zi-wu-hu-jiang-xing-zhi-cai-shi-qi-yi
-title: 自蕪湖江行至采石  其一
-titlePinyin: zi4 wu2 hu2 jiang1 xing2 zhi4 cai3 shi2     qi2 yi1
+title: 自蕪湖江行至采石・其一
+titlePinyin: zi4 wu2 hu2 jiang1 xing2 zhi4 cai3 shi2・qi2 yi1
 titleSlug: zi-wu-hu-jiang-xing-zhi-cai-shi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

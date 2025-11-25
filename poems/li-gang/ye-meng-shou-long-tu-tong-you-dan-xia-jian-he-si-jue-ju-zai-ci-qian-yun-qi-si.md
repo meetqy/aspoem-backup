@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-meng-shou-long-tu-tong-you-dan-xia-jian-he-si-jue-ju-zai-ci-qian-yun-qi-si
-title: 葉夢授龍圖同遊丹霞見和四絕句再次前韻  其四
-titlePinyin: ye4 meng4 shou4 long2 tu2 tong2 you2 dan1 xia2 jian4 he2 si4 jue2 ju4 zai4 ci4 qian2 yun4     qi2 si4
+title: 葉夢授龍圖同遊丹霞見和四絕句再次前韻・其四
+titlePinyin: ye4 meng4 shou4 long2 tu2 tong2 you2 dan1 xia2 jian4 he2 si4 jue2 ju4 zai4 ci4 qian2 yun4・qi2 si4
 titleSlug: ye-meng-shou-long-tu-tong-you-dan-xia-jian-he-si-jue-ju-zai-ci-qian-yun-qi-si
 author: 李綱
 authorPinyin: li3 gang1

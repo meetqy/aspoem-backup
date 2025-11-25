@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-meng-shou-song-jia-yuan-mei-hua-qie-yi-jue-ju-shi-wu-zhang-jian-shi-ci-qi-yun-qi-ba
-title: 葉夢授送家園梅花且以絕句十五章見示次其韻  其八
-titlePinyin: ye4 meng4 shou4 song4 jia1 yuan2 mei2 hua1 qie3 yi3 jue2 ju4 shi2 wu3 zhang1 jian4 shi4 ci4 qi2 yun4     qi2 ba1
+title: 葉夢授送家園梅花且以絕句十五章見示次其韻・其八
+titlePinyin: ye4 meng4 shou4 song4 jia1 yuan2 mei2 hua1 qie3 yi3 jue2 ju4 shi2 wu3 zhang1 jian4 shi4 ci4 qi2 yun4・qi2 ba1
 titleSlug: ye-meng-shou-song-jia-yuan-mei-hua-qie-yi-jue-ju-shi-wu-zhang-jian-shi-ci-qi-yun-qi-ba
 author: 李綱
 authorPinyin: li3 gang1

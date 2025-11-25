@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-yue-du-zuo-er-jue-ju-qi-yi
-title: 夜月獨坐二絕句  其一
-titlePinyin: ye4 yue4 du2 zuo4 er4 jue2 ju4     qi2 yi1
+title: 夜月獨坐二絕句・其一
+titlePinyin: ye4 yue4 du2 zuo4 er4 jue2 ju4・qi2 yi1
 titleSlug: ye-yue-du-zuo-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

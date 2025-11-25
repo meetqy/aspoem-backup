@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhi-li-yang-yu-tian-ning-seng-she-you-gan-qi-yi
-title: 至澧陽寓天寧僧舍有感  其一
-titlePinyin: zhi4 li3 yang2 yu4 tian1 ning2 seng1 she4 you3 gan3     qi2 yi1
+title: 至澧陽寓天寧僧舍有感・其一
+titlePinyin: zhi4 li3 yang2 yu4 tian1 ning2 seng1 she4 you3 gan3・qi2 yi1
 titleSlug: zhi-li-yang-yu-tian-ning-seng-she-you-gan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

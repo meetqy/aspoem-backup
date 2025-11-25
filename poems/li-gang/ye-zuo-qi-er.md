@@ -1,7 +1,7 @@
 ---
 id: li-gang-ye-zuo-qi-er
-title: 夜坐  其二
-titlePinyin: ye4 zuo4     qi2 er4
+title: 夜坐・其二
+titlePinyin: ye4 zuo4・qi2 er4
 titleSlug: ye-zuo-qi-er
 author: 李綱
 authorPinyin: li3 gang1

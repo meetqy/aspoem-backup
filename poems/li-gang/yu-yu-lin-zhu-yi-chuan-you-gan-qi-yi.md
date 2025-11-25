@@ -1,7 +1,7 @@
 ---
 id: li-gang-yu-yu-lin-zhu-yi-chuan-you-gan-qi-yi
-title: 寓鬱林著易傳有感  其一
-titlePinyin: yu4 yu4 lin2 zhu4 yi4 chuan2 you3 gan3     qi2 yi1
+title: 寓鬱林著易傳有感・其一
+titlePinyin: yu4 yu4 lin2 zhu4 yi4 chuan2 you3 gan3・qi2 yi1
 titleSlug: yu-yu-lin-zhu-yi-chuan-you-gan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-zhong-fu-shu-yi-zhao-ke-tong-you-huang-nie-huan-yi-shi-zhou-xiang-shi-wei-fu-er-shi-qi-er
-title: 仲輔叔易招客同遊黄蘖還以詩軸相示爲賦二詩  其二
-titlePinyin: zhong4 fu3 shu1 yi4 zhao1 ke4 tong2 you2 huang2 nie4 huan2 yi3 shi1 zhou2 xiang1 shi4 wei2 fu4 er4 shi1     qi2 er4
+title: 仲輔叔易招客同遊黄蘖還以詩軸相示爲賦二詩・其二
+titlePinyin: zhong4 fu3 shu1 yi4 zhao1 ke4 tong2 you2 huang2 nie4 huan2 yi3 shi1 zhou2 xiang1 shi4 wei2 fu4 er4 shi1・qi2 er4
 titleSlug: zhong-fu-shu-yi-zhao-ke-tong-you-huang-nie-huan-yi-shi-zhou-xiang-shi-wei-fu-er-shi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

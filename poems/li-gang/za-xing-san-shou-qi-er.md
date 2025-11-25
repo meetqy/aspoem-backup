@@ -1,7 +1,7 @@
 ---
 id: li-gang-za-xing-san-shou-qi-er
-title: 雜興三首  其二
-titlePinyin: za2 xing1 san1 shou3     qi2 er4
+title: 雜興三首・其二
+titlePinyin: za2 xing1 san1 shou3・qi2 er4
 titleSlug: za-xing-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1
