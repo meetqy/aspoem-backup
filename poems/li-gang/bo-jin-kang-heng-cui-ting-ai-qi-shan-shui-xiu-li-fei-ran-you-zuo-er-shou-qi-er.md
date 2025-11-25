@@ -1,7 +1,7 @@
 ---
 id: li-gang-bo-jin-kang-heng-cui-ting-ai-qi-shan-shui-xiu-li-fei-ran-you-zuo-er-shou-qi-er
-title: 泊晉康横翠亭愛其山水秀麗斐然有作二首  其二
-titlePinyin: bo2 jin4 kang1 heng2 cui4 ting2 ai4 qi2 shan1 shui3 xiu4 li2 fei3 ran2 you3 zuo4 er4 shou3     qi2 er4
+title: 泊晉康横翠亭愛其山水秀麗斐然有作二首・其二
+titlePinyin: bo2 jin4 kang1 heng2 cui4 ting2 ai4 qi2 shan1 shui3 xiu4 li2 fei3 ran2 you3 zuo4 er4 shou3・qi2 er4
 titleSlug: bo-jin-kang-heng-cui-ting-ai-qi-shan-shui-xiu-li-fei-ran-you-zuo-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-dong-ri-xian-ju-qian-xing-shi-shou-qi-er
-title: 冬日閒居遣興十首  其二
-titlePinyin: dong1 ri4 xian2 ju1 qian3 xing1 shi2 shou3     qi2 er4
+title: 冬日閒居遣興十首・其二
+titlePinyin: dong1 ri4 xian2 ju1 qian3 xing1 shi2 shou3・qi2 er4
 titleSlug: dong-ri-xian-ju-qian-xing-shi-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

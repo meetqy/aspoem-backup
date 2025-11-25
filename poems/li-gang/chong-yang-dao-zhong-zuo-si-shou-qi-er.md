@@ -1,7 +1,7 @@
 ---
 id: li-gang-chong-yang-dao-zhong-zuo-si-shou-qi-er
-title: 崇陽道中作四首  其二
-titlePinyin: chong2 yang2 dao4 zhong1 zuo4 si4 shou3     qi2 er4
+title: 崇陽道中作四首・其二
+titlePinyin: chong2 yang2 dao4 zhong1 zuo4 si4 shou3・qi2 er4
 titleSlug: chong-yang-dao-zhong-zuo-si-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-dong-po-si-shi-ci-si-shou-qi-yi
-title: 次韻東坡四時詞四首  其一
-titlePinyin: ci4 yun4 dong1 po1 si4 shi2 ci2 si4 shou3     qi2 yi1
+title: 次韻東坡四時詞四首・其一
+titlePinyin: ci4 yun4 dong1 po1 si4 shi2 ci2 si4 shou3・qi2 yi1
 titleSlug: ci-yun-dong-po-si-shi-ci-si-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

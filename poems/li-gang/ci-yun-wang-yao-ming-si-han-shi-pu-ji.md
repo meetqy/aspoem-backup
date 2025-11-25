@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-wang-yao-ming-si-han-shi-pu-ji
-title: 次韻王堯明四旱詩 酺祭
-titlePinyin: ci4 yun4 wang2 yao2 ming2 si4 han4 shi1   pu2 ji4
+title: 次韻王堯明四旱詩・酺祭
+titlePinyin: ci4 yun4 wang2 yao2 ming2 si4 han4 shi1・pu2 ji4
 titleSlug: ci-yun-wang-yao-ming-si-han-shi-pu-ji
 author: 李綱
 authorPinyin: li3 gang1

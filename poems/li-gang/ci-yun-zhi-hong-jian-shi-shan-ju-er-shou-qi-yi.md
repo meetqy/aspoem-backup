@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhi-hong-jian-shi-shan-ju-er-shou-qi-yi
-title: 次韻志宏見示山居二首  其一
-titlePinyin: ci4 yun4 zhi4 hong2 jian4 shi4 shan1 ju1 er4 shou3     qi2 yi1
+title: 次韻志宏見示山居二首・其一
+titlePinyin: ci4 yun4 zhi4 hong2 jian4 shi4 shan1 ju1 er4 shou3・qi2 yi1
 titleSlug: ci-yun-zhi-hong-jian-shi-shan-ju-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

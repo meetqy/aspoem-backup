@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-ye-shao-yun-nei-han-zhang-zha-chuan-shang-mai-de-bian-shan-shi-lin-er-shou-qi-yi
-title: 次韻葉少藴內翰丈霅川上買得弁山石林二首  其一
-titlePinyin: ci4 yun4 ye4 shao3 yun4 nei4 han4 zhang4 zha4 chuan1 shang4 mai3 de2 bian4 shan1 shi2 lin2 er4 shou3     qi2 yi1
+title: 次韻葉少藴內翰丈霅川上買得弁山石林二首・其一
+titlePinyin: ci4 yun4 ye4 shao3 yun4 nei4 han4 zhang4 zha4 chuan1 shang4 mai3 de2 bian4 shan1 shi2 lin2 er4 shou3・qi2 yi1
 titleSlug: ci-yun-ye-shao-yun-nei-han-zhang-zha-chuan-shang-mai-de-bian-shan-shi-lin-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

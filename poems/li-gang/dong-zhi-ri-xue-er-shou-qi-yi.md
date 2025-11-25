@@ -1,7 +1,7 @@
 ---
 id: li-gang-dong-zhi-ri-xue-er-shou-qi-yi
-title: 冬至日雪二首  其一
-titlePinyin: dong1 zhi4 ri4 xue3 er4 shou3     qi2 yi1
+title: 冬至日雪二首・其一
+titlePinyin: dong1 zhi4 ri4 xue3 er4 shou3・qi2 yi1
 titleSlug: dong-zhi-ri-xue-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

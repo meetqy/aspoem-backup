@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-chen-zhong-yu-da-qing-er-shou-qi-yi
-title: 次韻陳中玉大卿二首  其一
-titlePinyin: ci4 yun4 chen2 zhong1 yu4 da4 qing1 er4 shou3     qi2 yi1
+title: 次韻陳中玉大卿二首・其一
+titlePinyin: ci4 yun4 chen2 zhong1 yu4 da4 qing1 er4 shou3・qi2 yi1
 titleSlug: ci-yun-chen-zhong-yu-da-qing-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

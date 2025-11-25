@@ -1,7 +1,7 @@
 ---
 id: li-gang-cong-shi-song-zhi-cheng-yue-yi-xi-cheng-liang-jue-ju-yi-da-qi-yi-qi-er
-title: 琮師送至城月驛戲成兩絕句以答其意  其二
-titlePinyin: cong2 shi1 song4 zhi4 cheng2 yue4 yi4 xi4 cheng2 liang3 jue2 ju4 yi3 da2 qi2 yi4     qi2 er4
+title: 琮師送至城月驛戲成兩絕句以答其意・其二
+titlePinyin: cong2 shi1 song4 zhi4 cheng2 yue4 yi4 xi4 cheng2 liang3 jue2 ju4 yi3 da2 qi2 yi4・qi2 er4
 titleSlug: cong-shi-song-zhi-cheng-yue-yi-xi-cheng-liang-jue-ju-yi-da-qi-yi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

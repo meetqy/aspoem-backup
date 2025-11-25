@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-lu-dun-li-liu-ti-huang-hua-yi-er-shou-qi-er
-title: 次韻陸敦禮留題皇華驛二首  其二
-titlePinyin: ci4 yun4 lu4 dun1 li3 liu2 ti2 huang2 hua2 yi4 er4 shou3     qi2 er4
+title: 次韻陸敦禮留題皇華驛二首・其二
+titlePinyin: ci4 yun4 lu4 dun1 li3 liu2 ti2 huang2 hua2 yi4 er4 shou3・qi2 er4
 titleSlug: ci-yun-lu-dun-li-liu-ti-huang-hua-yi-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

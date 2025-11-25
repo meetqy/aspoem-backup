@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-shen-bo-shang-hang-dao-zhong-jian-shi-er-shou-qi-yi
-title: 次韻申伯上杭道中見示二首  其一
-titlePinyin: ci4 yun4 shen1 bo2 shang4 hang2 dao4 zhong1 jian4 shi4 er4 shou3     qi2 yi1
+title: 次韻申伯上杭道中見示二首・其一
+titlePinyin: ci4 yun4 shen1 bo2 shang4 hang2 dao4 zhong1 jian4 shi4 er4 shou3・qi2 yi1
 titleSlug: ci-yun-shen-bo-shang-hang-dao-zhong-jian-shi-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

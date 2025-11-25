@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-ai-xuan-hua-si-shou-xing-hua-bai-xian
-title: 次韻艾宣畫四首 杏花白鷼
-titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3   xing4 hua1 bai2 xian2
+title: 次韻艾宣畫四首・杏花白鷼
+titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3・xing4 hua1 bai2 xian2
 titleSlug: ci-yun-ai-xuan-hua-si-shou-xing-hua-bai-xian
 author: 李綱
 authorPinyin: li3 gang1

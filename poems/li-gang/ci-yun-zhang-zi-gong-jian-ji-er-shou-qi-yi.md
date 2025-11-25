@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhang-zi-gong-jian-ji-er-shou-qi-yi
-title: 次韻張子公見寄二首  其一
-titlePinyin: ci4 yun4 zhang1 zi3 gong1 jian4 ji4 er4 shou3     qi2 yi1
+title: 次韻張子公見寄二首・其一
+titlePinyin: ci4 yun4 zhang1 zi3 gong1 jian4 ji4 er4 shou3・qi2 yi1
 titleSlug: ci-yun-zhang-zi-gong-jian-ji-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

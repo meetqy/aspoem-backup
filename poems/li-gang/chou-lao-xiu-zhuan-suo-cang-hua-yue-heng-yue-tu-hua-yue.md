@@ -1,7 +1,7 @@
 ---
 id: li-gang-chou-lao-xiu-zhuan-suo-cang-hua-yue-heng-yue-tu-hua-yue
-title: 疇老修撰所藏華嶽衡嶽圖 華嶽
-titlePinyin: chou2 lao3 xiu1 zhuan4 suo3 cang2 hua2 yue4 heng2 yue4 tu2   hua2 yue4
+title: 疇老修撰所藏華嶽衡嶽圖・華嶽
+titlePinyin: chou2 lao3 xiu1 zhuan4 suo3 cang2 hua2 yue4 heng2 yue4 tu2・hua2 yue4
 titleSlug: chou-lao-xiu-zhuan-suo-cang-hua-yue-heng-yue-tu-hua-yue
 author: 李綱
 authorPinyin: li3 gang1

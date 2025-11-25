@@ -1,7 +1,7 @@
 ---
 id: li-gang-dao-yang-shuo-shan-shui-you-qi-jue-jiu-chuan-wei-tian-xia-di-yi-fei-xu-yu-ye-fu-er-jue-ju-qi-yi
-title: 道陽朔山水尤奇絕舊傳爲天下第一非虛語也賦二絕句  其一
-titlePinyin: dao4 yang2 shuo4 shan1 shui3 you2 qi2 jue2 jiu4 chuan2 wei2 tian1 xia4 di4 yi1 fei1 xu1 yu3 ye3 fu4 er4 jue2 ju4     qi2 yi1
+title: 道陽朔山水尤奇絕舊傳爲天下第一非虛語也賦二絕句・其一
+titlePinyin: dao4 yang2 shuo4 shan1 shui3 you2 qi2 jue2 jiu4 chuan2 wei2 tian1 xia4 di4 yi1 fei1 xu1 yu3 ye3 fu4 er4 jue2 ju4・qi2 yi1
 titleSlug: dao-yang-shuo-shan-shui-you-qi-jue-jiu-chuan-wei-tian-xia-di-yi-fei-xu-yu-ye-fu-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-chen-guo-zuo-zuo-si-ji-shi-tian-tai-shan-tu-yi-jue-ju-liang-zhang-bao-zhi-qi-yi
-title: 陳國佐左司寄示天台山圖以絕句兩章報之  其一
-titlePinyin: chen2 guo2 zuo3 zuo3 si1 ji4 shi4 tian1 tai1 shan1 tu2 yi3 jue2 ju4 liang3 zhang1 bao4 zhi1     qi2 yi1
+title: 陳國佐左司寄示天台山圖以絕句兩章報之・其一
+titlePinyin: chen2 guo2 zuo3 zuo3 si1 ji4 shi4 tian1 tai1 shan1 tu2 yi3 jue2 ju4 liang3 zhang1 bao4 zhi1・qi2 yi1
 titleSlug: chen-guo-zuo-zuo-si-ji-shi-tian-tai-shan-tu-yi-jue-ju-liang-zhang-bao-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

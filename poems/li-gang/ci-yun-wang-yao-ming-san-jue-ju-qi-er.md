@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-wang-yao-ming-san-jue-ju-qi-er
-title: 次韻王堯明三絕句  其二
-titlePinyin: ci4 yun4 wang2 yao2 ming2 san1 jue2 ju4     qi2 er4
+title: 次韻王堯明三絕句・其二
+titlePinyin: ci4 yun4 wang2 yao2 ming2 san1 jue2 ju4・qi2 er4
 titleSlug: ci-yun-wang-yao-ming-san-jue-ju-qi-er
 author: 李綱
 authorPinyin: li3 gang1

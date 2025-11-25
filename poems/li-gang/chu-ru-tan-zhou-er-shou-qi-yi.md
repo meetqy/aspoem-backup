@@ -1,7 +1,7 @@
 ---
 id: li-gang-chu-ru-tan-zhou-er-shou-qi-yi
-title: 初入潭州二首  其一
-titlePinyin: chu1 ru4 tan2 zhou1 er4 shou3     qi2 yi1
+title: 初入潭州二首・其一
+titlePinyin: chu1 ru4 tan2 zhou1 er4 shou3・qi2 yi1
 titleSlug: chu-ru-tan-zhou-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

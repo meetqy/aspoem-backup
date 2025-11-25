@@ -1,7 +1,7 @@
 ---
 id: li-gang-chang-tan-yi-ci-yun-lu-dun-li-liu-ti-er-jue-ju-qi-yi
-title: 長灘驛次韻陸惇禮留題二絕句  其一
-titlePinyin: chang2 tan1 yi4 ci4 yun4 lu4 dun1 li3 liu2 ti2 er4 jue2 ju4     qi2 yi1
+title: 長灘驛次韻陸惇禮留題二絕句・其一
+titlePinyin: chang2 tan1 yi4 ci4 yun4 lu4 dun1 li3 liu2 ti2 er4 jue2 ju4・qi2 yi1
 titleSlug: chang-tan-yi-ci-yun-lu-dun-li-liu-ti-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhe-ju-san-shi-ye-wo-zhuo-zu
-title: 次韻謫居三適 夜臥濯足
-titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4   ye4 wo4 zhuo2 zu2
+title: 次韻謫居三適・夜臥濯足
+titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4・ye4 wo4 zhuo2 zu2
 titleSlug: ci-yun-zhe-ju-san-shi-ye-wo-zhuo-zu
 author: 李綱
 authorPinyin: li3 gang1

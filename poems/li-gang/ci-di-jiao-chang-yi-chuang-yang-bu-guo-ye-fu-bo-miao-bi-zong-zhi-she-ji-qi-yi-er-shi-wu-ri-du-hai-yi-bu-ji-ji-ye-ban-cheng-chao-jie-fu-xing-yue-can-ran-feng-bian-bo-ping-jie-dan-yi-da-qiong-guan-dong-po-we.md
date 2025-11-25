@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-di-jiao-chang-yi-chuang-yang-bu-guo-ye-fu-bo-miao-bi-zong-zhi-she-ji-qi-yi-er-shi-wu-ri-du-hai-yi-bu-ji-ji-ye-ban-cheng-chao-jie-fu-xing-yue-can-ran-feng-bian-bo-ping-jie-dan-yi-da-qiong-guan-dong-po-wei-si-you-qi-jue-guan-ping-sheng-fei-xu-yu-ye-zuo-er-shi-ji-zhi-qi-er
-title: 次地角場以瘡瘍不果謁伏波廟俾宗之攝祭期以二十五日渡海一卜即吉夜半乘潮解桴星月燦然風便波平詰旦已達瓊管東坡謂斯遊奇絕冠平生非虚語也作二詩紀之  其二
-titlePinyin: ci4 di4 jiao3 chang3 yi3 chuang1 yang2 bu4 guo3 ye4 fu2 bo1 miao4 bi3 zong1 zhi1 she4 ji4 qi1 yi3 er4 shi2 wu3 ri4 du4 hai3 yi4 bu3 ji2 ji2 ye4 ban4 cheng2 chao2 jie3 fu2 xing1 yue4 can4 ran2 feng1 bian4 bo1 ping2 jie2 dan4 yi3 da2 qiong2 guan3 dong1 po1 wei4 si1 you2 qi2 jue2 guan1 ping2 sheng1 fei1 xu1 yu3 ye3 zuo4 er4 shi1 ji4 zhi1     qi2 er4
+title: 次地角場以瘡瘍不果謁伏波廟俾宗之攝祭期以二十五日渡海一卜即吉夜半乘潮解桴星月燦然風便波平詰旦已達瓊管東坡謂斯遊奇絕冠平生非虚語也作二詩紀之・其二
+titlePinyin: ci4 di4 jiao3 chang3 yi3 chuang1 yang2 bu4 guo3 ye4 fu2 bo1 miao4 bi3 zong1 zhi1 she4 ji4 qi1 yi3 er4 shi2 wu3 ri4 du4 hai3 yi4 bu3 ji2 ji2 ye4 ban4 cheng2 chao2 jie3 fu2 xing1 yue4 can4 ran2 feng1 bian4 bo1 ping2 jie2 dan4 yi3 da2 qiong2 guan3 dong1 po1 wei4 si1 you2 qi2 jue2 guan1 ping2 sheng1 fei1 xu1 yu3 ye3 zuo4 er4 shi1 ji4 zhi1・qi2 er4
 titleSlug: ci-di-jiao-chang-yi-chuang-yang-bu-guo-ye-fu-bo-miao-bi-zong-zhi-she-ji-qi-yi-er-shi-wu-ri-du-hai-yi-bu-ji-ji-ye-ban-cheng-chao-jie-fu-xing-yue-can-ran-feng-bian-bo-ping-jie-dan-yi-da-qiong-guan-dong-po-wei-si-you-qi-jue-guan-ping-sheng-fei-xu-yu-ye-zuo-er-shi-ji-zhi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

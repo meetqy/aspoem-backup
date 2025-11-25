@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhi-hong-jian-shi-qi-er
-title: 次韻志宏見示  其二
-titlePinyin: ci4 yun4 zhi4 hong2 jian4 shi4     qi2 er4
+title: 次韻志宏見示・其二
+titlePinyin: ci4 yun4 zhi4 hong2 jian4 shi4・qi2 er4
 titleSlug: ci-yun-zhi-hong-jian-shi-qi-er
 author: 李綱
 authorPinyin: li3 gang1

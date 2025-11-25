@@ -1,7 +1,7 @@
 ---
 id: li-gang-dong-zhi-hou-si-ri-xiu-gong-luo-han-yan-yin-fang-dan-xia-ben-lao-cheng-si-jue-ju-qi-san
-title: 冬至後四日脩供羅漢巖因訪丹霞本老成四絕句  其三
-titlePinyin: dong1 zhi4 hou4 si4 ri4 xiu1 gong4 luo2 han4 yan2 yin1 fang3 dan1 xia2 ben3 lao3 cheng2 si4 jue2 ju4     qi2 san1
+title: 冬至後四日脩供羅漢巖因訪丹霞本老成四絕句・其三
+titlePinyin: dong1 zhi4 hou4 si4 ri4 xiu1 gong4 luo2 han4 yan2 yin1 fang3 dan1 xia2 ben3 lao3 cheng2 si4 jue2 ju4・qi2 san1
 titleSlug: dong-zhi-hou-si-ri-xiu-gong-luo-han-yan-yin-fang-dan-xia-ben-lao-cheng-si-jue-ju-qi-san
 author: 李綱
 authorPinyin: li3 gang1

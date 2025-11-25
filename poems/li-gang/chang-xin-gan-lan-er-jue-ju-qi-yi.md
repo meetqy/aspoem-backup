@@ -1,7 +1,7 @@
 ---
 id: li-gang-chang-xin-gan-lan-er-jue-ju-qi-yi
-title: 嘗新橄欖二絕句  其一
-titlePinyin: chang2 xin1 gan3 lan3 er4 jue2 ju4     qi2 yi1
+title: 嘗新橄欖二絕句・其一
+titlePinyin: chang2 xin1 gan3 lan3 er4 jue2 ju4・qi2 yi1
 titleSlug: chang-xin-gan-lan-er-jue-ju-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

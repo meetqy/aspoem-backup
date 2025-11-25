@@ -1,7 +1,7 @@
 ---
 id: li-gang-chun-shui-qi-er
-title: 春睡  其二
-titlePinyin: chun1 shui4     qi2 er4
+title: 春睡・其二
+titlePinyin: chun1 shui4・qi2 er4
 titleSlug: chun-shui-qi-er
 author: 李綱
 authorPinyin: li3 gang1

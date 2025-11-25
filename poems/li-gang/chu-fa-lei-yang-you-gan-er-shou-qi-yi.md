@@ -1,7 +1,7 @@
 ---
 id: li-gang-chu-fa-lei-yang-you-gan-er-shou-qi-yi
-title: 初發雷陽有感二首  其一
-titlePinyin: chu1 fa1 lei2 yang2 you3 gan3 er4 shou3     qi2 yi1
+title: 初發雷陽有感二首・其一
+titlePinyin: chu1 fa1 lei2 yang2 you3 gan3 er4 shou3・qi2 yi1
 titleSlug: chu-fa-lei-yang-you-gan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

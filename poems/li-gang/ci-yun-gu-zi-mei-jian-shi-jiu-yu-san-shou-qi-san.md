@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-gu-zi-mei-jian-shi-jiu-yu-san-shou-qi-san
-title: 次韻顧子美見示久雨三首  其三
-titlePinyin: ci4 yun4 gu4 zi3 mei3 jian4 shi4 jiu3 yu3 san1 shou3     qi2 san1
+title: 次韻顧子美見示久雨三首・其三
+titlePinyin: ci4 yun4 gu4 zi3 mei3 jian4 shi4 jiu3 yu3 san1 shou3・qi2 san1
 titleSlug: ci-yun-gu-zi-mei-jian-shi-jiu-yu-san-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

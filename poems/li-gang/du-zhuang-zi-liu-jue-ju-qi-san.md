@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-zhuang-zi-liu-jue-ju-qi-san
-title: 讀莊子六絕句  其三
-titlePinyin: du2 zhuang1 zi3 liu4 jue2 ju4     qi2 san1
+title: 讀莊子六絕句・其三
+titlePinyin: du2 zhuang1 zi3 liu4 jue2 ju4・qi2 san1
 titleSlug: du-zhuang-zi-liu-jue-ju-qi-san
 author: 李綱
 authorPinyin: li3 gang1

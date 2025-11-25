@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-ji-di-yun-fu-mei-hua-san-shou-qi-yi
-title: 次季弟韻賦梅花三首  其一
-titlePinyin: ci4 ji4 di4 yun4 fu4 mei2 hua1 san1 shou3     qi2 yi1
+title: 次季弟韻賦梅花三首・其一
+titlePinyin: ci4 ji4 di4 yun4 fu4 mei2 hua1 san1 shou3・qi2 yi1
 titleSlug: ci-ji-di-yun-fu-mei-hua-san-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-dong-po-he-yuan-ming-pin-shi-shi-ji-zhu-zi-zhi-yun-zhong-jiu-fu-er-zun-zu-xiao-ran-jin-yu-yi-you-ci-tan-yin-ci-qi-yun-jiang-lu-ji-liang-xi-zhu-di-yi-fa-shu-qian-li-yi-xiao-qi-wu
-title: 讀東坡和淵明貧士詩寄諸子姪云重九俯邇樽俎蕭然今余亦有此歎因次其韻將錄寄梁谿諸弟以發數千里一笑  其五
-titlePinyin: du2 dong1 po1 he2 yuan1 ming2 pin2 shi4 shi1 ji4 zhu1 zi3 zhi2 yun2 zhong4 jiu3 fu3 er3 zun1 zu3 xiao1 ran2 jin1 yu2 yi4 you3 ci3 tan4 yin1 ci4 qi2 yun4 jiang1 lu4 ji4 liang2 xi1 zhu1 di4 yi3 fa1 shu4 qian1 li3 yi2 xiao4     qi2 wu3
+title: 讀東坡和淵明貧士詩寄諸子姪云重九俯邇樽俎蕭然今余亦有此歎因次其韻將錄寄梁谿諸弟以發數千里一笑・其五
+titlePinyin: du2 dong1 po1 he2 yuan1 ming2 pin2 shi4 shi1 ji4 zhu1 zi3 zhi2 yun2 zhong4 jiu3 fu3 er3 zun1 zu3 xiao1 ran2 jin1 yu2 yi4 you3 ci3 tan4 yin1 ci4 qi2 yun4 jiang1 lu4 ji4 liang2 xi1 zhu1 di4 yi3 fa1 shu4 qian1 li3 yi2 xiao4・qi2 wu3
 titleSlug: du-dong-po-he-yuan-ming-pin-shi-shi-ji-zhu-zi-zhi-yun-zhong-jiu-fu-er-zun-zu-xiao-ran-jin-yu-yi-you-ci-tan-yin-ci-qi-yun-jiang-lu-ji-liang-xi-zhu-di-yi-fa-shu-qian-li-yi-xiao-qi-wu
 author: 李綱
 authorPinyin: li3 gang1

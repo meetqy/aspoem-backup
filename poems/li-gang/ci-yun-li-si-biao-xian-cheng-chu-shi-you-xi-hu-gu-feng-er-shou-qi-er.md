@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-li-si-biao-xian-cheng-chu-shi-you-xi-hu-gu-feng-er-shou-qi-er
-title: 次韻李似表縣丞出示遊西湖古風二首  其二
-titlePinyin: ci4 yun4 li3 si4 biao3 xian4 cheng2 chu1 shi4 you2 xi1 hu2 gu3 feng1 er4 shou3     qi2 er4
+title: 次韻李似表縣丞出示遊西湖古風二首・其二
+titlePinyin: ci4 yun4 li3 si4 biao3 xian4 cheng2 chu1 shi4 you2 xi1 hu2 gu3 feng1 er4 shou3・qi2 er4
 titleSlug: ci-yun-li-si-biao-xian-cheng-chu-shi-you-xi-hu-gu-feng-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

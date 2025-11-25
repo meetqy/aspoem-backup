@@ -1,7 +1,7 @@
 ---
 id: li-gang-chu-shi-li-zhi-si-jue-ju-qi-er
-title: 初食荔枝四絕句  其二
-titlePinyin: chu1 shi2 li4 zhi1 si4 jue2 ju4     qi2 er4
+title: 初食荔枝四絕句・其二
+titlePinyin: chu1 shi2 li4 zhi1 si4 jue2 ju4・qi2 er4
 titleSlug: chu-shi-li-zhi-si-jue-ju-qi-er
 author: 李綱
 authorPinyin: li3 gang1

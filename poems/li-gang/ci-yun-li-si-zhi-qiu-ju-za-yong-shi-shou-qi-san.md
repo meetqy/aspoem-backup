@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-li-si-zhi-qiu-ju-za-yong-shi-shou-qi-san
-title: 次韻李似之秋居雜詠十首  其三
-titlePinyin: ci4 yun4 li3 si4 zhi1 qiu1 ju1 za2 yong3 shi2 shou3     qi2 san1
+title: 次韻李似之秋居雜詠十首・其三
+titlePinyin: ci4 yun4 li3 si4 zhi1 qiu1 ju1 za2 yong3 shi2 shou3・qi2 san1
 titleSlug: ci-yun-li-si-zhi-qiu-ju-za-yong-shi-shou-qi-san
 author: 李綱
 authorPinyin: li3 gang1

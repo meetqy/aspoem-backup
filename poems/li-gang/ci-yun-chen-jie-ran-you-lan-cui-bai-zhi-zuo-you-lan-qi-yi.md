@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-chen-jie-ran-you-lan-cui-bai-zhi-zuo-you-lan-qi-yi
-title: 次韻陳介然幽蘭翠柏之作 幽蘭 其一
-titlePinyin: ci4 yun4 chen2 jie4 ran2 you1 lan2 cui4 bai3 zhi1 zuo4   you1 lan2   qi2 yi1
+title: 次韻陳介然幽蘭翠柏之作・幽蘭・其一
+titlePinyin: ci4 yun4 chen2 jie4 ran2 you1 lan2 cui4 bai3 zhi1 zuo4・you1 lan2・qi2 yi1
 titleSlug: ci-yun-chen-jie-ran-you-lan-cui-bai-zhi-zuo-you-lan-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

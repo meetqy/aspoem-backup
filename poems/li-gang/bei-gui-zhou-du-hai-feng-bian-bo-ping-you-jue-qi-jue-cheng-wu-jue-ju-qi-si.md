@@ -1,7 +1,7 @@
 ---
 id: li-gang-bei-gui-zhou-du-hai-feng-bian-bo-ping-you-jue-qi-jue-cheng-wu-jue-ju-qi-si
-title: 北歸晝渡海風便波平尤覺奇絕成五絕句  其四
-titlePinyin: bei3 gui1 zhou4 du4 hai3 feng1 bian4 bo1 ping2 you2 jue2 qi2 jue2 cheng2 wu3 jue2 ju4     qi2 si4
+title: 北歸晝渡海風便波平尤覺奇絕成五絕句・其四
+titlePinyin: bei3 gui1 zhou4 du4 hai3 feng1 bian4 bo1 ping2 you2 jue2 qi2 jue2 cheng2 wu3 jue2 ju4・qi2 si4
 titleSlug: bei-gui-zhou-du-hai-feng-bian-bo-ping-you-jue-qi-jue-cheng-wu-jue-ju-qi-si
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-deng-chun-yan-jia-lan-sheng-kai-jian-jie-yi-ben-qi-er
-title: 鄧純彦家蘭盛開見借一本  其二
-titlePinyin: deng4 chun2 yan4 jia1 lan2 sheng4 kai1 jian4 jie4 yi4 ben3     qi2 er4
+title: 鄧純彦家蘭盛開見借一本・其二
+titlePinyin: deng4 chun2 yan4 jia1 lan2 sheng4 kai1 jian4 jie4 yi4 ben3・qi2 er4
 titleSlug: deng-chun-yan-jia-lan-sheng-kai-jian-jie-yi-ben-qi-er
 author: 李綱
 authorPinyin: li3 gang1

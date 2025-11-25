@@ -1,7 +1,7 @@
 ---
 id: li-gang-dong-ri-deng-xiao-ge-you-gan-cheng-zi-mei-ti-ju-feng-yi-qi-yi
-title: 冬日登小閣有感呈子美提舉奉議  其一
-titlePinyin: dong1 ri4 deng1 xiao3 ge2 you3 gan3 cheng2 zi0 mei3 ti2 ju3 feng4 yi4     qi2 yi1
+title: 冬日登小閣有感呈子美提舉奉議・其一
+titlePinyin: dong1 ri4 deng1 xiao3 ge2 you3 gan3 cheng2 zi0 mei3 ti2 ju3 feng4 yi4・qi2 yi1
 titleSlug: dong-ri-deng-xiao-ge-you-gan-cheng-zi-mei-ti-ju-feng-yi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

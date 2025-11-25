@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-he-gui-qu-lai-ji-zi-shi-shou-qi-ba
-title: 次韻和歸去來集字十首  其八
-titlePinyin: ci4 yun4 he2 gui1 qu4 lai2 ji2 zi4 shi2 shou3     qi2 ba1
+title: 次韻和歸去來集字十首・其八
+titlePinyin: ci4 yun4 he2 gui1 qu4 lai2 ji2 zi4 shi2 shou3・qi2 ba1
 titleSlug: ci-yun-he-gui-qu-lai-ji-zi-shi-shou-qi-ba
 author: 李綱
 authorPinyin: li3 gang1

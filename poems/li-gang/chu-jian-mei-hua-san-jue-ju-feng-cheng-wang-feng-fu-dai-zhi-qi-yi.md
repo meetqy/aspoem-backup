@@ -1,7 +1,7 @@
 ---
 id: li-gang-chu-jian-mei-hua-san-jue-ju-feng-cheng-wang-feng-fu-dai-zhi-qi-yi
-title: 初見梅花三絕句奉呈王豐甫待制  其一
-titlePinyin: chu1 jian4 mei2 hua1 san1 jue2 ju4 feng4 cheng2 wang2 feng1 fu3 dai4 zhi4     qi2 yi1
+title: 初見梅花三絕句奉呈王豐甫待制・其一
+titlePinyin: chu1 jian4 mei2 hua1 san1 jue2 ju4 feng4 cheng2 wang2 feng1 fu3 dai4 zhi4・qi2 yi1
 titleSlug: chu-jian-mei-hua-san-jue-ju-feng-cheng-wang-feng-fu-dai-zhi-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-cheng-yue-fan-xiao-zhou-gui-bo-tou-er-shou-qi-yi
-title: 乘月泛小舟歸泊頭二首  其一
-titlePinyin: cheng2 yue4 fan4 xiao3 zhou1 gui1 bo2 tou2 er4 shou3     qi2 yi1
+title: 乘月泛小舟歸泊頭二首・其一
+titlePinyin: cheng2 yue4 fan4 xiao3 zhou1 gui1 bo2 tou2 er4 shou3・qi2 yi1
 titleSlug: cheng-yue-fan-xiao-zhou-gui-bo-tou-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

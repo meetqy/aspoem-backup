@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-si-jia-shi-xuan-si-shou-tui-zhi
-title: 讀四家詩選四首 退之
-titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3   tui4 zhi1
+title: 讀四家詩選四首・退之
+titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3・tui4 zhi1
 titleSlug: du-si-jia-shi-xuan-si-shou-tui-zhi
 author: 李綱
 authorPinyin: li3 gang1

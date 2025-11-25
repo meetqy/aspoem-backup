@@ -1,7 +1,7 @@
 ---
 id: li-gang-chu-dao-lin-ping-jian-shan-er-shou-qi-er
-title: 初到臨平見山二首  其二
-titlePinyin: chu1 dao4 lin2 ping2 jian4 shan1 er4 shou3     qi2 er4
+title: 初到臨平見山二首・其二
+titlePinyin: chu1 dao4 lin2 ping2 jian4 shan1 er4 shou3・qi2 er4
 titleSlug: chu-dao-lin-ping-jian-shan-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

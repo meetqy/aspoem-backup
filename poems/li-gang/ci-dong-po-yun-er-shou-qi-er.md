@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-dong-po-yun-er-shou-qi-er
-title: 次東坡韻二首  其二
-titlePinyin: ci4 dong1 po1 yun4 er4 shou3     qi2 er4
+title: 次東坡韻二首・其二
+titlePinyin: ci4 dong1 po1 yun4 er4 shou3・qi2 er4
 titleSlug: ci-dong-po-yun-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

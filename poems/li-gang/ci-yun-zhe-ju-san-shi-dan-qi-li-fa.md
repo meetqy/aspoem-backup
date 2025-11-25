@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhe-ju-san-shi-dan-qi-li-fa
-title: 次韻謫居三適 旦起理髪
-titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4   dan4 qi3 li3 fa4
+title: 次韻謫居三適・旦起理髪
+titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4・dan4 qi3 li3 fa4
 titleSlug: ci-yun-zhe-ju-san-shi-dan-qi-li-fa
 author: 李綱
 authorPinyin: li3 gang1

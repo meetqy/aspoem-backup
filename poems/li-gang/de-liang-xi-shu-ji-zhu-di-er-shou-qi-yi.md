@@ -1,7 +1,7 @@
 ---
 id: li-gang-de-liang-xi-shu-ji-zhu-di-er-shou-qi-yi
-title: 得梁谿書寄諸弟二首  其一
-titlePinyin: de2 liang2 xi1 shu1 ji4 zhu1 di4 er4 shou3     qi2 yi1
+title: 得梁谿書寄諸弟二首・其一
+titlePinyin: de2 liang2 xi1 shu1 ji4 zhu1 di4 er4 shou3・qi2 yi1
 titleSlug: de-liang-xi-shu-ji-zhu-di-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

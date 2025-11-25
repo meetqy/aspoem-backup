@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-ai-xuan-hua-si-shou-zhu-he
-title: 次韻艾宣畫四首 竹鶴
-titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3   zhu2 he4
+title: 次韻艾宣畫四首・竹鶴
+titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3・zhu2 he4
 titleSlug: ci-yun-ai-xuan-hua-si-shou-zhu-he
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-he-yuan-ming-yin-jiu-shi-er-shi-shou-qi-yi-san
-title: 次韻和淵明飲酒詩二十首  其一三
-titlePinyin: ci4 yun4 he2 yuan1 ming2 yin3 jiu3 shi1 er4 shi2 shou3     qi2 yi1 san1
+title: 次韻和淵明飲酒詩二十首・其一三
+titlePinyin: ci4 yun4 he2 yuan1 ming2 yin3 jiu3 shi1 er4 shi2 shou3・qi2 yi1 san1
 titleSlug: ci-yun-he-yuan-ming-yin-jiu-shi-er-shi-shou-qi-yi-san
 author: 李綱
 authorPinyin: li3 gang1

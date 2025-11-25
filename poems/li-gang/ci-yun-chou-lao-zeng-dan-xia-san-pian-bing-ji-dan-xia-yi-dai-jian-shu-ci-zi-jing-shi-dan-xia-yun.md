@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-chou-lao-zeng-dan-xia-san-pian-bing-ji-dan-xia-yi-dai-jian-shu-ci-zi-jing-shi-dan-xia-yun
-title: 次韻疇老贈丹霞三篇并寄丹霞以代簡書 次自警示丹霞韻
-titlePinyin: ci4 yun4 chou2 lao3 zeng4 dan1 xia2 san1 pian1 bing4 ji4 dan1 xia2 yi3 dai4 jian3 shu1   ci4 zi4 jing3 shi4 dan1 xia2 yun4
+title: 次韻疇老贈丹霞三篇并寄丹霞以代簡書・次自警示丹霞韻
+titlePinyin: ci4 yun4 chou2 lao3 zeng4 dan1 xia2 san1 pian1 bing4 ji4 dan1 xia2 yi3 dai4 jian3 shu1・ci4 zi4 jing3 shi4 dan1 xia2 yun4
 titleSlug: ci-yun-chou-lao-zeng-dan-xia-san-pian-bing-ji-dan-xia-yi-dai-jian-shu-ci-zi-jing-shi-dan-xia-yun
 author: 李綱
 authorPinyin: li3 gang1

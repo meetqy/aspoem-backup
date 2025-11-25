@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-ai-xuan-hua-si-shou-lian-gui
-title: 次韻艾宣畫四首 蓮龜
-titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3   lian2 gui1
+title: 次韻艾宣畫四首・蓮龜
+titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3・lian2 gui1
 titleSlug: ci-yun-ai-xuan-hua-si-shou-lian-gui
 author: 李綱
 authorPinyin: li3 gang1

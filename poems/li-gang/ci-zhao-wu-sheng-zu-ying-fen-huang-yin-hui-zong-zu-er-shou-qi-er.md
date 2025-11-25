@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-zhao-wu-sheng-zu-ying-fen-huang-yin-hui-zong-zu-er-shou-qi-er
-title: 次昭武省祖塋焚黄因會宗族二首  其二
-titlePinyin: ci4 zhao1 wu3 sheng3 zu3 ying2 fen2 huang2 yin1 hui4 zong1 zu2 er4 shou3     qi2 er4
+title: 次昭武省祖塋焚黄因會宗族二首・其二
+titlePinyin: ci4 zhao1 wu3 sheng3 zu3 ying2 fen2 huang2 yin1 hui4 zong1 zu2 er4 shou3・qi2 er4
 titleSlug: ci-zhao-wu-sheng-zu-ying-fen-huang-yin-hui-zong-zu-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

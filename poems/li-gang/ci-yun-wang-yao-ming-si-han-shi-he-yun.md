@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-wang-yao-ming-si-han-shi-he-yun
-title: 次韻王堯明四旱詩 河運
-titlePinyin: ci4 yun4 wang2 yao2 ming2 si4 han4 shi1   he2 yun4
+title: 次韻王堯明四旱詩・河運
+titlePinyin: ci4 yun4 wang2 yao2 ming2 si4 han4 shi1・he2 yun4
 titleSlug: ci-yun-wang-yao-ming-si-han-shi-he-yun
 author: 李綱
 authorPinyin: li3 gang1

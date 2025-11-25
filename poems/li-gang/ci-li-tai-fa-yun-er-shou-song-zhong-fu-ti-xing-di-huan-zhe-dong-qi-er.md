@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-li-tai-fa-yun-er-shou-song-zhong-fu-ti-xing-di-huan-zhe-dong-qi-er
-title: 次李泰發韻二首送仲輔提刑弟還浙東  其二
-titlePinyin: ci4 li3 tai4 fa1 yun4 er4 shou3 song4 zhong4 fu3 ti2 xing2 di4 huan2 zhe4 dong1     qi2 er4
+title: 次李泰發韻二首送仲輔提刑弟還浙東・其二
+titlePinyin: ci4 li3 tai4 fa1 yun4 er4 shou3 song4 zhong4 fu3 ti2 xing2 di4 huan2 zhe4 dong1・qi2 er4
 titleSlug: ci-li-tai-fa-yun-er-shou-song-zhong-fu-ti-xing-di-huan-zhe-dong-qi-er
 author: 李綱
 authorPinyin: li3 gang1

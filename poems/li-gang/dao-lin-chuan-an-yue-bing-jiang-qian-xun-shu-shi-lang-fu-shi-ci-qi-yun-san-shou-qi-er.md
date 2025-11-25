@@ -1,7 +1,7 @@
 ---
 id: li-gang-dao-lin-chuan-an-yue-bing-jiang-qian-xun-shu-shi-lang-fu-shi-ci-qi-yun-san-shou-qi-er
-title: 道臨川按閱兵将錢巽叔侍郎賦詩次其韻三首  其二
-titlePinyin: dao4 lin2 chuan1 an4 yue4 bing1 jiang1 qian2 xun4 shu1 shi4 lang2 fu4 shi1 ci4 qi2 yun4 san1 shou3     qi2 er4
+title: 道臨川按閱兵将錢巽叔侍郎賦詩次其韻三首・其二
+titlePinyin: dao4 lin2 chuan1 an4 yue4 bing1 jiang1 qian2 xun4 shu1 shi4 lang2 fu4 shi1 ci4 qi2 yun4 san1 shou3・qi2 er4
 titleSlug: dao-lin-chuan-an-yue-bing-jiang-qian-xun-shu-shi-lang-fu-shi-ci-qi-yun-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

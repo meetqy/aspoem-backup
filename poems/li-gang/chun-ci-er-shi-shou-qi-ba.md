@@ -1,7 +1,7 @@
 ---
 id: li-gang-chun-ci-er-shi-shou-qi-ba
-title: 春詞二十首  其八
-titlePinyin: chun1 ci2 er4 shi2 shou3     qi2 ba1
+title: 春詞二十首・其八
+titlePinyin: chun1 ci2 er4 shi2 shou3・qi2 ba1
 titleSlug: chun-ci-er-shi-shou-qi-ba
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhe-ju-san-shi-wu-chuang-zuo-shui
-title: 次韻謫居三適 午窗坐睡
-titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4   wu3 chuang1 zuo4 shui4
+title: 次韻謫居三適・午窗坐睡
+titlePinyin: ci4 yun4 zhe2 ju1 san1 shi4・wu3 chuang1 zuo4 shui4
 titleSlug: ci-yun-zhe-ju-san-shi-wu-chuang-zuo-shui
 author: 李綱
 authorPinyin: li3 gang1

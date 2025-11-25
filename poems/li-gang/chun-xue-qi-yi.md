@@ -1,7 +1,7 @@
 ---
 id: li-gang-chun-xue-qi-yi
-title: 春雪  其一
-titlePinyin: chun1 xue3     qi2 yi1
+title: 春雪・其一
+titlePinyin: chun1 xue3・qi2 yi1
 titleSlug: chun-xue-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

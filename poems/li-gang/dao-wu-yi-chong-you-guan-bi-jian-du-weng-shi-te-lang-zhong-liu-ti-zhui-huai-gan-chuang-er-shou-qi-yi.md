@@ -1,7 +1,7 @@
 ---
 id: li-gang-dao-wu-yi-chong-you-guan-bi-jian-du-weng-shi-te-lang-zhong-liu-ti-zhui-huai-gan-chuang-er-shou-qi-yi
-title: 道武夷沖祐觀壁間讀翁士特郎中留題追懷感愴二首  其一
-titlePinyin: dao4 wu3 yi2 chong1 you4 guan1 bi4 jian4 du2 weng1 shi4 te4 lang2 zhong1 liu2 ti2 zhui1 huai2 gan3 chuang4 er4 shou3     qi2 yi1
+title: 道武夷沖祐觀壁間讀翁士特郎中留題追懷感愴二首・其一
+titlePinyin: dao4 wu3 yi2 chong1 you4 guan1 bi4 jian4 du2 weng1 shi4 te4 lang2 zhong1 liu2 ti2 zhui1 huai2 gan3 chuang4 er4 shou3・qi2 yi1
 titleSlug: dao-wu-yi-chong-you-guan-bi-jian-du-weng-shi-te-lang-zhong-liu-ti-zhui-huai-gan-chuang-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

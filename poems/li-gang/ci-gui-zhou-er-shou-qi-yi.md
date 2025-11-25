@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-gui-zhou-er-shou-qi-yi
-title: 次貴州二首  其一
-titlePinyin: ci4 gui4 zhou1 er4 shou3     qi2 yi1
+title: 次貴州二首・其一
+titlePinyin: ci4 gui4 zhou1 er4 shou3・qi2 yi1
 titleSlug: ci-gui-zhou-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

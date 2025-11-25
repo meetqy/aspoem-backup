@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-li-xi-mei-she-ren-jian-ji-er-shou-qi-er
-title: 次韻李西美舍人見寄二首  其二
-titlePinyin: ci4 yun4 li3 xi1 mei3 she4 ren2 jian4 ji4 er4 shou3     qi2 er4
+title: 次韻李西美舍人見寄二首・其二
+titlePinyin: ci4 yun4 li3 xi1 mei3 she4 ren2 jian4 ji4 er4 shou3・qi2 er4
 titleSlug: ci-yun-li-xi-mei-she-ren-jian-ji-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

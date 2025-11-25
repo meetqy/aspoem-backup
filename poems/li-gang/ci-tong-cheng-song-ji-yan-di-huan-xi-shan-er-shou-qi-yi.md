@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-tong-cheng-song-ji-yan-di-huan-xi-shan-er-shou-qi-yi
-title: 次通城送季言弟還錫山二首  其一
-titlePinyin: ci4 tong1 cheng2 song4 ji4 yan2 di4 huan2 xi1 shan1 er4 shou3     qi2 yi1
+title: 次通城送季言弟還錫山二首・其一
+titlePinyin: ci4 tong1 cheng2 song4 ji4 yan2 di4 huan2 xi1 shan1 er4 shou3・qi2 yi1
 titleSlug: ci-tong-cheng-song-ji-yan-di-huan-xi-shan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

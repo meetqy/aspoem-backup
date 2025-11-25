@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhi-hong-qiu-xiao-jian-shi-gu-feng-er-shou-qi-yi
-title: 次韻志宏秋曉見示古風二首  其一
-titlePinyin: ci4 yun4 zhi4 hong2 qiu1 xiao3 jian4 shi4 gu3 feng1 er4 shou3     qi2 yi1
+title: 次韻志宏秋曉見示古風二首・其一
+titlePinyin: ci4 yun4 zhi4 hong2 qiu1 xiao3 jian4 shi4 gu3 feng1 er4 shou3・qi2 yi1
 titleSlug: ci-yun-zhi-hong-qiu-xiao-jian-shi-gu-feng-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

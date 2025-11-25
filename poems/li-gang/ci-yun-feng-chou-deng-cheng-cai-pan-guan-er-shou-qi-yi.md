@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-feng-chou-deng-cheng-cai-pan-guan-er-shou-qi-yi
-title: 次韻奉酬鄧成材判官二首  其一
-titlePinyin: ci4 yun4 feng4 chou2 deng4 cheng2 cai2 pan4 guan1 er4 shou3     qi2 yi1
+title: 次韻奉酬鄧成材判官二首・其一
+titlePinyin: ci4 yun4 feng4 chou2 deng4 cheng2 cai2 pan4 guan1 er4 shou3・qi2 yi1
 titleSlug: ci-yun-feng-chou-deng-cheng-cai-pan-guan-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

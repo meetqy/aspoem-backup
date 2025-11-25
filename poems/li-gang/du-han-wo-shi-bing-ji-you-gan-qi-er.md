@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-han-wo-shi-bing-ji-you-gan-qi-er
-title: 讀韓偓詩并記有感  其二
-titlePinyin: du2 han2 wo4 shi1 bing4 ji4 you3 gan3     qi2 er4
+title: 讀韓偓詩并記有感・其二
+titlePinyin: du2 han2 wo4 shi1 bing4 ji4 you3 gan3・qi2 er4
 titleSlug: du-han-wo-shi-bing-ji-you-gan-qi-er
 author: 李綱
 authorPinyin: li3 gang1

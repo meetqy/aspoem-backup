@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-ai-xuan-hua-si-shou-huang-jing-lu
-title: 次韻艾宣畫四首 黄精鹿
-titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3   huang2 jing1 lu4
+title: 次韻艾宣畫四首・黄精鹿
+titlePinyin: ci4 yun4 ai4 xuan1 hua4 si4 shou3・huang2 jing1 lu4
 titleSlug: ci-yun-ai-xuan-hua-si-shou-huang-jing-lu
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-deng-hua-qi-er
-title: 燈花  其二
-titlePinyin: deng1 hua1     qi2 er4
+title: 燈花・其二
+titlePinyin: deng1 hua1・qi2 er4
 titleSlug: deng-hua-qi-er
 author: 李綱
 authorPinyin: li3 gang1

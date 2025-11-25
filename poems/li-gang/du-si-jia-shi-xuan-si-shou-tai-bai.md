@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-si-jia-shi-xuan-si-shou-tai-bai
-title: 讀四家詩選四首 太白
-titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3   tai4 bai2
+title: 讀四家詩選四首・太白
+titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3・tai4 bai2
 titleSlug: du-si-jia-shi-xuan-si-shou-tai-bai
 author: 李綱
 authorPinyin: li3 gang1

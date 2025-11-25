@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-mian-bu-yun-meng-en-qian-zhong-shi-jiang-ci-qu-xing-bu-huo-yi-shou-ming-er-shou-qi-er
-title: 辭免不允蒙恩遣中使降賜趣行不獲已受命二首  其二
-titlePinyin: ci2 mian3 bu4 yun3 meng2 en1 qian3 zhong1 shi3 jiang4 ci4 qu4 xing2 bu2 huo4 yi3 shou4 ming4 er4 shou3     qi2 er4
+title: 辭免不允蒙恩遣中使降賜趣行不獲已受命二首・其二
+titlePinyin: ci2 mian3 bu4 yun3 meng2 en1 qian3 zhong1 shi3 jiang4 ci4 qu4 xing2 bu2 huo4 yi3 shou4 ming4 er4 shou3・qi2 er4
 titleSlug: ci-mian-bu-yun-meng-en-qian-zhong-shi-jiang-ci-qu-xing-bu-huo-yi-shou-ming-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

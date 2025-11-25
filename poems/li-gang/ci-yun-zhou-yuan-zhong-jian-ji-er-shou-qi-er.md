@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-zhou-yuan-zhong-jian-ji-er-shou-qi-er
-title: 次韻周元仲見寄二首  其二
-titlePinyin: ci4 yun4 zhou1 yuan2 zhong4 jian4 ji4 er4 shou3     qi2 er4
+title: 次韻周元仲見寄二首・其二
+titlePinyin: ci4 yun4 zhou1 yuan2 zhong4 jian4 ji4 er4 shou3・qi2 er4
 titleSlug: ci-yun-zhou-yuan-zhong-jian-ji-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

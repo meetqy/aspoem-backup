@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-heng-zhou-er-shou-qi-yi
-title: 次衡州二首  其一
-titlePinyin: ci4 heng2 zhou1 er4 shou3     qi2 yi1
+title: 次衡州二首・其一
+titlePinyin: ci4 heng2 zhou1 er4 shou3・qi2 yi1
 titleSlug: ci-heng-zhou-er-shou-qi-yi
 author: 李綱
 authorPinyin: li3 gang1

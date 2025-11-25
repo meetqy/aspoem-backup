@@ -1,7 +1,7 @@
 ---
 id: li-gang-du-si-jia-shi-xuan-si-shou-zi-mei
-title: 讀四家詩選四首 子美
-titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3   zi3 mei3
+title: 讀四家詩選四首・子美
+titlePinyin: du2 si4 jia1 shi1 xuan3 si4 shou3・zi3 mei3
 titleSlug: du-si-jia-shi-xuan-si-shou-zi-mei
 author: 李綱
 authorPinyin: li3 gang1

@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-he-yuan-ming-xing-ying-shen-san-shou-shen-shi
-title: 次韻和淵明形影神三首 神釋
-titlePinyin: ci4 yun4 he2 yuan1 ming2 xing2 ying3 shen2 san1 shou3   shen2 shi4
+title: 次韻和淵明形影神三首・神釋
+titlePinyin: ci4 yun4 he2 yuan1 ming2 xing2 ying3 shen2 san1 shou3・shen2 shi4
 titleSlug: ci-yun-he-yuan-ming-xing-ying-shen-san-shou-shen-shi
 author: 李綱
 authorPinyin: li3 gang1

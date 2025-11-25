@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-mao-zai-hai-ling-yu-ju-you-gan-san-shou-qi-er
-title: 次韻茂載海陵寓居有感三首  其二
-titlePinyin: ci4 yun4 mao4 zai4 hai3 ling2 yu4 ju1 you3 gan3 san1 shou3     qi2 er4
+title: 次韻茂載海陵寓居有感三首・其二
+titlePinyin: ci4 yun4 mao4 zai4 hai3 ling2 yu4 ju1 you3 gan3 san1 shou3・qi2 er4
 titleSlug: ci-yun-mao-zai-hai-ling-yu-ju-you-gan-san-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

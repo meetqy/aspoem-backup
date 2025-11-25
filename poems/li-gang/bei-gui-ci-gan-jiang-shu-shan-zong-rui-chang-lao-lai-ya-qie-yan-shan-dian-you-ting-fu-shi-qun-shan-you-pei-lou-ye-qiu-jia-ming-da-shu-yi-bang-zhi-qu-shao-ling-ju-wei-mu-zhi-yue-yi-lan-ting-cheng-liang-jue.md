@@ -1,7 +1,7 @@
 ---
 id: li-gang-bei-gui-ci-gan-jiang-shu-shan-zong-rui-chang-lao-lai-ya-qie-yan-shan-dian-you-ting-fu-shi-qun-shan-you-pei-lou-ye-qiu-jia-ming-da-shu-yi-bang-zhi-qu-shao-ling-ju-wei-mu-zhi-yue-yi-lan-ting-cheng-liang-jue-ju-qi-er
-title: 北歸次盰江疏山宗瑞長老來迓且言山巔有亭俯視羣山猶培塿也求佳名大書以榜之取少陵句爲目之曰一覽亭成兩絕句  其二
-titlePinyin: bei3 gui1 ci4 gan4 jiang1 shu1 shan1 zong1 rui4 chang2 lao3 lai2 ya4 qie3 yan2 shan1 dian1 you3 ting2 fu3 shi4 qun2 shan1 you2 pei2 lou3 ye3 qiu2 jia1 ming2 da4 shu1 yi3 bang3 zhi1 qu3 shao3 ling2 ju4 wei2 mu4 zhi1 yue1 yi4 lan3 ting2 cheng2 liang3 jue2 ju4     qi2 er4
+title: 北歸次盰江疏山宗瑞長老來迓且言山巔有亭俯視羣山猶培塿也求佳名大書以榜之取少陵句爲目之曰一覽亭成兩絕句・其二
+titlePinyin: bei3 gui1 ci4 gan4 jiang1 shu1 shan1 zong1 rui4 chang2 lao3 lai2 ya4 qie3 yan2 shan1 dian1 you3 ting2 fu3 shi4 qun2 shan1 you2 pei2 lou3 ye3 qiu2 jia1 ming2 da4 shu1 yi3 bang3 zhi1 qu3 shao3 ling2 ju4 wei2 mu4 zhi1 yue1 yi4 lan3 ting2 cheng2 liang3 jue2 ju4・qi2 er4
 titleSlug: bei-gui-ci-gan-jiang-shu-shan-zong-rui-chang-lao-lai-ya-qie-yan-shan-dian-you-ting-fu-shi-qun-shan-you-pei-lou-ye-qiu-jia-ming-da-shu-yi-bang-zhi-qu-shao-ling-ju-wei-mu-zhi-yue-yi-lan-ting-cheng-liang-jue-ju-qi-er
 author: 李綱
 authorPinyin: li3 gang1

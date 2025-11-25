@@ -1,7 +1,7 @@
 ---
 id: li-gang-can-la-xue-zai-zuo-er-shou-qi-er
-title: 殘臘雪再作二首  其二
-titlePinyin: can2 la4 xue3 zai4 zuo4 er4 shou3     qi2 er4
+title: 殘臘雪再作二首・其二
+titlePinyin: can2 la4 xue3 zai4 zuo4 er4 shou3・qi2 er4
 titleSlug: can-la-xue-zai-zuo-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

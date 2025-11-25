@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-shu-yi-si-jue-ju-qi-si
-title: 次韻叔易四絕句  其四
-titlePinyin: ci4 yun4 shu1 yi4 si4 jue2 ju4     qi2 si4
+title: 次韻叔易四絕句・其四
+titlePinyin: ci4 yun4 shu1 yi4 si4 jue2 ju4・qi2 si4
 titleSlug: ci-yun-shu-yi-si-jue-ju-qi-si
 author: 李綱
 authorPinyin: li3 gang1

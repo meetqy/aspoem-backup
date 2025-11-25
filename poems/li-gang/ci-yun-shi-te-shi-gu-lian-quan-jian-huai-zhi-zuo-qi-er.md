@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-shi-te-shi-gu-lian-quan-jian-huai-zhi-zuo-qi-er
-title: 次韻士特試谷簾泉見懷之作  其二
-titlePinyin: ci4 yun4 shi4 te4 shi4 gu3 lian2 quan2 jian4 huai2 zhi1 zuo4     qi2 er4
+title: 次韻士特試谷簾泉見懷之作・其二
+titlePinyin: ci4 yun4 shi4 te4 shi4 gu3 lian2 quan2 jian4 huai2 zhi1 zuo4・qi2 er4
 titleSlug: ci-yun-shi-te-shi-gu-lian-quan-jian-huai-zhi-zuo-qi-er
 author: 李綱
 authorPinyin: li3 gang1

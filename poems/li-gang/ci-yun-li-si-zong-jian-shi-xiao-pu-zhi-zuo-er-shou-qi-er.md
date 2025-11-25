@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-li-si-zong-jian-shi-xiao-pu-zhi-zuo-er-shou-qi-er
-title: 次韻李似宗見示小圃之作二首  其二
-titlePinyin: ci4 yun4 li3 si4 zong1 jian4 shi4 xiao3 pu3 zhi1 zuo4 er4 shou3     qi2 er4
+title: 次韻李似宗見示小圃之作二首・其二
+titlePinyin: ci4 yun4 li3 si4 zong1 jian4 shi4 xiao3 pu3 zhi1 zuo4 er4 shou3・qi2 er4
 titleSlug: ci-yun-li-si-zong-jian-shi-xiao-pu-zhi-zuo-er-shou-qi-er
 author: 李綱
 authorPinyin: li3 gang1

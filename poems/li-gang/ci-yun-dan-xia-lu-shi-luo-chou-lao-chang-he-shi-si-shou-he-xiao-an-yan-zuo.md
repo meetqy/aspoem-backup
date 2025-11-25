@@ -1,7 +1,7 @@
 ---
 id: li-gang-ci-yun-dan-xia-lu-shi-luo-chou-lao-chang-he-shi-si-shou-he-xiao-an-yan-zuo
-title: 次韻丹霞錄示羅疇老唱和詩四首 和小菴晏坐
-titlePinyin: ci4 yun4 dan1 xia2 lu4 shi4 luo2 chou2 lao3 chang4 he4 shi1 si4 shou3   he2 xiao3 an1 yan4 zuo4
+title: 次韻丹霞錄示羅疇老唱和詩四首・和小菴晏坐
+titlePinyin: ci4 yun4 dan1 xia2 lu4 shi4 luo2 chou2 lao3 chang4 he4 shi1 si4 shou3・he2 xiao3 an1 yan4 zuo4
 titleSlug: ci-yun-dan-xia-lu-shi-luo-chou-lao-chang-he-shi-si-shou-he-xiao-an-yan-zuo
 author: 李綱
 authorPinyin: li3 gang1
