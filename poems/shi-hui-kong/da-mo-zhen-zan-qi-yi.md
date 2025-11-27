@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-da-mo-zhen-zan-qi-yi
-title: 達磨真贊  其一
-titlePinyin: da2 mo2 zhen1 zan4     qi2 yi1
+title: 達磨真贊・其一
+titlePinyin: da2 mo2 zhen1 zan4・qi2 yi1
 titleSlug: da-mo-zhen-zan-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

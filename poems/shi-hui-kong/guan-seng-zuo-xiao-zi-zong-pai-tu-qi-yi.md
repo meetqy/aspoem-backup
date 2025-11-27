@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-guan-seng-zuo-xiao-zi-zong-pai-tu-qi-yi
-title: 觀僧作小字宗派圖  其一
-titlePinyin: guan1 seng1 zuo4 xiao3 zi4 zong1 pai4 tu2     qi2 yi1
+title: 觀僧作小字宗派圖・其一
+titlePinyin: guan1 seng1 zuo4 xiao3 zi4 zong1 pai4 tu2・qi2 yi1
 titleSlug: guan-seng-zuo-xiao-zi-zong-pai-tu-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

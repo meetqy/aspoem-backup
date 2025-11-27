@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-huai-you-qi-yi
-title: 懷友  其一
-titlePinyin: huai2 you3     qi2 yi1
+title: 懷友・其一
+titlePinyin: huai2 you3・qi2 yi1
 titleSlug: huai-you-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

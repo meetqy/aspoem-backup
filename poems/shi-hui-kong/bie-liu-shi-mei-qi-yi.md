@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-bie-liu-shi-mei-qi-yi
-title: 別劉師美  其一
-titlePinyin: bie2 liu2 shi1 mei3     qi2 yi1
+title: 別劉師美・其一
+titlePinyin: bie2 liu2 shi1 mei3・qi2 yi1
 titleSlug: bie-liu-shi-mei-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

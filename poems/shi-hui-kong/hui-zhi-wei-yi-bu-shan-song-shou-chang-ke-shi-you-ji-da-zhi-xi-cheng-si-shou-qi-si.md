@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-hui-zhi-wei-yi-bu-shan-song-shou-chang-ke-shi-you-ji-da-zhi-xi-cheng-si-shou-qi-si
-title: 慧知微以布衫送壽昌可師有偈答之戲成四首  其四
-titlePinyin: hui4 zhi1 wei1 yi3 bu4 shan1 song4 shou4 chang1 ke3 shi1 you3 ji4 da2 zhi1 xi4 cheng2 si4 shou3     qi2 si4
+title: 慧知微以布衫送壽昌可師有偈答之戲成四首・其四
+titlePinyin: hui4 zhi1 wei1 yi3 bu4 shan1 song4 shou4 chang1 ke3 shi1 you3 ji4 da2 zhi1 xi4 cheng2 si4 shou3・qi2 si4
 titleSlug: hui-zhi-wei-yi-bu-shan-song-shou-chang-ke-shi-you-ji-da-zhi-xi-cheng-si-shou-qi-si
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

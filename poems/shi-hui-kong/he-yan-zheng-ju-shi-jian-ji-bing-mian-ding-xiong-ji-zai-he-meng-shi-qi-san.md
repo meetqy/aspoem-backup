@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-yan-zheng-ju-shi-jian-ji-bing-mian-ding-xiong-ji-zai-he-meng-shi-qi-san
-title: 和彥正居士見寄並勉定兄及再和夢石  其三
-titlePinyin: he2 yan4 zheng4 ju1 shi4 jian4 ji4 bing4 mian3 ding4 xiong1 ji2 zai4 he2 meng4 shi2     qi2 san1
+title: 和彥正居士見寄並勉定兄及再和夢石・其三
+titlePinyin: he2 yan4 zheng4 ju1 shi4 jian4 ji4 bing4 mian3 ding4 xiong1 ji2 zai4 he2 meng4 shi2・qi2 san1
 titleSlug: he-yan-zheng-ju-shi-jian-ji-bing-mian-ding-xiong-ji-zai-he-meng-shi-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

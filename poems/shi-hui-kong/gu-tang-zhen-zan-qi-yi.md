@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-gu-tang-zhen-zan-qi-yi
-title: 谷堂真贊  其一
-titlePinyin: gu3 tang2 zhen1 zan4     qi2 yi1
+title: 谷堂真贊・其一
+titlePinyin: gu3 tang2 zhen1 zan4・qi2 yi1
 titleSlug: gu-tang-zhen-zan-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

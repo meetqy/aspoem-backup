@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-ling-kong-jian-zeng-qi-er
-title: 和靈空見贈  其二
-titlePinyin: he2 ling2 kong1 jian4 zeng4     qi2 er4
+title: 和靈空見贈・其二
+titlePinyin: he2 ling2 kong1 jian4 zeng4・qi2 er4
 titleSlug: he-ling-kong-jian-zeng-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

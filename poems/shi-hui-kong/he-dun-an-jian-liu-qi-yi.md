@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-dun-an-jian-liu-qi-yi
-title: 和鈍庵見留  其一
-titlePinyin: he2 dun4 an1 jian4 liu2     qi2 yi1
+title: 和鈍庵見留・其一
+titlePinyin: he2 dun4 an1 jian4 liu2・qi2 yi1
 titleSlug: he-dun-an-jian-liu-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

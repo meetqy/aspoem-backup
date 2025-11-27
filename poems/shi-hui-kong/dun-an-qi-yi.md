@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-dun-an-qi-yi
-title: 頓庵  其一
-titlePinyin: dun4 an1     qi2 yi1
+title: 頓庵・其一
+titlePinyin: dun4 an1・qi2 yi1
 titleSlug: dun-an-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

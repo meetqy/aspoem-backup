@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-zhi-zhi-chun-ri-wei-zhong-qi-yi
-title: 和直指春日未衆  其一
-titlePinyin: he2 zhi2 zhi3 chun1 ri4 wei4 zhong4     qi2 yi1
+title: 和直指春日未衆・其一
+titlePinyin: he2 zhi2 zhi3 chun1 ri4 wei4 zhong4・qi2 yi1
 titleSlug: he-zhi-zhi-chun-ri-wei-zhong-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

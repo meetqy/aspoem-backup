@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-xiu-feng-qi-er
-title: 和秀峰  其二
-titlePinyin: he2 xiu4 feng1     qi2 er4
+title: 和秀峰・其二
+titlePinyin: he2 xiu4 feng1・qi2 er4
 titleSlug: he-xiu-feng-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

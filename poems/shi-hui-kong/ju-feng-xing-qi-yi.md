@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-ju-feng-xing-qi-yi
-title: 巨風行  其一
-titlePinyin: ju4 feng1 xing2     qi2 yi1
+title: 巨風行・其一
+titlePinyin: ju4 feng1 xing2・qi2 yi1
 titleSlug: ju-feng-xing-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

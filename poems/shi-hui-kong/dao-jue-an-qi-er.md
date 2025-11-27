@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-dao-jue-an-qi-er
-title: 悼覺庵  其二
-titlePinyin: dao4 jue2 an1     qi2 er4
+title: 悼覺庵・其二
+titlePinyin: dao4 jue2 an1・qi2 er4
 titleSlug: dao-jue-an-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

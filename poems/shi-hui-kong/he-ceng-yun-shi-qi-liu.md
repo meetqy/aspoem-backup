@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-ceng-yun-shi-qi-liu
-title: 和曾運使  其六
-titlePinyin: he2 ceng2 yun4 shi3     qi2 liu4
+title: 和曾運使・其六
+titlePinyin: he2 ceng2 yun4 shi3・qi2 liu4
 titleSlug: he-ceng-yun-shi-qi-liu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

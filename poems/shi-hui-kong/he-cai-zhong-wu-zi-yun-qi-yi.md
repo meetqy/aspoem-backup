@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-cai-zhong-wu-zi-yun-qi-yi
-title: 和才仲五字韻  其一
-titlePinyin: he2 cai2 zhong4 wu3 zi4 yun4     qi2 yi1
+title: 和才仲五字韻・其一
+titlePinyin: he2 cai2 zhong4 wu3 zi4 yun4・qi2 yi1
 titleSlug: he-cai-zhong-wu-zi-yun-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-ci-zhi-zhi-lao-ren-yun-song-fan-hua-shi-jian-cheng-qiu-zhong-da-qi-yi
-title: 次直指老人韻送璠化士兼呈丘中大  其一
-titlePinyin: ci4 zhi2 zhi3 lao3 ren2 yun4 song4 fan2 hua4 shi4 jian1 cheng2 qiu1 zhong1 da4     qi2 yi1
+title: 次直指老人韻送璠化士兼呈丘中大・其一
+titlePinyin: ci4 zhi2 zhi3 lao3 ren2 yun4 song4 fan2 hua4 shi4 jian1 cheng2 qiu1 zhong1 da4・qi2 yi1
 titleSlug: ci-zhi-zhi-lao-ren-yun-song-fan-hua-shi-jian-cheng-qiu-zhong-da-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-yan-chen-she-di-yu-bao-shou-ling-kong-lao-er-shou-qi-yi
-title: 和彥忱舍弟與保壽靈空老二首  其一
-titlePinyin: he2 yan4 chen2 she4 di4 yu3 bao3 shou4 ling2 kong1 lao3 er4 shou3     qi2 yi1
+title: 和彥忱舍弟與保壽靈空老二首・其一
+titlePinyin: he2 yan4 chen2 she4 di4 yu3 bao3 shou4 ling2 kong1 lao3 er4 shou3・qi2 yi1
 titleSlug: he-yan-chen-she-di-yu-bao-shou-ling-kong-lao-er-shou-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

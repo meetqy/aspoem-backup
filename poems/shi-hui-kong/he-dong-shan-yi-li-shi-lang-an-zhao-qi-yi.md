@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-dong-shan-yi-li-shi-lang-an-zhao-qi-yi
-title: 和東禪以李侍郎庵招  其一
-titlePinyin: he2 dong1 shan4 yi3 li3 shi4 lang2 an1 zhao1     qi2 yi1
+title: 和東禪以李侍郎庵招・其一
+titlePinyin: he2 dong1 shan4 yi3 li3 shi4 lang2 an1 zhao1・qi2 yi1
 titleSlug: he-dong-shan-yi-li-shi-lang-an-zhao-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

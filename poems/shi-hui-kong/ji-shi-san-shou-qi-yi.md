@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-ji-shi-san-shou-qi-yi
-title: 偈十三首  其一○
-titlePinyin: ji4 shi2 san1 shou3     qi2 yi1 ○
+title: 偈十三首・其一○
+titlePinyin: ji4 shi2 san1 shou3・qi2 yi1 ○
 titleSlug: ji-shi-san-shou-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

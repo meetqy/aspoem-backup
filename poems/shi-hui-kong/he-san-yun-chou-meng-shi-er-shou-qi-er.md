@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-san-yun-chou-meng-shi-er-shou-qi-er
-title: 合三韻酬夢石二首  其二
-titlePinyin: he2 san1 yun4 chou2 meng4 shi2 er4 shou3     qi2 er4
+title: 合三韻酬夢石二首・其二
+titlePinyin: he2 san1 yun4 chou2 meng4 shi2 er4 shou3・qi2 er4
 titleSlug: he-san-yun-chou-meng-shi-er-shou-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

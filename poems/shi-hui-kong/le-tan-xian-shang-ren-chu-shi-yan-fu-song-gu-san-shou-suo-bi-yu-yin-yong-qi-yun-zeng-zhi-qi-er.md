@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-le-tan-xian-shang-ren-chu-shi-yan-fu-song-gu-san-shou-suo-bi-yu-yin-yong-qi-yun-zeng-zhi-qi-er
-title: 泐潭暹上人出示延福頌古三首索鄙語因用其韻贈之  其二
-titlePinyin: le4 tan2 xian1 shang4 ren2 chu1 shi4 yan2 fu2 song4 gu3 san1 shou3 suo3 bi3 yu3 yin1 yong4 qi2 yun4 zeng4 zhi1     qi2 er4
+title: 泐潭暹上人出示延福頌古三首索鄙語因用其韻贈之・其二
+titlePinyin: le4 tan2 xian1 shang4 ren2 chu1 shi4 yan2 fu2 song4 gu3 san1 shou3 suo3 bi3 yu3 yin1 yong4 qi2 yun4 zeng4 zhi1・qi2 er4
 titleSlug: le-tan-xian-shang-ren-chu-shi-yan-fu-song-gu-san-shou-suo-bi-yu-yin-yong-qi-yun-zeng-zhi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

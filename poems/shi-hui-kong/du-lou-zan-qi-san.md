@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-du-lou-zan-qi-san
-title: 髑髏贊  其三
-titlePinyin: du2 lou2 zan4     qi2 san1
+title: 髑髏贊・其三
+titlePinyin: du2 lou2 zan4・qi2 san1
 titleSlug: du-lou-zan-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

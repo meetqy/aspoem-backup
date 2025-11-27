@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-wu-zai-dao-hui-shu-ji-qi-san
-title: 和無在悼惠書記  其三
-titlePinyin: he2 wu2 zai4 dao4 hui4 shu1 ji4     qi2 san1
+title: 和無在悼惠書記・其三
+titlePinyin: he2 wu2 zai4 dao4 hui4 shu1 ji4・qi2 san1
 titleSlug: he-wu-zai-dao-hui-shu-ji-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

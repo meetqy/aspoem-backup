@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-guo-ling-shi-fu-wan-an-qi-er
-title: 過靈石賦頑庵  其二
-titlePinyin: guo4 ling2 shi2 fu4 wan2 an1     qi2 er4
+title: 過靈石賦頑庵・其二
+titlePinyin: guo4 ling2 shi2 fu4 wan2 an1・qi2 er4
 titleSlug: guo-ling-shi-fu-wan-an-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

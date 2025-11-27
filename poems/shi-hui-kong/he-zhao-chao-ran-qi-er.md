@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-zhao-chao-ran-qi-er
-title: 和趙超然  其二
-titlePinyin: he2 zhao4 chao1 ran2     qi2 er4
+title: 和趙超然・其二
+titlePinyin: he2 zhao4 chao1 ran2・qi2 er4
 titleSlug: he-zhao-chao-ran-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

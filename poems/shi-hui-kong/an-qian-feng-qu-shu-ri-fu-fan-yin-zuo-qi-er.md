@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-an-qian-feng-qu-shu-ri-fu-fan-yin-zuo-qi-er
-title: 庵前蜂去數日復返因作  其二
-titlePinyin: an1 qian2 feng1 qu4 shu4 ri4 fu4 fan3 yin1 zuo4     qi2 er4
+title: 庵前蜂去數日復返因作・其二
+titlePinyin: an1 qian2 feng1 qu4 shu4 ri4 fu4 fan3 yin1 zuo4・qi2 er4
 titleSlug: an-qian-feng-qu-shu-ri-fu-fan-yin-zuo-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

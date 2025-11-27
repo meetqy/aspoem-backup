@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-ci-jue-chui-zi-yun-bing-song-lan-hui-qi-er
-title: 和慈覺炊字韻幷送蘭蕙  其二
-titlePinyin: he2 ci2 jue2 chui1 zi4 yun4 bing4 song4 lan2 hui4     qi2 er4
+title: 和慈覺炊字韻幷送蘭蕙・其二
+titlePinyin: he2 ci2 jue2 chui1 zi4 yun4 bing4 song4 lan2 hui4・qi2 er4
 titleSlug: he-ci-jue-chui-zi-yun-bing-song-lan-hui-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

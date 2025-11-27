@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-guan-yin-zhen-zan-qi-yi
-title: 觀音真贊  其一
-titlePinyin: guan1 yin1 zhen1 zan4     qi2 yi1
+title: 觀音真贊・其一
+titlePinyin: guan1 yin1 zhen1 zan4・qi2 yi1
 titleSlug: guan-yin-zhen-zan-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

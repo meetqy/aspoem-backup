@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-liu-tian-qi-bing-liu-bie-qi-er
-title: 和劉天啟並留別  其二
-titlePinyin: he2 liu2 tian1 qi3 bing4 liu2 bie2     qi2 er4
+title: 和劉天啟並留別・其二
+titlePinyin: he2 liu2 tian1 qi3 bing4 liu2 bie2・qi2 er4
 titleSlug: he-liu-tian-qi-bing-liu-bie-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

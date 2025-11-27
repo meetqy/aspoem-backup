@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-he-xu-shi-lang-jian-cheng-zheng-yu-zhong-qi-wu
-title: 和徐侍郎兼呈鄭漁仲  其五
-titlePinyin: he2 xu2 shi4 lang2 jian1 cheng2 zheng4 yu2 zhong4     qi2 wu3
+title: 和徐侍郎兼呈鄭漁仲・其五
+titlePinyin: he2 xu2 shi4 lang2 jian1 cheng2 zheng4 yu2 zhong4・qi2 wu3
 titleSlug: he-xu-shi-lang-jian-cheng-zheng-yu-zhong-qi-wu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
