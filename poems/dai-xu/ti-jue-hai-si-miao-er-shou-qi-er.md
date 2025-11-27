@@ -1,7 +1,7 @@
 ---
 id: dai-xu-ti-jue-hai-si-miao-er-shou-qi-er
-title: 題覺海寺廟二首  其二
-titlePinyin: ti2 jue2 hai3 si4 miao4 er4 shou3     qi2 er4
+title: 題覺海寺廟二首・其二
+titlePinyin: ti2 jue2 hai3 si4 miao4 er4 shou3・qi2 er4
 titleSlug: ti-jue-hai-si-miao-er-shou-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

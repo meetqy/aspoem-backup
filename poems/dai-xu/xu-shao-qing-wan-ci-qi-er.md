@@ -1,7 +1,7 @@
 ---
 id: dai-xu-xu-shao-qing-wan-ci-qi-er
-title: 徐少卿挽詞  其二
-titlePinyin: xu2 shao3 qing1 wan3 ci2     qi2 er4
+title: 徐少卿挽詞・其二
+titlePinyin: xu2 shao3 qing1 wan3 ci2・qi2 er4
 titleSlug: xu-shao-qing-wan-ci-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

@@ -1,7 +1,7 @@
 ---
 id: dai-xu-yong-kang-dao-zhong-qi-san
-title: 永康道中  其三
-titlePinyin: yong3 kang1 dao4 zhong1     qi2 san1
+title: 永康道中・其三
+titlePinyin: yong3 kang1 dao4 zhong1・qi2 san1
 titleSlug: yong-kang-dao-zhong-qi-san
 author: 戴栩
 authorPinyin: dai4 xu3

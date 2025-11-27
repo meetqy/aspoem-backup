@@ -1,7 +1,7 @@
 ---
 id: dai-xu-zeng-zhu-zi-wen-yin-ji-zhu-yuan-gang-er-jue-qi-er
-title: 贈朱子文因寄朱元剛二絕  其二
-titlePinyin: zeng4 zhu1 zi3 wen2 yin1 ji4 zhu1 yuan2 gang1 er4 jue2     qi2 er4
+title: 贈朱子文因寄朱元剛二絕・其二
+titlePinyin: zeng4 zhu1 zi3 wen2 yin1 ji4 zhu1 yuan2 gang1 er4 jue2・qi2 er4
 titleSlug: zeng-zhu-zi-wen-yin-ji-zhu-yuan-gang-er-jue-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

@@ -1,7 +1,7 @@
 ---
 id: dai-xu-cai-shang-shu-wan-ci-er-shou-qi-yi
-title: 蔡尚書挽詞二首  其一
-titlePinyin: cai4 shang4 shu1 wan3 ci2 er4 shou3     qi2 yi1
+title: 蔡尚書挽詞二首・其一
+titlePinyin: cai4 shang4 shu1 wan3 ci2 er4 shou3・qi2 yi1
 titleSlug: cai-shang-shu-wan-ci-er-shou-qi-yi
 author: 戴栩
 authorPinyin: dai4 xu3

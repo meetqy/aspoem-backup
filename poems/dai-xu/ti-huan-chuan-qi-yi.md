@@ -1,7 +1,7 @@
 ---
 id: dai-xu-ti-huan-chuan-qi-yi
-title: 題浣川  其一
-titlePinyin: ti2 huan4 chuan1     qi2 yi1
+title: 題浣川・其一
+titlePinyin: ti2 huan4 chuan1・qi2 yi1
 titleSlug: ti-huan-chuan-qi-yi
 author: 戴栩
 authorPinyin: dai4 xu3

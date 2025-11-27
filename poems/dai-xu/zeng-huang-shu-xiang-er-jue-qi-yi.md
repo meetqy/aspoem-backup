@@ -1,7 +1,7 @@
 ---
 id: dai-xu-zeng-huang-shu-xiang-er-jue-qi-yi
-title: 贈黄叔向二絕  其一
-titlePinyin: zeng4 huang2 shu1 xiang4 er4 jue2     qi2 yi1
+title: 贈黄叔向二絕・其一
+titlePinyin: zeng4 huang2 shu1 xiang4 er4 jue2・qi2 yi1
 titleSlug: zeng-huang-shu-xiang-er-jue-qi-yi
 author: 戴栩
 authorPinyin: dai4 xu3

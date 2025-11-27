@@ -1,7 +1,7 @@
 ---
 id: dai-xu-shang-cheng-xiang-shou-qi-san-liu
-title: 上丞相壽  其三六
-titlePinyin: shang4 cheng2 xiang4 shou4     qi2 san1 liu4
+title: 上丞相壽・其三六
+titlePinyin: shang4 cheng2 xiang4 shou4・qi2 san1 liu4
 titleSlug: shang-cheng-xiang-shou-qi-san-liu
 author: 戴栩
 authorPinyin: dai4 xu3

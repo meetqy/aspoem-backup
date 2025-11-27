@@ -1,7 +1,7 @@
 ---
 id: dai-xu-zhao-kai-fu-yi-guo-gong-wan-ci-qi-er
-title: 趙開府儀國公挽詞  其二
-titlePinyin: zhao4 kai1 fu3 yi2 guo2 gong1 wan3 ci2     qi2 er4
+title: 趙開府儀國公挽詞・其二
+titlePinyin: zhao4 kai1 fu3 yi2 guo2 gong1 wan3 ci2・qi2 er4
 titleSlug: zhao-kai-fu-yi-guo-gong-wan-ci-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

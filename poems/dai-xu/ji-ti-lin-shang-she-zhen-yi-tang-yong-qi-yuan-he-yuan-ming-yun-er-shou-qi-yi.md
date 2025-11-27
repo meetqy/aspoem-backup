@@ -1,7 +1,7 @@
 ---
 id: dai-xu-ji-ti-lin-shang-she-zhen-yi-tang-yong-qi-yuan-he-yuan-ming-yun-er-shou-qi-yi
-title: 寄題林上舍真意堂用其元和淵明韻二首  其一
-titlePinyin: ji4 ti2 lin2 shang4 she4 zhen1 yi4 tang2 yong4 qi2 yuan2 he2 yuan1 ming2 yun4 er4 shou3     qi2 yi1
+title: 寄題林上舍真意堂用其元和淵明韻二首・其一
+titlePinyin: ji4 ti2 lin2 shang4 she4 zhen1 yi4 tang2 yong4 qi2 yuan2 he2 yuan1 ming2 yun4 er4 shou3・qi2 yi1
 titleSlug: ji-ti-lin-shang-she-zhen-yi-tang-yong-qi-yuan-he-yuan-ming-yun-er-shou-qi-yi
 author: 戴栩
 authorPinyin: dai4 xu3

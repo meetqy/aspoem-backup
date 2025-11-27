@@ -1,7 +1,7 @@
 ---
 id: dai-xu-quan-geng-ti-zheng-jue-si-shi-ci-wang-wen-kang-yun-er-shou-qi-er
-title: 勸耕題正覺寺詩次王文康韻二首  其二
-titlePinyin: quan4 geng1 ti2 zheng4 jue2 si4 shi1 ci4 wang2 wen2 kang1 yun4 er4 shou3     qi2 er4
+title: 勸耕題正覺寺詩次王文康韻二首・其二
+titlePinyin: quan4 geng1 ti2 zheng4 jue2 si4 shi1 ci4 wang2 wen2 kang1 yun4 er4 shou3・qi2 er4
 titleSlug: quan-geng-ti-zheng-jue-si-shi-ci-wang-wen-kang-yun-er-shou-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

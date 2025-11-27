@@ -1,7 +1,7 @@
 ---
 id: dai-xu-xi-tang-yuan-wan-ci-er-shou-qi-er
-title: 奚帑院挽詞二首  其二
-titlePinyin: xi1 tang3 yuan4 wan3 ci2 er4 shou3     qi2 er4
+title: 奚帑院挽詞二首・其二
+titlePinyin: xi1 tang3 yuan4 wan3 ci2 er4 shou3・qi2 er4
 titleSlug: xi-tang-yuan-wan-ci-er-shou-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3

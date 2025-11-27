@@ -1,7 +1,7 @@
 ---
 id: dai-xu-cao-hui-you-sheng-ri-er-shou-qi-er
-title: 曹徽猷生日二首  其二
-titlePinyin: cao2 hui1 you2 sheng1 ri4 er4 shou3     qi2 er4
+title: 曹徽猷生日二首・其二
+titlePinyin: cao2 hui1 you2 sheng1 ri4 er4 shou3・qi2 er4
 titleSlug: cao-hui-you-sheng-ri-er-shou-qi-er
 author: 戴栩
 authorPinyin: dai4 xu3
