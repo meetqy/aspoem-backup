@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xi-ping-shi-she-she-an-qi-er
-title: 西平石蛇蛇庵  其二
-titlePinyin: xi1 ping2 shi2 she2 she2 an1     qi2 er4
+title: 西平石蛇蛇庵・其二
+titlePinyin: xi1 ping2 shi2 she2 she2 an1・qi2 er4
 titleSlug: xi-ping-shi-she-she-an-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

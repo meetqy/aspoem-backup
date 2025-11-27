@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-cha-hua-shi-qi-yi
-title: 送茶化士  其一
-titlePinyin: song4 cha2 hua4 shi4     qi2 yi1
+title: 送茶化士・其一
+titlePinyin: song4 cha2 hua4 shi4・qi2 yi1
 titleSlug: song-cha-hua-shi-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

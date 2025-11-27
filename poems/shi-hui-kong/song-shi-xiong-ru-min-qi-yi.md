@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-shi-xiong-ru-min-qi-yi
-title: 送實兄入閩  其一
-titlePinyin: song4 shi2 xiong1 ru4 min3     qi2 yi1
+title: 送實兄入閩・其一
+titlePinyin: song4 shi2 xiong1 ru4 min3・qi2 yi1
 titleSlug: song-shi-xiong-ru-min-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

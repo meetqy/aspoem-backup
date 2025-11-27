@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-ze-hua-shi-jian-jian-yun-men-yan-fu-er-lao-qi-er
-title: 送澤化士兼簡雲門延福二老  其二
-titlePinyin: song4 ze2 hua4 shi4 jian1 jian3 yun2 men2 yan2 fu2 er4 lao3     qi2 er4
+title: 送澤化士兼簡雲門延福二老・其二
+titlePinyin: song4 ze2 hua4 shi4 jian1 jian3 yun2 men2 yan2 fu2 er4 lao3・qi2 er4
 titleSlug: song-ze-hua-shi-jian-jian-yun-men-yan-fu-er-lao-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-shu-ding-xiong-zong-pai-tu-qi-yi
-title: 書定兄宗派圖  其一
-titlePinyin: shu1 ding4 xiong1 zong1 pai4 tu2     qi2 yi1
+title: 書定兄宗派圖・其一
+titlePinyin: shu1 ding4 xiong1 zong1 pai4 tu2・qi2 yi1
 titleSlug: shu-ding-xiong-zong-pai-tu-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

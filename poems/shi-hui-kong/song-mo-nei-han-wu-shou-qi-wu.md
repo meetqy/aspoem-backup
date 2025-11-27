@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-mo-nei-han-wu-shou-qi-wu
-title: 送莫內翰五首  其五
-titlePinyin: song4 mo4 nei4 han4 wu3 shou3     qi2 wu3
+title: 送莫內翰五首・其五
+titlePinyin: song4 mo4 nei4 han4 wu3 shou3・qi2 wu3
 titleSlug: song-mo-nei-han-wu-shou-qi-wu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

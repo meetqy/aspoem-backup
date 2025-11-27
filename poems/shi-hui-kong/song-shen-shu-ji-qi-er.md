@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-shen-shu-ji-qi-er
-title: 送深書記  其二
-titlePinyin: song4 shen1 shu1 ji4     qi2 er4
+title: 送深書記・其二
+titlePinyin: song4 shen1 shu1 ji4・qi2 er4
 titleSlug: song-shen-shu-ji-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

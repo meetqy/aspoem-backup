@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-zhen-jue-zhen-zan-qi-yi
-title: 真覺真贊  其一
-titlePinyin: zhen1 jue2 zhen1 zan4     qi2 yi1
+title: 真覺真贊・其一
+titlePinyin: zhen1 jue2 zhen1 zan4・qi2 yi1
 titleSlug: zhen-jue-zhen-zan-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

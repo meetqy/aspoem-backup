@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-yu-xiu-lou-tou-tuo-qi-er
-title: 與修漏頭陀  其二
-titlePinyin: yu3 xiu1 lou4 tou2 tuo2     qi2 er4
+title: 與修漏頭陀・其二
+titlePinyin: yu3 xiu1 lou4 tou2 tuo2・qi2 er4
 titleSlug: yu-xiu-lou-tou-tuo-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

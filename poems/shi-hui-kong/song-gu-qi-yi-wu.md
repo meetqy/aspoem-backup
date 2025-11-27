@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-gu-qi-yi-wu
-title: 頌古  其一五
-titlePinyin: song4 gu3     qi2 yi1 wu3
+title: 頌古・其一五
+titlePinyin: song4 gu3・qi2 yi1 wu3
 titleSlug: song-gu-qi-yi-wu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

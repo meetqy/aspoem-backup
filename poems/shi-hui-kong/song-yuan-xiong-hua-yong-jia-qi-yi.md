@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-yuan-xiong-hua-yong-jia-qi-yi
-title: 送願兄化永嘉  其一
-titlePinyin: song4 yuan4 xiong1 hua4 yong3 jia1     qi2 yi1
+title: 送願兄化永嘉・其一
+titlePinyin: song4 yuan4 xiong1 hua4 yong3 jia1・qi2 yi1
 titleSlug: song-yuan-xiong-hua-yong-jia-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

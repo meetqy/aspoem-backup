@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-yan-fu-zhuan-shi-qi-er
-title: 送延福專使  其二
-titlePinyin: song4 yan2 fu2 zhuan1 shi3     qi2 er4
+title: 送延福專使・其二
+titlePinyin: song4 yan2 fu2 zhuan1 shi3・qi2 er4
 titleSlug: song-yan-fu-zhuan-shi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

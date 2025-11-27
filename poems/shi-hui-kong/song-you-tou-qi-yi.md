@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-you-tou-qi-yi
-title: 送油頭  其一
-titlePinyin: song4 you2 tou2     qi2 yi1
+title: 送油頭・其一
+titlePinyin: song4 you2 tou2・qi2 yi1
 titleSlug: song-you-tou-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-ren-wang-lin-zhang-qi-er
-title: 送人往臨漳  其二
-titlePinyin: song4 ren2 wang3 lin2 zhang1     qi2 er4
+title: 送人往臨漳・其二
+titlePinyin: song4 ren2 wang3 lin2 zhang1・qi2 er4
 titleSlug: song-ren-wang-lin-zhang-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

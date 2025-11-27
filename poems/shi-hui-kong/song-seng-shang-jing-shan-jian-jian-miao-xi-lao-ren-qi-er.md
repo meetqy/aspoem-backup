@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-seng-shang-jing-shan-jian-jian-miao-xi-lao-ren-qi-er
-title: 送僧上徑山兼簡妙喜老人  其二
-titlePinyin: song4 seng1 shang4 jing4 shan1 jian1 jian3 miao4 xi3 lao3 ren2     qi2 er4
+title: 送僧上徑山兼簡妙喜老人・其二
+titlePinyin: song4 seng1 shang4 jing4 shan1 jian1 jian3 miao4 xi3 lao3 ren2・qi2 er4
 titleSlug: song-seng-shang-jing-shan-jian-jian-miao-xi-lao-ren-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

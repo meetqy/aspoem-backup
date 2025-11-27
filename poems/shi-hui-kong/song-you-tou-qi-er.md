@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-you-tou-qi-er
-title: 送油頭  其二
-titlePinyin: song4 you2 tou2     qi2 er4
+title: 送油頭・其二
+titlePinyin: song4 you2 tou2・qi2 er4
 titleSlug: song-you-tou-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

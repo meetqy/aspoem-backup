@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-kong-xiong-qi-er
-title: 送空兄  其二
-titlePinyin: song4 kong1 xiong1     qi2 er4
+title: 送空兄・其二
+titlePinyin: song4 kong1 xiong1・qi2 er4
 titleSlug: song-kong-xiong-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

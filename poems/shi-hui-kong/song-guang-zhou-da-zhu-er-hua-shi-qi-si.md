@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-guang-zhou-da-zhu-er-hua-shi-qi-si
-title: 送廣州達珠二化士  其四
-titlePinyin: song4 guang3 zhou1 da2 zhu1 er4 hua4 shi4     qi2 si4
+title: 送廣州達珠二化士・其四
+titlePinyin: song4 guang3 zhou1 da2 zhu1 er4 hua4 shi4・qi2 si4
 titleSlug: song-guang-zhou-da-zhu-er-hua-shi-qi-si
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

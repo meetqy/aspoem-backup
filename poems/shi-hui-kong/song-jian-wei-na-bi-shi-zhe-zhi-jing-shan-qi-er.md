@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-jian-wei-na-bi-shi-zhe-zhi-jing-shan-qi-er
-title: 送鑑維那弼侍者之徑山  其二
-titlePinyin: song4 jian4 wei2 na4 bi4 shi4 zhe3 zhi1 jing4 shan1     qi2 er4
+title: 送鑑維那弼侍者之徑山・其二
+titlePinyin: song4 jian4 wei2 na4 bi4 shi4 zhe3 zhi1 jing4 shan1・qi2 er4
 titleSlug: song-jian-wei-na-bi-shi-zhe-zhi-jing-shan-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

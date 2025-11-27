@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-zhi-dian-qi-yi
-title: 送知殿  其一
-titlePinyin: song4 zhi1 dian4     qi2 yi1
+title: 送知殿・其一
+titlePinyin: song4 zhi1 dian4・qi2 yi1
 titleSlug: song-zhi-dian-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

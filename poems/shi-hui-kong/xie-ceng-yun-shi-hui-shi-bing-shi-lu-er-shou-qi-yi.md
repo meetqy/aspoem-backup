@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xie-ceng-yun-shi-hui-shi-bing-shi-lu-er-shou-qi-yi
-title: 謝曾運使惠詩並石爐二首  其一
-titlePinyin: xie4 ceng2 yun4 shi3 hui4 shi1 bing4 shi2 lu2 er4 shou3     qi2 yi1
+title: 謝曾運使惠詩並石爐二首・其一
+titlePinyin: xie4 ceng2 yun4 shi3 hui4 shi1 bing4 shi2 lu2 er4 shou3・qi2 yi1
 titleSlug: xie-ceng-yun-shi-hui-shi-bing-shi-lu-er-shou-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

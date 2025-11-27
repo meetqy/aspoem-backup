@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xie-dan-shan-xiu-shou-zuo-zhu-qiong-qi-er
-title: 謝丹山秀首座竹筇  其二
-titlePinyin: xie4 dan1 shan1 xiu4 shou3 zuo4 zhu2 qiong2     qi2 er4
+title: 謝丹山秀首座竹筇・其二
+titlePinyin: xie4 dan1 shan1 xiu4 shou3 zuo4 zhu2 qiong2・qi2 er4
 titleSlug: xie-dan-shan-xiu-shou-zuo-zhu-qiong-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

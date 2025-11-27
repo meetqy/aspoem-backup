@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xi-wen-shou-zuo-zhi-qi-er
-title: 喜溫首座至  其二
-titlePinyin: xi3 wen1 shou3 zuo4 zhi4     qi2 er4
+title: 喜溫首座至・其二
+titlePinyin: xi3 wen1 shou3 zuo4 zhi4・qi2 er4
 titleSlug: xi-wen-shou-zuo-zhi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

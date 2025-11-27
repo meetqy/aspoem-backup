@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-yong-xun-shan-tang-yun-ji-dan-an-qi-er
-title: 用詢山堂韻寄澹庵  其二
-titlePinyin: yong4 xun2 shan1 tang2 yun4 ji4 dan4 an1     qi2 er4
+title: 用詢山堂韻寄澹庵・其二
+titlePinyin: yong4 xun2 shan1 tang2 yun4 ji4 dan4 an1・qi2 er4
 titleSlug: yong-xun-shan-tang-yun-ji-dan-an-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-si-jing-qi-yi
-title: 四景  其一
-titlePinyin: si4 jing3     qi2 yi1
+title: 四景・其一
+titlePinyin: si4 jing3・qi2 yi1
 titleSlug: si-jing-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

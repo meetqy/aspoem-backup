@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-gu-shi-shou-qi-qi
-title: 頌古十首  其七
-titlePinyin: song4 gu3 shi2 shou3     qi2 qi1
+title: 頌古十首・其七
+titlePinyin: song4 gu3 shi2 shou3・qi2 qi1
 titleSlug: song-gu-shi-shou-qi-qi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

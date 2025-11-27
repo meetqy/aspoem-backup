@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-hua-zhu-qi-wu
-title: 送化主  其五
-titlePinyin: song4 hua4 zhu3     qi2 wu3
+title: 送化主・其五
+titlePinyin: song4 hua4 zhu3・qi2 wu3
 titleSlug: song-hua-zhu-qi-wu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

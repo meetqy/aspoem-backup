@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-yu-fu-lang-zuo-gu-dong-geng-si-shou-qi-san
-title: 與郛郎作骨董羹四首  其三
-titlePinyin: yu3 fu2 lang2 zuo4 gu3 dong3 geng1 si4 shou3     qi2 san1
+title: 與郛郎作骨董羹四首・其三
+titlePinyin: yu3 fu2 lang2 zuo4 gu3 dong3 geng1 si4 shou3・qi2 san1
 titleSlug: yu-fu-lang-zuo-gu-dong-geng-si-shou-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

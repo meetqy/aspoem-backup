@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xie-lu-ju-shi-fa-yi-qi-yi
-title: 謝盧居士法衣  其一
-titlePinyin: xie4 lu2 ju1 shi4 fa3 yi1     qi2 yi1
+title: 謝盧居士法衣・其一
+titlePinyin: xie4 lu2 ju1 shi4 fa3 yi1・qi2 yi1
 titleSlug: xie-lu-ju-shi-fa-yi-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

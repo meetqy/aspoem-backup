@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-yong-xiong-you-zhe-qi-er
-title: 送永兄遊浙  其二
-titlePinyin: song4 yong3 xiong1 you2 zhe4     qi2 er4
+title: 送永兄遊浙・其二
+titlePinyin: song4 yong3 xiong1 you2 zhe4・qi2 er4
 titleSlug: song-yong-xiong-you-zhe-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

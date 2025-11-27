@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-ti-shi-shi-bing-he-dan-an-qi-si
-title: 題石室並和澹庵  其四
-titlePinyin: ti2 shi2 shi4 bing4 he2 dan4 an1     qi2 si4
+title: 題石室並和澹庵・其四
+titlePinyin: ti2 shi2 shi4 bing4 he2 dan4 an1・qi2 si4
 titleSlug: ti-shi-shi-bing-he-dan-an-qi-si
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

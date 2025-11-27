@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-shan-xiong-huan-dong-shan-jian-cheng-fang-zhang-qi-yi
-title: 送善兄還洞山兼呈方丈  其一
-titlePinyin: song4 shan4 xiong1 huan2 dong4 shan1 jian1 cheng2 fang1 zhang4     qi2 yi1
+title: 送善兄還洞山兼呈方丈・其一
+titlePinyin: song4 shan4 xiong1 huan2 dong4 shan1 jian1 cheng2 fang1 zhang4・qi2 yi1
 titleSlug: song-shan-xiong-huan-dong-shan-jian-cheng-fang-zhang-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

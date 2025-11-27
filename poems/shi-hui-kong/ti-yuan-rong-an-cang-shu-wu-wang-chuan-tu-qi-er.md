@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-ti-yuan-rong-an-cang-shu-wu-wang-chuan-tu-qi-er
-title: 題圓融庵藏書塢輞川圖  其二
-titlePinyin: ti2 yuan2 rong2 an1 cang2 shu1 wu4 wang3 chuan1 tu2     qi2 er4
+title: 題圓融庵藏書塢輞川圖・其二
+titlePinyin: ti2 yuan2 rong2 an1 cang2 shu1 wu4 wang3 chuan1 tu2・qi2 er4
 titleSlug: ti-yuan-rong-an-cang-shu-wu-wang-chuan-tu-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

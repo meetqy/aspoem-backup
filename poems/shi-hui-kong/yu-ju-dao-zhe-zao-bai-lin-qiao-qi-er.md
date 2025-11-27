@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-yu-ju-dao-zhe-zao-bai-lin-qiao-qi-er
-title: 與聚道者造白林橋  其二
-titlePinyin: yu3 ju4 dao4 zhe3 zao4 bai2 lin2 qiao2     qi2 er4
+title: 與聚道者造白林橋・其二
+titlePinyin: yu3 ju4 dao4 zhe3 zao4 bai2 lin2 qiao2・qi2 er4
 titleSlug: yu-ju-dao-zhe-zao-bai-lin-qiao-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

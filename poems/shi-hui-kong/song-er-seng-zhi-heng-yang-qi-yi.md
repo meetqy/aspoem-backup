@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-er-seng-zhi-heng-yang-qi-yi
-title: 送二僧之衡陽  其一
-titlePinyin: song4 er4 seng1 zhi1 heng2 yang2     qi2 yi1
+title: 送二僧之衡陽・其一
+titlePinyin: song4 er4 seng1 zhi1 heng2 yang2・qi2 yi1
 titleSlug: song-er-seng-zhi-heng-yang-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

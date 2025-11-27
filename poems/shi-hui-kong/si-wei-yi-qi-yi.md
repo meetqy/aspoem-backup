@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-si-wei-yi-qi-yi
-title: 四威儀  其一
-titlePinyin: si4 wei1 yi2     qi2 yi1
+title: 四威儀・其一
+titlePinyin: si4 wei1 yi2・qi2 yi1
 titleSlug: si-wei-yi-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

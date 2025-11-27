@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-seng-you-tian-tai-qi-er
-title: 送僧遊天台  其二
-titlePinyin: song4 seng1 you2 tian1 tai2     qi2 er4
+title: 送僧遊天台・其二
+titlePinyin: song4 seng1 you2 tian1 tai2・qi2 er4
 titleSlug: song-seng-you-tian-tai-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

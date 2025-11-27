@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-le-tan-hua-shi-qi-yi
-title: 送泐潭化士  其一
-titlePinyin: song4 le4 tan2 hua4 shi4     qi2 yi1
+title: 送泐潭化士・其一
+titlePinyin: song4 le4 tan2 hua4 shi4・qi2 yi1
 titleSlug: song-le-tan-hua-shi-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

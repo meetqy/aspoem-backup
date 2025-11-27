@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-shi-seng-qi-wu
-title: 示僧  其五
-titlePinyin: shi4 seng1     qi2 wu3
+title: 示僧・其五
+titlePinyin: shi4 seng1・qi2 wu3
 titleSlug: shi-seng-qi-wu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

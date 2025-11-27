@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-gu-qi-jiu
-title: 頌古  其九
-titlePinyin: song4 gu3     qi2 jiu3
+title: 頌古・其九
+titlePinyin: song4 gu3・qi2 jiu3
 titleSlug: song-gu-qi-jiu
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-guang-xiong-zhi-bai-zhang-jian-cheng-shan-zhong-shan-shi-yi-dang-shu-yi-qi-er
-title: 送光兄之百丈兼呈山中禪師以當書矣  其二
-titlePinyin: song4 guang1 xiong1 zhi1 bai3 zhang4 jian1 cheng2 shan1 zhong1 shan4 shi1 yi3 dang1 shu1 yi3     qi2 er4
+title: 送光兄之百丈兼呈山中禪師以當書矣・其二
+titlePinyin: song4 guang1 xiong1 zhi1 bai3 zhang4 jian1 cheng2 shan1 zhong1 shan4 shi1 yi3 dang1 shu1 yi3・qi2 er4
 titleSlug: song-guang-xiong-zhi-bai-zhang-jian-cheng-shan-zhong-shan-shi-yi-dang-shu-yi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

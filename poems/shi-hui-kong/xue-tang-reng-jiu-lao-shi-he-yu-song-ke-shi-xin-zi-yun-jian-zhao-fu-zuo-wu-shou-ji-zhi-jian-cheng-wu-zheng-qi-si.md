@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-xue-tang-reng-jiu-lao-shi-he-yu-song-ke-shi-xin-zi-yun-jian-zhao-fu-zuo-wu-shou-ji-zhi-jian-cheng-wu-zheng-qi-si
-title: 雪堂仍舊老師和予送可師新字韻見招復作五首寄之兼呈無證  其四
-titlePinyin: xue3 tang2 reng2 jiu4 lao3 shi1 he2 yu3 song4 ke3 shi1 xin1 zi4 yun4 jian4 zhao1 fu4 zuo4 wu3 shou3 ji4 zhi1 jian1 cheng2 wu2 zheng4     qi2 si4
+title: 雪堂仍舊老師和予送可師新字韻見招復作五首寄之兼呈無證・其四
+titlePinyin: xue3 tang2 reng2 jiu4 lao3 shi1 he2 yu3 song4 ke3 shi1 xin1 zi4 yun4 jian4 zhao1 fu4 zuo4 wu3 shou3 ji4 zhi1 jian1 cheng2 wu2 zheng4・qi2 si4
 titleSlug: xue-tang-reng-jiu-lao-shi-he-yu-song-ke-shi-xin-zi-yun-jian-zhao-fu-zuo-wu-shou-ji-zhi-jian-cheng-wu-zheng-qi-si
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

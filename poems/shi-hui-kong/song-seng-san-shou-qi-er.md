@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-seng-san-shou-qi-er
-title: 送僧三首  其二
-titlePinyin: song4 seng1 san1 shou3     qi2 er4
+title: 送僧三首・其二
+titlePinyin: song4 seng1 san1 shou3・qi2 er4
 titleSlug: song-seng-san-shou-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

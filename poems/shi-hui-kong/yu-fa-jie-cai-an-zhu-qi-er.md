@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-yu-fa-jie-cai-an-zhu-qi-er
-title: 與法界才庵主  其二
-titlePinyin: yu3 fa3 jie4 cai2 an1 zhu3     qi2 er4
+title: 與法界才庵主・其二
+titlePinyin: yu3 fa3 jie4 cai2 an1 zhu3・qi2 er4
 titleSlug: yu-fa-jie-cai-an-zhu-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

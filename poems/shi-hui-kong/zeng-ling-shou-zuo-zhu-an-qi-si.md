@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-zeng-ling-shou-zuo-zhu-an-qi-si
-title: 贈齡首座主庵  其四
-titlePinyin: zeng4 ling2 shou3 zuo4 zhu3 an1     qi2 si4
+title: 贈齡首座主庵・其四
+titlePinyin: zeng4 ling2 shou3 zuo4 zhu3 an1・qi2 si4
 titleSlug: zeng-ling-shou-zuo-zhu-an-qi-si
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

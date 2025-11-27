@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-ren-hua-xiu-shang-qi-yi
-title: 送人化修上  其一
-titlePinyin: song4 ren2 hua4 xiu1 shang4     qi2 yi1
+title: 送人化修上・其一
+titlePinyin: song4 ren2 hua4 xiu1 shang4・qi2 yi1
 titleSlug: song-ren-hua-xiu-shang-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

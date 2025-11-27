@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-hua-shi-qi-san
-title: 送化士  其三
-titlePinyin: song4 hua4 shi4     qi2 san1
+title: 送化士・其三
+titlePinyin: song4 hua4 shi4・qi2 san1
 titleSlug: song-hua-shi-qi-san
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

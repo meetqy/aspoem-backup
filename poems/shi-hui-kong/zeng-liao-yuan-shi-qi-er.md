@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-zeng-liao-yuan-shi-qi-er
-title: 贈寥元飾  其二
-titlePinyin: zeng4 liao2 yuan2 shi4     qi2 er4
+title: 贈寥元飾・其二
+titlePinyin: zeng4 liao2 yuan2 shi4・qi2 er4
 titleSlug: zeng-liao-yuan-shi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

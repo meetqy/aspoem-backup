@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-zao-qiao-dao-zhe-bing-zhu-hua-tu-xie-qiu-qi-yi
-title: 造橋道者並諸化土寫求  其一
-titlePinyin: zao4 qiao2 dao4 zhe3 bing4 zhu1 hua4 tu3 xie3 qiu2     qi2 yi1
+title: 造橋道者並諸化土寫求・其一
+titlePinyin: zao4 qiao2 dao4 zhe3 bing4 zhu1 hua4 tu3 xie3 qiu2・qi2 yi1
 titleSlug: zao-qiao-dao-zhe-bing-zhu-hua-tu-xie-qiu-qi-yi
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1

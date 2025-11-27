@@ -1,7 +1,7 @@
 ---
 id: shi-hui-kong-song-cha-tou-bing-hua-shi-qi-er
-title: 送茶頭幷化士  其二
-titlePinyin: song4 cha2 tou2 bing4 hua4 shi4     qi2 er4
+title: 送茶頭幷化士・其二
+titlePinyin: song4 cha2 tou2 bing4 hua4 shi4・qi2 er4
 titleSlug: song-cha-tou-bing-hua-shi-qi-er
 author: 釋慧空
 authorPinyin: shi4 hui4 kong1
