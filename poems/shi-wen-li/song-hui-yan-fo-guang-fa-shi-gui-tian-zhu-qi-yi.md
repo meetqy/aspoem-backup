@@ -1,7 +1,7 @@
 ---
 id: shi-wen-li-song-hui-yan-fo-guang-fa-shi-gui-tian-zhu-qi-yi
-title: 送晦巖佛光法師歸天竺  其一
-titlePinyin: song4 hui4 yan2 fo2 guang1 fa3 shi1 gui1 tian1 zhu2     qi2 yi1
+title: 送晦巖佛光法師歸天竺・其一
+titlePinyin: song4 hui4 yan2 fo2 guang1 fa3 shi1 gui1 tian1 zhu2・qi2 yi1
 titleSlug: song-hui-yan-fo-guang-fa-shi-gui-tian-zhu-qi-yi
 author: 釋文禮
 authorPinyin: shi4 wen2 li3

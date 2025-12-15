@@ -1,7 +1,7 @@
 ---
 id: shi-wen-li-ji-er-shou-qi-er
-title: 偈二首  其二
-titlePinyin: ji4 er4 shou3     qi2 er4
+title: 偈二首・其二
+titlePinyin: ji4 er4 shou3・qi2 er4
 titleSlug: ji-er-shou-qi-er
 author: 釋文禮
 authorPinyin: shi4 wen2 li3

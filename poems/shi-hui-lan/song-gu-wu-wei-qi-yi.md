@@ -1,7 +1,7 @@
 ---
 id: shi-hui-lan-song-gu-wu-wei-qi-yi
-title: 頌古 五位 其一
-titlePinyin: song4 gu3   wu3 wei4   qi2 yi1
+title: 頌古・五位・其一
+titlePinyin: song4 gu3・wu3 wei4・qi2 yi1
 titleSlug: song-gu-wu-wei-qi-yi
 author: 釋慧蘭
 authorPinyin: shi4 hui4 lan2

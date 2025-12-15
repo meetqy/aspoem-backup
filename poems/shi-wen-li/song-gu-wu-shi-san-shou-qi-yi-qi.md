@@ -1,7 +1,7 @@
 ---
 id: shi-wen-li-song-gu-wu-shi-san-shou-qi-yi-qi
-title: 頌古五十三首  其一七
-titlePinyin: song4 gu3 wu3 shi2 san1 shou3     qi2 yi1 qi1
+title: 頌古五十三首・其一七
+titlePinyin: song4 gu3 wu3 shi2 san1 shou3・qi2 yi1 qi1
 titleSlug: song-gu-wu-shi-san-shou-qi-yi-qi
 author: 釋文禮
 authorPinyin: shi4 wen2 li3

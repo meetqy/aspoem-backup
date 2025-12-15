@@ -1,7 +1,7 @@
 ---
 id: shi-wen-li-liu-dai-zu-shi-zan-qi-san
-title: 六代祖師贊  其三
-titlePinyin: liu4 dai4 zu3 shi1 zan4     qi2 san1
+title: 六代祖師贊・其三
+titlePinyin: liu4 dai4 zu3 shi1 zan4・qi2 san1
 titleSlug: liu-dai-zu-shi-zan-qi-san
 author: 釋文禮
 authorPinyin: shi4 wen2 li3

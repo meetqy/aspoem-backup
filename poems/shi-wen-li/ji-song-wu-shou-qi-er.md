@@ -1,7 +1,7 @@
 ---
 id: shi-wen-li-ji-song-wu-shou-qi-er
-title: 偈頌五首  其二
-titlePinyin: ji4 song4 wu3 shou3     qi2 er4
+title: 偈頌五首・其二
+titlePinyin: ji4 song4 wu3 shou3・qi2 er4
 titleSlug: ji-song-wu-shou-qi-er
 author: 釋文禮
 authorPinyin: shi4 wen2 li3
