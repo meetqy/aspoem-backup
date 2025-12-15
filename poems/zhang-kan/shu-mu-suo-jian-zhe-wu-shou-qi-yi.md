@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shu-mu-suo-jian-zhe-wu-shou-qi-yi
-title: 書目所見者五首  其一
-titlePinyin: shu1 mu4 suo3 jian4 zhe3 wu3 shou3     qi2 yi1
+title: 書目所見者五首・其一
+titlePinyin: shu1 mu4 suo3 jian4 zhe3 wu3 shou3・qi2 yi1
 titleSlug: shu-mu-suo-jian-zhe-wu-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

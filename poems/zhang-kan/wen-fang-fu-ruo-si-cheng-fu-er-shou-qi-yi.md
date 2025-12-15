@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-wen-fang-fu-ruo-si-cheng-fu-er-shou-qi-yi
-title: 聞方孚若寺丞訃二首  其一
-titlePinyin: wen2 fang1 fu2 ruo4 si4 cheng2 fu4 er4 shou3     qi2 yi1
+title: 聞方孚若寺丞訃二首・其一
+titlePinyin: wen2 fang1 fu2 ruo4 si4 cheng2 fu4 er4 shou3・qi2 yi1
 titleSlug: wen-fang-fu-ruo-si-cheng-fu-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

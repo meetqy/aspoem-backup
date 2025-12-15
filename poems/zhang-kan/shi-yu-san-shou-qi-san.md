@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shi-yu-san-shou-qi-san
-title: 時雨三首  其三
-titlePinyin: shi2 yu3 san1 shou3     qi2 san1
+title: 時雨三首・其三
+titlePinyin: shi2 yu3 san1 shou3・qi2 san1
 titleSlug: shi-yu-san-shou-qi-san
 author: 張侃
 authorPinyin: zhang1 kan3

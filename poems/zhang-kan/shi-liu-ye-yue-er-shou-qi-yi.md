@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shi-liu-ye-yue-er-shou-qi-yi
-title: 十六夜月二首  其一
-titlePinyin: shi2 liu4 ye4 yue4 er4 shou3     qi2 yi1
+title: 十六夜月二首・其一
+titlePinyin: shi2 liu4 ye4 yue4 er4 shou3・qi2 yi1
 titleSlug: shi-liu-ye-yue-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

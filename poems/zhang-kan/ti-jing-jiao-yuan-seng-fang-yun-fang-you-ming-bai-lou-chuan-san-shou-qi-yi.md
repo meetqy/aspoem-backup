@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ti-jing-jiao-yuan-seng-fang-yun-fang-you-ming-bai-lou-chuan-san-shou-qi-yi
-title: 題旌教院僧房雲舫又名百漏船三首  其一
-titlePinyin: ti2 jing1 jiao4 yuan4 seng1 fang2 yun2 fang3 you4 ming2 bai3 lou4 chuan2 san1 shou3     qi2 yi1
+title: 題旌教院僧房雲舫又名百漏船三首・其一
+titlePinyin: ti2 jing1 jiao4 yuan4 seng1 fang2 yun2 fang3 you4 ming2 bai3 lou4 chuan2 san1 shou3・qi2 yi1
 titleSlug: ti-jing-jiao-yuan-seng-fang-yun-fang-you-ming-bai-lou-chuan-san-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

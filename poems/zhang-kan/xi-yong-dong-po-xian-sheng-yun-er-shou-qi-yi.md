@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-xi-yong-dong-po-xian-sheng-yun-er-shou-qi-yi
-title: 戲用東坡先生韻二首  其一
-titlePinyin: xi4 yong4 dong1 po1 xian1 sheng0 yun4 er4 shou3     qi2 yi1
+title: 戲用東坡先生韻二首・其一
+titlePinyin: xi4 yong4 dong1 po1 xian1 sheng0 yun4 er4 shou3・qi2 yi1
 titleSlug: xi-yong-dong-po-xian-sheng-yun-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

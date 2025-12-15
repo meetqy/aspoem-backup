@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-qiu-ye-er-jue-qi-er
-title: 秋葉二絕  其二
-titlePinyin: qiu1 ye4 er4 jue2     qi2 er4
+title: 秋葉二絕・其二
+titlePinyin: qiu1 ye4 er4 jue2・qi2 er4
 titleSlug: qiu-ye-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

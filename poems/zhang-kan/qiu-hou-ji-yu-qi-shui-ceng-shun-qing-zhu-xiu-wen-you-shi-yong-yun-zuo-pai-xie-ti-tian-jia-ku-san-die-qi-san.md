@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-qiu-hou-ji-yu-qi-shui-ceng-shun-qing-zhu-xiu-wen-you-shi-yong-yun-zuo-pai-xie-ti-tian-jia-ku-san-die-qi-san
-title: 秋後積雨起水曾舜卿朱秀文有詩用韻作俳諧體田家苦三疊  其三
-titlePinyin: qiu1 hou4 ji1 yu3 qi3 shui3 ceng2 shun4 qing1 zhu1 xiu4 wen2 you3 shi1 yong4 yun4 zuo4 pai2 xie2 ti3 tian2 jia1 ku3 san1 die2     qi2 san1
+title: 秋後積雨起水曾舜卿朱秀文有詩用韻作俳諧體田家苦三疊・其三
+titlePinyin: qiu1 hou4 ji1 yu3 qi3 shui3 ceng2 shun4 qing1 zhu1 xiu4 wen2 you3 shi1 yong4 yun4 zuo4 pai2 xie2 ti3 tian2 jia1 ku3 san1 die2・qi2 san1
 titleSlug: qiu-hou-ji-yu-qi-shui-ceng-shun-qing-zhu-xiu-wen-you-shi-yong-yun-zuo-pai-xie-ti-tian-jia-ku-san-die-qi-san
 author: 張侃
 authorPinyin: zhang1 kan3

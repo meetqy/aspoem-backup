@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-qiang-wei-san-jue-qi-er
-title: 薔薇三絕  其二
-titlePinyin: qiang2 wei1 san1 jue2     qi2 er4
+title: 薔薇三絕・其二
+titlePinyin: qiang2 wei1 san1 jue2・qi2 er4
 titleSlug: qiang-wei-san-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

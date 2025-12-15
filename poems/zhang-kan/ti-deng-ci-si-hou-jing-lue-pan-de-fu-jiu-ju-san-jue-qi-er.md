@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ti-deng-ci-si-hou-jing-lue-pan-de-fu-jiu-ju-san-jue-qi-er
-title: 題等慈寺後經略潘德鄜舊居三絕  其二
-titlePinyin: ti2 deng3 ci2 si4 hou4 jing1 lüe4 pan1 de2 fu1 jiu4 ju1 san1 jue2     qi2 er4
+title: 題等慈寺後經略潘德鄜舊居三絕・其二
+titlePinyin: ti2 deng3 ci2 si4 hou4 jing1 lüe4 pan1 de2 fu1 jiu4 ju1 san1 jue2・qi2 er4
 titleSlug: ti-deng-ci-si-hou-jing-lue-pan-de-fu-jiu-ju-san-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shi-wu-ye-yue-er-jue-qi-er
-title: 十五夜月二絕  其二
-titlePinyin: shi2 wu3 ye4 yue4 er4 jue2     qi2 er4
+title: 十五夜月二絕・其二
+titlePinyin: shi2 wu3 ye4 yue4 er4 jue2・qi2 er4
 titleSlug: shi-wu-ye-yue-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

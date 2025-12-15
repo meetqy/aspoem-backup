@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-yong-qin-shao-you-yun-er-shou-qi-yi
-title: 用秦少游韻二首  其一
-titlePinyin: yong4 qin2 shao4 you2 yun4 er4 shou3     qi2 yi1
+title: 用秦少游韻二首・其一
+titlePinyin: yong4 qin2 shao4 you2 yun4 er4 shou3・qi2 yi1
 titleSlug: yong-qin-shao-you-yun-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

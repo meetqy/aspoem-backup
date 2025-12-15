@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-zai-yin-er-jue-qi-er
-title: 再吟二絕  其二
-titlePinyin: zai4 yin2 er4 jue2     qi2 er4
+title: 再吟二絕・其二
+titlePinyin: zai4 yin2 er4 jue2・qi2 er4
 titleSlug: zai-yin-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

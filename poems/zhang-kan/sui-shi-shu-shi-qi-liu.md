@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-sui-shi-shu-shi-qi-liu
-title: 歲時書事  其六
-titlePinyin: sui4 shi2 shu1 shi4     qi2 liu4
+title: 歲時書事・其六
+titlePinyin: sui4 shi2 shu1 shi4・qi2 liu4
 titleSlug: sui-shi-shu-shi-qi-liu
 author: 張侃
 authorPinyin: zhang1 kan3

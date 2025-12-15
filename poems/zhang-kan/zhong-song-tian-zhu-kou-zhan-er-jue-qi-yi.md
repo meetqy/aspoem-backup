@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-zhong-song-tian-zhu-kou-zhan-er-jue-qi-yi
-title: 種松添竹口占二絕  其一
-titlePinyin: zhong3 song1 tian1 zhu2 kou3 zhan4 er4 jue2     qi2 yi1
+title: 種松添竹口占二絕・其一
+titlePinyin: zhong3 song1 tian1 zhu2 kou3 zhan4 er4 jue2・qi2 yi1
 titleSlug: zhong-song-tian-zhu-kou-zhan-er-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

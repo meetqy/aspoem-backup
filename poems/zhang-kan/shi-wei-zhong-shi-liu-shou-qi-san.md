@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shi-wei-zhong-shi-liu-shou-qi-san
-title: 示韋中實六首  其三
-titlePinyin: shi4 wei2 zhong1 shi2 liu4 shou3     qi2 san1
+title: 示韋中實六首・其三
+titlePinyin: shi4 wei2 zhong1 shi2 liu4 shou3・qi2 san1
 titleSlug: shi-wei-zhong-shi-liu-shou-qi-san
 author: 張侃
 authorPinyin: zhang1 kan3

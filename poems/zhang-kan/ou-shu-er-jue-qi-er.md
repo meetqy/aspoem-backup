@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ou-shu-er-jue-qi-er
-title: 偶書二絕  其二
-titlePinyin: ou3 shu1 er4 jue2     qi2 er4
+title: 偶書二絕・其二
+titlePinyin: ou3 shu1 er4 jue2・qi2 er4
 titleSlug: ou-shu-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

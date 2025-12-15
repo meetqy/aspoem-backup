@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-qiu-ri-xian-ju-shi-shou-qi-si
-title: 秋日閒居十首  其四
-titlePinyin: qiu1 ri4 xian2 ju1 shi2 shou3     qi2 si4
+title: 秋日閒居十首・其四
+titlePinyin: qiu1 ri4 xian2 ju1 shi2 shou3・qi2 si4
 titleSlug: qiu-ri-xian-ju-shi-shou-qi-si
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-shu-kao-qi-yi
-title: 書考  其一
-titlePinyin: shu1 kao3     qi2 yi1
+title: 書考・其一
+titlePinyin: shu1 kao3・qi2 yi1
 titleSlug: shu-kao-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ye-hang-chi-bian-gu-mei-er-shou-qi-yi
-title: 野航池邊古梅二首  其一
-titlePinyin: ye3 hang2 chi2 bian1 gu3 mei2 er4 shou3     qi2 yi1
+title: 野航池邊古梅二首・其一
+titlePinyin: ye3 hang2 chi2 bian1 gu3 mei2 er4 shou3・qi2 yi1
 titleSlug: ye-hang-chi-bian-gu-mei-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

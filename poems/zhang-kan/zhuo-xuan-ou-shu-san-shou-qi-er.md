@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-zhuo-xuan-ou-shu-san-shou-qi-er
-title: 拙軒偶書三首  其二
-titlePinyin: zhuo1 xuan1 ou3 shu1 san1 shou3     qi2 er4
+title: 拙軒偶書三首・其二
+titlePinyin: zhuo1 xuan1 ou3 shu1 san1 shou3・qi2 er4
 titleSlug: zhuo-xuan-ou-shu-san-shou-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

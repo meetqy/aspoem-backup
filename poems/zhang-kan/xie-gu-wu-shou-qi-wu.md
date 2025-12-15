@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-xie-gu-wu-shou-qi-wu
-title: 寫古五首  其五
-titlePinyin: xie3 gu3 wu3 shou3     qi2 wu3
+title: 寫古五首・其五
+titlePinyin: xie3 gu3 wu3 shou3・qi2 wu3
 titleSlug: xie-gu-wu-shou-qi-wu
 author: 張侃
 authorPinyin: zhang1 kan3

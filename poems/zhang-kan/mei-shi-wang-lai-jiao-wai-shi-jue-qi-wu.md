@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-mei-shi-wang-lai-jiao-wai-shi-jue-qi-wu
-title: 梅時往來郊外十絕  其五
-titlePinyin: mei2 shi2 wang3 lai2 jiao1 wai4 shi2 jue2     qi2 wu3
+title: 梅時往來郊外十絕・其五
+titlePinyin: mei2 shi2 wang3 lai2 jiao1 wai4 shi2 jue2・qi2 wu3
 titleSlug: mei-shi-wang-lai-jiao-wai-shi-jue-qi-wu
 author: 張侃
 authorPinyin: zhang1 kan3
