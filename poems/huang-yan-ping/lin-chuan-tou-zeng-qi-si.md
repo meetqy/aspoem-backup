@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-lin-chuan-tou-zeng-qi-si
-title: 臨川投贈  其四
-titlePinyin: lin2 chuan1 tou2 zeng4     qi2 si4
+title: 臨川投贈・其四
+titlePinyin: lin2 chuan1 tou2 zeng4・qi2 si4
 titleSlug: lin-chuan-tou-zeng-qi-si
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-chu-dao-chi-zhou-yan-xi-zu-feng-ma-bu-qi-er
-title: 初到池州沿檄阻風麻步  其二
-titlePinyin: chu1 dao4 chi2 zhou1 yan2 xi2 zu3 feng1 ma2 bu4     qi2 er4
+title: 初到池州沿檄阻風麻步・其二
+titlePinyin: chu1 dao4 chi2 zhou1 yan2 xi2 zu3 feng1 ma2 bu4・qi2 er4
 titleSlug: chu-dao-chi-zhou-yan-xi-zu-feng-ma-bu-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

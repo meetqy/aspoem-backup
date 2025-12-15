@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-shi-zhong-si-qi-yi
-title: 石鐘寺  其一
-titlePinyin: shi2 zhong1 si4     qi2 yi1
+title: 石鐘寺・其一
+titlePinyin: shi2 zhong1 si4・qi2 yi1
 titleSlug: shi-zhong-si-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

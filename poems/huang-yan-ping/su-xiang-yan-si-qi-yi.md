@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-su-xiang-yan-si-qi-yi
-title: 宿香嚴寺  其一
-titlePinyin: su4 xiang1 yan2 si4     qi2 yi1
+title: 宿香嚴寺・其一
+titlePinyin: su4 xiang1 yan2 si4・qi2 yi1
 titleSlug: su-xiang-yan-si-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-bo-zhou-dou-lu-si-cheng-wang-cheng-ke-qi-er
-title: 泊舟兜率寺呈王承可  其二
-titlePinyin: bo2 zhou1 dou1 lü4 si4 cheng2 wang2 cheng2 ke3     qi2 er4
+title: 泊舟兜率寺呈王承可・其二
+titlePinyin: bo2 zhou1 dou1 lü4 si4 cheng2 wang2 cheng2 ke3・qi2 er4
 titleSlug: bo-zhou-dou-lu-si-cheng-wang-cheng-ke-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-le-fu-za-ni-qi-san
-title: 樂府雜擬  其三
-titlePinyin: le4 fu3 za2 ni3     qi2 san1
+title: 樂府雜擬・其三
+titlePinyin: le4 fu3 za2 ni3・qi2 san1
 titleSlug: le-fu-za-ni-qi-san
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

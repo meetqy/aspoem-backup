@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-qing-xi-jie-lan-yong-xiu-cai-fu-yun-ji-du-cang-yong-qi-yi
-title: 清溪解纜用秀才甫韻寄杜藏用  其一
-titlePinyin: qing1 xi1 jie3 lan3 yong4 xiu4 cai0 fu3 yun4 ji4 du4 cang2 yong4     qi2 yi1
+title: 清溪解纜用秀才甫韻寄杜藏用・其一
+titlePinyin: qing1 xi1 jie3 lan3 yong4 xiu4 cai0 fu3 yun4 ji4 du4 cang2 yong4・qi2 yi1
 titleSlug: qing-xi-jie-lan-yong-xiu-cai-fu-yun-ji-du-cang-yong-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

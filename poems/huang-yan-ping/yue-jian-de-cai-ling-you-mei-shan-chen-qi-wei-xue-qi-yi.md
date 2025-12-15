@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-yue-jian-de-cai-ling-you-mei-shan-chen-qi-wei-xue-qi-yi
-title: 約建德蔡令游梅山晨起微雪  其一
-titlePinyin: yue1 jian4 de2 cai4 ling4 you2 mei2 shan1 chen2 qi3 wei1 xue3     qi2 yi1
+title: 約建德蔡令游梅山晨起微雪・其一
+titlePinyin: yue1 jian4 de2 cai4 ling4 you2 mei2 shan1 chen2 qi3 wei1 xue3・qi2 yi1
 titleSlug: yue-jian-de-cai-ling-you-mei-shan-chen-qi-wei-xue-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

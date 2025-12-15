@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-tian-jia-chun-ri-er-shou-qi-yi
-title: 田家春日二首  其一
-titlePinyin: tian2 jia1 chun1 ri4 er4 shou3     qi2 yi1
+title: 田家春日二首・其一
+titlePinyin: tian2 jia1 chun1 ri4 er4 shou3・qi2 yi1
 titleSlug: tian-jia-chun-ri-er-shou-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

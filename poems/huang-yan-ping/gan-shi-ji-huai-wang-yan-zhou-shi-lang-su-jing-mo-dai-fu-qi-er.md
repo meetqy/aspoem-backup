@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-gan-shi-ji-huai-wang-yan-zhou-shi-lang-su-jing-mo-dai-fu-qi-er
-title: 感事寄懷王彦舟侍郎蘇景謨大夫  其二
-titlePinyin: gan3 shi4 ji4 huai2 wang2 yan4 zhou1 shi4 lang2 su1 jing3 mo2 dai4 fu0     qi2 er4
+title: 感事寄懷王彦舟侍郎蘇景謨大夫・其二
+titlePinyin: gan3 shi4 ji4 huai2 wang2 yan4 zhou1 shi4 lang2 su1 jing3 mo2 dai4 fu0・qi2 er4
 titleSlug: gan-shi-ji-huai-wang-yan-zhou-shi-lang-su-jing-mo-dai-fu-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

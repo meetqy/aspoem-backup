@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-gui-tu-ci-yun-qi-san
-title: 歸途次韻  其三
-titlePinyin: gui1 tu2 ci4 yun4     qi2 san1
+title: 歸途次韻・其三
+titlePinyin: gui1 tu2 ci4 yun4・qi2 san1
 titleSlug: gui-tu-ci-yun-qi-san
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

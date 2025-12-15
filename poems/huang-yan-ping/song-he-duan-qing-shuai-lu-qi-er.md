@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-song-he-duan-qing-shuai-lu-qi-er
-title: 送何端卿帥瀘  其二
-titlePinyin: song4 he2 duan1 qing1 shuai4 lu2     qi2 er4
+title: 送何端卿帥瀘・其二
+titlePinyin: song4 he2 duan1 qing1 shuai4 lu2・qi2 er4
 titleSlug: song-he-duan-qing-shuai-lu-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

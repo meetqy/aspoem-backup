@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-su-po-shu-shi-qi-er
-title: 宿坡書事  其二
-titlePinyin: su4 po1 shu1 shi4     qi2 er4
+title: 宿坡書事・其二
+titlePinyin: su4 po1 shu1 shi4・qi2 er4
 titleSlug: su-po-shu-shi-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

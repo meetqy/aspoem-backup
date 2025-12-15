@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-ci-yun-zhu-xi-zhen-zeng-bie-qi-er
-title: 次韻朱希真贈别  其二
-titlePinyin: ci4 yun4 zhu1 xi1 zhen1 zeng4 bie2     qi2 er4
+title: 次韻朱希真贈别・其二
+titlePinyin: ci4 yun4 zhu1 xi1 zhen1 zeng4 bie2・qi2 er4
 titleSlug: ci-yun-zhu-xi-zhen-zeng-bie-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

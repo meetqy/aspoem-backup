@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-huan-zi-yu-zhang-ji-xie-hu-shuai-cheng-gong-qi-san
-title: 還自豫章寄謝胡帥承公  其三
-titlePinyin: huan2 zi4 yu4 zhang1 ji4 xie4 hu2 shuai4 cheng2 gong1     qi2 san1
+title: 還自豫章寄謝胡帥承公・其三
+titlePinyin: huan2 zi4 yu4 zhang1 ji4 xie4 hu2 shuai4 cheng2 gong1・qi2 san1
 titleSlug: huan-zi-yu-zhang-ji-xie-hu-shuai-cheng-gong-qi-san
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

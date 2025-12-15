@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-sui-wan-chu-ting-ji-tang-ju-qi-er
-title: 歲晚楚亭集唐句  其二
-titlePinyin: sui4 wan3 chu3 ting2 ji2 tang2 ju4     qi2 er4
+title: 歲晚楚亭集唐句・其二
+titlePinyin: sui4 wan3 chu3 ting2 ji2 tang2 ju4・qi2 er4
 titleSlug: sui-wan-chu-ting-ji-tang-ju-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

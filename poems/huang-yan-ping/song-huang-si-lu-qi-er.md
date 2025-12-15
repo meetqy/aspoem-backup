@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-song-huang-si-lu-qi-er
-title: 送黄司錄  其二
-titlePinyin: song4 huang2 si1 lu4     qi2 er4
+title: 送黄司錄・其二
+titlePinyin: song4 huang2 si1 lu4・qi2 er4
 titleSlug: song-huang-si-lu-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

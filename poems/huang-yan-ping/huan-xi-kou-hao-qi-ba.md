@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-huan-xi-kou-hao-qi-ba
-title: 歡喜口號  其八
-titlePinyin: huan1 xi3 kou3 hao4     qi2 ba1
+title: 歡喜口號・其八
+titlePinyin: huan1 xi3 kou3 hao4・qi2 ba1
 titleSlug: huan-xi-kou-hao-qi-ba
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

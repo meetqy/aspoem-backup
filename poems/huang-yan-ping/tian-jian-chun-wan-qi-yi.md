@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-tian-jian-chun-wan-qi-yi
-title: 田間春晚  其一
-titlePinyin: tian2 jian4 chun1 wan3     qi2 yi1
+title: 田間春晚・其一
+titlePinyin: tian2 jian4 chun1 wan3・qi2 yi1
 titleSlug: tian-jian-chun-wan-qi-yi
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

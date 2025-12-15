@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-dong-zhi-jie-jia-fu-chou-yin-xi-ji-qi-er
-title: 冬至節假賦愁陰喜霽  其二
-titlePinyin: dong1 zhi4 jie2 jia3 fu4 chou2 yin1 xi3 ji4     qi2 er4
+title: 冬至節假賦愁陰喜霽・其二
+titlePinyin: dong1 zhi4 jie2 jia3 fu4 chou2 yin1 xi3 ji4・qi2 er4
 titleSlug: dong-zhi-jie-jia-fu-chou-yin-xi-ji-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2

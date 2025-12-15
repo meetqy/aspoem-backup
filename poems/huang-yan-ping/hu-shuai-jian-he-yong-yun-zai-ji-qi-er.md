@@ -1,7 +1,7 @@
 ---
 id: huang-yan-ping-hu-shuai-jian-he-yong-yun-zai-ji-qi-er
-title: 胡帥見和用韻再寄  其二
-titlePinyin: hu2 shuai4 jian4 he2 yong4 yun4 zai4 ji4     qi2 er4
+title: 胡帥見和用韻再寄・其二
+titlePinyin: hu2 shuai4 jian4 he2 yong4 yun4 zai4 ji4・qi2 er4
 titleSlug: hu-shuai-jian-he-yong-yun-zai-ji-qi-er
 author: 黄彥平
 authorPinyin: huang2 yan4 ping2
