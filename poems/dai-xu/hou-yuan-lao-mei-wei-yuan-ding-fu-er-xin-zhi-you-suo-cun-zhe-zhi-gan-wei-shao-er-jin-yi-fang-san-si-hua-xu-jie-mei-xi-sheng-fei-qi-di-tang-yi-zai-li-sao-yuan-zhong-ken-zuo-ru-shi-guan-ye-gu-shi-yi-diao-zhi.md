@@ -6,7 +6,7 @@ titleSlug: hou-yuan-lao-mei-wei-yuan-ding-fu-er-xin-zhi-you-suo-cun-zhe-zhi-gan-
 author: 戴栩
 authorPinyin: dai4 xu3
 authorSlug: dai-xu
-dynasty: song
+dynasty: 宋
 dynastyPinyin: song4
 dynastySlug: song
 tags: []
