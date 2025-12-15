@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-feng-ji-ceng-shun-qing-er-shou-qi-yi
-title: 奉寄曾舜卿二首  其一
-titlePinyin: feng4 ji4 ceng2 shun4 qing1 er4 shou3     qi2 yi1
+title: 奉寄曾舜卿二首・其一
+titlePinyin: feng4 ji4 ceng2 shun4 qing1 er4 shou3・qi2 yi1
 titleSlug: feng-ji-ceng-shun-qing-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

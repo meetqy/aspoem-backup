@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-dong-guan-er-jue-qi-yi
-title: 東關二絕  其一
-titlePinyin: dong1 guan1 er4 jue2     qi2 yi1
+title: 東關二絕・其一
+titlePinyin: dong1 guan1 er4 jue2・qi2 yi1
 titleSlug: dong-guan-er-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

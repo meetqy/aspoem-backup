@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-jin-sui-zhu-ying-hong-shu-zun-zu-jian-ri-you-ci-pin-kou-zhan-er-jue-qi-yi
-title: 今歲朱櫻紅熟樽俎間日有此品口占二絕  其一
-titlePinyin: jin1 sui4 zhu1 ying1 hong2 shu2 zun1 zu3 jian4 ri4 you3 ci3 pin3 kou3 zhan4 er4 jue2     qi2 yi1
+title: 今歲朱櫻紅熟樽俎間日有此品口占二絕・其一
+titlePinyin: jin1 sui4 zhu1 ying1 hong2 shu2 zun1 zu3 jian4 ri4 you3 ci3 pin3 kou3 zhan4 er4 jue2・qi2 yi1
 titleSlug: jin-sui-zhu-ying-hong-shu-zun-zu-jian-ri-you-ci-pin-kou-zhan-er-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

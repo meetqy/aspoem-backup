@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-gui-lai-wu-shou-qi-yi
-title: 歸來五首  其一
-titlePinyin: gui1 lai2 wu3 shou3     qi2 yi1
+title: 歸來五首・其一
+titlePinyin: gui1 lai2 wu3 shou3・qi2 yi1
 titleSlug: gui-lai-wu-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

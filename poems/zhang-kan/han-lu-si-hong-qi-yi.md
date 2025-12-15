@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-han-lu-si-hong-qi-yi
-title: 寒蘆四鴻  其一
-titlePinyin: han2 lu2 si4 hong2     qi2 yi1
+title: 寒蘆四鴻・其一
+titlePinyin: han2 lu2 si4 hong2・qi2 yi1
 titleSlug: han-lu-si-hong-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

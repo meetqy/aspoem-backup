@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-gu-ri-qi-er
-title: 穀日  其二
-titlePinyin: gu3 ri4     qi2 er4
+title: 穀日・其二
+titlePinyin: gu3 ri4・qi2 er4
 titleSlug: gu-ri-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-chang-men-yuan-er-shou-yi
-title: 長門怨二首 一
-titlePinyin: chang2 men2 yuan4 er4 shou3   yi1
+title: 長門怨二首・一
+titlePinyin: chang2 men2 yuan4 er4 shou3・yi1
 titleSlug: chang-men-yuan-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

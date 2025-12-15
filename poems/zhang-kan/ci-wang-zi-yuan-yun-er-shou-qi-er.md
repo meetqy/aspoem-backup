@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ci-wang-zi-yuan-yun-er-shou-qi-er
-title: 次王子元韻二首  其二
-titlePinyin: ci4 wang2 zi3 yuan2 yun4 er4 shou3     qi2 er4
+title: 次王子元韻二首・其二
+titlePinyin: ci4 wang2 zi3 yuan2 yun4 er4 shou3・qi2 er4
 titleSlug: ci-wang-zi-yuan-yun-er-shou-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

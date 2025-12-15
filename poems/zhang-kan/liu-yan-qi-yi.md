@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-liu-yan-qi-yi
-title: 六言  其一
-titlePinyin: liu4 yan2     qi2 yi1
+title: 六言・其一
+titlePinyin: liu4 yan2・qi2 yi1
 titleSlug: liu-yan-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

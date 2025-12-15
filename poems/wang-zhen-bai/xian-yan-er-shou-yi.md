@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-xian-yan-er-shou-yi
-title: 僊巖二首 一
-titlePinyin: xian1 yan2 er4 shou3   yi1
+title: 僊巖二首・一
+titlePinyin: xian1 yan2 er4 shou3・yi1
 titleSlug: xian-yan-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

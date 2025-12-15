@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-jia-yuan-er-shou-qi-yi
-title: 家園二首  其一
-titlePinyin: jia1 yuan2 er4 shou3     qi2 yi1
+title: 家園二首・其一
+titlePinyin: jia1 yuan2 er4 shou3・qi2 yi1
 titleSlug: jia-yuan-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

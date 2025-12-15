@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-jian-hu-bie-dao-er-jue-qi-yi
-title: 鑑湖別島二絕  其一
-titlePinyin: jian4 hu2 bie2 dao3 er4 jue2     qi2 yi1
+title: 鑑湖別島二絕・其一
+titlePinyin: jian4 hu2 bie2 dao3 er4 jue2・qi2 yi1
 titleSlug: jian-hu-bie-dao-er-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-chun-ri-er-shou-qi-yi
-title: 春日二首  其一
-titlePinyin: chun1 ri4 er4 shou3     qi2 yi1
+title: 春日二首・其一
+titlePinyin: chun1 ri4 er4 shou3・qi2 yi1
 titleSlug: chun-ri-er-shou-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

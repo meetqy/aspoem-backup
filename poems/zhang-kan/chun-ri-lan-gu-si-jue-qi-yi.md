@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-chun-ri-lan-gu-si-jue-qi-yi
-title: 春日覽古四絕  其一
-titlePinyin: chun1 ri4 lan3 gu3 si4 jue2     qi2 yi1
+title: 春日覽古四絕・其一
+titlePinyin: chun1 ri4 lan3 gu3 si4 jue2・qi2 yi1
 titleSlug: chun-ri-lan-gu-si-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

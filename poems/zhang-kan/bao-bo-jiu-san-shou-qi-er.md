@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-bao-bo-jiu-san-shou-qi-er
-title: 薄薄酒三首  其二
-titlePinyin: bao2 bo2 jiu3 san1 shou3     qi2 er4
+title: 薄薄酒三首・其二
+titlePinyin: bao2 bo2 jiu3 san1 shou3・qi2 er4
 titleSlug: bao-bo-jiu-san-shou-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-za-qu-ge-ci-qie-bo-ming
-title: 雜曲歌辭 妾薄命
-titlePinyin: za2 qu3 ge1 ci2   qie4 bo2 ming4
+title: 雜曲歌辭・妾薄命
+titlePinyin: za2 qu3 ge1 ci2・qie4 bo2 ming4
 titleSlug: za-qu-ge-ci-qie-bo-ming
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

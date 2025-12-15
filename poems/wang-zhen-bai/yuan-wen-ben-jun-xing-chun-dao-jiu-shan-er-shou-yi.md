@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-yuan-wen-ben-jun-xing-chun-dao-jiu-shan-er-shou-yi
-title: 遠聞本郡行春到舊山二首 一
-titlePinyin: yuan3 wen2 ben3 jun4 xing2 chun1 dao4 jiu4 shan1 er4 shou3   yi1
+title: 遠聞本郡行春到舊山二首・一
+titlePinyin: yuan3 wen2 ben3 jun4 xing2 chun1 dao4 jiu4 shan1 er4 shou3・yi1
 titleSlug: yuan-wen-ben-jun-xing-chun-dao-jiu-shan-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-bai-lu-dong-er-shou-yi
-title: 白鹿洞二首 一
-titlePinyin: bai2 lu4 dong4 er4 shou3   yi1
+title: 白鹿洞二首・一
+titlePinyin: bai2 lu4 dong4 er4 shou3・yi1
 titleSlug: bai-lu-dong-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

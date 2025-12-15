@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-jia-yuan-san-ce-er-jue-qi-er
-title: 家園散策二絕  其二
-titlePinyin: jia1 yuan2 san4 ce4 er4 jue2     qi2 er4
+title: 家園散策二絕・其二
+titlePinyin: jia1 yuan2 san4 ce4 er4 jue2・qi2 er4
 titleSlug: jia-yuan-san-ce-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

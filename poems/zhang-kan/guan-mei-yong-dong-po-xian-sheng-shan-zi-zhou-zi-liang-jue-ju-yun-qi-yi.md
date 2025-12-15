@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-guan-mei-yong-dong-po-xian-sheng-shan-zi-zhou-zi-liang-jue-ju-yun-qi-yi
-title: 觀梅用東坡先生山字州字兩絕句韻  其一
-titlePinyin: guan1 mei2 yong4 dong1 po1 xian1 sheng0 shan1 zi4 zhou1 zi4 liang3 jue2 ju4 yun4     qi2 yi1
+title: 觀梅用東坡先生山字州字兩絕句韻・其一
+titlePinyin: guan1 mei2 yong4 dong1 po1 xian1 sheng0 shan1 zi4 zhou1 zi4 liang3 jue2 ju4 yun4・qi2 yi1
 titleSlug: guan-mei-yong-dong-po-xian-sheng-shan-zi-zhou-zi-liang-jue-ju-yun-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3

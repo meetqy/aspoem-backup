@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-zhe-yang-liu-san-shou-san
-title: 折楊柳三首 三
-titlePinyin: zhe2 yang2 liu3 san1 shou3   san1
+title: 折楊柳三首・三
+titlePinyin: zhe2 yang2 liu3 san1 shou3・san1
 titleSlug: zhe-yang-liu-san-shou-san
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

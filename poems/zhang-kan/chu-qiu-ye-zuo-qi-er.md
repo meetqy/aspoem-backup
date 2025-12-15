@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-chu-qiu-ye-zuo-qi-er
-title: 初秋夜坐  其二
-titlePinyin: chu1 qiu1 ye4 zuo4     qi2 er4
+title: 初秋夜坐・其二
+titlePinyin: chu1 qiu1 ye4 zuo4・qi2 er4
 titleSlug: chu-qiu-ye-zuo-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

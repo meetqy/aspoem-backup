@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-yi-yun-he-gan-gong-ti-ting-zhong-tai-hu-shi-er-shou-yi
-title: 依韻和幹公題庭中太湖石二首 一
-titlePinyin: yi1 yun4 he2 gan4 gong1 ti2 ting2 zhong1 tai4 hu2 shi2 er4 shou3   yi1
+title: 依韻和幹公題庭中太湖石二首・一
+titlePinyin: yi1 yun4 he2 gan4 gong1 ti2 ting2 zhong1 tai4 hu2 shi2 er4 shou3・yi1
 titleSlug: yi-yun-he-gan-gong-ti-ting-zhong-tai-hu-shi-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-dai-wu-er-zuo-xiao-zhi-hou-jiu-jiu-shi-ba-jie-qi-liu
-title: 代吳兒作小至後九九詩八解  其六
-titlePinyin: dai4 wu2 er2 zuo4 xiao3 zhi4 hou4 jiu3 jiu3 shi1 ba1 jie3     qi2 liu4
+title: 代吳兒作小至後九九詩八解・其六
+titlePinyin: dai4 wu2 er2 zuo4 xiao3 zhi4 hou4 jiu3 jiu3 shi1 ba1 jie3・qi2 liu4
 titleSlug: dai-wu-er-zuo-xiao-zhi-hou-jiu-jiu-shi-ba-jie-qi-liu
 author: 張侃
 authorPinyin: zhang1 kan3

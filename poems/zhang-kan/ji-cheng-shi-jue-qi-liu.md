@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ji-cheng-shi-jue-qi-liu
-title: 紀程十絕  其六
-titlePinyin: ji4 cheng2 shi2 jue2     qi2 liu4
+title: 紀程十絕・其六
+titlePinyin: ji4 cheng2 shi2 jue2・qi2 liu4
 titleSlug: ji-cheng-shi-jue-qi-liu
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-gan-qiu-shan-wu-shou-qi-si
-title: 感秋扇五首  其四
-titlePinyin: gan3 qiu1 shan4 wu3 shou3     qi2 si4
+title: 感秋扇五首・其四
+titlePinyin: gan3 qiu1 shan4 wu3 shou3・qi2 si4
 titleSlug: gan-qiu-shan-wu-shou-qi-si
 author: 張侃
 authorPinyin: zhang1 kan3

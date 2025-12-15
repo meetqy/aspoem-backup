@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-shao-nian-xing-er-shou-er
-title: 少年行二首 二
-titlePinyin: shao4 nian2 xing2 er4 shou3   er4
+title: 少年行二首・二
+titlePinyin: shao4 nian2 xing2 er4 shou3・er4
 titleSlug: shao-nian-xing-er-shou-er
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

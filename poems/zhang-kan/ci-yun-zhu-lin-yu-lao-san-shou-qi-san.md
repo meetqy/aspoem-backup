@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ci-yun-zhu-lin-yu-lao-san-shou-qi-san
-title: 次韻竹林玉老三首  其三
-titlePinyin: ci4 yun4 zhu2 lin2 yu4 lao3 san1 shou3     qi2 san1
+title: 次韻竹林玉老三首・其三
+titlePinyin: ci4 yun4 zhu2 lin2 yu4 lao3 san1 shou3・qi2 san1
 titleSlug: ci-yun-zhu-lin-yu-lao-san-shou-qi-san
 author: 張侃
 authorPinyin: zhang1 kan3

@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-ben-niu-mei-hua-kai-zui-wan-yin-du-mo-ben-po-weng-he-yang-gong-ji-mei-hua-shi-xin-bi-si-jue-ju-qi-er
-title: 奔牛梅花開最晚因讀墨本坡翁和楊公濟梅花詩信筆四絕句  其二
-titlePinyin: ben1 niu2 mei2 hua1 kai1 zui4 wan3 yin1 du2 mo4 ben3 po1 weng1 he2 yang2 gong1 ji4 mei2 hua1 shi1 xin4 bi3 si4 jue2 ju4     qi2 er4
+title: 奔牛梅花開最晚因讀墨本坡翁和楊公濟梅花詩信筆四絕句・其二
+titlePinyin: ben1 niu2 mei2 hua1 kai1 zui4 wan3 yin1 du2 mo4 ben3 po1 weng1 he2 yang2 gong1 ji4 mei2 hua1 shi1 xin4 bi3 si4 jue2 ju4・qi2 er4
 titleSlug: ben-niu-mei-hua-kai-zui-wan-yin-du-mo-ben-po-weng-he-yang-gong-ji-mei-hua-shi-xin-bi-si-jue-ju-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

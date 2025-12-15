@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-jiu-po-miao-er-shou-qi-er
-title: 救婆廟二首  其二
-titlePinyin: jiu4 po2 miao4 er4 shou3     qi2 er4
+title: 救婆廟二首・其二
+titlePinyin: jiu4 po2 miao4 er4 shou3・qi2 er4
 titleSlug: jiu-po-miao-er-shou-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

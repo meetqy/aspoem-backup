@@ -1,7 +1,7 @@
 ---
 id: wang-zhen-bai-feng-shi-shu-zhai-xiao-song-er-shou-yi
-title: 馮氏書齋小松二首 一
-titlePinyin: feng2 shi4 shu1 zhai1 xiao3 song1 er4 shou3   yi1
+title: 馮氏書齋小松二首・一
+titlePinyin: feng2 shi4 shu1 zhai1 xiao3 song1 er4 shou3・yi1
 titleSlug: feng-shi-shu-zhai-xiao-song-er-shou-yi
 author: 王貞白
 authorPinyin: wang2 zhen1 bai2

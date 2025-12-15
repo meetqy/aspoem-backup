@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-feng-ming-dong-qi-yu-san-jue-qi-er
-title: 鳳鳴洞祈雨三絕  其二
-titlePinyin: feng4 ming2 dong4 qi2 yu3 san1 jue2     qi2 er4
+title: 鳳鳴洞祈雨三絕・其二
+titlePinyin: feng4 ming2 dong4 qi2 yu3 san1 jue2・qi2 er4
 titleSlug: feng-ming-dong-qi-yu-san-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

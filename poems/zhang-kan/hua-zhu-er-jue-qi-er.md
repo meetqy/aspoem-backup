@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-hua-zhu-er-jue-qi-er
-title: 花珠二絕  其二
-titlePinyin: hua1 zhu1 er4 jue2     qi2 er4
+title: 花珠二絕・其二
+titlePinyin: hua1 zhu1 er4 jue2・qi2 er4
 titleSlug: hua-zhu-er-jue-qi-er
 author: 張侃
 authorPinyin: zhang1 kan3

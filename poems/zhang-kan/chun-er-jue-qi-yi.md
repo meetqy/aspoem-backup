@@ -1,7 +1,7 @@
 ---
 id: zhang-kan-chun-er-jue-qi-yi
-title: 蓴二絕  其一
-titlePinyin: chun2 er4 jue2     qi2 yi1
+title: 蓴二絕・其一
+titlePinyin: chun2 er4 jue2・qi2 yi1
 titleSlug: chun-er-jue-qi-yi
 author: 張侃
 authorPinyin: zhang1 kan3
